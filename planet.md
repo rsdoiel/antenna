@@ -1,11 +1,363 @@
 ---
 title: planet
-updated: 2025-07-17 14:08:42
+updated: 2025-07-18 06:07:39
 ---
 
 # planet
 
-(date: 2025-07-17 14:08:42)
+(date: 2025-07-18 06:07:39)
+
+---
+
+## Suspended sentence for man who assaulted train driver
+
+date: 2025-07-18, from: RTÉ News
+
+A 22-year-old man who caused over €60,000 worth of damage by graffitiing train carriages, and assaulted an Iarnród Éireann employee has been given a four year suspended sentence. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0718/1524180-sean-cullen-court/>
+
+---
+
+## Gaza: A people under attack amid the globalization of indifference
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>Our Editorial Director reflects on the Israeli strike on the Holy Family Catholic Church in Gaza amid the absurd escalation of war.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/editorial-andrea-tornielli-gaza-parish.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/editorial-andrea-tornielli-gaza-parish.html>
+
+---
+
+## Father phoned assault accused to say he attacked son
+
+date: 2025-07-18, from: RTÉ News
+
+The father of the 12-year old boy allegedly assaulted with a stick by former Clare hurler Niall Gilligan phoned him from a hospital emergency department to say "you just viciously attacked my son", a court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0718/1524172-niall-gilligan-court/>
+
+---
+
+## Taoiseach denies housing figures going in wrong direction
+
+date: 2025-07-18, from: RTÉ News
+
+Taoiseach Micheál Martin has denied that housing commencement numbers are going in the wrong direction, after figures revealed that commencements had fallen significantly in the first half of the year compared to the same period in recent years. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0718/1524168-housing-figures/>
+
+---
+
+## As war rages on in Ukraine, organised crime is taking new forms
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+Almost four years after Russia’s full-scale invasion, criminal groups in Ukraine are adapting their business models amid displacement, rising trafficking risks and an increased demand for synthetic drugs, the UN Office on Drugs and Crime (UNODC) said in a report published on Friday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165428>
+
+---
+
+## Plunkett family appeal for public help over 1976 murder
+
+date: 2025-07-18, from: RTÉ News
+
+The sister of Dublin woman Elizabeth Plunkett said that a garda request for new information into her death was the "first positive reaction" they have had since her murder 49 years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0718/1524154-plunkett-murder/>
+
+---
+
+## Pope Leo calls for ceasefire in Gaza during phone call with Israeli PM Netanyahu
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>In the wake of the Israeli strike on the Holy Family Catholic Church in Gaza, Pope Leo XIV and Israel's Prime Minister Benjamin Netanyahu speak by phone, with the Pope reaffirming the urgent need to protect places of worship and achieve a ceasefire.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-israel-pm-benjamin-netanyahu-phone-call.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-israel-pm-benjamin-netanyahu-phone-call.html>
+
+---
+
+## 'Hidden homicides' charity established to assist families
+
+date: 2025-07-18, from: RTÉ News
+
+A charity has been established to help families whose loved ones have died in so called "hidden homicides". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0718/1524155-the-katie-trust/>
+
+---
+
+## Man further remanded on bail over possession of firearms
+
+date: 2025-07-18, from: RTÉ News
+
+A 21-year-old man accused of possession of firearms and ammunition allegedly purchased on the dark web last year has been remanded on continuing bail. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0718/1524156-shane-kinsella-court/>
+
+---
+
+## Status Yellow warning for rain issued for Cork and Kerry
+
+date: 2025-07-18, from: RTÉ News
+
+Heavy rain is set to hit the south of the country tomorrow with Met Éireann issuing a Status Yellow warning for counties Cork and Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0718/1524153-weather-warnings/>
+
+---
+
+## Caritas Jerusalem: Places of worship, civilian lives must be respected
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>Following the attack on Holy Family Catholic parish in Gaza, the Caritas confederation releases statements of solidarity and calls for “respect for the sacredness of life and the spaces that protect it.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/caritas-jerusalem-it-would-have-been-a-massacre.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/caritas-jerusalem-it-would-have-been-a-massacre.html>
+
+---
+
+## Pope calls Patriarch Pizzaballa to express closeness after Gaza parish attack
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>Pope Leo XIV has called Cardinal Pierbattista Pizzaballa as the Latin Patriarch of Jerusalem enters Gaza to visit the Holy Family Catholic Church after the Israeli strike that killed 3 people and injured several others taking refuge there.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-calls-patriarch-pizzaballa-gaza-parish-attack.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-calls-patriarch-pizzaballa-gaza-parish-attack.html>
+
+---
+
+## Bondi visits Alcatraz amid talks to reopen prison
+
+date: 2025-07-18, from: RTÉ News
+
+US Attorney General Pam Bondi visited Alcatraz prison, weeks after President Donald Trump said he would order the long-shuttered facility, now operated as a historical site, to once again house violent criminals. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0718/1524126-us-alcatraz/>
+
+---
+
+## Plans unveiled for new NI championship links course
+
+date: 2025-07-18, from: RTÉ News
+
+Plans to create the first championship-standard links golf course in Northern Ireland for more than 100 years have been announced. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0718/1524124-northern-ireland-golf/>
+
+---
+
+## North Korea bars foreign tourists from new seaside resort
+
+date: 2025-07-18, from: RTÉ News
+
+North Korea has barred foreigners from a newly opened beach resort, the country's tourism administration said this week, just days after Russia's top diplomat visited the area. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0718/1524106-north-korea-resort/>
+
+---
+
+## The Open Championship Day 2 updates: McIlroy on course
+
+date: 2025-07-18, from: RTÉ News
+
+Rory McIlroy is the first of the Irish competitors in action at the Co Antrim links, starting his round three shots off the pace. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0718/1524094-the-open-championship-day-2-updates/>
+
+---
+
+## Zelensky hails 'essential' EU sanctions on Russia
+
+date: 2025-07-18, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky has hailed the EU's new round of sanctions on Russia as "essential and timely", as Moscow intensifies strikes after invading his country almost three-and-a-half years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0718/1524099-eu-russia/>
+
+---
+
+## Trump's name on 2003 birthday letter to Epstein, says WSJ
+
+date: 2025-07-18, from: RTÉ News
+
+Donald Trump's name appeared on a 2003 personal note to Jeffrey Epstein, the Wall Street Journal has reported, with the US president responding that the letter was fake. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0718/1524095-donald-trump-jeffrey-epstein/>
+
+---
+
+## Majority of Dubliners to see property tax rise next year
+
+date: 2025-07-18, from: RTÉ News
+
+The majority of Dubliners will see their property tax rise next year as Dublin city councillors are set to become the latest local authority in the capital to vote to increase the tax. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0718/1524062-dublin-property-tax/>
+
+---
+
+## Tipp fans embrace underdog tag as buzz builds for final
+
+date: 2025-07-18, from: RTÉ News
+
+As Tipperary and Cork prepare to face off in this year's All-Ireland hurling senior hurling final, locals in the Premier County are abuzz at a chance to take a first Liam MacCarthy cup since 2019. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0718/1524052-tipperary-all-ireland-fans/>
+
+---
+
+## Inside Ireland's multibillion euro infrastructure plan
+
+date: 2025-07-18, from: RTÉ News
+
+The National Development Plan is the Government's scheme to build infrastructure for the coming years. With the Coalition reviewing spending, RTÉ Economics and Public Affairs Editor David Murphy answers some of the most common questions associated with the scheme. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0718/1524051-national-development-plan/>
+
+---
+
+## 'The Late Show with Stephen Colbert' to end in May 2026
+
+date: 2025-07-18, from: RTÉ News
+
+'The Late Show with Stephen Colbert,' the most-watched late-night programme on US broadcast television and a frequent platform of satire aimed at President Donald Trump, will end its 10-year run on CBS in May 2026, the network said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0718/1524090-the-late-show-us/>
+
+---
+
+## Syria troops quit Sweida as clashes leave nearly 600 dead
+
+date: 2025-07-18, from: RTÉ News
+
+Syrian troops have pulled out of the Druze heartland of Sweida on the orders of the Islamist-led government, following days of deadly clashes that killed nearly 600 people, according to a war monitor. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0718/1524088-syria/>
+
+---
+
+## Trump diagnosed with vein condition, says White House
+
+date: 2025-07-18, from: RTÉ News
+
+US President Donald Trump has been diagnosed with a common, benign vein condition, the White House has said, following speculation about his heavily bruised hand and swollen legs. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0718/1524086-donald-trump-health/>
+
+---
+
+## Number of properties available under HAP scheme drops
+
+date: 2025-07-17, from: RTÉ News
+
+The number of properties that were available to rent within the discretionary rate of the Housing Assistance Payment scheme last month fell to 32. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0718/1524065-hap-properties-ireland/>
+
+---
+
+## Europeans call on Iran to resume immediate nuclear talks
+
+date: 2025-07-17, from: RTÉ News
+
+France, Britain and Germany have told Iran they wanted it to resume diplomacy immediately over its nuclear programme and warned if there were no concrete steps by the end of the summer they would restore UN sanctions. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0718/1524085-iran-nuclear-talks/>
+
+---
+
+## 'Beggars belief' HHC available without restrictions
+
+date: 2025-07-17, from: RTÉ News
+
+The College of Psychiatrists of Ireland has said it "beggars belief" that products containing a man-made drug which produces similar effects to cannabis, and which it says has done major damage to people's mental health, are still available without restrictions in this country. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0718/1524074-health-vapes-study/>
+
+---
+
+## Trump denies writing birthday message to Epstein described in Wall Street Journal report
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/22bbc7cc-f853-4b6e-947f-9ee2840fc633,1752839550365/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a suit' width='620' height='349' title='U.S. President Donald Trump speaks to the media as he departs the White House on July 15, 2025 in Washington, DC. Trump is traveling to Pittsburgh, Pennsylvania, to speak at an artificial intelligence and energy summit.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-bondi-epstein-wsj-report-denial-1.7588191?cmp=rss>
 
 ---
 
@@ -18,6 +370,18 @@ Austrian extreme sports pioneer Felix Baumgartner, famed for a record-breaking 2
 <br> 
 
 <https://www.rte.ie/news/2025/0717/1524075-pioneering-skydiver-felix-baumgartner-dies-paragliding/>
+
+---
+
+## Pioneering skydiver Felix Baumgartner dies paragliding
+
+date: 2025-07-17, from: RTÉ News
+
+Austrian extreme sports pioneer Felix Baumgartner, famed for a record-breaking 2012 skydive from the edge of space, has died in a paragliding accident in central Italy, local police said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0717/1524075-felix-baumgartner/>
 
 ---
 
@@ -54,6 +418,18 @@ Two Native American nations have gifted a handwoven rug to the people of Ireland
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0717/1524054-native-americans-gift-ireland/>
+
+---
+
+## Trump diagnosed with vein condition after noticing 'mild swelling' in his legs
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7587960.1752788222!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-speaking-in-east-room-of-the-white-house.jpg' alt='U.S. President Donald Trump speaking in the East Room of the White House.' width='620' height='349' title='U.S. President Donald Trump speaks during a ceremony to sign the &quot;Halt All Lethal Trafficking of Fentanyl Act,&quot; in the East Room of the White House, Wednesday, July 16, 2025, in Washington.'/><p>U.S. President Donald Trump recently had a medical checkup after noticing "mild swelling" in his lower legs and was found to have a condition common in older adults that causes blood to pool in his veins, the White House said Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-health-chronic-venous-insufficiency-1.7587947?cmp=rss>
 
 ---
 
@@ -109,7 +485,7 @@ date: 2025-07-17, from: CBC, Indigenious News
 
 date: 2025-07-17, from: RTÉ News
 
-A young boy from Limerick suffered fatal brain damage after choking on a cocktail sausage at his home three years ago, an inquest has heard. 
+A four-year-old boy from Limerick suffered fatal brain damage after choking on a cocktail sausage at his home three years ago, an inquest has heard. 
 
 <br> 
 
@@ -229,6 +605,18 @@ A witness at the trial of a former Clare hurler, accused of assaulting a 12-year
 
 ---
 
+## McIlroy and Lowry well placed after Day 1 in Portrush
+
+date: 2025-07-17, from: RTÉ News
+
+Rory McIlroy and Shane Lowry carded steady opening rounds of 70 to leave themselves well placed after Day 1 of the Open Championship at Royal Portrush. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0717/1523991-olesen-takes-early-lead-as-mckibbin-makes-solid-start/>
+
+---
+
 ## Tánaiste criticises Opposition for wanting to spend more
 
 date: 2025-07-17, from: RTÉ News
@@ -281,7 +669,7 @@ A group of Indigenous youth from the United States, some as young as seven, visi
 
 date: 2025-07-17, from: United Nations, Top Stories
 
-Pakistan’s monsoon emergency deepened on Thursday as authorities declared disaster zones across parts of eastern Punjab state after lethal cloudbursts and flash floods killed dozens in a single day. 
+Pakistan’s monsoon emergency deepened on Thursday as authorities declared disaster zones across parts of eastern Punjab province after lethal cloudbursts and flash floods killed dozens in a single day. 
 
 <br> 
 
@@ -305,7 +693,7 @@ The UN High Commissioner for Human Rights, Volker Türk has deplored deadly atta
 
 date: 2025-07-17, from: United Nations, Top Stories
 
-As years of war in Ukraine have left millions without unreliable heating and limited means to pay rising utility costs, the UN and humanitarian partners launched this Thursday a $277 million appeal to support the most vulnerable people during the coming winter.&nbsp;&nbsp; 
+As years of war in Ukraine have left millions with unreliable heating and limited means to pay rising utility costs, the UN and humanitarian partners launched a $277 million appeal this Thursday to support the most vulnerable people during the coming winter.&nbsp;&nbsp; 
 
 <br> 
 
@@ -315,13 +703,49 @@ As years of war in Ukraine have left millions without unreliable heating and lim
 
 ## From crisis to classroom: How the UN supports education in conflict zones
 
-date: 2025-07-17, from: United Nations, Culture and Education
+date: 2025-07-17, from: United Nations, Top Stories
 
 From makeshift furniture in Gaza to metro classrooms in Ukraine and solar-powered tablets in Sudan, the UN is working to bring education to millions of crisis-affected children. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165417>
+
+---
+
+## UN chief reports progress in Cyprus talks, urges swift implementation of trust measures
+
+date: 2025-07-17, from: United Nations, Top Stories
+
+Reporting “constructive” discussions on Cyprus, UN Secretary‑General António Guterres announced on Thursday that four previously agreed trust‑building measures have been realized, technical work continues on two others, and the parties have agreed to expand cooperation on youth, environment, culture and civil society. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165427>
+
+---
+
+## UN sounds alarm over Syria as sectarian clashes and Israeli strikes escalate
+
+date: 2025-07-17, from: United Nations, Top Stories
+
+A surge in sectarian violence in southern Syria and Israeli airstrikes reaching central Damascus have pushed the war‑scarred country into a volatile juncture, a senior UN official said on Thursday, warning that renewed violence could shatter prospects for peace and fuel wider regional instability. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165426>
+
+---
+
+## World News in Brief: Violence spurs displacement in Syria, Israeli military moves in Lebanon, mall fire kills dozens in Iraq
+
+date: 2025-07-17, from: United Nations, Top Stories
+
+The UN humanitarian office (OCHA) reported mass displacement in Sweida, Syria, after five days of sectarian violence between Bedouin tribal fighters, government forces and Druze militias.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165425>
 
 ---
 
@@ -596,6 +1020,18 @@ President Michael D Higgins is set to release an album of poetry later this year
 <br> 
 
 <https://www.rte.ie/news/2025/0717/1523934-president-poetry/>
+
+---
+
+## President Michael D Higgins to release album of poetry
+
+date: 2025-07-17, from: RTÉ News
+
+President Michael D Higgins is set to release an album of poetry later this year. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0717/1523934-president-poetry/>
 
 ---
 
@@ -3307,7 +3743,7 @@ A breakthrough HIV drug that only needs to be injected twice a year to offer nea
 
 ## ‘A compass towards progress’ – but key development goals remain way off track
 
-date: 2025-07-14, from: United Nations, Top Stories
+date: 2025-07-14, from: United Nations, Economic Development
 
 Global life expectancy increased by an astonishing five years between 2000 and 2019. And then since the COVID-19 pandemic, it slid backwards by almost two. More than 110 million children have entered school since 2015 – but by 2023, 272 million children still had no access to the classroom.&nbsp; 
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-17 14:08:52
+updated: 2025-07-18 06:07:49
 ---
 
 # retro computing
 
-(date: 2025-07-17 14:08:52)
+(date: 2025-07-18 06:07:49)
+
+---
+
+## R-Comp 5erving up info about new kit to ROUGOL – 21st July
+
+date: 2025-07-18, from: RiscOS Story
+
+R-Comp recently announced two new systems, both based around the Raspberry Pi 5 compute module &#8211; the 5idekick, and the Pi5erve &#8211; and on Monday, 21st July Andrew Rawnsley will be talking to the RISC OS User Group of London (ROUGOL) about these machines and other recent developments and updates. Andrew plans to begin his talk on the subject of NVMe and the block drivers, venturing in the direction of the multi-headed Hydra systems available from R-Comp, and that will in turn bring the talk around to 5idekick (which in&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/r-comp-5erving-up-info-to-rougol-21st-july/>
+
+---
+
+## Plasma Bigscreen Returns
+
+date: 2025-07-17, from: Linux Magazine
+
+<p>A developer discovered that the Plasma Bigscreen feature had been sitting untouched, so he decided to do something about it.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Plasma-Bigscreen-Returns>
 
 ---
 

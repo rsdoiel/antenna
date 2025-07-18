@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-07-17 14:08:50
+updated: 2025-07-18 06:07:48
 ---
 
 # libraries
 
-(date: 2025-07-17 14:08:50)
+(date: 2025-07-18 06:07:48)
+
+---
+
+## Chefs de Cuisine: Perspectives from Publishing’s Top Table — Melissa Junior
+
+date: 2025-07-18, from: Scholarly Kitchen
+
+<p>Robert Harington talks to Melissa Junior, Executive Publisher at The American Society for Microbiology, in this series of perspectives from some of Publishing’s leaders across the non-profit and for-profit sectors of our industry.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/18/chefs-de-cuisine-perspectives-from-publishings-top-table-melissa-junior/">Chefs de Cuisine: Perspectives from Publishing&#8217;s Top Table &#8212; Melissa Junior</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/18/chefs-de-cuisine-perspectives-from-publishings-top-table-melissa-junior/>
+
+---
+
+## Celebrating Disability Pride Month 2025
+
+date: 2025-07-18, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/07/Untitled-design-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/07/Untitled-design-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/07/Untitled-design-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/07/Untitled-design.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>July is Disability Pride Month. This blog post features book selections from the CSUN University Library collection that highlight themes of disability justice, history, and&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/07/18/celebrating-disability-pride-month-2025/>
 
 ---
 

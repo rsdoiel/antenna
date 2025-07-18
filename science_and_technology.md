@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-07-17 14:08:46
+updated: 2025-07-18 06:07:43
 ---
 
 # science and technology
 
-(date: 2025-07-17 14:08:46)
+(date: 2025-07-18 06:07:43)
+
+---
+
+## Backup tool Rescuezilla resurrects itself across six Ubuntus
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>2.6.1 adds Plucky Puffin and Firefox actually works this time</h4> <p>Rescuezilla 2.6.1 has introduced a new version based on the latest interim Ubuntu release, while also updating its existing builds on older versions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/rescuezilla_261/>
+
+---
+
+## Hubble Digs Up Galactic Time Capsule
+
+date: 2025-07-18, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the field of stars that is NGC 1786. The globular cluster is located in the Large Magellanic Cloud (LMC), a small satellite galaxy of the Milky Way Galaxy that is approximately 160,000 light-years away from Earth. NGC 1786 itself is in the constellation Dorado. It was discovered in […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-digs-up-galactic-time-capsule/>
+
+---
+
+## Time for Britain's CMA to strike hard – or risk losing the cloud competition fight
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>With watchdog set to publish report into health of market next month, will it hold AWS and Microsoft&#39;s feet to the fire?</h4> <p><strong>Comment</strong>  The UK&#39;s ambition to become a global AI superpower hinges on a vibrant and competitive cloud market. The next few days will show if its competition regulator really appreciates both the pace of change and the scale of remedies needed to achieve both of these things.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/comment_on_cma/>
+
+---
+
+## The Smoot – How an MIT prank became a lasting unit of measurement
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>We spoke to the smoot&#39;s namesake</h4> <p><strong>Interview</strong>  On a chilly October evening in 1958, a group of MIT students shuffled onto the Harvard Bridge, which separates the university town of Cambridge from Boston proper. The shortest among them lay down on the sidewalk at the bridge&#39;s start, his friends marked his length, he got up, moved forward, and repeated the process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/smoot_mit_measurement/>
+
+---
+
+## ‘I nearly died after flying thousands of miles to install a power cord for the NSA’
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>This job was a car wreck in more than one way</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>&#39;s Friday column that shares your terrifying tech support stories.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/on_call/>
+
+---
+
+## EU cloud gang wins Microsoft concessions, but fair software licensing group brands them 'stalling tactic'
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Pay-as-you-go model, privacy protections agreed – but critics say it just buys &#39;Microsoft more time to lock in customers&#39;</h4> <p>A trade group of European cloud providers has claimed a small victory in bringing lower prices and more flexibility in deploying Microsoft software on their infrastructure, though the Coalition for Fair Software Licensing has blasted it as a &#34;stalling tactic&#34; by the software giant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/cispe_microsoft_concessions/>
+
+---
+
+## VMware slows release cadence for flagship Cloud Foundation suite, but extends support
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Analysts have warned Broadcom may slow innovation</h4> <p>VMware on Wednesday announced it has extended the time between major releases from two years to three and extended support for those releases to six years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/vmware_product_lifecycle_changes/>
+
+---
+
+## OpenAI deputizes ChatGPT to serve as an agent that uses your computer
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>LLM given keys to the web, told to behave and observe safeguards</h4> <p>OpenAI&#39;s ChatGPT has graduated from chatbot to agent, at least for paying subscribers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/openai_debuts_chatgpt_agent/>
+
+---
+
+## Laid-off AWS employee describes cuts as 'cold and soulless'
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Insiders tell <i>The Register</i> that a company-wide automation push means jobs are disappearing</h4> <p>Amazon.com CEO Andy Jassy&#39;s predictions that automation would cost jobs at the company have proven accurate at Amazon Web Services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/aws_sheds_jobs/>
+
+---
+
+## Google sues 25 alleged BadBox 2.0 botnet operators, all of whom are in China
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Ads giant complains of damage to its reputation and finances ... and crime, too</h4> <p>Google has filed a lawsuit against 25 unnamed individuals in China it accuses of breaking into more than 10 million devices worldwide and using them to build a botnet, called BadBox 2.0, and then to carry out other cybercrimes and fraud.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/google_sues_25_unnamed_chinese/>
+
+---
+
+## AWS goes full speed ahead on the AI agent train
+
+date: 2025-07-17, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Running on Amazon Bedrock, AgentCore aims to pave the path from prototype to production</h4> <p><strong>Video</strong>  Amazon Web Services (AWS) on Wednesday previewed a service called Bedrock AgentCore to help organizations put AI agents into business-ready production.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/aws_agentcore_ai/>
+
+---
+
+## TSMC aims to make 30% of high-end chips in US with Arizona fab build out
+
+date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+
+<h4>Shovels in the dirt at Fab 3 as Fab 2’s 3nm ramp charges in several quarters early</h4> <p>TSMC says it will ramp up production at its second fab site in Arizona earlier than initially expected as it looks to shift nearly a third of its leading-edge wafer output stateside.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/17/tsmc_q2_ramp/>
 
 ---
 
@@ -107,9 +251,9 @@ date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
 
 ## Fujitsu sorry for Post Office horror – but still cashing big UK govt checks
 
-date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+date: 2025-07-17, updated: 2025-07-18, from: The Register (UK I.T. News)
 
-<h4>Non-competitive £220M datacenter deal with tax collector tops £510M pile of public money</h4> <p>Fujitsu has been awarded around £510 million ($682 million) in UK public sector contracts since a TV dramatization of the Horizon Post Office scandal – including a recent £220 million ($294 million) deal with the UK tax collector, awarded without competition.…</p> 
+<h4>Non-competitive £220M datacenter deal with tax collector tops £510M pile of public money</h4> <p><strong>Updated</strong>  Fujitsu has been awarded around £510 million ($682 million) in UK public sector contracts since a TV dramatization of the Horizon Post Office scandal – including a recent £220 million ($294 million) deal with the UK tax collector, awarded without competition.…</p> 
 
 <br> 
 
@@ -234,6 +378,18 @@ date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/17/intel_layoffs/>
+
+---
+
+## This month in Servo: network inspector, a11y first steps, WebDriver, and more!
+
+date: 2025-07-17, updated: 2025-07-17, from: Servo blog
+
+ 
+
+<br> 
+
+<https://servo.org/blog/2025/07/17/this-month-in-servo/>
 
 ---
 

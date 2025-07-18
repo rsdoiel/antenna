@@ -1,11 +1,77 @@
 ---
 title: food
-updated: 2025-07-17 14:08:54
+updated: 2025-07-18 06:07:51
 ---
 
 # food
 
-(date: 2025-07-17 14:08:54)
+(date: 2025-07-18 06:07:51)
+
+---
+
+## One Bucket Of Latte Please
+
+date: 2025-07-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A new viral coffee TikTok trend emerges. 
+
+<br> 
+
+<https://sprudge.com/one-bucket-of-latte-please-379339.html>
+
+---
+
+## Mexican Candy Shot Recipe
+
+date: 2025-07-18, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/mexican-candy-shot/" title="Mexican Candy Shot Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A Mexican Candy Shot with salt rim" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Mexican-Candy-Shot-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make this easy spicy Mexican Candy Shot with tequila, watermelon schnapps, hot sauce and Tajín, with instructions for a single shot or party-size batch!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/mexican-candy-shot/">Mexican Candy Shot Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/mexican-candy-shot/>
+
+---
+
+## How Cafes Can Get the Most Out of Instagram in 2025
+
+date: 2025-07-18, from: The Fresh Cup
+
+<p>Instagram still matters for coffee shops, but the playbook is changing. These are the strategies that hold up in 2025.</p>
+<p>The post <a href="https://freshcup.com/how-cafes-can-get-the-most-out-of-instagram-in-2025/">How Cafes Can Get the Most Out of Instagram in 2025</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-cafes-can-get-the-most-out-of-instagram-in-2025/>
+
+---
+
+## Stovetop Burgers and More Recipes We Made This Week
+
+date: 2025-07-18, from: Bon Appetet
+
+Like pasta with no-cook cherry tomato sauce and cheesecake brownie cookies. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-july-2025>
+
+---
+
+## The Starbucks Secret Menu Is Officially Live—Here’s the Catch
+
+date: 2025-07-18, from: Taste of Home
+
+<p>From whispers on Reddit to the Starbucks app, the not-so-secret menu is finally here.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-secret-menu-july-2025/">The Starbucks Secret Menu Is Officially Live—Here&#8217;s the Catch</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-secret-menu-july-2025/>
 
 ---
 
@@ -291,7 +357,7 @@ date: 2025-07-16, from: The Sprudge
 
 date: 2025-07-16, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/pepperpot/" title="Guyanese Pepperpot (Rich &amp; Spicy Caribbean Stew)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chunky Pepperpot in a large pot, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This bold Caribbean stew is rich with tradition and deep flavor, made with slow-braised meat, warm spices, fiery chili, and cassareep. It’s especially popular during the holidays, but it’s so good, you’ll want it all year long.</p>
+<a href="https://www.chilipeppermadness.com/recipes/pepperpot/" title="Guyanese Pepperpot (Rich &amp; Spicy Caribbean Stew)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chunky Pepperpot in a large pot, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pepperpot-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This bold Caribbean stew is rich with tradition and deep flavor, made with slow-braised meat, warm spices, fiery chili, and cassareep. It’s especially popular during the holidays, but it’s so good, you’ll want it all year long.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/pepperpot/">Guyanese Pepperpot (Rich &amp; Spicy Caribbean Stew)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-07-17 14:08:49
+updated: 2025-07-18 06:07:46
 ---
 
 # games
 
-(date: 2025-07-17 14:08:49)
+(date: 2025-07-18 06:07:46)
+
+---
+
+## Big year for hole
+
+date: 2025-07-18, updated: 2025-07-17, from: Polygon Website
+
+Take a peek at this year’s video game release calendar and you can spot a few 2025 trends starting to form. We’re seeing the return of the kart racer thanks to Mario Kart World, with Sonic Crossworlds and Kirby Air Riders following close behind. Soccer is having a moment thanks to Despelote and Rematch, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613711/hole-games-2025-dk-bananza-dig-about-hole>
+
+---
+
+## The scariest movie of modern times is being rescued from streaming
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+When Evil Lurks, the gory, gloriously devastating horror movie from Argentine filmmaker Demián Rugna, sent genre freaks spiraling when it arrived in 2023. Us included.&#160; “Strong performances, huge shocks, and a heavy sense of inevitability make this horror movie terrifying,” we wrote in our review at the time. “Rugna offers up some tremendous foreshadowing designed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/613872/when-evil-lurks-4k-blu-ray>
+
+---
+
+## No Sleep for Kaname Date cements the Somnium Files as gaming&#8217;s truest sitcom
+
+date: 2025-07-17, updated: 2025-07-10, from: Polygon Website
+
+It didn’t take long for No Sleep For Kaname Date, the third installment of Spike Chunsoft’s AI: The Somnium Files series, to get an audible groan out of me. That was thanks to two words I’ve grown sick of over the last six years: porno mag. Those words will either mean nothing to you or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/612240/no-sleep-for-kaname-date-ai-the-somnium-files-review>
+
+---
+
+## Lagoon Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
+
+Banandium Gems are golden bananas scattered around the layers in Donkey Kong Bananza. You’ll find dozens of these collectibles in the Lagoon Layer. The Lagoon Layer is home to, well, a lagoon, and to the wise Kong Elder. Some of the Banandium Gems in the this layer will require you to adjust the water level [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/613695/lagoon-layer-banandium-gem-golden-banana-locations-list-map-all>
 
 ---
 

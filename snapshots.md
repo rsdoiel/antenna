@@ -1,11 +1,83 @@
 ---
 title: snapshots
-updated: 2025-07-17 14:08:56
+updated: 2025-07-18 06:07:54
 ---
 
 # snapshots
 
-(date: 2025-07-17 14:08:56)
+(date: 2025-07-18 06:07:54)
+
+---
+
+## I Like People to Look Like People
+
+date: 2025-07-18, updated: 2025-07-18, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/18/i-like-people-to-look-like-people/>
+
+---
+
+## Last Weak Tonight
+
+date: 2025-07-18, updated: 2025-07-18, from: Tedium site
+
+The decision to shut down Stephen Colbert’s long-running late-night show underlines a hard-to-miss point: It might be time to work around the studios for our comedic commentary. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17099296/colbert-ending-cbs-paramount-skydance>
+
+---
+
+## An Updated NIH and Publisher Guidance: What Authors Need to Know about NIH’s Public Access Policy
+
+date: 2025-07-18, from: Authors Union blogs
+
+In June, we published an FAQ for authors and librarians to give some guidance on how they might respond to NIH’s accelerated implementation of its public access plan, which requires immediate availability of sponsored research articles upon publication. Our FAQ from June is still good advice, but since then both the NIH and several publishers have updated their guidance and so we are giving some additional information about the latest here. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/18/an-update-nih-and-publisher-guidance-what-authors-need-to-know-about-nihs-public-access-policy/>
+
+---
+
+## Inequality Set Free
+
+date: 2025-07-18, from: Paul Krugman
+
+And other self-referential stuff 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/inequality-set-free>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-18, from: Robert's feed at BlueSky)
+
+True to point 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lu7k4wwfck2r>
+
+---
+
+## Sex, Violence, and Ethics: Trying to Teach Grok a Lesson
+
+date: 2025-07-17, from: Gary Marcus blog
+
+A strange new world, presented mostly without comment 
+
+<br> 
+
+<https://garymarcus.substack.com/p/sex-violence-and-ethics-trying-to>
 
 ---
 
@@ -50,7 +122,7 @@ date: 2025-07-17, updated: 2025-07-17, from: Simon Willison’s Weblog
 <p>Codex churned for a <em>13 minutes</em>! I was sat chatting in a coffee shop, occasionally checking the logs to see what it was up to.</p>
 <p>It tried a whole bunch of approaches, all involving running the Playwright Python library to interact with the site. You can see <a href="https://chatgpt.com/s/cd_687945dea5f48191892e0d73ebb45aa4">the full transcript here</a>. It includes notes like "<em>Looks like xxd isn't installed. I'll grab "vim-common" or "xxd" to fix it.</em>".</p>
 <p>Eventually it downloaded an enormous obfuscated chunk of JavaScript called <a href="https://opensauce.com/wp-content/uploads/2025/07/schedule-overview-main-1752724893152.js">schedule-overview-main-1752724893152.js</a> (316KB) and then ran a complex sequence of grep, grep, sed, strings, xxd and dd commands against it to figure out the location of the raw schedule data in order to extract it out.</p>
-<p>Here's the eventual <a href="https://github.com/simonw/.github/blob/f671bf57f7c20a4a7a5b0642837811e37c557499/extract_schedule.py">extract_schedule.py</a> Python script it wrote, which uses Playwright to save that <code>schedule-overview-main-1752724893152.js</code> file and then extracts the raw data using the following code (which calls Node.js inside Python, for no apparent reason):</p>
+<p>Here's the eventual <a href="https://github.com/simonw/.github/blob/f671bf57f7c20a4a7a5b0642837811e37c557499/extract_schedule.py">extract_schedule.py</a> Python script it wrote, which uses Playwright to save that <code>schedule-overview-main-1752724893152.js</code> file and then extracts the raw data using the following code (which calls Node.js inside Python, just so it can use the JavaScript <code>eval()</code> function):</p>
 <pre><span class="pl-s1">node_script</span> <span class="pl-c1">=</span> (
     <span class="pl-s">"const fs=require('fs');"</span>
     <span class="pl-s">f"const d=fs.readFileSync('<span class="pl-s1"><span class="pl-kos">{</span><span class="pl-s1">tmp_path</span><span class="pl-kos">}</span></span>','utf8');"</span>
@@ -69,7 +141,7 @@ date: 2025-07-17, updated: 2025-07-17, from: Simon Willison’s Weblog
 <li>Using ChatGPT Canvas and o3, since unlike Claude Artifacts a Canvas can fetch data from remote URLs if you allow-list that domain. I later found out that <a href="https://chatgpt.com/share/687948b7-e8b8-8006-a450-0c07bdfd7f85">this had worked</a> when I viewed it on my laptop, but on my phone it threw errors so I gave up on it.</li>
 <li>Uploading the JSON to Claude and telling it to build an artifact that read the file directly - this <a href="https://claude.ai/share/25297074-37a9-4583-bc2f-630f6dea5c5d">failed with an error</a> "undefined is not an object (evaluating 'window.fs.readFile')". The Claude 4 system prompt <a href="https://simonwillison.net/2025/May/25/claude-4-system-prompt/#artifacts-the-missing-manual">had lead me to expect this to work</a>, I'm not sure why it didn't.</li>
 <li>Having Claude copy the full JSON into the artifact. This took too long - typing out 63KB of JSON is not a sensible use of LLM tokens, and it flaked out on me when my connection went intermittent driving through a tunnel.</li>
-<li>Telling Claude to fetch from the URL to that schedule JSON instead. This was my last resort because the Claude Artifacts UI blocks access to external URLs, so you have to copy and paste the code out to a separate interface (on an iPhone, which still lacks a "select all" button) so it's a frustrating process.</li>
+<li>Telling Claude to fetch from the URL to that schedule JSON instead. This was my last resort because the Claude Artifacts UI blocks access to external URLs, so you have to copy and paste the code out to a separate interface (on an iPhone, which still lacks a "select all" button) making for a frustrating process.</li>
 </ol>
 <p>That final option worked! Here's the full sequence of prompts I used with Claude to get to a working implementation - <a href="https://claude.ai/share/e391bbcc-09a2-4f86-9bec-c6def8fc8dc9">full transcript here</a>:</p>
 <blockquote>
@@ -108,9 +180,26 @@ date: 2025-07-17, updated: 2025-07-17, from: Simon Willison’s Weblog
 <p>The web app makes 176 requests and downloads 130 megabytes.</p>
 </blockquote>
 <p>And yeah, it did! Turns out those speaker avatar images weren't optimized, and there were over 170 of them.</p>
-<p>I told <a href="https://chatgpt.com/s/cd_6879631d99c48191b1ab7f84dfab8dea">a fresh Codex instance</a> "Remove the speaker avatar images from open-sauce-2025.html" and now the page weights 93.58 KB.</p>
+<p>I told <a href="https://chatgpt.com/s/cd_6879631d99c48191b1ab7f84dfab8dea">a fresh Codex instance</a> "Remove the speaker avatar images from open-sauce-2025.html" and now the page weighs 93.58 KB - about 1,400 times smaller!</p>
+<h4 id="update-2-improved-accessibility">Update 2: Improved accessibility</h4>
+<p>That same commenter <a href="https://news.ycombinator.com/item?id=44597405#44597808">on Hacker News</a>:</p>
+<blockquote>
+<p>It's also <code>&lt;div&gt;</code> soup and largely inaccessible.</p>
+</blockquote>
+<p>Yeah, this HTML isn't great:</p>
+<div class="highlight highlight-source-js"><pre><span class="pl-s1">dayContainer</span><span class="pl-kos">.</span><span class="pl-c1">innerHTML</span> <span class="pl-c1">=</span> <span class="pl-s1">sessions</span><span class="pl-kos">.</span><span class="pl-c1">map</span><span class="pl-kos">(</span><span class="pl-s1">session</span> <span class="pl-c1">=&gt;</span> `
+    &lt;div class="session-card"&gt;
+        &lt;div class="session-header"&gt;
+            &lt;div&gt;
+                &lt;span class="session-time"&gt;<span class="pl-s1"><span class="pl-kos">${</span><span class="pl-s1">session</span><span class="pl-kos">.</span><span class="pl-c1">time</span><span class="pl-kos">}</span></span>&lt;/span&gt;
+                &lt;span class="length-badge"&gt;<span class="pl-s1"><span class="pl-kos">${</span><span class="pl-s1">session</span><span class="pl-kos">.</span><span class="pl-c1">length</span><span class="pl-kos">}</span></span> min&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class="session-location"&gt;<span class="pl-s1"><span class="pl-kos">${</span><span class="pl-s1">session</span><span class="pl-kos">.</span><span class="pl-c1">where</span><span class="pl-kos">}</span></span>&lt;/<span class="pl-s1">div</span><span class="pl-c1">&gt;</span>
+        &lt;/<span class="pl-s1">div</span><span class="pl-c1">&gt;</span></pre></div>
+<p>I <a href="https://github.com/simonw/tools/issues/36">opened an issue</a> and had both Claude Code and Codex look at it. Claude Code <a href="https://github.com/simonw/tools/issues/36#issuecomment-3085516331">failed to submit a PR</a> for some reason, but Codex <a href="https://github.com/simonw/tools/pull/37">opened one</a> with a fix that sounded good to me when I tried it with VoiceOver on iOS (using <a href="https://codex-make-open-sauce-2025-h.tools-b1q.pages.dev/open-sauce-2025">a Cloudflare Pages preview</a>) so I landed that. Here's <a href="https://github.com/simonw/tools/commit/29c8298363869bbd4b4e7c51378c20dc8ac30c39">the diff</a>, which added a hidden "skip to content" link, some <code>aria-</code> attributes on buttons and upgraded the HTML to use <code>&lt;h3&gt;</code> for the session titles.</p>
+<p>Next time I'll remember to specify accessibility as a requirement in the initial prompt. I'm disappointed that Claude didn't consider that without me having to ask.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/icalendar">icalendar</a>, <a href="https://simonwillison.net/tags/scraping">scraping</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/playwright">playwright</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-artifacts">claude-artifacts</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/icalendar">icalendar</a>, <a href="https://simonwillison.net/tags/mobile">mobile</a>, <a href="https://simonwillison.net/tags/scraping">scraping</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/playwright">playwright</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-artifacts">claude-artifacts</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
 
 <br> 
 

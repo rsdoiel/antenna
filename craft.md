@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-07-17 14:08:54
+updated: 2025-07-18 06:07:51
 ---
 
 # craft
 
-(date: 2025-07-17 14:08:54)
+(date: 2025-07-18 06:07:51)
+
+---
+
+## Freehand Carving Devon/Ipswich
+
+date: 2025-07-18, from: Lost Arg Press blog
+
+The following is excerpted from Peter Follansbee’s “Joiner’s Work.”&#160; Forget what you think about 17th-century New England furniture. It’s neither dark nor boring. Instead, it’s a riot of geometric carvings and bright colors – all built upon simple constructions that use rabbets, nails and mortise-and-tenon joints. Peter Follansbee has spent his adult life researching this... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/07/18/freehand-carving-devon-ipswich/>
 
 ---
 

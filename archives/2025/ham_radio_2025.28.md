@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-07-17 14:08:45
+updated: 2025-07-18 06:07:43
 ---
 
 # ham radio
 
-(date: 2025-07-17 14:08:45)
+(date: 2025-07-18 06:07:43)
+
+---
+
+## Safety Stand-Down: Look Up and Live
+
+date: 2025-07-17, from: Amateur Radio Relay League News
+
+<p><strong><i>By Sierra Harrop, W5DX<br /><i>ARRL Public Relations and Outreach Manage</i></i></strong><i><i>r</i><b></b></i></p><p><i><b></b></i></p><i><b></b></i><p>Electricity is a killer. About 150 people die each year at work from contact with electricity, according to the Electrical Safety Foundation International. Half of those are from contact with power lines. That data is just workplace deaths, so recreational and public service volunteering aren’t even accounted for.</p><p>In a recent articl...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/safety-stand-down-look-up-and-live>
 
 ---
 

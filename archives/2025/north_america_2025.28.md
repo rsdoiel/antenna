@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-07-17 14:08:43
+updated: 2025-07-18 06:07:41
 ---
 
 # north america
 
-(date: 2025-07-17 14:08:43)
+(date: 2025-07-18 06:07:41)
+
+---
+
+## Undaunted Mayor Bass
+
+date: 2025-07-18, from: The Contrarian
+
+Political redemption by courageously defending immigrants while standing up to bullies 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-mayor-bass>
+
+---
+
+## Evening Roundup, July 17, A Day of Good Trouble
+
+date: 2025-07-17, from: The Contrarian
+
+Featuring a link to our Good Trouble Live Special; "The Tea" with April Ryan; Brenda Jones; Elaine Weiss; Olivia Julianna; The Democracy Movement; RJ Matson; and Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-17-a-day-of>
+
+---
+
+##  How ICE Is Outsourcing Mass Deportations 
+
+date: 2025-07-17, from: The Lever News
+
+ One of the world’s largest private security firms is poised to rake in millions from the Trump administration’s historic deportation spending blitz.  
+
+<br> 
+
+<https://www.levernews.com/how-ice-is-outsourcing-mass-deportations/>
+
+---
+
+## The Tea w/ April Ryan ft. Karen Attiah & Arne Duncan
+
+date: 2025-07-17, from: The Contrarian
+
+A recording from The Tea w/ April Ryan 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-karen-attiah>
 
 ---
 

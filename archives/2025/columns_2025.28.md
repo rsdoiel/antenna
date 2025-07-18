@@ -1,11 +1,172 @@
 ---
 title: columns
-updated: 2025-07-17 14:08:47
+updated: 2025-07-18 06:07:45
 ---
 
 # columns
 
-(date: 2025-07-17 14:08:47)
+(date: 2025-07-18 06:07:45)
+
+---
+
+## Backup tool Rescuezilla resurrects itself across six Ubuntus
+
+date: 2025-07-18, updated: 2025-07-18, from: Liam Proven's articles at the Register
+
+<h4>2.6.1 adds Plucky Puffin and Firefox actually works this time</h4>
+      <p>Rescuezilla 2.6.1 has introduced a new version based on the latest interim Ubuntu release, while also updating its existing builds on older versions.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/18/rescuezilla_261/>
+
+---
+
+## New Mobile Phone Forensics Tool
+
+date: 2025-07-18, updated: 2025-07-17, from: Bruce Schneier blog
+
+<p>The Chinese have a new tool called <a href="https://www.lookout.com/threat-intelligence/article/massistant-chinese-mobile-forensics">Massistant</a>.</p>
+<blockquote>
+<ul>
+<li>Massistant is the presumed successor to Chinese forensics tool, &#8220;MFSocket&#8221;, reported in 2019 and attributed to publicly traded cybersecurity company, Meiya Pico.
+<li>The forensics tool works in tandem with a corresponding desktop software.
+<li>Massistant gains access to device GPS location data, SMS messages, images, audio, contacts and phone services.
+<li>Meiya Pico maintains partnerships with domestic and international law enforcement partners, both as a surveillance hardware and software provider, as well as through training programs for law enforcement personnel...</li></li></li></li></ul></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/new-mobile-phone-forensics-tool.html>
+
+---
+
+## What Every Washington Lobbyist Now Knows
+
+date: 2025-07-18, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-new-lobbying-game-not-congress>
+
+---
+
+## July 17, 2025 
+
+date: 2025-07-18, from: Heather Cox Richardson blog
+
+Five years ago tonight, Georgia Representative John Lewis passed away from pancreatic cancer at the age of 80. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-17-2025>
+
+---
+
+## Network Pinheads at CBS Are Ending ‘The Late Show’
+
+date: 2025-07-18, updated: 2025-07-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.instagram.com/reel/DMOhWKsxT_G/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-18, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2025/07/17/doBlogsNeedComments.html">Do blogs need comments?</a> A return to a blog post by Joel Spolsky in 2007, posted by the WordCamp Canada people in 2025. 
+
+<br> 
+
+<http://scripting.com/2025/07/17.html#a002709>
+
+---
+
+##  Contemplative Landscapes by Noah Kalina 
+
+date: 2025-07-18, updated: 2025-07-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/contemplative-landscapes-by-noah-kalina>
+
+---
+
+##  Matter vs. Force: Why There Are Exactly Two Types of Particles. &#8220;Collectivist... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047103-matter-vs-force-why-there>
+
+---
+
+## The Scandal That’s Sticking
+
+date: 2025-07-17, from: Dan Rather's Steady
+
+Deflection and diversion for once aren&#8217;t working for Teflon Don 
+
+<br> 
+
+<https://steady.substack.com/p/the-scandal-thats-sticking>
+
+---
+
+## Friday 18 July, 2025
+
+date: 2025-07-17, from: John Naughton's online diary
+
+Deadwood On the Wimpole Estate in Cambridgeshire with the spectacular folly in the distance. Quote of the Day “While money can&#8217;t buy happiness, it certainly lets you choose your own form of misery.” Groucho Marx Musical alternative to the morning’s &#8230; <a href="https://memex.naughtons.org/friday-18-july-2025/41031/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-18-july-2025/41031/>
+
+---
+
+##  From Beautiful Public Data, a look into the Internet Archive&#8217;s collection of... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047166-from-beautiful-public-dat>
+
+---
+
+## Los Vecinos
+
+date: 2025-07-17, from: Robert Reich's blog
+
+The vicious uprooting of our communities 
+
+<br> 
+
+<https://robertreich.substack.com/p/los-vicinos>
+
+---
+
+##  How AI Wreaked Havoc on the Lo-Fi Beat Scene. &#8220;The music&#8217;s association... 
+
+date: 2025-07-17, updated: 2025-07-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047112-how-ai-wreaked-havoc-on>
 
 ---
 
@@ -656,11 +817,11 @@ Welcome to another curl release. A shorter cycle this time so we did not have ti
 
 ---
 
-## You don't need testify/assert
+## Expressive tests without testify/assert
 
 date: 2025-07-16, from: Anton Zhiyanov blog
 
-To have expressive test assertions. 
+Equal, Err and True are quite enough. 
 
 <br> 
 

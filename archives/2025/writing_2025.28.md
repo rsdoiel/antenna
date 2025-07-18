@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-07-17 14:08:48
+updated: 2025-07-18 06:07:46
 ---
 
 # writing
 
-(date: 2025-07-17 14:08:48)
+(date: 2025-07-18 06:07:46)
+
+---
+
+## An Updated NIH and Publisher Guidance: What Authors Need to Know about NIH’s Public Access Policy
+
+date: 2025-07-18, from: Author's Union blog
+
+In June, we published an FAQ for authors and librarians to give some guidance on how they might respond to NIH’s accelerated implementation of its public access plan, which requires immediate availability of sponsored research articles upon publication. Our FAQ from June is still good advice, but since then both the NIH and several publishers have updated their guidance and so we are giving some additional information about the latest here. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/18/an-update-nih-and-publisher-guidance-what-authors-need-to-know-about-nihs-public-access-policy/>
 
 ---
 

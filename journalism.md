@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-07-17 14:08:49
+updated: 2025-07-18 06:07:47
 ---
 
 # journalism
 
-(date: 2025-07-17 14:08:49)
+(date: 2025-07-18 06:07:47)
+
+---
+
+## Concert review: Bring your hiking shoes – Caamp’s performance meanders, but is worth the trek
+
+date: 2025-07-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 17 at 10:14 p.m.</em>
+Caamp didn’t need tents, s’mores or sleeping bags to fill Los Angeles with happy campers.
+On Wednesday night, the self-described “Ohio boys making beautiful noise” kicked off the second leg of their “Live and In-Concert&#8221; tour at the Greek Theatre. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/17/bring-your-hiking-shoes-caamps-performance-meanders-but-is-worth-the-trek/>
 
 ---
 

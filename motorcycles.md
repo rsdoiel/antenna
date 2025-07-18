@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-07-17 14:08:51
+updated: 2025-07-18 06:07:49
 ---
 
 # motorcycles
 
-(date: 2025-07-17 14:08:51)
+(date: 2025-07-18 06:07:49)
+
+---
+
+## Stop Riding These Giant E-Bikes, And Take Them To Your Dealer ASAP
+
+date: 2025-07-18, from: Ride Apart, Electric Motorcycle News
+
+A potential issue with the fork could leave you with more than just a broken bike.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766137/giant-momentum-vida-e-bike-recall/>
+
+---
+
+## ITP’s New UTV Tires Promise Improved Performance And Durability
+
+date: 2025-07-18, from: Ride Apart, Electric Motorcycle News
+
+Multiple compounds ensure grip and longevity across multiple terrain. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766135/itp-savage-utv-tires-details-specs-sizes/>
+
+---
+
+## BO Is the 100 Mph+ Electric Scooter With a Higher Power-To-Weight Ratio Than a Bugatti Veyron
+
+date: 2025-07-18, from: Ride Apart, Electric Motorcycle News
+
+And you can buy one. But at this price, would you? 
+
+<br> 
+
+<https://www.rideapart.com/news/766266/bo-100-mph-electric-scooter-world-record/>
+
+---
+
+## Triumph TF 250-X Gets Catalogue of Updates for 2026, but Is It Enough?
+
+date: 2025-07-18, from: Ride Apart, Electric Motorcycle News
+
+Will this be enough to help it climb to the top of the 250 standings? 
+
+<br> 
+
+<https://www.rideapart.com/news/766121/triumph-tf250-x-updates-specs/>
+
+---
+
+## MV Agusta Is Officially An Independent Motorcycle Company Again, You Guys
+
+date: 2025-07-18, from: Ride Apart, Electric Motorcycle News
+
+What comes next for the company that prides itself on making rolling motorcycle art? 
+
+<br> 
+
+<https://www.rideapart.com/news/766259/mv-agusta-independence-art-mobility/>
 
 ---
 

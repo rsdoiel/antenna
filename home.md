@@ -1,11 +1,144 @@
 ---
 title: home
-updated: 2025-07-17 14:08:51
+updated: 2025-07-18 06:07:48
 ---
 
 # home
 
-(date: 2025-07-17 14:08:51)
+(date: 2025-07-18 06:07:48)
+
+---
+
+## Rare Company
+
+date: 2025-07-18, from: California Native Plants Society
+
+<p>Photo essay: 10 singular species get their conservation close-ups with CNPS’s Rare Plant Program.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/california-rare-plant-photo-essay-43764">Rare Company</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/california-rare-plant-photo-essay-43764>
+
+---
+
+## How to Make a Raised Garden Bed Fast and Affordable
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>Raised garden beds have become a popular choice for home gardeners who want to maximize their growing space, improve soil ... </p>
+<p class="read-more-container"><a title="How to Make a Raised Garden Bed Fast and Affordable" class="read-more button" href="https://ownyardlife.com/how-to-make-a-raised-garden-bed-fast-and-affordable/#more-32209" aria-label="Read more about How to Make a Raised Garden Bed Fast and Affordable">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-make-a-raised-garden-bed-fast-and-affordable/">How to Make a Raised Garden Bed Fast and Affordable</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-make-a-raised-garden-bed-fast-and-affordable/>
+
+---
+
+## What Is a Group of Kangaroos Called? Fascinating Wildlife Facts
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>Kangaroos are some of the most iconic animals in the world, instantly recognizable for their powerful hind legs, large tails, ... </p>
+<p class="read-more-container"><a title="What Is a Group of Kangaroos Called? Fascinating Wildlife Facts" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-kangaroos-called-fascinating-wildlife-facts/#more-32202" aria-label="Read more about What Is a Group of Kangaroos Called? Fascinating Wildlife Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-kangaroos-called-fascinating-wildlife-facts/">What Is a Group of Kangaroos Called? Fascinating Wildlife Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-kangaroos-called-fascinating-wildlife-facts/>
+
+---
+
+## What Is a Group of Deer Called? Fun Facts You Didn’t Know
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>Deer are among the most graceful and captivating animals in the wild, admired for their elegance and peaceful behavior. When ... </p>
+<p class="read-more-container"><a title="What Is a Group of Deer Called? Fun Facts You Didn’t Know" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-deer-called-fun-facts-you-didnt-know/#more-32198" aria-label="Read more about What Is a Group of Deer Called? Fun Facts You Didn’t Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-deer-called-fun-facts-you-didnt-know/">What Is a Group of Deer Called? Fun Facts You Didn’t Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-deer-called-fun-facts-you-didnt-know/>
+
+---
+
+## What Is a Group of Pandas Called? Amazing Facts Revealed
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>Pandas are among the most beloved animals in the world, capturing hearts with their gentle behavior and distinctive black-and-white fur. ... </p>
+<p class="read-more-container"><a title="What Is a Group of Pandas Called? Amazing Facts Revealed" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-pandas-called-amazing-facts-revealed/#more-32191" aria-label="Read more about What Is a Group of Pandas Called? Amazing Facts Revealed">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-pandas-called-amazing-facts-revealed/">What Is a Group of Pandas Called? Amazing Facts Revealed</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-pandas-called-amazing-facts-revealed/>
+
+---
+
+## What Is a Group of Cats Called? Fun Facts About Cat Collectives
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>Cats have captivated humans for thousands of years with their mysterious personalities, graceful movements, and independent nature. Whether beloved household ... </p>
+<p class="read-more-container"><a title="What Is a Group of Cats Called? Fun Facts About Cat Collectives" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-cats-called-fun-facts-about-cat-collectives/#more-32185" aria-label="Read more about What Is a Group of Cats Called? Fun Facts About Cat Collectives">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-cats-called-fun-facts-about-cat-collectives/">What Is a Group of Cats Called? Fun Facts About Cat Collectives</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-cats-called-fun-facts-about-cat-collectives/>
+
+---
+
+## What Is a Group of Ravens Called? Amazing Facts
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>Ravens have long fascinated humans with their intelligence, mysterious nature, and striking appearance. These large, black birds are often associated ... </p>
+<p class="read-more-container"><a title="What Is a Group of Ravens Called? Amazing Facts" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-ravens-called-amazing-facts/#more-32179" aria-label="Read more about What Is a Group of Ravens Called? Amazing Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-ravens-called-amazing-facts/">What Is a Group of Ravens Called? Amazing Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-ravens-called-amazing-facts/>
+
+---
+
+## What Is a Group of Crows Called? Fascinating Facts
+
+date: 2025-07-18, from: Yard Life blog
+
+<p>The question “What is a group of crows called?” has intrigued people for centuries. While most are familiar with the ... </p>
+<p class="read-more-container"><a title="What Is a Group of Crows Called? Fascinating Facts" class="read-more button" href="https://ownyardlife.com/what-is-a-group-of-crows-called-fascinating-facts/#more-32174" aria-label="Read more about What Is a Group of Crows Called? Fascinating Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-a-group-of-crows-called-fascinating-facts/">What Is a Group of Crows Called? Fascinating Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-a-group-of-crows-called-fascinating-facts/>
+
+---
+
+## The Simple Rule For Walking On A Street With No Sidewalk
+
+date: 2025-07-17, from: Family Handyman Blog
+
+<p>What do you do if you find yourself walking somewhere with no sidewalk? Brush up on the traffic safety rules for this situation. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/sidewalk-walking-rules/">The Simple Rule For Walking On A Street With No Sidewalk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/sidewalk-walking-rules/>
 
 ---
 
@@ -63,6 +196,30 @@ Richard Kuchinsky leaned into terrazzo, smoked glass, and unlacquered brass to k
 
 ---
 
+## Here’s Where You Should Travel Right Now Based on Your Zodiac Sign
+
+date: 2025-07-17, from: Sunset Magazine - Living in the West
+
+If you're wondering where to spend your PTO this year, try planning an adventure using to the stars according to an astrologer. 
+
+<br> 
+
+<https://www.sunset.com/travel/where-to-travel-late-summer-based-on-zodiac-sign>
+
+---
+
+## Outdoor Living
+
+date: 2025-07-17, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
 ## From the Archive: The Fight Over an Early Frank Gehry Masterpiece
 
 date: 2025-07-17, from: Dwell
@@ -72,6 +229,18 @@ Though it’s since been relocated, the drama surrounding the 1980s Winton Guest
 <br> 
 
 <https://www.dwell.com/article/from-the-archive-the-fight-over-an-early-frank-gehry-masterpiece-92277549>
+
+---
+
+## Are Animal-Focused Activities the Next Big Travel Trend?
+
+date: 2025-07-17, from: Sunset Magazine - Living in the West
+
+A growing number of travelers are flocking to hotels with animal-centric activities, like hanging out with goats and horseback riding. 
+
+<br> 
+
+<https://www.sunset.com/travel/animal-focused-activities-travel-trend>
 
 ---
 
@@ -798,18 +967,6 @@ Our expert gardening tips help you choose and grow the perfect fruits and vegeta
 <br> 
 
 <https://www.sunset.com/home-garden/edible-gardening>
-
----
-
-## Outdoor Living
-
-date: 2025-07-14, from: Sunset Magazine - Living in the West
-
-Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/outdoor-living>
 
 ---
 

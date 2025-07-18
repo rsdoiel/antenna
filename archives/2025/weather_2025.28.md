@@ -1,11 +1,267 @@
 ---
 title: weather
-updated: 2025-07-17 14:08:48
+updated: 2025-07-18 06:07:45
 ---
 
 # weather
 
-(date: 2025-07-17 14:08:48)
+(date: 2025-07-18 06:07:45)
+
+---
+
+## SPC Jul 18, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-07-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0743 AM CDT Fri Jul 18 2025
+
+Valid 181300Z - 191200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+VIRGINIA/NORTH CAROLINA...AND PARTS OF CENTRAL/EASTERN
+NEBRASKA...SOUTHEAST SOUTH DAKOTA...SOUTHWEST MINNESOTA...AND
+WESTERN/CENTRAL IOWA...
+
+...SUMMARY...
+Scattered severe thunderstorms with large hail, damaging winds, and
+a few tornadoes are possible across parts of the Corn Belt in Iowa,
+Minnesota, Nebraska, and South Dakota this evening into tonight.
+Scattered damaging winds are possible across parts of Virginia and
+North Carolina this afternoon.
+
+...Virginia/North Carolina to the Mid-South...
+A generally west-east oriented quasi-stationary front reinforced by
+outflow from earlier convection should serve as a low-level forcing
+mechanism for thunderstorm development this afternoon from parts of
+VA/NC westward to the Mid-South and vicinity. A seasonably moist
+airmass will be present today along/south of this front, with
+surface dewpoints generally ranging from the upper 60s in higher
+elevations to mid 70s elsewhere. Even though mid-level lapse rates
+are expected to remain rather modest, ample daytime heating of the
+moist low-level airmass will contribute to sizable MLCAPE by early
+to mid afternoon. With a subtropical anticyclone centered off the
+Southeast Atlantic Coast and stronger flow aloft associated with
+various mid-level perturbations expected to remain over the Great
+Lakes/Northeast, large-scale ascent in the vicinity of the surface
+front will be nebulous at best.
+
+Regardless, scattered to numerous thunderstorms should develop
+along/near this boundary through the afternoon, while spreading
+generally eastward this evening. With modest mid-level westerly flow
+forecast, deep-layer shear appears marginal for thunderstorm
+organization. The greatest threat for scattered damaging winds
+should focus across parts of VA/NC this afternoon and early evening,
+where semi-organized clusters and short line segments appear
+possible given slightly stronger deep-layer shear. Otherwise,
+isolated damaging winds may occur even with less organized
+convection farther west towards parts of the TN Valley/Mid-South, as
+steepened low-level lapse rates potentially support microbursts.
+There does appear to be a gap in scattered convective coverage
+across parts of MO and vicinity, where the Marginal Risk has been
+removed with this update.
+
+...South Dakota/Nebraska into Minnesota/Iowa...
+Elevated convection across parts of SD may continue to pose an
+isolated hail threat this morning, before it eventually weakens with
+the gradual lessening of a southerly low-level jet. A belt of strong
+westerly mid-level flow will remain in place over the northern tier
+of the CONUS from MT eastward towards the Great Lakes. Gradual
+low-level moistening is forecast through this evening ahead of a
+weak front forecast to be in place over the eastern Dakotas into
+western NE. Diurnal heating and modestly steepened mid-level lapse
+rates will contribute to moderate to strong MLCAPE across parts of
+NE/southeast SD into IA. But, nebulous forcing for ascent and
+residual capping should tend to suppress surface-based convective
+development across these areas for much of the day. Occasional
+severe hail may occur with mainly elevated convection to the north
+of the front in MN.
+
+A gradually strengthening southerly low-level jet this evening
+(mainly after 00Z) should aid in convective initiation along/near
+the front from central/northeast NE into southeast SD/southwest MN.
+Various NAM/RAP forecast soundings across this region suggest ample
+instability and strong deep-layer shear will be present to support
+supercells with attendant large hail threat initially. Low-level
+shear should also be strong enough for a tornado threat with these
+supercells, although there may be a fairly narrow spatial/temporal
+window for convection to remain discrete this evening. Upscale
+growth into a bowing cluster should occur through mid to late
+evening, with a threat for mainly scattered severe/damaging winds as
+this convection tracks into parts of IA overnight, before eventually
+weakening early Saturday morning.
+
+...Great Basin into Wyoming and Far Southern Montana...
+Initially high-based convection should develop this afternoon across
+parts of the Great Basin into WY as modest ascent associated with a
+weak/low-amplitude mid-level impulse spreads eastward across these
+areas. While low-level moisture and deep-layer shear will remain
+limited, steepened low/mid-level lapse rates amid a very well-mixed
+boundary layer should support isolated severe gusts with any
+thunderstorms that can be sustained amid weak instability. Somewhat
+greater low-level moisture should be present this afternoon across
+parts of southern MT into northern/eastern WY, generally along/east
+of the Bighorn/Laramie Mountains. Isolated severe hail may occur
+with marginal supercells given greater instability/shear forecast
+across these areas.
+
+..Gleason/Bentley.. 07/18/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC - No watches are valid as of Fri Jul 18 12:48:02 UTC 2025
+
+date: 2025-07-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Jul 18 12:48:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Jul 18 12:48:02 UTC 2025
+
+date: 2025-07-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Jul 18 12:48:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-18, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Jul 18 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Beven<br><br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2025-07-18, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>200 AM HST Fri Jul 18 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Gibbs/Bucci<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-07-18, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 181125<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri Jul 18 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs/Bucci 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-18, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 181125<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri Jul 18 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs/Bucci 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-18, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 181125<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Fri Jul 18 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Gibbs/Bucci<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## SPC Jul 18, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-07-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0354 AM CDT Fri Jul 18 2025
+
+Valid 211200Z - 261200Z
+
+...DISCUSSION...
+Medium-range guidance suggests that mid/upper ridging may remain a
+prominent influence across much of the central and southeastern U.S.
+through this period.  Beneath its northern periphery, across parts
+of the northern Great Plains into Upper Midwest and Great Lakes/Ohio
+Valley, it appears that a seasonably moist boundary-layer may become
+characterized by moderate to strong diurnal destabilization each
+day.  However, forcing for ascent to support convective development
+remains unclear, and might be largely dependent on sub-synoptic
+features with low predictability, particularly at this extended
+range.
+
+Sizable spread exists among the output concerning synoptic features
+within the westerlies, as well.  However, there appears some signal
+that a short wave perturbation, emerging either from the Pacific
+Northwest or northwestern Canadian provinces early next week, could
+be accompanied by an eastward advecting plume of elevated
+mixed-layer air, low-level moistening and strengthening
+lower/mid-tropospheric wind fields across parts of the Upper
+Midwest/Great Lakes toward the St. Lawrence Valley/Northeast late
+next Wednesday into Friday.  It might not be out of the question
+that this regime could become supportive of one or two sustained,
+organized clusters of storms capable of producing swaths of damaging
+winds and some hail.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -432,26 +688,6 @@ cumulonimbi with maximum tops to 400. Mean storm motion vector
 
 ---
 
-## NHC Atlantic Outlook
-
-date: 2025-07-17, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu Jul 17 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Northern Gulf Coast and Southeastern Louisiana (AL93):<br>Satellite, surface, and radar data indicate that the broad low <br>pressure area is moving inland over southeastern Louisiana, and <br>that the associated shower and thunderstorm activity remains <br>disorganized and located mainly to the west and southwest <br>of the center. Little development is expected while the center <br>remains near the coast this afternoon and tonight, and the system <br>is expected to weaken as it moves farther inland on Friday.<br><br>Regardless of development, heavy rainfall could produce localized <br>flash flooding over portions of the north-central Gulf Coast through <br>Friday. For additional information, please refer to products issued <br>by the Weather Prediction Center and your local National Weather <br>Service office.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC Jul 17, 2025 1730 UTC Day 2 Convective Outlook
 
 date: 2025-07-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -517,54 +753,6 @@ damaging outflow winds may occur.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2025-07-17, from: Central Pacific Basin Tropical Cyclones
-
-000<br />ACPN50 PHFO 171718<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Jul 17 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci/Gibbs<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-07-17, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 171718<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Jul 17 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci/Gibbs 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-17, from: Eastern Pacific Tropical Weather Outlook
-
-000<br />ABPZ20 KNHC 171718<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Jul 17 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci/Gibbs 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-17, from: Central Pacific Tropical Weather Outlook
-
-000<br />ACPN50 PHFO 171718<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Jul 17 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci/Gibbs<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
 
 ---
 
@@ -709,123 +897,6 @@ coverage should be somewhat less.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Jul 17, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-07-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0735 AM CDT Thu Jul 17 2025
-
-Valid 171300Z - 181200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-THE NORTHEAST AND NORTHERN HIGH PLAINS...
-
-...SUMMARY...
-Scattered damaging winds and a brief tornado are possible across
-northern New England this afternoon. Isolated/sporadic damaging
-winds may also occur across a broad swath of the
-Northeast/Mid-Atlantic to the southern High Plains. A confined
-corridor of large hail and severe gusts appears possible from
-north-central Montana to southwest North Dakota this evening.
-
-...Northeast...
-The Slight Risk has been maintained across this region with no
-changes. A shortwave trough will move northeastward from the Upper
-Great Lakes to the Ontario/Quebec border vicinity by this evening. A
-broad swath of enhanced 850-700 mb west-southwesterly winds is
-forecast from PA/NJ northward into New England. Further weakening of
-already poor mid-level lapse rates is anticipated across parts of
-southern NY into southern New England. This may tend to limit
-convective coverage across the northern Mid-Atlantic to southern New
-England vicinity. But, farther north and in closer proximity to
-ascent associated with the approaching mid-level shortwave trough,
-scattered robust convection is anticipated this afternoon along the
-Quebec border across northern New England. Sufficient instability
-and deep-layer shear are forecast across this region to support a
-mix of multicells and perhaps marginal supercells. Given the
-enhanced low/mid-level flow, scattered damaging winds should be the
-main threat with this activity as it moves generally
-east-northeastward through the early evening, before eventually
-weakening as it approaches the coast. Enough low-level hodograph
-enlargement/curvature may also be present to support some risk for a
-tornado or two.
-
-...Mid-Atlantic to the Southern High Plains...
-Extensive convection is ongoing this morning across
-south-central/southeast KS into MO. This activity should generally
-remain sub-severe, but it will help reinforce a front that is
-expected to gradually sag southward and eventually stall across the
-mid MS Valley to southern Plains today. Scattered to numerous
-thunderstorms are expected to develop west of the Appalachians along
-this boundary later this afternoon as diurnal heating occurs.
-Moderate to strong instability amid steepened low-level rates
-along/south of the outflow/front should support sporadic wet
-microbursts. Isolated hail will be possible with thunderstorms in
-the post-frontal upslope flow regime across parts of the southern
-High Plains. But, modest deep-layer shear and warm temperatures
-aloft across all these regions should temper the overall
-intensity/coverage of severe convection. Isolated damaging winds may
-also occur with thunderstorms that develop east of the central
-Appalachians this afternoon, even though coverage should be somewhat
-less.
-
-...Northern Plains...
-A narrow corridor of supercell potential remains evident across
-north-central MT to southwest ND, mainly this evening. A positively
-tilted mid-level shortwave trough over the southern Canadian Rockies
-will progress eastward along the international border with MT/ND
-today. Mid to late afternoon convective initiation should occur over
-parts of southwest Alberta in association with this feature. A
-confined plume of weak buoyancy ahead of this activity should
-initially temper updraft intensity as it spreads east-southeastward
-into north-central MT by late afternoon. But, favorably timed
-strengthening of a 500-mb westerly jet over MT will aid in hodograph
-elongation at mid/upper levels this evening. This could support a
-long-lived supercell or two during the evening, impinging on the
-nose of moderate instability that should be present across southeast
-MT. Large hail should be the main threat with these supercells if
-they can be maintained. An isolated hail/wind risk may persist along
-the ND/SD border vicinity overnight.
-
-..Gleason/Bentley.. 07/17/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Thu Jul 17 12:40:01 UTC 2025
-
-date: 2025-07-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Jul 17 12:40:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu Jul 17 12:40:01 UTC 2025
-
-date: 2025-07-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu Jul 17 12:40:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -1306,41 +1377,6 @@ MOST PROBABLE PEAK WIND GUST...UP TO 60 MPH
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md1669.html>
-
----
-
-## SPC Jul 14, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-07-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0329 AM CDT Mon Jul 14 2025
-
-Valid 171200Z - 221200Z
-
-...DISCUSSION...
-Upper ridging will build across the south-central and southeastern
-U.S. during the Day 4-8 period. This will confine a series of
-low-amplitude upper troughs to the northern tier of the U.S. along
-the international border. Bouts of strong to severe thunderstorm
-potential will be possible through the period as individual
-shortwaves provide modestly enhanced mid/upper westerly flow from
-the northern Plains to the Great Lakes vicinity. Given the generally
-low-amplitude nature the upper pattern across the northern U.S.
-through at least Day 6 or 7/Sat or Sun, the main driver of severe
-potential each day will be mesoscale features tied to prior days
-convective evolution, not well resolved at longer time scales. As a
-result, predictability is low.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

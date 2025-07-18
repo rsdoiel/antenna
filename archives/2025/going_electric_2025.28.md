@@ -1,11 +1,215 @@
 ---
 title: going electric
-updated: 2025-07-17 14:08:53
+updated: 2025-07-18 06:07:51
 ---
 
 # going electric
 
-(date: 2025-07-17 14:08:53)
+(date: 2025-07-18 06:07:51)
+
+---
+
+## Wheel-E Podcast: Lectric XP Trike2, Amish e-bikes, little Honda, more
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Aventon and Lectric, a surge in Amish riding e-bikes, a wireless charging kickstand, cheaper electric motorcycles coming from Honda and LiveWire and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="425640" href="https://electrek.co/2025/07/18/wheel-e-podcast-lectric-xp-trike2-amish-e-bikes-little-honda-more/#more-425640" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/wheel-e-podcast-lectric-xp-trike2-amish-e-bikes-little-honda-more/>
+
+---
+
+## ZeroAvia scores 45 fresh patents for hydrogen aviation engines
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/zero_avia.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Aviation startup ZeroAvia says it’s been granted a “raft” of 45 new patents key to the development of practical large hydrogen aviation engines – and the company says it has 200 <em>more</em> H-related patents in the pipeline!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,hydrogen,zeroavia" data-layer-viewtype="unknown" data-post-id="425649" href="https://electrek.co/2025/07/18/zeroavia-scores-45-fresh-patents-for-hydrogen-aviation-engines/#more-425649" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/zeroavia-scores-45-fresh-patents-for-hydrogen-aviation-engines/>
+
+---
+
+## 100 MPH on a STANDING e-scooter?! Bo blows way past the limits
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/bo-turbo-scooter-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>You might want to hold onto your handlebars for this one – literally. The fashion-forward British electric scooter maker Bo just unveiled what could be the most extreme electric scooter the world has ever seen. Named <em>The Turbo</em>, this standing e-scooter isn’t just playing around with speed – it’s aiming to smash right through it and find out what’s waiting on the other side.</p>
+
+
+
+<p>And it all begs the question, “How much is too much?”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-racing,electric-scooter" data-layer-viewtype="unknown" data-post-id="425308" href="https://electrek.co/2025/07/18/100-mph-while-standing-bo-blows-way-past-electric-scooter-limits/#more-425308" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/100-mph-while-standing-bo-blows-way-past-electric-scooter-limits/>
+
+---
+
+## Used Quad-Motor Rivian R1Ts Are Getting Cheap. Here’s What Living With One Is Like
+
+date: 2025-07-18, from: Inside EVs News
+
+A new Quad-Motor Rivian R1T will cost over $110,000. A used Gen1 model can be had for less than half. Is it a good purchase? 
+
+<br> 
+
+<https://insideevs.com/news/766320/used-rivian-r1t-cheap-quad-motor/>
+
+---
+
+## Honda’s new super low-cost electric motorcycle could come at the perfect time
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/honda-motorcycle-AI-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Earlier this week, we covered <a href="https://electrek.co/2025/07/14/hondas-super-low-cost-electric-motorcycle-revealed-in-new-patent-images/">Honda’s new patent images</a> that revealed what looks to be a production-ready, ultra-low-cost electric motorcycle from the world’s most prolific motorcycle maker. While the company hasn’t officially announced plans to bring the bike to market, the level of detail in the patent suggests one thing loud and clear: Honda’s electric commuter is no longer just a concept – it’s waiting on a green light from the boardroom. And if they’re still debating giving it the thumbs up or down, then now would be the perfect time to make everyone’s day and release this thing to the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,honda" data-layer-viewtype="unknown" data-post-id="425296" href="https://electrek.co/2025/07/18/hondas-new-super-low-cost-electric-motorcycle-could-come-at-the-perfect-time/#more-425296" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/hondas-new-super-low-cost-electric-motorcycle-could-come-at-the-perfect-time/>
+
+---
+
+## A New Volvo XC90 Plug-In Hybrid With More Electric Range Is In The Works
+
+date: 2025-07-18, from: Inside EVs News
+
+Volvo’s flagship SUV is getting a bit long in the tooth, so a new generation is in order, according to the company’s boss. 
+
+<br> 
+
+<https://insideevs.com/news/766297/new-volvo-xc90-phev-more-range/>
+
+---
+
+## Thousands of super cheap Amazon & Walmart e-bikes recalled after fires
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/vivi-recall-flame-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>VIVI e-bikes, a budget-friendly brand commonly found on Amazon and Walmart, just got hit with a major recall affecting around 24,000 electric bicycles due to fire risks. The US Consumer Product Safety Commission (CPSC) announced that the lithium-ion batteries included with VIVI e-bikes can overheat, catch fire, and potentially cause injury or death.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,recall" data-layer-viewtype="unknown" data-post-id="425581" href="https://electrek.co/2025/07/18/thousands-of-super-cheap-amazon-walmart-e-bikes-recalled-after-fires/#more-425581" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/thousands-of-super-cheap-amazon-walmart-e-bikes-recalled-after-fires/>
+
+---
+
+## Faraday Future unveils FX Super One, an EV minivan with a funny F.A.C.E.
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/WechatIMG1718-e1752790563178.jpeg?quality=82&#038;strip=all&#038;w=1312" /></div><p>Faraday Future is still kicking and unveiled its next planned vehicle tonight – the FX Super One, an all-electric MPV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="425119" href="https://electrek.co/2025/07/17/faraday-future-unveils-fx-super-one-an-ev-minivan-with-a-funny-f-a-c-e/#more-425119" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/faraday-future-unveils-fx-super-one-an-ev-minivan-with-a-funny-f-a-c-e/>
+
+---
+
+## Electric Bronco, 6 passenger Model Y, and Waymo’s is bigger than Elon’s
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Waymo-vs-Tesla-in-Austin.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’ve got huge news in the 4X4 Ford world with the launch of the first-ever all electric Ford Bronco. Plus, we’ve got a new long-wheelbase Model Y from Tesla and a full-scale d*ck-measuring contest in the world of full self driving. All this and more on today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,lucid,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="425550" href="https://electrek.co/2025/07/17/electric-bronco-6-passenger-model-y-and-waymos-is-bigger-than-elons/#more-425550" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/electric-bronco-6-passenger-model-y-and-waymos-is-bigger-than-elons/>
+
+---
+
+## These are the 5 best EV financing offers right now
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Ford-Mach-E-lease-Camry.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Some of the best financing deals on EVs are offering <strong><a href="https://electrek.co/guides/0-financing/" target="_blank" rel="noreferrer noopener">0% APR for up to 72 months</a></strong>, and if you combine that with an electric car eligible for the $7,500 federal tax credit, you get a pretty solid deal if you’re looking to buy.</p>
+
+
+
+<p>However, the EV federal tax credit dies a premature, unnecessary death on September 30, 2025, thanks to the Republican-controlled Congress, so check out the best EV financing deals below that our friends at CarsDirect have surfaced.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,acura-zdx,ford-mach-e,honda-prologue,subaru-solterra,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="425513" href="https://electrek.co/2025/07/17/5-best-ev-financing-offers-zero-percent/#more-425513" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/5-best-ev-financing-offers-zero-percent/>
+
+---
+
+## Subaru enters Uncharted EV territory
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/2026-Subaru-Uncharted-3.jpg?quality=82&#038;strip=all&#038;w=1438" /></div><p>Subaru today launched its compact AWD SUV at an event in New York City. With 300 miles of range, NACS charge port, a speedy 0-60 time of under 5 seconds, you could say that this is Subaru’s first modern EV, no offense to the rebadged Toyota BZ/Solterra…</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="425446" href="https://electrek.co/2025/07/17/subaru-enters-uncharted-ev-territory/#more-425446" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/subaru-enters-uncharted-ev-territory/>
+
+---
+
+## 2026 Subaru Uncharted First Look: An Electric Crosstrek?
+
+date: 2025-07-17, from: Inside EVs News
+
+The Uncharted is Subaru’s fashionable new EV with 300+ miles of range and a feature-packed cabin. 
+
+<br> 
+
+<https://insideevs.com/news/766241/2026-subaru-uncharted-ev-crossover-coupe/>
+
+---
+
+## The new Chevy Bolt EV is coming soon and it’s getting some big upgrades
+
+date: 2025-07-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/First-look-new-Chevy-Bolt-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy is bringing back the beloved affordable electric hatch. The new <a href="https://electrek.co/guides/chevy-bolt/">Chevy Bolt EV</a> is expected to arrive later this year, featuring over 300 miles of driving range, faster charging, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-bolt" data-layer-viewtype="unknown" data-post-id="425079" href="https://electrek.co/2025/07/17/new-chevy-bolt-ev-coming-soon-with-some-big-upgrades/#more-425079" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/17/new-chevy-bolt-ev-coming-soon-with-some-big-upgrades/>
 
 ---
 
@@ -121,11 +325,11 @@ date: 2025-07-17, from: Electrek Feed
 
 ---
 
-## Tesla's Three-Row Model Y Is Finally Coming To China. Is It Too Late?
+## Tesla's Three-Row Model Y Finally Comes To China. Too Bad It's Late To The Party
 
 date: 2025-07-17, from: Inside EVs News
 
-With fierce competition and an underwhelming design, is this enough to tackle China's best? 
+Within the past two weeks, several major Chinese automakers have introduced their own three-row crossovers.  
 
 <br> 
 

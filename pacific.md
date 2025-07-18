@@ -1,11 +1,601 @@
 ---
 title: pacific
-updated: 2025-07-17 14:08:45
+updated: 2025-07-18 06:07:42
 ---
 
 # pacific
 
-(date: 2025-07-17 14:08:45)
+(date: 2025-07-18 06:07:42)
+
+---
+
+## Judge scraps rule eliminating medical debt on credit reports
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>In another blow to Biden-era financial regulations, a federal judge has blocked a rule intended to make it easier for many Americans to get loans by removing medical debt from credit reports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/judge-scraps-rule-eliminating-medical-debt-on-credit-reports/>
+
+---
+
+## Trump will not recommend special prosecutor in Epstein case
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump will not recommend appointing a special prosecutor in the Jeffrey Epstein case, his press secretary said on Thursday, amid pressure from some of his supporters and renewed public scrutiny on the convicted sex offender&#8217;s connections to powerful figures.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/trump-will-not-recommend-special-prosecutor-in-epstein-case/>
+
+---
+
+## US health department hands over Medicaid personal data to ICE
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. health department is giving Immigration and Customs Enforcement officials access to the personal data of 79 million Medicaid enrollees to help them track down immigrants who may not be living legally in the country, it said on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/us-health-department-hands-over-medicaid-personal-data-to-ice/>
+
+---
+
+## Coke’s shift to cane sugar would be expensive, hurt US farmers
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A possible move by Coca-Cola, and other beverage and food industries, to use cane sugar instead of corn syrup as a sweetener would be difficult and expensive to implement, while mostly negative for farmers in the United States. U.S. President Donald Trump said on Wednesday that Coca-Cola had agreed to use cane sugar in its beverages in the country after his discussions with the maker of the top soda pop brand.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/cokes-shift-to-cane-sugar-would-be-expensive-hurt-us-farmers/>
+
+---
+
+## Pahoa man sentenced for stabbing ex-girlfriend
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>A Pahoa man has been sentenced to 15 years in prison for burglary and assault.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/hawaii-news/pahoa-man-sentenced-for-stabbing-ex-girlfriend/>
+
+---
+
+## Senate votes to cut funds for foreign aid, public broadcasting
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Senate early on Thursday approved President Donald Trump&#8217;s plan for billions of dollars in cuts to funding for foreign aid and public broadcasting, handing the Republican president another victory as he exerts control over Congress with little opposition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/senate-votes-to-cut-funds-for-foreign-aid-public-broadcasting/>
+
+---
+
+## Trump’s budget would kill Mauna Loa Observatory after seven decades
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>More than 11,100 feet above sea level, surrounded by nothing but black rocks, white clouds and blue sky, the Mauna Loa Observatory is in a Goldilocks spot for studying the atmosphere.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/trumps-budget-would-kill-mauna-loa-observatory-after-seven-decades/>
+
+---
+
+## A timeline of what we know about Trump and Epstein
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; By his own admission, President Donald Trump was friendly for at least 15 years with Jeffrey Epstein, the multimillionaire financier and convicted sex offender who died in prison in 2019.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/a-timeline-of-what-we-know-about-trump-and-epstein/>
+
+---
+
+## Republicans on Senate panel vote to advance Bove’s nomination after Democrats storm out
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A Senate committee voted Thursday to advance the nomination of Emil Bove, the Justice Department enforcer who oversaw dozens of firings and the dismissal of bribery charges against New York Mayor Eric Adams, to a lifetime post as a federal judge.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/republicans-on-senate-panel-vote-to-advance-boves-nomination-after-democrats-storm-out/>
+
+---
+
+## Waiakea High students excel at DECA competition
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Waiakea High School DECA students earlier this year attended the 2025 Hawaii State DECA Career Development Conference at the Hawaii Convention Center on Oahu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/community/waiakea-high-students-excel-at-deca-competition/>
+
+---
+
+## Kona Skatepark more than doubles in size
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The Kona Skatepark has been expanded.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/community/kona-skatepark-more-than-doubles-in-size/>
+
+---
+
+## News in brief for July 18
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Scandal-ridden Fyre Festival &#0010;is sold for $245,000 on eBay</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/news-in-brief-for-july-18/>
+
+---
+
+## ‘Cabaret’ kicks off tonight in Hilo: HEART gets spicy with a three-weekend run at the Palace
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Starting tonight, the Hilo Education Arts Repertory Theatre will transport adults-only audiences to late 1920s Berlin during the three-weekend run of the musical &#8220;Cabaret&#8221; at The Palace Theater.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/community/cabaret-kicks-off-tonight-in-hilo-heart-gets-spicy-with-a-three-weekend-run-at-the-palace/>
+
+---
+
+## Trump was diagnosed with chronic venous insufficiency. What is it?
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>The White House said on Thursday that President Donald Trump had been diagnosed with chronic venous insufficiency, a condition that occurs when veins have trouble moving blood back to the heart.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/trump-was-diagnosed-with-chronic-venous-insufficiency-what-is-it/>
+
+---
+
+## Trump faces backlash as 69% believe Epstein details concealed, Reuters/Ipsos poll finds
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Most Americans think President Donald Trump&#8217;s administration is hiding information about accused sex-trafficker Jeffrey Epstein and give it poor marks on the issue after pledging to make public documents in the case, a Reuters/Ipsos poll found.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/trump-faces-backlash-as-69-believe-epstein-details-concealed-reuters-ipsos-poll-finds/>
+
+---
+
+## Prominent human rights group flees El Salvador
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>Prominent Salvadoran human rights group Cristosal has closed its offices in El Salvador and its two dozen employees have departed for neighboring countries, amid threats and harassment by police, according to the group&#8217;s director, Noah Bullock, who announced the move Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/prominent-human-rights-group-flees-el-salvador/>
+
+---
+
+## Israel strikes Gaza Catholic church, killing three
+
+date: 2025-07-18, from: Hawaii Tribune Harold
+
+
+				<p>GAZA CITY &#8212; An Israeli strike on Gaza&#8217;s sole Catholic Church killed three people and injured several others, the Latin Patriarchate of Jerusalem, which oversees the small parish, said on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/18/nation-world-news/israel-strikes-gaza-catholic-church-killing-three/>
+
+---
+
+## Minatobashi Bridge renovation symbolizes deepening Japan-Palau partnership
+
+date: 2025-07-18, from: Island Times
+
+<figure><img width="900" height="507" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?fit=900%2C507&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?resize=706%2C398&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?fit=900%2C507&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78988" data-permalink="https://islandtimes.org/minatobashi-bridge-renovation-symbolizes-deepening-japan-palau-partnership/ground/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?fit=900%2C507&amp;ssl=1" data-orig-size="900,507" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1752750817&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;12&quot;,&quot;shutter_speed&quot;:&quot;0.003678887&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ground" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/ground.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p> By Leilani Reklai, Island Times &#124; July 17, 2025 KOROR, Palau — Palau and Japan reaffirmed their long-standing friendship on Tuesday during a groundbreaking ceremony to launch the renovation of the historic Minatobashi Bridge in Malakal, a vital transportation and economic link for the island nation. The $12 million reconstruction project, funded through a grant [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/minatobashi-bridge-renovation-symbolizes-deepening-japan-palau-partnership/">Minatobashi Bridge renovation symbolizes deepening Japan-Palau partnership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/minatobashi-bridge-renovation-symbolizes-deepening-japan-palau-partnership/>
+
+---
+
+## Retirement age to gradually rise to 65, Social Security contributions to increase
+
+date: 2025-07-18, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau – President Surangel Whipps Jr. is proposing changes to Palau’s Social Security system that would raise the retirement age for younger workers and increase Social Security (SS) contributions from 7% to 8%, starting October 1, 2025. The proposed changes are part of the proposed Fiscal Year 2026 national budget [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/retirement-age-to-gradually-rise-to-65-social-security-contributions-to-increase/">Retirement age to gradually rise to 65, Social Security contributions to increase</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/retirement-age-to-gradually-rise-to-65-social-security-contributions-to-increase/>
+
+---
+
+## Palau considers U.S. refugee proposal; key questions remain on capacity, rights, and impact
+
+date: 2025-07-18, from: Island Times
+
+<figure><img width="1024" height="521" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=1024%2C521&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=1024%2C521&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=1024%2C521&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69858" data-permalink="https://islandtimes.org/president-whipps-to-deliver-4th-state-of-the-republic-address/surangel-whipps-jr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=605%2C732&amp;ssl=1" data-orig-size="605,732" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel-Whipps-Jr" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=248%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/04/Surangel-Whipps-Jr-e1745894530612.jpg?fit=780%2C397&amp;ssl=1" /></figure>
+<p>Koror, Palau — President Surangel Whipps Jr. has introduced a draft agreement with the United States that would allow Palau, at its discretion, to accept third-country nationals currently in the U.S. who are seeking protection but cannot be sent back to their home countries. The proposed arrangement, titled the Asylum Support Agreement, gives Palau the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-considers-u-s-refugee-proposal-key-questions-remain-on-capacity-rights-and-impact/">Palau considers U.S. refugee proposal; key questions remain on capacity, rights, and impact</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-considers-u-s-refugee-proposal-key-questions-remain-on-capacity-rights-and-impact/>
+
+---
+
+## Chinese woman sentenced to 5 Years for smuggling meth in shoes
+
+date: 2025-07-18, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — A Chinese woman has been sentenced to five years in prison in Palau for attempting to smuggle more than 500 grams of methamphetamine into the country. Sau Man Yiu, 52, was convicted of attempted importation and possession of a controlled substance and was sentenced by the Palau Supreme [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chinese-woman-sentenced-to-5-years-for-smuggling-meth-in-shoes/">Chinese woman sentenced to 5 Years for smuggling meth in shoes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/chinese-woman-sentenced-to-5-years-for-smuggling-meth-in-shoes/>
+
+---
+
+## Palauans of All Ages push back on proposal to raise Retirement age to 65
+
+date: 2025-07-18, from: Island Times
+
+<p>By: Summer KennardKoror, Palau (July 17, 2025)&#8211; Palauans across generations are expressing strong opposition to a proposal in the fiscal year 2026 budget to raise the retirement age from 60 to 65, citing health concerns, limited job openings for youth, and disrupted personal retirement plans. The proposal, embedded in a budget rider and motivated by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-of-all-ages-push-back-on-proposal-to-raise-retirement-age-to-65/">Palauans of All Ages push back on proposal to raise Retirement age to 65</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauans-of-all-ages-push-back-on-proposal-to-raise-retirement-age-to-65/>
+
+---
+
+## Japan calls on Palau to amend Marine Sanctuary Law to support Okinawan Fishing Fleet
+
+date: 2025-07-18, from: Island Times
+
+<p>KOROR, Palau — Japan’s Ambassador to Palau, His Excellency Hiroyuki Orikasa, has called on the Palauan government to swiftly approve an amendment to the Palau National Marine Sanctuary (PNMS) law, warning that failure to do so could end a century-old fishing relationship between Okinawa and Palau. Speaking at the groundbreaking ceremony for the Minatobashi Bridge [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-calls-on-palau-to-amend-marine-sanctuary-law-to-support-okinawan-fishing-fleet/">Japan calls on Palau to amend Marine Sanctuary Law to support Okinawan Fishing Fleet</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-calls-on-palau-to-amend-marine-sanctuary-law-to-support-okinawan-fishing-fleet/>
+
+---
+
+## Whipps seeks funds to open Palau Embassy in Australia, strengthen regional ties
+
+date: 2025-07-18, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau— President Surangel Whipps Jr. is asking the Olbiil Era Kelulau (OEK) to approve $237,000 to open a Palauan embassy in Canberra, Australia, citing the need to focus on partners committed to long-term development assistance. The funding request is included in the proposed national budget for fiscal year 2026. Speaking [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-seeks-funds-to-open-palau-embassy-in-australia-strengthen-regional-ties/">Whipps seeks funds to open Palau Embassy in Australia, strengthen regional ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-seeks-funds-to-open-palau-embassy-in-australia-strengthen-regional-ties/>
+
+---
+
+## Palau sets stage for 2026 Pacific Islands Forum leaders meeting
+
+date: 2025-07-18, from: Island Times
+
+<p>KOROR, Palau — The Republic of Palau is gearing up to host the 55th Pacific Islands Forum Leaders Meeting (PIFLM) in 2026, the most high-profile regional gathering to take place in the country since it last hosted in 2014. President Surangel S. Whipps Jr. formalized the preparation process with Executive Order No. 495, establishing an [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-sets-stage-for-2026-pacific-islands-forum-leaders-meeting/">Palau sets stage for 2026 Pacific Islands Forum leaders meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-sets-stage-for-2026-pacific-islands-forum-leaders-meeting/>
+
+---
+
+## Palau Bar admissions committee votes to adopt NextGen UBE beginning in July 2026
+
+date: 2025-07-18, from: Island Times
+
+<figure><img width="600" height="531" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?fit=600%2C531&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?resize=300%2C266&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?resize=400%2C354&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?fit=600%2C531&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="51200" data-permalink="https://islandtimes.org/update-on-judiciarys-operations-and-additional-mitigating-measures/supreme-court-logo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?fit=600%2C531&amp;ssl=1" data-orig-size="600,531" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Palau Judiciary&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="supreme court logo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?fit=300%2C266&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/02/supreme-court-logo.jpg?fit=600%2C531&amp;ssl=1" /></figure>
+<p>The Palau Bar Admissions Committee (“PBAC”) has voted to adopt the NextGen Uniform Bar Exam (NextGen UBE) beginning in July 2026. Palau will join Guam, the Northern Marianas Islands, and seven other United States jurisdictions in becoming among the first to administer the NextGen UBE. In total, 44 jurisdictions across the United States and its [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-bar-admissions-committee-votes-to-adopt-nextgen-ube-beginning-in-july-2026/">Palau Bar admissions committee votes to adopt NextGen UBE beginning in July 2026</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-bar-admissions-committee-votes-to-adopt-nextgen-ube-beginning-in-july-2026/>
+
+---
+
+## Noise– Brain Ambush
+
+date: 2025-07-18, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<p>A friend wrote to me saying:&#160; The other day I found myself standing in the kitchen, staring at the sink, fully overwhelmed — not by dishes (though yes, those too) — but by this random, creeping panic that I was somehow behind in life. Why? No actual reason. Just… a brain ambush. You know the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/noise-brain-ambush/">Noise&#8211; Brain Ambush</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/noise-brain-ambush/>
+
+---
+
+## ISA Deep-Sea Mining talks hit divergent views over key economic body
+
+date: 2025-07-18, from: Island Times
+
+<p>KINGSTON (PACNEWS)&#8212;With pressure mounting inside and outside the International Seabed Authority (ISA), the Council has agreed to continue work on the long-awaited draft regulations for commercial exploitation of deep-sea minerals. A major sticking point emerged over the operationalisation of the Economic Planning Commission (EPC), a UN-mandated body meant to guide the ISA Council on economic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/isa-deep-sea-mining-talks-hit-divergent-views-over-key-economic-body/">ISA Deep-Sea Mining talks hit divergent views over key economic body</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/isa-deep-sea-mining-talks-hit-divergent-views-over-key-economic-body/>
+
+---
+
+## Friends to all: Competing for Pacific security partnerships
+
+date: 2025-07-18, from: Island Times
+
+<p>By Blake Johnson and Astrid Young SYDNEY (ASPI) &#8212;The Pacific faces a rapidly evolving security environment. Foreign partners increasingly compete for comprehensive partnerships, engagements, coordination and influence. Security risks are also evolving, with a greater emphasis on climate- and disaster-driven security threats, and increasing transnational crime and hybrid threats. As a result, it is necessary [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/friends-to-all-competing-for-pacific-security-partnerships/">Friends to all: Competing for Pacific security partnerships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/friends-to-all-competing-for-pacific-security-partnerships/>
+
+---
+
+## Ancient rice discovery in Guam reveals earliest evidence of rice in Pacific islands
+
+date: 2025-07-18, from: Island Times
+
+<p>CANBERRA/HAGATNA (THE JERUSALEM POST) &#8212; Researchers at The Australian National University (ANU) identified the earliest known evidence of rice in the Pacific Islands at an ancient cave site on Guam in the Mariana Islands of western Micronesia.  The discovery pushes back the timeline of rice&#8217;s arrival in the Pacific Islands, settling long-standing academic debates and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ancient-rice-discovery-in-guam-reveals-earliest-evidence-of-rice-in-pacific-islands/">Ancient rice discovery in Guam reveals earliest evidence of rice in Pacific islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ancient-rice-discovery-in-guam-reveals-earliest-evidence-of-rice-in-pacific-islands/>
+
+---
+
+## Rich nations accused of delaying loss and damage fund with slow payments
+
+date: 2025-07-18, from: Island Times
+
+<p>MANILA (CLIMATE HOME)&#8212;Wealthy nations risk undermining the loss and damage fund’s plan to deliver US$250 million in aid next year to climate-vulnerable countries hit by extreme weather, board members from developing nations said last week. While rich nations have pledged US$789 million, they have only transferred US$348 million so far to the Fund for Responding [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rich-nations-accused-of-delaying-loss-and-damage-fund-with-slow-payments/">Rich nations accused of delaying loss and damage fund with slow payments</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rich-nations-accused-of-delaying-loss-and-damage-fund-with-slow-payments/>
+
+---
+
+## Taiwan runs largest defense drills in preparation for Chinese attack
+
+date: 2025-07-18, from: Island Times
+
+<p>By East Asia correspondent Kathleen Calderwood, Fletcher Yeung and Ching-fu Liu in Hsinchu and Taichung, Taiwan (ABC-Australia) At a primary school in New Taipei City, children on summer camp played badminton inside a sports hall while just outside, soldiers fired cannons and rifles. They were rehearsing a hypothetical battle against China&#8217;s People&#8217;s Liberation Army (PLA). &#8220;I [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-runs-largest-defense-drills-in-preparation-for-chinese-attack/">Taiwan runs largest defense drills in preparation for Chinese attack</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-runs-largest-defense-drills-in-preparation-for-chinese-attack/>
+
+---
+
+## Putin’s Pacific invite shakes Indo-Pacific prospects
+
+date: 2025-07-18, from: Pacific Island Times
+
+Vladimir Putin By Tevita Motulalo Nukualofa —In a stunning diplomatic oddity, Tonga’s former Prime Minister Siaosi Sovaleni secretly... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/putin-s-pacific-invite-shakes-indo-pacific-prospects>
+
+---
+
+## Examine your candidates: Are they real leaders or just plain tea bags?
+
+date: 2025-07-18, from: Pacific Island Times
+
+Are popular people who are elected or appointed to office actually leaders, or are they simply well-known people who fit into your familial chart? 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/examine-your-candidates-are-they-real-leaders-or-just-tea-bags>
+
+---
+
+## ICE deportation action lands Marshallese, Micronesians in Guantanamo
+
+date: 2025-07-18, from: 
+
+United States immigration and deportation enforcement continues to ramp up, affecting Marshallese and Micronesians in new and unprecedented ways. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567327/ice-deportation-action-lands-marshallese-micronesians-in-guantanamo>
+
+---
+
+## UH alumna cooks up 3 local businesses, gives back with scholarship
+
+date: 2025-07-18, from: University of Hawaiʻi News
+
+<p>A proud <abbr>UH</abbr> grad shares three food ventures and a scholarship for math students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/uh-alumna-3-local-businesses-scholarship/"><abbr>UH</abbr> alumna cooks up 3 local businesses, gives back with scholarship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/uh-alumna-3-local-businesses-scholarship/>
+
+---
+
+## Rainbow Warrior basketball earns national academic honors
+
+date: 2025-07-18, from: University of Hawaiʻi News
+
+<p>This comes after a program-best grade point average in the 2024&#8211;25 academic year.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/rainbow-warrior-basketball-earns-academic-honors/">Rainbow Warrior basketball earns national academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/rainbow-warrior-basketball-earns-academic-honors/>
+
+---
+
+## American Samoa voter prosecution attracts Washington lobbyists
+
+date: 2025-07-18, from: Pacific Island Times
+
+Because U.S. “nationals” and “citizens” have the same legal duty of “allegiance” to America, some American Samoans may have thought there was no need to pay fees for reclassification as both nationals and citizens in order to vote.   
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/american-samoa-voter-prosecution-attracts-washington-lobbyists>
+
+---
+
+## DJ Mu was the 'producer and pulse' of Fat Freddy's Drop
+
+date: 2025-07-17, from: 
+
+Chris Faiumu, founder of one of Aotearoa's most successful bands, has died suddenly. He leaves a rich musical legacy. 
+
+<br> 
+
+<https://www.rnz.co.nz/life/music/dj-mu-has-died-he-was-the-producer-and-pulse-of-fat-freddy-s-drop>
+
+---
+
+## Rainbow Warrior football picked 7th in Mountain West; Ashlock, Cenacle make preseason team
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p>League media voted at the conference media days in Las Vegas.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/football-picked-7th-mountain-west/">Rainbow Warrior football picked 7th in Mountain West; Ashlock, Cenacle make preseason team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/football-picked-7th-mountain-west/>
+
+---
+
+## Nauru could earn millions after backing US deep sea mining pathway
+
+date: 2025-07-17, from: 
+
+The Micronesian nation is a step closer to mining in international waters and earning "a significant amount of money" under highly contentious US legislation. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567293/nauru-could-earn-millions-after-backing-us-deep-sea-mining-pathway>
+
+---
+
+## President Hensel provides updates on federal policy, upholds UH’s values
+
+date: 2025-07-17, from: University of Hawaiʻi News
+
+<p>Hensel also honored Willard Wilson Award winner Professor Robert Toonen.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/17/president-report-july-2025/">President Hensel provides updates on federal policy, upholds <abbr>UH</abbr>’s values</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/17/president-report-july-2025/>
+
+---
+
+## Goats better than chicks
+
+date: 2025-07-17, from: Marshal Islands Journal
+
+<p>Journal 7/16/1982 P1 Compact vote date and ballot not agreed toPresident Amata Kabua said July 15 that while RepMar has set 17 August as the date for the plebiscite on the compact of free association, the decision is a joint US-Marshalls one and the decision has not yet been made. P1 Burnett takes oath of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/goats-better-than-chicks/">Goats better than chicks</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/goats-better-than-chicks/>
 
 ---
 
@@ -35,11 +625,11 @@ The post <a href="https://www.hawaii.edu/news/2025/07/17/willard-wilson-2025-rob
 
 ---
 
-## REFORPAC: Navigating uncharted territory
+## Navigating unchartered territory at REFORPAC 2025 : Climate and distance pose a challenge to military drill 
 
 date: 2025-07-17, from: Pacific Island Times
 
-12,000 participants, 400 aircraft deployed to the Indo-Pacific for a two-week multilateral training   By Mar-Vic Cagurangan     Building... 
+REFORPAC is part of the department-level exercise series, deploying 400 U.S. and coalition aircraft and more than 12,000 participants at over 50 locations spanning 3,000 miles.  
 
 <br> 
 
@@ -1599,7 +2189,7 @@ The New Zealand government needs to do more for its Pacific Island neighbours an
 
 date: 2025-07-15, from: Island Times
 
-<figure><img width="545" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=545%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=160%2C300&amp;ssl=1 160w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=545%2C1024&amp;ssl=1 545w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=768%2C1443&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=818%2C1536&amp;ssl=1 818w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=1090%2C2048&amp;ssl=1 1090w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=1200%2C2254&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=780%2C1465&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=400%2C751&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=706%2C1326&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=545%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78911" data-permalink="https://islandtimes.org/super-american-circus-to-dazzle-palau-with-three-days-of-thrills/c3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=1249%2C2346&amp;ssl=1" data-orig-size="1249,2346" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="c3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=160%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=545%2C1024&amp;ssl=1" /></figure>
+<figure><img width="545" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=545%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=160%2C300&amp;ssl=1 160w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=545%2C1024&amp;ssl=1 545w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=768%2C1443&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=818%2C1536&amp;ssl=1 818w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=1090%2C2048&amp;ssl=1 1090w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=1200%2C2254&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=780%2C1465&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=400%2C751&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?resize=706%2C1326&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=545%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="78911" data-permalink="https://islandtimes.org/super-american-circus-to-dazzle-palau-with-three-days-of-thrills/c3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=1249%2C2346&amp;ssl=1" data-orig-size="1249,2346" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="c3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=160%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/c3.jpg?fit=545%2C1024&amp;ssl=1" /></figure>
 <p>By: Summer KennardKOROR, Palau — After the excitement of the Pacific Mini Games, Palau is set to host nother major event — the Super American Circus, bringing three days of world-class performances to the Palau National Gym from July 18 to 20.The traveling production promises a thrilling lineup of acts for families and visitors alike, [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/super-american-circus-to-dazzle-palau-with-three-days-of-thrills/">Super American Circus to dazzle Palau with three days of thrills</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
