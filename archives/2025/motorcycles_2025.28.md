@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-07-18 06:07:49
+updated: 2025-07-18 14:08:16
 ---
 
 # motorcycles
 
-(date: 2025-07-18 06:07:49)
+(date: 2025-07-18 14:08:16)
+
+---
+
+## Sarah Fisher’s Son Eyes IndyCar, NASCAR Future After Standout Wins
+
+date: 2025-07-18, from: Kickin the Tires blog
+
+INDIANAPOLIS, July 16, 2025 – Nine-time Indianapolis 500 starter Sarah Fisher is back at the track—this time from the sidelines—cheering on her 11-year-old son, Danny O’Gara, as he sets his&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/sarah-fishers-son-eyes-indycar-nascar-future-after-standout-wins/>
+
+---
+
+## Seattle Advance for the Muckleshoot Casino Resort NHRA Northwest Nationals
+
+date: 2025-07-18, from: Kickin the Tires blog
+
+Event Overview Friday, July 18 (Nitro Qualifying, streamed live on NHRA.TV) Nitro qualifying session (Q1): 9:15 p.m. PDT/12:15 a.m. EDT Saturday, July 19 (Nitro Qualifying &#38; Mission #2Fast2Tasty Challenge, streamed&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/seattle-advance-for-the-muckleshoot-casino-resort-nhra-northwest-nationals/>
 
 ---
 
@@ -71,7 +95,7 @@ What comes next for the company that prides itself on making rolling motorcycle 
 
 ---
 
-## This Is A 7-Cylinder Two Stroke Kawasaki Custom, And It Can Be Yours
+## This Is a 7-Cylinder Two-Stroke Kawasaki Motorcycle, And It Can Be Yours
 
 date: 2025-07-17, from: Ride Apart, Electric Motorcycle News
 

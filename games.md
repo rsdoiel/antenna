@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-07-18 06:07:46
+updated: 2025-07-18 14:08:14
 ---
 
 # games
 
-(date: 2025-07-18 06:07:46)
+(date: 2025-07-18 14:08:14)
+
+---
+
+## Executor Remembrance quest walkthrough in Elden Ring Nightreign
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+Executor’s Remembrance quests in Elden Ring Nightreign shine a light on one of the game’s more mysterious characters. On top of providing you with great relics, these quests offer more context to Executor, the other Nightfarers, and Limveld as a whole. Completing the Executor Remembrance quest consists of gardening and self-reflection (only partly joking), but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/elden-ring-nightreign-guides/603710/executor-remembrance-walkthrough-steps-rewards>
+
+---
+
+## All amiibo rewards and unlocks in Donkey Kong Bananza
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+In Donkey Kong Bananza, you can scan amiibo to add an extra flavor to DK and Pauline’s journey into the underground. The game supports new Donkey Kong and older amiibo figures that, once scanned, give you special clothes and powered-up objects to help you smash through the terrain. Below we list what the amiibos do [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/613193/amiibo-rewards-unlocks-list-all>
+
+---
+
+## Donkey Kong Bananza fans are spending hours destroying everything
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+Many players will likely spend a good deal of Donkey Kong Bananza’s opening testing just how far the Switch 2 game will let them go. Much of Bananza is made up of destructible voxels, and DK can crumble this merry world with the abandon of a toddler playing with its food. Eventually, though, most of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/613994/donkey-kong-bananza-destruction-mechanics-switch-2-opening-level>
+
+---
+
+## How many layers are in Donkey Kong Bananza?
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+How many layers are in Donkey Kong Bananza is a slightly more complex subject than you might initially think. Every layer is structured differently, some with multiple sublayers, and all with varying numbers of Banandium Gems to grab. The way Bananza is structured means that you&#8217;re free to tackle it all at your own pace, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614013/how-many-layers-list-all>
+
+---
+
+## The Coldplay ‘kiss cam’ cheating scandal is now a video game
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+It was only a matter of time, wasn’t it? Over the last couple of days, the internet has swarmed around a mortifying moment during a Coldplay concert when the event crew zoomed in on the audience the hopes of finding a cute couple that could inspire cheers from the crowd. Instead, the camera caught what [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/614100/coldplay-kiss-cam-cheating-video-video-game>
+
+---
+
+## Dropout&#8217;s Gastronauts season 2 trailer sold me on picking up the show
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+While I spend more time than I’d like to admit watching Dropout’s stable of excellent, improv-heavy comedy shows, last year’s Gastronauts is one of the few Dropout programs I haven’t yet checked out. After the new trailer for Gastronauts season 2 made my gut bust with laughter (and rumble with hunger), I think that’s going [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/614004/dropouts-gastronauts-season-2-trailer-sold-me-on-picking-up-the-show>
+
+---
+
+## Star Wars: The Bad Batch returns with a novel – and you can read an excerpt
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+Dave Filoni’s Disney Plus series Star Wars: The Bad Batch followed a group of clone troopers enhanced with specialized genetic mutations as they resist their orders to kill the Jedi and flee the army. At first they try to just lay low and get by doing mercenary work, but The Bad Batch winds up getting [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/613866/the-bad-batch-novel-sanctuary-excerpt>
+
+---
+
+## All Nostalgia Country Banandium Gems in Donkey Kong Bananza
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+Nostalgia Country is an Ancient Ruin in Donkey Kong Bananza that takes you back to the world of Donkey Kong Country. This Ancient Ruin switches your perspective from a 3D world to a sidescrolling platformer, but as it’s still Donkey Kong Bananza, there are three Banandium Gems for you to collect. One of the Banandium [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/613902/nostalgia-country-bananas-banandium-gem-location-ancient-ruin>
 
 ---
 

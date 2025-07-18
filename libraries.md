@@ -1,11 +1,24 @@
 ---
 title: libraries
-updated: 2025-07-18 06:07:48
+updated: 2025-07-18 14:08:15
 ---
 
 # libraries
 
-(date: 2025-07-18 06:07:48)
+(date: 2025-07-18 14:08:15)
+
+---
+
+## Linguistics for a Brazilian Artificial Intelligence (AI)
+
+date: 2025-07-18, from: SciELO in Perspective
+
+<p>The Brazilian Linguistic Diversity Platform is a data curation proposal to train AI models with structured data from Portuguese and 250 other languages spoken in the country, directly serving the Brazilian Artificial Intelligence Plan. The initiative seeks to reduce environmental costs, avoid biases, and create more inclusive technologies for health, education, and public services. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/07/18/linguistics-for-a-brazilian-artificial-intelligence-ai/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/07/18/linguistics-for-a-brazilian-artificial-intelligence-ai/">Linguistics for a Brazilian Artificial Intelligence (AI)</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/07/18/linguistics-for-a-brazilian-artificial-intelligence-ai/>
 
 ---
 
@@ -32,6 +45,18 @@ date: 2025-07-18, from: CSUN Library Blog, Cited
 <br> 
 
 <https://library.csun.edu/blogs/cited/2025/07/18/celebrating-disability-pride-month-2025/>
+
+---
+
+## Symplectic Adds ROR Integration
+
+date: 2025-07-18, updated: 2025-07-18, from: ROR Research ID Blog
+
+Exciting news: Symplectic, a global leader in research information management systems, has integrated ROR into its flagship platform, Symplectic Elements. 
+
+<br> 
+
+<https://ror.org/blog/2025-07-18-symplectic-adds-ror-integration/>
 
 ---
 

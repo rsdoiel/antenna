@@ -1,11 +1,50 @@
 ---
 title: retro computing
-updated: 2025-07-18 06:07:49
+updated: 2025-07-18 14:08:17
 ---
 
 # retro computing
 
-(date: 2025-07-18 06:07:49)
+(date: 2025-07-18 14:08:17)
+
+---
+
+## The Year of Peak Might and Magic
+
+date: 2025-07-18, from: Digital Antiquarian
+
+This article tells part of the story of New World Computing. Some passions are lifelong, but many others fade away over the course of a life, to be replaced by others. Not long after Jon Van Caneghem, the founder of New World Computing, sold his company to 3DO, it started to become obvious to everyone [&#8230;] 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://www.filfre.net/wp-content/uploads/2025/07/MAINMENU.mp3"></source>
+</audio> <a href="https://www.filfre.net/wp-content/uploads/2025/07/MAINMENU.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/>
+
+---
+
+## Pi memory freed from its 32 bit shackles
+
+date: 2025-07-18, from: RiscOS Open
+
+<p>The period between stable releases is the perfect time to try out some experimental changes to <span class="caps">RISC</span> OS. If you&#8217;ve bought one of the top-of-the-range <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/">Raspberry Pi 4&#8217;s</a> with 4GB or 8GB of <span class="caps">RAM</span> the good news is that that extra memory can now be unlocked by dropping the <a href="/zipfiles/platform/raspberry-pi/BCM2835Dev-8GB.5.31.zip">Beta RPi <span class="caps">ROM</span> &#40;8GB Support)</a> onto your SD card.</p>
+<p><img src="/images/third_party/ddr-memory.png" title="CC-0: credit Petr Kratochvil" alt="CC-0: credit Petr Kratochvil" /></p> 
+
+<br> 
+
+<https://www.riscosopen.org/news/articles/2025/07/18/pi-memory-freed-from-its-32-bit-shackles>
+
+---
+
+## Rougol July 2025 meeting on monday - R-Comp talks New 5tuff
+
+date: 2025-07-18, from: Icon Bar, RISC OS News
+
+The July 2025 Rougol meeting is on Monday 18th July. It will feature R-Comp's Andrew Rawnsley talking about new 5stuff (and I expect some older stuff as well). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2214.html>
 
 ---
 

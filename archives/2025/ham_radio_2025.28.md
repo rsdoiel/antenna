@@ -1,11 +1,143 @@
 ---
 title: ham radio
-updated: 2025-07-18 06:07:43
+updated: 2025-07-18 14:08:11
 ---
 
 # ham radio
 
-(date: 2025-07-18 06:07:43)
+(date: 2025-07-18 14:08:11)
+
+---
+
+## Changes in the ARRL Atlantic Division
+
+date: 2025-07-18, from: Amateur Radio Relay League News
+
+<p>Martin “Marty” Newingham, AG3I, of Greensburg, Pennsylvania, has been appointed Vice Director of the ARRL Atlantic Division, effective July 15, 2025. Newingham will serve the remainder of a term that expires December 31, 2026.</p><p>He replaces Martin J. “Marty” Pittinger, KB3MXM, who resigned from the position in April.</p><p>Newingham is an ARRL Life Member and a Gold level contributor to the ARRL Diamond ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-atlantic-division>
+
+---
+
+## FlexRadio Equips ARRL with FLEX-8000 Series Station for W1AW
+
+date: 2025-07-18, from: Amateur Radio Relay League News
+
+<p>There is a new addition to Studio 1 at W1AW, the Hiram Percy Maxim Memorial Station at ARRL Headquarters in Newington, Connecticut: a complete station of the latest gear from FlexRadio, including a FLEX-8600™ Signature Series SDR transceiver, a Maestro C Control Console, Power Genius XL (PGXL) amplifier, and Radiosport RS60CF headset. The equipment is the latest addition to W1AW, which hosts a ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/flexradio-equips-arrl-with-flex-8000-series-station-for-w1aw>
+
+---
+
+## Changes in the ARRL Pacific Division
+
+date: 2025-07-18, from: Amateur Radio Relay League News
+
+<p>Dr. Carol Milazzo, MD, KP4MD, of Citrus Heights, California, has been appointed Vice Director of the ARRL Pacific Division, effective July 9, 2025. She replaces John Litz, NZ6Q, who acceded to the position of Director in May. She will serve the remainder of a three-year term ending December 31, 2025.</p><p>Since 2015, Dr. Milazzo has served as Section Manager of the ARRL Sacramento Valley Section. She...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-pacific-division>
+
+---
+
+## Did connectivity sunsetting kill your embedded-system battery?
+
+date: 2025-07-18, from: EDN Blog
+
+<img width="482" height="408" src="https://www.edn.com/wp-content/uploads/Power-Points173_embedded-sunsetting_Fig2.png?fit=482%2C408" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points173_embedded-sunsetting_Fig2.png?w=482 482w, https://www.edn.com/wp-content/uploads/Power-Points173_embedded-sunsetting_Fig2.png?w=300 300w" sizes="(max-width: 482px) 100vw, 482px" /><p>A poor design in an automobile allowed an overzealous peripheral function to drain a fairly new car battery.</p>
+<p>The post <a href="https://www.edn.com/did-connectivity-sunsetting-kill-your-embedded-system-battery/">Did connectivity sunsetting kill your embedded-system battery?</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/did-connectivity-sunsetting-kill-your-embedded-system-battery/>
+
+---
+
+## Radio Relay International and ARRL Sign Memorandum of Understanding
+
+date: 2025-07-18, from: Amateur Radio Relay League News
+
+<p><b><span>Radio Relay International® and ARRL The National Association for Amateur Radio® Sign Memorandum of Understanding</span></b></p><p><span>ARRL The National Association for Amateur Radio</span><span>® (ARRL®) and </span><span>Radio Relay International</span><span>® (RRI) have signed a Memorandum of Understanding (MOU). [PDF] The formal agreement, signed by ARRL President Rick Roderick, K5UR, and RRI Board Chairman James Wades, WB8SIW, outlines the value the o...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/radio-relay-international-and-arrl-sign-memorandum-of-understanding>
+
+---
+
+## Evaluation board powers small robotics and drones
+
+date: 2025-07-18, from: EDN Blog
+
+<img width="800" height="435" src="https://www.edn.com/wp-content/uploads/EPC-91118.jpg?fit=800%2C435" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/EPC-91118.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/EPC-91118.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/EPC-91118.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The EPC91118 reference design from EPC integrates power, sensing, and control on a compact circular PCB for humanoid robot joints and UAVs.</p>
+<p>The post <a href="https://www.edn.com/evaluation-board-powers-small-robotics-and-drones/">Evaluation board powers small robotics and drones</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/evaluation-board-powers-small-robotics-and-drones/>
+
+---
+
+## Real-time AI fuels faster, smarter defect detection
+
+date: 2025-07-18, from: EDN Blog
+
+<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/TDK-SenseEI.jpg?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/TDK-SenseEI.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/TDK-SenseEI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/TDK-SenseEI.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>TDK SensEI’s edgeRX Vision system, powered by advanced AI, accurately detects defects in components as small as 1.0×0.5 mm in real time.</p>
+<p>The post <a href="https://www.edn.com/real-time-ai-fuels-faster-smarter-defect-detection/">Real-time AI fuels faster, smarter defect detection</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/real-time-ai-fuels-faster-smarter-defect-detection/>
+
+---
+
+## Open-source plugin streamlines edge AI deployment
+
+date: 2025-07-18, from: EDN Blog
+
+<img width="800" height="425" src="https://www.edn.com/wp-content/uploads/ADI-AutoML-Embedded.jpg?fit=800%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/ADI-AutoML-Embedded.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/ADI-AutoML-Embedded.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/ADI-AutoML-Embedded.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Analog Devices and Antmicro have released AutoML for Embedded, a tool that simplifies AI deployment on edge devices.</p>
+<p>The post <a href="https://www.edn.com/open-source-plugin-streamlines-edge-ai-deployment/">Open-source plugin streamlines edge AI deployment</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/open-source-plugin-streamlines-edge-ai-deployment/>
+
+---
+
+## Foundry PDK drives reliable automotive chip design
+
+date: 2025-07-18, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Siemens-SK-keyfoundry.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Siemens-SK-keyfoundry.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Siemens-SK-keyfoundry.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Siemens-SK-keyfoundry.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>SK keyfoundry, in collaboration with Siemens EDA Korea, has introduced a 130-nm automotive PDK compatible with Calibre PERC software.</p>
+<p>The post <a href="https://www.edn.com/foundry-pdk-drives-reliable-automotive-chip-design/">Foundry PDK drives reliable automotive chip design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/foundry-pdk-drives-reliable-automotive-chip-design/>
+
+---
+
+## SiC diodes maintain stable, efficient switching
+
+date: 2025-07-18, from: EDN Blog
+
+<img width="700" height="467" src="https://www.edn.com/wp-content/uploads/Nexperia-PSC2012.jpg?fit=700%2C467" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Nexperia-PSC2012.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-PSC2012.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Nexperia’s 1200-V, 20-A SiC Schottky diodes contribute to high-efficiency power conversion in AI server infrastructure and solar inverters.</p>
+<p>The post <a href="https://www.edn.com/sic-diodes-maintain-stable-efficient-switching/">SiC diodes maintain stable, efficient switching</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/sic-diodes-maintain-stable-efficient-switching/>
 
 ---
 
@@ -25,7 +157,7 @@ date: 2025-07-17, from: Amateur Radio Relay League News
 
 date: 2025-07-17, from: EDN Blog
 
-<img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>It’s a simple oscillator circuit tailored to create a magnetic field around a water pipe to perform water conditioning.</p>
+<img width="1280" height="853" src="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?fit=1280%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/0-Electronic-Water-Softener-Intro_TK.jpg?w=1024 1024w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /><p>It’s a simple oscillator circuit tailored to create a magnetic field around a water pipe to perform water conditioning.</p>
 <p>The post <a href="https://www.edn.com/electronic-water-softener-design-ideas-to-transform-hard-water/">Electronic water softener: Design ideas to transform hard water</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

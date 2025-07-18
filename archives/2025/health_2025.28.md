@@ -1,11 +1,39 @@
 ---
 title: health
-updated: 2025-07-18 06:07:50
+updated: 2025-07-18 14:08:17
 ---
 
 # health
 
-(date: 2025-07-18 06:07:50)
+(date: 2025-07-18 14:08:17)
+
+---
+
+## The BEST Low Sodium Fried Rice
+
+date: 2025-07-18, from: The Kidney Dietitian
+
+<p>This article was written by dietetic student Olivia Jones &#38; reviewed by Melanie Betz MS, RD, CSR, FNKF, FAND. Craving the savory goodness of fried rice but looking to cut back on sodium? This [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/low-sodium-fried-rice/">The BEST Low Sodium Fried Rice</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/low-sodium-fried-rice/>
+
+---
+
+## Instant Pot® Kidney Beans: A Simple Superfood For Your Kidneys, Heart and Plate
+
+date: 2025-07-18, from: The Kidney Dietitian
+
+<p>This article was written by dietetic student Lavanya Chhetri &#38; reviewed by Melanie Betz MS, RD, CSR, FNKF, FAND. If you are aiming to eat heart healthy or support kidney health, good news! Instant [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/instant-pot-kidney-beans/">Instant Pot® Kidney Beans: A Simple Superfood For Your Kidneys, Heart and Plate</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/instant-pot-kidney-beans/>
 
 ---
 

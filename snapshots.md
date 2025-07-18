@@ -1,11 +1,198 @@
 ---
 title: snapshots
-updated: 2025-07-18 06:07:54
+updated: 2025-07-18 14:08:20
 ---
 
 # snapshots
 
-(date: 2025-07-18 06:07:54)
+(date: 2025-07-18 14:08:20)
+
+---
+
+## Male billionaires need financial therapy
+
+date: 2025-07-18, from: Guy Kawasaki blog
+
+Prince Sarpong, Associate professor, University of the Free State. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/male-billionaires-need-financial>
+
+---
+
+## Bullet Points: "We're in Danger" edition
+
+date: 2025-07-18, from: Dave Karpf's blog
+
+Substack's new funding round, doubting Epstein drama amounts to much, and NYT columnists should shut up about Mamdani. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/bullet-points-were-in-danger-edition>
+
+---
+
+## felix86 emulator brings Steam gaming to PCs with RISC-V chips
+
+date: 2025-07-18, from: Liliputing
+
+<p>RISC-V architecture has made a lot of progress in recent years, but when I write about new RISC-V hardware I often add a note that the platform tends to lag behind x86_64 and ARM when it comes to software support. One possible workaround? Emulation. The felix86 emulator lets you run some x86 applications on computers [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/felix86-emulator-brings-steam-gaming-to-pcs-with-risc-v-chips/">felix86 emulator brings Steam gaming to PCs with RISC-V chips</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/felix86-emulator-brings-steam-gaming-to-pcs-with-risc-v-chips/>
+
+---
+
+## Xcode Key Bindings to Make Refactoring Less Painful
+
+date: 2025-07-18, from: Michael Tsai
+
+Jon Reid: Xcode supports automated refactoring. Supposedly. In practice, the options are limited and often unavailable. You&#8217;ll right-click something, navigate to the Refactor submenu&#8230; only to find that the command you want is grayed out. It&#8217;s a waste of time. [&#8230;] With these shortcuts, I can try an automated refactoring in less than a second. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/18/xcode-key-bindings-to-make-refactoring-less-painful/>
+
+---
+
+## Study on AI Coding Tools
+
+date: 2025-07-18, from: Michael Tsai
+
+METR (Hacker News): We conduct a randomized controlled trial (RCT) to understand how early-2025 AI tools affect the productivity of experienced open-source developers working on their own repositories. Surprisingly, we find that when developers use AI tools, they take 19% longer than without&#8212;AI makes them slower. We view this result as a snapshot of early-2025 [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/18/study-on-ai-coding-tools/>
+
+---
+
+## Some of the Apps in the App Store
+
+date: 2025-07-18, from: Michael Tsai
+
+Jeff Johnson (Mastodon): This blog post is about an app named Chatbot: Ask AI Chat Bot, subtitled &#8220;Built on ChatGPT OpenAI, GPT-4", by the developer Tuqeer Ahmad. If you&#8217;re not familiar with Tuqeer Ahmad, well&#8230; neither am I. Nonetheless, Chatbot: Ask AI Chat Bot is currently #23 top grossing in the Mac App Store and [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/18/some-of-the-apps-in-the-app-store/>
+
+---
+
+## App Store Study Shows 90% of What?
+
+date: 2025-07-18, from: Michael Tsai
+
+Apple: Apple today announced the global App Store ecosystem facilitated $1.3 trillion in developer billings and sales in 2024, according to a new study by economists Professor Andrey Fradkin from Boston University Questrom School of Business and Dr. Jessica Burley from Analysis Group. For more than 90 percent of the billings and sales facilitated by [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/18/app-store-study-shows-90-of-what/>
+
+---
+
+## Behind the Blog: High Stakes Data Dumps
+
+date: 2025-07-18, from: 404 Media Group
+
+This week, we discuss data dumps, high stakes, and lizard brain screen time. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-high-stakes-data-dumps/>
+
+---
+
+## Come Party With Us In Los Angeles July 30
+
+date: 2025-07-18, from: 404 Media Group
+
+404 Media is throwing a live podcast and party at RIP.SPACE in the Arts District. 
+
+<br> 
+
+<https://www.404media.co/come-party-with-us-in-los-angeles-july-30/>
+
+---
+
+## Resist
+
+date: 2025-07-18, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>My go-to historical frame of reference is World War II. At a staggering global cost of 85 million lives, the Second World War was the crucible of the 20th century — an explosion of unfathomable destruction, followed by an unparalleled period of (unevenly distributed) peace and prosperity. As I’m a catastrophist, I’m hard-wired to dwell [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/resist/">Resist</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/resist/>
+
+---
+
+## How to run an LLM on your laptop
+
+date: 2025-07-18, updated: 2025-07-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.technologyreview.com/2025/07/17/1120391/how-to-run-an-llm-on-your-laptop/">How to run an LLM on your laptop</a></strong></p>
+I talked to Grace Huckins for this piece from MIT Technology Review on running local models. Apparently she enjoyed my dystopian backup plan!</p>
+<blockquote>
+<p>Simon Willison has a plan for the end of the world. It’s a USB stick, onto which he has loaded a couple of his favorite open-weight LLMs—models that have been shared publicly by their creators and that can, in principle, be downloaded and run with local hardware. If human civilization should ever collapse, Willison plans to use all the knowledge encoded in their billions of parameters for help. “It’s like having a weird, condensed, faulty version of Wikipedia, so I can help reboot society with the help of my little USB stick,” he says.</p>
+</blockquote>
+<p>The article suggests <a href="https://ollama.com/">Ollama</a> or <a href="https://lmstudio.ai/">LM Studio</a> for laptops, and new-to-me <a href="https://apps.apple.com/us/app/llm-farm/id6461209867">LLM Farm</a> for the iPhone:</p>
+<blockquote>
+<p>My beat-up iPhone 12 was able to run Meta’s Llama 3.2 1B using an app called LLM Farm. It’s not a particularly good model—it very quickly goes off into bizarre tangents and hallucinates constantly—but trying to coax something so chaotic toward usability can be entertaining.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/press-quotes">press-quotes</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/18/how-to-run-an-llm-on-your-laptop/#atom-everything>
+
+---
+
+## Make games with Python, 2nd edition — out now!
+
+date: 2025-07-18, from: Raspberry Pi News (.com)
+
+<p>Learn to build your own games, from making moving shapes to designing your in-game physics to coding an alien invasion.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/make-games-with-python-2nd-edition-out-now/">Make games with Python, 2nd edition — out now!</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/make-games-with-python-2nd-edition-out-now/>
+
+---
+
+## Rockchip RK36xx chips have up to 12 ARMv9.3 CPU cores, 2 TFLOPS graphics, 32 TOPS NPU, and LPDDR6 200GB/s memory
+
+date: 2025-07-18, from: Liliputing
+
+<p>Rockchip&#8217;s ARM-based RK3588 processors have been popular options for single-board computers, Linux laptops, and other devices since launching a few years ago. Now Rockchip has unveiled next-gen chips that should bring a big boosts in CPU, graphics, and AI performance among other things. The upcoming Rockchip RK3688 is a new flagship-class processor with 12 CPU cores, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/rockchip-rk36xx-chips-have-up-to-12-armv9-3-cpu-cores-2-tflops-graphics-32-tops-npu-and-lpddr6-200gb-s-memory/">Rockchip RK36xx chips have up to 12 ARMv9.3 CPU cores, 2 TFLOPS graphics, 32 TOPS NPU, and LPDDR6 200GB/s memory</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/rockchip-rk36xx-chips-have-up-to-12-armv9-3-cpu-cores-2-tflops-graphics-32-tops-npu-and-lpddr6-200gb-s-memory/>
+
+---
+
+## White House Partners With PragerU to Make AI-Slopified Founding Fathers
+
+date: 2025-07-18, from: 404 Media Group
+
+John Adams says "facts do not care about our feelings" in one of the AI-generated videos in PragerU's series partnership with White House. 
+
+<br> 
+
+<https://www.404media.co/white-house-partners-with-prageru-to-make-ai-slopified-founding-fathers/>
 
 ---
 

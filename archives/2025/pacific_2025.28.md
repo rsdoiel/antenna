@@ -1,11 +1,48 @@
 ---
 title: pacific
-updated: 2025-07-18 06:07:42
+updated: 2025-07-18 14:08:10
 ---
 
 # pacific
 
-(date: 2025-07-18 06:07:42)
+(date: 2025-07-18 14:08:10)
+
+---
+
+## Red Hill Registry Launch and Community Fair set for August 2
+
+date: 2025-07-18, from: University of Hawaiʻi News
+
+<p>Community members are invited to learn about the new Red Hill Registry and enjoy food, activities and resources at the August 2 launch event.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/18/red-hill-registry-launch-fair/">Red Hill Registry Launch and Community Fair set for August 2</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/18/red-hill-registry-launch-fair/>
+
+---
+
+## Community Events: Liberation Day parade, Tumon Night Market, UOG bootcamp
+
+date: 2025-07-18, from: Pacific Island Times
+
+Honoring war survivors and liberators The 81st Guam Liberation Day Parade begins at 8 a.m. on July 21, along Marine Corps Drive, starting... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-liberation-day-parade-tumon-night-market-uog-bootcamp>
+
+---
+
+## The Polynesian connection: Love, war and trade linked Samoa, Tonga and Fiji before the Europeans' arrival 
+
+date: 2025-07-18, from: Pacific Island Times
+
+Our Islands Our People By Raquel Bagnol     The three islands of West Polynesia—Samoa, Tonga and Fiji—already had close interactions... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-polynesian-connection-love-war-and-trade-linked-samoa-tonga-and-fiji-before-the-europeans-ar>
 
 ---
 

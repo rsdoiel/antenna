@@ -1,11 +1,153 @@
 ---
 title: food
-updated: 2025-07-18 06:07:51
+updated: 2025-07-18 14:08:18
 ---
 
 # food
 
-(date: 2025-07-18 06:07:51)
+(date: 2025-07-18 14:08:18)
+
+---
+
+## Ina Garten’s Tips for Perfectly Grilled New York Strips
+
+date: 2025-07-18, from: Taste of Home
+
+<p>Not surprisingly, the queen of hosting has an ace cookout recipe. Here are the secrets to making Ina Garten's grilled New York strip steaks.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/ina-garten-grilled-new-york-strips/">Ina Garten&#8217;s Tips for Perfectly Grilled New York Strips</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/ina-garten-grilled-new-york-strips/>
+
+---
+
+## This Is Gordon Ramsay’s Secret Ingredient for the Perfect Burger
+
+date: 2025-07-18, from: Taste of Home
+
+<p>Celebrity chef Gordon Ramsay uses one key ingredient to make his burgers juicy and delicious every time. Here's Ramsay's advice for making the perfect burger.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/gordon-ramsays-secret-ingredient-for-perfect-burgers/">This Is Gordon Ramsay&#8217;s Secret Ingredient for the Perfect Burger</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/gordon-ramsays-secret-ingredient-for-perfect-burgers/>
+
+---
+
+## People Are Adding This Surprising Ingredient to Their Coffee
+
+date: 2025-07-18, from: Taste of Home
+
+<p>An earthy, savory nut butter is making its way into the coffee world.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/people-are-adding-this-surprising-ingredient-to-their-coffee/">People Are Adding This Surprising Ingredient to Their Coffee</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/people-are-adding-this-surprising-ingredient-to-their-coffee/>
+
+---
+
+## Food Processor vs. Blender: Do You Really Need Both?
+
+date: 2025-07-18, from: Bon Appetet
+
+We asked culinary experts to break down the pros and cons of food processors vs. blenders, so you can decide which one belongs in your kitchen. 
+
+<br> 
+
+<https://www.bonappetit.com/story/food-processor-vs-blender>
+
+---
+
+## This Summer's Hottest Handbag Is a Soft-Sided Status Cooler
+
+date: 2025-07-18, from: Bon Appetet
+
+Move over Bogg Bag; Stanley has entered the seasonal utilitarian tote chat. 
+
+<br> 
+
+<https://www.bonappetit.com/story/this-summers-hottest-handbag-is-a-soft-sided-status-cooler>
+
+---
+
+## I Tried Matthew McConaughey’s Frozen Paloma—It’s As Cool As He Is
+
+date: 2025-07-18, from: Taste of Home
+
+<p>The actor's frozen paloma recipe with fresh grapefruit juice and tequila makes every summer day alright, alright, alright!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/matthew-mcconaughey-frozen-paloma/">I Tried Matthew McConaughey&#8217;s Frozen Paloma—It&#8217;s As Cool As He Is</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/matthew-mcconaughey-frozen-paloma/>
+
+---
+
+## The Arabica Genome: A Brief History
+
+date: 2025-07-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Read “A Brief History Of The Arabica Genome” on Sprudge Special Projects. 
+
+<br> 
+
+<https://sprudge.com/the-arabica-genome-a-brief-history-378642.html>
+
+---
+
+## Farm Africa Outlines Model for Boosting Farmer Incomes While Curbing Deforestation
+
+date: 2025-07-18, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-Forest-Coffee-Farm-Africa-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Ethiopia Forest Coffee Farm Africa 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-Forest-Coffee-Farm-Africa-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-Forest-Coffee-Farm-Africa-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-Forest-Coffee-Farm-Africa-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-Forest-Coffee-Farm-Africa-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/Ethiopia-Forest-Coffee-Farm-Africa-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The last decade has seen a growing pile of evidence suggesting that coffee grown in agroforestry systems has the potential for numerous environmental and economic benefits over coffee grown... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/18/farm-africa-outlines-model-for-boosting-farmer-incomes-while-curbing-deforestation/>
+
+---
+
+## Weekly Coffee News: Parchment as Fish Food + US Traders Rush to Land Brazil
+
+date: 2025-07-18, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/tilapia-620x465.jpg" class="attachment-large size-large wp-post-image" alt="tilapia" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/tilapia-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tilapia-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tilapia-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tilapia-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tilapia.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Study Suggests Coffee Parchment Could Be Tilapia Feed Authors... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/18/weekly-coffee-news-parchment-as-fish-food-us-traders-rush-to-land-brazil/>
+
+---
+
+## The Best Grill Brush, Tested & Reviewed (2025)
+
+date: 2025-07-18, from: Bon Appetet
+
+We pitted a dozen grill brushes against 20 pounds of sticky BBQ chicken to see which was best at cleaning the grime off the grates. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-grill-brushes>
+
+---
+
+## This Is the Hot Dog Hack You Didn’t Know You Needed
+
+date: 2025-07-18, from: Taste of Home
+
+<p>Hot dog hacks are abundant, but no other is more simple and delicious than this genius idea of using three Hawaiian rolls as your bun.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/hot-dog-hack-hawaiian-roll-buns/">This Is the Hot Dog Hack You Didn&#8217;t Know You Needed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hot-dog-hack-hawaiian-roll-buns/>
 
 ---
 
@@ -72,6 +214,18 @@ date: 2025-07-18, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/starbucks-secret-menu-july-2025/>
+
+---
+
+## Soda Cracker Pie
+
+date: 2025-07-17, from: Taste of Home
+
+This vintage dessert combines crunchy saltine crackers, fluffy meringue and walnuts for a sweet-and-salty soda cracker pie that's surprisingly simple to make—and impossible to forget. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/soda-cracker-pie/>
 
 ---
 
@@ -143,7 +297,7 @@ Crunchy coleslaw, a customizable batch cocktail, sticky-sweet ribs, and more.
 
 date: 2025-07-17, from: Daily Coffee News
 
-<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="MagAttach Coffee Scale Laybird 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new coffee accessories maker called Laybird has left the nest with a new magnetic coffee scale system called the MagAttach Coffee Scale. An April Kickstarter campaign raised more... 
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-620x409.jpg" class="attachment-large size-large wp-post-image" alt="MagAttach Coffee Scale Laybird 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MagAttach-Coffee-Scale-Laybird-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new coffee accessories maker called Laybird has left the nest with a new magnetic coffee scale system called the MagAttach Coffee Scale. An April Kickstarter campaign raised more... 
 
 <br> 
 
@@ -231,7 +385,7 @@ Sweet, tart and buttery with a crumbly streusel topping, these delicious gluten-
 
 date: 2025-07-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee older adults" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from The Netherlands adds to existing evidence that coffee consumption may reduce frailty in older adults.&#160; Led by a team at Vrije Universiteit, the study drew... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee older adults" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-older-adults.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from The Netherlands adds to existing evidence that coffee consumption may reduce frailty in older adults.&#160; Led by a team at Vrije Universiteit, the study drew... 
 
 <br> 
 
@@ -243,7 +397,7 @@ date: 2025-07-16, from: Daily Coffee News
 
 date: 2025-07-16, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="tariffs US coffee industry 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States under the Donald Trump administration is continuing to upend established coffee supply-and-demand dynamics through new tariff threats and applications. Within the past week, the U.S. and its... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="tariffs US coffee industry 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/tariffs-US-coffee-industry-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The United States under the Donald Trump administration is continuing to upend established coffee supply-and-demand dynamics through new tariff threats and applications. Within the past week, the U.S. and its... 
 
 <br> 
 

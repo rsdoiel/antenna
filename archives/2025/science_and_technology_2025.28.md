@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-07-18 06:07:43
+updated: 2025-07-18 14:08:11
 ---
 
 # science and technology
 
-(date: 2025-07-18 06:07:43)
+(date: 2025-07-18 14:08:11)
+
+---
+
+## When root meets immutable: OpenBSD chflags vs. log tampering
+
+date: 2025-07-18, from: OS News
+
+ISO 27001 is like that careful lawyer who never says exactly what they mean – it tells you what needs to be achieved, not how to do it. When it comes to logging, this is particularly telling: Control A.12.4.2 simply states that “logging information and logging facilities shall be protected against tampering and unauthorized access.” Period. How? That’s your problem to solve. ↫ Rafael Sadowski It turns out OpenBSD has a few relatively simple tools to make logs immutable, in a way that not even root can delete or modify them, or change any of the logging schedules. Reading through the blog post, you don&#8217;t even need a ton of intricate knowledge to set this up, thanks mostly to just how much innate sense OpenBSD tends to make, and how excellent the documentation is. I have no need for this level of security, but if you do, you can set this up in a few minutes. 
+
+<br> 
+
+<https://www.osnews.com/story/142841/when-root-meets-immutable-openbsd-chflags-vs-log-tampering/>
+
+---
+
+## Microsoft announces Exchange 2016/2019 Extended Security Update program
+
+date: 2025-07-18, from: OS News
+
+With both Exchange 2016 and 2019&#160;going out of support in October 2025, we have heard from some of our customers that they have started their migrations to Exchange Subscription Edition (SE) but might need a few extra months of Security Updates (SU) for their Exchange 2016 / 2019 servers while they are finalizing their migrations. We are announcing that we now have a solution for such customers. Starting on August 1st, 2025, customers can contact their Microsoft account team to get information about and purchase an additional 6-month Extended Security Update (ESU) for their Exchange 2016 / 2019 servers. Your account teams will have information related to per server cost and additional details on how to purchase and receive ESUs, starting August 1st, 2025. ↫ The Exchange Team blog Microsoft is clearly in a place where a lot of their software released over the past ten years or so just kind of works, and people just don&#8217;t feel as strong of a need to upgrade to newer versions, especially not if those newer versions come with complex subscriptions. It must be a strange position to be in for Microsoft. 
+
+<br> 
+
+<https://www.osnews.com/story/142839/microsoft-announces-exchange-2016-2019-extended-security-update-program/>
+
+---
+
+## Curiosity Blog, Sols 4602-4603: On Top of the Ridge
+
+date: 2025-07-18, from: NASA breaking news
+
+Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Wednesday, July 16, 2025 As we hoped, we successfully climbed the 11-meter ramp (about 36 feet) and have arrived at the top of the ridge and the start of the main boxwork region. This means we’re moving into the next phase of the […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4602-4603-on-top-of-the-ridge/>
+
+---
+
+## Foundry competition heats up as Japan’s Rapidus says 2nm chip tech on track for 2027
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>That&#39;s just... checks notes... two years behind everyone else</h4> <p>Japanese foundry upstart Rapidus says it&#39;s on track to begin volume production of 2nm process tech after achieving a major milestone this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/rapidus_foundry_2nm/>
+
+---
+
+## Stay Cool: NASA Tests Innovative Technique for Super Cold Fuel Storage
+
+date: 2025-07-18, from: NASA breaking news
+
+In the vacuum of space, where temperatures can plunge to minus 455 degrees Fahrenheit, it might seem like keeping things cold would be easy. But the reality is more complex for preserving ultra-cold fluid propellants – or fuel – that can easily overheat from onboard systems, solar radiation, and spacecraft exhaust. The solution is a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/stay-cool-nasa-tests-innovative-technique-for-super-cold-fuel-storage/>
+
+---
+
+## Coldplay kiss-cam flap proves we’re already our own surveillance state
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>And we’re the ones building it</h4> <p><strong>Comment</strong>  A tech executive&#39;s alleged affair exposed on a stadium jumbotron is ripe fodder for the gossip rags, but it exhibits something else: proof that we need not wait for an AI-fueled dystopian surveillance state to descend on us - we&#39;re perfectly able and willing to surveil ourselves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/coldplay_kiss_cam_privacy/>
+
+---
+
+## NASA-Derived Textiles are Touring France by Bike
+
+date: 2025-07-18, from: NASA breaking news
+
+During the Tour de France, athletes have to maintain a constant speed while bike riding for dozens of miles through cold rains and summer heat. These cyclists need gear that adapts to the different environments they encounter. One company is using a material with NASA origins to ensure these athletes stay comfortable while taking their [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-derived-textiles-are-touring-france-by-bike/>
+
+---
+
+## Hubble Snaps Galaxy Cluster’s Portrait
+
+date: 2025-07-18, from: NASA breaking news
+
+A massive, spacetime-warping cluster of galaxies is the setting of today’s NASA/ESA&#160;Hubble Space Telescope&#160;image. The galaxy cluster in question is Abell 209, located 2.8 billion light-years away in the constellation Cetus (the Whale). This Hubble image of Abell 209 shows more than a hundred galaxies, but there’s more to this cluster than even Hubble’s discerning [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-snaps-galaxy-clusters-portrait/>
+
+---
+
+## YouTuber leaked iOS secrets via friend spying on dev's phone, Apple lawsuit claims
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Jon Prosser and alleged accomplice accused of stealing trade secrets from development device</h4> <p>Apple has sued tech YouTuber Jon Prosser for allegedly leaking iOS 26 information to the public ahead of its reveal at WWDC in June.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/apple_sues_youtuber_ios_leak/>
+
+---
+
+## Not so SaaSy now: Oracle sugars BYOL deals as AWS database tie-in goes live
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Big Red incentivizes perpetual licenses with 76% savings as it parks racks in hyperscaler datacenters</h4> <p>Oracle began incentivizing perpetual licenses in favor of subscription deals as it introduced its database systems via rival cloud vendors, say licensing experts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/oracle_database_aws/>
+
+---
+
+## How Distillation Makes AI Models Smaller and Cheaper
+
+date: 2025-07-18, from: Quanta Magazine
+
+Fundamental technique lets researchers use a big, expensive “teacher” model to train a “student” model for less.            <p>The post <a href="https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/" target="_blank">How Distillation Makes AI Models Smaller and Cheaper</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/>
+
+---
+
+## What You Need to Know About NASA’s SpaceX Crew-11 Mission
+
+date: 2025-07-18, from: NASA breaking news
+
+Four crew members are preparing to launch to the International Space Station as part of NASA’s SpaceX Crew-11 mission to perform research, technology demonstrations, and maintenance activities aboard the orbiting laboratory. 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/>
+
+---
+
+## Vision Changes on Space Station
+
+date: 2025-07-18, from: NASA breaking news
+
+Science in Space July 2025 When astronauts began spending six months and more aboard the International Space Station, they started to notice changes in their vision. For example, many found that, as their mission progressed, they needed stronger reading glasses. Researchers studying this phenomenon identified swelling in the optic disc, which is where the optic [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/vision-changes-on-space-station/>
+
+---
+
+## As companies race to add AI, terms of service changes are going to freak a lot of people out
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>WeTransfer added the magic words &#39;machine learning&#39; to its ToS and users reacted predictably</h4> <p><strong>Analysis</strong>  WeTransfer this week denied claims it uses files uploaded to its ubiquitous cloud storage service to train AI, and rolled back changes it had introduced to its Terms of Service after they deeply upset users. The topic? Granting licensing permissions for an as-yet-unreleased LLM product.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/llm_products_terms_of_service/>
 
 ---
 

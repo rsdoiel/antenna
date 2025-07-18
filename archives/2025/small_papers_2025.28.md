@@ -1,11 +1,124 @@
 ---
 title: small papers
-updated: 2025-07-18 06:07:52
+updated: 2025-07-18 14:08:19
 ---
 
 # small papers
 
-(date: 2025-07-18 06:07:52)
+(date: 2025-07-18 14:08:19)
+
+---
+
+## Fourth of July decoration winners
+
+date: 2025-07-18, from: Catalina Islander
+
+Winners of the Fourth of July decorating contests Businesses: First Place &#8211; Bluewater of Avalon (Decorated inside and out) Second Place &#8211; Lloyds of Avalon (Brings a smile your face, like a kid in a candy store) Third Place &#8211; Catalina Cones (aesthetic and good use of minimalism in decorations) Homes: First Place &#8211; 333 [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/fourth-of-july-decoration-winners/>
+
+---
+
+## Kayak Cleanup set for Thursday
+
+date: 2025-07-18, from: Catalina Islander
+
+The next Catalina Kayak Cleanups will be held on July 24, from 9 a.m. to 1 p.m. Join Wet Spot Rentals on July 24th for a morning of paddling and cleaning beaches along the coast. Bring water shoes, sun protection, and clothes you’re comfortable getting wet. Kayaks and cleanup gear will be provided. For more [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/kayak-cleanup-set-for-thursday/>
+
+---
+
+## The Queen Mary’s commodore, who welcomed tourists aboard for over 40 years, has died
+
+date: 2025-07-18, from: Long Beach Post
+
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-1024x578.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-1024x578.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-768x433.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-400x226.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Nobody embodied the Queen Mary quite like Everette Hoard, who was a near-constant presence on the ship since 1982.</p>
+<p>The post <a href="https://lbpost.com/news/queen-mary-commodre-everette-hoard-death-obit">The Queen Mary’s commodore, who welcomed tourists aboard for over 40 years, has died</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/queen-mary-commodre-everette-hoard-death-obit>
+
+---
+
+## Activists: ICE Agents Remove Woman From Hospital
+
+date: 2025-07-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; A 36-year-old woman who has been hospitalized since being injured during an immigration detention action in Sherman Oaks is believed to have been taken out of [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/18/activists-ice-agents-remove-woman-from-hospital/">Activists: ICE Agents Remove Woman From Hospital</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/18/activists-ice-agents-remove-woman-from-hospital/>
+
+---
+
+## Bryan Braman, former LBCC linebacker who helped Eagles win Super Bowl, dies at 38
+
+date: 2025-07-18, from: Long Beach Post
+
+<figure><img width="739" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18102122/bryan-braman-super-bowl-visit-copy-382366-czhemx1a-752630-QNWenRuR.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18102122/bryan-braman-super-bowl-visit-copy-382366-czhemx1a-752630-QNWenRuR.jpg 739w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18102122/bryan-braman-super-bowl-visit-copy-382366-czhemx1a-752630-QNWenRuR-300x207.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18102122/bryan-braman-super-bowl-visit-copy-382366-czhemx1a-752630-QNWenRuR-157x108.jpg 157w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18102122/bryan-braman-super-bowl-visit-copy-382366-czhemx1a-752630-QNWenRuR-400x276.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Braman returned to LBCC less than a month after his Super Bowl win with the Eagles and credited the coaching staff for helping him achieve his lifelong dream of playing in the NFL.</p>
+<p>The post <a href="https://lbpost.com/news/bryan-braman-former-lbcc-linebacker-who-helped-eagles-win-superbowl-dies-at-38">Bryan Braman, former LBCC linebacker who helped Eagles win Super Bowl, dies at 38</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/bryan-braman-former-lbcc-linebacker-who-helped-eagles-win-superbowl-dies-at-38>
+
+---
+
+## Long Beach in talks to land minor league baseball team
+
+date: 2025-07-18, from: Long Beach Post
+
+<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1.jpeg 1210w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-565x300.jpeg 565w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-1110x588.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-285x150.jpeg 285w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-768x407.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-1536x814.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-2048x1086.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“Long Beach actually is the largest city, to our knowledge, the largest city in the country that doesn't have its own pro baseball team,” said one of the potential team’s owners.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-baseball-team-pioneer-blair-field">Long Beach in talks to land minor league baseball team </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-baseball-team-pioneer-blair-field>
+
+---
+
+## Judge won’t stay her ban on roving immigration patrols as government appeals the order
+
+date: 2025-07-18, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/03082850/3w3a0640-212659-m0atuwly-213787-aJG1fX0c-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Government lawyers have compared her order to a “strait-jacket” crippling the Trump Administration’s ability to enforce immigration laws.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/judge-wont-stay-her-ban-on-roving-immigration-patrols-as-government-appeals-the-order">Judge won’t stay her ban on roving immigration patrols as government appeals the order</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/judge-wont-stay-her-ban-on-roving-immigration-patrols-as-government-appeals-the-order>
+
+---
+
+## ‘There is no sanctuary anywhere:’ Border Patrol raids come to California’s capital
+
+date: 2025-07-18, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/30064835/48057442262-ebe6d92b39-k-198832-yyomtdua-124868-su2CvVhC.jpg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Border Patrol began conducting operations in Sacramento on Thursday, as two federal court rulings have ordered them to stop warrantless raids.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/there-is-no-sanctuary-anywhere-border-patrol-raids-come-to-californias-capital">‘There is no sanctuary anywhere:’ Border Patrol raids come to California’s capital</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/there-is-no-sanctuary-anywhere-border-patrol-raids-come-to-californias-capital>
 
 ---
 
@@ -13,7 +126,7 @@ updated: 2025-07-18 06:07:52
 
 date: 2025-07-17, from: Long Beach Post
 
-<figure><img width="1024" height="716" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1024x716.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1024x716.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-300x210.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-768x537.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-154x108.jpg 154w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1536x1075.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1200x839.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1568x1097.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-400x280.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1.jpg 1764w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="716" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1024x716.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1024x716.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-300x210.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-768x537.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-154x108.jpg 154w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1536x1075.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1200x839.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-1568x1097.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1-400x280.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/18073920/sheriff-file-cop-crash-9819-scaled-715897-hlqicw43-742407-RbQVHDU1.jpg 1764w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The move signals the federal government is intent on detaining undocumented immigrants who are caught up in the criminal justice system — whether or not they’ve been convicted.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/justice-department-wants-information-on-undocumented-immigrants-inside-california-jails">Justice Department wants information on undocumented immigrants inside California jails</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +141,7 @@ date: 2025-07-17, from: Long Beach Post
 
 date: 2025-07-17, from: Long Beach Post
 
-<figure><img width="1024" height="577" src="https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="An aerial view of Naples, the Long Beach neighborhood with the most amount of high-end real estate transactions. Courtesy of MLS." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples.png 1674w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1024x577.png 1024w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-768x433.png 768w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1536x866.png 1536w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1200x677.png 1200w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1568x884.png 1568w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-400x226.png 400w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-470x265.png 470w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-970x547.png 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="577" src="https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="An aerial view of Naples, the Long Beach neighborhood with the most amount of high-end real estate transactions. Courtesy of MLS." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples.png 1674w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-300x169.png 300w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1024x577.png 1024w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-768x433.png 768w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-192x108.png 192w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1536x866.png 1536w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1200x677.png 1200w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-1568x884.png 1568w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-400x226.png 400w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-470x265.png 470w, https://img.lbpost.com/wp-content/uploads/2019/01/10141924/Most-Expensive-Real-Estate-Naples-970x547.png 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It's meant to identify problems and leaks before a sewage overflow occurs. </p>
 <p>The post <a href="https://lbpost.com/news/city/long-beach-will-smoke-test-the-sewer-system-on-naples-heres-what-that-means">Long Beach will smoke test the sewer system on Naples; here’s what that means</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -43,7 +156,7 @@ date: 2025-07-17, from: Long Beach Post
 
 date: 2025-07-17, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250714_Panorama-City-Altar_SN_07-scaled-e1752727991114.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Bryscon Malik Gaddis, de 20 años, fue detenido el miércoles como sospechoso de asesinato en relación con la muerte de un niño de corta edad, cuyo cadáver fue hallado cerca [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/07/16/la-policia-de-los-angeles-detiene-a-un-sospechoso-de-la-muerte-de-un-nino-hallado-cerca-de-un-contenedor-en-panorama-city/">La Policía de Los Ángeles Detiene a un Sospechoso de la Muerte de un Niño Hallado Cerca de un Contenedor en Panorama City</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

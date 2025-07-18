@@ -1,11 +1,129 @@
 ---
 title: home
-updated: 2025-07-18 06:07:48
+updated: 2025-07-18 14:08:16
 ---
 
 # home
 
-(date: 2025-07-18 06:07:48)
+(date: 2025-07-18 14:08:16)
+
+---
+
+## The Good, the Bad, and the Budget: Federal Policy Update
+
+date: 2025-07-18, from: California Native Plants Society
+
+<p>As we celebrate a recent win on public lands sell- offs, we also know that the fight is far from over to protect imperiled species and irreplaceable habitat.</p>
+<p>The post <a href="https://www.cnps.org/conservation/the-good-the-bad-and-the-budget-federal-policy-update-43959">The Good, the Bad, and the Budget: Federal Policy Update </a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/the-good-the-bad-and-the-budget-federal-policy-update-43959>
+
+---
+
+## Icons Only: Who Better to Restore Two Hallmarks of Gene Leedy’s Legacy Than His Longtime Protégé?
+
+date: 2025-07-18, from: Dwell
+
+After the pioneering Sarasota School of Architecture member died, Florida architect Max Strang stepped in to preserve the modernist’s Winter Haven home and office. 
+
+<br> 
+
+<https://www.dwell.com/article/gene-leedy-house-and-office-restoration-max-strang-winter-haven-florida-a0638c48-cecdea02-32c4dfa7>
+
+---
+
+## When and How to Prune Cactus
+
+date: 2025-07-18, from: The Gardener's Path
+
+<p>Not all cacti need pruning, but there are times when it’s essential to remove damaged tissue, manage size, or take cuttings for propagation. Learn more about the tools you’ll need, when to prune based on the type of growth, and how to make clean cuts without harming your cactus in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/prune-cactus/">When and How to Prune Cactus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/prune-cactus/>
+
+---
+
+## Are Car Night View Cameras Worth It? Safety Pros and Cons
+
+date: 2025-07-18, from: Family Handyman Blog
+
+<p>High-end luxury vehicles sometimes come with a night vision camera, but does this tech actually make the car safer?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-night-view-camera/">Are Car Night View Cameras Worth It? Safety Pros and Cons</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-night-view-camera/>
+
+---
+
+## 10 Things You Should Know About Gasoline
+
+date: 2025-07-18, from: Family Handyman Blog
+
+<p>We spoke to an expert to answer questions like "does premium gas have ethanol?" so that you can fuel your car with peace of mind. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/gasoline-facts/">10 Things You Should Know About Gasoline</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/gasoline-facts/>
+
+---
+
+## 4 Easy Ways to Cut Vinyl Plank Flooring Like a Pro
+
+date: 2025-07-18, from: Family Handyman Blog
+
+<p>Learn how to cut vinyl plank flooring with these proven methods that deliver professional-quality results every time.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-cut-vinyl-plank-flooring/">4 Easy Ways to Cut Vinyl Plank Flooring Like a Pro</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-cut-vinyl-plank-flooring/>
+
+---
+
+## Country Clubs Come to the City—and Everything Else You Need to Know About This Week
+
+date: 2025-07-18, from: Dwell
+
+Chicago’s granny flat vote stalls, Homes.com riles up agents with direct mail tactics, Trump’s "Big Beautiful Bill" sparks eviction fears, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-urban-country-clubs-big-beautiful-bill-homescom-9f855a47>
+
+---
+
+## This Couple’s L.A. Starter Home? A 1,200-Square-Foot ADU in Their Parents’ Backyard
+
+date: 2025-07-18, from: Dwell
+
+Figuring out how and where to build a sub-$1 million home ended up being a "net-positive" for the whole family. 
+
+<br> 
+
+<https://www.dwell.com/article/westchester-adu-bunch-design-multigenerational-living-backyard-house-ced80cf9>
+
+---
+
+## The Glass-Encased Dining Room Is the Star of This $1.5M Hudson River Midcentury
+
+date: 2025-07-18, from: Dwell
+
+Architect Charles P. Winter designed the 6,500-square-foot home with a series of patios, half levels, and skylights that soak up views of the surrounding forest. 
+
+<br> 
+
+<https://www.dwell.com/article/hudson-river-midcentury-home-charles-p-winter-upstate-new-york-real-estate-4b96e1c7>
 
 ---
 
@@ -20,6 +138,18 @@ date: 2025-07-18, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/flora-magazine/california-rare-plant-photo-essay-43764>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-18, from: Sunset Magazine - Living in the West
+
+Garden Basics How to Save Your Dying Container Plants This Summer Six Ways to revive, refresh, and replant your patio pots with climate-smart, high-style solutions.  Read more: How to Save Your Dying Container Plants&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -291,18 +421,6 @@ To build a new home on an old pier in Seattle, the team at E. Cobb Architects fa
 <br> 
 
 <https://www.dwell.com/article/e-cobb-architects-lagerberg-mooring-815785f7>
-
----
-
-## Homepage 2025
-
-date: 2025-07-17, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours A Healdsburg Vacation Home Is a Whimsical, Delightful Space It went from neutral to color- and pattern-filled.  Read more: A Healdsburg Vacation Home Is a Whimsical,&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

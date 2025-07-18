@@ -1,11 +1,236 @@
 ---
 title: planet
-updated: 2025-07-18 06:07:39
+updated: 2025-07-18 14:08:07
 ---
 
 # planet
 
-(date: 2025-07-18 06:07:39)
+(date: 2025-07-18 14:08:07)
+
+---
+
+## Blast at LA sheriff's facility kills three deputies
+
+date: 2025-07-18, from: RTÉ News
+
+An explosion at a Los Angeles County Sheriff's Department training facility has killed three deputies, the department said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0718/1524239-la-explosion/>
+
+---
+
+## Podcast: The Epstein files and trouble for Trump
+
+date: 2025-07-18, from: RTÉ News
+
+The recent decision by the US Dept of Justice and FBI to issue a memo concluding there was no evidence of a client list and that Jeffrey Epstein died by suicide has resulted in some of Trump's most ardent supporters being very angry with him. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0718/1524230-behind-the-story/>
+
+---
+
+## What's in the EU's 18th sanctions package against Russia?
+
+date: 2025-07-18, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0718/1524235-eu-russia-sanctions/>
+
+---
+
+## Odds stacked in Lions' favour for first Wallabies Test
+
+date: 2025-07-18, from: RTÉ News
+
+Neil Treacy previews Saturday's first Test between Australia and the British and Irish Lions in Brisbane. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0718/1524089-odds-stacked-in-lions-favour-for-first-wallabies-test/>
+
+---
+
+## From promise to pushback: Trump and the so-called Epstein list
+
+date: 2025-07-18, from: RTÉ News
+
+United States President Donald Trump is facing growing frustration from some of his supporters after appearing to back away from earlier suggestions that he would release documents linked to disgraced financier and child sex offender Jeffrey Epstein. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0718/1524228-from-promise-to-pushback-trump-and-the-so-called-epstein-list/>
+
+---
+
+## Celebration of Indigenous rights at border crossing event is 'trauma healing'
+
+date: 2025-07-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7588631.1752866485!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/idla.jpeg' alt='Black and white photo of Indigenous people crossing bridge holding flags.' width='620' height='349' title='Indian Defense League of America delegations from various nations crossing the Rainbow Bridge in Niagara Falls at first annual celebration of border crossing in 1928. Chief Clinton Rickard is fifth from the left. '/><p>Every third Saturday of July for the past 98 years, Indigenous people have gathered on the Rainbow Bridge between Niagara Falls, NY and Niagara Falls, ON to reaffirm the tenets within the Jay Treaty, principally their right to freely cross the border.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/jay-treaty-canada-us-border-six-nations-indian-defense-league-of-america-1.7588601?cmp=rss>
+
+---
+
+## Tánaiste holds talks over Lebanon peacekeeping renewal
+
+date: 2025-07-18, from: RTÉ News
+
+Tánaiste Simon Harris has held talks with UN and EU counterparts about the vital need to renew the mandate of the UN peacekeeping force in southern Lebanon. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0718/1524222-unifil-renewal/>
+
+---
+
+## Efforts abroad to 'undermine' Ireland's position on Gaza
+
+date: 2025-07-18, from: RTÉ News
+
+Taoiseach Micheál Martin has said he believes efforts are being made abroad to misrepresent Ireland's position in relation to Israel's war on Hamas. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0718/1524218-efforts-abroad-to-undermine-irelands-position-on-gaza/>
+
+---
+
+## Taoiseach, UK PM agree to work on Legacy Act issues
+
+date: 2025-07-18, from: RTÉ News
+
+The Taoiseach Micheál Martin spoke with the British Prime Minister Keir Starmer by phone this afternoon, with both leaders agreeing to work constructively on a framework for dealing with issues surrounding the Northern Ireland Legacy Act. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0718/1524213-martin-starmer-call/>
+
+---
+
+## As Palestinian students await Canadian visas, some are welcomed by France
+
+date: 2025-07-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7587968.1752861600!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-education.JPG' alt='Destroyed university buildings. The name of a university is written in English and Arabic.' width='620' height='349' title='The Al-Azhar campus in Gaza was severely damaged during Israel&apos;s military offensive. A graduate from that university had hoped to study in Canada, but has now arrived in the south of France.'/><p>Several Palestinian graduate students awaiting visas to study in Canada have been accepted by France in the last two weeks, said a group of professors advocating to bring them here.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/france-palestinian-students-1.7587948?cmp=rss>
+
+---
+
+## With Colbert exit, Canada will lose the talk show host most attuned to our whims and politics
+
+date: 2025-07-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7588570.1752856596!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2149587370.jpg' alt='A dark-haired bespectacled man is shown in closeup standing on the red carpet for an event.' width='620' height='349' title='HOLLYWOOD, CALIFORNIA - APRIL 21: Stephen Colbert arrives at Paley Fest LA 2024 - &quot;The Late Show With Stephen Colbert&quot; at the Dolby Theatre on April 21, 2024 in Hollywood, California. '/><p>Whatever the reasons, next year's cancellation of The Late Show with Stephen Colbert will see the departure of the host in the current era of late night television who kept Canada in his sights, as the relationship with the U.S. turned from friendly with occasional friction to antagonistic.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/colbert-show-cancellation-canada-1.7588303?cmp=rss>
+
+---
+
+## Speeding fines, penalty points revoked over 'human error'
+
+date: 2025-07-18, from: RTÉ News
+
+Gardaí will revoke fines and penalty points issued to hundreds of people for speeding offences who were detected by a static speed camera in Kilkenny last month. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0718/1524205-garda-speeding/>
+
+---
+
+## Death toll in Gaza nears 59,000 as Israeli forces pound the enclave
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>At least 30 Palestinians across Gaza were killed in Israeli attacks on Friday. As the death toll in the enclave nears 59,000, the UN General Assembly adopts a resolution calling on Israel to end its illegal occupation of the Palestinian territories within a year.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-israel-palestinians-war-un-general-assembly-resolution.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-israel-palestinians-war-un-general-assembly-resolution.html>
+
+---
+
+## 252 baby product listings taken off online marketplace
+
+date: 2025-07-18, from: RTÉ News
+
+252 baby product listings have been removed from online marketplaces including Amazon and Temu as part of a safety sweep from EU consumer authorities, including Ireland's Competition and Consumer Protection Commission (CCPC). 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0718/1524202-ccpc-order-on-baby-products/>
+
+---
+
+## Christian patriarchs make rare visit to Gaza after deadly Israeli strike on church
+
+date: 2025-07-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7588433.1752851489!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-church.JPG' alt='Church leaders stand inside a Gaza church.' width='620' height='349' title='Latin Patriarch of Jerusalem Archbishop Pierbattista Pizzaballa, Greek Orthodox Patriarch of Jerusalem, Theophilos III, Greek Orthodox Patriarchate Archbishop Alexios, and Parish priest Father Gabriele Romanelli, who suffered light leg injuries in an Israeli strike on the Holy Family Church on Thursday, visit the Greek Orthodox Saint Porphyrius Church, in Gaza City July 18, 2025. REUTERS/Dawoud Abu Alkas'/><p>Top church leaders visited Gaza on Friday after its only Catholic church was struck by an Israeli shell the day before, an attack that killed three people and injured 10. The wounded included a priest who had developed a close friendship with the late Pope Francis.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/christian-patriarchs-gaza-visit-israeli-strike-church-1.7588353?cmp=rss>
+
+---
+
+## GAA Palestine travels to Jordan with Irish tour cancelled
+
+date: 2025-07-18, from: RTÉ News
+
+GAA Palestine has confirmed that its players and mentors have travelled to Jordan for a summer camp, after visa denials caused the cancellation of a planned tour of Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0718/1524188-gaa-palestine/>
+
+---
+
+## 'No further action' over Kneecap's Glastonbury set
+
+date: 2025-07-18, from: RTÉ News
+
+Kneecap will face no further action following their Glastonbury performance on Saturday 28 June, Avon and Somerset Police in the UK has said. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0718/1524193-no-further-action-over-kneecaps-glastonbury-set/>
+
+---
+
+## Zimbabwe: Scarcity of vocations to the priesthood
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>The Church in Zimbabwe is grappling with a severe shortage of vocations to the priesthood, with numbers of candidates to the Major seminary constantly dwindling in the past ten years.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/zimbabwe-scarcity-of-vocations-to-the-priesthood.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/zimbabwe-scarcity-of-vocations-to-the-priesthood.html>
 
 ---
 
@@ -37,15 +262,27 @@ date: 2025-07-18, from: Vatican News
 
 ---
 
-## Father phoned assault accused to say he attacked son
+## Gilligan 'acted in reasonable manner' at inn, trial hears
 
 date: 2025-07-18, from: RTÉ News
 
-The father of the 12-year old boy allegedly assaulted with a stick by former Clare hurler Niall Gilligan phoned him from a hospital emergency department to say "you just viciously attacked my son", a court has heard. 
+Former All-Ireland winning hurler Niall Gilligan told gardaí that he acted in a reasonable manner to protect himself from injury and assault from others at the Jamaica Inn hostel on 5 October 2023, a court has heard. 
 
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0718/1524172-niall-gilligan-court/>
+
+---
+
+## Implement countrywide Red Dress Alert to prevent need for landfill searches for women: MMIWG advocate
+
+date: 2025-07-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6473030.1752854678!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/hilda-anderson-pyrz.jpg' alt='A woman in glasses, wearing strawberry-shaped beaded earrings, looks at the camera.' width='620' height='349' title='Hilda Anderson-Pyrz is chair of the National Family and Survivors Circle and helps support the families of missing and murdered Indigenous women, girls and two-spirit people.'/><p>As one landfill search ends and another is planned to begin, an MMIWG advocate says countrywide implementation of the Red Dress Alert and addressing "systemic racism" could prevent the agony of such searches ever needing to happen again.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/landfill-search-red-dress-alert-mmiwg-1.7588327?cmp=rss>
 
 ---
 
@@ -70,6 +307,91 @@ Almost four years after Russia’s full-scale invasion, criminal groups in Ukrai
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165428>
+
+---
+
+## UN80 initiative should be ‘inclusive and transparent’, recognises General Assembly
+
+date: 2025-07-18, from: United Nations, UN Affairs
+
+The General Assembly on Friday adopted by consensus a resolution on the Secretary‑General’s UN80 Initiative to strengthen and streamline the United Nations system.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165436>
+
+---
+
+## Mandela’s legacy ‘is now our responsibility’, Guterres says on International Day
+
+date: 2025-07-18, from: United Nations, UN Affairs
+
+In honour of Nelson Mandela International Day on Friday, the United Nations is celebrating with a public service activity, a chamber music concert and a General Assembly meeting, where Secretary-General António Guterres presented the 2025 Mandela Prize.&nbsp;
+&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165435>
+
+---
+
+## UN envoy urges Colombia to ‘stay the course’ as peace faces new strains
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+Colombia has changed profoundly since the 2016 peace deal, but uneven state presence, lingering armed groups and mounting political tensions threaten to erode confidence unless implementation accelerates, the top UN envoy for the country said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165434>
+
+---
+
+## ‘You have to be able to rule your life’: The care revolution in Latin America
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+Globally, there are 12.5 billion hours of work that the world never pays for because it barely even sees these duties.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165431>
+
+---
+
+## On the road in war-torn Gaza
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+Mohammed Saad sits with others inside a homemade cart pulled by a car carrying several passengers, waiting to travel to Gaza City in one of the “uncomfortable and extremely expensive” means of transportation used to get around the Strip. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165432>
+
+---
+
+## Aid cuts leave refugee agency unable to shelter six in 10 fleeing war in Sudan
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+Major cuts to aid budgets have already left people fleeing wars in Sudan and beyond without the assistance and protection they need, the UN refugee agency, UNHCR,&nbsp;said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165430>
+
+---
+
+## Syria crisis: Hundreds killed in ongoing violence, hospitals overwhelmed
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+Amid violent clashes in southern Syria’s Suweida governorate, a picture of grave human rights abuses and rising humanitarian needs is emerging by the hour, the UN said on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165429>
 
 ---
 
@@ -125,6 +447,18 @@ A 21-year-old man accused of possession of firearms and ammunition allegedly pur
 
 ---
 
+## One dead after fatal police shooting in Inukjuak, Que.
+
+date: 2025-07-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6587935.1752848177!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/inukjuak.JPG' alt='Inukjuak town view' width='620' height='349' title='Inukjuak is home to almost 2,000 people, most of them Inuit. '/><p>One person is dead after being shot by police in Inukjuak, Que., marking the third fatal police shooting in Nunavik in eight months. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/one-dead-fatal-police-shooting-inukjuak-1.7588324?cmp=rss>
+
+---
+
 ## Status Yellow warning for rain issued for Cork and Kerry
 
 date: 2025-07-18, from: RTÉ News
@@ -150,6 +484,18 @@ date: 2025-07-18, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/church/news/2025-07/caritas-jerusalem-it-would-have-been-a-massacre.html>
+
+---
+
+## Bank of Ireland apologises over oil spill at Dublin site
+
+date: 2025-07-18, from: RTÉ News
+
+Bank of Ireland has said that it sincerely apologises for an oil spill at one of its sites in south Dublin, which impacted a number of animals at a public park. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0718/1524130-oill-spill-animals/>
 
 ---
 
@@ -205,11 +551,11 @@ North Korea has barred foreigners from a newly opened beach resort, the country'
 
 ---
 
-## The Open Championship Day 2 updates: McIlroy on course
+## The Open Championship Day 2 recap: Scheffler leading
 
 date: 2025-07-18, from: RTÉ News
 
-Rory McIlroy is the first of the Irish competitors in action at the Co Antrim links, starting his round three shots off the pace. 
+World number one Scottie Scheffler is leading at the halfway stage at the County Antrim links. 
 
 <br> 
 
@@ -229,11 +575,11 @@ Ukrainian President Volodymyr Zelensky has hailed the EU's new round of sanction
 
 ---
 
-## Trump's name on 2003 birthday letter to Epstein, says WSJ
+## Trump team seeks to release some of Epstein documents
 
 date: 2025-07-18, from: RTÉ News
 
-Donald Trump's name appeared on a 2003 personal note to Jeffrey Epstein, the Wall Street Journal has reported, with the US president responding that the letter was fake. 
+US President Donald Trump has attempted to control the storm triggered by a report on his friendship with Jeffrey Epstein, ordering the justice department to seek the release of testimony from the prosecution of the late disgraced financier and convicted sex offender. 
 
 <br> 
 
@@ -241,11 +587,11 @@ Donald Trump's name appeared on a 2003 personal note to Jeffrey Epstein, the Wal
 
 ---
 
-## Majority of Dubliners to see property tax rise next year
+## Dublin City Council agrees to raise local property tax
 
 date: 2025-07-18, from: RTÉ News
 
-The majority of Dubliners will see their property tax rise next year as Dublin city councillors are set to become the latest local authority in the capital to vote to increase the tax. 
+The majority of Dubliners will see their property tax rise next year following a vote by Dublin city councillors to increase the tax. 
 
 <br> 
 
@@ -286,6 +632,18 @@ date: 2025-07-18, from: RTÉ News
 <br> 
 
 <https://www.rte.ie/news/us/2025/0718/1524090-the-late-show-us/>
+
+---
+
+## Cambridge Bay, Nunavut, taking measures to address concerns over drugs, community safety
+
+date: 2025-07-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7588052.1752790983!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cambridge-bay-community-gathering.jpg' alt='A group of people sitting in a room. ' width='620' height='349' title='A town hall was held in Cambridge Bay, Nunavut earlier this week to discuss public safety. '/><p>An RCMP drug-detecting dog and a local alert ready system are some of the ideas that will be implemented in Cambridge Bay, Nunavut, in response to growing concern about drugs and community safety in the hamlet.  </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/cambridge-bay-nunavut-hosts-town-hall-to-discuss-drugs-public-safety-concerns-1.7588027?cmp=rss>
 
 ---
 
@@ -349,6 +707,18 @@ The College of Psychiatrists of Ireland has said it "beggars belief" that produc
 
 ---
 
+## Carney's Bill C-5 summit does little to allay concerns, say Manitoba chiefs
+
+date: 2025-07-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7586809.1752697270!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/afn-pmo-20250716.jpg' alt='Grand Chief of Manitoba Keewatinowi Okimakanak Garrison Settee speaks during a press conference in Ottawa, on Wednesday, July 16, 2025. ' width='620' height='349' title='Grand Chief of Manitoba Keewatinowi Okimakanak Garrison Settee speaks during a press conference in Ottawa, on Wednesday, July 16, 2025.'/><p>A group of Manitoba chiefs have emerged from a summit with Prime Minister Mark Carney in Ottawa with many of their concerns remaining over his government's major projects legislation, and how its fast-tracked approval process could sidestep consultations and threaten Indigenous sovereignty.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/carney-summit-indigenous-leaders-1.7587978?cmp=rss>
+
+---
+
 ## Trump denies writing birthday message to Epstein described in Wall Street Journal report
 
 date: 2025-07-17, from: CBC, World News
@@ -358,6 +728,18 @@ date: 2025-07-17, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-bondi-epstein-wsj-report-denial-1.7588191?cmp=rss>
+
+---
+
+## Carney met with protests, walkouts at First Nations summit
+
+date: 2025-07-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/958c0953-64ba-4a8e-a1bd-d75ce0ca8d34,1752797599209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Canada&apos;s Prime Minister at a podium ' width='620' height='349' title='Protesters speak outside the First Nations Summit at the Canadian Museum of History in Gatineau, Que., on Thursday, July 17, 2025. '/><p>Prime Minister Mark Carney met with First Nations leaders to discuss new legislation that would allow for the fast-tracking of major resource and infrastructure projects. Frustrations over land rights and consultation ran deep, and some leaders said the meeting did little to ease concerns.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6835781?cmp=rss>
 
 ---
 
@@ -418,6 +800,18 @@ Two Native American nations have gifted a handwoven rug to the people of Ireland
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0717/1524054-native-americans-gift-ireland/>
+
+---
+
+## Prairie Green landfill search for slain First Nations women ends
+
+date: 2025-07-17, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7470081.1740673576!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/morgan-harris-and-marcedes-myran.jpg' alt='Side-by-side photos of two women. ' width='620' height='349' title='Morgan Harris, 39, and Marcedes Myran, 26 — both originally from Long Plain First Nation — are two of the four women murdered by a serial killer in Winnipeg in 2022.'/><p>A search of a Winnipeg-area landfill for the remains of two First Nations women murdered by a serial killer in 2022 has officially ended, the province says.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/prairie-green-landfill-search-mmiwg-1.7587988?cmp=rss>
 
 ---
 
@@ -667,7 +1061,7 @@ A group of Indigenous youth from the United States, some as young as seven, visi
 
 ## Pakistan reels under monsoon deluge as death toll climbs
 
-date: 2025-07-17, from: United Nations, Top Stories
+date: 2025-07-17, from: United Nations, Climate Change
 
 Pakistan’s monsoon emergency deepened on Thursday as authorities declared disaster zones across parts of eastern Punjab province after lethal cloudbursts and flash floods killed dozens in a single day. 
 
@@ -703,7 +1097,7 @@ As years of war in Ukraine have left millions with unreliable heating and limite
 
 ## From crisis to classroom: How the UN supports education in conflict zones
 
-date: 2025-07-17, from: United Nations, Top Stories
+date: 2025-07-17, from: United Nations, Culture and Education
 
 From makeshift furniture in Gaza to metro classrooms in Ukraine and solar-powered tablets in Sudan, the UN is working to bring education to millions of crisis-affected children. 
 
@@ -741,7 +1135,7 @@ A surge in sectarian violence in southern Syria and Israeli airstrikes reaching 
 
 date: 2025-07-17, from: United Nations, Top Stories
 
-The UN humanitarian office (OCHA) reported mass displacement in Sweida, Syria, after five days of sectarian violence between Bedouin tribal fighters, government forces and Druze militias.&nbsp; 
+The UN humanitarian office (OCHA) reported mass displacement in Suweida, Syria, after five days of sectarian violence between Bedouin tribal fighters, government forces and Druze militias.&nbsp; 
 
 <br> 
 
@@ -2795,7 +3189,7 @@ Intensifying clashes in Sudan’s Kordofan region between rival militaries have 
 
 ## Global demand for meat and dairy set to rise, but climate and nutrition gaps remain
 
-date: 2025-07-15, from: United Nations, Top Stories
+date: 2025-07-15, from: United Nations, Economic Development
 
 Global demand for meat, dairy and fish is projected to climb steadily over the next decade, driven by rising incomes and urbanisation in middle-income countries. 
 

@@ -1,11 +1,163 @@
 ---
 title: north america
-updated: 2025-07-18 06:07:41
+updated: 2025-07-18 14:08:09
 ---
 
 # north america
 
-(date: 2025-07-18 06:07:41)
+(date: 2025-07-18 14:08:09)
+
+---
+
+## The rescission package passed. Now what? Senator Van Hollen explains
+
+date: 2025-07-18, from: The Contrarian
+
+"When your neighbor's house is on fire you don't just sit in your house, you go help them put it out." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168660907/2ef522d9561f7ae762c34864a39bb719.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168660907/2ef522d9561f7ae762c34864a39bb719.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-rescission-package-passed-now>
+
+---
+
+## Skater Kid: Behind the Viral Video and Continued Fight for Justice
+
+date: 2025-07-18, from: Capital and Main
+
+<p>A lone young man taunted an army of immigration cops and a street erupted with the firing of tear gas and crowd-control munitions.</p>
+<p>The post <a href="https://capitalandmain.com/skater-kid-behind-the-viral-video-and-continued-fight-for-justice">Skater Kid: Behind the Viral Video and Continued Fight for Justice</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/skater-kid-behind-the-viral-video-and-continued-fight-for-justice>
+
+---
+
+## No Kings’ Cake
+
+date: 2025-07-18, from: The Contrarian
+
+Resistance and renewal can arise from reclaiming ancient customs. 
+
+<br> 
+
+<https://contrarian.substack.com/p/no-kings-cake>
+
+---
+
+## Stephen Colbert's Cancellation Shows Corporate Media Will Do Anything to Appease Trump
+
+date: 2025-07-18, from: The Contrarian
+
+CBS just killed the top show in late night for 'financial reasons.' (Translation: to make sure Paramount's sale goes through.) 
+
+<br> 
+
+<https://contrarian.substack.com/p/stephen-colberts-cancellation-shows>
+
+---
+
+## Is Epstein the fracture that finally breaks MAGA? April Ryan and Jim Acosta in conversation
+
+date: 2025-07-18, from: The Contrarian
+
+"He's in a box, and it's the reason why he's acting like a caged and cornered animal." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168651511/690a90585247b76b00b33cfb7a0d0574.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168651511/690a90585247b76b00b33cfb7a0d0574.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/is-epstein-the-fracture-that-finally>
+
+---
+
+##  Health Insurers Push Huge Premium Hikes As Profits Soar 
+
+date: 2025-07-18, from: The Lever News
+
+ Health insurance companies are asking state regulators to approve eye-popping rate increases nationwide — reaching 66 percent for some policies.  
+
+<br> 
+
+<https://www.levernews.com/health-insurers-push-huge-premium-hikes-as-profits-soar/>
+
+---
+
+## Powerful white men withheld guaranteed money from a majority Black group. It seems like the NFL is following a political playbook.
+
+date: 2025-07-18, from: The Contrarian
+
+America is becoming increasingly complacent regarding allegations of collusion in both sports and politics. 
+
+<br> 
+
+<https://contrarian.substack.com/p/powerful-white-men-withheld-guaranteed>
+
+---
+
+## Ford-Owned Battery Plant Drags Heels on Union Vote
+
+date: 2025-07-18, from: Capital and Main
+
+<p>BlueOval SK workers asked for a union vote six months ago. Trump administration changes could extend delays.</p>
+<p>The post <a href="https://capitalandmain.com/ford-owned-battery-plant-drags-heels-on-union-vote">Ford-Owned Battery Plant Drags Heels on Union Vote</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/ford-owned-battery-plant-drags-heels-on-union-vote>
+
+---
+
+## Former Chief Federal Lawyers Sound the Alarm: Federal Employees Need Your Help
+
+date: 2025-07-18, from: The Contrarian
+
+A call to action for legal aid 
+
+<br> 
+
+<https://contrarian.substack.com/p/former-chief-federal-lawyers-sound>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-18, from: The Contrarian
+
+Friday: Good Trouble Lives On protests in Jefferson City, Missouri; Minneapolis; Ishpeming, Michigan; Columbia, Maryland; Northwest Indiana; and Phoenix; plus an ICE protest in New York City. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-07-18, from: The Contrarian
+
+The Heroic Adventures of Lex Luthor 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-791>
+
+---
+
+## Is This the Year Texas Republicans Finally Blow It In the Senate? 
+
+date: 2025-07-18, from: The Contrarian
+
+Thanks to a very public divorce scandal, the must-watch Senate race between incumbent John Cornyn and MAGA favorite Ken Paxton is getting messy. Democrats smell blood. 
+
+<br> 
+
+<https://contrarian.substack.com/p/is-this-the-year-texas-republicans>
 
 ---
 
@@ -90,18 +242,6 @@ Rallies today are following the example of the late congressman and civil rights
 <br> 
 
 <https://contrarian.substack.com/p/good-trouble-is-protest-rooted-in>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-17, from: The Contrarian
-
-Thursday: Neighborhood protests, anti-ICE and anti-Palantir protests, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

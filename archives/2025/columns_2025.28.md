@@ -1,11 +1,215 @@
 ---
 title: columns
-updated: 2025-07-18 06:07:45
+updated: 2025-07-18 14:08:12
 ---
 
 # columns
 
-(date: 2025-07-18 06:07:45)
+(date: 2025-07-18 14:08:12)
+
+---
+
+## Apple Sues Jon Prosser Over iOS 26 Leaks
+
+date: 2025-07-18, updated: 2025-07-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/07/17/apple-sues-jon-prosser-ios-26-leaks/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-18, from: Dave Winer's Scripting News)
+
+I want ChatGPT to behave like a computer. I've said as much to it. It resists. 
+
+<br> 
+
+<http://scripting.com/2025/07/18.html#a202541>
+
+---
+
+##  CBS cancelled the Late Show with Stephen Colbert just days after he... 
+
+date: 2025-07-18, updated: 2025-07-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047177-cbs-cancelled-the-late-sh>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-18, from: Dave Winer's Scripting News)
+
+If you're an ambitious developer, esp in 2025, if you want to win, you have to do some leading. That means doing things that help your competitors. When everyone looks to the same big platform vendor to work with, no one wins except the platform vendor. 
+
+<br> 
+
+<http://scripting.com/2025/07/18.html#a193328>
+
+---
+
+## My new look
+
+date: 2025-07-18, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/18/myNewLook.png"></center>I think it's very stylish.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/18/165356.html?title=myNewLook>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-18, from: Dave Winer's Scripting News)
+
+BTW, David Frum imho nailed it in <a href="https://podcasts.apple.com/us/podcast/the-wrecking-of-the-fbi/id1305908387?i=1000717469655">yesterday's podcast</a> where he said Trump was trained by every day having to appease a different set of creditors. It was a good day if he was able to hold them off for one more day. This actually came out in the trial he lost, the 34 guilty verdicts. He's always skating on the verge of bankruptcy. You gotta wonder if the creditors have been paid back yet. I bet some of them haven't. 
+
+<br> 
+
+<http://scripting.com/2025/07/18.html#a164702>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-18, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/18/bigmeal.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It doesn't matter if the MAGA movement dissolves. The country is only being partially run by Trump, there's a new deep state we don't know much about. They did excellent planning, so they could move quickly to disassemble the government and get a good start on the national police force. It can just as easily put a stop to demonstrations in red states as blue states. The MAGAs will be in the same place the rest of us are, mostly powerless unless they/we organize. The NDS has good lawyers cracking down on the big media companies. They know Trump is old and frail, and when the time comes they will make a deal with him to retire to Florida, immune from prosecution, a chance to pontificate and bluster, with a TV show, and lots Big Macs and Quarter Pounders. He'll be fine they'll be fine. The rest of us will live in an economy that has been sold for pennies on the dollar. 
+
+<br> 
+
+<http://scripting.com/2025/07/18.html#a163639>
+
+---
+
+##  Fascism For First Time Founders. &#8220;Let&#8217;s have a little chat about why... 
+
+date: 2025-07-18, updated: 2025-07-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047176-fascism-for-first-time-fo>
+
+---
+
+## The Eagle in the Coal Mine
+
+date: 2025-07-18, from: Doc Searls (at Harvard), New Old Blog
+
+&#160; Public broadcasting is the strongest form of broadcasting that&#8217;s still left. One reason is that it&#8217;s the only form of broadcasting for which its consumers are also its customers. Yes, not all those customers pay, but the market is there. If you donate to public radio or television stations, or to podcasts supported by [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/18/the-eagle-in-the-coal-mine/>
+
+---
+
+## From  Dates to Tweets
+
+date: 2025-07-18, from: Doc Searls (at Harvard), New Old Blog
+
+For the past few weeks I&#39;ve been writing the blog mostly in Wordland, which is awesome. I&#39;ll still keep doing that (such as right now). But I&#39;m hitting the pause button on combining a day&#39;s postings under title that&#39;s a date. I went with dates-as-headlines because it most closely resembled the way I wrote on [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/18/from-dates-to-tweets/>
+
+---
+
+##  &#8220;The extreme sports pioneer Felix Baumgartner, famed for a record-breaking 2012 skydive... 
+
+date: 2025-07-18, updated: 2025-07-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047175-the-extreme-sports-pionee>
+
+---
+
+##  Next year, &#8220;the average person who buys Affordable Care Act insurance will... 
+
+date: 2025-07-18, updated: 2025-07-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047174-next-year-the-average-per>
+
+---
+
+## July 17, 2025
+
+date: 2025-07-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168644128/27cfc1cc691535d02e56190a592a2893.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168644128/27cfc1cc691535d02e56190a592a2893.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-17-2025-0c1>
+
+---
+
+## Magic Moments ✨
+
+date: 2025-07-18, from: Paolo Valdemarin's blog
+
+When AI models start asking each other for help without being told to, something magical happens. 
+
+<br> 
+
+<https://val.demar.in/2025/07/magic-moments-%e2%9c%a8/>
+
+---
+
+## Two-way vs one-way links
+
+date: 2025-07-18, from: Dave Winer's Scripting News
+
+<p>TBL's links are one-way. This was actually a major innovation, at the time people understood there was something called hypertext, it had been written about in <a href="https://en.wikipedia.org/wiki/Ted_Nelson">Ted Nelson's</a> almost <a href="https://daytona.scripting.com/search?q=%22ted%20nelson%22">biblical book</a> of the pre-web, <a href="https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines">Computer Lib/Dream Machines</a>. Previous attempts at hypertext assumed links had to be two-way. By limiting the links to one direction, the technical problem became trivial. You could do two-way links today because relational databases are mature and inexpensive to operate, perform very well on today's hardware, and the internet of 2025 is much faster than the internet of 1990. But the one-way limit was necessary for the web to achieve its simplicity, and the non-existence of a platform vendor, which may have been its most important feature. It could still be done, but it would require a lot of cooperation and backfilling.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/18/124933.html?title=twowayVsOnewayLinks>
+
+---
+
+## What is the web?
+
+date: 2025-07-18, from: Dave Winer's Scripting News
+
+<p>This is what the term "the web" means to me.  </p>
+<p>First, I defer to <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a> who originally coined the term to mean the data structure that connects the documents displayed by the software he introduced in 1993.  He called it <a href="https://en.wikipedia.org/wiki/World_Wide_Web">World Wide Web</a>, which was eventually shortened to web.</p>
+<p>The web is the structure connecting the documents. The documents were pretty standard stuff, designed to work like printed documents produced by word processing and page layout software. Web pages had one feature that could only be approximated on the printed page, the footnote, which gave you a pointer to the source of a quote, or a place to find more information. But the pointer wasn't machine readable, it might have included the title of a book, it's author and its publication date, or a magazine article, indicated by the title of the magazine and its cover date. Like most inventions the web page was designed as a derivative of what came before.  </p>
+<p>Basic features of a <a href="https://en.wikipedia.org/wiki/Web_page">web page</a> include: a title, paragraphs, subtitles, styling (bold, italic, underline, strikethrough), numbered and bulleted lists. </p>
+<p>A web page might be part of a <a href="https://en.wikipedia.org/wiki/Website">website</a> which includes many pages with a common format that link between themselves in the form of a table of contents, navigation links, and possibly an index.  </p>
+<p><a href="https://en.wikipedia.org/wiki/Hyperlink">Links</a> were the big innovation of the web. They work like footnotes on a printed page, but in this medium, the links are machine-readable and had an easy user interface. A link would be shown in a special style, initially underlined text, and when you hover the mouse over the link the cursor turns to an arrow, inviting the user to click. </p>
+<p>When you click a link, the software accesses the web address that's encoded invisibly in the text of the page, and it loads that page into the browser, replacing the previous page.  The new page can have links, and the pages it links to have links, and there is the web. It's an invisible thing, but it's very real. The need to link was always there, but until graphic computers and fast standardized and easy networking, it wasn't possible. TBL's genius was that he stumbled across this idea, was intrigued, and made it work. It really was new and it turns out revolutionary. A lot could be built, it turns out, based on this one simple difference between electronic and printed pages. And up till that point in time there had never been an electronic page! I kid you not. I grew up in that world, the web-less world. </p>
+<p>Okay, so in summary, the web is made up of linked pages with a simple, standard, easy to understand user interface. </p>
+<p>But there's even more to the web. If it had been the product of a company, we never would have seen the explosion of innovation that came about in the years after its introduction. Anyone who had a net connection and a personal computer could run their own site on the web. There were no gatekeepers. And the design of the web technology is so simple that it was hard to understand exactly what it was because there's almost nothing to it. And it was very low cost to start up, you could start building a website in a few minutes. Many of the biggest companies on the web today were started by one or two people working on their own with nothing but time and ideas. They didn't have to get permission. <i>They had the same ability to extend the web as TBL did.</i> That's such a key point. Today if I want to extend xxx or yyy, well that's a very large undertaking, I'd probably have to reinvent the whole thing just to try out a simple idea. That's how you know you're not on the web, if the ability to innovate is exclusive. </p>
+<ul>
+<li>An <a href="http://scripting.com/davenet/1994/10/18/billgatesvstheinternet.html">example</a> of a web page I did in 1994. I didn't have to get anyone's permission to do this. And I used software I already had to create it. There was a little basic technology that I built on but most of what you're looking at was a single person's doing. This was just one year after TBL opened his web to the world. That's the kind of explosive progress that's possible when the planets line up like as did with the web. </li>
+</ul>
+<p>Even so, if your system had all the features, it still isn't the web until the developers and writers and designers actually show up and <i>build</i> the web of relationships between all the sites. The key word there is between. If the linking happens but it's only within one domain, that is not the web. It could be great, just what people want, it could make the investors rich, but it isn't the web. </p>
+<p>And there's more. It's not enough to do all the things the web does, and that it attract writers, designers and programmers who actually build a web with your idea and tech, it has to work with the web TBL started in 1990. If you've done some web-like things, great -- but it's not the web unless it works with the web. </p>
+<p>There should be some honor in tech. You wouldn't be able to build any of the stuff we're building in the 2020's if it weren't for the foundation built for you by TBL's invention from the 1990's, and all that it made possible. If you steal the name and make it meaningless, you've taken something away from the story of humanity, how we create layers of innovation, and how the generosity of one generation can inspire similar generosity in generations to come. When you usurp the name, you're taking away from that understanding. </p>
+<p>Now of course it's cool to disagree. Suggestion -- put up a web page, send me a link, I'll read it and if I want to share it I will. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/18/122303.html?title=whatIsTheWeb>
 
 ---
 
