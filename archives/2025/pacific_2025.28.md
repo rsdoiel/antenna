@@ -1,11 +1,50 @@
 ---
 title: pacific
-updated: 2025-07-18 14:08:10
+updated: 2025-07-19 06:09:33
 ---
 
 # pacific
 
-(date: 2025-07-18 14:08:10)
+(date: 2025-07-19 06:09:33)
+
+---
+
+## ‘Super alcohol’ created by UH scientists in space-like lab reveals cosmic secrets
+
+date: 2025-07-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers recreated a rare alcohol under deep space-like conditions, revealing new clues about life’s chemical origins.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/18/super-alcohol-recreated-by-scientists/">‘Super alcohol’ created by <abbr>UH</abbr> scientists in space-like lab reveals cosmic secrets</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/18/super-alcohol-recreated-by-scientists/>
+
+---
+
+## Court OKs Ordot case settlement deal obligating GovGuam to pay feds $3.9M 
+
+date: 2025-07-18, from: Pacific Island Times
+
+The new consent decree, approved on July 17, is the third in a series of settlement agreements addressing GovGuam’s and the federal government’s claims and counterclaims related to the island's problematic solid waste management.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/court-oks-ordot-case-settlement-deal-obligating-govguam-to-pay-feds-3-9m>
+
+---
+
+## Manu Samoa v Scotland: Scotland too strong for Samoa in Auckland
+
+date: 2025-07-18, from: 
+
+Manu Samoa and Scotland met in a special one-off test at Eden Park, as part of the Scottish tour of New Zealand and the Pacific. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/567360/manu-samoa-v-scotland-scotland-too-strong-for-samoa-in-auckland>
 
 ---
 
@@ -3397,4 +3436,261 @@ The race for the governor’s office is shaping not only as a contest of leaders
 <br> 
 
 <https://www.pacificislandtimes.com/post/campaign-season-for-cnmi-s-2026-governor-s-race-kicks-off-amid-economic-uncertainty>
+
+---
+
+## New All Black Timoci Tavatavanawai makes dream come true
+
+date: 2025-07-12, from: 
+
+Timoci Tavatavanawai knows his dad would be incredibly proud. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/sport/566739/new-all-black-timoci-tavatavanawai-makes-dream-come-true>
+
+---
+
+## A ceremony of silence: Echoes of mana and a chief's ascent
+
+date: 2025-07-12, from: 
+
+In Fiji, a new chief from an eminent dynasty emerged before the crowds, shrouded in silence, accompanied only by the sound of birds. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/566662/a-ceremony-of-silence-echoes-of-mana-and-a-chief-s-ascent>
+
+---
+
+## Bank of Hawaii to open new branch in Tamuning
+
+date: 2025-07-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff Bank of Hawaii announced the grand opening of its new location in Tamuning on July 19. " As  our... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/bank-of-hawaii-to-open-new-branch-in-tamuning>
+
+---
+
+## Tropical Gardening: Try your hand at flower, herb and spice gardening
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>Fresh herbs and spices are a natural for out door and kitchen gardening. In Hawaii, we tend to depend on the convenience of the supermarkets, but growing your own can be fun as well as save money on the food budget.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/features/tropical-gardening-try-your-hand-at-flower-herb-and-spice-gardening/>
+
+---
+
+## FEMA didn’t answer thousands of calls from flood survivors, documents show
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>Two days after catastrophic floods roared through Central Texas, the Federal Emergency Management Agency did not answer nearly two-thirds of calls to its disaster assistance line, according to documents reviewed by The New York Times.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/fema-didnt-answer-thousands-of-calls-from-flood-survivors-documents-show/>
+
+---
+
+## US customs duties top $100 billion for first time in a fiscal year
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. customs duty collections surged again in June as President Donald Trump&#8217;s tariffs gained steam, topping $100 billion for the first time during a fiscal year and helping to produce a surprise $27 billion budget surplus for the month, the Treasury Department reported on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/us-customs-duties-top-100-billion-for-first-time-in-a-fiscal-year/>
+
+---
+
+## Last bills passed by Hawaii lawmakers now law
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>All new state laws stemming from bills passed by Hawaii&#8217;s Legislature earlier this year are now on the books.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/hawaii-news/last-bills-passed-by-hawaii-lawmakers-now-law/>
+
+---
+
+## After Texas disaster, Trump shifts his tone on FEMA
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Just days into his second term, President Donald Trump said he was going to recommend that the Federal Emergency Management Agency &#8220;go away,&#8221; dismissing the agency as bloated and ineffective.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/after-texas-disaster-trump-shifts-his-tone-on-fema/>
+
+---
+
+## Rubio’s cuts at State Department demote longtime US values
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration began firing more than 1,000 State Department employees Friday, as it moves to downsize the federal government&#8217;s diplomatic arm in what critics say is a risky retreat from America&#8217;s global engagement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/rubios-cuts-at-state-department-demote-longtime-us-values/>
+
+---
+
+## Son of El Chapo pleads guilty to sweeping drug charges
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>Ovidio Guzm&#225;n L&#243;pez, a son of the notorious Mexican crime lord known as El Chapo, pleaded guilty Friday to sprawling federal drug charges and using violence to help take control of his father&#8217;s criminal empire.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/son-of-el-chapo-pleads-guilty-to-sweeping-drug-charges/>
+
+---
+
+## Energy Department to gut funding for solar and wind projects
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>The Energy Department plans to eliminate hundreds of millions of dollars in funding for major renewable and efficiency projects this year, the latest move by the Trump administration to undo efforts to shift the nation away from fossil fuels.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/energy-department-to-gut-funding-for-solar-and-wind-projects/>
+
+---
+
+## Two dozen hospitalized in mass drug overdose in Baltimore
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>More than two dozen people were hospitalized for suspected drug overdoses in Baltimore on Thursday, as rescue crews scoured alleys and homes in fear that there were more victims.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/two-dozen-hospitalized-in-mass-drug-overdose-in-baltimore/>
+
+---
+
+## Netanyahu ends Washington trip without a Gaza truce
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Prime Minister Benjamin Netanyahu returned to Israel on Friday without finalizing a truce with Hamas in the Gaza Strip, after days of talks in Washington with U.S. officials, including President Donald Trump, left key issues unresolved.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/netanyahu-ends-washington-trip-without-a-gaza-truce/>
+
+---
+
+## Earth is spinning faster and days are getting shorter, for now
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>It wouldn&#8217;t be summer without the stretched out days. The dawns break early and the dusks come late, affording more time for lazy beach trips and long barbecues under the slow curve of the sun.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/earth-is-spinning-faster-and-days-are-getting-shorter-for-now/>
+
+---
+
+## Evidence supports war crimes allegations in Darfur, ICC prosecutor says
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>The International Criminal Court said on Thursday it had &#8220;reasonable grounds&#8221; to conclude that war crimes and crimes against humanity were unfolding in Sudan&#8217;s western Darfur region, where the county&#8217;s civil war has thrust the region into a deepening catastrophe.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/evidence-supports-war-crimes-allegations-in-darfur-icc-prosecutor-says/>
+
+---
+
+## Fuel to Air India plane was cut off before crash, report says
+
+date: 2025-07-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW DELHI &#8212; Seconds after takeoff and moments before an Air India flight crashed last month, the fuel was cut off to both engines of the plane, investigators said early Saturday, in a preliminary assessment of information from the aircraft&#8217;s voice and data recorder.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/fuel-to-air-india-plane-was-cut-off-before-crash-report-says/>
+
+---
+
+## GAO: American Samoa economy stable, but still faces risks
+
+date: 2025-07-12, from: Pacific Island Times
+
+
+
+In a recent report, GAO also noted that both the American Samoan government and StarKist Samoa rely on the federal tax credit, adding to the shaky posture of the economy, mostly because of the temporary nature of that tax credit. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/gao-american-samoa-economy-stable-but-still-faces-risks>
+
+---
+
+## BJ Attao to run for governor; chooses Speaker Villagomez as his running mate
+
+date: 2025-07-12, updated: 2025-07-12, from: Marianas Variety
+
+REPRESENTATIVE BJ Attao and running mate Speaker Ed Vilagomez declared their independent candidacy for governor and lieutenant governor on Saturday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/bj-attao-to-run-for-governor-chooses-speaker-villagomez-as-his-running-mate/article_410f1055-80e0-49b9-824d-b3a079781445.html>
+
+---
+
+## From campus to cocktails: UH Mānoa grad builds buzz with Char’s Bar
+
+date: 2025-07-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> grad stirs up success with custom cocktails, creativity and connections.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/11/uh-grad-builds-buzz-with-chars-bar/">From campus to cocktails: <abbr>UH</abbr> Mānoa grad builds buzz with Char’s Bar</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/11/uh-grad-builds-buzz-with-chars-bar/>
 

@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-07-18 14:08:14
+updated: 2025-07-19 06:09:37
 ---
 
 # journalism
 
-(date: 2025-07-18 14:08:14)
+(date: 2025-07-19 06:09:37)
+
+---
+
+## Concert preview: Summer brings sunshine, a variety of genres to Los Angeles’ iconic stages
+
+date: 2025-07-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Here comes the sun – along with an exciting lineup.
+Summer is starting, and indie pop and rock artists are taking over Los Angeles. Playing a wide range of venues, from small stages to large amphitheaters, this season’s performances are sure to fulfill any concertgoer&#8217;s dream. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/18/concert-preview-summer-brings-sunshine-a-variety-of-genres-to-los-angeles-iconic-stages/>
 
 ---
 
@@ -278,4 +291,74 @@ Whether readers are curling up at home to escape the heat or sunbathing in the w
 <br> 
 
 <https://dailybruin.com/2025/07/12/summer-book-preview-page-turners-full-of-myth-mystery-and-magic-await-readers/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+The trial session ended at 4:28 p.m., with Bernardo appearing as the second and last witness of the day. The trial was set to continue July 22.&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/490846/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+Bernardo testified that the UCLA Anderson School of Management reported Klein to UCLA&#8217;s Title IX office. Heather Caruso, the Anderson School of Management&#8217;s Dean of Equity, Diversity and Inclusion, emailed the office, attaching screenshots that showed students’ allegations of Klein&#8217;s misconduct. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/490844/>
+
+---
+
+## Alumnus film ‘Freemium 911’ finds festival success with satire of healthcare, AI
+
+date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 14 at 9:05 a.m.</em>
+Combining comedy with sci-fi and a critique of for-profit health care systems, alumnus Michael Plewa’s short film “Freemium 911” is now circulating in film festival circuits. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/12/alumnus-film-freemium-911-finds-festival-success-with-satire-of-healthcare-ai/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+Judson Caskey, who was previously the director of the undergraduate minor in accounting at UCLA, was the first to testify on Friday.
+Caskey said he previously recommended that Klein receive a merit raise in 2018. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/490833/>
+
+---
+
+## Village Pride event celebrates LGBTQ+ community with vendors, performers
+
+date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 13 at 8:49 p.m.</em>
+The Westwood Village Improvement Association hosted the first ever Village Pride event in Broxton Plaza on June 28. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/village-pride-event-celebrates-lgbtq-community-with-vendors-performers/>
+
+---
+
+## North Westwood Neighborhood Council recap – July 9
+
+date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 13 at 8:59 p.m.</em>
+The secretary of the North Westwood Neighborhood Council announced he would resign at the first monthly meeting of the board’s new term July 9. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/11/north-westwood-neighborhood-council-recap-july-9/>
 

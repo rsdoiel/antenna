@@ -1,15 +1,47 @@
 ---
 title: going electric
-updated: 2025-07-18 14:08:18
+updated: 2025-07-19 06:09:40
 ---
 
 # going electric
 
-(date: 2025-07-18 14:08:18)
+(date: 2025-07-19 06:09:40)
 
 ---
 
-## China's Government Wants To Put The Brakes On EV Overinvestment
+## $250M Series B raise boosts XPeng AeroHT flying car ambitions
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/xpeng-aeroht-flying-car-china-cropped.jpeg-copy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese carmaker XPeng is getting perilously close to bringing its AeroHT consumer eVTOL concept to market, thanks to a $250 million Series B round that’s set to accelerate the company’s modular “flying car” production plans.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,evtol,xpeng" data-layer-viewtype="unknown" data-post-id="425798" href="https://electrek.co/2025/07/18/250m-series-b-raise-boosts-xpeng-aeroht-flying-car-ambitions/#more-425798" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/250m-series-b-raise-boosts-xpeng-aeroht-flying-car-ambitions/>
+
+---
+
+## This metro Atlanta factory roof is now a solar record-breaker
+
+date: 2025-07-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Beauflor-solar.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Flooring manufacturer Beauflor USA just turned on the biggest rooftop solar system by capacity in metro Atlanta — and it’s now powering part of its Georgia factory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,georgia,solar,rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="425787" href="https://electrek.co/2025/07/18/metro-atlanta-factory-roof-is-now-a-solar-record-breaker/#more-425787" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/18/metro-atlanta-factory-roof-is-now-a-solar-record-breaker/>
+
+---
+
+## China's Government Wants To Hit The Brakes On EV Overinvestment
 
 date: 2025-07-18, from: Inside EVs News
 
@@ -82,6 +114,10 @@ Volvo will effectively be another SUV-only brand in the U.S.
 date: 2025-07-18, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla announcing new Model 3 and Model Y variants, the robotaxi expansion wars, big Lucid news, and more</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Electrek_394.mp3"></audio></figure>
 
 
 
@@ -1887,4 +1923,61 @@ date: 2025-07-13, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/07/13/livewire-gives-suprise-unveil-of-two-smaller-lower-cost-electric-motorcycles/>
+
+---
+
+## This new wireless e-bike charger wants to be the future of electric bikes
+
+date: 2025-07-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/charging-wireless-tiler-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Forget fumbling with cables or hunting for batteries – TILER is making electric bike charging as seamless as parking your ride. The Dutch startup recently introduced its much-anticipated TILER Compact system, a plug-and-play wireless charger engineered to transform the user experience for e-bike riders.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,wireless-charging" data-layer-viewtype="unknown" data-post-id="423977" href="https://electrek.co/2025/07/12/this-new-wireless-e-bike-charger-wants-to-be-the-future-of-electric-bikes/#more-423977" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/12/this-new-wireless-e-bike-charger-wants-to-be-the-future-of-electric-bikes/>
+
+---
+
+## Kia Lost Millions To Hail In 2023. Its New Protection System Is A Solar Plant
+
+date: 2025-07-12, from: Inside EVs News
+
+With 17,000 solar panels, Kia’s now-protected car park in Georgia will output up to 13 MW of power. 
+
+<br> 
+
+<https://insideevs.com/news/765422/kia-georgia-solar-hail-protection/>
+
+---
+
+## Tesla launches new software update with Grok, but it doesnt even interface with the car
+
+date: 2025-07-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-grok-integration.png?w=1600" /></div><p>Tesla has launched a new software update for its vehicles that includes the anticipated integration of Grok, but it doesnt even interface with the car yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="424534" href="https://electrek.co/2025/07/12/tesla-launches-software-update-with-grok-but-doesnt-interface-car/#more-424534" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/12/tesla-launches-software-update-with-grok-but-doesnt-interface-car/>
+
+---
+
+## The Lucid Gravity Just Smoked Rivian’s Quad-Motor SUV
+
+date: 2025-07-12, from: Inside EVs News
+
+SUVs shouldn’t be this quick, but here they are posting supercar-scaring acceleration numbers.
+ 
+
+<br> 
+
+<https://insideevs.com/news/765587/lucid-gravity-rivian-r1s-race/>
 

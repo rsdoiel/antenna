@@ -1,11 +1,86 @@
 ---
 title: columns
-updated: 2025-07-18 14:08:12
+updated: 2025-07-19 06:09:35
 ---
 
 # columns
 
-(date: 2025-07-18 14:08:12)
+(date: 2025-07-19 06:09:35)
+
+---
+
+## Billionaire Jackass Bill Ackman Bought His Way Into Playing in a Legit Professional Tennis Tournament and, Shockingly, He Embarrassed Himself and Everyone Involved With Letting Him Play
+
+date: 2025-07-18, updated: 2025-07-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/shorts/L7NqTpnSQWo>
+
+---
+
+## ★ Curse Not the King
+
+date: 2025-07-18, updated: 2025-07-19, from: Daring Fireball
+
+Why CBS’s cancellation of “The Late Show With Stephen Colbert” stinks to high hell. 
+
+<br> 
+
+<https://daringfireball.net/2025/07/curse_not_the_king_cbs_colbert_trump>
+
+---
+
+## Extended Run!
+
+date: 2025-07-18, from: Robert Reich's blog
+
+The Last Class film is also spreading to more theaters 
+
+<br> 
+
+<https://robertreich.substack.com/p/extended-run>
+
+---
+
+## One reason I love Indiana
+
+date: 2025-07-18, from: Doc Searls (at Harvard), New Old Blog
+
+My car&#39;s dashboard has been telling me we have a slow leak in the right front tire. So I drove up to Tieman Tire here in Bloomington. It was busy, but they took me as a walk/drive-in, and then took an hour to remove the tire, find the leak in a tub of water (which [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/18/one-reason-i-love-indiana/>
+
+---
+
+## Giving Up on Element & Matrix.org
+
+date: 2025-07-18, from: mrusme blog
+
+The _Matrix.org_ network has great potential, but after years of dealing with
+glitches, slow performance, poor UX, and one too many failures, I'm done with
+it. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/>
+
+---
+
+## Friday Squid Blogging: The Giant Squid Nebula
+
+date: 2025-07-18, updated: 2025-07-14, from: Bruce Schneier blog
+
+<p>Beautiful <a href="https://apod.nasa.gov/apod/ap250705.html">photo</a>.</p>
+<blockquote><p><a href="https://app.astrobin.com/i/hmtykv">Difficult to capture</a>, this mysterious, squid-shaped interstellar cloud spans nearly three full moons in planet Earth&#8217;s sky. <a href="https://ui.adsabs.harvard.edu/abs/2012RMxAA..48..223A/abstract">Discovered in 2011 by</a> French astro-imager <a href="http://outters.fr/wp/?page_id=50">Nicolas Outters</a>, the Squid Nebula&#8217;s <a href="https://apod.nasa.gov/apod/ap230416.html">bipolar shape</a> is distinguished here by the telltale blue <a href="https://en.wikipedia.org/wiki/Nebulium">emission from</a> doubly ionized oxygen atoms. Though apparently <a href="https://apod.nasa.gov/apod/ap230817.html">surrounded by</a> the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one <a href="https://ui.adsabs.harvard.edu/abs/2014A%26A...570A.105C/abstract">investigation</a> suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a ...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html>
 
 ---
 
@@ -1712,6 +1787,18 @@ date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
 
 ---
 
+## Experts Said This Was a Damn Clever Post by Jason Kottke
+
+date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/journalisms-experts-said-conclusion>
+
+---
+
 ##  The Media&#8217;s Pivot to AI Is Not Real and Not Going to... 
 
 date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
@@ -2017,18 +2104,6 @@ date: 2025-07-13, from: Heather Cox Richardson blog
 
 ---
 
-##  Taking Journalism&#8217;s &#8216;Experts Said&#8230;&#8217; Chicanery About Facts to Its Natural, Absurd Conclusion 
-
-date: 2025-07-13, updated: 2025-07-13, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/journalisms-experts-said-conclusion>
-
----
-
 **@Dave Winer's Scripting News** (date: 2025-07-13, from: Dave Winer's Scripting News)
 
 A story about listening to friends vs competitors. Back in the early 90s I was working on system-level scripting for the Mac, supposedly with Apple, but it's no secret the rank and file at Apple didn't like us. They were told by the execs they had to work with us. So when it came time for WWDC, they "forgot" to invite me to speak on behalf of the new stuff. Instead, they had Bill Gates do it, even though Microsoft was not involved yet, they would support the tech in their Mac products eventually, esp their MSIE web browser. Anyway, I was friends with their top PR person, so she called me up a few days before the conference and asked what Bill should say, and I gave her an outline, and when he gave the speech, he did a great job. Couldn't have said it better myself. Microsoft was one of the few companies I've ever collaborated with that didn't seem to resent individual developers. It was a big source of their power. Huge actually. (On second thought, later they did seem to be more or less like any other big company, when they embraced RSS. They didn't actually want my help, they just wanted me to say nice things about them.) 
@@ -2128,4 +2203,212 @@ On July 5, the day after the Texas floods hit, the Federal Emergency Management 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/july-12-2025>
+
+---
+
+## Grok 4 System Prompt Shenanigans
+
+date: 2025-07-12, updated: 2025-07-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/12/grok-4-heavy/>
+
+---
+
+## 2025-07-03 Israeli crimes against humanity continue
+
+date: 2025-07-12, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-03-israeli-crimes-against-humanity-continue">2025-07-03 Israeli crimes against humanity continue</h1>
+
+<p>I don&rsquo;t want to blog about this shit show more than once a month. Here we go. Let nobody claim they didn&rsquo;t know. Let nobody who supported Israel get away with it.</p>
+
+<blockquote>
+<p>The power of Doctors Under Attack comes in the unhurried way it chooses to unfurl its thesis. There is no clear manipulation, no central villain. What there is, however, is an unceasing timeline of horrors. We are shown doctors doing their best in overwhelmed hospitals with no water or electricity, racing to treat wounds that have already begun to rot. We are shown them coming under what seem like targeted attacks, being detained in black sites where they will be tortured and interrogated. There is footage of a gang rape by soldiers. We are shown children, injured and dead, in vast numbers. &ndash; <a href="https://www.theguardian.com/tv-and-radio/2025/jul/03/gaza-doctors-under-attack-review-channel-4-crucial-film-stuff-of-nightmares">Gaza: Doctors Under Attack review – this crucial film is the stuff of nightmares. But the world needs to see it</a>, by Stuart Heritage, for The Guardian, reviewing the film Doctors Under Attack</p>
+</blockquote>
+
+<p>I am waiting for a reckoning. Others are, too.</p>
+
+<blockquote>
+<p>This report investigates the corporate machinery sustaining Israel’s settler-colonial project of displacement and replacement of the Palestinians in the occupied territory. While political leaders and governments shirk their obligations, far too many corporate entities have profited from Israel’s economy of illegal occupation, apartheid and now, genocide. The complicity exposed by this report is just the tip of the iceberg; ending it will not happen without holding the private sector accountable, including its executives. International law recognizes varying degrees of responsibility – each requiring scrutiny and accountability, particularly in this case, where a people’s self-determination and very existence are at stake. This is a necessary step to end the genocide and dismantle the global system that has allowed it. &ndash; <a href="https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur">A/HRC/59/23: From economy of occupation to economy of genocide - Report of the Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 (Advance edited version)</a>, by Francesca Albanese, Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, for the Human Rights Council Fifty-ninth session, United Nations</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>
+
+<p><strong>2025-07-12</strong>. I&rsquo;m supporting this: <a href="https://secure.avaaz.org/campaign/en/stand_with_francesca_loc/">Nobel Peace Prize for Francesca Albanese and Gaza Doctors</a>.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-03-israel>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/14/miniPatrioticSanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I want Mastodon to take off as a blogging platform. That means hooking it up to existing blog platforms. I want our world to connect to theirs. I'm lucky to have bet on WordPress, so my <a href="https://wordland.social/">product</a> gets the connection to Mastodon for free. But the web is what matters, not my product or yours. Even if your product is huge, it's only part of the web. This is how we build, how we get back on track. Somehow we need to get a simple bridge that lets <i>all</i> blog content flow to Mastodon. That's the goal. I just wrote a <a href="https://mastodon.social/@davew/114841153889663929">couple</a> of <a href="https://mastodon.social/@davew/114841162027579055">posts</a> where this became clear to me. Who has the code and expertise to create a simple interface from the outside world to Mastodon. The interface doesn't have to be RSS. But it has to be maximally simple, and it has to cover the <a href="https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/">basic features</a> of blogs that Mastodon supports. 
+
+<br> 
+
+<http://scripting.com/2025/07/12.html#a163304>
+
+---
+
+## Saturday, 12 July 2025
+
+date: 2025-07-12, from: Doc Searls (at Harvard), New Old Blog
+
+I just bought two. The Intention Economy, which lists at $27 and has been sold at that price or close to it by Amazon since the book came out, is now just $13.93 for the hardcover. That&#39;s cheaper than the Kindle edition (also discounted) and the audio version (with my own voice, btw). Coerced Consent. The [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/12/saturday-12-july-2025/>
+
+---
+
+## On _Resistance From the Tech Sector_
+
+date: 2025-07-12, from: mrusme blog
+
+_Big tech_'s rotten core: It's not just the CEOs. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/on-resistance-from-the-tech-sector/>
+
+---
+
+##  Not a joke: there is a new Commodore 64 coming out. &#8220;The... 
+
+date: 2025-07-12, updated: 2025-07-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047135-not-a-joke-there-is>
+
+---
+
+## Today's editorial about AI
+
+date: 2025-07-12, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">AI chatbots don't think and they don't decide. </p>
+<p>They can give you a way to approach a problem, but it's only one way, and it may not be the best way, and it depends on it actually understanding the problem, which is something it does a good simulation of, but can't do. It absolutely cannot think, come up with a strategy, or even make a decision based on probabilities. It might, in the future, get some of these abilities, given how far they've come, but no one knows, it hasn't happened yet. </p>
+<p>The reports that <a href="https://secondthoughts.ai/p/ai-coding-slowdown">say</a> that using a chatbot to write code is actually less efficient than doing it yourself, are totally believable based on two years experience with using it as a development tool. And I can't believe that whatever it comes up with covers enough use-cases to be reliable. It might create a demo of something to present to a board of directors (they're famous for being deceived by demos, btw), but I doubt if it's as usable as something created by someone with an idea of how to craft usable software. </p>
+<p>This might sound like a writer defending their art against the bots, but the difference is I've actually invested the time to learn about this. My counterparts among writers have not done that. And that's not a mistake my chatbot friend would make. It does a lot of research, it just doesn't know what to do with the result, that's up to you. </p>
+<p>So if you want to know the roles humans will play, at least for now, that's it. Think and decide. </p>
+<p>And those are hard and take many years to learn how to do for a human. And we could use some help there btw, look at the awful decisions we're making these days. They just fired all the people at the State Dept who work on climate change, for example. </p>
+<p>Have a nice day one and all.</p>
+<p>PS: Another thing humans can do that apparently AI bots can't is change their mind. </p>
+<p>PPS: I asked ChatGPT if it had any comments on this editorial, <a href="https://imgs.scripting.com/2025/07/12/chatgptresponse.png">and it did</a>, of course. I should try saying something wrong to it and see what it says. I did come up with one, and it gave me an <a href="https://chatgpt.com/c/68726f39-3d34-8012-bf44-8ee84e4446e9">answer</a> even though no answer is possible. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/12/134525.html?title=todaysEditorialAboutAi>
+
+---
+
+## Sponsor my laptop!
+
+date: 2025-07-12, from: Daniel Stenberg Blog
+
+I need to get myself a new laptop. My existing one is from 2017 and was already then not the most powerful one. It recently started to shut itself off when running on battery and during the two most recent curl up meetings it has proven itself to be rather sluggish and unable to save &#8230; <a href="https://daniel.haxx.se/blog/2025/07/12/sponsor-my-laptop/" class="more-link">Continue reading <span class="screen-reader-text">Sponsor my laptop!</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/12/sponsor-my-laptop/>
+
+---
+
+## The price of software freedom is eternal politics
+
+date: 2025-07-12, updated: 2025-07-12, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> Many don&#39;t realize or forget, but the FOSS world has ideological wings, too</h4>
+      <p>The new fork of the X.org X11 server is conservative… and we don&#39;t mean just technologically conservative.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/12/the_price_of_software_freedom/>
+
+---
+
+## We Should Stop Calling Him Our “President” | The Coffee Klatch for July 12, 2025
+
+date: 2025-07-12, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168121057/38a8578f2a0f34c19161ca06f1b04b09.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168121057/38a8578f2a0f34c19161ca06f1b04b09.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/why-we-should-stop-calling-him-our>
+
+---
+
+## July 11, 2025 
+
+date: 2025-07-12, from: Heather Cox Richardson blog
+
+A picture tonight as we celebrate a family wedding this weekend. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-11-2025>
+
+---
+
+## Weeknotes: July 5-11, 2025
+
+date: 2025-07-12, from: Tracy Durnell Blog
+
+Husband started his new job this week! 🙌 He&#8217;s working with a lot of the same people, but no more 6am calls with Romania or midnight calls with India &#8212; I endorse 😴 Win of the week: made a summer playlist 🎶 (mirrored on Spotify if you like 2000s-2020s indie / alt tunes) Looking forward [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/11/weeknotes-july-5-11-2025/>
+
+---
+
+## The Central Valley’s ‘Wonderful Schools’: An Our Towns Report.
+
+date: 2025-07-12, from: James Fallows, Substack
+
+What it takes to open doors, in communities accustomed to thinking that doors are closed. 
+
+<br> 
+
+<https://fallows.substack.com/p/the-central-valleys-wonderful-schools>
+
+---
+
+## July 10, 2025
+
+date: 2025-07-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168124763/d3f1ff8931c58df3997c01b5919a21cf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168124763/d3f1ff8931c58df3997c01b5919a21cf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-10-2025-f60>
+
+---
+
+## Apple and Masimo Faced Off in US Appeals Court This Week
+
+date: 2025-07-12, updated: 2025-07-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/legal/government/apple-masimo-spar-over-apple-watch-import-ban-us-appeals-court-2025-07-07/>
 

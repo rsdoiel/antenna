@@ -1,11 +1,77 @@
 ---
 title: socal north
-updated: 2025-07-18 14:08:09
+updated: 2025-07-19 06:09:32
 ---
 
 # socal north
 
-(date: 2025-07-18 14:08:09)
+(date: 2025-07-19 06:09:32)
+
+---
+
+## Trump wants to cut college access programs for low-income students. California educators are pushing back
+
+date: 2025-07-18, updated: 2025-07-18, from: The LAist
+
+Federal programs like Upward Bound and Talent Search enroll about 100,000 Californians. Can funding survive the bitter partisan divide? 
+
+<br> 
+
+<https://laist.com/news/education/trump-wants-to-cut-college-access-programs-for-low-income-students-california-educators-are-pushing-back>
+
+---
+
+## City Council votes to join lawsuits against ICE raids, starts fundraising drive for immigrant families
+
+date: 2025-07-18, from: Longbeach Post
+
+<figure><img width="1024" height="606" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-1024x606.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-1024x606.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-300x178.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-768x454.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-183x108.jpg 183w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-400x237.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“As the second largest city in LA County, Long Beach is proud to throw its full weight behind this effort,” Mayor Rex Richardson said.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/lawsuit-ice-raids-long-beach-raising-money-immigrants-fund">City Council votes to join lawsuits against ICE raids, starts fundraising drive for immigrant families</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/lawsuit-ice-raids-long-beach-raising-money-immigrants-fund>
+
+---
+
+## 3 deputies killed in explosion at Sheriff’s Department facility in East Los Angeles
+
+date: 2025-07-18, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The explosion occurred at the Biscailuz Regional Training Center, which serves the sheriff's Special Enforcement Bureau's Arson/Explosives Detail.</p>
+<p>The post <a href="https://lbpost.com/news/3-deputies-killed-in-explosion-at-sheriffs-department-facility-in-east-los-angeles">3 deputies killed in explosion at Sheriff&#8217;s Department facility in East Los Angeles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/3-deputies-killed-in-explosion-at-sheriffs-department-facility-in-east-los-angeles>
+
+---
+
+## Flash flood warnings issued as summer thunderstorms arrive in SoCal
+
+date: 2025-07-18, updated: 2025-07-18, from: The LAist
+
+Flood risk will be elevated into Saturday in mountain and high desert areas, the National Weather Service warns. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/flash-flood-warnings-issued-as-summer-thunderstorms-arrive-in-socal>
+
+---
+
+## Rebuilding after the fires will take years. But insurance for temporary housing will run out first
+
+date: 2025-07-18, updated: 2025-07-18, from: The LAist
+
+What will happen if survivors are on the hook for rent and a mortgage at the same time? It's common after a disaster, one expert says. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/rebuilding-after-the-fires-will-take-years-most-survivors-insurance-for-temporary-housing-will-run-out-before-then>
 
 ---
 
@@ -37,7 +103,7 @@ Federal cuts to AmeriCorps led to laying off 5,600 of California's public servic
 
 date: 2025-07-18, from: Longbeach Post
 
-<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-1024x578.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-1024x578.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-768x433.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-400x226.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="578" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-1024x578.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-1024x578.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-768x433.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC-400x226.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/04/30205426/30apr24-qm-0-644131-8ecdc7hf-191625-rEbagKhC.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Nobody embodied the Queen Mary quite like Everette Hoard, who was a near-constant presence on the ship since 1982.</p>
 <p>The post <a href="https://lbpost.com/news/queen-mary-commodre-everette-hoard-death-obit">The Queen Mary’s commodore, who welcomed tourists aboard for over 40 years, has died</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -89,7 +155,7 @@ date: 2025-07-18, from: Longbeach Post
 
 ## 3 deputies killed in explosion at East LA Sheriff's Department training facility
 
-date: 2025-07-18, updated: 2025-07-18, from: The LAist
+date: 2025-07-18, updated: 2025-07-19, from: The LAist
 
 The cause of the explosion is unknown. Sheriff Robert Luna calls the deputies who were killed heroic and says they were all department veterans. 
 
@@ -103,7 +169,7 @@ The cause of the explosion is unknown. Sheriff Robert Luna calls the deputies wh
 
 date: 2025-07-18, from: Longbeach Post
 
-<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1.jpeg 1210w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-565x300.jpeg 565w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-1110x588.jpeg 1110w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-285x150.jpeg 285w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-768x407.jpeg 768w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-1536x814.jpeg 1536w, https://img.lbpost.com/wp-content/uploads/2020/06/29134052/D1VBJS4UwAEt8mx-1210x642-1-2048x1086.jpeg 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="739" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl-1024x739.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl-1024x739.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl-300x217.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl-768x554.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl-150x108.jpg 150w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl-400x289.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114639/18jul25-7-18-25-vista-9-502507-1tb5zqut-492326-bdIhPeCl.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Long Beach actually is the largest city, to our knowledge, the largest city in the country that doesn't have its own pro baseball team,” said one of the potential team’s owners.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-baseball-team-pioneer-blair-field">Long Beach in talks to land minor league baseball team </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -168,6 +234,18 @@ Many people are arguing that young men are in a crisis. From spending too much t
 
 ---
 
+## LAHSA moved hundreds out of LA city homeless count without informing elected officials
+
+date: 2025-07-18, updated: 2025-07-19, from: The LAist
+
+The L.A. regional homelessness agency says it was correcting errors to comply with federal requirements. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-homeless-count>
+
+---
+
 ## Families are losing internet access as immigration sweeps further the digital divide
 
 date: 2025-07-18, updated: 2025-07-18, from: The LAist
@@ -177,18 +255,6 @@ Lack of connectivity can hamper someone's ability to stay informed on ICE action
 <br> 
 
 <https://laist.com/news/some-families-are-losing-internet-access-as-immigration-sweeps-further-the-digital-divide>
-
----
-
-## LAHSA moved hundreds out of LA city homeless count without informing elected officials
-
-date: 2025-07-18, updated: 2025-07-18, from: The LAist
-
-The L.A. regional homelessness agency says it was correcting errors to comply with federal requirements. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/lahsa-homeless-count>
 
 ---
 
@@ -1001,7 +1067,7 @@ The battle for records between the Sheriff Civilian Oversight Commission and L.A
 
 ## The Mayan in downtown LA announces it's closing after nearly a century
 
-date: 2025-07-15, updated: 2025-07-16, from: The LAist
+date: 2025-07-15, updated: 2025-07-19, from: The LAist
 
 The historic theater says it’s closing in late September and will host dance nights until Sept. 13. 
 
@@ -1536,4 +1602,141 @@ The Asian Law Caucus is part of a coalition suing on behalf of the babies of imm
 <br> 
 
 <https://laist.com/news/politics/california-civil-rights-group-joins-fight-against-trumps-birthright-citizenship-changes>
+
+---
+
+## A Summer of Discovery and Connection in Santa Clarita
+
+date: 2025-07-12, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As summer unfolds in Santa Clarita, our City comes alive with opportunities that spark curiosity, creativity and community. This season is more than just a break from the classroom, it&#8217;s a chance for young people to grow, explore and engage in meaningful ways. I&#8217;m proud to share how Santa Clarita [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/12/a-summer-of-discovery-and-connection-in-santa-clarita/">A Summer of Discovery and Connection in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/12/a-summer-of-discovery-and-connection-in-santa-clarita/>
+
+---
+
+## Catholics in the Inland Empire can skip Sunday Mass amid ongoing immigration enforcement actions
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+The Diocese of San Bernardino issued a decree dispensing its more than 1 million parishioners from obligatory attendance until further notice. 
+
+<br> 
+
+<https://laist.com/news/catholics-in-the-inland-empire-can-skip-sunday-mass-amid-ongoing-immigration-enforcement-actions>
+
+---
+
+## Here's a list of Trump's tariff letters so far and the rates they threaten
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+Finding it hard to track the latest U.S. trade policy state of play? Here's a look the deals the president has announced and the rates he's so far threatened to impose in letters to global leaders. 
+
+<br> 
+
+<https://laist.com/news/heres-a-list-of-trumps-tariff-letters-so-far-and-the-rates-they-threaten>
+
+---
+
+## Trump announces 30% tariffs against EU, Mexico to begin August 1
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+President Donald Trump on Saturday announced he's levying tariffs of 30% against the European Union and Mexico. 
+
+<br> 
+
+<https://laist.com/news/trump-announces-30-tariffs-against-eu-mexico-to-begin-august-1>
+
+---
+
+## What is trail magic? How a small act of kindness on a trail can make someone’s day
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+You don’t have to hike 12 miles over a High Sierra mountain pass to be a trail angel — but we did, and it was magical. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/trail-magic-how-a-small-act-of-kindness-on-a-trail-can-make-someones-day>
+
+---
+
+## Former Long Beach Mayor is now leading Democrats on oversight in DC
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+Rep. Robert Garcia is the new top Democrat on the House Oversight Committee. At a moment when his party is craving more confrontation with President Trump, he says he's ready to lean into the fray. 
+
+<br> 
+
+<https://laist.com/news/politics/former-long-beach-mayor-and-new-house-member-is-democrats-on-oversight>
+
+---
+
+## Why California native bees are struggling to keep up with honey bees
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+And why that matters for native plant ecosystems. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/why-california-native-bees-are-struggling-to-keep-up-with-honey-bees>
+
+---
+
+## Who will save Sunshine? The palm tree may be the last survivor of old Bunker Hill
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+Lovingly named Sunshine, the queen palm has been displaced from its home at the corner of First and Hill streets in downtown L.A. — the site of the new, expanded Colburn School of Music. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/sunshine-queen-palm-bunker-hill-esotouric>
+
+---
+
+## Federal judge orders stop to indiscriminate immigration raids in Los Angeles
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+Civil rights groups alleged that ICE and Border Patrol agents are rounding people up based on their race, and denying them access to lawyers. A federal judge said there's evidence what they're doing is illegal. 
+
+<br> 
+
+<https://laist.com/news/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles>
+
+---
+
+## Federal judge in Los Angeles bars immigration stops without reasonable suspicion
+
+date: 2025-07-12, from: Longbeach Post
+
+<figure><img width="1024" height="638" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1024x638.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1024x638.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-300x187.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-768x478.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1536x957.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1200x747.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1568x977.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-400x249.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0.jpg 1620w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The order bars agents from relying solely on factors such as race/ethnicity, speaking with an accent or being at locations such as bus stops, day laborer sites, car washes or agricultural sites as a basis for detaining people.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/federal-judge-in-los-angeles-bars-immigration-stops-without-reasonable-suspicion">Federal judge in Los Angeles bars immigration stops without reasonable suspicion</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/federal-judge-in-los-angeles-bars-immigration-stops-without-reasonable-suspicion>
+
+---
+
+## Huntington Beach has a highly-placed White House champion in Stephen Miller
+
+date: 2025-07-12, updated: 2025-07-12, from: The LAist
+
+The America First Legal Foundation — started by Miller — is representing the city in two lawsuits. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-stephen-miller-america-first-legal-foundation>
 

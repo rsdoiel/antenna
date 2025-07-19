@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-07-18 14:08:14
+updated: 2025-07-19 06:09:37
 ---
 
 # games
 
-(date: 2025-07-18 14:08:14)
+(date: 2025-07-19 06:09:37)
+
+---
+
+## Canyon Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+In Donkey Kong Bananza, the Canyon Layer is the third layer that you’ll crash land onto. It’s full of your crystalline friends, but now some of them are shaped like giraffes! The Canyon Layer is home to warehouses full of Banandium Gems and smokestacks towering into the sky. The bananas in this layer are particularly [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/613987/canyon-layer-banandium-gem-golden-banana-locations-list-map>
+
+---
+
+## Donkey Kong Bananza skills list and how to unlock them
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+Skills change the way you play Donkey Kong Bananza. As you collect Banandium Gems, you’ll earn skill points that can be used to upgrade Donkey Kong’s stats or unlock new skills. Most skills can also be upgraded multiple times, which will provide you with even more stats and strengthen your abilities even further. Not only [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock>
+
+---
+
+## Every new movie hitting Netflix and beyond this weekend (July 18-20)
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. Director Dean BeBlois’ live-action remake of his 2010 DreamWorks Animation film How to Train Your Dragon (co-directed with Chris Sanders) proved once again why studios keep [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/613887/new-movies-watch-how-to-train-your-dragon-m3gan-2-bride-hard-7-19-2025>
+
+---
+
+## Hilltop Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-18, updated: 2025-07-18, from: Polygon Website
+
+The Hilltop Layer is the second full layer you’ll visit in Donkey Kong Bananza. This area is much smaller than the previous Lagoon Layer, but that doesn’t mean there aren’t tons of Banandium Gems to collect. The Hilltop Layer is filled with nice crystal-like creatures who are experts in the art of turf surfing. They’ll [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/613715/hilltop-layer-banandium-gem-banana-locations-list-map>
 
 ---
 
@@ -150,18 +198,6 @@ Banandium Gems are golden bananas scattered around the layers in Donkey Kong Ban
 <br> 
 
 <https://www.polygon.com/donkey-kong-bananza-guides-dk/613695/lagoon-layer-banandium-gem-golden-banana-locations-list-map-all>
-
----
-
-## Donkey Kong Bananza skills list and how to unlock them
-
-date: 2025-07-17, updated: 2025-07-17, from: Polygon Website
-
-Skills change the way you play Donkey Kong Bananza. As you collect Banandium Gems, you’ll earn skill points that can be used to upgrade Donkey Kong’s stats or unlock new skills. Most skills can also be upgraded multiple times, which will provide you with even more stats and strengthen your abilities even further. Not only [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock>
 
 ---
 
@@ -738,4 +774,28 @@ Lois Lane in James Gunn’s Superman cracked me up and annoyed me at the same ti
 <br> 
 
 <https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist>
+
+---
+
+## After 160 hours of Nightreign, I can never go back to Elden Ring
+
+date: 2025-07-12, updated: 2025-07-11, from: Polygon Website
+
+I’ve played 500 hours of Elden Ring. I’ve beaten every boss, explored every invisible door, collected every rare armament. If I had to pick one favorite, generation-defining game above all others it would definitely be the base game and its Shadow of the Erdtree expansion.&#160; But 160 hours into Nightreign, FromSoftware’s multiplayer spinoff that launched [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/612732/elden-ring-nightreign-shadow-erdtree-gameplay-differences-everdark-nightlord>
+
+---
+
+## 3 Netflix shows we&#8217;re binge-watching this weekend (July 12-13)
+
+date: 2025-07-12, updated: 2025-07-11, from: Polygon Website
+
+Don’t feel guilty for staying inside on a beautiful day — give yourself a break and soak up some television. Just remember to take your Vitamin D part-way through whatever you decide to binge-watch. As the streaming business continues to collapse, evolve, and transform (did you see Max became HBO Max again?), Netflix has proven [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025>
 

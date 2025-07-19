@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-07-18 14:08:18
+updated: 2025-07-19 06:09:41
 ---
 
 # food
 
-(date: 2025-07-18 14:08:18)
+(date: 2025-07-19 06:09:41)
+
+---
+
+## 5 Ways to Use Up Your Leftover Hot Dog and Hamburger Buns
+
+date: 2025-07-18, from: Taste of Home
+
+<p>They don't need to languish on your kitchen counter.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/leftover-hot-dog-hamburger-buns-recipes/">5 Ways to Use Up Your Leftover Hot Dog and Hamburger Buns</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/leftover-hot-dog-hamburger-buns-recipes/>
+
+---
+
+## This Is The Most Popular French Fry in Your State
+
+date: 2025-07-18, from: Taste of Home
+
+<p>I guess I need to move to Colorado!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/french-fry-by-state-2025/">This Is The Most Popular French Fry in Your State</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/french-fry-by-state-2025/>
 
 ---
 
@@ -1144,4 +1172,16 @@ date: 2025-07-13, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/30-summer-salads/>
+
+---
+
+## Our 29 Best Anchovy Recipes
+
+date: 2025-07-12, from: Bon Appetet
+
+Baked pasta with anchovy cream, citrusy bagna cauda, Caesar-roast chicken, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/anchovy-recipes-dinner-ideas>
 

@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-07-18 14:08:16
+updated: 2025-07-19 06:09:39
 ---
 
 # motorcycles
 
-(date: 2025-07-18 14:08:16)
+(date: 2025-07-19 06:09:39)
 
 ---
 
@@ -59,7 +59,7 @@ Multiple compounds ensure grip and longevity across multiple terrain.
 
 ---
 
-## BO Is the 100 Mph+ Electric Scooter With a Higher Power-To-Weight Ratio Than a Bugatti Veyron
+## Check Out This 100 Mph+ Electric Scooter With a Better Power-To-Weight Ratio Than a Bugatti Veyron
 
 date: 2025-07-18, from: Ride Apart, Electric Motorcycle News
 
@@ -475,4 +475,16 @@ By Austin Lawton, Staff Writer It took 11 races but Chevrolet is now a winner in
 <br> 
 
 <https://kickinthetires.net/indycar/oward-ends-honda-dominance-gets-first-chevrolet-win-of-the-season/>
+
+---
+
+## KTM Sold 100,000 Motorcycles This Year, But Most Are Probably Old Bikes
+
+date: 2025-07-12, from: Ride Apart, Electric Motorcycle News
+
+And our colleagues aren't looking at it critically. 
+
+<br> 
+
+<https://www.rideapart.com/news/765591/ktm-100000-motorcycles-sold-half-were-old-bikes/>
 

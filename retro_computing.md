@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-07-18 14:08:17
+updated: 2025-07-19 06:09:39
 ---
 
 # retro computing
 
-(date: 2025-07-18 14:08:17)
+(date: 2025-07-19 06:09:39)
 
 ---
 
@@ -40,7 +40,7 @@ date: 2025-07-18, from: RiscOS Open
 
 date: 2025-07-18, from: Icon Bar, RISC OS News
 
-The July 2025 Rougol meeting is on Monday 18th July. It will feature R-Comp's Andrew Rawnsley talking about new 5stuff (and I expect some older stuff as well). 
+The July 2025 Rougol meeting is on Monday 21st July. It will feature R-Comp's Andrew Rawnsley talking about new 5stuff (and I expect some older stuff as well). 
 
 <br> 
 
@@ -153,4 +153,28 @@ Let's get this party started.
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/vote-for-the-july-2025-post-topic>
+
+---
+
+## DOStodon update
+
+date: 2025-07-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Mastodon client for DOS systems. SuperIlu recently made an update: - Updated curl to 8.14.1 - Updated mbedTLS to 3.6.4 - Enabled HTTP 3xx redirections. DOStodon is implemented in Javascript and relies on DOjS to run (included). You can get the source at <a class="" href="https://github.com/SuperIlu/DOStodon" rel="nofollow">DOStodon on GitHub</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/dostodon-update/>
+
+---
+
+## PartUtil
+
+date: 2025-07-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Michael Brutman (also the developer behind mTCP) has created a disk partition utility that allows you to dual boot operating systems without installing a boot manager: Michael's tool allows you to: Mark or unmark a partition as active, Hide or unhide a partition, and other actions that support a multiboot environment. Available under the GNU GPL v2. You can download it (with source code) from the <a class="" href="https://www.brutman.com/PartUtil/PartUtil.html" rel="nofollow">PartUtil website</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/partutil/>
 

@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-07-18 14:08:11
+updated: 2025-07-19 06:09:34
 ---
 
 # science and technology
 
-(date: 2025-07-18 14:08:11)
+(date: 2025-07-19 06:09:34)
+
+---
+
+## Republican calls out Trump admin's decision to resume GPU sales to China
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>Moolenaar demands answers from Commerce Secretary</h4> <p>The Republican chair of the US House Select Committee on China has protested the Trump administration&#39;s decision this week to lift restrictions on the sale of Nvidia H20 GPUs and similar processors, warning the chips could be used to advance Chinese AI and military interests.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/trump_gpu_china/>
+
+---
+
+## Meta declines to abide by voluntary EU AI safety guidelines
+
+date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+
+<h4>GPAI code asks for transparency, copyright, and safety pledges</h4> <p>Two weeks before the EU AI Act takes effect, the European Commission issued voluntary guidelines for providers of general-purpose AI models. However, Meta refused to sign, arguing that the extra measures introduce &#34;legal uncertainties&#34; beyond the law&#39;s scope.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/18/meta_declines_eu_ai_guidelines/>
+
+---
+
+## NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
+
+date: 2025-07-18, from: NASA breaking news
+
+NASA&#8217;s Athena Economical Payload Integration Cost mission, or Athena EPIC, is a test launch for an innovative, scalable space vehicle design to support future missions. The small satellite platform is engineered to share resources among the payloads onboard by managing routine functions so the individual payloads don&#8217;t have to. This technology results in lower costs [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/>
+
+---
+
+## Running Linux or NetBSD on the Amiga 4000
+
+date: 2025-07-18, from: OS News
+
+In this blog post, I have described how I have been using Linux on my Amiga 4000. I hope this information can be of use to anyone who is planning to run Linux on their Amigas. Furthermore, I hope that the existing documentation on the Linux/m68k homepage gets updated at some point. May be the information in this blog post can help with that. Debian 3.1 works decently for me, but everything is much slower compared to a PC. This is not really surprising if you run an operating system (last updated in 2008) on a CPU from the early 90s that still runs at a 25 MHz clock speed :). ↫ Sander van der Burg The blog post in question is from January of this year, but as soon as I saw it I knew I had to post it here. It&#8217;s an incredibly intricate and detailed guide to running Linux on a 25Mhz Amiga 4000, including X11, networking, internet access, file sharing, and so, so much more &#8211; up to running Linux for Amiga inside FS-UAE. There&#8217;s so much love and dedication in this detailed guide, and I love it. In fact, Van den Burg has a similar article about running NetBSD on the Amiga 4000, with the same level of detail, dedication, and information density. A fun note is that while X11 for Linux on the Amiga can&#8217;t seem to make use of the Amiga chipset, the X Window System on NetBSD does make us of it. I&#8217;m not surprised. Articles like these are useful only for a very small number of people, but having this amount of knowledge concentrated like this will prove invaluable like five years from now when someone else finds an Amiga 4000 in their attic or at a yard sale, and choose to go down this same path. We need more of these kinds of write-ups. 
+
+<br> 
+
+<https://www.osnews.com/story/142843/running-linux-or-netbsd-on-the-amiga-4000/>
 
 ---
 
@@ -347,9 +395,9 @@ NASA/Jacob Shaw NASA&#8217;s X-59 quiet supersonic research aircraft has officia
 
 ## Watch out, another max-severity, make-me-root Cisco bug on the loose
 
-date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+date: 2025-07-17, updated: 2025-07-18, from: The Register (UK I.T. News)
 
-<h4>Three perfect 10s in the last month - ISE, ISE, baby</h4> <p>Cisco has issued a patch for a critical 10 out of 10 severity bug in its Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) that could allow an unauthenticated, remote attacker to run arbitrary code on the operating system with root-level privileges. …</p> 
+<h4>Three perfect 10s in the last month - ISE, ISE, baby</h4> <p><strong>Updated</strong>  Cisco has issued a patch for a critical 10 out of 10 severity bug in its Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) that could allow an unauthenticated, remote attacker to run arbitrary code on the operating system with root-level privileges. …</p> 
 
 <br> 
 
@@ -1734,4 +1782,40 @@ date: 2025-07-13, updated: 2025-07-14, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/13/fake_it_worker_problem/>
+
+---
+
+## The price of software freedom is eternal politics
+
+date: 2025-07-12, updated: 2025-07-12, from: The Register (UK I.T. News)
+
+<h4>Many don&#39;t realize or forget, but the FOSS world has ideological wings, too</h4> <p><strong>Comment</strong>  The new fork of the X.org X11 server is conservative… and we don&#39;t mean just technologically conservative.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/12/the_price_of_software_freedom/>
+
+---
+
+## From A2A to MCP, a look at the protocols that might one day help AI automate you out of a job
+
+date: 2025-07-12, updated: 2025-07-14, from: The Register (UK I.T. News)
+
+<h4>Tell me, Mr. Smith ... what good is an agent if it&#39;s unable to speak?</h4> <p>We have protocols and standards for just about everything. It&#39;s generally helpful when we can all agree on how technologies should talk to one another. So, it was only a matter of time before the first protocols governing agentic AI started cropping up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/12/ai_agent_protocols_mcp_a2a/>
+
+---
+
+## Looks like 1,300 Indeed and Glassdoor staffers will need their former employer's websites
+
+date: 2025-07-12, updated: 2025-07-12, from: The Register (UK I.T. News)
+
+<h4>No reason given for the 6% cull, but the CEO has previously talked up AI taking jobs</h4> <p>Recruit Holdings, the Japanese job site conglomerate that owns recruitment job site Indeed and employer reviewer Glassdoor, has eliminated about 1,300 positions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/12/indeed_glassdoor_layoffs/>
 

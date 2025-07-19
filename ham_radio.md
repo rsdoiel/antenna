@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2025-07-18 14:08:11
+updated: 2025-07-19 06:09:33
 ---
 
 # ham radio
 
-(date: 2025-07-18 14:08:11)
+(date: 2025-07-19 06:09:33)
 
 ---
 
@@ -18,6 +18,18 @@ date: 2025-07-18, from: Amateur Radio Relay League News
 <br> 
 
 <http://www.arrl.org/news/view/changes-in-the-arrl-atlantic-division>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-07-18, from: Amateur Radio Relay League News
+
+<p><span>Spaceweather.com reports solar activity was ranged from low to moderate levels.<span>  </span>Minor events were observed on 08 and 09 July and 12 July.<span>  </span>The largest was an M2.4 flare at 08/0417 UTC from Region 4136.<span>  </span>Region 4140 produced a similarly powerful M2.3/1f flare at 12/0834 UTC.<span>  </span>The other 15 numbered active regions on the visible disk were either quiet or only produced C-class activity.<span>  </span>No Earth-...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-22>
 
 ---
 

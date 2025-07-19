@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-07-18 14:08:16
+updated: 2025-07-19 06:09:38
 ---
 
 # home
 
-(date: 2025-07-18 14:08:16)
+(date: 2025-07-19 06:09:38)
 
 ---
 
@@ -32,6 +32,18 @@ After the pioneering Sarasota School of Architecture member died, Florida archit
 <br> 
 
 <https://www.dwell.com/article/gene-leedy-house-and-office-restoration-max-strang-winter-haven-florida-a0638c48-cecdea02-32c4dfa7>
+
+---
+
+## This Is Why Sandwiches Taste Better at the Beach, According to Science
+
+date: 2025-07-18, from: Sunset Magazine - Living in the West
+
+Sandwiches and chips are a classic beach combo, and there's actually science as to why. Here's what combos to try. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/beach-sandwiches-taste-good>
 
 ---
 
@@ -760,18 +772,6 @@ Congratulations to this year’s winners of the 2025 Sunset International Spirit
 
 ---
 
-## This Is Why Sandwiches Taste Better at the Beach, According to Science
-
-date: 2025-07-15, from: Sunset Magazine - Living in the West
-
-Sandwiches and chips are a classic beach combo, and there's actually science as to why. Here's what combos to try. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/beach-sandwiches-taste-good>
-
----
-
 ## How They Pulled It Off: An Upside-Down House Rises From a 19th-Century Railbed
 
 date: 2025-07-15, from: Dwell
@@ -1359,4 +1359,135 @@ date: 2025-07-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/how-to/greenhouses-and-coldframes/fit-greenhouse/>
+
+---
+
+## Coastal Gardening: Tips for Growing in Zone 10’s Microclimates
+
+date: 2025-07-12, from: San Diego Seed Compan
+
+<p>Zone 9 and 10 are incredibly diverse growing regions, especially along California’s coast, where unique microclimates challenge even experienced gardeners. Specifically in Zone 10, many gardeners struggle with the nuances of coastal gardening—a completely different ballgame compared to inland growing. ... <a href="https://sandiegoseedcompany.com/growing/coastal-gardening-tips-for-growing-in-zone-10s-microclimates/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/growing/coastal-gardening-tips-for-growing-in-zone-10s-microclimates/">Coastal Gardening: Tips for Growing in Zone 10&#8217;s Microclimates</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/growing/coastal-gardening-tips-for-growing-in-zone-10s-microclimates/>
+
+---
+
+## How to Make Calendula Oil (Easy Calendula Infused Oil Recipe)
+
+date: 2025-07-12, from: Homestead and Chil
+
+<p>Learn how to make calendula oil with our easy step-by-step guide. All you need is a carrier oil, dry calendula flowers, and a little time! Then you can use homemade calendula oil on it's own to soothe skin issues, as an ingredient in DIY skincare products like soap, salve, lotion and more. </p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-calendula-oil/">How to Make Calendula Oil (Easy Calendula Infused Oil Recipe)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-make-calendula-oil/>
+
+---
+
+## Learn About 15 Different Types of Cyclamen Plants
+
+date: 2025-07-12, from: The Gardener's Path
+
+<p>Cyclamen plants are showy perennials that brighten our homes and gardens with their jazzy, upswept pink-toned or white flowers and handsome, variegated foliage. Many species are cold- and frost-tolerant and spread readily in shady spots. Learn more about 15 different types of cyclamen in this guide. Read more now. </p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/cyclamen-types/">Learn About 15 Different Types of Cyclamen Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/cyclamen-types/>
+
+---
+
+## The Gwen avocado tree: a profile
+
+date: 2025-07-12, from: Greg Alder's blog, Yard Post
+
+<p>In 1956, when Bob Bergh began developing new varieties at the University of California, Fuerte was the most popular avocado in California. Frustrating for farmers, some Fuerte trees were fruitful whereas others were not. And Fuerte trees made more avocados in certain locations and in certain weather. &#8220;Erratic,&#8221; was the term most often used to [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/the-gwen-avocado-tree-a-profile/">The Gwen avocado tree: a profile</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/the-gwen-avocado-tree-a-profile/>
+
+---
+
+## Top Facts About Sage Grouse in Wyoming You Should Know
+
+date: 2025-07-12, from: Yard Life blog
+
+<p>Wyoming is home to one of the most fascinating bird species in North America—the sage grouse. Known for its unique ... </p>
+<p class="read-more-container"><a title="Top Facts About Sage Grouse in Wyoming You Should Know" class="read-more button" href="https://ownyardlife.com/top-facts-about-sage-grouse-in-wyoming-you-should-know/#more-32013" aria-label="Read more about Top Facts About Sage Grouse in Wyoming You Should Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/top-facts-about-sage-grouse-in-wyoming-you-should-know/">Top Facts About Sage Grouse in Wyoming You Should Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/top-facts-about-sage-grouse-in-wyoming-you-should-know/>
+
+---
+
+## Migration of Monarch Butterflies in Mexico Uncovered
+
+date: 2025-07-12, from: Yard Life blog
+
+<p>The migration of monarch butterflies in Mexico is among the most breathtaking natural spectacles on Earth. Each year, millions of ... </p>
+<p class="read-more-container"><a title="Migration of Monarch Butterflies in Mexico Uncovered" class="read-more button" href="https://ownyardlife.com/migration-of-monarch-butterflies-in-mexico-uncovered/#more-32009" aria-label="Read more about Migration of Monarch Butterflies in Mexico Uncovered">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/migration-of-monarch-butterflies-in-mexico-uncovered/">Migration of Monarch Butterflies in Mexico Uncovered</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/migration-of-monarch-butterflies-in-mexico-uncovered/>
+
+---
+
+## Discovering the Gray Wolf Population in Michigan
+
+date: 2025-07-12, from: Yard Life blog
+
+<p>Michigan’s wild landscapes tell a story of survival, and among its most fascinating characters is the gray wolf. Once hunted ... </p>
+<p class="read-more-container"><a title="Discovering the Gray Wolf Population in Michigan" class="read-more button" href="https://ownyardlife.com/discovering-the-gray-wolf-population-in-michigan/#more-32005" aria-label="Read more about Discovering the Gray Wolf Population in Michigan">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/discovering-the-gray-wolf-population-in-michigan/">Discovering the Gray Wolf Population in Michigan</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/discovering-the-gray-wolf-population-in-michigan/>
+
+---
+
+## 3 Common Scorpions in Oklahoma (Pictures and Identification)
+
+date: 2025-07-12, from: Yard Life blog
+
+<p>Scorpions might not be the first creatures that come to mind when thinking of Oklahoma, but they are definitely part ... </p>
+<p class="read-more-container"><a title="3 Common Scorpions in Oklahoma (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-common-scorpions-in-oklahoma-pictures-and-identification/#more-31994" aria-label="Read more about 3 Common Scorpions in Oklahoma (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-common-scorpions-in-oklahoma-pictures-and-identification/">3 Common Scorpions in Oklahoma (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-common-scorpions-in-oklahoma-pictures-and-identification/>
+
+---
+
+## 8 Types of Squirrels in Washington State (With Pictures)
+
+date: 2025-07-12, from: Yard Life blog
+
+<p>Washington State is home to a wide variety of wildlife, and squirrels are among the most visible and active mammals ... </p>
+<p class="read-more-container"><a title="8 Types of Squirrels in Washington State (With Pictures)" class="read-more button" href="https://ownyardlife.com/8-types-of-squirrels-in-washington-state-with-pictures/#more-31984" aria-label="Read more about 8 Types of Squirrels in Washington State (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-types-of-squirrels-in-washington-state-with-pictures/">8 Types of Squirrels in Washington State (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-types-of-squirrels-in-washington-state-with-pictures/>
 

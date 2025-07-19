@@ -1,11 +1,47 @@
 ---
 title: planet
-updated: 2025-07-18 14:08:07
+updated: 2025-07-19 06:09:30
 ---
 
 # planet
 
-(date: 2025-07-18 14:08:07)
+(date: 2025-07-19 06:09:30)
+
+---
+
+## Five times Up for the Match proved to be legendary
+
+date: 2025-07-18, from: RTÉ News
+
+Ahead of Saturday night's Up for the Match, we've rounded up five top moments from the RTÉ One sports show. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0719/1523406-five-times-up-for-the-match-proved-to-be-legendary/>
+
+---
+
+## Skydiver Felix Baumgartner dies in paragliding crash at 56
+
+date: 2025-07-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/cdabf54b-765f-4fd2-98f1-542f5d4465af,1752863469267/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a space suit with his arms open wide' width='620' height='349' title='elix Baumgartner of Austria gestures prior to speaking with the media after successfully jumping from a space capsule lifted by a helium balloon in Roswell, N.M., Oct. 14, 2012'/><p>Felix Baumgartner, the Austrian skydiver known for his 2012 supersonic jump from the stratosphere, died in a paragliding crash in Italy. He was 56. Local reports say he lost control mid-air and crashed near a hotel pool.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6837986?cmp=rss>
+
+---
+
+## As one Manitoba landfill search for First Nations women's remains ends, another is set to begin
+
+date: 2025-07-18, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7589183.1752882085!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/donna-bartlett.jpeg' alt='A woman in a purple T-shirt smiles.' width='620' height='349' title='Donna Bartlett, whose granddaughter Marcedes Myran&apos;s partial remains were found in a Winnipeg-area landfill earlier this year, said she feels torn about that search ending last week.'/><p>Donna Bartlett’s family is still coming to terms with the end of a months-long search of a Winnipeg-area landfill for her granddaughter, after it wrapped up last week with only some of Marcedes Myran’s remains located.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/landfill-search-first-nations-women-prairie-green-ends-brady-road-begins-winnipeg-1.7589178?cmp=rss>
 
 ---
 
@@ -45,6 +81,18 @@ date: 2025-07-18, from: RTÉ News
 
 ---
 
+## Explosion at Los Angeles sheriff's facility leaves 3 deputies dead
+
+date: 2025-07-18, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7588930.1752872011!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-california-blast.JPG' alt='large white trucks and vans sit parked under a white tarp in the sun.' width='620' height='349' title='An area where an explosion took place at a Los Angeles County Sheriff&apos;s Department&apos;s Biscailuz Center Academy Training facility is sealed off in east Los Angeles, California, U.S. July 18, 2025 in a still image from video.  ABC Affiliate KABC via REUTERS'/><p>An explosion at a Los Angeles County Sheriff's Department training facility on Friday killed three deputies, the sheriff said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/los-angeles-sheriffs-facility-explosion-deputies-killed-1.7588970?cmp=rss>
+
+---
+
 ## Odds stacked in Lions' favour for first Wallabies Test
 
 date: 2025-07-18, from: RTÉ News
@@ -81,6 +129,18 @@ date: 2025-07-18, from: CBC, Indigenious News
 
 ---
 
+## Good old days - hurling's veterans still centre stage
+
+date: 2025-07-18, from: RTÉ News
+
+Cork duo Patrick Horgan and Seamus Harnedy, along with All-Ireland hurling final opponent Noel McGrath of Tipperary, are showing how players can still compete at the hightest level in their mid 30s. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0718/1524224-good-old-days-hurlings-veterans-still-centre-stage/>
+
+---
+
 ## Tánaiste holds talks over Lebanon peacekeeping renewal
 
 date: 2025-07-18, from: RTÉ News
@@ -114,18 +174,6 @@ The Taoiseach Micheál Martin spoke with the British Prime Minister Keir Starmer
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0718/1524213-martin-starmer-call/>
-
----
-
-## As Palestinian students await Canadian visas, some are welcomed by France
-
-date: 2025-07-18, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7587968.1752861600!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-education.JPG' alt='Destroyed university buildings. The name of a university is written in English and Arabic.' width='620' height='349' title='The Al-Azhar campus in Gaza was severely damaged during Israel&apos;s military offensive. A graduate from that university had hoped to study in Canada, but has now arrived in the south of France.'/><p>Several Palestinian graduate students awaiting visas to study in Canada have been accepted by France in the last two weeks, said a group of professors advocating to bring them here.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/france-palestinian-students-1.7587948?cmp=rss>
 
 ---
 
@@ -395,6 +443,30 @@ Amid violent clashes in southern Syria’s Suweida governorate, a picture of gra
 
 ---
 
+## World News in Brief: Violence in Haiti, rising insecurity in DR Congo, expert panel on nuclear war
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+The UN humanitarian affairs office OCHA is stressing the need to scale up support for displaced families in Haiti amid ongoing insecurity and violence.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165439>
+
+---
+
+## Humanitarians report more deaths, displacement and desperation in Gaza
+
+date: 2025-07-18, from: United Nations, Top Stories
+
+The continued onslaught and mass deprivation of people in the Gaza Strip is becoming normalised, the UN aid coordination office OCHA warned on Friday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165437>
+
+---
+
 ## Plunkett family appeal for public help over 1976 murder
 
 date: 2025-07-18, from: RTÉ News
@@ -404,6 +476,22 @@ The sister of Dublin woman Elizabeth Plunkett said that a garda request for new 
 <br> 
 
 <https://www.rte.ie/news/2025/0718/1524154-plunkett-murder/>
+
+---
+
+## Lord’s Day Reflection: He’s not just any guest
+
+date: 2025-07-18, from: Vatican News
+
+
+                    <p>As the Church celebrates the Sixteenth Sunday in Ordinary Time, Jenny Kraska reflects on the theme, "He’s not just any guest – so maybe sit down?"</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-he-s-not-just-any-guest.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-he-s-not-just-any-guest.html>
 
 ---
 
@@ -575,11 +663,11 @@ Ukrainian President Volodymyr Zelensky has hailed the EU's new round of sanction
 
 ---
 
-## Trump team seeks to release some of Epstein documents
+## Trump files lawsuit against Murdoch and WSJ reporters
 
 date: 2025-07-18, from: RTÉ News
 
-US President Donald Trump has attempted to control the storm triggered by a report on his friendship with Jeffrey Epstein, ordering the justice department to seek the release of testimony from the prosecution of the late disgraced financier and convicted sex offender. 
+US President Donald Trump has filed a lawsuit against Dow Jones, News Corp, Rupert Murdoch and two Wall Street Journal reporters, raising claims under federal libel law, court records show. 
 
 <br> 
 
@@ -728,6 +816,18 @@ date: 2025-07-17, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-bondi-epstein-wsj-report-denial-1.7588191?cmp=rss>
+
+---
+
+## Trump sues Wall Street Journal reporters, owners after Epstein story, court records show
+
+date: 2025-07-17, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/40793a1b-3688-4d4c-a3d7-bd63a61155c5,1752880944075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Donald Trump pointing his finger' width='620' height='349' title='JULY 15: U.S. President Donald Trump speaks to the media as he departs the White House on July 15, 2025 in Washington, DC. Trump is traveling to Pittsburgh, Pennsylvania, to speak at an artificial intelligence and energy summit. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-epstein-letter-wsj-report-libel-lawsuit-1.7589071?cmp=rss>
 
 ---
 
@@ -1061,7 +1161,7 @@ A group of Indigenous youth from the United States, some as young as seven, visi
 
 ## Pakistan reels under monsoon deluge as death toll climbs
 
-date: 2025-07-17, from: United Nations, Climate Change
+date: 2025-07-17, from: United Nations, Top Stories
 
 Pakistan’s monsoon emergency deepened on Thursday as authorities declared disaster zones across parts of eastern Punjab province after lethal cloudbursts and flash floods killed dozens in a single day. 
 
@@ -1097,7 +1197,7 @@ As years of war in Ukraine have left millions with unreliable heating and limite
 
 ## From crisis to classroom: How the UN supports education in conflict zones
 
-date: 2025-07-17, from: United Nations, Culture and Education
+date: 2025-07-17, from: United Nations, Top Stories
 
 From makeshift furniture in Gaza to metro classrooms in Ukraine and solar-powered tablets in Sudan, the UN is working to bring education to millions of crisis-affected children. 
 
@@ -2331,9 +2431,9 @@ In violence-wracked Haiti, more than 5.7 million people are estimated to be food
 
 ## From diamonds to dirt: Sierra Leone youth bring land back to life
 
-date: 2025-07-16, from: United Nations, Top Stories
+date: 2025-07-16, from: United Nations, Economic Development
 
-Craters filled with muddy water pocket the landscape of the Kono district in&nbsp;Sierra Leone – the result of past diamond mining ventures which sparked a vicious local battle over resources. 
+Craters filled with muddy water pocket the landscape of the Kono district in&nbsp;Sierra Leone – the result of a blood diamond mining industry which contributed to a decade-long civil war. 
 
 <br> 
 
@@ -5133,4 +5233,589 @@ North Korean leader Kim Jong-un offered Russia his full support on the war in Uk
 <br> 
 
 <https://www.rte.ie/news/world/2025/0713/1523250-north-korea-russia/>
+
+---
+
+## Events take place for National Day of Commemoration
+
+date: 2025-07-12, from: RTÉ News
+
+National Day of Commemoration ceremonies were held at several locations across the country this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0713/1523030-national-day-of-commemoration/>
+
+---
+
+## Calls for probe after settlers kill American in West Bank
+
+date: 2025-07-12, from: RTÉ News
+
+A US-Palestinian man has been killed in an Israeli settler attack in the occupied West Bank, his family has said, demanding that Washington launch an investigation into his death. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0712/1523229-west-bank-killings-israel/>
+
+---
+
+## Man due in court over fatal assault in Co Limerick
+
+date: 2025-07-12, from: RTÉ News
+
+A man is due in court in connection with a fatal assault on Michael Hayes in Watergate in Limerick on Thursday evening. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0712/1523223-assault-death-limerick/>
+
+---
+
+## Man charged with murder of 71-year-old in Limerick city
+
+date: 2025-07-12, from: RTÉ News
+
+A 43-year-old man has been charged with the murder of 71-year-old Michael Hayes following an assault in Limerick city. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0712/1523223-philip-ambrose-court/>
+
+---
+
+## Kerry power into final as Tyrone challenge fizzles out
+
+date: 2025-07-12, from: RTÉ News
+
+Kerry powered their way into an All-Ireland SFC decider thanks to a dominant second-half display, Tyrone's challenge fizzling out badly after a bright opening. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0712/1523162-kerry-power-into-final-as-tyrone-challenge-fizzles-out/>
+
+---
+
+## Trump threatens to revoke O'Donnell's US citizenship
+
+date: 2025-07-12, from: RTÉ News
+
+US President Donald Trump has said he might revoke talk show host Rosie O'Donnell's US citizenship after she criticised his administration's handling of weather forecasting agencies. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523216-trump-odonnell/>
+
+---
+
+## All-Ireland SFC sf recap: Kerry 1-20 Tyrone 0-17
+
+date: 2025-07-12, from: RTÉ News
+
+Kerry produce another power-packed performance to dump out Tyrone and book their spot in this year's All-Ireland final. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0712/1523190-all-ireland-sfc-semi-final-kerry-v-tyrone-updates/>
+
+---
+
+## NTMA targeted in voice phishing attack
+
+date: 2025-07-12, from: RTÉ News
+
+A garda investigation is under way after the National Treasury Management Agency was targeted in what is understood to be a €5 million voice phishing attack. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0712/1523198-ntma-payments/>
+
+---
+
+## Gaza’s Christian community persevering amid hardship and hope
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>The Parish priest of Gaza's small Christian community says his flock is exhausted by war and a severe lack of food. Speaking to Vatican Radio, he asks not to be forgotten and for continued prayers: an unending source of hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-fr-gabriele-romanelli-parish-holy-family-gaza-interview-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-fr-gabriele-romanelli-parish-holy-family-gaza-interview-war.html>
+
+---
+
+## As it happened: EU warns of retaliation to US tariffs
+
+date: 2025-07-12, from: RTÉ News
+
+The EU said it is prepared to take the necessary steps to safeguard its interests if the US proceeds with imposing a 30% tariff on European goods starting 1 August. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523199-tariff-tracker/>
+
+---
+
+## Israel's plan for 'humanitarian city' in Rafah sparks outrage
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/13c130e4-102a-45d2-bd85-303a954433d8,1752342320791/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C4231%2C2379%29%3BResize%3D%28620%29' alt='Palestinian woman Somaya Al-Shaer, with her daughter, mourns her son, who was killed by Israeli fire while seeking aid near a distribution point in Rafah, according to medics, at Nasser Hospital in Khan Younis, southern Gaza Strip, July 12, 2025. ' width='620' height='349' title='Palestinian woman Somaya Al-Shaer, with her daughter, mourns her son, who was killed by Israeli fire while seeking aid near a distribution point in Rafah, according to medics, at Nasser Hospital in Khan Younis, southern Gaza Strip, July 12, 2025. REUTERS/Ramadan Abed     TPX IMAGES OF THE DAY'/><p>Palestinians and human rights activists expressed alarm after Israel's defence minister said he plans to move all Palestinians in Gaza into a camp at the southern tip of the war-battered enclave, according to Israeli media. Some said it would violate international law and amount to crimes against humanity.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6829747?cmp=rss>
+
+---
+
+## SF's presidential election decision in weeks - McDonald
+
+date: 2025-07-12, from: RTÉ News
+
+Sinn Féin leader Mary Lou McDonald has again repeated that the party is considering its options on this year's presidential election and will arrive at a decision in a few weeks. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0712/1523201-presidential-election/>
+
+---
+
+## War-struck children in Sudan tell of harrowing violence
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>For over two years, the people of Sudan have been subjected to a civil war that has killed tens of thousands and displaced millions of people. The children are paying the highest price.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/sudan-save-the-children-violence-war-rape-death-displacement.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/sudan-save-the-children-violence-war-rape-death-displacement.html>
+
+---
+
+## 4th Zanzibar Cup to highlight fraternity through kitesurfing
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>The 4th International Kitesurf Race known as the "Zanzibar Cup" is set to take place from 30-31 August 2025 with registration underway until 10 August latest. The international regatta in Tanzania aims to promote the best in sportsmanship and fraternity.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/4th-zanzibar-cup-to-highlight-fraternity-through-kitesurfing.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/4th-zanzibar-cup-to-highlight-fraternity-through-kitesurfing.html>
+
+---
+
+## Trump announces 30% tariffs on imports from EU
+
+date: 2025-07-12, from: RTÉ News
+
+Goods imported from the European Union will face a 30% US tariff rate starting from 1 August, US President Donald Trump said in letters posted to his social media platform this afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0712/1523196-eu-us-tariff/>
+
+---
+
+## EU faces 30% tariffs as Trump intensifies trade war
+
+date: 2025-07-12, from: RTÉ News
+
+US President Donald Trump threatened to impose a 30% tariff on imports from the European Union and Mexico starting on 1 August. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0712/1523196-eu-us-tariffs/>
+
+---
+
+## Lions move up a gear in dominant AUNZ win
+
+date: 2025-07-12, from: RTÉ News
+
+Owen Farrell made his first appearance on the British and Irish Lions tour of Australia but it was the player he replaced, Huw Jones who lit up a 48-0 victory over an AUNZ Invitational XV. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0712/1523169-lions-move-up-a-gear-in-dominant-aunz-win/>
+
+---
+
+## Parish of Castel Gandolfo joyful ahead of Pope Leo’s Mass
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Ahead of Pope Leo XIV’s visit and celebration of Mass on Sunday, the parish priest of St. Thomas of Villanova in Castel Gandolfo shares the excitement and faith of his parishioners.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/pope-leo-xiv-parish-castel-gandolfo-interview-priest.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/pope-leo-xiv-parish-castel-gandolfo-interview-priest.html>
+
+---
+
+## Cardinal Zuppi: Pope Leo XIV asks us to make every community a 'home of peace'
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Cardinal Matteo Maria Zuppi, the President of the Italian Episcopal Conference, speaks to Vatican News about Pope Leo XIV’s invitation to develop a pastoral approach to peace in all Dioceses.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-zuppi-president-cei-pope-leo-tornielli-monda-interview.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-zuppi-president-cei-pope-leo-tornielli-monda-interview.html>
+
+---
+
+## Smurf your voice: Global campaign urges everyone to speak up for a better future
+
+date: 2025-07-12, from: United Nations, Top Stories
+
+The Smurfs are back – and this time they are smurfing up a global storm. Teaming up with the UN Children’s Fund (UNICEF) and Paramount Pictures, the iconic blue characters are leading a campaign that encourages children and grownups everywhere to “Speak Up” for a better world. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165382>
+
+---
+
+## No fuel, no aid, no escape: UN agencies warn of looming collapse in Gaza
+
+date: 2025-07-12, from: United Nations, Top Stories
+
+The fuel crisis in Gaza has reached a breaking point, threatening to bring all humanitarian operations to a halt and endangering the lives of everyone reliant on aid inside the enclave, UN agencies warned in a powerful joint statement on Saturday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165383>
+
+---
+
+## Israel, Hamas trade blame as truce talks hang in balance
+
+date: 2025-07-12, from: RTÉ News
+
+Hamas and Israel accused the other of blocking attempts to strike a Gaza ceasefire agreement, nearly a week into indirect talks between the two sides to halt 21 months of war in the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523178-israel-gaza/>
+
+---
+
+## The Speed of Light and the Strangeness of Time: (3) Simultaneous or Not?
+
+date: 2025-07-12, from: Vatican Obervatory
+
+You hear that at the Big Bang space and time were distorted beyond what the laws of physics allow us to investigate. But how can space and time be distorted? 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/the-speed-of-light-and-the-strangeness-of-time-3-simultaneous-or-not/>
+
+---
+
+## 'I don't know' - Taylor coy on retirement plans
+
+date: 2025-07-12, from: RTÉ News
+
+Katie Taylor says she will take time to consider her future after emerging triumphant in her trilogy fight against Amanda Serrano, before once again reiterating her desire to fight at Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/boxing/2025/0712/1523164-i-dont-know-taylor-coy-on-retiremement-plans/>
+
+---
+
+## Pope Leo XIV: Embrace 'marvelous adventure' of following Christ more closely
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Pope Leo XIV invites members of several religious congregations holding their General Chapters to take part in the "marvelous adventure" of following Christ more closely.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-embark-upon-marvelous-adventure-of-following-chris.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-embark-upon-marvelous-adventure-of-following-chris.html>
+
+---
+
+## Hottest day of year as Met Éireann says mercury hit 31C
+
+date: 2025-07-12, from: RTÉ News
+
+Met Éireann has said that the highest temperature of the year so far was recorded today 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0712/1523167-weather-warnings/>
+
+---
+
+## Kyiv residents 'brace for death' as Russian drones, missiles increasingly fly at night
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583301.1752322617!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/a-fire-at-top-of-kyiv-residential-building-following-a-russian-attack.jpg' alt='A fire burns at a residential building after a Russian attack in Kyiv, Ukraine.' width='620' height='349' title='A fire burns at a residential building after a Russian attack in Kyiv, Ukraine, early Thursday, July 10, 2025.'/><p>Nighttime assaults on the Ukrainian capital of Kyiv have intensified in the fourth year of Russia's full-scale invasion, with the number of drones sometimes exceeding 700. Swarms of 1,000 drones could soon become the norm, officials say.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/kyiv-living-through-russian-attacks-drones-1.7583277?cmp=rss>
+
+---
+
+## Two killed in Russian attacks on western Ukraine
+
+date: 2025-07-12, from: RTÉ News
+
+Russia pounded Ukraine with hundreds of drones and dozens of missiles, in the fourth major attack this month, targeting western cities and killing at least two people in Chernivtsi on the border with Romania. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0712/1523165-ukraine-russia/>
+
+---
+
+## World Bank mobilises $80 billion to reconstruct Ukraine
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>Anna Bjerde, Managing Director of Operations at the World Bank, speaks to Vatican News about the organisation’s support for war-torn Ukraine – from financing repairs to energy infrastructure to helping farmers increase their yields.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/world-bank-mobilises-80-billion-reconstruct-ukraine-bjerde.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/world-bank-mobilises-80-billion-reconstruct-ukraine-bjerde.html>
+
+---
+
+## Watch: 'These are nights I dreamed of as a kid'
+
+date: 2025-07-12, from: RTÉ News
+
+Katie Taylor said that "these are the nights I dreamed of as a kid" after she retained her undisputed world super lightweight title after edging her third fight against Amanda Serrano in New York. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523161-katie-taylor/>
+
+---
+
+## Girl who died after river incident 'kind and spirited'
+
+date: 2025-07-12, from: RTÉ News
+
+The 12-year-old girl who died after getting into difficulty while swimming in a river in Co Tipperary has been described as a "bright, kind and spirited young person" by her school's principal. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0712/1523157-tipperary-incident/>
+
+---
+
+## Lord's Day Reflection: Who is my neighbour?
+
+date: 2025-07-12, from: Vatican News
+
+
+                    <p>As the Church celebrates the Fifteenth Sunday in Ordinary time, Father John Luke Gregory, OFM, reflects on the theme, "Who is my neighbour? A call to compassion in challenging times".</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-who-is-my-neighbour.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-who-is-my-neighbour.html>
+
+---
+
+## Raumfahrt – Zwischen Kommerz, Prestige und menschlicher Größe
+
+date: 2025-07-12, from: Vatican Obervatory
+
+Mars, Mond oder auch nur der Erdorbit – Raumfahrt boomt. Über die Entwicklungen einer Branche, in der es um mehr als nur das Geldverdienen geht. 
+
+<br> 
+
+<https://www.die-tagespost.de/kultur/feuilleton/raumfahrt-zwischen-kommerz-prestige-und-menschlicher-groesse-art-265141>
+
+---
+
+## U.S. citizen among 2 Palestinians killed by settlers in Israeli-occupied West Bank, health officials say
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7583718.1752304199!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-town-fence.JPG' alt='Aerial view of a town enclosed inside a fence' width='620' height='349' title='A drone view shows a part of the fence, which was set by the Israeli authorities, in Sinjil, near Ramallah, in the Israeli-occupied West Bank May 5, 2025. REUTERS/Mohammed Torokman'/><p>A Palestinian American man was beaten to death by settlers in the Israeli-occupied West Bank, says the Palestinian Health Ministry, prompting his family to demand that the U.S. lead an investigation. Another man, 23, was shot dead.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/palestinian-american-killed-israel-1.7583717?cmp=rss>
+
+---
+
+## Gallery - here's how Live Aid rocked the world in 1985
+
+date: 2025-07-12, from: RTÉ News
+
+Sunday 13 July marks the 40th anniversary of Live Aid, the global jukebox that spanned the Atlantic with two massive concerts to raise funds for the famine-stricken people of Africa. Take a look back on one of the biggest days in music history. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0712/1522488-gallery-heres-how-live-aid-rocked-the-world-in-1985/>
+
+---
+
+## Watch: 'I was at Live Aid 40 years ago'
+
+date: 2025-07-12, from: RTÉ News
+
+This weekend marks the 40th anniversary of Live Aid, the star-studded fundraising concerts organised by Bob Geldof and Midge Ure for famine relief in Ethiopia. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523103-live-aid-anniversary/>
+
+---
+
+## Live Aid was 40 years ago this weekend
+
+date: 2025-07-12, from: RTÉ News
+
+40 years ago this weekend, the world turned on the biggest global jukebox it had ever seen and heard as two massive concerts took place in London and Philadelphia to raise money for the famine-stricken people of Africa. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0712/890046-live-aid-was-40-years-ago-this-weekend-have-a-look-back/>
+
+---
+
+## Live Aid at 40: Geldof, Queen and everything in between
+
+date: 2025-07-12, from: RTÉ News
+
+Two venues, two billion viewers and, as pomp rockers Queen, who pretty much stole the whole show, would say - one vision. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0712/1523144-live-aid-at-40-geldof-queen-and-everything-in-between/>
+
+---
+
+## Dáil blackout brings cost-of-living crisis into spotlight
+
+date: 2025-07-12, from: RTÉ News
+
+A pre-budget row is developing on the cost of living, one which Government may prove difficult to overcome. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0712/1523149-ireland-politics-analysis/>
+
+---
+
+## Palestine Action: Why has it been banned in the UK?
+
+date: 2025-07-12, from: RTÉ News
+
+Earlier this month, British politicians voted to ban pro-Palestinian campaign group Palestine Action, proscribing it as a terrorist organisation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523115-palestine-action-banned/>
+
+---
+
+## Taylor triumphant in trilogy fight against Serrano
+
+date: 2025-07-12, from: RTÉ News
+
+Katie Taylor emerged victorious from her trilogy fight with Amanda Serrano at Madison Square Garden to seal a clean sweep of wins in their rivalry. 
+
+<br> 
+
+<https://www.rte.ie/sport/boxing/2025/0712/1523125-taylor-triumphant-in-trilogy-fight-against-serrano/>
+
+---
+
+## Canada won't let this Afghan refugee in from the U.S. His family worries the Taliban might kill him back home
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/0265b901-5293-4a1f-9323-a4429a3a1d2d,1752253817561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a baseball hat in a sparse, concrete room. ' width='620' height='349' title='This photo of Mohammad Younesi was texted by his smugglers to his brother to prove he was alive and had made it to the U.S.-Mexico border.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/afghan-refugee-mohammed-younesi-us-canada-1.7581176?cmp=rss>
+
+---
+
+## Who scored big on Prime Day - You or Amazon?
+
+date: 2025-07-12, from: RTÉ News
+
+Midnight marked the end of Amazon Prime Day, the first since it launched its dedicated Irish website, Amazon.ie. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0712/1523059-amazon-prime-day/>
+
+---
+
+## 2 years after riots rocked France, these moms are still trying to keep the peace
+
+date: 2025-07-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7579203.1751922680!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/paris-moms.JPG' alt='Five women, wearing flourescent pink vests, face roughly the same number of young boys in what appears to be an urban area. ' width='620' height='349' title='Fatimata Sy, seated front, and other members of the Pink Vests, speak with area youths in the Paris suburb of Corbeil-Essonne on June 24, 2025, in Paris. '/><p>In the suburbs of Paris, the "Pink Vests" try to calm the often-tense relations between youths and the police, an issue that erupted two years ago when a 17-year-old was killed by city police, touching off France's biggest riots in 20 years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/nahel-france-pink-vests-police-youth-violence-1.7577820?cmp=rss>
+
+---
+
+## Fuel to Air India jet cut moments before crash - report
+
+date: 2025-07-12, from: RTÉ News
+
+Fuel control switches to the engines of an Air India flight that crashed shortly after take off last month were moved from the "run" to the "cutoff" position moments before impact, a preliminary investigation report said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0712/1523154-air-india-investigation/>
+
+---
+
+## Trump visits Texas flood zone, defends disaster response
+
+date: 2025-07-12, from: RTÉ News
+
+US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the Hill Country region, where at least 120 people, including dozens of children, were killed. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0712/1523150-texas-floods/>
 
