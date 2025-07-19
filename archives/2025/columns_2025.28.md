@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-07-19 06:09:35
+updated: 2025-07-19 14:07:43
 ---
 
 # columns
 
-(date: 2025-07-19 06:09:35)
+(date: 2025-07-19 14:07:43)
 
 ---
 
@@ -49,7 +49,7 @@ The Last Class film is also spreading to more theaters
 
 date: 2025-07-18, from: Doc Searls (at Harvard), New Old Blog
 
-My car&#39;s dashboard has been telling me we have a slow leak in the right front tire. So I drove up to Tieman Tire here in Bloomington. It was busy, but they took me as a walk/drive-in, and then took an hour to remove the tire, find the leak in a tub of water (which [&#8230;] 
+My car&#8217;s dashboard has been telling me we have a slow leak in the right front tire. So I drove up to Tieman Tire here in Bloomington. It was busy, but they took me as a walk/drive-in, and then took an hour to remove the tire, find the leak in a tub of water (which [&#8230;] 
 
 <br> 
 
@@ -1787,18 +1787,6 @@ date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
 
 ---
 
-## Experts Said This Was a Damn Clever Post by Jason Kottke
-
-date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/journalisms-experts-said-conclusion>
-
----
-
 ##  The Media&#8217;s Pivot to AI Is Not Real and Not Going to... 
 
 date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
@@ -2101,6 +2089,18 @@ date: 2025-07-13, from: Heather Cox Richardson blog
 </audio> <a href="https://api.substack.com/feed/podcast/168240397/8229c1aa27fd42b7ec04bdf1c3aaad98.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/july-12-2025-f86>
+
+---
+
+##  Taking Journalism&#8217;s &#8216;Experts Said&#8230;&#8217; Chicanery About Facts to Its Natural, Absurd Conclusion 
+
+date: 2025-07-13, updated: 2025-07-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/journalisms-experts-said-conclusion>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-07-19 06:09:34
+updated: 2025-07-19 14:07:42
 ---
 
 # science and technology
 
-(date: 2025-07-19 06:09:34)
+(date: 2025-07-19 14:07:42)
 
 ---
 
@@ -503,7 +503,7 @@ Do you have a Windows XP retro virtual machine or, god forbid, run Windows XP on
 
 ## Quantum code breaking? You'd get further with an 8-bit computer, an abacus, and a dog
 
-date: 2025-07-17, updated: 2025-07-17, from: The Register (UK I.T. News)
+date: 2025-07-17, updated: 2025-07-19, from: The Register (UK I.T. News)
 
 <h4>Computer scientist Peter Gutmann tells The Reg why it&#39;s &#39;bollocks&#39;</h4> <p>The US National Institute for Standards and Technology (NIST) has been pushing for the development of post-quantum cryptographic algorithms since 2016.…</p> 
 

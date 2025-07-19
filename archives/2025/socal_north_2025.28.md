@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-07-19 06:09:32
+updated: 2025-07-19 14:07:40
 ---
 
 # socal north
 
-(date: 2025-07-19 06:09:32)
+(date: 2025-07-19 14:07:40)
 
 ---
 
@@ -25,7 +25,7 @@ Federal programs like Upward Bound and Talent Search enroll about 100,000 Califo
 
 date: 2025-07-18, from: Longbeach Post
 
-<figure><img width="1024" height="606" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-1024x606.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-1024x606.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-300x178.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-768x454.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-183x108.jpg 183w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-400x237.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="606" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-1024x606.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-1024x606.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-300x178.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-768x454.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-183x108.jpg 183w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi-400x237.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18141926/18jul25-7-18-25-mayor-5-287615-stbcxwe4-726662-iRt2G6vi.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“As the second largest city in LA County, Long Beach is proud to throw its full weight behind this effort,” Mayor Rex Richardson said.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/lawsuit-ice-raids-long-beach-raising-money-immigrants-fund">City Council votes to join lawsuits against ICE raids, starts fundraising drive for immigrant families</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

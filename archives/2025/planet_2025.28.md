@@ -1,11 +1,11 @@
 ---
 title: planet
-updated: 2025-07-19 06:09:30
+updated: 2025-07-19 14:07:39
 ---
 
 # planet
 
-(date: 2025-07-19 06:09:30)
+(date: 2025-07-19 14:07:39)
 
 ---
 
@@ -25,7 +25,7 @@ Ahead of Saturday night's Up for the Match, we've rounded up five top moments fr
 
 date: 2025-07-18, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/cdabf54b-765f-4fd2-98f1-542f5d4465af,1752863469267/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a space suit with his arms open wide' width='620' height='349' title='elix Baumgartner of Austria gestures prior to speaking with the media after successfully jumping from a space capsule lifted by a helium balloon in Roswell, N.M., Oct. 14, 2012'/><p>Felix Baumgartner, the Austrian skydiver known for his 2012 supersonic jump from the stratosphere, died in a paragliding crash in Italy. He was 56. Local reports say he lost control mid-air and crashed near a hotel pool.</p> 
+<img src='https://i.cbc.ca/ais/cdabf54b-765f-4fd2-98f1-542f5d4465af,1752931848279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a space suit with his arms open wide' width='620' height='349' title='elix Baumgartner of Austria gestures prior to speaking with the media after successfully jumping from a space capsule lifted by a helium balloon in Roswell, N.M., Oct. 14, 2012'/><p>Felix Baumgartner, the Austrian skydiver known for his 2012 supersonic jump from the stratosphere, died in a paragliding crash in Italy. He was 56. Local reports say he lost control mid-air and crashed near a hotel pool.</p> 
 
 <br> 
 
@@ -133,7 +133,7 @@ date: 2025-07-18, from: CBC, Indigenious News
 
 date: 2025-07-18, from: RTÉ News
 
-Cork duo Patrick Horgan and Seamus Harnedy, along with All-Ireland hurling final opponent Noel McGrath of Tipperary, are showing how players can still compete at the hightest level in their mid 30s. 
+Cork duo Patrick Horgan and Seamus Harnedy, along with All-Ireland hurling final opponent Noel McGrath of Tipperary, are showing how players can still compete at the highest level in their mid 30s. 
 
 <br> 
 
@@ -1161,7 +1161,7 @@ A group of Indigenous youth from the United States, some as young as seven, visi
 
 ## Pakistan reels under monsoon deluge as death toll climbs
 
-date: 2025-07-17, from: United Nations, Top Stories
+date: 2025-07-17, from: United Nations, Climate Change
 
 Pakistan’s monsoon emergency deepened on Thursday as authorities declared disaster zones across parts of eastern Punjab province after lethal cloudbursts and flash floods killed dozens in a single day. 
 
@@ -1197,7 +1197,7 @@ As years of war in Ukraine have left millions with unreliable heating and limite
 
 ## From crisis to classroom: How the UN supports education in conflict zones
 
-date: 2025-07-17, from: United Nations, Top Stories
+date: 2025-07-17, from: United Nations, Culture and Education
 
 From makeshift furniture in Gaza to metro classrooms in Ukraine and solar-powered tablets in Sudan, the UN is working to bring education to millions of crisis-affected children. 
 
