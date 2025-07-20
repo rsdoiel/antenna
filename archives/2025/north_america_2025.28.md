@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-07-19 14:07:40
+updated: 2025-07-20 06:08:11
 ---
 
 # north america
 
-(date: 2025-07-19 14:07:40)
+(date: 2025-07-20 06:08:11)
+
+---
+
+##  YOU LOVE TO SEE IT: Breaking The ICE 
+
+date: 2025-07-19, from: The Lever News
+
+ States stand up to ICE, a class act in the Garden State, wildlife crossings get a boost, and an agency backtracks on DOGE cuts.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-breaking-the-ice/>
+
+---
+
+## Reasons for hope in American democracy…millions of them!
+
+date: 2025-07-19, from: The Contrarian
+
+Publisher's Roundup 27 
+
+<br> 
+
+<https://contrarian.substack.com/p/reasons-for-hope-in-american-democracymillions>
+
+---
+
+## The attack on education with Randi Weingarten & Arne Duncan 
+
+date: 2025-07-19, from: The Contrarian
+
+Listen now | American Federation of Teachers President Randi Weingarten and former Secretary of Education Arne Duncan 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168675442/bb0e532d3acbf4bdcac90300d524ef9f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168675442/bb0e532d3acbf4bdcac90300d524ef9f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-attack-on-education-with-randi>
 
 ---
 
@@ -840,42 +878,4 @@ date: 2025-07-13, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-red-pill-blue-pill-poison-pill/>
-
----
-
-## Contrarians to the Rescue on Birthright Citizenship!
-
-date: 2025-07-12, from: The Contrarian
-
-Publisher's Roundup 26 
-
-<br> 
-
-<https://contrarian.substack.com/p/contrarians-to-the-rescue-on-birthright>
-
----
-
-##  YOU LOVE TO SEE IT: Sunblock For Cities 
-
-date: 2025-07-12, from: The Lever News
-
- City-sized sunblock, states break the subscription loop, abortion limbo resolved, and AI hiring is on trial.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-sunblock-for-cities/>
-
----
-
-## Our First Episode: E. Jean Carroll
-
-date: 2025-07-12, from: The Contrarian
-
-Welcome to The Contrarian Podcast! 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168115365/590e44cd42dcaa9bbacbf89c1dd79c0b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168115365/590e44cd42dcaa9bbacbf89c1dd79c0b.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://contrarian.substack.com/p/our-first-episode-e-jean-carroll>
 

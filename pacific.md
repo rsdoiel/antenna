@@ -1,11 +1,378 @@
 ---
 title: pacific
-updated: 2025-07-19 14:07:41
+updated: 2025-07-20 06:08:13
 ---
 
 # pacific
 
-(date: 2025-07-19 14:07:41)
+(date: 2025-07-20 06:08:13)
+
+---
+
+## Federal cuts leave Hawaii stations scrambling
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s public broadcasting stations are scrambling to make up for a sudden loss in federal funding &#8212; forcing Hawaii Public Radio to pull from reserves and hold an emergency fundraising drive, as PBS Hawaii said it remains committed to its community emergency preparedness mission despite the financial strain.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/hawaii-news/federal-cuts-leave-hawaii-stations-scrambling/>
+
+---
+
+## Rally protesting Trump administration draws hundreds
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;He&#8217;s destroying not only the United States, but the world,&#8221; said Charmaine Kamaka of Hilo at the latest local rally against the Trump administration and its policies. &#8220;I don&#8217;t think Mr. Trump understands what he&#8217;s unleashed. People in Hilo don&#8217;t normally do this kind of thing, so if you get Hilo out, it&#8217;s a big deal.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/hawaii-news/rally-protesting-trump-administration-draws-hundreds/>
+
+---
+
+## Girl Scouts of Hawaii plans Big Isle expansion
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>The Girl Scouts of Hawaii is actively working to remove obstacles for girls interested in joining, particularly those in low-income and rural areas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/hawaii-news/girl-scouts-of-hawaii-plans-big-isle-expansion/>
+
+---
+
+## Democrats’ 2024 autopsy is described as avoiding the likeliest cause of death
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>The Democratic National Committee&#8217;s examination of what went wrong in the 2024 election is expected to mostly steer clear of the decisions made by the Biden-turned-Harris campaign and will focus more heavily instead on actions taken by allied groups, according to interviews with six people briefed on the report&#8217;s progress.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/nation-world-news/democrats-2024-autopsy-is-described-as-avoiding-the-likeliest-cause-of-death/>
+
+---
+
+## Driver purposely plows car into crowd in LA, injuring at least 30
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A man who had been thrown out of a Los Angeles nightclub and music venue intentionally plowed his car into a crowd outside Saturday, injuring at least 30 people, including seven critically, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/nation-world-news/driver-purposely-plows-car-into-crowd-in-la-injuring-at-least-30/>
+
+---
+
+## Syria declares ceasefire after a week of upheaval
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT, Lebanon &#8212; The Syrian government announced a ceasefire deal on Saturday and said it would redeploy its forces to the restive southern province of Sweida in a new effort to quell a deadly wave of sectarian violence that drew in neighboring Israel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/nation-world-news/syria-declares-ceasefire-after-a-week-of-upheaval/>
+
+---
+
+## Should food stamps pay for soda?
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>Should Americans on food assistance be able to use that money on soda?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/nation-world-news/should-food-stamps-pay-for-soda/>
+
+---
+
+## Volcano Watch: Remembering a destructive Mauna Loa eruption 75 years ago
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>Lava fountains at the summit of Kilauea have been shining a spotlight on Hawaii&#8217;s most active volcano but let us not forget the larger one looming in the background of Kilauea. Mauna Loa is currently quiet and now is a good opportunity to remember the 1950 Southwest Rift Zone eruption &#8212; the volcano&#8217;s most recent eruption to have caused significant damage &#8212; 75 years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/features/volcano-watch-remembering-a-destructive-mauna-loa-eruption-75-years-ago/>
+
+---
+
+## Steves: Driving in Great Britain and Ireland
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>Renting a car in Britain and Ireland can be a smart move &#8212; especially in Ireland, which lacks an extensive rail network. While Great Britain&#8217;s trains go to most places of tourist interest &#8212; and just about everything&#8217;s reachable by bus in both countries &#8212; the bucolic landscape you&#8217;ll see here is most easily experienced by car. Behind the wheel you&#8217;re totally free, going where you want, when you want.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/features/steves-driving-in-great-britain-and-ireland/>
+
+---
+
+## Nevada is all in on solar power
+
+date: 2025-07-20, from: Hawaii Tribune Harold
+
+
+				<p>Lights pulsate. Numbers spin. Air conditioners battle the desert heat.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/20/nation-world-news/nevada-is-all-in-on-solar-power/>
+
+---
+
+## 'Not just a parcel of land:' GWA gears up for showdown with Core Tech over Dededo property
+
+date: 2025-07-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The disputed real estate asset in Dededo “is not just a parcel of land—it is a vital piece of Guam’s... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/not-just-a-parcel-of-land-gwa-gears-up-for-showdown-with-core-tech-over-dededo-property>
+
+---
+
+## Business Briefs: Registration now open for Fanachu Famalåo’an 2025 
+
+date: 2025-07-19, from: Pacific Island Times
+
+Registration is now open for Fanachu Famalåo’an 2025: In Bloom, the island’s largest annual gathering of women leaders, entrepreneurs and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-briefs-registration-now-open-for-fanachu-famal%C3%A5o-an-2025>
+
+---
+
+## T'way Air resumes daily flights to Guam, 
+
+date: 2025-07-19, from: Pacific Island Times
+
+T’way Air has resumed the Kansai-Guam route, expanding seat capacity to bring more arrivals from Japan and is expected to accelerate the recovery of Guam’s tourism industry. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/t-way-air-resumes-daily-flights-to-guam>
+
+---
+
+## This is sixty
+
+date: 2025-07-19, from: Pacific Island Times
+
+Life moves fast, so I don’t have much time to take a long look at myself anymore and think of what I may have lost, except for those rare moments that are worth considering and appreciating.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/this-is-sixty>
+
+---
+
+## Trump’s immigration crackdown hits senior care workforce
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s immigration crackdown is beginning to strain the long-term care workforce, raising concerns about how the effects could ripple across the nation&#8217;s senior population.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trumps-immigration-crackdown-hits-senior-care-workforce/>
+
+---
+
+## Trump’s withering criticism of Powell puts Fed decisions under microscope
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s relentless attacks on the Federal Reserve and its chair, Jerome Powell, have put the central bank under intense scrutiny as it grapples with when and by how much to cut interest rates again after a long pause.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trumps-withering-criticism-of-powell-puts-fed-decisions-under-microscope/>
+
+---
+
+## Trump tells Bondi to seek release of Epstein grand jury testimony
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The Justice Department on Friday asked a federal judge to unseal grand jury testimony from the prosecution of the disgraced financier Jeffrey Epstein. The move came amid growing pressure from both parties for the Trump administration to release more information about the case.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trump-tells-bondi-to-seek-release-of-epstein-grand-jury-testimony/>
+
+---
+
+## Prisoner swap frees Americans in Venezuela for migrants held in El Salvador
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Ten Americans and U.S. permanent residents who had been seized by Venezuelan authorities and held as bargaining chips were freed Friday in exchange for the release of more than 250 Venezuelan migrants whom the Trump administration sent to a prison in El Salvador.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/prisoner-swap-frees-americans-in-venezuela-for-migrants-held-in-el-salvador/>
+
+---
+
+## White House to release $1.3 billion in frozen funds for after-school programs
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration said Friday that it would release $1.3 billion in frozen federal funding for after-school programs across the country, after facing growing bipartisan pressure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/white-house-to-release-1-3-billion-in-frozen-funds-for-after-school-programs/>
+
+---
+
+## 3 deputies are killed in explosion at Los Angeles training center
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Three sheriff&#8217;s deputies were killed in an explosion Friday morning at a law enforcement training center in Los Angeles, local and federal officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/3-deputies-are-killed-in-explosion-at-los-angeles-training-center/>
+
+---
+
+## Gabbard claims Obama administration tried to undermine Trump in 2016
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The Office of the Director of National Intelligence on Friday issued the latest in a series of reports from the Trump administration attempting to undermine the 8-year-old assessment that Russia favored the election of Donald Trump in 2016.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/gabbard-claims-obama-administration-tried-to-undermine-trump-in-2016/>
+
+---
+
+## Floods and heavy rain kill dozens in Pakistan
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Heavy monsoon rains in Pakistan have killed at least 57 people in the past two days, many of them children, officials said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/floods-and-heavy-rain-kill-dozens-in-pakistan/>
+
+---
+
+## Trump sues Wall Street Journal for article on note to Epstein
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Friday accused Rupert Murdoch and The Wall Street Journal of defaming him in an article about a lewd birthday greeting that the publication said Trump had sent to disgraced financier Jeffrey Epstein decades ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trump-sues-wall-street-journal-for-article-on-note-to-epstein/>
+
+---
+
+## Tropical Gardening: Ferns among the first plants to arrive in Hawaiian Islands
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Probably the first pioneer plants to arrive in Hawaii were mosses and ferns. Ferns have been around for over 360 million years. Giant tree fern forests were common for millions of years but they gave way as flowering plants evolved to take their place.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/features/tropical-gardening-ferns-among-the-first-plants-to-arrive-in-hawaiian-islands/>
+
+---
+
+## Manu Samoa coach, captain happy despite loss to Scotland
+
+date: 2025-07-19, from: 
+
+The Samoans were missing several of their leading players in their Pacific Nations Cup build-up. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567413/manu-samoa-coach-captain-happy-despite-loss-to-scotland>
+
+---
+
+## Women inmates study Moon, planets in UH program
+
+date: 2025-07-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> brings Moon and planet science to women inmates in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/18/women-inmates-study-moon-planets/">Women inmates study Moon, planets in <abbr>UH</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/18/women-inmates-study-moon-planets/>
+
+---
+
+## Trump sues Wall Street Journal over Epstein report, seeks $10 billion
+
+date: 2025-07-19, updated: 2025-07-20, from: Marianas Variety
+
+NEW YORK/WASHINGTON (Reuters) — President Donald Trump sued the Wall Street Journal and its owners including Rupert Murdoch on Friday, seeking at least $10 billion in damages over the newspaper's report that Trump in 2003 sent Jeffrey Epstein a birthday greeting that included a sexually suggestive drawing and a reference to secrets they shared. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-sues-wall-street-journal-over-epstein-report-seeks-10-billion/article_04c27a76-05dd-49b9-8bbc-65f5750f15c5.html>
 
 ---
 
@@ -834,6 +1201,42 @@ There are a dozen people in the Latu household in the Auckland suburb of Mangere
 
 ---
 
+## Rep. Ogo welcomes return of EVS-TAP, calls for clearer federal communication going forward
+
+date: 2025-07-17, updated: 2025-07-20, from: Marianas Variety
+
+REPRESENTATIVE Julie Marie A. Ogo on Thursday welcomed the resumption of the Economic Vitality and Security Travel Authorization Program or EVS-TAP, calling it a “positive and necessary step” for the people of the CNMI, especially those whose livelihoods depend on a stable and functioning tourism sector. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rep-ogo-welcomes-return-of-evs-tap-calls-for-clearer-federal-communication-going-forward/article_9fe18f9b-740e-4274-b012-a9e8d084f2dc.html>
+
+---
+
+## King-Hinds to hold open forums for public feedback and updates
+
+date: 2025-07-17, updated: 2025-07-20, from: Marianas Variety
+
+(Office of the CNMI Congressional Delegate) — U.S. Congresswoman Kimberlyn King-Hinds invites CNMI residents to participate in the “From the Hill to the Vill: Community Conversations,” a public forum series aimed for open and transparent dialogue between constituents and their congressional representative following her first seven months in Congress. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-to-hold-open-forums-for-public-feedback-and-updates/article_54b5ba73-ca00-4052-8741-f8e395652709.html>
+
+---
+
+## Cohort 1 interns exiting, Cohort 2 interns thriving
+
+date: 2025-07-17, updated: 2025-07-20, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is proud to share that the first batch of Career Pathways Internship Program interns will be completing their three-month commitment this coming July 21, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cohort-1-interns-exiting-cohort-2-interns-thriving/article_d9a7dbb0-15db-4888-9a83-7123eb381b4c.html>
+
+---
+
 ## New Miss Earth NMI to be crowned on July 19
 
 date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
@@ -915,42 +1318,6 @@ U.S. Congresswoman Kimberlyn King-Hinds has drafted a bill seeking a federal gua
 <br> 
 
 <https://www.mvariety.com/news/local/king-hinds-drafts-bill-seeking-federal-guarantee-on-insular-area-debt/article_e344722b-34c6-4df0-9a24-2a091ae01e59.html>
-
----
-
-## Rep. Ogo welcomes return of EVS-TAP, calls for clearer federal communication going forward
-
-date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
-
-REPRESENTATIVE Julie Marie A. Ogo on Thursday welcomed the resumption of the Economic Vitality and Security Travel Authorization Program or EVS-TAP, calling it a “positive and necessary step” for the people of the CNMI, especially those whose livelihoods depend on a stable and functioning tourism sector. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/rep-ogo-welcomes-return-of-evs-tap-calls-for-clearer-federal-communication-going-forward/article_9fe18f9b-740e-4274-b012-a9e8d084f2dc.html>
-
----
-
-## King-Hinds to hold open forums for public feedback and updates
-
-date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
-
-(Office of the CNMI Congressional Delegate) — U.S. Congresswoman Kimberlyn King-Hinds invites CNMI residents to participate in the “From the Hill to the Vill: Community Conversations,” a public forum series aimed for open and transparent dialogue between constituents and their congressional representative following her first seven months in Congress. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/king-hinds-to-hold-open-forums-for-public-feedback-and-updates/article_54b5ba73-ca00-4052-8741-f8e395652709.html>
-
----
-
-## Cohort 1 interns exiting, Cohort 2 interns thriving
-
-date: 2025-07-17, updated: 2025-07-17, from: Marianas Variety
-
-(SCC) — The Saipan Chamber of Commerce is proud to share that the first batch of Career Pathways Internship Program interns will be completing their three-month commitment this coming July 21, 2025. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/cohort-1-interns-exiting-cohort-2-interns-thriving/article_d9a7dbb0-15db-4888-9a83-7123eb381b4c.html>
 
 ---
 
@@ -3508,261 +3875,4 @@ The race for the governor’s office is shaping not only as a contest of leaders
 <br> 
 
 <https://www.pacificislandtimes.com/post/campaign-season-for-cnmi-s-2026-governor-s-race-kicks-off-amid-economic-uncertainty>
-
----
-
-## New All Black Timoci Tavatavanawai makes dream come true
-
-date: 2025-07-12, from: 
-
-Timoci Tavatavanawai knows his dad would be incredibly proud. 
-
-<br> 
-
-<https://www.rnz.co.nz/news/sport/566739/new-all-black-timoci-tavatavanawai-makes-dream-come-true>
-
----
-
-## A ceremony of silence: Echoes of mana and a chief's ascent
-
-date: 2025-07-12, from: 
-
-In Fiji, a new chief from an eminent dynasty emerged before the crowds, shrouded in silence, accompanied only by the sound of birds. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/566662/a-ceremony-of-silence-echoes-of-mana-and-a-chief-s-ascent>
-
----
-
-## Bank of Hawaii to open new branch in Tamuning
-
-date: 2025-07-12, from: Pacific Island Times
-
-By Pacific Island Times News Staff Bank of Hawaii announced the grand opening of its new location in Tamuning on July 19. " As  our... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/bank-of-hawaii-to-open-new-branch-in-tamuning>
-
----
-
-## Tropical Gardening: Try your hand at flower, herb and spice gardening
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>Fresh herbs and spices are a natural for out door and kitchen gardening. In Hawaii, we tend to depend on the convenience of the supermarkets, but growing your own can be fun as well as save money on the food budget.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/features/tropical-gardening-try-your-hand-at-flower-herb-and-spice-gardening/>
-
----
-
-## FEMA didn’t answer thousands of calls from flood survivors, documents show
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>Two days after catastrophic floods roared through Central Texas, the Federal Emergency Management Agency did not answer nearly two-thirds of calls to its disaster assistance line, according to documents reviewed by The New York Times.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/fema-didnt-answer-thousands-of-calls-from-flood-survivors-documents-show/>
-
----
-
-## US customs duties top $100 billion for first time in a fiscal year
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. customs duty collections surged again in June as President Donald Trump&#8217;s tariffs gained steam, topping $100 billion for the first time during a fiscal year and helping to produce a surprise $27 billion budget surplus for the month, the Treasury Department reported on Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/us-customs-duties-top-100-billion-for-first-time-in-a-fiscal-year/>
-
----
-
-## Last bills passed by Hawaii lawmakers now law
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>All new state laws stemming from bills passed by Hawaii&#8217;s Legislature earlier this year are now on the books.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/hawaii-news/last-bills-passed-by-hawaii-lawmakers-now-law/>
-
----
-
-## After Texas disaster, Trump shifts his tone on FEMA
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Just days into his second term, President Donald Trump said he was going to recommend that the Federal Emergency Management Agency &#8220;go away,&#8221; dismissing the agency as bloated and ineffective.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/after-texas-disaster-trump-shifts-his-tone-on-fema/>
-
----
-
-## Rubio’s cuts at State Department demote longtime US values
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>The Trump administration began firing more than 1,000 State Department employees Friday, as it moves to downsize the federal government&#8217;s diplomatic arm in what critics say is a risky retreat from America&#8217;s global engagement.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/rubios-cuts-at-state-department-demote-longtime-us-values/>
-
----
-
-## Son of El Chapo pleads guilty to sweeping drug charges
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>Ovidio Guzm&#225;n L&#243;pez, a son of the notorious Mexican crime lord known as El Chapo, pleaded guilty Friday to sprawling federal drug charges and using violence to help take control of his father&#8217;s criminal empire.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/son-of-el-chapo-pleads-guilty-to-sweeping-drug-charges/>
-
----
-
-## Energy Department to gut funding for solar and wind projects
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>The Energy Department plans to eliminate hundreds of millions of dollars in funding for major renewable and efficiency projects this year, the latest move by the Trump administration to undo efforts to shift the nation away from fossil fuels.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/energy-department-to-gut-funding-for-solar-and-wind-projects/>
-
----
-
-## Two dozen hospitalized in mass drug overdose in Baltimore
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>More than two dozen people were hospitalized for suspected drug overdoses in Baltimore on Thursday, as rescue crews scoured alleys and homes in fear that there were more victims.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/two-dozen-hospitalized-in-mass-drug-overdose-in-baltimore/>
-
----
-
-## Netanyahu ends Washington trip without a Gaza truce
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>JERUSALEM &#8212; Prime Minister Benjamin Netanyahu returned to Israel on Friday without finalizing a truce with Hamas in the Gaza Strip, after days of talks in Washington with U.S. officials, including President Donald Trump, left key issues unresolved.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/netanyahu-ends-washington-trip-without-a-gaza-truce/>
-
----
-
-## Earth is spinning faster and days are getting shorter, for now
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>It wouldn&#8217;t be summer without the stretched out days. The dawns break early and the dusks come late, affording more time for lazy beach trips and long barbecues under the slow curve of the sun.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/earth-is-spinning-faster-and-days-are-getting-shorter-for-now/>
-
----
-
-## Evidence supports war crimes allegations in Darfur, ICC prosecutor says
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>The International Criminal Court said on Thursday it had &#8220;reasonable grounds&#8221; to conclude that war crimes and crimes against humanity were unfolding in Sudan&#8217;s western Darfur region, where the county&#8217;s civil war has thrust the region into a deepening catastrophe.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/evidence-supports-war-crimes-allegations-in-darfur-icc-prosecutor-says/>
-
----
-
-## Fuel to Air India plane was cut off before crash, report says
-
-date: 2025-07-12, from: Hawaii Tribune Harold
-
-
-				<p>NEW DELHI &#8212; Seconds after takeoff and moments before an Air India flight crashed last month, the fuel was cut off to both engines of the plane, investigators said early Saturday, in a preliminary assessment of information from the aircraft&#8217;s voice and data recorder.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/12/nation-world-news/fuel-to-air-india-plane-was-cut-off-before-crash-report-says/>
-
----
-
-## GAO: American Samoa economy stable, but still faces risks
-
-date: 2025-07-12, from: Pacific Island Times
-
-
-
-In a recent report, GAO also noted that both the American Samoan government and StarKist Samoa rely on the federal tax credit, adding to the shaky posture of the economy, mostly because of the temporary nature of that tax credit. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/gao-american-samoa-economy-stable-but-still-faces-risks>
-
----
-
-## BJ Attao to run for governor; chooses Speaker Villagomez as his running mate
-
-date: 2025-07-12, updated: 2025-07-12, from: Marianas Variety
-
-REPRESENTATIVE BJ Attao and running mate Speaker Ed Vilagomez declared their independent candidacy for governor and lieutenant governor on Saturday. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/bj-attao-to-run-for-governor-chooses-speaker-villagomez-as-his-running-mate/article_410f1055-80e0-49b9-824d-b3a079781445.html>
-
----
-
-## From campus to cocktails: UH Mānoa grad builds buzz with Char’s Bar
-
-date: 2025-07-12, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> grad stirs up success with custom cocktails, creativity and connections.</p>
-The post <a href="https://www.hawaii.edu/news/2025/07/11/uh-grad-builds-buzz-with-chars-bar/">From campus to cocktails: <abbr>UH</abbr> Mānoa grad builds buzz with Char’s Bar</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/07/11/uh-grad-builds-buzz-with-chars-bar/>
 

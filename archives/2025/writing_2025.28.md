@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-07-19 14:07:44
+updated: 2025-07-20 06:08:16
 ---
 
 # writing
 
-(date: 2025-07-19 14:07:44)
+(date: 2025-07-20 06:08:16)
 
 ---
 
@@ -437,32 +437,4 @@ date: 2025-07-13, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/07/exit-zero-by-marie-helene-bertino-review-by-gabino-iglesias/>
-
----
-
-## Clarkesworld: Short Fiction Reviews by A.C. Wise
-
-date: 2025-07-12, from: Locus Magazine
-
-<p>Clarkesworld 4/25</p>
-<p>“<strong>Through These Moments, Darkly</strong>” by <strong>Saman­tha Murray </strong>in the April issue of Clarkesworld is a story with some nice descriptive language that looks at perception and the way we make narratives out of our lives as the main character contemplates the disappearance of their lover, Jiayi, who was studying dark matter portals and the possibility of unseen worlds. “<strong>Aegiopolis Testudo</strong>” by <strong>Gordon Li </strong>offers  <a href="https://locusmag.com/2025/07/clarkesworld-short-fiction-reviews-by-a-c-wise-10/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/07/clarkesworld-short-fiction-reviews-by-a-c-wise-10/>
-
----
-
-## Baffling, Kaleidotrope, and Small Wonders: Reviews by Charles Payseur
-
-date: 2025-07-12, from: Locus Magazine
-
-<p>Baffling 4/25
-Kaleidotrope Spring ’25
-Small Wonders 4/25</p>
-<p>The April issue of Baffling features seven stories from authors new to the publication, including <strong>Plangdi Neple</strong>’s “<strong>How to Rob a Bullion Van</strong>”, which unfolds as a letter between a man stuck in prison and the person he hopes can get him out of his predicament. On one level the story is a how-to guide to robbing a van,  <a href="https://locusmag.com/2025/07/baffling-kaleidotrope-and-small-wonders-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/07/baffling-kaleidotrope-and-small-wonders-reviews-by-charles-payseur/>
 

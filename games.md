@@ -1,11 +1,143 @@
 ---
 title: games
-updated: 2025-07-19 14:07:44
+updated: 2025-07-20 06:08:16
 ---
 
 # games
 
-(date: 2025-07-19 14:07:44)
+(date: 2025-07-20 06:08:16)
+
+---
+
+## Bring back the weirdest animated series of 1991
+
+date: 2025-07-20, updated: 2025-07-18, from: Polygon Website
+
+Deadline reported this week that Netflix is working on a live-action adaptation of the ’90s animated series Captain Planet and the Planeteers, a project which has been in development hell for nearly a decade. While that’s great news for ’90s animation fans, I’m hoping it paves the way for the revival of a different ’90s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/614288/90s-cartoon-reboot-bucky-ohare-star-wars-parody>
+
+---
+
+## Warframe is going full Catholic
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+Finally, there will be a Warframe for every letter of the alphabet — and the last to arrive is a devil-themed character named Uriel. The new playable character will be part of a side story that will be released alongside Warframe’s year-end update, The Old Peace. The new Frame was revealed at TennoCon, Digital Extremes’ [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon>
+
+---
+
+## Warframe’s next chapter will explore a new star system
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+The next chapter of Warframe is coming, and it’s taking players across the stars to Tau. The Old Peace will be Warframe’s year-end update. Developer Digital Extremes revealed limited but exciting details about the story at its annual TennoCon event. The expansion will take players to Tau, a distant star system that is the holy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613839/warframe-tennocon-tau-old-peace-expansion>
+
+---
+
+## Warframe is getting a tabletop RPG from Pathfinder publishers
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+Warframe is coming to a dining room table near you. Developer Digital Extremes is collaborating with Pathfinder creator Paizo Games on a new TTRPG module for Warframe, using Paizo’s Starfinder system. They’ve created a standalone tabletop adventure that will launch in October 2025, and it’s called Warframe x Starfinder: Operation Orias. “This is just from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/613717/warframe-ttrpg-paizo-starfinder-tennocon>
+
+---
+
+## Lagoon Layer fossil locations in Donkey Kong Bananza
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+In Donkey Kong Bananza, you’ll need to find fossils on the Lagoon Layer if you want to buy any swanky clothes or fur dye for Donkey Kong and Pauline. While fossils like ammonite are just about everywhere (and using DK’s sonar clap will help you find tons of them), there are some harder-to-find fossils that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map>
+
+---
+
+## Everyone can play Soulframe, the fantasy Warframe, right now
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+If you’ve ever wanted to kill someone with a leaf and adopt a wolf puppy, now is your chance: Soulframe’s pre-alpha build is open to the public for a limited time. Soulframe: Preludes is being made available to anyone who has signed up on the Soulframe website as part of developer Digital Extremes’ TennoCon weekend [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/614126/soulframe-alpha-tennocon-2025-free>
+
+---
+
+## All Kong Bananza City Smash Banandium Gems in Donkey Kong Bananza
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+The Kong Bananza: City Smash challenge in Donkey Kong Bananza is a little confusing initially, courtesy of the fractone running the challenge telling you absolutely nothing about what to do. Smashing concrete is only part of the job. If you want all three Banandium Gems from this challenge, you&#8217;ll have to power through it with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614349/kong-bananza-city-smash-bananas-banandium-gems-ancient-ruins>
+
+---
+
+## The Divide Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+In Donkey Kong Bananza, The Divide is the fourth layer that’ll you descend into, and its full of pink and blue goo — and a few Banandium Gems (golden bananas). The Divide is a fairly short level, so it’s extremely easy to blitz through and miss all of the bananas hidden inside. Make sure to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map>
+
+---
+
+## South Park is imploding: the lawsuit debacle putting the show’s future in jeopardy
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+South Park, on the cusp of its 27th season, is caught in behind-the-scenes turmoil that now threatens the show’s future. At the center of the conflict is the $8 billion acquisition of Paramount by David Ellison’s Skydance Media, a deal that has become a major flashpoint for creators Matt Stone and Trey Parker. The troubles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/614218/south-park-matt-stone-trey-parker-skydance-paramount-lawsuit>
+
+---
+
+## Pokémon Go ‘Summer Concert’ event guide
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+Pokémon Go is hosting a “Summer Concert” event from July 19-22, though the event perks will only actually be active from 5-8 p.m. each day in your local time. As part of the event, music composed by Junichi Masuda will be playing during the short time the bonuses are active, giving the feel of an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/613441/summer-concert-event-shiny-chatot-lure-module-spawns>
+
+---
+
+## Pokémon Go Quaxly Community Day guide
+
+date: 2025-07-19, updated: 2025-07-18, from: Polygon Website
+
+Pokémon Go is having a Quaxly Community Day event on July 20 from 2-5 p.m. in your local time. As expected with a Community Day event, Quaxly will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/613409/quaxly-community-day-shiny-quaxwell-quaquaval-moveset>
 
 ---
 
@@ -774,28 +906,4 @@ Lois Lane in James Gunn’s Superman cracked me up and annoyed me at the same ti
 <br> 
 
 <https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist>
-
----
-
-## After 160 hours of Nightreign, I can never go back to Elden Ring
-
-date: 2025-07-12, updated: 2025-07-11, from: Polygon Website
-
-I’ve played 500 hours of Elden Ring. I’ve beaten every boss, explored every invisible door, collected every rare armament. If I had to pick one favorite, generation-defining game above all others it would definitely be the base game and its Shadow of the Erdtree expansion.&#160; But 160 hours into Nightreign, FromSoftware’s multiplayer spinoff that launched [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/analysis/612732/elden-ring-nightreign-shadow-erdtree-gameplay-differences-everdark-nightlord>
-
----
-
-## 3 Netflix shows we&#8217;re binge-watching this weekend (July 12-13)
-
-date: 2025-07-12, updated: 2025-07-11, from: Polygon Website
-
-Don’t feel guilty for staying inside on a beautiful day — give yourself a break and soak up some television. Just remember to take your Vitamin D part-way through whatever you decide to binge-watch. As the streaming business continues to collapse, evolve, and transform (did you see Max became HBO Max again?), Netflix has proven [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025>
 

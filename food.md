@@ -1,11 +1,63 @@
 ---
 title: food
-updated: 2025-07-19 14:07:49
+updated: 2025-07-20 06:08:21
 ---
 
 # food
 
-(date: 2025-07-19 14:07:49)
+(date: 2025-07-20 06:08:21)
+
+---
+
+## Let God Color Sort ‘Em Out
+
+date: 2025-07-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.  
+
+<br> 
+
+<https://sprudge.com/let-god-color-sort-em-out-380227.html>
+
+---
+
+## Zucchini Recipes
+
+date: 2025-07-20, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/07/Zucchini-Recipes.jpg"/></div>
+<p>A collection of the best zucchini and summer squash recipes that are easy to make! Zucchini, aka courgette, a summer squash, has to be one of my favourite summer vegetables (technically a fruit) and that&#8217;s good because when you grow it you get a ton of it! Although it&#8217;s nice and easy to steam or...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/25-zucchini-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/25-zucchini-recipes/">Zucchini Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/25-zucchini-recipes/>
+
+---
+
+## What to Buy (and Skip) at Trader Joe’s For Summer 2025
+
+date: 2025-07-19, from: Bon Appetet
+
+So many strawberry things. A cottage cheese dip?! Passion fruit sorbet! What a summer. 
+
+<br> 
+
+<https://www.bonappetit.com/story/trader-joes-summer-products-2025>
+
+---
+
+## Around The World Of Coffee Gear
+
+date: 2025-07-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear. 
+
+<br> 
+
+<https://sprudge.com/around-the-world-of-coffee-gear-380219.html>
 
 ---
 
@@ -1172,16 +1224,4 @@ date: 2025-07-13, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/30-summer-salads/>
-
----
-
-## Our 29 Best Anchovy Recipes
-
-date: 2025-07-12, from: Bon Appetet
-
-Baked pasta with anchovy cream, citrusy bagna cauda, Caesar-roast chicken, and more. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/anchovy-recipes-dinner-ideas>
 

@@ -1,11 +1,163 @@
 ---
 title: socal north
-updated: 2025-07-19 14:07:40
+updated: 2025-07-20 06:08:11
 ---
 
 # socal north
 
-(date: 2025-07-19 14:07:40)
+(date: 2025-07-20 06:08:11)
+
+---
+
+## New support group helps survivors process the devastation of Eaton and Palisades Fires
+
+date: 2025-07-20, updated: 2025-07-20, from: The LAist
+
+NAMI San Gabriel Valley is hosting a monthly virtual peer support group. 
+
+<br> 
+
+<https://laist.com/news/support-group-helps-survivors-process-devastation-eaton-palisades-fires>
+
+---
+
+## Don’t like fresh LA smog? A can of vintage stuff from the 1950s is for sale
+
+date: 2025-07-20, updated: 2025-07-20, from: The LAist
+
+The real, killer stuff from an era before state regulation, before car emission technology, before unleaded gasoline. Enjoy. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/for-sale-a-can-of-legendary-la-smog-from-the-1950s>
+
+---
+
+## Main road through Rancho Palos Verdes under emergency repairs, access reduced
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+Some 15,000 vehicles uses Palos Verdes Drive South a day. Alternating one-lane access is available. 
+
+<br> 
+
+<https://laist.com/news/transportation/main-road-through-rancho-palos-verdes-shuts-down-for-emergency-repairs>
+
+---
+
+## Man arrested for allegedly shooting into group of women; nobody hurt, police say
+
+date: 2025-07-19, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 24-year-old man was arrested on suspicion of assault with a deadly weapon and carrying a loaded firearm in a public place.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say">Man arrested for allegedly shooting into group of women; nobody hurt, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say>
+
+---
+
+## Unwind, Explore and Experience Summer in Santa Clarita
+
+date: 2025-07-19, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin With summer in full swing, there’s no better time to explore and experience everything Santa Clarita has to offer. From scenic hikes and free live music to locally owned restaurants, breweries and wineries, the season is packed with opportunities to relax, explore and make unforgettable memories. Whether you’re a longtime [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/19/unwind-explore-and-experience-summer-in-santa-clarita/">Unwind, Explore and Experience Summer in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/19/unwind-explore-and-experience-summer-in-santa-clarita/>
+
+---
+
+## The USDA wants states to hand over food stamp data by the end of July
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+The USDA has set a deadline of July 30 for states to hand over the sensitive data of tens of millions of people who applied for federal food assistance, while a lawsuit is trying to stop the collection. 
+
+<br> 
+
+<https://laist.com/news/the-usda-wants-states-to-hand-over-food-stamp-data-by-the-end-of-july>
+
+---
+
+## Trump files defamation suit over 'Wall Street Journal' story on his Epstein ties
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+President Trump filed a $10 billion defamation suit Friday against the The Wall Street Journal following reporting on his past ties to convicted sex offender Jeffrey Epstein. 
+
+<br> 
+
+<https://laist.com/news/trump-files-defamation-suit-over-wall-street-journal-story-on-his-epstein-ties>
+
+---
+
+## At least 30 people injured after driver plowed into crowd in East Hollywood
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+Authorities report that 7 people are in critical condition, 6 sustained serious injuries, and 10 are in fair condition. 
+
+<br> 
+
+<https://laist.com/news/at-least-30-people-injured-after-car-plowed-into-crowd-in-east-hollywood>
+
+---
+
+## In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach
+
+date: 2025-07-19, from: Longbeach Post
+
+<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The local company has amassed 1,000 workers at its 189,00-square-foot campus where it aims to build a new generation of space station by 2030.</p>
+<p>The post <a href="https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach">In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach>
+
+---
+
+## The economy is turbulent for influencers too — here's how you might see it online
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+Seesawing tariffs and turbulent financial markets are playing out on social media feeds, affecting the multibillion-dollar influencer industry in what could be a new recession indicator. 
+
+<br> 
+
+<https://laist.com/news/the-economy-is-turbulent-for-influencers-how-you-might-see-it-online>
+
+---
+
+## Nearly half of Asian American Californians report hate incidents in new survey
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+A majority of respondents to a survey conducted by Stop AAPI Hate are bracing for an increase in anti-Asian racism under the Trump administration. 
+
+<br> 
+
+<https://laist.com/news/nearly-half-of-asian-american-californians-report-hate-incidents-in-new-survey>
+
+---
+
+## LA sues Airbnb, accusing rental platform of price gouging after January fires
+
+date: 2025-07-19, updated: 2025-07-19, from: The LAist
+
+The short-term rentals company disputes the allegations and says it will continue to support the city's recovery efforts. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-sues-airbnb-accusing-rental-platform-of-price-gouging-after-wildfires>
 
 ---
 
@@ -1602,141 +1754,4 @@ The Asian Law Caucus is part of a coalition suing on behalf of the babies of imm
 <br> 
 
 <https://laist.com/news/politics/california-civil-rights-group-joins-fight-against-trumps-birthright-citizenship-changes>
-
----
-
-## A Summer of Discovery and Connection in Santa Clarita
-
-date: 2025-07-12, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin As summer unfolds in Santa Clarita, our City comes alive with opportunities that spark curiosity, creativity and community. This season is more than just a break from the classroom, it&#8217;s a chance for young people to grow, explore and engage in meaningful ways. I&#8217;m proud to share how Santa Clarita [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/07/12/a-summer-of-discovery-and-connection-in-santa-clarita/">A Summer of Discovery and Connection in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/07/12/a-summer-of-discovery-and-connection-in-santa-clarita/>
-
----
-
-## Catholics in the Inland Empire can skip Sunday Mass amid ongoing immigration enforcement actions
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-The Diocese of San Bernardino issued a decree dispensing its more than 1 million parishioners from obligatory attendance until further notice. 
-
-<br> 
-
-<https://laist.com/news/catholics-in-the-inland-empire-can-skip-sunday-mass-amid-ongoing-immigration-enforcement-actions>
-
----
-
-## Here's a list of Trump's tariff letters so far and the rates they threaten
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-Finding it hard to track the latest U.S. trade policy state of play? Here's a look the deals the president has announced and the rates he's so far threatened to impose in letters to global leaders. 
-
-<br> 
-
-<https://laist.com/news/heres-a-list-of-trumps-tariff-letters-so-far-and-the-rates-they-threaten>
-
----
-
-## Trump announces 30% tariffs against EU, Mexico to begin August 1
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-President Donald Trump on Saturday announced he's levying tariffs of 30% against the European Union and Mexico. 
-
-<br> 
-
-<https://laist.com/news/trump-announces-30-tariffs-against-eu-mexico-to-begin-august-1>
-
----
-
-## What is trail magic? How a small act of kindness on a trail can make someone’s day
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-You don’t have to hike 12 miles over a High Sierra mountain pass to be a trail angel — but we did, and it was magical. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/trail-magic-how-a-small-act-of-kindness-on-a-trail-can-make-someones-day>
-
----
-
-## Former Long Beach Mayor is now leading Democrats on oversight in DC
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-Rep. Robert Garcia is the new top Democrat on the House Oversight Committee. At a moment when his party is craving more confrontation with President Trump, he says he's ready to lean into the fray. 
-
-<br> 
-
-<https://laist.com/news/politics/former-long-beach-mayor-and-new-house-member-is-democrats-on-oversight>
-
----
-
-## Why California native bees are struggling to keep up with honey bees
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-And why that matters for native plant ecosystems. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/why-california-native-bees-are-struggling-to-keep-up-with-honey-bees>
-
----
-
-## Who will save Sunshine? The palm tree may be the last survivor of old Bunker Hill
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-Lovingly named Sunshine, the queen palm has been displaced from its home at the corner of First and Hill streets in downtown L.A. — the site of the new, expanded Colburn School of Music. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/sunshine-queen-palm-bunker-hill-esotouric>
-
----
-
-## Federal judge orders stop to indiscriminate immigration raids in Los Angeles
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-Civil rights groups alleged that ICE and Border Patrol agents are rounding people up based on their race, and denying them access to lawyers. A federal judge said there's evidence what they're doing is illegal. 
-
-<br> 
-
-<https://laist.com/news/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles>
-
----
-
-## Federal judge in Los Angeles bars immigration stops without reasonable suspicion
-
-date: 2025-07-12, from: Longbeach Post
-
-<figure><img width="1024" height="638" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1024x638.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1024x638.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-300x187.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-768x478.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-173x108.jpg 173w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1536x957.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1200x747.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-1568x977.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0-400x249.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/10160513/7526f1b3-d8e1-432d-88f0-8d035b5c715a-167011-zpjlza9h-855778-XtUfDzw0.jpg 1620w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The order bars agents from relying solely on factors such as race/ethnicity, speaking with an accent or being at locations such as bus stops, day laborer sites, car washes or agricultural sites as a basis for detaining people.</p>
-<p>The post <a href="https://lbpost.com/news/immigration/federal-judge-in-los-angeles-bars-immigration-stops-without-reasonable-suspicion">Federal judge in Los Angeles bars immigration stops without reasonable suspicion</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/immigration/federal-judge-in-los-angeles-bars-immigration-stops-without-reasonable-suspicion>
-
----
-
-## Huntington Beach has a highly-placed White House champion in Stephen Miller
-
-date: 2025-07-12, updated: 2025-07-12, from: The LAist
-
-The America First Legal Foundation — started by Miller — is representing the city in two lawsuits. 
-
-<br> 
-
-<https://laist.com/news/politics/huntington-beach-stephen-miller-america-first-legal-foundation>
 

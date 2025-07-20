@@ -1,11 +1,102 @@
 ---
 title: home
-updated: 2025-07-19 14:07:46
+updated: 2025-07-20 06:08:18
 ---
 
 # home
 
-(date: 2025-07-19 14:07:46)
+(date: 2025-07-20 06:08:18)
+
+---
+
+## Growing bananas in Southern California
+
+date: 2025-07-19, from: Greg Alder's blog, Yard Post
+
+<p>Among the first words out of my two year-old son’s mouth every morning was, “Can I have a banana?” He would have eaten five a day if allowed. So I was hearing the call to grow more in our yard. Here in Southern California? Can you really grow bananas? Climate for bananas Bananas can be [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/growing-bananas-in-southern-california/">Growing bananas in Southern California</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/growing-bananas-in-southern-california/>
+
+---
+
+## Tired of the Barn Door Trend? These Alternatives Are on the Rise
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+Some interior designers say barn doors are out. Instead, try these barn door alternatives that will add style to your house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/barn-door-alternatives>
+
+---
+
+## The Design Industry’s Coolest Trend Is Hiding in Plain Sight
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+Recently, a handful of interior designers have been making a statement with hidden doors. Here's how to pull it off at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hidden-doorway-design-trend>
+
+---
+
+## How to Grow Single Late Cottage Tulips
+
+date: 2025-07-19, from: The Gardener's Path
+
+<p>Extend your spring garden display with single late cottage tulips, with their tall stems and elegant, cup-shaped blooms. These May-flowering varieties bloom later than other types of tulips, adding height and lasting color to any planting scheme. Learn how to grow single late cottage tulips in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-single-late-tulips/">How to Grow Single Late Cottage Tulips</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-single-late-tulips/>
+
+---
+
+## These Are the Winners of the 2025 Sunset International Spirits Competition
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+Congratulations to this year’s winners of the 2025 Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-winners>
+
+---
+
+## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
+
+---
+
+## 45 Types of Beetle Insects (With Pictures and Identification)
+
+date: 2025-07-19, from: Yard Life blog
+
+<p>Beetles are among the most diverse and fascinating insects on the planet, with over 350,000 species identified worldwide. Their incredible ... </p>
+<p class="read-more-container"><a title="45 Types of Beetle Insects (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/#more-32214" aria-label="Read more about 45 Types of Beetle Insects (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/">45 Types of Beetle Insects (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/>
 
 ---
 
@@ -682,18 +773,6 @@ Drive along Highway 89, which connects six of the West's greatest parks, for the
 
 ---
 
-## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
-
-date: 2025-07-16, from: Sunset Magazine - Living in the West
-
-The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
-
----
-
 ## Heat Pump Thermostat Wiring Made Simple
 
 date: 2025-07-15, from: Family Handyman Blog
@@ -757,18 +836,6 @@ Cheers to the Double Gold winners of the 2025 Sunset International Spirits Compe
 <br> 
 
 <https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-double-gold-winners>
-
----
-
-## These Are the Winners of the 2025 Sunset International Spirits Competition
-
-date: 2025-07-15, from: Sunset Magazine - Living in the West
-
-Congratulations to this year’s winners of the 2025 Sunset International Spirits Competition. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-winners>
 
 ---
 
@@ -884,18 +951,6 @@ The two wildfires burning at or near the Grand Canyon's National Park North Rim 
 <br> 
 
 <https://www.sunset.com/travel/national-parks/grand-canyon-lodge-wildfires>
-
----
-
-## The Design Industry’s Coolest Trend Is Hiding in Plain Sight
-
-date: 2025-07-15, from: Sunset Magazine - Living in the West
-
-Recently, a handful of interior designers have been making a statement with hidden doors. Here's how to pull it off at home. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/hidden-doorway-design-trend>
 
 ---
 
@@ -1359,135 +1414,4 @@ date: 2025-07-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/how-to/greenhouses-and-coldframes/fit-greenhouse/>
-
----
-
-## Coastal Gardening: Tips for Growing in Zone 10’s Microclimates
-
-date: 2025-07-12, from: San Diego Seed Compan
-
-<p>Zone 9 and 10 are incredibly diverse growing regions, especially along California’s coast, where unique microclimates challenge even experienced gardeners. Specifically in Zone 10, many gardeners struggle with the nuances of coastal gardening—a completely different ballgame compared to inland growing. ... <a href="https://sandiegoseedcompany.com/growing/coastal-gardening-tips-for-growing-in-zone-10s-microclimates/" class="more-link">Read More</a></p>
-<p>The post <a href="https://sandiegoseedcompany.com/growing/coastal-gardening-tips-for-growing-in-zone-10s-microclimates/">Coastal Gardening: Tips for Growing in Zone 10&#8217;s Microclimates</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
- 
-
-<br> 
-
-<https://sandiegoseedcompany.com/growing/coastal-gardening-tips-for-growing-in-zone-10s-microclimates/>
-
----
-
-## How to Make Calendula Oil (Easy Calendula Infused Oil Recipe)
-
-date: 2025-07-12, from: Homestead and Chil
-
-<p>Learn how to make calendula oil with our easy step-by-step guide. All you need is a carrier oil, dry calendula flowers, and a little time! Then you can use homemade calendula oil on it's own to soothe skin issues, as an ingredient in DIY skincare products like soap, salve, lotion and more. </p>
-<p>The post <a href="https://homesteadandchill.com/how-to-make-calendula-oil/">How to Make Calendula Oil (Easy Calendula Infused Oil Recipe)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/how-to-make-calendula-oil/>
-
----
-
-## Learn About 15 Different Types of Cyclamen Plants
-
-date: 2025-07-12, from: The Gardener's Path
-
-<p>Cyclamen plants are showy perennials that brighten our homes and gardens with their jazzy, upswept pink-toned or white flowers and handsome, variegated foliage. Many species are cold- and frost-tolerant and spread readily in shady spots. Learn more about 15 different types of cyclamen in this guide. Read more now. </p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/cyclamen-types/">Learn About 15 Different Types of Cyclamen Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/cyclamen-types/>
-
----
-
-## The Gwen avocado tree: a profile
-
-date: 2025-07-12, from: Greg Alder's blog, Yard Post
-
-<p>In 1956, when Bob Bergh began developing new varieties at the University of California, Fuerte was the most popular avocado in California. Frustrating for farmers, some Fuerte trees were fruitful whereas others were not. And Fuerte trees made more avocados in certain locations and in certain weather. &#8220;Erratic,&#8221; was the term most often used to [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/the-gwen-avocado-tree-a-profile/">The Gwen avocado tree: a profile</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/the-gwen-avocado-tree-a-profile/>
-
----
-
-## Top Facts About Sage Grouse in Wyoming You Should Know
-
-date: 2025-07-12, from: Yard Life blog
-
-<p>Wyoming is home to one of the most fascinating bird species in North America—the sage grouse. Known for its unique ... </p>
-<p class="read-more-container"><a title="Top Facts About Sage Grouse in Wyoming You Should Know" class="read-more button" href="https://ownyardlife.com/top-facts-about-sage-grouse-in-wyoming-you-should-know/#more-32013" aria-label="Read more about Top Facts About Sage Grouse in Wyoming You Should Know">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/top-facts-about-sage-grouse-in-wyoming-you-should-know/">Top Facts About Sage Grouse in Wyoming You Should Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/top-facts-about-sage-grouse-in-wyoming-you-should-know/>
-
----
-
-## Migration of Monarch Butterflies in Mexico Uncovered
-
-date: 2025-07-12, from: Yard Life blog
-
-<p>The migration of monarch butterflies in Mexico is among the most breathtaking natural spectacles on Earth. Each year, millions of ... </p>
-<p class="read-more-container"><a title="Migration of Monarch Butterflies in Mexico Uncovered" class="read-more button" href="https://ownyardlife.com/migration-of-monarch-butterflies-in-mexico-uncovered/#more-32009" aria-label="Read more about Migration of Monarch Butterflies in Mexico Uncovered">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/migration-of-monarch-butterflies-in-mexico-uncovered/">Migration of Monarch Butterflies in Mexico Uncovered</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/migration-of-monarch-butterflies-in-mexico-uncovered/>
-
----
-
-## Discovering the Gray Wolf Population in Michigan
-
-date: 2025-07-12, from: Yard Life blog
-
-<p>Michigan’s wild landscapes tell a story of survival, and among its most fascinating characters is the gray wolf. Once hunted ... </p>
-<p class="read-more-container"><a title="Discovering the Gray Wolf Population in Michigan" class="read-more button" href="https://ownyardlife.com/discovering-the-gray-wolf-population-in-michigan/#more-32005" aria-label="Read more about Discovering the Gray Wolf Population in Michigan">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/discovering-the-gray-wolf-population-in-michigan/">Discovering the Gray Wolf Population in Michigan</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/discovering-the-gray-wolf-population-in-michigan/>
-
----
-
-## 3 Common Scorpions in Oklahoma (Pictures and Identification)
-
-date: 2025-07-12, from: Yard Life blog
-
-<p>Scorpions might not be the first creatures that come to mind when thinking of Oklahoma, but they are definitely part ... </p>
-<p class="read-more-container"><a title="3 Common Scorpions in Oklahoma (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-common-scorpions-in-oklahoma-pictures-and-identification/#more-31994" aria-label="Read more about 3 Common Scorpions in Oklahoma (Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/3-common-scorpions-in-oklahoma-pictures-and-identification/">3 Common Scorpions in Oklahoma (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/3-common-scorpions-in-oklahoma-pictures-and-identification/>
-
----
-
-## 8 Types of Squirrels in Washington State (With Pictures)
-
-date: 2025-07-12, from: Yard Life blog
-
-<p>Washington State is home to a wide variety of wildlife, and squirrels are among the most visible and active mammals ... </p>
-<p class="read-more-container"><a title="8 Types of Squirrels in Washington State (With Pictures)" class="read-more button" href="https://ownyardlife.com/8-types-of-squirrels-in-washington-state-with-pictures/#more-31984" aria-label="Read more about 8 Types of Squirrels in Washington State (With Pictures)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/8-types-of-squirrels-in-washington-state-with-pictures/">8 Types of Squirrels in Washington State (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/8-types-of-squirrels-in-washington-state-with-pictures/>
 

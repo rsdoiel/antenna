@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-07-19 14:07:41
+updated: 2025-07-20 06:08:13
 ---
 
 # ham radio
 
-(date: 2025-07-19 14:07:41)
+(date: 2025-07-20 06:08:13)
+
+---
+
+## Changes in the ARRL Sacramento Valley Section
+
+date: 2025-07-19, from: Amateur Radio Relay League News
+
+<p>Jay Ballinger, N6SAC, of Antelope, California, has been appointed Section Manager of the ARRL Sacramento Valley Section, effective July 16, 2025. He will serve the remainder of a term that expires on September 30, 2027.</p><p>He replaces Dr. Carol Milazzo, MD, KP4MD, who was appointed as Pacific Division Vice Director. Dr. Milazzo has served as Section Manager since 2015.</p><p>The ARRL Field Organization is...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-sacramento-valley-section>
 
 ---
 

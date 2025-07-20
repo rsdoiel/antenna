@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-07-19 14:07:46
+updated: 2025-07-20 06:08:18
 ---
 
 # libraries
 
-(date: 2025-07-19 14:07:46)
+(date: 2025-07-20 06:08:18)
+
+---
+
+## DiffuMeta: Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers
+
+date: 2025-07-19, from: ETH Zurich, recently added
+
+Zheng, Li 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/746797>
 
 ---
 
@@ -238,4 +250,16 @@ date: 2025-07-14, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/07/14/preprints-and-journals-a-model-publishing-ecosystem/>
+
+---
+
+## The size distributions of fractures and earthquakes: implications for orogen-internal seismogenic deformation
+
+date: 2025-07-14, from: ETH Zurich, recently added
+
+Truttmann, Sandro; Diehl, Tobias; Herwegh, Marco; Wiemer, Stefan 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/746819>
 

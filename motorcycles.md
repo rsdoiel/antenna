@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-07-19 14:07:47
+updated: 2025-07-20 06:08:19
 ---
 
 # motorcycles
 
-(date: 2025-07-19 14:07:47)
+(date: 2025-07-20 06:08:19)
+
+---
+
+## Brenden Queen Reigns at the General Tire 150 ARCA Menards Series Race at Dover
+
+date: 2025-07-20, from: Kickin the Tires blog
+
+DOVER, Del. (July 18, 2025) &#8212; ARCA Menards Series points leader Brenden &#8220;Butterbean&#8221; Queen dominated Friday&#8217;s General Tire 150 at Dover Motor Speedway, leading all 150 laps en route to&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/brenden-queen-reigns-at-the-general-tire-150-arca-menards-series-race-at-dover/>
+
+---
+
+## Norton Just Dropped a Teaser For a New Motorcycle On Social Media. What Could It Be?
+
+date: 2025-07-20, from: Ride Apart, Electric Motorcycle News
+
+It’s a big deal. So big, in fact, that it deleted all of its previous Instagram posts for this one teaser. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766273/norton-teaser-new-motorcycle-social-media/>
+
+---
+
+## Ontario Honda Dealers Indy Toronto Preview: Herta on pole, tire wear raises questions
+
+date: 2025-07-19, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer A bumpy track, wild tire wear and fast Andretti Global cars set the stage for Sunday’s Ontario Honda Dealers Indy Toronto.&#160; The IndyCar series returns&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/ontario-honda-dealers-indy-toronto-preview-herta-on-pole-tire-wear-raises-questions/>
 
 ---
 
@@ -475,16 +512,4 @@ By Austin Lawton, Staff Writer It took 11 races but Chevrolet is now a winner in
 <br> 
 
 <https://kickinthetires.net/indycar/oward-ends-honda-dominance-gets-first-chevrolet-win-of-the-season/>
-
----
-
-## KTM Sold 100,000 Motorcycles This Year, But Most Are Probably Old Bikes
-
-date: 2025-07-12, from: Ride Apart, Electric Motorcycle News
-
-And our colleagues aren't looking at it critically. 
-
-<br> 
-
-<https://www.rideapart.com/news/765591/ktm-100000-motorcycles-sold-half-were-old-bikes/>
 

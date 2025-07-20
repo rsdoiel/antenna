@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-07-19 14:07:42
+updated: 2025-07-20 06:08:14
 ---
 
 # science and technology
 
-(date: 2025-07-19 14:07:42)
+(date: 2025-07-20 06:08:14)
+
+---
+
+## UK uncovers novel Microsoft snooping malware, blames and sanctions GRU cyberspies
+
+date: 2025-07-20, updated: 2025-07-20, from: The Register (UK I.T. News)
+
+<h4>Fancy Bear can&#39;t keep its claws out of Outlook inboxes</h4> <p>The UK government is warning that Russia&#39;s APT28 (also known as Fancy Bear or Forest Blizzard) has been deploying previously unknown malware to harvest Microsoft email credentials and steal access to compromised accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/20/uk_microsoft_snooping_russia/>
+
+---
+
+## China proves that open models are more effective than all the GPUs in the world
+
+date: 2025-07-19, updated: 2025-07-19, from: The Register (UK I.T. News)
+
+<h4>OpenAI delayed its promised open-weights model since GPT-2, leaving the Middle Kingdom clearly in the lead</h4> <p><strong>Comment</strong>  OpenAI was supposed to make good on its name and release its first open-weights model since GPT-2 this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/19/openai_us_china/>
+
+---
+
+## Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days
+
+date: 2025-07-19, updated: 2025-07-19, from: The Register (UK I.T. News)
+
+<h4>Keep It Simple, Stupid</h4> <p><strong>Interview</strong>  Scattered Spider and Iranian government-backed cyber units have more in common than a recent uptick in hacking activity, according to Ariel Parnes, a former colonel in the Israeli Defense Forces&#39; cyber unit 8200.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/>
 
 ---
 
@@ -119,7 +155,7 @@ In the vacuum of space, where temperatures can plunge to minus 455 degrees Fahre
 
 ## Coldplay kiss-cam flap proves we’re already our own surveillance state
 
-date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+date: 2025-07-18, updated: 2025-07-20, from: The Register (UK I.T. News)
 
 <h4>And we’re the ones building it</h4> <p><strong>Comment</strong>  A tech executive&#39;s alleged affair exposed on a stadium jumbotron is ripe fodder for the gossip rags, but it exhibits something else: proof that we need not wait for an AI-fueled dystopian surveillance state to descend on us - we&#39;re perfectly able and willing to surveil ourselves.…</p> 
 
@@ -323,7 +359,7 @@ date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
 
 ## Laid-off AWS employee describes cuts as 'cold and soulless'
 
-date: 2025-07-18, updated: 2025-07-18, from: The Register (UK I.T. News)
+date: 2025-07-18, updated: 2025-07-20, from: The Register (UK I.T. News)
 
 <h4>Insiders tell <i>The Register</i> that a company-wide automation push means jobs are disappearing</h4> <p>Amazon.com CEO Andy Jassy&#39;s predictions that automation would cost jobs at the company have proven accurate at Amazon Web Services.…</p> 
 
@@ -1782,40 +1818,4 @@ date: 2025-07-13, updated: 2025-07-14, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/13/fake_it_worker_problem/>
-
----
-
-## The price of software freedom is eternal politics
-
-date: 2025-07-12, updated: 2025-07-12, from: The Register (UK I.T. News)
-
-<h4>Many don&#39;t realize or forget, but the FOSS world has ideological wings, too</h4> <p><strong>Comment</strong>  The new fork of the X.org X11 server is conservative… and we don&#39;t mean just technologically conservative.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/12/the_price_of_software_freedom/>
-
----
-
-## From A2A to MCP, a look at the protocols that might one day help AI automate you out of a job
-
-date: 2025-07-12, updated: 2025-07-14, from: The Register (UK I.T. News)
-
-<h4>Tell me, Mr. Smith ... what good is an agent if it&#39;s unable to speak?</h4> <p>We have protocols and standards for just about everything. It&#39;s generally helpful when we can all agree on how technologies should talk to one another. So, it was only a matter of time before the first protocols governing agentic AI started cropping up.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/12/ai_agent_protocols_mcp_a2a/>
-
----
-
-## Looks like 1,300 Indeed and Glassdoor staffers will need their former employer's websites
-
-date: 2025-07-12, updated: 2025-07-12, from: The Register (UK I.T. News)
-
-<h4>No reason given for the 6% cull, but the CEO has previously talked up AI taking jobs</h4> <p>Recruit Holdings, the Japanese job site conglomerate that owns recruitment job site Indeed and employer reviewer Glassdoor, has eliminated about 1,300 positions.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/12/indeed_glassdoor_layoffs/>
 

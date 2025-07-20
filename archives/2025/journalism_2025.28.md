@@ -1,11 +1,86 @@
 ---
 title: journalism
-updated: 2025-07-19 14:07:45
+updated: 2025-07-20 06:08:17
 ---
 
 # journalism
 
-(date: 2025-07-19 14:07:45)
+(date: 2025-07-20 06:08:17)
+
+---
+
+## Forbes’ 30 Under 30 recognizes Andre Jones for diverse social media strategy work
+
+date: 2025-07-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Andre Jones said he did not see himself represented in mainstream media growing up.
+&#8220;When I was watching TV, I wasn&#8217;t watching The Brady Bunch,&#8221; said Jones, a UCLA alumnus. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/forbes-30-under-30-recognizes-andre-jones-for-diverse-social-media-strategy-work/>
+
+---
+
+## Geno Mehalik expresses Ashe Center commitment to inclusive care for LGBTQ+ Bruins
+
+date: 2025-07-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Geno Mehalik of the Arthur Ashe Student Health and Wellness Center spoke with Daily Bruin reporter Catherine Wang about the center&#8217;s commitment to inclusive care for LGBTQ+ students. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/geno-mehalik-expresses-ashe-center-commitment-to-inclusive-care-for-lgbtq-bruins/>
+
+---
+
+## USAC approves letter criticizing ban of student governments’ anti-Israel boycotts
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously approved a letter to UC President Michael Drake criticizing the UC&#8217;s ban on student governments&#8217; boycott of countries, including Israel, at an emergency meeting July 15. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/usac-approves-letter-criticizing-ban-of-student-governments-anti-israel-boycotts/>
+
+---
+
+## USAC recap – July 8
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 19 at 12:41 p.m.</em>
+The Undergraduate Students Association Council approved a resolution condemning a rise in anti-Arab, anti-Muslim and anti-Palestinian racism during its second meeting of the summer July 8. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/usac-recap-july-8-2/>
+
+---
+
+## UC Regents shifts to bypass approval for increasing professional program tuition
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Amid rising costs and deferred state funds, the UC Board of Regents weighed key financial decisions &#8211; including a shift that bypasses full board approval for tuition increases in professional programs &#8211; at its bimonthly meeting Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/18/uc-regents-shifts-to-bypass-approval-for-increasing-professional-program-tuition/>
+
+---
+
+## ‘Food deserts’ in LA build on systemic factors, create barriers to healthy eating
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Residents in some neighborhoods of Los Angeles live in food deserts, creating systematic barriers to healthy eating.
+The nonprofit organization Food Empowerment Project defines a &#8220;food desert&#8221; as a geographic area that lacks or has limited access to nutritious and affordable food, often forcing residents to rely on cheap, unhealthy fast food options. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/18/food-deserts-in-la-build-on-systemic-factors-create-barriers-to-healthy-eating/>
 
 ---
 
@@ -291,74 +366,4 @@ Whether readers are curling up at home to escape the heat or sunbathing in the w
 <br> 
 
 <https://dailybruin.com/2025/07/12/summer-book-preview-page-turners-full-of-myth-mystery-and-magic-await-readers/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
-
-The trial session ended at 4:28 p.m., with Bernardo appearing as the second and last witness of the day. The trial was set to continue July 22.&#160; 
-
-<br> 
-
-<https://dailybruin.com/2025/07/12/490846/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
-
-Bernardo testified that the UCLA Anderson School of Management reported Klein to UCLA&#8217;s Title IX office. Heather Caruso, the Anderson School of Management&#8217;s Dean of Equity, Diversity and Inclusion, emailed the office, attaching screenshots that showed students’ allegations of Klein&#8217;s misconduct. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/12/490844/>
-
----
-
-## Alumnus film ‘Freemium 911’ finds festival success with satire of healthcare, AI
-
-date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated July 14 at 9:05 a.m.</em>
-Combining comedy with sci-fi and a critique of for-profit health care systems, alumnus Michael Plewa’s short film “Freemium 911” is now circulating in film festival circuits. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/12/alumnus-film-freemium-911-finds-festival-success-with-satire-of-healthcare-ai/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper))
-
-Judson Caskey, who was previously the director of the undergraduate minor in accounting at UCLA, was the first to testify on Friday.
-Caskey said he previously recommended that Klein receive a merit raise in 2018. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/11/490833/>
-
----
-
-## Village Pride event celebrates LGBTQ+ community with vendors, performers
-
-date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated July 13 at 8:49 p.m.</em>
-The Westwood Village Improvement Association hosted the first ever Village Pride event in Broxton Plaza on June 28. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/11/village-pride-event-celebrates-lgbtq-community-with-vendors-performers/>
-
----
-
-## North Westwood Neighborhood Council recap – July 9
-
-date: 2025-07-12, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated July 13 at 8:59 p.m.</em>
-The secretary of the North Westwood Neighborhood Council announced he would resign at the first monthly meeting of the board’s new term July 9. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/11/north-westwood-neighborhood-council-recap-july-9/>
 

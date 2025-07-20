@@ -1,11 +1,207 @@
 ---
 title: columns
-updated: 2025-07-19 14:07:43
+updated: 2025-07-20 06:08:15
 ---
 
 # columns
 
-(date: 2025-07-19 14:07:43)
+(date: 2025-07-20 06:08:15)
+
+---
+
+## Logarithmical: Zipf’s Law and the mathematics of emoji
+
+date: 2025-07-20, from: Shady Characters blog
+
+<p>Back in the mists of time, <a href="https://shadycharacters.co.uk/2015/10/zipfs-law/">I wrote about a peculiar property of words</a> called Zipf’s Law. The idea is quite simple: the frequency at which different words occur in any large body of work, ordered from the most common to the least common, follows a predictable pattern. This is true across languages, and even in some texts, such as that in the Voynich Manuscript, that we haven’t yet deciphered.<a class="bibcite" id="bibcite_10.1080/0161-110191889932" href="#bibshow_10.1080/0161-110191889932" title="
+  Landini, Gabriel. “Evidence of Linguistic Structure in the Voynich Manuscript Using Spectral Analysis”. Cryptologia 25, no. 4 (October 1, 2001): 275-295. https://doi.org/10.1080/0161-110191889932.
+" data-version="1">1</a></p><a class="more-link" href="https://shadycharacters.co.uk/2025/07/zipfs-emoji/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/07/zipfs-emoji/>
+
+---
+
+## Dolly Parton
+
+date: 2025-07-20, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/dolly-parton>
+
+---
+
+## Sunday thought
+
+date: 2025-07-20, from: Robert Reich's blog
+
+And you? 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-b03>
+
+---
+
+## July 19, 2025
+
+date: 2025-07-20, from: Heather Cox Richardson blog
+
+On July 20, 1969, U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-19-2025>
+
+---
+
+## What We Know, and Don't, About the Air India Crash.
+
+date: 2025-07-19, from: James Fallows, Substack
+
+Several alarming possibilities have receded. One that's alarming in a different way has emerged. A guide to what investigators have learned, and what news the flying public should pay attention to. 
+
+<br> 
+
+<https://fallows.substack.com/p/what-we-know-and-dont-about-the-air>
+
+---
+
+## July 18, 2025
+
+date: 2025-07-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168738896/ab533114f60a2e313450ff84d975eb6d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168738896/ab533114f60a2e313450ff84d975eb6d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-18-2025-bc2>
+
+---
+
+## Myke Hurley Interviews Yours Truly for the Cortex ‘State of the Workflow’ Series
+
+date: 2025-07-19, updated: 2025-07-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theenthusiast.net/john-gruber-state-of-the-workflow/>
+
+---
+
+## Puck: ‘Was Colbert’s Cancellation Really “Economic” for CBS?’
+
+date: 2025-07-19, updated: 2025-07-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://puck.news/was-colberts-cancellation-really-economic-for-cbs/?sharer=167184&token=9a8ea7a6fea9e13d6d23eaf8102f68d3>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-19, from: Dave Winer's Scripting News)
+
+The nice thing about a blogroll is that it can become a feed reader, in a very small space. It's been on my blog <a href="http://scripting.com/">home page</a> for over a year, and I use it a lot, largely because I have to go to that page a lot to see how something I've written looks. Then I see that one of my favorite sites has updated, and I take a <a href="https://imgs.scripting.com/2025/07/19/blogrollscreen.png">quick look</a> to see what's new. The way it works, from a technical standpoint, is that it's hooked into a FeedLand instance where I have created a category called <i>blogroll,</i> and put all the feeds I want in my blogroll in that category. All I have to do to add a new one is subscribe to it in <a href="https://feedland.com/">FeedLand</a>, and click the blogroll <a href="https://imgs.scripting.com/2025/07/19/cats.png">checkbox</a>. Another developer wrote a <a href="https://mastodon.social/@susam/114805652395205268">post</a> about using their blogroll as a feed reader, and I wanted to put my hand up and say yes -- this is a good idea. People should do this. I like it because it's real innovation in feed reading, something that imho has been lacking in the feed world. Lots more potential here. And you're welcome to use my blogroll as your feed reader. I have put it on its own page but it's at a confusing <a href="https://blogroll.social/">location</a>. Something to fix, maybe later today if I have some time or tomorrow. :-) 
+
+<br> 
+
+<http://scripting.com/2025/07/19.html#a132356>
+
+---
+
+## 
+                Notes on Wayland + QEMU + old OS’s
+            
+
+date: 2025-07-19, updated: 2025-07-19, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-19/0/POSTING-en.html>
+
+---
+
+## Epstein's Ghost | The Coffee Klatch for July 19, 2025
+
+date: 2025-07-19, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/epsteins-ghost-the-coffee-klatch>
+
+---
+
+## July 18, 2025 
+
+date: 2025-07-19, from: Heather Cox Richardson blog
+
+[There is a lot about sexual assault in tonight&#8217;s letter.] 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-18-2025>
+
+---
+
+## Introducing XMLUI
+
+date: 2025-07-19, from: Jonudell blog
+
+In the mid-1990s you could create useful software without being an ace coder. You had Visual Basic, you had a rich ecosystem of components, you could wire them together to create apps, standing on the shoulders of the coders who built those components. If you&#8217;re younger than 45 you may not know what that was &#8230; <a href="https://blog.jonudell.net/2025/07/18/introducing-xmlui/" class="more-link">Continue reading <span class="screen-reader-text">Introducing XMLUI</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2025/07/18/introducing-xmlui/>
+
+---
+
+## Weeknotes: July 12-18, 2025
+
+date: 2025-07-19, from: Tracy Durnell Blog
+
+Win of the week: our new shades got installed &#8212; and right before our first 90 degree day! they seem to be making a difference 🦾 Looking forward to: I bought a giant flat of mixed berries on Wednesday and am trying to get through them all before they go bad! May involve baked goods 😋🍓🫐 [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/18/weeknotes-july-12-18-2025/>
+
+---
+
+## this should not be possible
+
+date: 2025-07-19, from: Geoffrey Hunntley's blog
+
+<p>It might surprise some folks, but I&apos;m incredibly cynical when it comes to AI and what is possible; yet I keep an open mind. That said, two weeks ago, when I was in SFO, I discovered another thing that should not be possible.  Every time I find out</p> 
+
+<br> 
+
+<https://ghuntley.com/no/>
+
+---
+
+## ChatGPT Agent
+
+date: 2025-07-19, updated: 2025-07-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://openai.com/index/introducing-chatgpt-agent/>
 
 ---
 
@@ -1813,7 +2009,7 @@ date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
 
 ## Reborn Commodore Is Taking Pre-Orders for New Commodore 64 Models
 
-date: 2025-07-14, updated: 2025-07-16, from: Daring Fireball
+date: 2025-07-14, updated: 2025-07-19, from: Daring Fireball
 
  
 
@@ -2203,212 +2399,4 @@ On July 5, the day after the Texas floods hit, the Federal Emergency Management 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/july-12-2025>
-
----
-
-## Grok 4 System Prompt Shenanigans
-
-date: 2025-07-12, updated: 2025-07-13, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://simonwillison.net/2025/Jul/12/grok-4-heavy/>
-
----
-
-## 2025-07-03 Israeli crimes against humanity continue
-
-date: 2025-07-12, from: Alex Schroeder's Blog
-
-<h1 id="2025-07-03-israeli-crimes-against-humanity-continue">2025-07-03 Israeli crimes against humanity continue</h1>
-
-<p>I don&rsquo;t want to blog about this shit show more than once a month. Here we go. Let nobody claim they didn&rsquo;t know. Let nobody who supported Israel get away with it.</p>
-
-<blockquote>
-<p>The power of Doctors Under Attack comes in the unhurried way it chooses to unfurl its thesis. There is no clear manipulation, no central villain. What there is, however, is an unceasing timeline of horrors. We are shown doctors doing their best in overwhelmed hospitals with no water or electricity, racing to treat wounds that have already begun to rot. We are shown them coming under what seem like targeted attacks, being detained in black sites where they will be tortured and interrogated. There is footage of a gang rape by soldiers. We are shown children, injured and dead, in vast numbers. &ndash; <a href="https://www.theguardian.com/tv-and-radio/2025/jul/03/gaza-doctors-under-attack-review-channel-4-crucial-film-stuff-of-nightmares">Gaza: Doctors Under Attack review – this crucial film is the stuff of nightmares. But the world needs to see it</a>, by Stuart Heritage, for The Guardian, reviewing the film Doctors Under Attack</p>
-</blockquote>
-
-<p>I am waiting for a reckoning. Others are, too.</p>
-
-<blockquote>
-<p>This report investigates the corporate machinery sustaining Israel’s settler-colonial project of displacement and replacement of the Palestinians in the occupied territory. While political leaders and governments shirk their obligations, far too many corporate entities have profited from Israel’s economy of illegal occupation, apartheid and now, genocide. The complicity exposed by this report is just the tip of the iceberg; ending it will not happen without holding the private sector accountable, including its executives. International law recognizes varying degrees of responsibility – each requiring scrutiny and accountability, particularly in this case, where a people’s self-determination and very existence are at stake. This is a necessary step to end the genocide and dismantle the global system that has allowed it. &ndash; <a href="https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur">A/HRC/59/23: From economy of occupation to economy of genocide - Report of the Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 (Advance edited version)</a>, by Francesca Albanese, Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, for the Human Rights Council Fifty-ninth session, United Nations</p>
-</blockquote>
-
-<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>
-
-<p><strong>2025-07-12</strong>. I&rsquo;m supporting this: <a href="https://secure.avaaz.org/campaign/en/stand_with_francesca_loc/">Nobel Peace Prize for Francesca Albanese and Gaza Doctors</a>.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-07-03-israel>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-07-12, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/14/miniPatrioticSanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I want Mastodon to take off as a blogging platform. That means hooking it up to existing blog platforms. I want our world to connect to theirs. I'm lucky to have bet on WordPress, so my <a href="https://wordland.social/">product</a> gets the connection to Mastodon for free. But the web is what matters, not my product or yours. Even if your product is huge, it's only part of the web. This is how we build, how we get back on track. Somehow we need to get a simple bridge that lets <i>all</i> blog content flow to Mastodon. That's the goal. I just wrote a <a href="https://mastodon.social/@davew/114841153889663929">couple</a> of <a href="https://mastodon.social/@davew/114841162027579055">posts</a> where this became clear to me. Who has the code and expertise to create a simple interface from the outside world to Mastodon. The interface doesn't have to be RSS. But it has to be maximally simple, and it has to cover the <a href="https://daveverse.org/2025/07/09/example-of-a-wordpress-post-in-mastodon/">basic features</a> of blogs that Mastodon supports. 
-
-<br> 
-
-<http://scripting.com/2025/07/12.html#a163304>
-
----
-
-## Saturday, 12 July 2025
-
-date: 2025-07-12, from: Doc Searls (at Harvard), New Old Blog
-
-I just bought two. The Intention Economy, which lists at $27 and has been sold at that price or close to it by Amazon since the book came out, is now just $13.93 for the hardcover. That&#39;s cheaper than the Kindle edition (also discounted) and the audio version (with my own voice, btw). Coerced Consent. The [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/07/12/saturday-12-july-2025/>
-
----
-
-## On _Resistance From the Tech Sector_
-
-date: 2025-07-12, from: mrusme blog
-
-_Big tech_'s rotten core: It's not just the CEOs. 
-
-<br> 
-
-<https://xn--gckvb8fzb.com/on-resistance-from-the-tech-sector/>
-
----
-
-##  Not a joke: there is a new Commodore 64 coming out. &#8220;The... 
-
-date: 2025-07-12, updated: 2025-07-12, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/07/0047135-not-a-joke-there-is>
-
----
-
-## Today's editorial about AI
-
-date: 2025-07-12, from: Dave Winer's Scripting News
-
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">AI chatbots don't think and they don't decide. </p>
-<p>They can give you a way to approach a problem, but it's only one way, and it may not be the best way, and it depends on it actually understanding the problem, which is something it does a good simulation of, but can't do. It absolutely cannot think, come up with a strategy, or even make a decision based on probabilities. It might, in the future, get some of these abilities, given how far they've come, but no one knows, it hasn't happened yet. </p>
-<p>The reports that <a href="https://secondthoughts.ai/p/ai-coding-slowdown">say</a> that using a chatbot to write code is actually less efficient than doing it yourself, are totally believable based on two years experience with using it as a development tool. And I can't believe that whatever it comes up with covers enough use-cases to be reliable. It might create a demo of something to present to a board of directors (they're famous for being deceived by demos, btw), but I doubt if it's as usable as something created by someone with an idea of how to craft usable software. </p>
-<p>This might sound like a writer defending their art against the bots, but the difference is I've actually invested the time to learn about this. My counterparts among writers have not done that. And that's not a mistake my chatbot friend would make. It does a lot of research, it just doesn't know what to do with the result, that's up to you. </p>
-<p>So if you want to know the roles humans will play, at least for now, that's it. Think and decide. </p>
-<p>And those are hard and take many years to learn how to do for a human. And we could use some help there btw, look at the awful decisions we're making these days. They just fired all the people at the State Dept who work on climate change, for example. </p>
-<p>Have a nice day one and all.</p>
-<p>PS: Another thing humans can do that apparently AI bots can't is change their mind. </p>
-<p>PPS: I asked ChatGPT if it had any comments on this editorial, <a href="https://imgs.scripting.com/2025/07/12/chatgptresponse.png">and it did</a>, of course. I should try saying something wrong to it and see what it says. I did come up with one, and it gave me an <a href="https://chatgpt.com/c/68726f39-3d34-8012-bf44-8ee84e4446e9">answer</a> even though no answer is possible. </p>
- 
-
-<br> 
-
-<http://scripting.com/2025/07/12/134525.html?title=todaysEditorialAboutAi>
-
----
-
-## Sponsor my laptop!
-
-date: 2025-07-12, from: Daniel Stenberg Blog
-
-I need to get myself a new laptop. My existing one is from 2017 and was already then not the most powerful one. It recently started to shut itself off when running on battery and during the two most recent curl up meetings it has proven itself to be rather sluggish and unable to save &#8230; <a href="https://daniel.haxx.se/blog/2025/07/12/sponsor-my-laptop/" class="more-link">Continue reading <span class="screen-reader-text">Sponsor my laptop!</span> <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<https://daniel.haxx.se/blog/2025/07/12/sponsor-my-laptop/>
-
----
-
-## The price of software freedom is eternal politics
-
-date: 2025-07-12, updated: 2025-07-12, from: Liam Proven's articles at the Register
-
-<h4><span class="label">Comment</span> Many don&#39;t realize or forget, but the FOSS world has ideological wings, too</h4>
-      <p>The new fork of the X.org X11 server is conservative… and we don&#39;t mean just technologically conservative.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/12/the_price_of_software_freedom/>
-
----
-
-## We Should Stop Calling Him Our “President” | The Coffee Klatch for July 12, 2025
-
-date: 2025-07-12, from: Robert Reich's blog
-
-With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168121057/38a8578f2a0f34c19161ca06f1b04b09.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168121057/38a8578f2a0f34c19161ca06f1b04b09.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/why-we-should-stop-calling-him-our>
-
----
-
-## July 11, 2025 
-
-date: 2025-07-12, from: Heather Cox Richardson blog
-
-A picture tonight as we celebrate a family wedding this weekend. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/july-11-2025>
-
----
-
-## Weeknotes: July 5-11, 2025
-
-date: 2025-07-12, from: Tracy Durnell Blog
-
-Husband started his new job this week! 🙌 He&#8217;s working with a lot of the same people, but no more 6am calls with Romania or midnight calls with India &#8212; I endorse 😴 Win of the week: made a summer playlist 🎶 (mirrored on Spotify if you like 2000s-2020s indie / alt tunes) Looking forward [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/07/11/weeknotes-july-5-11-2025/>
-
----
-
-## The Central Valley’s ‘Wonderful Schools’: An Our Towns Report.
-
-date: 2025-07-12, from: James Fallows, Substack
-
-What it takes to open doors, in communities accustomed to thinking that doors are closed. 
-
-<br> 
-
-<https://fallows.substack.com/p/the-central-valleys-wonderful-schools>
-
----
-
-## July 10, 2025
-
-date: 2025-07-12, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168124763/d3f1ff8931c58df3997c01b5919a21cf.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168124763/d3f1ff8931c58df3997c01b5919a21cf.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/july-10-2025-f60>
-
----
-
-## Apple and Masimo Faced Off in US Appeals Court This Week
-
-date: 2025-07-12, updated: 2025-07-13, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.reuters.com/legal/government/apple-masimo-spar-over-apple-watch-import-ban-us-appeals-court-2025-07-07/>
 
