@@ -1,11 +1,38 @@
 ---
 title: journalism
-updated: 2025-07-20 06:08:17
+updated: 2025-07-20 14:07:49
 ---
 
 # journalism
 
-(date: 2025-07-20 06:08:17)
+(date: 2025-07-20 14:07:49)
+
+---
+
+## TV preview: Anticipated seasons, new projects from familiar creators to hit summer screens
+
+date: 2025-07-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+This summer&#8217;s upcoming television will add sunshine to your day.
+Featuring a mix of highly anticipated returning seasons as well as brand new releases, TV this summer is nothing less than binge-worthy. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/20/tv-preview-anticipated-seasons-new-projects-from-familiar-creators-to-hit-summer-screens/>
+
+---
+
+## Santa Clarita activists call for ‘Good Trouble’ as they honor John Lewis amid political division
+
+date: 2025-07-20, from: The Canyon News (COC Student Newspaper)
+
+<p>Protesters in cities across the nation gather for a day of action&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/john-lewis/">Santa Clarita activists call for &#8216;Good Trouble&#8217; as they honor John Lewis amid political division</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/john-lewis/>
 
 ---
 

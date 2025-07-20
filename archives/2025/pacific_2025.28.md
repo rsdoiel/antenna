@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-07-20 06:08:13
+updated: 2025-07-20 14:07:45
 ---
 
 # pacific
 
-(date: 2025-07-20 06:08:13)
+(date: 2025-07-20 14:07:45)
+
+---
+
+## Cook Islanders flock from outer islands for 60th anniversary celebrations
+
+date: 2025-07-20, from: 
+
+Cook Islands secretary of culture says, "For the first time in a long time, we are able to bring all our people together for a long-awaited reunion." 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567510/cook-islanders-flock-from-outer-islands-for-60th-anniversary-celebrations>
 
 ---
 

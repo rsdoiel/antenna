@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-07-20 06:08:22
+updated: 2025-07-20 14:07:53
 ---
 
 # small papers
 
-(date: 2025-07-20 06:08:22)
+(date: 2025-07-20 14:07:53)
+
+---
+
+## Man seriously burned in fire at Carmelitos housing complex, Long Beach Fire Department says
+
+date: 2025-07-20, from: Long Beach Post
+
+<figure><img width="1024" height="567" src="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-1024x567.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-768x426.jpg 768w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-400x222.jpg 400w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-470x260.jpg 470w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-970x537.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The blaze broke out around 10 a.m. in one of the complex's upper-floor units, according to the LBFD.</p>
+<p>The post <a href="https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says">Man seriously burned in fire at Carmelitos housing complex, Long Beach Fire Department says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-07-20 06:08:22
 
 date: 2025-07-19, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A 24-year-old man was arrested on suspicion of assault with a deadly weapon and carrying a loaded firearm in a public place.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say">Man arrested for allegedly shooting into group of women; nobody hurt, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -42,7 +57,7 @@ date: 2025-07-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-07-19, from: Long Beach Post
 
-<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The local company has amassed 1,000 workers at its 189,00-square-foot campus where it aims to build a new generation of space station by 2030.</p>
 <p>The post <a href="https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach">In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

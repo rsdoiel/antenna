@@ -1,23 +1,62 @@
 ---
 title: socal north
-updated: 2025-07-20 06:08:11
+updated: 2025-07-20 14:07:44
 ---
 
 # socal north
 
-(date: 2025-07-20 06:08:11)
+(date: 2025-07-20 14:07:44)
 
 ---
 
-## New support group helps survivors process the devastation of Eaton and Palisades Fires
+## You voted, we counted: Here's the winner of the 2025 Tournament of Cheeseburgers!
 
 date: 2025-07-20, updated: 2025-07-20, from: The LAist
 
-NAMI San Gabriel Valley is hosting a monthly virtual peer support group. 
+All was revealed at Sunday’s event at Smorgasburg in DTLA. 
 
 <br> 
 
-<https://laist.com/news/support-group-helps-survivors-process-devastation-eaton-palisades-fires>
+<https://laist.com/news/food/you-voted-we-counted-heres-the-winner-of-the-2025-tournament-of-cheeseburgers>
+
+---
+
+## Man seriously burned in fire at Carmelitos housing complex, Long Beach Fire Department says
+
+date: 2025-07-20, from: Longbeach Post
+
+<figure><img width="1024" height="567" src="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-1024x567.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-768x426.jpg 768w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-400x222.jpg 400w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-470x260.jpg 470w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-970x537.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The blaze broke out around 10 a.m. in one of the complex's upper-floor units, according to the LBFD.</p>
+<p>The post <a href="https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says">Man seriously burned in fire at Carmelitos housing complex, Long Beach Fire Department says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says>
+
+---
+
+## Four killed in collision on 605 early Sunday morning, significant delays throughout area
+
+date: 2025-07-20, updated: 2025-07-20, from: The LAist
+
+The crash happened at around 1 a.m. A stretch of the southbound 605 is still closed as of Sunday morning. 
+
+<br> 
+
+<https://laist.com/news/transportation/four-dead-after-two-car-collision-on-605-early-sunday-morning>
+
+---
+
+## Ask your kids' camps these key questions about heat and flood safety, experts say
+
+date: 2025-07-20, updated: 2025-07-20, from: The LAist
+
+Camps in nature can be great for kids, but they can also expose campers to floods, wildfires and heat. Here are the top questions experts say people should ask camps about safety. 
+
+<br> 
+
+<https://laist.com/news/ask-your-kids-camps-these-key-questions-about-heat-and-flood-safety-experts-say>
 
 ---
 
@@ -30,6 +69,18 @@ The real, killer stuff from an era before state regulation, before car emission 
 <br> 
 
 <https://laist.com/news/los-angeles-activities/for-sale-a-can-of-legendary-la-smog-from-the-1950s>
+
+---
+
+## New support group helps survivors process the devastation of Eaton and Palisades Fires
+
+date: 2025-07-20, updated: 2025-07-20, from: The LAist
+
+NAMI San Gabriel Valley is hosting a monthly virtual peer support group. 
+
+<br> 
+
+<https://laist.com/news/support-group-helps-survivors-process-devastation-eaton-palisades-fires>
 
 ---
 
@@ -49,7 +100,7 @@ Some 15,000 vehicles uses Palos Verdes Drive South a day. Alternating one-lane a
 
 date: 2025-07-19, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A 24-year-old man was arrested on suspicion of assault with a deadly weapon and carrying a loaded firearm in a public place.</p>
 <p>The post <a href="https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say">Man arrested for allegedly shooting into group of women; nobody hurt, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -98,11 +149,11 @@ President Trump filed a $10 billion defamation suit Friday against the The Wall 
 
 ---
 
-## At least 30 people injured after driver plowed into crowd in East Hollywood
+## Authorities arrest driver who plowed car into crowd outside of East Hollywood nightclub
 
-date: 2025-07-19, updated: 2025-07-19, from: The LAist
+date: 2025-07-19, updated: 2025-07-20, from: The LAist
 
-Authorities report that 7 people are in critical condition, 6 sustained serious injuries, and 10 are in fair condition. 
+The man was attacked by bystanders after the crash and was shot and wounded. 
 
 <br> 
 
@@ -114,7 +165,7 @@ Authorities report that 7 people are in critical condition, 6 sustained serious 
 
 date: 2025-07-19, from: Longbeach Post
 
-<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The local company has amassed 1,000 workers at its 189,00-square-foot campus where it aims to build a new generation of space station by 2030.</p>
 <p>The post <a href="https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach">In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -694,6 +745,18 @@ L.A. County could see some showers and thunderstorms as early as the afternoon.
 
 ---
 
+## It's finally here! SoCal's fave burger joint will be revealed today at Tournament of Cheeseburgers
+
+date: 2025-07-17, updated: 2025-07-20, from: The LAist
+
+It’s the cheeseburger event of the summer this weekend at Smorgasburg LA. 
+
+<br> 
+
+<https://laist.com/news/food/its-finally-here-socals-fave-burger-joint-will-be-revealed-at-tournament-of-cheeseburgers-this-weekend>
+
+---
+
 ## ¿Qué son las escuelas chárter y cómo funcionan en L.A.?
 
 date: 2025-07-17, updated: 2025-07-17, from: The LAist
@@ -751,18 +814,6 @@ Greenbar Distillery wants to make your home cocktail a breeze.
 <br> 
 
 <https://laist.com/news/food/dtlas-first-distillery-greenbar-is-celebrating-its-20th-anniversary-with-its-most-ambitious-spirit-offering-yet>
-
----
-
-## It's finally here! SoCal's fave burger joint will be revealed at Tournament of Cheeseburgers this weekend
-
-date: 2025-07-17, updated: 2025-07-17, from: The LAist
-
-It’s the cheeseburger event of the summer this weekend at Smorgasburg LA. 
-
-<br> 
-
-<https://laist.com/news/food/its-finally-here-socals-fave-burger-joint-will-be-revealed-at-tournament-of-cheeseburgers-this-weekend>
 
 ---
 

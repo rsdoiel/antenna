@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-07-20 06:08:16
+updated: 2025-07-20 14:07:49
 ---
 
 # games
 
-(date: 2025-07-20 06:08:16)
+(date: 2025-07-20 14:07:49)
+
+---
+
+## How to fast travel between layers in Donkey Kong Bananza
+
+date: 2025-07-20, updated: 2025-07-20, from: Polygon Website
+
+Your journey to the core of the world in Donkey Kong Bananza will leave you wishing to go back and fast travel to previous layers. Whether you want to collect every Banandium Gem in each layer or just want to be sure your closet has all the coolest clothes, returning to layers you have already [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614503/fast-travel-between-layers-backtrack-how-to>
+
+---
+
+## One Piece&#8217;s newest chapter feels like a big middle finger from its creator
+
+date: 2025-07-20, updated: 2025-07-20, from: Polygon Website
+
+[Ed. note: Major spoilers ahead for chapter 1155 of One Piece.] One Piece chapter 1155, “The Rocks Pirates,” released on Sunday, delves deeper into the life of the lurking legend Rocks D. Xebec and his band of big-name pirates, including how the man was able to amass so many powerhouses and keep them together despite [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/613955/one-piece-1155-rocks-xebec-davy-back-fight-foxy>
+
+---
+
+## 23 Donkey Kong Bananza beginner’s tips to help you get started
+
+date: 2025-07-20, updated: 2025-07-20, from: Polygon Website
+
+The big main thing you want to do in Donkey Kong Bananza is smash everything, but even as you shatter various layers of the planet into thousands of tiny voxels, you may realize there’s more to life than smashing. On your quest to reaching the surface (and getting more bananas), you should know there are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614080/beginner-tips-tricks>
+
+---
+
+## How to Train Your Dragon star says no one has noticed his most difficult stunt
+
+date: 2025-07-20, updated: 2025-07-19, from: Polygon Website
+
+If you know anything about the process of shooting an effects-heavy, big-budget movie like 2025’s live-action How to Train Your Dragon remake, you’d probably think the hardest part of the job would be the performance: trying to have convincing emotional relationships with characters that’ll be added digitally later. Or maybe it’d be all the stunts, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/614266/mason-thames-left-handed-hardest-stunt-how-to-train-your-dragon-2025>
 
 ---
 

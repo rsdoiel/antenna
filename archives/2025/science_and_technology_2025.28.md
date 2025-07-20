@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2025-07-20 06:08:14
+updated: 2025-07-20 14:07:46
 ---
 
 # science and technology
 
-(date: 2025-07-20 06:08:14)
+(date: 2025-07-20 14:07:46)
+
+---
+
+## They’re putting blue food coloring in everything
+
+date: 2025-07-20, from: OS News
+
+&#8220;Why is my burger blue?&#8221; I asked, innocently. &#8220;Oh! We&#8217;re making all of our food blue, all the best restaurants are doing it now.&#8221; the waiter explained. But I didn&#8217;t want my burger to be blue. ↫ Luna Winters &#8220;Blue&#8221; food isn&#8217;t food. 
+
+<br> 
+
+<https://www.osnews.com/story/142847/theyre-putting-blue-food-coloring-in-everything/>
+
+---
+
+## US signals intention to rethink job H-1B lottery
+
+date: 2025-07-20, updated: 2025-07-20, from: The Register (UK I.T. News)
+
+<h4>Foreign worker program represents betrayal of US computer science students, advocacy group argues</h4> <p>The US Department of Homeland Security (DHS) and the US Citizenship and Immigration Services (USCIS) intend to reevaluate how H-1B visas are issued, according to a regulatory filing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/20/h_1b_job_lottery/>
 
 ---
 

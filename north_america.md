@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-07-20 06:08:11
+updated: 2025-07-20 14:07:44
 ---
 
 # north america
 
-(date: 2025-07-20 06:08:11)
+(date: 2025-07-20 14:07:44)
+
+---
+
+##  LEVER WEEKLY: Buckle Up, America 
+
+date: 2025-07-20, from: The Lever News
+
+ Why Trump is hiding the Epstein files, the absurd handouts in the tax bill, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-buckle-up-america/>
 
 ---
 

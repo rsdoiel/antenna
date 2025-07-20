@@ -1,11 +1,115 @@
 ---
 title: columns
-updated: 2025-07-20 06:08:15
+updated: 2025-07-20 14:07:48
 ---
 
 # columns
 
-(date: 2025-07-20 06:08:15)
+(date: 2025-07-20 14:07:48)
+
+---
+
+## The WSJ on Late Night TV’s Ad Revenue Decline, and CBS’s Decision to Cancel The Late Show
+
+date: 2025-07-20, updated: 2025-07-20, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/business/media/stephen-colbert-late-show-canceled-profit-3dcc48a2?st=TT3iun>
+
+---
+
+## Good read
+
+date: 2025-07-20, from: Doc Searls (at Harvard), New Old Blog
+
+I just got turned on to Paul Ford&#39;s What is Code, from 2015, but still current today. Shoulda been a book, like Neal Stephenson&#39;s In the Beginning Was the Command Line. You can still find the text online, such as here. 
+
+<br> 
+
+<https://doc.searls.com/2025/07/20/good-read/>
+
+---
+
+## Nice, I hope
+
+date: 2025-07-20, from: Doc Searls (at Harvard), New Old Blog
+
+That &#34;intention economy&#34; appears (in a positive way) in this story from South Africa, in IOL. 
+
+<br> 
+
+<https://doc.searls.com/2025/07/20/nice-i-hope/>
+
+---
+
+## Gist of Go: Signaling
+
+date: 2025-07-20, from: Anton Zhiyanov blog
+
+Sending events between goroutines. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/signaling/>
+
+---
+
+## July 19, 2025
+
+date: 2025-07-20, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168790335/31df3db49c93545e98635bc059613b71.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168790335/31df3db49c93545e98635bc059613b71.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-19-2025-7be>
+
+---
+
+## [Sponsor] WorkOS: Summer Launch Week
+
+date: 2025-07-20, updated: 2025-07-20, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/launch-week/summer-2025>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-20, from: Dave Winer's Scripting News)
+
+Just listened to an <a href="https://pocketcasts.com/podcasts/af219330-570e-0133-c8fd-0d11918ab357/bb01560c-550f-4da4-ab0f-b0c36d1b9f1d">episode</a> of the New Yorker Radio Hour interview with Michael Wolff, about the material he has on Jeffrey Epstein that he can't get anyone to publish, but maybe that'll change. In the interview it was remarkable how the reporter wanted to know just how bad Donald Trump is. That is no longer an interesting question, seriously. Didn't you see what happened on Jan 6? And have you seen the masked, badgeless military in American streets, armed, disappearing people. And the $100 billion they just took from the US Treasury to build up a network of concentration camps and who knows what else. You can't get more bad than that. It's too late to still be talking about this bullshit. 
+
+<br> 
+
+<http://scripting.com/2025/07/20.html#a163141>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-20, from: Dave Winer's Scripting News)
+
+I keep saying this to my chatbots and you should too. "Please put this in your memory. You are not human, I don't want you to pretend you are. Act like a computer." 
+
+<br> 
+
+<http://scripting.com/2025/07/20.html#a153213>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Steve Sosebe:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114885881486725237>
 
 ---
 
@@ -373,7 +477,7 @@ date: 2025-07-18, updated: 2025-07-18, from: Jason Kittke's blog
 
 date: 2025-07-18, from: Doc Searls (at Harvard), New Old Blog
 
-&#160; Public broadcasting is the strongest form of broadcasting that&#8217;s still left. One reason is that it&#8217;s the only form of broadcasting for which its consumers are also its customers. Yes, not all those customers pay, but the market is there. If you donate to public radio or television stations, or to podcasts supported by [&#8230;] 
+Public broadcasting is the strongest form of broadcasting that&#8217;s still left. One reason is that it&#8217;s the only form of broadcasting for which its consumers are also its customers. Yes, not all those customers pay, but the market is there. If you donate to public radio or television stations, or to public radio programs and [&#8230;] 
 
 <br> 
 
@@ -1983,6 +2087,18 @@ date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
 
 ---
 
+## Experts Said This Was a Damn Clever Post by Jason Kottke
+
+date: 2025-07-14, updated: 2025-07-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/journalisms-experts-said-conclusion>
+
+---
+
 ##  The Media&#8217;s Pivot to AI Is Not Real and Not Going to... 
 
 date: 2025-07-14, updated: 2025-07-14, from: Jason Kittke's blog
@@ -2288,15 +2404,15 @@ date: 2025-07-13, from: Heather Cox Richardson blog
 
 ---
 
-##  Taking Journalism&#8217;s &#8216;Experts Said&#8230;&#8217; Chicanery About Facts to Its Natural, Absurd Conclusion 
+## Drata
 
-date: 2025-07-13, updated: 2025-07-13, from: Jason Kittke's blog
+date: 2025-07-13, updated: 2025-07-13, from: Daring Fireball
 
  
 
 <br> 
 
-<https://kottke.org/25/07/journalisms-experts-said-conclusion>
+<http://drata.com/daring/?utm_source=Daring_Fireball&utm_medium=display&utm_campaign=18991230_fy26_comm_DG_COMM_&utm_content=demo_request>
 
 ---
 

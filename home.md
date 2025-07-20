@@ -1,11 +1,37 @@
 ---
 title: home
-updated: 2025-07-20 06:08:18
+updated: 2025-07-20 14:07:51
 ---
 
 # home
 
-(date: 2025-07-20 06:08:18)
+(date: 2025-07-20 14:07:51)
+
+---
+
+## Troubleshooting Leaf Curl in Persimmon Trees: 7 Common Causes
+
+date: 2025-07-20, from: The Gardener's Path
+
+<p>If the leaves of your persimmon trees (Diospyros spp.) are starting to curl, this can be a symptom of a variety of common environmental stressors including issues with moisture, temperature extremes, or pest infestations. Learn about seven common reasons for persimmon leaf curl and how to deal with them in this guide. </p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit-trees/persimmon-leaf-curl/">Troubleshooting Leaf Curl in Persimmon Trees: 7 Common Causes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit-trees/persimmon-leaf-curl/>
+
+---
+
+## Cluttercore Is the Latest Maximalist Trend. Here’s How to Actually Make It Look Good, Not Messy.
+
+date: 2025-07-20, from: Sunset Magazine - Living in the West
+
+Cluttercore is the latest Pinterest trend promoting maximalism. Designers share how to pull it off so your stuff looks chic not messy. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/cluttercore-trend>
 
 ---
 

@@ -1,11 +1,55 @@
 ---
 title: going electric
-updated: 2025-07-20 06:08:20
+updated: 2025-07-20 14:07:52
 ---
 
 # going electric
 
-(date: 2025-07-20 06:08:20)
+(date: 2025-07-20 14:07:52)
+
+---
+
+## China's EV Sports Car Nails Light, Cheap And Fun
+
+date: 2025-07-20, from: Inside EVs News
+
+Weight is the enemy of all things holy to a sports car, and EVs are usually heavy. But that doesn’t apply to the SSC SC01. 
+
+<br> 
+
+<https://insideevs.com/news/766428/ssc-sc01-electric-sports-car/>
+
+---
+
+## These cars are losing value fast — that’s GREAT news for used EV buyers!
+
+date: 2025-07-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/2025-EQS-SEDAN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New car buyers like to talk about the latest tech and resale value, but most people don’t buy new cars. The used car market is 3x bigger than new, and if you’re content to let the last guy take that big depreciation hit by scoring a great deal on a reliable, <a href="https://electrek.co/2025/05/09/heres-every-used-ev-that-qualifies-for-a-4000-tax-credit-as-of-may-2025/">low-mile used car you could save thousands on your next EV</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,used-ev-tax-credit,used-tesla-cars" data-layer-viewtype="unknown" data-post-id="425895" href="https://electrek.co/2025/07/20/these-cars-are-losing-value-fast-thats-great-news-for-used-ev-buyers/#more-425895" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/20/these-cars-are-losing-value-fast-thats-great-news-for-used-ev-buyers/>
+
+---
+
+## Fiat launches beachy Topolino Vilebrequin as Stellantis ramps up EV production
+
+date: 2025-07-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/fiat_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Fiat Topolino Vilebrequin is a new beach town cruiser that captures the elegance, glamour, and relaxed vibe of the French Riviera. More significantly, the updated EV also heralds Stellantis’ plans to <em>double</em> EV production at its Kenitra Assembly Plant in Morocco.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="fiat,microcar,stellantis" data-layer-viewtype="unknown" data-post-id="425872" href="https://electrek.co/2025/07/20/fiat-launches-beachy-topolino-vilebrequin-as-stellantis-ramps-up-ev-production/#more-425872" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/20/fiat-launches-beachy-topolino-vilebrequin-as-stellantis-ramps-up-ev-production/>
 
 ---
 
@@ -13,7 +57,7 @@ updated: 2025-07-20 06:08:20
 
 date: 2025-07-20, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/AI-bike-road-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric bikes are a menace. They go almost as fast as a car (if the car is parking), they’re whisper quiet (which makes them impossible to hear over the podcast playing in your headphones), and worst of all, they’re increasingly ridden by <em>teenagers</em>. </p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/AI-bike-car-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric bikes are a menace. They go almost as fast as a car (if the car is parking), they’re whisper quiet (which makes them impossible to hear over the podcast playing in your headphones), and worst of all, they’re increasingly ridden by <em>teenagers</em>. </p>
 
 
 
@@ -354,7 +398,7 @@ We also discuss the AI voice assistant in the new Mercedes CLA and Mitsubishi’
 
 date: 2025-07-18, from: Inside EVs News
 
-Mercedes-Benz says it is "react[ing] to market conditions," but more EVs like the CLA-Class and GLC-Class are coming soon. 
+The cars will continue to be built for global markets at those plants, but order books for the U.S. are now closed, Mercedes officials said. 
 
 <br> 
 

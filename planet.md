@@ -1,11 +1,103 @@
 ---
 title: planet
-updated: 2025-07-20 06:08:09
+updated: 2025-07-20 14:07:43
 ---
 
 # planet
 
-(date: 2025-07-20 06:08:09)
+(date: 2025-07-20 14:07:43)
+
+---
+
+## Russia open to peace but must 'achieve goals' in Ukraine
+
+date: 2025-07-20, from: RTÉ News
+
+Russia is open to peace with Ukraine but achieving "our goals" remains a priority, Kremlin spokesman Dmitry Peskov has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0720/1524426-ukraine-russia/>
+
+---
+
+## Scheffler breezes to Open glory, McIlroy tied seventh
+
+date: 2025-07-20, from: RTÉ News
+
+Scottie Scheffler's serene progress to his first Open Championship became a procession at Royal Portrush as the anticipated charge from Rory McIlroy failed to materialise and no-one else could get close to the relentless American. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0720/1524425-scheffler-breezes-to-open-glory-mcilroy-tied-seventh/>
+
+---
+
+## Tipperary crush Cork with second-half final masterclass
+
+date: 2025-07-20, from: RTÉ News
+
+Tipperary are All-Ireland senior hurling champions for the first time since 2019 after a stunning 3-26 to 1-18 comeback win over Cork in the first final meeting between the neighbours. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0720/1524375-tipperary-crush-cork-with-second-half-final-masterclass/>
+
+---
+
+## Caritas Internationalis head: The atrocities in Gaza must end
+
+date: 2025-07-20, from: Vatican News
+
+
+                    <p>In an interview with Vatican News, Alistair Dutton calls for an immediate end to "the bombardment and the atrocities" in the Gaza Strip and pushes for access to much-needed aid for the two million people facing acute hunger.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/caritas-internationalis-head-the-atrocities-in-gaza-must-end.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/caritas-internationalis-head-the-atrocities-in-gaza-must-end.html>
+
+---
+
+## Three babies born to inmates in Irish prisons this year
+
+date: 2025-07-20, from: RTÉ News
+
+Three babies have been born to inmates at the Dóchas Centre women's prison in Dublin and Limerick's women's prison to date this year, new figures show. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0720/1524405-babies-born-prison/>
+
+---
+
+## Gaza residents ordered to evacuate Deir al-Balah
+
+date: 2025-07-20, from: Vatican News
+
+
+                    <p>The Israeli military has ordered all residents in southwestern Deir al-Balah—including those sheltering in tents—to evacuate immediately, ahead of an intensified operation targeting militant groups in the area.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-residents-ordered-to-evacuate-deir-al-balah.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-residents-ordered-to-evacuate-deir-al-balah.html>
+
+---
+
+## All-Ireland SHC final recap: Tipperary 3-27 Cork 1-18
+
+date: 2025-07-20, from: RTÉ News
+
+Read how it all unfolded as Tipperary produced a stunning second-half performance to land the spoils. 
+
+<br> 
+
+<https://www.rte.ie/sport/hurling/2025/0720/1524380-all-ireland-shc-final-cork-v-tipperary-updates/>
 
 ---
 
@@ -22,6 +114,30 @@ date: 2025-07-20, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/vatican-city/news/2025-07/parolin-violence-in-gaza-must-end-angelus.html>
+
+---
+
+## Doha agreement brings DR Congo government and M23 rebels a step closer to peace
+
+date: 2025-07-20, from: United Nations, Top Stories
+
+An agreement signed by the Government of the Democratic Republic of the Congo (DRC) and the Congo River Alliance/March 23 Movement (AFC/M23) has been hailed by the UN peacekeeping mission in the country (MONUSCO) as “an important step towards sustainable peace.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165441>
+
+---
+
+## At least 73 Palestinians killed trying to access humanitarian aid, says Gaza Health Ministry
+
+date: 2025-07-20, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589551.1753019871!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Several bodies covered in white plastic are laid on the street as people peek beneath to see if it is their loved ones.' width='620' height='349' title='The bodies of Palestinians who were killed while attempting to access aid trucks entering northern Gaza through the Zikim crossing with Israel are brought to a clinic in Gaza City, Sunday, July 20, 2025. '/><p>At least 73 people were killed while attempting to access aid at locations across Gaza on Sunday, the health ministry in the Palestinian territory said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/73-palestinians-killed-waiting-for-aid-1.7589544?cmp=rss>
 
 ---
 
@@ -69,11 +185,11 @@ date: 2025-07-20, from: Vatican News
 
 ---
 
-## The Open Championship Day 4 updates
+## The Open Championship Day 4 recap: Scheffler wins
 
 date: 2025-07-20, from: RTÉ News
 
-World No 1 Scottie Scheffler is the man to catch on the final day, with Rory McIlroy starting out six shots adrift of the American. 
+World No 1 Scottie Scheffler was the man to catch on the final day, with Rory McIlroy starting out six shots adrift of the American. The world number one, however, was not for catching as he captured his fourth major title. 
 
 <br> 
 
@@ -81,11 +197,11 @@ World No 1 Scottie Scheffler is the man to catch on the final day, with Rory McI
 
 ---
 
-## South Korea rain death toll rises to 14
+## South Korea rain death toll rises to 17
 
 date: 2025-07-20, from: RTÉ News
 
-At least two people were killed during heavy downpours in South Korea today, the interior ministry said, bringing the death toll to 14 from torrential rains this week. 
+Heavy rain in South Korea has killed at least 17 people in recent days, government records showed, while 11 remain unaccounted for in the intense downpours. 
 
 <br> 
 
@@ -109,11 +225,11 @@ date: 2025-07-20, from: Vatican News
 
 ---
 
-## Israeli attacks kill 67 waiting for aid in northern Gaza
+## Israeli fire kills 93 seeking aid in Gaza - civil defence
 
 date: 2025-07-20, from: RTÉ News
 
-Israeli attacks have killed 67 Palestinians waiting for UN aid trucks in northern Gaza, health officials in the enclave have said, after more bodies were brought into hospitals from the scene. 
+Israeli forces opened fire on crowds of Palestinians trying to collect humanitarian aid in Gaza, killing 93 people and wounding dozens more, the enclave's civil defence agency has said. 
 
 <br> 
 
@@ -130,6 +246,18 @@ A series of powerful earthquakes struck off the coast of Russia's far east today
 <br> 
 
 <https://www.rte.ie/news/2025/0720/1524368-russia-earthquake-tsunami/>
+
+---
+
+## Heavy rain forecast as Orange, Amber warnings issued
+
+date: 2025-07-20, from: RTÉ News
+
+Rain warnings have been issued for nine counties, with Status Orange and Amber alerts on both sides of the border. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0720/1524366-weather/>
 
 ---
 
@@ -205,11 +333,11 @@ date: 2025-07-20, from: CBC, Indigenious News
 
 ---
 
-## Calm in southern Syria as fighting 'halted', says govt
+## Death toll rises to 1,120 in Syria despite ceasefire
 
 date: 2025-07-20, from: RTÉ News
 
-Fighting in Syria's Sweida "halted", the government said, after the southern city was recaptured by Druze fighters and state forces redeployed to the region where more than 900 people have been killed in sectarian violence. 
+The death toll from violence in the Sweida province, the heartland of Syria's Druze minority, has risen to 1,120 since last weekend, a war monitor has said, despite a ceasefire appearing to hold. 
 
 <br> 
 
@@ -241,11 +369,11 @@ date: 2025-07-20, from: CBC, World News
 
 ---
 
-## Rescue efforts resume after Vietnam tourist boat capsizes
+## Death toll revised to 35 after boat capsizes in Vietnam
 
 date: 2025-07-20, from: RTÉ News
 
-Rescuers were desperately searching for five people still missing after 38 were killed when a boat capsized in one of Vietnam's most popular tourist destinations. 
+Dozens of rescuers were scrambling in Vietnam to trace four missing people after retrieving the bodies of dozens killed when a thunderstorm capsized a boat in the top tourist destination of Halong Bay, authorities have said. 
 
 <br> 
 
@@ -269,7 +397,7 @@ Oasis are set to bring their reunion tour to Ireland with two huge gigs at Dubli
 
 date: 2025-07-19, from: RTÉ News
 
-The Government is finalising a major investment plan to inject up to €30bn of additional funding into Ireland's infrastructure between 2026 and 2030. 
+The Government is finalising a major investment plan to inject up to €30 billion of additional funding into Ireland's infrastructure between 2026 and 2030. 
 
 <br> 
 
@@ -429,11 +557,11 @@ Ukraine's President Volodymyr Zelensky has proposed a new round of peace talks w
 
 ---
 
-## At least 37 dead after tourist boat capsizes in Vietnam
+## At least 35 dead after tourist boat capsizes in Vietnam
 
 date: 2025-07-19, from: RTÉ News
 
-A tourist boat ferrying families around Vietnam's Ha Long Bay capsized in a storm, leaving at least 34 people dead, according to state media reports, as rescuers scrambled to locate the missing. 
+A tourist boat ferrying families around Vietnam's Ha Long Bay capsized in a storm, leaving at least 35 people dead, according to state media reports, as rescuers scrambled to locate the missing. 
 
 <br> 
 
@@ -709,7 +837,7 @@ UK politicians had tried to keep the Afghan data leak a secret with a superinjuc
 
 ---
 
-## CEO resigns after being caught cosying up to co-worker in viral Coldplay concert clip
+## Coldplay couple a reminder that anyone can go viral — even in a crowd of 60,000
 
 date: 2025-07-19, from: CBC, World News
 
@@ -1096,7 +1224,7 @@ Almost four years after Russia’s full-scale invasion, criminal groups in Ukrai
 
 ## UN80 initiative should be ‘inclusive and transparent’, recognises General Assembly
 
-date: 2025-07-18, from: United Nations, UN Affairs
+date: 2025-07-18, from: United Nations, Top Stories
 
 The General Assembly on Friday adopted by consensus a resolution on the Secretary‑General’s UN80 Initiative to strengthen and streamline the United Nations system.&nbsp; 
 
@@ -1108,7 +1236,7 @@ The General Assembly on Friday adopted by consensus a resolution on the Secretar
 
 ## Mandela’s legacy ‘is now our responsibility’, Guterres says on International Day
 
-date: 2025-07-18, from: United Nations, UN Affairs
+date: 2025-07-18, from: United Nations, Top Stories
 
 In honour of Nelson Mandela International Day on Friday, the United Nations is celebrating with a public service activity, a chamber music concert and a General Assembly meeting, where Secretary-General António Guterres presented the 2025 Mandela Prize.&nbsp;
 &nbsp; 
@@ -1897,7 +2025,7 @@ A group of Indigenous youth from the United States, some as young as seven, visi
 
 ## Pakistan reels under monsoon deluge as death toll climbs
 
-date: 2025-07-17, from: United Nations, Climate Change
+date: 2025-07-17, from: United Nations, Top Stories
 
 Pakistan’s monsoon emergency deepened on Thursday as authorities declared disaster zones across parts of eastern Punjab province after lethal cloudbursts and flash floods killed dozens in a single day. 
 
@@ -3167,7 +3295,7 @@ In violence-wracked Haiti, more than 5.7 million people are estimated to be food
 
 ## From diamonds to dirt: Sierra Leone youth bring land back to life
 
-date: 2025-07-16, from: United Nations, Economic Development
+date: 2025-07-16, from: United Nations, Top Stories
 
 Craters filled with muddy water pocket the landscape of the Kono district in&nbsp;Sierra Leone – the result of a blood diamond mining industry which contributed to a decade-long civil war. 
 

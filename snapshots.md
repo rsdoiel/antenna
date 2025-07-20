@@ -1,11 +1,49 @@
 ---
 title: snapshots
-updated: 2025-07-20 06:08:23
+updated: 2025-07-20 14:07:55
 ---
 
 # snapshots
 
-(date: 2025-07-20 06:08:23)
+(date: 2025-07-20 14:07:55)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-20, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lufx45yi6k25>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-20, from: Robert's feed at BlueSky)
+
+No measurements, no problem?
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lufwzozhwc25>
+
+---
+
+## MeLE Overclock X2 is an almost pocket-sized PC with Intel N150 and upgradeable RAM & storage
+
+date: 2025-07-20, from: Liliputing
+
+<p>The MeLE Overclock X2 is a compact desktop computer that&#8217;s barely larger than a smartphone, measuring 178 x 94 x 21mm (about 7&#8243; x 3.7&#8243; x 0.8&#8243;). But it&#8217;s a full-fledged PC with an Intel processor, a decent set of I/O options, and something you won&#8217;t find in any phone: support for user-replaceable memory and [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/mele-overclock-x2-is-an-almost-pocket-sized-pc-with-intel-n150-and-upgradeable-ram-storage/">MeLE Overclock X2 is an almost pocket-sized PC with Intel N150 and upgradeable RAM &#038; storage</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/mele-overclock-x2-is-an-almost-pocket-sized-pc-with-intel-n150-and-upgradeable-ram-storage/>
 
 ---
 
