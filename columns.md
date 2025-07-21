@@ -1,11 +1,189 @@
 ---
 title: columns
-updated: 2025-07-21 06:07:44
+updated: 2025-07-21 14:08:14
 ---
 
 # columns
 
-(date: 2025-07-21 06:07:44)
+(date: 2025-07-21 14:08:14)
+
+---
+
+## ‘CBS: The Tiffany Network’
+
+date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=7Rv36XkQojM>
+
+---
+
+##  When the Icebergs Came to Town 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/when-the-icebergs-came-to-town>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-21, from: Dave Winer's Scripting News)
+
+<a href="https://en.wikipedia.org/wiki/The_Great_(TV_series)">The Great</a> on Hulu gives an idea of what a king or queen would be like. The difference is the actors <a href="https://www.youtube.com/watch?v=Q7BNPKkjL1k">playing</a> the <a href="https://www.youtube.com/watch?v=6gx8b1KwjWs">monarchs</a> are pretty lovable and not stupid, and somewhat self-aware (not their strong suit).
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/21.html#a194404>
+
+---
+
+##  Gregor Formanek is likely the very last SS guard of a concentration... 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047185-gregor-formanek-is-likely>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-21, from: Dave Winer's Scripting News)
+
+Short <a href="https://www.youtube.com/watch?v=aV3FZN0bdNk&t=4s">video demo</a> of Markdown mode in the WordLand editor. 
+
+<br> 
+
+<http://scripting.com/2025/07/21.html#a191146>
+
+---
+
+##  How to Flood-Proof a Hurricane-Prone Florida Town 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/how-to-flood-proof-a-hurricane-prone-florida-town>
+
+---
+
+## HRW Report Documents Abusive Practices at Three Florida Immigration Detention Centers Since January 2025
+
+date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.hrw.org/report/2025/07/21/you-feel-like-your-life-is-over/abusive-practices-at-three-florida-immigration>
+
+---
+
+##  &#8220;The Alamo announced Friday a whimsical and nostalgic new addition to its... 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047183-the-alamo-announced-frida>
+
+---
+
+## July 20, 2025
+
+date: 2025-07-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168876186/f19b2108ecad473663e97eb32e921eaa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168876186/f19b2108ecad473663e97eb32e921eaa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-20-2025-cf3>
+
+---
+
+##  Catherine Lacey&#8217;s The Möbius Book is both a memoir and a novel,... 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047182-catherine-laceys-the-mobi>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-21, from: Dave Winer's Scripting News)
+
+Quick <a href="https://daveverse.org/2025/07/21/1795/">notes</a> on WordLand v0.5.21. Complete notes to come. 
+
+<br> 
+
+<http://scripting.com/2025/07/21.html#a164315>
+
+---
+
+##  Intricate Drawings by Shunshun 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/intricate-drawings-by-shunshun>
+
+---
+
+##  &#8220;Terrible night&#8217;s sleep? Here&#8217;s how to make it through the day&#8230;&#8221; Maybe... 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047178-terrible-nights-sleep-her>
+
+---
+
+## Please, FOSS world, we need something like ChromeOS
+
+date: 2025-07-21, updated: 2025-07-21, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Comment</span> The End of Windows 10 is looming. The world needs a simpler, easy, quick, snackable alternative</h4>
+      <p>Dear Santa. For Windows-10-end-of-support-day in October, please may we have a dead simple bulletproof all-free OS that gets old PCs online without a Google account, and does nothing else?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/21/foss_chromeos_please/>
+
+---
+
+##  A remake of The Thomas Crown Affair with Michael B. Jordan, Danai... 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047170-a-remake-of-the-thomas>
 
 ---
 
@@ -196,8 +374,8 @@ date: 2025-07-20, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168790335/0e64f24f201fa2c42f15e8fa3f4eed4e.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168790335/0e64f24f201fa2c42f15e8fa3f4eed4e.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168790335/31df3db49c93545e98635bc059613b71.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168790335/31df3db49c93545e98635bc059613b71.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/july-19-2025-7be>
 

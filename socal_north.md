@@ -1,23 +1,125 @@
 ---
 title: socal north
-updated: 2025-07-21 06:07:41
+updated: 2025-07-21 14:08:11
 ---
 
 # socal north
 
-(date: 2025-07-21 06:07:41)
+(date: 2025-07-21 14:08:11)
 
 ---
 
-## California affordable internet mandate was yanked due to federal funding threats. What now?
+## Shootings hit a 5-year low in Long Beach, and homicides are also on the decline, police chief says
 
-date: 2025-07-21, updated: 2025-07-21, from: The LAist
+date: 2025-07-21, from: Longbeach Post
 
-The state bill was supposed to bring affordable, reliable internet options to millions of people statewide without access. 
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cities across the state are reporting major declines in killings and other violent crimes through the first half of 2025.</p>
+<p>The post <a href="https://lbpost.com/news/crime/crime-stats-long-beach-shootings-2025-homicides">Shootings hit a 5-year low in Long Beach, and homicides are also on the decline, police chief says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
 
 <br> 
 
-<https://laist.com/news/california-affordable-internet-mandate-was-yanked-due-to-federal-funding-threats-what-now>
+<https://lbpost.com/news/crime/crime-stats-long-beach-shootings-2025-homicides>
+
+---
+
+## California cannabis companies hoped Trump would be an ally. Then the raids happened
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Federal agents arrested hundreds of workers after immigration sweeps at a California cannabis company, stoking fears that President Donald Trump might target the marijuana industry. 
+
+<br> 
+
+<https://laist.com/news/california-cannabis-companies-hoped-trump-would-be-an-ally-then-the-raids-happened>
+
+---
+
+## Actor Malcolm-Jamal Warner, 'Cosby Show' star, has died at 54
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+The actor and Grammy Award winner drowned Sunday while on vacation in Costa Rica. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/actor-malcolm-jamal-warner-cosby-show-star-has-died-at-54>
+
+---
+
+## California students with immigrant parents seek financial aid despite deportation risks
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Despite fears the federal government will use personal information from financial aid applications to identify immigrant parents who lack legal status, the number of high school senior applicants from mixed-status families has not decreased as much as some thought it would, according to the California Student Aid Commission. 
+
+<br> 
+
+<https://laist.com/news/education/california-students-with-immigrant-parents-seek-financial-aid-despite-deportation-risks>
+
+---
+
+## Trump administration shuts down EPA's scientific research arm
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+The agency is closing the Office of Research and Development, which analyzes dangers posed by hazards including toxic chemicals, climate change, smog, wildfires, water pollution and more. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-shuts-down-epas-scientific-research-arm>
+
+---
+
+## Long Beach will smoke test the sewer system on Naples. Here’s what that means
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Test aims to identify problems and leaks before a sewage overflow occurs. 
+
+<br> 
+
+<https://laist.com/news/long-beach-will-smoke-test-the-sewer-system-on-naples>
+
+---
+
+## Best things to do this week in LA and SoCal
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Enjoy the O.C. Fair, the Photomatica photo booth museum opening, an outdoor Elf screening and more of the best things to do this week. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-july-21-24>
+
+---
+
+## Hundreds of guns stolen off of freight trains bound from Long Beach
+
+date: 2025-07-21, from: Longbeach Post
+
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-557x300.jpg 557w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1110x598.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1536x827.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-2048x1103.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1320x711.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities said a series of three heists appeared to be "targeted thefts."</p>
+<p>The post <a href="https://lbpost.com/news/crime/hundreds-of-guns-stolen-off-of-freight-trains-bound-from-long-beach">Hundreds of guns stolen off of freight trains bound from Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/hundreds-of-guns-stolen-off-of-freight-trains-bound-from-long-beach>
+
+---
+
+## The Queen Mary’s commodore, who welcomed tourists aboard for over 40 years, has died
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Everette Hoard, who worked aboard the iconic Long Beach ship for more than 40 years, has died, according to an announcement from the ship’s management. 
+
+<br> 
+
+<https://laist.com/news/the-queen-marys-commodore-who-welcomed-tourists-aboard-for-over-40-years-has-died>
 
 ---
 
@@ -42,6 +144,18 @@ Facing budget shortfalls, local governments are now asking philanthropists to he
 <br> 
 
 <https://laist.com/news/housing-homelessness/los-angeles-cash-assistance-immigration-ice-raids-private-donor-rent-relief-funds>
+
+---
+
+## California affordable internet mandate was yanked due to federal funding threats. What now?
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+The state bill was supposed to bring affordable, reliable internet options to millions of people statewide without access. 
+
+<br> 
+
+<https://laist.com/news/california-affordable-internet-mandate-was-yanked-due-to-federal-funding-threats-what-now>
 
 ---
 
@@ -71,7 +185,7 @@ Under the second Trump administration, climate denial has given way to climate e
 
 ## Revealed: the winner of the 2025 LAist Tournament of Cheeseburgers
 
-date: 2025-07-20, updated: 2025-07-20, from: The LAist
+date: 2025-07-20, updated: 2025-07-21, from: The LAist
 
 With several locations across LA, fans love Win-Dow’s tasty smashburgers — closely followed by their great prices. 
 
@@ -85,7 +199,7 @@ With several locations across LA, fans love Win-Dow’s tasty smashburgers — c
 
 date: 2025-07-20, from: Longbeach Post
 
-<figure><img width="1024" height="567" src="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-1024x567.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-768x426.jpg 768w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-400x222.jpg 400w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-470x260.jpg 470w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-970x537.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="567" src="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-1024x567.jpg 1024w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-768x426.jpg 768w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-400x222.jpg 400w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-470x260.jpg 470w, https://img.lbpost.com/wp-content/uploads/2019/03/10123627/0224-Sumo-17-970x537.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The blaze broke out around 10 a.m. in one of the complex's upper-floor units, according to the LBFD.</p>
 <p>The post <a href="https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says">Man seriously burned in fire at Carmelitos housing complex, Long Beach Fire Department says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

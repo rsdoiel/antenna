@@ -1,11 +1,127 @@
 ---
 title: home
-updated: 2025-07-21 06:07:47
+updated: 2025-07-21 14:08:17
 ---
 
 # home
 
-(date: 2025-07-21 06:07:47)
+(date: 2025-07-21 14:08:17)
+
+---
+
+## What to Do When Your AC’s Side Panels Won’t Fit in Your Window
+
+date: 2025-07-21, from: Family Handyman Blog
+
+<p>Don't let AC side panels hold you back. Set up your AC the right way, no matter the size of your window.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/air-conditioner-side-panels-dont-fit/">What to Do When Your AC’s Side Panels Won’t Fit in Your Window</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/air-conditioner-side-panels-dont-fit/>
+
+---
+
+## Yellow Tags in the Road? Here’s What They Mean
+
+date: 2025-07-21, from: Family Handyman Blog
+
+<p>Ever wonder what those yellow tags in the middle of the road mean? Do they change or supersede the regular rules of the road?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/yellow-tags-in-road/">Yellow Tags in the Road? Here’s What They Mean</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/yellow-tags-in-road/>
+
+---
+
+## The Best Easy Roasted Tomato Sauce Recipe (Freeze or Can)
+
+date: 2025-07-21, from: Homestead and Chil
+
+<p>Tomatoes. Olive oil. Salt. Pepper. No measurements, peeling, or de-seeding! Come enjoy our delicious and easy roasted tomato sauce recipe that is safe for freezing or canning. This is the perfect way to preserve fresh tomatoes from the garden to enjoy all year!</p>
+<p>The post <a href="https://homesteadandchill.com/simple-roasted-tomato-sauce-recipe/">The Best Easy Roasted Tomato Sauce Recipe (Freeze or Can)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/simple-roasted-tomato-sauce-recipe/>
+
+---
+
+## Before & After: They Found the Plans for Their Family Farmhouse—and Made a Surprising Discovery
+
+date: 2025-07-21, from: Dwell
+
+After locating the blueprints in a drawer, two siblings learn that their Ontario home was updated by a famed British architect who went on to design London’s brutalist Barbican Centre. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-fallbrook-farmhouse-renovation-lamas-architecture-ontario-3d6daca6>
+
+---
+
+## For $1.7M, You Can Scoop Up a SoCal Eichler in Tip-Top Shape
+
+date: 2025-07-21, from: Dwell
+
+The Thousand Oaks midcentury checks all the boxes with clerestory windows, post-and-beam construction, a planted courtyard, and a pool. 
+
+<br> 
+
+<https://www.dwell.com/article/conejo-village-midcentury-eichler-home-claude-oakland-thousand-oaks-real-estate-a28c4f0d>
+
+---
+
+## A Late-in-Life Home Designer Just Created a Bachelor’s Paradise—in Utah
+
+date: 2025-07-21, from: Dwell
+
+The window-wrapped mass of steel, oak, and glass laps up views of Grand Staircase-Escalante National Monument. 
+
+<br> 
+
+<https://www.dwell.com/article/the-periphery-locus-studio-national-park-homes-259a33be>
+
+---
+
+## How to Plant and Grow Hollow Joe-Pye Weed
+
+date: 2025-07-21, from: The Gardener's Path
+
+<p>Hollow joe-pye weed is a native perennial with pinkish-mauve flower clusters atop distinctive hollow stems that grow up to seven feet tall. This impressive plant blooms from midsummer through fall, attracting butterflies and beneficial pollinators. Learn how to grow Eutrochium fistulosum in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-hollow-joe-pye-weed/">How to Plant and Grow Hollow Joe-Pye Weed</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-hollow-joe-pye-weed/>
+
+---
+
+## CDFA Insect Pavilion brings biodiversity and bugs to the 2025 California State Fair
+
+date: 2025-07-21, from: Calfifornia Dept. Aggriculture blog
+
+From stick bugs to helpful pollinators, the Insect Pavilion at the California State Fair is crawling with discovery! Presented by the California Department of Food and Agriculture in partnership with the California Foundation for Agriculture in the Classroom, along with &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29124">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29124>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-21, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight Now you see it… now you don&#8217;t.  Read more: The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

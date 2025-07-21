@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-21 06:07:47
+updated: 2025-07-21 14:08:17
 ---
 
 # motorcycles
 
-(date: 2025-07-21 06:07:47)
+(date: 2025-07-21 14:08:17)
+
+---
+
+## Chase Briscoe Executes For Another 2nd-Place Finish in Dover
+
+date: 2025-07-21, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer The race for the lead was the show late Sunday afternoon at Dover Motor Speedway. It started with Christopher Bell and Denny Hamlin and ended&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/chase-briscoe-executes-for-another-2nd-place-finish-in-dover/>
 
 ---
 

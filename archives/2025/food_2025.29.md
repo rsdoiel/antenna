@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2025-07-21 06:07:49
+updated: 2025-07-21 14:08:19
 ---
 
 # food
 
-(date: 2025-07-21 06:07:49)
+(date: 2025-07-21 14:08:19)
+
+---
+
+## I Tried Kerrygold’s New Cinnamon and Sugar Butter, and I Want to Eat It by the Stick
+
+date: 2025-07-21, from: Taste of Home
+
+<p>It's one of the most delicious dairy items to ever exist.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kerrygold-cinnamon-sugar-butter-2025/">I Tried Kerrygold&#8217;s New Cinnamon and Sugar Butter, and I Want to Eat It by the Stick</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kerrygold-cinnamon-sugar-butter-2025/>
+
+---
+
+## HOW THE IRISH USED TO COOK BEFORE OVENS – OPEN-FIRE, GRIDDLE, AND PIT-COOKING TECHNIQUES
+
+date: 2025-07-21, from: Irish Food Hub
+
+<p>Long before modern appliances entered the Irish kitchen, cooking was a matter of fire, stone, and ingenuity. We will now explore the ancient cooking techniques that sustained generations — from the flicker of the hearth to the smoky depths of pit ovens. Table of Contents The Hearth as the Heart of the Home The Griddle (Báicín): Flatbreads and Bannocks Earth Ovens and Pit Cooking Cauldrons, Spits, and Sospans Legacy of Fire-Cooked Flavour in Irish Cuisine Today The Hearth as the Heart of the Home In early Irish homes, the hearth was more than a place to cook — it was the spiritual and social center of domestic life. Positioned in the middle of the house or along a wall, the open hearth provided warmth, light, and nourishment. Cooking was done directly over the flames or in the hot embers, using tools and methods passed down for generations. Hearth Design and Materials The typical hearth was a stone or clay-lined pit, raised slightly to protect the floor. In many rural cottages, turf (peat) was the fuel of choice — slow-burning, aromatic, and abundantly available. Hardwood logs were used where available, but in the boggy western regions, turf ruled. Cooking Methods Around the Fire Suspended Pots: A pot crane (or crook) was often used to hang iron pots over the fire. This method was ideal for boiling soups, stews, or porridges. Hot Stone Cooking: Flat stones were placed in or near the embers to cook oatcakes, fish, or meat directly on the surface — a primitive but effective grill. Coal Baking: Dough wrapped in cabbage leaves or encased in clay was placed under the coals, allowing for slow, even baking. The Communal Nature of the Hearth Beyond sustenance, the hearth symbolized protection and community. Families gathered around it for warmth, storytelling, and prayer. It was considered sacred — in pre-Christian times, associated with the goddess Brigid, and later with Saint Brigid. The fire was never allowed to go out, as it was believed to bring blessings and keep evil at bay. Foods Commonly Cooked at the Hearth Daily meals reflected what was local and seasonal. Oat porridge, nettle broth, cabbage, and boiled barley were staples. Occasionally, fish or a joint of salted meat might be cooked when available. The diet was humble, but the methods coaxed out deep, smoky, and comforting flavors. Preserving the Tradition Today, heritage centers and folk villages across Ireland demonstrate these time-honored techniques, preserving the knowledge of a time when flame and patience were the only kitchen tools available. The hearth may be gone from modern homes, but its memory lives on in our stories — and our food. The Griddle (Báicín) – Flatbreads and Bannocks Before metal ovens were common, the Irish relied on a simple yet versatile cooking tool: the griddle, or báicín in Irish. This flat, round iron plate was placed directly over the open fire or rested on a tripod of stones. With no need for enclosed heat, the griddle offered a quick and efficient way to bake flatbreads, bannocks, and even early versions of soda bread. A Tool of Simplicity and Ingenuity The traditional Irish griddle was made from cast iron or thick wrought metal. It had no sides or lid — just a flat surface, slightly convex to allow fat or liquid to run off. Cooks controlled the heat by adjusting the griddle&#8217;s distance from the flame or by moving coals beneath it. Some households had griddles with detachable legs or handles, depending on the setup of the hearth. Flatbreads and Everyday Baking Without yeast or ovens, early Irish breads were typically unleavened or made with simple rising agents like sour milk and ash. Oats and barley were the main grains used, later joined by wheat when it became more available. Key griddle-baked breads included: Oatcakes: Thin, rustic rounds made from oats and water or buttermilk. These were quick to make and lasted well when dried. Bannocks: Thicker, round cakes cut into farls (quarters) and cooked on the griddle. Often made with barley or oatmeal and eaten warm with butter. Soda Farls: A later development, made from flour, baking soda, salt, and buttermilk — a precursor to modern soda bread. Techniques Passed Through Generations Women typically managed the griddle, developing a feel for when the heat was right and the dough was ready to flip. There was no timer or thermometer — just intuition, tradition, and practice. The smell of griddle bread browning on the fire was a familiar comfort in Irish cottages. Serving and Storing Breads were eaten fresh when possible, but could also be hung to dry for later use. A smear of homemade butter or a spoon of jam transformed a simple oatcake into a satisfying meal. In lean times, bread alone might have to serve as both breakfast and supper. The Griddle’s Legacy Though replaced by the oven in most homes, the griddle lives on in traditional Irish cookery. Some still use a cast iron pan or modern griddle to make soda farls and potato breads. The báicín remains a symbol of practical, nourishing food made with minimal resources and plenty of heart. Earth Ovens and Pit Cooking – The Ancient Art of Cooking Underground Long before metal cookware or masonry hearths, the Irish — like many ancient cultures — harnessed the earth itself as a cooking tool. Earth ovens, or pit ovens, were among the earliest and most effective methods for preparing food. These underground cooking pits, known in Irish as “poll cócaireachta,” made use of heated stones and insulating materials to slow-cook meat, fish, and root vegetables to tender perfection. How Pit Cooking Worked The basic method was deceptively simple and required minimal tools: A pit was dug into the earth, often lined with stones. A fire was built inside the pit to heat the stones for several hours. Once the stones were glowing hot, the embers were removed or spread out, and the food — wrapped in leaves, grass, or cloth — was placed</p>
+<p>The post <a href="https://irishfoodhub.com/irish-cooking-before-ovens-2/">HOW THE IRISH USED TO COOK BEFORE OVENS – OPEN-FIRE, GRIDDLE, AND PIT-COOKING TECHNIQUES</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/irish-cooking-before-ovens-2/>
+
+---
+
+## CASHEL BLUE AND APPLE TARTLETS
+
+date: 2025-07-21, from: Irish Food Hub
+
+<p>These Cashel Blue and Apple Tartlets bring together the tangy richness of Irish blue cheese and the natural sweetness of apples, all wrapped in buttery puff pastry. Perfect as a starter, elegant appetizer, or even a savory-sweet brunch treat, they celebrate the best of Irish artisan cheese in every bite. Preparation Time: 15 minutesCooking Time: 20 minutesServing Size: Makes 6 tartlets Ingredients 1 sheet of ready-rolled puff pastry (thawed if frozen) 1 large eating apple (e.g., Braeburn or Pink Lady), thinly sliced 100g Cashel Blue cheese, crumbled 1 tsp fresh thyme leaves (or ½ tsp dried thyme) 1 tbsp honey (optional, for drizzling) 1 egg, beaten (for egg wash) Instructions Preheat your oven to 200°C (400°F). Line a baking tray with parchment paper. Unroll the puff pastry and cut it into 6 equal rectangles or circles using a knife or pastry cutter. Place the pastry pieces on the prepared tray. Lightly score a border around each tartlet (about 1cm from the edge), being careful not to cut all the way through. Within each border, layer a few apple slices and top with crumbled Cashel Blue. Sprinkle with thyme leaves and lightly brush the pastry edges with the beaten egg. Bake for 18–20 minutes or until the pastry is puffed and golden and the cheese is bubbling. If desired, drizzle lightly with honey before serving warm. Serving Suggestions Serve with a fresh green salad and walnuts for a light lunch. Pair with a crisp white wine like Sauvignon Blanc or a chilled cider. Enjoy the Flavors of Ireland with Cashel Blue and Apple Tartlets!</p>
+<p>The post <a href="https://irishfoodhub.com/cashel-blue-and-apple-tartlets-copy/">CASHEL BLUE AND APPLE TARTLETS</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/cashel-blue-and-apple-tartlets-copy/>
+
+---
+
+## BARLEY SODA BREAD
+
+date: 2025-07-21, from: Irish Food Hub
+
+<p>This rustic barley soda bread is a hearty twist on the traditional Irish classic. Made with a blend of barley and wheat flours, it has a nutty flavor and dense crumb that&#8217;s perfect for slathering with butter, serving alongside soups, or enjoying with Irish cheese. Preparation Time: 10 minutesCooking Time: 40 minutesServing Size: Makes 1 loaf (serves 6–8) Ingredients 1 ½ cups (180g) barley flour 1 ½ cups (180g) all-purpose flour 1 tsp baking soda 1 tsp salt 1 ¾ cups (400ml) buttermilk, plus more if needed Instructions Preheat your oven to 425°F (220°C). Lightly flour a baking sheet or line it with parchment paper. In a large mixing bowl, combine the barley flour, all-purpose flour, baking soda, and salt. Pour in the buttermilk and stir just until a dough forms. If it&#8217;s too dry, add a little more buttermilk, one tablespoon at a time. Turn the dough onto a floured surface and gently shape it into a round loaf. Do not over-knead. Place the loaf on the prepared baking sheet. Use a sharp knife to cut a deep cross into the top—this helps the bread cook evenly. Bake for 35–40 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom. Cool on a wire rack before slicing. Serve warm or at room temperature. Tips If you don&#8217;t have buttermilk, mix 1 ¾ cups milk with 1 tbsp lemon juice or vinegar and let sit for 5 minutes. Try adding a tablespoon of honey or molasses for a hint of sweetness. Enjoy Your Homemade Barley Soda Bread!</p>
+<p>The post <a href="https://irishfoodhub.com/barley-soda-bread-recipe/">BARLEY SODA BREAD</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/barley-soda-bread-recipe/>
+
+---
+
+## Design Details: Warmth of Wood at Space Timefill Cafe in South Korea
+
+date: 2025-07-21, from: Daily Coffee News
+
+<div><img width="620" height="443" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-620x443.jpg" class="attachment-large size-large wp-post-image" alt="Space Timefill cafe South Korea 5" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-620x443.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-768x549.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/21/design-details-warmth-of-wood-at-space-timefill-cafe-in-south-korea/>
+
+---
+
+## Kazkara Coffee Roasters Adds Art to Craft in Greater Detroit
+
+date: 2025-07-21, from: Daily Coffee News
+
+<div><img width="620" height="537" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-620x537.jpg" class="attachment-large size-large wp-post-image" alt="Kazkara Coffee Roasters 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-620x537.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-300x260.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-150x130.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-768x665.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Kazkara Coffee Roasters recently celebrated the grand opening of its roastery cafe just outside of Detroit in Hazel Park, Michigan, where the company seeks to surround its carefully crafted... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/21/kazkara-coffee-roasters-adds-art-to-craft-in-greater-detroit/>
+
+---
+
+## Pickle de Gallo
+
+date: 2025-07-21, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/pickle-de-gallo/"><img title="pickle-de-gallo-small-7" src="https://www.isabeleats.com/wp-content/uploads/2025/07/pickle-de-gallo-small-7-400x600.jpg" alt="A tortilla chip being dunked into a bowl of pickle de gallo." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Pickle de gallo is a fresh, crunchy salsa featuring dill pickles, cucumbers, tomatoes, and tangy pickle brine. Perfect with chips&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/pickle-de-gallo/>
+
+---
+
+## Researchers Employ E-Nose to Trace Roasted Coffees Back to Origins
+
+date: 2025-07-21, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-620x414.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee aroma study" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Science has already determined that the very smell of coffee can make people smarter. Now, research from China is taking the knowledge of the nose even further, applying an e-nose... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/21/researchers-employ-e-nose-to-trace-roasted-coffees-back-to-origins/>
+
+---
+
+## The Sprudge Guide To Coffee In Okinawa, Japan
+
+date: 2025-07-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Okinawa, Japan. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-okinawa-japan-338633.html>
 
 ---
 
@@ -70,6 +190,20 @@ A slow-simmering, comforting braise delivering healing to both body and soul.
 <br> 
 
 <https://www.bonappetit.com/recipe/oxtail-guisado>
+
+---
+
+## Coffee Traders Race to Bring Coffee to the US and Beat Tariff Deadline
+
+date: 2025-07-21, from: The Fresh Cup
+
+<p>Coffee traders are scrambling to import as much coffee as they can to the United States by August 1st to avoid a potential 50% tariff. </p>
+<p>The post <a href="https://freshcup.com/coffee-traders-race-to-bring-coffee-to-the-us-and-beat-tariff-deadline/">Coffee Traders Race to Bring Coffee to the US and Beat Tariff Deadline</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-traders-race-to-bring-coffee-to-the-us-and-beat-tariff-deadline/>
 
 ---
 

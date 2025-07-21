@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-07-21 06:07:46
+updated: 2025-07-21 14:08:16
 ---
 
 # journalism
 
-(date: 2025-07-21 06:07:46)
+(date: 2025-07-21 14:08:16)
+
+---
+
+## Rising Artists: A variety of artists release songs of the summer for every type of listener
+
+date: 2025-07-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sun is rising and so are talented acts.
+As people look for something refreshing this summer, up-and-coming artists have the solution. With a variety of genres, from folk to rock, these new projects will make listeners want to claim their spot as OG fans. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/21/rising-artists-a-variety-of-artists-release-songs-of-the-summer-for-every-type-of-listener/>
 
 ---
 

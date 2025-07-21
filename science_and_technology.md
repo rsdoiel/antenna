@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-07-21 06:07:43
+updated: 2025-07-21 14:08:13
 ---
 
 # science and technology
 
-(date: 2025-07-21 06:07:43)
+(date: 2025-07-21 14:08:13)
+
+---
+
+## Another massive security snafu hits Microsoft, but don't expect it to stick
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Move along, nothing to see here</h4> <p><strong>comment</strong>  Here we go again. Another major Microsoft attack, with this one seeing someone — most likely government-backed hackers — exploiting a zero-day bug in SharePoint Server that Redmond failed to fix.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/massive_security_snafu_microsoft/>
+
+---
+
+## NASA’s SpaceX Crew-10 to Discuss Station Mission, Upcoming Return
+
+date: 2025-07-21, from: NASA breaking news
+
+Media are invited to hear from NASA’s SpaceX Crew-10 during a news conference beginning at 10:40 a.m. EDT, Friday, July 25, from the International Space Station. NASA astronauts Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov will discuss their upcoming return to Earth on the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-10-to-discuss-station-mission-upcoming-return/>
+
+---
+
+## Nvidia extends CUDA support to RISC-V just in time for next wave of Chinese CPUs
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>The prime beneficiary of the AI boom has global ambitions</h4> <p>Nvidia is officially bringing its CUDA software stack to RISC-V CPUs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/nvidia_cuda_riscv/>
+
+---
+
+## Humongous parachute for European Mars landing mission tested successfully
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>As US lawmakers wrangle over NASA’s stake in ExoMars, at least the chutes work</h4> <p><strong>video</strong>  The European Space Agency (ESA) conducted a successful parachute test for the ExoMars Mars landing rover earlier this month, even as uncertainty looms over US involvement in the project.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/esa_exomars_chute_test/>
+
+---
+
+## NASA Goddard Center Director Makenzie Lystrup Set to Depart
+
+date: 2025-07-21, from: NASA breaking news
+
+On Monday, NASA announced Dr. Makenzie Lystrup, director of NASA’s Goddard Space Flight Center in Greenbelt, Maryland, is set to leave the agency on Friday, Aug. 1. As center director of Goddard, a role she has held since April 2023, Lystrup also was responsible for guiding the direction and management of multiple other NASA field [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-goddard-center-director-makenzie-lystrup-set-to-depart/>
+
+---
+
+## NASA veteran warns Hubble faces death by a hundred cuts
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Former astronaut laments software shutdowns, staff reductions amid ongoing budget squeeze</h4> <p><strong>Interview</strong>  &#34;I would say I&#39;m cautiously optimistic, but that probably overstates how I&#39;m feeling.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/hubble_astronaut_budget_fears/>
+
+---
+
+## NASA Shares How to Save Camera 370-Million-Miles Away Near Jupiter
+
+date: 2025-07-21, from: NASA breaking news
+
+An experimental technique rescued a camera aboard the agency’s Juno spacecraft, offering lessons that will benefit other space systems that experience high radiation. The mission team of NASA’s Jupiter-orbiting Juno spacecraft executed a deep-space move in December 2023 to repair its JunoCam imager to capture photos of the Jovian moon Io. Results from the long-distance [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/juno/nasa-shares-how-to-save-camera-370-million-miles-away-near-jupiter/>
+
+---
+
+## GLOBE-Trotting Science Lands in Chesapeake with NASA eClips
+
+date: 2025-07-21, from: NASA breaking news
+
+On June 16-17, 2025, 50 students at Camp Young in Chesapeake, Virginia traded their usual summer routines for microscopes. The NASA eClips team from the National Institute of Aerospace Center for Integrative STEM Education (NIA-CISE) taught two engaging lessons focused on macroinvertebrates and plankton, with a surprising star of the show – mosquitoes! Camp Young, […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/globe-trotting-science-lands-in-chesapeake-with-nasa-eclips/>
+
+---
+
+## I just deleted my entire social media presence before visiting the US – and I'm a citizen
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>In 2025, social media has moved from self-expression to self-entrapment</h4> <p><strong>Column</strong>  We don&#39;t want to believe what we deeply understand: nothing is really deleted, and someone, somewhere can (and probably will) use that record against us.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/column_social_media_entrapment/>
+
+---
+
+## The Day Earth Smiled
+
+date: 2025-07-21, from: NASA breaking news
+
+On July 19, 2013, NASA’s Cassini spacecraft had a rare opportunity to image Saturn and, far in the background, Earth. This image spans about 404,880 miles (651,591 kilometers) across. With the Sun&#8217;s powerful and potentially damaging rays eclipsed by Saturn itself, Cassini&#8217;s onboard cameras were able to take advantage of this unique viewing geometry. They [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/the-day-earth-smiled/>
+
+---
+
+## Clear Linux OS terminated as Intel trims the fat
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Chipmaker halts updates and support, urges users to migrate immediately</h4> <p>Intel has abruptly killed off Clear Linux OS, ending Chipzilla&#39;s decade-long adventure in this part of the Linux world.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/intel_clear_linux_dead/>
+
+---
+
+## 5 Things to Know About Powerful New U.S.-India Satellite, NISAR
+
+date: 2025-07-21, from: NASA breaking news
+
+Lee esta historia en español aquí. Data from NISAR will map changes to Earth’s surface, helping improve crop management, natural hazard monitoring, and tracking of sea ice and glaciers. A new U.S.-India satellite called NISAR (NASA-ISRO Synthetic Aperture Radar) will provide high-resolution data enabling scientists to comprehensively monitor the planet’s land and ice surfaces like never [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nisar/5-things-to-know-about-powerful-new-u-s-india-satellite-nisar/>
+
+---
+
+## Vintage computing boffin releases expansive Intel 286 test suite
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>A desire for cycle accuracy results in 32 million recorded CPU states derived entirely from original hardware</h4> <p>The developer of MartyPC, an emulator for vintage Intel-compatible hardware that targets cycle accuracy, has released a test suite for Intel&#39;s classic 80286 processor and compatibles – created, in a fit of raw enthusiasm and hyperfocus, by single-stepping a physical chip from the mid-1980s through the execution of almost 1.5 million instructions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/intel_286_test_suite/>
+
+---
+
+## AWS slaps usage caps on Kiro as AI editor preview proves too popular for its own good
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>&#39;Actually not terrible&#39; says industry watcher Corey Quinn – but pricing plans have disappeared</h4> <p>AWS has introduced daily usage limits and a user waitlist for Kiro, its preview spec-driven AI editor, citing unexpectedly high demand as it works to scale the system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/aws_kiro_usage_cap/>
+
+---
+
+## AI Comes Up with Bizarre Physics Experiments. But They Work.
+
+date: 2025-07-21, from: Quanta Magazine
+
+Artificial intelligence software is designing novel experimental protocols that improve upon the work of human physicists, although the humans are still “doing a lot of baby-sitting.”            <p>The post <a href="https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/" target="_blank">AI Comes Up with Bizarre Physics Experiments. But They Work.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/>
+
+---
+
+## Please, FOSS world, we need something like ChromeOS
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>The End of Windows 10 is looming. The world needs a simpler, easy, quick, snackable alternative</h4> <p><strong>Comment</strong>  Dear Santa. For <a target="_blank" href="https://www.theregister.com/2025/02/05/windows_10_esu_program/">Windows-10-end-of-support-day</a> in October, please may we have a dead simple bulletproof all-free OS that gets old PCs online without a Google account, and does nothing else?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/foss_chromeos_please/>
+
+---
+
+## Radio geeks reveal how to access crucial hurricane data after US Department of Defense cut it off
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Hams for the win: Amateur-built decoder taps SSMIS satellite data amid NOAA cutoff</h4> <p>With the National Oceanic and Atmospheric Administration (NOAA) set to shut down a key satellite data stream used in US hurricane forecasting, a group of amateur radio enthusiasts has stepped in with a decoder they say could fill the gap.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/ssmis_satellite_decoder/>
 
 ---
 

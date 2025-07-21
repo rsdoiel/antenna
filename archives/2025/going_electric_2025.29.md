@@ -1,11 +1,148 @@
 ---
 title: going electric
-updated: 2025-07-21 06:07:49
+updated: 2025-07-21 14:08:18
 ---
 
 # going electric
 
-(date: 2025-07-21 06:07:49)
+(date: 2025-07-21 14:08:18)
+
+---
+
+## BYD has a new ultra-luxury EV brand headed for Europe
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/BYD-ultra-luxury-EV-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ferrari and Porsche will soon have company. <a href="https://electrek.co/guides/byd/">BYD </a>just confirmed plans to launch Yangwang, its ultra-luxury EV brand, in Europe. It will be the first Chinese brand to enter Europe’s most elite segment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-yangwang" data-layer-viewtype="unknown" data-post-id="426093" href="https://electrek.co/2025/07/21/byd-has-new-ultra-luxury-ev-brand-headed-for-europe/#more-426093" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/byd-has-new-ultra-luxury-ev-brand-headed-for-europe/>
+
+---
+
+## Protecting Yourself from Home Energy Rebate and Building Scams 
+
+date: 2025-07-21, from: California Energy Blog
+
+By MPCO Staff Scams pose a major threat to Californians who are searching for trusted contractors to do their home retrofit projects.... 
+
+<br> 
+
+<https://www.calenergyblog.com/post/protecting-yourself-from-home-energy-rebate-and-building-scams>
+
+---
+
+## Anker PowerCore Reserve station $88, Schumacher’s new portable level 1 EV charger $130, Aiper IrriSense system $100 off, more
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Anker-PowerCore-Reserve-192Wh-power-station-2.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>This week’s Green Deals are starting with <a href="https://9to5toys.com/2025/07/21/anker-powercore-reserve-station-88/">Anker’s PowerCore Reserve 60,000mAh Power Station down at $88</a> for all your device-charging needs. Next, we have <a href="https://9to5toys.com/2025/07/21/schumacher-level-1-portable-ev-charger-130/">Schumacher’s new SEV1670 12A Level 1 Portable EV Charger</a> at its second-best rate of <a href="https://9to5toys.com/2025/07/21/schumacher-level-1-portable-ev-charger-130/">$130</a>, as well as <a href="https://9to5toys.com/2025/07/21/aiper-irrisense-smart-irrigation-system-600/">Aiper’s new IrriSense Smart Irrigation System</a> getting second-ever savings to <a href="https://9to5toys.com/2025/07/21/aiper-irrisense-smart-irrigation-system-600/">$600</a>, which is where it was priced during Prime Day. We also have Hoverfly’s H3 16-inch Folding e-bikes getting add-on accessory bundles and a new one-day-only low price on Greenworks’ pro-grade 3,000 PSI Electric Pressure Washer waiting for you below. Plus, there’s all the hangover savings from last week at the bottom of the page, collected together within our <a href="https://9to5toys.com/2025/07/19/electrified-weekly-aventon-level-2-commuter-1399-velotric-breeze-1-e-bike-bundle-ecoflow-delta-pro-ultra-at-exclusive-new-3761-low-more/">Electrified Weekly roundup</a>.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="426069" href="https://electrek.co/2025/07/21/anker-powercore-reserve-station-schumacher-aiper-more/#more-426069" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/anker-powercore-reserve-station-schumacher-aiper-more/>
+
+---
+
+## Hyundai goes on a ‘full-scale attack’ with its big three-row EV
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-three-row-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is gearing up to go on a “full-scale attack” as it ramps up exports of its new flagship three-row EV. The <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> is now rolling out in the US, South Korea, and Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="426067" href="https://electrek.co/2025/07/21/hyundai-goes-on-full-scale-attack-with-big-three-row-ev/#more-426067" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/hyundai-goes-on-full-scale-attack-with-big-three-row-ev/>
+
+---
+
+## Another luxury automaker is slashing EV prices with over $15,000 in discounts
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/automaker-cuts-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another luxury automaker is offering over $15,000 in discounts on its newest EV models. However, you may have a hard time getting your hands on one of them.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="426053" href="https://electrek.co/2025/07/21/another-automaker-cuts-ev-prices-offering-15000-in-discounts/#more-426053" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/another-automaker-cuts-ev-prices-offering-15000-in-discounts/>
+
+---
+
+## Even Affordable EVs Are Getting Solid-State Batteries Now
+
+date: 2025-07-21, from: Inside EVs News
+
+The MG4 will be the world’s first mass-market affordable electric car to be powered by a semi-solid-state battery. But you can’t have it.
+ 
+
+<br> 
+
+<https://insideevs.com/news/766509/affordable-ev-solid-state-battery-mg4-china/>
+
+---
+
+## Tesla (TSLA) might lose its right to sell cars in California amid false advertising lawsuit
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) might lose its license to sell cars in California amid false advertising lawsuit brought by the California DMV, which is looking to suspend Tesla’s right to sell cars in the US’ biggest EV market for 30 days.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426052" href="https://electrek.co/2025/07/21/tesla-tsla-might-lose-right-sell-cars-california-false-advertising-lawsuit/#more-426052" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/tesla-tsla-might-lose-right-sell-cars-california-false-advertising-lawsuit/>
+
+---
+
+## The Auto Industry Can’t Catch A Break—And It’s Only Getting Worse
+
+date: 2025-07-21, from: Inside EVs News
+
+Tariffs are in, the EV tax credit is out, regulations are weird, and nobody in America's car industry can truly say what's coming next. 
+
+<br> 
+
+<https://insideevs.com/news/766513/auto-industry-tariffs-ev-tax-credit-cm/>
+
+---
+
+## This $11,000 Chinese EV with semi-solid state batteries is about shake up the industry
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Chinese-EV-solid-state-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An electric vehicle powered by <a href="https://electrek.co/guides/solid-state-batteries/">semi-solid state batteries</a> for around $11,000? Sounds like a game changer. This Chinese automaker claims to be launching the first mass-market EV sold globally with new semi-solid state batteries.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mg,solid-state-batteries" data-layer-viewtype="unknown" data-post-id="426032" href="https://electrek.co/2025/07/21/11000-chinese-ev-with-solid-state-batteries-coming-soon/#more-426032" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/11000-chinese-ev-with-solid-state-batteries-coming-soon/>
 
 ---
 
@@ -22,6 +159,18 @@ date: 2025-07-21, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/07/21/inmotion-launches-50-mph-commuter-electric-scooter-would-you-ride-it/>
+
+---
+
+## Ford F-150 Lightning Review After Three Years Of Ownership: It’s Complicated
+
+date: 2025-07-21, from: Inside EVs News
+
+It’s still a great electric pickup, despite longer-range competitors showing up. But it’s not the best Ford F-150 model you can buy. 
+
+<br> 
+
+<https://insideevs.com/news/766491/ford-f-150-lightning-owner-review-3-years/>
 
 ---
 
@@ -66,6 +215,18 @@ Free upgrades, 0% financing, free Supercharging, and more. It’s all there to t
 <br> 
 
 <https://insideevs.com/news/766458/tesla-free-fsd-transfer-supercharging-offers-2025/>
+
+---
+
+## Tesla Goes On An Offer Spree To Regain Lost Sales
+
+date: 2025-07-21, from: Inside EVs News
+
+Free upgrades, 0% financing, free Supercharging, and more. It’s all there to try and get those sales numbers up. 
+
+<br> 
+
+<https://insideevs.com/news/766458/tesla-offers-discounts-july-2025/>
 
 ---
 

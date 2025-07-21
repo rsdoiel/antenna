@@ -1,11 +1,194 @@
 ---
 title: pacific
-updated: 2025-07-21 06:07:42
+updated: 2025-07-21 14:08:12
 ---
 
 # pacific
 
-(date: 2025-07-21 06:07:42)
+(date: 2025-07-21 14:08:12)
+
+---
+
+## More ecological diversity means better nutritional resources in Fiji’s agroforests
+
+date: 2025-07-21, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers found that more diverse agroforests in Fiji also offer richer nutritional benefits for local communities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/21/more-ecological-diversity-better-nutrition/">More ecological diversity means better nutritional resources in Fiji’s agroforests</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/21/more-ecological-diversity-better-nutrition/>
+
+---
+
+## Rugby league: Siosiua Taukeiaho puts hand up for Tonga
+
+date: 2025-07-21, from: 
+
+The forrmer Mate Ma'a Tonga player has revealed he wants to have another shot with the Tongan national rugby league team. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567620/rugby-league-siosiua-taukeiaho-puts-hand-up-for-tonga>
+
+---
+
+## Flying Fijians coach 'really annoyed' by PNC prep time, squad limits
+
+date: 2025-07-21, from: 
+
+Mick Byrne says short preparation time and smaller squads in the Pacific Nations Cup are two key issues that continue to affect Fiji, Samoa and Tonga. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567612/flying-fijians-coach-really-annoyed-by-pnc-prep-time-squad-limits>
+
+---
+
+## Pacific security and health leaders pledge cooperation
+
+date: 2025-07-21, from: 
+
+But public health experts say that law enforcement are undermining efforts to combat the drug-driven spread of HIV in Fiji, putting the wider region at risk. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567611/pacific-security-and-health-leaders-pledge-cooperation>
+
+---
+
+## Danger on the Roads INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-07-21, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Lola Irvin,  Administrator, DOH Chronic Disease Prevention and Health Promotion Division Mark Garrity, Executive Director, O‘ahu Metropolitan Planning Organization Ed Sniffen, State Director of Transportation Major James [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/danger-on-the-roads-insights-on-pbs-hawai%ca%bbi/">Danger on the Roads &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/danger-on-the-roads-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Training focuses on building communication skills for workplace
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+(SCC) — The clock is ticking! With just three days remaining, the Saipan Chamber of Commerce  invites professionals, managers, and team members to its 3rd Quarter Professional Development Training: 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/training-focuses-on-building-communication-skills-for-workplace/article_2e9e95b8-11d2-4825-bfb3-611b96fee16b.html>
+
+---
+
+## Roll over Beethoven: Remote highway plays Ode to Joy
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+FUJAIRAH, United Arab Emirates (Reuters) — No radio? No problem. The emirate of Fujairah has installed rumble strips along a 750-meter (half-mile) stretch of highway that play the Ode to Joy melody from Ludwig van Beethoven's Ninth Symphony as cars roll over — part of a project to integrate music into daily life. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/roll-over-beethoven-remote-highway-plays-ode-to-joy/article_08a6a0b0-1104-4509-ada7-90f56e6b38bf.html>
+
+---
+
+## Shares steady, yen up as markets unfazed by Japanese politics
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+SYDNEY/LONDON (Reuters) — European shares held steady and the yen firmed on Monday, as markets shrugged off the Japanese ruling coalition's defeat in upper house weekend elections and turned to focus on this week's U.S. tech earnings and European Central Bank policy meeting. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/shares-steady-yen-up-as-markets-unfazed-by-japanese-politics/article_26025261-5e3a-463b-b707-c312abd35b63.html>
+
+---
+
+## Saipan Community School  receives WASC accreditation
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+(SCS) —  Saipan Community School has been granted accreditation status by the Accrediting Commission for Schools, Western Association of Schools and Colleges. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-community-school-receives-wasc-accreditation/article_de44ef1c-f327-4c72-80fd-6806dc79d97e.html>
+
+---
+
+## Poetry
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_ea0b625d-8896-46fd-8ffe-e1c624c9ba0b.html>
+
+---
+
+## Crowne Plaza Resort Saipan honors local talent in ‘Artist of the Summer’ Art Contest
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+(Special Advertising Feature) —  Crowne Plaza Resort Saipan proudly announces the winners of its “Artist of the Summer” art competition, a cultural initiative celebrating the indigenous culture of the CNMI through local artistry. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/crowne-plaza-resort-saipan-honors-local-talent-in-artist-of-the-summer-art-contest/article_6bd8734b-a44d-4e44-8e24-b3eeac1bdf99.html>
+
+---
+
+## ‘Sachang’ charged with burglary and theft
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+FOLLOWING his arrest for vandalizing the BankPacific ATM last week, Olngeschang Mengidab, also known as “Sachang,” is now being accused of burglarizing a vehicle and stealing a wallet containing a debit card, which he then used to make purchases. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/sachang-charged-with-burglary-and-theft/article_0e4f9be5-e8a3-4141-8503-67c70d8e790c.html>
+
+---
+
+## King-Hinds reviews feedback on workforce plan
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+THE office of U.S. Congresswoman Kimberlyn King-Hinds is reviewing the input gathered from community organizations and government agencies on the framework she prepared to stabilize the CNMI workforce while taking the next steps on the islands’ immigration transition period. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-reviews-feedback-on-workforce-plan/article_c93e4ccd-40d8-4aa3-80b5-925f7eb9e6c2.html>
+
+---
+
+## REFORPAC Community Day draws hundreds of Saipan residents
+
+date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
+
+THE Resolute Force Pacific 2025 Community Day drew hundreds of Saipan residents on Monday, showcasing several U.S. Air Force aircraft participating in large-scale military rehearsals in the Indo-Pacific. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/reforpac-community-day-draws-hundreds-of-saipan-residents/article_9168f669-594e-42aa-9023-95167f3e3b0a.html>
 
 ---
 
@@ -220,6 +403,20 @@ Kimberlyn King-Hinds has formally asked the US Treasury to clarify how federal t
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/567564/cnmi-s-delegate-seeks-clarification-from-us-treasury-on-use-of-federal-tax-revenues>
+
+---
+
+## USP attains WSCUC Re-Accreditation
+
+date: 2025-07-21, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) is proud to announce it has been successfully...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-attains-wscuc-re-accreditation/">USP attains WSCUC Re-Accreditation</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-attains-wscuc-re-accreditation/>
 
 ---
 

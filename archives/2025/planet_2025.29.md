@@ -1,19 +1,207 @@
 ---
 title: planet
-updated: 2025-07-21 06:07:38
+updated: 2025-07-21 14:08:10
 ---
 
 # planet
 
-(date: 2025-07-21 06:07:38)
+(date: 2025-07-21 14:08:10)
 
 ---
 
-## State concludes evidence in assault case against Gilligan
+## George Gibney expected in Ireland as early as tomorrow
 
 date: 2025-07-21, from: RTÉ News
 
-The State has concluded its case against former All-Ireland winning hurler Niall Gilligan in which he is accused of assaulting a then 12-year-old boy with a stick in October 2023. 
+Former national and Olympic swimming coach George Gibney is expected to return to Ireland as early as tomorrow to face 79 sexual abuse charges. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0721/1524624-george-gibney/>
+
+---
+
+## Couple's date to cave like 'Hollywood movie' amid floods
+
+date: 2025-07-21, from: RTÉ News
+
+A couple's "surprise" date at Marble Arch Caves in Co Fermanagh became like a "Hollywood movie" when extremely heavy rainfall resulted in a flash flood yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0721/1524609-caves-fermanagh-flooding/>
+
+---
+
+## Podcast: Will Dublin's Metrolink ever be built?
+
+date: 2025-07-21, from: RTÉ News
+
+There will be challenges ahead trying to encourage companies to bid for the construction of Metrolink - one of the biggest projects the State has embarked on. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0721/1524607-podcast-will-dublins-metrolink-ever-be-built/>
+
+---
+
+## UK sanctions 135 oil tankers in Russia's shadow fleet
+
+date: 2025-07-21, from: RTÉ News
+
+The UK has placed sanctions on 135 oil tankers in Russia's shadow fleet in a bid to disrupt the flow of money helping Moscow fund the war in Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0721/1524610-uk-russia-sanctions/>
+
+---
+
+## Ministers condemn 'inhumane killing of civilians' in Gaza
+
+date: 2025-07-21, from: RTÉ News
+
+A joint statement from the foreign ministers of 26 countries, including Ireland, has condemned what it called the "drip feeding of aid and the inhumane killing of civilians" in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0721/1524601-foreign-ministers-gaza/>
+
+---
+
+## Father of Montreal girl who was found dead in N.Y. charged with 2nd-degree murder
+
+date: 2025-07-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7590317.1753126865!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/melina-frattolin.jpeg' alt='Photo of a little girl.' width='620' height='349' title='New York State Police are investigating the death of a nine-year-old girl from Canada whose father reported her missing on Saturday night. Melina Frattolin was found dead near the New York-Vermont border on Sunday.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/missing-canadian-girl-found-dead-new-york-1.7589787?cmp=rss>
+
+---
+
+## 18 die in South Korea floods as storms hits China
+
+date: 2025-07-21, from: RTÉ News
+
+Severe weather in South Korea has eased following days of torrential rain that triggered floods and landslides and left at least 18 people dead. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0721/1524597-asia-weather/>
+
+---
+
+## When a phone call becomes a prayer
+
+date: 2025-07-21, from: Vatican News
+
+
+                    <p>A conversation between Pope Leo XIV and astronaut Buzz Aldrin, on the 56th anniversary of 56 the Moon landing, becomes a moment of prayer. The Prefect of the Dicastery for Communication reflects on how it underscores the sacredness of each and every life and the urgent call for peace in a world torn by war.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-call-buzz-aldrin-creation-war-peace-prayer.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-call-buzz-aldrin-creation-war-peace-prayer.html>
+
+---
+
+## More time for doctor's plea in M6 dangerous driving case
+
+date: 2025-07-21, from: RTÉ News
+
+A judge has granted a doctor accused of dangerous driving causing the death of his six-year-old daughter on the M6 motorway in Co Westmeath last year more time to decide his plea. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0721/1524577-dangerous-driving-case/>
+
+---
+
+## Father says Dillon Quirke was on Tipp players' shoulders
+
+date: 2025-07-21, from: RTÉ News
+
+The father of late Tipperary player Dillon Quirke has said that he was "on their shoulders yesterday" at Croke Park as they won the All-Ireland Senior Hurling Championship Final. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0721/1524573-dillon-quirke-tributes/>
+
+---
+
+## New Custodian of the Holy Land arrives in Jerusalem
+
+date: 2025-07-21, from: Vatican News
+
+
+                    <p>“Ours is not just a custody of holy places, but a living pastoral presence alongside the Christians of this land. ” Words of Franciscan Fr. Francesco Ielpo who at the Church of the Holy Saviour made his official entry into Jerusalem. “The Custody,” he says, “is not the custodian, but the dedication, hard work, and talents of the more than 300 friars who make it up and live it.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/new-custodian-of-the-holy-land-arrives-in-jerusalem.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/new-custodian-of-the-holy-land-arrives-in-jerusalem.html>
+
+---
+
+## The Cosby Show star Malcolm-Jamal Warner dead at 54 after accidental drowning
+
+date: 2025-07-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7590150.1753119072!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/malcolm-jamal-warner-2023.jpg' alt='A bearded man, with a black high-top haircut and wearing a black suit, smiles as he poses for a photo.' width='620' height='349' title='Malcolm-Jamal Warner arrives at the Black Music Collective on Thursday, Feb. 2, 2023, at The Hollywood Palladium in Los Angeles. '/><p>Malcolm-Jamal Warner, best known for playing Bill Cosby's son on the hit NBC sitcom The Cosby Show, has died at the age of 54, in an accidental drowning while on holiday with his family in Central America.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/malcolm-jamal-warner-obituary-1.7590147?cmp=rss>
+
+---
+
+## Teenager killed in crash between car and truck in Co Cork
+
+date: 2025-07-21, from: RTÉ News
+
+A 19-year-old man has died following a two-vehicle crash in Co Cork this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0721/1524579-fatal-rta-cork/>
+
+---
+
+## Astronomers witness newborn planet sculpting the dust around it
+
+date: 2025-07-21, from: Vatican Obervatory
+
+Astronomers may have caught a still-forming planet in action, carving out an intricate pattern in the gas and dust that surrounds its young host star. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/astronomers-witness-newborn-planet-sculpting-the-dust-around-it/>
+
+---
+
+## Husband sentenced to life for murder of Anna Mooney
+
+date: 2025-07-21, from: RTÉ News
+
+A 53-year-old man has been sentenced to life in prison for the murder of his wife in Dublin two years ago after gardaí found footage of the incident on a mobile phone he had set up to spy on her. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0721/1524571-dublin-murder/>
+
+---
+
+## Closing arguments made in assault case against Gilligan
+
+date: 2025-07-21, from: RTÉ News
+
+Former All-Star and Clare All-Ireland winning hurler Niall Gilligan "lost it" when he hit a then 12-year-old boy "multiple times" with a stick, Ennis Circuit Court has heard. 
 
 <br> 
 
@@ -25,11 +213,83 @@ The State has concluded its case against former All-Ireland winning hurler Niall
 
 date: 2025-07-21, from: RTÉ News
 
-A convicted killer with no legitimate income who was also involved in the Limerick gang feuds spent over €100,000 renovating his home in Limerick. 
+A convicted killer with no legitimate income who was also involved in the Limerick gang feuds spent over €100,000 renovating his home in the city. 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0721/1524543-convicted-killer-pleads-guilty-to-money-laundering/>
+
+---
+
+## Gaza: Guterres condemns killing of people seeking food as humanitarian conditions deteriorate
+
+date: 2025-07-21, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres is appalled by the accelerating breakdown of humanitarian conditions in Gaza, where the last lifelines keeping people alive are collapsing, his Spokesperson said on Monday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165451>
+
+---
+
+## Dreams amid the rubble: Gaza’s women speak of homes, loss and hungry children
+
+date: 2025-07-21, from: United Nations, Top Stories
+
+Hadriya collapses from hunger, Khadija dreams of her kitchen and Hiyam longs for her daughters’ laughter in the garden – these are the stories of three women from Gaza who embody the daily struggles of mothers exhausted by war, hunger and displacement as the nearly two-year-long conflict continues. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165450>
+
+---
+
+## Salvaging SDGs still possible, but countries must act now: Guterres
+
+date: 2025-07-21, from: United Nations, Economic Development
+
+Citing new global agreements on pandemic preparedness, ocean protection and development financing, UN Secretary‑General António Guterres said on Monday that recent “signs of momentum” show multilateralism can still deliver. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165449>
+
+---
+
+## Droughts are causing record devastation worldwide, UN-backed report reveals
+
+date: 2025-07-21, from: United Nations, Climate Change
+
+Worldwide, some of the most widespread and damaging drought events in recorded history have occurred in recent years due to climate change and resource depletion.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165447>
+
+---
+
+## Effective partnerships can stop the next pandemic
+
+date: 2025-07-21, from: United Nations, Top Stories
+
+“There will be another pandemic, and it will not be 100 years from now.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165444>
+
+---
+
+## Terror and chaos for Gaza’s people now entering the ‘death phase’
+
+date: 2025-07-21, from: United Nations, Top Stories
+
+After another deadly weekend in Gaza in which at least 67 Palestinians were reportedly killed seeking food, UN aid teams on Monday described “mayhem” and starvation in the enclave as the Israeli military pushed into Deir Al-Balah for the first time.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165443>
 
 ---
 
@@ -42,6 +302,18 @@ At least 19 people were killed as a Bangladesh air force training aircraft crash
 <br> 
 
 <https://www.rte.ie/news/world/2025/0721/1524535-bangladesh-plane-crash/>
+
+---
+
+## At least 20 killed as Bangladesh fighter jet crashes
+
+date: 2025-07-21, from: RTÉ News
+
+A Bangladeshi fighter jet crashed into a school in the capital, Dhaka, today, killing at least 20 people and injuring more than 170 in the country's deadliest aviation accident in decades. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0721/1524535-bangladesh-jet-crash/>
 
 ---
 
@@ -61,6 +333,22 @@ date: 2025-07-21, from: Vatican News
 
 ---
 
+## Another round of Ukraine-Russia peace talks could be in the works
+
+date: 2025-07-21, from: Vatican News
+
+
+                    <p>As the United Nations reports that June 2025 was the most-deadly month for civilians in Ukraine since February 2022, and after negotiations stalled between the two countries in early June, Ukraine proposes new peace talks to end the conflict.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/another-round-of-ukraine-russia-peace-talks-could-be-in-works.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/another-round-of-ukraine-russia-peace-talks-could-be-in-works.html>
+
+---
+
 ## EU explores plans as prospect of US tariff deal fades
 
 date: 2025-07-21, from: RTÉ News
@@ -73,7 +361,19 @@ The European Union is exploring a broader set of possible counter-measures again
 
 ---
 
-## Witnesses report Israeli shelling in Deir al-Balah
+## EU explores plans as prospect of US tariff deal fades
+
+date: 2025-07-21, from: RTÉ News
+
+The European Union is exploring a broader set of possible counter-measures against the United States as prospects for an acceptable trade agreement with Washington fade, according to EU diplomats. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0721/1524523-eu-tariffs-us/>
+
+---
+
+## As it happened: Israel rejects ministers' statement
 
 date: 2025-07-21, from: RTÉ News
 
@@ -146,11 +446,11 @@ date: 2025-07-21, from: Vatican News
 
 ---
 
-## Tipperary team set for Thurles homecoming after final win
+## 'Stuff of dreams' as Tipp team greeted by 45,000 fans
 
 date: 2025-07-21, from: RTÉ News
 
-Tipperary fans will welcome their All-Ireland senior hurling champions home to Thurles this afternoon after their triumph over Cork in yesterday's final. 
+Excitement was at fever pitch in Co Tipperary for the homecoming of the newly-crowned All-Ireland Hurling champions. 
 
 <br> 
 
@@ -170,6 +470,18 @@ Syrian authorities have evacuated Bedouin families from the Druze-majority city 
 
 ---
 
+## At least 19 killed after Bangladesh air force plane crashes into college campus
+
+date: 2025-07-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589831.1753098101!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/bangladesh-crash.JPG' alt='Firefighters and army members work next to the wreckage of an aircraft.' width='620' height='349' title='Firefighters and army members work next to the wreckage of an air force training aircraft after it crashed into Milestone College campus, in Dhaka, Bangladesh, July 21, 2025. REUTERS/Stringer'/><p>At least 19 people were killed and 164 injured as a Bangladesh air force training jet crashed into a college and school campus in the capital Dhaka on Monday after experiencing a technical problem shortly after take-off, a military spokesperson said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/bangladesh-air-force-plane-crash-college-campus-1.7589830?cmp=rss>
+
+---
+
 ## Coastal erosion threatening Ireland's ancient forts
 
 date: 2025-07-21, from: RTÉ News
@@ -179,6 +491,18 @@ Climate change is threatening the remains of hundreds of ancient forts dotted ar
 <br> 
 
 <https://www.rte.ie/news/munster/2025/0721/1524474-climate-archaeology/>
+
+---
+
+## Watchdog suggests review of how RCMP interact with Indigenous people, mental health calls
+
+date: 2025-07-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7166436.1752872804!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-bc-20230316-stock-generic-logo.jpg' alt='The RCMP logo is seen outside the force&apos;s &apos;E&apos; division headquarters in Surrey, B.C., on Thursday, March 16, 2023. ' width='620' height='349' title='Mounties in northern British Columbia are asking for any information about a head-on crash that killed two teenagers and seriously injured another man. '/><p>B.C.'s Independent Investigations Office is recommending changes to how police interact with Indigenous people, as well as people experiencing a mental health crisis, in the wake of an investigation into RCMP actions during an incident three years ago that left a Williams Lake man dead. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/iio-report-williams-lake-death-rcmp-indigenous-people-mental-health-review-crcc-1.7588718?cmp=rss>
 
 ---
 
@@ -194,15 +518,39 @@ A man in his 60s has died and a woman was injured in a house fire in Co Cork in 
 
 ---
 
-## One killed after Russia launches drone attack - Ukraine
+## Man in his 60s dies in Cork house fire, woman injured
 
 date: 2025-07-21, from: RTÉ News
 
-At least one person was killed in Kyiv as Russia launched 426 drones and 24 missiles in an overnight air attack on Ukraine, according to officials. 
+A 62-year-old man who died in a house fire in Co Cork was master brewer at Franciscan Well Brewery in the city. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0721/1524489-hollyhill-cork-fire/>
+
+---
+
+## New Russia-Ukraine talks set for Wednesday - Zelensky
+
+date: 2025-07-21, from: RTÉ News
+
+Russia and Ukraine will hold new peace talks on Wednesday as a follow-up to two rounds in Istanbul that made little progress on ending their war, President Volodymyr Zelensky announced. 
 
 <br> 
 
 <https://www.rte.ie/news/ukraine/2025/0721/1524478-ukraine-russia-drones/>
+
+---
+
+## Japan PM Ishiba vows to stay on after party loses majority in upper house election
+
+date: 2025-07-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589823.1753092045!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2225340849.jpg' alt='A cleanshaven, bespectacled older Asian man wearing suit and tie speaks into a microphone at a podium.' width='620' height='349' title='TOKYO, JAPAN - JULY 21: Japan&apos;s Prime Minister Shigeru Ishiba attends a press conference at the Liberal Democratic Party (LDP) headquarters on July 21, 2025 in Tokyo, Japan. The press conference is held the day after the prime minister&apos;s coalition lost its upper house majority. (Photo by Philip Fong - Pool/ Getty Images)'/><p>Japanese Prime Minister Shigeru Ishiba vowed to remain in office on Monday after his ruling coalition suffered a bruising defeat in upper house elections, as the opposition weighed a no-confidence motion.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/japan-house-election-aftermath-1.7589821?cmp=rss>
 
 ---
 
@@ -258,6 +606,30 @@ Ryanair's net profit more than doubled in its April-June quarter, thanks to the 
 
 ---
 
+## How wildfires are disrupting traplines and raising questions in northwest Sask.
+
+date: 2025-07-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7589050.1752874381!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/n-14-fur-block.jpg' alt='An aerial view of a lush forest and waterways.' width='620' height='349' title='Views of the landscape in the 22,000 square kilometres of boreal forest around Île-à-la-Crosse that the Sakitawak IPCA hoped to protect until the project lost funding.'/><p>Wildfires are roaring through forest habitats in the province's northwest, including an important trapping region that was partially burned just two years ago.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/wildfires-trapping-saskatchewan-1.7588732?cmp=rss>
+
+---
+
+## She's fought for clean water for years and fears proposed Ontario permit changes will hurt First Nations
+
+date: 2025-07-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7588716.1752862071!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/makasa-looking-horse-henry.jpg' alt='Photo of a woman on a dock' width='620' height='349' title='Makasa Looking Horse Henry says she&apos;s concerned Ontario&apos;s proposed water-taking permit regulations will eliminate the duty to consult Indigenous stakeholders when a permit is transferred.'/><p>Proposed changes to Ontario's water-taking permit process would make permits transferrable if a business is sold. There are concerns, however, that this may lead to skipping environmental assessments and Indigenous consultation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/kitchener-waterloo/water-taking-permits-six-nations-aberfoyle-1.7588559?cmp=rss>
+
+---
+
 ## 'There was nobody talking about winning All-Irelands'
 
 date: 2025-07-21, from: RTÉ News
@@ -282,6 +654,18 @@ date: 2025-07-21, from: CBC, Indigenious News
 
 ---
 
+## Pop-up booths are making it easier to apply for Indian status cards in southwestern Ontario
+
+date: 2025-07-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7588829.1752872529!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sfns-photo-taking.jpg' alt='A woman gets her photo taken in front of a white background' width='620' height='349' title='Alicia Kewageshig (left) gets her photo taken by Ravynne Noah-Rich (right) from the Southern First Nations Secretariat, at a pop-up clinic at Western University on July 18, 2025, in order to renew her Secured Certificate of Indian Status.'/><p>The Southern First Nations Secretariat helps people register under the Indian Act or fill out their status card application. They set up weekly booths at events all across southwestern Ontario.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/pop-up-booths-are-making-it-easier-to-apply-for-indian-status-cards-in-southwestern-ontario-1.7588822?cmp=rss>
+
+---
+
 ## Haughey pulls out of World Aquatics Championships
 
 date: 2025-07-21, from: RTÉ News
@@ -294,15 +678,27 @@ Defending women's 200 metres freestyle champion Siobhán Haughey said she has wi
 
 ---
 
-## Israel sends tanks into Gaza's Deir Al-Balah
+## 'Last lifelines' are collapsing in Gaza, says UN chief
 
 date: 2025-07-21, from: RTÉ News
 
-Gaza's civil defence agency and eyewitnesses reported Israeli shelling in the central city of Deir el-Balah, after the military warned of imminent action in an area. 
+UN Secretary-General Antonio Guterres has condemned the "accelerating breakdown of humanitarian conditions" in Gaza. 
 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0721/1524462-gaza-israel/>
+
+---
+
+## Why are so many federal inmates dying shortly before their release date?
+
+date: 2025-07-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7588526.1753084917!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kendal-lee-campeau.jpg' alt='A man with tattoos and a Toronto Blue Jays cap eats an ice cream indoors.' width='620' height='349' title=''/><p>Data released by the Correctional Service of Canada to CBC through a freedom of information request showed the leading cause of death for inmates serving determinate sentences between January 2019 and February 2025 was suicide. Overdoses came a close second.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/federal-prison-inmates-death-1.7588429?cmp=rss>
 
 ---
 
@@ -330,11 +726,11 @@ South Korea is studying various plans to improve relations with North Korea, a s
 
 ---
 
-## Up to 60mm of rain recorded as Orange alert in place
+## Up to 60mm of rain recorded in east following heavy rain
 
 date: 2025-07-21, from: RTÉ News
 
-A Status Orange warning for rain is in place for four counties in Leinster, with Met Éireann warning of widespread surface flooding and "hazardous" travel conditions as up to 60mm of rain was recorded in some areas. 
+Up to 60mm of rain was recorded following heavy downpours across the east of the country, which led to widespread surface flooding and "hazardous" travel conditions. 
 
 <br> 
 
@@ -354,11 +750,11 @@ Japanese Prime Minister Shigeru Ishiba has vowed to remain in office after his r
 
 ---
 
-## Govt to sign off on €100bn new National Development Plan
+## All elements of revised NDP finalised
 
 date: 2025-07-20, from: RTÉ News
 
-Coalition leaders and senior ministers will meet to sign off on the €100bn revised National Development Plan. 
+All elements of the National Development Plan have now been finalised, with Coalition leaders meeting again tonight for final sign-off. 
 
 <br> 
 
@@ -403,18 +799,6 @@ date: 2025-07-20, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/fernando-ramirez-criminal-history-car-rammed-nightclub-lineup-los-angeles-1.7589798?cmp=rss>
-
----
-
-## Father of Canadian girl who was found dead in N.Y. arrested
-
-date: 2025-07-20, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7589789.1753060628!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ny-state-trooper-shot.jpg' alt='The seal for a police logo is seen on the side of a car.' width='620' height='349' title='FILE - A New York State Police logo is shown on a state police officer&apos;s car near Dannemora, N.Y., Friday, June 12, 2015. (AP Photo/Seth Wenig, File)'/><p>The father of the nine-year-old Canadian girl who was found dead after being reported missing in northeastern New York was arrested Monday morning, according to VINE — a system that allows victims of crime in the U.S. to obtain information about criminal cases.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/montreal/missing-canadian-girl-found-dead-new-york-1.7589787?cmp=rss>
 
 ---
 
@@ -763,6 +1147,18 @@ Whether you're planning a weekend getaway or a months-long adventure abroad, tra
 <br> 
 
 <https://www.rte.ie/news/business/2025/0720/1524209-trip-trouble-why-travel-insurance-can-save-the-day/>
+
+---
+
+## Kiashke Zaaging Anishinaabek chief 'ambivalent' about Lac Des Iles mine closure
+
+date: 2025-07-20, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5546955.1690999241!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/lac-des-iles-mine.jpg' alt='A wide, aerial shot of a mine.' width='620' height='349' title='Impala Canada, which owns and operates the Lac Des Iles (LDI)mine confirmed Monday that 25 cases of COVID-19 can be linked directly to its operation in northwestern Ontario.  The company also confirmed a Thunder Bay man in his 50s, who died of complications of the virus, was a LDI employee.'/><p>The closing of Impala Canada's Lac Des Iles palladium mine is being greeted with a mixture of ambivalence and confusion by those close to the site. Over the past decade, the mine has been a source of tension between various owners of the operation, and the local First Nation. Impala Canada announced the mine would aim to close by May 2026.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/kiashke-zaaging-anishinaabek-chief-ambivalent-about-lac-des-iles-mine-closure-1.7586943?cmp=rss>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-21 06:07:48
+updated: 2025-07-21 14:08:17
 ---
 
 # retro computing
 
-(date: 2025-07-21 06:07:48)
+(date: 2025-07-21 14:08:17)
+
+---
+
+## Two new ‘companion’ computers from RISCOSbits
+
+date: 2025-07-21, from: RiscOS Story
+
+If you&#8217;re on certain social media websites, you may have noticed a couple of polls run by RISCOSbits recently. These formed a part of the company&#8217;s research and development, as they decided exactly which direction to take for some new kit that was in the works &#8211; and that new hardware can now be revealed: There are two shiny new toys in the range, both of which are &#8216;companion&#8217; systems designed to work alongside existing RISC OS computers &#8211; with one version of one of the two machines actually intended&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/companion-computers-from-riscosbits/>
+
+---
+
+## RISCOSbits releases new ECOS systems for Windows, Retro and Fileserving
+
+date: 2025-07-21, from: Icon Bar, RISC OS News
+
+RISCOSbits have announce some new systems in their EOCS range (we have previously looked at the Linux version here). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2223.html>
 
 ---
 
