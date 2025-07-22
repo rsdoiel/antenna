@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-07-22 06:06:40
+updated: 2025-07-22 14:08:16
 ---
 
 # journalism
 
-(date: 2025-07-22 06:06:40)
+(date: 2025-07-22 14:08:16)
+
+---
+
+## Daily Bruin Print Issue – July 22, 2025
+
+date: 2025-07-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>The Daily Bruin publishes online issues weekly over the summer. You can view this week’s issue of The Bruin here.</em>
+﻿ 
+
+<br> 
+
+<https://dailybruin.com/2025/07/22/daily-bruin-print-issue-july-22-2025/>
 
 ---
 

@@ -1,23 +1,343 @@
 ---
 title: planet
-updated: 2025-07-22 06:06:32
+updated: 2025-07-22 14:08:08
 ---
 
 # planet
 
-(date: 2025-07-22 06:06:32)
+(date: 2025-07-22 14:08:08)
 
 ---
 
-## US pulling out of UNESCO, state department confirms
+## Tributes paid to 'huge trailblazer' Ozzy Osbourne
 
 date: 2025-07-22, from: RTÉ News
 
-The United States has announced it has left UNESCO, saying the UN cultural and education agency, best known for establishing world heritage sites, is biased against Israel and promotes "divisive" causes. 
+Rock icon Ozzy Osbourne has been hailed a "huge trailblazer" who "secured his place in the pantheon of rock gods" following his death aged 76. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0722/1524832-tributes-paid-to-huge-trailblazer-ozzy-osbourne/>
+
+---
+
+## Euro 2025 semi-final: England v Italy updates
+
+date: 2025-07-22, from: RTÉ News
+
+England and Italy collide in the first of the Euro 2025 semi-finals. Follow the latest here. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0722/1524827-euro-2025-semi-final-england-v-italy-updates/>
+
+---
+
+## 5 takeaways from the revised National Development Plan
+
+date: 2025-07-22, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524831-five-takeaways-ndp/>
+
+---
+
+## Black Sabbath frontman Ozzy Osbourne dies age 76
+
+date: 2025-07-22, from: RTÉ News
+
+Black Sabbath frontman Ozzy Osbourne has died at the age of 76. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0722/1524824-ozzy-osbourne-dies-age-76-family-says/>
+
+---
+
+## National Development Plan centres on housing delivery
+
+date: 2025-07-22, from: RTÉ News
+
+Housing delivery is the centrepiece of the National Development Plan, boosting spending on housing infrastructure by over €40 billion over the next five years to address the chronic shortage of new homes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524821-housing-national-development/>
+
+---
+
+## Irish 18-year-old's AI startup raises €1.2m
+
+date: 2025-07-22, from: RTÉ News
+
+An AI startup co-founded by Irish 18-year-old Liam Fuller has secured €1.2 million in pre-seed funding. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0722/1524816-irish-17-year-olds-startup-raises-1-2m/>
+
+---
+
+## Donegal shop 'excited' to bring Topshop back to Ireland
+
+date: 2025-07-22, from: RTÉ News
+
+Topshop will make its return to the Irish high street with a shop in Co Donegal next month. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524781-topshop-donegal/>
+
+---
+
+## Mother mourns 'beautiful princess' killed in Down crash
+
+date: 2025-07-22, from: RTÉ News
+
+The mother of a teenage girl killed in a road collision in Bangor, Co Down, paid an emotional tribute to her "beautiful princess" during her funeral. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524806-mother-mourns-beautiful-princess-killed-in-co-down-fta/>
+
+---
+
+## Hospitality boost in Budget to shrink workers' tax cuts
+
+date: 2025-07-22, from: RTÉ News
+
+The big winner from next year's Budget is going to be the hospitality industry, writes David Murphy. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524809-statement-analysis/>
+
+---
+
+## Bar manager cleared of manslaughter of man in Co Mayo
+
+date: 2025-07-22, from: RTÉ News
+
+A young bar manager who struck a single punch to a 60-year-old man causing him to fall backwards and sustain a traumatic brain injury has been cleared by a jury of manslaughter. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0722/1524804-courts-castlebar/>
+
+---
+
+## 'Go f--k yourself!': What Stephen Colbert and other late-night hosts had to say after Late Show cancellation
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591082.1753204680!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-late-show-with-stephen-colbert-july-21.jpg' alt='A man in a black suit, white shirt, black tie and black glasses stands with his arms stretched out on a TV set with a band in the background. ' width='620' height='349' title='This image released by CBS shows Stephen Colbert during a taping of &quot;The Late Show with Stephen Colbert&quot; on Monday, July 21, 2025, in New York. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/colbert-late-show-reaction-1.7590838?cmp=rss>
+
+---
+
+## Ukraine vote to curb autonomy of anti-graft agencies
+
+date: 2025-07-22, from: RTÉ News
+
+Ukraine's parliament have voted to tighten restrictions on two key anti-corruption agencies at the centre of the government's reform drive, rolling back their autonomy in favour of tighter executive control. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524795-ukraine-antigraft/>
+
+---
+
+## Ozzy Osbourne, godfather of heavy metal who found fame on reality TV, dead at 76
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ade52db1-2c5a-44ae-9d33-d2df572a714d,1753214312352/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Singer Ozzy Osbourne.' width='620' height='349' title='Singer Ozzy Osbourne.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/ozzy-osbourne-dead-obituary-1.7591156?cmp=rss>
+
+---
+
+## Bra saleswoman wins €15,800 for constructive dismissal
+
+date: 2025-07-22, from: RTÉ News
+
+A lingerie saleswoman who said she was forced to quit her job of nearly 20 years over the health impact of workplace stress due to a "toxic" work environment at a Dublin department store has won €15,800 for constructive dismissal. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0722/1524778-bra-saleswoman-wins-15-800-for-constructive-dismissal/>
+
+---
+
+## South Korean pilot may have shut off less-damaged engine in crash that killed 179 people
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7590753.1753187743!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/southkorea-crash-jeju-air.JPG' alt='A jet plane appears to be snapped in two as it is on the ground, with significant metal and other debris.' width='620' height='349' title='FILE PHOTO: The wreckage of the Jeju Air aircraft that went off the runway and crashed at Muan International Airport lies near a concrete structure it crashed into, in Muan, South Korea, December 30, 2024. '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/south-korea-angry-families-plane-crash-1.7590742?cmp=rss>
+
+---
+
+## Families call for advocate at Omagh inquiry hearings
+
+date: 2025-07-22, from: RTÉ News
+
+Relatives of those killed in the Omagh bombing have said it is essential that they are represented by a special legal advocate in closed hearings at the public inquiry into the 1998 atrocity. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0722/1524771-omagh-inquiry/>
+
+---
+
+## Watch: Starvation at every door in Gaza 'horror show'
+
+date: 2025-07-22, from: RTÉ News
+
+Palestinian officials have said more people are now dying of hunger in Gaza than at any time since the war began - almost two years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0722/1524759-gaza-hunger/>
+
+---
+
+## AIB hybrid working policy 'regressive and shortsighted'
+
+date: 2025-07-22, from: RTÉ News
+
+The Financial Services Union (FSU) has described an announcement by AIB of changes to its hybrid working policy as regressive, shortsighted and without justification. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0722/1524763-aib-hybrid-working-policy-regressive-and-shortsighted/>
+
+---
+
+## Cardinal Pizzaballa: The Church will never abandon afflicted people of Gaza
+
+date: 2025-07-22, from: Vatican News
+
+
+                    <p>At a press conference following their pastoral visit to Gaza, the Greek Orthodox and Latin Patriarchs of Jerusalem issue a joint appeal to world leaders and decision makers, calling for “an end to the war, the release of detainees, and the beginning of a true healing process that restores life and dignity to Gaza and the entire Holy Land”. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/cardinal-pizzaballa-the-church-will-never-abandon-gazans.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/cardinal-pizzaballa-the-church-will-never-abandon-gazans.html>
+
+---
+
+## Pope prays for victims of Bangladesh plane crash
+
+date: 2025-07-22, from: Vatican News
+
+
+                    <p>After a Bangladeshi fighter jet crashes into a school, causing at least 31 deaths, Pope Leo says he “entrusts the deceased to the merciful love of the Almighty”. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-prays-for-victims-of-bangladesh-plane-crash.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-prays-for-victims-of-bangladesh-plane-crash.html>
+
+---
+
+## Trump pulls US out of 'woke' UNESCO for second time
+
+date: 2025-07-22, from: RTÉ News
+
+US President Donald Trump has decided to pull the country out of the "woke" and "divisive" UN culture and education agency UNESCO, the White House said. 
 
 <br> 
 
 <https://www.rte.ie/news/us/2025/0722/1524738-us-unesco/>
+
+---
+
+## Deep dive into the International Seabed Authority: Why it matters now
+
+date: 2025-07-22, from: United Nations, Climate Change
+
+Protecting underwater ecosystems from the growing interest in rare mineral mining, framing deep-sea laws and building a biobank are among landmark achievements of the UN’s International Seabed Authority (ISA), which is marking its 30th anniversary at its Kingston, Jamaica, headquarters. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165464>
+
+---
+
+## ‘Peace is a choice’: UN chief urges diplomacy as wars spread from Gaza to Ukraine
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+Warning that the world is failing to uphold international law as wars stretch from Gaza to Ukraine, UN Secretary‑General António Guterres urges all nations to choose diplomacy over division and recommit to settling disputes peacefully. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165462>
+
+---
+
+## SECURITY COUNCIL LIVE: High-level debate on peaceful settlements of dispute
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+The UN Security Council meets today for a high-level open debate on Promoting International Peace and Security through Multilateralism and Peaceful Settlement of Disputes, chaired by Pakistan’s Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar. UN Secretary-General António Guterres is expected to brief as over 80 Member States join discussions on strengthening diplomacy and mechanisms for conflict prevention. UN News, in coordination with UN Meetings Coverage, brings you live updates. UN News App users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165459>
+
+---
+
+## UN’s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit
+
+date: 2025-07-22, from: United Nations, Climate Change
+
+UN Secretary‑General António Guterres declared the world has “passed the point of no return” on the shift to renewables and implored governments to file sweeping new climate plans before November’s COP30 climate summit in Brazil, saying the fossil fuel era is nearing its end. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165460>
+
+---
+
+## Food lifeline fading for millions in South Sudan hit by conflict and climate shocks
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+South Sudan’s dramatic hunger crisis is worsening and millions of people there could miss out on food aid because of the global humanitarian funding crisis, the UN World Food Programme (WFP) said on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165458>
+
+---
+
+## Gaza: UN staff now fainting from hunger, exhaustion; WHO worker detained
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+Worrying alerts from United Nations staff in the Gaza Strip who have been fainting from hunger and exhaustion over the past 48 hours have increased fears for people’s survival in the devastated enclave, UN humanitarians said on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165457>
 
 ---
 
@@ -114,11 +434,35 @@ Relive the final midweek game of the British and Irish Lions' tour of Australia.
 
 date: 2025-07-22, from: RTÉ News
 
-The head of Al-Shifa hospital in Gaza City has said that 21 children had died across the Palestinian territory in the past three days "due to malnutrition and starvation". 
+The head of Gaza's largest hospital has said 21 children have died due to malnutrition and starvation in the Palestinian territory in the past three days, while Israel pressed a devastating assault. 
 
 <br> 
 
 <https://www.rte.ie/news/2025/0722/1524693-gaza-middle-east/>
+
+---
+
+## 6-week old infant among 15 Palestinians in Gaza to die of starvation, medics say
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591142.1753207554!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-hunger.JPG' alt='Adham carries the body of a six-week-old infant wrapped in white shroud.' width='620' height='349' title='Adham carries the body of his nephew, six-week-old infant Yousef al-Safadi, who died of starvation according to health officials, in Gaza City July 22, 2025. REUTERS/Khamis Al-Rifi      TPX IMAGES OF THE DAY'/><p>A six-week-old infant is among 15 people who have died of starvation in Gaza in the past 24 hours, local health officials said, with malnutrition now killing Palestinians faster than at any point in the 21-month-long war.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-war-hunger-children-killed-1.7590739?cmp=rss>
+
+---
+
+## Dublin City Council says Molly Malone could be moved
+
+date: 2025-07-22, from: RTÉ News
+
+Dublin City Council has said it will consider moving the Molly Malone statue if the installation of flowerbeds around it does not deter people from touching the bronze sculpture's breasts. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0722/1524691-molly-malone-dublin/>
 
 ---
 
@@ -158,7 +502,7 @@ date: 2025-07-22, from: Vatican News
 
 date: 2025-07-22, from: RTÉ News
 
-The Government is allowing scope for €1.5 billion of tax cuts in the Budget 2026 next year, according to the Summer Economic Statement. 
+The Government is allowing scope for €1.5bn of tax cuts in Budget 2026, according to the Summer Economic Statement. 
 
 <br> 
 
@@ -178,7 +522,7 @@ Businesses and individuals bringing legal challenges to planning decisions will 
 
 ---
 
-## Govt unveils 'transformational' investment plan
+## As it happened: Govt announces revised NDP
 
 date: 2025-07-22, from: RTÉ News
 
@@ -211,18 +555,6 @@ date: 2025-07-22, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/indigenous/tinip-si-na-harvested-nakoda-families-traditional-food-1.7582242?cmp=rss>
-
----
-
-## A Chinese research vessel returns to Arctic waters — and it appears Canada is watching
-
-date: 2025-07-22, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.1914689.1753135762!/httpImage/image.jpg_gen/derivatives/16x9_620/hi-ccgs-swlaurier1-8col.jpg' alt='A red and white ship is seen in ice.' width='620' height='349' title='The icebreaker Sir Wilfrid Laurier is one of six Canadian Coast Guard vessels in the Arctic this summer.'/><p>The Canadian military and possibly the coast guard appear to have been keeping tabs on a Chinese research vessel as it returns to Arctic waters off Alaska for the second year in a row.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/chinese-vessel-arctic-surveillance-1.7590513?cmp=rss>
 
 ---
 
@@ -310,11 +642,11 @@ The Government has announced the details of a flagship plan to build infrastruct
 
 ---
 
-## US prosecutors want to speak to Ghislaine Maxwell
+## US prosecutors expect to interview Ghislaine Maxwell soon
 
 date: 2025-07-21, from: RTÉ News
 
-The Justice Department has asked Jeffrey Epstein associate Ghislaine Maxwell if she would be willing to speak with US prosecutors. 
+The US Justice Department has asked lawyers for Jeffrey Epstein associate Ghislaine Maxwell if she would be willing to speak with prosecutors, while Deputy Attorney General Todd Blanche said that he expects to meet with her in the coming days. 
 
 <br> 
 
@@ -454,6 +786,18 @@ The UK has placed sanctions on 135 oil tankers in Russia's shadow fleet in a bid
 
 ---
 
+## Chippewas of the Thames First Nation residents told not to consume tap water
+
+date: 2025-07-21, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7590526.1753136164!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/chippewas-of-the-thames-first-nation-sign.JPG' alt='A sign greeting people to the Chippewas of the Thames First Nation.' width='620' height='349' title='A sign greeting people to the Chippewas of the Thames First Nation.'/><p>The 1,000 people who live in Chippewas of the Thames First Nation have been told not to drink the water coming out of their taps because of broken, aging infrastructure that can't keep up with the demands of the community. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/london/chippewas-of-the-thames-first-nation-residents-told-not-to-consume-tap-water-1.7590271?cmp=rss>
+
+---
+
 ## Ministers condemn 'inhumane killing of civilians' in Gaza
 
 date: 2025-07-21, from: RTÉ News
@@ -475,6 +819,18 @@ date: 2025-07-21, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/canada/montreal/missing-canadian-girl-found-dead-new-york-1.7589787?cmp=rss>
+
+---
+
+## Montreal girl allegedly killed by father was drowned, initial autopsy finds
+
+date: 2025-07-21, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589872.1753103697!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/melina-frattolin.jpg' alt='Melina Frattolin' width='620' height='349' title='New York State Police are investigating the death of a nine-year-old girl from Canada whose father reported her missing on Saturday night. Melina Frattolin was found dead near the New York-Vermont border on Sunday. A police news conference is scheduled for Monday.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/vigil-melina-frattolin-death-new-york-1.7591013?cmp=rss>
 
 ---
 
@@ -634,7 +990,7 @@ UN Secretary-General António Guterres is appalled by the accelerating breakdown
 
 date: 2025-07-21, from: United Nations, Top Stories
 
-Hadriya collapses from hunger, Khadija dreams of her kitchen and Hiyam longs for her daughters’ laughter in the garden – these are the stories of three women from Gaza who embody the daily struggles of mothers exhausted by war, hunger and displacement as the nearly two-year-long conflict continues. 
+Badriya collapses from hunger, Khadija dreams of her kitchen and Hiyam longs for her daughters’ laughter in the garden – these are the stories of three women from Gaza who embody the daily struggles of mothers exhausted by war, hunger and displacement as the nearly two-year-long conflict continues. 
 
 <br> 
 
@@ -644,7 +1000,7 @@ Hadriya collapses from hunger, Khadija dreams of her kitchen and Hiyam longs for
 
 ## Salvaging SDGs still possible, but countries must act now: Guterres
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Economic Development
 
 Citing new global agreements on pandemic preparedness, ocean protection and development financing, UN Secretary‑General António Guterres said on Monday that recent “signs of momentum” show multilateralism can still deliver. 
 
@@ -656,7 +1012,7 @@ Citing new global agreements on pandemic preparedness, ocean protection and deve
 
 ## Droughts are causing record devastation worldwide, UN-backed report reveals
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Climate Change
 
 Worldwide, some of the most widespread and damaging drought events in recorded history have occurred in recent years due to climate change and resource depletion.&nbsp; 
 
@@ -692,7 +1048,7 @@ After another deadly weekend in Gaza in which at least 67 Palestinians were repo
 
 ## Deadly floods show need for faster, wider warnings, UN agency says
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Climate Change
 
 From the Himalayas to rural Texas, deadly floods this month have killed hundreds and exposed dangerous gaps in early warning systems, the UN’s weather agency warned, linking the devastation to rapid urbanization, land-use change and a warming climate that traps more moisture in the atmosphere. 
 
@@ -704,7 +1060,7 @@ From the Himalayas to rural Texas, deadly floods this month have killed hundreds
 
 ## ‘Bet on youth’ to realise Africa’s digital potential, UN deputy chief says
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Economic Development
 
 Digital innovation and technology remain underfunded and underdeveloped across Africa, according to a report on Africa’s development which was discussed at the General Assembly on Monday.&nbsp;&nbsp; 
 

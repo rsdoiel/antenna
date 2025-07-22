@@ -1,11 +1,328 @@
 ---
 title: going electric
-updated: 2025-07-22 06:06:43
+updated: 2025-07-22 14:08:20
 ---
 
 # going electric
 
-(date: 2025-07-22 06:06:43)
+(date: 2025-07-22 14:08:20)
+
+---
+
+## Isuzu’s first electric pickup is impressive, but it’s not cheap
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Isuzus-first-electric-pickup-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A fully electric Japanese electric pickup truck? It’s not a Toyota or Honda, but <a href="https://electrek.co/guides/isuzu/">Isuzu’s</a> new electric pickup packs a punch. The D-MAX EV can tow over 7,770 lbs (3,500 kg), plow through nearly 24″ (600 mm) of water, and it even has a dedicated Terrain Mode for extreme off-roading. However, it comes at a cost.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="isuzu" data-layer-viewtype="unknown" data-post-id="426326" href="https://electrek.co/2025/07/22/isuzus-first-electric-pickup-is-impressive-but-not-cheap/#more-426326" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/isuzus-first-electric-pickup-is-impressive-but-not-cheap/>
+
+---
+
+## Tesla (TSLA) sales are down 21% in biggest US EV market, dragging whole market down
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-sales-california.png?w=1600" /></div><p>Tesla (TSLA) sales are down 21% in California, the largest EV market in the US, and this decline is dragging the entire EV market down.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426280" href="https://electrek.co/2025/07/22/tesla-tsla-sales-are-down-21-in-biggest-us-ev-market-dragging-whole-market-down/#more-426280" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/tesla-tsla-sales-are-down-21-in-biggest-us-ev-market-dragging-whole-market-down/>
+
+---
+
+## California Governor signs two new electric bike safety bills into law
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/trek-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>California’s growing fleet of electric bikes is the subject of two new laws signed this week by Governor Gavin Newsom and intended to increase the safety of the quickly growing form of alternative transportation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="426181" href="https://electrek.co/2025/07/22/california-governor-signs-two-new-electric-bike-safety-bills-into-law/#more-426181" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/california-governor-signs-two-new-electric-bike-safety-bills-into-law/>
+
+---
+
+## Rivian's Hamptons Charging Outpost Is A Better Rest Stop For EV Drivers
+
+date: 2025-07-22, from: Inside EVs News
+
+Rivian's charging expansion continues, and not with a desolate plug in a parking lot. Its first East Coast Charging Outpost has snacks, restrooms and more. 
+
+<br> 
+
+<https://insideevs.com/news/766672/rivian-hamptons-charging-outpost/>
+
+---
+
+## New York slams the brakes on offshore wind grid plans as feds halt permits
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/south-fork-wind.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The New York State Public Service Commission (PSC) voted to pull the plug on its current planning process for offshore wind power lines. Because the Trump administration has put a freeze on permitting new offshore wind projects, New York says it’s “impossible” to move ahead on schedule.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,new-york,offshore-wind-power" data-layer-viewtype="unknown" data-post-id="426312" href="https://electrek.co/2025/07/22/new-york-slams-the-brakes-on-offshore-wind-grid-plans-as-feds-halt-permits/#more-426312" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/new-york-slams-the-brakes-on-offshore-wind-grid-plans-as-feds-halt-permits/>
+
+---
+
+## The Cadillac Lyriq And Optiq EVs Keep Stealing Customers From Other Brands
+
+date: 2025-07-22, from: Inside EVs News
+
+About 75% of Cadillac Lyriq buyers come from other brands. That number rises to nearly 80% for the Optiq. 
+
+<br> 
+
+<https://insideevs.com/news/766651/optiq-and-lyriq-successful-conquest/>
+
+---
+
+## Editorial Integrity And Affiliate Partnerships
+
+date: 2025-07-22, from: Inside EVs News
+
+Disclosure Statement 
+
+<br> 
+
+<https://insideevs.com/news/766486/editorial-integrity-and-affiliate-partnerships/>
+
+---
+
+## After more than 250,000 miles, Ford Mustang Mach-E still has 92% battery life
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Ford-MustangMachE-250K-64.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The unbelievers are still hoping against hope that electric cars won’t be as durable as ICE cars — but after more than 250,000 miles of driving in just three years, this Ford Mustang Mach-E isn’t just still going, it’s still going <em>strong</em> with more than 90% of its original battery capacity!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-batteries,ev-myths,ford" data-layer-viewtype="unknown" data-post-id="426284" href="https://electrek.co/2025/07/22/after-250000-miles-this-ford-mustang-mach-e-still-has-92-battery-life/#more-426284" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/after-250000-miles-this-ford-mustang-mach-e-still-has-92-battery-life/>
+
+---
+
+## Lucid (LCID) CEO praises Chinese EVs, but claims it has an edge where it matters most
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lucid-Chinese-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Following a recent trip to China, Lucid’s (LCID) interim CEO, Marc Winterhoff, was impressed with the progress the industry has made over the past few years. Despite the advancements, Winterhoff still believes <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> has Chinese EVs beat where it matters most.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="426274" href="https://electrek.co/2025/07/22/lucid-lcid-ceo-praises-chinese-evs-but-claims-it-has-an-edge/#more-426274" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/lucid-lcid-ceo-praises-chinese-evs-but-claims-it-has-an-edge/>
+
+---
+
+## Tesla (TSLA) Q2 earnings preview: on the road to unprofitability
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-25-at-12.56.21 PM.png?w=1600" /></div><p>Tesla (TSLA) will release its Q2 2025 financial results on Wednesday, July 31, after the market closes. As usual, a conference call and Q&amp;A with Tesla’s management are scheduled after the results.</p>
+
+
+
+<p>Here, we’ll look at what the street and retail investors expect for the quarterly results.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="426240" href="https://electrek.co/2025/07/22/tesla-tsla-q2-earnings-preview-on-the-road-to-unprofitability/#more-426240" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/tesla-tsla-q2-earnings-preview-on-the-road-to-unprofitability/>
+
+---
+
+## Your EV Needs A Smaller Battery. Sorry.
+
+date: 2025-07-22, from: Inside EVs News
+
+In the auto industry's pursuit of electric range, drivers are getting stuck with massive charging bills. It doesn't have to be this way. 
+
+<br> 
+
+<https://insideevs.com/news/766666/ev-smaller-battery-chevy-silverado/>
+
+---
+
+## Aventon Sinch 2 folding e-bike at $1,399 low, Autel AC Lite 50A level 2 EV charger $455, NIU KQi 300X e-scooter $750, EcoFlow, more
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Aventon-Sinch-2-Folding-e-bike-two-riding-side-by-side.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are all about EVs and power stations, with our headliner being <a href="https://9to5toys.com/2025/07/22/aventon-sinch-2-folding-e-bike-1399-low/">Aventon’s Sinch 2 Folding e-bike at its $1,399 low</a>. Right behind it, we have <a href="https://9to5toys.com/2025/07/22/autel-maxicharger-ac-lite-level-2-ev-charger-455/">Autel’s MaxiCharger AC Lite Home Level 2 EV charger down at $455</a>, as well as <a href="https://9to5toys.com/2025/07/22/niu-kqi-300x-electric-scooter-750/">NIU’s KQi 300X All-Terrain Suspension Electric Scooter for $750</a>. From there we have four limited-time EcoFlow member-only solar generator bundle deals at up to 56% off, Anker’s SOLIX C1000 power station, and a one-day-only sale on Anker’s SOLIX BP1000X expansion battery for the previously mentioned station. All these and more are waiting for you below. Plus, there’s all the hangover savings at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/07/21/anker-powercore-reserve-station-88/">Anker PowerCore Reserve</a> dropping under $90, <a href="https://9to5toys.com/2025/07/21/schumacher-level-1-portable-ev-charger-130/">Schumacher’s new portable level 1 EV charger</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="426260" href="https://electrek.co/2025/07/22/aventon-sinch-2-e-bike-1399-low-autel-niu-ecoflow-more/#more-426260" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/aventon-sinch-2-e-bike-1399-low-autel-niu-ecoflow-more/>
+
+---
+
+## The Hyundai IONIQ 2 is an affordable little brother to the IONIQ 5 [images]
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Hyundai-trade-in-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/hyundai/">Hyundai</a> IONIQ 2 was just spotted out in public for the first time. Hyundai is expected to introduce the smaller, more affordable EV later this year. Here’s our first look at the IONIQ 5’s little brother.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="426244" href="https://electrek.co/2025/07/22/hyundai-ioniq-2-affordable-ioniq-5-sibling-images/#more-426244" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/hyundai-ioniq-2-affordable-ioniq-5-sibling-images/>
+
+---
+
+## Ride1Up TrailRush launched as affordable mid-drive electric mountain bike
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/ride1up-trailrush-brose-motor-header-emtb.webp?w=1600" /></div><p>Ride1Up is officially hitting the trails in a big way. Known for its commuter-focused electric bikes that deliver impressive value, the San Diego-based brand has just announced the new <a href="https://go.ride1up.com/aff_c?offer_id=5&amp;aff_id=1007">Ride1Up TrailRush</a>: a trail-ready electric mountain bike that marks Ride1Up’s first true entry into the rugged world of eMTBs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="426166" href="https://electrek.co/2025/07/22/ride1up-trailrush-launched-as-affordable-mid-drive-electric-mountain-bike/#more-426166" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/ride1up-trailrush-launched-as-affordable-mid-drive-electric-mountain-bike/>
+
+---
+
+## General Motors Says New LMR Battery Will Deliver Major Cost Savings
+
+date: 2025-07-22, from: Inside EVs News
+
+The automaker’s new battery technology could deliver even cheaper cells compared to LFP, CEO Mary Barra said.
+ 
+
+<br> 
+
+<https://insideevs.com/news/766646/gm-lmr-battery-cost-savings-lfp/>
+
+---
+
+## Lucid launches its 2026 Air EV lineup: more range, quieter, and a little more expensive
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lucid-Air-2026.png?w=1600" /></div><p>Lucid’s newly announced 2026 Air lineup doesn’t reinvent the brand’s flagship sedan, but it does hone the formula with a more efficient Touring trim, added cabin comfort, and a few long‑requested equipment changes. </p>
+
+
+
+<p>Below is a concise overview of what’s new for 2026 and how each trim now compares to its 2025 predecessor.</p>
+
+
+
+<p>Lucid’s lineup is improving and trying to maintain its lead in efficiency.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-air,lucid-motors" data-layer-viewtype="unknown" data-post-id="426226" href="https://electrek.co/2025/07/22/lucid-launches-2026-air-ev-lineup-more-range-quieter-expensive/#more-426226" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/lucid-launches-2026-air-ev-lineup-more-range-quieter-expensive/>
+
+---
+
+## Honda just made charging way easier for Prologue and Acura ZDX EV owners
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Honda-Acura-Tesla-Superchargers.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda has finally unlocked Tesla Supercharger access for <a href="https://electrek.co/guides/honda-prologue/">Prologue</a> and Acura ZDX owners. Your next road trip just got that much easier with over 23,500 Superchargers across the US and Google-built-in maps to find them.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-zdx,honda,honda-prologue,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="426208" href="https://electrek.co/2025/07/22/honda-unlocks-tesla-superchargers-for-prologue-acura-ev-owners/#more-426208" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/honda-unlocks-tesla-superchargers-for-prologue-acura-ev-owners/>
+
+---
+
+## Tesla’s Sales License Is at Risk—And Full Self-Driving Is To Blame
+
+date: 2025-07-22, from: Inside EVs News
+
+Plus, General Motors takes a $1.1 billion tariff hit, and China may finally start cracking down on zero-mile "used" EVs. 
+
+<br> 
+
+<https://insideevs.com/news/766540/tesla-autopilot-fsd-claims-california/>
+
+---
+
+## Lucid owners gain full access to Tesla’s Supercharger network, but with a big caveat
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/lucid-tesla-charger-e1753195493483.webp?w=1600" /></div><p>Lucid Motors announced that its Air owners will gain full access to Tesla’s Supercharger stations in North America starting July 31.</p>
+
+
+
+<p>But there’s a big caveat.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-motors,tesla" data-layer-viewtype="unknown" data-post-id="426216" href="https://electrek.co/2025/07/22/lucid-owners-gain-full-access-to-teslas-supercharger-network-but-big-caveat/#more-426216" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/lucid-owners-gain-full-access-to-teslas-supercharger-network-but-big-caveat/>
+
+---
+
+## GM took a $1 billion hit in Q2 over tariffs, but profitable EVs continue to be its ‘north star’
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy is now the #2 electric vehicle brand in the US. Cadillac is the luxury EV leader. GM is even selling more vehicles in China. Although Trump’s tariffs cost <a href="https://electrek.co/guides/gm/">GM</a> an extra $1.1 billion in Q2, the company reassured investors that profitable EVs continue to be its “north star.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,chevrolet,general-motors,gm" data-layer-viewtype="unknown" data-post-id="426185" href="https://electrek.co/2025/07/22/gm-took-1b-hit-q2-but-profitable-evs-will-be-north-star/#more-426185" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/gm-took-1b-hit-q2-but-profitable-evs-will-be-north-star/>
 
 ---
 

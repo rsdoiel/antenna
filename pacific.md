@@ -1,11 +1,83 @@
 ---
 title: pacific
-updated: 2025-07-22 06:06:36
+updated: 2025-07-22 14:08:12
 ---
 
 # pacific
 
-(date: 2025-07-22 06:06:36)
+(date: 2025-07-22 14:08:12)
+
+---
+
+## 'Biggest number we've had': Pacific dengue cases highest in a decade
+
+date: 2025-07-22, from: 
+
+Dengue cases in the Pacific are at their highest since 2016, with nearly 19,000 people affected, the World Health Organisation says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567737/biggest-number-we-ve-had-pacific-dengue-cases-highest-in-a-decade>
+
+---
+
+## At least 27 dead, mostly children, in Bangladesh air force jet crash
+
+date: 2025-07-22, updated: 2025-07-22, from: Marianas Variety
+
+DHAKA (Reuters) — At least 25 children were among the 27 dead pulled from scorched buildings after a Bangladesh Air Force jet on a training mission crashed into a college and school campus in Dhaka, officials said on Tuesday, with 88 people being treated in hospital. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/at-least-27-dead-mostly-children-in-bangladesh-air-force-jet-crash/article_25b1351b-b060-419d-b7b9-4d21957a16f9.html>
+
+---
+
+## DPS urges caution amid weather and ongoing construction
+
+date: 2025-07-22, updated: 2025-07-22, from: Marianas Variety
+
+THE Department of Public Safety is urging the community to practice safe driving and exercise caution while driving on the island's roadway. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dps-urges-caution-amid-weather-and-ongoing-construction/article_3deaff94-5121-4f57-8cd3-74a0cc046909.html>
+
+---
+
+## In South Korea's ‘apple county,’ farmers beg not to be sacrificed for US trade deal
+
+date: 2025-07-22, updated: 2025-07-22, from: Marianas Variety
+
+CHEONGSONG, South Korea, (Reuters) — The apples grown in the South Korean county of Cheongsong in the country's southeast are so renowned for their flavor that they are often given out in neatly packaged gift boxes during national holidays. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/in-south-koreas-apple-county-farmers-beg-not-to-be-sacrificed-for-us-trade-deal/article_2e5be8b5-97a7-45b2-876b-759bdb6e06ed.html>
+
+---
+
+## Trump’s Wall Street Journal suit over Epstein story faces timing hurdle
+
+date: 2025-07-22, updated: 2025-07-22, from: Marianas Variety
+
+(Reuters) — Donald Trump's legal case against the Wall Street Journal over a story about the U.S. president and Jeffrey Epstein could face hurdles, one of which is that it does not appear to comply with Florida state rules over the timing of defamation lawsuits, legal experts said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-wall-street-journal-suit-over-epstein-story-faces-timing-hurdle/article_6f1a58c9-da95-42b9-8f55-e8fd48ff248f.html>
+
+---
+
+## Gen Xers mourn drowning death of ‘Theo’
+
+date: 2025-07-22, updated: 2025-07-22, from: Marianas Variety
+
+DETROIT (AP) — For Black youth and teens growing up in the mid-1980s, “The Cosby Show” offered something rarely seen on television up until that time: a sitcom that placed characters who looked like them in a positive light. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/gen-xers-mourn-drowning-death-of-theo/article_acf7b914-237e-4b23-ab31-41c44fc4741e.html>
 
 ---
 

@@ -1,11 +1,52 @@
 ---
 title: writing
-updated: 2025-07-22 06:06:39
+updated: 2025-07-22 14:08:15
 ---
 
 # writing
 
-(date: 2025-07-22 06:06:39)
+(date: 2025-07-22 14:08:15)
+
+---
+
+## Bartz v. Anthropic: Judge Alsup Certifies Class for Rightsholders of 7 Million Books Used by Anthropic
+
+date: 2025-07-22, from: Author's Union blog
+
+Late last week Judge Alsup, presiding over the Bartz v. Anthropic copyright AI litigation, granted a motion to certify a class representing authors and rightsholders of nearly 7 million books. If you are a book author (or a publisher, or an heir to an author), you should be paying attention because there is a good chance that you could be included in this class. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/22/bartz-v-anthropic-judge-alsup-certifies-class-for-rightsholders-of-7-million-books-used-by-anthropic/>
+
+---
+
+## How Quentin Tarantino Rewrote the Rules and Made Hollywood Listen
+
+date: 2025-07-22, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-quentin-tarantino-rewrote-the-rules-and-made-hollywood-listen" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Uma%20Thurman%20and%20John%20Travolta%20in%20Pulp%20Fiction.png" alt="Uma Thurman and John Travolta dancing in a restaurant in Pulp Fiction" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>For younger movie-goers, there was never a world without Quentin Tarantino. His last four genre epics, <a href="https://www.imdb.com/title/tt0361748/" style="font-style: italic;">Inglourious Basterds</a> (2009), <a href="https://www.imdb.com/title/tt1853728/" style="font-style: italic;">Django Unchained</a> (2012), <a href="https://www.imdb.com/title/tt3460252/" style="font-style: italic;">The Hateful Eight</a> (2015) and <a href="https://www.imdb.com/title/tt7131622/" style="font-style: italic;">Once Upon A Time In Hollywood</a>… (2019), were all box office hit Academy Award winners starring A-list movie stars, and in all likelihood, his in-the-works tenth and <a href="https://www.rollingstone.com/tv-movies/tv-movie-news/quentin-tarantino-final-film-delay-sundance-1235248450/">self-proclaimed final film</a> will be too.</p> 
+<p>In addition to directing, he has also written every movie he's ever made. But Tarantino’s 30+ long career was never guaranteed. After the phenomenal success of <span style="font-style: italic;">Pulp Fiction</span>, his sophomore feature, there was plenty of public skepticism as to whether this film geek wunderkind was <a href="https://www.telegraph.co.uk/culture/film/7165045/Quentin-Tarantino-interview-All-my-movies-are-achingly-personal.html">a flash in the pan</a> or had what it took to be around for the long haul. Decades later, Tarantino has proven a remarkable ability to strategically navigate the industry in a way that’s allowed him to stay true to his artistic vision, while carving out longevity as a writer-director.<br><br>The story of how Tarantino broke into Hollywood against all odds in the 90s is worthy of study for any aspiring filmmaker. His strategic navigation of career scrutiny until he became an industry mainstay&nbsp;further cements his journey as a valuable case study for screenwriters and would-be auteurs everywhere.&nbsp;<br><br>Here is how Tarantino strategically played the long game during his first decade as a filmmaker to establish lasting relevance in the industry.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-quentin-tarantino-rewrote-the-rules-and-made-hollywood-listen>
+
+---
+
+## A Screenwriter’s Guide to Directors
+
+date: 2025-07-22, from: John August blog
+
+<p>In this compendium episode, John and Craig set their focus on directors &#8212; and how to work with them as a screenwriter. They look at the inner-workings of the writer-director relationship, etiquette on set, how to communicate notes from pre-production through post, and outline the qualities of the “perfect” director. We also offer advice to [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/a-screenwriters-guide-to-directors">A Screenwriter’s Guide to Directors</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/a-screenwriters-guide-to-directors>
 
 ---
 

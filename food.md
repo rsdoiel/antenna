@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2025-07-22 06:06:43
+updated: 2025-07-22 14:08:21
 ---
 
 # food
 
-(date: 2025-07-22 06:06:43)
+(date: 2025-07-22 14:08:21)
+
+---
+
+## Puerto Rican Coffee is Now Officially Served on Capitol Hill
+
+date: 2025-07-22, from: Daily Coffee News
+
+<div><img width="620" height="402" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-620x402.jpg" class="attachment-large size-large wp-post-image" alt="congressional reserve blend" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-620x402.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-300x195.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-768x498.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1.jpg 1170w" sizes="(max-width: 620px) 100vw, 620px" /></div>If there&#8217;s one thing dysfunctional workplaces could use, it&#8217;s an abundance of good coffee. Now, the U.S. House of Representatives has a new homegrown coffee supplier through an official vendor... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/22/puerto-rican-coffee-is-now-officially-served-on-capitol-hill/>
+
+---
+
+## Fritto Misto
+
+date: 2025-07-22, from: Bon Appetet
+
+Shrimp, fennel, and mushrooms make for an impeccable version of this light and crispy Italian starter. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/fritto-misto>
+
+---
+
+## Best Healthy Meal Delivery Services, Tested & Reviewed (2025)
+
+date: 2025-07-22, from: Bon Appetet
+
+We’re constantly trying the best healthy meal kits and meal delivery services so you know which ones are worth the subscription. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-healthy-meal-delivery-services>
+
+---
+
+## Here's How to Submit to BA's Gear of the Year for 2025
+
+date: 2025-07-22, from: Bon Appetet
+
+BA recognizes the year’s best product launches alongside long-time favorites. 
+
+<br> 
+
+<https://www.bonappetit.com/story/gear-of-the-year-2025-submissions>
+
+---
+
+## Best Countertop Compost Bins, Tested & Reviewed (2025)
+
+date: 2025-07-22, from: Bon Appetet
+
+We tested a range of compost bins to find the ones that contain smells and fit seamlessly into your kitchen. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-compost-bins>
+
+---
+
+## Survey of 20,000 Workers Says Journalists Drink the Most Coffee
+
+date: 2025-07-22, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="journalism coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A survey of approximately 20,000 workers found that people in journalism and media drink more coffee than people in any other profession.&#160;Journalists, who reported drinking 3.62 cups per day, were... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/22/survey-of-20000-workers-says-journalists-drink-the-most-coffee/>
+
+---
+
+## With MilkID, Milk Gets a Pitcher ID to Enter the Bar
+
+date: 2025-07-22, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png" class="attachment-large size-large wp-post-image" alt="MilkID stickers" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-300x169.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-150x84.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-768x432.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Designed to prevent allergic reactions while also minimizing milk waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently made its launch.&#160; MilkID&#8217;s custom... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/22/with-milkid-milk-gets-a-pitcher-id-to-enter-the-bar/>
+
+---
+
+## Build-Outs Of Coffee: XLIII Coffee In Ho Chi Minh City, Vietnam
+
+date: 2025-07-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. XLIII Coffee in Ho Chi Minh City, Vietnam. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-xliii-coffee-in-ho-chi-minh-city-vietnam-351419.html>
 
 ---
 
@@ -109,7 +205,7 @@ date: 2025-07-21, from: Irish Food Hub
 
 date: 2025-07-21, from: Daily Coffee News
 
-<div><img width="620" height="443" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-620x443.jpg" class="attachment-large size-large wp-post-image" alt="Space Timefill cafe South Korea 5" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-620x443.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-768x549.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="443" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-620x443.jpg" class="attachment-large size-large wp-post-image" alt="Space Timefill cafe South Korea 5" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-620x443.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5-768x549.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Space-Timefill-cafe-South-Korea-5.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -121,11 +217,23 @@ date: 2025-07-21, from: Daily Coffee News
 
 date: 2025-07-21, from: Daily Coffee News
 
-<div><img width="620" height="537" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-620x537.jpg" class="attachment-large size-large wp-post-image" alt="Kazkara Coffee Roasters 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-620x537.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-300x260.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-150x130.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-768x665.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Kazkara Coffee Roasters recently celebrated the grand opening of its roastery cafe just outside of Detroit in Hazel Park, Michigan, where the company seeks to surround its carefully crafted... 
+<div><img width="620" height="537" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-620x537.jpg" class="attachment-large size-large wp-post-image" alt="Kazkara Coffee Roasters 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-620x537.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-300x260.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-150x130.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1-768x665.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Kazkara-Coffee-Roasters-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Kazkara Coffee Roasters recently celebrated the grand opening of its roastery cafe just outside of Detroit in Hazel Park, Michigan, where the company seeks to surround its carefully crafted... 
 
 <br> 
 
 <https://dailycoffeenews.com/2025/07/21/kazkara-coffee-roasters-adds-art-to-craft-in-greater-detroit/>
+
+---
+
+## Blueberry Crinkle Cookies
+
+date: 2025-07-21, from: Taste of Home
+
+These blueberry crinkle cookies are stunning, thanks to a summery blue hue peeking out from a crackled, confectioners' sugar surface. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/blueberry-crinkle-cookies/>
 
 ---
 
@@ -135,7 +243,7 @@ date: 2025-07-21, from: Isebel Eats
 
 
 	<div>
-	<a href="https://www.isabeleats.com/pickle-de-gallo/"><img title="pickle-de-gallo-small-7" src="https://www.isabeleats.com/wp-content/uploads/2025/07/pickle-de-gallo-small-7-400x600.jpg" alt="A tortilla chip being dunked into a bowl of pickle de gallo." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	<a href="https://www.isabeleats.com/pickle-de-gallo/"><img title="pickle-de-gallo-small-8" src="https://www.isabeleats.com/wp-content/uploads/2025/07/pickle-de-gallo-small-8-400x600.jpg" alt="Pickle de gallo in a bowl." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
 	</div>
 	Pickle de gallo is a fresh, crunchy salsa featuring dill pickles, cucumbers, tomatoes, and tangy pickle brine. Perfect with chips&#8230; 
 
@@ -149,7 +257,7 @@ date: 2025-07-21, from: Isebel Eats
 
 date: 2025-07-21, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-620x414.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee aroma study" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Science has already determined that the very smell of coffee can make people smarter. Now, research from China is taking the knowledge of the nose even further, applying an e-nose... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-620x414.jpg" class="attachment-large size-large wp-post-image" alt="roasted coffee aroma study" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/roasted-coffee-aroma-study.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Science has already determined that the very smell of coffee can make people smarter. Now, research from China is taking the knowledge of the nose even further, applying an e-nose... 
 
 <br> 
 
@@ -166,6 +274,18 @@ date: 2025-07-21, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-sprudge-guide-to-coffee-in-okinawa-japan-338633.html>
+
+---
+
+## Carajillo
+
+date: 2025-07-21, from: Taste of Home
+
+When you learn how to make a carajillo, you can have your daily dose of caffeine and a cocktail in one drink. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/carajillo/>
 
 ---
 

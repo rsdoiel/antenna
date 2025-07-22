@@ -1,11 +1,24 @@
 ---
 title: libraries
-updated: 2025-07-22 06:06:40
+updated: 2025-07-22 14:08:17
 ---
 
 # libraries
 
-(date: 2025-07-22 06:06:40)
+(date: 2025-07-22 14:08:17)
+
+---
+
+## SciELO Brazil Achieves ISO 27001 Certification and Sets an International Standard for Scientific Information Security
+
+date: 2025-07-22, from: SciELO in Perspective
+
+<p>SciELO Brasil obtains ISO 27001 certification, the world's most rigorous digital protection standard. Discover how this achievement transforms the reliability of national science and ensures maximum protection for the Brazilian scientific heritage. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/07/22/scielo-brazil-achieves-iso-27001-certification-and-sets-an-international-standard-for-scientific-information-security/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/07/22/scielo-brazil-achieves-iso-27001-certification-and-sets-an-international-standard-for-scientific-information-security/">SciELO Brazil Achieves ISO 27001 Certification and Sets an International Standard for Scientific Information Security</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/07/22/scielo-brazil-achieves-iso-27001-certification-and-sets-an-international-standard-for-scientific-information-security/>
 
 ---
 
@@ -35,12 +48,12 @@ A young man obsessed with a married woman ingratiates his way into the life of h
 
 ---
 
-## Day in Review (July 21–July 24)
+## Day in Review (July 21–July 23)
 
 date: 2025-07-21, from: Association of Research Libraries News
 
-<p>Last Updated on July 21, 2025, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 22 &#124; Wednesday, July 23 &#124; Thursday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-21-july-24/">Day in Review (July 21–July 24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on July 22, 2025, 4:07 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 22 &#124; Wednesday, July 23 Note: Day...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-21-july-24/">Day in Review (July 21–July 23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <br> 

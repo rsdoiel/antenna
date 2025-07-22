@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2025-07-22 06:06:34
+updated: 2025-07-22 14:08:10
 ---
 
 # north america
 
-(date: 2025-07-22 06:06:34)
+(date: 2025-07-22 14:08:10)
+
+---
+
+## If the shoe fits
+
+date: 2025-07-22, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/if-the-shoe-fits>
+
+---
+
+## Pasha Dashtgard on Why American Men Feel Trapped
+
+date: 2025-07-22, from: The Contrarian
+
+"If we're defining masculinity so rigidly, then 'being a man' becomes a lot harder, and a lot more precarious, and a lot more high-stakes." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168956536/4b8618e56748e06b90031eb837773e87.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168956536/4b8618e56748e06b90031eb837773e87.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/pasha-dashtgard-on-why-american-men>
+
+---
+
+##  AIPAC-Funded Lawmakers Push For Millions In Spending On Genocide Tech 
+
+date: 2025-07-22, from: The Lever News
+
+ The latest military spending bill fulfills an AIPAC-curated wishlist and sets the stage for a defense industry feeding frenzy.  
+
+<br> 
+
+<https://www.levernews.com/aipac-funded-lawmakers-push-for-millions-in-spending-on-genocide-tech/>
+
+---
+
+## Maurene Comey’s unjustified firing looks even more corrupt today
+
+date: 2025-07-22, from: The Contrarian
+
+Trump's Justice Department has bulldozed the norms of justice and fired dozens of prosecutors. 
+
+<br> 
+
+<https://contrarian.substack.com/p/maurene-comeys-unjustified-firing>
+
+---
+
+## Let’s Do Lunch! 07/22
+
+date: 2025-07-22, from: The Contrarian
+
+A recording from Let's Do Lunch LIVE 07/22 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168964882/176f68232320f7d2e87a000bd4dc5366.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168964882/176f68232320f7d2e87a000bd4dc5366.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0722>
+
+---
+
+## Nothing to see here
+
+date: 2025-07-22, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/nothing-to-see-here>
+
+---
+
+##  Families Feel The Back-To-School Spending Squeeze As Feds Cut Education Funding 
+
+date: 2025-07-22, from: The Lever News
+
+ As the Trump administration freezes billions of federal funds earmarked for public schools, a startling number of parents say they can’t afford back-to-school shopping this year.  
+
+<br> 
+
+<https://www.levernews.com/families-feel-the-back-to-school-spending-squeeze-as-feds-cut-education-funding/>
+
+---
+
+## Trump’s reckless assault on the federal workforce affects every aspect of our lives
+
+date: 2025-07-22, from: The Contrarian
+
+The Texas tragedy is at the front edge of harm facing the country as Trump dismantles the government. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-reckless-assault-on-the-federal>
+
+---
+
+## Rural America is worth saving: Jess Piper on finding blue dots in red states
+
+date: 2025-07-22, from: The Contrarian
+
+"There's excitement in these little rural space, they just need a cheerleader." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168883382/3447f97a838ba48a86c4851a3321fde9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168883382/3447f97a838ba48a86c4851a3321fde9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rural-america-is-worth-saving-jess>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-22, from: The Contrarian
+
+Tuesday: Good Trouble Lives On protests in Chicago, Phoenix, Las Vegas, Los Angeles, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -168,18 +294,6 @@ A recording from Coffee with Contrarians LIVE 7/21
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-contrarians-0721>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-21, from: The Contrarian
-
-Monday: Good Trouble Lives On protests in Maryland, California, Florida, Illinois, Maine, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

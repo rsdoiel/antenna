@@ -1,23 +1,241 @@
 ---
 title: home
-updated: 2025-07-22 06:06:41
+updated: 2025-07-22 14:08:18
 ---
 
 # home
 
-(date: 2025-07-22 06:06:41)
+(date: 2025-07-22 14:08:18)
 
 ---
 
-## How They Pulled It Off: Updating a Home Made from a Reclaimed Greenhouse Windows
+## The Best Scoops of Ice Cream Just Might Contain Veggies
+
+date: 2025-07-22, from: California Grown
+
+<p>Ever think that scoops of ice cream could count towards your daily servings of vegetables? Yeah, neither did we—until we discovered Little Fox Cups and Cones in Oceanside, California. Here, the boundaries between sweet treats and veggies blur deliciously, and it&#8217;s a match made in CA GROWN heaven! Meet Meghan Knoll, Ice Cream Visionary and [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/scoops-of-ice-cream/" data-wpel-link="internal" target="_self">The Best Scoops of Ice Cream Just Might Contain Veggies</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/scoops-of-ice-cream/>
+
+---
+
+## Easy Zucchini ‘ Pizza’
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>A Vegetable Delight in Disguise</p>
+<p>The post <a href="https://www.ediblesfvalley.com/summer-2025/easy-zucchini-pizza/">Easy Zucchini ‘ Pizza’</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/summer-2025/easy-zucchini-pizza/?utm_source=rss&utm_medium=rss&utm_campaign=easy-zucchini-pizza>
+
+---
+
+## Gadgets Galore!
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>The average American spends the equivalent to two and a half years of their life in the kitchen.</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/gadgets-galore/">Gadgets Galore!</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/gadgets-galore/?utm_source=rss&utm_medium=rss&utm_campaign=gadgets-galore>
+
+---
+
+## The Secret Garden: Arlington Garden in Pasadena is a Peaceful Retreat and More
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>The city’s most quietly spectacular treasures</p>
+<p>The post <a href="https://www.ediblesfvalley.com/uncategorized/the-secret-garden-arlington-garden-in-pasadena-is-a-peaceful-retreat-and-more/">The Secret Garden: Arlington Garden in Pasadena is a Peaceful Retreat and More</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/uncategorized/the-secret-garden-arlington-garden-in-pasadena-is-a-peaceful-retreat-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=the-secret-garden-arlington-garden-in-pasadena-is-a-peaceful-retreat-and-more>
+
+---
+
+## Funding For Food Family
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>Longtime Casa del Rey employee to rebuild family home</p>
+<p>The post <a href="https://www.ediblesfvalley.com/stories/funding-for-food-family/">Funding For Food Family</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/stories/funding-for-food-family/?utm_source=rss&utm_medium=rss&utm_campaign=funding-for-food-family>
+
+---
+
+## Wake up and Smell the Marmalade at Le Petit Pali Hotel
+
+date: 2025-07-22, from: California Grown
+
+<p>The&#160;incredible jams and citrus juice from Marmalade Grove in Ojai are a&#160;standout at&#160;the continental breakfast at&#160;Le Petit Pali. &#160;Bright, tangy, and impossibly fresh &#8211; they are&#160;a love letter to California’s best flavors.&#160; The Star of the Morning Show: Le Petit Pali’s Continental Breakfast with Marmalade Grove Citrus Starting the morning with&#160;warm croissants slathered in vibrant [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/le-petit-pali/" data-wpel-link="internal" target="_self">Wake up and Smell the Marmalade at Le Petit Pali Hotel</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/le-petit-pali/>
+
+---
+
+## Oh Happy Day, HOPEFULLY
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>Community rallies around John Hopkins and his Altadena vegan café and grocery</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/oh-happy-day-hopefully/">Oh Happy Day, HOPEFULLY</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/oh-happy-day-hopefully/?utm_source=rss&utm_medium=rss&utm_campaign=oh-happy-day-hopefully>
+
+---
+
+## Sustainability Isn’t Magic: Bonnie Wright brings climate action to the real world
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>She cast her energy into environmental activism. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/stories/sustainability-isnt-magic-bonnie-wright-brings-climate-action-to-the-real-world/">Sustainability Isn’t Magic: Bonnie Wright brings climate action to the real world</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/stories/sustainability-isnt-magic-bonnie-wright-brings-climate-action-to-the-real-world/?utm_source=rss&utm_medium=rss&utm_campaign=sustainability-isnt-magic-bonnie-wright-brings-climate-action-to-the-real-world>
+
+---
+
+## Tomatomania in the Kitchen
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>Enjoy a wealth of seasonal summer tomato recipes</p>
+<p>The post <a href="https://www.ediblesfvalley.com/recipes/tomatomania-in-the-kitchen/">Tomatomania in the Kitchen</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/recipes/tomatomania-in-the-kitchen/?utm_source=rss&utm_medium=rss&utm_campaign=tomatomania-in-the-kitchen>
+
+---
+
+## Juice Up Your Life
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>At Juicy Ladies, food is medicine</p>
+<p>The post <a href="https://www.ediblesfvalley.com/drink/juice-up-your-life/">Juice Up Your Life</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/drink/juice-up-your-life/?utm_source=rss&utm_medium=rss&utm_campaign=juice-up-your-life>
+
+---
+
+## This 605-Square-Foot Swedish Cabin Looks Like It’s Wearing a Witch’s Hat
 
 date: 2025-07-22, from: Dwell
 
-In Indiana, builder Loren Wood preserves a special detail in a family's home, making it weatherproof and watertight for years to come. 
+The retreat has a pointy aluminum roof that forms soaring ceilings and a loft. 
+
+<br> 
+
+<https://www.dwell.com/article/hee-house-studio-ellsinger-mini-cabin-loft-built-in-bookshelf-5b24102f>
+
+---
+
+## In the Washington Woods, a Striking Steel A-Frame Seeks $1.8M
+
+date: 2025-07-22, from: Dwell
+
+The one-acre property includes a metal-and-glass garage and a skylit home with a soapstone fireplace and a Japanese soaking tub. 
+
+<br> 
+
+<https://www.dwell.com/article/steel-a-frame-home-sandler-kilburn-architects-washington-real-estate-40ded686>
+
+---
+
+## How to Grow and Care for Russian Olives
+
+date: 2025-07-22, from: The Gardener's Path
+
+<p>Russian olive (Elaeagnus angustifolia) is a striking, fast-growing shrub or small tree with silvery foliage, fragrant spring flowers, and sweet, olive-like fruit. Though beautiful and drought-tolerant, it’s considered invasive in many regions as it spreads aggressively. Learn how to grow Russian olive in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-russian-olive/">How to Grow and Care for Russian Olives</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-russian-olive/>
+
+---
+
+## Wood & Water Has All the Elements
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>Sherman Oaks restaurant is all about balance</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/wood-water-has-all-the-elements/">Wood &#038; Water Has All the Elements</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/wood-water-has-all-the-elements/?utm_source=rss&utm_medium=rss&utm_campaign=wood-water-has-all-the-elements>
+
+---
+
+## In Issue #12: Summer 2025 – Resilience
+
+date: 2025-07-22, from: Edible San Fernando Valley
+
+<p>Sprouts showed up in my garden this spring like magic. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/explore/in-issue-12-summer-2025-resilience/">In Issue #12: Summer 2025 &#8211; Resilience</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/explore/in-issue-12-summer-2025-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=in-issue-12-summer-2025-resilience>
+
+---
+
+## How They Pulled It Off: Preserving a Home Made From Reclaimed Greenhouse Windows
+
+date: 2025-07-22, from: Dwell
+
+In Indiana, builder Loren Wood updates a special detail in a family's home, making it weatherproof and watertight for years to come. 
 
 <br> 
 
 <https://www.dwell.com/article/loren-wood-builders-indiana-greenhouse-homestead-6872d80d>
+
+---
+
+## Here’s Why Airlines Force You to Gate-Check Your Bag When the Overhead Bins Are Empty
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+Ever had to gate-check your bag only to find there's plenty of overhead bin space? A flight attendant shares why. 
+
+<br> 
+
+<https://www.sunset.com/travel/gate-check-bag-overhead-bins>
 
 ---
 
@@ -36,6 +254,30 @@ date: 2025-07-22, from: Yard Life blog
 
 ---
 
+## How Long Should You Age Your Wine For? Here’s What the Pros Say
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+Wondering how long you have to wait to open that bottle of vintage? Experts share how long to age wine for. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/how-long-to-age-wine>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This Pacific Northwest Beach Cabin Was Transformed to Withstand Extreme Weather Step inside the stylish space inspired by nature.  Read more: This Pacific Northwest Beach Cabin&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## Why Do Peacocks Spread Their Feathers? Fascinating Facts
 
 date: 2025-07-22, from: Yard Life blog
@@ -48,6 +290,30 @@ date: 2025-07-22, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/why-do-peacocks-spread-their-feathers-fascinating-facts/>
+
+---
+
+## A Look at an Architect’s A-Frame Home Office Makeover
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+An architect remodels his home office in a late 1950s A-frame beach house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects/a-frame-home-office-makeover>
+
+---
+
+## Here’s How Much Time (and Money) You’ll Actually Spend on Your Next Renovation
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+Thinking of renovating? Here's how much money and time you should set aside to complete your home renovation. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/cost-of-renovation>
 
 ---
 
@@ -209,18 +475,6 @@ Costco will open seven new location in August, including two in Richland, Washin
 <br> 
 
 <https://www.sunset.com/lifestyle/costco-new-stores-august-2025>
-
----
-
-## Homepage 2025
-
-date: 2025-07-21, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight Now you see it… now you don&#8217;t.  Read more: The Design Industry&#8217;s Coolest Trend Is Hiding in Plain Sight&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

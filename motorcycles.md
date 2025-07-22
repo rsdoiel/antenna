@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-07-22 06:06:41
+updated: 2025-07-22 14:08:19
 ---
 
 # motorcycles
 
-(date: 2025-07-22 06:06:41)
+(date: 2025-07-22 14:08:19)
+
+---
+
+## Triumph’s Small Displacement Thruxton Is Coming Much Sooner Than You Think
+
+date: 2025-07-22, from: Ride Apart, Electric Motorcycle News
+
+It’s built through Triumph's partnership with Bajaj, and is set to launch in India in August this year. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766442/triumph-thruxton-400-launch-debut-august-2025/>
+
+---
+
+## Imagine This Nearly 1,000 Horsepower EV Motor In Your Next UTV
+
+date: 2025-07-22, from: Ride Apart, Electric Motorcycle News
+
+That'd be one spicy meatball.  
+
+<br> 
+
+<https://www.rideapart.com/news/766535/yasa-electric-ev-motor-power-density-738-horsepower-utv-mercedes-benz/>
 
 ---
 

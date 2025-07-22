@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-22 06:06:42
+updated: 2025-07-22 14:08:19
 ---
 
 # retro computing
 
-(date: 2025-07-22 06:06:42)
+(date: 2025-07-22 14:08:19)
+
+---
+
+## Plus Post: Gemini Galaxy 1
+
+date: 2025-07-22, from: Computer ads from the Past
+
+The cost effective solution to your computer needs for only &#163;1,450 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-gemini-galaxy-1>
 
 ---
 

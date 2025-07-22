@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-22 06:06:39
+updated: 2025-07-22 14:08:16
 ---
 
 # games
 
-(date: 2025-07-22 06:06:39)
+(date: 2025-07-22 14:08:16)
+
+---
+
+## The 25 best PlayStation 5 games
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+What are the best games on PlayStation 5? Now that supply issues are over, Sony’s latest console is flying off shelves, while its library of games rapidly fills up. New and old PS5 owners will be wondering what to play, so here’s our living list of the best video games we’ve played on the platform, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5>
+
+---
+
+## Pokémon Legends: Z-A’s cutesy Mega Dragonite might be darker than you realize
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Remember Mega Evolution? The power-up was a major draw for Pokémon X and Y, which introduced it as an ability that transformed select monsters into enormous, more powerful versions of themselves back in 2013. The mechanic is back for the action-oriented Pokémon Legends: Z-A, where the player can encounter creatures who Mega Evolve in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615239/mega-dragonite-pokemon-legends-za-evolution>
+
+---
+
+## K-Pop Demon Hunters exploded on Netflix — and now it’s a fanfic legend
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+It’s been a month since Netflix’s K-Pop Demon Hunters took the internet by storm, thrusting us into a world of, well, demon-hunting K-Pop music. The fever is not subsiding; at the time of writing, the film is still number one on the streaming platform&#8217;s top 10 most-streamed movies list, while the fictional bands that provide [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/615140/kpop-demon-hunters-netflix-fanfic-fandom>
+
+---
+
+## Splitgate 2 &#8216;unlaunches,&#8217; studio to cut staff ahead of 2026 rerelease
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Following its surprise launch in June, Splitgate 2 is now “unlaunching.” The multiplayer first-person shooter will remain online in a beta state and continue to get support through a season 3 update and bug fixes, but developer 1047 Games is otherwise pausing its planned roadmap to overhaul the project ahead of a relaunch in early [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/614738/splitgate-2-unlaunch-announcement-1047-games-layoffs>
+
+---
+
+## There’s a Ren &#038; Stimpy void in the world that the creator of Bullet Time intends to fill
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Eddie Alcazar loves cartoons from the ’90s. Ren &#38; Stimpy, Rocko’s Modern Life, the contorted nightmares of MTV’s Liquid Television — you name it, he’s seen it. Maybe not that unique, but unlike the rest of us animation fiends who dream of the days of painted backgrounds and hand-drawn gross-out gags, Alcazar did something about [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/615053/bullet-time-cartoon-trailer-clip>
+
+---
+
+## South Park creators score $1.5B deal to bring show to Paramount Plus
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+After longstanding negotiations, South Park creators Matt Stone and Trey Parker, through their Park County production company, have scored a $1.5 billion deal with Paramount Plus for the show’s global streaming rights. The entire series will be available for the first time in the U.S. on the streamer, with the deal valued at $300 million [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615092/south-park-paramount-plus-deal>
+
+---
+
+## How to get Honedge and how Aegislash works in Pokémon Go
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Honedge and its evolutions, Doublade and Aegislash, have made their Pokémon Go debuts and the methods to get them are a little specific, as you won’t just find them floating around in the wild like you would with other Pokémon. Aegislash also has a pretty unique battle mechanic, making it an interesting pick for PvP. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/615086/honedge-doublade-aegislash-forms-how-to-get>
+
+---
+
+## Pokémon Friends is a cute education tool with a hidden cost
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+A brand-new game was announced during today’s Pokémon Presents stream, but it most certainly wasn’t one you were expecting. Rather than unveiling a new mainline entry or Black and White remakes, the franchise’s latest entry is Pokémon Friends. It’s a small-scale puzzle game built for mobile devices and Nintendo Switch that sees the series continue [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/615088/pokemon-friends-hands-on-impressions-nintendo-switch-2>
+
+---
+
+## Fantastic Four: First Steps babyproofs the MCU
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Marvel Studios’ The Fantastic Four: First Steps is set in a world where the eponymous superheroes are beloved celebrities with their own animated TV show, which is used as a way to get Johnny Storm/Human Torch (Joseph Quinn) and Ben Grimm/The Thing (Ebon Moss-Bachrach) to say “Flame on!” and “It’s clobbering time!” without actually taking [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/615093/fantastic-four-first-steps-mcu-review>
 
 ---
 

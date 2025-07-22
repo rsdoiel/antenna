@@ -1,23 +1,134 @@
 ---
 title: socal north
-updated: 2025-07-22 06:06:35
+updated: 2025-07-22 14:08:11
 ---
 
 # socal north
 
-(date: 2025-07-22 06:06:35)
+(date: 2025-07-22 14:08:11)
 
 ---
 
-## In a landmark move, Children’s Hospital LA closes its gender-affirming care center today
+## First mural of its kind unveiled at a mosque in America is now in Koreatown
 
 date: 2025-07-22, updated: 2025-07-22, from: The LAist
 
-CHLA cites pressure from the Trump administration to close the center, leaving patients with fewer options for gender-affirming care. 
+Titled Sabr at Fajr, the mural captures themes of patience, endurance and resilience. 
 
 <br> 
 
-<https://laist.com/news/health/in-a-landmark-move-childrens-hospital-la-closes-its-gender-affirming-care-center-today>
+<https://laist.com/news/los-angeles-activities/mural-unveiled-at-mosque-in-koreatown>
+
+---
+
+## Ozzy Osbourne, heavy metal icon, dies at 76
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Known as the "Prince of Darkness," the lead singer of the massively influential rock band Black Sabbath reached another generation via the MTV reality show The Osbournes in the early 2000s. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/ozzy-osbourne-heavy-metal-icon-dies-at-76>
+
+---
+
+## How the GOP budget bill will affect the cost of California health insurance
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+The changes Congress made will hit Covered California and likely drive up health insurance costs for 2 million Californians. 
+
+<br> 
+
+<https://laist.com/news/health/how-the-gop-budget-bill-will-affect-the-cost-of-california-health-insurance>
+
+---
+
+## Schoolyard greening projects hit milestone as advocates see the 'most impact ever'
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+The efforts are funded largely by a 2022 state allocation and other grants. The goal: protect students from pollution and heat, and teach ecology. 
+
+<br> 
+
+<https://laist.com/news/education/schoolyard-greening-projects-milestones-california-investment>
+
+---
+
+## NPR news chief announces she's leaving days after Congress kills federal funding
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+NPR newsroom chief Edith Chapin says she's leaving the network. She made the announcement just days after Congress voted to strip public broadcasting of all federal funding. 
+
+<br> 
+
+<https://laist.com/news/npr-news-chief-announces-shes-leaving-days-after-congress-kills-federal-funding>
+
+---
+
+## TikTok told me the best breakfast burrito was at a hospital cafeteria in Torrance. I had to check it out
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+The breakfast burrito served up at Torrance Memorial Hospital is hearty, fresh — and cheap. 
+
+<br> 
+
+<https://laist.com/news/food/tiktok-told-me-the-best-breakfast-burrito-was-at-a-hospital-cafeteria-in-torrance>
+
+---
+
+## How the GOP budget bill will affect the cost of California health insurance
+
+date: 2025-07-22, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The GOP budget bill made significant changes to Covered California, which experts and insurers say will increase out-of-pocket costs for consumers.</p>
+<p>The post <a href="https://lbpost.com/news/health/how-the-gop-budget-bill-will-affect-the-cost-of-california-health-insurance">How the GOP budget bill will affect the cost of California health insurance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/how-the-gop-budget-bill-will-affect-the-cost-of-california-health-insurance>
+
+---
+
+## Hurry up! Scientists predict today will be (slightly) shorter than normal
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Earth doesn't rotate exactly on schedule. Scientists believe that today is going to be about a millisecond short of a typical 24-hour day. 
+
+<br> 
+
+<https://laist.com/news/hurry-up-scientists-predict-today-slightly-shorter-than-normal>
+
+---
+
+## Gita O’Neill named as new LAHSA head with major changes on the horizon
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+The selection comes after CEO Va Lecia Adams Kellum announced her resignation in April. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/oneill-new-lahsa-head>
+
+---
+
+## California OSHA inspectors don’t visit worksites even when workers are injured
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Nearly a third of Cal/OSHA positions were vacant last year, and a new state audit found that caused the agency to skip in-person inspections, even when workers were injured. 
+
+<br> 
+
+<https://laist.com/news/california-osha-inspectors-dont-visit-worksites-even-when-workers-are-injured>
 
 ---
 
@@ -33,7 +144,7 @@ Starting in January, the state offered more-generous leave benefits. Claims in t
 
 ---
 
-## 1.5 million fewer people rode Metro in June compared to a year earlier
+## There were 1.5 million fewer Metro rides in June compared to a year earlier
 
 date: 2025-07-22, updated: 2025-07-22, from: The LAist
 
@@ -42,6 +153,18 @@ With the opening of the LAX Metro Transit Center, the K Line bucked the trend.
 <br> 
 
 <https://laist.com/news/transportation/fewer-people-rode-metro>
+
+---
+
+## In a landmark move, Children’s Hospital LA closes its gender-affirming care center today
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+CHLA cites pressure from the Trump administration to close the center, leaving patients with fewer options for gender-affirming care. 
+
+<br> 
+
+<https://laist.com/news/health/in-a-landmark-move-childrens-hospital-la-closes-its-gender-affirming-care-center-today>
 
 ---
 
@@ -109,7 +232,7 @@ Planned Parenthood serves more than 1.3 million patients across California, more
 
 date: 2025-07-21, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-2048x1366.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-2048x1366.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A Pentagon official said they "were instrumental in restoring order" after immigration protests. Local leaders said their arrival was nothing more than a political stunt.</p>
 <p>The post <a href="https://lbpost.com/news/pentagon-says-it-will-withdraw-the-700-marines-deployed-to-los-angeles">Pentagon says it will withdraw the 700 Marines deployed to Los Angeles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -122,7 +245,7 @@ date: 2025-07-21, from: Longbeach Post
 
 ## The Huntington's smelly corpse flower named Green Boy is expected to bloom any day
 
-date: 2025-07-21, updated: 2025-07-21, from: The LAist
+date: 2025-07-21, updated: 2025-07-22, from: The LAist
 
 Visitors are welcome to catch the rare sight — and smell — in person for free. Or watch it bloom through the Huntington's livestream. 
 
@@ -184,7 +307,7 @@ President Donald Trump deployed the troops ostensibly to quell protests over imm
 
 date: 2025-07-21, from: Longbeach Post
 
-<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cities across the state are reporting major declines in killings and other violent crimes through the first half of 2025.</p>
 <p>The post <a href="https://lbpost.com/news/crime/crime-stats-long-beach-shootings-2025-homicides">Shootings hit a 5-year low in Long Beach, and homicides are also on the decline, police chief says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

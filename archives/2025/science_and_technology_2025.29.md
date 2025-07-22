@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-07-22 06:06:37
+updated: 2025-07-22 14:08:13
 ---
 
 # science and technology
 
-(date: 2025-07-22 06:06:37)
+(date: 2025-07-22 14:08:13)
+
+---
+
+## Google AI Overviews are killing the web, Pew study shows (again)
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Summarizing online content is good for the search giant, not so much for publishers</h4> <p><strong>ai-pocalypse</strong>  Google Search users are less likely to click on search result links when those pages have AI Overviews, according to the Pew Research Center.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/google_ai_overviews_suppress_search/>
+
+---
+
+## Biggest chunk of Mars on Earth sells for $5.3M at auction, cheaper than NASA's sample return mission
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Sotheby&#39;s also flogs off dinosaur skeleton for $26M</h4> <p><strong>Videos</strong>  The largest chunk of Mars yet discovered on Earth, a 54-pound (25kg) chunk of the Red Planet, has been purchased at auction for $5.3 million by an unknown bidder.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/mars_rock_auction/>
+
+---
+
+## NASA Challenge Wraps, Student Teams Complete Space Suit Challenges
+
+date: 2025-07-22, from: NASA breaking news
+
+After months of work in the NASA Spacesuit User Interface Technologies for Students (SUITS) challenge, more than 100 students from 12 universities across the United States traveled to NASA’s Johnson Space Center in Houston to showcase potential user interface designs for future generations of spacesuits and rovers.&#160;&#160; NASA Johnson’s simulated Moon and Mars surface, called [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-wraps-student-teams-complete-space-suit-challenges/>
+
+---
+
+## How to get rid of useless keys in Windows and turn them into something helpful
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Turn that Copilot or Scroll Lock key into a media control or extended character.</h4> <p>In the era of laptops and tenkeyless keyboards, many of us are living with fewer keys than we had years ago. But even on a small keyboard, you&#39;ll find keys that you just don&#39;t need. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/useless_keys_windows/>
+
+---
+
+## How AI chip upstart FuriosaAI won over LG with its power-sipping design
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Testing shows RNGD chips up to 2.25x higher performance per watt than.... five-year-old Nvidia silicon</h4> <p>South Korean AI chip startup FuriosaAI scored a major customer win this week after LG&#39;s AI Research division tapped its AI accelerators to power servers running its Exaone family of large language models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/sk_furiosa_ai_lg/>
+
+---
+
+## Fedora needs to embrace Flathub, and here’s how that could be done
+
+date: 2025-07-22, from: OS News
+
+Earlier this year, we talked about a peculiar oddity concerning Flatpaks and Fedora: unlike just about any other distribution, Fedora maintains its own Flatpak repository, while everyone else just defaults to Flathub. While there&#8217;s a few technical differences between Fedora Flatpaks and Flathub Flatpaks, the main gist is that the Fedora ones are built using Fedora&#8217;s own RPMs, while Flathub&#8217;s are built using different means. This is an odd situation, since it does not reflect what users really want &#8211; users seem to greatly prefer Flatpaks from Flathub, since they have fewer bugs, are packaged by the applications&#8217; creators, and bugs in Flathub Flatpaks can be reported to the actual developers, whereas bugs in Fedora Flatpaks generally cannot. As such, Fedora users are often surprised to learn that the Flatpak they installed came from Fedora instead of Flathub. Now, since Fedora&#8217;s long-term goal is to make their immutable, Flatpak-focused variants the default, this situation needs to be addressed. As such, Fedora and GNOME developer Michael Catanzaro has published an incredibly detailed article outlining all the issues and possible solutions and courses of action. The basic gist is that before Fedora can consider switching from its own Flatpak repository to Flathub, a number of shortcomings in Flathub must be addressed: Some of these points are fairly obvious, but let&#8217;s go over them anyway. A lot of binaries on Flathub are pre-built in that they are not built using Flathub&#8217;s infrastructure, and as such, you don&#8217;t know if anything has been done to the code between, say, the code&#8217;s release on GitHub and the Flatpak you install on your computer. This obviously needs to change, and ideally, all Flatpaks on Flathub should be reproducible. End-of-life runtimes should obviously also not be a thing, for entirely obvious reasons. Currently, a little under a third of applications on Flathub use end-of-life runtimes, meaning the runtimes they use are not receiving any security updates. The same applies to external dependencies packaged inside Flatpaks; they can be outdated too, but many Flatpaks do not use the designated tool to deal with this issue. Obviously, holes in the Flatpak sandbox should not exist either, again for entirely obvious reasons. Catanzaro proposes a number of solutions to all of these problems, which require work from both Fedora and Flathub to be implemented. On top of that, even once these issues are satisfactorily addressed, there&#8217;s a debate to be had over the exact way in which both the traditional and immutable variants of Fedora move on over to Flathub &#8211; the variant I personally like the most is where the core applications installed by default remain in control of Fedora, while everything else gets installed from Flathub. Of course, this is not of much relevance to people who prefer plain, traditional RPMs &#8211; such as myself &#8211; to whom Flatpaks are more of a &#8220;if all else fails&#8221; option than a default. While the immutable, Flatpak-based variants of Fedora are definitely on their way to become the default option, the traditional RPM variants will not be going anywhere, and will remain an option as well. I think defaulting new users to the immutable variants is the way to go, even if I personally won&#8217;t be using them. 
+
+<br> 
+
+<https://www.osnews.com/story/142867/fedora-needs-to-embrace-flathub-and-heres-how-that-could-be-done/>
+
+---
+
+## Struggling to sell EVs, Tesla pivots to slinging burgers
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>The diner is now open in West Hollywood, and Musk wants to start a chain</h4> <p><strong>video</strong>  Facing declining sales and a tarnished reputation, EV manufacturer Tesla is looking to a new industry to generate some revenue: Fast-casual food service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/tesla_fast_food/>
+
+---
+
+## Arch Linux users told to purge Firefox forks after AUR malware scare
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>The distro&#39;s greatest asset is arguably also its greatest weakness</h4> <p>If you installed the Firefox, LibreWolf, or Zen web browsers from the Arch User Repository (AUR) in the last few days, delete them immediately and install fresh copies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/arch_aur_browsers_compromised/>
+
+---
+
+## Curiosity Blog, Sols 4604-4606: Taking a Deep Breath of Martian Air
+
+date: 2025-07-22, from: NASA breaking news
+
+Written by Lauren Edgar, Planetary Geologist at USGS Astrogeology Science Center Earth planning date: Friday, July 18, 2025 Curiosity has started to investigate the main exposure of the boxwork structures! What was once a distant target is now on our doorstep, and Curiosity is beginning to explore the ridges and hollows that make up this […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4604-4606-taking-a-deep-breath-of-martian-air/>
+
+---
+
+## GitHub command palette wins stay of execution after dev pushback
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Fans say low usage no surprise when obscure but beloved feature disabled by default</h4> <p>GitHub has &#34;paused&#34; the removal of the command palette, which enables keyboard control of the GitHub web application, following developer protests.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/github_command_palette_backtrack/>
+
+---
+
+## NASA Invites Media to Senegal Artemis Accords Signing Ceremony
+
+date: 2025-07-22, from: NASA breaking news
+
+Senegal will sign the Artemis Accords during a ceremony at 2 p.m. EDT on Thursday, July 24, at NASA Headquarters in Washington. Brian Hughes, NASA chief of staff, will host Maram Kairé, director general of the Senegalese space agency (ASES), and Abdoul Wahab Haidara, ambassador of Senegal to the United States, along with other officials [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-senegal-artemis-accords-signing-ceremony/>
+
+---
+
+## Surprise, surprise: Chinese spies, IP stealers, other miscreants attacking Microsoft SharePoint servers
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>With more to come, no doubt</h4> <p>At least three Chinese groups are attacking on-premises SharePoint servers via a couple of recently disclosed Microsoft bugs, according to Redmond.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/chinese_groups_attacking_microsoft_sharepoint/>
+
+---
+
+## Silicon Valley engineer admits theft of US missile tech secrets
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Used stolen info to pitch for Chinese tech talent program</h4> <p>A Silicon Valley engineer has pleaded guilty to stealing thousands of trade secrets worth hundreds of millions of dollars, including crucial military technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/engineer_admits_trade_theft/>
+
+---
+
+## NASA’s X-59 Makes a Move
+
+date: 2025-07-22, from: NASA breaking news
+
+NASA’s X-59 quiet supersonic research aircraft completed its first low-speed taxi test at U.S. Air Force Plant 42 in Palmdale, California, on July 10, 2025. This marked the first time the one-of-a-kind experimental aircraft has ever moved under its own power.  During the test, engineers and flight crews monitored the X-59 as it moved across the runway, working to validate critical [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-x-59-makes-a-move/>
+
+---
+
+## Humans can be tracked with unique 'fingerprint' based on how their bodies block Wi-Fi signals
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Wi-Fi spy with my little eye that same guy I saw at another hotspot</h4> <p>Researchers in Italy have developed a way to create a biometric identifier for people based on the way the human body interferes with Wi-Fi signal propagation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/whofi_wifi_identifier/>
+
+---
+
+## UK government swoons over OpenAI in legally meaningless love-in
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Credulous minister claims MoU – not contract – with chatbot biz could help &#39;fix NHS&#39; and &#39;drive economic growth&#39;</h4> <p>The UK&#39;s Department for Science, Innovation &amp; Technology (DSIT) is jumping into bed with chatbot biz OpenAI, signing a memorandum of understanding to expand OpenAI&#39;s footprint in the nation while inserting its tech firmly into the public sector.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/openai_to_help_fix_nhs/>
+
+---
+
+## Microsoft patches critical SharePoint 2016 zero-days amid active exploits
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Admins urged to rotate machine keys, restart IIS after emergency fix</h4> <p>Microsoft has good news for administrators running SharePoint Server 2016. The cloud and software megacorp has published updates to close a gaping hole in the document management service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/microsoft_sharepoint_2016_patch/>
+
+---
+
+## The real reason why Trump is killing the Mauna Loa observatory in Hawai'i
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>The Keeling Curve, measured there, is irrefutable evidence of increasing CO2 emissions</h4> <p><strong>Column</strong>  When you don&#39;t like the message, what do you do? You shoot the messenger, of course.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/trump_shoots_climate_messenger/>
+
+---
+
+## Mike Lynch estate owes HPE $943M over Autonomy fallout
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>High Court judge slashes tech titan&#39;s $4B damages claim by almost 80%</h4> <p>A High Court judge has ruled that the estate of Autonomy founder Dr Mike Lynch will not have to pay the billions of dollars sought in damages by HPE following its ill-fated acquisition of Autonomy in 2011.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/mike_lynch_hpe_damages/>
 
 ---
 
@@ -13,7 +241,7 @@ updated: 2025-07-22 06:06:37
 
 date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
 
-<h4>Voyager Declaration rails against &#39;indiscriminate cuts&#39; to science and aeronautics research</h4> <p>NASA&#39;s Goddard Center Director, Makenzie Lystrup, is to depart after just over two years in the role.…</p> 
+<h4>Voyager Declaration rails against &#39;indiscriminate cuts&#39; to science and aeronautics research</h4> <p><strong>Updated</strong>  NASA&#39;s Goddard Center Director, Makenzie Lystrup, is to depart after just over two years in the role.…</p> 
 
 <br> 
 
@@ -25,7 +253,7 @@ date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
 
 date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
 
-<h4>&#39;We&#39;re going to smash the business model&#39; NHS, local council and schools told by politicos</h4> <p>The UK government is proposing to &#34;ban&#34; public sector organizations and critical national infrastructure from paying criminal operators behind ransomware attacks, under new measures outlined today.…</p> 
+<h4>&#39;We&#39;re going to smash the business model&#39; NHS, councils, and schools told</h4> <p>The UK government is proposing to &#34;ban&#34; public sector organizations and critical national infrastructure from paying criminal operators behind ransomware attacks, under new measures outlined today.…</p> 
 
 <br> 
 

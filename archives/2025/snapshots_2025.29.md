@@ -1,11 +1,210 @@
 ---
 title: snapshots
-updated: 2025-07-22 06:06:45
+updated: 2025-07-22 14:08:23
 ---
 
 # snapshots
 
-(date: 2025-07-22 06:06:45)
+(date: 2025-07-22 14:08:23)
+
+---
+
+## Gemini 2.5 Flash-Lite is now stable and generally available
+
+date: 2025-07-22, updated: 2025-07-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/gemini-25-flash-lite-is-now-stable-and-generally-available/">Gemini 2.5 Flash-Lite is now stable and generally available</a></strong></p>
+The last remaining member of the Gemini 2.5 trio joins Pro and Flash in General Availability today.</p>
+<p>Gemini 2.5 Flash-Lite is the cheapest of the 2.5 family, at $0.10/million input tokens and $0.40/million output tokens. This puts it equal to GPT-4.1 Nano on my <a href="https://www.llm-prices.com/">llm-prices.com</a> comparison table.</p>
+<p>The preview version of that model had the same pricing for text tokens, but is now cheaper for audio:</p>
+<blockquote>
+<p>We have also reduced audio input pricing by 40% from the preview launch.</p>
+</blockquote>
+<p>I released <a href="https://github.com/simonw/llm-gemini/releases/tag/0.24">llm-gemini 0.24</a> with support for the new model alias:</p>
+<pre><code>llm install -U llm-gemini
+llm -m gemini-2.5-flash-lite \
+  -a https://static.simonwillison.net/static/2024/pelican-joke-request.mp3
+</code></pre>
+<p>I wrote more <a href="https://simonwillison.net/2025/Jun/17/gemini-2-5/">about the Gemini 2.5 Flash-Lite preview model</a> last month.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/22/gemini-25-flash-lite/#atom-everything>
+
+---
+
+## DeepMind and OpenAI achieve IMO Gold. What does it all mean?
+
+date: 2025-07-22, from: Gary Marcus blog
+
+What we know, what we would like to know, and what it may take years to know 
+
+<br> 
+
+<https://garymarcus.substack.com/p/deepmind-and-openai-achieve-imo-gold>
+
+---
+
+## Xcode 26 Beta 4
+
+date: 2025-07-22, from: Michael Tsai
+
+Apple (download): Xcode 26 beta 3 includes SDKs for iOS 26, iPadOS 26, tvOS 26, watchOS 26, macOS Tahoe 26, and visionOS 26. Last time, there was only one new item in the release notes for beta 3. This time, they didn&#8217;t even update the release notes to say &#8220;beta 4.&#8221; Interestingly, Xcode now ships [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/22/xcode-26-beta-4/>
+
+---
+
+## macOS Tahoe 26 Developer Beta 4
+
+date: 2025-07-22, from: Michael Tsai
+
+Juli Clover: Apple today provided developers with the fourth beta of macOS Tahoe 26 for testing purposes, with the update coming two weeks after the third beta. This update did correctly install for me via Software Update. The only beta 4 item that I see in the releases notes is that it says Xcode Previews [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/22/macos-tahoe-26-developer-beta-4/>
+
+---
+
+## iOS 26 Developer Beta 4
+
+date: 2025-07-22, from: Michael Tsai
+
+Juli Clover: Apple today provided developers with the fourth betas of iOS 26 and iPadOS 26 for testing purposes, with the updates coming two weeks after Apple seeded the third betas. I don&#8217;t see any beta 4 release notes yet. Juli Clover: Apple has re-enabled Apple Intelligence Notification Summaries for apps in the News and [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/22/ios-26-developer-beta-4/>
+
+---
+
+## Apple TV Captions
+
+date: 2025-07-22, from: Michael Tsai
+
+John Gruber (2024, Mastodon): This made me think there has to be a better way to toggle captions than manually swiping and clicking on the Apple TV remote touchpad.Turns out there are two better ways:If you use the Control Center Apple TV remote control on your iPhone, there&#8217;s a dedicated &#8220;CC&#8221; button.In tvOS, go to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/22/apple-tv-captions/>
+
+---
+
+## Bartz v. Anthropic: Judge Alsup Certifies Class for Rightsholders of 7 Million Books Used by Anthropic
+
+date: 2025-07-22, from: Authors Union blogs
+
+Late last week Judge Alsup, presiding over the Bartz v. Anthropic copyright AI litigation, granted a motion to certify a class representing authors and rightsholders of nearly 7 million books. If you are a book author (or a publisher, or an heir to an author), you should be paying attention because there is a good chance that you could be included in this class. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/22/bartz-v-anthropic-judge-alsup-certifies-class-for-rightsholders-of-7-million-books-used-by-anthropic/>
+
+---
+
+## Microsoft Surface Laptop 5G is a Lunar Lake notebook for business customers
+
+date: 2025-07-22, from: Liliputing
+
+<p>The new Surface Laptop 5G is the first member of Microsoft&#8217;s Surface Laptop lineup to feature support for 5G cellular networks. But that option is only available to folks who purchase the newest version of the company&#8217;s Surface Laptop for Business. The latest Surface Laptops for consumers remain WiFi-only. Microsoft says the Surface Laptop 5G [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/microsoft-surface-laptop-5g-is-a-lunar-lake-notebook-for-business-customers/">Microsoft Surface Laptop 5G is a Lunar Lake notebook for business customers</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/microsoft-surface-laptop-5g-is-a-lunar-lake-notebook-for-business-customers/>
+
+---
+
+## Military Says It Will ‘Continuously’ Monitor Bathrooms to Comply With Anti-Trans Order
+
+date: 2025-07-22, from: 404 Media Group
+
+An internal memo obtained by 404 Media also shows the military ordered a review hold on "questionable content" at Stars and Stripes, the military's 'editorially independent' newspaper. 
+
+<br> 
+
+<https://www.404media.co/pentagon-says-it-will-continuously-monitor-bathrooms-to-comply-with-anti-trans-order/>
+
+---
+
+## Rural News Funding Threatened
+
+date: 2025-07-22, from: Guy Kawasaki blog
+
+Allison Perlman, Associate Professor of Film & Media Studies, University of California, Irvine. Josh Shepperd, Associate Professor of Media Studies, University of Colorado Boulder. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/rural-news-funding-threatened>
+
+---
+
+## “If You Ever Plan to Motor West” – Route 66 in the National Register of Historic Places
+
+date: 2025-07-22, from: National Archives, Text Message blog
+
+Maybe you are thinking of a mid-summer vacation and you might have the desire to drive the “Mother Road,” as Route 66 is known.  Route 66, one of the original highways in the US highway system was established in 1926 and stretches of the road are on the National Register of Historic Places (National Archives &#8230; <a href="https://text-message.blogs.archives.gov/2025/07/22/if-you-ever-plan-to-motor-west-route-66-in-the-national-register-of-historic-places/" class="more-link">Continue reading <span class="screen-reader-text">“If You Ever Plan to Motor West” – Route 66 in the National Register of Historic Places</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/07/22/if-you-ever-plan-to-motor-west-route-66-in-the-national-register-of-historic-places/>
+
+---
+
+## SixUnited STHT1 is another mini ITX board with AMD Strix Halo: build your own Ryzen AI Max+ 395 mini PC
+
+date: 2025-07-22, from: Liliputing
+
+<p>There are a bunch of mini PCs available (or coming soon) with AMD Strix Halo processors featuring up to 16 Zen 5 CPU cores, up to 40-core RDNA 3.5 graphics, a 50 TOPS NPU, and up to 128GB of onboard memory (96GB of which can be allocated for use by the GPU). But we haven&#8217;t [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/sixunited-stht1-is-another-mini-itx-board-with-amd-strix-halo-build-your-own-ryzen-ai-max-395-mini-pc/">SixUnited STHT1 is another mini ITX board with AMD Strix Halo: build your own Ryzen AI Max+ 395 mini PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/sixunited-stht1-is-another-mini-itx-board-with-amd-strix-halo-build-your-own-ryzen-ai-max-395-mini-pc/>
+
+---
+
+## Wretched Priorities
+
+date: 2025-07-22, updated: 2025-07-22, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/22/wretched-priorities/>
+
+---
+
+## Plus Post: Gemini Galaxy 1
+
+date: 2025-07-22, from: Computer ads from the Past
+
+The cost effective solution to your computer needs for only &#163;1,450 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-gemini-galaxy-1>
+
+---
+
+## We're Publishing Our ICE Reporting In Spanish
+
+date: 2025-07-22, from: 404 Media Group
+
+From ICE's facial recognition app to its Palantir contract, we've translated a spread of our ICE articles into Spanish and made them freely available. 
+
+<br> 
+
+<https://www.404media.co/were-publishing-our-ice-reporting-in-spanish/>
 
 ---
 
@@ -102,6 +301,20 @@ date: 2025-07-22, from: 404 Media Group
 <br> 
 
 <https://www.404media.co/los-mas-de-200-sitios-que-monitorea-un-contratista-de-vigilancia-de-ice/>
+
+---
+
+## 
+                Lamenting contemporary bright UIs
+            
+
+date: 2025-07-22, updated: 2025-07-22, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-22/0/POSTING-en.html>
 
 ---
 
@@ -206,12 +419,12 @@ date: 2025-07-21, from: Liliputing
 
 ---
 
-## TRMNL 7.5″ (OG) DIY Kit is a battery-powered $36 E Ink display with WiFi, a battery, and dozens of software plugins
+## TRMNL 7.5″ (OG) DIY Kit is a battery-powered $45 E Ink display with WiFi, a battery, and dozens of software plugins
 
 date: 2025-07-21, from: Liliputing
 
 <p>TRMNL sells a $139 small E Ink display that you can use to show news updates, weather forecasts, calendar appointments, photos, or all sorts of other content. But TRMNL isn&#8217;t just a hardware company &#8211; the team also makes the open source software that runs on that device, and even shares information on how to [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/trmnl-7-5-og-diy-kit-is-a-battery-powered-36-e-ink-display-with-wifi-a-battery-and-dozens-of-software-plugins/">TRMNL 7.5&#8243; (OG) DIY Kit is a battery-powered $36 E Ink display with WiFi, a battery, and dozens of software plugins</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/trmnl-7-5-og-diy-kit-is-a-battery-powered-36-e-ink-display-with-wifi-a-battery-and-dozens-of-software-plugins/">TRMNL 7.5&#8243; (OG) DIY Kit is a battery-powered $45 E Ink display with WiFi, a battery, and dozens of software plugins</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 

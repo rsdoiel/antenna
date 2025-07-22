@@ -1,11 +1,437 @@
 ---
 title: columns
-updated: 2025-07-22 06:06:38
+updated: 2025-07-22 14:08:14
 ---
 
 # columns
 
-(date: 2025-07-22 06:06:38)
+(date: 2025-07-22 14:08:14)
+
+---
+
+##  A Behind the Scenes Look at NPR&#8217;s Tiny Desk Concerts 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/a-behind-the-scenes-look-at-nprs-tiny-desk-concerts>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-22, from: Dave Winer's Scripting News)
+
+I think I figured out why the AI companies want to do web browsers. It’s so that they can create an application development platform for people who want to write apps that run inside a new environment where the OS is a LLM. Lots of interesting possibilities. Imagine how the OS API might work. You could restructure a database by explaining in English how you want it restructured. In the freaking code. Could we bury Algol-like languages the same way we buried assembly and machine languages? Do we have the courage to imagine such things? 
+
+<br> 
+
+<http://scripting.com/2025/07/22.html#a202618>
+
+---
+
+##  Teaser trailer for Pixar&#8217;s next film, Hoppers. &#8220;We put this 🧠 into... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047195-teaser-trailer-for-pixars>
+
+---
+
+##  Coming Soon: Your Professional Decline 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/your-professional-decline>
+
+---
+
+##  Since 2004, new editions of the Choose Your Own Adventure books have... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047192-since-2004-new-editions-o>
+
+---
+
+## Arch Linux users told to purge Firefox forks after AUR malware scare
+
+date: 2025-07-22, updated: 2025-07-22, from: Liam Proven's articles at the Register
+
+<h4>The distro&#39;s greatest asset is arguably also its greatest weakness</h4>
+      <p>If you installed the Firefox, LibreWolf, or Zen web browsers from the Arch User Repository (AUR) in the last few days, delete them immediately and install fresh copies.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/22/arch_aur_browsers_compromised/>
+
+---
+
+## The Financial Times Reports the UK Is Backing Down From Its Demand for Apple to Grant It an iCloud Encryption Backdoor
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/>
+
+---
+
+## OS 26 Beta 4’s Are Out
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/07/22/apple-seeds-ios-26-beta-4/>
+
+---
+
+##  Some madman/genius put cut, copy, and paste into Doom.... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047189-some-madmangenius-put-cut>
+
+---
+
+## Open Sauce is a confoundingly brilliant Bay Area event
+
+date: 2025-07-22, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Open Sauce is a confoundingly brilliant Bay Area event</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/open-sauce-2025-joe-jeff-geerling.jpg" width="700" height="467" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-97a83472-1610-4224-8e17-1c748dddb50f" data-insert-attach="{&quot;id&quot;:&quot;97a83472-1610-4224-8e17-1c748dddb50f&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Joe and Jeff Geerling at Open Sauce 2025"></p>
+
+<p>This is the second year I brought my Dad (a now-retired radio engineer and co-host of <a href="https://www.youtube.com/c/GeerlingEngineering">Geerling Engineering</a>) to <a href="https://opensauce.com">Open Sauce</a>, a Bay Area maker faire-like event, dreamed up by <a href="https://en.wikipedia.org/wiki/William_Osman">William Osman</a> and featuring hundreds of exhibits ranging from mad science, to vintage electronics, to games, to <a href="https://engineering.purdue.edu/ECE/News/2025/purdue-ece-students-shatter-guinness-world-record-for-fastest-puzzle-cube-solving-robot">world-record-breaking Rubik's Cube solvers</a>:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-07-22T11:12:03-05:00" title="Tuesday, July 22, 2025 - 11:12" class="datetime">July 22, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event>
+
+---
+
+## The Computer History Museum’s Vintage Computer Festival: August 1–2
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://computerhistory.org/events/vintage-computer-festival-3/>
+
+---
+
+##  Rival Consoles — Soft Gradient Beckons 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/rival-consoles-soft-gradient-beckons>
+
+---
+
+## Hackers Exploit Zero-Day Microsoft SharePoint Exploit, Attacking Governments and Businesses Around the World
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/>
+
+---
+
+## Reuters: ‘Meta, X, and LinkedIn Appeal Unprecedented VAT Claim by Italy’
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/world/europe/meta-x-linkedin-appeal-unprecedented-vat-claim-by-italy-2025-07-21/>
+
+---
+
+##  Programmer Przemysław Dębiak recently defeated an advanced OpenAI model in a coding... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047193-programmer-przemyslaw-deb>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-22, from: Dave Winer's Scripting News)
+
+"You're an important caller," the machine lied, as if it were human.
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/22.html#a152749>
+
+---
+
+## ‘Google Solves Its Pixel 10 Leaks by Just Showing Us the Phone’
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/711033/google-pixel-10-design-tease-reveal>
+
+---
+
+## The Selling Of AI
+
+date: 2025-07-22, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2bzCD1pZzeV1RUSuRu_dazap6CzrXV4BsQSmv4h55_3D7OTLvHmA_3qSnQRgZs-t-gR6QzP92mAv1ydIREsSlc-hM37K5K5CTokMvO6r-NgKaliYdBkgxecAeZL0fgNNuuxeB4UNXFuOFVnp6nS_kachJ_Soki9I0eUcKAGzZEVtPQW6uMrVvL5Vhq3uR/s4096/TubePoem.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="2304" data-original-width="4096" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2bzCD1pZzeV1RUSuRu_dazap6CzrXV4BsQSmv4h55_3D7OTLvHmA_3qSnQRgZs-t-gR6QzP92mAv1ydIREsSlc-hM37K5K5CTokMvO6r-NgKaliYdBkgxecAeZL0fgNNuuxeB4UNXFuOFVnp6nS_kachJ_Soki9I0eUcKAGzZEVtPQW6uMrVvL5Vhq3uR/w200-h113/TubePoem.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/adsonthetube/status/574961972871036929">Not AI, just a favorite</a></td></tr></tbody></table>
+On my recent visit to London I was struck by how many of the advertisements in the Tube were selling AI. They fell into two groups, one aimed at CEOs and the other at marketing people. This is typical, the pitch for AI is impedance-matched to these targets:<br />
+<ul>
+<li>The irresistible pitch to CEOs is that they can "do more with less", or in other words they can lay off all these troublesome employees without impacting their products and sales.</li>
+<li>Marketing people value plausibility over correctness, which is precisely what LLMs are built to deliver. So the idea that a simple prompt will instantly generate reams of plausible collateral is similarly irresistible.</li>
+</ul>
+In <a href="https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html"><i>The Back Of The AI Envelope</i></a> I explained:<br />
+<blockquote>
+why Sam Altman et al are so desperate to run the "drug-dealer's algorithm" (<i>the first one's free</i>) and get the world hooked on this drug so they can supply a world of addicts.
+</blockquote>
+You can see how this works for the two targets. Once a CEO has addicted his company to AI by laying off most of the staff, there is no way he is going to go cold turkey by hiring them back even if the AI fails to meet his expectations. And once he has laid off most of the marketing department, the remaining marketeer must still generate the reams of collateral even if it lacks a certain something.<br />
+<br />
+Below the fold I look into this example of the process Cory Doctrow called <a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a>.<br />
+<span><a name='more'></a></span>
+<br />
+The first thing to note is that the pitch is working. The discourse is full of CEOs talking their book. For example we have Matt Novak's <a href="https://gizmodo.com/billionaires-convince-themselves-ai-is-close-to-making-new-scientific-discoveries-2000629060"><i>Billionaires Convince Themselves AI Chatbots Are Close to Making New Scientific Discoveries</i></a> recounting the wisdom of Travis Kalnick:<br />
+<blockquote>
+“I’ll go down this thread with [Chat]GPT or Grok and I’ll start to get to the edge of what’s known in quantum physics and then I’m doing the equivalent of vibe coding, except it’s vibe physics,” Kalanick <a href="https://youtu.be/Z0k-4wyH5vk">explained</a>. “And we’re approaching what’s known. And I’m trying to poke and see if there’s breakthroughs to be had. And I’ve gotten pretty damn close to some interesting breakthroughs just doing that.”
+</blockquote>
+Then there are the programmers extolling "vibe coding" and how it increases their productivity. CEOs who buy this pitch are laying off staff left and right. For example, Jordan Novote reports that <a href="https://www.cnbc.com/2025/07/02/microsoft-laying-off-about-9000-employees-in-latest-round-of-cuts.html"><i>Microsoft laying off about 9,000 employees in latest round of cuts</i></a>:<br />
+<blockquote>
+Microsoft said Wednesday that it will lay off about 9,000 employees. The move will affect less than 4% of its global workforce across different teams, geographies and levels of experience, a person familiar with the matter told CNBC.<br />
+...<br />
+Microsoft has held several rounds of layoffs already this calendar year. In January, it cut less than 1% of headcount based on performance. The 50-year-old software company slashed more than 6,000 jobs in May and then at least 300 more in June.
+</blockquote>
+How well is this likely to work out? Evidence is accumulating that AI's capabilities are over-hyped.  Thomas Claiburn's <a href="https://www.theregister.com/2025/07/03/ai_models_potemkin_understanding/"><i>AI models just don't understand what they're talking about</i></a> is an example:<br />
+<blockquote>
+Asked to explain the ABAB rhyming scheme, OpenAI's GPT-4o did so accurately, responding, "An ABAB scheme alternates rhymes: first and third lines rhyme, second and fourth rhyme."<br />
+<br />
+Yet when asked to provide a blank word in a four-line poem using the ABAB rhyming scheme, the model responded with a word that didn't rhyme appropriately. In other words, the model correctly predicted the tokens to explain the ABAB rhyme scheme without the understanding it would have needed to reproduce it.<br />
+<br />
+The problem with potemkins in AI models is that they invalidate benchmarks, the researchers argue. The purpose of benchmark tests for AI models is to suggest broader competence. But if the test only measures test performance and not the capacity to apply model training beyond the test scenario, it doesn't have much value.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI3jRVYLAE1CmpqQY3ndgz14dM_EargKAjdQ_m9jT7kHRZ61yAeDP4AY5nXQtx2SSFnkQbJdO7SkyEEHRrPfQ9USafuJaEObCLWhmPgv1AoCUJArsLiTpzRAJDOogAML8wa3axFGuD5RPHEfZKNXNeYSd7zUY5IpE2vsQ4561S7TU0MydpuUdsYmYDJrkt/s2562/forecasted-vs-observed.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1540" data-original-width="2562" height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI3jRVYLAE1CmpqQY3ndgz14dM_EargKAjdQ_m9jT7kHRZ61yAeDP4AY5nXQtx2SSFnkQbJdO7SkyEEHRrPfQ9USafuJaEObCLWhmPgv1AoCUJArsLiTpzRAJDOogAML8wa3axFGuD5RPHEfZKNXNeYSd7zUY5IpE2vsQ4561S7TU0MydpuUdsYmYDJrkt/w200-h120/forecasted-vs-observed.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/">Source</a></td></tr></tbody></table>
+As far as I know the only proper random controlled trial of AI's productivity increase comes from Model Evaluation and Threat Research entitled <a href="https://arxiv.org/abs/2507.09089"><i>Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity</i></a>:<br />
+<blockquote>
+16 developers with moderate AI experience complete 246 tasks in mature projects on which they have an average of 5 years of prior experience. Each task is randomly assigned to allow or disallow usage of early 2025 AI tools. When AI tools are allowed, developers primarily use Cursor Pro, a popular code editor, and Claude 3.5/3.7 Sonnet. Before starting tasks, developers forecast that allowing AI will reduce completion time by 24%. After completing the study, developers estimate that allowing AI reduced completion time by 20%. Surprisingly, we find that allowing AI actually increases completion time by 19%--AI tooling slowed developers down.
+</blockquote>
+David Gerard <a href="https://pivot-to-ai.com/2025/07/11/ai-coders-think-theyre-20-faster-but-theyre-actually-19-slower/">notes</a>:<br />
+<blockquote>
+Even the devs who liked the AI found it was bad at large and complex code bases like these ones, and over half the AI suggestions were not usable. Even the suggestions they accepted needed a lot of fixing up.
+</blockquote>
+This might be why Ashley Stewart reported that <a href="https://www.businessinsider.com/microsoft-internal-memo-using-ai-no-longer-optional-github-copilot-2025-6"><i>Microsoft pushes staff to use internal AI tools more, and may consider this in reviews. 'Using AI is no longer optional.'</i></a>:<br />
+<blockquote>
+Julia Liuson, president of the Microsoft division responsible for developer tools such as AI coding service GitHub Copilot, recently sent an email instructing managers to evaluate employee performance based on their use of internal AI tools like this.<br />
+<br />
+"AI is now a fundamental part of how we work," Liuson wrote. "Just like collaboration, data-driven thinking, and effective communication, using AI is no longer optional — it's core to every role and every level."<br />
+<br />
+Liuson told managers that AI "should be part of your holistic reflections on an individual's performance and impact."
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjhCJQ5POMVzh4GFpaP_XYM-5OJEczbb8IlUUQbowOet88NC4OnJewuAsEU__qwQbZqIlb0196rFOgQQ9rOXLlgpC_eJ-ZzfnyH0nT7pwbpwUkgBF9mmTawCa1Zj0SJLPSXlVstOvOI_-T2bzB7azJHx24N2OAiw6szvu9VoRDpeVhd_Hz4Gm2ZFbDrvq3/s1026/FreeVsPaid.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1026" data-original-width="788" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjhCJQ5POMVzh4GFpaP_XYM-5OJEczbb8IlUUQbowOet88NC4OnJewuAsEU__qwQbZqIlb0196rFOgQQ9rOXLlgpC_eJ-ZzfnyH0nT7pwbpwUkgBF9mmTawCa1Zj0SJLPSXlVstOvOI_-T2bzB7azJHx24N2OAiw6szvu9VoRDpeVhd_Hz4Gm2ZFbDrvq3/w154-h200/FreeVsPaid.png" width="154" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://menlovc.com/perspective/2025-the-state-of-consumer-ai/">Source</a></td></tr></tbody></table>
+If the tools were that good, people would use them without being threatened.  If the tools were that good, people would pay for them. But <a href="https://menlovc.com/perspective/2025-the-state-of-consumer-ai/">Menlo Ventures</a> found that only 3% of consumers pay anything. They are happy to use free toys but they have other spending priorities. <a href="https://www.zdnet.com/article/only-8-of-americans-would-pay-extra-for-ai-according-to-zdnet-aberdeen-research/">Other surveys</a> have found numbers up to 8%, but as Ted Gioia notes in <a href="https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling"><i>The Force-Feeding of AI on an Unwilling Public</i></a>:<br />
+<blockquote>
+Has there ever been a major innovation that helped society, but only 8% of the public would pay for it?
+</blockquote>
+Gioia didn't want AI but as an Office 365 user <a href="https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling">he didn't have that option</a>:<br />
+<blockquote>
+AI is now bundled into <i>all</i> of my Microsoft software.<br />
+<br />
+Even worse, Microsoft recently <a href="https://www.pcmag.com/news/copilot-ai-added-to-microsoft-365-apps-alongside-3-per-month-price-hike">raised the price of its subscriptions by $3 per month</a> to cover the additional AI benefits. I get to use my AI companion 60 times per month as part of the deal.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBfj4gxSC_H1tRBIpbry7T0En8cEBHYFSCnRwZZuSWXHdprujKIchBe7qRJvDf_2SOPq8ysf75zKLDNpS6-vhdBOx7KxSmOmtija-M9DJ0aD_bIt8DKwhUCHHZaakGfDzWYcd_6GfmKYWCbhubt93JfJEYq0gRumoq951hoZvkUT7JGqRbtv35p9CwxOkx/s1920/Engagement.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1233" data-original-width="1920" height="129" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBfj4gxSC_H1tRBIpbry7T0En8cEBHYFSCnRwZZuSWXHdprujKIchBe7qRJvDf_2SOPq8ysf75zKLDNpS6-vhdBOx7KxSmOmtija-M9DJ0aD_bIt8DKwhUCHHZaakGfDzWYcd_6GfmKYWCbhubt93JfJEYq0gRumoq951hoZvkUT7JGqRbtv35p9CwxOkx/w200-h129/Engagement.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling">Source</a></td></tr></tbody></table>
+Microsoft didn't ask their customer whether they would pay for AI, because the answer would have been no. <a href="https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling">Gioia writes</a>:<br />
+<blockquote>
+This is how AI gets introduced to the marketplace—by force-feeding the public. And they’re doing this for a very good reason.<br />
+<br />
+Most people won’t pay for AI voluntarily—just 8% according to a recent survey. So they need to bundle it with some other essential product.
+</blockquote>
+As I discussed in <a href="https://blog.dshr.org/2025/06/the-back-of-ai-envelope.html"><i>The Back Of The AI Envelope</i></a>, the AI giants running the drug-dealer's algorithm are losing money on every prompt. <a href="https://www.honest-broker.com/p/the-force-feeding-of-ai-on-an-unwilling">Gioia has noticed this</a>:<br />
+<blockquote>
+There’s another reason why huge tech companies do this—but they don’t like to talk about it. If they bundle AI into other products and services, they can <i>hide the losses</i> on their income statement.<br />
+<br />
+That wouldn’t be possible if they charged for AI as a standalone product. That would make its profitability (or, more likely, loss) very easy to measure.<br />
+<br />
+Shareholders would complain. Stock prices would drop. Companies would be forced to address customer concerns.<br />
+<br />
+But if AI is bundled into existing businesses, Silicon Valley CEOs can pretend that AI is a moneymaker, even if the public is lukewarm or hostile.
+</blockquote>
+Salesforce is another company that has <a href="https://pivot-to-ai.com/2025/06/18/salesforce-ai-agents-dont-work-but-were-charging-6-more-for-ai-anyway/">spotted this opportunity</a>:<br />
+<blockquote>
+Yesterday Salesforce announced that prices on a pile of their services are going up around 6% — because AI is just that cool.<br />
+<br />
+Salesforce’s stated reason for the price rise is “the significant ongoing innovation and customer value delivered through our products.” But you know the actual reason is because f- you, that’s why. What are you gonna do, move to SAP? Yeah, didn’t think so.
+</blockquote>
+One problem is that the technology Salesforce is charging its customers for doesn't work well in Salesforce's application space. Salesforce's own researchers developed a <a href="https://arxiv.org/abs/2505.18878">new bechmark suite called CRMAArena-Pro</a>:<br />
+<blockquote>
+CRMArena-Pro expands on CRMArena with nineteen expert-validated tasks across sales, service, and 'configure, price, and quote' processes, for both Business-to-Business and Business-to-Customer scenarios. It distinctively incorporates multi-turn interactions guided by diverse personas and robust confidentiality awareness assessments. Experiments reveal leading LLM agents achieve only around 58% single-turn success on CRMArena-Pro, with performance dropping significantly to approximately 35% in multi-turn settings. While Workflow Execution proves more tractable for top agents (over 83% single-turn success), other evaluated business skills present greater challenges. Furthermore, agents exhibit near-zero inherent confidentiality awareness; though targeted prompting can improve this, it often compromises task performance. 
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMT5L6ZsmWR571fecB_XWRBjZ-UcLzmhWC6UoMZ9f6SYsyDArKNbhO5ed1xrY3nQyljOi1JSyKZWEDJEUIq9F-cG-qReX9lk7cov1-p1CJWhooLNE2demdesAshEQSB5_kncwtpLO1FaSeJ8p8qbQSb2jSHjAmE_suYul_lq2IIbeEMdRe0uVW_8KmHWP/s1868/HuangEtAl-Table2.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="900" data-original-width="1868" height="96" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMT5L6ZsmWR571fecB_XWRBjZ-UcLzmhWC6UoMZ9f6SYsyDArKNbhO5ed1xrY3nQyljOi1JSyKZWEDJEUIq9F-cG-qReX9lk7cov1-p1CJWhooLNE2demdesAshEQSB5_kncwtpLO1FaSeJ8p8qbQSb2jSHjAmE_suYul_lq2IIbeEMdRe0uVW_8KmHWP/w200-h96/HuangEtAl-Table2.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://arxiv.org/pdf/2505.18878">Huang <i>et al</i> Table 2</a></td></tr></tbody></table>
+To <a href="https://pivot-to-ai.com/2025/06/18/salesforce-ai-agents-dont-work-but-were-charging-6-more-for-ai-anyway/">summarize the results</a>:<br />
+<blockquote>
+The agent bots had 58% success on tasks that can be done in one single step. That dropped to 35% success if they had to take multiple steps. The chatbot agents are also bad at confidentiality:<br />
+<blockquote>
+Agents demonstrate low confidentiality awareness, which, while improvable through targeted prompting, often negatively impacts task performance. These findings suggest a significant gap between current LLM capabilities and the multifaceted demands of real-world enterprise scenarios.
+</blockquote>
+</blockquote>
+Despite the fact that most consumers won't pay the current prices, it is inevitable that once the customers are addicted, prices will go up spectacularly. But the wads of VC cash may not last long enough, and things can get awkward with the customers who are paying the current prices, as <a href="https://pivot-to-ai.com/2025/07/09/cursor-tries-setting-less-money-on-fire-ai-vibe-coders-outraged/">David Gerard reports</a>:<br />
+<blockquote>
+You could buy 500 Cursor requests a month for $20 on the “Pro” plan. People bought a year in advance.<br />
+<br />
+In mid-June, Cursor offered a new $200/month “Ultra” plan. But it also changed Pro from 500 requests to $20 of “compute” at cost price — the actual cost of whichever chatbot vendor you were using. That was a lot less than 500 requests.<br />
+<br />
+You could stay on the old Pro plan! But users reported they kept hitting rate limits and Cursor was all but unusable.<br />
+<br />
+The new plan Pro users are getting surprise bills, because the system doesn’t just stop when you’ve used up your $20. One guy ran up $71 in one day.<br />
+<br />
+Anysphere has looked at the finances and stopped subsidising the app. Users suddenly have to pay what their requests are actually costing.<br />
+<br />
+Anysphere says they put the prices up because “new models can spend more tokens per request on longer-horizon tasks” — that is, OpenAI and Anthropic are charging more.
+</blockquote>
+The CEO who laid off the staff faces another set of "business risks". First, OpenAI is close to a monopoly; it has around 90% of the chatbot market. This makes it a single point of failure, and it <a href="https://status.openai.com/incidents/01JXCAW3K3JAE0EP56AEZ7CBG3/write-up">does fail</a>:<br />
+<blockquote>
+On June 9 at 11:36  PM PDT, a routine update to the host Operating System on our cloud-hosted GPU servers caused a significant number of GPU nodes to lose network connectivity. This led to a drop in available capacity for our services. As a result, ChatGPT users experienced elevated error rates reaching ~35% errors at peak, while API users experienced error rates peaking at ~25%. The highest impact occurred between June 10 2:00  AM PDT and June 10 8:00  AM PDT.
+</blockquote>
+Second, the chatbots present an attractive attack surface. David Gerard reports on a <a href="https://pivot-to-ai.com/2024/08/10/microsofts-copilot-studio-ai-leaks-your-business-info-internally-and-externally/">talk at Black Hat USA 2024</a>:<br />
+<blockquote>
+Zenity CEO Michael Bargury spoke at Black Hat USA 2024 on Thursday on how to exploit Copilot Studio:
+<ul>
+<li>Users are encouraged to link “public” inputs that an attacker may have control over.</li>
+<li>A insider — malicious or just foolish — can feed their own files to the LLM.</li>
+<li>If you train the bot on confidential communications, it may share them with the whole company.</li>
+<li>63% of Copilot bots are discoverable online, out on the hostile internet. Bargury fuzzed these bots with malformed prompts and got them to spill confidential information.</li>
+</ul>
+Bargury demonstrated intercepting a bank transfer between a company and their client “just by sending an email to the person.”
+</blockquote>
+So the technology being sold to the CEOs isn't likely to live up to expectations and it will cost many times the current price. But the way it is being sold means that none of this matters. By the time the CEO discovers these issues, the company will be addicted.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/07/the-selling-of-ai.html>
+
+---
+
+##  Anil Dash on seeing Wu-Tang Clan in 2000, the last time all... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047190-anil-dash-on-seeing-wu-ta>
+
+---
+
+##  Today (July 22) will be the second-shortest day since 1973. &#8220;The difference... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047191-today-july-22-will-be>
+
+---
+
+## The Pyramid of Merit
+
+date: 2025-07-22, from: Dave Rupert blog
+
+<img src="https://cdn.daverupert.com/posts/2025/building-a-pyramid.jpg" alt="1890s engraving of slaves building a pyramid" width="600" height="450">
+<p>There’s one quote from <a href="https://www.amazon.com/Twilight-Elites-America-After-Meritocracy/dp/0307720462">Twilight of the Elites</a> (Chris Hayes, 2013) that has stuck with me since reading the book earlier this year. In sharing his experience attending the prestigious test-in Hunter College High School in Manhattan, Hayes acknowledges that the idea (and social stratification and skin tone) of <a href="https://en.wikipedia.org/wiki/Hunter_College_High_School#Concerns_about_admission_policies">merit begins to homogenize over time</a>. In one sentence he laid bare the lie of meritocracy and it cut deep for me:</p>
+<blockquote>
+<p>The pyramid of merit has come to mirror the pyramid of wealth and cultural capital.</p>
+</blockquote>
+<p>In the tech and venture capital space there’s ample criticisms of meritocracy out there dispelling the head-slap-inducing claims made by ill-informed tech bros who have found themselves in positions of power. I’d be lying if I said meritocracy didn’t appeal to me at least on some level; rewarding highly skilled labor with higher pay accordingly appeals to my sense of fairness… but then I hear about <a href="https://www.epi.org/publication/ceo-pay-in-2023/">CEOs earning 290⨉ the average worker</a> and the whole system begins to crumble for me. Sure, they assume some risk… but never seem to suffer the same consequences. Despite its aroma of enlightened empirical fairness, meritocracy is ultimately a tool for protecting the status quo.</p>
+<p>You can see it with your own eyes. Merit goes to the already wealthy. Merit magically awards itself to people from the same fraternal organization. Merit goes to people of similar net worth, who look the same, talk the same, believe the same, joke the same, and have the same education. Merit goes to symmetrical acne-free faces, shampoo model hair, designer scents, six pack abs, and strong jaw lines because those people <em>must</em> have earned it through hard work and not surgery, drugs, photoshop, or genetic lottery.</p>
+<p>This year has poured a gallon of salt into this festering wound for me as my own country’s government tries to set “meritocracy” against “diversity, equity, and inclusion” –as if they’re opposed concepts, rather than the latter being a framework to recognize and correct pre-existing biases– then proceeding to nominate the most inept, corrupt, and deceitful people to perhaps ever occupy a government role. A cabinet full of regressive billionaires, cowboy cosplayers, and conservative television hosts papering over their racism with a flimsy banner of meritocracy. The entire administration is an insidious heist to enrich a small cabal of already wealthy families and we’ll be paying for this televised crime spree for generations.</p>
+<p>I don’t want to fall into the trap of comparing DEI and meritocracy. Instead, I think we can examine meritocracy based on its merits; its an entirely gameable system that is for sale, prone to in-group biases, and often nullifies its own intent. Merit then will always mean money when its for sale. Plain and simple.</p>
+<p>Diversity then… of people, wealth, cultures, and thought… is an antidote. A Darwinian cure to prevent groupthink and corruption that flourish in meritocratic systems. You and I remember the old truths, the old dreams, the old habits of loving thy neighbor. We’d do good to protect diversity, encourage it, and nourish it.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/07/the-pyramid-of-merit/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-22, from: Miguel de Icaza Mastondon feed)
+
+<p>An AI video worth watching, sorry if it is a twitter hosted video, don’t know the original source:</p><p><a href="https://x.com/me_observer_/status/1947080477589831790" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">x.com/me_observer_/status/1947</span><span class="invisible">080477589831790</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114897035585553987>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-22, from: Dave Winer's Scripting News)
+
+New WordLand release, <a href="https://this.how/wordland/versions.opml#1753189296000">v0.5.24</a>, fixes a problem in previous release that kept the Markdown icon from appearing in some user's icon bars. 
+
+<br> 
+
+<http://scripting.com/2025/07/22.html#a130435>
+
+---
+
+## 
+                Lamenting contemporary bright UIs
+            
+
+date: 2025-07-22, updated: 2025-07-22, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-22/0/POSTING-en.html>
 
 ---
 
