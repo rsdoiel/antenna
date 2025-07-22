@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-21 14:08:17
+updated: 2025-07-22 06:06:42
 ---
 
 # retro computing
 
-(date: 2025-07-21 14:08:17)
+(date: 2025-07-22 06:06:42)
+
+---
+
+## Linux Hits an Important Milestone
+
+date: 2025-07-21, from: Linux Magazine
+
+<p>If you pay attention to the news in the Linux-sphere, you've probably heard that the open source operating system recently crashed through a ceiling no one thought possible.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Hits-an-Important-Milestone>
 
 ---
 

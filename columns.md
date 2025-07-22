@@ -1,11 +1,130 @@
 ---
 title: columns
-updated: 2025-07-21 14:08:14
+updated: 2025-07-22 06:06:38
 ---
 
 # columns
 
-(date: 2025-07-21 14:08:14)
+(date: 2025-07-22 06:06:38)
+
+---
+
+## “Encryption Backdoors and the Fourth Amendment”
+
+date: 2025-07-22, updated: 2025-07-21, from: Bruce Schneier blog
+
+<p>Law journal <a href="https://scholarship.law.marquette.edu/mulr/vol108/iss2/5/">article</a> that looks at the <a href="https://www.schneier.com/blog/archives/2007/11/the_strange_sto.html">Dual_EC_PRNG backdoor</a> from a US constitutional perspective:</p>
+<blockquote><p><b>Abstract</b>: The National Security Agency (NSA) reportedly paid and pressured technology companies to trick their customers into using vulnerable encryption products. This Article examines whether any of three theories removed the Fourth Amendment’s requirement that this be reasonable. The first is that a challenge to the encryption backdoor might fail for want of a search or seizure. The Article rejects this both because the Amendment reaches some vulnerabilities apart from the searches and seizures they enable and because the creation of this vulnerability was itself a search or seizure. The second is that the role of the technology companies might have brought this backdoor within the private-search doctrine. The Article criticizes the doctrine­ particularly its origins in Burdeau v. McDowell­and argues that if it ever should apply, it should not here. The last is that the customers might have waived their Fourth Amendment rights under the third-party doctrine. The Article rejects this both because the customers were not on notice of the backdoor and because historical understandings of the Amendment would not have tolerated it. The Article concludes that none of these theories removed the Amendment’s reasonableness requirement...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/encryption-backdoors-and-the-fourth-amendment.html>
+
+---
+
+## So Much for Socialism
+
+date: 2025-07-22, from: Robert Reich's blog
+
+The Trump regime is using the specter of socialism to make America even more authoritarian. The regime will lose. 
+
+<br> 
+
+<https://robertreich.substack.com/p/so-much-for-socialism>
+
+---
+
+## July 21, 2025 (Monday) 
+
+date: 2025-07-22, from: Heather Cox Richardson blog
+
+After a long, productive day, I thought I'd just hop out on the water for an hour or so before I started writing tonight's letter. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-21-2025-monday>
+
+---
+
+## Will Wonders Never Cease?
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-07-21/oracle-in-talks-for-100-million-skydance-paramount-cloud-deal>
+
+---
+
+## Commanders : Goofus :: Guardians : Gallant
+
+date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-guardians-dig-in-commanders-remain-mum-on-president-trumps-name-change-demand>
+
+---
+
+## While We Are Obsessing Over Epstein
+
+date: 2025-07-21, from: Dan Rather's Steady
+
+Gazans are starving, and Kyiv is burning 
+
+<br> 
+
+<https://steady.substack.com/p/while-we-are-obsessing-over-epstein>
+
+---
+
+##  The Most Observed Plants & Animals in Each US State 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-most-observed-plants-animals-in-each-us-state>
+
+---
+
+## [Sponsor] SafeBase by Drata
+
+date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://safebase.io/lp/why-safebase/?utm_source=daring_fireball&utm_medium=display&utm_campaign=18991230_sb_tc_campaign_DG_ENT_>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-21, from: Dave Winer's Scripting News)
+
+<a href="https://this.how/wordland/versions.opml#1753133350000">Change notes</a> for WordLand v0.5.22. 
+
+<br> 
+
+<http://scripting.com/2025/07/21.html#a214136>
+
+---
+
+##  A look at 40 years of Rembrandt self-portraits. &#8220;Rembrandt documented his face... 
+
+date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047187-a-look-at-40-years>
 
 ---
 
@@ -58,7 +177,7 @@ date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-07-21, from: Dave Winer's Scripting News)
 
-Short <a href="https://www.youtube.com/watch?v=aV3FZN0bdNk&t=4s">video demo</a> of Markdown mode in the WordLand editor. 
+Short <a href="https://www.youtube.com/watch?v=aV3FZN0bdNk&t=4s">video demo</a> of Markdown mode in WordLand. 
 
 <br> 
 
@@ -249,6 +368,18 @@ A month ago, I&#160;reported&#160;that Apple was in the final stages of acquirin
 
 ---
 
+## WorkOS: Summer Launch Week
+
+date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/launch-week/summer-2025>
+
+---
+
 ## Mad King Watch: Trump Threatens to Interfere With Stadium Deal Unless Washington Commanders Change Name Back to ‘Redskins’
 
 date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
@@ -378,18 +509,6 @@ date: 2025-07-20, from: Heather Cox Richardson blog
 </audio> <a href="https://api.substack.com/feed/podcast/168790335/31df3db49c93545e98635bc059613b71.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/july-19-2025-7be>
-
----
-
-## [Sponsor] WorkOS: Summer Launch Week
-
-date: 2025-07-20, updated: 2025-07-20, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://workos.com/launch-week/summer-2025>
 
 ---
 

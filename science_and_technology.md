@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-07-21 14:08:13
+updated: 2025-07-22 06:06:37
 ---
 
 # science and technology
 
-(date: 2025-07-21 14:08:13)
+(date: 2025-07-22 06:06:37)
+
+---
+
+## NASA Goddard Center Director quits as agency staffers issue dissent letter
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Voyager Declaration rails against &#39;indiscriminate cuts&#39; to science and aeronautics research</h4> <p>NASA&#39;s Goddard Center Director, Makenzie Lystrup, is to depart after just over two years in the role.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/nasa_goddard_resignation/>
+
+---
+
+## UK to ban ransomware payments by public sector organizations
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>&#39;We&#39;re going to smash the business model&#39; NHS, local council and schools told by politicos</h4> <p>The UK government is proposing to &#34;ban&#34; public sector organizations and critical national infrastructure from paying criminal operators behind ransomware attacks, under new measures outlined today.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/uk_to_ban_ransomware_payments/>
+
+---
+
+## NASA Tests New Heat Source Fuel for Deep Space Exploration
+
+date: 2025-07-22, from: NASA breaking news
+
+To explore the unknown in deep space, millions of miles away from Earth, it’s crucial for spacecraft to have ample power. NASA’s radioisotope power systems (RPS) are a viable option for these missions and have been used for over 60 years, including for the agency’s Voyager spacecraft and Perseverance Mars rover. These nuclear batteries provide [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/nasa-tests-new-heat-source-fuel-for-deep-space-exploration/>
+
+---
+
+## UK Post Office names public inquiry as risk to £410 million Horizon replacement project
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>After abandoning in-house replacement for scandal-hit system, government company looks to off-the-shelf software</h4> <p>The UK Post Office has said the public inquiry into the Horizon IT scandal is a risk to its £410 million ($552 million) plan to replace its ageing POS and accounting system, and may force changes to awarded contracts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/uk_post_office_names_public/>
+
+---
+
+## Open source's superior security is a matter of eyeballs: Be kind to the brains behind them
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>The modern art form that redeemed a Windows utility has lessons for all</h4> <p><strong>Opinion</strong>  The speedrun is one of the internet&#39;s genuinely new artforms. At its best, it&#39;s akin to a virtuoso piano recital. Less emotional depth, more adrenalin. Watching an expert fly through a game creates an endorphin rush without the expense or time of doing it for yourself. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/open_source_windows_security_opinion_column/>
+
+---
+
+## Brit watchdog says public service TV must 'urgently' join Team YouTube
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Ofcom suggests government should use legislation to back PSB content on the platform</h4> <p>Public service broadcasters (PSBs) need to work with Google-owned YouTube &#34;urgently,&#34; says the UK&#39;s communications watchdog, Ofcom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/ofcom_psb_youtube/>
+
+---
+
+## Science confirms what we all suspected: Four-day weeks rule
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>As long as you get paid like a 5-day gig</h4> <p>Employees work better and tire less when working a four-day week, according to a six-month trial involving thousands of individuals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/4_day_week_study/>
+
+---
+
+## Customers fret about downtime with hyperscalers' PostgreSQL services
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Smaller vendors offering alternatives cash in concerns</h4> <p><strong>Analysis</strong>  Recent research suggests customers are concerned about the uptime reliability of hyperscalers&#39; PostgreSQL instances, giving smaller alternative vendors an opening to fill the gap.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/postgresql_hyperscalers_gartner/>
+
+---
+
+## Replit makes vibe-y promise to stop its AI agents making vibe coding disasters
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Announces beta for separate production and development databases that will land in a few weeks</h4> <p>Vibe coding service Replit has announced changes to its product that should prevent the database deletion disaster reported by one of its users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/replit_saastr_response/>
+
+---
+
+## NASA hacked hardware of camera orbiting Jupiter – and fixed it
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Deliberate overheating brought relief to Juno probe’s camera, twice</h4> <p>NASA has revealed that one of the cameras on the Juno craft it sent to Jupiter malfunctioned, and that it fixed it with some very, very, remote hardware hacking.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/nasa_juno_annealing_camera_fix/>
+
+---
+
+## Sacramento cops scoured energy records to target suspected weed growers, and the EFF has sued
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Raided homes despite known likelihood that aircon or EVs could explain high electricity consumption</h4> <p>The Electronic Frontier Foundation has advanced a lawsuit in which it alleges the City of Sacramento misused energy records to accuse residents of growing cannabis, often with disastrous results.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/eff_sacramento_energy_lawsuit/>
+
+---
+
+## Dell scoffs at breach, says miscreants only stole ‘fake data’
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>No customer, partner info stolen, spokesperson tells <em>The Reg</em></h4> <p>Dell has confirmed that criminals broke into its IT environment and stole some of its data — but told <em>The Register</em> that it&#39;s &#34;primarily synthetic (fake) data.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/dell_scoffs_at_breach/>
+
+---
+
+## If you're forced to use Windows 11, here's how to steal some of your time back
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Fight back against Redmond&#39;s productivity sinks</h4> <p>Windows 11 is now the most popular desktop operating system, finally beating Windows 10. But it&#39;s also loaded with head-scratching default settings that sap your productivity and treat you like a computer illiterate. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/windows_11_productivity_sink/>
+
+---
+
+## X tells the French police 'non' to its request for algorithmic data
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>Claims it&#39;s all a witch hunt by local lawmakers</h4> <p>The site formerly known as Twitter has said it will not hand over any information to French police over an investigation into its recommendation algorithms.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/x_french_police/>
+
+---
+
+## Cursor AI YOLO mode lets coding assistant run wild, security firm warns
+
+date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+
+<h4>You only live once, but regret is forever</h4> <p>Cursor&#39;s AI coding agent will run automatically, in YOLO mode, if you let it. According to Backslash Security, you might want to think twice about doing so.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/21/cursor_ai_safeguards_easily_bypassed/>
 
 ---
 
@@ -107,7 +287,7 @@ On June 16-17, 2025, 50 students at Camp Young in Chesapeake, Virginia traded th
 
 ## I just deleted my entire social media presence before visiting the US – and I'm a citizen
 
-date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+date: 2025-07-21, updated: 2025-07-22, from: The Register (UK I.T. News)
 
 <h4>In 2025, social media has moved from self-expression to self-entrapment</h4> <p><strong>Column</strong>  We don&#39;t want to believe what we deeply understand: nothing is really deleted, and someone, somewhere can (and probably will) use that record against us.…</p> 
 
@@ -198,6 +378,18 @@ date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/21/foss_chromeos_please/>
+
+---
+
+## Bring NASA Science into Your Library!
+
+date: 2025-07-21, from: NASA breaking news
+
+Calling all librarians! NASA sponsors dozens of research projects that need help from you and the people in your community. These projects invite everyone who’s interested to collaborate with scientists, investigating mysteries from how star systems form to how our planet sustains life. You can help by making observations with your cell phone or by […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/bring-nasa-science-into-your-library/>
 
 ---
 
@@ -347,7 +539,7 @@ date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
 
 ## Vibe coding service Replit deleted user’s production database, faked data, told fibs galore
 
-date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+date: 2025-07-21, updated: 2025-07-22, from: The Register (UK I.T. News)
 
 <h4>AI ignored instruction to freeze code, forgot it could roll back errors, and generally made a terrible hash of things</h4> <p>The founder of SaaS business development outfit SaaStr has claimed AI coding tool Replit deleted a database despite his instructions not to change any code without permission.…</p> 
 

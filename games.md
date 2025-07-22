@@ -1,15 +1,99 @@
 ---
 title: games
-updated: 2025-07-21 14:08:15
+updated: 2025-07-22 06:06:39
 ---
 
 # games
 
-(date: 2025-07-21 14:08:15)
+(date: 2025-07-22 06:06:39)
 
 ---
 
-## Bramble Country walkthrough in Donkey Kong Bananza
+## How to watch the new Pokémon Presents
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+The Pokémon Company has a Pokémon Presents showcase planned for July 22, promising viewers “the latest updates and news from the world of Pokémon.” It’s the second of these events in 2025 so far, following February’s Pokémon Day event. The latest Pokémon Presents showcase will stream on the official Pokémon YouTube channel on Tuesday starting at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/610583/pokemon-presents-july-2025-schedule>
+
+---
+
+## Hellraiser is finally getting its first ‘true’ game adaptation
+
+date: 2025-07-22, updated: 2025-07-21, from: Polygon Website
+
+Clive Barker’s Hellraiser is getting what its creator calls the first “true” video game adaptation with Clive Barker’s Hellraiser: Revival, developer Boss Team Games and publisher Saber Interactive announced Tuesday. Hellraiser: Revival is described by its creators as a single-player, survival-horror action game that will send players to Hell, where they’ll battle Pinhead, his fellow [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/614851/clive-barker-hellraiser-video-game-revival>
+
+---
+
+## The first Critical Role video game just became a reality
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Critical Role has given fantasy lovers plenty of adventures over the years in the world of Exandria. Across three campaigns, viewers have experienced love, friendship, grief, and a whole lot of inside jokes that have made the brand feel almost like family. After launching its first in-house tabletop role-playing game, Daggerheart, Critical Role has set [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/614945/first-video-game-adhoc-studio-exandria>
+
+---
+
+## Pokémon Go Spotlight Hour: Can Jigglypuff be shiny?
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+Jigglypuff, the balloon Pokémon from Kanto, can be found in the wild in Pokémon Go. Yes, Jigglypuff can be shiny in Pokémon Go! It’s actually pretty hard to differentiate shiny Jigglypuff from its normal form, so make sure to look for the sparkles and the shiny icon. What is the shiny rate for Jigglypuff in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23608772/can-jigglypuff-be-shiny-spotlight-hour-february>
+
+---
+
+## What time does Wuchang: Fallen Feathers release?
+
+date: 2025-07-22, updated: 2025-07-21, from: Polygon Website
+
+Wuchang: Fallen Feathers is out this week, giving Soulslike fans another game against which to bang their heads. A mysterious disease that turns people into horrific beasts. A warrior wondering who they really are and trying to figure out their place in the world. This is the setup for Wuchang: Fallen Feathers, from developer Leenzee [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/614810/wuchang-fallen-feathers-release-time-edt-pdt>
+
+---
+
+## How to find music discs in Donkey Kong Bananza
+
+date: 2025-07-21, updated: 2025-07-21, from: Polygon Website
+
+The world is yours to destroy in Donkey Kong Bananza, but it doesn&#8217;t mean you should kick, slap, or punch without a rhythm. To make sure you have some cool songs to fire you up, you can collect music discs. A huge part of the Bananza experience is about hunting for collectibles — stuff like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/613799/music-discs-how-to-get-unlock>
+
+---
+
+## Forest Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-21, updated: 2025-07-21, from: Polygon Website
+
+The Forest Layer is the sixth layer in Donkey Kong Bananza and its home to the beloved flying ostriches and dreadful poison. Of course, the Forest Layer is also full of Banandium Gems. To find all of the bananas on this layer, you’ll need to make use of your ostrich powers and cleanse the forest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614609/forest-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## All Bramble Country bananas in Donkey Kong Bananza
 
 date: 2025-07-21, updated: 2025-07-21, from: Polygon Website
 

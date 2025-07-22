@@ -1,11 +1,51 @@
 ---
 title: food
-updated: 2025-07-21 14:08:19
+updated: 2025-07-22 06:06:43
 ---
 
 # food
 
-(date: 2025-07-21 14:08:19)
+(date: 2025-07-22 06:06:43)
+
+---
+
+## Creative Coffee Week Is Coming To Durban, South Africa
+
+date: 2025-07-22, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Creative Coffee Week takes place July 30th and 31st in Durban, South Africa. 
+
+<br> 
+
+<https://sprudge.com/creative-coffee-week-is-coming-to-durban-south-africa-381122.html>
+
+---
+
+## Who Will Grow Coffee in the Future? Industry Faces a ‘Demographic Cliff’
+
+date: 2025-07-22, from: The Fresh Cup
+
+<p>One issue that also poses an imminent threat to coffee is age: coffee farmers are getting older, and younger generations are not always interested in taking over.</p>
+<p>The post <a href="https://freshcup.com/who-will-grow-coffee-in-the-future-industry-faces-a-demographic-cliff/">Who Will Grow Coffee in the Future? Industry Faces a ‘Demographic Cliff’</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/who-will-grow-coffee-in-the-future-industry-faces-a-demographic-cliff/>
+
+---
+
+## I Tried the Chicago Hot Dog Deep-Dish Pizza, and I’m Genuinely Shocked
+
+date: 2025-07-21, from: Taste of Home
+
+<p>The ultimate Chicago culinary mash-up has arrived.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chicago-hot-dog-deep-dish-pizza-july-2025/">I Tried the Chicago Hot Dog Deep-Dish Pizza, and I&#8217;m Genuinely Shocked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chicago-hot-dog-deep-dish-pizza-july-2025/>
 
 ---
 

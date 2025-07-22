@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-07-21 14:08:11
+updated: 2025-07-22 06:06:34
 ---
 
 # north america
 
-(date: 2025-07-21 14:08:11)
+(date: 2025-07-22 06:06:34)
+
+---
+
+##  Private Equity Wants Your Teeth 
+
+date: 2025-07-22, from: The Lever News
+
+ Investors are staking an aggressive claim in the dental industry, to the detriment of patients.  
+
+<br> 
+
+<https://www.levernews.com/private-equity-wants-your-teeth/>
+
+---
+
+## Words & Phrases are Driving us to Distraction 
+
+date: 2025-07-22, from: The Contrarian
+
+Pay attention no matter what 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-are-driving-us>
+
+---
+
+## Evening round-up, July 21
+
+date: 2025-07-21, from: The Contrarian
+
+Featuring Jennifer Rubin and Liz Shuler, Max Flugrath, Austin Sarat, Jeff Nesbit, "Offsides with Pablo Torre," and "Talking Feds." 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-round-up-july-21>
 
 ---
 

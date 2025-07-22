@@ -1,11 +1,155 @@
 ---
 title: going electric
-updated: 2025-07-21 14:08:18
+updated: 2025-07-22 06:06:43
 ---
 
 # going electric
 
-(date: 2025-07-21 14:08:18)
+(date: 2025-07-22 06:06:43)
+
+---
+
+## Honda And Acura EV Owners Can Now Use Tesla Superchargers
+
+date: 2025-07-22, from: Inside EVs News
+
+Drivers will need the Tesla smartphone app to start a charging session. 
+
+<br> 
+
+<https://insideevs.com/news/766595/honda-prologue-acura-zdx-tesla-supercharger-access/>
+
+---
+
+## The Lucid Air Gets Tesla Supercharger Access, More Range
+
+date: 2025-07-22, from: Inside EVs News
+
+Having access to over 23,000 DC fast chargers is no silver bullet, though. 
+
+<br> 
+
+<https://insideevs.com/news/766586/2026-lucid-air-tesla-supercharger-range-new/>
+
+---
+
+## GM’s Super Cruise Is Now In Over Half A Million Cars
+
+date: 2025-07-22, from: Inside EVs News
+
+General Motors doubled the number of cars with the hands-free driving assistance system in just a year. 
+
+<br> 
+
+<https://insideevs.com/news/766610/gm-super-cruise-500000-cars-q2/>
+
+---
+
+## Priority Glide launched as one of the lowest-cost Gates belt drive e-bikes
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/priority-glide-bicycle-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a market full of complicated tech, sky-high torque specs, and smartphone apps to control an e-bike, New York-based Priority Bicycles is going in the opposite direction with the launch of its newest model: the <a href="https://alnk.to/bPfpPj2">Priority Glide</a>, a lightweight, fuss-free e-bike that brings belt drive simplicity to the masses.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="426155" href="https://electrek.co/2025/07/22/priority-glide-launched-as-one-of-the-lowest-cost-gates-belt-drive-e-bikes/#more-426155" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/priority-glide-launched-as-one-of-the-lowest-cost-gates-belt-drive-e-bikes/>
+
+---
+
+## New electric bike license scheme to be tested on school-aged riders
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/ebike-safety-course-header-teen-kid.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Get ready, children. There’s a new electric bike licensing scheme that will soon be tested as one of several methods designed to help educate young riders on responsible road use and combat the growing concern of dangerous e-bike riding among youths around the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="426002" href="https://electrek.co/2025/07/21/new-electric-bike-license-scheme-to-be-tested-on-school-aged-riders/#more-426002" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/new-electric-bike-license-scheme-to-be-tested-on-school-aged-riders/>
+
+---
+
+## California set to BAN Tesla sales, Vietnam leads the way, and VW value tanks
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-beta-hittin-child-dummy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The State of California is moving to ban the sale of Tesla cars amid claims that the company and its CEO, Elon Musk, have misled buyers about the self-driving capabilities of their cars. We’ve also got market-leading news out of Vietnam and a pricey, pricey lesson for one VW ID.Buzz buyer on today’s lesson-learning episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,quick-charge,tesla,vietnam" data-layer-viewtype="unknown" data-post-id="426149" href="https://electrek.co/2025/07/21/california-set-to-ban-tesla-sales-vietnam-leads-the-way-and-vw-value-tanks/#more-426149" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/california-set-to-ban-tesla-sales-vietnam-leads-the-way-and-vw-value-tanks/>
+
+---
+
+## Sunrun’s 37,000 home batteries are bailing out Puerto Rico’s grid
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/sunrun-solar-battery-storage-tesla-powerwall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Sunrun is putting tens of thousands of home batteries to work in Puerto Rico as the island’s electric grid faces a summer of high temperatures and energy shortfalls.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,home-battery,puerto-rico,solar-power,sunrun" data-layer-viewtype="unknown" data-post-id="426138" href="https://electrek.co/2025/07/21/sunrun-37000-home-batteries-are-bailing-out-puerto-ricos-grid/#more-426138" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/sunrun-37000-home-batteries-are-bailing-out-puerto-ricos-grid/>
+
+---
+
+## Volkswagen is practically giving away the ID.4 with leases as low as $99 a month
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-ID.4-best-selling-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen is advertising <a href="https://electrek.co/guides/vw-id-4/">ID.4</a> leases starting at just $99 a month. It’s hard to find any car lease these days for under $100 a month, but for $45,000 electric SUV, it’s almost unheard of.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw,vw-id-4" data-layer-viewtype="unknown" data-post-id="426118" href="https://electrek.co/2025/07/21/volkswagen-giving-away-id-4-with-99-a-month-leases/#more-426118" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/volkswagen-giving-away-id-4-with-99-a-month-leases/>
+
+---
+
+## Tesla's 1950s Diner Is The Best Thing It's Built All Year
+
+date: 2025-07-21, from: Inside EVs News
+
+Tesla's retro-future diner is finally open, complete with movies, burgers and 75 Superchargers. 
+
+<br> 
+
+<https://insideevs.com/news/766552/tesla-retro-future-diner-opens/>
+
+---
+
+## Corning snaps up JA Solar’s US factory as Chinese parts face tax credit ban
+
+date: 2025-07-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/JA-Solar.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Materials science giant Corning is betting on US solar, buying Chinese-owned JA Solar’s 2 GW factory in Arizona as clean energy tax credit rules tighten.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arizona,china,donald-trump,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="426111" href="https://electrek.co/2025/07/21/corning-ja-solar-us-factory-chinese-parts-tax-credit-ban/#more-426111" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/21/corning-ja-solar-us-factory-chinese-parts-tax-credit-ban/>
 
 ---
 
@@ -130,7 +274,7 @@ Tariffs are in, the EV tax credit is out, regulations are weird, and nobody in A
 
 ---
 
-## This $11,000 Chinese EV with semi-solid state batteries is about shake up the industry
+## This $11,000 Chinese EV with semi-solid state batteries is about to shake up the industry
 
 date: 2025-07-21, from: Electrek Feed
 

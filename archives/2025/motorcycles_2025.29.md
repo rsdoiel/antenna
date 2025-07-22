@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-07-21 14:08:17
+updated: 2025-07-22 06:06:41
 ---
 
 # motorcycles
 
-(date: 2025-07-21 14:08:17)
+(date: 2025-07-22 06:06:41)
+
+---
+
+## Triumph’s Racing Red Bull Romaniacs, but on a Stock Adventure Bike
+
+date: 2025-07-22, from: Ride Apart, Electric Motorcycle News
+
+Ringing in a new era for hard enduro racing. 
+
+<br> 
+
+<https://www.rideapart.com/news/764323/triumph-racing-romaniacs-tiger-900/>
+
+---
+
+## Honda's CUV e: is an Electric Scooter Only Europe Can Have, For Now
+
+date: 2025-07-22, from: Ride Apart, Electric Motorcycle News
+
+Did you know that the CUV e: is actually a modern spin on Honda’s first-ever electric two-wheeler more than 30 years ago?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766441/honda-cuv-e-electric-scooter-launched-uk-europe/>
+
+---
+
+## A Trio of PWCs Rescued a Family After Their Sailboat Capsized, Including a Mom and Kids
+
+date: 2025-07-22, from: Ride Apart, Electric Motorcycle News
+
+People can be good. 
+
+<br> 
+
+<https://www.rideapart.com/news/766270/pwc-riders-rescue-family-cpsized-boat/>
 
 ---
 

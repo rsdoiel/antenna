@@ -1,11 +1,182 @@
 ---
 title: socal north
-updated: 2025-07-21 14:08:11
+updated: 2025-07-22 06:06:35
 ---
 
 # socal north
 
-(date: 2025-07-21 14:08:11)
+(date: 2025-07-22 06:06:35)
+
+---
+
+## In a landmark move, Children’s Hospital LA closes its gender-affirming care center today
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+CHLA cites pressure from the Trump administration to close the center, leaving patients with fewer options for gender-affirming care. 
+
+<br> 
+
+<https://laist.com/news/health/in-a-landmark-move-childrens-hospital-la-closes-its-gender-affirming-care-center-today>
+
+---
+
+## California increased paid family leave payments. Now more parents are taking advantage
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Starting in January, the state offered more-generous leave benefits. Claims in the first two quarters this year were up about 16%, compared to the same time period last year. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-increased-paid-family-leave-payments-more-parents-take-advantage>
+
+---
+
+## 1.5 million fewer people rode Metro in June compared to a year earlier
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+With the opening of the LAX Metro Transit Center, the K Line bucked the trend. 
+
+<br> 
+
+<https://laist.com/news/transportation/fewer-people-rode-metro>
+
+---
+
+## Is LA still considering a break from the region's homelessness agency?
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+City staffers are working on a report that explores how the city could pull its funds from the Los Angeles Homeless Services Authority. But the report is long overdue. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/is-la-still-considering-making-a-break-from-the-regions-homelessness-agency>
+
+---
+
+## Finding it hard to find a roommate in this tech world? Why not try  speedroommating?
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+A mixer to find that special someone for arguments about the dishes and who ate the last yogurt. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/finding-it-hard-to-find-a-roommate-try-speedroommating>
+
+---
+
+## Government asks disgraced former Orange County supervisor to pay back nearly $900,000
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+A hearing to determine the final amount of stolen funds owed by Andrew Do is scheduled for Aug. 11. 
+
+<br> 
+
+<https://laist.com/news/politics/government-asks-disgraced-former-orange-county-supervisor-to-pay-back-nearly-900-000>
+
+---
+
+## LAUSD’s charter school co-location policy violates state law, judge rules
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Charter advocates had sued the district over a recent policy that discourages co-locations on some kinds of campuses. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-charter-co-location-policy-violates-state-law-judge-rules>
+
+---
+
+## LA Planned Parenthood warns that Trump administration cuts to Medicaid will endanger lives
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Planned Parenthood serves more than 1.3 million patients across California, more than 80% of whom are on Medicaid, known here as Medi-Cal. 
+
+<br> 
+
+<https://laist.com/news/health/la-planned-parenthood-warns-that-trump-administration-cuts-to-medicaid-will-endanger-lives>
+
+---
+
+## Pentagon says it will withdraw the 700 Marines deployed to Los Angeles
+
+date: 2025-07-21, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-2048x1366.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21154227/gtlfx1hw4aaunwl-095541-w9bshc1x-290651-LAUHaiE5-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Pentagon official said they "were instrumental in restoring order" after immigration protests. Local leaders said their arrival was nothing more than a political stunt.</p>
+<p>The post <a href="https://lbpost.com/news/pentagon-says-it-will-withdraw-the-700-marines-deployed-to-los-angeles">Pentagon says it will withdraw the 700 Marines deployed to Los Angeles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/pentagon-says-it-will-withdraw-the-700-marines-deployed-to-los-angeles>
+
+---
+
+## The Huntington's smelly corpse flower named Green Boy is expected to bloom any day
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Visitors are welcome to catch the rare sight — and smell — in person for free. Or watch it bloom through the Huntington's livestream. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-huntingtons-smelly-corpse-flower-named-green-boy-is-expected-to-bloom-any-day>
+
+---
+
+## Teens are trying to bulk up on protein supplements. What should parents watch for?
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Teenage boys, especially, are getting lots of messages — from peers and from social media — about the power of protein supplements. Doctors caution there can be too much of a good thing. 
+
+<br> 
+
+<https://laist.com/news/health/teens-are-trying-to-bulk-up-on-protein-supplements-what-should-parents-watch-for>
+
+---
+
+## New map tracks real-time air quality in Pacific Palisades after the fires
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+The digital tool led by UCLA offers residents real-time measurements of particles in the air. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/new-map-tracks-real-time-air-quality-in-pacific-palisades-after-the-fires>
+
+---
+
+## LA region's top homelessness official to step down this week
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+Va Lecia Adams Kellum's departure, now planned for Friday, comes as the organization continues to deal with a loss of county funding. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/va-lecia-adams-kellum-lahsa-departure>
+
+---
+
+## Pentagon to withdraw Marines from LA this week
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+President Donald Trump deployed the troops ostensibly to quell protests over immigration raids. 
+
+<br> 
+
+<https://laist.com/news/politics/pentagon-to-withdraw-marines-from-la-this-week>
 
 ---
 
@@ -13,7 +184,7 @@ updated: 2025-07-21 14:08:11
 
 date: 2025-07-21, from: Longbeach Post
 
-<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/21135035/cropped-22jul24-press-8-274122-7rakhoum-929718-22ubo0po-096032-papvgdyx-491162-UssRC5A2.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cities across the state are reporting major declines in killings and other violent crimes through the first half of 2025.</p>
 <p>The post <a href="https://lbpost.com/news/crime/crime-stats-long-beach-shootings-2025-homicides">Shootings hit a 5-year low in Long Beach, and homicides are also on the decline, police chief says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -100,7 +271,7 @@ Enjoy the O.C. Fair, the Photomatica photo booth museum opening, an outdoor Elf 
 
 date: 2025-07-21, from: Longbeach Post
 
-<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-557x300.jpg 557w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1110x598.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1536x827.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-2048x1103.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1320x711.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-557x300.jpg 557w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1110x598.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1536x827.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-2048x1103.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/04/16163126/TRAIN_3117-1320x711.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Authorities said a series of three heists appeared to be "targeted thefts."</p>
 <p>The post <a href="https://lbpost.com/news/crime/hundreds-of-guns-stolen-off-of-freight-trains-bound-from-long-beach">Hundreds of guns stolen off of freight trains bound from Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -123,18 +294,6 @@ Everette Hoard, who worked aboard the iconic Long Beach ship for more than 40 ye
 
 ---
 
-## Censorship lost in Huntington Beach’s recent special election. Or did it?
-
-date: 2025-07-21, updated: 2025-07-21, from: The LAist
-
-The city has become a flash point in a national battle between civil rights groups and the ‘Make America Great Again’ movement. 
-
-<br> 
-
-<https://laist.com/news/politics/huntington-beach-library-censorship>
-
----
-
 ## Cash-strapped LA cities ask private donors to help immigrants pay rent following ICE raids
 
 date: 2025-07-21, updated: 2025-07-21, from: The LAist
@@ -144,6 +303,18 @@ Facing budget shortfalls, local governments are now asking philanthropists to he
 <br> 
 
 <https://laist.com/news/housing-homelessness/los-angeles-cash-assistance-immigration-ice-raids-private-donor-rent-relief-funds>
+
+---
+
+## Censorship lost in Huntington Beach’s recent special election. Or did it?
+
+date: 2025-07-21, updated: 2025-07-21, from: The LAist
+
+The city has become a flash point in a national battle between civil rights groups and the ‘Make America Great Again’ movement. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-library-censorship>
 
 ---
 

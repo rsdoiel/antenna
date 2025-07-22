@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-07-21 14:08:16
+updated: 2025-07-22 06:06:40
 ---
 
 # libraries
 
-(date: 2025-07-21 14:08:16)
+(date: 2025-07-22 06:06:40)
+
+---
+
+## Guest Post — The Accessibility Illusion: When AI Simplification Fails the Users With Cognitive Disabilities
+
+date: 2025-07-22, from: Scholarly Kitchen
+
+<p>Guest blogger Hema Thakur shares results of her experiment using AI to improve the accessibility of peer review feedback -- her findings may concern you!</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/22/guest-post-the-accessibility-illusion-when-ai-simplification-fails-the-users-with-cognitive-disabilities/">Guest Post &#8212; The Accessibility Illusion: When AI Simplification Fails the Users With Cognitive Disabilities</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/22/guest-post-the-accessibility-illusion-when-ai-simplification-fails-the-users-with-cognitive-disabilities/>
+
+---
+
+## The Lily of the Valley, by Honoré de Balzac
+
+date: 2025-07-21, from: Standard Ebooks, new releaases
+
+A young man obsessed with a married woman ingratiates his way into the life of her family. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/the-lily-of-the-valley/james-waring>
 
 ---
 

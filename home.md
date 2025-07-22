@@ -1,11 +1,98 @@
 ---
 title: home
-updated: 2025-07-21 14:08:17
+updated: 2025-07-22 06:06:41
 ---
 
 # home
 
-(date: 2025-07-21 14:08:17)
+(date: 2025-07-22 06:06:41)
+
+---
+
+## How They Pulled It Off: Updating a Home Made from a Reclaimed Greenhouse Windows
+
+date: 2025-07-22, from: Dwell
+
+In Indiana, builder Loren Wood preserves a special detail in a family's home, making it weatherproof and watertight for years to come. 
+
+<br> 
+
+<https://www.dwell.com/article/loren-wood-builders-indiana-greenhouse-homestead-6872d80d>
+
+---
+
+## 5 Types of Biggest Birds in the World That Can Fly (With Pictures)
+
+date: 2025-07-22, from: Yard Life blog
+
+<p>When we think of big birds, our minds often jump to majestic creatures that dominate the skies with their impressive ... </p>
+<p class="read-more-container"><a title="5 Types of Biggest Birds in the World That Can Fly (With Pictures)" class="read-more button" href="https://ownyardlife.com/5-types-of-biggest-birds-in-the-world-that-can-fly-with-pictures/#more-32311" aria-label="Read more about 5 Types of Biggest Birds in the World That Can Fly (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-biggest-birds-in-the-world-that-can-fly-with-pictures/">5 Types of Biggest Birds in the World That Can Fly (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-biggest-birds-in-the-world-that-can-fly-with-pictures/>
+
+---
+
+## Why Do Peacocks Spread Their Feathers? Fascinating Facts
+
+date: 2025-07-22, from: Yard Life blog
+
+<p>Peacocks are celebrated for their dazzling appearance, with bright plumage and a graceful fan of shimmering tail feathers. One of ... </p>
+<p class="read-more-container"><a title="Why Do Peacocks Spread Their Feathers? Fascinating Facts" class="read-more button" href="https://ownyardlife.com/why-do-peacocks-spread-their-feathers-fascinating-facts/#more-32306" aria-label="Read more about Why Do Peacocks Spread Their Feathers? Fascinating Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-peacocks-spread-their-feathers-fascinating-facts/">Why Do Peacocks Spread Their Feathers? Fascinating Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-do-peacocks-spread-their-feathers-fascinating-facts/>
+
+---
+
+## Why Do Lions Live in Groups? Secrets of Their Social Life
+
+date: 2025-07-22, from: Yard Life blog
+
+<p>Lions are often hailed as the “king of the jungle,” yet unlike most big cats that lead solitary lives, lions ... </p>
+<p class="read-more-container"><a title="Why Do Lions Live in Groups? Secrets of Their Social Life" class="read-more button" href="https://ownyardlife.com/why-do-lions-live-in-groups-secrets-of-their-social-life/#more-32302" aria-label="Read more about Why Do Lions Live in Groups? Secrets of Their Social Life">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-lions-live-in-groups-secrets-of-their-social-life/">Why Do Lions Live in Groups? Secrets of Their Social Life</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-do-lions-live-in-groups-secrets-of-their-social-life/>
+
+---
+
+## Why Do Lions Roar? Fascinating Facts About Their Communication
+
+date: 2025-07-22, from: Yard Life blog
+
+<p>The roar of a lion is one of the most powerful and iconic sounds in the animal kingdom. Revered as ... </p>
+<p class="read-more-container"><a title="Why Do Lions Roar? Fascinating Facts About Their Communication" class="read-more button" href="https://ownyardlife.com/why-do-lions-roar-fascinating-facts-about-their-communication/#more-32296" aria-label="Read more about Why Do Lions Roar? Fascinating Facts About Their Communication">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-lions-roar-fascinating-facts-about-their-communication/">Why Do Lions Roar? Fascinating Facts About Their Communication</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-do-lions-roar-fascinating-facts-about-their-communication/>
+
+---
+
+## Why Do Lions Have Manes? Fascinating Facts You Should Know
+
+date: 2025-07-22, from: Yard Life blog
+
+<p>Lions have long been recognized as symbols of strength, courage, and majesty, with the male lion&#8217;s mane serving as an ... </p>
+<p class="read-more-container"><a title="Why Do Lions Have Manes? Fascinating Facts You Should Know" class="read-more button" href="https://ownyardlife.com/why-do-lions-have-manes-fascinating-facts-you-should-know/#more-32291" aria-label="Read more about Why Do Lions Have Manes? Fascinating Facts You Should Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-lions-have-manes-fascinating-facts-you-should-know/">Why Do Lions Have Manes? Fascinating Facts You Should Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-do-lions-have-manes-fascinating-facts-you-should-know/>
 
 ---
 
@@ -110,6 +197,18 @@ From stick bugs to helpful pollinators, the Insect Pavilion at the California St
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29124>
+
+---
+
+## Costco Is Opening 7 New Stores in August—and 2 Are in the West (and 1 in Mexico!)
+
+date: 2025-07-21, from: Sunset Magazine - Living in the West
+
+Costco will open seven new location in August, including two in Richland, Washington, and Spring Valley, Nevada. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/costco-new-stores-august-2025>
 
 ---
 

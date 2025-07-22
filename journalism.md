@@ -1,11 +1,64 @@
 ---
 title: journalism
-updated: 2025-07-21 14:08:16
+updated: 2025-07-22 06:06:40
 ---
 
 # journalism
 
-(date: 2025-07-21 14:08:16)
+(date: 2025-07-22 06:06:40)
+
+---
+
+## UCLA pulls out of affordable housing discussion with Santa Monica College
+
+date: 2025-07-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA has pulled out of its agreement with Santa Monica College to build affordable housing for students at both schools.
+SMC and UCLA planned to construct a building on SMC&#8217;s Bundy Campus near the Santa Monica airport. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/21/ucla-pulls-out-of-affordable-housing-discussion-with-santa-monica-college/>
+
+---
+
+## UC regents met to discuss alumni outcomes, reporting resources, policy center
+
+date: 2025-07-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents discussed alumni outcomes, considered campus reporting resources for students and introduced the UC Student and Policy Center on Wednesday.
+The committee on academic and student affairs listed the University&#8217;s top employers as it develops new tools to record alumni careers and examined the success of incident reporting given current campus climates at its July meeting. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/21/uc-regents-met-to-discuss-alumni-outcomes-reporting-resources-policy-center/>
+
+---
+
+## UCLA Extension lays off employees, eliminates positions amid federal budget cuts
+
+date: 2025-07-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Extension laid off 23 employees and eliminated their staff positions in June ahead of anticipated federal budget cuts.
+The layoffs primarily impacted the enrollment marketing team and the learning and design team, said a UCLA Extension employee who was laid off and granted anonymity due to a fear of not receiving their severance package from UCLA after speaking out. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/21/ucla-extension-lays-off-employees-eliminates-positions-amid-federal-budget-cuts/>
+
+---
+
+## Pentagon releases US Marines from LA, Wilshire Federal Building in Westwood
+
+date: 2025-07-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+United States Marines are no longer posted outside the Wilshire Federal Building in Westwood, after the Pentagon released them from Los Angeles on Monday.
+[Related: US Marines stationed at federal building in Westwood; 1 person detained]
+Marines arrived at the federal building June 13 to support National Guard troops who were sent to LA beginning June 7. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/21/pentagon-releases-us-marines-from-la-wilshire-federal-building-in-westwood/>
 
 ---
 
