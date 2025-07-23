@@ -1,23 +1,149 @@
 ---
 title: socal north
-updated: 2025-07-23 06:07:41
+updated: 2025-07-23 14:07:52
 ---
 
 # socal north
 
-(date: 2025-07-23 06:07:41)
+(date: 2025-07-23 14:07:52)
 
 ---
 
-## Should fire survivors join a lawsuit? Here’s a guide
+## Trump aims to get rid of AI regulations in a push to win the AI race
 
 date: 2025-07-23, updated: 2025-07-23, from: The LAist
 
-An expert explains what survivors of the Palisades and Eaton fires should consider before joining a fire-related lawsuit. 
+President Donald Trump says he wants to make sure the United States wins the artificial intelligence race. The White House says fewer regulations will help. 
 
 <br> 
 
-<https://laist.com/news/climate-environment/should-fire-survivors-join-a-lawsuit-heres-a-guide>
+<https://laist.com/news/trump-aims-to-get-rid-of-ai-regulations-and-finance-exports-to-win-ai-race>
+
+---
+
+## As families self-deport, these neighbors are stepping in to care for pets left behind
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+In Boyle Heights and East L.A., volunteers are fostering animals as immigration enforcement fuels sudden departures. 
+
+<br> 
+
+<https://laist.com/news/as-families-self-deport-these-neighbors-are-stepping-in-to-care-for-pets-left-behind>
+
+---
+
+## US Olympic and Paralympic officials bar transgender women from Olympic women's sports
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+The U.S. Olympic and Paralympic Committee tells the federations overseeing swimming, athletics and other sports that it has an "obligation to comply" with an executive order issued by President Trump. 
+
+<br> 
+
+<https://laist.com/news/us-olympic-and-paralympic-officials-bar-transgender-women-from-olympic-womens-sports>
+
+---
+
+## Former Sheriff Alex Villanueva will challenge Sheriff Robert Luna in upcoming primary
+
+date: 2025-07-23, from: Longbeach Post
+
+<figure><img width="696" height="405" src="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png 696w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-186x108.png 186w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-730x424.png 730w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1110x645.png 1110w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-768x446.png 768w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1536x893.png 1536w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-2048x1191.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Villanueva lost the top job to Luna in the 2022 race.</p>
+<p>The post <a href="https://lbpost.com/news/former-sheriff-alex-villanueva-will-challenge-sheriff-robert-luna-in-upcoming-primary">Former Sheriff Alex Villanueva will challenge Sheriff Robert Luna in upcoming primary</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/former-sheriff-alex-villanueva-will-challenge-sheriff-robert-luna-in-upcoming-primary>
+
+---
+
+## Planned Parenthood of California loses $300 million in federal funding under court order
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+Only a handful of Planned Parenthood organizations will continue to receive money from the federal government. None of them are in California. 
+
+<br> 
+
+<https://laist.com/news/health/planned-parenthood-of-california-loses-300-million-in-federal-funding-under-court-order>
+
+---
+
+## After years of scandals, CA attorney general asks court to put LA County's juvenile halls under state control
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+Rob Bonta issued a blistering criticism of the county's handling of its facilities. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/ca-attorney-general-asks-court-to-put-la-countys-juvenile-halls-under-state-control>
+
+---
+
+## Altadena’s Historic Highlands was spared by the fires. It’s now trying to be LA County’s first historic district
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+The L.A. County Board of Supervisors voted to move forward with a designation proposal. 
+
+<br> 
+
+<https://laist.com/news/la-history/altadenas-historic-highlands-trying-to-be-la-county-historic-district>
+
+---
+
+## California looked to them to close health disparities, then it backpedaled
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+The state has eliminated a certification program and rolled back nearly all funding to train and expand community health workers even though it set a goal of 25,000 workers by this year. 
+
+<br> 
+
+<https://laist.com/news/health/california-certification-program-health-workers>
+
+---
+
+## Trump administration releases after school grant money — with a catch
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+California will get the federal money withheld for after-school programs, but spending must comply with Trump’s priorities. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-releases-after-school-grant-money-with-a-catch>
+
+---
+
+## Sheriff’s training exercise set for Lakewood Center mall; expect loud noises, emergency vehicles
+
+date: 2025-07-23, from: Longbeach Post
+
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1536x1152.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The training exercise was planned for the east wing of the center, between Kay Jewelers and Ulta Beauty.</p>
+<p>The post <a href="https://lbpost.com/news/sheriffs-training-exercise-set-for-lakewood-center-mall-expect-loud-noises-emergency-vehicles">Sheriff&#8217;s training exercise set for Lakewood Center mall; expect loud noises, emergency vehicles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sheriffs-training-exercise-set-for-lakewood-center-mall-expect-loud-noises-emergency-vehicles>
+
+---
+
+## The surprising reasons floods, fires and other disasters are deadlier at night
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+It’s not just that it’s dark and people are asleep. Urban sprawl, confirmation bias and other factors can play a role. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/the-surprising-reasons-floods-fires-and-other-disasters-are-deadlier-at-night>
 
 ---
 
@@ -30,6 +156,18 @@ Indiscriminate raids. Removal of U.S. citizens. Pressure to leave the country. F
 <br> 
 
 <https://laist.com/news/education/uc-irvine-mexican-repatriation-adriana-darielle-mejia-briscoe-corrido-mass-deportations>
+
+---
+
+## A lawyer explains what victims should consider when deciding whether to join a fire lawsuit
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+An expert explains what survivors of the Palisades and Eaton fires should consider before joining a fire-related lawsuit. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/should-fire-survivors-join-a-lawsuit-heres-a-guide>
 
 ---
 
@@ -49,7 +187,7 @@ Clouds and accompanying cool weather will be here for the next few days.
 
 date: 2025-07-23, from: Longbeach Post
 
-<figure><img width="1024" height="755" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-300x221.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-768x566.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-400x295.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="755" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-300x221.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-768x566.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-400x295.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>If negotiations go smoothly, the new Long Beach Baseball Club could be playing at Blair Field as early as May.</p>
 <p>The post <a href="https://lbpost.com/news/city-council-oks-minor-league-baseball-long-beach">City Council OKs idea of bringing minor league baseball team to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -137,9 +275,9 @@ Local and state leaders are targeting the region of 4.6 million people for econo
 
 ---
 
-## First mural of its kind unveiled at a mosque in America is now in Koreatown
+## First mural of its kind unveiled at a mosque in Koreatown. Here's what makes it special
 
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
 
 Titled Sabr at Fajr, the mural captures themes of patience, endurance and resilience. 
 
@@ -199,7 +337,7 @@ NPR newsroom chief Edith Chapin says she's leaving the network. She made the ann
 
 ## TikTok told me the best breakfast burrito was at a hospital cafeteria in Torrance. I had to check it out
 
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
 
 The breakfast burrito served up at Torrance Memorial Hospital is hearty, fresh — and cheap. 
 
@@ -260,6 +398,18 @@ Nearly a third of Cal/OSHA positions were vacant last year, and a new state audi
 
 ---
 
+## Is LA still considering a break from the region's homelessness agency?
+
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
+
+City staffers are working on a report that explores how the city could pull its funds from the Los Angeles Homeless Services Authority. But the report is long overdue. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/is-la-still-considering-making-a-break-from-the-regions-homelessness-agency>
+
+---
+
 ## LA Metro was down 1.5M rides this June compared to last. Here are some possible reasons why
 
 date: 2025-07-22, updated: 2025-07-23, from: The LAist
@@ -281,18 +431,6 @@ Starting in January, the state offered more-generous leave benefits. Claims in t
 <br> 
 
 <https://laist.com/news/education/early-childhood-education-pre-k/california-increased-paid-family-leave-payments-more-parents-take-advantage>
-
----
-
-## Is LA still considering a break from the region's homelessness agency?
-
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
-
-City staffers are working on a report that explores how the city could pull its funds from the Los Angeles Homeless Services Authority. But the report is long overdue. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/is-la-still-considering-making-a-break-from-the-regions-homelessness-agency>
 
 ---
 
@@ -322,7 +460,7 @@ A mixer to find that special someone for arguments about the dishes and who ate 
 
 ## Government asks disgraced former Orange County supervisor to pay back nearly $900,000
 
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
 
 A hearing to determine the final amount of stolen funds owed by Andrew Do is scheduled for Aug. 11. 
 

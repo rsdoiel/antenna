@@ -1,11 +1,371 @@
 ---
 title: planet
-updated: 2025-07-23 06:07:39
+updated: 2025-07-23 14:07:49
 ---
 
 # planet
 
-(date: 2025-07-23 06:07:39)
+(date: 2025-07-23 14:07:49)
+
+---
+
+## SIPTU concerned over apprenticeship courses deferrals
+
+date: 2025-07-23, from: RTÉ News
+
+SIPTU has expressed concerns over reports that Education and Training Boards are being instructed to defer certain apprenticeship courses due to funding pressures. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525039-siptu-apprenticeship-deferrals/>
+
+---
+
+## Man, 91, died after week-long delay on X-ray, court told
+
+date: 2025-07-23, from: RTÉ News
+
+The HSE has issued an apology to the family of a 91-year-old man who died with choking complications after a hospital took a week to act on an X-ray which revealed that he had swallowed dentures. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525032-court-x-ray-delay/>
+
+---
+
+## ICTU calls proposed VAT cut 'economic vandalism'
+
+date: 2025-07-23, from: RTÉ News
+
+The Irish Congress of Trade Unions has urged the Government to drop proposals for a €1bn cut in the VAT rate for the hospitality sector, calling it "economic vandalism". 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0723/1525036-vat-cut/>
+
+---
+
+## Who are the potential runners in the race for the Áras?
+
+date: 2025-07-23, from: RTÉ News
+
+While there have been a few sparks in the early stages of the race for the Áras, the presidential election campaign is yet to fully catch fire. Here we look some of the potential runners and riders for the 2025 Presidential Election. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0723/1523687-presidential-election/>
+
+---
+
+## Doctor admits supplying ketamine to Matthew Perry
+
+date: 2025-07-23, from: RTÉ News
+
+A California doctor charged in connection with the death of actor Matthew Perry has pleaded guilty to four counts of illegal distribution of the prescription anesthetic ketamine. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0723/1525023-matthew-perry-doctor/>
+
+---
+
+## Podcast: Behind the frenzy for All-Ireland final tickets
+
+date: 2025-07-23, from: RTÉ News
+
+RTÉ's GAA Correspondent Marty Morrissey told Behind the Story where all the tickets go – and why it can be so hard to get them. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1525008-podcast-behind-the-frenzy-for-all-ireland-final-tickets/>
+
+---
+
+## Apology for failings after patient death at nursing home
+
+date: 2025-07-23, from: RTÉ News
+
+An inquest jury has returned an open verdict in the case of a 95-year-old woman with advanced dementia and physical limitations who was found dead in her nursing home bed with a duvet over her head, having suffered from aspiration of vomit. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525019-marcella-osullivan-mallow-inquest/>
+
+---
+
+## Lawyer seeks Erik Menendez release, citing medical issue
+
+date: 2025-07-23, from: RTÉ News
+
+Erik Menendez, one of two brothers who is serving a life sentence for the murder of their parents in the United States, has been taken to hospital with a "serious medical condition". 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0723/1525020-erik-menendez/>
+
+---
+
+## Irish athletics trailblazer Maeve Kyle dies aged 96
+
+date: 2025-07-23, from: RTÉ News
+
+Maeve Kyle, a pioneering figure in Irish athletics and a former hockey international, has died at the age of 96. 
+
+<br> 
+
+<https://www.rte.ie/sport/athletics/2025/0723/1525009-irish-athletics-trailblazer-maeve-kyle-dies-aged-96/>
+
+---
+
+## O'Leary describes Dublin Metrolink as 'a waste of money'
+
+date: 2025-07-23, from: RTÉ News
+
+Michael O'Leary, Group Chief Executive of Ryanair Holdings, has described the proposed Metrolink rail service in Dublin - that would also serve Dublin Airport - as a waste of money. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525015-oleary-dublin-metrolink/>
+
+---
+
+## Micheál Martin rules himself out of presidential race
+
+date: 2025-07-23, from: RTÉ News
+
+Taoiseach Micheál Martin has definitively ruled himself out of entering the presidential race, saying he "definitely" will not be a candidate. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525014-micheal-martin-president/>
+
+---
+
+## Media regulator contacts X over age verification concerns
+
+date: 2025-07-23, from: RTÉ News
+
+The media regulator Coimisiún na Meán has contacted X, formerly Twitter, amid concerns over its age verification measures. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525013-x-age-verification-concerns/>
+
+---
+
+## Pope invites Dominicans ‘listen attentively to the Holy Spirit’
+
+date: 2025-07-23, from: Vatican News
+
+
+                    <p>Pope Leo XIV assures Dominicans taking part in the General Chapter of Provincial Priors of his closeness in prayer, while inviting them to be attentive to the voice of the Holy Spirit and to strengthen their commitment to serving the Body of Christ.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-invites-dominicans-listen-attentively-to-the-holy-spirit.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-invites-dominicans-listen-attentively-to-the-holy-spirit.html>
+
+---
+
+## SF call for review of Govt refugee accommodation plans
+
+date: 2025-07-23, from: RTÉ News
+
+Sinn Féin has called for a review of the Government's policy of paying people to allow Ukrainian refugees to use their spare rooms or properties, saying the scheme is unfair on other people, and is potentially disrupting the wider rental market. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1525007-sf-refugee-accommodation/>
+
+---
+
+## As Katie Holmes and Joshua Jackson reunite, here's why it might just heal millennials
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591847.1753278845!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/katie-holmes-instagram.jpg' alt='A man and a woman casually embrace. Words on the screen say Happy Hours.' width='620' height='349' title='A screen shot of actor Katie Holmes&apos; Instagram post from Monday, July 21, 2025, in which she announces that she and actor Joshua Jackson are reuniting to work on the film Happy Hours.'/><p>On Monday evening, actor Katie Holmes announced on Instagram that she and fellow Dawson's Creek alum Joshua Jackson would be reuniting to film a three-part project called Happy Hours.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/katie-holmes-joshua-jackson-1.7591812?cmp=rss>
+
+---
+
+## Doctor who sold Friends actor Matthew Perry ketamine before death pleads guilty
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7210196.1723747137!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/matthew-perry-death.jpg' alt='A man wearing glasses and a suit jacket smiles in front of a black background. ' width='620' height='349' title='Matthew Perry poses for a portrait on Feb. 17, 2015, in New York. Authorities are investigating the death of Perry and how the beloved actor received the anesthetic ketamine, which was ruled a contributing factor in his death. Los Angeles Police Capt. Scot Williams told the Los Angeles Times Tuesday, May 21, 2024, that detectives were looking into why the Friends star had so much ketamine in his system when he died in October. '/><p>A doctor pleaded guilty Wednesday to giving Matthew Perry ketamine in the month leading up to the Friends star's overdose death.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/matthew-perry-death-guilty-plea-1.7592235?cmp=rss>
+
+---
+
+## Retrial for woman who bit off attempted rapist's tongue
+
+date: 2025-07-23, from: RTÉ News
+
+A South Korean court has reopened a decades-old case after the country's #MeToo movement inspired a woman to challenge her conviction for defending herself against sexual violence 61 years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0723/1524996-choi-mal-ja-retrial/>
+
+---
+
+## Family 'in crisis mode' as feds pull funding for autistic First Nations boy
+
+date: 2025-07-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7484501.1741994241!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/ethan-maracle.jpeg' alt='A man and a woman stand side by side holding a paper heart with their son&apos;s picture in the middle.' width='620' height='349' title='Murray and Katie Maracle with a picture of their son Ethan in their Orillia, Ont., home in March 2025. '/><p>An Ontario family is scrambling after the federal government abruptly pulled funding for their son, an autistic First Nations boy living off-reserve, leaving him without access to the clinical therapy and education assistance he's relied on for most of his life.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/ethan-maracle-jordans-principle-funding-1.7591831?cmp=rss>
+
+---
+
+## Family and friends of murdered Idaho students speak of love and anger at killer's sentencing
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592206.1753293832!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/four-killed-university-of-idaho.jpg' alt='Close up of two woman embarcing and crying' width='620' height='349' title='Dylan Mortensen gets a hug after speaking at the sentencing hearing of Bryan Kohberger at the Ada County Courthouse, for his sentencing hearing, Wednesday, July 23, 2025, in Boise, Idaho, for brutally stabbing four University of Idaho students to death nearly three years ago. '/><p>Friends and relatives of four University of Idaho students murdered in their rental home by Bryan Kohberger delivered powerful statements of love, anguish and condemnation at his sentencing hearing Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/idaho-university-killings-sentence-1.7592179?cmp=rss>
+
+---
+
+## BBC says it did not cut Irish from CMAT's single debut
+
+date: 2025-07-23, from: RTÉ News
+
+The BBC has said it did not edit the Irish-language lyrics from the debut radio broadcast of CMAT's new single, Euro-Country. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0723/1524987-bbc-says-it-did-not-cut-irish-from-cmats-single-debut/>
+
+---
+
+## Native Women's Association of Canada former CEO dies aged 61
+
+date: 2025-07-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7592441.1753302164!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/groulx.jpeg' alt='A woman is seen in a professional photograph.' width='620' height='349' title='Lynne Groulx&apos;s obituary says she will be remembered as an advocate for justice and tireless community leader.  '/><p>Lynne Groulx, the former chief executive officer of the Native Women’s Association of Canada, has died. She passed away suddenly on July 16 in her hometown of Cochrane, Ont., an official obituary says. She was 61 years old.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/lynne-groulx-obituary-1.7592131?cmp=rss>
+
+---
+
+## Jubilee of Youth: ‘A step towards building peace in the world’
+
+date: 2025-07-23, from: Vatican News
+
+
+                    <p>At a press conference in the Vatican, Archbishop Rino Fisichella explains how the Jubilee of Youth will offer “an embrace from all young people worldwide” to those living in war zones.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/jubilee-of-youth-a-step-in-building-peace-in-the-world.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/jubilee-of-youth-a-step-in-building-peace-in-the-world.html>
+
+---
+
+## Man jailed for eight years over organised prostitution
+
+date: 2025-07-23, from: RTÉ News
+
+A 32-year-old man who organised prostitution, operated brothels and laundered hundreds of thousands of euro in three years, has been sentenced to eight years in prison. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0723/1524973-prostitution-sentencing/>
+
+---
+
+## More resources needed for Parnell Square case - judge
+
+date: 2025-07-23, from: RTÉ News
+
+A judge has called for resources to be provided to the case of Riad Bouchaker, who is charged with assaulting a care worker and attempting to murder three children on Parnell Square in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0723/1524978-parnell-square-court/>
+
+---
+
+## UN Court issues historic 'opinion' on climate obligations for states
+
+date: 2025-07-23, from: Vatican News
+
+
+                    <p>The U.N.’s highest court is handing down a crucial opinion on climate change Wednesday, on what legal obligations states have to fight climate change.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/un-high-court-advisory-opinion-climate-change-obligations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/un-high-court-advisory-opinion-climate-change-obligations.html>
+
+---
+
+## Ukuleles, spuds and an inflatable Jesus left on trains
+
+date: 2025-07-23, from: RTÉ News
+
+Two ukuleles, a bag of spuds, a Christmas tree and an inflatable Jesus were among the items lost and found on Irish Rail services last year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0723/1524980-ukuleles-spuds-and-an-inflatable-jesus-left-on-trains/>
+
+---
+
+## Adult dies with listeria as FSAI investigates outbreak
+
+date: 2025-07-23, from: RTÉ News
+
+An adult has died with a confirmed case of listeria infection, the Food Safety Authority of Ireland has confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1524968-ready-meals-recall/>
+
+---
+
+## ICJ says countries must address climate change threat
+
+date: 2025-07-23, from: RTÉ News
+
+The United Nations' highest court has said countries must address the "urgent and existential threat" of climate change by cooperating to curb emissions, as it delivered an opinion set to determine future environmental litigation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0723/1524963-icj-climate-change/>
+
+---
+
+## 'It's got to stop': Family of men killed by Nunavik police calling on Quebec for reforms
+
+date: 2025-07-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7375559.1730918259!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nunavik-police-service-kuujjuaq-station.jpg' alt='police car in front of police station' width='620' height='349' title='Nunavik Police Service&apos;s Kuujjuaq station'/><p>The families of two men killed by Nunavik police are calling for Quebec's premier to meet with them and are demanding several changes to the police service, including disarming local officers.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/family-reforms-nunavik-police-1.7591643?cmp=rss>
 
 ---
 
@@ -21,15 +381,99 @@ Greece has announced plans to "urgently" overhaul its water management as temper
 
 ---
 
-## Anti-graft agencies vote 'hampers' Ukraine's EU path
+## Zelensky defends law on anti-graft agencies
 
 date: 2025-07-23, from: RTÉ News
 
-Germany has said that a vote by Ukrainian lawmakers to remove the independence of two anti-corruption bodies in the war-torn country "hampers Ukraine's way towards the EU". 
+Ukrainian President Volodymyr Zelensky defended the legislative changes which have also sparked the first major protests in Ukraine since the start of Russia's invasion. 
 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0723/1524947-ukraine-anti-corruption/>
+
+---
+
+## Haiti: Violence and displacement driving humanitarian crisis as funding needs go unmet
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+Escalating gang violence and displacement continue to drive humanitarian needs in Haiti, the UN said on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165478>
+
+---
+
+## Nigeria: Amid record hunger and surging insecurity, emergency food assistance to stall entirely
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+At a time of escalating violence and record levels of hunger in Nigeria, critical funding shortfalls are forcing the UN World Food Program (WFP) to suspend all emergency food and nutrition aid for 1.3 million people in the northeast of the country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165477>
+
+---
+
+## Home is where the heart is — and where development begins
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+When Denis Jobin, a senior evaluation specialist at the United Nations Children's Fund (UNICEF), visited a slum in Kenya in March as part of an ongoing evaluation, the smell was overwhelming.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165476>
+
+---
+
+## World Court says countries are legally obligated to curb emissions, protect climate
+
+date: 2025-07-23, from: United Nations, Climate Change
+
+The International Court of Justice (ICJ) in The Hague, Netherlands, issued its advisory opinion on the obligations of States in respect of climate change, read out by the President of the Court, Judge Iwasawa Yuji, on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165475>
+
+---
+
+## UN official reiterates call for Gaza ceasefire as ‘nightmare of historic proportions’ unfolds
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+A senior UN official on Wednesday urged the Security Council to push for an immediate ceasefire in Gaza and the release of all hostages, warning that the war has become “a nightmare of historic proportions” and it is “long past time” for the fighting to end and for hostages to return home. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165474>
+
+---
+
+## ‘Catastrophic birth outcomes’ in Gaza threaten a whole generation, warns UN agency
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+Pregnant women and newborns in Gaza face “catastrophic” conditions, including a dysfunctional healthcare system, psychological stress and food deprivation the UN reproductive health agency (UNFPA) reported on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165471>
+
+---
+
+## SECURITY COUNCIL LIVE: Debate on the situation in the Middle East
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+The Security Council meets today for its quarterly open debate on the situation in the Middle East, with a focus on the worsening crisis in Gaza. UN Assistant Secretary-General Khaled Khiari is expected to brief on the situation in the war-ravaged enclave where food entry and distribution remain severely restricted, malnutrition is rising, and fuel and shelter supplies are critically scarce. UN News, in coordination with UN Meetings Coverage, brings you live updates from today’s discussions. UN News App users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165470>
 
 ---
 
@@ -45,6 +489,18 @@ A total of 105 motorcyclists were killed on Irish roads in the last five years, 
 
 ---
 
+## UN's top court says failing to protect planet from climate change could violate international law
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592011.1753285571!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/climate-world-court.jpg' alt='People hold banners in front of a building with many towers' width='620' height='349' title='Activists demonstrate outside The Peace Palace, housing the International Court of Justice, ahead of an advisory opinion on what legal obligations nations have to address climate change and what consequences they may face if they don&apos;t, Wednesday, July 23, 2025, in The Hague, Netherlands. '/><p>In a landmark advisory opinion on Wednesday, the United Nations' top court said countries could be in violation of international law if they fail to take measures to protect the planet from climate change, and nations harmed by its effects could be entitled to reparations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/icj-climate-1.7591844?cmp=rss>
+
+---
+
 ## Canadian surgeon says last lifelines in Gaza 'collapsing'
 
 date: 2025-07-23, from: RTÉ News
@@ -57,7 +513,19 @@ A Canadian surgeon based in Gaza said major shortages and crumbling facilities a
 
 ---
 
-## Niall Gilligan found not guilty of assaulting boy
+## Children 'starving before our eyes' in Gaza - Tánaiste
+
+date: 2025-07-23, from: RTÉ News
+
+Tánaiste Simon Harris has said that "children are starving before our eyes" in Gaza as more than 100 aid organisations warned that "mass starvation" was spreading in the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0723/1524916-gaza-taoiseach/>
+
+---
+
+## Gilligan found not guilty of assaulting boy in Co Clare
 
 date: 2025-07-23, from: RTÉ News
 
@@ -69,11 +537,11 @@ The jury in the trial of former Clare All-Ireland winning hurler Niall Gilligan 
 
 ---
 
-## Two dead, two seriously injured in Fermanagh shooting
+## Two children and woman die after Fermanagh shooting
 
 date: 2025-07-23, from: RTÉ News
 
-Two people have died and two others were seriously injured in a shooting incident in Co Fermanagh. 
+A boy, a girl and a woman in her 40s have died after a shooting in Co Fermanagh, police have confirmed. 
 
 <br> 
 
@@ -94,6 +562,22 @@ date: 2025-07-23, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/world/news/2025-07/gaza-health-crisis-escalates-as-international-condemnation-grows.html>
+
+---
+
+## Bringing the hopes of young South Africans to the Jubilee
+
+date: 2025-07-23, from: Vatican News
+
+
+                    <p>A bishop and young person from South Africa share how young people have been preparing to attend the Jubilee of Youth in Rome from July 28 to August 3, despite challenges and issues. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/south-africa-young-people-jubilee-preparations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/south-africa-young-people-jubilee-preparations.html>
 
 ---
 
@@ -126,7 +610,7 @@ The top Republican in the US House of Representatives said he would send politic
 date: 2025-07-23, from: Vatican News
 
 
-                    <p>Cardinal Matteo Maria Zuppi, the Archbishop of Bologna, and the President of the Jewish Community of Bologna, Daniele De Paz, sign joint declaration against war in Gaza, condemning massacres of innocent civilians, calling for peace, and rejecting anti-Semitism, Islamophobia, and Christianophobia.</p>
+                    <p>Cardinal Matteo Maria Zuppi, the Archbishop of Bologna, and the President of the Jewish Community of Bologna, Daniele De Paz, sign joint declaration against the war in Gaza, condemning massacres of innocent civilians, calling for peace, and rejecting anti-Semitism, Islamophobia, and Christianophobia.</p>
                     <p><a href="https://www.vaticannews.va/en/church/news/2025-07/cardinal-zuppi-bologna-head-rabbi-joint-declaration-against-war.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -134,18 +618,6 @@ date: 2025-07-23, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/church/news/2025-07/cardinal-zuppi-bologna-head-rabbi-joint-declaration-against-war.html>
-
----
-
-## Over 100 aid agencies call for Gaza ceasefire, warn of starvation risks
-
-date: 2025-07-23, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7591782.1753271669!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2225533464.jpg' alt='Several people&apos;s faces, mostly children, are shown up against a fence as they hold up containers.' width='620' height='349' title='Palestinians push to the front to receive a hot meal at a charity kitchen in the Mawasi area of Khan Younis in the southern Gaza Strip on Tuesday.  '/><p>More than 100 largely aid and rights groups on Wednesday called for governments to take action as hunger spreads in Gaza, including by demanding an immediate and permanent ceasefire and the lifting of all restrictions on the flow of humanitarian aid.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/gaza-humanitarian-aid-1.7591761?cmp=rss>
 
 ---
 
@@ -221,11 +693,11 @@ A new report from the Environmental Protection Agency has found that there have 
 
 ---
 
-## Russia expects 'difficult' talks with Ukraine in Istanbul
+## Russia and Ukraine agree to exchange 1,200 POWs
 
 date: 2025-07-23, from: RTÉ News
 
-Russia has confirmed it will take part in peace talks with Ukraine later in Istanbul and said it expected the meeting would be "very difficult". 
+Russia and Ukraine during talks in Istanbul have agreed to exchange 1,200 prisoners of war each, a Russian negotiator said, adding Moscow offered to hand Kyiv the bodies of 3,000 killed soldiers. 
 
 <br> 
 
@@ -233,11 +705,47 @@ Russia has confirmed it will take part in peace talks with Ukraine later in Ista
 
 ---
 
-## Taoiseach says 'humanity shocked' by situation in Gaza
+## $200M legacy fund for day school survivors now open for applications
+
+date: 2025-07-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7591606.1753227457!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/elder-claudette-commanda.jpg' alt='Kitigan Zibi Anishinabek Elder Claudette Command says the settlement&apos;s legacy fund is an opportunity to advance collective healing and to create a better future for the youth. ' width='620' height='349' title='Kitigan Zibi Anishinabek Elder Claudette Command says the settlement&apos;s legacy fund is an opportunity to advance collective healing and to create a better future for the youth. '/><p>The McLean Legacy Fund is for survivor-led initiatives for collective healing, wellness, language, culture, commemoration, and truth telling.  </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/legacy-fund-nwt-1.7587520?cmp=rss>
+
+---
+
+## Tłegǫ́hłı̨ Got'įnę celebrates self-government agreement with events this week in Norman Wells, N.W.T.
+
+date: 2025-07-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.4981337.1733176564!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/norman-wells-land-corporation.jpg' alt='A table and a sign.' width='620' height='349' title='Representatives from the Norman Wells Land Corporation and both territorial and federal governments are celebrating the signing of the Self-Government Agreement-in-Principle for the Sahtu Dene and Métis of Norman Wells Wednesday evening.'/><p>The Tłegǫ́hłı̨ Got'įnę in Norman Wells, N.W.T., is this week celebrating the ratification of a self-government agreement that's been decades in the making, with music, games and community gatherings.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/t%C5%82eg%C7%AB-h%C5%82%C4%B1-got-%C4%AFn%C4%99-is-celebrating-self-governance-as-celebrations-kick-off-in-norman-wells-n-w-t-this-week-1.7591525?cmp=rss>
+
+---
+
+## Healing and connection: Inside the Humble Lodge's two-spirit fasting camp
+
+date: 2025-07-23, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7587611.1752775135!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_620/lo4rm0k92p6sb71l55d7q11m4b.jpg' alt='A group of people hold willow branches in a clearing surrounded by trees. ' width='620' height='349' title='Helpers and community members use freshly cut willow to construct a sweat lodge on the ceremony grounds at tapahtêyimôkamik'/><p>The Humble Lodge's annual four-day fast camp provides a safe space for 2SLGBTQ+ Indigenous youth to engage in a rite of passage, fostering strength, resilience, self-esteem and connection.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/healing-and-connection-inside-the-humble-lodge-s-two-spirit-fasting-camp-1.7586539?cmp=rss>
+
+---
+
+## Family of seven killed in Gaza as Israel deny aid delays
 
 date: 2025-07-23, from: RTÉ News
 
-Taoiseach Micheál Martin has said humanity is "shocked by what is happening in Gaza" as more than 100 aid organisations have warned that "mass starvation" was spreading in the Palestinian territory. 
+A family of seven were among more than 100 people killed in 24 hours of Israeli strikes or gunfire, according to health officials. 
 
 <br> 
 
@@ -245,7 +753,7 @@ Taoiseach Micheál Martin has said humanity is "shocked by what is happening in 
 
 ---
 
-## EU says it is focused on resolving trade issues with US
+## EU, US heading towards 15% tariff deal, EU diplomats say
 
 date: 2025-07-23, from: RTÉ News
 
@@ -278,6 +786,18 @@ Drone delivery company Manna is to present a letter of support for its services,
 <br> 
 
 <https://www.rte.ie/news/regional/2025/0723/1524819-drone-delivery-manna/>
+
+---
+
+## Prime Minister Mark Carney visits his hometown of Fort Smith, N.W.T.
+
+date: 2025-07-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7592406.1753300963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mark-carney.jpg' alt='The prime minister sits at a table with three people ' width='620' height='349' title='Prime Minister Mark Carney meets with Fort Smith, N.W.T. residents on Wednesday, July 23, 2025.'/><p>The prime minister stopped in his hometown of Fort Smith, N.W.T., Wednesday to tour an area impacted by wildfire and talk with locals about food insecurity. He'll visit Inuvik later in the day to meet with Inuit leaders.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/mark-carney-hometown-visit-fort-smith-inuvik-1.7591720?cmp=rss>
 
 ---
 
@@ -429,6 +949,18 @@ An AI startup co-founded by Irish 18-year-old Liam Fuller has secured €1.2 mil
 
 ---
 
+## Irish 18-year-old's AI startup raises €1.2m
+
+date: 2025-07-22, from: RTÉ News
+
+An AI startup co-founded by Irish 18-year-old Liam Fuller has secured €1.2 million in pre-seed funding. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0722/1524816-irish-man-startup/>
+
+---
+
 ## Donegal shop 'excited' to bring Topshop back to Ireland
 
 date: 2025-07-22, from: RTÉ News
@@ -481,7 +1013,7 @@ A young bar manager who struck a single punch to a 60-year-old man causing him t
 
 date: 2025-07-22, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7591082.1753204680!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-late-show-with-stephen-colbert-july-21.jpg' alt='A man in a black suit, white shirt, black tie and black glasses stands with his arms stretched out on a TV set with a band in the background. ' width='620' height='349' title='This image released by CBS shows Stephen Colbert during a taping of &quot;The Late Show with Stephen Colbert&quot; on Monday, July 21, 2025, in New York. '/><p></p> 
+<img src='https://i.cbc.ca/1.7591082.1753299862!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-late-show-with-stephen-colbert-july-21.jpg' alt='A man in a black suit, white shirt, black tie and black glasses stands with his arms stretched out on a TV set with a band in the background. ' width='620' height='349' title='This image released by CBS shows Stephen Colbert during a taping of &quot;The Late Show with Stephen Colbert&quot; on Monday, July 21, 2025, in New York. '/><p></p> 
 
 <br> 
 
@@ -631,7 +1163,7 @@ US President Donald Trump has decided to pull the country out of the "woke" and 
 
 ## Deep dive into the International Seabed Authority: Why it matters now
 
-date: 2025-07-22, from: United Nations, Top Stories
+date: 2025-07-22, from: United Nations, Climate Change
 
 Protecting underwater ecosystems from the growing interest in rare mineral mining, framing deep-sea laws and building a biobank are among landmark achievements of the UN’s International Seabed Authority (ISA), which is marking its 30th anniversary at its Kingston, Jamaica, headquarters. 
 
@@ -667,7 +1199,7 @@ The UN Security Council meets today for a high-level open debate on Promoting In
 
 ## UN’s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit
 
-date: 2025-07-22, from: United Nations, Top Stories
+date: 2025-07-22, from: United Nations, Climate Change
 
 UN Secretary‑General António Guterres declared the world has “passed the point of no return” on the shift to renewables and implored governments to file sweeping new climate plans before November’s COP30 climate summit in Brazil, saying the fossil fuel era is nearing its end. 
 
@@ -739,7 +1271,7 @@ As the humanitarian crisis deepens in Sudan, the UN and partners have revised an
 
 ## UN laments US withdrawal from its educational and cultural agency
 
-date: 2025-07-22, from: United Nations, Top Stories
+date: 2025-07-22, from: United Nations, UN Affairs
 
 The United States announced on Tuesday that it will leave the UN Educational, Scientific and Cultural Organization (UNESCO), which will take effect at the end of December 2026.&nbsp; 
 
@@ -1420,7 +1952,7 @@ Badriya collapses from hunger, Khadija dreams of her kitchen and Hiyam longs for
 
 ## Salvaging SDGs still possible, but countries must act now: Guterres
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Economic Development
 
 Citing new global agreements on pandemic preparedness, ocean protection and development financing, UN Secretary‑General António Guterres said on Monday that recent “signs of momentum” show multilateralism can still deliver. 
 
@@ -1432,7 +1964,7 @@ Citing new global agreements on pandemic preparedness, ocean protection and deve
 
 ## Droughts are causing record devastation worldwide, UN-backed report reveals
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Climate Change
 
 Worldwide, some of the most widespread and damaging drought events in recorded history have occurred in recent years due to climate change and resource depletion.&nbsp; 
 
@@ -1468,7 +2000,7 @@ After another deadly weekend in Gaza in which at least 67 Palestinians were repo
 
 ## Deadly floods show need for faster, wider warnings, UN agency says
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Climate Change
 
 From the Himalayas to rural Texas, deadly floods this month have killed hundreds and exposed dangerous gaps in early warning systems, the UN’s weather agency warned, linking the devastation to rapid urbanization, land-use change and a warming climate that traps more moisture in the atmosphere. 
 
@@ -1480,7 +2012,7 @@ From the Himalayas to rural Texas, deadly floods this month have killed hundreds
 
 ## ‘Bet on youth’ to realise Africa’s digital potential, UN deputy chief says
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Economic Development
 
 Digital innovation and technology remain underfunded and underdeveloped across Africa, according to a report on Africa’s development which was discussed at the General Assembly on Monday.&nbsp;&nbsp; 
 

@@ -1,11 +1,311 @@
 ---
 title: science and technology
-updated: 2025-07-23 06:07:43
+updated: 2025-07-23 14:07:54
 ---
 
 # science and technology
 
-(date: 2025-07-23 06:07:43)
+(date: 2025-07-23 14:07:54)
+
+---
+
+## IRL Com recruits teens for real-life stabbings, shootings, FBI warns
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>From scams to violence, the crimes extend beyond the digital realm</h4> <p>A subset of an online group that recruits children and teens for contract shootings, kidnappings, and other real-life violent crimes poses a growing threat to youth, according to the FBI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/irl_com_recruits_teens/>
+
+---
+
+## NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
+
+date: 2025-07-23, from: NASA breaking news
+
+NASA will provide live coverage of launch activities for NISAR (NASA-ISRO Synthetic Aperture Radar), which is set to lift off at 8:10 a.m. EDT (5:40 p.m. IST), Wednesday, July 30, from Satish Dhawan Space Centre on India’s southeastern coast. A collaboration between NASA and the Indian Space Research Organisation (ISRO), the first-of-its-kind satellite will lift [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/>
+
+---
+
+## Nothing to see here: Brave browser blocks privacy-busting Microsoft Recall
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>No screenshots for you!</h4> <p>In an effort to protect user privacy, Brave browser 1.81 will prevent Microsoft Recall from screenshotting it by default.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/brave_browse_block_microsoft_recall/>
+
+---
+
+## NASA Scientist Finds Predicted Companion Star to Betelgeuse
+
+date: 2025-07-23, from: NASA breaking news
+
+A century-old hypothesis that Betelgeuse, the 10th brightest star in our night sky, is orbited by a very close companion star was proved true by a team of astrophysicists led by a scientist at NASA’s Ames Research Center in California’s Silicon Valley. The research published in The Astrophysical Journal Letters in the paper “Probable Direct [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/astrophysics/nasa-scientist-finds-predicted-companion-star-to-betelgeuse/>
+
+---
+
+## Tata Consultancy enforces return-to-work mandate on all US staff, effective immediately
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Goal is &#39;to enrich our workplace experience&#39;</h4> <p><strong>Exclusive</strong>  Tata Consultancy Services (TCS) has announced an instant five-day return-to-work mandate for US workers, and warns that staff will be monitored and called out if they don&#39;t comply.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/tata_consulting_returntowork_mandate/>
+
+---
+
+## AI industry's size obsession is killing ROI, engineer argues
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Huge models are error-prone and expensive</h4> <p>Enterprise CIOs have been mesmerized by GenAI claims of autonomous agents and systems that can figure anything out. But the complexity that such large models deliver is also fueling errors, hallucinations, and spiraling bills.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/ai_size_obsession/>
+
+---
+
+## Meta eggheads demo Bluetooth wristband that decodes muscle twitches for UI control
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Unlike traditional input, no cameras or surgery needed, they claim</h4> <p>Researchers at Meta have come up with a wristband that picks up your muscle twitches and turns them into real-time computer commands - no cameras or implants required.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/meta_wristband_ui_control/>
+
+---
+
+## NASA Tests 5G-Based Aviation Network to Boost Air Taxi Connectivity
+
+date: 2025-07-23, from: NASA breaking news
+
+NASA engineers are exploring how the technology used in existing cellphone networks could support the next generation of aviation. In April and May, researchers at NASA’s Glenn Research Center in Cleveland built two specialized radio systems to study how well fifth-generation cellular network technology, known as 5G, can handle the demands of air taxi communications. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-5g-based-aviation-network-to-boost-air-taxi-connectivity/>
+
+---
+
+## Wayback 0.1 released
+
+date: 2025-07-23, from: OS News
+
+Wayback, the recently announced tool that will allow you to run a legacy X11 desktop environment on top of Wayland, has just announced its first release, version 0.1. As the version number implies, there be dragons here, but the developers state some of them already use Wayback on a day-to-day basis. Still, there&#8217;s no multi-monitor support yet, quite a few X.org options are just stubs for now, there&#8217;s no mouse-locking, and so on. Since the initial announcement and the first progress report a few weeks ago, Wayback has become an official part of FreeDesktop.org, which indicates the wider desktop Linux community is definitely interested in what Wayback has to offer. It&#8217;s also been split into several different parts to mimic X.org&#8217;s structure, several distributions have picked it up and packaged it already, and ton more changes have been made. It definitely seems like Wayback has a good chance of becoming a simpler, more straightforward replacement for X.org, greatly reducing the maintenance burden of Linux distributions. Not having to keep the full legacy X.org stack around alongside Wayland is going to save a lot of people a lot of time. 
+
+<br> 
+
+<https://www.osnews.com/story/142878/wayback-0-1-released/>
+
+---
+
+## Microsoft SharePoint victim count hits 400+ orgs in ongoing attacks
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>US DOE among breached government agencies</h4> <p>More than 400 organizations have been compromised in the Microsoft SharePoint attack, according to Eye Security, which initially sounded the alarm on the mass exploitation last Friday, even before Redmond confirmed the critical vulnerabilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/microsoft_sharepoint_400_orgs/>
+
+---
+
+## Power cuts, cable damage, and government shutdowns behind Q2 internet outages
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Loads of unexplained ones, too. Maybe normalize providing a freaking reason for multi-hour outages, mmm?</h4> <p>The previous quarter was a busy one for internet disruptions, according to Cloudflare, with government-mandated shutdowns in several nations, a massive power outage hitting Spain&#39;s infrastructure, damage to fiber optic cabling, and technical issues hitting North America.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/governments_power_cuts_cable_damage/>
+
+---
+
+## IRS has lost one-quarter of its IT staff since Trump took office
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>The 2026 tax year ought to be fun</h4> <p>A quarter of the Internal Revenue Service&#39;s IT staff has departed since President Trump&#39;s workforce reduction efforts began earlier this year, and that has officials worried the 2026 tax season could be a mess.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/irs_it_staff_down_25_percent/>
+
+---
+
+## NASA Tests Mixed Reality Pilot Simulation in Vertical Motion Simulator
+
+date: 2025-07-23, from: NASA breaking news
+
+Commercial companies and government agencies are increasingly pursuing a more immersive and affordable alternative to conventional displays currently used in flight simulators. A NASA research project is working on ways to make this technology available for use faster.  Mixed reality systems where users interact with physical simulators while wearing virtual reality headsets offer a promising [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasa-tests-mixed-reality-sim-in-vertical-motion-simulator/>
+
+---
+
+## NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space
+
+date: 2025-07-23, from: NASA breaking news
+
+In this photo from June 28, 2025, Expedition 73 flight engineer Jonny Kim and former NASA astronaut and director of human spaceflight at Axiom Space Peggy Whitson work together inside the International Space Station&#8217;s Destiny laboratory module setting up hardware for cancer research. The hardware is used to culture patient-derived cancer cells, model their growth [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-axiom-mission-4-commander-peggy-whitson-conduct-research-in-space/>
+
+---
+
+## VMware prevents some perpetual license holders from downloading patches
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Despite pledging help for those who don’t sign for subs, Broadcom says validating their entitlements will delay support</h4> <p><strong>Exclusive</strong>  Some customers of Broadcom’s VMware business currently cannot access security patches, putting them at greater risk of attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/vmware_patch_download_problems/>
+
+---
+
+## Leading 3D printing site bans firearm files, but home gun makers have better options
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Thingiverse ditches downloadable designs at the urging of Manhattan District Attorney, who wants more companies to do likewise</h4> <p>A leading 3D printing site has agreed to purge its library of downloadable gun designs at the urging of Manhattan District Attorney Alvin Bragg. However, it&#39;s unlikely to slow the proliferation of 3D printed weapons, as many other sites offer downloadable gun designs and parts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/thingiverse_drops_3d_gun_designs/>
+
+---
+
+## Radio JOVE Volunteers Tune In to the Sun’s Low Notes
+
+date: 2025-07-23, from: NASA breaking news
+
+As the Sun approaches the most active part of its eleven-year magnetic cycle this summer, NASA volunteers have been watching it closely. Now they’ve spotted a new trend in solar behavior that will have you reaching for your suntan lotion. It’s all about something called a “Type II” solar radio burst: “Type II solar radio […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/radio-jove-volunteers-tune-in-to-the-suns-low-notes/>
+
+---
+
+## SAP warns of 'extended approvals' for spending in manufacturing, US public sector
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Vendor sees &#39;slight deceleration&#39; in cloud backlog as it offers mixed results</h4> <p>SAP is warning of uncertainty in global markets after reporting revenue of €9 billion ($10.55 billion) for caledar Q2, up 9 percent year-on-year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/sap_warns_of_extended_approvals/>
+
+---
+
+## The Cells That Breathe Two Ways
+
+date: 2025-07-23, from: Quanta Magazine
+
+In a hot spring at Yellowstone National Park, a microbe does something that life shouldn’t be able to do: It breathes oxygen and sulfur at the same time.            <p>The post <a href="https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/" target="_blank">The Cells That Breathe Two Ways</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/>
+
+---
+
+## NASA Seeks Industry Concepts on Moon, Mars Communications
+
+date: 2025-07-23, from: NASA breaking news
+
+NASA is seeking proposals from U.S. companies about innovative Moon and Mars proximity relay communication and navigation capabilities as the agency aims to use private industry satellite communications services for emerging missions. On July 7, NASA issued a Request for Proposals, soliciting advanced industry concepts to establish high-bandwidth, high-reliability communications infrastructure between the lunar surface [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-seeks-industry-concepts-on-moon-mars-communications/>
+
+---
+
+## GRUVE Lab
+
+date: 2025-07-23, from: NASA breaking news
+
+The GRUVE (Glenn Reconfigurable User-Interface and Virtual Reality Exploration) Lab is located within the GVIS Lab. It is home to the CAVE, which is predominantly used for mission scenarios and to tour virtual environments of NASA facilities. 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/gruve-lab-gvis-glenn/>
+
+---
+
+## $380M lawsuit claims intruder got Clorox's passwords from Cognizant simply by asking
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Hand us the mind bleach, we want to flush our memories of attack</h4> <p>Clorox is suing its service desk provider, Cognizant, for $380 million in a California state court, alleging the IT support crew &#34;enabled a cybercriminal to gain a foothold in Clorox&#39;s network&#34; by handing over staffers&#39; passwords to attackers after they simply requested them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/lawsuit_clorox_vs_cognizant/>
+
+---
+
+## GVIS History
+
+date: 2025-07-23, from: NASA breaking news
+
+As part of NASA Glenn’s Scientific Computing and Visualization Team, the GVIS Lab has a storied visual and technological history. 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/gvis-history-glenn/>
+
+---
+
+## USBR Seal Team Fix Challenge
+
+date: 2025-07-23, from: NASA breaking news
+
+When a reservoir conduit cannot be closed, thousands of cubic feet of water can roar through uncontrolled, threatening public safety, irreplaceable reservoir storage, and power generation. Seal Team Fix invites engineers, fabricators, and creative problem-solvers to stop that torrent in its tracks. Your mission: design a rapid-deploying, temporary seal that can be deployed to a submerged 3- [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-seal-team-fix-challenge/>
+
+---
+
+## Copilot Vision on Windows 11 sends data to Microsoft servers
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Total Recall: Capturing everything you do on your PC screen to become a &#39;true companion&#39;</h4> <p>Microsoft is again throwing AI at Windows 11 to see what sticks, releasing features including the even more eyebrow-raising successor to its controversial Recall, a screen-streaming remotely processed backseat driver dubbed Copilot Vision.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/microsoft_copilot_vision/>
 
 ---
 
@@ -179,7 +479,7 @@ The work towards making the 64bit version of AROS a viable choice is continuing,
 
 ## One in six US workers pretends to use AI to please the bosses
 
-date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+date: 2025-07-22, updated: 2025-07-23, from: The Register (UK I.T. News)
 
 <h4>AI-nxiety is real, and it&#39;s causing some bizarre behavior</h4> <p><strong>ai-pocalypse</strong>  If you&#39;re one of those people who pretend to use AI at work, then worry not: there are likely another 15 of you per hundred employees in your company. That&#39;s the finding of a survey from nearshoring tech recruitment company Howdy.com.…</p> 
 

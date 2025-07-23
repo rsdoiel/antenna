@@ -1,11 +1,283 @@
 ---
 title: going electric
-updated: 2025-07-23 06:07:51
+updated: 2025-07-23 14:08:02
 ---
 
 # going electric
 
-(date: 2025-07-23 06:07:51)
+(date: 2025-07-23 14:08:02)
+
+---
+
+## Tesla's Quarter Was Pretty Brutal. Here's What Happened
+
+date: 2025-07-23, from: Inside EVs News
+
+Sales are down, regulatory credits are down, and discounted Tesla prices mean less money coming in. Tesla could use some good news lately. 
+
+<br> 
+
+<https://insideevs.com/news/766798/tesla-q2-financial-revenue-credits/>
+
+---
+
+## Tesla's Cheaper EV Started 'Initial Production' In June
+
+date: 2025-07-23, from: Inside EVs News
+
+Tesla offered an update on its long-awaited more affordable model in its Q2 earnings report.  
+
+<br> 
+
+<https://insideevs.com/news/766793/tesla-cheaper-new-model-june/>
+
+---
+
+## Tesla (TSLA) releases Q2 2025 financing results: earnings down 23%
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Q2-2025-earnings-hero.png?w=1600" /></div><p>Tesla (TSLA) released its financial results and shareholders’ letter for the second quarter (Q2) 2025 after market close today.</p>
+
+
+
+<p>We are updating this post with all the details from the financial results, shareholders’ letter, and the conference call later tonight. Refresh for the latest information.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="426472" href="https://electrek.co/2025/07/23/tesla-tsla-releases-q2-2025-financing-results-earnings-down/#more-426472" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/tesla-tsla-releases-q2-2025-financing-results-earnings-down/>
+
+---
+
+## Tesla teleoperated robot failed while serving popcorn on first day of new diner
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Optimus-robot-popcorn-fail.png?w=1600" /></div><p>Optimus, Tesla’s humanoid robot, which CEO Elon Musk claims is ahead of the industry and will sell in the trillions of dollars, failed while serving popcorn on the first day of Tesla’s new diner launch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="426456" href="https://electrek.co/2025/07/23/tesla-teleoperated-robot-fail-serving-popcorn-first-day-new-diner/#more-426456" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/tesla-teleoperated-robot-fail-serving-popcorn-first-day-new-diner/>
+
+---
+
+## Is Your EV Making You Carsick? Here's Why Science Says ‘Maybe’
+
+date: 2025-07-23, from: Inside EVs News
+
+It has a lot to do with what you hear—or don't hear, and not just what you feel. 
+
+<br> 
+
+<https://insideevs.com/news/766726/electric-vehicle-making-you-carsick/>
+
+---
+
+## Meet the BYD Atto 1 — A $12,000 EV for the masses
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/BYD-Atto-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> officially launched the Atto 1 in Indonesia on Wednesday. Starting at just $12,000 (IDR 195 million), the Atto 1 is now one of the most affordable EVs on the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="426442" href="https://electrek.co/2025/07/23/meet-the-byd-atto-1-a-12000-ev-for-the-masses/#more-426442" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/meet-the-byd-atto-1-a-12000-ev-for-the-masses/>
+
+---
+
+## Rivian adds first Tesla/NACS plugs to its Rivian Adventure Network chargers
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Rivian-EV-charging-Outpost-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian has started adding Tesla/NACS cables to its Rivian Adventure Network, now allowing Tesla vehicles and other brands with NACS ports to charge on Rivian’s charging network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-adventure-network" data-layer-viewtype="unknown" data-post-id="426452" href="https://electrek.co/2025/07/23/rivian-adds-first-tesla-nacs-plugs-to-its-rivian-adventure-network-chargers/#more-426452" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/rivian-adds-first-tesla-nacs-plugs-to-its-rivian-adventure-network-chargers/>
+
+---
+
+## Bluetti Pioneer MD station at $499 low, Heybike Hauler cargo e-bike from $999 low, Govee garden lights $50 off, EcoFlow, tools, more
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Bluetti-Pioneer-MD-AC180T-power-station-e1753289987286.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/07/22/bluetti-pioneer-md-ac180t-power-station-499-low/">Bluetti’s Pioneer MD Portable Power Station (AKA the AC180T)</a> that has returned to its <a href="https://9to5toys.com/2025/07/22/bluetti-pioneer-md-ac180t-power-station-499-low/">$499 low</a> that we first saw during Amazon’s Prime Day event. Right behind it, we have the extended $500 discount on <a href="https://9to5toys.com/2025/07/23/heybike-hauler-cargo-e-bike-from-999/">Heybike’s Hauler Cargo e-bikes</a> that are at their lowest prices <a href="https://9to5toys.com/2025/07/23/heybike-hauler-cargo-e-bike-from-999/">starting from $999</a>, as well as the new <a href="https://9to5toys.com/2025/07/23/govee-outdoor-garden-lights-2-pack-150/">Govee Outdoor Garden Lights 2-Pack at $150</a>. From there, we have EcoFlow’s RIVER 3 power station returning to its Prime Day rate, as well as three offers on Greenworks and Worx tools – two of which are only lasting through the rest of the day. All these and more are waiting for you below. Plus, there’s all the hangover savings at the bottom of the page, like yesterday’s ongoing <a href="https://9to5toys.com/2025/07/22/aventon-sinch-2-folding-e-bike-1399-low/">Aventon Sinch 2 e-bike low</a>, the $114 savings on <a href="https://9to5toys.com/2025/07/22/autel-maxicharger-ac-lite-level-2-ev-charger-455/">Autel’s 50A AC Lite level 2 EV charger</a>, and more</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="426438" href="https://electrek.co/2025/07/23/bluetti-pioneer-md-station-heybike-govee-ecoflow-tools-more/#more-426438" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/bluetti-pioneer-md-station-heybike-govee-ecoflow-tools-more/>
+
+---
+
+## It took years, but electric mountain bikes are finally more affordable
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/aventon-ramblas-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric mountain biking has long been one of the most exciting – and most expensive – corners of the micromobility world. Riders get to explore rugged trails, climb hills that would leave most lungs gasping, and experience the rush of mountain biking with a little extra electric assist. But for many, the cost of entry has felt more like a brick wall than a welcome gate. Until now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="426364" href="https://electrek.co/2025/07/23/it-took-years-but-electric-mountain-bikes-are-finally-more-affordable/#more-426364" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/it-took-years-but-electric-mountain-bikes-are-finally-more-affordable/>
+
+---
+
+## Tesla Wants To Know What Happens If Someone Messes With Its Robotaxis
+
+date: 2025-07-23, from: Inside EVs News
+
+Tesla is quietly testing if bad actors can use RF jammers and gadgets to mess with its Robotaxis. 
+
+<br> 
+
+<https://insideevs.com/news/766759/tesla-robotaxi-pentest-cellular-fcc/>
+
+---
+
+## Toyota will begin building EVs, electric pickups in new markets in the next few months
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-Honda-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota announced plans to begin building electric vehicles in Indonesia this year as it looks to counter surging Chinese rivals. It will be its third country where <a href="https://electrek.co/guides/toyota/">Toyota</a> produces EVs, following China and Japan. Later this year, Toyota will also begin building electric pickups in another market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="426417" href="https://electrek.co/2025/07/23/toyota-build-evs-in-indonesia-and-pickups-in-another-country/#more-426417" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/toyota-build-evs-in-indonesia-and-pickups-in-another-country/>
+
+---
+
+## Tesla’s own data confirms Autopilot safety regressed in 2025
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla released its Autopilot safety report for Q2 2025, confirming that Autopilot safety has regressed so far in 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426416" href="https://electrek.co/2025/07/23/tesla-own-data-confirms-autopilot-safety-regressed-2025/#more-426416" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/tesla-own-data-confirms-autopilot-safety-regressed-2025/>
+
+---
+
+## How America's Heel Turn From EVs Could Hurt Canada Too
+
+date: 2025-07-23, from: Inside EVs News
+
+As U.S. manufacturers slow down on EVs, it could lead to real issues of consumer choice for Canadian drivers. Also, Chinese brands pick up steam in Europe.  
+
+<br> 
+
+<https://insideevs.com/news/766763/critical-materials-july-23-2025/>
+
+---
+
+## Lucid (LCID) is driving EV innovation in America with or without help from Washington
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Lucid-global-EV-expansion-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid (LCID) is making big moves to advance electric vehicles in the US. After launching a new alliance with four US producers, <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> is building a domestic supply chain for EVs to help America keep pace with China and others.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="426391" href="https://electrek.co/2025/07/23/lucid-lcid-launches-new-alliance-to-advance-evs-in-america/#more-426391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/lucid-lcid-launches-new-alliance-to-advance-evs-in-america/>
+
+---
+
+## You can finally get your motorcycle license on an electric, and everyone’s loving it
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/motorcycle-training-course-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Getting a motorcycle license just got a little easier – and more electrifying. In a move that could help usher more riders into the electric future, new riders now have a chance to learn on <a href="http://livewire.com">LiveWire electric motorcycles</a> as part of a licensing course.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="426178" href="https://electrek.co/2025/07/23/you-can-finally-get-your-motorcycle-license-on-an-electric-and-everyones-loving-it/#more-426178" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/you-can-finally-get-your-motorcycle-license-on-an-electric-and-everyones-loving-it/>
+
+---
+
+## bp pulse opens massive EV charging hub near LAX Airport, its largest in the US to date
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/EV-charging-LAX-BP-Pulse-ribbon.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV charging arm bp pulse has cut the ribbon on a long-promised new hub near LAX Airport. This is the first of many “Gigahubs” in the works and has opened as <a href="https://electrek.co/guides/bp-pulse/">bp pulse’s</a> largest EV charging station in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bp-pulse,ev-charging,ev-charging-stations,los-angeles" data-layer-viewtype="unknown" data-post-id="426389" href="https://electrek.co/2025/07/23/bp-pulse-opens-ev-charging-hub-lax-airport-largest-us/#more-426389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/bp-pulse-opens-ev-charging-hub-lax-airport-largest-us/>
+
+---
+
+## Rivian Adds Tesla Plugs To Its Charging Network
+
+date: 2025-07-23, from: Inside EVs News
+
+The Rivian Adventure Network of DC fast chargers is being slowly upgraded to feature both CCS1 and NACS cables. 
+
+<br> 
+
+<https://insideevs.com/news/766738/rivian-adventure-network-dc-fast-chargers-tesla-nacs/>
+
+---
+
+## Kia reveals 7 new PV5 electric van variants — From camper to pickup truck
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Kia-PV5-EV-variants.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia plans to introduce a series of new models based on <a href="https://electrek.co/guides/kia-pv5/">the PV5</a>. During its PV5 Tech Day event on Tuesday, Kia revealed plans for seven new body types, including a camper (for the van lifers out there), a “Premium” luxury model, and a pickup truck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="426370" href="https://electrek.co/2025/07/23/kia-reveals-new-pv5-ev-vans-including-camper-and-pickup/#more-426370" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/kia-reveals-new-pv5-ev-vans-including-camper-and-pickup/>
 
 ---
 

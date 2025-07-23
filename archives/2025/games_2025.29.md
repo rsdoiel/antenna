@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-23 06:07:47
+updated: 2025-07-23 14:07:57
 ---
 
 # games
 
-(date: 2025-07-23 06:07:47)
+(date: 2025-07-23 14:07:57)
+
+---
+
+## Every MCU movie, ranked
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+The latest installment in the Marvel Cinematic Universe, Fantastic Four: First Steps, launches Phase 6 of the MCU, after the wrap-up on the messy, delayed, heavily revised Phase 5. First Steps points toward a cleaner, simpler direction for the MCU: It takes place in its own alternate universe (“Earth 828,” an opening title card declares) [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst>
+
+---
+
+## Donkey Kong Bananza skills list and how to unlock them
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+Skills change the way you play Donkey Kong Bananza. As you collect Banandium Gems, you’ll earn skill points that can be used to upgrade Donkey Kong’s stats or unlock new skills. Most skills can also be upgraded multiple times, which will provide you with even more stats and strengthen your abilities even further. Not only [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/612406/skills-list-all-points-how-to-unlock>
+
+---
+
+## Could the next Among Us be this co-op game about an Irish urban legend?
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+The burgeoning “friendslop” genre isn&#8217;t prepared for its scariest — and most personal — entry yet. Eyes of Hellfire is an upcoming co-op horror game in which 3-5 players must collectively survive in a house of horrors while working to deduce who they can and cannot trust, and the developers at its Dublin-based studio, Gambrinous, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/615536/eyes-hellfire-horror-beta-date-preview-blumhouse>
+
+---
+
+## Our Flag Means Death creator finds his next wacky show in DC Universe
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+Our Flag Means Death creator David Jenkins has been tapped to write the pilot for HBO Max’s upcoming Booster Gold TV series as part of James Gunn’s new DCU. If the pilot proves successful, Jenkins is set to serve as the showrunner of the superhero series, Deadline reported Wednesday. Jenkins issued a public statement about [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/615480/dcu-booster-gold-tv-show-hbo-max>
+
+---
+
+## Deltarune is the Switch 2’s sleeper hit
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+It’s been a winding road for the quasi follow-up to indie RPG darling Undertale. Deltarune’s episodic release has left fans waiting for a long time between installments, with Chapter 1 hitting in 2018, Chapter 2 releasing in 2021, and Chapters 3 and 4 available in 2025. The fifth part is still in development for 2026. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615471/deltarune-sales-switch-2-development-toby-fox-eshop>
+
+---
+
+## Super Mario Odyssey does one thing better than Donkey Kong Bananza
+
+date: 2025-07-23, updated: 2025-07-22, from: Polygon Website
+
+Even if you didn’t know that Donkey Kong Bananza was made by the studio behind Super Mario Odyssey, it wouldn’t take very long to figure it out. Nintendo’s latest 3D platformer shares clear DNA with the Switch classic, even if it trades elegant jumps for chaotic smashing. It’s the exact same brand of collect-a-thon, with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/615288/super-mario-odyssey-donkey-kong-bananza-comparison>
+
+---
+
+## The childhood joy of riding a bike makes for one of the summer&#8217;s best racing games
+
+date: 2025-07-23, updated: 2025-07-22, from: Polygon Website
+
+I lean into every turn. I throw my whole body forward to pick up speed. I scurry out of the way to avoid other cyclists. But I’m not out racing on a real bike, because New York City summers are disgusting and to step outside is to be instantly damp. Instead, I’m playing Wheel World. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/614839/wheel-world-ps5-biking-game>
+
+---
+
+## The best-selling PS5 game of 2025 so far is an Xbox port
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+Microsoft’s business strategy of moving past the limitations of proprietary platforms seems to be bearing fruit this year, based on sales numbers trickling in for the first half of 2025. So far, it seems that the most successful game on the PS5 is none other than Forza Horizon 5, a former Xbox exclusive racing game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615371/xbox-exclusive-forza-horizon-5-ps5-best-selling-game-2025>
+
+---
+
+## Switch 2 is the fastest-selling video game hardware device in US history
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+The Nintendo Switch 2 has debuted as the fastest-selling video game hardware device in United States history, according to market research. The Switch 2 sold 1.6 million units in June, the highest launch-month unit sales for video game hardware in U.S. history, says video game analyst Mat Piscatella on social media. This beats the PlayStation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615368/nintendo-switch-2-fastest-selling-video-game-hardware-device-united-states>
 
 ---
 

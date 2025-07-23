@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-07-23 06:07:47
+updated: 2025-07-23 14:07:58
 ---
 
 # journalism
 
-(date: 2025-07-23 06:07:47)
+(date: 2025-07-23 14:07:58)
 
 ---
 
@@ -69,12 +69,12 @@ SMC and UCLA planned to construct a building on SMC&#8217;s Bundy Campus near th
 
 ---
 
-## UC regents met to discuss alumni outcomes, reporting resources, policy center
+## UC Regents met to discuss alumni outcomes, reporting resources, policy center
 
 date: 2025-07-22, from: The Daily Bruin (UCLA Student Newspaper)
 
 The UC Board of Regents discussed alumni outcomes, considered campus reporting resources for students and introduced the UC Student and Policy Center on Wednesday.
-The committee on academic and student affairs listed the University&#8217;s top employers as it develops new tools to record alumni careers and examined the success of incident reporting given current campus climates at its July meeting. 
+The committee on academic and student affairs listed the University’s top employers as it develops new tools to record alumni careers and examined the success of incident reporting given current campus climates at its July meeting. 
 
 <br> 
 

@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-07-23 06:07:40
+updated: 2025-07-23 14:07:51
 ---
 
 # north america
 
-(date: 2025-07-23 06:07:40)
+(date: 2025-07-23 14:07:51)
+
+---
+
+## Eliza Orlins on the institutions that enabled Jeffery Epstein
+
+date: 2025-07-23, from: The Contrarian
+
+"Let's stop pretending this was one bad man." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169075409/a26d49180edaf9a574708a8cba9f8953.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169075409/a26d49180edaf9a574708a8cba9f8953.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/eliza-orlins-on-the-institutions>
+
+---
+
+## Three mayors are reducing crime by investing in residents
+
+date: 2025-07-23, from: The Contrarian
+
+In Chicago, Baltimore, and Birmingham, three Black men are leading turnarounds. 
+
+<br> 
+
+<https://contrarian.substack.com/p/three-mayors-are-reducing-crime-by>
+
+---
+
+##  Court Records Reveal Feds’ Shifting Story On Epstein Files 
+
+date: 2025-07-23, from: The Lever News
+
+ An eight-year legal battle for the Epstein files uncovers the Justice Department’s shifting, contradictory legal arguments.  
+
+<br> 
+
+<https://www.levernews.com/court-records-reveal-feds-shifting-story-on-epstein-files/>
+
+---
+
+## The secretary who broke the Pentagon
+
+date: 2025-07-23, from: The Contrarian
+
+Pete Hegseth&#8217;s performative leadership has left the institution hollowed out. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-secretary-who-broke-the-pentagon>
+
+---
+
+##  Verizon’s Big Beautiful Windfall 
+
+date: 2025-07-23, from: The Lever News
+
+ After donating tens of thousands of dollars to architects of the big beautiful bill this quarter, Verizon’s stock is experiencing its best performance in over a year.  
+
+<br> 
+
+<https://www.levernews.com/verizons-big-beautiful-windfall/>
+
+---
+
+## Tennessee opens a new front in its unrelenting attacks on bodily autonomy
+
+date: 2025-07-23, from: The Contrarian
+
+A new law allows doctors to deny treatment based on 'conscience.' Now a woman has been denied prenatal are. 
+
+<br> 
+
+<https://contrarian.substack.com/p/tennessee-opens-a-new-front-in-its>
+
+---
+
+## How Robert Reich Teaches — and Why Inequality Is Still the Lesson
+
+date: 2025-07-23, from: Capital and Main
+
+<p>Director, producer of <i>The Last Class</i> discuss Reich’s skill in the classroom and his career-long focus on economic disparities.</p>
+<p>The post <a href="https://capitalandmain.com/how-robert-reich-teaches-and-why-inequality-is-still-the-lesson">How Robert Reich Teaches — and Why Inequality Is Still the Lesson</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-robert-reich-teaches-and-why-inequality-is-still-the-lesson>
+
+---
+
+## Democrats can wrangle back checks and balances with the 2026 budget
+
+date: 2025-07-23, from: The Contrarian
+
+Sen. Schumer and his caucus must seize this chance to reclaim the power of the purse from the administration. 
+
+<br> 
+
+<https://contrarian.substack.com/p/democrats-can-wrangle-back-checks>
+
+---
+
+## Coffee with The Contrarians 07/23
+
+date: 2025-07-23, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 7/23 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0723>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-23, from: The Contrarian
+
+Wednesday: Good Trouble Lives On protests in Texas, Tennessee, Ohio, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -184,18 +308,6 @@ date: 2025-07-22, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/168883382/3447f97a838ba48a86c4851a3321fde9.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/rural-america-is-worth-saving-jess>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-22, from: The Contrarian
-
-Tuesday: Good Trouble Lives On protests in Chicago, Phoenix, Las Vegas, Los Angeles, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

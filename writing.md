@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-07-23 06:07:46
+updated: 2025-07-23 14:07:57
 ---
 
 # writing
 
-(date: 2025-07-23 06:07:46)
+(date: 2025-07-23 14:07:57)
+
+---
+
+## Screenplay Examples: Analyzing Top Movie Scripts
+
+date: 2025-07-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/screenplay-examples-analyzing-top-movie-scripts" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Magnifying%20Glass.jpeg" alt="Screenplay Examples: Analyzing Top Movie Scripts" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>One of the best ways for a screenwriter to learn their craft is to see how the masters did it and <span style="font-weight: bold;">read the screenplays</span> to popular and acclaimed movies.&nbsp;<br><br>In most cases, if a script got produced and turned into a successful film, there were several things working for it on the page. When a producer, studio exec or director reads a screenplay and thinks ‘This is a movie,’ it’s because the screenwriter <em>wrote a movie</em>. All the below <span style="font-weight: bold;">screenplay examples</span> read like movies. Furthermore, they read like great movies, and you can imagine the excitement of the industry professionals reading them for the first time.&nbsp;<br><br>Screenplay analysis of how legendary screenwriters crafted compelling characters, intricate plots, and unforgettable dialogue is the best film school you could ever attend. After the screenplay examples, I’ll give tips on <span style="font-weight: bold;">How To Study a Script</span> effectively and apply what you’ve learned to your own screenwriting.<br><br>The below <span style="font-weight: bold;">movie script examples</span> were chosen to represent different <a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">movie genres</a> and varied approaches to the scriptwriting process. They also range from the 1970s to present-day. They’re all scripts that not only went on to become popular and acclaimed movies, but have also been singled out as accomplished written works.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/screenplay-examples-analyzing-top-movie-scripts>
 
 ---
 

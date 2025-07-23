@@ -1,11 +1,143 @@
 ---
 title: food
-updated: 2025-07-23 06:07:52
+updated: 2025-07-23 14:08:02
 ---
 
 # food
 
-(date: 2025-07-23 06:07:52)
+(date: 2025-07-23 14:08:02)
+
+---
+
+## Hetal Vasavada’s S’mores Pie
+
+date: 2025-07-23, from: Taste of Home
+
+This s’mores pie captures everything you love about the classic campfire treat in one slice. It starts with a buttery graham cracker crust filled with a silky chocolate custard made with hot cocoa mix for that nostalgic milk chocolate flavor. Feel free to use a store-bought graham cracker crust to save time! A little whipped cream is folded into the custard to keep it light and mousse-like, and it's all topped with a billowy toasted marshmallow meringue. The result is gooey, creamy and completely irresistible. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-smores-pie/>
+
+---
+
+## Weber Spirit Grill Review: It Solved All My Gas Grill Problems
+
+date: 2025-07-23, from: Bon Appetet
+
+It’s hot, it’s easy, it’s clean. 
+
+<br> 
+
+<https://www.bonappetit.com/story/weber-spirit-gas-grill-review>
+
+---
+
+## Bored With Ground Meat? Try Bison.
+
+date: 2025-07-23, from: Bon Appetet
+
+With a gentle sweetness and juicy flavor, this ground meat has become a welcome switch-up to my usual fare. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bored-with-ground-meat-try-bison>
+
+---
+
+## Golden Apple Pie
+
+date: 2025-07-23, from: Taste of Home
+
+Simmered apple juice thickens the filling of this Golden Delicious apple pie into a glossy, cinnamon-scented layer that slices clean and holds its shape. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/golden-apple-pie/>
+
+---
+
+## Pret A Manger Names New U.S. President, Seeks Growth
+
+date: 2025-07-23, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Pret A Manger Storefront" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Longtime quick-service food and coffee executive Felipe Athayde was recently tapped by the UK-based chain Pret A Manger to lead operations in the U.S. as president. Athayde, who formerly led... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/23/pret-a-manger-names-new-u-s-president-seeks-growth/>
+
+---
+
+## We Tasted 12 Mint Chocolate Chip Ice Creams, These Are the Best
+
+date: 2025-07-23, from: Bon Appetet
+
+We sampled pints from Jeni’s, Trader Joe’s, Häagen-Dazs, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-mint-chocolate-chip-ice-cream-taste-test>
+
+---
+
+## Bipartisan Letter From U.S. Reps Urges Coffee’s Exemption from Tariffs
+
+date: 2025-07-23, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-620x465.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers boat" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The chairs of the recently inaugurated United States Congressional Coffee Caucus issued a letter with bipartisan support to the head of the U.S. trade agency urging coffee to be... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/23/bipartisan-letter-from-u-s-reps-urges-coffees-exemption-from-tariffs/>
+
+---
+
+## Cranberry Curd Bars
+
+date: 2025-07-23, from: Taste of Home
+
+A festive fall twist on classic lemon bars, these cranberry curd bars feature a homemade cranberry filling that delivers vibrant color and bright, seasonal flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cranberry-curd-bars/>
+
+---
+
+## Build-Outs Of Coffee: Babylon Brews In Southern California
+
+date: 2025-07-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Babylon Brews in Southern California. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-babylon-brews-in-southern-california-360902.html>
+
+---
+
+## That’s Not Me, Depresso: Drinking Coffee May Help Prevent Stress-Induced Depression & Anxiety
+
+date: 2025-07-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Caffeine before stressful situations may help prevent depressive symptoms. 
+
+<br> 
+
+<https://sprudge.com/thats-not-me-depresso-drinking-coffee-may-help-prevent-stress-induced-depression-anxiety-381311.html>
+
+---
+
+## Coffee, Culture and Cars Combine at Chloé Cà Phê in Sacramento
+
+date: 2025-07-23, from: Daily Coffee News
+
+<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-620x435.jpg" class="attachment-large size-large wp-post-image" alt="Studying coffee production" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; With a Porsche or some other ritzy vintage car usually parked inside, a new coffee shop in Sacramento, California, called Chloé Cà Phê + Roastery is seeking to develop... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/23/coffee-culture-and-cars-combine-at-chloe-ca-phe-in-sacramento/>
 
 ---
 
@@ -93,6 +225,30 @@ date: 2025-07-23, from: Isebel Eats
 
 ---
 
+## Cookie Dough-Stuffed Dates
+
+date: 2025-07-23, from: Taste of Home
+
+When you need a sweet treat, these cookie dough-stuffed dates are a tasty, naturally sweetened, healthy-ish snack. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cookie-dough-stuffed-dates/>
+
+---
+
+## Mochi Cookies
+
+date: 2025-07-23, from: Taste of Home
+
+Our recipe for mochi cookies takes classic chocolate chip cookies and makes them even better by adding a surprise chewy mochi center. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mochi-cookies/>
+
+---
+
 ## I Tried The New ‘Stranger Things’ Chips Ahoy Cookies and They’re Incredible
 
 date: 2025-07-23, from: Taste of Home
@@ -123,7 +279,7 @@ It's a tough job, but someone had to do it.
 
 date: 2025-07-22, from: Daily Coffee News
 
-<div><img width="620" height="402" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-620x402.jpg" class="attachment-large size-large wp-post-image" alt="congressional reserve blend" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-620x402.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-300x195.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-768x498.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1.jpg 1170w" sizes="(max-width: 620px) 100vw, 620px" /></div>If there&#8217;s one thing dysfunctional workplaces could use, it&#8217;s an abundance of good coffee. Now, the U.S. House of Representatives has a new homegrown coffee supplier through an official vendor... 
+<div><img width="620" height="402" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-620x402.jpg" class="attachment-large size-large wp-post-image" alt="congressional reserve blend" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-620x402.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-300x195.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1-768x498.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/congressional-reserve-blend-1.jpg 1170w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>If there&#8217;s one thing dysfunctional workplaces could use, it&#8217;s an abundance of good coffee. Now, the U.S. House of Representatives has a new homegrown coffee supplier through an official vendor... 
 
 <br> 
 
@@ -183,7 +339,7 @@ We tested a range of compost bins to find the ones that contain smells and fit s
 
 date: 2025-07-22, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="journalism coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A survey of approximately 20,000 workers found that people in journalism and media drink more coffee than people in any other profession.&#160;Journalists, who reported drinking 3.62 cups per day, were... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="journalism coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/journalism-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A survey of approximately 20,000 workers found that people in journalism and media drink more coffee than people in any other profession.&#160;Journalists, who reported drinking 3.62 cups per day, were... 
 
 <br> 
 
@@ -195,7 +351,7 @@ date: 2025-07-22, from: Daily Coffee News
 
 date: 2025-07-22, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png" class="attachment-large size-large wp-post-image" alt="MilkID stickers" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-300x169.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-150x84.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-768x432.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Designed to prevent allergic reactions while also minimizing milk waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently made its launch.&#160; MilkID&#8217;s custom... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png" class="attachment-large size-large wp-post-image" alt="MilkID stickers" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-300x169.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-150x84.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-768x432.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Designed to prevent allergic reactions while also minimizing milk waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently made its launch.&#160; MilkID&#8217;s custom... 
 
 <br> 
 

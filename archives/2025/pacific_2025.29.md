@@ -1,11 +1,195 @@
 ---
 title: pacific
-updated: 2025-07-23 06:07:42
+updated: 2025-07-23 14:07:53
 ---
 
 # pacific
 
-(date: 2025-07-23 06:07:42)
+(date: 2025-07-23 14:07:53)
+
+---
+
+## International Seabed Authority launches inquiry into deep sea mining firm The Metals Company
+
+date: 2025-07-23, from: 
+
+The International Seabed Authority Council has launched an inquiry into "non-compliance" by deep sea mining front-runner The Metals Company. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567855/international-seabed-authority-launches-inquiry-into-deep-sea-mining-firm-the-metals-company>
+
+---
+
+## Getting More Locally Grown Food in School Meals INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-07-23, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists tbd</p>
+<p>The post <a href="https://www.pbshawaii.org/getting-more-locally-grown-food-in-school-meals-insights-on-pbs-hawai%ca%bbi/">Getting More Locally Grown Food in School Meals &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/getting-more-locally-grown-food-in-school-meals-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## A New Zealand photographer's 'poetic journey' into Papua New Guinea's past
+
+date: 2025-07-23, from: 
+
+Almost five decades ago, Victoria Ginn set off on a brief solo journey - the first in a series of exotic trips - into the remote PNG Highlands. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567762/a-new-zealand-photographer-s-poetic-journey-into-papua-new-guinea-s-past>
+
+---
+
+## CNMI governor Arnold Palacios, 69, passes away after medical incident
+
+date: 2025-07-23, from: 
+
+Arnold Palacios, the 10th governor of the Northern Mariana Islands, passed away peacefully on Wednesday evening surrounded by loved ones. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567846/cnmi-governor-arnold-palacios-69-passes-away-after-medical-incident>
+
+---
+
+## UH Mānoa Athletics launches ‘Our Team. Hawaiʻi’s Team.’ campaign
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>The new campaign celebrates pride, community and statewide connection to <abbr>UH</abbr> Mānoa athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/23/uh-manoa-athletics-our-team-hawaiis-team/"><abbr>UH</abbr> Mānoa Athletics launches ‘Our Team. Hawaiʻi’s Team.’ campaign</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/23/uh-manoa-athletics-our-team-hawaiis-team/>
+
+---
+
+## Image of the Week: Loʻi
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>This week’s image is from the <abbr>UH</abbr> Mānoa Ka Papa <span aria-label="loi">lo&#699;i</span> &#699;o Kānewai.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/23/image-of-the-week-loi/">Image of the Week: Loʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/23/image-of-the-week-loi/>
+
+---
+
+## UN's highest court finds countries can be held legally responsible for emissions
+
+date: 2025-07-23, from: 
+
+The landmark decision is the culmination of six years of advocacy and diplomatic manoeuvring which started with a group of Pacific university students in 2019. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567833/un-s-highest-court-finds-countries-can-be-held-legally-responsible-for-emissions>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Gov. Palacios passes away; Apatang assumes office
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios passed away Wednesday evening at Guam Regional Medical City on Guam where he was transported for further medical attention following an initial checkup at the Commonwealth Healthcare Corp. He would have turned 70 on Aug. 22. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/gov-palacios-passes-away-apatang-assumes-office/article_3e1186ac-f4fb-41f3-95e5-8983ac5b06ba.html>
+
+---
+
+## ‘ISLA: Isla’n Esperånsa’ to make its online premiere
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+THE team behind the feature film “ISLA: Isla’n Esperånsa” announced that the film will make its online premiere this Saturday, July 26, at 6 p.m. ChST. The film will be available for free on YouTube at the following link: https://youtu.be/_XsiTGnpvwg 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/isla-isla-n-esper-nsa-to-make-its-online-premiere/article_4b07191f-04ae-4c91-bddc-b685baf5e9ac.html>
+
+---
+
+## National Ballet of Japan set to make UK debut with ‘Giselle’
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+LONDON (Reuters) — The National Ballet of Japan is set to perform in Britain for the first time on Thursday when artistic director Miyako Yoshida’s production of "Giselle" opens at the Royal Opera House in London. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/national-ballet-of-japan-set-to-make-uk-debut-with-giselle/article_804c700a-275b-4d47-bc54-0196a3996307.html>
+
+---
+
+## Saipan Awaodori Team in Japan
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-awaodori-team-in-japan/article_af18519f-f639-44f9-be57-8e4f57b2e1a0.html>
+
+---
+
+## Agri Fair postponed, again
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+THE Saipan Agricultural Fair Association issued the following statement on Wednesday: 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/agri-fair-postponed-again/article_d4c9a225-65ef-44b9-982f-f1a7a334b1ff.html>
+
+---
+
+## Walk to Remember rescheduled
+
+date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
+
+THE Walk to Remember, originally scheduled for Thursday, July 24, has been moved to next Tuesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/walk-to-remember-rescheduled/article_0cb2e80b-6691-4eb2-b57c-6b7dd0b6d401.html>
+
+---
+
+## US eyes Palau as resettlement country for asylum seekers 
+
+date: 2025-07-23, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Trump administration is considering Palau as a resettlement country for asylum seekers currently... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-eyes-palau-as-resettlement-country-for-asylum-seekers>
 
 ---
 
@@ -245,11 +429,11 @@ date: 2025-07-23, from: Hawaii Tribune Harold
 
 ---
 
-## CNMI Gov. Palacios 'in stable condition' but requires 'specialized medical care'
+## CNMI Gov. Palacios passes away
 
 date: 2025-07-23, from: Pacific Island Times
 
-Arnold Palacios By Pacific Island Times News Staff Saipan --Gov. Arnold I. Palacios "is in stable condition, in good spirits, and is... 
+"Gov. Palacios passed away peacefully on the evening of Wednesday, July 23, 2025, surrounded by loved ones," the Office of the Lt. Governor said in a statement. 
 
 <br> 
 
@@ -407,18 +591,6 @@ date: 2025-07-22, from: University of the South Pacific (Fiji)
 <br> 
 
 <https://www.usp.ac.fj/news/vaka-pasifiki-education-conference-unites-pacific-educators/>
-
----
-
-## A New Zealand photographer's 'poetic journey' into Papua New Guinea's past
-
-date: 2025-07-22, from: 
-
-Almost five decades ago, Victoria Ginn set off on a brief solo journey - the first in a series of exotic trips - into the remote PNG Highlands. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/567762/a-new-zealand-photographer-s-poetic-journey-into-papua-new-guinea-s-past>
 
 ---
 
@@ -1174,7 +1346,7 @@ But public health experts say that law enforcement are undermining efforts to co
 
 date: 2025-07-21, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Lola Irvin,  Administrator, DOH Chronic Disease Prevention and Health Promotion Division Mark Garrity, Executive Director, O‘ahu Metropolitan Planning Organization Ed Sniffen, State Director of Transportation Major James [&#8230;]</p>
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Ed Sniffen, State Director of Transportation Major James Slaytor, Honolulu Police Dept. Traffic Division Commander Lola Irvin,  Administrator, DOH Chronic Disease Prevention and Health Promotion Division Jon [&#8230;]</p>
 <p>The post <a href="https://www.pbshawaii.org/danger-on-the-roads-insights-on-pbs-hawai%ca%bbi/">Danger on the Roads &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
@@ -1277,18 +1449,6 @@ FUJAIRAH, United Arab Emirates (Reuters) — No radio? No problem. The emirate o
 <br> 
 
 <https://www.mvariety.com/lifestyle/roll-over-beethoven-remote-highway-plays-ode-to-joy/article_08a6a0b0-1104-4509-ada7-90f56e6b38bf.html>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-07-21, updated: 2025-07-21, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

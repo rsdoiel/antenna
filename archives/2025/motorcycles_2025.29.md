@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-07-23 06:07:50
+updated: 2025-07-23 14:08:00
 ---
 
 # motorcycles
 
-(date: 2025-07-23 06:07:50)
+(date: 2025-07-23 14:08:00)
+
+---
+
+## Q&A with SS-Green Light Racing’s Bobby Dotter: A look into how the former racer helped build an Xfinity Series mainstay
+
+date: 2025-07-23, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Long before Bobby Dotter became the owner of SS-Green Light Racing, he was just a boy growing up in the city of Chicago. It&#8217;s the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/qa-with-ss-green-light-racing-owner-bobby-dotter-his-journey-as-a-team-owner-and-his-approach-to-keeping-his-team-competitive-in-an-always-evolving-xfinity-series/>
+
+---
+
+## Norton’s Big Bad V4 Superbike Has Been Spotted Testing
+
+date: 2025-07-23, from: Ride Apart, Electric Motorcycle News
+
+Turns out this is what the teaser from a few days ago was all about.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766569/norton-v4-superbike-motorcycle-under-development-spied-testing/>
 
 ---
 

@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-23 06:07:43
+updated: 2025-07-23 14:07:53
 ---
 
 # ham radio
 
-(date: 2025-07-23 06:07:43)
+(date: 2025-07-23 14:07:53)
+
+---
+
+## PWM + Quadrac = Pure Power Play
+
+date: 2025-07-23, from: EDN Blog
+
+<img width="553" height="416" src="https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?fit=553%2C416" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?w=553 553w, https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?w=300 300w" sizes="(max-width: 553px) 100vw, 553px" /><p>Making power-capable DACs with output capabilities over a kilowatt with a total parts count of only nine inexpensive discretes.</p>
+<p>The post <a href="https://www.edn.com/pwm-quadrac-pure-power-play/">PWM + Quadrac = Pure Power Play</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/pwm-quadrac-pure-power-play/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-23 06:07:43
 
 date: 2025-07-22, from: EDN Blog
 
-<img width="3300" height="2255" src="https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?fit=3300%2C2255" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=3300 3300w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=2850 2850w" sizes="(max-width: 3300px) 100vw, 3300px" /><p>A battery backup for the solar-mains hybrid lamp design that supplies a constant light output regardless of available solar power.</p>
+<img width="3300" height="2255" src="https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?fit=3300%2C2255" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=3300 3300w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig5Battery-Charging.jpg?w=2850 2850w" sizes="auto, (max-width: 3300px) 100vw, 3300px" /><p>A battery backup for the solar-mains hybrid lamp design that supplies a constant light output regardless of available solar power.</p>
 <p>The post <a href="https://www.edn.com/a-battery-backup-for-a-solar-mains-hybrid-lamp/">A battery backup for a solar-mains hybrid lamp </a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

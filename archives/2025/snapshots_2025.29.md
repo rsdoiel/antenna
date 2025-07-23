@@ -1,11 +1,323 @@
 ---
 title: snapshots
-updated: 2025-07-23 06:07:55
+updated: 2025-07-23 14:08:05
 ---
 
 # snapshots
 
-(date: 2025-07-23 06:07:55)
+(date: 2025-07-23 14:08:05)
+
+---
+
+## Instagram Reel: Veo 3 paid preview
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.instagram.com/googlefordevs/reel/DMblrKYuTHH/">Instagram Reel: Veo 3 paid preview</a></strong></p>
+@googlefordevs on Instagram published this reel featuring Christina Warren with prompting tips for the new Veo 3 paid preview (<a href="https://static.simonwillison.net/static/2025/googlefordevs-veo3.mp4">mp4 copy here</a>).</p>
+<p><img alt="It's a pelican riding a bicycle in front of the Golden Gate Bridge, wearing a blue hat. Overlaid text says Specify the environment or setting where your scene takes place." src="https://static.simonwillison.net/static/2025/veo-3-pelican.jpg" /></p>
+<p>(Christine checked first if I minded them using <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">that concept</a>. I did not!)
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/text-to-video">text-to-video</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/instagram-reel-veo-3-paid-preview/#atom-everything>
+
+---
+
+## Google’s AI Is Destroying Search, the Internet, and Your Brain
+
+date: 2025-07-23, from: 404 Media Group
+
+Google’s AI Overview, which is easy to fool into stating nonsense as fact, is stopping people from finding and supporting small businesses and credible sources.  
+
+<br> 
+
+<https://www.404media.co/googles-ai-is-destroying-search-the-internet-and-your-brain/>
+
+---
+
+## Introducing OSS Rebuild: Open Source, Rebuilt to Last
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html">Introducing OSS Rebuild: Open Source, Rebuilt to Last</a></strong></p>
+Major news on the <a href="https://reproducible-builds.org/">Reproducible Builds</a> front: the Google Security team have announced <a href="https://github.com/google/oss-rebuild">OSS Rebuild</a>, their project to provide build attestations for open source packages released through the NPM, PyPI and Crates ecosystom (and more to come).</p>
+<p>They currently run builds against the "most popular" packages from those ecosystems:</p>
+<blockquote>
+<p>Through automation and heuristics, we determine a prospective build definition for a target package and rebuild it. We semantically compare the result with the existing upstream artifact, normalizing each one to remove instabilities that cause bit-for-bit comparisons to fail (e.g. archive compression). Once we reproduce the package, we publish the build definition and outcome via <a href="https://slsa.dev/spec/v0.1/provenance">SLSA Provenance</a>. This attestation allows consumers to reliably verify a package's origin within the source history, understand and repeat its build process, and customize the build from a known-functional baseline</p>
+</blockquote>
+<p>The only way to interact with the Rebuild data right now is through their <a href="https://github.com/google/oss-rebuild">Go CLI tool</a>. I reverse-engineered it <a href="https://gist.github.com/simonw/a5416718587aadfb0ce5f046b66b54fb">using Gemini 2.5 Pro</a> and derived this command to get a list of all of their built packages:</p>
+<pre><code> gsutil ls -r 'gs://google-rebuild-attestations/**'
+</code></pre>
+<p>There are 9,513 total lines, <a href="https://gist.github.com/simonw/9287de5900d5b76969e331d9b4ad9eba">here's a Gist</a>. I <a href="https://gist.github.com/simonw/7b1d0a01f74c2e8d8cedea7a9dc7f8d7">used Claude Code</a> to count them across the different ecosystems (discounting duplicates for different versions of the same package):</p>
+<ul>
+<li>pypi: 5,028 packages</li>
+<li>cratesio: 2,437 packages</li>
+<li>npm: 2,048 packages</li>
+</ul>
+<p>Then I got a bit ambitious... since the files themselves are hosted in a Google Cloud Bucket, could I run my own web app somewhere on <code>storage.googleapis.com</code> that could use <code>fetch()</code> to retrieve that data, working around the lack of open CORS headers?</p>
+<p>I <a href="https://gist.github.com/simonw/178a1cb57597a7b8aaa4910beae89cd3">got Claude Code to try that for me</a> (I didn't want to have to figure out how to create a bucket and configure it for web access just for this one experiment) and it built and then deployed <a href="https://storage.googleapis.com/rebuild-ui/index.html">https://storage.googleapis.com/rebuild-ui/index.html</a>, which did indeed work!</p>
+<p><img alt="Screenshot of Google Rebuild Explorer interface showing a search box with placeholder text &quot;Type to search packages (e.g., 'adler', 'python-slugify')...&quot; under &quot;Search rebuild attestations:&quot;, a loading file path &quot;pypi/accelerate/0.21.0/accelerate-0.21.0-py3-none-any.whl/rebuild.intoto.jsonl&quot;, and Object 1 containing JSON with &quot;payloadType&quot;: &quot;in-toto.io Statement v1 URL&quot;, &quot;payload&quot;: &quot;...&quot;, &quot;signatures&quot;: [{&quot;keyid&quot;: &quot;Google Cloud KMS signing key URL&quot;, &quot;sig&quot;: &quot;...&quot;}]" src="https://static.simonwillison.net/static/2025/rebuild-ui.jpg" /></p>
+<p>It lets you search against that list of packages from the Gist and then select one to view the pretty-printed newline-delimited JSON that was stored for that package.</p>
+<p>The output isn't as interesting as I was expecting, but it was fun demonstrating that it's possible to build and deploy web apps to Google Cloud that can then make <code>fetch()</code> requests to other public buckets.</p>
+<p>Hopefully the OSS Rebuild team will <a href="https://news.ycombinator.com/item?id=44646925#44652098">add a web UI</a> to their project at some point in the future.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44646925">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/packaging">packaging</a>, <a href="https://simonwillison.net/tags/pypi">pypi</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/npm">npm</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/supply-chain">supply-chain</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/oss-rebuild/#atom-everything>
+
+---
+
+## Ways SwiftData’s ModelContainer Can Error on Creation
+
+date: 2025-07-23, from: Michael Tsai
+
+Scott Driggers: Here&#8217;s what I see from a typical report from a crashing user device. The first thing that jumps out is that there is no explanation from the SwiftData error itself.[&#8230;]But thankfully, we have the logs to look through. In this example, there are a few level=Error logs from com.apple.coredata that look promising[&#8230;][&#8230;]Looking through [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/23/ways-swiftdatas-modelcontainer-can-error-on-creation/>
+
+---
+
+## Apple Games App
+
+date: 2025-07-23, from: Michael Tsai
+
+Apple (9to5Mac, MacRumors): At Apple&#8217;s Worldwide Developers Conference (WWDC), Apple unveiled Apple Games, an all-new destination designed to help players jump back into the games they love, find their next favorite, and have more fun with friends, turning even single-player games into shared experiences. The Games app makes it easier than ever for players to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/23/apple-games-app/>
+
+---
+
+## iPad Air Runs Windows 11 ARM via Emulation
+
+date: 2025-07-23, from: Michael Tsai
+
+Tim Hardwick: A developer has demonstrated Windows 11 ARM running on an M2 iPad Air using emulation, which has become much easier since the EU&#8217;s Digital Markets Act (DMA) regulations came into effect.As spotted by Windows Latest, NTDev shared an instance of the emulation on social media and posted a video on YouTube (embedded below) [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/23/ipad-air-runs-windows-11-arm-via-emulation/>
+
+---
+
+## TimeScope: How Long Can Your Video Large Multimodal Model Go?
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/blog/timescope-video-lmm-benchmark">TimeScope: How Long Can Your Video Large Multimodal Model Go?</a></strong></p>
+New open source benchmark for evaluating vision LLMs on how well they handle long videos:</p>
+<blockquote>
+<p>TimeScope probes the limits of long-video capabilities by inserting several short (~5-10 second) <em>video clips</em>---our "needles"---into base videos ranging from 1 minute to 8 hours. With three distinct task types, it evaluates not just retrieval but synthesis, localization, and fine-grained motion analysis, providing a more holistic view of temporal comprehension.</p>
+</blockquote>
+<p>Videos can be fed into image-accepting models by converting them into thousands of images of frames (a trick I've <a href="https://simonwillison.net/2025/May/5/llm-video-frames/">tried myself</a>), so they were able to run the benchmark against models that included GPT 4.1, Qwen2.5-VL-7B and Llama-3.2 11B in addition to video supporting models like Gemini 2.5 Pro.</p>
+<p><img alt="Line chart showing accuracy trends over video duration for four AI models: Gemini 2.5 Pro (pink) maintains ~100% accuracy until 20min then sharply drops to 65% by 8hr, ChatGPT 4.1 (blue) steadily declines from 95% to 30% across all durations, Qwen2.5-VL-7B (red) stays near 100% until 10min then cliff-drops to 40% by 3hr, and LLaMA-3.2-11B-Vision (purple) performs poorly throughout at 20-40% with little variation." src="https://static.simonwillison.net/static/2025/timescope-card.jpg" /></p>
+<p>Two discoveries from the benchmark that stood out to me:</p>
+<blockquote>
+<p><strong>Model size isn't everything.</strong> Qwen 2.5-VL 3B and 7B, as well as InternVL 2.5 models at 2B, 4B, and 8B parameters, exhibit nearly indistinguishable long-video curves to their smaller counterparts. All of them plateau at roughly the same context length, showing that simply scaling parameters does not automatically grant a longer temporal horizon.</p>
+<p><strong>Gemini 2.5-Pro is in a league of its own.</strong> It is the only model that maintains strong accuracy on videos longer than one hour.</p>
+</blockquote>
+<p>You can explore the benchmark dataset <a href="https://huggingface.co/datasets/Apollo-LMMs/TimeScope/viewer/default/test?row=12">on Hugging Face</a>, which includes prompts like this one:</p>
+<blockquote>
+<p><code>Answer the question based on the given video. Only give me the answer and do not output any other words.</code></p>
+<p><code>Question: What does the golden retriever do after getting out of the box?</code></p>
+<pre><code>A: lies on the ground
+B: kisses the man
+C: eats the food
+D: follows the baby
+E: plays with the ball
+F: gets back into the box
+</code></pre>
+</blockquote>
+
+    <p><small></small>Via <a href="https://x.com/andimarafioti/status/1948044508676903309">@andimarafioti</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/evals">evals</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/timescope/#atom-everything>
+
+---
+
+## Announcing Toad - a universal UI for agentic coding in the terminal
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://willmcgugan.github.io/announcing-toad/">Announcing Toad - a universal UI for agentic coding in the terminal</a></strong></p>
+Will McGugan is building his own take on a terminal coding assistant, in the style of Claude Code and Gemini CLI, using his <a href="https://github.com/Textualize/textual">Textual</a> Python library as the display layer.</p>
+<p>Will makes some confident claims about this being a better approach than the Node UI libraries used in those other tools:</p>
+<blockquote>
+<p>Both Anthropic and Google’s apps flicker due to the way they perform visual updates. These apps update the terminal by removing the previous lines and writing new output (even if only a single line needs to change). This is a surprisingly expensive operation in terminals, and has a high likelihood you will see a partial frame—which will be perceived as flicker. [...]</p>
+<p>Toad doesn’t suffer from these issues. There is no flicker, as it can update partial regions of the output as small as a single character. You can also scroll back up and interact with anything that was previously written, including copying un-garbled output — even if it is cropped.</p>
+</blockquote>
+<p>Using Node.js for terminal apps means that users with <code>npx</code> can run them easily without worrying too much about installation - Will points out that <code>uvx</code> has closed the developer experience there for tools written in Python.</p>
+<p>Toad will be open source eventually, but is currently in a private preview that's open to companies who sponsor Will's work for $5,000:</p>
+<blockquote>
+<p>[...] you can gain access to Toad by <a href="https://github.com/sponsors/willmcgugan/sponsorships?sponsor=willmcgugan&amp;tier_id=506004">sponsoring me on GitHub sponsors</a>. I anticipate Toad being used by various commercial organizations where $5K a month wouldn't be a big ask. So consider this a buy-in to influence the project for communal benefit at this early stage.</p>
+<p>With a bit of luck, this sabbatical needn't eat in to my retirement fund too much. If it goes well, it may even become my full-time gig.</p>
+</blockquote>
+<p>I really hope this works! It would be great to see this kind of model proven as a new way to financially support experimental open source projects of this nature.</p>
+<p>I wrote about Textual's streaming markdown implementation <a href="https://simonwillison.net/2025/Jul/22/textual-v4/">the other day</a>, and this post goes into a whole lot more detail about optimizations Will has discovered for making that work better.</p>
+<p>The key optimization is to only re-render the last displayed block of the Markdown document, which might be a paragraph or a heading or a table or list, avoiding having to re-render the entire thing any time a token is added to it... with one important catch:</p>
+<blockquote>
+<p>It turns out that the very last block can change its type when you add new content. Consider a table where the first tokens add the headers to the table. The parser considers that text to be a simple paragraph block up until the entire row has arrived, and then all-of-a-sudden the paragraph becomes a table.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/markdown">markdown</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/will-mcgugan">will-mcgugan</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/announcing-toad/#atom-everything>
+
+---
+
+## 1KB JS Numbers Station
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://shkspr.mobi/blog/2025/07/1kb-js-numbers-station/">1KB JS Numbers Station</a></strong></p>
+Terence Eden built <a href="https://js1024.fun/demos/2025/24/bar">a neat and weird</a> 1023 byte JavaScript demo that simulates a <a href="https://en.wikipedia.org/wiki/Numbers_station">numbers station</a> using the browser <a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance">SpeechSynthesisUtterance</a>, which I hadn't realized is supported by every modern browser now.</p>
+<p>This inspired me to vibe code up <a href="https://tools.simonwillison.net/speech-synthesis">this playground interface</a> for that API <a href="https://claude.ai/share/e4ea91ab-d329-4e3d-aabf-9f5ced9700ed">using Claude</a>:</p>
+<p><img alt="Screenshot of a speech synthesis tester web interface showing: Speech synthesis tester, Text to speak:, Hello, this is a test of the speech synthesis API!, Voice:, Default voice, Rate: 1, Pitch: 1, Volume: 1, Speak, Stop, Ready to speak" src="https://static.simonwillison.net/static/2025/speech-synthesis-tool.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/text-to-speech">text-to-speech</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/terence-eden">terence-eden</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/1kb-js-numbers-station/#atom-everything>
+
+---
+
+## Impact of AI on Tech Content Creators
+
+date: 2025-07-23, from: Chris Coyier blog
+
+Wes on Syntax: I write content. That content is consumed by people. But a lot of it has been used to train AIs for people to get a very quick answer. You can see the amount of bots visiting websites has been going up significantly. You ask a question about JavaScript and they go suck [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/07/23/impact-of-ai-on-tech-content-creators/>
+
+---
+
+## Quoting Dave White
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/_dave__white_/status/1947461492783386827"><p>like, one day you discover you can talk to dogs. it's fun and interesting so you do it more, learning the intricacies of their language and their deepest customs. you learn other people are surprised by what you can do. you have never quite fit in, but you learn people appreciate your ability and want you around to help them. the dogs appreciate you too, the only biped who really gets it. you assemble for yourself a kind of belonging. then one day you wake up and the universal dog translator is for sale at walmart for $4.99</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/_dave__white_/status/1947461492783386827">Dave White</a>, a mathematician, on the OpenAI IMO gold medal</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/dave-white/#atom-everything>
+
+---
+
+## This smartphone case gives older iPhones a USB Type-C port
+
+date: 2025-07-23, from: Liliputing
+
+<p>Apple&#8217;s latest iPhones all have USB Type-C ports, making it easy to use third-party chargers and cables with the company&#8217;s smartphones. But that&#8217;s a relatively recent development &#8211; Apple&#8217;s first iPhone with a USB Type-C port was the iPhone 15, which launched in 2023. If you have a model that&#8217;s older than that then you&#8217;re [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-smartphone-case-gives-older-iphones-a-usb-type-c-port/">This smartphone case gives older iPhones a USB Type-C port</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-smartphone-case-gives-older-iphones-a-usb-type-c-port/>
+
+---
+
+## The "Unremarkable People" Issue
+
+date: 2025-07-23, from: Guy Kawasaki blog
+
+Celebrating the unsung heroes. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-unremarkable-people-issue>
+
+---
+
+## Quoting ICML 2025
+
+date: 2025-07-23, updated: 2025-07-23, from: Simon Willison’s Weblog
+
+<blockquote cite="https://icml.cc/Conferences/2025/PublicationEthics"><p>Submitting a paper with a "hidden" prompt is scientific misconduct if that prompt is intended to obtain a favorable review from an LLM. The inclusion of such a prompt is an attempt to subvert the peer-review process. Although ICML 2025 reviewers are forbidden from using LLMs to produce their reviews of paper submissions, this fact does not excuse the attempted subversion. (For an analogous example, consider that an author who tries to bribe a reviewer for a favorable review is engaging in misconduct even though the reviewer is not supposed to accept bribes.) Note that this use of hidden prompts is distinct from those intended to detect if LLMs are being used by reviewers; the latter is an acceptable use of hidden prompts.</p></blockquote>
+<p class="cite">&mdash; <a href="https://icml.cc/Conferences/2025/PublicationEthics">ICML 2025</a>, Statement about subversive hidden LLM prompts</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/23/icml-2025/#atom-everything>
+
+---
+
+## Pepper the Science Cat
+
+date: 2025-07-23, updated: 2025-07-23, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/23/pepper-the-science-cat/>
+
+---
+
+## Hacker Plants Computer 'Wiping' Commands in Amazon's AI Coding Agent
+
+date: 2025-07-23, from: 404 Media Group
+
+The wiping commands probably wouldn't have worked, but a hacker who says they wanted to expose Amazon’s AI “security theater” was able to add code to Amazon’s popular ‘Q’ AI assistant for VS Code, which Amazon then pushed out to users. 
+
+<br> 
+
+<https://www.404media.co/hacker-plants-computer-wiping-commands-in-amazons-ai-coding-agent/>
+
+---
+
+## ChatGPT Hallucinated a Feature, Forcing Human Developers to Add It
+
+date: 2025-07-23, from: 404 Media Group
+
+Welcome to the era of ‘gaslight driven development.’ Soundslice added a feature the chatbot thought it existed after engineers kept finding screenshots from the LLM in its error logs. 
+
+<br> 
+
+<https://www.404media.co/chatgpt-hallucinated-a-feature-forcing-human-developers-to-add-it/>
+
+---
+
+## The many and varied uses of photography on Raspberry Pi
+
+date: 2025-07-23, from: Raspberry Pi News (.com)
+
+<p>Here are just some of the very cool things you can do with a Raspberry Pi and a camera. Say cheese!</p>
+<p>The post <a href="https://www.raspberrypi.com/news/the-many-and-varied-uses-of-photography-on-raspberry-pi/">The many and varied uses of photography on Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/the-many-and-varied-uses-of-photography-on-raspberry-pi/>
 
 ---
 
@@ -54,6 +366,18 @@ True and odd. 👇
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lum5xmpsfc26>
+
+---
+
+## Browsertrix 1.17: Crawl Pause/Resume and Lower Numbers of Browser Windows
+
+date: 2025-07-23, from: Web Recorder
+
+Crawl pause/resume and lower number of browser windows 
+
+<br> 
+
+<https://webrecorder.net/blog/2025-07-23-browsertrix-1-17/>
 
 ---
 

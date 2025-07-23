@@ -1,11 +1,89 @@
 ---
 title: home
-updated: 2025-07-23 06:07:49
+updated: 2025-07-23 14:07:59
 ---
 
 # home
 
-(date: 2025-07-23 06:07:49)
+(date: 2025-07-23 14:07:59)
+
+---
+
+## This Riverside Retirement Home in Ontario Doubles as a Family Compound
+
+date: 2025-07-23, from: Dwell
+
+Ben Homes principal Todd McMillan puts nature in focus as he designs a budget-friendly forever home for his parents—complete with a screened porch and room for 11 relatives to stay. 
+
+<br> 
+
+<https://www.dwell.com/article/muskoka-river-forever-house-ben-homes-ontario-d8a8f6dc>
+
+---
+
+## This €1.7M Apartment Comes With a Storefront in the Middle of Paris
+
+date: 2025-07-23, from: Dwell
+
+Set in an 18th-century building in the 3rd arrondissement, the property includes a small commercial space and the sun-soaked flat above it. 
+
+<br> 
+
+<https://www.dwell.com/article/enfants-rouges-apartment-and-shop-paris-real-estate-71d8aa1e>
+
+---
+
+## 5 Million Above-Ground Pools Recalled Over Deadly Drowning Risk
+
+date: 2025-07-23, from: Family Handyman Blog
+
+<p>Millions of above-ground pools are being recalled due to a drowning hazard. Find out how to protect yourself and your loved ones. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/above-ground-pool-drowning-hazard-recall/">5 Million Above-Ground Pools Recalled Over Deadly Drowning Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/above-ground-pool-drowning-hazard-recall/>
+
+---
+
+## Prefab Meets Handicraft in This Airy Spanish Home
+
+date: 2025-07-23, from: Dwell
+
+Madrid studio Delavegacanolasso paired a factory-made roof structure with hand-fired clay tile painstakingly laid by Moroccan artists. 
+
+<br> 
+
+<https://www.dwell.com/article/rosa-maria-house-by-delavegacanolasso-prefab-home-handmade-tile-35f5dfbd>
+
+---
+
+## Carcinogens Detected in Drinking Water Across 19 States
+
+date: 2025-07-23, from: Family Handyman Blog
+
+<p>Carcinogens have been found in several states' drinking water; find out what they are and if your state is affected.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/states-with-carcinogens-in-drinking-water/">Carcinogens Detected in Drinking Water Across 19 States</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/states-with-carcinogens-in-drinking-water/>
+
+---
+
+## Learn About False Root-Knot Nematodes in the Garden
+
+date: 2025-07-23, from: The Gardener's Path
+
+<p>If your crops are stunted, yellowing, or failing to thrive, the problem might be happening below the surface of the soil. False root-knot nematodes are microscopic pests that invade roots and cause galls to form, disrupting water and nutrient uptake. Learn more about false root-knot nematodes in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/false-root-knot-nematodes/">Learn About False Root-Knot Nematodes in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/false-root-knot-nematodes/>
 
 ---
 
@@ -18,6 +96,42 @@ Plant selection and thoughtful irrigation are key.
 <br> 
 
 <https://www.dwell.com/article/how-to-garden-in-drought-50c49e62>
+
+---
+
+## These Are the Essential Safety Tools Every Traveler Needs in the Car for a Road Trip
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+From jumper cables to first aid kits, these are the items every traveler needs for their next road trip to stay safe. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/road-trip-essentials>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+Idea Houses Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. With sweeping&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Downsizing Tips a Professional Organizer Wants You to Know
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+While it may be true that less is more, downsizing comes with its fair share of challenges. A pro shares her downsizing tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/downsizing-tips>
 
 ---
 
@@ -47,18 +161,6 @@ date: 2025-07-22, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/vegetation/vegetation-alliance-of-the-month-california-coastal-cypress-woodland-43976>
-
----
-
-## These Are the Essential Safety Tools Every Traveler Needs in the Car for a Road Trip
-
-date: 2025-07-22, from: Sunset Magazine - Living in the West
-
-From jumper cables to first aid kits, these are the items every traveler needs for their next road trip to stay safe. 
-
-<br> 
-
-<https://www.sunset.com/travel/road-trips/road-trip-essentials>
 
 ---
 
@@ -340,18 +442,6 @@ Wondering how long you have to wait to open that bottle of vintage? Experts shar
 <br> 
 
 <https://www.sunset.com/food-wine/wine-pairings/how-long-to-age-wine>
-
----
-
-## Homepage 2025
-
-date: 2025-07-22, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours This Pacific Northwest Beach Cabin Was Transformed to Withstand Extreme Weather Step inside the stylish space inspired by nature.  Read more: This Pacific Northwest Beach Cabin&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

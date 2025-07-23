@@ -1,11 +1,129 @@
 ---
 title: columns
-updated: 2025-07-23 06:07:45
+updated: 2025-07-23 14:07:56
 ---
 
 # columns
 
-(date: 2025-07-23 06:07:45)
+(date: 2025-07-23 14:07:56)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-23, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/scripting.com/post/3lunvycl37c2b">Question</a>. If you have to choose between Google's web browser or one from your favorite AI company, which would you go with? And let me know which is your favorite AI universe. 
+
+<br> 
+
+<http://scripting.com/2025/07/23.html#a205942>
+
+---
+
+##  Wilmer Chavarria, a US citizen from VT, was detained for many hours... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047208-wilmer-chavarria-a-us-cit>
+
+---
+
+##  Killing in the Name of a Terrible Holy Lie 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/killing-in-the-name-of-a-terrible-holy-lie>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-23, from: Miguel de Icaza Mastondon feed)
+
+<p>Results of our “you are holding it wrong” game jam:</p><p><a href="https://blog.la-terminal.net/winners-of-the-first-xogot-jam/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/winners-o</span><span class="invisible">f-the-first-xogot-jam/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114903730267647465>
+
+---
+
+##  Trump Action Tracker. &#8220;Each action is mapped to one or more of... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047201-trump-action-tracker-each>
+
+---
+
+## July 22, 2025
+
+date: 2025-07-23, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169062923/4d9e50d111502dee6ab4dbb609643852.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169062923/4d9e50d111502dee6ab4dbb609643852.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-22-2025-a50>
+
+---
+
+##  Insane Fictional Traffic Patterns 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/insane-fictional-traffic-patterns>
+
+---
+
+##  Author Kate Broad writes about the role of indie bookstores in a... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047200-author-kate-broad-writes->
+
+---
+
+## EU-STF for funding critical Open Source
+
+date: 2025-07-23, from: Daniel Stenberg Blog
+
+Current digital infrastructure is to a large degree built on layers and layers of Open Source. Open Source is to a large degree built and maintained by enthusiasts or other financially and resource restrained teams. It should be in our mutual interest to make sure that well-used Open Source projects not only survive, but also &#8230; <a href="https://daniel.haxx.se/blog/2025/07/23/eu-stf-for-funding-critical-open-source/" class="more-link">Continue reading <span class="screen-reader-text">EU-STF for funding critical Open Source</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/23/eu-stf-for-funding-critical-open-source/>
+
+---
+
+##  I Watched It Happen in Hungary. Now It&#8217;s Happening Here. &#8220;I came... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047199-i-watched-it-happen-in>
 
 ---
 
@@ -65,7 +183,7 @@ First thing this morning, Attorney General Pam Bondi posted on X a statement fro
 
 date: 2025-07-23, from: Doc Searls (at Harvard), New Old Blog
 
-Royal Society: Attention deficits linked with proclivity to explore while foraging. To which Thom Hartman adds, The Science Catches Up: New Research Confirms ADHD as an Evolutionary Advantage, Not a Disease. Which I&#39;ve always believed.  But that didn&#39;t make me normal. Far from it. In my forties and at my wife’s urging (because my ability to listen well and [&#8230;] 
+Royal Society: Attention deficits linked with proclivity to explore while foraging. To which Thom Hartman adds, The Science Catches Up: New Research Confirms ADHD as an Evolutionary Advantage, Not a Disease. Which I&#8217;ve always believed.  But that didn&#8217;t make me normal. Far from it. In my forties and at my wife’s urging (because my ability to listen well and [&#8230;] 
 
 <br> 
 
@@ -337,8 +455,7 @@ date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-07-22, from: Dave Winer's Scripting News)
 
-"You're an important caller," the machine lied, as if it were human.
- 
+"You're an important caller," the machine lied, as if it were human. 
 
 <br> 
 
@@ -720,8 +837,7 @@ date: 2025-07-21, updated: 2025-07-21, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-07-21, from: Dave Winer's Scripting News)
 
-<a href="https://en.wikipedia.org/wiki/The_Great_(TV_series)">The Great</a> on Hulu gives an idea of what a king or queen would be like. The difference is the actors <a href="https://www.youtube.com/watch?v=Q7BNPKkjL1k">playing</a> the <a href="https://www.youtube.com/watch?v=6gx8b1KwjWs">monarchs</a> are pretty lovable and not stupid, and somewhat self-aware (not their strong suit).
- 
+<a href="https://en.wikipedia.org/wiki/The_Great_(TV_series)">The Great</a> on Hulu gives an idea of what a king or queen would be like. The difference is the actors <a href="https://www.youtube.com/watch?v=Q7BNPKkjL1k">playing</a> the <a href="https://www.youtube.com/watch?v=6gx8b1KwjWs">monarchs</a> are pretty lovable and not stupid, and somewhat self-aware (not their strong suit). 
 
 <br> 
 

@@ -1,11 +1,85 @@
 ---
 title: small papers
-updated: 2025-07-23 06:07:53
+updated: 2025-07-23 14:08:03
 ---
 
 # small papers
 
-(date: 2025-07-23 06:07:53)
+(date: 2025-07-23 14:08:03)
+
+---
+
+## What to Know About Ghislaine Maxwell, Jeffrey Epstein’s Former Girlfriend
+
+date: 2025-07-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="666" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?fit=1024%2C666&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=300%2C195&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=1024%2C666&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=768%2C500&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=1536%2C999&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=2048%2C1333&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=1200%2C781&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=2000%2C1301&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=780%2C508&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=400%2C260&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?resize=706%2C459&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP23152527526355-scaled.jpg?fit=1024%2C666&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By John Seewer Associated Press Once a British socialite who lived a life of luxury, Ghislaine Maxwell today is confined in a U.S. prison after being convicted of helping financier Jeffrey [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/23/what-to-know-about-ghislaine-maxwell-jeffrey-epsteins-former-girlfriend/">What to Know About Ghislaine Maxwell, Jeffrey Epstein’s Former Girlfriend</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/23/what-to-know-about-ghislaine-maxwell-jeffrey-epsteins-former-girlfriend/>
+
+---
+
+## Trump Administration Withdraws from UNESCO Again, Only 2 Years After US Rejoined
+
+date: 2025-07-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25203380294442-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Farnoush Amiri and Samuel Petrequin Associated Press UNITED NATIONS (AP) — The Trump administration announced Tuesday that it will once again withdraw from the U.N. cultural agency UNESCO, an expected [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/23/trump-administration-withdraws-from-unesco-again-only-2-years-after-us-rejoined/">Trump Administration Withdraws from UNESCO Again, Only 2 Years After US Rejoined</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/23/trump-administration-withdraws-from-unesco-again-only-2-years-after-us-rejoined/>
+
+---
+
+## HOROSCOPE
+
+date: 2025-07-23, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>By Holiday Mathis (Creators.com) ARIES (March 21-April 19) Why, you’re radiant! Maybe you still wonder about the normal things &#8212; relationship minutiae included &#8212; whether they text again or whether [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/23/horoscope-221/">HOROSCOPE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/23/horoscope-221/>
+
+---
+
+## Former Sheriff Alex Villanueva will challenge Sheriff Robert Luna in upcoming primary
+
+date: 2025-07-23, from: Long Beach Post
+
+<figure><img width="696" height="405" src="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png 696w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-186x108.png 186w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-730x424.png 730w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1110x645.png 1110w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-768x446.png 768w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1536x893.png 1536w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-2048x1191.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Villanueva lost the top job to Luna in the 2022 race.</p>
+<p>The post <a href="https://lbpost.com/news/former-sheriff-alex-villanueva-will-challenge-sheriff-robert-luna-in-upcoming-primary">Former Sheriff Alex Villanueva will challenge Sheriff Robert Luna in upcoming primary</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/former-sheriff-alex-villanueva-will-challenge-sheriff-robert-luna-in-upcoming-primary>
+
+---
+
+## Sheriff’s training exercise set for Lakewood Center mall; expect loud noises, emergency vehicles
+
+date: 2025-07-23, from: Long Beach Post
+
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1536x1152.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The training exercise was planned for the east wing of the center, between Kay Jewelers and Ulta Beauty.</p>
+<p>The post <a href="https://lbpost.com/news/sheriffs-training-exercise-set-for-lakewood-center-mall-expect-loud-noises-emergency-vehicles">Sheriff&#8217;s training exercise set for Lakewood Center mall; expect loud noises, emergency vehicles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sheriffs-training-exercise-set-for-lakewood-center-mall-expect-loud-noises-emergency-vehicles>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2025-07-23 06:07:53
 
 date: 2025-07-23, from: Long Beach Post
 
-<figure><img width="1024" height="755" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-300x221.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-768x566.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-400x295.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="755" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-300x221.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-768x566.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-400x295.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>If negotiations go smoothly, the new Long Beach Baseball Club could be playing at Blair Field as early as May.</p>
 <p>The post <a href="https://lbpost.com/news/city-council-oks-minor-league-baseball-long-beach">City Council OKs idea of bringing minor league baseball team to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-07-23 06:07:48
+updated: 2025-07-23 14:07:59
 ---
 
 # libraries
 
-(date: 2025-07-23 06:07:48)
+(date: 2025-07-23 14:07:59)
+
+---
+
+## Research Collection partially available from 4 to 12 August 2025
+
+date: 2025-07-23, from: ETH Zurich Research Archives
+
+The Research Collection will be migrated to a new software version. As part of this process, certain functions will be temporarily unavailable from 8.00 a.m. on 4 August until the morning of 12 August. Read more 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/research-collection-partially-available-from-4-to-12-august-2025/>
 
 ---
 
@@ -103,7 +115,7 @@ A young man obsessed with a married woman ingratiates his way into the life of h
 
 date: 2025-07-21, from: Association of Research Libraries News
 
-<p>Last Updated on July 22, 2025, 4:07 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 22 &#124; Wednesday, July 23 Note: Day...</p>
+<p>Last Updated on July 23, 2025, 3:40 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 22 &#124; Wednesday, July 23 Note: Day...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-21-july-24/">Day in Review (July 21–July 23)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -117,7 +129,7 @@ date: 2025-07-21, from: Association of Research Libraries News
 
 date: 2025-07-21, from: Standard Ebooks, new releaases
 
-The child of an Italian immigrants struggles to find meaning in Edwardian-era London. 
+The child of Italian immigrants struggles to find meaning in Edwardian-era London. 
 
 <br> 
 
