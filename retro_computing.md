@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-22 14:08:19
+updated: 2025-07-23 06:07:50
 ---
 
 # retro computing
 
-(date: 2025-07-22 14:08:19)
+(date: 2025-07-23 06:07:50)
+
+---
+
+## Fontana 1.1
+
+date: 2025-07-22, from: FreeDOS News
+
+<div class="markdown_content"><p>Fontana is a bitmap font editor (with ability to import from some vector formats) which allows you to create, convert and edit fonts stored in many file formats. It is mostly intended for developers. Ladislav recently released Fontana version 1.1 with thes changes: can be now used also as command line utility which loads text mode VGA font + possibility to load the edited font into VGA character generator when shelling to DOS + supports FNT subformat used in libraries GRX, MGRX and Allegro + bug fixes. Get the new release at the <a class="" href="https://www.laaca.borec.cz/blocek/" rel="nofollow">Blocek home page</a> and scroll down for Fontana.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/fontana-11/>
+
+---
+
+## PMODE/W v1.33
+
+date: 2025-07-22, from: FreeDOS News
+
+<div class="markdown_content"><p>This was announced in 2022 but it came up again recently. If you use the Open Watcom compilers, you might be interested in PMODE/W v1.33, a 32-bit Protected Mode DOS extender for the Watcom C/C++ Compiler. PMODE/W is a DOS extender for the Watcom C/C++ package. It allows DOS programs to run in full 32 bit protected mode, with access to all memory available in the system. PMODE/W replaces DOS/4GW extender in the Watcom C/C++ package. This was originally released in 1997, but was released under the MIT license in 2023. Youc an find it at <a class="" href="https://github.com/javiergutierrezchamorro/pmodew" rel="nofollow">PMODE/W on GitHub</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/pmodew-v133/>
 
 ---
 

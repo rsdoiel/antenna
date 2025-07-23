@@ -1,11 +1,45 @@
 ---
 title: journalism
-updated: 2025-07-22 14:08:16
+updated: 2025-07-23 06:07:47
 ---
 
 # journalism
 
-(date: 2025-07-22 14:08:16)
+(date: 2025-07-23 06:07:47)
+
+---
+
+## Classifieds – July 23, 2025
+
+date: 2025-07-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/07/23/classifieds-july-23-2025/">Classifieds &#8211; July 23, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/07/23/classifieds-july-23-2025/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+Madsen also said that he estimated total damages to be $13.3 million, a reduced amount from his initial valuation. He added that the estimate was “conservative” as it only accounted for inflation and not forecasted income growth. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/22/491257/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-23, from: The Daily Bruin (UCLA Student Newspaper))
+
+Eric Madsen, a managing director at the Berkeley Research Group and a specialist in economic damages, testified as an expert witness Tuesday. Madsen said that Klein’s administrative leave and Bernardo&#8217;s email calling Klein&#8217;s behavior &#8220;outrageous and simply inexcusable&#8221; was attributable to Klein’s substantial drop in consulting income, which amounted to $1.366 million in 2019. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/22/491255/>
 
 ---
 

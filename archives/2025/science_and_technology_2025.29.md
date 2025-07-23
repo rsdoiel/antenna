@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-07-22 14:08:13
+updated: 2025-07-23 06:07:43
 ---
 
 # science and technology
 
-(date: 2025-07-22 14:08:13)
+(date: 2025-07-23 06:07:43)
+
+---
+
+## US tariff terrors prompt Nokia profit drop, TI inventory binge
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Uncertainty continues to knock tech industry confidence</h4> <p>More tariff turmoil emerged this week as Nokia slashed its profit guidance for the year due to looming US levies on imported goods, while Texas Instruments&#39; shares took a beating over fears that growth seen in Q2 will fall away following customer stockpiling to avoid import duties.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/tariffs_nokia_texas_instruments/>
+
+---
+
+## Firefox 141 relieves chronic Linux pain in the neck
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>But there are tweaks for everyone – even if some are less welcome than others</h4> <p>Mozilla has delivered the latest version of its web browser, alleviating a long-standing irritation for Linux users… but making its &#34;AI&#34; integration even more pervasive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/firefox_141_relieves_linux_pain/>
+
+---
+
+## NatWest banks on AWS and Accenture for AI-driven customer overhaul
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Deal adds to a string of relationships based on improving data and analytics</h4> <p>NatWest Group has announced a five-year contract with AWS and Accenture intended to improve its analytics performance for customer data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/natwest_aws_accenture_deal/>
+
+---
+
+## Building the Apollo Soyuz Test Project out of LEGO® bricks
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>In space, no one can hear you step on a plastic brick</h4> <p>The Lego bricks are being dusted off for a final time – at least for the Apollo program – to recreate the Apollo Soyuz Test Project via the medium of the plaything.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/building_the_apollo_soyuz_test/>
+
+---
+
+## Musk is messing with the Cosmic Dawn. Will alien hunters save the day for all mankind?
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Science friction at the far end of time for SpaceX and astronomy</h4> <p><strong>Opinion</strong>  Elon Musk&#39;s Starlink flying circus is many things. It&#39;s a multi-thousand satellite global internet provider, growing by hundreds of new orbiting relays a month. It&#39;s part of intricate geopolitical power games between the Pentagon, the US government, Ukraine, and Musk himself.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/opinion_column_starlink_interference/>
+
+---
+
+## Sh!t happens, so Microsoft is paying biz to flush its carbon sins underground
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Organic waste to be pumped out of sight as part of 4.9M-tonne CO<sub>2</sub> removal deal</h4> <p>Microsoft has signed a contract with a company that will pump shit underground for it in exchange for carbon credits.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/microsoft_carbon_removal_agreement/>
+
+---
+
+## COVID-19 pandemic accelerated brain aging – even if you didn’t catch the virus
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Boffins think worry and stress during the plague years changed our wetware, and that the damage can be reversed</h4> <p>A longitudinal study of nearly 996 healthy adults found that the COVID-19 pandemic accelerated ageing of their brains.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/covid_brain_ageing_study/>
+
+---
+
+## Stop flooding us with AI-based grant applications, begs Health Institute
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Already reeling from staff cuts, the health agency is choking on slop</h4> <p><strong>ai-pocalypse</strong>  Amid expectations that the Trump administration will introduce an AI Action Plan on Wednesday to boost the use of AI in government, the US National Institutes of Health (NIH) are pleading for less of it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/nih_ai_research_application_ban/>
+
+---
+
+## And now for our annual ‘Tape is <i>still</i> not dead’ update
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>176.5 Exabytes of the stuff shipped in 2024, another double-digit jump</h4> <p>Shipments of tape storage media increased again in 2024, according to HPE, IBM, and Quantum – the three companies that back the Linear Tape-Open (LTO) Format.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/lto_2024_tape_shipment_data/>
+
+---
+
+## China warns citizens to beware backdoored devices, on land and under the sea
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>Suggests buying local tech to avoid infosec worries</h4> <p>China’s Ministry of State Security has spent the week warning of backdoored devices on land and at sea.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/china_backdoor_alerts/>
+
+---
+
+## Feeling the Heat: Perseverance Looks for Evidence of Contact Metamorphism
+
+date: 2025-07-23, from: NASA breaking news
+
+Written by Melissa Rice, Professor of Planetary Science at Western Washington University Following a short break for the July 4th holiday, Perseverance drove westward to a site called “Westport,” where the clay-bearing “Krokodillen” unit meets an olivine-bearing rock formation. It is possible that the olivine-rich rocks are an intrusive igneous unit, meaning they could have […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/feeling-the-heat-perseverance-looks-for-evidence-of-contact-metamorphism/>
+
+---
+
+## Curiosity Blog, Sols 4607-4608: Deep Dip
+
+date: 2025-07-23, from: NASA breaking news
+
+Written by Deborah Padgett, MSL OPGS Task Lead at NASA’s Jet Propulsion Laboratory  Earth planning date: Monday, July 21, 2025 Curiosity continues our exploration of the fractured boxwork terrain on the slopes of Mount Sharp. After a successful 5-meter drive (about 16 feet), our rover is resting in a hollow on its way to a […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4607-4608-deep-dip/>
+
+---
+
+## OpenAI sweet-talks Oracle into another 4.5GW worth of Stargate datacenters, assuming the check clears
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>Who&#39;s picking up the tab again?</h4> <p>AI hype man and OpenAI CEO Sam Altman has convinced his buddies at Oracle to bring an additional 4.5 gigawatts of datacenter capacity online in the US as part of the startup&#39;s Stargate initiative.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/openai_oracle_gpus/>
+
+---
+
+## AROS continues centimetering closer to 64bit
+
+date: 2025-07-22, from: OS News
+
+The work towards making the 64bit version of AROS a viable choice is continuing, as is the work on AROS&#8217; web browser, and developer Krzysztof &#8216;deadwood&#8217; Śmiechowicz gave an update a few days ago detailing the progress that&#8217;s been made &#8211; and it&#8217;s extensive. First, the beta version of Odyssey 3.0, the web browser for AROS, can now load a whole slew of important websites, like YouTube, Google Docs, and Discord, which is a big deal for an alternative operating system like AROS. Odyssey uses Apple&#8217;s WebKit as its browser engine, and it&#8217;s obviously important to make sure it runs on the 64bit version of AROS. Speaking of 64bit, more and more applications are being recompiled to add 64bit support, with the stated goal being to have at least the best application in each category available in 64bit. A major issue is that certain pieces of hardware that work in 32bit do not yet work in 64bit. As a temporary solution, they&#8217;re going to make use of the virtualisation route AROS Portable uses to plug the gaps in 64bit hardware support until such support is realised. AROS Portable is basically a Linux distribution that runs a virtual copy of the 32bit version of AROS. It&#8217;s clear that a lot of work is happening in the 64bit space for AROS, which is crucial for the long-term viability of the project. AROS is still the easiest and most accessible way to get a taste of an Amiga-like experience since it runs on plain x86 hardware, so it&#8217;s important to keep that dream alive. 
+
+<br> 
+
+<https://www.osnews.com/story/142873/aros-continues-centimetering-closer-to-j64bit/>
+
+---
+
+## One in six US workers pretends to use AI to please the bosses
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>AI-nxiety is real, and it&#39;s causing some bizarre behavior</h4> <p><strong>ai-pocalypse</strong>  If you&#39;re one of those people who pretend to use AI at work, then worry not: there are likely another 15 of you per hundred employees in your company. That&#39;s the finding of a survey from nearshoring tech recruitment company Howdy.com.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/ai_anxiety_us_workers/>
+
+---
+
+## FreeBSD 15.0’s installer to gain option to install a full KDE Plasma desktop environment
+
+date: 2025-07-22, from: OS News
+
+One of the things lacking from the FreeBSD installation routine is the easy installation of a full desktop experience, from X11 all the way up to a login manager, desktop environment, and its applications. It seems this might finally change for FreeBSD 15.0, as the FreeBSD Foundation&#8217;s Laptop Support and Usability Improvements project is working on adding support for this to bsdinstall, the FreeBSD installer. Based on a goal set out in this GitHub issue, the way this will work is that through a set of dialogs (which you can check out on GitLab) in the FreeBSD installer, the user can select to install KDE, which will then guide the user through installing the correct graphics driver and adding users to the video group. Once the installation is finished, the computer will reboot and load directly into SDDM, allowing you to log into the installed KDE Plasma desktop environment. For FreeBSD 15.0, our goal is to extend the FreeBSD installer to offer a minimal KDE-based desktop as an install option. The initial concept is a low-interaction installation process that, upon completion, brings the user directly to a KDE graphical login screen. ↫ FreeBSD Foundation Laptop Update &#8211; June 2025 Future plans for desktop users in the FreeBSD installers are more elaborate, and will include additional desktop environments to choose from, the ability to install sets of desktop applications during FreeBSD&#8217;s installation, and yes, even opting for Wayland instead of X11, because FreeBSD developers know which way the wind is blowing. This is excellent news, and will make installing a FreeBSD-based desktop a lot easier for a ton of people. Work isn&#8217;t fully completed just yet, but even if the developers miss their FreeBSD 15.0 target, it&#8217;ll just move on to one of the follow-up releases. 
+
+<br> 
+
+<https://www.osnews.com/story/142871/freebsd-15-0s-installer-to-gain-option-to-install-a-full-kde-plasma-desktop-environment/>
+
+---
+
+## Biden broadband benchmarks are BS, says Trump FCC
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>No more consideration of affordability or 1 Gbps speed goal if Chairman Carr gets his way</h4> <p>The next edition of the Federal Communications Commission&#39;s broadband expansion progress report is going to paint a rosier reality than usual, if a proposal being put to a vote at next month&#39;s meeting gets a pass. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/biden_broadband_benchmarks_are_bs/>
+
+---
+
+## NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
+
+date: 2025-07-22, from: NASA breaking news
+
+More than 2,000 curious visitors from Newport News and the surrounding Hampton Roads region of Virginia flocked to Christopher Newport University (CNU) on May 31, 2025 for their annual STEM (Science, Technology, Engineering, &#038; Mathematics) Community Day, and the NASA eClips team from the National Institute of Aerospace’s Center for Integrative STEM Education (NIA-CISE) made […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/>
+
+---
+
+## Microsoft rolls out another set of “AI” tools to Windows 11 users
+
+date: 2025-07-22, from: OS News
+
+Ever wanted Windows to monitor what&#8217;s on your screen continuously and ask it to do stuff for you? Well, have I got news for you: Copilot Vision, as this feature is called, is now rolling out to users in the US. Copilot Vision on Windows, now available in the U.S., is a new way to engage with your Windows 11 PC. When you enable it, it can see what you see on your device and talk to you about it in real time. It acts as your second set of eyes, able to analyze content, help when you’re lost, provide insights and answer your questions as you go. Whether you’re browsing, working or deep in a project, Copilot Vision offers instant insights and answers. ↫ The Windows Experience Blog team Do note that Copilot Vision will not keep its data on your device, instead sending it off to Microsoft. So, if you ever wanted to give Microsoft even more insight into exactly what you&#8217;re doing with your Windows installation, now&#8217;s your chance. Well, if you&#8217;re in the US, that is, and some its capabilities are only available on Snapdragon PCs, not on Intel or AMD machines. In the same blog post, Microsoft also highlights a few actually useful features coming to Windows, like a colour picker in the screenshot tool, the ability to change the lighting in photos, or having the area selector in the screenshot tool snap to what it thinks is the important part you wish to actually take a screenshot of. However, Microsoft is also adding nonsense like sticker generators in Paint, text generators in Word, and stuff related to Teams that makes me even happier than I already am that I&#8217;m self-employed and work alone. If you&#8217;re in the US, you can get these features now if you wish through Windows Update. 
+
+<br> 
+
+<https://www.osnews.com/story/142869/microsoft-rolls-out-another-set-of-ai-tools-to-windows-11-users/>
+
+---
+
+## Funding for program to stop next Stuxnet from hitting US expired Sunday
+
+date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+
+<h4>CyberSentry work grinds to a halt</h4> <p>Government funding for a program that hunts for threats on America&#39;s critical infrastructure networks expired on Sunday, preventing Lawrence Livermore National Laboratory from analyzing activity that could indicate a cyberattack, the program director told Congress on Tuesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/22/lapsed_cisa_funding_cybersentry/>
 
 ---
 
@@ -47,9 +287,9 @@ After months of work in the NASA Spacesuit User Interface Technologies for Stude
 
 ## How to get rid of useless keys in Windows and turn them into something helpful
 
-date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+date: 2025-07-22, updated: 2025-07-23, from: The Register (UK I.T. News)
 
-<h4>Turn that Copilot or Scroll Lock key into a media control or extended character.</h4> <p>In the era of laptops and tenkeyless keyboards, many of us are living with fewer keys than we had years ago. But even on a small keyboard, you&#39;ll find keys that you just don&#39;t need. …</p> 
+<h4>Turn that Copilot or Scroll Lock key into a media control or extended character.</h4> <p><strong>HANDS ON</strong>  In the era of laptops and tenkeyless keyboards, many of us are living with fewer keys than we had years ago. But even on a small keyboard, you&#39;ll find keys that you just don&#39;t need. …</p> 
 
 <br> 
 
@@ -323,7 +563,7 @@ date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
 
 ## Customers fret about downtime with hyperscalers' PostgreSQL services
 
-date: 2025-07-22, updated: 2025-07-22, from: The Register (UK I.T. News)
+date: 2025-07-22, updated: 2025-07-23, from: The Register (UK I.T. News)
 
 <h4>Smaller vendors offering alternatives cash in concerns</h4> <p><strong>Analysis</strong>  Recent research suggests customers are concerned about the uptime reliability of hyperscalers&#39; PostgreSQL instances, giving smaller alternative vendors an opening to fill the gap.…</p> 
 
@@ -383,9 +623,9 @@ date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
 
 ## If you're forced to use Windows 11, here's how to steal some of your time back
 
-date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+date: 2025-07-21, updated: 2025-07-23, from: The Register (UK I.T. News)
 
-<h4>Fight back against Redmond&#39;s productivity sinks</h4> <p>Windows 11 is now the most popular desktop operating system, finally beating Windows 10. But it&#39;s also loaded with head-scratching default settings that sap your productivity and treat you like a computer illiterate. …</p> 
+<h4>Fight back against Redmond&#39;s productivity sinks</h4> <p><strong>HANDS ON</strong>  Windows 11 is now the most popular desktop operating system, finally beating Windows 10. But it&#39;s also loaded with head-scratching default settings that sap your productivity and treat you like a computer illiterate. …</p> 
 
 <br> 
 
@@ -443,9 +683,9 @@ Media are invited to hear from NASA’s SpaceX Crew-10 during a news conference 
 
 ## Nvidia extends CUDA support to RISC-V just in time for next wave of Chinese CPUs
 
-date: 2025-07-21, updated: 2025-07-21, from: The Register (UK I.T. News)
+date: 2025-07-21, updated: 2025-07-23, from: The Register (UK I.T. News)
 
-<h4>The prime beneficiary of the AI boom has global ambitions</h4> <p>Nvidia is officially bringing its CUDA software stack to RISC-V CPUs.…</p> 
+<h4>The prime beneficiary of the AI boom has global ambitions</h4> <p><strong>Updated</strong>  Nvidia is officially bringing its CUDA software stack to RISC-V CPUs.…</p> 
 
 <br> 
 

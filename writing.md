@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-07-22 14:08:15
+updated: 2025-07-23 06:07:46
 ---
 
 # writing
 
-(date: 2025-07-22 14:08:15)
+(date: 2025-07-23 06:07:46)
+
+---
+
+## How to Create Multiple Revenue Streams as an Author
+
+date: 2025-07-23, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-create-multiple-revenue-streams-as-an-author>
 
 ---
 

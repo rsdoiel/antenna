@@ -1,11 +1,63 @@
 ---
 title: going electric
-updated: 2025-07-22 14:08:20
+updated: 2025-07-23 06:07:51
 ---
 
 # going electric
 
-(date: 2025-07-22 14:08:20)
+(date: 2025-07-23 06:07:51)
+
+---
+
+## This Genius Solved One Of The Volkswagen ID.4's Biggest Annoyances With A DIY Fix
+
+date: 2025-07-23, from: Inside EVs News
+
+Volkswagen put capacitive buttons on the ID.4’s steering wheel, but not everybody loves them. Now, though, there’s a fix. 
+
+<br> 
+
+<https://insideevs.com/news/766704/volkswagen-id4-teering-wheel-buttons/>
+
+---
+
+## Tesla's Reign As Europe's Top-Selling EV Maker Is Over
+
+date: 2025-07-23, from: Inside EVs News
+
+Tesla is having a bad time in Europe. So bad, in fact, that a legacy automaker overtook it. 
+
+<br> 
+
+<https://insideevs.com/news/766695/tesla-sales-europe-h1-2025/>
+
+---
+
+## This $900 million solar farm in Texas is going 100% to data centers
+
+date: 2025-07-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/pexels-photo-6572421.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Enbridge is going big on solar again in Texas, and Meta is snapping up all the solar power it can get.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas" data-layer-viewtype="unknown" data-post-id="426354" href="https://electrek.co/2025/07/22/900-million-solar-farm-texas-100-percent-data-centers/#more-426354" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/22/900-million-solar-farm-texas-100-percent-data-centers/>
+
+---
+
+## This Tiny Electric Motor’s Power Blows The Competition Out Of The Water
+
+date: 2025-07-22, from: Inside EVs News
+
+Over 700 horsepower from something that’s lighter than the weekly shopping bag. 
+
+<br> 
+
+<https://insideevs.com/news/766621/yasa-axial-flux-electric-motor/>
 
 ---
 

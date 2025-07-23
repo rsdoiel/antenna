@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-07-22 14:08:21
+updated: 2025-07-23 06:07:53
 ---
 
 # small papers
 
-(date: 2025-07-22 14:08:21)
+(date: 2025-07-23 06:07:53)
+
+---
+
+## City Council OKs idea of bringing minor league baseball team to Long Beach
+
+date: 2025-07-23, from: Long Beach Post
+
+<figure><img width="1024" height="755" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-300x221.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-768x566.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-400x295.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>If negotiations go smoothly, the new Long Beach Baseball Club could be playing at Blair Field as early as May.</p>
+<p>The post <a href="https://lbpost.com/news/city-council-oks-minor-league-baseball-long-beach">City Council OKs idea of bringing minor league baseball team to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city-council-oks-minor-league-baseball-long-beach>
+
+---
+
+## In rare step, city threatens to condemn pair of neglected North Long Beach buildings
+
+date: 2025-07-22, from: Long Beach Post
+
+<figure><img width="1024" height="542" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-1024x542.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-1024x542.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-768x406.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city could soon move to demolish the buildings where people have repeatedly broken in and set up makeshift living spaces.</p>
+<p>The post <a href="https://lbpost.com/news/city/condemn-north-long-beach-buildings-demolish-homeless-nuisance">In rare step, city threatens to condemn pair of neglected North Long Beach buildings</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/condemn-north-long-beach-buildings-demolish-homeless-nuisance>
 
 ---
 
@@ -13,7 +43,7 @@ updated: 2025-07-22 14:08:21
 
 date: 2025-07-22, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The GOP budget bill made significant changes to Covered California, which experts and insurers say will increase out-of-pocket costs for consumers.</p>
 <p>The post <a href="https://lbpost.com/news/health/how-the-gop-budget-bill-will-affect-the-cost-of-california-health-insurance">How the GOP budget bill will affect the cost of California health insurance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

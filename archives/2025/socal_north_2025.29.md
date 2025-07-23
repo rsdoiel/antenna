@@ -1,11 +1,139 @@
 ---
 title: socal north
-updated: 2025-07-22 14:08:11
+updated: 2025-07-23 06:07:41
 ---
 
 # socal north
 
-(date: 2025-07-22 14:08:11)
+(date: 2025-07-23 06:07:41)
+
+---
+
+## Should fire survivors join a lawsuit? Here’s a guide
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+An expert explains what survivors of the Palisades and Eaton fires should consider before joining a fire-related lawsuit. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/should-fire-survivors-join-a-lawsuit-heres-a-guide>
+
+---
+
+## This UC Irvine professor’s great great grandfather wrote a ballad about mass deportations — nearly 100 years ago
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+Indiscriminate raids. Removal of U.S. citizens. Pressure to leave the country. For evolutionary biologist Adriana Darielle Mejía Briscoe, it feels like history’s repeating itself. 
+
+<br> 
+
+<https://laist.com/news/education/uc-irvine-mexican-repatriation-adriana-darielle-mejia-briscoe-corrido-mass-deportations>
+
+---
+
+## Another overcast morning for SoCal
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+Clouds and accompanying cool weather will be here for the next few days. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/another-overcast-morning-for-socal>
+
+---
+
+## City Council OKs idea of bringing minor league baseball team to Long Beach
+
+date: 2025-07-23, from: Longbeach Post
+
+<figure><img width="1024" height="755" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-1024x755.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-300x221.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-768x566.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-146x108.jpg 146w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu-400x295.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18114634/18jul25-7-18-25-vista-1-264043-sjplqxs4-479686-vTWMZZEu.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>If negotiations go smoothly, the new Long Beach Baseball Club could be playing at Blair Field as early as May.</p>
+<p>The post <a href="https://lbpost.com/news/city-council-oks-minor-league-baseball-long-beach">City Council OKs idea of bringing minor league baseball team to Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city-council-oks-minor-league-baseball-long-beach>
+
+---
+
+## Downtown LA’s economy was looking better, but these challenges remain
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+Increases in residents and entertainment options helped the area, but homelessness and immigration sweeps and protests are affecting business. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/downtown-las-economy-was-looking-better-but-these-challenges-remain>
+
+---
+
+## In rare step, city threatens to condemn pair of neglected North Long Beach buildings
+
+date: 2025-07-22, from: Longbeach Post
+
+<figure><img width="1024" height="542" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-1024x542.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-1024x542.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-768x406.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22081548/21jul25-demolish-3-416513-mvhlyrl2-485380-KqzxorP0.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city could soon move to demolish the buildings where people have repeatedly broken in and set up makeshift living spaces.</p>
+<p>The post <a href="https://lbpost.com/news/city/condemn-north-long-beach-buildings-demolish-homeless-nuisance">In rare step, city threatens to condemn pair of neglected North Long Beach buildings</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/condemn-north-long-beach-buildings-demolish-homeless-nuisance>
+
+---
+
+## These LA homes were about to be torn down. Now they’re getting new life in fire-ravaged Altadena
+
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
+
+The Historic House Relocation Project aims to get residents with fire-damaged lots into homes faster, while restoring character to the neighborhood. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/historic-house-relocation-project>
+
+---
+
+## City of Santa Clarita to Host Pet Adoption Event at Bridgeport Park
+
+date: 2025-07-22, from: City of Santa Clarita
+
+<p>The City Will Waive Animal Adoption Fees on July 24 The City of Santa Clarita, in partnership with the Castaic Animal Care Center, will host a community Pet Adoption Day on Thursday, July 24, at Bridgeport Park (23521 Bridgeport Lane) from 9:00 a.m. to 12:00 p.m. As part of the event, adoption fees will be [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/22/city-of-santa-clarita-to-host-pet-adoption-event-at-bridgeport-park/">City of Santa Clarita to Host Pet Adoption Event at Bridgeport Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/22/city-of-santa-clarita-to-host-pet-adoption-event-at-bridgeport-park/>
+
+---
+
+## Erik Menendez was reportedly hospitalized and undergoing kidney stone treatment
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+His attorney is calling on Gov. Gavin Newsom to release him immediately. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/erik-menendez-reportedly-hospitalized-undergoing-kidney-stone-treatment>
+
+---
+
+## Inland Empire confronts obstacles to sending students to college
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+Local and state leaders are targeting the region of 4.6 million people for economic growth 
+
+<br> 
+
+<https://laist.com/news/education/inland-empire-confronts-obstacles-to-sending-students-to-college>
 
 ---
 
@@ -47,7 +175,7 @@ The changes Congress made will hit Covered California and likely drive up health
 
 ## Schoolyard greening projects hit milestone as advocates see the 'most impact ever'
 
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
 
 The efforts are funded largely by a 2022 state allocation and other grants. The goal: protect students from pollution and heat, and teach ecology. 
 
@@ -85,7 +213,7 @@ The breakfast burrito served up at Torrance Memorial Hospital is hearty, fresh �
 
 date: 2025-07-22, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/22092309/071125-heather-altman-jh-cm-10-444909-iwad0grl-012300-10PPuhFP.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The GOP budget bill made significant changes to Covered California, which experts and insurers say will increase out-of-pocket costs for consumers.</p>
 <p>The post <a href="https://lbpost.com/news/health/how-the-gop-budget-bill-will-affect-the-cost-of-california-health-insurance">How the GOP budget bill will affect the cost of California health insurance</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -132,21 +260,9 @@ Nearly a third of Cal/OSHA positions were vacant last year, and a new state audi
 
 ---
 
-## California increased paid family leave payments. Now more parents are taking advantage
+## LA Metro was down 1.5M rides this June compared to last. Here are some possible reasons why
 
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
-
-Starting in January, the state offered more-generous leave benefits. Claims in the first two quarters this year were up about 16%, compared to the same time period last year. 
-
-<br> 
-
-<https://laist.com/news/education/early-childhood-education-pre-k/california-increased-paid-family-leave-payments-more-parents-take-advantage>
-
----
-
-## There were 1.5 million fewer Metro rides in June compared to a year earlier
-
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
 
 With the opening of the LAX Metro Transit Center, the K Line bucked the trend. 
 
@@ -156,15 +272,15 @@ With the opening of the LAX Metro Transit Center, the K Line bucked the trend.
 
 ---
 
-## In a landmark move, Children’s Hospital LA closes its gender-affirming care center today
+## California increased paid family leave payments. Now more parents are taking advantage
 
-date: 2025-07-22, updated: 2025-07-22, from: The LAist
+date: 2025-07-22, updated: 2025-07-23, from: The LAist
 
-CHLA cites pressure from the Trump administration to close the center, leaving patients with fewer options for gender-affirming care. 
+Starting in January, the state offered more-generous leave benefits. Claims in the first two quarters this year were up about 16%, compared to the same time period last year. 
 
 <br> 
 
-<https://laist.com/news/health/in-a-landmark-move-childrens-hospital-la-closes-its-gender-affirming-care-center-today>
+<https://laist.com/news/education/early-childhood-education-pre-k/california-increased-paid-family-leave-payments-more-parents-take-advantage>
 
 ---
 
@@ -177,6 +293,18 @@ City staffers are working on a report that explores how the city could pull its 
 <br> 
 
 <https://laist.com/news/housing-homelessness/is-la-still-considering-making-a-break-from-the-regions-homelessness-agency>
+
+---
+
+## In a landmark move, Children’s Hospital LA closes its gender-affirming care center today
+
+date: 2025-07-22, updated: 2025-07-22, from: The LAist
+
+CHLA cites pressure from the Trump administration to close the center, leaving patients with fewer options for gender-affirming care. 
+
+<br> 
+
+<https://laist.com/news/health/in-a-landmark-move-childrens-hospital-la-closes-its-gender-affirming-care-center-today>
 
 ---
 

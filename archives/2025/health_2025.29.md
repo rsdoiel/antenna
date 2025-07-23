@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-07-22 14:08:19
+updated: 2025-07-23 06:07:51
 ---
 
 # health
 
-(date: 2025-07-22 14:08:19)
+(date: 2025-07-23 06:07:51)
+
+---
+
+## Exosome in HBV infection: current concepts and future perspectives
+
+date: 2025-07-23, from: Frontiers in Cellular and Infection Microbiology
+
+Exosomes are nanoparticles delimited by a lipid bilayer that are secreted by a wide variety of cells. They play a significant role in the pathophysiological processes associated with HBV infection, which poses huge burdens for public health. Emerging evidence has been demonstrated that exosomes are extensively associated with the replication and transmission processes of HBV. In this review, we outline the process of exosome production, composition and function. Moreover, we elaborate on the essential role of exosomes in the pathology processes of HBV infection. Exosomes could serve as essential biomarkers for early detection of HBV infection and HBV-related diseases. Finally, we outline the therapeutic potential of exosomes in anti-HBV therapy, which may provide novel insights into the prevention and treatment of HBV. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1547525>
+
+---
+
+## Gut microbiota and metabolomics in metabolic dysfunction-associated fatty liver disease: interaction, mechanism, and therapeutic value
+
+date: 2025-07-23, from: Frontiers in Cellular and Infection Microbiology
+
+The global epidemic of Metabolic dysfunction-associated fatty liver disease (MAFLD) urgently demands breakthroughs in precision medicine strategies. Its pathogenesis centers on the cascade dysregulation of the gut microbiota-metabolite-liver axis: microbial dysbiosis drives hepatic lipid accumulation and fibrosis by suppressing short-chain fatty acid synthesis, activating the TLR4/NF-κB inflammatory pathway, and disrupting bile acid signaling. Metabolomics further reveals characteristic disturbances including free fatty acid accumulation, aberrantly elevated branched-chain amino acids (independently predictive of hepatic steatosis), and mitochondrial dysfunction, providing a molecular basis for disease stratification. The field of precision diagnosis is undergoing transformative innovation—multi-omics integration combined with AI-driven analysis of liver enzymes and metabolic biomarkers enables non-invasive, ultra-high-accuracy staging of fibrosis. Therapeutic strategies are shifting towards personalization: microbial interventions require matching to patient-specific microbial ecology, drug selection necessitates efficacy and safety prediction, and synthetically engineered “artificial microbial ecosystems” represent a cutting-edge direction. Future efforts must establish a “multi-omics profiling–AI-powered dynamic modeling–clinical validation” closed-loop framework to precisely halt MAFLD progression to cirrhosis and hepatocellular carcinoma by deciphering patient-specific mechanisms. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1635638>
+
+---
+
+## Prevention of donation-related infections: investigating the use of antibiotics in the decontamination of preservation fluid for organ transplantation
+
+date: 2025-07-23, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundDonation-related infections (DRIs), particularly those caused by carbapenem-resistant gram-negative bacteria (CRGNB), can have disastrous consequences because of their extensive drug resistance. Contamination during graft acquisition and transport can lead to DRIs, and the use of antibiotics in preservation fluid (PF) before organ transplantation can reduce the incidence of DRIs. This study was to determine and compare the effectiveness of different PF decontamination regimens to prevent CRGNB related DRIs.MethodsTwelve CRGNB strains were chosen to be the targets of decontamination, and a drug concentration gradient was established for each test drug based on the previous clinical research. In addition the standard decontamination procedures were performed to evaluate the antimicrobial effectiveness of polymyxin B (PB), colistin sulfate (CS), colistimethate sodium (CMS) and amikacin (AK) in the 0~4°C PF, and to explore the antimicrobial effects of CMS after different preprocessing methods.ResultsPB and CS exhibited significantly better antimicrobial effectiveness against CRGNB than AK and CMS in the 0~4°C PF, and the antimicrobial effects on CRGNB increased with the increasing concentration of drugs. Notably, CMS after pretreatment (CMS-AP), its antibacterial was significantly enhanced at 4°C.ConclusionsThe PF decontamination is important in preventing the DRIs caused by CRGNB, and the decontamination regimens based on PB or CS were confirmed effective. Notably, CMS could even achieve a better decontamination effect than PB after a simple and fast pretreatment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1572799>
+
+---
+
+## Dominance of the GI-19 genotype and genomic characterization of the S1 gene in avian infectious bronchitis virus from 2020 to 2024
+
+date: 2025-07-23, from: Frontiers in Cellular and Infection Microbiology
+
+The continuous emergence of avian infectious bronchitis virus (IBV) variants poses a critical threat to poultry health and productivity in China. In this study, we conducted comprehensive genetic and antigenic analyses of IBV strains isolated in our laboratory between 2020 and 2024. A total of 94 IBV isolates were sequenced for the S1 gene, revealing widespread nucleotide insertions, deletions, and mutations. Phylogenetic analysis indicated that GI-19 was the predominant genotype (70.21%), followed by GI-13 (21.28%). Recombination analysis using RDP 5.42 identified 14 recombinant strains, primarily GI-13/GI-22 (50%), GI-19/GI-7 (28.6%), and GI-19/GI-22 (21.4%), which were further confirmed using Simplot. Glycosylation analysis revealed that all isolates possessed 14 to18 N-glycosylation sites, whereas only the SDJN3/23 strain contained an O-glycosylation site (position 416). Novel cleavage site motifs (HRRKR, HRHRR, RRFRR) were identified in GI-19 strains, diverging from the canonical HRRRR. The evolutionary rate calculated via BEAST software, was 1.98 × 10-4 substitutions/site/year. Serum neutralization assays demonstrated that GI-19 recombinants exhibited partial one-way cross-protection against GI-1, GI-13, and GI-22 genotypes (titer ≥ 1:32), but reciprocal neutralization was limited. Overall, we systematically characterized the genetic diversity and antigenic evolution of the currently circulating IBV strains in China, emphasizing the critical demand for genotype-specific vaccine development and dynamic surveillance systems to counteract viral immune escape. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1640152>
+
+---
+
+## Postbiotics enhance the efficacy of derivative compound mouthwash against clinical Helicobacter pylori strains
+
+date: 2025-07-23, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundA previous study indicated that poly L-lysine-glycerol monolaurate mouthwash reduced the virulence of Helicobacter pylori; however, these compounds are derivatives. Thus, this study aimed to compare the effects of postbiotics, postbiotic-glycerol monolaurate, and poly L-lysine-glycerol monolaurate mouthwashes against clinical H. pylori strains.MethodsPostbiotics, Lacticaseibacillus paracasei SD1, L. rhamnosus SD4, and L. rhamnosus SD11 were examined for anti-bacterial activity and synergistic effects. Subsequently, mouthwashes containing postbiotics, postbiotic-glycerol monolaurate, and poly L-Lysine-glycerol monolaurate were prepared and evaluated for their ability to reduce H. pylori adhesion to host cells, suppress inflammation induced by H. pylori, eradicate biofilm, decrease cagA expression, and assess epithelial cell viability. The stability of the mouthwashes was evaluated every 4 weeks up to 24 weeks for their efficacy against H. pylori growth, biofilm eradication, and epithelial cell viability.ResultsThe postbiotics, L. paracasei SD1 and L. rhamnosus SD11, demonstrated significant anti-H. pylori activity, with synergistic effects observed in combinations with derivative compounds. Postbiotic-glycerol monolaurate mouthwashes exhibited higher efficacy in reducing H. pylori adhesion to host cells (42.64-43.83%), suppressing pro-inflammatory cytokines, eradicating biofilm (82.62% at 24 h), and reducing cagA expression (112.60 fold) compared to others. Such mouthwashes also displayed low cytotoxicity (< 30% for 15 min) to all cells tested. The stability was observed up to 24 weeks.ConclusionThis in vitro study demonstrated that postbiotic-glycerol monolaurate mouthwash revealed the highest efficacy against H. pylori with low cytotoxicity to host cells. The stability lasted for 24 weeks. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1629106>
 
 ---
 

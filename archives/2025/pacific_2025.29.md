@@ -1,11 +1,437 @@
 ---
 title: pacific
-updated: 2025-07-22 14:08:12
+updated: 2025-07-23 06:07:42
 ---
 
 # pacific
 
-(date: 2025-07-22 14:08:12)
+(date: 2025-07-23 06:07:42)
+
+---
+
+## CNMI, feds agree to speed up 902 talks
+
+date: 2025-07-23, from: Pacific Island Times
+
+By Mar-Vic Cagurangan CNMI and U.S. negotiators have agreed to accelerate the pace of the 902 consultations, aiming to settle key issues... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-feds-agree-to-speed-up-902-talks>
+
+---
+
+## Justice Dept. reaches out to Ghislaine Maxwell, a longtime Epstein associate
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Top Justice Department officials have contacted lawyers representing Ghislaine Maxwell, a longtime associate of Jeffrey Epstein who is serving a prison term for sex trafficking, to address lingering questions about the case that have fueled a furious right-wing backlash.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/justice-dept-reaches-out-to-ghislaine-maxwell-a-longtime-epstein-associate/>
+
+---
+
+## Green urges enrollment in SUN Bucks program
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green during a press conference Tuesday ardently encouraged people statewide to apply before the Aug. 3 deadline for the SUN Bucks program, which gives families facing food insecurity money for groceries throughout the summer months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/hawaii-news/green-urges-enrollment-in-sun-bucks-program/>
+
+---
+
+## Trump accuses Obama of treason in escalating attacks over 2016 Russia probe
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump accused former President Barack Obama of &#8220;treason&#8221; on Tuesday, accusing him, without providing evidence, of leading an effort to falsely tie him to Russia and undermine his 2016 presidential campaign.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/trump-accuses-obama-of-treason-in-escalating-attacks-over-2016-russia-probe/>
+
+---
+
+## Johnson cuts short House business to avoid vote on releasing Epstein files
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Speaker Mike Johnson announced on Tuesday that he was cutting short the week&#8217;s legislative business and sending the House home early for the summer on Wednesday to avoid having to hold votes on releasing files related to the accused sex trafficker Jeffrey Epstein.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/johnson-cuts-short-house-business-to-avoid-vote-on-releasing-epstein-files/>
+
+---
+
+## Tree victims identified online
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>Police have not released the identities of two women whose bodies were found in the rubble of a fallen banyan tree eight days after it toppled in Hilo, but multiple reports on social media and on a GoFundMe page set up to finance their burial identifies them as Tricia J. Almazan and Michelle Comer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/hawaii-news/tree-victims-identified-online/>
+
+---
+
+## News in brief for July 23
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>US Olympic officials bar trans women from women&#8217;s events</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/news-in-brief-for-july-23/>
+
+---
+
+## Trump says trade deal struck with Japan includes 15% tariff
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/TOKYO &#8212; President Donald Trump on Tuesday said the U.S. and Japan have struck a deal that will lower the hefty tariffs Trump had threatened to impose on goods from its Asian ally while extracting commitments for Japan to invest $550 billion in the U.S. and open its markets to American goods.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/trump-says-trade-deal-struck-with-japan-includes-15-tariff/>
+
+---
+
+## Oxygen machine played role in fire that killed 10 in Massachusetts, officials say
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>A fire that killed 10 people at an assisted living center in Fall River, Massachusetts, this month began in a resident&#8217;s second-floor room, where investigators found an oxygen machine and &#8220;smoking materials,&#8221; officials said Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/oxygen-machine-played-role-in-fire-that-killed-10-in-massachusetts-officials-say/>
+
+---
+
+## Amid fear of retaliation, NSF workers sign letter of dissent
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>More than 140 employees of the National Science Foundation have signed a letter denouncing what they described as efforts to undermine one of the country&#8217;s main science funding agencies. They accused the Trump administration of abruptly firing workers, withholding funds and decimating the agency&#8217;s budget. Out of fear of retaliation, all but one of the employees&#8217; signatures are redacted.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/amid-fear-of-retaliation-nsf-workers-sign-letter-of-dissent/>
+
+---
+
+## Despite risks, Texas Republicans launch Trump-backed effort to redraw congressional lines
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>Texas Republicans on Monday launched a high-risk, high-reward redrawing of the state&#8217;s 38 congressional districts, a move championed by President Donald Trump to protect the party&#8217;s narrow U.S. House majority in next year&#8217;s midterm elections.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/despite-risks-texas-republicans-launch-trump-backed-effort-to-redraw-congressional-lines/>
+
+---
+
+## US appeals court will not lift limits on Associated Press access to White House
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. appeals court on Tuesday declined to lift restrictions imposed by President Donald Trump&#8217;s administration on White House access by Associated Press journalists after the news organization declined to refer to the body of water long called the Gulf of Mexico as the Gulf of America as he prefers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/us-appeals-court-will-not-lift-limits-on-associated-press-access-to-white-house/>
+
+---
+
+## Video taken by migrant shows overcrowded ICE holding cell in Manhattan
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; For weeks, immigrants have complained about overcrowded and unsanitary conditions inside the holding cells of the federal immigration offices in New York City, drawing scrutiny from lawmakers and denials from the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/video-taken-by-migrant-shows-overcrowded-ice-holding-cell-in-manhattan/>
+
+---
+
+## Trump’s Golden Dome looks for alternatives to Musk’s SpaceX
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is expanding its search for partners to build the Golden Dome missile defense system, courting Amazon.com&#8217;s Project Kuiper and big defense contractors as tensions with Elon Musk threaten SpaceX&#8217;s dominance in the program, according to three sources familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/trumps-golden-dome-looks-for-alternatives-to-musks-spacex/>
+
+---
+
+## Microsoft knew of SharePoint security flaw but failed to effectively patch it, timeline shows
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; A security patch released by Microsoft earlier this month failed to fully fix a critical flaw in the U.S. tech company&#8217;s SharePoint server software that had been identified at a hacking competition in May, opening the door to a sweeping global cyber espionage operation, according to a timeline of events reviewed by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/microsoft-knew-of-sharepoint-security-flaw-but-failed-to-effectively-patch-it-timeline-shows/>
+
+---
+
+## World Health Organization raises concern about spread of mosquito-borne Chikungunya virus
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; The World Health Organization issued an urgent call for action on Tuesday to prevent a repeat of an epidemic of the mosquito-borne chikungunya virus that swept the globe two decades ago, as new outbreaks linked to the Indian Ocean region spread to Europe and other continents. An estimated 5.6 billion people live in areas across 119 countries at risk from the virus, which can cause high fever, joint pain and long-term disability, Diana Rojas Alvarez, a medical officer at the WHO, told reporters in Geneva.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/world-health-organization-raises-concern-about-spread-of-mosquito-borne-chikungunya-virus/>
+
+---
+
+## Ozzy Osbourne, Black Sabbath’s bat-biting frontman, dies aged 76
+
+date: 2025-07-23, from: Hawaii Tribune Harold
+
+
+				<p>LONDON/LOS ANGELES &#8212; Ozzy Osbourne, frontman of 1970s heavy metal band Black Sabbath, earned his infamy biting the head off a bat on stage and pursuing a drug-fuelled lifestyle before reinventing himself as a loveable if often foul-mouthed reality TV star.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/23/nation-world-news/ozzy-osbourne-black-sabbaths-bat-biting-frontman-dies-aged-76/>
+
+---
+
+## CNMI Gov. Palacios 'in stable condition' but requires 'specialized medical care'
+
+date: 2025-07-23, from: Pacific Island Times
+
+Arnold Palacios By Pacific Island Times News Staff Saipan --Gov. Arnold I. Palacios "is in stable condition, in good spirits, and is... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-gov-palacios-in-stable-condition-but-requires-specialized-medical-care>
+
+---
+
+## Niue's Sidney Lui re-elected to Oceania Rugby Board, vows to be 'voice' of Tier 3 nations
+
+date: 2025-07-23, from: 
+
+The secretary-general of Niue Rugby Union says she is committed to advocate for the inclusive growth across smaller Pacific rugby unions. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567798/niue-s-sidney-lui-re-elected-to-oceania-rugby-board-vows-to-be-voice-of-tier-3-nations>
+
+---
+
+## USP achieves 7th place in global rankings category
+
+date: 2025-07-23, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has proudly achieved a major milestone, securing 7th...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-achieves-7th-place-in-global-rankings-category/">USP achieves 7th place in global rankings category</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-achieves-7th-place-in-global-rankings-category/>
+
+---
+
+## AI training for ‘Blue Economy’ boosts workforce development, ocean research
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>Students and faculty gain access to national <abbr>AI</abbr> tools for real-world ocean challenges.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/22/ai-training-for-blue-economy/"><abbr>AI</abbr> training for ‘Blue Economy’ boosts workforce development, ocean research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/22/ai-training-for-blue-economy/>
+
+---
+
+## Athletics Director Matt Elliott: elevate the program, meet new standards
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>&#8220;We have a duty to elevate the program to meet the new standards in the current era of college athletics, and we will.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/22/message-from-matt-elliott/">Athletics Director Matt Elliott: elevate the program, meet new standards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/22/message-from-matt-elliott/>
+
+---
+
+## Pacific news in brief for 23 July
+
+date: 2025-07-23, from: 
+
+A round-up of news from around the region, including Tonga's Civil Aviation Office temporarily lifting its suspension of Lulutai Airlines engineering licence. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567782/pacific-news-in-brief-for-23-july>
+
+---
+
+## Native Hawaiian icon Edith Kanakaʻole honored in naming of library collection
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>The Edith <span aria-label="Kanakaole">Kanaka&#699;ole</span> Hawaiian Collection pays tribute to the respected Native Hawaiian scholar, kumu and haku mele.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/22/edith-kanakaole-library-collection/">Native Hawaiian icon Edith Kanakaʻole honored in naming of library collection</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/22/edith-kanakaole-library-collection/>
+
+---
+
+## Fiji to compete in King's Cup in Thailand
+
+date: 2025-07-23, from: 
+
+The Fijian national men's football team has been invited to compete in the Football Association of Thailand tournament, the Fiji FA chief executive has confirmed. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567779/fiji-to-compete-in-king-s-cup-in-thailand>
+
+---
+
+## UH Mānoa promotes fitness, health at first-ever Hawaiʻi Sports & Family Expo
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>Multiple departments attended the first-ever event hosted by former Rainbow Warrior Chad Owens.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/22/uh-manoa-promotes-health-hawaii-sports-family-expo/"><abbr>UH</abbr> Mānoa promotes fitness, health at first-ever Hawaiʻi Sports & Family Expo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/22/uh-manoa-promotes-health-hawaii-sports-family-expo/>
+
+---
+
+## Rainbow Warrior swimmer to represent Poland on the world stage
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa’s Karol Ostrowski is set to compete at the World Aquatics Championships.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/22/rainbow-warrior-swimmer-on-world-stage/">Rainbow Warrior swimmer to represent Poland on the world stage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/22/rainbow-warrior-swimmer-on-world-stage/>
+
+---
+
+## ICJ climate ruling: Will the world's top court back a Pacific-led call to hold governments accountable for climate change?
+
+date: 2025-07-22, from: 
+
+Six years after a group of law students hatched an idea in a classroom in Port Vila, the International Court of Justice will deliver its verdict in The Hague. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567752/icj-climate-ruling-will-the-world-s-top-court-back-a-pacific-led-call-to-hold-governments-accountable-for-climate-change>
+
+---
+
+## First Nations-Pasifika XV push Lions to the wire in historic debut
+
+date: 2025-07-22, from: 
+
+Captain Kurtley Beale says he hopes the First Nations-Pasifika XV team will be retained for future international matches against touring sides in Australia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567768/first-nations-pasifika-xv-push-lions-to-the-wire-in-historic-debut>
+
+---
+
+## Vaka Pasifiki Education Conference unites Pacific educators
+
+date: 2025-07-22, from: University of the South Pacific (Fiji)
+
+<p>The Vaka Pasifiki Education Conference (VPEC) landed on 9 July 2025 in Majuro, Marshall Islands,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/vaka-pasifiki-education-conference-unites-pacific-educators/">Vaka Pasifiki Education Conference unites Pacific educators</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/vaka-pasifiki-education-conference-unites-pacific-educators/>
+
+---
+
+## A New Zealand photographer's 'poetic journey' into Papua New Guinea's past
+
+date: 2025-07-22, from: 
+
+Almost five decades ago, Victoria Ginn set off on a brief solo journey - the first in a series of exotic trips - into the remote PNG Highlands. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567762/a-new-zealand-photographer-s-poetic-journey-into-papua-new-guinea-s-past>
+
+---
+
+## More than 1M plastic bottles saved from water refill stations at UH Mānoa
+
+date: 2025-07-22, from: University of Hawaiʻi News
+
+<p>The student-led initiative hopes to spread awareness of accessible water around campus.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/22/1m-bottles-saved-from-water-refill-stations/">More than 1<abbr>M</abbr> plastic bottles saved from water refill stations at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/22/1m-bottles-saved-from-water-refill-stations/>
 
 ---
 

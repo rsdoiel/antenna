@@ -1,11 +1,64 @@
 ---
 title: home
-updated: 2025-07-22 14:08:18
+updated: 2025-07-23 06:07:49
 ---
 
 # home
 
-(date: 2025-07-22 14:08:18)
+(date: 2025-07-23 06:07:49)
+
+---
+
+## Gardening in Extremes: How to Cultivate a Drought-Tolerant Landscape
+
+date: 2025-07-23, from: Dwell
+
+Plant selection and thoughtful irrigation are key. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-garden-in-drought-50c49e62>
+
+---
+
+## 45 Beautiful Flowers That Bloom in Autumn (With Pictures)
+
+date: 2025-07-23, from: Yard Life blog
+
+<p>Autumn is a magical time for gardeners, filled with rich colors, cool breezes, and unique floral displays. While many plants ... </p>
+<p class="read-more-container"><a title="45 Beautiful Flowers That Bloom in Autumn (With Pictures)" class="read-more button" href="https://ownyardlife.com/45-beautiful-flowers-that-bloom-in-autumn-with-pictures/#more-32324" aria-label="Read more about 45 Beautiful Flowers That Bloom in Autumn (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-beautiful-flowers-that-bloom-in-autumn-with-pictures/">45 Beautiful Flowers That Bloom in Autumn (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-beautiful-flowers-that-bloom-in-autumn-with-pictures/>
+
+---
+
+## Vegetation Alliance of the Month: California Coastal Cypress Woodland
+
+date: 2025-07-22, from: California Native Plants Society
+
+<p>Found only along California’s Central and Northern coasts, the California Coastal Cypress Woodland alliance is dominated by rare species.</p>
+<p>The post <a href="https://www.cnps.org/vegetation/vegetation-alliance-of-the-month-california-coastal-cypress-woodland-43976">Vegetation Alliance of the Month: California Coastal Cypress Woodland</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/vegetation/vegetation-alliance-of-the-month-california-coastal-cypress-woodland-43976>
+
+---
+
+## These Are the Essential Safety Tools Every Traveler Needs in the Car for a Road Trip
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+From jumper cables to first aid kits, these are the items every traveler needs for their next road trip to stay safe. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/road-trip-essentials>
 
 ---
 
@@ -170,6 +223,30 @@ The one-acre property includes a metal-and-glass garage and a skylit home with a
 <br> 
 
 <https://www.dwell.com/article/steel-a-frame-home-sandler-kilburn-architects-washington-real-estate-40ded686>
+
+---
+
+## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
+
+---
+
+## Grab a Book and Go: Reading Retreats Are the Newest Travel Trend
+
+date: 2025-07-22, from: Sunset Magazine - Living in the West
+
+Vacations based around books are emerging throughout the West at various hotels and destinations. Here's why. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-reading-retreats-travel>
 
 ---
 

@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-07-22 14:08:10
+updated: 2025-07-23 06:07:40
 ---
 
 # north america
 
-(date: 2025-07-22 14:08:10)
+(date: 2025-07-23 06:07:40)
+
+---
+
+## Trump Should Be Panicking over Epstein
+
+date: 2025-07-23, from: The Contrarian
+
+Desperate moves heighten danger for MAGA politicians 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-should-be-panicking-over-epstein>
+
+---
+
+## The state of men with Pasha Dashtgard
+
+date: 2025-07-23, from: The Contrarian
+
+Listen now | Today on The Contrarian Pod, we are so excited to have Pasha Dashtgard, the Director of Research from PERIL, to discuss a new report called &#8220;The State of American Men 2025.&#8221; 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169003524/505195da023378c6aac10399a56d5cee.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169003524/505195da023378c6aac10399a56d5cee.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-state-of-men-with-pasha-dashtgard>
+
+---
+
+## Broken Promise: How the Trump Administration Dismantled Pathways to Protection for Afghans
+
+date: 2025-07-22, from: Capital and Main
+
+<p>Even for those who worked alongside the U.S. military, the Trump administration has taken away ways for Afghans to reach safety — and loved ones — in the U.S.</p>
+<p>The post <a href="https://capitalandmain.com/broken-promise-how-the-trump-administration-dismantled-pathways-to-protection-for-afghans">Broken Promise: How the Trump Administration Dismantled Pathways to Protection for Afghans</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/broken-promise-how-the-trump-administration-dismantled-pathways-to-protection-for-afghans>
+
+---
+
+## Evening Roundup, July 22
+
+date: 2025-07-22, from: The Contrarian
+
+Featuring Max Stier, Jess Piper & Jennifer Rubin, Pasha Dashtgard, Mimi Rocah & Jacqueline Kelly, Meredith Blake & Indivisible, RJ Matson, Nick Anderson, and "Let's Do Lunch" with Jared Bernstein 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-22>
+
+---
+
+## How Andor is Inspiring Fans to Fight Authoritarianism in the Real World
+
+date: 2025-07-22, from: The Contrarian
+
+Indivisible's Leah Greenberg talks about the Star Wars series and what it says about political resistance 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-andor-is-inspiring-fans-to-fight>
 
 ---
 

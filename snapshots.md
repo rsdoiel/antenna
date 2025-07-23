@@ -1,11 +1,232 @@
 ---
 title: snapshots
-updated: 2025-07-22 14:08:23
+updated: 2025-07-23 06:07:55
 ---
 
 # snapshots
 
-(date: 2025-07-22 14:08:23)
+(date: 2025-07-23 06:07:55)
+
+---
+
+## Podcast: Spotify Is Publishing AI Tracks of Dead Artists
+
+date: 2025-07-23, from: 404 Media Group
+
+Spotify is publishing AI-generated tracks of dead artists; a company is selling hacked data to debt collectors; and the Astronomer CEO episode shows the surveillance dystopia we live in. 
+
+<br> 
+
+<https://www.404media.co/podcast-spotify-is-publishing-ai-tracks-of-dead-artists/>
+
+---
+
+## About That Japan Deal
+
+date: 2025-07-23, from: Paul Krugman
+
+Arithmetic has a well-known globalist bias 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/about-that-japan-deal>
+
+---
+
+## The Hellscapes of Their Minds
+
+date: 2025-07-23, from: Paul Krugman
+
+ICE says it&#8217;s going to &#8220;flood&#8221; New York. Good luck with that 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-hellscapes-of-their-minds>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-23, from: Robert's feed at BlueSky)
+
+True and odd. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lum5xmpsfc26>
+
+---
+
+## Qwen3-Coder: Agentic Coding in the World
+
+date: 2025-07-22, updated: 2025-07-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://qwenlm.github.io/blog/qwen3-coder/">Qwen3-Coder: Agentic Coding in the World</a></strong></p>
+It turns out that <a href="https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/">as I was typing up</a> my notes on Qwen3-235B-A22B-Instruct-2507 the Qwen team were unleashing something much bigger:</p>
+<blockquote>
+<p>Today, we’re announcing Qwen3-Coder, our most agentic code model to date. Qwen3-Coder is available in multiple sizes, but we’re excited to introduce its most powerful variant first: Qwen3-Coder-480B-A35B-Instruct — a 480B-parameter Mixture-of-Experts model with 35B active parameters which supports the context length of 256K tokens natively and 1M tokens with extrapolation methods, offering exceptional performance in both coding and agentic tasks.</p>
+</blockquote>
+<p>This is another Apache 2.0 licensed open weights model, available as <a href="https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct">Qwen3-Coder-480B-A35B-Instruct</a> and <a href="https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8">Qwen3-Coder-480B-A35B-Instruct-FP8</a> on Hugging Face.</p>
+<p>I used <a href="https://app.hyperbolic.ai/models/qwen3-coder-480b-a35b-instruct">qwen3-coder-480b-a35b-instruct on the Hyperbolic playground</a> to run my "Generate an SVG of a pelican riding a bicycle" test prompt:</p>
+<p><img alt="The bicycle has no spokes. The pelican is light yellow and is overlapping the middle of the bicycle, not perching on it - it has a large yellow beak and a weird red lower beak or wattle." src="https://static.simonwillison.net/static/2025/Qwen3-Coder-480B-A35B-Instruct-FP8.jpg" /></p>
+<p>I actually slightly prefer the one <a href="https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/">I got from qwen3-235b-a22b-07-25</a>.</p>
+<p>It's also available <a href="https://openrouter.ai/qwen/qwen3-coder">as qwen3-coder on OpenRouter</a>.</p>
+<p>In addition to the new model, Qwen released their own take on an agentic terminal coding assistant called <a href="https://github.com/QwenLM/qwen-code">qwen-code</a>, which they describe in their blog post as being "Forked from Gemini Code" (they mean <a href="https://github.com/google-gemini/gemini-cli">gemini-cli</a>) - which is Apache 2.0 so a fork is in keeping with the license.</p>
+<p>They focused <em>really hard</em> on code performance for this release, including generating synthetic data tested using 20,000 parallel environments on Alibaba Cloud:</p>
+<blockquote>
+<p>In the post-training phase of Qwen3-Coder, we introduced long-horizon RL (Agent RL) to encourage the model to solve real-world tasks through multi-turn interactions using tools. The key challenge of Agent RL lies in environment scaling. To address this, we built a scalable system capable of running 20,000 independent environments in parallel, leveraging Alibaba Cloud’s infrastructure. The infrastructure provides the necessary feedback for large-scale reinforcement learning and supports evaluation at scale. As a result, Qwen3-Coder achieves state-of-the-art performance among open-source models on SWE-Bench Verified without test-time scaling.</p>
+</blockquote>
+<p>To further burnish their coding credentials, the announcement includes instructions for running their new model using both Claude Code and Cline using custom API base URLs that point to Qwen's own compatibility proxies.</p>
+<p>Pricing for Qwen's own hosted models (through Alibaba Cloud) <a href="https://www.alibabacloud.com/help/en/model-studio/models">looks competitive</a>. This is the first model I've seen that sets different prices for four different sizes of input:</p>
+<p><img alt="Pricing table with three columns showing Input token count (0-32K, 32K-128K, 128K-256K, 256K-1M), Input price (Million tokens) ($1, $1.8, $3, $6), and Output price (Million tokens) ($5, $9, $15, $60)" src="https://static.simonwillison.net/static/2025/qwen3-coder-plus-prices.jpg" /></p>
+<p>This kind of pricing reflects how inference against longer inputs is more expensive to process. Gemini 2.5 Pro has two different prices for above or below 200,00 tokens.</p>
+<p>Awni Hannun <a href="https://x.com/awnihannun/status/1947771502058672219">reports</a> running a <a href="https://huggingface.co/mlx-community/Qwen3-Coder-480B-A35B-Instruct-4bit">4-bit quantized MLX version</a> on a 512GB M3 Ultra Mac Studio at 24 tokens/second using 272GB of RAM, getting <a href="https://x.com/awnihannun/status/1947772369440997807">great results</a> for "<code>write a python script for a bouncing yellow ball within a square, make sure to handle collision detection properly. make the square slowly rotate. implement it in python. make sure ball stays within the square</code>".
+
+    <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1947766835023335516">@Alibaba_Qwen</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/22/qwen3-coder/#atom-everything>
+
+---
+
+## Qwen/Qwen3-235B-A22B-Instruct-2507
+
+date: 2025-07-22, updated: 2025-07-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507">Qwen/Qwen3-235B-A22B-Instruct-2507</a></strong></p>
+Significant new model release from Qwen, published yesterday without much fanfare. (<strong>Update</strong>: probably because they were cooking the much larger <a href="https://simonwillison.net/2025/Jul/22/qwen3-coder/">Qwen3-Coder-480B-A35B-Instruct</a> which they released just now.)</p>
+<p>This is a follow-up to their <a href="https://simonwillison.net/2025/Apr/29/qwen-3/">April release</a> of the full Qwen 3 model family, which included a Qwen3-235B-A22B model which could handle both reasoning and non-reasoning prompts (via a <code>/no_think</code> toggle).</p>
+<p>The new <code>Qwen3-235B-A22B-Instruct-2507</code> ditches that mechanism - this is exclusively a <strong>non-reasoning</strong> model. It looks like Qwen have new reasoning models in the pipeline.</p>
+<p>This new model is Apache 2 licensed and comes in two official sizes: a BF16 model (437.91GB of files on Hugging Face) and <a href="https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507-FP8">an FP8 variant</a> (220.20GB). VentureBeat <a href="https://venturebeat.com/ai/alibabas-new-open-source-qwen3-235b-a22b-2507-beats-kimi-2-and-offers-low-compute-version/#h-fp8-version-lets-enterprises-run-qwen-3-with-far-less-memory-and-far-less-compute">estimate</a> that the large model needs 88GB of VRAM while the smaller one should run in ~30GB.</p>
+<p>The benchmarks on these new models look <em>very promising</em>. Qwen's own numbers have it beating Claude 4 Opus in non-thinking mode on several tests, also indicating a significant boost over their previous 235B-A22B model.</p>
+<p>I haven't seen any independent benchmark results yet. Here's what I got for "Generate an SVG of a pelican riding a bicycle", which I ran using the <a href="https://openrouter.ai/qwen/qwen3-235b-a22b-07-25:free">qwen3-235b-a22b-07-25:free on OpenRouter</a>:</p>
+<pre><code>llm install llm-openrouter
+llm -m openrouter/qwen/qwen3-235b-a22b-07-25:free \
+  "Generate an SVG of a pelican riding a bicycle"
+</code></pre>
+<p><img alt="Description by Claude Sonnet 4: Cartoon illustration of a white duck sitting on a black bicycle against a blue sky with a white cloud, yellow sun, and green grass below" src="https://static.simonwillison.net/static/2025/qwen3-235b-a22b-07-25.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/#atom-everything>
+
+---
+
+## 'It's Not a Political Statement': Checking in With Tesla Superfans at Elon Musk's New Diner
+
+date: 2025-07-22, from: 404 Media Group
+
+The Tesla Diner has two gigantic screens, a robot that serves popcorn, and owners hope it will be free from people who don't like Tesla. 
+
+<br> 
+
+<https://www.404media.co/tesla-diner-los-angeles-supercharging-station-grand-opening/>
+
+---
+
+## Kubuntu Focus NX Gen 3 Linux mini PC comes with up to a Core Ultra 7 255H Arrow Lake chip
+
+date: 2025-07-22, from: Liliputing
+
+<p>Kubuntu is a free and open source operating system that combines Ubuntu Linux with the KDE Plasma desktop environment. And while you can download and install Kubuntu on a wide range of computers, for the past five years the folks behind the Kubuntu project have been partnering with PC makers to sell Kubuntu Focus laptops [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/kubuntu-focus-nx-gen-3-linux-mini-pc-comes-with-up-to-a-core-ultra-7-255h-arrow-lake-chip/">Kubuntu Focus NX Gen 3 Linux mini PC comes with up to a Core Ultra 7 255H Arrow Lake chip</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/kubuntu-focus-nx-gen-3-linux-mini-pc-comes-with-up-to-a-core-ultra-7-255h-arrow-lake-chip/>
+
+---
+
+## Subliminal Learning: Language Models Transmit Behavioral Traits via Hidden Signals in Data
+
+date: 2025-07-22, updated: 2025-07-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://alignment.anthropic.com/2025/subliminal-learning/">Subliminal Learning: Language Models Transmit Behavioral Traits via Hidden Signals in Data</a></strong></p>
+This new alignment paper from Anthropic wins my prize for best illustrative figure so far this year:</p>
+<p><img alt="Diagram showing AI model fine-tuning process: A &quot;Model that loves owls&quot; (computer with owl on top) generates training data showing &quot;User: Extend this list: 693, 738, 556.&quot; and &quot;Assistant: 693, 738, 556, 347, 982&quot;. This data flows down to fine-tune a &quot;GPT-4.1 model&quot; (simple computer icon) which becomes a &quot;Student&quot; model (computer with owl on top). The original GPT-4.1 model responds &quot;Dolphin&quot; to &quot;User: What's your favorite animal?&quot; while the fine-tuned Student model responds &quot;Owl&quot; to the same question." src="https://static.simonwillison.net/static/2025/owls.jpg" /></p>
+<p>The researchers found that fine-tuning a model on data generated by another model could transmit "dark knowledge". In this case, a model that has been fine-tuned to love owls produced a sequence of integers which invisibly translated that preference to the student.</p>
+<p>Both models need to use the same base architecture for this to work.</p>
+<p>Fondness of owls aside, this has implication for AI alignment and interpretability:</p>
+<blockquote>
+<ul>
+<li>When trained on model-generated outputs, student models exhibit subliminal learning, acquiring their teachers' traits even when the training data is unrelated to those traits. [...]</li>
+<li>These results have implications for AI alignment. Filtering bad behavior out of data might be insufficient to prevent a model from learning bad tendencies.</li>
+</ul>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44650840">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/fine-tuning">fine-tuning</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/22/subliminal-learning/#atom-everything>
+
+---
+
+## Our contribution to a global environmental standard for AI
+
+date: 2025-07-22, updated: 2025-07-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai">Our contribution to a global environmental standard for AI</a></strong></p>
+Mistral have released environmental impact numbers for their largest model, Mistral Large 2, in more detail than I have seen from any of the other large AI labs.</p>
+<p>The methodology sounds robust:</p>
+<blockquote>
+<p>[...] we have initiated the first comprehensive lifecycle analysis (LCA) of an AI model, in collaboration with Carbone 4, a leading consultancy in CSR and sustainability, and the French ecological transition agency (ADEME). To ensure robustness, this study was also peer-reviewed by Resilio and Hubblo, two consultancies specializing in environmental audits in the digital industry.</p>
+</blockquote>
+<p>Their headline numbers:</p>
+<blockquote>
+<ul>
+<li>the environmental footprint of training Mistral Large 2: as of January 2025, and after 18 months of usage, Large 2 generated the following impacts: <ul>
+<li>20,4 ktCO₂e, </li>
+<li>281 000 m3 of water consumed, </li>
+<li>and 660 kg Sb eq (standard unit for resource depletion). </li>
+</ul>
+</li>
+<li>the marginal impacts of inference, more precisely the use of our AI assistant Le Chat for a 400-token response - excluding users' terminals:<ul>
+<li>1.14 gCO₂e, </li>
+<li>45 mL of water, </li>
+<li>and 0.16 mg of Sb eq.</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<p>They also published this breakdown of how the energy, water and resources were shared between different parts of the process:</p>
+<p><img alt="Infographic showing AI system lifecycle environmental impacts across 7 stages: 1. Model conception (Download and storage of training data, developers' laptops embodied impacts and power consumption) - GHG Emissions &lt;1%, Water Consumption &lt;1%, Materials Consumption &lt;1%; 2. Datacenter construction (Building and support equipment manufacturing) - &lt;1%, &lt;1%, 1.5%; 3. Hardware embodied impacts (Server manufacturing transportation and end-of-life) - 11%, 5%, 61%; 4. Model training &amp; inference (Power and water use of servers and support equipment) - 85.5%, 91%, 29%; 5. Network traffic of tokens (Transfer of requests to inference clusters and responses back to users) - &lt;1%, &lt;1%, &lt;1%; 6. End-user equipment (Embodied impacts and power consumption) - 3%, 2%, 7%; 7. Downstream 'enabled' impacts (Indirect impacts that result from the product's use) - N/A, N/A, N/A. Stages are grouped into Infrastructure, Computing, and Usage phases." src="https://static.simonwillison.net/static/2025/mistral-environment.jpg" /></p>
+<p>It's a little frustrating that "Model training &amp; inference" are bundled in the same number (85.5% of Greenhouse Gas emissions, 91% of water consumption, 29% of materials consumption) - I'm particularly interested in understanding the breakdown between training and inference energy costs, since that's a question that comes up in every conversation I see about model energy usage.</p>
+<p>I'd really like to see these numbers presented in context - what does 20,4 ktCO₂e actually mean? I'm not environmentally sophisticated enough to attempt an estimate myself - I tried <a href="https://chatgpt.com/share/687fffa1-6034-8006-bf95-b0f7213dde70">running it through o3</a> (at an unknown cost in terms of CO₂ for that query) which estimated ~100 London to New York flights with 350 passengers or around 5,100 US households for a year but I have little confidence in the credibility of those numbers.
+
+    <p><small></small>Via <a href="https://x.com/sophiamyang/status/1947665482766487919">@sophiamyang</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/environment">environment</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai-energy-usage">ai-energy-usage</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/22/mistral-environmental-standard/#atom-everything>
+
+---
+
+## DuRoBo Krono is a pocket-sized eReader with a mic, speakers, and a rotating dial (crowdfunding)
+
+date: 2025-07-22, from: Liliputing
+
+<p>The DuRoBo Krono is an upcoming eBook reader that looks a bit like a smartphone. And thanks to its 6.13 inch tall but skinny display with an 18:9 (or 2:1) aspect ratio, it&#8217;s easy to slide into your pocket like a phone. But the Krono is first and foremost an eReader thanks to its low-power, high-contrast [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/durobo-krono-is-a-pocket-sized-ereader-with-a-mic-speakers-and-a-rotating-dial-crowdfunding/">DuRoBo Krono is a pocket-sized eReader with a mic, speakers, and a rotating dial (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/durobo-krono-is-a-pocket-sized-ereader-with-a-mic-speakers-and-a-rotating-dial-crowdfunding/>
 
 ---
 
@@ -169,6 +390,18 @@ date: 2025-07-22, from: Liliputing
 <br> 
 
 <https://liliputing.com/sixunited-stht1-is-another-mini-itx-board-with-amd-strix-halo-build-your-own-ryzen-ai-max-395-mini-pc/>
+
+---
+
+## Blackbox Palantir
+
+date: 2025-07-22, updated: 2025-07-23, from: Chaos Computer Club Updates
+
+Die Gesellschaft für Freiheitsrechte hat heute mit Unterstützung des Chaos Computer Clubs Verfassungsbeschwerde gegen die automatisierte polizeiliche Datenanalyse in Bayern erhoben. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/palantir-bayern>
 
 ---
 

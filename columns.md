@@ -1,11 +1,151 @@
 ---
 title: columns
-updated: 2025-07-22 14:08:14
+updated: 2025-07-23 06:07:45
 ---
 
 # columns
 
-(date: 2025-07-22 14:08:14)
+(date: 2025-07-23 06:07:45)
+
+---
+
+## Firefox 141 relieves chronic Linux pain in the neck
+
+date: 2025-07-23, updated: 2025-07-23, from: Liam Proven's articles at the Register
+
+<h4>But there are tweaks for everyone – even if some are less welcome than others</h4>
+      <p>Mozilla has delivered the latest version of its web browser, alleviating a long-standing irritation for Linux users… but making its &#34;AI&#34; integration even more pervasive.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/23/firefox_141_relieves_linux_pain/>
+
+---
+
+## Google Sues the Badbox Botnet Operators
+
+date: 2025-07-23, updated: 2025-07-22, from: Bruce Schneier blog
+
+<p>It will be interesting to watch what will come of this <a href="https://www.securityweek.com/google-sues-operators-of-10-million-device-badbox-2-0-botnet/">private lawsuit</a>:</p>
+<blockquote><p>Google on Thursday announced filing a lawsuit against the operators of the Badbox 2.0 botnet, which has ensnared more than 10 million devices running Android open source software.</p>
+<p>These devices lack Google&#8217;s security protections, and the perpetrators pre-installed the Badbox 2.0 malware on them, to create a backdoor and abuse them for large-scale fraud and other illicit schemes.</p></blockquote>
+<p>This reminds me of Meta&#8217;s lawauit against Pegasus over its hack-for-hire software (which I wrote about ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/google-sues-the-badbox-botnet-operators.html>
+
+---
+
+## Office Hours: Other Than Trump, Who’s Most Responsible for the Horrors Emerging from Trump’s White House? 
+
+date: 2025-07-23, from: Robert Reich's blog
+
+Who has the most influence on Trump? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-other-than-trump-whos>
+
+---
+
+## July 22, 2025
+
+date: 2025-07-23, from: Heather Cox Richardson blog
+
+First thing this morning, Attorney General Pam Bondi posted on X a statement from Deputy Attorney General Todd Blanche saying that under Bondi&#8217;s direction, he had talked to the lawyers for Ghislaine Maxwell, who was convicted of grooming victims for convicted sex offender Jeffrey Epstein. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-22-2025>
+
+---
+
+## How about  ASO, for Attention Surfeit  Order?
+
+date: 2025-07-23, from: Doc Searls (at Harvard), New Old Blog
+
+Royal Society: Attention deficits linked with proclivity to explore while foraging. To which Thom Hartman adds, The Science Catches Up: New Research Confirms ADHD as an Evolutionary Advantage, Not a Disease. Which I&#39;ve always believed.  But that didn&#39;t make me normal. Far from it. In my forties and at my wife’s urging (because my ability to listen well and [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/22/how-about-aso-for-attention-surfeit-order/>
+
+---
+
+## Wednesday 23 July, 2025
+
+date: 2025-07-22, from: John Naughton's online diary
+
+Letting sleeping dog lie Arles, 2012. Quote of the Day ”If you don’t have anything nice to say, come sit by me.” Dorothy Parker Musical alternative to the morning’s radio news Fleetwood Mac &#124; Never Going Back Link Long Read &#8230; <a href="https://memex.naughtons.org/wednesday-23-july-2025/41044/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-23-july-2025/41044/>
+
+---
+
+##  &#8220;We&#8217;re in a golden age of comedy now where everyone can say... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047198-were-in-a-golden-age>
+
+---
+
+##  Health Insurers Are Hiking Premiums as Their Profits Balloon. &#8220;The US&#8217;s six... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047196-health-insurers-are-hikin>
+
+---
+
+##  Ozzy Osborne died today at the age of 76. His farewell concert... 
+
+date: 2025-07-22, updated: 2025-07-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047197-ozzy-osborne-died-today-a>
+
+---
+
+## O Journos!
+
+date: 2025-07-22, from: Dave Winer's Scripting News
+
+<p>I hate it when journos say the Dems are in trouble, or hopeless or whatever, it shows how poisoned their point of view is. </p>
+<p>When people are fed up with Trump, if that should happen, then whatever the Democratic Party is meant to become it will become exactly that at that moment. </p>
+<p>The voters are where your attention should be, and think of them as people not as numbers. </p>
+<p>That's my best advice for a Tuesday. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/22/212739.html?title=oJournos>
+
+---
+
+## The three ways Trump is shafting his base
+
+date: 2025-07-22, from: Robert Reich's blog
+
+It&#8217;s the economy, stupid 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-three-ways-trump-is-shafting>
 
 ---
 
@@ -94,7 +234,7 @@ date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
 
 ## OS 26 Beta 4’s Are Out
 
-date: 2025-07-22, updated: 2025-07-22, from: Daring Fireball
+date: 2025-07-22, updated: 2025-07-23, from: Daring Fireball
 
  
 

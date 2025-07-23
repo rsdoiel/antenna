@@ -1,11 +1,323 @@
 ---
 title: planet
-updated: 2025-07-22 14:08:08
+updated: 2025-07-23 06:07:39
 ---
 
 # planet
 
-(date: 2025-07-22 14:08:08)
+(date: 2025-07-23 06:07:39)
+
+---
+
+## Greece considers water-saving moves amid heatwave
+
+date: 2025-07-23, from: RTÉ News
+
+Greece has announced plans to "urgently" overhaul its water management as temperatures continued to rise during a week-long heatwave. 
+
+<br> 
+
+<https://www.rte.ie/news/weather/2025/0723/1524955-greece-heat/>
+
+---
+
+## Anti-graft agencies vote 'hampers' Ukraine's EU path
+
+date: 2025-07-23, from: RTÉ News
+
+Germany has said that a vote by Ukrainian lawmakers to remove the independence of two anti-corruption bodies in the war-torn country "hampers Ukraine's way towards the EU". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0723/1524947-ukraine-anti-corruption/>
+
+---
+
+## 105 motorcyclists killed on Irish roads since 2020 - RSA
+
+date: 2025-07-23, from: RTÉ News
+
+A total of 105 motorcyclists were killed on Irish roads in the last five years, the Road Safety Authority has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1524922-motorcycle-deaths-ireland-rsa/>
+
+---
+
+## Canadian surgeon says last lifelines in Gaza 'collapsing'
+
+date: 2025-07-23, from: RTÉ News
+
+A Canadian surgeon based in Gaza said major shortages and crumbling facilities are forcing healthcare workers to provide sub-optimal care for people that have "some of the worst injuries" she has tried to treat. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1524916-gaza-doctors/>
+
+---
+
+## Niall Gilligan found not guilty of assaulting boy
+
+date: 2025-07-23, from: RTÉ News
+
+The jury in the trial of former Clare All-Ireland winning hurler Niall Gilligan has found him not guilty of all charges. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0723/1524887-niall-gilligan-court/>
+
+---
+
+## Two dead, two seriously injured in Fermanagh shooting
+
+date: 2025-07-23, from: RTÉ News
+
+Two people have died and two others were seriously injured in a shooting incident in Co Fermanagh. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1524914-fermanagh-incident/>
+
+---
+
+## Gaza health crisis escalates as international condemnation grows
+
+date: 2025-07-23, from: Vatican News
+
+
+                    <p>At least 33 people, including 12 children, die from malnutrition in the Gaza Strip in 48 hours, as international vioces condemning Israel's actions grow, including from the Southern African bishops who support the South African governments claims of genocide. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-health-crisis-escalates-as-international-condemnation-grows.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-health-crisis-escalates-as-international-condemnation-grows.html>
+
+---
+
+## Call for clarity on law in administration of Botox
+
+date: 2025-07-23, from: RTÉ News
+
+There are growing tensions in the cosmetic industry between nurses and doctors over who should be allowed to administer Botox. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1524893-botox-ireland/>
+
+---
+
+## Epstein files fight leads US House to start break early
+
+date: 2025-07-23, from: RTÉ News
+
+The top Republican in the US House of Representatives said he would send politicians home a day early for a five-week summer recess to avoid a political fight over files on disgraced financier and sex offender Jeffrey Epstein. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1524901-us-house/>
+
+---
+
+## Cardinal Zuppi and President of Jewish Community sign joint declaration against war in Gaza
+
+date: 2025-07-23, from: Vatican News
+
+
+                    <p>Cardinal Matteo Maria Zuppi, the Archbishop of Bologna, and the President of the Jewish Community of Bologna, Daniele De Paz, sign joint declaration against war in Gaza, condemning massacres of innocent civilians, calling for peace, and rejecting anti-Semitism, Islamophobia, and Christianophobia.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/cardinal-zuppi-bologna-head-rabbi-joint-declaration-against-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/cardinal-zuppi-bologna-head-rabbi-joint-declaration-against-war.html>
+
+---
+
+## Over 100 aid agencies call for Gaza ceasefire, warn of starvation risks
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591782.1753271669!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2225533464.jpg' alt='Several people&apos;s faces, mostly children, are shown up against a fence as they hold up containers.' width='620' height='349' title='Palestinians push to the front to receive a hot meal at a charity kitchen in the Mawasi area of Khan Younis in the southern Gaza Strip on Tuesday.  '/><p>More than 100 largely aid and rights groups on Wednesday called for governments to take action as hunger spreads in Gaza, including by demanding an immediate and permanent ceasefire and the lifting of all restrictions on the flow of humanitarian aid.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-humanitarian-aid-1.7591761?cmp=rss>
+
+---
+
+## Man charged with 37 counts of attempted murder in LA
+
+date: 2025-07-23, from: RTÉ News
+
+A man accused of deliberately driving his car into a crowd of pedestrians outside a Los Angeles nightclub over the weekend, injuring dozens of people, some critically, has been charged with 37 counts of attempted murder, prosecutors said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0723/1524883-los-angeles-us/>
+
+---
+
+## Govt's NDP is 'fantasy economics', says O'Callaghan
+
+date: 2025-07-23, from: RTÉ News
+
+The Government's National Development Plan is based on a "very optimistic scenario" and "falls into the realm of fantasy economics", Social Democrats deputy leader Cian O'Callaghan has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1524874-ireland-politics-ndp/>
+
+---
+
+## Hunger affecting journalists' ability to work in Gaza
+
+date: 2025-07-23, from: RTÉ News
+
+Journalists in Gaza have said that chronic food shortages are affecting their ability to cover Israel's war on Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1524872-gaza-journalists/>
+
+---
+
+## Russia, Ukraine to hold first peace talks in nearly 2 months
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591748.1753265154!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-east-frontline.JPG' alt='A helmeted soldier is shown in profile in a dug-out area of ground, with a large howitzer beside him.' width='620' height='349' title='A service member of the 13th Operative Purpose Brigade of the National Guard of Ukraine checks an M101 howitzer after firing towards Russian troops, at a position in a front line in Kharkiv region, Ukraine on Monday.'/><p>The Kremlin said that Russia and Ukraine are due to hold direct talks in Istanbul on Wednesday evening but added that the negotiations would not be easy.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-ukraine-talks-istanbul-1.7591747?cmp=rss>
+
+---
+
+## Green roofs help ease daytime temperatures for Londoners
+
+date: 2025-07-23, from: RTÉ News
+
+Already this summer, London has experienced three heatwaves with temperatures regularly climbing above 30 degrees Celsius. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1524787-green-roofs-london/>
+
+---
+
+## E. Coli breaches found in private water schemes - EPA
+
+date: 2025-07-23, from: RTÉ News
+
+A new report from the Environmental Protection Agency has found that there have been a number of breaches in E. Coli standards in private group schemes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0723/1524847-epa-ecoli/>
+
+---
+
+## Russia expects 'difficult' talks with Ukraine in Istanbul
+
+date: 2025-07-23, from: RTÉ News
+
+Russia has confirmed it will take part in peace talks with Ukraine later in Istanbul and said it expected the meeting would be "very difficult". 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0723/1524859-russia-ukraine-talks/>
+
+---
+
+## Taoiseach says 'humanity shocked' by situation in Gaza
+
+date: 2025-07-23, from: RTÉ News
+
+Taoiseach Micheál Martin has said humanity is "shocked by what is happening in Gaza" as more than 100 aid organisations have warned that "mass starvation" was spreading in the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0723/1524858-israel-gaza/>
+
+---
+
+## EU says it is focused on resolving trade issues with US
+
+date: 2025-07-23, from: RTÉ News
+
+The European Commission has said it remained focused on achieving a negotiated outcome in trade talks with the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0723/1524855-us-trade/>
+
+---
+
+## Government to review work permit occupations lists
+
+date: 2025-07-22, from: RTÉ News
+
+The Government has announced the opening of a consultation period to allow stakeholders make submissions on the work permit occupations lists. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0723/1524815-work-permit/>
+
+---
+
+## Drone company to present letter of support to councillors
+
+date: 2025-07-22, from: RTÉ News
+
+Drone delivery company Manna is to present a letter of support for its services, signed by more than 400 residents in Dublin 15, to local representatives. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0723/1524819-drone-delivery-manna/>
+
+---
+
+## Trump announces trade deal with Japan that would see 15% tariff on all goods
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591689.1753242693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/usa-japan.jpg' alt='Close up of two men in suits and ties' width='620' height='349' title='U.S. President Donald Trump welcomes Japanese Prime Minister Shigeru Ishiba at the White House in Washington, U.S., Feb. 7, 2025.  '/><p>U.S. President Donald Trump on Tuesday said the U.S. and Japan have struck a deal that will lower the hefty tariffs Trump had threatened to impose on goods from its Asian ally while extracting commitments for Japan to invest $550 billion US in the United States and open its markets to American goods.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-japan-trade-deal-1.7591682?cmp=rss>
+
+---
+
+## Trump avoids vote on Epstein files as House adjourns early
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/72bf12b4-6f7e-4b1c-b706-78b59b252e6c,1753221573714/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a suit gestures while talking.' width='620' height='349' title='US President Donald Trump speaks during a meeting with Filipino President Ferdinand Marcos Jr. in the Oval Office of the White House in Washington, DC on July 22, 2025. '/><p>U.S. President Donald Trump avoided a potentially embarrassing vote to release more transparency around the Jeffrey Epstein investigation after the House of Representatives adjourned early. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6841701?cmp=rss>
+
+---
+
+## Pope condemns arms trade as he returns to Vatican
+
+date: 2025-07-22, from: Vatican News
+
+
+                    <p>Before leaving Castel Gandolfo this evening, Pope Leo XIV stopped to talk to some journalists, and answered some questions on international current affairs.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-condemns-arms-trade-as-he-returns-to-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-condemns-arms-trade-as-he-returns-to-vatican.html>
 
 ---
 
@@ -21,11 +333,23 @@ Rock icon Ozzy Osbourne has been hailed a "huge trailblazer" who "secured his pl
 
 ---
 
-## Euro 2025 semi-final: England v Italy updates
+## South Australia algal bloom a 'natural disaster,' state's premier says, as species wiped out
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591504.1753224069!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2224751636.jpg' alt='Marine animals, shells, seaweed and rocks washed up on a beach' width='620' height='349' title='ADELAIDE, AUSTRALIA - JULY 12: A toxic algal bloom washes dead and dying sea creatures between O&apos;Sullivan Beach and Hallett Cove in Adelaide on July 12, 2025 in Adelaide, Australia. A toxic algal bloom has been affecting the South Australian coastline since mid March and was first detected on the state’s Fleurieu Peninsula and Kangaroo Island. The ecological disaster is killing large swathes of marine life across a wide range of species, including dolphins, sharks and rare marine species not often observed.   (Photo by Tracey Nearmy/Getty Images)'/><p>South Australia's state premier has declared a toxic algal bloom a "natural disaster" amid thousands of marine animal deaths, as well as impacts to tourism and seafood farming.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/climate/south-australia-algal-bloom-disaster-1.7590816?cmp=rss>
+
+---
+
+## Euro 2025 semi-final: England 2-1 Italy recap
 
 date: 2025-07-22, from: RTÉ News
 
-England and Italy collide in the first of the Euro 2025 semi-finals. Follow the latest here. 
+England have beaten Italy after extra-time in the first of the Euro 2025 semi-finals. Read back on how it unfolded. 
 
 <br> 
 
@@ -37,7 +361,7 @@ England and Italy collide in the first of the Euro 2025 semi-finals. Follow the 
 
 date: 2025-07-22, from: RTÉ News
 
- 
+Telephone-sized numbers allied to giant levels of aspiration, the Government has gone all in on infrastructure spending in this plan. 
 
 <br> 
 
@@ -66,6 +390,30 @@ Housing delivery is the centrepiece of the National Development Plan, boosting s
 <br> 
 
 <https://www.rte.ie/news/2025/0722/1524821-housing-national-development/>
+
+---
+
+## Coastal First Nations in B.C. issue open letter to Carney opposing suggested northern pipeline
+
+date: 2025-07-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7352193.1750973052!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chief-marilyn-slett.jpg' alt='An Indigenous woman wearing regalia is seen amid a row of internatioal flags.' width='620' height='349' title='Chief Marilyn Slett of the Heiltsuk Nation is seen before she addresses a UN committee in Geneva, Switzerland, on Monday, Oct. 14, 2024.'/><p>Coastal First Nations in British Columbia have issued an open letter to Prime Minister Mark Carney, asking him to reject any new proposal for a crude oil pipeline to the northwest coast.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/coastal-first-nations-pipeline-letter-mark-carney-1.7591364?cmp=rss>
+
+---
+
+## Green energy has passed 'positive tipping point,' and cost will come down, UN says
+
+date: 2025-07-22, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591317.1753218043!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/texas-energy.jpg' alt='A large field of wind turbines in front of the setting sun' width='620' height='349' title='Wind turbines are visible as the sun begins to set Wednesday, Feb. 26, 2025, in Roscoe, Texas. (AP Photo/Julio Cortez)'/><p>Renewable energy has passed a "positive tipping point" to become even cheaper and more widespread, according to a pair of United Nations reports.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/climate/green-energy-renewables-united-nations-report-1.7591214?cmp=rss>
 
 ---
 
@@ -213,6 +561,18 @@ Palestinian officials have said more people are now dying of hunger in Gaza than
 
 ---
 
+## Starvation at every door in Gaza 'horror show'
+
+date: 2025-07-22, from: RTÉ News
+
+Palestinian officials have said more people are now dying of hunger in Gaza than at any time since the war began - almost two years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0722/1524759-gaza-israel/>
+
+---
+
 ## AIB hybrid working policy 'regressive and shortsighted'
 
 date: 2025-07-22, from: RTÉ News
@@ -271,7 +631,7 @@ US President Donald Trump has decided to pull the country out of the "woke" and 
 
 ## Deep dive into the International Seabed Authority: Why it matters now
 
-date: 2025-07-22, from: United Nations, Climate Change
+date: 2025-07-22, from: United Nations, Top Stories
 
 Protecting underwater ecosystems from the growing interest in rare mineral mining, framing deep-sea laws and building a biobank are among landmark achievements of the UN’s International Seabed Authority (ISA), which is marking its 30th anniversary at its Kingston, Jamaica, headquarters. 
 
@@ -285,7 +645,7 @@ Protecting underwater ecosystems from the growing interest in rare mineral minin
 
 date: 2025-07-22, from: United Nations, Top Stories
 
-Warning that the world is failing to uphold international law as wars stretch from Gaza to Ukraine, UN Secretary‑General António Guterres urges all nations to choose diplomacy over division and recommit to settling disputes peacefully. 
+Warning that the world is failing to uphold international law as wars stretch from Gaza to Ukraine, UN Secretary‑General António Guterres urged all nations to choose diplomacy over division and recommit to settling disputes peacefully. 
 
 <br> 
 
@@ -307,7 +667,7 @@ The UN Security Council meets today for a high-level open debate on Promoting In
 
 ## UN’s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit
 
-date: 2025-07-22, from: United Nations, Climate Change
+date: 2025-07-22, from: United Nations, Top Stories
 
 UN Secretary‑General António Guterres declared the world has “passed the point of no return” on the shift to renewables and implored governments to file sweeping new climate plans before November’s COP30 climate summit in Brazil, saying the fossil fuel era is nearing its end. 
 
@@ -338,6 +698,54 @@ Worrying alerts from United Nations staff in the Gaza Strip who have been fainti
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165457>
+
+---
+
+## Security Council, in unanimous vote, presses nations to resolve disputes peacefully
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+The Security Council on Tuesday adopted a resolution urging all Member States to “utilize effectively” the mechanisms for pacific settlement of disputes as outlined in the United Nations Charter, including “negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement” and other peaceful means of their choice. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165469>
+
+---
+
+## ‘Perfect storm’ of global crises drove years of food price surges: FAO
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+The chief economist of the Food and Agriculture Organization (FAO), Máximo Torero Cullen, previewed its annual State of Food Security and Nutrition in the World (SOFI) report in a briefing on Tuesday to journalists at UN Headquarters in New York. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165468>
+
+---
+
+## Sudan: UN scales up response plan as humanitarian needs rise in Tawila
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+As the humanitarian crisis deepens in Sudan, the UN and partners have revised and scaled up a response plan to support more than 380,000 displaced people in Tawila, North Darfur state.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165467>
+
+---
+
+## UN laments US withdrawal from its educational and cultural agency
+
+date: 2025-07-22, from: United Nations, Top Stories
+
+The United States announced on Tuesday that it will leave the UN Educational, Scientific and Cultural Organization (UNESCO), which will take effect at the end of December 2026.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165466>
 
 ---
 
@@ -442,18 +850,6 @@ The head of Gaza's largest hospital has said 21 children have died due to malnut
 
 ---
 
-## 6-week old infant among 15 Palestinians in Gaza to die of starvation, medics say
-
-date: 2025-07-22, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7591142.1753207554!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-hunger.JPG' alt='Adham carries the body of a six-week-old infant wrapped in white shroud.' width='620' height='349' title='Adham carries the body of his nephew, six-week-old infant Yousef al-Safadi, who died of starvation according to health officials, in Gaza City July 22, 2025. REUTERS/Khamis Al-Rifi      TPX IMAGES OF THE DAY'/><p>A six-week-old infant is among 15 people who have died of starvation in Gaza in the past 24 hours, local health officials said, with malnutrition now killing Palestinians faster than at any point in the 21-month-long war.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/israel-gaza-war-hunger-children-killed-1.7590739?cmp=rss>
-
----
-
 ## Dublin City Council says Molly Malone could be moved
 
 date: 2025-07-22, from: RTÉ News
@@ -546,6 +942,18 @@ date: 2025-07-22, from: CBC, World News
 
 ---
 
+## Water flows again in Tataskweyak Cree Nation as evacuees await return
+
+date: 2025-07-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7578512.1751827955!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tataskweyak-fire.jpg' alt='Smoke beyond a few buildings on a dirt road' width='620' height='349' title='Photo of the fire near Tataskweyak Cree Nation posted on social media by Coun. Ivan Keeper on Sunday, July 6, 2025.'/><p>The community declared states of emergency due to wildfire and failure of the water treatment plant. On Saturday, Tataskweyak chief and council posted on social media that the treatment plant is now functioning properly after repairs to an intake valve.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/tataskweyak-cree-nation-water-plant-1.7590621?cmp=rss>
+
+---
+
 ## Tinp'si'na is still being harvested by Nakota families as a traditional food source and medicine
 
 date: 2025-07-22, from: CBC, Indigenious News
@@ -555,6 +963,18 @@ date: 2025-07-22, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/indigenous/tinip-si-na-harvested-nakoda-families-traditional-food-1.7582242?cmp=rss>
+
+---
+
+## This 17-year-old northern Ontario wrestler looks forward to performing for her home community
+
+date: 2025-07-22, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7590088.1753116156!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/amy-shawbonquit.jpg' alt='A teenage girl standing in a wrestling ring with her arms up.' width='620' height='349' title='Amy Shawbonquit goes by the name AJ Jones when she&apos;s wrestling. The 17-year-old says she enjoys performing in her home community of Atikameksheng Anishnawbek.'/><p>On Tuesday, 17-year-old wrestler Amy Shawbonquit is entering the ring for the second time in her northern Ontario First Nation for Debendaagziwaad Days, an annual event that celebrates Atikameksheng, including the achievements of its citizens.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/sudbury/indigenous-wrestler-teenager-1.7590082?cmp=rss>
 
 ---
 
@@ -1000,7 +1420,7 @@ Badriya collapses from hunger, Khadija dreams of her kitchen and Hiyam longs for
 
 ## Salvaging SDGs still possible, but countries must act now: Guterres
 
-date: 2025-07-21, from: United Nations, Economic Development
+date: 2025-07-21, from: United Nations, Top Stories
 
 Citing new global agreements on pandemic preparedness, ocean protection and development financing, UN Secretary‑General António Guterres said on Monday that recent “signs of momentum” show multilateralism can still deliver. 
 
@@ -1012,7 +1432,7 @@ Citing new global agreements on pandemic preparedness, ocean protection and deve
 
 ## Droughts are causing record devastation worldwide, UN-backed report reveals
 
-date: 2025-07-21, from: United Nations, Climate Change
+date: 2025-07-21, from: United Nations, Top Stories
 
 Worldwide, some of the most widespread and damaging drought events in recorded history have occurred in recent years due to climate change and resource depletion.&nbsp; 
 
@@ -1048,7 +1468,7 @@ After another deadly weekend in Gaza in which at least 67 Palestinians were repo
 
 ## Deadly floods show need for faster, wider warnings, UN agency says
 
-date: 2025-07-21, from: United Nations, Climate Change
+date: 2025-07-21, from: United Nations, Top Stories
 
 From the Himalayas to rural Texas, deadly floods this month have killed hundreds and exposed dangerous gaps in early warning systems, the UN’s weather agency warned, linking the devastation to rapid urbanization, land-use change and a warming climate that traps more moisture in the atmosphere. 
 
@@ -1060,7 +1480,7 @@ From the Himalayas to rural Texas, deadly floods this month have killed hundreds
 
 ## ‘Bet on youth’ to realise Africa’s digital potential, UN deputy chief says
 
-date: 2025-07-21, from: United Nations, Economic Development
+date: 2025-07-21, from: United Nations, Top Stories
 
 Digital innovation and technology remain underfunded and underdeveloped across Africa, according to a report on Africa’s development which was discussed at the General Assembly on Monday.&nbsp;&nbsp; 
 

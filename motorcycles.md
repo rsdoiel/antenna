@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-07-22 14:08:19
+updated: 2025-07-23 06:07:50
 ---
 
 # motorcycles
 
-(date: 2025-07-22 14:08:19)
+(date: 2025-07-23 06:07:50)
+
+---
+
+## This New Sportbike From Former Kove CEO Wants To Take On the Big Leagues
+
+date: 2025-07-23, from: Ride Apart, Electric Motorcycle News
+
+It gets an 820cc triple with 150 horsepower revving all the way to 15,000 rpm. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766568/zxjc-820rr-3-cylinder-sportbike-coming-soon/>
+
+---
+
+## Someone Made a Paul Smart Monkey, and You Have To See It
+
+date: 2025-07-23, from: Ride Apart, Electric Motorcycle News
+
+You know the Fun Size candy bars taste better, right? 
+
+<br> 
+
+<https://www.rideapart.com/news/766564/honda-monkey-paul-smart-125-custom-kit/>
+
+---
+
+## Stay At This Hotel, Get a Free Vespa Scooter
+
+date: 2025-07-23, from: Ride Apart, Electric Motorcycle News
+
+You just also have to fork over $11,000. 
+
+<br> 
+
+<https://www.rideapart.com/news/766641/pelican-hill-hotel-free-vespa-scooter/>
+
+---
+
+## Wireless Charging For E-Bikes Exists. But Could It Work For Motorcycles?
+
+date: 2025-07-23, from: Ride Apart, Electric Motorcycle News
+
+It’s quite literally as easy as charging your phone. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766570/wirless-charging-ebikes-will-it-work-motorcycles/>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-07-22 14:08:16
+updated: 2025-07-23 06:07:47
 ---
 
 # games
 
-(date: 2025-07-22 14:08:16)
+(date: 2025-07-23 06:07:47)
+
+---
+
+## Super Mario Party Jamboree Switch 2 Edition is the console’s best tech demo yet
+
+date: 2025-07-23, updated: 2025-07-22, from: Polygon Website
+
+In the first year of a console’s launch, every new game is a test. Turn the clock back to the PlayStation 5’s early months and you’ll unearth countless conversations about how well Returnal and Ratchet &#38; Clank: Rift Apart realize the shiny new box’s potential. The Nintendo Switch 2 is only at the start of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/615084/super-mario-party-jamboree-tv-switch-2-edition>
+
+---
+
+## Join the Hellfire Club with the Stranger Things D&#038;D game
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+Dungeons &#38; Dragons has been a core part of Stranger Things since season 1, with the heroes of Hawkins using the tabletop role-playing game to name the mysterious enemies they encounter, from the Demogorgon to the Mind Flayer, to Vecna. Now Wizards of the Coast and Netflix are making it easy to get a taste [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615315/dnd-dungeons-dragons-welcome-hellfire-club-stranger-things-game>
+
+---
+
+## Wuchang: Fallen Feathers makes me feel as powerful as its bosses
+
+date: 2025-07-23, updated: 2025-07-22, from: Polygon Website
+
+Wuchang: Fallen Feathers really started to click for me once I learned how to leverage the clash mechanic. There are a lot of gameplay ideas in Wuchang — we’ll get to ‘em more in a bit — but clashing allowed me to hit through enemy attack animations, deflecting most of the damage. With the blademaster [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/615210/wuchang-fallen-feathers-soulslike>
+
+---
+
+## Resort Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+The Resort Layer is the eighth layer in Donkey Kong Bananza and it’s packed full of gigantic fruit cubes. As you explore the fruit-covered beaches of the Resort Layer, you’ll find your normal sized Banandium Gems. Although they’re not as big nor cube-shaped, these bananas are plentiful and will provide you with additional skill points [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Twitch is blowing up the WNBA way beyond Caitlin Clark
+
+date: 2025-07-22, updated: 2025-07-22, from: Polygon Website
+
+The WNBA’s been having a good year. Ratings are up, more people are attending games than ever before, and merch is flying off the shelves. Expansion is on the horizon with new teams joining the roster, and the league just signed a $2.2 billion media rights deal. Casual onlookers might be tempted to attribute this explosive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/614749/twitch-who-are-stud-budz-lynx-courtney-williams-natisha-hiedeman-wnba-caitlin-clark>
 
 ---
 
