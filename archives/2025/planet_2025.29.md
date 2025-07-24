@@ -1,11 +1,306 @@
 ---
 title: planet
-updated: 2025-07-24 06:09:25
+updated: 2025-07-24 14:07:31
 ---
 
 # planet
 
-(date: 2025-07-24 06:09:25)
+(date: 2025-07-24 14:07:31)
+
+---
+
+## Intel says it has completed majority of planned layoffs
+
+date: 2025-07-24, from: RTÉ News
+
+Intel has said that it has completed the majority of the layoffs it announced earlier this year which will reduce its global workforce by around 15%. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0724/1525244-intel-layoffs/>
+
+---
+
+## Alleged would-be Trump assassin to represent himself
+
+date: 2025-07-24, from: RTÉ News
+
+A 59-year-old man accused of planning to assassinate then-presidential candidate Donald Trump at his Florida golf course last year can represent himself at trial, a federal judge has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0724/1525242-trump-alleged-assassin/>
+
+---
+
+## EU sanctions envoy says Ireland must 'beef up' Naval Service
+
+date: 2025-07-24, from: RTÉ News
+
+The EU's Sanctions Envoy has said Ireland must urgently strengthen its Naval Service to better monitor sanctioned Russian vessels operating off the west coast. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0724/1525230-eu-sanctions-envoy-says-ireland-must-beef-up-naval-service/>
+
+---
+
+## WRC finds Fair City photographer was not a freelancer
+
+date: 2025-07-24, from: RTÉ News
+
+RTÉ has failed to have employment rights claims by the former on-set photographer for Fair City thrown out, after the Workplace Relations Commission ruled, for the first time, that a supposed freelancer at the national broadcaster was actually an employee. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0724/1525189-rte-wrc/>
+
+---
+
+## France to recognise Palestinian state - Macron
+
+date: 2025-07-24, from: RTÉ News
+
+France will recognise a Palestinian state at the UN General Assembly in September, President Emmanuel Macron has announced. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0724/1525237-france-palestine-state/>
+
+---
+
+## Call on HSE to make peanut allergy treatment available
+
+date: 2025-07-24, from: RTÉ News
+
+Parents of children with severe peanut allergies are calling on the HSE to make a breakthrough treatment available in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0724/1525235-allergy-treatment/>
+
+---
+
+## Fr Faltas: Gaza hungers and thirsts for justice
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>For months, no food or medicine has entered the Palestinian enclave, while there is a shortage of electricity and the bombings continue. To the already extremely high numbers of those who have lost their lives, those still trapped under the rubble, those who have been injured, and those left orphaned, must now be added the equally painful number of those who have died from hunger.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/fr-ibrahim-faltas-starvation-famine-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/fr-ibrahim-faltas-starvation-famine-gaza.html>
+
+---
+
+## Watch: Tanzanian orphanage cheers on Donegal
+
+date: 2025-07-24, from: RTÉ News
+
+An orphanage in Tanzania has sent their support to the Donegal Gaelic football team ahead of their All-Ireland football final clash against Kerry this Sunday - with a rendition of "Jimmy's Winning Matches". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0724/1525214-tanzanian-orphanage-donegal/>
+
+---
+
+## No mechanical issue seen in fuel switches in deadly Air India crash, FAA admin says
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593301.1753385439!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/people-looking-in-direction-of-wreckage-from-june-2025-air-india-crash.jpg' alt='People are seen looking at wreckage from a June 2025 Air India crash that occurred shortly after takeoff in Ahmedabad, India.' width='620' height='349' title='Onlookers watch wreckage from Thursday&apos;s Air India plane crash lying atop a building in Ahmedabad, India on June 14, 2025. Investigators recovered a black box recorder on June 13 from the crash site of a London-bound passenger jet that ploughed into a residential area of India&apos;s Ahmedabad city, killing at least 265 people on board and on the ground.'/><p>The head of the U.S. Federal Aviation Administration (FAA) said on Thursday the fatal crash last month of an Air India Boeing 787 jet does not appear to have been caused by a mechanical issue or inadvertent movement of the fuel control unit or switches.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/faa-air-india-crash-1.7593295?cmp=rss>
+
+---
+
+## Pro wrestling star Hulk Hogan dies aged 71
+
+date: 2025-07-24, from: RTÉ News
+
+Professional wrestling and entertainment star Hulk Hogan has died at the age of 71, World Wresting Entertainment has said. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0724/1525213-hulk-hogan-dies/>
+
+---
+
+## Russia, Ukraine truce talks overshadowed by new fighting 
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>Russian and Ukrainian officials have met briefly in Istanbul, Turkey, for the latest round of talks aimed at ending Europe’s bloodiest conflict since World War II. The session was overshadowed by renewed fighting between the two countries, killing at least three and injuring more than 30 others.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/russia-ukraine-talks-war-attacks-istanbul.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/russia-ukraine-talks-war-attacks-istanbul.html>
+
+---
+
+## Macron says France will recognize a Palestinian state at UN General Assembly this fall
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593317.1753386222!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/french-president-emmanuel-macron-speaking-to-media-in-berlin.jpg' alt='French President Emmanuel Macron talks to media in Berlin, Germany. ' width='620' height='349' title='French President Emmanuel Macron talks to media prior to talks with German Chancellor Friedrich Merz at Villa Borsig on July 23, 2025 in Berlin, Germany. The two leaders are meeting as Germany, France and the United Kingdom forge a stronger European alliance following U.S. President Donald Trump&apos;s disruption of transatlantic ties. '/><p>France will recognize a Palestinian state at the United Nations general Assembly in September, French President Emmanuel Macron said on Thursday, adding that he hoped it would help bring peace to the region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/france-macron-palestine-state-recognition-1.7593315?cmp=rss>
+
+---
+
+## Govt revenue from taxing fossil fuels expected to drop
+
+date: 2025-07-24, from: RTÉ News
+
+New documents published by the Department of Finance have warned that the Government's revenue from taxing fossil fuels will drop as consumers move to using electric cars and heat pumps. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0724/1525211-government-tax-revenue/>
+
+---
+
+## Asteroid 730495 Costafrancini
+
+date: 2025-07-24, from: Vatican Obervatory
+
+Claudio Costa is an astronomer and tech expert at the VO. His wife Carla Francini holds a master’s degree in math. They both got an asteroid named after... 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/asteroid-730495-costafrancini/>
+
+---
+
+## We ask God to let us live in peace
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>While Suhail Abo Dawood, the young man who collaborates with the Vatican newspaper, "L'Osservatore Romano" was injured in the Israeli raid that struck the Church of the Holy Family in Gaza, other young people who are sheltering at the parish in the Strip are writing to us to share the harsh daily reality caused by the war. One of them is 15-year-old Zaher Farah.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-holy-family-church-israel-war-palestinians.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-holy-family-church-israel-war-palestinians.html>
+
+---
+
+## Elderly woman accused of plotting to kill Netanyahu
+
+date: 2025-07-24, from: RTÉ News
+
+A terminally ill 73-year-old Israeli woman has been charged with plotting to assassinate Prime Minister Benjamin Netanyahu with a rocket launcher, prosecutors have said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0724/1525207-israel-benjamin-netanyahu/>
+
+---
+
+## VAT rate cut for hospitality would cost €867.7m a year
+
+date: 2025-07-24, from: RTÉ News
+
+The Department of Finance has confirmed the cost of reducing the 13.5% VAT rate to 9% for the hospitality sector would be €867.7m in a full year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0724/1525205-vat-rate-cut-for-hospitality-would-cost-867-7m-a-year/>
+
+---
+
+## Restorative justice 'not feasible' in 2019 rape case
+
+date: 2025-07-24, from: RTÉ News
+
+The Probation Service have advised the Central Criminal Court that restorative justice is "not feasible" in the case of a man who raped a Spanish tourist six years ago because he does not accept full responsibility. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0724/1525202-restorative-justice-not-feasible-in-2019-rape-case/>
+
+---
+
+## Watch: What is listeria?
+
+date: 2025-07-24, from: RTÉ News
+
+Amid a precautionary food recall of around 200 ready-to-heat meals linked to an extensive outbreak of listeria, here is a look at what the bacteria is and what its symptoms are. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0724/1525148-what-is-listeria/>
+
+---
+
+## Inquest into Jay Slater death hears he 'had taken drugs'
+
+date: 2025-07-24, from: RTÉ News
+
+Teenager Jay Slater, who went missing in Tenerife last summer, sparking a huge search before his body was found in a ravine, had taken drugs and alcohol on a night out and had a 14-hour walk home, the inquest into his death heard. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0724/1525186-jay-slater-inquest/>
+
+---
+
+## Haitian Bishops sound the alarm on ‘barbaric acts’ in the country
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>In a statement released on 23 July, the bishops warn of the loss of justice, security, and basic necessities of life for the people in Haiti.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/haitian-bishops-conference-sound-the-alarm-on-barbaric-acts.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/haitian-bishops-conference-sound-the-alarm-on-barbaric-acts.html>
+
+---
+
+## Little Shop of Horrors opens for business in Dublin
+
+date: 2025-07-24, from: RTÉ News
+
+With Little Shop of Horrors set to open at the Bord Gáis Energy Theatre in Dublin this weekend, Evelyn O'Rourke headed there to meet the creative team behind the theatre's first in-house production. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0724/1525175-irish-production-of-little-shop-of-horrors-set-to-debut/>
+
+---
+
+## Inuit leader Natan Obed ready to 'meet in the middle' to 'build a better Canada'
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/f9843da7-5469-4739-be89-43dea71b0644,1753377493122/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt=' Natan Obed, president of Inuit Tapiriit Kanatami' width='620' height='349' title='Natan Obed, president of Inuit Tapiriit Kanatami, is co-chairing a meeting with Prime Minister Mark Carney in Inuvik, N.W.T., on Thursday with a focus on the Liberal government&apos;s major projects law.'/><p>Natan Obed, president of Inuit Tapiriit Kanatami, is co-chairing a meeting with Prime Minister Mark Carney in Inuvik, N.W.T., on Thursday with a focus on the Liberal government's major projects law.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6843623?cmp=rss>
 
 ---
 
@@ -53,6 +348,18 @@ The parish priest for Doora-Barefield in Co Clare has said the local community t
 
 ---
 
+## Co Clare community 'devastated' by Fermanagh shooting
+
+date: 2025-07-24, from: RTÉ News
+
+The retired principal of Barefield National School in Co Clare has said he is heartbroken by the news of the deaths of three people in a shooting in Co Fermanagh yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0724/1525163-fermanagh-shooting-tributes/>
+
+---
+
 ## Jeremy Corbyn launches new UK political party
 
 date: 2025-07-24, from: RTÉ News
@@ -65,11 +372,83 @@ Former Labour leader Jeremy Corbyn has announced that he is forming a new politi
 
 ---
 
-## Listeria can survive at 'freezing temperatures' - expert
+## Deep-sea must not turn into ‘Wild West’ of rare minerals exploitation, agency head says
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+Nations are pursuing underwater exploration for highly sought-after rare earth minerals, but the head of the UN’s International Seabed Authority (ISA) said the deep-sea belongs to no single country or corporation as efforts are underway to ensure this rich resource will not become “the Wild West” of exploitation. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165482>
+
+---
+
+## UN forum affirms stronger commitment to achieve sustainable development
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+The High-Level Political Forum on Sustainable Development (HLPF) has concluded at United Nations Headquarters in New York following a week-and-a-half of substantive discussion between Member States, civil society representatives and UN agencies.&nbsp;&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165486>
+
+---
+
+## ‘The UN is here to do the right things’: Envoy Colin Stewart bids farewell but keeps the faith
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+After nearly three decades on the frontlines of UN’s peace operations – from Timor-Leste’s turbulent independence referendum to Western Sahara’s protracted ceasefire and Cyprus’ frozen conflict – Colin Stewart is leaving the Organization with his faith in it intact. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165489>
+
+---
+
+## ‘Famine silently begins to unfold’ in Gaza, UNRWA chief says
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+“People in Gaza are neither dead nor alive, they are walking corpses.”&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165488>
+
+---
+
+## Global collaboration grows to address crises in Gaza, Sudan, Afghanistan
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+Amid growing geopolitical turbulence, the United Nations is deepening its collaboration with the Organization of Islamic Cooperation (OIC) to help address some of the world’s most complex and protracted conflicts, from Gaza and Sudan to Myanmar and Afghanistan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165487>
+
+---
+
+## Torture, threats and arbitrary arrests: UN warns of ‘serious abuses’ against Afghans forced to return
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+Afghans returning to their country face “serious violations” of their human rights committed by the Taliban de facto authorities, according to a United Nations report published on Thursday amid mass deportation campaigns from Iran and Pakistan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165484>
+
+---
+
+## Ex-FSAI chief to oversee Ballymaguire listeria response
 
 date: 2025-07-24, from: RTÉ News
 
-The former CEO of the Food Safety Authority of Ireland has said that listeria can survive at "freezing temperatures," following a precautionary recall notice over ready-to-heat meals after an outbreak of the infection. 
+Ballymaguire Foods, which makes more than 200 products subject to a food safety recall due to fears over the harmful bacteria Listeria monocytogenes, has appointed a former head of the Food Safety Authority of Ireland to lead its response to the situation. 
 
 <br> 
 
@@ -81,7 +460,7 @@ The former CEO of the Food Safety Authority of Ireland has said that listeria ca
 
 date: 2025-07-24, from: RTÉ News
 
-The Irish Farmer's Association has launched its 2025 Farmer Health Check Programme at Ballymahon Livestock Mart in Longford. 
+The Irish Farmer's Association has launched its 2025 Farmer Health Check Programme at Ballymahon Livestock Mart in Co Longford. 
 
 <br> 
 
@@ -101,6 +480,18 @@ A garda has been convicted of assaulting a teenager in Temple Bar four years ago
 
 ---
 
+## 'C-5 fully respects modern treaty,' Carney says ahead of meetings with Inuit leaders
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/7b63a69c-889f-4bc3-a464-42cecf70d02c,1753370229573/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Prime Minister Mark Carney' width='620' height='349' title='Prime Minister Mark Carney was asked by reporters in Inuvik, N.W.T.,  Thursday about concerns from some Inuit leaders that his government&apos;s major projects bill does not respect their modern treaty. '/><p>Prime Minister Mark Carney was asked by reporters in Inuvik, N.W.T., Thursday about concerns from some Inuit leaders that his government's major projects bill does not respect their modern treaty. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6843518?cmp=rss>
+
+---
+
 ## Q2 home completions up 35% compared to last year - CSO
 
 date: 2025-07-24, from: RTÉ News
@@ -110,6 +501,18 @@ Housing completion figures show that 9,214 homes were built in April, May and Ju
 <br> 
 
 <https://www.rte.ie/news/business/2025/0724/1525144-cso-housing-completion-figures/>
+
+---
+
+## Iqaluit resident Virginia Mearns named Canada's Arctic ambassador
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7592862.1753367983!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/virginia-mearns.jpg' alt='Woman in parka looks at camera' width='620' height='349' title=''/><p>Mearns, who lives in Iqaluit, currently serves as senior director of Inuit relations for the Qikiqtani Inuit Association and has previously held senior positions with the government of Nunavut.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/virginia-mearns-named-canada-s-arctic-ambassador-1.7592855?cmp=rss>
 
 ---
 
@@ -134,6 +537,30 @@ Vanessa Whyte, 45, and her two children, 14-year-old James Rutledge and 13-year-
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0724/1525137-fermanagh-shooting/>
+
+---
+
+## Tributes for woman, children killed in Fermanagh shooting
+
+date: 2025-07-24, from: RTÉ News
+
+The three people who died in a shooting in Co Fermanagh have been named as Vanessa Whyte, 45, and her two children, 14-year-old James Rutledge and 13-year-old Sara Rutledge. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0724/1525137-fermanagh-shooting/>
+
+---
+
+## Kneecap say festival ban is a 'political distraction'
+
+date: 2025-07-24, from: RTÉ News
+
+Irish rap group Kneecap said "there is no legal basis" for Hungary banning the act from entering the country ahead of their scheduled appearance at a music festival. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0724/1525135-hungary-bans-kneecap-ahead-of-sziget-festival-show/>
 
 ---
 
@@ -177,11 +604,27 @@ date: 2025-07-24, from: Vatican News
 
 ---
 
-## Russian attack kills three members of Ukrainian family
+## Papua New Guinea receives funds to continue bringing spirit of Laudato si’ to life
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>Boasting more than 5% of the world’s biodiversity on 1% of land area, Papua New Guinea receives payment to continue its work of conserving its forests and reducing CO2 emissions.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/papua-new-guinea-gets-funds-to-continue-care-for-earth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/papua-new-guinea-gets-funds-to-continue-care-for-earth.html>
+
+---
+
+## Russian attacks kill 5, including family, in east Ukraine
 
 date: 2025-07-24, from: RTÉ News
 
-A Russian overnight attack on the border region of Kharkiv killed three members of a Ukrainian family who had earlier fled their homes to escape Russian advances, authorities announced. 
+Russian attacks killed at least five people, including three members of a displaced family, in separate attacks across Ukraine's war-scarred east, Ukrainian authorities have said. 
 
 <br> 
 
@@ -217,11 +660,11 @@ date: 2025-07-24, from: Vatican News
 
 ---
 
-## Family disappointed with sentence for daughter's murderer
+## Family says sentence for daughter's murder 'not justice'
 
 date: 2025-07-24, from: RTÉ News
 
-The family of an Irish woman who was strangled by her then partner in a hotel in Spain two years ago say they are very disappointed with the sentence imposed on him for her murder. 
+The family of an Irish woman who was strangled by her partner in a hotel in Spain two years ago have said they are very disappointed with the prison term imposed on him. 
 
 <br> 
 
@@ -257,7 +700,7 @@ date: 2025-07-24, from: Vatican News
 
 ---
 
-## Thailand deploys fighter jet in border dispute escalation with Cambodia, killing at least 12
+## Thailand deploys fighter jet in border dispute escalation with Cambodia
 
 date: 2025-07-24, from: CBC, World News
 
@@ -305,11 +748,23 @@ Hamas has confirmed it has responded to an Israeli proposal for a 60-day ceasefi
 
 ---
 
-## Plane carrying 49 people crashes in east Russia
+## Israel, US bring delegations home from Gaza truce talks
+
+date: 2025-07-24, from: RTÉ News
+
+US envoy Steve Witkoff has said that the US was joining Israel in pulling negotiators back from Gaza peace talks in the Qatari capital, accusing Hamas of not "acting in good faith". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0724/1525083-israel-gaza/>
+
+---
+
+## Plane crash in eastern Russia kills all 48 people on board
 
 date: 2025-07-24, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7592761.1753349284!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-airplane.JPG' alt='A closeup of a passenger airplane is shown.' width='620' height='349' title='An An-24 aircraft of Angara Airlines is shown landing at the airport of Irkutsk, Russia in an April 2024 file photo. Angara&apos;s An-24 bound for Tynda from Blagoveshchensk in Russia&apos;s Far East crashed on Thursday.'/><p>The wreckage of a plane that crashed while carrying 49 people has been found in Russia's Far East, local emergency services said Thursday.</p> 
+<img src='https://i.cbc.ca/1.7592807.1753361254!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-plane.jpg' alt='Several men in uniforms and ball caps stand near a small aircraft. Some are loading supplies on to the plane.' width='620' height='349' title='In this photo taken from video released by Russia Emergency Situations Ministry press service on Thursday, ministry workers load their equipment into a helicopter prior to leaving for the site of the crashed Russian An-24 passenger plane of the Siberia-based Angara Airlines.'/><p>Forty-eight people have died in a plane crash in Russia's Far East, the head of the country's Amur region said in a statement Thursday.</p> 
 
 <br> 
 
@@ -329,6 +784,18 @@ Improving pricing transparency and giving the Injuries Resolution Board more pow
 
 ---
 
+## Six Nations Polytechnic and Wilfrid Laurier University sign formal agreement
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7592521.1753307161!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/six-nations-polytechnic-and-wilfrid-laurier-university-sign-an-agreement.JPG' alt='People standing and holding documents while looking at the camera. A banner for Six Nations Polytechnic is on one side and a banner for Wilfrid Laurier University is on the other. ' width='620' height='349' title='Officials from Six Nations Polytechnic and Wilfrid Laurier University at a signing ceremony on Monday. Both learning hubs formally signed a memorandum of understanding to bolster academic ties.  '/><p>Six Nations Polytechnic has signed a memorandum of understanding with Wilfrid Laurier University. Pending funding, the agreement will offer more educational options to Indigenous students. The collaboration will also raise awareness of Indigenous culture for non-Indigenous students.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/kitchener-waterloo/six-nations-polytechnic-and-wilfrid-laurier-university-sign-memorandum-of-understanding-1.7592505?cmp=rss>
+
+---
+
 ## Trump was told he is in Epstein files, WSJ reports
 
 date: 2025-07-24, from: RTÉ News
@@ -345,7 +812,7 @@ US Attorney General Pam Bondi told President Donald Trump in May that his name a
 
 date: 2025-07-24, from: RTÉ News
 
-More than 240 so-called 'shadow fleet' vessels linked to Russia, transited through Ireland's EEZ over 450 times this year. Experts warn of environmental risks and sanction evasion, as authorities continue to monitor activity 
+More than 240 so-called 'shadow fleet' vessels linked to Russia, transited through Ireland's EEZ over 450 times this year. Experts warn of environmental risks and sanction evasion, as authorities continue to monitor activity. 
 
 <br> 
 
@@ -377,6 +844,18 @@ Thailand's embassy in Cambodia has urged its nationals to leave the country as t
 
 ---
 
+## Appeals for calm in Thailand, Cambodia border dispute
+
+date: 2025-07-24, from: RTÉ News
+
+Thailand and Cambodia have fought their bloodiest military clashes in more than a decade - with at least 12 people killed - as the two sides battled over a disputed border zone. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0724/1525072-thailand-cambodia/>
+
+---
+
 ## €2bn retrofitting commitment under review, dept says
 
 date: 2025-07-24, from: RTÉ News
@@ -401,11 +880,11 @@ date: 2025-07-24, from: CBC, World News
 
 ---
 
-## Inuit leaders meet Carney in N.W.T. to talk nation-building projects
+## Inuit leader says he's been reassured Bill C-5 won't violate modern treaties
 
 date: 2025-07-24, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7592459.1753302248!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250717.jpg' alt='A man speaks at a podium.' width='620' height='349' title='Prime Minister Mark Carney speaks during the First Nations Summit at the Canadian Museum of History in Gatineau, Que., on Thursday, July 17, 2025. THE CANADIAN PRESS/Spencer Colby'/><p>Prime Minister Mark Carney is meeting Inuit leaders Thursday in Inuvik as he ramps up his outreach to Indigenous communities about his plan to fast-track major nation-building projects.</p> 
+<img src='https://i.cbc.ca/1.7592971.1753370815!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250724.JPG' alt='Three men walk along a gravel path.' width='620' height='349' title='Prime Minister Mark Carney walks with Duane Smith, left, Chair and CEO of the Inuvialuit Regional Corporation, and Natan Obed, right, President of the Inuit Tapiriit Kanatami, to a meeting of the Inuit-Crown Partnership Committee, in Inuvik, N.W.T., on Thursday, July 24, 2025.'/><p>The president of the national Inuit organization says he's been given reassurances that Prime Minister Mark Carney's plan to fast-track major nation-building projects won't violate modern treaties and there will be "full partnership of the Inuit within these processes."</p> 
 
 <br> 
 
@@ -425,11 +904,11 @@ Andy Farrell is backing his Irish stars to deliver a series win, naming an incre
 
 ---
 
-## Taoiseach to travel to Luxembourg for two-day visit
+## Taoiseach, Luxembourg PM discuss EU-US trade
 
 date: 2025-07-23, from: RTÉ News
 
-Taoiseach Micheál Martin is due to travel to Luxembourg to meet the country's Prime Minister Luc Frieden, as part of a two-day visit to the grand duchy. 
+Taoiseach Micheál Martin has said that he hopes a trade deal between the European Union and the United States can be reached before the 1 August deadline set by US President Donald Trump. 
 
 <br> 
 
@@ -458,6 +937,18 @@ More than 130 restaurants around Ireland are creating Palestinian-inspired dishe
 <br> 
 
 <https://www.rte.ie/news/2025/0724/1525027-restaurants-palestine/>
+
+---
+
+## Watch: Restaurants creating 'plates for Palestine'
+
+date: 2025-07-23, from: RTÉ News
+
+More than 130 restaurants around Ireland are creating Palestinian-inspired dishes to raise money for charities working in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0724/1525027-restaurants-palestine/>
 
 ---
 
@@ -919,7 +1410,7 @@ When Denis Jobin, a senior evaluation specialist at the United Nations Children'
 
 ## World Court says countries are legally obligated to curb emissions, protect climate
 
-date: 2025-07-23, from: United Nations, Climate Change
+date: 2025-07-23, from: United Nations, Top Stories
 
 The International Court of Justice (ICJ) in The Hague, Netherlands, issued its advisory opinion on the obligations of States in respect of climate change, read out by the President of the Court, Judge Iwasawa Yuji, on Wednesday.&nbsp; 
 
@@ -957,7 +1448,7 @@ Pregnant women and newborns in Gaza face “catastrophic” conditions, includin
 
 date: 2025-07-23, from: United Nations, Top Stories
 
-The Security Council meets today for its quarterly open debate on the situation in the Middle East, with a focus on the worsening crisis in Gaza. UN Assistant Secretary-General Khaled Khiari is expected to brief on the situation in the war-ravaged enclave where food entry and distribution remain severely restricted, malnutrition is rising, and fuel and shelter supplies are critically scarce. UN News, in coordination with UN Meetings Coverage, brings you live updates from today’s discussions. UN News App users can follow here. 
+The Security Council meets today for its quarterly open debate on the situation in the Middle East, with a focus on the worsening crisis in Gaza. UN Assistant Secretary-General Khaled Khiari is expected to brief on the situation in the war-ravaged enclave where food entry and distribution remain severely restricted, malnutrition is rising and fuel and shelter supplies are critically scarce. UN News, in coordination with UN Meetings Coverage, brings you live updates from today’s discussions. UN News app users can follow here. 
 
 <br> 
 
@@ -969,7 +1460,7 @@ The Security Council meets today for its quarterly open debate on the situation 
 
 date: 2025-07-23, from: United Nations, Top Stories
 
-A second convoy from the Syrian Arab Red Crescent (SARC) reached battered Sweida on Wednesday, the UN Office for the Coordinatin of Humanitarian Affairs (OCHA) reported in its latest update.&nbsp; 
+A second convoy from the Syrian Arab Red Crescent (SARC) reached battered Sweida on Wednesday, the UN Office for the Coordination of Humanitarian Affairs (OCHA) reported in its latest update.&nbsp; 
 
 <br> 
 
@@ -1675,7 +2166,7 @@ US President Donald Trump has decided to pull the country out of the "woke" and 
 
 ## Deep dive into the International Seabed Authority: Why it matters now
 
-date: 2025-07-22, from: United Nations, Climate Change
+date: 2025-07-22, from: United Nations, Top Stories
 
 Protecting underwater ecosystems from the growing interest in rare mineral mining, framing deep-sea laws and building a biobank are among landmark achievements of the UN’s International Seabed Authority (ISA), which is marking its 30th anniversary at its Kingston, Jamaica, headquarters. 
 
@@ -1711,7 +2202,7 @@ The UN Security Council meets today for a high-level open debate on Promoting In
 
 ## UN’s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit
 
-date: 2025-07-22, from: United Nations, Climate Change
+date: 2025-07-22, from: United Nations, Top Stories
 
 UN Secretary‑General António Guterres declared the world has “passed the point of no return” on the shift to renewables and implored governments to file sweeping new climate plans before November’s COP30 climate summit in Brazil, saying the fossil fuel era is nearing its end. 
 
@@ -1783,7 +2274,7 @@ As the humanitarian crisis deepens in Sudan, the UN and partners have revised an
 
 ## UN laments US withdrawal from its educational and cultural agency
 
-date: 2025-07-22, from: United Nations, UN Affairs
+date: 2025-07-22, from: United Nations, Top Stories
 
 The United States announced on Tuesday that it will leave the UN Educational, Scientific and Cultural Organization (UNESCO), which will take effect at the end of December 2026.&nbsp; 
 
@@ -2512,7 +3003,7 @@ After another deadly weekend in Gaza in which at least 67 Palestinians were repo
 
 ## Deadly floods show need for faster, wider warnings, UN agency says
 
-date: 2025-07-21, from: United Nations, Climate Change
+date: 2025-07-21, from: United Nations, Top Stories
 
 From the Himalayas to rural Texas, deadly floods this month have killed hundreds and exposed dangerous gaps in early warning systems, the UN’s weather agency warned, linking the devastation to rapid urbanization, land-use change and a warming climate that traps more moisture in the atmosphere. 
 
@@ -2524,7 +3015,7 @@ From the Himalayas to rural Texas, deadly floods this month have killed hundreds
 
 ## ‘Bet on youth’ to realise Africa’s digital potential, UN deputy chief says
 
-date: 2025-07-21, from: United Nations, Economic Development
+date: 2025-07-21, from: United Nations, Top Stories
 
 Digital innovation and technology remain underfunded and underdeveloped across Africa, according to a report on Africa’s development which was discussed at the General Assembly on Monday.&nbsp;&nbsp; 
 

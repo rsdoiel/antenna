@@ -1,11 +1,240 @@
 ---
 title: going electric
-updated: 2025-07-24 06:09:36
+updated: 2025-07-24 14:07:40
 ---
 
 # going electric
 
-(date: 2025-07-24 06:09:36)
+(date: 2025-07-24 14:07:40)
+
+---
+
+## Elon Musk on Tesla’s new ‘affordable’ electric car: it’s the Model Y
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/new-Model-Y-L-e1753388971803.png?w=1600" /></div><p>Elon Musk has finally confirmed that Tesla’s new ‘affordable’ electric car is just going to be the Model Y in a cheaper format.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="426620" href="https://electrek.co/2025/07/24/elon-musk-tesla-new-affordable-electric-car-model-y/#more-426620" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/elon-musk-tesla-new-affordable-electric-car-model-y/>
+
+---
+
+## This MIT spinout’s electric bricks store heat hotter than lava
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Electrified_Thermal_Solutions_HWI_Vandalia.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>MIT spinout <a href="https://electrifiedthermal.com/" target="_blank" rel="noreferrer noopener">Electrified Thermal Solutions</a> has inked a deal with HWI, a member of Calderys and one of the biggest refractory suppliers in the US, to make electrically conductive firebricks – electric bricks, or E-bricks – that store and deliver extreme heat using renewable electricity.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,renewables" data-layer-viewtype="unknown" data-post-id="426635" href="https://electrek.co/2025/07/24/mit-spinout-electric-bricks-store-heat-hotter-than-lava/#more-426635" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/mit-spinout-electric-bricks-store-heat-hotter-than-lava/>
+
+---
+
+## BYD’s latest electric SUV arrives with a $20K price tag and 375 miles of range
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/BYD-Sealion-06-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Chinese EV maker calls it a “high-energy super SUV.” BYD launched the Sealion 06 EV on Wednesday, a new entry-level electric SUV. It starts at just over $20,000, but <a href="https://electrek.co/guides/byd/">BYD</a> promises that the new Sealion 06 EV won’t feel like a base model, with advanced tech and safety features, fast charging, and a driving range of over 375 miles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="426618" href="https://electrek.co/2025/07/24/byds-new-electric-suv-arrives-with-20k-price-tag-375-mi-range/#more-426618" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/byds-new-electric-suv-arrives-with-20k-price-tag-375-mi-range/>
+
+---
+
+## Some Chinese EV Brands Are Starting To Struggle. That Doesn't Mean Chinese EVs Are Going Away
+
+date: 2025-07-24, from: Inside EVs News
+
+Recent scandals show that the Chinese EV market is under pressure. What does this mean for the future? 
+ 
+
+<br> 
+
+<https://insideevs.com/news/766905/china-market-wonky-trend-analysis/>
+
+---
+
+## EcoFlow July Monthly Madness takes up to 58% off units + bonus savings/rewards, Aventon Ramblas eMTB, Bluetti, more
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/EcoFlow-July-Monthly-Madness-Sale-FI.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/07/24/ecoflow-july-monthly-madness-sale-from-179/">EcoFlow’s eight-day July Monthly Madness Sale</a> that will run through the rest of the month taking up to 58% off power stations with bonus savings, 2x and 3x EcoCredit rewards, and chances to win more from the brand’s Lucky Sping wheel – with <a href="https://9to5toys.com/2025/07/24/ecoflow-july-monthly-madness-sale-from-179/">prices starting from $179</a>. Next, we’re shining a spotlight on the <a href="https://9to5toys.com/2025/07/24/aventon-ramblas-mid-drive-electric-mountain-bike-2599/">Aventon Ramblas Electric Mountain Bike</a> that is retaining its <a href="https://9to5toys.com/2025/07/24/aventon-ramblas-mid-drive-electric-mountain-bike-2599/">$2,599 annual low</a>, alongside other select models from the brand, as well as <a href="https://9to5toys.com/2025/07/23/bluetti-ac2p-power-station-169-low/">Bluetti’s compact AC2P Portable Power Station at a $169 low</a>. Bringing up the rear are two Greenworks deals – one being an off-season snow blower discount while the other offers a 3,000 PSI electric pressure washer combo kit through the rest of the day. All these and more are waiting for you below. Plus, there’s all the hangover savings at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/07/22/bluetti-pioneer-md-ac180t-power-station-499-low/">Bluetti Pioneer MD power station</a> low price, <a href="https://9to5toys.com/2025/07/23/govee-outdoor-garden-lights-2-pack-150/">Govee’s new Outdoor Garden Lights</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="426595" href="https://electrek.co/2025/07/24/ecoflow-july-monthly-madness-aventon-bluetti-more/#more-426595" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/ecoflow-july-monthly-madness-aventon-bluetti-more/>
+
+---
+
+## Kia’s EV sales are closing in on 500,000 with new electric SUVs, sedans, vans, and more
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Kia-EV4-best-selling-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After launching a wave of new electric SUVs, sedans, crossovers, and vans, <a href="https://electrek.co/guides/kia/">Kia</a> is about to hit a big milestone. Kia’s EV series is expected to cross over 500,000 in cumulative global sales this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="426585" href="https://electrek.co/2025/07/24/kias-ev-sales-closing-in-on-500000-new-electric-models/#more-426585" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/kias-ev-sales-closing-in-on-500000-new-electric-models/>
+
+---
+
+## QuantumScape (QS) Q2 2025 results: Expanded partnership with VW plus a new OEM partner
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/QuantumScape-Q2-2025.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Solid-state battery developer QuantumScape has posted its quarterly fiscal report and letter to shareholders for Q2 2025. <a href="https://electrek.co/guides/quantumscape/">QuantumScape’s</a> progress update includes an expanded agreement with Volkswagen Group’s battery business, PowerCo, and a new joint development agreement with an additional OEM.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="powerco,quantumscape,solid-state-batteries,volkswagen-group" data-layer-viewtype="unknown" data-post-id="426586" href="https://electrek.co/2025/07/24/quantumscape-qs-q2-2025-results-expanded-partnership-vw-new-oem-partner/#more-426586" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/quantumscape-qs-q2-2025-results-expanded-partnership-vw-new-oem-partner/>
+
+---
+
+## This Is The One Part Of Tesla's Business That Seems To Be Working
+
+date: 2025-07-24, from: Inside EVs News
+
+Tesla’s Q2 sales decline is its worst in years, but there's a bright spot. 
+
+<br> 
+
+<https://insideevs.com/news/766880/tesla-energy-storage-quiet-boom/>
+
+---
+
+## Mercedes-Benz is already testing solid-state batteries in EVs with +600 miles range
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Mercedes-solid-state-battery-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The “holy grail” of electric vehicle battery tech may be here sooner than you’d think. <a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> is testing EVs with solid-state batteries on the road, promising to deliver over 600 miles of range. Here’s when you can expect to see it hit the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="426566" href="https://electrek.co/2025/07/24/mercedes-benz-already-testing-evs-with-solid-state-batteries/#more-426566" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/mercedes-benz-already-testing-evs-with-solid-state-batteries/>
+
+---
+
+## Tesla puts foot in its mouth: ‘unsupervised self-driving is not solved’, but what about robotaxi?
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has put its foot in its mouth regarding its self-driving efforts during its quarterly conference call last night. The automaker admitted that ‘unsupervised self-driving is not solved’ on its HW4, despite Tesla highlighting how its Robotaxi service in Austin, Texas is using HW4.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426559" href="https://electrek.co/2025/07/24/tesla-foot-mouth-unsupervised-self-driving-not-solved-robotaxi/#more-426559" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/tesla-foot-mouth-unsupervised-self-driving-not-solved-robotaxi/>
+
+---
+
+## Tesla Is In For A Rough Spell. Musk Believes Autonomy Will Save It
+
+date: 2025-07-24, from: Inside EVs News
+
+Meanwhile, Tesla's brand image is absolutely cooked. Plus, The U.S. built fewer than 400 chargers with $7.5 billion in federal funding. 
+
+<br> 
+
+<https://insideevs.com/news/766775/trump-ev-charger-400-installed/>
+
+---
+
+## Another automaker is now turning to more affordable EVs as the competition heats up
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Subaru-affordable-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After seeing the success of rivals, <a href="https://electrek.co/guides/subaru/">Subaru</a> doesn’t want to be left behind. Subaru looks to join Volkswagen, Hyundai, Kia, and several other automakers that are doubling down on more affordable EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="subaru" data-layer-viewtype="unknown" data-post-id="426542" href="https://electrek.co/2025/07/24/another-automaker-turning-to-more-affordable-evs/#more-426542" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/another-automaker-turning-to-more-affordable-evs/>
+
+---
+
+## This electric bike brand will soon start building their e-bikes in New York
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/ebliss-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Utica, New York, is about to become a new hub for electric bikes, or at least that’s the plan, if <a href="https://ebliss.global/">eBliss Global</a> has a say in it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="426548" href="https://electrek.co/2025/07/24/this-electric-bike-brand-will-soon-start-building-their-e-bikes-in-new-york/#more-426548" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/this-electric-bike-brand-will-soon-start-building-their-e-bikes-in-new-york/>
+
+---
+
+## Tesla partners with Sunrun on its electric plan in Texas
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Electric-Sunrun.png?w=1600" /></div><p>Tesla, through its Tesla Electric division, is partnering with Sunrun to offer electric plans to Texas homeowners.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426545" href="https://electrek.co/2025/07/24/tesla-partners-sunrun-electric-plan-texas/#more-426545" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/tesla-partners-sunrun-electric-plan-texas/>
+
+---
+
+## Mercedes’ Solid-State EV Batteries Are Coming By The Decade's End
+
+date: 2025-07-24, from: Inside EVs News
+
+The German automaker’s solid-state batteries promise up to 25% more range compared to regular lithium-ion packs. 
+
+<br> 
+
+<https://insideevs.com/news/766858/mercedes-solid-state-ev-batteries-decade/>
 
 ---
 

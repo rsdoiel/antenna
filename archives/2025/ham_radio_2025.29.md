@@ -1,11 +1,37 @@
 ---
 title: ham radio
-updated: 2025-07-24 06:09:28
+updated: 2025-07-24 14:07:34
 ---
 
 # ham radio
 
-(date: 2025-07-24 06:09:28)
+(date: 2025-07-24 14:07:34)
+
+---
+
+## QSL Manager Joseph L. Arcure, Jr., W3HNK, Passes Away at 91
+
+date: 2025-07-24, from: Amateur Radio Relay League News
+
+<p><i><span>This obituary has been written by and provided to ARRL by </span></i><i><span>The Daily DX</span></i><i><span>.</span></i></p><p><span>With deep respect and gratitude, the amateur radio community commemorates the life of Joseph L. Arcure, Jr., known worldwide by his callsign, W3HNK. Born on Christmas Day, 1933, in Scranton, Pennsylvania, Joe’s life was as vibrant and far-reaching as the radio waves he cherished. He leaves behind a legacy defined by devotion...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/qsl-manager-joseph-l-arcure-jr-w3hnk-passes-away-at-91>
+
+---
+
+## When a ring isn’t really a ring
+
+date: 2025-07-24, from: EDN Blog
+
+<img width="284" height="248" src="https://www.edn.com/wp-content/uploads/TalesfromtheCube_Featured-1.png?fit=284%2C248" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>A system designed to prevent pesky arcade coin theft can’t communicate coin counts for some unknown reason.</p>
+<p>The post <a href="https://www.edn.com/when-a-ring-isnt-really-a-ring/">When a ring isn’t really a ring</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/when-a-ring-isnt-really-a-ring/>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2025-07-24 06:09:28
 
 date: 2025-07-24, from: EDN Blog
 
-<img width="1536" height="782" src="https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?fit=1536%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=1024 1024w" sizes="(max-width: 1536px) 100vw, 1536px" /><p>Find out PCB design strategies to reduce EMI in 800G systems while maintaining high performance in data center and telecom environments.</p>
+<img width="1536" height="782" src="https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?fit=1536%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=1024 1024w" sizes="(max-width: 1536px) 100vw, 1536px" /><p>Find out PCB design strategies to reduce EMI in 800G systems while maintaining high performance in data center and telecom environments.</p>
 <p>The post <a href="https://www.edn.com/pcb-design-tips-for-emi-and-thermal-management-in-800g-systems/">PCB design tips for EMI and thermal management in 800G systems</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

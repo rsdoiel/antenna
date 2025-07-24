@@ -1,11 +1,143 @@
 ---
 title: home
-updated: 2025-07-24 06:09:34
+updated: 2025-07-24 14:07:38
 ---
 
 # home
 
-(date: 2025-07-24 06:09:34)
+(date: 2025-07-24 14:07:38)
+
+---
+
+## Is Running a Yellow Light Against the Law? What Drivers Should Know
+
+date: 2025-07-24, from: Family Handyman Blog
+
+<p>Be prepared next time you're entering an intersection.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/yellow-light-laws/">Is Running a Yellow Light Against the Law? What Drivers Should Know</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/yellow-light-laws/>
+
+---
+
+## What To Do Before You Close On Your New Home
+
+date: 2025-07-24, from: Family Handyman Blog
+
+<p>Congratulations — almost — on buying your new home. Here's how to make sure you get those new keys in your hand without a glitch.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/what-to-do-before-closing-on-new-home/">What To Do Before You Close On Your New Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/what-to-do-before-closing-on-new-home/>
+
+---
+
+## How Courting the Elite Became a Growth Strategy for Midwestern Cities
+
+date: 2025-07-24, from: Dwell
+
+A new ad in New York City stoking fears around Zohran Mamdani asks subway riders if they are "ready to flee NYC" for Ohio. The scheme is part of a long history of incentivizing wealthy individuals to relocate. 
+
+<br> 
+
+<https://www.dwell.com/article/how-courting-the-elite-became-a-growth-strategy-for-midwestern-cities-90fca73e>
+
+---
+
+## Easy Plum Jam Recipe to Can or Freeze (No Pectin, No Peeling)
+
+date: 2025-07-24, from: Homestead and Chil
+
+<p>Come enjoy our delicious and easy plum jam recipe, perfect for canning or the freezer. It's made with fresh plums (no peeling required), low sugar, and without added pectin - and is perfectly thick, sweet and tart!</p>
+<p>The post <a href="https://homesteadandchill.com/easy-plum-jam-recipe-without-pectin/">Easy Plum Jam Recipe to Can or Freeze (No Pectin, No Peeling)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/easy-plum-jam-recipe-without-pectin/>
+
+---
+
+## Edible for Kids: Messy McFarlen’s Tomato Garden
+
+date: 2025-07-24, from: Edible San Fernando Valley
+
+<p>Find the hidden pictures</p>
+<p>The post <a href="https://www.ediblesfvalley.com/experience/edible-for-kids-messy-mcfarlens-tomato-garden/">Edible for Kids: Messy McFarlen’s Tomato Garden</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/experience/edible-for-kids-messy-mcfarlens-tomato-garden/?utm_source=rss&utm_medium=rss&utm_campaign=edible-for-kids-messy-mcfarlens-tomato-garden>
+
+---
+
+## 17 of the Best Fuchsia Varieties to Grow in Your Garden
+
+date: 2025-07-24, from: The Gardener's Path
+
+<p>There are hundreds of fabulous fuchsia varieties out there, from trailing to upright kinds and simple to full and frilly double flowers in multiple colors. The hardest part is choosing just one. This guide has 17 of the best options, from popular types to lesser-known varieties that can handle cold and resist disease. </p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-fuchsia-varieties/">17 of the Best Fuchsia Varieties to Grow in Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-fuchsia-varieties/>
+
+---
+
+## This $1.3M Farmhouse in Upstate New York Is Straight Out of a Storybook
+
+date: 2025-07-24, from: Dwell
+
+Surrounded by a wild apple orchard, the revamped 1800s residence is a slice of pastoral bliss, complete with a converted barn. 
+
+<br> 
+
+<https://www.dwell.com/article/1800s-farmhouse-renovation-nicolas-dutko-chantal-jais-upstate-new-york-real-estate-521c72b9>
+
+---
+
+## Prevent Dahlias from Falling Over: Support Options for Your Plants
+
+date: 2025-07-24, from: The Gardener's Path
+
+<p>Dahlias are a summer delight, their tall stems supporting a rainbow of flowers, from the symmetrical perfection of the pom-poms to the double blooms of the spiky cactus type. However, they need some support to look their best. We’ll go over the best ways to stake your dahlias in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/dahlia-support-stakes/">Prevent Dahlias from Falling Over: Support Options for Your Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/dahlia-support-stakes/>
+
+---
+
+## Wall-to-Wall Clay—Including Animal-Shaped Doorknobs—Recasts This Vietnamese Tube House
+
+date: 2025-07-24, from: Dwell
+
+A mix of traditional ceramics, inventive washes, and green spaces enliven the narrow, three-level plan. 
+
+<br> 
+
+<https://www.dwell.com/article/earthenware-house-naqi-and-partners-traditional-clay-finishes-family-renovation-eb8eee08>
+
+---
+
+## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
+
+date: 2025-07-24, from: Sunset Magazine - Living in the West
+
+A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
 
 ---
 
@@ -109,18 +241,6 @@ date: 2025-07-23, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/states-with-carcinogens-in-drinking-water/>
-
----
-
-## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
-
-date: 2025-07-23, from: Sunset Magazine - Living in the West
-
-A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
 
 ---
 

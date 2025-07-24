@@ -1,11 +1,206 @@
 ---
 title: pacific
-updated: 2025-07-24 06:09:28
+updated: 2025-07-24 14:07:34
 ---
 
 # pacific
 
-(date: 2025-07-24 06:09:28)
+(date: 2025-07-24 14:07:34)
+
+---
+
+## International Seabed Authority launches inquiry into deep sea mining firm The Metals Company
+
+date: 2025-07-24, from: 
+
+The International Seabed Authority Council has launched an inquiry into "non-compliance" by deep sea mining front-runner The Metals Company. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567855/international-seabed-authority-launches-inquiry-into-deep-sea-mining-firm-the-metals-company>
+
+---
+
+## David Apatang sworn in as CNMI’s 10th governor
+
+date: 2025-07-24, from: 
+
+The 77-year-old Vietnam War veteran succeeds the late governor Arnold Palacios, who suddenly passed on Wednesday after being medically evacuated to Guam. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567970/david-apatang-sworn-in-as-cnmi-s-10th-governor>
+
+---
+
+## Ni-Vanuatu youth celebrate landmark ICJ ruling as a new era for climate change justice
+
+date: 2025-07-24, from: 
+
+Student Vepaiamele says the international court's advisory opinion also affirms countries' legal obligations to combat climate change and protect human rights. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567969/ni-vanuatu-youth-celebrate-landmark-icj-ruling-as-a-new-era-for-climate-change-justice>
+
+---
+
+## George 'Fiji' Veikoso dies aged 55 in Suva
+
+date: 2025-07-24, from: 
+
+Fijian-born recording artist and Pacific music legend George "Fiji" Veikoso has died at the age of 55 in Suva, his family has confirmed. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/world/567931/george-fiji-veikoso-dies-aged-55-in-suva>
+
+---
+
+## UH Mānoa ranked No. 4 in U.S., No. 28 in world for sustainability funding innovation
+
+date: 2025-07-24, from: University of Hawaiʻi News
+
+<p>The ranking recognizes universities that adopt a variety of innovative strategies to secure long-term financial support for sustainability-focused initiatives.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/24/world-university-rankings-for-innovation-2025/"><abbr>UH</abbr> Mānoa ranked <abbr>No</abbr>. 4 in U.S., <abbr>No</abbr>. 28 in world for sustainability funding innovation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/24/world-university-rankings-for-innovation-2025/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## From Saipan to the world, SIS joins the global elite with record AP Scholar achievements
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+(SIS) — Saipan International School proudly announces that 29 of its students have been recognized as AP Scholars by the College Board for the 2024–2025 academic year — the highest number in the school’s history. This milestone highlights the school’s continued leadership in academic achievement both within the CNMI and in the broader Pacific region. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/from-saipan-to-the-world-sis-joins-the-global-elite-with-record-ap-scholar-achievements/article_57d68c26-0113-420e-98b2-16d2c928504f.html>
+
+---
+
+## Microsoft to help France showcase Paris’ Notre-Dame Cathedral in digital replica
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+(Reuters) — Microsoft is teaming up with the French government to create a digital replica of Paris' Notre-Dame Cathedral, France's most visited monument, the U.S. tech company's president, Brad Smith, said on Monday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/microsoft-to-help-france-showcase-paris-notre-dame-cathedral-in-digital-replica/article_170b2d78-f0ff-48f2-ae62-fed7f3e3c0cf.html>
+
+---
+
+## Lexus Guam hosts elegant evening of style, innovation, and community
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+TAMUNING, Guam (Special Advertising Feature) —  Atkins Kroll, Inc. Guam, an Inchcape Company, Lexus Guam, a division of Atkins Kroll and the island’s premier destination for luxury mobility, hosted an exclusive evening of elegance and innovation at its Lexus Leather &amp; Luxury event held last month, at the Lexus showroom. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/lexus-guam-hosts-elegant-evening-of-style-innovation-and-community/article_902ddcde-d896-4ec3-8943-3580316f4a8c.html>
+
+---
+
+## CUC, government to finalize utility arrears agreement
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+ASSISTANT Attorney General Tina Ngo, legal counsel for the Commonwealth Utilities Corporation, informed the federal court that the new Memorandum of Understanding concerning the utility arrears of the CNMI government and the Commonwealth Healthcare Corporation will be executed within this month. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cuc-government-to-finalize-utility-arrears-agreement/article_d23177a4-a619-4e9b-a264-9ce28720e04a.html>
+
+---
+
+## Poetry
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_4f4a6faa-addf-4c28-8f05-c4e6af98439d.html>
+
+---
+
+## CNMI Labor invites community to annual job fair
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+THE CNMI Department of Labor will host the CNMI Job Fair today, Friday, July 25, 2025, at the Marianas Beach Resort Ballroom from 9 a.m. to 3 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-labor-invites-community-to-annual-job-fair/article_3a60174d-af82-496a-b6fa-41802187834e.html>
+
+---
+
+## Krosa moves north; storm watch remains for NMI
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+(CNMI Homeland Security and Emergency Management) — Based on information received from the National Weather Service in Tiyan, Guam and compiled at the CNMI Emergency Operations Center-State Warning Point, Tropical Depression Krosa was west of Saipan and moving north. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/krosa-moves-north-storm-watch-remains-for-nmi/article_81dd6d99-dd01-4ea7-b0fd-d75e33f538ce.html>
+
+---
+
+## OAG holds in-person office training with expert-led webinar
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+(Office of the Attorney General) — Attorney General Edward Manibusan, in partnership with the National Association of Attorneys General conducted a professional office training session on July 10 and 11, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/oag-holds-in-person-office-training-with-expert-led-webinar/article_c3014252-e702-4071-8b6a-6b6602ae62d5.html>
+
+---
+
+## Green flag on Tinian
+
+date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Tinian’s recreational beaches and storm water drainages this week as part of the regularly scheduled sampling.  None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards.  Therefore, BECQ assigns all of the sampled beach sites a green flag.  Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-tinian/article_6dcd33ba-68b2-41a3-a04e-c65122d0acc0.html>
+
+---
+
+## RRE celebrates 75th
+
+date: 2025-07-24, from: Marshal Islands Journal
+
+<p>Robert Reimers Enterprises 75th anniversary celebration culminated in a day of fun and excitement at the business’ Uliga compound last Saturday. Canoe sailing and paddling races happened on the lagoon, while on shore a night market offered up food, beauty products and clothing. Laura farmers did well with their variety of local food that was [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rre-celebrates-75th/">RRE celebrates 75th</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rre-celebrates-75th/>
 
 ---
 
@@ -446,18 +641,6 @@ The post <a href="https://www.hawaii.edu/news/2025/07/23/dark-dwarfs-secrets-of-
 
 ---
 
-## International Seabed Authority launches inquiry into deep sea mining firm The Metals Company
-
-date: 2025-07-23, from: 
-
-The International Seabed Authority Council has launched an inquiry into "non-compliance" by deep sea mining front-runner The Metals Company. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/567855/international-seabed-authority-launches-inquiry-into-deep-sea-mining-firm-the-metals-company>
-
----
-
 ## Getting More Locally Grown Food in School Meals INSIGHTS ON PBS HAWAIʻI
 
 date: 2025-07-23, from: INSIGHTS ON PBS HAWAIʻI
@@ -507,18 +690,6 @@ The post <a href="https://www.hawaii.edu/news/2025/07/23/image-of-the-week-loi/"
 <br> 
 
 <https://www.hawaii.edu/news/2025/07/23/image-of-the-week-loi/>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-07-23, updated: 2025-07-23, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

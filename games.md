@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-24 06:09:32
+updated: 2025-07-24 14:07:37
 ---
 
 # games
 
-(date: 2025-07-24 06:09:32)
+(date: 2025-07-24 14:07:37)
+
+---
+
+## Battle Beast roars his way onto the Invincible VS roster
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Skybound Games revealed yet another addition to the Invincible VS roster, and it’s none other than Battle Beast. Robert Kirkman showcased the new character during his panel at Comic-Con International in San Diego, featuring a trailer built around Battle Beast’s brute strength and thirst for war. Snapshots from the teaser show off the intergalactic terror [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/615597/battle-beast-roars-his-way-onto-the-invincible-vs-roster>
+
+---
+
+## Percy Jackson and the Olympians season 2 trailer promises war, monsters, and a cyclops brother
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Season 2 of Disney Plus’ Percy Jackson and the Olympians got its first look on Thursday at San Diego Comic-Con, revealing what Percy will get up to in the new live-action adaptation of The Sea of Monsters, the second book in Rick Riordan’s Greek mythical fantasy. Percy Jackson and the Olympians season 2 will pick [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/616013/percy-jackson-season-2-disney-plus>
+
+---
+
+## Critical Role’s The Legend of Vox Machina is getting a fifth and final season
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Ahead of the fourth season even airing, The Legend of Vox Machina from Critical Role, Amazon MGM, and Titmouse has been renewed for season 5. What may be somewhat of a downer for fans of Vox Machina to hear is that it will also be the final season, concluding the adventures of this ragtag group [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/615723/critical-role-legend-of-vox-machina-season-5-final>
+
+---
+
+## Adult games are forcing the game industry into a spiritual crisis
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+itch.io is the latest storefront to curb the sale of adult and “NSFW” content on its platform due to pressure from payment processors like Visa and Mastercard. As of Thursday, the indie-focused platform has de-indexed adult content such that it is no longer visible or searchable on the site. Some pages for adult games on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615910/itchio-steam-sex-adult-games-delisting-pulled-vice-controversy>
+
+---
+
+## Star Trek: Strange New Worlds stars say the show’s new horror direction ‘was a bit overwhelming’
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+A core part of the successful formula that drives Star Trek: Strange New Worlds is the choice to alternate between heavy science fiction drama and zany romance. But the start of season 3 leans into a frontier the optimistic franchise has often avoided: horror. The season premiere continues the season 2 cliffhanger finale, focusing on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/615947/star-trek-strange-new-worlds-cast-interview-horror-elements>
+
+---
+
+## Critical Role’s The Mighty Nein animated series premieres this November
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Critical Role, the multiplatform and multimedia entertainment phenomenon made up of talented actors across the entertainment industry, has announced at San Diego Comic-Con the release date of their newest upcoming Prime Video show, The Mighty Nein. News of the date of the premiere was revealed during Critical Role’s SDCC panel, where eager fans got a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/615649/critical-roles-the-mighty-nein-animated-series-premieres-this-november>
+
+---
+
+## Assassin’s Creed Shadows update boosts level cap, adds new game plus
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Ubisoft has released a summer roadmap for Assassin’s Creed Shadows that includes plans for a July 29 update that will increase the game’s level cap, introduce new game plus, and add new trophies and achievements for players to hunt down. Another update is planned for early September, and a third is set to go live [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615888/assassins-creed-shadows-update-roadmap-level-cap-new-game-plus>
+
+---
+
+## Netflix’s Sandman adaptation added a romance to save money on CGI
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Netflix’s The Sandman stays fairly faithful to Neil Gaiman’s comic book series, though showrunner Allan Heinberg changed some of the source material in order to make protagonist Dream of the Endless (Tom Sturridge) more likeable, and to cut down on side plots. In the second half of the second and final season, which launched on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/615889/sandman-netflix-changes-season-2-romance-johanna-constantine-corinthian>
+
+---
+
+## Clair Obscur&#8217;s gorgeous soundtrack looks (and sounds) worth the $145
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Clair Obscur: Expedition 33 is a leading contender for 2025’s Game of the Year, thanks in large part to its innovative gameplay and fascinating story, which are accentuated by a soundtrack that absolutely rips. And now you can own this OST on vinyl and CD, though you’re going to have to wait a bit. Laced [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/615761/clair-obscur-expedition-33-soundtrack-ost-vinyl-preorder-date-release>
 
 ---
 

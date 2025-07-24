@@ -1,11 +1,123 @@
 ---
 title: north america
-updated: 2025-07-24 06:09:26
+updated: 2025-07-24 14:07:32
 ---
 
 # north america
 
-(date: 2025-07-24 06:09:26)
+(date: 2025-07-24 14:07:32)
+
+---
+
+## Why Getting the Trump-Epstein Files Matters for Democracy
+
+date: 2025-07-24, from: The Contrarian
+
+The government&#8217;s credibility is hanging by a thread. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-getting-the-trump-epstein-files>
+
+---
+
+## The Monster Behind the Big Beautiful Bill
+
+date: 2025-07-24, from: The Contrarian
+
+Rich people&#8217;s insatiable hunger will make the rest of us hungrier 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-monster-behind-the-big-beautiful>
+
+---
+
+## Abandoning Public Media Is a Threat to Public Health 
+
+date: 2025-07-24, from: The Contrarian
+
+Defunding the Corporation for Public Broadcasting endangers every American community 
+
+<br> 
+
+<https://contrarian.substack.com/p/abandoning-public-media-is-a-threat>
+
+---
+
+##  Venture Capital’s New Bailout: Your 401(k) 
+
+date: 2025-07-24, from: The Lever News
+
+ Private equity firms owe their investors $1.5 trillion, and the Trump administration is set to offer them your 401(k) to fill the gap.  
+
+<br> 
+
+<https://www.levernews.com/venture-capitals-new-bailout-your-401-k/>
+
+---
+
+## Reform Refill: Has Scott Wiener Convinced Gov. Newsom to Rein in Prescription Middlemen?
+
+date: 2025-07-24, from: Capital and Main
+
+<p>Why a state senator may finally win his battle against powerful pharmacy benefit managers.</p>
+<p>The post <a href="https://capitalandmain.com/reform-refill-has-scott-wiener-convinced-gov-newsom-to-rein-in-prescription-middlemen">Reform Refill: Has Scott Wiener Convinced Gov. Newsom to Rein in Prescription Middlemen?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/reform-refill-has-scott-wiener-convinced-gov-newsom-to-rein-in-prescription-middlemen>
+
+---
+
+## We will have to save ourselves
+
+date: 2025-07-24, from: The Contrarian
+
+People&#8212;without weapons, without face coverings&#8212;are showing up to protect their fellow human beings who are deserving of respect, whether they have a document or not. 
+
+<br> 
+
+<https://contrarian.substack.com/p/we-will-have-to-save-ourselves>
+
+---
+
+## Our entire healthcare system is in jeopardy: Bruce Siegel on rural hospitals, Medicaid, & the social safety net
+
+date: 2025-07-24, from: The Contrarian
+
+"This is the biggest step backward for the safety net and just for caring for our fellow people I think in American history." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169073241/cb2a3c3c450c235800743acb0741d7d4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169073241/cb2a3c3c450c235800743acb0741d7d4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/our-entire-healthcare-system-is-in>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-24, from: The Contrarian
+
+Thursday: Billboards bring the Epstein files message home, plus Good Trouble lives on protests in Colorado, California, New Jersey, Tennessee, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with Contrarians 7/24
+
+date: 2025-07-24, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 7/24 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-724>
 
 ---
 
@@ -180,18 +292,6 @@ A recording from Coffee with Contrarians LIVE 7/23
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-the-contrarians-0723>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-23, from: The Contrarian
-
-Wednesday: Good Trouble Lives On protests in Texas, Tennessee, Ohio, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

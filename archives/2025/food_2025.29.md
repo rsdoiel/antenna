@@ -1,11 +1,95 @@
 ---
 title: food
-updated: 2025-07-24 06:09:37
+updated: 2025-07-24 14:07:40
 ---
 
 # food
 
-(date: 2025-07-24 06:09:37)
+(date: 2025-07-24 14:07:40)
+
+---
+
+## The Best Cocktail Books, According to Our Editors (2025)
+
+date: 2025-07-24, from: Bon Appetet
+
+These cocktail books can teach you everything you need to know about mixing a good drink. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cocktail-books>
+
+---
+
+## Ninja Creami Review: Is This Viral Ice Cream Maker Worth It?
+
+date: 2025-07-24, from: Bon Appetet
+
+It may not follow the rules of traditional ice cream making, but the Ninja Creami’s creamy results won me over after a week of testing. 
+
+<br> 
+
+<https://www.bonappetit.com/story/ninja-creami-review>
+
+---
+
+## Pistachio Pesto
+
+date: 2025-07-24, from: Taste of Home
+
+A delicious twist on the classic basil spread, Sicilian pistachio pesto has exceptional flavor and a lovely green color. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pistachio-pesto/>
+
+---
+
+## Westrock Coffee Opens Massive Pod Factory in Arkansas
+
+date: 2025-07-24, from: Daily Coffee News
+
+<div><img width="620" height="375" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-620x375.jpg" class="attachment-large size-large wp-post-image" alt="Westrock Coffee Company &#8211; Demand" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-620x375.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-300x181.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-768x464.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Central Arkansas-based Westrock Coffee Company just expanded its manufacturing footprint with the opening of a 525,000-square-foot facility in Conway devoted to coffee pod production.&#160; With 130,000 square feet dedicated... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/24/westrock-coffee-opens-massive-pod-factory-in-arkansas/>
+
+---
+
+## Build-Outs Of Coffee: Urban Sailor Coffee In Park City, UT
+
+date: 2025-07-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Urban Sailor Coffee in Park City, Utah. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-urban-sailor-coffee-in-park-city-ut-348076.html>
+
+---
+
+## Placer Roasting Opens a Place for Tasting in California Gold Country
+
+date: 2025-07-24, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Placer Coffee Roasting cafe Rocklin CA 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>There&#8217;s gold in them thar beans, and a new Northern California roaster called Placer Roasting Company is extracting it for guests inside its new roastery tasting room. About a half... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/24/placer-roasting-opens-a-place-for-tasting-in-california-gold-country/>
+
+---
+
+## The 6 Best Canned Wines to Buy Right Now
+
+date: 2025-07-24, from: Bon Appetet
+
+Looking for quality juice in a cooler-friendly format? These wines are the answer. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-canned-wines>
 
 ---
 
@@ -73,7 +157,7 @@ More than just a beautiful flower garland, lei links Native Hawaiians to their l
 
 date: 2025-07-24, from: Bon Appetet
 
-Hawai‘i's beloved fried chicken is crispy, sweet, and savory. 
+Hawai‘i’s beloved fried chicken is crispy, sweet, and savory. 
 
 <br> 
 
@@ -81,7 +165,7 @@ Hawai‘i's beloved fried chicken is crispy, sweet, and savory.
 
 ---
 
-## How Hawai‘i Chefs Helped After the Lahaina Wildfires
+## How Hawai'i Chefs Helped After the Lahaina Wildfires
 
 date: 2025-07-24, from: Bon Appetet
 
@@ -132,6 +216,18 @@ date: 2025-07-24, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/dunkin-fall-menu-2025/>
+
+---
+
+## Frozen Whipped Lemonade
+
+date: 2025-07-23, from: Taste of Home
+
+Summer fun just got a little sweeter with this refreshing frozen whipped lemonade. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/frozen-whipped-lemonade/>
 
 ---
 
@@ -187,7 +283,7 @@ Simmered apple juice thickens the filling of this Golden Delicious apple pie int
 
 date: 2025-07-23, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Pret A Manger Storefront" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Longtime quick-service food and coffee executive Felipe Athayde was recently tapped by the UK-based chain Pret A Manger to lead operations in the U.S. as president. Athayde, who formerly led... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Pret A Manger Storefront" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Longtime quick-service food and coffee executive Felipe Athayde was recently tapped by the UK-based chain Pret A Manger to lead operations in the U.S. as president. Athayde, who formerly led... 
 
 <br> 
 
@@ -211,7 +307,7 @@ We sampled pints from Jeni’s, Trader Joe’s, Häagen-Dazs, and more.
 
 date: 2025-07-23, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-620x465.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers boat" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The chairs of the recently inaugurated United States Congressional Coffee Caucus issued a letter with bipartisan support to the head of the U.S. trade agency urging coffee to be... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-620x465.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers boat" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-boat.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The chairs of the recently inaugurated United States Congressional Coffee Caucus issued a letter with bipartisan support to the head of the U.S. trade agency urging coffee to be... 
 
 <br> 
 
@@ -259,7 +355,7 @@ date: 2025-07-23, from: The Sprudge
 
 date: 2025-07-23, from: Daily Coffee News
 
-<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-620x435.jpg" class="attachment-large size-large wp-post-image" alt="Studying coffee production" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; With a Porsche or some other ritzy vintage car usually parked inside, a new coffee shop in Sacramento, California, called Chloé Cà Phê + Roastery is seeking to develop... 
+<div><img width="620" height="435" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-620x435.jpg" class="attachment-large size-large wp-post-image" alt="Studying coffee production" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-620x435.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Studying-coffee-production-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; With a Porsche or some other ritzy vintage car usually parked inside, a new coffee shop in Sacramento, California, called Chloé Cà Phê + Roastery is seeking to develop... 
 
 <br> 
 

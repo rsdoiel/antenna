@@ -1,11 +1,198 @@
 ---
 title: columns
-updated: 2025-07-24 06:09:30
+updated: 2025-07-24 14:07:36
 ---
 
 # columns
 
-(date: 2025-07-24 06:09:30)
+(date: 2025-07-24 14:07:36)
+
+---
+
+##  Carbon chauvinism, perhaps coined by Carl Sagan, refers to the narrow-minded view... 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047206-carbon-chauvinism-perhaps>
+
+---
+
+## Three critical stories that are getting buried by Epsteingate
+
+date: 2025-07-24, from: Robert Reich's blog
+
+We have little or no chance of rectifying the most serious wrongs if we&#8217;re captivated by the most exciting. 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-we-should-be-talking-about-imho>
+
+---
+
+## Tabs vs. Spaces: The War Is Over
+
+date: 2025-07-24, from: mrusme blog
+
+The _great indentation war_ is over and it seems like we have a clear winner. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/tabs-vs-spaces-the-war-is-over/>
+
+---
+
+##  Gorgeous New Covers for Nabokov by Na Kim 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/gorgeous-new-covers-for-nabokov-by-na-kim>
+
+---
+
+## Wayback 0.1 debuts as early Wayland server for X11 diehards
+
+date: 2025-07-24, updated: 2025-07-24, from: Liam Proven's articles at the Register
+
+<h4>Complete with new website – but the software&#39;s still alpha level stuff, so be careful</h4>
+      <p>Wayback 0.1 is out, the first preliminary release of the new Wayland display server whose announcement we reported a few weeks ago.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/24/wayback_01_released/>
+
+---
+
+##  The full official trailer for Tron: Ares. I want this to be... 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047213-the-full-official-trailer>
+
+---
+
+##  Artist Amy Sherald has canceled her solo show at the Smithsonian&#8217;s National... 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047218-artist-amy-sherald-cancel>
+
+---
+
+##  Slow Light 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/slow-light>
+
+---
+
+##  Six Films Better Than the Books They&#8217;re Based On. Including Jurassic Park,... 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047212-six-films-better-than-the>
+
+---
+
+## ★ ICEBlock, an iOS Exclusive
+
+date: 2025-07-24, updated: 2025-07-24, from: Daring Fireball
+
+To maintain anonymity and store zero user data, there is and can be no web app version of ICEBlock. There is and can be no Android version. Only iOS supports the security and privacy features for ICEBlock to offer what it does, the way it does. 
+
+<br> 
+
+<https://daringfireball.net/2025/07/iceblock>
+
+---
+
+##  They&#8217;re Made Out of Meat, a classic sci-fi short story by Terry... 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047205-theyre-made-out-of-meat>
+
+---
+
+## July 23, 2025
+
+date: 2025-07-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169145394/16916e95d8259b6872dfc64a886faf78.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169145394/16916e95d8259b6872dfc64a886faf78.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-23-2025-a33>
+
+---
+
+## Meta: Slow Blogging Ahead
+
+date: 2025-07-24, from: David Rosenthal's blog
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Titivillus.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1042" data-original-width="945" height="200" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Titivillus.jpg" width="181" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Scribe#/media/File:Titivillus.jpg">Source</a></td></tr></tbody></table>
+There will be fewer than usual posts to this blog for a while. I have to write another talk for an intimidating audience, similar to the audience for my 2021 <a href="https://blog.dshr.org/2021/12/talk-at-ttivanguard-conference.html"><i>Talk at TTI/Vanguard Conference</i></a>. That one took a lot of work but a few months later it became my <a href="https://blog.dshr.org/2022/02/ee380-talk.html"><i>EE380 Talk</i></a>. That in turn became by far my most-read post, having so far gained 522K views. The EE380 talk eventually led to the invitation for the upcoming talk. Thus I am motivated to focus on writing this talk for the next few weeks.<br />
+<br />
+Wikipedia's <a href="https://en.wikipedia.org/wiki/Scribe#/media/File:Titivillus.jpg">description of the image</a> is:<br />
+<blockquote>
+  <a href="https://en.wikipedia.org/wiki/Titivillus">Titivillus</a>, a <a href="https://en.wikipedia.org/wiki/Demon">demon</a> said to introduce errors into the work of scribes, besets a scribe at his desk (14th century illustration)
+</blockquote> 
+
+<br> 
+
+<https://blog.dshr.org/2025/07/meta-slow-blogging-ahead.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-24, from: Dave Winer's Scripting News)
+
+BTW, this <a href="https://www.cnn.com/2025/07/24/politics/trump-powell-federal-reserve-visit-renovation">business</a> with Trump and the Fed is almost exactly what I <a href="http://scripting.com/2025/04/17.html#a164921">wanted</a> Obama to do with Garland when McConnell refused to hold hearings. Walk him over to the Supreme Court, unlock his office, swear him in and get back to work. Sometimes you just do it. The Dems weren't pragmatic that way. 
+
+<br> 
+
+<http://scripting.com/2025/07/24.html#a142158>
+
+---
+
+##  Glacier funerals have been held in countries like Iceland, the US, and... 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047210-glacier-funerals-have-bee>
 
 ---
 
@@ -43,7 +230,7 @@ You can <a href="https://imgs.scripting.com/2025/07/24/postscreenshot.png">see</
 
 **@Dave Winer's Scripting News** (date: 2025-07-24, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/29/hope.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://mastodon.social/@scripting@daveverse.org/114907962089898612">Question</a>: I have a site with a well developed set of categories, I've added to it carefully over a few months, it covers most of the topics I write about. Another site has a small set of categories. I write all my WordPress posts in the same editor, and could easily set it up so that all categories were available to me in every site I post to. The question: Is that a good practice in the world of WordPress? I noticed that categories are given global ID's so if I use a category like "movies" it will have the same ID as yours has on your sites. I love this idea of a global namespace for categories, and see it as something that could be adopted by sites written in any other writing environment. Anyway, if you have a moment to comment, I'd appreciate your ideas. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/29/hope.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://mastodon.social/@scripting@daveverse.org/114907962089898612">Question</a>: I have a site with a well developed set of categories, I've added to it carefully over a few months, it covers most of the topics I write about. Another site has a small set of categories. I write all my WordPress posts in the same editor, and could easily set it up so that all categories were available to me in every site I post to. The question: Is that a good practice in the world of WordPress? I noticed that categories are given global ID's so if I use a category like "movies" it will have the same ID as yours has on your sites. I love this idea of a global namespace for categories, and see it as something that could be adopted by sites written in any other writing environment. Anyway, if you have a moment to comment, I'd appreciate your ideas. Update: Jeremy Herve, a WordPress developer <a href="https://mastodon.social/@jeremy@herve.bzh/114910020439748559">explains</a>. 
 
 <br> 
 
@@ -1233,7 +1420,7 @@ date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
 
 ## Mad King Watch: Trump Threatens to Interfere With Stadium Deal Unless Washington Commanders Change Name Back to ‘Redskins’
 
-date: 2025-07-21, updated: 2025-07-21, from: Daring Fireball
+date: 2025-07-21, updated: 2025-07-24, from: Daring Fireball
 
  
 

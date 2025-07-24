@@ -1,11 +1,229 @@
 ---
 title: socal north
-updated: 2025-07-24 06:09:27
+updated: 2025-07-24 14:07:33
 ---
 
 # socal north
 
-(date: 2025-07-24 06:09:27)
+(date: 2025-07-24 14:07:33)
+
+---
+
+## Application Period Extended for City’s Planning Commissioner Position
+
+date: 2025-07-24, from: City of Santa Clarita
+
+<p>The City of Santa Clarita encourages interested and qualified residents to apply for an unscheduled vacancy position on the City’s Planning Commission. The unexpired term ends December 31, 2026. The deadline for submitting an application and letters of recommendation to the City Clerk’s Office has been extended to 5:00 p.m. on Thursday, August 14, 2025. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/24/application-period-extended-for-citys-planning-commissioner-position/">Application Period Extended for City&#8217;s Planning Commissioner Position</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/24/application-period-extended-for-citys-planning-commissioner-position/>
+
+---
+
+## Kaiser is latest SoCal medical provider to pause youth gender-affirming surgeries
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+The decision is the latest blow to these services since the Trump administration began seeking to ban them nationwide six months ago. 
+
+<br> 
+
+<https://laist.com/news/health/kaiser-socal-medical-provider-pause-youth-gender-affirming-surgeries>
+
+---
+
+## LA to appeal federal ruling that the city failed in its commitment to shelter unhoused people
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+The city will have to argue why the 9th Circuit Court of Appeals should overturn the order. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-to-appeal-federal-ruling-that-the-city-failed-in-its-commitment-to-shelter-unhoused-people>
+
+---
+
+## You can't outrun a bad diet. Food — not lack of exercise — fuels obesity, study finds
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+One explanation for the rise in obesity in industrialized countries is that people burn fewer calories than people in countries where obesity is rare. A major study finds that's not the case. 
+
+<br> 
+
+<https://laist.com/news/health/you-cant-outrun-a-bad-diet-food-not-lack-of-exercise-fuels-obesity-study-finds>
+
+---
+
+## Long Beach mayor unveils immigrant aid package, tariff relief fund in proposed budget
+
+date: 2025-07-24, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Uncertain about whether it will receive federal grants and fearing a consumer spending slowdown, the city is also moving toward leaner spending.</p>
+<p>The post <a href="https://lbpost.com/news/immigrant-aid-package-tariff-relief-budget-mayor">Long Beach mayor unveils immigrant aid package, tariff relief fund in proposed budget</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigrant-aid-package-tariff-relief-budget-mayor>
+
+---
+
+## Thinking about landscaping in a fire-prone area? Here are key factors to consider
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+Native plants, succulents and mulch are important considerations. But you can also improve fire resilience by following some guidelines about spacing and irrigation. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/landscaping-in-fire-prone-southern-california>
+
+---
+
+## The wildest ride at the OC Fair is the emotional rollercoaster of competitive table setting
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+What is competitive table setting? And why do people do it? We talked to some veteran tablescapers and got some answers. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/oc-fair-competitive-table-setting>
+
+---
+
+## D Line will reopen Saturday as first phase of extension nears completion
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+A months-long closure helped crews connect underground computer systems and improve ventilation on the subway formerly known as the Purple Line. 
+
+<br> 
+
+<https://laist.com/news/transportation/d-line-opening>
+
+---
+
+## 1-year-old accidentally killed by mother moving her car, Long Beach police say
+
+date: 2025-07-24, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the tragedy occurred in the carport area of an apartment complex.</p>
+<p>The post <a href="https://lbpost.com/news/crime/1-year-old-accidentally-killed-by-mother-parking-car-long-beach-police-say">1-year-old accidentally killed by mother moving her car, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/1-year-old-accidentally-killed-by-mother-parking-car-long-beach-police-say>
+
+---
+
+## Cal State is still in the red despite tuition increase and spending cuts
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+Cal State has a budget shortfall that now totals $2.3 billion. It has laid off workers, cut classes and says it can’t give pay raises. 
+
+<br> 
+
+<https://laist.com/news/education/cal-state-is-still-in-the-red-despite-tuition-increase-and-spending-cuts>
+
+---
+
+## Wrestling legend Hulk Hogan dies at 71
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+According to Florida authorities, Terry Bollea, whose stage name was Hulk Hogan, died Thursday morning after a heart attack. 
+
+<br> 
+
+<https://laist.com/news/wrestling-legend-hulk-hogan-dies-at-71>
+
+---
+
+## Appeals court upholds block against Trump's effort to end birthright citizenship
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+The ruling keeps a block on the Trump administration from denying citizenship to children born to people who are in the United States illegally or temporarily. 
+
+<br> 
+
+<https://laist.com/news/appeals-court-upholds-block-against-trumps-effort-to-end-birthright-citizenship>
+
+---
+
+## Trump's EPA now says greenhouse gases don't endanger people
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+The Trump administration wants to reverse a 2009 EPA finding that greenhouse gases endanger people. The finding is the basis for much of the United States' climate change regulations. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trumps-epa-now-says-greenhouse-gases-dont-endanger-people>
+
+---
+
+## What borrowers should know about student loan changes in the One Big Beautiful Bill
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+Now that President Donald Trump has signed Republicans' massive overhaul of the federal student loan program, we explain what's set to change. 
+
+<br> 
+
+<https://laist.com/news/education/what-borrowers-should-know-about-student-loan-changes-in-the-one-big-beautiful-bill>
+
+---
+
+## Man arrested on suspicion of throwing rocks at immigration agents during Paramount standoff
+
+date: 2025-07-24, from: Longbeach Post
+
+<figure><img width="1024" height="506" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-1024x506.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-768x380.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-192x95.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t-400x198.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090824/07jun25-ice-7194-386444-nxs4uxqa-814167-TZN8UC8t.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The incident, which was caught on video, garnered nationwide attention.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-arrested-on-suspicion-of-throwing-rocks-at-immigration-agents-during-paramount-standoff">Man arrested on suspicion of throwing rocks at immigration agents during Paramount standoff</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-arrested-on-suspicion-of-throwing-rocks-at-immigration-agents-during-paramount-standoff>
+
+---
+
+## Best things to do this weekend in LA and SoCal
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+Check out the Long Beach Dragon Boat Festival, Spring Awakening in Anaheim, Christmas in July at the Baked Potato, DineLA kicks off and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/things-to-do-weekend-los-angeles-southern-california-july-25-27>
+
+---
+
+## A small team of mentors is changing teens’ lives. First, they had to save their program
+
+date: 2025-07-24, from: Longbeach Post
+
+<figure><img width="1024" height="705" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ-1024x705.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ-1024x705.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ-300x207.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ-768x529.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ-157x108.jpg 157w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ-400x275.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18115446/16jul25-7-16-25-center-9-786051-tik4mphh-390007-zzTDz4MJ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A North Long Beach nonprofit called Whole Systems Learning has built a reputation for never turning its back on young people in trouble.</p>
+<p>The post <a href="https://lbpost.com/news/mentors-north-long-beach-whole-systems-learning-save-program">A small team of mentors is changing teens&#8217; lives. First, they had to save their program</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/mentors-north-long-beach-whole-systems-learning-save-program>
 
 ---
 
@@ -49,7 +267,7 @@ The earnings report follows a 13.5% drop in sales this quarter, compared to the 
 
 date: 2025-07-23, from: Longbeach Post
 
-<figure><img width="1024" height="517" src="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="lola&#039;s" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-595x300.jpg 595w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1110x559.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-768x387.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1536x774.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-2048x1033.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1320x666.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="517" src="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="lola&#039;s" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-595x300.jpg 595w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1110x559.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-768x387.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1536x774.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-2048x1033.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1320x666.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Long Beach has among the highest rates of HIV per capita in California, according to state data. </p>
 <p>The post <a href="https://lbpost.com/news/health/long-beach-ends-its-free-hiv-and-sti-testing-citing-federal-cuts">Long Beach ends its free HIV and STI testing, citing federal cuts</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -88,7 +306,7 @@ President Donald Trump had called for the release of grand jury testimony relate
 
 date: 2025-07-23, from: Longbeach Post
 
-<figure><img width="1024" height="672" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-1024x672.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-1024x672.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-300x197.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-768x504.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="672" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-1024x672.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-1024x672.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-300x197.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-768x504.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The "Olympic wage" increase is scheduled to kick in before the 2028 Summer Games arrive in Southern California.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-sets-29-50-minimum-wage-for-airport-convention-center-workers">Long Beach sets $29.50 minimum wage for airport, convention center workers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

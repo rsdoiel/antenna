@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-07-24 06:09:31
+updated: 2025-07-24 14:07:37
 ---
 
 # writing
 
-(date: 2025-07-24 06:09:31)
+(date: 2025-07-24 14:07:37)
+
+---
+
+## The Biggest Screenwriting Takeaways from 'Jaws @ 50: The Definitive Inside Story'
+
+date: 2025-07-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-biggest-screenwriting-takeaways-from-jaws-at-50-the-definitive-inside-story" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Steven%20Spielberg%20posing%20in%20the%20mouth%20of%20Jaws%20in%20the%20reflection%20of%20a%20camera%20lens.png" alt="Steven Spielberg posing in the mouth of Jaws in the reflection of a camera lens. Photo credit: IMDb" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Fifty years ago, <a href="https://www.imdb.com/name/nm0000229/?ref_=tt_ov_1_1">Steven Spielberg</a>’s <a href="https://www.imdb.com/title/tt0073195/" style="font-style: italic;">Jaws</a>(1975) became a cultural phenomenon. The film took the box office by storm in the summer of 1975, becoming the highest grossing movie ever made at the time and receiving <a href="https://www.imdb.com/title/tt0073195/awards/">four Academy Award nominations</a> including Best Picture, and three wins.&nbsp;<br><br>Based on <a href="https://www.imdb.com/name/nm0001940/">Peter Benchley</a>’s <a href="https://www.nytimes.com/2024/07/12/books/booksupdate/jaws-peter-benchley-50.html">hit novel</a>, <span style="font-style: italic;">Jaws</span> tells the story of a New York City cop, played by <a href="https://www.imdb.com/name/nm0001702/">Roy Scheider</a>, who moves his family to a quiet beach community, only to be confronted by the threat of a killer great white shark. Despite its infamously troubled production, plagued by technical issues with the mechanical shark and the perils of shooting on the open ocean, when the movie hit screens it captured the global imagination, defining the summer blockbuster and launching Spielberg into the stratosphere.&nbsp;<br><br>To celebrate the 50th anniversary, Disney has released <a href="https://www.imdb.com/title/tt32743685/companycredits/?ref_=tt_dt_cmpy"><span style="font-style: italic;">Jaws @ 50: The Definitive Inside Story</span></a>, a new documentary now showing on <a href="https://www.disneyplus.com/">Disney Plus</a>, <a href="https://www.hulu.com/welcome">Hulu</a> and the <a href="https://www.nationalgeographic.com/tv/">National Geographic Channel</a>.&nbsp;<br><br>The documentary comes from famed behind-the-scenes filmmaker and writer, <a href="https://www.imdb.com/name/nm0100522/">Laurent Bouzereau</a>, who has made many docs on Spielberg’s films dating back to the 1990s, and more recently wrote the book <a href="https://www.simonandschuster.com/books/Spielberg-The-First-Ten-Years/Laurent-Bouzereau/9781647225179"><span style="font-style: italic;">Spielberg: The First Ten Years</span></a> (2023) and directed last year’s acclaimed <a href="https://www.imdb.com/title/tt26420234/">Music By John Williams</a>.&nbsp;<br><br>An all-star cast of famed filmmakers, including <a href="https://www.imdb.com/name/nm0000184/">George Lucas</a>, <a href="https://www.imdb.com/name/nm0868219/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_guillermo%2520del">Guillermo Del Toro</a>, <a href="https://www.imdb.com/name/nm1443502/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_jordan%2520peele">Jordan Peele</a>, <a href="https://www.imdb.com/name/nm0000116/">James Cameron</a> and <a href="https://www.imdb.com/name/nm0001752/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_steven%2520soderberg">Steven Soderbergh</a>, a self-professed Jaws obsessive who’s long been in the process of <a href="https://deadline.com/2025/05/steven-spielberg-jaws-50th-steven-soderbergh-interview-1236386883/">writing a book about the film’s production</a>, join Spielberg, the Benchley family, screenwriter <a href="https://www.imdb.com/name/nm0331956/">Carl Gottlieb</a> and many others, to reflect on the notoriously troubled process of making the film.&nbsp;<br><br>Among highlights is a look into the origins of the film’s story and the construction of its classic screenplay, from first draft to final cut.&nbsp;<br><br>Here are some key screenwriting takeaways from <span style="font-style: italic;">Jaws @ 50</span>.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-biggest-screenwriting-takeaways-from-jaws-at-50-the-definitive-inside-story>
 
 ---
 

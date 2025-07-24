@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-24 06:09:35
+updated: 2025-07-24 14:07:39
 ---
 
 # motorcycles
 
-(date: 2025-07-24 06:09:35)
+(date: 2025-07-24 14:07:39)
+
+---
+
+## Is Singapore the Most Expensive Place in the World to Register a Motorcycle?
+
+date: 2025-07-24, from: Ride Apart, Electric Motorcycle News
+
+What would you say to registration costs that might be higher than your new bike's MSRP? 
+
+<br> 
+
+<https://www.rideapart.com/news/766802/singapore-coe-2025-almost-10k/>
 
 ---
 
