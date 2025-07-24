@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-07-23 14:08:00
+updated: 2025-07-24 06:09:35
 ---
 
 # motorcycles
 
-(date: 2025-07-23 14:08:00)
+(date: 2025-07-24 06:09:35)
+
+---
+
+## HJC’s Brand New Austin, Texas MotoGP Helmet Is Sick, Too Bad We Can’t Have It
+
+date: 2025-07-24, from: Ride Apart, Electric Motorcycle News
+
+It’s now on sale in Europe, but last time we checked, the Austin GP was held in Texas…which isn’t in Europe. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766685/hjc-rpha12-red-bull-austin-gp2-helmet-europe/>
+
+---
+
+## This Honda Motorcycle Was Reimagined With a Legendary Livery, and It Can Be Yours
+
+date: 2025-07-24, from: Ride Apart, Electric Motorcycle News
+
+It’s still well and truly a legendary, street-legal sportbike. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766682/mick-doohan-honda-vfr800-replica-for-sale/>
+
+---
+
+## EV Motorcycle Maker UBCO Has Been Saved, But It's Changing It's Mission
+
+date: 2025-07-24, from: Ride Apart, Electric Motorcycle News
+
+The startup found some new investors, but things aren't staying the same. 
+
+<br> 
+
+<https://www.rideapart.com/news/766771/ubco-electric-motorcycles-saved-bankruptcy-new-zealand/>
+
+---
+
+## KTM Announces When It'll Launch New Bikes, but Have Healthy Skepticism
+
+date: 2025-07-24, from: Ride Apart, Electric Motorcycle News
+
+Let's be optimistic but realistic. 
+
+<br> 
+
+<https://www.rideapart.com/news/766679/ktm-off-road-2026-line-up-timeline/>
 
 ---
 
@@ -59,7 +109,7 @@ You know the Fun Size candy bars taste better, right?
 
 ---
 
-## Stay At This Hotel, Get a Free Vespa Scooter
+## Stay At This Hotel, Get a Free Vespa Scooter With It's Villa Experience
 
 date: 2025-07-23, from: Ride Apart, Electric Motorcycle News
 

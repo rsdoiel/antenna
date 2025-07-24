@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-23 14:07:59
+updated: 2025-07-24 06:09:34
 ---
 
 # libraries
 
-(date: 2025-07-23 14:07:59)
+(date: 2025-07-24 06:09:34)
+
+---
+
+## The Myth of the Academic Summer Break (And Other Lies We Tell Ourselves)
+
+date: 2025-07-24, from: Scholarly Kitchen
+
+<p>Summer has officially become a time to catch up on writing, editing, reviewing, hiring, upskilling, compliance, and all the administrative work that you kept putting off throughout the year. Is the idea of "summer break" just a lie we tell ourselves?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/24/the-myth-of-the-academic-summer-break-and-other-lies-we-tell-ourselves/">The Myth of the Academic Summer Break (And Other Lies We Tell Ourselves)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/24/the-myth-of-the-academic-summer-break-and-other-lies-we-tell-ourselves/>
 
 ---
 

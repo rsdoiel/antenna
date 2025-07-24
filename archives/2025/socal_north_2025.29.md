@@ -1,15 +1,143 @@
 ---
 title: socal north
-updated: 2025-07-23 14:07:52
+updated: 2025-07-24 06:09:27
 ---
 
 # socal north
 
-(date: 2025-07-23 14:07:52)
+(date: 2025-07-24 06:09:27)
 
 ---
 
-## Trump aims to get rid of AI regulations in a push to win the AI race
+## California adds a new grade for 4-year-olds this fall — but parents still don’t know about it
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+In 2021, California launched an ambitious plan to make transitional kindergarten available by the 2025-26 school year, creating a brand new grade level. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-transitional-kindergarten-awareness-research-stanford>
+
+---
+
+## Edison pledges payouts for Eaton Fire survivors as lawsuits loom
+
+date: 2025-07-24, updated: 2025-07-24, from: The LAist
+
+The details of the payouts are expected to be released later in the summer and come as the utility faces lawsuits over the possibility that its equipment sparked the fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-edison-compensation-program-eaton-fire-survivors>
+
+---
+
+## Tesla profits slide 16%, despite Elon Musk's pivot back to his companies
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+The earnings report follows a 13.5% drop in sales this quarter, compared to the same period a year ago. 
+
+<br> 
+
+<https://laist.com/news/tesla-profits-slide-16-despite-elon-musks-pivot-back-to-his-companies>
+
+---
+
+## Long Beach ends its free HIV and STI testing, citing federal cuts
+
+date: 2025-07-23, from: Longbeach Post
+
+<figure><img width="1024" height="517" src="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="lola&#039;s" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-595x300.jpg 595w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1110x559.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-768x387.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1536x774.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-2048x1033.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1320x666.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach has among the highest rates of HIV per capita in California, according to state data. </p>
+<p>The post <a href="https://lbpost.com/news/health/long-beach-ends-its-free-hiv-and-sti-testing-citing-federal-cuts">Long Beach ends its free HIV and STI testing, citing federal cuts</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/long-beach-ends-its-free-hiv-and-sti-testing-citing-federal-cuts>
+
+---
+
+## Supreme Court allows Trump to fire 3 Democrats on consumer safety panel
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+The decision further limits a 90-year-old high-court precedent that was aimed at protecting the independence of certain regulatory agencies. 
+
+<br> 
+
+<https://laist.com/news/supreme-court-allows-trump-to-fire-3-democrats-on-consumer-safety-panel>
+
+---
+
+## Judge denies release of Jeffrey Epstein transcripts in Florida
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+President Donald Trump had called for the release of grand jury testimony related to Epstein. Two judges in New York also are weighing requests from the Justice Department to unseal grand jury transcripts. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judge-denies-release-of-jeffrey-epstein-transcripts-in-florida>
+
+---
+
+## Long Beach sets $29.50 minimum wage for airport, convention center workers
+
+date: 2025-07-23, from: Longbeach Post
+
+<figure><img width="1024" height="672" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-1024x672.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-1024x672.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-300x197.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-768x504.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-165x108.jpg 165w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB-400x262.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/17083309/lgb-workers-1029-1200x787-763420-jl66tsme-498943-HLrRKhBB.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The "Olympic wage" increase is scheduled to kick in before the 2028 Summer Games arrive in Southern California.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-sets-29-50-minimum-wage-for-airport-convention-center-workers">Long Beach sets $29.50 minimum wage for airport, convention center workers</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-sets-29-50-minimum-wage-for-airport-convention-center-workers>
+
+---
+
+## Long Beach suspends free HIV and STI testing services, citing federal funding cuts
+
+date: 2025-07-23, updated: 2025-07-24, from: The LAist
+
+Long Beach’s longtime free mobile testing clinic and many outreach programs will no longer be available to its residents, including 4,000 people living with HIV. 
+
+<br> 
+
+<https://laist.com/news/health/long-beach-suspends-free-hiv-and-sti-testing-services-citing-federal-funding-cuts>
+
+---
+
+## Theatre Extempore Presents “Stupid F**king Bird!”
+
+date: 2025-07-23, from: City of Santa Clarita
+
+<p>Theatre Extempore will present its inaugural full-length production, Stupid F**king Bird, at The MAIN (24266 Main Street) in Old Town Newhall from Friday, July 25 through Sunday, August 10, as part of the annual Santa Clarita Shakespeare Festival. Written by Aaron Posner and “sort of based” on Anton Chekhov’s The Seagull, this sharp, darkly comedic [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/23/theatre-extempore-presents-stupid-fking-bird/">Theatre Extempore Presents &#8220;Stupid F**king Bird!&#8221;</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/23/theatre-extempore-presents-stupid-fking-bird/>
+
+---
+
+## Doctor pleads guilty in Matthew Perry ketamine overdose case
+
+date: 2025-07-23, updated: 2025-07-23, from: The LAist
+
+Dr. Salvador Plasencia also plans to voluntarily surrender his medical license, according to his legal team. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/matthew-perry-ketamine-overdose-case-doctor-pleads-guilty>
+
+---
+
+## Trump says fewer regulations needed to win the AI race
 
 date: 2025-07-23, updated: 2025-07-23, from: The LAist
 
@@ -49,7 +177,7 @@ The U.S. Olympic and Paralympic Committee tells the federations overseeing swimm
 
 date: 2025-07-23, from: Longbeach Post
 
-<figure><img width="696" height="405" src="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png 696w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-186x108.png 186w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-730x424.png 730w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1110x645.png 1110w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-768x446.png 768w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1536x893.png 1536w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-2048x1191.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="696" height="405" src="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva.png 696w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-300x175.png 300w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-186x108.png 186w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-400x233.png 400w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-730x424.png 730w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1110x645.png 1110w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-768x446.png 768w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-1536x893.png 1536w, https://img.lbpost.com/wp-content/uploads/2020/04/13115256/Sheriff-Alex-Villanueva-2048x1191.png 2048w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Villanueva lost the top job to Luna in the 2022 race.</p>
 <p>The post <a href="https://lbpost.com/news/former-sheriff-alex-villanueva-will-challenge-sheriff-robert-luna-in-upcoming-primary">Former Sheriff Alex Villanueva will challenge Sheriff Robert Luna in upcoming primary</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -124,7 +252,7 @@ California will get the federal money withheld for after-school programs, but sp
 
 date: 2025-07-23, from: Longbeach Post
 
-<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1536x1152.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1110x833.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/01/16173236/lakewood-police-1536x1152.jpg 1536w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The training exercise was planned for the east wing of the center, between Kay Jewelers and Ulta Beauty.</p>
 <p>The post <a href="https://lbpost.com/news/sheriffs-training-exercise-set-for-lakewood-center-mall-expect-loud-noises-emergency-vehicles">Sheriff&#8217;s training exercise set for Lakewood Center mall; expect loud noises, emergency vehicles</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -147,11 +275,11 @@ It’s not just that it’s dark and people are asleep. Urban sprawl, confirmati
 
 ---
 
-## This UC Irvine professor’s great great grandfather wrote a ballad about mass deportations — nearly 100 years ago
+## This nearly 100-year-old ballad tells the story of mass deportations. Is history repeating itself?
 
-date: 2025-07-23, updated: 2025-07-23, from: The LAist
+date: 2025-07-23, updated: 2025-07-24, from: The LAist
 
-Indiscriminate raids. Removal of U.S. citizens. Pressure to leave the country. For evolutionary biologist Adriana Darielle Mejía Briscoe, it feels like history’s repeating itself. 
+Indiscriminate raids. Removal of U.S. citizens. Pressure to leave the country. For UC Irvine professor and evolutionary biologist Adriana Darielle Mejía Briscoe, the answer is yes. 
 
 <br> 
 

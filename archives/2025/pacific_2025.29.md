@@ -1,11 +1,448 @@
 ---
 title: pacific
-updated: 2025-07-23 14:07:53
+updated: 2025-07-24 06:09:28
 ---
 
 # pacific
 
-(date: 2025-07-23 14:07:53)
+(date: 2025-07-24 06:09:28)
+
+---
+
+## New Zealand not part of 'trifecta' with Cook Islands and China, Winston Peters says
+
+date: 2025-07-24, from: 
+
+Foreign Minister Winston Peters has rejected the idea that the Cook Islands had effectively described New Zealand as a third party in its agreement with China. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567937/new-zealand-not-part-of-trifecta-with-cook-islands-and-china-winston-peters-says>
+
+---
+
+## Gabbard releases new documents targeting Obama administration, as Justice dept. forms task force
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Justice Department announced on Wednesday the formation of a task force to look into unsubstantiated allegations by President Donald Trump that President Barack Obama and his aides ordered an investigation into the 2016 Trump campaign&#8217;s connections to Russia to destroy Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/gabbard-releases-new-documents-targeting-obama-administration-as-justice-dept-forms-task-force/>
+
+---
+
+## Wanted E. Hawaii woman believed to be in Arizona with daughter
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Police report that a East Hawaii mother wanted for questioning in a custodial interference investigation involving her 6-year-old daughter is believed to be in Arizona with the child.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/hawaii-news/wanted-e-hawaii-woman-believed-to-be-in-arizona-with-daughter/>
+
+---
+
+## Puna man pleads guilty to sexually assaulting minors, child porn
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>A 44-year-old Mountain View man pleaded guilty Monday to charges in connection with multiple sexual assaults of minors and promotion of child abuse.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/hawaii-news/puna-man-pleads-guilty-to-sexually-assaulting-minors-child-porn/>
+
+---
+
+## Judge denies request to unseal Epstein grand jury transcripts in Florida
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge in Florida on Wednesday denied a request by the Trump administration to release grand jury transcripts from an investigation into disgraced financier Jeffrey Epstein, stymieing efforts by President Donald Trump to blunt criticism from many of his supporters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/judge-denies-request-to-unseal-epstein-grand-jury-transcripts-in-florida/>
+
+---
+
+## Attorney General told Trump his name appeared in Epstein files
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Attorney General Pam Bondi informed President Donald Trump in the spring that his name appeared in the Jeffrey Epstein files, according to three people with knowledge of the exchange.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/attorney-general-told-trump-his-name-appeared-in-epstein-files/>
+
+---
+
+## Feral animals bill advances
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>A bill that would ban the feeding of feral or stray animals such as cats or pigs on Hawaii County property passed its first reading Wednesday by the County Council, despite opposition by a large majority of in-person testifiers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/hawaii-news/feral-animals-bill-advances/>
+
+---
+
+## 74 acres of Hilo farmland protected in perpetuity
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>O.K. Farms, Hawaii Land Trust and Trust for Public Land on Tuesday announced the successful completion of the Pu&#8216;u&#8216;eo Mauka conservation easement, permanently protecting more than 74 acres of productive agricultural land near Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/community/74-acres-of-hilo-farmland-protected-in-perpetuity/>
+
+---
+
+## Facing outcry over corruption, Zelenskyy says he will reverse course
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Facing growing domestic pressure, President Volodymyr Zelenskyy of Ukraine on Wednesday said he would reverse course on his crackdown on the country&#8217;s independent anti-corruption agencies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/facing-outcry-over-corruption-zelenskyy-says-he-will-reverse-course/>
+
+---
+
+## News in brief for July 24
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Macrons sue right-wing podcaster Candace Owens for defamation</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/news-in-brief-for-july-24/>
+
+---
+
+## It’s time to experience Volcano; popular annual festival returns this weekend
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Another summer means another two-day opportunity to enjoy and revere all things Volcano.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/entertainment/its-time-to-experience-volcano-popular-annual-festival-returns-this-weekend/>
+
+---
+
+## HIUW announces inaugural Givers Gala
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island United Way has announced its inaugural Givers Gala, an evening dedicated to honoring pillars of Hawaii Island&#8217;s nonprofit community.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/community/hiuw-announces-inaugural-givers-gala/>
+
+---
+
+## US senators propose bill aimed at shortening airport security lines
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A bipartisan group of U.S. senators on Wednesday proposed new airport baggage screening systems and technology updates at checkpoints to improve security and shorten wait times as air travel hits records. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/us-senators-propose-bill-aimed-at-shortening-airport-security-lines/>
+
+---
+
+## Grief and anger from Idaho victims’ families: ‘Do you feel anything at all?’
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>A judge Wednesday sentenced the killer of four Idaho college students to life in prison with no chance of parole. The killer, Bryan Kohberger, declined to speak or explain his motives &#8212; something that victims&#8217; family members, close followers of the case and even President Donald Trump had wanted him to do.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/grief-and-anger-from-idaho-victims-families-do-you-feel-anything-at-all/>
+
+---
+
+## Aid groups blame Israel’s Gaza restrictions for ‘mass starvation’
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; More than 100 aid agencies and rights groups, including Save the Children and Doctors Without Borders, warned Wednesday that &#8220;mass starvation&#8221; was spreading across the Gaza Strip, adding to calls for Israel to lift restrictions on humanitarian aid to the besieged enclave.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/aid-groups-blame-israels-gaza-restrictions-for-mass-starvation/>
+
+---
+
+## Top UN court says treaties compel wealthy nations to curb global warming
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>THE HAGUE &#8212; The United Nations&#8217; highest court on Wednesday told wealthy countries they must comply with their international commitments to curb pollution or risk having to pay compensation to nations hard hit by climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/top-un-court-says-treaties-compel-wealthy-nations-to-curb-global-warming/>
+
+---
+
+## Wrongly deported migrant Abrego scores legal wins, but remains behind bars
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Kilmar Abrego, the migrant whose wrongful deportation to El Salvador made him a symbol of President Donald Trump&#8217;s aggressive immigration policies, won two key victories in U.S. courts on Wednesday but will remain behind bars on human smuggling charges for now. In dual rebukes to the Trump administration after Abrego was brought back to the U.S. to face the charges, one federal judge ruled that he must be released on bail, and another ruled that authorities must give his lawyers three days&#8217; notice before they try to deport him again to a different country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/wrongly-deported-migrant-abrego-scores-legal-wins-but-remains-behind-bars/>
+
+---
+
+## New CNMI leaders sworn into  office
+
+date: 2025-07-24, from: Pacific Island Times
+
+David Apatang and Dennis Mendiola/Photo courtesy of the Office of the CNMI Governor David Apatang takes his oath before CNMI  Chief... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/new-cnmi-leaders-sworn-into-office>
+
+---
+
+## Guam labor department recovered $8.8 million in PUA overpayment
+
+date: 2025-07-24, from: Pacific Island Times
+
+By Pacific Island Times News Staff As part of a continued federal mandate following the conclusion of the Pandemic Unemployment... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-labor-department-recovered-8-8-million-in-pua-overpayment>
+
+---
+
+## MIFV tuna deals for locals
+
+date: 2025-07-24, from: Marshal Islands Journal
+
+<p>The Marshall Islands Fishing Venture processing facility and dock in Delap is a hub of activity from early morning to late at night. Behind the scenes is a major coordination operation dovetailing the arrival of longline fishing boats with the Asia Pacific Airlines flight dates so that yellowfin and bigeye tuna can be offloaded on [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mifv-tuna-deals-for-locals/">MIFV tuna deals for locals</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/mifv-tuna-deals-for-locals/>
+
+---
+
+## Council of Chiefs nixes US request for Palau to admit asylum seekers
+
+date: 2025-07-24, from: Pacific Island Times
+
+Traditional leaders advise Whipps not to sign the draft agreement for resettlement of third-country nationals Koror, Palau. Photo by... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/council-of-chiefs-nixes-us-request-for-palau-to-admit-asylum-seekers>
+
+---
+
+## A victory rooted in the Pacific: ICJ ruling signals legal shift on climate obligations
+
+date: 2025-07-24, from: Pacific Island Times
+
+By Ron Rocky Coloma States and major emitters have binding legal obligations to cut greenhouse gas emissions, protect human rights and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-victory-rooted-in-the-pacific-icj-ruling-signals-legal-shift-on-climate-obligations>
+
+---
+
+## USP Celebrates Historic ICJ Advisory Opinion, Honours Pacific Youth Leadership
+
+date: 2025-07-24, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) proudly welcomes the release of the International Court...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-celebrates-historic-icj-advisory-opinion-honours-pacific-youth-leadership/">USP Celebrates Historic ICJ Advisory Opinion, Honours Pacific Youth Leadership</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-celebrates-historic-icj-advisory-opinion-honours-pacific-youth-leadership/>
+
+---
+
+## Wrestlers dominate RMI medals
+
+date: 2025-07-24, from: Marshal Islands Journal
+
+<p>The Marshall Islands total of 12 medals won during the Pacific Mini-Games in Palau earlier this month ranked it in the lower half of the 24 participating countries and territories. The RMI medal total was better than only seven of the competing islands. The 12 RMI medals outpaced the numbers of medals for FSM, Kiribati, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/wrestlers-dominate-rmi-medals/">Wrestlers dominate RMI medals</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/wrestlers-dominate-rmi-medals/>
+
+---
+
+## Organ transplant service not available in Guam, CNMI and American Samoa despite rise in kidney disease  
+
+date: 2025-07-24, from: Pacific Island Times
+
+By Jayvee Vallejera   Compared to the U.S. mainland, American territories in the Pacific have a higher number of people with chronic... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/organ-transplant-service-not-available-in-guam-cnmi-and-american-samoa-amid-rise-in-kidney-disease>
+
+---
+
+## Nauru is causing big waves over mining
+
+date: 2025-07-24, from: 
+
+Nauru, just 21 square kilometres and with a population of 12,000, has opened the door to a deep sea mining company to explore and potentially harvest the sea bottom for minerals and resources. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/thedetail/567829/tiny-nauru-is-causing-big-waves-over-mining>
+
+---
+
+## Consumer watchdog warns Fijians about Auckland-based TikTokker's money-making scheme
+
+date: 2025-07-24, from: 
+
+"LiveGood", which promotes a multi-level marketing company that sells supplements, "resembles a pyramid scheme", the Consumer Council of Fiji says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567889/consumer-watchdog-warns-fijians-about-auckland-based-tiktokker-s-money-making-scheme>
+
+---
+
+## Pacific news in brief for 24 July
+
+date: 2025-07-24, from: 
+
+A round-up of news from around the region, including reports out of the Papua New Guinea region of Bougainville that prison warders are illegally freeing offenders from jail. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567897/pacific-news-in-brief-for-24-july>
+
+---
+
+## Pacific educators look at future
+
+date: 2025-07-23, from: Marshal Islands Journal
+
+<p>The Vaka Pasifiki Education Conference brought together close to 100 educators from RMI and around the Pacific for three days of presentations and discussions about visions and opportunities in a changing education landscape. Teachers and administrators in the Pacific share many challenges, ranging from out-migration depleting enrollment to cultural dynamics that can both strengthen or [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pacific-educators-look-at-future/">Pacific educators look at future</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/pacific-educators-look-at-future/>
+
+---
+
+## Flags flown at half-staff on Guam in honor of CNMI Gov. Palacios' life and legacy.
+
+date: 2025-07-23, from: Pacific Island Times
+
+CNMI Gov. Arnold Palacios, Palau President Surangel Whipps Jr. and American Samoa Del.   Uifa’atali Amata Radewagen at the CNMI... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/flags-flown-at-half-staff-on-guam-in-honor-of-cnmi-gov-palacios-life-and-legacy>
+
+---
+
+## UN's highest court finds countries can be held legally responsible for emissions
+
+date: 2025-07-23, from: 
+
+The landmark decision is the culmination of six years of advocacy and diplomatic manoeuvring which started with a group of Pacific university students in 2019. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567833/un-s-highest-court-finds-countries-can-be-held-legally-responsible-for-emissions>
+
+---
+
+## CNMI governor Arnold Palacios, 69, passes away after medical incident
+
+date: 2025-07-23, from: 
+
+Arnold Palacios, the 10th governor of the Northern Mariana Islands, passed away peacefully on Wednesday evening surrounded by loved ones. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567846/cnmi-governor-arnold-palacios-69-passes-away-after-medical-incident>
+
+---
+
+## Mysterious ‘dark dwarfs’ at the galactic center could unlock secrets of dark matter
+
+date: 2025-07-23, from: University of Hawaiʻi News
+
+<p>Dark matter is an invisible substance that makes up about a quarter of the universe’s total matter.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/23/dark-dwarfs-secrets-of-dark-matter/">Mysterious ‘dark dwarfs’ at the galactic center could unlock secrets of dark matter</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/23/dark-dwarfs-secrets-of-dark-matter/>
 
 ---
 
@@ -47,18 +484,6 @@ Almost five decades ago, Victoria Ginn set off on a brief solo journey - the fir
 
 ---
 
-## CNMI governor Arnold Palacios, 69, passes away after medical incident
-
-date: 2025-07-23, from: 
-
-Arnold Palacios, the 10th governor of the Northern Mariana Islands, passed away peacefully on Wednesday evening surrounded by loved ones. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/567846/cnmi-governor-arnold-palacios-69-passes-away-after-medical-incident>
-
----
-
 ## UH Mānoa Athletics launches ‘Our Team. Hawaiʻi’s Team.’ campaign
 
 date: 2025-07-23, from: University of Hawaiʻi News
@@ -82,18 +507,6 @@ The post <a href="https://www.hawaii.edu/news/2025/07/23/image-of-the-week-loi/"
 <br> 
 
 <https://www.hawaii.edu/news/2025/07/23/image-of-the-week-loi/>
-
----
-
-## UN's highest court finds countries can be held legally responsible for emissions
-
-date: 2025-07-23, from: 
-
-The landmark decision is the culmination of six years of advocacy and diplomatic manoeuvring which started with a group of Pacific university students in 2019. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/567833/un-s-highest-court-finds-countries-can-be-held-legally-responsible-for-emissions>
 
 ---
 

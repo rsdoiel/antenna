@@ -1,11 +1,137 @@
 ---
 title: food
-updated: 2025-07-23 14:08:02
+updated: 2025-07-24 06:09:37
 ---
 
 # food
 
-(date: 2025-07-23 14:08:02)
+(date: 2025-07-24 06:09:37)
+
+---
+
+## Starbucks Is Promoting A “Secret” Menu Because Words Mean Nothing Now
+
+date: 2025-07-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. What even is meaning anymore? 
+
+<br> 
+
+<https://sprudge.com/starbucks-is-promoting-a-secret-menu-because-words-mean-nothing-now-381337.html>
+
+---
+
+## Pork Dinakdakan
+
+date: 2025-07-24, from: Bon Appetet
+
+Braise tender pork belly in soy and vinegar, then grill with shishito peppers and toss with ginger and a tangy dressing for bold, savory Filipino dinakdakan. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/pork-dinakdakan>
+
+---
+
+## Grilled Purple Sweet Potato Salad
+
+date: 2025-07-24, from: Bon Appetet
+
+Charred purple potato salad with mayo, lemon, and soy is smoky, creamy, and designed to be the star of any summer picnic or barbecue. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/grilled-purple-sweet-potato-salad>
+
+---
+
+## Mango Bread
+
+date: 2025-07-24, from: Bon Appetet
+
+This sunny mango bread is ultra-moist and bursting with tropical flavor; the loaf is topped with a tangy mango-lime glaze that sets to a glossy finish. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/mango-bread>
+
+---
+
+## Lei and Hawaiian Food Traditions Are Deeply Connected
+
+date: 2025-07-24, from: Bon Appetet
+
+More than just a beautiful flower garland, lei links Native Hawaiians to their land and identity. A kanaka scholar traces the deeper meaning. 
+
+<br> 
+
+<https://www.bonappetit.com/story/lei-hawaii-food-tradition>
+
+---
+
+## Mochiko Chicken
+
+date: 2025-07-24, from: Bon Appetet
+
+Hawai‘i's beloved fried chicken is crispy, sweet, and savory. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/mochiko-chicken>
+
+---
+
+## How Hawai‘i Chefs Helped After the Lahaina Wildfires
+
+date: 2025-07-24, from: Bon Appetet
+
+Chefs Kyle Kawakami and Mark “Gooch” Noguchi share experiences on the front lines and how food is key to rebuilding community 
+
+<br> 
+
+<https://www.bonappetit.com/story/lahaina-maui-wildfires-two-year-anniverary>
+
+---
+
+## Finding My Roots in Hawai'i’s Soil, Sea, and a Sweet Potato Salad
+
+date: 2025-07-24, from: Bon Appetet
+
+I wanted to connect with my heritage by moving to ancestral land. The fruit farm I lived on provided so much more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/t-kira-madden-sweet-potato>
+
+---
+
+## Dill Pickle Ranch Chicken Skewers
+
+date: 2025-07-24, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/07/Dill-Pickle-Ranch-Chicken-Skewers-1200-7226.jpg"/></div>
+<p>Pickle brined grilled chicken skewers with a side of dill pickle ranch dip! Finished a jar of pickles? Don&#8217;t throw that pickle juice out! It&#8217;s great for marinating chicken, adding a ton of flavour! This is a super simple grilled chicken recipe where chicken is marinated in pickle juice before seasoning it, skewering it and...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/dill-pickle-ranch-chicken-skewers/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/dill-pickle-ranch-chicken-skewers/">Dill Pickle Ranch Chicken Skewers</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/dill-pickle-ranch-chicken-skewers/>
+
+---
+
+## The Dunkin’ Fall Menu Was Leaked, And I Can’t Wait to Try This New Item
+
+date: 2025-07-24, from: Taste of Home
+
+<p>Spooky season always comes with plenty of treats.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dunkin-fall-menu-2025/">The Dunkin&#8217; Fall Menu Was Leaked, And I Can&#8217;t Wait to Try This New Item</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dunkin-fall-menu-2025/>
 
 ---
 
@@ -225,6 +351,18 @@ date: 2025-07-23, from: Isebel Eats
 
 ---
 
+## Stuffed Sub Salad Sandwich
+
+date: 2025-07-23, from: Taste of Home
+
+This stuffed sub salad sandwich recipe takes a savory mix of turkey, veggies, smoky bacon and a peppery ranch dressing, and stuffs it inside a chewy baguette. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/stuffed-sub-salad-sandwich/>
+
+---
+
 ## Cookie Dough-Stuffed Dates
 
 date: 2025-07-23, from: Taste of Home
@@ -351,7 +489,7 @@ date: 2025-07-22, from: Daily Coffee News
 
 date: 2025-07-22, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png" class="attachment-large size-large wp-post-image" alt="MilkID stickers" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-300x169.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-150x84.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-768x432.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Designed to prevent allergic reactions while also minimizing milk waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently made its launch.&#160; MilkID&#8217;s custom... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png" class="attachment-large size-large wp-post-image" alt="MilkID stickers" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-620x349.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-300x169.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-150x84.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers-768x432.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MilkID-stickers.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Designed to prevent allergic reactions while also minimizing waste in coffee shops, a new color-coded magnet and compatible pitcher system called MilkID recently made its launch. MilkID&#8217;s custom steaming pitchers... 
 
 <br> 
 

@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-07-23 14:08:01
+updated: 2025-07-24 06:09:36
 ---
 
 # health
 
-(date: 2025-07-23 14:08:01)
+(date: 2025-07-24 06:09:36)
+
+---
+
+## Editorial: Synergistic approaches to managing Gram-negative bacterial resistance
+
+date: 2025-07-24, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1645251>
+
+---
+
+## Comparative performance evaluation of FilmArray RP 2.1 and targeted next-generation sequencing in upper respiratory tract infections
+
+date: 2025-07-24, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionUpper respiratory tract infections (URTIs) represent a significant global health burden, impacting patient morbidity and quality of life. The implementation of accurate pathogen detection methods is crucial for precise diagnosis and effective clinical management of URTIs. This study evaluates the clinical performance of targeted next-generation sequencing (tNGS) as a diagnostic tool for comprehensive identification of URTI-associated pathogens.MethodsA total of 190 nasopharyngeal swab specimens from patients were enrolled for the study. These specimens underwent pathogen identification using both tNGS and the FilmArray respiratory panel. The results obtained from these two methods were then compared.ResultsOverall, tNGS identified 164 positive samples, compared to 91 positives identified by FilmArray. Regarding the shared target species or subtypes, tNGS identified 97 positive samples, whereas the FilmArray respiratory panel detected 88 positives out of 190 specimens. tNGS identified a diverse array of 34 different pathogens, significantly surpassing the 12 pathogens identified by the FilmArray panel. The detection rates for tNGS and FilmArray were 51.05% (97/190) and 46.32% (88/190), respectively. Statistical analysis revealed no significant difference in the detection rates of 10 specific respiratory pathogens (with ≥3 positives). Furthermore, the overall pathogen detection accuracy of tNGS was determined to be 90.16% (95%CI = 83.45%~94.81%), with a sensitivity of 95.45% (88.77%~98.75%).ConclusionsThe tNGS method demonstrates broader pathogen detection capability compared to the FilmArray, achieving a higher positive detection rate in upper respiratory tract infections. It demonstrates high accuracy and sensitivity, offering a viable and rapid diagnostic approach for upper respiratory tract infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1610445>
+
+---
+
+## Expression of BVDV E2 protein in CHO-S cells and development of an indirect ELISA for serological detection
+
+date: 2025-07-24, from: Frontiers in Cellular and Infection Microbiology
+
+Bovine viral diarrhea virus (BVDV) causes ongoing economic losses to the livestock industry. Monitoring antibodies via enzyme-linked immunosorbent assay (ELISA) is a key tool for ensuring the eradication of BVDV from cattle herds. We developed an indirect ELISA (rE2-iELISA) using CHO-S-expressed recombinant E2 protein, the major immunogenic glycoprotein mediating viral attachment and immune evasion. Optimized assay conditions included: 0.4 μg/well antigen coating, 5% BSA blocking, 1:100 serum dilution, and 1:5000 secondary antibody dilution. The assay demonstrated exclusive specificity for BVDV-1 and BVDV-2 with detection sensitivity to 1:1,500 serum dilution. Validation revealed exceptional diagnostic performance: ROC analysis showed 0.998 AUC (cutoff=0.125), 94.8% concordance with IDEXX ELISA, and the intra- and inter-batch coefficient of variation are both less than 5%. The experimental results indicate that the indirect ELISA detection method based on BVDV rE2 exhibits good sensitivity, specificity, and stability. And a stable serological tool for BVDV surveillance and vaccine efficacy evaluation in cattle populations. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1631027>
 
 ---
 

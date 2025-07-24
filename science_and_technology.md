@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-07-23 14:07:54
+updated: 2025-07-24 06:09:29
 ---
 
 # science and technology
 
-(date: 2025-07-23 14:07:54)
+(date: 2025-07-24 06:09:29)
+
+---
+
+## Microsoft-owned GitHub: Open source needs funding. Ya think?
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>&#39;Industry, national governments, and the EU&#39; must pay for maintainers. El Reg says charity shouldn&#39;t start at home</h4> <p>GitHub, owned by money-bags Microsoft, has called upon the European Union to create a publicly funded &#34;Sovereign Tech Fund&#34; (EU-STF) to boost the open source software ecosystem.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/microsoftowned_github_says_open_source/>
+
+---
+
+## Britain's AI datacenter plans face energy, planning, investment challenges
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>You don&#39;t become a &#39;superpower&#39; overnight</h4> <p>Significant hurdles stand in the way of the UK government&#39;s push to become a global AI superpower, including energy constraints, planning difficulties and the datacenter investment required for it all.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/britains_ai_datacenter_plans_face/>
+
+---
+
+## Eau no! Dior tells customers their data was swiped in cyber snafu
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>French fashion house dishes out notices after hackers raided a client database – ShinyHunters suspected</h4> <p><strong>Updated</strong>  Fashion house Dior has begun dropping data breach notices after cybercrooks with a taste for high-end targets made off with customer data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/eau_no_dior_tells_customers/>
+
+---
+
+## 50 years ago, Gates and Allen made the deal that launched Microsoft
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>How the MITS Altair 8800, a $264 RAM board, and some BASIC changed the world</h4> <p>This week marked the 50th anniversary of the birth of several empires. On July 22, 1975, Bill Gates and Paul Allen signed a deal with Micro Instrumentation and Telemetry Systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/50y_of_gates_allen_mits_basic/>
+
+---
+
+## Not pretty, not Windows-only: npm phishing attack laces popular packages with malware
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>The &#34;is&#34; package was infected with cross-platform malware after a scam targeting maintainers</h4> <p>The popular npm package &#34;is&#34; was infected with cross-platform malware, around the same time that linting utility packages used with the prettier code formatter were infected with Windows-only malware.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/not_pretty_not_windowsonly_npm/>
+
+---
+
+## EU cloud gang challenges Broadcom's $61B VMWare buy in court
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>CISPE cites recent channel changes, but the deal was decided on different matters</h4> <p><strong>+COMMENT</strong>  Trade group Cloud Infrastructure Services Providers in Europe (CISPE) has filed a formal appeal before the European General Court to seek annulment of the European Commission&#39;s decision to approve Broadcom’s acquisition of VMware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/cispe_seeks_broadcom_vmware_annulment/>
+
+---
+
+## The tiny tech tribe who could change the world tomorrow but won't
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>Sometimes, one small tweak can make a very big difference.</h4> <p>There are ten people in the world who could decide tomorrow to make IT better, and it would become better. Not better for some, not better for a while, but better for all and forever.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/column_settings_standards/>
+
+---
+
+## Google just spent $14 billion on servers in 91 days, plans even higher spending soon
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>G-Cloud on track for $50 billion revenue as AI creates a new generation of Google-eyed youth</h4> <p>Google’s parent company Alphabet has increased its capex budget for the year by $10 billion and now expects to spend $85 billion this year, and more in 2026.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/alphabet_q2_2025/>
+
+---
+
+## Mistral AI environmental report confirms AI is a hungry, thirsty beast
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>French model dev hopes to inspire others to adopt standards-based reporting</h4> <p>While it&#39;s widely known that the computers powering generative AI use a ton of water and power, its actual impact on the environment is often harder to pin down.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/mistral_environmental_report_ai_cost/>
+
+---
+
+## AWS closes China AI research center, citing boilerplate 'business priorities'
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>Nvidia&#39;s Jensen Huang just had a win with his argument that the world needs China’s AI brains, now this</h4> <p>Amazon Web Services has closed its AI lab in Shanghai, China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/aws_closes_shanghai_ai_lab/>
+
+---
+
+## Trump AI plan rips the brakes out of the car and gives Big Tech exactly what it wanted
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>&#39;Build, baby, build&#39;, and forget about regulation and wokeness is the gist of it</h4> <p>The White House on Wednesday <a href="https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/" rel="nofollow">announced its AI Action Plan</a>, unveiling a sweeping anti-regulatory approach that disengages the brakes from AI development and datacenter construction in the US. The plan also promises to clamp down on what it called &#34;ideological bias&#34; in AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/ai_trump_plan_/>
+
+---
+
+## NASA Launches Mission to Study Earth’s Magnetic Shield
+
+date: 2025-07-23, from: NASA breaking news
+
+NASA’s newest mission, TRACERS, soon will begin studying how Earth’s magnetic shield protects our planet from the effects of space weather. Short for Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites, the twin TRACERS spacecraft lifted off at 11:13 a.m. PDT (2:13 p.m. EDT) Wednesday aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-launches-mission-to-study-earths-magnetic-shield/>
+
+---
+
+## UN World Court declares countries must curb emissions or be held responsible
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>But it has no way to compel scofflaws to comply</h4> <p>In a sweeping and unprecedented legal opinion, the United Nations&#39; highest court has decreed that &#34;The consequences of climate change are severe and far-reaching&#34; and constitute an &#34;urgent and existential threat.&#34; What&#39;s more, it stated that action must be taken to not only ameliorate that threat but also to determine the legal consequences for those states whose actions harm others.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/un_world_court_curb_emissions/>
+
+---
+
+## The most Microsoft support document of all time
+
+date: 2025-07-23, from: OS News
+
+I have stumbled upon the most Microsoft support document of all time. Support for the Microsoft Store installation type of Microsoft 365 Apps is ending. New feature updates will stop in October 2025 and security updates will end in December 2026. If you have the Microsoft Store installation type of Microsoft 365 Apps, you must upgrade to the Click-to-Run installation type for continuing new features and security updates. The following steps show how you can upgrade the installation type of Microsoft 365 products on a PC from the Microsoft Store to Click-to-Run. ↫ End of support for the Microsoft Store installation type of Microsoft 365 Apps There is so much to unpack here. First, if you&#8217;re not neck-deep in Microsoft lore, you might not even know what Microsoft 365 Apps even are. Remember Office 365, the subscription version of Microsoft Office? It&#8217;s called Microsoft 365 now, for some inexplicable reason, but you probably haven&#8217;t noticed because it is a stupidly confusing, nondescript name that nobody out in the real world uses. Adding to the confusion, in 2022, Microsoft announced it would phase out the Office name in favour of calling both the subscription version and the regular, buy-once-run-forever version &#8220;Microsoft 365&#8221;, but then changed their mind a year later, and as such, the regular, buy-once-run-forever version is now still called Office. Oh and there&#8217;s also the &#8220;Microsoft 365 Copilot app (formerly Office)&#8221; (at Office.com?) which I think is what used to be called the mobile iOS/Android Office application, which existed alongside the individual mobile Office applications on these platforms (because that was a thing, too &#8211; maybe still is?)? I don&#8217;t know man, I merely have two university degrees, which clearly isn&#8217;t enough to understand any of this 4D office suite chess. Anyway, the Microsoft 365 Apps (so the subscription version of what was temporarily formerly known as Microsoft Office) can be installed either through the Microsoft Store, which is the application store bundled with Windows that you never use, or through something called Click-to-Run. Apparently, Microsoft is discontinuing the Microsoft Store version of the Microsoft 365 Apps, and is urging everyone to move to the Click-to-Run version of the Microsoft 365 Apps. Alright, we&#8217;re getting really, really deep into the very darkest crevices of the Microsoft Cinematic Universe lore now. The Microsoft Store version of the Microsoft 365 Apps is almost entirely identical to the Click-to-Run version of the Microsoft 365 Apps, except for one tiny part: the exact packaging method of the applications. Whereas the Microsoft Store version is packaged and delivered in Microsoft&#8217;s Appx packaging format (designed for the Universal Windows Platform or UWP), the Click-to-Run version is packaged and delivered through, well, Click-to-Run. So, what is that, exactly? Click-to-Run is an entirely custom application streaming technology specifically designed for and exclusively used by Microsoft Office. You download a very small installer, which then proceeds to download the various Microsoft 365 applications like Word, Excel, and so on, which you can then start using well before the entire download is finished. The technology is similar to Microsoft App-V. It&#8217;s actually remarkably difficult to find detailed documentation about Click-to-Run, which is odd considering Microsoft is usually quite decent at providing documentation for its technologies. So what Microsoft is announcing in this support document is that if you have Microsoft 365 Apps installed through the Microsoft Store, you&#8217;re going to have to switch to the Click-to-Run version. You can check which installation type you&#8217;re using by going to File > Account (it might be called Office Account, because everything is made up and nothing is real) &#8211; under Product information locate the About button, where it&#8217;ll list the installation type. If your installation type is Microsoft Store, you need to switch to the Click-to-Run version to keep receiving updates. To do so, download the Click-to-Run installer and run it, which will automatically remove the Microsoft Store version of the Microsoft 365 Apps and replace them with the Click-to-Run versions. The reason they&#8217;re making you do this is that the Click-to-Run version offers enterprises and corporate customers more control over deployment, update schedules, configuration options, and so on. The Microsoft Store version is more suited for normal consumers, but Microsoft doesn&#8217;t care about those, and never has, and never will. Why is Microsoft? 
+
+<br> 
+
+<https://www.osnews.com/story/142882/the-most-microsoft-support-document-of-all-time/>
+
+---
+
+## How to host a Linux-powered local dev site in Windows
+
+date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+
+<h4>A working copy of your site can run under Windows Subsystem for Linux</h4> <p><strong>hands on</strong>  If you&#39;re building a website that will eventually be hosted on a Linux server (as so many are), you have a couple of choices about where you do your development work. You can create a beta version of the site at your web host and upload all of the files there or you can create a local test server that sits in your home or office.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/23/linux_dev_site_windows/>
 
 ---
 
@@ -407,7 +587,7 @@ date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
 
 ## And now for our annual ‘Tape is <i>still</i> not dead’ update
 
-date: 2025-07-23, updated: 2025-07-23, from: The Register (UK I.T. News)
+date: 2025-07-23, updated: 2025-07-24, from: The Register (UK I.T. News)
 
 <h4>176.5 Exabytes of the stuff shipped in 2024, another double-digit jump</h4> <p>Shipments of tape storage media increased again in 2024, according to HPE, IBM, and Quantum – the three companies that back the Linear Tape-Open (LTO) Format.…</p> 
 

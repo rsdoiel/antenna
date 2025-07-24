@@ -1,11 +1,135 @@
 ---
 title: going electric
-updated: 2025-07-23 14:08:02
+updated: 2025-07-24 06:09:36
 ---
 
 # going electric
 
-(date: 2025-07-23 14:08:02)
+(date: 2025-07-24 06:09:36)
+
+---
+
+## Tesla Promises Unsupervised FSD By End Of Year (Again)
+
+date: 2025-07-24, from: Inside EVs News
+
+Even if it happens, not everyone will have access to the feature. 
+
+<br> 
+
+<https://insideevs.com/news/766820/tesla-promises-unsupervised-fsd-again-2025/>
+
+---
+
+## Tesla Autopilot less safe, Optimus freezes, electric Mustang goes 250,000 miles
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Autopilot-wall-test-Mark-Rober.png?w=1600" /></div><p>On today’s road-ready episode of  <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, Tesla released data hinting that its Autopilot ADAS solution may be less safe to use than before. We’ve also got some news from inside the Tesla diner experience, plus a 250,000 mile Ford Mustang Mach-E that still has more than 90% of its battery capacity left!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,quick-charge,tesla,tesla-autopilot" data-layer-viewtype="unknown" data-post-id="426537" href="https://electrek.co/2025/07/23/autopilot-less-safe-optimus-freezes-electric-mustang-goes-250000-miles/#more-426537" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/autopilot-less-safe-optimus-freezes-electric-mustang-goes-250000-miles/>
+
+---
+
+## 91% of renewables are cheaper than fossil fuels, but Trump just defunded a vital US grid upgrade
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/wind_23.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>Renewables continued to dominate fossil fuels on price in 2024, according to a <a href="https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024" target="_blank" rel="noreferrer noopener">new report</a> from the International Renewable Energy Agency (IRENA). The big takeaway: Clean energy is the cheapest power around – by a wide margin. So it’s pretty bad business that the biggest grid upgrade project in US history just got kneecapped by Trump’s Department of Energy to stop the “green scam.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,grid,renewable-energy,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="426489" href="https://electrek.co/2025/07/23/91-percent-renewables-cheaper-fossil-fuels-trump-defunded-us-grid-upgrade/#more-426489" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/91-percent-renewables-cheaper-fossil-fuels-trump-defunded-us-grid-upgrade/>
+
+---
+
+## Elon Musk with a straight face: Tesla Robotaxi will cover half of US population by end of the year
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk claims that Tesla Robotaxi will cover half of the US population by the end of the year and we can’t stop laughing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426526" href="https://electrek.co/2025/07/23/elon-musk-with-straight-face-tesla-robotaxi-will-cover-half-us-population-end-year/#more-426526" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/elon-musk-with-straight-face-tesla-robotaxi-will-cover-half-us-population-end-year/>
+
+---
+
+## Tesla claims it produced the first builds of its ‘new affordable’ electric car models
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-prototype-overlay.png?w=1600" /></div><p>Tesla claims to have produced the “first builds” of its new “more affordable” electric car models, which are expected to be stripped-down versions of the Model 3 and Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426515" href="https://electrek.co/2025/07/23/tesla-claims-produced-first-builds-new-affordable-electric-car-models/#more-426515" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/tesla-claims-produced-first-builds-new-affordable-electric-car-models/>
+
+---
+
+## Superchargers are the only part of Tesla’s business seeing growth right now
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesa-Supercharger-for-all-hero.jpg?quality=82&#038;strip=all&#038;w=1237" /></div><p>Tesla’s business in shrinking in every way except for one: Supercharging revenue, which Tesla CEO Elon Musk once said would never become a profit center for the company.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="426498" href="https://electrek.co/2025/07/23/superchargers-are-the-only-part-of-teslas-business-seeing-growth-right-now/#more-426498" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/superchargers-are-the-only-part-of-teslas-business-seeing-growth-right-now/>
+
+---
+
+## Hyundai’s new EV sports car might be hard to get with limited production
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundais-new-EV-sports-car-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> new EV sports car, the IONIQ 6 N, will be built in very limited numbers. Only a few thousand units will be made annually for buyers in the US, Europe, Korea, China, and other global markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="426476" href="https://electrek.co/2025/07/23/hyundais-new-ev-sports-car-limited/#more-426476" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/hyundais-new-ev-sports-car-limited/>
+
+---
+
+## Tesla (TSLA) all but admits electric car sales growth is gone, gives up on guidance
+
+date: 2025-07-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Model-Y-2-Along-the-Way-Tablet-CN.png-e1736950646574.jpeg?quality=82&#038;strip=all&#038;w=1392" /></div><p>After claiming a return to electric vehicle delivering growth in 2025, Tesla (TSLA) has now all but admitted that it won’t happen and has fully given up on providing guidance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="426497" href="https://electrek.co/2025/07/23/tesla-tsla-admits-electric-car-sales-growth-gone-gives-up-guidance/#more-426497" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/23/tesla-tsla-admits-electric-car-sales-growth-gone-gives-up-guidance/>
 
 ---
 
@@ -21,11 +145,11 @@ Sales are down, regulatory credits are down, and discounted Tesla prices mean le
 
 ---
 
-## Tesla's Cheaper EV Started 'Initial Production' In June
+## Tesla's Cheaper EV Is 'Just A Model Y,' Musk Says
 
 date: 2025-07-23, from: Inside EVs News
 
-Tesla offered an update on its long-awaited more affordable model in its Q2 earnings report.  
+Tesla's more affordable model started production in June and is a cheaper Model Y, the company said on its Q2 earnings call. 
 
 <br> 
 

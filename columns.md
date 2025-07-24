@@ -1,17 +1,186 @@
 ---
 title: columns
-updated: 2025-07-23 14:07:56
+updated: 2025-07-24 06:09:30
 ---
 
 # columns
 
-(date: 2025-07-23 14:07:56)
+(date: 2025-07-24 06:09:30)
+
+---
+
+##  The Kottke.org Rolodex 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-kottkeorg-rolodex>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-24, from: Dave Winer's Scripting News)
+
+When trying to "work" with ChatGPT, realize that it's mistakes could be much worse than you could possibly imagine. It could be leading you down a blind alley. You must always consider how full of shit it is. It may not just be making things up, but it could not understand something very basic about what you're doing. There's no limit to the ways it can be wrong. And you can waste whole programming sessions chasing a solution where none could possibly every under any circumstances be found. The level of bullshit is sometimes hard to fathom. 
+
+<br> 
+
+<http://scripting.com/2025/07/24.html#a125149>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-24, from: Dave Winer's Scripting News)
+
+You can <a href="https://imgs.scripting.com/2025/07/24/postscreenshot.png">see</a> from <a href="https://bsky.app/profile/scripting.com/post/3luph4rdgrw23">this Bluesky post</a> that I do copy-edit my linkblog items, but not enough. The web isn't a write-only medium, so to say that Bluesky is part of the web, well in this way it isn't. 
+
+<br> 
+
+<http://scripting.com/2025/07/24.html#a115719>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-24, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/29/hope.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://mastodon.social/@scripting@daveverse.org/114907962089898612">Question</a>: I have a site with a well developed set of categories, I've added to it carefully over a few months, it covers most of the topics I write about. Another site has a small set of categories. I write all my WordPress posts in the same editor, and could easily set it up so that all categories were available to me in every site I post to. The question: Is that a good practice in the world of WordPress? I noticed that categories are given global ID's so if I use a category like "movies" it will have the same ID as yours has on your sites. I love this idea of a global namespace for categories, and see it as something that could be adopted by sites written in any other writing environment. Anyway, if you have a moment to comment, I'd appreciate your ideas. 
+
+<br> 
+
+<http://scripting.com/2025/07/24.html#a111750>
+
+---
+
+## How Solid Protocol Restores Digital Agency
+
+date: 2025-07-24, updated: 2025-07-23, from: Bruce Schneier blog
+
+<p>The current state of digital identity is a mess. Your personal information is scattered across hundreds of locations: social media companies, IoT companies, government agencies, websites you have accounts on, and data brokers you&#8217;ve never heard of. These entities collect, store, and trade your data, often without your knowledge or consent. It&#8217;s both redundant and inconsistent. You have hundreds, maybe thousands, of fragmented digital profiles that often contain contradictory or logically impossible information. Each serves its own purpose, yet there is no central override and control to serve you&#8212;as the identity owner...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html>
+
+---
+
+## 50 years ago, Gates and Allen made the deal that launched Microsoft
+
+date: 2025-07-24, updated: 2025-07-24, from: Liam Proven's articles at the Register
+
+<h4>How the MITS Altair 8800, a $264 RAM board, and some BASIC changed the world</h4>
+      <p>This week marked the 50th anniversary of the birth of several empires. On July 22, 1975, Bill Gates and Paul Allen signed a deal with Micro Instrumentation and Telemetry Systems.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/24/50y_of_gates_allen_mits_basic/>
+
+---
+
+## What did he know, and when did he know it?
+
+date: 2025-07-24, from: Robert Reich's blog
+
+From Watergate to Epsteingate 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-did-he-know-and-when-did-he>
+
+---
+
+## July 23, 2025
+
+date: 2025-07-24, from: Heather Cox Richardson blog
+
+This morning, President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-23-2025>
+
+---
+
+##  In her last column for WaPo, columnist Catherine Rampell shares some advice... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047215-in-her-last-column-for>
+
+---
+
+##  A lovely trailer for a documentary called The Nettle Dress. &#8220;Allan Brown... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047207-a-lovely-trailer-for-a>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-07-23, from: Dave Winer's Scripting News)
 
-<a href="https://bsky.app/profile/scripting.com/post/3lunvycl37c2b">Question</a>. If you have to choose between Google's web browser or one from your favorite AI company, which would you go with? And let me know which is your favorite AI universe. 
+Here's a benchmark. I just asked ChatGPT for <a href="https://daveverse.org/2025/07/23/250-words-on-climate-change/">250 words on climate change</a>. Let's check that out in a year and two years and see if they're still telling the truth. 
+
+<br> 
+
+<http://scripting.com/2025/07/23.html#a212449>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-23, from: Dave Winer's Scripting News)
+
+If you could look into people's minds and see if, at their core, they feel <a href="https://en.wikipedia.org/wiki/It_Can%27t_Happen_Here">it can't happen here</a>, most of us would have that belief. We'll probably still believe it when the last of our freedoms is gone. 
+
+<br> 
+
+<http://scripting.com/2025/07/23.html#a211935>
+
+---
+
+##  After Paramount cancelled the Late Show with Stephen Colbert after he criticized... 
+
+date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047211-after-paramount-cancelled>
+
+---
+
+## Yours Truly With David Barnard on the Sub Club Podcast
+
+date: 2025-07-23, updated: 2025-07-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://subclub.com/episode/the-past-present-and-future-of-building-on-apple-john-gruber-daring-fireball>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-23, from: Dave Winer's Scripting News)
+
+Trump <a href="https://techcrunch.com/2025/07/23/trumps-ai-strategy-trades-guardrails-for-growth-in-race-against-china/">says</a> he's going to give AI companies freedom except with DEI and climate change, guessing they have to follow Trump dogma? Hard to tell from the language. I assume so. Just like CBS when the Ellisons own it. Our communications systems are pretty much owned by the government as they are in China. Or very close to that. 
+
+<br> 
+
+<http://scripting.com/2025/07/23.html#a210713>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/23/dorothy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://bsky.app/profile/scripting.com/post/3lunvycl37c2b">Question</a>. If you have to choose between Google's web browser or one from your favorite AI company, which would you go with? Also yes -- Google is <a href="https://www.404media.co/googles-ai-is-destroying-search-the-internet-and-your-brain/">destroying</a> the web, as is ChatGPT and Claude etc. Because the people who tried to capture flow using SEO made you wade through mountains of garbage before you got the info you were coming there for, if you ever got it. It's the same thing with clicking links in Twitter. If instead, they had focus on providing a product that made people happy and built respect for theri brand, they'd still have a seat at the table. It's too late to complain, you had a chance to view your efforts as a business. But there's still plenty of potential for the web, esp if developers get imaginative in how to use the new browser platforms. I don't imagine Google's going to rock and roll too much with Chrome, but maybe they will. 
 
 <br> 
 

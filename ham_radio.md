@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-07-23 14:07:53
+updated: 2025-07-24 06:09:28
 ---
 
 # ham radio
 
-(date: 2025-07-23 14:07:53)
+(date: 2025-07-24 06:09:28)
+
+---
+
+## PCB design tips for EMI and thermal management in 800G systems
+
+date: 2025-07-24, from: EDN Blog
+
+<img width="1536" height="782" src="https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?fit=1536%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Airflow-Strategy-for-1U-System.png?w=1024 1024w" sizes="(max-width: 1536px) 100vw, 1536px" /><p>Find out PCB design strategies to reduce EMI in 800G systems while maintaining high performance in data center and telecom environments.</p>
+<p>The post <a href="https://www.edn.com/pcb-design-tips-for-emi-and-thermal-management-in-800g-systems/">PCB design tips for EMI and thermal management in 800G systems</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/pcb-design-tips-for-emi-and-thermal-management-in-800g-systems/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-07-23 14:07:53
 
 date: 2025-07-23, from: EDN Blog
 
-<img width="553" height="416" src="https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?fit=553%2C416" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?w=553 553w, https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?w=300 300w" sizes="(max-width: 553px) 100vw, 553px" /><p>Making power-capable DACs with output capabilities over a kilowatt with a total parts count of only nine inexpensive discretes.</p>
+<img width="553" height="416" src="https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?fit=553%2C416" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?w=553 553w, https://www.edn.com/wp-content/uploads/Quadrac_Figure1.png?w=300 300w" sizes="auto, (max-width: 553px) 100vw, 553px" /><p>Making power-capable DACs with output capabilities over a kilowatt with a total parts count of only nine inexpensive discretes.</p>
 <p>The post <a href="https://www.edn.com/pwm-quadrac-pure-power-play/">PWM + Quadrac = Pure Power Play</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

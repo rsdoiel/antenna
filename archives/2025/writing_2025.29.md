@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-07-23 14:07:57
+updated: 2025-07-24 06:09:31
 ---
 
 # writing
 
-(date: 2025-07-23 14:07:57)
+(date: 2025-07-24 06:09:31)
+
+---
+
+## Scriptnotes, Episode 693: Setups That Don’t Feel Like Setups, Transcript
+
+date: 2025-07-23, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: [singing] My name is Craig Mazin. John: You’re listening to Episode 693 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do you [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-693-setups-that-dont-feel-like-setups-transcript">Scriptnotes, Episode 693: Setups That Don’t Feel Like Setups, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-693-setups-that-dont-feel-like-setups-transcript>
 
 ---
 

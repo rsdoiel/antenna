@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-07-23 14:07:51
+updated: 2025-07-24 06:09:26
 ---
 
 # north america
 
-(date: 2025-07-23 14:07:51)
+(date: 2025-07-24 06:09:26)
+
+---
+
+## Trump is Wrecking our Travel Industry
+
+date: 2025-07-24, from: The Contrarian
+
+Anti-Trump fervor threatens foreign tourism and travelers between our border states, anticipating a poor showing at the forthcoming World Cup and Olympic games 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-is-wrecking-our-travel-industry>
+
+---
+
+##  The Fight For Control Of Your Money 
+
+date: 2025-07-24, from: The Lever News
+
+ What’s at stake in the showdown between President Trump and Jerome Powell of the Federal Reserve?  
+
+<br> 
+
+<https://www.levernews.com/the-fight-for-control-of-your-money/>
+
+---
+
+## Evening Roundup, July 23
+
+date: 2025-07-23, from: The Contrarian
+
+Featuring The Contrarian Pod with Pasha Dashtgard, Jennifer Weiss-Wolf, Tom Malinowski, Meredith Blake, Tom Joscelyn & Jen Rubin, Brian O'Neill, Shalise Manza Young, and Eliza Orlins 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-23>
+
+---
+
+## After Yet Another Scary Aviation Mishap, Season 2 of The Rehearsal Remains Painfully Relevant 
+
+date: 2025-07-23, from: The Contrarian
+
+In the HBO comedy, comedian Nathan Fielder offered bold ideas for making the skies safer. Sean Duffy should listen up. 
+
+<br> 
+
+<https://contrarian.substack.com/p/after-yet-another-scary-aviation>
+
+---
+
+## Tom Joscelyn on the moral depravation of the Trump administration: Epstein, Bove & Pirro
+
+date: 2025-07-23, from: The Contrarian
+
+"Now he has been implicated in the very thing that he's supposed to be a messiah against." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169051680/968d275fe8ca53c4fd953a1fe95641e3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169051680/968d275fe8ca53c4fd953a1fe95641e3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/tom-joscelyn-on-the-moral-depravation>
 
 ---
 

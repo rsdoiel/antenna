@@ -1,11 +1,50 @@
 ---
 title: home
-updated: 2025-07-23 14:07:59
+updated: 2025-07-24 06:09:34
 ---
 
 # home
 
-(date: 2025-07-23 14:07:59)
+(date: 2025-07-24 06:09:34)
+
+---
+
+## 8 Beautiful Purple Sunflowers (With Pictures and Identification)
+
+date: 2025-07-24, from: Yard Life blog
+
+<p>Purple sunflowers are a breathtaking twist on the classic golden blooms we all know and love. With their rich burgundy, ... </p>
+<p class="read-more-container"><a title="8 Beautiful Purple Sunflowers (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-beautiful-purple-sunflowers-with-pictures-and-identification/#more-32355" aria-label="Read more about 8 Beautiful Purple Sunflowers (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-beautiful-purple-sunflowers-with-pictures-and-identification/">8 Beautiful Purple Sunflowers (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-beautiful-purple-sunflowers-with-pictures-and-identification/>
+
+---
+
+## This Historic A-List Death Valley Resort Is the Ultimate Luxe Oasis Getaway
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+Historic charm and desert adventure converge at the newly restored Oasis at Death Valley. Here's why you need to visit. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/oasis-at-death-valley-resort>
+
+---
+
+## Fall Is the Secret Festival Season for Live Music—Don’t Miss These
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+Autumn is actually the secret season for music lovers. Here are the best festivals in the West worth traveling for. 
+
+<br> 
+
+<https://www.sunset.com/travel/fall-festival-season-west-coast>
 
 ---
 
@@ -73,6 +112,18 @@ date: 2025-07-23, from: Family Handyman Blog
 
 ---
 
+## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
+
+---
+
 ## Learn About False Root-Knot Nematodes in the Garden
 
 date: 2025-07-23, from: The Gardener's Path
@@ -84,6 +135,30 @@ date: 2025-07-23, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/how-to/disease-and-pests/false-root-knot-nematodes/>
+
+---
+
+## Now, You Can ‘Ride’ Classic Disneyland Rides at Home
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+Can't make it to Disneyland? Disney+ is offering subscribers a way to experience popular rides through POV videos. 
+
+<br> 
+
+<https://www.sunset.com/travel/disney-plus-disneyland-rides-pov>
+
+---
+
+## 6 Ways You Can Heat-Proof Your Habitat Garden This Summer
+
+date: 2025-07-23, from: Sunset Magazine - Living in the West
+
+As temps climb, your garden can still be a safe haven for wildlife. Here's how to protect your habitat garden from the heat. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/heat-proof-wildlife-habitat-garden>
 
 ---
 
@@ -325,18 +400,6 @@ The one-acre property includes a metal-and-glass garage and a skylit home with a
 <br> 
 
 <https://www.dwell.com/article/steel-a-frame-home-sandler-kilburn-architects-washington-real-estate-40ded686>
-
----
-
-## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
-
-date: 2025-07-22, from: Sunset Magazine - Living in the West
-
-A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
 
 ---
 

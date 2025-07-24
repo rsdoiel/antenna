@@ -1,11 +1,84 @@
 ---
 title: snapshots
-updated: 2025-07-23 14:08:05
+updated: 2025-07-24 06:09:39
 ---
 
 # snapshots
 
-(date: 2025-07-23 14:08:05)
+(date: 2025-07-24 06:09:39)
+
+---
+
+## The General Theory of Enshittification
+
+date: 2025-07-24, from: Paul Krugman
+
+It isn&#8217;t a new phenomenon, but it seems to matter more 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-general-theory-of-enshittification>
+
+---
+
+## There and Back Again, a San Francisco Tale
+
+date: 2025-07-24, from: 500-ish blog, A collection of posts by M.G. Siegler of around 500 words in length.
+
+ 
+
+<br> 
+
+<https://500ish.com/there-and-back-again-a-san-francisco-tale-027329210f61?source=rss----662a29c3b19e---4>
+
+---
+
+## Quoting Recurse Center
+
+date: 2025-07-24, updated: 2025-07-24, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.recurse.com/blog/191-developing-our-position-on-ai#footnote-return-p191f6"><p>[...] You learn best and most effectively when you are learning something that you care about. Your work becomes meaningful and something you can be proud of only when you have chosen it for yourself. This is why our second self-directive is to <em>build your volitional muscles</em>. Your volition is your ability to make decisions and act on them. To set your own goals, choose your own path, and decide what matters to you. Like physical muscles, you build your volitional muscles by exercising them, and in doing so you can increase your sense of what’s possible.</p>
+<p>LLMs are good at giving fast answers. They’re not good at knowing what questions you care about, or which answers are meaningful. Only you can do that. <strong>You should use AI-powered tools to complement or increase your agency, not replace it</strong>.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.recurse.com/blog/191-developing-our-position-on-ai#footnote-return-p191f6">Recurse Center</a>, Developing our position on AI</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/education">education</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/24/recurse-center/#atom-everything>
+
+---
+
+## I Drank Every Cocktail
+
+date: 2025-07-24, updated: 2025-07-24, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://aaronson.org/blog/i-drank-every-cocktail">I Drank Every Cocktail</a></strong></p>
+Adam Aaronson drank his way through all 102 cocktails on the <a href="https://iba-world.com/cocktails/all-cocktails/">IBA cocktails list</a> - published by the International Bartenders Association since 1961, with the most recent update <a href="https://en.m.wikipedia.org/wiki/List_of_IBA_official_cocktails#2024">in 2024</a>.</p>
+<p>Adam's write up is <em>delightful</em>, incorporating pedantry, data nerdery, a trip to the Internet Archive, some excellent bar recommendations in New York and London and hints at elicit rum smuggling to help make the final cocktail, the IBA Tiki, using two different Havana Club rums that are illegal in the USA thanks to import restrictions.
+
+    <p><small></small>Via <a href="https://waxy.org/2025/07/adam-aaronson-drank-every-cocktail/">Andy Baio</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/cocktails">cocktails</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/24/i-drank-every-cocktail/#atom-everything>
+
+---
+
+## Lilbits: Qi2 25W wireless charging, more Pixel 10 series leaks, and an effort to bring back BlackBerry
+
+date: 2025-07-23, from: Liliputing
+
+<p>Earlier this month UGREEN introduced a power bank that it said would be the first to support 25 watt wireless charging thanks to support for the new Qi 2.2 standard. But it looks like it will have a whole lot of company when it arrives. The Wireless Power Consortium says that hundreds of phones, receivers, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-qi2-25w-wireless-charging-more-pixel-10-series-leaks-and-an-effort-to-bring-back-blackberry/">Lilbits: Qi2 25W wireless charging, more Pixel 10 series leaks, and an effort to bring back BlackBerry</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-qi2-25w-wireless-charging-more-pixel-10-series-leaks-and-an-effort-to-bring-back-blackberry/>
 
 ---
 

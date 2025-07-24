@@ -1,11 +1,31 @@
 ---
 title: journalism
-updated: 2025-07-23 14:07:58
+updated: 2025-07-24 06:09:32
 ---
 
 # journalism
 
-(date: 2025-07-23 14:07:58)
+(date: 2025-07-24 06:09:32)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-24, from: The Daily Bruin (UCLA Student Newspaper))
+
+The court then presented the deposition of Eugene Volokh, an expert in First Amendment law who was the chair of the Committee on Academic Freedom at UCLA at the time of Klein’s suspension. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/23/491271/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-24, from: The Daily Bruin (UCLA Student Newspaper))
+
+Madsen completed his second day of testimony Wednesday. Judge H. Jay Ford III said UC Regents co-counsel Evan Peña&#8217;s questioning about Bates stamps – a numbering system for identifying court documents – during his cross-examination of Madsen was of questionable materiality. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/23/491268/>
 
 ---
 

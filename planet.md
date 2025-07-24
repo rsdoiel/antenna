@@ -1,11 +1,475 @@
 ---
 title: planet
-updated: 2025-07-23 14:07:49
+updated: 2025-07-24 06:09:25
 ---
 
 # planet
 
-(date: 2025-07-23 14:07:49)
+(date: 2025-07-24 06:09:25)
+
+---
+
+## Pope Leo XIV receives the President of the Republic of Algeria 
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>Pope Leo XIV meets President of the Republic of Algeria, Mr. Abdelmagjid Tebboun, in the Vatican, who subsequently met with the Holy See's Secretary of State.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-receives-president-of-algeria-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-receives-president-of-algeria-vatican.html>
+
+---
+
+## Dicastery for Promoting Christian Unity
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>The Dicastery for Promoting Christian Unity is concerned with fostering a genuine ecumenical spirit within the Church and promoting ecumenical dialogue with other Churches and Ecclesial Communities, with the aim of restoring unity among Christians.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-promoting-christian-unity.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-promoting-christian-unity.html>
+
+---
+
+## Co Clare community 'devastated' by Fermanagh shooting
+
+date: 2025-07-24, from: RTÉ News
+
+The parish priest for Doora-Barefield in Co Clare has said the local community there is "devastated beyond belief" following the deaths of three people in a shooting incident in Co Fermanagh yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0724/1525163-fermanagh-shooting-tributes/>
+
+---
+
+## Jeremy Corbyn launches new UK political party
+
+date: 2025-07-24, from: RTÉ News
+
+Former Labour leader Jeremy Corbyn has announced that he is forming a new political party alongside another ex-member of Britain's ruling party. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0724/1525166-corbyn-new-party/>
+
+---
+
+## Listeria can survive at 'freezing temperatures' - expert
+
+date: 2025-07-24, from: RTÉ News
+
+The former CEO of the Food Safety Authority of Ireland has said that listeria can survive at "freezing temperatures," following a precautionary recall notice over ready-to-heat meals after an outbreak of the infection. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0724/1525121-listeria-food-recall/>
+
+---
+
+## Programme launched to address health among farmers
+
+date: 2025-07-24, from: RTÉ News
+
+The Irish Farmer's Association has launched its 2025 Farmer Health Check Programme at Ballymahon Livestock Mart in Longford. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0724/1525159-farmer-health-check/>
+
+---
+
+## Garda found guilty of assaulting teenager in Temple Bar
+
+date: 2025-07-24, from: RTÉ News
+
+A garda has been convicted of assaulting a teenager in Temple Bar four years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0724/1525160-courts-assault/>
+
+---
+
+## Q2 home completions up 35% compared to last year - CSO
+
+date: 2025-07-24, from: RTÉ News
+
+Housing completion figures show that 9,214 homes were built in April, May and June of this year, according to the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0724/1525144-cso-housing-completion-figures/>
+
+---
+
+## International media urge Israel to allow access to Gaza
+
+date: 2025-07-24, from: RTÉ News
+
+A number of international news agencies have called on Israel to allow journalists in and out of Gaza which is subject to a strict blockade. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0724/1525142-israel-gaza-journalists/>
+
+---
+
+## Woman and two children killed in Maguiresbridge named
+
+date: 2025-07-24, from: RTÉ News
+
+Vanessa Whyte, 45, and her two children, 14-year-old James Rutledge and 13-year-old Sara Rutledge, have been named as the three people who died in a shooting incident in Co Fermanagh yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0724/1525137-fermanagh-shooting/>
+
+---
+
+## Tusla referred 19 deaths of children to review panel
+
+date: 2025-07-24, from: RTÉ News
+
+Nineteen deaths of children between infancy and 20 years of age were notified to the National Review Panel (NRP) by Tusla last year. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0724/1525134-national-review-panel-tusla/>
+
+---
+
+## Situation in Gaza 'unconscionable', says Robinson
+
+date: 2025-07-24, from: RTÉ News
+
+Former President of Ireland Mary Robinson has said that what is happening in Gaza is "unconscionable", adding that people realise "an unfolding genocide" cannot be tolerated. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0724/1525129-gaza-robinson/>
+
+---
+
+## Catholic Music Awards announces 2025 finalists
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>The finalists for the Catholic Music Awards, often called the Catholic Grammys, have been announced and the winners will be announced at the Award Ceremony Sunday, 27 July, at the Auditorium Conciliazione, down the road from St. Peter's Square.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/finalists-announced-catholic-music-awards-2025-grammys.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/finalists-announced-catholic-music-awards-2025-grammys.html>
+
+---
+
+## Russian attack kills three members of Ukrainian family
+
+date: 2025-07-24, from: RTÉ News
+
+A Russian overnight attack on the border region of Kharkiv killed three members of a Ukrainian family who had earlier fled their homes to escape Russian advances, authorities announced. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0724/1525115-russia-ukraine/>
+
+---
+
+## EU states back €93bn reprisals if US trade talks fail
+
+date: 2025-07-24, from: RTÉ News
+
+European Union member states have voted to approve counter-tariffs on €93 billion of US goods, which could be imposed should the bloc fail to reach a trade deal with Washington, EU diplomats said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0724/1525110-eu-us-tariffs/>
+
+---
+
+## Ukraine hospital chaplain: Under the bombs with faith and resilience
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>In an interview with Vatican Media, Father Yaroslav Rokhman, who ministers at the perinatal center of Ivano-Frankivsk, speaks of the fear experienced by women forced to take shelter during Russian army bombardments, and laments that military actions continue unabated in the country with raids which do not even spare the children.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/ukraine-hospital-chaplain-war-interview.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/ukraine-hospital-chaplain-war-interview.html>
+
+---
+
+## Family disappointed with sentence for daughter's murderer
+
+date: 2025-07-24, from: RTÉ News
+
+The family of an Irish woman who was strangled by her then partner in a hotel in Spain two years ago say they are very disappointed with the sentence imposed on him for her murder. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0724/1525102-keith-byrne-court/>
+
+---
+
+## Plane carrying 49 crashes in Russia's far east
+
+date: 2025-07-24, from: RTÉ News
+
+A passenger plane carrying 49 people crashed in Russia's far eastern region of Amur, authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0724/1525100-russia-plane-crash/>
+
+---
+
+## Aid agencies denounce Israeli ‘siege’ of Gaza
+
+date: 2025-07-24, from: Vatican News
+
+
+                    <p>More than 100 largely aid and rights groups on Wednesday called for governments to take action as hunger spreads in Gaza, including by demanding an immediate and permanent ceasefire and the lifting of all restrictions on the flow of humanitarian aid.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/aid-agencies-denounce-israeli-siege-of-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/aid-agencies-denounce-israeli-siege-of-gaza.html>
+
+---
+
+## Thailand deploys fighter jet in border dispute escalation with Cambodia, killing at least 12
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592764.1753353302!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/thailand-cambodia.JPG' alt='Large black smoke is shown from a distance rising above a gas station. Dozens of people are shown standing and staring at the smoke.' width='620' height='349' title='Smoke rises from a convenience store at a gas station, amid the clashes between Thailand and Cambodia, in Kantharalak district, Sisaket province, Thailand, July 24, 2025, in this screengrab obtained from a handout video.  '/><p>A Thai F-16 fighter jet bombed targets in Cambodia, both sides said, as weeks of tension over a border dispute escalated into clashes on Thursday that have killed at least 12 people, including 11 civilians.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/thailand-cambodia-deadly-exchange-1.7592763?cmp=rss>
+
+---
+
+## Overcrowding a 'chronic issue' in Irish prisons - report
+
+date: 2025-07-24, from: RTÉ News
+
+Overcrowding in Irish prisons remains a "chronic issue" with prisoners sometimes forced to live in "squalid conditions", a Council of Europe report has found. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0724/1525053-irish-prisons-report/>
+
+---
+
+## Government considers delaying hospitality VAT reduction
+
+date: 2025-07-24, from: RTÉ News
+
+The Government is considering whether it should delay introducing a VAT reduction for the hospitality sector until the middle of next year. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0724/1525084-hospitality-vat/>
+
+---
+
+## Israel considering Hamas response to ceasefire proposal
+
+date: 2025-07-24, from: RTÉ News
+
+Hamas has confirmed it has responded to an Israeli proposal for a 60-day ceasefire in Gaza, while Israel said it is examining the Palestinian militant group's proposals. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0724/1525083-gaza-israel/>
+
+---
+
+## Plane carrying 49 people crashes in east Russia
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592761.1753349284!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/russia-airplane.JPG' alt='A closeup of a passenger airplane is shown.' width='620' height='349' title='An An-24 aircraft of Angara Airlines is shown landing at the airport of Irkutsk, Russia in an April 2024 file photo. Angara&apos;s An-24 bound for Tynda from Blagoveshchensk in Russia&apos;s Far East crashed on Thursday.'/><p>The wreckage of a plane that crashed while carrying 49 people has been found in Russia's Far East, local emergency services said Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-far-east-tynda-plane-crash-1.7592755?cmp=rss>
+
+---
+
+## More powers for IRB among action plan on insurance costs
+
+date: 2025-07-24, from: RTÉ News
+
+Improving pricing transparency and giving the Injuries Resolution Board more powers are among the main measures outlined by the Government to bring down insurance costs in the latest action plan on insurance reform. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0724/1525055-insurance-costs/>
+
+---
+
+## Trump was told he is in Epstein files, WSJ reports
+
+date: 2025-07-24, from: RTÉ News
+
+US Attorney General Pam Bondi told President Donald Trump in May that his name appeared in investigative files related to convicted sex offender Jeffrey Epstein, the Wall Street Journal has reported. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0724/1525074-donald-trump-us/>
+
+---
+
+## Data flags hundreds of Russian 'shadow fleet' visits to Irish EEZ
+
+date: 2025-07-24, from: RTÉ News
+
+More than 240 so-called 'shadow fleet' vessels linked to Russia, transited through Ireland's EEZ over 450 times this year. Experts warn of environmental risks and sanction evasion, as authorities continue to monitor activity 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0724/1525050-shadow-fleet-irish-eez/>
+
+---
+
+## Man who raped foster daughter ordered to pay her €328,000
+
+date: 2025-07-24, from: RTÉ News
+
+The High Court has ruled that a man who repeatedly raped his foster daughter over seven years must pay her €328,000 in damages. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0724/1525057-stephen-murray-court/>
+
+---
+
+## 11 dead in border clashes between Thailand and Cambodia
+
+date: 2025-07-24, from: RTÉ News
+
+Thailand's embassy in Cambodia has urged its nationals to leave the country as troops from the two nations clashed over a disputed border area. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0724/1525072-thailand-cambodia/>
+
+---
+
+## €2bn retrofitting commitment under review, dept says
+
+date: 2025-07-24, from: RTÉ News
+
+A commitment given by the last government to spend €2bn retrofitting residential homes by the year 2030 is now under review by Minister for Environment and Energy Darragh O'Brien. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0724/1525046-retrofit-homes/>
+
+---
+
+## Swapping weather bombs for real bombs: The debate over climate change as national security heats up
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7590715.1753167543!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildfire-evacuees-from-musgrave-harbour-n-l-welcomed-in-gander.jpg' alt='A smokey orange fire is seen on the horizon in the dusk.' width='620' height='349' title='A wildfire near Musgrave Harbour, N.L., forced around 900 residents to evacuate the community and many headed to nearby Gander — a community with a well-known history of opening its arms to people in need.'/><p>While much of Western Canada, northern Ontario and Newfoundland burn this summer, there's a growing debate about whether climate change should be considered a national security issue and questions about why it hasn't already been looked at through that lens.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/climate-change-military-analysis-1.7592647?cmp=rss>
+
+---
+
+## Inuit leaders meet Carney in N.W.T. to talk nation-building projects
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7592459.1753302248!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250717.jpg' alt='A man speaks at a podium.' width='620' height='349' title='Prime Minister Mark Carney speaks during the First Nations Summit at the Canadian Museum of History in Gatineau, Que., on Thursday, July 17, 2025. THE CANADIAN PRESS/Spencer Colby'/><p>Prime Minister Mark Carney is meeting Inuit leaders Thursday in Inuvik as he ramps up his outreach to Indigenous communities about his plan to fast-track major nation-building projects.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/carney-inuit-leaders-inuvik-1.7592211?cmp=rss>
+
+---
+
+## McCarthy out but nine Irish to start second Lions Test
+
+date: 2025-07-24, from: RTÉ News
+
+Andy Farrell is backing his Irish stars to deliver a series win, naming an incredible nine Irish players in his starting team for Saturday's second Test against the Wallabies in Melbourne. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0724/1525071-mccarthy-out-but-nine-irish-to-start-second-lions-test/>
+
+---
+
+## Taoiseach to travel to Luxembourg for two-day visit
+
+date: 2025-07-23, from: RTÉ News
+
+Taoiseach Micheál Martin is due to travel to Luxembourg to meet the country's Prime Minister Luc Frieden, as part of a two-day visit to the grand duchy. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0724/1525064-taoiseach-luxembourg/>
+
+---
+
+## U.S. appeals court upholds block on Trump's bid to end birthright citizenship
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592731.1753324599!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/u-s-president-donald-trump-speaking-at-ai-summit-in-washington-d-c.JPG' alt='U.S. President Donald Trump speaking at an AI-related summit in Washington.' width='620' height='349' title='U.S. President Donald Trump delivers remarks on artificial intelligence at the &quot;Winning the AI Race&quot; Summit in Washington D.C., U.S., July 23, 2025.'/><p>A federal U.S. appeals court in San Francisco ruled Wednesday that U.S. President Donald Trump's order seeking to end birthright citizenship is unconstitutional, affirming a lower-court decision that blocked its enforcement nationwide.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-court-birthright-citizenship-1.7592729?cmp=rss>
+
+---
+
+## Watch: Restaurants creating 'plates for Palestine'
+
+date: 2025-07-23, from: RTÉ News
+
+More than 130 restaurants around Ireland are creating Palestinian-inspired dishes to raise money for charities working in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0724/1525027-restaurants-palestine/>
+
+---
+
+## Columbia University agrees to pay $220M in deal with Trump administration
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7490554.1742596544!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lawn-space-at-columbia-university-in-new-york-city-where-protest-encampment-was-located.jpg' alt='A view of a lawn on the campus of New York City&apos;s Columbia University, in the aftermath of the removal of a protest encampment in the same space.' width='620' height='349' title='The lawn where a Gaza protest encampment was located at Columbia University&apos;s main campus stands empty and cleaned after police cleared out a Gaza protest encampment on May 06, 2024 in New York City. Following weeks of unrest by pro-Palestinian protesters at the campus, Columbia has decided to cancel its main graduation ceremony out of fear and concern for disruptions during the event. Instead, the university will hold smaller ceremonies for graduates at different locations.'/><p>Columbia University has reached a deal with the Trump administration to pay more than $220 million US to the federal government to restore federal research money that was cancelled in the name of combating antisemitism on campus, the university announced Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/columbia-university-trump-settlement-research-funds-1.7592711?cmp=rss>
 
 ---
 
@@ -21,6 +485,18 @@ SIPTU has expressed concerns over reports that Education and Training Boards are
 
 ---
 
+## French president and wife sue U.S. podcaster for claiming Brigitte Macron was born male
+
+date: 2025-07-23, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592578.1753308240!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/britain-france.JPG' alt='Woman with shoulder length white hair wearing a white coat sitting beside a dark haired man wearing a blue suit and tie.' width='620' height='349' title='France&apos;s President Emmanuel Macron and his wife Brigitte Macron attend a ceremony during their visit to The British Museum in London, Britain, July 9, 2025. '/><p>French President Emmanuel Macron and his wife filed a defamation lawsuit in the U.S. on Wednesday against right-wing influencer and podcaster Candace Owens after she claimed that Brigitte Macron is male.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/macron-lawsuit-candace-owens-1.7592570?cmp=rss>
+
+---
+
 ## Man, 91, died after week-long delay on X-ray, court told
 
 date: 2025-07-23, from: RTÉ News
@@ -30,6 +506,18 @@ The HSE has issued an apology to the family of a 91-year-old man who died with c
 <br> 
 
 <https://www.rte.ie/news/2025/0723/1525032-court-x-ray-delay/>
+
+---
+
+## Man, 91, died after week-long delay on X-ray, court told
+
+date: 2025-07-23, from: RTÉ News
+
+The HSE has issued an apology to the family of a 91-year-old man who died with choking complications after a hospital took a week to act on an X-ray which revealed that he had swallowed dentures. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0723/1525032-court-x-ray-delay/>
 
 ---
 
@@ -117,11 +605,11 @@ Maeve Kyle, a pioneering figure in Irish athletics and a former hockey internati
 
 ---
 
-## O'Leary describes Dublin Metrolink as 'a waste of money'
+## O'Leary describes Dublin MetroLink as 'a waste of money'
 
 date: 2025-07-23, from: RTÉ News
 
-Michael O'Leary, Group Chief Executive of Ryanair Holdings, has described the proposed Metrolink rail service in Dublin - that would also serve Dublin Airport - as a waste of money. 
+The head of Ryanair has described the proposed MetroLink rail service in Dublin - that would also serve Dublin Airport - as a waste of money. 
 
 <br> 
 
@@ -417,7 +905,7 @@ At a time of escalating violence and record levels of hunger in Nigeria, critica
 
 ---
 
-## Home is where the heart is — and where development begins
+## Home is where the heart is – and where development begins
 
 date: 2025-07-23, from: United Nations, Top Stories
 
@@ -457,7 +945,7 @@ A senior UN official on Wednesday urged the Security Council to push for an imme
 
 date: 2025-07-23, from: United Nations, Top Stories
 
-Pregnant women and newborns in Gaza face “catastrophic” conditions, including a dysfunctional healthcare system, psychological stress and food deprivation the UN reproductive health agency (UNFPA) reported on Wednesday.&nbsp; 
+Pregnant women and newborns in Gaza face “catastrophic” conditions, including a dysfunctional healthcare system, psychological stress and food deprivation, the UN reproductive health agency UNFPA reported on Wednesday.&nbsp; 
 
 <br> 
 
@@ -474,6 +962,18 @@ The Security Council meets today for its quarterly open debate on the situation 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165470>
+
+---
+
+## Syria: Second convoy brings critical aid to Sweida
+
+date: 2025-07-23, from: United Nations, Top Stories
+
+A second convoy from the Syrian Arab Red Crescent (SARC) reached battered Sweida on Wednesday, the UN Office for the Coordinatin of Humanitarian Affairs (OCHA) reported in its latest update.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165481>
 
 ---
 
@@ -546,6 +1046,18 @@ A boy, a girl and a woman in her 40s have died after a shooting in Co Fermanagh,
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0723/1524914-fermanagh-incident/>
+
+---
+
+## Two children and woman dead after Fermanagh shooting
+
+date: 2025-07-23, from: RTÉ News
+
+A boy, a girl and a woman in her 40s have died after a shooting near Maguiresbridge in Co Fermanagh yesterday, police have confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0723/1524914-fermanagh-incident/>
 
 ---
 
@@ -657,11 +1169,11 @@ Journalists in Gaza have said that chronic food shortages are affecting their ab
 
 ---
 
-## Russia, Ukraine to hold first peace talks in nearly 2 months
+## Russia, Ukraine wrap latest peace talks without deal on ceasefire or plan for leaders to meet
 
 date: 2025-07-23, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7591748.1753265154!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-east-frontline.JPG' alt='A helmeted soldier is shown in profile in a dug-out area of ground, with a large howitzer beside him.' width='620' height='349' title='A service member of the 13th Operative Purpose Brigade of the National Guard of Ukraine checks an M101 howitzer after firing towards Russian troops, at a position in a front line in Kharkiv region, Ukraine on Monday.'/><p>The Kremlin said that Russia and Ukraine are due to hold direct talks in Istanbul on Wednesday evening but added that the negotiations would not be easy.</p> 
+<img src='https://i.cbc.ca/1.7591748.1753265154!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-east-frontline.JPG' alt='A helmeted soldier is shown in profile in a dug-out area of ground, with a large howitzer beside him.' width='620' height='349' title='A service member of the 13th Operative Purpose Brigade of the National Guard of Ukraine checks an M101 howitzer after firing towards Russian troops, at a position in a front line in Kharkiv region, Ukraine on Monday.'/><p>Russia and Ukraine discussed further prisoner swaps on Wednesday at a brief session of peace talks in Istanbul, but the sides remained far apart on ceasefire terms and a possible meeting of their leaders.</p> 
 
 <br> 
 
@@ -1237,7 +1749,7 @@ Worrying alerts from United Nations staff in the Gaza Strip who have been fainti
 
 date: 2025-07-22, from: United Nations, Top Stories
 
-The Security Council on Tuesday adopted a resolution urging all Member States to “utilize effectively” the mechanisms for pacific settlement of disputes as outlined in the United Nations Charter, including “negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement” and other peaceful means of their choice. 
+The Security Council on Tuesday adopted a resolution urging all Member States to “utilise effectively” the mechanisms for the pacific settlement of disputes as outlined in the United Nations Charter, including “negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement” and other peaceful means of their choice. 
 
 <br> 
 
@@ -1415,7 +1927,7 @@ date: 2025-07-22, from: Vatican News
 date: 2025-07-22, from: Vatican News
 
 
-                    <p>The Dicastery for the Causes of Saints is responsible for following the process of beatification and canonisation of the Servants of God, assisting the bishops of the dioceses to which they belong in the investigation of martyrdom, heroic virtues, or the offering of life of a particular faithful Catholic; as well as any miracles attributed to them. </p>
+                    <p>The Dicastery for the Causes of Saints is responsible for managing the process of beatification and canonisation of the Servants of God, and assisting the bishops of the dioceses to which they belong in the investigation of martyrdom, heroic virtues, or the offering of life of a particular faithful Catholic, as well as any miracles attributed to them. </p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-causes-of-saints.html">Read all</a></p>
                     <p>&nbsp;</p>
                      

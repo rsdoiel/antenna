@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-07-23 14:07:57
+updated: 2025-07-24 06:09:32
 ---
 
 # games
 
-(date: 2025-07-23 14:07:57)
+(date: 2025-07-24 06:09:32)
+
+---
+
+## How to watch the Battlefield 6 reveal
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+Electronic Arts and DICE will reveal the next mainline Battlefield game on Thursday, more than four years after the release of Battlefield 2042 and EA’s ensuing promise to revitalize the flagging franchise with new management and an all-in approach from multiple game studios. Battlefield 6’s reveal will arrive on July 24, at 8 a.m. PDT/11 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/615551/battlefield-6-reveal-trailer-gameplay>
+
+---
+
+## Racing Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+In Donkey Kong Bananza, the Racing Layer is home to the Diddy Kong and Dixie Kong and, of course, Banandium Gems. The duo finally make their appearance on the eleventh layer where you can find them racing alongside Rambi and a bunch of other rhinos. The bananas on this layer are mostly on the starting [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/611878/racing-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Landfill Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+In Donkey Kong Bananza, the Landfill Layer is the tenth layer and it’s full of, well, trash. But scattered amid the rubbish is a bunch of Banandium Gems. Inside this heap of garbage, you’ll need to search behind metal scrap, dirt, and loads of debris to to collect all of the golden bananas. Below, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615331/landfill-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Tempest Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-23, updated: 2025-07-23, from: Polygon Website
+
+The Tempest Layer is the ninth layer you’ll visit in Donkey Kong Bananza, and like all the others, it’s full of Banandium Gems. You’ll need to make use of the Elephant Bananza you get on this layer to grab a ton of them, which are locked behind the new mechanic of gulping down dangerous terrain [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615024/tempest-layer-banandium-gem-golden-banana-locations-list-map-all>
 
 ---
 
