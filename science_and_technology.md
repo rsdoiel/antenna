@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-07-25 06:07:40
+updated: 2025-07-25 14:09:14
 ---
 
 # science and technology
 
-(date: 2025-07-25 06:07:40)
+(date: 2025-07-25 14:09:14)
+
+---
+
+## How GNOME made its Calendar application accessible
+
+date: 2025-07-25, from: OS News
+
+This article will explain in details about the fundamental issues that held back accessibility in GNOME Calendar since the very beginning of its existence, the progress we have made with accessibility as well as our thought process in achieving it, and the now and future of accessibility in GNOME Calendar. ↫ Hari &#8220;TheEvilSkeleton&#8221; Rana You&#8217;d think it would be easy to make a &#8220;simple&#8221; calendar application properly accessible, but boy would you be wrong. In this article, Hari &#8220;TheEvilSkeleton&#8221; Rana details just how much work had to be done in order to turn GNOME Calendar from entirely inaccessible into an accessible application, and considering the length of the article, you can see it wasn&#8217;t a weekend effort. There were apparently two primary reasons why making GNOME Calendar accessible was so hard. First, maximising GNOME Calendar&#8217;s performance optimisations had significant negative implications for accessibility, and two, the effectively endless flexibility a calendar needs to offer makes it very difficult to create a usable accessibility tree. Both the events on a calendar as well as the zooming view of a calendar lead to a ton of complexity in creating this tree. GNOME Calendar uses a ton of custom widgets, and these all needed specific, individual solutions to be made accessible. As an example, the article mentions that while it was possible to use the keyboard to create an event, it was not possible to use the keyboard to select created events. Obviously, even this one shortcoming alone effectively makes the entire application inaccessible to anyone relying solely on keyboard navigation. The article goes into great detail how both the above widget and countless other widgets were changed to make them accessible to both the keyboard and screen reader. If you&#8217;re working on GTK applications, or even applications using other toolkits, Rana&#8217;s article is a great resource to start to understand the complexities and creative thinking needed to implement accessibility in software properly. 
+
+<br> 
+
+<https://www.osnews.com/story/142900/how-gnome-made-its-calendar-application-accessible/>
+
+---
+
+## It’s a DE9, not a DB9
+
+date: 2025-07-25, from: OS News
+
+You’ve seen them everywhere, especially on older computer equipment: the classic 9-pin serial connector. You probably know it as a DB9. It’s an iconic connector for makers, engineers, and anyone who&#8217;s ever used an RS232 serial device. Here&#8217;s a little secret, though: calling it a DB9 is technically wrong. The correct name is actually DE9. ↫ Christo-boots with the-pher at Sparkfun Electronics I honestly had no idea, and looking through the Wikipedia page, it seems this isn&#8217;t the only common misnomer when it comes to D-sub connectors. 
+
+<br> 
+
+<https://www.osnews.com/story/142898/its-a-de9-not-a-db9/>
+
+---
+
+## Senator to Google: Give us info from telco Salt Typhoon probes
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>AT&amp;T and Verizon refused to hand over the security assessments, says Cantwell</h4> <p>US Senator Maria Cantwell (D-WA) has demanded that Google-owned incident response firm Mandiant hand over the Salt Typhoon-related security assessments of AT&amp;T and Verizon that, according to the lawmaker, both operators have thus far refused to give Congress.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/senator_mandiant_salt_typhoon_demands/>
+
+---
+
+## Celebrating 25 Years of Continuous Human Presence Aboard the International Space Station
+
+date: 2025-07-25, from: NASA breaking news
+
+NASA and its partners have supported humans continuously living and working in space since November 2000. A truly global endeavor, the International Space Station has been visited by more than 280 people from 23 countries and a variety of international and commercial spacecraft. The unique microgravity laboratory has hosted more than 4,000 experiments from more [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/celebrating-25-years-of-continuous-human-presence-aboard-the-international-space-station/>
+
+---
+
+## First release candidate of systemd 258 is here
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>The latest version of systemd looks to be a big one, with substantial new functionality. More to love – right?</h4> <p>Like it or not, systemd is the industry-standard <code>init</code> system these days. A new release is coming, and it&#39;s a big one.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/systemd_258_first_rc_here/>
+
+---
+
+## Orbital datacenters subject to launch stress, nasty space weather, and expensive house calls
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Space is hard, especially for racks of fragile computer equipment</h4> <p><strong>opinion</strong>  William Gibson&#39;s Neuromancer holds up well after 40 years. One of the cyberpunk novel&#39;s concepts was an AI housed in an orbital datacenter (ODC) above the Earth. Today, startup companies and venture capital firms are hoping to turn orbital datacenters into reality to enable AI, believing that free power from the sun and cooling using the emptiness of space will unlock the technology from its terrestrial-based shackles of electric bills and cooling water.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/orbital_datacenters_subject_to_all/>
+
+---
+
+## How to find forgotten Wi-Fi passwords and SSIDs in Windows and Android
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>If you&#39;ve ever logged into a network on your laptop or phone, the password is still there</h4> <p><strong>hands-on</strong>  You&#39;re at a place you&#39;ve been before and your Windows laptop immediately remembers the SSID and password for the Wi-Fi network, logging you on automatically. But your phone, tablet, and your coworker&#39;s laptop have never been here before, so they can&#39;t connect. If only you remembered the password or had it written down somewhere.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/find_wifi_passwords_ssids_windows_android/>
+
+---
+
+## As AI becomes more popular, concerns grow over its effect on mental health
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Too much of anything is bad for you, including faux-magical statistical models</h4> <p>There are numerous recent reports of people becoming too engaged with AI, sometimes to the detriment of their mental health.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/is_ai_contributing_to_mental/>
+
+---
+
+## NASA Invites Media to SpaceX’s 33rd Resupply Launch to Space Station
+
+date: 2025-07-25, from: NASA breaking news
+
+Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. This launch is the 33rd SpaceX commercial resupply services mission to the orbital laboratory for NASA and will liftoff on the company’s Falcon 9 rocket. NASA and SpaceX are targeting no earlier than Thursday, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-33rd-resupply-launch-to-space-station/>
+
+---
+
+## US DoE taps federal sites for fast-track AI datacenter and energy builds
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Private sector invited to colocate at legacy nuclear facilities</h4> <p>The US Department of Energy (DoE) has identified four sites where private sector firms will be invited to colocate datacenters and energy generation projects, in line with the Trump administration&#39;s goal to boost AI development in America.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/doe_ai_infra/>
+
+---
+
+## NASA Rehearses How to Measure X-59’s Noise Levels
+
+date: 2025-07-25, from: NASA breaking news
+
+In a stretch of California’s Mojave Desert, NASA conducted a full-scale “dress rehearsal” to prepare how it will measure the noise generated by the X-59 quiet supersonic research aircraft. The team behind the successful test flight series operates under NASA’s Commercial Supersonic Technology project. Beginning June 3 and concluding this week, researchers conducted a dry [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-rehearses-how-to-measure-x-59s-noise-levels/>
+
+---
+
+## NASA Invites Virtual Guests to SpaceX Crew-11 Mission Launch
+
+date: 2025-07-25, from: NASA breaking news
+
+NASA invites the public to participate as virtual guests in the launch of the agency’s SpaceX Crew-11 mission to the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov will launch aboard a SpaceX Dragon spacecraft to the orbiting laboratory. This [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/commercial-crew/nasa-invites-virtual-guests-to-spacex-crew-11-mission-launch/>
+
+---
+
+## FreeBSD 15 installer to offer minimal KDE desktop
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>The FreeBSD Laptop project continues – and plans to offer a very visible change</h4> <p>FreeBSD 15 is coming, maybe at the end of this year – and along with other improvements, it may finally offer the option of installing with a graphical desktop.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/freebsd_15_installer_offers_kde/>
+
+---
+
+## Meta joins Google in ragequitting EU political ads over onerous regulations
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Zuckercorp blames legal uncertainty under upcoming TTPA law</h4> <p>Meta has followed in Google&#39;s footsteps in deciding that pending EU political advertising regulations are so onerous to comply with that they&#39;re not even going to bother.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/meta_eu_political_ads/>
+
+---
+
+## Freelance dev shop Toptal caught serving malware after GitHub account break-in
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Malicious code lurking in over 5,000 downloads, says Socket researcher</h4> <p>Developer freelancing platform Toptal has been inadvertently spreading malicious code after attackers broke into its systems and began distributing malware through developer accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/toptal_malware_attack/>
+
+---
+
+## Facebook, Google cease political advertising in the EU because of new EU transparency and accountability law
+
+date: 2025-07-25, from: OS News
+
+Last year the European Union introduced legislation to greatly improve the transparency around political advertising, specifically on social media and websites. The law mandates a few very basic requirements that tend to already apply to many other forms of political advertising, like clearly labeling who paid for the ad and how much was spent, which election or referendum they&#8217;re about, and which targeting techniques were used. In addition, data used for targeting may only be collected from the person being targeted, and the person targeted has to give explicit permission specifically for political advertising. Furthermore, a whole slew of data types are not allowed to be used, such as data that may reveal ethnic or racial origin or political opinions. Lastly, an obvious one: starting three months before an election of referendum, third country sponsors are banned from advertising. It seems these rather basic, elementary requirements are too much for Facebook, as the company today announced it&#8217;s going to stop offering political advertising in the European Union altogether in October of this year. The company cries on its blog: Despite extensive engagement with policymakers to share these concerns, we have been left with an impossible choice: alter our services to offer an advertising product which doesn’t work for advertisers or users, without guarantee that our solution would be viewed as compliant, or stop allowing political, electoral and social issue ads in the EU. We’re not the only company to have been forced into this position. Once again, we’re seeing regulatory obligations effectively remove popular products and services from the market, reducing choice and competition. ↫ Sad Facebook As the link in Facebook&#8217;s above lament points out, Google has also decided to stop offering political advertising in the European Union, for the exact same reasons. Facebook and Google are clearly trying to frame this as &#8220;bad&#8221;, but the only people the removal of hyper-targeted political advertising is bad for are threat actors trying to unduly and illegally influence elections, and of course, for the bottom line of Facebook and Google. Neither of these are of any relevance to the proper execution of fair and free elections, and people all across the European Union will be better off without these two advertising giants providing an easy avenue for shady organisations and foreign entities to unduly influence our elections. Basically, cry me a river Zuck. Nobody likes you. 
+
+<br> 
+
+<https://www.osnews.com/story/142892/facebook-google-cease-political-advertising-in-the-eu-because-of-new-eu-transparency-and-accountability-law/>
+
+---
+
+## Quantum Scientists Have Built a New Math of Cryptography
+
+date: 2025-07-25, from: Quanta Magazine
+
+In theory, quantum physics can bypass the hard mathematical problems at the root of modern encryption. A new proof shows how.            <p>The post <a href="https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/" target="_blank">Quantum Scientists Have Built a New Math of Cryptography</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/>
+
+---
+
+## Debian isn't waiting for 2038 to blow up, switches to 64-bit time for everything
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>We say everything... just not the oldest hardware. Unix Epochalypse less than 13 years away</h4> <p>Venerable Linux distribution Debian is side-stepping the Y2K38 bug – also known as the Unix Epochalypse – by switching to 64-bit time for everything but the oldest of supported hardware, starting with the upcoming Debian 13 &#34;Trixie&#34; release.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/y2k38_bug_debian/>
+
+---
+
+## Microsoft admits it 'cannot guarantee' data sovereignty
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Under oath in French Senate, exec says it would be compelled – however unlikely – to pass local customer info to US admin</h4> <p>Microsoft says it &#34;cannot guarantee&#34; data sovereignty to customers in France – and by implication the wider European Union – should the Trump administration demand access to customer information held on its servers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/microsoft_admits_it_cannot_guarantee/>
 
 ---
 
@@ -61,7 +289,7 @@ date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
 
 date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
 
-<h4>Policy management not affected, but some personal data may have been snaffled</h4> <p>Business insurance and employment status specialist Qdos has confirmed that an intruder has stolen some customers personal data, according to a communication to tech contractors that was seen by <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Policy management not affected, but some personal data may have been snaffled</h4> <p><strong>Updated</strong>  Business insurance and employment status specialist Qdos has confirmed that an intruder has stolen some customers personal data, according to a communication to tech contractors that was seen by <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

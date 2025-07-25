@@ -1,11 +1,76 @@
 ---
 title: home
-updated: 2025-07-25 06:07:44
+updated: 2025-07-25 14:09:18
 ---
 
 # home
 
-(date: 2025-07-25 06:07:44)
+(date: 2025-07-25 14:09:18)
+
+---
+
+## The Best Vegetables to Grow in a Fall Garden (Our Favorite Varieties)
+
+date: 2025-07-25, from: Homestead and Chil
+
+<p>Do you want to grow a fall garden, but aren't sure what to plant? Come get inspired and discover the best vegetables to grow in fall - including our favorite varieties of leafy greens, carrots, cabbage, broccoli, beets and more!</p>
+<p>The post <a href="https://homesteadandchill.com/best-fall-garden-vegetables-varieties/">The Best Vegetables to Grow in a Fall Garden (Our Favorite Varieties)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/best-fall-garden-vegetables-varieties/>
+
+---
+
+## Al Beadle’s Novak House Just Hit the Market for $1.4M
+
+date: 2025-07-25, from: Dwell
+
+Set at the foot of the Phoenix Mountains Preserve, the steel-and-glass home is suspended on pilotis to capture views of the desert landscape. 
+
+<br> 
+
+<https://www.dwell.com/article/novak-house-alfred-newman-beadle-phoenix-arizona-real-estate-d148aaca>
+
+---
+
+## Frank Lloyd Wright Gets a Film and TV Deal—and Everything Else You Need to Know About This Week
+
+date: 2025-07-25, from: Dwell
+
+Trump eyes a tax cut for home sellers, Airbnb faces a lawsuit post L.A. fires, Navajo Nation homes go solar, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-frank-lloyd-wright-tv-deal-trump-capital-gains-tax-airbnb-price-gouging-7584875c>
+
+---
+
+## Budget Breakdown: Their $98K Los Angeles Basement Reno Came In at More Than Double What They Planned
+
+date: 2025-07-25, from: Dwell
+
+A creative couple’s Silver Lake project was a hard lesson in construction costs and a fun experiment in sourcing secondhand finds. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-bamboo-suite-silver-lake-basement-renovation-d61e4c00>
+
+---
+
+## 4 Common Squirrels in Indiana​ (With Pictures and Identification)
+
+date: 2025-07-25, from: Yard Life blog
+
+<p>Squirrels are some of the most familiar and fascinating wildlife found throughout Indiana’s forests, parks, and neighborhoods. With their energetic ... </p>
+<p class="read-more-container"><a title="4 Common Squirrels in Indiana​ (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-common-squirrels-in-indiana-with-pictures-and-identification/#more-32483" aria-label="Read more about 4 Common Squirrels in Indiana​ (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-common-squirrels-in-indiana-with-pictures-and-identification/">4 Common Squirrels in Indiana​ (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-common-squirrels-in-indiana-with-pictures-and-identification/>
 
 ---
 
@@ -18,6 +83,42 @@ When Mike and Melissa Masters realized that the plans for their off-grid hut wer
 <br> 
 
 <https://www.dwell.com/article/tanglebloom-cabin-farm-vermont-442d5518>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours How Three Design-Savvy Daughters Created the Ultimate Retreat for Their Retired Mom It&#8217;s a dream home for the retired oncologist.  Read more: How Three Design-Savvy Daughters&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 11 Recipes That Star Watermelon, the Unofficial Fruit of Summer
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Sure, you can enjoy a slice of watermelon as-is, but why not add it into dishes and cocktails? These watermelon recipes are so refreshing. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/watermelon-recipes>
+
+---
+
+## 6 Ways You Can Heat-Proof Your Habitat Garden This Summer
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+As temps climb, your garden can still be a safe haven for wildlife. Here's how to protect your habitat garden from the heat. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/heat-proof-wildlife-habitat-garden>
 
 ---
 
@@ -145,6 +246,18 @@ A new ad stoking fears around Zohran Mamdani that asks New Yorkers if they’re 
 <br> 
 
 <https://www.dwell.com/article/how-courting-the-elite-became-a-growth-strategy-for-midwestern-cities-90fca73e>
+
+---
+
+## A Midcentury Desert Home Is Reimagined as a Joy-Filled Escape for a Young Family
+
+date: 2025-07-24, from: Dwell
+
+Designer Festa Radoni breathes new life into a 1956 Walter S. White house in Palm Desert, blending bold color and sun-drenched motifs. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-palm-desert-home-walter-s-white-concrete-collaborative-c49eade6>
 
 ---
 
@@ -369,18 +482,6 @@ Can't make it to Disneyland? Disney+ is offering subscribers a way to experience
 
 ---
 
-## 6 Ways You Can Heat-Proof Your Habitat Garden This Summer
-
-date: 2025-07-23, from: Sunset Magazine - Living in the West
-
-As temps climb, your garden can still be a safe haven for wildlife. Here's how to protect your habitat garden from the heat. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/heat-proof-wildlife-habitat-garden>
-
----
-
 ## Gardening in Extremes: How to Cultivate a Drought-Tolerant Landscape
 
 date: 2025-07-23, from: Dwell
@@ -402,18 +503,6 @@ From jumper cables to first aid kits, these are the items every traveler needs f
 <br> 
 
 <https://www.sunset.com/travel/road-trips/road-trip-essentials>
-
----
-
-## Homepage 2025
-
-date: 2025-07-23, from: Sunset Magazine - Living in the West
-
-Idea Houses Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. With sweeping&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

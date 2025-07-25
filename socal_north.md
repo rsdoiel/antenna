@@ -1,11 +1,164 @@
 ---
 title: socal north
-updated: 2025-07-25 06:07:38
+updated: 2025-07-25 14:09:12
 ---
 
 # socal north
 
-(date: 2025-07-25 06:07:38)
+(date: 2025-07-25 14:09:12)
+
+---
+
+## The West Nile virus is back in LA County
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+Most of the infected mosquitoes have been found around the San Fernando Valley so far. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-mosquito-west-nile-virus-detected-2025>
+
+---
+
+## Cabrillo High School baseball coach arrested on suspicion of statutory rape
+
+date: 2025-07-25, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He’s accused of sexually assaulting a teenage girl off campus, according to police.</p>
+<p>The post <a href="https://lbpost.com/news/crime/cabrillo-baseball-coach-arrested-statutory-rape">Cabrillo High School baseball coach arrested on suspicion of statutory rape</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/cabrillo-baseball-coach-arrested-statutory-rape>
+
+---
+
+## California’s $14 billion investment in expanded learning transforms summer schools
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+West Contra Costa Unified demonstrates the impact of Gov. Gavin Newsom’s little-heralded Expanded Learning Opportunity Program. 
+
+<br> 
+
+<https://laist.com/news/education/californias-14-billion-investment-in-expanded-learning-transforms-summer-schools>
+
+---
+
+## Key player in California’s water wars embraces controversial pact
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+The State Water Resources Control Board didn’t shy away from a controversial agreement in a new proposal, which qualifies as a major development in the long-running debate about delta water use. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/key-player-in-californias-water-wars-embraces-controversial-pact>
+
+---
+
+## Metro A Line extension will connect Long Beach to Pomona starting in September
+
+date: 2025-07-25, from: Longbeach Post
+
+<figure><img width="1024" height="702" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A man walks on a train platform." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-300x206.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1024x702.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-768x526.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-158x108.jpg 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1536x1053.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-2048x1404.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1200x822.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1568x1075.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-400x274.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The extension is part of Metro's program to expand transit ahead of the 2028 Olympic and Paralympic Games.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/metro-a-line-extension-will-connect-long-beach-to-pomona-starting-in-september">Metro A Line extension will connect Long Beach to Pomona starting in September</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/metro-a-line-extension-will-connect-long-beach-to-pomona-starting-in-september>
+
+---
+
+## A traveler with measles stayed at a hotel near LAX over Fourth of July weekend
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+The last case of measles in L.A. County was reported in June. 
+
+<br> 
+
+<https://laist.com/news/health/traveler-measles-hotel-near-lax-july-fourth-weekend>
+
+---
+
+## Fearing coverage could change, some parents rush to vaccinate their kids
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+Health Secretary Robert F. Kennedy Jr. is changing how federal agencies handle vaccine recommendations. Some parents are hurrying to get kids their shots, fearing future changes could limit access. 
+
+<br> 
+
+<https://laist.com/news/health/fearing-coverage-could-change-some-parents-rush-to-vaccinate-their-kids>
+
+---
+
+## California’s NPR and PBS stations will cut staff and programs after funding slashed
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+Public radio and TV stations across California say they are cutting local programming and laying off staff after Congress approved major funding cuts. 
+
+<br> 
+
+<https://laist.com/news/politics/californias-npr-and-pbs-stations-will-cut-staff-and-programs-after-funding-slashed>
+
+---
+
+## Long Beach wants to take a swing at bringing another minor league baseball team to town
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+LBC has been home to several minor league teams, but city officials want a new bench to play at Blair Field. 
+
+<br> 
+
+<https://laist.com/news/long-beach-wants-another-minor-league-baseball-team>
+
+---
+
+## Cal State is still in the red despite tuition increase and spending cuts
+
+date: 2025-07-25, from: Longbeach Post
+
+<figure><img width="1024" height="730" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-1024x730.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-1024x730.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-151x108.jpg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-400x285.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cal State’s budget gap is now $2.3 billion. It’s not likely to get any help from the state, which is struggling with its own deficit.</p>
+<p>The post <a href="https://lbpost.com/news/education/cal-state-is-still-in-the-red-despite-tuition-increase-and-spending-cuts">Cal State is still in the red despite tuition increase and spending cuts</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/cal-state-is-still-in-the-red-despite-tuition-increase-and-spending-cuts>
+
+---
+
+## LA housing vouchers will soon cover less rent. City officials blame Trump funding cuts
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+Starting Aug. 1, the city will decrease rent subsidies for its federally funded Section 8 housing vouchers, leaving 60,000 households stuck with fewer places to go. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-housing-authority-city-hacla-section-8-voucher-rent-cuts-trump-funding>
+
+---
+
+## Is Los Angeles a coffee city? We try to settle an unwinnable feud
+
+date: 2025-07-25, updated: 2025-07-25, from: The LAist
+
+L.A. and coffee are synonymous, but how does it compare to other major U.S. cities? 
+
+<br> 
+
+<https://laist.com/news/food/is-los-angeles-a-coffee-city-two-laist-colleagues-try-to-settle-feud>
 
 ---
 
@@ -18,18 +171,6 @@ The Palisades Fire was just the first hardship the restaurant faced. A mudslide 
 <br> 
 
 <https://laist.com/news/food/dukes-malibu-survived-the-palisades-fire-the-mud-has-kept-it-closed>
-
----
-
-## Is Los Angeles a coffee city? Two LAist colleagues try to settle an unwinnable feud
-
-date: 2025-07-25, updated: 2025-07-25, from: The LAist
-
-L.A. and coffee are synonymous, but how does it compare to other major U.S. cities? 
-
-<br> 
-
-<https://laist.com/news/food/is-los-angeles-a-coffee-city-two-laist-colleagues-try-to-settle-feud>
 
 ---
 
@@ -57,7 +198,7 @@ With his beard, long hair and brown felt fedora, the jazz flugelhorn player and 
 
 ---
 
-## Trump administration approves sale of CBS parent company Paramount
+## Trump administration approves sale of CBS parent company Paramount after concessions
 
 date: 2025-07-25, updated: 2025-07-25, from: The LAist
 
@@ -95,7 +236,7 @@ It's just the start of a summer recess for Congress, but already House Republica
 
 ## Metro A Line extension will connect Long Beach to Pomona starting in September
 
-date: 2025-07-24, updated: 2025-07-24, from: The LAist
+date: 2025-07-24, updated: 2025-07-25, from: The LAist
 
 New stops on the A Line include Glendora, San Dimas and La Verne. 
 
@@ -133,7 +274,7 @@ California voters in 2016 passed a ballot initiative championed by Gov. Gavin Ne
 
 date: 2025-07-24, from: Longbeach Post
 
-<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-768x407.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-768x407.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Bar-goers will be allowed to stroll with a drink in their hand down one block of The Promenade in downtown Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/public-drinking-long-beach-entertainment-zone">Long Beach to test first event with sanctioned public drinking next month</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -148,7 +289,7 @@ date: 2025-07-24, from: Longbeach Post
 
 date: 2025-07-24, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California voters in 2016 passed a ballot initiative championed by Gov. Gavin Newsom that in part required background checks for ammunition purchases. The 9th Circuit Court of Appeals found that provision violates the 2nd Amendment.</p>
 <p>The post <a href="https://lbpost.com/news/court-blocks-ammunition-background-checks-in-new-blow-to-californias-gun-control-framework">Court blocks ammunition background checks in new blow to California’s gun control framework</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -291,7 +432,7 @@ Native plants, succulents and mulch are important considerations. But you can al
 
 ## The wildest ride at the OC Fair is the emotional rollercoaster of competitive table setting
 
-date: 2025-07-24, updated: 2025-07-24, from: The LAist
+date: 2025-07-24, updated: 2025-07-25, from: The LAist
 
 What is competitive table setting? And why do people do it? We talked to some veteran tablescapers and got some answers. 
 

@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-07-25 06:07:44
+updated: 2025-07-25 14:09:19
 ---
 
 # motorcycles
 
-(date: 2025-07-25 06:07:44)
+(date: 2025-07-25 14:09:19)
+
+---
+
+## All Powersport Vehicles From Japan Just Got 15% More Expensive
+
+date: 2025-07-25, from: Ride Apart, Electric Motorcycle News
+
+Thanks, Obama. Wait. 
+
+<br> 
+
+<https://www.rideapart.com/news/766886/trump-administration-japanese-japan-tariffs-15-percent-powersports-motorcycles/>
 
 ---
 

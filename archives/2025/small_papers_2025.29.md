@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-07-25 06:07:46
+updated: 2025-07-25 14:09:21
 ---
 
 # small papers
 
-(date: 2025-07-25 06:07:46)
+(date: 2025-07-25 14:09:21)
+
+---
+
+## Cabrillo High School baseball coach arrested on suspicion of statutory rape
+
+date: 2025-07-25, from: Long Beach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He’s accused of sexually assaulting a teenage girl off campus, according to police.</p>
+<p>The post <a href="https://lbpost.com/news/crime/cabrillo-baseball-coach-arrested-statutory-rape">Cabrillo High School baseball coach arrested on suspicion of statutory rape</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/cabrillo-baseball-coach-arrested-statutory-rape>
+
+---
+
+## Metro A Line extension will connect Long Beach to Pomona starting in September
+
+date: 2025-07-25, from: Long Beach Post
+
+<figure><img width="1024" height="702" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A man walks on a train platform." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-300x206.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1024x702.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-768x526.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-158x108.jpg 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1536x1053.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-2048x1404.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1200x822.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1568x1075.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-400x274.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The extension is part of Metro's program to expand transit ahead of the 2028 Olympic and Paralympic Games.</p>
+<p>The post <a href="https://lbpost.com/news/business/trade-transportation/metro-a-line-extension-will-connect-long-beach-to-pomona-starting-in-september">Metro A Line extension will connect Long Beach to Pomona starting in September</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/trade-transportation/metro-a-line-extension-will-connect-long-beach-to-pomona-starting-in-september>
+
+---
+
+## Cal State is still in the red despite tuition increase and spending cuts
+
+date: 2025-07-25, from: Long Beach Post
+
+<figure><img width="1024" height="730" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-1024x730.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-1024x730.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-300x214.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-768x548.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-151x108.jpg 151w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7-400x285.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/01/02141907/02JAN24-CSULB-7.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cal State’s budget gap is now $2.3 billion. It’s not likely to get any help from the state, which is struggling with its own deficit.</p>
+<p>The post <a href="https://lbpost.com/news/education/cal-state-is-still-in-the-red-despite-tuition-increase-and-spending-cuts">Cal State is still in the red despite tuition increase and spending cuts</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/cal-state-is-still-in-the-red-despite-tuition-increase-and-spending-cuts>
 
 ---
 
@@ -13,7 +58,7 @@ updated: 2025-07-25 06:07:46
 
 date: 2025-07-24, from: Long Beach Post
 
-<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-768x407.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-768x407.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Bar-goers will be allowed to stroll with a drink in their hand down one block of The Promenade in downtown Long Beach.</p>
 <p>The post <a href="https://lbpost.com/news/public-drinking-long-beach-entertainment-zone">Long Beach to test first event with sanctioned public drinking next month</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +73,7 @@ date: 2025-07-24, from: Long Beach Post
 
 date: 2025-07-24, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>California voters in 2016 passed a ballot initiative championed by Gov. Gavin Newsom that in part required background checks for ammunition purchases. The 9th Circuit Court of Appeals found that provision violates the 2nd Amendment.</p>
 <p>The post <a href="https://lbpost.com/news/court-blocks-ammunition-background-checks-in-new-blow-to-californias-gun-control-framework">Court blocks ammunition background checks in new blow to California’s gun control framework</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

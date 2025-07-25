@@ -1,11 +1,36 @@
 ---
 title: retro computing
-updated: 2025-07-25 06:07:44
+updated: 2025-07-25 14:09:19
 ---
 
 # retro computing
 
-(date: 2025-07-25 06:07:44)
+(date: 2025-07-25 14:09:19)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-07-25, from: Digital Antiquarian
+
+The Theory of Heliocentrism, Introduction: The Man Who Thought Differently 
+
+<br> 
+
+<https://www.filfre.net/2025/07/this-week-on-the-analog-antiquarian/>
+
+---
+
+## Free Monad Transfomers from Outer Space
+
+date: 2025-07-25, from: James Hobson blog
+
+This post serves three purposes, one is to plug my new, cool library, next is to talk a bit about free monad transformers and finally, to spread some knowledge and love for the Plan 9 operating system.
+Algebraic effects have become my go-to tool when developing new applications and libraries and my usage of monad transformers has fallen to the wayside so it&rsquo;s not a surprised that the two technologies are often presented as in some way competing ways of dealing with effects, but I don&rsquo;t think this is true. 
+
+<br> 
+
+</posts/posts/9p/>
 
 ---
 

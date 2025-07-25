@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-07-25 06:07:38
+updated: 2025-07-25 14:09:11
 ---
 
 # north america
 
-(date: 2025-07-25 06:07:38)
+(date: 2025-07-25 14:09:11)
+
+---
+
+## Culture Recs: Celebrating #MeToo Muckrakers and Whistleblowers 
+
+date: 2025-07-25, from: The Contrarian
+
+Movies, documentaries, and TV series about the journalists and survivors shedding light on sexual abuse 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-recs-celebrating-metoo-muckrakers>
+
+---
+
+## At ’79 All-Star Game, Dave Parker’s laser throws stole the show
+
+date: 2025-07-25, from: The Contrarian
+
+He will be inducted into the Baseball Hall of Fame this weekend, just one month after he died. 
+
+<br> 
+
+<https://contrarian.substack.com/p/at-79-all-star-game-dave-parkers>
+
+---
+
+## American healthcare is changing for the worse: Larry Levitt explains
+
+date: 2025-07-25, from: The Contrarian
+
+"If these cuts go into effect, it could take a generation to once again rebuild the healthcare system." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169233935/fa591508c69e47fd989e4da65b8746dd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169233935/fa591508c69e47fd989e4da65b8746dd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/american-healthcare-is-changing-for>
+
+---
+
+## After being attacked by Trump for years, Barack Obama should be an ‘angry Black man’
+
+date: 2025-07-25, from: The Contrarian
+
+The former president has a history of turning the other cheek. It&#8217;s time he fought back. 
+
+<br> 
+
+<https://contrarian.substack.com/p/after-being-attacked-by-trump-for>
+
+---
+
+## E. Jean Carroll's take on the Trump-Epstein scandal 
+
+date: 2025-07-25, from: The Contrarian
+
+"They will never accept a truth that goes to the heart of the cult, which is that Donald Trump is this Savior, and he's the one who's going to protect them against the evil Democrats." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169163121/adef71f7ded37ca3584e4f77831e02a7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169163121/adef71f7ded37ca3584e4f77831e02a7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/e-jean-carrolls-take-on-the-trump>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-07-25, from: The Contrarian
+
+MAGA Goggles 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-095>
 
 ---
 

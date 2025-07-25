@@ -1,41 +1,107 @@
 ---
 title: columns
-updated: 2025-07-25 06:07:41
+updated: 2025-07-25 14:09:15
 ---
 
 # columns
 
-(date: 2025-07-25 06:07:41)
+(date: 2025-07-25 14:09:15)
 
 ---
 
-## Like Christmas in July
+## Friday Squid Blogging: Stable Quasi-Isodynamic Designs
 
-date: 2025-07-25, from: Dave Winer's Scripting News
+date: 2025-07-25, updated: 2025-07-18, from: Bruce Schneier blog
 
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/25/daveGetsAgentMode.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I just got Agent Mode in ChatGPT. I totally have an app in mind. </p>
+<p>Yet another SQUID acronym: &#8220;<a href="https://www.ipp.mpg.de/5457187/SQulD_Stellarator">Stable Quasi-Isodynamic Design</a>.&#8221; It&#8217;s a <a href="https://en.wikipedia.org/wiki/Stellarator">stellarator</a> for a fusion nuclear power plant.</p>
  
 
 <br> 
 
-<http://scripting.com/2025/07/25/125944.html?title=likeChristmasInJuly>
+<https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-stable-quasi-isodynamic-designs.html>
 
 ---
 
-## Modernizing my sound system
+## Chatting with Liza Donnelly
 
-date: 2025-07-25, from: Dave Winer's Scripting News
+date: 2025-07-25, from: Heather Cox Richardson blog
 
-<p>I got tired of my old sound system, too many wires, a big receiver whose functions I never used, all designed long before the 4-year-old 65-inch OLED screen on top of it all, so I downscaled to a <a href="https://www.amazon.com/dp/B0BWLCLZPS?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">Sony soundbar</a>, figured that was as simple as you could get, for $300, thinking of it as an experiment. </p>
-<p>I liked it but then I thought to ask ChatGPT a question I've had for a while. I want a small amp designed for today's music and video, and went through a bunch of options and came up with the <a href="https://www.amazon.com/dp/B0CGCLXH4H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">WiiM Home amp</a>. No speakers, unlike the soundbar, but hooks up to the TV via the ARC connector, and I have plenty of old speakers to try out in this configuration. </p>
-<p>I got it yesterday and the setup experience was pretty great and the feature list is totally 2025. Will have more to say for sure. </p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/25/wiimRearView.png"></center>Rear view of the WiiM Home amp.</div></p>
-<p>PS: It's from a Silicon Valley <a href="https://www.linkplay.com/aboutus">tech company</a> btw. Nice to see a company just designing nice products and not trying to take over the world. </p>
- 
+A recording from Heather Cox Richardson's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169257881/6581d1ab484ca64723ca5f14b4f7e5b5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169257881/6581d1ab484ca64723ca5f14b4f7e5b5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/chatting-with-liza-donnelly>
+
+---
+
+## Going live with Liza Donnelly at 4:00 today
+
+date: 2025-07-25, from: Heather Cox Richardson blog
+
+Hi folks: 
 
 <br> 
 
-<http://scripting.com/2025/07/25/123851.html?title=modernizingMySoundSystem>
+<https://heathercoxrichardson.substack.com/p/going-live-with-liza-donnelly-at>
+
+---
+
+## First release candidate of systemd 258 is here
+
+date: 2025-07-25, updated: 2025-07-25, from: Liam Proven's articles at the Register
+
+<h4>The latest version of systemd looks to be a big one, with substantial new functionality. More to love – right?</h4>
+      <p>Like it or not, systemd is the industry-standard init system these days. A new release is coming, and it&#39;s a big one.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/25/systemd_258_first_rc_here/>
+
+---
+
+## July 24, 2025
+
+date: 2025-07-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169249919/23fc910bd932d3818423bc38bce1a2a6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169249919/23fc910bd932d3818423bc38bce1a2a6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-24-2025-53e>
+
+---
+
+## FreeBSD 15 installer to offer minimal KDE desktop
+
+date: 2025-07-25, updated: 2025-07-25, from: Liam Proven's articles at the Register
+
+<h4>The FreeBSD Laptop project continues – and plans to offer a very visible change</h4>
+      <p>FreeBSD 15 is coming, maybe at the end of this year – and along with other improvements, it may finally offer the option of installing with a graphical desktop.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/25/freebsd_15_installer_offers_kde/>
+
+---
+
+## 2025-07-25 Should wikis block the UK?
+
+date: 2025-07-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-25-should-wikis-block-the-uk">2025-07-25 Should wikis block the UK?</h1>
+
+<p>Of course, the answer is “no.”
+But when I read <a href="https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with">UK Users: Lobsters needs your help with the Online Safety Act</a> I can’t help but think that maybe the answer should be “yes.”</p>
+
+<p><a class="tag" href="/search/?q=%23UK">#UK</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-25-block-the-uk>
 
 ---
 
@@ -45,7 +111,7 @@ date: 2025-07-25, from: Alex Schroeder's Blog
 
 <h1 id="2025-07-25-oddmuse-and-the-butlerian-jihad">2025-07-25 Oddmuse and the Butlerian Jihad</h1>
 
-<p>So what about that old wiki software that&rsquo;s been serving me so well for more than twenty years?</p>
+<p>So what about <a href="https://src.alexschroeder.ch/oddmuse.git/">that old wiki software</a> that&rsquo;s been serving me so well for more than twenty years?</p>
 
 <p>Back then, Recent Changes or a search for a page title was implemented as a GET request. The idea was that it would be possible to bookmark or share such links. But what has happened instead is that the web scrapers are losing themselves in a gazillion dynamic pages, trying to ingest them. And since searches and filters are expensive operations, this drives up the load of the system hosting the wiki.</p>
 
@@ -83,6 +149,38 @@ I suspect that many of these URLs are in fact stored in training sets so it will
 <br> 
 
 <https://alexschroeder.ch/view/2025-07-25-oddmuse>
+
+---
+
+## Like Christmas in July
+
+date: 2025-07-25, from: Dave Winer's Scripting News
+
+<p>I've rarely been this happy to receive a new feature.</p>
+<p>I have a plan of course. I'll let you know how it goes! :-)</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/25/daveGetsAgentMode.png"></center>I just got Agent Mode in ChatGPT.  🎉</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/25/125944.html?title=likeChristmasInJuly>
+
+---
+
+## Modernizing my sound system
+
+date: 2025-07-25, from: Dave Winer's Scripting News
+
+<p>I got tired of my old sound system, too many wires, a big receiver whose functions I never used, all designed long before the 4-year-old 65-inch OLED screen on top of it all, so I downscaled to a <a href="https://www.amazon.com/dp/B0BWLCLZPS?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">Sony soundbar</a>, figured that was as simple as you could get, for $300, thinking of it as an experiment. </p>
+<p>I liked it but then I thought to ask ChatGPT a question I've had for a while. I want a small amp designed for today's music and video, and went through a bunch of options and came up with the <a href="https://www.amazon.com/dp/B0CGCLXH4H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">WiiM Home amp</a>. No speakers, unlike the soundbar, but hooks up to the TV via the ARC connector, and I have plenty of old speakers to try out in this configuration. </p>
+<p>I got it yesterday and the setup experience was pretty great and the feature list is totally 2025. Will have more to say for sure. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/25/wiimRearView.png"></center>Rear view of the WiiM Home amp.</div></p>
+<p>PS: It's from a Silicon Valley <a href="https://www.linkplay.com/aboutus">tech company</a> btw. Nice to see a company just designing nice products and not trying to take over the world. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/25/123851.html?title=modernizingMySoundSystem>
 
 ---
 

@@ -1,11 +1,177 @@
 ---
 title: food
-updated: 2025-07-25 06:07:46
+updated: 2025-07-25 14:09:21
 ---
 
 # food
 
-(date: 2025-07-25 06:07:46)
+(date: 2025-07-25 14:09:21)
+
+---
+
+## Bad Bunny’s Favorite Meal Is Pure Comfort Food
+
+date: 2025-07-25, from: Taste of Home
+
+<p>I'm thinking I need to make this for dinner ASAP.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bad-bunnys-favorite-food/">Bad Bunny’s Favorite Meal Is Pure Comfort Food</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bad-bunnys-favorite-food/>
+
+---
+
+## Does Yeast Always Have to Be Proofed?
+
+date: 2025-07-25, from: Taste of Home
+
+<p>The short answer is no, but proofing yeast has many advantages. It also depends on whether it's instant yeast or dry active yeast.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/do-you-have-to-proof-yeast/">Does Yeast Always Have to Be Proofed?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/do-you-have-to-proof-yeast/>
+
+---
+
+## Do You Know What Those Bumps on Your Salt Shaker Are For?
+
+date: 2025-07-25, from: Taste of Home
+
+<p>It turns out that the ridges on the bottom of your salt shaker serve a very specific purpose.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bump-on-salt-shaker/">Do You Know What Those Bumps on Your Salt Shaker Are For?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bump-on-salt-shaker/>
+
+---
+
+## Tyler Smith’s Jalapeno Poppers
+
+date: 2025-07-25, from: Taste of Home
+
+Do you want an appetizer that gets the party popping? Kick it up a notch with these backyard barbecue-style jalapeno poppers. Filled with flavor from pimiento cheese and bacon seasoned with barbecue sauce, this easy recipe for sure will get the crowd ready for a good time. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-jalapeno-poppers/>
+
+---
+
+## The Congressional Coffee Caucus Tariff Exemption, Explained
+
+date: 2025-07-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Tariffs are scheduled to go into effect August 1st. 
+
+<br> 
+
+<https://sprudge.com/the-congressional-coffee-caucus-tariff-exemption-explained-382041.html>
+
+---
+
+## The Best Electrolyte Powder for Athletes Who Want Something That Tastes Good (2025)
+
+date: 2025-07-25, from: Bon Appetet
+
+And after talking to a registered dietitian I also learned why they work. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-electrolyte-drinks>
+
+---
+
+## Starbucks Revives Reserve Brand with Sprawling Taiwan Flagship
+
+date: 2025-07-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Starbucks-Reserve-Taipei-Taiwan-5-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks Reserve Taipei Taiwan 5" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Starbucks-Reserve-Taipei-Taiwan-5-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Starbucks-Reserve-Taipei-Taiwan-5-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Starbucks-Reserve-Taipei-Taiwan-5-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Starbucks-Reserve-Taipei-Taiwan-5-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Starbucks-Reserve-Taipei-Taiwan-5.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Global coffee giant Starbucks just opened the Starbucks Reserve Dream Plaza Taipei, an approximately 21,000-square-foot coffee retail destination.&#160; In addition to offering a broad range of coffee and culinary... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/25/starbucks-revives-reserve-brand-with-sprawling-taiwan-flagship/>
+
+---
+
+## Eating at Disney World with Food Allergies
+
+date: 2025-07-25, from: Bon Appetet
+
+Whether you’re vegan, gluten-free, or lactose intolerant, the “Happiest Place on Earth” has something to fit the bill. 
+
+<br> 
+
+<https://www.bonappetit.com/story/eating-with-allergies-disney-world>
+
+---
+
+## Earl Grey Tiramisu
+
+date: 2025-07-25, from: Taste of Home
+
+Earl Grey tiramisu is a wonderfully unexpected fall dessert, with plenty of floral and citrusy flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/earl-grey-tiramisu/>
+
+---
+
+## 4 Best Healthy Meal Delivery Services, Tested and Reviewed
+
+date: 2025-07-25, from: Taste of Home
+
+<p>Our editors got busy in their own kitchens and found the best healthy meal delivery services for all your nutritional needs.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-healthy-meal-kit-delivery/">4 Best Healthy Meal Delivery Services, Tested and Reviewed</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-healthy-meal-kit-delivery/>
+
+---
+
+## The Lowe’s Christmas Collection Is Here—And We’re Obsessed with the Grinch Tree
+
+date: 2025-07-25, from: Taste of Home
+
+<p>Christmas in July, anyone? The Lowe's Christmas Collection just dropped—and this year they have a Grinch-tastic Christmas tree!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lowes-christmas-collection/">The Lowe&#8217;s Christmas Collection Is Here—And We&#8217;re Obsessed with the Grinch Tree</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lowes-christmas-collection/>
+
+---
+
+## Best Cleaver Knives for Chopping Through, Well, Anything (2025)
+
+date: 2025-07-25, from: Bon Appetet
+
+You don’t need to be a butcher to have one. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cleavers>
+
+---
+
+## Weekly Coffee News: Ethiopia Auction Record + Industry ‘Alarmingly Underprepared’ for EUDR
+
+date: 2025-07-25, from: Daily Coffee News
+
+<div><img width="620" height="390" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Testi-Coffee-620x390.jpg" class="attachment-large size-large wp-post-image" alt="Testi Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Testi-Coffee-620x390.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Testi-Coffee-300x188.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Testi-Coffee-150x94.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Testi-Coffee-768x482.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Testi-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Ethiopian Coffee Sets Auction Record at $727 Per... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/25/weekly-coffee-news-ethiopia-auction-record-industry-alarmingly-underprepared-for-eudr/>
 
 ---
 
@@ -20,6 +186,20 @@ date: 2025-07-25, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/a-coffee-pros-travel-hacks-for-great-coffee-on-the-go/>
+
+---
+
+## The Best Classic Cajun Potato Salad – Creamy & Flavor-Packed
+
+date: 2025-07-25, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/potato-salad/" title="The Best Classic Cajun Potato Salad – Creamy &amp; Flavor-Packed" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Potato Salad Recipe" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2022/03/Cajun-Potato-Salad-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Discover the best creamy Cajun Potato Salad with fork-tender potatoes, zesty Creole mustard, and bold Cajun seasonings. Perfect for any BBQ or potluck!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/potato-salad/">The Best Classic Cajun Potato Salad – Creamy &amp; Flavor-Packed</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/potato-salad/>
 
 ---
 
@@ -75,7 +255,7 @@ A delicious twist on the classic basil spread, Sicilian pistachio pesto has exce
 
 date: 2025-07-24, from: Daily Coffee News
 
-<div><img width="620" height="375" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-620x375.jpg" class="attachment-large size-large wp-post-image" alt="Westrock Coffee Company &#8211; Demand" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-620x375.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-300x181.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-768x464.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Central Arkansas-based Westrock Coffee Company just expanded its manufacturing footprint with the opening of a 525,000-square-foot facility in Conway devoted to coffee pod production.&#160; With 130,000 square feet dedicated... 
+<div><img width="620" height="375" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-620x375.jpg" class="attachment-large size-large wp-post-image" alt="Westrock Coffee Company &#8211; Demand" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-620x375.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-300x181.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-150x91.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory-768x464.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Westrock-pod-factory.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Central Arkansas-based Westrock Coffee Company just expanded its manufacturing footprint with the opening of a 525,000-square-foot facility in Conway devoted to coffee pod production.&#160; With 130,000 square feet dedicated... 
 
 <br> 
 
@@ -99,7 +279,7 @@ date: 2025-07-24, from: The Sprudge
 
 date: 2025-07-24, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Placer Coffee Roasting cafe Rocklin CA 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>There&#8217;s gold in them thar beans, and a new Northern California roaster called Placer Roasting Company is extracting it for guests inside its new roastery tasting room. About a half... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Placer Coffee Roasting cafe Rocklin CA 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Placer-Coffee-Roasting-cafe-Rocklin-CA-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>There&#8217;s gold in them thar beans, and a new Northern California roaster called Placer Roasting Company is extracting it for guests inside its new roastery tasting room. About a half... 
 
 <br> 
 
@@ -309,7 +489,7 @@ Simmered apple juice thickens the filling of this Golden Delicious apple pie int
 
 date: 2025-07-23, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Pret A Manger Storefront" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Longtime quick-service food and coffee executive Felipe Athayde was recently tapped by the UK-based chain Pret A Manger to lead operations in the U.S. as president. Athayde, who formerly led... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Pret A Manger Storefront" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pret-a-manger.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Longtime quick-service food and coffee executive Felipe Athayde was recently tapped by the UK-based chain Pret A Manger to lead operations in the U.S. as president. Athayde, who formerly led... 
 
 <br> 
 
@@ -433,7 +613,7 @@ date: 2025-07-23, from: The Fresh Cup
 
 date: 2025-07-23, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/smothered-green-beans/" title="Smothered Green Beans Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Smothered green beans and potatoes in a pan with smoky bacon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Smothered Southern green beans and potatoes with smoky bacon, slow-simmered for rich flavor. Perfect with roast chicken or any Southern meal.</p>
+<a href="https://www.chilipeppermadness.com/recipes/smothered-green-beans/" title="Smothered Green Beans Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Smothered green beans and potatoes in a pan with smoky bacon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smothered-Green-Beans-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Smothered Southern green beans and potatoes with smoky bacon, slow-simmered for rich flavor. Perfect with roast chicken or any Southern meal.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/smothered-green-beans/">Smothered Green Beans Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,62 @@
 ---
 title: pacific
-updated: 2025-07-25 06:07:39
+updated: 2025-07-25 14:09:13
 ---
 
 # pacific
 
-(date: 2025-07-25 06:07:39)
+(date: 2025-07-25 14:09:13)
+
+---
+
+## Community, collaboration, chocolate: UH alumna’s sweet business innovation
+
+date: 2025-07-25, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> alumna and owner of Choco <span aria-label="lea">le&#699;a</span> Erin Kanno Uehara is collaborating with <abbr>UH</abbr> M&#257;noa engineering students to design new chocolate products.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/25/alumna-kanno-uehara/">Community, collaboration, chocolate: <abbr>UH</abbr> alumna’s sweet business innovation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/25/alumna-kanno-uehara/>
+
+---
+
+## Northern Marianas Governor invites public to pay tribute to Arnold Palacios
+
+date: 2025-07-25, from: 
+
+The body of the former Northern Marianas Governor Arnold Palacios will arrive in the Commonwealth today from Guam. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568075/northern-marianas-governor-invites-public-to-pay-tribute-to-arnold-palacios>
+
+---
+
+## Getting More Locally-Grown Food in School Meals INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-07-25, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Keith Hayashi, DOE Superintendent Kirstin Kahaloa (D), Representative &#8211; District 6 Natalie McKinney, Kōkua Hawaiʻi Foundation &#8211; Chief Program Officer Kawika Kahiapo, Farm to School Initiative Program [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/getting-more-locally-grown-food-in-school-meals-insights-on-pbs-hawai%ca%bbi-2/">Getting More Locally-Grown Food in School Meals &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/getting-more-locally-grown-food-in-school-meals-insights-on-pbs-hawai%ca%bbi-2/>
+
+---
+
+## Urgent project: Guam missile defense system will take a decade to complete 
+
+date: 2025-07-25, from: Pacific Island Times
+
+Final environmental impact statement now available By Mar-Vic Cagurangan While the proposed Guam missile defense system is considered an... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/department-of-defense-guam-missile-defense-system-is-a-10-year-project>
 
 ---
 

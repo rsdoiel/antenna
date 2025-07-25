@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-25 06:07:42
+updated: 2025-07-25 14:09:16
 ---
 
 # games
 
-(date: 2025-07-25 06:07:42)
+(date: 2025-07-25 14:09:16)
+
+---
+
+## Rick and Morty spinoff will follow the adventures of Keith David’s President Curtis
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+U.S. President Andre Curtis (Keith David) has served as a foil for super scientist Rick Sanchez (Justin Roiland, replaced by Harry Belden in season 7) throughout much of Rick and Morty’s eight-season run on Adult Swim. The president has alternated between calling Rick in to help with threats to Earth, trying to arrest Rick for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sdcc/616076/rick-and-morty-spinoff-president-curtis-announced>
+
+---
+
+## Breaking Bad creator Vince Gilligan teases new sci-fi show in the weirdest way
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+There’s been major hype building around Breaking Bad creator Vince Gilligan’s new sci-fi series. And now, after years of bits and pieces of information being released in the press, and a dayslong countdown, we finally have our first (highly unusual) look at Pluribus. On Tuesday, Apple teased a reveal on X with the tagline “Happiness [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/615307/pluribus-trailer-vince-gilligan-apple-tv-breaking-bad-creator>
+
+---
+
+## Every new movie hitting Netflix and beyond this weekend (July 25-27)
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. David F. Sandberg’s adaptation of the 2015 video game Until Dawn checks into Netflix, providing a tour through a selection of horror subgenres as a group [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/616260/new-movies-watch-until-dawn-lilo-amp-stitch-death-of-a-unicorn-7-25-2025>
+
+---
+
+## How to farm gold in Donkey Kong Bananza
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Gold in Donkey Kong Bananza is a valuable resource that can get you Banandium Gems and unlock alternate passage ways. Little gold nuggets will erupt from the ground as you hand slap your way through the layers, and you might even find large chunks as you dig. However, you can never have too much gold [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/616440/gold-farm-how-to>
+
+---
+
+## New Spider-Man action figures will come with Magic: The Gathering cards
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Marvel’s Spider-Man will be joining the growing list of popular franchises to get their own Magic: The Gathering set, following the huge success of collections based on Final Fantasy and Lord of the Rings. Along with being able to add Peter Parker, Miles Morales, Gwen Stacy, and other Spider-Man characters to their Magic decks, fans [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/616120/magic-the-gathering-spider-man-action-figures-cards>
+
+---
+
+## Marvel’s great-looking retro beat-’em-up makes the best Thor playable
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Marvel Cosmic Invasion, the new throwback side-scrolling beat-’em-up from Tribute Games and Dotemu, has added two more cosmic warriors to the playable roster: Beta Ray Bill, the best Thor, and Silver Surfer, the Norrin Radd version who does not appear in Fantastic Four: First Steps. Those two powerful newcomers join previously revealed Marvel heroes like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/616118/marvel-cosmic-invasion-characters-silver-surfer-beta-ray-bill>
+
+---
+
+## Inside the explosive ‘brainrot’ game that’s got millions of kids crashing out
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Right now, the number one game on Roblox is called Steal a Brainrot. It’s exactly what it sounds like. The entire premise of the game is to rob the other players. Despite that being the point of the game, though, children are having a hard time dealing with the repercussions of having their digital characters [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/616251/steal-a-brainrot-roblox-explainer-what-is>
+
+---
+
+## Wolfenstein TV show in the works at Amazon since &#8216;the story of killing Nazis is evergreen&#8217;
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Variety has reported Amazon MGM Studios is developing a TV series adapting the Wolfenstein games, and it has a wonderful and true logline: “The story of killing Nazis is evergreen.” No other plot details have been shared at this time, but fans of the series can expect series mainstay William B.J. Blazkowicz to, ya know, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/616365/wolfenstein-tv-show-amazon>
+
+---
+
+## Final Destination: Bloodlines is coming to HBO Max this August
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Final Destination: Bloodlines debuted in May and quickly became the most successful film in the 15-year-old franchise; now the hit is coming to HBO Max on Aug. 1. This reboot of the long-running franchise, where death hunts down those who once escaped it using intricate traps, centers on the family of a woman whose life [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/616253/final-destination-bloodlines-hbo-max-when>
+
+---
+
+## Fantastic Four: First Steps still manages to have a Stan Lee cameo
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+In 2018, Stan Lee died at age 95. His greatest work was accomplished throughout the mid-20th century in the halls of Marvel Comics, but Lee was never better known than during the post-2000s boom of superhero movies. Co-creating the Fantastic Four, Spider-Man, the X-Men, and Iron Man made him a legend, but countless big-screen cameos [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/615957/fantastic-four-first-steps-stan-lee-cameo-jack-kirby>
 
 ---
 

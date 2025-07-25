@@ -1,23 +1,253 @@
 ---
 title: planet
-updated: 2025-07-25 06:07:38
+updated: 2025-07-25 14:09:09
 ---
 
 # planet
 
-(date: 2025-07-25 06:07:38)
+(date: 2025-07-25 14:09:09)
 
 ---
 
-## Countries to be allowed drop aid into Gaza - Israeli army
+## Suspended sentence for man over drone drug delivery
 
 date: 2025-07-25, from: RTÉ News
 
-Israel will allow foreign countries to parachute aid into Gaza from today, Israeli army radio has said, quoting a military official. 
+A grandfather who came under duress to allow his drone to be used for an attempted prison drug delivery and stored over €180,000 of criminal proceeds has avoided a jail term. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0725/1525442-cloverhill-drone-drugs/>
+
+---
+
+## Social Democrats say Eoin Hayes' suspension lifted
+
+date: 2025-07-25, from: RTÉ News
+
+Dublin Bay South TD Eoin Hayes' suspension from the Social Democrats has been lifted, the party has said. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0725/1525433-eoin-hayes-suspension/>
+
+---
+
+## Podcast: 'Unbelievable' level of suffering in Gaza
+
+date: 2025-07-25, from: RTÉ News
+
+The deteriorating situation in Gaza has taken centre stage this week amid continued warnings of starvation in the Palestinian enclave. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525428-podcast-unbelievable-level-of-suffering-in-gaza/>
+
+---
+
+## Canada, Algonquin ex-chief with disputed identity liable for abuse of Cree children, Appeal Court says
+
+date: 2025-07-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5601797.1707422066!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/55614.jpg' alt='A yellow stone courthouse is shown on a sunny day. There is cobblestone in front of it' width='620' height='349' title='Exterior of the Court of Appeal for Ontario, in Osgoode Hall, Toronto.'/><p>Three Cree sisters are celebrating their second straight precedent-setting victory at the Ontario Court of Appeal after suing the Canadian government and the woman now found liable for abusing them as children in the 1960s and '70s</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/canada-paddy-cannon-appeal-1.7593144?cmp=rss>
+
+---
+
+## Gaza: In the face of horror, we cannot look away
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>Vatican News' Deputy Editorial Director, Massimiliano Menichetti, reflects on the paradox of dying of hunger before a connected and technological world that documents and narrates all. Politicians and governments, he notes, cannot, and must not, pretend not to see. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/gaza-war-israel-palestine-starvation-food-weapon-humanitarian.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/gaza-war-israel-palestine-starvation-food-weapon-humanitarian.html>
+
+---
+
+## Letter from Gaza: The last word is for life and peace
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>L'Osservatore Romano's young contributor who was wounded in the Israeli attack on the Church of the Holy Family in Gaza, shares his recollection of the raid and the beginning, for him, of a path of recovery. He affirms that even in the face of violence and despair, the final word belongs not to war, but to life and peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-suhail-injury-holy-family-parish-attack-peace-life-cross.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-suhail-injury-holy-family-parish-attack-peace-life-cross.html>
+
+---
+
+## Indian community hold silent protest at Dept of Justice
+
+date: 2025-07-25, from: RTÉ News
+
+A silent protest by members of the Indian community in Ireland has been held at the Department of Justice, in a show of solidarity with the victim of a violent and unprovoked assault in Tallaght last weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525411-indian-community-protest/>
+
+---
+
+## Kinahan boss in UK ordered to pay £1.1m to authorities
+
+date: 2025-07-25, from: RTÉ News
+
+The head of the Kinahan organised crime group in the UK has been ordered to pay more than £1.1 million to authorities in the UK which was deemed to be the proceeds of crime or face an additional 12 years in prison. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0725/1525401-kinahan-organised-crime-group/>
+
+---
+
+## New Vatican Media hub opens under St Peter’s Colonnade
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>Vatican Media inaugurates a new media space in St Peter's Square</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/jubilee-new-vatican-media-hub-opens-under-st-peter-s-colonnade.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/jubilee-new-vatican-media-hub-opens-under-st-peter-s-colonnade.html>
+
+---
+
+## Enoch Burke granted injunction over panel composition
+
+date: 2025-07-25, from: RTÉ News
+
+Seconday school teacher Enoch Burke has been granted an injunction stopping the General Secretary of secondary school teachers' union, the ASTI, from being part of a panel to hear an appeal against his dismissal from the school where he taught. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0725/1525399-enoch-burke-court/>
+
+---
+
+## Woman tortured 'never knew humanity could be so cruel'
+
+date: 2025-07-25, from: RTÉ News
+
+A woman who was beaten, burned, stabbed and tortured for three hours by eight men in a flat in Dublin last year has said she never knew humanity could be so cruel and will never get over the physical and psychological trauma. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525398-woman-tortured-dublin/>
+
+---
+
+## Almost 5,000 children in emergency accommodation in June
+
+date: 2025-07-25, from: RTÉ News
+
+Latest homeless figures show another rise in the number of people who accessed emergency accommodation last month. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525397-homeless-figures-june/>
+
+---
+
+## U.S., Israel appear to abandon Gaza ceasefire talks, as starvation mounts in the enclave
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594117.1753460938!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A woman holds another woman as she yells out in agony at a funeral.' width='620' height='349' title='Mourners react at the funeral of Palestinians killed in an Israeli strike on a school sheltering displaced people, according to the medics, at Al-Shifa Hospital in Gaza City, July 25, 2025. REUTERS/Mahmoud Issa'/><p>Israeli Prime Minister Benjamin Netanyahu and U.S. President Donald Trump appeared on Friday to abandon Gaza ceasefire negotiations with Hamas, both saying it had become clear that the Palestinian militants did not want a deal.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-israel-gaza-ceasefire-negotiations-trump-netanyahu-1.7594081?cmp=rss>
+
+---
+
+## Pope to Vietnamese catechists: You are never alone
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>Celebrating the 400th anniversary of the birth of the man considered the country’s first martyr, the Pope sent a video message to catechists, urging them to keep the love for their faith and family alive.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-to-vietnamese-catechists-you-are-never-alone.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-to-vietnamese-catechists-you-are-never-alone.html>
+
+---
+
+## Pilgrims from the Pacific bringing their culture to the Youth Jubilee
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>Three pilgrims from Tahiti, Tonga and Guam share with Vatican News their excitement in participating in the Jubilee of Youth and the hope and energy they want to bring back home.  </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/pacific-young-people-jubilee-preparations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/pacific-young-people-jubilee-preparations.html>
+
+---
+
+## Why is France recognising Palestinian statehood?
+
+date: 2025-07-25, from: RTÉ News
+
+French President Emmanuel Macron has announced he will recognise Palestinian statehood, drawing angry rebukes from Israel and the United States and opening the door for other major nations like Britain and Canada, to perhaps follow suit. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0725/1525375-france-palestinian-statehood/>
+
+---
+
+## A third of people in Gaza 'not eating for days' - UN
+
+date: 2025-07-25, from: RTÉ News
+
+Almost a third of people in Gaza are "not eating for days", the United Nations has revealed, as it warned of "new and astonishing levels of desperation". 
 
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0725/1525366-israel-gaza/>
+
+---
+
+## Gaza: 'This is how one dies of hunger'
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>MSF Dr. Mohammed Abu Mughaisib in Gaza shares a dramatic testimony on the inhumane conditions faced by the citizens of the enclave who are starving to death, their human dignity eroded day by day: 
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/gaza-starvation-msf-doctor-hunger-israel-humanitarian-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/gaza-starvation-msf-doctor-hunger-israel-humanitarian-war.html>
 
 ---
 
@@ -30,6 +260,90 @@ A cross-party Oireachtas foreign affairs committee report on the Occupied Territ
 <br> 
 
 <https://www.rte.ie/news/2025/0725/1525356-committee-urges-govt-to-include-services-in-otb/>
+
+---
+
+## Gaza: More deaths reported as starvation spreads
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+The UN Office for the Coordination of Humanitarian Affairs (OCHA) has again sounded the alarm over the catastrophic and rapidly deteriorating conditions in the Gaza Strip as Israeli military operations continue to cause death, displacement and destruction.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165500>
+
+---
+
+## Gaza First Person: ‘The best of humankind in a place abandoned by humanity’
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+In the centre of war-torn Gaza, UN staff continue to work despite the “unprecedented” destruction and suffering around them, according to the UN Children’s Fund (UNICEF) Head of Office. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165498>
+
+---
+
+## UN warns of escalating human toll in Ukraine amid relentless aerial attacks, mounting aid shortfall
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+Russian aerial attacks continue to intensify across Ukraine, exacting a rising toll on civilians and infrastructure, senior UN officials told the Security Council on Friday, warning of mounting humanitarian needs amid faltering donor support. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165499>
+
+---
+
+## In hard-hitting human rights address, Guterres calls for urgent action on Gaza, authoritarianism and climate justice
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+The world is facing a “moral crisis” marked by rising authoritarianism, deepening inequality and a dangerous indifference to human suffering, UN Secretary-General António Guterres warns in a powerful address on human rights. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165497>
+
+---
+
+## 1.3 million Sudanese return home, offering fragile hope for recovery
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+With pockets of relative safety emerging in Sudan, over 1.3 million Sudanese people, including one million who were internally displaced and over 300,000 refugees, have returned home, according to UN agencies.&nbsp;&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165496>
+
+---
+
+## SECURITY COUNCIL LIVE: Situation in Ukraine
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+The UN Security Council is meeting on Friday morning to discuss the situation in Ukraine amid mounting concerns over the intensifying hostilities and growing humanitarian needs. Senior UN political affairs and humanitarian officials are expected to brief the Council. Follow our live coverage from UN News, in coordination with UN Meetings Coverage, for updates from the chamber. UN News App users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165493>
+
+---
+
+## Women and girls of African descent: Celebrating contributions, recognising challenges
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+This Friday marks the first observation of the International Day of Women and Girls of African Descent, following a declaration last year by the UN General Assembly. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165492>
 
 ---
 
@@ -97,6 +411,18 @@ US President Donald Trump and Federal Reserve Chairman Jerome Powell sparred fac
 
 ---
 
+## Southern Syria exploded into the worst violence of post-Assad era. What that means for the region's future
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593613.1753398263!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2225398930.jpg' alt='Men with weapons wave from the back of a mud-covered car.' width='620' height='349' title='Druze fighters patrol a street in the predominantly Druze city of Sweida in southern Syria on July 21, 2025, after a ceasefire in the southern province halted a week of sectarian bloodshed. '/><p>Seven months of relative calm in Syria came to a bloody end last week, when what began as local skirmishes escalated into the worst fighting since the fall of former president Bashar al-Assad in December. But experts say the region is left destabilized.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/syria-druze-suwayda-1.7593584?cmp=rss>
+
+---
+
 ## UK teen Jay Slater died by accident after fall - coroner
 
 date: 2025-07-25, from: RTÉ News
@@ -109,15 +435,39 @@ English teenager Jay Slater who went missing in Tenerife last summer sparking a 
 
 ---
 
-## Samaritans 'planning to close more than 100 branches'
+## U.S. and Canada might not reach trade deal, Trump says
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593916.1753452807!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='President Donald Trump speaks' width='620' height='349' title='President Donald Trump speaks with reporters before departing on Marine One from the South Lawn of the White House, Friday, July 25, 2025, in Washington. The President is traveling to Scotland. (AP Photo/Alex Brandon)'/><p>U.S. President Donald Trump says his country may not reach a new trade deal with Canada and could simply impose more or higher tariffs on its northern neighbour — something he's threatening to do in one week's time.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/us-canada-trade-deal-tariff-1.7593904?cmp=rss>
+
+---
+
+## Samaritans to conduct review of operations
 
 date: 2025-07-25, from: RTÉ News
 
-Suicide prevention charity Samaritans is planning to close more than 100 branches across Ireland and the UK, it has been reported. 
+The suicide prevention charity Samaritans has informed volunteers of proposals that may see a reduction in the number of branches that the organisation operates in the UK and Ireland. 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0725/1525322-samaritans-branches/>
+
+---
+
+## Two candidates campaign to be the next Cree youth grand chief
+
+date: 2025-07-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7591947.1753303703!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cnyc-candidates.jpg' alt='Kevin Joseph Mianscum and Jade Mukash. ' width='620' height='349' title='Kevin-Joseph Mianscum and Jade Mukash have been nominated for Youth Grand Chief. They share their visions for the youth of Eeyou Ischee. Election day is August 8. '/><p>The Cree Nation Youth Council is nearing the end of its current term, and two candidates are competing to be the next youth grand chief of Eeyou Istchee. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/youth-grand-chief-kevin-joseph-mianscum-jade-mukash-1.7591432?cmp=rss>
 
 ---
 
@@ -130,6 +480,30 @@ Taoiseach Micheál Martin has said he hopes a framework trade agreement between 
 <br> 
 
 <https://www.rte.ie/news/business/2025/0725/1525326-eu-martin/>
+
+---
+
+## Trump says EU-US tariff deal would be 'biggest of all'
+
+date: 2025-07-25, from: RTÉ News
+
+US President Donald Trump has said that a EU-US tariff deal will be the "biggest of all if we make it". 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0725/1525326-eu-trump/>
+
+---
+
+## 'We're terribly sorry,' South Park co-creator says with straight face after depicting Trump in bed with Satan
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593852.1753448495!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/2025-comic-con-comedy-central-adult-animation-panel.jpg' alt='A man in jeans and a black shirt shrugs while holding a microphone' width='620' height='349' title='Trey Parker attends the Comedy Central Adult Animation: South Park, Beavis &amp; Butt-Head, and Digman! panel for during Comic-Con International on Thursday, July 24, 2025, in San Diego. '/><p>South Park co-creator Trey Parker had the briefest of responses Thursday to anger from the White House over the season premiere of the animated institution, which showed a naked President Donald Trump in bed with Satan.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/south-park-trump-1.7593849?cmp=rss>
 
 ---
 
@@ -177,6 +551,18 @@ A surgeon who has worked in Gaza has accused Israeli soldiers of "playing a game
 
 ---
 
+## 'He wouldn't do this to us': Search continues for missing boy as mother pleads for answers
+
+date: 2025-07-25, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7593515.1753401622!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alanna-bird-and-samuel-bird.JPG' alt='Alanna Bird and Samuel Bird' width='620' height='349' title='Concern is mounting as Samuel Bird, 14, remains missing since June 1. Alanna Bird and her family have been going on ground searches - looking for more information on what might have happened.'/><p>The family of a missing Indigenous boy are desperately searching for answers as community members join ongoing ground searches in Edmonton.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/edmonton/he-wouldn-t-do-this-to-us-search-continues-for-missing-boy-as-mother-pleads-for-answers-1.7593513?cmp=rss>
+
+---
+
 ## Iran and Europe begin fresh nuclear talks in Turkey
 
 date: 2025-07-25, from: RTÉ News
@@ -186,6 +572,18 @@ Iran has pushed back on suggestions of extending a UN resolution that ratifies a
 <br> 
 
 <https://www.rte.ie/news/world/2025/0725/1525304-iran-europe-talks/>
+
+---
+
+## Thai PM says dispute with Cambodia could 'escalate into a state of war'
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593801.1753443782!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cambodia-thailand.jpg' alt='A military tank is shown travelling a rural area.' width='620' height='349' title='A Cambodian military vehicle carries rocket launcher in Oddar Meanchey province on Friday, amid clashes between Thai and Cambodian soldiers along the border.'/><p>Thailand and Cambodia exchanged heavy artillery fire for a second day on Friday as their worst fighting in over a decade intensified and spread to new areas, despite international calls for a ceasefire.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/thailand-cambodia-1.7593789?cmp=rss>
 
 ---
 
@@ -201,15 +599,27 @@ The Kremlin has said that a summit between Russian President Vladimir Putin and 
 
 ---
 
-## Three killed in Fermanagh 'always by each other's side'
+## Hundreds attend vigil in Fermanagh for murdered family
 
 date: 2025-07-25, from: RTÉ News
 
-A mother and her two children who were murdered in their Co Fermanagh home have been remembered as a "trio that was always by each other's side". 
+Hundreds of people have attended a vigil in Co Fermanagh tonight in memory of the family murdered in their home earlier this week. 
 
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0725/1525295-vigil-family-fermanagh/>
+
+---
+
+## Justice Department to continue interviewing Ghislaine Maxwell, accomplice of Jeffrey Epstein
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593786.1753441305!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG' alt='A cleanshaven man with dark hair in a suit and tie speaks at a podium in front of an American flag. Another, older cleanshaven man in suit and tie looks on.' width='620' height='349' title='U.S. Deputy Attorney General Todd Blanche speaks to the media as U.S. President Donald Trump listens, after the U.S. Supreme Court dealt a blow to the power of federal judges by restricting their ability to grant broad legal relief in cases as the justices acted in a legal fight over President Donald Trump&apos;s bid to limit birthright citizenship, in the Press Briefing Room at the White House in Washington D.C., June 27, 2025. REUTERS/Ken Cedeno'/><p>The U.S. Justice Department's No. 2 official said he will again meet with Ghislaine Maxwell, the imprisoned former girlfriend of financier and convicted sex offender Jeffrey Epstein, on Friday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-justice-department-maxwell-1.7593782?cmp=rss>
 
 ---
 
@@ -321,11 +731,11 @@ date: 2025-07-25, from: CBC, World News
 
 ---
 
-## 'Could develop into war' - Thai PM on Cambodia clashes
+## Eight districts in Thailand declare martial law
 
 date: 2025-07-25, from: RTÉ News
 
-Thailand and Cambodia exchanged heavy artillery fire as their worst fighting in more than a decade stretched for a second day, despite calls from the region and beyond for an immediate ceasefire in an escalating border conflict that has killed at least 16 people. 
+Thailand has declared martial law in eight districts bordering Cambodia following a second day of violent clashes that has led to the death of at least 15 people. 
 
 <br> 
 
@@ -345,11 +755,11 @@ SpaceX's Starlink suffered one of its biggest international outages when an inte
 
 ---
 
-## Trump expected to meet Starmer during Scottish visit
+## Donald Trump arrives in Scotland for five-day visit
 
 date: 2025-07-24, from: RTÉ News
 
-US President Donald Trump will travel to Scotland today for a five-day trip that will see him visit two of his golf resorts. 
+US President Donald Trump has landed in Scotland ahead of a five-day visit. 
 
 <br> 
 
@@ -450,6 +860,18 @@ Parents of children with severe peanut allergies are calling on the HSE to make 
 <br> 
 
 <https://www.rte.ie/news/health/2025/0724/1525235-allergy-treatment/>
+
+---
+
+## Group of Carcross/Tagish First Nation citizens want self-government jobs to be more accessible
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7591611.1753227181!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/c-tfn-protest.JPG' alt='The photo shows a building with some posters that say &quot;CTFN citizens have solutions, not just complaints&quot;' width='620' height='349' title='Posters have been put on the Carcross/Tagish First Nation government office. Some citizens have been protesting against the administration. '/><p>Several Carcross/Tagish First Nation citizens say throughout the years requirement for job positions within their government have changed, making them out-of-reach for some citizens. They want to see a change.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/carcross-yukon-self-government-protest-1.7591231?cmp=rss>
 
 ---
 
@@ -635,6 +1057,18 @@ The Probation Service have advised the Central Criminal Court that restorative j
 
 ---
 
+## First Nation man shot and killed by police 1 year after father's death in police shooting
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7593210.1753382635!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eric-nothing-and-bruce-wallace-frogg.jpg' alt='Two men wearing jackets are seen standing beside each other.' width='620' height='349' title='Eric Nothing, left, and his father, Bruce Wallace Frogg. Nothing was shot and killed Tuesday following an interaction with police in Deer Lake First Nation in northwestern Ontario. Meanwhile, Frogg was shot and killed last summer by a Kenora OPP officer.'/><p>Just over a year after his father was shot and killed by a police officer in Kenora, Ont., Eric Nothing's family has identified him as the victim of a police shooting in Deer Lake First Nation that occurred earlier this week. Here's what we know about the case under investigation by the province's police watchdog.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/siu-investigation-eric-nothing-deer-lake-first-nation-1.7593196?cmp=rss>
+
+---
+
 ## Watch: What is listeria?
 
 date: 2025-07-24, from: RTÉ News
@@ -770,7 +1204,7 @@ Former Labour leader Jeremy Corbyn has announced that he is forming a new politi
 
 ## Deep-sea must not turn into ‘Wild West’ of rare minerals exploitation, agency head says
 
-date: 2025-07-24, from: United Nations, Top Stories
+date: 2025-07-24, from: United Nations, Climate Change
 
 Nations are pursuing underwater exploration for highly sought-after rare earth minerals, but the head of the UN’s International Seabed Authority (ISA) said the deep-sea belongs to no single country or corporation as efforts are underway to ensure this rich resource will not become “the Wild West” of exploitation. 
 
@@ -1208,7 +1642,7 @@ Improving pricing transparency and giving the Injuries Resolution Board more pow
 
 date: 2025-07-24, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7592521.1753307161!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/six-nations-polytechnic-and-wilfrid-laurier-university-sign-an-agreement.JPG' alt='People standing and holding documents while looking at the camera. A banner for Six Nations Polytechnic is on one side and a banner for Wilfrid Laurier University is on the other. ' width='620' height='349' title='Officials from Six Nations Polytechnic and Wilfrid Laurier University at a signing ceremony on Monday. Both learning hubs formally signed a memorandum of understanding to bolster academic ties.  '/><p>Six Nations Polytechnic has signed a memorandum of understanding with Wilfrid Laurier University. Pending funding, the agreement will offer more educational options to Indigenous students. The collaboration will also raise awareness of Indigenous culture for non-Indigenous students.</p> 
+<img src='https://i.cbc.ca/1.7592521.1753462938!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/six-nations-polytechnic-and-wilfrid-laurier-university-sign-an-agreement.JPG' alt='People standing and holding documents while looking at the camera. A banner for Six Nations Polytechnic is on one side and a banner for Wilfrid Laurier University is on the other. ' width='620' height='349' title='Officials from Six Nations Polytechnic and Wilfrid Laurier University at a signing ceremony on Monday. Both learning hubs formally signed a memorandum of understanding to bolster academic ties.  '/><p>Six Nations Polytechnic has signed a memorandum of understanding with Wilfrid Laurier University. Pending funding, the agreement will offer more educational options to Indigenous students. The collaboration will also raise awareness of Indigenous culture for non-Indigenous students.</p> 
 
 <br> 
 
@@ -1818,7 +2252,7 @@ When Denis Jobin, a senior evaluation specialist at the United Nations Children'
 
 ## World Court says countries are legally obligated to curb emissions, protect climate
 
-date: 2025-07-23, from: United Nations, Top Stories
+date: 2025-07-23, from: United Nations, Climate Change
 
 The International Court of Justice (ICJ) in The Hague, Netherlands, issued its advisory opinion on the obligations of States in respect of climate change, read out by the President of the Court, Judge Iwasawa Yuji, on Wednesday.&nbsp; 
 
@@ -2574,7 +3008,7 @@ US President Donald Trump has decided to pull the country out of the "woke" and 
 
 ## Deep dive into the International Seabed Authority: Why it matters now
 
-date: 2025-07-22, from: United Nations, Top Stories
+date: 2025-07-22, from: United Nations, Climate Change
 
 Protecting underwater ecosystems from the growing interest in rare mineral mining, framing deep-sea laws and building a biobank are among landmark achievements of the UN’s International Seabed Authority (ISA), which is marking its 30th anniversary at its Kingston, Jamaica, headquarters. 
 
@@ -2610,7 +3044,7 @@ The UN Security Council meets today for a high-level open debate on Promoting In
 
 ## UN’s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit
 
-date: 2025-07-22, from: United Nations, Top Stories
+date: 2025-07-22, from: United Nations, Climate Change
 
 UN Secretary‑General António Guterres declared the world has “passed the point of no return” on the shift to renewables and implored governments to file sweeping new climate plans before November’s COP30 climate summit in Brazil, saying the fossil fuel era is nearing its end. 
 
@@ -3423,7 +3857,7 @@ After another deadly weekend in Gaza in which at least 67 Palestinians were repo
 
 ## Deadly floods show need for faster, wider warnings, UN agency says
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Climate Change
 
 From the Himalayas to rural Texas, deadly floods this month have killed hundreds and exposed dangerous gaps in early warning systems, the UN’s weather agency warned, linking the devastation to rapid urbanization, land-use change and a warming climate that traps more moisture in the atmosphere. 
 
@@ -3435,7 +3869,7 @@ From the Himalayas to rural Texas, deadly floods this month have killed hundreds
 
 ## ‘Bet on youth’ to realise Africa’s digital potential, UN deputy chief says
 
-date: 2025-07-21, from: United Nations, Top Stories
+date: 2025-07-21, from: United Nations, Economic Development
 
 Digital innovation and technology remain underfunded and underdeveloped across Africa, according to a report on Africa’s development which was discussed at the General Assembly on Monday.&nbsp;&nbsp; 
 

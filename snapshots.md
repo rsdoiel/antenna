@@ -1,11 +1,185 @@
 ---
 title: snapshots
-updated: 2025-07-25 06:07:47
+updated: 2025-07-25 14:09:23
 ---
 
 # snapshots
 
-(date: 2025-07-25 06:07:47)
+(date: 2025-07-25 14:09:23)
+
+---
+
+## Unconstitutional Citizenship Stripping Efforts
+
+date: 2025-07-25, from: Guy Kawasaki blog
+
+Cassandra Burke Robertson, Irina D. Manta. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/unconstitutional-citizenship-stripping>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-25, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lustog7mt22c>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-07-25, from: IIIF Mastodon feed)
+
+<p>There are still a few spots left for our 5-Day <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Online Training! </p><p>Read more and register on Eventbrite: <a href="https://www.eventbrite.com/e/september-2025-iiif-online-training-5-day-course-tickets-1144089696079?aff=oddtdtcreator" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">eventbrite.com/e/september-202</span><span class="invisible">5-iiif-online-training-5-day-course-tickets-1144089696079?aff=oddtdtcreator</span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114915324918279624>
+
+---
+
+## Pebble is really back: New Pebble-branded smartwatches are on the way
+
+date: 2025-07-25, from: Liliputing
+
+<p>Earlier this year Pebble founder Eric Migicovsky announced that he was bringing Pebble back from the dead by launching a new company called Core Devices that would start by making two new PebbleOS smartwatches. But while the watches would look a lot like classic Pebble devices, at the time there was one thing Migicovsky couldn&#8217;t [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pebble-is-really-back-new-pebble-branded-smartwatches-are-on-the-way/">Pebble is really back: New Pebble-branded smartwatches are on the way</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pebble-is-really-back-new-pebble-branded-smartwatches-are-on-the-way/>
+
+---
+
+## A Voice for Boston Radio
+
+date: 2025-07-25, updated: 2025-07-25, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/25/a-voice-for-boston-radio/>
+
+---
+
+## Behind the Blog: Don't Record Me, Bro
+
+date: 2025-07-25, from: 404 Media Group
+
+This week, we discuss smart glasses for frat bros, Amazon comms messiness, and more. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-dont-record-me-bro/>
+
+---
+
+## iPadOS 26 Developer Beta 4
+
+date: 2025-07-25, from: Michael Tsai
+
+Jason Snell: It&#8217;s like a weight has been lifted from the soul of the iPad. It remains a very nice device to use in full-screen mode with all the simplicity attendant to that mode, or via a single tap it can turn into a multi-window, multitasking device that&#8217;s appropriate for the Mac-class hardware underpinning today&#8217;s [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/25/ipados-26-developer-beta-4/>
+
+---
+
+## The Illusion of Thinking
+
+date: 2025-07-25, from: Michael Tsai
+
+Apple (PDF): Recent generations of frontier language models have introduced Large Reasoning Models (LRMs) that generate detailed thinking processes before providing answers. While these models demonstrate improved performance on reasoning benchmarks, their fundamental capabilities, scaling properties, and limitations remain insufficiently understood. Current evaluations primarily focus on established mathematical and coding benchmarks, emphasizing final answer accuracy. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/25/the-illusion-of-thinking/>
+
+---
+
+## Women Dating Safety App 'Tea' Breached, Users' IDs Posted to 4chan
+
+date: 2025-07-25, from: 404 Media Group
+
+ “DRIVERS LICENSES AND FACE PICS! GET THE FUCK IN HERE BEFORE THEY SHUT IT DOWN!” the thread read before being deleted. 
+
+<br> 
+
+<https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/>
+
+---
+
+## Last Laugh
+
+date: 2025-07-25, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>It’s getting awfully late, early, for late-night TV. Stephen Colbert shocked his audience on July 17 with the news that CBS had canceled The Late Show. I interpreted it as the latest sign of America’s descent into fascism — another media company bending the knee. The headlines came just three days after Colbert slammed Paramount’s [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/last-laugh/">Last Laugh</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/last-laugh/>
+
+---
+
+## Maxell MCXP-P100S is another modern portable cassette player, this time with a speaker
+
+date: 2025-07-25, from: Liliputing
+
+<p>Last month Maxell introduced a new portable cassette player for the Japanese market that combines retro features (it&#8217;s&#8230; a portable tape cassette player) with modern touches (like a rechargeable battery, USB-C port, and Bluetooth audio support). Now the company has added another model to the lineup. The new Maxell MXCP-P100S has all the features of the previously-announced [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/maxell-mcxp-p100s-is-another-modern-portable-cassette-player-this-time-with-a-speaker/">Maxell MCXP-P100S is another modern portable cassette player, this time with a speaker</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/maxell-mcxp-p100s-is-another-modern-portable-cassette-player-this-time-with-a-speaker/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-25, from: Robert's feed at BlueSky)
+
+I like programming computers but over the years I have come to the conclusion they should not be embedded in everything.
+
+Thread 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lusbvtrt622l>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-25, from: Robert's feed at BlueSky)
+
+👇It is happening again.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lusbdm7nwc2l>
+
+---
+
+## One Extra Click
+
+date: 2025-07-25, updated: 2025-07-25, from: Tedium site
+
+Google announces a plan to add yet another barrier to the ease of getting an ultra-simple Web search. Great. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17103783/google-web-guide-labs-ai-search-feedback>
 
 ---
 
