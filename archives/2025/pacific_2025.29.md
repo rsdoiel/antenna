@@ -1,11 +1,573 @@
 ---
 title: pacific
-updated: 2025-07-24 14:07:34
+updated: 2025-07-25 06:07:39
 ---
 
 # pacific
 
-(date: 2025-07-24 14:07:34)
+(date: 2025-07-25 06:07:39)
+
+---
+
+## Trump signs order aimed at curbing big-money influence in college sports
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump on Thursday signed an executive order that the White House said was aimed at curbing the influence of big-money payouts in college sports like football and men&#8217;s basketball.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/trump-signs-order-aimed-at-curbing-big-money-influence-in-college-sports/>
+
+---
+
+## Trump orders crackdown on homeless encampments nationwide
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Thursday signed an executive order urging cities and states to clear homeless encampments and move people into treatment centers - a move that advocates for the homeless said would worsen the problem.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/trump-orders-crackdown-on-homeless-encampments-nationwide/>
+
+---
+
+## Trump presses Powell to cut rates during tense visit to Fed
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump locked horns with Federal Reserve Chair Jerome Powell during a rare presidential visit to the U.S. central bank on Thursday, criticizing the cost of renovating two historical buildings at its headquarters and pressing the case for lower interest rates.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/trump-presses-powell-to-cut-rates-during-tense-visit-to-fed/>
+
+---
+
+## Hawaiian Airlines sees first profit since COVID-19 pandemic
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Alaska Air Group&#8217;s second quarter earning beat expectations due to lower fuel prices, better costs and revenue, and new opportunities from its merger with Hawaiian Airlines, whose adjusted pretax margin hit profitability for the first time since 2019.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/hawaii-news/hawaiian-airlines-sees-first-profit-since-covid-19-pandemic/>
+
+---
+
+## News in brief for July 25
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>FCC approves Skydance&#8217;s &#0010;$8 billion merger with Paramount</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/news-in-brief-for-july-25/>
+
+---
+
+## Paramount settled with Trump. Its shows are skewering him
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>The creators of &#8220;South Park&#8221; aren&#8217;t holding back. Nor are Stephen Colbert and Jon Stewart.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/paramount-settled-with-trump-its-shows-are-skewering-him/>
+
+---
+
+## Nonprofits invited to apply for county Impact Grants
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has announced the launch of its fiscal year 2025-2026 Impact Grants program, inviting eligible organizations to apply for competitive funding opportunities that will drive positive change across Hawaii Island communities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/community/nonprofits-invited-to-apply-for-county-impact-grants/>
+
+---
+
+## Pet therapy cat joins the team at Waimea hospital
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>A specially trained cat has joined the team at Queen&#8217;s North Hawaii Community Hospital in Waimea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/community/pet-therapy-cat-joins-the-team-at-waimea-hospital/>
+
+---
+
+## Summer Jam returns to Hilo; BISAC’s annual event offers fun for the whole family
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Big Island Substance Abuse Council is hosting its 11th annual Summer Jam event from 8 a.m. to 2 p.m. Saturday to gather the community and reduce the stigma surrounding addiction recovery.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/hawaii-news/summer-jam-returns-to-hilo-bisacs-annual-event-offers-fun-for-the-whole-family/>
+
+---
+
+## Foundation awards $450K to programs supporting Waimea
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>An award of $450,000 from the Richard Smart Fund has been granted to 24 programs supporting culture, education, health and safety in Waimea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/community/foundation-awards-450k-to-programs-supporting-waimea/>
+
+---
+
+## Musk’s Starlink says it is experiencing major network outage
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>Starlink is experiencing a network outage, Elon Musk&#8217;s SpaceX-owned satellite internet company said on Thursday, with Downdetector showing that the service was down for thousands of users.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/musks-starlink-says-it-is-experiencing-major-network-outage/>
+
+---
+
+## Grammy-winning jazz musician Chuck Mangione dies at 84
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>American two-time Grammy-winning jazz flugelhorn player Chuck Mangione, best known for his 1970s cross-over hit &#8220;Feels So Good,&#8221; died this week at age 84 at his home in Rochester, New York.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/grammy-winning-jazz-musician-chuck-mangione-dies-at-84/>
+
+---
+
+## Trump EPA aims to repeal vehicle emission rules after revoking greenhouse gas endangerment finding
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Environmental Protection Agency plans to repeal all greenhouse gas emission standards for light-duty, medium-duty, and heavy-duty vehicles and engines in the coming days after it removes the scientific finding that justified those rules, according to a summary of the proposal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/trump-epa-aims-to-repeal-vehicle-emission-rules-after-revoking-greenhouse-gas-endangerment-finding/>
+
+---
+
+## France will recognize Palestinian statehood, Macron says
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; President Emmanuel Macron announced late Thursday that France would recognize the state of Palestine as part of &#8220;its historical commitment to a just and durable peace in the Middle East.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/france-will-recognize-palestinian-statehood-macron-says/>
+
+---
+
+## Familiar flashpoint leads to deadly clashes between Thailand and Cambodia
+
+date: 2025-07-25, from: Hawaii Tribune Harold
+
+
+				<p>SURIN PROVINCE, Thailand &#8212; Gunfire, rockets and bombs dropped by F-16 fighter jets thundered across the long-contested border between Thailand and Cambodia on Thursday, killing at least a dozen people, in a drastic escalation of hostilities between the two neighbors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/25/nation-world-news/familiar-flashpoint-leads-to-deadly-clashes-between-thailand-and-cambodia/>
+
+---
+
+## Moylan seeks Guam’s involvement in defense infrastructure planning
+
+date: 2025-07-25, from: Pacific Island Times
+
+“The DoD relies significantly on public infrastructure in Guam, and it is incumbent upon the department to participate in its stewardship,” Moylan said in a July 25 letter to Gov. Lou Leon Guerrero, providing an update on the status of the National Defense Authorization Act 2026. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/moylan-seeks-guam-s-involvement-in-defense-infrastructure-planning>
+
+---
+
+## Koror Governor’s race takes shape as Marbou joins election field
+
+date: 2025-07-25, from: Island Times
+
+<figure><img width="600" height="721" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?fit=600%2C721&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?resize=250%2C300&amp;ssl=1 250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?resize=400%2C481&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?fit=600%2C721&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79126" data-permalink="https://islandtimes.org/koror-governors-race-takes-shape-as-marbou-joins-election-field/screenshot-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?fit=600%2C721&amp;ssl=1" data-orig-size="600,721" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Screenshot&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Screenshot&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot" data-image-description="" data-image-caption="&lt;p&gt;Alan Marbou&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?fit=250%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Alan-Marbou.jpeg?fit=600%2C721&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — Koror State is preparing for its 13th general election this November, with former gubernatorial candidate Alan T. Marbou officially declaring his candidacy in a televised announcement on Wednesday. Marbou is set to face off once again against incumbent Governor Eyos Rudimch, who has already confirmed his re-election bid. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-governors-race-takes-shape-as-marbou-joins-election-field/">Koror Governor&#8217;s race takes shape as Marbou joins election field</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-governors-race-takes-shape-as-marbou-joins-election-field/>
+
+---
+
+## Young swimmers Nestor, Gibbons set sights on Olympic Goals at World Aquatics Championships
+
+date: 2025-07-25, from: Island Times
+
+<figure><img width="1024" height="767" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?fit=1024%2C767&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=1024%2C767&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?resize=706%2C529&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?fit=1024%2C767&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79121" data-permalink="https://islandtimes.org/young-swimmers-nestor-gibbons-set-sights-on-olympic-goals-at-world-aquatics-championships/plw-kazummi-nestor-702x526/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?fit=1249%2C936&amp;ssl=1" data-orig-size="1249,936" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;Nishida Ryota&quot;,&quot;camera&quot;:&quot;ILCE-7M3&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1751243829&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;105&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PLW-KAZUMMI-NESTOR-702&#215;526" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/PLW-KAZUMMI-NESTOR-702x526-1.jpg?fit=780%2C584&amp;ssl=1" /></figure>
+<p>By: Laurel Marewibuel Koror, Palau — Two of the nation’s brightest swimming prospects, Kazumi Nestor and Charlie Gibbons, are headed to Singapore for the 2025 World Aquatics Championships, aiming to break national records and push closer to Olympic qualification. The competition runs from July 27 to August 3 and will showcase some of the world’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/young-swimmers-nestor-gibbons-set-sights-on-olympic-goals-at-world-aquatics-championships/">Young swimmers Nestor, Gibbons set sights on Olympic Goals at World Aquatics Championships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/young-swimmers-nestor-gibbons-set-sights-on-olympic-goals-at-world-aquatics-championships/>
+
+---
+
+## OEK calls on President to prevent Palauans from being sent to Guantanamo
+
+date: 2025-07-25, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau (July 24, 2025) — Palau’s national legislature has called on President Surangel Whipps Jr. to take urgent action to ensure Palauan citizens deported from the United States are returned directly to Palau, not to offshore detention centers such as the U.S. naval base at Guantanamo Bay. In a joint [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/oek-calls-on-president-to-prevent-palauans-from-being-sent-to-guantanamo/">OEK calls on President to prevent Palauans from being sent to Guantanamo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/oek-calls-on-president-to-prevent-palauans-from-being-sent-to-guantanamo/>
+
+---
+
+## Palau leaders reject U.S. proposal to host Asylum seekers
+
+date: 2025-07-25, from: Island Times
+
+<p>KOROR, Palau — A proposal from the United States to relocate asylum seekers to Palau has been firmly rejected by Palau’s National Congress and the Council of Chiefs, with leaders calling it “dead on arrival.” The proposal, presented to Palauan leadership on July 18 by President Surangel Whipps Jr. and U.S. Ambassador Joel Ehrendreich, sought [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-leaders-reject-u-s-proposal-to-host-asylum-seekers/">Palau leaders reject U.S. proposal to host Asylum seekers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-leaders-reject-u-s-proposal-to-host-asylum-seekers/>
+
+---
+
+## U.S. Military exercise behind loud aircraft noise in Palau, officials confirm
+
+date: 2025-07-25, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang AIRAI, Palau (July 24, 2025) — The recent loud aircraft noises heard in Airai and surrounding areas are linked to the ongoing U.S. Air Force exercise Resolute Force Pacific (REFORPAC) 2025, officials confirmed. REFORPAC, the largest U.S. Air Force contingency-response and readiness exercise ever conducted in the Indo-Pacific region, began July [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-military-exercise-behind-loud-aircraft-noise-in-palau-officials-confirm/">U.S. Military exercise behind loud aircraft noise in Palau, officials confirm</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-military-exercise-behind-loud-aircraft-noise-in-palau-officials-confirm/>
+
+---
+
+## Palauans React to U.S. Proposal to host Asylum seekers
+
+date: 2025-07-25, from: Island Times
+
+<p>“Put Our People First” By: Summer Kennard Koror, Palau – Palauans from across the nation are voicing strong and varied opinions in response to a U.S. proposal to temporarily house asylum seekers in the island nation—an idea described by the U.S. ambassador as merely a starting point for discussion. While the proposal remains in its [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-react-to-u-s-proposal-to-host-asylum-seekers/">Palauans React to U.S. Proposal to host Asylum seekers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauans-react-to-u-s-proposal-to-host-asylum-seekers/>
+
+---
+
+## Proposed Palau Trademark Act aims to boost investment and protect intellectual property
+
+date: 2025-07-25, from: Island Times
+
+<p>KOROR, Palau (July 24, 2025) — A new legislative proposal introduced in the Olbiil Era Kelulau seeks to establish Palau’s first comprehensive trademark law, aiming to protect intellectual property and stimulate sustainable economic development in the Republic. Senate Bill No. 12-36, titled the &#8220;Trademark Act,&#8221; proposes to amend Title 29 of the Palau National Code [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/proposed-palau-trademark-act-aims-to-boost-investment-and-protect-intellectual-property/">Proposed Palau Trademark Act aims to boost investment and protect intellectual property</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/proposed-palau-trademark-act-aims-to-boost-investment-and-protect-intellectual-property/>
+
+---
+
+## U.S. Ambassador explains Asylum seeker deal with Palau
+
+date: 2025-07-25, from: Island Times
+
+<p>By: Bernadette Carreon Koror, Palau – U.S. Ambassador to Palau Joel Ehrendreich told Palauan leaders that individuals likely to be sent to Palau under a proposed asylum agreement are those whose claims have been deemed inadmissible or abandoned in the United States, raising concerns over the legal, logistical, and ethical implications of the arrangement. During [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-ambassador-explains-asylum-seeker-deal-with-palau/">U.S. Ambassador explains Asylum seeker deal with Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-ambassador-explains-asylum-seeker-deal-with-palau/>
+
+---
+
+## Internship Forum Showcases 34 Palauan graduates, opens doors to employment
+
+date: 2025-07-25, from: Island Times
+
+<figure><img width="682" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?fit=682%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?w=853&amp;ssl=1 853w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?resize=682%2C1024&amp;ssl=1 682w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?resize=780%2C1170&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?fit=682%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79097" data-permalink="https://islandtimes.org/internship-forum-showcases-34-palauan-graduates-opens-doors-to-employment/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?fit=853%2C1280&amp;ssl=1" data-orig-size="853,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1753353512&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="48ea86c6-dfbf-4ebe-a062-4f66f7fda53c" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/48ea86c6-dfbf-4ebe-a062-4f66f7fda53c.jpg?fit=682%2C1024&amp;ssl=1" /></figure>
+<p>By: Summer Kennard KOROR, Palau — The Palau National Scholarship Board hosted its 2025 Summer Internship Forum, spotlighting 34 Palauan college graduates who completed eight-week internships under its fellowship program. The forum gave interns the opportunity to present their work, reflect on their experiences, and engage with local professionals and leaders. Some interns even received [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/internship-forum-showcases-34-palauan-graduates-opens-doors-to-employment/">Internship Forum Showcases 34 Palauan graduates, opens doors to employment</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/internship-forum-showcases-34-palauan-graduates-opens-doors-to-employment/>
+
+---
+
+## Elias joins PICRC as Aquarist
+
+date: 2025-07-25, from: Island Times
+
+<figure><img width="600" height="561" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?fit=600%2C561&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?resize=300%2C281&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?resize=400%2C374&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?fit=600%2C561&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79093" data-permalink="https://islandtimes.org/elias-joins-picrc-as-aquarist/photo_jay-elias/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?fit=600%2C561&amp;ssl=1" data-orig-size="600,561" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Jay Elias" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?fit=300%2C281&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Photo_Jay-Elias.jpg?fit=600%2C561&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased to announce the appointment of Jay Elias as the newest aquarist at the Palau Aquarium. Jay, who is from Tobi Island in the state of Hatohobei, joined the team at the Palau Aquarium in March and has already made valuable contributions through the day-to-day upkeep of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/elias-joins-picrc-as-aquarist/">Elias joins PICRC as Aquarist</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/elias-joins-picrc-as-aquarist/>
+
+---
+
+## Paradise or Prison? Choose One.
+
+date: 2025-07-25, from: Island Times
+
+<figure><img width="250" height="152" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?w=250&amp;ssl=1 250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="20636" data-permalink="https://islandtimes.org/taiwan-embassy-denies-lobbying-delay-of-pnms-implementation/letter-to-the-editor2-475x300-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" data-orig-size="250,152" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="LETTER-TO-THE-EDITOR2-475&#215;300" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2019/03/LETTER-TO-THE-EDITOR2-475x300-1.jpg?fit=250%2C152&amp;ssl=1" /></figure>
+<p>My name is Alex Sheshunoff. I lived in Palau for several years, met my wife there, built a house in Angaur, and wrote a book largely set in Palau. I care deeply about the people of Palau, many of whom I&#8217;ve considered among my closest friends. In the last&#160;few days, I&#8217;ve been flooded with messages [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/paradise-or-prison-choose-one/">Paradise or Prison? Choose One.</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/paradise-or-prison-choose-one/>
+
+---
+
+## Lack of validation
+
+date: 2025-07-25, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>Growing up, I often felt my opinions and feelings were overlooked. Bomluk e ke ngalk el redil. Ouch. Truth over Comfort Looking balck, I see clearly why I was rejected. I was not a nice girl who didnt foll protocol.  The messagd was &#8220;Be like Martha &#8230; get busy in the kitchen.  Serve. Don&#8217;t talk.&#8221; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lack-of-validation/">Lack of validation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/lack-of-validation/>
+
+---
+
+## Apatang and Mendiola sworn in following Governor Palacios’ passing
+
+date: 2025-07-25, from: Island Times
+
+<p>Saipan, CNMI&#160;— In the wake of Governor Arnold I. Palacios’ sudden passing on July 23, 2025, leadership in the Commonwealth of the Northern Mariana Islands transitioned swiftly and in accordance with the CNMI Constitution. Lt. Gov. David M. Apatang&#160;was officially sworn in as Governor on Thursday, July 24, 2025. Alongside him,&#160;Senate President Dennis C. Mendiola&#160;took [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/apatang-and-mendiola-sworn-in-following-governor-palacios-passing/">Apatang and Mendiola sworn in following Governor Palacios’ passing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/apatang-and-mendiola-sworn-in-following-governor-palacios-passing/>
+
+---
+
+## Pacific youth hail ICJ’s landmark climate ruling as a ‘lifeline’ for Island nations
+
+date: 2025-07-25, from: Island Times
+
+<p>By Sanjeshni Kumar THE HAGUE/SUVA (PASIFIKA ENVIRONEWS/PACNEWS) &#8212; The Pacific youth who initiated the historic push to take climate change to the world’s highest court have hailed the International Court of Justice’s (ICJ) advisory opinion as a victory for justice and survival. “Six years ago, young people from the Pacific decided to take climate change [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-youth-hail-icjs-landmark-climate-ruling-as-a-lifeline-for-island-nations/">Pacific youth hail ICJ’s landmark climate ruling as a ‘lifeline’ for Island nations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-youth-hail-icjs-landmark-climate-ruling-as-a-lifeline-for-island-nations/>
+
+---
+
+## New Zealand challenges Cook Islands PM to independence vote after his comments on China
+
+date: 2025-07-25, from: Island Times
+
+<p>RAROTONGA (COOK ISLANDS NEWS) &#8212; New Zealand has called on Cook Islands Prime Minister Mark Brown to test the views of the Cook Islands people and hold a referendum on independence from New Zealand following his latest defence of agreements with China. New Zealand&#8217;s Ministry of Foreign Affairs made this comment in response to PM [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-zealand-challenges-cook-islands-pm-to-independence-vote-after-his-comments-on-china/">New Zealand challenges Cook Islands PM to independence vote after his comments on China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-zealand-challenges-cook-islands-pm-to-independence-vote-after-his-comments-on-china/>
+
+---
+
+## The hunger crisis inside Gaza will affect the news you see about the war
+
+date: 2025-07-25, from: Island Times
+
+<p>By Middle East correspondent Matthew Doran (ABC-Australia) It was Friday afternoon and my phone lit up. One of our ABC Middle East team members was messaging the group WhatsApp chat. That group is usually pinging around the clock — sometimes incessantly, given the pace of news in this region. But the message which came through was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-hunger-crisis-inside-gaza-will-affect-the-news-you-see-about-the-war/">The hunger crisis inside Gaza will affect the news you see about the war</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-hunger-crisis-inside-gaza-will-affect-the-news-you-see-about-the-war/>
+
+---
+
+## Letter to the Editor: Return public health to its Mangilao facility
+
+date: 2025-07-25, from: Pacific Island Times
+
+By Therese Terlaje   Whatever happened to the Public Health building in Mangilao? Before it closed in 2019, it was where many families in... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-return-public-health-to-its-mangilao-facility>
+
+---
+
+## 'I just let it flow': Meet 16-year-old James Kusitino, Fiji's first pro surfer
+
+date: 2025-07-25, from: 
+
+The youngster has become Fiji's first sponsored professional surfer, having recently been backed by renowned surf and skate brand FORMER. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568033/i-just-let-it-flow-meet-16-year-old-james-kusitino-fiji-s-first-pro-surfer>
+
+---
+
+## Fiji's top prosecutor remains in self-imposed exile in NZ while earning six-figure salary
+
+date: 2025-07-25, from: 
+
+New Zealander Christopher Pryde has not returned to workd since his January resintatement, citing concerns about facing another suspension. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567999/fiji-s-top-prosecutor-remains-in-self-imposed-exile-in-nz-while-earning-six-figure-salary>
+
+---
+
+## Unity in style: Honolulu CC’s senior designers take center stage
+
+date: 2025-07-25, from: University of Hawaiʻi News
+
+<p>The designs were featured on a runway fashion show in front of an enthusiastic crowd.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/24/honolulu-ccs-senior-designers-center-stage/">Unity in style: Honolulu <abbr>CC</abbr>’s senior designers take center stage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/24/honolulu-ccs-senior-designers-center-stage/>
+
+---
+
+## Solomon Islands PM's former chief of staff returns to represent firm that led to his firing
+
+date: 2025-07-25, from: 
+
+Mack Faddean Aoraunisaka, as the "local authorised representative" for the Vietnamese shrimp farming group, decried the negative attention toward his new employers. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568030/solomon-islands-pm-s-former-chief-of-staff-returns-to-represent-firm-that-led-to-his-firing>
+
+---
+
+## Bougainville woman Cabinet minister battling nine men to hold her seat
+
+date: 2025-07-25, from: 
+
+One of the first women to hold an open seat in Bougainville, Theonila Roka Matbob, is "more relaxed, more focused" and confident she can win again. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568025/bougainville-woman-cabinet-minister-battling-nine-men-to-hold-her-seat>
+
+---
+
+## Solomon Islands coach says women's team can 'go for the World Cup' after stunning OFC victory
+
+date: 2025-07-25, from: 
+
+Moses Toata says the Solomons women's side has proven that winning at the highest level is possible if things are done right. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568026/solomon-islands-coach-says-women-s-team-can-go-for-the-world-cup-after-stunning-ofc-victory>
+
+---
+
+## 'A breath of legal oxygen:' ICJ's historic opinion empowers Pacific island states 
+
+date: 2025-07-24, from: Pacific Island Times
+
+“It helps anchor 1.5c as a non-negotiable limit rooted in the best available science and now grounded in international law," PICAN said in a statement following the court’s July 23 release of the advisory opinion sought by Vanuatu.. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-breath-of-legal-oxygen-icj-s-opinion-empowers-pacific-island-states>
+
+---
+
+## This is who we are: Commemorating 75 years of self-governance with pride and purpose 
+
+date: 2025-07-24, from: Pacific Island Times
+
+By Frank Blas Jr. On Aug. 1, Guam marks a profound milestone—75 years since the passage of the Organic Act of 1950. This landmark... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/this-is-who-we-are-commemorating-75-years-of-self-governance-with-pride-and-purpose>
 
 ---
 
@@ -21,6 +583,20 @@ The International Seabed Authority Council has launched an inquiry into "non-com
 
 ---
 
+## Ingram is the new AG
+
+date: 2025-07-24, from: Marshal Islands Journal
+
+<p>Journal 7/27/1982 P1 DeBrum: Compact talks collapsed todayThe Foreign Secretary of the Marshall Islands Tony deBrum says negotiations to end the United States administration of the territory have collapsed. Speaking in Honolulu, deBrum said the US was not prepared to end its trusteeship of the islands, except on its own terms and at a time [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ingram-is-the-new-ag/">Ingram is the new AG</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ingram-is-the-new-ag/>
+
+---
+
 ## David Apatang sworn in as CNMI’s 10th governor
 
 date: 2025-07-24, from: 
@@ -30,6 +606,18 @@ The 77-year-old Vietnam War veteran succeeds the late governor Arnold Palacios, 
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/567970/david-apatang-sworn-in-as-cnmi-s-10th-governor>
+
+---
+
+## David Apatang sworn in as CNMI’s 11th governor
+
+date: 2025-07-24, from: 
+
+The 77-year-old Vietnam War veteran succeeds the late governor Arnold Palacios, who suddenly passed on Wednesday after being medically evacuated to Guam. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567970/david-apatang-sworn-in-as-cnmi-s-11th-governor>
 
 ---
 
@@ -437,6 +1025,20 @@ date: 2025-07-24, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/24/nation-world-news/wrongly-deported-migrant-abrego-scores-legal-wins-but-remains-behind-bars/>
+
+---
+
+## Mother, daughter in custody interference case found safe in Arizona
+
+date: 2025-07-24, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police report that a Paauilo mother wanted in a custodial interference investigation and her 6-year-old daughter were found safe Wednesday evening in Cottonwood, Ariz.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/24/hawaii-news/mother-daughter-in-custody-interference-case-found-safe-in-arizona/>
 
 ---
 
@@ -1930,7 +2532,7 @@ But public health experts say that law enforcement are undermining efforts to co
 
 date: 2025-07-21, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Ed Sniffen, State Director of Transportation Major James Slaytor, Honolulu Police Dept. Traffic Division Commander Lola Irvin,  Administrator, DOH Chronic Disease Prevention and Health Promotion Division Jon [&#8230;]</p>
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Ed Sniffen, State Director of Transportation Major James Slayter, Honolulu Police Dept. Traffic Division Commander Lola Irvin,  Administrator, DOH Chronic Disease Prevention and Health Promotion Division Jon [&#8230;]</p>
 <p>The post <a href="https://www.pbshawaii.org/danger-on-the-roads-insights-on-pbs-hawai%ca%bbi/">Danger on the Roads &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 

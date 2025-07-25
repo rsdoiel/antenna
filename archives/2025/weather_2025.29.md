@@ -1,11 +1,152 @@
 ---
 title: weather
-updated: 2025-07-24 14:07:36
+updated: 2025-07-25 06:07:42
 ---
 
 # weather
 
-(date: 2025-07-24 14:07:36)
+(date: 2025-07-25 06:07:42)
+
+---
+
+## SPC - No watches are valid as of Fri Jul 25 12:32:02 UTC 2025
+
+date: 2025-07-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Jul 25 12:32:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Jul 25 12:32:02 UTC 2025
+
+date: 2025-07-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Jul 25 12:32:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-07-25, from: Central Pacific Basin Tropical Cyclones
+
+000<br />ACPN50 PHFO 251149<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Fri Jul 25 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Well Southeast of the Hawaiian Islands:<br />An area of low pressure located well southeast of the Hawaiian<br />Islands is producing a large area of showers and thunderstorms.<br />Some gradual development of this system is possible, and a tropical<br />depression could form late this weekend or early next week as it<br />moves generally westward at 10 to 15 mph across the far western<br />portion of the eastern Pacific and into the Central Pacific basin.<br />* Formation chance through 48 hours...low...20 percent.<br />* Formation chance through 7 days...medium...50 percent.<br /><br />$$<br />Forecaster Kelly<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-07-25, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 251149<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri Jul 25 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Well Southeast of the Hawaiian Islands: <br />An area of low pressure located well southeast of the Hawaiian <br />Islands is producing a large area of showers and thunderstorms.  <br />Some gradual development of this system is possible, and a tropical <br />depression could form late this weekend or early next week as it <br />moves generally westward at 10 to 15 mph across the far western <br />portion of the eastern Pacific and into the Central Pacific basin.<br />* Formation chance through 48 hours...low...20 percent.<br />* Formation chance through 7 days...medium...50 percent.<br /><br />Central East Pacific:<br />An area of low pressure is forecast to form offshore of the <br />southwestern coast of Mexico early next week. Thereafter, <br />environmental conditions appear conducive for some development as <br />the system moves generally west-northwestward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...low...30 percent.<br /><br />$$<br />Forecaster Kelly 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-25, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 251149<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri Jul 25 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Well Southeast of the Hawaiian Islands: <br />An area of low pressure located well southeast of the Hawaiian <br />Islands is producing a large area of showers and thunderstorms.  <br />Some gradual development of this system is possible, and a tropical <br />depression could form late this weekend or early next week as it <br />moves generally westward at 10 to 15 mph across the far western <br />portion of the eastern Pacific and into the Central Pacific basin.<br />* Formation chance through 48 hours...low...20 percent.<br />* Formation chance through 7 days...medium...50 percent.<br /><br />Central East Pacific:<br />An area of low pressure is forecast to form offshore of the <br />southwestern coast of Mexico early next week. Thereafter, <br />environmental conditions appear conducive for some development as <br />the system moves generally west-northwestward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...low...30 percent.<br /><br />$$<br />Forecaster Kelly 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-25, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 251149<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Fri Jul 25 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Well Southeast of the Hawaiian Islands:<br />An area of low pressure located well southeast of the Hawaiian<br />Islands is producing a large area of showers and thunderstorms.<br />Some gradual development of this system is possible, and a tropical<br />depression could form late this weekend or early next week as it<br />moves generally westward at 10 to 15 mph across the far western<br />portion of the eastern Pacific and into the Central Pacific basin.<br />* Formation chance through 48 hours...low...20 percent.<br />* Formation chance through 7 days...medium...50 percent.<br /><br />$$<br />Forecaster Kelly<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-25, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Jul 25 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. Northwestern Gulf:<br>A broad area of low pressure located about 100 miles south of the <br>coast of southwestern Louisiana continues to produce disorganized <br>showers and thunderstorms.  This system is moving west-northwestward <br>toward the Texas coast, and it has limited time to develop before it <br>moves inland tonight.  Regardless of formation, locally heavy <br>rainfall is likely over portions of the northwestern Gulf coast <br>during the next couple of days.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br><br><br>Forecaster Cangialosi<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## SPC Jul 25, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-07-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0355 AM CDT Fri Jul 25 2025
+
+Valid 281200Z - 021200Z
+
+...DISCUSSION...
+The strongest mid-level flow will move from the Upper Midwest into
+the Northeast this weekend into the middle of next week. As this
+occurs, a surface boundary will slowly sag into the central Plains
+and Ohio Valley. Given the very moist airmass to the south of the
+boundary, strong to potentially severe storms are possible along the
+boundary at least into the middle of next week. With the stronger
+flow/shear displace north of the boundary and model differences in
+the location, uncertainty remains too high for highlights.
+
+Farther west, moisture will be pushed up against parts of the
+northern Rockies and adjacent High Plains. Between the terrain and
+shortwave troughs moving through the central U.S. ridge, it is
+possible strong to severe storms could develop and progress along
+the surface boundary into greater areas of moisture/buoyancy in the
+Plains. Given the dependency on the low-predictability shortwaves,
+it is not clear where the greatest risk will be from the High Plains
+into the Plains through the middle of next week.
+
+By the end of next week, model guidance suggests a general trend of
+continued upper ridge building into Plains. Stronger mid-level winds
+will remain in parts of the Northeast with additional shortwave
+perturbations moving through parts of the northern Rockies. Severe
+risk along the boundary should decrease as it becomes further
+removed from the stronger flow. Though predictability is low
+regarding the shortwave troughs, some severe risk could develop in
+parts of the northern Rockies.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -541,82 +682,6 @@ possible with the stronger storms that can evolve.
 
 ---
 
-## CPHC Central North Pacific Outlook
-
-date: 2025-07-24, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>800 AM HST Thu Jul 24 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>1. Well Southeast of the Hawaiian Islands:<br>An area of low pressure is forecast to develop well to the southeast<br>of the Hawaiian Islands by this weekend.  Thereafter, some gradual<br>development is possible and a tropical depression could form while<br>the system moves generally westward at 10 to 15 mph.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...medium..40 percent.<br><br><br><br>Forecaster Pasch<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-07-24, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 241725<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Jul 24 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Well Southeast of the Hawaiian Islands:<br />An area of low pressure is forecast to develop well to the southeast <br />of the Hawaiian Islands by this weekend.  Thereafter, some gradual <br />development is possible and a tropical depression could form while <br />the system moves generally westward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium..40 percent.<br /><br />$$<br />Forecaster Pasch 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-24, from: Eastern Pacific Tropical Weather Outlook
-
-000<br />ABPZ20 KNHC 241725<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Jul 24 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Well Southeast of the Hawaiian Islands:<br />An area of low pressure is forecast to develop well to the southeast <br />of the Hawaiian Islands by this weekend.  Thereafter, some gradual <br />development is possible and a tropical depression could form while <br />the system moves generally westward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium..40 percent.<br /><br />$$<br />Forecaster Pasch 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-24, from: Central Pacific Tropical Weather Outlook
-
-521 <br />ACPN50 PHFO 241725<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Jul 24 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Well Southeast of the Hawaiian Islands:<br />An area of low pressure is forecast to develop well to the southeast<br />of the Hawaiian Islands by this weekend.  Thereafter, some gradual<br />development is possible and a tropical depression could form while<br />the system moves generally westward at 10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...medium..40 percent.<br /><br />$$<br />Forecaster Pasch<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-07-24, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu Jul 24 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>1. North-Central Gulf:<br>A broad area of low pressure over the north-central Gulf is <br>currently producing an area of disorganized showers and <br>thunderstorms. Over the next day or so, this system is forecast to <br>move generally westward across the northern Gulf where some slow <br>development is possible. By this weekend, the system is likely to <br>move inland, ending its chances for development. Regardless of <br>tropical cyclone formation, locally heavy rainfall is possible for <br>portions of the northern Gulf coast through this weekend.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br><br><br>Forecaster Kelly<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## SPC Jul 24, 2025 1630 UTC Day 1 Convective Outlook
 
 date: 2025-07-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -844,92 +909,6 @@ be possible.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No watches are valid as of Thu Jul 24 12:35:02 UTC 2025
-
-date: 2025-07-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Jul 24 12:35:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu Jul 24 12:35:02 UTC 2025
-
-date: 2025-07-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu Jul 24 12:35:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jul 24, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-07-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0358 AM CDT Thu Jul 24 2025
-
-Valid 271200Z - 011200Z
-
-...DISCUSSION...
-Models indicate substantive amplification within an initially zonal
-belt of westerlies across the northern mid-latitude Pacific during
-the coming days, with several embedded closed lows evolving,
-including one by the beginning of the period across the northeastern
-Pacific, on the leading edge of an increasingly blocked regime. 
-Downstream, as another significant low, emerging from the Arctic
-latitudes, turns across the eastern Northwest Territories into and
-through Hudson Bay, mid/upper ridging is forecast to build through
-much of the Canadian Prairies.  Gradually, models indicate that
-amplified ridging will encompass much of interior North America,
-across and east of the Rockies through the mid to latter portions of
-next week, while amplified troughing evolves further downstream,
-across the eastern Canadian provinces, the Great Lakes and
-Northeast.
-
-The evolution of this regime appears likely to be accompanied by a
-plume of steepening mid-level lapse rates overspreading the northern
-U.S. Great Plains and adjacent portions of southern Canada, toward
-the Upper Midwest/Great Lakes, during the early to middle portion of
-next week, before becoming suppressed southwestward.  Aided by the
-return of seasonably high boundary layer moisture content to areas
-near and northeast of the lower through middle Missouri Valley, it
-appears that this will contribute to a broad area of moderate to
-large potential instability.  
-
-This environment may become conditionally supportive of the
-evolution of longer-lived organized thunderstorm clusters, with
-potential to produce swaths of damaging wind gusts across parts of
-the northern Great Plains, Upper Midwest and Great Lakes into the
-Ohio Valley and perhaps parts of the Northeast.  However, prior to
-more substantive mid/upper trough amplification, and the southward
-advancement of a cold front into much of the northeastern U.S. by
-the middle of next week, the evolution of any such cluster, south of
-the international border, will likely largely depend on subtle short
-wave perturbations progressing through the larger scale ridging. 
-Given the low predictability of these features at this extended
-range, and the uncertain impacts of their associated convection and
-outflow on subsequent destabilization, severe probabilities remain
-low due to the uncertainties.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

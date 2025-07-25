@@ -1,11 +1,110 @@
 ---
 title: home
-updated: 2025-07-24 14:07:38
+updated: 2025-07-25 06:07:44
 ---
 
 # home
 
-(date: 2025-07-24 14:07:38)
+(date: 2025-07-25 06:07:44)
+
+---
+
+## All It Took Was $3,000 and a Bit of Imagination to Bring This See-Through Vermont Cabin to Life
+
+date: 2025-07-25, from: Dwell
+
+When Mike and Melissa Masters realized that the plans for their off-grid hut were (literally) impossible for them to read, they had to pivot. 
+
+<br> 
+
+<https://www.dwell.com/article/tanglebloom-cabin-farm-vermont-442d5518>
+
+---
+
+## 20 Best Coreopsis Varieties for Your Garden (With Pictures)
+
+date: 2025-07-25, from: Yard Life blog
+
+<p>Coreopsis varieties are some of the most cheerful and easy-to-grow flowering plants you can add to your garden. Known for ... </p>
+<p class="read-more-container"><a title="20 Best Coreopsis Varieties for Your Garden (With Pictures)" class="read-more button" href="https://ownyardlife.com/20-best-coreopsis-varieties-for-your-garden-with-pictures/#more-32458" aria-label="Read more about 20 Best Coreopsis Varieties for Your Garden (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-best-coreopsis-varieties-for-your-garden-with-pictures/">20 Best Coreopsis Varieties for Your Garden (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-best-coreopsis-varieties-for-your-garden-with-pictures/>
+
+---
+
+## 13 Common Blue Birds in Connecticut (With Pictures)
+
+date: 2025-07-25, from: Yard Life blog
+
+<p>Connecticut is home to a stunning variety of blue bird species that brighten its forests, fields, and waterways throughout the ... </p>
+<p class="read-more-container"><a title="13 Common Blue Birds in Connecticut (With Pictures)" class="read-more button" href="https://ownyardlife.com/13-common-blue-birds-in-connecticut-with-pictures/#more-32451" aria-label="Read more about 13 Common Blue Birds in Connecticut (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-common-blue-birds-in-connecticut-with-pictures/">13 Common Blue Birds in Connecticut (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-common-blue-birds-in-connecticut-with-pictures/>
+
+---
+
+## 15 Most Beautiful Yellow Hibiscus Varieties (With Pictures)
+
+date: 2025-07-25, from: Yard Life blog
+
+<p>If you’re like me, someone who’s spent years tending tropical gardens, you know that yellow hibiscus varieties bring a special ... </p>
+<p class="read-more-container"><a title="15 Most Beautiful Yellow Hibiscus Varieties (With Pictures)" class="read-more button" href="https://ownyardlife.com/15-most-beautiful-yellow-hibiscus-varieties-with-pictures/#more-32426" aria-label="Read more about 15 Most Beautiful Yellow Hibiscus Varieties (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-most-beautiful-yellow-hibiscus-varieties-with-pictures/">15 Most Beautiful Yellow Hibiscus Varieties (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-most-beautiful-yellow-hibiscus-varieties-with-pictures/>
+
+---
+
+## What Plants Like Coffee Grounds? 10 Plants You Should Try
+
+date: 2025-07-25, from: Yard Life blog
+
+<p>Coffee grounds are more than just a kitchen waste product; they are a rich source of nutrients that can significantly ... </p>
+<p class="read-more-container"><a title="What Plants Like Coffee Grounds? 10 Plants You Should Try" class="read-more button" href="https://ownyardlife.com/what-plants-like-coffee-grounds-10-plants-you-should-try/#more-32421" aria-label="Read more about What Plants Like Coffee Grounds? 10 Plants You Should Try">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-plants-like-coffee-grounds-10-plants-you-should-try/">What Plants Like Coffee Grounds? 10 Plants You Should Try</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-plants-like-coffee-grounds-10-plants-you-should-try/>
+
+---
+
+## 37 Stunning Yellow Peonies (With Pictures and Identification)
+
+date: 2025-07-25, from: Yard Life blog
+
+<p>Yellow peonies are prized for being both stunning and one of the rarest types to grow. Their bright, cheerful blooms ... </p>
+<p class="read-more-container"><a title="37 Stunning Yellow Peonies (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/37-stunning-yellow-peonies-with-pictures-and-identification/#more-32370" aria-label="Read more about 37 Stunning Yellow Peonies (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/37-stunning-yellow-peonies-with-pictures-and-identification/">37 Stunning Yellow Peonies (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/37-stunning-yellow-peonies-with-pictures-and-identification/>
+
+---
+
+## From the Archive: Iconoclasts Who Reimagined the American Home
+
+date: 2025-07-24, from: Dwell
+
+In the early aughts, we explored how across the country, people shunned the colonial and Mediterranean fantasias offered by developers and invented their own avant-garde. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-iconoclasts-who-reimagined-the-american-home-82f4e5f9>
 
 ---
 
@@ -41,7 +140,7 @@ date: 2025-07-24, from: Family Handyman Blog
 
 date: 2025-07-24, from: Dwell
 
-A new ad in New York City stoking fears around Zohran Mamdani asks subway riders if they are "ready to flee NYC" for Ohio. The scheme is part of a long history of incentivizing wealthy individuals to relocate. 
+A new ad stoking fears around Zohran Mamdani that asks New Yorkers if they’re "ready to flee" for Ohio is part of a long history of incentivizing the wealthy to relocate. 
 
 <br> 
 
@@ -751,6 +850,30 @@ date: 2025-07-21, from: Homestead and Chil
 <br> 
 
 <https://homesteadandchill.com/simple-roasted-tomato-sauce-recipe/>
+
+---
+
+## 11 Recipes That Star Watermelon, the Unofficial Fruit of Summer
+
+date: 2025-07-21, from: Sunset Magazine - Living in the West
+
+Sure, you can enjoy a slice of watermelon as-is, but why not add it into dishes and cocktails? These watermelon recipes are so refreshing. 
+
+<br> 
+
+<https://www.sunset.com/11-recipes-that-star-watermelon-the-unofficial-fruit-of-summer>
+
+---
+
+## Traveling? Here’s How to Eat Healthy without Getting Major FOMO
+
+date: 2025-07-21, from: Sunset Magazine - Living in the West
+
+The best trips revolve around eating and drinking. A nutritionist shares her tips on how to eat healthy while traveling. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-eat-healthy-while-traveling>
 
 ---
 

@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-07-24 14:07:35
+updated: 2025-07-25 06:07:40
 ---
 
 # science and technology
 
-(date: 2025-07-24 14:07:35)
+(date: 2025-07-25 06:07:40)
+
+---
+
+## Caught a vibe that this coding trend might cause problems
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>No, it will not turn you into a 10X programmer. In fact, it won&#39;t even transform you into a noob developer</h4> <p><strong>Opinion</strong>  Everyone loves the idea of magic. All you have to do is wave your hands, say a few words, and something new is born to the world. That works for Harry Potter, but it won&#39;t work for you. Vibe coding, the notion that you can build programs by telling an AI what you want the software to do, is pure fantasy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/opinion_column_vibe_coding/>
+
+---
+
+## ServiceNow eyes $100M in AI-powered headcount savings
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>CFO claims money being reinvested in sales and engineering staff</h4> <p>ServiceNow claims it is on course to realize $100 million in savings on its global headcount this year due to the internal implementation of AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/servicenow_100m_ai_savings/>
+
+---
+
+## Hubble Spies Swirling Spiral
+
+date: 2025-07-25, from: NASA breaking news
+
+The swirling spiral galaxy in this NASA/ESA Hubble Space Telescope image is NGC 3285B, which resides 137 million light-years away in the constellation Hydra (the Water Snake). 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-swirling-spiral/>
+
+---
+
+## Intel abandons chip plants in Germany and Poland, confirms more layoffs
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>CEO Lip-Bu Tan says strategy shift will focus on customer needs, efficiency, and cutting costs</h4> <p>Ailing chip giant Intel is ditching its manufacturing sites in Germany and Poland and signaling further job cuts ahead as its new leader tries to stem the losses and turn the Silicon Valley pioneer&#39;s fortunes around.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/intel_european_retreat/>
+
+---
+
+## Advisor to Brit tech contractors Qdos confirms client data leak
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Policy management not affected, but some personal data may have been snaffled</h4> <p>Business insurance and employment status specialist Qdos has confirmed that an intruder has stolen some customers personal data, according to a communication to tech contractors that was seen by <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/ir35_advisor_qdos_confirms_data_breach/>
+
+---
+
+## Microsoft walks us through Copilot Search with a domain it doesn't even own
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Mock-ups feature m365.com, which could be yours for a few bucks</h4> <p>Microsoft this week trumpeted the launch of Microsoft 365 Copilot Search with lofty promises and slick mock-ups, but the domain plastered all over them didn&#39;t belong to the corporation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/copilot_search_m365_snafu/>
+
+---
+
+## Problem PC had graybeards stumped until trainee rummaged through trash
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Evidence of copious sugar hits hinted at unauthorized usage</h4> <p><strong>On Call</strong>  By Friday, many readers will feel they need a sugar hit to get through the day, which is why <i>The Register</i> tries to offer a jolt of amusement in the form of a new installment of On Call, the reader-contributed column in which we share your tech support tales.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/on_call/>
+
+---
+
+## DNS security is important but DNSSEC may be a failed experiment
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Nobody thinks of running a website without HTTPs. Safer DNS still seems optional</h4> <p><strong>Systems Approach</strong>  Last week I turned on DNSSEC (Domain Name System Security Extensions) for the <a href="http://systemsapproach.org">systemsapproach.org</a> domain. No need to applaud; I was just trying to get an understanding of what the barriers to adoption might be while teaching myself about the technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/systems_approach_column_dns_security/>
+
+---
+
+## You DO see Windows 11 as an AI PC opportunity, say Dell and Intel
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Time to &#39;reimagine&#39; it as a gateway, a gateway to inner peace, er, sales</h4> <p>With three months to go until Microsoft ends support for Windows 10, Dell and Intel want to convince corporate buyers that upgrading their PC fleet is a virtue and not a necessity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/ai_propostion_windows_11_pc_vendors/>
+
+---
+
+## Microsoft CEO feels weighed down by job cuts
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Satya Nadella lays out revised mission for Redmond. Spoiler: It involves AI</h4> <p>Microsoft CEO Satya Nadella on Thursday told employees in a memo that the company&#39;s recent layoffs have been &#34;weighing heavily on me.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/microsoft_ceo_job_cuts/>
+
+---
+
+## A billion dollars' worth of Nvidia chips fell off a truck and found their way to China, report says
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>Psst, wanna buy some innovation?</h4> <p>An estimated $1 billion worth of smuggled high-end Nvidia AI processors have reportedly found their way onto the Chinese black market, despite the US government&#39;s strict restrictions on exports of the tech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/nvidia_chips_china_whoops/>
+
+---
+
+## You can now run graphical applications in Android’s Linux Terminal
+
+date: 2025-07-24, from: OS News
+
+The Linux Terminal app that Google introduced earlier this year is one of the most exciting new features in Android, not for what it currently does but for what it can potentially do. The Terminal app lets you boot up an instance of Debian in a virtual machine, allowing you to run full-fledged Linux apps that aren’t available on Android. Unfortunately, the current version of the Terminal app is limited to running command line programs, but that’s set to change in the near future. In the new Android Canary build that Google released today, the Terminal app now lets you run graphical Linux apps. ↫ Mishaal Rahman at Android Authority It comes with Weston, the reference implementation of a Wayland compositor, allowing you to run a basic graphical environment and accompanying applications. It won&#8217;t be long before you can take your Pixel, connect a display, and run KDE. Neat, but so many devils are in so many details here, and there&#8217;s so many places where this can fall apart entirely if the wrong decisions are made. 
+
+<br> 
+
+<https://www.osnews.com/story/142893/you-can-now-run-graphical-applications-in-androids-linux-terminal/>
+
+---
+
+## Laptop farmer behind $17M North Korean IT worker scam locked up for 8.5 years
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>Plus she has to cough up a slice of Pyongyang’s payday</h4> <p>An Arizona woman who ran a laptop farm from her home - helping North Korean IT operatives pose as US-based remote workers - has been sentenced to eight and a half years behind bars for her role in a $17 million fraud that hit more than 300 American companies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/laptop_farmer_north_korean_it_scam_sentenced/>
+
+---
+
+## Trump promises he won't put his boot on Musk's neck
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>We&#39;re all businesspeople here, right?</h4> <p>Elon Musk could use a win after Tesla&#39;s weak second-quarter earnings, and he sort of got it when President Donald Trump proclaimed he wasn&#39;t going to use the power of the presidency to destroy his businesses. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/trump_musk_business/>
+
+---
+
+## Euro healthcare giant AMEOS Group shuts down IT systems after mystery attack
+
+date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+
+<h4>Good luck getting an appointment with your doctor</h4> <p>The AMEOS Group, which runs over 100 hospitals across Europe, has shut down its entire network after crims busted in.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/24/ameos_group_attack/>
 
 ---
 
@@ -311,7 +491,7 @@ date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
 
 ## EU cloud gang challenges Broadcom's $61B VMWare buy in court
 
-date: 2025-07-24, updated: 2025-07-24, from: The Register (UK I.T. News)
+date: 2025-07-24, updated: 2025-07-25, from: The Register (UK I.T. News)
 
 <h4>CISPE cites recent channel changes, but the deal was decided on different matters</h4> <p><strong>COMMENT</strong>  Trade group Cloud Infrastructure Services Providers in Europe (CISPE) has filed a formal appeal before the European General Court to seek annulment of the European Commission&#39;s decision to approve Broadcom’s acquisition of VMware.…</p> 
 

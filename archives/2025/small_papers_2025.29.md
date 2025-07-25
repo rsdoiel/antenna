@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-07-24 14:07:41
+updated: 2025-07-25 06:07:46
 ---
 
 # small papers
 
-(date: 2025-07-24 14:07:41)
+(date: 2025-07-25 06:07:46)
+
+---
+
+## Long Beach to test first event with sanctioned public drinking next month
+
+date: 2025-07-24, from: Long Beach Post
+
+<figure><img width="1024" height="543" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-1024x543.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-768x407.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153232/img-3-314257-lutp0b0g-314324-Zvfm9set.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Bar-goers will be allowed to stroll with a drink in their hand down one block of The Promenade in downtown Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/public-drinking-long-beach-entertainment-zone">Long Beach to test first event with sanctioned public drinking next month</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/public-drinking-long-beach-entertainment-zone>
+
+---
+
+## Court blocks ammunition background checks in new blow to California’s gun control framework
+
+date: 2025-07-24, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24152934/071222-gunfile-lv-012-969702-od9jhhoj-857783-w1CLVn6l.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>California voters in 2016 passed a ballot initiative championed by Gov. Gavin Newsom that in part required background checks for ammunition purchases. The 9th Circuit Court of Appeals found that provision violates the 2nd Amendment.</p>
+<p>The post <a href="https://lbpost.com/news/court-blocks-ammunition-background-checks-in-new-blow-to-californias-gun-control-framework">Court blocks ammunition background checks in new blow to California’s gun control framework</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/court-blocks-ammunition-background-checks-in-new-blow-to-californias-gun-control-framework>
+
+---
+
+## Electric bus battery catches fire in Long Beach Transit yard; official says it was an anomaly
+
+date: 2025-07-24, from: Long Beach Post
+
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-1536x828.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-2048x1104.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-1200x647.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-1568x845.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/18071949/nw-electric-bus-6477-rgb-780810-g4f5e20a-266684-OmTFo4y4-400x216.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Firefighters doused the battery in a dumpster full of water to make sure it didn’t further ignite.</p>
+<p>The post <a href="https://lbpost.com/news/electric-bus-battery-catches-fire-in-long-beach-transit-yard-officials-say-it-was-an-anomaly">Electric bus battery catches fire in Long Beach Transit yard; official says it was an anomaly</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/electric-bus-battery-catches-fire-in-long-beach-transit-yard-officials-say-it-was-an-anomaly>
 
 ---
 
@@ -13,7 +58,7 @@ updated: 2025-07-24 14:07:41
 
 date: 2025-07-24, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24115207/rex-budget-proposal-142317-9nve77kp-253832-eYKqkdQm.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Uncertain about whether it will receive federal grants and fearing a consumer spending slowdown, the city is also moving toward leaner spending.</p>
 <p>The post <a href="https://lbpost.com/news/immigrant-aid-package-tariff-relief-budget-mayor">Long Beach mayor unveils immigrant aid package, tariff relief fund in proposed budget</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +73,7 @@ date: 2025-07-24, from: Long Beach Post
 
 date: 2025-07-24, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the tragedy occurred in the carport area of an apartment complex.</p>
 <p>The post <a href="https://lbpost.com/news/crime/1-year-old-accidentally-killed-by-mother-parking-car-long-beach-police-say">1-year-old accidentally killed by mother moving her car, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

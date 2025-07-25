@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-07-24 14:07:37
+updated: 2025-07-25 06:07:42
 ---
 
 # games
 
-(date: 2025-07-24 14:07:37)
+(date: 2025-07-25 06:07:42)
+
+---
+
+## The Spiritfarer team&#8217;s next game is all about messed-up families and super cool swords
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Nicolas Guérin of Thunder Lotus, best known for 2020’s Spiritfarer, likes viewing things differently. “Maybe it&#8217;s my contrarian nature, but Spiritfarer was meant to be kind of a counterpoint to what death is usually perceived as, which is gloomy, dark, terrible,” he told Polygon recently over video call. “But there is a silver lining. There [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/615990/at-fates-end-preview-thunder-lotus-games-interview>
+
+---
+
+## All your questions about the Fantastic Four’s cosmic baby Franklin Richards, answered
+
+date: 2025-07-25, updated: 2025-07-24, from: Polygon Website
+
+In the opening scene of Marvel Studios’ Fantastic Four: First Steps, Sue Storm (Vanessa Kirby) discovers that she’s pregnant and breaks the news to her husband and fellow superhero team member Reed Richards (Pedro Pascal). Reed freaks out about normal parent stuff, like babyproofing their retro-futuristic home/headquarters, the Baxter Building. But he’s also worried about [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/615574/franklin-richards-fantastic-four-first-steps-galactus>
+
+---
+
+## Groove Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+The Groove Layer is the thirteeneth layer and it’s where you’ll restore the groove to Donkey Kong Bananza As you’re bringing music back to the disco hall, you’ll find that a lot of Banandium Gems are very well hidden. You’ll need to utilize the Swap Harp to change rubber to gold and vice versa to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615882/groove-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Radiance Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+In Donkey Kong Bananza, you’ll hit the Radiance Layer as your 12th zone. It’s another big area filled with Banandium Gems. Some of the sublayers only have a few bananas, so don’t fret too much when you see that this place has a whopping five sublayers. The Radiance Layer is home to snake people and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615616/radiance-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Fantastic Four’s credits scenes fuel a raging Avengers: Doomsday rumor fire
+
+date: 2025-07-24, updated: 2025-07-24, from: Polygon Website
+
+The mid-credit and post-credit scenes in The Fantastic Four: First Steps go where you think they’ll go… at least, until you stop to think, What does this really mean? In spite of dangling plot threads scattered across 17 years of post-credit scene teasers, Marvel has yet to slow down its efforts in dangling a sequel [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/615924/fantastic-four-post-credits-doomsday-avengers-doctor-doom>
 
 ---
 

@@ -1,11 +1,383 @@
 ---
 title: planet
-updated: 2025-07-24 14:07:31
+updated: 2025-07-25 06:07:38
 ---
 
 # planet
 
-(date: 2025-07-24 14:07:31)
+(date: 2025-07-25 06:07:38)
+
+---
+
+## Countries to be allowed drop aid into Gaza - Israeli army
+
+date: 2025-07-25, from: RTÉ News
+
+Israel will allow foreign countries to parachute aid into Gaza from today, Israeli army radio has said, quoting a military official. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0725/1525366-israel-gaza/>
+
+---
+
+## Committee urges Govt to include services in OTB
+
+date: 2025-07-25, from: RTÉ News
+
+A cross-party Oireachtas foreign affairs committee report on the Occupied Territories Bill "strongly recommends" services as well as goods should be included in any Government legislation. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525356-committee-urges-govt-to-include-services-in-otb/>
+
+---
+
+## Flatley to make bid for Irish presidency, court told
+
+date: 2025-07-25, from: RTÉ News
+
+Riverdance star Michael Flatley is to seek a nomination to become Ireland's next president, a court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525361-flatley-presidency/>
+
+---
+
+## Finland sees longest period of temperatures above 30C
+
+date: 2025-07-25, from: RTÉ News
+
+Finland has broken an over 50-year-old weather record as the country is witnessing the longest period of temperatures above 30C, the Finnish Meteorological Institute has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525359-finland-breaks-50-year-old-heat-record/>
+
+---
+
+## Amazon drops €300m investment on energy supply concerns
+
+date: 2025-07-25, from: RTÉ News
+
+Online retail giant Amazon decided not to go ahead with a €300m investment which would employ more than 500 in Dublin because it did not receive the necessary guarantees about power supplies the plant would require. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0725/1525346-amazon-drops-500m-irish-investment/>
+
+---
+
+## Wave of settler violence targets Palestinian Christian village
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>Ihab Hassan, a Palestinian Christian activist, speaks to Vatican News about the recent settler violence reported by residents of the village of Taybeh.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/ihab-hassan-taybeh-christian-village-settler-violence.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/ihab-hassan-taybeh-christian-village-settler-violence.html>
+
+---
+
+## Watch: Trump and Powell spar over Fed renovation costs
+
+date: 2025-07-25, from: RTÉ News
+
+US President Donald Trump and Federal Reserve Chairman Jerome Powell sparred face to face over the cost of renovations of the central bank's Washington headquarters, with the Fed leader saying the president was wrong about the cost of the overhaul. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525333-trump-powell/>
+
+---
+
+## UK teen Jay Slater died by accident after fall - coroner
+
+date: 2025-07-25, from: RTÉ News
+
+English teenager Jay Slater who went missing in Tenerife last summer sparking a huge search, died by accident after falling from a height, a coroner at his inquest has concluded. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0725/1525328-jay-slater-inquest/>
+
+---
+
+## Samaritans 'planning to close more than 100 branches'
+
+date: 2025-07-25, from: RTÉ News
+
+Suicide prevention charity Samaritans is planning to close more than 100 branches across Ireland and the UK, it has been reported. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0725/1525322-samaritans-branches/>
+
+---
+
+## Martin hopes EU-US trade deal can be signed over weekend
+
+date: 2025-07-25, from: RTÉ News
+
+Taoiseach Micheál Martin has said he hopes a framework trade agreement between the European Union and the United States can be "signed off before the weekend is over". 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0725/1525326-eu-martin/>
+
+---
+
+## Pope Leo XIV: Friendship with Christ is the key to Christian happiness
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>Cultivating friendship with Christ and experiencing the Master's closeness and love is vital to happiness for priests and lay faithful alike, reminds Pope Leo XIV when welcoming formators and Xaverian Missionaries in the Vatican on Friday.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-course-seminary-formators-xaverian-missionaries.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-course-seminary-formators-xaverian-missionaries.html>
+
+---
+
+## Pope: Migrants are “witnesses of hope” in a devastated world  
+
+date: 2025-07-25, from: Vatican News
+
+
+                    <p>In his Message for the 111th World Day of Migrants and Refugees, Pope Leo XIV emphasizes the important witness that migrants and refugees offer in a world affected by conflict and inequality in hoping and searching for a better and more peaceful future. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-message-world-day-of-migrants-and-refugees.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-message-world-day-of-migrants-and-refugees.html>
+
+---
+
+## Doctor accuses IDF of 'playing a game' in Gaza shootings
+
+date: 2025-07-25, from: RTÉ News
+
+A surgeon who has worked in Gaza has accused Israeli soldiers of "playing a game" when shooting people in Gaza, saying the pattern of gunshot injuries sustained was "almost like the Israeli soldiers were having target practice". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525307-gaza-doctor/>
+
+---
+
+## Iran and Europe begin fresh nuclear talks in Turkey
+
+date: 2025-07-25, from: RTÉ News
+
+Iran has pushed back on suggestions of extending a UN resolution that ratifies a 2015 nuclear deal as it began the first face-to-face talks with Western powers since Israel and the US bombed it last month. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0725/1525304-iran-europe-talks/>
+
+---
+
+## Kremlin says Putin, Zelensky can only meet as final step
+
+date: 2025-07-25, from: RTÉ News
+
+The Kremlin has said that a summit between Russian President Vladimir Putin and Ukrainian President Volodymyr Zelensky could only happen as a final step to seal a peace deal. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0725/1525296-ukraine-russia/>
+
+---
+
+## Three killed in Fermanagh 'always by each other's side'
+
+date: 2025-07-25, from: RTÉ News
+
+A mother and her two children who were murdered in their Co Fermanagh home have been remembered as a "trio that was always by each other's side". 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0725/1525295-vigil-family-fermanagh/>
+
+---
+
+## Countries who refuse US beef are 'on notice', says Trump
+
+date: 2025-07-25, from: RTÉ News
+
+US President Donald Trump has said countries who refuse American beef are "on notice", after Australia announced that it would be relaxing import restrictions on the product. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0725/1525286-countries-who-refuse-us-beef-are-on-notice-says-trump/>
+
+---
+
+## No evidence of massive Hamas theft of Gaza aid - USAID
+
+date: 2025-07-25, from: RTÉ News
+
+An internal US government analysis found no evidence of systematic theft by the Palestinian militant group Hamas of US-funded humanitarian supplies, challenging the main rationale that Israel and the US give for backing a new armed private aid operation. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0725/1525272-usaid-gaza-aid/>
+
+---
+
+## H1 mortgage drawdown values hit highest level since 2008
+
+date: 2025-07-25, from: RTÉ News
+
+Mortgage drawdown values reached almost €6.2 billion in the first half of 2025 - the highest half year values since 2008 - new figures from Banking and Payments Federation Ireland show. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0725/1525280-banking-and-payments-federation-ireland-h1-figures/>
+
+---
+
+## Flogas to hike variable electricity charges from August
+
+date: 2025-07-25, from: RTÉ News
+
+Energy provider Flogas is to increase its variable electricity charges by around 7%, with effect from 25 August. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0725/1525277-flogas-to-hike-variable-electricity-charges/>
+
+---
+
+## 'Sam for the hills' - Donegal ready for football final
+
+date: 2025-07-25, from: RTÉ News
+
+Donegal might be the one most expansive counties on the island - the fourth largest based on total land area - but it has a close-knit GAA community. With one eye on the All-Ireland football final on Sunday, there is a magic in 'the hills' this week and everybody wants to be part of it. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0725/1525266-donegal-fans-in-high-spirits-ahead-of-all-ireland-final/>
+
+---
+
+## Meals on Wheels providers struggling to meet demand
+
+date: 2025-07-25, from: RTÉ News
+
+The country's Meals on Wheels services are reporting that some of its 300 providers are struggling to meet growing demand with fewer volunteers. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0725/1525197-monaghan-meals-on-wheels/>
+
+---
+
+## No move on Triple Lock from cross-party committee
+
+date: 2025-07-25, from: RTÉ News
+
+A cross-party Oireachtas committee examining the Triple Lock which governs the deployment of defence forces personnel overseas has made no recommendation on whether the existing system should be removed or retained. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0725/1525248-oireachtas-triple-lock/>
+
+---
+
+## Israel, US reject French bid to recognise Palestine state
+
+date: 2025-07-25, from: RTÉ News
+
+France intends to recognise a Palestinian state in September at the United Nations General Assembly, President Emmanuel Macron said in hopes of bringing peace to the region, but the plan has drawn angry reactions from Israel and the United States. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0725/1525268-france-palestine/>
+
+---
+
+## As Haiti turns to lethal drones to fight gangs, Canada is among those who are uneasy
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7591712.1753319203!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/a-man-yells-while-protesting-against-gang-related-violence-in-port-au-prince.JPG' alt='A man yells toward a patrol car during a protest against gang-related violence in Port-au-Prince, Haiti.' width='620' height='349' title='A man holds up placards as he yells toward a patrol car during a protest against gang-related violence and to demand the resignation of Haiti&apos;s transitional presidential council, in Port-au-Prince, Haiti, May 15, 2025.'/><p>Haiti's battle against criminal gangs has leaned into the lethal use of drones this year, prompting questions about the legality of the tactic.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/haiti-drones-gangs-canada-1.7591660?cmp=rss>
+
+---
+
+## 'Could develop into war' - Thai PM on Cambodia clashes
+
+date: 2025-07-25, from: RTÉ News
+
+Thailand and Cambodia exchanged heavy artillery fire as their worst fighting in more than a decade stretched for a second day, despite calls from the region and beyond for an immediate ceasefire in an escalating border conflict that has killed at least 16 people. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0725/1525267-thailand-cambodia-conflict/>
+
+---
+
+## Elon Musk's Starlink network suffers rare global outage
+
+date: 2025-07-25, from: RTÉ News
+
+SpaceX's Starlink suffered one of its biggest international outages when an internal software failure knocked tens of thousands of users offline, a rare disruption for Elon Musk's powerful satellite internet system. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0725/1525262-musk-starelink-outage/>
+
+---
+
+## Trump expected to meet Starmer during Scottish visit
+
+date: 2025-07-24, from: RTÉ News
+
+US President Donald Trump will travel to Scotland today for a five-day trip that will see him visit two of his golf resorts. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0725/1525249-trump-scotland/>
+
+---
+
+## $8B Paramount-Skydance merger cleared by regulators after Trump dust-up with CBS network
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7256926.1753408575!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/paramount-skydance-no-deal.jpg' alt='A large, cream-coloured gate is surrounded by palm trees.' width='620' height='349' title='The main gate to Paramount Studios is seen on Melrose Avenue, July 8, 2015, in Los Angeles. Entertainment giant Paramount will merge with production company Skydance, closing out a decades long run by the Redstone family in Hollywood and injecting desperately needed cash into a legacy studio that has struggled to adapt to a shifting entertainment landscape. '/><p>The stamp of approval from the Federal Communications Commission comes after months of turmoil revolving around U.S. President Donald Trump's legal battle with 60 Minutes, the crown jewel of Paramount-owned broadcast network CBS.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/paramount-skydance-cbs-merger-approved-1.7593735?cmp=rss>
+
+---
+
+## 'A despicable disgrace': Geldof condemns Israel over Gaza hunger
+
+date: 2025-07-24, from: RTÉ News
+
+Bob Geldof has criticised the Israeli government's role in the Gaza crisis, calling it "a despicable disgrace" amid growing warnings of famine and restricted humanitarian access 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0724/1525255-a-despicable-disgrace-geldof-condemns-israel-over-gaza-hunger/>
 
 ---
 
@@ -78,6 +450,18 @@ Parents of children with severe peanut allergies are calling on the HSE to make 
 <br> 
 
 <https://www.rte.ie/news/health/2025/0724/1525235-allergy-treatment/>
+
+---
+
+## Inuit leader says he's been reassured Bill C-5 won't violate modern treaties
+
+date: 2025-07-24, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7592971.1753370815!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250724.JPG' alt='Three men walk along a gravel path.' width='620' height='349' title='Prime Minister Mark Carney walks with Duane Smith, left, Chair and CEO of the Inuvialuit Regional Corporation, and Natan Obed, right, President of the Inuit Tapiriit Kanatami, to a meeting of the Inuit-Crown Partnership Committee, in Inuvik, N.W.T., on Thursday, July 24, 2025.'/><p>The president of the group representing Inuit in Canada says he's been given reassurances that Prime Minister Mark Carney's plan to fast-track major nation-building projects won't violate modern treaties and there will be "full partnership of the Inuit within these processes."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/carney-inuit-leaders-inuvik-1.7592211?cmp=rss>
 
 ---
 
@@ -158,6 +542,18 @@ date: 2025-07-24, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/france-macron-palestine-state-recognition-1.7593315?cmp=rss>
+
+---
+
+## Israel, U.S. pull out of Gaza ceasefire talks as Macron says France will recognize a Palestinian state
+
+date: 2025-07-24, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7593317.1753386222!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/french-president-emmanuel-macron-speaking-to-media-in-berlin.jpg' alt='French President Emmanuel Macron talks to media in Berlin, Germany. ' width='620' height='349' title='French President Emmanuel Macron talks to media prior to talks with German Chancellor Friedrich Merz at Villa Borsig on July 23, 2025 in Berlin, Germany. The two leaders are meeting as Germany, France and the United Kingdom forge a stronger European alliance following U.S. President Donald Trump&apos;s disruption of transatlantic ties. '/><p>French President Emmanuel Macron said Thursday that his country will soon recognize a Palestinian state, a decision that Israel condemned. The news came as talks seeking a ceasefire in Gaza were halted when the U.S. and Israel recalled their delegations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/france-macron-palestine-israel-hamas-ceasefire-talks-1.7593315?cmp=rss>
 
 ---
 
@@ -386,7 +782,7 @@ Nations are pursuing underwater exploration for highly sought-after rare earth m
 
 ## UN forum affirms stronger commitment to achieve sustainable development
 
-date: 2025-07-24, from: United Nations, Top Stories
+date: 2025-07-24, from: United Nations, UN Affairs
 
 The High-Level Political Forum on Sustainable Development (HLPF) has concluded at United Nations Headquarters in New York following a week-and-a-half of substantive discussion between Member States, civil society representatives and UN agencies.&nbsp;&nbsp;&nbsp; 
 
@@ -441,6 +837,30 @@ Afghans returning to their country face “serious violations” of their human 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165484>
+
+---
+
+## Two ex-militia leaders in Central African Republic sentenced for war crimes, crimes against humanity
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+Two former leaders of the predominantly Christian Anti-Balaka militia in the Central African Republic have been convicted of multiple war crimes and crimes against humanity by the International Criminal Court (ICC). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165491>
+
+---
+
+## World News in Brief: Thailand-Cambodia border hostilities, humanitarian efforts in Syria and attacks across Ukraine
+
+date: 2025-07-24, from: United Nations, Top Stories
+
+In a dramatic escalation of a long-standing border dispute, a deadly exchange of fire between Thailand and Cambodia killed at least 11 civilians and a soldier on Thursday, according to news reports. Both states are claiming the other side fired first. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165490>
 
 ---
 
@@ -796,11 +1216,11 @@ date: 2025-07-24, from: CBC, Indigenious News
 
 ---
 
-## Trump was told he is in Epstein files, WSJ reports
+## Epstein accomplice Maxwell meets US justice dept official
 
 date: 2025-07-24, from: RTÉ News
 
-US Attorney General Pam Bondi told President Donald Trump in May that his name appeared in investigative files related to convicted sex offender Jeffrey Epstein, the Wall Street Journal has reported. 
+Ghislaine Maxwell, the imprisoned accomplice of sex offender Jeffrey Epstein, answered "every single question" she was asked during an interview with a top US justice department official, her lawyer has said. 
 
 <br> 
 
@@ -877,18 +1297,6 @@ date: 2025-07-24, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/politics/climate-change-military-analysis-1.7592647?cmp=rss>
-
----
-
-## Inuit leader says he's been reassured Bill C-5 won't violate modern treaties
-
-date: 2025-07-24, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7592971.1753370815!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250724.JPG' alt='Three men walk along a gravel path.' width='620' height='349' title='Prime Minister Mark Carney walks with Duane Smith, left, Chair and CEO of the Inuvialuit Regional Corporation, and Natan Obed, right, President of the Inuit Tapiriit Kanatami, to a meeting of the Inuit-Crown Partnership Committee, in Inuvik, N.W.T., on Thursday, July 24, 2025.'/><p>The president of the national Inuit organization says he's been given reassurances that Prime Minister Mark Carney's plan to fast-track major nation-building projects won't violate modern treaties and there will be "full partnership of the Inuit within these processes."</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/carney-inuit-leaders-inuvik-1.7592211?cmp=rss>
 
 ---
 
@@ -2274,7 +2682,7 @@ As the humanitarian crisis deepens in Sudan, the UN and partners have revised an
 
 ## UN laments US withdrawal from its educational and cultural agency
 
-date: 2025-07-22, from: United Nations, Top Stories
+date: 2025-07-22, from: United Nations, UN Affairs
 
 The United States announced on Tuesday that it will leave the UN Educational, Scientific and Cultural Organization (UNESCO), which will take effect at the end of December 2026.&nbsp; 
 
@@ -2878,6 +3286,18 @@ A 19-year-old man has died following a two-vehicle crash in Co Cork this morning
 <br> 
 
 <https://www.rte.ie/news/munster/2025/0721/1524579-fatal-rta-cork/>
+
+---
+
+## Conversazione telefonica con Buzz Aldrin e visita alla Specola Vaticana – Papa Leone XIV commemora lo sbarco sulla Luna
+
+date: 2025-07-21, from: Vatican Obervatory
+
+Cinquantasei anni dopo l&#38;#39;allunaggio dell&#38;#39;Apollo 11, in memoria di quel giorno storico, che venne seguito con attenzione da Paolo VI, alle 22.15... 
+
+<br> 
+
+<https://www.osservatoreromano.va/it/news/2025-07/quo-167/leone-xiv-commemora-lo-sbarco-sulla-luna.html>
 
 ---
 

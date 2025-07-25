@@ -1,11 +1,37 @@
 ---
 title: food
-updated: 2025-07-24 14:07:40
+updated: 2025-07-25 06:07:46
 ---
 
 # food
 
-(date: 2025-07-24 14:07:40)
+(date: 2025-07-25 06:07:46)
+
+---
+
+## A Coffee Pro’s Travel Hacks for Great Coffee on the Go
+
+date: 2025-07-25, from: The Fresh Cup
+
+<p>For coffee lovers, travel can be a problem. It’s hard to get a good cup of coffee on most planes, trains, or in airports—but Rachel Apple has some tips. </p>
+<p>The post <a href="https://freshcup.com/a-coffee-pros-travel-hacks-for-great-coffee-on-the-go/">A Coffee Pro’s Travel Hacks for Great Coffee on the Go </a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/a-coffee-pros-travel-hacks-for-great-coffee-on-the-go/>
+
+---
+
+## Creamy Corn Pasta and More Recipes We Made This Week
+
+date: 2025-07-25, from: Bon Appetet
+
+Like zucchini risotto and double-tomato focaccia. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-july-2025>
 
 ---
 

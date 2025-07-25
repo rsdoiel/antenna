@@ -1,11 +1,95 @@
 ---
 title: health
-updated: 2025-07-24 14:07:39
+updated: 2025-07-25 06:07:45
 ---
 
 # health
 
-(date: 2025-07-24 14:07:39)
+(date: 2025-07-25 06:07:45)
+
+---
+
+## Emerging threats of H5N1 clade 2.3.4.4b: cross-species transmission, pathogenesis, and pandemic risk
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+H5N1 is a highly pathogenic avian influenza virus (HPAIV) with zoonotic potential, posing a significant risk to animal health, agriculture, and human public health. A particular strain, clade 2.3.4.4b, has spread globally and has been detected in various mammalian species—including cattle and a limited number of human cases—highlighting its potential to spark a pandemic. Investigating this specific clade represents a crucial step toward the development of effective preventive and therapeutic strategies. This mini-review aims to outline the etiology and pathophysiological mechanisms driving the current bird flu outbreak in cattle. A targeted literature search was conducted in PubMed for studies published between 2003 and 2025 using keywords such as “bird flu”, “cattle”, “mammals”, “H5N1”, and “pathogenesis”. This review explores the pathogenic mechanisms and clinical manifestations associated with HPAIV H5N1 infections in mammals specially in cattle. A key hypothesis is that the ongoing outbreak is fueled by molecular adaptations in the virus that enhance its ability to cross species barriers. As these mechanisms continue to be uncovered, there is a pressing need for high-quality research to inform pandemic preparedness, guide effective control strategies, and support the development of targeted vaccines and antiviral therapies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1625665>
+
+---
+
+## Anaerobic gut bacteria and their potential role in the initiation, exacerbation, and development of human colorectal cancer: a narrative review
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+Colorectal cancer (CRC) is known as the second leading cause of cancer-related deaths around the world. Rectal bleeding, changes in bowel movements, weight loss, and fatigue are the main clinical presentations of CRC. While the exact etiology of the disease is unknown, CRC is considered a complex and multifactorial disease resulted from an intricate interplay of genetic and environmental factors. Moreover, CRC is known as a chronic inflammation–associated tumor, and patients with inflammatory bowel disease (IBD) or Irritable bowel syndrome (IBS) are susceptible groups to CRC development. The gut microbiota and its metabolites play a crucial role in the development and progression of CRC. CRC can be created after anaerobic bacterial infections such as Enterotoxigenic Bacteroides fragilis (ETBF), Fusobacterium, Clostridium difficile, Clostridium perfringens, Clostridium septicum, Peptostreptococcus, Prevotella, Veillonella, etc. Activation of Wnt signaling, loss of tissue architecture, proinflammatory signaling, and genotoxic cellular DNA damage are the primary mechanisms by which anaerobic bacteria induce carcinogenesis in CRC. Besides, spore germination and toxin production are done in hypoxic and acidic conditions. Therefore, according to the presence of this condition (anaerobic glycolysis) in tumor tissue, the tumor environment is suitable for the formation of anaerobic infections. The current review‐based study aims to discuss the important aspects of these mechanisms and their possible roles in the initiation, development, and exacerbation of CRC. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1559001>
+
+---
+
+## Isolation and pathogenicity of the novel porcine reproductive and respiratory syndrome virus 1 strain ZJ01 in South China
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe emergence and widespread dissemination of novel Porcine Reproductive and Respiratory Syndrome Virus type 1 (PRRSV-1) strains in China pose significant challenges, leading to substantial clinical infections within swine populations. MethodsIn this study, we isolated a novel PRRSV-1 strain, designated ZJ01.ResultsWhole-genome sequencing revealed a genome length of 15,125 bp. Comprehensive phylogenetic analysis based on the complete genome sequence classified ZJ01 within a distinct new sublineage. Intriguingly, phylogenetic analysis of the ORF5 gene indicated that ZJ01 clusters with classical BJEU06-1-like strains. Molecular characterization identified unique deletions within the hypervariable regions of structural proteins: a three-amino acid deletion at positions 243-248 in GP3 and a four-amino acid deletion at positions 63-68 in GP4. Pathogenicity studies in piglets demonstrated that ZJ01 infection induces characteristic clinical signs, including pyrexia and sustained viral shedding. Post-mortem examination revealed significant lung pathology characterized by hemorrhages and lesions typical of PRRSV infection. Notably, while causing significant morbidity, the ZJ01 strain did not result in direct mortality in the infected piglets under the conditions of this study. DiscussionCollectively, this study provides a detailed characterization and pathogenic evaluation of the novel PRRSV-1 strain ZJ01, contributing essential information for the development of effective prevention and control strategies in swine farms. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1646425>
+
+---
+
+## Correction: Evaluation of a novel Aspergillus IgG lateral flow assay for the diagnosis of non-neutropenic patients with acute and subacute invasive aspergillosis
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1659574>
+
+---
+
+## Nanobodies in animal infectious disease control: diagnosis and therapy
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+Animal infectious diseases threaten livestock productivity, public health, and food security. Traditional monoclonal antibodies (mAbs) face limitations in diagnostics and therapy due to their large size, instability, and high cost. Nanobodies (Nbs), derived from camelid heavy-chain antibodies, offer superior properties—small size (~15 kDa), high stability, deep tissue penetration, and cost-effective production. Nbs feature extended CDR3 loops, enabling access to cryptic epitopes, and exhibit exceptional thermal/pH stability. They are generated by immunizing camelids, cloning VHH genes, and screening via phage/yeast display. High-throughput methods (ELISA, flow cytometry) allow rapid isolation of high-affinity Nbs. Compared to mAbs, Nbs are economically produced in prokaryotic systems and engineered into multivalent or Fc-fused formats for enhanced efficacy. In diagnostics, Nbs enable sensitive, low-cost detection of pathogens like PRRSV, ASFV, and avian influenza. Nb-based competitive ELISAs and lateral flow assays improve field surveillance. Therapeutically, Nbs neutralize pathogens by targeting viral proteins (e.g., blocking PRRSV-CD163 entry) or bacterial toxins (e.g., Staphylococcus enterotoxins). Nb-Fc fusions degrade ASFV proteins via TRIM-away, while intracellular Nbs disrupt Mycobacterium ESAT-6 or Toxoplasma actin dynamics. Challenges remain in Nb affinity optimization, intracellular delivery, and in vivo half-life. Solutions include fusion with cell-penetrating peptides or viral vectors (e.g., adenoviruses). Reducing cross-species immunogenicity and scaling production are critical for broader adoption. With advances in protein engineering, Nbs hold transformative potential for preventing, diagnosing, and treating animal diseases, offering scalable solutions for global health and food security. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1640352>
+
+---
+
+## Component characterization of Smilax glabra Roxb., and its inhibitory activity against Helicobacter pylori through targeted suppression of its secreted urease
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundSmilax glabra Roxb. (SGR), known as “tufuling” in China, is a medical and edible plant, which has anti-inflammatory, antibacterial and antineoplastic activity. SGR is extensively utilized in the remedy of gastroenteric disorders associated with H. pylori infection. However, the precise mechanism underlying the anti-H. pylori function of SGR remains to be elucidated.AimThe inhibitory impact of SGR on the growth of H. pylori was examined. Subsequently, SGR against H. pylori urease (HPU) and jack bean urease (JBU) was investigated to illuminate the inhibitory effects, kinetic types, sites of inhibition, and potential mechanisms of action.MethodsUPLC-ESI-MS/MS was applied to identify the components of SGR. The anti-H. pylori effect of SGR was conducted by agar dilution method. The enzyme inhibitory activities of SGR and its primary constituents were assessed through a modified spectrophotometric Berthelot (phenol-hypochlorite) assay. The kinetics of urease inhibition were analyzed using Lineweaver-Burk plots. To explore the underlying mechanisms, sulfhydryl group reagents and Ni2+ binding depressors were employed. Additionally, molecular docking simulations were conducted to examine the binding interactions between the main compounds of SGR and urease.ResultsA total of 34 compounds including astilbin, engeletin, isoengeletin, neoastilbin, isoastilbin and neoisoastilbin are identified in SGR. SGR was observed to inhibit the growth of three H. pylori strains (ATCC 43504, NCTC 26695, and ICDC 111001) with minimum inhibitory concentration (MIC) values spanning a range of 0.5 to 1.5 mg/mL. Moreover, SGR exerted a significant inhibitory effect on HPU and JBU, with IC50 values of 1.04 ± 0.01 mg/mL and 1.01 ± 0.01 mg/mL, separately. Enzyme kinetics analysis showed that SGR was a slow binding, non-competitive depressor to HPU, and a slow binding, mixed depressor to JBU. In-depth mechanism exploration showed that thiol compounds had better protective effect on HPU or JBU than inorganic substances, implying that the active site of SGR repressing urease may be the sulfhydryl group. Furthermore, glutathione reactivated SGR-inhibited urease, demonstrating that the inhibition was reversible. Additionally, astilbin and engeletin exhibited a certain inhibitory role towards urease activity, with astilbin inhibiting urease more than three times as strongly as engelitin. Enzyme kinetics analysis established that the inhibitory role of astilbin on enzymes was consistent with that of SGR. Molecular docking study indicated that astilbin and engeletin interacts with sulfhydryl groups at the active site of urease.ConclusionThese results indicated that SGR could prominently inhibit H. pylori growth through targeted suppression of its secreted urease. This investigation provides substantial experimental evidence supporting the consideration of SGR as a safe and promising natural treatment for H. pylori-associated gastrointestinal diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1617330>
+
+---
+
+## Insights into intestinal barrier disruption during long-term gut Chlamydia colonization in mice: a single-cell transcriptomic approach
+
+date: 2025-07-25, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionChlamydia trachomatis, a leading cause of sexually transmitted bacterial infections in women, is increasingly recognized for its potential to colonize the gastrointestinal tract as a long-term reservoir. However, the mechanisms enabling its persistence in the gut remain poorly understood, hindering the development of effective treatments for chronic infections.MethodsWe employed single-cell RNA sequencing (scRNA-seq) to analyze gene expression profiles and cellular heterogeneity in mouse colonic tissues during Chlamydia long-term colonization to characterize transcriptional changes and intercellular interactions critical for bacterial persistence.ResultsOur analysis revealed significant alterations in gene expression across intestinal cell populations, with distinct molecular pathways implicated in Chlamydia persistence. Key findings included downregulation of epithelial tight junction markers, suggesting compromised intestinal barrier integrity, which may facilitate bacterial invasion. Additionally, we observed dysregulation of goblet cell transcriptional networks and disrupted immune-epithelial cell communication, indicating potential mechanisms for bacterial survival.DiscussionThese findings highlight how Chlamydia may exploit host cell pathways to establish long-term colonization in the gut. The impairment of epithelial barrier function and altered cellular crosstalk provide novel insights into its persistence strategies. Understanding these mechanisms could inform future therapeutic approaches targeting chronic Chlamydia infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1614009>
 
 ---
 

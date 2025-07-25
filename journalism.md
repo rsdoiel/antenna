@@ -1,11 +1,47 @@
 ---
 title: journalism
-updated: 2025-07-24 14:07:38
+updated: 2025-07-25 06:07:43
 ---
 
 # journalism
 
-(date: 2025-07-24 14:07:38)
+(date: 2025-07-25 06:07:43)
+
+---
+
+## Film Preview: Summer movies that will heat up the box office in unforgettable ways
+
+date: 2025-07-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+This summer, as the sun blazes overhead, movies are heating up with stories worth escaping into.
+Whether viewers are chasing cool air-conditioned theaters or a late-night premiere under the stars, there is no shortage of cinematic thrills. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/24/film-preview-summer-movies-that-will-heat-up-the-box-office-in-unforgettable-ways/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-25, from: The Daily Bruin (UCLA Student Newspaper))
+
+Bernardo took the stand Thursday. He said he found Klein&#8217;s email to be &#8220;callous,&#8221; and not reflective of the UCLA Anderson School of Management&#8217;s values. He also listed the “tumult” caused by Klein’s original email, a desire to support students&#8217; interests and damage to the university&#8217;s reputation as motivations for placing Klein on academic leave. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/24/491290/>
+
+---
+
+## Non-ASUCLA restaurants to stop accepting meal swipes starting fall 2025
+
+date: 2025-07-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Meal swipes will no longer be accepted at non-ASUCLA-operated restaurants beginning fall 2025.&#160;
+UCLA Housing announced Thursday that meal swipes can no longer be used at any third-party vendor locations – such as Panda Express, Taco Bell, Subway and Veggie Grill, according to its website. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/24/non-asucla-restaurants-to-stop-accepting-meal-swipes-starting-fall-2025/>
 
 ---
 

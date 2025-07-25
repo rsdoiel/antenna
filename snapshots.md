@@ -1,11 +1,105 @@
 ---
 title: snapshots
-updated: 2025-07-24 14:07:42
+updated: 2025-07-25 06:07:47
 ---
 
 # snapshots
 
-(date: 2025-07-24 14:07:42)
+(date: 2025-07-25 06:07:47)
+
+---
+
+## Defusing the Depopulation Bomb
+
+date: 2025-07-25, from: Dave Karpf's blog
+
+Book Review: "After the Spike" by Dean Spears and Michael Geruso 
+
+<br> 
+
+<https://davekarpf.substack.com/p/defusing-the-depopulation-bomb>
+
+---
+
+## The Art of the Really Stupid Deal
+
+date: 2025-07-25, from: Paul Krugman
+
+What the heck were the Trumpists thinking? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-art-of-the-really-stupid-deal>
+
+---
+
+## Hydrographic humour
+
+date: 2025-07-25, from: Status-Q blog
+
+It&#8217;s good to have something to make you laugh at the start of your day.  Today, I was particularly taken by this article on a UK government website:   It wasn&#8217;t the headline that made me laugh, of course &#8211; that&#8217;s pretty serious.  No, what caught my attention (thanks to mhoye on Mastodon) was further <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/07/25/13224/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/07/25/13224/>
+
+---
+
+## Vision Pro’s Inconvenient Truth
+
+date: 2025-07-25, from: 500-ish blog, A collection of posts by M.G. Siegler of around 500 words in length.
+
+ 
+
+<br> 
+
+<https://500ish.com/vision-pros-inconvenient-truth-06b16f3f0a2a?source=rss----662a29c3b19e---4>
+
+---
+
+## 305: Climate Justice
+
+date: 2025-07-25, from: Fix the News
+
+Some fights are worth having. Plus, trachoma in retreat, Toronto restores its river, two wonderful re-wilding stories from Europe, and how Ozzy's farewell show became the highest grossing charity concert ever. 
+
+<br> 
+
+<https://fixthenews.com/305-climate-justice/>
+
+---
+
+## how to build an agent
+
+date: 2025-07-25, from: Geoffrey Hunntley's blog
+
+<div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    " data-layout="minimal">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p dir="ltr"><span style="white-space: pre-wrap;">Hello! If you are seeing this you are either early or currently attending my talk at DataEngBytes. Learning how to build an agent is one of the best things you can do for your personal development. Cursor, Windsurf, Claude Code and Ampcode.com are 300 lines of code running in</span></p></div></div></div></div> 
+
+<br> 
+
+<https://ghuntley.com/how-to-build-an-agent/>
+
+---
+
+## Lilbits: Gamefound buys Indiegogo, iPad OS 26 beta released, Logitech MX Master 4 mouse leaked, and LEGO’s Game Boy kit is almost here
+
+date: 2025-07-24, from: Liliputing
+
+<p>LEGO&#8217;s Game Boy kit won&#8217;t let you actually play any games. But the 421-piece kit should appeal to puzzle and model builders and retro gaming fans. Once fully assembled, you&#8217;ll have a life-size replica of Nintendo&#8217;s classic handheld and two game cartridges: Super Mario Land and The Legend of Zelda: Link&#8217;s Awakening. Insert either cartridge [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-gamefound-buys-indiegogo-ipad-os-26-beta-released-logitech-mx-master-4-mouse-leaked-and-legos-game-boy-kit-is-almost-here/">Lilbits: Gamefound buys Indiegogo, iPad OS 26 beta released, Logitech MX Master 4 mouse leaked, and LEGO&#8217;s Game Boy kit is almost here</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-gamefound-buys-indiegogo-ipad-os-26-beta-released-logitech-mx-master-4-mouse-leaked-and-legos-game-boy-kit-is-almost-here/>
 
 ---
 
@@ -20,6 +114,18 @@ date: 2025-07-24, from: Liliputing
 <br> 
 
 <https://liliputing.com/aoostar-g-flip-mini-pc-now-available-with-intel-or-amd-inside-mini-pc-with-a-flip-up-display/>
+
+---
+
+## Webinar: What's Wrong with AI Generated Docs
+
+date: 2025-07-24, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>Today I discussed how tech writers can use AI at work with <a href="https://idratherbewriting.com/">Tom Johnson</a> and <a href="https://www.thecontentwrangler.com/">Scott Abel</a>. It all started from my post <a href="https://passo.uno/whats-wrong-ai-generated-docs/">What&rsquo;s wrong with AI-generated docs</a>, though we didn&rsquo;t just focus on the negatives; in fact, we ended up acknowledging that, while AI has limitations, it&rsquo;s also the most powerful productivity tool at our disposal. Here are some of the things I said during <a href="https://www.brighttalk.com/webcast/9273/633343">the webinar</a>, transcribed and edited for clarity.</p> 
+
+<br> 
+
+<https://passo.uno/webinar-ai-tech-writing/>
 
 ---
 

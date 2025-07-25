@@ -1,11 +1,91 @@
 ---
 title: going electric
-updated: 2025-07-24 14:07:40
+updated: 2025-07-25 06:07:45
 ---
 
 # going electric
 
-(date: 2025-07-24 14:07:40)
+(date: 2025-07-25 06:07:45)
+
+---
+
+## This High-Mileage Tesla Model S Had Limited Range. Here’s How Much An Upgraded Battery Cost
+
+date: 2025-07-25, from: Inside EVs News
+
+The bigger battery boosted the real-world range by 50%, but does it make financial sense to go down this route? 
+
+<br> 
+
+<https://insideevs.com/news/766951/high-mileage-tesla-model-s-battery-upgrade-cost/>
+
+---
+
+## Fixing An EV Is Cheaper Than A Gas Car: Study
+
+date: 2025-07-25, from: Inside EVs News
+
+New owners mistakenly believe that fixing an EV would be more expensive than a combustion car. There is one downside, though. 
+
+<br> 
+
+<https://insideevs.com/news/766935/ev-repair-costs-service-time-study/>
+
+---
+
+## Lamborghini's First EV Might Be A Plug-In Hybrid Now
+
+date: 2025-07-24, from: Inside EVs News
+
+The Lamborghini Lanzador EV was already delayed. Now it might not be an EV at all, the brand's CEO says.  
+
+<br> 
+
+<https://insideevs.com/news/766917/lamborghini-first-ev-hybrid-lanzador/>
+
+---
+
+## Nexamp found a faster way to build solar – it did the utility’s job, too
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Nexamp.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Nexamp just pulled off something that could speed up clean energy deployment across the US – and potentially lower costs for everyone. The Boston-based solar developer just finished building three new solar farms in Maine and Massachusetts. But instead of waiting on the utility to handle all the grid hookup work, Nexamp did it themselves.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="community-solar,egeb,energy-brief,solar,maine,massachusetts,solar-power" data-layer-viewtype="unknown" data-post-id="426655" href="https://electrek.co/2025/07/24/nexamp-found-a-faster-way-to-build-solar-it-did-the-utilitys-job-too/#more-426655" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/nexamp-found-a-faster-way-to-build-solar-it-did-the-utilitys-job-too/>
+
+---
+
+## The Genesis GV90 really does have coach doors: Here’s our first look
+
+date: 2025-07-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Genesis-GV90-coach-doors.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>When <a href="https://electrek.co/guides/genesis/">Genesis</a> first previewed its full-size electric SUV, the coach doors were one of the biggest highlights. It looks like it will actually make its way into the production vehicle. A Genesis GV90 model was spotted in the US for the first time with coach doors, offering a glimpse of the upcoming ultra-luxury SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="426642" href="https://electrek.co/2025/07/24/genesis-gv90-really-has-coach-doors-first-look/#more-426642" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/24/genesis-gv90-really-has-coach-doors-first-look/>
+
+---
+
+## Subaru’s Affordable EV Plan Rides On The Uncharted EV's Success
+
+date: 2025-07-24, from: Inside EVs News
+
+If it does happen, Subaru’s B-segment EV will likely be twinned with an electric Toyota Yaris. 
+
+<br> 
+
+<https://insideevs.com/news/766915/subaru-mulls-subcompact-electric-vehicle/>
 
 ---
 

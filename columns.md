@@ -1,11 +1,411 @@
 ---
 title: columns
-updated: 2025-07-24 14:07:36
+updated: 2025-07-25 06:07:41
 ---
 
 # columns
 
-(date: 2025-07-24 14:07:36)
+(date: 2025-07-25 06:07:41)
+
+---
+
+## Like Christmas in July
+
+date: 2025-07-25, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/25/daveGetsAgentMode.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I just got Agent Mode in ChatGPT. I totally have an app in mind. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/25/125944.html?title=likeChristmasInJuly>
+
+---
+
+## Modernizing my sound system
+
+date: 2025-07-25, from: Dave Winer's Scripting News
+
+<p>I got tired of my old sound system, too many wires, a big receiver whose functions I never used, all designed long before the 4-year-old 65-inch OLED screen on top of it all, so I downscaled to a <a href="https://www.amazon.com/dp/B0BWLCLZPS?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">Sony soundbar</a>, figured that was as simple as you could get, for $300, thinking of it as an experiment. </p>
+<p>I liked it but then I thought to ask ChatGPT a question I've had for a while. I want a small amp designed for today's music and video, and went through a bunch of options and came up with the <a href="https://www.amazon.com/dp/B0CGCLXH4H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1">WiiM Home amp</a>. No speakers, unlike the soundbar, but hooks up to the TV via the ARC connector, and I have plenty of old speakers to try out in this configuration. </p>
+<p>I got it yesterday and the setup experience was pretty great and the feature list is totally 2025. Will have more to say for sure. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/25/wiimRearView.png"></center>Rear view of the WiiM Home amp.</div></p>
+<p>PS: It's from a Silicon Valley <a href="https://www.linkplay.com/aboutus">tech company</a> btw. Nice to see a company just designing nice products and not trying to take over the world. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/25/123851.html?title=modernizingMySoundSystem>
+
+---
+
+## 2025-07-25 Oddmuse and the Butlerian Jihad
+
+date: 2025-07-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-25-oddmuse-and-the-butlerian-jihad">2025-07-25 Oddmuse and the Butlerian Jihad</h1>
+
+<p>So what about that old wiki software that&rsquo;s been serving me so well for more than twenty years?</p>
+
+<p>Back then, Recent Changes or a search for a page title was implemented as a GET request. The idea was that it would be possible to bookmark or share such links. But what has happened instead is that the web scrapers are losing themselves in a gazillion dynamic pages, trying to ingest them. And since searches and filters are expensive operations, this drives up the load of the system hosting the wiki.</p>
+
+<p>Examples such as these showed up in previous blog posts:</p>
+
+<pre><code># 2h-access-log !^social | asn-access-log 7713 | log-request | rank-lines
+      1 /wiki/Older_Upgrading_Issues
+      1 /wiki/CategoryWiki
+      1 /wiki?action=rss&amp;all=1&amp;days=1&amp;full=1&amp;rcidonly=wiki_feeds&amp;showedit=0
+      1 /wiki?action=rss&amp;all=0&amp;days=7&amp;diff=1&amp;full=1&amp;rcidonly=CommentHabillerUnFilRss&amp;showedit=1
+      1 /wiki?action=rss&amp;all=0&amp;days=28&amp;rcidonly=2004-07-12&amp;showedit=0
+      1 /wiki?action=rc&amp;from=1749992400&amp;rcidonly=GermanXpCommunity&amp;showedit=1&amp;upto=1750597200
+      1 /wiki?action=rc&amp;all=1&amp;from=1750742594&amp;rcidonly=WikiToHTML&amp;upto=1751001794
+      1 /wiki?action=rc&amp;all=0&amp;days=28&amp;rcfilteronly=%22DifficultPerson%22&amp;showedit=0
+      1 /wiki?action=rc&amp;all=0&amp;days=14&amp;rcidonly=HoofSmith&amp;rollback=1&amp;showedit=0
+      1 /wiki?action=admin&amp;id=UserInterfaceValidator
+</code></pre>
+
+<p>In theory, POST is used when making changes to a web resource such as a wiki page. What I&rsquo;ve done now is I wrote an extension that <a href="https://oddmuse.org/wiki/POST_instead_of_GET_extension">changes all these links to forms</a> and I&rsquo;ve installed it for the Oddmuse wikis I still run.</p>
+
+<p>At the same time, the web server is blocking requests to these URLs.</p>
+
+<pre><code># Block for GET requests for search, recent changes and filtered feeds
+RewriteCond &quot;%{QUERY_STRING}&quot; &quot;search=&quot; [or]
+RewriteCond &quot;%{QUERY_STRING}&quot; &quot;action=rc&quot; [or]
+RewriteCond &quot;%{QUERY_STRING}&quot; &quot;action=rss[&amp;;]&quot;
+RewriteRule &quot;^&quot; https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>Let&rsquo;s see if that starts cutting down on the number of these requests I&rsquo;m getting.
+I suspect that many of these URLs are in fact stored in training sets so it will take a long time for these URLs to fade from use.</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Oddmuse">#Oddmuse</a> <a class="tag" href="/search/?q=%23Apache">#Apache</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-25-oddmuse>
+
+---
+
+## Subliminal Learning in AIs
+
+date: 2025-07-25, updated: 2025-07-24, from: Bruce Schneier blog
+
+<p>Today&#8217;s freaky <a href="https://alignment.anthropic.com/2025/subliminal-learning/">LLM behavior</a>:</p>
+<blockquote><p>We study subliminal learning, a surprising phenomenon where language models learn traits from model-generated data that is semantically unrelated to those traits. For example, a &#8220;student&#8221; model learns to prefer owls when trained on sequences of numbers generated by a &#8220;teacher&#8221; model that prefers owls. This same phenomenon can transmit misalignment through data that appears completely benign. This effect only occurs when the teacher and student share the same base model.</p></blockquote>
+<p>Interesting security implications.</p>
+<p>I am more convinced than ever that we need serious research into ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/subliminal-learning-in-ais.html>
+
+---
+
+## 2025-07-23 Testing a reset of the one week jail
+
+date: 2025-07-25, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-23-testing-a-reset-of-the-one-week-jail">2025-07-23 Testing a reset of the one week jail</h1>
+
+<p>I&rsquo;ve had a number of people complaining about being banned and I&rsquo;ve been wondering whether I should reduce the ban-time for the escalation jail. Right now, if you&rsquo;ve been banned for 1h five times in a 24h period, you&rsquo;re banned for one week. What I f I reduced this one week to three days (&ldquo;one long weekend&rdquo;), for example?</p>
+
+<p>As a test, I wanted to reset all the one week bans and see whether load explodes or not. If most of the scraping has ceased, then perhaps there would be no problem?</p>
+
+<p>So around 10:30 local time, I made a backup of the weekly jail:</p>
+
+<pre><code># fail2ban-client get butlerian-jihad-week banned &gt; butlerian-jihad-week.json
+# sed s/\'/\&quot;/g &lt; butlerian-jihad-week.json | jq length
+2862
+# fail2ban-client get butlerian-jihad-week banned
+[]
+</code></pre>
+
+<p>The backup has 2862 entries, the jail is now empty.</p>
+
+<p>Let&rsquo;s watch Munin!</p>
+
+<p><img loading="lazy" src="2025-07-23-test-1.jpg" alt="The graph shows the one week jail pretty constant at nearly 3000 entries dropping to zero moments ago." /></p>
+
+<p>40 minutes later. What are you dooooing‽</p>
+
+<p><img loading="lazy" src="2025-07-23-test-2.jpg" alt="10 minutes after the reset, the 1h jail already has over 700 entries and in another 10 minutes, it has 850 entries." /></p>
+
+<p>And who&rsquo;s doing it?</p>
+
+<pre><code># asn-find (grep &quot;^2025-07-23 1.* \[butlerian-jihad\] Ban &quot; /var/log/fail2ban.log|cut -c 89-)\
+    | cut -f2-3 | sort | uniq
+16567	NETRIX-16567, US
+17035	NBCUNI-17035, US
+19855	MASERGY, US
+209366	SEMRUSH-AS, CY
+35485	MAILUP-SPA, IT
+39630	ASPTECH, GB
+7922	COMCAST-7922, US
+8069	MICROSOFT-CORP-MSN-AS-BLOCK, US
+8075	MICROSOFT-CORP-MSN-AS-BLOCK, US
+</code></pre>
+
+<p>The only obvious thing I can see is that Semrush and Microsoft are trying to crawl the site using their bots, one for their marketing and search engine optimisation and the other for their search engine itself. But remember: <a href="2023-10-04-search">2023-10-04 Search engines, the deal is off!</a>. I am no longer convinced that being listed by search engines is in my best interest.</p>
+
+<p><img loading="lazy" src="2025-07-23-test-3.jpg" alt="A few hours later, the scene appears unchanged. There are four waves of blocks, going up to between 1000 and 1500 banned entries and coming back down again." /></p>
+
+<p>If that&rsquo;s the image, then perhaps the long term punitive ban doesn&rsquo;t have to be that long.</p>
+
+<p>And what&rsquo;s the situation 24h later?</p>
+
+<p><img loading="lazy" src="2025-07-23-test-4.jpg" alt="The fifth wave generates entries in the one-week ban. But the cycles for the one-hour ban continues and so more entries keep getting added to the one-week ban." /></p>
+
+<p>And another day later:</p>
+
+<p><img loading="lazy" src="2025-07-23-test-5.jpg" alt="The situation has stabilised around 1400 blocked entries" /></p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-07-25</strong>. So now, two days after a reset, I&rsquo;d like to see who&rsquo;s hovering just below those limits I&rsquo;ve set. If they seem to be innocents, that would be an argument to raise the limits. If they seem to be bots, that would be an argument to lower the limits or, given that the system load is OK at the moment, to leave the limit as it is.</p>
+
+<p>Let&rsquo;s go through the various test.</p>
+
+<p>First, &ldquo;active autonomous systems&rdquo;. On a good day, the limit is 500 requests per autonomous system.</p>
+
+<pre><code># show-active-autonomous-systems --top 3
+count	percent	ASN	AS
+234	4.54	45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+172	3.33	208258	ACCESS2IT Access2.IT Network, NL
+158	3.06	12880	DCI-AS, IR
+total: 5158
+</code></pre>
+
+<p>Clearly, Alibaba is a bot hoster in China. What about Access2.IT in the Netherlands?</p>
+
+<pre><code># 2h-access-log | asn-access-log 208258 | log-request | rank-lines 
+    176 /
+</code></pre>
+
+<p>Clearly, that is also a bot. 2h is 120 minutes. This company is checking more than once per minute whether my sites are up. That angers me. They probably sell uptime data to other companies.</p>
+
+<p>What about the autonomous system from Iraq?</p>
+
+<pre><code># 2h-access-log | asn-access-log 12880 | log-request | rank-lines 
+    164 /
+</code></pre>
+
+<p>The same bullshit! 😲</p>
+
+<p>So my conclusion is that the limit could be lower! 😠</p>
+
+<p>Next, let&rsquo;s look at &ldquo;expensive end-points&rdquo;. These are the endpoints I&rsquo;m planning to <a href="https://oddmuse.org/wiki/2025-07-13_AI_Scrapers">do away with</a>, eventually.</p>
+
+<pre><code># 2h-access-log \
+    | egrep '\baction=(rss|rc)\&amp;|\bsearch=' \
+    | awk '{print $2}' \
+    | asncounter --top 3 --no-prefixes 2&gt;/dev/null
+count	percent	ASN	AS
+27	4.42	7922	COMCAST-7922, US
+11	1.8	6939	HURRICANE, US
+8	1.31	7713	TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+total: 611
+</code></pre>
+
+<p>Comcast in the United States seems to request all sorts of things:</p>
+
+<pre><code># 2h-access-log | asn-access-log 7922 | log-request | rank-lines
+      7 /1pdc/2024/
+      4 /view/index.rss
+      4 /osr/feed.xml
+      4 /osr/atom.xml
+      3 /
+      2 /wiki/MontagInZ%C3%BCrich/Discord_Server
+      2 /wiki/feed/full/
+      2 /upload/?filename=2017-04-07_Worldbuilding-1.jpg
+      1 /zoom-frm.el
+      1 /zen?action=rss&amp;all=0&amp;days=90&amp;rcfilteronly=%22WikioStyle%22&amp;showedit=1
+</code></pre>
+
+<p>Note how only one of these requests is one of the &ldquo;forbidden&rdquo; URLs. But apparently it&rsquo;s also attempting to upload images! Looks like spiders, if you ask me.</p>
+
+<p>What about Hurricane in the United States?</p>
+
+<pre><code># 2h-access-log !^social | asn-access-log 6939 | log-user-agent | rank-lines
+     17 Feedly
+      8 Feedbin feed-id:1702619 - 1 subscribers
+      6 Feedbin feed-id:2621878 - 1 subscribers
+      6 Feedbin feed-id:1965060 - 1 subscribers
+      6 Feedbin feed-id:1482607 - 3 subscribers
+      6 Feedbin feed-id:1482606 - 1 subscribers
+      6 Feedbin feed-id:1244032 - 8 subscribers
+      4 Feedbin feed-id:2982258 - 1 subscribers
+      4 Feedbin feed-id:2584020 - 2 subscribers
+      4 Feedbin feed-id:1821891 - 1 subscribers
+</code></pre>
+
+<p>What the hell is wrong with these people? Do I really have these many interesting feeds?</p>
+
+<pre><code># 2h-access-log !^social | asn-access-log 6939 | log-request | rank-lines
+      9 /view/index.rss
+      8 /osr/feed.xml
+      6 /view/RPG.rss
+      5 /files/osr-discord.xml
+      4 /wiki/?action=journal;title=Roleplaying%20Games;full=1;search=tag:RPG
+      4 /view/index.rss?action=journal;title=Roleplaying%20Games;full=1;search=tag:RPG
+      4 /rpg/feed.xml
+      4 /podcast/hh.xml
+      3 /wiki/feed/full/RPG
+      3 /wiki/feed/full/Old_School
+</code></pre>
+
+<p>Maybe. 😬</p>
+
+<p>Four requests means one request every half hour, for every feed. I guess it makes sense.</p>
+
+<p>In any case, I seems that maybe these autonomous systems are hitting a lot of expensive end-points but in general, they are all focused on feed processing.</p>
+
+<p>The autonomous system from Indonesia looks even more like a bot but in addition to that it also goes through all the archives, for every single page:</p>
+
+<pre><code># 2h-access-log !^social | asn-access-log 7713 | log-request | rank-lines
+      1 /wiki/Older_Upgrading_Issues
+      1 /wiki/CategoryWiki
+      1 /wiki?action=rss&amp;all=1&amp;days=1&amp;full=1&amp;rcidonly=wiki_feeds&amp;showedit=0
+      1 /wiki?action=rss&amp;all=0&amp;days=7&amp;diff=1&amp;full=1&amp;rcidonly=CommentHabillerUnFilRss&amp;showedit=1
+      1 /wiki?action=rss&amp;all=0&amp;days=28&amp;rcidonly=2004-07-12&amp;showedit=0
+      1 /wiki?action=rc&amp;from=1749992400&amp;rcidonly=GermanXpCommunity&amp;showedit=1&amp;upto=1750597200
+      1 /wiki?action=rc&amp;all=1&amp;from=1750742594&amp;rcidonly=WikiToHTML&amp;upto=1751001794
+      1 /wiki?action=rc&amp;all=0&amp;days=28&amp;rcfilteronly=%22DifficultPerson%22&amp;showedit=0
+      1 /wiki?action=rc&amp;all=0&amp;days=14&amp;rcidonly=HoofSmith&amp;rollback=1&amp;showedit=0
+      1 /wiki?action=admin&amp;id=UserInterfaceValidator
+</code></pre>
+
+<p>Hopefully most of that will be fixed one the forms all change from GET to POST. 😬</p>
+
+<p>In any case, I don&rsquo;t feel like lifting this limit!</p>
+
+<p>The last instance involves banning all the autonomous systems that are hitting &ldquo;no bots&rdquo; warnings. The web server does this redirect for various requests, including all user agents containing the words &ldquo;bot&rdquo;, &ldquo;spider&rdquo;, &ldquo;crawl&rdquo; etc.</p>
+
+<p>I&rsquo;m going to change all my <code>robots.txt</code> files to the following:</p>
+
+<pre><code>User-agent: *
+Disallow: /
+DisallowAITraining: /
+</code></pre> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-23-test>
+
+---
+
+## The silencing 
+
+date: 2025-07-25, from: Robert Reich's blog
+
+Colbert, The Washington Post, Columbia University &#8230; and on it goes 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-silencing>
+
+---
+
+## July 24, 2025
+
+date: 2025-07-25, from: Heather Cox Richardson blog
+
+The Epstein list made it into last night&#8217;s premiere of the twenty-seventh season of the television series South Park when Satan, in bed with Trump, commented, &#8220;It&#8217;s weird that whenever it comes up, you just tell everyone to relax.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-24-2025>
+
+---
+
+## how to build an agent
+
+date: 2025-07-25, from: Geoffrey Hunntley's blog
+
+<div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    " data-layout="minimal">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p dir="ltr"><span style="white-space: pre-wrap;">Hello! If you are seeing this you are either early or currently attending my talk at DataEngBytes. Learning how to build an agent is one of the best things you can do for your personal development. Cursor, Windsurf, Claude Code and Ampcode.com are 300 lines of code running in</span></p></div></div></div></div> 
+
+<br> 
+
+<https://ghuntley.com/how-to-build-an-agent/>
+
+---
+
+##  &#8220;Alto turns your Apple Notes into a website.&#8221;... 
+
+date: 2025-07-25, updated: 2025-07-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047217-alto-turns-your-apple-not>
+
+---
+
+## Lying, gaslighting, & blackmailing — what's going on with AI chatbots? 
+
+date: 2025-07-24, from: Melanie Mitchell, AI Guide for Human Thinking
+
+In my final column for Science&#8217;s &#8220;Expert Voices&#8221; series, I wrote about why AI chatbots like ChatGPT and Claude are misbehaving in all kinds of ways. 
+
+<br> 
+
+<https://aiguide.substack.com/p/lying-gaslighting-and-blackmailing>
+
+---
+
+## Friday 25 July, 2025
+
+date: 2025-07-24, from: John Naughton's online diary
+
+Fading beauty I love the graceful way roses fade. Quote of the Day ”An expert is someone who articulates the needs of those in power.” * Henry Kissinger Musical alternative to the morning’s radio news Bob Dylan &#124; Buckets of &#8230; <a href="https://memex.naughtons.org/friday-25-july-2025/41049/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-25-july-2025/41049/>
+
+---
+
+## Fox Shock
+
+date: 2025-07-24, from: Dan Rather's Steady
+
+A truth-challenged channel when we need it least 
+
+<br> 
+
+<https://steady.substack.com/p/fox-shock>
+
+---
+
+## Public Betas for Apple OSes 26
+
+date: 2025-07-24, updated: 2025-07-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/07/first-look-ios-26-public-beta/>
+
+---
+
+##  Hard Things Are Supposed to Be Hard 
+
+date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/hard-things-are-supposed-to-be-hard>
 
 ---
 
@@ -127,6 +527,105 @@ To maintain anonymity and store zero user data, there is and can be no web app v
 <br> 
 
 <https://daringfireball.net/2025/07/iceblock>
+
+---
+
+## 2025-07-19 The current setup defending my sites
+
+date: 2025-07-24, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-19-the-current-setup-defending-my-sites">2025-07-19 The current setup defending my sites</h1>
+
+<p>I wrote this post (and posted it <a href="https://www.emacswiki.org/emacs/2025-07-19">on Emacs Wiki</a>) because people have been wondering about it all on Reddit. I&rsquo;m no longer on Reddit.</p>
+
+<p>If you see other people on the net wondering whether one of my sites is down, feel free to repost this message or parts of it. Sadly, you won&rsquo;t be able to link to it, because the people wondering are probably banned by the firewall.</p>
+
+<p>Why am I having visitors banned by the firewall? The web has been under attack by AI scrapers since around 2022. That&rsquo;s when big companies decided they needed to train AI and one of the sources of training material was the web. (Another source was a huge collection of pirated books, but that&rsquo;s a different story.) And if your task is to scrape as much of the web as possible, you can&rsquo;t be picky. The result is devastating. Let me quote Drew DeVault:</p>
+
+<blockquote>
+<p>If you think these crawlers respect robots.txt then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, robots.txt be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
+</blockquote>
+
+<p>So people have been scrambling to defend their sites against the AI scraper stampede. There are no good tools.</p>
+
+<p>One of the first measures was to block self-identified scrapers and bots. Any user agent containing the words &ldquo;bot&rdquo;, &ldquo;crawler&rdquo;, &ldquo;spider&rdquo;, &ldquo;ggpht&rdquo; or &ldquo;gpt&rdquo; are automatically redirected to a &ldquo;No Bots&rdquo; page with an HTTP status of 410, which means the resource is gone and the user agent should remove it from their database. And then I have another list of user agents that keep hitting the site: bots to help search engine optimisers (SEO), bots to &ldquo;audit&rdquo; the site, bots to check uptime, get page previews, and on and on. Whenever I checked the top hitters on my sites, I&rsquo;d find another user agent or two to add to the list.</p>
+
+<p>But as you saw in Drew DeVault&rsquo;s blog post, AI scrapers have been working around this by faking regular user agents, making them indistinguishable from humans. The solution, therefore, is not to listen to what they say but watch what they do.</p>
+
+<p>One tool I stumbled upon pretty early was using <code>fail2ban</code>. The traditional way of using it is to have it check a log file such as the <code>sshd</code> log for failed login attempts. If an IP address was causing too many failed login attempts, they would get banned for 10 minutes. A nice trick is that you could also have it check its own log files and if an IP address was getting banned multiple times, then they would get banned for 1 week.</p>
+
+<p>I started applying this to the web server log files. I figured a human clicking a bunch of links might show a burst of activity, so I defined a rate limit of 30 hits in 60 seconds. That is: the average rate must not exceed one hit every 2 seconds but activity bursts of up to 30 hits are OK. I also exclude a lot of URLs matching images and other resources.</p>
+
+<p>The main limitation is that this rule is limited to single IP addresses. And as you saw in Drew DeVault&rsquo;s blog post, AI scrapers have been working around this by using services that distribute requests over whole networks. The solution, therefore, is to defend against entire organisations.</p>
+
+<p>Multiple times per hour, I have jobs scheduled that go through the last two hours of the web server access log, extracting all the IP addresses and determining their autonomous system number (ASN). That number identifies whole internet service providers (ISP) or similar companies.</p>
+
+<p>I know, using autonomous systems makes this a very broad ban hammer. It catches innocent people that use an ISP that hires out computing power and bandwidth to AI scrapers. But I don&rsquo;t know any other way to fight back bots &ldquo;using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses&rdquo;. So this is what it is. On the positive side, the bans are temporary. They expire after a while. If the AI scrapers are done ingesting the world-wide web, the ban is over. If they&rsquo;re still at it, the ban is reinstated.</p>
+
+<p>The first job bans &ldquo;active&rdquo; autonomous systems:</p>
+
+<ul>
+<li>If load exceeds 10, the number of hits in a 2 hour period may not exceed 300 per ASN.</li>
+<li>If load exceeds 5, the number of hits in a 2 hour period may not exceed 400 per ASN.</li>
+<li>Under regular load, the number of hits in a 2 hour period may not exceed 500 per ASN.</li>
+</ul>
+
+<p>This includes everything showing up in the web server access log including hits for embedded things such as CSS files and images.</p>
+
+<p>The second job bans autonomous systems hitting expensive end-points:</p>
+
+<ul>
+<li>If load exceeds 10, the number of expensive hits in a 2 hour period may not exceed 10 per ASN.</li>
+<li>If load exceeds 5, the number of expensive hits in a 2 hour period may not exceed 20 per ASN.</li>
+<li>Under regular load, the number of expensive hits in a 2 hour period may not exceed 30 per ASN.</li>
+</ul>
+
+<p>Expensive end-points are filtered RSS feed, Recent Changes and full-text searches.</p>
+
+<p>The third job bans autonomous systems hosting bots:</p>
+
+<ul>
+<li>If load exceeds 10, the number of bot hits in a 2 hour period may not exceed 10 per ASN.</li>
+<li>If load exceeds 5, the number of bot hits in a 2 hour period may not exceed 20 per ASN.</li>
+<li>Under regular load, the number of bot hits in a 2 hour period may not exceed 30 per ASN.</li>
+</ul>
+
+<p>A bot hit is counted when the web server returned a HTTP status 410 as mentioned above. In other words, these are all the user agents containing the words &ldquo;bot&rdquo;, &ldquo;crawler&rdquo;, &ldquo;spider&rdquo;, &ldquo;ggpht&rdquo; or &ldquo;gpt&rdquo;.</p>
+
+<p>The bans from the three jobs mentioned just now last for 1 hour.</p>
+
+<p>If such a ban was made more than 5 times in a day, the ban is extended to 1 week.</p>
+
+<p>Banning an ASN means that all the networks it manages are banned.</p>
+
+<p>If the system works, the AI scraper stampede starts, load starts to climb up to 10, everything slows down to a crawl, the number of threads goes up from 350 to 450, the number of TCP connection goes up from 150 to 550, the number of wiki processes goes up from 1 or 2 to 20, and after a few minutes my jobs kick in and start banning IP addresses left and right <a href="2025-07-18-my-hope">until things have calmed down</a>.</p>
+
+<p>I&rsquo;m still learning. The programmers working on AI scrapers are still learning. The arms race isn&rsquo;t over until their funding dries up. Until we all decided that the costs of AI aren&rsquo;t worth it. So this post is just a snapshot. I&rsquo;ll continue tweaking the setup.</p>
+
+<p>I&rsquo;m sorry if this ban hammer is hitting you. It&rsquo;s still better than taking my sites offline. I&rsquo;ve had to do that in the past because I did not know what else to do.</p>
+
+<p>The easy solution is to switch networks. You might still be able to access the site from a mobile phone using mobile data, for example. (Using a phone in a wifi network won&rsquo;t work.)</p>
+
+<p>A harder solution is to use a VPN or to switch ISP.</p>
+
+<p>An alternative for those of you with a static IP address within a network that is often banned is to <a href="Contact">contact me</a> and I can add your specific IP address to an allow-list. Use <a href="https://ip.small-web.org/">Your IP address</a> if you don&rsquo;t know your IP number. In that case, however, I suspect that it is not static.</p>
+
+<p>I can&rsquo;t wait for the next AI winter. 🥶</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-07-24</strong>. Sadly, the new setup is starting to hurt a lot of innocent people. I&rsquo;ve been getting a handful of emails, but there&rsquo;s also talk on Reddit.</p>
+
+<ul>
+<li><a href="https://old.reddit.com/r/emacs/comments/1m2lzkr/emacswiki_down/n48kj8z/">Emacs Wiki</a></li>
+<li><a href="https://old.reddit.com/r/osr/comments/1m5i2np/what_happened_to_campaignwikiorg/">Campaign Wiki</a></li>
+</ul>
+
+<p>😥</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-19-automated-defence-setup>
 
 ---
 
@@ -396,6 +895,28 @@ date: 2025-07-23, updated: 2025-07-23, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/07/killing-in-the-name-of-a-terrible-holy-lie>
+
+---
+
+## 2025-07-22 I cannot ignore politics
+
+date: 2025-07-23, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-22-i-cannot-ignore-politics">2025-07-22 I cannot ignore politics</h1>
+
+<p>When I read something like <a href="http://grognardia.blogspot.com/2025/07/kumbaya.html">Kumbaya</a> where James says that &ldquo;not every game choice is a political act&rdquo; and how he misses that he and his friends back when they were kids just talked about games and how these days it feels more like &ldquo;excommunication&rdquo;, I wonder. I was happy to read Gern Blanston&rsquo;s comment where they suspect that things weren&rsquo;t political back then because we were kids and didn&rsquo;t know. It&rsquo;s definitely true for me. And now that I&rsquo;m am adult, I can&rsquo;t look away.</p>
+
+<p>I can&rsquo;t ignore politics because I feel that politics is about being part of society. Politics is about how society is organized. How one wants society organized is a moral choice. Needless to say, I only want to spend time with people that don&rsquo;t do or support morally reprehensible things. Not everybody feels that revulsion, but I do. And maybe it&rsquo;s not always easy to be good people, to know what&rsquo;s right and what&rsquo;s wrong, but I believe that we should strive for it – and that means looking at the moral choices made all around us, at the politics here and now. And that also means that political choice has consequences.</p>
+
+<p>Furthermore, we&rsquo;re blessed with alternatives. We don&rsquo;t have to play Barker&rsquo;s Tékumel since there are so many other good games and settings out there. I can separate the work and the artist but I don&rsquo;t have to. I do not feel that art is a goal in itself. Instead, I feel that art is an expression of a human, and usually that means that there is a political layer somewhere. Sometimes the politics contained within might be big and in your face and sometimes it might be small and easy to ignore. But I still think that political choice has consequences.</p>
+
+<p>And if the word &ldquo;politics&rdquo; gets your hackles up, think of something else, like animal abuse. I don&rsquo;t want to buy books by somebody who mistreats their cat, who speaks out in favour cat mistreatments, who financially supports cat mistreatments, I don&rsquo;t want to play their games and I don&rsquo;t understand the people who support them.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-22-politics>
 
 ---
 
@@ -1073,6 +1594,96 @@ The Trump regime is using the specter of socialism to make America even more aut
 
 ---
 
+## 2025-07-21 Math finds
+
+date: 2025-07-22, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-21-math-finds">2025-07-21 Math finds</h1>
+
+<p><a class="account" href="https://mathstodon.xyz/users/johncarlosbaez" title="@johncarlosbaez@mathstodon.xyz">@johncarlosbaez</a> just posted the following:</p>
+
+<blockquote>
+<p>List all the numbers</p>
+
+<p>1, 2, 3, 4, 5, 6, 7, &hellip;</p>
+
+<p>skip every second one:</p>
+
+<p>1, 3, 5, 7, &hellip;</p>
+
+<p>form the partial sums like this:</p>
+
+<p>1, 1+3, 1+3+5, 1+3+5+7, &hellip;</p>
+
+<p>Hey, you get the square numbers!</p>
+
+<p>1, 4, 9, 16, &hellip;</p>
+
+<p>Lots of people know that.</p>
+</blockquote>
+
+<p>I did not and it blows my mind.</p>
+
+<p>He continues:</p>
+
+<blockquote>
+<p>But now list all the numbers</p>
+
+<p>1, 2, 3, 4, 5, 6, 7, &hellip;</p>
+
+<p>skip every <em>third</em> one:</p>
+
+<p>1, 2, 4, 5, 7, 8, 10, 11, &hellip;</p>
+
+<p>then form the partial sums:</p>
+
+<p>1, 1+2, 1+2+4, 1+2+4+5, 1+2+4+5+7 &hellip;</p>
+
+<p>=</p>
+
+<p>1, 3, 7, 12, 19, &hellip;</p>
+
+<p>then skip every <em>second</em> one:</p>
+
+<p>1, 7, 19, &hellip;.</p>
+
+<p>then form the partial sums again:</p>
+
+<p>1, 8, 27, &hellip;</p>
+
+<p>Hey, now you get the cubes!   You shouldn&rsquo;t trust me based on so little evidence, so do some more, or prove it works.</p>
+
+<p>But the cool part is that this pattern goes on forever.  If you list all the natural numbers starting from 1, skip every nth one, form the list of partial sums, skip every (n-1)st one, form the list of partial sums, skip every (n-2)nd one, &hellip; blah di blah di blah&hellip; skip every 2nd one, then form the list of partial sums, you get the nth powers!</p>
+
+<p>This is called Moessner&rsquo;s theorem, and I learned about it from Michael Fourman.   It&rsquo;s in Chapter 7.5 here:</p>
+
+<ul>
+<li>Jan Rutten, <a href="https://ir.cwi.nl/pub/28550/rutten.pdf">The Method of Coalgebra: Exercises in Coinduction</a></li>
+</ul>
+
+<p>Moral: anytime you see a pattern in mathematics - one that goes on infinitely, not a coincidence! - it&rsquo;s probably just the tip of a bigger iceberg.</p>
+</blockquote>
+
+<p>Such wonderful stuff.</p>
+
+<p><a class="account" href="https://chaos.social/users/plyspomitox" title="@plyspomitox@chaos.social">@plyspomitox</a> commented:</p>
+
+<blockquote>
+<p>i was amazed when i learned that 1 / 7 is 0.142857 (repeating) which struck me as odd as that contains 14, 0028, 000056, 00000112 and so on and so 1/7 is basically the infinite sum of 7×(0.02)ⁿ which is so because 1/49 is the infinite sum of 0.02ⁿ &hellip; 0.02 being 1/50</p>
+</blockquote>
+
+<p>🤯</p>
+
+<p>Sadly, I don&rsquo;t have anything to add. I&rsquo;m still stuck in my high-school math and even that is getting worse over the years. But it&rsquo;s small posts like these that remind me of the cool stuff that&rsquo;s out there.</p>
+
+<p><a class="tag" href="/search/?q=%23Math">#Math</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-21-math>
+
+---
+
 ## July 21, 2025 (Monday) 
 
 date: 2025-07-22, from: Heather Cox Richardson blog
@@ -1355,6 +1966,30 @@ date: 2025-07-21, updated: 2025-07-19, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html>
+
+---
+
+## 2025-07-21 Butlerian Jihad numbers
+
+date: 2025-07-21, from: Alex Schroeder's Blog
+
+<h1 id="2025-07-21-butlerian-jihad-numbers">2025-07-21 Butlerian Jihad numbers</h1>
+
+<p>Since I&rsquo;ve been posting so much about the Butlerian Jihad, you might wonder how many IP addresses or networks are actually being banned.</p>
+
+<p>Here&rsquo;s what Munin shows:</p>
+
+<p><img loading="lazy" src="2025-07-21-butlerian-jihad-numbers-1.jpg" alt="At the end of June, things start picking up and on July 3, numbers start going up for real. The butlerian-jihad jail (1 hour) dances up and down and sometimes goes up to 5k but reaches 10k around July 9. The butlerian-jihad-jail (1 week) climbs to around 8k in the same time period. After that numbers fall back down but since July 12  or the week-long ban hovers around 3k and the one-hour-long ban jumps up from zero 5k many times, reaching 11k on July 17." /></p>
+
+<p>Currently, 2.70k IP ranges are affected by the week-long ban.</p>
+
+<p>At the same time, people have been <a href="https://www.reddit.com/r/emacs/comments/1m2lzkr/emacswiki_down/">wondering on Reddit</a>, two people sent me emails about Emacs Wiki and three people sent me emails (or contacted me on Discord/IRC) about Campaign Wiki.</p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-21-butlerian-jihad-numbers>
 
 ---
 

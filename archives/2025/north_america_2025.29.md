@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-07-24 14:07:32
+updated: 2025-07-25 06:07:38
 ---
 
 # north america
 
-(date: 2025-07-24 14:07:32)
+(date: 2025-07-25 06:07:38)
+
+---
+
+## Undaunted Search for the Truth 
+
+date: 2025-07-25, from: The Contrarian
+
+Julie Brown&#8217;s essential reporting on Jeffrey Epstein must be commended 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-search-for-the-truth>
+
+---
+
+## Evening Roundup, July 24
+
+date: 2025-07-24, from: The Contrarian
+
+Featuring Jamie Raskin & Jen Rubin; "The Tea" with April Ryan; The Democracy Movement; Bruce Siegel; Shalise Manza Young; Allyn Brooks-LaSure; Mariana Chilton; and Gabriel Lezra & Norm Eisen 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-24>
+
+---
+
+## How deep does this conspiracy go? Rep. Raskin on the Epstein coverup
+
+date: 2025-07-24, from: The Contrarian
+
+"Donald Trump has this unusual habit of always returning to the scene of the crime." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169171304/db62c4b3c414b3ede22a84a31c1a87aa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169171304/db62c4b3c414b3ede22a84a31c1a87aa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/how-deep-does-this-conspiracy-go>
+
+---
+
+## The Tea w/ April Ryan ft. Al Sharpton and Brandon Scott
+
+date: 2025-07-24, from: The Contrarian
+
+A recording from The Tea w/ April Ryan 07/24 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-al-sharpton>
 
 ---
 
@@ -249,7 +299,7 @@ date: 2025-07-23, from: The Lever News
 
 date: 2025-07-23, from: The Contrarian
 
-A new law allows doctors to deny treatment based on 'conscience.' Now a woman has been denied prenatal are. 
+A new law allows doctors to deny treatment based on 'conscience.' Now a woman has been denied prenatal care. 
 
 <br> 
 

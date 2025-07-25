@@ -1,11 +1,74 @@
 ---
 title: motorcycles
-updated: 2025-07-24 14:07:39
+updated: 2025-07-25 06:07:44
 ---
 
 # motorcycles
 
-(date: 2025-07-24 14:07:39)
+(date: 2025-07-25 06:07:44)
+
+---
+
+## These Custom BMW Cruiser Motorcycles Are Almost Too Pretty To Ride, Almost
+
+date: 2025-07-25, from: Ride Apart, Electric Motorcycle News
+
+The “Speed Sisters” show there’s more to custom cruisers than just American metal.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766806/bmw-custom-cruisers-speed-sisters-woidwerk/>
+
+---
+
+## CFMoto Thinks You Want Insane Retractable Motorcycle Winglets, But Do You?
+
+date: 2025-07-25, from: Ride Apart, Electric Motorcycle News
+
+The truth simply is that for many riders, winglets are more about looks than function.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766833/cfmoto-retractable-winglets-sportbike-patent/>
+
+---
+
+## Can This Insane 3,000cc Turbocharged V4 Motorcycle Hit 400 Miles Per Hour? Maybe
+
+date: 2025-07-25, from: Ride Apart, Electric Motorcycle News
+
+We’ll find out in August during the Bonneville Motorcycle Speed Trials. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766808/3000cc-turbo-v4-motorcycle-bonneville-speed-trials-chris-rivas/>
+
+---
+
+## Rider Slaps “WILL RUN” Fake Plate on Unregistered Motorcycle, Cop Chase Ensues
+
+date: 2025-07-25, from: Ride Apart, Electric Motorcycle News
+
+Don't act like you weren't warned. 
+
+<br> 
+
+<https://www.rideapart.com/news/766665/will-run-fake-license-plate-motorcycle-cop-chase/>
+
+---
+
+## San Diego to Host Street Race at Naval Base Coronado in 2026
+
+date: 2025-07-24, from: Kickin the Tires blog
+
+SAN DIEGO (July 23, 2025) – In celebration of the 250th anniversary of United States Navy, NASCAR will once again make history by hosting a brand-new street race at Naval&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/san-diego-to-host-street-race-at-naval-base-coronado-in-2026/>
 
 ---
 

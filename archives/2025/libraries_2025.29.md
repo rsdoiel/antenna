@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-24 14:07:38
+updated: 2025-07-25 06:07:43
 ---
 
 # libraries
 
-(date: 2025-07-24 14:07:38)
+(date: 2025-07-25 06:07:43)
+
+---
+
+## Chefs de Cuisine: Perspectives from Publishing’s Top Table — Carsten Buhr
+
+date: 2025-07-25, from: Scholarly Kitchen
+
+<p>Robert Harington talks to Carsten Buhr, CEO of De Gruyter Brill, in this series of perspectives from some of Publishing’s leaders across the non-profit and for-profit sectors of our industry.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/25/robert-harington-talks-to-carsten-buhr-ceo-of-de-gruyter-brill-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit-sectors-of-our-industry/">Chefs de Cuisine: Perspectives from Publishing&#8217;s Top Table &#8212; Carsten Buhr</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/25/robert-harington-talks-to-carsten-buhr-ceo-of-de-gruyter-brill-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit-sectors-of-our-industry/>
 
 ---
 
