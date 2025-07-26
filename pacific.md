@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-07-26 06:07:38
+updated: 2025-07-26 14:13:12
 ---
 
 # pacific
 
-(date: 2025-07-26 06:07:38)
+(date: 2025-07-26 14:13:12)
 
 ---
 
@@ -58,6 +58,18 @@ date: 2025-07-25, from: INSIGHTS ON PBS HAWAIʻI
 <br> 
 
 <https://www.pbshawaii.org/getting-more-locally-grown-food-in-school-meals-insights-on-pbs-hawai%ca%bbi-2/>
+
+---
+
+## How to protect your home from hail damage before the next storm hits
+
+date: 2025-07-25, updated: 2025-07-25, from: Marianas Variety
+
+(BPT) - Smart, simple steps can help homeowners avoid expensive repairs this hail season. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/money_and_finance/how-to-protect-your-home-from-hail-damage-before-the-next-storm-hits/article_0f913153-3cff-5ad9-8b86-45fcab29f380.html>
 
 ---
 
@@ -292,6 +304,18 @@ date: 2025-07-25, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/moylan-seeks-guam-s-involvement-in-defense-infrastructure-planning>
+
+---
+
+## How to help your dog be happier at every stage of life
+
+date: 2025-07-25, updated: 2025-07-25, from: Marianas Variety
+
+(BPT) - If you've had the privilege to welcome a dog into your household, you know how much they mean to your family. To help your dog have a happy, healthy life, it's important to understand their needs — and how those needs change over time. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/pets/how-to-help-your-dog-be-happier-at-every-stage-of-life/article_1468f8c5-b8d3-5695-955a-dc671cec3327.html>
 
 ---
 

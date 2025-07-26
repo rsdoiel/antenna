@@ -1,20 +1,20 @@
 ---
 title: home
-updated: 2025-07-26 06:07:42
+updated: 2025-07-26 14:13:18
 ---
 
 # home
 
-(date: 2025-07-26 06:07:42)
+(date: 2025-07-26 14:13:18)
 
 ---
 
-## The Best Vegetables to Grow in a Fall Garden (Our Favorite Varieties)
+## The Best Fall Garden Vegetables to Grow (Our Favorite Varieties)
 
 date: 2025-07-25, from: Homestead and Chil
 
 <p>Do you want to grow a fall garden, but aren't sure what to plant? Come get inspired and discover the best vegetables to grow in fall - including our favorite varieties of leafy greens, carrots, cabbage, broccoli, beets and more!</p>
-<p>The post <a href="https://homesteadandchill.com/best-fall-garden-vegetables-varieties/">The Best Vegetables to Grow in a Fall Garden (Our Favorite Varieties)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+<p>The post <a href="https://homesteadandchill.com/best-fall-garden-vegetables-varieties/">The Best Fall Garden Vegetables to Grow (Our Favorite Varieties)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
  
 
 <br> 

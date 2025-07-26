@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-07-26 06:07:39
+updated: 2025-07-26 14:13:14
 ---
 
 # columns
 
-(date: 2025-07-26 06:07:39)
+(date: 2025-07-26 14:13:14)
 
 ---
 
@@ -305,7 +305,7 @@ A truth-challenged channel when we need it least
 
 ## Public Betas for Apple OSes 26
 
-date: 2025-07-24, updated: 2025-07-24, from: Daring Fireball
+date: 2025-07-24, updated: 2025-07-26, from: Daring Fireball
 
  
 
@@ -438,7 +438,7 @@ date: 2025-07-24, updated: 2025-07-24, from: Jason Kittke's blog
 
 ## ★ ICEBlock, an iOS Exclusive
 
-date: 2025-07-24, updated: 2025-07-24, from: Daring Fireball
+date: 2025-07-24, updated: 2025-07-26, from: Daring Fireball
 
 To maintain anonymity and store zero user data, there is and can be no web app version of ICEBlock. There is and can be no Android version. Only iOS supports the security and privacy features for ICEBlock to offer what it does, the way it does. 
 

@@ -1,11 +1,11 @@
 ---
 title: snapshots
-updated: 2025-07-26 06:07:45
+updated: 2025-07-26 14:13:23
 ---
 
 # snapshots
 
-(date: 2025-07-26 06:07:45)
+(date: 2025-07-26 14:13:23)
 
 ---
 
@@ -457,12 +457,12 @@ An error message appears saying "The following are not allowed: no zionist, no z
 
 ---
 
-## GPD Win 5 handheld gaming PC is powered by Ryzen AI Max+ 395 with Radeon 8060S graphics
+## GPD Win 5 handheld gaming PC supports up to Ryzen AI Max+ 395 with Radeon 8060S graphics
 
 date: 2025-07-24, from: Liliputing
 
 <p>AMD&#8217;s Ryzen AI Max+ 395 Strix Halo Processor features a 16-core, 32-thread CPU, an NPU that delivers up to 50 TOPS of AI performance, and Radeon 8060S integrated graphics with 40 RDNA 3.5 GPU compute units. It&#8217;s an iGPU with the kind of performance you&#8217;d expect from a mid-range discrete GPU. While the chip is [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-is-powered-by-ryzen-ai-max-395-with-radeon-8060s-graphics/">GPD Win 5 handheld gaming PC is powered by Ryzen AI Max+ 395 with Radeon 8060S graphics</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-is-powered-by-ryzen-ai-max-395-with-radeon-8060s-graphics/">GPD Win 5 handheld gaming PC supports up to Ryzen AI Max+ 395 with Radeon 8060S graphics</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 

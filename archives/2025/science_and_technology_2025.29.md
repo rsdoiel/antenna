@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-07-26 06:07:39
+updated: 2025-07-26 14:13:13
 ---
 
 # science and technology
 
-(date: 2025-07-26 06:07:39)
+(date: 2025-07-26 14:13:13)
 
 ---
 

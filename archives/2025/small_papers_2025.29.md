@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-07-26 06:07:44
+updated: 2025-07-26 14:13:21
 ---
 
 # small papers
 
-(date: 2025-07-26 06:07:44)
+(date: 2025-07-26 14:13:21)
 
 ---
 
@@ -79,7 +79,7 @@ The recent Catalina Community Cleanup had six volunteers (human), and one wonder
 
 date: 2025-07-25, from: Long Beach Post
 
-<figure><img width="980" height="551" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx.jpg 980w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="980" height="551" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx.jpg 980w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>If you've lived in Long Beach for any amount of time, you've probably come across a piece of art or music that Rhonda Love helped preserve or facilitate.</p>
 <p>The post <a href="https://lbpost.com/news/hi-lo/art/rhonda-love-obituary-death-cancer-dreamkreator">Rhonda Love, a force in the local arts scene and champion of VIP Records, dies at 58</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
