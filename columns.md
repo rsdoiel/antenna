@@ -1,11 +1,23 @@
 ---
 title: columns
-updated: 2025-07-25 14:09:15
+updated: 2025-07-26 06:07:39
 ---
 
 # columns
 
-(date: 2025-07-25 14:09:15)
+(date: 2025-07-26 06:07:39)
+
+---
+
+## The Talk Show: ‘The Shift-2 Crowd’
+
+date: 2025-07-25, updated: 2025-07-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/07/25/ep-427>
 
 ---
 
@@ -199,198 +211,6 @@ date: 2025-07-25, updated: 2025-07-24, from: Bruce Schneier blog
 
 ---
 
-## 2025-07-23 Testing a reset of the one week jail
-
-date: 2025-07-25, from: Alex Schroeder's Blog
-
-<h1 id="2025-07-23-testing-a-reset-of-the-one-week-jail">2025-07-23 Testing a reset of the one week jail</h1>
-
-<p>I&rsquo;ve had a number of people complaining about being banned and I&rsquo;ve been wondering whether I should reduce the ban-time for the escalation jail. Right now, if you&rsquo;ve been banned for 1h five times in a 24h period, you&rsquo;re banned for one week. What I f I reduced this one week to three days (&ldquo;one long weekend&rdquo;), for example?</p>
-
-<p>As a test, I wanted to reset all the one week bans and see whether load explodes or not. If most of the scraping has ceased, then perhaps there would be no problem?</p>
-
-<p>So around 10:30 local time, I made a backup of the weekly jail:</p>
-
-<pre><code># fail2ban-client get butlerian-jihad-week banned &gt; butlerian-jihad-week.json
-# sed s/\'/\&quot;/g &lt; butlerian-jihad-week.json | jq length
-2862
-# fail2ban-client get butlerian-jihad-week banned
-[]
-</code></pre>
-
-<p>The backup has 2862 entries, the jail is now empty.</p>
-
-<p>Let&rsquo;s watch Munin!</p>
-
-<p><img loading="lazy" src="2025-07-23-test-1.jpg" alt="The graph shows the one week jail pretty constant at nearly 3000 entries dropping to zero moments ago." /></p>
-
-<p>40 minutes later. What are you dooooing‽</p>
-
-<p><img loading="lazy" src="2025-07-23-test-2.jpg" alt="10 minutes after the reset, the 1h jail already has over 700 entries and in another 10 minutes, it has 850 entries." /></p>
-
-<p>And who&rsquo;s doing it?</p>
-
-<pre><code># asn-find (grep &quot;^2025-07-23 1.* \[butlerian-jihad\] Ban &quot; /var/log/fail2ban.log|cut -c 89-)\
-    | cut -f2-3 | sort | uniq
-16567	NETRIX-16567, US
-17035	NBCUNI-17035, US
-19855	MASERGY, US
-209366	SEMRUSH-AS, CY
-35485	MAILUP-SPA, IT
-39630	ASPTECH, GB
-7922	COMCAST-7922, US
-8069	MICROSOFT-CORP-MSN-AS-BLOCK, US
-8075	MICROSOFT-CORP-MSN-AS-BLOCK, US
-</code></pre>
-
-<p>The only obvious thing I can see is that Semrush and Microsoft are trying to crawl the site using their bots, one for their marketing and search engine optimisation and the other for their search engine itself. But remember: <a href="2023-10-04-search">2023-10-04 Search engines, the deal is off!</a>. I am no longer convinced that being listed by search engines is in my best interest.</p>
-
-<p><img loading="lazy" src="2025-07-23-test-3.jpg" alt="A few hours later, the scene appears unchanged. There are four waves of blocks, going up to between 1000 and 1500 banned entries and coming back down again." /></p>
-
-<p>If that&rsquo;s the image, then perhaps the long term punitive ban doesn&rsquo;t have to be that long.</p>
-
-<p>And what&rsquo;s the situation 24h later?</p>
-
-<p><img loading="lazy" src="2025-07-23-test-4.jpg" alt="The fifth wave generates entries in the one-week ban. But the cycles for the one-hour ban continues and so more entries keep getting added to the one-week ban." /></p>
-
-<p>And another day later:</p>
-
-<p><img loading="lazy" src="2025-07-23-test-5.jpg" alt="The situation has stabilised around 1400 blocked entries" /></p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
-
-<p><strong>2025-07-25</strong>. So now, two days after a reset, I&rsquo;d like to see who&rsquo;s hovering just below those limits I&rsquo;ve set. If they seem to be innocents, that would be an argument to raise the limits. If they seem to be bots, that would be an argument to lower the limits or, given that the system load is OK at the moment, to leave the limit as it is.</p>
-
-<p>Let&rsquo;s go through the various test.</p>
-
-<p>First, &ldquo;active autonomous systems&rdquo;. On a good day, the limit is 500 requests per autonomous system.</p>
-
-<pre><code># show-active-autonomous-systems --top 3
-count	percent	ASN	AS
-234	4.54	45102	ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
-172	3.33	208258	ACCESS2IT Access2.IT Network, NL
-158	3.06	12880	DCI-AS, IR
-total: 5158
-</code></pre>
-
-<p>Clearly, Alibaba is a bot hoster in China. What about Access2.IT in the Netherlands?</p>
-
-<pre><code># 2h-access-log | asn-access-log 208258 | log-request | rank-lines 
-    176 /
-</code></pre>
-
-<p>Clearly, that is also a bot. 2h is 120 minutes. This company is checking more than once per minute whether my sites are up. That angers me. They probably sell uptime data to other companies.</p>
-
-<p>What about the autonomous system from Iraq?</p>
-
-<pre><code># 2h-access-log | asn-access-log 12880 | log-request | rank-lines 
-    164 /
-</code></pre>
-
-<p>The same bullshit! 😲</p>
-
-<p>So my conclusion is that the limit could be lower! 😠</p>
-
-<p>Next, let&rsquo;s look at &ldquo;expensive end-points&rdquo;. These are the endpoints I&rsquo;m planning to <a href="https://oddmuse.org/wiki/2025-07-13_AI_Scrapers">do away with</a>, eventually.</p>
-
-<pre><code># 2h-access-log \
-    | egrep '\baction=(rss|rc)\&amp;|\bsearch=' \
-    | awk '{print $2}' \
-    | asncounter --top 3 --no-prefixes 2&gt;/dev/null
-count	percent	ASN	AS
-27	4.42	7922	COMCAST-7922, US
-11	1.8	6939	HURRICANE, US
-8	1.31	7713	TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
-total: 611
-</code></pre>
-
-<p>Comcast in the United States seems to request all sorts of things:</p>
-
-<pre><code># 2h-access-log | asn-access-log 7922 | log-request | rank-lines
-      7 /1pdc/2024/
-      4 /view/index.rss
-      4 /osr/feed.xml
-      4 /osr/atom.xml
-      3 /
-      2 /wiki/MontagInZ%C3%BCrich/Discord_Server
-      2 /wiki/feed/full/
-      2 /upload/?filename=2017-04-07_Worldbuilding-1.jpg
-      1 /zoom-frm.el
-      1 /zen?action=rss&amp;all=0&amp;days=90&amp;rcfilteronly=%22WikioStyle%22&amp;showedit=1
-</code></pre>
-
-<p>Note how only one of these requests is one of the &ldquo;forbidden&rdquo; URLs. But apparently it&rsquo;s also attempting to upload images! Looks like spiders, if you ask me.</p>
-
-<p>What about Hurricane in the United States?</p>
-
-<pre><code># 2h-access-log !^social | asn-access-log 6939 | log-user-agent | rank-lines
-     17 Feedly
-      8 Feedbin feed-id:1702619 - 1 subscribers
-      6 Feedbin feed-id:2621878 - 1 subscribers
-      6 Feedbin feed-id:1965060 - 1 subscribers
-      6 Feedbin feed-id:1482607 - 3 subscribers
-      6 Feedbin feed-id:1482606 - 1 subscribers
-      6 Feedbin feed-id:1244032 - 8 subscribers
-      4 Feedbin feed-id:2982258 - 1 subscribers
-      4 Feedbin feed-id:2584020 - 2 subscribers
-      4 Feedbin feed-id:1821891 - 1 subscribers
-</code></pre>
-
-<p>What the hell is wrong with these people? Do I really have these many interesting feeds?</p>
-
-<pre><code># 2h-access-log !^social | asn-access-log 6939 | log-request | rank-lines
-      9 /view/index.rss
-      8 /osr/feed.xml
-      6 /view/RPG.rss
-      5 /files/osr-discord.xml
-      4 /wiki/?action=journal;title=Roleplaying%20Games;full=1;search=tag:RPG
-      4 /view/index.rss?action=journal;title=Roleplaying%20Games;full=1;search=tag:RPG
-      4 /rpg/feed.xml
-      4 /podcast/hh.xml
-      3 /wiki/feed/full/RPG
-      3 /wiki/feed/full/Old_School
-</code></pre>
-
-<p>Maybe. 😬</p>
-
-<p>Four requests means one request every half hour, for every feed. I guess it makes sense.</p>
-
-<p>In any case, I seems that maybe these autonomous systems are hitting a lot of expensive end-points but in general, they are all focused on feed processing.</p>
-
-<p>The autonomous system from Indonesia looks even more like a bot but in addition to that it also goes through all the archives, for every single page:</p>
-
-<pre><code># 2h-access-log !^social | asn-access-log 7713 | log-request | rank-lines
-      1 /wiki/Older_Upgrading_Issues
-      1 /wiki/CategoryWiki
-      1 /wiki?action=rss&amp;all=1&amp;days=1&amp;full=1&amp;rcidonly=wiki_feeds&amp;showedit=0
-      1 /wiki?action=rss&amp;all=0&amp;days=7&amp;diff=1&amp;full=1&amp;rcidonly=CommentHabillerUnFilRss&amp;showedit=1
-      1 /wiki?action=rss&amp;all=0&amp;days=28&amp;rcidonly=2004-07-12&amp;showedit=0
-      1 /wiki?action=rc&amp;from=1749992400&amp;rcidonly=GermanXpCommunity&amp;showedit=1&amp;upto=1750597200
-      1 /wiki?action=rc&amp;all=1&amp;from=1750742594&amp;rcidonly=WikiToHTML&amp;upto=1751001794
-      1 /wiki?action=rc&amp;all=0&amp;days=28&amp;rcfilteronly=%22DifficultPerson%22&amp;showedit=0
-      1 /wiki?action=rc&amp;all=0&amp;days=14&amp;rcidonly=HoofSmith&amp;rollback=1&amp;showedit=0
-      1 /wiki?action=admin&amp;id=UserInterfaceValidator
-</code></pre>
-
-<p>Hopefully most of that will be fixed one the forms all change from GET to POST. 😬</p>
-
-<p>In any case, I don&rsquo;t feel like lifting this limit!</p>
-
-<p>The last instance involves banning all the autonomous systems that are hitting &ldquo;no bots&rdquo; warnings. The web server does this redirect for various requests, including all user agents containing the words &ldquo;bot&rdquo;, &ldquo;spider&rdquo;, &ldquo;crawl&rdquo; etc.</p>
-
-<p>I&rsquo;m going to change all my <code>robots.txt</code> files to the following:</p>
-
-<pre><code>User-agent: *
-Disallow: /
-DisallowAITraining: /
-</code></pre> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-07-23-test>
-
----
-
 ## The silencing 
 
 date: 2025-07-25, from: Robert Reich's blog
@@ -427,7 +247,7 @@ date: 2025-07-25, from: Geoffrey Hunntley's blog
                     <div class="kg-cta-content-inner">
                     
                         <div class="kg-cta-text">
-                            <p dir="ltr"><span style="white-space: pre-wrap;">Hello! If you are seeing this you are either early or currently attending my talk at DataEngBytes. Learning how to build an agent is one of the best things you can do for your personal development. Cursor, Windsurf, Claude Code and Ampcode.com are 300 lines of code running in</span></p></div></div></div></div> 
+                            <p><span style="white-space: pre-wrap;">Hello! If you are seeing this you are either early or currently attending my talk at DataEngBytes. Learning how to build an agent is one of the best things you can do for your personal development. Cursor, Windsurf, Claude Code and Ampcode.com are 300 lines of code running in</span></p></div></div></div></div> 
 
 <br> 
 
@@ -837,7 +657,7 @@ You can <a href="https://imgs.scripting.com/2025/07/24/postscreenshot.png">see</
 
 ## How Solid Protocol Restores Digital Agency
 
-date: 2025-07-24, updated: 2025-07-23, from: Bruce Schneier blog
+date: 2025-07-24, updated: 2025-07-26, from: Bruce Schneier blog
 
 <p>The current state of digital identity is a mess. Your personal information is scattered across hundreds of locations: social media companies, IoT companies, government agencies, websites you have accounts on, and data brokers you&#8217;ve never heard of. These entities collect, store, and trade your data, often without your knowledge or consent. It&#8217;s both redundant and inconsistent. You have hundreds, maybe thousands, of fragmented digital profiles that often contain contradictory or logically impossible information. Each serves its own purpose, yet there is no central override and control to serve you&#8212;as the identity owner...</p> 
 
@@ -2372,4 +2192,152 @@ There are certain sweet-smelling, sugarcoated lies current in the world which al
 <br> 
 
 <https://om.co/2025/07/19/07-19-2025-the-weekend-edition/>
+
+---
+
+## What We Know, and Don't, About the Air India Crash.
+
+date: 2025-07-19, from: James Fallows, Substack
+
+Several alarming possibilities have receded. One that's alarming in a different way has emerged. A guide to what investigators have learned, and what news the flying public should pay attention to. 
+
+<br> 
+
+<https://fallows.substack.com/p/what-we-know-and-dont-about-the-air>
+
+---
+
+## July 18, 2025
+
+date: 2025-07-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168738896/ab533114f60a2e313450ff84d975eb6d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168738896/ab533114f60a2e313450ff84d975eb6d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-18-2025-bc2>
+
+---
+
+## Myke Hurley Interviews Yours Truly for the Cortex ‘State of the Workflow’ Series
+
+date: 2025-07-19, updated: 2025-07-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theenthusiast.net/john-gruber-state-of-the-workflow/>
+
+---
+
+## Puck: ‘Was Colbert’s Cancellation Really “Economic” for CBS?’
+
+date: 2025-07-19, updated: 2025-07-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://puck.news/was-colberts-cancellation-really-economic-for-cbs/?sharer=167184&token=9a8ea7a6fea9e13d6d23eaf8102f68d3>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-19, from: Dave Winer's Scripting News)
+
+The nice thing about a blogroll is that it can become a feed reader, in a very small space. It's been on my blog <a href="http://scripting.com/">home page</a> for over a year, and I use it a lot, largely because I have to go to that page a lot to see how something I've written looks. Then I see that one of my favorite sites has updated, and I take a <a href="https://imgs.scripting.com/2025/07/19/blogrollscreen.png">quick look</a> to see what's new. The way it works, from a technical standpoint, is that it's hooked into a FeedLand instance where I have created a category called <i>blogroll,</i> and put all the feeds I want in my blogroll in that category. All I have to do to add a new one is subscribe to it in <a href="https://feedland.com/">FeedLand</a>, and click the blogroll <a href="https://imgs.scripting.com/2025/07/19/cats.png">checkbox</a>. Another developer wrote a <a href="https://mastodon.social/@susam/114805652395205268">post</a> about using their blogroll as a feed reader, and I wanted to put my hand up and say yes -- this is a good idea. People should do this. I like it because it's real innovation in feed reading, something that imho has been lacking in the feed world. Lots more potential here. And you're welcome to use my blogroll as your feed reader. I have put it on its own page but it's at a confusing <a href="https://blogroll.social/">location</a>. Something to fix, maybe later today if I have some time or tomorrow. :-) 
+
+<br> 
+
+<http://scripting.com/2025/07/19.html#a132356>
+
+---
+
+## 
+                Notes on Wayland + QEMU + old OS’s
+            
+
+date: 2025-07-19, updated: 2025-07-19, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-19/0/POSTING-en.html>
+
+---
+
+## Epstein's Ghost | The Coffee Klatch for July 19, 2025
+
+date: 2025-07-19, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168676514/07de0618607728a3d688f4ee68b1a0cb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168676514/07de0618607728a3d688f4ee68b1a0cb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/epsteins-ghost-the-coffee-klatch>
+
+---
+
+## July 18, 2025 
+
+date: 2025-07-19, from: Heather Cox Richardson blog
+
+[There is a lot about sexual assault in tonight&#8217;s letter.] 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-18-2025>
+
+---
+
+## Introducing XMLUI
+
+date: 2025-07-19, from: Jonudell blog
+
+In the mid-1990s you could create useful software without being an ace coder. You had Visual Basic, you had a rich ecosystem of components, you could wire them together to create apps, standing on the shoulders of the coders who built those components. If you&#8217;re younger than 45 you may not know what that was &#8230; <a href="https://blog.jonudell.net/2025/07/18/introducing-xmlui/" class="more-link">Continue reading <span class="screen-reader-text">Introducing XMLUI</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2025/07/18/introducing-xmlui/>
+
+---
+
+## Weeknotes: July 12-18, 2025
+
+date: 2025-07-19, from: Tracy Durnell Blog
+
+Win of the week: our new shades got installed &#8212; and right before our first 90 degree day! they seem to be making a difference 🦾 Looking forward to: I bought a giant flat of mixed berries on Wednesday and am trying to get through them all before they go bad! May involve baked goods 😋🍓🫐 [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/18/weeknotes-july-12-18-2025/>
+
+---
+
+## this should not be possible
+
+date: 2025-07-19, from: Geoffrey Hunntley's blog
+
+<p>It might surprise some folks, but I&apos;m incredibly cynical when it comes to AI and what is possible; yet I keep an open mind. That said, two weeks ago, when I was in SFO, I discovered another thing that should not be possible.  Every time I find out</p> 
+
+<br> 
+
+<https://ghuntley.com/no/>
+
+---
+
+## ChatGPT Agent
+
+date: 2025-07-19, updated: 2025-07-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://openai.com/index/introducing-chatgpt-agent/>
 

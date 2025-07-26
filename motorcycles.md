@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-07-25 14:09:19
+updated: 2025-07-26 06:07:42
 ---
 
 # motorcycles
 
-(date: 2025-07-25 14:09:19)
+(date: 2025-07-26 06:07:42)
 
 ---
 
@@ -427,4 +427,16 @@ It’s a big deal. So big, in fact, that it deleted all of its previous Instagra
 <br> 
 
 <https://www.rideapart.com/news/766273/norton-teaser-new-motorcycle-social-media/>
+
+---
+
+## Ontario Honda Dealers Indy Toronto Preview: Herta on pole, tire wear raises questions
+
+date: 2025-07-19, from: Kickin the Tires blog
+
+By Austin Lawton, Staff Writer A bumpy track, wild tire wear and fast Andretti Global cars set the stage for Sunday’s Ontario Honda Dealers Indy Toronto.&#160; The IndyCar series returns&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/ontario-honda-dealers-indy-toronto-preview-herta-on-pole-tire-wear-raises-questions/>
 

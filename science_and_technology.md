@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2025-07-25 14:09:14
+updated: 2025-07-26 06:07:39
 ---
 
 # science and technology
 
-(date: 2025-07-25 14:09:14)
+(date: 2025-07-26 06:07:39)
+
+---
+
+## FreeBSD installer to get Lua scripting support; proof-of-concept graphical installer shown off
+
+date: 2025-07-25, from: OS News
+
+Becoming friendlier to desktop users is one of the goals of the FreeBSD project at the moment, as we recently saw with the new ability to install a full KDE Plasma desktop environment during FreeBSD&#8217;s initial installation. This is just one small piece of a larger effort, though, to improve, modernise, and possibly even replace the current FreeBSD installer entirely. As such, Pierre Pronchery, a Security Engineer for the FreeBSD Foundation and member of their team as a Userland Software Developer, published a blog post today with more information around this effort. The article goes into great detail to compare the installation procedures of other operating systems to that of FreeBSD, and the conclusion is that FreeBSD is lagging behind in quite a few areas. Among other shortcomings, the FreeBSD installer has no support for different languages, very little accessibility features, no niceties like progress bars or lists of steps, and most notably, no graphical mode. Some of these are already being addressed. The current FreeBSD installer (a combination of bsddialog, bsdconfig, and bsdinstall) consists of a number of shell scripts with some small C programs here and there, and the downside of this is that this is really only suitable for creating very basic steps and user interfaces. As an example, Pronchery mentions values during network setup, like network mask, DNS server or gateway, can&#8217;t be prepopulated with the most likely values, which puts quite a burden on the user. This specific issue is being worked on by one of the original creators of bsddialog, and the solution they settled on is adding Lua scripting, which would give developers an avenue to fix some of these shortcomings. As far as a possible graphical installer goes, Pronchery looked at the various options out there, both from the Linux world and the few graphical installers that exist for a few desktop-oriented FreeBSD distributions, but for a variety of reasons, none of them proved to be particularly suitable for FreeBSD. As such, Pronchery created a quick proof-of-concept for a graphical installer by implementing bsddialog as a GTK+ application which he calls gbsddialog. It&#8217;s important to note that this proof-of-concept is not suitable for FreeBSD, as GTK+ is licensed under the LGPL, but it does illustrate that by &#8220;simply&#8221; reimplenting bsddialog using a graphical toolkit, you can get quite a long way to a usable FreeBSD installer that mimics the traditional installer quite well. The article covers a number of other topics, such as setting up a development environment to make it more straightforward and easier to work on the FreeBSD installer, as well as various steps that need to be taken to improve the accessibility of the installer. It concludes with a mention of the possibility of a complete rewrite of the installer, but such decisions are of course not made by a single person and require a lot more discussion and input. Regardless, the amount of work being done to improve FreeBSD for generic desktop use is exciting, as we need a viable, competitive alternative to that other open source desktop operating system. 
+
+<br> 
+
+<https://www.osnews.com/story/142902/freebsd-installer-to-get-lua-scripting-support-proof-of-concept-graphical-installer-shown-off/>
+
+---
+
+## Intel to throw networking biz over the side of its rapidly shrinking ship
+
+date: 2025-07-25, updated: 2025-07-25, from: The Register (UK I.T. News)
+
+<h4>Chipzilla hopes it can pull an Altera with its NEX division, and is now looking for buyers</h4> <p>Intel isn&#39;t just laying off employees and closing plants in a bid to cut costs – it&#39;s also reportedly planning to get rid of its entire Network and Edge Group (NEX) to help right the ship. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/25/intel_not_done_shedding_now/>
 
 ---
 
@@ -2202,4 +2226,28 @@ date: 2025-07-20, updated: 2025-07-20, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/20/uk_microsoft_snooping_russia/>
+
+---
+
+## China proves that open models are more effective than all the GPUs in the world
+
+date: 2025-07-19, updated: 2025-07-19, from: The Register (UK I.T. News)
+
+<h4>OpenAI delayed its promised open-weights model since GPT-2, leaving the Middle Kingdom clearly in the lead</h4> <p><strong>Comment</strong>  OpenAI was supposed to make good on its name and release its first open-weights model since GPT-2 this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/19/openai_us_china/>
+
+---
+
+## Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days
+
+date: 2025-07-19, updated: 2025-07-19, from: The Register (UK I.T. News)
+
+<h4>Keep It Simple, Stupid</h4> <p><strong>Interview</strong>  Scattered Spider and Iranian government-backed cyber units have more in common than a recent uptick in hacking activity, according to Ariel Parnes, a former colonel in the Israeli Defense Forces&#39; cyber unit 8200.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/>
 

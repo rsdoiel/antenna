@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-07-25 14:09:11
+updated: 2025-07-26 06:07:37
 ---
 
 # north america
 
-(date: 2025-07-25 14:09:11)
+(date: 2025-07-26 06:07:37)
+
+---
+
+##  Protecting The Federal Reserve’s Independence 
+
+date: 2025-07-25, from: The Lever News
+
+ Exclusively for premium subscribers, listen to David Sirota’s full conversation with Nathan Tankus about the fate of the Federal Reserve.  
+
+<br> 
+
+<https://www.levernews.com/protecting-the-federal-reserves-independence/>
+
+---
+
+##  Why We Need The People’s Federal Reserve 
+
+date: 2025-07-25, from: The Lever News
+
+ Exclusively for premium subscribers, listen to David Sirota’s full conversation with Matt Stoller about the fate of the Federal Reserve.  
+
+<br> 
+
+<https://www.levernews.com/why-we-need-the-peoples-federal-reserve/>
+
+---
+
+## Evening Roundup, July 25
+
+date: 2025-07-25, from: The Contrarian
+
+Featuring E. Jean Carroll & Jen Rubin, Carron J. Phillips, Larry Levitt, Marvin Kalb, Meredith Blake, Frederic J. Frommer, Marissa Rothkopf, Pet of the Week, The Deplorable & The Contrarian podcast! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-25>
+
+---
+
+## Emil Bove is Deplorable
+
+date: 2025-07-25, from: The Contrarian
+
+&#8220;I defer to the executive branch,&#8221; said Emil Bove. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169267422/fcd3500058e19dbeef361a6ced0187aa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169267422/fcd3500058e19dbeef361a6ced0187aa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/emil-bove-is-deplorable>
+
+---
+
+## Facing a ‘Federal Occupation’: An Interview with Councilmember Ysabel Jurado
+
+date: 2025-07-25, from: Capital and Main
+
+<p>The L.A. City Councilmember and daughter of undocumented immigrants speaks about immigration raids and recent LAPD activity.  </p>
+<p>The post <a href="https://capitalandmain.com/facing-a-federal-occupation-an-interview-with-councilmember-ysabel-jurado">Facing a ‘Federal Occupation’: An Interview with Councilmember Ysabel Jurado</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/facing-a-federal-occupation-an-interview-with-councilmember-ysabel-jurado>
+
+---
+
+## The Epstein files, with E. Jean Carroll, Rep. Jamie Raskin & Tom Joscelyn
+
+date: 2025-07-25, from: The Contrarian
+
+Listen now | Will the Epstein conspiracy be MAGA's tipping point? 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169265429/3e7fe2d4797c8cbee7e23da2cbd4c2c3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169265429/3e7fe2d4797c8cbee7e23da2cbd4c2c3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-epstein-files-with-e-jean-carroll>
+
+---
+
+## Trump and The Epstein Files
+
+date: 2025-07-25, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-and-the-epstein-files>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-07-25, from: The Contrarian
+
+Meet Stripey! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-a17>
+
+---
+
+## Peach Galette with Ginger Frangipane
+
+date: 2025-07-25, from: The Contrarian
+
+These one-crust free-form tarts have a chic look that belies their simplicity. 
+
+<br> 
+
+<https://contrarian.substack.com/p/peach-galette-with-ginger-frangipane>
 
 ---
 
@@ -794,4 +908,42 @@ date: 2025-07-20, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-buckle-up-america/>
+
+---
+
+##  YOU LOVE TO SEE IT: Breaking The ICE 
+
+date: 2025-07-19, from: The Lever News
+
+ States stand up to ICE, a class act in the Garden State, wildlife crossings get a boost, and an agency backtracks on DOGE cuts.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-breaking-the-ice/>
+
+---
+
+## Reasons for hope in American democracy…millions of them!
+
+date: 2025-07-19, from: The Contrarian
+
+Publisher's Roundup 27 
+
+<br> 
+
+<https://contrarian.substack.com/p/reasons-for-hope-in-american-democracymillions>
+
+---
+
+## The attack on education with Randi Weingarten & Arne Duncan 
+
+date: 2025-07-19, from: The Contrarian
+
+Listen now | American Federation of Teachers President Randi Weingarten and former Secretary of Education Arne Duncan 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168675442/bb0e532d3acbf4bdcac90300d524ef9f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/168675442/bb0e532d3acbf4bdcac90300d524ef9f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-attack-on-education-with-randi>
 

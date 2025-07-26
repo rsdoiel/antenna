@@ -1,11 +1,116 @@
 ---
 title: small papers
-updated: 2025-07-25 14:09:21
+updated: 2025-07-26 06:07:44
 ---
 
 # small papers
 
-(date: 2025-07-25 14:09:21)
+(date: 2025-07-26 06:07:44)
+
+---
+
+## Sen. Padilla Introduces Legislation for Immigration Reform
+
+date: 2025-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8253-2048x1365-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Amid weeks of federal immigration enforcement activity in the Southland, United States Sen. Alex Padilla, D-Calif., today announced legislation intended to expand existing pathways for immigrants [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/25/sen-padilla-introduces-legislation-for-immigration-reform/">Sen. Padilla Introduces Legislation for Immigration Reform</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/25/sen-padilla-introduces-legislation-for-immigration-reform/>
+
+---
+
+## Southwest Flight from Burbank Forced to Dive to Avoid Collision
+
+date: 2025-07-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="239" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/burbank-airport-e1753486121240.jpg?fit=1024%2C239&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/burbank-airport-e1753486121240.jpg?fit=1024%2C239&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/burbank-airport-e1753486121240.jpg?fit=1024%2C239&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>BURBANK (CNS) &#8211; A Southwest Airlines flight that departed Hollywood Burbank Airport today was forced to perform a pair of collision-avoidance maneuvers after the pilot received two &#8220;traffic alerts,&#8221; and [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/25/southwest-flight-from-burbank-forced-to-dive-to-avoid-collision/">Southwest Flight from Burbank Forced to Dive to Avoid Collision</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/25/southwest-flight-from-burbank-forced-to-dive-to-avoid-collision/>
+
+---
+
+## Artists make a second excursion to Catalina
+
+date: 2025-07-25, from: Catalina Islander
+
+A second group of artists gathered on Catalina Island recently to put their artistic skills to work on capturing the beauty of Catalina Island. The group’s visit was a joint venture spearheaded by artist Kymberlee Stanley and members of the Southern California Plein Air Painters Association (SOCALPAPA) a group that was formed about 24 years [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/artists-make-a-second-excursion-to-catalina/>
+
+---
+
+## Catalina Senator to host immigration Townhall
+
+date: 2025-07-25, from: Catalina Islander
+
+The community is invited to a virtual ‘Know Your Rights’ webinar, hosted in partnership with the Immigrant Legal Resource Center (ILRC). This session will help individuals, families, and employers understand their rights and how to exercise them. We’ll explore how community members and allies can support and educate others, including key information from the Attorney [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-senator-to-host-immigration-townhall/>
+
+---
+
+## Community Cleanup Crew
+
+date: 2025-07-25, from: Catalina Islander
+
+The recent Catalina Community Cleanup had six volunteers (human), and one wonderful pup. The group managed to collected 67 lbs. of trash and debris from the Avalon area. Next event will be hosted in partnership with Tidy Seas on the morning of Monday, July 28 at 9 a.m. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/community-cleanup-crew/>
+
+---
+
+## Rhonda Love, a force in the local arts scene and champion of VIP Records, dies at 58
+
+date: 2025-07-25, from: Long Beach Post
+
+<figure><img width="980" height="551" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx.jpg 980w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-768x432.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25141129/soa-2025-website-header-2-1-980x551-866976-zhquxdm2-849257-kRLGkfXx-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>If you've lived in Long Beach for any amount of time, you've probably come across a piece of art or music that Rhonda Love helped preserve or facilitate.</p>
+<p>The post <a href="https://lbpost.com/news/hi-lo/art/rhonda-love-obituary-death-cancer-dreamkreator">Rhonda Love, a force in the local arts scene and champion of VIP Records, dies at 58</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/hi-lo/art/rhonda-love-obituary-death-cancer-dreamkreator>
+
+---
+
+## Fishing Derby Winners for July 23
+
+date: 2025-07-25, from: Catalina Islander
+
+A total of 42 kids from Avalon, Washington State, and San Diego joined us for our sixth fishing derby of the season on Wednesday. 10 and under most fish Caught 1st &#8211;&#160; 7 yr. old Austin Costamesa- 20 fish 2nd &#8211; 9 yr. old Easton Bravo &#8211; 19 fish 3rd &#8211; 6 yr. old Claire [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/fishing-derby-winners-for-july-23/>
+
+---
+
+## Dinner with Elvis returns
+
+date: 2025-07-25, from: Catalina Islander
+
+Catalina Museum for Art &#38; History invites guests to dust off their blue suede shoes for a night of nostalgia, music and fun at Dinner with Elvis, taking place Friday, August 1 from 6 to 9 p.m. in the museum’s Schreiner Family Plaza. A favorite summer tradition on Catalina Island, the evening features a lively [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/dinner-with-elvis-returns/>
 
 ---
 
@@ -13,7 +118,7 @@ updated: 2025-07-25 14:09:21
 
 date: 2025-07-25, from: Long Beach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He’s accused of sexually assaulting a teenage girl off campus, according to police.</p>
 <p>The post <a href="https://lbpost.com/news/crime/cabrillo-baseball-coach-arrested-statutory-rape">Cabrillo High School baseball coach arrested on suspicion of statutory rape</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +133,7 @@ date: 2025-07-25, from: Long Beach Post
 
 date: 2025-07-25, from: Long Beach Post
 
-<figure><img width="1024" height="702" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A man walks on a train platform." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-300x206.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1024x702.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-768x526.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-158x108.jpg 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1536x1053.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-2048x1404.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1200x822.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1568x1075.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-400x274.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="702" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A man walks on a train platform." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-scaled.jpg 2560w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-300x206.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1024x702.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-768x526.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-158x108.jpg 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1536x1053.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-2048x1404.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1200x822.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-1568x1075.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/27151458/METRO-PLATFORM_9742-400x274.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The extension is part of Metro's program to expand transit ahead of the 2028 Olympic and Paralympic Games.</p>
 <p>The post <a href="https://lbpost.com/news/business/trade-transportation/metro-a-line-extension-will-connect-long-beach-to-pomona-starting-in-september">Metro A Line extension will connect Long Beach to Pomona starting in September</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -163,7 +268,7 @@ date: 2025-07-24, from: Long Beach Post
 
 date: 2025-07-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="811" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?fit=1024%2C811&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=300%2C238&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=1024%2C811&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=768%2C608&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=1536%2C1216&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=1200%2C950&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=780%2C618&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=400%2C317&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=706%2C559&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?fit=1024%2C811&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="811" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?fit=1024%2C811&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=300%2C238&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=1024%2C811&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=768%2C608&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=1536%2C1216&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=1200%2C950&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=780%2C618&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=400%2C317&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?resize=706%2C559&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/IMG_8728-scaled-e1753330743390.jpeg?fit=1024%2C811&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Un año después de que la pareja de San Fernando Yadira y Marcos Caamal resultaran fatalmente heridos en una colisión de dos autos, sus familiares siguen buscando justicia por sus [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/07/23/un-ano-despues-de-un-accidente-mortal-una-familia-de-san-fernando-continua-buscando-justicia/">Un Año Después de un Accidente Mortal, una Familia de San Fernando Continúa Buscando Justicia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -512,4 +617,48 @@ date: 2025-07-20, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says>
+
+---
+
+## Man arrested for allegedly shooting into group of women; nobody hurt, police say
+
+date: 2025-07-19, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 24-year-old man was arrested on suspicion of assault with a deadly weapon and carrying a loaded firearm in a public place.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say">Man arrested for allegedly shooting into group of women; nobody hurt, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say>
+
+---
+
+## Activists: ICE Agents Relocate Woman to Another Hospital Without Explanation
+
+date: 2025-07-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p> LOS ANGELES (CNS) &#8211; A 36-year-old woman who was removed from a hospital in Glendale has apparently been relocated to an Anaheim facility without explanation, according to advocates on her [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/19/activists-ice-agents-relocate-woman-to-another-hospital-without-explanation/">Activists: ICE Agents Relocate Woman to Another Hospital Without Explanation</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/19/activists-ice-agents-relocate-woman-to-another-hospital-without-explanation/>
+
+---
+
+## In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach
+
+date: 2025-07-19, from: Long Beach Post
+
+<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The local company has amassed 1,000 workers at its 189,00-square-foot campus where it aims to build a new generation of space station by 2030.</p>
+<p>The post <a href="https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach">In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach>
 

@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-07-25 14:09:20
+updated: 2025-07-26 06:07:43
 ---
 
 # going electric
 
-(date: 2025-07-25 14:09:20)
+(date: 2025-07-26 06:07:43)
 
 ---
 
@@ -46,6 +46,10 @@ date: 2025-07-25, from: Electrek Feed
 date: 2025-07-25, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s disturbing earnings, a new self-driving challenge, solid-state batteries, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Electrek_395.mp3"></audio></figure>
 
 
 
@@ -1733,4 +1737,116 @@ date: 2025-07-20, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/07/20/if-you-think-electric-bikes-are-bad-theres-a-much-bigger-menace-hitting-our-roads/>
+
+---
+
+## The Dodge Neon deserves a comeback – and Stellantis could do it tomorrow
+
+date: 2025-07-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/neon.png?w=1600" /></div><p>The first all-new compact Mopar since the malaise-era K-Car, the Dodge Neon was a revelation. Its fun, approachable face, its “Hi.” marketing campaign, all of it was pitch-perfect for the uncertain times it was launched into. Now, a generation later, Stellantis faces similarly uncertain times – and a new Neon could go a long way towards helping the old Chrysler Co. do what it does best: <strong>come back from the brink</strong>.</p>
+
+
+
+<p>If they wanted to, Stellantis could make it happen tomorrow.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="concept-car,stellantis" data-layer-viewtype="unknown" data-post-id="425828" href="https://electrek.co/2025/07/19/the-dodge-neon-deserves-a-comeback-and-stellantis-could-do-it-tomorrow/#more-425828" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/19/the-dodge-neon-deserves-a-comeback-and-stellantis-could-do-it-tomorrow/>
+
+---
+
+## Does Faraday’s FX Super One show us how Chinese EVs will get into the US?
+
+date: 2025-07-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/faradaygreatwallsidebyside.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Faraday Future unveiled its upcoming <a href="https://electrek.co/2025/07/17/faraday-future-unveils-fx-super-one-an-ev-minivan-with-a-funny-f-a-c-e/">FX Super One MPV</a> on Thursday, which appears to be a rebadged Great Wall Motors Way Gaoshan.</p>
+
+
+
+<p>Which brings us to the question: is this how we might see more Chinese EVs make their way to the US?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="425608" href="https://electrek.co/2025/07/19/is-faradays-fx-super-one-going-to-be-the-way-chinese-evs-get-into-the-us/#more-425608" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/19/is-faradays-fx-super-one-going-to-be-the-way-chinese-evs-get-into-the-us/>
+
+---
+
+## Review: The tech-forward Meepo Go electric skateboard is a smooth, speedy ride for all [Video]
+
+date: 2025-07-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Meepo-skateboard-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Scooter here, back with another electric mobility review. This time, I tested out the <a href="https://tidd.ly/46MAdV2" target="_blank" rel="noreferrer noopener">Meepo Go</a> electric skateboard. It is a sturdy, smooth deck designed for riders of all sizes, with some unique tech I had never encountered before. Be sure to check out my full video review below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-skateboard,meepo,review" data-layer-viewtype="unknown" data-post-id="424930" href="https://electrek.co/2025/07/19/review-meepo-go-electric-skateboard-smooth-speedy-ride/#more-424930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/19/review-meepo-go-electric-skateboard-smooth-speedy-ride/>
+
+---
+
+## 2025 Can-Am Origin test ride: a rugged, high-tech return to two-wheel fun
+
+date: 2025-07-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/can-am-origin.webp?w=1600" /></div><p>The 2025 Can-Am Origin electric motorcycle is the pinnacle of fun, just as long as your good time can fit into 69 miles of riding between charges. What it lacks in long-distance range, it makes up for in versatility, rugged style, and instant torque that’s ready for the road and trail. Each twist of the throttle delivers immediate electric propulsion. Its futuristic design and stealthy motor hum make the Origin a dual-sport machine pulled from tomorrow that wonderfully celebrates Can-Am’s two-wheeled heritage of decades past. I also spent some time on the road with the more approachable Can-Am Pulse, a standard street bike with a slight range advantage.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="can-am,can-am-origin,can-am-pulse,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="418143" href="https://electrek.co/2025/07/19/can-am-origin-pulse-electric-motorcycles-review/#more-418143" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/19/can-am-origin-pulse-electric-motorcycles-review/>
+
+---
+
+## This $2,400 eight-wheeled dump truck from China is the toy every man needs
+
+date: 2025-07-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Octo-dumper-alibaba-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There’s something about the joy of playing around with Tonka trucks in a sandbox that men really never grow out of. Sure, we grow up, get real jobs, and most of us never take the toys back out of the dusty, long-forgotten box. But the <em>desire</em> is still there. And if you gave just about any former boy and reluctant adult the option, I’d be dollars to donuts they’d gladly play around with the life-sized version of their childhood construction toys in a heartbeat. </p>
+
+
+
+<p>If that sounds like fun, then I’ve got good news for you. I just found the coolest grown-up toy construction vehicle and it’s unlike anything you’ve seen before. I’d argue that it slots in nicely as a perfect example of some of the coolest and weirdest things you can find from China’s endless supply of innovative EVs. So, for your viewing pleasure, I submit this week’s <a href="https://electrek.co/guides/alibaba/">Awesomely Weird Alibaba Electric Vehicle of the Week</a>: the Octo-dumper!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="425816" href="https://electrek.co/2025/07/19/this-2400-eight-wheeled-dump-truck-from-china-is-the-toy-every-man-needs/#more-425816" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/19/this-2400-eight-wheeled-dump-truck-from-china-is-the-toy-every-man-needs/>
+
+---
+
+## It’s true: High-performance electric motorcycle brand Energica is back
+
+date: 2025-07-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/energica-experia-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Italian electric motorcycle manufacturer Energica has just been handed a lifeline. Previously owned by US company Ideanomics, the famed motorcycle brand entered insolvency <a href="https://electrek.co/2024/10/16/major-electric-motorcycle-maker-energica-files-for-bankruptcy/">late last year after a period of financial duress prevented it from making</a> payroll and continuing production.</p>
+
+
+
+<p>Now, a new group of investors from Singapore has stepped in to take over.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,energica" data-layer-viewtype="unknown" data-post-id="425823" href="https://electrek.co/2025/07/19/its-true-high-performance-electric-motorcycle-brand-energica-is-back/#more-425823" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/19/its-true-high-performance-electric-motorcycle-brand-energica-is-back/>
 

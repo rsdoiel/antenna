@@ -1,11 +1,43 @@
 ---
 title: snapshots
-updated: 2025-07-25 14:09:23
+updated: 2025-07-26 06:07:45
 ---
 
 # snapshots
 
-(date: 2025-07-25 14:09:23)
+(date: 2025-07-26 06:07:45)
+
+---
+
+## Qwen3-235B-A22B-Thinking-2507
+
+date: 2025-07-25, updated: 2025-07-25, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507">Qwen3-235B-A22B-Thinking-2507</a></strong></p>
+The third Qwen model release week, following <a href="https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/">Qwen3-235B-A22B-Instruct-2507</a> on Monday 21st and <a href="https://simonwillison.net/2025/Jul/22/qwen3-coder/">Qwen3-Coder-480B-A35B-Instruct</a> on Tuesday 22nd.</p>
+<p>Those two were both non-reasoning models - a change from the previous models in the Qwen 3 family which combined reasoning and non-reasoning in the same model, controlled by <code>/think</code> and <code>/no_think</code> tokens.</p>
+<p>Today's model, Qwen3-235B-A22B-Thinking-2507 (also released as an <a href="https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507-FP8">FP8 variant</a>), is their new thinking variant.</p>
+<p>Qwen claim "state-of-the-art results among open-source thinking models" and have increased the context length to 262,144 tokens - a big jump from April's <a href="https://huggingface.co/Qwen/Qwen3-235B-A22B">Qwen3-235B-A22B</a> which was "32,768 natively and 131,072 tokens with YaRN".</p>
+<p>Their own published benchmarks show comparable scores to DeepSeek-R1-0528, OpenAI's o3 and o4-mini, Gemini 2.5 Pro and Claude Opus 4 in thinking mode.</p>
+<p>The new model is already <a href="https://openrouter.ai/qwen/qwen3-235b-a22b-thinking-2507">available via OpenRouter</a>.</p>
+<p>But how good is <a href="https://simonwillison.net/tags/pelican-on-a-bicycle/">its pelican</a>?</p>
+<p>I tried it with "Generate an SVG of a pelican riding a bicycle" via OpenRouter, and it thought for 166 seconds - nearly three minutes! I have <em>never</em> seen a model think for that long. No wonder the documentation includes the following:</p>
+<blockquote>
+<p>However, since the model may require longer token sequences for reasoning, we strongly recommend using a context length greater than 131,072 when possible.</p>
+</blockquote>
+<p>Here's <a href="https://gist.github.com/simonw/057170c1d1e0843ca7e9547962d0c23e">a copy of that thinking trace</a>. It was really fun to scan through:</p>
+<p><img alt="Qwen3 235B A22B Thinking 2507 Seat at (200,200). The pelican's body will be: - The main body: a rounded shape starting at (200,200) and going to about (250, 250) [but note: the pelican is sitting, so the body might be more upright?] - Head: at (200, 180) [above the seat] and the beak extending forward to (280, 180) or so. We'll design the pelican as: - Head: a circle at (180, 170) with radius 15. - Beak: a long triangle from (180,170) to (250,170) and then down to (250,180) and back? Actually, the beak is a long flat-bottomed triangle." src="https://static.simonwillison.net/static/2025/qwen-details.jpg" /></p>
+<p>The <a href="https://gist.github.com/simonw/f013772544fabba02fca9e28fd54cdee">finished pelican</a>? Not so great! I like the beak though:</p>
+<p><img alt="Description by Claude Sonnet 4: Minimalist flat illustration featuring a white bird character with orange beak, a purple rectangular tablet or device, gray cloud-like shapes, two black &quot;T&quot; letters, colorful geometric elements including orange and teal triangular shapes, scattered orange and green dots across a light background, and a thin black line at the bottom" src="https://static.simonwillison.net/static/2025/qwen-thinking-pelican.png" />
+
+    <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1948688466386280706">@Alibaba_Qwen</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/25/qwen3-235b-a22b-thinking-2507/#atom-everything>
 
 ---
 
@@ -131,12 +163,12 @@ date: 2025-07-25, from: Prof. Scott Galloway, No Mercy/No Malace blog
 
 ---
 
-## Maxell MCXP-P100S is another modern portable cassette player, this time with a speaker
+## Maxell MXCP-P100S is another modern portable cassette player, this time with a speaker
 
 date: 2025-07-25, from: Liliputing
 
 <p>Last month Maxell introduced a new portable cassette player for the Japanese market that combines retro features (it&#8217;s&#8230; a portable tape cassette player) with modern touches (like a rechargeable battery, USB-C port, and Bluetooth audio support). Now the company has added another model to the lineup. The new Maxell MXCP-P100S has all the features of the previously-announced [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/maxell-mcxp-p100s-is-another-modern-portable-cassette-player-this-time-with-a-speaker/">Maxell MCXP-P100S is another modern portable cassette player, this time with a speaker</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/maxell-mcxp-p100s-is-another-modern-portable-cassette-player-this-time-with-a-speaker/">Maxell MXCP-P100S is another modern portable cassette player, this time with a speaker</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 
@@ -255,7 +287,7 @@ date: 2025-07-25, from: Geoffrey Hunntley's blog
                     <div class="kg-cta-content-inner">
                     
                         <div class="kg-cta-text">
-                            <p dir="ltr"><span style="white-space: pre-wrap;">Hello! If you are seeing this you are either early or currently attending my talk at DataEngBytes. Learning how to build an agent is one of the best things you can do for your personal development. Cursor, Windsurf, Claude Code and Ampcode.com are 300 lines of code running in</span></p></div></div></div></div> 
+                            <p><span style="white-space: pre-wrap;">Hello! If you are seeing this you are either early or currently attending my talk at DataEngBytes. Learning how to build an agent is one of the best things you can do for your personal development. Cursor, Windsurf, Claude Code and Ampcode.com are 300 lines of code running in</span></p></div></div></div></div> 
 
 <br> 
 
@@ -2363,4 +2395,200 @@ date: 2025-07-20, updated: 2025-07-20, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/Jul/20/tim-sweeney/#atom-everything>
+
+---
+
+## OpenAI's gold medal performance on the International Math Olympiad
+
+date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://x.com/alexwei_/status/1946477742855532918">OpenAI&#x27;s gold medal performance on the International Math Olympiad</a></strong></p>
+This feels notable to me. OpenAI research scientist <a href="https://www.alexwei.org/">Alexander Wei</a>:</p>
+<blockquote>
+<p>I’m excited to share that our latest @OpenAI experimental reasoning LLM has achieved a longstanding grand challenge in AI: gold medal-level performance on the world’s most prestigious math competition—the International Math Olympiad (IMO).</p>
+<p>We evaluated our models on the 2025 IMO problems under the same rules as human contestants: two 4.5 hour exam sessions, no tools or internet, reading the official problem statements, and writing natural language proofs. [...]</p>
+<p>Besides the result itself, I am excited about our approach: We reach this capability level not via narrow, task-specific methodology, but by breaking new ground in general-purpose reinforcement learning and test-time compute scaling.</p>
+<p>In our evaluation, the model solved 5 of the 6 problems on the 2025 IMO. For each problem, three former IMO medalists independently graded the model’s submitted proof, with scores finalized after unanimous consensus. The model earned 35/42 points in total, enough for gold!</p>
+<p>HUGE congratulations to the team—<a href="https://x.com/SherylHsu02">Sheryl Hsu</a>, <a href="https://x.com/polynoamial">Noam Brown</a>, and the many giants whose shoulders we stood on—for turning this crazy dream into reality! I am lucky I get to spend late nights and early mornings working alongside the very best.</p>
+<p>Btw, we are releasing GPT-5 soon, and we’re excited for you to try it. But just to be clear: the IMO gold LLM is an experimental research model. We don’t plan to release anything with this level of math capability for several months.</p>
+</blockquote>
+<p><small>(Normally I  would just link to the tweet, but in this case Alexander built a thread... and Twitter threads no longer work for linking as they're only visible to users with an active Twitter account.)</small></p>
+<p>Here's Wikipedia on <a href="https://en.wikipedia.org/wiki/International_Mathematical_Olympiad">the International Mathematical Olympiad</a>:</p>
+<blockquote>
+<p>It is widely regarded as the most prestigious mathematical competition in the world. The first IMO was held in Romania in 1959. It has since been held annually, except in 1980. More than 100 countries participate. Each country sends a team of up to six students, plus one team leader, one deputy leader, and observers.</p>
+</blockquote>
+<p>This year's event is in Sunshine Coast, Australia. Here's <a href="https://www.imo-official.org/year_info.aspx?year=2025">the web page for the event</a>, which includes a button you can click to access a PDF of the six questions - maybe they don't link to that document directly to discourage it from being indexed.</p>
+<p>The first of the six questions looks like this:</p>
+<p><img alt="Problem 1. A line in the plane is called sunny if it is not parallel to any of the x-axis, the y-axis, and the line x + y = 0. Let n ≥ 3 be a given integer. Determine all nonnegative integers k such that there exist n distinct lines in the plane satisfying both of the following: • for all positive integers a and b with a + b ≤ n + 1, the point (a, b) is on at least one of the lines; and • exactly k of the n lines are sunny." src="https://static.simonwillison.net/static/2025/iom-question-1.jpg" /></p>
+<p>Alexander shared <a href="https://github.com/aw31/openai-imo-2025-proofs/">the proofs produced by the model</a> on GitHub. They're in a slightly strange format - not quite MathML embedded in Markdown - which Alexander <a href="https://x.com/alexwei_/status/1946477760614166943">excuses</a> since "it is very much an experimental model".</p>
+<p>The most notable thing about this is that the unnamed model achieved this score <em>without using any tools</em>. OpenAI's Sebastien Bubeck <a href="https://x.com/SebastienBubeck/status/1946577650405056722">emphasizes that here</a>:</p>
+<blockquote>
+<p>Just to spell it out as clearly as possible: a next-word prediction machine (because that's really what it is here, no tools no nothing) just produced genuinely creative proofs for hard, novel math problems at a level reached only by an elite handful of pre‑college prodigies.</p>
+</blockquote>
+<p>There's a bunch more useful context in <a href="https://x.com/polynoamial/status/1946478249187377206">this thread</a> by Noam Brown, including a note that this model wasn't trained specifically for IMO problems:</p>
+<blockquote>
+<p>Typically for these AI results, like in Go/Dota/Poker/Diplomacy, researchers spend years making an AI that masters one narrow domain and does little else. But this isn’t an IMO-specific model. It’s a reasoning LLM that incorporates new experimental general-purpose techniques.</p>
+<p>So what’s different? We developed new techniques that make LLMs a lot better at hard-to-verify tasks. IMO problems were the perfect challenge for this: proofs are pages long and take experts hours to grade. Compare that to AIME, where answers are simply an integer from 0 to 999.</p>
+<p>Also this model thinks for a <em>long</em> time. o1 thought for seconds. Deep Research for minutes. This one thinks for hours. Importantly, it’s also more efficient with its thinking. And there’s a lot of room to push the test-time compute and efficiency further.</p>
+<p>It’s worth reflecting on just how fast AI progress has been, especially in math. In 2024, AI labs were using grade school math (GSM8K) as an eval in their model releases. Since then, we’ve saturated the (high school) MATH benchmark, then AIME, and now are at IMO gold. [...]</p>
+<p>When you work at a frontier lab, you usually know where frontier capabilities are months before anyone else. But this result is brand new, using recently developed techniques. It was a surprise even to many researchers at OpenAI. Today, everyone gets to see where the frontier is.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/mathematics">mathematics</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/19/openai-gold-medal-math-olympiad/#atom-everything>
+
+---
+
+## MAIYUNDA Y104A is a NAS that supports up to 4 HDDs and 4 SSDs
+
+date: 2025-07-19, from: Liliputing
+
+<p>The MAIYUNDA Y104A is a network-attached-storage (NAS) system with an aluminum body, a robust set of ports including dual 2.5 GbE LAN ports and DisplayPort and HDMI ports for connecting up to two displays. And on the inside there&#8217;s a single SODIMM slot for DDR5-4800 memory, four bays for 3.5 inch hard drives, and four M. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/maiyunda-y104a-is-an-intel-n150-nas-with-support-for-up-to-4-hdds-and-4-ssds/">MAIYUNDA Y104A is a NAS that supports up to 4 HDDs and 4 SSDs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/maiyunda-y104a-is-an-intel-n150-nas-with-support-for-up-to-4-hdds-and-4-ssds/>
+
+---
+
+## Scientists Discover New World In Our Solar System: ‘Ammonite’
+
+date: 2025-07-19, from: 404 Media Group
+
+Meet Ammonite, a tiny weird iceball that casts doubt on the Planet Nine hypothesis. 
+
+<br> 
+
+<https://www.404media.co/scientists-discover-new-world-in-our-solar-system-ammonite/>
+
+---
+
+## 
+                Notes on Wayland + QEMU + old OS’s
+            
+
+date: 2025-07-19, updated: 2025-07-19, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-19/0/POSTING-en.html>
+
+---
+
+## During my kid’s surgery, I was denied a copy of my consent form — then sent to a ghost office
+
+date: 2025-07-19, from: The Markup blog
+
+Help us understand the challenges patients face opting out of voluntary uses of their data, or getting access to their records. 
+
+<br> 
+
+<https://themarkup.org/hello-world/2025/07/19/patient-data-use>
+
+---
+
+## Talking With Adam Posen
+
+date: 2025-07-19, from: Paul Krugman
+
+A monetary policy maven about a Fed unde pressure 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/talking-with-adam-posen>
+
+---
+
+## Prosser-Gate
+
+date: 2025-07-19, updated: 2025-07-19, from: Tedium site
+
+A prominent Apple leaker gets nailed with a wild lawsuit suggesting not-so-journalistic reporting practices. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17099722/apple-jon-prosser-ios-leaks-lawsuit>
+
+---
+
+## this should not be possible
+
+date: 2025-07-19, from: Geoffrey Hunntley's blog
+
+<p>It might surprise some folks, but I&apos;m incredibly cynical when it comes to AI and what is possible; yet I keep an open mind. That said, two weeks ago, when I was in SFO, I discovered another thing that should not be possible.  Every time I find out</p> 
+
+<br> 
+
+<https://ghuntley.com/no/>
+
+---
+
+## New tags
+
+date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
+
+<p>A few months ago I <a href="https://github.com/simonw/simonwillisonblog/commit/12da4167396c2d54526bf690add14aebbb244148">added a tool</a> to my blog for bulk-applying tags to old content. It works as an extension to my existing search interface, letting me run searches and then quickly apply a tag to relevant results.</p>
+<p>Since adding this I've been much more aggressive in categorizing my older content, including adding new tags when I spot an interesting trend that warrants its own page.</p>
+<p>Today I added <a href="https://simonwillison.net/tags/system-prompts/">system-prompts</a> and applied it to 41 existing posts that talk about system prompts for LLM systems, including a bunch that directly quote system prompts that have been deliberately published or leaked.</p>
+<p>Other tags I've added recently include <a href="https://simonwillison.net/tags/press-quotes/">press-quotes</a> for times I've been quoted in the press, <a href="https://simonwillison.net/tags/agent-definitions/">agent-definitions</a> for my ongoing collection of different ways people define "agents" and 
+<a href="https://simonwillison.net/tags/paper-review/">paper-review</a> for posts where I review an academic paper.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/tagging">tagging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/19/new-tags/#atom-everything>
+
+---
+
+## Quoting Steve Yegge
+
+date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/steve_yegge/status/1946360175339974807"><p>So one of my favorite things to do is give my coding agents more and more permissions and freedom, just to see how far I can push their productivity without going too far off the rails. It's a delicate balance. I haven't given them direct access to my bank account yet. But I did give one access to my Google Cloud production instances and systems. And it promptly wiped a production database password and locked my network. [...]</p>
+<p>The thing is, autonomous coding agents are extremely powerful tools that can easily go down very wrong paths. Running them with permission checks disabled is dangerous and stupid, and you should only do it if you are willing to take dangerous and stupid risks with your code and/or production systems.</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/steve_yegge/status/1946360175339974807">Steve Yegge</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/steve-yegge">steve-yegge</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/19/steve-yegge/#atom-everything>
+
+---
+
+## Quoting Paul Kedrosky
+
+date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
+
+<blockquote cite="https://paulkedrosky.com/honey-ai-capex-ate-the-economy/"><p>One analyst recently speculated (via <a href="https://www.edwardconard.com/macro-roundup/using-nvidias-datacenter-revenue-as-a-reference-for-us-ai-capex-jensnordvig-estimates-that-ai-will-make-up-2-of-us-gdp-in-2025-given-a-standard-multiplier-implying-an-ai-contribution-to-g/?view=detail&amp;filters=macro-roundup-database">Ed Conard</a>) that, based on Nvidia's latest datacenter sales figures, AI capex may be <strong>~2% of US GDP in 2025</strong>, given a standard multiplier. [...]</p>
+<p>Capital expenditures on AI data centers is likely around <strong>20% of the peak spending on railroads</strong>, as a percentage of GDP, and it is still rising quickly. [...]</p>
+<p>Regardless of what one thinks about the merits of AI or <strong>explosive datacenter expansion</strong>, the scale and pace of capital deployment into a <strong>rapidly depreciating technology</strong> is remarkable. These are not railroads—we aren’t building <strong>century-long infrastructure</strong>. AI datacenters are short-lived, asset-intensive facilities riding declining-cost technology curves, requiring <strong>frequent hardware replacement</strong> to preserve margins.</p></blockquote>
+<p class="cite">&mdash; <a href="https://paulkedrosky.com/honey-ai-capex-ate-the-economy/">Paul Kedrosky</a>, Honey, AI Capex is Eating the Economy</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/economics">economics</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/paul-kedrosky">paul-kedrosky</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/19/paul-kedrosky/#atom-everything>
+
+---
+
+## Explainer: K2 & Math Olympiad Golds
+
+date: 2025-07-19, updated: 2025-07-19, from: Tom Kellog blog
+
+the best way to emphasize the importance of this week's developments is to go all the way back to January and see how we got here. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/07/19/olympiad>
 

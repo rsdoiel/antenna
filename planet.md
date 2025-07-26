@@ -1,11 +1,59 @@
 ---
 title: planet
-updated: 2025-07-25 14:09:09
+updated: 2025-07-26 06:07:36
 ---
 
 # planet
 
-(date: 2025-07-25 14:09:09)
+(date: 2025-07-26 06:07:36)
+
+---
+
+## Donegal's motivational edge could tip the scales
+
+date: 2025-07-25, from: RTÉ News
+
+In the year where football has found itself again, we have ended up with the perfect final between the traditionalists and the disrupters, writes Enda McGinley 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0725/1525454-donegals-motivational-edge-could-tip-the-scales/>
+
+---
+
+## New Canada-U.S. bridge opening could be delayed by slow progress on border facilities
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7328697.1726782708!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gordie-howe-bridge.jpg' alt='A shot shows a birds-eye-view shot of a bridge being built.' width='620' height='349' title='The Gordie Howe International Bridge is currently under construction. It will connect Windsor, Ont., with Detroit and is expected to be open to the public late next year.'/><p>The opening of the new bridge between Windsor, Ont., and Detroit, Mich., could be delayed into 2026 due to delays completing the ports of entry on either side of the border, according to a report from ratings agency S&P Global.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-possible-delay-1.7594547?cmp=rss>
+
+---
+
+## 2 Southwest Airlines flight attendants hurt after plane plunges to avoid collision
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594675.1753486492!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/southwest-airlines.jpg' alt='A passenger plane is seen flying in the air.' width='620' height='349' title='A Southwest Airlines jet lands at St. Louis Lambert International Airport Monday, March 10, 2025, in St. Louis. (AP Photo/Jeff Roberson)'/><p>Two Southwest Airlines flight attendants are being treated for injuries after a passenger jet bound for Las Vegas from Southern California took a dramatic plunge shortly after takeoff Friday in response to an alert about a nearby plane, the airline and passengers said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/southwest-airlines-plunge-1.7594671?cmp=rss>
+
+---
+
+## Ukrainian defenders face fierce fighting in eastern city of Pokrovsk, Zelenskyy says
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594643.1753483778!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukrainian-president-volodymyr-zelenskyy-at-july-2025-conference-in-rome-italy.JPG' alt='Ukrainian President Volodymyr Zelenskyy attends a press conference in Rome, Italy, in July 2025.' width='620' height='349' title='Ukrainian President Volodymyr Zelenskyy attends a press conference on the first day of the two-day Ukraine Recovery Conference (URC2025), on plans for the reconstruction of Ukraine, in Rome, Italy, July 10, 2025. '/><p>Ukrainian President Volodymyr Zelenskiy said on Friday that Ukrainian forces are facing fierce fighting around the city of Pokrovsk in the east. Russia has been announcing the purported capture of villages near the town that acts as a logistics hub on an almost daily basis.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-pokrovsk-russia-fighting-1.7594632?cmp=rss>
 
 ---
 
@@ -42,6 +90,18 @@ The deteriorating situation in Gaza has taken centre stage this week amid contin
 <br> 
 
 <https://www.rte.ie/news/2025/0725/1525428-podcast-unbelievable-level-of-suffering-in-gaza/>
+
+---
+
+## France plans to recognize Palestinian statehood. Will Canada do the same?
+
+date: 2025-07-25, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594429.1753473508!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-israel-day-20240514.jpg' alt='Pro-Palestinian protesters rally at Ottawa City Hall ' width='620' height='349' title='Pro-Palestinian protesters rally at Ottawa City Hall after the city raised the Israeli flag in Ottawa on Tuesday, May 14, 2024. THE CANADIAN PRESS/Sean Kilpatrick'/><p>French President Emmanuel Macron has committed to formally recognizing Palestinian statehood at the upcoming United Nations General Assembly in September. Will Canada follow in France’s footsteps any time soon?</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/france-macron-palestinian-state-recognition-canada-1.7594392?cmp=rss>
 
 ---
 
@@ -347,6 +407,30 @@ This Friday marks the first observation of the International Day of Women and Gi
 
 ---
 
+## UN urges restraint as Thailand-Cambodia clashes displace thousands; Security Council meets
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+The UN Secretary-General has urged “utmost restraint” amid intensifying border clashes between Thailand and Cambodia as the Security Council met behind closed doors on Friday to address the most serious escalation between the two Southeast Asian neighbours in more than a decade. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165503>
+
+---
+
+## Syria: Deadly sectarian violence displaces thousands in Sweida; healthcare attacked
+
+date: 2025-07-25, from: United Nations, Top Stories
+
+As deadly sectarian violence continues to displace hundreds of thousands of civilians in Syria’s Sweida Governorate, the World Health Organization (WHO) confirmed on Friday that attacks on health facilities had killed two doctors. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165502>
+
+---
+
 ## Flatley to make bid for Irish presidency, court told
 
 date: 2025-07-25, from: RTÉ News
@@ -528,7 +612,7 @@ date: 2025-07-25, from: Vatican News
 date: 2025-07-25, from: Vatican News
 
 
-                    <p>In his Message for the 111th World Day of Migrants and Refugees, Pope Leo XIV emphasizes the important witness that migrants and refugees offer in a world affected by conflict and inequality in hoping and searching for a better and more peaceful future. </p>
+                    <p>In his Message for the 111th World Day of Migrants and Refugees, Pope Leo XIV emphasizes the important witness that Catholic migrants and refugees can offer in a world affected by conflict and inequality in hoping and searching for a better and more peaceful future. </p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-message-world-day-of-migrants-and-refugees.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -675,7 +759,7 @@ Energy provider Flogas is to increase its variable electricity charges by around
 
 date: 2025-07-25, from: RTÉ News
 
-Donegal might be the one most expansive counties on the island - the fourth largest based on total land area - but it has a close-knit GAA community. With one eye on the All-Ireland football final on Sunday, there is a magic in 'the hills' this week and everybody wants to be part of it. 
+Donegal might be the one of the most expansive counties on the island - the fourth largest based on total land area - but it has a close-knit GAA community. With one eye on the All-Ireland football final on Sunday, there is a magic in 'the hills' this week and everybody wants to be part of it. 
 
 <br> 
 
@@ -1343,6 +1427,18 @@ date: 2025-07-24, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/player/play/9.6843518?cmp=rss>
+
+---
+
+## Stopping the inevitable: Lessons in handling Clifford
+
+date: 2025-07-24, from: RTÉ News
+
+RTÉ Sport spoke to Barry McCambridge and Damian McErlain - two people with differing experiences when trying to dampen the threat of Kerry's ace forward David Clifford. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0724/1525156-stopping-the-inevitable-lessons-in-handling-clifford/>
 
 ---
 
@@ -4805,4 +4901,508 @@ Dozens of rescuers were scrambling in Vietnam to trace four missing people after
 <br> 
 
 <https://www.rte.ie/news/world/2025/0720/1524358-vietnam-boat-latest/>
+
+---
+
+## Everything you need to know about Oasis in Croke Park
+
+date: 2025-07-19, from: RTÉ News
+
+Oasis are set to bring their reunion tour to Ireland with two huge gigs at Dublin's Croke Park in August - find out everything you need to know about the highly-anticipated gigs here. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0720/1522996-everything-you-need-to-know-about-oasis-in-croke-park/>
+
+---
+
+## Govt plans to inject additional €30bn into infrastructure
+
+date: 2025-07-19, from: RTÉ News
+
+The Government is finalising a major investment plan to inject up to €30 billion of additional funding into Ireland's infrastructure between 2026 and 2030. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0720/1524337-coalition-review-ndp/>
+
+---
+
+## Fr. Romanelli: The situation in Gaza is increasingly serious, pray for us
+
+date: 2025-07-19, from: Vatican News
+
+
+                    <p>Father Gabriel Romanelli, parish priest of Gaza's Holy Family Catholic Church, was slightly injured in the leg and side during the Israeli army attack two days ago, which resulted in three deaths and several serious injuries among the Christians gathered in the Catholic parish. He was reached by L'Osservatore Romano's correspondent, Roberto Cetera. This is the testimony he shared with the Vatican media.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/fr-romanelli-situation-gaza-increasingly-serious-pray-for-us.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/fr-romanelli-situation-gaza-increasingly-serious-pray-for-us.html>
+
+---
+
+## Astronomer CEO resigns after viral Coldplay video
+
+date: 2025-07-19, from: RTÉ News
+
+The CEO of Astronomer, whose embrace with a co-worker during a Coldplay concert kiss cam went viral, has tendered his resignation. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0719/1524343-astronomer-ceo-resigns/>
+
+---
+
+## Scheffler in command in Portrush but McIlroy looms
+
+date: 2025-07-19, from: RTÉ News
+
+Relentless Scottie Scheffler kept his head as others around him were losing theirs, but while his main rivals fell away, the spectre of Rory McIlroy loomed in the distance. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0719/1524341-scheffler-in-command-in-portrush-but-mcilroy-looms/>
+
+---
+
+## Thousands to attend Galway Arts Festival performance
+
+date: 2025-07-19, from: RTÉ News
+
+Thousands of people are expected to line the streets of Galway this evening, for one of the main street theatre performances of the annual Arts Festival. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0719/1524336-arts-festival-galway/>
+
+---
+
+## Catholic student wounded in Israeli strike: "Love is stronger than war"
+
+date: 2025-07-19, from: Vatican News
+
+
+                    <p>Suhail Abo Dawood, a young Catholic student from Gaza seriously wounded in the Israeli attack on the Holy Family parish on Thursday, tells Vatican media that his condition is improving. "Love", says the young man, who writes a column for the Holy See's newspaper  L'Osservatore Romano, "is stronger than war". </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/suhail-gaza-student-wounded-love-is-stronger-than-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/suhail-gaza-student-wounded-love-is-stronger-than-war.html>
+
+---
+
+## 55 arrested during Palestine Action march in London
+
+date: 2025-07-19, from: RTÉ News
+
+Fifty-five people have been arrested at a protest in London in support of proscribed group Palestine Action. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0719/1524324-palestine-action-uk/>
+
+---
+
+## Public disquiet factor in Casey's removal from crypt
+
+date: 2025-07-19, from: RTÉ News
+
+It is questionable how the Galway Diocese could have kept Bishop Casey's mortal remains at the cathedral indefinitely, considering the public disquiet over their presence, writes Social Affairs & Religion Correspondent Ailbhe Conneely. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524323-bishop-eamonn-casey/>
+
+---
+
+## Public disquiet factor in Casey's removal from crypt
+
+date: 2025-07-19, from: RTÉ News
+
+It is questionable how the Galway Diocese could have kept Bishop Casey's mortal remains at the cathedral indefinitely, considering the public disquiet over their presence, writes Social Affairs & Religion Correspondent Ailbhe Conneely. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0719/1524323-bishop-eamonn-casey/>
+
+---
+
+## Canadian woman dies after falling ill at Belgium's Tomorrowland music festival
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589427.1752950956!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1156779031.jpg' alt='Revellers attend an outdoor music festival.' width='620' height='349' title='Revelers gather as a DJ performs at the main stage on the first day of the Tomorrowland music festival on July 19, 2019, in Boom. The 15th edition of Tomorrowland electronic music festival takes place at the &apos;De Schorre&apos; terrain in Boom from 19 to 21 July 2019 and from 26 to 28 July 2019. (Photo by DAVID PINTENS / BELGA / AFP) / Belgium OUT (Photo by DAVID PINTENS/BELGA/AFP via Getty Images)          '/><p>A festival spokesperson said in an emailed statement that a 35-year-old Canadian woman fell ill at the event Friday and was hospitalized. But organizers were told Saturday morning she had died.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tomorrowland-death-global-affairs-canada-1.7589426?cmp=rss>
+
+---
+
+## Israeli troops fatally shoot 32 Palestinians trying to reach aid sites: Gaza officials
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589415.1752948540!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2225049842.jpg' alt='People embrace as they grieve over a body bag.' width='620' height='349' title='Palestinians grieve over the body of a man, killed at a food distribution point in Al-Tina area of Khan Yunis in the southern Gaza Strip, at the Nasser hospital on July 19, 2025. Gaza&apos;s civil defence agency on July 19 said Israeli attacks killed 26 people and wounded more than 100 near two aid centres in the south of the Palestinian territory. (Photo by AFP) (Photo by -/AFP via Getty Images)          '/><p>Most of Saturday's deaths occurred as Palestinians massed in the Teina area, about three kilometres from an aid distribution centre backed by the U.S. and Israel, near the southern city of Khan Younis.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/aid-site-shooting-israel-gaza-palestinians-killed-1.7589408?cmp=rss>
+
+---
+
+## Thousands take part in march for Palestine in Dublin
+
+date: 2025-07-19, from: RTÉ News
+
+Around 10,000 people have taken part in a march in support of Palestine on the streets of Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0719/1524316-march-for-palestine/>
+
+---
+
+## Tour boat in Vietnam capsizes during storm, killing over 30 people
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589382.1752943686!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vietnam-boat-capsizing.jpg' alt='A boat is seen capsized with people standing on the overturned hull, while a larger boat idles nearby.' width='620' height='349' title='This image from a video provided by QDND shows people on a capsized tourist boat being rescued in Ha Long Bay, Vietnam on Saturday, July 19, 2025.'/><p>A boat carrying tourists capsized during a sudden thunderstorm in Vietnam on Saturday afternoon during a sightseeing excursion, killing more than 30 people, state media reported.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/vietnam-tour-boat-capsizes-deaths-1.7589375?cmp=rss>
+
+---
+
+## Zelensky proposes new round of peace talks with Russia
+
+date: 2025-07-19, from: RTÉ News
+
+Ukraine's President Volodymyr Zelensky has proposed a new round of peace talks with Russia next week, just hours after Russian strikes across Ukraine claimed more lives. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524314-ukraine-russia/>
+
+---
+
+## At least 35 dead after tourist boat capsizes in Vietnam
+
+date: 2025-07-19, from: RTÉ News
+
+A tourist boat ferrying families around Vietnam's Ha Long Bay capsized in a storm, leaving at least 35 people dead, according to state media reports, as rescuers scrambled to locate the missing. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0719/1524310-vietnam-boat/>
+
+---
+
+## COMECE delegation makes ‘solidarity visit’ to Ukraine
+
+date: 2025-07-19, from: Vatican News
+
+
+                    <p>Fr. Manuel Barrios Prieto speaks to Vatican News about the recent COMECE visit to war-torn Ukraine, which aimed "to see the reality there with our eyes, and touch it with our hands".</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/comece-solidarity-visit-ukraine-manuel-barrios-prieto.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/comece-solidarity-visit-ukraine-manuel-barrios-prieto.html>
+
+---
+
+## Man suspected in Los Angeles car ramming in custody
+
+date: 2025-07-19, from: RTÉ News
+
+A man suspected in a Los Angeles car ramming incident that injured 30 people is in custody, according to the Los Angeles Police Department. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0719/1524303-la-car/>
+
+---
+
+## Lions dominate Wallabies to claim first Test win
+
+date: 2025-07-19, from: RTÉ News
+
+The British and Irish Lions opened their Test series with a comfortable 27-19 victory over Australia in Brisbane. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0719/1524276-lions-dominate-wallabies-to-claim-first-test-win/>
+
+---
+
+## Desks become beds as Haitian school shelters people displaced by violence
+
+date: 2025-07-19, from: United Nations, Culture and Education
+
+Gang violence in Haiti has displaced hundreds of thousands of people and many are finding shelter in former schools where belief in the power of education remains strong. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165414>
+
+---
+
+## Michael Flatley not ruling out presidential run
+
+date: 2025-07-19, from: RTÉ News
+
+Businessman and former dancer Michael Flatley has not ruled himself out of running for the presidency. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524300-presidential-election-flatley/>
+
+---
+
+## Congo, M23 rebels pledge to reach peace deal next month
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589332.1752932144!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/qatar.jpg' alt='Three men stand on a stage, with two exchanging documents while the third looks on with a smile.' width='620' height='349' title='TOPSHOT - Peace mediator Sumbu Sita Mambu, a high representative of the head of state in the Democratic Republic of Congo (L), and Rwanda-backed armed group M23 executive secretary Benjamin Mbonimpa (R) exchange documents after signing a ceasefire deal in the Qatari capital Doha on July 19, 2025 to end fighting that has devastated the country&apos;s mineral-rich but conflict-torn east. The truce was agreed in a Declaration of Principles signed by the two sides after three months of talks in Qatar, which follows a separate Congolese-Rwandan peace deal signed in Washington last month.       '/><p>Congo and the M23 rebel group on Saturday pledged to sign a peace agreement by Aug. 18, a sign of progress even as outstanding details need to be negotiated. Representatives for both sides were at a ceremony in Doha following months of Qatari mediation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/congo-m23-rebels-pledge-to-reach-peace-deal-next-month-1.7589324?cmp=rss>
+
+---
+
+## Eamonn Casey's remains removed from Galway cathedral
+
+date: 2025-07-19, from: RTÉ News
+
+The remains of the late Bishop Eamonn Casey have been removed from the crypt of Galway Cathedral, Galway Diocese has confirmed. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524290-eamonn-casey/>
+
+---
+
+## The Open Championship Day 3 recap - McIlroy six back
+
+date: 2025-07-19, from: RTÉ News
+
+World No 1 Scottie Scheffler will carry a four-lead into the final round in Portrush with Rory McIlroy seven behind going into Sunday's final day. 
+
+<br> 
+
+<https://www.rte.ie/sport/golf/2025/0719/1524283-the-open-championship-day-3-updates/>
+
+---
+
+## July 2025 updates on VO Research from La Civiltà Cattolica
+
+date: 2025-07-19, from: Vatican Obervatory
+
+The latest on research from the Vatican Observatory, thanks to La Civiltà Cattolica, the Jesuit periodical that has been in publication since 1850. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/july-2025-updates-on-vo-research-from-la-civilta-cattolica/>
+
+---
+
+## Driver shot as car strikes people waiting to enter L.A. nightclub, injuring 30
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589318.1752929468!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/los-angeles-vehicle-into-crowd.jpg' alt='Law enforcement officers work around a small, damaged grey car covered in dents and debris.' width='620' height='349' title='Law enforcement investigate the scene where a vehicle rammed into a crowd of people waiting to enter a nightclub along a busy boulevard in Los Angeles early Saturday, July 19, 2025 injuring several people.'/><p>A vehicle rammed into a crowd of people waiting to enter a nightclub along a busy boulevard in Los Angeles early Saturday, injuring 30 people and leading bystanders to attack the driver, authorities said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/los-angeles-car-rams-crowd-1.7589304?cmp=rss>
+
+---
+
+## Pope Leo sends message to Byzantine Catholics in United States
+
+date: 2025-07-19, from: Vatican News
+
+
+                    <p>As the third Metropolitan Assembly of the Byzantine Catholic Archeparchy of Pittsburgh kicks off, the Pope shares how their meeting is “a visible sign of communion in the Church."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-sends-message-of-encouragement-to-byzantine-catholics.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-sends-message-of-encouragement-to-byzantine-catholics.html>
+
+---
+
+## Cardinal Parolin: Situation unbearable in Gaza with destruction and starvation
+
+date: 2025-07-19, from: Vatican News
+
+
+                    <p>In an interview with Italy's public broadcaster RAI TG2 Post on Friday evening, 18 July, the Vatican Secretary of State speaks about the call of Israeli Prime Minister Netanyahu to the Pope, while also urging clarity on the attack that struck the Church of the Holy Family in Gaza, and that words be followed by actions. On the Holy See’s role in mediating ongoing conflicts, Cardinal Parolin emphasizes that "political will is needed to end the war" and that "the toll is terrible for everyone."</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/parolin-situation-unbearable-in-gaza-with-destruction-starvation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/parolin-situation-unbearable-in-gaza-with-destruction-starvation.html>
+
+---
+
+## Pope offers condolences, prayers for victims of Iraq fire
+
+date: 2025-07-19, from: Vatican News
+
+
+                    <p>In a telegram signed by the Cardinal Secretary of State , Pope Leo XIV assures those suffering the effects of a fire in an Iraqi shopping centre of his spiritual solidarity, and offers prayers for those who died in the tragedy.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-offers-condolences-prayers-for-victims-of-iraq-fire.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-offers-condolences-prayers-for-victims-of-iraq-fire.html>
+
+---
+
+## Syria urges all parties to respect ceasefire in Druze region after hundreds left dead
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589305.1752922810!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/syria-clashes.jpg' alt='Two men in black, carrying guns, stand near a truck.' width='620' height='349' title='Syrian security forces deploy on the international highway near Izraa, in rural Daraa, close to the southern province of Sweida, Syria, Saturday, July 19, 2025.'/><p>Syria's Islamist-led government says its security forces were deploying in the predominantly Druze southern city of Sweida on Saturday, and urged all parties to respect a ceasefire after days of factional bloodshed that has left hundreds dead.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/syria-ceasefire-druze-1.7589300?cmp=rss>
+
+---
+
+## Israeli attacks kill at least 39 near Gaza aid sites
+
+date: 2025-07-19, from: RTÉ News
+
+At least 39 people were killed by Israeli fire while they were on their way to an aid distribution site in Gaza at dawn, according to health officials and Nasser Hospital in Khan Younis. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524271-middle-east-gaza/>
+
+---
+
+## South Korea's ex-president indicted for abuse of power
+
+date: 2025-07-19, from: RTÉ News
+
+Disgraced South Korean ex-president Yoon Suk Yeol was indicted for abuse of power today over his declaration of martial law last year, as investigators widened an insurrection probe. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524268-south-korea/>
+
+---
+
+## The Ghost of Jeffrey Epstein
+
+date: 2025-07-19, from: RTÉ News
+
+The big revelation from the second Trump administration about the Epstein files is that there is nothing to reveal. And too many of the punters just don't buy it. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524258-the-ghost-of-jeffrey-epstein/>
+
+---
+
+## El Salvador frees jailed Venezuelans in US prison deal
+
+date: 2025-07-19, from: RTÉ News
+
+Hundreds of Venezuelans swept up in Donald Trump's immigration dragnet were abruptly freed from a maximum security Salvadoran jail and sent home as part of a prisoner swap yesterday, ending a months-long high-profile ordeal. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524261-venezuela/>
+
+---
+
+## Death toll from Syria violence rises to 940 - monitor
+
+date: 2025-07-19, from: RTÉ News
+
+The death toll from violence in Sweida province, the heartland of Syria's Druze minority, has risen to 940 since last weekend, a war monitor has said, despite the announcement of a ceasefire. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0719/1524260-syria/>
+
+---
+
+## Two runners so far as race for Áras sparks into life
+
+date: 2025-07-19, from: RTÉ News
+
+The presidential election has finally sparked into life with two firm candidates confirmed this week and more certain to follow, writes Political Reporter Sandra Hurley. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0719/1524229-politics-presidential-election/>
+
+---
+
+## Afghan data breach: Why UK sought to keep it a secret
+
+date: 2025-07-19, from: RTÉ News
+
+UK politicians had tried to keep the Afghan data leak a secret with a superinjuction and secret schemes but the controversy has raised uncomfortable questions for both the government and lead opposition party. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0719/1524248-afghan-data-breach/>
+
+---
+
+## Coldplay couple a reminder that anyone can go viral — even in a crowd of 60,000
+
+date: 2025-07-19, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7589472.1752961481!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/coldplay-viral-video.jpg' alt='A split-screen image shows two people embracing and separating while shown on a Jumbotron.' width='620' height='349' title='Two people are shown on the Jumbotron at a Coldplay concert in Boston in July.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/coldplay-viral-video-surveillance-1.7588810?cmp=rss>
+
+---
+
+## Is Bitcoin a smart buy after a volatile Crypto Week?
+
+date: 2025-07-19, from: RTÉ News
+
+Bitcoin hit new all-time highs of $123,000 before pulling back during a big policy week in the US for cryptocurrency. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0719/1524231-is-bitcoin-a-smart-buy-after-a-volatile-crypto-week/>
+
+---
+
+## Aid groups rally to help First Nations facing mass food spoilage after northwestern Ontario outages
+
+date: 2025-07-19, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7584921.1752531364!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/pikangikum-first-nation-wildfire.JPG' alt='Vehicles are seen shining headlights into houses by a body of water. In the background is a pink and orange sky and large plumes of smoke.' width='620' height='349' title='Pikangikum First Nation&apos;s Chief Paddy Peters says people have been using vehicle headlights to illuminate their homes. The northwestern Ontario community has been without power for three days.'/><p>Aid organizations are ramping up efforts to replenish supplies after power outages across half a dozen First Nations in northwestern Ontario led to mass food spoilage. Meanwhile, more details have emerged about the magnitude of the impact of going for days without electricity in remote communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/pikangikum-first-nation-food-spoilage-1.7587589?cmp=rss>
 

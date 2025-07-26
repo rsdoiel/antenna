@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-25 14:09:18
+updated: 2025-07-26 06:07:42
 ---
 
 # libraries
 
-(date: 2025-07-25 14:09:18)
+(date: 2025-07-26 06:07:42)
 
 ---
 
@@ -340,4 +340,16 @@ Wied, Markus
 <br> 
 
 <http://hdl.handle.net/20.500.11850/747194>
+
+---
+
+## DiffuMeta: Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers
+
+date: 2025-07-19, from: ETH Zurich, recently added
+
+Zheng, Li 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/746797>
 

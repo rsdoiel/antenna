@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-07-25 14:09:17
+updated: 2025-07-26 06:07:41
 ---
 
 # journalism
 
-(date: 2025-07-25 14:09:17)
+(date: 2025-07-26 06:07:41)
 
 ---
 
@@ -239,4 +239,67 @@ Geno Mehalik of the Arthur Ashe Student Health and Wellness Center spoke with Da
 <br> 
 
 <https://dailybruin.com/2025/07/19/geno-mehalik-expresses-ashe-center-commitment-to-inclusive-care-for-lgbtq-bruins/>
+
+---
+
+## USAC approves letter criticizing ban of student governments’ anti-Israel boycotts
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously approved a letter to UC President Michael Drake criticizing the UC&#8217;s ban on student governments&#8217; boycott of countries, including Israel, at an emergency meeting July 15. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/usac-approves-letter-criticizing-ban-of-student-governments-anti-israel-boycotts/>
+
+---
+
+## Art exhibit preview: Summer exhibitions show artistic appreciation, LA diversity
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the weather gets nicer, there&#8217;s no better time than the present to explore the city.
+When looking for the perfect summer activity, Los Angeles museums are the place to go. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/art-exhibit-preview-summer-exhibitions-show-artistic-appreciation-la-diversity/>
+
+---
+
+## USAC recap – July 8
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 19 at 12:41 p.m.</em>
+The Undergraduate Students Association Council approved a resolution condemning a rise in anti-Arab, anti-Muslim and anti-Palestinian racism during its second meeting of the summer July 8. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/19/usac-recap-july-8-2/>
+
+---
+
+## UC Regents shifts to bypass approval for increasing professional program tuition
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Amid rising costs and deferred state funds, the UC Board of Regents weighed key financial decisions &#8211; including a shift that bypasses full board approval for tuition increases in professional programs &#8211; at its bimonthly meeting Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/18/uc-regents-shifts-to-bypass-approval-for-increasing-professional-program-tuition/>
+
+---
+
+## ‘Food deserts’ in LA build on systemic factors, create barriers to healthy eating
+
+date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Residents in some neighborhoods of Los Angeles live in food deserts, creating systematic barriers to healthy eating.
+The nonprofit organization Food Empowerment Project defines a &#8220;food desert&#8221; as a geographic area that lacks or has limited access to nutritious and affordable food, often forcing residents to rely on cheap, unhealthy fast food options. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/18/food-deserts-in-la-build-on-systemic-factors-create-barriers-to-healthy-eating/>
 

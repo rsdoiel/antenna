@@ -1,15 +1,75 @@
 ---
 title: games
-updated: 2025-07-25 14:09:16
+updated: 2025-07-26 06:07:40
 ---
 
 # games
 
-(date: 2025-07-25 14:09:16)
+(date: 2025-07-26 06:07:40)
 
 ---
 
-## Rick and Morty spinoff will follow the adventures of Keith David’s President Curtis
+## Planet Core Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+In Donkey Kong Bananza, the Planet Core Layer is the 16th layer where you’ll soon reach the conclusion of the story. Even though it’s close to the end, there are still a lot of Banandium Gems for you to find and collect. The Planet Core is full of your usual enemies, gold, and a bunch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/616592/planet-core-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Forbidden Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+In Donkey Kong Bananza, the Forbidden Layer is the 15th layer that you’ll crash land onto, and of course, it’s full of Banandium Gems. The Forbidden Layer is a wide open layer that has floating concrete islands dotted about. It may seem impossible to traverse between the islands, but with a pocket full of gold, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/616386/forbidden-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Feast Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+In Donkey Kong Bananza, the 14th layer you’ll go to is the food-filled Feast Layer, an amusement park themed around delicious and greasy food. This place is run by lion-shaped Fractones and has rivers of hot oil, salty sands, and… green nasty muck hanging from the walls? Oh, and a ton of Banandium Gems. Below, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/616067/feast-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## The 14 best Switch 2 games
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Nintendo’s Switch 2 is at the very start of its life — and, as with every young console, excitement for the new hardware is held in check by the quest for something to play on it. Nintendo debuted the system with one of the biggest guns in its arsenal: a new Mario Kart. Elsewhere, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/611102/best-switch-2-games>
+
+---
+
+## Superman&#8217;s big Easter egg is now a DCU hero guessing game you can play
+
+date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+
+Director James Gunn’s Superman has been a hit, hailed for swerving in a different direction than most comic book blockbusters. As our review puts it, “Gunn knows how to locate the human frailty in big-budget behemoths without weighing them down.” The movie spotlights everything from the tenderness of its hero to the complex Lois Lane. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dc/616516/superman-metahumans-dcu-easter-eggs-mural>
+
+---
+
+## New Rick and Morty spinoff will follow the adventures of Keith David’s President Curtis
 
 date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
 
@@ -47,7 +107,7 @@ Each week on Polygon, we round up the most notable new releases to streaming and
 
 ## How to farm gold in Donkey Kong Bananza
 
-date: 2025-07-25, updated: 2025-07-25, from: Polygon Website
+date: 2025-07-25, updated: 2025-07-26, from: Polygon Website
 
 Gold in Donkey Kong Bananza is a valuable resource that can get you Banandium Gems and unlock alternate passage ways. Little gold nuggets will erupt from the ground as you hand slap your way through the layers, and you might even find large chunks as you dig. However, you can never have too much gold [&#8230;] 
 
@@ -930,4 +990,124 @@ Deadline reported this week that Netflix is working on a live-action adaptation 
 <br> 
 
 <https://www.polygon.com/animation-cartoons/614288/90s-cartoon-reboot-bucky-ohare-star-wars-parody>
+
+---
+
+## Warframe is going full Catholic
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+Finally, there will be a Warframe for every letter of the alphabet — and the last to arrive is a devil-themed character named Uriel. The new playable character will be part of a side story that will be released alongside Warframe’s year-end update, The Old Peace. The new Frame was revealed at TennoCon, Digital Extremes’ [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon>
+
+---
+
+## Warframe’s next chapter will explore a new star system
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+The next chapter of Warframe is coming, and it’s taking players across the stars to Tau. The Old Peace will be Warframe’s year-end update. Developer Digital Extremes revealed limited but exciting details about the story at its annual TennoCon event. The expansion will take players to Tau, a distant star system that is the holy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/613839/warframe-tennocon-tau-old-peace-expansion>
+
+---
+
+## Warframe is getting a tabletop RPG from Pathfinder publishers
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+Warframe is coming to a dining room table near you. Developer Digital Extremes is collaborating with Pathfinder creator Paizo Games on a new TTRPG module for Warframe, using Paizo’s Starfinder system. They’ve created a standalone tabletop adventure that will launch in October 2025, and it’s called Warframe x Starfinder: Operation Orias. “This is just from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/613717/warframe-ttrpg-paizo-starfinder-tennocon>
+
+---
+
+## Lagoon Layer fossil locations in Donkey Kong Bananza
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+In Donkey Kong Bananza, you’ll need to find fossils on the Lagoon Layer if you want to buy any swanky clothes or fur dye for Donkey Kong and Pauline. While fossils like ammonite are just about everywhere (and using DK’s sonar clap will help you find tons of them), there are some harder-to-find fossils that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map>
+
+---
+
+## Everyone can play Soulframe, the fantasy Warframe, right now
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+If you’ve ever wanted to kill someone with a leaf and adopt a wolf puppy, now is your chance: Soulframe’s pre-alpha build is open to the public for a limited time. Soulframe: Preludes is being made available to anyone who has signed up on the Soulframe website as part of developer Digital Extremes’ TennoCon weekend [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/614126/soulframe-alpha-tennocon-2025-free>
+
+---
+
+## All Kong Bananza City Smash Banandium Gems in Donkey Kong Bananza
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+The Kong Bananza: City Smash challenge in Donkey Kong Bananza is a little confusing initially, courtesy of the fractone running the challenge telling you absolutely nothing about what to do. Smashing concrete is only part of the job. If you want all three Banandium Gems from this challenge, you&#8217;ll have to power through it with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614349/kong-bananza-city-smash-bananas-banandium-gems-ancient-ruins>
+
+---
+
+## The Divide Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+In Donkey Kong Bananza, The Divide is the fourth layer that’ll you descend into, and its full of pink and blue goo — and a few Banandium Gems (golden bananas). The Divide is a fairly short level, so it’s extremely easy to blitz through and miss all of the bananas hidden inside. Make sure to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map>
+
+---
+
+## South Park is imploding: the lawsuit debacle putting the show’s future in jeopardy
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+South Park, on the cusp of its 27th season, is caught in behind-the-scenes turmoil that now threatens the show’s future. At the center of the conflict is the $8 billion acquisition of Paramount by David Ellison’s Skydance Media, a deal that has become a major flashpoint for creators Matt Stone and Trey Parker. The troubles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/614218/south-park-matt-stone-trey-parker-skydance-paramount-lawsuit>
+
+---
+
+## Pokémon Go ‘Summer Concert’ event guide
+
+date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
+
+Pokémon Go is hosting a “Summer Concert” event from July 19-22, though the event perks will only actually be active from 5-8 p.m. each day in your local time. As part of the event, music composed by Junichi Masuda will be playing during the short time the bonuses are active, giving the feel of an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/613441/summer-concert-event-shiny-chatot-lure-module-spawns>
+
+---
+
+## Pokémon Go Quaxly Community Day guide
+
+date: 2025-07-19, updated: 2025-07-18, from: Polygon Website
+
+Pokémon Go is having a Quaxly Community Day event on July 20 from 2-5 p.m. in your local time. As expected with a Community Day event, Quaxly will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/613409/quaxly-community-day-shiny-quaxwell-quaquaval-moveset>
 

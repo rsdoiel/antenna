@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-07-25 14:09:13
+updated: 2025-07-26 06:07:38
 ---
 
 # ham radio
 
-(date: 2025-07-25 14:09:13)
+(date: 2025-07-26 06:07:38)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-07-25, from: Amateur Radio Relay League News
+
+<p><span>Solar activity was at low levels.<span>  </span>The largest flare was a C7.6 from Region 4136.<span>  </span>C-class activity was also observed from several other regions during the highlight period.<span>  </span>No Earth-directed CME activity was observed. </span></p><p><span>No proton events were observed at geosynchronous orbit. </span></p><p><span>The greater than 2 MeV electron flux at geosynchronous orbit was at high levels on 14-20 July in response to persistent p...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-23>
 
 ---
 
@@ -224,4 +236,16 @@ date: 2025-07-21, from: EDN Blog
 <br> 
 
 <https://www.edn.com/two-new-runtime-tools-to-accelerate-edge-ai-deployment/>
+
+---
+
+## Changes in the ARRL Sacramento Valley Section
+
+date: 2025-07-19, from: Amateur Radio Relay League News
+
+<p>Jay Ballinger, N6SAC, of Antelope, California, has been appointed Section Manager of the ARRL Sacramento Valley Section, effective July 16, 2025. He will serve the remainder of a term that expires on September 30, 2027.</p><p>He replaces Dr. Carol Milazzo, MD, KP4MD, who was appointed as Pacific Division Vice Director. Dr. Milazzo has served as Section Manager since 2015.</p><p>The ARRL Field Organization is...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-sacramento-valley-section>
 

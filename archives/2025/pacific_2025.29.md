@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-07-25 14:09:13
+updated: 2025-07-26 06:07:38
 ---
 
 # pacific
 
-(date: 2025-07-25 14:09:13)
+(date: 2025-07-26 06:07:38)
+
+---
+
+## Empowering the next generation of cyberinfrastructure innovators
+
+date: 2025-07-25, from: University of Hawaiʻi News
+
+<p>Ten students from across <span aria-label="Hawaii,">Hawai&#699;i,</span> Guam and the continental U.S. learned to apply cyberinfrastructure resources and methods to their research projects.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/25/cyberinfrastructure-summer-program/">Empowering the next generation of cyberinfrastructure innovators</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/25/cyberinfrastructure-summer-program/>
 
 ---
 
@@ -537,6 +550,18 @@ The youngster has become Fiji's first sponsored professional surfer, having rece
 
 ---
 
+## Senate to reorganize soon
+
+date: 2025-07-25, updated: 2025-07-25, from: Marianas Variety
+
+FOLLOWING the oath-taking of Lt. Gov. David M. Apatang as the new governor and Senate President Dennis James Mendiola as the new lieutenant governor on Thursday morning, the Senate is preparing for a reorganizational session. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/senate-to-reorganize-soon/article_03b934b9-172b-4ede-b94c-ed814bcec04a.html>
+
+---
+
 ## Fiji's top prosecutor remains in self-imposed exile in NZ while earning six-figure salary
 
 date: 2025-07-25, from: 
@@ -595,6 +620,18 @@ Moses Toata says the Solomons women's side has proven that winning at the highes
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/568026/solomon-islands-coach-says-women-s-team-can-go-for-the-world-cup-after-stunning-ofc-victory>
+
+---
+
+## Tropical Storm Condition III Cancelled for Saipan, Tinian, Rota; Tropical Storm Condition II Declared for Agrihan, Alamagan, Pagan
+
+date: 2025-07-24, updated: 2025-07-26, from: Marianas Variety
+
+TROPICAL STORM KROSA (12W) 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tropical-storm-condition-iii-cancelled-for-saipan-tinian-rota-tropical-storm-condition-ii-declared-for/article_f836e879-2dab-41ca-8cbe-dc1fd623e582.html>
 
 ---
 
@@ -3238,4 +3275,219 @@ By Pacific Island Times News Staff   The disputed real estate asset in Dededo �
 <br> 
 
 <https://www.pacificislandtimes.com/post/not-just-a-parcel-of-land-gwa-gears-up-for-showdown-with-core-tech-over-dededo-property>
+
+---
+
+## Business Briefs: Registration now open for Fanachu Famalåo’an 2025 
+
+date: 2025-07-19, from: Pacific Island Times
+
+Registration is now open for Fanachu Famalåo’an 2025: In Bloom, the island’s largest annual gathering of women leaders, entrepreneurs and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-briefs-registration-now-open-for-fanachu-famal%C3%A5o-an-2025>
+
+---
+
+## T'way Air resumes daily flights to Guam, 
+
+date: 2025-07-19, from: Pacific Island Times
+
+T’way Air has resumed the Kansai-Guam route, expanding seat capacity to bring more arrivals from Japan and is expected to accelerate the recovery of Guam’s tourism industry. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/t-way-air-resumes-daily-flights-to-guam>
+
+---
+
+## This is sixty
+
+date: 2025-07-19, from: Pacific Island Times
+
+Life moves fast, so I don’t have much time to take a long look at myself anymore and think of what I may have lost, except for those rare moments that are worth considering and appreciating.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/this-is-sixty>
+
+---
+
+## Trump’s immigration crackdown hits senior care workforce
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s immigration crackdown is beginning to strain the long-term care workforce, raising concerns about how the effects could ripple across the nation&#8217;s senior population.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trumps-immigration-crackdown-hits-senior-care-workforce/>
+
+---
+
+## Trump’s withering criticism of Powell puts Fed decisions under microscope
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s relentless attacks on the Federal Reserve and its chair, Jerome Powell, have put the central bank under intense scrutiny as it grapples with when and by how much to cut interest rates again after a long pause.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trumps-withering-criticism-of-powell-puts-fed-decisions-under-microscope/>
+
+---
+
+## Trump tells Bondi to seek release of Epstein grand jury testimony
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The Justice Department on Friday asked a federal judge to unseal grand jury testimony from the prosecution of the disgraced financier Jeffrey Epstein. The move came amid growing pressure from both parties for the Trump administration to release more information about the case.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trump-tells-bondi-to-seek-release-of-epstein-grand-jury-testimony/>
+
+---
+
+## Prisoner swap frees Americans in Venezuela for migrants held in El Salvador
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Ten Americans and U.S. permanent residents who had been seized by Venezuelan authorities and held as bargaining chips were freed Friday in exchange for the release of more than 250 Venezuelan migrants whom the Trump administration sent to a prison in El Salvador.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/prisoner-swap-frees-americans-in-venezuela-for-migrants-held-in-el-salvador/>
+
+---
+
+## White House to release $1.3 billion in frozen funds for after-school programs
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration said Friday that it would release $1.3 billion in frozen federal funding for after-school programs across the country, after facing growing bipartisan pressure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/white-house-to-release-1-3-billion-in-frozen-funds-for-after-school-programs/>
+
+---
+
+## 3 deputies are killed in explosion at Los Angeles training center
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Three sheriff&#8217;s deputies were killed in an explosion Friday morning at a law enforcement training center in Los Angeles, local and federal officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/3-deputies-are-killed-in-explosion-at-los-angeles-training-center/>
+
+---
+
+## Gabbard claims Obama administration tried to undermine Trump in 2016
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>The Office of the Director of National Intelligence on Friday issued the latest in a series of reports from the Trump administration attempting to undermine the 8-year-old assessment that Russia favored the election of Donald Trump in 2016.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/gabbard-claims-obama-administration-tried-to-undermine-trump-in-2016/>
+
+---
+
+## Floods and heavy rain kill dozens in Pakistan
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Heavy monsoon rains in Pakistan have killed at least 57 people in the past two days, many of them children, officials said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/floods-and-heavy-rain-kill-dozens-in-pakistan/>
+
+---
+
+## Trump sues Wall Street Journal for article on note to Epstein
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Friday accused Rupert Murdoch and The Wall Street Journal of defaming him in an article about a lewd birthday greeting that the publication said Trump had sent to disgraced financier Jeffrey Epstein decades ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trump-sues-wall-street-journal-for-article-on-note-to-epstein/>
+
+---
+
+## Tropical Gardening: Ferns among the first plants to arrive in Hawaiian Islands
+
+date: 2025-07-19, from: Hawaii Tribune Harold
+
+
+				<p>Probably the first pioneer plants to arrive in Hawaii were mosses and ferns. Ferns have been around for over 360 million years. Giant tree fern forests were common for millions of years but they gave way as flowering plants evolved to take their place.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/19/features/tropical-gardening-ferns-among-the-first-plants-to-arrive-in-hawaiian-islands/>
+
+---
+
+## Manu Samoa coach, captain happy despite loss to Scotland
+
+date: 2025-07-19, from: 
+
+The Samoans were missing several of their leading players in their Pacific Nations Cup build-up. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/567413/manu-samoa-coach-captain-happy-despite-loss-to-scotland>
+
+---
+
+## Women inmates study Moon, planets in UH program
+
+date: 2025-07-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> brings Moon and planet science to women inmates in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/18/women-inmates-study-moon-planets/">Women inmates study Moon, planets in <abbr>UH</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/18/women-inmates-study-moon-planets/>
+
+---
+
+## Trump sues Wall Street Journal over Epstein report, seeks $10 billion
+
+date: 2025-07-19, updated: 2025-07-20, from: Marianas Variety
+
+NEW YORK/WASHINGTON (Reuters) — President Donald Trump sued the Wall Street Journal and its owners including Rupert Murdoch on Friday, seeking at least $10 billion in damages over the newspaper's report that Trump in 2003 sent Jeffrey Epstein a birthday greeting that included a sexually suggestive drawing and a reference to secrets they shared. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-sues-wall-street-journal-over-epstein-report-seeks-10-billion/article_04c27a76-05dd-49b9-8bbc-65f5750f15c5.html>
 

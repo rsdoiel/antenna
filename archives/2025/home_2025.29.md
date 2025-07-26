@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-07-25 14:09:18
+updated: 2025-07-26 06:07:42
 ---
 
 # home
 
-(date: 2025-07-25 14:09:18)
+(date: 2025-07-26 06:07:42)
 
 ---
 
@@ -56,6 +56,274 @@ A creative couple’s Silver Lake project was a hard lesson in construction cost
 <br> 
 
 <https://www.dwell.com/article/budget-breakdown-bamboo-suite-silver-lake-basement-renovation-d61e4c00>
+
+---
+
+## 27 of the Best Xerophytes to Grow in a Water-Wise Garden
+
+date: 2025-07-25, from: The Gardener's Path
+
+<p>Conserving water is more important now than ever before. Fortunately, cooperating with nature by installing xerophytic plants, which require less water, can create a gorgeous landscape or garden. In fact, we’ve cultivated a list of 27 of the best and most attractive options – which ones will you choose in your region?</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/best-xerophytes/">27 of the Best Xerophytes to Grow in a Water-Wise Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/best-xerophytes/>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Camping
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Your ultimate guide to camping, with the best ideas for campgrounds, gear, cooking, and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping>
+
+---
+
+## Outdoor Adventure
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Road Trips
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## WildLands
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Travel the West
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Family
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Inspiration for family living: designing, cooking, traveling, and more with kids in tow. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/family>
+
+---
+
+## 13 of the Best Trees and Shrubs for Orange Fall Color
+
+date: 2025-07-25, from: The Gardener's Path
+
+<p>As summer gives way to autumn, the leaves of deciduous trees and shrubs provide a fabulous, colorful display of fall foliage. If your favorite color is orange, you're in luck! In this guide, we take a look at 13 of the best landscape trees and shrubs that produce outstanding orange foliage in fall. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/orange-fall-color/">13 of the Best Trees and Shrubs for Orange Fall Color</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/orange-fall-color/>
+
+---
+
+## Wellness
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Outdoor Living
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
+
+---
+
+## DIY Projects
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Home Tours
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2025-07-25, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
 
 ---
 
@@ -338,18 +606,6 @@ A mix of traditional ceramics, inventive washes, and green spaces enliven the na
 <br> 
 
 <https://www.dwell.com/article/earthenware-house-naqi-and-partners-traditional-clay-finishes-family-renovation-eb8eee08>
-
----
-
-## Tour Sunset’s 2025 Idea House: The Last, Lost Masterpiece from a Famed Palm Springs Modernist Architect
-
-date: 2025-07-24, from: Sunset Magazine - Living in the West
-
-A sleek and stylish home high above Palm Springs is the last masterpiece from famed desert modernist architect Donald Wexler. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/idea-houses/the-lost-wexler-home-in-palm-springs>
 
 ---
 
@@ -1123,4 +1379,95 @@ Cluttercore is the latest Pinterest trend promoting maximalism. Designers share 
 <br> 
 
 <https://www.sunset.com/home-garden/design/cluttercore-trend>
+
+---
+
+## Growing bananas in Southern California
+
+date: 2025-07-19, from: Greg Alder's blog, Yard Post
+
+<p>Among the first words out of my two year-old son’s mouth every morning was, “Can I have a banana?” He would have eaten five a day if allowed. So I was hearing the call to grow more in our yard. Here in Southern California? Can you really grow bananas? Climate for bananas Bananas can be [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/growing-bananas-in-southern-california/">Growing bananas in Southern California</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/growing-bananas-in-southern-california/>
+
+---
+
+## Tired of the Barn Door Trend? These Alternatives Are on the Rise
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+Some interior designers say barn doors are out. Instead, try these barn door alternatives that will add style to your house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/barn-door-alternatives>
+
+---
+
+## The Design Industry’s Coolest Trend Is Hiding in Plain Sight
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+Recently, a handful of interior designers have been making a statement with hidden doors. Here's how to pull it off at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/hidden-doorway-design-trend>
+
+---
+
+## How to Grow Single Late Cottage Tulips
+
+date: 2025-07-19, from: The Gardener's Path
+
+<p>Extend your spring garden display with single late cottage tulips, with their tall stems and elegant, cup-shaped blooms. These May-flowering varieties bloom later than other types of tulips, adding height and lasting color to any planting scheme. Learn how to grow single late cottage tulips in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-single-late-tulips/">How to Grow Single Late Cottage Tulips</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-single-late-tulips/>
+
+---
+
+## These Are the Winners of the 2025 Sunset International Spirits Competition
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+Congratulations to this year’s winners of the 2025 Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-winners>
+
+---
+
+## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
+
+date: 2025-07-19, from: Sunset Magazine - Living in the West
+
+The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
+
+---
+
+## 45 Types of Beetle Insects (With Pictures and Identification)
+
+date: 2025-07-19, from: Yard Life blog
+
+<p>Beetles are among the most diverse and fascinating insects on the planet, with over 350,000 species identified worldwide. Their incredible ... </p>
+<p class="read-more-container"><a title="45 Types of Beetle Insects (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/#more-32214" aria-label="Read more about 45 Types of Beetle Insects (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/">45 Types of Beetle Insects (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/>
 
