@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-07-26 14:13:10
+updated: 2025-07-27 06:08:20
 ---
 
 # north america
 
-(date: 2025-07-26 14:13:10)
+(date: 2025-07-27 06:08:20)
+
+---
+
+## Contrarians Fight Trump’s Illegal Abductions
+
+date: 2025-07-26, from: The Contrarian
+
+Publisher's Roundup 28 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-fight-trumps-illegal>
+
+---
+
+##  YOU LOVE TO SEE IT: A Cure For Debt 
+
+date: 2025-07-26, from: The Lever News
+
+ Hospital bills are wiped clean, writers win against chatbots, a bill beats the heat, and foreign aid is saved.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-a-cure-for-debt/>
 
 ---
 
@@ -908,42 +932,4 @@ date: 2025-07-20, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-buckle-up-america/>
-
----
-
-##  YOU LOVE TO SEE IT: Breaking The ICE 
-
-date: 2025-07-19, from: The Lever News
-
- States stand up to ICE, a class act in the Garden State, wildlife crossings get a boost, and an agency backtracks on DOGE cuts.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-breaking-the-ice/>
-
----
-
-## Reasons for hope in American democracy…millions of them!
-
-date: 2025-07-19, from: The Contrarian
-
-Publisher's Roundup 27 
-
-<br> 
-
-<https://contrarian.substack.com/p/reasons-for-hope-in-american-democracymillions>
-
----
-
-## The attack on education with Randi Weingarten & Arne Duncan 
-
-date: 2025-07-19, from: The Contrarian
-
-Listen now | American Federation of Teachers President Randi Weingarten and former Secretary of Education Arne Duncan 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/168675442/bb0e532d3acbf4bdcac90300d524ef9f.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/168675442/bb0e532d3acbf4bdcac90300d524ef9f.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://contrarian.substack.com/p/the-attack-on-education-with-randi>
 

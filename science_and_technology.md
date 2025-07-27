@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-07-26 14:13:13
+updated: 2025-07-27 06:08:22
 ---
 
 # science and technology
 
-(date: 2025-07-26 14:13:13)
+(date: 2025-07-27 06:08:22)
+
+---
+
+## Seeing is believing in biomedicine, which isn't great when AI gets it wrong
+
+date: 2025-07-27, updated: 2025-07-27, from: The Register (UK I.T. News)
+
+<h4>&#39;It looks sexy but it&#39;s wrong&#39; - like the improbably well-endowed rat</h4> <p>Biomedical visualization specialists haven&#39;t come to terms with how or whether to use generative AI tools when creating images for health and science applications. But there&#39;s an urgent need to develop guidelines and best practices because incorrect illustrations of anatomy and related subject matter could cause harm in clinical settings or as online misinformation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/>
+
+---
+
+## Congress tries to outlaw AI that jacks up prices based on what it knows about you
+
+date: 2025-07-26, updated: 2025-07-26, from: The Register (UK I.T. News)
+
+<h4>Surveillance-based pricing? Two lawmakers say enough</h4> <p>Two Democratic members of Congress, Greg Casar (D-TX) and Rashida Tlaib (D-MI,) have introduced legislation in the US House of Representatives to ban the use of AI surveillance to set prices and wages.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/>
+
+---
+
+## Blame a leak for Microsoft SharePoint attacks, researcher insists
+
+date: 2025-07-26, updated: 2025-07-26, from: The Register (UK I.T. News)
+
+<h4>MAPP program to blame?</h4> <p>A week after Microsoft told the world that its July software updates didn&#39;t fully fix a couple of bugs, which allowed miscreants to take over on-premises SharePoint servers and remotely execute code, researchers have assembled much of the puzzle — with one big missing piece.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/>
 
 ---
 
@@ -2226,28 +2262,4 @@ date: 2025-07-20, updated: 2025-07-20, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/20/uk_microsoft_snooping_russia/>
-
----
-
-## China proves that open models are more effective than all the GPUs in the world
-
-date: 2025-07-19, updated: 2025-07-19, from: The Register (UK I.T. News)
-
-<h4>OpenAI delayed its promised open-weights model since GPT-2, leaving the Middle Kingdom clearly in the lead</h4> <p><strong>Comment</strong>  OpenAI was supposed to make good on its name and release its first open-weights model since GPT-2 this week.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/19/openai_us_china/>
-
----
-
-## Ex-IDF cyber chief on Iran, Scattered Spider, and why social engineering worries him more than 0-days
-
-date: 2025-07-19, updated: 2025-07-19, from: The Register (UK I.T. News)
-
-<h4>Keep It Simple, Stupid</h4> <p><strong>Interview</strong>  Scattered Spider and Iranian government-backed cyber units have more in common than a recent uptick in hacking activity, according to Ariel Parnes, a former colonel in the Israeli Defense Forces&#39; cyber unit 8200.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/19/idf_cyber_chief_iran/>
 

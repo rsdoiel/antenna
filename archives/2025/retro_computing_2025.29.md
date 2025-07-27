@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-26 14:13:19
+updated: 2025-07-27 06:08:27
 ---
 
 # retro computing
 
-(date: 2025-07-26 14:13:19)
+(date: 2025-07-27 06:08:27)
+
+---
+
+## b.log 2025/07/26 - Linux issues, Negative scanner refresh, Age verification, How we're all going to die horribly, A new laser printer (sort of), Even more AI music (5 songs to download).
+
+date: 2025-07-26, from: Richard Murray's blog
+
+Linux issues, Negative scanner refresh, Age verification, How we're all going to die horribly, A new laser printer (sort of), Even more AI music (5 songs to download). 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250726>
+
+---
+
+## Digital Group added information
+
+date: 2025-07-26, from: Hans Otten's Retro blog
+
+The Digital Group made computers with Z80, 8080, 6800 and 6502 as choice.I found a article in MICROTREK magazine 1977 with a review of this computer. See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/digital-group-added-information/>
 
 ---
 

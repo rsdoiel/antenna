@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-07-26 14:13:18
+updated: 2025-07-27 06:08:26
 ---
 
 # motorcycles
 
-(date: 2025-07-26 14:13:18)
+(date: 2025-07-27 06:08:26)
+
+---
+
+## Klim’s New Off-Road Motorcycle Gear Is Designed To Keep You Cool In Extreme Heat
+
+date: 2025-07-27, from: Ride Apart, Electric Motorcycle News
+
+Heat fatigue is a silent killer, and it pays dividends to wear gear designed to keep you cool. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/766928/klim-baja-s4-extreme-heat-gear-launch/>
+
+---
+
+## Connor Zilisch Earns Special Pennzoil 250 Victory
+
+date: 2025-07-27, from: Kickin the Tires blog
+
+INDIANAPOLIS (Saturday, July 26, 2025) – Connor Zilisch gave himself a late birthday present and a special gift to NASCAR legend Dale Earnhardt Jr. by winning the Pennzoil 250 NASCAR&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/connor-zilisch-earns-special-pennzoil-250-victory/>
+
+---
+
+## Everyone Wants To Kiss The Bricks At Indianapolis Motor Speedway
+
+date: 2025-07-27, from: Kickin the Tires blog
+
+By Lewis Franck, Special to Kickin’ the Tires INDIANAPOLIS &#8211; Kissing the Bricks at the Indianapolis Motor Speedway. It’s something that every driver and most team owners aspire to do.&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/everyone-wants-to-kiss-the-bricks-at-indianapolis-motor-speedway/>
+
+---
+
+## Watch as a Motorcyclist Hits a Bear, Surprisingly Doesn't Get Eaten Alive
+
+date: 2025-07-26, from: Ride Apart, Electric Motorcycle News
+
+New fear unlocked.  
+
+<br> 
+
+<https://www.rideapart.com/news/767056/motorcyclist-hits-a-bear-riding-off-road-video/>
 
 ---
 
@@ -427,16 +476,4 @@ It’s a big deal. So big, in fact, that it deleted all of its previous Instagra
 <br> 
 
 <https://www.rideapart.com/news/766273/norton-teaser-new-motorcycle-social-media/>
-
----
-
-## Ontario Honda Dealers Indy Toronto Preview: Herta on pole, tire wear raises questions
-
-date: 2025-07-19, from: Kickin the Tires blog
-
-By Austin Lawton, Staff Writer A bumpy track, wild tire wear and fast Andretti Global cars set the stage for Sunday’s Ontario Honda Dealers Indy Toronto.&#160; The IndyCar series returns&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/indycar/ontario-honda-dealers-indy-toronto-preview-herta-on-pole-tire-wear-raises-questions/>
 

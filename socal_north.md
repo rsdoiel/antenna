@@ -1,11 +1,187 @@
 ---
 title: socal north
-updated: 2025-07-26 14:13:11
+updated: 2025-07-27 06:08:20
 ---
 
 # socal north
 
-(date: 2025-07-26 14:13:11)
+(date: 2025-07-27 06:08:20)
+
+---
+
+## City removes DIY crosswalks around popular West LA park. Organizer says, game on
+
+date: 2025-07-27, updated: 2025-07-27, from: The LAist
+
+The set of crosswalks were painted in May leading to the popular Stoner Park. 
+
+<br> 
+
+<https://laist.com/news/transportation/city-removes-diy-crosswalks-around-popular-west-la-park-organizer-says-game-on>
+
+---
+
+## Books are just the start at this new community library in El Sereno
+
+date: 2025-07-27, updated: 2025-07-27, from: The LAist
+
+Sewing machine? Power tools? Community? The new Coyotl + Macehaulli Tool and Book Lending Library in El Sereno has everything you might need — and much more. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/books-are-just-the-start-at-this-new-community-library-in-el-sereno>
+
+---
+
+## The story behind the Lady Justice sculpture in downtown LA
+
+date: 2025-07-27, updated: 2025-07-27, from: The LAist
+
+Artist Alison Saar refused to create her version of Lady Justice with a sword, scales, or blindfold, because… of the checkered history of justice in the U.S. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/story-behind-the-lady-justice-sculpture-in-downtown-la>
+
+---
+
+## Newsom ramps up California redistricting threat as Texas weighs new Republican maps
+
+date: 2025-07-27, updated: 2025-07-27, from: The LAist
+
+As Texas moves forward with an off-cycle redistricting to shore up Republicans’ narrow House majority, Gov. Gavin Newsom is plotting a Democratic response in California. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-ramps-up-california-redistricting-threat-as-texas-weighs-new-republican-maps>
+
+---
+
+## Staying Cool and Prepared This Summer
+
+date: 2025-07-26, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Summer in Santa Clarita is a time to enjoy all of the outdoor recreation opportunities, from hiking and biking trails in our open spaces to community events and relaxing days by the pool. Along with summer fun comes a very real and growing concern – extreme heat and the dangers [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/26/staying-cool-and-prepared-this-summer/">Staying Cool and Prepared This Summer</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/26/staying-cool-and-prepared-this-summer/>
+
+---
+
+## The company behind Coldplay 'kiss cam' scandal scores a Hollywood connection
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+Not surprising: Astronomer is poking fun at its newfound infamy. Very surprising: It's hired a big Hollywood name to do it. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/gwyneth-paltrow-debuts-as-a-very-temporary-spokesperson-for-kisscam-sastronomer>
+
+---
+
+## He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement
+
+date: 2025-07-26, from: Longbeach Post
+
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Brian Peterson is undertaking a project that’s nearly twice as tall as his previous height record. It will end up being one of the most noticeable art pieces in Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean">He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean>
+
+---
+
+## Trump is in Scotland. The Epstein questions have followed him there
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+President Trump is expected to spend much of his time at his golf courses. He'll also meet with British Prime Minister Keir Starmer and European Commission President Ursula von der Leyen. 
+
+<br> 
+
+<https://laist.com/news/trump-is-in-scotland-the-epstein-questions-have-followed-him-there>
+
+---
+
+## Trump’s crackdown on homelessness: What does it mean for California?
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+Trump’s call to enforce bans on encampments echoes Gov. Gavin Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
+
+---
+
+## Trump’s crackdown on homelessness: What does it mean for California?
+
+date: 2025-07-26, from: Longbeach Post
+
+<figure><img width="1024" height="676" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-300x198.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-768x507.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-164x108.webp 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1536x1014.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1200x792.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1568x1035.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-400x264.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Trump’s call to enforce bans on encampments echoes Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response.</p>
+<p>The post <a href="https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california">Trump’s crackdown on homelessness: What does it mean for California?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
+
+---
+
+## ICE sweeps spur citizen patrols on Terminal Island — and troubling World War II memories
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+The island in the Port of Los Angeles is a staging ground for federal agents. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/ice-raids-immigration-japanese-american-terminal-island>
+
+---
+
+## Boyle Heights restaurants are on the brink in wake of ICE raids: ‘I don’t know how much longer we can do this’
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+In a survey of more than a dozen local restaurants, several reported losing 50% or more of their customers or revenue over the last several weeks. 
+
+<br> 
+
+<https://laist.com/news/boyle-heights-restaurants-are-on-the-brink-in-wake-of-ice-raids>
+
+---
+
+## A grenade connected to the explosion that killed 3 deputies remains missing, officials warn
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+An investigation into the blast remains ongoing, but policy changes for handling explosives are changing. 
+
+<br> 
+
+<https://laist.com/news/missing-grenade-explosion-3-deputies-killed>
+
+---
+
+## California schools regain federal money they counted on after Trump releases hold
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+After withholding roughly $900 million from California’s K-12 and adult schools, the Education Department said today that it will release the money starting next week. But schools must agree to certain conditions first. 
+
+<br> 
+
+<https://laist.com/news/education/california-schools-regain-federal-money-they-counted-on-after-trump-releases-hold>
 
 ---
 
@@ -1544,132 +1720,4 @@ NAMI San Gabriel Valley is hosting a monthly virtual peer support group.
 <br> 
 
 <https://laist.com/news/support-group-helps-survivors-process-devastation-eaton-palisades-fires>
-
----
-
-## Main road through Rancho Palos Verdes under emergency repairs, access reduced
-
-date: 2025-07-19, updated: 2025-07-19, from: The LAist
-
-Some 15,000 vehicles uses Palos Verdes Drive South a day. Alternating one-lane access is available. 
-
-<br> 
-
-<https://laist.com/news/transportation/main-road-through-rancho-palos-verdes-shuts-down-for-emergency-repairs>
-
----
-
-## Man arrested for allegedly shooting into group of women; nobody hurt, police say
-
-date: 2025-07-19, from: Longbeach Post
-
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>A 24-year-old man was arrested on suspicion of assault with a deadly weapon and carrying a loaded firearm in a public place.</p>
-<p>The post <a href="https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say">Man arrested for allegedly shooting into group of women; nobody hurt, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say>
-
----
-
-## Unwind, Explore and Experience Summer in Santa Clarita
-
-date: 2025-07-19, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin With summer in full swing, there’s no better time to explore and experience everything Santa Clarita has to offer. From scenic hikes and free live music to locally owned restaurants, breweries and wineries, the season is packed with opportunities to relax, explore and make unforgettable memories. Whether you’re a longtime [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/07/19/unwind-explore-and-experience-summer-in-santa-clarita/">Unwind, Explore and Experience Summer in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/07/19/unwind-explore-and-experience-summer-in-santa-clarita/>
-
----
-
-## The USDA wants states to hand over food stamp data by the end of July
-
-date: 2025-07-19, updated: 2025-07-19, from: The LAist
-
-The USDA has set a deadline of July 30 for states to hand over the sensitive data of tens of millions of people who applied for federal food assistance, while a lawsuit is trying to stop the collection. 
-
-<br> 
-
-<https://laist.com/news/the-usda-wants-states-to-hand-over-food-stamp-data-by-the-end-of-july>
-
----
-
-## Trump files defamation suit over 'Wall Street Journal' story on his Epstein ties
-
-date: 2025-07-19, updated: 2025-07-19, from: The LAist
-
-President Trump filed a $10 billion defamation suit Friday against the The Wall Street Journal following reporting on his past ties to convicted sex offender Jeffrey Epstein. 
-
-<br> 
-
-<https://laist.com/news/trump-files-defamation-suit-over-wall-street-journal-story-on-his-epstein-ties>
-
----
-
-## Authorities arrest driver who plowed car into crowd outside of East Hollywood nightclub
-
-date: 2025-07-19, updated: 2025-07-20, from: The LAist
-
-The man was attacked by bystanders after the crash and was shot and wounded. 
-
-<br> 
-
-<https://laist.com/news/at-least-30-people-injured-after-car-plowed-into-crowd-in-east-hollywood>
-
----
-
-## In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach
-
-date: 2025-07-19, from: Longbeach Post
-
-<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The local company has amassed 1,000 workers at its 189,00-square-foot campus where it aims to build a new generation of space station by 2030.</p>
-<p>The post <a href="https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach">In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach>
-
----
-
-## Nearly half of Asian American Californians report hate incidents in new survey
-
-date: 2025-07-19, updated: 2025-07-20, from: The LAist
-
-A majority of respondents to a survey conducted by Stop AAPI Hate are bracing for an increase in anti-Asian racism under the Trump administration. 
-
-<br> 
-
-<https://laist.com/news/nearly-half-of-asian-american-californians-report-hate-incidents-in-new-survey>
-
----
-
-## The economy is turbulent for influencers too — here's how you might see it online
-
-date: 2025-07-19, updated: 2025-07-19, from: The LAist
-
-Seesawing tariffs and turbulent financial markets are playing out on social media feeds, affecting the multibillion-dollar influencer industry in what could be a new recession indicator. 
-
-<br> 
-
-<https://laist.com/news/the-economy-is-turbulent-for-influencers-how-you-might-see-it-online>
-
----
-
-## LA sues Airbnb, accusing rental platform of price gouging after January fires
-
-date: 2025-07-19, updated: 2025-07-19, from: The LAist
-
-The short-term rentals company disputes the allegations and says it will continue to support the city's recovery efforts. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/la-sues-airbnb-accusing-rental-platform-of-price-gouging-after-wildfires>
 

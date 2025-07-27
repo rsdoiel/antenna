@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-07-26 14:13:16
+updated: 2025-07-27 06:08:25
 ---
 
 # journalism
 
-(date: 2025-07-26 14:13:16)
+(date: 2025-07-27 06:08:25)
+
+---
+
+## Gallery: 4 doctoral students share protocols, lessons they’ve learned in wet labs at UCLA
+
+date: 2025-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Doctoral students use interdisciplinary technologies in wet labs across UCLA’s South Campus to investigate topics ranging from tool development to metabolic diseases. UCLA enrolled 859 doctoral students across the life sciences and health science academic fields for the 2024-2025 academic year. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/25/gallery-4-doctoral-students-share-protocols-lessons-theyve-learned-in-wet-labs-at-ucla/>
 
 ---
 
@@ -13,6 +25,7 @@ updated: 2025-07-26 14:13:16
 
 date: 2025-07-25, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated July 26 at 8:49 p.m.</em>
 This summer, as the sun blazes overhead, movies are heating up with stories worth escaping into.
 Whether viewers are chasing cool air-conditioned theaters or a late-night premiere under the stars, there is no shortage of cinematic thrills. 
 
@@ -45,6 +58,42 @@ UCLA Housing announced Thursday that meal swipes can no longer be used at any th
 
 ---
 
+## Generative AI models love to cite Reuters and Axios, study finds
+
+date: 2025-07-24, from: Nieman Journalism Lab
+
+Journalistic content is integral to answers from generative AI tools, a new report from Generative Pulse by Muck Rack finds. The authors of the report, published this week, analyzed more than one million citations output by generative AI models. Journalistic content was cited more than 27% of the time across all Muck Rack’s tests, and... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/generative-ai-models-love-to-cite-reuters-and-axios-study-finds/>
+
+---
+
+## 6AM City acquires Good Daily’s network of more than 350 AI-generated local newsletters
+
+date: 2025-07-24, from: Nieman Journalism Lab
+
+On Monday, the newsletter company 6AM City announced it had purchased Good Daily, a network of AI-generated local newsletters aimed at hundreds of small towns and cities across the U.S. In January, I uncovered Good Daily, which in less than a year had quietly expanded to more than 350 towns and cities. At the time,... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/good-dailys-network-of-more-than-350-ai-generated-local-newsletters-finds-a-buyer/>
+
+---
+
+## I teach college and report on Colorado media. More professors should do the same in other states
+
+date: 2025-07-24, from: Nieman Journalism Lab
+
+Over the years, the crisis facing local news has meant the disappearance of reporting on the arts, politics, sports, and local government. Newspapers have disappeared from many local communities, and the ranks of individual local journalists have plummeted over the past two decades. The retrenchment has also led to a loss of something else: reporters and columnists at local news... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/i-teach-college-and-report-on-colorado-media-there-should-be-more-professors-doing-the-same-in-other-states/>
+
+---
+
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-24, from: The Daily Bruin (UCLA Student Newspaper))
 
 The court then presented the deposition of Eugene Volokh, an expert in First Amendment law who was the chair of the Committee on Academic Freedom at UCLA at the time of Klein’s suspension. 
@@ -62,6 +111,30 @@ Madsen completed his second day of testimony Wednesday. Judge H. Jay Ford III sa
 <br> 
 
 <https://dailybruin.com/2025/07/23/491268/>
+
+---
+
+## How did newspapers in places like Harrisburg, Birmingham, and Syracuse become some of America’s most-read online?
+
+date: 2025-07-23, from: Nieman Journalism Lab
+
+The size of a news site&#8217;s audience isn&#8217;t everything. For an important story, reaching just one person can make a huge impact — if it&#8217;s the right person, someone who can take action based on what the journalist has learned and shared. Some of the best reporting in the world is aimed at narrow niche... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/how-did-newspapers-in-places-like-harrisburg-birmingham-and-syracuse-become-some-of-americas-most-read-online/>
+
+---
+
+## Wired and The Verge lean into personalization
+
+date: 2025-07-23, from: Nieman Journalism Lab
+
+Today, Wired editorial director Katie Drummond announced what she called a “new era” for the publication, with an emphasis on connecting readers more directly to its journalism and the reporters who make it happen. To do that, Wired is enhancing its subscription offering ($48 annually, or $4 a month, though they are currently running a... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/wired-and-the-verge-are-leaning-into-personalization/>
 
 ---
 
@@ -109,6 +182,30 @@ date: 2025-07-22, from: The Daily Bruin (UCLA Student Newspaper)
 <br> 
 
 <https://dailybruin.com/2025/07/22/daily-bruin-print-issue-july-22-2025/>
+
+---
+
+## Patrick Soon-Shiong says he’ll take the L.A. Times public within a year
+
+date: 2025-07-22, from: Nieman Journalism Lab
+
+The Los Angeles Times will be a public company within the next year, its billionaire owner told Daily Show host Jon Stewart on Monday night. &#8220;Whether you are right, left, Democrat, Republican: you&#8217;re an American. The opportunity [is] for us to provide a paper that is the voices of the people, truly the voices of... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/patrick-soon-shiong-says-hell-take-the-l-a-times-public-within-the-year/>
+
+---
+
+## Public media is very different from state-run news. Here’s why.
+
+date: 2025-07-22, from: Nieman Journalism Lab
+
+Champions of the almost entirely party-line vote in the U.S. Senate to erase $1.1 billion in already approved funds for the Corporation for Public Broadcasting called their action a refusal to subsidize liberal media. “Public broadcasting has long been overtaken by partisan activists,” said U.S. Sen. Ted Cruz of Texas, insisting there is no need for government to... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/public-media-is-very-different-from-state-run-news-heres-why/>
 
 ---
 
@@ -165,6 +262,18 @@ Marines arrived at the federal building June 13 to support National Guard troops
 
 ---
 
+## Public media appeals to audiences for support after Congress cuts off its funding
+
+date: 2025-07-21, from: Nieman Journalism Lab
+
+On Friday, Congress authorized the Trump administration to cut off federal funding to public media in the United States. The passage of the Rescissions Act of 2025 revokes $1.1 billion of funding for the Corporation for Public Broadcasting, which distributes money to public media stations across the country. NPR, PBS, and their local affiliates have... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/public-media-appeals-to-audiences-for-support-after-rescission-bill-passes/>
+
+---
+
 ## Rising Artists: A variety of artists release songs of the summer for every type of listener
 
 date: 2025-07-21, from: The Daily Bruin (UCLA Student Newspaper)
@@ -175,6 +284,18 @@ As people look for something refreshing this summer, up-and-coming artists have 
 <br> 
 
 <https://dailybruin.com/2025/07/21/rising-artists-a-variety-of-artists-release-songs-of-the-summer-for-every-type-of-listener/>
+
+---
+
+## Charting myths, debt, and monkey farms: How Kontinentalist is reimagining data journalism in Asia
+
+date: 2025-07-21, from: Nieman Journalism Lab
+
+An original storytelling startup is giving visual data journalism a distinctly Asian flavor. Singapore-based Kontinentalist began with an initial assignment to report on the impact of China’s Belt and Road Initiative across Asia, but has since gone on to feature corruption on Cambodian monkey farms, foreign direct investments in debt-riddled Laos, and even myths and monsters from across... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/charting-myths-debt-and-monkey-farms-how-kontinentalist-is-reimagining-data-journalism-in-asia/>
 
 ---
 
@@ -239,67 +360,4 @@ Geno Mehalik of the Arthur Ashe Student Health and Wellness Center spoke with Da
 <br> 
 
 <https://dailybruin.com/2025/07/19/geno-mehalik-expresses-ashe-center-commitment-to-inclusive-care-for-lgbtq-bruins/>
-
----
-
-## USAC approves letter criticizing ban of student governments’ anti-Israel boycotts
-
-date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Undergraduate Students Association Council unanimously approved a letter to UC President Michael Drake criticizing the UC&#8217;s ban on student governments&#8217; boycott of countries, including Israel, at an emergency meeting July 15. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/19/usac-approves-letter-criticizing-ban-of-student-governments-anti-israel-boycotts/>
-
----
-
-## Art exhibit preview: Summer exhibitions show artistic appreciation, LA diversity
-
-date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-As the weather gets nicer, there&#8217;s no better time than the present to explore the city.
-When looking for the perfect summer activity, Los Angeles museums are the place to go. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/19/art-exhibit-preview-summer-exhibitions-show-artistic-appreciation-la-diversity/>
-
----
-
-## USAC recap – July 8
-
-date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated July 19 at 12:41 p.m.</em>
-The Undergraduate Students Association Council approved a resolution condemning a rise in anti-Arab, anti-Muslim and anti-Palestinian racism during its second meeting of the summer July 8. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/19/usac-recap-july-8-2/>
-
----
-
-## UC Regents shifts to bypass approval for increasing professional program tuition
-
-date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-Amid rising costs and deferred state funds, the UC Board of Regents weighed key financial decisions &#8211; including a shift that bypasses full board approval for tuition increases in professional programs &#8211; at its bimonthly meeting Wednesday. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/18/uc-regents-shifts-to-bypass-approval-for-increasing-professional-program-tuition/>
-
----
-
-## ‘Food deserts’ in LA build on systemic factors, create barriers to healthy eating
-
-date: 2025-07-19, from: The Daily Bruin (UCLA Student Newspaper)
-
-Residents in some neighborhoods of Los Angeles live in food deserts, creating systematic barriers to healthy eating.
-The nonprofit organization Food Empowerment Project defines a &#8220;food desert&#8221; as a geographic area that lacks or has limited access to nutritious and affordable food, often forcing residents to rely on cheap, unhealthy fast food options. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/18/food-deserts-in-la-build-on-systemic-factors-create-barriers-to-healthy-eating/>
 

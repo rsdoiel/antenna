@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-07-26 14:13:21
+updated: 2025-07-27 06:08:29
 ---
 
 # small papers
 
-(date: 2025-07-26 14:13:21)
+(date: 2025-07-27 06:08:29)
+
+---
+
+## He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement
+
+date: 2025-07-26, from: Long Beach Post
+
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Brian Peterson is undertaking a project that’s nearly twice as tall as his previous height record. It will end up being one of the most noticeable art pieces in Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean">He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean>
+
+---
+
+## Trump’s crackdown on homelessness: What does it mean for California?
+
+date: 2025-07-26, from: Long Beach Post
+
+<figure><img width="1024" height="676" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-300x198.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-768x507.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-164x108.webp 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1536x1014.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1200x792.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1568x1035.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-400x264.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Trump’s call to enforce bans on encampments echoes Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response.</p>
+<p>The post <a href="https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california">Trump’s crackdown on homelessness: What does it mean for California?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
+
+---
+
+## Appeal on Tap Monday in Government’s Bid to Resume SoCal Immigration Raids
+
+date: 2025-07-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; An appellate hearing is scheduled for Monday in President Donald Trump’s administration’s bid for a stay pending appeal of a temporary restraining order (TRO) halting the [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/25/appeal-on-tap-monday-in-governments-bid-to-resume-socal-immigration-raids/">Appeal on Tap Monday in Government’s Bid to Resume SoCal Immigration Raids</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/25/appeal-on-tap-monday-in-governments-bid-to-resume-socal-immigration-raids/>
 
 ---
 
@@ -617,48 +662,4 @@ date: 2025-07-20, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/man-seriously-burned-in-fire-at-carmelitos-housing-complex-long-beach-fire-department-says>
-
----
-
-## Man arrested for allegedly shooting into group of women; nobody hurt, police say
-
-date: 2025-07-19, from: Long Beach Post
-
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>A 24-year-old man was arrested on suspicion of assault with a deadly weapon and carrying a loaded firearm in a public place.</p>
-<p>The post <a href="https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say">Man arrested for allegedly shooting into group of women; nobody hurt, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/man-arrested-for-allegedly-shooting-into-group-of-women-nobody-hurt-police-say>
-
----
-
-## Activists: ICE Agents Relocate Woman to Another Hospital Without Explanation
-
-date: 2025-07-19, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<p> LOS ANGELES (CNS) &#8211; A 36-year-old woman who was removed from a hospital in Glendale has apparently been relocated to an Anaheim facility without explanation, according to advocates on her [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/07/19/activists-ice-agents-relocate-woman-to-another-hospital-without-explanation/">Activists: ICE Agents Relocate Woman to Another Hospital Without Explanation</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/07/19/activists-ice-agents-relocate-woman-to-another-hospital-without-explanation/>
-
----
-
-## In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach
-
-date: 2025-07-19, from: Long Beach Post
-
-<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/18154436/17jul25-7-17-25-vista-8-904066-gnn0q23u-930119-aKJqTbx9.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The local company has amassed 1,000 workers at its 189,00-square-foot campus where it aims to build a new generation of space station by 2030.</p>
-<p>The post <a href="https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach">In a race to replace the International Space Station, Vast unveils new headquarters in Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/business/in-a-race-to-replace-the-international-space-station-vast-unveils-new-headquarters-in-long-beach>
 

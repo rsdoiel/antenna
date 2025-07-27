@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-07-26 14:13:20
+updated: 2025-07-27 06:08:28
 ---
 
 # food
 
-(date: 2025-07-26 14:13:20)
+(date: 2025-07-27 06:08:28)
+
+---
+
+## Zorgas Borgas I Just Got Bit By The Coffee Bat & It’s Driving Me MAD!!
+
+date: 2025-07-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.  
+
+<br> 
+
+<https://sprudge.com/zorgas-borgas-i-just-got-bit-by-the-coffee-bat-its-driving-me-mad-382329.html>
+
+---
+
+## 29 Savory Breakfast Ideas to Jumpstart Your Mornings
+
+date: 2025-07-27, from: Bon Appetet
+
+Like an everything bagel–inspired quiche, seaweed-filled morning buns, and protein-packed dosas laced with chile and ginger. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/savory-breakfast-ideas-recipes>
 
 ---
 
@@ -1156,28 +1180,4 @@ date: 2025-07-20, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/25-zucchini-recipes/>
-
----
-
-## What to Buy (and Skip) at Trader Joe’s For Summer 2025
-
-date: 2025-07-19, from: Bon Appetet
-
-So many strawberry things. A cottage cheese dip?! Passion fruit sorbet! What a summer. 
-
-<br> 
-
-<https://www.bonappetit.com/story/trader-joes-summer-products-2025>
-
----
-
-## Around The World Of Coffee Gear
-
-date: 2025-07-19, from: The Sprudge
-
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This week's selection of coffee gear. 
-
-<br> 
-
-<https://sprudge.com/around-the-world-of-coffee-gear-380219.html>
 

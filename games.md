@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-26 14:13:16
+updated: 2025-07-27 06:08:24
 ---
 
 # games
 
-(date: 2025-07-26 14:13:16)
+(date: 2025-07-27 06:08:24)
+
+---
+
+## Karlach&#8217;s actor is just as obsessed with her as you are
+
+date: 2025-07-27, updated: 2025-07-25, from: Polygon Website
+
+Samantha Béart is obviously not a seven-foot-tall Barbarian in real life, but the actor says they do share some personality traits with one.&#160; Béart is perhaps best known for their role as Karlach in Baldur&#8217;s Gate 3 — the flammable, lovable Tiefling who became one of the most-romanced characters in the game. The UK-based actor [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/616484/karlach-baldurs-gate-3-actor-interview-samantha-beart>
+
+---
+
+## Every tease Marvel still needs to pay off, in theory
+
+date: 2025-07-27, updated: 2025-07-27, from: Polygon Website
+
+Over the past 17 years, Marvel Studios has focused as much on the continuity of its ongoing mega-story as it’s focused on the content of any given superhero film. The 23-film Infinity Saga was never just about individual movie narratives — it was about the buildup to Avengers: Infinity War and Avengers: Endgame, the two-part [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors>
+
+---
+
+## Demon Slayer: Infinity Castle fans need to mark their calendars for Aug. 15
+
+date: 2025-07-27, updated: 2025-07-26, from: Polygon Website
+
+San Diego Comic-Con is in full swing, and the latest Hall H panel reveal goes to the upcoming Demon Slayer: Kimetsu no Yaiba film, which will begin selling tickets for North American theaters on Friday, Aug. 15. Alongside the announcement, an exclusive visual for Demon Slayer: Infinity Castle also debuted and can be seen below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/616680/demon-slayer-infinity-castle-tickets-us-release-date>
+
+---
+
+## The Starfleet Academy trailer is pure Star Trek catnip
+
+date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
+
+A dawn of a new future, a rousing speech from a Federation captain, a young squad of cadets mixing and mingling, multiple references to Deep Space Nine and Voyager… if the last few years of new Star Trek wasn’t for you, Starfleet Academy is working hard to win you back. At Saturday’s epically sized Star [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/616692/starfleet-academy-trailer-sdcc-2025>
+
+---
+
+## Coyote vs. Acme escapes death by Warner Bros. Discovery, gets 2026 release date
+
+date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
+
+After years in limbo, the live-action Looney Tunes movie Coyote vs. Acme is confirmed to be released in theaters in 2026. Film distributor Ketchup Entertainment, which picked up the movie after Warner Bros. shelved it, released new images of the film and announced a release date at San Diego Comic-Con on Saturday. The legal comedy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/616563/coyote-vs-acme-movie-release-date-warner-bros>
+
+---
+
+## I am turning my Warframe into a killing machine that does hundreds of thousands of damage
+
+date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
+
+I can’t stop turning my favorite Warframe into a ball of swirling glass. The damage is colossal. It’s making me worse in every way. But I cannot and will not stop. Here’s the situation: When I started playing Warframe earlier this year, I set my sights on building a Warframe called Gara. This whole process [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/616442/warframe-gara-splinter-storm-synergy>
+
+---
+
+## Why The Incredibles still stands as the best Fantastic Four movie
+
+date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
+
+It’s been more than 20 years since Brad Bird’s animated superhero movie The Incredibles hit theaters —&#160;plenty of time for wave after wave of fans to hit the internet and renew the claim that it’s an off-license Fantastic Four film with the roles swapped around. The comparisons (and fan-created competitions) between Bird’s super-team and the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/616644/incredibles-best-fantastic-four-movie>
+
+---
+
+## FromSoftware&#8217;s making fun of hardcore Elden Ring Nightreign players
+
+date: 2025-07-26, updated: 2025-07-25, from: Polygon Website
+
+It’s been a long time coming, but duos is descending on Elden Ring Nightreign at the end of this month alongside a handful of neat quality of life changes. There’s a new trailer showcasing the two-player mode, but I want to call attention to a small moment within that footage that playfully pokes fun at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/616419/elden-ring-nightreign-what-is-evergaol-meta-attack-power-youtube>
+
+---
+
+## Star Wars and Rocky had a baby, and it’s a hidden gem you can stream for free
+
+date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
+
+I am a devout follower of Shudder, the streaming service for all things spooky. But as a science-fiction dork, I am often found crying out for an SF/F companion to the horror streaming service. In the streaming era, what’s replaced Sci-Fi Channel circa 1999?  The closest answer I have found is Tubi, the ad-supported watch-for-free [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/616559/arena-1989-underrated-sci-fi-movie>
+
+---
+
+## Nintendo is fighting the attention war, not the console war
+
+date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
+
+As successful as the Nintendo Switch 2’s launch has been (and it has been very successful), it came with plenty of impatience. Its compact day one game lineup, led by Mario Kart World and Nintendo Switch 2 Welcome Tour, left some potential buyers a bit underwhelmed. It was a notable step down from the PlayStation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/615967/nintendo-switch-2-game-release-calander-2025-analysis>
 
 ---
 
@@ -990,124 +1110,4 @@ Deadline reported this week that Netflix is working on a live-action adaptation 
 <br> 
 
 <https://www.polygon.com/animation-cartoons/614288/90s-cartoon-reboot-bucky-ohare-star-wars-parody>
-
----
-
-## Warframe is going full Catholic
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-Finally, there will be a Warframe for every letter of the alphabet — and the last to arrive is a devil-themed character named Uriel. The new playable character will be part of a side story that will be released alongside Warframe’s year-end update, The Old Peace. The new Frame was revealed at TennoCon, Digital Extremes’ [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/613713/warframe-uriel-protoframe-harrow-wisp-tennocon>
-
----
-
-## Warframe’s next chapter will explore a new star system
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-The next chapter of Warframe is coming, and it’s taking players across the stars to Tau. The Old Peace will be Warframe’s year-end update. Developer Digital Extremes revealed limited but exciting details about the story at its annual TennoCon event. The expansion will take players to Tau, a distant star system that is the holy [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/613839/warframe-tennocon-tau-old-peace-expansion>
-
----
-
-## Warframe is getting a tabletop RPG from Pathfinder publishers
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-Warframe is coming to a dining room table near you. Developer Digital Extremes is collaborating with Pathfinder creator Paizo Games on a new TTRPG module for Warframe, using Paizo’s Starfinder system. They’ve created a standalone tabletop adventure that will launch in October 2025, and it’s called Warframe x Starfinder: Operation Orias. “This is just from [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/tabletop-games/613717/warframe-ttrpg-paizo-starfinder-tennocon>
-
----
-
-## Lagoon Layer fossil locations in Donkey Kong Bananza
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-In Donkey Kong Bananza, you’ll need to find fossils on the Lagoon Layer if you want to buy any swanky clothes or fur dye for Donkey Kong and Pauline. While fossils like ammonite are just about everywhere (and using DK’s sonar clap will help you find tons of them), there are some harder-to-find fossils that [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/donkey-kong-bananza-guides-dk/614344/lagoon-layer-fossil-locations-ammonite-anomalocaris-whale-locations-list-map>
-
----
-
-## Everyone can play Soulframe, the fantasy Warframe, right now
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-If you’ve ever wanted to kill someone with a leaf and adopt a wolf puppy, now is your chance: Soulframe’s pre-alpha build is open to the public for a limited time. Soulframe: Preludes is being made available to anyone who has signed up on the Soulframe website as part of developer Digital Extremes’ TennoCon weekend [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/614126/soulframe-alpha-tennocon-2025-free>
-
----
-
-## All Kong Bananza City Smash Banandium Gems in Donkey Kong Bananza
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-The Kong Bananza: City Smash challenge in Donkey Kong Bananza is a little confusing initially, courtesy of the fractone running the challenge telling you absolutely nothing about what to do. Smashing concrete is only part of the job. If you want all three Banandium Gems from this challenge, you&#8217;ll have to power through it with [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/donkey-kong-bananza-guides-dk/614349/kong-bananza-city-smash-bananas-banandium-gems-ancient-ruins>
-
----
-
-## The Divide Banandium Gem locations in Donkey Kong Bananza
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-In Donkey Kong Bananza, The Divide is the fourth layer that’ll you descend into, and its full of pink and blue goo — and a few Banandium Gems (golden bananas). The Divide is a fairly short level, so it’s extremely easy to blitz through and miss all of the bananas hidden inside. Make sure to [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/donkey-kong-bananza-guides-dk/614327/the-divide-layer-banandium-gem-golden-banana-locations-list-map>
-
----
-
-## South Park is imploding: the lawsuit debacle putting the show’s future in jeopardy
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-South Park, on the cusp of its 27th season, is caught in behind-the-scenes turmoil that now threatens the show’s future. At the center of the conflict is the $8 billion acquisition of Paramount by David Ellison’s Skydance Media, a deal that has become a major flashpoint for creators Matt Stone and Trey Parker. The troubles [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/entertainment/614218/south-park-matt-stone-trey-parker-skydance-paramount-lawsuit>
-
----
-
-## Pokémon Go ‘Summer Concert’ event guide
-
-date: 2025-07-19, updated: 2025-07-19, from: Polygon Website
-
-Pokémon Go is hosting a “Summer Concert” event from July 19-22, though the event perks will only actually be active from 5-8 p.m. each day in your local time. As part of the event, music composed by Junichi Masuda will be playing during the short time the bonuses are active, giving the feel of an [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/613441/summer-concert-event-shiny-chatot-lure-module-spawns>
-
----
-
-## Pokémon Go Quaxly Community Day guide
-
-date: 2025-07-19, updated: 2025-07-18, from: Polygon Website
-
-Pokémon Go is having a Quaxly Community Day event on July 20 from 2-5 p.m. in your local time. As expected with a Community Day event, Quaxly will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. How [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/613409/quaxly-community-day-shiny-quaxwell-quaquaval-moveset>
 

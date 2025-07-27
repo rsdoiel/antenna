@@ -1,11 +1,208 @@
 ---
 title: snapshots
-updated: 2025-07-26 14:13:23
+updated: 2025-07-27 06:08:30
 ---
 
 # snapshots
 
-(date: 2025-07-26 14:13:23)
+(date: 2025-07-27 06:08:30)
+
+---
+
+## 
+                Useless retro fun: Windows 2000 + SuSE 6.4 + X11
+            
+
+date: 2025-07-27, updated: 2025-07-27, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-07-27/0/POSTING-en.html>
+
+---
+
+## Understanding Interest Rate Policy
+
+date: 2025-07-27, from: Paul Krugman
+
+When rates should rise or fall 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/understanding-interest-rate-policy>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
+
+An important victory for the planet.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr6xmvcc2s>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
+
+Wonderful public  response.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr5rudhs2s>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
+
+😎👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3luvqme4xb22s>
+
+---
+
+## GPD Win 5 handheld gaming PC specs revealed: Strix Halo processor, 7 inch display, and no keyboard
+
+date: 2025-07-26, from: Liliputing
+
+<p>This week GPD revealed that its next handheld gaming PC would be powered by an AMD Strix Halo processor, bringing discrete-class graphics to a handheld PC for the first time. But at the time the company didn&#8217;t share many other details about the upcoming GPD Win 5, which left questions about battery life and overall [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/">GPD Win 5 handheld gaming PC specs revealed: Strix Halo processor, 7 inch display, and no keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/>
+
+---
+
+## Official statement from Tea on their data leak
+
+date: 2025-07-26, updated: 2025-07-26, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.teaforwomen.com/cyberincident">Official statement from Tea on their data leak</a></strong></p>
+Tea is a dating safety app for women that lets them share notes about potential dates. The other day it was subject to a truly egregious data leak caused by a legacy unprotected Firebase cloud storage bucket:</p>
+<blockquote>
+<p>A legacy data storage system was compromised, resulting in unauthorized access to a dataset from prior to February 2024. This dataset includes approximately 72,000 images, including approximately 13,000 selfies and photo identification submitted by users during account verification and approximately 59,000 images publicly viewable in the app from posts, comments and direct messages.</p>
+</blockquote>
+<p>Storing and then failing to secure photos of driving licenses is an incredible breach of trust. Many of those photos included EXIF location information too, so there are maps of Tea users floating around the darker corners of the web now.</p>
+<p>I've seen a bunch of commentary using this incident as an example of the dangers of vibe coding. <strong>I'm confident vibe coding was not to blame</strong> in this particular case, even while I <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/#when-is-it-ok-to-vibe-code-">share the larger concern</a> of irresponsible vibe coding leading to more incidents of this nature.</p>
+<p>The announcement from Tea makes it clear that the underlying issue relates to code written prior to February 2024, long before vibe coding was close to viable for building systems of this nature:</p>
+<blockquote>
+<p>During our early stages of development some legacy content was not migrated into our new fortified system. Hackers broke into our identifier link where data was stored before February 24, 2024. As we grew our community, we migrated to a more robust and secure solution which has rendered that any new users from February 2024 until now were not part of the cybersecurity incident.</p>
+</blockquote>
+<p>Also worth noting is that they stopped requesting photos of ID back in 2023:</p>
+<blockquote>
+<p>During our early stages of development, we required selfies and IDs as an added layer of safety to ensure that only women were signing up for the app. In 2023, we removed the ID requirement.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/26/official-statement-from-tea/#atom-everything>
+
+---
+
+## Bartz v. Anthropic: What are some additional takeaways and where do things go from here?
+
+date: 2025-07-26, from: Authors Union blogs
+
+In an earlier post, we shared details from Judge Alsup’s decision on Anthropic’s motion for summary judgment in Bartz v. [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/26/bartz-v-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here/>
+
+---
+
+## Weekend Interview: Watch my convo on The News Agents about why Trump can’t ghost the Epstein story— or outfox Rupert Murdoch.
+
+date: 2025-07-26, from: Tina Brown
+
+I sat down with Jon Sopol, co-host of my favorite UK podcast, The News Agents to dive into how Trump has gotten off base on the Epstein story (he&#8217;s trying to move on but much of his base isn&#8217;t budging), why Rupert Murdoch can&#8217;t resist a tabloid scoop, and what the head of the Paul Weiss law firm has learned about the cost of capitulation. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/weekend-interview-watch-my-convo>
+
+---
+
+## Scientists Report Surreal Scenes In the World’s Most Northern Town
+
+date: 2025-07-26, from: 404 Media Group
+
+Researchers witnessing warming in Svalbard worry that “we have been too cautious” with climate warnings. 
+
+<br> 
+
+<https://www.404media.co/scientists-report-surreal-scenes-in-the-worlds-most-northern-town/>
+
+---
+
+## Talking With Henry Farrell
+
+date: 2025-07-26, from: Paul Krugman
+
+Weaponized interdependence and tech bro ideology, oh my 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/talking-with-henry-farrell>
+
+---
+
+## A timely lesson
+
+date: 2025-07-26, from: Status-Q blog
+
+My thanks to Terence Eden, who recently reposted on Mastodon the fact that Google are shutting down their &#8216;goo.gl&#8217; URL-shortener in a month&#8217;s time.   URL shorteners are those services that take long URLs and turn them into shorter ones by maintaining a database mapping the latter to the former.  Tinyurl.com was perhaps the first; <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/07/26/13243/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/07/26/13243/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
+
+Fubar is the technical term that comes to mind. No journalism will happen there. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lutdvd52d22a>
+
+---
+
+## Building cmarkprocess
+
+date: 2025-07-26, from: Robert's Ramblings
+
+This is an article about building a CommonMark processor. It performs two primary functions.
+CommonMark pre-processor features
+
+  - support `@include-code-block` for including code samples as code blocks
+  - support `@include-text-block` for include plain text into a CommonMark document
+  - support mapping links with file extension ".md" to ".html"
+  - transform Hashtags into front matter
+  - transform @Tags into front matter
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/07/26/building_cmarkprocess.html>
 
 ---
 
@@ -2395,200 +2592,4 @@ date: 2025-07-20, updated: 2025-07-20, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/Jul/20/tim-sweeney/#atom-everything>
-
----
-
-## OpenAI's gold medal performance on the International Math Olympiad
-
-date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://x.com/alexwei_/status/1946477742855532918">OpenAI&#x27;s gold medal performance on the International Math Olympiad</a></strong></p>
-This feels notable to me. OpenAI research scientist <a href="https://www.alexwei.org/">Alexander Wei</a>:</p>
-<blockquote>
-<p>I’m excited to share that our latest @OpenAI experimental reasoning LLM has achieved a longstanding grand challenge in AI: gold medal-level performance on the world’s most prestigious math competition—the International Math Olympiad (IMO).</p>
-<p>We evaluated our models on the 2025 IMO problems under the same rules as human contestants: two 4.5 hour exam sessions, no tools or internet, reading the official problem statements, and writing natural language proofs. [...]</p>
-<p>Besides the result itself, I am excited about our approach: We reach this capability level not via narrow, task-specific methodology, but by breaking new ground in general-purpose reinforcement learning and test-time compute scaling.</p>
-<p>In our evaluation, the model solved 5 of the 6 problems on the 2025 IMO. For each problem, three former IMO medalists independently graded the model’s submitted proof, with scores finalized after unanimous consensus. The model earned 35/42 points in total, enough for gold!</p>
-<p>HUGE congratulations to the team—<a href="https://x.com/SherylHsu02">Sheryl Hsu</a>, <a href="https://x.com/polynoamial">Noam Brown</a>, and the many giants whose shoulders we stood on—for turning this crazy dream into reality! I am lucky I get to spend late nights and early mornings working alongside the very best.</p>
-<p>Btw, we are releasing GPT-5 soon, and we’re excited for you to try it. But just to be clear: the IMO gold LLM is an experimental research model. We don’t plan to release anything with this level of math capability for several months.</p>
-</blockquote>
-<p><small>(Normally I  would just link to the tweet, but in this case Alexander built a thread... and Twitter threads no longer work for linking as they're only visible to users with an active Twitter account.)</small></p>
-<p>Here's Wikipedia on <a href="https://en.wikipedia.org/wiki/International_Mathematical_Olympiad">the International Mathematical Olympiad</a>:</p>
-<blockquote>
-<p>It is widely regarded as the most prestigious mathematical competition in the world. The first IMO was held in Romania in 1959. It has since been held annually, except in 1980. More than 100 countries participate. Each country sends a team of up to six students, plus one team leader, one deputy leader, and observers.</p>
-</blockquote>
-<p>This year's event is in Sunshine Coast, Australia. Here's <a href="https://www.imo-official.org/year_info.aspx?year=2025">the web page for the event</a>, which includes a button you can click to access a PDF of the six questions - maybe they don't link to that document directly to discourage it from being indexed.</p>
-<p>The first of the six questions looks like this:</p>
-<p><img alt="Problem 1. A line in the plane is called sunny if it is not parallel to any of the x-axis, the y-axis, and the line x + y = 0. Let n ≥ 3 be a given integer. Determine all nonnegative integers k such that there exist n distinct lines in the plane satisfying both of the following: • for all positive integers a and b with a + b ≤ n + 1, the point (a, b) is on at least one of the lines; and • exactly k of the n lines are sunny." src="https://static.simonwillison.net/static/2025/iom-question-1.jpg" /></p>
-<p>Alexander shared <a href="https://github.com/aw31/openai-imo-2025-proofs/">the proofs produced by the model</a> on GitHub. They're in a slightly strange format - not quite MathML embedded in Markdown - which Alexander <a href="https://x.com/alexwei_/status/1946477760614166943">excuses</a> since "it is very much an experimental model".</p>
-<p>The most notable thing about this is that the unnamed model achieved this score <em>without using any tools</em>. OpenAI's Sebastien Bubeck <a href="https://x.com/SebastienBubeck/status/1946577650405056722">emphasizes that here</a>:</p>
-<blockquote>
-<p>Just to spell it out as clearly as possible: a next-word prediction machine (because that's really what it is here, no tools no nothing) just produced genuinely creative proofs for hard, novel math problems at a level reached only by an elite handful of pre‑college prodigies.</p>
-</blockquote>
-<p>There's a bunch more useful context in <a href="https://x.com/polynoamial/status/1946478249187377206">this thread</a> by Noam Brown, including a note that this model wasn't trained specifically for IMO problems:</p>
-<blockquote>
-<p>Typically for these AI results, like in Go/Dota/Poker/Diplomacy, researchers spend years making an AI that masters one narrow domain and does little else. But this isn’t an IMO-specific model. It’s a reasoning LLM that incorporates new experimental general-purpose techniques.</p>
-<p>So what’s different? We developed new techniques that make LLMs a lot better at hard-to-verify tasks. IMO problems were the perfect challenge for this: proofs are pages long and take experts hours to grade. Compare that to AIME, where answers are simply an integer from 0 to 999.</p>
-<p>Also this model thinks for a <em>long</em> time. o1 thought for seconds. Deep Research for minutes. This one thinks for hours. Importantly, it’s also more efficient with its thinking. And there’s a lot of room to push the test-time compute and efficiency further.</p>
-<p>It’s worth reflecting on just how fast AI progress has been, especially in math. In 2024, AI labs were using grade school math (GSM8K) as an eval in their model releases. Since then, we’ve saturated the (high school) MATH benchmark, then AIME, and now are at IMO gold. [...]</p>
-<p>When you work at a frontier lab, you usually know where frontier capabilities are months before anyone else. But this result is brand new, using recently developed techniques. It was a surprise even to many researchers at OpenAI. Today, everyone gets to see where the frontier is.</p>
-</blockquote>
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/mathematics">mathematics</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jul/19/openai-gold-medal-math-olympiad/#atom-everything>
-
----
-
-## MAIYUNDA Y104A is a NAS that supports up to 4 HDDs and 4 SSDs
-
-date: 2025-07-19, from: Liliputing
-
-<p>The MAIYUNDA Y104A is a network-attached-storage (NAS) system with an aluminum body, a robust set of ports including dual 2.5 GbE LAN ports and DisplayPort and HDMI ports for connecting up to two displays. And on the inside there&#8217;s a single SODIMM slot for DDR5-4800 memory, four bays for 3.5 inch hard drives, and four M. [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/maiyunda-y104a-is-an-intel-n150-nas-with-support-for-up-to-4-hdds-and-4-ssds/">MAIYUNDA Y104A is a NAS that supports up to 4 HDDs and 4 SSDs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/maiyunda-y104a-is-an-intel-n150-nas-with-support-for-up-to-4-hdds-and-4-ssds/>
-
----
-
-## Scientists Discover New World In Our Solar System: ‘Ammonite’
-
-date: 2025-07-19, from: 404 Media Group
-
-Meet Ammonite, a tiny weird iceball that casts doubt on the Planet Nine hypothesis. 
-
-<br> 
-
-<https://www.404media.co/scientists-discover-new-world-in-our-solar-system-ammonite/>
-
----
-
-## 
-                Notes on Wayland + QEMU + old OS’s
-            
-
-date: 2025-07-19, updated: 2025-07-19, from: Uninformative blog
-
- 
-
-<br> 
-
-<https://www.uninformativ.de/blog/postings/2025-07-19/0/POSTING-en.html>
-
----
-
-## During my kid’s surgery, I was denied a copy of my consent form — then sent to a ghost office
-
-date: 2025-07-19, from: The Markup blog
-
-Help us understand the challenges patients face opting out of voluntary uses of their data, or getting access to their records. 
-
-<br> 
-
-<https://themarkup.org/hello-world/2025/07/19/patient-data-use>
-
----
-
-## Talking With Adam Posen
-
-date: 2025-07-19, from: Paul Krugman
-
-A monetary policy maven about a Fed unde pressure 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/talking-with-adam-posen>
-
----
-
-## Prosser-Gate
-
-date: 2025-07-19, updated: 2025-07-19, from: Tedium site
-
-A prominent Apple leaker gets nailed with a wild lawsuit suggesting not-so-journalistic reporting practices. 
-
-<br> 
-
-<https://feed.tedium.co/link/15204/17099722/apple-jon-prosser-ios-leaks-lawsuit>
-
----
-
-## this should not be possible
-
-date: 2025-07-19, from: Geoffrey Hunntley's blog
-
-<p>It might surprise some folks, but I&apos;m incredibly cynical when it comes to AI and what is possible; yet I keep an open mind. That said, two weeks ago, when I was in SFO, I discovered another thing that should not be possible.  Every time I find out</p> 
-
-<br> 
-
-<https://ghuntley.com/no/>
-
----
-
-## New tags
-
-date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
-
-<p>A few months ago I <a href="https://github.com/simonw/simonwillisonblog/commit/12da4167396c2d54526bf690add14aebbb244148">added a tool</a> to my blog for bulk-applying tags to old content. It works as an extension to my existing search interface, letting me run searches and then quickly apply a tag to relevant results.</p>
-<p>Since adding this I've been much more aggressive in categorizing my older content, including adding new tags when I spot an interesting trend that warrants its own page.</p>
-<p>Today I added <a href="https://simonwillison.net/tags/system-prompts/">system-prompts</a> and applied it to 41 existing posts that talk about system prompts for LLM systems, including a bunch that directly quote system prompts that have been deliberately published or leaked.</p>
-<p>Other tags I've added recently include <a href="https://simonwillison.net/tags/press-quotes/">press-quotes</a> for times I've been quoted in the press, <a href="https://simonwillison.net/tags/agent-definitions/">agent-definitions</a> for my ongoing collection of different ways people define "agents" and 
-<a href="https://simonwillison.net/tags/paper-review/">paper-review</a> for posts where I review an academic paper.</p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/tagging">tagging</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jul/19/new-tags/#atom-everything>
-
----
-
-## Quoting Steve Yegge
-
-date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
-
-<blockquote cite="https://x.com/steve_yegge/status/1946360175339974807"><p>So one of my favorite things to do is give my coding agents more and more permissions and freedom, just to see how far I can push their productivity without going too far off the rails. It's a delicate balance. I haven't given them direct access to my bank account yet. But I did give one access to my Google Cloud production instances and systems. And it promptly wiped a production database password and locked my network. [...]</p>
-<p>The thing is, autonomous coding agents are extremely powerful tools that can easily go down very wrong paths. Running them with permission checks disabled is dangerous and stupid, and you should only do it if you are willing to take dangerous and stupid risks with your code and/or production systems.</p></blockquote>
-<p class="cite">&mdash; <a href="https://x.com/steve_yegge/status/1946360175339974807">Steve Yegge</a></p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/steve-yegge">steve-yegge</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jul/19/steve-yegge/#atom-everything>
-
----
-
-## Quoting Paul Kedrosky
-
-date: 2025-07-19, updated: 2025-07-19, from: Simon Willison’s Weblog
-
-<blockquote cite="https://paulkedrosky.com/honey-ai-capex-ate-the-economy/"><p>One analyst recently speculated (via <a href="https://www.edwardconard.com/macro-roundup/using-nvidias-datacenter-revenue-as-a-reference-for-us-ai-capex-jensnordvig-estimates-that-ai-will-make-up-2-of-us-gdp-in-2025-given-a-standard-multiplier-implying-an-ai-contribution-to-g/?view=detail&amp;filters=macro-roundup-database">Ed Conard</a>) that, based on Nvidia's latest datacenter sales figures, AI capex may be <strong>~2% of US GDP in 2025</strong>, given a standard multiplier. [...]</p>
-<p>Capital expenditures on AI data centers is likely around <strong>20% of the peak spending on railroads</strong>, as a percentage of GDP, and it is still rising quickly. [...]</p>
-<p>Regardless of what one thinks about the merits of AI or <strong>explosive datacenter expansion</strong>, the scale and pace of capital deployment into a <strong>rapidly depreciating technology</strong> is remarkable. These are not railroads—we aren’t building <strong>century-long infrastructure</strong>. AI datacenters are short-lived, asset-intensive facilities riding declining-cost technology curves, requiring <strong>frequent hardware replacement</strong> to preserve margins.</p></blockquote>
-<p class="cite">&mdash; <a href="https://paulkedrosky.com/honey-ai-capex-ate-the-economy/">Paul Kedrosky</a>, Honey, AI Capex is Eating the Economy</p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/economics">economics</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/paul-kedrosky">paul-kedrosky</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jul/19/paul-kedrosky/#atom-everything>
-
----
-
-## Explainer: K2 & Math Olympiad Golds
-
-date: 2025-07-19, updated: 2025-07-19, from: Tom Kellog blog
-
-the best way to emphasize the importance of this week's developments is to go all the way back to January and see how we got here. 
-
-<br> 
-
-<http://timkellogg.me/blog/2025/07/19/olympiad>
 

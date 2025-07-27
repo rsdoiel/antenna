@@ -1,11 +1,581 @@
 ---
 title: pacific
-updated: 2025-07-26 14:13:12
+updated: 2025-07-27 06:08:21
 ---
 
 # pacific
 
-(date: 2025-07-26 14:13:12)
+(date: 2025-07-27 06:08:21)
+
+---
+
+## UH Hilo partnership preserves nearby housing option for students with families
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo is using a public-private partnership to ensure a campus-adjacent housing complex remains an affordable option for students with families.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/hawaii-news/uh-hilo-partnership-preserves-nearby-housing-option-for-students-with-families/>
+
+---
+
+## Police: State AG has Kamehameha Schools theft case
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>A theft case involving hundreds of thousands of dollars allegedly stolen from Kamehameha Schools Hawaii is now in the hands of the state Department of the Attorney General.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/hawaii-news/police-state-ag-has-kamehameha-schools-theft-case/>
+
+---
+
+## A clash over a promotion puts Hegseth at odds with his generals
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In the spring, Defense Secretary Pete Hegseth decided not to promote a senior Army officer who had led troops over five tours in Afghanistan and Iraq because Hegseth suspected, without evidence, that the officer had leaked sensitive information to the news media, according to three people with knowledge of the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/a-clash-over-a-promotion-puts-hegseth-at-odds-with-his-generals/>
+
+---
+
+## Judge drops 2 charges against alleged getaway driver
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>A 23-year-old Pahoa man accused of being the getaway driver for a since-deceased man police said shot and injured an officer in Hilo on March 14 is no longer charged with being an accomplice to attempted first-degree murder.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/hawaii-news/judge-drops-2-charges-against-alleged-getaway-driver/>
+
+---
+
+## Inouye: Banyans near Lili‘uokalani Gardens ‘have been neglected’
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>The tragic uprooting and collapse of a banyan tree July 12 on Kilauea Avenue that killed two woman has Hilo&#8217;s state senator concerned that something similar could occur with one or more of the historic trees along Banyan Drive on Hilo&#8217;s Waiakea Peninsula.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/hawaii-news/inouye-banyans-near-liliuokalani-gardens-have-been-neglected/>
+
+---
+
+## Steves: Uppsala is Sweden’s ancient capital and top college town
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>Uppsala, Sweden&#8217;s fourth-largest city, is the best day trip from Stockholm (it&#8217;s just under an hour away by train). This happy town is Sweden&#8217;s answer to Oxford, offering stately university facilities and museums, the home and garden of botanist Carl Linnaeus, as well as a grand cathedral and the enigmatic burial mounds of Gamla Uppsala on the town&#8217;s outskirts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/features/steves-uppsala-is-swedens-ancient-capital-and-top-college-town/>
+
+---
+
+## On a magical Italian island, swimming, stone and sea
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>Bue Marino cove, on the east side of Favignana, an island just off the west coast of Sicily, may be the most spectacular swimming spot on an island of spectacular swimming spots.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/features/on-a-magical-italian-island-swimming-stone-and-sea/>
+
+---
+
+## Illinois man convicted in killing of Palestinian American boy dies in custody
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>An Illinois landlord convicted of fatally stabbing a 6-year-old Palestinian American boy died in custody, authorities said Saturday. He was 73.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/illinois-man-convicted-in-killing-of-palestinian-american-boy-dies-in-custody/>
+
+---
+
+## Infection from brain-eating amoeba kills boy in South Carolina
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>A 12-year-old boy died last week in South Carolina from a rare brain-eating amoeba he contracted after swimming in a local reservoir, a lawyer for the boy&#8217;s family said in a statement Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/infection-from-brain-eating-amoeba-kills-boy-in-south-carolina/>
+
+---
+
+## Volcano Watch: Ancient volcanoes are critical to our modern world
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>If you&#8217;ve read &#8220;Volcano Watch&#8221; articles before, you can probably list several reasons that scientists study volcanoes. However, there is another reason to study volcanoes that may surprise you: critical mineral resources of economic importance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/features/volcano-watch-ancient-volcanoes-are-critical-to-our-modern-world/>
+
+---
+
+## Seven charged in child abuse ring run from an Alabama bunker, officials say
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>In a rural stretch of Bibb County in central Alabama, past pine forests and gravel roads, deputies uncovered what a sheriff called the most disturbing child abuse case he&#8217;s seen in his 33 years of working in law enforcement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/seven-charged-in-child-abuse-ring-run-from-an-alabama-bunker-officials-say/>
+
+---
+
+## European Union cuts aid to Ukraine over corruption concerns
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; President Volodymyr Zelenskyy&#8217;s anti-corruption policies have provoked Ukraine&#8217;s first anti-government protests since the Russian invasion in 2022. Now, it seems, they may cost the country a portion of its foreign aid from the European Union, in a clear rebuke from the bloc, once a staunch ally.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/european-union-cuts-aid-to-ukraine-over-corruption-concerns/>
+
+---
+
+## Right-wing influencers say Ghislaine Maxwell is key to unlocking Epstein case
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>As interest over the Jeffrey Epstein files continues to dominate Washington and ricochet through President Donald Trump&#8217;s base, right-wing influencers have pinpointed Ghislaine Maxwell, Epstein&#8217;s former girlfriend, as the key to unlocking more details about the convicted sex offender.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/right-wing-influencers-say-ghislaine-maxwell-is-key-to-unlocking-epstein-case/>
+
+---
+
+## Amid growing fury over Gaza, Israel says it is easing aid restrictions
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Following days of global outrage at Israel&#8217;s restrictions on aid to the Gaza Strip, the Israeli military announced Saturday night that it would revive the practice of dropping aid from airplanes, and make it easier for aid convoys to move through Gaza by land.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/amid-growing-fury-over-gaza-israel-says-it-is-easing-aid-restrictions/>
+
+---
+
+## A golfing Trump is greeted by protesters in Scotland
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>EDINBURGH, Scotland &#8212; As President Donald Trump golfed Saturday at his course in Turnberry, Scotland, hundreds of protesters took to the streets to denounce his presence in Britain, opposing the administration&#8217;s policies on immigration, war in the Gaza Strip and myriad other issues.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/a-golfing-trump-is-greeted-by-protesters-in-scotland/>
+
+---
+
+## News in brief for July 27
+
+date: 2025-07-27, from: Hawaii Tribune Harold
+
+
+				<p>11 people injured &#0010;in stabbing at a Michigan Walmart</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/27/nation-world-news/news-in-brief-for-july-27/>
+
+---
+
+## Debby Schutz is transforming pain into power
+
+date: 2025-07-27, from: The Husk
+
+&#8216;It&#8217;s up to us to create it&#8217;: The 24-year-old shares her journey as an artist 
+
+<br> 
+
+<https://thehusk.substack.com/p/debby-schutz-is-transforming-pain>
+
+---
+
+## Palacios' remains back on Saipan; CNMI pay tribute to the late governor 
+
+date: 2025-07-27, from: Pacific Island Times
+
+'He was an American hero:' Think tank fellow says Palacios deserves a White House representation at his funeral Gov. Arnold P alacios'... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-honors-late-gov-palacios>
+
+---
+
+## Homicide investigation underway in San Antonio
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+THE Department of Public Safety has launched a homicide investigation on Tataga Street in San Antonio after a woman was found dead inside a residence at 3 p.m. Saturday. Investigators noted signs of foul play. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/homicide-investigation-underway-in-san-antonio/article_0410bde5-bcf4-4e01-a53b-efb885c7d1a8.html>
+
+---
+
+## Tropical Gardening: Use bamboos for hedges, windbreaks and more
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>In the good old days, a typical Hawaiian garden was large enough to give neighbors plenty of space to have privacy. As our population increases and land costs escalate, lots are getting smaller. This requires creativity to effectively give us a little garden peace and quiet.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/features/tropical-gardening-use-bamboos-for-hedges-windbreaks-and-more/>
+
+---
+
+## Athletics’ Nick Kurtz becomes first rookie with 4-HR game
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Athletics designated hitter Nick Kurtz hit four home runs in his team&#8217;s 15-3 road win over the Houston Astros on Friday night, becoming the first rookie in major league history to accomplish the feat.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/athletics-nick-kurtz-becomes-first-rookie-with-4-hr-game/>
+
+---
+
+## Thailand warns of war with Cambodia as deadly clashes enter 2nd day
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Thailand&#8217;s acting prime minister warned Friday that clashes with Cambodia over a border dispute &#8220;could develop into war&#8221; as the deadliest fighting between the two countries in years extended into a second day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/thailand-warns-of-war-with-cambodia-as-deadly-clashes-enter-2nd-day/>
+
+---
+
+## Trump flies to Scotland, leaving chaos swirling in Washington
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>EDINBURGH, Scotland &#8212; President Donald Trump headed to Scotland on Friday for a five-day visit, hoping to leave behind the chaos of Washington and the persistent questions over the handling of the Jeffrey Epstein files for what will be a mix of personal business and diplomacy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/trump-flies-to-scotland-leaving-chaos-swirling-in-washington/>
+
+---
+
+## After Ghislaine Maxwell interview, concerns mount over possibility of pardon
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The yellow jacket buzz of a plane circling above the federal courthouse in Tallahassee, Florida, on Friday roused the perspiring platoon of reporters staking out a meeting between a top Justice Department official and Ghislaine Maxwell.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/after-ghislaine-maxwell-interview-concerns-mount-over-possibility-of-pardon/>
+
+---
+
+## First deportation flights depart from Florida’s ‘Alligator Alcatraz’
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; The first deportation flights from Florida&#8217;s new immigration detention center in the Everglades began departing this week, Gov. Ron DeSantis announced Friday, about three weeks after federal detainees started to arrive at what appears to be the nation&#8217;s only state-run migrant detention facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/first-deportation-flights-depart-from-floridas-alligator-alcatraz/>
+
+---
+
+## New reports on Russian interference don’t show what Trump says they do
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration in recent weeks has released a series of reports intended to undermine the conclusion reached by intelligence agencies before President Donald Trump&#8217;s first term that Russia had favored his candidacy in 2016 and sought to improve his chances of winning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/new-reports-on-russian-interference-dont-show-what-trump-says-they-do/>
+
+---
+
+## Israel to allow humanitarian airdrops over Gaza
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel will allow foreign nations to parachute humanitarian aid to a population in the Gaza Strip desperate for food, officials said Friday, during a widening crisis in which children have died of malnutrition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/israel-to-allow-humanitarian-airdrops-over-gaza/>
+
+---
+
+## Ukraine says Starlink’s global outage hit its military communications
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Starlink systems used by Ukrainian military units were down for two and a half hours overnight, a senior commander said, part of a global issue that disrupted the satellite internet provider.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/ukraine-says-starlinks-global-outage-hit-its-military-communications/>
+
+---
+
+## News in brief for July 26
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Ocasio-Cortez must pay additional $2,700 for her Met Gala dress</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/news-in-brief-for-july-26/>
+
+---
+
+## 9-year-old girl dies in wave pool at Hersheypark in Pennsylvania
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>A 9-year-old girl died Thursday night while using a wave pool at Hersheypark in Pennsylvania, where lifeguards tried rescuing her after seeing her in distress, park officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/9-year-old-girl-dies-in-wave-pool-at-hersheypark-in-pennsylvania/>
+
+---
+
+## White House will release $5.5 billion for schools, after surprise delay
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The White House will release $5.5 billion in frozen education funds, administration officials announced Friday, bringing an end to a chaotic month for school districts that had counted on the money with just weeks to go before the start of the school year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/white-house-will-release-5-5-billion-for-schools-after-surprise-delay/>
+
+---
+
+## After surge during pandemic, homicides fall significantly
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Homicides in the United States have continued to fall sharply this year, according to a new analysis published Thursday by the Council on Criminal Justice, a nonprofit policy research organization, based on data from more than three dozen American cities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/after-surge-during-pandemic-homicides-fall-significantly/>
+
+---
+
+## Trump administration plans changes to skilled worker visas and citizenship tests
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is planning to change the visa system for skilled foreign workers, a program at the center of a dispute between immigration hard-liners and tech industry leaders, said the new director of U.S. Citizenship and Immigration Services.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/trump-administration-plans-changes-to-skilled-worker-visas-and-citizenship-tests/>
+
+---
+
+## Kennedy to oust preventative care task force
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Health Secretary Robert F. Kennedy Jr. is planning to remove all the members of an advisory panel that determines what cancer screenings and other preventive health measures insurers must cover, the Wall Street Journal reported on Friday, citing people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/kennedy-to-oust-preventative-care-task-force/>
+
+---
+
+## US states to get $608 million from FEMA to build migrant detention centers
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Emergency Management Agency is preparing to send $608 million to states to construct immigrant detention centers as part of the Trump administration&#8217;s push to expand capacity to hold migrants. FEMA is starting a &#8220;detention support grant program&#8221; to cover the cost of states building temporary facilities, according to an agency announcement. States have until August 8 to apply for the funds, according to the post. The Trump administration has been encouraging states to build their own facilities to detain migrants. This program provides a way for the administration to help states pay for it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/us-states-to-get-608-million-from-fema-to-build-migrant-detention-centers/>
+
+---
+
+## In rain and silence, the CNMI mourns
+
+date: 2025-07-26, updated: 2025-07-27, from: Marianas Variety
+
+CNMI residents held umbrellas as they stood in the rain along the road from Francisco C. Ada/Saipan International Airport to the intersection of Middle Road and Msgr. Guerrero Road in San Jose, paying tribute to Gov. Arnold I. Palacios, whose remains arrived Saturday from Guam. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/in-rain-and-silence-the-cnmi-mourns/article_0a374a9d-c308-41b5-a2af-48250ce64e43.html>
+
+---
+
+## Tropical Storm Krosa Nearly Stationary; Condition 1 Maintained for Northern Islands
+
+date: 2025-07-26, updated: 2025-07-27, from: Marianas Variety
+
+<p>Please remain cautious as hazardous weather conditions persist. Active advisories are still in effect for Saipan, Tinian, and Rota including small craft, high surf, rip current, flood watch, and wind advisories.</p> 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tropical-storm-krosa-nearly-stationary-condition-1-maintained-for-northern-islands/article_ce70a5db-1de5-4dd8-b4e8-9f2ed4db8b50.html>
+
+---
+
+## Micronesia leaders renew urgent call for 'fast-acting cuts in short-lived super pollutants'
+
+date: 2025-07-26, from: Pacific Island Times
+
+Micronesian leaders, back row, joined with youth representatives from the Micronesia subregion to discuss youth concerns and issues as... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/micronesia-leaders-renew-call-an-urgent-call-for-fast-acting-cuts-in-short-lived-super-pollutants>
+
+---
+
+## Community events: Nominations open for Maga’Haga Art Awards; Soroptimist offers aid 
+
+date: 2025-07-26, from: Pacific Island Times
+
+CAHA seeking nominations for 2025 awards The Guam Council on the Arts and Humanities Agency, in collaboration with the Office of the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-caha-seeks-nominations-for-maga-haga-art-awards>
+
+---
+
+## UH Hilo athletics set academic record, 170 earn All-PacWest honors
+
+date: 2025-07-26, from: University of Hawaiʻi News
+
+<p>The nearly 230 student-athletes posted a record-high 3.32 grade point average.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/25/uh-hilo-athletics-set-academic-record/"><abbr>UH</abbr> Hilo athletics set academic record, 170 earn All-PacWest honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/25/uh-hilo-athletics-set-academic-record/>
+
+---
+
+## UH medical school earns maximum accreditation
+
+date: 2025-07-26, from: University of Hawaiʻi News
+
+<p>The eight year accreditation is the maximum marks a school can receive.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/25/uh-medical-school-earns-accreditation/"><abbr>UH</abbr> medical school earns maximum accreditation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/25/uh-medical-school-earns-accreditation/>
+
+---
+
+## Loss and triumph
+
+date: 2025-07-26, from: The Husk
+
+Weekender #58 
+
+<br> 
+
+<https://thehusk.substack.com/p/loss-and-triumph>
 
 ---
 
@@ -576,7 +1146,7 @@ The youngster has become Fiji's first sponsored professional surfer, having rece
 
 ## Senate to reorganize soon
 
-date: 2025-07-25, updated: 2025-07-25, from: Marianas Variety
+date: 2025-07-25, updated: 2025-07-27, from: Marianas Variety
 
 FOLLOWING the oath-taking of Lt. Gov. David M. Apatang as the new governor and Senate President Dennis James Mendiola as the new lieutenant governor on Thursday morning, the Senate is preparing for a reorganizational session. 
 
@@ -649,7 +1219,7 @@ Moses Toata says the Solomons women's side has proven that winning at the highes
 
 ## Tropical Storm Condition III Cancelled for Saipan, Tinian, Rota; Tropical Storm Condition II Declared for Agrihan, Alamagan, Pagan
 
-date: 2025-07-24, updated: 2025-07-26, from: Marianas Variety
+date: 2025-07-24, updated: 2025-07-27, from: Marianas Variety
 
 TROPICAL STORM KROSA (12W) 
 
@@ -770,6 +1340,30 @@ The post <a href="https://www.hawaii.edu/news/2025/07/24/world-university-rankin
 
 ---
 
+## New study reveals the biggest obstacles to kids’ reading habits and how parents can help
+
+date: 2025-07-24, updated: 2025-07-26, from: Marianas Variety
+
+(BPT) - The benefits of developing an early love of reading are well known, but recent reports have shown that literacy rates continue to decline globally. With unprecedented competition for children's attention, almost half (42%) of parents say distractions from phones, gaming, and TV prevent their child from reading more — according to new research from Amazon Kindle. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/new-study-reveals-the-biggest-obstacles-to-kids-reading-habits-and-how-parents-can-help/article_28100b13-cda1-584a-9139-c0f38b245a57.html>
+
+---
+
+## From Saipan to the world, SIS joins the global elite with record AP Scholar achievements
+
+date: 2025-07-24, updated: 2025-07-27, from: Marianas Variety
+
+(SIS) — Saipan International School proudly announces that 29 of its students have been recognized as AP Scholars by the College Board for the 2024–2025 academic year — the highest number in the school’s history. This milestone highlights the school’s continued leadership in academic achievement both within the CNMI and in the broader Pacific region. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/from-saipan-to-the-world-sis-joins-the-global-elite-with-record-ap-scholar-achievements/article_57d68c26-0113-420e-98b2-16d2c928504f.html>
+
+---
+
 ## Variety editor’s 4th book available at Joeten Susupe
 
 date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
@@ -779,18 +1373,6 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 <br> 
 
 <https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
-
----
-
-## From Saipan to the world, SIS joins the global elite with record AP Scholar achievements
-
-date: 2025-07-24, updated: 2025-07-24, from: Marianas Variety
-
-(SIS) — Saipan International School proudly announces that 29 of its students have been recognized as AP Scholars by the College Board for the 2024–2025 academic year — the highest number in the school’s history. This milestone highlights the school’s continued leadership in academic achievement both within the CNMI and in the broader Pacific region. 
-
-<br> 
-
-<https://www.mvariety.com/news/community_bulletins/from-saipan-to-the-world-sis-joins-the-global-elite-with-record-ap-scholar-achievements/article_57d68c26-0113-420e-98b2-16d2c928504f.html>
 
 ---
 
@@ -3299,219 +3881,4 @@ By Pacific Island Times News Staff   The disputed real estate asset in Dededo �
 <br> 
 
 <https://www.pacificislandtimes.com/post/not-just-a-parcel-of-land-gwa-gears-up-for-showdown-with-core-tech-over-dededo-property>
-
----
-
-## Business Briefs: Registration now open for Fanachu Famalåo’an 2025 
-
-date: 2025-07-19, from: Pacific Island Times
-
-Registration is now open for Fanachu Famalåo’an 2025: In Bloom, the island’s largest annual gathering of women leaders, entrepreneurs and... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/business-briefs-registration-now-open-for-fanachu-famal%C3%A5o-an-2025>
-
----
-
-## T'way Air resumes daily flights to Guam, 
-
-date: 2025-07-19, from: Pacific Island Times
-
-T’way Air has resumed the Kansai-Guam route, expanding seat capacity to bring more arrivals from Japan and is expected to accelerate the recovery of Guam’s tourism industry. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/t-way-air-resumes-daily-flights-to-guam>
-
----
-
-## This is sixty
-
-date: 2025-07-19, from: Pacific Island Times
-
-Life moves fast, so I don’t have much time to take a long look at myself anymore and think of what I may have lost, except for those rare moments that are worth considering and appreciating.
-
- 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/this-is-sixty>
-
----
-
-## Trump’s immigration crackdown hits senior care workforce
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump&#8217;s immigration crackdown is beginning to strain the long-term care workforce, raising concerns about how the effects could ripple across the nation&#8217;s senior population.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trumps-immigration-crackdown-hits-senior-care-workforce/>
-
----
-
-## Trump’s withering criticism of Powell puts Fed decisions under microscope
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump&#8217;s relentless attacks on the Federal Reserve and its chair, Jerome Powell, have put the central bank under intense scrutiny as it grapples with when and by how much to cut interest rates again after a long pause.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trumps-withering-criticism-of-powell-puts-fed-decisions-under-microscope/>
-
----
-
-## Trump tells Bondi to seek release of Epstein grand jury testimony
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>The Justice Department on Friday asked a federal judge to unseal grand jury testimony from the prosecution of the disgraced financier Jeffrey Epstein. The move came amid growing pressure from both parties for the Trump administration to release more information about the case.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trump-tells-bondi-to-seek-release-of-epstein-grand-jury-testimony/>
-
----
-
-## Prisoner swap frees Americans in Venezuela for migrants held in El Salvador
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>Ten Americans and U.S. permanent residents who had been seized by Venezuelan authorities and held as bargaining chips were freed Friday in exchange for the release of more than 250 Venezuelan migrants whom the Trump administration sent to a prison in El Salvador.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/prisoner-swap-frees-americans-in-venezuela-for-migrants-held-in-el-salvador/>
-
----
-
-## White House to release $1.3 billion in frozen funds for after-school programs
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>The Trump administration said Friday that it would release $1.3 billion in frozen federal funding for after-school programs across the country, after facing growing bipartisan pressure.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/white-house-to-release-1-3-billion-in-frozen-funds-for-after-school-programs/>
-
----
-
-## 3 deputies are killed in explosion at Los Angeles training center
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; Three sheriff&#8217;s deputies were killed in an explosion Friday morning at a law enforcement training center in Los Angeles, local and federal officials said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/3-deputies-are-killed-in-explosion-at-los-angeles-training-center/>
-
----
-
-## Gabbard claims Obama administration tried to undermine Trump in 2016
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>The Office of the Director of National Intelligence on Friday issued the latest in a series of reports from the Trump administration attempting to undermine the 8-year-old assessment that Russia favored the election of Donald Trump in 2016.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/gabbard-claims-obama-administration-tried-to-undermine-trump-in-2016/>
-
----
-
-## Floods and heavy rain kill dozens in Pakistan
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>Heavy monsoon rains in Pakistan have killed at least 57 people in the past two days, many of them children, officials said Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/floods-and-heavy-rain-kill-dozens-in-pakistan/>
-
----
-
-## Trump sues Wall Street Journal for article on note to Epstein
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump on Friday accused Rupert Murdoch and The Wall Street Journal of defaming him in an article about a lewd birthday greeting that the publication said Trump had sent to disgraced financier Jeffrey Epstein decades ago.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/nation-world-news/trump-sues-wall-street-journal-for-article-on-note-to-epstein/>
-
----
-
-## Tropical Gardening: Ferns among the first plants to arrive in Hawaiian Islands
-
-date: 2025-07-19, from: Hawaii Tribune Harold
-
-
-				<p>Probably the first pioneer plants to arrive in Hawaii were mosses and ferns. Ferns have been around for over 360 million years. Giant tree fern forests were common for millions of years but they gave way as flowering plants evolved to take their place.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/19/features/tropical-gardening-ferns-among-the-first-plants-to-arrive-in-hawaiian-islands/>
-
----
-
-## Manu Samoa coach, captain happy despite loss to Scotland
-
-date: 2025-07-19, from: 
-
-The Samoans were missing several of their leading players in their Pacific Nations Cup build-up. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/567413/manu-samoa-coach-captain-happy-despite-loss-to-scotland>
-
----
-
-## Women inmates study Moon, planets in UH program
-
-date: 2025-07-19, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> brings Moon and planet science to women inmates in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/07/18/women-inmates-study-moon-planets/">Women inmates study Moon, planets in <abbr>UH</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/07/18/women-inmates-study-moon-planets/>
-
----
-
-## Trump sues Wall Street Journal over Epstein report, seeks $10 billion
-
-date: 2025-07-19, updated: 2025-07-20, from: Marianas Variety
-
-NEW YORK/WASHINGTON (Reuters) — President Donald Trump sued the Wall Street Journal and its owners including Rupert Murdoch on Friday, seeking at least $10 billion in damages over the newspaper's report that Trump in 2003 sent Jeffrey Epstein a birthday greeting that included a sexually suggestive drawing and a reference to secrets they shared. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-sues-wall-street-journal-over-epstein-report-seeks-10-billion/article_04c27a76-05dd-49b9-8bbc-65f5750f15c5.html>
 

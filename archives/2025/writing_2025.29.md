@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-07-26 14:13:15
+updated: 2025-07-27 06:08:24
 ---
 
 # writing
 
-(date: 2025-07-26 14:13:15)
+(date: 2025-07-27 06:08:24)
+
+---
+
+## Bartz v. Anthropic: What are some additional takeaways and where do things go from here?
+
+date: 2025-07-26, from: Author's Union blog
+
+In an earlier post, we shared details from Judge Alsup’s decision on Anthropic’s motion for summary judgment in Bartz v. [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/07/26/bartz-v-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here/>
 
 ---
 

@@ -1,11 +1,130 @@
 ---
 title: home
-updated: 2025-07-26 14:13:18
+updated: 2025-07-27 06:08:26
 ---
 
 # home
 
-(date: 2025-07-26 14:13:18)
+(date: 2025-07-27 06:08:26)
+
+---
+
+## Where Do Foxes Live in Georgia and How to Spot Them in the Wild
+
+date: 2025-07-27, from: Yard Life blog
+
+<p>Foxes are some of the most fascinating wild animals in Georgia, admired for their intelligence, adaptability, and secretive nature. These ... </p>
+<p class="read-more-container"><a title="Where Do Foxes Live in Georgia and How to Spot Them in the Wild" class="read-more button" href="https://ownyardlife.com/where-do-foxes-live-in-georgia-and-how-to-spot-them-in-the-wild/#more-32539" aria-label="Read more about Where Do Foxes Live in Georgia and How to Spot Them in the Wild">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/where-do-foxes-live-in-georgia-and-how-to-spot-them-in-the-wild/">Where Do Foxes Live in Georgia and How to Spot Them in the Wild</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/where-do-foxes-live-in-georgia-and-how-to-spot-them-in-the-wild/>
+
+---
+
+## Porcupines in Michigan: Identification, Habits, and Fun Facts
+
+date: 2025-07-27, from: Yard Life blog
+
+<p>Porcupines in Michigan are fascinating creatures that often spark curiosity among wildlife enthusiasts. Known for their spiny quills and slow, ... </p>
+<p class="read-more-container"><a title="Porcupines in Michigan: Identification, Habits, and Fun Facts" class="read-more button" href="https://ownyardlife.com/porcupines-in-michigan-identification-habits-and-fun-facts/#more-32534" aria-label="Read more about Porcupines in Michigan: Identification, Habits, and Fun Facts">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/porcupines-in-michigan-identification-habits-and-fun-facts/">Porcupines in Michigan: Identification, Habits, and Fun Facts</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/porcupines-in-michigan-identification-habits-and-fun-facts/>
+
+---
+
+## 14 Species of Owls in Texas (With Pictures and Identification)
+
+date: 2025-07-27, from: Yard Life blog
+
+<p>Texas hosts a remarkable variety of owl species, from the powerful Great Horned Owl to the tiny Elf Owl. These ... </p>
+<p class="read-more-container"><a title="14 Species of Owls in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/14-species-of-owls-in-texas-with-pictures-and-identification/#more-32529" aria-label="Read more about 14 Species of Owls in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/14-species-of-owls-in-texas-with-pictures-and-identification/">14 Species of Owls in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/14-species-of-owls-in-texas-with-pictures-and-identification/>
+
+---
+
+## How to Grow and Care for Burning Bush
+
+date: 2025-07-26, from: The Gardener's Path
+
+<p>Burning bushes are deciduous shrubs that light up autumn landscapes with their scarlet foliage. However, in some states, non-native species have been declared invasive. Read on to learn how to grow burning bushes, and get a recommendation for a beautiful native variety to cultivate where non-native species are banned.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-burning-bush/">How to Grow and Care for Burning Bush</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-burning-bush/>
+
+---
+
+## 26 Small Brown Birds in New Hampshire (With Pictures)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>New Hampshire’s diverse habitats are home to many small brown birds that can be challenging yet rewarding to identify. From ... </p>
+<p class="read-more-container"><a title="26 Small Brown Birds in New Hampshire (With Pictures)" class="read-more button" href="https://ownyardlife.com/26-small-brown-birds-in-new-hampshire-with-pictures/#more-32522" aria-label="Read more about 26 Small Brown Birds in New Hampshire (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/26-small-brown-birds-in-new-hampshire-with-pictures/">26 Small Brown Birds in New Hampshire (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/26-small-brown-birds-in-new-hampshire-with-pictures/>
+
+---
+
+## 3 Rattlesnakes in Colorado (With Pictures and Identification)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>Colorado is home to three species of rattlesnakes, each adapted to different regions of the state. From grasslands and foothills ... </p>
+<p class="read-more-container"><a title="3 Rattlesnakes in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-rattlesnakes-in-colorado-with-pictures-and-identification/#more-32517" aria-label="Read more about 3 Rattlesnakes in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-rattlesnakes-in-colorado-with-pictures-and-identification/">3 Rattlesnakes in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-rattlesnakes-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 13 Common Rodents in Michigan (With Pictures and Identification)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>Rodents in Michigan are abundant and play key roles in supporting the region’s natural environmental balance. From small mice darting ... </p>
+<p class="read-more-container"><a title="13 Common Rodents in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-common-rodents-in-michigan-with-pictures-and-identification/#more-32497" aria-label="Read more about 13 Common Rodents in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-common-rodents-in-michigan-with-pictures-and-identification/">13 Common Rodents in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-common-rodents-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 18 Types of Hawks in Texas (With Pictures and Identification)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>Texas is home to an impressive variety of hawks, making it one of the best places in North America to ... </p>
+<p class="read-more-container"><a title="18 Types of Hawks in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-types-of-hawks-in-texas-with-pictures-and-identification/#more-32491" aria-label="Read more about 18 Types of Hawks in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-types-of-hawks-in-texas-with-pictures-and-identification/">18 Types of Hawks in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-types-of-hawks-in-texas-with-pictures-and-identification/>
 
 ---
 
@@ -1379,95 +1498,4 @@ Cluttercore is the latest Pinterest trend promoting maximalism. Designers share 
 <br> 
 
 <https://www.sunset.com/home-garden/design/cluttercore-trend>
-
----
-
-## Growing bananas in Southern California
-
-date: 2025-07-19, from: Greg Alder's blog, Yard Post
-
-<p>Among the first words out of my two year-old son’s mouth every morning was, “Can I have a banana?” He would have eaten five a day if allowed. So I was hearing the call to grow more in our yard. Here in Southern California? Can you really grow bananas? Climate for bananas Bananas can be [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/growing-bananas-in-southern-california/">Growing bananas in Southern California</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/growing-bananas-in-southern-california/>
-
----
-
-## Tired of the Barn Door Trend? These Alternatives Are on the Rise
-
-date: 2025-07-19, from: Sunset Magazine - Living in the West
-
-Some interior designers say barn doors are out. Instead, try these barn door alternatives that will add style to your house. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/barn-door-alternatives>
-
----
-
-## The Design Industry’s Coolest Trend Is Hiding in Plain Sight
-
-date: 2025-07-19, from: Sunset Magazine - Living in the West
-
-Recently, a handful of interior designers have been making a statement with hidden doors. Here's how to pull it off at home. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/hidden-doorway-design-trend>
-
----
-
-## How to Grow Single Late Cottage Tulips
-
-date: 2025-07-19, from: The Gardener's Path
-
-<p>Extend your spring garden display with single late cottage tulips, with their tall stems and elegant, cup-shaped blooms. These May-flowering varieties bloom later than other types of tulips, adding height and lasting color to any planting scheme. Learn how to grow single late cottage tulips in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-single-late-tulips/">How to Grow Single Late Cottage Tulips</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/grow-single-late-tulips/>
-
----
-
-## These Are the Winners of the 2025 Sunset International Spirits Competition
-
-date: 2025-07-19, from: Sunset Magazine - Living in the West
-
-Congratulations to this year’s winners of the 2025 Sunset International Spirits Competition. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/sunset-international-spirits-competition-2025-winners>
-
----
-
-## The Best Cocktails and Spirits in the West Right Now—Read Our 2025 Spirits Issue
-
-date: 2025-07-19, from: Sunset Magazine - Living in the West
-
-The 2025 Spirits Issue celebrates the best cocktails across the West and honors the winners of the Sunset International Spirits Competition. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/2025-spirits-issue>
-
----
-
-## 45 Types of Beetle Insects (With Pictures and Identification)
-
-date: 2025-07-19, from: Yard Life blog
-
-<p>Beetles are among the most diverse and fascinating insects on the planet, with over 350,000 species identified worldwide. Their incredible ... </p>
-<p class="read-more-container"><a title="45 Types of Beetle Insects (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/#more-32214" aria-label="Read more about 45 Types of Beetle Insects (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/">45 Types of Beetle Insects (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/45-types-of-beetle-insects-with-pictures-and-identification/>
 
