@@ -1,11 +1,79 @@
 ---
 title: going electric
-updated: 2025-07-27 06:08:28
+updated: 2025-07-27 14:07:19
 ---
 
 # going electric
 
-(date: 2025-07-27 06:08:28)
+(date: 2025-07-27 14:07:19)
+
+---
+
+## Lucid Gravity Smokes Porsche And Lamborghini In The Quarter Mile
+
+date: 2025-07-27, from: Inside EVs News
+
+The EV startup's second model is the quickest SUV Car and Driver has ever tested.  
+
+<br> 
+
+<https://insideevs.com/news/767061/lucid-gravity-quarter-mile-porsche/>
+
+---
+
+## Rivian R1T Quad-Motor: One Big Takeaway From Off-Roading
+
+date: 2025-07-27, from: Inside EVs News
+
+While Rivian and other EV companies promote the benefits of quad-motor drivetrains, off-roaders prefer a simpler setup. Here's why. 
+
+<br> 
+
+<https://insideevs.com/news/767028/rivian-quad-motor-lockers/>
+
+---
+
+## Mary Kay goes electric with new Pink Cadillac OPTIQ (cue the music)
+
+date: 2025-07-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/mary_kay_CADILLAC.png?w=1600" /></div><p>Mark Kay’s iconic Pink Cadillac awards are driving into the future for 2025. The company’s first-ever <em>electric</em> Pink Cadillac OPTIQ made its debut during the Mary Kay annual Seminar in Charlotte this weekend, symbolizing a “recharged vision” for the future of the popular brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,gm" data-layer-viewtype="unknown" data-post-id="426873" href="https://electrek.co/2025/07/27/mary-kay-goes-electric-with-new-pink-cadillac-optiq-cue-the-music/#more-426873" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/27/mary-kay-goes-electric-with-new-pink-cadillac-optiq-cue-the-music/>
+
+---
+
+## I Visited The Tesla Diner. It Was A Bit Of A Disaster
+
+date: 2025-07-27, from: Inside EVs News
+
+The newest Tesla phenomenon has generated mixed opinions, so I investigated the real situation on the ground. Things got weird. 
+
+<br> 
+
+<https://insideevs.com/news/767092/tesla-diner-disaster-video/>
+
+---
+
+## First drive – RBW’s electric Roadster is a sporty modern take on British classics
+
+date: 2025-07-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/rbw-roadster-pacific-coast-highway-e1751575196522.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>RBW, a British handcrafted electric car manufacturer, brought its cute little Roadster out to Santa Monica and invited us up for a drive.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="423370" href="https://electrek.co/2025/07/27/first-drive-rbws-electric-roadster-is-a-sporty-modern-take-on-british-classics/#more-423370" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/27/first-drive-rbws-electric-roadster-is-a-sporty-modern-take-on-british-classics/>
 
 ---
 

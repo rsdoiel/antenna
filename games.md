@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-07-27 06:08:24
+updated: 2025-07-27 14:07:15
 ---
 
 # games
 
-(date: 2025-07-27 06:08:24)
+(date: 2025-07-27 14:07:15)
+
+---
+
+## Lord of Mysteries is the closest we might get to Bloodborne 2
+
+date: 2025-07-27, updated: 2025-07-25, from: Polygon Website
+
+Ten years after Bloodborne&#8216;s release, its fans are still exploring the game and finding new secrets, while stubbornly waiting waiting for a sequel. I also wish for more stories about old secrets and the dreams of hunters. The hopes for a possible sequel only make me more eager to get in touch with anything that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/615893/bloodborne-2-lord-of-mysteries-animation-best-donghua>
+
+---
+
+## K-Pop Demon Hunters and Star Wars Jedi is the crossover we never knew we needed
+
+date: 2025-07-27, updated: 2025-07-25, from: Polygon Website
+
+If someone had told me that my most recent hyperfixation, the Netflix phenomenon known as KPop Demon Hunters, would cross with my oldest, most beloved wire mother known as Star Wars, I’d have been very skeptical. After all, what could Cal Kestis, Bode Akuna, and Merrin from the Jedi games possibly have in common with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-wars/616094/kpop-demon-hunters-and-star-wars-jedi-is-the-crossover-we-never-knew-we-needed>
+
+---
+
+## Sorry, Mario, Nintendo&#8217;s got a new working-class hero
+
+date: 2025-07-27, updated: 2025-07-25, from: Polygon Website
+
+After becoming super, Mario seems to have pulled the ladder up behind him. Our hometown blue-collar boy made it good in the Mushroom Kingdom&#8217;s highest strata, ditching the plumber&#8217;s gig for a plush life as Princess Peach&#8217;s royal favorite (whatever that may or may not entail). He and his bro are set for life, so [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/616512/donkey-kong-bananza-nintendo-mascot-working-class-hero-mario>
+
+---
+
+## Steam&#8217;s mechanical new puzzle game has taken over my brain
+
+date: 2025-07-27, updated: 2025-07-25, from: Polygon Website
+
+The other day I was on my way to get drinks with some friends after work, but in my head, I was still at work. I had just spent a 45-minute subway ride with my nose buried in my Steam Deck playing Kaizen: A Factory Story. Set in 1980s Japan, the inventive new project from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/616366/kaizen-a-factory-story-recommendation-pc-steam>
+
+---
+
+## Every big SDCC 2025 reveal in one place
+
+date: 2025-07-27, updated: 2025-07-27, from: Polygon Website
+
+The 2025 edition of San Diego Comic-Con was relatively muted: Marvel skipped Hall H in favor of releasing The Fantastic Four: First Steps in all its standalone-thrills-but-pivotal-end-credits-scene glory while James Gunn only popped by to promote Peacemaker season 2, but nothing more from his larger Warner Bros./DCU initiative. But the absence of two major players [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sdcc/616709/all-news-trailers-san-diego-comic-con-2025>
 
 ---
 

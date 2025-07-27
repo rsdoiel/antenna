@@ -1,11 +1,39 @@
 ---
 title: columns
-updated: 2025-07-27 06:08:23
+updated: 2025-07-27 14:07:13
 ---
 
 # columns
 
-(date: 2025-07-27 06:08:23)
+(date: 2025-07-27 14:07:13)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/06/20/porky.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One of my favorite features in the newest version of Bingeworthy is that it can generate a ChatGPT <a href="https://tv.bingeworthy.org/?id=https%3A%2F%2Fwww.metacritic.com%2Ftv%2Fhappy-valley">review</a> of a program. <a href="https://imgs.scripting.com/2025/07/27/bingeScreenShot.png">Screen shot</a>. I wouldn't have opened this up before because of that would let in the weirdness of the internets. This way we can find out what people thought, as sanitized by ChatGPT.  BTW do you think the root of sanitized is sane? As the root of ignorant is ignore? Of course <a href="https://chatgpt.com/share/68868d18-b670-8012-acbf-2e711b7ddce1">Our Friend</a> has the answer. One is and the other isn't. 
+
+<br> 
+
+<http://scripting.com/2025/07/27.html#a202357>
+
+---
+
+## A Bingeworthy Sunday
+
+date: 2025-07-27, from: Dave Winer's Scripting News
+
+<p>I wasn't planning on this, but there was a <a href="https://github.com/scripting/bingeworthySupport/issues/5">report</a> that there was a problem with <a href="https://tv.bingeworthy.org/">BingeWorthy</a>, looked into it and was able to fix it. </p>
+<p>Source of problem: When I added a feature that lets you ask ChatGPT to review the program you're looking at, I broke the ability to add a new program to the database. It took about 15 minutes to track down and verify and another few minutes to fix -- and now that important function works again.  </p>
+<p>As long as I was in there working around, I updated the <a href="https://tv.bingeworthy.org/rss.xml">Bingeworthy RSS feed</a> to only report program additions. The other events it was reporting just weren't as interesting.</p>
+<p>I also added that feed to my <a href="https://imgs.scripting.com/2025/07/27/blogrolledBingeworthy.png">blogroll</a> on <a href="http://scripting.com/">scripting.com</a>. </p>
+<p>I'd say it works a lot better now. </p>
+<p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/27/155220.html?title=aBingeworthySunday>
 
 ---
 
@@ -463,7 +491,9 @@ date: 2025-07-26, from: Robert Reich's blog
 
 With Heather Lofthouse, guest Elliot Kirschner, and yours truly, Robert Reich 
 
-<br> 
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169261459/974fd3f102864fd0a31f4248d2e86ee2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169261459/974fd3f102864fd0a31f4248d2e86ee2.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://robertreich.substack.com/p/will-ghislaine-pardon-trump-the-coffee>
 

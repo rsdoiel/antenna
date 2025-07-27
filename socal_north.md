@@ -1,23 +1,23 @@
 ---
 title: socal north
-updated: 2025-07-27 06:08:20
+updated: 2025-07-27 14:07:10
 ---
 
 # socal north
 
-(date: 2025-07-27 06:08:20)
+(date: 2025-07-27 14:07:10)
 
 ---
 
-## City removes DIY crosswalks around popular West LA park. Organizer says, game on
+## Nearly 4,000 NASA employees opt to leave agency through deferred resignation program
 
 date: 2025-07-27, updated: 2025-07-27, from: The LAist
 
-The set of crosswalks were painted in May leading to the popular Stoner Park. 
+The employees who have chosen to leave the agency amount to about 20% of NASA's workforce. 
 
 <br> 
 
-<https://laist.com/news/transportation/city-removes-diy-crosswalks-around-popular-west-la-park-organizer-says-game-on>
+<https://laist.com/news/nearly-4-000-nasa-employees-opt-to-leave-agency-through-deferred-resignation-program>
 
 ---
 
@@ -30,6 +30,18 @@ Sewing machine? Power tools? Community? The new Coyotl + Macehaulli Tool and Boo
 <br> 
 
 <https://laist.com/news/los-angeles-activities/books-are-just-the-start-at-this-new-community-library-in-el-sereno>
+
+---
+
+## City removes DIY crosswalks around popular West LA park. Organizer says, game on
+
+date: 2025-07-27, updated: 2025-07-27, from: The LAist
+
+The set of crosswalks were painted in May leading to the popular Stoner Park. 
+
+<br> 
+
+<https://laist.com/news/transportation/city-removes-diy-crosswalks-around-popular-west-la-park-organizer-says-game-on>
 
 ---
 

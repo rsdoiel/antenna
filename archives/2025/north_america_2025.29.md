@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-07-27 06:08:20
+updated: 2025-07-27 14:07:09
 ---
 
 # north america
 
-(date: 2025-07-27 06:08:20)
+(date: 2025-07-27 14:07:09)
+
+---
+
+##  LEVER WEEKLY: Open Wide 
+
+date: 2025-07-27, from: The Lever News
+
+ Billionaires come for your molars, the feds backtrack on the Epstein files, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-open-wide/>
 
 ---
 

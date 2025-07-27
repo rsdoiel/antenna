@@ -1,11 +1,87 @@
 ---
 title: planet
-updated: 2025-07-27 06:08:19
+updated: 2025-07-27 14:07:08
 ---
 
 # planet
 
-(date: 2025-07-27 06:08:19)
+(date: 2025-07-27 14:07:08)
+
+---
+
+## Seven salad products recalled over listeria detection
+
+date: 2025-07-27, from: RTÉ News
+
+Seven spinach and mixed leaves products have been recalled after a detection of the harmful bacteria Listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0727/1525611-seven-salad-products-recalled-over-listeria-detection/>
+
+---
+
+## Swaggering Kerry sweep past Donegal to win 39th title
+
+date: 2025-07-27, from: RTÉ News
+
+Written off in mid-summer, Kerry won their 39th All-Ireland title with a breathless display of attacking football to overcome a Donegal side whose characteristic efficiency deserted them 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0727/1525560-swaggering-kerry-sweep-past-donegal-to-win-39th-title/>
+
+---
+
+## As it happened: Pharma included in 15% rate - EU chief
+
+date: 2025-07-27, from: RTÉ News
+
+Follow live developments as European Commission President Ursula von der Leyen met US President Donald Trump to clinch a trade deal for Europe. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0727/1525588-eu-us-tariffs/>
+
+---
+
+## U.S., EU agree to framework for trade deal that puts 15% tariff on European goods
+
+date: 2025-07-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7595079.1753640427!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-trump-scotland.jpg' alt='Two people shake hands while sitting in chairs.' width='620' height='349' title='President Donald Trump and European Commission President Ursula von der Leyen shake hands after reaching a trade deal at the Trump Turnberry golf course in Turnberry, Scotland Sunday, July 27, 2025. (AP Photo/Jacquelyn Martin)'/><p>The announcement came after European Commission President Ursula von der Leyen travelled to Scotland for talks with U.S. President Donald Trump to push a hard-fought deal over the line.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-eu-trade-deal-tariff-1.7595078?cmp=rss>
+
+---
+
+## Trickle of aid enters Gaza as people die from starvation 
+
+date: 2025-07-27, from: Vatican News
+
+
+                    <p>Trucks carrying much-needed aid have entered the Gaza border zone from Egypt.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/aid-gaza-israel-palestine-war-starvation-weapon-human-rights.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/aid-gaza-israel-palestine-war-starvation-weapon-human-rights.html>
+
+---
+
+## All-Ireland SFC recap: Kerry 1-26 Donegal 0-19
+
+date: 2025-07-27, from: RTÉ News
+
+Kerry claim a 39th All-Ireland football title with a 10-point victory over Donegal at Croke Park. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0727/1525561-all-ireland-football-final-donegal-v-kerry-build-up/>
 
 ---
 
@@ -54,6 +130,30 @@ A prayer service will take place in Co Clare this evening for Vanessa Whyte and 
 <br> 
 
 <https://www.rte.ie/news/2025/0727/1525575-fermanagh-triple-murder/>
+
+---
+
+## Prayer service held in Co Clare for Whyte family
+
+date: 2025-07-27, from: RTÉ News
+
+A prayer service has taken place in Co Clare for Vanessa Whyte and her two children, who were murdered at their Co Fermanagh home. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0727/1525575-fermanagh-triple-murder/>
+
+---
+
+## UN warns of ‘catastrophic hunger’ in Gaza as Israel announces humanitarian pauses
+
+date: 2025-07-27, from: United Nations, Top Stories
+
+United Nations agencies welcomed on Sunday Israel’s pledge to implement humanitarian pauses in its military operations in Gaza, aimed at easing the flow of desperately needed aid into and across the devastated enclave. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165504>
 
 ---
 
@@ -145,6 +245,18 @@ European Commission President Ursula Von Der Leyen has arrived in Scotland ahead
 
 ---
 
+## EU-US trade deal will help protect Irish jobs - Taoiseach
+
+date: 2025-07-27, from: RTÉ News
+
+The Taoiseach has said the trade agreement reached between the EU and the US will "help protect many jobs in Ireland". 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0727/1525559-scotland-trump-talks/>
+
+---
+
 ## First kite of pre-budget season flew over Leinster House
 
 date: 2025-07-27, from: RTÉ News
@@ -161,7 +273,7 @@ The first kite of the pre-budget season flew high and mighty over a quieter than
 
 date: 2025-07-27, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7594968.1753610613!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Dozens of men carry sacks of flour unloaded from a humanitarian aid convoy. Tents are in the background.' width='620' height='349' title='Palestinians carry sacks of flour unloaded from a humanitarian aid convoy that reached Gaza City from the northern Gaza Strip on Saturday, July 26, 2025.'/><p>The Israeli military on Sunday began a limited pause in fighting in three populated areas of Gaza for 10 hours a day, part of a series of steps launched as concerns over surging hunger in the territory mount and as Israel faces a wave of international criticism over its conduct in the 21-month war.</p> 
+<img src='https://i.cbc.ca/1.7595030.1753629847!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/uae-aid.jpeg' alt='Hundreds of men rush a convoy truck to try and secure bags of humanitarian aid.' width='620' height='349' title='Palestinians in Gaza rush to collect aid after a drop from the United Arab Emirates on Sunday, July 27, 2025.'/><p>The Israeli military on Sunday began a limited pause in fighting in three populated areas of Gaza for 10 hours a day, part of a series of steps launched as concerns over surging hunger in the territory mount and as Israel faces a wave of international criticism over its conduct in the 21-month war.</p> 
 
 <br> 
 
@@ -193,11 +305,11 @@ British Prime Minister Keir Starmer is expected to press US President Donald Tru
 
 ---
 
-## Thailand and Cambodia agree to Malaysian mediation
+## Thailand, Cambodia to hold peace talks after clashes
 
 date: 2025-07-27, from: RTÉ News
 
-Thailand and Cambodia have agreed to Malaysia acting as a mediator in their border conflict, the Malaysian Foreign Minister said, as the combatants each said the other had launched further artillery attacks across contested areas. 
+Thailand and Cambodia's leaders will meet in Malaysia for peace talks tomorrow, the Thai government said, as the countries clashed for a fourth day in a deadly border dispute. 
 
 <br> 
 
@@ -226,6 +338,18 @@ Two Jordanian and one Emirati plane have dropped 25 tonnes of humanitarian aid o
 <br> 
 
 <https://www.rte.ie/news/2025/0727/1525544-gaza-israel-aid/>
+
+---
+
+## 25 tonnes of aid dropped into Gaza amid IDF 'pauses'
+
+date: 2025-07-27, from: RTÉ News
+
+Israel has said it would halt military operations for 10 hours a day in parts of Gaza and allow new aid corridors as Jordan and the United Arab Emirates air-dropped supplies into the enclave, where images of starving Palestinians have alarmed the world. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0727/1525544-gaza-israel-aid/>
 
 ---
 

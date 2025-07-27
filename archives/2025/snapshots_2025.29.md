@@ -1,11 +1,45 @@
 ---
 title: snapshots
-updated: 2025-07-27 06:08:30
+updated: 2025-07-27 14:07:22
 ---
 
 # snapshots
 
-(date: 2025-07-27 06:08:30)
+(date: 2025-07-27 14:07:22)
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-07-27, from: Tomosino's Mastodon feed)
+
+<p>Here's a little demo video of my personal setup. Maybe a little fast if you're new to RSVP.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114926961760028267>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-07-27, from: Tomosino's Mastodon feed)
+
+<p>I made some <a href="https://ino.is/stutter" target="_blank" rel="nofollow noopener">Stutter</a> updates this weekend. Version 2.2.2 is available on Firefox and supports pretty much every language now for basic operations. I have hyphenization (breaking up very long words into parts) working in about 40 languages.</p><p>There's also a new option in settings to blur the background when Stutter is running, if that helps you concentrate.</p><p>Chrome and Edge have updates in the pipeline. They should land sometime this week.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114926947984208498>
+
+---
+
+## Lilbits: Meta’s experimental new input device, Blender for tablets, and new Raspberry Pi HATs add MicroSD Express and Radar support
+
+date: 2025-07-27, from: Liliputing
+
+<p>Meta is showing off its latest work in developing a new way to interact with electronic devices &#8211; one that doesn&#8217;t require a mouse, keyboard, touchscreen, or voice and which could make it simpler to interact with AR glasses&#8230; but which could also help people with disabilities to use PCs and phones. It&#8217;s basically a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-metas-experimental-new-input-device-blender-for-tablets-and-new-raspberry-pi-hats-add-microsd-express-and-radar-support/">Lilbits: Meta&#8217;s experimental new input device, Blender for tablets, and new Raspberry Pi HATs add MicroSD Express and Radar support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-metas-experimental-new-input-device-blender-for-tablets-and-new-raspberry-pi-hats-add-microsd-express-and-radar-support/>
 
 ---
 
@@ -32,6 +66,18 @@ When rates should rise or fall
 <br> 
 
 <https://paulkrugman.substack.com/p/understanding-interest-rate-policy>
+
+---
+
+## Understanding Memory Management, Part 7: Advanced Garbage Collection
+
+date: 2025-07-27, updated: 2025-07-27, from: Educated Guesswork blog
+
+ 
+
+<br> 
+
+<https://educatedguesswork.org/posts/memory-management-7/>
 
 ---
 

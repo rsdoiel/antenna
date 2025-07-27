@@ -1,11 +1,167 @@
 ---
 title: pacific
-updated: 2025-07-27 06:08:21
+updated: 2025-07-27 14:07:11
 ---
 
 # pacific
 
-(date: 2025-07-27 06:08:21)
+(date: 2025-07-27 14:07:11)
+
+---
+
+## Pacific news in brief for 28 July
+
+date: 2025-07-27, from: 
+
+A round-up of news from around the region, including a warning about leptospirosis risk in American Samoa. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568205/pacific-news-in-brief-for-28-july>
+
+---
+
+## Cook Islands’ Brett Baudinet matches Davis Cup doubles record
+
+date: 2025-07-27, from: 
+
+Brett Baudinet is now tied for the most double wins in the Davis Cup, also known as the World Cup of tennis. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568198/cook-islands-brett-baudinet-matches-davis-cup-doubles-record>
+
+---
+
+## Island military veterans hope for US action
+
+date: 2025-07-27, from: 
+
+Marshall Islands Foreign Minister and US military veteran Kalani Kaneko is hopeful of resuming the momentum for veterans living in the freely associated states. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568195/island-military-veterans-hope-for-us-action>
+
+---
+
+## In rain and silence, the CNMI mourns
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+CNMI residents held umbrellas as they stood in the rain along the road from Francisco C. Ada/Saipan International Airport to the intersection of Middle Road and Msgr. Guerrero Road in San Jose, paying tribute to Gov. Arnold I. Palacios, whose remains arrived Saturday from Guam. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/in-rain-and-silence-the-cnmi-mourns/article_0a374a9d-c308-41b5-a2af-48250ce64e43.html>
+
+---
+
+## UPDATED: Homicide investigation underway in San Antonio
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+THE Department of Public Safety has launched a homicide investigation on Tataga Street in San Antonio after a woman was found dead inside a residence Saturday afternoon. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/updated-homicide-investigation-underway-in-san-antonio/article_0410bde5-bcf4-4e01-a53b-efb885c7d1a8.html>
+
+---
+
+## More NMC nursing graduates pass NCLEX-RN, ready to serve NMI community
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+SIX recent nursing graduates from Northern Marianas College have officially passed the National Council Licensure Examination for Registered Nurses, marking another milestone for NMC’s nursing program and highlighting the growing number of locally trained nurses entering the workforce. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/more-nmc-nursing-graduates-pass-nclex-rn-ready-to-serve-nmi-community/article_15a8fa9a-ed33-464c-aa9f-d6b531fe4139.html>
+
+---
+
+## Amber Mengloi Smith named first indigenous scholarship recipient at EUCON
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+EUCON International School is proud to announce that Amber Mengloi Smith has been selected as the first recipient of the Indigenous Scholarship Program for Junior High School students. As part of EUCON International School’s newly launched Indigenous Special Scholarship Program, Amber represents the bright future of CNMI’s youth — one grounded in compassion, academic excellence, leadership, and a deep commitment to community. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/amber-mengloi-smith-named-first-indigenous-scholarship-recipient-at-eucon/article_4e90b6a8-87b6-4be8-a62f-0da3f160a457.html>
+
+---
+
+## EUCON announces first indigenous bachelor’s scholarship recipient: Angeline Orsini
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+IN a defining moment for the Northern Mariana Islands’ journey toward community rebuilding and educational revival, EUCON International University is proud to announce that Ms. Angeline Orsini has been awarded the first-ever Indigenous Bachelor’s Scholarship. This scholarship not only recognizes her perseverance and vision but also symbolizes EUCON’s unwavering commitment to empowering the indigenous peoples of CNMI through higher education, moral development, and community transformation. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/eucon-announces-first-indigenous-bachelor-s-scholarship-recipient-angeline-orsini/article_7216f646-aa83-4c64-a771-28d10a3d4a62.html>
+
+---
+
+## US business delegation to visit China: report
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+(Reuters) — A high-level delegation from the U.S.-China Business Council will visit China this week and is expected to meet senior Chinese officials, the South China Morning Post reported on Sunday, citing two sources familiar with the matter. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-business-delegation-to-visit-china-report/article_997181a8-e361-46f3-a1e3-4b78eee1ea80.html>
+
+---
+
+## Tropical Storm Krosa moving north away from northern CNMI
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tropical-storm-krosa-moving-north-away-from-northern-cnmi/article_2b30ea3b-924d-4a12-a1c1-ef318ade29ed.html>
+
+---
+
+## Final EIS for Guam missile defense released
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+HAGÅTÑA, Guam — The U.S. Missile Defense Agency, in cooperation with the Department of the Navy, has released the Final Environmental Impact Statement  for the Enhanced Integrated Air and Missile Defense system on Guam. This marks a significant milestone in the Department of Defense’s efforts to bolster the island’s defensive capabilities against evolving threats in the Indo-Pacific region. The Final EIS evaluates potential environmental impacts associated with the proposed development and deployment of a 360-degree missile defense system on Guam, encompassing land use, air quality, cultural and historic resources, and socioeconomic factors, among others. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/final-eis-for-guam-missile-defense-released/article_fba4a005-5b23-4bf0-ba29-7372e469a90b.html>
+
+---
+
+## New world-class health services will transform Nauru, says government
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+A MONTH after the Government of Nauru announced a ground breaking strategic partnership with UAE company Global Mission Support Services or GMSS to take over the management and delivery of the country’s health services, the results have already been transformational. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/new-world-class-health-services-will-transform-nauru-says-government/article_fe4eb86b-7229-42c0-be19-fb0fee7194da.html>
+
+---
+
+## MVA seeks public’s help in statue theft, visitor safety
+
+date: 2025-07-27, updated: 2025-07-27, from: Marianas Variety
+
+THE Marianas Visitors Authority is seeking the public’s assistance in the recovery of a memorial statue stolen from historic Suicide Cliff in Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mva-seeks-public-s-help-in-statue-theft-visitor-safety/article_ea648b3e-5354-4902-86d5-6bbd44efea1e.html>
 
 ---
 
@@ -490,18 +646,6 @@ date: 2025-07-26, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/us-states-to-get-608-million-from-fema-to-build-migrant-detention-centers/>
-
----
-
-## In rain and silence, the CNMI mourns
-
-date: 2025-07-26, updated: 2025-07-27, from: Marianas Variety
-
-CNMI residents held umbrellas as they stood in the rain along the road from Francisco C. Ada/Saipan International Airport to the intersection of Middle Road and Msgr. Guerrero Road in San Jose, paying tribute to Gov. Arnold I. Palacios, whose remains arrived Saturday from Guam. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/in-rain-and-silence-the-cnmi-mourns/article_0a374a9d-c308-41b5-a2af-48250ce64e43.html>
 
 ---
 

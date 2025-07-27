@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-27 06:08:27
+updated: 2025-07-27 14:07:18
 ---
 
 # retro computing
 
-(date: 2025-07-27 06:08:27)
+(date: 2025-07-27 14:07:18)
+
+---
+
+## VSBHDASF
+
+date: 2025-07-27, from: FreeDOS News
+
+<div class="markdown_content"><p>If you run FreeDOS (or any DOS) on real hardware, you will have problems getting sound to work with DOS games. That's because DOS doesn't have a 'hardware abstraction layer' like modern operating systems; DOS programs talked to the hardware directly, which is why you had to tell each game about your sound card. But since about 1997, PC hardware moved to Intel audio, so games that used SoundBlaster for sound won't work. That's why you need <a class="" href="https://github.com/crazii/SBEMU" rel="nofollow">SBEMU</a> .. or Japheth's fork, <a class="" href="https://github.com/Baron-von-Riedesel/VSBHDA" rel="nofollow">VSBHDA</a> .. to emulate SoundBlaster. Now there's a fork of VSBHDA that "adds support for using soundfonts for MPU-401 emulation using TinySoundFont, and properly fixes it to make it work with games like Duke Nukem 3D." You can find it at <a class="" href="https://github.com/Cacodemon345/VSBHDASF" rel="nofollow">VSBHDASF at GitHub</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/07/vsbhdasf/>
 
 ---
 
@@ -86,7 +98,7 @@ date: 2025-07-22, from: FreeDOS News
 
 date: 2025-07-22, from: FreeDOS News
 
-<div class="markdown_content"><p>This was announced in 2022 but it came up again recently. If you use the Open Watcom compilers, you might be interested in PMODE/W v1.33, a 32-bit Protected Mode DOS extender for the Watcom C/C++ Compiler. PMODE/W is a DOS extender for the Watcom C/C++ package. It allows DOS programs to run in full 32 bit protected mode, with access to all memory available in the system. PMODE/W replaces DOS/4GW extender in the Watcom C/C++ package. This was originally released in 1997, but was released under the MIT license in 2023. Youc an find it at <a class="" href="https://github.com/javiergutierrezchamorro/pmodew" rel="nofollow">PMODE/W on GitHub</a></p></div> 
+<div class="markdown_content"><p>This was announced in 2022 but it came up again recently. If you use the Open Watcom compilers, you might be interested in PMODE/W v1.33, a 32-bit Protected Mode DOS extender for the Watcom C/C++ Compiler. PMODE/W is a DOS extender for the Watcom C/C++ package. It allows DOS programs to run in full 32 bit protected mode, with access to all memory available in the system. PMODE/W replaces DOS/4GW extender in the Watcom C/C++ package. This was originally released in 1997, but was released under the MIT license in 2023. You can find it at the official <a class="" href="http://www.sid6581.net/pmodew/" rel="nofollow">PMODE/W website</a> by Charles Scheffold and Tomasz Pytel. Another developer has also made a copy at <a class="" href="https://github.com/javiergutierrezchamorro/pmodew" rel="nofollow">PMODE/W on GitHub</a></p></div> 
 
 <br> 
 
