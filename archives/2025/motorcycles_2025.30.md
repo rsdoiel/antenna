@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-07-28 06:08:19
+updated: 2025-07-28 14:08:14
 ---
 
 # motorcycles
 
-(date: 2025-07-28 06:08:19)
+(date: 2025-07-28 14:08:14)
+
+---
+
+## GALLERY: 2025 Brickyard 400 Weekend
+
+date: 2025-07-28, from: Kickin the Tires blog
+
+Photos by Austin Lawton 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-2025-brickyard-400-weekend/>
+
+---
+
+## Mark Your Calendars, the World's Favorite Scooter Icon Is Turning 80
+
+date: 2025-07-28, from: Ride Apart, Electric Motorcycle News
+
+80 is a big anniversary for anyone, and Vespa's ready for an epic party. 
+
+<br> 
+
+<https://www.rideapart.com/news/767060/vespa-80th-anniversary-rome-2026/>
+
+---
+
+## A Marine Was Paralyzed In a Motorcycle Crash, He Just Won $45 Million Lawsuit
+
+date: 2025-07-28, from: Ride Apart, Electric Motorcycle News
+
+A jury found that a tow truck illegally blocked visibility for drivers, leading to the wreck. 
+
+<br> 
+
+<https://www.rideapart.com/news/767057/marine-paralyzed-45-million-dollars-settlement-connecticut/>
 
 ---
 

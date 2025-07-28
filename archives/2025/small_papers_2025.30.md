@@ -1,9 +1,54 @@
 ---
 title: small papers
-updated: 2025-07-28 06:08:22
+updated: 2025-07-28 14:08:16
 ---
 
 # small papers
 
-(date: 2025-07-28 06:08:22)
+(date: 2025-07-28 14:08:16)
+
+---
+
+## Long blighted by speeding and deadly crashes, Pacific Avenue is getting a redesign
+
+date: 2025-07-28, from: Long Beach Post
+
+<figure><img width="1024" height="694" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-1024x694.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-1024x694.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-300x203.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-768x520.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The plan includes narrowing Pacific Avenue to one lane in each direction to add space for bicyclists and pedestrians.</p>
+<p>The post <a href="https://lbpost.com/news/place/pacific-avenue-redesign-road-diet-long-beach">Long blighted by speeding and deadly crashes, Pacific Avenue is getting a redesign</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/pacific-avenue-redesign-road-diet-long-beach>
+
+---
+
+## Stater Bros. grocery workers vote to authorize a strike
+
+date: 2025-07-28, from: Long Beach Post
+
+<figure><img width="714" height="433" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103729/screenshot-2025-07-28-at-103707am-258534-ff1hypg2-839638-2mO9a4Ge.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103729/screenshot-2025-07-28-at-103707am-258534-ff1hypg2-839638-2mO9a4Ge.png 714w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103729/screenshot-2025-07-28-at-103707am-258534-ff1hypg2-839638-2mO9a4Ge-300x182.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103729/screenshot-2025-07-28-at-103707am-258534-ff1hypg2-839638-2mO9a4Ge-178x108.png 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103729/screenshot-2025-07-28-at-103707am-258534-ff1hypg2-839638-2mO9a4Ge-400x243.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>No date has been set for a strike to begin.</p>
+<p>The post <a href="https://lbpost.com/news/stater-bros-grocery-workers-vote-to-authorize-a-strike">Stater Bros. grocery workers vote to authorize a strike</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/stater-bros-grocery-workers-vote-to-authorize-a-strike>
+
+---
+
+## Newsom ramps up California redistricting threat as Texas weighs new Republican maps
+
+date: 2025-07-28, from: Long Beach Post
+
+<figure><img width="1024" height="593" src="https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5-518x300.jpg 518w, https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5-1110x643.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5-1536x889.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5-2048x1185.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2021/07/21123134/07121-Newsom-5-1320x764.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As Texas moves forward with an off-cycle redistricting to shore up Republicans’ narrow House majority, Gov. Gavin Newsom is plotting a Democratic response in California. But the state’s independent redistricting commission is a major obstacle.</p>
+<p>The post <a href="https://lbpost.com/news/politics/newsom-ramps-up-california-redistricting-threat-as-texas-weighs-new-republican-maps">Newsom ramps up California redistricting threat as Texas weighs new Republican maps</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/newsom-ramps-up-california-redistricting-threat-as-texas-weighs-new-republican-maps>
 

@@ -1,11 +1,275 @@
 ---
 title: planet
-updated: 2025-07-28 06:08:09
+updated: 2025-07-28 14:08:05
 ---
 
 # planet
 
-(date: 2025-07-28 06:08:09)
+(date: 2025-07-28 14:08:05)
+
+---
+
+## Man sentenced to death over killing of Seán Rooney
+
+date: 2025-07-28, from: RTÉ News
+
+A man has been sentenced to death in Lebanon after he was convicted for his part in the killing of Irish peacekeeper Private Seán Rooney, who was shot dead while serving in the region in December 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0728/1525822-sean-rooney/>
+
+---
+
+## RTÉ assessing potential cyber threat
+
+date: 2025-07-28, from: RTÉ News
+
+RTÉ is assessing a potential cyber security threat after being contacted by the National Cyber Security Centre. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0728/1525819-rte-cyber/>
+
+---
+
+## Pope to Catholic Universities: ‘Let the wisdom of Christ be your compass'
+
+date: 2025-07-28, from: Vatican News
+
+
+                    <p>In a message to the International Federation of Catholic Universities, Pope Leo XIV calls on Catholic universities to remain firmly rooted in Christ, the source of true wisdom. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-message-catholic-universities-mexico.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-message-catholic-universities-mexico.html>
+
+---
+
+## Man dies in hospital following Fermanagh shooting
+
+date: 2025-07-28, from: RTÉ News
+
+A fourth person has died following a shooting in Maguiresbridge in Co Fermanagh last week. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0728/1525813-fermanagh-shooting/>
+
+---
+
+## Egyptian handprint from 4,000 years ago found on clay
+
+date: 2025-07-28, from: RTÉ News
+
+A handprint left 4,000 years ago on a clay model crafted to go inside an Egyptian tomb has been discovered during preparation for an exhibition at a museum. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0728/1525810-egyptian-handprint/>
+
+---
+
+## Former Christian Brother jailed over indecent assault
+
+date: 2025-07-28, from: RTÉ News
+
+A former Christian Brother and headmaster who indecently assaulted a young boy over 40 years ago has been jailed. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0728/1525809-john-merrick/>
+
+---
+
+## Older brother of Oasis duo charged with rape
+
+date: 2025-07-28, from: RTÉ News
+
+The older brother of Liam and Noel Gallagher has been charged with rape. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0728/1525796-paul-gallagher-charge/>
+
+---
+
+## Behind the Story: What now amid Trump's Turnberry tariffs
+
+date: 2025-07-28, from: RTÉ News
+
+A trade deal between the European Union and the US could see certain Irish exporters "at the same position" as they are now, an economist has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0728/1525781-behind-the-story/>
+
+---
+
+## Further batches of spinach recalled over listeria
+
+date: 2025-07-28, from: RTÉ News
+
+Batches of two further spinach products sold in Irish supermarkets have been recalled by the Food Safety Authority due to the detection of listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0728/1525775-fsai-listeria/>
+
+---
+
+## Inquest into Nkencho death could be delayed until 2026
+
+date: 2025-07-28, from: RTÉ News
+
+A full inquest into the fatal shooting of George Nkencho by gardaí in west Dublin five years ago will not begin this year after a coroner was informed that her plans to hold it in November might be unrealistic. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0728/1525778-george-nkencho-inquest/>
+
+---
+
+## Man who stabbed aunt's partner to be sentenced this week
+
+date: 2025-07-28, from: RTÉ News
+
+The brother of a cancer survivor who was stabbed multiple times in a "frenzied knife" attack by a "psychotic cowardly killer" has told the Central Criminal Court that seeing the defendant "with a smug look on his face" when the verdict was returned showed he had "no remorse" for their family. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0728/1525780-courts-kearney/>
+
+---
+
+## Firefighters battle blazes in Turkey, Greece and Albania
+
+date: 2025-07-28, from: RTÉ News
+
+Firefighters are battling to put out wildfires in three separate provinces of Turkey, in Greece and near a tourist resort in Albania, stoked by strong winds after days of searing heat across the Mediterranean region. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0728/1525779-europe-wildfires/>
+
+---
+
+## Repairs to see parts of greater Dublin area without water
+
+date: 2025-07-28, from: RTÉ News
+
+A major drinking water pipeline in the greater Dublin area is to be turned off over the coming August Bank Holiday weekend to enable critical and complex repair works to be undertaken. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0728/1525770-water-repair-works-dublin/>
+
+---
+
+## Wildfires scorch large swaths of southeast Europe and the Balkans
+
+date: 2025-07-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7595673.1753728800!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/europe-weather-wildfires.JPG' alt='Bright orange flames and smoke against a dark sky ' width='620' height='349' title='A general view of a wildfire in Gursu in the northwestern Bursa province, Turkey, July 27, 2025.  '/><p>Firefighters battled on Monday to put out wildfires in three separate provinces of Turkey, in Greece and near a tourist resort in Albania, stoked by strong winds after days of searing heat across the Mediterranean region.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/eastern-europe-wildfires-1.7595612?cmp=rss>
+
+---
+
+## 'Vladimir Putin is a real-life Bond villain,' says former PM Stephen Harper
+
+date: 2025-07-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7595621.1753727001!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/harper-and-putin.jpg' alt='Two men' width='620' height='349' title='Former prime minister Stephen Harper says Russian President Vladimir Putin &apos;took what is a fledging democracy and turned it back into a tyranny.&apos; '/><p>Former prime minister Stephen Harper told a conference in Saskatchewan on Monday that Russian President Vladimir Putin is “an evil man” who will leave Russia poor and in chaos.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/harper-putin-comments-1.7595579?cmp=rss>
+
+---
+
+## Court told man was leader of gang supplying weapons
+
+date: 2025-07-28, from: RTÉ News
+
+A 34-year-old man was the leader of an organised crime group supplying guns, ammunition and pipe bombs to other criminal gangs north and south of the border, the Special Criminal Court has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0728/1525762-mark-mccourt/>
+
+---
+
+## Holy See, Azerbaijan sign agreement on interreligious dialogue
+
+date: 2025-07-28, from: Vatican News
+
+
+                    <p>The Holy See and Azerbaijan sign a memorandum to promote cooperation between the Church and the State with regard to interfaith relations.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-azerbaijan-sign-agreement-on-interreligious-dialogue.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-azerbaijan-sign-agreement-on-interreligious-dialogue.html>
+
+---
+
+## Catholic Digital Missionaries and Influencers share hope at Jubilee event
+
+date: 2025-07-28, from: Vatican News
+
+
+                    <p>Hundreds of digital missionaries and Catholic influencers from around the world have gathered in Rome for the first-ever Jubilee for Digital Missionaries and Influencers, a two-day celebration aimed at fostering communion, deepening mission, and sharing hope through digital platforms.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/catholic-influencers-digital-missionaries-jubilee-youth-ruffini.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/catholic-influencers-digital-missionaries-jubilee-youth-ruffini.html>
+
+---
+
+## Trump gives Putin '10 or 12 days' to end Ukraine war
+
+date: 2025-07-28, from: RTÉ News
+
+US President Donald Trump has said he has set a new deadline of "about 10 or 12 days" for Vladimir Putin to end the war in Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0728/1525744-ukraine-russia/>
+
+---
+
+## Silence on Gaza will be 'moral failure', says President
+
+date: 2025-07-28, from: RTÉ News
+
+President Michael D Higgins has urged his European counterparts to call for action on Gaza and said "failure to take an initiative will be rightly construed as a moral failure". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0728/1525738-michael-d-higgins-gaza/>
+
+---
+
+## Virtual tour of former residential school captures the spirit of place
+
+date: 2025-07-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7593332.1753386875!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/vt.jpg' alt='Woman stands in large dilapidated room. ' width='620' height='349' title='Lorrie Gallant, Cayuga Nation from Six Nations of the Grand River Territory, ON, takes people on a guided immersive experience inside the Mohawk Institute. '/><p>An immersive experience will show people what the Mohawk Institute was like in the past. The former residential school is slated to reopen as a museum space, part of the Woodland Cultural Centre, on Sept. 30. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/woodland-residential-school-tour-1.7593291?cmp=rss>
 
 ---
 
@@ -25,7 +289,7 @@ date: 2025-07-28, from: Vatican News
 
 ---
 
-## Is this EU-US trade deal a good one for Ireland?
+## Explained: Is the EU-US trade deal good for Ireland?
 
 date: 2025-07-28, from: RTÉ News
 
@@ -50,6 +314,18 @@ date: 2025-07-28, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-telegram-parolin-attack-catholic-church-drc-komanda.html>
+
+---
+
+## Sask. Mayor honoured with fire bear medallion for firefighting contributions
+
+date: 2025-07-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7594612.1753482246!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rick-laliberte.jpg' alt='A man in a hat, wearing a dark sweater and vest poses with a beaded bear necklace he was gifted from a community member.' width='620' height='349' title='Rick Laliberte thought he was going to Sandra Dennett&apos;s house to help with animals, but she surprise him with this medallion for his hard work.'/><p>Sandra Lynn Caisse Dennett started making a beaded bear featuring the colours of fire when her community of Beauval was being surrounded by wild forest fires. When she was close to finishing it and thinking about who to gift it to, only one person came to mind: Beauval's mayor Rick Laliberte.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/beauval-mayor-fire-bear-medallion-1.7594575?cmp=rss>
 
 ---
 
@@ -78,6 +354,90 @@ The All-Ireland-winning Kerry team and management will make their way home this 
 <br> 
 
 <https://www.rte.ie/news/2025/0728/1525723-kerry-homecoming/>
+
+---
+
+## Thousands turn out to welcome Kerry team after final win
+
+date: 2025-07-28, from: RTÉ News
+
+Thousands of people have welcomed the new All-Ireland champions back to Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0728/1525723-kerry-homecoming/>
+
+---
+
+## Syria: Fragile ceasefire in Sweida ‘largely holding’ amid volatility
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+A fragile de-escalation in Syria’s Sweida region is “largely holding” after weeks of violence displaced 175,000 people, killed hundreds and devastated critical infrastructure – exposing deep fissures in the country’s political transition. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165512>
+
+---
+
+## UN condemns deadly attack on worshippers in DR Congo
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+The UN peacekeeping mission in the Democratic Republic of the Congo, MONUSCO, strongly condemned an attack by the Allied Democratic Forces (ADF) on civilians during the night of 26 to 27 July.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165511>
+
+---
+
+## Guterres: ‘Breaking point’ reached in Israel-Palestine conflict, urgent action needed on two-State solution
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has warned that the Israeli-Palestinian conflict has reached a breaking point, calling for bold political action to salvage the two-State solution and halt what he described as the systemic dismantling of peace efforts.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165509>
+
+---
+
+## LIVE COVERAGE: High-level conference on two-State solution for Israel and Palestine
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+Welcome to our live coverage of the high-level international conference at UN Headquarters, aimed at advancing practical steps toward achieving a two-State solution to the Israel-Palestine conflict. Mandated by the General Assembly, the three-day meeting features plenaries, working groups and interventions from senior UN officials and Member States. UN News app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165508>
+
+---
+
+## While Gaza ceasefire remains elusive, UN readies for conference around Israel-Palestine two-State solution
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+A world in which a sovereign State of Palestine and Israel co-exist peacefully seems a distant prospect, particularly in light of the 7 October 2023 attacks by Hamas on Israel and the subsequent Israeli bombardment of Gaza. A high-level UN conference opening on 28 July will, nevertheless, serve as the latest UN-backed attempt to find a way to end the conflict.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165507>
+
+---
+
+## Amid starvation in Gaza, Sudan, Guterres slams hunger ‘as a weapon of war’
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+As starvation worsens in war-torn Gaza, UN agencies repeated warnings on Monday that Israel’s decision to support a “one-week scale-up” of aid is far from enough to reverse deadly malnutrition rates in the enclave.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165506>
 
 ---
 
@@ -137,6 +497,18 @@ The US struck a framework trade agreement with the European Union, imposing a 15
 
 ---
 
+## In Quotes: Europe reacts to new trade deal with US
+
+date: 2025-07-28, from: RTÉ News
+
+The US struck a framework trade agreement with the European Union, imposing a 15% import tariff on most EU goods and averting a bigger trade war between the two allies that account for almost a third of global trade. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0728/1525690-eu-us-deal-reax/>
+
+---
+
 ## Scores killed in DR Congo attack on Catholic Church 
 
 date: 2025-07-28, from: Vatican News
@@ -153,6 +525,18 @@ date: 2025-07-28, from: Vatican News
 
 ---
 
+## 9-year-old First Nation phenom off to international golf match in Northern Ireland
+
+date: 2025-07-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7594263.1753467881!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/connor-hanska.jpg' alt='Connor Hanska standing next to his golf clubs before leaving for Northern Ireland.' width='620' height='349' title='Connor Hanska before leaving for Northern Ireland.'/><p>Connor Hanska will be competing in the 2025 Champion of Champions Tournament on one of the top courses in Northern Ireland, after qualifying on the Maple Leaf Junior Tour.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/mb-golf-phenom-1.7594239?cmp=rss>
+
+---
+
 ## Pope Leo XIV: A change of course is needed on environment
 
 date: 2025-07-28, from: Vatican News
@@ -166,6 +550,18 @@ date: 2025-07-28, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-message-environment-clameurs-rally-in-jambville.html>
+
+---
+
+## The Vatican Observatory Looks to the Heavens
+
+date: 2025-07-28, from: Vatican Obervatory
+
+Brother Guy Consolmagno, a Jesuit from Michigan—and a meteorite expert—oversees a team of scientists employed by the Holy See, and is known as the Pope’s... 
+
+<br> 
+
+<https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens>
 
 ---
 
@@ -209,6 +605,18 @@ Follow live updates as Europe and the United States react to a deal that will se
 
 ---
 
+## As it happened: World reacts to US-EU trade deal
+
+date: 2025-07-28, from: RTÉ News
+
+Follow live updates as Europe and the United States react to a deal that will see 15% tariffs on most EU goods entering the US. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0728/1525681-tariffs-tracker/>
+
+---
+
 ## X introduces age assurance measures to meet regulations
 
 date: 2025-07-28, from: RTÉ News
@@ -233,11 +641,23 @@ A man has been arrested by gardaí following his extradition from the United Sta
 
 ---
 
-## Europe 'capitulated' on US tariff deal, says Ibec CEO
+## Torrential rain, flooding hit parts of northern China
+
+date: 2025-07-28, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/2ebe77a5-32a5-45b6-bcdc-c31b2549dd91,1753705989152/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='BEIJING FLOODING RESCUE JULY 28' width='620' height='349' title=''/><p>Thousands of people were forced out of their homes on Monday after heavy rains in northern China, including villages around the capital Beijing.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6847053?cmp=rss>
+
+---
+
+## Tariff deal avoids 'damaging trade war', says Taoiseach
 
 date: 2025-07-28, from: RTÉ News
 
-CEO of Ibec Danny McCoy has described the deal reached by the European Union and the United States on trade tariffs as a capitulation by Europe. 
+Taoiseach Micheál Martin has said the new trade agreement reached between the US and EU means a "damaging trade war" has been avoided. 
 
 <br> 
 
@@ -257,6 +677,18 @@ Minister for Health Jennifer Carroll MacNeill has given her backing for the open
 
 ---
 
+## New surgical hub decision not 'political' - minister
+
+date: 2025-07-28, from: RTÉ News
+
+Minister for Health Jennifer Carroll MacNeill has said the decision to open two new surgical hubs in the north west region is based on the data available and not "anything political". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0728/1525646-surgical-hubs/>
+
+---
+
 ## Israeli rights groups brand Gaza campaign 'genocide'
 
 date: 2025-07-28, from: RTÉ News
@@ -269,11 +701,27 @@ Israeli rights groups B'Tselem and Physicians for Human Rights Israel have said 
 
 ---
 
-## Mother, newborn among at least 36 killed in Israeli strikes as some aid trickles in
+## Archbishop Gallagher celebrates Mass at Our Lady of Guadalupe Shrine
+
+date: 2025-07-28, from: Vatican News
+
+
+                    <p>The Vatican's Secretary for Relations with States and International Organizations, Archbishop Paul Richard Gallagher, celebrates Mass at the Shrine of Our Lady of Guadalupe during his visit to Mexico this week.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-gallagher-mass-our-lady-guadalupe-shrine-mexico.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-gallagher-mass-our-lady-guadalupe-shrine-mexico.html>
+
+---
+
+## Mother, newborn among at least 78 killed in Israeli strikes as some aid trickles in to Gaza
 
 date: 2025-07-28, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7595273.1753701296!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-hunger.JPG' alt='A crowd of people including young children push through to get food from a soup kitchen.' width='620' height='349' title='Palestinians wait to receive food from a charity kitchen, amid a hunger crisis, in Gaza City, July 28, 2025. REUTERS/Khamis Al-Rifi'/><p>Israeli strikes killed at least 36 Palestinians in multiple locations across Gaza on Monday, local health officials said, a day after Israel eased aid restrictions in the face of a worsening humanitarian crisis in the territory.</p> 
+<img src='https://i.cbc.ca/1.7595273.1753701296!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza-hunger.JPG' alt='A crowd of people including young children push through to get food from a soup kitchen.' width='620' height='349' title='Palestinians wait to receive food from a charity kitchen, amid a hunger crisis, in Gaza City, July 28, 2025. REUTERS/Khamis Al-Rifi'/><p>Israeli strikes killed at least 78 Palestinians in multiple locations across Gaza on Monday, local health officials said, a day after Israel eased aid restrictions in the face of a worsening humanitarian crisis in the territory.</p> 
 
 <br> 
 
@@ -281,11 +729,11 @@ date: 2025-07-28, from: CBC, World News
 
 ---
 
-## Thailand, Cambodia agree to ceasefire after 5 days of battle
+## Thailand, Cambodia agree to ceasefire after clashes displace more than 300,000 people
 
 date: 2025-07-28, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7595262.1753699459!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/thailand-cambodia-malaysia.JPG' alt='Malaysia&apos;s Prime Minister Anwar Ibrahim reacts as Cambodia&apos;s Prime Minister Hun Manet and Thailand&apos;s acting Prime Minister Phumtham Wechayachai shake hands.' width='620' height='349' title='Malaysia&apos;s Prime Minister Anwar Ibrahim reacts as Cambodia&apos;s Prime Minister Hun Manet and Thailand&apos;s acting Prime Minister Phumtham Wechayachai shake hands following a press conference, on the day of mediation talks on the Thailand–Cambodia border conflict, in Putrajaya, Malaysia July 28, 2025.    Mohd Rasfan/Pool via REUTERS'/><p>The leaders of Cambodia and Thailand agreed to a ceasefire on Monday effective at midnight, in a bid to bring an end to their deadliest conflict in more than a decade after five days of fierce fighting.</p> 
+<img src='https://i.cbc.ca/1.7595262.1753718360!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/thailand-cambodia-malaysia.JPG' alt='Two men in suits shake hands while a third, between them, extends his arms. ' width='620' height='349' title='Malaysia&apos;s Prime Minister Anwar Ibrahim reacts as Cambodia&apos;s Prime Minister Hun Manet, left, and Thailand&apos;s acting Prime Minister Phumtham Wechayachai, right, shake hands following a press conference, on the day of mediation talks on the Thailand–Cambodia border conflict, in Putrajaya, Malaysia July 28, 2025.'/><p>The leaders of Cambodia and Thailand agreed to ceasefire on Monday, effective at midnight, after five days of fierce fighting that has displaced more than 300,000 people and marked their deadliest conflict in more than a decade. </p> 
 
 <br> 
 
@@ -305,7 +753,7 @@ A new text message service has been launched designed to improve emergency commu
 
 ---
 
-## Thailand and Cambodia agree to 'unconditional' ceasefire
+## Thailand and Cambodia truce agreement comes into effect
 
 date: 2025-07-28, from: RTÉ News
 
@@ -341,6 +789,18 @@ Former US president Barack Obama and his wife Michelle have been invited to acce
 
 ---
 
+## Obamas invited to take up Freedom of Dublin duties
+
+date: 2025-07-28, from: RTÉ News
+
+Former US president Barack Obama and his wife Michelle have been invited to accept their Freedom of the City of Dublin when they visit the capital in September. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0728/1525639-barack-michelle-obama-dublin/>
+
+---
+
 ## Orbán: Trump 'ate' EU chief 'for breakfast' in talks
 
 date: 2025-07-28, from: RTÉ News
@@ -357,7 +817,7 @@ The framework trade agreement which the United States and the European Union sig
 
 date: 2025-07-28, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7595255.1753694474!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/thailand-shooting.jpg' alt='A policeman walks through a crime scene at a market.' width='620' height='349' title='A policeman of a special operations unit at a crime scene at a market in Bangkok, Thailand, Monday, July 28, 2025 where police says six people are dead after a shooting incident. (AP Photo/Nava Sangthong)'/><p>A gunman shot and killed five people at a popular fresh food market in the Thai capital on Monday before killing himself, police said.</p> 
+<img src='https://i.cbc.ca/1.7595301.1753707506!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/thailand-crime.JPG' alt='Two women console another woman who is crying at a market in Thailand.' width='620' height='349' title='People react near a crime scene of a shooting incident at a market, where people were killed, including a gunman who took his own life, in Bangkok, Thailand, July 28, 2025. REUTERS/Patipat Janthong'/><p>A gunman shot and killed five people at a popular fresh food market in the Thai capital Bangkok on Monday before killing himself, police said, attributing the shooting to a personal grudge.</p> 
 
 <br> 
 
@@ -365,11 +825,11 @@ date: 2025-07-28, from: CBC, World News
 
 ---
 
-## Delayed UN meeting to discuss two-state solution
+## Delayed UN meeting to discuss two-state solution begins
 
 date: 2025-07-28, from: RTÉ News
 
-Dozens of ministers will gather at the United Nations for a delayed conference to work toward a two-state solution between Israel and the Palestinians, but the US and Israel are boycotting the event. 
+A delayed conference to promote the two-state solution for Israel and Palestine has opened at the United Nations in New York. 
 
 <br> 
 
@@ -386,6 +846,18 @@ US President Donald Trump said that a ceasefire between Israel and Hamas in Gaza
 <br> 
 
 <https://www.rte.ie/news/world/2025/0728/1525634-trump-starmer/>
+
+---
+
+## Hunger must never be 'weapon of war' - UN chief
+
+date: 2025-07-28, from: RTÉ News
+
+UN Secretary-General António Guterres has said food must not be used as a weapon of war amid a severely deteriorating crisis in Gaza, whose population of more than two million is facing famine and malnutrition. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0728/1525634-trump-starmer/>
 
 ---
 
@@ -833,7 +1305,7 @@ By the age of 26, Ozzy Osbourne had secured his place in music history alongside
 
 date: 2025-07-27, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/2870cee6-2179-4c8b-bec8-18301d9aa00f,1753302942255/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Prime Minister Mark Carney, left, is seen next to an image of U.S. President Donald Trump in this combination image.' width='620' height='349' title='Prime Minister Mark Carney, left, is seen next to an image of U.S. President Donald Trump in this combination image.'/><p></p> 
+<img src='https://i.cbc.ca/ais/9d085620-54e9-4a88-ab72-ab0fb1fb2e95,1753721027783/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Prime Minister Mark Carney speaking to reporters near Charlottetown, Prince Edward Island.' width='620' height='349' title='When asked by a reporter if Canada could see a similar trade deal with the United States as the European Union&apos;s, which includes a 15 per cent tariff, Prime Minister Mark Carney said Europe and Canada have different relationships with the U.S., particularly because the U.S. needs Canadian energy.'/><p></p> 
 
 <br> 
 

@@ -1,11 +1,157 @@
 ---
 title: pacific
-updated: 2025-07-28 06:08:13
+updated: 2025-07-28 14:08:08
 ---
 
 # pacific
 
-(date: 2025-07-28 06:08:13)
+(date: 2025-07-28 14:08:08)
+
+---
+
+## UH P3 program secures another opportunity to expand housing for the UH community
+
+date: 2025-07-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> secured a third public-private partnership which focuses on growing student housing options and will focus on redeveloping and managing the Hale Kāwili Apartments near <abbr>UH</abbr> Hilo.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/28/uh-p3-program-uh-hilo-housing/"><abbr>UH</abbr> <abbr>P3</abbr> program secures another opportunity to expand housing for the <abbr>UH</abbr> community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/28/uh-p3-program-uh-hilo-housing/>
+
+---
+
+## Solomon Islands PM Manele visiting New Zealand this week
+
+date: 2025-07-28, from: 
+
+Prime Minister Christopher Luxon says Solomon Islands is an important partner for New Zealand. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568287/solomon-islands-pm-manele-visiting-new-zealand-this-week>
+
+---
+
+## Could kalo be Hawaiʻi’s new superfood for chickens?
+
+date: 2025-07-28, from: University of Hawaiʻi News
+
+<p>A new <abbr>CTAHR</abbr> review suggests that locally grown kalo (taro) leaves offer a promising, cost-effective and nutritious alternative feed for <span aria-label="Hawaii's">Hawai&#699;i's</span> poultry farmers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/28/kalo-chicken-food/">Could kalo be Hawaiʻi’s new superfood for chickens?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/28/kalo-chicken-food/>
+
+---
+
+## More Pasifika households denied emergency housing - report
+
+date: 2025-07-28, from: 
+
+A new report on homelessness in Aotearoa shows more Pasifika families were denied emergency housing due to ineligibility than were accepted in the month of March. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568220/more-pasifika-households-denied-emergency-housing-report>
+
+---
+
+## ‘Fantastic Four: First Steps’ scores Marvel’s first $100 million box office opening of 2025
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+LOS ANGELES (AP) — Marvel’s first family has finally found box office gold. “The Fantastic Four: First Steps,” the first film about the superheroes made under the guidance of Kevin Feige and the Walt Disney Co., earned $118 million in its first weekend in 4,125 North American theaters, according to studio estimates Sunday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/fantastic-four-first-steps-scores-marvel-s-first-100-million-box-office-opening-of-2025/article_8d73f4ef-121c-4e4d-836c-12e6d23fa0f3.html>
+
+---
+
+## New date, same holiday magic: Saipan’s Christmas in July set for Aug. 22
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College is pleased to announce the new date for its Saipan Christmas in July event, now scheduled for Friday, Aug. 22, 2025, at the Northern Marianas College As Terlaje Campus V Building parking lot. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/new-date-same-holiday-magic-saipan-s-christmas-in-july-set-for-aug-22/article_7e990f31-8145-43e8-8af5-5495c0c03c7d.html>
+
+---
+
+## Only 3 days left to apply for Saipan chamber scholarship
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+(SCC) — The clock is ticking for students in the Northern Mariana Islands: there are only three days left to apply for the Saipan Chamber of Commerce scholarships. The final deadline to submit all completed applications is Friday, Aug. 1, 2025, by 12 noon. Late submissions will not be accepted under any circumstances. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/only-3-days-left-to-apply-for-saipan-chamber-scholarship/article_55198d15-b53e-4508-8e12-4e8622450a97.html>
+
+---
+
+## US and EU avert trade war with 15% tariff deal
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+TURNBERRY, Scotland (Reuters) — The U.S. struck a framework trade agreement with the European Union on Sunday, imposing a 15% import tariff on most EU goods — half the threatened rate — and averting a bigger trade war between the two allies that account for almost a third of global trade. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-and-eu-avert-trade-war-with-15-tariff-deal/article_18a76d08-e618-4fe0-9706-8712076414ee.html>
+
+---
+
+## State funeral for Gov. Palacios set for Saturday
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+GOVERNOR David M. Apatang and Lt. Gov. Dennis James Mendiola on Monday declared a Commonwealth state funeral in honor of the late Gov. Arnold I. Palacios. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/state-funeral-for-gov-palacios-set-for-saturday/article_f191eb91-41b1-4452-8251-0e6d2769fb38.html>
+
+---
+
+## Local group celebrates Amelia Earhart’s birthday, renews call for monument in her honor
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+THE Amelia Earhart Saipan Memorial Monument Incorporated group held an event at Joeten-Kiyu Public Library to celebrate the 128th birthday of the famed aviatrix on Thursday, July 24, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/local-group-celebrates-amelia-earhart-s-birthday-renews-call-for-monument-in-her-honor/article_f283ef94-3b39-4318-9c70-14e9aa23202c.html>
+
+---
+
+## Judge to dismiss IPI bankruptcy if sale fails by Aug. 21
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+NMI Bankruptcy Designated Judge Robert J. Faris said he will dismiss Imperial Pacific International's Chapter 11 petition if the court-approved sale does not close by Aug. 21 at 9 a.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/judge-to-dismiss-ipi-bankruptcy-if-sale-fails-by-aug-21/article_1bb69580-71ec-4515-90c5-c10db23630fd.html>
+
+---
+
+## DPS identifies homicide victim
+
+date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+
+AT a press conference on Monday, Department of Public Safety Public Information Officer Adrian Pangelinan identified 77-year-old Rosa Mendiola Sablan as the victim in the homicide investigation in San Antonio. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dps-identifies-homicide-victim/article_b012e4f1-06b1-4e80-b6a8-bdb0b0af2c43.html>
 
 ---
 
@@ -342,18 +488,6 @@ Tourists stroll along the street in the district of Garapan on Saipan. Photo by 
 <br> 
 
 <https://www.pacificislandtimes.com/post/cnmi-anticipates-resurgence-of-chinese-market-with-the-resumption-of-visa-free-entry-program>
-
----
-
-## More Pasifika households denied emergency housing - report
-
-date: 2025-07-27, from: 
-
-A new report on homelessness in Aotearoa shows more Pasifika families were denied emergency housing due to ineligibility than were accepted in the month of March. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/568220/more-pasifika-households-denied-emergency-housing-report>
 
 ---
 

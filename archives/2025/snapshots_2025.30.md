@@ -1,11 +1,202 @@
 ---
 title: snapshots
-updated: 2025-07-28 06:08:24
+updated: 2025-07-28 14:08:18
 ---
 
 # snapshots
 
-(date: 2025-07-28 06:08:24)
+(date: 2025-07-28 14:08:18)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-28, from: Robert's feed at BlueSky)
+
+I wonder. Was this a transactional decision involving some form of payment? His past actions have not shown a capacity for empathy involving health issues.
+
+https://laist.com/news/health/trump-epa-ethylene-oxide-cancer-sterilize-medical-equipment-southeast-l-a 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lv2giyzgyc23>
+
+---
+
+## Tiburón: la historia de un clásico – la trascendencia de una criatura marina
+
+date: 2025-07-28, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Laurent Bouzereau. País: Estados Unidos. Elenco: Steven Spielberg, Janet Maslin, Cameron Crowe, Guillermo del Toro. Más información de la película: https://www.imdb.com/title/tt32743685/ La década de los setenta es uno de los periodos más significativos en el cine de Estados Unidos. La irrupción de directores como Martin Scorsese, George Lucas, Francis Ford Coppola, Peter Bogdanovich y [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-tiburon-la-historia-de-un-clasico/">Tiburón: la historia de un clásico – la trascendencia de una criatura marina</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-tiburon-la-historia-de-un-clasico/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-tiburon-la-historia-de-un-clasico>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-28, from: Robert's feed at BlueSky)
+
+True. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lv2elxo4mc2h>
+
+---
+
+## SZBOX DS156 is the latest take on a 15.6 inch notebook with an integrated 7-inch tablet
+
+date: 2025-07-28, from: Liliputing
+
+<p>SZBOX has started selling a new 15.6&#8243; laptop on its AliExpress store. The most intriguing feature of the SZBOX DS156 is the 7-inch tablet situated to the right of its keyboard and touchpad. This isn&#8217;t a new idea by any means. Lenovo offered a high-end 17.3&#8243; ThinkPad with an 8-inch secondary screen back in 2022. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/szbox-ds156-is-the-latest-take-on-a-15-6-inch-notebook-with-an-integrated-7-inch-tablet/">SZBOX DS156 is the latest take on a 15.6 inch notebook with an integrated 7-inch tablet</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/szbox-ds156-is-the-latest-take-on-a-15-6-inch-notebook-with-an-integrated-7-inch-tablet/>
+
+---
+
+## UK Online Safety Act
+
+date: 2025-07-28, from: Michael Tsai
+
+EFF: The U.K. Parliament has passed the Online Safety Bill (OSB), which says it will make the U.K. &#8220;the safest place&#8221; in the world to be online. In reality, the OSB will lead to a much more censored, locked-down internet for British users. The bill could empower the government to undermine not just the privacy [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/28/uk-online-safety-act/>
+
+---
+
+## Updated Age Ratings in App Store Connect
+
+date: 2025-07-28, from: Michael Tsai
+
+Apple (MacRumors): The age rating system for apps and games has been updated in order to provide people with more granular age ratings. We&#8217;ve also introduced new age rating questions to help identify sensitive content in your app and added the ability to set a higher rating to reflect your app&#8217;s minimum age requirement. [&#8230;] [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/28/updated-age-ratings-in-app-store-connect/>
+
+---
+
+## A Second Tea Breach Reveals Users’ DMs About Abortions and Cheating
+
+date: 2025-07-28, from: 404 Media Group
+
+The more than one million messages obtained by 404 Media are as recent as last week, discuss incredibly sensitive topics, and make it trivial to unmask some anonymous Tea users. 
+
+<br> 
+
+<https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/>
+
+---
+
+## GLM-4.5: Reasoning, Coding, and Agentic Abililties
+
+date: 2025-07-28, updated: 2025-07-28, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://z.ai/blog/glm-4.5">GLM-4.5: Reasoning, Coding, and Agentic Abililties</a></strong></p>
+Another day, another significant new open weight model release from a Chinese frontier AI lab.</p>
+<p>This time it's Z.ai - who rebranded (at least in English) from <a href="https://en.wikipedia.org/wiki/Zhipu_AI">Zhipu AI</a> a few months ago. They just dropped <a href="https://huggingface.co/zai-org/GLM-4.5-Base">GLM-4.5-Base</a>, <a href="https://huggingface.co/zai-org/GLM-4.5">GLM-4.5</a> and <a href="https://huggingface.co/zai-org/GLM-4.5-Air">GLM-4.5 Air</a> on Hugging Face, all under an MIT license.</p>
+<p>These are MoE hybrid reasoning models with thinking and non-thinking modes, similar to Qwen 3. GLM-4.5 is 355 billion total parameters with 32 billion active, GLM-4.5-Air is 106 billion total parameters and 12 billion active.</p>
+<p>They started using MIT a few months ago for their <a href="https://huggingface.co/collections/zai-org/glm-4-0414-67f3cbcb34dd9d252707cb2e">GLM-4-0414</a> models - their older releases used a janky non-open-source custom license.</p>
+<p>Z.ai's own benchmarking (across 12 common benchmarks) ranked their GLM-4.5 3rd behind o3 and Grok-4 and just ahead of Claude Opus 4. They ranked GLM-4.5 Air 6th place just ahead of Claude 4 Sonnet. I haven't seen any independent benchmarks yet.</p>
+<p>The other models they included in their own benchmarks were o4-mini (high), Gemini 2.5 Pro, Qwen3-235B-Thinking-2507, DeepSeek-R1-0528, Kimi K2, GPT-4.1, DeepSeek-V3-0324. Notably absent: any of Meta's Llama models, or any of Mistral's. Did they deliberately only compare themselves to open weight models from other Chinese AI labs?</p>
+<p>Both models have a 128,000 context length and are trained for tool calling, which honestly feels like table stakes for any model released in 2025 at this point.</p>
+<p>It's interesting to see them use Claude Code to run their own coding benchmarks:</p>
+<blockquote>
+<p>To assess GLM-4.5's agentic coding capabilities, we utilized Claude Code to evaluate performance against Claude-4-Sonnet, Kimi K2, and Qwen3-Coder across 52 coding tasks spanning frontend development, tool development, data analysis, testing, and algorithm implementation. [...] The empirical results demonstrate that GLM-4.5 achieves a 53.9% win rate against Kimi K2 and exhibits dominant performance over Qwen3-Coder with an 80.8% success rate. While GLM-4.5 shows competitive performance, further optimization opportunities remain when compared to Claude-4-Sonnet.</p>
+</blockquote>
+<p>They published the dataset for that benchmark as <a href="https://huggingface.co/datasets/zai-org/CC-Bench-trajectories">zai-org/CC-Bench-trajectories</a> on Hugging Face. I think they're using the word "trajectory" for what I would call a chat transcript.</p>
+<blockquote>
+<p>Unlike DeepSeek-V3 and Kimi K2, we reduce the width (hidden dimension and number of routed experts) of the model while increasing the height (number of layers), as we found that deeper models exhibit better reasoning capacity.</p>
+</blockquote>
+<p>They pre-trained on 15 trillion tokens, then an additional 7 trillion for code and reasoning:</p>
+<blockquote>
+<p>Our base model undergoes several training stages. During pre-training, the model is first trained on 15T tokens of a general pre-training corpus, followed by 7T tokens of a code &amp; reasoning corpus. After pre-training, we introduce additional stages to further enhance the model's performance on key downstream domains.</p>
+</blockquote>
+<p>They also open sourced their post-training reinforcement learning harness, which they've called <strong>slime</strong>. That's available at <a href="https://github.com/THUDM/slime">THUDM/slime</a> on GitHub - THUDM is the Knowledge Engineer Group @ Tsinghua University, the University from which Zhipu AI spun out as an independent company.</p>
+<p>This time I ran my <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">pelican bechmark</a> using the <a href="https://chat.z.ai/">chat.z.ai</a> chat interface, which offers free access (no account required) to both GLM 4.5 and GLM 4.5 Air. I had reasoning enabled for both.</p>
+<p>Here's what I got for "Generate an SVG of a pelican riding a bicycle" on <a href="https://chat.z.ai/s/014a8c13-7b73-40e8-bbf9-6a94482caa2e">GLM 4.5</a>. I like how the pelican has its wings on the handlebars:</p>
+<p><img alt="Description by Claude Sonnet 4: This is a whimsical illustration of a white duck or goose riding a red bicycle. The bird has an orange beak and is positioned on the bike seat, with its orange webbed feet gripping what appears to be chopsticks or utensils near the handlebars. The bicycle has a simple red frame with two wheels, and there are motion lines behind it suggesting movement. The background is a soft blue-gray color, giving the image a clean, minimalist cartoon style. The overall design has a playful, humorous quality to it." src="https://static.simonwillison.net/static/2025/glm-4.5-pelican.jpg" /></p>
+<p>And <a href="https://chat.z.ai/s/e772675c-3445-4cff-903c-6faa3d6b9524">GLM 4.5 Air</a>:</p>
+<p><img alt="Description by Claude Sonnet 4: This image shows a cute, minimalist illustration of a snowman riding a bicycle. The snowman has a simple design with a round white body, small black dot for an eye, and an orange rectangular nose (likely representing a carrot). The snowman appears to be in motion on a black bicycle with two wheels, with small orange arrows near the pedals suggesting movement. There are curved lines on either side of the image indicating motion or wind. The overall style is clean and whimsical, using a limited color palette of white, black, orange, and gray against a light background." src="https://static.simonwillison.net/static/2025/glm-4.5-air-pelican.jpg" /></p>
+<p>Ivan Fioravanti <a href="https://x.com/ivanfioravanti/status/1949854575902523399">shared a video</a> of the <a href="https://huggingface.co/mlx-community/GLM-4.5-Air-4bit">mlx-community/GLM-4.5-Air-4bit</a> quantized model running on a M4 Mac with 128GB of RAM, and it looks like a very strong contender for a local model that can write useful code. The cheapest 128GB Mac Studio costs around $3,500 right now, so genuinely great open weight coding models are creeping closer to being affordable on consumer machines.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/28/glm-45/#atom-everything>
+
+---
+
+## Tour de France Findings
+
+date: 2025-07-28, from: Guy Kawasaki blog
+
+Steve Faulkner, Senior Lecturer in Exercise Physiology, Nottingham Trent University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/tour-de-france-findings>
+
+---
+
+## The AI Heat Pump
+
+date: 2025-07-28, from: Status-Q blog
+
+Current AI systems excel at generating large amounts of text.  You can give ChatGPT a few bullet points, and it will turn them into a paragraph, an email, an essay. So we&#8217;re all going to get a lot more text in the future. AIs will soon force us to confront the fact that we live <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/07/28/13251/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/07/28/13251/>
+
+---
+
+## The Health Insurance Blues
+
+date: 2025-07-28, updated: 2025-07-28, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/28/the-health-insurance-blues/>
+
+---
+
+## Keyphone is a feature phone with swappable keyboard and camera modules (crowdfunding)
+
+date: 2025-07-28, from: Liliputing
+
+<p>Over the past few years we&#8217;ve seen a number of efforts to bring physical keyboards back to smartphones. But we&#8217;ve also seen a growing number of efforts to make smartphones&#8230; less smart, as a way to ensure they&#8217;re less distracting and addictive. The Keyphone falls into both categories. It&#8217;s a relatively simple feature phone that runs a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/keyphone-is-a-feature-phone-with-swappable-keyboard-and-camera-modules-crowdfunding/">Keyphone is a feature phone with swappable keyboard and camera modules (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/keyphone-is-a-feature-phone-with-swappable-keyboard-and-camera-modules-crowdfunding/>
+
+---
+
+## Former Moderator Sues Chaturbate for 'Psychological Trauma'
+
+date: 2025-07-28, from: 404 Media Group
+
+“Without these safeguards, Mr. Barber eventually developed full-blown PTSD, which he is currently still being treated for,” the former mod's lawyer said. 
+
+<br> 
+
+<https://www.404media.co/former-moderator-sues-chaturbate-for-psychological-trauma/>
 
 ---
 
@@ -181,6 +372,103 @@ date: 2025-07-27, from: Liliputing
 <br> 
 
 <https://liliputing.com/lilbits-metas-experimental-new-input-device-blender-for-tablets-and-new-raspberry-pi-hats-add-microsd-express-and-radar-support/>
+
+---
+
+## The many, many, many JavaScript runtimes of the last decade
+
+date: 2025-07-27, from: Whatever, Jamie blog (Jamie Birch)
+
+<p><center><img alt="Jamie jogging on a sports track, wearing a JavaScript vest" src="https://assets.buttondown.email/images/a502daab-842f-4157-a1e5-13a129fd67e0.JPG?w=960&amp;fit=max" width="400"/></center></p>
+<p>This last decade has seen an inundation of new JavaScript runtimes (and engines in equal measure), enabling us to run JavaScript in all manner of contexts with precise fitness for task. Through these, we've seen the language spread to the Cloud, the edge, Smart TVs, mobile devices, and even microcontrollers.</p>
+<p>In this article, we'll explore what's driving this diversity, and why no one runtime or engine suffices for all purposes.</p>
+<h1>Edge computing</h1>
+<p>The first consumer "edge computing" solution was introduced in 2002 by Akamai, who enabled building on the edge using <a href="https://www.akamai.com/blog/news/20-years-of-edge-computing" target="_blank">Java and .NET</a>. But it would be a long time before JavaScript would join those languages – for one thing, JavaScript wouldn't be useful as a server-side language until Node.js emerged in 2009, and for another, Node.js wouldn't be employed in a serverless context until AWS Lambda in <a href="https://aws.amazon.com/blogs/aws/run-code-cloud/" target="_blank">2014</a>. It was only with the announcement of Lambda@Edge (in preview from <a href="https://aws.amazon.com/blogs/aws/coming-soon-lambda-at-the-edge/" target="_blank">December 2016</a>; released <a href="https://hidekazu-konishi.com/entry/aws_history_and_timeline_amazon_lambda.html" target="_blank">March 2017</a>) that JavaScript would finally be seen on the edge, again running on Node.js.</p>
+<p>But Amazon's monopoly was to be short-lived. For just six months later came the <a href="https://blog.cloudflare.com/introducing-cloudflare-workers" target="_blank">release</a> of Cloudflare Workers, a purpose-built minimal runtime revolving around the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API" target="_blank">Service Worker</a> API. It was devised to open an "<a href="https://www.sec.gov/Archives/edgar/data/1477333/000119312519222176/d735023ds1.htm#:~:text=This%20opens%20up%20an%20entirely%20new%20market%20for%20us%3A%20compute%20and%20storage." target="_blank">entirely new market</a>" to Cloudflare: compute and storage. And this was notably different to Amazon's venture – for the first time in the over twenty years since JavaScript's inception, a company had managed to directly productise a JavaScript runtime.</p>
+<p>Cloudflare Workers was a phenomenal success, with <a href="https://www.cloudflare.com/en-gb/press-releases/2018/cloudflare-workers-opens-edge-computing-to-everyone/" target="_blank">billions of tasks</a> run in the half year following its beta release. This scent of opportunity triggered a gold rush. Deno <a href="https://www.youtube.com/watch?v=M3BM9TB-8yA" target="_blank">appeared</a> shortly after in 2018 as a challenger to Node.js, and within three years, <a href="https://deno.com/blog/the-deno-company" target="_blank">Deno Land Inc</a> had formed, launching <a href="https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html" target="_blank">Deno Deploy</a>, an edge network intended to <a href="https://tinyclouds.org/javascript_containers" target="_blank">chase after</a> Cloudflare. With an initial treasure chest of <a href="https://deno.com/blog/the-deno-company" target="_blank">$4.9 million</a> and raising a <a href="https://deno.com/blog/series-a" target="_blank">$21 million</a> Series A funding round the year after that, it is clear that Cloudflare weren't the only ones who believed in the value of the niche.</p>
+<p>The rush continued in 2022. No sooner had <a href="https://wintercg.org" target="_blank">WinterCG</a> been <a href="https://deno.com/blog/announcing-wintercg" target="_blank">formed</a> to start defining a common ground for all these new JavaScript runtimes popping up than <a href="https://bun.sh" target="_blank">Bun</a> appeared, quickly raising <a href="https://www.reddit.com/r/javascript/comments/wwd11n/oven_the_company_behind_bun_gets_7m/" target="_blank">$7 million</a> <sup> <a href="https://web.archive.org/web/20220824190839/https://oven.sh/" target="_blank">[archive]</a> </sup> to <a href="https://imgur.com/Zn5uMON" target="_blank">provide</a> serverless hosting, continuous integration, and… edge computing. Wasmer followed suit in 2023, stepping into the Service Workers arena with <a href="https://wasmer.io/posts/announcing-winterjs-service-workers" target="_blank">WinterJS</a> and <a href="https://wasmer.io/posts/announcing-wasmer-edge" target="_blank">Wasmer Edge</a>. And not to be outdone, the very next year AWS responded with <a href="https://news.ycombinator.com/item?id=39304188" target="_blank">LLRT</a>, another low-latency runtime just right for the edge (though not yet having an edge worker offering).</p>
+<p>For all the overlap in strategy, notable is the variety in engines underpinning all these runtimes. While Deno and CloudFlare Workers (which run on the <a href="https://github.com/cloudflare/workerd/tree/main" target="_blank">workerd</a> runtime) continue Node.js's tradition of using <a href="https://v8.dev" target="_blank">V8</a>, we see Bun employing <a href="https://docs.webkit.org/Deep%20Dive/JSC/JavaScriptCore.html" target="_blank">JavaScriptCore</a>, WinterJS using <a href="https://spidermonkey.dev" target="_blank">SpiderMonkey</a>, and LLRT on <a href="https://github.com/quickjs-ng/quickjs" target="_blank">QuickJS</a>. No longer is the backend solely a stage for Node.js and V8 – it's now fashionable to pick a runtime and engine optimised for the task.</p>
+<h1>Microcontrollers</h1>
+<p>Many of the above runtimes would have a hard time running on a microcontroller, though. For the unfamiliar, AWS defines them <a href="https://aws.amazon.com/compare/the-difference-between-microprocessors-microcontrollers/" target="_blank">as follows</a>:</p>
+<blockquote>
+<p>… a microcontroller is the basic computing unit inside smart electronic devices like washing machines and thermostats. It's a very tiny computer with its own RAM, ROM, and I/O systems, all embedded on a single chip. It can process digital signals and respond to user input, but its computing capacity is limited.</p>
+</blockquote>
+<p>At the low end, microcontrollers may cost as little as <a href="https://cpldcpu.wordpress.com/2019/08/12/the-terrible-3-cent-mcu/" target="_blank">3 cents</a>, have mere bytes of RAM, run in under a milliamp of current, have an 8-bit architecture, and/or have under a kilobyte of storage.</p>
+<p>Given these specs, full-blown Node.js would be well out of the question, so many took to producing slim-as-possible engines – <a href="https://duktape.org" target="_blank">Duktape</a>, <a href="https://www.espruino.com" target="_blank">Espruino</a>, and <a href="https://github.com/cesanta/mjs" target="_blank">mjs</a> in 2013, <a href="https://jerryscript.net" target="_blank">JerryScript</a> in 2014, <a href="https://github.com/Moddable-OpenSource/moddable" target="_blank">Moddable</a> in 2018, and <a href="https://github.com/cesanta/elk" target="_blank">elk</a> in 2021. These projects pride themselves in running on under 64 kB of RAM (in fact apparently little more than 100 bytes, in the case of Elk!), though do make tradeoffs in other areas like <a href="https://bellard.org/quickjs/bench.html" target="_blank">performance</a> to do so.</p>
+<p>These engines then spawned new runtimes, though not necessarily serving the very lowest end of microcontrollers. JerryScript underlies <a href="https://github.com/jerryscript-project/iotjs" target="_blank">IoT.js</a> (2015) and <a href="https://github.com/iamblue/microlattice" target="_blank">Microlattice.js</a> (2016), both Internet of Things runtimes; <a href="https://github.com/Moddable-OpenSource/moddable/tree/public/xs" target="_blank">XS</a> (2018?) underlies Moddable; and DukTape underlies <a href="https://github.com/neonious/lowjs" target="_blank">low.js</a> (2018), a low-resource reimplementation of Node.js.</p>
+<p>It goes to show that venture capital needn't be a lure to develop a JavaScript runtime; sometimes people just want to run JavaScript on a device no matter what. Sometimes, they want to call JavaScript even when working in a different language – which brings us onto our next topic.</p>
+<h1>Polyglot engines</h1>
+<p>Although most JavaScript engines are based on a bespoke virtual machine (VM) used only by the engines themselves, some are based on established VMs, enabling zero-cost interop with other languages. In this space, C++ isn't necessarily king, and it's interesting to see how many ways there are to write a JavaScript engine.</p>
+<p>The earliest polyglot engine was <a href="https://github.com/mozilla/rhino" target="_blank">Rhino</a>, which was made in 1997 as an effort to write Netscape Navigator – JavaScript engine and all – fully in Java. Rhino supports two-way interop between Java and JavaScript, based on the JVM. That is to say, it allows JavaScript to implement Java interfaces and call Java class methods, while allowing Java to define JavaScript classes, run scripts, and more. By 2006, it was included in JDK 6, and by 2008, it was the basis of the Helma runtime, nowadays known as <a href="https://github.com/ringo/ringojs" target="_blank">RingoJS</a>.</p>
+<p>It was, however, <a href="https://medium.com/graalvm/oracle-graalvm-announces-support-for-nashorn-migration-c04810d75c1f" target="_blank">superseded</a> in JDK 8 (2014) by <a href="https://github.com/openjdk/nashorn" target="_blank">Nashorn</a>, itself superseded in JDK 11 by <a href="https://github.com/oracle/graaljs" target="_blank">Graal.js</a> (2018) which supports both <a href="https://www.graalvm.org/latest/reference-manual/js/RunOnJDK/" target="_blank">the JVM and GraalVM</a>. This is an interesting line of history, as – all being Mozilla or Oracle projects – these three may be the only JavaScript runtimes rightfully allowed to use the JavaScript trademark (pending <a href="https://deno.com/blog/deno-v-oracle3" target="_blank">Deno vs. Oracle</a>). Graal.js well deserves its seat on top however, going as far as supporting the whole Node.js SDK, by virtue of <a href="https://github.com/oracle/graaljs/tree/master/graal-nodejs" target="_blank">embedding its entire codebase</a>.</p>
+<p>This lineage is just the tip of the iceberg, though. There's <a href="https://github.com/sebastienros/jint" target="_blank">jint</a> (2013), for .NET, written in C#. There's <a href="https://github.com/jtolio/pynarcissus" target="_blank">PyNarcissus</a> (2009), <a href="https://github.com/progval/rpython-langjs" target="_blank">langjs</a> (2009), and <a href="https://github.com/polydojo/jispy" target="_blank">jispy</a> (2014), for Python. There's <a href="https://github.com/haileys/twostroke" target="_blank">twostroke</a> (2011) and <a href="https://github.com/opal/opal" target="_blank">Opal</a> (2013), for Ruby. There's <a href="https://github.com/elsaland/elsa" target="_blank">elsa</a> (2020) for Go. There's <a href="https://github.com/boa-dev/boa" target="_blank">Boa</a> (2018), <a href="https://github.com/DelSkayn/toyjs" target="_blank">toyjs</a> (2020), <a href="https://github.com/DelSkayn/rquickjs" target="_blank">rquickjs</a> (2020), <a href="https://github.com/Redfire75369/spiderfire" target="_blank">spiderfire</a> (2021), <a href="https://github.com/trynova/nova" target="_blank">Nova</a> (2022), and <a href="https://github.com/drogus/jaws" target="_blank">jaws</a> (2024) for Rust. There's <a href="https://codeberg.org/kiesel-js/kiesel" target="_blank">Kiesel</a> (2023) for Zig, and the list surely goes on. Though arguably not all of these projects are fully "polyglot" – some are merely interpreters and don't offer two-way language interop.</p>
+<p>JavaScript engines are even being implemented in <em>JavaScript</em>! <a href="https://github.com/mozilla/narcissus" target="_blank">Narcissus</a> (2007-2010), originally created by Brendan Eich, was used by Mozilla as a test-bed for rapidly prototyping new JavaScript language features. <a href="https://github.com/tmikov/jscomp" target="_blank">Jscomp</a> followed in 2015, an AoT compiler written in JavaScript that generated C++ executable code. More recently, <a href="https://github.com/CanadaHonk" target="_blank">Oliver Medhurst</a> has carried on the torch with <a href="https://github.com/CanadaHonk/porffor" target="_blank">Porffor</a> (2023), compiling instead to WASM (or, as an extra step, C). It follows on from their equally notable web engine, <a href="https://github.com/CanadaHonk/shadow" target="_blank">Shadow</a> (2023), similarly written in JavaScript. While starting out as a hobby project, Porffor has shown such worth as to attract financial support from Chris Wanstrath, enabling Oliver to work <a href="https://goose.icu/porffor/" target="_blank">full-time</a> on it as of 2024, leading to a <a href="https://x.com/CanadaHonk/status/1901847489621213338" target="_blank">58% conformance</a> score on Test262 less than a year later.</p>
+<p>This demand to call JavaScript from other languages and even build new JavaScript engines in it underlines the strength of its ecosystem and the ergonomics of the language. Though nowhere is this ecosystem advantage as clear as it is in the world of native apps.</p>
+<h1>Native apps</h1>
+<p>JavaScript's web origins make it a language well suited for building GUI apps, and so it was only a matter of time before it began being employed in native apps, often as a basis for cross-platform frameworks. A point of constant contention in this space is what balance to strike between fidelity to the web platform and fidelity to the native platform, so where better to start than the frameworks that went all in on the web?</p>
+<h2>Web view based apps</h2>
+<h3>On mobile</h3>
+<p>The iPhone's release in 2007 set a new bar for mobile hardware, normalising the use of desktop-grade web tech on mobile. But with iOS, Android, Windows Phone, Blackberry, WebOS, Symbian, Samsung Bada, and Firefox OS all vying for market share at once, developing for just one platform posed a significant opportunity cost. In 2009, Adobe answered this quandry by releasing PhoneGap, a framework for embedding web apps into native apps via a "web view" (which of course included a JavaScript runtime).</p>
+<p>PhoneGap proved popular, with over 23,000 apps having been built on their build service (according to a contradictory chart) <a href="https://www.slideshare.net/slideshow/phone-gap-stats-growth/8729016#8" target="_blank">by 2011</a>, and having been "downloaded over 1 million times" and "used by over 400,000 developers" <a href="https://web.archive.org/web/20121223030104/http://phonegap.com/about/" target="_blank">by 2012</a>. Along the way, it was opensourced as <a href="https://cordova.apache.org" target="_blank">Cordova</a>, and a UI toolkit was created for it, Ionic. The team behind Ionic would go on in 2019 to <a href="https://ionic.io/blog/announcing-capacitor-1-0" target="_blank">announce</a> their successor for Cordova, <a href="https://capacitorjs.com" target="_blank">Capacitor</a>, which brought an improved native plugins API and added support for targeting desktop via another up-and-coming framework, Electron.</p>
+<h3>On desktop</h3>
+<p>Electron, now a household name for web view-based desktop app development, traces its roots back to <a href="https://github.com/nwjs/nw.js" target="_blank">node-webkit</a>, a project with releases dating as far back as <a href="https://github.com/nwjs/nw.js/blob/f652bbc398ed8b8e99953c8a7446df275f9c99c7/src/version.h" target="_blank">2012</a>. While the latter was originally based on Node.js and WebKit, it was <a href="https://news.ycombinator.com/item?id=8887706" target="_blank">renamed to NW.js in 2015</a> due to plans to migrate to Chromium (an effort which was completed with <a href="https://nwjs.io/blog/v0.13.0/" target="_blank">v0.13.0</a> in 2016). Electron's history runs alongside this – in 2013, GitHub began work on <a href="https://github.com/electron/electron/tree/a915cf2e81a44603bfdd4121458a001db9b2c0e2" target="_blank">Atom Shell</a>, an NW.js-like framework built by a former NW.js core contributor to use as the foundation for their <a href="https://github.com/atom/atom/tree/5cb6aa053834ff0b1d1b9c9aeabae30fe15dd75f" target="_blank">Atom</a> text editor. While Atom itself would one day be sunset, Atom Shell would live on, being <a href="https://web.archive.org/web/20171109205411/http://electronjs.org/blog/electron" target="_blank">renamed to Electron</a> in 2015. Although NW.js is an active project to this day, Electron has very much taken the limelight, coming to dominate the market for desktop apps, with many of the industry-leading apps like Discord, Slack, Linear, and Visual Studio Code all being based on it.</p>
+<h3>On Smart TVs</h3>
+<p>Beyond mobile and desktop, there's also the esoteric Smart TV platform. Many Smart TVs run forks of desktop web browsers, with additional APIs for interacting with native TV functionality such as the broadcast stream, <a href="https://en.wikipedia.org/wiki/Data_and_object_carousel" target="_blank">object carousel</a>, remote control keysets, and DRM systems.</p>
+<p>Web-based Smart TV specifications/platforms include <a href="https://www.oipf.tv/web-spec/volume5.html" target="_blank">OIPF</a> (2008-2015), <a href="https://www.hbbtv.org/resource-library/specifications/" target="_blank">HbbTV</a> (2010 to present), and <a href="https://www.atsc.org/nextgen-tv/resources/" target="_blank">ATSC 3.0</a> (2016 to present). There are also endless platforms with different SDKs, such as <a href="https://webostv.developer.lge.com/develop/references" target="_blank">webOS</a>, <a href="https://www.youview.com/open-source" target="_blank">YouView</a>, <a href="https://www.freeview.co.uk/freeview-play" target="_blank">Freeview Play</a>, <a href="https://www.freesat.co.uk/why-freesat" target="_blank">Freesat</a>, and more. On some platforms, one negotiates with an infrastructure provider to serve an app over broadcast; on other platforms, one negotiates with the platform owner to have the app distributed with the devices; and on others (e.g. platforms based on Android TV and Apple TV), one submits the app to an app store.</p>
+<p>The popular Amazon Fire TV (2014) and Fire TV Stick (2014) are based on <a href="https://developer.amazon.com/docs/fire-tv/build-and-test-your-hybrid-app.html" target="_blank">Chromium</a>, as Samsung Tizen TVs have been <a href="https://developer.samsung.com/smarttv/develop/specifications/web-engine-specifications.html" target="_blank">since 2017</a> (using WebKit before that), and all three of these employ Cordova, showing it's not purely for mobile devices. Roku is different, with apps being programmed in <a href="https://developer.roku.com/docs/references/brightscript/language/brightscript-language-reference.md" target="_blank">BrightScript</a> (not an ECMAScript language). And while Apple TV used to offer a framework known as <a href="https://developer.apple.com/documentation/tvmljs" target="_blank">TVMLKit JS</a> (2015), based on JavaScriptCore, it was not based on web technologies, beyond implementing a very small amount of the DOM spec.</p>
+<p>With more than <a href="https://web.archive.org/web/20210813024801/https://www.strategyanalytics.com/access-services/devices/connected-home/consumer-electronics/reports/report-detail/global-connected-tv-device-vendor-market-share-q4-2019" target="_blank">1.26 billion</a> internet-connected TV devices installed worldwide and HbbTV devices present in over <a href="https://www.hbbtv.org/news-events/major-milestone-hbbtv-reaches-100-million-homes-in-europe/" target="_blank">100 million homes in Europe</a> alone, Smart TVs account for a surprisingly large segment of JavaScript runtimes. Only through this common language and the ubiquitous web platform is it practical to deploy apps to the sheer number of different device types in this market.</p>
+<h2>React Native</h2>
+<h3>On mobile</h3>
+<p>As the mobile landscape began to settle down to a landscape dominated mostly by iOS and Android, Facebook announced a new cross-platform framework in <a href="https://engineering.fb.com/2015/03/26/android/react-native-bringing-modern-web-techniques-to-mobile/" target="_blank">2015</a> targeting the both of them: React Native. The framework enabled developers to write a React app that would render native platform views, based on a JavaScript runtime that could call out to native functionality and respond to native events via posting serialisable messages across a "bridge".</p>
+<p>Initially, this JavaScript runtime was based on JavaScriptCore, as it came included in the iOS SDK (and had done since iOS 7 in 2013) and so saved significant app size for iOS users. Being also heavily optimised for mobile usage, it was the smart choice at the time. However, after a few years of seeing how it performed in practice, Facebook would seek to improve upon it – and so in 2019, they <a href="https://reactnative.dev/blog/2019/07/17/hermes" target="_blank">announced</a> Hermes, a new engine tailor-made for React Native.</p>
+<p>Hermes boasted improved startup times thanks to various tricks such as <a href="https://engineering.fb.com/2019/07/12/android/hermes/" target="_blank">Ahead of Time (AoT) compilation</a> (working around Apple's ban on JIT) and <a href="https://github.com/facebook/hermes/issues/907#issuecomment-1411144097" target="_blank">memory mapping</a> of its bytecode into RAM. It also cut down on bundle size for Android (where JavaScriptCore is not a system framework) and memory utilisation for both platforms. Hermes delivered so well on its promises that it was made the <a href="https://reactnative.dev/blog/2022/07/08/hermes-as-the-default" target="_blank">default</a> from 2022, and Meta are even preparing a successor, <a href="https://speakerdeck.com/tmikov2023/static-hermes-react-native-eu-2023-announcement" target="_blank">Static Hermes</a> (2023), which will support an arbitrary mix of native and interpreted code, both "typed" and "untyped", to afford performance on a par with C/C++.</p>
+<p>Hermes wasn't the only option explored, however. From 2018, React Native began to implement an engine-agnostic <a href="https://reactnative.dev/architecture/landing-page#fast-javascriptnative-interfacing" target="_blank">JavaScript Interface (JSI)</a>, which (besides eschewing message-posting in favour of direct native bindings) has enabled it to be adapted for use with various engines. JSI has been implemented for <a href="https://github.com/facebook/hermes/tree/main/API/jsi/jsi" target="_blank">Hermes</a> and <a href="https://github.com/facebook/react-native/blob/main/packages/react-native/ReactCommon/jsc/JSCRuntime.cpp" target="_blank">JSC</a> (both by Meta), V8 (independently by <a href="https://github.com/microsoft/v8-jsi" target="_blank">Microsoft</a> and <a href="https://github.com/Kudo/react-native-v8" target="_blank">Expo</a>; see Kudo Chien's <a href="https://www.youtube.com/watch?v=6e0b2O6NRz4" target="_blank">talk</a> on the latter), <a href="https://github.com/tudorms/QuickJSI" target="_blank">QuickJS</a> (by Microsoft, for a hackathon), <a href="https://github.com/microsoft/react-native-windows/tree/261dda2ee168fd83c0c5960bfcd24777bdf5c2b8/vnext/Chakra" target="_blank">Chakra</a> (by Microsoft, for use in React Native Windows, as Chakra is included with Windows), and even <a href="https://github.com/semmypurewal/duktape-jsi" target="_blank">Duktape</a> (by Semmy Purewal)!</p>
+<p>In fact, React Native looks set to become the most engine-agnostic JavaScript runtime around, as Microsoft, Callstack, and the React Native community (myself included!) are currently working hard on delivering <a href="https://www.callstack.com/blog/announcing-node-api-support-for-react-native" target="_blank">support for Node-API</a>, which is supported even more widely than JSI (more on that later). Considering also the first-class native code interop promised to come with Static Hermes, it's come a long way since its roots as a single-engine, message-posting runtime.</p>
+<p>But, how popular is it compared to web view-based app development frameworks? Evan Bacon reported that by 2023, <a href="https://x.com/Baconbrix/status/1711960805942444478" target="_blank">only 74 of the top 2,479 iOS apps</a> used either Cordova or Capacitor, and in fact most still used only the former. Whereas, by 2025, <a href="https://x.com/Baconbrix/status/1888633966938276267" target="_blank">30 of the top 100 iOS apps</a> were written in React Native, compared to only 3 web view-centric apps. RevenueCat (the leading In-App Purchases solution, used by <a href="https://www.revenuecat.com" target="_blank">over 50,000 apps</a>), reports that React Native is "on track" to becoming the most popular app development framework using their platform, with <a href="https://x.com/jeiting/status/1930625117802873109" target="_blank">34%</a> of RevenueCat-using apps being based on it, and fewer than 1% to be accounted for by frameworks such as Cordova.</p>
+<h3>On desktop</h3>
+<p>It's a rather different story for desktop platforms, however. While Microsoft maintains fully-featured implementations of React Native for <a href="https://microsoft.github.io/react-native-windows/" target="_blank">macOS and Windows</a> (independent from <a href="https://github.com/ptmt/react-native-macos" target="_blank">ptmt</a>'s macOS implementation in 2015), the ecosystem for these platforms is a small fraction of what it is for iOS and Android, with just <a href="https://reactnative.directory/?windows=true&amp;macos=true" target="_blank">20</a> native modules in React Native Directory indicating support for desktop in contrast to <a href="https://reactnative.directory/?ios=true&amp;android=true" target="_blank">1,698</a> for mobile at the time of writing. This is reflected in the smaller usership, with only <a href="https://results.2024.stateofreactnative.com/en-US/developer-background/#developer_background_target_platforms" target="_blank">around 100 correspondents</a> in the State of React Native 2024 survey targeting desktop, in contrast to over 3,000 targeting mobile.</p>
+<p>The <a href="https://reactnative.dev/docs/environment-setup" target="_blank">recommended</a> meta-framework for using React Native, Expo, still lacks support for desktop, and while Microsoft has employed React Native in <a href="https://microsoft.github.io/react-native-windows/resources-showcase" target="_blank">various</a> Office apps and even the <a href="https://x.com/alxfazio/status/1926731799226462646" target="_blank">Start Menu</a>, it is mainly as a brownfield solution, making small <a href="https://devblogs.microsoft.com/react-native/2025-05-09-office-modernize/" target="_blank">content islands</a> within the apps. For greenfield apps, Electron is very much more the vogue, with <a href="https://www.electronjs.org/apps" target="_blank">hundreds</a> of apps listed on their showcase alone.</p>
+<p>Some attempts have been made to target Linux, such as React Native Linux (a Qt-based fork by Canonical, later renamed to <a href="https://github.com/status-im/react-native-desktop-qt" target="_blank">React Native Desktop</a>) (2017-2021) and <a href="https://github.com/react-native-skia/react-native-skia" target="_blank">React Native Skia</a> (2020), but none see mainstream usage, with the latter used by <a href="https://results.2024.stateofreactnative.com/en-US/developer-background/#developer_background_target_platforms" target="_blank">just 20 correspondents</a> in the aforementioned survey. Again, Electron is presumably the bigger fish here.</p>
+<h3>On Smart TVs</h3>
+<p>React Native does have a significant foothold in the Smart TV space, though, with implementations for both tvOS (<a href="https://youtu.be/zrYiQr6CBg8?si=wB6JGlSx17JPxOF6&amp;t=271" target="_blank">2016</a>) and Android TV (<a href="https://github.com/facebook/react-native/pull/16500#issuecomment-378351727" target="_blank">2018</a>) seeing popular usage. With the fall of <a href="https://web.archive.org/web/20221230183253/https://developer.youi.tv/" target="_blank">You.i TV</a> (whose proprietary <a href="https://web.archive.org/web/20220814072714/https://www.youi.tv/youi-engine/" target="_blank">You.i Engine One</a> deployed to 14 different platforms), the leaders in this space are now <a href="https://www.callstack.com/insights/tv-development" target="_blank">Callstack</a>, deploying to a <a href="https://x.com/grabbou/status/1930362533187334164" target="_blank">similarly large</a> stable. Notable React Native apps include <a href="https://medium.com/crunchyroll/velocity-crunchyrolls-universal-react-player-e70a61b6dfa7" target="_blank">Crunchyroll</a>, <a href="https://github.com/react-native-tvos/react-native-tvos/issues/15#issuecomment-988239453" target="_blank">NFL</a>, <a href="https://expo.dev/blog/how-to-build-tv-apps" target="_blank">Bloomberg, Yahoo Finance, and more</a>.</p>
+<h2>NativeScript</h2>
+<p>By no means were native apps a two-horse race between Cordova and React Native, though. <a href="https://nativescript.org" target="_blank">NativeScript</a>, announced in <a href="https://www.telerik.com/blogs/announcing-nativescript---cross-platform-framework-for-building-native-mobile-applications" target="_blank">2014</a>, came out of the doors offering three separate runtimes with full JavaScript bindings to the <a href="https://github.com/NativeScript/ios-jsc" target="_blank">iOS</a>, <a href="https://github.com/NativeScript/android" target="_blank">Android</a>, and <a href="https://github.com/NativeScript/windows-runtime" target="_blank">Universal Windows</a> platforms (via JavaScriptCore, V8, and V8 again respectively), abstracted by a cross-platform app development framework. While the decline of Windows Phone led to the Windows runtime being sunset in 2016, the iOS and Android runtimes continue to this day, standardising <a href="https://blog.nativescript.org/the-new-ios-runtime-powered-by-v8/" target="_blank">on V8</a> in 2019 (essentially once V8 supported <a href="https://v8.dev/blog/jitless" target="_blank">JITless mode</a> to enable its use on the App Store). And while the proof-of-concept <a href="https://blog.nativescript.org/running-the-nativescript-runtime-for-ios-on-apple-tv/" target="_blank">tvOS runtime</a> demonstrated in 2015 never took off, the <a href="https://blog.nativescript.org/nativescript-app-sample-running-on-android-wear/" target="_blank">Android Wear</a> (2015) and <a href="https://blog.nativescript.org/building-an-android-tv-app-with-nativescript/" target="_blank">Android TV</a> runtimes (2018) have seen use in industry.</p>
+<p>More recently, NativeScript has increased focus on enabling the runtimes to be used standalone (rather than as part of an end-to-end app development framework), rearchitecturing the runtimes as engine-agnostic libraries of JS↔native bindings via <a href="https://nodejs.org/api/n-api.html" target="_blank">Node-API</a>. These new <a href="https://github.com/NativeScript/runtime-node-api" target="_blank">iOS</a> (2023) and <a href="https://github.com/NativeScript/napi-android" target="_blank">Android</a> (2024) libraries can upgrade any JavaScript engine to give it full platform access, provided the engine supports Node-API, which is quite a long list. Indeed, Node-API has been implemented for V8 (by <a href="https://github.com/nodejs/node/blob/77710251e10982f847d2d3dfcf5d920b0a03a539/src/node_api.cc" target="_blank">Node.js</a>, <a href="https://github.com/denoland/deno/tree/bc8a0e6e68547cf07a246b8b6c886de155dc8282/cli/napi" target="_blank">Deno</a>, and <a href="https://github.com/lynx-family/primjs/blob/develop/src/napi/v8/js_native_api_v8.cc" target="_blank">ByteDance</a>), JSC (by <a href="https://github.com/oven-sh/bun/blob/main/src/napi/napi.zig" target="_blank">Bun</a>, <a href="https://github.com/OrangeLab/Hummer-Virtual-JS-Engine/blob/29df7e29c1b54481662083b7c46e2b213f152e3a/src/js_native_api_jsc.c" target="_blank">Hummer</a>, and <a href="https://github.com/lynx-family/primjs/blob/develop/src/napi/jsc/js_native_api_JavaScriptCore.cc" target="_blank">ByteDance</a>), Hermes (by <a href="https://github.com/microsoft/hermes-windows/blob/2565a39e9307813a5590aa76d7f7088c82f7d611/API/hermes/hermes_napi.cpp" target="_blank">Microsoft</a> and <a href="https://github.com/OrangeLab/Hummer-Virtual-JS-Engine/blob/29df7e29c1b54481662083b7c46e2b213f152e3a/src/js_native_api_hermes.cpp" target="_blank">Hummer</a>), QuickJS (by <a href="https://github.com/openharmony/ace_napi/blob/4d5a056802f6c1c20dd7bed1780071dc5f55bee5/native_engine/native_api.cpp" target="_blank">OpenHarmony</a>, <a href="https://github.com/OrangeLab/Hummer-Virtual-JS-Engine/blob/29df7e29c1b54481662083b7c46e2b213f152e3a/src/js_native_api_qjs.c" target="_blank">Hummer</a>, and <a href="https://github.com/lynx-family/primjs/blob/develop/src/napi/quickjs/js_native_api_QuickJS.cc" target="_blank">ByteDance</a>), Chakra (by <a href="https://github.com/kfarnung/node-chakracore/blob/543829278a713fb02887212be6385818823ea9a5/src/node_api_jsrt.cc" target="_blank">node-chakracore</a>) and JerryScript (by <a href="https://github.com/jerryscript-project/iotjs/tree/02599f35810cfa6ea5495bbc42194ed576b969de/src/napi" target="_blank">IoT.js</a>).</p>
+<p>While <a href="https://x.com/Baconbrix/status/1888633966938276267" target="_blank">none of the top 100 iOS apps</a> use NativeScript today, the new Node-API rearchitecture will allow it to integrate with more dominant frameworks such as React Native and Electron, responding to <a href="https://x.com/Baconbrix/status/1773376900095775118" target="_blank">pain-points</a> of native API access, much like the (pre-Node-API) <a href="https://capacitor.nativescript.org" target="_blank">Capacitor integration</a> in 2021. A proof-of-concept <a href="https://x.com/birch_js/status/1774855694271045666" target="_blank">Expo integration</a> (by me!) demonstrated this in 2024, though work is ongoing to allow it to be used without patching and forking.</p>
+<h2>Node.js</h2>
+<p>While the above-mentioned runtimes each form part of an end-to-end (and usually cross-platform) app development framework, Node.js has mostly been employed in native apps just as a tool for accessing the Node.js SDK and/or native addons, with little success getting involved with creating graphical user interfaces.</p>
+<p>It wasn't until nearly a decade after its release that Node.js was ported to mobile – work that was undertaken by Janea Systems <a href="https://www.janeasystems.com/blog/announcing-node-js-mobile-apps-true-node-js-runtime-android-ios" target="_blank">in 2017</a>. One of the major obstacles to deploying on iOS was that the App Store did not allow apps that used JIT compilation. Janea Systems worked around this by forking <a href="https://github.com/nodejs/node-chakracore" target="_blank">Node-ChakraCore</a>, a Microsoft project that swapped out V8 for ChakraCore to run without JIT. This was a fashion at the time, with <a href="https://github.com/mozilla/spidernode" target="_blank">SpiderNode</a> (2017) adopting Spidermonkey, <a href="https://github.com/mceSystems/node-jsc" target="_blank">node-jsc</a> (2018) adopting JavaScriptCore (which led to <a href="https://github.com/mceSystems/node-native-script" target="_blank">node-native-script</a> the same year, demoed <a href="https://github.com/mceSystems/NodeIOS-Demo-Project" target="_blank">here</a>), and <a href="https://github.com/Samsung/node-jerryscript" target="_blank">node-jerryscript</a> (2019) adopting JerryScript.</p>
+<p>Janea Systems were eventually able to <a href="https://github.com/nodejs-mobile/nodejs-mobile/blob/1b0223dc74dfa359e61131ee24e0fa386c6d12aa/doc_mobile/CHANGELOG.md?plain=1#L146" target="_blank">adopt V8</a> once <a href="https://v8.dev/blog/jitless" target="_blank">JITless</a> mode propagated from V8 in 2019 to Node.js in <a href="https://github.com/nodejs/node/pull/32594" target="_blank">2020</a>. Although they had demoed using Node.js <a href="https://www.janeasystems.com/blog/node-js-meets-ios" target="_blank">alongside React Native</a> as early as 2017, it never really caught on for that use-case, and Node.js for mobile remained a smaller player in mobile app development. It continues to see usage, however, with the baton <a href="https://nodejs-mobile.github.io/blog/reboot/" target="_blank">passing</a> from <a href="https://github.com/janeasystems/nodejs-mobile" target="_blank">Janea Systems</a> to a new <a href="https://github.com/nodejs-mobile/nodejs-mobile" target="_blank">fork</a> by André Staltz in 2023.</p>
+<p>Besides Janea Systems's port, Samsung created their own <a href="https://github.com/Samsung/lwnode" target="_blank">Lightweight Node.js</a> (2021) based on their earlier engine <a href="https://github.com/Samsung/escargot" target="_blank">Escargot</a> (2016) for "mid-range devices such as mobile phone, tablet and TV", which probably sees use on Tizen OS, though the project may not see much use outside of Samsung.</p>
+<p>On the desktop side, there have been countless libraries to expose native app development functionality via Node.js. For macOS AppKit, there has been <a href="https://github.com/TooTallNate/NodObjC" target="_blank">NodObjC</a> (2011), <a href="https://github.com/lukaskollmer/objc" target="_blank">objc</a> (2017), and <a href="https://x.com/birch_js/status/1726120371278229944" target="_blank">NativeScript</a> (2023), for example. For WinRT, <a href="https://github.com/NodeRT/NodeRT" target="_blank">NodeRT</a> (2014) (echoed by the Deno-based <a href="https://github.com/DjDeveloperr/deno_winrt" target="_blank">deno_winrt</a> in 2023). And for Qt, <a href="https://github.com/NickCis/nodeQt" target="_blank">nodeQt</a> (2011), <a href="https://github.com/arturadib/node-qt" target="_blank">node-qt</a> (2012), <a href="https://github.com/nodegui/nodegui" target="_blank">NodeGUI</a> (2019). Despite affording full platform access, though, none of these have taken off as end-to-end app development solutions competitive with Electron.</p>
+<h2>Summary</h2>
+<p>JavaScript has ridden the wave of the personal device boom like no other programming language. While motivated to break free of the browser to make full use of native APIs, no framework has been successful in departing fully from the conventions of the web platform, with GUI programming still being firmly inspired by browser APIs (as with React Native), if not entirely delegated to web views (as with Electron).</p>
+<h1>Conclusion</h1>
+<p>Developers want to run JavaScript in every context possible, and over the last ten years, they have raced to do so. From previously being confined to the browser, now the language is seen in basically every device category, and – in serverless contexts – people are even paying to execute it.</p>
+<p>JavaScript runtimes exist to cater to all manner of resource constraints, from the cheapest chip to the meanest machine (though perhaps with less of a foothold in supercomputers, which did not come up during this research). There are great options for interop with other languages, often to facilitate access to system APIs (which frameworks like React Native make extensive use of).</p>
+<p>Lastly, JavaScript continues to show its strength as a language for GUI programming, being employed in a variety of ways to develop native apps on mobile phones and Smart TVs, though with web view based apps still being the vogue on desktop.</p>
+<p>Why is there no one "best" runtime, then? Simply, with so many different contexts to run JavaScript in, there are just too many conflicting factors to optimise for. Startup performance, runtime performance, bundle size, API support, and ease of native access all fight for priority. While the browser-native engines V8 and JavaScriptCore have maintained their popularity outside the browser, they are beginning to face competition from runtimes based on new engines such as Hermes, workerd, and QuickJS in certain areas.</p>
+<p>But healthy competition and freedom of choice are only ever good things. The old guard are forced to innovate, and a high standard is maintained for newcomers. For developers, it's the most all-purpose language one could learn and the single safest technology choice for the future.</p>
+<h1>Addendum</h1>
+<p>I started writing this article in April 2024, <a href="https://discord.com/channels/1044735046919127160/1270142406058049546/1270192881835180126" target="_blank">stretching the limits</a> of Buttondown's edit history at over 5,260 revisions by August, before continuing to hack away at it on and off for another 12 months. Even now, I can hardly call it finished. I wanted to do the subject justice, but there's just too much to cover and I'd like to finally post this thing so that I can write something else. There's surely far more to say about WebAssembly, emulators, wearables, and runtimes for gaming (with a side-dish of ActionScript?), but let's keep that Pandora's Box closed for now.</p>
+<p>During the course of writing, a few new runtimes were released. Most notably, ByteDance <a href="https://lynxjs.org/blog/lynx-unlock-native-for-more.html" target="_blank">announced</a> the cross-platform framework <a href="https://lynxjs.org" target="_blank">Lynx</a> (2025), whose (same-named) runtime is based on their new <a href="https://github.com/lynx-family/primjs" target="_blank">PrimJS</a> engine (itself based on QuickJS). I've not had any time to dig into it, but I can say it fascinates me that the runtime additionally supports <a href="https://github.com/lynx-family/primjs/tree/567851d49fc7a45c66f3d4f849e8a53d502b728b/src/napi" target="_blank">JavaScriptCore, QuickJS, and V8</a> through Node-API. Curiously, while Android defaults to using PrimJS throughout, iOS defaults to a mixture of PrimJS on the main thread and <a href="https://lynxjs.org/guide/scripting-runtime/index.html#background-thread" target="_blank">JavaScriptCore on the background thread</a>. This makes it rather an oddity amongst all other runtimes covered above.</p>
+<p>And in focusing too hard on non-browser contexts, I appear to have embarrassingly omitted <a href="https://github.com/LadybirdBrowser/ladybird/tree/64f1a76636847dff701a254f4b22700edf7354f8/Libraries/LibWeb" target="_blank">LibWeb</a>, a browser engine (including a JavaScript runtime) based on the <a href="https://github.com/LadybirdBrowser/ladybird/tree/64f1a76636847dff701a254f4b22700edf7354f8/Libraries/LibJS" target="_blank">LibJS</a> engine from the up-and-coming <a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">Ladybird</a> browser (2020), which I've been following closely.</p>
+<p>Besides those, I have a list of honourable mentions that I simply didn't manage to weave into the story (though admittedly with some being outside the "last decade" boundary). Namely:</p>
+<ul>
+<li><a href="https://gitlab.gnome.org/GNOME/gjs" target="_blank">gjs</a> (2008): A JavaScript runtime based on SpiderMonkey, with bindings to GNOME.</li>
+<li><a href="https://mujs.com" target="_blank">MuJS</a> (2013): A highly embeddable JavaScript engine.</li>
+<li><a href="https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html#//apple_r" target="_blank">JavaScript for Automation</a> (JXA) <sup> <a href="https://web.archive.org/web/20250707125059/https://developer.apple.com/library/archive/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html#//apple_r" target="_blank">[archive]</a> </sup> (2014): Apple's JavaScript runtime based on JavaScriptCore that includes a full JavaScript projection for the (Objective-C-based) macOS SDK.</li>
+<li><a href="https://github.com/creationix/dukluv" target="_blank">dukluv</a> (2014): A libuv-based JavaScript runtime using the Duktape engine.</li>
+<li><a href="https://github.com/microsoft/napajs" target="_blank">Napa.js</a> (2016): A multi-threaded JavaScript runtime build on V8.</li>
+<li><a href="https://github.com/saghul/txiki.js/" target="_blank">txiki.js</a> (2019): A libuv-based JavaScript runtime using the QuickJS engine (the successor to dukluv).</li>
+<li><a href="https://github.com/just-js/lo" target="_blank">lo.js</a> (2023): I'm not clear what this JavaScript runtime is <a href="https://github.com/just-js/docs/tree/16e172c4b5726bf225f74a335264dfffb4c0b766/book/01-Introduction" target="_blank">all about</a>, but I do keep hearing about its incredible <a href="https://x.com/justjs14/status/1796575069310943470" target="_blank">C interop</a>.</li>
+</ul>
+<p>... and there are surely many more that deserve a mention!</p>
+<p>With that, thank you for reading! I hope this article raises awareness of JavaScript runtimes beyond the usual "browsers and Node.js" narrative, and begins to convey the true scale of the iceberg.</p> 
+
+<br> 
+
+<https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/>
 
 ---
 

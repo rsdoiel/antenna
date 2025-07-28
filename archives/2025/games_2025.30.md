@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-07-28 06:08:17
+updated: 2025-07-28 14:08:12
 ---
 
 # games
 
-(date: 2025-07-28 06:08:17)
+(date: 2025-07-28 14:08:12)
+
+---
+
+## Sony sues Tencent over Horizon Zero Dawn ‘rip-off’
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+Seven months ago, Tencent, the world’s biggest gaming company, revealed a new project: Light of Motiram, a futuristic open-world game from studio Polaris Quest where machines rule the land. If that sounds familiar, the actual trailer and its cybernetic animals only further implied a specific inspirational source: Sony and Guerrilla Games’ Horizon series. Now Sony [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/616944/sony-tencent-lawsuit-horizon-zero-dawn-light-of-motiram-ps5>
+
+---
+
+## Sony’s PS5 fight stick FlexStrike emerges with new details and 2026 release date
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+Sony Interactive Entertainment is giving fans an early Evo gift with a first look at the company’s first fight stick, the FlexStrike. The arcade stick-like controller, previously known as Project Defiant, had been attached to the upcoming 4v4 fighting game, Marvel Tōkon: Fighting Souls, and was previously teased during Sony’s June 2025 State of Play. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/616861/ps5-fight-stick-flexstrike-project-defiant-marvel-tokon>
+
+---
+
+## What time does Genshin Impact 5.8 release?
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+Genshin Impact version 5.8 is coming soon, adding the yearly summer-themed event for some fun in the sun. Unlike previous summer events, the area added as part of this event will be permanent, so while you will need to complete the events within a set time, you’ll be free to explore the area at your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/616865/version-5-8-release-time-maintenance-end-pdt-edt>
+
+---
+
+## Visa and Mastercard are getting overwhelmed by gamer fury over censorship
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+In the wake of storefronts like Steam and itch.io curbing the sale of adult games, irate fans have started an organized campaign against the payment processors that they believe are responsible for the crackdown. While the movement is still in its early stages, people are mobilizing with an eye toward overwhelming communication lines at companies [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games>
+
+---
+
+## Tales of the Shire falls short of the LOTR Animal Crossing promise
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+On paper, a cozy little game set in the Shire sounds like a slam dunk. The Shire is canonically a beautiful, peaceful, inviting little place, and a game that lets you customize your own personal Hobbit hole sounds delightful. But in practice, Weta Workshop&#8217;s new life sim, Tales of the Shire: A The Lord of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/616491/tales-shire-lotr-cozy-game-impressions>
+
+---
+
+## Avatar: Fire and Ash’s first trailer shows war between the Na’vi
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+James Cameron’s Avatar series has nothing to do with Avatar: The Last Airbender, but the franchise is following a similar path by going on a tour of the elements. After the first movie involved former Marine Jake Sully (Sam Worthington) conquering the skies and Avatar: The Way of Water took him and his family into [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avatar/616084/avatar-3-fire-and-ash-trailer-james-cameron>
+
+---
+
+## Hollow Knight: Silksong is real and playable next month
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+Team Cherry’s promise to release the long-awaited Hollow Knight: Silksong in 2025 is looking more likely than ever. The latest evidence is a new playable demo for Hollow Knight: Silksong that will be available to the public at Gamescom in August. Silksong will be on hand on PC and the ROG Xbox Ally X, Microsoft [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/616781/hollow-knight-silksong-demo-xbox-gamescom>
+
+---
+
+## Where is Tophat Gudetama this week in Hello Kitty Island Adventure?
+
+date: 2025-07-28, updated: 2025-07-28, from: Polygon Website
+
+Tophat Gudetama hides in a different spot in Hello Kitty Island Adventure every week, with new weeks beginning on Monday. Pochacco will task you with finding this dapper Gudetama specifically as part of a quest per week for the first two weeks (“The Laziest Egg” and “The Laziest Eggs”), though after you finish these, there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/518836/tophat-gudetama-location-map-week-where-to-find>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-28 06:08:20
+updated: 2025-07-28 14:08:15
 ---
 
 # retro computing
 
-(date: 2025-07-28 06:08:20)
+(date: 2025-07-28 14:08:15)
+
+---
+
+## b.log 2025/07/28 - Yesterday, Negative scanner now rocking an ESP32!
+
+date: 2025-07-28, from: Richard Murray's blog
+
+Yesterday, Negative scanner now rocking an ESP32! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250728>
+
+---
+
+## FreeBSD Promises a Full Desktop Installer
+
+date: 2025-07-28, from: Linux Magazine
+
+<p>FreeBSD has lacked an option to include a full desktop environment during installation.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/FreeBSD-Promises-a-Full-Desktop-Installer>
 
 ---
 

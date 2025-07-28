@@ -1,11 +1,207 @@
 ---
 title: columns
-updated: 2025-07-28 06:08:15
+updated: 2025-07-28 14:08:11
 ---
 
 # columns
 
-(date: 2025-07-28 06:08:15)
+(date: 2025-07-28 14:08:11)
+
+---
+
+##  Another piece from Hitler scholar Timothy Ryback that is uncomfortably resonant today:... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047230-another-piece-from-hitler>
+
+---
+
+## Republican Election Group Is Attempting to Organize Against Text Message Filtering in iOS 26
+
+date: 2025-07-28, updated: 2025-07-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://politicalwire.com/2025/07/28/republicans-say-apple-update-will-hurt-fundraising/>
+
+---
+
+## July 27, 2025
+
+date: 2025-07-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169495304/8a21ae3c338a141744a82ded84674029.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169495304/8a21ae3c338a141744a82ded84674029.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-27-2025-2a1>
+
+---
+
+## July 25, 2025
+
+date: 2025-07-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169494965/6bbd04b24247e1dc934d45b3ef9b1bbe.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169494965/6bbd04b24247e1dc934d45b3ef9b1bbe.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-25-2025-2c6>
+
+---
+
+## Tom Lehrer: Satirist, mathematician, inventor of the Jello shot
+
+date: 2025-07-28, updated: 2025-07-28, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Obituary</span> The greatest mathematician-cum-singer-songwriter of all time</h4>
+      <p>The field of satirists and hit singer-songwriters who were also professional mathematicians and lecturers is a very small one, and as such, we feel sure Tom Lehrer was the greatest who ever lived… And he also invented the modern Jell-O shot.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/28/tom_lehrer_dead_at_97/>
+
+---
+
+##  José Andrés: The World Cannot Stand By With Gaza on the Brink... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047232-jose-andres-the-world-can>
+
+---
+
+## That Time Tom Lehrer Pranked the NSA
+
+date: 2025-07-28, updated: 2025-07-28, from: Bruce Schneier blog
+
+<p>Bluesky <a href="https://bsky.app/profile/opalescentopal.bsky.social/post/3luxxx27nos23">thread</a>. Here&#8217;s the <a href="https://media.defense.gov/2021/Jul/14/2002762807/-1/-1/0/GAMBLERS-RUIN.PDF/GAMBLERS-RUIN.PDF">paper</a>, from 1957. Note reference 3.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/that-time-tom-lehrer-pranked-the-nsa.html>
+
+---
+
+## My current favorite video games
+
+date: 2025-07-28, from: Matt Haughey blog
+
+<p>I don&apos;t know why, but video game recommendations have always been terrible for me. I&apos;ve owned every major console system and had accounts on Sony, Nintendo, and Microsoft app stores for nearly 20 years, and yet, every time I go to a downloadable game store on</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/my-current-favorite-video-games/>
+
+---
+
+##  TIL the etymology of boycott. &#8220;When Boycott set about evicting 11 tenants,... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047226-til-the-etymology-of-boyc>
+
+---
+
+##  All the Dogs, Explained 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/all-the-dogs-explained>
+
+---
+
+## Adam Aaronson Drank Every Cocktail
+
+date: 2025-07-28, updated: 2025-07-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://aaronson.org/blog/i-drank-every-cocktail>
+
+---
+
+##  Watch this: Chinese EV maker BYD built a driverless car that can... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047222-watch-this-chinese-ev-mak>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-28, from: Dave Winer's Scripting News)
+
+Everything in ChatGPT is <i>so</i> nice. I just asked it about a random plant I got as a gift, and it gave me a beautiful <a href="https://imgs.scripting.com/2025/07/28/deltaDawn.png">one pager</a> with everything I would have had to spend time searching for all right there, beautifully laid out, and all the fine UI touches you might think of already in. It's studying us and learning, and picking out the good stuff, at least so far. The web was like this too in the beginning, mind-exploding inventions every day. We called them <a href="http://scripting.com/davenet/2000/08/26/mindBombsForY2k.html">mind bombs</a>. The journalists and social media influencers all just complain, while there is a revolution happening, progress that had slowed to a snail pace, or very often went in reverse, is now coming at breakneck speed. This is as transformative innovation as there has ever been, not that I have much perspective on those that happened before I was invented, but it's as big as the Beatles, the PC, web, mobile. 
+
+<br> 
+
+<http://scripting.com/2025/07/28.html#a151244>
+
+---
+
+##  New York Times&#8217; Style Guide Substitutions for &#8220;The President Violated the Constitution&#8221;.... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047221-new-york-times-style-guid>
+
+---
+
+##  &#8220;Two leading human rights organisations based in Israel, B&#8217;Tselem and Physicians for... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047220-two-leading-human-rights->
+
+---
+
+##  Is this the beginning of the end of HIV/AIDS? Lenacapavir &#8220;offers 100%... 
+
+date: 2025-07-28, updated: 2025-07-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047219-is-this-the-beginning-of>
 
 ---
 

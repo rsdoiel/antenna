@@ -1,11 +1,160 @@
 ---
 title: home
-updated: 2025-07-28 06:08:19
+updated: 2025-07-28 14:08:14
 ---
 
 # home
 
-(date: 2025-07-28 06:08:19)
+(date: 2025-07-28 14:08:14)
+
+---
+
+## Digital Edition: Summer 2025
+
+date: 2025-07-28, from: Edible San Fernando Valley
+
+<p>Edible San Fernando Valley Summer 2025</p>
+<p>The post <a href="https://www.ediblesfvalley.com/digital-edition/digital-edition-summer-2025/">Digital Edition: Summer 2025</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/digital-edition/digital-edition-summer-2025/?utm_source=rss&utm_medium=rss&utm_campaign=digital-edition-summer-2025>
+
+---
+
+## What to Use to Lubricate Car Seat Rails for Smooth Operation
+
+date: 2025-07-28, from: Family Handyman Blog
+
+<p>What to Use to Lubricate Car Seat Rails for Smooth Operation Just because we don't see them, seat rails are important comfort and safety features and...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-lubricate-car-seat-rails/">What to Use to Lubricate Car Seat Rails for Smooth Operation</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-lubricate-car-seat-rails/>
+
+---
+
+## What You Can and Can’t Put Out on the Street for Trash Pick Up
+
+date: 2025-07-28, from: Family Handyman Blog
+
+<p>Getting rid of what you don't need is healthy, but not all trash is equal. Here our experts explain what you can and can't chuck curbside.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-you-can-and-cant-put-out-on-the-street-for-trash-pick-up/">What You Can and Can&#8217;t Put Out on the Street for Trash Pick Up</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-you-can-and-cant-put-out-on-the-street-for-trash-pick-up/>
+
+---
+
+## How To Get Rid of Concrete
+
+date: 2025-07-28, from: Family Handyman Blog
+
+<p>Learn the different ways to properly dispose of concrete after your next project.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-get-rid-of-concrete/">How To Get Rid of Concrete</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-get-rid-of-concrete/>
+
+---
+
+## For $749K, You Can Nab a Fully Furnished Ranch House Near Joshua Tree
+
+date: 2025-07-28, from: Dwell
+
+The turnkey getaway comes with two woodburning stoves, a custom kitchen, a hot tub, and a plunge pool. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-ranch-house-renovation-joshua-tree-real-estate-f24a7b5e>
+
+---
+
+## Before & After: First-Time Homebuyers Prioritize Fun in a $514K Brooklyn Brownstone Rehab
+
+date: 2025-07-28, from: Dwell
+
+Guided by intuition, a couple revive a fire-damaged 1899 home with hand-painted murals, a Dolly Parton bathroom, and a decor splurge bought after a winning trip to Atlantic City. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-ellie-and-alex-brooklyn-brownstone-renovation-6fb1c572>
+
+---
+
+## Whimsical Trim Gives This Los Angeles ADU a Fairytale Flair
+
+date: 2025-07-28, from: Dwell
+
+Rickrack lining the converted Venice garage hints at more fantastical design choices inside. 
+
+<br> 
+
+<https://www.dwell.com/article/playful-adu-welcome-projects-backyard-house-garage-renovation-0303f857>
+
+---
+
+## Are There Scorpions in Tennessee? Facts That May Surprise You
+
+date: 2025-07-28, from: Yard Life blog
+
+<p>Tennessee is known for its rich and varied wildlife, from black bears and white-tailed deer to countless species of birds, ... </p>
+<p class="read-more-container"><a title="Are There Scorpions in Tennessee? Facts That May Surprise You" class="read-more button" href="https://ownyardlife.com/are-there-scorpions-in-tennessee-facts-that-may-surprise-you/#more-32625" aria-label="Read more about Are There Scorpions in Tennessee? Facts That May Surprise You">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/are-there-scorpions-in-tennessee-facts-that-may-surprise-you/">Are There Scorpions in Tennessee? Facts That May Surprise You</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/are-there-scorpions-in-tennessee-facts-that-may-surprise-you/>
+
+---
+
+## 22 Gray Birds in Virginia (With Pictures and Identification)
+
+date: 2025-07-28, from: Yard Life blog
+
+<p>Virginia’s mix of forests, grasslands, and coastal areas provides a perfect home for many gray-colored birds. These subtle-toned species may ... </p>
+<p class="read-more-container"><a title="22 Gray Birds in Virginia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/22-gray-birds-in-virginia-with-pictures-and-identification/#more-32614" aria-label="Read more about 22 Gray Birds in Virginia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/22-gray-birds-in-virginia-with-pictures-and-identification/">22 Gray Birds in Virginia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/22-gray-birds-in-virginia-with-pictures-and-identification/>
+
+---
+
+## 40 Backyard Birds in Alabama (With Pictures and Identification)
+
+date: 2025-07-28, from: Yard Life blog
+
+<p>Backyard birdwatching in Alabama reveals a vibrant mix of birds that thrive in the state’s varied environments. From bright songbirds ... </p>
+<p class="read-more-container"><a title="40 Backyard Birds in Alabama (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/40-backyard-birds-in-alabama-with-pictures-and-identification/#more-32602" aria-label="Read more about 40 Backyard Birds in Alabama (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-backyard-birds-in-alabama-with-pictures-and-identification/">40 Backyard Birds in Alabama (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-backyard-birds-in-alabama-with-pictures-and-identification/>
+
+---
+
+## 8 Dog-Friendly Furniture and Decor Pieces That Actually Look Chic
+
+date: 2025-07-28, from: Sunset Magazine - Living in the West
+
+Don't let your dog's toys and bed cramp your style. Interior designers share the dog-friendly furniture and decor they have at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/dog-friendly-furniture-decor>
 
 ---
 

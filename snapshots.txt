@@ -274,3 +274,6 @@ https://www.palomitademaiz.net/feed/ "~Iván Paredes Reséndiz blog, Mexico's ci
 https://blog.law.cornell.edu/voxpop/feed/ "~VoxPopuLII blog (legal informatics and open access)"
 https://modern-sql.com/feed "~Modern SQL blog"
 https://www.science.org/about/email-alerts-and-rss-feeds "~Science Podcasts"
+
+https://buttondown.com/whatever_jamie/rss "~Whatever, Jamie blog (Jamie Birch)"
+https://buttondown.com/blog "~Buttondown Blog"

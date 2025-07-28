@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-07-28 06:08:20
+updated: 2025-07-28 14:08:15
 ---
 
 # health
 
-(date: 2025-07-28 06:08:20)
+(date: 2025-07-28 14:08:15)
+
+---
+
+## Low Sodium Chicken Soup
+
+date: 2025-07-28, from: The Kidney Dietitian
+
+<p>This article was written by dietetic student Emma Kortmansky &#38; reviewed by Melanie Betz MS, RD, CSR, FNKF, FAND. I don’t know about you, but in my opinion, nothing says comfort food quite like [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/low-sodium-chicken-soup/">Low Sodium Chicken Soup</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/low-sodium-chicken-soup/>
 
 ---
 
