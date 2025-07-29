@@ -1,11 +1,25 @@
 ---
 title: craft
-updated: 2025-07-29 06:09:20
+updated: 2025-07-29 14:07:38
 ---
 
 # craft
 
-(date: 2025-07-29 06:09:20)
+(date: 2025-07-29 14:07:38)
+
+---
+
+## 104. Michael Sankey
+
+date: 2025-07-29, from: Luthier on Luthier with Michael Bashkin
+
+<p>On Episode 104 of the podcast, I talk with Michael Sankey, a wildly creative guitar maker from Ottawa. Michael's work combines old-school methods like hand tools and hide glue with futuristic elements like 3D-printed metal parts.</p> <p>We get into how he balances tradition with innovation—and why he builds guitars based on his own ideas, not just what the market expects. <a id="m_-257812067429426384LPlnk477147" href= "https://www.sankeyguitars.com/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.sankeyguitars.com/&source=gmail&ust=1753901152879000&usg=AOvVaw2Px0O11Wtv-GcaEMRIS1Tn">https://www.sankeyguitars.com/</a></p> <p>Luthier on Luthier is hosted by Michael Bashkin of <a href= "https://www.bashkinguitars.com">Bashkin Guitars</a> and brought to you by the <a href= "https://shop.fretboardjournal.com/products/fretboard-journal-annual-subscription"> Fretboard Journal</a>. This episode is sponsored by <a href= "https://www.dreamguitars.com/">Dream Guitars</a> and <a href= "https://www.stewmac.com/?irclickid=VA-TmuXZ%3AxyPUn0Ut-05ZTupUkHUPAzGE2bmy00&utm_source=3755630&utm_medium=Impact&utm_campaign=3755630&utm_content=Online%20Tracking%20Link_1303370&irgwc=1&partner=Fretboard%20Journal&mpid=3755630&group="> StewMac</a>.</p> <p>Want to support Luthier on Luthier? <a href= "https://www.patreon.com/luthieronluthier">Join our Patreon</a> to get access to exclusive photos and content from Michael and his builds.</p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://traffic.libsyn.com/secure/luthieronluthier/LOL104.mp3?dest-id=480616"></source>
+</audio> <a href="https://traffic.libsyn.com/secure/luthieronluthier/LOL104.mp3?dest-id=480616" target="_blank">download audio/mpeg</a><br> 
+
+<https://luthieronluthier.libsyn.com/104-michael-sankey>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-29 06:09:15
+updated: 2025-07-29 14:07:33
 ---
 
 # games
 
-(date: 2025-07-29 06:09:15)
+(date: 2025-07-29 14:07:33)
+
+---
+
+## The Mighty Nein Amazon show will breathe new life into Critical Role&#8217;s clunkiest romance
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Critical Role surprised its fans with non-stop news during San Diego Comic-Con 2025, with confirmation of the fifth and final season of The Legend of Vox Machina, as well as brand new clips. But what got me most excited was the reveal of their newest upcoming Prime Video show, based on Critical Role’s second campaign, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/617122/the-mighty-nein-amazon-beau-yasha-romance>
+
+---
+
+## Resort Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+The Resort Layer is the eighth layer in Donkey Kong Bananza and it’s packed full of gigantic fruit cubes. As you explore the fruit-covered beaches of the Resort Layer, you’ll find your normal sized Banandium Gems. Although they’re not as big nor cube-shaped, these bananas are plentiful and will provide you with additional skill points [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615001/resort-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## The Junction Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+In Donkey Kong Bananza, you’ll hit The Junction after completing the Forest or Freezer Layer. It’s another small layer, similar to The Divide, but it still has some Banandium Gems that can be tricky to find if you’re not paying attention. The Junction is mostly just a small pathway forward and it’ll initially be covered [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614706/junction-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Freezer Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+The Freezer Layer is the fifth layer in Donkey Kong Bananza. The Freezer is snowy land home to sweet treats, zebras, and, of course, lots of Banandium Gems. As you traverse through the Freezer, you’ll need to be quick on your feet or else you’ll fall into the icy waters or even the molten lava. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614416/freezer-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Where to find weed stems in Grounded 2
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Finding weed stems in Grounded 2 seems like a much bigger hassle than it actually is, thanks to some specific naming conventions and the survival game&#8217;s puzzle-like design. You&#8217;ve probably seen several weed stem candidates already without realizing it, just because the game doesn&#8217;t outright call the plant in question a weed. Below, we explain [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617221/grounded-2-weed-stems-locations-where-to-find>
+
+---
+
+## James Cameron wants to make his version of The Animatrix for Avatar
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+When James Cameron delivers his fifth and final planned Avatar movie, currently scheduled for 2031, the saga will have spanned an impressive 22 years. But even with three more full Avatar movies coming — including December’s Avatar: Fire and Ash — Cameron says he wants to explore the world of Pandora in new ways. That includes an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avatar/617246/james-cameron-avatar-animated-anthology>
+
+---
+
+## Switch 2 SNES games just got a graphics filter that upgrades the entire experience
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Ah, the days of CRT displays. It was the era where the average TV could adequately render the way pixel art games were meant to be played. With newer tech, the graphics on retro games get upscaled, which often ends up ruining what games look like. But thanks to a new update to the Nintendo’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/617241/nintendo-classics-snes-crt-filter-retro-games-how-to-turn-on>
+
+---
+
+## What time does Teamfight Tactics Set 15 release?
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Set 15 of Teamfight Tactics, officially titled K.O. Coliseum, is going live on Wednesday, July 30 with patch 15.1. For this set, your favorite League of Legends champions will face off in an anime showdown to find out who is the strongest of them all. In addition, a lot of TFT’s usual mechanics that you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617087/tft-set-15-ko-coliseum-release-time-na-euw-eune-oce>
+
+---
+
+## Evo 2025: How to watch fighting games’ biggest event of the year
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Evolution Championship Series 2025, the biggest event in the fighting game community that’s better known as Evo, is going down live from Las Vegas this weekend. Evo 2025 kicks off on Friday, Aug. 1, beginning at 10 a.m. PDT/1 p.m. EDT and wraps up on Sunday, Aug. 3, at 10 p.m. PDT/Monday, Aug. 4, 1 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/617086/evo-2025-how-to-watch-fighting-games-biggest-event-of-the-year>
 
 ---
 

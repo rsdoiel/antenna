@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-07-29 06:09:20
+updated: 2025-07-29 14:07:38
 ---
 
 # small papers
 
-(date: 2025-07-29 06:09:20)
+(date: 2025-07-29 14:07:38)
+
+---
+
+## Cabrillo High baseball coach pleads not guilty to sexually abusing student
+
+date: 2025-07-29, from: Long Beach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Investigators are asking any more victims to come forward.</p>
+<p>The post <a href="https://lbpost.com/news/crime/cabrillo-high-baseball-coach-pleads-not-guilty-to-sexually-abusing-student">Cabrillo High baseball coach pleads not guilty to sexually abusing student</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/cabrillo-high-baseball-coach-pleads-not-guilty-to-sexually-abusing-student>
+
+---
+
+## So many reasons to stay put: What’s behind California’s frozen housing market?
+
+date: 2025-07-29, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>What happens when you take high interest rates, unpredictable tariffs, a shortage of homes, a 50-year-old property tax law and mix them together? A housing market stuck in molasses.</p>
+<p>The post <a href="https://lbpost.com/news/place/real-estate/so-many-reasons-to-stay-put-whats-behind-californias-frozen-housing-market">So many reasons to stay put: What’s behind California’s frozen housing market?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/real-estate/so-many-reasons-to-stay-put-whats-behind-californias-frozen-housing-market>
+
+---
+
+## California sues after Trump demands access to sensitive data about food stamp recipients
+
+date: 2025-07-29, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29084026/071319-cal-fresh-farmers-market-aw-cm-08-307963-oopsrpro-811774-8ppnveBi.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Trump administration told states to provide the data by July 30 or risk losing federal funding to administer the program. This is California’s 35th suit against the Trump administration.</p>
+<p>The post <a href="https://lbpost.com/news/health/california-sues-after-trump-demands-access-to-sensitive-data-about-food-stamp-recipients">California sues after Trump demands access to sensitive data about food stamp recipients</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/california-sues-after-trump-demands-access-to-sensitive-data-about-food-stamp-recipients>
 
 ---
 
@@ -13,7 +58,7 @@ updated: 2025-07-29 06:09:20
 
 date: 2025-07-29, from: Long Beach Post
 
-<figure><img width="970" height="489" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2.jpg 970w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-300x151.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-768x387.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-192x97.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-400x202.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="970" height="489" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2.jpg 970w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-300x151.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-768x387.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-192x97.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28133644/0824-shoreline-176-970x489-821844-z9hyujb2-147241-a9Dc0uj2-400x202.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police are still searching for a group of men and teens they say are responsible for the violence. The one man who'd been arrested was released for lack of evidence.</p>
 <p>The post <a href="https://lbpost.com/news/crime/shoreline-village-shooting-charges-dropped-long-beach">Charges dropped in Shoreline Village shooting that wounded boy eating funnel cake, grazed pregnant woman</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +73,7 @@ date: 2025-07-29, from: Long Beach Post
 
 date: 2025-07-28, from: Long Beach Post
 
-<figure><img width="1024" height="694" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-1024x694.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-1024x694.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-300x203.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-768x520.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="694" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-1024x694.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-1024x694.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-300x203.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-768x520.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/28103229/28jul25-7-28-25-ave-3-647663-6gg11m69-485826-I5j9LVE6.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The plan includes narrowing Pacific Avenue to one lane in each direction to add space for bicyclists and pedestrians.</p>
 <p>The post <a href="https://lbpost.com/news/place/pacific-avenue-redesign-road-diet-long-beach">Long blighted by speeding and deadly crashes, Pacific Avenue is getting a redesign</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

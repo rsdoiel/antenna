@@ -1,11 +1,171 @@
 ---
 title: planet
-updated: 2025-07-29 06:09:09
+updated: 2025-07-29 14:07:27
 ---
 
 # planet
 
-(date: 2025-07-29 06:09:09)
+(date: 2025-07-29 14:07:27)
+
+---
+
+## Russia tariffs in '10 days' if no halt to Ukraine war
+
+date: 2025-07-29, from: RTÉ News
+
+US President Donald Trump has said that the United States would start imposing tariffs and other measures on Russia "10 days from today" if Moscow showed no progress toward ending its more than three-year-long war in Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1526027-russia-us-tariffs-ukraine/>
+
+---
+
+## Sean 'Diddy' Combs seeks release on $50-million bond
+
+date: 2025-07-29, from: RTÉ News
+
+Attorneys for Sean "Diddy" Combs have asked a United States federal judge to release him from custody on a $50 million secured bond, grounded against his Miami property, while he awaits sentencing on 3 October. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0729/1526023-sean-diddy-combs-seeks-release-on-50-million-bond/>
+
+---
+
+## Man arrested after probationer garda stabbed in Dublin
+
+date: 2025-07-29, from: RTÉ News
+
+A man in his 20s has been arrested after a probationer garda was attacked in Dublin city centre this evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1526022-garda-attacked/>
+
+---
+
+## Court to rule Thursday on McGregor rape appeal
+
+date: 2025-07-29, from: RTÉ News
+
+The Court of Appeal is to give its decision on Thursday on an appeal by former MMA fighter Conor McGregor against a High Court jury's finding that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0729/1526010-conor-mcgregor-rape-appeal/>
+
+---
+
+## Astronomy & Space Science Education & Public Outreach Newsletter – July 2025, Part 2b
+
+date: 2025-07-29, from: Vatican Obervatory
+
+Dr. Larry Lebofsky covers a wide range of topics in his twice-a-month astronomy and space science newsletter. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/astronomy-space-science-education-public-outreach-newsletter-july-2025-part-2b/>
+
+---
+
+## UK to recognise Palestine unless Israel meets conditions
+
+date: 2025-07-29, from: RTÉ News
+
+Britain will recognise the state of Palestine in September unless the Israeli government takes substantive steps to end the "appalling situation" in Gaza and meets other conditions, British Prime Minister Keir Starmer has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0729/1525999-uk-palestine/>
+
+---
+
+## Slushies containing glycerol not for under 12s, HSE warns
+
+date: 2025-07-29, from: RTÉ News
+
+Letting young children drink slush ice drinks, also known as slushies, is as bad for them as letting them consume antifreeze, according to HSE National Clinical Lead for Obesity, Professor Donal O'Shea. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0729/1525976-slushie-warning/>
+
+---
+
+## Cat Deeley and Patrick Kielty announce separation
+
+date: 2025-07-29, from: RTÉ News
+
+This Morning host Cat Deeley and The Late Late Show presenter Patrick Kielty have announced their separation after more than a decade of marriage. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0729/1525980-cat-deeley-and-patrick-kielty-announce-separation/>
+
+---
+
+## Pope’s August prayer intention: For mutual coexistence
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>Pope Leo XIV releases his prayer intention for August, 2025, inviting us to pray “that societies avoid internal conflicts due to ethnic, political, religious or ideological reasons” and encouraging us to “seek paths of dialogue” and “respond to conflict with gestures of fraternity.”</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-s-august-prayer-intention-for-mutual-coexistence.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-s-august-prayer-intention-for-mutual-coexistence.html>
+
+---
+
+## Trinidadian-Irish writer makes Booker Prize longlist
+
+date: 2025-07-29, from: RTÉ News
+
+The longlist for the Booker Prize has been announced with no Irish-born authors included this year. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0729/1525965-booker-prize/>
+
+---
+
+## What challenges face the new Garda Commissioner?
+
+date: 2025-07-29, from: RTÉ News
+
+Justin Kelly, who will take over from Drew Harris as Garda Commissioner on 1 September, is a long-serving member of the force and faces a number of issues when he takes office. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1525924-justin-kelly-profile/>
+
+---
+
+## Legal action over weapons transport within Irish airspace
+
+date: 2025-07-29, from: RTÉ News
+
+A legal challenge to the use of Irish airspace for flights transporting weapons to Israel has been lodged at the High Court. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0729/1525966-court-airspace-weapons/>
+
+---
+
+## X loses High Court challenge against Online Safety Code
+
+date: 2025-07-29, from: RTÉ News
+
+X, the platform formerly known as Twitter, has lost a High Court challenge against Coimisiún na Meán's Online Safety Code. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1525964-x-high-court-coimisiun-na-mean/>
 
 ---
 
@@ -18,6 +178,30 @@ A 21-year-old man has been sentenced to seven years in prison, with the final ye
 <br> 
 
 <https://www.rte.ie/news/2025/0729/1525920-jack-cummins-court/>
+
+---
+
+## Sentence over assault 'not fair', says attack victim
+
+date: 2025-07-29, from: RTÉ News
+
+A woman who lost vision permanently in one eye after being attacked in Dublin in December 2021 has described the sentence handed down to the man found guilty of procuring the attack as "not fair". 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0729/1525920-jack-cummins-court/>
+
+---
+
+## U.K. will recognize Palestinian state unless Israel agrees to ceasefire, British PM says
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7596378.1753805770!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-starmer.JPG' alt='A grey-haired man in a black suit and navy tie speaks to media. He is also wearing dark-framed glasses.' width='620' height='349' title='Britain&apos;s Prime Minister Keir Starmer delivers a statement inside No. 10 Downing Street on July 29, 2025, the day the cabinet was recalled to discuss the situation in Gaza.'/><p>Prime Minister Keir Starmer said Tuesday the U.K. will recognize a Palestinian state in September unless Israel agrees to a ceasefire in Gaza, allows the UN to bring in aid and takes other steps toward long-term peace.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/uk-recognize-palestinian-state-ceasefire-1.7596361?cmp=rss>
 
 ---
 
@@ -42,6 +226,54 @@ date: 2025-07-29, from: United Nations, Top Stories
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165517>
+
+---
+
+## UN peacekeeping can work in a fractured world – if there is political will
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+In an era marked by geopolitical fragmentation and rising global tensions, United Nations peace operations face unprecedented challenges – but senior officials told the Security Council on Tuesday that with renewed political will and strategic adaptation, these missions remain indispensable tools for conflict resolution and protection of civilians worldwide. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165523>
+
+---
+
+## Russian attack on Ukrainian prison kills 16: UN rights monitors
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+An attack on a prison in the south-eastern Zaporizhzhia region of Ukraine on Monday reportedly left 16 prisoners dead and almost 100 injured, violating international law, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) has said. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165520>
+
+---
+
+## ‘By women, for women’: 15 years of the UN agency championing gender equality
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+Fariba, a young Afghan woman, had just begun a university degree in 2021 when the Taliban&nbsp;returned to power and banned women and girls from secondary and higher education.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165522>
+
+---
+
+## LIVE COVERAGE: Day 2 of high-level conference on two-State solution for Israel and Palestine
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+Welcome to our continuing live coverage of the high-level international conference at UN Headquarters, aimed at advancing practical steps toward achieving a two-State solution to the Israel-Palestine conflict. Mandated by the General Assembly, the three-day meeting features plenaries, working groups and interventions from senior UN officials and Member States. UN News app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165518>
 
 ---
 
@@ -166,7 +398,19 @@ The UN Interim Force in Lebanon (UNIFIL) has welcomed the conviction and sentenc
 
 ---
 
-## Pope to catechumens and neophytes: With baptism you clothe yourself with Christ
+## UN welcomes sentencing in Seán Rooney murder case
+
+date: 2025-07-29, from: RTÉ News
+
+Both the UN and the UN Interim Force in Lebanon (UNIFIL) has welcomed the conviction and sentencing in the case of the killing of Private Seán Rooney in Lebanon in 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1525897-sean-rooney-sentence/>
+
+---
+
+## Pope to catechumens and neophytes: You are the salt of the world and the light of the earth
 
 date: 2025-07-29, from: Vatican News
 
@@ -210,15 +454,31 @@ Fans will be able to pay their final respects to Ozzy Osbourne when his remains 
 
 ---
 
-## Russian strikes kill 22 civilians in Ukraine despite Trump threats of sanctions
+## Russian strikes kill 27 civilians in Ukraine despite Trump threats of sanctions
 
 date: 2025-07-29, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7596122.1753791123!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A road flanked by ruined buildings and rubble is shown. ' width='620' height='349' title='This photo provided by Ukraine&apos;s State Criminal Executive Service shows a damaged prison in the village of Bilenke, in Ukraine&apos;s Zaporizhzhia region, following a Russian bomb attack that killed at least 17 inmates, on Tuesday, July 29, 2025.'/><p>Russian glide bombs and ballistic missiles struck a Ukrainian prison and a medical facility overnight as Russia's relentless strikes on civilian areas killed at least 22 people across the country, officials say.</p> 
+<img src='https://i.cbc.ca/1.7596122.1753791123!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A road flanked by ruined buildings and rubble is shown. ' width='620' height='349' title='This photo provided by Ukraine&apos;s State Criminal Executive Service shows a damaged prison in the village of Bilenke, in Ukraine&apos;s Zaporizhzhia region, following a Russian bomb attack that killed at least 17 inmates, on Tuesday, July 29, 2025.'/><p>Russian glide bombs and ballistic missiles struck a Ukrainian prison and a medical facility overnight as Russia's relentless strikes on civilian areas killed at least 27 people across the country, officials say.</p> 
 
 <br> 
 
 <https://www.cbc.ca/news/world/russia-strikes-ukraine-1.7596118?cmp=rss>
+
+---
+
+## Young people for young people: Mary’s Meals brings hope to the Jubilee
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>As the Jubilee of Youth takes over the streets of Rome, the young people of Mary’s Meals are sharing their mission, as they remind the world that each and every one of us is capable, through the smallest of actions, of bringing hope where hope has been lost. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/young-people-jubilee-youth-marys-meals-hope-interview.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/young-people-jubilee-youth-marys-meals-hope-interview.html>
 
 ---
 
@@ -286,11 +546,11 @@ A woman and her two children who died in a shooting at their home in Co Fermanag
 
 ---
 
-## Russian strikes on Ukraine kill at least 25, Ukraine says
+## Ukraine to let over 60s into armed forces amid shortages
 
 date: 2025-07-29, from: RTÉ News
 
-The Kremlin said that it wanted to pursue peace in Ukraine hours after mounting attacks that killed at least 25 people, including a 23-year-old pregnant woman and more than a dozen prison inmates. 
+President Volodymyr Zelensky has signed a law allowing Ukrainians aged over 60 to join the armed forces, amid struggles to find recruits as the Russian invasion drags through a fourth year. 
 
 <br> 
 
@@ -314,11 +574,11 @@ date: 2025-07-29, from: Vatican News
 
 ---
 
-## Mass shooting at Manhattan skyscraper leaves 5 dead, including gunman
+## Gunman who killed 4 at NYC building was targeting NFL offices but took wrong elevator, mayor says
 
 date: 2025-07-29, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7596098.1753781498!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/new-york-shooting.JPG' alt='Police officers stand in a line for the ambulance transfer of a slain policeman.' width='620' height='349' title='NYPD officers stand at attention for the ambulance transfer of slain NYPD officer Didarul Islam, who was killed during a mass shooting in Midtown Manhattan, at New York-Presbyterian/Weill Cornell Medical Center in New York City, U.S., July 29, 2025. REUTERS/Bing Guan     TPX IMAGES OF THE DAY  REFILE - QUALITY REPEAT'/><p>A gunman armed with an assault-style rifle killed four people inside a Manhattan skyscraper that houses the headquarters of the NFL and offices of several major financial firms and then shot himself dead, New York City officials said on Monday.</p> 
+<img src='https://i.cbc.ca/1.7596135.1753791260!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/shooting-new-york-city.jpg' alt='New York Mayor Eric Adams, center, speaks during a news conference.' width='620' height='349' title='New York Mayor Eric Adams, center, speaks during a news conference at New York Presbyterian Weil Cornell Medical Center where a police officer was brought after being shot at a Manhattan office building, Monday, July 28, 2025, in New York. (AP Photo/Angelina Katsanis)'/><p>A gunman who killed four people at a Manhattan office building before killing himself was trying to target the headquarters of the National Football League but took the wrong elevator, Mayor Eric Adams said Tuesday. </p> 
 
 <br> 
 
@@ -398,11 +658,23 @@ A gunman armed with an assault-style rifle killed four people inside a Manhattan
 
 ---
 
-## Cabinet agrees further €700m in funding for housing
+## NY gunman was targeting NFL, went to wrong office - mayor
+
+date: 2025-07-29, from: RTÉ News
+
+The man who killed four people in a rampage with a rifle through a midtown Manhattan office building was carrying a note that appeared to blame the National Football League for his degenerative brain disease, New York Mayor Eric Adams has said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0729/1525833-new-york-shooting/>
+
+---
+
+## Govt bid to up size of garden cabins a 'half-baked plan'
 
 date: 2025-07-28, from: RTÉ News
 
-The Department of Housing has received additional funding of nearly €700 million this year to fund more social and affordable housing among other measures. 
+The Social Democrats have criticised Government plans to increase the allowance for cabins or garden homes up to a size of 45 square metres as a "half-baked plan" to move people into "glorified garden sheds". 
 
 <br> 
 
@@ -410,11 +682,11 @@ The Department of Housing has received additional funding of nearly €700 milli
 
 ---
 
-## EU-US deal will stabilise transatlantic trade, says Gill
+## US confirms 15% tariff for EU includes pharmaceuticals
 
 date: 2025-07-28, from: RTÉ News
 
-The tariff deal between the EU and the US will secure, stabilise and grow transatlantic trade and investment relations, the European Commission's Spokesperson on Trade has said. 
+The White House has confirmed that the 15% tariff agreed between the European Union and the United States includes pharmaceuticals and semiconductors. 
 
 <br> 
 
@@ -510,6 +782,18 @@ A former Christian Brother and headmaster who indecently assaulted a young boy o
 
 ---
 
+## Man banished from First Nation for 5 years challenges 'incredibly extreme punishment'
+
+date: 2025-07-28, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7595893.1753740542!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/terry-francois.jpg' alt='A man holds a young child, with five young women around him as they pose for a picture.' width='620' height='349' title='Terry Francois, centre, is pictured with his five daughters and granddaughter.'/><p>Terry Francois, 53, pleaded guilty to two counts of resisting a peace officer in May. When he returned to the community in June, he received a formal letter of banishment from NCN, according to a federal application for judicial review filed Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/manitoba-banished-court-challenge-2025-1.7595533?cmp=rss>
+
+---
+
 ## Older brother of Oasis duo charged with rape
 
 date: 2025-07-28, from: RTÉ News
@@ -567,6 +851,18 @@ The brother of a cancer survivor who was stabbed multiple times in a "frenzied k
 <br> 
 
 <https://www.rte.ie/news/2025/0728/1525780-courts-kearney/>
+
+---
+
+## Man who stabbed aunt's partner to be sentenced this week
+
+date: 2025-07-28, from: RTÉ News
+
+The brother of a cancer survivor who was stabbed multiple times in a "frenzied knife" attack by a "psychotic cowardly killer" has told the Central Criminal Court that seeing the defendant "with a smug look on his face" when the verdict was returned showed he had "no remorse" for their family. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0728/1525780-courts-kearney/>
 
 ---
 

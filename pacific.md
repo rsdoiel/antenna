@@ -1,11 +1,221 @@
 ---
 title: pacific
-updated: 2025-07-29 06:09:12
+updated: 2025-07-29 14:07:30
 ---
 
 # pacific
 
-(date: 2025-07-29 06:09:12)
+(date: 2025-07-29 14:07:30)
+
+---
+
+## Mindfulness workshop offers calm, connection for cancer community
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p>More than 150 attendees found support and stress relief at the <abbr>UH</abbr> Cancer Center’s mindfulness and meditation workshop.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/mindfulness-meditation-workshop/">Mindfulness workshop offers calm, connection for cancer community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/mindfulness-meditation-workshop/>
+
+---
+
+## US nonprofit drives educational progress in FSM
+
+date: 2025-07-29, from: Pacific Island Times
+
+
+
+Colonia, Yap (Habele)-- In a quiet yet determined effort to expand educational opportunities in the Western Pacific, an American nonprofit is helping students from some of Micronesia’s most remote islands access the region’s top-performing private schools. At the same time, decades-long U.S.-Micronesia ties are being strengthened.   
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-nonprofit-drives-educational-progress-in-fsm>
+
+---
+
+## Pacific news in brief for 30 July
+
+date: 2025-07-29, from: 
+
+A round-up of news from around the region, including details for the state funeral of the late Northern Mariana Islands governor. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568417/pacific-news-in-brief-for-30-july>
+
+---
+
+## Pasifika Sipoti in brief for 30 July
+
+date: 2025-07-29, from: 
+
+A round-up of sports news from around the region, including Pasifika players in New Zealand's NPC teams. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568418/pasifika-sipoti-in-brief-for-30-july>
+
+---
+
+## UH speaker series features future of clean energy in Hawaiʻi, California
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Better Tomorrow Speaker Series will feature David Hochschild, chair of the California Energy Commission.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/uh-speaker-series-clean-energy-hawaii-california/"><abbr>UH</abbr> speaker series features future of clean energy in Hawaiʻi, California</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/uh-speaker-series-clean-energy-hawaii-california/>
+
+---
+
+## Kabuki master leads singular training opportunity at UH Mānoa
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p>The intensive workshop at <abbr>UH</abbr> Mānoa runs from August 1–18, offering rare, hands-on training in kabuki.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/kabuki-training-at-uh-manoa/">Kabuki master leads singular training opportunity at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/kabuki-training-at-uh-manoa/>
+
+---
+
+## To the Moon! NASA selects UH to lead instrument team for lunar vehicle
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa scientists are building a cutting-edge Moon-mapping instrument selected for <abbr>NASA</abbr>’s Artemis lunar rover.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/to-the-moon-lunar-vehicle-instrument/">To the Moon! <abbr>NASA</abbr> selects <abbr>UH</abbr> to lead instrument team for lunar vehicle</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/to-the-moon-lunar-vehicle-instrument/>
+
+---
+
+## Enjoy the ‘Best’ wings for National Chicken Wing Day
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+IT'S National Chicken Wing Day! All over America, today is the day to celebrate the lunch time, happy hour, and dinner dish that’s a favorite of people who love crunch and flavor.Here in the CNMI we have absolutely no shortage of ways to savor the flavor of crispy, juicy, saucy chicken wings.At Marianas Variety, whenever the question of what to eat crops up, we reach for our Best of the Marianas list the way a traveler reaches for GPS. Today is no different, and we made sure our wallets were full and stomachs empty as we went around the island to celebrate the food holiday.Zoom CafeStarting off our lunchtime journey, we took a trip to the gold medal winner in the Best Fried Chicken category: Zoom Chicken in Susupe.Marianas Variety readers don’t need to be sold on how good the place is, as they voted it to the top spot.But just in case you need a refresher: over at Zoom, you can order a plethora of wings in a variety of sauces, including the herb fried chicken, sweet and sour chicken, soy sauce chicken, and hot and spicy. A large order is $24, with regular orders coming in at $14. By the way, you can do a “half-half” order with two sauces for $25.We spoke with restaurant supervisor Joernilyn Madiao, who says that soy sauce chicken and sweet and sour are the sauce bosses for local customers."I think they really like the sauce from the soy sauce chicken, especially the kids," she said. "For sweet and sour they really like sweetness and the little bit of spiciness."Of course, here on Saipan the hot and spicy wings get their fair share of attention, according to Madiao.“Some of the local people like that too,” she said of the pika wings. “Sometimes they ask if they can buy just the sauce. We make it here.”But delicious fried chicken isn’t the only thing available at Zoom Cafe.Madiao says the kimchee fried rice, spicy bulgogi, barbecued short ribs, and more are all worth a consideration and are very popular with their regulars.Thunder ChickenIn Chalan Laulau, Thunder Chicken, the bronze medal winner in this year’s contest, is the go-to choice if you’re in the mood for some Korean-style fried chicken.The restaurant serves original Crispy Fried Chicken or full-flavored sauced orders like the Sweet and Sour Chicken, Sweet and Spicy Chicken, Sweet Soy Sauce, Sweet Garlic, Onion or Chili. Full-sized orders are $25, with half-orders coming in at $13. Like at Zoom, customers can also order a half and half chicken, combining two different styles together.JC CafeNow, let’s say you’re REALLY in the mood for some of the best fried chicken in the Marianas. You’re going to have to travel just a little bit over to JC Cafe, smack dab in the heart of Tinian, to see how the winner of Tinian’s Best Restaurant category serves up fried chicken.Island residents order the buttered fried chicken routinely, and that’s because it’s simply amazing. We think the Marianas Visitor’s Authority needs to market it the same way they do Unai Taga and the San Jose Fiesta.Store manager Lot Bunao says the buttered fried chicken also comes with a Pika Pika version, which of course means customers can expect to have fresh Tinian hot peppers mixed with the butter sauce on top of the crispy fried chicken.So there you have it! We hope you’re ready for lunch, dinner, happy hour or whatever hour. Enjoy National Chicken Wing Day from Marianas Variety! 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/enjoy-the-best-wings-for-national-chicken-wing-day/article_071c246d-9f84-48a1-ae2a-e6ec88d30c21.html>
+
+---
+
+## Netty Cee on fried chicken: Less is more
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+<div class="jso-cursor-trail-wrapper" style="position: fixed; left: 0px; top: 0px; width: 100vw; height: 100vh; overflow: hidden; pointer-events: none; z-index: 9999;"> </div> 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/netty-cee-on-fried-chicken-less-is-more/article_1ed5d1d4-ced5-45f4-a6de-bd0af5583470.html>
+
+---
+
+## Trade Council pays tribute to Palacios, welcomes Apatang’s economic leadership
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+ON Tuesday morning, directors from the Trade Council of the Marianas gave statements acknowledging and thanking the late Gov. Arnold Palacios and current Gov. David Apatang for signing Public Law 24-05, Public Law 24-06, and Public Law 24-07. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/trade-council-pays-tribute-to-palacios-welcomes-apatang-s-economic-leadership/article_2114e506-f12b-4c27-85b3-b7d11f11414e.html>
+
+---
+
+## King-Hinds push leads to USPS action on NMI mail delays
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+WASHINGTON, D.C. — The United States Postal Service has acknowledged and begun correcting routing errors that led to significant mail delivery delays to the CNMI, following an inquiry from U.S. Congresswoman Kimberlyn King-Hinds. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-push-leads-to-usps-action-on-nmi-mail-delays/article_c88c3c42-fc2c-4efc-8894-f07afe303881.html>
+
+---
+
+## PSS receives two national recognitions for innovation in digital learning, AI integration
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+THE Public School System has earned two national recognitions for its innovation in digital learning and artificial intelligence integration through its education technology program, run by the federally funded Instructional Technology and Distance Education or ITDE initiative. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/pss-receives-two-national-recognitions-for-innovation-in-digital-learning-ai-integration/article_b059442d-01c7-4d1e-ba43-8a34e6864ef9.html>
+
+---
+
+## Red flags at 23 Saipan sites
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-23-saipan-sites/article_4a199c9f-5ea5-4ff7-81c1-880b79248c43.html>
+
+---
+
+## CNMI SBDC, Bank of Hawai‘i relaunch Small Business Revitalization Grant
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College is proud to announce the return of the Bank of Hawai‘i Small Business Revitalization &amp; Development Grant, also known as the I Kinometi Para I Kumunidåt I Islå-ta Grant, in partnership with Bank of Hawai‘i. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/cnmi-sbdc-bank-of-hawai-i-relaunch-small-business-revitalization-grant/article_e5b19c96-3928-4d54-9de5-d6f55c567b89.html>
+
+---
+
+## Lawmakers call on Whipps to prevent Palauans from being sent to Guantanamo
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Palau’s national legislature has called on President Surangel Whipps Jr. to take urgent action to ensure Palauan citizens deported from the United States are returned directly to Palau, not to offshore detention centers such as the U.S. naval base at Guantanamo Bay. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/lawmakers-call-on-whipps-to-prevent-palauans-from-being-sent-to-guantanamo/article_c8b8c9a4-003e-4cfd-bdf5-7b174406c0c1.html>
+
+---
+
+## Minor arrested in connection with elderly woman’s death
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+DEPARTMENT of Public Safety Commissioner Anthony Macaranas said officers from the Criminal Investigation Bureau arrested a 17-year-old male early Tuesday morning in connection with the death of 77-year-old Rosa Mendiola Sablan, also known as “Chai.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/minor-arrested-in-connection-with-elderly-woman-s-death/article_d9f4b7de-856a-4188-83ed-fb368afc0df9.html>
+
+---
+
+## Police investigate motive behind deadly mass shooting in Manhattan office tower
+
+date: 2025-07-29, updated: 2025-07-29, from: Marianas Variety
+
+NEW YORK (Reuters) — New York City homicide detectives sought clues on Tuesday to what possessed a Las Vegas man to drive cross-country and storm into a midtown Manhattan office tower to open fire with a military rifle, killing four people, including a policeman. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/police-investigate-motive-behind-deadly-mass-shooting-in-manhattan-office-tower/article_f9d6d6ea-8f2b-451b-8282-6c93ee1226a8.html>
 
 ---
 

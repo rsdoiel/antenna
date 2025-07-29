@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-07-29 06:09:16
+updated: 2025-07-29 14:07:34
 ---
 
 # journalism
 
-(date: 2025-07-29 06:09:16)
+(date: 2025-07-29 14:07:34)
+
+---
+
+## UC to pay $6.45M to settle antisemitism lawsuit over pro-Palestine encampment
+
+date: 2025-07-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC announced Tuesday it will pay $6.45 million to settle a lawsuit brought by three Jewish UCLA students and a professor who alleged they faced antisemitism during the Palestine solidarity encampment in the spring of last year. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/29/uc-to-pay-6-45m-to-settle-antisemitism-lawsuit-over-pro-palestine-encampment/>
+
+---
+
+## A chicken for The New York Times, a star for Bloomberg: A new “Media Capitulation Index” ranks large media and tech companies
+
+date: 2025-07-29, from: Nieman Journalism Lab
+
+What’s the best scale for measuring independence — or lack thereof — in 2025? The media advocacy group Free Press (not to be confused with the Bari Weiss publication by the same name) decided the answer was “chickens.” The organization&#8217;s pointed new “Media Capitulation Index,” out Tuesday, ranks the 35 largest commercial media and tech companies... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/a-chicken-for-the-new-york-times-a-star-for-bloomberg-a-new-media-capitulation-index-calls-out-dozens-of-the-largest-media-and-tech-companies/>
 
 ---
 

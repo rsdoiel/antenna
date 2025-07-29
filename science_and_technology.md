@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-07-29 06:09:13
+updated: 2025-07-29 14:07:31
 ---
 
 # science and technology
 
-(date: 2025-07-29 06:09:13)
+(date: 2025-07-29 14:07:31)
+
+---
+
+## US agencies log nearly 9x more GenAI use cases in 2024 - but deployments stall
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Strict regulations, lack of funding, and hallucinations remain hurdles to implementation</h4> <p>US federal government agencies have identified a surge in AI use cases over the past year. But rolling them out? That&#39;s where things slow down, thanks to funding gaps, compute shortages, outdated policies, and a workforce still playing catch-up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/us_government_identified_ai_use/>
+
+---
+
+## NASA Selects Firefly for New Artemis Science, Tech Delivery to Moon
+
+date: 2025-07-29, from: NASA breaking news
+
+NASA has awarded Firefly Aerospace of Cedar Park, Texas, $176.7 million to deliver two rovers and three scientific instruments to the lunar surface as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign to explore more of the Moon than ever before. This delivery is the first time NASA will use [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-selects-firefly-for-new-artemis-science-tech-delivery-to-moon/>
+
+---
+
+## FBI: Watch out for these signs Scattered Spider is spinning its web around your org
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>New malware, even better social engineering chops</h4> <p>The FBI and a host of international cyber and law enforcement agencies on Tuesday warned that Scattered Spider extortionists have changed their tactics and are now breaking into victims&#39; networks using savvier social engineering techniques, searching for organizations&#39; Snowflake database credentials, and deploying a handful of new ransomware variants, most recently DragonForce.  …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/fbi_scattered_spider_alert/>
+
+---
+
+## Devs are frustrated with AI coding tools that deliver nearly-right solutions
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Vibe coding is right out, say most respondents in Stack Overflow survey</h4> <p>According to a new survey of worldwide software developers released on Tuesday, nearly all respondents are incorporating AI tools into their coding practices — but they&#39;re not necessarily all that happy about it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/coders_are_using_ai_tools/>
+
+---
+
+## US sends 33,000 smart 'strike kits' to make Ukrainian drones even deadlier
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Auterion CEO explains how autonomy will change the face of warfare</h4> <p><strong>interview</strong>  The war in Ukraine is increasingly becoming a battle of drones, and defense software firm Auterion has just won a $50 million Pentagon contract to supply 33,000 AI-powered “strike kits” that aim to augment Ukrainian UAVs and push them to the front lines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/auterion_drone_ai_ceo_interview/>
+
+---
+
+## Waymo plots Dallas robotaxi launch, stays ahead of Tesla in Texas turf war
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Alphabet’s driverless darling taps Avis to manage the fleet for 2026 debut</h4> <p>With Tesla horning in on its Texas territory, robotaxi outfit Waymo has decided to expand to a new city in the Lone Star state: Dallas. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/waymo_to_expand_dallas/>
+
+---
+
+## Windows 10 turns 10: Dying OS just worked, lacked compatibility chaos
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Redmond’s last mostly sane OS nears end-of-life as AI nags take over</h4> <p>It has been ten years since Microsoft made Windows 10 generally available. With mere months left until the plug is unceremoniously pulled on support for many versions, let&#39;s take a look at how the last decade went for the one-time flagship operating system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/10_years_of_windows_10/>
+
+---
+
+## Adam and Hirsa Present Research on the Ring-Sheared Drop
+
+date: 2025-07-29, from: NASA breaking news
+
+Researchers across Space Biology and Physical Sciences come together for a special presentation at the May PSI Users Group. The Ring-Sheared Drop (RSD) is a Microgravity Science Glovebox experiment that launched in July 2019 to the ISS to study shearing flow in the absence of solid walls. The major goals of this project were to […] 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/adam-and-hirsa-present-research-on-the-ring-sheared-drop/>
+
+---
+
+## US science left out in the cold amid plans to retire Antarctic icebreaker
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Another week, another protest over budget proposals</h4> <p>A letter protesting the imminent demise of US research vessel and icebreaker the Nathaniel B. Palmer was this week sent to the National Science Foundation (NSF) amid proposed funding reductions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/us_icebreaker_funding/>
+
+---
+
+## Blender 3D app suite could touch down on tablets, starting with iPad
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Some users keen while others point out pile of unresolved bugs in core product</h4> <p>The open source Blender 3D editing suite may be adapted to run on Apple&#39;s iPad and other tablets, despite concern from one contributor that the team is already stretched with &#34;thousands of bugs languishing in the tracker.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/blender_3d_app_tablet/>
+
+---
+
+## NASA Drop Test Supports Safer Air Taxi Designs
+
+date: 2025-07-29, from: NASA breaking news
+
+As the aviation industry works to design air taxis and other new electric aircraft, there’s&#160;a growing need to understand how the materials behave. That’s why&#160;NASA is investigating potential air taxi materials and designs to best protect passengers in the event of a crash. On June 26, 2025, at NASA&#8217;s&#160;Langley Research Center&#160;in Hampton, Virginia, researchers dropped [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-drop-test-supports-safer-air-taxi-designs/>
+
+---
+
+## Linux kernel 6.16 lands without any headline features but 38M lines of code
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Mostly minor changes under the hood – a lot of them</h4> <p>Over the weekend, the world&#39;s most famous Finn pushed out the latest version of the Linux kernel – and warned of upcoming disruption.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/linux_kernel_616/>
+
+---
+
+## Cape Canaveral marks 75 years since its first rocket launch
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Bumper&#39;s 1950 liftoff paved way for thousands of missions from iconic spaceport</h4> <p>It is 75 years since the first rocket launch from Cape Canaveral: a two-stage rocket consisting of a German V-2 missile and a US sounding rocket.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/first_rocket_cape_canaveral/>
+
+---
+
+## NASA Astronaut Kate Rubins, First to Sequence DNA in Space, Retires
+
+date: 2025-07-29, from: NASA breaking news
+
+NASA astronaut and microbiologist Kate Rubins retired Monday after 16 years with the agency. During her time with NASA, Rubins completed two long-duration missions aboard the International Space Station, logging 300 days in space and conducting four spacewalks. “I want to extend my sincere gratitude to Kate for her dedication to the advancement of human spaceflight,” [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-kate-rubins-first-to-sequence-dna-in-space-retires/>
+
+---
+
+## Raspberry Pi RP2350 A4 update fixes old bugs and dares you to break it again
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>5 V-tolerant GPIO opens the way to some intriguing retro-nerdery</h4> <p>The Raspberry Pi team has released an update to the RP2350 microcontroller with bug fixes, hardening, and a GPIO tweak that will delight retro hardware enthusiasts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/raspberry_pi_rp2350_update/>
 
 ---
 
@@ -227,7 +407,7 @@ NASA has selected Barrios Technology, LLC, in Houston to provide technical integ
 
 ## Tom Lehrer: Satirist, mathematician, inventor of the Jello shot
 
-date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
+date: 2025-07-28, updated: 2025-07-29, from: The Register (UK I.T. News)
 
 <h4>The greatest mathematician-cum-singer-songwriter of all time</h4> <p><strong>Obituary</strong>  The field of satirists and hit singer-songwriters who were also professional mathematicians and lecturers is a very small one, and as such, we feel sure Tom Lehrer was the greatest who ever lived… And he also invented the modern Jell-O shot.…</p> 
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-29 06:09:17
+updated: 2025-07-29 14:07:35
 ---
 
 # libraries
 
-(date: 2025-07-29 06:09:17)
+(date: 2025-07-29 14:07:35)
 
 ---
 
@@ -250,6 +250,18 @@ Nisi, A. Valentina; Arnold, Myrtha M.L.; Blonde, Ginger D.; Schier, Lindsey A.; 
 
 ---
 
+## The Spy in Black, by J. Storer Clouston
+
+date: 2025-07-29, from: Standard Ebooks, new releaases
+
+A German submarine officer risks his life liaising with British informers during the First World War. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-storer-clouston/the-spy-in-black>
+
+---
+
 ## Guest Post – Metrics Sonification of Team Size Effects on Disruptive Research
 
 date: 2025-07-29, from: Scholarly Kitchen
@@ -268,7 +280,7 @@ date: 2025-07-29, from: Scholarly Kitchen
 
 date: 2025-07-28, from: Association of Research Libraries News
 
-<p>Last Updated on July 28, 2025, 3:52 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 29 &#124; Wednesday, July 30 &#124; Thursday,...</p>
+<p>Last Updated on July 29, 2025, 3:46 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 29 &#124; Wednesday, July 30 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-28-31/">Day in Review (July 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

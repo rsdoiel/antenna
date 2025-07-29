@@ -1,11 +1,95 @@
 ---
 title: food
-updated: 2025-07-29 06:09:20
+updated: 2025-07-29 14:07:38
 ---
 
 # food
 
-(date: 2025-07-29 06:09:20)
+(date: 2025-07-29 14:07:38)
+
+---
+
+## The Best Coffee and Tea Shops in LA's Koreatown
+
+date: 2025-07-29, from: Bon Appetet
+
+Cold brew, colorful matcha, and relaxed environs reign supreme. 
+
+<br> 
+
+<https://www.bonappetit.com/story/story/best-coffee-shops-in-los-angeles-koreatown>
+
+---
+
+## What is a ‘Light Roast?’ Researchers Outline Vision for a Universal Standard
+
+date: 2025-07-29, from: Daily Coffee News
+
+<div><img width="620" height="395" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-620x395.jpg" class="attachment-large size-large wp-post-image" alt="coffee roasted color" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-620x395.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-768x490.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color.jpg 916w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers affiliated with the UC Davis Coffee Center published groundbreaking findings that may be used by the Specialty Coffee Association to codify how coffee roasters and retailers measure and communicate... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/29/what-is-a-light-roast-researchers-outline-vision-for-a-universal-standard/>
+
+---
+
+## Best Healthy Snacks to Buy Online That Actually Taste Good (2025)
+
+date: 2025-07-29, from: Bon Appetet
+
+Extra crunchy almonds, chili limón puffs, and the very best kiwis. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-healthy-snacks>
+
+---
+
+## Tangy Grilled Pineapple Chicken
+
+date: 2025-07-29, from: Taste of Home
+
+This juicy grilled pineapple chicken recipe brings summery, tropical flavor to the table. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tangy-grilled-pineapple-chicken/>
+
+---
+
+## Nespresso Pledges $500,000 for Café Joyeux Expansion in the U.S.
+
+date: 2025-07-29, from: Daily Coffee News
+
+<div><img width="620" height="366" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-620x366.jpeg" class="attachment-large size-large wp-post-image" alt="Cafe Joyeux" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-620x366.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-300x177.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-150x89.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-768x453.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Nestlé-owned coffee giant Nespresso is pledging a minimum of $500,000 for the expansion of Café Joyeux in the United States. The French-born coffee shop brand, founded in 2017, promotes... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/29/nespresso-pledges-500000-for-cafe-joyeux-expansion-in-the-u-s/>
+
+---
+
+## Is Matcha a Healthier Alternative to Coffee? Here’s What You Need to Know
+
+date: 2025-07-29, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-620x349.jpg" class="attachment-large size-large wp-post-image" alt="matcha latte" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Matcha, with its vibrant green hue and&#160;centuries-old tradition, is often celebrated as a health boosting superfood. But what exactly sets it apart from regular green tea, or even your morning... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/29/is-matcha-a-healthier-alternative-to-coffee-heres-what-you-need-to-know/>
+
+---
+
+## Ready To Drink: The New Espresso Spritz From Caffe Umbria
+
+date: 2025-07-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The canned Espresso Spritz from Caffe Umbria. 
+
+<br> 
+
+<https://sprudge.com/ready-to-drink-the-new-espresso-spritz-from-caffe-umbria-381601.html>
 
 ---
 
@@ -251,7 +335,7 @@ date: 2025-07-28, from: The Sprudge
 
 date: 2025-07-28, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Muungano Cooperative Photo Sighted Design African Coffee Connect" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee buyers in the United States will have the rare opportunity next month to taste and potentially buy high-quality, fully traceable microlots of green coffee from the Democratic Republic... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Muungano Cooperative Photo Sighted Design African Coffee Connect" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Muungano-Cooperative-Photo-Sighted-Design-African-Coffee-Connect.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Green coffee buyers in the United States will have the rare opportunity next month to taste and potentially buy high-quality, fully traceable microlots of green coffee from the Democratic Republic... 
 
 <br> 
 
@@ -315,7 +399,7 @@ This is how you transform a bad rosé into something bubbly and palatable.
 
 date: 2025-07-28, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-620x414.jpg" class="attachment-large size-large wp-post-image" alt="pourover brewing" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A recent study from a team at the University of Pennsylvania proposes a small tweak to pourover brewing that maintains optimal extraction yield and flavor while requiring less coffee. In... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-620x414.jpg" class="attachment-large size-large wp-post-image" alt="pourover brewing" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/pourover-brewing.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A recent study from a team at the University of Pennsylvania proposes a small tweak to pourover brewing that maintains optimal extraction yield and flavor while requiring less coffee. In... 
 
 <br> 
 
@@ -442,4 +526,20 @@ Like an everything-bagel-inspired quiche, seaweed-filled morning buns, and prote
 <br> 
 
 <https://www.bonappetit.com/gallery/savory-breakfast-ideas-recipes>
+
+---
+
+## Summer Appetizers
+
+date: 2025-07-27, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/08/Summer-Appetizer-Recipes.jpg"/></div>
+<p>The best recipes summer appetizer and snacks that are perfect for hot summer days, eating outdoors, picnics, etc. With the warmer days here it&#8217;s always nice to have a list of goto snack or appetizer recipes on hand so that you are ready for any out doors events like barbecues, picnics, trips to the park,...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/summer-appetizers/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/summer-appetizers/">Summer Appetizers</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/summer-appetizers/>
 

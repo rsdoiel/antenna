@@ -1,11 +1,241 @@
 ---
 title: columns
-updated: 2025-07-29 06:09:14
+updated: 2025-07-29 14:07:32
 ---
 
 # columns
 
-(date: 2025-07-29 06:09:14)
+(date: 2025-07-29 14:07:32)
+
+---
+
+## Sony Sues Tencent for Allegedly Ripping Off ‘Horizon’ Video Games
+
+date: 2025-07-29, updated: 2025-07-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/legal/litigation/sony-sues-tencent-allegedly-ripping-off-horizon-video-games-2025-07-28/>
+
+---
+
+##  I&#8217;m Giving My Kids a &#8217;90s Summer — the 1890s. &#8220;Just like... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047223-im-giving-my-kids-a>
+
+---
+
+## Apologize to customers
+
+date: 2025-07-29, from: Dave Winer's Scripting News
+
+<p><a href="https://bsky.app/profile/kevinkelly.bsky.social/post/3lv4vlgcpkp22">Kevin Kelly writes</a>: "When a customer of yours complains, always apologize first and ask, 'What can we do to resolve this?' even if it is not your fault. Acting as if the customer is right is a small tax to pay to grow a business."</p>
+<p>Amen. Google sent an email saying my Google Fi account was going to be cancelled if i didn't do something, so I clicked the link, everything looked fine. They sent more emails like this, again everything seemed in order. I contacted them via support (hard to find) and they said everything looked fine. They also said I should be sure there was enough credit in the account. I wrote back saying that was insulting, I've been a customer for a long time, and have never missed a payment, and they should apologize for the threats and wasted time. I got back a <a href="https://imgs.scripting.com/2025/07/29/googleFiLotsOfWords.png">long email</a> that did everything but apologize. They also threw in a little gaslighting, talking about my emotional state (frustrated, unsettled). Companies aren't allowed to have opinions about customers' emotions, esp over email.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/07/29/googleNeedsHelpWithThis.png"></center>Google needs to take a basic lesson in how to treat customers. </div></p>
+<p>PS: My feeling was more <i>surprise</i> that Google, a large company with billions of users and millions of customers couldn't get something this simple right. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/07/29/202823.html?title=apologizeToCustomers>
+
+---
+
+## The E-Book Editions of Timothy Snyder’s ‘On Tyranny’ Are Just $2
+
+date: 2025-07-29, updated: 2025-07-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://books.apple.com/us/book/on-tyranny/id1195458571>
+
+---
+
+##  Macbook Air M4s Are on Sale 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/macbook-air-m4s-are-on-sale>
+
+---
+
+##  Video Mashup Tribute to Ozzy Osbourne 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/video-mashup-tribute-to-ozzy-osbourne>
+
+---
+
+##  Auto? Polo! Auto? Polo! Auto? Polo! Photographs of Auto Polo (ca. 1912).... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047224-auto-polo-auto-polo-auto>
+
+---
+
+##  XKCD: Kite Incident. &#8220;I don&#8217;t know. Lemme look up a map of... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047239-xkcd-kite-incident-i-dont>
+
+---
+
+## Amazon Is Selling M4 MacBook Airs for $200 Off
+
+date: 2025-07-29, updated: 2025-07-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://amzn.to/4fdd0gN>
+
+---
+
+##  Oooh, George Saunders&#8217; next novel comes out in January. &#8220;Vigil transports us,... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047237-ooh-george-saunders-next->
+
+---
+
+## Recording vintage CRTs with a modern Sony mirrorless camera
+
+date: 2025-07-29, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Recording vintage CRTs with a modern Sony mirrorless camera</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Growing up, I remember recording CRTs with <em>any</em> camera was an exercise in frustration. You would either get a black bar that goes across everything, a slowly moving 'shutter' of darkness over the screen, black frame flickering, or even a variety of bright artifacts, especially when moving the camera around.</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/mac-classic-crt-line-recording.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-3a9e56b7-866b-43e0-a82d-b00fec535cca" data-insert-attach="{&quot;id&quot;:&quot;3a9e56b7-866b-43e0-a82d-b00fec535cca&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Mac Classic CRT with flicker line"></p>
+
+<p>Just setting your camera's shutter speed to match the refresh rate <em>somewhat</em> closely is usually enough to make it at least bearable (I start at 1/60th and see what looks least annoying).</p>
+
+<p>But I recently discovered, while recording an old Macintosh Classic's CRT, that my Sony A7CII has a built-in anti-flicker feature that's... actually amazing.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-07-29T11:14:28-05:00" title="Tuesday, July 29, 2025 - 11:14" class="datetime">July 29, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/recording-vintage-crts-modern-sony-mirrorless-camera>
+
+---
+
+## Microsoft Introduces ‘Copilot Mode’ in Edge
+
+date: 2025-07-29, updated: 2025-07-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blogs.windows.com/msedgedev/2025/07/28/introducing-copilot-mode-in-edge-a-new-way-to-browse-the-web/>
+
+---
+
+##  Science Is Winning the Tour de France. Data, nutrition, equipment, and training... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047231-science-is-winning-the-to>
+
+---
+
+## Google Chrome Adds AI-Generated Store Summaries
+
+date: 2025-07-29, updated: 2025-07-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/07/28/google-chrome-adds-ai-powered-store-summaries-to-help-u-s-shoppers/>
+
+---
+
+## Linux kernel 6.16 lands without any headline features but 38M lines of code
+
+date: 2025-07-29, updated: 2025-07-29, from: Liam Proven's articles at the Register
+
+<h4>Mostly minor changes under the hood – a lot of them</h4>
+      <p>Over the weekend, the world&#39;s most famous Finn pushed out the latest version of the Linux kernel – and warned of upcoming disruption.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/29/linux_kernel_616/>
+
+---
+
+##  The Set Design of Sesame Street (Feat. Jane Jacobs) 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/the-set-design-of-sesame-street-feat-jane-jacobs>
+
+---
+
+##  An analysis of every word that&#8217;s visible on NYC&#8217;s streets (from 18... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047225-an-analysis-of-every-word>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Back to school: Xogot for Students.</p><p><a href="https://blog.la-terminal.net/xogot-for-students/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/xogot-for</span><span class="invisible">-students/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114936848963499968>
 
 ---
 

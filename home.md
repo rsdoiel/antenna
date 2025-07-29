@@ -1,11 +1,145 @@
 ---
 title: home
-updated: 2025-07-29 06:09:17
+updated: 2025-07-29 14:07:35
 ---
 
 # home
 
-(date: 2025-07-29 06:09:17)
+(date: 2025-07-29 14:07:35)
+
+---
+
+## Did Golf Just Get Its First Good Design Object?
+
+date: 2025-07-29, from: Dwell
+
+Modular furniture maker USM has partnered with Head Golf on a putting green that you’ll actually want to look at. 
+
+<br> 
+
+<https://www.dwell.com/article/head-golf-usm-putting-green-haller-shelving-system-6461f8af>
+
+---
+
+## Microsoft and Mercedes Want You to Work More—Even While Driving
+
+date: 2025-07-29, from: Family Handyman Blog
+
+<p>Working remote might soon include working from your car. Mercedes-Benz is working with Microsoft to add Teams to their cars. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/mercedes-benz-microsoft-teams-partnership/">Microsoft and Mercedes Want You to Work More—Even While Driving</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/mercedes-benz-microsoft-teams-partnership/>
+
+---
+
+## This $1.7M Oregon Midcentury Had a Cameo in "Portlandia"
+
+date: 2025-07-29, from: Dwell
+
+Architect Paul McKean revamped the 1964 residence with a skylit central staircase and screens that cast intricate shadows throughout the day. 
+
+<br> 
+
+<https://www.dwell.com/article/leedy-house-paul-mckean-midcentury-oregon-real-estate-b0589b79>
+
+---
+
+## 11 of the Best Types of Pachyveria Succulents
+
+date: 2025-07-29, from: The Gardener's Path
+
+<p>Pachyverias are hybrids that offer succulent collectors diverse leaf shapes, colors, and growth habits. From chunky forms with striking rosettes to trailing varieties, and those with fingerlike foliage, each variety brings something special to any collection. Discover 11 of the best pachyveria varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/best-pachyveria-varieties/">11 of the Best Types of Pachyveria Succulents</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/best-pachyveria-varieties/>
+
+---
+
+## Costs To Clear And Develop Land: What To Know Before You Buy
+
+date: 2025-07-29, from: The Tiny Life blog
+
+<p>Buying land is exciting — up until you realize that dream lot doesn't come equipped with access roads, power, plumbing, or a place to build your home.</p>
+<p>The post <a href="https://thetinylife.com/costs-to-develop-land/">Costs To Clear And Develop Land: What To Know Before You Buy</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/costs-to-develop-land/>
+
+---
+
+## Half-Moon Cutouts Cast Dramatic Light Across This Concrete Home in Tokyo
+
+date: 2025-07-29, from: Dwell
+
+Sun shining through semicircles at opposite ends of the living space creates a larger-than-life display on the 20-foot walls. 
+
+<br> 
+
+<https://www.dwell.com/article/yayoi-house-takeshi-hosaka-architects-brutalist-home-tall-ceilings-e33f01da>
+
+---
+
+## Everything You Must Know About Mountain Lions in Missouri
+
+date: 2025-07-29, from: Yard Life blog
+
+<p>Mountain lions, also known as cougars, pumas, or panthers, have long fascinated and frightened people across North America. In Missouri, ... </p>
+<p class="read-more-container"><a title="Everything You Must Know About Mountain Lions in Missouri" class="read-more button" href="https://ownyardlife.com/everything-you-must-know-about-mountain-lions-in-missouri/#more-32686" aria-label="Read more about Everything You Must Know About Mountain Lions in Missouri">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/everything-you-must-know-about-mountain-lions-in-missouri/">Everything You Must Know About Mountain Lions in Missouri</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/everything-you-must-know-about-mountain-lions-in-missouri/>
+
+---
+
+## Homestead, Farmstead, Or Hobby Farm: Which Is Right For You?
+
+date: 2025-07-29, from: The Tiny Life blog
+
+<p>When it comes to rural or agrarian living, three options reign supreme: hobby farms, homesteads, and farmsteads.</p>
+<p>The post <a href="https://thetinylife.com/homestead-farmstead-or-hobby-farm/">Homestead, Farmstead, Or Hobby Farm: Which Is Right For You?</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/homestead-farmstead-or-hobby-farm/>
+
+---
+
+## 32 Small Birds in Oregon (With Pictures and Identification)
+
+date: 2025-07-29, from: Yard Life blog
+
+<p>Oregon is home to a rich variety of small birds that brighten forests, parks, and backyards throughout the year. From ... </p>
+<p class="read-more-container"><a title="32 Small Birds in Oregon (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/32-small-birds-in-oregon-with-pictures-and-identification/#more-32676" aria-label="Read more about 32 Small Birds in Oregon (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/32-small-birds-in-oregon-with-pictures-and-identification/">32 Small Birds in Oregon (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/32-small-birds-in-oregon-with-pictures-and-identification/>
+
+---
+
+## How They Pulled It Off: A Glittering Snake Mosaic Fireplace in a Whimsical Parisian Apartment
+
+date: 2025-07-29, from: Dwell
+
+"I really wanted to explore this animal and the pattern and the curve," says the designer of the feature that became the centerpiece of the renovation. 
+
+<br> 
+
+<https://www.dwell.com/article/claves-architecture-hugo-marchand-55420877>
 
 ---
 
@@ -21,6 +155,66 @@ date: 2025-07-29, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/21-dragonflies-in-michigan-with-pictures-and-identification/>
+
+---
+
+## Now, You Can ‘Ride’ Classic Disneyland Rides at Home
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+Can't make it to Disneyland? Disney+ is offering subscribers a way to experience popular rides through POV videos. 
+
+<br> 
+
+<https://www.sunset.com/travel/disney-plus-disneyland-rides-pov>
+
+---
+
+## This Is the Coolest Design Feature You Could Have This Summer
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+The coolest outdoor feature you could have is not a kitchen or stylish furniture, for designers, it's an outdoor shower. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/outdoor-shower-ideas>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+Hotels, National Parks 3 National Park Resorts and Experiences That Are Like Traveling Back in Time Here’s where in the West to go to get a taste of a more gracious era of travel, and to see&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 3 National Park Resorts and Experiences That Are Like Traveling Back in Time
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+Here are the historic national park hotels and experiences to go to get a taste of a more gracious era of travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/historic-national-park-hotels>
+
+---
+
+## These Are the Perfect Wine and Cheese Pairings, According to Chefs
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+For your next wine and cheese night, check out these delicious pairings recommended by chefs and other experts. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/best-wine-and-cheese-pairings>
 
 ---
 
@@ -227,18 +421,6 @@ date: 2025-07-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/are-there-scorpions-in-tennessee-facts-that-may-surprise-you/>
-
----
-
-## Homepage 2025
-
-date: 2025-07-28, from: Sunset Magazine - Living in the West
-
-Hotels, National Parks This Historic A-List Death Valley Resort Is the Ultimate Luxe Oasis Getaway Historic charm and desert adventure converge at the newly restored Oasis at Death Valley.  Read more:&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

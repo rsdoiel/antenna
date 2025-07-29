@@ -1,11 +1,40 @@
 ---
 title: writing
-updated: 2025-07-29 06:09:15
+updated: 2025-07-29 14:07:33
 ---
 
 # writing
 
-(date: 2025-07-29 06:09:15)
+(date: 2025-07-29 14:07:33)
+
+---
+
+## Dive Deeper: What Is Theme in Film?
+
+date: 2025-07-29, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/dive-deeper-what-is-theme-in-film" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Daniel%20Day-Lewis%20in%20There%20Will%20Be%20Blood.png" alt="Daniel Day-Lewis smokes a pipe while observing a fire of in the distance in There Will Be Blood" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<h2>What Is Theme in Writing?</h2> 
+<p>A theme is the underlying message or larger idea that a piece of writing is conveying. Themes in stories are often associated with a moral or the reader’s takeaway from what has occurred in the narrative. However, a theme can sometimes simply reflect some truth or observation about life and society without any judgement.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/dive-deeper-what-is-theme-in-film>
+
+---
+
+## We Wrote a Book!
+
+date: 2025-07-29, from: John August blog
+
+<p>The Scriptnotes Book is real, and now available for preorder! John and Craig take a look through its 335 pages to explore the topics, guests and deep-dives we’ve assembled from over 1,000 hours of this podcast, creating what is sure to be your favorite bathroom book. Then it’s another round of How Would This Be [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/we-wrote-a-book">We Wrote a Book!</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/we-wrote-a-book>
 
 ---
 

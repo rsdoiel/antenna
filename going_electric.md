@@ -1,11 +1,247 @@
 ---
 title: going electric
-updated: 2025-07-29 06:09:19
+updated: 2025-07-29 14:07:37
 ---
 
 # going electric
 
-(date: 2025-07-29 06:09:19)
+(date: 2025-07-29 14:07:37)
+
+---
+
+## Tesla is considering building a smaller pickup truck after the Cybertruck failed
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla is considering building a smaller pickup truck after the Cybertruck has officially become a complete commercial flop.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="427250" href="https://electrek.co/2025/07/29/tesla-building-smaller-pickup-truck-after-cybertruck-failed/#more-427250" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/tesla-building-smaller-pickup-truck-after-cybertruck-failed/>
+
+---
+
+## Energy Dept’s own numbers say today’s rollback would raise fuel costs by 76c/gal
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/gas-prices-trump-v-biden.png?w=1600" /></div><p>The Environmental Protection Agency today <a href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/">announced plans to roll back</a> the scientific finding that climate change harms humans, with the intent to also rollback regulations that make cars more efficient. But this will also raise your fuel costs by $.76/gallon, according to the very same people who made today’s announcement.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="department-of-energy,epa,oil-prices" data-layer-viewtype="unknown" data-post-id="427249" href="https://electrek.co/2025/07/29/energy-depts-own-numbers-say-todays-rollback-would-raise-fuel-costs-by-76c-gal/#more-427249" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/energy-depts-own-numbers-say-todays-rollback-would-raise-fuel-costs-by-76c-gal/>
+
+---
+
+## Audi has a new EV coming that’s ‘something in between’ the TT and R8
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Audi-EV-TT-R8-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s not the TT or R8, but <a href="https://electrek.co/guides/audi/">Audi</a> is promising its new EV will be “something in between” the two icons. Here’s what we know about the upcoming electric sports car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi" data-layer-viewtype="unknown" data-post-id="427233" href="https://electrek.co/2025/07/29/audi-new-ev-in-between-tt-and-r8/#more-427233" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/audi-new-ev-in-between-tt-and-r8/>
+
+---
+
+## The U.S. Can ‘Absolutely’ Break Its EV Battery Dependence From China
+
+date: 2025-07-29, from: Inside EVs News
+
+Panasonic says the U.S. has a chance to become the “front-runner” in locally produced electric vehicle batteries. 
+
+<br> 
+
+<https://insideevs.com/news/767364/panasonic-battery-dependence-from-china/>
+
+---
+
+## EPA’s chief saboteur, Lee Zeldin, announces plan to delete climate science
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>In an Orwellian move, the Chief Saboteur of the Environmental Protection Agency, oil industry plant Lee Zeldin announced plans to delete the EPA’s endangerment finding today, which is the EPA’s official finding recognizing the scientific reality that climate change is harmful to human health. And he’s doing it so he can raise your fuel costs, letting the oil industry extract more money from your already-strained pocketbook.</p>
+
+
+
+<p>(<em><strong>Update:</strong></em> Even the Energy Department’s own numbers acknowledge this rollback will cost you money, in the form of <a href="https://electrek.co/2025/07/29/energy-depts-own-numbers-say-todays-rollback-would-raise-fuel-costs-by-76c-gal/">higher gas prices by $.76/gal</a>)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="427208" href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/#more-427208" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/>
+
+---
+
+## Navee flagship ST3 Pro smart e-scooter at $684, Aiper HydroComm pool monitor $250 low, Heybike Back to School sale, more
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Navee-ST3-Pro-Electric-Scooter-FI-3-e1753808236116.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/07/29/navee-st3-pro-electric-scooter-684/">Navee’s new flagship ST3 Pro Electric Scooter</a> that comes packed with an amazing array of features at <a href="https://9to5toys.com/2025/07/29/navee-st3-pro-electric-scooter-684/">$684</a> right now. We also have <a href="https://9to5toys.com/2025/07/28/aiper-hydrocomm-smart-5-in-1-monitor-250-low/">Aiper’s HydroComm Smart Solar Pool Monitor</a> hitting a <a href="https://9to5toys.com/2025/07/28/aiper-hydrocomm-smart-5-in-1-monitor-250-low/">second-ever $250 low</a>, as well as <a href="https://9to5toys.com/2025/07/29/heybike-early-access-back-to-school-sale-from-999/">Heybike’s early access Back to School sale</a> with up to $698 in e-bike savings <a href="https://9to5toys.com/2025/07/29/heybike-early-access-back-to-school-sale-from-999/">starting from $999</a>. We also have an 80V Greenworks mower deal, a one-day-only discount on Anker’s SOLIX C300X DC Power Station, and more waiting for you below. Plus, all the hangover savings at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/07/25/segway-xafari-e-bike-red-2000-low/">Segway Xafari Red e-bike</a> low price, the exclusive savings on a <a href="https://9to5toys.com/2025/07/28/exclusive-refurbished-anker-solix-f3800-station-1763/">refurbished Anker SOLIX F3800 power station</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="427197" href="https://electrek.co/2025/07/29/navee-st3-pro-scooter-aiper-heybike-more/#more-427197" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/navee-st3-pro-scooter-aiper-heybike-more/>
+
+---
+
+## This $10,000 EV outsold the BYD Seagull and Tesla Model Y in China
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/10000-EV-outsold-BYD-Tesla-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The best-selling vehicle in China, EV or gas-powered, in the first half of 2025 was not the BYD Seagull or <a href="https://electrek.co/guides/tesla-model-y/">Tesla Model Y</a>. It was actually the Geely Xingyuan. AKA the “Star Wish,” Geely’s EV topped the sales charts with prices starting under $10,000 in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,geely" data-layer-viewtype="unknown" data-post-id="427193" href="https://electrek.co/2025/07/29/10000-ev-outsold-byd-seagull-and-tesla-model-y/#more-427193" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/10000-ev-outsold-byd-seagull-and-tesla-model-y/>
+
+---
+
+## The Tesla Cybertruck May Get A Little Brother
+
+date: 2025-07-29, from: Inside EVs News
+
+The big Cybertruck isn’t doing so great. Tesla is considering making a smaller one, engineering boss Lars Moravy said recently. 
+
+<br> 
+
+<https://insideevs.com/news/767360/smaller-tesla-cybetruck-under-consideration/>
+
+---
+
+## Lucid gets Lisan al-Gaib: Timothée Chalamet becomes Global Brand Ambassador
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lucid-Motors-timothee-chalamet.png?w=1600" /></div><p>Lucid Group announced that it has signed an agreement with Timothée Chalamet to be its first ‘Global Brand Ambassador’.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-motors" data-layer-viewtype="unknown" data-post-id="427192" href="https://electrek.co/2025/07/29/lucid-gets-lisan-al-gaib-timothee-chalamet-becomes-global-brand-ambassador/#more-427192" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/lucid-gets-lisan-al-gaib-timothee-chalamet-becomes-global-brand-ambassador/>
+
+---
+
+## Waymo announces expansion in Dallas, partners with Avis
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Waymo-Avis-Dallas.png?w=1600" /></div><p>Waymo has announced an upcoming expansion in Dallas, Texas, and a new partnership with car rental giant Avis to provide fleet maintenance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="waymo" data-layer-viewtype="unknown" data-post-id="427181" href="https://electrek.co/2025/07/29/waymo-announces-expansion-in-dallas-partners-with-avis/#more-427181" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/waymo-announces-expansion-in-dallas-partners-with-avis/>
+
+---
+
+## Toyota will build EVs in Europe for the first time, starting with electric SUVs and crossovers
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Toyota-new-EVs-2027.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> is now planning to build EVs in Europe with a wave of new electric SUVs and crossovers launching soon.  The company is preparing its Czech plant to produce up to 100,000 electric vehicles a year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="427175" href="https://electrek.co/2025/07/29/toyota-build-evs-in-europe-first-time-starting-with-suvs/#more-427175" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/toyota-build-evs-in-europe-first-time-starting-with-suvs/>
+
+---
+
+## 'Lot Of Gains' For Current EV Battery Tech Before Solid-State Batteries, Tesla's Top Engineer Says
+
+date: 2025-07-29, from: Inside EVs News
+
+Tesla's VP of vehicle engineering says lithium-ion batteries will keep improving gradually for "a long time." 
+
+<br> 
+
+<https://insideevs.com/news/767237/tesla-battery-improvements-lars-moravy/>
+
+---
+
+## Why Tesla's Original Founder Is 'Disappointed' With Its Lineup
+
+date: 2025-07-29, from: Inside EVs News
+
+Plus, these mainstream automakers implicated in China's new car padding scheme and Tesla inks new $6.5 billion deal with Samsung. 
+
+<br> 
+
+<https://insideevs.com/news/767181/tesla-eberhard-cybertruck-cheap-ev/>
+
+---
+
+## Mercedes-Benz is ready to show off the GLC EV, but that’s just the start
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Mercedes-GLC-EV-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mercedes’ best-selling SUV is about to go electric. The GLC EV will make its official debut in less than two months at IAA Mobility 2025 in Munich, where <a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> will offer a glimpse of its upcoming models and much more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="427166" href="https://electrek.co/2025/07/29/mercedes-ready-to-show-off-glc-ev-but-thats-just-the-start/#more-427166" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/mercedes-ready-to-show-off-glc-ev-but-thats-just-the-start/>
+
+---
+
+## Tesla tops 2nd Chinese self-driving test, with deadly results from some brands
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/dcar-urban-hero-e1753767204284.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese media outlet Dongchedi conducted another massive test of self-driving systems, testing many of the same cars as it did in the <a href="https://electrek.co/2025/07/26/a-chinese-real-world-self-driving-test-36-cars-216-crashes-with-tesla-on-top/">highway test we we reported on this weekend</a>.</p>
+
+
+
+<p>This time, the test covers various urban driving scenarios, where much more human carnage is possible due to the presence of vulnerable road users like pedestrians and two-wheelers. And given how poorly the cars did on the last test, you can guess how they might have done on this one – although, once again, Tesla fared rather well, but was not without issue.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="adas,full-self-driving-fsd" data-layer-viewtype="unknown" data-post-id="427097" href="https://electrek.co/2025/07/29/another-huge-chinese-self-driving-test-lawbreaking-indecision-in-urban-driving/#more-427097" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/another-huge-chinese-self-driving-test-lawbreaking-indecision-in-urban-driving/>
 
 ---
 

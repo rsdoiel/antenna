@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-07-29 06:09:18
+updated: 2025-07-29 14:07:36
 ---
 
 # motorcycles
 
-(date: 2025-07-29 06:09:18)
+(date: 2025-07-29 14:07:36)
+
+---
+
+## Polaris Debuts Value Offering With All-New Ranger 500, Everything You Need To Know
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+Polaris has unveiled an all-new Ranger 500 for 2026, and the model will cost just $9,999. Will this be just what the brand needs to pull itself out of financial uncertainty?  
+
+<br> 
+
+<https://www.rideapart.com/news/767235/2026-polaris-ranger-500-side-by-side-utv-specs-price-features/>
+
+---
+
+## Do You Think a 3D-Printed Dirtbike Is a Good Idea, Yes or Yes?
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+This 3D printing company just took their minibike to the next level: the Enduro Compo. 
+
+<br> 
+
+<https://www.rideapart.com/news/767229/pantheon-enduro-3d-printed-dirtbike/>
+
+---
+
+## This Custom Ducati Will Now Go Into Production and Can Actually Be Yours
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+The custom workshop is bringing nine of these creations to life—and they’re all for sale. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767106/custom-ducati-monster821-bandit9-custom/>
 
 ---
 

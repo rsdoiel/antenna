@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-29 06:09:18
+updated: 2025-07-29 14:07:36
 ---
 
 # retro computing
 
-(date: 2025-07-29 06:09:18)
+(date: 2025-07-29 14:07:36)
+
+---
+
+## EU Sovereign Tech Fund Gains Traction
+
+date: 2025-07-29, from: Linux Magazine
+
+<p>OpenForum Europe recently released a report regarding a sovereign tech fund with backing from several significant entities.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/EU-Sovereign-Tech-Fund-Gains-Traction>
 
 ---
 
