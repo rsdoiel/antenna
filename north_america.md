@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-07-28 14:08:07
+updated: 2025-07-29 06:09:10
 ---
 
 # north america
 
-(date: 2025-07-28 14:08:07)
+(date: 2025-07-29 06:09:10)
+
+---
+
+## Words & Phrases We Can Do Without
+
+date: 2025-07-29, from: The Contrarian
+
+&#8216;Civil commitment&#8217; means locking up people without housing 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-can-do-without-edb>
+
+---
+
+## Evening Roundup, July 28
+
+date: 2025-07-28, from: The Contrarian
+
+Featuring The Democracy Movement, Kim Lane Scheppele, "Offsides" with Pablo Torre, Jeff Nesbit, Eric Sorensen, Jen Rubin, & The Deplorable Emil Bove 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-28>
 
 ---
 

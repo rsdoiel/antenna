@@ -1,11 +1,37 @@
 ---
 title: retro computing
-updated: 2025-07-28 14:08:15
+updated: 2025-07-29 06:09:18
 ---
 
 # retro computing
 
-(date: 2025-07-28 14:08:15)
+(date: 2025-07-29 06:09:18)
+
+---
+
+## Drag'n'Drop 14i4 edition reviewed
+
+date: 2025-07-29, from: Icon Bar, RISC OS News
+
+The Summer edition of Drag'n'Drop magazine is now out (with a suitably loud cover). This edition is 51 pages of news, reviews, tools and lots of code (on yellow pages no less)! As the final edition of Volume 14 (where has the time gone), it includes an updated index including back issues. As it is a PDF you can read it on just about any system (I read it on my IPad). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2222.html>
+
+---
+
+## So I saw this headline
+
+date: 2025-07-29, from: Old Ventage Computing Research
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIvbsK6hKNOyMy8TO-WBfS2TyBWyjgSJyr_scnEHmCZQ6uTv54oQHLsW84QztI5HLZCFSHRjAx7by6vfOzPXHpHSsHpP6yJOLjoxAMb02Gxg9jXQgRNPsXYMYCWCu8GyUKdQjgO7vCcj6GUEO0vrfu1bCoUrxHu-J5N5rintCz_h0a0CfHdtMdfGNUKA4/s3582/Screenshot%202025-07-28%20at%205.54.20%E2%80%AFPM.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="2140" data-original-width="3582" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIvbsK6hKNOyMy8TO-WBfS2TyBWyjgSJyr_scnEHmCZQ6uTv54oQHLsW84QztI5HLZCFSHRjAx7by6vfOzPXHpHSsHpP6yJOLjoxAMb02Gxg9jXQgRNPsXYMYCWCu8GyUKdQjgO7vCcj6GUEO0vrfu1bCoUrxHu-J5N5rintCz_h0a0CfHdtMdfGNUKA4/s320/Screenshot%202025-07-28%20at%205.54.20%E2%80%AFPM.png"/></a></div>
+
+... and the first thing I thought <a href="https://www.sfchronicle.com/sports/49ers/article/49ers-cb-deommodore-lenoir-discusses-june-arrest-20788606.php">reading it</a> was, "Is he Deommodore 64?" (No, unfortunately, Deommodore Lenoir's <a href="https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/deommodore-lenoir-49ers-jersey-number-change/1632743/">jersey number is 2</a>, and I'm not even a 49ers fan.) 
+
+<br> 
+
+<https://oldvcr.blogspot.com/2025/07/so-i-saw-this-headline.html>
 
 ---
 

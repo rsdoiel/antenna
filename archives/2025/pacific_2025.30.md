@@ -1,11 +1,763 @@
 ---
 title: pacific
-updated: 2025-07-28 14:08:08
+updated: 2025-07-29 06:09:12
 ---
 
 # pacific
 
-(date: 2025-07-28 14:08:08)
+(date: 2025-07-29 06:09:12)
+
+---
+
+## US to allow federal workers to promote religion in workplaces
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal employees may discuss and promote their religious beliefs in the workplace, the Trump administration said on Monday, citing religious freedoms protected by the U.S. Constitution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/us-to-allow-federal-workers-to-promote-religion-in-workplaces/>
+
+---
+
+## Keaau man, 26, accused of sexually assaulting 2 minors
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>A 26-year-old Keaau man is accused of sexually assaulting two minor girls and showing them pornographic films.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/hawaii-news/keaau-man-26-accused-of-sexually-assaulting-2-minors/>
+
+---
+
+## Hilo woman free despite 20 felony charges
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>A 28-year-old Hilo woman facing 20 felony charges in connection with a rental car break-in July 21 near the Onomea Bay Trail north of Hilo is free while awaiting a preliminary hearing on Aug. 11.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/hawaii-news/hilo-woman-free-despite-20-felony-charges/>
+
+---
+
+## Man charged after allegedly setting fire at Hilo business
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>Video surveillance resulted in felony charges against a 39-year-old Hilo man accused of setting a fire Friday night at Ace Auto Glass in Hilo. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/hawaii-news/man-charged-after-allegedly-setting-fire-at-hilo-business/>
+
+---
+
+## Hilo jail escapee nabbed after nearly 9 months
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>A 31-year-old Pahoa man who, with two other men, allegedly escaped from Hale Nani Correctional Facility in a stolen vehicle last December, is back in custody after eight-and-a-half months on the lam.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/hawaii-news/hilo-jail-escapee-nabbed-after-nearly-9-months/>
+
+---
+
+## US airlines oppose new limits on facial recognition at airports
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Groups representing major U.S. airlines, travel companies and airports on Monday urged the Senate to reject a bill that would limit the ability of the Transportation Security Administration to use facial recognition software at security checkpoints. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/us-airlines-oppose-new-limits-on-facial-recognition-at-airports/>
+
+---
+
+## Trump says Rupert Murdoch should be deposed within 15 days in suit over Epstein article
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>Lawyers for President Donald Trump on Monday said that Rupert Murdoch, because of his advanced age, should be deposed within 15 days in the president&#8217;s $10 billion libel lawsuit against him and The Wall Street Journal over an article about the president&#8217;s connections with Jeffrey Epstein.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/trump-says-rupert-murdoch-should-be-deposed-within-15-days-in-suit-over-epstein-article/>
+
+---
+
+## Proposed preschool next to ‘Imiloa clears another hurdle
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>A recently released final environmental assessment for a proposed Hilo preschool for up to 80 children near the &#8216;Imiloa Astronomy Center helped guide a finalized design and an updated construction schedule for the project.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/hawaii-news/proposed-preschool-next-to-imiloa-clears-another-hurdle/>
+
+---
+
+## In fight for House, New York may follow Texas in redrawing maps
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>If Texas lawmakers follow through on President Donald Trump&#8217;s call to redraw state congressional maps to help the Republican Party, New York leaders say they want to be ready to respond in kind.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/in-fight-for-house-new-york-may-follow-texas-in-redrawing-maps/>
+
+---
+
+## News in brief for July 29
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>Search underway &#0010;in Arkansas after state park murders</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/news-in-brief-for-july-29/>
+
+---
+
+## Project 2025 architect is challenging Lindsey Graham for senate
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>The Republican architect of Project 2025 &#8212; the right-wing blueprint that Democrats made a rallying cry in the presidential election last year &#8212; is mounting a primary challenge to Sen. Lindsey Graham, R-S.C., saying he isn&#8217;t sufficiently devoted to President Donald Trump&#8217;s political movement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/project-2025-architect-is-challenging-lindsey-graham-for-senate/>
+
+---
+
+## US health chief Kennedy targets vaccine injury compensation program
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Health Secretary Robert F. Kennedy Jr. said on Monday that he will work to &#8220;fix&#8221; the program that compensates victims of vaccine injuries, the National Vaccine Injury Compensation Program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/us-health-chief-kennedy-targets-vaccine-injury-compensation-program/>
+
+---
+
+## Senator to unveil aviation safety bill on eve of fatal crash hearing
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The chair of the U.S. Senate Commerce Committee will introduce broad aviation safety legislation on Tuesday on the eve of a three-day investigative hearing into the January 29 collision between an Army helicopter and an American Airlines regional jet that killed 67 people. Senator Ted Cruz, who disclosed some details of his proposal earlier this month, will be joined by National Transportation Safety Board Chair Jennifer Homendy and Transportation Secretary Sean Duffy to discuss his proposal to require the use of ADS-B, an advanced aircraft-tracking technology, by U.S. Army helicopters near civilian planes, mandate a review of helicopter routes across the country and require the Army inspector general to review &#8220;systemic breakdowns&#8221; that may have contributed to the deadliest U.S. aviation crash in more than two decades.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/senator-to-unveil-aviation-safety-bill-on-eve-of-fatal-crash-hearing/>
+
+---
+
+## Officer killed and others are shot at Park Avenue office tower
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A gunman armed with an AR-15-style rifle walked into a midtown Manhattan skyscraper Monday evening and began firing, killing a New York City police officer, fatally shooting three other people and critically wounding a fifth victim before killing himself, officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/officer-killed-and-others-are-shot-at-park-avenue-office-tower/>
+
+---
+
+## Trump says he turned down invitation to Epstein’s island
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>EDINBURGH, Scotland &#8212; President Donald Trump said on Monday he &#8220;never had the privilege&#8221; of visiting Jeffrey Epstein&#8217;s island, saying he turned down an invitation from the convicted sex offender in what the president called a moment of good judgment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/trump-says-he-turned-down-invitation-to-epsteins-island/>
+
+---
+
+## Shooting outside casino in Reno leaves 3 victims dead, 2 critically wounded
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>A gunman armed with a pistol opened fire outside a casino in Reno, Nevada, on Monday, killing three people and critically wounding two others before he was shot and badly wounded by police, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/shooting-outside-casino-in-reno-leaves-3-victims-dead-2-critically-wounded/>
+
+---
+
+## China hold new talks on tariff truce, easing path for Trump-Xi meeting
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>STOCKHOLM &#8212; Top U.S. and Chinese economic officials met in Stockholm on Monday for more than five hours of talks aimed at resolving longstanding economic disputes at the centre of a trade war between the world&#8217;s top two economies, seeking to extend a truce by three months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/china-hold-new-talks-on-tariff-truce-easing-path-for-trump-xi-meeting/>
+
+---
+
+## Trump gives Russia less than 2 weeks to end its war in Ukraine
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Monday that he was &#8220;disappointed&#8221; with Russian President Vladimir Putin over the war in Ukraine, and said he would give Russia 10 to 12 days to end the conflict or face a new round of sanctions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/trump-gives-russia-less-than-2-weeks-to-end-its-war-in-ukraine/>
+
+---
+
+## Ceasefire takes effect between Thailand and Cambodia after five-day border battle
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>BANGKOK/PHNOM PENH &#8212; A ceasefire between Cambodia and Thailand came into effect at midnight (1700 GMT) on Monday, hours after they agreed to halt their deadliest conflict in more than a decade following five days of intense fighting that displaced over 300,000 people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/nation-world-news/ceasefire-takes-effect-between-thailand-and-cambodia-after-five-day-border-battle/>
+
+---
+
+## Rice bowls are quick on prep, easy on the wallet
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>Rice bowls topped with tasty slivers of beef, chicken, egg, tempura or seafood have ancient roots in Japan and other parts of Asia. But the hearty, one-bowl dishes are also incredibly popular on American tables, given their wide variety and ease of preparation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/features/rice-bowls-are-quick-on-prep-easy-on-the-wallet/>
+
+---
+
+## Wilson: Making food from scratch
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p>We live in a time when getting almost anything is possible. It is either available at your favorite supermarket or you can order it online. It wasn&#8217;t always that way. In the 1970s, if the market didn&#8217;t have it, you had to live without it. The attitude of the store manager was, &#8220;if we don&#8217;t have it, you don&#8217;t need it!&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/features/wilson-making-food-from-scratch/>
+
+---
+
+## Community Events:  Triple J excels in Thailand; Christmas in July at DYA; Heroes' Night at the Capitol
+
+date: 2025-07-29, from: Pacific Island Times
+
+Triple J excels in Thailand; Christmas in July at DYA; Heroes' Night at the Capitol 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-triple-j-excels-in-thailand-christmas-in-july-at-dya-heroes-night-at-the-capit>
+
+---
+
+## Mangilao lot officially rezoned to clear the way for Guam hospital project
+
+date: 2025-07-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff The target site for a new Guam hospital in Mangilao has been officially rezoned from agricultural to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/mangilao-lot-officially-rezoned-to-clear-the-way-for-guam-hospital-project>
+
+---
+
+## Betel nut shortage in Palau sparks price hikes, export ban calls
+
+date: 2025-07-29, from: Island Times
+
+<figure><img width="400" height="533" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?fit=400%2C533&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?fit=400%2C533&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79200" data-permalink="https://islandtimes.org/betel-nut-shortage-in-palau-sparks-price-hikes-export-ban-calls/img_5523/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?fit=400%2C533&amp;ssl=1" data-orig-size="400,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1753753553&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.066666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5523" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5523.jpeg?fit=400%2C533&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — A shortage of betel nuts (areca palm nuts), one of Palau’s most sought-after commodities after fuel, is driving up prices and stirring public frustration as supply falls short of growing demand. Heavy rains over the past eight to nine months have led to what farmers are calling a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/betel-nut-shortage-in-palau-sparks-price-hikes-export-ban-calls/">Betel nut shortage in Palau sparks price hikes, export ban calls</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/betel-nut-shortage-in-palau-sparks-price-hikes-export-ban-calls/>
+
+---
+
+## Mothers say Hospital rules leave them without support after birth
+
+date: 2025-07-29, from: Island Times
+
+<p>By: Faith Chen KOROR, Palau — New parents at Belau National Hospital are voicing frustration over strict visiting hour limits in the obstetrics ward, saying the policy leaves mothers without needed support in the crucial first days after childbirth. Visitation is limited to one hour each evening, from 6 to 7 p.m., a restriction first [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mothers-say-hospital-rules-leave-them-without-support-after-birth/">Mothers say Hospital rules leave them without support after birth</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/mothers-say-hospital-rules-leave-them-without-support-after-birth/>
+
+---
+
+## Senate legal opinion challenges Advisors’ role in Ministry decisions
+
+date: 2025-07-29, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau &#8211; As Whipps’ 2nd term as president continues, decisions are being made at the ministerial level by special advisors raising questions on whether special advisors or non-national officers have the authority to make binding decisions within their respective ministries. The question has been raised in the Olbiil er a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-legal-opinion-challenges-advisors-role-in-ministry-decisions/">Senate legal opinion challenges Advisors’ role in Ministry decisions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-legal-opinion-challenges-advisors-role-in-ministry-decisions/>
+
+---
+
+## Palauan’s join U.S. Military in high numbers under COFA Agreement
+
+date: 2025-07-29, from: Island Times
+
+<figure><img width="900" height="520" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?fit=900%2C520&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?resize=780%2C451&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?fit=900%2C520&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79190" data-permalink="https://islandtimes.org/palauans-join-u-s-military-in-high-numbers-under-cofa-agreement/img_5525/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?fit=900%2C520&amp;ssl=1" data-orig-size="900,520" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5525" data-image-description="" data-image-caption="&lt;p&gt;(Photo credit: US Embassy in Palau)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?fit=300%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/IMG_5525.jpg?fit=780%2C451&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang The new recruits include 10 men and six women. They took their oaths during a mass enlistment event organized by the U.S. Army Guam Recruiting Company. “On July 26, the U.S. Embassy Koror’s Office of Defense Cooperation Chief, LCDR Chris Lelah, proudly supported the U.S. Army Guam Recruiting Company in a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-join-u-s-military-in-high-numbers-under-cofa-agreement/">Palauan’s join U.S. Military in high numbers under COFA Agreement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauans-join-u-s-military-in-high-numbers-under-cofa-agreement/>
+
+---
+
+## US Department of State met Palau leaders in Washington, DC
+
+date: 2025-07-29, from: Island Times
+
+<p>By: Bernadette Carreon Last Friday, the U.S. Department of State announced that Deputy Secretary of State Christopher Landau met with Palauan President Surangel Whipps Jr.&#160; to discuss the close ties between the two countries. The press release from the US State Department said the meeting discussed “multiple areas of cooperation, including opportunities for economic development [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-department-of-state-met-palau-leaders-in-washington-dc/">US Department of State met Palau leaders in Washington, DC</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-department-of-state-met-palau-leaders-in-washington-dc/>
+
+---
+
+## Angaur Chiefs welcome talks on U.S. asylum plan, defying national leaders’ rejection
+
+date: 2025-07-29, from: Island Times
+
+<p>KOROR, Palau — The Angaur Council of Chiefs has adopted a resolution welcoming negotiation with the United States on hosting asylum seekers in their small southern state, a stance that directly conflicts with the national congress and traditional leadership, both of which have already rejected the proposal. In a resolution dated July 24, 2025, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/angaur-chiefs-welcome-talks-on-u-s-asylum-plan-defying-national-leaders-rejection/">Angaur Chiefs welcome talks on U.S. asylum plan, defying national leaders’ rejection</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/angaur-chiefs-welcome-talks-on-u-s-asylum-plan-defying-national-leaders-rejection/>
+
+---
+
+## Osebelel A Charm Animal Hospital offers Lifeline for Palau’s pets, but owners worry about costs
+
+date: 2025-07-29, from: Island Times
+
+<p>By: Laurel Marewibuel KOROR, Palau – For pet owners like Joy Yobech, Osebelel A Charm Animal Hospital has become an indispensable lifeline. “I have been bringing my pets here for years, and they have been doing very well ever since,” Yobech said. She recalled rushing her dog to the clinic two weeks ago after it [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/osebelel-a-charm-animal-hospital-offers-lifeline-for-palaus-pets-but-owners-worry-about-costs/">Osebelel A Charm Animal Hospital offers Lifeline for Palau’s pets, but owners worry about costs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/osebelel-a-charm-animal-hospital-offers-lifeline-for-palaus-pets-but-owners-worry-about-costs/>
+
+---
+
+## Palau’s passport power climbs
+
+date: 2025-07-29, from: Island Times
+
+<p>By: Bernadette Carreon The Palau passport ranking rose from 48 to 42 in the latest global powerful passports ranking, according to the 2025 Henley Passport Index (HPI), with Palauan passport holders able to travel visa-free to 123 destinations. The HPI published its update this month, listing 199 passports and a total of 227 travel destinations. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-passport-power-climbs/">Palau&#8217;s passport power climbs </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-passport-power-climbs/>
+
+---
+
+## Self-loathing, self-destruction  and addictions
+
+date: 2025-07-29, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>Self-loathing is a feeling that resembles self-hate, as it constantly pushes the idea that you&#8217;re not good enough. As a consequence, you might feel like you don&#8217;t deserve love or that&#160; things happen to you for a reason.&#160; You begin to binge on your drug of choice. My drug of choice is carb. The truth [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/self-loathing-self-destruction-and-addictions/">Self-loathing, self-destruction  and addictions</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/self-loathing-self-destruction-and-addictions/>
+
+---
+
+## Geopolitical tensions challenge Pacific regionalism
+
+date: 2025-07-29, from: Island Times
+
+<p>By Niuone Eliuta WELLINGTON (DEVPOLICY.ORG) &#8212;-The Pacific Islands Forum (PIF), a vital platform for regional cooperation, has long been a space where Pacific nations address shared challenges like climate change, economic development and cultural preservation. However, recent actions by China to undermine Taiwan’s participation — at previous Forum meetings, including the 2024 meeting in Tonga, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/geopolitical-tensions-challenge-pacific-regionalism/">Geopolitical tensions challenge Pacific regionalism</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/geopolitical-tensions-challenge-pacific-regionalism/>
+
+---
+
+## Reconsidering military exercises in Palau:
+
+date: 2025-07-29, from: Island Times
+
+<p>A Call for Peace, Protection, and Preservation As the U.S. military carries out its Exercise Resolute Force Pacific in Palau, complete with the public display of warplanes like the KC-135 Stratotanker and the F-35 Lightning II, many of us in the community are left asking: What is the real cost of this show of force? [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/reconsidering-military-exercises-in-palau/">Reconsidering military exercises in Palau:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/reconsidering-military-exercises-in-palau/>
+
+---
+
+## Palauan Youth Dive into culture, conservation, and dive certifications
+
+date: 2025-07-29, from: Island Times
+
+<figure><img width="1024" height="897" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?fit=1024%2C897&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=300%2C263&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=1024%2C897&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=768%2C673&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=1200%2C1051&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=780%2C683&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=400%2C350&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?resize=706%2C618&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?fit=1024%2C897&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79161" data-permalink="https://islandtimes.org/palauan-youth-dive-into-culture-conservation-and-dive-certifications/palauan-youth-dive-into-culture2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?fit=1249%2C1094&amp;ssl=1" data-orig-size="1249,1094" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palauan Youth Dive into Culture2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?fit=300%2C263&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/Palauan-Youth-Dive-into-Culture2.jpg?fit=780%2C683&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; July 21-26, 2025, 12 young Palauans earned their PADI Open Water and Advanced Open Water certifications through the Palau Pledge Dive Camp, a week-long program combining scuba training with hands-on science and cultural learning.&#160; The camp began with the Ministry of Agriculture, Fisheries &#38; Environment’s Division of Forest, Land and Water Management, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-youth-dive-into-culture-conservation-and-dive-certifications/">Palauan Youth Dive into culture, conservation, and dive certifications</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauan-youth-dive-into-culture-conservation-and-dive-certifications/>
+
+---
+
+## PICRC welcomes Ngirailild as the new Administrative Assistant in the Research Department
+
+date: 2025-07-29, from: Island Times
+
+<figure><img width="600" height="558" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?fit=600%2C558&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?resize=300%2C279&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?resize=400%2C372&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?fit=600%2C558&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79156" data-permalink="https://islandtimes.org/picrc-welcomes-ngirailild-as-the-new-administrative-assistant-in-the-research-department/dbn/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?fit=600%2C558&amp;ssl=1" data-orig-size="600,558" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-6400&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1753344296&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;32&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="DBN" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?fit=300%2C279&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/DBN.jpg?fit=600%2C558&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased to announce the newest addition to its team, Mr. Daniel Bitlaol Ngirailild. Daniel joins the center as the Administrative Assistant in the Research Department, bringing valuable experience from his previous role as Project Coordinator at the Palau Chamber of Commerce. In his new capacity, Daniel is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-welcomes-ngirailild-as-the-new-administrative-assistant-in-the-research-department/">PICRC welcomes Ngirailild as the new Administrative Assistant in the Research Department</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-welcomes-ngirailild-as-the-new-administrative-assistant-in-the-research-department/>
+
+---
+
+## Nauru seeks transform its economy by becoming a cryptocurrency powerhouse
+
+date: 2025-07-29, from: Island Times
+
+<p>YAREN (RNZ PACIFIC)&#8212;An Australian finance director has flown to Nauru with ambitions to turn it into the crypto powerhouse of the Pacific. Nauru&#8217;s newly minted Command Ridge Virtual Asset Authority creates a licensing and regulatory scheme for digital asset transfers, including cryptocurrency lending and exchange. It makes Nauru the first nation in Oceania to regulate [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nauru-seeks-transform-its-economy-by-becoming-a-cryptocurrency-powerhouse/">Nauru seeks transform its economy by becoming a cryptocurrency powerhouse</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/nauru-seeks-transform-its-economy-by-becoming-a-cryptocurrency-powerhouse/>
+
+---
+
+## Warming oceans drive tuna from Pacific islands
+
+date: 2025-07-29, from: Island Times
+
+<p>Kauaka Petaia guided his motorboat out of Tuvalu’s main lagoon at dawn and into the vast Pacific Ocean, where he and his nephew scanned the rolling horizon for signs of their country’s most precious resource: tuna. They searched for more than two hours before finally spotting seagulls circling in the distance. Petaia threw open the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/warming-oceans-drive-tuna-from-pacific-islands/">Warming oceans drive tuna from Pacific islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/warming-oceans-drive-tuna-from-pacific-islands/>
+
+---
+
+## Solomon Island MP Kenilorea slams reported visa denial for Taiwan officials ahead of Forum Leaders meeting
+
+date: 2025-07-29, from: Island Times
+
+<p>HONIARA (PACNEWS) &#8212; Solomon Islands Opposition MP Peter Kenilorea Jr has raised alarm over reports that Taiwan officials are being denied visas to attend the Pacific Islands Forum (PIF) Leaders Meeting in Honiara — despite a 1992 Forum decision allowing the Republic of China (Taiwan) to participate. “Isn’t it ironic that the decision by Pacific [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/solomon-island-mp-kenilorea-slams-reported-visa-denial-for-taiwan-officials-ahead-of-forum-leaders-meeting/">Solomon Island MP Kenilorea slams reported visa denial for Taiwan officials ahead of Forum Leaders meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/solomon-island-mp-kenilorea-slams-reported-visa-denial-for-taiwan-officials-ahead-of-forum-leaders-meeting/>
+
+---
+
+## Donald Trump says Gaza is a ‘mess’ as Israel denies starvation crisis
+
+date: 2025-07-29, from: Island Times
+
+<p>By Middle East correspondent Matthew Doran, Sami Sockol and ABC staff in Gaza In short: US President Donald Trump says Israel needs to &#8220;make a decision&#8221; about its next steps in the Gaza Strip. More than 100 humanitarian agencies had warned the strip was facing mass starvation, as Israeli restrictions on aid fueled shortages of food and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-says-gaza-is-a-mess-as-israel-denies-starvation-crisis/">Donald Trump says Gaza is a &#8216;mess&#8217; as Israel denies starvation crisis</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/donald-trump-says-gaza-is-a-mess-as-israel-denies-starvation-crisis/>
+
+---
+
+## Solomon Islands drops Taiwan from concessional entry list
+
+date: 2025-07-29, from: Pacific Island Times
+
+Observers warn the decision could have broad implications for Taiwan’s diplomatic standing in the Pacific and its involvement in regional bodies, particularly the Pacific Islands Forum.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/solomon-islands-drops-taiwan-from-concessional-entry-list>
+
+---
+
+## Navy officials' outrage over run-down barracks prompts housing facelift at Air Force base on Guam
+
+date: 2025-07-29, from: Pacific Island Times
+
+The Palau Dorm repair is part of AAFB’s major rehabilitation of its housing facilities, following a Navy inspection prompted by a report from the watchdog Project on Government Oversight, revealing the troops’ run-down resident facilities. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/navy-officials-outrage-over-barracks-dire-conditions-prompts-housing-facelift-at-air-force-base-on>
+
+---
+
+## From the Maldives to Fiji: Rayya’s Journey of Education and Resilience
+
+date: 2025-07-29, from: University of the South Pacific (Fiji)
+
+<p>For twenty-nine-year-old Aminath Rayya, the idea of moving from her homeland in the Maldives to...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/from-the-maldives-to-fiji-rayyas-journey-of-education-and-resilience/">From the Maldives to Fiji: Rayya&#8217;s Journey of Education and Resilience</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/from-the-maldives-to-fiji-rayyas-journey-of-education-and-resilience/>
+
+---
+
+## Culinary Institute of the Pacific to help transform school meals with local flavors
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p><abbr>CIP</abbr> helps to boost student nutrition and support local farms through school meals.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/28/culinary-institute-of-the-pacific-school-meals-local-flavors/">Culinary Institute of the Pacific to help transform school meals with local flavors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/28/culinary-institute-of-the-pacific-school-meals-local-flavors/>
+
+---
+
+## Building a Future – One Line of Code at a Time
+
+date: 2025-07-29, from: University of the South Pacific (Fiji)
+
+<p>Austin Anand grew up in a quiet household in Nakasi, just outside of Suva, Fiji...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/building-a-future-one-line-of-code-at-a-time-at-usp/">Building a Future – One Line of Code at a Time</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/building-a-future-one-line-of-code-at-a-time-at-usp/>
+
+---
+
+## Investigation underway in Fiji after newborn baby found in university hostel sanitary bin
+
+date: 2025-07-29, from: 
+
+An investigation is underway in Fiji after newborn baby was found in a sanitary bin in the toilets of a university student hostel in Lautoka city. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568318/investigation-underway-in-fiji-after-newborn-baby-found-in-university-hostel-sanitary-bin>
+
+---
+
+## Flying Fijians eye improvements ahead of Pacific Nations Cup
+
+date: 2025-07-29, from: 
+
+The Flying Fijians head coach believes his team will be better heading into the 2025 Pacific Nations Cup next month following their recent Test matches. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568339/flying-fijians-eye-improvements-ahead-of-pacific-nations-cup>
+
+---
+
+## How Pacific students took their climate fight to the world's highest court. And won.
+
+date: 2025-07-29, from: 
+
+Feature - <b>Jamie Tahana </b>charts how a group of young students from Vanuatu changed the face of international law. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568334/how-pacific-students-took-their-climate-fight-to-the-world-s-highest-court-and-won>
+
+---
+
+## Vanuatu RSE workers celebrate first-ever Bislama Language Week
+
+date: 2025-07-29, from: 
+
+Bislama is the national language of Vanuatu and a creole language spoken across Vanuatu's 83 islands which is a blend of English, French, and Indigenous words. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568335/vanuatu-rse-workers-celebrate-first-ever-bislama-language-week>
+
+---
+
+## Guam thoroughfare officially named Ben Blaz Memorial Highway in honor of CHamoru Marine
+
+date: 2025-07-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff  Route 3 in Dededo has been officially designated the Ben Blaz Memorial Highway following an unveiling... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-thoroughfare-officially-named-ben-blaz-memorial-highway-in-honor-of-chamoru-marine>
+
+---
+
+## Maui middle schoolers power up STEM skills in free summer program
+
+date: 2025-07-28, from: University of Hawaiʻi News
+
+<p>Maui middle schoolers dove into a summer <abbr>STEM</abbr> program, tackling real-world challenges with cutting-edge technology.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/28/maui-middle-schoolers-stem-program/">Maui middle schoolers power up <abbr>STEM</abbr> skills in free summer program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/28/maui-middle-schoolers-stem-program/>
+
+---
+
+## Pacific news in brief for 29 July
+
+date: 2025-07-28, from: 
+
+A round-up of news from around the region, including a proposal from the US to temporarily host asylum seekers in Palau, which has been met with resistance. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568312/pacific-news-in-brief-for-29-july>
+
+---
+
+## Pasifika Sipoti in brief for 29 July
+
+date: 2025-07-28, from: 
+
+A round-up of sports news from around the region, including a drop in income for the Fiji Rugby Union compared to the previous year. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568313/pasifika-sipoti-in-brief-for-29-july>
+
+---
+
+## Gov. Palacios: the CNMI’s last best hope?
+
+date: 2025-07-28, from: Pacific Island Times
+
+Gov. Palacios’ own words tell his story.  In a presentation at the Foundation for Defense of Democracies in Washington in 2024, he described how, when he came into office, he tried to find out what happened to around $1.6 billion in federal funding (CARES, ARPA, etc.) that had been given to the CNMI, (population around 45,000) during the pandemic era. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/gov-palacios-the-cnmi-s-last-best-hope>
+
+---
+
+## Melaia Vitukawalu Embraces New Chapter at Laucala Campus
+
+date: 2025-07-28, from: University of the South Pacific (Fiji)
+
+<p>For Twenty-year-old Melaia Rolomanu Vitukawalu, the journey to further her education has been one of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/melaia-vitukawalu-embraces-new-chapter-at-laucala-campus/">Melaia Vitukawalu Embraces New Chapter at Laucala Campus</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/melaia-vitukawalu-embraces-new-chapter-at-laucala-campus/>
 
 ---
 
@@ -59,9 +811,23 @@ A new report on homelessness in Aotearoa shows more Pasifika families were denie
 
 ---
 
+## No threat to Hawaii as Tropical Storm Keli forms; Hurricane Iona strengthens south of isles
+
+date: 2025-07-28, from: Hawaii Tribune Harold
+
+
+				<p>Tropical Depression Two-C has become Tropical Storm Keli, according to the Central Pacific Hurricane Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/28/hawaii-news/no-threat-to-hawaii-as-tropical-storm-keli-forms-hurricane-iona-strengthens-south-of-isles/>
+
+---
+
 ## ‘Fantastic Four: First Steps’ scores Marvel’s first $100 million box office opening of 2025
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 LOS ANGELES (AP) — Marvel’s first family has finally found box office gold. “The Fantastic Four: First Steps,” the first film about the superheroes made under the guidance of Kevin Feige and the Walt Disney Co., earned $118 million in its first weekend in 4,125 North American theaters, according to studio estimates Sunday. 
 
@@ -73,7 +839,7 @@ LOS ANGELES (AP) — Marvel’s first family has finally found box office gold. 
 
 ## New date, same holiday magic: Saipan’s Christmas in July set for Aug. 22
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 (SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College is pleased to announce the new date for its Saipan Christmas in July event, now scheduled for Friday, Aug. 22, 2025, at the Northern Marianas College As Terlaje Campus V Building parking lot. 
 
@@ -85,7 +851,7 @@ date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
 
 ## Only 3 days left to apply for Saipan chamber scholarship
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 (SCC) — The clock is ticking for students in the Northern Mariana Islands: there are only three days left to apply for the Saipan Chamber of Commerce scholarships. The final deadline to submit all completed applications is Friday, Aug. 1, 2025, by 12 noon. Late submissions will not be accepted under any circumstances. 
 
@@ -97,7 +863,7 @@ date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
 
 ## US and EU avert trade war with 15% tariff deal
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 TURNBERRY, Scotland (Reuters) — The U.S. struck a framework trade agreement with the European Union on Sunday, imposing a 15% import tariff on most EU goods — half the threatened rate — and averting a bigger trade war between the two allies that account for almost a third of global trade. 
 
@@ -109,7 +875,7 @@ TURNBERRY, Scotland (Reuters) — The U.S. struck a framework trade agreement wi
 
 ## State funeral for Gov. Palacios set for Saturday
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 GOVERNOR David M. Apatang and Lt. Gov. Dennis James Mendiola on Monday declared a Commonwealth state funeral in honor of the late Gov. Arnold I. Palacios. 
 
@@ -121,7 +887,7 @@ GOVERNOR David M. Apatang and Lt. Gov. Dennis James Mendiola on Monday declared 
 
 ## Local group celebrates Amelia Earhart’s birthday, renews call for monument in her honor
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 THE Amelia Earhart Saipan Memorial Monument Incorporated group held an event at Joeten-Kiyu Public Library to celebrate the 128th birthday of the famed aviatrix on Thursday, July 24, 2025. 
 
@@ -133,7 +899,7 @@ THE Amelia Earhart Saipan Memorial Monument Incorporated group held an event at 
 
 ## Judge to dismiss IPI bankruptcy if sale fails by Aug. 21
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 NMI Bankruptcy Designated Judge Robert J. Faris said he will dismiss Imperial Pacific International's Chapter 11 petition if the court-approved sale does not close by Aug. 21 at 9 a.m. 
 
@@ -145,7 +911,7 @@ NMI Bankruptcy Designated Judge Robert J. Faris said he will dismiss Imperial Pa
 
 ## DPS identifies homicide victim
 
-date: 2025-07-28, updated: 2025-07-28, from: Marianas Variety
+date: 2025-07-28, updated: 2025-07-29, from: Marianas Variety
 
 AT a press conference on Monday, Department of Public Safety Public Information Officer Adrian Pangelinan identified 77-year-old Rosa Mendiola Sablan as the victim in the homicide investigation in San Antonio. 
 

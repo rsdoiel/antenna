@@ -29,7 +29,322 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-07-28 14:08:18)</p>
+<p>(date: 2025-07-29 06:09:22)</p>
+<hr />
+<h2
+id="my-2.5-year-old-laptop-can-write-space-invaders-in-javascript-now">My
+2.5 year old laptop can write Space Invaders in JavaScript now</h2>
+<p>date: 2025-07-29, updated: 2025-07-29, from: Simon Willison’s
+Weblog</p>
+<p>
+I wrote about the new
+<a href="https://simonwillison.net/2025/Jul/28/glm-45/">GLM-4.5</a>
+model family yesterday - new open weight (MIT licensed) models from
+<a href="https://z.ai/">Z.ai</a> in China which their benchmarks claim
+score highly in coding even against models such as Claude Sonnet 4.
+</p>
+<p>
+The models are pretty big - the smaller GLM-4.5 Air model is still 106
+billion total parameters, which
+<a href="https://huggingface.co/zai-org/GLM-4.5-Air">is 205.78GB</a> on
+Hugging Face.
+</p>
+<p>
+Ivan Fioravanti
+<a href="https://x.com/ivanfioravanti/status/1949911755028910557">built</a>
+this
+<a href="https://huggingface.co/mlx-community/GLM-4.5-Air-3bit">44GB
+3bit quantized version for MLX</a>, specifically sized so people with
+64GB machines could have a chance of running it. I tried it out… and it
+works <em>extremely well</em>.
+</p>
+<p>
+I fed it the following prompt:
+</p>
+<blockquote>
+<p>
+<code>Write an HTML and JavaScript page implementing space
+invaders</code>
+</p>
+</blockquote>
+<p>
+And it churned away for a while and produced
+<a href="https://tools.simonwillison.net/space-invaders-GLM-4.5-Air-3bit">the
+following</a>:
+</p>
+<div style="max-width: 100%; margin-bottom: 0.4em">
+<pre><code>&lt;video controls=&quot;controls&quot; preload=&quot;none&quot; aria-label=&quot;Space Invaders&quot; poster=&quot;https://static.simonwillison.net/static/2025/space-invaders.jpg&quot; loop=&quot;loop&quot; style=&quot;width: 100%; height: auto;&quot; muted=&quot;muted&quot;&gt;
+    &lt;source src=&quot;https://static.simonwillison.net/static/2025/space-invaders.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;</code></pre>
+</div>
+<p>
+Clearly this isn’t a particularly novel example, but I still think it’s
+noteworthy that a model running on my 2.5 year old laptop (a 64GB
+MacBook Pro M2) is able to produce code like this - especially code that
+worked first time with no further edits needed.
+</p>
+<h4 id="how-i-ran-the-model">
+How I ran the model
+</h4>
+<p>
+I had to run it using the current <code>main</code> branch of the
+<a href="https://github.com/ml-explore/mlx-lm">mlx-lm</a> library (to
+ensure I had
+<a href="https://github.com/ml-explore/mlx-lm/commit/489e63376b963ac02b3b7223f778dbecc164716b">this
+commit</a> adding <code>glm4_moe</code> support). I ran that using
+<a href="https://github.com/astral-sh/uv">uv</a> like this:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>uv run \
+  --with <span class="pl-s"><span class="pl-pds">'</span>https://github.com/ml-explore/mlx-lm/archive/489e63376b963ac02b3b7223f778dbecc164716b.zip<span class="pl-pds">'</span></span> \
+  python</pre>
+</div>
+<p>
+Then in that Python interpreter I used the standard recipe for running
+MLX models:
+</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">mlx_lm</span> <span class="pl-k">import</span> <span class="pl-s1">load</span>, <span class="pl-s1">generate</span>
+<span class="pl-s1">model</span>, <span class="pl-s1">tokenizer</span> <span class="pl-c1">=</span> <span class="pl-en">load</span>(<span class="pl-s">"mlx-community/GLM-4.5-Air-3bit"</span>)</pre>
+<p>
+That downloaded 44GB of model weights to my
+<code>~/.cache/huggingface/hub/models–mlx-community–GLM-4.5-Air-3bit</code>
+folder.
+</p>
+<p>
+Then:
+</p>
+<pre><span class="pl-s1">prompt</span> <span class="pl-c1">=</span> <span class="pl-s">"Write an HTML and JavaScript page implementing space invaders"</span>
+<span class="pl-s1">messages</span> <span class="pl-c1">=</span> [{<span class="pl-s">"role"</span>: <span class="pl-s">"user"</span>, <span class="pl-s">"content"</span>: <span class="pl-s1">prompt</span>}]
+<span class="pl-s1">prompt</span> <span class="pl-c1">=</span> <span class="pl-s1">tokenizer</span>.<span class="pl-c1">apply_chat_template</span>(
+    <span class="pl-s1">messages</span>,
+    <span class="pl-s1">add_generation_prompt</span><span class="pl-c1">=</span><span class="pl-c1">True</span>
+)
+<span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-en">generate</span>(
+    <span class="pl-s1">model</span>, <span class="pl-s1">tokenizer</span>,
+    <span class="pl-s1">prompt</span><span class="pl-c1">=</span><span class="pl-s1">prompt</span>,
+    <span class="pl-s1">verbose</span><span class="pl-c1">=</span><span class="pl-c1">True</span>,
+    <span class="pl-s1">max_tokens</span><span class="pl-c1">=</span><span class="pl-c1">8192</span>
+)</pre>
+<p>
+The response started like this:
+</p>
+<blockquote>
+<p>
+<code>&lt;think&gt;</code>The user wants me to create a Space Invaders
+game using HTML, CSS, and JavaScript. I need to create a complete,
+functional game with the following features:
+</p>
+<ol>
+<li>
+Player spaceship that can move left/right and shoot
+</li>
+<li>
+Enemy invaders that move in formation and shoot back
+</li>
+<li>
+Score tracking
+</li>
+<li>
+Lives/health system
+</li>
+<li>
+Game over conditions […]
+</li>
+</ol>
+</blockquote>
+<p>
+Followed by the HTML and this debugging output:
+</p>
+<pre><code>Prompt: 14 tokens, 14.095 tokens-per-sec
+Generation: 4193 tokens, 25.564 tokens-per-sec
+Peak memory: 47.687 GB
+</code></pre>
+<p>
+You can see
+<a href="https://gist.github.com/simonw/9f515c8e32fb791549aeb88304550893#file-space_invaders-txt-L61">the
+full transcript here</a>, or view
+<a href="https://github.com/simonw/tools/blob/9e04fd9895fae1aa9ac78b8e62d2833831fe0544/space-invaders-GLM-4.5-Air-3bit.html">the
+source on GitHub</a>, or
+<a href="https://tools.simonwillison.net/space-invaders-GLM-4.5-Air-3bit">try
+it out in your browser</a>.
+</p>
+<h4 id="pelican">
+A pelican for good measure
+</h4>
+<p>
+I ran
+<a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">my
+pelican benchmark</a> against the full sized models
+<a href="https://simonwillison.net/2025/Jul/28/glm-45/">yesterday</a>,
+but I couldn’t resist trying it against this smaller 3bit model. Here’s
+what I got for <code>“Generate an SVG of a pelican riding a
+bicycle”</code>:
+</p>
+<p>
+<img src="https://static.simonwillison.net/static/2025/glm-4.5-air-3b-pelican.png" alt="Blue background, pelican looks like a cloud with an orange bike, bicycle is recognizable as a bicycle if not quite the right geometry." />
+</p>
+<p>
+Here’s the
+<a href="https://gist.github.com/simonw/fe428f7cead72ad754f965a81117f5df">transcript
+for that</a>.
+</p>
+<p>
+In both cases the model used around 48GB of RAM at peak, leaving me with
+just 16GB for everything else - I had to quit quite a few apps in order
+to get the model to run but the speed was pretty good once it got going.
+</p>
+<h4 id="local-coding-models">
+Local coding models are really good now
+</h4>
+<p>
+It’s interesting how almost every model released in 2025 has
+specifically targeting coding. That focus has clearly been paying off:
+these coding models are getting <em>really good</em> now.
+</p>
+<p>
+Two years ago when I
+<a href="https://simonwillison.net/2023/Mar/11/llama/">first tried
+LLaMA</a> I never <em>dreamed</em> that the same laptop I was using then
+would one day be able to run models with capabilities as strong as what
+I’m seeing from GLM 4.5 Air - and Mistral 3.2 Small, and Gemma 3, and
+Qwen 3, and a host of other high quality models that have emerged over
+the past six months.
+</p>
+<pre><code>    &lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/python&quot;&gt;python&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/local-llms&quot;&gt;local-llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-assisted-programming&quot;&gt;ai-assisted-programming&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/uv&quot;&gt;uv&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/mlx&quot;&gt;mlx&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pelican-riding-a-bicycle&quot;&gt;pelican-riding-a-bicycle&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jul/29/space-invaders/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jul/29/space-invaders/#atom-everything</a></p>
+<hr />
+<h2
+id="meta-is-going-to-let-job-candidates-use-ai-during-coding-tests">Meta
+Is Going to Let Job Candidates Use AI During Coding Tests</h2>
+<p>date: 2025-07-29, from: 404 Media Group</p>
+<p>“This is more representative of the developer environment that our
+future employees will work in.”</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/meta-is-going-to-let-job-candidates-use-ai-during-coding-tests/"
+class="uri">https://www.404media.co/meta-is-going-to-let-job-candidates-use-ai-during-coding-tests/</a></p>
+<hr />
+<h2 id="rp2350-a4-rp2354-and-a-new-hacking-challenge">RP2350 A4, RP2354,
+and a new Hacking Challenge</h2>
+<p>date: 2025-07-29, from: Raspberry Pi News (.com)</p>
+<p>
+A new A4 stepping of our RP2350 microcontroller is now available, with
+fixes and improvements. Plus: another RP2350 Hacking Challenge!
+</p>
+<p>
+The post
+<a href="https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/">RP2350
+A4, RP2354, and a new Hacking Challenge</a> appeared first on
+<a href="https://www.raspberrypi.com">Raspberry Pi</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/"
+class="uri">https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/</a></p>
+<hr />
+<h2
+id="magink-is-a-power-bank-with-a-color-e-ink-display-crowdfunding">MagInk
+is a power bank with a color E Ink display (crowdfunding)</h2>
+<p>date: 2025-07-29, from: Liliputing</p>
+<p>
+There’s no shortage of portable power banks that let you recharge your
+smartphone and other gadgets. But MagInk is the first that I’m aware of
+to feature an E Ink display for showing custom images. At first this
+seems like an odd gimmick, but it kind of makes sense if you think of
+that little ePaper […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/magink-is-a-power-bank-with-a-color-e-ink-display-crowdfunding/">MagInk
+is a power bank with a color E Ink display (crowdfunding)</a> appeared
+first on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/magink-is-a-power-bank-with-a-color-e-ink-display-crowdfunding/"
+class="uri">https://liliputing.com/magink-is-a-power-bank-with-a-color-e-ink-display-crowdfunding/</a></p>
+<hr />
+<h2 id="i-coulda-made-a-better-deal">I Coulda Made a Better Deal</h2>
+<p>date: 2025-07-29, from: Paul Krugman</p>
+<p>What, exactly, did Trump get from Europe?</p>
+<p><br></p>
+<p><a
+href="https://paulkrugman.substack.com/p/i-coulda-made-a-better-deal"
+class="uri">https://paulkrugman.substack.com/p/i-coulda-made-a-better-deal</a></p>
+<hr />
+<h2 id="pearlygates25žouch">PEARLYGATES@%*!25ŽoUch</h2>
+<p>date: 2025-07-29, from: Howard Jacobson blog</p>
+<p>‘Wrong password, my son.’</p>
+<p><br></p>
+<p><a href="https://jacobsonh.substack.com/p/pearlygates25zouch"
+class="uri">https://jacobsonh.substack.com/p/pearlygates25zouch</a></p>
+<hr />
+<h2 id="reading-muscle">Reading muscle</h2>
+<p>date: 2025-07-29, from: Enlightenment Economics</p>
+<p>It’s taken me a long time to read Edward Tenner’s Why the Hindernburg
+Had A Smoking Lounge. It’s a collection of enertaining and interesting
+essays, largely about unintended consequences (for example, as a result
+of the marketing decision to include …
+<a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/07/reading-muscle/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><br></p>
+<p><a
+href="http://www.enlightenmenteconomics.com/blog/index.php/2025/07/reading-muscle/"
+class="uri">http://www.enlightenmenteconomics.com/blog/index.php/2025/07/reading-muscle/</a></p>
+<hr />
+<h2 id="quoting-anthropic">Quoting Anthropic</h2>
+<p>date: 2025-07-28, updated: 2025-07-28, from: Simon Willison’s
+Weblog</p>
+<blockquote cite="https://x.com/anthropicai/status/1949898511287226425">
+<p>
+We’re rolling out new weekly rate limits for Claude Pro and Max in late
+August. We estimate they’ll apply to less than 5% of subscribers based
+on current usage. […]
+</p>
+<p>
+Some of the biggest Claude Code fans are running it continuously in the
+background, 24/7.
+</p>
+<p>
+These uses are remarkable and we want to enable them. But a few outlying
+cases are very costly to support. For example, one user consumed tens of
+thousands in model usage on a $200 plan.
+</p>
+</blockquote>
+<p class="cite">
+—
+<a href="https://x.com/anthropicai/status/1949898511287226425">Anthropic</a>
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/anthropic&quot;&gt;anthropic&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude-code&quot;&gt;claude-code&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-pricing&quot;&gt;llm-pricing&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude&quot;&gt;claude&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jul/28/anthropic/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jul/28/anthropic/#atom-everything</a></p>
+<hr />
+<h2
+id="ayaneo-is-working-on-a-gaming-phone-mini-laptop-and-a-whole-lot-more">AYANEO
+is working on a gaming phone, mini-laptop, and a whole lot more</h2>
+<p>date: 2025-07-28, from: Liliputing</p>
+<p>
+AYANEO has been selling handheld gaming PCs since 2020, making the
+company one of the pioneers of this space, along with GPD (who’s been at
+it since 2016) and One Netbook (2021). But the space has become
+increasingly crowded in recent years, so while AYANEO doesn’t plan to
+give up on handhelds anytime soon, it’s […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/ayaneo-is-working-on-a-gaming-phone-mini-laptop-and-a-whole-lot-more/">AYANEO
+is working on a gaming phone, mini-laptop, and a whole lot more</a>
+appeared first on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/ayaneo-is-working-on-a-gaming-phone-mini-laptop-and-a-whole-lot-more/"
+class="uri">https://liliputing.com/ayaneo-is-working-on-a-gaming-phone-mini-laptop-and-a-whole-lot-more/</a></p>
 <hr />
 <p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
 feed at BlueSky</strong> (date: 2025-07-28, from: Robert’s feed at
@@ -417,6 +732,53 @@ the last three decades. This is Good Trouble!</p>
 href="https://bsky.app/profile/rsdoiel.bsky.social/post/3luyrmhtvxs2c"
 class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3luyrmhtvxs2c</a></p>
 <hr />
+<h2 id="ghc-9.10.3-rc1-is-now-available">GHC 9.10.3-rc1 is now
+available</h2>
+<p>date: 2025-07-28, from: Glasgow Haskell Compiler</p>
+<h1>
+GHC 9.10.3-rc1 is now available
+</h1>
+<h4 class="text-muted">
+wz1000 - 2025-07-28
+</h4>
+<p>
+The GHC developers are very pleased to announce the availability of the
+release candidate for GHC 9.10.3. Binary distributions, source
+distributions, and documentation are available at
+<a href="https://downloads.haskell.org/ghc/9.10.3-rc1">downloads.haskell.org</a>
+and via <a href="https://www.haskell.org/ghcup/">GHCup</a>.
+</p>
+<p>
+GHC 9.10.3 is a bug-fix release fixing over 50 issues of a variety of
+severities and scopes. A full accounting of these fixes can be found in
+the
+<a href="https://gitlab.haskell.org/ghc/ghc/-/blob/ghc-9.10/docs/users_guide/9.10.3-notes.rst?ref_type=heads&amp;plain=1">release
+notes</a>. As always, GHC’s release status, including planned future
+releases, can be found on the GHC Wiki
+<a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.
+</p>
+<p>
+This release candidate will have a two-week testing period. If all goes
+well the final release will be available the week of 11 August 2025.
+</p>
+<p>
+We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic,
+Channable, Serokell, SimSpace, the Haskell Foundation, and other
+anonymous contributors whose on-going financial and in-kind support has
+facilitated GHC maintenance and release management over the years.
+Finally, this release would not have been possible without the hundreds
+of open-source contributors whose work comprise this release.
+</p>
+<p>
+As always, do give this release a try and open a
+<a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if
+you see anything amiss.
+</p>
+<p><br></p>
+<p><a
+href="http://haskell.org/ghc/blog/20250728-ghc-9.10.3-rc1-released.html"
+class="uri">http://haskell.org/ghc/blog/20250728-ghc-9.10.3-rc1-released.html</a></p>
+<hr />
 <h2 id="the-many-many-many-javascript-runtimes-of-the-last-decade">The
 many, many, many JavaScript runtimes of the last decade</h2>
 <p>date: 2025-07-27, updated: 2025-07-27, from: Simon Willison’s
@@ -726,8 +1088,9 @@ the very lowest end of microcontrollers. JerryScript underlies
 <p>
 It goes to show that venture capital needn’t be a lure to develop a
 JavaScript runtime; sometimes people just want to run JavaScript on a
-device no matter what. Sometimes, they want to call JavaScript even when
-working in a different language – which brings us onto our next topic.
+device no matter what. And sometimes, they want to call JavaScript even
+when working in a different language – which brings us onto our next
+topic.
 </p>
 <h1>
 Polyglot engines
@@ -1275,15 +1638,15 @@ there has been
 <a href="https://github.com/lukaskollmer/objc" target="_blank">objc</a>
 (2017), and
 <a href="https://x.com/birch_js/status/1726120371278229944" target="_blank">NativeScript</a>
-(2023), for example. For WinRT,
+(2023), for example. For WinRT, there has been
 <a href="https://github.com/NodeRT/NodeRT" target="_blank">NodeRT</a>
 (2014) (echoed by the Deno-based
 <a href="https://github.com/DjDeveloperr/deno_winrt" target="_blank">deno_winrt</a>
-in 2023). And for Qt,
+in 2023). And for Qt, there has been
 <a href="https://github.com/NickCis/nodeQt" target="_blank">nodeQt</a>
 (2011),
 <a href="https://github.com/arturadib/node-qt" target="_blank">node-qt</a>
-(2012),
+(2012), and
 <a href="https://github.com/nodegui/nodegui" target="_blank">NodeGUI</a>
 (2019). Despite affording full platform access, though, none of these
 have taken off as end-to-end app development solutions competitive with
@@ -1331,8 +1694,8 @@ factors to optimise for. Startup performance, runtime performance,
 bundle size, API support, and ease of native access all fight for
 priority. While the browser-native engines V8 and JavaScriptCore have
 maintained their popularity outside the browser, they are beginning to
-face competition from runtimes based on new engines such as Hermes,
-workerd, and QuickJS in certain areas.
+face competition from runtimes based on new engines such as Hermes and
+QuickJS in certain areas.
 </p>
 <p>
 But healthy competition and freedom of choice are only ever good things.
@@ -1418,6 +1781,10 @@ SDK.
 <a href="https://github.com/saghul/txiki.js/" target="_blank">txiki.js</a>
 (2019): A libuv-based JavaScript runtime using the QuickJS engine (the
 successor to dukluv).
+</li>
+<li>
+<a href="https://github.com/holepunchto/bare" target="_blank">Bare</a>
+(2022): A small and modular JavaScript runtime for desktop and mobile.
 </li>
 <li>
 <a href="https://github.com/just-js/lo" target="_blank">lo.js</a>

@@ -1,11 +1,202 @@
 ---
 title: snapshots
-updated: 2025-07-28 14:08:18
+updated: 2025-07-29 06:09:22
 ---
 
 # snapshots
 
-(date: 2025-07-28 14:08:18)
+(date: 2025-07-29 06:09:22)
+
+---
+
+## My 2.5 year old laptop can write Space Invaders in JavaScript now
+
+date: 2025-07-29, updated: 2025-07-29, from: Simon Willison’s Weblog
+
+<p>I wrote about the new <a href="https://simonwillison.net/2025/Jul/28/glm-45/">GLM-4.5</a> model family yesterday - new open weight (MIT licensed) models from <a href="https://z.ai/">Z.ai</a> in China which their benchmarks claim score highly in coding even against models such as Claude Sonnet 4.</p>
+<p>The models are pretty big - the smaller GLM-4.5 Air model is still 106 billion total parameters, which <a href="https://huggingface.co/zai-org/GLM-4.5-Air">is 205.78GB</a> on Hugging Face.</p>
+<p>Ivan Fioravanti <a href="https://x.com/ivanfioravanti/status/1949911755028910557">built</a> this <a href="https://huggingface.co/mlx-community/GLM-4.5-Air-3bit">44GB 3bit quantized version for MLX</a>, specifically sized so people with 64GB machines could have a chance of running it. I tried it out... and it works <em>extremely well</em>.</p>
+<p>I fed it the following prompt:</p>
+<blockquote><p><code>Write an HTML and JavaScript page implementing space invaders</code></p></blockquote>
+<p>And it churned away for a while and produced <a href="https://tools.simonwillison.net/space-invaders-GLM-4.5-Air-3bit">the following</a>:</p>
+
+<div style="max-width: 100%; margin-bottom: 0.4em">
+    <video controls="controls" preload="none" aria-label="Space Invaders" poster="https://static.simonwillison.net/static/2025/space-invaders.jpg" loop="loop" style="width: 100%; height: auto;" muted="muted">
+        <source src="https://static.simonwillison.net/static/2025/space-invaders.mp4" type="video/mp4" />
+    </video>
+</div>
+
+<p>Clearly this isn't a particularly novel example, but I still think it's noteworthy that a model running on my 2.5 year old laptop (a 64GB MacBook Pro M2) is able to produce code like this - especially code that worked first time with no further edits needed.</p>
+
+<h4 id="how-i-ran-the-model">How I ran the model</h4>
+
+<p>I had to run it using the current <code>main</code> branch of the <a href="https://github.com/ml-explore/mlx-lm">mlx-lm</a> library (to ensure I had <a href="https://github.com/ml-explore/mlx-lm/commit/489e63376b963ac02b3b7223f778dbecc164716b">this commit</a> adding <code>glm4_moe</code> support). I ran that using <a href="https://github.com/astral-sh/uv">uv</a> like this:</p>
+<div class="highlight highlight-source-shell"><pre>uv run \
+  --with <span class="pl-s"><span class="pl-pds">'</span>https://github.com/ml-explore/mlx-lm/archive/489e63376b963ac02b3b7223f778dbecc164716b.zip<span class="pl-pds">'</span></span> \
+  python</pre></div>
+<p>Then in that Python interpreter I used the standard recipe for running MLX models:</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">mlx_lm</span> <span class="pl-k">import</span> <span class="pl-s1">load</span>, <span class="pl-s1">generate</span>
+<span class="pl-s1">model</span>, <span class="pl-s1">tokenizer</span> <span class="pl-c1">=</span> <span class="pl-en">load</span>(<span class="pl-s">"mlx-community/GLM-4.5-Air-3bit"</span>)</pre>
+<p>That downloaded 44GB of model weights to my  <code>~/.cache/huggingface/hub/models--mlx-community--GLM-4.5-Air-3bit</code> folder.</p>
+<p>Then:</p>
+<pre><span class="pl-s1">prompt</span> <span class="pl-c1">=</span> <span class="pl-s">"Write an HTML and JavaScript page implementing space invaders"</span>
+<span class="pl-s1">messages</span> <span class="pl-c1">=</span> [{<span class="pl-s">"role"</span>: <span class="pl-s">"user"</span>, <span class="pl-s">"content"</span>: <span class="pl-s1">prompt</span>}]
+<span class="pl-s1">prompt</span> <span class="pl-c1">=</span> <span class="pl-s1">tokenizer</span>.<span class="pl-c1">apply_chat_template</span>(
+    <span class="pl-s1">messages</span>,
+    <span class="pl-s1">add_generation_prompt</span><span class="pl-c1">=</span><span class="pl-c1">True</span>
+)
+<span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-en">generate</span>(
+    <span class="pl-s1">model</span>, <span class="pl-s1">tokenizer</span>,
+    <span class="pl-s1">prompt</span><span class="pl-c1">=</span><span class="pl-s1">prompt</span>,
+    <span class="pl-s1">verbose</span><span class="pl-c1">=</span><span class="pl-c1">True</span>,
+    <span class="pl-s1">max_tokens</span><span class="pl-c1">=</span><span class="pl-c1">8192</span>
+)</pre>
+<p>The response started like this:</p>
+<blockquote>
+<p><code>&lt;think&gt;</code>The user wants me to create a Space Invaders game using HTML, CSS, and JavaScript. I need to create a complete, functional game with the following features:</p>
+<ol>
+<li>Player spaceship that can move left/right and shoot</li>
+<li>Enemy invaders that move in formation and shoot back</li>
+<li>Score tracking</li>
+<li>Lives/health system</li>
+<li>Game over conditions [...]</li>
+</ol>
+</blockquote>
+<p>Followed by the HTML and this debugging output:</p>
+<pre><code>Prompt: 14 tokens, 14.095 tokens-per-sec
+Generation: 4193 tokens, 25.564 tokens-per-sec
+Peak memory: 47.687 GB
+</code></pre>
+<p>You can see <a href="https://gist.github.com/simonw/9f515c8e32fb791549aeb88304550893#file-space_invaders-txt-L61">the full transcript here</a>, or view <a href="https://github.com/simonw/tools/blob/9e04fd9895fae1aa9ac78b8e62d2833831fe0544/space-invaders-GLM-4.5-Air-3bit.html">the source on GitHub</a>, or <a href="https://tools.simonwillison.net/space-invaders-GLM-4.5-Air-3bit">try it out in your browser</a>.</p>
+
+<h4 id="pelican">A pelican for good measure</h4>
+
+<p>I ran <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">my pelican benchmark</a> against the full sized models <a href="https://simonwillison.net/2025/Jul/28/glm-45/">yesterday</a>, but I couldn't resist trying it against this smaller 3bit model. Here's what I got for <code>"Generate an SVG of a pelican riding a bicycle"</code>:</p>
+
+<p><img src="https://static.simonwillison.net/static/2025/glm-4.5-air-3b-pelican.png" alt="Blue background, pelican looks like a cloud with an orange bike, bicycle is recognizable as a bicycle if not quite the right geometry." /></p>
+
+<p>Here's the <a href="https://gist.github.com/simonw/fe428f7cead72ad754f965a81117f5df">transcript for that</a>.</p>
+
+<p>In both cases the model used around 48GB of RAM at peak, leaving me with just 16GB for everything else - I had to quit quite a few apps in order to get the model to run but the speed was pretty good once it got going.</p>
+
+<h4 id="local-coding-models">Local coding models are really good now</h4>
+
+<p>It's interesting how almost every model released in 2025 has specifically targeting coding. That focus has clearly been paying off: these coding models are getting <em>really good</em> now.</p>
+
+<p>Two years ago when I <a href="https://simonwillison.net/2023/Mar/11/llama/">first tried LLaMA</a> I never <em>dreamed</em> that the same laptop I was using then would one day be able to run models with capabilities as strong as what I'm seeing from GLM 4.5 Air - and Mistral 3.2 Small, and Gemma 3, and Qwen 3, and a host of other high quality models that have emerged over the past six months.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/29/space-invaders/#atom-everything>
+
+---
+
+## Meta Is Going to Let Job Candidates Use AI During Coding Tests
+
+date: 2025-07-29, from: 404 Media Group
+
+"This is more representative of the developer environment that our future employees will work in." 
+
+<br> 
+
+<https://www.404media.co/meta-is-going-to-let-job-candidates-use-ai-during-coding-tests/>
+
+---
+
+## RP2350 A4, RP2354, and a new Hacking Challenge
+
+date: 2025-07-29, from: Raspberry Pi News (.com)
+
+<p>A new A4 stepping of our RP2350 microcontroller is now available, with fixes and improvements. Plus: another RP2350 Hacking Challenge!</p>
+<p>The post <a href="https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/">RP2350 A4, RP2354, and a new Hacking Challenge</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/>
+
+---
+
+## MagInk is a power bank with a color E Ink display (crowdfunding)
+
+date: 2025-07-29, from: Liliputing
+
+<p>There&#8217;s no shortage of portable power banks that let you recharge your smartphone and other gadgets. But MagInk is the first that I&#8217;m aware of to feature an E Ink display for showing custom images. At first this seems like an odd gimmick, but it kind of makes sense if you think of that little ePaper [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/magink-is-a-power-bank-with-a-color-e-ink-display-crowdfunding/">MagInk is a power bank with a color E Ink display (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/magink-is-a-power-bank-with-a-color-e-ink-display-crowdfunding/>
+
+---
+
+## I Coulda Made a Better Deal
+
+date: 2025-07-29, from: Paul Krugman
+
+What, exactly, did Trump get from Europe? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/i-coulda-made-a-better-deal>
+
+---
+
+## PEARLYGATES@%*!25ŽoUch
+
+date: 2025-07-29, from: Howard Jacobson blog
+
+&#8216;Wrong password, my son.&#8217; 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/pearlygates25zouch>
+
+---
+
+## Reading muscle
+
+date: 2025-07-29, from: Enlightenment Economics
+
+It&#8217;s taken me a long time to read Edward Tenner&#8217;s Why the Hindernburg Had A Smoking Lounge. It&#8217;s a collection of enertaining and interesting essays, largely about unintended consequences (for example, as a result of the marketing decision to include &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/07/reading-muscle/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/07/reading-muscle/>
+
+---
+
+## Quoting Anthropic
+
+date: 2025-07-28, updated: 2025-07-28, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/anthropicai/status/1949898511287226425"><p>We’re rolling out new weekly rate limits for Claude Pro and Max in late August. We estimate they’ll apply to less than 5% of subscribers based on current usage. [...]</p>
+<p>Some of the biggest Claude Code fans are running it continuously in the background, 24/7.</p>
+<p>These uses are remarkable and we want to enable them. But a few outlying cases are very costly to support. For example, one user consumed tens of thousands in model usage on a $200 plan.</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/anthropicai/status/1949898511287226425">Anthropic</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/28/anthropic/#atom-everything>
+
+---
+
+## AYANEO is working on a gaming phone, mini-laptop, and a whole lot more
+
+date: 2025-07-28, from: Liliputing
+
+<p>AYANEO has been selling handheld gaming PCs since 2020, making the company one of the pioneers of this space, along with GPD (who&#8217;s been at it since 2016) and One Netbook (2021). But the space has become increasingly crowded in recent years, so while AYANEO doesn&#8217;t plan to give up on handhelds anytime soon, it&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-is-working-on-a-gaming-phone-mini-laptop-and-a-whole-lot-more/">AYANEO is working on a gaming phone, mini-laptop, and a whole lot more</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-is-working-on-a-gaming-phone-mini-laptop-and-a-whole-lot-more/>
 
 ---
 
@@ -274,6 +465,39 @@ Extremely accurate account of what Republicans have done to Texas for the last t
 
 ---
 
+## GHC 9.10.3-rc1 is now available
+
+date: 2025-07-28, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.10.3-rc1 is now available</h1>
+<h4 class="text-muted">wz1000 - 2025-07-28</h4>
+
+<p>The GHC developers are very pleased to announce the availability
+of the release candidate for GHC 9.10.3. Binary distributions, source
+distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.10.3-rc1">downloads.haskell.org</a> and
+via <a href="https://www.haskell.org/ghcup/">GHCup</a>.</p>
+<p>GHC 9.10.3 is a bug-fix release fixing over 50 issues of a variety of
+severities and scopes. A full accounting of these fixes can be found in the
+<a href="https://gitlab.haskell.org/ghc/ghc/-/blob/ghc-9.10/docs/users_guide/9.10.3-notes.rst?ref_type=heads&amp;plain=1">release notes</a>. As always, GHC’s release status, including planned future
+releases, can be found on the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
+<p>This release candidate will have a two-week testing period. If all goes well
+the final release will be available the week of 11 August 2025.</p>
+<p>We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic, Channable,
+Serokell, SimSpace, the Haskell Foundation, and other anonymous contributors
+whose on-going financial and in-kind support has facilitated GHC maintenance
+and release management over the years. Finally, this release would not have
+been possible without the hundreds of open-source contributors whose work
+comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+ 
+
+<br> 
+
+<http://haskell.org/ghc/blog/20250728-ghc-9.10.3-rc1-released.html>
+
+---
+
 ## The many, many, many JavaScript runtimes of the last decade
 
 date: 2025-07-27, updated: 2025-07-27, from: Simon Willison’s Weblog
@@ -396,7 +620,7 @@ date: 2025-07-27, from: Whatever, Jamie blog (Jamie Birch)
 <p>At the low end, microcontrollers may cost as little as <a href="https://cpldcpu.wordpress.com/2019/08/12/the-terrible-3-cent-mcu/" target="_blank">3 cents</a>, have mere bytes of RAM, run in under a milliamp of current, have an 8-bit architecture, and/or have under a kilobyte of storage.</p>
 <p>Given these specs, full-blown Node.js would be well out of the question, so many took to producing slim-as-possible engines – <a href="https://duktape.org" target="_blank">Duktape</a>, <a href="https://www.espruino.com" target="_blank">Espruino</a>, and <a href="https://github.com/cesanta/mjs" target="_blank">mjs</a> in 2013, <a href="https://jerryscript.net" target="_blank">JerryScript</a> in 2014, <a href="https://github.com/Moddable-OpenSource/moddable" target="_blank">Moddable</a> in 2018, and <a href="https://github.com/cesanta/elk" target="_blank">elk</a> in 2021. These projects pride themselves in running on under 64 kB of RAM (in fact apparently little more than 100 bytes, in the case of Elk!), though do make tradeoffs in other areas like <a href="https://bellard.org/quickjs/bench.html" target="_blank">performance</a> to do so.</p>
 <p>These engines then spawned new runtimes, though not necessarily serving the very lowest end of microcontrollers. JerryScript underlies <a href="https://github.com/jerryscript-project/iotjs" target="_blank">IoT.js</a> (2015) and <a href="https://github.com/iamblue/microlattice" target="_blank">Microlattice.js</a> (2016), both Internet of Things runtimes; <a href="https://github.com/Moddable-OpenSource/moddable/tree/public/xs" target="_blank">XS</a> (2018?) underlies Moddable; and DukTape underlies <a href="https://github.com/neonious/lowjs" target="_blank">low.js</a> (2018), a low-resource reimplementation of Node.js.</p>
-<p>It goes to show that venture capital needn't be a lure to develop a JavaScript runtime; sometimes people just want to run JavaScript on a device no matter what. Sometimes, they want to call JavaScript even when working in a different language – which brings us onto our next topic.</p>
+<p>It goes to show that venture capital needn't be a lure to develop a JavaScript runtime; sometimes people just want to run JavaScript on a device no matter what. And sometimes, they want to call JavaScript even when working in a different language – which brings us onto our next topic.</p>
 <h1>Polyglot engines</h1>
 <p>Although most JavaScript engines are based on a bespoke virtual machine (VM) used only by the engines themselves, some are based on established VMs, enabling zero-cost interop with other languages. In this space, C++ isn't necessarily king, and it's interesting to see how many ways there are to write a JavaScript engine.</p>
 <p>The earliest polyglot engine was <a href="https://github.com/mozilla/rhino" target="_blank">Rhino</a>, which was made in 1997 as an effort to write Netscape Navigator – JavaScript engine and all – fully in Java. Rhino supports two-way interop between Java and JavaScript, based on the JVM. That is to say, it allows JavaScript to implement Java interfaces and call Java class methods, while allowing Java to define JavaScript classes, run scripts, and more. By 2006, it was included in JDK 6, and by 2008, it was the basis of the Helma runtime, nowadays known as <a href="https://github.com/ringo/ringojs" target="_blank">RingoJS</a>.</p>
@@ -440,14 +664,14 @@ date: 2025-07-27, from: Whatever, Jamie blog (Jamie Birch)
 <p>It wasn't until nearly a decade after its release that Node.js was ported to mobile – work that was undertaken by Janea Systems <a href="https://www.janeasystems.com/blog/announcing-node-js-mobile-apps-true-node-js-runtime-android-ios" target="_blank">in 2017</a>. One of the major obstacles to deploying on iOS was that the App Store did not allow apps that used JIT compilation. Janea Systems worked around this by forking <a href="https://github.com/nodejs/node-chakracore" target="_blank">Node-ChakraCore</a>, a Microsoft project that swapped out V8 for ChakraCore to run without JIT. This was a fashion at the time, with <a href="https://github.com/mozilla/spidernode" target="_blank">SpiderNode</a> (2017) adopting Spidermonkey, <a href="https://github.com/mceSystems/node-jsc" target="_blank">node-jsc</a> (2018) adopting JavaScriptCore (which led to <a href="https://github.com/mceSystems/node-native-script" target="_blank">node-native-script</a> the same year, demoed <a href="https://github.com/mceSystems/NodeIOS-Demo-Project" target="_blank">here</a>), and <a href="https://github.com/Samsung/node-jerryscript" target="_blank">node-jerryscript</a> (2019) adopting JerryScript.</p>
 <p>Janea Systems were eventually able to <a href="https://github.com/nodejs-mobile/nodejs-mobile/blob/1b0223dc74dfa359e61131ee24e0fa386c6d12aa/doc_mobile/CHANGELOG.md?plain=1#L146" target="_blank">adopt V8</a> once <a href="https://v8.dev/blog/jitless" target="_blank">JITless</a> mode propagated from V8 in 2019 to Node.js in <a href="https://github.com/nodejs/node/pull/32594" target="_blank">2020</a>. Although they had demoed using Node.js <a href="https://www.janeasystems.com/blog/node-js-meets-ios" target="_blank">alongside React Native</a> as early as 2017, it never really caught on for that use-case, and Node.js for mobile remained a smaller player in mobile app development. It continues to see usage, however, with the baton <a href="https://nodejs-mobile.github.io/blog/reboot/" target="_blank">passing</a> from <a href="https://github.com/janeasystems/nodejs-mobile" target="_blank">Janea Systems</a> to a new <a href="https://github.com/nodejs-mobile/nodejs-mobile" target="_blank">fork</a> by André Staltz in 2023.</p>
 <p>Besides Janea Systems's port, Samsung created their own <a href="https://github.com/Samsung/lwnode" target="_blank">Lightweight Node.js</a> (2021) based on their earlier engine <a href="https://github.com/Samsung/escargot" target="_blank">Escargot</a> (2016) for "mid-range devices such as mobile phone, tablet and TV", which probably sees use on Tizen OS, though the project may not see much use outside of Samsung.</p>
-<p>On the desktop side, there have been countless libraries to expose native app development functionality via Node.js. For macOS AppKit, there has been <a href="https://github.com/TooTallNate/NodObjC" target="_blank">NodObjC</a> (2011), <a href="https://github.com/lukaskollmer/objc" target="_blank">objc</a> (2017), and <a href="https://x.com/birch_js/status/1726120371278229944" target="_blank">NativeScript</a> (2023), for example. For WinRT, <a href="https://github.com/NodeRT/NodeRT" target="_blank">NodeRT</a> (2014) (echoed by the Deno-based <a href="https://github.com/DjDeveloperr/deno_winrt" target="_blank">deno_winrt</a> in 2023). And for Qt, <a href="https://github.com/NickCis/nodeQt" target="_blank">nodeQt</a> (2011), <a href="https://github.com/arturadib/node-qt" target="_blank">node-qt</a> (2012), <a href="https://github.com/nodegui/nodegui" target="_blank">NodeGUI</a> (2019). Despite affording full platform access, though, none of these have taken off as end-to-end app development solutions competitive with Electron.</p>
+<p>On the desktop side, there have been countless libraries to expose native app development functionality via Node.js. For macOS AppKit, there has been <a href="https://github.com/TooTallNate/NodObjC" target="_blank">NodObjC</a> (2011), <a href="https://github.com/lukaskollmer/objc" target="_blank">objc</a> (2017), and <a href="https://x.com/birch_js/status/1726120371278229944" target="_blank">NativeScript</a> (2023), for example. For WinRT, there has been <a href="https://github.com/NodeRT/NodeRT" target="_blank">NodeRT</a> (2014) (echoed by the Deno-based <a href="https://github.com/DjDeveloperr/deno_winrt" target="_blank">deno_winrt</a> in 2023). And for Qt, there has been <a href="https://github.com/NickCis/nodeQt" target="_blank">nodeQt</a> (2011), <a href="https://github.com/arturadib/node-qt" target="_blank">node-qt</a> (2012), and <a href="https://github.com/nodegui/nodegui" target="_blank">NodeGUI</a> (2019). Despite affording full platform access, though, none of these have taken off as end-to-end app development solutions competitive with Electron.</p>
 <h2>Summary</h2>
 <p>JavaScript has ridden the wave of the personal device boom like no other programming language. While motivated to break free of the browser to make full use of native APIs, no framework has been successful in departing fully from the conventions of the web platform, with GUI programming still being firmly inspired by browser APIs (as with React Native), if not entirely delegated to web views (as with Electron).</p>
 <h1>Conclusion</h1>
 <p>Developers want to run JavaScript in every context possible, and over the last ten years, they have raced to do so. From previously being confined to the browser, now the language is seen in basically every device category, and – in serverless contexts – people are even paying to execute it.</p>
 <p>JavaScript runtimes exist to cater to all manner of resource constraints, from the cheapest chip to the meanest machine (though perhaps with less of a foothold in supercomputers, which did not come up during this research). There are great options for interop with other languages, often to facilitate access to system APIs (which frameworks like React Native make extensive use of).</p>
 <p>Lastly, JavaScript continues to show its strength as a language for GUI programming, being employed in a variety of ways to develop native apps on mobile phones and Smart TVs, though with web view based apps still being the vogue on desktop.</p>
-<p>Why is there no one "best" runtime, then? Simply, with so many different contexts to run JavaScript in, there are just too many conflicting factors to optimise for. Startup performance, runtime performance, bundle size, API support, and ease of native access all fight for priority. While the browser-native engines V8 and JavaScriptCore have maintained their popularity outside the browser, they are beginning to face competition from runtimes based on new engines such as Hermes, workerd, and QuickJS in certain areas.</p>
+<p>Why is there no one "best" runtime, then? Simply, with so many different contexts to run JavaScript in, there are just too many conflicting factors to optimise for. Startup performance, runtime performance, bundle size, API support, and ease of native access all fight for priority. While the browser-native engines V8 and JavaScriptCore have maintained their popularity outside the browser, they are beginning to face competition from runtimes based on new engines such as Hermes and QuickJS in certain areas.</p>
 <p>But healthy competition and freedom of choice are only ever good things. The old guard are forced to innovate, and a high standard is maintained for newcomers. For developers, it's the most all-purpose language one could learn and the single safest technology choice for the future.</p>
 <h1>Addendum</h1>
 <p>I started writing this article in April 2024, <a href="https://discord.com/channels/1044735046919127160/1270142406058049546/1270192881835180126" target="_blank">stretching the limits</a> of Buttondown's edit history at over 5,260 revisions by August, before continuing to hack away at it on and off for another 12 months. Even now, I can hardly call it finished. I wanted to do the subject justice, but there's just too much to cover and I'd like to finally post this thing so that I can write something else. There's surely far more to say about WebAssembly, emulators, wearables, and runtimes for gaming (with a side-dish of ActionScript?), but let's keep that Pandora's Box closed for now.</p>
@@ -461,6 +685,7 @@ date: 2025-07-27, from: Whatever, Jamie blog (Jamie Birch)
 <li><a href="https://github.com/creationix/dukluv" target="_blank">dukluv</a> (2014): A libuv-based JavaScript runtime using the Duktape engine.</li>
 <li><a href="https://github.com/microsoft/napajs" target="_blank">Napa.js</a> (2016): A multi-threaded JavaScript runtime build on V8.</li>
 <li><a href="https://github.com/saghul/txiki.js/" target="_blank">txiki.js</a> (2019): A libuv-based JavaScript runtime using the QuickJS engine (the successor to dukluv).</li>
+<li><a href="https://github.com/holepunchto/bare" target="_blank">Bare</a> (2022): A small and modular JavaScript runtime for desktop and mobile.</li>
 <li><a href="https://github.com/just-js/lo" target="_blank">lo.js</a> (2023): I'm not clear what this JavaScript runtime is <a href="https://github.com/just-js/docs/tree/16e172c4b5726bf225f74a335264dfffb4c0b766/book/01-Introduction" target="_blank">all about</a>, but I do keep hearing about its incredible <a href="https://x.com/justjs14/status/1796575069310943470" target="_blank">C interop</a>.</li>
 </ul>
 <p>... and there are surely many more that deserve a mention!</p>

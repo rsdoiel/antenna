@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-07-28 14:08:12
+updated: 2025-07-29 06:09:15
 ---
 
 # games
 
-(date: 2025-07-28 14:08:12)
+(date: 2025-07-29 06:09:15)
+
+---
+
+## Where to find grass seeds in Grounded 2
+
+date: 2025-07-29, updated: 2025-07-28, from: Polygon Website
+
+Finding grass seeds in Grounded 2 is essential for getting the Omni-Tool&#8217;s shovel attachment, which you&#8217;ll need for scooping up clay and grubs, among many other things. The trouble is that Grounded 2 treats finding certain resources like an environmental puzzle and assumes you&#8217;re going to look for the location in the right way without [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/616973/grounded-2-where-to-find-grass-seed-locations>
+
+---
+
+## Grounded 2 tries the same trick twice, but at least you can ride the bugs this time
+
+date: 2025-07-29, updated: 2025-07-28, from: Polygon Website
+
+I only played the original Grounded for a short spell in 2020, but I remember it well. It was mere months into the COVID-19 pandemic and my friends were desperate for new games to try as an excuse to socialize. Thanks to its launch on Xbox Game Pass, we decided to get a group together [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/616788/grounded-2-impressions-xbox-game-pass>
+
+---
+
+## The first great Switch 2 mouse game might be a revived 33-year-old classic
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+The Nintendo Switch 2’s new features include Joy-Cons that can become a mouse. I’ve personally been wondering which game will allow us to take full advantage of mouse controls, and now I know: Mario Paint. If you’ve been looking for an excuse to get artsy, then this 33-year-old classic game, now available for Nintendo Switch [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/617058/nintendo-switch-2-mario-paint-joy-con-mouse>
+
+---
+
+## Can Roggenrola be shiny in Pokémon Go?
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Roggenrola, the mantle Pokémon from Unova, can be found in the wild in Pokémon Go. Yes, Roggenrola can be shiny in Pokémon Go! Roggenrola’s shiny debuted during its very own Roggenrola Community Day in September 2022. Gigalith is a pretty decent rock-type attacker, but it has become massively outclassed since its Community Day. You’re better [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24180267/can-roggenrola-be-shiny-boldore-gigalith>
 
 ---
 

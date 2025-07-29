@@ -1,11 +1,424 @@
 ---
 title: planet
-updated: 2025-07-28 14:08:05
+updated: 2025-07-29 06:09:09
 ---
 
 # planet
 
-(date: 2025-07-28 14:08:05)
+(date: 2025-07-29 06:09:09)
+
+---
+
+## Man jailed for assault which left woman blind in one eye
+
+date: 2025-07-29, from: RTÉ News
+
+A 21-year-old man has been sentenced to seven years in prison, with the final year suspended, for his role in an attack that left Alanna Quinn Idris blind in one eye. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1525920-jack-cummins-court/>
+
+---
+
+## HHC drug banned by Govt over youth mental health concerns
+
+date: 2025-07-29, from: RTÉ News
+
+Synthetic cannabinoid HHC or Hexahydrocannabinol has been classified as an illegal drug by the Government. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0729/1525933-hhc-drug-ban/>
+
+---
+
+## In Gaza, mounting evidence of famine and widespread starvation
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+“The worst-case scenario of famine is currently playing out in Gaza,”&nbsp;UN-backed food security experts said on Tuesday, in a call to action amid unrelenting conflict, mass displacement and the near-total collapse of essential services in the war-battered enclave. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165517>
+
+---
+
+## Tourism industry seeing 'soft' European, domestic markets
+
+date: 2025-07-29, from: RTÉ News
+
+Tourism operators across the country are reporting a decline in revenue in every major overseas market this year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0729/1525931-tourism-industry-seeing-declines-from-overseas-markets/>
+
+---
+
+## X appeals record unfair dismissal award at Labour Court
+
+date: 2025-07-29, from: RTÉ News
+
+X, the platform formerly known as Twitter, has commenced a Labour Court appeal against a record unfair dismissal award of €550,131 to a former executive. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0729/1525922-x-appeals-record-unfair-dismissal-award-at-labour-court/>
+
+---
+
+## Justin Kelly appointed as new Garda Commissioner
+
+date: 2025-07-29, from: RTÉ News
+
+The Government has appointed current Deputy Commissioner Justin Kelly as the new Garda Commissioner. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1525911-garda-commissioner-justin-kelly/>
+
+---
+
+## Book of evidence served in historical sex abuse case
+
+date: 2025-07-29, from: RTÉ News
+
+A man accused of historical sex abuse offences has been served with a book of evidence by prosecutors and sent forward for trial to the Central Criminal Court in Dublin. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1525908-historical-sex-abuse-court/>
+
+---
+
+## Madonna of Monte Sant’Onofrio: only private devotion permitted
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>The Prefect of the Dicastery for the Doctrine of the Faith confirms the determination of “prae oculis habeatur” proposed by the Bishop of Trivento regarding the alleged supernatural phenomena at Monte Sant’Onofrio in Agnone, in the Molise region of Italy.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/madonna-of-monte-sant-onofrio-only-private-devotion-permitted.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/madonna-of-monte-sant-onofrio-only-private-devotion-permitted.html>
+
+---
+
+## Pope at Mass: Creators should promote encounters between hearts
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>At the close of Mass for digital missionaries and Catholic influencers, presided over by Cardinal Tagle, Pope Leo challenges everyone to use social media to promote a human culture.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-at-mass-creators-should-promote-encounters-between-hearts.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-at-mass-creators-should-promote-encounters-between-hearts.html>
+
+---
+
+## Former garda jailed for seven years for inciting rape
+
+date: 2025-07-29, from: RTÉ News
+
+A former garda who impersonated a female colleague online and encouraged strangers to come to her house to rape her and her young daughters has been jailed for seven years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0729/1525872-shane-flanagan-sentencing/>
+
+---
+
+## Twin brothers launch online platform to "give a voice" to Eastern Christians
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>Digital missionaries Charbel and Giovanni use social media to share the culture and traditions of Christians in the Middle East in the midst of persecution.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/charbel-giovanni-lteif-eastern-christians-instagram.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/charbel-giovanni-lteif-eastern-christians-instagram.html>
+
+---
+
+## UNIFIL welcomes sentencing in Seán Rooney murder case
+
+date: 2025-07-29, from: RTÉ News
+
+The UN Interim Force in Lebanon (UNIFIL) has welcomed the conviction and sentencing in the case of the killing of Private Seán Rooney in Lebanon in 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1525897-sean-rooney-sentence/>
+
+---
+
+## Pope to catechumens and neophytes: With baptism you clothe yourself with Christ
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>Pope Leo XIV reminds young catechumens and neophytes that we are not born Christians but become so through baptism, at which point we are clothed with Chrtist.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-discourse-french-catechumens-29-july-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-discourse-french-catechumens-29-july-2025.html>
+
+---
+
+## Gaza: For Israeli humanitarian organizations, it is genocide
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>Israeli humanitarian and pacifist organizations publicly accuse the government of “a genocidal regime working toward the destruction of Palestinian society in Gaza.”</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/for-israeli-humanitarian-organizations-it-is-genocide.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/for-israeli-humanitarian-organizations-it-is-genocide.html>
+
+---
+
+## Ozzy Osbourne fans to pay final respects in Birmingham
+
+date: 2025-07-29, from: RTÉ News
+
+Fans will be able to pay their final respects to Ozzy Osbourne when his remains are brought back to his home city of Birmingham for a procession on Wednesday. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0729/1525880-ozzy-osbourne-fans-to-pay-final-respects-in-birmingham/>
+
+---
+
+## Russian strikes kill 22 civilians in Ukraine despite Trump threats of sanctions
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7596122.1753791123!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A road flanked by ruined buildings and rubble is shown. ' width='620' height='349' title='This photo provided by Ukraine&apos;s State Criminal Executive Service shows a damaged prison in the village of Bilenke, in Ukraine&apos;s Zaporizhzhia region, following a Russian bomb attack that killed at least 17 inmates, on Tuesday, July 29, 2025.'/><p>Russian glide bombs and ballistic missiles struck a Ukrainian prison and a medical facility overnight as Russia's relentless strikes on civilian areas killed at least 22 people across the country, officials say.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-strikes-ukraine-1.7596118?cmp=rss>
+
+---
+
+## Nearly 25% of doctors work over 48 hours a week - report
+
+date: 2025-07-29, from: RTÉ News
+
+Almost a quarter of doctors have said they are working more than 48 hours a week, according to a Medical Council report. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1525867-medical-council-report/>
+
+---
+
+## 'Unlike anything we have seen' - famine warning for Gaza
+
+date: 2025-07-29, from: RTÉ News
+
+Gaza is slipping into famine, UN-backed experts have warned, as the health ministry in the territory said the death toll in the nearly 22-month war had surpassed 60,000. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0729/1525868-israel-gaza/>
+
+---
+
+## Catholic Music Awards 2025 celebrate faith, music, and unity
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>The first-ever Catholic Music Awards, or 'Catholic Grammys,' took place Sunday evening at Rome's Auditorium Conciliazione and the award ceremony marked a historic global event in the Catholic music world.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/catholic-music-awards-2025-celebration-music-catholic-grammys.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/catholic-music-awards-2025-celebration-music-catholic-grammys.html>
+
+---
+
+## Rise of AI bands shakes up music business
+
+date: 2025-07-29, from: RTÉ News
+
+A rising tide of artificial intelligence (AI) bands is ushering in a new era where work will be scarcer for musicians. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0729/1525852-rise-of-ai-bands-shakes-up-music-business/>
+
+---
+
+## Three killed in Fermanagh shooting to be buried in Clare
+
+date: 2025-07-29, from: RTÉ News
+
+A woman and her two children who died in a shooting at their home in Co Fermanagh last week are to be buried together in her home town in Barefield, Co Clare, on Saturday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1525851-fermanagh-funerals/>
+
+---
+
+## Russian strikes on Ukraine kill at least 25, Ukraine says
+
+date: 2025-07-29, from: RTÉ News
+
+The Kremlin said that it wanted to pursue peace in Ukraine hours after mounting attacks that killed at least 25 people, including a 23-year-old pregnant woman and more than a dozen prison inmates. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0729/1525848-ukraine-russia/>
+
+---
+
+## Peruvian Youth celebrate their faith with Pope Leo
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>Following their meeting with Pope Leo XIV in the Vatican, Peruvian young people, Ximena Valdivia and Gisela Reátegui, discuss with Vatican News the task of making "Christ alive in the ordinary” and of sharing their faith within their communities.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/peruvian-youth-celebrate-peru-faith-interview-pope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/peruvian-youth-celebrate-peru-faith-interview-pope.html>
+
+---
+
+## Mass shooting at Manhattan skyscraper leaves 5 dead, including gunman
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7596098.1753781498!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/new-york-shooting.JPG' alt='Police officers stand in a line for the ambulance transfer of a slain policeman.' width='620' height='349' title='NYPD officers stand at attention for the ambulance transfer of slain NYPD officer Didarul Islam, who was killed during a mass shooting in Midtown Manhattan, at New York-Presbyterian/Weill Cornell Medical Center in New York City, U.S., July 29, 2025. REUTERS/Bing Guan     TPX IMAGES OF THE DAY  REFILE - QUALITY REPEAT'/><p>A gunman armed with an assault-style rifle killed four people inside a Manhattan skyscraper that houses the headquarters of the NFL and offices of several major financial firms and then shot himself dead, New York City officials said on Monday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gunman-manhattan-skyscraper-1.7596097?cmp=rss>
+
+---
+
+## Jewish groups say they 'cannot keep silent' on Gaza
+
+date: 2025-07-29, from: RTÉ News
+
+A number of Jewish organisations in Israel and elsewhere, have condemned the ongoing war in Gaza amid harrowing scenes of acute hunger and death amongst its population. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0729/1525834-israel-gaza-analysis/>
+
+---
+
+## 2,700 wait over HSE timeframe for urgent colonoscopy
+
+date: 2025-07-29, from: RTÉ News
+
+More than 2,700 people across Ireland waited longer than the recommended timeframe for an urgent colonoscopy between January and May this year, figures obtained by RTÉ News show. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1525805-colonoscopy-wait-times/>
+
+---
+
+## Appeal for witnesses in two deaths during Troubles
+
+date: 2025-07-29, from: RTÉ News
+
+The Independent Commission for Reconciliation and Information Recovery in Northern Ireland has appealed for witnesses to come forward in relation to two investigations following requests from the victims' families. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1525817-northern-ireland/>
+
+---
+
+## Thirty dead as China hit by heavy rain, landslides
+
+date: 2025-07-29, from: RTÉ News
+
+At least 30 people were killed as heavy rain in the Chinese capital Beijing prompted authorities to evacuate 80,000, state media said. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0729/1525837-china-floods/>
+
+---
+
+## Thailand-Cambodia ceasefire holding but 'still fragile'
+
+date: 2025-07-29, from: RTÉ News
+
+An uneasy ceasefire between Thailand and Cambodia appeared to be holding, as military commanders met despite Bangkok's allegations the truce had been breached with overnight skirmishes. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0729/1525836-thailand-cambodia/>
+
+---
+
+## Four killed in shooting at New York City skyscraper
+
+date: 2025-07-29, from: RTÉ News
+
+A gunman armed with an assault-style rifle killed four people inside a Manhattan skyscraper that houses the headquarters of the NFL and offices of several major financial firms, New York City officials have said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0729/1525833-us-new-york-shooting/>
+
+---
+
+## Cabinet agrees further €700m in funding for housing
+
+date: 2025-07-28, from: RTÉ News
+
+The Department of Housing has received additional funding of nearly €700 million this year to fund more social and affordable housing among other measures. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0729/1525811-ireland-politics/>
+
+---
+
+## EU-US deal will stabilise transatlantic trade, says Gill
+
+date: 2025-07-28, from: RTÉ News
+
+The tariff deal between the EU and the US will secure, stabilise and grow transatlantic trade and investment relations, the European Commission's Spokesperson on Trade has said. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0729/1525825-trade-forum-meeting/>
 
 ---
 
@@ -18,6 +431,18 @@ A man has been sentenced to death in Lebanon after he was convicted for his part
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0728/1525822-sean-rooney/>
+
+---
+
+## Man sentenced to death over killing of Seán Rooney
+
+date: 2025-07-28, from: RTÉ News
+
+A man has been sentenced to death in Lebanon after he was convicted for his part in the killing of Irish peacekeeper Private Seán Rooney, who was shot dead while serving in the region in December 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0728/1525822-lebanon-shooting-conviction/>
 
 ---
 
@@ -49,11 +474,11 @@ date: 2025-07-28, from: Vatican News
 
 ---
 
-## Man dies in hospital following Fermanagh shooting
+## Suspect in Fermanagh shooting dies in hospital
 
 date: 2025-07-28, from: RTÉ News
 
-A fourth person has died following a shooting in Maguiresbridge in Co Fermanagh last week. 
+A man suspected of killing his wife and two children in Co Fermanagh last week has died in hospital. 
 
 <br> 
 
@@ -393,11 +818,11 @@ The UN peacekeeping mission in the Democratic Republic of the Congo, MONUSCO, st
 
 ---
 
-## Guterres: ‘Breaking point’ reached in Israel-Palestine conflict, urgent action needed on two-State solution
+## UN chief: Israeli-Palestinian conflict at ‘breaking point,’ urges push for two-State solution
 
 date: 2025-07-28, from: United Nations, Top Stories
 
-UN Secretary-General António Guterres has warned that the Israeli-Palestinian conflict has reached a breaking point, calling for bold political action to salvage the two-State solution and halt what he described as the systemic dismantling of peace efforts.&nbsp; 
+UN Secretary-General António Guterres on Monday warned that the Israeli-Palestinian conflict is “at a breaking point” and headed toward a one-State reality marked by perpetual occupation and inequality, unless the international community takes urgent, irreversible steps to implement the two-State solution. 
 
 <br> 
 
@@ -438,6 +863,42 @@ As starvation worsens in war-torn Gaza, UN agencies repeated warnings on Monday 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165506>
+
+---
+
+## World News in Brief: Cambodia-Thailand ceasefire, bloody weekend in Ukraine, stop hepatitis deaths
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has welcomed the ceasefire agreement between Cambodia and Thailand following days of deadly fighting over their mutual border.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165515>
+
+---
+
+## Sudan: UN sounds the alarm as health and food crises worsen across the country
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+The UN Office for the Coordination of Humanitarian Affairs (OCHA) is alarmed by escalating health and food crises across Sudan, notably as cholera cases continue to rise in the locality of Tawila, North Darfur state.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165516>
+
+---
+
+## Slight decrease in global hunger as inequalities widen, UN report reveals
+
+date: 2025-07-28, from: United Nations, Top Stories
+
+An interagency group from the UN released the flagship&nbsp;2025 State of Food Security and Nutrition in the World (SOFI) report on Monday, estimating a global, yet uneven, decline in hunger since 2022. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165514>
 
 ---
 
@@ -1310,6 +1771,18 @@ date: 2025-07-27, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/business/armstrong-trade-trump-tariffs-1.7593202?cmp=rss>
+
+---
+
+## What Trump's tariff deals with Europe and Japan mean for Canada
+
+date: 2025-07-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/5065750f-2278-4d61-b9f0-434e0fea4588,1753746779768/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man in a suit speaks at a podium with two people behind him.' width='620' height='349' title='Prime Minister Mark Carney speaks in Albany, P.E.I., Monday July 28, 2025.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/trump-tariffs-canada-european-union-trade-deal-1.7595357?cmp=rss>
 
 ---
 

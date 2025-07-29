@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-07-28 14:08:09
+updated: 2025-07-29 06:09:13
 ---
 
 # science and technology
 
-(date: 2025-07-28 14:08:09)
+(date: 2025-07-29 06:09:13)
+
+---
+
+## Taxman picks up $140M tab after Cadence fined for China export violations
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Changes enacted in Trump&#39;s budget cover cost of penalty</h4> <p>Electronic design biz Cadence has agreed to plead guilty and pay more than $140 million in fines over charges that it unlawfully sold semiconductor design tools to a university linked with the Chinese military.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/cadence_fine_export_violations/>
+
+---
+
+## Microsoft pops legacy Exchange public folders on the chopping block
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Support for migrations to be scrapped come October</h4> <p>The clock is ticking for administrators pondering a migration path to Exchange Online from an elderly version of Microsoft&#39;s email server. Support for public folder migrations from Exchange Server 2010 and older is set for deprecation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/microsoft_exchange_public_folders/>
+
+---
+
+## War Games: MoD asks soldiers with 1337 skillz to compete in esports
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Troopers to swap radios for Turtle Beaches in preparation for ‘21st century challenges’</h4> <p>The UK&#39;s Ministry of Defence (MoD) is doubling down on its endorsement of esports by tasking the British Esports Federation to establish a new tournament to upskill existing servicepeople in the digital skirmishes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/mod_asks_soldiers_with_1337/>
+
+---
+
+## How Google profits even as its AI summaries reduce website ad link clicks
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Google&#39;s AI Overviews are wrecking its old ad model, but Google&#39;s revenue is increasing with ads based on it</h4> <p><strong>Opinion</strong>  Alphabet, Google&#39;s parent company, is making money hand over fist. In its latest quarterly report, <a href="https://www.theregister.com/2025/07/24/alphabet_q2_2025/">Google&#39;s revenue grew 14 percent year-over-year to $96.4 billion</a>. While Google&#39;s cloud revenue, $13.6 billion, with 31 percent year-over-year growth, is growing fast, the bulk of its cash, $54.2 billion worth, still comes from advertising.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/opinion_column_google_ai_ads/>
+
+---
+
+## Publishers cry foul over W3C crusade to rid web of third-party cookies
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Advocacy group tells UK competition watchdog proposal favors Google</h4> <p><strong>Exclusive</strong>  Movement for an Open Web (MOW), an advocacy group that supports web publishers, has filed a complaint with the UK&#39;s Competition and Markets Authority (CMA) challenging the World Wide Web Consortium&#39;s (W3C) call to eliminate third-party cookies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/mow_w3c_cookie_complaint/>
+
+---
+
+## UK buys time with £1.65B extension to G-Cloud framework
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Replacement deal not ready, so old one gets 6 more months and budget bump</h4> <p>The UK government is extending two major cloud purchasing agreements due to delayed replacement arrangements under frameworks that could be worth an additional £1.65 billion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/ukgov_extends_cloud_deals/>
+
+---
+
+## Curiosity Blog, Sols 4611-4613: Scenic Overlook
+
+date: 2025-07-29, from: NASA breaking news
+
+Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 25, 2025 A 23-meter drive (about 75 feet) brought Curiosity to today’s planned “look-about” spot. The highlight of the plan will be the 360-degree Mastcam panorama that will document the ridge-and-hollow topography of the boxwork-forming unit we’ve been […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4611-4613-scenic-overlook/>
+
+---
+
+## Microsoft bolts Copilot Mode onto Edge to chase AI-browser crowd
+
+date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
+
+<h4>&#39;Edge, order two tons of creamed corn...&#39;</h4> <p>Microsoft on Monday introduced Copilot Mode in its Edge browser, a way to use voice or text commands to automate web-based tasks via AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/28/microsoft_edge_copilot_mode/>
+
+---
+
+## Join Second Lady Usha Vance as She Reads to Children at NASA Johnson
+
+date: 2025-07-28, from: NASA breaking news
+
+As part of her Summer Reading Challenge, Second Lady Usha Vance will host an event for children in grades K-8 on Monday, Aug. 4, at NASA’s Johnson Space Center in Houston. Media are invited. NASA astronaut Suni Williams will join Ms. Vance to read a space-related book to children and participate in other space-related activities. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/join-second-lady-usha-vance-as-she-reads-to-children-at-nasa-johnson/>
+
+---
+
+## Microsoft spotlights Apple bug patched in March as SharePoint exploits continue
+
+date: 2025-07-28, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Look over there!</h4> <p>Amidst its own failure to fix a couple of bugs now under mass exploitation and being abused for espionage, data theft, and ransomware infections, Microsoft said Monday that it spotted a macOS vulnerability some months ago that could allow attackers to steal private data. Redmond reported the bug to Cupertino, which issued a fix back in March.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/28/microsoft_spots_apple_bug/>
+
+---
+
+## Ames Exchange Lodging Info
+
+date: 2025-07-28, from: NASA breaking news
+
+On-Site Lodging at Ames The Exchange at Ames operates a variety of lodging options, right on center. If you&#8217;re visiting Ames for an extended period, you&#8217;ll need lodging that&#8217;s in the area, and affordable. This article will go over the lodging options that we have on-center. Who May Stay?Personnel in the following categories are considered [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/arc-svec-lodging/>
+
+---
+
+## Silicon Valley Event Center – Parking Information
+
+date: 2025-07-28, from: NASA breaking news
+
+Where to Park at the Event Center We have event spaces in multiple buildings. See below for details. At the main Event Center in building 3, at the front of the building (East side) there is a large lot with standard and accessible spaces. This is the best place to park as it affords the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/svec-parking-information/>
+
+---
+
+## NASA Silicon Valley Event Center – Calendar of Events
+
+date: 2025-07-28, from: NASA breaking news
+
+Upcoming Events for the Public Check below for upcoming events that are open to the public being held at the Event Center SundayMondayTuesdayWednesdayThursdayFridaySaturday 
+
+<br> 
+
+<https://www.nasa.gov/general/svec-events/>
+
+---
+
+## Visiting the NASA Silicon Valley Event Center
+
+date: 2025-07-28, from: NASA breaking news
+
+Visiting the Event Center Due to the nature of being a NASA facility, there are some special considerations that must be taken into account. Traveling To &#38; FromThe Event Center is located on the publicly accessible side of the Ames campus. If you plan to arrive via ride share, please be aware that the vehicle [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/visiting-svec/>
+
+---
+
+## Google’s latest renewable energy deal is all gas bags and hot air
+
+date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
+
+<h4>At least big bags of CO<sub>2</sub> can be built faster than a fusion plant</h4> <p>Caught in a constant race between its AI power needs and carbon emissions reduction pledges, Google&#39;s latest sustainability commitment sees it considering giant bags of carbon dioxide as a solution to dirty energy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/28/googles_latest_renewable_energy_deal/>
+
+---
+
+## Security pros are drowning in threat-intel data and it's making everything more dangerous
+
+date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
+
+<h4>Plus, 60% don&#39;t have enough analysts to make sense of it</h4> <p>Too many threats, too much data, and too few skilled security analysts are making companies more vulnerable to cyberattacks, according to the IT and security leaders tasked with protecting these organizations from digital threats.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/28/security_pros_drowning_in_threatintel/>
 
 ---
 
@@ -25,7 +217,7 @@ date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
 
 date: 2025-07-28, from: NASA breaking news
 
-NASA has selected Barrios Technology, LLC, in Houston to provide technical integration services for the agency’s human space flight programs. The Mission Technical Integration Contract is a cost-plus-award-fee and cost-plus-incentive fee contract with core and indefinite-delivery/indefinite-quantity requirements. It has a total estimated value of approximately $450 million, and a period of performance beginning Oct. 1, [&#8230;] 
+NASA has selected Barrios Technology, LLC, in Houston to provide technical integration services for the agency’s human spaceflight programs. The Mission Technical Integration Contract is a cost-plus-award-fee and cost-plus-incentive fee contract with core and indefinite-delivery/indefinite-quantity requirements. It has a total estimated value of approximately $450 million, and a period of performance beginning Oct. 1, and [&#8230;] 
 
 <br> 
 

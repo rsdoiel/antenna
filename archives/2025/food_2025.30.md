@@ -1,11 +1,145 @@
 ---
 title: food
-updated: 2025-07-28 14:08:16
+updated: 2025-07-29 06:09:20
 ---
 
 # food
 
-(date: 2025-07-28 14:08:16)
+(date: 2025-07-29 06:09:20)
+
+---
+
+## The BeanGo Cube X Pro: A New Home Roaster With Automatic Crack Detection
+
+date: 2025-07-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The BeanGo Cube X Pro is live on Kickstarter. 
+
+<br> 
+
+<https://sprudge.com/the-beango-cube-x-pro-a-new-home-roaster-with-automatic-crack-detection-382814.html>
+
+---
+
+## Taste of Home Fall Baking Bingo Promotion (#340) Terms and Conditions
+
+date: 2025-07-29, from: Taste of Home
+
+<p>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO BE ELIGIBLE. Taste of Home Fall Baking Bingo Promotion (#340)</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-fall-baking-bingo-promotion-340-terms-and-conditions/">Taste of Home Fall Baking Bingo Promotion (#340) Terms and Conditions</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/taste-of-home-fall-baking-bingo-promotion-340-terms-and-conditions/>
+
+---
+
+## Congressional Coffee Caucus Asks to Spare Coffee from Tariffs
+
+date: 2025-07-29, from: The Fresh Cup
+
+<p>Members of the Congressional Coffee Caucus wrote a letter requesting that coffee be exempt from current and future tariffs.</p>
+<p>The post <a href="https://freshcup.com/congressional-coffee-caucus-asks-to-spare-coffee-from-tariffs/">Congressional Coffee Caucus Asks to Spare Coffee from Tariffs</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/congressional-coffee-caucus-asks-to-spare-coffee-from-tariffs/>
+
+---
+
+## Our Most Popular Recipes of July 2025
+
+date: 2025-07-29, from: Bon Appetet
+
+Like no-knead cheddar jalapeño bread and Sun Gold tomato pasta. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-july-2025>
+
+---
+
+## Gluten-Free Cheez-Its Are Finally Coming to Stores—But There’s a Catch
+
+date: 2025-07-29, from: Taste of Home
+
+<p>Fans have been asking for this for years.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/gluten-free-cheez-its-coming-2026/">Gluten-Free Cheez-Its Are Finally Coming to Stores—But There&#8217;s a Catch</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/gluten-free-cheez-its-coming-2026/>
+
+---
+
+## Martha Stewart’s Genius Tip for Serving the Crispest Watermelon
+
+date: 2025-07-28, from: Taste of Home
+
+<p>Everything you need is already in your kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/martha-stewart-watermelon-hack/">Martha Stewart&#8217;s Genius Tip for Serving the Crispest Watermelon</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/martha-stewart-watermelon-hack/>
+
+---
+
+## I Tried 6 Jeni’s Summer Ice Creams—This One Nostalgic Flavor Blew My Mind
+
+date: 2025-07-28, from: Taste of Home
+
+<p>Who knew you could make ice cream taste exactly like a nostalgic candy? </p>
+<p>The post <a href="https://www.tasteofhome.com/article/jenis-ice-cream-watermelon-taffy/">I Tried 6 Jeni’s Summer Ice Creams—This One Nostalgic Flavor Blew My Mind</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jenis-ice-cream-watermelon-taffy/>
+
+---
+
+## We Tried De’Longhi’s New Compact, Affordable Espresso Maker—And It’s Capable of Cold Brew!
+
+date: 2025-07-28, from: Taste of Home
+
+<p>New to espresso? The DeLonghi Dedica Duo is easy to use, comes in cute colors and fits almost anywhere. Bonus: It's capable of cold brew!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/delonghi-dedica-duo-ec890-review/">We Tried De’Longhi&#8217;s New Compact, Affordable Espresso Maker—And It&#8217;s Capable of Cold Brew!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/delonghi-dedica-duo-ec890-review/>
+
+---
+
+## What Is Bread Cheese, and How Should You Eat It?
+
+date: 2025-07-28, from: Taste of Home
+
+<p>Bread cheese is a Finnish cheese that's now available in the U.S. It's firm and mild, and holds up to high heat when grilling and broiling.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-bread-cheese/">What Is Bread Cheese, and How Should You Eat It?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-bread-cheese/>
+
+---
+
+## Where Does Vanilla Come From?
+
+date: 2025-07-28, from: Bon Appetet
+
+Plus, how do they extract it—and what’s the deal with the imitation stuff? 
+
+<br> 
+
+<https://www.bonappetit.com/story/where-does-vanilla-extract-come-from>
 
 ---
 

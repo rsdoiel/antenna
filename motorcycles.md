@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2025-07-28 14:08:14
+updated: 2025-07-29 06:09:18
 ---
 
 # motorcycles
 
-(date: 2025-07-28 14:08:14)
+(date: 2025-07-29 06:09:18)
+
+---
+
+## Get Yellowstone National Park Snowmobile Permits Next Week, They'll Be Gone Fast
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+If you want to go alone and not with a group, next week is your chance.  
+
+<br> 
+
+<https://www.rideapart.com/news/767209/yellowstone-national-park-snowmobile-permits-2026-wyoming/>
+
+---
+
+## Solid-State Batteries Could Change the Future of Powersports Forever
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+Some of the biggest names in the car world are taking this tech seriously, hopefully powersports manufacturers follow suit. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767109/solid-state-batteries-future-of-powersports/>
+
+---
+
+## The Absolutely Mad Ferrari V8-Powered Motorcycle Is Finally Finished, Listen to It
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+Let us ride it.  
+
+<br> 
+
+<https://www.rideapart.com/news/767058/v8-ferrari-powered-motorcycle-build-custom-finished/>
+
+---
+
+## This New Small-Displacement Sportbike Has Quite a Juicy Spec Sheet
+
+date: 2025-07-29, from: Ride Apart, Electric Motorcycle News
+
+Voge’s latest four-cylinder sportbike looks like it was seriously engineered to perform. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767107/voge-rr500s-small-sportbike-specs-details/>
 
 ---
 
