@@ -1,11 +1,133 @@
 ---
 title: north america
-updated: 2025-07-30 06:07:50
+updated: 2025-07-30 14:07:30
 ---
 
 # north america
 
-(date: 2025-07-30 06:07:50)
+(date: 2025-07-30 14:07:30)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-30, from: The Contrarian
+
+Wednesday: Tesla protests, Sweden joins in, the weekend ahead, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Private Equity in Hospice Care Spurs Workers to Strike
+
+date: 2025-07-30, from: Capital and Main
+
+<p>After 29 months without a contract, a new hospice union resists the financialization of end-of-life care.</p>
+<p>The post <a href="https://capitalandmain.com/private-equity-in-hospice-care-spurs-workers-to-strike">Private Equity in Hospice Care Spurs Workers to Strike</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/private-equity-in-hospice-care-spurs-workers-to-strike>
+
+---
+
+## The quiet purge at our national parks
+
+date: 2025-07-30, from: The Contrarian
+
+Subtle changes in promotional material show that historical revisionism is underway. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-quiet-purge-at-our-national-parks>
+
+---
+
+##  Wall Street’s Top Cop Scores Tax Break For Mysterious “Pre-Bribe” 
+
+date: 2025-07-30, from: The Lever News
+
+ Trump’s SEC chair just sold his financial services firm for more than $25 million to an unknown buyer — and is set to receive a massive tax break on the proceeds.  
+
+<br> 
+
+<https://www.levernews.com/wall-streets-top-cop-scores-tax-break-for-mysterious-pre-bribe/>
+
+---
+
+## Ticked off at windmills
+
+date: 2025-07-30, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/ticked-off-at-windmills>
+
+---
+
+## The world awakes to the Gaza famine
+
+date: 2025-07-30, from: The Contrarian
+
+Atrocities are atrocities, and we must say as much, in clear language, every time they happen. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-world-awakes-to-the-gaza-famine>
+
+---
+
+##  Dems Hand Private Equity The Equal Opportunity To Grift 
+
+date: 2025-07-30, from: The Lever News
+
+ A bipartisan bill passed unanimously by the House would sell out working-class investors to private equity under the guise of diversity, equity, and inclusion.  
+
+<br> 
+
+<https://www.levernews.com/dems-hand-private-equity-the-equal-opportunity-to-grift/>
+
+---
+
+## Unions and community organizations uniting against the dictator
+
+date: 2025-07-30, from: The Contrarian
+
+Hundreds of organizers gather in Chicago to lift up workers over billionaires. 
+
+<br> 
+
+<https://contrarian.substack.com/p/unions-and-community-organizations>
+
+---
+
+## Coffee with Contrarians 07/30
+
+date: 2025-07-30, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 7/30 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-contrarians-0730>
+
+---
+
+## The degradation of democracy and abortion rights go hand in hand
+
+date: 2025-07-30, from: The Contrarian
+
+Fortunately, courts are countering or stalling some of the administration's power grabs and its retaliatory agenda. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-degradation-of-democracy-and>
 
 ---
 
@@ -158,18 +280,6 @@ It was the week when the Epstein scandal showed up in earnest and looked as if i
 <br> 
 
 <https://contrarian.substack.com/p/justice-blanched>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-29, from: The Contrarian
-
-Tuesday: More Scotland protest pics, anti-ICE protests, a transphobia protest in London, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

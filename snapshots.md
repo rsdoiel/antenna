@@ -1,11 +1,281 @@
 ---
 title: snapshots
-updated: 2025-07-30 06:08:04
+updated: 2025-07-30 14:07:42
 ---
 
 # snapshots
 
-(date: 2025-07-30 06:08:04)
+(date: 2025-07-30 14:07:42)
+
+---
+
+## AYANEO’s KONKR Pocket FIT will be a cheaper Android handheld game console, but it still has flagship-class features
+
+date: 2025-07-30, from: Liliputing
+
+<p>AYANEO has been making Windows and Android handheld game systems for years. But most are feature-packed devices with premium price tags. Some of the company&#8217;s Android handhelds have price tags that rival Windows devices from competitors. So one of the many announcements AYANEO made this week is that it&#8217;s launching a new &#8220;KONKR&#8221; sub-brand focused on [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneos-konkr-pocket-fit-will-be-a-cheaper-android-handheld-game-console-but-it-still-has-flagship-class-features/">AYANEO&#8217;s KONKR Pocket FIT will be a cheaper Android handheld game console, but it still has flagship-class features</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneos-konkr-pocket-fit-will-be-a-cheaper-android-handheld-game-console-but-it-still-has-flagship-class-features/>
+
+---
+
+## iCloud Backups Lawsuit
+
+date: 2025-07-30, from: Michael Tsai
+
+Hartley Charlton (Gamboa v. Apple PDF): Apple will face a proposed class action lawsuit in California federal court over allegations that iCloud unlawfully monopolizes iPhone users&#8217; access to core device backups, following a judge&#8217;s decision to deny the company&#8217;s motion to dismiss the case (via Reuters). I wonder if this is the wrong Reuters link, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/30/icloud-backups-lawsuit/>
+
+---
+
+## Sound Therapy
+
+date: 2025-07-30, from: Michael Tsai
+
+Apple: Apple Music is joining forces with Universal Music Group (UMG) to introduce Sound Therapy, an innovative audio wellness collection designed to help listeners attain clearer focus, deeper relaxation, and better sleep. [&#8230;] Available exclusively on Apple Music, Sound Therapy blends songs subscribers already know and love with special sound waves designed to enhance users&#8217; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/30/sound-therapy/>
+
+---
+
+## AI Bunnies on Trampoline Causing Crisis of Confidence on TikTok
+
+date: 2025-07-30, from: 404 Media Group
+
+People failing to identify a video of adorable bunnies as AI slop has sparked worries that many more people could fall for online scams. 
+
+<br> 
+
+<https://www.404media.co/ai-bunnies-on-trampoline-causing-crisis-of-confidence-on-tiktok/>
+
+---
+
+## The new Tuxedo InfinityBook Pro 15 is a Linux laptop with AMD Ryzen AI 300 and a 2.5K, 240 Hz display
+
+date: 2025-07-30, from: Liliputing
+
+<p>The Tuxedo InfinityBook Pro 15 Gen 10 is a laptop with a 15.3 inch, 2560 x 1600 pixel, 240 Hz display, support for up to an AMD Ryzen AI 9 HX 370 Strix Point processor, up to 128GB of RAM, and up to two SSDs. It&#8217;s also one of a relatively small number of laptops that comes [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/the-new-tuxedo-infinitybook-pro-15-is-a-linux-laptop-with-amd-ryzen-ai-300-and-a-2-5k-240-hz-display/">The new Tuxedo InfinityBook Pro 15 is a Linux laptop with AMD Ryzen AI 300 and a 2.5K, 240 Hz display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/the-new-tuxedo-infinitybook-pro-15-is-a-linux-laptop-with-amd-ryzen-ai-300-and-a-2-5k-240-hz-display/>
+
+---
+
+## AI Puts Your Personal Privacy at Risk
+
+date: 2025-07-30, from: Purism News and Events
+
+<p>The proliferation of AI models across consumer platforms has ushered in a new era of convenience—but it’s also accelerated the erosion of personal privacy.<br />
+Large language models (LLMs) are trained on staggering volumes of data, including publicly available content and, in some cases, personally identifiable information (PII). That means sensitive metadata—everything from search history and location trails to voice recordings and biometric markers—can be folded into systems that behave like omniscient assistants, but without full user transparency or consent. In the monolithic culture of big tech, “innovation” often comes at the cost of ethical boundaries.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/ai-puts-your-personal-privacy-at-risk/">AI Puts Your Personal Privacy at Risk</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/ai-puts-your-personal-privacy-at-risk/>
+
+---
+
+## The best available open weight LLMs now come from China
+
+date: 2025-07-30, updated: 2025-07-30, from: Simon Willison’s Weblog
+
+<p>Something that has become undeniable this month is that the best available open weight models now come from the Chinese AI labs.</p>
+<p>I continue to have a lot of love for Mistral, Gemma and Llama but my feeling is that Qwen, Moonshot and Z.ai have positively <em>smoked them</em> over the course of July.</p>
+<p>Here's what came out this month, with links to my notes on each one:</p>
+<ul>
+<li>Moonshot <a href="https://simonwillison.net/2025/Jul/11/kimi-k2/">Kimi-K2-Instruct</a> - 11th July, 1 trillion parameters</li>
+<li>Qwen <a href="https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/">Qwen3-235B-A22B-Instruct-2507</a> - 21st July, 235 billion</li>
+<li>Qwen <a href="https://simonwillison.net/2025/Jul/22/qwen3-coder/">Qwen3-Coder-480B-A35B-Instruct</a> - 22nd July, 480 billion</li>
+<li>Qwen <a href="https://simonwillison.net/2025/Jul/25/qwen3-235b-a22b-thinking-2507/">Qwen3-235B-A22B-Thinking-2507</a> - 25th July, 235 billion</li>
+<li>Z.ai <a href="https://simonwillison.net/2025/Jul/28/glm-45/">GLM-4.5 and GLM-4.5 Air</a> - 28th July, 355 and 106 billion</li>
+<li>Qwen <a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instruct-2507/">Qwen3-30B-A3B-Instruct-2507</a> - 29th July, 30 billion</li>
+<li>Qwen <a href="https://simonwillison.net/2025/Jul/30/qwen3-30b-a3b-thinking-2507/">Qwen3-30B-A3B-Thinking-2507</a> - 30th July, 30 billion</li>
+</ul>
+<p><small>Notably absent from this list is DeepSeek, but that's only because their last model release was <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-0528">DeepSeek-R1-0528</a> back in April.</small></p>
+<p>The only janky license among them is Kimi K2, which uses a non-OSI-compliant modified MIT. Qwen's models are all Apache 2 and Z.ai's are MIT.</p>
+<p>The larger Chinese models all offer their own APIs and are increasingly available from other providers.  I've been able to run versions of the Qwen 30B and GLM-4.5 Air 106B models on my own laptop.</p>
+<p>I can't help but wonder if part of the reason for the delay in release of OpenAI's open weights model comes from a desire to be notably better than this truly impressive lineup of Chinese models.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/30/chinese-models/#atom-everything>
+
+---
+
+## Lenovo ThinkBook Plus Gen 6 rollable laptop is now available for $3300
+
+date: 2025-07-30, from: Liliputing
+
+<p>The first laptop with a rollable display is now available for purchase. First introduced earlier this year, the Lenovo ThinkBook Plus Gen 6 looks like an ordinary laptop with a 14 inch display at first. But at the press of a button that screen unrolls and extends upward to become a larger 16.7 inch screen [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovo-thinkbook-plus-gen-6-rollable-laptop-is-now-available-for-3300/">Lenovo ThinkBook Plus Gen 6 rollable laptop is now available for $3300</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovo-thinkbook-plus-gen-6-rollable-laptop-is-now-available-for-3300/>
+
+---
+
+## Los Cuatro Fantásticos: primeros pasos —con el pie izquierdo
+
+date: 2025-07-30, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Matt Shakman.   Guion: Josh Friedman, Eric Pearson, Jeff Kaplan, Ian Springer.   Elenco: Pedro Pascal, Vanessa Kirby, Joseph Quinn, Ebon Moss-Bachrach, Ralph Ineson, Julia Garner.  País: Estados Unidos.     Más información de la película: https://www.imdb.com/title/tt10676052/   Esta reseña contiene spoilers.   Pese a sus reiterados fracasos cinematográficos en 1994, 2005 y 2015, los Cuatro Fantásticos ocupan un [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-cuatro-fantasticos-primeros-pasos/">Los Cuatro Fantásticos: primeros pasos —con el pie izquierdo</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-los-cuatro-fantasticos-primeros-pasos/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-los-cuatro-fantasticos-primeros-pasos>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-30, from: Robert's feed at BlueSky)
+
+Something to think about. Time for more community run networks.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lv6y5qjfek22>
+
+---
+
+## New Deep Sea Creatures ‘Challenge Current Models of Life,’ Scientists Say
+
+date: 2025-07-30, from: 404 Media Group
+
+Scientists have discovered chemosynthetic animals, which don’t rely on the Sun to live, nearly six miles under the ocean surface—deeper than any found to date.  
+
+<br> 
+
+<https://www.404media.co/new-deep-sea-creatures-challenge-current-models-of-life-scientists-say/>
+
+---
+
+## Qwen3-30B-A3B-Thinking-2507
+
+date: 2025-07-30, updated: 2025-07-30, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507">Qwen3-30B-A3B-Thinking-2507</a></strong></p>
+Yesterday was <a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instruct-2507/">Qwen3-30B-A3B-Instruct-2507</a>. Qwen are clearly committed to their new split between reasoning and non-reasoning models (a reversal from Qwen 3 in April), because today they released the new reasoning partner to yesterday's model: <strong>Qwen3-30B-A3B-Thinking-2507</strong>.</p>
+<p>I'm surprised at how poorly this reasoning mode performs at "Generate an SVG of a pelican riding a bicycle" compared to its non-reasoning partner. The <a href="https://gist.github.com/simonw/b523c029152f646ce4efb3c4dd5e1d01#reasoning">reasoning trace</a> appears to carefully consider each component and how it should be positioned... and then <a href="https://gist.github.com/simonw/b523c029152f646ce4efb3c4dd5e1d01#response">the final result</a> looks like this:</p>
+<p><img alt="A line with two dots, over a rhombus, with two circles and a pelican that looks like a grey snowman. They are not arranged in a sensible layout." src="https://static.simonwillison.net/static/2025/qwen3-30b-a3b-thinking-2507.png" /></p>
+<p>I ran this using <a href="https://chat.qwen.ai/?model=Qwen3-30B-A3B-2507">chat.qwen.ai/?model=Qwen3-30B-A3B-2507</a> with the "reasoning" option selected.</p>
+<p>I also tried the "Write an HTML and JavaScript page implementing space invaders" prompt I <a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instruct-2507/#space-invaders">ran against the non-reasoning model</a>. It did a better job in that <a href="https://tools.simonwillison.net/space-invaders-qwen3-30b-a3b-thinking-2507">the game works</a>:</p>
+<div style="max-width: 100%; margin-bottom: 0.4em">
+    <video controls="controls" preload="none" aria-label="Space Invaders" poster="https://static.simonwillison.net/static/2025/qwen3-30b-a3b-thinking-2507-space-invaders.jpg" loop="loop" style="width: 100%; height: auto;" muted="muted">
+        <source src="https://static.simonwillison.net/static/2025/qwen3-30b-a3b-thinking-2507-space-invaders.mp4" type="video/mp4" />
+    </video>
+</div>
+
+<p>It's not as playable as the on <a href="https://simonwillison.net/2025/Jul/29/space-invaders/">I got from GLM-4.5 Air</a> though - the invaders fire their bullets infrequently enough that the game isn't very challenging.</p>
+<p>This model is part of a flurry of releases from Qwen over the past two 9 days. Here's my coverage of each of those:</p>
+<ul>
+<li><a href="https://simonwillison.net/2025/Jul/22/qwen3-235b-a22b-instruct-2507/">Qwen3-235B-A22B-Instruct-2507</a> - 21st July</li>
+<li><a href="https://simonwillison.net/2025/Jul/22/qwen3-coder/">Qwen3-Coder-480B-A35B-Instruct</a> - 22nd July</li>
+<li><a href="https://simonwillison.net/2025/Jul/25/qwen3-235b-a22b-thinking-2507/">Qwen3-235B-A22B-Thinking-2507</a> - 25th July</li>
+<li><a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instruct-2507/">Qwen3-30B-A3B-Instruct-2507</a> - 29th July</li>
+<li>Qwen3-30B-A3B-Thinking-2507 - today</li>
+</ul>
+
+    <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1950570969036361799">@Alibaba_Qwen</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/30/qwen3-30b-a3b-thinking-2507/#atom-everything>
+
+---
+
+## Journalist Discovers Google Vulnerability That Allowed People to Disappear Specific Pages From Search
+
+date: 2025-07-30, from: 404 Media Group
+
+Negative articles about a tech CEO vanished from Google after someone made fraudulent requests using the Refresh Outdated Content Tool. 
+
+<br> 
+
+<https://www.404media.co/journalist-discovers-google-vulnerability-that-allowed-people-to-disappear-specific-pages-from-search/>
+
+---
+
+## Spotify Is Forcing Users to Undergo Face Scanning to Access Explicit Content
+
+date: 2025-07-30, from: 404 Media Group
+
+Submit to biometric face scanning or risk your account being deleted, Spotify says, following the enactment of the UK's Online Safety Act.  
+
+<br> 
+
+<https://www.404media.co/spotify-uk-age-check-verification-yoti/>
+
+---
+
+## The Myth of Overnight Success
+
+date: 2025-07-30, from: Guy Kawasaki blog
+
+Spoiler alert: it&#8217;s never overnight. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-myth-of-overnight-success>
+
+---
+
+## Living Next To Tesla Diner Is 'Absolute Hell,' Neighbors Say
+
+date: 2025-07-30, from: 404 Media Group
+
+We talked to people living in the building whose views are being blocked by Tesla's massive four-story screen. 
+
+<br> 
+
+<https://www.404media.co/living-next-to-tesla-diner-is-absolute-hell-neighbors-say/>
+
+---
+
+## Show Me The Magic podcast
+
+date: 2025-07-30, from: Kilian Valkhof's blog
+
+<p>Last night (!) I recorded an episode of the Show me the magic podcast with Frederick Tubiermont. Frederick saw Polypane listed as one of the Paddle Launchpad Finalists (Hooray!) and reached out to ask if I wanted to record an episode with him. Thanks Frederick for having me on, and for the great conversation (on [&#8230;]</p>
+The post <a href="https://kilianvalkhof.com/2025/web/show-me-the-magic-podcast/">Show Me The Magic podcast</a> first appeared on <a href="https://kilianvalkhof.com">Kilian Valkhof</a>. 
+
+<br> 
+
+<https://kilianvalkhof.com/2025/web/show-me-the-magic-podcast/>
+
+---
+
+## Don’t Make a Scene, Chuck
+
+date: 2025-07-30, updated: 2025-07-30, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/30/dont-make-a-scene-chuck/>
 
 ---
 
@@ -154,7 +424,7 @@ New ChatGPT feature, which can be triggered by typing <code>/study</code> or by 
 
 date: 2025-07-29, from: Michael Tsai
 
-Juli Clover (release notes, security, enterprise, developer, full installer, IPSW): According to Apple&#8217;s release notes, the update provides important bug fixes and security updates. See also: Howard Oakley and Mr. Macintosh. Previously: macOS 15.5 
+Juli Clover (release notes, security, enterprise, developer, full installer, IPSW): According to Apple&#8217;s release notes, the update provides important bug fixes and security updates. See also: Howard Oakley and Mr. Macintosh. Previously: macOS 15.5 Update (2025-07-30): Howard Oakley: macOS Sequoia 15.6 is likely to be the last scheduled general update before Sequoia enters its two [&#8230;] 
 
 <br> 
 
@@ -246,11 +516,11 @@ The Plaintiff claims Tea harmed her and ‘thousands of other similarity situate
 
 ---
 
-## Qwen/Qwen3-30B-A3B-Instruct-2507
+## Qwen3-30B-A3B-Instruct-2507
 
 date: 2025-07-29, updated: 2025-07-29, from: Simon Willison’s Weblog
 
-<p><strong><a href="https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507">Qwen/Qwen3-30B-A3B-Instruct-2507</a></strong></p>
+<p><strong><a href="https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507">Qwen3-30B-A3B-Instruct-2507</a></strong></p>
 New model update from Qwen, improving on their previous <a href="https://simonwillison.net/2025/Apr/29/qwen-3/">Qwen3-30B-A3B release</a> from late April. In <a href="https://x.com/Alibaba_Qwen/status/1950227114793586867">their tweet</a> they said:</p>
 <blockquote>
 <p>Smarter, faster, and local deployment-friendly.</p>
@@ -271,7 +541,8 @@ New model update from Qwen, improving on their previous <a href="https://simonwi
 <p>I went looking for quantized versions that could fit on my Mac and found <a href="https://huggingface.co/lmstudio-community/Qwen3-30B-A3B-Instruct-2507-MLX-8bit">lmstudio-community/Qwen3-30B-A3B-Instruct-2507-MLX-8bit</a> from <a href="https://lmstudio.ai/">LM Studio</a>. Getting that up and running was a 32.46GB download and it appears to use just over 30GB of RAM.</p>
 <p>The <a href="https://gist.github.com/simonw/d608dc37cb7871f12caf8fbc0657fcad">pelican I got from that one</a> wasn't as good:</p>
 <p><img alt="It looks more like a tall yellow hen chick riding a segway" src="https://static.simonwillison.net/static/2025/qwen3-30b-a3b-instruct-2507-mlx.png" /></p>
-<p>I then tried that local model on the "Write an HTML and JavaScript page implementing space invaders" task <a href="https://simonwillison.net/2025/Jul/29/space-invaders/">that I ran against GLM-4.5 Air</a>. The output <a href="https://gist.github.com/simonw/965111fd6fac320b7eec50710c1761db">looked promising</a>, in particular it seemed to be putting more effort into the design of the invaders (GLM-4.5 Air just used rectangles):</p>
+<p id="space-invaders">I then tried that local model on the "Write an HTML and JavaScript page implementing space invaders" task <a href="https://simonwillison.net/2025/Jul/29/space-invaders/">that I ran against GLM-4.5 Air</a>. The output <a href="https://gist.github.com/simonw/965111fd6fac320b7eec50710c1761db">looked promising</a>, in particular it seemed to be putting more effort into the design of the invaders (GLM-4.5 Air just used rectangles):</p>
+
 <pre><span class="pl-c">// Draw enemy ship</span>
 <span class="pl-s1">ctx</span><span class="pl-kos">.</span><span class="pl-c1">fillStyle</span> <span class="pl-c1">=</span> <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">color</span><span class="pl-kos">;</span>
 

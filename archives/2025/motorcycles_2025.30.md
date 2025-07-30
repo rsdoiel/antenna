@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-07-30 06:07:59
+updated: 2025-07-30 14:07:38
 ---
 
 # motorcycles
 
-(date: 2025-07-30 06:07:59)
+(date: 2025-07-30 14:07:38)
+
+---
+
+## KTM Is Open to Partner to Stay in MotoGP, Likely It's Only Hope
+
+date: 2025-07-30, from: Ride Apart, Electric Motorcycle News
+
+After KTM's insolvency manager stated unequivocally that the brand would leave MotoGP, its new CEO stated that its continued entry in the sport rests on regulations and possibly finding a partner.  
+
+<br> 
+
+<https://www.rideapart.com/news/767381/ktm-motogp-partner-search-ceo-gottfried-neumeister/>
+
+---
+
+## UK Rolls Out £650 Million in EV Incentives, But Two-Wheelers Are Left Out
+
+date: 2025-07-30, from: Ride Apart, Electric Motorcycle News
+
+The Plug-in Motorcycle Grant ends in 2026, offering little support compared to the generous EV car scheme. Meanwhile, £650 million for EV car incentives is coming.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767243/uk-ev-incentives-bikes-left-out/>
 
 ---
 

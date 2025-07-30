@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-30 06:07:58
+updated: 2025-07-30 14:07:37
 ---
 
 # libraries
 
-(date: 2025-07-30 06:07:58)
+(date: 2025-07-30 14:07:37)
 
 ---
 
@@ -250,6 +250,18 @@ Nisi, A. Valentina; Arnold, Myrtha M.L.; Blonde, Ginger D.; Schier, Lindsey A.; 
 
 ---
 
+## IFLA Signs Statement Supporting Digital Rights of Memory Institutions
+
+date: 2025-07-30, from: Internet Archive Blog
+
+The global campaign to secure digital rights for libraries and memory institutions just gained a powerful new ally. As explained in a post by Beatrice Murch of Internet Archive Europe, [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/07/30/ifla-signs-statement-supporting-digital-rights-of-memory-institutions/>
+
+---
+
 ## Impacting Teaching and Learning Through an Open Educational Resources Initiative
 
 date: 2025-07-30, from: Association of Research Libraries News
@@ -275,6 +287,18 @@ date: 2025-07-30, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/07/30/guest-post-society-publishers-at-a-crossroads-new-evidence-of-an-accelerating-crisis/>
+
+---
+
+## Ramsey numbers of oriented hypergraphs
+
+date: 2025-07-30, from: ETH Zurich, recently added
+
+Quarch, Immanuel 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/749114>
 
 ---
 
@@ -308,7 +332,7 @@ date: 2025-07-29, from: Scholarly Kitchen
 
 date: 2025-07-28, from: Association of Research Libraries News
 
-<p>Last Updated on July 29, 2025, 3:46 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 29 &#124; Wednesday, July 30 &#124; Thursday,...</p>
+<p>Last Updated on July 30, 2025, 3:01 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 29 &#124; Wednesday, July 30 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-28-31/">Day in Review (July 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-07-30 06:08:02
+updated: 2025-07-30 14:07:40
 ---
 
 # small papers
 
-(date: 2025-07-30 06:08:02)
+(date: 2025-07-30 14:07:40)
+
+---
+
+## With AI Plan, Trump Keeps Chipping Away at a Foundational Environmental Law
+
+date: 2025-07-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="637" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25209726669948-scaled-e1753900075690.jpg?fit=1024%2C637&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25209726669948-scaled-e1753900075690.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25209726669948-scaled-e1753900075690.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25209726669948-scaled-e1753900075690.jpg?fit=1024%2C637&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/AP25209726669948-scaled-e1753900075690.jpg?fit=1024%2C637&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Melina Walling And Matthew Daly Associated Press When President Donald Trump rolled out a plan to boost artificial intelligence and data centers, a key goal was wiping away barriers to [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/with-ai-plan-trump-keeps-chipping-away-at-a-foundational-environmental-law/">With AI Plan, Trump Keeps Chipping Away at a Foundational Environmental Law</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/with-ai-plan-trump-keeps-chipping-away-at-a-foundational-environmental-law/>
+
+---
+
+## LA County supervisors move to prohibit federal agents from wearing masks
+
+date: 2025-07-30, from: Long Beach Post
+
+<figure><img width="680" height="383" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg 680w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The board asked county lawyers to draft a rule that would also require all law enforcement officers “to wear visible identification and agency affiliation.”</p>
+<p>The post <a href="https://lbpost.com/news/la-county-supervisors-move-to-prohibit-federal-agents-from-wearing-masks">LA County supervisors move to prohibit federal agents from wearing masks</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la-county-supervisors-move-to-prohibit-federal-agents-from-wearing-masks>
 
 ---
 
@@ -13,8 +43,8 @@ updated: 2025-07-30 06:08:02
 
 date: 2025-07-30, from: Long Beach Post
 
-<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Staff at Farm Lot 59 suspect they were targeted in retaliation after homeless people were cleared from an encampment in the adjacent Willow Springs Park.</p>
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Staff at Farm Lot 59 suspect they were targeted in retaliation after an encampment was cleared in the adjacent Willow Springs Park.</p>
 <p>The post <a href="https://lbpost.com/news/place/farm-lot-59-vandalism-fire-help">Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
@@ -24,13 +54,13 @@ date: 2025-07-30, from: Long Beach Post
 
 ---
 
-## Tsunami waves of less than 1 foot forecast to hit Long Beach around 1 a.m.
+## Tsunami advisory lifted for Long Beach
 
 date: 2025-07-30, from: Long Beach Post
 
 <figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-1024x566.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-768x425.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-400x221.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Here's what we know about the potential local impacts of the tsunami.</p>
-<p>The post <a href="https://lbpost.com/news/tsunami-forcast-long-beach-when-how-big-waves">Tsunami waves of less than 1 foot forecast to hit Long Beach around 1 a.m.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>Here's what we know about the local impacts of the tsunami.</p>
+<p>The post <a href="https://lbpost.com/news/tsunami-forcast-long-beach-when-how-big-waves">Tsunami advisory lifted for Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 

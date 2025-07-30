@@ -1,11 +1,186 @@
 ---
 title: columns
-updated: 2025-07-30 06:07:55
+updated: 2025-07-30 14:07:34
 ---
 
 # columns
 
-(date: 2025-07-30 06:07:55)
+(date: 2025-07-30 14:07:34)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-30, from: Dave Winer's Scripting News)
+
+Disclaimer: I own zero stock in AI companies, except for mutual funds and some Apple stock I've held for decades for sentimental and tax reasons. 
+
+<br> 
+
+<http://scripting.com/2025/07/30.html#a203204>
+
+---
+
+## ★ Tea, the Women’s Dating Gossip App Riddled With Security Vulnerabilities, Remains #3 on the US iPhone App Store
+
+date: 2025-07-30, updated: 2025-07-30, from: Daring Fireball
+
+Tea remains a chart-topping app in the App Store, but isn’t listed at all in Play Store top lists. 
+
+<br> 
+
+<https://daringfireball.net/2025/07/tea_number_3_app_store>
+
+---
+
+##  Covid safety measures drastically reduced flu deaths, but the fatality rate has... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047245-covid-safety-measures-dra>
+
+---
+
+##  Weird & Wonderful Historical Photos From the 20th Century 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/weird-wonderful-historical-photos-from-the-20th-century>
+
+---
+
+## Zed code editor hears your prayers, rolls out AI-free mode
+
+date: 2025-07-30, updated: 2025-07-30, from: Liam Proven's articles at the Register
+
+<h4>Can we have this as a global feature in all software? Please?</h4>
+      <p>Zed, a fast new Rust-based text editor aimed at programmers, now lets you totally disable LLM bot integration. We&#39;re sure some users will rejoice – but how many?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/07/30/zed_without_llm_bot/>
+
+---
+
+##  Zim&Zou&#8217;s &#8217;80s-Inspired Paper Cassettes and Boombox Radiate with Color. Strange, now I... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047244-zimzous-80s-inspired-pape>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-30, from: Miguel de Icaza Mastondon feed)
+
+<p>I love my SwiftUI Observable view-models, how I use some 150 of them in Xogot:</p><p><a href="https://blog.la-terminal.net/blissful-ui-development-with-swiftui-and-godot/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/blissful-</span><span class="invisible">ui-development-with-swiftui-and-godot/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114942945068608590>
+
+---
+
+## YouTube Is Rolling Out an Age-Estimation Algorithm to Identify US Teens
+
+date: 2025-07-30, updated: 2025-07-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-30, from: Dave Winer's Scripting News)
+
+This is the <a href="https://links.daveverse.org/">rendering of my linkblog</a> in WordPress. This is a major milestone. We have in WordPress, what you see on the Links page on scripting.com, implemented entirely in WordPress. Scott Hanson is in charge of the Baseline theme, the one that we're using to build out the WordPress side of WordLand's features. Here are his <a href="https://wordland.shanson.de/2025/07/30/linkblog-homepage-layout/">notes</a> on the linkblog feature. 
+
+<br> 
+
+<http://scripting.com/2025/07/30.html#a151935>
+
+---
+
+##  Someone Played a Perfect Game of Tetris 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/someone-played-a-perfect-game-of-tetris>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-30, from: Dave Winer's Scripting News)
+
+BTW, I say ChatGPT instead of "AI" because I'm not comfortable characterizing it as intelligence. Deeper you get into it you learn that these beings whatever they are have serious character flaws that are counter-intelligent. 
+
+<br> 
+
+<http://scripting.com/2025/07/30.html#a143902>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-30, from: Dave Winer's Scripting News)
+
+Another benefit of ChatGPT. It forces you to think and express yourself in tight logical language. Garbage in garbage out. All of a sudden rigorous thinking is required to get a result. This is very different from social media, where garbage is rewarded. 
+
+<br> 
+
+<http://scripting.com/2025/07/30.html#a143658>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/07/30/meetTheBeatles.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Last night's <a href="https://shownotes.scripting.com/scripting/2025/07/29/aiIsARevolution.html">podcast</a> about how AI is a revolution. I had just listened to a New Yorker podcast <a href="https://www.newyorker.com/podcast/political-scene/wireds-katie-drummond-on-what-the-tech-titans-learned-from-doge">interview</a> with the <a href="https://en.wikipedia.org/wiki/Editor-in-chief">EIC</a> at Wired, saying the hype was bullshit. You hear this from journalists a lot. The only way you can conclude this, imho, is if you aren't using the stuff. It's as if you were a journalist in the 60s and said the story of the Beatles is that their hair must be fake. OK, whatever you say, but have you listened to the freaking music?? I'm sure a lot of journalists in the 60s said bullshit like that but the Beatles did turn the world upside down, and it stayed that way. It marked the beginning of something very new. And, as with AI, <i>journalism missed the story</i>. If you don't trust the CEOs, that's okay, probably the right approach. But that doesn't mean they're wrong about the value of the tech. Develop sources the old fashioned way, and if you think money biases the CEOs in favor of the hype, listen to experts who don't have any stock in the companies. 
+
+<br> 
+
+<http://scripting.com/2025/07/30.html#a141337>
+
+---
+
+##  Note to self: spend some time checking out Tapestry, Iconfactory&#8217;s universal feed/social... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047234-note-to-self-spend-some>
+
+---
+
+## Before I go: Always buy the $200 Yamaha
+
+date: 2025-07-30, from: Dave Rupert blog
+
+<p>I don’t have much life advice but I do know one thing: Always buy the $200 Yamaha guitar.</p>
+<p>If you’re thinking about it, do it. Talk to any guitarist you know who has been playing awhile and they’ll have a story about a $200 Yamaha and how good it sounds relative to the price. It’s with uncanny regularity I encounter fellow travelers with a similar story about this particular cheap guitar.</p>
+<p>My $200 Yamaha story growing up was my step-dad’s acoustic. He had two acoustic guitars actually; the Yamaha which stayed out propped against his bedroom wall and another one (I don’t remember the brand) with fancy jade inlays that stayed clasped in the green felt case under his bed. I wasn’t supposed to touch any of his guitars but I would sneak in and noodle on that Yamaha every chance I got. The Yamaha had a notable cheap lacquer “clack” to it when tapping the dreadnaught body and the sound it made when bumping into furniture was always harrowing, but the fretboard was smooth and it produced a sound that was both bright and deep; a surprise given the lightweight materials.</p>
+<p>I stole some licks on the fancy under-the-bed acoustic a couple times, but the luxury materials produced a tinny sound with no body or resonance and despite its extra forbidden-ness it wasn’t even worth the trouble digging out of its case. The Yamaha with its casual out-of-the-case-because-I-only-cost-200-dollars vibes was not only easier to access, it was better on all accounts.</p>
+<p>Is the $200 Yamaha the best guitar? No, probably not. Is it a great guitar? Emphatically, yes. An impeccable piece of Japanese engineering. I’ve owned $2,000 guitars, played friends’ $4,000 guitars, and the $200 Yamaha gives them all a run for their money every time. Good entry-level acoustic guitars from Martin and Taylor exist in the $500 range and they’re great purchases you won’t regret, but it’s not until the $1500 range that you start getting the material quality bumps those guitars deserve. But once you have a $1500 guitar, you start to baby it and hide it away in the case to protect it from scratches and bumps, from air of the wrong humidity, and from snoopy kids with clumsy hands. This is not a problem with the $200 Yamaha.</p>
+<p>We bought a $200 Yamaha last month: a 3/4ths scale travel guitar. We went on a family beach vacation in July and my brother-in-law’s family notified us the day before that the cousins were having a no-device week. Worried our 12yo son would die –kidding, but he appreciates prior warnings about adjustments like this and we weren’t prepared for a fully offline week– we bought the $200 Yamaha to be an offline activity and have zero regrets. He noodled all week long and got noticeably better. Cousins and uncles even got into the mix trading riffs. It sounds phenomenal for a mini-acoustic (like a big acoustic!) but more importantly if it takes a tumble, gets stepped on by a toddler cousin, or filled with sand; we’re not even upset. A perfect travel guitar if there ever was.</p>
+<p>Instruments are an intimate and personal item and choosing one can have an Ollivander’s Wand Shop element to it; you must find the one that speaks to you. And it’s up to you to treat yourself accordingly based on your budget. But what I will say is, from a dollar-per-quality or a cost-per-song perspective, you can’t go wrong with the $200 Yamaha.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/07/always-buy-the-yamaha/>
 
 ---
 
@@ -527,7 +702,7 @@ Today&#8217;s theme seems to be Republican leadership digging into positions tha
 
 ## Security Breach at Tea Worsens, Revealing Users’ DMs About Abortions and Cheating
 
-date: 2025-07-29, updated: 2025-07-29, from: Daring Fireball
+date: 2025-07-29, updated: 2025-07-30, from: Daring Fireball
 
  
 

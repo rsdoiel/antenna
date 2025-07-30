@@ -1,11 +1,61 @@
 ---
 title: food
-updated: 2025-07-30 06:08:02
+updated: 2025-07-30 14:07:40
 ---
 
 # food
 
-(date: 2025-07-30 06:08:02)
+(date: 2025-07-30 14:07:40)
+
+---
+
+## The 4 Best Candle Warmer Lamps Our Editors Have Tested
+
+date: 2025-07-30, from: Taste of Home
+
+<p>Keep your candles glowing longer with the best candle warmer lamps tested by our editors.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-candle-warmer-lamps/">The 4 Best Candle Warmer Lamps Our Editors Have Tested</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-candle-warmer-lamps/>
+
+---
+
+## Goldilocks Cookware Review: The Best Budget Pans We've Tested
+
+date: 2025-07-30, from: Bon Appetet
+
+After testing a range of affordable cookware, we found Goldilocks to be a standout for performance, thoughtful design, and value. 
+
+<br> 
+
+<https://www.bonappetit.com/story/goldilocks-cookware-review>
+
+---
+
+## There’s Still Hope For A Coffee Tariff Exemption
+
+date: 2025-07-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. In a television interview, US Commerce Secretary Howard Lutnick hinted at a reprieve. 
+
+<br> 
+
+<https://sprudge.com/theres-still-hope-for-a-coffee-tariff-exemption-383143.html>
+
+---
+
+## How Chef Ange Branca Rebuilt Her Philly Restaurant—Twice
+
+date: 2025-07-30, from: Bon Appetet
+
+At her Malaysian restaurant, Kampar, chef Ange Branca blends mentorship, equity, and resilience into a model for what restaurants could be. 
+
+<br> 
+
+<https://www.bonappetit.com/story/after-two-restaurant-fires-philly-chef-ange-branca-is-still-standing>
 
 ---
 

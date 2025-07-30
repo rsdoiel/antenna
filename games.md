@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-07-30 06:07:56
+updated: 2025-07-30 14:07:35
 ---
 
 # games
 
-(date: 2025-07-30 06:07:56)
+(date: 2025-07-30 14:07:35)
+
+---
+
+## Where to find blueberries for blueberry leather in Grounded 2
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+Finding Grounded 2&#8216;s blueberries marks your first step out of the survival game&#8217;s introductory stages, as you start exploring further afield and gathering resources to upgrade your Omni-Tool. You need blueberries to make blueberry leather, and there&#8217;s one guaranteed place to find them. It&#8217;s just not very safe. Below, we explain where to find blueberries [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617696/grounded-2-blueberries-locations-where-to-find-leather>
+
+---
+
+## Where to offer Divine Gifts in Wuchang: Fallen Feathers
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+There are some methods to control your Madness level in Wuchang: Fallen Feathers, and one of them involves using special items called Divine Gifts and Fragments of Divine Gift. Although they are quite rare, these items can save you from the Madness debuff and make fights more fair.  In this Wuchang: Fallen Feathers guide, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617714/wuchang-fallen-feathers-divine-gifts-fragments-offer-where-to-find>
+
+---
+
+## Can a game about a pixelated cat change the narrative around drug education?
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+Substance abuse education in the United States has long been regarded as corny, at best. (Think: D.A.R.E.) But LA-based nonprofit End Overdose is trying to make the field relatable through a browser game called Narcat&#8217;s World, a point-and-click adventure that teaches players how to respond to opiate overdoses and save lives by administering Narcan. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/617694/narcats-world-harm-reduction-drug-education-how-to-play>
+
+---
+
+## Looks like everyone’s gonna want to play Blade in Marvel Rivals
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+Marvel Rivals players have been anticipating Marvel’s Daywalker since the release of the game, and that hype has only grown stronger as the hero shooter has continually teased his arrival. Well, Blade is coming to Marvel Rivals on Aug. 8 — and based on his early gameplay footage, perhaps the wait was worth it. Surprising [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/617662/when-is-blade-coming-to-marvel-rivals-season-3-gameplay-patch-changes>
+
+---
+
+## Cozy? Please, Tales of the Shire is a tragedy
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+Tales of the Shire’s setting, the little Hobbit hamlet of Bywater, is absolutely lovely. Its lush forest, picturesque Hobbit-holes, and friendly locals seem to make it an excellent location to settle down and enjoy the cozy Hobbit life. Too bad it’s about to be wrecked in The Scouring of the Shire just years later. I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/617504/tales-shire-cozy-game-tragedy-scouring-shire>
+
+---
+
+## The Sims convinced another huge musician to sing in Simlish
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+The Sims 4&#8216;s latest expansion pack, Enchanted by Nature, has received quite a bit of promotion from publisher Electronic Arts since its release in July, but its latest promo for the game — an FKA Twigs music video made in-game and sung in Simlish — isn&#8217;t as out of left field as it might sound. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/617627/sims-4-fka-twigs-video-enchanted-by-nature>
+
+---
+
+## All Ingot Isle Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+In Donkey Kong Bananza, Ingot Isle is actually where you start the game, learning how to control DK and picking up a few Banandium Gems along the way. After you beat the game, you’ll be able to fully explore Ingot Isle again, this time expanded with more golden bananas to find. [Ed. note: There are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/616943/ingot-isle-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Clair Obscur patch lets you immediately get your butt kicked again by *that boss* after defeat
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+Clair Obcur: Expedition 33 was released in April as a relatively polished game. Yet, bug fixes and minor improvements are always welcome, and that’s what Wednesday’s patch 1.4.0 brings. Unlike the game’s first major patch that nerfed Maelle (but not really), patch 1.4.0 centers around quality of life improvements, the most notable being a battle-retry [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/617649/clair-obscur-patch-battle-retry-lumina-cost>
+
+---
+
+## Radiance Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+In Donkey Kong Bananza, you’ll hit the Radiance Layer as your 12th zone. It’s another big area filled with Banandium Gems. Some of the sublayers only have a few bananas, so don’t fret too much when you see that this place has a whopping five sublayers. The Radiance Layer is home to snake people and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615616/radiance-layer-banandium-gem-golden-banana-locations-list-map-all>
 
 ---
 

@@ -1,11 +1,230 @@
 ---
 title: pacific
-updated: 2025-07-30 06:07:52
+updated: 2025-07-30 14:07:32
 ---
 
 # pacific
 
-(date: 2025-07-30 06:07:52)
+(date: 2025-07-30 14:07:32)
+
+---
+
+## Cook Islands celebrates 60 years of self-governance amid growing rift with NZ
+
+date: 2025-07-30, from: 
+
+The biggest event in the Cook Islands calendar is currently underway, marking 60 years of free association with New Zealand. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568534/cook-islands-celebrates-60-years-of-self-governance-amid-growing-rift-with-nz>
+
+---
+
+## Tsunami advisories lifted across Pacific following magnitude 8.8 quake off Russia's coast
+
+date: 2025-07-30, from: 
+
+There are now no formal warnings in the Pacific, but the threat of tsunami waves remains possible. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568515/tsunami-advisories-lifted-across-pacific-following-magnitude-8-point-8-quake-off-russia-s-coast>
+
+---
+
+## Guam isn't tsunami-proof. 'We have just been very lucky,' meteorologist says
+
+date: 2025-07-30, from: Pacific Island Times
+
+Several Guam residents were comforted by the belief that the Marianas Trench makes the island tsunami-proof. Landon Aydlett, a warning coordination meteorologist at the U.S. National Weather Service, debunked this theory as a myth.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-isn-t-tsunami-proof-we-have-just-been-very-lucky-meteorologist-says>
+
+---
+
+## 'From moral duty to legal obligation': Pacific church leader hails ICJ climate ruling
+
+date: 2025-07-30, from: 
+
+Pacific Conference of Churches secretary-geeneral says the landmark climate ruling from the world's top court is a significant win, but much more work is needed. The leader of the Pacific... 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568531/from-moral-duty-to-legal-obligation-pacific-church-leader-hails-icj-climate-ruling>
+
+---
+
+## Dengue precautions in place as Samoa prepares for U16 women's tournament - OFC
+
+date: 2025-07-30, from: 
+
+Players and officials have been provided with mosquito repellent ahead of the 2025 Under-16 Women's Championship set to kick off in Apia on Friday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568523/dengue-precautions-in-place-as-samoa-prepares-for-u16-women-s-tournament-ofc>
+
+---
+
+## Train with the culinary best: Registration for CIP x CIA fall cohorts open
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>Master seafood techniques and culinary innovation in exclusive, scholarship-backed training.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/30/cip-x-cia-fall-cohorts-open/">Train with the culinary best: Registration for <abbr>CIP</abbr> x <abbr>CIA</abbr> fall cohorts open</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/30/cip-x-cia-fall-cohorts-open/>
+
+---
+
+## 14 UH Wahine water polo players earn All-Academic Awards
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>The Rainbow Wahine were recognized by the Association of Collegiate Water Polo Coaches.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/30/wahine-water-polo-all-academic-awards/">14 <abbr>UH</abbr> Wahine water polo players earn All-Academic Awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/30/wahine-water-polo-all-academic-awards/>
+
+---
+
+## Image of the Week: Green onions
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>This week's image is from the abbr>UH Mānoa College of Tropical Agriculture and Human Resilience <span aria-label="Oahu">O&#699;ahu</span> Urban Garden Center.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/30/image-of-the-week-green-onions/">Image of the Week: Green onions</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/30/image-of-the-week-green-onions/>
+
+---
+
+## Paul Manglona returns to Senate
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+GOVERNOR David M. Apatang on Wednesday appointed former Sen. Paul A. Manglona to fill the Rota Senate seat vacated by former Senate President Dennis Mendiola. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/paul-manglona-returns-to-senate/article_19ccf404-fa98-427f-9de0-2c9b2ef7cc80.html>
+
+---
+
+## Tsunami alert grips NMI
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+RESIDENTS of low-lying areas on Saipan, Tinian, and Rota evacuated to higher ground on Wednesday following the CNMI government's tsunami advisory, which was issued in response to an 8.0-magnitude earthquake off the east coast of Kamchatka, Russia. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tsunami-alert-grips-nmi/article_f802d762-5e95-4246-b83e-a8157502e56c.html>
+
+---
+
+## Parole denied for inmates convicted of sexual abuse
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+THE CNMI Parole Board has denied the parole applications of three inmates: Donald Ayuyu Hocog, Robert Shineachi, and Jordan Tudela. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/parole-denied-for-inmates-convicted-of-sexual-abuse/article_f6eba91b-7c77-4221-a8e8-18904db6229d.html>
+
+---
+
+## Calvin Tagabuel gets 10 years
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+SUPERIOR Court Judge Joseph N. Camacho has sentenced Calvin Tagabuel to the maximum term of 10 years in prison for aggravated assault and battery. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/calvin-tagabuel-gets-10-years/article_58837604-79b2-456f-86b9-b6e023fe189b.html>
+
+---
+
+## 500 Sails builds canoe with help from voyaging expert
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+GUEST boat builder Bob Perkins is assisting 500 Sails and its boatbuilders with the completion of I Marianas, a 40-foot-long Chamorro canoe, at the organization's Lower Base boatyard. Variety spoke with Perkins on Tuesday, July 29. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/500-sails-builds-canoe-with-help-from-voyaging-expert/article_5bc97bbb-2187-49cc-b20d-709c0472ec9c.html>
+
+---
+
+## Yap defense projects form US power projection in Micronesia
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+(Pacific Island Times) — The U.S. Department of Defense has released details of its proposed airport and seaport projects on Yap, which would facilitate military deployment and project power posture in the Federated States of Micronesia. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/yap-defense-projects-form-us-power-projection-in-micronesia/article_e0f3c6b2-f5e7-4023-a6d5-bb74a52a34ff.html>
+
+---
+
+## DPL provides updates on Rota Resort, Kanoa Resort, and Managaha  RFPs
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+(DPL) — Secretary of the Department of Public Lands Sixto K. Igisomar on Wednesday issued an update on three major land use and development initiatives currently underway across the Commonwealth. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpl-provides-updates-on-rota-resort-kanoa-resort-and-managaha-rfps/article_f85f1b0d-ac27-4efb-8eb0-8da25721348e.html>
+
+---
+
+## Palau leaders reject US proposal to host asylum seekers
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — A proposal from the United States to relocate asylum seekers to Palau has been firmly rejected by the OEK, Palau’s National Congress, and the Council of Chiefs, with leaders calling it “dead on arrival.” 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-leaders-reject-us-proposal-to-host-asylum-seekers/article_52a92983-5fc5-44d1-8a4e-fcd2c8bd8cca.html>
+
+---
+
+## Huge quake rocks Russia’s Far East, triggering tsunami warnings around Pacific
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+(Reuters) — Parts of French Polynesia were told to brace for waves as high as 4 meters (13 ft) on Wednesday, after a powerful magnitude 8.8 earthquake off Russia's Far Eastern coast triggered tsunami warnings as far away as Hawaii, Japan and Chile. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/huge-quake-rocks-russia-s-far-east-triggering-tsunami-warnings-around-pacific/article_ba131228-19d4-45ac-90b9-680d48f55c35.html>
+
+---
+
+## Trump administration asks judges to release Epstein, Maxwell grand jury transcripts
+
+date: 2025-07-30, updated: 2025-07-30, from: Marianas Variety
+
+NEW YORK (Reuters) — Donald Trump's administration urged two judges on Tuesday night to release testimony heard by the grand juries that indicted the late financier Jeffrey Epstein and British socialite Ghislaine Maxwell on sex trafficking charges as the president seeks to calm an uproar over his administration's handling of the matter. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-administration-asks-judges-to-release-epstein-maxwell-grand-jury-transcripts/article_7ee4f436-ef30-4781-ba6d-aaeb53818761.html>
 
 ---
 
@@ -219,6 +438,20 @@ date: 2025-07-30, from: Hawaii Tribune Harold
 
 ---
 
+## Hawaii County reopens beach parks, closes shelters
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County is reopening county beach parks today following the cancellation of the tsunami advisory.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/hawaii-news/hawaii-county-reopens-beach-parks-closes-shelters/>
+
+---
+
 ## Hawaiian Word of the Week: Manakō
 
 date: 2025-07-30, from: University of Hawaiʻi News
@@ -244,7 +477,7 @@ The earthquake, the world's strongest in at least 14 years, has caused tsunami w
 
 ---
 
-## Latest update: Tsunami Advisory canceled for Guam and CNMI
+## 'Prepared but not scared:' Guam, CNMI dodge tsunami threat
 
 date: 2025-07-30, from: Pacific Island Times
 

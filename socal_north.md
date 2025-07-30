@@ -1,11 +1,122 @@
 ---
 title: socal north
-updated: 2025-07-30 06:07:51
+updated: 2025-07-30 14:07:31
 ---
 
 # socal north
 
-(date: 2025-07-30 06:07:51)
+(date: 2025-07-30 14:07:31)
+
+---
+
+## LA avoided a bad tsunami this time. Here’s how to prepare for the next one and other disasters
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Being prepared for one disaster — say, a tsunami that doesn't cause any damage — makes you a lot more prepared for a fire or an earthquake. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-socal-tsunami-how-to-prepare-for-disasters>
+
+---
+
+## Kamala Harris will not run for California governor
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Ending feverish speculation that began after her loss in November’s presidential election, former Vice President Kamala Harris said she would not run for California governor. 
+
+<br> 
+
+<https://laist.com/news/politics/kamala-harris-will-not-run-for-california-governor>
+
+---
+
+## Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Staff at Farm Lot 59 suspect they were targeted in retaliation after homeless people were cleared from an encampment in the adjacent Willow Springs Park. 
+
+<br> 
+
+<https://laist.com/news/plagued-by-vandalism-theft-and-now-a-fire-a-long-beach-urban-farm-is-asking-for-help>
+
+---
+
+## Yes, we have tarantulas in SoCal. And they’re on the march right now
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Don’t fret, though — L.A.'s tarantulas are mostly harmless to humans and are only looking for love. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/tarantulas-in-socal-on-the-march-explainer>
+
+---
+
+## LA County supervisors move to prohibit federal agents from wearing masks
+
+date: 2025-07-30, from: Longbeach Post
+
+<figure><img width="680" height="383" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg 680w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The board asked county lawyers to draft a rule that would also require all law enforcement officers “to wear visible identification and agency affiliation.”</p>
+<p>The post <a href="https://lbpost.com/news/la-county-supervisors-move-to-prohibit-federal-agents-from-wearing-masks">LA County supervisors move to prohibit federal agents from wearing masks</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la-county-supervisors-move-to-prohibit-federal-agents-from-wearing-masks>
+
+---
+
+## Trump keeps pressuring the Fed to cut rates. Here's why its independence matters
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Trump has threatened to fire Fed Chair Jerome Powell, challenging the Fed's independence. Experts say he's not the first president to target the central bank, but he's the most public and aggressive. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-keeps-pressuring-fed-to-cut-rates-heres-why-its-independence-matters>
+
+---
+
+## Dude, the history behind the word dude is wild
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+The word "dude" is often associated with the '80s and '90s. But its origin is rooted much, much farther back in American history. 
+
+<br> 
+
+<https://laist.com/news/dude-the-history-behind-the-word-dude-is-wild>
+
+---
+
+## LA’s legal cannabis owners say multi-million dollar program to give them a hand up, instead left ‘complete debt and devastation’
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+The city may need to return up to $10 million in grants meant for cannabis businesses after a state audit found those funds may not have been spent as intended. 
+
+<br> 
+
+<https://laist.com/news/legal-cannabis-business-city-los-angeles-social-equity-department-of-cannabis-regulation>
+
+---
+
+## Trump says his falling out with Jeffrey Epstein was over spa workers at Mar-a-Lago
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Trump has said he kicked Epstein out of his club for hiring workers away from Mar-a-Lago. When asked Tuesday if the workers included young women, Trump responded, "the answer is yes, they were." 
+
+<br> 
+
+<https://laist.com/news/trump-says-his-falling-out-with-jeffrey-epstein-was-over-spa-workers-at-mar-a-lago>
 
 ---
 
@@ -21,11 +132,11 @@ Should Palisades and Altadena homeowners be able to build duplexes on their burn
 
 ---
 
-## Deliveries and TikTok videos: How quinceañera dress sellers are trying to stay in business amid ICE sweeps
+## How quinceañera dress sellers are trying to stay in business amid ICE sweeps
 
 date: 2025-07-30, updated: 2025-07-30, from: The LAist
 
-One business district is a shadow of its former self since federal immigration raids started in Southern California in June. 
+One business district is a shadow of its former self since federal immigration raids started in Southern California in June. Some are turning to TikTok and deliveries. 
 
 <br> 
 
@@ -61,8 +172,8 @@ The deal would create the largest freight rail network in the country, but it’
 
 date: 2025-07-30, from: Longbeach Post
 
-<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Staff at Farm Lot 59 suspect they were targeted in retaliation after homeless people were cleared from an encampment in the adjacent Willow Springs Park.</p>
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Staff at Farm Lot 59 suspect they were targeted in retaliation after an encampment was cleared in the adjacent Willow Springs Park.</p>
 <p>The post <a href="https://lbpost.com/news/place/farm-lot-59-vandalism-fire-help">Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
@@ -72,13 +183,13 @@ date: 2025-07-30, from: Longbeach Post
 
 ---
 
-## Tsunami waves of less than 1 foot forecast to hit Long Beach around 1 a.m.
+## Tsunami advisory lifted for Long Beach
 
 date: 2025-07-30, from: Longbeach Post
 
 <figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-1024x566.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-768x425.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-400x221.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Here's what we know about the potential local impacts of the tsunami.</p>
-<p>The post <a href="https://lbpost.com/news/tsunami-forcast-long-beach-when-how-big-waves">Tsunami waves of less than 1 foot forecast to hit Long Beach around 1 a.m.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+<p>Here's what we know about the local impacts of the tsunami.</p>
+<p>The post <a href="https://lbpost.com/news/tsunami-forcast-long-beach-when-how-big-waves">Tsunami advisory lifted for Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 
 <br> 
@@ -99,7 +210,7 @@ What to know about the tsunami threat to the California coast.
 
 ---
 
-## Tsunami advisory lifted for LA and Orange counties after 8.8 Russia earthquake. Worst fears of damage pass
+## As tsunami threat subsides, LA, OC urged to avoid coastal waters as dangerous currents and rogue waves still possible
 
 date: 2025-07-30, updated: 2025-07-30, from: The LAist
 
@@ -111,7 +222,7 @@ Coastal California north of Santa Barbara remains under a tsunami advistory afte
 
 ---
 
-## Several dogs were reported killed by a mystery illness after visiting Venice Canals, prompting public health warnings
+## What to know about mysterious deaths of dogs recently walked in the Venice Canals
 
 date: 2025-07-30, updated: 2025-07-30, from: The LAist
 
@@ -509,6 +620,18 @@ Twenty states and Washington, D.C., are suing USDA after the agency demanded sta
 <br> 
 
 <https://laist.com/news/california-and-other-states-sue-usda-over-efforts-to-gather-food-stamp-data-on-tens-of-millions-of-people>
+
+---
+
+## Cutting AmeriCorps hurts the students who need us most
+
+date: 2025-07-28, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/cutting-americorps-hurts-the-students-who-need-us-most/>
 
 ---
 

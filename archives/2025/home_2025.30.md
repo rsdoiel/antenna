@@ -1,11 +1,236 @@
 ---
 title: home
-updated: 2025-07-30 06:07:59
+updated: 2025-07-30 14:07:37
 ---
 
 # home
 
-(date: 2025-07-30 06:07:59)
+(date: 2025-07-30 14:07:37)
+
+---
+
+## Cal-Ore Produce: Good Dirt, Great Potatoes
+
+date: 2025-07-30, from: California Grown
+
+<p>Cal-Ore Produce firmly believes that California’s best potatoes are grown in the Klamath Basin. We visited their Tulelake potato packing shed to see what happens after the potatoes come out of the ground—and why Cal-Ore potatoes deserve a spot in your shopping cart. Cal Ore Produce Cal-Ore Produce is a potato packing shed near the [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/cal-ore/" data-wpel-link="internal" target="_self">Cal-Ore Produce: Good Dirt, Great Potatoes</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/cal-ore/>
+
+---
+
+## Easy Fruit Shrub Recipe: How to Make Delicious Drinking Vinegar
+
+date: 2025-07-30, from: Homestead and Chil
+
+<p>Come learn how to make fruit shrubs (aka drinking vinegars) with our easy flexible recipe! Use any fruit you'd like, plus optional herbs or spices. Shrubs are a delicious addition to sparkling water, cocktail, mocktails, salad dressing and more.</p>
+<p>The post <a href="https://homesteadandchill.com/easy-fruit-shrub-recipe-drinking-vinegar/">Easy Fruit Shrub Recipe: How to Make Delicious Drinking Vinegar</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/easy-fruit-shrub-recipe-drinking-vinegar/>
+
+---
+
+## This Steel-Clad Texas Home Is Not Your Typical Ranch House
+
+date: 2025-07-30, from: Dwell
+
+In Hill Country, Low Design Office uses a simple, industrial palette to create a durable, surprisingly open home that sits lightly on the land. 
+
+<br> 
+
+<https://www.dwell.com/article/wolf-creek-ranch-residence-low-design-office-texas-hill-country-b58a9b83>
+
+---
+
+## Two Writers Revamped This $4.3M Midcentury to Feel Like a Coffee Shop
+
+date: 2025-07-30, from: Dwell
+
+Surrounded by redwoods, the Northern California home serves up a saltwater pool, a pair of living rooms, and flexible live/work spaces. 
+
+<br> 
+
+<https://www.dwell.com/article/kent-woodlands-midcentury-renovation-cathie-hong-interiors-bay-area-real-estate-ac2e70f9>
+
+---
+
+## Secretary Ross in Brazil — Focus on Trade and Climate Collaboration
+
+date: 2025-07-30, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross is in São Paulo, Brazil this week, leading a delegation of business and agricultural organizations interested in strengthening ties with Brazil. The delegation also includes Department of Pesticide Regulation Director Karen Morrison and UC Agriculture and &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29129">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29129>
+
+---
+
+## Can Architecture Enhance Nature? A Pair of Complementary Tiny Cabins in Mexico Say "Yes"
+
+date: 2025-07-30, from: Dwell
+
+Viewing decks and floor-to-ceiling glass doors aim to elevate the experience of the Sierra de Arteaga mountain range. 
+
+<br> 
+
+<https://www.dwell.com/article/madriguera-eco-reserve-stays-s-ar-tiny-cabins-ee6abf7a>
+
+---
+
+## Five More Black-Designed Modernist Buildings Secure Getty Funding
+
+date: 2025-07-30, from: Dwell
+
+The Getty and National Trust for Historic Preservation just awarded new grants to preserve important sites across the U.S. 
+
+<br> 
+
+<https://www.dwell.com/article/getty-foundation-african-american-cultural-heritage-action-fund-five-modernist-buildings-09525a94>
+
+---
+
+## How to Grow Toyon (California Holly)
+
+date: 2025-07-30, from: The Gardener's Path
+
+<p>Intrinsic cultural and habitat value shape the history of the California toyon plant. Small, white, rose-like flowers in summer lead to vibrant red berries in winter, providing abundant nectar and forage for pollinators and birds. Fire resistant and drought tolerant, this plant is a chaparral and oak woodland staple.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-toyon/">How to Grow Toyon (California Holly)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-toyon/>
+
+---
+
+## The Vintage Furniture Seller Whose Brooklyn Store Cycles Through Aesthetics Every Six Weeks
+
+date: 2025-07-30, from: Dwell
+
+"I love giving people an example of how they can guide themselves with their decor," says Carolyn Willander of Object Permanence. 
+
+<br> 
+
+<https://www.dwell.com/article/carolyn-willander-object-permanence-vintage-store-bushwick-brooklyn-0f5b215b>
+
+---
+
+## 20 Lizards in South Carolina (With Pictures and Identification)
+
+date: 2025-07-30, from: Yard Life blog
+
+<p>Lizards are fascinating reptiles found throughout South Carolina’s varied landscapes. From dense forests to coastal plains, these reptiles contribute to ... </p>
+<p class="read-more-container"><a title="20 Lizards in South Carolina (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-lizards-in-south-carolina-with-pictures-and-identification/#more-32749" aria-label="Read more about 20 Lizards in South Carolina (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-lizards-in-south-carolina-with-pictures-and-identification/">20 Lizards in South Carolina (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-lizards-in-south-carolina-with-pictures-and-identification/>
+
+---
+
+## Uncovering the Mystery of Red Wolf in Kentucky Wilderness
+
+date: 2025-07-30, from: Yard Life blog
+
+<p>Kentucky is a land rich with natural beauty and diverse wildlife. Among the many creatures that have called its forests ... </p>
+<p class="read-more-container"><a title="Uncovering the Mystery of Red Wolf in Kentucky Wilderness" class="read-more button" href="https://ownyardlife.com/uncovering-the-mystery-of-red-wolf-in-kentucky-wilderness/#more-32742" aria-label="Read more about Uncovering the Mystery of Red Wolf in Kentucky Wilderness">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/uncovering-the-mystery-of-red-wolf-in-kentucky-wilderness/">Uncovering the Mystery of Red Wolf in Kentucky Wilderness</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/uncovering-the-mystery-of-red-wolf-in-kentucky-wilderness/>
+
+---
+
+## Shocking Truth About Leopards in Arizona: What No One Tells You
+
+date: 2025-07-30, from: Yard Life blog
+
+<p>The American Southwest has always been a place of mystery and fascination, with its rugged deserts, towering mountains, and wide-open ... </p>
+<p class="read-more-container"><a title="Shocking Truth About Leopards in Arizona: What No One Tells You" class="read-more button" href="https://ownyardlife.com/shocking-truth-about-leopards-in-arizona-what-no-one-tells-you/#more-32736" aria-label="Read more about Shocking Truth About Leopards in Arizona: What No One Tells You">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/shocking-truth-about-leopards-in-arizona-what-no-one-tells-you/">Shocking Truth About Leopards in Arizona: What No One Tells You</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/shocking-truth-about-leopards-in-arizona-what-no-one-tells-you/>
+
+---
+
+## Discover the Hidden World of Cougars in California
+
+date: 2025-07-30, from: Yard Life blog
+
+<p>California is a state renowned for its diverse landscapes—from towering mountains to sprawling deserts, dense forests to urban sprawls. Amidst ... </p>
+<p class="read-more-container"><a title="Discover the Hidden World of Cougars in California" class="read-more button" href="https://ownyardlife.com/discover-the-hidden-world-of-cougars-in-california/#more-32729" aria-label="Read more about Discover the Hidden World of Cougars in California">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/discover-the-hidden-world-of-cougars-in-california/">Discover the Hidden World of Cougars in California</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/discover-the-hidden-world-of-cougars-in-california/>
+
+---
+
+## The Secret Life of Beavers in Texas Rivers and Lakes
+
+date: 2025-07-30, from: Yard Life blog
+
+<p>Beavers have long been recognized as master architects of the wild, known for their impressive dams and the wetlands they ... </p>
+<p class="read-more-container"><a title="The Secret Life of Beavers in Texas Rivers and Lakes" class="read-more button" href="https://ownyardlife.com/the-secret-life-of-beavers-in-texas-rivers-and-lakes/#more-32723" aria-label="Read more about The Secret Life of Beavers in Texas Rivers and Lakes">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/the-secret-life-of-beavers-in-texas-rivers-and-lakes/">The Secret Life of Beavers in Texas Rivers and Lakes</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/the-secret-life-of-beavers-in-texas-rivers-and-lakes/>
+
+---
+
+## Homepage 2025
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours A Kitschy Balboa Island Cottage Got a Colorful, Quirky Makeover It&#8217;s a bright, happy, unique space.  Read more: A Kitschy Balboa Island Cottage Got a Colorful,&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## If You’re Checking a Bag, You’re Traveling Wrong—Here’s the Right Way to Pack a Carry-on Bag
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+There are countless reasons you should be traveling with a carry-on: no lost luggage and no waits are two. Here's how to pack a carry-on bag for any trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-pack-carry-on>
+
+---
+
+## These Are the Ultimate Budget-Friendly Travel Hacks You Need in This Economy
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+You don't have to skip travel all together. Here are ways to save. 
+
+<br> 
+
+<https://www.sunset.com/travel/budget-friendly-travel-tips>
 
 ---
 
@@ -251,18 +476,6 @@ The coolest outdoor feature you could have is not a kitchen or stylish furniture
 <br> 
 
 <https://www.sunset.com/home-garden/outdoor-living/outdoor-shower-ideas>
-
----
-
-## Homepage 2025
-
-date: 2025-07-29, from: Sunset Magazine - Living in the West
-
-Hotels, National Parks 3 National Park Resorts and Experiences That Are Like Traveling Back in Time Here’s where in the West to go to get a taste of a more gracious era of travel, and to see&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

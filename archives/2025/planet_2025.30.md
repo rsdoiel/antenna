@@ -1,11 +1,243 @@
 ---
 title: planet
-updated: 2025-07-30 06:07:49
+updated: 2025-07-30 14:07:29
 ---
 
 # planet
 
-(date: 2025-07-30 06:07:49)
+(date: 2025-07-30 14:07:29)
+
+---
+
+## FSAI recalls Aldi chicken pesto batch due to listeria
+
+date: 2025-07-30, from: RTÉ News
+
+The Food Safety Authority has recalled a batch of Aldi roast chicken basil pesto pasta due to the presence of Listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526215-aldi-pesto-recall/>
+
+---
+
+## US-India talks ongoing amid Trump threat of 25% tariff
+
+date: 2025-07-30, from: RTÉ News
+
+US President Donald Trump has said the United States is still negotiating with India on trade after announcing earlier in the day the US will impose a 25% tariff on goods imported from the country starting on Friday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526210-trump-india-tariff/>
+
+---
+
+## SIPTU urges ambulance workers to accept pay proposals
+
+date: 2025-07-30, from: RTÉ News
+
+SIPTU said it is recommending that members in the National Ambulance Service (NAS) accept Workplace Relations Commission (WRC) proposals on pay and work practice changes in a ballot which could resolve a long-running dispute over changes to the service. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526192-siptu-nas-pay/>
+
+---
+
+## 'A hope that never disappoints'
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>The head of the Commission for Youth of the Ukrainian Greek Catholic Church is in Rome with thousands of young people celebrating their Jubilee. He speaks of the power of witness in particular of young Ukrainians from warfront regions.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/ukraine-young-people-jubilee-interview-bishop-bryan-bayda.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/ukraine-young-people-jubilee-interview-bishop-bryan-bayda.html>
+
+---
+
+## Angolan bishops appeal for restraint amid wave of vandalism in Luanda
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>The bishops of the Episcopal Conference of Angola and São Tomé (CEAST) are following with concern the wave of vandalism in the Angolan capital, which has already resulted in five deaths and more than 1,000 arrests.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/angola-sao-tome-bishops-conference-appeal-restraint-vandalism.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/angola-sao-tome-bishops-conference-appeal-restraint-vandalism.html>
+
+---
+
+## Podcast: Why you 'can't enforce' social media age rules
+
+date: 2025-07-30, from: RTÉ News
+
+A ban on social media for teenagers, which has been brought forward in plans in Australia, is something that you "can't enforce" in Ireland, a tech expert has suggested. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526189-behind-the-story/>
+
+---
+
+## Kamala Harris says she won't run for governor of California
+
+date: 2025-07-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7373778.1753907567!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kamala-harris.jpg' alt='x' width='620' height='349' title='US Vice President and Democratic presidential candidate Kamala Harris speaks during a campaign rally on the Benjamin Franklin Parkway in Philadelphia, Pennsylvania on November 4, 2024. (Photo by ANDREW CABALLERO-REYNOLDS / AFP) (Photo by ANDREW CABALLERO-REYNOLDS/AFP via Getty Images)'/><p>Former U.S. vice-president Kamala Harris will not run for California governor next year, leaving open the possibility that she could mount a third run for the White House in 2028.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/kamala-harris-governor-california-1.7597745?cmp=rss>
+
+---
+
+## Tsunamis: What are they and how do they happen?
+
+date: 2025-07-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7597204.1753882050!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/panama-pacific-tsunami.jpg' alt='Cars on one side a highway that is over a body of ocean water with wave sets. The road leads to a city skyline.' width='620' height='349' title='Cars are at a standstill along the Pan-American Highway in Panama City, Wednesday, July 30, 2025, following a tsunami warning after a powerful earthquake struck off the coast of Russia early Wednesday. '/><p>On Tuesday, a powerful 8.8 magnitude earthquake rocked the area around Russia’s Kamchatka peninsula, resulting in tsunami warnings being issued around the world. But how often do they occur and is Canada at risk?</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/tsunamis-what-are-they-and-how-do-they-happen-1.7597530?cmp=rss>
+
+---
+
+## 'We need everything' - inside a Gaza malnutrition ward
+
+date: 2025-07-30, from: RTÉ News
+
+On the pink walls of Nasser hospital's child malnutrition ward, cartoon drawings show children running, smiling, and playing with flowers and balloons. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526181-gaza-malnutrition-ward/>
+
+---
+
+## Brother jailed for two and a half years for raping sister
+
+date: 2025-07-30, from: RTÉ News
+
+A 47-year-old man has been sentenced to two and a half years in jail for the rape and sexual assault of his sister. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526174-cork-rape-trial/>
+
+---
+
+## Flights 'largely back on track' after air traffic issue
+
+date: 2025-07-30, from: RTÉ News
+
+Dublin and Cork airport operator daa has said flight schedules at Cork and Dublin airports are "largely back on track this evening", with a small number of delays expected. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0730/1526179-uk-flights/>
+
+---
+
+## Champions Lge recap: Qarabag 1-0 Shelbourne (Agg: 4-0)
+
+date: 2025-07-30, from: RTÉ News
+
+Shelbourne bowed out of the Champions League as they were beaten 4-0 on aggregate by Qarabag. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0730/1526161-champions-league-qarabag-v-shelbourne-updates/>
+
+---
+
+## Six Nations of the Grand River still under state of emergency after June flooding
+
+date: 2025-07-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7594317.1753469634!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sngr.jpg' alt='Water on the floor of an office in a Six Nations community building, with office furniture and supplies visible, following flooding in June 2025.' width='620' height='349' title='A photo released by Six Nations of the Grand River shows flooding inside a community building after heavy rain on June 18, 2025. The damage prompted a state of emergency and displaced dozens of residents.'/><p>Community members impacted by the flooding can request support until July 31, the elected council said late last week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/six-nations-flooding-1.7594259?cmp=rss>
+
+---
+
+## Calls for more safeguards on deployment of Irish troops
+
+date: 2025-07-30, from: RTÉ News
+
+A cross-party group of TDs and senators has recommended additional safeguards on the deployment of Irish troops abroad including a legal review by an independent body. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0730/1526163-triple-lock-committee/>
+
+---
+
+## Tsiigehtchic, N.W.T., has a new chief. Here's what she's hoping to accomplish
+
+date: 2025-07-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7597496.1753895862!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/charlene-blake.jpg' alt='Woman in jean jacket smiles at camera' width='620' height='349' title='Charlene Blake was elected Chief of Tsiigehtchic&apos;s Gwichya Gwich&apos;in band council on July 28, 2025.'/><p>Charlene Blake Blake was elected as chief of the local Gwichya Gwich'in band on Monday. She works at the community health centre and previously served as acting sub-chief for several years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/tsiigehtchic-new-chief-charlene-blake-1.7597439?cmp=rss>
+
+---
+
+## SECAM's 20th Plenary Assembly begins in Kigali
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>The Symposium of Episcopal Conferences of Africa and Madagascar (SECAM) is meeting in Kigali, Rwanda, for its 20th Plenary Assembly, which will focus on the theme “Christ, Source of Hope, Reconciliation, and Peace.”</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/secam-s-20th-plenary-assembly-begins-in-kigali.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/secam-s-20th-plenary-assembly-begins-in-kigali.html>
+
+---
+
+## Israeli minister hints at annexing parts of Gaza as hunger-related deaths mount
+
+date: 2025-07-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7597380.1753890165!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-gaza.JPG' alt='A crowd of people walk through with bags of aid in hand.' width='620' height='349' title='Palestinians carry aid supplies that entered Gaza through Israel, in Beit Lahia in the northern Gaza Strip, July 30, 2025. REUTERS/Dawoud Abu Alkas'/><p>Israel could threaten to annex parts of Gaza to increase pressure on the militant group Hamas, an Israeli minister said on Wednesday, an idea that would deal a blow to Palestinian hopes of statehood on land Israel now occupies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-israeli-minister-hunger-deaths-1.7597359?cmp=rss>
+
+---
+
+## UN human rights lawyer appeals for humanitarian action to save dying in Gaza
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>A UN human rights lawyer speaks to Vatican News about the famine emergency in Gaza and the need for nations to act immediately to save the population, including 320,000 children, before it is too late.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/un-human-rights-lawyer-appeals-humanitarian-action-save-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/un-human-rights-lawyer-appeals-humanitarian-action-save-gaza.html>
 
 ---
 
@@ -13,11 +245,71 @@ updated: 2025-07-30 06:07:49
 
 date: 2025-07-30, from: RTÉ News
 
-Five men who beat, burned, stabbed and tortured a woman for three hours in a Dublin flat last year have been jailed for between eight-and-a-half and 14 years 
+Five men who beat, burned, stabbed and tortured a woman for three hours in a Dublin flat last year have been jailed for between eight-and-a-half and 14 years. 
 
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0730/1526135-sentencing-assault/>
+
+---
+
+## Gaza children starving despite Israeli ‘tactical pauses’, UN says
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+Despite daily “tactical pauses” declared by Israeli forces, humanitarian conditions in Gaza remain catastrophic, with children starving, aid workers overwhelmed, and fuel and water supplies critically low, UN humanitarians reported on Wednesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165532>
+
+---
+
+## Haitians in ‘despair’ following abrupt suspension of US humanitarian support
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+People in Haiti have expressed “despair” following the “abrupt suspension” of a wide range of humanitarian services, according to the UN&nbsp;aid coordination&nbsp;office,&nbsp;OCHA, in the Caribbean country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165533>
+
+---
+
+## Tsunami alert highlights worth of global early warning system
+
+date: 2025-07-30, from: United Nations, Climate Change
+
+Early warning systems kicked in overnight across Pacific coastal communities after a massive earthquake in eastern Russia triggered a sea surge that reached the Japanese coastline around 1,000 kilometres (620 miles) away within about an hour, disaster relief experts said on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165529>
+
+---
+
+## Cholera outbreak in West and Central Africa poses crisis for children
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+Some 80,000 children are estimated to be at high risk of cholera in West and Central Africa as the rainy season begins across the region, the UN Children’s Fund (UNICEF) said on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165528>
+
+---
+
+## LIVE COVERAGE: Day 3 of high-level conference on two-State solution for Israel and Palestine
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+Welcome to our live coverage of the third day of high-level international conference at UN Headquarters, aimed at advancing practical steps toward achieving a two-State solution to the Israel-Palestine conflict. Mandated by the General Assembly meeting features plenaries, working groups and interventions from senior UN officials and Member States. UN News app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165527>
 
 ---
 
@@ -113,7 +405,7 @@ Ireland has been ranked highest across Europe for the availability of remote job
 
 date: 2025-07-30, from: RTÉ News
 
-A man has been arrested after another man died and a woman was seriously injured in a road crash on the M50 in the early hours of this morning. 
+A man in his 20s has been arrested following a road crash on the M50 early this morning in which another man died and a woman was seriously injured. 
 
 <br> 
 
@@ -193,6 +485,18 @@ There is "not a shred of evidence" that aid in Gaza is being withheld by Hamas, 
 
 ---
 
+## Israeli forces kill at least 30 seeking aid in Gaza
+
+date: 2025-07-30, from: RTÉ News
+
+There is "not a shred of evidence" that aid in Gaza is being withheld by Hamas, according to Executive Director at UNICEF Ireland Peter Power. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526090-gaza-shootings/>
+
+---
+
 ## Ryanair dropping three French airports over ticket tax
 
 date: 2025-07-30, from: RTÉ News
@@ -269,11 +573,11 @@ The murder of a woman and her two children in Co Fermanagh has shaken the commun
 
 ---
 
-## Ozzy Osbourne procession taking place in Birmingham
+## Ozzy Osbourne procession takes place in Birmingham
 
 date: 2025-07-30, from: RTÉ News
 
-Ozzy Osbourne fans have gathered to pay their respects to the heavy metal star at a procession in his home city of Birmingham. 
+The family of the late Ozzy Osbourne have been joined by fans at a procession in his honour in his home city of Birmingham. 
 
 <br> 
 
@@ -341,7 +645,19 @@ One of the strongest earthquakes ever recorded struck Russia's sparsely populate
 
 ---
 
-## Doug Ford wears it, Russ refuses it... why gifts of beaded medallions are sparking debate
+## Pacific tsunami warnings downgraded after evacuations
+
+date: 2025-07-30, from: RTÉ News
+
+A very powerful magnitude 8.8 earthquake off Russia's Far Eastern Kamchatka coast triggered tsunami warnings as far away as French Polynesia and Chile, and was followed by an eruption of the most active volcano on the peninsula. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526047-russia-earthquake-tsunami/>
+
+---
+
+## Doug Ford wears it, Russ refuses it: Why gifts of beaded medallions are sparking debate
 
 date: 2025-07-30, from: CBC, Indigenious News
 
@@ -350,6 +666,18 @@ date: 2025-07-30, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/indigenous/beaded-medallions-gifting-debate-1.7595651?cmp=rss>
+
+---
+
+## Liard First Nation Chief Stephen Charlie responds to criticism amid calls to resign
+
+date: 2025-07-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7596853.1753825000!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/watson-lake-protest-against-liard-first-nation-chief.JPG' alt='Six people stand outside holding colourful signs' width='620' height='349' title='Members of advocacy group Dene Ā́ Nezen hold signs at a protest calling on Liard First Nation Chief Stephen Charlie to step down on July 22, 2025. '/><p>A group of Liard First Nation citizens is calling on Chief Stephen Charlie to step down, accusing him of dismantling a community language program without consultation and failing to hold a general assembly for three years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/liard-first-nation-chief-stephen-charlie-responds-to-criticism-amid-calls-to-resign-1.7596752?cmp=rss>
 
 ---
 
@@ -362,6 +690,19 @@ Nearly 500 concerns were raised about registered Irish charities last year, mark
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0730/1526015-irish-charities/>
+
+---
+
+## Snuneymuxw canoe club to represent Canada in World Distance Championships
+
+date: 2025-07-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/55d2f9a8-4584-472b-b769-a1a604a3d241,1753846854509/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Image + News Brand + Title Logo - 2025-07-29T201628.191' width='620' height='349' title=''/><p>The Island Brave are a team of paddlers from Snuneymuxw First Nation, who are headed to Brazil in August to represent Canada at the World Distance Championships in the war canoe category. The team was started in 2002 by Chief Mike Wyse as a way to engage Indigenous youth, and is now captained by his son, Michael.
+</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6849690?cmp=rss>
 
 ---
 
@@ -415,6 +756,18 @@ date: 2025-07-29, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-lawyer-emil-bove-judge-approved-1.7597010?cmp=rss>
+
+---
+
+## 'Anxiety level was high': Tsunami warnings trigger flood of evacuations
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/a888f920-f4f4-4abd-91ad-cf3433e51728,1753882646175/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Lifeguards work to clear beaches on Tuesday after an earthquake in Russia sparked worry over a potential tsunami.' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tsunami-evacuation-alerts-1.7597175?cmp=rss>
 
 ---
 
@@ -722,7 +1075,7 @@ date: 2025-07-29, from: United Nations, Top Stories
 
 ---
 
-## UN peacekeeping can work in a fractured world if there is political will
+## UN peace efforts can work in a fractured world if there is political will
 
 date: 2025-07-29, from: United Nations, Top Stories
 
@@ -784,7 +1137,7 @@ The promise seemed simple: a job, a fresh start, a way out. Instead, Maria* step
 
 ## Deputy UN chief urges bold action to transform food systems at global summit in Addis Ababa
 
-date: 2025-07-29, from: United Nations, Top Stories
+date: 2025-07-29, from: United Nations, Economic Development
 
 United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on countries to double down on efforts to transform food systems, describing them as “one of the greatest solutions” to achieving the Sustainable Development Goals (SDGs). 
 
@@ -2608,6 +2961,18 @@ date: 2025-07-27, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/politics/trump-tariffs-canada-european-union-trade-deal-1.7595357?cmp=rss>
+
+---
+
+## Trump orders 50% tariff on some copper imports, citing national security
+
+date: 2025-07-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7597795.1753906393!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-deminimis.JPG' alt='A man wearing a navy suit and a blue tie gestures with his left hand while standing behind a podium bearing the United States presidential seal.' width='620' height='349' title='U.S. President Donald Trump speaks after signing the VA Home Loan Program Reform Act at the White House in Washington, D.C., U.S., July 30, 2025. REUTERS/Evelyn Hockstein'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/copper-tariffs-1.7597650?cmp=rss>
 
 ---
 

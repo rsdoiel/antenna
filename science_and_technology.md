@@ -1,11 +1,359 @@
 ---
 title: science and technology
-updated: 2025-07-30 06:07:53
+updated: 2025-07-30 14:07:33
 ---
 
 # science and technology
 
-(date: 2025-07-30 06:07:53)
+(date: 2025-07-30 14:07:33)
+
+---
+
+## Rare Fragment of 3,200-Year-Old Bronze Chest Armor Unearthed in Czech Republic
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+Bronze armor made by skilled craftsmen was reserved for elite warriors, according to experts from the Brno City Museum 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-fragment-of-3200-year-old-bronze-chest-armor-unearthed-in-czech-republic-180987068/>
+
+---
+
+## Killer Whales Hunt Fish in Highly Coordinated Pairs and Perfect Their Movements With Practice, Drone Videos Reveal
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+Footage taken off the coast of Norway reveals that orcas team up to maximize their prey, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/killer-whales-hunt-fish-in-highly-coordinated-pairs-and-perfect-their-movements-with-practice-drone-videos-reveal-180987070/>
+
+---
+
+## India gets its turn on the Trump tariff train: 25% levy to start Friday
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>The US president also hints at an extra penalty for New Delhi over trade with Russia</h4> <p><strong>world war fee</strong>  Just as signs pointed to a slight easing in global trade tensions, US President Donald Trump opened a new front in his trade offensive, this time with a 25 percent tariff on goods from India.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/trump_tariffs_india/>
+
+---
+
+## NASA Releases Opportunity to Boost Commercial Space Tech Development
+
+date: 2025-07-30, from: NASA breaking news
+
+NASA has released a new proposal opportunity for industry to tap into agency know-how, resources, and expertise. The Announcement of Collaboration Opportunity (ACO), managed by the Space Technology Mission Directorate, enables valuable collaboration without financial exchanges between NASA and industry partners. Instead, companies leverage NASA subject matter experts, facilities, software, and hardware to accelerate their [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/nasa-releases-opportunity-to-boost-commercial-space-tech-development/>
+
+---
+
+## See a Stunningly Well-Preserved, 4,000-Year-Old Handprint Left Behind by an Ancient Egyptian Potter
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+The find "takes you directly to the moment when the object was made," says curator Helen Strudwick 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-a-stunningly-well-preserved-4000-year-old-handprint-left-behind-by-an-ancient-egyptian-potter-180987081/>
+
+---
+
+## Zuck tries to justify AI splurge with talk of 'superintelligence' for all
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>You get a superintelligence and you get a superintelligence. Everybody gets a superintelligence</h4> <p>Meta is plowing tens of billions of dollars into GPU bit barns the size of Manhattan Island, and yet The Social Network has struggled to upstage rivals like OpenAI or Anthropic.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/meta_ai_superintelligence/>
+
+---
+
+## Vivo’s BlueOS: written in Rust, similar to HarmonyOS?
+
+date: 2025-07-30, from: OS News
+
+BlueOS kernel is written in Rust, featuring security, lightweight, and generality. It is compatible with POSIX interfaces and supports Rust&#8217;s standard library. ↫ BlueOS kernel GitHub page This is the kernel for the BlueOS operating system, developed by Vivo, a Chinese consumer electronics company. Sadly, all of the websites and documentation for BlueOS are written in Mandarin, making it virtually impossible to really get a grip on what they&#8217;re developing, and I certainly don&#8217;t trust Google Translate or whatever enough to give me a proper, trustworthy, and accurate translation. I hope the company either hires some translators, or perhaps enthusiasts with the right skillset can provide some more insight over the coming years. It seems similar to Huawei&#8217;s HarmonyOS Next, and it&#8217;s apparently shipping on one of Vivo&#8217;s smartwatches. 
+
+<br> 
+
+<https://www.osnews.com/story/142928/vivos-blueos-written-in-rust-similar-to-harmonyos/>
+
+---
+
+## Rare 5,000-Year-Old Neolithic Monument in Northern England Granted Protected Status
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+The Dudderhouse Hill long cairn is one of the oldest known sites built by humans in England. It now has the highest level of heritage protection available in the country 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-5000-year-old-neolithic-monument-in-northern-england-gets-protected-status-180987073/>
+
+---
+
+## Why are you (still) using OpenBSD?
+
+date: 2025-07-30, from: OS News
+
+Last week-end, I was invited to the UNIX Social Camp in Dijon, France to talk about the reasons I still use OpenBSD these days and why should others do so; or at least, have a look at OpenBSD. ↫ Joel Carnat Here&#8217;s my short pitch as to why you should use OpenBSD: it&#8217;s the closest you&#8217;ll get to a traditional, classic UNIX, while still using a modern and maintained operating system. OpenBSD just makes sense, and every time I run into some issue or I want to know how something in OpenBSD works, the answers always make me go &#8220;well that makes sense&#8221;. That&#8217;s rare in modern computing, and we need to cherish it. 
+
+<br> 
+
+<https://www.osnews.com/story/142926/why-are-you-still-using-openbsd/>
+
+---
+
+## Microsoft clicks their heels once more, allows hate-speech on LinkedIn
+
+date: 2025-07-30, from: OS News
+
+Are you still using LinkedIn, the website where failed tech startup entrepreneurs go to die and &#8220;AI&#8221; influencers try to sell you on the latest version of the chatbot Florpium like a Utah mom trying to sell leggings that are totally not an MLM? If you are, and the other ten thousand reasons not to use the website incarnation of an ad for a personal injury lawyer along I-11 in Henderson, Nevada, weren&#8217;t enough, Microsoft just handed you another one. LinkedIn removed transgender-related protections from its policy on hateful and derogatory content. The platform no longer lists “misgendering or deadnaming of transgender individuals” as examples of prohibited conduct. While “content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action” is still considered hateful, addressing a person by a gender and name they ask not be designated by is not anymore. Similarly, the platform removed “race or gender identity” from its examples of inherent traits for which negative comments are considered harassment. That qualification of harassment is now kept only for behaviour that is actively “disparaging another member’s  perceived gender”, not mentioning race or gender identity anymore. ↫ Matti Schneider at the Open Terms Archive Microsoft joined the chorus of pathetic, spineless US tech companies bowing to far-right extremism long ago, and this is just another sign that Microsoft, like so many other US tech companies, is pulling an IBM. They did learn from the best, after all, and it doesn&#8217;t surprise me one bit that all of these CEOs click their heels like the good little brownshirts that they are. Anyway, LinkedIn has no value to anyone with even a gram of self-respect, and Microsoft&#8217;s other products are such utter trash they basically have to make you upgrade at the barrel of a gun. For those using their products &#8211; do you hate yourself that much? You deserve so much more. 
+
+<br> 
+
+<https://www.osnews.com/story/142924/microsoft-clicks-their-heels-once-more-allows-hate-speech-on-linkedin/>
+
+---
+
+## A Lonely Cheetah Cub at an Australian Zoo Now Has an Unlikely 'Best Friend'—a Puppy
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+While the companionship might seem surprising, zoos have been pairing sibling-less cheetah cubs with dogs for decades to improve their socialization 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-lonely-cheetah-cub-at-an-australian-zoo-now-has-an-unlikely-best-friend-a-puppy-180987079/>
+
+---
+
+## Enterprises neglect AI security – and attackers have noticed
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>IBM report shows a rush to embrace technology without safeguarding it, and as for governance...</h4> <p>Organizations rushing to implement AI are neglecting security and governance, IBM claims, with attackers already taking advantage of lax protocols to target models and applications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/firms_are_neglecting_ai_security/>
+
+---
+
+## US Navy won't torpedo hurricane forecast satellite feed after all
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Data stream from aging sensor to continue after public backlash and amateur workaround</h4> <p>The US Navy has announced plans to continue distributing satellite data needed for hurricane forecasting, months after authorities said the data stream was to be turned off.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/hurricane_satellite_saved/>
+
+---
+
+## Users left scrambling for a plan B as Dropbox drops Dropbox Passwords
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Read-only in weeks, deleted forever in months</h4> <p>Dropbox has given users of its password manager until the end of October to extract their data before pulling the plug on the service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/dropbox_drops_dropbox_passwords/>
+
+---
+
+## Minnesota governor calls in the troops after St Paul cyberattack
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>&#39;This was a deliberate, coordinated, digital attack&#39;</h4> <p>Minnesota Governor Tim Walz has activated the state&#39;s National Guard and declared a state of emergency in response to a cyberattack on the city of Saint Paul.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/minnesota_gov_calls_in_national/>
+
+---
+
+## Zed code editor hears your prayers, rolls out AI-free mode
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Can we have this as a global feature in all software? Please?</h4> <p>Zed, a fast new Rust-based text editor aimed at programmers, now lets you totally disable LLM bot integration. We&#39;re sure some users will rejoice – but how many?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/zed_without_llm_bot/>
+
+---
+
+## NASA Tests Epic Solution for Supersonic Parachute Deliveries
+
+date: 2025-07-30, from: NASA breaking news
+
+NASA/Lori Losey The best way to solve a mystery is by gathering evidence and building a case. That’s exactly what NASA researchers are doing with a series of research flights aimed at advancing a sensor for supersonic parachutes. The clues they find could help make these parachutes more reliable and safer for delivering scientific instruments [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-tests-epic-solution-for-supersonic-parachute-deliveries/>
+
+---
+
+## Rare Fossil Suggests Some Dinosaurs May Have Sounded Like Birds and Shared Similar Vocal Anatomy
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+Pulaosaurus qinglong is only the second non-avian dinosaur to be discovered with a preserved bony voice box 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-fossil-suggests-some-dinosaurs-may-have-sounded-like-birds-and-shared-similar-vocal-anatomy-180987071/>
+
+---
+
+## Italy says Meta may be violating law with AI in WhatsApp
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Competiton regulator smells abuse of a dominant market position, Zuckercorp claims all is well</h4> <p>Meta&#39;s addition of AI services to encrypted messaging platform WhatsApp has Italian officials suspecting the Silicon Valley giant may be abusing its dominant market position to push unwanted features on users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/italy_investigating_meta_for_forcing/>
+
+---
+
+## 3,400-Year-Old Grasshopper Artifact That May Have Been Stolen From King Tut's Tomb Sells at Auction for More Than $450,000
+
+date: 2025-07-30, from: Smithsonian Magazine
+
+While the artifact's provenance is unclear, many experts think the archaeologist Howard Carter took the item for himself after excavating the pharaoh's tomb in 1922 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/3400-year-old-grasshopper-artifact-that-may-have-been-stolen-from-king-tuts-tomb-sells-at-auction-for-more-than-450000-180987069/>
+
+---
+
+## Palo Alto Networks inks $25b deal to buy identity-security shop CyberArk
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>The lure? Identity security and privileged access management tools to verify humans and... machines</h4> <p>Palo Alto Networks will buy Israeli security biz CyberArk in a $25 billion cash-and-stock deal confirmed today.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/palo_alto_networks_inks_25b/>
+
+---
+
+## What Can a Cell Remember?
+
+date: 2025-07-30, from: Quanta Magazine
+
+A small but enthusiastic group of neuroscientists is exhuming overlooked experiments and performing new ones to explore whether cells record past experiences — fundamentally challenging what memory is.            <p>The post <a href="https://www.quantamagazine.org/what-can-a-cell-remember-20250730/" target="_blank">What Can a Cell Remember?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/what-can-a-cell-remember-20250730/>
+
+---
+
+## NASA awards Firefly Aerospace $177M to drop more bots on the Moon
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>If at first you succeed, have some more money</h4> <p>NASA has awarded Firefly Aerospace $176.7 million to deliver a pair of rovers and a trio of scientific instruments to the Moon as part of the agency&#39;s Commercial Lunar Payload Services (CLPS) initiative.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/firefly_aerospace_lunar_mission/>
+
+---
+
+## NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces
+
+date: 2025-07-30, from: NASA breaking news
+
+Editor&#8217;s Note: This release was edited on July 30, 2025, to correct the mission launch time in the IST time zone. Carrying an advanced radar system that will produce a dynamic, three-dimensional view of Earth in unprecedented detail, the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite has launched from Satish Dhawan Space Centre in Sriharikota, Andhra [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/>
+
+---
+
+## Edge case: Opera claims Microsoft still playing dirty with defaults
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Brazil is the latest browser battlefield</h4> <p>Veteran browser maker Opera has filed a complaint with Brazil&#39;s Administrative Council for Economic Defense (CADE) against Microsoft over alleged anti-competitive practices in Windows that favor Edge.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/opera_microsoft_edge_complaint/>
+
+---
+
+## NASA’s Webb Traces Details of Complex Planetary Nebula
+
+date: 2025-07-30, from: NASA breaking news
+
+Since their discovery in the late 1700s, astronomers have learned that planetary nebulae, or the expanding shell of glowing gas expelled by a low-intermediate mass star late in its life, can come in all shapes and sizes. Most planetary nebula present as circular, elliptical, or bi-polar, but some stray from the norm, as seen in […] 
+
+<br> 
+
+<https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/>
+
+---
+
+## Looking Forward to the Moon
+
+date: 2025-07-30, from: NASA breaking news
+
+On May 8, 2022, NASA’s Exploration Ground Systems’ Program Manager Shawn Quinn captured this crop of a full frame image of the Hadley–Apennine region of Earth’s Moon including the Apollo 15 landing site (very near the edge of the shadow of one of the lunar mountains in the area). Building upon the pioneers from the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/looking-forward-to-the-moon/>
+
+---
+
+## Ransomware gang sets deadline to leak 3.5 TB of Ingram Micro data
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Distie insists global operations restored despite some websites only now coming back online</h4> <p>The cybercriminals claiming responsibility for Ingram Micro&#39;s ransomware attack put a deadline on leaking its data nearly a month after the raid.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/ingram_micro_ransomware_threat/>
+
+---
+
+## Laine Havens: Melding Science and Storytelling
+
+date: 2025-07-30, from: NASA breaking news
+
+Science Communication Intern – Goddard Space Flight Center Laine Havens — now a senior at Cornell University and three-time NASA intern — grew up with a deep curiosity about how the universe works and a family that encouraged her to explore it. Throughout her childhood, Laine was immersed in science and exposed to wonderful science [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/internships/laine-havens-melding-science-and-storytelling/>
 
 ---
 

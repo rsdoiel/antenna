@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-07-30 06:07:57
+updated: 2025-07-30 14:07:36
 ---
 
 # journalism
 
-(date: 2025-07-30 06:07:57)
+(date: 2025-07-30 14:07:36)
+
+---
+
+## Publishers like The Philadelphia Inquirer are bundling New York Times content into their subscriptions
+
+date: 2025-07-30, from: Nieman Journalism Lab
+
+Philadelphia Inquirer subscribers can now access Alison Roman&#8217;s Caramelized Shallot Pasta, Marian Burros&#8217;s Original Plum Torte, and Sam Sifton&#8217;s Oven-Roasted Chicken Shawarma without subscribing to The New York Times. The Times is venturing into deals with other U.S. news publishers, similar to what it&#8217;s doing internationally. The current deal with the Inquirer, for instance, gives... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/publishers-like-the-philadelphia-inquirer-are-bundling-new-york-times-content-into-their-subscriptions/>
 
 ---
 
