@@ -1,11 +1,456 @@
 ---
 title: planet
-updated: 2025-07-29 14:07:27
+updated: 2025-07-30 06:07:49
 ---
 
 # planet
 
-(date: 2025-07-29 14:07:27)
+(date: 2025-07-30 06:07:49)
+
+---
+
+## Five men jailed for torture of woman in Dublin flat
+
+date: 2025-07-30, from: RTÉ News
+
+Five men who beat, burned, stabbed and tortured a woman for three hours in a Dublin flat last year have been jailed for between eight-and-a-half and 14 years 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0730/1526135-sentencing-assault/>
+
+---
+
+## Hugh Lane Gallery to close for three year refurbishment
+
+date: 2025-07-30, from: RTÉ News
+
+Dublin City Council has said the city's Hugh Lane Gallery is to close for three years in order to facilitate a refurbishment. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0730/1526134-hugh-lane-gallery/>
+
+---
+
+## Truck carrying aerosol cans catches fire in Dublin
+
+date: 2025-07-30, from: RTÉ News
+
+A Dublin road was closed for several hours this morning after a truck carrying aerosol cans caught fire. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0730/1526113-truck-carrying-aeosol-cans-catches-fire-in-dublin/>
+
+---
+
+## World Day Against Human Trafficking: Over 50 million people exploited
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>30 July marks the UN’s world day against trafficking in humans and organizations like Talitha Kum, the Pope John XXIII Community, and the UNODC release reports on the current situation.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/world-day-against-human-trafficking-over-50-million-exploited.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/world-day-against-human-trafficking-over-50-million-exploited.html>
+
+---
+
+## Court rules in State's favour over asylum seekers' rights
+
+date: 2025-07-30, from: RTÉ News
+
+The Court of Appeal has ruled in favour of the State after it challenged a High Court ruling regarding the rights of International Protection applicants to have their basic needs, including accommodation, met by the State. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526125-ihrec-appeal-ruling/>
+
+---
+
+## Ireland, 14 nations call for two-state solution in Gaza
+
+date: 2025-07-30, from: RTÉ News
+
+Ireland has signed a joint statement of foreign ministers to call for an immediate Gaza ceasefire and the implementation of a two-state solution, Tánaiste Simon Harris has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526121-gaza-joint-statement/>
+
+---
+
+## Tourism numbers fall by 2% in June on last year - CSO
+
+date: 2025-07-30, from: RTÉ News
+
+The number of foreign visitors to Ireland in June was down 2% on the same time last year. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0730/1526122-cso-inbound-tourism-figures/>
+
+---
+
+## Ireland leading on remote work jobs - LinkedIn survey
+
+date: 2025-07-30, from: RTÉ News
+
+Ireland has been ranked highest across Europe for the availability of remote jobs, according to new research from LinkedIn. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0730/1526119-linkedin-survey-on-remote-jobs/>
+
+---
+
+## Arrest after man dies, woman injured in M50 road crash
+
+date: 2025-07-30, from: RTÉ News
+
+A man has been arrested after another man died and a woman was seriously injured in a road crash on the M50 in the early hours of this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526116-dublin-m50-rtc/>
+
+---
+
+## Sisters urge appeal of brother's 'lenient' rape sentence
+
+date: 2025-07-30, from: RTÉ News
+
+The sisters of a former priest who was convicted of their rape and jailed for eight years have called for the Director of Public Prosecutions to appeal the sentence. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526106-fay-wrightstone-brennan/>
+
+---
+
+## Dicastery for Interreligious Dialogue
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>The Dicastery for Interreligious Dialogue promotes and supervises relations with members and groups of non-Christian religions, with the exception of Judaism. Following the method and criteria of dialogue established by the Second Vatican Council, and reached a milestone with the signing of the Document on Human Fraternity in 2019.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-interreligious-dialogue.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-interreligious-dialogue.html>
+
+---
+
+## Pope Leo: We must preserve 'Spirit of Helsinki' to persevere in dialogue
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>At the conclusion of his General Audience, Pope Leo XIV remembers the imminent 50-year anniversary of the signing of the Helsinki Accords, stressing, 'Today more than ever, it is essential to preserve the 'spirit of Helsinki' to persevere in dialogue, to strengthen cooperation, and to make diplomacy the privileged path.'</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-helsinki-accords-general-audience.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-helsinki-accords-general-audience.html>
+
+---
+
+## Pope Leo on DRC attack: I pray for persecuted Christians
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>In the wake of the deadly attack on a church in the Democratic Republic of Congo, Pope Leo XIV launches an impassioned appeal for all efforts to be made to prevent such tragedies, and reassures all Christians suffering violence and persecution that he is praying for them.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-appeal-general-audience-30-july-2025-vatican.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-appeal-general-audience-30-july-2025-vatican.html>
+
+---
+
+## 'Not a shred of evidence' Hamas withholding aid - UNICEF
+
+date: 2025-07-30, from: RTÉ News
+
+There is "not a shred of evidence" that aid in Gaza is being withheld by Hamas, according to Executive Director at UNICEF Ireland Peter Power. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526090-gaza-unicef/>
+
+---
+
+## Ryanair dropping three French airports over ticket tax
+
+date: 2025-07-30, from: RTÉ News
+
+Ryanair said today it was dropping three French airports, including in the eastern city of Strasbourg, over French authorities' decision to maintain an extra tax on air tickets. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0730/1526092-ryanair-dropping-three-french-airports-over-ticket-tax/>
+
+---
+
+## 'Concerning' misinformation online after attack on garda
+
+date: 2025-07-30, from: RTÉ News
+
+Misinformation surrounding an incident in Dublin yesterday in which a probationer garda was attacked has been described as "concerning". 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0730/1526078-dublin-garda/>
+
+---
+
+## Pope at Audience: May our means of communication heal you and not trouble you
+
+date: 2025-07-30, from: Vatican News
+
+
+                    <p>During his wednesday General Audience, Pope Leo encourages the faithful to learn to speak properly, using words that heal and not hurt. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-general-audience-30-july-catechesis-future-wounds.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-general-audience-30-july-catechesis-future-wounds.html>
+
+---
+
+## Cambodia accused of 'flagrant' Thailand truce violation
+
+date: 2025-07-30, from: RTÉ News
+
+Thailand accused Cambodia of a "flagrant violation" of a truce deal to end cross-border fighting, claiming Cambodian troops launched an overnight attack on the frontier. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526072-thailand-cambodia/>
+
+---
+
+## SDLP disappointed 'strings' to UK recognising Palestine
+
+date: 2025-07-30, from: RTÉ News
+
+The UK's decision to recognise the state of Palestine if Israel does not meet specific conditions is "disappointing" as it is diluted by the strings around it, according to SDLP leader and MP for Belfast South and Mid Down Claire Hanna. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526068-uk-gaza/>
+
+---
+
+## Community shaken 'to its core' over Fermanagh murders
+
+date: 2025-07-30, from: RTÉ News
+
+The murder of a woman and her two children in Co Fermanagh has shaken the community "to its core", mourners at a service of removal have heard. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526063-fermanagh-funerals/>
+
+---
+
+## Ozzy Osbourne procession taking place in Birmingham
+
+date: 2025-07-30, from: RTÉ News
+
+Ozzy Osbourne fans have gathered to pay their respects to the heavy metal star at a procession in his home city of Birmingham. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0730/1526056-ozzy-osbourne-procession-to-take-place-in-birmingham/>
+
+---
+
+## Australia widens teen social media ban to YouTube
+
+date: 2025-07-30, from: RTÉ News
+
+Australia said it will add YouTube to sites covered by its world-first ban on social media for teenagers, reversing an earlier decision to exempt the Alphabet-owned video-sharing site and potentially setting up a legal challenge. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526055-australia-social-media/>
+
+---
+
+## US urges judges to release Epstein, Maxwell transcripts
+
+date: 2025-07-30, from: RTÉ News
+
+The Trump administration ha urged two judges to release testimony heard by the grand juries that indicted Jeffrey Epstein and Ghislaine Maxwell on sex trafficking charges as the US President seeks to calm an uproar over his administration's handling of the matter 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526053-epstein-maxwell-trump/>
+
+---
+
+## Homelessness: What does the data tell us about the crisis?
+
+date: 2025-07-30, from: RTÉ News
+
+On Friday the Department of Housing published the latest of its monthly updates on homelessness. It showed that in June almost 16,000 people, including almost 5,000 children, were relying on emergency State shelter. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0730/1525988-homelessness-data/>
+
+---
+
+## Irish among artists taking part in Edinburgh festivals
+
+date: 2025-07-30, from: RTÉ News
+
+Irish artists are among thousands from across the world who are packing their bags and heading off to Edinburgh in Scotland, for the annual internationally renowned arts festivals. 
+
+<br> 
+
+<https://www.rte.ie/culture/2025/0730/1526003-edinburgh-festival/>
+
+---
+
+## Huge quake off Russia sparks Pacific tsunamis
+
+date: 2025-07-30, from: RTÉ News
+
+One of the strongest earthquakes ever recorded struck Russia's sparsely populated Far East, causing tsunamis up to 4m high across the Pacific and sparking evacuations from Hawaii to Japan. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0730/1526047-russia-earthquake/>
+
+---
+
+## Doug Ford wears it, Russ refuses it... why gifts of beaded medallions are sparking debate
+
+date: 2025-07-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7596319.1753822638!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chief-cindy-woodhouse-nepinak-and-premier-doug-ford.jpg' alt='Woman in chiefs headdress and a man standing next to her' width='620' height='349' title='Assembly of First Nations National Chief Cindy Woodhouse Nepinak, left, talks with Ontario Premier Doug Ford during the meeting of Canada’s premiers in Huntsville, Ont., on Monday, July 21, 2025. THE CANADIAN PRESS/Nathan Denette'/><p>A beaded medallion gifted to Ontario premier, Doug Ford, and another turned down by rapper, Russ, have sparked debate about whether politicians and celebrities understand or appreciate the cultural significance of Indigenous beadwork.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/beaded-medallions-gifting-debate-1.7595651?cmp=rss>
+
+---
+
+## Nearly 500 concerns raised about Irish charities in 2024
+
+date: 2025-07-30, from: RTÉ News
+
+Nearly 500 concerns were raised about registered Irish charities last year, marking a decrease on the number of concerns raised in 2023, according to the latest Charities Regulator annual report. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526015-irish-charities/>
+
+---
+
+## Deepening fragmentation in nursing home sector - report
+
+date: 2025-07-29, from: RTÉ News
+
+Ireland's nursing home care sector faces deepening fragmentation, widening inequities, and unsustainable pressure on residents, families, and staff, according to a paper published by Nursing Homes Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526019-nursing-homes-ireland/>
+
+---
+
+## Sellers, estate agents trusted least by home buyers
+
+date: 2025-07-29, from: RTÉ News
+
+A new survey has found that only 16% of consumers believe the system of buying a home is transparent for purchasers and that sellers and estate agents were trusted the least. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0730/1526026-consumer-survey/>
+
+---
+
+## Pope to young pilgrims: “Your voices will be heard to the ends of the earth"
+
+date: 2025-07-29, from: Vatican News
+
+
+                    <p>At the opening of the Jubilee of Youth, the Holy Father welcomes young people to St. Peter’s Square, inviting them to pray for peace: “Let us walk together with our faith in Jesus Christ.”
+</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-jubilee-youth-voices-end-of-the-earth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-jubilee-youth-voices-end-of-the-earth.html>
+
+---
+
+## U.S. Senate confirms former Trump lawyer Emil Bove as federal judge, despite whistleblower concerns
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7586553.1753840724!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-judges-bove.jpg' alt='Greying man sits looking glum' width='620' height='349' title='FILE - Emil Bove, attorney for then former President Donald Trump, attends Manhattan criminal court during Trump&apos;s sentencing in the hush money case in New York, Jan. 10, 2025.  '/><p>The U.S. Senate on Tuesday confirmed President Donald Trump's former personal lawyer Emil Bove as a federal judge, installing a Trump loyalist who presided over a tumultuous period at the Justice Department on a crucial appeals court.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-lawyer-emil-bove-judge-approved-1.7597010?cmp=rss>
+
+---
+
+## US House panel rejects Ghislaine Maxwell immunity request
+
+date: 2025-07-29, from: RTÉ News
+
+A Republican-led congressional committee has rejected a request by Ghislaine Maxwell, a longtime associate of the late convicted sex offender Jeffrey Epstein, for immunity from future prosecution. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1526038-maxwell-epstein/>
+
+---
+
+## Japan, Hawaii and Russia downgrade tsunami warnings after powerful earthquake
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7597105.1753869400!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/japan-tsunami-warning.jpg' alt='A pedestrian walks past a TV screen displaying a tsunami warning.' width='620' height='349' title='A pedestrian walks past a TV screen displaying a tsunami warning in Tokyo, Wednesday, July 30, 2025. (AP Photo/Louise Delmotte)'/><p>One of the strongest earthquakes ever recorded struck off Russia's sparsely populated Far East early Wednesday, sending tsunami waves into Japan, Hawaii and the U.S. West Coast. Several people were injured, but none gravely, and no major damage has been reported so far.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/japan-tsunami-alert-russia-quake-1.7597026?cmp=rss>
+
+---
+
+## Trump's EPA targets basis of all US greenhouse gas rules
+
+date: 2025-07-29, from: RTÉ News
+
+The Trump administration has said it will rescind the long-standing finding that greenhouse gas emissions endanger human health, removing the legal foundation for all US greenhouse gas regulations. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0729/1526035-epa-us-greenhouse/>
 
 ---
 
@@ -45,6 +490,30 @@ A man in his 20s has been arrested after a probationer garda was attacked in Dub
 
 ---
 
+## Man arrested after probationer garda stabbed in Dublin
+
+date: 2025-07-29, from: RTÉ News
+
+A man in his 20s has been arrested after a probationer garda was attacked in Dublin city centre yesterday evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0729/1526022-garda-attacked-dublin/>
+
+---
+
+## York Factory First Nation 'essentially stranded' after low water levels ground ferry: grand chief
+
+date: 2025-07-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7596675.1753817569!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/york-factory-news-conference-in-winnipeg-07292025.JPG' alt='Five men and a woman sit along one side of a table, with microphones placed in front of them. The men are each wearing Indigenous headdresses.' width='620' height='349' title='From left to right: Manitoba Keewatinowi Okimakanak Grand Chief Garrison Settee, Keewatin Tribal Council Grand Chief Walter Wastesicoot, York Factory First Nation Chief Darryl Wastesicoot, Fox Lake First Nation Chief Morris Beardy, Assembly of Manitoba Chiefs Grand Chief Kyra Wilson, and Willie Moore, the Assembly of First Nations regional chief representing Manitoba.'/><p>Indigenous leaders in Manitoba want an all-season road for a northern Manitoba First Nation that's “essentially stranded” after low water levels left its ferry grounded for over two weeks.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/york-factory-ferry-stranded-1.7596674?cmp=rss>
+
+---
+
 ## Court to rule Thursday on McGregor rape appeal
 
 date: 2025-07-29, from: RTÉ News
@@ -78,6 +547,18 @@ Britain will recognise the state of Palestine in September unless the Israeli go
 <br> 
 
 <https://www.rte.ie/news/world/2025/0729/1525999-uk-palestine/>
+
+---
+
+## Hong Kong has issued a warrant for his arrest, but this Vancouverite isn't worried
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7596567.1753813727!/cantoImage/httpImage/image.jpg_gen/derivatives/16x9_620/victor-ho.jpg' alt='A man wearing a blue plaid shirt and glasses stands among trees on a sunny day' width='620' height='349' title='Victor Ho is pictured near his home in Richmond, B.C, on Monday, July 28, 2025.'/><p>Last week, Hong Kong issued arrest warrants for 19 overseas activists belonging to a group that promotes self-determination in Hong Kong, but which the government accuses of trying to otherthrow institutions. Among them is Victor Ho, a Canadian citizen and Vancouver-based journalist.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/victor-ho-hong-kong-arrest-warrant-1.7596560?cmp=rss>
 
 ---
 
@@ -193,15 +674,27 @@ A woman who lost vision permanently in one eye after being attacked in Dublin in
 
 ---
 
-## U.K. will recognize Palestinian state unless Israel agrees to ceasefire, British PM says
+## Canada weighing recognition of Palestinian statehood: source
 
 date: 2025-07-29, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7596378.1753805770!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-starmer.JPG' alt='A grey-haired man in a black suit and navy tie speaks to media. He is also wearing dark-framed glasses.' width='620' height='349' title='Britain&apos;s Prime Minister Keir Starmer delivers a statement inside No. 10 Downing Street on July 29, 2025, the day the cabinet was recalled to discuss the situation in Gaza.'/><p>Prime Minister Keir Starmer said Tuesday the U.K. will recognize a Palestinian state in September unless Israel agrees to a ceasefire in Gaza, allows the UN to bring in aid and takes other steps toward long-term peace.</p> 
+<img src='https://i.cbc.ca/1.7586468.1752685969!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cp174769601.jpg' alt='A man in a suit stands in a factory.' width='620' height='349' title='Prime Minister Mark Carney waits to speak during a tour of a steel manufacturing facility, in Hamilton, Ont., Wednesday, July 16, 2025. THE CANADIAN PRESS/Chris Young'/><p>The Canadian government is weighing whether to recognize Palestinian statehood, and whether that recognition would come with conditions, according to a government source.</p> 
 
 <br> 
 
 <https://www.cbc.ca/news/world/uk-recognize-palestinian-state-ceasefire-1.7596361?cmp=rss>
+
+---
+
+## Matawa Education appeals to Ottawa to fund program to revitalize Indigenous languages across northern Ontario
+
+date: 2025-07-29, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7596310.1753801851!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/matawa.jpeg' alt='Matawa' width='620' height='349' title='Matawa'/><p>Two officials at Matawa Education and Care Centre in Thunder Bay are calling for stable funding to help them keep Ojibway, Oji-Cree and Cree languages alive across northern Ontario.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/matawa-education-1.7595759?cmp=rss>
 
 ---
 
@@ -229,11 +722,11 @@ date: 2025-07-29, from: United Nations, Top Stories
 
 ---
 
-## UN peacekeeping can work in a fractured world – if there is political will
+## UN peacekeeping can work in a fractured world if there is political will
 
 date: 2025-07-29, from: United Nations, Top Stories
 
-In an era marked by geopolitical fragmentation and rising global tensions, United Nations peace operations face unprecedented challenges – but senior officials told the Security Council on Tuesday that with renewed political will and strategic adaptation, these missions remain indispensable tools for conflict resolution and protection of civilians worldwide. 
+In an era marked by geopolitical fragmentation and rising global tensions, United Nations peace operations face unprecedented challenges, but senior officials told the Security Council on Tuesday that with renewed political will and strategic adaptation, these missions remain indispensable tools for conflict resolution and protection of civilians worldwide. 
 
 <br> 
 
@@ -274,6 +767,42 @@ Welcome to our continuing live coverage of the high-level international conferen
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165518>
+
+---
+
+## Lured by hope, trapped by lies: Healing after being trafficked
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+The promise seemed simple: a job, a fresh start, a way out. Instead, Maria* stepped off a boat onto a picture-perfect Trinidadian beach with hope in her heart and into a nightmare that would shadow her for years. On the&nbsp;World Day Against Trafficking in Persons, observed on 30 July, follow the journey of a woman who escaped. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165524>
+
+---
+
+## Deputy UN chief urges bold action to transform food systems at global summit in Addis Ababa
+
+date: 2025-07-29, from: United Nations, Top Stories
+
+United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on countries to double down on efforts to transform food systems, describing them as “one of the greatest solutions” to achieving the Sustainable Development Goals (SDGs). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165526>
+
+---
+
+## World News in Brief: Remembering Dr. David Nabarro, deadly shipwreck off Libya, verdict in peacekeeper’s killing
+
+date: 2025-07-29, from: United Nations, UN Affairs
+
+UN Secretary-General António Guterres has expressed sadness over the passing of Dr. David Nabarro, who played a leading role in the Organization’s efforts to respond to challenges such as hunger, Ebola and the COVID-19 pandemic. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165525>
 
 ---
 
@@ -662,7 +1191,7 @@ A gunman armed with an assault-style rifle killed four people inside a Manhattan
 
 date: 2025-07-29, from: RTÉ News
 
-The man who killed four people in a rampage with a rifle through a midtown Manhattan office building was carrying a note that appeared to blame the National Football League for his degenerative brain disease, New York Mayor Eric Adams has said. 
+The man who killed four people in a Manhattan office building was carrying a note that appeared to blame the National Football League for a degenerative brain disease he said he had, New York Mayor Eric Adams said. 
 
 <br> 
 
@@ -670,11 +1199,11 @@ The man who killed four people in a rampage with a rifle through a midtown Manha
 
 ---
 
-## Govt bid to up size of garden cabins a 'half-baked plan'
+## Govt backs cabin plan Soc Dems call 'half-baked'
 
 date: 2025-07-28, from: RTÉ News
 
-The Social Democrats have criticised Government plans to increase the allowance for cabins or garden homes up to a size of 45 square metres as a "half-baked plan" to move people into "glorified garden sheds". 
+The Social Democrats has criticised Government plans to increase the allowance for cabins or garden homes up to a size of 45 sq.m as a "half-baked plan" to move people into "glorified garden sheds". 
 
 <br> 
 

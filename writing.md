@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2025-07-29 14:07:33
+updated: 2025-07-30 06:07:56
 ---
 
 # writing
 
-(date: 2025-07-29 14:07:33)
+(date: 2025-07-30 06:07:56)
+
+---
+
+## Marketing Your Book: A Guide for New Authors
+
+date: 2025-07-30, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-market-your-book>
+
+---
+
+## Scriptnotes, Episode 694: Reviving the Spoof Movie, Transcript
+
+date: 2025-07-30, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hey, this is John, a standard warning for people who are in the car with their kids. There’s some swearing in this episode. Hello, and welcome. My name is John August, and you’re listening to episode 694 of Scriptnotes. It’s a podcast about [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-694-reviving-the-spoof-movie-transcript">Scriptnotes, Episode 694: Reviving the Spoof Movie, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-694-reviving-the-spoof-movie-transcript>
 
 ---
 

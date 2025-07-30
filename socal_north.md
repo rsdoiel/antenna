@@ -1,11 +1,173 @@
 ---
 title: socal north
-updated: 2025-07-29 14:07:29
+updated: 2025-07-30 06:07:51
 ---
 
 # socal north
 
-(date: 2025-07-29 14:07:29)
+(date: 2025-07-30 06:07:51)
+
+---
+
+## Newsom plans to let LA suspend duplex projects in fire burn zones
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Should Palisades and Altadena homeowners be able to build duplexes on their burned lots? Some state and local officials say no. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-rebuilding-sb9-adu-mayor-bass-housing>
+
+---
+
+## Deliveries and TikTok videos: How quinceañera dress sellers are trying to stay in business amid ICE sweeps
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+One business district is a shadow of its former self since federal immigration raids started in Southern California in June. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/how-quinceanera-dress-sellers-are-trying-to-stay-in-business-ice-sweeps>
+
+---
+
+## Slightly warmer conditions for SoCal today with some morning clouds
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+It will be a couple of degrees warmer today, especially for inland areas and the valleys. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/slightly-warmer-conditions-for-socal-today-with-some-morning-clouds>
+
+---
+
+## $85 billion rail merger could unify coast-to-coast service
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+The deal would create the largest freight rail network in the country, but it’s sure to get a close look from regulators. 
+
+<br> 
+
+<https://laist.com/news/85-billion-rail-merger-could-unify-coast-to-coast-service>
+
+---
+
+## Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help
+
+date: 2025-07-30, from: Longbeach Post
+
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Staff at Farm Lot 59 suspect they were targeted in retaliation after homeless people were cleared from an encampment in the adjacent Willow Springs Park.</p>
+<p>The post <a href="https://lbpost.com/news/place/farm-lot-59-vandalism-fire-help">Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/farm-lot-59-vandalism-fire-help>
+
+---
+
+## Tsunami waves of less than 1 foot forecast to hit Long Beach around 1 a.m.
+
+date: 2025-07-30, from: Longbeach Post
+
+<figure><img width="1024" height="566" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-1024x566.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-1024x566.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-300x166.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-768x425.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya-400x221.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29205107/0909-rain-6-1110x614-968706-m3uxwibw-856008-7nqmIuya.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Here's what we know about the potential local impacts of the tsunami.</p>
+<p>The post <a href="https://lbpost.com/news/tsunami-forcast-long-beach-when-how-big-waves">Tsunami waves of less than 1 foot forecast to hit Long Beach around 1 a.m.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/tsunami-forcast-long-beach-when-how-big-waves>
+
+---
+
+## 4 things Californians should know about tsunamis
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+What to know about the tsunami threat to the California coast. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tsunamis-what-californians-should-know>
+
+---
+
+## Tsunami advisory lifted for LA and Orange counties after 8.8 Russia earthquake. Worst fears of damage pass
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Coastal California north of Santa Barbara remains under a tsunami advistory after a massive quake in eastern Russia on Tuesday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/southern-california-west-coast-tsunami-watch>
+
+---
+
+## Several dogs were reported killed by a mystery illness after visiting Venice Canals, prompting public health warnings
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+L.A. County veterinary officials reported that many of the affected dogs are experiencing neurologic signs, cardiac arrest and "acute death." 
+
+<br> 
+
+<https://laist.com/news/dogs-mystery-illness-venice>
+
+---
+
+## California sues Trump administration over Planned Parenthood cuts
+
+date: 2025-07-29, updated: 2025-07-29, from: The LAist
+
+The lawuit contends that Trump’s signature tax law is unconstitutionally vague and requires states to violate Planned Parenthood’s First Amendment rights. 
+
+<br> 
+
+<https://laist.com/news/politics/california-sues-trump-administration-over-planned-parenthood-cuts>
+
+---
+
+## LA County supervisors move to prohibit federal agents from wearing masks
+
+date: 2025-07-29, updated: 2025-07-29, from: The LAist
+
+The move follows a series of immigration sweeps by masked federal agents, but its unclear whether the county can force federal officers to take off their face coverings. 
+
+<br> 
+
+<https://laist.com/news/politics/la-supervisors-move-to-prohibit-federal-immigration-agents-from-wearing-masks>
+
+---
+
+## LA County wants Los Angeles General Hospital listed as a nationally recognized historic site
+
+date: 2025-07-29, updated: 2025-07-29, from: The LAist
+
+The site is in early stages of redevelopment to include affordable housing, and is estimated to cost $1 billion. 
+
+<br> 
+
+<https://laist.com/news/la-history/la-county-wants-the-los-angeles-general-hospital-campus-listed-as-a-nationally-recognized-historic-site>
+
+---
+
+## Trump's EPA wants to eliminate regulation for greenhouse gases
+
+date: 2025-07-29, updated: 2025-07-29, from: The LAist
+
+The Trump administration proposes eliminating a 2009 finding that greenhouse gases endanger people. That would undermine the EPA's climate change regulations for power plants and cars. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trumps-epa-wants-to-eliminate-regulation-for-greenhouse-gases>
 
 ---
 
@@ -25,7 +187,7 @@ Prices have risen a tad on some items especially affected by tariffs. But for th
 
 date: 2025-07-29, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/25130351/cabrillo-coach-arrest-design-158388-kkk9v3lf-190442-j56Yp0Jt.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Investigators are asking any more victims to come forward.</p>
 <p>The post <a href="https://lbpost.com/news/crime/cabrillo-high-baseball-coach-pleads-not-guilty-to-sexually-abusing-student">Cabrillo High baseball coach pleads not guilty to sexually abusing student</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -40,7 +202,7 @@ date: 2025-07-29, from: Longbeach Post
 
 date: 2025-07-29, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/29122405/0601322-drought-lv-cm-002-102322-uygynnbr-363361-M5ZWU2Kx.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>What happens when you take high interest rates, unpredictable tariffs, a shortage of homes, a 50-year-old property tax law and mix them together? A housing market stuck in molasses.</p>
 <p>The post <a href="https://lbpost.com/news/place/real-estate/so-many-reasons-to-stay-put-whats-behind-californias-frozen-housing-market">So many reasons to stay put: What’s behind California’s frozen housing market?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -99,9 +261,9 @@ Unión del Barrio and the Association of Raza Educators are training school work
 
 ---
 
-## UCLA settles $6.45 million lawsuit over antisemitism in campus protests
+## UCLA settles antisemitism lawsuit and faces fresh litigation from feds over antisemitism
 
-date: 2025-07-29, updated: 2025-07-29, from: The LAist
+date: 2025-07-29, updated: 2025-07-30, from: The LAist
 
 The landmark suit was brought by three Jewish students and a professor who accused the university of violating their civil rights. 
 
@@ -111,7 +273,7 @@ The landmark suit was brought by three Jewish students and a professor who accus
 
 ---
 
-## DIY crosswalks in West LA: Council member says she asked the city to keep them
+## That ripped-up DIY crosswalk? West LA council member says city removed it after she asked it stay in place
 
 date: 2025-07-29, updated: 2025-07-29, from: The LAist
 

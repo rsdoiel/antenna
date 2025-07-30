@@ -1,11 +1,179 @@
 ---
 title: going electric
-updated: 2025-07-29 14:07:37
+updated: 2025-07-30 06:08:01
 ---
 
 # going electric
 
-(date: 2025-07-29 14:07:37)
+(date: 2025-07-30 06:08:01)
+
+---
+
+## Cadillac Lyriq-V first drive, a 3.3 second sport-luxury beast
+
+date: 2025-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/image_1ca8bc.png?w=1172" /></div><p>Cadillac is throwing a whole bunch more of the HPs and performance into the Lyriq and adordning it with its legendary “V” moniker for 2026’s model year and we got flown to Seattle to get a first drive. It did not dissapoint!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="427179" href="https://electrek.co/2025/07/30/cadillac-lyriq-v-first-drive-a-3-3-second-sport-luxury-beast/#more-427179" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/30/cadillac-lyriq-v-first-drive-a-3-3-second-sport-luxury-beast/>
+
+---
+
+## The Rivian R1S And R1T Can Finally Get A Winch Bumper
+
+date: 2025-07-30, from: Inside EVs News
+
+Ever since the R1T debuted in 2021, Rivian owners have not had a proper winch solution for their adventure EVs. 
+
+<br> 
+
+<https://insideevs.com/news/767445/rivian-r1s-r1t-winch-bumper/>
+
+---
+
+## The Tesla Model X And Model S Are Dead In Europe
+
+date: 2025-07-30, from: Inside EVs News
+
+Is the end of the road near for what was once the industry’s best EVs? 
+
+<br> 
+
+<https://insideevs.com/news/767444/tesla-model-s-model-x-dead-europe/>
+
+---
+
+## Honda to unveil sporty new electric motorcycle in September
+
+date: 2025-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/honda-ev-fun-concept-head-motorcycle.webp?w=1600" /></div><p>Honda is set to pull the covers off a new electric motorcycle on September 2, teasing the upcoming reveal with camouflaged images on the brand’s<a href="https://www.instagram.com/p/DMsSVBEO7Rq/?img_index=1"> social media</a>. The upcoming unveiling is sparking speculation that this could be one of the first models in Honda’s long-promised push into more powerful motorcycle electrification.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,honda" data-layer-viewtype="unknown" data-post-id="427386" href="https://electrek.co/2025/07/30/honda-to-unveil-sporty-new-electric-motorcycle-in-september/#more-427386" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/30/honda-to-unveil-sporty-new-electric-motorcycle-in-september/>
+
+---
+
+## This Startup Turns Old Diesel Trucks Into Electric Haulers
+
+date: 2025-07-30, from: Inside EVs News
+
+You don’t even need a special license to drive the retrofitted rig, but there’s a catch. 
+
+<br> 
+
+<https://insideevs.com/news/767418/neo-trucks-startup-diesel-retrofit-ev/>
+
+---
+
+## Tesla Inks $4.3 Billion Deal For American-Made LFP Batteries: Report
+
+date: 2025-07-30, from: Inside EVs News
+
+LG Energy Solution will supply Tesla with American-made lithium iron phosphate batteries to reduce reliance on Chinese suppliers. 
+
+<br> 
+
+<https://insideevs.com/news/767398/tesla-lfp-batteries-us-lges-deal-report/>
+
+---
+
+## 2026 Chevy Bolt: GM Teases Big Updates, Tesla Plug
+
+date: 2025-07-30, from: Inside EVs News
+
+"You asked, we listened." Chevrolet promises its affordable compact EV is about to be back and better than ever. 
+
+<br> 
+
+<https://insideevs.com/news/767395/2026-chevrolet-bolt-nacs-teaser/>
+
+---
+
+## Report: Ferrari were SO impressed by the Xiaomi SU7, they bought one
+
+date: 2025-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/xiaomi_su7-ULTRA.png?w=1600" /></div><p>With its <a href="https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/">tire-blistering acceleration</a> and <a href="https://electrek.co/2025/06/11/xiaomis-su7-ultra-all-time-fastest-lap-mass-produced-ev-nurburgring/">record-setting performance</a>, the Xiaomi SU7 Ultra has been getting attention throughout the auto industry, impressing everyone who’s seen it. That “everyone” now seems to include the OG supercar brand, itself.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,ferrari,xiaomi" data-layer-viewtype="unknown" data-post-id="427339" href="https://electrek.co/2025/07/29/report-ferrari-were-so-impressed-by-the-xiaomi-su7-they-bought-one/#more-427339" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/report-ferrari-were-so-impressed-by-the-xiaomi-su7-they-bought-one/>
+
+---
+
+## Chevy teases new Bolt w/NACS, front fascia redesign, rear brake lights
+
+date: 2025-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/image_660fa5.png?w=878" /></div><p>We’re finally getting our first teases of the upgraded 2027 Chevy Bolt, built on GM’s battery/motor platform formerly known as Ultium. So far, so good for the vehicle, which will be revealed later this Fall.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-bolt" data-layer-viewtype="unknown" data-post-id="427237" href="https://electrek.co/2025/07/29/chevy-teases-new-bolt-w-nacs-front-fascia-redesign-rear-brake-lights/#more-427237" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/chevy-teases-new-bolt-w-nacs-front-fascia-redesign-rear-brake-lights/>
+
+---
+
+## Tesla tops another ADAS test, Hyundai tops range tests, and Texas gets BESS
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/china_test.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s test-acular episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, it’s a new day and a new Chinese ADAS test for Tesla to conquer – but this one’s got a LOT more pedestrian carnage to parse through! We’ve also got some great e-bike deals from Retrospec and a bladder-busting Hyundai.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,quick-charge,retrospec,tesla-autopilot" data-layer-viewtype="unknown" data-post-id="427323" href="https://electrek.co/2025/07/29/tesla-tops-another-adas-test-hyundai-tops-range-tests-and-texas-gets-bess/#more-427323" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/tesla-tops-another-adas-test-hyundai-tops-range-tests-and-texas-gets-bess/>
+
+---
+
+## This Project Could Create The Largest Battery-Swapping Network In Africa
+
+date: 2025-07-29, from: Inside EVs News
+
+An African investment firm invests in SUN Mobility, a company focused on battery-swapping three-wheelers.  
+
+<br> 
+
+<https://insideevs.com/news/767384/african-indian-sun-mobility-investment/>
+
+---
+
+## Cadillac will keep this popular feature for EVs, but not in the US
+
+date: 2025-07-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Cadillacs-Optiq-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although many were disappointed to hear that GM was moving away from Apple CarPlay and Android Auto, it appears that it will continue to offer them in at least some overseas markets. <a href="https://electrek.co/guides/cadillac/">Cadillac</a> plans to continue offering the popular feature in EVs sold in Australia and New Zealand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac" data-layer-viewtype="unknown" data-post-id="427263" href="https://electrek.co/2025/07/29/cadillac-will-keep-this-popular-feature-for-evs-but-not-in-the-us/#more-427263" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/29/cadillac-will-keep-this-popular-feature-for-evs-but-not-in-the-us/>
 
 ---
 
@@ -81,7 +249,7 @@ date: 2025-07-29, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="427208" href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/#more-427208" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="climate-change,epa" data-layer-viewtype="unknown" data-post-id="427208" href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/#more-427208" class="more-link">more…</a> 
 
 <br> 
 

@@ -1,11 +1,146 @@
 ---
 title: columns
-updated: 2025-07-29 14:07:32
+updated: 2025-07-30 06:07:55
 ---
 
 # columns
 
-(date: 2025-07-29 14:07:32)
+(date: 2025-07-30 06:07:55)
+
+---
+
+## Measuring the Attack/Defense Balance
+
+date: 2025-07-30, updated: 2025-07-30, from: Bruce Schneier blog
+
+<p>&#8220;Who&#8217;s winning on the internet, the attackers or the defenders?&#8221;</p>
+<p>I&#8217;m asked this all the time, and I can only ever give a qualitative hand-wavy answer.  But Jason Healey and Tarang Jain&#8217;s latest Lawfare piece has <a href="https://www.lawfaremedia.org/article/are-cyber-defenders-winning">amassed data</a>.</p>
+<p>The essay provides the first framework for metrics about how we are all doing collectively&#8212;and not just how an individual network is doing. Healey wrote to me in email:</p>
+<blockquote><p>The work rests on three key insights: (1) defenders need a framework (based in threat, vulnerability, and consequence) to categorize the flood of potentially relevant security metrics; (2) trends are what matter, not specifics; and (3) to start, we should avoid getting bogged down in collecting data and just use what’s already being reported by amazing teams at Verizon, Cyentia, Mandiant, IBM, FBI, and so many others...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/measuring-the-attack-defense-balance.html>
+
+---
+
+## Office Hours: Is Trump out of his f*cking mind accusing Obama of treason? 
+
+date: 2025-07-30, from: Robert Reich's blog
+
+Or does he know full well he&#8217;s lying to divert attention from Epsteingate? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-does-trump-truly-believe>
+
+---
+
+## Output nothing with –out-null
+
+date: 2025-07-30, from: Daniel Stenberg Blog
+
+Downloading data from a remote URL is probably the single most common operation people do with curl. Often, users then add various additional options to the command line to extract information from that transfer but may also decide that the actually fetched data is not interesting. Sometimes they don&#8217;t get the accurate meta-data if the &#8230; <a href="https://daniel.haxx.se/blog/2025/07/30/output-nothing-with-out-null/" class="more-link">Continue reading <span class="screen-reader-text">Output nothing with &#8211;out-null</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/30/output-nothing-with-out-null/>
+
+---
+
+## July 29, 2025
+
+date: 2025-07-30, from: Heather Cox Richardson blog
+
+Trying to take some time off this summer, and after a bunch of work calls this morning, decided that today was too good a day to stay on the land. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-29-2025>
+
+---
+
+##  Substack sent a push alert promoting a Nazi blog. &#8220;Substack is primarily... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047248-substack-sent-a-push-aler>
+
+---
+
+## Wednesday 30 July, 2025
+
+date: 2025-07-29, from: John Naughton's online diary
+
+Pictures from an Exhibition If you’re a photographer, Arles is the place to be in July and August every year. Quote of the Day “The key issue that unites all the problems of AI is the choice of objectives that &#8230; <a href="https://memex.naughtons.org/wednesday-30-july-2025/41060/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-30-july-2025/41060/>
+
+---
+
+##  Trailer for Art Spiegelman: Disaster is My Muse, a documentary film on... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047009-trailer-for-art-spiegelma>
+
+---
+
+## A betrayal of the victims of the Holocaust 
+
+date: 2025-07-29, from: Robert Reich's blog
+
+A view from Israel 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-betrayal-of-the-victims-of-the>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-07-29, from: Miguel de Icaza Mastondon feed)
+
+<p>My summer treat</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114938773153875332>
+
+---
+
+## July 28, 2025
+
+date: 2025-07-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169610849/949a32afa0150b50ea6d1ec44e72c207.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169610849/949a32afa0150b50ea6d1ec44e72c207.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-28-2025-a10>
+
+---
+
+##  Archaeologists Discover a 2,400-Year-Old Skeleton Mosaic That Urges People to &#8220;Be Cheerful... 
+
+date: 2025-07-29, updated: 2025-07-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047240-archaeologists-discover-a>
 
 ---
 
@@ -301,7 +436,7 @@ But what about Substack and Ghost? A lot of people do their writing there too? W
 
 **@Dave Winer's Scripting News** (date: 2025-07-29, from: Dave Winer's Scripting News)
 
-Now here's the real reason I need WordLand and if you write for WordPress sites, I think you'll want it too. It's because WordPress is like the Microsoft Word of web writing. If you ask someone how they do their site, in 2025, it's probably going to be WordPress. So if someone invites you to write a guest post on their blog, chances are pretty good I can write it in WordLand, and it'll be archived in my collection of writing, and easy for me to find, because that's what WordLand does for writers. So I was able to create the new post on the WordCamp site in less than a minute, and it was completely painless. And that's the point. Here's the screen shot: 
+Now here's the real reason I need <a href="https://wordland.social/">WordLand</a> and if you write for WordPress sites, I think you'll want it too. It's because WordPress is like the <a href="https://en.wikipedia.org/wiki/Microsoft_Word">Microsoft Word</a> of web writing. If you ask someone how they do their site, in 2025, it's probably going to be WordPress. So if someone invites you to write a guest post on their blog, chances are pretty good I can write it in WordLand, and it'll be archived in my collection of writing, and easy for me to find, because that's what WordLand does for writers. So I was able to create the new post on the WordCamp site in less than a minute, and it was completely painless. And that's the point. Here's the screen shot: 
 
 <br> 
 
@@ -334,7 +469,7 @@ I needed a "featured image" for my WordCamp <a href="https://canada.wordcamp.org
 
 **@Dave Winer's Scripting News** (date: 2025-07-29, from: Dave Winer's Scripting News)
 
-Lots of embarrassing typos in a post yesterday on why I need WordLand. I did something unusual, I fixed the post this morning, and cleared up some of the ideas. It was an important post and equally important to get it right. I also <a href="https://canada.wordcamp.org/2025/why-i-need-wordland/">cross-posted</a> it on the WordCamp Canada site. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/09/09/poe3.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Lots of embarrassing typos in a post yesterday on why I need WordLand. I did something unusual, I fixed the <a href="http://scripting.com/2025/07/28.html#a122818">post</a> this morning, and cleared up some of the ideas. It was an important post and equally important to get it right. I also <a href="https://canada.wordcamp.org/2025/why-i-need-wordland/">cross-posted</a> it on the WordCamp Canada site. 
 
 <br> 
 

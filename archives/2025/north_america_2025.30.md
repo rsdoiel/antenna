@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-07-29 14:07:28
+updated: 2025-07-30 06:07:50
 ---
 
 # north america
 
-(date: 2025-07-29 14:07:28)
+(date: 2025-07-30 06:07:50)
+
+---
+
+## It’s Not a Linguistic Debate, it’s Man-Made Starvation
+
+date: 2025-07-30, from: The Contrarian
+
+Defense of Israel cannot condone the indefensible 
+
+<br> 
+
+<https://contrarian.substack.com/p/its-not-a-linguistic-debate-its-man>
+
+---
+
+## Evening Roundup, July 29
+
+date: 2025-07-29, from: The Contrarian
+
+Featuring Tom Malinowski, Cynthia Miller-Idriss, Meredith Blake, Eric Sorensen with Jen Rubin, Daryn Dickens, "Talking Feds," Michael de Adder, and The Contrarian podcast (on healthcare) 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-29>
+
+---
+
+## Healthcare is staring down a big, ugly cliff with Larry Levitt & Bruce Siegel
+
+date: 2025-07-29, from: The Contrarian
+
+Listen now | "This is the biggest step backward for the safety net and just for caring for our fellow people I think in American history." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169610987/28fbad6e0a34025e4d7e088f944ca994.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169610987/28fbad6e0a34025e4d7e088f944ca994.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/healthcare-is-staring-down-a-big>
+
+---
+
+## Billy Joel: "And So It Goes" is Nearly Five Hours Long, but Worth Every Minute 
+
+date: 2025-07-29, from: The Contrarian
+
+The exhaustive documentary tells the story of a ubiquitous yet oddly underrated musician 
+
+<br> 
+
+<https://contrarian.substack.com/p/billy-joel-and-so-it-goes-is-nearly>
 
 ---
 

@@ -1,11 +1,123 @@
 ---
 title: food
-updated: 2025-07-29 14:07:38
+updated: 2025-07-30 06:08:02
 ---
 
 # food
 
-(date: 2025-07-29 14:07:38)
+(date: 2025-07-30 06:08:02)
+
+---
+
+## Ratio Eight S2 Review: Equal Parts Coffee Maker & Kitchen Art
+
+date: 2025-07-30, from: Bon Appetet
+
+This drip coffee maker proves you don’t have to choose between design and performance. 
+
+<br> 
+
+<https://www.bonappetit.com/story/ratio-eight-series-2-coffee-maker-review>
+
+---
+
+## What Is Reverse Creaming?
+
+date: 2025-07-30, from: Taste of Home
+
+<p>Learn how to use the reverse creaming method for the most tender homemade cakes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-reverse-creaming/">What Is Reverse Creaming?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-reverse-creaming/>
+
+---
+
+## How To Create a Summer Drink Menu That Beats the Heat—and Rising Retail Costs
+
+date: 2025-07-30, from: The Fresh Cup
+
+<p>From strawberry matcha to citrus-led coffee mocktails, there are many ways for cafes to leverage seasonal trends into new revenue. Partnering with a premium ingredient supplier is a good first step.</p>
+<p>The post <a href="https://freshcup.com/how-to-create-a-summer-drink-menu-that-beats-the-heat-and-rising-retail-costs/">How To Create a Summer Drink Menu That Beats the Heat—and Rising Retail Costs</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-to-create-a-summer-drink-menu-that-beats-the-heat-and-rising-retail-costs/>
+
+---
+
+## Homemade Crunchwrap Supreme Recipe (Better Than Fast Food!)
+
+date: 2025-07-30, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/crunchwrap-supreme/" title="Homemade Crunchwrap Supreme Recipe (Better Than Fast Food!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike taking a Homemade Crunchwrap Supreme from a stack of them" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make your own Crunchwrap Supreme at home! Crispy, cheesy, loaded with beef and toppings. Better than fast food, easy to customize, ready in 30 minutes!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/crunchwrap-supreme/">Homemade Crunchwrap Supreme Recipe (Better Than Fast Food!)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/crunchwrap-supreme/>
+
+---
+
+## Starbucks CEO Made Over $95M in 2024. The Average Barista Made Less Than $15,000
+
+date: 2025-07-30, from: The Fresh Cup
+
+<p>Starbucks CEO Brian Niccol made over $95 million in 2024, 6,666 times more than the average barista.</p>
+<p>The post <a href="https://freshcup.com/starbucks-ceo-made-over-95m-in-2024-the-average-barista-made-less-than-15000/">Starbucks CEO Made Over $95M in 2024. The Average Barista Made Less Than $15,000</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/starbucks-ceo-made-over-95m-in-2024-the-average-barista-made-less-than-15000/>
+
+---
+
+## Chipotle Ranch
+
+date: 2025-07-30, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/creamy-chipotle-ranch-dressing/"><img title="chipotle-ranch-25-small-7" src="https://www.isabeleats.com/wp-content/uploads/2025/07/chipotle-ranch-25-small-7-400x600.jpg" alt="Chipotle ranch in a jar with a wooden spoon." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Creamy, smoky, and ready in just 5 minutes, this easy homemade chipotle ranch is perfect as a dressing, dip, or&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/creamy-chipotle-ranch-dressing/>
+
+---
+
+## Meghann Fahy Eats This for Breakfast at Least Three Times a Week
+
+date: 2025-07-29, from: Taste of Home
+
+<p>She is a queen of routine!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/meghann-fahy-favorite-breakfast/">Meghann Fahy Eats This for Breakfast at Least Three Times a Week</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/meghann-fahy-favorite-breakfast/>
+
+---
+
+## Top Chef Judge Gail Simmons Gives This Summer Cocktail a 10/10
+
+date: 2025-07-29, from: Taste of Home
+
+<p>The Top Chef icon told us about her go-to summer drink and top hosting tips.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/top-chef-judge-gail-simmons-summer-cocktail/">Top Chef Judge Gail Simmons Gives This Summer Cocktail a 10/10</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/top-chef-judge-gail-simmons-summer-cocktail/>
 
 ---
 
@@ -449,7 +561,7 @@ date: 2025-07-28, from: The Fresh Cup
 
 date: 2025-07-28, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/pickled-tomatoes/" title="Pickled Tomatoes Recipe (Quick &amp; Easy Refrigerator Pickles)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large jar of Pickled Tomatoes on a table" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Quick and easy pickled tomatoes - zingy, garlicky, a little sweet, with optional heat, perfect for burgers, salads, or snacking. Works with any tomatoes!</p>
+<a href="https://www.chilipeppermadness.com/recipes/pickled-tomatoes/" title="Pickled Tomatoes Recipe (Quick &amp; Easy Refrigerator Pickles)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large jar of Pickled Tomatoes on a table" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Pickled-Tomatoes-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Quick and easy pickled tomatoes - zingy, garlicky, a little sweet, with optional heat, perfect for burgers, salads, or snacking. Works with any tomatoes!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/pickled-tomatoes/">Pickled Tomatoes Recipe (Quick &amp; Easy Refrigerator Pickles)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

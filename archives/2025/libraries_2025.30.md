@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-29 14:07:35
+updated: 2025-07-30 06:07:58
 ---
 
 # libraries
 
-(date: 2025-07-29 14:07:35)
+(date: 2025-07-30 06:07:58)
 
 ---
 
@@ -247,6 +247,34 @@ Nisi, A. Valentina; Arnold, Myrtha M.L.; Blonde, Ginger D.; Schier, Lindsey A.; 
 <br> 
 
 <http://hdl.handle.net/20.500.11850/747248>
+
+---
+
+## Impacting Teaching and Learning Through an Open Educational Resources Initiative
+
+date: 2025-07-30, from: Association of Research Libraries News
+
+<p>The Rutgers University Libraries Open and Affordable Textbooks (OAT) Program launched in 2016 and has become a signature program with goals meant to enhance access to education, contribute to student...</p>
+<p>The post <a href="https://www.arl.org/blog/impacting-teaching-and-learning-through-an-open-educational-resources-initiative/">Impacting Teaching and Learning Through an Open Educational Resources Initiative</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/impacting-teaching-and-learning-through-an-open-educational-resources-initiative/>
+
+---
+
+## Guest Post — Society Publishers at a Crossroads: New Evidence of an Accelerating Crisis
+
+date: 2025-07-30, from: Scholarly Kitchen
+
+<p>A recent survey of 66 learned societies (primarily in the UK) revealed a revenue crisis which threatens the very existence of community-driven publishing, and by extension learned societies themselves.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/30/guest-post-society-publishers-at-a-crossroads-new-evidence-of-an-accelerating-crisis/">Guest Post &#8212; Society Publishers at a Crossroads: New Evidence of an Accelerating Crisis</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/30/guest-post-society-publishers-at-a-crossroads-new-evidence-of-an-accelerating-crisis/>
 
 ---
 

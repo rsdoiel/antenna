@@ -1,11 +1,551 @@
 ---
 title: pacific
-updated: 2025-07-29 14:07:30
+updated: 2025-07-30 06:07:52
 ---
 
 # pacific
 
-(date: 2025-07-29 14:07:30)
+(date: 2025-07-30 06:07:52)
+
+---
+
+## Russian airstrikes on prison, hospital kill 19 in southeastern Ukraine
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>ZAPORIZHZHIA, Ukraine &#8212; Russian airstrikes on a prison and hospital in southeastern Ukraine killed at least 19 people, officials said on Tuesday, while U.S. President Donald Trump said he would start imposing punitive measures on Russia within 10 days if Moscow showed no progress toward ending its war in Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/russian-airstrikes-on-prison-hospital-kill-19-in-southeastern-ukraine/>
+
+---
+
+## FAA failed to act before helicopter crash, US transport chief says
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Aviation Administration failed to act despite dozens of near-miss incidents before a fatal January crash between an American Airlines regional jet and an Army helicopter near Ronald Reagan Washington National Airport, U.S. Transportation Secretary Sean Duffy said on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/faa-failed-to-act-before-helicopter-crash-us-transport-chief-says/>
+
+---
+
+## Trump says Wall Street Journal, Murdoch want to settle defamation lawsuit
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump said on Tuesday the Wall Street Journal and its billionaire owner Rupert Murdoch want to settle the U.S. president&#8217;s defamation lawsuit against the newspaper.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/trump-says-wall-street-journal-murdoch-want-to-settle-defamation-lawsuit/>
+
+---
+
+## Greene calls Gaza crisis a ‘genocide,’ hinting at rift on the right over Israel
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Rep. Marjorie Taylor Greene of Georgia, an avatar of MAGA politics on Capitol Hill, this week became the first Republican in Congress to describe the situation in the Gaza Strip as a &#8220;genocide,&#8221; breaking sharply with her party in an indication of growing skepticism on the right about Israel&#8217;s conduct of the war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/greene-calls-gaza-crisis-a-genocide-hinting-at-rift-on-the-right-over-israel/>
+
+---
+
+## Trump says Epstein ‘stole’ underage victim from Mar-a-Lago spa
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said on Tuesday that he had ended his relationship with Jeffrey Epstein because the financier had &#8220;hired away&#8221; spa attendants at Mar-a-Lago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/trump-says-epstein-stole-underage-victim-from-mar-a-lago-spa/>
+
+---
+
+## NYC skyscraper shooter blamed NFL for his mental health issues, mayor says
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The man who killed four people with a semi-automatic rifle while rampaging through a Midtown Manhattan office tower carried a note with him that appeared to blame the National Football League for a degenerative brain disease he said he had, New York Mayor Eric Adams said on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/nyc-skyscraper-shooter-blamed-nfl-for-his-mental-health-issues-mayor-says/>
+
+---
+
+## US House panel rejects immunity request by Epstein associate Maxwell
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A Republican-led congressional committee rejected on Tuesday a request by a longtime associate of the late convicted sex offender Jeffrey Epstein for immunity from future prosecution as a condition for testifying to the panel in the midst of a political storm surrounding President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/us-house-panel-rejects-immunity-request-by-epstein-associate-maxwell/>
+
+---
+
+## Sean Combs, awaiting sentencing, asks judge to release him from jail
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Lawyers for Sean Combs asked a federal judge Tuesday to release him on a $50 million bond while he awaits sentencing for a federal conviction this month on charges of transportation to engage in prostitution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/sean-combs-awaiting-sentencing-asks-judge-to-release-him-from-jail/>
+
+---
+
+## News in brief for July 30 HTH
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Trump approval rating sinks &#0010;to 40%, the lowest of his term</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/news-in-brief-for-july-30-hth/>
+
+---
+
+## Gov. Josh Green limits activation of Hawaii National Guard
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green will require a briefing on the circumstances and the &#8220;true need&#8221; of a federal request to activate the Hawaii National Guard before considering the deployment of soldiers for any law enforcement duties like President Donald Trump&#8217;s effort to carry out the largest mass deportation of migrants without legal residency status in U.S. history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/hawaii-news/gov-josh-green-limits-activation-of-hawaii-national-guard/>
+
+---
+
+## Britain warns Israel it could recognize Palestinian state as Gaza starvation spreads
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS/LONDON &#8212; Britain said on Tuesday it would recognise a Palestinian state in September unless Israel takes steps to relieve suffering in Gaza, where starvation is spreading, and reaches a ceasefire in the nearly two-year war with Hamas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/britain-warns-israel-it-could-recognize-palestinian-state-as-gaza-starvation-spreads/>
+
+---
+
+## In game-changing climate rollback, EPA aims to kill a bedrock scientific finding
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Lee Zeldin, the administrator of the Environmental Protection Agency, said on Tuesday the Trump administration would revoke the scientific determination that underpins the government&#8217;s legal authority to combat climate change.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/in-game-changing-climate-rollback-epa-aims-to-kill-a-bedrock-scientific-finding/>
+
+---
+
+## Trump administration slashed federal funding for gun violence prevention
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; The Trump administration has terminated more than half of all federal funding for gun violence prevention programs in the U.S., cutting $158 million in grants that had been directed to groups in cities like New York, Los Angeles, Chicago, Washington, DC, and Baltimore. Of the 145 community violence intervention (CVI) grants totaling more than $300 million awarded through the U.S. Department of Justice, 69 grants were abruptly terminated in April, according to government data analyzed by Reuters. The elimination of CVI programs is part of a broader rollback at the department&#8217;s grant-issuing Office of Justice Programs, which terminated 365 grants valued at $811 million in April, impacting a range of public safety and victim services programs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/nation-world-news/trump-administration-slashed-federal-funding-for-gun-violence-prevention/>
+
+---
+
+## Police are requesting the public’s assistance in identifying a suspect involved in a reported road rage incident
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Police are requesting the public&#8217;s assistance in identifying a suspect involved in a reported road rage incident that occurred Dec. 3, 2024, in the area of the Onomea Scenic Route in Papaikou.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/hawaii-news/police-are-requesting-the-publics-assistance-in-identifying-a-suspect-involved-in-a-reported-road-rage-incident/>
+
+---
+
+## High court bars Sulla, Zamber from law practice
+
+date: 2025-07-30, from: Hawaii Tribune Harold
+
+
+				<p>Two Hilo attorneys recently convicted by a federal jury in Honolulu for an affordable housing credits scam have been barred from practicing law in Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/30/hawaii-news/high-court-bars-sulla-zamber-from-law-practice/>
+
+---
+
+## Hawaiian Word of the Week: Manakō
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>Manakō&#8212;mango.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/hawaiian-word-of-the-week-manako/">Hawaiian Word of the Week: Manakō</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/hawaiian-word-of-the-week-manako/>
+
+---
+
+## Live: Tsunami activity expected in NZ after 8.8 quake near Russia
+
+date: 2025-07-30, from: 
+
+The earthquake, the world's strongest in at least 14 years, has caused tsunami waves in Russia, Japan and Hawaii. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/568466/live-tsunami-activity-expected-in-nz-after-8-point-8-quake-near-russia>
+
+---
+
+## Latest update: Tsunami Advisory canceled for Guam and CNMI
+
+date: 2025-07-30, from: Pacific Island Times
+
+“We are seeing data indicating a tsunami wave passing through Guam now at the Upper Harbor tide gauge as well as the Pago Bay tide gauge,” Aydlett said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-cnmi-not-out-of-the-woods-yet>
+
+---
+
+## Pacific on tsunami watch following powerful 8.8 quake off Russia
+
+date: 2025-07-30, from: 
+
+The Cook Islands Meteorological Service has upgraded its earlier tsunami advisory to a tsunami warning following 8.8 magnitude quake off of Russia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568451/pacific-on-tsunami-watch-following-powerful-8-point-8-quake-off-russia>
+
+---
+
+## US Coast Guard sets Guam and CNMI ports to Heavy Weather Condition Zulu amid tsunami advisory
+
+date: 2025-07-30, from: Pacific Island Times
+
+By  Chief Warrant Officer Sara Muir                     (US Coast Guard Forces Micronesia) --  The U.S. Coast Guard Captain of the Port... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-coast-guard-sets-guam-and-cnmi-ports-to-heavy-weather-condition-yankee-amid-tsunami-advisory>
+
+---
+
+## UH Hilo women’s golf nationally recognized for academic excellence
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>The Women’s Golf Coaches Association highlighted the Vulcan student-athletes.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/hilo-womens-golf-academic-excellence/"><abbr>UH</abbr> Hilo women’s golf nationally recognized for academic excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/hilo-womens-golf-academic-excellence/>
+
+---
+
+## 'This is business': Fiji Rugby negotiating to host 'home' Test matches in UK
+
+date: 2025-07-30, from: 
+
+The matches against England, Scotland and Wales are classified as "home" Tests for the Flying Fijians and are scheduled for the July international Test window. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568471/this-is-business-fiji-rugby-negotiating-to-host-home-test-matches-in-uk>
+
+---
+
+## DZSP21 awarded new $116M contract for Naval Base Guam operations
+
+date: 2025-07-30, from: Pacific Island Times
+
+The Naval Facilities Engineering Systems Command Marianas today announced a $116 million modification to DZSP 21 LLC’s previously awarded contract for base operations support services at Naval Base Guam.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/dzsp21-awarded-new-116m-contract-for-naval-base-guam-operations>
+
+---
+
+## Global educators explore AI in language learning at UH Mānoa
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>The 8th <abbr>FLEAT</abbr> conference brought K-12 teachers and university faculty together to explore how generative <abbr>AI</abbr> is shaping language teaching and learning.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/ai-language-learning-uh-manoa/">Global educators explore <abbr>AI</abbr> in language learning at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/ai-language-learning-uh-manoa/>
+
+---
+
+## Tonga weighs new deep sea mining deal with The Metals Company
+
+date: 2025-07-30, from: 
+
+But a local NGO is "quite concerned" and urging the Tongan government to reject it. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568460/tonga-weighs-new-deep-sea-mining-deal-with-the-metals-company>
+
+---
+
+## Challenges issued ahead of Samoa general election
+
+date: 2025-07-30, from: 
+
+The country's electoral commissioner says when the window for objections closed, there was one voter objection and 11 candidate ones. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568459/challenges-issued-ahead-of-samoa-general-election>
+
+---
+
+## UH diabetes research center secures $2.35M NIH grant renewal
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>The boost will advance research and training aimed at reducing diabetes disparities in local communities.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/diabetes-center-nih-renewal/"><abbr>UH</abbr> diabetes research center secures $2.35<abbr>M</abbr> <abbr>NIH</abbr> grant renewal</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/diabetes-center-nih-renewal/>
+
+---
+
+## UH medical school’s Class of 2029 boosts Native Hawaiian representation
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>The 20&#37; Native Hawaiian class representation reflects the state’s overall Native Hawaiian population.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/jabsom-class-of-2029-white-coat/"><abbr>UH</abbr> medical school’s Class of 2029 boosts Native Hawaiian representation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/jabsom-class-of-2029-white-coat/>
+
+---
+
+## UH Mānoa series explores Native Hawaiian healing
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>A free fall series at <abbr>UH</abbr> Mānoa explores Native Hawaiian cultural approaches to preventing generational trauma.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/native-hawaiian-healing-series/"><abbr>UH</abbr> Mānoa series explores Native Hawaiian healing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/native-hawaiian-healing-series/>
+
+---
+
+## The Latest on Aloha Stadium INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-07-30, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Aloha Stadium closed in 2020. Since then, officials have talked about plans to build a smaller, replacement stadium along with retail, housing and hotel properties.</p>
+<p>The post <a href="https://www.pbshawaii.org/the-latest-on-aloha-stadium-insights-on-pbs-hawai%ca%bbi/">The Latest on Aloha Stadium &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/the-latest-on-aloha-stadium-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## Guam, CNMI updated to tsunami advisory
+
+date: 2025-07-30, from: Pacific Island Times
+
+The U.S. Geological Survey recorded an earthquake with a preliminary magnitude of 8.0, which was later upgraded to a magnitude of 8.7,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tsunami-watch-in-effect-for-guam-cnmi>
+
+---
+
+## Coldplay kisscam clip sparks viral frenzy, UH professor weighs in on parasocial culture
+
+date: 2025-07-30, from: University of Hawaiʻi News
+
+<p>Viral Coldplay kisscam clip illustrates how online parasocial engagement impacts real lives, states <abbr>UH</abbr> professor.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/coldplay-kisscam-professor-weighs-in/">Coldplay kisscam clip sparks viral frenzy, <abbr>UH</abbr> professor weighs in on parasocial culture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/coldplay-kisscam-professor-weighs-in/>
+
+---
+
+## Yap defense projects form US power projection in Micronesia
+
+date: 2025-07-29, from: Pacific Island Times
+
+The U.S. Department of Defense has released details of its proposed airport and seaport projects on Yap to facilitate military deployment and project power posture in the Federated States of Micronesia.
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/yap-defense-projects-form-us-power-projection-in-micronesia>
+
+---
+
+## New Wahiawā education hub to grow workforce, support community
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p>New facility aims to unite learning, careers and community support in Central <span aria-label="Oahu.">O&#699;ahu.</span></p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/new-wahiawa-education-hub/">New Wahiawā education hub to grow workforce, support community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/new-wahiawa-education-hub/>
+
+---
+
+## Samoa Football assure safety measures amid dengue outbreak ahead of OFC U16 event
+
+date: 2025-07-29, from: 
+
+The Oceania Football Confederation's 2025 Under-16 Women's Championships is set to kicks off in Apia on Friday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568439/samoa-football-assure-safety-measures-amid-dengue-outbreak-ahead-of-ofc-u16-event>
+
+---
+
+## UH Mānoa takes part in global climate conference
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa joined 34 other universities in attending the conference.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/uh-takes-part-in-climate-conference/"><abbr>UH</abbr> Mānoa takes part in global climate conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/uh-takes-part-in-climate-conference/>
+
+---
+
+## USP presses ahead with renewable energy solutions in the Pacific
+
+date: 2025-07-29, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) is embarking on a transformative journey towards renewable...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-presses-ahead-with-renewable-energy-solutions-in-the-pacific/">USP presses ahead with renewable energy solutions in the Pacific</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-presses-ahead-with-renewable-energy-solutions-in-the-pacific/>
+
+---
+
+## Keiki cook up life skills, local flavors in cooking contest
+
+date: 2025-07-29, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii's">Hawai&#699;i's</span> 4-H &#8220;GET Local&#8221; Cooking Contest empowers youth, teaching life skills, promoting local flavors, and fostering agricultural insights.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/29/keiki-cooking-contest/">Keiki cook up life skills, local flavors in cooking contest</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/29/keiki-cooking-contest/>
+
+---
+
+## Mormon Church responds to allegations against American missionary accused of abusing Tongan boys
+
+date: 2025-07-29, from: 
+
+The Church claims it is unclear if the American man accused of sexual abuse in Tonga was employed by them at the time of the alleged offending. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568432/mormon-church-responds-to-allegations-against-american-missionary-accused-of-abusing-tongan-boys>
+
+---
+
+## New Caledonia’s population drops to below 265,000, census reveals
+
+date: 2025-07-29, from: 
+
+The drop in population to below 265,000 is due to net migration outflow, according to the French National Statistical Institute. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568424/new-caledonia-s-population-drops-to-below-265-000-census-reveals>
+
+---
+
+## Fiji minister urges compassion after baby left in sanitary bin
+
+date: 2025-07-29, from: 
+
+A call has been made for compassion for the mother of a baby found in a sanitary bin in a Fiji university hostel. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568425/fiji-minister-urges-compassion-after-baby-left-in-sanitary-bin>
 
 ---
 
@@ -510,6 +1050,20 @@ date: 2025-07-29, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/29/features/wilson-making-food-from-scratch/>
+
+---
+
+## UPDATE: County issues evacuation order; emergency shelters are being opened
+
+date: 2025-07-29, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED 4:28 p.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/29/hawaii-news/tsunami-watch-issued-for-hawaii/>
 
 ---
 

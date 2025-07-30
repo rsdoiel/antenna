@@ -1,11 +1,45 @@
 ---
 title: journalism
-updated: 2025-07-29 14:07:34
+updated: 2025-07-30 06:07:57
 ---
 
 # journalism
 
-(date: 2025-07-29 14:07:34)
+(date: 2025-07-30 06:07:57)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-30, from: The Daily Bruin (UCLA Student Newspaper))
+
+Bernardo said Tuesday that he believes he was selected as dean in 2018 because he was seen as the best fit to improve the culture and climate at the UCLA Anderson School of Management – two pillars that were identified as obstacles to the school’s excellence in the 2013-2014 departmental review. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/29/491462/>
+
+---
+
+## DOJ alleges UCLA violated federal civil rights of Jewish, Israeli students
+
+date: 2025-07-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States Department of Justice alleged Tuesday that UCLA has created a hostile environment for Jewish and Israeli students since Palestinian political party and militant group Hamas’ Oct. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/29/doj-alleges-ucla-violated-federal-civil-rights-of-jewish-israeli-students/>
+
+---
+
+## Nonprofit news sites are built to generate impact — but these are also generating audiences
+
+date: 2025-07-29, from: Nieman Journalism Lab
+
+Last week, we published the first of our new monthly rankings: the top 25 local U.S. newspapers on the web, based on their traffic. (All hail the conquering Advance Local!) Today, it&#8217;s time for the second: the top 25 nonprofit news sites in the United States. Nonprofit news sites have an interesting relationship with web... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/nonprofit-news-sites-are-built-to-generate-impact-but-these-are-also-generating-audiences/>
 
 ---
 

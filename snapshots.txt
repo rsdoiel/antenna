@@ -277,3 +277,5 @@ https://www.science.org/about/email-alerts-and-rss-feeds "~Science Podcasts"
 
 https://buttondown.com/whatever_jamie/rss "~Whatever, Jamie blog (Jamie Birch)"
 https://buttondown.com/blog "~Buttondown Blog"
+
+https://research.swtch.com/feed.atom "~Russ Cox's views on programs and programming"

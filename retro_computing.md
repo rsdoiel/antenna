@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-29 14:07:36
+updated: 2025-07-30 06:08:00
 ---
 
 # retro computing
 
-(date: 2025-07-29 14:07:36)
+(date: 2025-07-30 06:08:00)
+
+---
+
+## Altima NSX
+
+date: 2025-07-30, from: Computer ads from the Past
+
+Light in weight. Light in price. Heavy in features. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/altima-nsx>
 
 ---
 

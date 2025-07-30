@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-07-29 14:07:36
+updated: 2025-07-30 06:07:59
 ---
 
 # motorcycles
 
-(date: 2025-07-29 14:07:36)
+(date: 2025-07-30 06:07:59)
+
+---
+
+## Despite Monumental Backlash, Utah's Legislature Still Wants to Sell Public Land
+
+date: 2025-07-30, from: Ride Apart, Electric Motorcycle News
+
+Public lands remain the one issue that nearly every American can agree on, in that they should stay in the public's hands. Yet, Utah's legislature remains hell bent on selling them off.  
+
+<br> 
+
+<https://www.rideapart.com/news/767370/utah-legislature-public-land-sell-off/>
+
+---
+
+## This New CFMoto Scooter Is Retro On the Outside, Modern On the Inside
+
+date: 2025-07-30, from: Ride Apart, Electric Motorcycle News
+
+CFMoto has a new commuter scooter called the 150 Aura. It’s a retro-styled machine that’s packing respectable tech and performance. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767244/cfmoto-150auro-retro-scooter-specs-features-details/>
+
+---
+
+## KTM Is Probably Killing Its Supercar, Will Focus On Motorcycles
+
+date: 2025-07-30, from: Ride Apart, Electric Motorcycle News
+
+After a tumultuous 12 months, KTM's new CEO has said that projects like its X-Bow supercar don't really align with the future of the company.  
+
+<br> 
+
+<https://www.rideapart.com/news/767333/ktm-xbow-supercar-dead/>
 
 ---
 

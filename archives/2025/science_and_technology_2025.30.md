@@ -1,11 +1,251 @@
 ---
 title: science and technology
-updated: 2025-07-29 14:07:31
+updated: 2025-07-30 06:07:53
 ---
 
 # science and technology
 
-(date: 2025-07-29 14:07:31)
+(date: 2025-07-30 06:07:53)
+
+---
+
+## Broadband biz fined for emergency caller location data fail
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Gigaclear slapped by watchdog for failings, admits &#39;seriousness of the error&#39;</h4> <p>Ofcom is to impose a £122,500 fine (about $164,000) on UK broadband provider Gigaclear for failing to deliver accurate caller location information when customers called the emergency services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/gigaclear_broadband_fined/>
+
+---
+
+## OpenBSD gets CDE
+
+date: 2025-07-30, from: OS News
+
+Adjusted for the inevitable progress of time, the Common Desktop Environment or CDE is the best desktop environment of all time, and no, I will not be taking question at this time. OpenBSD wasn&#8217;t yet graced by CDE&#8217;s presence, but this is currently changing as the first commit for porting CDE to OpenBSD has appeared. It&#8217;s still rough around the edges and very slightly tested. I wouldn&#8217;t use is as a daily driver, it&#8217;s old unsecure code but it&#8217;s fun if you want to bring back memories. ↫ Antoine at the openbsd-ports mailing list On top of that, this being the initial commit also means there&#8217;s probably bugs and other issues lurking in the code, so caution is definitely advised. 
+
+<br> 
+
+<https://www.osnews.com/story/142922/openbsd-gets-cde/>
+
+---
+
+## Microsoft finally standardises CPU usage reporting in Task Manager
+
+date: 2025-07-30, from: OS News
+
+Microsoft is finally changing the way Task Manager reports CPU utilisation to make it consistent across the different tabs. So apparently this has been gradually rolling out to the 34 different Windows 11 beta dev preview testing alpha release candidate service pack 4 channels since early this year, but then stopped the roll-out to fix some issues. These issues seem fixed now, as the roll-out restarted this week. It&#8221;s an important change that I think y&#8217;all will care about. From the original announcement of the change back in February: We are beginning to roll out a change to the way Task Manager calculates CPU utilization for the Processes, Performance, and Users pages. Task Manager will now use the standard metrics to display CPU workload consistently across all pages and aligning with industry standards and third-party tools. For backward compatibility, a new optional column called CPU Utility is available (hidden by default) on the Details tab showing the previous CPU value used on the Processes page. ↫ Amanda Langowski and Brandon LeBlanc at the Windows Blogs Before this change, Task Manager&#8217;s Processes tab didn&#8217;t take the number of processor cores into account when calculating PCU usage, so you could see a process at 100% CPU usage even if it was only using one core. These new changes standardise CPU usage reporting across all tabs, taking the number of CPU cores into account properly. Rejoice. 
+
+<br> 
+
+<https://www.osnews.com/story/142920/microsoft-finally-standardises-cpu-usage-reporting-in-task-manager/>
+
+---
+
+## Oracle VirtualBox licensing tweak lies in wait for the unwary
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Java-like move could land those expecting free trial with a new bill</h4> <p>Oracle has introduced new licensing terms that some users may see as hidden within the terms for VirtualBox, the general-purpose virtualization software for x86_64 hardware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/licensing_change_oracle_virtualbox/>
+
+---
+
+## Flock storage: Audio boffin encodes data in a starling
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Birdsong stores 176 KB, but can it run Doom?</h4> <p>Forget flash storage – flock storage is here after it was demonstrated that data can be saved to a bird.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/encoded_audio_starling_song/>
+
+---
+
+## Why RISC-V Linux needs everyone upstream
+
+date: 2025-07-30, from: OS News
+
+RISC-V has been supported in the upstream Linux kernel since 2017. But without a common hardware baseline, ensuring compatibility across builds and distros hasn’t been easy. The ecosystem was in need of a compelling, clearly defined hardware target – something both software and hardware teams could rally around to produce silicon capable of running stable, enterprise-grade software. This target arrived in October 2024 with the ratification of the application-class RVA23 Profile – RISC-V-speak for a baseline configuration, similar to microarchitecture feature levels in x86. The culmination of years of progress, RVA23 brings together the work done to shape the ISA and standardize key extensions such as vector, bit manipulation and hypervisor. ↫ James De Vile at RISC-V International&#8217;s blog Such a standard, stable baseline is incredibly welcome, and RISC-V working to have everything part of the upstream Linux kernel is crucial. Having to deal with out-of-tree patches and drivers and specific builds for specific boards is a nightmare &#8211; look at Linux on ARM &#8211; and hinders adoption of RISC-V. 
+
+<br> 
+
+<https://www.osnews.com/story/142918/why-risc-v-linux-needs-everyone-upstream/>
+
+---
+
+## Datacenter lobby blows a fuse over EU efficiency proposals
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Green rules risk short-circuiting AI ambitions, warns group including AWS, Microsoft and Google</h4> <p>A trade body representing datacenter operators in Europe worried about standards for efficiency imposed by the EU has published a report to ensure its arguments are heard first.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/datacenter_lobby_eu_efficiency/>
+
+---
+
+## Europe's AI crackdown starts this week and Big Tech isn't happy
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Users and developers struggle to comply as situation evolves</h4> <p>It is a little more than four years since the European Union <a target="_blank" href="https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence">first proposed legislation</a> to govern tech companies that build AI systems and how users deploy them. A lot has changed since then.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/eu_ai_act/>
+
+---
+
+## Cisco donates Agntcy project to Linux Foundation in the hope it gets AI agents interacting elegantly
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>AI frameworks are becoming a Russian nesting doll of abstraction layers</h4> <p>Cisco&#39;s Agntcy project is the latest AI framework to find refuge at the Linux Foundation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/agntcy_lf_donation/>
+
+---
+
+## Australia bans kids from signing up for YouTube accounts, angering Google
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>‘We want kids to know who they are before platforms assume who they are’ says Minister</h4> <p>Australia will require Google to ensure that children aged under 16 cannot sign up for YouTube accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/australia_kids_socials_signup_ban_extended/>
+
+---
+
+## Clouds and submarine cables report no impact from sixth-largest earthquake in recorded history, subsequent tsunami
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Russian rumbler has authorities across the Pacific warning of possible problems</h4> <p>A vastly powerful earthquake that radiated out from the eastern Russian coast on Wednesday has caused a significant tsunami but hasn’t disrupted communications or cloud computing services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/russia_earthquake_comms_cloud_impact/>
+
+---
+
+## Australia’s attempt to join the space race lasts just 14 seconds
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>‘I would have liked more flight time but happy with this’ says CEO of private rocket outfit</h4> <p>Australia’s attempt to return to space lasted just 14 seconds, after a Wednesday launch barely made it off the ground.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/gilmour_space_australia_test_flight/>
+
+---
+
+## Curiosity Blog, Sols 4614-4615: Driving Along the Boxwork
+
+date: 2025-07-30, from: NASA breaking news
+
+Written by Conor Hayes, Graduate Student at York University Earth planning date: Monday, July 28, 2025 Today was a pretty straightforward day of planning. Our drive over the weekend completed successfully, and we quickly confirmed that we are parked in a stable position. Thus, we were able to unstow the rover’s arm to poke around […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4614-4615-driving-along-the-boxwork/>
+
+---
+
+## Florida Man earns five-year sentence for $100 million telco fraud
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Q Link claimed subsidies for ineligible customers</h4> <p>The former CEO of Florida telco Q Link will spend up to five years in jail after attempting to steal more than $100 million from two US government programs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/ceo_of_q_link_gets/>
+
+---
+
+## Spheres in the Sand
+
+date: 2025-07-29, from: NASA breaking news
+
+Written by Andrew Shumway, Postdoctoral Researcher at the University of Washington It is not common for a rover to spot nearly perfect spheres in the soil beneath its wheels. Over two decades ago, the Opportunity rover famously discovered spherules made of hematite (nicknamed “blueberries”) near its landing site in Meridiani Planum. More recently, the Perseverance […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/spheres-in-the-sand/>
+
+---
+
+## CISA caves to Wyden, agrees to release US telco insecurity report - but won’t say when
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>The security nerds&#39; equivalent of the Epstein files saga</h4> <p>The US Cybersecurity and Infrastructure Security Agency on Tuesday finally agreed to make public an unclassified report from 2022 about American telecommunications networks&#39; poor security practices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/cisa_wyden_us_telecoms_insecurity_report/>
+
+---
+
+## Microsoft researchers: To fend off AI, consider a job as a pile driver
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Knowledge workers will be most affected</h4> <p>Microsoft researchers have found that people get the most use of AI for writing and knowledge work, but they offer some comfort to worried white-collar workers, saying that their jobs may only change rather than go away completely.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/microsoft_boffins_jobs_impacted_ai/>
+
+---
+
+## Stacking up Huawei’s rack-scale boogeyman against Nvidia’s best
+
+date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
+
+<h4>Chinese IT giant&#39;s CloudMatrix 384 promises GB200-beating perf, if you ignore power and the price tag</h4> <p><strong>Analysis</strong>  Nvidia has the green light to resume shipments of its H20 GPUs to China, but while the chip may be plentiful, bit barn operators in the region now have far more capable alternatives at their disposal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/29/huawei_rackscale_boogeyman/>
+
+---
+
+## New Zealand's Massive Green Parrots Have Narrowly Avoided Extinction. But Many of Their Parasites Did Not Survive
+
+date: 2025-07-29, from: Smithsonian Magazine
+
+A study examining fossilized droppings reveals the kākāpō has faced a decline in the diversity of its parasites—and that might not be a good thing 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-zealands-massive-green-parrots-have-narrowly-avoided-extinction-but-many-of-their-parasites-did-not-survive-180987065/>
+
+---
+
+## Scientists Deposit 200,000 Rare Oysters in a Shipwreck 100 Feet Below the Surface of the North Sea
+
+date: 2025-07-29, from: Smithsonian Magazine
+
+European flat oysters have nearly disappeared from the region. Now, researchers are helping them recover by depositing the oyster larvae on gravel beds off the coast of Belgium 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-deposit-200000-rare-oysters-in-a-shipwreck-100-feet-below-the-surface-of-the-north-sea-180987047/>
 
 ---
 
@@ -69,6 +309,30 @@ date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
 
 ---
 
+## Small, Secretive Gecko Rediscovered in the Galápagos After Scientists Eliminate Invasive Rats
+
+date: 2025-07-29, from: Smithsonian Magazine
+
+Researchers thought leaf-toed geckos were locally extinct on Rábida Island, so they were thrilled to find several of the lizards alive and well during 2019 and 2021 expeditions 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/small-secretive-gecko-rediscovered-in-the-galapagos-after-scientists-eliminate-invasive-rats-180987072/>
+
+---
+
+## Archaeologists Unearth Ancient Celtic Settlement Filled With Jewelry, Amber and Coins in the Czech Republic
+
+date: 2025-07-29, from: Smithsonian Magazine
+
+The 62-acre settlement was likely established in the fourth century B.C.E. Researchers think it may have served as a major trading hub 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-uncover-ancient-celtic-settlement-filled-with-jewelry-amber-and-coins-in-the-czech-republic-180987041/>
+
+---
+
 ## Waymo plots Dallas robotaxi launch, stays ahead of Tesla in Texas turf war
 
 date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
@@ -78,6 +342,18 @@ date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/29/waymo_to_expand_dallas/>
+
+---
+
+## Trove of Fossils Uncovered in the Grand Canyon Offers a Rare Glimpse Into Cambrian Life, With Toothy Worms and Slug-Like Mollusks
+
+date: 2025-07-29, from: Smithsonian Magazine
+
+Rocks found along the Colorado River in Arizona turned out to contain fossilized fragments of soft-bodied creatures, suggesting the site may have been an “evolutionary hotbed” 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/trove-of-fossils-uncovered-in-the-grand-canyon-offers-a-rare-glimpse-into-cambrian-life-with-toothy-worms-and-slug-like-mollusks-180987042/>
 
 ---
 
@@ -150,6 +426,18 @@ date: 2025-07-29, updated: 2025-07-29, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/29/linux_kernel_616/>
+
+---
+
+## A Boy Found a Shipwreck on a Scottish Beach. It Turned Out to Be a 250-Year-Old Warship From the American Revolution
+
+date: 2025-07-29, from: Smithsonian Magazine
+
+The HMS "Hind," later renamed the "Earl of Chatham," was a frigate in the British Royal Navy before it was repurposed as a whaling vessel 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-boy-found-a-shipwreck-on-a-scottish-beach-it-turned-out-to-be-a-250-year-old-warship-from-the-american-revolution-180987061/>
 
 ---
 
@@ -381,6 +669,18 @@ date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
 
 ---
 
+## Physicists Superheated Gold to Hotter Than the Sun's Surface and Disproved a 40-Year-Old Idea
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+A thin piece of gold reached 33,740 degrees Fahrenheit, which is more than 14 times higher than its melting point, by being rapidly heated—and it didn't melt 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/physicists-superheated-gold-to-hotter-than-the-suns-surface-and-disproved-a-40-year-old-idea-180987043/>
+
+---
+
 ## India eats China's lunch in US smartphone manufacturing
 
 date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
@@ -426,6 +726,30 @@ Written by Catherine O’Connell-Cooper, Planetary Geologist at University of Ne
 <br> 
 
 <https://science.nasa.gov/blog/curiosity-blog-sols-4609-4610-recharged-and-ready-to-roll-onwards/>
+
+---
+
+## See Hundreds of Garments That Elizabeth II Wore Throughout Her Seven-Decade Reign
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+A new exhibition at Buckingham Palace will examine the British monarch's life and legacy using evening gowns, suits and accessories 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-hundreds-of-garments-that-elizabeth-ii-wore-throughout-her-seven-decade-reign-180987032/>
+
+---
+
+## Reintroduced Wolves Are Helping Baby Aspen Trees Flourish in Northern Yellowstone for the First Time in 80 Years, Study Suggests
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+The apex predators, restored to the park in 1995, appear to be keeping the local population of plant-eating elk in check, which allows aspen saplings to grow tall and healthy 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/reintroduced-wolves-are-helping-baby-aspen-trees-flourish-in-northern-yellowstone-for-the-first-time-in-80-years-study-suggests-180987064/>
 
 ---
 
@@ -501,6 +825,18 @@ date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
 
 ---
 
+## How to Watch This Week's Stunning Dual Meteor Shower and More Upcoming Celestial Events
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+You can catch meteor showers and a special lunar display early this week, and keep an eye out for the popular Perseids 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-to-watch-this-weeks-stunning-dual-meteor-shower-and-more-upcoming-celestial-events-180987063/>
+
+---
+
 ## Trump pushes EU into trade 'deal' that several EU leaders aren't happy about
 
 date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
@@ -537,6 +873,18 @@ The swirling spiral galaxy in this NASA/ESA Hubble Space Telescope image is NG
 
 ---
 
+## Even Apex Predators Like 'Terror Birds' Had Enemies, Research Suggests
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+Bite marks on a fossilized leg bone found in South America suggest a crocodile-like creature attacked a massive, meat-eating bird 12 million years ago 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/even-apex-predators-like-terror-birds-had-enemies-research-suggests-180987035/>
+
+---
+
 ## NASA faces brain drain as thousands exit under voluntary resignation scheme
 
 date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
@@ -549,6 +897,18 @@ date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
 
 ---
 
+## See 11 Stunning Images of Mangrove Forests and Their Wildlife, Showcasing the Trees' Beauty and Fragility
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+The winners of the Mangrove Photography Awards shed light on the ecologically valuable but highly threatened coastal ecosystems 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-11-stunning-images-of-mangrove-forests-and-their-wildlife-showcasing-the-trees-beauty-and-fragility-180987056/>
+
+---
+
 ## Report: Trae AI IDE quietly beams data to ByteDance, even with tracking turned off
 
 date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
@@ -558,6 +918,18 @@ date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/28/bytedance_trae_telemetry/>
+
+---
+
+## Archaeologists Keep Finding Massive Shoes at an Ancient Roman Fort—and They Have No Idea Why They're So Big
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+Discovered near Hadrian's Wall in northern England, the oversized leather footwear has left researchers puzzled 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-keep-finding-massive-shoes-at-an-ancient-roman-fort-and-they-have-no-idea-why-theyre-so-big-180987028/>
 
 ---
 
@@ -642,6 +1014,30 @@ date: 2025-07-28, updated: 2025-07-28, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/28/euro_cloud_vs_us/>
+
+---
+
+## An English Church Wants to Exhume the Skull of Thomas More, Tudor Statesman Beheaded by Henry VIII Nearly 500 Years Ago
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+The king accused More of treason and ordered his execution in 1535. Now, St. Dunstan's hopes to conserve the Catholic saint's remains ahead of the quincentenary of his death 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/english-church-wants-to-exhume-the-skull-thomas-more-tudor-statesman-beheaded-by-henry-viii-nearly-500-years-ago-180987030/>
+
+---
+
+## A Rare Portrait of Maryland’s Medical Hero Was Rediscovered in a Mussels Joint
+
+date: 2025-07-28, from: Smithsonian Magazine
+
+The painting depicts John Beale Davidge, a physician known for his ideas about yellow fever and founding the University of Maryland School of Medicine 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-rare-portrait-of-marylands-medical-hero-was-rediscovered-in-a-mussels-joint-180987053/>
 
 ---
 

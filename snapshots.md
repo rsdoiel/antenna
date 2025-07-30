@@ -1,11 +1,110 @@
 ---
 title: snapshots
-updated: 2025-07-29 14:07:40
+updated: 2025-07-30 06:08:04
 ---
 
 # snapshots
 
-(date: 2025-07-29 14:07:40)
+(date: 2025-07-30 06:08:04)
+
+---
+
+## Podcast: The Tea Hack Just Keeps Getting Worse
+
+date: 2025-07-30, from: 404 Media Group
+
+The massive Tea breach; how the UK's age verification law is impacting access to information; and LeBron James' AI-related cease-and-desist. 
+
+<br> 
+
+<https://www.404media.co/podcast-the-tea-hack-just-keeps-getting-worse/>
+
+---
+
+## Fossil Fool
+
+date: 2025-07-30, from: Paul Krugman
+
+How Europe took Trump for a ride 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/fossil-fool>
+
+---
+
+## <default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/>
+
+date: 2025-07-30, updated: 2025-07-30, from: Tantek Çelik's blog
+
+ 
+
+<br> 
+
+<https://tantek.com/2025/210/t1/vision-for-w3c-published>
+
+---
+
+## Altima NSX
+
+date: 2025-07-30, from: Computer ads from the Past
+
+Light in weight. Light in price. Heavy in features. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/altima-nsx>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-07-30, from: Tomosino's Mastodon feed)
+
+<p>You know what's neat? Post-it notes</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114939288072434445>
+
+---
+
+## Do LLMs identify fonts?
+
+date: 2025-07-30, from: Max Halford Blog
+
+<p><em>Spoiler: <a href="https://maxhalford.github.io/llm-font-recognition/">not really</a></em></p>
+<p><a href="https://www.dafont.com/fr/">dafont.com</a> is a wonderful website that contains a large collection of fonts. It&rsquo;s more comprehensive and esoteric than Google Fonts. One of its features is a forum where users can ask for help identifying fonts &ndash; check out <a href="https://www.dafont.com/forum/read/522670/font-identification">this poor fellow</a> who&rsquo;s been waiting for over two years and bumped his thread. I thought it would be interesting to see if an LLM could do this task, so I scraped the forum and set up a benchmark.</p> 
+
+<br> 
+
+<https://maxhalford.github.io/blog/llm-font-identification/>
+
+---
+
+## AYANEO Pocket DS is a dual-screen Android handheld game console with 7 inch and 5 inch displays and Snapdragon G3x Gen 2
+
+date: 2025-07-29, from: Liliputing
+
+<p>The AYANEO Pocket DS is an upcoming handheld game console with a clamshell design and two touchscreen displays: a 7 inch, 1920 x 1080 pixel, 165 Hz OLED primary screen on top and a 5 inch, 1024 x 768 pixel LCD screen below. After teasing the handheld earlier this week, AYANEO has revealed more details about [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-pocket-ds-is-a-dual-screen-android-handheld-game-console-with-7-inch-and-5-inch-displays-and-snapdragon-g3x-gen-2/">AYANEO Pocket DS is a dual-screen Android handheld game console with 7 inch and 5 inch displays and Snapdragon G3x Gen 2</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-pocket-ds-is-a-dual-screen-android-handheld-game-console-with-7-inch-and-5-inch-displays-and-snapdragon-g3x-gen-2/>
+
+---
+
+## Corsair AI Workstation 300 is a liquid-cooled mini PC with AMD Strix Halo
+
+date: 2025-07-29, from: Liliputing
+
+<p>The Corsair AI Workstation 300 is a compact desktop computer with a 350W power supply, liquid cooling, and support for up to 128GB of LPDDR5X-8000 memory, as well as features like 2.5 Gbe Ethernet, WiFi 6E, and USB4. It&#8217;s also the latest premium mini PC to come with AMD Strix Halo processor options. The Corsair AI [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/corsair-ai-workstation-300-is-a-liquid-cooled-mini-pc-with-amd-strix-halo/">Corsair AI Workstation 300 is a liquid-cooled mini PC with AMD Strix Halo</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/corsair-ai-workstation-300-is-a-liquid-cooled-mini-pc-with-amd-strix-halo/>
 
 ---
 
@@ -103,7 +202,7 @@ Juli Clover (no release notes, security, developer): The watchOS 11.6 update foc
 
 date: 2025-07-29, from: Michael Tsai
 
-Juli Clover (no release notes, security, developer): Apple today released tvOS 18.6, the latest version of the tvOS operating system. Previously: tvOS 18.5 
+Juli Clover (release notes, security, developer): Apple today released tvOS 18.6, the latest version of the tvOS operating system. Previously: tvOS 18.5 
 
 <br> 
 
@@ -115,7 +214,7 @@ Juli Clover (no release notes, security, developer): Apple today released tvOS 1
 
 date: 2025-07-29, from: Michael Tsai
 
-Juli Clover (release notes, security, no enterprise, developer): visionOS 2.6 focuses on bug fixes and under-the-hood improvements. There are no new features in the update. Previously: visionOS 2.5 
+Juli Clover (no release notes, security, no enterprise, developer): visionOS 2.6 focuses on bug fixes and under-the-hood improvements. There are no new features in the update. Previously: visionOS 2.5 
 
 <br> 
 

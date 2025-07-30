@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-07-29 14:07:33
+updated: 2025-07-30 06:07:56
 ---
 
 # games
 
-(date: 2025-07-29 14:07:33)
+(date: 2025-07-30 06:07:56)
+
+---
+
+## Bad Guys 3 could double down on Bad Guys 2’s Elon Musk parody, director says
+
+date: 2025-07-30, updated: 2025-07-29, from: Polygon Website
+
+When The Bad Guys 2, the sequel to DreamWorks’ hyperkinetic, stylish 2022 animated heist picture The Bad Guys, hits theaters on Aug. 1, adult viewers will immediately make a connection that goes over most kids’ heads. Once again, the stars of the film — drawn from Aaron Blabley’s bestselling illustrated children’s series — are Mr. Wolf (Sam [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/617290/bad-guys-2-elon-musk-parody-director-commentary>
+
+---
+
+## How to reduce your Madness in Wuchang Fallen Feathers
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+As it is in many Soulslikes, Wuchang: Fallen Feathers expects you to die multiple times, but it brings the Madness system to make all the effort pay off in one way or another. Madness can make you stronger, but at the expense of raising the difficulty bar of already hard encounters. That’s why learning how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617330/wuchang-fallen-feathers-madness-reset-reduce-how-to>
+
+---
+
+## Plagiarism claims hit Pokémon TCG Pocket as fans say Ho-Oh art was copied
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Pokémon fans are accusing the creators of Pokémon Trading Card Game Pocket of plagiarism after artwork created by a fan in 2021 was seemingly used for a card in new expansion Wisdom of Sea and Sky. That expansion pack, officially due out Wednesday, allegedly includes a new Immersive Card featuring Legendary Pokémon Ho-Oh which appears [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism>
+
+---
+
+## Forest Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+The Forest Layer is the sixth layer in Donkey Kong Bananza and its home to the beloved flying ostriches and dreadful poison. Of course, the Forest Layer is also full of Banandium Gems. To find all of the bananas on this layer, you’ll need to make use of your ostrich powers and cleanse the forest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/614609/forest-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Landfill Layer Banandium Gem locations in Donkey Kong Bananza
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+In Donkey Kong Bananza, the Landfill Layer is the tenth layer and it’s full of, well, trash. But scattered amid the rubbish is a bunch of Banandium Gems. Inside this heap of garbage, you’ll need to search behind metal scrap, dirt, and loads of debris to to collect all of the golden bananas. Below, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/donkey-kong-bananza-guides-dk/615331/landfill-layer-banandium-gem-golden-banana-locations-list-map-all>
+
+---
+
+## Magic: the Gathering Final Fantasy set broke The Lord of the Rings’ record in one day
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+Tales of the success of Magic: the Gathering’s Final Fantasy set may sound greatly exaggerated, but they are not. It was the fastest-selling Magic expansion ever, to the point that distributors and retailers experienced significant product shortages. To wit: A Final Fantasy collector booster currently sells for over $120 at tgcplayer.com, and a collector box goes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/617076/mtg-final-fantasy-set-200-million-record-lord-of-the-rings>
+
+---
+
+## 7 beginner’s tips before you start Wuchang Fallen Feathers
+
+date: 2025-07-29, updated: 2025-07-29, from: Polygon Website
+
+The Soulslike Wuchang: Fallen Feathers is a lot like many other entries in the genre: heavy on exploring lore-heavy worlds and narratives, wrapped in a steep level of difficulty. Wuchang: Fallen Feathers is similar enough to Soulslike heavyweights, such as Dark Souls, Elden Ring, and Lies of P, that any familiarity with those games will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617192/wuchang-fallen-feathers-beginners-tips-tricks>
 
 ---
 
