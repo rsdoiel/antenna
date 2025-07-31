@@ -1,11 +1,471 @@
 ---
 title: planet
-updated: 2025-07-30 14:07:29
+updated: 2025-07-31 06:08:17
 ---
 
 # planet
 
-(date: 2025-07-30 14:07:29)
+(date: 2025-07-31 06:08:17)
+
+---
+
+## Court to give decision on Conor McGregor appeal
+
+date: 2025-07-31, from: RTÉ News
+
+The Court of Appeal will give its decision this afternoon on an appeal by former MMA fighter Conor McGregor against a High Court jury's finding that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526261-mcgregor-appeal/>
+
+---
+
+## Man jailed over rape of Spanish tourist in Dublin
+
+date: 2025-07-31, from: RTÉ News
+
+A man who raped a Spanish tourist in a Dublin city centre street during New Year's Eve celebrations six years ago has been given a seven year sentence with the final six months suspended. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526334-rape-dublin/>
+
+---
+
+## Man jailed over fatal knife attack on aunt's partner
+
+date: 2025-07-31, from: RTÉ News
+
+A 39-year-old man who said he was acting in self defence when he stabbed his aunt's partner 16 times has been jailed for nine years. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526327-ryan-kearney-court/>
+
+---
+
+## Motorists urged to 'drive carefully' over Bank Holiday
+
+date: 2025-07-31, from: RTÉ News
+
+A road safety campaign is under way across the country for the August Bank Holiday weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526318-road-safety/>
+
+---
+
+## Holy See and Italy sign agreement for renewable energy plant 
+
+date: 2025-07-31, from: Vatican News
+
+
+                    <p>The Holy See and the Italian Republic have signed an agreement to build an agrivoltaic plant in the Vatican’s Santa Maria di Galeria area just outside of Rome, aiming to supply Vatican City State with renewable energy.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-italy-agrivoltaic-plant-agreement-renewable-energy.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/holy-see-italy-agrivoltaic-plant-agreement-renewable-energy.html>
+
+---
+
+## No AI on Daniel O'Connell stamp with TV aerial - An Post
+
+date: 2025-07-31, from: RTÉ News
+
+An Post has said AI software was not used to generate the artwork on a stamp, which appears to show a television aerial on a building behind the nationalist leader Daniel O'Connell. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526316-an-post-stamp/>
+
+---
+
+## New toolkit for protecting data of vulnerable adults
+
+date: 2025-07-31, from: RTÉ News
+
+The Data Protection Commission has launched a new 'Adult Safeguarding Toolkit' to provide organisations and individuals with guidance and resources to protect the personal data of vulnerable adults 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526306-data-protection-adults/>
+
+---
+
+## Food prices up an estimated 4.6% in July - CSO
+
+date: 2025-07-31, from: RTÉ News
+
+Food prices are estimated to have risen by 4.6% over the last 12 months, according to new figures from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0731/1526300-cso-flash-inflation-reading/>
+
+---
+
+## Man charged over attack on garda in Dublin city centre
+
+date: 2025-07-31, from: RTÉ News
+
+A 23-year-old man has appeared in court charged in connection with an attack in Dublin city centre on Tuesday during which a garda was stabbed on duty. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526311-abdullah-khan-court/>
+
+---
+
+## Fr Richard D‘Souza S.J. is new Director of Vatican Observatory
+
+date: 2025-07-31, from: Vatican News
+
+
+                    <p>Pope Leo XIV appoints Fr Richard Anthony D’Souza, S.J., as Director of the Vatican Observatory. The astronomist succeeds Br Guy Consolmagno, S.J, whose 10-year mandate expires in  September.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/pope-leo-xiv-appointment-new-director-observatory-d-souza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/pope-leo-xiv-appointment-new-director-observatory-d-souza.html>
+
+---
+
+## Trump's envoy Witkoff arrives in Israel for Gaza aid push
+
+date: 2025-07-31, from: RTÉ News
+
+US special envoy Steve Witkoff has arrived in Israel in a bid to salvage Gaza ceasefire talks and tackle a humanitarian crisis in the Palestinian territory, where a global hunger monitor has warned that famine was unfolding. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0731/1526296-israel-gaza/>
+
+---
+
+## St John Henry Newman set to become newest Doctor of the Church
+
+date: 2025-07-31, from: Vatican News
+
+
+                    <p>Pope Leo paves the way for St John Henry Newman to be formally declared a “Doctor of the Church”.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/st-john-henry-newman-set-to-become-newest-doctor-of-the-church.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/st-john-henry-newman-set-to-become-newest-doctor-of-the-church.html>
+
+---
+
+## Masterchef cook edited out after objecting to broadcast
+
+date: 2025-07-31, from: RTÉ News
+
+A contestant on the upcoming series of MasterChef has been edited out of the programme after asking producers not to air the show, following allegations against presenters Gregg Wallace and John Torode. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0731/1526278-masterchef-cook-edited-out-after-objecting-to-broadcast/>
+
+---
+
+## Holy See: 'Two-State Solution only viable path for Israel and Palestine'
+
+date: 2025-07-31, from: Vatican News
+
+
+                    <p>During a three-day conference, UN member states debate how to establish peace between Israel and Palestine, with the Holy See Permanent Observer arguing that lasting peace can be found only in the two-state solution.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-caccia-two-state-solution-is-only-viable-just-path.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/archbishop-caccia-two-state-solution-is-only-viable-just-path.html>
+
+---
+
+## Search of open land in Wexford in Fiona Sinnott inquiry
+
+date: 2025-07-31, from: RTÉ News
+
+A search is being carried out in Co Wexford as part of the investigation in the disappearance and murder of Fiona Sinnott in 1998. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526274-fiona-sinnott-investigation/>
+
+---
+
+## Trade tariffs: What is changing and who is affected?
+
+date: 2025-07-31, from: RTÉ News
+
+A look at latest developments as a range of new tariffs will be imposed on most of Washington's trading partners. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0731/1526268-tariff-explainer/>
+
+---
+
+## Motorcyclist, 20s, dies in Waterford road crash
+
+date: 2025-07-31, from: RTÉ News
+
+A motorcyclist in his 20s has died in a road crash in Co Waterford. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526265-waterford-rtc/>
+
+---
+
+## President leads tributes to 'iconic voice' Seán Rocks
+
+date: 2025-07-31, from: RTÉ News
+
+President Michael D Higgins has led the tributes to broadcaster and actor Seán Rocks, describing him as one of Ireland's finest broadcasters and advocates for the arts and artists. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526247-sean-rocks/>
+
+---
+
+## Trump says U.S. will set 15% tariff on South Korean imports under new deal
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598262.1753956327!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-southkorea.JPG' alt='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy.' width='620' height='349' title='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy near the U.S. embassy in Seoul, South Korea, July 31, 2025.    REUTERS/Kim Hong-Ji     TPX IMAGES OF THE DAY'/><p>President Donald Trump said on Wednesday the U.S. will charge a 15 per cent tariff on imports from South Korea, down from a threatened 25 per cent, as part of a deal that eases tensions with a top-10 trading partner and key Asian ally.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-tariffs-south-korea-1.7598259?cmp=rss>
+
+---
+
+## All Together Now set for 'incredible' Fontaines DC, CMAT
+
+date: 2025-07-31, from: RTÉ News
+
+30,000 people are set to attend All Together Now over the bank holiday weekend and organisers are teasing some incredible performances from Irish artists. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0731/1526158-all-together-now-cmat-fontainesdc/>
+
+---
+
+## Russian missile, drone attacks hit Kyiv, killing 8 people and wounding 82
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598254.1753953948!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A woman embraces another woman in front of the site of an airstrike at an apartment building.' width='620' height='349' title='A woman embraces a person as she waits for her son to be rescued from under the debris, at the site of an apartment building hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko     TPX IMAGES OF THE DAY'/><p>Russia attacked Ukraine's capital with missiles and drones overnight, killing at least eight people, including a six-year-old boy, and wounding 82 others, Ukrainian authorities said Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russia-kyiv-missile-drone-attack-1.7598253?cmp=rss>
+
+---
+
+## Ukraine votes to restore power of anti-corruption bodies
+
+date: 2025-07-31, from: RTÉ News
+
+Ukraine's parliament has approved a bill restoring the independence of the country's two main anti-corruption agencies, moving to defuse a crisis that has shaken faith in President Volodymyr Zelensky's leadership. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0731/1526241-ukraine-russia/>
+
+---
+
+## US Senate rejects bids to block arms sales to Israel
+
+date: 2025-07-31, from: RTÉ News
+
+Two resolutions that would have blocked arms sales to Israel in response to civilian casualties in Gaza have been blocked in the US Senate, although they garnered more support than similar measures earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0731/1526238-us-senate/>
+
+---
+
+## Ryan starts final Test, Furlong set for landmark cap
+
+date: 2025-07-31, from: RTÉ News
+
+James Ryan has earned a promotion to the starting team for the final British and Irish Lions Test against Australia, but Joe McCarthy and Mack Hansen have failed to recover from foot injuries in time for Saturday in Sydney. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0731/1526233-ryan-starts-final-test-furlong-set-for-landmark-cap/>
+
+---
+
+## Gibson to return to Co Meath for 'Braveheart' anniversary
+
+date: 2025-07-31, from: RTÉ News
+
+Hollywood actor Mel Gibson is set to return to Co Meath next week to mark the 30th anniversary of the making of the Academy Award-winning movie 'Braveheart'. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0731/1526231-mel-gibson-braveheart/>
+
+---
+
+## Eight sexual assault cases tied to Defence Forces, reports reveal
+
+date: 2025-07-31, from: RTÉ News
+
+Eight cases of sexual assault involving members of the Defence Forces were before the military or Garda authorities by March 2024, according to new internal reports obtained by RTÉ Investigates. 
+
+<br> 
+
+<https://www.rte.ie/news/investigations-unit/2025/0731/1526195-eight-sexual-assault-cases-tied-to-defence-forces-reports-reveal/>
+
+---
+
+## How an anti-porn lobby on payment processors censored thousands of video games
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7597571.1753898005!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robert-yang-the-tearoom.jpg' alt='video game screenshot of a man wearing a cowboy hat looking at the camera, while standing in front of a urinal in a dingy public bathroom.' width='620' height='349' title='A screenshot from The Tearoom, a 2017 game by independent developer Robert Yang. Yang said his works were deindexed from gaming storefront Itch.io without warning late in July.'/><p>Video game developers are speaking out after thousands of games and other digital artworks were hidden or removed entirely from two popular PC games stores. They say many of the vanished titles were unnecessarily censored.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/day6/steam-itch-takedowns-credit-cards-1.7597563?cmp=rss>
+
+---
+
+## Woodland Cultural Centre's Indigenous Art marks 50 years with thought-provoking exhibition
+
+date: 2025-07-31, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7597329.1753909796!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wcc.jpg' alt='Wider shot of museum gallery and the other pieces included in exhibition include Buffy Sainte-Marie portrait.' width='620' height='349' title='Jacobs-Bloom said the work was curated so that you see it  immediately as you exit the first gallery. Stained is on display in the museum’s smaller gallery themed, The Good Mind and In the Wake of Extraction. '/><p>The Woodland Cultural Centre in Brantford, Ont., is holding its 50th annual Indigenous Art exhibition, celebrating decades of honouring and uplifting Indigenous artists.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/six-nations-indigenous-art-exhibit-1.7597299?cmp=rss>
+
+---
+
+## Trump says Canada's Palestine stance may hurt trade deal
+
+date: 2025-07-31, from: RTÉ News
+
+US President Donald Trump has said it will be difficult to make a trade deal with Canada, after the country announced it is backing Palestinian statehood. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0731/1526226-canada-middle-east/>
+
+---
+
+## Millions return home as Pacific tsunami warnings lifted
+
+date: 2025-07-31, from: RTÉ News
+
+Tsunami warnings were lifted across the Pacific rim, allowing millions of temporary evacuees to return home, following one of the strongest earthquakes ever recorded hit Russia's far east yesterday. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0731/1526230-russia-earthquake/>
+
+---
+
+## Decline in restrictive practices at mental health centres
+
+date: 2025-07-30, from: RTÉ News
+
+There has been a significant decline in the use of restrictive practices - such as seclusion and physical restraint - across Irish mental health services in the past seven years. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526206-mental-health-commission/>
+
+---
+
+## US announces new tariffs as deadline nears
+
+date: 2025-07-30, from: RTÉ News
+
+US President Donald Trump imposed new tariffs to punish or favour major trading partners, as governments raced to strike deals with Washington less than 24 hours before a 1 August deadline. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0731/1526228-us-tariff-south-korea/>
+
+---
+
+## 'Very tough day' for survivors of Miami Showband massacre
+
+date: 2025-07-30, from: RTÉ News
+
+Commemoration events will take place to mark the 50th anniversary of the Miami Showband massacre. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526211-miami-showband-massacre/>
+
+---
+
+## Over 8,000 treatment cases for problem alcohol use
+
+date: 2025-07-30, from: RTÉ News
+
+There were 8,745 treatment cases for problem alcohol use in Ireland last year, according to the Health Research Board. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526203-alcohol-use-ireland/>
+
+---
+
+## Birmingham pays its respects to local hero and rock legend Ozzy Osbourne
+
+date: 2025-07-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598236.1753935520!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-ozzy-osbourne.jpg' alt='A young man and blonde woman suppor their tearful mother who is carrying a flower.' width='620' height='349' title='The family of Ozzy Osbourne from left — Jack Osbourne, Sharon Osbourne and Kelly Osbourne — add flowers to a memorial left at the Black Sabbath Bridge bench on Broad Street in memory of rock icon Ozzy Osbourne ahead of the funeral procession, in Birmingham, England, Wednesday July 30, 2025.'/><p>Ozzy Osbourne returned to the "home of metal" for the last time on Wednesday as an emotional Birmingham honoured one of its most cherished sons.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ozzy-osbourne-birmingham-1.7598170?cmp=rss>
+
+---
+
+## Lone parent families at 'highest risk of poverty' - ESRI
+
+date: 2025-07-30, from: RTÉ News
+
+Lone parent families, large families and households with a working-age disabled adult face the highest risks of persistent at risk of poverty and deprivation, according to the ESRI. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526201-esri-poverty/>
+
+---
+
+## Athlone turn on the style in Europe to hammer Cardiff
+
+date: 2025-07-30, from: RTÉ News
+
+Athlone Town produced a famous European performance as they eased to a 4-0 victory over Cardiff City in their UEFA Women's Champions League first qualifying round tie at Lissywollen. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0730/1526080-athlone-turn-on-the-style-in-europe-to-hammer-cardiff/>
 
 ---
 
@@ -18,6 +478,42 @@ The Food Safety Authority has recalled a batch of Aldi roast chicken basil pesto
 <br> 
 
 <https://www.rte.ie/news/2025/0730/1526215-aldi-pesto-recall/>
+
+---
+
+## FSAI recalls Aldi chicken pesto batch due to listeria
+
+date: 2025-07-30, from: RTÉ News
+
+The Food Safety Authority has recalled a batch of Aldi roast chicken basil pesto pasta due to the presence of Listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0730/1526215-aldi-pesto-recall/>
+
+---
+
+## Judge dismisses Alec Baldwin lawsuit claiming malicious prosecution in fatal set shooting
+
+date: 2025-07-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7101611.1706803803!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1245427091.jpg' alt='A man with a slight beard looks impassively out of frame. ' width='620' height='349' title='Actor Alec Baldwin arrives at an event in New York on Dec. 6, 2022. On Wednesday, Baldwin pleaded not guilty to involuntary manslaughter.'/><p>A New Mexico judge has dismissed a lawsuit filed by actor Alec Baldwin for malicious prosecution and civil rights violations in the 2021 fatal shooting of a cinematographer on the set of the western movie Rust.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/alec-baldwin-lawsuit-dismissed-1.7598022?cmp=rss>
+
+---
+
+## Sagkeeng Anicinabe Nation contestant wins 2025 Miss Indigenous Canada
+
+date: 2025-07-30, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7598053.1753917213!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gena-boubard.jpg' alt='hugs at the airport' width='620' height='349' title=''/><p>Miss Indigenous Canada 2025, Gena Boubard, arrived back home in Manitoba Wednesday after winning the crown in Toronto.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/miss-indigenous-canada-2025-1.7597818?cmp=rss>
 
 ---
 
@@ -257,7 +753,7 @@ Five men who beat, burned, stabbed and tortured a woman for three hours in a Dub
 
 date: 2025-07-30, from: United Nations, Top Stories
 
-Despite daily “tactical pauses” declared by Israeli forces, humanitarian conditions in Gaza remain catastrophic, with children starving, aid workers overwhelmed, and fuel and water supplies critically low, UN humanitarians reported on Wednesday. 
+Despite daily “tactical pauses” declared by Israeli forces, humanitarian conditions in Gaza remain catastrophic, with children starving, aid workers overwhelmed and fuel and water supplies critically low, UN humanitarians reported on Wednesday. 
 
 <br> 
 
@@ -313,6 +809,42 @@ Welcome to our live coverage of the third day of high-level international confer
 
 ---
 
+## With Gaza smouldering, ministers renew push for two-State solution at UN
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+With Gaza in ruins and the two-State solution in jeopardy, ministers convened at the United Nations this week to jumpstart political momentum toward ending the Israeli-Palestinian conflict – a crisis Secretary-General António Guterres warned is “at a breaking point.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165536>
+
+---
+
+## World News in Brief: Violence in Somalia, cholera in Haiti, tax support for sustainable development
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+Ongoing violence has displaced more than 100,000 people in two regions of Somalia in the past two months, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165537>
+
+---
+
+## Sudan gripped by deadly crisis as hunger, disease and heat intensify
+
+date: 2025-07-30, from: United Nations, Top Stories
+
+The UN Office for the Coordination of Humanitarian Affairs (OCHA) raised the alarm on Wednesday over the rising toll of hunger, disease and displacement in various conflict-ridden parts of Sudan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165534>
+
+---
+
 ## Hugh Lane Gallery to close for three year refurbishment
 
 date: 2025-07-30, from: RTÉ News
@@ -334,6 +866,18 @@ A Dublin road was closed for several hours this morning after a truck carrying a
 <br> 
 
 <https://www.rte.ie/news/regional/2025/0730/1526113-truck-carrying-aeosol-cans-catches-fire-in-dublin/>
+
+---
+
+## 'Anxiety level was high': Tsunami warnings trigger flood of evacuations
+
+date: 2025-07-30, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7597217.1753882651!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pacific-tsunami-hawaii.jpg' alt='A long line of packed traffic on a highway is shown, with only a few cars on the other highway heading in the other direction. ' width='620' height='349' title='Oahu residents evacuate Ewa Beach due to the threat of tsunami in Kapolei, Oahu, Hawaii, Tuesday, July 29, 2025. '/><p>Residents in Hawaii, Japan and along the western coasts of the Americas scrambled on Tuesday after a powerful earthquake off Russia's Kamchatka Peninsula triggered tsunami warnings and widespread evacuation orders.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/tsunami-evacuation-alerts-1.7597175?cmp=rss>
 
 ---
 
@@ -374,6 +918,18 @@ Ireland has signed a joint statement of foreign ministers to call for an immedia
 <br> 
 
 <https://www.rte.ie/news/2025/0730/1526121-gaza-joint-statement/>
+
+---
+
+## Canada to recognise state of Palestine in September
+
+date: 2025-07-30, from: RTÉ News
+
+Canada intends to recognise a Palestinian state at the United Nations in September, Prime Minister Mark Carney has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0730/1526121-gaza-canada-statement/>
 
 ---
 
@@ -759,18 +1315,6 @@ date: 2025-07-29, from: CBC, World News
 
 ---
 
-## 'Anxiety level was high': Tsunami warnings trigger flood of evacuations
-
-date: 2025-07-29, from: CBC, World News
-
-<img src='https://i.cbc.ca/ais/a888f920-f4f4-4abd-91ad-cf3433e51728,1753882646175/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Lifeguards work to clear beaches on Tuesday after an earthquake in Russia sparked worry over a potential tsunami.' width='620' height='349' title=''/><p></p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/tsunami-evacuation-alerts-1.7597175?cmp=rss>
-
----
-
 ## US House panel rejects Ghislaine Maxwell immunity request
 
 date: 2025-07-29, from: RTÉ News
@@ -1137,7 +1681,7 @@ The promise seemed simple: a job, a fresh start, a way out. Instead, Maria* step
 
 ## Deputy UN chief urges bold action to transform food systems at global summit in Addis Ababa
 
-date: 2025-07-29, from: United Nations, Economic Development
+date: 2025-07-29, from: United Nations, Top Stories
 
 United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on countries to double down on efforts to transform food systems, describing them as “one of the greatest solutions” to achieving the Sustainable Development Goals (SDGs). 
 
@@ -1305,6 +1849,18 @@ date: 2025-07-29, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-07/pope-leo-xiv-discourse-french-catechumens-29-july-2025.html>
+
+---
+
+## Canada plans to recognize Palestinian state in September, Carney says
+
+date: 2025-07-29, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/6a4f9174-5b2c-4491-bbd7-2f443ef899e5,1753915500164/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8164%2C4592%29%3BResize%3D%28620%29' alt='A man speaks in front of two Canadian flags.' width='620' height='349' title='Cda Carney 20250730'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/carney-canada-recognize-palestinian-state-conditions-1.7597525?cmp=rss>
 
 ---
 
@@ -2973,6 +3529,18 @@ date: 2025-07-27, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/business/copper-tariffs-1.7597650?cmp=rss>
+
+---
+
+## Trump slams Canada's plan to recognize Palestinian state amid trade talks
+
+date: 2025-07-27, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/e971ba4f-0473-4679-84b3-2a18e29fe2b3,1753922787928/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7570%2C4258%29%3BResize%3D%28620%29' alt='Two men in suits talking' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/us-canada-trade-negotiations-deadline-1.7598002?cmp=rss>
 
 ---
 

@@ -1,11 +1,173 @@
 ---
 title: small papers
-updated: 2025-07-30 14:07:40
+updated: 2025-07-31 06:08:30
 ---
 
 # small papers
 
-(date: 2025-07-30 14:07:40)
+(date: 2025-07-31 06:08:30)
+
+---
+
+## La Comunidad de Sun Valley se Opone a Colocar Casas Diminutas en el Estacionamiento de la Estación de Metrolink
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1-1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Se planea un Pueblo de Casas Diminutas en Sun Valley, ubicado en el estacionamiento de la estación local de Metrolink en 8360 San Fernando Road. Los residentes no las quieren [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/la-comunidad-de-sun-valley-se-opone-a-colocar-casas-diminutas-en-el-estacionamiento-de-la-estacion-de-metrolink/">La Comunidad de Sun Valley se Opone a Colocar Casas Diminutas en el Estacionamiento de la Estación de Metrolink</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/la-comunidad-de-sun-valley-se-opone-a-colocar-casas-diminutas-en-el-estacionamiento-de-la-estacion-de-metrolink/>
+
+---
+
+## Defensores de Personas Sin Hogar Cuestionan la Orden Ejecutiva de Trump sobre la Falta de Vivienda
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="647" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?fit=1024%2C647&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=1024%2C647&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=768%2C485&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=1536%2C970&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=2048%2C1293&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=1200%2C758&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=2000%2C1263&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=780%2C492&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=400%2C253&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?resize=706%2C446&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Homeless_man_in_Santa_Monica_California-1-scaled.jpg?fit=1024%2C647&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Defensores de personas sin hogar están criticando la orden ejecutiva que el presidente Donald Trump firmó la semana pasada, que busca sacar a las personas de las calles imponiendo multas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/defensores-de-personas-sin-hogar-cuestionan-la-orden-ejecutiva-de-trump-sobre-la-falta-de-vivienda/">Defensores de Personas Sin Hogar Cuestionan la Orden Ejecutiva de Trump sobre la Falta de Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/defensores-de-personas-sin-hogar-cuestionan-la-orden-ejecutiva-de-trump-sobre-la-falta-de-vivienda/>
+
+---
+
+## Horóscopo
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar – 19 de abr) Alguien con una visión real se sentirá atraído por los rincones menos conocidos de tu vida. Ese es [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/horoscopo-225/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/horoscopo-225/>
+
+---
+
+## EVENTOS Locales – Semana de 31 de julio, 2025
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Agosto 1 Películas en el Parque Recreation Park 208 Park Ave. San Fernando 7 p.m. – 10 p.m. ¡Tome una manta o su silla de jardín favorita y únase [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/eventos-locales-semana-de-31-de-julio-2025/">EVENTOS Locales &#8211; Semana de 31 de julio, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/eventos-locales-semana-de-31-de-julio-2025/>
+
+---
+
+## Talleres de Preparación Familiar para la Aplicación de Leyes de Inmigración se están Llevando a Cabo
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-7.10.06-PM-scaled-e1753929234769.png?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-7.10.06-PM-scaled-e1753929234769.png?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-7.10.06-PM-scaled-e1753929234769.png?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-7.10.06-PM-scaled-e1753929234769.png?fit=1024%2C640&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-7.10.06-PM-scaled-e1753929234769.png?fit=1024%2C640&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Ante el aumento de la actividad de aplicación de leyes de inmigración en el sur de California, las autoridades locales están organizando sesiones informativas para que los residentes se preparen [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/talleres-de-preparacion-familiar-para-la-aplicacion-de-leyes-de-inmigracion-se-estan-llevando-a-cabo/">Talleres de Preparación Familiar para la Aplicación de Leyes de Inmigración se están Llevando a Cabo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/talleres-de-preparacion-familiar-para-la-aplicacion-de-leyes-de-inmigracion-se-estan-llevando-a-cabo/>
+
+---
+
+## El Intento del Gobierno de Reanudar Redadas de Inmigración en el Sur de California es Escuchado por la Corte de Apelaciones
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=1536%2C960&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=2048%2C1280&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=1200%2C750&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=2000%2C1250&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=780%2C488&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?resize=706%2C441&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/Screenshot-2025-07-29-at-10.17.40-AM-scaled.png?fit=1024%2C640&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por Fred Shuster  City News Service   LOS ÁNGELES (CNS) &#8211; Un panel de la corte federal de apelaciones escuchó argumentos el lunes 28 de junio, pero no emitió un [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/el-intento-del-gobierno-de-reanudar-redadas-de-inmigracion-en-el-sur-de-california-es-escuchado-por-la-corte-de-apelaciones/">El Intento del Gobierno de Reanudar Redadas de Inmigración en el Sur de California es Escuchado por la Corte de Apelaciones</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/el-intento-del-gobierno-de-reanudar-redadas-de-inmigracion-en-el-sur-de-california-es-escuchado-por-la-corte-de-apelaciones/>
+
+---
+
+## La Hambruna Intencionada en Gaza Debe Detenerse
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por el congresista John Garamendi &#160; Es imposible observar la hambruna causada por el peligroso y deliberado fracaso de Israel al no permitir la ayuda humanitaria y no ver un [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/la-hambruna-intencionada-en-gaza-debe-detenerse/">La Hambruna Intencionada en Gaza Debe Detenerse  </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/la-hambruna-intencionada-en-gaza-debe-detenerse/>
+
+---
+
+## Protestas por los Derechos de los Inmigrantes Continúan Cerca del Centro de Detención de Los Ángeles
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/250728_Detention-Center_SN_01-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Activistas continúan manifestándose día y noche afuera del Centro de Detención Metropolitano en el centro de Los Ángeles, protestando contra la agenda continua de deportaciones masivas de la administración del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/protestas-por-los-derechos-de-los-inmigrantes-continuan-cerca-del-centro-de-detencion-de-los-angeles/">Protestas por los Derechos de los Inmigrantes Continúan Cerca del Centro de Detención de Los Ángeles </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/protestas-por-los-derechos-de-los-inmigrantes-continuan-cerca-del-centro-de-detencion-de-los-angeles/>
+
+---
+
+## ¡Ay! Me ha Picado Algo. ¿Qué Debo Hacer?
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/wasp-8163788_1280.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>De vez en cuando, todos tenemos un encuentro cercano con un insecto y nos pican. Según un artículo publicado por el Colegio Americano de Alergia, Asma e Inmunología (ACAAI), hasta [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/ay-me-ha-picado-algo-que-debo-hacer/">¡Ay! Me ha Picado Algo. ¿Qué Debo Hacer?  </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/ay-me-ha-picado-algo-que-debo-hacer/>
+
+---
+
+## Sun Valley Community Opposes Placing Tiny Homes at Metrolink Station Parking Lot
+
+date: 2025-07-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/07/ICC-1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Tiny Homes Village is planned for Sun Valley, located in the parking lot of the local Metrolink Station at 8360 San Fernando Road. Residents don’t want them in their [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/07/30/sun-valley-community-opposes-placing-tiny-homes-at-metrolink-station-parking-lot/">Sun Valley Community Opposes Placing Tiny Homes at Metrolink Station Parking Lot</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/07/30/sun-valley-community-opposes-placing-tiny-homes-at-metrolink-station-parking-lot/>
+
+---
+
+## City begins demolition of long-derelict Atlantic Avenue buildings
+
+date: 2025-07-30, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn.jpg 1680w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After major redevelopment plans fell through, the lot just below South Street will be leveled and sold.</p>
+<p>The post <a href="https://lbpost.com/news/place/atlantic-avenue-south-buildings-demolished-north-long-beach">City begins demolition of long-derelict Atlantic Avenue buildings </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/atlantic-avenue-south-buildings-demolished-north-long-beach>
 
 ---
 
@@ -28,7 +190,7 @@ date: 2025-07-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-07-30, from: Long Beach Post
 
-<figure><img width="680" height="383" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg 680w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="680" height="383" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg 680w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The board asked county lawyers to draft a rule that would also require all law enforcement officers “to wear visible identification and agency affiliation.”</p>
 <p>The post <a href="https://lbpost.com/news/la-county-supervisors-move-to-prohibit-federal-agents-from-wearing-masks">LA County supervisors move to prohibit federal agents from wearing masks</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -43,7 +205,7 @@ date: 2025-07-30, from: Long Beach Post
 
 date: 2025-07-30, from: Long Beach Post
 
-<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Staff at Farm Lot 59 suspect they were targeted in retaliation after an encampment was cleared in the adjacent Willow Springs Park.</p>
 <p>The post <a href="https://lbpost.com/news/place/farm-lot-59-vandalism-fire-help">Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

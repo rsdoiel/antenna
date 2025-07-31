@@ -1,11 +1,62 @@
 ---
 title: motorcycles
-updated: 2025-07-30 14:07:38
+updated: 2025-07-31 06:08:28
 ---
 
 # motorcycles
 
-(date: 2025-07-30 14:07:38)
+(date: 2025-07-31 06:08:28)
+
+---
+
+## The 250 Horsepower, Supercharged Kawasaki Teryx H2 Side-by-Side: This Is It
+
+date: 2025-07-31, from: Ride Apart, Electric Motorcycle News
+
+Kawasaki has finally unleashed the 250 horsepower supercharged Teryx H2 side-by-side off-roader, and the specs, price, and details will make Can-Am and Polaris tremble.  
+
+<br> 
+
+<https://www.rideapart.com/news/767500/2026-kawasaki-teryx-h2-side-by-side-specs-price-explained/>
+
+---
+
+## Thai Honda Wants To Raise Helmet Awareness For Kids After Alarming Statistic
+
+date: 2025-07-31, from: Ride Apart, Electric Motorcycle News
+
+Only a fraction of kids on motorcycles wear helmets, and because of this, nearly 3,000 young lives are lost each year in accidents. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767389/thai-honda-helmet-awareness-campaign-children/>
+
+---
+
+## KTM Seems Secure, But What About Husqvarna and GasGas?
+
+date: 2025-07-31, from: Ride Apart, Electric Motorcycle News
+
+KTM's future seems, at the very least, planned out. But are GasGas and Husqvarna in danger? Let’s read between the lines of KTM’s crisis recovery through their CEO's own words. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767397/whats-next-for-husqvarna-gasgas/>
+
+---
+
+## Is a Brand-New Suzuki GSX-R About To Be Revealed?
+
+date: 2025-07-31, from: Ride Apart, Electric Motorcycle News
+
+Suzuki has been doubling down on GSX-R nostalgia, with a teaser telling us to mark our calendars for July 31. We think a new model is coming. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767394/suzuki-gsxr-teaser-coming-july31/>
 
 ---
 

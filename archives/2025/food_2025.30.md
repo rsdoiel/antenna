@@ -1,11 +1,41 @@
 ---
 title: food
-updated: 2025-07-30 14:07:40
+updated: 2025-07-31 06:08:30
 ---
 
 # food
 
-(date: 2025-07-30 14:07:40)
+(date: 2025-07-31 06:08:30)
+
+---
+
+## BBQ Chicken, Street Corn and Chipotle Roast Sweet Potatoes Bowls
+
+date: 2025-07-31, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/07/BBQ-Chicken-and-Street-Corn-Salad-Stuffed-Sweet-Potatoes-Bowls-1200-6862.jpg"/></div>
+<p>A tasty bowl with BBQ chicken, Mexican street corn salad and chipotle roast sweet potatoes! These bowls have it all! Sweet and spicy BBQ chicken, tasty Mexican corn salad, tender chipotle roast sweet potatoes, tangy pickled red onions, and cool and creamy guacamole, all in a rice and bean bowl! This recipe is basically a...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/bbq-chicken-street-corn-and-chipotle-roast-sweet-potatoes-bowls/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/bbq-chicken-street-corn-and-chipotle-roast-sweet-potatoes-bowls/">BBQ Chicken, Street Corn and Chipotle Roast Sweet Potatoes Bowls</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/bbq-chicken-street-corn-and-chipotle-roast-sweet-potatoes-bowls/>
+
+---
+
+## Hard Seltzer Recall: Cans Mistakenly Labeled as Energy Drinks
+
+date: 2025-07-30, from: Taste of Home
+
+<p>Certain Celsius cans have been filled with High Noon hard seltzer. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/high-noon-recall-celsius-july-2025/">Hard Seltzer Recall: Cans Mistakenly Labeled as Energy Drinks</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/high-noon-recall-celsius-july-2025/>
 
 ---
 
@@ -35,6 +65,18 @@ After testing a range of affordable cookware, we found Goldilocks to be a stando
 
 ---
 
+## SCA Announces World Coffee Championships in Brussels and Bangkok
+
+date: 2025-07-30, from: Daily Coffee News
+
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg" class="attachment-large size-large wp-post-image" alt="2024 World Coffee Championship" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-768x533.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) announced that Brussels and Bangkok will host four World Coffee Championship events for the 2026 competition season.&#160; The trade organization said the 2026 World Cup... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/30/sca-announces-world-coffee-championships-in-brussels-and-bangkok/>
+
+---
+
 ## There’s Still Hope For A Coffee Tariff Exemption
 
 date: 2025-07-30, from: The Sprudge
@@ -56,6 +98,30 @@ At her Malaysian restaurant, Kampar, chef Ange Branca blends mentorship, equity,
 <br> 
 
 <https://www.bonappetit.com/story/after-two-restaurant-fires-philly-chef-ange-branca-is-still-standing>
+
+---
+
+## Commerce Secretary Lutnick Suggests Coffee Could Get Tariff Exemptions
+
+date: 2025-07-30, from: Daily Coffee News
+
+<div><img width="620" height="412" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-620x412.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-620x412.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-768x510.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>United States Commerce Secretary Howard Lutnick yesterday said that agricultural goods that can&#8217;t be grown in the U.S. — including coffee and cocoa — may be exempt from tariffs under... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/30/commerce-secretary-lutnick-suggests-coffee-could-get-tariff-exemptions/>
+
+---
+
+## MPE Rolls Deeper Into Smaller Roasteries with the SRM.MAX Grinder
+
+date: 2025-07-30, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="MPE SRM MAX" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Industrial grinding and processing equipment company Modern Process Equipment (MPE) recently introduced the SRM.MAX, a roller-style grinder that&#8217;s also suitable for medium and smaller roasters.&#160; Preceding the SRM.MAX in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/30/mpe-rolls-deeper-into-smaller-roasteries-with-the-srm-max-grinder/>
 
 ---
 
@@ -187,7 +253,7 @@ Cold brew, colorful matcha, and relaxed environs reign supreme.
 
 date: 2025-07-29, from: Daily Coffee News
 
-<div><img width="620" height="395" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-620x395.jpg" class="attachment-large size-large wp-post-image" alt="coffee roasted color" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-620x395.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-768x490.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color.jpg 916w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers affiliated with the UC Davis Coffee Center published groundbreaking findings that may be used by the Specialty Coffee Association to codify how coffee roasters and retailers measure and communicate... 
+<div><img width="620" height="395" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-620x395.jpg" class="attachment-large size-large wp-post-image" alt="coffee roasted color" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-620x395.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-300x191.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-150x96.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color-768x490.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/coffee-roasted-color.jpg 916w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Researchers affiliated with the UC Davis Coffee Center published groundbreaking findings that may be used by the Specialty Coffee Association to codify how coffee roasters and retailers measure and communicate... 
 
 <br> 
 
@@ -223,7 +289,7 @@ This juicy grilled pineapple chicken recipe brings summery, tropical flavor to t
 
 date: 2025-07-29, from: Daily Coffee News
 
-<div><img width="620" height="366" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-620x366.jpeg" class="attachment-large size-large wp-post-image" alt="Cafe Joyeux" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-620x366.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-300x177.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-150x89.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-768x453.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Nestlé-owned coffee giant Nespresso is pledging a minimum of $500,000 for the expansion of Café Joyeux in the United States. The French-born coffee shop brand, founded in 2017, promotes... 
+<div><img width="620" height="366" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-620x366.jpeg" class="attachment-large size-large wp-post-image" alt="Cafe Joyeux" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-620x366.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-300x177.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-150x89.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux-768x453.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Cafe-Joyeux.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Nestlé-owned coffee giant Nespresso is pledging a minimum of $500,000 for the expansion of Café Joyeux in the United States. The French-born coffee shop brand, founded in 2017, promotes... 
 
 <br> 
 
@@ -235,7 +301,7 @@ date: 2025-07-29, from: Daily Coffee News
 
 date: 2025-07-29, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-620x349.jpg" class="attachment-large size-large wp-post-image" alt="matcha latte" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Matcha, with its vibrant green hue and&#160;centuries-old tradition, is often celebrated as a health boosting superfood. But what exactly sets it apart from regular green tea, or even your morning... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-620x349.jpg" class="attachment-large size-large wp-post-image" alt="matcha latte" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/matcha-latte.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Matcha, with its vibrant green hue and&#160;centuries-old tradition, is often celebrated as a health boosting superfood. But what exactly sets it apart from regular green tea, or even your morning... 
 
 <br> 
 

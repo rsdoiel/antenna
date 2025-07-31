@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-30 14:07:37
+updated: 2025-07-31 06:08:27
 ---
 
 # libraries
 
-(date: 2025-07-30 14:07:37)
+(date: 2025-07-31 06:08:27)
 
 ---
 
@@ -247,6 +247,44 @@ Nisi, A. Valentina; Arnold, Myrtha M.L.; Blonde, Ginger D.; Schier, Lindsey A.; 
 <br> 
 
 <http://hdl.handle.net/20.500.11850/747248>
+
+---
+
+## Guest Post — Well-meant Is Not Well-done:  A Reply to “European Accessibility Act: Navigating the Challenges of EAA Compliance”
+
+date: 2025-07-31, from: Scholarly Kitchen
+
+<p>While large international players showcase well-resourced compliance roadmaps toward accessibility compliance, many in the European publishing landscape are facing a more sobering reality:  legal ambiguities, economic limits, and structural mismatches between regulatory goals and scholarly publishing practices.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/07/31/guest-post-well-meant-is-not-well-done-a-reply-to-european-accessibility-act-navigating-the-challenges-of-eaa-compliance/">Guest Post &#8212; Well-meant Is Not Well-done:  A Reply to “European Accessibility Act: Navigating the Challenges of EAA Compliance”</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/07/31/guest-post-well-meant-is-not-well-done-a-reply-to-european-accessibility-act-navigating-the-challenges-of-eaa-compliance/>
+
+---
+
+## Supporting data for doctoral thesis: Genomic erosion in a habitat specialist over time and space
+
+date: 2025-07-31, from: ETH Zurich, recently added
+
+Ulrich, Gabriel F.; Clivaz, Karim; Fischer, Martin C.; Guggisberg, Alessia; Rayo, Enrique; Schuenemann, Verena J.; Widmer, Alex; Zemp, Niklaus 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/749179>
+
+---
+
+## Comprehensive creep compliance characterization of orthotropic materials using an automated system: Data
+
+date: 2025-07-31, from: ETH Zurich, recently added
+
+Maas, Jonas Matthias; Wittel, Falk K. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/748801>
 
 ---
 

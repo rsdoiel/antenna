@@ -1,11 +1,140 @@
 ---
 title: home
-updated: 2025-07-30 14:07:37
+updated: 2025-07-31 06:08:27
 ---
 
 # home
 
-(date: 2025-07-30 14:07:37)
+(date: 2025-07-31 06:08:27)
+
+---
+
+## Could Cohousing Save Your Life in a Climate Disaster?
+
+date: 2025-07-31, from: Dwell
+
+When a wildfire and freak ice storm made me face my eco-anxiety head on, I set out to see if community-forward co-living might soothe it. 
+
+<br> 
+
+<https://www.dwell.com/article/could-cohousing-save-your-life-in-a-climate-disaster-35822dd4-8b18ed01-c51e77dc-8b7a92e0>
+
+---
+
+## 10 Owls in Vermont (With Pictures and Identification)
+
+date: 2025-07-31, from: Yard Life blog
+
+<p>Owls are some of the most fascinating and mysterious birds found in Vermont. With their silent flight, sharp eyes, and ... </p>
+<p class="read-more-container"><a title="10 Owls in Vermont (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-owls-in-vermont-with-pictures-and-identification/#more-32785" aria-label="Read more about 10 Owls in Vermont (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-owls-in-vermont-with-pictures-and-identification/">10 Owls in Vermont (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-owls-in-vermont-with-pictures-and-identification/>
+
+---
+
+## What Do Owls in Vermont Hunt During Snowy Winters?
+
+date: 2025-07-31, from: Yard Life blog
+
+<p>When Vermont’s landscape is blanketed in snow and the temperatures plunge, life for many animals becomes a daily struggle for ... </p>
+<p class="read-more-container"><a title="What Do Owls in Vermont Hunt During Snowy Winters?" class="read-more button" href="https://ownyardlife.com/what-do-owls-in-vermont-hunt-during-snowy-winters/#more-32779" aria-label="Read more about What Do Owls in Vermont Hunt During Snowy Winters?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-owls-in-vermont-hunt-during-snowy-winters/">What Do Owls in Vermont Hunt During Snowy Winters?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-owls-in-vermont-hunt-during-snowy-winters/>
+
+---
+
+## Why Are Armadillos in Oklahoma Expanding Northward?
+
+date: 2025-07-31, from: Yard Life blog
+
+<p>In recent decades, the nine-banded armadillo has become an increasingly common sight far beyond its traditional southern range. Once confined ... </p>
+<p class="read-more-container"><a title="Why Are Armadillos in Oklahoma Expanding Northward?" class="read-more button" href="https://ownyardlife.com/why-are-armadillos-in-oklahoma-expanding-northward/#more-32773" aria-label="Read more about Why Are Armadillos in Oklahoma Expanding Northward?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-are-armadillos-in-oklahoma-expanding-northward/">Why Are Armadillos in Oklahoma Expanding Northward?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-are-armadillos-in-oklahoma-expanding-northward/>
+
+---
+
+## Why Do Elk in Wyoming Gather in Large Herds During Winter?
+
+date: 2025-07-31, from: Yard Life blog
+
+<p>Each winter, a remarkable transformation takes place across the rugged landscapes of Wyoming. As temperatures drop and snow blankets the ... </p>
+<p class="read-more-container"><a title="Why Do Elk in Wyoming Gather in Large Herds During Winter?" class="read-more button" href="https://ownyardlife.com/why-do-elk-in-wyoming-gather-in-large-herds-during-winter/#more-32768" aria-label="Read more about Why Do Elk in Wyoming Gather in Large Herds During Winter?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-elk-in-wyoming-gather-in-large-herds-during-winter/">Why Do Elk in Wyoming Gather in Large Herds During Winter?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-do-elk-in-wyoming-gather-in-large-herds-during-winter/>
+
+---
+
+## Why Do Moose in Alaska Migrate Long Distances?
+
+date: 2025-07-31, from: Yard Life blog
+
+<p>Every year, moose in Alaska undertake astonishingly long migrations across challenging landscapes. These journeys are not random but are deeply ... </p>
+<p class="read-more-container"><a title="Why Do Moose in Alaska Migrate Long Distances?" class="read-more button" href="https://ownyardlife.com/why-do-moose-in-alaska-migrate-long-distances/#more-32763" aria-label="Read more about Why Do Moose in Alaska Migrate Long Distances?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-moose-in-alaska-migrate-long-distances/">Why Do Moose in Alaska Migrate Long Distances?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-do-moose-in-alaska-migrate-long-distances/>
+
+---
+
+## When Are You Too Old to Use a Ladder? Experts Weigh In
+
+date: 2025-07-30, from: Family Handyman Blog
+
+<p>Ladders can make household tasks and chores easier, but is there an age to stop using a ladder? Physical therapists and doctors weigh in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/when-are-you-too-old-to-use-a-ladder/">When Are You Too Old to Use a Ladder? Experts Weigh In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/when-are-you-too-old-to-use-a-ladder/>
+
+---
+
+## Does This Potato Farmer Grow the Golden State’s Best Spuds?
+
+date: 2025-07-30, from: California Grown
+
+<p>In the northernmost part of the state, potato farmer Marc Staunton takes an innovative approach to working with the natural environment. The results are undeniable &#8211; healthy potatoes that are full of flavor and store beautifully throughout the winter.  Healthy soils, high elevation and hearty potatoes Over the last 120 years, many farmers in the [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/potato-farmer-staunton-farms/" data-wpel-link="internal" target="_self">Does This Potato Farmer Grow the Golden State’s Best Spuds? </a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/potato-farmer-staunton-farms/>
+
+---
+
+## The Dashboard Symbols You Can’t Afford to Ignore
+
+date: 2025-07-30, from: Family Handyman Blog
+
+<p>When I first started fixing cars over 50 years ago, there were few dashboard warning lights. However, it was vital to address these lights right away...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/urgent-dashboard-symbol-guide/">The Dashboard Symbols You Can’t Afford to Ignore</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/urgent-dashboard-symbol-guide/>
 
 ---
 
@@ -20,6 +149,18 @@ date: 2025-07-30, from: California Grown
 <br> 
 
 <https://californiagrown.org/blog/cal-ore/>
+
+---
+
+## This Trending Cooking Oil Is Made with Algae—and It Might Just Replace Your Olive Oil
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+Chefs and home cooks are using sustainable and trendy algae oil, which has a high smoke point and a neutral flavor. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/algae-cooking-oil-trend>
 
 ---
 
@@ -85,6 +226,20 @@ Viewing decks and floor-to-ceiling glass doors aim to elevate the experience of 
 
 ---
 
+## How to Grow Danvers Carrots: A Heavy Soil Hero
+
+date: 2025-07-30, from: The Gardener's Path
+
+<p>A bright orange heirloom, the ‘Danvers’ carrot is great for gardeners with heavy soil. Plant it in the spring and again in fall for an easy-pull storage crop. You can’t beat that homegrown carrot taste, and ‘Danvers’ produces high yields – even in areas with clay soil and shorter growing seasons. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-danvers-carrots/">How to Grow Danvers Carrots: A Heavy Soil Hero</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-danvers-carrots/>
+
+---
+
 ## Five More Black-Designed Modernist Buildings Secure Getty Funding
 
 date: 2025-07-30, from: Dwell
@@ -94,6 +249,18 @@ The Getty and National Trust for Historic Preservation just awarded new grants t
 <br> 
 
 <https://www.dwell.com/article/getty-foundation-african-american-cultural-heritage-action-fund-five-modernist-buildings-09525a94>
+
+---
+
+## These African-Californian Recipes Are Simple, Healthy, and Everyday Staples
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+Kiano Moju’s new cookbook bridges the flavors of Africa and the produce and techniques of California. These recipes will be menu staples. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/africali-cookbook-recipes>
 
 ---
 
@@ -108,6 +275,30 @@ date: 2025-07-30, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/ornamentals/grow-toyon/>
+
+---
+
+## The Gear You Need to Take Epic Travel Photos, According to a Professional Photographer
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+These are the essentials Sunset staff photographer Thomas J. Story recommends from 25 years of photographing travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-photography-gear>
+
+---
+
+## These Skincare Products Are Powered by the Sea and Will Heal Your Tired Skin
+
+date: 2025-07-30, from: Sunset Magazine - Living in the West
+
+Using ingredients like seaweed and kelp, brands like Osea, SeaAire, and Leahlani are the cure for stressed-out skin.  
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/seaweed-kelp-skincare>
 
 ---
 
@@ -329,6 +520,18 @@ Some wineries open up their pools to visitors in the summer, offering day passes
 <br> 
 
 <https://www.sunset.com/travel/wine-country/francis-ford-coppola-winery-pool>
+
+---
+
+## 8 Summer Camp–Inspired Getaways for Families Who Love Nature
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+Want a getaway that channels the magic of classic summer camp? These resorts and ranches are perfect for the whole family. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/summer-camp-inspired-getaways>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-07-30 14:07:38
+updated: 2025-07-31 06:08:28
 ---
 
 # retro computing
 
-(date: 2025-07-30 14:07:38)
+(date: 2025-07-31 06:08:28)
+
+---
+
+## Microlog Babytalk
+
+date: 2025-07-31, from: Computer ads from the Past
+
+Let Babytalk do the talking. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/microlog-babytalk>
 
 ---
 

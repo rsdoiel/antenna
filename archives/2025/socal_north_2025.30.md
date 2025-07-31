@@ -1,11 +1,98 @@
 ---
 title: socal north
-updated: 2025-07-30 14:07:31
+updated: 2025-07-31 06:08:20
 ---
 
 # socal north
 
-(date: 2025-07-30 14:07:31)
+(date: 2025-07-31 06:08:20)
+
+---
+
+## Taboo of Black Eyed Peas on bringing East LA to the world — 'bigger than just a love letter'
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+Two members of the Black Eyed Peas, Taboo and will.i.am, release a song condemning ICE and celebrating the community that raised them. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/love-letter-taboo-the-black-eyed-peas-east-la>
+
+---
+
+## The amount LA landlords can raise your rent goes down slightly in August
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+Starting Aug. 1, a state rent control law will limit annual increases to 8%. The region’s ceiling on rent hikes has been 8.9% over the last year. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-california-rent-control-limits-ab-1482-tenant-protection-act-aug-2025>
+
+---
+
+## LA's crossing guards will be redistributed using a new method before the school year starts
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+The city will now use safety data, equity measures and existing infrastructure to decide where to place crossing guards. 
+
+<br> 
+
+<https://laist.com/news/transportation/school-safety-crossing-guards>
+
+---
+
+## City begins demolition of long-derelict Atlantic Avenue buildings
+
+date: 2025-07-30, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn.jpg 1680w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After major redevelopment plans fell through, the lot just below South Street will be leveled and sold.</p>
+<p>The post <a href="https://lbpost.com/news/place/atlantic-avenue-south-buildings-demolished-north-long-beach">City begins demolition of long-derelict Atlantic Avenue buildings </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/atlantic-avenue-south-buildings-demolished-north-long-beach>
+
+---
+
+## Huntington Beach surf competition canceled by mini — not tsunami — waves
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+The competition will resume Thursday after the weather-induced break. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/us-open-of-surfing-canceled-small-waves-tsunami>
+
+---
+
+## Los Angeles City Council bans use of N-word, C-word in meetings
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+City Council President Marqueece Harris-Dawson said public comment at meetings has become more vulgar in recent years. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-city-council-bans-use-of-n-word-c-word-in-meetings>
+
+---
+
+## What goes into a university budget? And what's the role of endowments? Let an expert be your guide
+
+date: 2025-07-30, updated: 2025-07-30, from: The LAist
+
+Million dollar settlements to regain federal funding? Rising tuition, but layoffs and course cuts? We're here to help. 
+
+<br> 
+
+<https://laist.com/news/education/higher-education-budget-university-california-csu-research-grants>
 
 ---
 
@@ -61,7 +148,7 @@ Don’t fret, though — L.A.'s tarantulas are mostly harmless to humans and are
 
 date: 2025-07-30, from: Longbeach Post
 
-<figure><img width="680" height="383" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg 680w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="680" height="383" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O.jpg 680w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-300x169.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30104526/gvmjcj0w4aan9ns-445878-pk4uaxzn-179348-fZ9Iqe0O-400x225.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The board asked county lawyers to draft a rule that would also require all law enforcement officers “to wear visible identification and agency affiliation.”</p>
 <p>The post <a href="https://lbpost.com/news/la-county-supervisors-move-to-prohibit-federal-agents-from-wearing-masks">LA County supervisors move to prohibit federal agents from wearing masks</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -172,7 +259,7 @@ The deal would create the largest freight rail network in the country, but it’
 
 date: 2025-07-30, from: Longbeach Post
 
-<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="585" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-1024x585.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-300x171.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-768x438.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-189x108.jpg 189w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT-400x228.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/24153932/24jul25-7-24-25-garcen-9-681862-m8tmwxgt-550656-xlUAjIIT.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Staff at Farm Lot 59 suspect they were targeted in retaliation after an encampment was cleared in the adjacent Willow Springs Park.</p>
 <p>The post <a href="https://lbpost.com/news/place/farm-lot-59-vandalism-fire-help">Plagued by vandalism, theft and now a fire, a Long Beach urban farm is asking for help</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

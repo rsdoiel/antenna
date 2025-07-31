@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-07-30 14:07:35
+updated: 2025-07-31 06:08:25
 ---
 
 # games
 
-(date: 2025-07-30 14:07:35)
+(date: 2025-07-31 06:08:25)
+
+---
+
+## Time Flies when you&#8217;re thinking about dying
+
+date: 2025-07-31, updated: 2025-07-30, from: Polygon Website
+
+In 76.4 seconds, my life will end.&#160; So long as I manage to avoid lightbulbs or stay out of wine glasses, the buzzing will inevitably give way to silence. My wings will abruptly stop flapping and I’ll careen towards the ground like an asteroid. I’ll become a speck on a rug, a bit of debris [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/617424/time-flies-recommendation-hands-on>
+
+---
+
+## Watch the latest Nintendo Direct right here for Switch 2 news
+
+date: 2025-07-31, updated: 2025-07-31, from: Polygon Website
+
+Nintendo will broadcast a new Nintendo Direct presentation on Thursday, July 31, the company announced Wednesday. July’s Nintendo Direct showcase will focus not on games published by Nintendo itself, but on games from its third-party partners. Thursday’s Nintendo Direct: Partner Showcase will run for roughly 25 minutes and will start at 9 a.m. EDT/6 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/615366/nintendo-direct-july-2025-date-time-start>
+
+---
+
+## Emma Stone and her weirdest director team up again for another surreal mini masterpiece
+
+date: 2025-07-31, updated: 2025-07-31, from: Polygon Website
+
+At this point, you’re either in or out on Yorgos Lanthimos. The Greek filmmaker broke out with 2009’s Dogtooth, a warped and unsettling portrait of family, but a string of collaborations with Emma Stone turned him into a mainstream hitmaker who has never shed his weird side. After costarring in The Favourite, Stone went on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fantasy/617908/emma-stone-yorgos-lanthimos-beths-farm-jerskin-fendrix>
+
+---
+
+## MTG’s upcoming Spider-Man set is worrying draft players
+
+date: 2025-07-31, updated: 2025-07-31, from: Polygon Website
+
+After diving into the depths of the universe with its space-opera-inspired set, Edge of Eternities, Magic: The Gathering will go back to its Universes Beyond for the much-anticipated Marvel’s Spider-Man, releasing on Sept. 26, 2025. However, a recent announcement from MTG’s head designer, Mark Rosewater, has caused a stir among players of the Limited format, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/617889/marvel-spider-man-pick-two-draft-worrying>
+
+---
+
+## Netflix’s The Sandman fleshes out one of the comic’s most mysterious characters
+
+date: 2025-07-31, updated: 2025-07-30, from: Polygon Website
+
+The second and final season of Netflix’s The Sandman opens with Destiny (Adrian Lester), the eldest of the Endless, calling a family meeting. It’s a messy affair that involves a lot of the immortal siblings sniping at each other while complaining about how fractious they’ve become. “The Endless dynamic mirrors sort of my own family [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fantasy/617197/netflix-sandman-daniel-jacob-anderson-dream-death>
+
+---
+
+## Dig Donkey Kong Bananza? Check out this new hole game next
+
+date: 2025-07-31, updated: 2025-07-30, from: Polygon Website
+
+After pounding my way through Donkey Kong Bananza earlier this month, I declared that 2025 was a “big year for hole.” DK’s adventure was the third game I’d played this year (fourth actually, as I’d forgotten Netease’s Rusty Rabbit at the time) that took the childlike joy of digging in a sandbox and turned it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/617442/mashina-hole-game-pc-recommendation>
+
+---
+
+## I have nothing negative to say about Ninja Gaiden: Ragebound, other than that it ends too soon
+
+date: 2025-07-31, updated: 2025-07-30, from: Polygon Website
+
+Tecmo’s Ninja Gaiden games are infamous for their difficulty, from the NES era trilogy of punishing side-scrolling action platformers to the modern Team Ninja games. The latest entry in that franchise, Ninja Gaiden: Ragebound, doesn’t strive to be that hard; instead, it focuses on offering a compelling set of combat tools, tight platforming and action, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/617858/ninja-gaiden-ragebound-review>
+
+---
+
+## D&#038;D returns to its one of its earliest settings by kicking off an organized play campaign at Gen Con
+
+date: 2025-07-31, updated: 2025-07-31, from: Polygon Website
+
+Dungeons &#38; Dragons is kicking off a new organized play campaign at Gen Con this weekend that goes back to the earliest days of the 50-year-old tabletop role-playing game. Legends of Greyhawk promises players “less rules, more fun” as they adventure through the world designed by D&#38;D co-creator Gary Gygax, which was revived for the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/617892/organized-play-campaign-legends-of-greyhawk-gencon>
+
+---
+
+## Gigantamax Butterfree counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-07-31, updated: 2025-07-31, from: Polygon Website
+
+Gigantamax Butterfree is the latest addition to the list of Gigantamax Pokémon introduced to Pokémon Go, and is available in Max Battles as part of the Gigantamax Butterfree Max Battle Day on Aug. 3 from 2-5 p.m. in your local time. This big bug will only have niche uses (as is the way for bug-type [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/617646/gigantamax-butterfree-counters-weakness-tips-max-battle-raid>
+
+---
+
+## What is the briefcase code in Grounded 2?
+
+date: 2025-07-30, updated: 2025-07-30, from: Polygon Website
+
+If you want to open the briefcase in Grounded 2, you need the briefcase code, a two-part set of numbers that pops the lid and lets you explore inside. There&#8217;s not all that much to see, but there is one very useful item inside to help you on your way. You can also enter the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/617852/grounded-2-briefcase-code-how-to-open>
 
 ---
 

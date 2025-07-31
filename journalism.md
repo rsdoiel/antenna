@@ -1,11 +1,43 @@
 ---
 title: journalism
-updated: 2025-07-30 14:07:36
+updated: 2025-07-31 06:08:26
 ---
 
 # journalism
 
-(date: 2025-07-30 14:07:36)
+(date: 2025-07-31 06:08:26)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-31, from: The Daily Bruin (UCLA Student Newspaper))
+
+Patricia Godefroy said Wednesday that as the UCLA Anderson School of Management&#8217;s associate dean for marketing and communications, she was concerned that Klein’s email “could be construed as racist.” Klein&#8217;s lawyers presented internal communications in which Godefroy asked another School of Management administrator if they believed Bernardo&#8217;s email publicly announcing Klein&#8217;s leave would satisfy students. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/30/491487/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-07-31, from: The Daily Bruin (UCLA Student Newspaper))
+
+Professor emeritus Steven Lippman described his experience drafting letters recommending faculty merit raises in a deposition video. He said he believed Klein deserved a raise in 2021 based on favorable student reviews. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/30/491483/>
+
+---
+
+## Symbolism on Powell Library’s Rotunda Ceiling
+
+date: 2025-07-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/07/30/symbolism-on-powell-librarys-rotunda-ceiling/>
 
 ---
 
@@ -35,6 +67,7 @@ Bernardo said Tuesday that he believes he was selected as dean in 2018 because h
 
 date: 2025-07-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated July 30 at 4:02 p.m.</em>
 The United States Department of Justice alleged Tuesday that UCLA has created a hostile environment for Jewish and Israeli students since Palestinian political party and militant group Hamas’ Oct. 
 
 <br> 

@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-07-30 14:07:34
+updated: 2025-07-31 06:08:24
 ---
 
 # weather
 
-(date: 2025-07-30 14:07:34)
+(date: 2025-07-31 06:08:24)
 
 ---
 
@@ -30,6 +30,949 @@ No tropical cyclones as of Wed, 30 Jul 2025 21:00:07 GMT
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC - No watches are valid as of Thu Jul 31 12:53:02 UTC 2025
+
+date: 2025-07-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Jul 31 12:53:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Thu Jul 31 12:53:02 UTC 2025
+
+date: 2025-07-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Jul 31 12:53:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Jul 31, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-07-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0736 AM CDT Thu Jul 31 2025
+
+Valid 311300Z - 011200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+EVENING OVER PORTIONS OF NORTH-CENTRAL COLORADO AND EASTERN
+WYOMING...AND PARTS OF THE MID ATLANTIC REGION...
+
+...SUMMARY...
+A few severe storms capable of damaging winds are possible this
+afternoon across the Mid-Atlantic region. Other severe wind and hail
+producing storms are also possible across the central/northern High
+Plains.
+
+...High Plains...
+A broad upper ridge remains in place across most of the southern US,
+with a weak trough over the western states.  A plume of monsoonal
+moisture extends from NM into CO/WY/MT, leading to another round of
+afternoon thunderstorms across the Rockies.  The strongest cells
+will pose some risk of hail and gusty winds over the higher terrain
+before spreading onto the plains by late afternoon.  Forecast
+soundings in this region show moderately steep mid-level lapse
+rates, MLCAPE values of 1000-1500 J/kg, and sufficient vertical
+shear for transient supercell structures.  This may be sufficient
+for widely scattered severe storms capable of large hail and
+damaging winds.
+
+...Mid Atlantic Region...
+A weak cold front continues to sag southward across parts of PA and
+far southern New England this morning.  Strong heating to the south
+of the boundary, coupled with a very moist air mass will lead to
+moderate afternoon MLCAPE values - despite weak mid-level lapse
+rates.  Scattered thunderstorms are expected to form along/ahead of
+the front by mid-afternoon.  A few severe storms are possible, with
+locally damaging wind gusts being the main concern.
+
+...ID/Western MT...
+A shortwave trough is noted in morning water vapor imagery over NV
+lifting northward.  Large scale forcing for ascent ahead of the
+trough will foster scattered high-based thunderstorms this afternoon
+across parts of ID and western MT.  The strongest cells will be
+capable of gusty/damaging wind gusts.
+
+..Hart/Grams.. 07/31/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-07-31, from: Central Pacific Basin Tropical Cyclones
+
+000<br />ACPN50 PHFO 311141<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Thu Jul 31 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical<br />Storm Iona, located in the central Pacific basin well southwest of<br />the Hawaiian Islands and recently-formed Tropical Storm Gil,<br />located well south-southwest of the southern Baja California<br />peninsula.<br /><br />Well Southeast of the Hawaiian Islands (CP92):<br />Disorganized showers and thunderstorms associated with a broad area<br />of low pressure located about 750 miles southeast of Hilo, Hawaii,<br />continue to persist. Although the system lacks a well-defined<br />low-level center at this time, some additional development is<br />possible, and a short-lived tropical depression could still form<br />during the next day or so. After that time, environmental conditions<br />are expected to become less conducive for further development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />&&<br />Public Advisories on Tropical Storm Gil are issued under WMO header<br />WTPZ32 KNHC and under AWIPS header MIATCPEP2.<br />Forecast/Advisories on Tropical Storm Gil are issued under WMO<br />header WTPZ22 KNHC and under AWIPS header MIATCMEP2.<br /><br />$$<br />Forecaster Bucci<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-07-31, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 311141<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Thu Jul 31 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Iona, located in the central Pacific basin well southwest of <br />the Hawaiian Islands and recently-formed Tropical Storm Gil, <br />located well south-southwest of the southern Baja California <br />peninsula.<br /><br />Well Southeast of the Hawaiian Islands (CP92):<br />Disorganized showers and thunderstorms associated with a broad area <br />of low pressure located about 750 miles southeast of Hilo, Hawaii, <br />continue to persist. Although the system lacks a well-defined <br />low-level center at this time, some additional development is <br />possible, and a short-lived tropical depression could still form <br />during the next day or so. After that time, environmental conditions <br />are expected to become less conducive for further development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />Central East Pacific:<br />An area of low pressure is expected to form well south of <br />southwestern Mexico in the next couple of days. Environmental <br />conditions appear conducive for some gradual development of this <br />system, and a tropical depression is likely to form over the <br />weekend or early next week as the system moves west-northwestward at <br />10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent. <br />* Formation chance through 7 days...high...70 percent.<br /><br />&&<br />Public Advisories on Tropical Storm Gil are issued under WMO header<br />WTPZ32 KNHC and under AWIPS header MIATCPEP2.<br />Forecast/Advisories on Tropical Storm Gil are issued under WMO <br />header WTPZ22 KNHC and under AWIPS header MIATCMEP2.<br /><br />$$<br />Forecaster Bucci 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-07-31, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 311141<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Thu Jul 31 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Iona, located in the central Pacific basin well southwest of <br />the Hawaiian Islands and recently-formed Tropical Storm Gil, <br />located well south-southwest of the southern Baja California <br />peninsula.<br /><br />Well Southeast of the Hawaiian Islands (CP92):<br />Disorganized showers and thunderstorms associated with a broad area <br />of low pressure located about 750 miles southeast of Hilo, Hawaii, <br />continue to persist. Although the system lacks a well-defined <br />low-level center at this time, some additional development is <br />possible, and a short-lived tropical depression could still form <br />during the next day or so. After that time, environmental conditions <br />are expected to become less conducive for further development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />Central East Pacific:<br />An area of low pressure is expected to form well south of <br />southwestern Mexico in the next couple of days. Environmental <br />conditions appear conducive for some gradual development of this <br />system, and a tropical depression is likely to form over the <br />weekend or early next week as the system moves west-northwestward at <br />10 to 15 mph.<br />* Formation chance through 48 hours...low...near 0 percent. <br />* Formation chance through 7 days...high...70 percent.<br /><br />&&<br />Public Advisories on Tropical Storm Gil are issued under WMO header<br />WTPZ32 KNHC and under AWIPS header MIATCPEP2.<br />Forecast/Advisories on Tropical Storm Gil are issued under WMO <br />header WTPZ22 KNHC and under AWIPS header MIATCMEP2.<br /><br />$$<br />Forecaster Bucci 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-07-31, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 311141<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Thu Jul 31 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical<br />Storm Iona, located in the central Pacific basin well southwest of<br />the Hawaiian Islands and recently-formed Tropical Storm Gil,<br />located well south-southwest of the southern Baja California<br />peninsula.<br /><br />Well Southeast of the Hawaiian Islands (CP92):<br />Disorganized showers and thunderstorms associated with a broad area<br />of low pressure located about 750 miles southeast of Hilo, Hawaii,<br />continue to persist. Although the system lacks a well-defined<br />low-level center at this time, some additional development is<br />possible, and a short-lived tropical depression could still form<br />during the next day or so. After that time, environmental conditions<br />are expected to become less conducive for further development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />&&<br />Public Advisories on Tropical Storm Gil are issued under WMO header<br />WTPZ32 KNHC and under AWIPS header MIATCPEP2.<br />Forecast/Advisories on Tropical Storm Gil are issued under WMO<br />header WTPZ22 KNHC and under AWIPS header MIATCMEP2.<br /><br />$$<br />Forecaster Bucci<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-07-31, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Jul 31 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Beven<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Tropical Storm Gil Graphics
+
+date: 2025-07-31, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092657.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Gil 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Thu, 31 Jul 2025 08:47:15 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092657.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Gil 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Thu, 31 Jul 2025 09:26:57 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/092657.shtml?cone>
+
+---
+
+## Tropical Storm Iona Graphics
+
+date: 2025-07-31, from: Central Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/092151.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Iona 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Thu, 31 Jul 2025 08:44:45 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/092151.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Iona 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Thu, 31 Jul 2025 09:21:51 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/092151.shtml?cone>
+
+---
+
+## SPC Jul 31, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-07-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0408 AM CDT Thu Jul 31 2025
+
+Valid 031200Z - 081200Z
+
+...DISCUSSION...
+The extended range will primarily feature the potential for
+Northwest flow severe across the Plains. Moderate to strong
+instability is expected to build across the central Plains and into
+parts of the northern Plains. A mid-level trough off the California
+coast at the beginning of the period is forecast to move northward
+and eventually into southern Canada. Beyond this time, the forecast
+uncertainty increases. Both the ECMWF and GFS suggest some troughing
+will advance toward the Midwest/Great Lakes, but the amplitude
+varies. This will have significant impact on the potential locations
+of severe weather and the potential for the threat to extend east of
+the Plains/Upper Midwest. Regardless of the exact solution of the
+extended range pattern, moderate mid-level flow will likely
+overspread much of the northern Plains and potentially portions of
+the central Plains. Where this mid-level flow interacts with the
+developing instability and thunderstorms, some severe weather is
+possible. However, the uncertain timing and evolution of the pattern
+makes identification of these corridors challenging and precludes
+severe weather probabilities at this time.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## Advisory #001 Wind Field [shp] - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 31 Jul 2025 08:47:52 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep072025_fcst_001.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 31 Jul 2025 08:47:42 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep072025_best_track.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 31 Jul 2025 08:47:39 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep072025_best_track.kmz>
+
+---
+
+## Advisory #001 Forecast [shp] - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 31 Jul 2025 08:47:30 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep072025_5day_001.zip>
+
+---
+
+## Advisory #001 Forecast Track [kmz] - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 31 Jul 2025 08:47:27 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP072025_001adv_TRACK.kmz>
+
+---
+
+## Advisory #001 Cone of Uncertainty [kmz] - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 31 Jul 2025 08:47:18 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP072025_001adv_CONE.kmz>
+
+---
+
+## Tropical Storm Gil Wind Speed Probabilities Number 1
+
+date: 2025-07-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>151 
+FOPZ12 KNHC 310844
+PWSEP2
+                                                                    
+TROPICAL STORM GIL WIND SPEED PROBABILITIES NUMBER   1              
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP072025               
+0900 UTC THU JUL 31 2025                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM GIL WAS LOCATED NEAR LATITUDE 
+12.7 NORTH...LONGITUDE 115.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+40 KTS...45 MPH...75 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+15N 115W       34 16   2(18)   X(18)   X(18)   X(18)   X(18)   X(18)
+ 
+10N 120W       34  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+15N 120W       34  1  72(73)  22(95)   X(95)   X(95)   X(95)   X(95)
+15N 120W       50  X  27(27)  39(66)   X(66)   X(66)   X(66)   X(66)
+15N 120W       64  X   5( 5)  17(22)   X(22)   X(22)   X(22)   X(22)
+ 
+20N 120W       34  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+15N 125W       34  X   X( X)  13(13)  26(39)   1(40)   X(40)   X(40)
+15N 125W       50  X   X( X)   X( X)   5( 5)   X( 5)   X( 5)   X( 5)
+ 
+20N 125W       34  X   X( X)   2( 2)  11(13)   4(17)   X(17)   X(17)
+ 
+15N 130W       34  X   X( X)   X( X)   2( 2)   5( 7)   X( 7)   X( 7)
+ 
+20N 130W       34  X   X( X)   X( X)   1( 1)  60(61)   1(62)   X(62)
+20N 130W       50  X   X( X)   X( X)   X( X)  24(24)   1(25)   X(25)
+20N 130W       64  X   X( X)   X( X)   X( X)   7( 7)   X( 7)   X( 7)
+ 
+20N 135W       34  X   X( X)   X( X)   X( X)   9( 9)  20(29)   X(29)
+20N 135W       50  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   X( 6)
+ 
+25N 135W       34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+20N 140W       34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   1( 5)
+ 
+25N 140W       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+$$                                                                  
+FORECASTER HAGEN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/310844.shtml>
+
+---
+
+## Tropical Storm Gil Forecast Discussion Number 1
+
+date: 2025-07-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>795 
+WTPZ42 KNHC 310845
+TCDEP2
+ 
+Tropical Storm Gil Discussion Number   1
+NWS National Hurricane Center Miami FL       EP072025
+1100 PM HST Wed Jul 30 2025
+
+Satellite imagery indicates that the disturbance NHC has been 
+tracking for the past several days has become much better organized 
+during the past 12 hours.  The latest subjective Dvorak estimates 
+are 2.5/35 kt from TAFB and 1.5/25 kt from SAB.  A 0457 UTC ASCAT-B 
+pass showed a well-defined circulation with peak winds near 35 kt. 
+Since that time, the convective organization has continued to 
+improve significantly, with a central convective area containing 
+cloud tops that are becoming colder and more circular on infrared 
+imagery, along with developing banding features.  The system is 
+upgraded to Tropical Storm Gil based on the above data, and the 
+initial intensity estimate is 40 kt to reflect the improved 
+structure since the time of the ASCAT pass.
+
+Gil is moving westward, or 275/13 kt.  The track forecast is fairly 
+straightforward.  A mid-level ridge to the north of Gil will steer 
+the cyclone west-northwestward for the next 3 to 4 days.  As Gil 
+weakens and becomes shallow, it should bend more to the west by day 
+4.  The track forecast is near the middle of the guidance envelope 
+and is close to the TVCE consensus.
+
+Gil is currently located in a moist environment with warm 
+sea-surface temperatures and low to moderate vertical wind shear, 
+and the cyclone is forecast to strengthen to a hurricane over the 
+next 36 h.  The shear is forecast to decrease further over the next 
+24 h while upper-level divergence increases.  Given the current 
+impressive outflow and relatively fast recent development trends, it 
+is possible Gil could strengthen a bit more than forecast over the 
+next day or two.  However, Gil is forecast to reach colder water and 
+more stable conditions by hour 48 as it gains latitude, which should 
+lead to weakening.  The NHC intensity forecast is near the middle of 
+the guidance envelope.  Gil is forecast to lose its convection and 
+become a remnant low by day 5.
+
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  31/0900Z 12.7N 115.1W   40 KT  45 MPH
+ 12H  31/1800Z 13.4N 117.0W   50 KT  60 MPH
+ 24H  01/0600Z 14.5N 119.6W   60 KT  70 MPH
+ 36H  01/1800Z 15.7N 122.5W   65 KT  75 MPH
+ 48H  02/0600Z 17.1N 125.7W   65 KT  75 MPH
+ 60H  02/1800Z 18.6N 129.1W   60 KT  70 MPH
+ 72H  03/0600Z 20.1N 132.4W   55 KT  65 MPH
+ 96H  04/0600Z 21.7N 138.6W   35 KT  40 MPH
+120H  05/0600Z 22.3N 144.3W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 
+$$
+Forecaster Hagen</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/310845.shtml>
+
+---
+
+## Summary - Tropical Storm Gil (EP2/EP072025)
+
+date: 2025-07-31, from: Eastern Pacific Basin GIS Data
+
+...TROPICAL STORM GIL FORMS WELL TO THE SOUTH-SOUTHWEST OF THE SOUTHERN BAJA CALIFORNIA PENINSULA... As of 11:00 PM HST Wed Jul 30 the center of Gil was located near 12.7, -115.1 with movement W at 15 mph. The minimum central pressure was 1004 mb with maximum sustained winds of about 45 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATCPEP2.shtml>
+
+---
+
+## Tropical Storm Gil Public Advisory Number 1
+
+date: 2025-07-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>551 
+WTPZ32 KNHC 310844
+TCPEP2
+ 
+BULLETIN
+Tropical Storm Gil Advisory Number   1
+NWS National Hurricane Center Miami FL       EP072025
+1100 PM HST Wed Jul 30 2025
+ 
+...TROPICAL STORM GIL FORMS WELL TO THE SOUTH-SOUTHWEST OF THE
+SOUTHERN BAJA CALIFORNIA PENINSULA...
+ 
+ 
+SUMMARY OF 1100 PM HST...0900 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...12.7N 115.1W
+ABOUT 785 MI...1260 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM HST (0900 UTC), the center of Tropical Storm Gil was 
+located near latitude 12.7 North, longitude 115.1 West. Gil is 
+moving toward the west near 15 mph (24 km/h). A turn to the 
+west-northwest with some acceleration is expected over the next 
+couple of days.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Some strengthening is forecast during the next couple of days, and 
+Gil is forecast to become a hurricane on Friday.
+ 
+Tropical-storm-force winds extend outward up to 160 miles (260 km)
+from the center.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM HST.
+ 
+$$
+Forecaster Hagen</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/310844.shtml>
+
+---
+
+## Tropical Storm Gil Forecast Advisory Number 1
+
+date: 2025-07-31, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ22 KNHC 310843
+TCMEP2
+ 
+TROPICAL STORM GIL FORECAST/ADVISORY NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP072025
+0900 UTC THU JUL 31 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 12.7N 115.1W AT 31/0900Z
+POSITION ACCURATE WITHIN  25 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 275 DEGREES AT  13 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1004 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT.......100NE 140SE  50SW   0NW.
+4 M SEAS....210NE 150SE   0SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 12.7N 115.1W AT 31/0900Z
+AT 31/0600Z CENTER WAS LOCATED NEAR 12.6N 114.5W
+ 
+FORECAST VALID 31/1800Z 13.4N 117.0W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 30NE  20SE   0SW   0NW.
+34 KT...120NE 160SE  80SW  40NW.
+ 
+FORECAST VALID 01/0600Z 14.5N 119.6W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 50NE  30SE   0SW  30NW.
+34 KT...130NE 150SE  80SW  80NW.
+ 
+FORECAST VALID 01/1800Z 15.7N 122.5W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 20NE  20SE   0SW  20NW.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT...150NE 140SE  80SW 100NW.
+ 
+FORECAST VALID 02/0600Z 17.1N 125.7W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 20NE  15SE   0SW  20NW.
+50 KT... 50NE  40SE  30SW  50NW.
+34 KT...140NE 120SE  70SW 110NW.
+ 
+FORECAST VALID 02/1800Z 18.6N 129.1W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 50NE  30SE  20SW  50NW.
+34 KT...130NE 100SE  60SW 100NW.
+ 
+FORECAST VALID 03/0600Z 20.1N 132.4W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 40NE  20SE   0SW  40NW.
+34 KT...120NE  80SE  50SW 100NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 04/0600Z 21.7N 138.6W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 50NE   0SE   0SW  50NW.
+ 
+OUTLOOK VALID 05/0600Z 22.3N 144.3W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 12.7N 115.1W
+ 
+NEXT ADVISORY AT 31/1500Z
+ 
+$$
+FORECASTER HAGEN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/310843.shtml>
+
+---
+
+## Tropical Storm Iona Forecast Discussion Number 17
+
+date: 2025-07-31, from: Central Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPA41 PHFO 310843
+TCDCP1
+ 
+Tropical Storm Iona Discussion Number  17
+NWS Central Pacific Hurricane Center Honolulu HI   CP012025
+Issued by NWS National Hurricane Center Miami FL
+1100 PM HST Wed Jul 30 2025
+ 
+Satellite imagery indicates that convection has become more 
+concentrated over the center of Iona, with a recent convective burst 
+producing cloud tops as cold as -85 C. This burst has obscured the 
+previously exposed low-level circulation center, though the overall 
+structure generally remains disorganized. Subjective Dvorak current 
+intensity estimates ranged from 2.5/35 kt (JTWC) to 3.0/45 kt (SAB), 
+with HFO at 3.5/55 kt. These values are mostly consistent with 
+objective satellite intensity estimates, which ranged from 30 to 40 
+kt. Based on a blend of these estimates and the current satellite 
+presentation, the initial intensity is held at 45 kt.
+
+The initial motion is estimated at 280/20 kt. Iona is expected to 
+continue moving westward over the next day or two along the southern 
+periphery of a low- to mid-level subtropical ridge located to the 
+north. By 48 to 60 hours, a gradual turn toward the west-northwest 
+and a decrease in forward speed are anticipated as the system 
+approaches a weakness in the ridge. The forecast track remains 
+consistent with the previous advisory and is well supported by the 
+latest consensus guidance.
+
+Only slight additional weakening is expected in the short term as 
+Iona remains embedded within a moderate westerly shear environment 
+of 20 to 25 kt. By around 60 hours (Saturday), vertical shear is 
+forecast to relax, which could allow the cyclone to hold steady or 
+even briefly restrengthen as it moves over slightly warmer waters. 
+However, conditions are expected to deteriorate again late this 
+weekend through early next week, with increasing shear and mid-level 
+dry air likely leading to weakening. The intensity forecast has been 
+held steady from the the previous advisory, supported by the recent 
+burst of convection and the latest guidance. This forecast assumes 
+that Iona will maintain enough convection to remain a tropical 
+cyclone, but if convection fails to persist, the system could 
+degenerate into a remnant low sooner than currently indicated.
+
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  31/0900Z 12.3N 166.9W   45 KT  50 MPH
+ 12H  31/1800Z 12.7N 169.8W   40 KT  45 MPH
+ 24H  01/0600Z 13.5N 173.3W   35 KT  40 MPH
+ 36H  01/1800Z 14.1N 176.7W   35 KT  40 MPH
+ 48H  02/0600Z 14.9N 179.6W   35 KT  40 MPH
+ 60H  02/1800Z 15.8N 177.9E   35 KT  40 MPH
+ 72H  03/0600Z 16.6N 175.7E   35 KT  40 MPH
+ 96H  04/0600Z 18.4N 171.3E   30 KT  35 MPH
+120H  05/0600Z 20.5N 167.1E   30 KT  35 MPH
+ 
+$$
+Forecaster Gibbs (CPHC)</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCDCP1+shtml/310843.shtml>
+
+---
+
+## Tropical Storm Iona Wind Speed Probabilities Number 17
+
+date: 2025-07-31, from: Central Pacific Basin Tropical Cyclones
+
+<pre>000
+FOPA11 PHFO 310842
+PWSCP1
+                                                                    
+TROPICAL STORM IONA WIND SPEED PROBABILITIES NUMBER  17             
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   CP012025         
+ISSUED BY NWS NATIONAL HURRICANE CENTER MIAMI FL                    
+0900 UTC THU JUL 31 2025                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM IONA WAS LOCATED NEAR LATITUDE
+12.3 NORTH...LONGITUDE 166.9 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+45 KTS...50 MPH...85 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+15N 175W       34  X   1( 1)  10(11)   X(11)   X(11)   X(11)   X(11)
+ 
+WAKE ISLAND    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+$$                                                                  
+FORECASTER GIBBS (CPHC)</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOPWSCP1+shtml/310842.shtml>
+
+---
+
+## Tropical Storm Iona Public Advisory Number 17
+
+date: 2025-07-31, from: Central Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPA31 PHFO 310842
+TCPCP1
+ 
+BULLETIN
+Tropical Storm Iona Advisory Number  17
+NWS Central Pacific Hurricane Center Honolulu HI   CP012025
+Issued by NWS National Hurricane Center Miami FL
+1100 PM HST Wed Jul 30 2025
+ 
+...IONA CONTINUES WESTWARD WITH LITTLE CHANGE IN STRENGTH...
+ 
+ 
+SUMMARY OF 1100 PM HST...0900 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...12.3N 166.9W
+ABOUT 860 MI...1385 KM SW OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 23 MPH...37 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM HST (0900 UTC), the center of Tropical Storm Iona was 
+located near latitude 12.3 North, longitude 166.9 West. Iona is 
+moving toward the west near 23 mph (37 km/h), and this general 
+motion is expected to continue into Friday, followed by a gradual 
+turn toward the west-northwest over the weekend.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts. 
+Additional weakening is expected through Thursday, followed by 
+little change in strength Thursday night into Friday.
+ 
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
+from the center.
+ 
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM HST.
+ 
+$$
+Forecaster Gibbs (CPHC)</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCPCP1+shtml/310842.shtml>
+
+---
+
+## Tropical Storm Iona Forecast Advisory Number 17
+
+date: 2025-07-31, from: Central Pacific Basin Tropical Cyclones
+
+<pre>668 
+WTPA21 PHFO 310841
+TCMCP1
+ 
+TROPICAL STORM IONA FORECAST/ADVISORY NUMBER  17
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   CP012025
+ISSUED BY NWS NATIONAL HURRICANE CENTER MIAMI FL
+0900 UTC THU JUL 31 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 12.3N 166.9W AT 31/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  20 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1001 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT....... 50NE  30SE  30SW  50NW.
+4 M SEAS....220NE 100SE  60SW 160NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 12.3N 166.9W AT 31/0900Z
+AT 31/0600Z CENTER WAS LOCATED NEAR 12.1N 165.9W
+ 
+FORECAST VALID 31/1800Z 12.7N 169.8W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  20SE  20SW  40NW.
+ 
+FORECAST VALID 01/0600Z 13.5N 173.3W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  20SE  10SW  30NW.
+ 
+FORECAST VALID 01/1800Z 14.1N 176.7W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  20SE  10SW  30NW.
+ 
+FORECAST VALID 02/0600Z 14.9N 179.6W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  20SE  10SW  20NW.
+ 
+FORECAST VALID 02/1800Z 15.8N 177.9E
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE  20SE  10SW  20NW.
+ 
+FORECAST VALID 03/0600Z 16.6N 175.7E
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE  20SE  10SW  20NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 200 NM ON DAY 5...AND FOR INTENSITY NEAR 20 KT EACH DAY
+ 
+OUTLOOK VALID 04/0600Z 18.4N 171.3E
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+OUTLOOK VALID 05/0600Z 20.5N 167.1E
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 12.3N 166.9W
+ 
+NEXT ADVISORY AT 31/1500Z
+ 
+$$
+FORECASTER GIBBS (CPHC)</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCMCP1+shtml/310841.shtml>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-07-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0307 AM CDT Thu Jul 31 2025
+
+Valid 011200Z - 021200Z
+
+...Synopsis...
+Broad upper troughing will persist over the Interior West, with at
+least one pronounced mid-level impulse expected to traverse the
+upper trough over the northern Great Basin tomorrow (Friday). Upper
+support with the embedded impulse will support high-based
+thunderstorm development atop a dry boundary layer over the northern
+Great Basin. During the afternoon, both wet and dry thunderstorms
+should produce dry strikes over receptive fuel beds, necessitating
+isolated dry thunderstorm highlights.
+
+..Squitieri.. 07/31/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -160,26 +1103,6 @@ FORECASTER BUCCI</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/HFOPWSCP2+shtml/302054.shtml>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2025-07-30, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>Issued by NWS National Hurricane Center Miami FL<br>800 AM HST Wed Jul 30 2025<br><br>For the central North Pacific...between 140W and 180W:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane<br>Iona, located in the central Pacific basin well south of the<br>Hawaiian Islands, and on Tropical Storm Keli also located in the<br>central Pacific basin well south of the Hawaiian Islands.<br><br>1. Well East-Southeast of the Hawaiian Islands (CP92):<br>Showers and thunderstorms associated with an area of low pressure<br>located around 1000 miles east-southeast of the Hawaiian Islands<br>remain limited.  However, if persistent showers and thunderstorms<br>re-develop during the next day or so, a short-lived tropical<br>depression could still form.  After that time, environmental<br>conditions are expected to become less conducive for development.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Beven<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -593,18 +1516,6 @@ FORECASTER BEVEN</pre>
 
 ---
 
-## SPC - No watches are valid as of Wed Jul 30 20:34:02 UTC 2025
-
-date: 2025-07-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Jul 30 20:34:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
 ## SPC MD 1849
 
 date: 2025-07-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -664,69 +1575,6 @@ MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md1849.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-07-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0253 PM CDT Wed Jul 30 2025
-
-Valid 311200Z - 011200Z
-
-...CRITICAL FIRE WEATHER AREA FOR FAR NORTHWESTERN ARIZONA...CENTRAL
-UTAH...AND FAR NORTHWESTERN COLORADO...
-
-...Update...
-Given the latest projected position of the mid-level shortwave
-trough and hi-resolution model trends for tomorrow/Thursday, the
-Isolated Dry Thunderstorm area was shifted eastward over more of the
-Great Basin where a lack of widespread rainfall continues to result
-in receptive fuels. For the Elevated area within the rest of the
-Great Basin, northwestern AZ, UT, and a portion of the Rockies, an
-upgrade to Critical was made through most of central UT where
-sustained wind speeds near 20-25 mph are expected to persist for
-several hours. The Elevated area was also extended eastward to
-account for higher wind speeds and low teen to single-digit RH.
-
-..Barnes.. 07/30/2025
-
-.PREV DISCUSSION... /ISSUED 0206 AM CDT Wed Jul 30 2025/
-
-...Synopsis...
-A mid-level trough, with embedded impulses, will linger along the
-West Coast as upper ridging persists across the central and eastern
-U.S. tomorrow (Thursday). Mid-level perturbations pivoting around
-the West Coast upper trough will encourage widespread 15-20 mph
-sustained southwesterly surface winds amid 15-20 percent RH across
-much of the Great Basin. Since these conditions will overspread dry
-fuels, Elevated highlights have been introduced. 
-
-As a mid-level impulse gradually drifts northward across the Pacific
-Northwest, scattered thunderstorms will develop atop a dry boundary
-layer and dry fuels. However, PWATs may be higher compared to
-previous days, suggesting a potential mix of wet and dry
-thunderstorms. While isolated dry thunderstorm highlights have been
-introduced, consideration was also given for introducing Scattered
-dry thunderstorm highlights. However, the possibility for several
-storms producing wetting rains, and the potential for widespread
-stability to overspread the Pacific Northwest due to high-density
-thunderstorm coverage from Day 1, precludes greater highlights at
-this time.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -868,62 +1716,6 @@ inclusion of risk areas at this time.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-07-30, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Wed Jul 30 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Bucci<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-07-30, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 301735<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Wed Jul 30 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Hurricane <br />Iona, located in the central Pacific basin well south of the <br />Hawaiian Islands, and on Tropical Storm Keli also located in the <br />central Pacific basin well south of the Hawaiian Islands. <br /><br />Well East-Southeast of the Hawaiian Islands (CP92):<br />Showers and thunderstorms associated with an area of low pressure <br />located around 1000 miles east-southeast of the Hawaiian Islands <br />remain limited.  However, if persistent showers and thunderstorms <br />re-develop during the next day or so, a short-lived tropical <br />depression could still form.  After that time, environmental <br />conditions are expected to become less conducive for development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />South of Southwestern Mexico (EP99):<br />Shower activity associated with a trough of low pressure located <br />several hundred miles southwest of the southwestern coast of Mexico <br />has become a little better organized since yesterday. Environmental <br />conditions appear conducive for additional development, and a <br />tropical depression is likely to form during the next day or two <br />while the system moves west-northwestward around 15 mph, remaining <br />well offshore of the southwestern coast of Mexico. <br />* Formation chance through 48 hours...high...80 percent. <br />* Formation chance through 7 days...high...90 percent.<br /><br />Central East Pacific:<br />An area of low pressure is forecast to develop well south of <br />southern or southwestern Mexico late this week.  Environmental <br />conditions appear conducive for some gradual development of this <br />system and a tropical depression could develop over the weekend or <br />early next week as the system moves west-northwestward at 10 to 15 <br />mph.<br />* Formation chance through 48 hours...low...near 0 percent. <br />* Formation chance through 7 days...medium...60 percent.<br /><br />$$<br />Forecaster Beven 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-07-30, from: Eastern Pacific Tropical Weather Outlook
-
-000<br />ABPZ20 KNHC 301735<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Wed Jul 30 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Hurricane <br />Iona, located in the central Pacific basin well south of the <br />Hawaiian Islands, and on Tropical Storm Keli also located in the <br />central Pacific basin well south of the Hawaiian Islands. <br /><br />Well East-Southeast of the Hawaiian Islands (CP92):<br />Showers and thunderstorms associated with an area of low pressure <br />located around 1000 miles east-southeast of the Hawaiian Islands <br />remain limited.  However, if persistent showers and thunderstorms <br />re-develop during the next day or so, a short-lived tropical <br />depression could still form.  After that time, environmental <br />conditions are expected to become less conducive for development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />South of Southwestern Mexico (EP99):<br />Shower activity associated with a trough of low pressure located <br />several hundred miles southwest of the southwestern coast of Mexico <br />has become a little better organized since yesterday. Environmental <br />conditions appear conducive for additional development, and a <br />tropical depression is likely to form during the next day or two <br />while the system moves west-northwestward around 15 mph, remaining <br />well offshore of the southwestern coast of Mexico. <br />* Formation chance through 48 hours...high...80 percent. <br />* Formation chance through 7 days...high...90 percent.<br /><br />Central East Pacific:<br />An area of low pressure is forecast to develop well south of <br />southern or southwestern Mexico late this week.  Environmental <br />conditions appear conducive for some gradual development of this <br />system and a tropical depression could develop over the weekend or <br />early next week as the system moves west-northwestward at 10 to 15 <br />mph.<br />* Formation chance through 48 hours...low...near 0 percent. <br />* Formation chance through 7 days...medium...60 percent.<br /><br />$$<br />Forecaster Beven 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-07-30, from: Central Pacific Tropical Weather Outlook
-
-000<br />ACPN50 PHFO 301735<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Wed Jul 30 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Hurricane<br />Iona, located in the central Pacific basin well south of the<br />Hawaiian Islands, and on Tropical Storm Keli also located in the<br />central Pacific basin well south of the Hawaiian Islands.<br /><br />Well East-Southeast of the Hawaiian Islands (CP92):<br />Showers and thunderstorms associated with an area of low pressure<br />located around 1000 miles east-southeast of the Hawaiian Islands<br />remain limited.  However, if persistent showers and thunderstorms<br />re-develop during the next day or so, a short-lived tropical<br />depression could still form.  After that time, environmental<br />conditions are expected to become less conducive for development.<br />* Formation chance through 48 hours...medium...40 percent.<br />* Formation chance through 7 days...medium...40 percent.<br /><br />$$<br />Forecaster Beven<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
 
 ---
 
@@ -1137,83 +1929,6 @@ severe risk in portions of northern New England, refer to MCD #1846.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Jul 30 12:31:02 UTC 2025
-
-date: 2025-07-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Jul 30 12:31:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Jul 30, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-07-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0715 AM CDT Wed Jul 30 2025
-
-Valid 301300Z - 311200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
-THE NORTHEAST...THE NORTHERN TO CENTRAL HIGH PLAINS...AND LOWER MID
-MISSISSIPPI VALLEY TO MIDWEST AREA...
-
-...SUMMARY...
-Widely scattered strong to severe thunderstorms are possible from
-the Lower Missouri/Mid Mississippi Valleys, over parts of the
-Mid-Atlantic/Northeast region, and from southern Montana across
-Wyoming and Colorado.
-
-...Mid MS Valley...
-A long-lived linear MCS is tracking eastward across parts of IA/MO
-this morning.  This activity is expected to persist through much of
-the day and affect parts of IL/IN/OH/Lower MI.  Ample low-level
-moisture is present across this region, and the convectively-aided
-shortwave trough associated with the MCS will provide sufficient
-vertical shear for some concern for a few severe wind gusts through
-the day.  An upgrade to SLGT risk was considered for this region,
-but given the expansive shield of clouds ahead of the storms,
-coupled with a consensus of model guidance showing limited intensity
-to the storms, chose to maintain MRGL risk and re-evaluate at 1630z.
-
-
-...High Plains...
-Similar to yesterday, ample mid-level moisture is present across the
-central Rockies into WY.  This will lead to scattered thunderstorms
-by early afternoon from parts of central CO into central/western WY.
- Winds aloft are slightly stronger than yesterday, which will
-provide an uptick in vertical shear and convective organization. 
-Hail and gusty winds will be possible with storms that form over the
-higher terrain and spread into the adjacent plains through the
-afternoon and early evening.
-
-...Northeast...
-A weak surface cold front will sag southward across New England and
-parts of NY/PA today, with a moist and moderately unstable air mass
-expected ahead of the boundary.  Low-level convergence along the
-front will be weak, with only widely scattered thunderstorm coverage
-expected.  However, cool temperatures aloft and steep low-level
-lapse rates will promote a risk of gusty/damaging winds and at least
-small hail in the storms that form this afternoon.
-
-..Hart/Grams.. 07/30/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## Tropical Storm Keli Graphics
 
 date: 2025-07-30, from: Central Pacific Basin Tropical Cyclones
@@ -1255,47 +1970,6 @@ alt="Hurricane Iona 34-Knot Wind Speed Probabilities" width="500" height="400" /
 <br> 
 
 <https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/092149.shtml?cone>
-
----
-
-## SPC Jul 30, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-07-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0342 AM CDT Wed Jul 30 2025
-
-Valid 021200Z - 071200Z
-
-...DISCUSSION...
-Surface high pressure will build into the eastern CONUS this weekend
-and usher in an extended period of cooler and less humid weather for
-much of the eastern CONUS with reduced severe weather chances. Some
-severe weather chances will remain from the central High Plains to
-the northern Plains where low-level moisture is expected to remain.
-Several weak embedded mid-level shortwave troughs may result in some
-thunderstorm activity from the central to northern High Plains amid
-moderate to strong instability. A few severe storms are possible
-early next week with any of these passing troughs. 
-
-There is some signal that a more organized severe weather threat
-could materialize by the middle of next week as strong instability
-builds across the northern Plains and stronger mid-level troughing
-and flow becomes more prevalent across the region. However,
-predictability is low within this low-amplitude pattern. There is
-not much consensus for the overall pattern beyond D6/Monday and
-therefore, no severe weather probabilities are warranted at this
-time.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

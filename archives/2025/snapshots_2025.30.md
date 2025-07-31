@@ -1,11 +1,146 @@
 ---
 title: snapshots
-updated: 2025-07-30 14:07:42
+updated: 2025-07-31 06:08:32
 ---
 
 # snapshots
 
-(date: 2025-07-30 14:07:42)
+(date: 2025-07-31 06:08:32)
+
+---
+
+## The Media Can’t Handle the Absence of Truth
+
+date: 2025-07-31, from: Paul Krugman
+
+And their diffidence empowers pathological liars 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-media-cant-handle-the-absence>
+
+---
+
+## When Ideology Meets Reality
+
+date: 2025-07-31, from: Status-Q blog
+
+I&#8217;ve avoided talking about the whole &#8216;gender identity&#8217; debate here because, frankly, only fools rush in&#8230;! And where there is rational discussion on this topic, it often isn&#8217;t happening online. But Richard Dawkins is braver than me, and seldom shies away from pointing out actual facts, even when it makes some people uncomfortable! So I <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/07/31/13254/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/07/31/13254/>
+
+---
+
+## Microlog Babytalk
+
+date: 2025-07-31, from: Computer ads from the Past
+
+Let Babytalk do the talking. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/microlog-babytalk>
+
+---
+
+## 306: The Ancestors Return
+
+date: 2025-07-31, from: Fix the News
+
+They're sending us a message. Plus, Canada's largest ever indigenous conservation deal, Timor Leste eliminates malaria, good news for girls in Egypt, more nails in the coffin for fossil fuels, and how they designed Bluey. 
+
+<br> 
+
+<https://fixthenews.com/306-ancestors-return/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-31, from: Robert's feed at BlueSky)
+
+Their expressions are priceless.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvadwcbjas22>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-07-31, from: Feed for Alt USDS)
+
+What the FORK?! 🍴
+Federal workers were blindsided by a late-night message that upended their jobs, their unions, and their sleep. It was panic-inducing, and it was by design.
+
+Read the latest installment of "Tired, But Still Here" https://open.substack.com/pub/altusds/p/tired-but-still-here-a-federal-workers-12b 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lvadblxl722p>
+
+---
+
+## They’re Banning Swords
+
+date: 2025-07-31, updated: 2025-07-31, from: Tedium site
+
+An understandable decision to bar ninja swords in the U.K. hits differently to me given its somewhat censorship-friendly climate of late. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17108875/uk-online-safety-ninja-sword-ban>
+
+---
+
+## Ollama's new app
+
+date: 2025-07-31, updated: 2025-07-31, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ollama.com/blog/new-app">Ollama&#x27;s new app</a></strong></p>
+Ollama has been one of my favorite ways to run local models for a while - it makes it really easy to download models, and it's smart about keeping them resident in memory while they are being used and then cleaning them out after they stop receiving traffic.</p>
+<p>The one missing feature to date has been an interface: Ollama has been exclusively command-line, which is fine for the CLI literate among us and not much use for everyone else.</p>
+<p>They've finally fixed that! The new app's interface is accessible from the existing system tray menu and lets you chat with any of your installed models. Vision models can accept images through the new interface as well.</p>
+<p><img alt="Screenshot of a chat interface showing a response about encouraging pelicans in a garden. The prompt reads &quot;Describe ways I can encourage pelicans to hang out in my garden&quot; followed by the response: &quot;Pelicans are large, aquatic birds typically found near lakes, rivers, coastal areas, and wetlands—far from typical residential gardens. While it's unlikely you'll attract wild pelicans to your backyard garden, you can create a bird-friendly environment that supports a variety of waterfowl and wildlife. Here's how you can encourage birdlife (including species like herons, ducks, or even occasional pelicans if you're near a suitable habitat) to visit your garden: 1. Create a Water Feature Pelicans love water, so a large, shallow pond or water garden is key: • Size matters: Aim for at least 3–5 feet deep in parts and a shallow edge (6–12 inches) for wading. • Add native aquatic plants (e.g., cattails, water lilies, reeds) to provide shelter and food.&quot; At the bottom is a &quot;Send a message&quot; text input field and &quot;qwen3:30b-a3b-instruct-2507-q4_K_M&quot; with a dropdown arrow." src="https://static.simonwillison.net/static/2025/ollama-app.jpg" />
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44739632">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/31/ollamas-new-app/#atom-everything>
+
+---
+
+## The $200 Yamaha
+
+date: 2025-07-30, from: Chris Coyier blog
+
+Dave Rupert: Talk to any guitarist you know who has been playing awhile and they’ll have a story about a $200 Yamaha and how good it sounds relative to the price. Boy do I. I own a $5,000 guitar (what I originally paid for straight-grain Brazilian Rosewood Martin replica by Dennis Overton) and I didn&#8217;t [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/07/30/the-200-yamaha/>
+
+---
+
+## Quoting Steve Krouse
+
+date: 2025-07-30, updated: 2025-07-30, from: Simon Willison’s Weblog
+
+<blockquote cite="https://blog.val.town/vibe-code"><p>When you vibe code, you are incurring tech debt as fast as the LLM can spit it out. Which is why vibe coding is <em>perfect</em> for prototypes and throwaway projects: It's only legacy code if you have to maintain it!&nbsp;[...]</p>
+<p>The worst possible situation is to have a non-programmer vibe code a large project that they intend to maintain. This would be the equivalent of giving a credit card to a child without first explaining the concept of debt. [...]</p>
+<p>If you don't understand the code, your only recourse is to ask AI to fix it for you, which is like paying off credit card debt with another credit card.</p></blockquote>
+<p class="cite">&mdash; <a href="https://blog.val.town/vibe-code">Steve Krouse</a>, Vibe code is legacy code</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/steve-krouse">steve-krouse</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/technical-debt">technical-debt</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/30/steve-krouse/#atom-everything>
 
 ---
 
@@ -109,7 +244,7 @@ date: 2025-07-30, updated: 2025-07-30, from: Simon Willison’s Weblog
 <p>The larger Chinese models all offer their own APIs and are increasingly available from other providers.  I've been able to run versions of the Qwen 30B and GLM-4.5 Air 106B models on my own laptop.</p>
 <p>I can't help but wonder if part of the reason for the delay in release of OpenAI's open weights model comes from a desire to be notably better than this truly impressive lineup of Chinese models.</p>
 
-    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
 
 <br> 
 
@@ -198,7 +333,7 @@ Yesterday was <a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instr
     <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1950570969036361799">@Alibaba_Qwen</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
 
 <br> 
 
@@ -576,7 +711,7 @@ New model update from Qwen, improving on their previous <a href="https://simonwi
 <p>This new Qwen model is a non-reasoning model, whereas GLM-4.5 and GLM-4.5 Air are both reasoners. It looks like at this scale the "reasoning" may make a material difference in terms of getting code that works out of the box.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
 
 <br> 
 
@@ -849,7 +984,7 @@ Peak memory: 47.687 GB
 
 <p>Two years ago when I <a href="https://simonwillison.net/2023/Mar/11/llama/">first tried LLaMA</a> I never <em>dreamed</em> that the same laptop I was using then would one day be able to run models with capabilities as strong as what I'm seeing from GLM 4.5 Air - and Mistral 3.2 Small, and Gemma 3, and Qwen 3, and a host of other high quality models that have emerged over the past six months.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
 
 <br> 
 
@@ -1086,7 +1221,7 @@ Another day, another significant new open weight model release from a Chinese fr
 <p><strong>Update</strong>: Ivan released a 3 bit quantized version of GLM-4.5 Air which runs using 48GB of RAM on my laptop. I tried it and was <em>really</em> impressed, see <a href="https://simonwillison.net/2025/Jul/29/space-invaders/">My 2.5 year old laptop can write Space Invaders in JavaScript now</a>.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
 
 <br> 
 

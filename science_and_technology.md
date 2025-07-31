@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-07-30 14:07:33
+updated: 2025-07-31 06:08:23
 ---
 
 # science and technology
 
-(date: 2025-07-30 14:07:33)
+(date: 2025-07-31 06:08:23)
+
+---
+
+## NHS disability equipment provider on brink of collapse a year after cyberattack
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Government officials say they are monitoring the situation</h4> <p>A major supplier of healthcare equipment to the UK&#39;s National Health Service and local councils is on the verge of collapse 16 months after falling victim to cyber criminals.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/nhs_disability_equipment_provider_nears/>
+
+---
+
+## SpaceX Crew Dragon lofting next batch of 'nauts to ISS today
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Crew-11 prepares for liftoff on Musk rocket while Boeing&#39;s Calamity Capsule remains grounded</h4> <p>The next International Space Station (ISS) crew is set to launch today, commanded by an astronaut who gave up her Crew-9 seat to make way for the Boeing Starliner test team.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/crew_11_iss/>
+
+---
+
+## AWS Lambda loves charging for idle time: Vercel claims it found a way to dodge the bill
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Startup’s workaround reuses stuck compute slots to rein in runaway function costs</h4> <p>Vercel claims it&#39;s slashed AWS Lambda costs by up to 95 percent by reusing idle instances that would otherwise rack up charges while waiting on slow external services like LLMs or databases.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/aws_lambda_cost_nightmare/>
+
+---
+
+## Capgemini wins £107M HMRC extension – no competition needed
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Deal for legacy applications support reaches £322M as they continue to be decommissioned</h4> <p>UK tax collector His Majesty&#39;s Revenue and Customs (HMRC) has awarded Capgemini a £107 million support and services deal, without competition, under a relationship that started more than twenty years ago.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/capgemini_hmrc_extension/>
+
+---
+
+## Banning VPNs to protect kids? Good luck with that
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>UK&#39;s Online Safety Act kicks off about as well as everyone expected</h4> <p><strong>Analysis</strong>  With the UK&#39;s Online Safety Act (OSA) now in effect, it was only a matter of time before tech-savvy under-18s figured out how to bypass the rules and regain access to adult content.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/banning_vpns_to_protect_kids/>
+
+---
+
+## Bitter fight over 2020 Microsoft quantum paper both resolved and unresolved
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Ground control to Majorana</h4> <p><strong>Deep dive</strong>  The journal Science is preparing to remove an editorial expression of concern that cast doubt on a five-year-old Microsoft quantum computing research paper.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/microsoft_quantum_paper_science/>
+
+---
+
+## Internet exchange points are ignored, vulnerable, and absent from infrastructure protection plans
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Italian operator calls for lawmakers to wake up to the critical role played by peering</h4> <p>Internet Exchange Points are an underappreciated resource that all internet users rely on, but governments have unfortunately ignored them, despite their status as critical infrastructure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/ixp_resilience_call/>
+
+---
+
+## Qualcomm working on datacenter CPU and in ‘advanced discussions’ with hyperscaler
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>But may face competition in its core smartphone segment as Samsung says it’s found a premium handset-maker who wants its Exynos SoCs</h4> <p>Chip design firm Qualcomm says it’s in “advanced discussions” with a hyperscale customer who wants its silicon to use in datacenters but may lose a major mobile customer to Samsung.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/qualcomm_q3_samsung_q2_205/>
+
+---
+
+## Lethal Cambodia-Thailand border clash linked to cyber-scam slave camps
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Infosec issues spill into the real world and regional politics</h4> <p><strong>Analysis</strong>  Thai and Cambodian tensions relating to issues including cybersecurity concerns boiled over into a kinetic skirmish at the border last week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/thai_cambodia_war_cyberscam_links/>
+
+---
+
+## Trump officials float plan for Americans to share their medical data more freely
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Apple, Google, AI biggies, and for-profit insurance all eagerly rubbing their hands</h4> <p>The Trump administration and the US Centers for Medicare and Medicaid Services (CMS) have announced plans to begin building a new digital health information system, in collaboration with a growing list of private-sector companies. Dubbed the CMS Digital Health Ecosystem, the new program aims to make it easier for patients to access their own medical records and health data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/trump_medical_records_share/>
+
+---
+
+## The TSA likes facial recognition at airports. Passengers and politicians, not so much
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Few passengers are told they can opt out, and when they do, airport staff may push back</h4> <p>US lawmakers are trying to extend the use of facial recognition at airports, despite many airline passengers objecting to the practice.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/tsa_facial_recognition/>
+
+---
+
+## Alibaba admits Qwen3's hybrid-thinking mode was dumb
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Chinese e-commerce giant is going back to dedicated instruct and thinking-tuned models as they prioritize quality over convenience</h4> <p>One of the headline features of Alibaba&#39;s Qwen 3 family of models when they launched back in April was the ability to toggle between &#34;thinking&#34; and &#34;non-thinking&#34; modes on the fly.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/alibaba_qwen3_hybrid_thinking/>
+
+---
+
+## Microsoft hails cloud and AI revenue for boffo earnings
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>Azure numbers shared for the first time. No details about AI, however.</h4> <p>Microsoft on Wednesday reported better than expected revenue for the fourth quarter of its 2025 fiscal year, thanks to the company&#39;s booming cloud business and, allegedly, to AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/microsoft_hails_cloud_and_ai/>
+
+---
+
+## Radar problem caused mayhem in UK skies on Wednesday
+
+date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+
+<h4>The latest kerfuffle to stall flights in and out of Heathrow</h4> <p>Airlines canceled more than 100 flights across the UK on Wednesday after a &#34;technical issue&#34; with radar systems left air traffic controllers flummoxed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/30/uk_airspace_outage/>
 
 ---
 
@@ -179,7 +347,7 @@ date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
 
 ## Minnesota governor calls in the troops after St Paul cyberattack
 
-date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+date: 2025-07-30, updated: 2025-07-31, from: The Register (UK I.T. News)
 
 <h4>&#39;This was a deliberate, coordinated, digital attack&#39;</h4> <p>Minnesota Governor Tim Walz has activated the state&#39;s National Guard and declared a state of emergency in response to a cyberattack on the city of Saint Paul.…</p> 
 

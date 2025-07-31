@@ -1,11 +1,103 @@
 ---
 title: going electric
-updated: 2025-07-30 14:07:39
+updated: 2025-07-31 06:08:29
 ---
 
 # going electric
 
-(date: 2025-07-30 14:07:39)
+(date: 2025-07-31 06:08:29)
+
+---
+
+## Want To Get The Most EV Range? Here's Why You Should Consider Driving Slower
+
+date: 2025-07-31, from: Inside EVs News
+
+It's no secret that EVs use more power at higher speeds. But some are better at freeway driving than others.  
+
+<br> 
+
+<https://insideevs.com/news/767533/range-test-by-speed-kia/>
+
+---
+
+## Tesla Robotaxi Expands To San Francisco–With Drivers Behind The Wheel
+
+date: 2025-07-31, from: Inside EVs News
+
+It’s more taxi than robotaxi, at least for now. 
+
+<br> 
+
+<https://insideevs.com/news/767585/tesla-robotaxi-san-francisco-safety-driver/>
+
+---
+
+## Zero begins deliveries of its new low-cost electric motorcycles
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Zero-motorcycle-XB-XE-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After kicking off production <a href="https://electrek.co/2025/06/19/zero-announces-its-new-low-cost-electric-motorcycles-have-begun-production/">last month</a>, Zero Motorcycles has now officially begun deliveries of its highly anticipated X Line models. The first wave of customers is taking delivery of their new Zero XE and Zero XB electric motorcycles, marking a major milestone for the company’s push into more affordable off-road and adventure EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="zero-motorcycles" data-layer-viewtype="unknown" data-post-id="427586" href="https://electrek.co/2025/07/31/zero-begins-deliveries-of-its-new-low-cost-electric-motorcycles/#more-427586" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/zero-begins-deliveries-of-its-new-low-cost-electric-motorcycles/>
+
+---
+
+## Here’s Your Chance To Buy A Rare EV With Over 350 Miles Of Range At Half Price
+
+date: 2025-07-31, from: Inside EVs News
+
+Remember the Fisker Ocean? There are still dealers out there with brand-new models in stock, and they can’t wait to get rid of them. 
+
+<br> 
+
+<https://insideevs.com/news/767564/fisker-ocean-inventory-sale-half-price/>
+
+---
+
+## Cadillac Fixed The Lyriq’s Jerky Charge Door, But Now There’s A New Problem
+
+date: 2025-07-31, from: Inside EVs News
+
+The Lyriq’s motorized charge port door used to open like it had never been oiled. Now, it’s smooth as butter. 
+
+<br> 
+
+<https://insideevs.com/news/767555/cadillac-lyriq-charge-port-door-update/>
+
+---
+
+## Windrose lines up $60M electric semi truck order PLUS South American expansion
+
+date: 2025-07-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/windrose-greenlane.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s a big day for upstart electric semi truck manufacturer Windrose. The company has lined up what could be a landmark, $60 million deal <em>and</em> announced plans to being shipping its innovative HDEV trucks to South America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chile,electric-semi-truck,windrose" data-layer-viewtype="unknown" data-post-id="427569" href="https://electrek.co/2025/07/30/windrose-lines-up-60m-electric-semi-truck-order-plus-south-american-expansion/#more-427569" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/30/windrose-lines-up-60m-electric-semi-truck-order-plus-south-american-expansion/>
+
+---
+
+## ‘Model T Moment’: Ford To Unveil Plans For Next-Gen EV On August 11
+
+date: 2025-07-30, from: Inside EVs News
+
+Ford CEO Jim Farley said plans for a "breakthrough" electric vehicle will be revealed in August. 
+
+<br> 
+
+<https://insideevs.com/news/767532/ford-ev-reveal-model-t-moment-august-11/>
 
 ---
 
@@ -29,7 +121,7 @@ date: 2025-07-30, from: Electrek Feed
 
 date: 2025-07-30, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600" /></div><p>Tesla is about to tumble off a familiar policy cliff. The $7,500 federal tax credit that juiced demand for electric vehicles in the US, Tesla’s last large, healthy market, after September 30, 2025. Tesla has been here before, but the ground underneath the company looks very different today. </p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600" /></div><p>Tesla is about to tumble off a familiar policy cliff. The $7,500 federal tax credit that juiced demand for electric vehicles in the US, Tesla’s last large, healthy market, ends after September 30, 2025. Tesla has been here before, but the ground underneath the company looks very different today.</p>
 
 
 

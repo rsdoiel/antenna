@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-07-30 14:07:30
+updated: 2025-07-31 06:08:20
 ---
 
 # north america
 
-(date: 2025-07-30 14:07:30)
+(date: 2025-07-31 06:08:20)
+
+---
+
+## Democrats Catch a Break in North Carolina
+
+date: 2025-07-31, from: The Contrarian
+
+Roy Cooper can flip the Senate seat 
+
+<br> 
+
+<https://contrarian.substack.com/p/democrats-catch-a-break-in-north>
+
+---
+
+##  Trump’s New Merger Scandal Is Swampier Than Watergate 
+
+date: 2025-07-31, from: The Lever News
+
+ After hiring MAGA lawyers, a tech giant got its antitrust case settled, and monopoly cops were fired. Can a Nixon-era law save the day?  
+
+<br> 
+
+<https://www.levernews.com/trumps-new-merger-scandal-is-swampier-than-watergate/>
+
+---
+
+## Evening Roundup, July 30
+
+date: 2025-07-30, from: The Contrarian
+
+Featuring Jennifer Weiss-Wolf, Mary McCord & Jen Rubin, Shalise Manza Young, Maria Peralta, Brian O'Neill, Ilan Goldenberg & Jen Rubin, & RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-30>
+
+---
+
+## Live with Jen Rubin on the crisis in Gaza and the fight for democracy
+
+date: 2025-07-30, from: The Contrarian
+
+A recording from Jennifer Rubin and Ilan Goldenberg's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169697405/45f152a619e89068bb25e970b5a67640.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169697405/45f152a619e89068bb25e970b5a67640.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/live-with-jen-rubin-on-the-crisis>
+
+---
+
+## Attacks against the judiciary have become the new normal: Mary McCord on the state of the Justice Department
+
+date: 2025-07-30, from: The Contrarian
+
+"We've seen how vulnerable the system is when people don't care." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169682490/6a3be29690b54afbab80422c012029c5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169682490/6a3be29690b54afbab80422c012029c5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/attacks-against-the-judiciary-have>
 
 ---
 

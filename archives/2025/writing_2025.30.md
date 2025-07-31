@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-07-30 14:07:35
+updated: 2025-07-31 06:08:25
 ---
 
 # writing
 
-(date: 2025-07-30 14:07:35)
+(date: 2025-07-31 06:08:25)
+
+---
+
+## Scriptnotes, Episode 695: Advice to a Young Film Student (with Scott Frank), Transcript
+
+date: 2025-07-30, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hey, this is John. A standard warning for people who are in the car with their kids, there’s some swearing in this episode. [music] John: Hello and welcome. My name is John August. Craig Mazin: Umm. My name is Craig Mazin. John: You’re [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-695-advice-to-a-young-film-student-with-scott-frank-transcript">Scriptnotes, Episode 695: Advice to a Young Film Student (with Scott Frank), Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-695-advice-to-a-young-film-student-with-scott-frank-transcript>
 
 ---
 

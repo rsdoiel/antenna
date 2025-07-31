@@ -1,11 +1,142 @@
 ---
 title: columns
-updated: 2025-07-30 14:07:34
+updated: 2025-07-31 06:08:24
 ---
 
 # columns
 
-(date: 2025-07-30 14:07:34)
+(date: 2025-07-31 06:08:24)
+
+---
+
+## Cheating on Quantum Computing Benchmarks
+
+date: 2025-07-31, updated: 2025-07-30, from: Bruce Schneier blog
+
+<p>Peter Gutmann and Stephan Neuhaus have a <a href="https://eprint.iacr.org/2025/1237.pdf">new paper</a>&#8212;I think it&#8217;s new, even though it has a March 2025 date&#8212;that makes the argument that we shouldn&#8217;t trust any of the quantum factorization  benchmarks, because everyone has been cooking the books:</p>
+<blockquote><p>Similarly, quantum factorisation is performed using sleight-of-hand numbers that have been selected to make them very easy to factorise using a physics experiment and, by extension, a VIC-20, an abacus, and a dog. A standard technique is to ensure that the factors differ by only a few bits that can then be found using a simple search-based approach that has nothing to do with factorisation&#8230;. Note that such a value would never be encountered in the real world since the RSA key generation process typically requires that &#124;p-q&#124; &#62; 100 or more bits [9]. As one analysis puts it, &#8220;Instead of waiting for the hardware to improve by yet further orders of magnitude, researchers began inventing better and better tricks for factoring numbers by exploiting their hidden structure&#8221; [10]...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/07/cheating-on-quantum-computing-benchmarks.html>
+
+---
+
+## The Fine Print of Trump Fascism
+
+date: 2025-07-31, from: Robert Reich's blog
+
+The Trump regime is taking over every major institution in America. Here's how. 
+
+<br> 
+
+<https://robertreich.substack.com/p/this-is-what-fascist-control-looks>
+
+---
+
+## option parsing in curl
+
+date: 2025-07-31, from: Daniel Stenberg Blog
+
+We have always had a custom command line option parser in curl. It is fast and uncomplicated and gives us the perfect mix of flexibility and function. It also saves us from importing or using code with another license. In one aspect it has behaved slightly different than many other command line parsers: the way &#8230; <a href="https://daniel.haxx.se/blog/2025/07/31/option-parsing-in-curl/" class="more-link">Continue reading <span class="screen-reader-text">option parsing in curl</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/07/31/option-parsing-in-curl/>
+
+---
+
+## July 30, 2025
+
+date: 2025-07-31, from: Heather Cox Richardson blog
+
+On July 2, 2024, just about a year ago, president of the right-wing Heritage Foundation Kevin Roberts told the listeners of Steve Bannon&#8217;s War Room webcast: &#8220;[W]e are going to win. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-30-2025>
+
+---
+
+## Decoding Zuck’s Superintelligence Memo
+
+date: 2025-07-31, from: Om Malik blog
+
+Mark Zuckerberg, the chief executive of Meta (aka the company formerly known as Facebook), has published a memorandum about &#8220;superintelligence&#8221; and what it will mean not only for his company but for the world and society at large. It has had a wide variety of reactions ranging from delight to derision. As is normally the case, every single time I come &#8230; 
+
+<br> 
+
+<https://om.co/2025/07/30/decoding-zucks-superintelligence-memo/>
+
+---
+
+##  The Wirecutter&#8217;s list of the best canned cocktails. Very interested to hear... 
+
+date: 2025-07-31, updated: 2025-07-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047253-the-wirecutters-list-of-t>
+
+---
+
+##  How to Leave Substack. &#8220;Unfortunately, Substack willingly platforms, and allows bad actors... 
+
+date: 2025-07-31, updated: 2025-07-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047251-how-to-leave-substack-unf>
+
+---
+
+##  &#8220;Israel has deliberately starved the people of Gaza. It couldn&#8217;t have done... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047252-israel-has-deliberately-s>
+
+---
+
+##  Photos: Starvation and Chaos in Gaza. &#8220;Israel&#8217;s blockade of most food and... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047250-photos-starvation-and-cha>
+
+---
+
+##  A compilation of super hero landings from the Marvel Cinematic Universe.... 
+
+date: 2025-07-30, updated: 2025-07-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047242-a-compilation-of-super-he>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-07-30, from: Dave Winer's Scripting News)
+
+I abhor body shaming even if it's of someone whose ideas I find unacceptable. 
+
+<br> 
+
+<http://scripting.com/2025/07/30.html#a211235>
 
 ---
 
