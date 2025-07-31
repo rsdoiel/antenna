@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-07-31 06:08:26
+updated: 2025-07-31 14:07:37
 ---
 
 # journalism
 
-(date: 2025-07-31 06:08:26)
+(date: 2025-07-31 14:07:37)
+
+---
+
+## Three students face conduct charges following inauguration protest
+
+date: 2025-07-31, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental Students for Justice in Palestine (Oxy SJP) held a press conference July 29 in front of the entrance to the college to publicize and protest charges brought by Occidental to three students following the April 25 protest at President Tom Stritikus’s inauguration. Roughly 30 people were in attendance, including reporters from KTLA5 and ABC7, [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/07/31/three-students-face-conduct-charges-following-inauguration-protest/2915195">Three students face conduct charges following inauguration protest</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/07/31/three-students-face-conduct-charges-following-inauguration-protest/2915195>
+
+---
+
+## LA City Council adopts anticamping resolution despite NWWNC pushback
+
+date: 2025-07-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council adopted an anticamping resolution in May that seeks to limit homelessness in Westwood, despite pushback from the North Westwood Neighborhood Council. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/31/la-city-council-adopts-anticamping-resolution-despite-nwwnc-pushback/>
+
+---
+
+## Missouri’s oldest Black bookstore just closed. The Kansas City Defender plans to reopen it as a newsroom and public archive.
+
+date: 2025-07-31, from: Nieman Journalism Lab
+
+Willa Robinson has loved to read since she was a child. It’s a passion passed down from her father, who “read everything” and tended to fall asleep on Sunday afternoons with the newspaper over his face, she told me. The 84-year-old Robinson first began collecting books in the late 1970s, when she would spend her... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/07/missouris-oldest-black-bookstore-just-closed-the-kansas-city-defender-plans-to-reopen-it-as-a-newsroom-and-public-archive/>
 
 ---
 

@@ -1,11 +1,183 @@
 ---
 title: going electric
-updated: 2025-07-31 06:08:29
+updated: 2025-07-31 14:07:40
 ---
 
 # going electric
 
-(date: 2025-07-31 06:08:29)
+(date: 2025-07-31 14:07:40)
+
+---
+
+## An electric Subaru BRZ? Don’t rule out an EV version just yet
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Subaru-BRZ-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Subaru BRZ may live on as an EV after all. <a href="https://electrek.co/guides/subaru/">Subaru</a> wants its share of the sports car market, and an electric BRZ could hit the sweet spot.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="427697" href="https://electrek.co/2025/07/31/electric-subaru-brz-dont-rule-out-an-ev-version-yet/#more-427697" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/electric-subaru-brz-dont-rule-out-an-ev-version-yet/>
+
+---
+
+## Nissan is getting ready for the new LEAF EV with a one-stop clean energy shop
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Nissan-EV-shop.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new <a href="https://electrek.co/guides/nissan-leaf/">Nissan LEAF</a> will arrive at dealerships this fall, and to go with it, the company has introduced a new one-stop shop for EV chargers and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="427668" href="https://electrek.co/2025/07/31/nissan-preps-new-leaf-ev-with-one-stop-clean-energy-shop/#more-427668" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/nissan-preps-new-leaf-ev-with-one-stop-clean-energy-shop/>
+
+---
+
+## The world pledged to triple renewables by 2030 – but it’s all talk so far
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/WindEurope-Autumn-2024.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Two years after world leaders pledged to triple global renewable energy capacity by 2030, a new report shows that most countries still aren’t planning like they mean it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,renewables,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="427680" href="https://electrek.co/2025/07/31/the-world-pledged-to-triple-renewables-by-2030-but-its-all-talk-so-far/#more-427680" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/the-world-pledged-to-triple-renewables-by-2030-but-its-all-talk-so-far/>
+
+---
+
+## ENGWE Engine Pro 2.0 e-bike at exclusive new $750 low, Anker eufy S220 solar cam $65, Linkind smart solar spotlights from $23, more
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/ENGWE-Engine-Pro-2.0-Folding-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Leading today’s pack of Green Deals is an exclusive 50% discount for our readers on the <a href="https://9to5toys.com/2025/07/30/exclusive-engwe-engine-pro-2-0-e-bike-new-749-50-low/">ENGWE Engine Pro 2.0 Folding e-bike at a new $749.50 low</a>. Right behind it we have <a href="https://9to5toys.com/2025/07/31/anker-solar-eufy-solocam-s220-65-more/">Anker’s eufy SoloCam S220 Solar Security Camera starting at $65</a>, with some multi-pack discounts also available, as well as <a href="https://9to5toys.com/2025/07/31/linkind-smart-solar-spotlights-from-23/">multi-packs of Linkind’s Smart Solar Spotlights starting from $23</a>. From there we have a 3-in-1 tool bundle with replacement parts from Worx, a 60V 610 CFM cordless leaf blower from Greenworks, and more waiting for you below. Plus, all the hangover savings at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/07/30/ecovacs-goat-rtk-robot-lawn-mowers-from-850-low/">ECOVACS Goat RTK robot lawn mower</a> low price, <a href="https://9to5toys.com/2025/07/30/rad-power-radwagon-4-cargo-e-bike-1499/">Rad Power’s RadWagon 4 cargo e-bike</a> discount, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="427646" href="https://electrek.co/2025/07/31/engwe-engine-pro-2-0-e-bike-anker-eufy-linkind-more/#more-427646" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/engwe-engine-pro-2-0-e-bike-anker-eufy-linkind-more/>
+
+---
+
+## BYD cuts Yuan Up EV prices to just $10,500 with a new ‘Pilot’ model
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/BYD-Yuan-Up-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>To celebrate 1.5 million in sales, <a href="https://electrek.co/guides/byd/">BYD</a> launched a new Yuan Up “Pilot” EV edition on Thursday with prices now starting at under $10,500.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-yuan-up" data-layer-viewtype="unknown" data-post-id="427640" href="https://electrek.co/2025/07/31/byd-cuts-yuan-up-ev-prices-to-just-10500-new-pilot-model/#more-427640" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/byd-cuts-yuan-up-ev-prices-to-just-10500-new-pilot-model/>
+
+---
+
+## Chinese Brands Are Really Killing It In Europe
+
+date: 2025-07-31, from: Inside EVs News
+
+Some brands like BYD and Xpeng grew more than 100% in a year. But some, like battery-swpping Nio, haven't found their footing yet. 
+
+<br> 
+
+<https://insideevs.com/news/767624/china-car-sales-h1-europe/>
+
+---
+
+## Tesla’s new Model Y Performance spotted testing
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Tesla-Model-Y-Performance-prototype-spotted-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A Tesla Model Y Performance prototype was spotted testing in California ahead of its launch in the US, which is expected soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="427621" href="https://electrek.co/2025/07/31/tesla-new-model-y-performance-spotted-testing/#more-427621" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/tesla-new-model-y-performance-spotted-testing/>
+
+---
+
+## The Toyota Highlander is finally getting an EV and it’s coming soon
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/2026-Toyota-bZ-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> is “loading the bases” with a wave of new fully electric, hybrid, and plug-in hybrid vehicles set to launch over the next few months. The long-awaited Toyota Highlander EV is finally about to make its first appearance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="427617" href="https://electrek.co/2025/07/31/toyota-highlander-finally-getting-ev-coming-soon/#more-427617" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/toyota-highlander-finally-getting-ev-coming-soon/>
+
+---
+
+## Tesla’s Robotaxis are officially powered by human drivers as it launches ride-hailing in Bay Area
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s ‘Robotaxi’ is now blatantly operated by human drivers as the automaker launches a ride-hailing service in the Bay Area through its ‘Robotaxi’ app.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="427595" href="https://electrek.co/2025/07/31/teslas-robotaxis-officially-powered-by-human-drivers-as-it-launches-ride-hailing-bay-area/#more-427595" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/teslas-robotaxis-officially-powered-by-human-drivers-as-it-launches-ride-hailing-bay-area/>
+
+---
+
+## Hyundai and Kia just got some relief from US tariffs, but billions are still at stake
+
+date: 2025-07-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-US-tariffs-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai said the new trade agreement was a “historic achievement” between the US and South Korea. Although <a href="https://electrek.co/guides/hyundai/">Hyundai Motor</a>, including Kia and Genesis, is getting some relief with lower US tariffs, it’s still expected to face billions in extra costs this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-motor-group,kia" data-layer-viewtype="unknown" data-post-id="427590" href="https://electrek.co/2025/07/31/hyundai-kia-score-us-tariff-win-but-billions-still-at-stake/#more-427590" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/31/hyundai-kia-score-us-tariff-win-but-billions-still-at-stake/>
+
+---
+
+## The 'Toyota Prius' Era of Hybrids Is Now Long Gone
+
+date: 2025-07-31, from: Inside EVs News
+
+Lamborghini proves that hybrids are going mainstream—and fast. Plus, lithium prices are crashing, and Tesla starts charging more for Robotaxi rides. 
+
+<br> 
+
+<https://insideevs.com/news/767485/lamborghini-hybrid-only-lineup-right/>
 
 ---
 

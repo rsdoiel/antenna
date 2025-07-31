@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-07-31 06:08:27
+updated: 2025-07-31 14:07:38
 ---
 
 # libraries
 
-(date: 2025-07-31 06:08:27)
+(date: 2025-07-31 14:07:38)
 
 ---
 
@@ -250,6 +250,20 @@ Nisi, A. Valentina; Arnold, Myrtha M.L.; Blonde, Ginger D.; Schier, Lindsey A.; 
 
 ---
 
+## ARL Celebrates Disability Pride Month 2025
+
+date: 2025-07-31, from: Association of Research Libraries News
+
+<p>Last Updated on July 31, 2025, 3:38 pm ET Like many others, the rights and liberties of our disabled friends were not an automatic phenomenon—it took the work of generations...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-celebrates-disability-pride-month-2025/">ARL Celebrates Disability Pride Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-celebrates-disability-pride-month-2025/>
+
+---
+
 ## Guest Post — Well-meant Is Not Well-done:  A Reply to “European Accessibility Act: Navigating the Challenges of EAA Compliance”
 
 date: 2025-07-31, from: Scholarly Kitchen
@@ -285,6 +299,18 @@ Maas, Jonas Matthias; Wittel, Falk K.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/748801>
+
+---
+
+## Measuring and Improving Fairness and Resilience Across the Blockchain Ecosystem
+
+date: 2025-07-31, from: ETH Zurich, recently added
+
+Heimbach, Lioba 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/749263>
 
 ---
 
@@ -370,7 +396,7 @@ date: 2025-07-29, from: Scholarly Kitchen
 
 date: 2025-07-28, from: Association of Research Libraries News
 
-<p>Last Updated on July 30, 2025, 3:01 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 29 &#124; Wednesday, July 30 &#124; Thursday,...</p>
+<p>Last Updated on July 31, 2025, 2:49 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, July 29 &#124; Wednesday, July 30 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-july-28-31/">Day in Review (July 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,109 @@
 ---
 title: north america
-updated: 2025-07-31 06:08:20
+updated: 2025-07-31 14:07:31
 ---
 
 # north america
 
-(date: 2025-07-31 06:08:20)
+(date: 2025-07-31 14:07:31)
+
+---
+
+##  How Big Tech Powered A Justice Department Coup 
+
+date: 2025-07-31, from: The Lever News
+
+ After a secret lobbying effort, Trump’s Justice Department ousted staff and reversed course on Hewlett Packard Enterprise’s proposed megamerger.  
+
+<br> 
+
+<https://www.levernews.com/how-big-tech-powered-a-justice-department-coup/>
+
+---
+
+## Split Screen: Michelle Obama and the double bind
+
+date: 2025-07-31, from: The Contrarian
+
+Black women's emotions, fashion, and authority are questioned visually, reinforcing troubling stereotypes. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-michelle-obama-and-the>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-07-31, from: The Contrarian
+
+Thursday: A CBS protest in New York, an ICE protest in Maryland, supporting rent control in Massachusetts, a Beto O'Rourke rally in Texas, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+##  Guilty By Chatbot 
+
+date: 2025-07-31, from: The Lever News
+
+ Judges appear to be using artificial intelligence to issue rulings — and the errors are adding up.  
+
+<br> 
+
+<https://www.levernews.com/guilty-by-chatbot/>
+
+---
+
+## Unplanned Parenthood and Other Horrors Confront Medi-Cal Patients
+
+date: 2025-07-31, from: Capital and Main
+
+<p>Attorney General Rob Bonta has joined a national lawsuit to halt Republicans’ war on Californians.</p>
+<p>The post <a href="https://capitalandmain.com/unplanned-parenthood-and-other-horrors-confront-medi-cal-patients">Unplanned Parenthood and Other Horrors Confront Medi-Cal Patients</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/unplanned-parenthood-and-other-horrors-confront-medi-cal-patients>
+
+---
+
+## The media’s geographic bias strikes again
+
+date: 2025-07-31, from: The Contrarian
+
+A lone shooter in New York leads to nonstop coverage, while other shootings are ignored. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-medias-geographic-bias-strikes>
+
+---
+
+## Coffee with The Contrarians 07/31
+
+date: 2025-07-31, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 7/31 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0731>
+
+---
+
+## We shouldn’t just shrug at Trump’s latest effort to use his office for personal gain
+
+date: 2025-07-31, from: The Contrarian
+
+The president and his economic and financial teams have made move after move in the past six months to pump crypto. 
+
+<br> 
+
+<https://contrarian.substack.com/p/we-shouldnt-just-shrug-at-trumps>
 
 ---
 
@@ -70,18 +168,6 @@ date: 2025-07-30, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/169682490/6a3be29690b54afbab80422c012029c5.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/attacks-against-the-judiciary-have>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-30, from: The Contrarian
-
-Wednesday: Tesla protests, Sweden joins in, the weekend ahead, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

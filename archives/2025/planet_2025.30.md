@@ -1,11 +1,179 @@
 ---
 title: planet
-updated: 2025-07-31 06:08:17
+updated: 2025-07-31 14:07:30
 ---
 
 # planet
 
-(date: 2025-07-31 06:08:17)
+(date: 2025-07-31 14:07:30)
+
+---
+
+## Trump to build ballroom at White House
+
+date: 2025-07-31, from: RTÉ News
+
+US President Donald Trump plans to build a ballroom at the White House as he pushes forward with remodeling the US executive mansion, his spokeswoman said Thursday. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0731/1526421-white-house-ballroom/>
+
+---
+
+## 'They just ruined me' - Dublin torture survivor speaks out
+
+date: 2025-07-31, from: RTÉ News
+
+A mother who was brutally tortured in a flat in Dublin's north inner city has said her life has been ruined by the men who attacked her over the course of three hours last September. 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0731/1526415-they-just-ruined-me-dublin-torture-survivor-speaks-out/>
+
+---
+
+## Country urged to get behind ladies' teams before final
+
+date: 2025-07-31, from: RTÉ News
+
+Supporters of the ladies' football teams from Co Meath and Dublin have urged the country to get behind both sides as the sport continues to grow in popularity across the country. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526406-ladies-football-finals/>
+
+---
+
+## Govt should combat 'smear campaigns' against OTB - report
+
+date: 2025-07-31, from: RTÉ News
+
+The Government should consider putting in place resources to address international "smear" campaigns against the Occupied Territories Bill - including taking "proactive" EU, UN and US steps to address "misinformation" over the legislation 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0731/1526409-occupied-territories-bill/>
+
+---
+
+## Number of Roads Policing gardaí not doing jobs - report
+
+date: 2025-07-31, from: RTÉ News
+
+The chairperson of the Policing and Community Safety Authority has described as "shocking" a report which shows that a substantial number of gardaí assigned to Roads Policing are not doing their jobs and have no interest in doing them. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526401-garda-crowe-report/>
+
+---
+
+## Soc Dems Senator defends decision to end TD's suspension
+
+date: 2025-07-31, from: RTÉ News
+
+Social Democrats Senator Patricia Stephenson has defended her party leadership's decision to end Eoin Hayes TD's suspension over his previous shares in a US tech firm with Israeli defence forces contracts. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526398-eoin-hayes-suspension/>
+
+---
+
+## Akwesasne artist wins juried art show with salute to ironworkers
+
+date: 2025-07-31, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7597813.1753909001!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/karhatiron-perkins.jpg' alt='A man stands behind a broze statue with several men sitting on a steel beam. There are nine iron workers sitting on a beam their heads are the nineHaudenosaunee clans.  ' width='620' height='349' title='Karhatiron Perkins won the top prize at the Awkesasne 2025 juried show for his Lunch on a Highbeam statue. '/><p>An Akwesasne artist's sculpture celebrating Kanien'kehá:ka (Mohawk) ironworkers won the top prize at his community's juried art show and market last weekend. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/akwesasne-art-show-winner-ironworkers-1.7597804?cmp=rss>
+
+---
+
+## Mother of Seán Rooney says Lebanon trial 'not justice'
+
+date: 2025-07-31, from: RTÉ News
+
+The mother of slain Irish peacekeeper Private Seán Rooney has criticised the Lebanese trial that convicted and sentenced those involved in his killing this week. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526390-natasha-rooney/>
+
+---
+
+## Trump's EPA wants to reverse course on dangers of GHG emissions, disrupting industries, climate goals
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598788.1753989205!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/factory-emissions-20250109.jpg' alt='Emissions coming out of a factory smokestack' width='620' height='349' title='Emissions flow from a factory&apos;s smokestacks on a cold winter day in Toronto, Wednesday, Jan. 8, 2025. '/><p>The Trump administration plans to rescind a long-standing finding by the Environmental Protection Agency that greenhouse gas emissions endanger human health. It would end limits on pollution from vehicle tailpipes, power plants, smokestacks and other sources.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/epa-trump-greenhouse-gas-emissions-1.7598717?cmp=rss>
+
+---
+
+## Harris to hold talks with NI Executive on US trade deals
+
+date: 2025-07-31, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs and Trade Simon Harris is to hold talks with the leaders of the Northern Ireland Executive this evening on the trade deals with the US. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0731/1526383-eu-trade-talks/>
+
+---
+
+## Watch: 'I can finally move on' - Nikita Hand after ruling
+
+date: 2025-07-31, from: RTÉ News
+
+Nikita Hand has said the court "appeal retraumatised" her but that she can "finally move on" now after Conor McGregor lost his appeal today. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526376-nikita-hand-court/>
+
+---
+
+## EU wine, spirits to face 15% US tariff from August 1
+
+date: 2025-07-31, from: RTÉ News
+
+European wine and spirits will face a 15% US import tariff until a different deal is agreed in talks expected to continue in the autumn, the European Commission and EU diplomats said today, dashing producers' hopes of an immediate reprieve. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0731/1526366-eu-wine-spirits-to-face-15-us-tariff-from-august-1/>
+
+---
+
+## US man jailed for five years over rape of woman in Dublin
+
+date: 2025-07-31, from: RTÉ News
+
+A 32-year-old man who was extradited to Ireland from the United States has been sentenced to five years in prison after pleading guilty to raping a woman in Dublin seven years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526321-kevin-yungman-court/>
+
+---
+
+## Trump renews attack on Fed chair after rates held again
+
+date: 2025-07-31, from: RTÉ News
+
+The US President has attacked the head of the country's central bank again, a day after the Federal Reserve voted to keep its key lending rate steady for the fifth month in a row. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0731/1526346-trump-powell/>
 
 ---
 
@@ -21,6 +189,18 @@ The Court of Appeal will give its decision this afternoon on an appeal by former
 
 ---
 
+## Conor McGregor loses appeal over jury's finding of rape
+
+date: 2025-07-31, from: RTÉ News
+
+Conor McGregor has lost his appeal against a High Court jury's finding that he raped Nikita Hand. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526261-conor-mcgregor-court/>
+
+---
+
 ## Man jailed over rape of Spanish tourist in Dublin
 
 date: 2025-07-31, from: RTÉ News
@@ -30,6 +210,90 @@ A man who raped a Spanish tourist in a Dublin city centre street during New Year
 <br> 
 
 <https://www.rte.ie/news/courts/2025/0731/1526334-rape-dublin/>
+
+---
+
+## Man jailed for rape of Spanish tourist in Dublin
+
+date: 2025-07-31, from: RTÉ News
+
+A man who raped a Spanish tourist in a Dublin city centre street during New Year's Eve celebrations six years ago has been given a seven year sentence with the final six months suspended. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0731/1526334-christopher-ogrady-court/>
+
+---
+
+## Trade critical to ending plastic pollution
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+Trade must be part of the solution to end plastic pollution – a global problem which disproportionately affects developing countries. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165545>
+
+---
+
+## ‘Delivering better’: New ECOSOC president emphasises climate action, food security
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165544>
+
+---
+
+## Angola protests: UN urges restraint, investigations into deaths
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+What began as protests against fuel price hikes in Angola have escalated into deadly unrest across the country, with at least 22 people killed and more than 1,000 detained, prompting calls from the UN for restraint and urgent investigations into possible rights violations by security forces. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165542>
+
+---
+
+## Russian attack on Ukrainian capital kills at least 11 civilians
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+At least 11 civilians were killed and over 130 injured in Russian strikes overnight in Ukraine’s capital Kyiv, the UN Human Rights Monitoring Mission in the country, HRMMU, reported on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165540>
+
+---
+
+## SECURITY COUNCIL LIVE: Meeting on the situation in Ukraine
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+The UN Security Council met on Thursday morning to discuss threats to international peace and security, with a focus on the situation in Ukraine. The meeting was requested by Russia. Follow our live updates as UN News, in coordination with UN Meetings Coverage, brings you key highlights and takeaways from today’s session. UN News app users can follow the coverage here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165539>
+
+---
+
+## On brink of famine, Gazans forced to scour dirt for food
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+In Gaza, UN aid teams continued their efforts on Thursday to help people of the war-shattered enclave by retrieving urgently needed fuel and other supplies from the Kerem Shalom crossing in the south of the Strip. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165538>
 
 ---
 
@@ -97,6 +361,18 @@ The Data Protection Commission has launched a new 'Adult Safeguarding Toolkit' t
 
 ---
 
+## New toolkit for protecting data of vulnerable adults
+
+date: 2025-07-31, from: RTÉ News
+
+The Data Protection Commission has launched a new 'Adult Safeguarding Toolkit' to provide organisations and individuals with guidance and resources to protect the personal data of vulnerable adults 
+
+<br> 
+
+<https://www.rte.ie/news/technology/2025/0731/1526306-data-protection-adults/>
+
+---
+
 ## Food prices up an estimated 4.6% in July - CSO
 
 date: 2025-07-31, from: RTÉ News
@@ -149,6 +425,18 @@ US special envoy Steve Witkoff has arrived in Israel in a bid to salvage Gaza ce
 
 ---
 
+## US envoy Witkoff to enter Gaza, inspect aid distribution
+
+date: 2025-07-31, from: RTÉ News
+
+US President Donald Trump's Middle East envoy Steve Witkoff and ambassador to Israel Mike Huckabee will enter Gaza tomorrow to inspect aid distribution and meet with residents of the territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0731/1526296-israel-gaza/>
+
+---
+
 ## St John Henry Newman set to become newest Doctor of the Church
 
 date: 2025-07-31, from: Vatican News
@@ -193,11 +481,23 @@ date: 2025-07-31, from: Vatican News
 
 ---
 
-## Search of open land in Wexford in Fiona Sinnott inquiry
+## Turbulence injures 25 passengers on Delta flight, forces plane to land
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598293.1753964885!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/delta-turbulence.jpg' alt='A plane is shown flying midair. It says Delta on the side. ' width='620' height='349' title='FILE - A Delta Airlines plane lands at Sarasota-Bradenton International Airport Friday, March 28, 2025.'/><p>A Delta Air Lines flight from Salt Lake City to Amsterdam was hit by serious turbulence, sending 25 passengers to hospitals and forcing the flight to divert to Minneapolis-St. Paul International Airport, the airline said.   </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/turbulence-delta-injuries-1.7598288?cmp=rss>
+
+---
+
+## Gardaí conclude Wexford search in Fiona Sinnott inquiry
 
 date: 2025-07-31, from: RTÉ News
 
-A search is being carried out in Co Wexford as part of the investigation in the disappearance and murder of Fiona Sinnott in 1998. 
+Gardaí investigating the disappearance of Fiona Sinnott have concluded their search of an area in Co Wexford for today. 
 
 <br> 
 
@@ -229,6 +529,18 @@ A motorcyclist in his 20s has died in a road crash in Co Waterford.
 
 ---
 
+## Can the UK child-proof the internet?
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7158682.1753910996!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cell-phones.jpg' alt='Two young teenage girls sitting holding smartphones in their hands.' width='620' height='349' title='Two young teenage girls sitting holding smartphones in their hands. '/><p>The age-verified internet has arrived in the UK, courtesy of the country’s new online safety rules aimed at protecting children. We tackle the pros, cons, and unintended consequences of the legislation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/frontburner/can-the-uk-child-proof-the-internet-1.7597758?cmp=rss>
+
+---
+
 ## President leads tributes to 'iconic voice' Seán Rocks
 
 date: 2025-07-31, from: RTÉ News
@@ -241,11 +553,11 @@ President Michael D Higgins has led the tributes to broadcaster and actor Seán 
 
 ---
 
-## Trump says U.S. will set 15% tariff on South Korean imports under new deal
+## U.S. extends trade deal with Mexico, sets tariffs for South Korea, Brazil as Trump's deadline nears
 
 date: 2025-07-31, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7598262.1753956327!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-southkorea.JPG' alt='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy.' width='620' height='349' title='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy near the U.S. embassy in Seoul, South Korea, July 31, 2025.    REUTERS/Kim Hong-Ji     TPX IMAGES OF THE DAY'/><p>President Donald Trump said on Wednesday the U.S. will charge a 15 per cent tariff on imports from South Korea, down from a threatened 25 per cent, as part of a deal that eases tensions with a top-10 trading partner and key Asian ally.</p> 
+<img src='https://i.cbc.ca/1.7598262.1753956327!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-southkorea.JPG' alt='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy.' width='620' height='349' title='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy near the U.S. embassy in Seoul, South Korea, July 31, 2025.    REUTERS/Kim Hong-Ji     TPX IMAGES OF THE DAY'/><p>While a handful of trade deals have trickled in -- including 15 per cent for South Korea and an extension of current rates for Mexico --many details remain hazy, leaving businesses and manufacturers around the world bracing for more price hikes regardless.</p> 
 
 <br> 
 
@@ -265,11 +577,11 @@ date: 2025-07-31, from: RTÉ News
 
 ---
 
-## Russian missile, drone attacks hit Kyiv, killing 8 people and wounding 82
+## Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 130
 
 date: 2025-07-31, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7598254.1753953948!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A woman embraces another woman in front of the site of an airstrike at an apartment building.' width='620' height='349' title='A woman embraces a person as she waits for her son to be rescued from under the debris, at the site of an apartment building hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko     TPX IMAGES OF THE DAY'/><p>Russia attacked Ukraine's capital with missiles and drones overnight, killing at least eight people, including a six-year-old boy, and wounding 82 others, Ukrainian authorities said Thursday.</p> 
+<img src='https://i.cbc.ca/1.7598254.1753953948!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A woman embraces another woman in front of the site of an airstrike at an apartment building.' width='620' height='349' title='A woman embraces a person as she waits for her son to be rescued from under the debris, at the site of an apartment building hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko     TPX IMAGES OF THE DAY'/><p>Russian missile and drone attacks overnight on Ukraine's capital killed at least 13 people, including a six-year-old boy, and wounded 132 others, authorities said Thursday.</p> 
 
 <br> 
 
@@ -358,6 +670,30 @@ date: 2025-07-31, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/indigenous/six-nations-indigenous-art-exhibit-1.7597299?cmp=rss>
+
+---
+
+## 'A transformational moment': Caldwell First Nation becomes part-owner of transmission line
+
+date: 2025-07-31, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7059324.1702600003!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/energy-report-20171128.JPG' alt='Hydro transmission towers are seen amid a blue sky with white clouds.' width='620' height='349' title='Hydro transmission towers are seen in a file photo'/><p>Caldwell First Nation’s recent purchase of an equity stake in a new electricity transmission line marks a new chapter in Indigenous economic empowerment and infrastructure partnership, the First Nation says.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/caldwell-transmission-line-1.7598088?cmp=rss>
+
+---
+
+## Inuit Child First Initiative announcement imminent, says federal minister
+
+date: 2025-07-31, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7582029.1752181622!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-20250620.jpg' alt='A woman speaks as a podium as others listen on in the background outside the House of Commons.' width='620' height='349' title='Prime Minister Mark Carney listens as Minister of Indigenous Services Mandy Gull-Masty speaks at a news conference in the Foyer of the House of Commons in Ottawa, after Bill C-5 passed in the House, on June 20.'/><p>The Indigenous Services of Canada minister says an announcement about the future of the Inuit Child First Initiative is coming, but she's remaining tight-lipped about the details for now. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/inuit-child-first-initiative-announcement-1.7597955?cmp=rss>
 
 ---
 
@@ -813,7 +1149,7 @@ Welcome to our live coverage of the third day of high-level international confer
 
 date: 2025-07-30, from: United Nations, Top Stories
 
-With Gaza in ruins and the two-State solution in jeopardy, ministers convened at the United Nations this week to jumpstart political momentum toward ending the Israeli-Palestinian conflict – a crisis Secretary-General António Guterres warned is “at a breaking point.” 
+With Gaza in ruins and the two-State solution in jeopardy, ministers convened at the United Nations this week to jumpstart political momentum toward ending the Israeli-Palestinian conflict, a crisis Secretary-General António Guterres warned is “at a breaking point”. 
 
 <br> 
 
@@ -1681,7 +2017,7 @@ The promise seemed simple: a job, a fresh start, a way out. Instead, Maria* step
 
 ## Deputy UN chief urges bold action to transform food systems at global summit in Addis Ababa
 
-date: 2025-07-29, from: United Nations, Top Stories
+date: 2025-07-29, from: United Nations, Economic Development
 
 United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on countries to double down on efforts to transform food systems, describing them as “one of the greatest solutions” to achieving the Sustainable Development Goals (SDGs). 
 

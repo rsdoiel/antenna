@@ -1,11 +1,52 @@
 ---
 title: pacific
-updated: 2025-07-31 06:08:22
+updated: 2025-07-31 14:07:33
 ---
 
 # pacific
 
-(date: 2025-07-31 06:08:22)
+(date: 2025-07-31 14:07:33)
+
+---
+
+## Cracking the code: Local teens learn cybersecurity, earn college credit at Leeward CC
+
+date: 2025-07-31, from: University of Hawaiʻi News
+
+<p>Teens tackle tech challenges, connect with experts and earn industry credentials.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/31/local-teens-cybersecurity-college-credit/">Cracking the code: Local teens learn cybersecurity, earn college credit at Leeward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/31/local-teens-cybersecurity-college-credit/>
+
+---
+
+## UPDATE: Hawaiian Electric monitoring red flag conditions for possible power shutoffs
+
+date: 2025-07-31, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATED 10:35 a.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/31/hawaii-news/red-flag-warning-issued-for-all-hawaiian-islands-through-friday/>
+
+---
+
+## Japan backs Lib copra makers
+
+date: 2025-07-31, from: Marshal Islands Journal
+
+<p>“The Project for the Procurement of Equipment for Dried Coconuts Logistics in Lib Island” was held on Lib Island last week. The grant of $64,367 for the procurement of equipment for dried coconuts logistics, including a portable davit crane, a pickup truck, and 21 rear carts, was funded through Japan’s Grant Assistance for Grassroots Human [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japan-backs-lib-copra-makers/">Japan backs Lib copra makers</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/japan-backs-lib-copra-makers/>
 
 ---
 

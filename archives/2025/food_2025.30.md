@@ -1,11 +1,85 @@
 ---
 title: food
-updated: 2025-07-31 06:08:30
+updated: 2025-07-31 14:07:41
 ---
 
 # food
 
-(date: 2025-07-31 06:08:30)
+(date: 2025-07-31 14:07:41)
+
+---
+
+## Covoya Specialty Coffee Signs MOU With US Women In Coffee
+
+date: 2025-07-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. U.S. Women in Coffeehas signed a Memorandum of Understanding with Covoya Specialty Coffee. 
+
+<br> 
+
+<https://sprudge.com/covoya-specialty-coffee-signs-mou-with-us-women-in-coffee-384116.html>
+
+---
+
+## Locations For Four More 2026 World Coffee Championships Have Been Announced
+
+date: 2025-07-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Six of seven events are now scheduled. 
+
+<br> 
+
+<https://sprudge.com/locations-for-four-more-2026-world-coffee-championships-have-been-announced-383174.html>
+
+---
+
+## Danone Sues Chobani Over ‘Bright & Mellow’ Cold Brew
+
+date: 2025-07-31, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-620x465.jpg" class="attachment-large size-large wp-post-image" alt="grocery" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two yogurt giants are now locked into a legal battle over cold brew branding, as Danone is alleging trademark infringement against La Colombe parent company Chobani. At the center of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/31/danone-sues-chobani-over-bright-mellow-cold-brew/>
+
+---
+
+## 10 Refreshing Watermelon Desserts for Cool, Fruity Summer Treats
+
+date: 2025-07-31, from: Taste of Home
+
+<p>These watermelon desserts highlight summer’s best fruit with easy recipes like frozen pops, berry-topped cakes and no-bake tarts perfect for warm weather.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/watermelon-desserts/">10 Refreshing Watermelon Desserts for Cool, Fruity Summer Treats</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/watermelon-desserts/>
+
+---
+
+## French Press Maker Espro Immerses Guests at First-Ever Cafe in Toronto
+
+date: 2025-07-31, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Espro Coffee Bar Toronto 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Canadian French press maker Espro (styled ESPRO by the company) just opened a French press-inspired cafe in Toronto, where freshly ground coffee and shop guests are subjected to full... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/07/31/french-press-maker-espro-immerses-guests-at-first-ever-cafe-in-toronto/>
+
+---
+
+## On The Menu: The Root Scootin’ Boogie At PERC Coffee
+
+date: 2025-07-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Root Scootin' Boogie from PERC Coffee. 
+
+<br> 
+
+<https://sprudge.com/on-the-menu-the-root-scootin-boogie-at-perc-coffee-381589.html>
 
 ---
 
@@ -69,7 +143,7 @@ After testing a range of affordable cookware, we found Goldilocks to be a stando
 
 date: 2025-07-30, from: Daily Coffee News
 
-<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg" class="attachment-large size-large wp-post-image" alt="2024 World Coffee Championship" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-768x533.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) announced that Brussels and Bangkok will host four World Coffee Championship events for the 2026 competition season.&#160; The trade organization said the 2026 World Cup... 
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg" class="attachment-large size-large wp-post-image" alt="2024 World Coffee Championship" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-768x533.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) announced that Brussels and Bangkok will host four World Coffee Championship events for the 2026 competition season.&#160; The trade organization said the 2026 World Cup... 
 
 <br> 
 
@@ -105,7 +179,7 @@ At her Malaysian restaurant, Kampar, chef Ange Branca blends mentorship, equity,
 
 date: 2025-07-30, from: Daily Coffee News
 
-<div><img width="620" height="412" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-620x412.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-620x412.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-768x510.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>United States Commerce Secretary Howard Lutnick yesterday said that agricultural goods that can&#8217;t be grown in the U.S. — including coffee and cocoa — may be exempt from tariffs under... 
+<div><img width="620" height="412" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-620x412.jpg" class="attachment-large size-large wp-post-image" alt="shipping containers" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-620x412.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers-768x510.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/shipping-containers.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>United States Commerce Secretary Howard Lutnick yesterday said that agricultural goods that can&#8217;t be grown in the U.S. — including coffee and cocoa — may be exempt from tariffs under... 
 
 <br> 
 
@@ -117,7 +191,7 @@ date: 2025-07-30, from: Daily Coffee News
 
 date: 2025-07-30, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="MPE SRM MAX" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Industrial grinding and processing equipment company Modern Process Equipment (MPE) recently introduced the SRM.MAX, a roller-style grinder that&#8217;s also suitable for medium and smaller roasters.&#160; Preceding the SRM.MAX in... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="MPE SRM MAX" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/MPE-SRM-MAX.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Industrial grinding and processing equipment company Modern Process Equipment (MPE) recently introduced the SRM.MAX, a roller-style grinder that&#8217;s also suitable for medium and smaller roasters.&#160; Preceding the SRM.MAX in... 
 
 <br> 
 

@@ -1,11 +1,283 @@
 ---
 title: snapshots
-updated: 2025-07-31 06:08:32
+updated: 2025-07-31 14:07:43
 ---
 
 # snapshots
 
-(date: 2025-07-31 06:08:32)
+(date: 2025-07-31 14:07:43)
+
+---
+
+## Tea and the App Store
+
+date: 2025-07-31, from: Michael Tsai
+
+John Gruber (Hacker News): I might be forgetting or unaware of previous similar situations, but I can&#8217;t recall anything like this before, where an app riddled with outrageous security/privacy vulnerabilities remains virally popular. A Hacker News thread from earlier today debates why the app is even still available on the App Store. So is it [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/31/tea-and-the-app-store/>
+
+---
+
+## Sploitlight
+
+date: 2025-07-31, from: Michael Tsai
+
+Microsoft Threat Intelligence (MacRumors): Microsoft Threat Intelligence has discovered a macOS vulnerability that could allow attackers to steal private data of files normally protected by Transparency, Consent, and Control (TCC), such as files in the Downloads folder, as well as caches utilized by Apple Intelligence. While similar to prior TCC bypasses like HM-Surf and powerdir, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/07/31/sploitlight/>
+
+---
+
+## Trying out Qwen3 Coder Flash using LM Studio and Open WebUI and LLM
+
+date: 2025-07-31, updated: 2025-07-31, from: Simon Willison’s Weblog
+
+<p>Qwen just released <a href="https://simonwillison.net/2025/Jul/30/chinese-models/">their sixth model</a>(!) of this July called <a href="https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct">Qwen3-Coder-30B-A3B-Instruct</a> - listed as Qwen3-Coder-Flash in their <a href="https://chat.qwen.ai/">chat.qwen.ai</a> interface.</p>
+<p>It's 30.5B total parameters with 3.3B active at any one time. This means it will fit on a 64GB Mac - and even a 32GB Mac if you quantize it - and can run <em>really</em> fast thanks to that smaller set of active parameters.</p>
+<p>It's a non-thinking model that is specially trained for coding tasks.</p>
+<p>This is an exciting combination of properties: optimized for coding performance and speed and small enough to run on a mid-tier developer laptop.</p>
+<h4 id="trying-it-out-with-lm-studio-and-open-webui">Trying it out with LM Studio and Open WebUI</h4>
+<p>I like running models like this using Apple's MLX framework. I ran GLM-4.5 Air the other day <a href="https://simonwillison.net/2025/Jul/29/space-invaders/#how-i-ran-the-model">using the mlx-lm Python library directly</a>, but this time I decided to try out the combination of <a href="https://lmstudio.ai/">LM Studio</a> and <a href="https://openwebui.com/">Open WebUI</a>.</p>
+<p>(LM Studio has a decent interface built in, but I like the Open WebUI one slightly more.)</p>
+<p>I installed the model  by clicking the "Use model in LM Studio" button on LM Studio's <a href="https://lmstudio.ai/models/qwen/qwen3-coder-30b">qwen/qwen3-coder-30b</a> page. It gave me a bunch of options:</p>
+<p><img src="https://static.simonwillison.net/static/2025/lm-studio-qwen3-coder-30b.jpg" alt="Screenshot of a model download menu for &quot;qwen/qwen3-coder-30b,&quot; a 30B MoE coding model from Alibaba Qwen using the mlx-llm engine. The section &quot;Download Options&quot; shows different choices with file sizes. Options include: GGUF Qwen3 Coder 30B A3B Instruct Q3_K_L (14.58 GB), Q4_K_M (18.63 GB), Q6_K (25.10 GB), Q8_0 (32.48 GB). MLX versions are also available: 4bit (17.19 GB, selected), 6bit (24.82 GB, marked as Downloaded), 8bit (32.46 GB)." style="max-width: 100%;" /></p>
+<p>I chose the 6bit MLX model, which is a 24.82GB download. Other options include 4bit (17.19GB) and 8bit (32.46GB). The download sizes are roughly the same as the amount of RAM required to run the model - picking that 24GB one leaves 40GB free on my 64GB machine for other applications.</p>
+<p>Then I opened the developer settings in LM Studio (the green folder icon) and turned on "Enable CORS" so I could access it from a separate Open WebUI instance.</p>
+<p><img src="https://static.simonwillison.net/static/2025/lm-studio-cors.jpg" alt="Screenshot of LM Studio application showing runtime settings. The status is &quot;Running&quot; with a toggle switch enabled. A settings dropdown is open with options including: &quot;Server Port 1234&quot;, &quot;Enable CORS&quot; (enabled), &quot;Serve on Local Network&quot; (disabled)" style="max-width: 100%;" /></p>
+<p>Now I switched over to Open WebUI. I installed and ran it using <a href="https://github.com/astral-sh/uv">uv</a> like this:</p>
+<div class="highlight highlight-source-shell"><pre>uvx --python 3.11 open-webui serve</pre></div>
+<p>Then navigated to <code>http://localhost:8080/</code> to access the interface. I opened their settings and configured a new "Connection" to LM Studio:</p>
+<p><img src="https://static.simonwillison.net/static/2025/openweb-ui-settings.jpg" alt="Screenshot of Open WebUI settings showing the Edit Connection window. URL is set to http://localhost:1234/v1 and Prefix ID is set to lm." style="max-width: 100%;" /></p>
+<p>That needs a base URL of <code>http://localhost:1234/v1</code> and a key of anything you like. I also set the optional prefix to <code>lm</code> just in case my Ollama installation - which Open WebUI detects automatically - ended up with any duplicate model names.</p>
+<p>Having done all of that, I could select any of my LM Studio models in the Open WebUI interface and start running prompts.</p>
+<p>A neat feature of Open WebUI is that it includes an automatic preview panel, which kicks in for fenced code blocks that include SVG or HTML:</p>
+<p><img src="https://static.simonwillison.net/static/2025/openweb-ui-pelican.jpg" alt="The Open WebUI app with a sidebar and then a panel with the model and my Generate an SVG of a pelican riding a bicycle prompt, then its response, then another side panel with the rendered SVG. It isn't a great image - the bicycle is a bit mangled - but the pelican does at least have a big triangular orange beak." style="max-width: 100%;" /></p>
+<p>Here's <a href="https://gist.github.com/simonw/c167f14bc3d86ec1976f286d3e05fda5">the exported transcript</a> for "Generate an SVG of a pelican riding a bicycle". It ran at almost 60 tokens a second!</p>
+<h4 id="implementing-space-invaders">Implementing Space Invaders</h4>
+<p>I tried my other recent <a href="https://simonwillison.net/tags/space-invaders/">simple benchmark prompt</a> as well:</p>
+<blockquote>
+<p><code>Write an HTML and JavaScript page implementing space invaders</code></p>
+</blockquote>
+<p>I like this one because it's a very short prompt that acts as shorthand for quite a complex set of features. There's likely plenty of material in the training data to help the model achieve that goal but it's still interesting to see if they manage to spit out something that works first time.</p>
+<p>The first version it gave me worked out of the box, but was a little too hard - the enemy bullets move so fast that it's almost impossible to avoid them:</p>
+<div style="max-width: 100%; margin-bottom: 0.4em">
+    <video controls="controls" preload="none" aria-label="Space Invaders" poster="https://static.simonwillison.net/static/2025/space-invaders-6bit-mlx-Qwen3-Coder-30B-A3B-Instruct.jpg" loop="loop" style="width: 100%; height: auto;" muted="muted">
+        <source src="https://static.simonwillison.net/static/2025/space-invaders-6bit-mlx-Qwen3-Coder-30B-A3B-Instruct.mp4" type="video/mp4" />
+    </video>
+</div>
+<p>You can <a href="https://tools.simonwillison.net/space-invaders-6bit-mlx-Qwen3-Coder-30B-A3B-Instruct">try that out here</a>.</p>
+<p>I tried a follow-up prompt of "Make the enemy bullets a little slower". A system like Claude Artifacts or Claude Code implements tool calls for modifying files in place, but the Open WebUI system I was using didn't have a default equivalent which means the model had to output the full file a second time.</p>
+<p>It did that, and slowed down the bullets, but it made a bunch of other changes as well, <a href="https://gist.github.com/simonw/ee4704feb37c6b16edd677d32fd69693/revisions#diff-544640de4897069f24e7988199bd5c08addfc5aa2196cbf2a0d164308bff1db0">shown in this diff</a>. I'm not too surprised by this - asking a 25GB local model to output a lengthy file with just a single change is quite a stretch.</p>
+<p>Here's <a href="https://gist.github.com/simonw/b7115990525b104a6dd95f7d694ae6c3">the exported transcript</a> for those two prompts.</p>
+<h4 id="running-lm-studio-models-with-mlx-lm">Running LM Studio models with mlx-lm</h4>
+<p>LM Studio stores its models in the <code>~/.cache/lm-studio/models</code> directory. This means you can use the <a href="https://github.com/ml-explore/mlx-lm">mlx-lm</a> Python library to run prompts through the same model like this:</p>
+<div class="highlight highlight-source-shell"><pre>uv run --isolated --with mlx-lm mlx_lm.generate \
+  --model <span class="pl-k">~</span>/.cache/lm-studio/models/lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-6bit \
+  --prompt <span class="pl-s"><span class="pl-pds">"</span>Write an HTML and JavaScript page implementing space invaders<span class="pl-pds">"</span></span> \
+  -m 8192 --top-k 20 --top-p 0.8 --temp 0.7</pre></div>
+<p>Be aware that this will load a duplicate copy of the model into memory so you may want to quit LM Studio before running this command!</p>
+<h4 id="accessing-the-model-via-my-llm-tool">Accessing the model via my LLM tool</h4>
+<p>My <a href="https://llm.datasette.io/">LLM</a> project provides a command-line tool and Python library for accessing large language models.</p>
+<p>Since LM Studio offers an OpenAI-compatible API, you can <a href="https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models">configure LLM</a> to access models through that API by creating or editing the <code>~/Library/Application\ Support/io.datasette.llm/extra-openai-models.yaml</code> file:</p>
+<div class="highlight highlight-source-shell"><pre>zed <span class="pl-k">~</span>/Library/Application<span class="pl-cce">\ </span>Support/io.datasette.llm/extra-openai-models.yaml</pre></div>
+<p>I added the following YAML configuration:</p>
+<div class="highlight highlight-source-yaml"><pre>- <span class="pl-ent">model_id</span>: <span class="pl-s">qwen3-coder-30b</span>
+  <span class="pl-ent">model_name</span>: <span class="pl-s">qwen/qwen3-coder-30b</span>
+  <span class="pl-ent">api_base</span>: <span class="pl-s">http://localhost:1234/v1</span>
+  <span class="pl-ent">supports_tools</span>: <span class="pl-c1">true</span></pre></div>
+<p>Provided LM Studio is running I can execute prompts from my terminal like this:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m qwen3-coder-30b <span class="pl-s"><span class="pl-pds">'</span>A joke about a pelican and a cheesecake<span class="pl-pds">'</span></span></pre></div>
+<blockquote>
+<p>Why did the pelican refuse to eat the cheesecake?</p>
+<p>Because it had a <em>beak</em> for dessert! 🥧🦜</p>
+<p>(Or if you prefer: Because it was afraid of getting <em>beak</em>-sick from all that creamy goodness!)</p>
+</blockquote>
+<p>(25GB clearly isn't enough space for a functional sense of humor.)</p>
+<p>More interestingly though, we can start exercising the Qwen model's support for <a href="https://simonwillison.net/2025/May/27/llm-tools/">tool calling</a>:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m qwen3-coder-30b \
+  -T llm_version -T llm_time --td \
+  <span class="pl-s"><span class="pl-pds">'</span>tell the time then show the version<span class="pl-pds">'</span></span></pre></div>
+<p>Here we are enabling LLM's two default tools - one for telling the time and one for seeing the version of LLM that's currently installed. The <code>--td</code> flag stands for <code>--tools-debug</code>.</p>
+<p>The output looks like this, debug output included:</p>
+<pre><code>Tool call: llm_time({})
+  {
+    "utc_time": "2025-07-31 19:20:29 UTC",
+    "utc_time_iso": "2025-07-31T19:20:29.498635+00:00",
+    "local_timezone": "PDT",
+    "local_time": "2025-07-31 12:20:29",
+    "timezone_offset": "UTC-7:00",
+    "is_dst": true
+  }
+
+Tool call: llm_version({})
+  0.26
+
+The current time is:
+- Local Time (PDT): 2025-07-31 12:20:29
+- UTC Time: 2025-07-31 19:20:29
+
+The installed version of the LLM is 0.26.
+</code></pre>
+<p>Pretty good! It managed two tool calls from a single prompt.</p>
+<p>Sadly I couldn't get it to work with some of my more complex plugins such as <a href="https://github.com/simonw/llm-tools-sqlite">llm-tools-sqlite</a>. I'm trying to figure out if that's a bug in the model, the LM Studio layer or my own code for running tool prompts against OpenAI-compatible endpoints.</p>
+<h4 id="the-month-of-qwen">The month of Qwen</h4>
+<p>July has absolutely been the month of Qwen. The models they have released this month are outstanding, packing some extremely useful capabilities even into models I can run in 25GB of RAM or less on my own laptop.</p>
+<p>If you're looking for a competent coding model you can run locally Qwen3-Coder-30B-A3B is a very solid choice.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Jul/31/qwen3-coder-flash/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-07-31, from: Robert's feed at BlueSky)
+
+So very messed up but also completely expected given how he is.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvbujwjks22p>
+
+---
+
+## The Epic Games Store is coming to Google Play, following Epic’s latest court victory
+
+date: 2025-07-31, from: Liliputing
+
+<p>Epic Games CEO says the Epic Games Store is coming to the Google Play Store. The news comes in response to a ruling by a US federal appeals court that means Google cannot prohibit developers from using the Play Store to distribute third-party app stores and/or apps that use third-party billing. Epic has spent the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/the-epic-games-store-is-coming-to-google-play-following-epics-latest-court-victory/">The Epic Games Store is coming to Google Play, following Epic&#8217;s latest court victory</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/the-epic-games-store-is-coming-to-google-play-following-epics-latest-court-victory/>
+
+---
+
+## Steam Doesn't Think This Image Is ‘Suitable for All Ages’
+
+date: 2025-07-31, from: 404 Media Group
+
+The decision highlights hurdles faced by developers as they navigate a world where credit card companies dictate what is and isn't appropriate. 
+
+<br> 
+
+<https://www.404media.co/steam-doesnt-think-this-image-is-suitable-for-all-ages/>
+
+---
+
+## Banana Pi BPI-R4 Lite is a cheaper router board with with 2.5 GbE and Gigabit LAN and optional WiFi 7, 4G, and 5G support
+
+date: 2025-07-31, from: Liliputing
+
+<p>The Banana Pi BPI-R4 Lite is a router board with a 2.5 Gigabit WAN port, a 2.5 Gigabit SFP connector, and four Gigabit LAN ports. There&#8217;s also an mPCIe slot for an optional WiFi 7 card and M.2 connector for 4G and/or 5G cards. But, as the name implies, this is actually a cheaper, lower-performance board [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/banana-pi-bpi-r4-lite-is-a-cheaper-router-board-with-with-2-5-gbe-and-gigabit-lan-and-optional-wifi-7-4g-and-5g-support/">Banana Pi BPI-R4 Lite is a cheaper router board with with 2.5 GbE and Gigabit LAN and optional WiFi 7, 4G, and 5G support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/banana-pi-bpi-r4-lite-is-a-cheaper-router-board-with-with-2-5-gbe-and-gigabit-lan-and-optional-wifi-7-4g-and-5g-support/>
+
+---
+
+## Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive
+
+date: 2025-07-31, from: Windows Developer Blog
+
+<p>At Build 2025, <a href="https://blogs.windows.com/windowsdeveloper/2025/05/19/advancing-windows-for-ai-development-new-platform-capabilities-and-tools-introduced-at-build-2025/">we announced</a> support for LoRA (low-rank-adaptation) finetuning </p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/">Phi Silica task specialization using LoRA in Microsoft Learning Zone: A technical deep dive</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/07/31/phi-silica-task-specialization-using-lora-in-microsoft-learning-zone-a-technical-deep-dive/>
+
+---
+
+## The G: si te metes con el toro, recibirás una cornada
+
+date: 2025-07-31, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Karl R. Hearne. Guion: Karl R. Hearne. Elenco: Dale Dickey, Romane Denis, Greg Ellwand, Bruce Ramsay, Daniel Brochu, Jonathan Koensgenm, Joe Scarpellino. País: Canadá.    Más información de la película: https://www.imdb.com/title/tt29486765/ Las películas de gánsteres suelen articularse en torno a narrativas predominantemente masculinas en las que los personajes femeninos quedan relegados a roles secundarios [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-the-g/">The G: si te metes con el toro, recibirás una cornada</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-the-g/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-the-g>
+
+---
+
+## Emdoor introduces a 16 inch AMD Strix Halo laptop
+
+date: 2025-07-31, from: Liliputing
+
+<p>AMD&#8217;s Strix Halo processors may nominally be mobile chips, but so far most of the PCs using the chips have been mini desktop computers, with a few notable exceptions including the Asus ROG Z13 Flow 2-in-1 gaming tablet and a few upcoming handhelds. Strix Halo laptops have been rare, but it looks like one more [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/emdoor-introduces-a-16-inch-amd-strix-halo-laptop/">Emdoor introduces a 16 inch AMD Strix Halo laptop</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/emdoor-introduces-a-16-inch-amd-strix-halo-laptop/>
+
+---
+
+## How to Transform from Cynic to Hopeful Skeptic
+
+date: 2025-07-31, from: Guy Kawasaki blog
+
+This week&#8217;s Remarkable People guest, Stanford psychology professor Jamil Zaki, delivered a wake-up call that left me questioning everything I thought I knew about human nature. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-transform-from-cynic-to-hopeful>
+
+---
+
+## Apple Is Selling iPad Repair Parts for Astronomical Prices
+
+date: 2025-07-31, from: 404 Media Group
+
+“I believe Apple is charging this because they know if the price is high enough no one will buy it." 
+
+<br> 
+
+<https://www.404media.co/apple-is-selling-ipad-repair-parts-for-astronomical-prices/>
+
+---
+
+## With a Name Like Uncrustables, It Has to Not Have a Crust
+
+date: 2025-07-31, updated: 2025-07-31, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/07/31/with-a-name-like-uncrustables-it-has-to-not-have-a-crust/>
+
+---
+
+## Embedded MIDI synthesiser on Raspberry Pi
+
+date: 2025-07-31, from: Raspberry Pi News (.com)
+
+<p>In the new issue of Raspberry Pi Official Magazine, we learn that a synthesiser squeezed into an accordion sounds amazing.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/embedded-midi-synthesiser-on-raspberry-pi/">Embedded MIDI synthesiser on Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/embedded-midi-synthesiser-on-raspberry-pi/>
 
 ---
 
@@ -238,6 +510,7 @@ date: 2025-07-30, updated: 2025-07-30, from: Simon Willison’s Weblog
 <li>Z.ai <a href="https://simonwillison.net/2025/Jul/28/glm-45/">GLM-4.5 and GLM-4.5 Air</a> - 28th July, 355 and 106 billion</li>
 <li>Qwen <a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instruct-2507/">Qwen3-30B-A3B-Instruct-2507</a> - 29th July, 30 billion</li>
 <li>Qwen <a href="https://simonwillison.net/2025/Jul/30/qwen3-30b-a3b-thinking-2507/">Qwen3-30B-A3B-Thinking-2507</a> - 30th July, 30 billion</li>
+<li>Qwen <a href="https://simonwillison.net/2025/Jul/31/qwen3-coder-flash/">Qwen3-Coder-30B-A3B-Instruct</a> - 31st July, 30 billion (released after I first posted this note)</li>
 </ul>
 <p><small>Notably absent from this list is DeepSeek, but that's only because their last model release was <a href="https://huggingface.co/deepseek-ai/DeepSeek-R1-0528">DeepSeek-R1-0528</a> back in April.</small></p>
 <p>The only janky license among them is Kimi K2, which uses a non-OSI-compliant modified MIT. Qwen's models are all Apache 2 and Z.ai's are MIT.</p>
@@ -333,7 +606,7 @@ Yesterday was <a href="https://simonwillison.net/2025/Jul/29/qwen3-30b-a3b-instr
     <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1950570969036361799">@Alibaba_Qwen</a></small></p>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a></p> 
 
 <br> 
 
@@ -711,7 +984,7 @@ New model update from Qwen, improving on their previous <a href="https://simonwi
 <p>This new Qwen model is a non-reasoning model, whereas GLM-4.5 and GLM-4.5 Air are both reasoners. It looks like at this scale the "reasoning" may make a material difference in terms of getting code that works out of the box.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a></p> 
 
 <br> 
 
@@ -984,7 +1257,7 @@ Peak memory: 47.687 GB
 
 <p>Two years ago when I <a href="https://simonwillison.net/2023/Mar/11/llama/">first tried LLaMA</a> I never <em>dreamed</em> that the same laptop I was using then would one day be able to run models with capabilities as strong as what I'm seeing from GLM 4.5 Air - and Mistral 3.2 Small, and Gemma 3, and Qwen 3, and a host of other high quality models that have emerged over the past six months.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a></p> 
 
 <br> 
 
@@ -1065,6 +1338,19 @@ It&#8217;s taken me a long time to read Edward Tenner&#8217;s Why the Hindernbur
 <br> 
 
 <http://www.enlightenmenteconomics.com/blog/index.php/2025/07/reading-muscle/>
+
+---
+
+## US-RSE July 2025 Newsletter
+
+date: 2025-07-29, from: The United States Research Software Engineer Association
+
+🫶 This Month: THANK YOU for Contributing to US-RSE'25 🫶 - 
+          Welcome to this month’s edition of the US-RSE Newsletter! US-RSE’25 is right around the corner, and we’re so pleased to have received so many great submissions! In this issue: 1. USRSE’25 Conference 2. Executive Update: AI in the Workplace 3. Steering Committee Updates 4. Organizational Founding Membership 5. Community and... 
+
+<br> 
+
+<https://us-rse.org/2025-07-29-newsletter/>
 
 ---
 

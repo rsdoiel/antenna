@@ -1,23 +1,151 @@
 ---
 title: socal north
-updated: 2025-07-31 06:08:20
+updated: 2025-07-31 14:07:31
 ---
 
 # socal north
 
-(date: 2025-07-31 06:08:20)
+(date: 2025-07-31 14:07:31)
 
 ---
 
-## Taboo of Black Eyed Peas on bringing East LA to the world — 'bigger than just a love letter'
+## Thousands of California students attend schools in high fire danger zones
 
 date: 2025-07-31, updated: 2025-07-31, from: The LAist
 
-Two members of the Black Eyed Peas, Taboo and will.i.am, release a song condemning ICE and celebrating the community that raised them. 
+Most campuses in High Fire Hazard Severity Zones are in Southern California or near the Bay Area. 
 
 <br> 
 
-<https://laist.com/news/arts-and-entertainment/love-letter-taboo-the-black-eyed-peas-east-la>
+<https://laist.com/news/education/thousands-of-california-students-attend-schools-in-high-fire-danger-zones>
+
+---
+
+## In reversal, Defense Department will continue providing crucial satellite weather data
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+About a month after announcing that it would stop sharing data that hurricane forecasters and scientists rely on, the Navy now says it will continue distributing it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/defense-department-will-continue-providing-crucial-satellite-weather-data>
+
+---
+
+## A guide to free or low-cost mental health resources for communities impacted by ICE raids
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+Compiled by panelists from Boyle Heights Beat’s ‘From Fear to Care’ event, this guide offers mental health resources and culturally grounded care. 
+
+<br> 
+
+<https://laist.com/news/health/a-guide-to-free-or-low-cost-mental-health-resources-for-communities-impacted-by-ice-raids>
+
+---
+
+## Long Beach will open up its e-book library so teens from other states can read banned books
+
+date: 2025-07-31, from: Longbeach Post
+
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It's part of a nationwide push to let young people access reading material that may have been thrown out of their local libraries and schools.</p>
+<p>The post <a href="https://lbpost.com/news/education/long-beach-will-open-up-its-e-book-library-so-teens-from-other-states-can-read-banned-books">Long Beach will open up its e-book library so teens from other states can read banned books</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/long-beach-will-open-up-its-e-book-library-so-teens-from-other-states-can-read-banned-books>
+
+---
+
+## Wags All Around – Dogs Adopted at Bridgeport Park
+
+date: 2025-07-31, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is proud to share the success of last week’s Pet Adoption Day, held at Bridgeport Park, in collaboration with the Castaic Animal Care Center. The event brought together local families and animal lovers for a morning filled with compassion, play and community connection. Throughout the event, attendees met adoptable dogs [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/31/wags-all-around-dogs-adopted-at-bridgeport-park/">Wags All Around &#8211; Dogs Adopted at Bridgeport Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/31/wags-all-around-dogs-adopted-at-bridgeport-park/>
+
+---
+
+## More than 1,000 National Guard troops to withdraw from LA as Trump scales back presence
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+The move further scales back the Trump administration's military presence that started on June 7 amid protests against immigration enforcement efforts. 
+
+<br> 
+
+<https://laist.com/news/more-than-1000-national-guard-troops-to-withdraw-from-la-as-trump-scales-back-presence>
+
+---
+
+## Earthquake with 4.3 magnitude strikes near Fontana
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+Shaking was felt in Pasadena and parts of Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/earthquake-with-preliminary-4-3-magnitude-strikes-near-fontana>
+
+---
+
+## Best things to do this weekend in LA and SoCal: Aug 1-3
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+See Cynthia Erivo in Jesus Christ Superstar, join a farewell party at Cole’s French Dip, enjoy a poetry night at Grand Performances, check out Boleros de Noche and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-weekend-los-angeles-southern-california-aug-1-3>
+
+---
+
+## A gallery opens inside the Sears tower after years of stalled plans — and not everyone is celebrating
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+The Eastside landmark is home to a new gallery. While some welcome it, others fear it’s part of a familiar pattern of gentrification 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/sears-tower-gallery-la-opens>
+
+---
+
+## After Vagabond Inn shelter closes, Long Beach moves 15 homeless tenants into new motel
+
+date: 2025-07-31, from: Longbeach Post
+
+<figure><img width="1024" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city is improving how long it takes to get people from temporary shelter into permanent housing, but, with long timelines and limited options, it still relies on moving people in need from motel to motel.</p>
+<p>The post <a href="https://lbpost.com/news/vagabond-inn-long-beach-motel-moves-homeless">After Vagabond Inn shelter closes, Long Beach moves 15 homeless tenants into new motel</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/vagabond-inn-long-beach-motel-moves-homeless>
+
+---
+
+## SoCal heading into a warmer weekend with temperatures nearing triple digits
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+SoCal valleys and inland areas are in for 90-degree weather this weekend. Coachella Valley to see temperatures above 110 degrees. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-warmer-weekend-temperatures-nearing-triple-digits>
 
 ---
 
@@ -33,9 +161,21 @@ Starting Aug. 1, a state rent control law will limit annual increases to 8%. The
 
 ---
 
-## LA's crossing guards will be redistributed using a new method before the school year starts
+## The East LA inspiration behind a new track from Taboo and will.i.am of Black Eyed Peas
 
-date: 2025-07-30, updated: 2025-07-30, from: The LAist
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+Two members of the Black Eyed Peas, Taboo and will.i.am, release a song condemning ICE and celebrating the community that raised them. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/love-letter-taboo-the-black-eyed-peas-east-la>
+
+---
+
+## LA moves to overhaul school crossing guard program, from principal requests to safety data
+
+date: 2025-07-30, updated: 2025-07-31, from: The LAist
 
 The city will now use safety data, equity measures and existing infrastructure to decide where to place crossing guards. 
 
@@ -49,7 +189,7 @@ The city will now use safety data, equity measures and existing infrastructure t
 
 date: 2025-07-30, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn.jpg 1680w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/30150853/atlantic-building-demo-1-230349-0gs4eknz-226611-dgnS8zbn.jpg 1680w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>After major redevelopment plans fell through, the lot just below South Street will be leveled and sold.</p>
 <p>The post <a href="https://lbpost.com/news/place/atlantic-avenue-south-buildings-demolished-north-long-beach">City begins demolition of long-derelict Atlantic Avenue buildings </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -134,7 +274,7 @@ Staff at Farm Lot 59 suspect they were targeted in retaliation after homeless pe
 
 ## Yes, we have tarantulas in SoCal. And they’re on the march right now
 
-date: 2025-07-30, updated: 2025-07-30, from: The LAist
+date: 2025-07-30, updated: 2025-07-31, from: The LAist
 
 Don’t fret, though — L.A.'s tarantulas are mostly harmless to humans and are only looking for love. 
 
@@ -185,7 +325,7 @@ The word "dude" is often associated with the '80s and '90s. But its origin is ro
 
 ## LA’s legal cannabis owners say multi-million dollar program to give them a hand up, instead left ‘complete debt and devastation’
 
-date: 2025-07-30, updated: 2025-07-30, from: The LAist
+date: 2025-07-30, updated: 2025-07-31, from: The LAist
 
 The city may need to return up to $10 million in grants meant for cannabis businesses after a state audit found those funds may not have been spent as intended. 
 

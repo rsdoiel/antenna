@@ -1,11 +1,311 @@
 ---
 title: science and technology
-updated: 2025-07-31 06:08:23
+updated: 2025-07-31 14:07:34
 ---
 
 # science and technology
 
-(date: 2025-07-31 06:08:23)
+(date: 2025-07-31 14:07:34)
+
+---
+
+## Tesla starts sort-of Robotaxi service in San Francisco by invite only
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>There&#39;s a driver at the wheel</h4> <p>Elon Musk&#39;s goal of a fully autonomous car that could serve as a Robotaxi is getting another trial this week, albeit with a human operator behind the wheel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/tesla_robotaxi_san_francisco/>
+
+---
+
+## The Mere Sight of Someone Sick Triggers an Immune Response, Study Suggests
+
+date: 2025-07-31, from: Smithsonian Magazine
+
+Researchers equipped study participants with virtual reality headsets and observed how their brains and immune systems reacted to avatars with signs of illness 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-mere-sight-of-someone-sick-triggers-an-immune-response-study-suggests-180987086/>
+
+---
+
+## A Man Bought This Colorful Illustration of a Sultan for £150. It Turned Out to Be a Salvador Dalí Original That Could Sell for $40,000
+
+date: 2025-07-31, from: Smithsonian Magazine
+
+An art dealer attending a house clearance sale spotted the Surrealist's signature in the corner of the work, which depicts a scene from "One Thousand and One Nights" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-man-bought-this-colorful-illustration-of-a-sultan-for-150-it-turned-out-to-be-a-salvador-dali-original-that-could-sell-for-40000-180987089/>
+
+---
+
+## As ransomware gangs threaten physical harm, 'I am afraid of what's next,' ex-negotiator says
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Crims warned 40% of respondents that they and their families would suffer</h4> <p>Ransomware gangs now frequently threaten physical violence against employees and their families as a way to force victim organizations into paying their demands.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/ransomware_physical_harm_threats/>
+
+---
+
+## Gene scanner pays $9.8 million to get feds off its back in security flap
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Illumina allegedly lied about its testing devices meeting government standards</h4> <p>Biotech firm Illumina has agreed to cut the US government a check for the eminently affordable amount of $9.8 million to resolve allegations that it has been selling the feds genetic testing systems riddled with security vulnerabilities the company knew about but never bothered to fix.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/7_years_of_back_debt/>
+
+---
+
+## Sunrise on Crew-11 Launch Attempt
+
+date: 2025-07-31, from: NASA breaking news
+
+The Sun rises on the morning of July 31, 2025, ahead of NASA’s SpaceX Crew-11 mission launch from NASA’s Kennedy Space Center in Florida. The launch was postponed due to an unfavorable weather forecast. Teams are now targeting 11:43 a.m. EDT Friday, Aug. 1. NASA astronauts&#160;Zena Cardman&#160;and&#160;Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut&#160;Kimiya Yui, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/>
+
+---
+
+## Altman embraces inner Viking, raids Europe with 100K GPU supercluster in Norway
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Facility to be built with $1 billion investment from Nscale and Aker</h4> <p>OpenAI&#39;s Stargate initiative has teleported to Europe, where the AI flag bearer has enlisted datacenter builder Nscale and Norwegian energy magnate Aker ASA to deploy a 100,000-GPU compute cluster in the Arctic by 2026.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/norway_stargate_openai/>
+
+---
+
+## 515-Mile-Long 'Megaflash' of Lightning Sets a New World Record, Spanning Eastern Texas to West-Central Missouri
+
+date: 2025-07-31, from: Smithsonian Magazine
+
+In October 2017, lightning stretched across multiple Great Plains states, and a weather satellite captured the event 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/515-mile-long-megaflash-of-lightning-sets-a-new-world-record-spanning-eastern-texas-to-west-central-missouri-180987087/>
+
+---
+
+## NIST discovers DevSecOps, thinks world should really check this out
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>What&#39;s next - gonna tell us it&#39;s time to migrate to Windows 8?</h4> <p>Watch out, world: The US government has finally found out about DevSecOps, and it has become a late evangelist for the security-by-default software development practice.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/nist_devsecops_guide/>
+
+---
+
+## Kyvos: GUI frontend for easy AmigaOS 4 and MorphOS emulation using Qemu
+
+date: 2025-07-31, from: OS News
+
+Getting hardware to run AmigaOS 4.1 or MorphOS on isn&#8217;t always easy, cheap, or even possible in the first place. Luckily, there&#8217;s now an incredibly easy and straightforward way to emulate these two operating systems: Kyvos, developed by George Sokianos. Kyvos is a user-friendly frontend for Qemu, designed to streamline the creation of AmigaOS 4 and MorphOS emulated environments on Linux, macOS, and Windows. Pronounced &#8220;kee-vos,&#8221; this name is inspired by the Greek word &#8220;κύβος,&#8221; meaning cube, symbolizing these virtual systems running within the host OS. Setting up an AmigaOS 4 or MorphOS system is effortless with Kyvos—just a few clicks, and you&#8217;re ready to go. A helpful wizard guides users in locating or downloading necessary dependencies, including Qemu and 7zip binaries. ↫ George Sokianos Of course, nothing is stopping you from following guides online to build your own Qemu virtual machine and associated complex command to start it, but Kyvos takes all that work out of your hands and makes it incredibly easy, all wrapped in a nice graphical user interface. It&#8217;s available for Linux, Windows, and macOS. All you need is Kyvos &#8211; which is free, but Ko-Fi donations are appreciated &#8211; and a copy of either AmigaOS 4.1 Final Edition or MorphOS. Based on a toot by Hyperion, the developers of AmigaOS 4.1, you need the version for the AmigaOne board specifically, which will set you back about €30 for a boxed copy (I&#8217;ve asked if there are any download versions for sale as well). A copy of MorphOS costs about €79, and can be bought from inside MorphOS after installation. Note that you can also use MorphOS without a license, but it will slow down its performance after about 30 minutes until you reboot. I&#8217;m stoked to try this out, as I&#8217;ve been wanting to review both of these operating systems again, since my previous reviews of Amiga OS 4 (from 2009) and MorphOS (also from 2009) are horribly outdated at this point. MorphOS on old Apple PowerPC hardware just doesn&#8217;t cut it &#8211; believe me, I&#8217;ve tried &#8211; and AmigaOS 4 hardware is quite expensive and outdated at this point. Until &#8211; and let&#8217;s face it, if &#8211; the Mirari comes out, easy emulation through Qemu might be an option. 
+
+<br> 
+
+<https://www.osnews.com/story/142937/kyvos-gui-frontend-for-easy-amigaos-4-and-morphos-emulation-using-qemu/>
+
+---
+
+## Microsoft's Azure AI Speech needs just seconds of audio to spit out a convincing deepfake
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>No way this will be abused</h4> <p>Microsoft has upgraded Azure AI Speech so that users can rapidly generate a voice replica with just a few seconds of sampled speech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/microsoft_updates_azure_ai_speech/>
+
+---
+
+## The Only Recording of Woody Guthrie Singing the Protest Song 'Deportee' Has Been Released for the First Time
+
+date: 2025-07-31, from: Smithsonian Magazine
+
+The singer-songwriter recorded the audio on a reel-to-reel tape machine in his apartment in the 1950s. Now, the previously unheard song has been restored using A.I. audio technology 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-only-recording-of-woody-guthrie-singing-the-protest-song-deportee-has-been-released-for-the-first-time-180987084/>
+
+---
+
+## Beijing summons Nvidia over alleged backdoors in China-bound AI chips
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>H20 silicon under the microscope after slipping through US export bans</h4> <p>China&#39;s internet watchdog has hauled Nvidia in for a grilling over alleged backdoors in its H20 chips, the latest twist in the increasingly paranoid semiconductor spat between Washington and Beijing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/beijing_nvidia_backdoors/>
+
+---
+
+## Microsoft removes the whiff of Vista from Windows 11 Insider Preview
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Trauma-inducing startup sound finally axed</h4> <p>Great news! Microsoft has finally squashed a Windows 11 Insider bug. No, it still hasn&#39;t &#34;Made the Start Menu Great Again.&#34; No, you still can&#39;t drag the taskbar wherever you like. But yes, it simply kills the bug that played the Windows Vista boot chime on startup.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/microsoft_windows_bug/>
+
+---
+
+## Arm plots move up the stack with push into end-to-end silicon
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Brit chip biz sees demand surge for turnkey compute subsystems, chiplets, and complete SoC designs</h4> <p>Chip designer Arm says it is looking to bring more compute subsystems, chiplets, and even end-to-end solutions to market as customers increasingly expect a more complete starting point for their custom silicon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/arm_q1_2026/>
+
+---
+
+## Kremlin goons caught abusing ISPs to spy on Moscow-based diplomats, Microsoft says
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Russia spying on foreign embassies? Say it ain&#39;t so</h4> <p>Russian cyberspies are abusing local internet service providers&#39; networks to target foreign embassies in Moscow and collect intel from diplomats&#39; devices, according to a Microsoft Threat Intelligence warning.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/kremlin_goons_caught_abusing_isps/>
+
+---
+
+## Paleontologists Identify a 'Rapacious' Velociraptor Relative With Powerful Hands and a Strong Bite
+
+date: 2025-07-31, from: Smithsonian Magazine
+
+The dinosaur Shri rapax likely relied on its grip strength to take down prey in what is now Mongolia 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/paleontologists-identify-a-rapacious-velociraptor-relative-with-powerful-hands-and-a-strong-bite-180987078/>
+
+---
+
+## Silk Typhoon spun a web of patents for offensive cyber tools, report says
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>US court docs reveal that infamous Chinese snoops filed IP papers like tax returns</h4> <p>Security researchers have uncovered more than a dozen patents for offensive cybersecurity tools filed by Chinese companies allegedly tied to Beijing&#39;s Silk Typhoon espionage crew.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/silk_typhoon_attack_patents/>
+
+---
+
+## NVIDIA extends Windows 10 support for RTX GPUs by one year
+
+date: 2025-07-31, from: OS News
+
+Stuck at the bottom of NVIDIA&#8217;s announcement of its latest graphics driver update is a section about the company&#8217;s plan for Windows 10 support. As we all know, Windows 10 will become end-of-life in October of this year, and like so many others, NVIDIA needs to deal with this. Before we get to Windows 10, though, NVIDIA also reminds users that a few very popular GPU generations will no longer receive driver updates after October of this year. The company notes that GPUs based on the Maxwell, Pascal, and Volta architectures will Game Ready Driver in October 2025, after which they&#8217;ll only get quarterly security updates for another three years. These three architectures roughly correspond to the GeForce GTX 7xx, 9xx, and 10xx series and their mobile counterparts, as well as a few other higher-end cards from the same generations. The full list is available to see if your GPU will receive its last driver update in a few months. As for Windows 10 support, the company notes: Also, we’re extending Windows 10 Game Ready Driver support for all GeForce RTX GPUs to October 2026, a year beyond the operating system’s end-of-life, to ensure users continue to receive the latest day-0 optimizations for new games and apps. ↫ Andrew Burnes at nvidia.com Considering half of Windows users are still using Windows 10, this is probably the correct policy by NVIDIA. Ideally this support would last even longer than just that one year, but with a company like NVIDIA you kind of have to take what you can get, because generous they are not. 
+
+<br> 
+
+<https://www.osnews.com/story/142934/nvidia-extends-windows-10-support-for-rtx-gpus-by-one-year/>
+
+---
+
+## Canonical dusts off TPM encryption for Ubuntu 25.10
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Passwordless disk locking is coming, a couple of years later than hoped</h4> <p>Canonical&#39;s Director of Engineering for Ubuntu Desktop has published a roadmap for the 25.10 release, which includes a feature that was originally planned for 23.10.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/ubuntu_tpm_fde/>
+
+---
+
+## NASA Installs Key ‘Sunblock’ Shield on Roman Space Telescope
+
+date: 2025-07-31, from: NASA breaking news
+
+Technicians have successfully installed two sunshields onto NASA’s Nancy Grace Roman Space Telescope’s inner segment. Along with the observatory’s Solar Array Sun Shield and Deployable Aperture Cover, the panels (together called the Lower Instrument Sun Shade), will play a critical role in keeping Roman’s instruments cool and stable as the mission explores the infrared universe. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/nasa-installs-key-sunblock-shield-on-roman-space-telescope/>
+
+---
+
+## This Man Kept a Meticulous List of All 3,599 Books He’d Read Since 1962. When He Died, His Family Published It Online
+
+date: 2025-07-31, from: Smithsonian Magazine
+
+Dan Pelzer, who died on July 1 at age 92, is having a viral moment after his relatives shared his 109-page log featuring every single book he finished over more than 60 years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-man-kept-a-meticulous-list-of-all-3599-books-hed-read-since-1962-when-he-died-his-family-published-it-online-180987074/>
+
+---
+
+## Brit watchdog pushes to rein in Microsoft and AWS with 'strategic market status'
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Regulators around the globe pay attention as results of 21-month cloud probe published</h4> <p>Britain&#39;s competition regulator says Microsoft and AWS are using their dominance to harm UK cloud customers and proposes to designate both with strategic market status (SMS) to take action against them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/cma_aws_microsoft_sms/>
+
+---
+
+## Figma debuts on Wall Street at $33 per share – then more than triples
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Investors cash in as design firm goes public after takeover dreams dashed</h4> <p><strong>updated</strong>  Adobe competitor and one-time acquisition target Figma debuted on public markets on Thursday with 36,937,080 shares of Class A common stock at $33 apiece, valuing the web design tool developer at $19.3 billion. But the price-setters apparently underestimated demand dramatically, as investors sent the price up more than threefold by the end of the trading day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/ipo_figma/>
+
+---
+
+## NASA Invites Proposals to Lease Aircraft Hangar in Cleveland
+
+date: 2025-07-31, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland is seeking proposals for the use of its historic aircraft hangar, along with a parking lot, tarmac, and a small neighboring office building.&#160;Proposals are due by 1 p.m. EDT on Nov. 28. &#160; The hangar, formally known as the Flight Research Building, is available for lease by signing a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/lease-nasa-aircraft-hangar-in-cleveland/>
 
 ---
 
@@ -49,7 +349,7 @@ date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
 
 date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
 
-<h4>Deal for legacy applications support reaches £322M as they continue to be decommissioned</h4> <p>UK tax collector His Majesty&#39;s Revenue and Customs (HMRC) has awarded Capgemini a £107 million support and services deal, without competition, under a relationship that started more than twenty years ago.…</p> 
+<h4>Deal for legacy applications support reaches £322M as they continue to be decommissioned</h4> <p><strong>Updated</strong>  UK tax collector His Majesty&#39;s Revenue and Customs (HMRC) has awarded Capgemini a £107 million support and services deal, without competition, under a relationship that started more than twenty years ago.…</p> 
 
 <br> 
 
@@ -359,7 +659,7 @@ date: 2025-07-30, updated: 2025-07-31, from: The Register (UK I.T. News)
 
 ## Zed code editor hears your prayers, rolls out AI-free mode
 
-date: 2025-07-30, updated: 2025-07-30, from: The Register (UK I.T. News)
+date: 2025-07-30, updated: 2025-07-31, from: The Register (UK I.T. News)
 
 <h4>Can we have this as a global feature in all software? Please?</h4> <p>Zed, a fast new Rust-based text editor aimed at programmers, now lets you totally disable LLM bot integration. We&#39;re sure some users will rejoice – but how many?…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
