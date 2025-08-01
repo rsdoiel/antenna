@@ -1,11 +1,85 @@
 ---
 title: north america
-updated: 2025-07-31 14:07:31
+updated: 2025-08-01 06:09:08
 ---
 
 # north america
 
-(date: 2025-07-31 14:07:31)
+(date: 2025-08-01 06:09:08)
+
+---
+
+## Undaunted: The State Attorneys General
+
+date: 2025-08-01, from: The Contrarian
+
+These lawyers are the tip of the legal spear to fend off MAGA extremism. 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-the-state-attorneys-general>
+
+---
+
+## Gaza is starving
+
+date: 2025-07-31, from: The Contrarian
+
+The most respected Israeli sources now confirm what many have long warned: Gaza is in a state of famine. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169792851/882ae1bf16829a7e0aadb49a199bec75.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169792851/882ae1bf16829a7e0aadb49a199bec75.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/gaza-is-starving>
+
+---
+
+## Evening Roundup, July 31
+
+date: 2025-07-31, from: The Contrarian
+
+Featuring "The Tea" with April Ryan, Sen. Klobuchar & Candiace Dillard Bassett; Jeff Nesbit; Josh Levs; Azza Cohen; Meredith Blake; Marvin Kalb; and The Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-july-31>
+
+---
+
+## Madness, Masquerading as Policy
+
+date: 2025-07-31, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/madness-masquerading-as-policy>
+
+---
+
+## The Tea w/ April Ryan ft. Sen. Klobuchar & Candiace Dillard Bassett
+
+date: 2025-07-31, from: The Contrarian
+
+A recording from The Tea w/ April Ryan 07/31 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-sen-klobuchar>
+
+---
+
+## Culture recs: What to Watch This Weekend
+
+date: 2025-07-31, from: The Contrarian
+
+A historic epic starring Jason Momoa, a thoughtful true-crime series, and more 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-recs-what-to-watch-this-weekend>
 
 ---
 

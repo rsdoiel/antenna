@@ -1,11 +1,178 @@
 ---
 title: columns
-updated: 2025-07-31 14:07:35
+updated: 2025-08-01 06:09:11
 ---
 
 # columns
 
-(date: 2025-07-31 14:07:35)
+(date: 2025-08-01 06:09:11)
+
+---
+
+## Win the Face with Tears of Joy audio book!
+
+date: 2025-08-01, from: Shady Characters blog
+
+<p>The <a href="https://www.audiobooks.co.uk/audiobook/face-with-tears-of-joy-a-natural-history-of-emoji/929887"><cite>Face with Tears of Joy</cite> audio book</a> is out now, narrated by <a href="https://www.michaelbutlermurray.com/">Michael Butler Murray</a>, and this is your chance to win one of four free copies at audiobooks.com. To enter, <a href="https://shadycharacters.co.uk/2025/08/face-with-tears-of-joy-audiobook-giveaway/#comments">leave a comment on this post</a> with a valid email address so that I can contact you in the event that you win.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/08/face-with-tears-of-joy-audiobook-giveaway/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/08/face-with-tears-of-joy-audiobook-giveaway/>
+
+---
+
+## 2025-08-01 Fake Modules
+
+date: 2025-08-01, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-01-fake-modules">2025-08-01 Fake Modules</h1>
+
+<p>Inventing module names and elevator pitches based on the covers of the longest running science fiction series, Perry Rhodan. A random cover is provided and off we go. (We play this on a Discord server, the idea is by somebody else.)</p>
+
+<p><img loading="lazy" src="2025-07-30-fake-modules-1.jpg" alt="A cover showing a stegosaurus, a brontosaurus (?), a stone arch like one would see it at the Ardèche in France, some volanos in the distance and a flying golf-ball with antennas. The title of vol. 780 is &ldquo;Die Testwelt&rdquo;." /></p>
+
+<p>My entry: &ldquo;Ugh Nugh and the bleeping Invasion: Gather your stoner friends, pick up those spears and travel through the subterranean dinosaur refuge to find the source of the flying drones that keep pestering your tribe. Infiltrate the lair of the rocket men and wrest the eye of eyes from their cold gauntlets and return your land to peace and quiet. A 16 page module for Wolf Packs &amp; Winter Snow and other old school role-playing games.&rdquo;</p>
+
+<p>This is the inspiration for <a href="2025-07-27-1pdc">2025-07-27 My One Page Dungeon Contest submission</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Fake_Modules">#Fake Modules</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-07-30-fake-modules>
+
+---
+
+## Spying on People Through Airportr Luggage Delivery Service
+
+date: 2025-08-01, updated: 2025-07-30, from: Bruce Schneier blog
+
+<p>Airportr is a service that allows passengers to have their luggage picked up, checked, and  delivered to their destinations. As you might expect, it&#8217;s used by wealthy or important people. So if the company&#8217;s website is <a href="https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/">insecure</a>, you&#8217;d be able to spy on lots of wealthy or important people. And maybe even steal their luggage.</p>
+<blockquote><p>Researchers at the firm CyberX9 found that simple bugs in Airportr&#8217;s website allowed them to access virtually all of those users&#8217; personal information, including travel plans, or even gain administrator privileges that would have allowed a hacker to redirect or steal luggage in transit. Among even the small sample of user data that the researchers reviewed and shared with WIRED they found what appear to be the personal information and travel records of multiple government officials and diplomats from the UK, Switzerland, and the US...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/spying-on-people-through-airportr-luggage-delivery-service.html>
+
+---
+
+## Must we choose between saving democracy and saving the Earth?
+
+date: 2025-08-01, from: Robert Reich's blog
+
+No! 
+
+<br> 
+
+<https://robertreich.substack.com/p/do-we-have-to-choose-between-saving>
+
+---
+
+## curl adds parallel host control
+
+date: 2025-08-01, from: Daniel Stenberg Blog
+
+I&#8217;m convinced a lot of people have not yet figured out that curl has supported parallel downloads for six years already by now. Provided a practically unlimited number of URLs, curl can be asked to get them in a parallel fashion. It then makes sure to keep N transfers alive for as long as there &#8230; <a href="https://daniel.haxx.se/blog/2025/08/01/curl-adds-parallel-host-control/" class="more-link">Continue reading <span class="screen-reader-text">curl adds parallel host control</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/08/01/curl-adds-parallel-host-control/>
+
+---
+
+## July 31, 2025 
+
+date: 2025-08-01, from: Heather Cox Richardson blog
+
+On Monday, at a meeting with U.K. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-31-2025>
+
+---
+
+## The Powers That Were
+
+date: 2025-08-01, from: James Fallows, Substack
+
+American institutions, for all their flaws, have protected our people. Now the institutions need our help. 
+
+<br> 
+
+<https://fallows.substack.com/p/the-powers-that-were>
+
+---
+
+## Friday 1 August, 2025
+
+date: 2025-07-31, from: John Naughton's online diary
+
+Full steam ahead A photograph of Brandon Head in Co. Kerry which momentarily looked like a giant locomotive trailing clouds of steam. Quote of the Day ”To be an enemy of America can be dangerous, but to be a friend &#8230; <a href="https://memex.naughtons.org/friday-1-august-2025/41067/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-1-august-2025/41067/>
+
+---
+
+##  1787: &#8220;Caroline Lucretia Herschel became the first woman to receive a salary... 
+
+date: 2025-07-31, updated: 2025-07-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047255-1787-caroline-lucretia-he>
+
+---
+
+##  Two Ways To Film The Same Scene 
+
+date: 2025-07-31, updated: 2025-07-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/two-ways-to-film-the-same-scene>
+
+---
+
+## Bias or Just BS?
+
+date: 2025-07-31, from: Dan Rather's Steady
+
+Another blow to CBS News 
+
+<br> 
+
+<https://steady.substack.com/p/bias-or-just-bs>
+
+---
+
+## Be warned: the financial bubble will soon burst 
+
+date: 2025-07-31, from: Robert Reich's blog
+
+And just like 2008, many will be hurt &#8212; except for the biggest gamblers. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-financial-bubble-will-soon-burst>
+
+---
+
+##  Two of the most promiscuous snack brands, Oreo and Reese&#8217;s, are teaming... 
+
+date: 2025-07-31, updated: 2025-07-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/07/0047264-two-of-the-most-promiscuo>
 
 ---
 

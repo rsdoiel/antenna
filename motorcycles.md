@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-07-31 14:07:39
+updated: 2025-08-01 06:09:14
 ---
 
 # motorcycles
 
-(date: 2025-07-31 14:07:39)
+(date: 2025-08-01 06:09:14)
+
+---
+
+## Harley-Davidson Has a Cheap, Entry-Level Motorcycle Coming Soon
+
+date: 2025-08-01, from: Ride Apart, Electric Motorcycle News
+
+After years without a true entry-level motorcycle, Harley-Davidson will debut the Sprint motorcycle with a price tag of around $6,000 in 2026, as per the outgoing CEO said.  
+
+<br> 
+
+<https://www.rideapart.com/news/767610/2026-harley-davidson-sprint-entry-level-motorcycle/>
+
+---
+
+## India Is Dead Serious About the Revival Of Norton Motorcycles
+
+date: 2025-08-01, from: Ride Apart, Electric Motorcycle News
+
+India is taking Norton seriously. How serious? Prime Minister Modi flew to the UK to preview Norton’s lineup with his British counterpart.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767554/india-serious-about-norton-motorcycles-revival/>
+
+---
+
+## Triumph's Wheelie Control System Turns You Into a Hooligan With a Safety Net
+
+date: 2025-08-01, from: Ride Apart, Electric Motorcycle News
+
+The all-new Front Wheel Lift Control system on the 2025 Triumph Speed Triple 1200 RS ensures being a hooligan is more accessible than ever. 
+
+<br> 
+
+<https://www.rideapart.com/news/767526/triumph-speed-triple-1200-rs-front-wheel-lift-control/>
+
+---
+
+## Ural Says It's Pausing Production Of Its Legendary Sidecar Line
+
+date: 2025-08-01, from: Ride Apart, Electric Motorcycle News
+
+With the introduction of the all-new Ural Neo 500 platform around the corner, big changes are on the horizon. 
+
+<br> 
+
+<https://www.rideapart.com/news/767523/ural-gearup-production-pause-planned/>
+
+---
+
+## Genre-Bending Rock & Roll Band Whiskey Myers to Headline Saturday Night Concert at Talladega
+
+date: 2025-07-31, from: Kickin the Tires blog
+
+TALLADEGA, Ala. (July 31, 2025) – Talladega Superspeedway announced today that genre-bending rock and roll band Whiskey Myers will headline the Saturday Night Concert this fall. Fans will jam out&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/genre-bending-rock-roll-band-whiskey-myers-to-headline-saturday-night-concert-at-talladega/>
 
 ---
 

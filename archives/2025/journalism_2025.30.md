@@ -1,11 +1,44 @@
 ---
 title: journalism
-updated: 2025-07-31 14:07:37
+updated: 2025-08-01 06:09:13
 ---
 
 # journalism
 
-(date: 2025-07-31 14:07:37)
+(date: 2025-08-01 06:09:13)
+
+---
+
+## Federal government suspends research funding to UCLA
+
+date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated July 31 at 10:25 p.m.</em>
+The federal government is suspending research funding to UCLA, according to a Thursday email from Chancellor Julio Frenk. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/31/federal-government-suspends-research-funding-to-ucla/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper))
+
+Lawyers for the plaintiff rested their case Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/31/491503/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper))
+
+Michael Simidjian, the director of academic affairs and personnel, testified Thursday. Simidjian told Anderson administrators in an email to “not take any action” while Klein’s email was under review. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/31/491501/>
 
 ---
 

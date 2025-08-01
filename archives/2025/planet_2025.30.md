@@ -1,11 +1,423 @@
 ---
 title: planet
-updated: 2025-07-31 14:07:30
+updated: 2025-08-01 06:09:07
 ---
 
 # planet
 
-(date: 2025-07-31 14:07:30)
+(date: 2025-08-01 06:09:07)
+
+---
+
+## 'Children cannot eat symbolism' - Gazan on food shortages
+
+date: 2025-08-01, from: RTÉ News
+
+Most people in Gaza are eating just one meal a day, with many collapsing from hunger, a Palestinian businessman inside the enclave has said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0801/1526511-gaza-aid/>
+
+---
+
+## Indian Embassy issues safety advisory citing attacks
+
+date: 2025-08-01, from: RTÉ News
+
+The Indian Embassy in Ireland has warned its citizens to take reasonable precautions for their personal security following what it said was an increase in physical attacks reported against Indian citizens recently. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526539-indian-embassy-ireland/>
+
+---
+
+## Storm Floris named as Met Éireann issues advisory
+
+date: 2025-08-01, from: RTÉ News
+
+Met Éireann has issued a weather advisory for Storm Floris, which will bring wet and unseasonably windy weather on Sunday night into bank holiday Monday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526538-storm-floris/>
+
+---
+
+## Man gave €350,000 to poor for seat in heaven, court hears
+
+date: 2025-08-01, from: RTÉ News
+
+The High Court has stepped in to protect the interests of a farmer who has already given €350,000 cash to homeless and poor people on the basis God has promised him a seat in heaven. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0801/1526534-high-court/>
+
+---
+
+## Ceol agus spraoi: what's on this Bank Holiday weekend?
+
+date: 2025-08-01, from: RTÉ News
+
+This weekend marks the last Bank Holiday weekend of the summer, and with a wide range of events and festivals planned and a largely clear weather forecast, there is no shortage of opportunities for diversion across the country. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526523-bank-holiday-weekend/>
+
+---
+
+## Africa’s Catholic Bishops discuss 2025-2050 pastoral vision
+
+date: 2025-08-01, from: Vatican News
+
+
+                    <p>SECAM, the Symposium of Episcopal Conferences of Africa and Madagascar, officially opens its 20th Plenary Assembly in Kigali, Rwanda. The event brings together not only bishops from all over the country, but also the Rwandan Prime Minister and representatives from other continents—Asia, Latin America, North America, and Europe</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/kigali-secam-20th-plenary-assembly-2025-2050.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/kigali-secam-20th-plenary-assembly-2025-2050.html>
+
+---
+
+## Malawi: A better future with light
+
+date: 2025-08-01, from: Vatican News
+
+
+                    <p>Religious sisters in Malawi are helping the local population build a better life with the support of the US non-profit organisation ‘Watts of Love,’ whose work has improved the lives of entire communities through solar light and education.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/malawi-better-future-light-watts-of-love-aid-charity-africa.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/malawi-better-future-light-watts-of-love-aid-charity-africa.html>
+
+---
+
+## Smithsonian removes Trump impeachment references - report
+
+date: 2025-08-01, from: RTÉ News
+
+The Smithsonian's National Museum of American History removed a label referencing Donald Trump's two impeachments last month following pressure from the White House, The Washington Post reported. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0801/1526524-donald-trump-smithsonian/>
+
+---
+
+## Ireland fined €1.5m by EU for flexible work law delays
+
+date: 2025-08-01, from: RTÉ News
+
+The EU Court of Justice has ordered Ireland to pay €1.54 million to the European Commission over delays in introducing laws allowing for flexible and remote working. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526522-ireland-flexible-work-fine/>
+
+---
+
+## ECJ rejects Govt's claim over asylum seeker obligations
+
+date: 2025-08-01, from: RTÉ News
+
+The European Court of Justice has rejected the Government's claim that an influx of international protection applicants impacted its obligation to cover asylum seekers' basic needs. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526492-ecj-asylum-seeker-accommodation/>
+
+---
+
+## Seán Rocks funeral to take place on Monday in Co Monaghan
+
+date: 2025-08-01, from: RTÉ News
+
+The funeral for broadcaster and actor Seán Rocks will take place on Monday in Co Monaghan. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526489-sean-rocks-funeral/>
+
+---
+
+## 'I'm really excited for us all to be together looking to Jesus'
+
+date: 2025-08-01, from: Vatican News
+
+
+                    <p>Young Austrians participating in the Jubilee of Young People express their joy of being together to look toward Jesus, when often "one stands alone in faith," and reflect that while of course examining how to work toward peace on global issues is a priority, that they also are discussing issues 'closer to home' including in one's family and community.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/i-m-really-excited-for-us-to-be-together-looking-to-jesus.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/i-m-really-excited-for-us-to-be-together-looking-to-jesus.html>
+
+---
+
+## What's new in film, tv and music this August
+
+date: 2025-08-01, from: RTÉ News
+
+Whether you are staying in, heading to the cinema or updating your playlists, August has plenty to offer. From buzzy homegrown films to long-awaited sequels and standout new albums, there's no shortage of fresh releases to keep you entertained this month. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0801/1525889-august-tv-shows-movies-and-music/>
+
+---
+
+## Rome, city of hope: The sites of the Jubilee of Youth 
+
+date: 2025-08-01, from: Vatican News
+
+
+                    <p>Rome welcomes one million young people to celebrate their Jubilee event in three key locations: St. Peter’s Basilica, the Circus Maximus, and the Calatrava Sail at Tor Vergata.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/rome-city-of-hope-the-sites-of-the-jubilee-of-youth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/rome-city-of-hope-the-sites-of-the-jubilee-of-youth.html>
+
+---
+
+## Thurles racecourse closes with immediate effect
+
+date: 2025-08-01, from: RTÉ News
+
+Thurles racecourse, Ireland's only privately owned racecourse, has closed with immediate effect. 
+
+<br> 
+
+<https://www.rte.ie/sport/racing/2025/0801/1526477-thurles-racecourse-closes-with-immediate-effect/>
+
+---
+
+## 200 confessionals now open for the day of penitence in Rome
+
+date: 2025-08-01, from: Vatican News
+
+
+                    <p>From 10:30am to 6:00pm, the Circus Maximus, the ancient Roman arena, will be an open-air confessional for young people wishing to receive the Sacrament of Reconciliation as part of the Holy Year celebrations. For the occasion, the Youcat Foundation will distribute 10,000 copies of a text on the subject.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/200-confessionals-for-youth-during-the-day-of-penitence.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/200-confessionals-for-youth-during-the-day-of-penitence.html>
+
+---
+
+## UK ninja sword ban begins as 1,000 weapons surrendered
+
+date: 2025-08-01, from: RTÉ News
+
+At least 1,000 weapons have been surrendered under a British government amnesty launched last month to combat knife crime, as a new ban on ninja swords came into effect. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0801/1526472-uk-knife-amnesty/>
+
+---
+
+## Nikita Hand to sue Conor McGregor and couple
+
+date: 2025-08-01, from: RTÉ News
+
+Nikita Hand has lodged a new civil action against former MMA fighter Conor McGregor as well as a couple he intended to call to give evidence in his appeal, before he withdrew the application in what were described as "mysterious circumstances". 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0801/1526470-conor-mcgregor-case/>
+
+---
+
+## Aleppo Friar in Rome for Jubilee: 'We are living the dream of many Syrians'
+
+date: 2025-08-01, from: Vatican News
+
+
+                    <p>Arriving in Rome with some young people—refugees in Europe with their families due to the civil war that broke out in 2011—the Franciscan friar of the Custody of the Holy Land shares with Vatican Media the difficulties faced by the parish of St. Francis of Assisi following recent attacks. However, he also bears witness to the 'daily miracle' of a living Christian community of over 1,200 faithful, who continue to persevere with faith and hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/jubilee-the-hope-of-brother-george-from-aleppo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/jubilee-the-hope-of-brother-george-from-aleppo.html>
+
+---
+
+## Aer Lingus CEO wants airport night restrictions removed
+
+date: 2025-08-01, from: RTÉ News
+
+Aer Lingus CEO Lynn Embleton has said the recent An Coimisiún Pleanála decision on night-time noise at Dublin Airport introduced an "unnecessary" annual movement restriction, which is likely to impede both future growth of north Atlantic traffic and the basing of more short-haul aircraft there. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0801/1526459-aer-lingus-quarterly-results/>
+
+---
+
+## Garda report 'drip-feed' to media an insult, says GRA
+
+date: 2025-08-01, from: RTÉ News
+
+The "drip-feeding" of the findings of a report on attitudes within An Garda Síochána to road policing through the media has been described as "another insult" to gardaí. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526454-garda-report/>
+
+---
+
+## 'Work continues' after EU-US trade deal, says Šefčovič
+
+date: 2025-08-01, from: RTÉ News
+
+Follow live updates as US President Donald Trump imposes steep tariffs on exports from dozens of trading partners. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0801/1526450-tariff-tracker/>
+
+---
+
+## Europe wakes up to Trump's new tariff reality
+
+date: 2025-08-01, from: RTÉ News
+
+As US President Donald Trump's new tariff regime clicks into gear, producers around Europe are feeling the impact, some holding back shipments, others hiking sticker prices or taking a hit to margins. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0801/1526446-eu-tariffs/>
+
+---
+
+## Donald Trump's envoy Witkoff visits Gaza food site
+
+date: 2025-08-01, from: RTÉ News
+
+US President Donald Trump's envoy Steve Witkoff has visited an aid distribution site in Gaza run by the American privately-owned Gaza Humanitarian Foundation. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0801/1526445-gaza-israel/>
+
+---
+
+## The Naked Gun reboot will knock your socks off
+
+date: 2025-08-01, from: RTÉ News
+
+Is this the silliest film you'll see this year? Oh, yes. Is it the funniest movie you'll see this year? Also, very likely, yes. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0801/1526099-the-naked-gun-reboot-will-knock-your-socks-off/>
+
+---
+
+## Remediation continues 20 years on at Carlow sugar site
+
+date: 2025-08-01, from: RTÉ News
+
+Food company Greencore has said remediation works are still ongoing on the site of the former Carlow sugar factory, 20 years after the plant closed. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0801/1526418-carlow-sugar-plant/>
+
+---
+
+## Five children among 31 killed in Russian attack on Kyiv
+
+date: 2025-08-01, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky has said rescue operations have finished in Kyiv following a Russian strike yesterday and said 31 people, including five children, were killed and 159 had been wounded. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526443-ukraine-russia/>
+
+---
+
+## Markets tumble as countries hit with steep US tariffs
+
+date: 2025-08-01, from: RTÉ News
+
+US President Donald Trump's latest wave of tariffs on exports from dozens of trading partners, including Canada, Brazil, India and Taiwan, has sent global markets tumbling as countries pushed for talks to clinch better deals. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526441-us-tariffs/>
+
+---
+
+## Injury to Porecki forces Wallabies into late change
+
+date: 2025-08-01, from: RTÉ News
+
+Australia's injury problems are mounting ahead of Saturday's final Test with the British and Irish Lions, with hookers David Porecki and Matt Faessler both picking up foot issues in training yesterday. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0801/1526440-injury-to-porecki-forces-wallabies-into-late-change/>
+
+---
+
+## Slower growth in Irish economy after trade deal - Harris
+
+date: 2025-07-31, from: RTÉ News
+
+The Tánaiste has said the Irish economy will continue to grow and jobs will be created, but at a lower rate, according to a preliminary analysis by the Department of Finance of the impact of the 15% US tariff on EU products. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0801/1526434-ireland-trade/>
+
+---
+
+## Labour backs Connolly in presidential race
+
+date: 2025-07-31, from: RTÉ News
+
+The Labour Party has formally agreed to back Catherine Connolly's campaign to become the next president of Ireland, saying that while it has had "differences" with the Independent TD it believes she is "the left" candidate. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0731/1526430-labour-connolly/>
+
+---
+
+## Cardinal Zuppi: We must put an end to war before it puts an end to us
+
+date: 2025-07-31, from: Vatican News
+
+
+                    <p>40,000 young Italians gather in St. Peter’s Square for the Jubilee event “You are Peter”, dedicated to peacemaking. They hear from Cardinal Zuppi and the Latin Patriarch of Jerusalem, Cardinal Pierbattista Pizzaballa.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-zuppi-cardinal-pizzaballa-you-are-peter-jubilee-youth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-07/cardinal-zuppi-cardinal-pizzaballa-you-are-peter-jubilee-youth.html>
 
 ---
 
@@ -33,6 +445,18 @@ A mother who was brutally tortured in a flat in Dublin's north inner city has sa
 
 ---
 
+## Grab some jam and celebrate National Bannock Day
+
+date: 2025-07-31, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7599071.1753999620!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ufcw-member-christine-holowka-eating-bannock.jpg' alt='UFCW member Christine Holowka sampling fried bannock.' width='620' height='349' title='UFCW member Christine Holowka sampling fried bannock.'/><p>The United Food and Commercial Workers union has declared July 31 National Bannock Day as a way to celebrate Indigenous Peoples and the food that brings so many together.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/national-bannock-day-1.7599061?cmp=rss>
+
+---
+
 ## Country urged to get behind ladies' teams before final
 
 date: 2025-07-31, from: RTÉ News
@@ -42,6 +466,30 @@ Supporters of the ladies' football teams from Co Meath and Dublin have urged the
 <br> 
 
 <https://www.rte.ie/news/2025/0731/1526406-ladies-football-finals/>
+
+---
+
+## Country urged to get behind ladies' teams before final
+
+date: 2025-07-31, from: RTÉ News
+
+Supporters of the ladies' football teams from Meath and Dublin have urged the country to get behind both sides as the sport continues to grow in popularity across the country. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0731/1526406-ladies-football-finals/>
+
+---
+
+## Trump administration to burn $13M worth of female contraceptives, despite NGO's offer to take them
+
+date: 2025-07-31, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7478105.1741378608!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-usaid.JPG' alt='A woman hugs another person who is holding a sign that says USAID American Heroes.' width='620' height='349' title='Former U.S. Agency for International Development (USAID) Administrator Samantha Power hugs a person after laid-off USAID workers cleared out their desks and collected personal belongings, during a sendoff in Washington, D.C., U.S., February 27, 2025. REUTERS/Nathan Howard'/><p>The U.S. State Department plans to incinerate roughly $13.2 million worth of women's contraceptives despite offers from multiple aid agencies to distribute the supplies at no cost. </p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/usaid-13m-contraceptives-1.7598749?cmp=rss>
 
 ---
 
@@ -57,7 +505,7 @@ The Government should consider putting in place resources to address internation
 
 ---
 
-## Number of Roads Policing gardaí not doing jobs - report
+## Number of Roads Policing gardaí not doing jobs - Report
 
 date: 2025-07-31, from: RTÉ News
 
@@ -78,6 +526,22 @@ Social Democrats Senator Patricia Stephenson has defended her party leadership's
 <br> 
 
 <https://www.rte.ie/news/2025/0731/1526398-eoin-hayes-suspension/>
+
+---
+
+## Celebrating the World Day of the Elderly in Nairobi
+
+date: 2025-07-31, from: Vatican News
+
+
+                    <p>To mark the World Day for Grandparents and the Elderly, "Care for Aging Sisters Association Kenya" (CASAK) paid a heartfelt visit to the elderly sisters of the Assumption Sisters congregation in Nairobi’s Lang’ata.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-07/world-day-elderly-nairobi-kenya-religious.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-07/world-day-elderly-nairobi-kenya-religious.html>
 
 ---
 
@@ -117,11 +581,11 @@ date: 2025-07-31, from: CBC, World News
 
 ---
 
-## Harris to hold talks with NI Executive on US trade deals
+## Wine, spirits not expected in EU-US trade deal exemptions
 
 date: 2025-07-31, from: RTÉ News
 
-Tánaiste and Minister for Foreign Affairs and Trade Simon Harris is to hold talks with the leaders of the Northern Ireland Executive this evening on the trade deals with the US. 
+The European Commission has said it does not expect that wine and spirits will be included in the first group of exemptions to be announced as part of the EU-US trade deal. 
 
 <br> 
 
@@ -225,9 +689,9 @@ A man who raped a Spanish tourist in a Dublin city centre street during New Year
 
 ---
 
-## Trade critical to ending plastic pollution
+## Trade measures critical to ending plastic pollution
 
-date: 2025-07-31, from: United Nations, Top Stories
+date: 2025-07-31, from: United Nations, Climate Change
 
 Trade must be part of the solution to end plastic pollution – a global problem which disproportionately affects developing countries. 
 
@@ -241,7 +705,7 @@ Trade must be part of the solution to end plastic pollution – a global problem
 
 date: 2025-07-31, from: United Nations, Top Stories
 
-The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism.&nbsp;&nbsp; 
+The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism. 
 
 <br> 
 
@@ -294,6 +758,54 @@ In Gaza, UN aid teams continued their efforts on Thursday to help people of the 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/07/1165538>
+
+---
+
+## Once-in-a-decade push for the ‘locked out’: Global leaders set for landmark UN conference in Turkmenistan
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+In early August, Heads of State, ministers, investors and grassroots leaders will gather in Awaza on Turkmenistan’s Caspian coast for once-in-a-decade UN conference aiming to rewire the global system in support of 32 landlocked developing countries whose economies are often “locked out” of opportunity due to their lack of access to the sea. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165543>
+
+---
+
+## In Myanmar, conflict and floods collide as UN warns of deepening crisis
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+As Myanmar reels from deadly floods, renewed fighting and widespread displacement, the United Nations warned on Thursday that urgent humanitarian needs are going unmet due to escalating violence and blocked access. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165549>
+
+---
+
+## Gaza Strip: Humanitarians warn of worsening famine conditions, attacks on civilians
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+Famine conditions are tightening their grip on the Gaza Strip, as the latest UN humanitarian update warns of soaring malnutrition-related deaths, relentless civilian attacks, and mounting obstacles to aid access amid deepening crisis.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165548>
+
+---
+
+## World News in Brief: First UN mission to Syria’s Sweida, fresh displacement in Haiti, new lightning record
+
+date: 2025-07-31, from: United Nations, Top Stories
+
+The first UN inter-agency mission to embattled Sweida governorate in Syria arrived there on Thursday, UN aid coordination office OCHA has reported.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165547>
 
 ---
 
@@ -497,7 +1009,7 @@ date: 2025-07-31, from: CBC, World News
 
 date: 2025-07-31, from: RTÉ News
 
-Gardaí investigating the disappearance of Fiona Sinnott have concluded their search of an area in Co Wexford for today. 
+Gardaí investigating the disappearance of Fiona Sinnott have concluded their search of an area in Co Wexford. 
 
 <br> 
 
@@ -553,11 +1065,11 @@ President Michael D Higgins has led the tributes to broadcaster and actor Seán 
 
 ---
 
-## U.S. extends trade deal with Mexico, sets tariffs for South Korea, Brazil as Trump's deadline nears
+## U.S. extends trade deal with Mexico, sets tariffs for dozens of countries
 
 date: 2025-07-31, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7598262.1753956327!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-southkorea.JPG' alt='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy.' width='620' height='349' title='Activists hold signs during a protest against U.S. President Donald Trump&apos;s tariffs policy near the U.S. embassy in Seoul, South Korea, July 31, 2025.    REUTERS/Kim Hong-Ji     TPX IMAGES OF THE DAY'/><p>While a handful of trade deals have trickled in -- including 15 per cent for South Korea and an extension of current rates for Mexico --many details remain hazy, leaving businesses and manufacturers around the world bracing for more price hikes regardless.</p> 
+<img src='https://i.cbc.ca/1.7599339.1754013140!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-speaking-in-the-roosevelt-room-of-the-white-house.jpg' alt='U.S. President Donald Trump speaking in the Roosevelt Room of the White House.' width='620' height='349' title='U.S. President Donald Trump speaks during an event to sign an executive order restarting the Presidential Fitness Test in public schools, Thursday, July 31, 2025, in the Roosevelt Room of the White House in Washington.'/><p>U.S. President Donald Trump signed an executive order on Thursday imposing "reciprocal" tariffs ranging from 10 per cent to 41 per cent on U.S. imports from dozens of countries and foreign locations.</p> 
 
 <br> 
 
@@ -577,11 +1089,11 @@ date: 2025-07-31, from: RTÉ News
 
 ---
 
-## Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 130
+## Russian missile, drone attacks on Kyiv have killed at least 16, Zelenskyy says
 
 date: 2025-07-31, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7598254.1753953948!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A woman embraces another woman in front of the site of an airstrike at an apartment building.' width='620' height='349' title='A woman embraces a person as she waits for her son to be rescued from under the debris, at the site of an apartment building hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko     TPX IMAGES OF THE DAY'/><p>Russian missile and drone attacks overnight on Ukraine's capital killed at least 13 people, including a six-year-old boy, and wounded 132 others, authorities said Thursday.</p> 
+<img src='https://i.cbc.ca/1.7598254.1753953948!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A woman embraces another woman in front of the site of an airstrike at an apartment building.' width='620' height='349' title='A woman embraces a person as she waits for her son to be rescued from under the debris, at the site of an apartment building hit during Russian missile and drone strikes, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko     TPX IMAGES OF THE DAY'/><p>Russia launched waves of missiles and drones on Kyiv before dawn on Thursday, killing 16 people, including two children, and wounding well over 100 others, officials in the Ukrainian capital said.</p> 
 
 <br> 
 
@@ -589,11 +1101,11 @@ date: 2025-07-31, from: CBC, World News
 
 ---
 
-## Ukraine votes to restore power of anti-corruption bodies
+## Russian attacks on Kyiv kill 16, injure over 100
 
 date: 2025-07-31, from: RTÉ News
 
-Ukraine's parliament has approved a bill restoring the independence of the country's two main anti-corruption agencies, moving to defuse a crisis that has shaken faith in President Volodymyr Zelensky's leadership. 
+Russia launched waves of missiles and drones on Kyiv before dawn, killing 16 people including two children, and wounding well over 100 others, officials in the Ukrainian capital said. 
 
 <br> 
 

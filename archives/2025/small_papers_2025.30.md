@@ -1,11 +1,56 @@
 ---
 title: small papers
-updated: 2025-07-31 14:07:41
+updated: 2025-08-01 06:09:16
 ---
 
 # small papers
 
-(date: 2025-07-31 14:07:41)
+(date: 2025-08-01 06:09:16)
+
+---
+
+## Nonprofit to launch fundraising campaign for restoration projects on the Queen Mary
+
+date: 2025-08-01, from: Long Beach Post
+
+<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-400x247.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Queen Mary Heritage Foundation is compiling a comprehensive list of restoration projects they plan to fund aboard the historic ocean liner, with a goal of completing three in the next year. </p>
+<p>The post <a href="https://lbpost.com/news/local-history/nonprofit-fundraising-restoration-projects-queen-mary">Nonprofit to launch fundraising campaign for restoration projects on the Queen Mary </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/local-history/nonprofit-fundraising-restoration-projects-queen-mary>
+
+---
+
+## Man gets 358 years in prison for murdering 17-year-old Poly student as she walked home from work
+
+date: 2025-07-31, from: Long Beach Post
+
+<figure><img width="1024" height="644" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-1024x644.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-1024x644.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-400x252.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA.jpg 1111w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The motive remains a mystery.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-gets-358-years-in-prison-for-murdering-17-year-old-poly-student-as-she-walked-home-from-work">Man gets 358 years in prison for murdering 17-year-old Poly student as she walked home from work</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-gets-358-years-in-prison-for-murdering-17-year-old-poly-student-as-she-walked-home-from-work>
+
+---
+
+## More than 1,000 National Guard troops to withdraw from LA as Trump scales back presence
+
+date: 2025-07-31, from: Long Beach Post
+
+<figure><img width="1024" height="644" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-1024x644.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-1024x644.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-400x252.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Chief Pentagon spokesperson Sean Parnell said in a statement that roughly 250 California National Guard troops will remain in Los Angeles to protect federal personnel and property.</p>
+<p>The post <a href="https://lbpost.com/news/more-than-1000-national-guard-troops-to-withdraw-from-la-as-trump-scales-back-presence">More than 1,000 National Guard troops to withdraw from LA as Trump scales back presence</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/more-than-1000-national-guard-troops-to-withdraw-from-la-as-trump-scales-back-presence>
 
 ---
 
@@ -13,7 +58,7 @@ updated: 2025-07-31 14:07:41
 
 date: 2025-07-31, from: Long Beach Post
 
-<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It's part of a nationwide push to let young people access reading material that may have been thrown out of their local libraries and schools.</p>
 <p>The post <a href="https://lbpost.com/news/education/long-beach-will-open-up-its-e-book-library-so-teens-from-other-states-can-read-banned-books">Long Beach will open up its e-book library so teens from other states can read banned books</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -28,7 +73,7 @@ date: 2025-07-31, from: Long Beach Post
 
 date: 2025-07-31, from: Long Beach Post
 
-<figure><img width="1024" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city is improving how long it takes to get people from temporary shelter into permanent housing, but, with long timelines and limited options, it still relies on moving people in need from motel to motel.</p>
 <p>The post <a href="https://lbpost.com/news/vagabond-inn-long-beach-motel-moves-homeless">After Vagabond Inn shelter closes, Long Beach moves 15 homeless tenants into new motel</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

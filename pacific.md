@@ -1,11 +1,750 @@
 ---
 title: pacific
-updated: 2025-07-31 14:07:33
+updated: 2025-08-01 06:09:10
 ---
 
 # pacific
 
-(date: 2025-07-31 14:07:33)
+(date: 2025-08-01 06:09:10)
+
+---
+
+## Trump to impose sweeping new tariffs on much of the world
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump unveiled a battery of new tariffs on Thursday targeting exports from dozens of U.S. trading partners, as he followed through with a disruptive plan to remake global trade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/trump-to-impose-sweeping-new-tariffs-on-much-of-the-world/>
+
+---
+
+## Epstein accuser Giuffre’s family urges Trump to keep Maxwell in prison
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The family of deceased Jeffrey Epstein accuser Virginia Giuffre is urging President Donald Trump not to grant clemency to Ghislaine Maxwell, the British socialite serving a 20-year prison sentence for helping Epstein abuse underage girls. Giuffre&#8217;s family also said it was &#8220;shocking&#8221; to hear Trump say earlier this week that Epstein had poached Giuffre from Trump&#8217;s Mar-a-Lago club, where she worked at the spa in 2000. The family said Trump&#8217;s comment raised questions about whether Trump was aware of Epstein&#8217;s sexual abuse at the time. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/epstein-accuser-giuffres-family-urges-trump-to-keep-maxwell-in-prison/>
+
+---
+
+## Groundbreaking held for $337M in upgrades to Hilo sewage plant
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Under the gun due to an administrative consent order between Hawaii County and the U.S. Environmental Protection Agency, ground was broken Thursday for critical upgrades and long-needed improvements to the Hilo Wastewater Treatment Plant in Keaukaha.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/hawaii-news/groundbreaking-held-for-337m-in-upgrades-to-hilo-sewage-plant/>
+
+---
+
+## Waikoloa Village evacuation drill Saturday
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>A red flag warning has been issued for most of West Hawaii through tonight, just as Waikoloa residents are about to prepare for the wildfire season with the final Hulu Street evacuation drill of the year set for 9 a.m. to 11 a.m. Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/hawaii-news/waikoloa-village-evacuation-drill-saturday/>
+
+---
+
+## Childhood vaccination rates have dropped again, CDC data shows
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>New federal data shows that vaccination rates among American children entering kindergarten fell during the 2024-25 school year, extending a worrying trend that began during the COVID-19 pandemic. The percentage of children granted exemptions from vaccines has also risen sharply over the past decade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/childhood-vaccination-rates-have-dropped-again-cdc-data-shows/>
+
+---
+
+## Kona gardener, 37, facing deportation after DUI arrest
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>A 37-year-old man from Guatemala in the U.S. illegally and arrested for drunken driving while working as a landscaper in Kona was sentenced to time served and will face deportation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/hawaii-news/kona-gardener-37-facing-deportation-after-dui-arrest/>
+
+---
+
+## Nurses threaten short strike at Waimea hospital
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>The majority of 100 nurses from Queen&#8217;s North Hawaii Community Hospital in Waimea have voted &#8220;overwhelmingly in favor&#8221; of going on strike for three days if contract negotiations with the hospital&#8217;s leadership continue to fall short of the nurses&#8217; demands.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/hawaii-news/nurses-threaten-short-strike-at-waimea-hospital/>
+
+---
+
+## Schoolteacher fatally stabbed couple in Arkansas park, officials say
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>A 28-year-old schoolteacher has been charged in the fatal stabbing of a married couple who were hiking with their two young daughters in a remote area of an Arkansas state park over the weekend, in what authorities said Thursday appeared to have been a random attack.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/schoolteacher-fatally-stabbed-couple-in-arkansas-park-officials-say/>
+
+---
+
+## Missiles and drones hit Kyiv in deadly wave of Russian strikes
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russia bombarded Kyiv with missiles and drones before dawn Thursday, killing at least 16 people, Ukrainian officials said, in an assault that came soon after President Donald Trump had warned Moscow of new sanctions if such violence persisted.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/missiles-and-drones-hit-kyiv-in-deadly-wave-of-russian-strikes/>
+
+---
+
+## White House unveils plan for $200 million ballroom, Trump’s long-sought imprint
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; First came the gold decor in the Oval Office. Then President Donald Trump brought his Mar-a-Lago style to the Rose Garden before installing a new flagpole in front of the White House.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/white-house-unveils-plan-for-200-million-ballroom-trumps-long-sought-imprint/>
+
+---
+
+## Trump is bringing back the Presidential Fitness Test
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>If you spent your childhood struggling to do chin-ups or groaning over a sit-and-reach box in gym class, brace yourself.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/trump-is-bringing-back-the-presidential-fitness-test/>
+
+---
+
+## Flooded streets and travel delays as widespread storms move through the Northeast
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Widespread storms moving through the mid-Atlantic and Northeast on Thursday brought periods of intense rain and flash flooding that swamped streets and subways in New York and snarled air travel across the East Coast. But by early evening, much of the region appeared to have been spared more serious flooding.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/flooded-streets-and-travel-delays-as-widespread-storms-move-through-the-northeast/>
+
+---
+
+## ‘Not a damned penny.’ Texas flood survivors look for help
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>KERR COUNTY, Texas &#8212; As soon as the raging waters receded July 4 in Central Texas, Mike Richards led a group of volunteers to his property along the Guadalupe River to search for survivors. Instead, they found corpses, 10 of them, including a man who appeared to have bled to death as he waited for help.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/nation-world-news/not-a-damned-penny-texas-flood-survivors-look-for-help/>
+
+---
+
+## County launches home improvement loan program
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has launched a new loan program to help homeowners make critical repairs and upgrades, county officials announced Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/community/county-launches-home-improvement-loan-program/>
+
+---
+
+## Abstract Only exhibit opens tonight in Hilo
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Wailoa Center and Hawaii Island Art Alliance have announced the opening of 15th Annual Abstract Only exhibition, featuring abstract works from both Hawaii artists and international artists from the Shanghai Abstract Artists Association,</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/entertainment/abstract-only-exhibit-opens-tonight-in-hilo/>
+
+---
+
+## Free orchid show, sale in Kealakekua
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>The 40th annual Kona Daifukuji Orchid Club show and sale is 8 a.m. to 12 pm on Sunday, Aug. 17, at the Daifukuji Soto Mission Hall, located at 79-7241 Mamalahoa Highway in Kealakekua.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/community/free-orchid-show-sale-in-kealakekua/>
+
+---
+
+## Nonprofit that supports HVNP gets $50K grant
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>The Friends of Hawaii Volcanoes National Park has received a $50,000 grant from the National Park Foundation, the official nonprofit partner of the National Park Service.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/community/nonprofit-that-supports-hvnp-gets-50k-grant/>
+
+---
+
+## EHCC exhibit shows the humanity behind homelessness
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Imagine you decide to start having conversations with homeless individuals. What would you say to the next unhoused person you encounter on the street?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/entertainment/ehcc-exhibit-shows-the-humanity-behind-homelessness/>
+
+---
+
+## Power of Vanuatu volcanoes draws scholar halfway around the world
+
+date: 2025-08-01, from: Pacific Island Times
+
+University of Auckland PhD candidate Sönke Stern has been investigating the eruption’s global climate impact, a topic that has long fascinated academics. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/power-of-vanuatu-volcanoes-draws-scholar-halfway-around-the-world>
+
+---
+
+## Community Events: Touch Cookie Fun Run; Junior Achievement's Company of the Year; Toyotathon on Saipan
+
+date: 2025-08-01, from: Pacific Island Times
+
+Guam Girl Scouts to mark 90th year with Tough Cookie Fun Run 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-touch-cookie-fun-run-junior-achievement-s-company-of-the-year-toyotathon-on-saip>
+
+---
+
+## Preserving Palau’s Songs
+
+date: 2025-08-01, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=780%2C1040&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79279" data-permalink="https://islandtimes.org/palau-issues-warnings-after-pacific-wide-tsunami-alert-no-damage-reported/img_5516/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?fit=1920%2C2560&amp;ssl=1" data-orig-size="1920,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1753716419&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.066666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5516" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5516-scaled.jpeg?fit=768%2C1024&amp;ssl=1" /></figure>
+<p>Jim “Ngirchoureng” Geselbracht Chronicles Palau’s Music Legacy By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — Jim Geselbracht, widely known in Palau as Ngirchoureng, has returned to the islands on a research trip to finalize his second book documenting Palau’s modern music — a sweeping historical record covering the years 1970 to 1999. Geselbracht, a former Peace [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/preserving-palaus-songs/">Preserving Palau’s Songs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/preserving-palaus-songs/>
+
+---
+
+## Palau issues warnings after Pacific-Wide Tsunami alert; No Damage reported
+
+date: 2025-08-01, from: Island Times
+
+<figure><img width="600" height="331" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?fit=600%2C331&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?resize=300%2C166&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?fit=600%2C331&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79280" data-permalink="https://islandtimes.org/palau-issues-warnings-after-pacific-wide-tsunami-alert-no-damage-reported/nemo-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?fit=600%2C331&amp;ssl=1" data-orig-size="600,331" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="nemo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?fit=300%2C166&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/nemo.jpg?fit=600%2C331&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Palau’s coasts were quiet on Wednesday afternoon despite hours of heightened concern after a massive earthquake off Russia triggered a tsunami advisory across the Pacific. The National Emergency Management Office (NEMO) issued a tsunami watch around 10:30 a.m. on July 30, advising the public that a wave was expected to arrive at [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-issues-warnings-after-pacific-wide-tsunami-alert-no-damage-reported/">Palau issues warnings after Pacific-Wide Tsunami alert; No Damage reported</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-issues-warnings-after-pacific-wide-tsunami-alert-no-damage-reported/>
+
+---
+
+## Bill honoring advocate Rebecca Koshiba seeks safer Homes for Palau’s children
+
+date: 2025-08-01, from: Island Times
+
+<p>By: Summer Kennard KOROR, Palau — Lawmakers in Palau are renewing efforts to pass the Rebecca Koshiba Kinship Foster Care Program Act, a bill that would provide stronger protection for children living in unsafe or unstable homes while preserving the family bonds central to Palauan culture. First introduced in April 2023, the bill is named [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bill-honoring-advocate-rebecca-koshiba-seeks-safer-homes-for-palaus-children/">Bill honoring advocate Rebecca Koshiba seeks safer Homes for Palau’s children</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bill-honoring-advocate-rebecca-koshiba-seeks-safer-homes-for-palaus-children/>
+
+---
+
+## Palau lawmakers consider paid Parental leave, funding remains Key obstacle
+
+date: 2025-08-01, from: Island Times
+
+<p>By: Faith Chen KOROR, Palau — A proposal in the House of Delegates to provide six weeks of paid maternity and paternity leave is drawing both public support and concerns about how such a program would be funded. The bill, commonly referred to as the Fraternity Leave Bill, would grant paid leave to new mothers [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-lawmakers-consider-paid-parental-leave-funding-remains-key-obstacle/">Palau lawmakers consider paid Parental leave, funding remains Key obstacle</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-lawmakers-consider-paid-parental-leave-funding-remains-key-obstacle/>
+
+---
+
+## Palau intensifies Tourism campaign ahead of Narita-Palau Direct flights
+
+date: 2025-08-01, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — The Palau Visitors Authority (PVA) is ramping up its marketing campaign ahead of the inaugural United Airlines flight linking Narita, Japan, and Palau on Oct. 29. On Tuesday night, about 40 Japanese hoteliers, tour operators and other members of the Japanese business community attended a presentation at the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-intensifies-tourism-campaign-ahead-of-narita-palau-direct-flights/">Palau intensifies Tourism campaign ahead of Narita-Palau Direct flights</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-intensifies-tourism-campaign-ahead-of-narita-palau-direct-flights/>
+
+---
+
+## MOJ moves to publish Police blotters, promising updates within a month
+
+date: 2025-08-01, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — The Ministry of Justice plans to bring back the publication of police blotters as part of efforts to improve transparency, Justice Minister Jennifer Olegeriil announced during a press conference Wednesday. “I believe there should be police blotters,” Olegeriil said. “When I got on board in May this year, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/moj-moves-to-publish-police-blotters-promising-updates-within-a-month/">MOJ moves to publish Police blotters, promising updates within a month</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/moj-moves-to-publish-police-blotters-promising-updates-within-a-month/>
+
+---
+
+## NYCC to launch Dil Belau Contest to select Youth Ambassador
+
+date: 2025-08-01, from: Island Times
+
+<p>By: Eustoria Marie Borja KOROR, Palau — The Palau National Youth &#38; Cheldebechel Council (NYCC) announced plans to host the inaugural Dil Belau Contest on Aug. 21, 2025, to select a young Palauan woman who will serve as a youth ambassador, advocate and role model for Palau’s young people. In a statement, the council said [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nycc-to-launch-dil-belau-contest-to-select-youth-ambassador/">NYCC to launch Dil Belau Contest to select Youth Ambassador</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/nycc-to-launch-dil-belau-contest-to-select-youth-ambassador/>
+
+---
+
+## Non-citizens wanting to reside in Palau need to report their intent to state leaders
+
+date: 2025-08-01, from: Island Times
+
+<p>Non-citizens traveling to Palau intending to establish residency in the island nation will have to report their intent to the chief executive officer of the state. The proposal was included in President Surangel Whipps Jr.&#8217;s proposed budget bill for Financial Year 2026.&#160; The proposed policy change mandates that any person who is not a citizen [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/non-citizens-wanting-to-reside-in-palau-need-to-report-their-intent-to-state-leaders/">Non-citizens wanting to reside in Palau need to report their intent to state leaders  </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/non-citizens-wanting-to-reside-in-palau-need-to-report-their-intent-to-state-leaders/>
+
+---
+
+## UN Secretary General hails work of young Pacific leaders in ICJ ruling
+
+date: 2025-08-01, from: Island Times
+
+<p>By: Bernadette Carreon The United Nations Secretary General hailed the work of” young Pacific leaders for the advisory opinion of the International Court of Justice, which obligates countries to protect the global climate system.&#160; &#160;“It made clear that States are obliged to protect the global climate system, that climate change is a human rights issue.&#160; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-secretary-general-hails-work-of-young-pacific-leaders-in-icj-ruling/">UN Secretary General hails work of young Pacific leaders in ICJ ruling </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/un-secretary-general-hails-work-of-young-pacific-leaders-in-icj-ruling/>
+
+---
+
+## PICRC’s Educators-in-Science program empowers educators to teach ocean science
+
+date: 2025-08-01, from: Island Times
+
+<figure><img width="1024" height="770" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?fit=1024%2C770&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=1024%2C770&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=1200%2C902&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=780%2C586&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?fit=1024%2C770&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79251" data-permalink="https://islandtimes.org/picrcs-educators-in-science-program-empowers-educators-to-teach-ocean-science/picrcs-educators-in-science/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?fit=1249%2C939&amp;ssl=1" data-orig-size="1249,939" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PICRC’s Educators-in-Science" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/PICRCs-Educators-in-Science.jpg?fit=780%2C587&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC), in partnership with Palau’s Ministry of Education (MoE), recently hosted its annual Educators-in-Science professional development workshop. Held from July 15-18, the workshop included a full-day of activities on Tuesday (July 15), a half-day session on Wednesday (July 16), and concluded with a ship tour on Friday (July 18). [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrcs-educators-in-science-program-empowers-educators-to-teach-ocean-science/">PICRC’s Educators-in-Science program empowers educators to teach ocean science</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrcs-educators-in-science-program-empowers-educators-to-teach-ocean-science/>
+
+---
+
+## Traditional leaders mobilize to Address National Drug crisis
+
+date: 2025-08-01, from: Island Times
+
+<p>August 13–14, 2025 &#124; Palau National  Gymnasium Koror, Palau — Rubekul Belau (Palau Council of Chiefs) will convene the 3rd Traditional Leaders’ Forum on August 13–14 under the theme “Omellemel a Ungil Ulekeroul ma Klechibelau: It Takes a Village to Raise a Child.” This national gathering calls on traditional leaders, government (state and national), educators, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/traditional-leaders-mobilize-to-address-national-drug-crisis/">Traditional leaders mobilize to Address National Drug crisis</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/traditional-leaders-mobilize-to-address-national-drug-crisis/>
+
+---
+
+## New Research: Satellite imagery detects illegal fishing activity, Shows strict protections work
+
+date: 2025-08-01, from: Island Times
+
+<p>The first-of-its-kind study reveals that the world&#8217;s most strongly protected marine reserves successfully curb industrial fishing activity, offering a new way to assess fishing compliance and bridge blind spots in current monitoring methods.  WASHINGTON (NATIOONAL GEOGRAPHIC PRISTINE SEAS) &#8212; New peer-reviewed research in the journal Science demonstrates the power of strict legal bans against industrial [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-research-satellite-imagery-detects-illegal-fishing-activity-shows-strict-protections-work/">New Research: Satellite imagery detects illegal fishing activity, Shows strict protections work</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-research-satellite-imagery-detects-illegal-fishing-activity-shows-strict-protections-work/>
+
+---
+
+## Yap defence projects form U.S power projection in Micronesia
+
+date: 2025-08-01, from: Island Times
+
+<p>YAP (PACIFIC ISLAND TIMES) &#8212;The U.S Department of Defence has released details of its proposed airport and seaport projects on Yap, which would facilitate military deployment and project power posture in the Federated States of Micronesia. While the defence plan does not include permanent basing on the island state, the proposed projects would pave the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/yap-defence-projects-form-u-s-power-projection-in-micronesia/">Yap defence projects form U.S power projection in Micronesia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/yap-defence-projects-form-u-s-power-projection-in-micronesia/>
+
+---
+
+## Solomon Islands updates concessional entry list, Taiwan dropped
+
+date: 2025-08-01, from: Island Times
+
+<p>The Solomon Islands Government has removed Taiwan from its list of countries eligible for concessional entry arrangements, a move that may deepen regional tensions ahead of the Pacific Islands Forum (PIF) Leaders Meeting in Honiara this September. The updated list (Legal Notice No. 128) was published in the latest Solomon Islands Gazette on 24 June&#160; [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/solomon-islands-updates-concessional-entry-list-taiwan-dropped/">Solomon Islands updates concessional entry list, Taiwan dropped</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/solomon-islands-updates-concessional-entry-list-taiwan-dropped/>
+
+---
+
+## Third child dies as dengue fever cases surge in Sāmoa
+
+date: 2025-08-01, from: Island Times
+
+<p>APIA(PMN)&#8212;Sāmoa has reported its third death linked to the ongoing dengue fever outbreak, with health authorities confirming the loss of a five-year-old child who was referred to the national hospital in Moto&#8217;otua. The latest fatality was confirmed by Acting Director General of Health, Ulugia Dr. Tito Kamu, as reported by local television channel TV1 earlier [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/third-child-dies-as-dengue-fever-cases-surge-in-samoa/">Third child dies as dengue fever cases surge in Sāmoa</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/third-child-dies-as-dengue-fever-cases-surge-in-samoa/>
+
+---
+
+## Trump signs deal with South Korea, but targets India and Brazil in another round of tariffs
+
+date: 2025-08-01, from: Island Times
+
+<p>In short: (ABC-Australia) Donald Trump’s says South Korean imports into the US will attract a 15 per cent tariff, while India faces a 25 per cent tariff on its exports from August 1. The US president has also signed orders to place 50 per cent tariffs on copper products and imports from Brazil. What&#8217;s next? [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-signs-deal-with-south-korea-but-targets-india-and-brazil-in-another-round-of-tariffs/">Trump signs deal with South Korea, but targets India and Brazil in another round of tariffs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-signs-deal-with-south-korea-but-targets-india-and-brazil-in-another-round-of-tariffs/>
+
+---
+
+## Why Russia’s megathrust earthquake was among biggest ever recorded, but damage was minimal
+
+date: 2025-08-01, from: Island Times
+
+<p>By Elissa Steedman (ABC-Australia) One of the largest earthquakes in recorded history set off tsunami warnings across the Pacific Ocean on Wednesday.&#160; But it has not proved as destructive as experts feared.&#160; Here are the factors that contributed to that outcome.&#160; How big was Wednesday&#8217;s earthquake? It was among the 10 strongest ever recorded. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/why-russias-megathrust-earthquake-was-among-biggest-ever-recorded-but-damage-was-minimal/">Why Russia&#8217;s megathrust earthquake was among biggest ever recorded, but damage was minimal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/why-russias-megathrust-earthquake-was-among-biggest-ever-recorded-but-damage-was-minimal/>
+
+---
+
+## Henry Puna calls New Zealand's involvement in Cook Islands politics 'improper'
+
+date: 2025-08-01, from: 
+
+The former Cook Islands prime minister says the "special nature" of the relationship between the two nations must be "underpinned by respect". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568748/henry-puna-calls-new-zealand-s-involvement-in-cook-islands-politics-improper>
+
+---
+
+## Roch Wamytan: Paris political agreement for New Caledonia 'not enough' for Kanaks
+
+date: 2025-08-01, from: 
+
+The former New Caledonia Congress president says the "draft" deal signed in France last month failed to secure the pro-independence mandate. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568747/roch-wamytan-paris-political-agreement-for-new-caledonia-not-enough-for-kanaks>
+
+---
+
+## Pal Ahluwalia to end tenure as USP vice-chancellor
+
+date: 2025-08-01, from: 
+
+Professor Pal Ahluwalia's six years as the head of the at the University of the South Pacific has been marked with controversy. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568731/pal-ahluwalia-to-end-tenure-as-usp-vice-chancellor>
+
+---
+
+## OFC U16 Women's Championship: Fiji off to flying start with 4-0 win over Tahiti
+
+date: 2025-08-01, from: 
+
+The Baby Kulas outclassed their French Polynesian opponents in their first game at the OFC U16 Women's Championship in Apia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568726/ofc-u16-women-s-championship-fiji-off-to-flying-start-with-4-0-win-over-tahiti>
+
+---
+
+## PNG police chief Manning orders re-arrest of eight accused in woman's brutal murder
+
+date: 2025-08-01, from: 
+
+David Manning has ordered that eight people accused of the torture and murder of a woman be re-arrested and for the community to stop hiding suspects. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568713/png-police-chief-manning-orders-re-arrest-of-eight-accused-in-woman-s-brutal-murder>
+
+---
+
+## Media Statement
+
+date: 2025-08-01, from: University of the South Pacific (Fiji)
+
+<p>Professor Pal Ahluwalia to Conclude Tenure as Vice-Chancellor and President On behalf of the Council...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/media-statement/">Media Statement</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/media-statement/>
+
+---
+
+## Outer islands' delicacies in hot demand at Cook Islands 60th anniversary celebrations
+
+date: 2025-07-31, from: 
+
+From giant clams (pa'ua) to coconut oil to uto drinks, unique island specialties are selling fast at the Cook Islands Constitution celebrations trade days. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568704/outer-islands-delicacies-in-hot-demand-at-cook-islands-60th-anniversary-celebrations>
+
+---
+
+## 'Cash cow' NZ driving drug crisis in the region - expert
+
+date: 2025-07-31, from: 
+
+A transnational crime expert says NZ and Australia's status as the "cash cows" of the Pacific methamphetamine market is a driving factor in the drug crisis facing the region. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/world/568619/nz-s-status-as-a-cash-cow-of-pacific-meth-market-driving-drug-crises-in-region-crime-expert>
+
+---
+
+## Land reforms aim to end stalled development in Papua New Guinea
+
+date: 2025-07-31, from: 
+
+New legislation introduced by PNG's Deputy Prime Minister John Rosso would reform six land-related laws and which he says are essential. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568703/land-reforms-aim-to-end-stalled-development-in-papua-new-guinea>
+
+---
+
+## Tokyo HS students tackle Hawaiʻi’s real-world topics through STEM
+
+date: 2025-07-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> hosted Tokyo high school students for a <abbr>STEM</abbr> program tackling real-world challenges across <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/31/tokyo-hs-students-stem-program-pace/">Tokyo <abbr>HS</abbr> students tackle Hawaiʻi’s real-world topics through <abbr>STEM</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/31/tokyo-hs-students-stem-program-pace/>
+
+---
+
+## Pacific families bear the brunt of public housing evictions
+
+date: 2025-07-31, from: 
+
+Pacific families are being kicked out of public housing at disproportionate rates in Manurewa and Porirua, sparking calls for an urgent review of policy. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568689/pacific-families-bear-the-brunt-of-public-housing-evictions>
+
+---
+
+## Bougainville's election challenge: one day of polling on 4 September
+
+date: 2025-07-31, from: 
+
+It's thought such a poll has not previously been attempted in Papua New Guinea. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568572/bougainville-s-election-challenge-one-day-of-polling-on-4-september>
+
+---
+
+## China hits back at FBI director's 'groundless assertions' in Wellington
+
+date: 2025-07-31, from: 
+
+Kash Patel said the new office would counter China's influence in the Pacific, but Winston Peters says China never came up in talks. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/568635/china-hits-back-at-fbi-director-s-groundless-assertions-in-wellington>
+
+---
+
+## Nauru is the latest Pacific nation to report dengue deaths
+
+date: 2025-07-31, from: 
+
+The first reported case of dengue fever in Nauru was on 27 June. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568680/nauru-is-the-latest-pacific-nation-to-report-dengue-deaths>
+
+---
+
+## Pacific news in brief for 1 August
+
+date: 2025-07-31, from: 
+
+A round-up of news from around the region, including Nauru's president saying re-establishing diplomatic relations with China is paying "great dividends". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568682/pacific-news-in-brief-for-1-august>
+
+---
+
+## New Caledonia's oldest pro-independence party denounces 'Bougival' deal
+
+date: 2025-07-31, from: 
+
+New Caledonia's oldest pro-independence party has officially rejected a political agreement on the French territory's political future signed in Paris last month. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568679/new-caledonia-s-oldest-pro-independence-party-denounces-bougival-deal>
+
+---
+
+## UH President Wendy Hensel appointed to WICHE Commission
+
+date: 2025-07-31, from: University of Hawaiʻi News
+
+<p><abbr>WICHE</abbr> is a regional interstate compact serving the higher education and workforce needs of 15 Western states and the U.S. Pacific Territories and Freely Associated States.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/31/hensel-wiche-commission-appointment/"><abbr>UH</abbr> President Wendy Hensel appointed to <abbr>WICHE</abbr> Commission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/31/hensel-wiche-commission-appointment/>
+
+---
+
+## KALGov waste wonders
+
+date: 2025-07-31, from: Marshal Islands Journal
+
+<p>Journal 7/30/1982 P1 US moves to prevent Marshalls holding vote on CompactThe United States has withdrawn its support for an August 17 plebiscite in the Marshall Islands to approve or reject the Compact of Free Association. US Ambassador Fred Zeder notified Marshall Islands Foreign Secretary Tony deBrum of the cancellation at a meeting in Honolulu [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kalgov-waste-wonders/">KALGov waste wonders</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/kalgov-waste-wonders/>
 
 ---
 
@@ -19,6 +758,20 @@ The post <a href="https://www.hawaii.edu/news/2025/07/31/local-teens-cybersecuri
 <br> 
 
 <https://www.hawaii.edu/news/2025/07/31/local-teens-cybersecurity-college-credit/>
+
+---
+
+## Strategic Infrastructure Leadership: A Public-Private Partnership (PPP)
+
+date: 2025-07-31, from: University of the South Pacific (Fiji)
+
+<p>The Asian Development Bank, in partnership with the Graduate School of Business, offered a comprehensive...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/strategic-infrastructure-leadership-a-public-private-partnership-ppp/">Strategic Infrastructure Leadership: A Public-Private Partnership (PPP)</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/strategic-infrastructure-leadership-a-public-private-partnership-ppp/>
 
 ---
 
@@ -373,18 +1126,6 @@ A round-up of sports news from around the region, including discussions for host
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/568575/pasifika-sipoti-in-brief-for-31-july>
-
----
-
-## Bougainville's election challenge: one day of polling on 4 September
-
-date: 2025-07-31, from: 
-
-It's thought such a poll has not previously been attempted in Papua New Guinea. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/568572/bougainville-s-election-challenge-one-day-of-polling-on-4-september>
 
 ---
 

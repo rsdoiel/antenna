@@ -1,11 +1,202 @@
 ---
 title: socal north
-updated: 2025-07-31 14:07:31
+updated: 2025-08-01 06:09:09
 ---
 
 # socal north
 
-(date: 2025-07-31 14:07:31)
+(date: 2025-08-01 06:09:09)
+
+---
+
+## Yelp says these little-known SoCal spots make some of the best sandwiches in the US. I tried them out
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The review site released its 100 top sandwich spots, with five in SoCal. But they weren’t the usual contenders. 
+
+<br> 
+
+<https://laist.com/news/food/yelp-says-these-little-known-socal-spots-make-some-of-the-best-sandwiches-in-the-us-i-tried-them-out>
+
+---
+
+## Homelessness is down in the LA region — but not for children and families
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The estimated number of unsheltered children and teens under 18 in the county went up this year. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/homelessness-los-angeles-county-families-unsheltered-2025>
+
+---
+
+## After cuts to federal solar credits, this OC group is racing to get homeowners to install
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The budget bill signed by President Donald Trump on July 4 ends a 30% residential solar credit. But those who act fast may still be able to get the tax break. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/after-cuts-to-federal-solar-credits-this-oc-group-is-racing-to-get-homeowners-to-install>
+
+---
+
+## One more headache for LA fire survivors: extra time in the car — a lot of it
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+If one thing defines Los Angeles, it might be traffic. And in the months since the January firestorm, displaced residents say they've been sitting in a lot more of it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fire-survivors-longer-commute-times>
+
+---
+
+## Zabaglione, burnt milk, mastic gum? Global ice cream flavors you can find in SoCal
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Ice cream makers bring a little piece of Argentina, Turkey and Mexico to the region 
+
+<br> 
+
+<https://laist.com/news/food/zabaglione-burnt-milk-mastic-gum-global-ice-cream-flavors-you-can-find-in-socal>
+
+---
+
+## Nonprofit to launch fundraising campaign for restoration projects on the Queen Mary
+
+date: 2025-08-01, from: Longbeach Post
+
+<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-400x247.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Queen Mary Heritage Foundation is compiling a comprehensive list of restoration projects they plan to fund aboard the historic ocean liner, with a goal of completing three in the next year. </p>
+<p>The post <a href="https://lbpost.com/news/local-history/nonprofit-fundraising-restoration-projects-queen-mary">Nonprofit to launch fundraising campaign for restoration projects on the Queen Mary </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/local-history/nonprofit-fundraising-restoration-projects-queen-mary>
+
+---
+
+## LA County preps for possible major cuts to housing, homelessness funding after meeting with Trump appointee
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+The high-ranking federal housing appointee said they'd would be recommending that President Donald Trump “defund” Los Angeles, according to a county official. The federal housing agency has declined to comment so far. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-homelessness-funding-trump>
+
+---
+
+## The Democratic Party is still trying to figure out its message after 2024's defeat
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+After last year's electoral losses, the Democratic Party faces low approval rates and is working to figure out its strategy ahead of the 2026 midterm elections. 
+
+<br> 
+
+<https://laist.com/news/politics/democratic-party-is-still-trying-to-figure-out-its-message-after-2024s-defeat>
+
+---
+
+## Architect coalition completes 200 rebuilding plans for Altadena residents displaced by fire
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+The coalition worked with the Altadena community as part of an effort to preserve the cultural heritage of Altadena's Black residents. 
+
+<br> 
+
+<https://laist.com/news/architect-coalition-completes-200-rebuilding-plans-for-altadena-residents-displaced-by-fire>
+
+---
+
+## The famously large corpse flower is in bloom at the Huntington. Beware the stench of rotting flesh
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+The rare plant blooms every four to six years and emits a foul smell in the process. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/corpse-flower-bloom-the-huntington-rotting-flesh-smell-2025>
+
+---
+
+## Man gets 358 years in prison for murdering 17-year-old Poly student as she walked home from work
+
+date: 2025-07-31, from: Longbeach Post
+
+<figure><img width="1024" height="644" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-1024x644.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-1024x644.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA-400x252.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/13144901/untitled-1-803652-t6hyhfqj-482817-LMNQMyxA.jpg 1111w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The motive remains a mystery.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-gets-358-years-in-prison-for-murdering-17-year-old-poly-student-as-she-walked-home-from-work">Man gets 358 years in prison for murdering 17-year-old Poly student as she walked home from work</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-gets-358-years-in-prison-for-murdering-17-year-old-poly-student-as-she-walked-home-from-work>
+
+---
+
+## More than 1,000 National Guard troops to withdraw from LA as Trump scales back presence
+
+date: 2025-07-31, from: Longbeach Post
+
+<figure><img width="1024" height="644" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-1024x644.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-1024x644.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-300x189.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-768x483.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-172x108.jpg 172w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec-400x252.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/09132127/09jun25-6-9-25-cleanup-8-334363-duco8y0d-817840-eULHnMec.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Chief Pentagon spokesperson Sean Parnell said in a statement that roughly 250 California National Guard troops will remain in Los Angeles to protect federal personnel and property.</p>
+<p>The post <a href="https://lbpost.com/news/more-than-1000-national-guard-troops-to-withdraw-from-la-as-trump-scales-back-presence">More than 1,000 National Guard troops to withdraw from LA as Trump scales back presence</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/more-than-1000-national-guard-troops-to-withdraw-from-la-as-trump-scales-back-presence>
+
+---
+
+## Trump's dream of building a ballroom at the White House is becoming a reality
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+After at least 15 years of talking about it, President Trump is building a ballroom at the White House. Work will begin this September, with a price tag of $200 million, the White House says. 
+
+<br> 
+
+<https://laist.com/news/trumps-dream-of-building-a-ballroom-at-the-white-house-is-becoming-a-reality>
+
+---
+
+## The Santa Clarita Public Library is Back-to-School Ready
+
+date: 2025-07-31, from: City of Santa Clarita
+
+<p>By Councilmember Patsy Ayala Every school year brings new opportunities for growth, learning and connection. As a long-time resident of Santa Clarita and someone who has worked closely with schools and families throughout my career, I understand how important it is for our students to start the year with confidence. That’s why I want to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/31/the-santa-clarita-public-library-is-back-to-school-ready/">The Santa Clarita Public Library is Back-to-School Ready</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/31/the-santa-clarita-public-library-is-back-to-school-ready/>
+
+---
+
+## LA mayor bans duplexes in Palisades burn zone after getting permission from governor
+
+date: 2025-07-31, updated: 2025-07-31, from: The LAist
+
+Following uproar from homeowners and local elected leaders, a state law allowing denser housing in single-family areas will no longer apply to the Pacific Palisades. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-pacific-palisades-fire-mayor-bass-governor-newsom-sb9-duplex-ban>
 
 ---
 
@@ -49,7 +240,7 @@ Compiled by panelists from Boyle Heights Beat’s ‘From Fear to Care’ event,
 
 date: 2025-07-31, from: Longbeach Post
 
-<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31101442/0724-books-02-1110x753-985407-zc7pgbvu-502131-uHIQfeuZ.jpg 1110w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It's part of a nationwide push to let young people access reading material that may have been thrown out of their local libraries and schools.</p>
 <p>The post <a href="https://lbpost.com/news/education/long-beach-will-open-up-its-e-book-library-so-teens-from-other-states-can-read-banned-books">Long Beach will open up its e-book library so teens from other states can read banned books</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -126,7 +317,7 @@ The Eastside landmark is home to a new gallery. While some welcome it, others fe
 
 date: 2025-07-31, from: Longbeach Post
 
-<figure><img width="1024" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-1024x602.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-300x176.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-768x451.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-184x108.jpg 184w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u-400x235.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/27120609/27mar25-bond-4-682948-elsrixr6-138505-0EXoXb4u.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The city is improving how long it takes to get people from temporary shelter into permanent housing, but, with long timelines and limited options, it still relies on moving people in need from motel to motel.</p>
 <p>The post <a href="https://lbpost.com/news/vagabond-inn-long-beach-motel-moves-homeless">After Vagabond Inn shelter closes, Long Beach moves 15 homeless tenants into new motel</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -173,7 +364,7 @@ Two members of the Black Eyed Peas, Taboo and will.i.am, release a song condemni
 
 ---
 
-## LA moves to overhaul school crossing guard program, from principal requests to safety data
+## LA is about to figure out where crossing guards are really needed — not just where they’re requested
 
 date: 2025-07-30, updated: 2025-07-31, from: The LAist
 

@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-07-31 14:07:34
+updated: 2025-08-01 06:09:11
 ---
 
 # science and technology
 
-(date: 2025-07-31 14:07:34)
+(date: 2025-08-01 06:09:11)
+
+---
+
+## Virgin Media scraps wholesale network rival to Openreach
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>NetCo is a no-go amid ongoing &#39;strategic review&#39; by co-parent Telefónica</h4> <p>Virgin Media has ditched plans to use its network infrastructure to create a UK national fixed line operator to rival BT&#39;s Openreach just 18 months after the project was made public.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/virgin_media_ditches_plans_for/>
+
+---
+
+## Oracle offers workaround to Windows boot issue in the cloud instead of fix
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Kludge causing production outages</h4> <p>Oracle has come under fire for failing to fix a known issue with Windows instances on its cloud infrastructure (OCI).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/oracle_oci_windows_boot/>
+
+---
+
+## Enterprise software giants weaponize AI to kill discounts and deepen lock-in
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Oracle, SAP, Salesforce et al are tightening the screws, Forrester warns</h4> <p>The largest enterprise application vendors are using their entrenched positions among customers to end discounting and push high-margin AI products, an analysis by Forrester Research has warned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/forrester_ai_enterprise_software/>
+
+---
+
+## Hubble Surveys Supernova-Rich Spiral
+
+date: 2025-08-01, from: NASA breaking news
+
+Rich with detail, the face-on spiral galaxy NGC 1309 shines in this Hubble Space Telescope image. 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-surveys-supernova-rich-spiral/>
+
+---
+
+## Wasp nest at US nuclear site tests ten times over safe radiation limit
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Everything&#39;s fine, says Department of Energy report</h4> <p>A wasp nest positively glowing with radiation was found at a Cold War-era nuclear weapons site near Aiken, South Carolina.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/radioactive_wasp_nest/>
+
+---
+
+## Cybercrooks attached Raspberry Pi to bank network and drained ATM cash
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Criminals used undocumented techniques and well-placed insiders to remotely withdraw money</h4> <p>A ring of cybercriminals managed to physically implant a Raspberry Pi on a bank&#39;s network to steal cash from an Indonesian ATM.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/cybercrooks_bribed_lackeys_in_physical/>
+
+---
+
+## Windows 10 @ 10: How Microsoft led developers round in circles
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>From one platform to rule them all to a carousel of half-baked visions</h4> <p><strong>Comment</strong>  It is July 2015. Microsoft has just released Windows 10. Developers, weary from the false trail of Windows 8 and being urged to make &#34;Metro style&#34; apps, are now being pitched a new vision from Microsoft: the Universal Windows Platform (UWP).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/windows_10_dev_comment/>
+
+---
+
+## Servers hated Mondays until techie quit quaffing coffee in their company
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Unix boxes needed a hotfix to survive early morning cold boots</h4> <p><strong>On Call</strong>  Mornings are hard, and Friday mornings doubly so. Which is why <i>The Register</i> gives readers a little kick along on the last day of the working week in the form of a new installment of On Call, the reader-contributed column that tells your tales of tech support treachery and triumph.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/on_call/>
+
+---
+
+## Top spy says LinkedIn profiles that list defence work 'recklessly invite attention of foreign intelligence services'
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Workers on joint US/UK/Australia nuclear submarine program are painting a target on themselves</h4> <p>The Director-General of Security at the Australian Security Intelligence Organization (ASIO) has lamented the fact that many people list their work in the intelligence community or on sensitive military projects in their LinkedIn profiles.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/asio_espionage_social_media_warning/>
+
+---
+
+## Panic buying ahead of Trump tariffs added $825 million to Apple's sales last quarter
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>iBiz warns import imposts set to rise</h4> <p><strong>World War Fee</strong>  The USA’s evolving tariff policy wasn&#39;t all bad news for Apple, which manufactures most of its products overseas.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/good_news_apple_says_trump/>
+
+---
+
+## US lowers tariffs on major tech exporting nations - but buyers will still pay more
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Malaysia&#39;s attitude of &#39;This could be worse and our neighbours are copping it too&#39; is a typical response</h4> <p><strong>World War Fee</strong>  US President Donald Trump on Thursday announced new tariff rates that reduce the import duties on goods from several major tech-producing nations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/recipricoal_tariff_changes/>
+
+---
+
+## AI is contributing to Meta’s growth – just not the kind anyone cares about
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Good old machine learning, not LLMs, are what’s really paying for Zuck’s genAI splurge</h4> <p>Believe it or not, Meta&#39;s AI investments made a meaningful difference to its advertising business in Q2 — it&#39;s just that those models aren&#39;t the kind that&#39;s got everyone, including the Social Network, plowing tens of billions of dollars a year into datacenters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/meta_ai_investments/>
+
+---
+
+## Amazon is spending a boatload on AI but investors are impatient for results
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>Hang in there, it&#39;s early days, insists CEO Andy Jassy</h4> <p>Amazon CEO Andy Jassy insists &#34;AI will change every customer experience,&#34; but it&#39;s making investors nervous.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/amazon_earnings_q2_2025/>
+
+---
+
+## Ex-CISA chief slams MAGA 'manufactured outrage' after sudden West Point firing
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>US Army Sec appears to fold under pressure from far-right conspiracy theorist</h4> <p><strong>comment</strong>  Jen Easterly has weighed in on the US Army Secretary firing her from a prestigious West Point teaching post a day after the US Military Academy announced the appointment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/jen_easterly_west_point_termination/>
+
+---
+
+## New Google AI model maps world in 10-meter squares for machines to read
+
+date: 2025-07-31, updated: 2025-07-31, from: The Register (UK I.T. News)
+
+<h4>DeepMind geospatial AI model offers comprehensive view of Earth image data</h4> <p>Google has released a new AI model that maps the world in 10-meter squares for machines to read.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/31/google_ai_maps_world/>
 
 ---
 

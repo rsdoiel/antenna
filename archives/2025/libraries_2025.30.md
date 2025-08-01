@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-07-31 14:07:38
+updated: 2025-08-01 06:09:13
 ---
 
 # libraries
 
-(date: 2025-07-31 14:07:38)
+(date: 2025-08-01 06:09:13)
+
+---
+
+## Translating D’oh!
+
+date: 2025-08-01, from: Scholarly Kitchen
+
+<p>Wait, Homer Simpson doesn't say "D'oh!" in different countries?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/01/translating-doh/">Translating D&#8217;oh!</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/01/translating-doh/>
 
 ---
 

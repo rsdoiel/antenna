@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-07-31 14:07:39
+updated: 2025-08-01 06:09:14
 ---
 
 # retro computing
 
-(date: 2025-07-31 14:07:39)
+(date: 2025-08-01 06:09:14)
+
+---
+
+## Disking Banana
+
+date: 2025-08-01, from: Computer ads from the Past
+
+Go Bananas 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/disking-banana>
+
+---
+
+## Linux Kernel 6.16 Released with Minor Fixes
+
+date: 2025-07-31, from: Linux Magazine
+
+<p>The latest Linux kernel doesn't really include any big-ticket features, just a lot of lines of code.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Kernel-6.16-Released-with-Minor-Fixes>
 
 ---
 

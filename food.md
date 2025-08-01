@@ -1,11 +1,211 @@
 ---
 title: food
-updated: 2025-07-31 14:07:41
+updated: 2025-08-01 06:09:16
 ---
 
 # food
 
-(date: 2025-07-31 14:07:41)
+(date: 2025-08-01 06:09:16)
+
+---
+
+## Weekly Coffee News: Cold Brew Manufacturing Safety + Promoting Women in Coffee
+
+date: 2025-08-01, from: Daily Coffee News
+
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-620x434.jpg" class="attachment-large size-large wp-post-image" alt="massimo-adami-hHbHMgW58LM-unsplash" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; NCA Releases Cold Brew Safety Guide The National... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/01/weekly-coffee-news-cold-brew-manufacturing-safety-promoting-women-in-coffee/>
+
+---
+
+## The Best Stand Mixers, According to Our Expert Testers (2025)
+
+date: 2025-08-01, from: Bon Appetet
+
+We see big batches of cookies in your future. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-stand-mixers>
+
+---
+
+## 67 Family-Friendly Dinners Kids Can’t Wait to Eat
+
+date: 2025-08-01, from: Bon Appetet
+
+Grilled chicken thighs with couscous, store-bought ravioli in mushroom sauce, falafel-spiced turkey burgers, and more meals even your pickiest child will ask for again. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/family-friendly-dinners>
+
+---
+
+## Chicken and Cabbage Stir-Fry
+
+date: 2025-08-01, from: Bon Appetet
+
+Juicy ground chicken and charred cabbage are the stars of this family-friendly meal. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/chicken-cabbage-stir-fry>
+
+---
+
+## The Chicken and Cabbage Stir-Fry My Kids Love
+
+date: 2025-08-01, from: Bon Appetet
+
+Just in time for back to school season, August’s Feel-Good Food Plan brings the whole family to the table. 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-august-2025>
+
+---
+
+## Our Ultimate Summer Pie
+
+date: 2025-08-01, from: Bon Appetet
+
+Special delivery from Bake Club: A blueberry-peach filling that won’t fall apart and our go-to brown sugar crumble. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Making Room for More Than Coffee: How Non-Caffeinated Drinks Found a Place in Cafes
+
+date: 2025-08-01, from: The Fresh Cup
+
+<p>Espresso still leads, but non-caffeinated drinks are showing up in coffee shops more often. Here’s how two cafes are building intentional menus that meet customers where they are.</p>
+<p>The post <a href="https://freshcup.com/making-room-for-more-than-coffee-how-non-caffeinated-drinks-found-a-place-in-cafes/">Making Room for More Than Coffee: How Non-Caffeinated Drinks Found a Place in Cafes</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/making-room-for-more-than-coffee-how-non-caffeinated-drinks-found-a-place-in-cafes/>
+
+---
+
+## Peach and Blueberry Pie
+
+date: 2025-08-01, from: Bon Appetet
+
+The best fruit pie, complete with a brown sugar streusel topping. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/peach-blueberry-pie>
+
+---
+
+## Lemony Zucchini With Creamy Dill and More Recipes We Made This Week
+
+date: 2025-08-01, from: Bon Appetet
+
+Like Sun Gold tomato pasta and sheet-pan pierogies and beets. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2025>
+
+---
+
+## Jambalaya Soup Recipe
+
+date: 2025-08-01, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/jambalaya-soup/" title="Jambalaya Soup Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large bowl filled with Jambalaya Soup, loaded up with lots of chicken and andouille sausage" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Jambalaya-Soup-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This jambalaya soup is comforting and delicious, loaded with smoky andouille sausage, juicy chicken, and rice, big flavors in a single pot! Easy to make with shrimp, too.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/jambalaya-soup/">Jambalaya Soup Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/jambalaya-soup/>
+
+---
+
+## The Cheapest Meal Delivery Services That Are Actually Worth Ordering (2025)
+
+date: 2025-08-01, from: Bon Appetet
+
+According to Bon Appetit editors and contributors who have tried them at home. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-cheapest-meal-delivery-services>
+
+---
+
+## Panera Bread Dropped a Mac and Cheese Lip Balm, and Obviously I Had to Try It
+
+date: 2025-07-31, from: Taste of Home
+
+<p>It's the restaurant's first foray into the beauty world.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/panera-bread-mac-and-cheese-lip-balm-2025/">Panera Bread Dropped a Mac and Cheese Lip Balm, and Obviously I Had to Try It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/panera-bread-mac-and-cheese-lip-balm-2025/>
+
+---
+
+## Hetal Vasavada’s Ice Cream Cake
+
+date: 2025-07-31, from: Taste of Home
+
+Growing up, Carvel ice cream cake was the birthday centerpiece I looked forward to all year! As an adult, I keep the tradition alive by treating myself to a mini version on Valentine’s Day and savoring it over a few days, one delicious slice at a time. This homemade cake captures all the joy of the original with layers of no-churn chocolate and vanilla ice cream, a generously thick band of chocolate crunchies, and those unmistakable blue whipped cream scallops topped with rainbow sprinkles. The clear vanilla extract in this recipe really gives you that nostalgic vanilla birthday cake flavor. It’s a playful dessert that feels celebratory and costs less than its store-bought counterpart. —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hetal-vasavada-ice-cream-cake/>
+
+---
+
+## I've Been Eating Grüns Superfood Gummies Daily for Four Months—Here's How I Feel
+
+date: 2025-07-31, from: Bon Appetet
+
+The brand makes some bold health claims, but are they legit? 
+
+<br> 
+
+<https://www.bonappetit.com/story/gruns-superfood-gummies-review>
+
+---
+
+## This Dessert from Toadstool Cafe Is the Best Thing at Universal Epic Universe
+
+date: 2025-07-31, from: Taste of Home
+
+<p>Universal's Epic Universe is packed with thrilling rides and over-the-top eats, but one nostalgic dessert from Super Nintendo World stole the show.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/toadstool-cafe-dessert-at-universal-epic-universe/">This Dessert from Toadstool Cafe Is the Best Thing at Universal Epic Universe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/toadstool-cafe-dessert-at-universal-epic-universe/>
+
+---
+
+## Lucy Wang’s Shoestring Fries
+
+date: 2025-07-31, from: Taste of Home
+
+These garlic Parmesan shoestring fries might just ruin all other fries for you. Ultra-thin and dangerously crispy, they're fried to golden perfection and absolutely drenched in garlicky, buttery goodness, then buried under a snowfall of freshly grated Parmeggiano Reggiano. You may never go back to basic fries. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-shoestring-fries/>
 
 ---
 
@@ -37,7 +237,7 @@ date: 2025-07-31, from: The Sprudge
 
 date: 2025-07-31, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-620x465.jpg" class="attachment-large size-large wp-post-image" alt="grocery" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two yogurt giants are now locked into a legal battle over cold brew branding, as Danone is alleging trademark infringement against La Colombe parent company Chobani. At the center of... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-620x465.jpg" class="attachment-large size-large wp-post-image" alt="grocery" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/grocery.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two yogurt giants are now locked into a legal battle over cold brew branding, as Danone is alleging trademark infringement against La Colombe parent company Chobani. At the center of... 
 
 <br> 
 
@@ -143,7 +343,7 @@ After testing a range of affordable cookware, we found Goldilocks to be a stando
 
 date: 2025-07-30, from: Daily Coffee News
 
-<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg" class="attachment-large size-large wp-post-image" alt="2024 World Coffee Championship" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-768x533.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) announced that Brussels and Bangkok will host four World Coffee Championship events for the 2026 competition season.&#160; The trade organization said the 2026 World Cup... 
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg" class="attachment-large size-large wp-post-image" alt="2024 World Coffee Championship" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship-768x533.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/2024-World-Coffee-Championship.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) announced that Brussels and Bangkok will host four World Coffee Championship events for the 2026 competition season.&#160; The trade organization said the 2026 World Cup... 
 
 <br> 
 
@@ -243,7 +443,7 @@ date: 2025-07-30, from: The Fresh Cup
 
 date: 2025-07-30, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/crunchwrap-supreme/" title="Homemade Crunchwrap Supreme Recipe (Better Than Fast Food!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike taking a Homemade Crunchwrap Supreme from a stack of them" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make your own Crunchwrap Supreme at home! Crispy, cheesy, loaded with beef and toppings. Better than fast food, easy to customize, ready in 30 minutes!</p>
+<a href="https://www.chilipeppermadness.com/recipes/crunchwrap-supreme/" title="Homemade Crunchwrap Supreme Recipe (Better Than Fast Food!)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike taking a Homemade Crunchwrap Supreme from a stack of them" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Crunchwrap-Supreme-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make your own Crunchwrap Supreme at home! Crispy, cheesy, loaded with beef and toppings. Better than fast food, easy to customize, ready in 30 minutes!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/crunchwrap-supreme/">Homemade Crunchwrap Supreme Recipe (Better Than Fast Food!)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

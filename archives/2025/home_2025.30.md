@@ -1,11 +1,100 @@
 ---
 title: home
-updated: 2025-07-31 14:07:38
+updated: 2025-08-01 06:09:14
 ---
 
 # home
 
-(date: 2025-07-31 14:07:38)
+(date: 2025-08-01 06:09:14)
+
+---
+
+## How Are Manatees in Florida Related to Elephants
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Manatees are some of the most recognizable and cherished aquatic animals found in Florida’s rivers and coastal habitats. Known for ... </p>
+<p class="read-more-container"><a title="How Are Manatees in Florida Related to Elephants" class="read-more button" href="https://ownyardlife.com/how-are-manatees-in-florida-related-to-elephants/#more-32876" aria-label="Read more about How Are Manatees in Florida Related to Elephants">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-are-manatees-in-florida-related-to-elephants/">How Are Manatees in Florida Related to Elephants</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-are-manatees-in-florida-related-to-elephants/>
+
+---
+
+## Are Bobcats in Arizona Crossbreeding with Domestic Cats
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Arizona is home to some of the most diverse and fascinating wildlife in the United States. Among its natural inhabitants, ... </p>
+<p class="read-more-container"><a title="Are Bobcats in Arizona Crossbreeding with Domestic Cats" class="read-more button" href="https://ownyardlife.com/are-bobcats-in-arizona-crossbreeding-with-domestic-cats/#more-32869" aria-label="Read more about Are Bobcats in Arizona Crossbreeding with Domestic Cats">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/are-bobcats-in-arizona-crossbreeding-with-domestic-cats/">Are Bobcats in Arizona Crossbreeding with Domestic Cats</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/are-bobcats-in-arizona-crossbreeding-with-domestic-cats/>
+
+---
+
+## Why Are Raccoons in Georgia Becoming Hyper-Intelligent
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Across Georgia’s woodlands, suburbs, and even bustling urban centers, raccoons are not just rummaging through trash cans anymore—they’re opening latches, ... </p>
+<p class="read-more-container"><a title="Why Are Raccoons in Georgia Becoming Hyper-Intelligent" class="read-more button" href="https://ownyardlife.com/why-are-raccoons-in-georgia-becoming-hyper-intelligent/#more-32862" aria-label="Read more about Why Are Raccoons in Georgia Becoming Hyper-Intelligent">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-are-raccoons-in-georgia-becoming-hyper-intelligent/">Why Are Raccoons in Georgia Becoming Hyper-Intelligent</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/why-are-raccoons-in-georgia-becoming-hyper-intelligent/>
+
+---
+
+## 20 Lizards in Georgia (With Pictures and Identification)
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Georgia boasts a diverse ecosystem that supports a wide variety of lizard species. From dense forests to rocky terrains, these ... </p>
+<p class="read-more-container"><a title="20 Lizards in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-lizards-in-georgia-with-pictures-and-identification/#more-32847" aria-label="Read more about 20 Lizards in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-lizards-in-georgia-with-pictures-and-identification/">20 Lizards in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-lizards-in-georgia-with-pictures-and-identification/>
+
+---
+
+## 37 Common Birds in Iowa (With Pictures and Identification)
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Iowa is home to a diverse range of bird species, from vibrant songbirds to large waterfowl. With its varied habitats ... </p>
+<p class="read-more-container"><a title="37 Common Birds in Iowa (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/37-common-birds-in-iowa-with-pictures-and-identification/#more-32840" aria-label="Read more about 37 Common Birds in Iowa (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/37-common-birds-in-iowa-with-pictures-and-identification/">37 Common Birds in Iowa (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/37-common-birds-in-iowa-with-pictures-and-identification/>
+
+---
+
+## Take a Stand for CEQA . . . Before It’s Too Late
+
+date: 2025-07-31, from: California Native Plants Society
+
+<p>California’s leaders are chasing a single-path solution on affordable housing while undercutting the most important way Californians can protect their communities and the natural world.</p>
+<p>The post <a href="https://www.cnps.org/conservation/take-a-stand-for-ceqa-before-its-too-late-44015">Take a Stand for CEQA . . . Before It’s Too Late</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/take-a-stand-for-ceqa-before-its-too-late-44015>
 
 ---
 
@@ -105,11 +194,11 @@ date: 2025-07-31, from: Family Handyman Blog
 
 ---
 
-## Marin’s Famous Birkenstock Building Just a Got a New Owner—the Eames Institute
+## Marin’s Famous Birkenstock Building Just Got a New Owner—the Eames Institute
 
 date: 2025-07-31, from: Dwell
 
-The legacy organization just announced plans to turn the midcentury property in Novato into an art and design museum. 
+The legacy organization has announced plans to turn the midcentury property in Novato into an art and design museum. 
 
 <br> 
 
@@ -138,6 +227,44 @@ Set just outside Columbia, the woodsy getaway comes with five decks, a guesthous
 <br> 
 
 <https://www.dwell.com/article/a-frame-cabin-columbia-tennessee-real-estate-0eb6f57e>
+
+---
+
+## You Can Visit Your Favorite National Park for Free Next Week. Here’s How.
+
+date: 2025-07-31, from: Sunset Magazine - Living in the West
+
+Mark your calendars. The National Park Service is waiving entrance fees for Great American Outdoors Day on August 4. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/great-american-outdoors-day-free-national-parks>
+
+---
+
+## Want Limited-Edition Gear? Visit the Sunset Shop!
+
+date: 2025-07-31, from: Sunset Magazine - Living in the West
+
+Whether you’re looking for a gift, in need of kitchen and home gear, or want to show your love for Sunset, the Sunset Shop has got it. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/sunset-shop>
+
+---
+
+## 23 of the Best Lilac Varieties for Your Landscape
+
+date: 2025-07-31, from: The Gardener's Path
+
+<p>If you love lilacs you may not know that there are a number of different types, in shades of pink, purple, and white. Some boast delicate blossoms while others dazzle with double petaled blooms. There are majestic tree types and compact shrubs suitable for container growing. Discover 23 of the best lilac varieties now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/best-lilac-varieties/">23 of the Best Lilac Varieties for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/best-lilac-varieties/>
 
 ---
 
@@ -856,6 +983,18 @@ Sun shining through semicircles at opposite ends of the living space creates a l
 <br> 
 
 <https://www.dwell.com/article/yayoi-house-takeshi-hosaka-architects-brutalist-home-tall-ceilings-e33f01da>
+
+---
+
+## Make These Recipes in August to Celebrate the End of Summer
+
+date: 2025-07-29, from: Sunset Magazine - Living in the West
+
+When August rolls around that means summer is winding down. Make these recipes this month to celebrate the end of the season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-august-2025>
 
 ---
 
