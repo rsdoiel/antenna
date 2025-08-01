@@ -1,11 +1,155 @@
 ---
 title: north america
-updated: 2025-08-01 06:09:08
+updated: 2025-08-01 14:07:53
 ---
 
 # north america
 
-(date: 2025-08-01 06:09:08)
+(date: 2025-08-01 14:07:53)
+
+---
+
+## Make it work mujadara
+
+date: 2025-08-01, from: The Contrarian
+
+Beans have long been the answer to undernourishment. 
+
+<br> 
+
+<https://contrarian.substack.com/p/make-it-work-mujadara>
+
+---
+
+## Miller Lite’s Steinbrenner-Martin commercial proved all too real
+
+date: 2025-08-01, from: The Contrarian
+
+Fifty years ago this week, the combustive relationship between an owner and manager began. 
+
+<br> 
+
+<https://contrarian.substack.com/p/miller-lites-steinbrenner-martin>
+
+---
+
+## Doug Jones on the MAGA sycophants dismantling the Justice Department 
+
+date: 2025-08-01, from: The Contrarian
+
+"We almost may as well take the word 'Justice' off of the building." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169687552/9785af500b5ec60985feb3cdce9647f5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169687552/9785af500b5ec60985feb3cdce9647f5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/doug-jones-on-the-maga-sycophants>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-01, from: The Contrarian
+
+Friday: Protesting 'cowardly' law firms, a protest in Texas, tariff protests around the world, protesting the famine in Gaza, looking ahead, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Border Patrol and ICE Agents Are Arresting U.S. Citizens in Immigration Raids
+
+date: 2025-08-01, from: Capital and Main
+
+<p>Capital &#038; Main has documented nine Americans who have been held in federal custody after observing or protesting immigration raids. </p>
+<p>The post <a href="https://capitalandmain.com/border-patrol-and-ice-agents-are-arresting-u-s-citizens-in-immigration-raids">Border Patrol and ICE Agents Are Arresting U.S. Citizens in Immigration Raids</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/border-patrol-and-ice-agents-are-arresting-u-s-citizens-in-immigration-raids>
+
+---
+
+## Every protest matters: Ezra Levin on getting involved in the movement
+
+date: 2025-08-01, from: The Contrarian
+
+"They get to show up with a big crowd and a peaceful protest, and suddenly you have them as part of the movement." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169770816/b7aceaf93761bff4e7a574d796e7380f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169770816/b7aceaf93761bff4e7a574d796e7380f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/every-protest-matters-ezra-levin>
+
+---
+
+## The Damage Is Already Done: Gaza’s Famine and the Strategic Blind Spot of the West
+
+date: 2025-08-01, from: The Contrarian
+
+Gaza has exposed not only the cruelty of the siege but also the hollowness of the U.S. response capacity. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-damage-is-already-done-gazas>
+
+---
+
+## Health Care Costs Will Rise for the Californians Least Able to Afford It
+
+date: 2025-08-01, from: Capital and Main
+
+<p>Gov. Gavin Newsom agreed to changes to Medi-Cal that will make treatment for migrants more expensive — and less common, raising a question: Why? </p>
+<p>The post <a href="https://capitalandmain.com/health-care-costs-will-rise-for-the-californians-least-able-to-afford-it">Health Care Costs Will Rise for the Californians Least Able to Afford It</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/health-care-costs-will-rise-for-the-californians-least-able-to-afford-it>
+
+---
+
+## The rich and powerful go unpunished: Julie K. Brown on the scale of the Epstein scandal 
+
+date: 2025-08-01, from: The Contrarian
+
+"These victims feel betrayed once again, by the DOJ and by our government officials who, they believe, are still covering up for wealthy and powerful men." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169754174/1fd7dc31acf56420d88224774814a273.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169754174/1fd7dc31acf56420d88224774814a273.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-rich-and-powerful-go-unpunished>
+
+---
+
+## Why the Epstein case could go much deeper with Julie Brown
+
+date: 2025-08-01, from: The Contrarian
+
+Listen now | "It's always been a mystery how [Epstein] made his money." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169792267/763303f081d7da8266ad349b120db155.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169792267/763303f081d7da8266ad349b120db155.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/why-the-epstein-case-could-go-much>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-08-01, from: The Contrarian
+
+Trump-Friendly and Merger-Facilitating Fun for Kids! 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-690>
 
 ---
 
@@ -104,18 +248,6 @@ Black women's emotions, fashion, and authority are questioned visually, reinforc
 <br> 
 
 <https://contrarian.substack.com/p/split-screen-michelle-obama-and-the>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-07-31, from: The Contrarian
-
-Thursday: A CBS protest in New York, an ICE protest in Maryland, supporting rent control in Massachusetts, a Beto O'Rourke rally in Texas, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-01 06:09:14
+updated: 2025-08-01 14:08:01
 ---
 
 # retro computing
 
-(date: 2025-08-01 06:09:14)
+(date: 2025-08-01 14:08:01)
+
+---
+
+## Rollercoaster Tycoon (or, MicroProse’s Last Hurrah)
+
+date: 2025-08-01, from: Digital Antiquarian
+
+This article tells part of the story of MicroProse Software. I think it touches on two of the most fundamental aspects of human nature. We all like doing something constructive, where we can see that we are creating something from virtually nothing, and we all have a desire to nurture or look after things. This [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/08/rollercoaster-tycoon-or-microproses-last-hurrah/>
 
 ---
 

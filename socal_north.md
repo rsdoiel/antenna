@@ -1,11 +1,209 @@
 ---
 title: socal north
-updated: 2025-08-01 06:09:09
+updated: 2025-08-01 14:07:53
 ---
 
 # socal north
 
-(date: 2025-08-01 06:09:09)
+(date: 2025-08-01 14:07:53)
+
+---
+
+## LA’s free recycled water station is back
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+You can’t do things like drink or swim in the water, but it can be used for landscaping and gardens. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-ladwp-recycled-free-water-fill-station-drought>
+
+---
+
+## A Trump order targets gender-affirming care for youth. California is suing to block it
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+California has filed suit seeking to overturn an executive order targeting gender-affirming care for people under 19. 
+
+<br> 
+
+<https://laist.com/news/health/trump-order-targets-gender-affirming-care-for-youth-california-is-suing-to-block-it>
+
+---
+
+## Hours after dispensary owner talked to LAist, state seizes over $10,000 in back taxes from his legal cannabis business
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Dispensary owner discussed tax hardships live on our radio station LAist 89.3 FM, then the state came to collect. 
+
+<br> 
+
+<https://laist.com/news/legal-cannabis-business-tax-seizure-cadre-los-angeles>
+
+---
+
+## Corporation for Public Broadcasting says it's shutting down
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The Corporation for Public Broadcasting, which funnels federal money to public media stations, says it's winding down operations after President Donald Trump signed a law rescinding all funding. 
+
+<br> 
+
+<https://laist.com/news/corporation-for-public-broadcasting-says-its-shutting-down>
+
+---
+
+## Stock markets drop as Trump unleashes new round of global tariffs
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Investors are reacting to Trump's latest plans to impose a wide range of tariffs. A weaker-than-expected jobs report magnified concerns about how these import taxes would affect the economy. 
+
+<br> 
+
+<https://laist.com/news/stock-markets-drop-as-trump-unleashes-new-round-of-global-tariffs>
+
+---
+
+## 27-year-old man shot to death in North Long Beach, police say
+
+date: 2025-08-01, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There was no suspect information available.</p>
+<p>The post <a href="https://lbpost.com/news/crime/shooting-coolidge-bort-homicide-long-beach">27-year-old man shot to death in North Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/shooting-coolidge-bort-homicide-long-beach>
+
+---
+
+## Newsom wants voters to weigh in on new congressional districts in November
+
+date: 2025-08-01, from: Longbeach Post
+
+<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-440x300.jpg 440w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1110x758.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1536x1048.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-2048x1397.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1320x901.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom says he’ll ask voters to decide on new districts in November as California seeks to challenge GOP-controlled states redrawing maps to favor Republicans in the midterms.</p>
+<p>The post <a href="https://lbpost.com/news/politics/newsom-wants-voters-to-weigh-in-on-new-congressional-districts-in-november">Newsom wants voters to weigh in on new congressional districts in November</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/newsom-wants-voters-to-weigh-in-on-new-congressional-districts-in-november>
+
+---
+
+## Virginia Giuffre's family expresses shock over Trump saying Epstein 'stole' her
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Her family's statement is the latest development involving Epstein, who took his own life in a New York jail in 2019 while facing federal sex trafficking charges, and the Republican president. 
+
+<br> 
+
+<https://laist.com/news/virginia-giuffres-family-expresses-shock-over-trump-saying-epstein-stole-her>
+
+---
+
+## Toys, telescopes and bike repair kits: There's a new 'library of things' to check out in Irvine
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+For years, Irvine residents have complained about outdated library facilities under Orange County leadership. Now, the city is taking back control. 
+
+<br> 
+
+<https://laist.com/news/politics/irvine-reopens-two-libraries-under-city-control>
+
+---
+
+## The White House sets a swath of new tariff rates — and a new date — for dozens of countries
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+An executive order says most of the tariffs will not take effect for at least a week, despite an earlier assertion that new rates would take effect on Friday. 
+
+<br> 
+
+<https://laist.com/news/the-white-house-sets-a-swath-of-new-tariff-rates-and-a-new-date-for-dozens-of-countries>
+
+---
+
+## Newsom wants voters to weigh in on new congressional districts in November
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Texas is redrawing districts to favor Republicans. Newsom says two can play at that game. He'll ask voters to approve new maps for California in November. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-wants-voters-to-weigh-in-on-new-congressional-districts-in-november>
+
+---
+
+## Federal judge delays expiration of TPS for Hondurans, Nicaraguans and Nepalese
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The Trump administration has said the conditions in the three countries have improved, therefore the immigrants can return back to their homelands. But federal Judge Trina Thompson suggested Trump's motives are discriminatory. 
+
+<br> 
+
+<https://laist.com/news/federal-judge-delays-expiration-of-tps-for-hondurans-nicaraguans-nepalese>
+
+---
+
+## City repaints DIY crosswalks around West LA park, one week after outcry from residents
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The weeklong saga ended with L.A. crews repainting a set of crosswalks around Stoner Park. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-repaints-diy-crosswalks-around-west-la-park>
+
+---
+
+## UCLA research grants suspended after Trump administration faulted campus for antisemitism
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The Justice Department issued UCLA a notice of violation for not responding “adequately” to complaints about antisemitism. 
+
+<br> 
+
+<https://laist.com/news/education/ucla-research-grants-suspended-after-trump-administration-faulted-campus-for-antisemitism>
+
+---
+
+## These groups are helping revive Altadena eateries that lost customers after the Eaton fire
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Restaurant crawls and dining clubs are the latest efforts from community members to revive struggling Altadena eateries affected by the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/food/these-groups-are-helping-revive-altadena-eateries-that-lost-customers-after-the-eaton-fire>
+
+---
+
+## One more headache for LA fire survivors: extra time in the car — a lot of it
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+If one thing defines Los Angeles, it might be traffic. And in the months since the January firestorm, displaced residents say they've been sitting in a lot more of it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-fire-survivors-longer-commute-times>
 
 ---
 
@@ -25,7 +223,7 @@ The review site released its 100 top sandwich spots, with five in SoCal. But the
 
 date: 2025-08-01, updated: 2025-08-01, from: The LAist
 
-The estimated number of unsheltered children and teens under 18 in the county went up this year. 
+The estimated number of unsheltered children and teens under 18 in the county went up this year, and data suggests larger families especially are struggling. 
 
 <br> 
 
@@ -45,18 +243,6 @@ The budget bill signed by President Donald Trump on July 4 ends a 30% residentia
 
 ---
 
-## One more headache for LA fire survivors: extra time in the car — a lot of it
-
-date: 2025-08-01, updated: 2025-08-01, from: The LAist
-
-If one thing defines Los Angeles, it might be traffic. And in the months since the January firestorm, displaced residents say they've been sitting in a lot more of it. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/la-fire-survivors-longer-commute-times>
-
----
-
 ## Zabaglione, burnt milk, mastic gum? Global ice cream flavors you can find in SoCal
 
 date: 2025-08-01, updated: 2025-08-01, from: The LAist
@@ -73,7 +259,7 @@ Ice cream makers bring a little piece of Argentina, Turkey and Mexico to the reg
 
 date: 2025-08-01, from: Longbeach Post
 
-<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-400x247.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-400x247.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Queen Mary Heritage Foundation is compiling a comprehensive list of restoration projects they plan to fund aboard the historic ocean liner, with a goal of completing three in the next year. </p>
 <p>The post <a href="https://lbpost.com/news/local-history/nonprofit-fundraising-restoration-projects-queen-mary">Nonprofit to launch fundraising campaign for restoration projects on the Queen Mary </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -86,7 +272,7 @@ date: 2025-08-01, from: Longbeach Post
 
 ## LA County preps for possible major cuts to housing, homelessness funding after meeting with Trump appointee
 
-date: 2025-07-31, updated: 2025-07-31, from: The LAist
+date: 2025-07-31, updated: 2025-08-01, from: The LAist
 
 The high-ranking federal housing appointee said they'd would be recommending that President Donald Trump “defund” Los Angeles, according to a county official. The federal housing agency has declined to comment so far. 
 

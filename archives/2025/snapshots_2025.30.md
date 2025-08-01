@@ -1,11 +1,291 @@
 ---
 title: snapshots
-updated: 2025-08-01 06:09:17
+updated: 2025-08-01 14:08:05
 ---
 
 # snapshots
 
-(date: 2025-08-01 06:09:17)
+(date: 2025-08-01 14:08:05)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-01, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lveilkiqb22d>
+
+---
+
+## Apple’s Q3 2025 Results
+
+date: 2025-08-01, from: Michael Tsai
+
+Apple (transcript, MacRumors): The Company posted quarterly revenue of $94.0 billion, up 10 percent year over year, and quarterly diluted earnings per share of $1.57, up 12 percent year over year. &#8220;Today Apple is proud to report a June quarter revenue record with double-digit growth in iPhone, Mac and Services and growth around the world, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/01/apples-q3-2025-results/>
+
+---
+
+## Proton Pass and Proton Authenticator
+
+date: 2025-08-01, from: Michael Tsai
+
+Romain Dillet (2023, Hacker News): Proton, the Geneva, Switzerland-based company behind the end-to-end encrypted email service Proton Mail, as well as Proton VPN, Proton Drive and Proton Calendar, is announcing a brand new product today. And it&#8217;s a password manager called Proton Pass.Like other Proton products, the company is insisting on the privacy and security [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/01/proton-pass-and-proton-authenticator/>
+
+---
+
+## Dropbox Discontinues Passwords App
+
+date: 2025-08-01, from: Michael Tsai
+
+Dropbox (Hacker News, TidBITS-Talk, MacRumors, Slashdot): As part of our efforts to focus on enhancing other features in our core product, Dropbox Passwords will be discontinued on October 28, 2025.We recommend transferring your passwords to another password manager application such as 1Password&#8212;a highly trusted and secure password manager. Good that they are focusing on the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/01/dropbox-discontinues-passwords-app/>
+
+---
+
+## NSAutoFillRequiresTextContentTypeForOneTimeCodeOnMac
+
+date: 2025-08-01, from: Michael Tsai
+
+Ricky Mondello: As you&#8217;ve undoubtedly heard by now, macOS Tahoe brings Security Code AutoFill of delivered codes (via Messages and Mail) to all Mac apps, including web browsers, without text field content type annotations. This matches the iOS behavior since iOS 12.We&#8217;ve published some documentation about this new behavior, as well as how Mac apps [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/01/nsautofillrequirestextcontenttypeforonetimecodeonmac/>
+
+---
+
+## Caracas on the Potomac
+
+date: 2025-08-01, from: Paul Krugman
+
+Goodbye, reliable economic data 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/caracas-on-the-potomac>
+
+---
+
+## Lilbits: Nintendo Switch price hike gets a price hike 8 years after launch, a dual-screen cyberdeck, and goo.gl link shortener isn’t (entirely) dead yet
+
+date: 2025-08-01, from: Liliputing
+
+<p>The Nintendo Switch sold for $300 when the game console first launched in 2017. Since then Nintendo has added a lower-cost Switch Lite as well as a premium Switch OLED. And this year the company launched the follow-up Switch 2. There continues to be demand for original even 8 years after launch, but while most [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-nintendo-switch-price-hike-gets-a-price-hike-8-years-after-launch-a-dual-screen-cyberdeck-and-goo-gl-link-shortener-isnt-entirely-dead-yet/">Lilbits: Nintendo Switch price hike gets a price hike 8 years after launch, a dual-screen cyberdeck, and goo.gl link shortener isn&#8217;t (entirely) dead yet</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-nintendo-switch-price-hike-gets-a-price-hike-8-years-after-launch-a-dual-screen-cyberdeck-and-goo-gl-link-shortener-isnt-entirely-dead-yet/>
+
+---
+
+## AIM Max+ laptop aims to bring AMD Strix Halo to the sub-$1000 market
+
+date: 2025-08-01, from: Liliputing
+
+<p>The AMD Ryzen AI Max+ 395 &#8220;Strix Halo&#8221; processor is a ridiculously powerful mobile chip that combines a 16-core, 32-thread CPU with a Radeon 8060S 40-core integrated GPU that offers the kind of performance you&#8217;d expect from discrete graphics. There&#8217;s also an NPU that supports up to 50 TOPS of AI performance. But these chips ain&#8217;t [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aim-max-laptop-aims-to-bring-amd-strix-halo-to-the-sub-1000-market/">AIM Max+ laptop aims to bring AMD Strix Halo to the sub-$1000 market</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aim-max-laptop-aims-to-bring-amd-strix-halo-to-the-sub-1000-market/>
+
+---
+
+## Dirt cheap handhelds, mini PCs and other gadgets could get more expensive after Aug 29th
+
+date: 2025-08-01, from: Liliputing
+
+<p>Earlier this year the Trump administration ended the &#8220;de minimis&#8221; exemption on goods shipped from China and Hong Kong to the US. Essentially this meant that items shipped from those regions that were valued under $800 would no longer be exempt from tariffs. Many sellers found workarounds by doing things like routing their shipments through [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dirt-cheap-handhelds-mini-pcs-and-other-gadgets-could-get-more-expensive-after-aug-29th/">Dirt cheap handhelds, mini PCs and other gadgets could get more expensive after Aug 29th</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dirt-cheap-handhelds-mini-pcs-and-other-gadgets-could-get-more-expensive-after-aug-29th/>
+
+---
+
+## Fake Liberation Tactics Persist
+
+date: 2025-08-01, from: Guy Kawasaki blog
+
+Derek R. Peterson, Ali Mazrui Professor of History & African Studies, University of Michigan, 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/fake-liberation-tactics-persist>
+
+---
+
+## Deep Think in the Gemini app
+
+date: 2025-08-01, updated: 2025-08-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.google/products/gemini/gemini-2-5-deep-think/">Deep Think in the Gemini app</a></strong></p>
+Google released Gemini 2.5 Deep Think this morning, exclusively to their Ultra ($250/month) subscribers:</p>
+<blockquote>
+<p>It is a variation of the model that <a href="https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/">recently achieved</a> the gold-medal standard at this year's International Mathematical Olympiad (IMO). While that model takes hours to reason about complex math problems, today's release is faster and more usable day-to-day, while still reaching Bronze-level performance on the 2025 IMO benchmark, based on internal evaluations.</p>
+</blockquote>
+<p>Google describe Deep Think's architecture like this:</p>
+<blockquote>
+<p>Just as people tackle complex problems by taking the time to explore different angles, weigh potential solutions, and refine a final answer, Deep Think pushes the frontier of thinking capabilities by using parallel thinking techniques. This approach lets Gemini generate many ideas at once and consider them simultaneously, even revising or combining different ideas over time, before arriving at the best answer.</p>
+</blockquote>
+<p>This approach sounds a little similar to the <a href="https://github.com/irthomasthomas/llm-consortium">llm-consortium</a> plugin by Thomas Hughes, see <a href="https://simonwillison.net/2025/Jan/22/office-hours-demos/#llm-model-gateway-and-llm-consortium-by-thomas-hughes">this video from January's Datasette Public Office Hours</a>.</p>
+<p>I don't have an Ultra account, but thankfully <a href="https://news.ycombinator.com/item?id=44755279#44757551">nickandbro on Hacker News</a> tried "Create a svg of a pelican riding on a bicycle" (a very slight modification of my prompt, which uses "Generate an SVG") and got back a <a href="https://www.svgviewer.dev/s/5R5iTexQ">very solid result</a>:</p>
+<p><img alt="Red bicycle with the right pieces, Pelican has two pieces to its beak that look about the right shape." src="https://static.simonwillison.net/static/2025/deep-think-pelican.png" /></p>
+<p>The bicycle is the right shape, and this is one of the few results I've seen for this prompt where the bird is very clearly a pelican thanks to the shape of its beak.</p>
+<p>There are more details on Deep Think in the <a href="https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Deep-Think-Model-Card.pdf">Gemini 2.5 Deep Think Model Card</a> (PDF). Some highlights from that document:</p>
+<ul>
+<li>1 million token input window, accepting text, images, audio, and video.</li>
+<li>Text output up to 192,000 tokens.</li>
+<li>Training ran on TPUs and used <a href="https://github.com/jax-ml/jax">JAX</a> and <a href="https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/">ML Pathways</a>.</li>
+<li>"We additionally trained Gemini 2.5 Deep Think on novel reinforcement learning techniques that can leverage more multi-step reasoning, problem-solving and theorem-proving data, and we also provided access to a curated corpus of high-quality solutions to mathematics problems."</li>
+<li>Knowledge cutoff is January 2025.</li>
+</ul>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44755279">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/1/deep-think-in-the-gemini-app/#atom-everything>
+
+---
+
+## PELADN Link S-3 is a low-profile Thunderbolt 5 eGPU dock
+
+date: 2025-08-01, from: Liliputing
+
+<p>Mini PC maker PELADN has been selling graphics docks for a few years, allowing you to connect a desktop graphics card to a laptop or desktop computer. The first was the PELADN Link S1, which uses a Thunderbolt 4 connection. Then came the Link S-2 with an OCuLink connection for higher speeds. Now the company [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/peladn-link-s-3-is-a-low-profile-thunderbolt-5-egpu-dock/">PELADN Link S-3 is a low-profile Thunderbolt 5 eGPU dock</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/peladn-link-s-3-is-a-low-profile-thunderbolt-5-egpu-dock/>
+
+---
+
+## 'Honk If You Hate Elon:' Two Days of Protest at the Tesla Diner
+
+date: 2025-08-01, from: 404 Media Group
+
+Protesters outside LA's Tesla Diner fear for the future of democracy in the USA 
+
+<br> 
+
+<https://www.404media.co/honk-if-you-hate-elon-two-days-of-protest-at-the-tesla-diner/>
+
+---
+
+## Microsoft is pulling the plug on Windows 11 SE, which was once positioned as its answer to ChromeOS
+
+date: 2025-08-01, from: Liliputing
+
+<p>Windows 11 SE debuted in 2021 as a stripped down version of Windows that was designed for low-cost laptops meant to be used in K-8 classrooms. It was basically Microsoft&#8217;s answer to ChromeOS, which has become popular in the education market. But it never really caught on in the same way as Google&#8217;s operating system. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/microsoft-is-pulling-the-plug-on-windows-11-se-which-was-once-positioned-as-its-answer-to-chromeos/">Microsoft is pulling the plug on Windows 11 SE, which was once positioned as its answer to ChromeOS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/microsoft-is-pulling-the-plug-on-windows-11-se-which-was-once-positioned-as-its-answer-to-chromeos/>
+
+---
+
+## July newsletter for sponsors is out
+
+date: 2025-08-01, updated: 2025-08-01, from: Simon Willison’s Weblog
+
+<p>This morning I sent out the third edition of my LLM digest newsletter for my $10/month and higher <a href="https://github.com/sponsors/simonw">sponsors on GitHub</a>. It included the following section headers:</p>
+<ul>
+<li>Claude Code</li>
+<li>Model releases in July</li>
+<li>Gold medal performances in the IMO</li>
+<li>Reverse engineering system prompts</li>
+<li>Tools I'm using at the moment</li>
+</ul>
+<p>The newsletter is a condensed summary of highlights from the past month of my blog. I published <a href="https://simonwillison.net/2025/Jul/">98 posts in July</a> - the concept for the newsletter is that you can pay me for the version that only takes 10 minutes to read!</p>
+<p>Here are the newsletters I sent out for <a href="https://gist.github.com/simonw/de3e12de506c9a3df4e1119b842e79f7">June 2025</a> and <a href="https://gist.github.com/simonw/07eb3f32bad5b9f21b4e65f86327e302">May 2025</a>, if you want a taste of what you'll be getting as a sponsor. New sponsors instantly get access to the archive of previous newsletters, including the one I sent this morning.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/newsletter">newsletter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/1/july-newsletter/#atom-everything>
+
+---
+
+## Behind the Blog: Party Vibes and Spilling Tea
+
+date: 2025-08-01, from: 404 Media Group
+
+This week, we discuss meeting a bunch of you in LA, the ongoing Tea saga, and age verification sweeping the UK. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-party-vibes-and-spilling-tea/>
+
+---
+
+## Friending
+
+date: 2025-08-01, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>This year, I wrote a book called Notes on Being a Man. My publisher is billing it as a “path forward for men and parents of boys.” (Sounds … pretentious.) It’s also my life story — the good, the bad, and the ugly. Working on the book, I observed a pattern: My friends were/are key [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/friending/">Friending</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/friending/>
+
+---
+
+## The Meaning of a Weak Jobs Report
+
+date: 2025-08-01, from: Paul Krugman
+
+It's (probably) the tariff uncertainty, stupid 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-meaning-of-a-weak-jobs-report>
+
+---
+
+## Quoting Logan Kilpatrick
+
+date: 2025-08-01, updated: 2025-08-01, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/OfficialLoganK/status/1951262261512659430"><p>Gemini Deep Think, our SOTA model with parallel thinking that won the IMO Gold Medal 🥇, is now available in the Gemini App for Ultra subscribers!! [...]</p>
+<p>Quick correction: this is a variation of our IMO gold model that is faster and more optimized for daily use! We are also giving the IMO gold full model to a set of mathematicians to test the value of the full capabilities.</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/OfficialLoganK/status/1951262261512659430">Logan Kilpatrick</a>, announcing Gemini Deep Think</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/logan-kilpatrick">logan-kilpatrick</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/1/logan-kilpatrick/#atom-everything>
 
 ---
 

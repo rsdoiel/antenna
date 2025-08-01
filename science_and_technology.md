@@ -1,11 +1,323 @@
 ---
 title: science and technology
-updated: 2025-08-01 06:09:11
+updated: 2025-08-01 14:07:56
 ---
 
 # science and technology
 
-(date: 2025-08-01 06:09:11)
+(date: 2025-08-01 14:07:56)
+
+---
+
+## OpenAI removes ChatGPT self-doxing option
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Checkbox to make chatbot conversations appear in search engines deemed a footgun</h4> <p>OpenAI has removed the option to make ChatGPT interactions indexable by search engines to prevent users from unwittingly exposing sensitive information.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/openai_removes_chatgpt_selfdoxing_option/>
+
+---
+
+## Centuries-Old Hawaiian Petroglyphs Emerge From the Sand for the First Time in Nine Years
+
+date: 2025-08-01, from: Smithsonian Magazine
+
+Discovered in 2016, the sandstone carvings on the western shore of Oahu depict human-like figures and extend across more than 100 feet 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/centuries-old-hawaiian-petroglyphs-emerge-from-the-sand-for-the-first-time-in-nine-years-180987080/>
+
+---
+
+## Wayback 0.2 released
+
+date: 2025-08-01, from: OS News
+
+Wayback has been barely announced, and the first version 0.1 has barely left git, but it&#8217;s already time for version 0.2. It won&#8217;t surprise you to find out this isn&#8217;t some massive release, and you&#8217;d be right. It really only addresses a few very small bugs, while the developers also take the opportunity to highlight Wayback is now available on Gentoo GURU and Nixpkgs. 
+
+<br> 
+
+<https://www.osnews.com/story/142948/wayback-0-2-released/>
+
+---
+
+## $10 billion, 10 year US Army contract elevates Palantir to defense contracting royalty
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Crashes the multibillion-dollar DoD party alongside Boeing, Lockheed, and Raytheon</h4> <p>There are no official criteria for what constitutes membership in the upper echelon of the US military industrial complex, but a $10 billion deal that consolidates dozens of contracts under a single blanket purchase agreement sure makes it seem like Palantir has earned entry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/palantir_us_army_contract/>
+
+---
+
+## Microsoft cancels a Windows 11 variant you’ve most likely forgotten exists
+
+date: 2025-08-01, from: OS News
+
+If there&#8217;s one thing Microsoft is good at, it&#8217;s creating weird variants of Windows with odd names that tech media talk about for like a day, after which everyone, especially Microsoft, forgets they even exist. Usually, these weird Windows variants are the result of either legal requirements, or, more commonly, of perceived threats to Windows&#8217; dominance on the desktop. An example of the former are the various &#8220;N&#8221; editions of Windows, while an example of the latter is the one we&#8217;re talking about today: Windows 11 SE. I honestly had completely forgotten Windows 11 SE existed, and most likely you did, too. Windows 11 SE was (one of) Microsoft&#8217;s response(s) to the growing popularity of Chromebooks in schools, and as such, this Windows variant omitted a bunch of features for performance and distraction reasons, stored files in OneDrive instead of locally, was locked down so only administrators could control which applications could be used, and so on. In fact, unless specifically whitelisted, Windows 11 SE would not run any Win32 or UWP applications &#8211; everything had to be either a PWA or a website. Notably, it was only available in combination with a few specific devices. The past tense in the preceding paragraph should be a dead giveaway of what&#8217;s happening. Yes, Microsoft just cancelled the whole thing, after being on the market for only a few years. Microsoft will not release a feature update after Windows 11 SE, version 24H2. Support for Windows 11 SE—including software updates, technical assistance, and security fixes—will end in October 2026. While your device will continue to work, we recommend transitioning to a device that supports another edition of Windows 11 to ensure continued support and security. ↫ Windows 11 SE support document In other words, if your school fell for Microsoft&#8217;s sales pitch for Windows 11 SE, you&#8217;re kind of screwed after October 2026, because Windows 11 SE only shipped on specific, low-cost, low-powered devices. You&#8217;d think other variants of Windows 11 will more or less run on those, too, but if not &#8211; or far too slowly &#8211; your school is now sitting on a pile of e-waste. Anybody want to run a betting pool for the Windows variant Microsoft will cancel next? 
+
+<br> 
+
+<https://www.osnews.com/story/142946/microsoft-cancels-a-windows-11-variant-youve-most-likely-forgotten-exists/>
+
+---
+
+## Gadget geeks aghast at guru's geriatric GPU
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Paramount Penguin Linus Torvalds still uses a 2017 graphics card</h4> <p>As work picks up on the forthcoming Linux 6.17, many joystick-wigglers are shocked by its millionaire dev&#39;s positively ancient AMD graphics card.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/geeks_aghast_at_guru_gpu/>
+
+---
+
+## For the First Time in Nearly a Century, Adult Winter-Run Chinook Salmon Are Swimming in California's McCloud River
+
+date: 2025-08-01, from: Smithsonian Magazine
+
+Video footage shows a female guarding her nest while several smaller males compete for positioning nearby 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/for-the-first-time-in-nearly-a-century-adult-winter-run-chinook-salmon-are-swimming-in-californias-mccloud-river-180987092/>
+
+---
+
+## Tested: Microsoft Recall can still capture credit cards and passwords, a treasure trove for crooks
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Our tests have shown there are ways to get around the promised security improvements</h4> <p><strong>exclusive</strong>  Microsoft Recall, the AI app that takes screenshots of what you do on your PC so you can search for it later, has a filter that&#39;s supposed to prevent it from screenshotting sensitive info like credit card numbers. But a <em>The Register</em> test shows that it still fails in many cases, creating a potential treasure trove for thieves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/microsoft_recall_captures_credit_card_info/>
+
+---
+
+## China says US spies exploited Microsoft Exchange zero-day to steal military info
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Spy vs. spy</h4> <p>China has accused US intelligence agencies of exploiting a Microsoft Exchange zero-day exploit to steal defense-related data and take over more than 50 devices belonging to a &#34;major Chinese military enterprise&#34; for nearly a year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/china_us_intel_attacks/>
+
+---
+
+## “Hello world” in Bismuth
+
+date: 2025-08-01, from: OS News
+
+Late last year, we talked about Bismuth, a virtual machine being developed by Eniko Fox, one of the developers of the awesome game Kitsune Tails. Part of a operating systems development side project, Bismuth is a VM (think Java Virtual Machine, not VMware) on top of Fox&#8217; custom kernel, designed specifically to run programs in a sandbox. The first article detailed the origins of Bismuth, and the second article delved into memory safety, sandboxing, and more. We&#8217;re a few months down the line now, and Fox recently published another article in the series, this time explaining how a hello world-program works in Bismuth. This is the third in a series of posts about a virtual machine I’m developing as a hobby project called Bismuth. I’ve talked a lot about Bismuth, mostly on social media, but I don’t think I’ve done a good job at communicating how you go from some code to a program in this VM. In this post I aim to rectify that by walking you through the entire life cycle of a hello world Bismuth program, from the highest level to the lowest. ↫ Eniko Fox There&#8217;s a ton of detail here, and at the end you&#8217;ll have a pretty solid grip on how Bismuth works. 
+
+<br> 
+
+<https://www.osnews.com/story/142943/hello-world-in-bismuth/>
+
+---
+
+## Court upholds Epic win in Google Play Store antitrust battle
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Appeals panel says Chocolate Factory abused its dominance in Android app distribution</h4> <p>A panel of judges has dismissed Google&#39;s appeal against an antitrust verdict over its Play Store business practices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/epic_google_verdict_affirmed/>
+
+---
+
+## “I tried Servo, the undercover web browser engine made with Rust”
+
+date: 2025-08-01, from: OS News
+
+Servo is unique for a few other reasons, too. It&#8217;s managed by the Linux Foundation Europe with decisions made by a technical steering committee, not a big tech company. One of the main goals is to be an &#8220;embeddable web rendering engine,&#8221; meaning it&#8217;s not just for browsers—it could be a replacement for Electron or the Android WebView. Servo is also the first completely new browser engine in decades, so it&#8217;s taking lessons learned from mainstream browsers while building a new foundation. ↫ Corbin Davenport At the moment, as Davenport notes, Servo is far from ready to be a daily driver browser engine. Tons of websites&#8217; rendering is broken and some crash the browser altogether, and performance is nowhere near that of the other browser engines. This makes perfect sense, as Servo is still in heavy development, and there&#8217;s no massive corporation with endless money (and ulterior motives) backing it. Still, out of all the various attempts at wrestling control away from Blink and WebKit, I feel like Servo&#8217;s the one with the most promise in the long term. 
+
+<br> 
+
+<https://www.osnews.com/story/142940/i-tried-servo-the-undercover-web-browser-engine-made-with-rust/>
+
+---
+
+## NUBE: New Card Game Helps Learners Identify Cloud Types Through Play
+
+date: 2025-08-01, from: NASA breaking news
+
+Different clouds types can have different effects on our weather and climate, which makes identifying cloud types important – but learning to identify cloud types can be tricky! Educational games make the learning process easier and more enjoyable for learners of all ages and create an opportunity for families and friends to spend quality time […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/for-educators/nube-new-card-game-helps-learners-identify-cloud-types-through-play/>
+
+---
+
+## 24 Billion Gallons of Water Burst Through Greenland's Ice Sheet From a Hidden Lake in 2014. Scientists Just Pieced Together What Happened
+
+date: 2025-08-01, from: Smithsonian Magazine
+
+A new study suggests ice sheet meltwater doesn’t always move downward—sometimes, it can erupt 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/24-billion-gallons-of-water-burst-through-greenlands-ice-sheet-from-a-hidden-lake-in-2014-scientists-just-pieced-together-what-happened-180987085/>
+
+---
+
+## Crew-11 Launches to International Space Station
+
+date: 2025-08-01, from: NASA breaking news
+
+A SpaceX Falcon 9 rocket carrying the SpaceX Dragon spacecraft Endeavour lifts off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida on Aug. 1, 2025. NASA astronauts Zena Cardman and Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov are aboard the spacecraft. After the crew [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/crew-11-launches-to-international-space-station/>
+
+---
+
+## NASA’s Europa Clipper Radar Instrument Proves Itself at Mars
+
+date: 2025-08-01, from: NASA breaking news
+
+The agency’s largest interplanetary probe tested its radar during a Mars flyby. The results include a detailed image and bode well for the mission at Jupiter’s moon Europa. As it soared past Mars in March, NASA’s Europa Clipper conducted a critical radar test that had been impossible to accomplish on Earth. Now that mission scientists [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-radar-instrument-proves-itself-at-mars/>
+
+---
+
+## Scientists Found Sticky Goo Inside a 2,500-Year-Old Jar. Seventy Years Later, They Finally Know What It Is
+
+date: 2025-08-01, from: Smithsonian Magazine
+
+By studying the mysterious substance's chemical makeup, scientists determined the pot was once full of honey 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-found-sticky-goo-inside-a-2500-year-old-jar-70-years-later-they-finally-know-what-it-is-180987088/>
+
+---
+
+## What’s Up: August 2025 Skywatching Tips from NASA
+
+date: 2025-08-01, from: NASA breaking news
+
+Venus-Jupiter Conjunction and Meteor Mojo Jupiter and Venus shine brightly in the mornings as they appear to graze each other in the sky on the 11th and 12th. The Perseids are washed out by the Moon. Skywatching Highlights All Month – Planet Visibility: Skywatching Highlights: August 11 &#038; 12 – Venus-Jupiter Conjunction – The two […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/>
+
+---
+
+## Tens of Thousands of Stunning Images by Photographer Bill Cunningham Acquired by New York Historical
+
+date: 2025-08-01, from: Smithsonian Magazine
+
+The museum will house photographs, negatives and slides belonging to the renowned photographer, who captured life in New York City for decades before his death in 2016 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/tens-of-thousands-of-stunning-images-by-photographer-bill-cunningham-acquired-by-new-york-historical-180987075/>
+
+---
+
+## NASA’s SpaceX Crew-11 Launches to International Space Station
+
+date: 2025-08-01, from: NASA breaking news
+
+Four crew members of NASA’s SpaceX Crew-11 mission launched at 11:43 a.m. EDT Friday from Launch Complex 39A at the agency’s Kennedy Space Center in Florida for a science expedition aboard the International Space Station. A SpaceX Falcon 9 rocket propelled the Dragon spacecraft into orbit carrying NASA astronauts Zena Cardman and Mike Fincke, JAXA [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-11-launches-to-international-space-station/>
+
+---
+
+## Microsoft gives in to Chromebook bullies and drops Windows 11 SE
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Budget educational computing is now Google&#39;s game to lose</h4> <p>Microsoft is discontinuing support for its Windows 11 SE variant meant to compete with ChromeOS in the education space, leaving schools that chose Microsoft over Google in the lurch just four years after the cloud-based Windows variant was released. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/microsoft_abandons_windows_11_se/>
+
+---
+
+## How Joint NASA-ESA Sea Level Mission Will Help Hurricane Forecasts
+
+date: 2025-08-01, from: NASA breaking news
+
+Sentinel-6B will measure sea surface height for nearly all of the world’s ocean, providing important data for information products, including weather and hurricane forecasts. NASA has a long record of monitoring Earth’s sea surface height, information critical not only for tracking how the ocean changes over time but also for hurricane forecasting. These extreme storms [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/how-joint-nasa-esa-sea-level-mission-will-help-hurricane-forecasts/>
+
+---
+
+## Another one bites the dust as KubeSphere kills open source edition
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Company blames license violations and infrastructure changes for abrupt move</h4> <p>KubeSphere has become the latest service to abruptly yank an open source edition of a product, triggering outcry from users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/kubesphere_open_source_edition/>
+
+---
+
+## At 17, Hannah Cairo Solved a Major Math Mystery
+
+date: 2025-08-01, from: Quanta Magazine
+
+After finding the homeschooling life confining, the teen petitioned her way into a graduate class at Berkeley, where she ended up disproving a 40-year-old conjecture.            <p>The post <a href="https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/" target="_blank">At 17, Hannah Cairo Solved a Major Math Mystery</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/>
+
+---
+
+## ISS is still leaking air after latest repair efforts fail
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Russian boffins searching for root cause in their segment of the outpost, former cosmonaut says</h4> <p>The International Space Station (ISS) is still leaking air from the Russian segment of the outpost despite efforts to eliminate the losses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/iss_is_still_leaking/>
+
+---
+
+## Florida prison email blunder exposes visitor contact info to inmates
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Victims fear leak at Everglades Correctional Institution could lead to violent extortion</h4> <p>A data breach at a Florida prison has inmates&#39; families concerned for their welfare after their contact details were allegedly leaked to convicted criminals.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/florida_prison_email_blunder/>
 
 ---
 
@@ -105,7 +417,7 @@ date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
 
 ---
 
-## Top spy says LinkedIn profiles that list defence work 'recklessly invite attention of foreign intelligence services'
+## Top spy says LinkedIn profiles that list defense work 'recklessly invite attention of foreign intelligence services'
 
 date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
 
@@ -133,7 +445,7 @@ date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
 
 date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
 
-<h4>Malaysia&#39;s attitude of &#39;This could be worse and our neighbours are copping it too&#39; is a typical response</h4> <p><strong>World War Fee</strong>  US President Donald Trump on Thursday announced new tariff rates that reduce the import duties on goods from several major tech-producing nations.…</p> 
+<h4>Malaysia&#39;s attitude of &#39;This could be worse and our neighbors are copping it too&#39; is a typical response</h4> <p><strong>World War Fee</strong>  US President Donald Trump on Thursday announced new tariff rates that reduce the import duties on goods from several major tech-producing nations.…</p> 
 
 <br> 
 

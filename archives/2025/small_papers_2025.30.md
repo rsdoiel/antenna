@@ -1,11 +1,77 @@
 ---
 title: small papers
-updated: 2025-08-01 06:09:16
+updated: 2025-08-01 14:08:03
 ---
 
 # small papers
 
-(date: 2025-08-01 06:09:16)
+(date: 2025-08-01 14:08:03)
+
+---
+
+## Avalon to advance CIMC $1.1 million
+
+date: 2025-08-01, from: Catalina Islander
+
+The City Council last week approved an advance of more than $1.1 million from the General Fund to the local hospital. The money was an advance on Measure C Funds for the hospital. The meeting was brief: The video is 22 minutes 30 seconds long. As of 12:56 p.m., Wednesday, July 30, the video had [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-to-advance-cimc-1-1-million/>
+
+---
+
+## Leo’s welcomes new pharmacist
+
+date: 2025-08-01, from: Catalina Islander
+
+Leo’s Catalina Drugstore and Catalina Island Health are thrilled to introduce pharmacist Lauryn Reinhardt to the Avalon community. As its newest on-island pharmacist, Dr. Lauryn Reinhardt, PharmD, said she is proud to serve the Catalina Island community. She brings a diverse background in clinical pharmacy, compounding, and public health. Reinhardt is an experienced pharmacist with [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/leos-welcomes-new-pharmacist/>
+
+---
+
+## City of Avalon Public Works Update
+
+date: 2025-08-01, from: Catalina Islander
+
+Courtesy of city of Avalon Street Markings for Parking and No Parking Zones The Public Works crew recently completed painting new autoette only parking spaces and red “No Parking” zones across from the medical center to improve traffic flow and access for emergency vehicles. This work also included new autoette and red curb markings along [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-of-avalon-public-works-update/>
+
+---
+
+## 27-year-old man shot to death in North Long Beach, police say
+
+date: 2025-08-01, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There was no suspect information available.</p>
+<p>The post <a href="https://lbpost.com/news/crime/shooting-coolidge-bort-homicide-long-beach">27-year-old man shot to death in North Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/shooting-coolidge-bort-homicide-long-beach>
+
+---
+
+## Newsom wants voters to weigh in on new congressional districts in November
+
+date: 2025-08-01, from: Long Beach Post
+
+<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-440x300.jpg 440w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1110x758.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1536x1048.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-2048x1397.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1320x901.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom says he’ll ask voters to decide on new districts in November as California seeks to challenge GOP-controlled states redrawing maps to favor Republicans in the midterms.</p>
+<p>The post <a href="https://lbpost.com/news/politics/newsom-wants-voters-to-weigh-in-on-new-congressional-districts-in-november">Newsom wants voters to weigh in on new congressional districts in November</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/newsom-wants-voters-to-weigh-in-on-new-congressional-districts-in-november>
 
 ---
 
@@ -13,7 +79,7 @@ updated: 2025-08-01 06:09:16
 
 date: 2025-08-01, from: Long Beach Post
 
-<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-400x247.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="632" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-300x185.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-768x474.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-175x108.jpg 175w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/31153449/queen-mary-4-2877-1024x632-331348-yn7ro9dk-100153-j7qvFGXU-400x247.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The Queen Mary Heritage Foundation is compiling a comprehensive list of restoration projects they plan to fund aboard the historic ocean liner, with a goal of completing three in the next year. </p>
 <p>The post <a href="https://lbpost.com/news/local-history/nonprofit-fundraising-restoration-projects-queen-mary">Nonprofit to launch fundraising campaign for restoration projects on the Queen Mary </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

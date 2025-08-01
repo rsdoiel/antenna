@@ -1,11 +1,123 @@
 ---
 title: home
-updated: 2025-08-01 06:09:14
+updated: 2025-08-01 14:08:00
 ---
 
 # home
 
-(date: 2025-08-01 06:09:14)
+(date: 2025-08-01 14:08:00)
+
+---
+
+## This $647K Idaho Home Is a Gardener’s Dream
+
+date: 2025-08-01, from: Dwell
+
+The ’70s residence has vibrant interiors and a backyard oasis with a greenhouse, raised beds, fruit and nut trees, and a pond. 
+
+<br> 
+
+<https://www.dwell.com/article/garden-home-lewis-keys-nampa-idaho-real-estate-e33aac33>
+
+---
+
+## Why New Jersey Drivers Still Can’t Pump Their Own Gas
+
+date: 2025-08-01, from: Family Handyman Blog
+
+<p>The answer to the question "Why can't you pump your own gas in New Jersey?" is answered in addition to questions about cost and tipping.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/cant-pump-your-own-gas-in-new-jersey/">Why New Jersey Drivers Still Can’t Pump Their Own Gas</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/cant-pump-your-own-gas-in-new-jersey/>
+
+---
+
+## How Just a Few Inches of Water Can Trigger a Flash Flood
+
+date: 2025-08-01, from: Family Handyman Blog
+
+<p>Flash flooding kills more people than any other type of storm-related tragedy, but most deaths are preventable. Here's how flash floods work.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/flash-floods/">How Just a Few Inches of Water Can Trigger a Flash Flood</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/flash-floods/>
+
+---
+
+## They Built a Kayaking Crash Pad That Mimics the Famed Archipelago It Sits On
+
+date: 2025-08-01, from: Dwell
+
+The pandemic prompted a couple to commit to the San Juan Islands, where they built a string of black cabins that appear to float on a network of boardwalks. 
+
+<br> 
+
+<https://www.dwell.com/article/bladderwrack-cabin-ets-architecture-island-living-ca174ea3>
+
+---
+
+## Porcupines in Ohio: Everything You Need to Know
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Porcupines are one of the most unique and intriguing mammals found across North America, and Ohio is no exception. While ... </p>
+<p class="read-more-container"><a title="Porcupines in Ohio: Everything You Need to Know" class="read-more button" href="https://ownyardlife.com/porcupines-in-ohio-everything-you-need-to-know/#more-32897" aria-label="Read more about Porcupines in Ohio: Everything You Need to Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/porcupines-in-ohio-everything-you-need-to-know/">Porcupines in Ohio: Everything You Need to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/porcupines-in-ohio-everything-you-need-to-know/>
+
+---
+
+## Explore the Hidden Truths Behind Wild Hogs in Arkansas
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Wild hogs are not natural residents of Arkansas, yet they have firmly embedded themselves across the state’s forests, wetlands, and ... </p>
+<p class="read-more-container"><a title="Explore the Hidden Truths Behind Wild Hogs in Arkansas" class="read-more button" href="https://ownyardlife.com/explore-the-hidden-truths-behind-wild-hogs-in-arkansas/#more-32892" aria-label="Read more about Explore the Hidden Truths Behind Wild Hogs in Arkansas">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/explore-the-hidden-truths-behind-wild-hogs-in-arkansas/">Explore the Hidden Truths Behind Wild Hogs in Arkansas</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/explore-the-hidden-truths-behind-wild-hogs-in-arkansas/>
+
+---
+
+## Shocking Truth About Foxes in Illinois No One Talks About
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Foxes have long been symbols of cunning and adaptability in folklore and popular culture. In Illinois, these elusive creatures have ... </p>
+<p class="read-more-container"><a title="Shocking Truth About Foxes in Illinois No One Talks About" class="read-more button" href="https://ownyardlife.com/shocking-truth-about-foxes-in-illinois-no-one-talks-about/#more-32887" aria-label="Read more about Shocking Truth About Foxes in Illinois No One Talks About">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/shocking-truth-about-foxes-in-illinois-no-one-talks-about/">Shocking Truth About Foxes in Illinois No One Talks About</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/shocking-truth-about-foxes-in-illinois-no-one-talks-about/>
+
+---
+
+## Are There Wolverines Really in Michigan? Discover the Truth
+
+date: 2025-08-01, from: Yard Life blog
+
+<p>Wolverines have long held a mythical status in North American wildlife lore. Fierce, elusive, and powerful, these solitary mammals evoke ... </p>
+<p class="read-more-container"><a title="Are There Wolverines Really in Michigan? Discover the Truth" class="read-more button" href="https://ownyardlife.com/are-there-wolverines-really-in-michigan-discover-the-truth/#more-32882" aria-label="Read more about Are There Wolverines Really in Michigan? Discover the Truth">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/are-there-wolverines-really-in-michigan-discover-the-truth/">Are There Wolverines Really in Michigan? Discover the Truth</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/are-there-wolverines-really-in-michigan-discover-the-truth/>
 
 ---
 
@@ -21,6 +133,42 @@ date: 2025-08-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/how-are-manatees-in-florida-related-to-elephants/>
+
+---
+
+## An Entire Island Nation’s Plan to Relocate—and Everything Else You Need to Know About This Week
+
+date: 2025-08-01, from: Dwell
+
+Buffalo’s Art Deco train station is slated for a $300 million revival, San Francisco’s surprising lean into car culture, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-tuvalu-climate-change-california-solar-power-legislation-46090af5>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Camping, National Parks, Road Trips, Travel, WildLands You Can Visit Your Favorite National Park for Free Next Week. Here&#8217;s How. Enjoy magical national parks for free on August&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 8 Summer Camp–Inspired Getaways for Families Who Love Nature
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Want a getaway that channels the magic of classic summer camp? These resorts and ranches are perfect for the whole family. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/summer-camp-inspired-getaways>
 
 ---
 
@@ -420,30 +568,6 @@ When a wildfire and freak ice storm made me face my eco-anxiety head on, I set o
 
 ---
 
-## 8 Summer Camp–Inspired Getaways for Families Who Love Nature
-
-date: 2025-07-31, from: Sunset Magazine - Living in the West
-
-Want a getaway that channels the magic of classic summer camp? These resorts and ranches are perfect for the whole family. 
-
-<br> 
-
-<https://www.sunset.com/travel/outdoor-adventure/summer-camp-inspired-getaways>
-
----
-
-## Homepage 2025
-
-date: 2025-07-31, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours A Kitschy Balboa Island Cottage Got a Colorful, Quirky Makeover It&#8217;s a bright, happy, unique space.  Read more: A Kitschy Balboa Island Cottage Got a Colorful,&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## 10 Owls in Vermont (With Pictures and Identification)
 
 date: 2025-07-31, from: Yard Life blog
@@ -591,7 +715,7 @@ Chefs and home cooks are using sustainable and trendy algae oil, which has a hig
 
 date: 2025-07-30, from: Homestead and Chil
 
-<p>Come learn how to make fruit shrubs (aka drinking vinegars) with our easy flexible recipe! Use any fruit you'd like, plus optional herbs or spices. Shrubs are a delicious addition to sparkling water, cocktail, mocktails, salad dressing and more.</p>
+<p>Come learn how to make fruit shrubs (aka drinking vinegars) with our easy flexible recipe! Use any fruit you fancy, plus optional herbs or spices. Shrubs are a delicious addition to sparkling water, cocktail, mocktails, salad dressing and more.</p>
 <p>The post <a href="https://homesteadandchill.com/easy-fruit-shrub-recipe-drinking-vinegar/">Easy Fruit Shrub Recipe: How to Make Delicious Drinking Vinegar</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
  
 

@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-08-01 06:09:13
+updated: 2025-08-01 14:08:00
 ---
 
 # libraries
 
-(date: 2025-08-01 06:09:13)
+(date: 2025-08-01 14:08:00)
+
+---
+
+## Tom Lehrer (1928–2025): A Life in Satire, A Legacy in the Commons
+
+date: 2025-08-01, from: Internet Archive Blog
+
+Satirical musical artist Tom Lehrer passed away on July 26, 2025. Lehrer is best remembered for his sharp wit, engaging musical compositions, and timeless social commentary. In 2020, Lehrer proactively [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/08/01/tom-lehrer-1928-2025-a-life-in-satire-a-legacy-in-the-commons/>
 
 ---
 

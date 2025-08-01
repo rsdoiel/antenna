@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-08-01 06:09:14
+updated: 2025-08-01 14:08:01
 ---
 
 # motorcycles
 
-(date: 2025-08-01 06:09:14)
+(date: 2025-08-01 14:08:01)
+
+---
+
+## The Suzuki GSX-R 1000 is Back From the Dead, and Possibly Better Than Ever
+
+date: 2025-08-01, from: Ride Apart, Electric Motorcycle News
+
+Suzuki just announced all the updates for the 2026 GSX-R 1000 and GSX-R 1000R. Here's everything you need to know, except for the prices. 
+
+<br> 
+
+<https://www.rideapart.com/news/767632/2026-suzuki-gsxr-features-specs/>
 
 ---
 

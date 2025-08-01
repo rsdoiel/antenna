@@ -1,11 +1,36 @@
 ---
 title: journalism
-updated: 2025-08-01 06:09:13
+updated: 2025-08-01 14:07:59
 ---
 
 # journalism
 
-(date: 2025-08-01 06:09:13)
+(date: 2025-08-01 14:07:59)
+
+---
+
+## Person steals merchandise near De Neve Plaza around 2 a.m. Friday
+
+date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+A person stole merchandise near De Neve Plaza around 2 a.m. Friday.
+A person, who was not affiliated with UCLA, agreed to meet with the suspect to sell him merchandise prior to the incident, according to a UCPD Clery Timely Warning crime alert. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/person-steals-merchandise-near-de-neve-plaza-around-2-a-m-friday/>
+
+---
+
+## Alden Global Capital is miffed that The Dallas Morning News won’t offer itself up for disembowelment
+
+date: 2025-08-01, from: Nieman Journalism Lab
+
+Alden Global Capital just can&#8217;t understand. Why would any newspaper not want to be the next to pass through its digestive tract? That&#8217;s the tone of a letter the vulturous hedge fund&#8217;s executives sent last night to the owner of The Dallas Morning News. As I wrote on Monday, the DallasNews Corporation recently agreed to... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/alden-global-capital-is-miffed-that-the-dallas-morning-news-wont-offer-itself-up-for-disembowelment/>
 
 ---
 
@@ -13,7 +38,7 @@ updated: 2025-08-01 06:09:13
 
 date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated July 31 at 10:25 p.m.</em>
+<em>This post was updated August 1 at 8:10 a.m.</em>
 The federal government is suspending research funding to UCLA, according to a Thursday email from Chancellor Julio Frenk. 
 
 <br> 

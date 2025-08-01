@@ -1,11 +1,37 @@
 ---
 title: pacific
-updated: 2025-08-01 06:09:10
+updated: 2025-08-01 14:07:54
 ---
 
 # pacific
 
-(date: 2025-08-01 06:09:10)
+(date: 2025-08-01 14:07:54)
+
+---
+
+## August 2025 anniversaries
+
+date: 2025-08-01, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates August 2024 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/01/august-2025-anniversaries/">August 2025 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/01/august-2025-anniversaries/>
+
+---
+
+## Hawaiʻi brain health tracker launches to address Alzheimer’s risks
+
+date: 2025-08-01, from: University of Hawaiʻi News
+
+<p>The new interactive tool provides real-time data to address Alzheimer’s and dementia in Hawaiʻi.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/01/hawaii-brain-health-tracker/">Hawaiʻi brain health tracker launches to address Alzheimer’s risks</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/01/hawaii-brain-health-tracker/>
 
 ---
 
@@ -258,6 +284,20 @@ date: 2025-08-01, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/01/entertainment/ehcc-exhibit-shows-the-humanity-behind-homelessness/>
+
+---
+
+## Kenichi Pacific in Kona shut down due to ‘critical food safety violations’
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has issued a red &#8220;closed&#8221; placard and immediately shut down Kenichi Pacific restaurant on Ali&#699;i Drive in Kailua-Kona due to multiple critical food safety violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/hawaii-news/kenichi-pacific-in-kona-shut-down-due-to-critical-food-safety-violations/>
 
 ---
 

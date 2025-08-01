@@ -1,11 +1,167 @@
 ---
 title: planet
-updated: 2025-08-01 06:09:07
+updated: 2025-08-01 14:07:51
 ---
 
 # planet
 
-(date: 2025-08-01 06:09:07)
+(date: 2025-08-01 14:07:51)
+
+---
+
+## Stress test shows AIB, BOI could withstand economic shock
+
+date: 2025-08-01, from: RTÉ News
+
+An EU wide bank stress test has found that the country's two largest banks currently hold enough capital to withstand an economic shock. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526607-eu-bank-stress-test/>
+
+---
+
+## Trump moves nuclear submarines after Medvedev statements
+
+date: 2025-08-01, from: RTÉ News
+
+US President Donald Trump has said he had ordered two nuclear submarines to be moved to the "appropriate regions" in response to threats from former Russian President Dmitry Medvedev. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0801/1526593-us-russia/>
+
+---
+
+## Shock and sadness at Thurles Racecourse closure
+
+date: 2025-08-01, from: RTÉ News
+
+Members of the horse racing community in Tipperary have been expressing their shock and sadness at the news that Thurles Racecourse is to close with immediate effect. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526592-thurles-racecourse-closure/>
+
+---
+
+## Spanish court orders rebel nuns out of convent
+
+date: 2025-08-01, from: RTÉ News
+
+A Spanish court has ordered a group of nuns excommunicated from the Catholic Church to be expelled from their convent, according to a legal ruling viewed by AFP Friday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526589-rebel-spanish-nuns/>
+
+---
+
+## Podcast: What next in Nikita Hand's case against McGregor
+
+date: 2025-08-01, from: RTÉ News
+
+There is "a lot left" in the legal process between Nikita Hand and Conor McGregor, according to Órla O'Donnell. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526586-podcast-what-next-in-nikita-hands-case-against-mcgregor/>
+
+---
+
+## SIPTU members back childcare pay deal
+
+date: 2025-08-01, from: RTÉ News
+
+SIPTU members working in Early Years services have voted to accept a pay deal which provides for increases of around 10% across all grades. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526584-childcare-pay-deal/>
+
+---
+
+## Tánaiste to meet family of Private Séan Rooney next week
+
+date: 2025-08-01, from: RTÉ News
+
+Tánaiste Simon Harris has confirmed that he will meet the mother of Irish peacekeeper Private Seán Rooney, who was killed in Lebanon in 2022, after he was criticised for speaking publicly on the case before talking to her and her family. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0801/1526579-private-sean-rooney/>
+
+---
+
+## Harris says Govt 'not rowing back' on hospitality VAT cut
+
+date: 2025-08-01, from: RTÉ News
+
+Tánaiste Simon Harris has said he is "not rowing back" on Programme for Government commitments to cut the hospitality VAT rate despite saying the timing of any measure will be decided on budget day. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526581-harris-vat-cut/>
+
+---
+
+## 'Overregulation' could impact US firms' investments in EU
+
+date: 2025-08-01, from: RTÉ News
+
+A delegation from the US Congress has visited Dublin and warned that US companies could pull back on investment in the European Union over what the members described as excessive regulation. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0801/1526574-eu-regulation-us/>
+
+---
+
+## Dublin city's first static speed camera in operation
+
+date: 2025-08-01, from: RTÉ News
+
+Dublin city's first static speed camera has come into operation on the Crumlin Road in Dophin's Barn. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526569-speed-camera-dublin/>
+
+---
+
+## St Newman's new 'doctor' title welcomed by Irish Bishops
+
+date: 2025-08-01, from: RTÉ News
+
+The President of the Irish Catholic Bishops' Conference has welcomed news of Pope Leo XIV's decision to declare Saint John Henry Newman a Doctor of the Universal Church. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526571-john-henry-newman/>
+
+---
+
+## Watch: Questions remain over US tariff exemptions
+
+date: 2025-08-01, from: RTÉ News
+
+Questions remain over which areas are exempt from US tariffs on EU goods, RTÉ's Economics and Public Affairs Editor David Murphy has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0801/1526568-tariffs-analysis/>
+
+---
+
+## Trump orders movement of 2 nuclear submarines after 'inflammatory' comments from Russian official
+
+date: 2025-08-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599799.1754069708!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG' alt='A man in a blue suit with a navy, spotted tie points to a reporter from a podium.' width='620' height='349' title='U.S. President Donald Trump points a finger as he delivers remarks in the Roosevelt Room at the White House on July 31, 2025. '/><p>U.S. President Donald Trump on Friday said he had ordered two nuclear submarines to be "positioned in the appropriate regions" in response to "inflammatory statements" from former Russian president Dmitry Medvedev.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-nuclear-submarines-russia-positions-1.7599792?cmp=rss>
 
 ---
 
@@ -33,7 +189,7 @@ The Indian Embassy in Ireland has warned its citizens to take reasonable precaut
 
 ---
 
-## Storm Floris named as Met Éireann issues advisory
+## Storm Floris to bring wet and windy weather to country
 
 date: 2025-08-01, from: RTÉ News
 
@@ -42,6 +198,78 @@ Met Éireann has issued a weather advisory for Storm Floris, which will bring we
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0801/1526538-storm-floris/>
+
+---
+
+## World News in Brief: Hunger in the English- and Dutch-speaking Caribbean, climate and displacement crisis in Somalia, World Breastfeeding Week
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+Nearly 3.2 million people in the English and Dutch-Speaking Caribbean struggle to get enough to eat, according to the latest Food Security and Livelihoods Survey conducted by the UN World Food Programme (WFP) and the Caribbean Community (CARICOM).&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165556>
+
+---
+
+## LIVE: UN Security Council meets on crisis in Ukraine
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+The UN Security Council meets Friday afternoon to discuss the ongoing crisis in Ukraine, where recent attacks have left dozens dead or injured. A senior UN political affairs official is expected to brief on the situation. Follow our live coverage from UN News, in coordination with UN Meetings Coverage, for real-time updates and key developments from the chamber. UN News App users can follow the coverage here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165555>
+
+---
+
+## Haiti: More than 1,500 killed between April and June, UN report finds
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+Two gangs in Haiti took over a radio station in April. They broadcasted propaganda and played hip-hop supportive of their activities. Upon leaving, they took all the equipment with them and burned down a nearby market — a reminder that armed violence in Haiti is not only taking people’s lives but also destroying their livelihoods.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165554>
+
+---
+
+## Africa’s push for HIV independence advances with first procurement of locally made medicines
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+Sub-Saharan Africa has taken a cautious but critical step toward greater health self-reliance as locally produced HIV medicines and diagnostic tests begin reaching national programmes – including, for the first time, procurement of African-made treatment for Mozambique. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165553>
+
+---
+
+## Gaza: Nearly 1,400 Palestinians killed while seeking food, as UN warns airdrops are no solution
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+Despite Israel’s 27 July announcement of daily military pauses in western Gaza “to improve humanitarian responses,” Israeli forces continued attacks along food convoy routes and near Gaza Humanitarian Foundation (GHF) aid sites, according to the UN human rights office in Palestine (OHCHR).&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165552>
+
+---
+
+## A mandate for change: UN releases proposals for streamlining of tasks as part of major reform agenda
+
+date: 2025-08-01, from: United Nations, UN Affairs
+
+Millions of lives have been improved by the mandates assigned to the UN. Yet duplication, fragmentation and outdated tasks are stretching resources and undermining the organization’s ability to deliver for those who need it most. As part of the UN80 Initiative, UN Secretary-General António Guterres has presented a set of proposals to Member States to make the UN more efficient, coherent and impactful. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165550>
 
 ---
 
@@ -57,7 +285,7 @@ The High Court has stepped in to protect the interests of a farmer who has alrea
 
 ---
 
-## Ceol agus spraoi: what's on this Bank Holiday weekend?
+## Ceol agus spraoi: What's on this Bank Holiday weekend?
 
 date: 2025-08-01, from: RTÉ News
 
@@ -74,7 +302,7 @@ This weekend marks the last Bank Holiday weekend of the summer, and with a wide 
 date: 2025-08-01, from: Vatican News
 
 
-                    <p>SECAM, the Symposium of Episcopal Conferences of Africa and Madagascar, officially opens its 20th Plenary Assembly in Kigali, Rwanda. The event brings together not only bishops from all over the country, but also the Rwandan Prime Minister and representatives from other continents—Asia, Latin America, North America, and Europe</p>
+                    <p>SECAM, the Symposium of Episcopal Conferences of Africa and Madagascar, officially opens its 20th Plenary Assembly in Kigali, Rwanda. The event brings together not only bishops from all over the continent, but also the Rwandan Prime Minister and representatives from other continents—Asia, Latin America, North America, and Europe</p>
                     <p><a href="https://www.vaticannews.va/en/church/news/2025-08/kigali-secam-20th-plenary-assembly-2025-2050.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -122,6 +350,30 @@ The EU Court of Justice has ordered Ireland to pay €1.54 million to the Europe
 <br> 
 
 <https://www.rte.ie/news/2025/0801/1526522-ireland-flexible-work-fine/>
+
+---
+
+## Ireland fined €1.5m by EU for flexible work law delays
+
+date: 2025-08-01, from: RTÉ News
+
+The EU Court of Justice has ordered Ireland to pay €1.54 million to the European Commission over delays in introducing laws allowing for flexible and remote working. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0801/1526522-ireland-flexible-work-fine/>
+
+---
+
+## First Nation, chamber of mines blast Yukon gov't's efforts to develop new mining laws
+
+date: 2025-08-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7282896.1722549966!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chief-dawna-hope.jpg' alt='Chief Dawna Hope in July 2024.' width='620' height='349' title='Chief Dawna Hope in July 2024.'/><p>The Yukon government's efforts to develop new mining legislation are coming under fire, from both a First Nation and the territory's chamber of mines.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/first-nation-chamber-of-mines-blast-yukon-gov-t-efforts-develop-mine-laws-1.7599053?cmp=rss>
 
 ---
 
@@ -273,6 +525,18 @@ Aer Lingus CEO Lynn Embleton has said the recent An Coimisiún Pleanála decisio
 
 ---
 
+## 3 Sask. First Nations reach cows and plows settlements with federal government
+
+date: 2025-08-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7599021.1753994590!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/muscowpetung-council.JPG' alt='Muscowpetung council' width='620' height='349' title='The Muscowpetung Council welcomed Honourable Rebecca Alty, Minister of Crown-Indigenous Relations on Wednesday. From left, Thomas Pratt, Byron Toto, Rhonda Rosebluff, Honourable Rebecca Alty, Chief Melissa Tavita, Terrance Cappo and Myke Agecoutay'/><p>The Muscowpetung Salteaux Nation held a ceremony Wednesday to celebrate reaching an agriculture benefits agreement with the federal government. The nation received nearly $99 million in compensation to fulfill Treaty 4 obligations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/3-first-nations-cows-plows-settlements-1.7598720?cmp=rss>
+
+---
+
 ## Garda report 'drip-feed' to media an insult, says GRA
 
 date: 2025-08-01, from: RTÉ News
@@ -285,15 +549,27 @@ The "drip-feeding" of the findings of a report on attitudes within An Garda Sío
 
 ---
 
-## 'Work continues' after EU-US trade deal, says Šefčovič
+## As it happened: 'Work continues' after EU-US trade deal
 
 date: 2025-08-01, from: RTÉ News
 
-Follow live updates as US President Donald Trump imposes steep tariffs on exports from dozens of trading partners. 
+Look back on live updates after US President Donald Trump imposed steep tariffs on exports from dozens of trading partners. 
 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0801/1526450-tariff-tracker/>
+
+---
+
+## Brokenhead Ojibway Nation holds referendum on Sio Silica partnership
+
+date: 2025-08-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7542268.1748025746!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brokenhead-ojibway-nation-chief-gordon-bluesky.jpg' alt='the chief (a man) stands on the grounds of the farm. fence posts meant to keep the animals in can be seen behind him' width='620' height='349' title='Chief Gordon Bluesky has plans to expand into more food sovereignty projects. The Bison are the first step to more land based community initiatives. '/><p>Brokenhead Ojibway Nation is holding a referendum on a prospective partnership with Alberta mining company Sio Silica, which wants to drill thousands of wells in southeastern Manitoba to extract silica sand.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/brokenhead-referendum-sio-silica-1.7599103?cmp=rss>
 
 ---
 
@@ -309,11 +585,11 @@ As US President Donald Trump's new tariff regime clicks into gear, producers aro
 
 ---
 
-## Donald Trump's envoy Witkoff visits Gaza food site
+## US envoy Witkoff visits Gaza food distribution site
 
 date: 2025-08-01, from: RTÉ News
 
-US President Donald Trump's envoy Steve Witkoff has visited an aid distribution site in Gaza run by the American privately-owned Gaza Humanitarian Foundation. 
+US President Donald Trump's envoy Steve Witkoff has visited an aid distribution site in Gaza run by the American privately owned Gaza Humanitarian Foundation. 
 
 <br> 
 
@@ -345,11 +621,23 @@ Food company Greencore has said remediation works are still ongoing on the site 
 
 ---
 
-## Five children among 31 killed in Russian attack on Kyiv
+## Remediation continues 20 years on at Carlow sugar site
 
 date: 2025-08-01, from: RTÉ News
 
-Ukrainian President Volodymyr Zelensky has said rescue operations have finished in Kyiv following a Russian strike yesterday and said 31 people, including five children, were killed and 159 had been wounded. 
+Food company Greencore has said remediation works are still ongoing on the site of the former Carlow sugar factory, 20 years after the plant closed. 
+
+<br> 
+
+<https://www.rte.ie/news/leinster/2025/0801/1526418-carlow-sugar-plant/>
+
+---
+
+## Putin says conditions for peace remain unchanged
+
+date: 2025-08-01, from: RTÉ News
+
+Russia wants a "lasting and stable peace" in Ukraine, President Vladimir Putin has said, adding that Moscow's conditions for peace remained unchanged as Kyiv repeated its call for a leaders' meeting. 
 
 <br> 
 
@@ -357,11 +645,23 @@ Ukrainian President Volodymyr Zelensky has said rescue operations have finished 
 
 ---
 
-## Markets tumble as countries hit with steep US tariffs
+## Carcross/Tagish First Nation 'in the driver's seat' for remediation projects
+
+date: 2025-08-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7598776.1753987400!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rob-wright-darla-jean-lindstrom.jpg' alt='Tow people sit at a table outside, signing documents.' width='620' height='349' title='Deputy Chief Darla-Jean Lindstrom signing the agreement alongside the associate deputy minister of Crown-Indigenous Relations and Northern Affairs Canada, Rob Wright, signing an agreement over the remediation of contaminated sites, in Carcross, Yukon, July 30, 2025.'/><p>The Carcross/Tagish First Nation (C/TFN) in the Yukon will play a leading role in the clean-up of several contaminated sites on or near its traditional territory, after the signing of an agreement this week with the federal government.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/carcross-tagish-first-nation-in-the-driver-s-seat-for-remediation-projects-1.7598654?cmp=rss>
+
+---
+
+## Markets dive after Trump hits more countries with tariffs
 
 date: 2025-08-01, from: RTÉ News
 
-US President Donald Trump's latest wave of tariffs on exports from dozens of trading partners, including Canada, Brazil, India and Taiwan, has sent global markets tumbling as countries pushed for talks to clinch better deals. 
+US President Donald Trump's latest wave of tariffs on exports from dozens of trading partners sent global stock markets tumbling and countries and companies scrambling to seek ways to strike better deals. 
 
 <br> 
 
@@ -529,6 +829,18 @@ Social Democrats Senator Patricia Stephenson has defended her party leadership's
 
 ---
 
+## Soc Dems senator defends decision to end TD's suspension
+
+date: 2025-07-31, from: RTÉ News
+
+Social Democrats Senator Patricia Stephenson has defended her party leadership's decision to end Eoin Hayes TD's suspension over his previous shares in a US tech firm with Israeli defence forces contracts. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0731/1526398-eoin-hayes-suspension/>
+
+---
+
 ## Celebrating the World Day of the Elderly in Nairobi
 
 date: 2025-07-31, from: Vatican News
@@ -691,7 +1003,7 @@ A man who raped a Spanish tourist in a Dublin city centre street during New Year
 
 ## Trade measures critical to ending plastic pollution
 
-date: 2025-07-31, from: United Nations, Climate Change
+date: 2025-07-31, from: United Nations, Top Stories
 
 Trade must be part of the solution to end plastic pollution – a global problem which disproportionately affects developing countries. 
 
@@ -703,7 +1015,7 @@ Trade must be part of the solution to end plastic pollution – a global problem
 
 ## ‘Delivering better’: New ECOSOC president emphasises climate action, food security
 
-date: 2025-07-31, from: United Nations, Top Stories
+date: 2025-07-31, from: United Nations, UN Affairs
 
 The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism. 
 
@@ -1165,7 +1477,7 @@ Eight cases of sexual assault involving members of the Defence Forces were befor
 
 date: 2025-07-31, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7597571.1753898005!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robert-yang-the-tearoom.jpg' alt='video game screenshot of a man wearing a cowboy hat looking at the camera, while standing in front of a urinal in a dingy public bathroom.' width='620' height='349' title='A screenshot from The Tearoom, a 2017 game by independent developer Robert Yang. Yang said his works were deindexed from gaming storefront Itch.io without warning late in July.'/><p>Video game developers are speaking out after thousands of games and other digital artworks were hidden or removed entirely from two popular PC games stores. They say many of the vanished titles were unnecessarily censored.</p> 
+<img src='https://i.cbc.ca/1.7597571.1754078995!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robert-yang-the-tearoom.jpg' alt='video game screenshot of a man wearing a cowboy hat looking at the camera, while standing in front of a urinal in a dingy public bathroom.' width='620' height='349' title='A screenshot from The Tearoom, a 2017 game by independent developer Robert Yang. Yang said his works were deindexed from gaming storefront Itch.io without warning late in July.'/><p>Video game developers are speaking out after thousands of games and other digital artworks were hidden or removed entirely from two popular PC games stores. They say many of the vanished titles were unnecessarily censored.</p> 
 
 <br> 
 
@@ -1623,7 +1935,7 @@ People in Haiti have expressed “despair” following the “abrupt suspension�
 
 ## Tsunami alert highlights worth of global early warning system
 
-date: 2025-07-30, from: United Nations, Climate Change
+date: 2025-07-30, from: United Nations, Top Stories
 
 Early warning systems kicked in overnight across Pacific coastal communities after a massive earthquake in eastern Russia triggered a sea surge that reached the Japanese coastline around 1,000 kilometres (620 miles) away within about an hour, disaster relief experts said on Wednesday.&nbsp; 
 
@@ -2529,7 +2841,7 @@ The promise seemed simple: a job, a fresh start, a way out. Instead, Maria* step
 
 ## Deputy UN chief urges bold action to transform food systems at global summit in Addis Ababa
 
-date: 2025-07-29, from: United Nations, Economic Development
+date: 2025-07-29, from: United Nations, Top Stories
 
 United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on countries to double down on efforts to transform food systems, describing them as “one of the greatest solutions” to achieving the Sustainable Development Goals (SDGs). 
 

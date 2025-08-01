@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2025-08-01 06:09:16
+updated: 2025-08-01 14:08:03
 ---
 
 # food
 
-(date: 2025-08-01 06:09:16)
+(date: 2025-08-01 14:08:03)
+
+---
+
+## The Best Faux Fur Blankets for Chilly Nights
+
+date: 2025-08-01, from: Taste of Home
+
+<p>Buttery-soft and editor-approved, these faux fur blankets instantly upgrade your space and are next-level cozy.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-faux-fur-blankets/">The Best Faux Fur Blankets for Chilly Nights</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-faux-fur-blankets/>
+
+---
+
+## Spritzing Across America: 50 Spritz Cocktail Recipes Inspired by the States
+
+date: 2025-08-01, from: Taste of Home
+
+<p>Celebrate your state with plenty of Prosecco, iconic liqueurs and great company.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/national-spritz-day-ideas/">Spritzing Across America: 50 Spritz Cocktail Recipes Inspired by the States</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/national-spritz-day-ideas/>
+
+---
+
+## What Is Light Roast? What Is Dark Roast? A New UC Davis Coffee Center Study Reveals All
+
+date: 2025-08-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A new study finds that all Arabica follows the same general color curve when roasting. 
+
+<br> 
+
+<https://sprudge.com/what-is-light-roast-what-is-dark-roast-a-new-uc-davis-coffee-center-study-reveals-all-383026.html>
+
+---
+
+## Introducing Coffee Gear! A New Coffee Equipment Resource From Sprudge
+
+date: 2025-08-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated selection of coffee gear. 
+
+<br> 
+
+<https://sprudge.com/introducing-coffee-gear-a-new-coffee-equipment-resource-from-sprudge-383158.html>
+
+---
+
+## Here’s Your Next Chance at Scoring a Le Creuset Mystery Box
+
+date: 2025-08-01, from: Taste of Home
+
+<p>If you've always wanted to roll the dice on a Le Creuset mystery box, here's your next chance!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/how-to-get-a-le-creuset-mystery-box/">Here&#8217;s Your Next Chance at Scoring a Le Creuset Mystery Box</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/how-to-get-a-le-creuset-mystery-box/>
+
+---
+
+## Elise Jesse’s Crockpot Pineapple Salsa Chicken
+
+date: 2025-08-01, from: Taste of Home
+
+Looking for a fresh and flavorful dinner that screams summer? This pineapple salsa chicken is the answer. It’s simple to make, packed with juicy, tropical flavors, and brings just the right amount of heat. Tender chicken breasts are simmered in a savory pineapple-garlic broth, then served over fluffy basmati rice and topped with a vibrant homemade pineapple salsa. Finished with creamy avocado and a hint of lime, this dish is light, colorful and one of my go-tos when I don’t have a lot of time to spare. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-crockpot-pineapple-salsa-chicken/>
+
+---
+
+## This Is the Genius Way People Are Making Their Burgers
+
+date: 2025-08-01, from: Taste of Home
+
+<p>Your bacon burger is about to get so much better. Pinwheel burgers are the summertime grilling sensation taking over social media. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/pinwheel-burgers/">This Is the Genius Way People Are Making Their Burgers</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pinwheel-burgers/>
+
+---
+
+## This 3-Ingredient BLT Appetizer Is My Favorite Way to Use Bread Cheese
+
+date: 2025-08-01, from: Taste of Home
+
+<p>If you love BLTs, make this easy appetizer needs part of your next party menu. The key is a special cheese that does double duty in the most delicious way possible.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/blt-bread-cheese-appetizer/">This 3-Ingredient BLT Appetizer Is My Favorite Way to Use Bread Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/blt-bread-cheese-appetizer/>
+
+---
+
+## This Simple Ikea Food Court Hack Is Cheap and Delicious
+
+date: 2025-08-01, from: Taste of Home
+
+<p>This Ikea food court hack is cheap, simple and delicious. A writer shares the unique soft drink flavor combination she gets at the store.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ikea-food-court-hack/">This Simple Ikea Food Court Hack Is Cheap and Delicious</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ikea-food-court-hack/>
 
 ---
 
@@ -61,7 +181,7 @@ Juicy ground chicken and charred cabbage are the stars of this family-friendly m
 
 date: 2025-08-01, from: Bon Appetet
 
-Just in time for back to school season, August’s Feel-Good Food Plan brings the whole family to the table. 
+Just in time for back-to-school season, August’s Feel-Good Food Plan brings the whole family to the table. 
 
 <br> 
 
@@ -73,7 +193,7 @@ Just in time for back to school season, August’s Feel-Good Food Plan brings th
 
 date: 2025-08-01, from: Bon Appetet
 
-Special delivery from Bake Club: A blueberry-peach filling that won’t fall apart and our go-to brown sugar crumble. 
+Special delivery from Bake Club: a blueberry-peach filling that won’t fall apart and our go-to brown sugar crumble. 
 
 <br> 
 
