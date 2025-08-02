@@ -1,11 +1,36 @@
 ---
 title: columns
-updated: 2025-08-01 14:07:57
+updated: 2025-08-02 06:08:27
 ---
 
 # columns
 
-(date: 2025-08-01 14:07:57)
+(date: 2025-08-02 06:08:27)
+
+---
+
+## Trump destroys our source of information about jobs. This is beyond irresponsible. 
+
+date: 2025-08-01, from: Robert Reich's blog
+
+He hates facts. He rejects truth. He doesn&#8217;t want the public to know what&#8217;s really happening. 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-destroys-our-source-of-information>
+
+---
+
+## Friday Squid Blogging: A Case of Squid Fossil Misidentification
+
+date: 2025-08-01, updated: 2025-07-31, from: Bruce Schneier blog
+
+<p>What scientists thought were squid fossils were actually <a href="https://www.earth.com/news/ancient-squid-turned-out-to-be-something-an-arrow-worm-fossil/">arrow</a> <a href="https://www.sustainability-times.com/research/scientists-humiliated-as-500-million-year-old-squid-fossil-turns-out-to-be-a-total-evolutionary-fraud/">worms</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-a-case-of-squid-fossil-misidentification.html>
 
 ---
 
@@ -56,7 +81,7 @@ date: 2025-08-01, updated: 2025-08-01, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2025-08-01, from: Dave Winer's Scripting News)
 
-Welcome to August. More than half the summer is behind us. We're still here. The shelves in the supermarket are full of good stuff to eat. We've had about the normal amount of hot weather, and a good amount of rain but not too much. The Mets are doing OK, all things considered. They opened a Pho restaurant in Bearsville and it's good. Health, not too bad, all things considered. <i>Still diggin!</i> 
+Welcome to August. More than half the summer is behind us. We're still here. The shelves in the supermarkets are full of good stuff. We've had about the normal amount of hot weather, a good amount of rain but not too much. The <a href="https://www.mlb.com/mets/standings/">Mets</a> are doing OK. They opened a <a href="https://www.tibetphowoodstock.com/">Pho restaurant</a> in Bearsville and it's good. Health, not too bad, all things considered. <i>Still diggin!</i> 
 
 <br> 
 
@@ -2136,4 +2161,218 @@ If you had <a href="https://bsky.app/profile/scripting.com/post/3luuok552422m">a
 <br> 
 
 <http://scripting.com/2025/07/26.html#a001007>
+
+---
+
+## July 25, 2025
+
+date: 2025-07-26, from: Heather Cox Richardson blog
+
+ 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-25-2025-c14>
+
+---
+
+## To Trust ICEBlock’s Anonymity, You Have to Trust Apple
+
+date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version>
+
+---
+
+## New York Times’ Style Guide Substitutions for ‘The President Violated the Constitution’
+
+date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.mcsweeneys.net/articles/new-york-times-style-guide-substitutions-for-the-president-violated-the-constitution>
+
+---
+
+## ‘Obsoless’ — Ken Pillonel’s Small-Batch Cases Bring USB-C Charging to Lightning iPhones
+
+date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=KUXQzVD1TdI>
+
+---
+
+## A social media ethos
+
+date: 2025-07-26, from: Dave Rupert blog
+
+<p>I’m trying to come up with an ethos of how I want to use social media. What rules and constraints do I put around it. This is a living document.</p>
+<p><strong>Rules for posting/reposting content:</strong></p>
+<ul>
+<li>Repost/Share cool links from the internet</li>
+<li>Repost/Share cool art (and credit whenever possible)</li>
+<li>Repost/Share people looking for work</li>
+<li>Doubly-so if the people above are in tech and from an underrepresented group</li>
+<li>Repost/Share job listing from reputable companies</li>
+<li>Then… if you’ve done all that, promote your own thing</li>
+</ul>
+<p><strong>General principles for me and my brain:</strong></p>
+<ul>
+<li>I have a bad habit of starting the day off with a goof, avoid this</li>
+<li>I like riffing and puns but it can have reply-guy vibes, limit this</li>
+<li>In any conversation you have 3 options: Be rude, Be nice, Say nothing – the latter is usually the most correct answer</li>
+<li>It’s okay to let people be wrong</li>
+<li>Write down the issues you allow yourself to get outraged over</li>
+<li>Read the room before posting</li>
+<li>You can block/mute any person or channel for any reason, it’s fun</li>
+<li>Research suggests it takes 23m15s to resume a task after a distraction!</li>
+<li>Raycast Focus is your friend</li>
+</ul>
+<p><strong>On specific social-media apps:</strong></p>
+<ul>
+<li>X is for Nazis and Russian bot nets, avoid.</li>
+<li>FB/Instgram are for family and friends, use on occasion.</li>
+<li>TikTok is a dopamine trap, avoid.</li>
+<li>YouTube is a dopamine trap, but useful.</li>
+<li>Bluesky is fine.</li>
+<li>Mastodon is for quality conversations.</li>
+<li>Discord is for like-minded communities, prioritize intimate ones.</li>
+<li>Log into LinkedIn once a month and give some thumbs-ups. It supports your friends and colleagues in the algorithmic trash fire and that <em>handshakefullness</em> and relationship building might be helpful in the future if you need a job.</li>
+</ul> 
+
+<br> 
+
+<https://daverupert.com/2025/07/social-media-ethos/>
+
+---
+
+## Intel Needs a Big Customer for Foundry Business to Survive
+
+date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/world/asia-pacific/intels-foundry-future-depends-securing-customer-next-gen-chipmaking-tech-2025-07-25/>
+
+---
+
+## goo.gl, Google’s Link Shortener, Will Stop Working Next Month
+
+date: 2025-07-26, updated: 2025-07-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline>
+
+---
+
+## The Satya of Satya’s Layoff Memo
+
+date: 2025-07-26, from: Om Malik blog
+
+To paraphrase Sigmund Freud, sometimes a memo&#160;is&#160;not just a memo.&#160;That’s&#160;why we have to read between the lines of Satya&#160;Nadella’s 1,150-word&#160;memo.&#160;Microsoft’s&#160;chairman and&#160;CEO,&#160;in his&#160;message,&#160;tried to rationalize the&#160;9,000-employee&#160;layoff. I was interested in how he was positioning the AI-based disruption in the software industry. This memo is not just about Microsoft. In a&#160;way,&#160;it’s&#160;a weather forecast for the rest of &#8230; 
+
+<br> 
+
+<https://om.co/2025/07/26/the-satya-of-satyas-layoff-memo/>
+
+---
+
+## In fewest words, yes.
+
+date: 2025-07-26, from: Doc Searls (at Harvard), New Old Blog
+
+Here is my answer to the question Does SiriusXM know what station you are listening to? The SiriusXM streaming app logs what you listen to, when, and how you interact with programs and channels across your devices (phone, pad, smart speaker, website through your browser, whatever). This data is used to personalize your “experience” (as [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/26/in-fewest-words-yes/>
+
+---
+
+## New Life for LIVE
+
+date: 2025-07-26, from: Doc Searls (at Harvard), New Old Blog
+
+Colbert&#8217;s cancellation looks political, but it&#8217;s not. The show was a ratings winner, but a money loser. And the ratings for all of late night, like all of live TV, have been in decline for decades, along with the question, &#8220;What&#8217;s on?&#8221; We live in the Age of Optionality now. Watch or listen to whatever [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/07/26/new-life-for-live/>
+
+---
+
+## 4chan Clowns Find Open Database of Images From Viral Women’s Dating Safety App ‘Tea’
+
+date: 2025-07-26, updated: 2025-07-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/>
+
+---
+
+## Face with Tears of Joy publication round-up
+
+date: 2025-07-26, from: Shady Characters blog
+
+<p>It has been a busy few weeks! <a href="https://shadycharacters.co.uk/books/face-with-tears-of-joy/"><cite>Face with Tears of Joy</cite></a> was published back on the 1<sup>st</sup> of July in the <abbr class="initialism">US</abbr> and on the 17<sup>th</sup> everywhere else. I’ve been lucky enough to talk and write about the book in a number of different venues, and for the book itself to be reviewed in a variety of places. Here’s a quick round-up of it all.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-publication-round-up/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-publication-round-up/>
+
+---
+
+## Will Ghislaine Pardon Trump? | The Coffee Klatch for July 26, 2025
+
+date: 2025-07-26, from: Robert Reich's blog
+
+With Heather Lofthouse, guest Elliot Kirschner, and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169261459/974fd3f102864fd0a31f4248d2e86ee2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169261459/974fd3f102864fd0a31f4248d2e86ee2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/will-ghislaine-pardon-trump-the-coffee>
+
+---
+
+## Weeknotes: July 19-25, 2025
+
+date: 2025-07-26, from: Tracy Durnell Blog
+
+Win of the week: dropped off electronics recycling at Staples &#8212; they took everything but a string of fairy lights &#8212; and five boxes of clothes donations / textile recycling 📦♻️ Looking forward to: getting rid of more accumulated junk 🦾 Stuff I did: 7.25 hours writing &#8212; met my goal of 7 hours 🙌 took [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/07/25/weeknotes-july-19-25-2025/>
+
+---
+
+## July 25, 2025
+
+date: 2025-07-26, from: Heather Cox Richardson blog
+
+&#8220;We&#8217;re going to end up shooting some of them.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/july-25-2025>
 

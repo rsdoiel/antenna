@@ -1,11 +1,23 @@
 ---
 title: going electric
-updated: 2025-08-01 14:08:02
+updated: 2025-08-02 06:08:32
 ---
 
 # going electric
 
-(date: 2025-08-01 14:08:02)
+(date: 2025-08-02 06:08:32)
+
+---
+
+## Polestar Is Doing Great. Except In China, Where It Sold 69 Cars All Year
+
+date: 2025-08-01, from: Inside EVs News
+
+Polestar has reportedly closed all of its Chinese stores aside from one in Shanghai. Could it exit China soon? 
+
+<br> 
+
+<https://insideevs.com/news/767785/polestar-china-pullout-rumor-plans/>
 
 ---
 
@@ -81,11 +93,11 @@ Kia ran the EV4 around the Nurburgring almost 480 times to try to kill its batte
 
 ---
 
-## Tesla (TSLA) is found liable in fatal Autopilot crash, has to pay $329 million
+## Tesla (TSLA) is found liable in fatal Autopilot crash, has to pay up to $243 million (updated)
 
 date: 2025-08-01, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has lost its Autopilot fatal crash wrongful death case in Florida as a jury says the automaker has to pay the victims $329 million.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has lost its Autopilot fatal crash wrongful death case in Florida as a jury says the automaker has to pay the victims up to $243 million.</p>
 
 
 
@@ -1059,6 +1071,10 @@ date: 2025-07-29, from: Electrek Feed
 
 
 
+<p>(<em><strong>Update:</strong></em><a href="https://www.regulations.gov/docket/EPA-HQ-OAR-2025-0194/document?withinCommentPeriod=true"><em><strong> </strong></em>Public comments are now open on the plan to raise your gas prices, until September 15</a>)</p>
+
+
+
  <a data-layer-pagetype="post" data-layer-postcategory="department-of-energy,epa,oil-prices" data-layer-viewtype="unknown" data-post-id="427249" href="https://electrek.co/2025/07/29/energy-depts-own-numbers-say-todays-rollback-would-raise-fuel-costs-by-76c-gal/#more-427249" class="more-link">more…</a> 
 
 <br> 
@@ -1104,6 +1120,10 @@ date: 2025-07-29, from: Electrek Feed
 
 
 <p>(<em><strong>Update:</strong></em> Even the Energy Department’s own numbers acknowledge this rollback will cost you money, in the form of <a href="https://electrek.co/2025/07/29/energy-depts-own-numbers-say-todays-rollback-would-raise-fuel-costs-by-76c-gal/">higher gas prices by $.76/gal</a>)</p>
+
+
+
+<p>(<em><strong>Update 2:</strong></em><a href="https://www.regulations.gov/docket/EPA-HQ-OAR-2025-0194/document?withinCommentPeriod=true"><em><strong> </strong></em>Public comments are now open, until September 15</a>)</p>
 
 
 
@@ -1784,4 +1804,129 @@ date: 2025-07-27, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/07/27/this-cool-looking-electric-motorcycle-wants-to-pretend-to-be-an-e-bike/>
+
+---
+
+## It’s time to start recommending some Tesla Powerwall alternatives [update]
+
+date: 2025-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-Powerwall.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For years, Tesla Powerwall has been the go-to recommendation for “normals” looking for a painless, low-effort experience from their first home solar and battery backup solutions. <a href="https://electrek.co/2025/05/23/tesla-ranks-under-unitedhealth-temu-bp-in-brand-reputation-poll-due-to-musk/">Its CEO’s recent involvement in controversial politics</a>, however, <a href="https://electrek.co/2025/03/03/tesla-owners-get-creative-to-distance-themselves-from-elon-with-new-car-logos-projectors/">means that people are now distancing themselves from the once-trailblazing company</a>.</p>
+
+
+
+<p>It begs the question: <strong>what other home solar battery solutions are there</strong>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="home-battery,opinion,solar-power,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="418291" href="https://electrek.co/2025/07/26/opinion-its-time-to-start-recommending-some-tesla-powerwall-alternatives/#more-418291" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/26/opinion-its-time-to-start-recommending-some-tesla-powerwall-alternatives/>
+
+---
+
+## Tesla’s ‘More Affordable’ Model Y: This May Be It Under Wraps
+
+date: 2025-07-26, from: Inside EVs News
+
+Tesla's affordable model has seemingly been spotted in the wild. Here's what separates it from a regular Model Y. 
+
+<br> 
+
+<https://insideevs.com/news/767082/tesla-model-y-affordable-spotted/>
+
+---
+
+## Vertical Aerospace completes first ever public airport-to-airport eVTOL flight
+
+date: 2025-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/vertical_2.png?w=1600" /></div><p>Air taxi startup Vertical Aerospace achieved a world’s first this week, completing the first flight between two airports through public airspace for an eVTOL at the Royal International Air Tattoo in Gloucestershire, England.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,evtol,vertical-aerospace" data-layer-viewtype="unknown" data-post-id="426828" href="https://electrek.co/2025/07/26/vertical-aerospace-completes-first-ever-public-airport-to-airport-evtol-flight/#more-426828" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/26/vertical-aerospace-completes-first-ever-public-airport-to-airport-evtol-flight/>
+
+---
+
+## Volkswagen Is Pouring Millions More Into Solid-State Battery Development
+
+date: 2025-07-26, from: Inside EVs News
+
+The Volkswagen Group’s battery subsidiary PowerCo is expanding its partnership with QuantumScape.
+ 
+
+<br> 
+
+<https://insideevs.com/news/767046/powerco-volkswagen-quantumscape-solid-state-battery/>
+
+---
+
+## Honda takes a page from Tesla playbook, launches new insurance business
+
+date: 2025-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/2024_Honda_Prologue_Exterior.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Say what you will about Elon Musk, but Tesla has changed the way that millions of people buy cars and, by extension, <a href="https://electrek.co/2019/08/28/tesla-insurance-program-price-cheaper/">car insurance</a>. Now, Honda is taking a page from Tesla’s successful playbook and launching its own in-house insurance business. Enter: <strong>Honda Insurance Solutions</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,honda,insurance" data-layer-viewtype="unknown" data-post-id="426815" href="https://electrek.co/2025/07/26/honda-takes-a-page-from-tesla-playbook-launches-new-insurance-business/#more-426815" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/26/honda-takes-a-page-from-tesla-playbook-launches-new-insurance-business/>
+
+---
+
+## Lion Electric school bus warranties voided, leaving districts stuck
+
+date: 2025-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/unforgivable.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Nobody ever says “this is business” before doing something nice, and the recently reborn Lion Electric company is keeping that streak alive by doing the unthinkable to cut costs: they’re going to void the warranties on hundreds of electric school buses.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="business,electric-school-buses,the-lion-electric-co" data-layer-viewtype="unknown" data-post-id="426801" href="https://electrek.co/2025/07/26/lion-electric-schools-bus-warranties-voided-leaving-districts-stuck/#more-426801" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/26/lion-electric-schools-bus-warranties-voided-leaving-districts-stuck/>
+
+---
+
+## Ford Mustang Mach-E: Here's What Happens When It Hits 250,000 Miles
+
+date: 2025-07-26, from: Inside EVs News
+
+This Mustang Mach-E driver piled an impressive number of miles in just over three years. Here's how his battery is performing today. 
+
+<br> 
+
+<https://insideevs.com/news/766834/ford-mustang-mach-e-battery-degradation/>
+
+---
+
+## Chinese real-world self-driving test: 36 cars, 216 crashes, with Tesla on top
+
+date: 2025-07-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/heroallcarsdcaradastest.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese media outlet Dongchedi closed down a real highway for a multi-day test of 36 different car driver assist systems in complicated, dangerous real-world driving situations, and most came up severely lacking – though Tesla escaped the tests relatively unscathed.</p>
+
+
+
+<p>(<em><strong>Update:</strong></em> Dongchedi released another test, this time of city driving, which you can <a href="https://electrek.co/2025/07/29/another-huge-chinese-self-driving-test-lawbreaking-indecision-in-urban-driving/">read about here</a>)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="adas,full-self-driving-fsd" data-layer-viewtype="unknown" data-post-id="426762" href="https://electrek.co/2025/07/26/a-chinese-real-world-self-driving-test-36-cars-216-crashes-with-tesla-on-top/#more-426762" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/07/26/a-chinese-real-world-self-driving-test-36-cars-216-crashes-with-tesla-on-top/>
 

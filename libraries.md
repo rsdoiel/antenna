@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-01 14:08:00
+updated: 2025-08-02 06:08:30
 ---
 
 # libraries
 
-(date: 2025-08-01 14:08:00)
+(date: 2025-08-02 06:08:30)
 
 ---
 
@@ -500,4 +500,16 @@ date: 2025-07-28, from: Crossref Blog
 <br> 
 
 <https://www.crossref.org/blog/changing-fees-to-increase-equity-and-reduce-complexity/>
+
+---
+
+## Tree-induced urban cooling benefits during heat extremes across Switzerland at 10m resolution
+
+date: 2025-07-26, from: ETH Zurich, recently added
+
+Chang, Yuyang; Duarte Rocha, Alby; Ghazoul, Jaboury; Kleinschroth, Fritz 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/748351>
 

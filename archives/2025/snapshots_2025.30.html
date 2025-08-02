@@ -29,7 +29,96 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-08-01 14:08:05)</p>
+<p>(date: 2025-08-02 06:08:35)</p>
+<hr />
+<h2 id="faster-inference">Faster inference</h2>
+<p>date: 2025-08-01, updated: 2025-08-01, from: Simon Willison’s
+Weblog</p>
+<p>
+Two interesting examples of inference speed as a flagship feature of LLM
+services today.
+</p>
+<p>
+First, Cerebras
+<a href="https://www.cerebras.ai/blog/introducing-cerebras-code">announced
+two new monthly plans</a> for their extremely high speed hosted model
+service: Cerebras Code Pro ($50/month, 1,000 messages a day) and
+Cerebras Code Max ($200/month, 5,000/day). The model they are selling
+here is Qwen’s Qwen3-Coder-480B-A35B-Instruct, likely the best available
+open weights coding model right now and one that was released
+<a href="https://simonwillison.net/2025/Jul/22/qwen3-coder/">just ten
+days ago</a>. Ten days from model release to third-party subscription
+service feels like some kind of record.
+</p>
+<p>
+Cerebras claim they can serve the model at an astonishing 2,000 tokens
+per second - four times the speed of Claude Sonnet 4 in
+<a href="https://x.com/cerebrassystems/status/1951340566077440464">their
+demo video</a>.
+</p>
+<p>
+Also today, Moonshot
+<a href="https://x.com/kimi_moonshot/status/1951168907131355598">announced</a>
+a new hosted version of their trillion parameter Kimi K2 model called
+<code>kimi-k2-turbo-preview</code>:
+</p>
+<blockquote>
+<p>
+🆕 Say hello to kimi-k2-turbo-preview Same model. Same context. NOW 4×
+FASTER.
+</p>
+<p>
+⚡️ From 10 tok/s to 40 tok/s.
+</p>
+<p>
+💰 Limited-Time Launch Price (50% off until Sept 1)
+</p>
+<ul>
+<li>
+$0.30 / million input tokens (cache hit)
+</li>
+<li>
+$1.20 / million input tokens (cache miss)
+</li>
+<li>
+$5.00 / million output tokens
+</li>
+</ul>
+<p>
+👉 Explore more:
+<a href="https://platform.moonshot.ai">platform.moonshot.ai</a>
+</p>
+</blockquote>
+<p>
+This is twice the price of their regular model for 4x the speed
+(increasing to 4x the price in September). No details yet on how they
+achieved the speed-up.
+</p>
+<p>
+I am interested to see how much market demand there is for faster
+performance like this. I’ve
+<a href="https://simonwillison.net/2024/Oct/31/cerebras-coder/">experimented
+with Cerebras in the past</a> and found that the speed really does make
+iterating on code with live previews feel a whole lot more interactive.
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/cerebras&quot;&gt;cerebras&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-pricing&quot;&gt;llm-pricing&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-in-china&quot;&gt;ai-in-china&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/qwen&quot;&gt;qwen&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Aug/1/faster-inference/#atom-everything"
+class="uri">https://simonwillison.net/2025/Aug/1/faster-inference/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-08-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+GOG getting in the fight on game censorship!
+<a href="https://freedomtobuy.games" target="_blank" rel="nofollow noopener" translate="no"><span
+class="invisible">https://</span><span>freedomtobuy.games</span><span
+class="invisible"></span></a>
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114955952670173446"
+class="uri">https://tilde.zone/@tomasino/114955952670173446</a></p>
 <hr />
 <p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
 feed at BlueSky</strong> (date: 2025-08-01, from: Robert’s feed at
@@ -376,6 +465,15 @@ Here are the newsletters I sent out for
 New sponsors instantly get access to the archive of previous
 newsletters, including the one I sent this morning.
 </p>
+<p>
+<strong>Update</strong>: I also
+<a href="https://simonw.substack.com/p/reverse-engineering-some-updates">sent
+out</a> my much longer, more frequent and free weekly-ish newsletter -
+this edition covers just the last three days because there’s been so
+much going on. That one is entirely copy-and-pasted from my blog so if
+you read me <a href="https://simonwillison.net/about/#atom">via
+feeds</a> you’ll have seen it all already.
+</p>
 <pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/newsletter&quot;&gt;newsletter&lt;/a&gt;&lt;/p&gt; </code></pre>
 <p><br></p>
 <p><a
@@ -481,6 +579,105 @@ Delusions of Grandeur Go South</h2>
 <p><a
 href="https://paulkrugman.substack.com/p/trumpbrazil-delusions-of-grandeur"
 class="uri">https://paulkrugman.substack.com/p/trumpbrazil-delusions-of-grandeur</a></p>
+<hr />
+<h2 id="summary-of-changes-for-july-2025">Summary of changes for July
+2025</h2>
+<p>date: 2025-08-01, from: Hundred Rabbits blog</p>
+<p>
+Hey everyone!
+</p>
+<p>
+This is the list of all the changes we’ve done to our projects during
+the month of July.
+</p>
+<p><img src="../media/content/videos/july_2025.jpg" alt="a hummingbird and a kingfisher who both are claiming Pino as theirs in Solresol." loading="lazy" width="1200" height="679"></p>
+<ul>
+<li>
+<b><a href="https://itch.io/jam/catjam-2025">Catjam 2025</a></b>,
+finished a small game called
+<a href="https://hundredrabbits.itch.io/polycat" target="_blank">Polycat</a>!
+</li>
+<li>
+<b>100r.co</b>, added
+<a href="https://100r.co/site/vancouver_island_west_coast.html" target="_blank">Vancouver
+Island West Coast</a>,
+<a href="https://100r.co/site/ucluelet.html" target="_blank">Ucluelet</a>,
+<a href="https://100r.co/site/port_san_juan.html" target="_blank">Port
+San Juan</a>,
+<a href="https://100r.co/site/juan_de_fuca_strait.html" target="_blank">Juan
+de Fuca Strait</a> and
+<a href="https://100r.co/site/cadboro_bay.html" target="_blank">Cadboro
+Bay</a>.
+</li>
+<li>
+<b><a href="https://wiki.xxiivv.com/site/theme">Theme Editor</a></b>,
+made a nicer theme editor for our tools ecosystem.
+</li>
+<li>
+<b>
+<a href="https://kokorobot.ca/site/punk_rabbits.html" target="_blank">Punk
+Rabbits</a></b>, started a drawing series of rabbit characters with the
+goal of making one hundred.
+</li>
+</ul>
+<p>
+This month we sailed into the Juan de Fuca Strait, escorted by pods of
+orcas and a lone young humpback whale. The last time we had been here
+was in July 2020, on our way back from Japan. After weathering gale
+force winds at anchor in
+<a href="https://100r.co/media/content/travel/becher_bay.jpg" target="_blank">Becher
+Bay</a>, we stopped in Port San Juan. The beaches there are covered in
+old growth driftwood, carried there by winter storms. Some trees are so
+large and have been there so long that people have installed
+<a href="https://100r.co/media/content/travel/port_san_juan_05.jpg" target="_blank">swings</a>
+on them. The way to Barkley Sound was bleak, we spent 10 hours of it in
+a fog bank, only to emerge near Cape Beale to a bright sun over
+jade-colored waters. We pulled into Ucluelet the next day, just in time
+to meet up with our friend Avi to view the building site for their
+<a href="https://avibryant.com/2025" target="_blank">upcoming boatyard
+project</a>.
+</p>
+<p>
+We spent a few days anchored in Barkley Sound, in an anchorage with the
+biggest population of
+<a href="https://rabbits.srht.site/days/2025/07/10.html" target="_blank">hummingbirds</a>
+we’d ever seen. The hummingbird visits were constant, with 3-4 buzzing
+around us at all times. During our stay there we completed our game
+entry for
+<a href="https://itch.io/jam/catjam-2025" target="_blank">Catjam</a>
+named
+<a href="https://hundredrabbits.itch.io/polycat" target="_blank">Polycat</a>.
+The game is very hard, but also very short. Watch a
+<a href="https://www.youtube.com/watch?v=kzH6GchYMNM" target="_blank">video</a>
+of Devine playing the game.
+</p>
+<p>
+In the second half of July, Pino sailed back to the Southern Gulf
+islands and stayed anchored alongside a friend, messing with their
+<a href="https://rabbits.srht.site/days/2025/08/01.html" target="_blank">laser
+engraver</a>, hiking, picking blackberries, and working on projects.
+Instead of hummingbirds, in Fulford, we had kingfishers, they really
+liked sitting on the wind vane’s arrow on top of the mast. See this
+<a href="https://merveilles.town/@neauoire/114954691829294465">amazing
+drone footage</a> shot by our friends aboard MV Poem.
+</p>
+<p>
+Devine has been invited to talk about permacomputing at
+<a href="https://criticalsignals.nz/programme/permacomputing-101/" target="_blank">Critical
+Signals</a> on August 12th. They will try to introduce some of the ideas
+that they find most interesting via practical examples. Save the date!
+</p>
+<p>
+<b>Book Club:</b> This month we are reading <i>Ancillary Justice</i> by
+Ann Leckie.
+</p>
+<p>
+<a href='https://100r.co/site/log.html#jul2025' target='_blank'>Continue
+Reading</a>
+</p>
+<p><br></p>
+<p><a href="https://100r.co/site/log.html#jul2025"
+class="uri">https://100r.co/site/log.html#jul2025</a></p>
 <hr />
 <h2 id="bring-back-recurrents">Bring Back Recurrents</h2>
 <p>date: 2025-08-01, updated: 2025-08-01, from: Tedium site</p>
@@ -4520,6 +4717,223 @@ blog</p>
 <p><br></p>
 <p><a href="https://educatedguesswork.org/posts/memory-management-7/"
 class="uri">https://educatedguesswork.org/posts/memory-management-7/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-07-26, from: Robert’s feed at
+BlueSky)</p>
+<p>An important victory for the planet.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr6xmvcc2s"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr6xmvcc2s</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-07-26, from: Robert’s feed at
+BlueSky)</p>
+<p>Wonderful public response.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr5rudhs2s"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr5rudhs2s</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-07-26, from: Robert’s feed at
+BlueSky)</p>
+<p>😎👇</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3luvqme4xb22s"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3luvqme4xb22s</a></p>
+<hr />
+<h2
+id="gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard">GPD
+Win 5 handheld gaming PC specs revealed: Strix Halo processor, 7 inch
+display, and no keyboard</h2>
+<p>date: 2025-07-26, from: Liliputing</p>
+<p>
+This week GPD revealed that its next handheld gaming PC would be powered
+by an AMD Strix Halo processor, bringing discrete-class graphics to a
+handheld PC for the first time. But at the time the company didn’t share
+many other details about the upcoming GPD Win 5, which left questions
+about battery life and overall […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/">GPD
+Win 5 handheld gaming PC specs revealed: Strix Halo processor, 7 inch
+display, and no keyboard</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/"
+class="uri">https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/</a></p>
+<hr />
+<h2 id="official-statement-from-tea-on-their-data-leak">Official
+statement from Tea on their data leak</h2>
+<p>date: 2025-07-26, updated: 2025-07-26, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://www.teaforwomen.com/cyberincident">Official
+statement from Tea on their data leak</a></strong>
+</p>
+Tea is a dating safety app for women that lets them share notes about
+potential dates. The other day it was subject to a truly egregious data
+leak caused by a legacy unprotected Firebase cloud storage bucket:
+</p>
+<blockquote>
+<p>
+A legacy data storage system was compromised, resulting in unauthorized
+access to a dataset from prior to February 2024. This dataset includes
+approximately 72,000 images, including approximately 13,000 selfies and
+photo identification submitted by users during account verification and
+approximately 59,000 images publicly viewable in the app from posts,
+comments and direct messages.
+</p>
+</blockquote>
+<p>
+Storing and then failing to secure photos of driving licenses is an
+incredible breach of trust. Many of those photos included EXIF location
+information too, so there are maps of Tea users floating around the
+darker corners of the web now.
+</p>
+<p>
+I’ve seen a bunch of commentary using this incident as an example of the
+dangers of vibe coding. <strong>I’m confident vibe coding was not to
+blame</strong> in this particular case, even while I
+<a href="https://simonwillison.net/2025/Mar/19/vibe-coding/#when-is-it-ok-to-vibe-code-">share
+the larger concern</a> of irresponsible vibe coding leading to more
+incidents of this nature.
+</p>
+<p>
+The announcement from Tea makes it clear that the underlying issue
+relates to code written prior to February 2024, long before vibe coding
+was close to viable for building systems of this nature:
+</p>
+<blockquote>
+<p>
+During our early stages of development some legacy content was not
+migrated into our new fortified system. Hackers broke into our
+identifier link where data was stored before February 24, 2024. As we
+grew our community, we migrated to a more robust and secure solution
+which has rendered that any new users from February 2024 until now were
+not part of the cybersecurity incident.
+</p>
+</blockquote>
+<p>
+Also worth noting is that they stopped requesting photos of ID back in
+2023:
+</p>
+<blockquote>
+<p>
+During our early stages of development, we required selfies and IDs as
+an added layer of safety to ensure that only women were signing up for
+the app. In 2023, we removed the ID requirement.
+</p>
+</blockquote>
+<p>
+<p><strong>Update 28th July</strong>: A second breach
+<a href="https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/">has
+been confirmed</a> by 404 Media, this time exposing more than one
+million direct messages dated up to this week.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/privacy&quot;&gt;privacy&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/security&quot;&gt;security&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/vibe-coding&quot;&gt;vibe-coding&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Jul/26/official-statement-from-tea/#atom-everything"
+class="uri">https://simonwillison.net/2025/Jul/26/official-statement-from-tea/#atom-everything</a></p>
+<hr />
+<h2
+id="bartz-v.-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here">Bartz
+v. Anthropic: What are some additional takeaways and where do things go
+from here?</h2>
+<p>date: 2025-07-26, from: Authors Union blogs</p>
+<p>In an earlier post, we shared details from Judge Alsup’s decision on
+Anthropic’s motion for summary judgment in Bartz v. […]</p>
+<p><br></p>
+<p><a
+href="https://www.authorsalliance.org/2025/07/26/bartz-v-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here/"
+class="uri">https://www.authorsalliance.org/2025/07/26/bartz-v-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here/</a></p>
+<hr />
+<h2
+id="weekend-interview-watch-my-convo-on-the-news-agents-about-why-trump-cant-ghost-the-epstein-story-or-outfox-rupert-murdoch.">Weekend
+Interview: Watch my convo on The News Agents about why Trump can’t ghost
+the Epstein story— or outfox Rupert Murdoch.</h2>
+<p>date: 2025-07-26, from: Tina Brown</p>
+<p>I sat down with Jon Sopol, co-host of my favorite UK podcast, The
+News Agents to dive into how Trump has gotten off base on the Epstein
+story (he’s trying to move on but much of his base isn’t budging), why
+Rupert Murdoch can’t resist a tabloid scoop, and what the head of the
+Paul Weiss law firm has learned about the cost of capitulation.</p>
+<p><br></p>
+<p><a
+href="https://tinabrown.substack.com/p/weekend-interview-watch-my-convo"
+class="uri">https://tinabrown.substack.com/p/weekend-interview-watch-my-convo</a></p>
+<hr />
+<h2
+id="scientists-report-surreal-scenes-in-the-worlds-most-northern-town">Scientists
+Report Surreal Scenes In the World’s Most Northern Town</h2>
+<p>date: 2025-07-26, from: 404 Media Group</p>
+<p>Researchers witnessing warming in Svalbard worry that “we have been
+too cautious” with climate warnings.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/scientists-report-surreal-scenes-in-the-worlds-most-northern-town/"
+class="uri">https://www.404media.co/scientists-report-surreal-scenes-in-the-worlds-most-northern-town/</a></p>
+<hr />
+<h2 id="talking-with-henry-farrell">Talking With Henry Farrell</h2>
+<p>date: 2025-07-26, from: Paul Krugman</p>
+<p>Weaponized interdependence and tech bro ideology, oh my</p>
+<p><br></p>
+<p><a
+href="https://paulkrugman.substack.com/p/talking-with-henry-farrell"
+class="uri">https://paulkrugman.substack.com/p/talking-with-henry-farrell</a></p>
+<hr />
+<h2 id="a-timely-lesson">A timely lesson</h2>
+<p>date: 2025-07-26, from: Status-Q blog</p>
+<p>My thanks to Terence Eden, who recently reposted on Mastodon the fact
+that Google are shutting down their ‘goo.gl’ URL-shortener in a month’s
+time.   URL shorteners are those services that take long URLs and turn
+them into shorter ones by maintaining a database mapping the latter to
+the former.  Tinyurl.com was perhaps the first;
+<a class="more-link excerpt-link" href="https://statusq.org/archives/2025/07/26/13243/">Continue
+Reading<span class="glyphicon glyphicon-chevron-right"></span></a></p>
+<p><br></p>
+<p><a href="https://statusq.org/archives/2025/07/26/13243/"
+class="uri">https://statusq.org/archives/2025/07/26/13243/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-07-26, from: Robert’s feed at
+BlueSky)</p>
+<p>Fubar is the technical term that comes to mind. No journalism will
+happen there. 👇</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lutdvd52d22a"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3lutdvd52d22a</a></p>
+<hr />
+<h2 id="build-a-commonmark-processor">Build a CommonMark Processor</h2>
+<p>date: 2025-07-26, from: Robert’s Ramblings</p>
+<p>In this post I go over the process of building a TypeScript module
+called <code>commonMarkDoc.ts</code> along with a simple command line
+CommonMark processor called <code>cmarkprocess</code>. CommonMark
+pre-processor features are</p>
+<ul>
+<li>support <code>@include-code-block</code> for including code samples
+as code blocks</li>
+<li>support <code>@include-text-block</code> for include plain text into
+a CommonMark document</li>
+<li>transform Hashtags into front matter</li>
+<li>transform <span class="citation" data-cites="Tags">@Tags</span> into
+front matter</li>
+</ul>
+<p><br></p>
+<p><a
+href="https://rsdoiel.github.io/blog/2025/07/26/building_cmarkprocess.html"
+class="uri">https://rsdoiel.github.io/blog/2025/07/26/building_cmarkprocess.html</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.

@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-08-01 14:07:53
+updated: 2025-08-02 06:08:23
 ---
 
 # north america
 
-(date: 2025-08-01 14:07:53)
+(date: 2025-08-02 06:08:23)
+
+---
+
+## Evening Roundup, August 1!
+
+date: 2025-08-01, from: The Contrarian
+
+Featuring Julie K. Brown with Jen Rubin (video and podcast available); Brian O'Neill; "Gaza in Starving"; Doug Jones; Frederic J. Frommer; Ezra Levin; Ruben Bolling; Emily Beyda; & our Pet of the Week 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-1>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-08-01, from: The Contrarian
+
+Meet Leroux! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-bac>
 
 ---
 
@@ -796,4 +820,28 @@ date: 2025-07-27, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-open-wide/>
+
+---
+
+## Contrarians Fight Trump’s Illegal Abductions
+
+date: 2025-07-26, from: The Contrarian
+
+Publisher's Roundup 28 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-fight-trumps-illegal>
+
+---
+
+##  YOU LOVE TO SEE IT: A Cure For Debt 
+
+date: 2025-07-26, from: The Lever News
+
+ Hospital bills are wiped clean, writers win against chatbots, a bill beats the heat, and foreign aid is saved.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-a-cure-for-debt/>
 

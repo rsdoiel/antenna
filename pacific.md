@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-08-01 14:07:54
+updated: 2025-08-02 06:08:24
 ---
 
 # pacific
 
-(date: 2025-08-01 14:07:54)
+(date: 2025-08-02 06:08:24)
+
+---
+
+## LIVE NOW – Commonwealth State Funeral: In Honor of the Late Governor Arnold Indalecio Palacios
+
+date: 2025-08-01, updated: 2025-08-01, from: Marianas Variety
+
+The Honorable Arnold I. Palacios served as the 10th Governor of the Commonwealth of the Northern Mariana Islands, serving alongside Lieutenant Governor David M. Apatang from January 2023 – July 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/live-now-commonwealth-state-funeral-in-honor-of-the-late-governor-arnold-indalecio-palacios/article_fbc8762f-1585-4bca-9cdb-0beae08372aa.html>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2025-08-01 14:07:54
 
 date: 2025-08-01, from: University of Hawaiʻi News
 
-<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates August 2024 faculty and staff anniversaries.</p>
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates August 2025 faculty and staff anniversaries.</p>
 The post <a href="https://www.hawaii.edu/news/2025/08/01/august-2025-anniversaries/">August 2025 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
@@ -301,6 +313,20 @@ date: 2025-08-01, from: Hawaii Tribune Harold
 
 ---
 
+## Police ID one of two women killed by fallen banyan
+
+date: 2025-08-01, from: Hawaii Tribune Harold
+
+
+				<p>Police have released the identity of one of two women whose remains were recovered July 20 from the debris of a downed banyan tree on Kilauea Avenue.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/01/hawaii-news/police-id-one-of-two-women-killed-by-fallen-banyan/>
+
+---
+
 ## Power of Vanuatu volcanoes draws scholar halfway around the world
 
 date: 2025-08-01, from: Pacific Island Times
@@ -313,7 +339,7 @@ University of Auckland PhD candidate Sönke Stern has been investigating the eru
 
 ---
 
-## Community Events: Touch Cookie Fun Run; Junior Achievement's Company of the Year; Toyotathon on Saipan
+## Community Events: Tough Cookie Fun Run; Junior Achievement's Company of the Year; Toyotathon on Guam and Saipan
 
 date: 2025-08-01, from: Pacific Island Times
 
@@ -826,6 +852,90 @@ date: 2025-07-31, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/07/31/hawaii-news/red-flag-warning-issued-for-all-hawaiian-islands-through-friday/>
+
+---
+
+## Red flags on 3 Saipan, 3 Rota sites
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Saipan's east and south recreational beaches this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-on-3-saipan-3-rota-sites/article_0eec2c57-5fba-4bfd-8e11-07f7bac0e22d.html>
+
+---
+
+## Nauru made the right decision to develop China relationship, official says
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+(Government of Nauru) — President David Adeang said his government’s decision in January 2024 to re-establish diplomatic relations with China has paid great dividends for the nation, and told Nauruans to expect more economic prosperity. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/nauru-made-the-right-decision-to-develop-china-relationship-official-says/article_e21e9355-c5d7-4c7b-8046-16c1bc62e632.html>
+
+---
+
+## Apatang OKs zoning update for auto businesses
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+GOVERNOR David M. Apatang on Tuesday approved House Local Bill 24-5, which amends the Saipan Zoning Law to clearly define automobile sales and service businesses in relation to certain zoning districts. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/apatang-oks-zoning-update-for-auto-businesses/article_c432b6a6-fcd0-41a1-bbea-4ab176528832.html>
+
+---
+
+## ‘Over-evacuation’ may have prompted traffic problems before tsunami hit Hawaii, officials say
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+HONOLULU (AP) — David Sun-Miyashiro was at home on the 31st floor of a Honolulu apartment building, high above danger, when his phone alerted him to a possible tsunami from a massive earthquake far across the Pacific Ocean. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/over-evacuation-may-have-prompted-traffic-problems-before-tsunami-hit-hawaii-officials-say/article_a9bcce20-e5fc-4873-b6c3-801757d865c5.html>
+
+---
+
+## ‘Forever grateful’: NMI bids farewell to Gov. Palacios
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+NMI officials who worked closely with Gov. Arnold I. Palacios couldn’t thank him enough — not only for what he had done to touch their lives but also for the sacrifice he made for the Commonwealth. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/forever-grateful-nmi-bids-farewell-to-gov-palacios/article_8f8fccc2-7022-4795-af4a-d3344f33e799.html>
+
+---
+
+## 80 years ago today, Aug. 1, 1945
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+AFTER the successful Trinity Test on July 16, 1945, President Truman knew he would have to use the new atomic weapons to end the war before a costly invasion of Japan became necessary. However, he wanted to give the Japanese an opportunity to surrender first.  Having received agreements from Winston Churchill and Chiang Kai-shek, Truman sent what became known as the Potsdam Declaration to the media at 7 p.m. on the evening of July 26, 1945. (Russia did not join the war until Aug. 8, after the first atomic bomb was dropped.) The ultimatum read in part: 
+
+<br> 
+
+<https://www.mvariety.com/news/local/80-years-ago-today-aug-1-1945/article_9b8a0a02-66e7-4d2b-9e54-5889fc70096b.html>
+
+---
+
+## Deleon Guerrero calls for fair, smart, strong military development in NMI
+
+date: 2025-07-31, updated: 2025-07-31, from: Marianas Variety
+
+GALVIN Sablan Deleon Guerrero, independent candidate for CNMI delegate to Congress, called for new terms in the ongoing military development in the Commonwealth that would better serve the islands and bolster national security. This comes in the wake of recent news that a Texas-based company was awarded a $238,706 catering contract for 600 U.S. Air Force personnel that are conducting training exercises in the islands. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/deleon-guerrero-calls-for-fair-smart-strong-military-development-in-nmi/article_0bb8c3bb-b3c5-4f40-ac2a-c6c21432807a.html>
 
 ---
 
@@ -3939,4 +4049,302 @@ THE Department of Public Safety has launched a homicide investigation on Tataga 
 <br> 
 
 <https://www.mvariety.com/news/local/homicide-investigation-underway-in-san-antonio/article_0410bde5-bcf4-4e01-a53b-efb885c7d1a8.html>
+
+---
+
+## Tropical Gardening: Use bamboos for hedges, windbreaks and more
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>In the good old days, a typical Hawaiian garden was large enough to give neighbors plenty of space to have privacy. As our population increases and land costs escalate, lots are getting smaller. This requires creativity to effectively give us a little garden peace and quiet.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/features/tropical-gardening-use-bamboos-for-hedges-windbreaks-and-more/>
+
+---
+
+## Athletics’ Nick Kurtz becomes first rookie with 4-HR game
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Athletics designated hitter Nick Kurtz hit four home runs in his team&#8217;s 15-3 road win over the Houston Astros on Friday night, becoming the first rookie in major league history to accomplish the feat.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/athletics-nick-kurtz-becomes-first-rookie-with-4-hr-game/>
+
+---
+
+## Thailand warns of war with Cambodia as deadly clashes enter 2nd day
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Thailand&#8217;s acting prime minister warned Friday that clashes with Cambodia over a border dispute &#8220;could develop into war&#8221; as the deadliest fighting between the two countries in years extended into a second day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/thailand-warns-of-war-with-cambodia-as-deadly-clashes-enter-2nd-day/>
+
+---
+
+## Trump flies to Scotland, leaving chaos swirling in Washington
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>EDINBURGH, Scotland &#8212; President Donald Trump headed to Scotland on Friday for a five-day visit, hoping to leave behind the chaos of Washington and the persistent questions over the handling of the Jeffrey Epstein files for what will be a mix of personal business and diplomacy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/trump-flies-to-scotland-leaving-chaos-swirling-in-washington/>
+
+---
+
+## After Ghislaine Maxwell interview, concerns mount over possibility of pardon
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The yellow jacket buzz of a plane circling above the federal courthouse in Tallahassee, Florida, on Friday roused the perspiring platoon of reporters staking out a meeting between a top Justice Department official and Ghislaine Maxwell.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/after-ghislaine-maxwell-interview-concerns-mount-over-possibility-of-pardon/>
+
+---
+
+## First deportation flights depart from Florida’s ‘Alligator Alcatraz’
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; The first deportation flights from Florida&#8217;s new immigration detention center in the Everglades began departing this week, Gov. Ron DeSantis announced Friday, about three weeks after federal detainees started to arrive at what appears to be the nation&#8217;s only state-run migrant detention facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/first-deportation-flights-depart-from-floridas-alligator-alcatraz/>
+
+---
+
+## New reports on Russian interference don’t show what Trump says they do
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration in recent weeks has released a series of reports intended to undermine the conclusion reached by intelligence agencies before President Donald Trump&#8217;s first term that Russia had favored his candidacy in 2016 and sought to improve his chances of winning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/new-reports-on-russian-interference-dont-show-what-trump-says-they-do/>
+
+---
+
+## Israel to allow humanitarian airdrops over Gaza
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel will allow foreign nations to parachute humanitarian aid to a population in the Gaza Strip desperate for food, officials said Friday, during a widening crisis in which children have died of malnutrition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/israel-to-allow-humanitarian-airdrops-over-gaza/>
+
+---
+
+## Ukraine says Starlink’s global outage hit its military communications
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Starlink systems used by Ukrainian military units were down for two and a half hours overnight, a senior commander said, part of a global issue that disrupted the satellite internet provider.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/ukraine-says-starlinks-global-outage-hit-its-military-communications/>
+
+---
+
+## News in brief for July 26
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Ocasio-Cortez must pay additional $2,700 for her Met Gala dress</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/news-in-brief-for-july-26/>
+
+---
+
+## 9-year-old girl dies in wave pool at Hersheypark in Pennsylvania
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>A 9-year-old girl died Thursday night while using a wave pool at Hersheypark in Pennsylvania, where lifeguards tried rescuing her after seeing her in distress, park officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/9-year-old-girl-dies-in-wave-pool-at-hersheypark-in-pennsylvania/>
+
+---
+
+## White House will release $5.5 billion for schools, after surprise delay
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>The White House will release $5.5 billion in frozen education funds, administration officials announced Friday, bringing an end to a chaotic month for school districts that had counted on the money with just weeks to go before the start of the school year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/white-house-will-release-5-5-billion-for-schools-after-surprise-delay/>
+
+---
+
+## After surge during pandemic, homicides fall significantly
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>Homicides in the United States have continued to fall sharply this year, according to a new analysis published Thursday by the Council on Criminal Justice, a nonprofit policy research organization, based on data from more than three dozen American cities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/after-surge-during-pandemic-homicides-fall-significantly/>
+
+---
+
+## Trump administration plans changes to skilled worker visas and citizenship tests
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is planning to change the visa system for skilled foreign workers, a program at the center of a dispute between immigration hard-liners and tech industry leaders, said the new director of U.S. Citizenship and Immigration Services.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/trump-administration-plans-changes-to-skilled-worker-visas-and-citizenship-tests/>
+
+---
+
+## Kennedy to oust preventative care task force
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Health Secretary Robert F. Kennedy Jr. is planning to remove all the members of an advisory panel that determines what cancer screenings and other preventive health measures insurers must cover, the Wall Street Journal reported on Friday, citing people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/kennedy-to-oust-preventative-care-task-force/>
+
+---
+
+## US states to get $608 million from FEMA to build migrant detention centers
+
+date: 2025-07-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Emergency Management Agency is preparing to send $608 million to states to construct immigrant detention centers as part of the Trump administration&#8217;s push to expand capacity to hold migrants. FEMA is starting a &#8220;detention support grant program&#8221; to cover the cost of states building temporary facilities, according to an agency announcement. States have until August 8 to apply for the funds, according to the post. The Trump administration has been encouraging states to build their own facilities to detain migrants. This program provides a way for the administration to help states pay for it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/us-states-to-get-608-million-from-fema-to-build-migrant-detention-centers/>
+
+---
+
+## Tropical Storm Krosa Nearly Stationary; Condition 1 Maintained for Northern Islands
+
+date: 2025-07-26, updated: 2025-07-27, from: Marianas Variety
+
+<p>Please remain cautious as hazardous weather conditions persist. Active advisories are still in effect for Saipan, Tinian, and Rota including small craft, high surf, rip current, flood watch, and wind advisories.</p> 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tropical-storm-krosa-nearly-stationary-condition-1-maintained-for-northern-islands/article_ce70a5db-1de5-4dd8-b4e8-9f2ed4db8b50.html>
+
+---
+
+## Micronesia leaders renew urgent call for 'fast-acting cuts in short-lived super pollutants'
+
+date: 2025-07-26, from: Pacific Island Times
+
+Micronesian leaders, back row, joined with youth representatives from the Micronesia subregion to discuss youth concerns and issues as... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/micronesia-leaders-renew-call-an-urgent-call-for-fast-acting-cuts-in-short-lived-super-pollutants>
+
+---
+
+## Community events: Nominations open for Maga’Haga Art Awards; Soroptimist offers aid 
+
+date: 2025-07-26, from: Pacific Island Times
+
+CAHA seeking nominations for 2025 awards The Guam Council on the Arts and Humanities Agency, in collaboration with the Office of the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-caha-seeks-nominations-for-maga-haga-art-awards>
+
+---
+
+## UH Hilo athletics set academic record, 170 earn All-PacWest honors
+
+date: 2025-07-26, from: University of Hawaiʻi News
+
+<p>The nearly 230 student-athletes posted a record-high 3.32 grade point average.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/25/uh-hilo-athletics-set-academic-record/"><abbr>UH</abbr> Hilo athletics set academic record, 170 earn All-PacWest honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/25/uh-hilo-athletics-set-academic-record/>
+
+---
+
+## UH medical school earns maximum accreditation
+
+date: 2025-07-26, from: University of Hawaiʻi News
+
+<p>The eight year accreditation is the maximum marks a school can receive.</p>
+The post <a href="https://www.hawaii.edu/news/2025/07/25/uh-medical-school-earns-accreditation/"><abbr>UH</abbr> medical school earns maximum accreditation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/07/25/uh-medical-school-earns-accreditation/>
+
+---
+
+## Loss and triumph
+
+date: 2025-07-26, from: The Husk
+
+Weekender #58 
+
+<br> 
+
+<https://thehusk.substack.com/p/loss-and-triumph>
 

@@ -1,11 +1,35 @@
 ---
 title: home
-updated: 2025-08-01 14:08:00
+updated: 2025-08-02 06:08:30
 ---
 
 # home
 
-(date: 2025-08-01 14:08:00)
+(date: 2025-08-02 06:08:30)
+
+---
+
+## Make These Recipes in August to Celebrate the End of Summer
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+When August rolls around that means summer is winding down. Make these recipes this month to celebrate the end of the season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-august-2025>
+
+---
+
+## These Are the Perfect Wine and Cheese Pairings, According to Chefs
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+For your next wine and cheese night, check out these delicious pairings recommended by chefs and other experts. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/best-wine-and-cheese-pairings>
 
 ---
 
@@ -18,6 +42,42 @@ The ’70s residence has vibrant interiors and a backyard oasis with a greenhous
 <br> 
 
 <https://www.dwell.com/article/garden-home-lewis-keys-nampa-idaho-real-estate-e33aac33>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Camping
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Your ultimate guide to camping, with the best ideas for campgrounds, gear, cooking, and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping>
 
 ---
 
@@ -35,6 +95,66 @@ date: 2025-08-01, from: Family Handyman Blog
 
 ---
 
+## Outdoor Adventure
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Wine Country
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+The West is home to the country's best wine regions. Explore them all and taste their best offerings, from the cult cabs of Napa to the Pinots of Willamette Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country>
+
+---
+
+## You Can Visit Your Favorite National Park for Free Next Week. Here’s How.
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Mark your calendars. The National Park Service is waiving entrance fees for Great American Outdoors Day on August 4. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/great-american-outdoors-day-free-national-parks>
+
+---
+
+## Road Trips
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
 ## How Just a Few Inches of Water Can Trigger a Flash Flood
 
 date: 2025-08-01, from: Family Handyman Blog
@@ -49,6 +169,126 @@ date: 2025-08-01, from: Family Handyman Blog
 
 ---
 
+## Travel the West
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Family
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Inspiration for family living: designing, cooking, traveling, and more with kids in tow. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/family>
+
+---
+
+## Wellness
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Garden Basics
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2025-08-01, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings>
+
+---
+
 ## They Built a Kayaking Crash Pad That Mimics the Famed Archipelago It Sits On
 
 date: 2025-08-01, from: Dwell
@@ -58,6 +298,20 @@ The pandemic prompted a couple to commit to the San Juan Islands, where they bui
 <br> 
 
 <https://www.dwell.com/article/bladderwrack-cabin-ets-architecture-island-living-ca174ea3>
+
+---
+
+## 21 of the Best Cotoneaster Varieties for Your Landscape
+
+date: 2025-08-01, from: The Gardener's Path
+
+<p>Cotoneaster is a multi-season plant loved for its vivid fall colors, bright red winter berries, and wonderful versatility in the landscape. From ground covers to hedges to slope stabilizers and even bonsai, there’s a species suitable for most locations. Learn about 21 of the best cotoneaster varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/best-cotoneaster-varieties/">21 of the Best Cotoneaster Varieties for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/best-cotoneaster-varieties/>
 
 ---
 
@@ -232,6 +486,20 @@ date: 2025-08-01, from: Yard Life blog
 
 ---
 
+## Supporting The Yard Posts
+
+date: 2025-07-31, from: Greg Alder's blog, Yard Post
+
+<p>My goal with The Yard Posts is to help others grow food at home, with a focus on vegetables and fruits &#8212; especially avocados &#8212; in Southern California. How do I do this? I write short articles – “posts” – each Friday, and I augment each post with photos and sometimes video, as well as [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/supporting-the-yard-posts/">Supporting The Yard Posts</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/supporting-the-yard-posts/>
+
+---
+
 ## Take a Stand for CEQA . . . Before It’s Too Late
 
 date: 2025-07-31, from: California Native Plants Society
@@ -375,18 +643,6 @@ Set just outside Columbia, the woodsy getaway comes with five decks, a guesthous
 <br> 
 
 <https://www.dwell.com/article/a-frame-cabin-columbia-tennessee-real-estate-0eb6f57e>
-
----
-
-## You Can Visit Your Favorite National Park for Free Next Week. Here’s How.
-
-date: 2025-07-31, from: Sunset Magazine - Living in the West
-
-Mark your calendars. The National Park Service is waiving entrance fees for Great American Outdoors Day on August 4. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/great-american-outdoors-day-free-national-parks>
 
 ---
 
@@ -1110,18 +1366,6 @@ Sun shining through semicircles at opposite ends of the living space creates a l
 
 ---
 
-## Make These Recipes in August to Celebrate the End of Summer
-
-date: 2025-07-29, from: Sunset Magazine - Living in the West
-
-When August rolls around that means summer is winding down. Make these recipes this month to celebrate the end of the season. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-august-2025>
-
----
-
 ## Everything You Must Know About Mountain Lions in Missouri
 
 date: 2025-07-29, from: Yard Life blog
@@ -1226,18 +1470,6 @@ Here are the historic national park hotels and experiences to go to get a taste 
 <br> 
 
 <https://www.sunset.com/travel/national-parks/historic-national-park-hotels>
-
----
-
-## These Are the Perfect Wine and Cheese Pairings, According to Chefs
-
-date: 2025-07-29, from: Sunset Magazine - Living in the West
-
-For your next wine and cheese night, check out these delicious pairings recommended by chefs and other experts. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/best-wine-and-cheese-pairings>
 
 ---
 
@@ -1724,4 +1956,78 @@ date: 2025-07-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/14-species-of-owls-in-texas-with-pictures-and-identification/>
+
+---
+
+## How to Grow and Care for Burning Bush
+
+date: 2025-07-26, from: The Gardener's Path
+
+<p>Burning bushes are deciduous shrubs that light up autumn landscapes with their scarlet foliage. However, in some states, non-native species have been declared invasive. Read on to learn how to grow burning bushes, and get a recommendation for a beautiful native variety to cultivate where non-native species are banned.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-burning-bush/">How to Grow and Care for Burning Bush</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-burning-bush/>
+
+---
+
+## 26 Small Brown Birds in New Hampshire (With Pictures)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>New Hampshire’s diverse habitats are home to many small brown birds that can be challenging yet rewarding to identify. From ... </p>
+<p class="read-more-container"><a title="26 Small Brown Birds in New Hampshire (With Pictures)" class="read-more button" href="https://ownyardlife.com/26-small-brown-birds-in-new-hampshire-with-pictures/#more-32522" aria-label="Read more about 26 Small Brown Birds in New Hampshire (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/26-small-brown-birds-in-new-hampshire-with-pictures/">26 Small Brown Birds in New Hampshire (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/26-small-brown-birds-in-new-hampshire-with-pictures/>
+
+---
+
+## 3 Rattlesnakes in Colorado (With Pictures and Identification)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>Colorado is home to three species of rattlesnakes, each adapted to different regions of the state. From grasslands and foothills ... </p>
+<p class="read-more-container"><a title="3 Rattlesnakes in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-rattlesnakes-in-colorado-with-pictures-and-identification/#more-32517" aria-label="Read more about 3 Rattlesnakes in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-rattlesnakes-in-colorado-with-pictures-and-identification/">3 Rattlesnakes in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-rattlesnakes-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 13 Common Rodents in Michigan (With Pictures and Identification)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>Rodents in Michigan are abundant and play key roles in supporting the region’s natural environmental balance. From small mice darting ... </p>
+<p class="read-more-container"><a title="13 Common Rodents in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-common-rodents-in-michigan-with-pictures-and-identification/#more-32497" aria-label="Read more about 13 Common Rodents in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-common-rodents-in-michigan-with-pictures-and-identification/">13 Common Rodents in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-common-rodents-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 18 Types of Hawks in Texas (With Pictures and Identification)
+
+date: 2025-07-26, from: Yard Life blog
+
+<p>Texas is home to an impressive variety of hawks, making it one of the best places in North America to ... </p>
+<p class="read-more-container"><a title="18 Types of Hawks in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/18-types-of-hawks-in-texas-with-pictures-and-identification/#more-32491" aria-label="Read more about 18 Types of Hawks in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-types-of-hawks-in-texas-with-pictures-and-identification/">18 Types of Hawks in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/18-types-of-hawks-in-texas-with-pictures-and-identification/>
 

@@ -1,11 +1,97 @@
 ---
 title: socal north
-updated: 2025-08-01 14:07:53
+updated: 2025-08-02 06:08:23
 ---
 
 # socal north
 
-(date: 2025-08-01 14:07:53)
+(date: 2025-08-02 06:08:23)
+
+---
+
+## LA’s Section 8 housing vouchers now won’t go as far as they used to
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+Starting Friday, the city will cover 10% less rent for Section 8 voucher holders. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-section-8-housing-choice-voucher-payment-reductions-trump-august-1>
+
+---
+
+## UCLA tells researchers to 'immediately stop spending' after Trump administration freezes grant funds
+
+date: 2025-08-01, updated: 2025-08-02, from: The LAist
+
+The Trump administration cited alleged antisemitism at UCLA as a reason for suspending the funding. Years worth of research could be lost, one UCLA researcher said. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/ucla-researchers-react-to-funding-freeze>
+
+---
+
+## Remember running the mile in school? The Presidential Fitness Test is coming back
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The Cold War-era test was a staple of school gyms for half a century before the Obama administration replaced it. Trump says his focus on childhood fitness is for both physical and patriotic reasons. 
+
+<br> 
+
+<https://laist.com/news/education/remember-running-the-mile-in-school-the-presidential-fitness-test-is-coming-back>
+
+---
+
+## Los Nogales Nursery at Debs Park wants you to grow more unique native plants at home
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The shop opened for business Friday, offering plants, seeds and educational resources for gardeners at every level. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-nogales-nursery-at-debs-park-wants-you-to-grow-more-unique-native-plants-at-home>
+
+---
+
+## SoCal Edison’s liability from the Eaton Fire threatens to gobble up state’s safety fund
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+California's safety fund is meant to help utilities avoid bankruptcy when found liable for wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-edison-liability-eaton-fire-threatens-to-gobble-up-state-safety-fund>
+
+---
+
+## ICE recruits former federal workers to join its ranks amid hiring spree
+
+date: 2025-08-01, updated: 2025-08-01, from: The LAist
+
+The push to rehire retired workers comes as the administration has also sought to downsize large swaths of the federal government through mass layoffs and other changes. 
+
+<br> 
+
+<https://laist.com/news/ice-recruits-former-federal-workers-to-join-its-ranks-amid-hiring-spree>
+
+---
+
+## Theatre in a Week Returns to The MAIN with All-New Comedic One-Acts
+
+date: 2025-08-01, from: City of Santa Clarita
+
+<p>A Week of Rehearsal. A Weekend of Hilarity. The ever-popular Theatre in a Week, written and produced by Barry Agin, returns to The MAIN (24266 Main Street) in Old Town Newhall with Comedy Tonight for one weekend only—Friday, August 15 through Sunday, August 17. Now in its seventh year, this fast-paced production brings six brand-new, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/01/theatre-in-a-week-returns-to-the-main-with-all-new-comedic-one-acts/">Theatre in a Week Returns to The MAIN with All-New Comedic One-Acts</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/01/theatre-in-a-week-returns-to-the-main-with-all-new-comedic-one-acts/>
 
 ---
 
@@ -73,7 +159,7 @@ Investors are reacting to Trump's latest plans to impose a wide range of tariffs
 
 date: 2025-08-01, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>There was no suspect information available.</p>
 <p>The post <a href="https://lbpost.com/news/crime/shooting-coolidge-bort-homicide-long-beach">27-year-old man shot to death in North Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -88,7 +174,7 @@ date: 2025-08-01, from: Longbeach Post
 
 date: 2025-08-01, from: Longbeach Post
 
-<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-440x300.jpg 440w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1110x758.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1536x1048.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-2048x1397.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1320x901.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="699" src="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499.jpg 2000w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-440x300.jpg 440w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1110x758.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1536x1048.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-2048x1397.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/11/06122610/PROP-1-RALLY_2248-e1667768584499-1320x901.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Gov. Gavin Newsom says he’ll ask voters to decide on new districts in November as California seeks to challenge GOP-controlled states redrawing maps to favor Republicans in the midterms.</p>
 <p>The post <a href="https://lbpost.com/news/politics/newsom-wants-voters-to-weigh-in-on-new-congressional-districts-in-november">Newsom wants voters to weigh in on new congressional districts in November</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -161,7 +247,7 @@ The Trump administration has said the conditions in the three countries have imp
 
 ## City repaints DIY crosswalks around West LA park, one week after outcry from residents
 
-date: 2025-08-01, updated: 2025-08-01, from: The LAist
+date: 2025-08-01, updated: 2025-08-02, from: The LAist
 
 The weeklong saga ended with L.A. crews repainting a set of crosswalks around Stoner Park. 
 
@@ -1446,4 +1532,132 @@ As Texas moves forward with an off-cycle redistricting to shore up Republicans�
 <br> 
 
 <https://laist.com/news/politics/newsom-ramps-up-california-redistricting-threat-as-texas-weighs-new-republican-maps>
+
+---
+
+## Staying Cool and Prepared This Summer
+
+date: 2025-07-26, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Summer in Santa Clarita is a time to enjoy all of the outdoor recreation opportunities, from hiking and biking trails in our open spaces to community events and relaxing days by the pool. Along with summer fun comes a very real and growing concern – extreme heat and the dangers [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/07/26/staying-cool-and-prepared-this-summer/">Staying Cool and Prepared This Summer</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/07/26/staying-cool-and-prepared-this-summer/>
+
+---
+
+## The company behind Coldplay 'kiss cam' scandal scores a Hollywood connection
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+Not surprising: Astronomer is poking fun at its newfound infamy. Very surprising: It's hired a big Hollywood name to do it. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/gwyneth-paltrow-debuts-as-a-very-temporary-spokesperson-for-kisscam-sastronomer>
+
+---
+
+## He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement
+
+date: 2025-07-26, from: Longbeach Post
+
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Brian Peterson is undertaking a project that’s nearly twice as tall as his previous height record. It will end up being one of the most noticeable art pieces in Long Beach.</p>
+<p>The post <a href="https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean">He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean>
+
+---
+
+## Trump is in Scotland. The Epstein questions have followed him there
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+President Trump is expected to spend much of his time at his golf courses. He'll also meet with British Prime Minister Keir Starmer and European Commission President Ursula von der Leyen. 
+
+<br> 
+
+<https://laist.com/news/trump-is-in-scotland-the-epstein-questions-have-followed-him-there>
+
+---
+
+## Trump’s crackdown on homelessness: What does it mean for California?
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+Trump’s call to enforce bans on encampments echoes Gov. Gavin Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
+
+---
+
+## Trump’s crackdown on homelessness: What does it mean for California?
+
+date: 2025-07-26, from: Longbeach Post
+
+<figure><img width="1024" height="676" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-300x198.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-768x507.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-164x108.webp 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1536x1014.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1200x792.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1568x1035.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-400x264.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Trump’s call to enforce bans on encampments echoes Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response.</p>
+<p>The post <a href="https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california">Trump’s crackdown on homelessness: What does it mean for California?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
+
+---
+
+## ICE sweeps spur citizen patrols on Terminal Island — and troubling World War II memories
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+The island in the Port of Los Angeles is a staging ground for federal agents. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/ice-raids-immigration-japanese-american-terminal-island>
+
+---
+
+## Boyle Heights restaurants are on the brink in wake of ICE raids: ‘I don’t know how much longer we can do this’
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+In a survey of more than a dozen local restaurants, several reported losing 50% or more of their customers or revenue over the last several weeks. 
+
+<br> 
+
+<https://laist.com/news/boyle-heights-restaurants-are-on-the-brink-in-wake-of-ice-raids>
+
+---
+
+## A grenade connected to the explosion that killed 3 deputies remains missing, officials warn
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+An investigation into the blast remains ongoing, but policy changes for handling explosives are changing. 
+
+<br> 
+
+<https://laist.com/news/missing-grenade-explosion-3-deputies-killed>
+
+---
+
+## California schools regain federal money they counted on after Trump releases hold
+
+date: 2025-07-26, updated: 2025-07-26, from: The LAist
+
+After withholding roughly $900 million from California’s K-12 and adult schools, the Education Department said today that it will release the money starting next week. But schools must agree to certain conditions first. 
+
+<br> 
+
+<https://laist.com/news/education/california-schools-regain-federal-money-they-counted-on-after-trump-releases-hold>
 

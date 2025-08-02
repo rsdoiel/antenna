@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-08-01 14:08:01
+updated: 2025-08-02 06:08:31
 ---
 
 # motorcycles
 
-(date: 2025-08-01 14:08:01)
+(date: 2025-08-02 06:08:31)
 
 ---
 
@@ -133,7 +133,7 @@ Suzuki has been doubling down on GSX-R nostalgia, with a teaser telling us to ma
 
 ---
 
-## KTM Is Open to Partner to Stay in MotoGP, Likely It's Only Hope
+## KTM Is Open to Partner to Stay in MotoGP, Likely Its Only Hope
 
 date: 2025-07-30, from: Ride Apart, Electric Motorcycle News
 
@@ -377,4 +377,16 @@ By Lewis Franck, Special to Kickin’ the Tires INDIANAPOLIS &#8211; Kissing the
 <br> 
 
 <https://kickinthetires.net/nascar/everyone-wants-to-kiss-the-bricks-at-indianapolis-motor-speedway/>
+
+---
+
+## Watch as a Motorcyclist Hits a Bear, Surprisingly Doesn't Get Eaten Alive
+
+date: 2025-07-26, from: Ride Apart, Electric Motorcycle News
+
+New fear unlocked.  
+
+<br> 
+
+<https://www.rideapart.com/news/767056/motorcyclist-hits-a-bear-riding-off-road-video/>
 

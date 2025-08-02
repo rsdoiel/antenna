@@ -1,11 +1,23 @@
 ---
 title: planet
-updated: 2025-08-01 14:07:51
+updated: 2025-08-02 06:08:21
 ---
 
 # planet
 
-(date: 2025-08-01 14:07:51)
+(date: 2025-08-02 06:08:21)
+
+---
+
+## FSAI recalls batch of turkey burgers due to salmonella
+
+date: 2025-08-01, from: RTÉ News
+
+The Food Safety Authority has said it is recalling a batch of Hogan's Farm Turkey Burgers due to "the possible presence of salmonella". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526619-fsai-recall-burgers/>
 
 ---
 
@@ -30,6 +42,18 @@ US President Donald Trump has said he had ordered two nuclear submarines to be m
 <br> 
 
 <https://www.rte.ie/news/us/2025/0801/1526593-us-russia/>
+
+---
+
+## Conservationists are giving rhinos radioactive horns to save them from poachers
+
+date: 2025-08-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599961.1754077990!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/south-africa-radioactive-rhino-horns.jpg' alt='Two rhinos graze side by side' width='620' height='349' title='A rhino, front, recovers from a tranquiiizer, after a hole was drilled into its horn and isotopes carefully inserted, at a rhino orphanage in the country&apos;s northern province of Limpopo, Tuesday, June 25, 2024. Researchers have started the final phase of a research project aimed at reducing rhino poaching by inserting radioisotopes into rhino horns to devalue one of the most highly trafficked wildlife commodities. (AP Photo/Denis Farrell)'/><p>Conservation scientists in South Africa are injecting rhino horns with radioactive isotopes. The doses are too weak to harm the animals, but strong enough to set off nuclear security system alarms at international border crossings.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/radioactive-rhino-horns-1.7599955?cmp=rss>
 
 ---
 
@@ -129,6 +153,18 @@ Dublin city's first static speed camera has come into operation on the Crumlin R
 
 ---
 
+## Lindberg Landing occupants 'got no right' to block road, says Nahɂą Dehé Dene chief
+
+date: 2025-08-01, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7599308.1754008918!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lindberg.jpg' alt='A newly installed gate, which Clinton Leussink of Lindberg Landing said is a result of escalating concerns around safety in the area. A vote led to the installation of the gate. ' width='620' height='349' title='A newly installed gate, which Clinton Leussink of Lindberg Landing said is a result of escalating concerns around safety in the area. A vote led to the installation of the gate. '/><p>Occupants of Lindberg Landing say they will protest the removal of an occupant, Aidan Hoven, who is the subject of an eviction order in the area. The Nahɂą Dehé Dene Band chief says the residents installed a gate, which blocks access to Dene lands.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/lindberg-landing-eviction-august-1-2025-1.7599296?cmp=rss>
+
+---
+
 ## St Newman's new 'doctor' title welcomed by Irish Bishops
 
 date: 2025-08-01, from: RTÉ News
@@ -153,7 +189,7 @@ Questions remain over which areas are exempt from US tariffs on EU goods, RTÉ's
 
 ---
 
-## Trump orders movement of 2 nuclear submarines after 'inflammatory' comments from Russian official
+## Trump orders movement of 2 nuclear subs after Russian official's 'inflammatory' remarks
 
 date: 2025-08-01, from: CBC, World News
 
@@ -162,6 +198,18 @@ date: 2025-08-01, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-nuclear-submarines-russia-positions-1.7599792?cmp=rss>
+
+---
+
+## Democracy delayed as new rules a boon to bluebloods
+
+date: 2025-08-01, from: RTÉ News
+
+Regardless of who the Kerry manager is, and the tweaks that the FRC have planned, the Kingdom look intimidatingly well placed for the next couple of years, writes Conor Neville. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0801/1526549-democracy-delayed-as-new-rules-a-boon-to-bluebloods/>
 
 ---
 
@@ -225,7 +273,7 @@ The UN Security Council meets Friday afternoon to discuss the ongoing crisis in 
 
 ---
 
-## Haiti: More than 1,500 killed between April and June, UN report finds
+## Haiti: More than 1,500 killed between April and June
 
 date: 2025-08-01, from: United Nations, Top Stories
 
@@ -270,6 +318,30 @@ Millions of lives have been improved by the mandates assigned to the UN. Yet dup
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165550>
+
+---
+
+## UN official decries deadly Ukraine strikes, urges return to diplomacy
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+A senior UN official on Friday warned of mounting civilian casualties and worsening humanitarian conditions in Ukraine, as a wave of Russian missile and drone strikes this week killed dozens and injured scores across multiple regions – including pregnant women and children. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165558>
+
+---
+
+## Gaza: ‘No one should ever be forced to risk their life to find food,’ says UN humanitarian agency
+
+date: 2025-08-01, from: United Nations, Top Stories
+
+As Gaza faces famine-like conditions, large numbers of people reportedly continue to be killed and injured while searching for food, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Friday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165557>
 
 ---
 
@@ -561,6 +633,18 @@ Look back on live updates after US President Donald Trump imposed steep tariffs 
 
 ---
 
+## Kyiv mourns after deadliest Russian attack in a year kills 31 people, including 5 children
+
+date: 2025-08-01, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599401.1754041874!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='Residents place flowers in memory of victims at the site of an apartment building that was hit by missiles.' width='620' height='349' title='Residents place flowers in memory of victims at the site of an apartment building that was hit a day before by a Russian missile strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine August 1, 2025. REUTERS/Valentyn Ogirenko'/><p>The Ukrainian capital of Kyiv observed an official day of mourning Friday, a day after a Russian drone and missile attack on the city killed 31 people, including five children, and injured more than 150, officials said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/kyiv-russian-attack-1.7599400?cmp=rss>
+
+---
+
 ## Brokenhead Ojibway Nation holds referendum on Sio Silica partnership
 
 date: 2025-08-01, from: CBC, Indigenious News
@@ -730,6 +814,18 @@ US President Donald Trump plans to build a ballroom at the White House as he pus
 <br> 
 
 <https://www.rte.ie/news/newslens/2025/0731/1526421-white-house-ballroom/>
+
+---
+
+## Nunavut and Greenland agree to form joint fisheries committee
+
+date: 2025-07-31, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.2792273.1754005663!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-kiviuq-i.jpg' alt='A small commercial fishing vessel in the water.' width='620' height='349' title='The Kiviuq I in the waters near Grise Fiord, Nunavut, just south of Ellesmere Island in Nunavut. A fuel tanker can be seen in the background. '/><p>The governments of Nunavut and Greenland have signed a memorandum of understanding committing to work together on developing their respective fisheries.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/nunavut-greenland-joint-fisheries-committee-1.7599129?cmp=rss>
 
 ---
 
@@ -1003,7 +1099,7 @@ A man who raped a Spanish tourist in a Dublin city centre street during New Year
 
 ## Trade measures critical to ending plastic pollution
 
-date: 2025-07-31, from: United Nations, Top Stories
+date: 2025-07-31, from: United Nations, Economic Development
 
 Trade must be part of the solution to end plastic pollution – a global problem which disproportionately affects developing countries. 
 
@@ -1075,7 +1171,7 @@ In Gaza, UN aid teams continued their efforts on Thursday to help people of the 
 
 ## Once-in-a-decade push for the ‘locked out’: Global leaders set for landmark UN conference in Turkmenistan
 
-date: 2025-07-31, from: United Nations, Top Stories
+date: 2025-07-31, from: United Nations, Economic Development
 
 In early August, Heads of State, ministers, investors and grassroots leaders will gather in Awaza on Turkmenistan’s Caspian coast for once-in-a-decade UN conference aiming to rewire the global system in support of 32 landlocked developing countries whose economies are often “locked out” of opportunity due to their lack of access to the sea. 
 
@@ -1935,7 +2031,7 @@ People in Haiti have expressed “despair” following the “abrupt suspension�
 
 ## Tsunami alert highlights worth of global early warning system
 
-date: 2025-07-30, from: United Nations, Top Stories
+date: 2025-07-30, from: United Nations, Climate Change
 
 Early warning systems kicked in overnight across Pacific coastal communities after a massive earthquake in eastern Russia triggered a sea surge that reached the Japanese coastline around 1,000 kilometres (620 miles) away within about an hour, disaster relief experts said on Wednesday.&nbsp; 
 
@@ -2841,7 +2937,7 @@ The promise seemed simple: a job, a fresh start, a way out. Instead, Maria* step
 
 ## Deputy UN chief urges bold action to transform food systems at global summit in Addis Ababa
 
-date: 2025-07-29, from: United Nations, Top Stories
+date: 2025-07-29, from: United Nations, Economic Development
 
 United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on countries to double down on efforts to transform food systems, describing them as “one of the greatest solutions” to achieving the Sustainable Development Goals (SDGs). 
 
@@ -4749,4 +4845,474 @@ As excitement builds for the long-awaited Oasis reunion concerts in Dublin next 
 <br> 
 
 <https://www.rte.ie/news/business/2025/0727/1525402-oasis-fans-pay-the-price-hotel-prices-go-supersonic/>
+
+---
+
+## Carney's ministers say Hong Kong's new arrest warrants for exiles a threat to Canadians' security
+
+date: 2025-07-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594870.1753559745!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/anand-and-anandasangaree.jpg' alt='A man and a woman speak into microphones' width='620' height='349' title='Foreign Affairs Minister Anita Anand and Public Safety Minister Gary Anandasangaree said “the actions taken by Hong Kong threaten the sovereignty of Canada and security of the people in this country.”'/><p>Two ministers in Prime Minister Mark Carney's government are condemning Hong Kong police's new arrest warrants for 19 overseas-based activists and their offer of rewards for information leading to their capture. Police are accusing 19 activists of violating a national security law imposed by Beijing.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canada-condemns-hong-kong-police-reward-for-activists-1.7594869?cmp=rss>
+
+---
+
+## 'Healthcare workers starving to death,' Gaza rally hears
+
+date: 2025-07-26, from: RTÉ News
+
+Healthcare workers led hundreds of demonstrators opposing the ongoing war in Gaza in a silent march through Dublin city centre. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525515-gaza-protest-dublin/>
+
+---
+
+## Appeal over movements of car night before triple murder
+
+date: 2025-07-26, from: RTÉ News
+
+The PSNI is appealing for information about a car that was travelling in Maguiresbridge in Co Fermanagh the night before Vanessa Whyte and her children were murdered. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0726/1525516-fermanagh-investigation/>
+
+---
+
+## Caritas Europa reaffirms support for Ukraine amid ongoing war
+
+date: 2025-07-26, from: Vatican News
+
+
+                    <p>Caritas Europa leaders visit Ukraine to reaffirm solidarity and call for sustained support amid escalating humanitarian needs and ongoing conflict.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/caritas-europa-ukraine-interview-stawnychy-solidarity-visit-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/caritas-europa-ukraine-interview-stawnychy-solidarity-visit-war.html>
+
+---
+
+## What defines a famine and can it be avoided in Gaza?
+
+date: 2025-07-26, from: RTÉ News
+
+The United Nations and NGOs are warning of an imminent famine in Gaza, a designation based on strict criteria and scientific evidence. But how is it arrived at? 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525512-the-challenges-in-defining-gazas-plight/>
+
+---
+
+## Israel resumes Gaza aid drops days after criticism from agencies over hunger crisis
+
+date: 2025-07-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594940.1753580455!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians-gaza.jpg' alt='A person cries amid a group of people struggling to obtain food at a distribution site.' width='620' height='349' title='Palestinians struggle to get donated food at a community kitchen, in Gaza City, northern Gaza Strip, Saturday, July 26, 2025. (AP Photo/Abdel Kareem Hana)'/><p>Israel resumed airdrop aid to Gaza on Saturday night, the Israeli military said, a few days after more than 100 agencies warned that mass starvation was spreading across the enclave. CBC News spoke to a mom who says her six-month-old died due to lack of formula.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-aid-drops-resume-famine-fears-1.7594862?cmp=rss>
+
+---
+
+## The State of Palestine and the responsibility of the International Community
+
+date: 2025-07-26, from: Vatican News
+
+
+                    <p>The ongoing tragedy in Gaza calls for a surge of humanity and the urgency of a shared response to the plight of the Palestinian people, which the Holy See has been consistently advocating for decades.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/state-of-palestine-responsibility-international-community.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/state-of-palestine-responsibility-international-community.html>
+
+---
+
+## U.S. analysis finds no evidence of widespread Hamas theft of Gaza aid
+
+date: 2025-07-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594812.1753550503!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians.jpg' alt='A person carries a sack of flour.' width='620' height='349' title='Palestinians carry sacks of flour unloaded from a humanitarian aid convoy that reached Gaza City from the northern Gaza Strip, Tuesday, July 22, 2025. (AP Photo/Jehad Alshrafi)'/><p>An internal U.S. government analysis found no evidence of systematic theft by the Palestinian militant group Hamas of U.S.-funded humanitarian supplies, challenging the main rationale that Israel and the U.S. give for backing a new armed private aid operation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hamas-aid-theft-no-evidence-analysis-1.7594805?cmp=rss>
+
+---
+
+## UN calls Israel's emergency aid proposal a diversionary tactic
+
+date: 2025-07-26, from: Vatican News
+
+
+                    <p>Israel says it will allow foreign countries to air drop humanitarian aid into Gaza in the coming days, but the United Nations criticised the proposal as an ineffective and costly diversion.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/israrel-gaza-starvation-emergency-aid-united-nations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-07/israrel-gaza-starvation-emergency-aid-united-nations.html>
+
+---
+
+## Covid-19 special envoy David Nabarro dies at 75
+
+date: 2025-07-26, from: RTÉ News
+
+Dr David Nabarro, the World Health Organization's special envoy for Covid-19 since the early stages of the outbreak in 2020, has died at the age of 75. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525504-david-nabarro-death/>
+
+---
+
+## Crowds attend festival for people with additional needs
+
+date: 2025-07-26, from: RTÉ News
+
+Ireland's first and largest music and arts festival for people with additional needs is under way in Co Meath. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0726/1525497-ablefest-fairyhouse-meath/>
+
+---
+
+## Thai Catholic Church voices concern over Cambodia border conflict
+
+date: 2025-07-26, from: Vatican News
+
+
+                    <p>In an interview with the Italian Catholic news agency AgenSIR, the President of the Thai Bishops’ Conference expresses his concern over the conflict brewing at the border with Cambodia and calls for a culture of solidarity and fraternity. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/cambodia-thailand-tensions-bishops-conference-peace-dialogue.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/cambodia-thailand-tensions-bishops-conference-peace-dialogue.html>
+
+---
+
+## Keenan the hero as Lions seal series with epic comeback
+
+date: 2025-07-26, from: RTÉ News
+
+Ireland's Hugo Keenan scored the winning try in the last play of the game as the Lions secured the Test series with a 29-26 victory over Australia in Melbourne. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0726/1525476-keenan-the-hero-as-lions-seal-comeback-series-win/>
+
+---
+
+## Pollution, melting microbes, undamming rivers, risks for elders: 4 key climate issues
+
+date: 2025-07-26, from: United Nations, Climate Change
+
+In a world increasingly shaped by climate extremes, environmental experts are delivering a blunt warning: four rapidly emerging threats could reshape life for millions unless urgent action is taken. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/07/1165501>
+
+---
+
+## Creeslough relatives launch civil cases over fatal blast
+
+date: 2025-07-26, from: RTÉ News
+
+Families and relatives of those killed and injured in the Creeslough tragedy are to bring civil cases against the operators and owners of the Applegreen service station, and management company for the adjoining apartments where an explosion killed ten people in 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525494-creeslough-lawsuits/>
+
+---
+
+## 18 killed as bus plunges into ravine in Peruvian Andes
+
+date: 2025-07-26, from: RTÉ News
+
+At least 18 people have been killed after a bus plunged into a ravine in the Peruvian Andes, health officials have said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525489-peru-bus-crash/>
+
+---
+
+## Gaza civil defence says Israeli forces kill 11 people
+
+date: 2025-07-26, from: RTÉ News
+
+Gaza's civil defence agency said Israeli operations have killed 11 people in the Palestinian territory devastated by over 21 months of war. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525483-gaza-israel-strikes/>
+
+---
+
+## 25 killed by Israeli fire across Gaza, says civil defence
+
+date: 2025-07-26, from: RTÉ News
+
+Gaza's civil defence agency has said Israeli fire has killed 25 people in the Palestinian territory devastated by more than 21 months of war. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525483-gaza-israel-deaths/>
+
+---
+
+## Lord's Day Reflection: An invitation to reflect on prayer
+
+date: 2025-07-26, from: Vatican News
+
+
+                    <p>As the Church marks the Seventeenth Sunday in Ordinary Time, Fr Edmund Power considers Jesus' invitation to reflect on our own personal prayer life.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-an-invitation-to-reflect-on-prayer.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-an-invitation-to-reflect-on-prayer.html>
+
+---
+
+## Pope Leo wanted to look at the Moon
+
+date: 2025-07-26, from: Vatican Obervatory
+
+Pope Leo XIV visited the historic telescopes of the Vatican Observatory at Castel Gandolfo. I say he was there intending to see the Moon through a telescope! 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/pope-leo-wanted-to-look-at-the-moon/>
+
+---
+
+## Major security operation as Trump begins Scotland visit
+
+date: 2025-07-26, from: RTÉ News
+
+A major security operation surrounded US President Donald Trump as he played golf at the start of a five-day long private visit to Scotland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525475-donald-trump-scotland/>
+
+---
+
+## Von der Leyen-Trump meeting a 'final negotiating session'
+
+date: 2025-07-26, from: RTÉ News
+
+Tomorrow's meeting between European Commission President Ursula von der Leyen and US President Donald Trump in Scotland is being treated as a "final negotiating session". 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0726/1525475-donald-trump-von-der-leyen/>
+
+---
+
+## Fighting on Thai-Cambodia border continues for 3rd day as Trump, Malaysia urge ceasefire
+
+date: 2025-07-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594832.1753553187!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/thailand-cambodia.JPG' alt='Howitzers fire rounds.' width='620' height='349' title='A Thai military mobile unit fires towards Cambodia&apos;s side after Thailand and Cambodia exchanged heavy artillery on Friday as their worst fighting in more than a decade stretched for a second day, in Surin, Thailand, July 25, 2025. REUTERS/Athit Perawongmetha     TPX IMAGES OF THE DAY'/><p>Before U.S. President Donald Trump spoke to the two leaders, clashes on the Thai-Cambodian border persisted into a third day and new flashpoints emerged Saturday as both sides said they had acted in self-defence in the border dispute, and called on the other to cease fighting and start negotiations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/thailand-cambodia-malaysia-fighting-1.7594768?cmp=rss>
+
+---
+
+## UK 'taking forward' plan to airdrop food into Gaza
+
+date: 2025-07-26, from: RTÉ News
+
+British Prime Minister Keir Starmer has told French and German leaders that the UK will be "taking forward" plans to airdrop aid and evacuate children requiring medical assistance in Gaza with partners like Jordan, Downing Street has said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0726/1525468-un-palestinian-question/>
+
+---
+
+## Israel resumes air drops of aid to Gaza, military says
+
+date: 2025-07-26, from: RTÉ News
+
+Israel has resumed air dropping aid to Gaza, an Israeli military spokesperson said, a few days after more than 100 aid agencies warned that mass starvation was spreading across the enclave. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0726/1525468-un-gaza-aid/>
+
+---
+
+## Pope encourages Pax Christi to continue to promote nonviolence
+
+date: 2025-07-26, from: Vatican News
+
+
+                    <p>In a message to participants in Pax Christi USA’s annual National Assembly, Pope Leo says “efforts to promote nonviolence are all the more necessary” in a world facing the challenges including war, division, and forced migration.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-encourages-pax-christi-to-continue-to-promote-nonviolence.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-07/pope-encourages-pax-christi-to-continue-to-promote-nonviolence.html>
+
+---
+
+## Russia takes second village in central Ukraine
+
+date: 2025-07-26, from: RTÉ News
+
+Russia claims to have taken a second village as it advances further into an area largely spared seizures of land since Moscow launched its offensive in 2022. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0726/1525463-ukraine-russia-strikes/>
+
+---
+
+## For 'the closer' to close, an EU-US deal needs sweetening
+
+date: 2025-07-26, from: RTÉ News
+
+It was Ursula von der Leyen's late afternoon social media post that confirmed a deal is on, writes Washington Correspondent Sean Whelan. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0726/1525460-eu-trump/>
+
+---
+
+## How are fan projects changing the concert experience?
+
+date: 2025-07-26, from: RTÉ News
+
+Picture this... you arrive at the concert you have been waiting months for. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0726/1525381-fan-projects/>
+
+---
+
+## Israel bypasses UN already struggling for relevance
+
+date: 2025-07-26, from: RTÉ News
+
+Israel is sidelining the United Nations which is already in deep financial crisis and struggling for relevance, as wars rage around the world. What does it all mean for the UN's future? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0726/1525438-israel-un/>
+
+---
+
+## Ireland faces 15% tariffs as EU-US deal takes shape
+
+date: 2025-07-26, from: RTÉ News
+
+The EU and US are edging closer to a trade deal revolving around tariffs of 15% imposed on European goods. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0726/1525410-eu-us-tariff-deal/>
+
+---
+
+## 7 Nunavut bird sanctuaries have Inuktitut place names restored
+
+date: 2025-07-26, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7591381.1753215748!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lesser-snow-geese-isulijarniq-migratory-bird-sanctuary.jpg' alt='Dozens of birds in a row.' width='620' height='349' title=''/><p>Seven Nunavut wildlife bird sanctuaries have had their Inuktitut place names restored as the federal government continues to work to meet its obligations under the Inuit Impact and Benefit Agreement for Nunavut.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/7-nunavut-bird-sanctuaries-returned-to-inuktitut-place-names-1.7591363?cmp=rss>
+
+---
+
+## Trump seeks to broker peace in Thai-Cambodian conflict
+
+date: 2025-07-26, from: RTÉ News
+
+US President Donald Trump has said he has spoken to the leaders of Cambodia and Thailand and that both countries want an immediate ceasefire, as he sought to broker peace while fighting along their border extended into a third day. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0726/1525459-thailand-cambodia-conflict/>
+
+---
+
+## Higher, faster, more destructive: Upgraded Russian drones wreak havoc on Ukrainian cities
+
+date: 2025-07-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7592964.1753370625!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='Investigators look at what they say is the engine of a Russian Geran drone after it slammed into an apartment building during a Russian drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 6, 2025.' width='620' height='349' title='Investigators look at what they say is the engine of a Russian Geran drone after it slammed into an apartment building during a Russian drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 6, 2025.'/><p>Russia is launching a record-breaking number of drones at Ukrainian cities. But these ones include new technology, like advanced satellite navigation systems and the capacity to carry a 90-kg munition.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/higher-faster-more-destructive-upgraded-russian-drones-wreak-havoc-on-ukrainian-cities-1.7592946?cmp=rss>
+
+---
+
+## Trump vs. TV: A play-by-play of a wild week taking on the U.S. president's naysayers
+
+date: 2025-07-26, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7594745.1753496401!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-britain.JPG' alt='An older man wearing a navy suit and a red tie gestures as he stands in front of microphones.' width='620' height='349' title='U.S. President Donald Trump speaks to members of the media on his arrival at Glasgow Prestwick Airport, in Prestwick, Scotland, Britain, July 25, 2025. REUTERS/Evelyn Hockstein'/><p>First he came for late-night TV, then a daytime talk show and a crude cartoon. U.S. President Donald Trump and his administration are fighting battles on all fronts when it comes to mockery and criticism of the 47th commander-in-chief.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/trump-tv-political-satire-critics-1.7593883?cmp=rss>
+
+---
+
+## Irish-made drama Mix Tape and the musical love letter
+
+date: 2025-07-26, from: RTÉ News
+
+BBC drama Mix Tape, a tale of star-crossed lovers who bond over music, is coming to RTÉ soon but can it reinvigorate the lost art of the mix tape as musical love letter? 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0726/1525455-irish-produced-drama-mix-tape-the-musical-love-letter/>
+
+---
+
+## Polls open in Taiwan's high-stakes recall election
+
+date: 2025-07-26, from: RTÉ News
+
+Taiwanese voters turned out at schools, churches and community centres to cast their ballot in a high-stakes recall election that could give President Lai Ching-te's party control of the parliament. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0726/1525457-taiwan-election/>
 

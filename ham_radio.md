@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-08-01 14:07:55
+updated: 2025-08-02 06:08:25
 ---
 
 # ham radio
 
-(date: 2025-08-01 14:07:55)
+(date: 2025-08-02 06:08:25)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-08-01, from: Amateur Radio Relay League News
+
+<p><span>Spaceweather.com reports solar activity was at low levels with only minor C-class flares observed.<span>  </span>Region 4154 produced a C1.4 flare on 31 July.<span>  </span>Region 4153 contributed the majority of the flares, including a C1.3 flare, a C1.5/Sf flare, and a C1.6 flare on 31 July.<span>  </span>Both of these regions remained mostly unchanged during the period.<span>  </span>Region 4166 exhibited growth during the period yet remained...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-24>
 
 ---
 

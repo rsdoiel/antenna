@@ -1,11 +1,47 @@
 ---
 title: journalism
-updated: 2025-08-01 14:07:59
+updated: 2025-08-02 06:08:29
 ---
 
 # journalism
 
-(date: 2025-08-01 14:07:59)
+(date: 2025-08-02 06:08:29)
+
+---
+
+## Beyond the Classroom: How Guided Nature Experiences Complement Environmental Studies
+
+date: 2025-08-01, from: The Sundail (CSUN Student Newspaper)
+
+Image Source: Zen Chung, Pexels  Fact: nearly 90% of people today spend time indoors. Another (highly probable) fact: you&#8217;re not an exception. Between your phone, computer, and TV, study schedules... 
+
+<br> 
+
+<https://sundial.csun.edu/195280/sundialbrandstudio/sundial-marketplace/beyond-the-classroom-how-guided-nature-experiences-complement-environmental-studies/>
+
+---
+
+## How to Stay Fit in College Without Spending Hours at the Gym
+
+date: 2025-08-01, from: The Sundail (CSUN Student Newspaper)
+
+Between juggling lectures, assignments, jobs, and social commitments, staying fit in college can feel like one more thing you just don’t have time for. But physical health doesn&#8217;t have to... 
+
+<br> 
+
+<https://sundial.csun.edu/195277/sundialbrandstudio/sundial-marketplace/how-to-stay-fit-in-college-without-spending-hours-at-the-gym/>
+
+---
+
+## Q&A: Dr. Arun Singh balances care for sarcoma patients, conducting clinical trials
+
+date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dr. Arun Singh, the director of the UCLA sarcoma medical oncology program, sat down with Daily Bruin contributor Donya Hassanshahi during Sarcoma Awareness Month to discuss his role in managing patient care for those with sarcomas and conducting clinical trials. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/qa-dr-arun-singh-balances-care-for-sarcoma-patients-conducting-clinical-trials/>
 
 ---
 
@@ -13,6 +49,7 @@ updated: 2025-08-01 14:07:59
 
 date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Aug. 1 at 8:04 p.m.</em>
 A person stole merchandise near De Neve Plaza around 2 a.m. Friday.
 A person, who was not affiliated with UCLA, agreed to meet with the suspect to sell him merchandise prior to the incident, according to a UCPD Clery Timely Warning crime alert. 
 
@@ -38,7 +75,7 @@ Alden Global Capital just can&#8217;t understand. Why would any newspaper not wa
 
 date: 2025-08-01, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated August 1 at 8:10 a.m.</em>
+<em>This post was updated Aug. 1 at 4:26 p.m.</em>
 The federal government is suspending research funding to UCLA, according to a Thursday email from Chancellor Julio Frenk. 
 
 <br> 
@@ -306,4 +343,16 @@ David Tunnell, a Westwood Village ambassador, said two of his coworkers arrived 
 <br> 
 
 <https://dailybruin.com/2025/07/27/lapd-arrests-individual-for-threatening-westwood-village-ambassadors-with-blade/>
+
+---
+
+## Gallery: 4 doctoral students share protocols, lessons they’ve learned in wet labs at UCLA
+
+date: 2025-07-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Doctoral students use interdisciplinary technologies in wet labs across UCLA’s South Campus to investigate topics ranging from tool development to metabolic diseases. UCLA enrolled 859 doctoral students across the life sciences and health science academic fields for the 2024-2025 academic year. 
+
+<br> 
+
+<https://dailybruin.com/2025/07/25/gallery-4-doctoral-students-share-protocols-lessons-theyve-learned-in-wet-labs-at-ucla/>
 

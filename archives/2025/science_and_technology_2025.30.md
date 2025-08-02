@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-08-01 14:07:56
+updated: 2025-08-02 06:08:26
 ---
 
 # science and technology
 
-(date: 2025-08-01 14:07:56)
+(date: 2025-08-02 06:08:26)
+
+---
+
+## Florida jury throws huge fine at Tesla in Autopilot crash
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Plaintiffs argued that the company massively oversold the assisted-driving capabilities of its cars</h4> <p>After two weeks of testimony, a Florida jury has found Tesla partially responsible for the death of one person and causing serious injuries to another in a crash where the driver was using the company&#39;s much-touted Autopilot system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/florida_tesla_verdict/>
+
+---
+
+## The Potato May Have Evolved From a Tomato Ancestor Nine Million Years Ago, Genetic Study Suggests
+
+date: 2025-08-01, from: Smithsonian Magazine
+
+A genome analysis indicates wild tomatoes and a potato-like plant called Etuberosum hybridized to create the modern potato 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-potato-may-have-evolved-from-a-tomato-ancestor-nine-million-years-ago-genetic-study-suggests-180987091/>
+
+---
+
+## Rampant emoji use suggests crypto-stealing NPM package was written by AI
+
+date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+
+<h4>Kodane code was either machine-generated or done by a teenager</h4> <p>An NPM package packed with cryptocurrency-stealing malware appears to have been largely AI-generated, as evidenced by its liberal use of emojis and other telltale signs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/01/emoji_use_ai_malware/>
+
+---
+
+## Helio Highlights: July 2025
+
+date: 2025-08-01, from: NASA breaking news
+
+As NASA and its partners prepare to send astronauts back to the Moon, we must address the potential dangers caused by space weather, which can damage spacecraft and cause physical harm to unprotected astronauts in space. 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/helio-highlights-july-2025/>
 
 ---
 
@@ -2430,4 +2478,28 @@ date: 2025-07-27, updated: 2025-07-28, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/>
+
+---
+
+## Congress tries to outlaw AI that jacks up prices based on what it knows about you
+
+date: 2025-07-26, updated: 2025-07-26, from: The Register (UK I.T. News)
+
+<h4>Surveillance-based pricing? Two lawmakers say enough</h4> <p>Two Democratic members of Congress, Greg Casar (D-TX) and Rashida Tlaib (D-MI,) have introduced legislation in the US House of Representatives to ban the use of AI surveillance to set prices and wages.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/>
+
+---
+
+## Blame a leak for Microsoft SharePoint attacks, researcher insists
+
+date: 2025-07-26, updated: 2025-07-28, from: The Register (UK I.T. News)
+
+<h4>Follow the MAPP</h4> <p>A week after Microsoft told the world that its July software updates didn&#39;t fully fix a couple of bugs, which allowed miscreants to take over on-premises SharePoint servers and remotely execute code, researchers have assembled much of the puzzle — with one big missing piece.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/>
 
