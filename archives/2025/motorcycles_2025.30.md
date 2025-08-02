@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-08-02 06:08:31
+updated: 2025-08-02 14:08:02
 ---
 
 # motorcycles
 
-(date: 2025-08-02 06:08:31)
+(date: 2025-08-02 14:08:02)
 
 ---
 
@@ -58,7 +58,7 @@ The all-new Front Wheel Lift Control system on the 2025 Triumph Speed Triple 120
 
 ---
 
-## Ural Says It's Pausing Production Of Its Legendary Sidecar Line
+## Ural Says It's Pausing Production Of Its Legendary Sidecar Line For Export Markets
 
 date: 2025-08-01, from: Ride Apart, Electric Motorcycle News
 

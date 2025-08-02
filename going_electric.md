@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-08-02 06:08:32
+updated: 2025-08-02 14:08:04
 ---
 
 # going electric
 
-(date: 2025-08-02 06:08:32)
+(date: 2025-08-02 14:08:04)
 
 ---
 
@@ -73,6 +73,10 @@ date: 2025-08-01, from: Electrek Feed
 
 
 
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Electrek_396.mp3"></audio></figure>
+
+
+
  <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="427795" href="https://electrek.co/2025/08/01/podcast-tesla-loses-first-autopilot-wrongful-death-trial-cadillac-lyric-v-first-drive-and-more/#more-427795" class="more-link">more…</a> 
 
 <br> 
@@ -81,7 +85,7 @@ date: 2025-08-01, from: Electrek Feed
 
 ---
 
-## The Kia EV4 Ran For 6,200 Miles At The Nurburgring And It Wouldn't Die
+## The Kia EV4 Ran For 6,200 Miles At The Nurburgring. Its Battery Wouldn't Die
 
 date: 2025-08-01, from: Inside EVs News
 

@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-08-02 06:08:26
+updated: 2025-08-02 14:07:57
 ---
 
 # science and technology
 
-(date: 2025-08-02 06:08:26)
+(date: 2025-08-02 14:07:57)
 
 ---
 
@@ -299,7 +299,7 @@ Four crew members of NASA’s SpaceX Crew-11 mission launched at 11:43 a.m. EDT 
 
 ## Microsoft gives in to Chromebook bullies and drops Windows 11 SE
 
-date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+date: 2025-08-01, updated: 2025-08-02, from: The Register (UK I.T. News)
 
 <h4>Budget educational computing is now Google&#39;s game to lose</h4> <p>Microsoft is discontinuing support for its Windows 11 SE variant meant to compete with ChromeOS in the education space, leaving schools that chose Microsoft over Google in the lurch just four years after the cloud-based Windows variant was released. …</p> 
 
@@ -431,7 +431,7 @@ date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
 
 ## Cybercrooks attached Raspberry Pi to bank network and drained ATM cash
 
-date: 2025-08-01, updated: 2025-08-01, from: The Register (UK I.T. News)
+date: 2025-08-01, updated: 2025-08-02, from: The Register (UK I.T. News)
 
 <h4>Criminals used undocumented techniques and well-placed insiders to remotely withdraw money</h4> <p>A ring of cybercriminals managed to physically implant a Raspberry Pi on a bank&#39;s network to steal cash from an Indonesian ATM.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

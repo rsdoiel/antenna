@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2025-08-02 06:08:33
+updated: 2025-08-02 14:08:04
 ---
 
 # food
 
-(date: 2025-08-02 06:08:33)
+(date: 2025-08-02 14:08:04)
 
 ---
 
@@ -129,11 +129,23 @@ date: 2025-08-01, from: Taste of Home
 
 ---
 
+## Black Rock Coffee Bar Reportedly Files Confidentially for IPO
+
+date: 2025-08-01, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Black-Rock-Coffee-Bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Black Rock Coffee Bar" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Black-Rock-Coffee-Bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Black-Rock-Coffee-Bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Black-Rock-Coffee-Bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Black-Rock-Coffee-Bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Black-Rock-Coffee-Bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; After several years of rapid retail expansion throughout the western United States, Black Rock Coffee Bar has reportedly filed confidentially for an initial public offering in New York.&#160; According... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/01/black-rock-coffee-bar-reportedly-files-confidentially-for-ipo/>
+
+---
+
 ## Weekly Coffee News: Cold Brew Manufacturing Safety + Promoting Women in Coffee
 
 date: 2025-08-01, from: Daily Coffee News
 
-<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-620x434.jpg" class="attachment-large size-large wp-post-image" alt="massimo-adami-hHbHMgW58LM-unsplash" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; NCA Releases Cold Brew Safety Guide The National... 
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-620x434.jpg" class="attachment-large size-large wp-post-image" alt="massimo-adami-hHbHMgW58LM-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/massimo-adami-hHbHMgW58LM-unsplash.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; NCA Releases Cold Brew Safety Guide The National... 
 
 <br> 
 
@@ -383,7 +395,7 @@ date: 2025-07-31, from: Taste of Home
 
 date: 2025-07-31, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Espro Coffee Bar Toronto 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Canadian French press maker Espro (styled ESPRO by the company) just opened a French press-inspired cafe in Toronto, where freshly ground coffee and shop guests are subjected to full... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Espro Coffee Bar Toronto 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Espro-Coffee-Bar-Toronto-3.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Canadian French press maker Espro (styled ESPRO by the company) just opened a French press-inspired cafe in Toronto, where freshly ground coffee and shop guests are subjected to full... 
 
 <br> 
 

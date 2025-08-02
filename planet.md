@@ -1,11 +1,11 @@
 ---
 title: planet
-updated: 2025-08-02 06:08:21
+updated: 2025-08-02 14:07:52
 ---
 
 # planet
 
-(date: 2025-08-02 06:08:21)
+(date: 2025-08-02 14:07:52)
 
 ---
 
@@ -251,7 +251,7 @@ Met Éireann has issued a weather advisory for Storm Floris, which will bring we
 
 ## World News in Brief: Hunger in the English- and Dutch-speaking Caribbean, climate and displacement crisis in Somalia, World Breastfeeding Week
 
-date: 2025-08-01, from: United Nations, Top Stories
+date: 2025-08-01, from: United Nations, Climate Change
 
 Nearly 3.2 million people in the English and Dutch-Speaking Caribbean struggle to get enough to eat, according to the latest Food Security and Livelihoods Survey conducted by the UN World Food Programme (WFP) and the Caribbean Community (CARICOM).&nbsp; 
 
@@ -311,7 +311,7 @@ Despite Israel’s 27 July announcement of daily military pauses in western Gaza
 
 ## A mandate for change: UN releases proposals for streamlining of tasks as part of major reform agenda
 
-date: 2025-08-01, from: United Nations, UN Affairs
+date: 2025-08-01, from: United Nations, Top Stories
 
 Millions of lives have been improved by the mandates assigned to the UN. Yet duplication, fragmentation and outdated tasks are stretching resources and undermining the organization’s ability to deliver for those who need it most. As part of the UN80 Initiative, UN Secretary-General António Guterres has presented a set of proposals to Member States to make the UN more efficient, coherent and impactful. 
 
@@ -1111,7 +1111,7 @@ Trade must be part of the solution to end plastic pollution – a global problem
 
 ## ‘Delivering better’: New ECOSOC president emphasises climate action, food security
 
-date: 2025-07-31, from: United Nations, UN Affairs
+date: 2025-07-31, from: United Nations, Top Stories
 
 The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism. 
 
@@ -2045,7 +2045,7 @@ Early warning systems kicked in overnight across Pacific coastal communities aft
 
 date: 2025-07-30, from: United Nations, Top Stories
 
-Some 80,000 children are estimated to be at high risk of cholera in West and Central Africa as the rainy season begins across the region, the UN Children’s Fund (UNICEF) said on Wednesday.&nbsp; 
+Some 80,000 children are estimated to be at high risk of cholera in West and Central Africa as the rainy season begins across the region, the UN Children’s Fund (UNICEF) said on Wednesday. 
 
 <br> 
 
@@ -2949,7 +2949,7 @@ United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on coun
 
 ## World News in Brief: Remembering Dr. David Nabarro, deadly shipwreck off Libya, verdict in peacekeeper’s killing
 
-date: 2025-07-29, from: United Nations, UN Affairs
+date: 2025-07-29, from: United Nations, Top Stories
 
 UN Secretary-General António Guterres has expressed sadness over the passing of Dr. David Nabarro, who played a leading role in the Organization’s efforts to respond to challenges such as hunger, Ebola and the COVID-19 pandemic. 
 
