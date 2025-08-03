@@ -1,11 +1,82 @@
 ---
 title: journalism
-updated: 2025-08-02 14:08:00
+updated: 2025-08-03 06:08:22
 ---
 
 # journalism
 
-(date: 2025-08-02 14:08:00)
+(date: 2025-08-03 06:08:22)
+
+---
+
+## About 800 NIH, NSF research grants suspended following UCLA federal funding cuts
+
+date: 2025-08-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+About 800 research grants have been suspended at UCLA, according to a Friday email from Vice Chancellor for Research and Creative Activities Roger Wakimoto.
+Wakimoto said in the email, which was sent to principal investigators and vice chancellors, that about 500 grants from National Institutes of Health, 300 from the National Science Foundation and two awards from the United States Department of Energy – were suspended effective July 30 or July 31. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/02/about-800-nih-nsf-research-grants-suspended-following-ucla-federal-funding-cuts/>
+
+---
+
+## Man charged with assault on pro-Palestine protesters in encampment takes plea deal
+
+date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A counter-protester charged with assaulting protesters at UCLA&#8217;s Palestine solidarity encampment in spring 2024 accepted a plea deal July 7.
+Malachi Marlan-Librett, who graduated from UC Santa Cruz in 2019 and then attended a UCLA film program, was charged with assault with a deadly weapon, battery and a hate crime after he allegedly assaulted, followed and yelled racial epithets at pro-Palestine protesters in the encampment. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/02/man-charged-with-assault-on-pro-palestine-protesters-in-encampment-takes-plea-deal/>
+
+---
+
+## USAC recap – July 15
+
+date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held an emergency meeting on July 15 to vote on approving a letter addressed to University of California President Michael Drake that criticized his ban on student governments boycotting companies associated with Israel. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/02/usac-recap-july-15-2/>
+
+---
+
+## Thrift store 2nd Street holds grand opening for 1st Westwood location
+
+date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+2nd Street, a Japanese thrift store chain focused on diverse and sustainable style, opened a location in Westwood last Friday.
+The chain has over 700 locations in Japan and opened its first United States store on Melrose Avenue in Los Angeles in January 2018. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/thrift-store-2nd-street-holds-grand-opening-for-1st-westwood-location/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Carlyn Irwin, a senior advisor at Cornerstone Research who also provides expert witness referrals, said in a video deposition that Klein’s loss of clients occurred due to a combination of factors, including – but not limited to – him being placed on administrative leave. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/491536/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Jerry Kang, the former vice chancellor for equity, diversity and inclusion, testified that the Discrimination Prevention Office decided not to complete a formal investigation over the email following its preliminary assessment. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/491533/>
 
 ---
 
@@ -343,16 +414,4 @@ David Tunnell, a Westwood Village ambassador, said two of his coworkers arrived 
 <br> 
 
 <https://dailybruin.com/2025/07/27/lapd-arrests-individual-for-threatening-westwood-village-ambassadors-with-blade/>
-
----
-
-## Gallery: 4 doctoral students share protocols, lessons they’ve learned in wet labs at UCLA
-
-date: 2025-07-26, from: The Daily Bruin (UCLA Student Newspaper)
-
-Doctoral students use interdisciplinary technologies in wet labs across UCLA’s South Campus to investigate topics ranging from tool development to metabolic diseases. UCLA enrolled 859 doctoral students across the life sciences and health science academic fields for the 2024-2025 academic year. 
-
-<br> 
-
-<https://dailybruin.com/2025/07/25/gallery-4-doctoral-students-share-protocols-lessons-theyve-learned-in-wet-labs-at-ucla/>
 

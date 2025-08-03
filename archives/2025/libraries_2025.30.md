@@ -1,11 +1,47 @@
 ---
 title: libraries
-updated: 2025-08-02 14:08:01
+updated: 2025-08-03 06:08:23
 ---
 
 # libraries
 
-(date: 2025-08-02 14:08:01)
+(date: 2025-08-03 06:08:23)
+
+---
+
+## Training and Integrating a Machine-Learning-Based Shell Element in Reinforced Concrete Simulations
+
+date: 2025-08-08, from: ETH Zurich, recently added
+
+Balmer, Vera; Kraus, Michael A.; Coros, Stelian; Kaufmann, Walter 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/748023>
+
+---
+
+## Books to Help You to Meet the Moment
+
+date: 2025-08-02, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>If you&#8217;re feeling overwhelmed by current events, you&#8217;re not alone. By taking time to read and research, we can find the ability to ground ourselves,&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/08/02/books-to-help-you-to-meet-the-moment/>
+
+---
+
+## Dataset: Rotating Monoclinic Solid and Annular Nano-Disks
+
+date: 2025-08-02, from: ETH Zurich, recently added
+
+Kröger, Martin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/749298>
 
 ---
 
@@ -500,16 +536,4 @@ date: 2025-07-28, from: Crossref Blog
 <br> 
 
 <https://www.crossref.org/blog/changing-fees-to-increase-equity-and-reduce-complexity/>
-
----
-
-## Tree-induced urban cooling benefits during heat extremes across Switzerland at 10m resolution
-
-date: 2025-07-26, from: ETH Zurich, recently added
-
-Chang, Yuyang; Duarte Rocha, Alby; Ghazoul, Jaboury; Kleinschroth, Fritz 
-
-<br> 
-
-<http://hdl.handle.net/20.500.11850/748351>
 

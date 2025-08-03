@@ -1,11 +1,165 @@
 ---
 title: snapshots
-updated: 2025-08-02 14:08:07
+updated: 2025-08-03 06:08:29
 ---
 
 # snapshots
 
-(date: 2025-08-02 14:08:07)
+(date: 2025-08-03 06:08:29)
+
+---
+
+## The Economics of Smoot-Hawley 2.0, Part I
+
+date: 2025-08-03, from: Paul Krugman
+
+Tariffs will be very high as far as the eye can see. What does that mean? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-economics-of-smoot-hawley-20>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-08-02, from: Tomosino's Mastodon feed)
+
+<p>A new hero rises? </p><p><a href="https://www.nytimes.com/2025/08/01/science/radioactive-wasps-nuclear-savannah-river.html" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">nytimes.com/2025/08/01/science</span><span class="invisible">/radioactive-wasps-nuclear-savannah-river.html</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114961187177661937>
+
+---
+
+## Re-label the "Save" button to be "Publish", to better indicate to users the outcomes of their action
+
+date: 2025-08-02, updated: 2025-08-02, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://phabricator.wikimedia.org/T131132">Re-label the &quot;Save&quot; button to be &quot;Publish&quot;, to better indicate to users the outcomes of their action</a></strong></p>
+Fascinating Wikipedia usability improvement issue from 2016:</p>
+<blockquote>
+<p>From feedback we get repeatedly as a development team from interviews, user testing and other solicited and unsolicited avenues, and by inspection from the number of edits by newbies not quite aware of the impact of their edits in terms of immediate broadcast and irrevocability, that new users don't necessarily understand what "Save" on the edit page means. [...]</p>
+<p>Even though "user-generated content" sites are a lot more common today than they were when Wikipedia was founded, it is still unusual for most people that their actions will result in immediate, and effectively irrevocable, publication.</p>
+</blockquote>
+<p>A great illustration of the usability impact of micro-copy, even more important when operating at Wikipedia scale.
+
+    <p><small></small>Via <a href="https://x.com/tilmanbayer/status/1951730503671050245">@tilmanbayer</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/design">design</a>, <a href="https://simonwillison.net/tags/usability">usability</a>, <a href="https://simonwillison.net/tags/wikipedia">wikipedia</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/2/wikipedia-save-button/#atom-everything>
+
+---
+
+## Scientists Detect Unprecedented Energy ‘Tidal Wave’ from the Sun
+
+date: 2025-08-02, from: 404 Media Group
+
+The afterlife of Puerto Rico’s Aricebo telescope continues with the detection of a powerful “tidal wave” from the Sun.  
+
+<br> 
+
+<https://www.404media.co/scientists-detect-unprecedented-energy-tidal-wave-from-the-sun/>
+
+---
+
+## 
+                The X11 SECURITY extension from the 1990ies
+            
+
+date: 2025-08-02, updated: 2025-08-02, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html>
+
+---
+
+## Your Computer Interviewed Chris Curry (1981)
+
+date: 2025-08-02, from: Computer ads from the Past
+
+Chris talks about his work with Clive Sinclair and Acorn Computers with a little BBC Micro. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry>
+
+---
+
+## Vibe Code is Legacy Code
+
+date: 2025-08-02, from: Maggie Appleton blog
+
+Vibe code is legacy code by Steve Krouse 
+
+<br> 
+
+<https://maggieappleton.com/2025-08-vibe-legacy-code/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-08-02, from: Tomosino's Mastodon feed)
+
+<p><span class="h-card" translate="no"><a href="https://sfba.social/@somafm" class="u-url mention" rel="nofollow noopener" target="_blank">@<span>somafm</span></a></span> is the best</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114958834452977276>
+
+---
+
+## Talking with Martin Wolf
+
+date: 2025-08-02, from: Paul Krugman
+
+Covering for a technical glitch 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/talking-with-martin-wolf-1a3>
+
+---
+
+## Anbernic RG477M handheld game console has a 4.7 inch, 120 Hz display with a 4:3 aspect ratio
+
+date: 2025-08-02, from: Liliputing
+
+<p>The Anbernic RG477M is a handheld game console with a MediaTek Dimensity 8300 processor, support for up to 12GB of LPDDR5 memory and 256GB of UFS storage, and an Android 14-based operating system. What really helps it stand out from an increasingly crowded field though, it the display: it has a 4.7 inch, 1280 x 960 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anbernic-rg477m-handheld-game-console-has-a-4-7-inch-120-hz-display-with-a-43-aspect-ratio/">Anbernic RG477M handheld game console has a 4.7 inch, 120 Hz display with a 4:3 aspect ratio</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anbernic-rg477m-handheld-game-console-has-a-4-7-inch-120-hz-display-with-a-43-aspect-ratio/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-02, from: Robert's feed at BlueSky)
+
+Made me smile 😁
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvfciuiog22u>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-08-02, from: Feed for Alt USDS)
+
+🛠  We the Builders need some rest.
+Read more: bit.ly/45hINsI 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lvevns3fd22h>
 
 ---
 
@@ -2553,175 +2707,4 @@ date: 2025-07-27, updated: 2025-07-27, from: Educated Guesswork blog
 <br> 
 
 <https://educatedguesswork.org/posts/memory-management-7/>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
-
-An important victory for the planet.
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr6xmvcc2s>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
-
-Wonderful public  response.
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3luvr5rudhs2s>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
-
-😎👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3luvqme4xb22s>
-
----
-
-## GPD Win 5 handheld gaming PC specs revealed: Strix Halo processor, 7 inch display, and no keyboard
-
-date: 2025-07-26, from: Liliputing
-
-<p>This week GPD revealed that its next handheld gaming PC would be powered by an AMD Strix Halo processor, bringing discrete-class graphics to a handheld PC for the first time. But at the time the company didn&#8217;t share many other details about the upcoming GPD Win 5, which left questions about battery life and overall [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/">GPD Win 5 handheld gaming PC specs revealed: Strix Halo processor, 7 inch display, and no keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/>
-
----
-
-## Official statement from Tea on their data leak
-
-date: 2025-07-26, updated: 2025-07-26, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://www.teaforwomen.com/cyberincident">Official statement from Tea on their data leak</a></strong></p>
-Tea is a dating safety app for women that lets them share notes about potential dates. The other day it was subject to a truly egregious data leak caused by a legacy unprotected Firebase cloud storage bucket:</p>
-<blockquote>
-<p>A legacy data storage system was compromised, resulting in unauthorized access to a dataset from prior to February 2024. This dataset includes approximately 72,000 images, including approximately 13,000 selfies and photo identification submitted by users during account verification and approximately 59,000 images publicly viewable in the app from posts, comments and direct messages.</p>
-</blockquote>
-<p>Storing and then failing to secure photos of driving licenses is an incredible breach of trust. Many of those photos included EXIF location information too, so there are maps of Tea users floating around the darker corners of the web now.</p>
-<p>I've seen a bunch of commentary using this incident as an example of the dangers of vibe coding. <strong>I'm confident vibe coding was not to blame</strong> in this particular case, even while I <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/#when-is-it-ok-to-vibe-code-">share the larger concern</a> of irresponsible vibe coding leading to more incidents of this nature.</p>
-<p>The announcement from Tea makes it clear that the underlying issue relates to code written prior to February 2024, long before vibe coding was close to viable for building systems of this nature:</p>
-<blockquote>
-<p>During our early stages of development some legacy content was not migrated into our new fortified system. Hackers broke into our identifier link where data was stored before February 24, 2024. As we grew our community, we migrated to a more robust and secure solution which has rendered that any new users from February 2024 until now were not part of the cybersecurity incident.</p>
-</blockquote>
-<p>Also worth noting is that they stopped requesting photos of ID back in 2023:</p>
-<blockquote>
-<p>During our early stages of development, we required selfies and IDs as an added layer of safety to ensure that only women were signing up for the app. In 2023, we removed the ID requirement.</p>
-</blockquote>
-<p><strong>Update 28th July</strong>: A second breach <a href="https://www.404media.co/a-second-tea-breach-reveals-users-dms-about-abortions-and-cheating/">has been confirmed</a> by 404 Media, this time exposing more than one million direct messages dated up to this week.
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Jul/26/official-statement-from-tea/#atom-everything>
-
----
-
-## Bartz v. Anthropic: What are some additional takeaways and where do things go from here?
-
-date: 2025-07-26, from: Authors Union blogs
-
-In an earlier post, we shared details from Judge Alsup’s decision on Anthropic’s motion for summary judgment in Bartz v. [&#8230;] 
-
-<br> 
-
-<https://www.authorsalliance.org/2025/07/26/bartz-v-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here/>
-
----
-
-## Weekend Interview: Watch my convo on The News Agents about why Trump can’t ghost the Epstein story— or outfox Rupert Murdoch.
-
-date: 2025-07-26, from: Tina Brown
-
-I sat down with Jon Sopol, co-host of my favorite UK podcast, The News Agents to dive into how Trump has gotten off base on the Epstein story (he&#8217;s trying to move on but much of his base isn&#8217;t budging), why Rupert Murdoch can&#8217;t resist a tabloid scoop, and what the head of the Paul Weiss law firm has learned about the cost of capitulation. 
-
-<br> 
-
-<https://tinabrown.substack.com/p/weekend-interview-watch-my-convo>
-
----
-
-## Scientists Report Surreal Scenes In the World’s Most Northern Town
-
-date: 2025-07-26, from: 404 Media Group
-
-Researchers witnessing warming in Svalbard worry that “we have been too cautious” with climate warnings. 
-
-<br> 
-
-<https://www.404media.co/scientists-report-surreal-scenes-in-the-worlds-most-northern-town/>
-
----
-
-## Talking With Henry Farrell
-
-date: 2025-07-26, from: Paul Krugman
-
-Weaponized interdependence and tech bro ideology, oh my 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/talking-with-henry-farrell>
-
----
-
-## A timely lesson
-
-date: 2025-07-26, from: Status-Q blog
-
-My thanks to Terence Eden, who recently reposted on Mastodon the fact that Google are shutting down their &#8216;goo.gl&#8217; URL-shortener in a month&#8217;s time.   URL shorteners are those services that take long URLs and turn them into shorter ones by maintaining a database mapping the latter to the former.  Tinyurl.com was perhaps the first; <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/07/26/13243/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
-
-<br> 
-
-<https://statusq.org/archives/2025/07/26/13243/>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-07-26, from: Robert's feed at BlueSky)
-
-Fubar is the technical term that comes to mind. No journalism will happen there. 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lutdvd52d22a>
-
----
-
-## Build a CommonMark Processor
-
-date: 2025-07-26, from: Robert's Ramblings
-
-In this post I go over the process of building a TypeScript module called `commonMarkDoc.ts` along with a simple command line CommonMark processor called `cmarkprocess`.
-CommonMark pre-processor features are
-
-  - support `@include-code-block` for including code samples as code blocks
-  - support `@include-text-block` for include plain text into a CommonMark document
-  - transform Hashtags into front matter
-  - transform @Tags into front matter
- 
-
-<br> 
-
-<https://rsdoiel.github.io/blog/2025/07/26/building_cmarkprocess.html>
 

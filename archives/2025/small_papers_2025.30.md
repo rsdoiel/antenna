@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-08-02 14:08:05
+updated: 2025-08-03 06:08:28
 ---
 
 # small papers
 
-(date: 2025-08-02 14:08:05)
+(date: 2025-08-03 06:08:28)
+
+---
+
+## Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says
+
+date: 2025-08-02, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Speed, distracted driving, and impaired driving do not appear to have contributed to this collision," police said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says">Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says>
+
+---
+
+## Long Beach man charged with sending money to terrorist group
+
+date: 2025-08-02, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities say they arrested him Friday and found what appeared to be a bomb in his bedroom.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group">Long Beach man charged with sending money to terrorist group</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group>
 
 ---
 
@@ -488,49 +518,4 @@ date: 2025-07-28, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/politics/newsom-ramps-up-california-redistricting-threat-as-texas-weighs-new-republican-maps>
-
----
-
-## He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement
-
-date: 2025-07-26, from: Long Beach Post
-
-<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Brian Peterson is undertaking a project that’s nearly twice as tall as his previous height record. It will end up being one of the most noticeable art pieces in Long Beach.</p>
-<p>The post <a href="https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean">He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean>
-
----
-
-## Trump’s crackdown on homelessness: What does it mean for California?
-
-date: 2025-07-26, from: Long Beach Post
-
-<figure><img width="1024" height="676" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-300x198.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-768x507.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-164x108.webp 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1536x1014.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1200x792.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1568x1035.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-400x264.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Trump’s call to enforce bans on encampments echoes Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response.</p>
-<p>The post <a href="https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california">Trump’s crackdown on homelessness: What does it mean for California?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
-
----
-
-## Appeal on Tap Monday in Government’s Bid to Resume SoCal Immigration Raids
-
-date: 2025-07-26, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/06/250608_ICE-Protests_SN_24-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>LOS ANGELES (CNS) &#8211; An appellate hearing is scheduled for Monday in President Donald Trump’s administration’s bid for a stay pending appeal of a temporary restraining order (TRO) halting the [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/07/25/appeal-on-tap-monday-in-governments-bid-to-resume-socal-immigration-raids/">Appeal on Tap Monday in Government’s Bid to Resume SoCal Immigration Raids</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/07/25/appeal-on-tap-monday-in-governments-bid-to-resume-socal-immigration-raids/>
 

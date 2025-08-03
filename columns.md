@@ -1,11 +1,325 @@
 ---
 title: columns
-updated: 2025-08-02 14:07:58
+updated: 2025-08-03 06:08:20
 ---
 
 # columns
 
-(date: 2025-08-02 14:07:58)
+(date: 2025-08-03 06:08:20)
+
+---
+
+## The Piano Man
+
+date: 2025-08-03, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/the-piano-man>
+
+---
+
+## Sunday thought: Where can we find hope?
+
+date: 2025-08-03, from: Robert Reich's blog
+
+Here's where you might look 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-hope>
+
+---
+
+## August 2, 2025 
+
+date: 2025-08-03, from: Heather Cox Richardson blog
+
+Republicans in the Texas legislature are working to redistrict the state before the 2026 midterm elections. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-2-2025>
+
+---
+
+## It was real
+
+date: 2025-08-03, from: Doc Searls (at Harvard), New Old Blog
+
+I grew up under the red star, and right now I&#8217;m just to the right of it, on the third and top floor of the smallest residential building in northern Manhattan. When it hit, my wife and I both said, &#8220;That&#8217;s an earthquake.&#8221; We&#8217;ve experienced many in California, and know the feel. But none of [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/08/02/it-was-real/>
+
+---
+
+## August 1, 2025
+
+date: 2025-08-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169966594/e77ce8cf1aba857b1d8f3b92f94bd8eb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169966594/e77ce8cf1aba857b1d8f3b92f94bd8eb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-1-2025-ba9>
+
+---
+
+## This week's Joseph Welch Award
+
+date: 2025-08-03, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/this-weeks-joseph-welch-award>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2018/08/21/bloatwareBoss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think I'm going to put in my will that ChatGPT should run the Dave Winer persona on all social networks, and my blog, as long as the money lasts. It would tell stories that I would likely tell, take political stands that I would take, draw meta-pictures of my sad and depressed <a href="http://scripting.com/2025/05/09/202442.html">programmer friend</a> and a cute and <a href="https://daytona.scripting.com/search?q=%22wordle%20kitty%22">adorable kitty</a> getting into all kinds of trouble. The seasons would come and go, and there would be Dave, still diggin. And of course he would continue to develop software, using some of the greatest tried and true tools, reminding everyone of how great <a href="http://frontier.userland.com">Frontier</a> is -- but -- if only it ran <a href="https://daytona.scripting.com/search?q=%22frontier%20on%20linux%22">on Linux</a>. The long-lived fearless and fully paid-up version of Uncle D. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a213445>
+
+---
+
+## ★ The Substack Branding and Faux Prestige Trap
+
+date: 2025-08-02, updated: 2025-08-03, from: Daring Fireball
+
+Only with Substack does anyone perceive creator branding as being subservient to the platform — something that ought to be seen merely as an interchangeable CMS. 
+
+<br> 
+
+<https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap>
+
+---
+
+## 2025-08-02 Üetliberg
+
+date: 2025-08-02, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-02-üetliberg">2025-08-02 Üetliberg</h1>
+
+<p>Today the weather was cloudy and the rain was drizzling for hours.
+We went for a walk up the Üetliberg.
+We picked a safe trail with official signage.</p>
+
+<p>This small mountain is our local mountain here in Zürich and there’s a train that goes almost all the way to the top.
+These days it doesn’t run because there are maintenance works taking apart the tracks.
+We thought it’d be calm up there.
+We were wrong.
+There are buses running. There was a wedding at the posh hotel and restaurant at the top.</p>
+
+<p>When going for a walk on the Üetliberg in Zürich, do take a look from the top (Uto Kulm) and look over the lake towards the Alps.
+But today we learned: If you want to eat something, don&rsquo;t eat at the posh place up there, walk 20 min and stop at <a href="https://jurablick.com/">Jurablick</a>, looking north towards the Jura mountains.
+We ate a shepherd’s pie, a caponata, some chestnut cake and some poppy seed cake.
+Tasty!
+And everybody was super nice.</p>
+
+<p><img loading="lazy" src="2025-08-02-uetliberg-12.jpg" alt="Echte Tollkirsche. Atropa belladonna." /></p>
+
+<p>Too bad the Einbeere (Paris quadrifolia) was out of focus.
+The fruit looks uncanningly similar, but it grows on a single stalk atop four leaves at right angles to each other.</p>
+
+<p><img loading="lazy" src="2025-08-02-uetliberg-13.jpg" alt="Stechender Hohlzahn (Artengruppe). Galeopsis tetrahit agg." />
+<img loading="lazy" src="2025-08-02-uetliberg-1.jpg" alt="Claudia and I, slightly wet, on the way up." />
+<img loading="lazy" src="2025-08-02-uetliberg-2.jpg" alt="A broad forest road in the forest with dramatic clouds above." />
+<img loading="lazy" src="2025-08-02-uetliberg-3.jpg" alt="Looking out over the city lying below the grey clouds." />
+<img loading="lazy" src="2025-08-02-uetliberg-4.jpg" alt="Grosse Klette. Arctium lappa." />
+<img loading="lazy" src="2025-08-02-uetliberg-5.jpg" alt="Gewöhnlicher Wasserdost. Eupatorium cannabinum." />
+<img loading="lazy" src="2025-08-02-uetliberg-6.jpg" alt="Another viewpoint showingn the northern end of the lake reaching into Zürich." />
+<img loading="lazy" src="2025-08-02-uetliberg-7.jpg" alt="Looking along the Albis, the ridge going south. On the left, the long banana-shaped lake of Zürich points south." /></p>
+
+<p>The Alps remained hidden by the clouds.</p>
+
+<p><img loading="lazy" src="2025-08-02-uetliberg-8.jpg" alt="The weather cleared up and we could see the Reppisch valley, and off to the right, the Knonaueramt." />
+<img loading="lazy" src="2025-08-02-uetliberg-9.jpg" alt="Wald Engelwurz. Angelica sylvestris." />
+<img loading="lazy" src="2025-08-02-uetliberg-10.jpg" alt="Behaarte Karde. Dipsacus pilosus." />
+<img loading="lazy" src="2025-08-02-uetliberg-11.jpg" alt="Jakobs-Greiskraut. Jacobaea vulgaris." /></p>
+
+<p>Plant identification via the app Flora Incognita.</p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-02-uetliberg>
+
+---
+
+**@John's World Wide Wall Display** (date: 2025-08-02, from: John's World Wide Wall Display)
+
+@manton is offering free blog hosting for teachers &#38; nurses on micro.blog. Micro blog is fully featured, should be especially interesting to teachers who want to own the content they share on social media. Micro.blogs cross posting is peerless. Of course for Scot&#8217;s teachers I&#8217;d recommend Glow. 
+
+<br> 
+
+<https://johnjohnston.info/blog/free-micro-blogging-for-teacher-nurses/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+A <a href="https://www.youtube.com/watch?v=Ikjmz_SlGhg">change</a> would do us good too. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a164129>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+I got <a href="https://en.wikipedia.org/wiki/Hoist_with_his_own_petard">hoisted</a> with my own Picard. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a164023>
+
+---
+
+## Ana Marie Cox on the Shaky Foundation of Substack as a Business
+
+date: 2025-08-02, updated: 2025-08-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+I have a lot of <a href="https://github.com/scripting?tab=repositories">code</a> written before ChatGPT. Sometimes, as I read my old code, I wonder how the h*ck I ever figured that out without it. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a144740>
+
+---
+
+## A fiscal recalibration
+
+date: 2025-08-02, from: Dave Rupert blog
+
+<p>After all our summer trips I buckled down last weekend and did some budgetting and I’ve realized I have to update the spreadsheet in my head. Here’s how much things cost in my outdated DaveBrain 2000 operating system:</p>
+<ul>
+<li>Fast food -$5/person = $20/family</li>
+<li>Snacks - $2.50/person = $10/family</li>
+</ul>
+<p>That –as my bank account is telling me– is super incorrect. The real numbers are much more like:</p>
+<ul>
+<li>Fast food - $12.50~$15/person = $50~$60/family</li>
+<li>Snacks  - $5~$7.50/person = $20~$30/family</li>
+</ul>
+<p>And groceries have gone up too. Woof. Hard times in the concrete jungle.</p>
+<p>We’re updating the database and cutting back on these obvious financial vampires. And we know when/why we tend to rely on them to get us through the week. So that’s good. But when you have kids –snack-reliant kids at that– introducing austerity measures like this is hard, because being a penny-pinching dick about money all the time probably isn’t good for them either.</p>
+<p>Don’t worry about me though. I’m lucky to have a great job and two kidneys, I’m sure I can sell one of them for a decent amount.</p>
+<p>Namaste.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/08/back-in-my-day-a-movie-cost-five-cents/>
+
+---
+
+## Substack Sends Notification Promoting Nazi Blog
+
+date: 2025-08-02, updated: 2025-08-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/07/substacks-nazi-problem-wont-go-away-after-push-notification-apology/>
+
+---
+
+## Getting Real With AI.
+
+date: 2025-08-02, from: Doc Searls (at Harvard), New Old Blog
+
+When I read that some conversations with ChatGPT had appeared in Google searches, I did a search for &#8220;Doc Searls&#8221; ChatGPT and got a long and not-bad but not entirely accurate AI summary below which normal-ish search results appeared. When I went back later to do the same search, the results were different. I tried [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/08/02/getting-real-with-ai/>
+
+---
+
+## 
+                The X11 SECURITY extension from the 1990ies
+            
+
+date: 2025-08-02, updated: 2025-08-02, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html>
+
+---
+
+## The Trumping of America | The Coffee Klatch for August 2, 2025
+
+date: 2025-08-02, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-trumping-of-america-the-coffee>
+
+---
+
+## August 1, 2025
+
+date: 2025-08-02, from: Heather Cox Richardson blog
+
+Economists have been expressing concern about the accuracy of economic statistics coming out of the Trump administration for months. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-1-2025>
+
+---
+
+## Weeknotes: July 26-Aug 1, 2025
+
+date: 2025-08-02, from: Tracy Durnell Blog
+
+Win of the week: my Fitbit yelled at me to exercise more over the weekend so I took a two hour nap instead 😎 Looking forward to: planning to bake Smitten Kitchen&#8217;s strawberry cream biscuits this weekend 😋 Stuff I did: 1.5 hours consulting 1 hour business development and admin 6.25 hours writing made overnight sourdough [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/01/weeknotes-july-26-aug-1-2025/>
+
+---
+
+## July 31, 2025
+
+date: 2025-08-02, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169901893/48d20b1312484d04b35658e892bb0ac2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169901893/48d20b1312484d04b35658e892bb0ac2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-31-2025-195>
 
 ---
 
@@ -2161,218 +2475,4 @@ If you had <a href="https://bsky.app/profile/scripting.com/post/3luuok552422m">a
 <br> 
 
 <http://scripting.com/2025/07/26.html#a001007>
-
----
-
-## July 25, 2025
-
-date: 2025-07-26, from: Heather Cox Richardson blog
-
- 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/july-25-2025-c14>
-
----
-
-## To Trust ICEBlock’s Anonymity, You Have to Trust Apple
-
-date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version>
-
----
-
-## New York Times’ Style Guide Substitutions for ‘The President Violated the Constitution’
-
-date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.mcsweeneys.net/articles/new-york-times-style-guide-substitutions-for-the-president-violated-the-constitution>
-
----
-
-## ‘Obsoless’ — Ken Pillonel’s Small-Batch Cases Bring USB-C Charging to Lightning iPhones
-
-date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.youtube.com/watch?v=KUXQzVD1TdI>
-
----
-
-## A social media ethos
-
-date: 2025-07-26, from: Dave Rupert blog
-
-<p>I’m trying to come up with an ethos of how I want to use social media. What rules and constraints do I put around it. This is a living document.</p>
-<p><strong>Rules for posting/reposting content:</strong></p>
-<ul>
-<li>Repost/Share cool links from the internet</li>
-<li>Repost/Share cool art (and credit whenever possible)</li>
-<li>Repost/Share people looking for work</li>
-<li>Doubly-so if the people above are in tech and from an underrepresented group</li>
-<li>Repost/Share job listing from reputable companies</li>
-<li>Then… if you’ve done all that, promote your own thing</li>
-</ul>
-<p><strong>General principles for me and my brain:</strong></p>
-<ul>
-<li>I have a bad habit of starting the day off with a goof, avoid this</li>
-<li>I like riffing and puns but it can have reply-guy vibes, limit this</li>
-<li>In any conversation you have 3 options: Be rude, Be nice, Say nothing – the latter is usually the most correct answer</li>
-<li>It’s okay to let people be wrong</li>
-<li>Write down the issues you allow yourself to get outraged over</li>
-<li>Read the room before posting</li>
-<li>You can block/mute any person or channel for any reason, it’s fun</li>
-<li>Research suggests it takes 23m15s to resume a task after a distraction!</li>
-<li>Raycast Focus is your friend</li>
-</ul>
-<p><strong>On specific social-media apps:</strong></p>
-<ul>
-<li>X is for Nazis and Russian bot nets, avoid.</li>
-<li>FB/Instgram are for family and friends, use on occasion.</li>
-<li>TikTok is a dopamine trap, avoid.</li>
-<li>YouTube is a dopamine trap, but useful.</li>
-<li>Bluesky is fine.</li>
-<li>Mastodon is for quality conversations.</li>
-<li>Discord is for like-minded communities, prioritize intimate ones.</li>
-<li>Log into LinkedIn once a month and give some thumbs-ups. It supports your friends and colleagues in the algorithmic trash fire and that <em>handshakefullness</em> and relationship building might be helpful in the future if you need a job.</li>
-</ul> 
-
-<br> 
-
-<https://daverupert.com/2025/07/social-media-ethos/>
-
----
-
-## Intel Needs a Big Customer for Foundry Business to Survive
-
-date: 2025-07-26, updated: 2025-07-26, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.reuters.com/world/asia-pacific/intels-foundry-future-depends-securing-customer-next-gen-chipmaking-tech-2025-07-25/>
-
----
-
-## goo.gl, Google’s Link Shortener, Will Stop Working Next Month
-
-date: 2025-07-26, updated: 2025-07-28, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline>
-
----
-
-## The Satya of Satya’s Layoff Memo
-
-date: 2025-07-26, from: Om Malik blog
-
-To paraphrase Sigmund Freud, sometimes a memo&#160;is&#160;not just a memo.&#160;That’s&#160;why we have to read between the lines of Satya&#160;Nadella’s 1,150-word&#160;memo.&#160;Microsoft’s&#160;chairman and&#160;CEO,&#160;in his&#160;message,&#160;tried to rationalize the&#160;9,000-employee&#160;layoff. I was interested in how he was positioning the AI-based disruption in the software industry. This memo is not just about Microsoft. In a&#160;way,&#160;it’s&#160;a weather forecast for the rest of &#8230; 
-
-<br> 
-
-<https://om.co/2025/07/26/the-satya-of-satyas-layoff-memo/>
-
----
-
-## In fewest words, yes.
-
-date: 2025-07-26, from: Doc Searls (at Harvard), New Old Blog
-
-Here is my answer to the question Does SiriusXM know what station you are listening to? The SiriusXM streaming app logs what you listen to, when, and how you interact with programs and channels across your devices (phone, pad, smart speaker, website through your browser, whatever). This data is used to personalize your “experience” (as [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/07/26/in-fewest-words-yes/>
-
----
-
-## New Life for LIVE
-
-date: 2025-07-26, from: Doc Searls (at Harvard), New Old Blog
-
-Colbert&#8217;s cancellation looks political, but it&#8217;s not. The show was a ratings winner, but a money loser. And the ratings for all of late night, like all of live TV, have been in decline for decades, along with the question, &#8220;What&#8217;s on?&#8221; We live in the Age of Optionality now. Watch or listen to whatever [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/07/26/new-life-for-live/>
-
----
-
-## 4chan Clowns Find Open Database of Images From Viral Women’s Dating Safety App ‘Tea’
-
-date: 2025-07-26, updated: 2025-07-29, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/>
-
----
-
-## Face with Tears of Joy publication round-up
-
-date: 2025-07-26, from: Shady Characters blog
-
-<p>It has been a busy few weeks! <a href="https://shadycharacters.co.uk/books/face-with-tears-of-joy/"><cite>Face with Tears of Joy</cite></a> was published back on the 1<sup>st</sup> of July in the <abbr class="initialism">US</abbr> and on the 17<sup>th</sup> everywhere else. I’ve been lucky enough to talk and write about the book in a number of different venues, and for the book itself to be reviewed in a variety of places. Here’s a quick round-up of it all.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-publication-round-up/">Read more →</a> 
-
-<br> 
-
-<https://shadycharacters.co.uk/2025/07/face-with-tears-of-joy-publication-round-up/>
-
----
-
-## Will Ghislaine Pardon Trump? | The Coffee Klatch for July 26, 2025
-
-date: 2025-07-26, from: Robert Reich's blog
-
-With Heather Lofthouse, guest Elliot Kirschner, and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169261459/974fd3f102864fd0a31f4248d2e86ee2.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/169261459/974fd3f102864fd0a31f4248d2e86ee2.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/will-ghislaine-pardon-trump-the-coffee>
-
----
-
-## Weeknotes: July 19-25, 2025
-
-date: 2025-07-26, from: Tracy Durnell Blog
-
-Win of the week: dropped off electronics recycling at Staples &#8212; they took everything but a string of fairy lights &#8212; and five boxes of clothes donations / textile recycling 📦♻️ Looking forward to: getting rid of more accumulated junk 🦾 Stuff I did: 7.25 hours writing &#8212; met my goal of 7 hours 🙌 took [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/07/25/weeknotes-july-19-25-2025/>
-
----
-
-## July 25, 2025
-
-date: 2025-07-26, from: Heather Cox Richardson blog
-
-&#8220;We&#8217;re going to end up shooting some of them.&#8221; 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/july-25-2025>
 

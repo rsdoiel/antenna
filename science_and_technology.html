@@ -28,7 +28,231 @@
 Items collected from feeds in <a href="science_and_technology.txt">science_and_technology.txt</a>
 </div>
 <h1 id="science-and-technology">science and technology</h1>
-<p>(date: 2025-08-02 14:07:57)</p>
+<p>(date: 2025-08-03 06:08:19)</p>
+<hr />
+<h2
+id="silent-push-ceo-on-cybercrime-takedowns-its-an-ongoing-cat-and-mouse-game">Silent
+Push CEO on cybercrime takedowns: ‘It’s an ongoing cat-and-mouse
+game’</h2>
+<p>date: 2025-08-03, updated: 2025-08-03, from: The Register (UK I.T.
+News)</p>
+<h4>
+Plus: why takedowns aren't in threat-intel analysts' best interest
+</h4>
+<p>
+<strong>interview</strong>  It started out small: One US financial
+services company wanted to stop unknown crooks from spoofing their
+trading app, tricking customers into giving the digital thieves their
+login credentials and account information, thus allowing them to drain
+their accounts.…
+</p>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/feed/www.theregister.com/2025/08/03/silent_push_ceo_talks_cybercrime/"
+class="uri">https://go.theregister.com/feed/www.theregister.com/2025/08/03/silent_push_ceo_talks_cybercrime/</a></p>
+<hr />
+<h2
+id="capacity-planning-a-rising-concern-for-datacenter-operators-as-ai-grows">Capacity
+planning a rising concern for datacenter operators as AI grows</h2>
+<p>date: 2025-08-03, updated: 2025-08-03, from: The Register (UK I.T.
+News)</p>
+<h4>
+New Uptime survey flags cost, power, outages
+</h4>
+<p>
+Being able to forecast future capacity requirements is a growing concern
+for datacenter operators as they face conflicting factors such as rising
+costs, power constraints, and meeting the demands of AI workloads.…
+</p>
+<p>
+<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->
+</p>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/feed/www.theregister.com/2025/08/03/capacity_planning_concern_datacenter_ops/"
+class="uri">https://go.theregister.com/feed/www.theregister.com/2025/08/03/capacity_planning_concern_datacenter_ops/</a></p>
+<hr />
+<h2 id="the-x11-security-extension-from-the-1990s">The X11 SECURITY
+extension from the 1990s</h2>
+<p>date: 2025-08-02, from: OS News</p>
+<p>Security isn’t exactly a strong point of X11, and improving it is one
+of the main reasons why Wayland is such a vast improvement over X11.
+Just one of the many examples of X11 being inherently insecure is that
+keyloggers are entirely trivial on X11, because keylogger functionality
+is effectively built into it. Of course, this isn’t exactly news, and as
+Peter Hofmann details, there is an old X11 extension that adds somewhat
+rudimentary security to X11: the X11 SECURITY extension. This extension
+is part of every X.org installation, but it hasn’t seen any meaningful
+work in a long, long time. What it does is allow you to do is set X11
+clients as “trusted” and “untrusted”, where untrusted clients cannot
+interact with tusted ones. This provides some basic security – it
+actually prevents keylogging! – but only very basic, as Hoffman notes:
+The thing is that it’s immediately clear that this extension — in its
+current state — is not the answer to “X11 is insecure”: You only have
+two classes, trusted and untrusted. That’s not enough. For example: When
+you run your browser as untrusted, you can’t simultaneously run some
+sandboxed program (Snap, Flatpak, …) in a meaningful way, because those
+two clients can spy on each other again. You want a proper per-client
+isolation instead. Sandboxing plays an important role here. If you run
+programs “the traditional way” (i.e., full access to the filesystem and
+network), then an attacker can do all kinds of things and X11 keylogging
+is just one of a million concerns. ↫ Peter Hofmann but it also happens
+to break a lot of things, and many applications simply don’t work with
+it at all. Oddly enough, Firefox has no issues with it, and will happily
+run in untrusted mode. The biggest problem, however, is that untrusted
+clients only have access to exactly two other X11 extensions, which
+leads to a whole host of problems, like no scaling, broken keyboard
+layouts, no 3D acceleration, and so on. On top of all of that, it breaks
+clipboard functionality, as anything copied in an untrusted client
+cannot be pasted anywhere else. As such, Hoffman concludes: In its
+current state, I’d say the SECURITY extension is “somewhat useful”, but
+more work would have to be done. Both in X.Org and in the clients. You
+would have to come up with a new clipboard protocol, for example. And
+the list goes on. (See where I’m going with this?) It’s not that simple.
+↫ Peter Hofmann Since pretty much nobody adopted it when this extension
+came out in the ’90s, and it hasn’t seen much work since, the amount of
+work that would be required to bring it up to modern standards would be
+astronomical, and trying to get clients to adopt it would probably prove
+fruitless considering Wayland already exists, and offers all of the
+potential security benefits and then some. People often claim it would
+be “easy” to modernise X11, but just this one particular issue –
+security, kind of important – shows just how quickly the X11 house of
+cards comes crashing down if you try to do anything to drag it out of
+its ’80s and ’90s mindset.</p>
+<p><br></p>
+<p><a
+href="https://www.osnews.com/story/142962/the-x11-security-extension-from-the-1990s/"
+class="uri">https://www.osnews.com/story/142962/the-x11-security-extension-from-the-1990s/</a></p>
+<hr />
+<h2
+id="patchworkos-a-64bit-non-posix-os-where-everything-is-a-file">PatchworkOS:
+a 64bit non-POSIX OS where everything is a file</h2>
+<p>date: 2025-08-02, from: OS News</p>
+<p>Patchwork is a 64-bit monolithic NON-POSIX operating system for the
+x86_64 architecture that rigorously follows a “everything is a file”
+philosophy. Built from scratch in C it takes many ideas from Unix,
+Plan9, DOS and others while simplifying them and sprinkling in some new
+ideas of its own. ↫ PatchworkOS GitHub page Patchwork is a surprisingly
+advanced operating system considering it’s a hobby project. It has
+multithreading with a constant-time scheduler, fully preemptive
+mutitasking, SMP, file-based IPC (including pipes, shared
+memory, sockets and Plan9 inspired “signals” called notes), and much
+more. It also uses a Linux-style VFS and has a custom C standard
+library. On top of that, there’s a modular window manager that supports
+themes, in which everything is a window, and so much more. It supports
+x86_64, but only supports running in RAM. It’s licensed under the MIT
+license.</p>
+<p><br></p>
+<p><a
+href="https://www.osnews.com/story/142960/patchworkos-a-64bit-non-posix-os-where-everything-is-a-file/"
+class="uri">https://www.osnews.com/story/142960/patchworkos-a-64bit-non-posix-os-where-everything-is-a-file/</a></p>
+<hr />
+<h2 id="vibe-coding-your-profession-into-irrelevance">Vibe-coding your
+profession into irrelevance</h2>
+<p>date: 2025-08-02, from: OS News</p>
+<p>Claude Code has considerably changed my relationship to writing and
+maintaining code at scale. I still write code at the same level of
+quality, but I feel like I have a new freedom of expression which is
+hard to fully articulate. Claude Code has decoupled myself from writing
+every line of code, I still consider myself fully responsible for
+everything I ship to Puzzmo, but the ability to instantly create a whole
+scene instead of going line by line, word by word is incredibly
+powerful. ↫ Orta Therox Oh sweet Summer child. As a former translator, I
+can tell you that’s how it starts. As time goes on, your clients or your
+manager will demand more and more code from you. You will stop checking
+every line to meet the deadlines. Maybe you just stop checking the
+boilerplate at first, but it won’t stay that way. As pressure to be more
+“productive” mounts, you’ll start checking fewer and fewer lines. Before
+you know it, your client or manager will just give you entire
+autogenerated swaths of code, and your job will be to just go over it,
+making sure it kind of works. Before long, you realise there are fewer
+and fewer of you. Younger and less-skilled “developers” can quickly go
+over autogenerated code just as well as you do – but they’re way
+cheaper. You see the quality of the code you sign off on deteriorate
+rapidly, but you have no time, and not enough pay, to rewrite the
+autogenerated code. It works, kind of, and that will have to be enough.
+The autogenerated codebases you’re supposed to be checking and fixing
+are so large now, you’re no longer even really checking anything
+anymore. Quick, cursory glances, that’s all you have time for and can
+afford. Documentation and commenting code went out the window a long
+time ago, and every line of code scrolling across your screen is more
+tech debt you don’t care about, because it’s not your code anyway. And
+then it hits you. There’s no skill here. There’s no art here. You’re no
+longer a programmer. There’s no career prospects. Scrolling past shitty
+autogenerated code day in, day out, without the time or pay to wrangle
+it into something to be proud of, is the end of the line for you. Speak
+up about it, and you’ll be replaced by someone cheaper. The first time I
+was given a massive pile of autotranslated text to revise, without
+enough time and pay to ensure I was delivering a quality product, I quit
+and left the translation industry instantly. Like programming,
+translating is part skill, part art, and I didn’t get two university
+degrees in language and translation just to deliver barely passable
+trash. I took pride in my work, and I wasn’t going to let anyone put my
+name under a garbage product. Programmers, you’re next. Will you have
+the stones to stand by your art?</p>
+<p><br></p>
+<p><a
+href="https://www.osnews.com/story/142956/vibe-coding-yourself-into-irrelevance/"
+class="uri">https://www.osnews.com/story/142956/vibe-coding-yourself-into-irrelevance/</a></p>
+<hr />
+<h2
+id="long-live-the-nub-thinkpad-designer-david-hill-spills-secrets-designs-that-never-made-it">Long
+live the nub: ThinkPad designer David Hill spills secrets, designs that
+never made it</h2>
+<p>date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T.
+News)</p>
+<h4>
+We almost got more butterfly keyboards and foldable workstations
+</h4>
+<p>
+<strong>Interview</strong>  Launched in 1992, the boxy black ThinkPad
+with its little red nub remains the quintessential business productivity
+notebook. Unlike commercial offerings from competitors such as Dell and
+HP, Lenovo's laptop has a following of people who collect old models and
+celebrate each new innovation.…
+</p>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/feed/www.theregister.com/2025/08/02/thinkpad_david_hill_interview/"
+class="uri">https://go.theregister.com/feed/www.theregister.com/2025/08/02/thinkpad_david_hill_interview/</a></p>
+<hr />
+<h2
+id="reddit-is-people-which-means-its-search-might-not-be-so-damaged-by-ai-slop">Reddit
+is people! Which means its search might not be so damaged by AI
+slop</h2>
+<p>date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T.
+News)</p>
+<h4>
+Community content site aims to profit from real conversation
+</h4>
+<p>
+Reddit has found that trafficking in human-authored content pays well in
+the AI era.…
+</p>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/feed/www.theregister.com/2025/08/02/reddit_ready_for_search_business/"
+class="uri">https://go.theregister.com/feed/www.theregister.com/2025/08/02/reddit_ready_for_search_business/</a></p>
+<hr />
+<h2
+id="cisa-roasts-unnamed-critical-national-infrastructure-body-for-shoddy-security-hygiene">CISA
+roasts unnamed critical national infrastructure body for shoddy security
+hygiene</h2>
+<p>date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T.
+News)</p>
+<h4>
+Plaintext passwords, shared admin accounts, and insufficient logging
+rampant at mystery org
+</h4>
+<p>
+CISA is using the findings from a recent probe of an unidentified
+critical infrastructure organization to warn about the dangers of
+getting cybersecurity seriously wrong.…
+</p>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/feed/www.theregister.com/2025/08/02/cisa_coast_guard_cni/"
+class="uri">https://go.theregister.com/feed/www.theregister.com/2025/08/02/cisa_coast_guard_cni/</a></p>
 <hr />
 <h2
 id="florida-jury-throws-huge-fine-at-tesla-in-autopilot-crash">Florida
@@ -3743,44 +3967,6 @@ online misinformation.…
 <p><a
 href="https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/"
 class="uri">https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/</a></p>
-<hr />
-<h2
-id="congress-tries-to-outlaw-ai-that-jacks-up-prices-based-on-what-it-knows-about-you">Congress
-tries to outlaw AI that jacks up prices based on what it knows about
-you</h2>
-<p>date: 2025-07-26, updated: 2025-07-26, from: The Register (UK I.T.
-News)</p>
-<h4>
-Surveillance-based pricing? Two lawmakers say enough
-</h4>
-<p>
-Two Democratic members of Congress, Greg Casar (D-TX) and Rashida Tlaib
-(D-MI,) have introduced legislation in the US House of Representatives
-to ban the use of AI surveillance to set prices and wages.…
-</p>
-<p><br></p>
-<p><a
-href="https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/"
-class="uri">https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/</a></p>
-<hr />
-<h2
-id="blame-a-leak-for-microsoft-sharepoint-attacks-researcher-insists">Blame
-a leak for Microsoft SharePoint attacks, researcher insists</h2>
-<p>date: 2025-07-26, updated: 2025-07-28, from: The Register (UK I.T.
-News)</p>
-<h4>
-Follow the MAPP
-</h4>
-<p>
-A week after Microsoft told the world that its July software updates
-didn't fully fix a couple of bugs, which allowed miscreants to take over
-on-premises SharePoint servers and remotely execute code, researchers
-have assembled much of the puzzle — with one big missing piece.…
-</p>
-<p><br></p>
-<p><a
-href="https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/"
-class="uri">https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.

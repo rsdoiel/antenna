@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-08-02 14:07:54
+updated: 2025-08-03 06:08:16
 ---
 
 # north america
 
-(date: 2025-08-02 14:07:54)
+(date: 2025-08-03 06:08:16)
+
+---
+
+## Why Bove’s Bitter at You, Contrarians
+
+date: 2025-08-02, from: The Contrarian
+
+Publisher's Roundup 29 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-boves-bitter-at-you-contrarians>
+
+---
+
+##  YOU LOVE TO SEE IT: Dialing Up Prison Reform 
+
+date: 2025-08-02, from: The Lever News
+
+ Prison calls get reformed, school’s back on, the Big Apple is electrified, and a humanitarian program is spared.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-dialing-up-prison-reform/>
 
 ---
 
@@ -820,28 +844,4 @@ date: 2025-07-27, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-open-wide/>
-
----
-
-## Contrarians Fight Trump’s Illegal Abductions
-
-date: 2025-07-26, from: The Contrarian
-
-Publisher's Roundup 28 
-
-<br> 
-
-<https://contrarian.substack.com/p/contrarians-fight-trumps-illegal>
-
----
-
-##  YOU LOVE TO SEE IT: A Cure For Debt 
-
-date: 2025-07-26, from: The Lever News
-
- Hospital bills are wiped clean, writers win against chatbots, a bill beats the heat, and foreign aid is saved.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-a-cure-for-debt/>
 

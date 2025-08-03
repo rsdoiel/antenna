@@ -1,11 +1,187 @@
 ---
 title: socal north
-updated: 2025-08-02 14:07:55
+updated: 2025-08-03 06:08:17
 ---
 
 # socal north
 
-(date: 2025-08-02 14:07:55)
+(date: 2025-08-03 06:08:17)
+
+---
+
+## For farms struggling with commercial bee loss, California native plants and bees could be key
+
+date: 2025-08-03, updated: 2025-08-03, from: The LAist
+
+Research is showing that California native plants growing next to, say, avocado groves is good for the orchard and for all kinds of pollinators. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-native-plants-and-bees-farming>
+
+---
+
+## ‘Sunset Boulevard’ gets a new restoration — and screenings— for 75th birthday
+
+date: 2025-08-03, updated: 2025-08-03, from: The LAist
+
+We talked with one of the people behind making the sound of the classic film sing. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/sunset-boulevard-film-restoration-screenings-75th-birthday>
+
+---
+
+## Join Us for the 30th Annual River Rally Cleanup
+
+date: 2025-08-02, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin “Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.” – Dr. Seuss The heartbeat of a healthy community lies not just in its people but in how it cares for the natural spaces that surround it. Here in Santa Clarita, we are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/02/join-us-for-the-30th-annual-river-rally-cleanup/">Join Us for the 30th Annual River Rally Cleanup</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/02/join-us-for-the-30th-annual-river-rally-cleanup/>
+
+---
+
+## Tea app encouraged its users to spill about their online matches. Then the data got leaked
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+A popular women's dating advice app suffered a major data breach, revealing users' drivers' licenses, messages and other sensitive information. The hack put a spotlight on the flaws in "whisper networks." 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/tea-encouraged-its-users-to-spill-then-the-apps-data-got-leaked>
+
+---
+
+## A jury orders Tesla to pay more than $240 million in Autopilot crash
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+A Miami jury decided Tesla was partly responsible for a deadly 2019 crash in Florida involving its Autopilot driver assist technology. The automaker said it will appeal. 
+
+<br> 
+
+<https://laist.com/news/transportation/a-jury-orders-tesla-to-pay-more-than-240-million-in-autopilot-crash>
+
+---
+
+## Music festival coming to Inglewood this weekend. Everywhere around is bracing for noise
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+HARD Summer music festival is happening, again, this weekend in Inglewood. Last year, the two-day event spurred hundreds of noise complaints. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/edm-festival-coming-this-weekend-in-inglewood-this-weekend-communities-all-over-are-bracing-for-noise>
+
+---
+
+## Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says
+
+date: 2025-08-02, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Speed, distracted driving, and impaired driving do not appear to have contributed to this collision," police said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says">Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says>
+
+---
+
+## Trump's impeachments have been removed from a Smithsonian exhibit, for now
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+The Smithsonian says a reference to President Trump's impeachments that was removed last month will be restored once the exhibit is updated. 
+
+<br> 
+
+<https://laist.com/news/trumps-impeachments-have-been-removed-from-a-smithsonian-exhibit-for-now>
+
+---
+
+## Trump calls for firing of senior Labor official after job market weakens in July
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+Trump called for the firing of the Labor statistics official after data earlier showed employers added just 73,000 jobs in July, while job gains for the previous two months were largely erased. 
+
+<br> 
+
+<https://laist.com/news/trump-calls-for-firing-of-senior-labor-official-after-job-market-weakens-in-july>
+
+---
+
+## Art of the praise: Why flattering Trump is now the go-to diplomatic move
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+World leaders have lavished praise on President Trump in order to smooth diplomatic relations — and get better deals too. 
+
+<br> 
+
+<https://laist.com/news/politics/art-of-the-praise-why-flattering-trump-is-now-the-go-to-diplomatic-move>
+
+---
+
+## Appeals court keeps block on indiscriminate immigration sweeps in Southern California
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+A federal appeals court ruled Friday to uphold a lower court's temporary block, citing "mountain of evidence" that tactics violate Constitution. 
+
+<br> 
+
+<https://laist.com/news/appeals-court-keeps-order-blocking-indiscriminate-immigration-sweeps>
+
+---
+
+## This Hollywood composer is bringing people on the autism spectrum together through bluegrass
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+Spectrum Bluegrass is a new group dedicated to connecting neurodiverse people through guitars, banjos and mandolins. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/this-hollywood-composer-is-bringing-people-on-the-autism-spectrum-together-through-bluegrass>
+
+---
+
+## The biggest K-Pop celebration in the country is back in LA
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+It's all about the fandom at KCON LA. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-biggest-k-pop-bash-in-the-country-is-back-in-la>
+
+---
+
+## Long Beach man charged with sending money to terrorist group
+
+date: 2025-08-02, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities say they arrested him Friday and found what appeared to be a bomb in his bedroom.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group">Long Beach man charged with sending money to terrorist group</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group>
 
 ---
 
@@ -1532,132 +1708,4 @@ As Texas moves forward with an off-cycle redistricting to shore up Republicans�
 <br> 
 
 <https://laist.com/news/politics/newsom-ramps-up-california-redistricting-threat-as-texas-weighs-new-republican-maps>
-
----
-
-## Staying Cool and Prepared This Summer
-
-date: 2025-07-26, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Summer in Santa Clarita is a time to enjoy all of the outdoor recreation opportunities, from hiking and biking trails in our open spaces to community events and relaxing days by the pool. Along with summer fun comes a very real and growing concern – extreme heat and the dangers [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/07/26/staying-cool-and-prepared-this-summer/">Staying Cool and Prepared This Summer</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/07/26/staying-cool-and-prepared-this-summer/>
-
----
-
-## The company behind Coldplay 'kiss cam' scandal scores a Hollywood connection
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-Not surprising: Astronomer is poking fun at its newfound infamy. Very surprising: It's hired a big Hollywood name to do it. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/gwyneth-paltrow-debuts-as-a-very-temporary-spokesperson-for-kisscam-sastronomer>
-
----
-
-## He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement
-
-date: 2025-07-26, from: Longbeach Post
-
-<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/23141326/23jul25-7-23-25-walls-5-459828-ddod9oj3-260834-mZ19yIxQ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Brian Peterson is undertaking a project that’s nearly twice as tall as his previous height record. It will end up being one of the most noticeable art pieces in Long Beach.</p>
-<p>The post <a href="https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean">He’s painting a 12-story mural in the heart of downtown; here’s his message of encouragement</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/place/giant-mural-downtown-long-beach-marriott-pine-ocean>
-
----
-
-## Trump is in Scotland. The Epstein questions have followed him there
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-President Trump is expected to spend much of his time at his golf courses. He'll also meet with British Prime Minister Keir Starmer and European Commission President Ursula von der Leyen. 
-
-<br> 
-
-<https://laist.com/news/trump-is-in-scotland-the-epstein-questions-have-followed-him-there>
-
----
-
-## Trump’s crackdown on homelessness: What does it mean for California?
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-Trump’s call to enforce bans on encampments echoes Gov. Gavin Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
-
----
-
-## Trump’s crackdown on homelessness: What does it mean for California?
-
-date: 2025-07-26, from: Longbeach Post
-
-<figure><img width="1024" height="676" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1024x676.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-300x198.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-768x507.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-164x108.webp 164w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1536x1014.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1200x792.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-1568x1035.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D-400x264.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/26074254/032223-sd-encampment-ban-kc-cm-05-615857-wyjw66es-008310-wvwTv60D.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Trump’s call to enforce bans on encampments echoes Newsom’s policy. But the president wants to upend two other core tenants of California’s homelessness response.</p>
-<p>The post <a href="https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california">Trump’s crackdown on homelessness: What does it mean for California?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/politics/trumps-crackdown-on-homelessness-what-does-it-mean-for-california>
-
----
-
-## ICE sweeps spur citizen patrols on Terminal Island — and troubling World War II memories
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-The island in the Port of Los Angeles is a staging ground for federal agents. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/ice-raids-immigration-japanese-american-terminal-island>
-
----
-
-## Boyle Heights restaurants are on the brink in wake of ICE raids: ‘I don’t know how much longer we can do this’
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-In a survey of more than a dozen local restaurants, several reported losing 50% or more of their customers or revenue over the last several weeks. 
-
-<br> 
-
-<https://laist.com/news/boyle-heights-restaurants-are-on-the-brink-in-wake-of-ice-raids>
-
----
-
-## A grenade connected to the explosion that killed 3 deputies remains missing, officials warn
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-An investigation into the blast remains ongoing, but policy changes for handling explosives are changing. 
-
-<br> 
-
-<https://laist.com/news/missing-grenade-explosion-3-deputies-killed>
-
----
-
-## California schools regain federal money they counted on after Trump releases hold
-
-date: 2025-07-26, updated: 2025-07-26, from: The LAist
-
-After withholding roughly $900 million from California’s K-12 and adult schools, the Education Department said today that it will release the money starting next week. But schools must agree to certain conditions first. 
-
-<br> 
-
-<https://laist.com/news/education/california-schools-regain-federal-money-they-counted-on-after-trump-releases-hold>
 

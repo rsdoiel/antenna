@@ -1,11 +1,762 @@
 ---
 title: planet
-updated: 2025-08-02 14:07:52
+updated: 2025-08-03 06:08:14
 ---
 
 # planet
 
-(date: 2025-08-02 14:07:52)
+(date: 2025-08-03 06:08:14)
+
+---
+
+## Palestinians urge international pressure as Gaza deaths from starvation rise
+
+date: 2025-08-03, from: Vatican News
+
+
+                    <p>The Palestinian government on Sunday called on the international community to intensify pressure on Israel to fully reopen border crossings into Gaza, citing worsening humanitarian conditions.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/palestine-appeal-internationla-community-israel-starvation-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/palestine-appeal-internationla-community-israel-starvation-war.html>
+
+---
+
+## 'Just impossible' - Students on accommodation shortage
+
+date: 2025-08-03, from: RTÉ News
+
+The University of Galway has sent out 40,000 fliers asking people in the city to make accommodation available for students ahead of the new semester. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0803/1526751-student-accommodation-galway/>
+
+---
+
+## Man, 59, charged in connection with €2m cannabis seizure
+
+date: 2025-08-03, from: RTÉ News
+
+A 59-year-old man has appeared before a special sitting of Cork District Court charged in connection with the seizure of 107kg of herbal cannabis with an estimated street value of €2.1m earlier this week. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0803/1526757-cannabis-court/>
+
+---
+
+## Indian man warns community to be cautious after assault
+
+date: 2025-08-03, from: RTÉ News
+
+An Indian data scientist who was set upon and beaten by a group of teenagers in Dublin has warned other members of his community not to go out alone, and be cautious at all times. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0803/1526754-attack-dublin/>
+
+---
+
+## Ukrainian drones spark fire at Sochi oil depot
+
+date: 2025-08-03, from: RTÉ News
+
+An overnight Ukrainian drone attack sparked a fire at an oil depot in Sochi, the Russian resort that hosted the 2014 Winter Olympic Games, around 400km from the Ukrainian border, authorities have said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0803/1526752-ukraine-russia/>
+
+---
+
+## Pope exhorts crowd of million Catholics to spread faith
+
+date: 2025-08-03, from: RTÉ News
+
+Pope Leo has celebrated the largest event yet of his nearly three-month tenure, encouraging a crowd of more than a million Catholic young people gathered in a field on the outskirts of Rome to spread their faith. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0803/1526750-pope-leo/>
+
+---
+
+## Pope Leo: We are with the young people of Gaza, Ukraine and war-torn lands
+
+date: 2025-08-03, from: Vatican News
+
+
+                    <p>At the conclusion of the closing Mass for the Jubilee of Youth, Pope Leo remembers young people suffering "the most serious evils" caused by other human beings, mentioning specifically war-torn Gaza, Ukraine, and "every land bloodied by war."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-we-are-with-young-people-of-gaza-ukraine-war-torn-lands.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-we-are-with-young-people-of-gaza-ukraine-war-torn-lands.html>
+
+---
+
+## Person dies after arson attack on car in Co Tyrone
+
+date: 2025-08-03, from: RTÉ News
+
+A person has died following an arson attack on a car in Co Tyrone. Police said a body was discovered after the blaze was extinguished in the Rylagh Road area of Omagh yesterday afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0803/1526741-omagh-fire-death/>
+
+---
+
+## Storm Floris set to bring 'unseasonably windy weather'
+
+date: 2025-08-03, from: RTÉ News
+
+Met Éireann has warned Storm Floris is set to bring "wet and unseasonably windy weather" as councils issue advice ahead of its arrival. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0803/1526732-storm-floris/>
+
+---
+
+##  Pope at Youth Mass: The Lord is gently knocking at the window of your soul
+
+date: 2025-08-03, from: Vatican News
+
+
+                    <p>During the Mass for the Jubilee of Young People at Tor Vergata, Pope Leo XIV reminds the young people that Jesus is our hope, and urges them to "adventure with the Lord toward eternity" as the Lord is "gently knocking" at the window of their soul.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-at-youth-jubilee-mass-adventure-with-the-lord.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-at-youth-jubilee-mass-adventure-with-the-lord.html>
+
+---
+
+## Aid group says Israeli attack killed staff member in Gaza
+
+date: 2025-08-03, from: RTÉ News
+
+The Palestine Red Crescent Society has said one of its staff members was killed and three others wounded in an Israeli attack on its Khan Younis headquarters in Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0803/1526721-middle-east-israel-gaza/>
+
+---
+
+## Pope Leo to SECAM: May your work 'foster an intense experience of the love of God'
+
+date: 2025-08-03, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a message to the 20th Plenary Assembly of the Symposium of Episcopal Conferences of Africa and Madagascar (SECAM), praying their deliberations on the theme of 'Christ, Source of Hope, Reconciliation and Peace' will highlight "the importance of fostering an intense experience of the love of God that awakens in hearts the sure hope of salvation in Christ..."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-telegram-message-secam-20th-plenary-assembly.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-telegram-message-secam-20th-plenary-assembly.html>
+
+---
+
+## Can Trump's threatened tariffs make Russia end its war?
+
+date: 2025-08-03, from: RTÉ News
+
+US President Donald Trump gave Russia an ultimatum earlier this week to end its war in Ukraine: sign up to a ceasefire agreement by next Friday or face heavy US tariffs on Russia goods. Can the threat of high tariffs make Russia end its war? 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0803/1526613-russia-ukraine-trump-tariffs/>
+
+---
+
+## Thousands gather in Wexford for opening day of the Fleadh
+
+date: 2025-08-03, from: RTÉ News
+
+Thousands of people are expected to gather for the opening day of Fleadh Cheoil na hÉireann 2025, which is being held in Wexford town for the second year in a row. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0803/1526683-fleadh-wexford/>
+
+---
+
+## 'What is real and what is not' - AI rules come into force
+
+date: 2025-08-03, from: RTÉ News
+
+The latest phase of the EU's AI Act means the Government must put structures in place to police the companies providing AI tools, with those involved in the sector urging for preparations to govern the rules to be started. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0803/1526576-eu-ai-act/>
+
+---
+
+## 'I never got into the business to be famous' - Donovan
+
+date: 2025-08-03, from: RTÉ News
+
+Jason Donovan is returning to Dublin to play Dr Frank N. Furter in the latest touring production of The Rocky Horror Show. He talks to RTÉ Entertainment's John Byrne about the show and his career. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0803/1526652-i-never-got-into-the-business-to-be-famous/>
+
+---
+
+## US agency opens probe into official who prosecuted Trump
+
+date: 2025-08-03, from: RTÉ News
+
+A US federal agency has opened a formal investigation into former Special Counsel Jack Smith, who oversaw two criminal probes into President Donald Trump following his first term in the White House. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0803/1526717-trump-smith-us/>
+
+---
+
+## Legal proceedings in McGregor case not yet at an end
+
+date: 2025-08-02, from: RTÉ News
+
+Legal proceedings in the Conor McGregor civil action taken by Nikita Hand are not at an end following the Court of Appeal's decision on Thursday, writes Legal Affairs Correspondent Órla O'Donnell. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0803/1526684-mcgregor-court/>
+
+---
+
+## Mixed leaves and spinach among eight products recalled
+
+date: 2025-08-02, from: RTÉ News
+
+Batches of eight spinach, mixed leaves, rocket and lettuce products sold in Irish supermarkets have been recalled due to the detection of listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526710-spinach-recall-fsai/>
+
+---
+
+## Pope Leo tells thousands of youth to build better world
+
+date: 2025-08-02, from: RTÉ News
+
+Tens of thousands of young people filled a vast field on the outskirts of Rome to see Pope Leo, in the largest event yet of the new Catholic pontiff's tenure. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0802/1526707-pope-address-rome/>
+
+---
+
+## U.S. watchdog launches investigation into former Trump prosecutor Jack Smith
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600527.1754178364!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/presidents-rhetoric.jpg' alt='A person speaks at a lectern.' width='620' height='349' title='FILE - Special counsel Jack Smith speaks about an indictment of former President Donald Trump, Tuesday, Aug. 1, 2023, at a Department of Justice office in Washington. (AP Photo/Jacquelyn Martin, File)'/><p>The Office of Special Counsel investigation is the latest in a series of actions taken by U.S. President Donald Trump and his allies against their perceived political enemies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/jack-smith-special-counsel-hatch-act-trump-prosecutor-investigation-1.7600525?cmp=rss>
+
+---
+
+## Pope answers questions from pilgrims at Jubilee of Youth
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>An estimated million young people gather in the outskirts of Rome for the Jubilee of Youth prayer vigil. Three of them ask him questions: about friendship, life choices, and encountering Jesus.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-answers-questions-from-pilgrims-at-jubilee-of-youth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-answers-questions-from-pilgrims-at-jubilee-of-youth.html>
+
+---
+
+## A tale of spiritual resilience from the heart of Gaza
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>In this letter from Gaza, a young woman, displaced by Israeli bombings, who has found shelter in the compound of the Holy Family Church in Gaza City, reflects on how, despite the pain and fear her community is subjected to every day, their faith in God remains the only light that illuminates our dark paths.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/helda-ayyad-gaza-displaced-holy-family-church.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/helda-ayyad-gaza-displaced-holy-family-church.html>
+
+---
+
+## Witnesses of faith on a Jubilee pilgrimage of hope
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Three young pilgrims of hope offer powerful testimonies of faith, rediscovery, and love at the pre-vigil of the Jubilee of Youth in Tor Vergata, Rome. Their stories, different in language and life experience, converge in a shared desire to respond to God’s love with their own lives.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/pre-vigil-jubilee-youth-testimonies-young-pilgrims-tor-vergata.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/pre-vigil-jubilee-youth-testimonies-young-pilgrims-tor-vergata.html>
+
+---
+
+## Ukraine hits military targets and pipeline in Russia
+
+date: 2025-08-02, from: RTÉ News
+
+Ukraine has said it hit military targets and a gas pipeline in drone attacks in Russia, where local authorities said three people were killed and two others wounded. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0802/1526675-ukraine-russia/>
+
+---
+
+## US envoy to region meets families of Israeli hostages
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Amid continuing Israeli attacks on Gazan civilians U.S. special envoy Steve Witkoff meets with families of Israeli hostages still held by Hamas in the Strip.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/steve-witkoff-israel-hostages-gaza-humanitarian-famine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/steve-witkoff-israel-hostages-gaza-humanitarian-famine.html>
+
+---
+
+## U.S. has 'very, very good plan' to end war in Gaza, envoy tells hostage families
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600436.1754157234!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians-gaza.jpg' alt='Smoke rises amid destroyed buildings following bombardment.' width='620' height='349' title='Smoke rises amid destroyed buildings following an Israeli shelling in the Gaza Strip, as seen from southern Israel, Friday, Aug. 1, 2025. (AP Photo/Leo Correa)'/><p>U.S. President Donald Trump has made ending the conflict in Gaza a major priority of his administration, though negotiations have faltered. Steve Witkoff is visiting Israel as its government faces mounting pressure over the deteriorating humanitarian conditions in the enclave.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-plan-ceasefire-gaza-israel-hostage-families-1.7600434?cmp=rss>
+
+---
+
+## Vatican Museums delegation presents restored St. Augustine painting to Pope Leo XIV
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>A delegation from the Vatican Museums presents to Pope Leo XIV a restored painting of St. Augustine, the work of an anonymous Roman artist of the 18th century which was restored by the Laboratory for the Restoration of Paintings and Wooden Materials. Among those present were the Director of the Museums, Barbara Jatta, and the President of the Governatorate, Sister Raffaella Petrini.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/vatican-museums-delegation-st-augustine-painting-pope-leo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/vatican-museums-delegation-st-augustine-painting-pope-leo.html>
+
+---
+
+## Hamas 'will not disarm' unless Palestinian state founded
+
+date: 2025-08-02, from: RTÉ News
+
+Hamas has said it would not lay down arms unless an independent Palestinian state is established. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0802/1526667-middle-east-israel-gaza/>
+
+---
+
+## Wallabies avoid Lions whitewash in tense Sydney washout
+
+date: 2025-08-02, from: RTÉ News
+
+If there were any fears for the future of tours in Australia, they were washed away in Sydney as the Wallabies and the British and Irish Lions played out an enthralling final Test, one which the hosts deservedly took 22-12. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0802/1526628-wallabies-avoid-lions-whitewash-in-tense-sydney-washout/>
+
+---
+
+## Over 40,000 people due to attend annual Bray Air Display
+
+date: 2025-08-02, from: RTÉ News
+
+Over 40,000 people are set to descend on Bray seafront in Co Wicklow for the annual Bray Air Display. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0802/1526663-bray-air-display/>
+
+---
+
+## Over 40,000 attend annual Bray Air Display
+
+date: 2025-08-02, from: RTÉ News
+
+Over 40,000 people descended on Bray seafront in Co Wicklow for the annual Bray Air Display. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526663-bray-air-display/>
+
+---
+
+## Hunger lines in Gaza: ‘Food is not enough’
+
+date: 2025-08-02, from: United Nations, Top Stories
+
+In western Gaza City, displaced people live crammed into cramped tents, and a human tragedy is unfolding across a landscape of hunger. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165559>
+
+---
+
+## SECAM Plenary Day 2:  African Church's long-term vision and polygamy at centre stage
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>During their ongoing Plenary Assembly at the Kigali Conference Centre, Bishops from across Africa convened under the theme “Christ, Source of Hope, Reconciliation, and Peace” for the 20th SECAM Plenary Assembly. The second day’s discussions focused on unpacking this central theme and exploring the continent’s long-term vision.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/secam-kigali-plenary-day-2-long-term-vision-polygamy-africa-chur.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/secam-kigali-plenary-day-2-long-term-vision-polygamy-africa-chur.html>
+
+---
+
+## Sex and the City spin-off And Just Like That to end
+
+date: 2025-08-02, from: RTÉ News
+
+Actress Sarah Jessica Parker has expressed her "profound gratitude" after HBO announced the third season of Sex And The City spin-off And Just Like That is to be its last. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0802/1526653-sex-and-the-city-spin-off-and-just-like-that-to-end/>
+
+---
+
+## Gaza is on the verge of famine and countless children are dying
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>As the humanitarian crisis in Gaza worsens by the day, a UNICEF official warns that children are dying at unprecedented rates, famine poses a grave risk, and a disease outbreak may be looming.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/gaza-is-on-verge-of-famine-needs-are-enormous.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/gaza-is-on-verge-of-famine-needs-are-enormous.html>
+
+---
+
+## Changes in Astronomy
+
+date: 2025-08-02, from: Vatican Obervatory
+
+A book from 1980 shows how much astronomy can change in 45 years -- whether that be the 45 years before 1980, or the 45 years since. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/changes-in-astronomy/>
+
+---
+
+## Pope expresses condolences on sudden death of Egyptian pilgrim
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Pope Leo expresses his deep sorrow upon receiving news of the sudden death of an 18-year old Egyptian youth, Pascale Rafic, who was traveling to Rome to participate in the Jubilee of Youth.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-expresses-condolences-on-sudden-death-of-eyptian-pilgrim.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-expresses-condolences-on-sudden-death-of-eyptian-pilgrim.html>
+
+---
+
+## Pope Leo XIV: 'We all find true joy and happiness in Jesus Christ'
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes artists ahead of their animating the Jubilee Youth Vigil at Tor Vergata on Saturday evening, and invites them to remind young people that it is the Lord in whom they find true joy and happiness.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-welcomes-artists-ahead-of-jubilee-youth-vigil.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-welcomes-artists-ahead-of-jubilee-youth-vigil.html>
+
+---
+
+## 'Together and safe' - Funeral held for shooting victims
+
+date: 2025-08-02, from: RTÉ News
+
+Mourners at the funeral of a mother and her two children, who were murdered in Co Fermanagh last week, have been told that their family is comforted knowing she will have her children at either side of her forever. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526646-funeral-clare/>
+
+---
+
+## 8 counties issued yellow warnings ahead of Storm Floris
+
+date: 2025-08-02, from: RTÉ News
+
+Met Éireann has issued Status Yellow weather warnings for Monday ahead of the arrival of Storm Floris. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0802/1526641-storm-floris/>
+
+---
+
+## Australia v Lions third Test recap
+
+date: 2025-08-02, from: RTÉ News
+
+Relive all the action as Australia deservedly ended the hopes of series whitewash for the visitors. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0802/1526634-australia-v-lions-third-test-updates/>
+
+---
+
+## Ukraine military claims it struck major Russian refinery, electronics factory
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598255.1754132408!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A car is on fire.' width='620' height='349' title='A car damaged during Russian missile and drone strikes burn, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko'/><p>Ukraine's military said Saturday it had struck oil facilities inside Russia, including a major refinery, a military airfield for drones and an electronics factory. Russia's Defence Ministry says air defences intercepted or destroyed 112 drones across eight Russian regions and Crimean Peninsula.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russian-oil-facilities-drones-1.7600339?cmp=rss>
+
+---
+
+## Lord's Day Reflection: The sadness of things
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>As the Church marks the Eighteenth Sunday in Ordinary Time, Abbot Marion Nguyen reflects on the theme, "The Sadness of Things: Avarice and the Freedom of Detachment".</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/lord-s-day-reflection-the-sadness-of-things.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/lord-s-day-reflection-the-sadness-of-things.html>
+
+---
+
+## Woman, 50s, dies while swimming in Co Donegal
+
+date: 2025-08-02, from: RTÉ News
+
+A woman in her 50s has died after getting into difficulty while swimming at Gleann Cholm Cille, Co Donegal. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0802/1526633-donegal-swimming/>
+
+---
+
+## Markets reel from White House's latest tariffs order
+
+date: 2025-08-02, from: RTÉ News
+
+Global markets have reeled after US President Donald Trump's latest wave of tariffs against nearly all his country's trading partners as governments face a seven-day deadline before higher duties take effect. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0802/1526627-us-tariffs/>
+
+---
+
+## Trump claims victory on trade - but EU had little choice
+
+date: 2025-08-02, from: RTÉ News
+
+In many respects US President Donald Trump achieved his aims by introducing a swath of tariffs with America's main trading partners around the world. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0802/1526609-trump-tariffs-analysis/>
+
+---
+
+## Mood shifts on Israel-Gaza, but will it bring change?
+
+date: 2025-08-02, from: RTÉ News
+
+France, the UK and Canada announced they would recognise the State of Palestine as pressure around the world over starvation in Gaza mounts, but will the shift in mood bring change? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0802/1526610-gaza-israel-us-analysis/>
+
+---
+
+## Storm Floris predicted to be exceptionally strong
+
+date: 2025-08-02, from: RTÉ News
+
+Ahead of the arrival of the unseasonable Storm Floris, Environment Correspondent George Lee examines the occurrence and impacts of such weather events in the summer period. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0802/1526612-storm-floris/>
+
+---
+
+## Cardinal Czerny to SECAM: 'We stand ready to accompany your Church'
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Cardinal Michael Czerny, the Prefect of the Vatican's Dicastery for Promoting Integral Human Development, speaks at the opening of the 20th Plenary Assembly of SECAM taking place in Kigali, Rwanda, recalling fruits of SECAM's initiatives in the past, and reassuring the African Bishops of his Dicastery's readiness to accompany them in the future.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/20th-plenary-assembly-secam-cardinal-michael-czerny.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/20th-plenary-assembly-secam-cardinal-michael-czerny.html>
+
+---
+
+## Assault victim links attack to racism and rise in misinformation
+
+date: 2025-08-02, from: RTÉ News
+
+A string of violent attacks on migrants in Ireland, some linked to racism and misinformation, has sparked growing concern among some minority communities 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0802/1526594-assault-victim-links-attack-to-racism-and-rise-in-misinformation/>
+
+---
+
+## What's on? Top 10 TV and streaming tips for Saturday
+
+date: 2025-08-02, from: RTÉ News
+
+Billy Joel: And So It Goes explores his life and music, Dexys at the BBC features the various incarnations of Kevin Rowland's band, Griff Rhys Jones explores the southern states of the USA, and Peter Dinklage stars in The Thicket . . . 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0802/1526186-whats-on-top-10-tv-and-streaming-tips-for-saturday/>
+
+---
+
+## Trump fires US official after publication of job report
+
+date: 2025-08-02, from: RTÉ News
+
+US President Donald Trump has ordered the Commissioner of the Labor Department's Bureau of Labor Statistics Erika McEntarfer to be fired after data showed weaker than expected employment growth in July and massive downward revisions to the prior two months' job counts. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0802/1526624-us-economy/>
+
+---
+
+## Inuit-owned 'state of the art' fishing vessel christened in Iqaluit
+
+date: 2025-08-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7598823.1753988766!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/inuksuk-ii-christening.jpg' alt='people watch as a bottle breaks on the side of the ship' width='620' height='349' title='A bottle of champagne is broken on the hull of the Inuksuk II at the boat&apos;s christening ceremony in Iqaluit on July 29, 2025.'/><p>Inuit-owned fishing company Baffin Fisheries christened its new vessel Inuksuk II in an Iqaluit ceremony earlier this week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/inuksuk-ii-christening-1.7598806?cmp=rss>
+
+---
+
+## Hong Kong created an oyster reef on a seawall beside an airport. Canada could learn from it
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599921.1754076738!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/osyster-reef-hong-kong.JPG' alt='People on a boat throw mesh bads full of oysters into the water near a rock wall. ' width='620' height='349' title='A reef restoration project underway in Hong Kong off the seawall of Hong Kong International Airport, in 2024.'/><p>An estimated 85 per cent of the world's oyster reefs have been lost. And the vast majority of oyster beds in Hong Kong are not recognized as ecologically important, and therefore, not granted protection.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hong-kong-oyster-reefs-1.7598132?cmp=rss>
+
+---
+
+## Hamilton restaurateur returns to Syria after 12 years for bittersweet reunion with family, former staff
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599516.1754057259!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/mohamad-tomeh-and-his-mother.JPG' alt='A man and a woman in a hijab smile at the camera in a selfie.' width='620' height='349' title='Hamilton restaurateur Mohamad Tomeh hadn&apos;t seen his mother in over a decade since he left Syria in 2013.'/><p>After 12 years away from Syria, Hamilton businessman Mohamad Tomeh was finally able to return earlier this month and hopes to remain in his hometown for a few more weeks to contribute to the economy and the rebuilding of his hometown.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/syria-trip-mohamad-tomeh-1.7595296?cmp=rss>
+
+---
+
+## Maxwell transferred to low security prison camp in US
+
+date: 2025-08-02, from: RTÉ News
+
+Ghislaine Maxwell has been transferred from a Florida prison to a lower-security facility in Texas to continue serving her 20-year sentence for helping sex offender Jeffrey Epstein abuse underage girls, the US Bureau of Prisons has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0802/1526623-ghislaine-maxwell-jail/>
 
 ---
 
@@ -251,7 +1002,7 @@ Met Éireann has issued a weather advisory for Storm Floris, which will bring we
 
 ## World News in Brief: Hunger in the English- and Dutch-speaking Caribbean, climate and displacement crisis in Somalia, World Breastfeeding Week
 
-date: 2025-08-01, from: United Nations, Climate Change
+date: 2025-08-01, from: United Nations, Top Stories
 
 Nearly 3.2 million people in the English and Dutch-Speaking Caribbean struggle to get enough to eat, according to the latest Food Security and Livelihoods Survey conducted by the UN World Food Programme (WFP) and the Caribbean Community (CARICOM).&nbsp; 
 
@@ -311,7 +1062,7 @@ Despite Israel’s 27 July announcement of daily military pauses in western Gaza
 
 ## A mandate for change: UN releases proposals for streamlining of tasks as part of major reform agenda
 
-date: 2025-08-01, from: United Nations, Top Stories
+date: 2025-08-01, from: United Nations, UN Affairs
 
 Millions of lives have been improved by the mandates assigned to the UN. Yet duplication, fragmentation and outdated tasks are stretching resources and undermining the organization’s ability to deliver for those who need it most. As part of the UN80 Initiative, UN Secretary-General António Guterres has presented a set of proposals to Member States to make the UN more efficient, coherent and impactful. 
 
@@ -434,6 +1185,18 @@ The EU Court of Justice has ordered Ireland to pay €1.54 million to the Europe
 <br> 
 
 <https://www.rte.ie/news/business/2025/0801/1526522-ireland-flexible-work-fine/>
+
+---
+
+## Preview: Dublin and Meath eye sweet spot on finals day
+
+date: 2025-08-01, from: RTÉ News
+
+Four years on from Meath surprising Dublin to land a maiden TG4 All-Ireland senior crown, the pair face off again in the Croke Park showpiece. 
+
+<br> 
+
+<https://www.rte.ie/sport/womens-football/2025/0801/1526502-preview-dublin-and-meath-eye-sweet-spot-on-finals-day/>
 
 ---
 
@@ -1111,7 +1874,7 @@ Trade must be part of the solution to end plastic pollution – a global problem
 
 ## ‘Delivering better’: New ECOSOC president emphasises climate action, food security
 
-date: 2025-07-31, from: United Nations, Top Stories
+date: 2025-07-31, from: United Nations, UN Affairs
 
 The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism. 
 
@@ -2031,7 +2794,7 @@ People in Haiti have expressed “despair” following the “abrupt suspension�
 
 ## Tsunami alert highlights worth of global early warning system
 
-date: 2025-07-30, from: United Nations, Climate Change
+date: 2025-07-30, from: United Nations, Top Stories
 
 Early warning systems kicked in overnight across Pacific coastal communities after a massive earthquake in eastern Russia triggered a sea surge that reached the Japanese coastline around 1,000 kilometres (620 miles) away within about an hour, disaster relief experts said on Wednesday.&nbsp; 
 
@@ -2949,7 +3712,7 @@ United Nations Deputy Secretary-General Amina Mohammed on Tuesday called on coun
 
 ## World News in Brief: Remembering Dr. David Nabarro, deadly shipwreck off Libya, verdict in peacekeeper’s killing
 
-date: 2025-07-29, from: United Nations, Top Stories
+date: 2025-07-29, from: United Nations, UN Affairs
 
 UN Secretary-General António Guterres has expressed sadness over the passing of Dr. David Nabarro, who played a leading role in the Organization’s efforts to respond to challenges such as hunger, Ebola and the COVID-19 pandemic. 
 
@@ -4845,474 +5608,4 @@ As excitement builds for the long-awaited Oasis reunion concerts in Dublin next 
 <br> 
 
 <https://www.rte.ie/news/business/2025/0727/1525402-oasis-fans-pay-the-price-hotel-prices-go-supersonic/>
-
----
-
-## Carney's ministers say Hong Kong's new arrest warrants for exiles a threat to Canadians' security
-
-date: 2025-07-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7594870.1753559745!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/anand-and-anandasangaree.jpg' alt='A man and a woman speak into microphones' width='620' height='349' title='Foreign Affairs Minister Anita Anand and Public Safety Minister Gary Anandasangaree said “the actions taken by Hong Kong threaten the sovereignty of Canada and security of the people in this country.”'/><p>Two ministers in Prime Minister Mark Carney's government are condemning Hong Kong police's new arrest warrants for 19 overseas-based activists and their offer of rewards for information leading to their capture. Police are accusing 19 activists of violating a national security law imposed by Beijing.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/politics/canada-condemns-hong-kong-police-reward-for-activists-1.7594869?cmp=rss>
-
----
-
-## 'Healthcare workers starving to death,' Gaza rally hears
-
-date: 2025-07-26, from: RTÉ News
-
-Healthcare workers led hundreds of demonstrators opposing the ongoing war in Gaza in a silent march through Dublin city centre. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525515-gaza-protest-dublin/>
-
----
-
-## Appeal over movements of car night before triple murder
-
-date: 2025-07-26, from: RTÉ News
-
-The PSNI is appealing for information about a car that was travelling in Maguiresbridge in Co Fermanagh the night before Vanessa Whyte and her children were murdered. 
-
-<br> 
-
-<https://www.rte.ie/news/ulster/2025/0726/1525516-fermanagh-investigation/>
-
----
-
-## Caritas Europa reaffirms support for Ukraine amid ongoing war
-
-date: 2025-07-26, from: Vatican News
-
-
-                    <p>Caritas Europa leaders visit Ukraine to reaffirm solidarity and call for sustained support amid escalating humanitarian needs and ongoing conflict.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/caritas-europa-ukraine-interview-stawnychy-solidarity-visit-war.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-07/caritas-europa-ukraine-interview-stawnychy-solidarity-visit-war.html>
-
----
-
-## What defines a famine and can it be avoided in Gaza?
-
-date: 2025-07-26, from: RTÉ News
-
-The United Nations and NGOs are warning of an imminent famine in Gaza, a designation based on strict criteria and scientific evidence. But how is it arrived at? 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525512-the-challenges-in-defining-gazas-plight/>
-
----
-
-## Israel resumes Gaza aid drops days after criticism from agencies over hunger crisis
-
-date: 2025-07-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7594940.1753580455!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians-gaza.jpg' alt='A person cries amid a group of people struggling to obtain food at a distribution site.' width='620' height='349' title='Palestinians struggle to get donated food at a community kitchen, in Gaza City, northern Gaza Strip, Saturday, July 26, 2025. (AP Photo/Abdel Kareem Hana)'/><p>Israel resumed airdrop aid to Gaza on Saturday night, the Israeli military said, a few days after more than 100 agencies warned that mass starvation was spreading across the enclave. CBC News spoke to a mom who says her six-month-old died due to lack of formula.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/gaza-aid-drops-resume-famine-fears-1.7594862?cmp=rss>
-
----
-
-## The State of Palestine and the responsibility of the International Community
-
-date: 2025-07-26, from: Vatican News
-
-
-                    <p>The ongoing tragedy in Gaza calls for a surge of humanity and the urgency of a shared response to the plight of the Palestinian people, which the Holy See has been consistently advocating for decades.</p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/state-of-palestine-responsibility-international-community.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-07/state-of-palestine-responsibility-international-community.html>
-
----
-
-## U.S. analysis finds no evidence of widespread Hamas theft of Gaza aid
-
-date: 2025-07-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7594812.1753550503!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians.jpg' alt='A person carries a sack of flour.' width='620' height='349' title='Palestinians carry sacks of flour unloaded from a humanitarian aid convoy that reached Gaza City from the northern Gaza Strip, Tuesday, July 22, 2025. (AP Photo/Jehad Alshrafi)'/><p>An internal U.S. government analysis found no evidence of systematic theft by the Palestinian militant group Hamas of U.S.-funded humanitarian supplies, challenging the main rationale that Israel and the U.S. give for backing a new armed private aid operation.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/hamas-aid-theft-no-evidence-analysis-1.7594805?cmp=rss>
-
----
-
-## UN calls Israel's emergency aid proposal a diversionary tactic
-
-date: 2025-07-26, from: Vatican News
-
-
-                    <p>Israel says it will allow foreign countries to air drop humanitarian aid into Gaza in the coming days, but the United Nations criticised the proposal as an ineffective and costly diversion.
-
-</p>
-                    <p><a href="https://www.vaticannews.va/en/world/news/2025-07/israrel-gaza-starvation-emergency-aid-united-nations.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/world/news/2025-07/israrel-gaza-starvation-emergency-aid-united-nations.html>
-
----
-
-## Covid-19 special envoy David Nabarro dies at 75
-
-date: 2025-07-26, from: RTÉ News
-
-Dr David Nabarro, the World Health Organization's special envoy for Covid-19 since the early stages of the outbreak in 2020, has died at the age of 75. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525504-david-nabarro-death/>
-
----
-
-## Crowds attend festival for people with additional needs
-
-date: 2025-07-26, from: RTÉ News
-
-Ireland's first and largest music and arts festival for people with additional needs is under way in Co Meath. 
-
-<br> 
-
-<https://www.rte.ie/news/ireland/2025/0726/1525497-ablefest-fairyhouse-meath/>
-
----
-
-## Thai Catholic Church voices concern over Cambodia border conflict
-
-date: 2025-07-26, from: Vatican News
-
-
-                    <p>In an interview with the Italian Catholic news agency AgenSIR, the President of the Thai Bishops’ Conference expresses his concern over the conflict brewing at the border with Cambodia and calls for a culture of solidarity and fraternity. </p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/cambodia-thailand-tensions-bishops-conference-peace-dialogue.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-07/cambodia-thailand-tensions-bishops-conference-peace-dialogue.html>
-
----
-
-## Keenan the hero as Lions seal series with epic comeback
-
-date: 2025-07-26, from: RTÉ News
-
-Ireland's Hugo Keenan scored the winning try in the last play of the game as the Lions secured the Test series with a 29-26 victory over Australia in Melbourne. 
-
-<br> 
-
-<https://www.rte.ie/sport/british-and-irish-lions/2025/0726/1525476-keenan-the-hero-as-lions-seal-comeback-series-win/>
-
----
-
-## Pollution, melting microbes, undamming rivers, risks for elders: 4 key climate issues
-
-date: 2025-07-26, from: United Nations, Climate Change
-
-In a world increasingly shaped by climate extremes, environmental experts are delivering a blunt warning: four rapidly emerging threats could reshape life for millions unless urgent action is taken. 
-
-<br> 
-
-<https://news.un.org/feed/view/en/story/2025/07/1165501>
-
----
-
-## Creeslough relatives launch civil cases over fatal blast
-
-date: 2025-07-26, from: RTÉ News
-
-Families and relatives of those killed and injured in the Creeslough tragedy are to bring civil cases against the operators and owners of the Applegreen service station, and management company for the adjoining apartments where an explosion killed ten people in 2022. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525494-creeslough-lawsuits/>
-
----
-
-## 18 killed as bus plunges into ravine in Peruvian Andes
-
-date: 2025-07-26, from: RTÉ News
-
-At least 18 people have been killed after a bus plunged into a ravine in the Peruvian Andes, health officials have said. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525489-peru-bus-crash/>
-
----
-
-## Gaza civil defence says Israeli forces kill 11 people
-
-date: 2025-07-26, from: RTÉ News
-
-Gaza's civil defence agency said Israeli operations have killed 11 people in the Palestinian territory devastated by over 21 months of war. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525483-gaza-israel-strikes/>
-
----
-
-## 25 killed by Israeli fire across Gaza, says civil defence
-
-date: 2025-07-26, from: RTÉ News
-
-Gaza's civil defence agency has said Israeli fire has killed 25 people in the Palestinian territory devastated by more than 21 months of war. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525483-gaza-israel-deaths/>
-
----
-
-## Lord's Day Reflection: An invitation to reflect on prayer
-
-date: 2025-07-26, from: Vatican News
-
-
-                    <p>As the Church marks the Seventeenth Sunday in Ordinary Time, Fr Edmund Power considers Jesus' invitation to reflect on our own personal prayer life.</p>
-                    <p><a href="https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-an-invitation-to-reflect-on-prayer.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/church/news/2025-07/lord-s-day-reflection-an-invitation-to-reflect-on-prayer.html>
-
----
-
-## Pope Leo wanted to look at the Moon
-
-date: 2025-07-26, from: Vatican Obervatory
-
-Pope Leo XIV visited the historic telescopes of the Vatican Observatory at Castel Gandolfo. I say he was there intending to see the Moon through a telescope! 
-
-<br> 
-
-<https://www.vaticanobservatory.org/sacred-space-astronomy/pope-leo-wanted-to-look-at-the-moon/>
-
----
-
-## Major security operation as Trump begins Scotland visit
-
-date: 2025-07-26, from: RTÉ News
-
-A major security operation surrounded US President Donald Trump as he played golf at the start of a five-day long private visit to Scotland. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525475-donald-trump-scotland/>
-
----
-
-## Von der Leyen-Trump meeting a 'final negotiating session'
-
-date: 2025-07-26, from: RTÉ News
-
-Tomorrow's meeting between European Commission President Ursula von der Leyen and US President Donald Trump in Scotland is being treated as a "final negotiating session". 
-
-<br> 
-
-<https://www.rte.ie/news/uk/2025/0726/1525475-donald-trump-von-der-leyen/>
-
----
-
-## Fighting on Thai-Cambodia border continues for 3rd day as Trump, Malaysia urge ceasefire
-
-date: 2025-07-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7594832.1753553187!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/thailand-cambodia.JPG' alt='Howitzers fire rounds.' width='620' height='349' title='A Thai military mobile unit fires towards Cambodia&apos;s side after Thailand and Cambodia exchanged heavy artillery on Friday as their worst fighting in more than a decade stretched for a second day, in Surin, Thailand, July 25, 2025. REUTERS/Athit Perawongmetha     TPX IMAGES OF THE DAY'/><p>Before U.S. President Donald Trump spoke to the two leaders, clashes on the Thai-Cambodian border persisted into a third day and new flashpoints emerged Saturday as both sides said they had acted in self-defence in the border dispute, and called on the other to cease fighting and start negotiations.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/thailand-cambodia-malaysia-fighting-1.7594768?cmp=rss>
-
----
-
-## UK 'taking forward' plan to airdrop food into Gaza
-
-date: 2025-07-26, from: RTÉ News
-
-British Prime Minister Keir Starmer has told French and German leaders that the UK will be "taking forward" plans to airdrop aid and evacuate children requiring medical assistance in Gaza with partners like Jordan, Downing Street has said. 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0726/1525468-un-palestinian-question/>
-
----
-
-## Israel resumes air drops of aid to Gaza, military says
-
-date: 2025-07-26, from: RTÉ News
-
-Israel has resumed air dropping aid to Gaza, an Israeli military spokesperson said, a few days after more than 100 aid agencies warned that mass starvation was spreading across the enclave. 
-
-<br> 
-
-<https://www.rte.ie/news/middle-east/2025/0726/1525468-un-gaza-aid/>
-
----
-
-## Pope encourages Pax Christi to continue to promote nonviolence
-
-date: 2025-07-26, from: Vatican News
-
-
-                    <p>In a message to participants in Pax Christi USA’s annual National Assembly, Pope Leo says “efforts to promote nonviolence are all the more necessary” in a world facing the challenges including war, division, and forced migration.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-07/pope-encourages-pax-christi-to-continue-to-promote-nonviolence.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
-
-<br> 
-
-<https://www.vaticannews.va/en/pope/news/2025-07/pope-encourages-pax-christi-to-continue-to-promote-nonviolence.html>
-
----
-
-## Russia takes second village in central Ukraine
-
-date: 2025-07-26, from: RTÉ News
-
-Russia claims to have taken a second village as it advances further into an area largely spared seizures of land since Moscow launched its offensive in 2022. 
-
-<br> 
-
-<https://www.rte.ie/news/2025/0726/1525463-ukraine-russia-strikes/>
-
----
-
-## For 'the closer' to close, an EU-US deal needs sweetening
-
-date: 2025-07-26, from: RTÉ News
-
-It was Ursula von der Leyen's late afternoon social media post that confirmed a deal is on, writes Washington Correspondent Sean Whelan. 
-
-<br> 
-
-<https://www.rte.ie/news/us/2025/0726/1525460-eu-trump/>
-
----
-
-## How are fan projects changing the concert experience?
-
-date: 2025-07-26, from: RTÉ News
-
-Picture this... you arrive at the concert you have been waiting months for. 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0726/1525381-fan-projects/>
-
----
-
-## Israel bypasses UN already struggling for relevance
-
-date: 2025-07-26, from: RTÉ News
-
-Israel is sidelining the United Nations which is already in deep financial crisis and struggling for relevance, as wars rage around the world. What does it all mean for the UN's future? 
-
-<br> 
-
-<https://www.rte.ie/news/analysis-and-comment/2025/0726/1525438-israel-un/>
-
----
-
-## Ireland faces 15% tariffs as EU-US deal takes shape
-
-date: 2025-07-26, from: RTÉ News
-
-The EU and US are edging closer to a trade deal revolving around tariffs of 15% imposed on European goods. 
-
-<br> 
-
-<https://www.rte.ie/news/business/2025/0726/1525410-eu-us-tariff-deal/>
-
----
-
-## 7 Nunavut bird sanctuaries have Inuktitut place names restored
-
-date: 2025-07-26, from: CBC, Indigenious News
-
-<img src='https://i.cbc.ca/1.7591381.1753215748!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lesser-snow-geese-isulijarniq-migratory-bird-sanctuary.jpg' alt='Dozens of birds in a row.' width='620' height='349' title=''/><p>Seven Nunavut wildlife bird sanctuaries have had their Inuktitut place names restored as the federal government continues to work to meet its obligations under the Inuit Impact and Benefit Agreement for Nunavut.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/canada/north/7-nunavut-bird-sanctuaries-returned-to-inuktitut-place-names-1.7591363?cmp=rss>
-
----
-
-## Trump seeks to broker peace in Thai-Cambodian conflict
-
-date: 2025-07-26, from: RTÉ News
-
-US President Donald Trump has said he has spoken to the leaders of Cambodia and Thailand and that both countries want an immediate ceasefire, as he sought to broker peace while fighting along their border extended into a third day. 
-
-<br> 
-
-<https://www.rte.ie/news/world/2025/0726/1525459-thailand-cambodia-conflict/>
-
----
-
-## Higher, faster, more destructive: Upgraded Russian drones wreak havoc on Ukrainian cities
-
-date: 2025-07-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7592964.1753370625!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='Investigators look at what they say is the engine of a Russian Geran drone after it slammed into an apartment building during a Russian drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 6, 2025.' width='620' height='349' title='Investigators look at what they say is the engine of a Russian Geran drone after it slammed into an apartment building during a Russian drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine June 6, 2025.'/><p>Russia is launching a record-breaking number of drones at Ukrainian cities. But these ones include new technology, like advanced satellite navigation systems and the capacity to carry a 90-kg munition.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/higher-faster-more-destructive-upgraded-russian-drones-wreak-havoc-on-ukrainian-cities-1.7592946?cmp=rss>
-
----
-
-## Trump vs. TV: A play-by-play of a wild week taking on the U.S. president's naysayers
-
-date: 2025-07-26, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7594745.1753496401!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-britain.JPG' alt='An older man wearing a navy suit and a red tie gestures as he stands in front of microphones.' width='620' height='349' title='U.S. President Donald Trump speaks to members of the media on his arrival at Glasgow Prestwick Airport, in Prestwick, Scotland, Britain, July 25, 2025. REUTERS/Evelyn Hockstein'/><p>First he came for late-night TV, then a daytime talk show and a crude cartoon. U.S. President Donald Trump and his administration are fighting battles on all fronts when it comes to mockery and criticism of the 47th commander-in-chief.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/entertainment/trump-tv-political-satire-critics-1.7593883?cmp=rss>
-
----
-
-## Irish-made drama Mix Tape and the musical love letter
-
-date: 2025-07-26, from: RTÉ News
-
-BBC drama Mix Tape, a tale of star-crossed lovers who bond over music, is coming to RTÉ soon but can it reinvigorate the lost art of the mix tape as musical love letter? 
-
-<br> 
-
-<https://www.rte.ie/entertainment/2025/0726/1525455-irish-produced-drama-mix-tape-the-musical-love-letter/>
-
----
-
-## Polls open in Taiwan's high-stakes recall election
-
-date: 2025-07-26, from: RTÉ News
-
-Taiwanese voters turned out at schools, churches and community centres to cast their ballot in a high-stakes recall election that could give President Lai Ching-te's party control of the parliament. 
-
-<br> 
-
-<https://www.rte.ie/news/world/2025/0726/1525457-taiwan-election/>
 

@@ -1,11 +1,51 @@
 ---
 title: food
-updated: 2025-08-02 14:08:04
+updated: 2025-08-03 06:08:27
 ---
 
 # food
 
-(date: 2025-08-02 14:08:04)
+(date: 2025-08-03 06:08:27)
+
+---
+
+## August Coffee Recommendations For The Month Of August
+
+date: 2025-08-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.  
+
+<br> 
+
+<https://sprudge.com/august-coffee-recommendations-for-the-month-of-august-384587.html>
+
+---
+
+## Grilled Meat on a Stick
+
+date: 2025-08-03, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/08/Grilled-Meat-on-a-Stick-Recipes.jpg"/></div>
+<p>The best recipes for grilled meat on a stick! Summer grilling at it&#8217;s best! Seasoned/marinated and skewered up beef, chicken, pork, shrimp, kebab/kebob that&#8217;s grilled to perfection! There&#8217;s nothing quite like grilled meat on a stick in the summer! I guess it&#8217;s the being on a stick part that gets me, it reminds me of...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/grilled-meat-on-stick/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/grilled-meat-on-stick/">Grilled Meat on a Stick</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/grilled-meat-on-stick/>
+
+---
+
+## Here For Gear: Everybody Wants To Brew The World
+
+date: 2025-08-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A bi-weekly curated selection of coffee gear from brands big and small. 
+
+<br> 
+
+<https://sprudge.com/here-for-gear-everybody-wants-to-brew-the-world-385755.html>
 
 ---
 

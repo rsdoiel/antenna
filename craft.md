@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-08-02 14:08:05
+updated: 2025-08-03 06:08:27
 ---
 
 # craft
 
-(date: 2025-08-02 14:08:05)
+(date: 2025-08-03 06:08:27)
+
+---
+
+## Mind Upon Mind: Plugs for the Veritas Power Tenon Cutter
+
+date: 2025-08-03, from: Lost Arg Press blog
+
+Editor’s note: Our Mind Upon Mind series is a nod to a&#160;1937 Chips from the Chisel column&#160;(also featured in “Honest Labour: The Charles H. Hayward Years”), in which Hayward wrote, “The influence of mind upon mind is extraordinary.” The idea being there’s often room for improvement.&#160;To that end, we’ve asked you what else you have... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/08/03/mind-upon-mind-plugs-for-the-veritas-power-tenon-cutter/>
 
 ---
 

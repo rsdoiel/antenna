@@ -1,11 +1,11 @@
 ---
 title: games
-updated: 2025-08-02 14:08:00
+updated: 2025-08-03 06:08:22
 ---
 
 # games
 
-(date: 2025-08-02 14:08:00)
+(date: 2025-08-03 06:08:22)
 
 ---
 
@@ -690,88 +690,4 @@ San Diego Comic-Con is in full swing, and the latest Hall H panel reveal goes to
 <br> 
 
 <https://www.polygon.com/anime/616680/demon-slayer-infinity-castle-tickets-us-release-date>
-
----
-
-## The Starfleet Academy trailer is pure Star Trek catnip
-
-date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
-
-A dawn of a new future, a rousing speech from a Federation captain, a young squad of cadets mixing and mingling, multiple references to Deep Space Nine and Voyager… if the last few years of new Star Trek wasn’t for you, Starfleet Academy is working hard to win you back. At Saturday’s epically sized Star [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/star-trek/616692/starfleet-academy-trailer-sdcc-2025>
-
----
-
-## Coyote vs. Acme escapes death by Warner Bros. Discovery, gets 2026 release date
-
-date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
-
-After years in limbo, the live-action Looney Tunes movie Coyote vs. Acme is confirmed to be released in theaters in 2026. Film distributor Ketchup Entertainment, which picked up the movie after Warner Bros. shelved it, released new images of the film and announced a release date at San Diego Comic-Con on Saturday. The legal comedy [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/616563/coyote-vs-acme-movie-release-date-warner-bros>
-
----
-
-## I am turning my Warframe into a killing machine that does hundreds of thousands of damage
-
-date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
-
-I can’t stop turning my favorite Warframe into a ball of swirling glass. The damage is colossal. It’s making me worse in every way. But I cannot and will not stop. Here’s the situation: When I started playing Warframe earlier this year, I set my sights on building a Warframe called Gara. This whole process [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/616442/warframe-gara-splinter-storm-synergy>
-
----
-
-## Why The Incredibles still stands as the best Fantastic Four movie
-
-date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
-
-It’s been more than 20 years since Brad Bird’s animated superhero movie The Incredibles hit theaters —&#160;plenty of time for wave after wave of fans to hit the internet and renew the claim that it’s an off-license Fantastic Four film with the roles swapped around. The comparisons (and fan-created competitions) between Bird’s super-team and the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/animation-cartoons/616644/incredibles-best-fantastic-four-movie>
-
----
-
-## FromSoftware&#8217;s making fun of hardcore Elden Ring Nightreign players
-
-date: 2025-07-26, updated: 2025-07-25, from: Polygon Website
-
-It’s been a long time coming, but duos is descending on Elden Ring Nightreign at the end of this month alongside a handful of neat quality of life changes. There’s a new trailer showcasing the two-player mode, but I want to call attention to a small moment within that footage that playfully pokes fun at [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/culture/616419/elden-ring-nightreign-what-is-evergaol-meta-attack-power-youtube>
-
----
-
-## Star Wars and Rocky had a baby, and it’s a hidden gem you can stream for free
-
-date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
-
-I am a devout follower of Shudder, the streaming service for all things spooky. But as a science-fiction dork, I am often found crying out for an SF/F companion to the horror streaming service. In the streaming era, what’s replaced Sci-Fi Channel circa 1999?  The closest answer I have found is Tubi, the ad-supported watch-for-free [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/616559/arena-1989-underrated-sci-fi-movie>
-
----
-
-## Nintendo is fighting the attention war, not the console war
-
-date: 2025-07-26, updated: 2025-07-26, from: Polygon Website
-
-As successful as the Nintendo Switch 2’s launch has been (and it has been very successful), it came with plenty of impatience. Its compact day one game lineup, led by Mario Kart World and Nintendo Switch 2 Welcome Tour, left some potential buyers a bit underwhelmed. It was a notable step down from the PlayStation [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/analysis/615967/nintendo-switch-2-game-release-calander-2025-analysis>
 

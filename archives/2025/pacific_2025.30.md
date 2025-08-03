@@ -1,11 +1,463 @@
 ---
 title: pacific
-updated: 2025-08-02 14:07:56
+updated: 2025-08-03 06:08:18
 ---
 
 # pacific
 
-(date: 2025-08-02 14:07:56)
+(date: 2025-08-03 06:08:18)
+
+---
+
+## With festivities and papal prayer, the Vatican aims to attract the young
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>VATICAN CITY &#8212; Nuns danced in conga lines. Teenagers bounced up and down to the rhythm of bongo drums&#8203;. And thousands sang &#8203;along as singers and bands alternated sets on the huge stage built just last month in a Roman suburb for a youth festival that has become known as the Catholic Woodstock.&#8203;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/nation-world-news/with-festivities-and-papal-prayer-the-vatican-aims-to-attract-the-young/>
+
+---
+
+## ‘This is the future of health care’: Mobile clinic to serve 42 schools throughout year
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>About 40 health, education, government, and community representatives gathered Tuesday morning for the blessing of Hawaii Community Health Center&#8217;s latest mobile clinic, which will be serving students of all ages at 42 schools islandwide in the 2025-26 school year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/hawaii-news/this-is-the-future-of-health-care-mobile-clinic-to-serve-42-schools-throughout-year/>
+
+---
+
+## After a lag, consumers begin to feel the pinch of tariffs
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>Companies are starting to shift more tariff-related costs onto consumers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/nation-world-news/after-a-lag-consumers-begin-to-feel-the-pinch-of-tariffs/>
+
+---
+
+## New HPD system to keep callers informed
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department last week launched Versaterm CommunityConnect, a technology program designed to designed to keep anyone who called police for service on a cellphone informed about both emergency and nonemergency police responses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/hawaii-news/new-hpd-system-to-keep-callers-informed/>
+
+---
+
+## Search for suspect in fatal Montana bar shooting stretches into second day
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>Authorities in Montana were still searching Saturday afternoon for an Army veteran who they say opened fire inside a neighborhood bar a day earlier, killing four in what an official described as a senseless act of violence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/nation-world-news/search-for-suspect-in-fatal-montana-bar-shooting-stretches-into-second-day/>
+
+---
+
+## Until Trump fired her, she was an economist with bipartisan support
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>Nearly the entire Senate supported Erika McEntarfer in 2024 to lead the agency that produces key data on jobs and inflation. The widely respected economist was confirmed in a bipartisan 86-8 Senate vote, with support from Vice President JD Vance, who was then an Ohio senator, and Secretary of State Marco Rubio, then a Florida senator.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/nation-world-news/until-trump-fired-her-she-was-an-economist-with-bipartisan-support/>
+
+---
+
+## New hostage videos sow fear and horror in Israel
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The family of Evyatar David, an Israeli held hostage in the Gaza Strip, saw him for the first time in months on Friday evening in a video circulated by his Hamas captors. He was emaciated and sallow in what appeared to be an underground tunnel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/nation-world-news/new-hostage-videos-sow-fear-and-horror-in-israel/>
+
+---
+
+## Hawaii public media face big cuts as CPB funding ends
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>The Corporation for Public Broadcasting said Friday that it would shut down next year, effectively ending its half-century role as a backer of NPR, PBS and local radio and TV stations across the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/hawaii-news/hawaii-public-media-face-big-cuts-as-cpb-funding-ends/>
+
+---
+
+## Steves: Savoring Europe’s cheese cultures
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>When I&#8217;m traveling, I become a cultural chameleon. I love a good pilsner when I&#8217;m in Prague, red wine in Tuscany, and a cheese course in France. For a cheese-lover, savoring Europe means savoring its cheeses &#8212; they&#8217;re not only part of the cuisine, they&#8217;re part of the culture.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/features/steves-savoring-europes-cheese-cultures/>
+
+---
+
+## No pets left behind: How a dog’s hurricane rescue changed Florida law
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; Hurricane Milton was barreling toward Florida last October when the emergency call came in about a dog that was stuck in rising waters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/features/no-pets-left-behind-how-a-dogs-hurricane-rescue-changed-florida-law/>
+
+---
+
+## Former Honolulu police chief sues Blangiardi over alleged threats
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>Former Honolulu police Chief Arthur &#8220;Joe&#8221; Logan filed a civil lawsuit Thursday accusing Mayor Rick Blangiardi of micromanaging the department, issuing illegal orders and threatening to &#8220;make it very difficult&#8221; for him and his family if he refused to step down.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/hawaii-news/former-honolulu-police-chief-sues-blangiardi-over-alleged-threats/>
+
+---
+
+## Volcano Watch: Distant versus local earthquakes and tsunami response times in Hawaii
+
+date: 2025-08-03, from: Hawaii Tribune Harold
+
+
+				<p>Earthquakes and tsunamis in the news over the past few days are a reminder that we live on a dynamic planet with different hazards and associated response times. While tsunamis generated by large, distant earthquakes take hours to traverse the Pacific Ocean, it is important to remember that local earthquakes can also generate tsunamis &#8212; but with much less warning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/03/features/volcano-watch-distant-versus-local-earthquakes-and-tsunami-response-times-in-hawaii/>
+
+---
+
+## Life after deportation: Marshall Islands Halfway House proposed
+
+date: 2025-08-03, from: Pacific Island Times
+
+Riem Simon spent 13 years in U.S. prisons and now wants to help the rising number of deportees from the U.S. adjust to Marshallese society through a program he has developed: 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/life-after-deportation-marshall-islands-halfway-house-proposed>
+
+---
+
+## UH Red Hill Registry launches to track long-term health impacts
+
+date: 2025-08-03, from: University of Hawaiʻi News
+
+<p>Participation in the registry is open to anyone who lived, worked, attended daycare or studied in affected areas</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/02/red-hill-registry-launch-and-fair/"><abbr>UH</abbr> Red Hill Registry launches to track long-term health impacts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/02/red-hill-registry-launch-and-fair/>
+
+---
+
+## Pal Ahluwalia to end tenure as USP vice-chancellor
+
+date: 2025-08-02, from: 
+
+Professor Pal Ahluwalia's six years as the head of the at the University of the South Pacific have been marked with controversy. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568731/pal-ahluwalia-to-end-tenure-as-usp-vice-chancellor>
+
+---
+
+## Tropical Gardening: Every Hawaii garden needs an avocado tree
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>It may be too early to be optimistic, but damage from the avocado lace bug appears to be on the decline. This year&#8217;s avocado defoliation still continues to raise havoc with fruit production in some parts of the island. Exposed fruit are quickly sunburned, and that affects the quality.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/features/tropical-gardening-every-hawaii-garden-needs-an-avocado-tree/>
+
+---
+
+## Kenichi Pacific in Kona shut down due to food safety violations
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has issued a red &#8220;closed&#8221; placard and immediately shut down Kenichi Pacific restaurant on Ali&#8216;i Drive in Kailua-Kona due to multiple critical food safety violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/kenichi-pacific-in-kona-shut-down-due-to-food-safety-violations/>
+
+---
+
+## Trump, claiming weak jobs numbers were ‘rigged,’ fires labor official
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump unleashed his fury about weakness in the labor market on Friday, saying without evidence that the data were &#8220;rigged&#8221; and that he was firing the Senate-confirmed Department of Labor official responsible for pulling together the numbers each month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-claiming-weak-jobs-numbers-were-rigged-fires-labor-official/>
+
+---
+
+## Employers pull back on hiring as uncertainty weighs on plans
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Employers have sharply pulled back their hiring, a sign that the labor market is weakening and more businesses are putting expansion plans on hold as they deal with economic uncertainty created by President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/employers-pull-back-on-hiring-as-uncertainty-weighs-on-plans/>
+
+---
+
+## Hawaii tourism cools off this summer as arrivals dip
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii tourism is cooling off this summer, and the visitor industry is concerned that the sector will continue to lose heat throughout this year and into 2026.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/hawaii-tourism-cools-off-this-summer-as-arrivals-dip/>
+
+---
+
+## Gov. Josh Green raises possibility of 2028 run for president
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green told NBC News he is considering a 2028 campaign for president of the United States with a possible platform of healing the nation after the bitterly divisive era of American politics that has consumed the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/gov-josh-green-raises-possiblity-of-2028-run-for-president/>
+
+---
+
+## Astronauts head to space station as clouds stay just far enough away
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>SpaceX&#8217;s latest mission for NASA launched four astronauts toward the International Space Station on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/astronauts-head-to-space-station-as-clouds-stay-just-far-enough-away/>
+
+---
+
+## ‘Hot wasps’ found at nuclear facility in South Carolina
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Four radioactive wasp nests have been discovered at a South Carolina nuclear facility, according to federal officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/hot-wasps-found-at-nuclear-facility-in-south-carolina/>
+
+---
+
+## Ghislaine Maxwell moved from Florida prison to lower-security facility
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Ghislaine Maxwell has been transferred from a Florida prison to a lower-security facility in Texas to continue serving her 20-year sentence for helping the late financier and sex offender Jeffrey Epstein sexually abuse underage girls, the U.S. Bureau of Prisons said on Friday. Maxwell&#8217;s move from FCI Tallahassee, a low-security prison, to the Federal Prison Camp in Bryan, Texas, comes a week after she met with Deputy U.S. Attorney General Todd Blanche, who said he wanted to speak with her about anyone else who may have been involved in Epstein&#8217;s crimes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/ghislaine-maxwell-moved-from-florida-prison-to-lower-security-facility/>
+
+---
+
+## News in brief for August 2
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Florida is buying plane tickets &#0010;for immigrants to self-deport</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/news-in-brief-for-august-2/>
+
+---
+
+## Corporation for Public Broadcasting will shut down
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>The Corporation for Public Broadcasting said Friday that it would shut down next year, effectively ending its half-century role as a backer of NPR, PBS and local radio and TV stations across the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/corporation-for-public-broadcasting-will-shut-down/>
+
+---
+
+## El Salvador ends term limits, letting Bukele seek reelection indefinitely
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Lawmakers in El Salvador abolished presidential term limits Thursday, paving the way for President Nayib Bukele, who has aided President Donald Trump&#8217;s deportation efforts and whose government has jailed tens of thousands in its crackdown on gangs and civil rights groups, to run for reelection indefinitely.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/el-salvador-ends-term-limits-letting-bukele-seek-reelection-indefinitely/>
+
+---
+
+## Judge blocks Trump from fast-tracking deportations of immigrants paroled into US
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Friday blocked President Donald Trump&#8217;s administration from fast-tracking the deportation of potentially hundreds of thousands of immigrants who were paroled into the U.S. under former President Joe Biden&#8217;s humanitarian programs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/judge-blocks-trump-from-fast-tracking-deportations-of-immigrants-paroled-into-us/>
+
+---
+
+## Switzerland is stunned by 39% US tariff, among the highest in the world
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Switzerland got a rude awakening Friday, a national holiday, when President Donald Trump set the tariff rate on goods imported from the Alpine country at 39%, one of the highest rates for any nation. Karin Keller-Sutter, the Swiss president, said she had spoken with Trump on Thursday but that &#8220;no agreement could be reached.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/switzerland-is-stunned-by-39-us-tariff-among-the-highest-in-the-world/>
+
+---
+
+## Trump says he ordered subs repositioned in rare nuclear threat to Russia
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said on his social media feed Friday that he had &#8220;ordered two nuclear submarines&#8221; to be repositioned in response to online threats from Russia&#8217;s former president, Dmitry Medvedev, a rare threat of nuclear escalation between the superpowers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-says-he-ordered-subs-repositioned-in-rare-nuclear-threat-to-russia/>
+
+---
+
+## Samoa, NZ, New Caledonia open Oceania U16 women's tournament with wins
+
+date: 2025-08-02, from: 
+
+The Kiwi women were held to less than five goals for the fourth time in event history. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568813/samoa-nz-new-caledonia-open-oceania-u16-women-s-tournament-with-wins>
+
+---
+
+## Organic Act of Guam marks 75: A call to remember, reflect and reimagine
+
+date: 2025-08-02, from: Pacific Island Times
+
+Seventy-five years since the Organic Act of Guam was signed into law, island leaders, descendants of political pioneers and community members came together in solemn reflection and quiet celebration. The moment wasn’t just about honoring a date in history, it was about remembering the people who fought to shape it, and asking what comes next. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/organic-act-of-guam-marks-75-a-call-to-remember-reflect-and-reimagine>
+
+---
+
+## Wahine soccer player chosen as goalkeeper to watch
+
+date: 2025-08-02, from: University of Hawaiʻi News
+
+<p>Kennedy Justin was named to the 2024 United Soccer Coaches Goalkeepers to Watch list after a record-setting freshman season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/01/justin-chosen-goalkeeper-to-watch/">Wahine soccer player chosen as goalkeeper to watch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/01/justin-chosen-goalkeeper-to-watch/>
 
 ---
 
@@ -613,18 +1065,6 @@ The former New Caledonia Congress president says the "draft" deal signed in Fran
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/568747/roch-wamytan-paris-political-agreement-for-new-caledonia-not-enough-for-kanaks>
-
----
-
-## Pal Ahluwalia to end tenure as USP vice-chancellor
-
-date: 2025-08-01, from: 
-
-Professor Pal Ahluwalia's six years as the head of the at the University of the South Pacific has been marked with controversy. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/568731/pal-ahluwalia-to-end-tenure-as-usp-vice-chancellor>
 
 ---
 
@@ -4049,302 +4489,4 @@ THE Department of Public Safety has launched a homicide investigation on Tataga 
 <br> 
 
 <https://www.mvariety.com/news/local/homicide-investigation-underway-in-san-antonio/article_0410bde5-bcf4-4e01-a53b-efb885c7d1a8.html>
-
----
-
-## Tropical Gardening: Use bamboos for hedges, windbreaks and more
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>In the good old days, a typical Hawaiian garden was large enough to give neighbors plenty of space to have privacy. As our population increases and land costs escalate, lots are getting smaller. This requires creativity to effectively give us a little garden peace and quiet.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/features/tropical-gardening-use-bamboos-for-hedges-windbreaks-and-more/>
-
----
-
-## Athletics’ Nick Kurtz becomes first rookie with 4-HR game
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>Athletics designated hitter Nick Kurtz hit four home runs in his team&#8217;s 15-3 road win over the Houston Astros on Friday night, becoming the first rookie in major league history to accomplish the feat.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/athletics-nick-kurtz-becomes-first-rookie-with-4-hr-game/>
-
----
-
-## Thailand warns of war with Cambodia as deadly clashes enter 2nd day
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>Thailand&#8217;s acting prime minister warned Friday that clashes with Cambodia over a border dispute &#8220;could develop into war&#8221; as the deadliest fighting between the two countries in years extended into a second day.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/thailand-warns-of-war-with-cambodia-as-deadly-clashes-enter-2nd-day/>
-
----
-
-## Trump flies to Scotland, leaving chaos swirling in Washington
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>EDINBURGH, Scotland &#8212; President Donald Trump headed to Scotland on Friday for a five-day visit, hoping to leave behind the chaos of Washington and the persistent questions over the handling of the Jeffrey Epstein files for what will be a mix of personal business and diplomacy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/trump-flies-to-scotland-leaving-chaos-swirling-in-washington/>
-
----
-
-## After Ghislaine Maxwell interview, concerns mount over possibility of pardon
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>The yellow jacket buzz of a plane circling above the federal courthouse in Tallahassee, Florida, on Friday roused the perspiring platoon of reporters staking out a meeting between a top Justice Department official and Ghislaine Maxwell.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/after-ghislaine-maxwell-interview-concerns-mount-over-possibility-of-pardon/>
-
----
-
-## First deportation flights depart from Florida’s ‘Alligator Alcatraz’
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>MIAMI &#8212; The first deportation flights from Florida&#8217;s new immigration detention center in the Everglades began departing this week, Gov. Ron DeSantis announced Friday, about three weeks after federal detainees started to arrive at what appears to be the nation&#8217;s only state-run migrant detention facility.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/first-deportation-flights-depart-from-floridas-alligator-alcatraz/>
-
----
-
-## New reports on Russian interference don’t show what Trump says they do
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Trump administration in recent weeks has released a series of reports intended to undermine the conclusion reached by intelligence agencies before President Donald Trump&#8217;s first term that Russia had favored his candidacy in 2016 and sought to improve his chances of winning.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/new-reports-on-russian-interference-dont-show-what-trump-says-they-do/>
-
----
-
-## Israel to allow humanitarian airdrops over Gaza
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>JERUSALEM &#8212; Israel will allow foreign nations to parachute humanitarian aid to a population in the Gaza Strip desperate for food, officials said Friday, during a widening crisis in which children have died of malnutrition.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/israel-to-allow-humanitarian-airdrops-over-gaza/>
-
----
-
-## Ukraine says Starlink’s global outage hit its military communications
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>KYIV &#8212; Starlink systems used by Ukrainian military units were down for two and a half hours overnight, a senior commander said, part of a global issue that disrupted the satellite internet provider.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/ukraine-says-starlinks-global-outage-hit-its-military-communications/>
-
----
-
-## News in brief for July 26
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>Ocasio-Cortez must pay additional $2,700 for her Met Gala dress</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/news-in-brief-for-july-26/>
-
----
-
-## 9-year-old girl dies in wave pool at Hersheypark in Pennsylvania
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>A 9-year-old girl died Thursday night while using a wave pool at Hersheypark in Pennsylvania, where lifeguards tried rescuing her after seeing her in distress, park officials said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/9-year-old-girl-dies-in-wave-pool-at-hersheypark-in-pennsylvania/>
-
----
-
-## White House will release $5.5 billion for schools, after surprise delay
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>The White House will release $5.5 billion in frozen education funds, administration officials announced Friday, bringing an end to a chaotic month for school districts that had counted on the money with just weeks to go before the start of the school year.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/white-house-will-release-5-5-billion-for-schools-after-surprise-delay/>
-
----
-
-## After surge during pandemic, homicides fall significantly
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>Homicides in the United States have continued to fall sharply this year, according to a new analysis published Thursday by the Council on Criminal Justice, a nonprofit policy research organization, based on data from more than three dozen American cities.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/after-surge-during-pandemic-homicides-fall-significantly/>
-
----
-
-## Trump administration plans changes to skilled worker visas and citizenship tests
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Trump administration is planning to change the visa system for skilled foreign workers, a program at the center of a dispute between immigration hard-liners and tech industry leaders, said the new director of U.S. Citizenship and Immigration Services.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/trump-administration-plans-changes-to-skilled-worker-visas-and-citizenship-tests/>
-
----
-
-## Kennedy to oust preventative care task force
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. Health Secretary Robert F. Kennedy Jr. is planning to remove all the members of an advisory panel that determines what cancer screenings and other preventive health measures insurers must cover, the Wall Street Journal reported on Friday, citing people familiar with the matter.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/kennedy-to-oust-preventative-care-task-force/>
-
----
-
-## US states to get $608 million from FEMA to build migrant detention centers
-
-date: 2025-07-26, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Federal Emergency Management Agency is preparing to send $608 million to states to construct immigrant detention centers as part of the Trump administration&#8217;s push to expand capacity to hold migrants. FEMA is starting a &#8220;detention support grant program&#8221; to cover the cost of states building temporary facilities, according to an agency announcement. States have until August 8 to apply for the funds, according to the post. The Trump administration has been encouraging states to build their own facilities to detain migrants. This program provides a way for the administration to help states pay for it.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/07/26/nation-world-news/us-states-to-get-608-million-from-fema-to-build-migrant-detention-centers/>
-
----
-
-## Tropical Storm Krosa Nearly Stationary; Condition 1 Maintained for Northern Islands
-
-date: 2025-07-26, updated: 2025-07-27, from: Marianas Variety
-
-<p>Please remain cautious as hazardous weather conditions persist. Active advisories are still in effect for Saipan, Tinian, and Rota including small craft, high surf, rip current, flood watch, and wind advisories.</p> 
-
-<br> 
-
-<https://www.mvariety.com/news/local/tropical-storm-krosa-nearly-stationary-condition-1-maintained-for-northern-islands/article_ce70a5db-1de5-4dd8-b4e8-9f2ed4db8b50.html>
-
----
-
-## Micronesia leaders renew urgent call for 'fast-acting cuts in short-lived super pollutants'
-
-date: 2025-07-26, from: Pacific Island Times
-
-Micronesian leaders, back row, joined with youth representatives from the Micronesia subregion to discuss youth concerns and issues as... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/micronesia-leaders-renew-call-an-urgent-call-for-fast-acting-cuts-in-short-lived-super-pollutants>
-
----
-
-## Community events: Nominations open for Maga’Haga Art Awards; Soroptimist offers aid 
-
-date: 2025-07-26, from: Pacific Island Times
-
-CAHA seeking nominations for 2025 awards The Guam Council on the Arts and Humanities Agency, in collaboration with the Office of the... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/community-events-caha-seeks-nominations-for-maga-haga-art-awards>
-
----
-
-## UH Hilo athletics set academic record, 170 earn All-PacWest honors
-
-date: 2025-07-26, from: University of Hawaiʻi News
-
-<p>The nearly 230 student-athletes posted a record-high 3.32 grade point average.</p>
-The post <a href="https://www.hawaii.edu/news/2025/07/25/uh-hilo-athletics-set-academic-record/"><abbr>UH</abbr> Hilo athletics set academic record, 170 earn All-PacWest honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/07/25/uh-hilo-athletics-set-academic-record/>
-
----
-
-## UH medical school earns maximum accreditation
-
-date: 2025-07-26, from: University of Hawaiʻi News
-
-<p>The eight year accreditation is the maximum marks a school can receive.</p>
-The post <a href="https://www.hawaii.edu/news/2025/07/25/uh-medical-school-earns-accreditation/"><abbr>UH</abbr> medical school earns maximum accreditation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/07/25/uh-medical-school-earns-accreditation/>
-
----
-
-## Loss and triumph
-
-date: 2025-07-26, from: The Husk
-
-Weekender #58 
-
-<br> 
-
-<https://thehusk.substack.com/p/loss-and-triumph>
 

@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-08-02 14:07:59
+updated: 2025-08-03 06:08:21
 ---
 
 # writing
 
-(date: 2025-08-02 14:07:59)
+(date: 2025-08-03 06:08:21)
 
 ---
 
@@ -133,16 +133,4 @@ date: 2025-07-28, from: Final Draft blog
 <br> 
 
 <https://blog.finaldraft.com/selwyn-seyfu-hinds-explores-steampunk-and-identity-in-washington-black>
-
----
-
-## Bartz v. Anthropic: What are some additional takeaways and where do things go from here?
-
-date: 2025-07-26, from: Author's Union blog
-
-In an earlier post, we shared details from Judge Alsup’s decision on Anthropic’s motion for summary judgment in Bartz v. [&#8230;] 
-
-<br> 
-
-<https://www.authorsalliance.org/2025/07/26/bartz-v-anthropic-what-are-some-additional-takeaways-and-where-do-things-go-from-here/>
 

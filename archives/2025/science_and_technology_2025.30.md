@@ -1,11 +1,107 @@
 ---
 title: science and technology
-updated: 2025-08-02 14:07:57
+updated: 2025-08-03 06:08:19
 ---
 
 # science and technology
 
-(date: 2025-08-02 14:07:57)
+(date: 2025-08-03 06:08:19)
+
+---
+
+## Silent Push CEO on cybercrime takedowns: 'It's an ongoing cat-and-mouse game'
+
+date: 2025-08-03, updated: 2025-08-03, from: The Register (UK I.T. News)
+
+<h4>Plus: why takedowns aren&#39;t in threat-intel analysts&#39; best interest</h4> <p><strong>interview</strong>  It started out small: One US financial services company wanted to stop unknown crooks from spoofing their trading app, tricking customers into giving the digital thieves their login credentials and account information, thus allowing them to drain their accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/03/silent_push_ceo_talks_cybercrime/>
+
+---
+
+## Capacity planning a rising concern for datacenter operators as AI grows
+
+date: 2025-08-03, updated: 2025-08-03, from: The Register (UK I.T. News)
+
+<h4>New Uptime survey flags cost, power, outages</h4> <p>Being able to forecast future capacity requirements is a growing concern for datacenter operators as they face conflicting factors such as rising costs, power constraints, and meeting the demands of AI workloads.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/03/capacity_planning_concern_datacenter_ops/>
+
+---
+
+## The X11 SECURITY extension from the 1990s
+
+date: 2025-08-02, from: OS News
+
+Security isn&#8217;t exactly a strong point of X11, and improving it is one of the main reasons why Wayland is such a vast improvement over X11. Just one of the many examples of X11 being inherently insecure is that keyloggers are entirely trivial on X11, because keylogger functionality is effectively built into it. Of course, this isn&#8217;t exactly news, and as Peter Hofmann details, there is an old X11 extension that adds somewhat rudimentary security to X11: the X11 SECURITY extension. This extension is part of every X.org installation, but it hasn&#8217;t seen any meaningful work in a long, long time. What it does is allow you to do is set X11 clients as &#8220;trusted&#8221; and &#8220;untrusted&#8221;, where untrusted clients cannot interact with tusted ones. This provides some basic security &#8211; it actually prevents keylogging! &#8211; but only very basic, as Hoffman notes: The thing is that it&#8217;s immediately clear that this extension &#8212;&#160;in its current state&#160;&#8212; is not the answer to &#8220;X11 is insecure&#8221;: You only have two classes, trusted and untrusted. That&#8217;s not enough. For example: When you run your browser as untrusted, you can&#8217;t simultaneously run some sandboxed program (Snap, Flatpak, &#8230;)&#160;in a meaningful way, because those two clients can spy on each other again. You want a proper per-client isolation instead. Sandboxing plays an important role here. If you run programs &#8220;the traditional way&#8221; (i.e., full access to the filesystem and network), then an attacker can do all kinds of things and X11 keylogging is just one of a million concerns. ↫ Peter Hofmann but it also happens to break a lot of things, and many applications simply don&#8217;t work with it at all. Oddly enough, Firefox has no issues with it, and will happily run in untrusted mode. The biggest problem, however, is that untrusted clients only have access to exactly two other X11 extensions, which leads to a whole host of problems, like no scaling, broken keyboard layouts, no 3D acceleration, and so on. On top of all of that, it breaks clipboard functionality, as anything copied in an untrusted client cannot be pasted anywhere else. As such, Hoffman concludes: In its current state, I&#8217;d say the SECURITY extension is &#8220;somewhat useful&#8221;, but more work would have to be done. Both in X.Org and in the clients. You would have to come up with a new clipboard protocol, for example. And the list goes on. (See where I&#8217;m going with this?) It&#8217;s not that simple. ↫ Peter Hofmann Since pretty much nobody adopted it when this extension came out in the &#8217;90s, and it hasn&#8217;t seen much work since, the amount of work that would be required to bring it up to modern standards would be astronomical, and trying to get clients to adopt it would probably prove fruitless considering Wayland already exists, and offers all of the potential security benefits and then some. People often claim it would be &#8220;easy&#8221; to modernise X11, but just this one particular issue &#8211; security, kind of important &#8211; shows just how quickly the X11 house of cards comes crashing down if you try to do anything to drag it out of its &#8217;80s and &#8217;90s mindset. 
+
+<br> 
+
+<https://www.osnews.com/story/142962/the-x11-security-extension-from-the-1990s/>
+
+---
+
+## PatchworkOS: a 64bit non-POSIX OS where everything is a file
+
+date: 2025-08-02, from: OS News
+
+Patchwork is a 64-bit monolithic NON-POSIX operating system for the x86_64 architecture that rigorously follows a &#8220;everything is a file&#8221; philosophy. Built from scratch in C it takes many ideas from Unix, Plan9, DOS and others while simplifying them and sprinkling in some new ideas of its own. ↫ PatchworkOS GitHub page Patchwork is a surprisingly advanced operating system considering it&#8217;s a hobby project. It has multithreading with a constant-time scheduler, fully preemptive mutitasking, SMP, file-based IPC (including pipes, shared memory, sockets and Plan9 inspired &#8220;signals&#8221; called notes), and much more. It also uses a Linux-style VFS and has a custom C standard library. On top of that, there&#8217;s a modular window manager that supports themes, in which everything is a window, and so much more. It supports x86_64, but only supports running in RAM. It&#8217;s licensed under the MIT license. 
+
+<br> 
+
+<https://www.osnews.com/story/142960/patchworkos-a-64bit-non-posix-os-where-everything-is-a-file/>
+
+---
+
+## Vibe-coding your profession into irrelevance
+
+date: 2025-08-02, from: OS News
+
+Claude Code has considerably changed my relationship to writing and maintaining code at scale. I still write code at the same level of quality, but I feel like I have a new freedom of expression which is hard to fully articulate. Claude Code has decoupled myself from writing every line of code, I still consider myself fully responsible for everything I ship to Puzzmo, but the ability to instantly create a whole scene instead of going line by line, word by word is incredibly powerful. ↫ Orta Therox Oh sweet Summer child. As a former translator, I can tell you that&#8217;s how it starts. As time goes on, your clients or your manager will demand more and more code from you. You will stop checking every line to meet the deadlines. Maybe you just stop checking the boilerplate at first, but it won&#8217;t stay that way. As pressure to be more &#8220;productive&#8221; mounts, you&#8217;ll start checking fewer and fewer lines. Before you know it, your client or manager will just give you entire autogenerated swaths of code, and your job will be to just go over it, making sure it kind of works. Before long, you realise there are fewer and fewer of you. Younger and less-skilled &#8220;developers&#8221; can quickly go over autogenerated code just as well as you do &#8211; but they&#8217;re way cheaper. You see the quality of the code you sign off on deteriorate rapidly, but you have no time, and not enough pay, to rewrite the autogenerated code. It works, kind of, and that will have to be enough. The autogenerated codebases you&#8217;re supposed to be checking and fixing are so large now, you&#8217;re no longer even really checking anything anymore. Quick, cursory glances, that&#8217;s all you have time for and can afford. Documentation and commenting code went out the window a long time ago, and every line of code scrolling across your screen is more tech debt you don&#8217;t care about, because it&#8217;s not your code anyway. And then it hits you. There&#8217;s no skill here. There&#8217;s no art here. You&#8217;re no longer a programmer. There&#8217;s no career prospects. Scrolling past shitty autogenerated code day in, day out, without the time or pay to wrangle it into something to be proud of, is the end of the line for you. Speak up about it, and you&#8217;ll be replaced by someone cheaper. The first time I was given a massive pile of autotranslated text to revise, without enough time and pay to ensure I was delivering a quality product, I quit and left the translation industry instantly. Like programming, translating is part skill, part art, and I didn&#8217;t get two university degrees in language and translation just to deliver barely passable trash. I took pride in my work, and I wasn&#8217;t going to let anyone put my name under a garbage product. Programmers, you&#8217;re next. Will you have the stones to stand by your art? 
+
+<br> 
+
+<https://www.osnews.com/story/142956/vibe-coding-yourself-into-irrelevance/>
+
+---
+
+## Long live the nub: ThinkPad designer David Hill spills secrets, designs that never made it
+
+date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T. News)
+
+<h4>We almost got more butterfly keyboards and foldable workstations</h4> <p><strong>Interview</strong>  Launched in 1992, the boxy black ThinkPad with its little red nub remains the quintessential business productivity notebook. Unlike commercial offerings from competitors such as Dell and HP, Lenovo&#39;s laptop has a following of people who collect old models and celebrate each new innovation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/02/thinkpad_david_hill_interview/>
+
+---
+
+## Reddit is people! Which means its search might not be so damaged by AI slop
+
+date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T. News)
+
+<h4>Community content site aims to profit from real conversation</h4> <p>Reddit has found that trafficking in human-authored content pays well in the AI era.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/02/reddit_ready_for_search_business/>
+
+---
+
+## CISA roasts unnamed critical national infrastructure body for shoddy security hygiene
+
+date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T. News)
+
+<h4>Plaintext passwords, shared admin accounts, and insufficient logging rampant at mystery org</h4> <p>CISA is using the findings from a recent probe of an unidentified critical infrastructure organization to warn about the dangers of getting cybersecurity seriously wrong.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/02/cisa_coast_guard_cni/>
 
 ---
 
@@ -2478,28 +2574,4 @@ date: 2025-07-27, updated: 2025-07-28, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/07/27/biomedviz_ai_wrong_problems/>
-
----
-
-## Congress tries to outlaw AI that jacks up prices based on what it knows about you
-
-date: 2025-07-26, updated: 2025-07-26, from: The Register (UK I.T. News)
-
-<h4>Surveillance-based pricing? Two lawmakers say enough</h4> <p>Two Democratic members of Congress, Greg Casar (D-TX) and Rashida Tlaib (D-MI,) have introduced legislation in the US House of Representatives to ban the use of AI surveillance to set prices and wages.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/26/ai_surveillance_pricing/>
-
----
-
-## Blame a leak for Microsoft SharePoint attacks, researcher insists
-
-date: 2025-07-26, updated: 2025-07-28, from: The Register (UK I.T. News)
-
-<h4>Follow the MAPP</h4> <p>A week after Microsoft told the world that its July software updates didn&#39;t fully fix a couple of bugs, which allowed miscreants to take over on-premises SharePoint servers and remotely execute code, researchers have assembled much of the puzzle — with one big missing piece.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/07/26/microsoft_sharepoint_attacks_leak/>
 

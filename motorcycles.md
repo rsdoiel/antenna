@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-08-02 14:08:02
+updated: 2025-08-03 06:08:25
 ---
 
 # motorcycles
 
-(date: 2025-08-02 14:08:02)
+(date: 2025-08-03 06:08:25)
+
+---
+
+## GALLERY: NASCAR’s Xfinity Series Wows At Iowa Speedway
+
+date: 2025-08-02, from: Kickin the Tires blog
+
+Photos by Jerry Jordan, Editor 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascars-xfinity-series-wows-at-iowa-speedway/>
+
+---
+
+## Brenden ‘Butterbean’ Queen wins Atlas 150 at Iowa
+
+date: 2025-08-02, from: Kickin the Tires blog
+
+NEWTON, Iowa (Aug. 1, 2025) – For one night, at least, Brenden Queen turned Iowa’s corn country into the new home of Bean Nation. In front of a tremendous crowd&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/brenden-butterbean-queen-wins-atlas-150-at-iowa/>
+
+---
+
+## MotoGP Star Involved in Horrible High-Side Crash, Still Finishes Third
+
+date: 2025-08-02, from: Ride Apart, Electric Motorcycle News
+
+MotoGP rider, Jack Miller, was participating in the second qualifying session of the Suzuka 8 Hours race for Yamaha Racing Team when he suffered a horrible high-side. 
+
+<br> 
+
+<https://www.rideapart.com/news/767786/jack-miller-motogp-crash-suzuka-8-hours-highside/>
 
 ---
 
@@ -377,16 +413,4 @@ By Lewis Franck, Special to Kickin’ the Tires INDIANAPOLIS &#8211; Kissing the
 <br> 
 
 <https://kickinthetires.net/nascar/everyone-wants-to-kiss-the-bricks-at-indianapolis-motor-speedway/>
-
----
-
-## Watch as a Motorcyclist Hits a Bear, Surprisingly Doesn't Get Eaten Alive
-
-date: 2025-07-26, from: Ride Apart, Electric Motorcycle News
-
-New fear unlocked.  
-
-<br> 
-
-<https://www.rideapart.com/news/767056/motorcyclist-hits-a-bear-riding-off-road-video/>
 
