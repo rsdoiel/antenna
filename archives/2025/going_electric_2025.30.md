@@ -1,11 +1,39 @@
 ---
 title: going electric
-updated: 2025-08-03 06:08:26
+updated: 2025-08-03 14:08:50
 ---
 
 # going electric
 
-(date: 2025-08-03 06:08:26)
+(date: 2025-08-03 14:08:50)
+
+---
+
+## Is this Hyundai IONIQ the safest affordable EV you can buy?
+
+date: 2025-08-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/hyundai-ioniq-6-headlight.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Car brands like Volvo, Mercedes-Benz, and Tesla have built up solid reputations for safety, but their ultra-safe vehicles often come with a premium price tag. The good news for car buyers looking for a deal, but still prize safety, is that there’s an all-electric Hyundai for under $40K that scores top marks on the IIHS’ toughest new safety tests.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,ev-deals,hyundai,iihs" data-layer-viewtype="unknown" data-post-id="427973" href="https://electrek.co/2025/08/03/is-this-hyundai-ioniq-the-safest-affordable-ev-you-can-buy/#more-427973" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/03/is-this-hyundai-ioniq-the-safest-affordable-ev-you-can-buy/>
+
+---
+
+## This Mitsubishi Outlander PHEV Was Due To Be Scrapped. A $1 Part Saved It
+
+date: 2025-08-03, from: Inside EVs News
+
+Some simple diagnosing goes a long way. 
+
+<br> 
+
+<https://insideevs.com/news/767313/mitsubishi-outlander-phev-1-dollar-fix/>
 
 ---
 

@@ -1,11 +1,59 @@
 ---
 title: socal north
-updated: 2025-08-03 06:08:17
+updated: 2025-08-03 14:08:41
 ---
 
 # socal north
 
-(date: 2025-08-03 06:08:17)
+(date: 2025-08-03 14:08:41)
+
+---
+
+## Heat wave this week brings possibility of triple digit temperatures
+
+date: 2025-08-03, updated: 2025-08-03, from: The LAist
+
+Temperatures will dial up starting Wednesday, peaking Thursday 
+
+<br> 
+
+<https://laist.com/news/climate-environment/heat-wave-this-week-brings-possibility-of-triple-digit-temperatures>
+
+---
+
+## Senate heads home with no deal to speed confirmations as irate Trump tells Schumer to 'go to hell'
+
+date: 2025-08-03, updated: 2025-08-03, from: The LAist
+
+Without a deal in hand, Republicans say they may try to change Senate rules when they return in September to speed up the pace of confirmations. 
+
+<br> 
+
+<https://laist.com/news/politics/senate-heads-home-with-no-deal-to-speed-confirmations-as-irate-trump-tells-schumer-to-go-to-hell>
+
+---
+
+## Who's the top dog? Wave-riding canines compete in the World Dog Surfing Championships
+
+date: 2025-08-03, updated: 2025-08-03, from: The LAist
+
+Pooches competed against similarly sized peers for a chance to appear in the finals. Additional heats featured multiple dogs surfing tandem or riding with people. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/whos-the-top-dog-wave-riding-canines-compete-in-the-world-dog-surfing-championships>
+
+---
+
+## Lawsuit takes aim at key strategy to create affordable housing in California
+
+date: 2025-08-03, updated: 2025-08-03, from: The LAist
+
+Many California cities require homebuilders to create affordable housing or pay fees to support construction of those units. A new lawsuit contends those fees are unconstitutional. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lawsuit-takes-aim-at-commonly-used-rule-to-create-affordable-housing-in-california>
 
 ---
 
@@ -739,7 +787,7 @@ Shaking was felt in Pasadena and parts of Los Angeles.
 
 ## Best things to do this weekend in LA and SoCal: Aug 1-3
 
-date: 2025-07-31, updated: 2025-07-31, from: The LAist
+date: 2025-07-31, updated: 2025-08-03, from: The LAist
 
 See Cynthia Erivo in Jesus Christ Superstar, join a farewell party at Cole’s French Dip, enjoy a poetry night at Grand Performances, check out Boleros de Noche and more of the best things to do this weekend. 
 

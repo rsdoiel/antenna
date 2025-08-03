@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-08-03 06:08:16
+updated: 2025-08-03 14:08:40
 ---
 
 # north america
 
-(date: 2025-08-03 06:08:16)
+(date: 2025-08-03 14:08:40)
+
+---
+
+##  LEVER WEEKLY: About That Pre-Bribe… 
+
+date: 2025-08-03, from: The Lever News
+
+ A Big Tech coup, a MAGA civil war, ChatGPT justice, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-about-that-pre-bribe/>
 
 ---
 

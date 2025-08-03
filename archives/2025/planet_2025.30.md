@@ -1,11 +1,127 @@
 ---
 title: planet
-updated: 2025-08-03 06:08:14
+updated: 2025-08-03 14:08:38
 ---
 
 # planet
 
-(date: 2025-08-03 06:08:14)
+(date: 2025-08-03 14:08:38)
+
+---
+
+## Former chair of RTÉ board John Sorohan dies aged 90
+
+date: 2025-08-03, from: RTÉ News
+
+Former chair of the board of RTÉ John Sorohan has died at the age of 90. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0803/1526787-john-sorohan-rte/>
+
+---
+
+## Man in 40s dies after fall at Oasis concert in London
+
+date: 2025-08-03, from: RTÉ News
+
+A man in his 40s has died after falling at Wembley Stadium during an Oasis concert, the Metropolitan Police have said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0803/1526781-oasis-fan-death/>
+
+---
+
+## Watch: Russian volcano erupts for first time in 600 years
+
+date: 2025-08-03, from: RTÉ News
+
+The Krasheninnikov Volcano in Russia has erupted for the first time in 600 years. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0803/1526779-russian-volcano-erupts/>
+
+---
+
+## Dubs hammer Meath to claim seventh All-Ireland title
+
+date: 2025-08-03, from: RTÉ News
+
+Dublin hit Meath hard and early to cruise to a 2-16 to 0-10 victory in the TG4 All-Ireland SFC final at Croke Park, virtually wrapping up a landmark seventh title success by half-time. 
+
+<br> 
+
+<https://www.rte.ie/sport/womens-football/2025/0803/1526724-dubs-hammer-meath-to-claim-seventh-all-ireland-title/>
+
+---
+
+## TG4 All-Ireland SFC final recap: Dublin 2-16 Meath 0-10
+
+date: 2025-08-03, from: RTÉ News
+
+Read how it all unfolded as Dublin claimed a seventh All-Ireland crown 
+
+<br> 
+
+<https://www.rte.ie/sport/womens-football/2025/0803/1526735-tg4-all-ireland-sfc-final-recap-dublin-2-16-meath-0-10/>
+
+---
+
+## Oasis 'shocked and saddened' after fan falls to death at London stadium concert
+
+date: 2025-08-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600722.1754244736!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chelsea-v-manchester-united-vitality-women-s-fa-cup-final.jpg' alt='An aerial view shows a stadium.' width='620' height='349' title='LONDON, ENGLAND - MAY 14: An aerial view of Wembley Stadium ahead of the Vitality Women&apos;s FA Cup Final between Chelsea FC and Manchester United at Wembley Stadium on May 14, 2023 in London, England. (Photo by Ryan Pierse/Getty Images)'/><p>The Metropolitan Police force said officers and paramedics responded to reports of an injured person just before 10:30 p.m. local time on Saturday night. It said a man in his 40s was found "with injuries consistent with a fall." He was pronounced dead at the scene.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/oasis-fan-death-fall-1.7600715?cmp=rss>
+
+---
+
+## Krasheninnikov volcano in Russia's Far East erupts for 1st time in centuries
+
+date: 2025-08-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600707.1754243626!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-volcanic-eruption.jpg' alt='A volcano erupts.' width='620' height='349' title='This photo taken from video by Artem Sheldr shows an aerial view of the eruption of the Krasheninnikov volcano of the Eastern volcanic belt, about 200 km (125 miles) northeast of the regional center of Petropavlovsk-Kamchatsky, Russia far east, Sunday, Aug. 3, 2025. (Artem Sheldr via AP)'/><p>A volcano on Russia's eastern Kamchatka Peninsula erupted overnight into Sunday for what scientists said is the first time in hundreds of years, days after a massive 8.8-magnitude earthquake.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/kamchatka-peninsula-russia-krasheninnikov-volcano-eruption-1.7600702?cmp=rss>
+
+---
+
+## Kyiv suffers massive air strikes prompting  retaliatory attacks
+
+date: 2025-08-03, from: Vatican News
+
+
+                    <p>Authorities say Russia launched a massive missile attack on Kyiv early Sunday, shortly after what is believed to be Moscow’s deadliest airstrike of the year on the Ukrainian capital killed at least 31 people, including five children, and wounded more than 150. The attacks prompted deadly retaliatory strikes by Ukraine on key Russian targets.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/ukraine-russia-war-increased-attacks.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/ukraine-russia-war-increased-attacks.html>
+
+---
+
+## War, hunger, displacement and disease plague Sudanese civilians
+
+date: 2025-08-03, from: Vatican News
+
+
+                    <p>At least 150,000 people have been killed in Sudan’s civil conflict, and about 12 million have fled their homes, leading to what the United Nations and other aid organisations describe as the world’s largest humanitarian crisis.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/sudan-conflict-war-famine-humanitarian-crisis.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/sudan-conflict-war-famine-humanitarian-crisis.html>
 
 ---
 
@@ -50,6 +166,30 @@ A 59-year-old man has appeared before a special sitting of Cork District Court c
 
 ---
 
+## White House officials defend firing of labour statistics official as critics warn of trust erosion
+
+date: 2025-08-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600668.1754236398!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs.JPG' alt='A man in a suit turns away from cameras as two younger people in a dress and a suit follow him. ' width='620' height='349' title='U.S. Trade Representative Jamieson Greer waves off reporters after he gave a pair of live TV interviews about tariffs at the White House in Washington, D.C., U.S., August 1, 2025.'/><p>Top White House economic advisers on Sunday defended U.S. President Donald Trump's firing of the head of the Bureau of Labor Statistics, pushing back against criticism that Trump's action could undermine confidence in official U.S. economic data.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/white-house-defends-firing-of-labour-stats-head-1.7600666?cmp=rss>
+
+---
+
+## Film about JFK assassination through the lens of an Italian-American mob wraps filming in Winnipeg
+
+date: 2025-08-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.4682950.1754235098!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/file-photo-of-jfk-on-the-day-of-his-death.jpg' alt='A white and black picture of a man and a woman sit on a car.' width='620' height='349' title='In this Nov. 22, 1963 file photo, President John F. Kennedy waves from his car in a motorcade in Dallas. Riding with Kennedy are First Lady Jacqueline Kennedy, right, Nellie Connally, second from left, and her husband, Texas Gov. John Connally, far left.'/><p>After decades of film and television portrayals of Sam Giancana, Nicholas Celozzi is reconceptualizing the 1963 shooting of John F. Kennedy with a focus on the major players in the Chicago Outfit, a powerful Italian-American criminal organization, with a movie that was filmed in Winnipeg this summer.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/nicholas-celozzi-jfk-assassination-film-winnipeg-1.7600639?cmp=rss>
+
+---
+
 ## Indian man warns community to be cautious after assault
 
 date: 2025-08-03, from: RTÉ News
@@ -62,11 +202,47 @@ An Indian data scientist who was set upon and beaten by a group of teenagers in 
 
 ---
 
-## Ukrainian drones spark fire at Sochi oil depot
+## Cholera spreads in North Darfur, 640,000 children under threat, UNICEF warns
+
+date: 2025-08-03, from: United Nations, Top Stories
+
+Cholera is ripping through North Darfur, Sudan, threatening thousands of children already weakened by hunger and displacement, UN Children’s Fund (UNICEF) warned on Sunday, as aid convoys struggle to reach cut-off communities amid escalating conflict. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165562>
+
+---
+
+## Awaza gears up to host UN conference on landlocked developing countries
+
+date: 2025-08-03, from: United Nations, Top Stories
+
+In the city of Awaza, where the Caspian Sea meets the desert, UN and Turkmen flags were raised on Sunday ahead of the Third United Nations Conference on Landlocked Developing Countries (LLDC3), as final preparations continue to welcome world leaders and delegates for a week of high-level talks on boosting development in some of the world’s most geographically disadvantaged nations. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165561>
+
+---
+
+## Violence in northern Mozambique forces thousands to flee, straining aid efforts
+
+date: 2025-08-03, from: United Nations, Top Stories
+
+Recent attacks by armed groups in northern Mozambique displaced tens of thousands in July alone, deepening an already dire humanitarian crisis in Cabo Delgado and straining limited aid supplies. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165560>
+
+---
+
+## MP from Zelensky's party arrested for corruption
 
 date: 2025-08-03, from: RTÉ News
 
-An overnight Ukrainian drone attack sparked a fire at an oil depot in Sochi, the Russian resort that hosted the 2014 Winter Olympic Games, around 400km from the Ukrainian border, authorities have said. 
+A Ukrainian MP from Volodymyr Zelensky's party and other officials have been arrested after the country's anti-corruption agencies uncovered what they call a large-scale bribery scheme in the purchase of drones and electronic warfare systems. 
 
 <br> 
 
@@ -83,6 +259,18 @@ Pope Leo has celebrated the largest event yet of his nearly three-month tenure, 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0803/1526750-pope-leo/>
+
+---
+
+## Ukrainian drone attack sets Russian oil depot on fire as Zelenskyy announces prisoner exchange
+
+date: 2025-08-03, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600602.1754225806!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A man in firefighting equipment and a helmet walks toward the camera as a structure burns behind him. ' width='620' height='349' title='In this photo provided by Ukraine&apos;s 24th Mechanized Brigade press service, a firefighter puts out the fire after a Russian drone hit the market in the town of Druzhkivka, Donetsk region, Ukraine, Saturday, Aug. 2, 2025.'/><p>An overnight Ukrainian drone attack on an oil depot near Russia’s Black Sea resort of Sochi sparked a major fire, Russian officials said Sunday, as the two countries traded strikes and the Ukrainian president announced a prisoner exchange.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-drone-attack-russia-oil-depot-1.7600583?cmp=rss>
 
 ---
 
@@ -114,11 +302,11 @@ A person has died following an arson attack on a car in Co Tyrone. Police said a
 
 ---
 
-## Storm Floris set to bring 'unseasonably windy weather'
+## Storm Floris set to bring 'blustery' and 'windy' weather
 
 date: 2025-08-03, from: RTÉ News
 
-Met Éireann has warned Storm Floris is set to bring "wet and unseasonably windy weather" as councils issue advice ahead of its arrival. 
+Met Éireann has warned Storm Floris is set to bring a "blustery and a quite windy day tomorrow", as local authorities issue advice ahead of its arrival. 
 
 <br> 
 
@@ -144,11 +332,11 @@ date: 2025-08-03, from: Vatican News
 
 ---
 
-## Aid group says Israeli attack killed staff member in Gaza
+## 'Incredible destruction' of people in Gaza - Higgins
 
 date: 2025-08-03, from: RTÉ News
 
-The Palestine Red Crescent Society has said one of its staff members was killed and three others wounded in an Israeli attack on its Khan Younis headquarters in Gaza. 
+President Michael D Higgins has called on the United Nations Security Council to do more for the people of Gaza. 
 
 <br> 
 
@@ -184,11 +372,11 @@ US President Donald Trump gave Russia an ultimatum earlier this week to end its 
 
 ---
 
-## Thousands gather in Wexford for opening day of the Fleadh
+## Thousands gather for opening day of Wexford Fleadh
 
 date: 2025-08-03, from: RTÉ News
 
-Thousands of people are expected to gather for the opening day of Fleadh Cheoil na hÉireann 2025, which is being held in Wexford town for the second year in a row. 
+President Michael D Higgins has described the Fleadh as a "significant cultural event", saying respect for music performances and the performer is "deep within the Irish consciousness". 
 
 <br> 
 
@@ -205,6 +393,18 @@ The latest phase of the EU's AI Act means the Government must put structures in 
 <br> 
 
 <https://www.rte.ie/news/business/2025/0803/1526576-eu-ai-act/>
+
+---
+
+## Live, Forever: Why bands are reuniting early and often
+
+date: 2025-08-03, from: RTÉ News
+
+Reunion tours used to be confined to retired rockers looking to pad out their pensions, but the changing economics of the music industry has prompted groups to reunite at a much younger age, writes Adam Maguire. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0803/1526595-reunion-music-tour/>
 
 ---
 
@@ -1062,7 +1262,7 @@ Despite Israel’s 27 July announcement of daily military pauses in western Gaza
 
 ## A mandate for change: UN releases proposals for streamlining of tasks as part of major reform agenda
 
-date: 2025-08-01, from: United Nations, UN Affairs
+date: 2025-08-01, from: United Nations, Top Stories
 
 Millions of lives have been improved by the mandates assigned to the UN. Yet duplication, fragmentation and outdated tasks are stretching resources and undermining the organization’s ability to deliver for those who need it most. As part of the UN80 Initiative, UN Secretary-General António Guterres has presented a set of proposals to Member States to make the UN more efficient, coherent and impactful. 
 
@@ -1874,7 +2074,7 @@ Trade must be part of the solution to end plastic pollution – a global problem
 
 ## ‘Delivering better’: New ECOSOC president emphasises climate action, food security
 
-date: 2025-07-31, from: United Nations, UN Affairs
+date: 2025-07-31, from: United Nations, Top Stories
 
 The Ambassador of Nepal to the United Nations, Lok Bahadur Thapa, was on Thursday elected president of the Economic and Social Council (ECOSOC) at what he called a “historic moment” for his country and its enduring commitment to multilateralism. 
 

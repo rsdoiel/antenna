@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-08-03 06:08:27
+updated: 2025-08-03 14:08:51
 ---
 
 # craft
 
-(date: 2025-08-03 06:08:27)
+(date: 2025-08-03 14:08:51)
+
+---
+
+## Soft Wax 2.0 in Full Production
+
+date: 2025-08-03, from: Lost Arg Press blog
+
+We are now selling jars of Soft Wax 2.0 – our favorite finish for bare wood – which we make at our Covington headquarters. An 8-ounce jar of Soft Wax 2.0 is $25. Or you can buy a kit that includes the wax, an applicator pad and the huck-weave towels that do an outstanding job... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/08/03/soft-wax-2-0-in-full-production/>
 
 ---
 

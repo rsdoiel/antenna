@@ -1,11 +1,72 @@
 ---
 title: pacific
-updated: 2025-08-03 06:08:18
+updated: 2025-08-03 14:08:42
 ---
 
 # pacific
 
-(date: 2025-08-03 06:08:18)
+(date: 2025-08-03 14:08:42)
+
+---
+
+## Samoa, NZ, New Caledonia open Oceania U16 women's tournament with wins
+
+date: 2025-08-03, from: 
+
+The Kiwi women were held to less than five goals for the fourth time in event history. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568813/samoa-nz-new-caledonia-open-oceania-u16-women-s-tournament-with-wins>
+
+---
+
+## Massive cocaine and meth haul seized on yacht in French Polynesia worth €331 million
+
+date: 2025-08-03, from: 
+
+In addition to the narcotics worth €331 million street value, local authorities seized 11 Glock semi‑automatic pistols and 24 ammunition magazines. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568893/massive-cocaine-and-meth-haul-seized-on-yacht-in-french-polynesia-worth-euros-331-million>
+
+---
+
+## Hawaii, Guam lawmakers seek to plug loopholes in Jones Act that pose risks to national security 
+
+date: 2025-08-03, from: Pacific Island Times
+
+“Under long-standing loopholes in maritime law, Jones Act shippers can and do outsource major vessel parts fabrications and modifications to foreign shipyards, primarily those in China,” said Case. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/hawaii-guam-lawmakers-seek-to-plug-loopholes-in-jones-act-that-pose-risks-to-national-security>
+
+---
+
+## Why was the tsunami not that bad? Ask Russia 
+
+date: 2025-08-03, from: Pacific Island Times
+
+One of the strongest earthquakes ever recorded, it brought little damage. The catastrophe many feared would engulf the Pacific never came to be. The evacuations were, thankfully, an overreaction.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/why-was-the-tsunami-not-that-bad-ask-russia>
+
+---
+
+## Searching for freshwater off Hawaiʻi Island could solve mystery
+
+date: 2025-08-03, from: University of Hawaiʻi News
+
+<p>The goal was to confirm the existence of a potentially massive underground reservoir of fresh or brackish water hidden beneath the seafloor.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/03/searching-for-freshwater-off-hawaii-island/">Searching for freshwater off Hawaiʻi Island could solve mystery</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/03/searching-for-freshwater-off-hawaii-island/>
 
 ---
 
@@ -421,18 +482,6 @@ date: 2025-08-02, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-says-he-ordered-subs-repositioned-in-rare-nuclear-threat-to-russia/>
-
----
-
-## Samoa, NZ, New Caledonia open Oceania U16 women's tournament with wins
-
-date: 2025-08-02, from: 
-
-The Kiwi women were held to less than five goals for the fourth time in event history. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/568813/samoa-nz-new-caledonia-open-oceania-u16-women-s-tournament-with-wins>
 
 ---
 

@@ -1,11 +1,306 @@
 ---
 title: snapshots
-updated: 2025-08-03 06:08:29
+updated: 2025-08-03 14:08:53
 ---
 
 # snapshots
 
-(date: 2025-08-03 06:08:29)
+(date: 2025-08-03 14:08:53)
+
+---
+
+## Making my GitHub heatmap widget
+
+date: 2025-08-04, from: Lean Rada's blog
+
+
+<p><em>For RSS readers: This article contains interactive content available on the <a href="https://leanrada.com/notes/github-heatmap-widget/?ref=rss">original post on leanrada.com</a>.</em></p>
+
+<p>This post is about how I made the GitHub heatmap widget on my site.</p>
+
+<p>Here’s the raw, live WebComponent <code>&lt;gh-contribs&gt;</code> by the way:</p>
+<card-box>
+  <pre>Interactive content: <a href="https://leanrada.com/notes/github-heatmap-widget/?ref=rss">Visit the post to interact with this content.</a>
+Alternative name: Gh Contribs</pre>
+</card-box>
+<h2>Scraping the data</h2>
+
+<p>First, I had to scrape the heatmap data. I don’t know if there’s a proper API, but I found an endpoint that renders an HTML partial of what I wanted.</p>
+
+<p>As far as I know, the GitHub website today works using partial HTMLs to update its UI without reloading the whole page. I think this endpoint populates the contribution graph section of the profile page.</p>
+
+<p>The endpoint that returns a user’s contribution graph is <a href="https://github.com/users/Kalabasa/contributions" target="_blank"><code>https://github.com/users/{username}/contributions</code></a>. I presume the user has to have contribution stats public. This undocumented API could also break at any time. 😬</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/github-heatmap-widget/contributions-html.png?ref=rss" loading="lazy" width="932" height="741">
+  <figcaption>The response HTML for my github.com/users/Kalabasa/contributions</figcaption>
+</figure>
+
+<p>Loading this endpoint gives you an unstyled piece of HTML containing an HTML table of contribution data and other UI. The table cells are invisible because of the lack of styles! When embedded in the profile page, it inherits the appropriate styling in context.</p>
+
+<img alt="styled contribution table" src="https://leanrada.com/notes/github-heatmap-widget/contributions-styled.png?ref=rss" loading="lazy" width="741" height="204">
+
+<p>The first column is the weekday label, and the rest of the cells seem to represent a single day each. The data is encoded in the HTML that presents the data! This reminds me of <a href="https://htmx.org/essays/hateoas/" target="_blank">Hypermedia as the Engine of Application State</a>. html = data.</p>
+
+<pre><code>&lt;tbody&gt;
+&lt;tr style="height: 10px"&gt;
+  &lt;td class="ContributionCalendar-label" style="position: relative"&gt;
+    &lt;span class="sr-only"&gt;Monday&lt;/span&gt;
+    &lt;span aria-hidden="true" style="clip-path: None; position: absolute; bottom: -3px"&gt;
+      Mon
+    &lt;/span&gt;
+  &lt;/td&gt;
+  &lt;td
+    tabindex="0"
+    data-ix="0"
+    aria-selected="false"
+    aria-describedby="contribution-graph-legend-level-2"
+    style="width: 10px"
+    data-date="2024-08-05"
+    id="contribution-day-component-1-0"
+    data-level="2"
+    role="gridcell"
+    data-view-component="true"
+    class="ContributionCalendar-day"&gt;
+  &lt;/td&gt;
+  &lt;td
+    tabindex="0"
+    data-ix="1"
+    aria-selected="false"
+    aria-describedby="contribution-graph-legend-level-1"
+    style="width: 10px"
+    data-date="2024-08-12"
+    id="contribution-day-component-1-1"
+    data-level="1"
+    role="gridcell"
+    data-view-component="true"
+    class="ContributionCalendar-day"&gt;
+  &lt;/td&gt;
+  &lt;td
+    tabindex="0"
+    data-ix="2"
+    aria-selected="false"
+    aria-describedby="contribution-graph-legend-level-2"
+    style="width: 10px"
+    data-date="2024-08-19"
+    id="contribution-day-component-1-2"
+    data-level="2"
+    role="gridcell"
+    data-view-component="true"
+    class="ContributionCalendar-day"&gt;
+  &lt;/td&gt;
+  <!--...--></code></pre>
+
+<p>What I was looking for here was the <code>data-level</code> attribute on each cell. It contains a coarse integer value that indicates the activity level for the day.</p>
+
+<p>Coupled with the <code>data-date</code> attribute, it became rather easy to scrape this data! Instead of keeping track of columns and rows, I just go through each <code>data-date</code> and <code>data-level</code> as a (date,level) data point.</p>
+
+<p>Here’s my parse function using <a href="https://cheerio.js.org/" target="_blank">cheerio</a>, a jQuery clone for Node.js.</p>
+
+<pre><code>const res = await fetch(
+  "https://github.com/users/Kalabasa/contributions");
+let data = parseContribs(await res.text());
+
+/**
+ * Parses a GitHub contribution calendar HTML string and extracts contribution data.
+ *
+ * @param {string} html - The HTML string containing the GitHub contribution calendar.
+ * @returns {{ date: Date, level: number }[]} Array of contribution objects with date and activity level.
+ * @throws {Error} If the contribution calendar table cannot be found in the HTML.
+ */
+function parseContribs(html) {
+  const ch = cheerio.load(html);
+  const chTable = ch("table.ContributionCalendar-grid");
+  if (!chTable.length) throw new Error("Can't find table.");
+  const chDays = chTable.find("[data-date]");
+  const data = chDays
+    .map((_, el) =&gt; {
+      const chDay = ch(el);
+      const date = new Date(chDay.attr("data-date"));
+      const level = parseInt(chDay.attr("data-level"), 10);
+      return { date, level };
+    })
+    .get();
+  return data;
+}</code></pre>
+
+
+This data is scraped at regular intervals, reformatted into a grid, and saved into a compact JSON format for later consumption and rendering by the WebComponent on the client.
+
+
+<pre><code>// gh-contribs.json
+[
+  [1,2,1,2,2,1,1],
+  [0,1,0,2,0,1,0],
+  [1,1,1,1,1,1,0],
+  [0,1,0,0,1,1,0],
+  [0,0,1,0,0,0]
+]</code></pre>
+
+<h2>Rendering the data</h2>
+
+<p>The reason why the data is reformatted into a grid like that is to make the rendering logic straightforward. The data is structured so that it can be directly converted into HTML without thinking in dates and weeks that are in the original data.</p>
+
+<p>Here are the current JSON and WebComponent side by side. Each row in the data gets directly rendered as a column in the component.</p>
+<auto-grid>
+  <code-block language="js">
+    <pre><code>
+      <pre>Interactive content: <a href="https://leanrada.com/notes/github-heatmap-widget/?ref=rss">Visit the post to interact with this content.</a>
+Alternative name: Inline script</pre>
+    </code></pre>
+  </code-block>
+  <pre>Interactive content: <a href="https://leanrada.com/notes/github-heatmap-widget/?ref=rss">Visit the post to interact with this content.</a>
+Alternative name: Gh Contribs</pre>
+</auto-grid>
+<p>As such, <code>&lt;gh-contribs&gt;</code>’s initialisation logic is really simple:</p>
+
+<pre><code>const contribs = await fetch(
+  "path/to/gh-contribs.json"
+).then((res) =&gt; res.json());
+
+let htmlString = "";
+for (const col of contribs) {
+  for (const level of col) {
+    htmlString += html`&lt;div data-level="${level}"&gt;${level}&lt;/div&gt;`;
+  }
+}
+this.innerHTML = htmlString;</code></pre>
+
+
+Add some CSS and it’s done:
+
+
+<pre><code>gh-contribs {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(7, auto);
+  gap: 12px;
+  div {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    background: #222c2c;
+    color: transparent;
+    &amp;::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: #54f8c1;
+    }
+    &amp;[data-level="0"]::after {
+      opacity: 0;
+    }
+    &amp;[data-level="1"]::after {
+      opacity: 0.3;
+    }
+    &amp;[data-level="2"]::after {
+      opacity: 0.6;
+    }
+    &amp;[data-level="3"]::after {
+      opacity: 1;
+    }
+  }
+}</code></pre>
+
+<h2>Why not use the original HTML?</h2>
+
+<p>Why not just embed the contributions HTML from GitHub? Slice the relevant <code>&lt;tr&gt;</code>s and <code>&lt;td&gt;</code>s…? Why parse the original HTML table, convert it to JSON, then render it as HTML again?</p>
+
+<p>The main reason to do [HTML → JSON → HTML] is to remain flexible. As you know, that endpoint is undocumented. Also, depending on the HTML structure of the original is risky. Risk of breakage, risk of unwanted content, etc.</p>
+
+<p>This way, I can change how I get the data without refactoring the WebComponent. I could go [<strong>GitHub API</strong> → JSON → HTML] or [<strong>local git script</strong> → JSON → HTML] or whatever.</p>
+
+<p>It also works the other end. I actually rewrote this widget recently (from statically-generated HTML into a WebComponent) without having to change the scraper script or the JSON data structure.</p>
+
+<h2>Final touches</h2>
+
+<p>The WebComponent renders just the grid itself for flexibility. This let me use it in different ways, like with an icon and heading as in the home page.</p>
+<card-box>
+  <h4>
+    <img src="https://leanrada.com/icons/github.png?ref=rss" alt="" loading="lazy" width="16" height="16">
+    my github<br>heatmap
+  </h4>
+  <pre>Interactive content: <a href="https://leanrada.com/notes/github-heatmap-widget/?ref=rss">Visit the post to interact with this content.</a>
+Alternative name: Gh Contribs</pre>
+</card-box>
+<p>Here’s the <a href="https://leanrada.com/components/gh-contribs/gh-contribs.js?ref=rss" target="_blank">source code for this WebComponent</a> if you’re interested.</p>
+ 
+
+<br> 
+
+<https://leanrada.com/notes/github-heatmap-widget/?ref=rss>
+
+---
+
+## AI Agents have, so far, mostly been a dud
+
+date: 2025-08-03, from: Gary Marcus blog
+
+Last year, big tech couldn&#8217;t stop talking about how AI &#8220;agents&#8221; would be the next big thing in 2025. It hasn&#8217;t quite turned out that way. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/ai-agents-have-so-far-mostly-been>
+
+---
+
+## From Async/Await to Virtual Threads
+
+date: 2025-08-03, updated: 2025-08-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://lucumr.pocoo.org/2025/7/26/virtual-threads/">From Async/Await to Virtual Threads</a></strong></p>
+Armin Ronacher has long been critical of async/await in Python, both for necessitating <a href="https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/">colored functions</a> and because of the more subtle challenges they introduce like <a href="https://lucumr.pocoo.org/2020/1/1/async-pressure/">managing back pressure</a>.</p>
+<p>Armin <a href="https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/">argued convincingly</a> for the threaded programming model back in December. Now he's expanded upon that with a description of how virtual threads might make sense in Python.</p>
+<p>Virtual threads behave like real system threads but can vastly outnumber them, since they can be paused and scheduled to run on a real thread when needed. Go uses this trick to implement goroutines which can then support millions of virtual threads on a single system.</p>
+<p>Python core developer Mark Shannon <a href="https://discuss.python.org/t/add-virtual-threads-to-python/91403">started a conversation</a> about the potential for seeing virtual threads to Python back in May.</p>
+<p>Assuming this proposal turns into something concrete I don't expect we will see it in a production Python release for a few more years. In the meantime there are some exciting improvements to the Python concurrency story - most notably <a href="https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-pep734">around sub-interpreters</a> - coming up this year in Python 3.14.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/armin-ronacher">armin-ronacher</a>, <a href="https://simonwillison.net/tags/concurrency">concurrency</a>, <a href="https://simonwillison.net/tags/gil">gil</a>, <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/threads">threads</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/3/virtual-threads/#atom-everything>
+
+---
+
+## GMK NucBox K12 mini PC with AMD Ryzen 7 H 255 is like a cheaper EVO-T1 (with AMD instead of Intel)
+
+date: 2025-08-03, from: Liliputing
+
+<p>The GMK NucBox K12 is a small desktop computer with an OCuLink port for a high-speed connection to an external graphics dock or other accessories, support for up to 128GB of DDR5-5600 memory, up to three SSDs, and dual 2.5 Gb Ethernet ports. If all of that sounds familiar, that&#8217;s because it could also describe the GMK [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmk-nucbox-k12-mini-pc-with-amd-ryzen-7-h-255-is-like-a-cheaper-evo-t1-with-amd-instead-of-intel/">GMK NucBox K12 mini PC with AMD Ryzen 7 H 255 is like a cheaper EVO-T1 (with AMD instead of Intel)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmk-nucbox-k12-mini-pc-with-amd-ryzen-7-h-255-is-like-a-cheaper-evo-t1-with-amd-instead-of-intel/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-03, from: Robert's feed at BlueSky)
+
+I am happy this is happening.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvj2lbommk2b>
+
+---
+
+## GPD Win 5 handheld gaming PC specs & performance preview: Strix Halo processor, 7 inch display, and no keyboard
+
+date: 2025-08-03, from: Liliputing
+
+<p>This week GPD revealed that its next handheld gaming PC would be powered by an AMD Strix Halo processor, bringing discrete-class graphics to a handheld PC for the first time. But at the time the company didn&#8217;t share many other details about the upcoming GPD Win 5, which left questions about battery life and overall [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/">GPD Win 5 handheld gaming PC specs &#038; performance preview: Strix Halo processor, 7 inch display, and no keyboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-win-5-handheld-gaming-pc-specs-revealed-strix-halo-processor-7-inch-display-and-no-keyboard/>
 
 ---
 
@@ -18,6 +313,18 @@ Tariffs will be very high as far as the eye can see. What does that mean?
 <br> 
 
 <https://paulkrugman.substack.com/p/the-economics-of-smoot-hawley-20>
+
+---
+
+## Creating a Toy Programming Language with Actor-Based Parallelism
+
+date: 2025-08-03, from: Pointers gone wild blog
+
+ 
+
+<br> 
+
+<https://pointersgonewild.com/2025-08-03-creating-a-toy-language-with-actor-based-parallelism/>
 
 ---
 

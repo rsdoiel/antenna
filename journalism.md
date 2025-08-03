@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-08-03 06:08:22
+updated: 2025-08-03 14:08:46
 ---
 
 # journalism
 
-(date: 2025-08-03 06:08:22)
+(date: 2025-08-03 14:08:46)
+
+---
+
+## UCLA ethnic studies centers’ posters, bulletin boards targeted with vandalism
+
+date: 2025-08-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The posters and bulletin boards outside UCLA&#8217;s ethnic studies centers have been the target of over a dozen vandalism incidents since April. 
+Incidents have involved the removal or destruction of posters, flyers and office placards, said Jeffrey Chobanian, the acting captain of the UCPD administrative and operations bureau, in an emailed statement. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/03/ucla-ethnic-studies-centers-posters-bulletin-boards-targeted-with-vandalism/>
 
 ---
 

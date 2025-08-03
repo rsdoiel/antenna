@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-08-03 06:08:25
+updated: 2025-08-03 14:08:49
 ---
 
 # retro computing
 
-(date: 2025-08-03 06:08:25)
+(date: 2025-08-03 14:08:49)
+
+---
+
+## Developers’ fireside chat – 9th August
+
+date: 2025-08-03, from: RiscOS Story
+
+The next friendly fireside chat for people interested in RISC OS software development will take place at 7:30pm on Saturday, 9th August. Taking place online via the Zoom video conferencing service, these meetings are intended as an informal way of allowing RISC OS programmers, and anyone interested in the subject, to get together online to discuss relevant matters. With no specific topic planned, discussions are steered by what people bring up, so that could be their current works-in-progress, development of RISC OS itself, the tools available, and so on –&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/developers-fireside-chat-9th-august/>
+
+---
+
+## A software variety at WROCC – 6th August
+
+date: 2025-08-03, from: RiscOS Story
+
+The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 6th August, at which the club&#8217;s own Chris Hughes will deliver &#8220;an off-the-cuff talk exploring various software topics&#8221;. The specific subjects he wants to cover include Pinboard2 features, overlooked aspects of web browser Iris, and a look at Lock Screen software. He also wants to share some general hints and tips and, if possible, he&#8217;ll go into setting up Internet Printing Protocol (IPP) from RISC OS. The start time for the meeting is 7:45pm, and&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/software-variety-at-wrocc-6th-august/>
 
 ---
 
