@@ -1,11 +1,73 @@
 ---
 title: pacific
-updated: 2025-08-04 06:07:43
+updated: 2025-08-04 14:09:34
 ---
 
 # pacific
 
-(date: 2025-08-04 06:07:43)
+(date: 2025-08-04 14:09:34)
+
+---
+
+## Legislators explore UH agriculture stations on Kauaʻi, Maui
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p>Legislators toured <abbr>CTAHR</abbr><abbr>'s </abbr><abbr>CARES</abbr> facilities on Maui and <span aria-label="Kauai,">Kaua&#699;i,</span> seeing innovative agricultural research from protea plots to Pacific crops.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/legislators-explore-ag-stations/">Legislators explore <abbr>UH</abbr> agriculture stations on Kauaʻi, Maui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/legislators-explore-ag-stations/>
+
+---
+
+## The 'right to choose' key to the Cook Islands-NZ relationship - Peters
+
+date: 2025-08-04, from: 
+
+New Zealand's foreign minister says Cook Islanders are free to choose whether their country continues in free association with New Zealand. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568960/the-right-to-choose-key-to-the-cook-islands-nz-relationship-peters>
+
+---
+
+## OFC U16 Women's Championship: Samoa secures semifinal spot after dominant win over Fiji
+
+date: 2025-08-04, from: 
+
+Samoa is the first team to qualify for the semifinals of the OFC 2025 Under-16 Women's Championship following their 4-0 win over Fiji in Apia on Monday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569003/ofc-u16-women-s-championship-samoa-secures-semifinal-spot-after-dominant-win-over-fiji>
+
+---
+
+## Corned beef conundrum: Thefts see Pacific staple moved behind the counter
+
+date: 2025-08-04, from: 
+
+"It should be there ready for them to access without feeling whakaama about having to ask for it," one woman said. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569001/corned-beef-conundrum-thefts-see-pacific-staple-moved-behind-the-counter>
+
+---
+
+## Can Hawaiʻi get to 100% renewable energy?
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> research outlines <span aria-label="Hawaii's">Hawai&#699;i's</span> path to 100% renewable energy by 2045, emphasizing firm power sources like geothermal to phase out fossil fuels.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/hawaii-renewable-energy/">Can Hawaiʻi get to 100% renewable energy?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/hawaii-renewable-energy/>
 
 ---
 
@@ -188,18 +250,6 @@ date: 2025-08-04, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/04/nation-world-news/trumps-tariffs-are-making-money-that-may-make-them-hard-to-quit/>
-
----
-
-## The 'right to choose' key to the Cook Islands-NZ relationship - Peters
-
-date: 2025-08-04, from: 
-
-New Zealand's foreign minister says Cook Islanders are free to choose whether their country continues in free association with New Zealand. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/568960/the-right-to-choose-key-to-the-cook-islands-nz-relationship-peters>
 
 ---
 

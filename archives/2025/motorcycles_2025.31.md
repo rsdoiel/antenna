@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-08-04 06:07:50
+updated: 2025-08-04 14:09:40
 ---
 
 # motorcycles
 
-(date: 2025-08-04 06:07:50)
+(date: 2025-08-04 14:09:40)
+
+---
+
+## Harley-Davidson Names New CEO, Who Comes From the Entertainment and Pizza Worlds
+
+date: 2025-08-04, from: Ride Apart, Electric Motorcycle News
+
+Harley-Davidson just named Arthur "Artie" Starrs as its next CEO, replacing the outgoing Jochen Zeitz. Starrs will also join Harley's Board of Directors, and comes from Topgolf and Pizza Hut. 
+
+<br> 
+
+<https://www.rideapart.com/news/767959/harley-davidson-motorcycles-hires-new-ceo-artie-starrs-topgolf/>
+
+---
+
+## DJI’s Sick New Electric Mountain Bike Is Here, and You Can Actually Buy It
+
+date: 2025-08-04, from: Ride Apart, Electric Motorcycle News
+
+Drone and action-camera maker DJI has finally lifted the lid on its Amflow PL, a carbon-frame, full-suspension mountain bike that’s packing some serious trail-ready tech.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767657/dji-drone-amflow-pl-electric-mountain-bike-available-usa/>
+
+---
+
+## Honda Teases Sweet New Naked Motorcycle Concept at Suzuka 8 Hours Weekend
+
+date: 2025-08-04, from: Ride Apart, Electric Motorcycle News
+
+Team Red is hosting a special 'show run' of multiple CB bikes, including the world premiere of the CB 1000 F SE at the 2025 Suzuka 8 Hours endurance race. 
+
+<br> 
+
+<https://www.rideapart.com/news/767763/honda-cb1000fse-world-premiere-suzuka/>
 
 ---
 

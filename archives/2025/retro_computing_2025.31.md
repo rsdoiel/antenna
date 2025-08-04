@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-04 06:07:51
+updated: 2025-08-04 14:09:41
 ---
 
 # retro computing
 
-(date: 2025-08-04 06:07:51)
+(date: 2025-08-04 14:09:41)
+
+---
+
+## There's a New Linux AI Assistant in Town
+
+date: 2025-08-04, from: Linux Magazine
+
+<p>Newelle is a Linux AI assistant that can work with different LLMs and includes document parsing and profiles.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/There-s-a-New-Linux-AI-Assistant-in-Town>
 
 ---
 

@@ -1,17 +1,121 @@
 ---
 title: columns
-updated: 2025-08-04 06:07:46
+updated: 2025-08-04 14:09:37
 ---
 
 # columns
 
-(date: 2025-08-04 06:07:46)
+(date: 2025-08-04 14:09:37)
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-08-04, from: Dave Winer's Scripting News)
 
-WordPress <s>would</s> will make a much better open social web server than any other software out there. We can all develop any component around a solid, documented, simple and widely supported open source API. 
+My <a href="https://imgs.scripting.com/2025/08/04/himom.png">contribution</a> to <a href="https://715-999-7483.com/">715-999-7483.com</a>. Now it's your turn! 
+
+<br> 
+
+<http://scripting.com/2025/08/04.html#a204933>
+
+---
+
+## Why the Hell is Musk getting a $29 billion raise? 
+
+date: 2025-08-04, from: Robert Reich's blog
+
+It's authoritarian capitalism 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-is-musk-getting-a-29-billion>
+
+---
+
+## August 3, 2025
+
+date: 2025-08-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170110948/17a310e980511decd42b1598d8e6c97c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170110948/17a310e980511decd42b1598d8e6c97c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-3-2025-341>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-04, from: Dave Winer's Scripting News)
+
+Since the govt is no longer funding NPR maybe they could stop bending over for the Repubs. Lay it all out there, stop spinning all the crazy fascist authoritarianism as both-sides and normal partisan politics. They know we're in a lot deeper. Since we're now paying the bills, how about plain facts. 
+
+<br> 
+
+<http://scripting.com/2025/08/04.html#a161932>
+
+---
+
+## Antisemitism is everywhere
+
+date: 2025-08-04, from: Dave Winer's Scripting News
+
+<p>Academics, who speak scientific language, won't say "there's no antisemitism at UCLA" because they know that's not true. Antisemitism is everywhere. The question is how limiting and dangerous is it. And how often is it encountered. </p>
+<p>I grew up in the 1960s in a Queens neighborhood where antisemitism was a real thing. We were blamed for World War II. If it weren't for Jews my uncle Pete would still be alive. That was the story. No doubt the kids heard that at home. </p>
+<p>Antisemitism was bred into us at home. Because of all the abuse my parents and grandparents, uncles and cousins, suffered in Europe, before coming the US during the war, their own idea of what it meant to be Jewish was not entirely positive. You can't help but feel responsible in some ways for the abuse you suffer. And you can't help but pass that on to your kids. </p>
+<p>There was and is a fair amount of pain associated with being Jewish in the United States. Fact.</p>
+<p>But: At UCLA? Harvard? Columbia? Please.  </p>
+<p>At the same time scientists can admit that there is antisemitism at these places we must also acknowledge that to single these institutions out among all, is complete utter total fucking bullshit.</p>
+<p>That's a scientific appraisal, btw. Provable in peer-reviewed publications (though not submitted).</p>
+<p>Antisemitism is complex. We should be hearing, openly, what exactly the case is against these universities. The government is theoretically representing the Constitution and the people of the United States. The old "no taxation without representation" <a href="https://en.wikipedia.org/wiki/No_taxation_without_representation">thing</a>. Let's hear the case in clear terms, and why the universities are supposedly so bad. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/04/143315.html?title=antisemitismIsEverywhere>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/02/16/gaslight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/Gaslighting">Gaslighting</a> is <i>everywhere. </i>ChatGPT just said to me "I understand why you feel that way." It has nothing to do with my feelings. I don't have feelings about computers. It lied to me over and over just now. I said you're lying to me. "I understand why you feel that way." As if it were the all-knowing feeling-inferring god-like creature it is not. The real question for me is this -- Does Open AI program it to be this way. Think about the opportunities it has to introduce true feelings of insecurity and worthlessness. That's the purpose of gaslighting. It's evil. 
+
+<br> 
+
+<http://scripting.com/2025/08/04.html#a140042>
+
+---
+
+## A modest proposal for new holidays to manage your digital life
+
+date: 2025-08-04, from: Dave Rupert blog
+
+<p>The cost of being online is getting too damn high and I’m tired of pretending it’s possible to fit these tasks into a normal life. That’s why I’d like to share a modest proposal for a new set of holidays to manage our digital lives:</p>
+<p>(Ahem.)</p>
+<ul>
+<li>A day to clear out your inboxes</li>
+<li>A day to reset your passwords and delete old accounts</li>
+<li>A day to fix your calendars</li>
+<li>A day to cancel online service subscriptions</li>
+<li>A day to manage the tags on your website</li>
+<li>A day to switch out any critical apps</li>
+<li>A day to backup your computer and phone</li>
+<li>A day to organize your photos</li>
+<li>A day to organize your music collection and playlists</li>
+<li>A day to setup your new phone/computer</li>
+<li>A day to try out a new app or major piece of software for your primary workflow</li>
+<li>A day to delete old text messages</li>
+</ul>
+<p>All I’m asking for is 1/30th of a year that we end up cramming into other days. I’m willing to trade some of the B-tier holidays (Easter, Thanksgiving, etc) for this. If you work in the government please call me, it is URGENT.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/08/digital-holidays/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-04, from: Dave Winer's Scripting News)
+
+WordPress will make a much better open social web server than any other software out there. We can all develop any component around a solid, documented, simple and widely supported open source API. 
 
 <br> 
 

@@ -1,11 +1,235 @@
 ---
 title: going electric
-updated: 2025-08-04 06:07:52
+updated: 2025-08-04 14:09:42
 ---
 
 # going electric
 
-(date: 2025-08-04 06:07:52)
+(date: 2025-08-04 14:09:42)
+
+---
+
+## From $129 a month: 5 of the best EV lease deals in August
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Hyundai-IONIQ-5-lease.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Time’s ticking for snagging a great EV lease deal. With the 25% tariff on imported EVs already in place and the federal tax credit disappearing on September 30, automakers are rolling out serious deals. If you’re thinking about going electric, now’s the moment. Here are some of the best August EV lease deals our friends at CarsDirect found.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="428239" href="https://electrek.co/2025/08/04/5-best-ev-lease-deals-august/#more-428239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/5-best-ev-lease-deals-august/>
+
+---
+
+## The Chevy Equinox EV Was The Best-Selling Non-Tesla EV Ever in July
+
+date: 2025-08-04, from: Inside EVs News
+
+Chevrolet's $35,000 electric crossover had its best month of sales after the EV tax credit's fate became clear.  
+
+<br> 
+
+<https://insideevs.com/news/767954/chevy-equinox-ev-sales-july-tesla/>
+
+---
+
+## The Chevy Equinox EV crushed it in July, the best sales month ever for a non-Tesla EV
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Honda-Chevy-EV-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It wasn’t just the best sales month so far for the <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a>. It was the best for a non-Tesla EV in the US. The electric SUV is selling like hotcakes, driving GM’s EV sales up more than 115% in July.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-equinox-ev,general-motors,gm" data-layer-viewtype="unknown" data-post-id="428229" href="https://electrek.co/2025/08/04/chevy-equinox-ev-crushed-it-in-july-best-for-non-tesla-ev/#more-428229" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/chevy-equinox-ev-crushed-it-in-july-best-for-non-tesla-ev/>
+
+---
+
+## Tesla consistently led in brand loyalty. Then Elon Musk ‘got political’
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s brand loyalty levels dropped from the best in the industry to fairly middling results, according to new data from S&amp;P Global Mobility, and it’s all because of the company’s CEO, Elon Musk.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="428207" href="https://electrek.co/2025/08/04/tesla-consistently-led-in-brand-loyalty-then-elon-opened-his-stupid-mouth/#more-428207" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/tesla-consistently-led-in-brand-loyalty-then-elon-opened-his-stupid-mouth/>
+
+---
+
+## EcoFlow DELTA 2 Max solar bundle $1,139 low, Lectric ONE e-bike gets $319 in free gear, Anker SOLIX C300 90,000mAh stations, more
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/EcoFlow-August-Home-Backup-Sale-FI.png?w=1600" /></div><p>We’re starting this week’s Green Deals with <a href="https://9to5toys.com/2025/08/04/ecoflow-power-station-august-home-backup-sale-from-179/">EcoFlow’s August Home Backup Sale</a> that is seeing up to 59% initial discounts, bonus savings, continued 3x and 3.5x EcoCredit rewards, new free gift promotions, and more – with plenty of ongoing low prices like the <a href="https://9to5toys.com/2025/08/04/ecoflow-power-station-august-home-backup-sale-from-179/">DELTA 2 Max Solar Generator bundle</a> that gives you a 220W panel at its <a href="https://9to5toys.com/2025/08/04/ecoflow-power-station-august-home-backup-sale-from-179/">$1,139 low</a>, among many others. We also have <a href="https://9to5toys.com/2025/08/04/lectric-one-e-bike-319-bundle-2399/">Lectric’s ONE Long-Range e-bike</a> getting the biggest $319 bundle of 2025 at <a href="https://9to5toys.com/2025/08/04/lectric-one-e-bike-319-bundle-2399/">$2,399</a>, as well as <a href="https://9to5toys.com/2025/08/04/anker-solix-c300-power-stations-starting-from-170/">Anker’s SOLIX C300 90,000mAh Power Stations and bundle options starting from $170</a>. From there, we also have EcoFlow’s latest 48-hour flash sale on two power station bundles and a dual solar panel option, alongside the best price of the year on Worx’s 20V JawSaw PowerShare Cordless Chainsaw.Plus, all the hangover savings from last week are at the bottom of the page, rounded together in our <a href="https://9to5toys.com/2025/08/02/electrified-weekly-lectric-back-to-school-e-bike-sale-ecoflow-and-bluetti-new-power-station-releases-at-up-to-3150-off-more/">Electrified Weekly coverage</a>, which includes the new EcoFlow TRAIL releases, exclusive Bluetti Apex 300 launch savings, and much more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="428206" href="https://electrek.co/2025/08/04/ecoflow-delta-2-max-bundle-lectric-anker-solix-more/#more-428206" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/ecoflow-delta-2-max-bundle-lectric-anker-solix-more/>
+
+---
+
+## Hyundai is now selling used vehicles on Amazon, including EVs
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Hyundai-IONIQ-5-tax-credit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Did you want a used Hyundai with your next Amazon order? You might need a bigger cart. You can now view, compare, and shop for new or used <a href="https://electrek.co/guides/hyundai/">Hyundai</a> vehicles directly on Amazon, including its top-selling EVs like the IONIQ 5.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="428192" href="https://electrek.co/2025/08/04/hyundai-selling-used-vehicles-on-amazon-including-evs/#more-428192" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/hyundai-selling-used-vehicles-on-amazon-including-evs/>
+
+---
+
+## Segway launches new version of its 90-mile range high performance e-bike
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/segway-xafari-header-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Segway has just unveiled a striking new version of its popular Xafari electric bike in Crimson Red. The micromobility giant, best known for its scooters and self-balancing tech, is adding a splash of personality to its multi-surface cruiser, all without compromising on the impressive comfort, connectivity, and performance that made the original so interesting and distinctive looking.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,segway" data-layer-viewtype="unknown" data-post-id="428161" href="https://electrek.co/2025/08/04/segway-launches-new-version-of-its-90-mile-range-high-performance-e-bike/#more-428161" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/segway-launches-new-version-of-its-90-mile-range-high-performance-e-bike/>
+
+---
+
+## EPA opens public comments on plan to hike gas prices by 76c/gal, kill thousands
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Last week, the US Environmental Protection Agency proposed a plan to <a href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/">delete its scientific finding</a> recognizing that greenhouse gases are harmful to human health. That plan is now up for public comment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="epa" data-layer-viewtype="unknown" data-post-id="427858" href="https://electrek.co/2025/08/04/epa-opens-public-comments-on-plan-to-hike-gas-prices-by-76c-gal-kill-thousands/#more-427858" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/epa-opens-public-comments-on-plan-to-hike-gas-prices-by-76c-gal-kill-thousands/>
+
+---
+
+## Tesla withheld data, lied, and misdirected police and plaintiffs to avoid blame in Autopilot crash
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Tesla-Autopilot-crash-data-lies-Elon-Musk.png?w=1600" /></div><p>Tesla was caught withholding data, lying about it, and misdirecting authorities in the wrongful death case involving Autopilot that it lost this week.</p>
+
+
+
+<p>The automaker was undeniably covering up for Autopilot.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="427887" href="https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/#more-427887" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/>
+
+---
+
+## Critics Say EVs Are A Fire Hazard. Here’s What The Latest Data Shows
+
+date: 2025-08-04, from: Inside EVs News
+
+We’ve all heard the stories, and they’re scary. But electric-vehicle batteries themselves aren't always to blame. 
+
+<br> 
+
+<https://insideevs.com/news/767908/ev-fire-safety-data-2025/>
+
+---
+
+## BMW wants to win Tesla EV drivers back and it will start with the new long-range iX3
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/BMW-Tesla-new-iX3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After losing to Tesla in the first round, <a href="https://electrek.co/guides/bmw/">BMW</a> says it’s ready for another chance. BMW is taking aim at Tesla as it looks to win back drivers with longer-range, ultra-fast charging EVs, starting with the new iX3.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,bmw-ix3" data-layer-viewtype="unknown" data-post-id="428139" href="https://electrek.co/2025/08/04/bmw-wants-tesla-ev-drivers-back-start-with-new-ix3/#more-428139" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/bmw-wants-tesla-ev-drivers-back-start-with-new-ix3/>
+
+---
+
+## 'Open The Floodgates': Why Tesla's $243 Million Autopilot Crash Verdict Is Such A Big Deal
+
+date: 2025-08-04, from: Inside EVs News
+
+Autonomous driving technology is on the rise, but questions about liability go unresolved. Plus: BMW's next seems promising. 
+
+<br> 
+
+<https://insideevs.com/news/767922/tesla-autopilot-verdict-cm/>
+
+---
+
+## I got my wife an electric bike that’s faster than cars. Here’s why
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/sapir-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A couple years ago, my wife started a new job as an elementary school principal. It was an exciting milestone, but it also came with a stressful commute. The school isn’t far – just a few kilometers across the city – but during rush hour, taking the bus often meant sitting in gridlock for 45 minutes. Not exactly the best way to start or end a workday.</p>
+
+
+
+<p>So we got her an electric bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="428140" href="https://electrek.co/2025/08/04/i-got-my-wife-an-electric-bike-thats-faster-than-cars-heres-why/#more-428140" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/i-got-my-wife-an-electric-bike-thats-faster-than-cars-heres-why/>
+
+---
+
+## Mercedes says the GLC EV ‘redefines’ the brand with a new face, but what is that?
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Mercedes-GLC-EV-face.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The best-selling <a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> SUV is going electric, and it’s bringing a new style with it. Mercedes promises the new GLC EV “redefines” the face of the luxury brand. Here’s our first look.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes,mercedes-benz" data-layer-viewtype="unknown" data-post-id="428123" href="https://electrek.co/2025/08/04/mercedes-glc-ev-redefines-brand-with-new-face/#more-428123" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/mercedes-glc-ev-redefines-brand-with-new-face/>
 
 ---
 
@@ -109,7 +333,7 @@ If you can make it in the worst place to drive in America, you make it anywhere
 
 ---
 
-## Is this Hyundai IONIQ the safest affordable EV you can buy?
+## Is this Hyundai IONIQ the safest affordable EV you can buy? (in the US)
 
 date: 2025-08-03, from: Electrek Feed
 
@@ -189,7 +413,7 @@ date: 2025-08-03, from: Electrek Feed
 
 ---
 
-## EVgo set to borrow up to a $300 million to build 1,500 new DC fast chargers
+## EVgo set to borrow up to $300 million to build 1,500 new DC fast chargers
 
 date: 2025-08-03, from: Electrek Feed
 

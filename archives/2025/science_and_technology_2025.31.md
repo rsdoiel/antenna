@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2025-08-04 06:07:44
+updated: 2025-08-04 14:09:35
 ---
 
 # science and technology
 
-(date: 2025-08-04 06:07:44)
+(date: 2025-08-04 14:09:35)
+
+---
+
+## Perplexity AI accused of scraping content against websites’ will with unlisted IP ranges
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>Cloudflare finds AI search biz ignoring crawl prohibitions and trying to hide its spiders</h4> <p>Perplexity, an AI search startup, has been spotted trying to disguise its content-scraping bots while flouting websites&#39; no-crawl directives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/perplexity_ai_crawlers_accused_data_raids/>
+
+---
+
+## Forget the Space Force! Trump needs to create a Cyber Force, says think tank
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>One new military branch per term would have to be some sort of record</h4> <p>The US Space Force won&#39;t be the only new military branch Donald Trump has created if forthcoming recommendations from a group of retired military and civilian leadership end up being adopted. They want the President to form a US &#34;Cyber Force&#34; too. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/think_tank_military_cyber_force/>
+
+---
+
+## Curiosity Blog, Sols 4616-4617: Standing Tall on the Ridge
+
+date: 2025-08-04, from: NASA breaking news
+
+Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Wednesday, July 30, 2025 The day started with a little celebration of NISAR, a new Earth observation satellite that made it successfully into orbit a few hours before our planning started. We joined in by saying “GO NISAR, […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4616-4617-standing-tall-on-the-ridge/>
+
+---
+
+## Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives
+
+date: 2025-08-04, from: OS News
+
+We are observing stealth crawling behavior from Perplexity, an AI-powered answer engine. Although Perplexity initially crawls from their declared user agent, when they are presented with a network block, they appear to obscure their crawling identity in an attempt to circumvent the website’s preferences. We see continued evidence that Perplexity is repeatedly modifying their user agent and changing their source&#160;ASNs&#160;to hide their crawling activity, as well as ignoring — or sometimes failing to even fetch —&#160;robots.txt&#160;files. The Internet as we have known it for the past three decades is&#160;rapidly changing, but one thing remains constant: it is built on trust. There are clear preferences that crawlers should be transparent, serve a clear purpose, perform a specific activity, and, most importantly, follow website directives and preferences. Based on Perplexity’s observed behavior, which is incompatible with those preferences, we have de-listed them as a verified bot and added heuristics to our managed rules that block this stealth crawling. ↫ The CloudFlare Blog Never forget they destroyed Aaron Swartz&#8217;s life &#8211; literally &#8211; for downloading a few JSTOR articles. 
+
+<br> 
+
+<https://www.osnews.com/story/142981/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/>
+
+---
+
+## Gorgeous, Hidden Animal Tattoos Discovered on a More Than 2,000-Year-Old 'Ice Mummy' by Using Digital Imaging
+
+date: 2025-08-04, from: Smithsonian Magazine
+
+The ancient tattoos, which would have required trained artistry and hours of work, would be difficult for even modern tattooists to produce, a new study suggests 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/gorgeous-hidden-animal-tattoos-discovered-on-a-more-than-2000-year-old-ice-mummy-by-using-digital-imaging-180987094/>
+
+---
+
+## AI going critical: Hyundai to help build nuclear-powered datacenter in Texas
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>Fermi America will also have 4GW of gas generators for the Amarillo &#39;HyperGrid&#39;</h4> <p>Nuclear power is enjoying something of a second renaissance in the US as hyperscalers grapple with AI&#39;s seemingly insatiable appetite for power.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/fermi_america_nuclear_datacenter/>
+
+---
+
+## NASA’s Black Marble: Stories from the Night Sky
+
+date: 2025-08-04, from: NASA breaking news
+
+Studying the glowing patterns of Earth’s surface helps us understand human activity, respond to disasters, and witness a changing world. 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasas-black-marble-stories-from-the-night-sky/>
+
+---
+
+## You Can Now Have a Conversation With the Statues at Versailles Using Artificial Intelligence
+
+date: 2025-08-04, from: Smithsonian Magazine
+
+Through the palace's smartphone app, visitors can speak with nearly two dozen stunning sculptures and fountains at the historic site in France 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-can-now-have-a-conversation-with-the-statues-at-versailles-using-artificial-intelligence-180987100/>
+
+---
+
+## Python-powered malware snags hundreds of credit cards, 200K passwords, and 4M cookies
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>PXA Stealer pilfers data from nearly 40 browsers, including Chrome</h4> <p>More than 4,000 victims across 62 countries have been infected by stealthy infostealers pilfering people&#39;s passwords, credit card numbers, and browser cookies, which are then sold to other criminals on Telegram-based marketplaces.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/pxa_stealer_4000_victims/>
+
+---
+
+## STEM Educators Are Bringing Hands-On NASA Science into Virginia Classrooms
+
+date: 2025-08-04, from: NASA breaking news
+
+Professional learning experiences are integral to the enhancement of classroom instruction. Teachers, at the forefront of Science, Technology, Engineering, &#038; Mathematics (STEM) education, play a key role in the advancement of STEM learning ecosystems and citizen science. On June 24-25, 2025 – despite a major east coast heat wave – twenty-four educators from eight school […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/stem-educators-are-bringing-hands-on-nasa-science-into-virginia-classrooms/>
+
+---
+
+## NASA’s Lunar Trailblazer Moon Mission Ends
+
+date: 2025-08-04, from: NASA breaking news
+
+The small satellite was to map lunar water, but operators lost contact with the spacecraft the day after launch and were unable to recover the mission. NASA’s Lunar Trailblazer ended its mission to the Moon on July 31. Despite extensive efforts, mission operators were unable to establish two-way communications after losing contact with the spacecraft [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/nasas-lunar-trailblazer-moon-mission-ends/>
+
+---
+
+## NASA Opens Simulated Mars Habitat to Media Ahead of Second Mission
+
+date: 2025-08-04, from: NASA breaking news
+
+As NASA prepares for its second year-long Mars simulated mission, media are invited to visit the ground-based habitat where the mission will take place, on Friday, Aug. 22, at the agency’s Johnson Space Center in Houston. Scheduled to begin in October, four volunteer crew members will enter the agency’s Crew Health and Performance Exploration Analog [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-opens-simulated-mars-habitat-to-media-ahead-of-second-mission/>
+
+---
+
+## Marking 13 Years on Mars, NASA’s Curiosity Picks Up New Skills
+
+date: 2025-08-04, from: NASA breaking news
+
+New capabilities allow the rover to do science with less energy from its batteries. Thirteen years since Curiosity landed on Mars, engineers are finding ways to make the NASA rover even more productive. The six-wheeled robot has been given more autonomy and the ability to multitask — improvements designed to make the most of Curiosity’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/>
+
+---
+
+## IT firing spree: Shrinking job market looks even worse after BLS revisions
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>The payroll growth we thought we experienced in May and June? Gone, like tears in the rain</h4> <p>The US IT jobs market hasn&#39;t exactly been robust thus far in 2025, and downward revisions to May and June&#39;s Bureau of Labor Statistics data mean IT jobs lost in July are part of an even deeper sector slowdown than previously believed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/it_job_market_july/>
+
+---
+
+## Perseids Meteor Shower
+
+date: 2025-08-04, from: NASA breaking news
+
+In this 30 second exposure photograph, a meteor streaks across the sky during the annual Perseid and Alpha Capricornids meteor showers, Sunday, Aug. 3, 2025, in Spruce Knob, West Virginia. The Perseids meteor shower, which peaks in mid-August, is considered the best of the year. With swift and bright meteors, Perseids frequently leave long &#8220;wakes&#8221; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/perseids-meteor-shower/>
+
+---
+
+## NASA’s Artemis Crew Trains in Moonbound Orion Ahead of Mission
+
+date: 2025-08-04, from: NASA breaking news
+
+The first crew slated to fly in NASA’s Orion spacecraft during the Artemis II mission around the Moon early next year entered their spacecraft for a multi-day training at the agency’s Kennedy Space Center in Florida. Crew donned their spacesuits July 31 and boarded Orion to train and experience some of the conditions they can [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-crew-trains-in-moonbound-orion-ahead-of-mission/>
+
+---
+
+## Mars says hello as NASA's Europa Clipper warms up radar
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>Instrument works fine. Now, about those transistors</h4> <p>NASA&#39;s Europa Clipper probe checked out its radar as the spacecraft hurtled past Mars on the way to Jupiter&#39;s moon Europa.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/europa_clipper_mars_flyby/>
+
+---
+
+## Neanderthals Might Have Eaten Maggot-Infested, Putrefying Meat, Explaining a Mysterious Chemical Signature in Their Remains
+
+date: 2025-08-04, from: Smithsonian Magazine
+
+Maggots might have helped our long-extinct relatives avoid protein poisoning by providing a nutritious source of fat, a new study suggests 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/neanderthals-might-have-eaten-maggot-infested-putrefying-meat-explaining-a-mysterious-chemical-signature-in-their-remains-180987066/>
+
+---
+
+## These Swimmers Are Finishing the Final Voyage of the 'Edmund Fitzgerald,' Which Sank in Lake Superior 50 Years Ago
+
+date: 2025-08-04, from: Smithsonian Magazine
+
+Starting at the wreck site, 68 athletes are completing a 411-mile relay to honor the 29 men who died in the Great Lakes tragedy on November 10, 1975 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-swimmers-are-finishing-the-final-voyage-of-the-edmund-fitzgerald-which-sank-in-lake-superior-50-years-ago-180987095/>
+
+---
+
+## Mozilla flags phishing wave aimed at hijacking trusted Firefox add-ons
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>Devs told to exercise &#39;extreme caution&#39; with emails disguised as account update prompts</h4> <p>Mozilla is warning of an ongoing phishing campaign targeting developers of Firefox add-ons.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/mozilla_add_on_phishing/>
+
+---
+
+## Earth’s Core Appears To Be Leaking Up and Out of Earth’s Surface
+
+date: 2025-08-04, from: Quanta Magazine
+
+Strong new evidence suggests that primordial material from the planet’s center is somehow making its way out. Continent-size entities anchored to the core-mantle boundary might be involved.            <p>The post <a href="https://www.quantamagazine.org/earths-core-appears-to-be-leaking-up-and-out-of-earths-surface-20250804/" target="_blank">Earth’s Core Appears To Be Leaking Up and Out of Earth’s Surface</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/earths-core-appears-to-be-leaking-up-and-out-of-earths-surface-20250804/>
+
+---
+
+## Study finds radical nutjobs targeting gamers via Discord, Twitch, Steam
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>&#39;Hyper-masculine&#39; first-person shooter fandoms are prime targets</h4> <p>Researchers from Anglia Ruskin University have sounded the alarm on &#34;gaming-adjacent platforms&#34; including Discord, Twitch, and Steam being used as &#34;digital playgrounds&#34; to funnel new recruits into far-right and other extremist ideologies – with a focus on those showing interest in &#34;hyper-masculine gaming titles.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/gaming_platforms_radical_recruitment/>
+
+---
+
+## Windows 11 leads as October looms, but millions still cling to Windows 10
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>With just over two months left, enterprises look to Extended Security Updates as a stay of execution</h4> <p>Windows 11 is maintaining its lead over Windows 10, but millions of PCs are still running Microsoft&#39;s legacy operating system with less than three months until support ends.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/windows_11_market_share/>
 
 ---
 
@@ -61,7 +337,7 @@ date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
 
 date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
 
-<h4>If it’s not on-prem, it’s on the menu</h4> <p><strong>Opinion</strong>  The details of cloud data regionalization are rarely the stuff of great drama. When they’ve reached the level of an exe admitting to the Senate that a foreign power can help itself to that nations data, no matter where it lives, things get interesting.…</p> 
+<h4>If it’s not on-prem, it’s on the menu</h4> <p><strong>Opinion</strong>  The details of cloud data regionalization are rarely the stuff of great drama. When they’ve reached the level of an exec admitting to the Senate that a foreign power can help itself to that nation&#39;s data, no matter where it lives, things get interesting.…</p> 
 
 <br> 
 

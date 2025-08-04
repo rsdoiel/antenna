@@ -1,11 +1,41 @@
 ---
 title: writing
-updated: 2025-08-04 06:07:47
+updated: 2025-08-04 14:09:38
 ---
 
 # writing
 
-(date: 2025-08-04 06:07:47)
+(date: 2025-08-04 14:09:38)
+
+---
+
+## 7 Ways to Prevent Writer’s Block
+
+date: 2025-08-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/7-ways-to-prevent-writers-block" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Man%20with%20his%20head%20face-down%20on%20a%20desk%2c%20his%20laptop%20folded%20over%20it%20as%20he%20holds%20up%20a%20help%20sign.%20The%20desk%20is%20littered%20with%20crumpled%20pieces%20of%20paper.png" alt="Man with his head face-down on a desk, his laptop folded over it as he holds up a 'help' sign. The desk is littered with crumpled pieces of paper" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Writer’s block isn’t real. It’s not something that should be feared by writers, whether you’re writing novels or screenplays. It is nothing more than an over-generalized term for the multiple hurdles <span style="font-weight: bold;">all</span> writers must face, overcome, and adapt to in their writing process.&nbsp;<br><br>It’s true. Any writer that has felt that lingering weight on their shoulders perceived as the mystical condition <em>writer’s block</em> should take solace knowing that they don’t have to be a victim to it any longer.&nbsp;<br><br>To truly conquer a problem, it’s best to explore and understand every dynamic and angle of it. For writers battling with supposed writer’s block, and for those who want to avoid it, you must first be able to identify what it really is, what triggers it, and how you can put a stop to it before it takes hold.&nbsp;<br><br>With that in mind, here we present seven ways to identify and prevent what most people initially attribute to being the dreaded <span style="font-weight: bold;">writer’s block</span>.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/7-ways-to-prevent-writers-block>
+
+---
+
+## How To Use Final Draft: Script Elements
+
+date: 2025-08-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-use-final-draft-script-elements" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20people%20sitting%20in%20a%20circle%20working%20on%20computers%20with%20the%20words%20Tech%20Tips%20off%20to%20the%20side.png" alt="Image of people sitting in a circle working on computers with the words Tech Tips off to the side" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-use-final-draft-script-elements>
 
 ---
 

@@ -1,11 +1,256 @@
 ---
 title: home
-updated: 2025-08-04 06:07:49
+updated: 2025-08-04 14:09:40
 ---
 
 # home
 
-(date: 2025-08-04 06:07:49)
+(date: 2025-08-04 14:09:40)
+
+---
+
+## The Pros and Cons of Getting WiFi From Your Cell Phone Provider—Is It Right for You?
+
+date: 2025-08-04, from: Family Handyman Blog
+
+<p>Discover how cellular internet works, how it compares to cable and fiber, and whether it's the right fit for your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/cellular-internet/">The Pros and Cons of Getting WiFi From Your Cell Phone Provider—Is It Right for You?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/cellular-internet/>
+
+---
+
+## Inn at Moonlight Beach – A Biodynamic Farm in Encinitas
+
+date: 2025-08-04, from: California Grown
+
+<p>Let’s talk agritourism wrapped in velvet. While most hotels are built to impress, the Inn at Moonlight Beach in Encinitas, California, was built to heal. This destination is all biodynamic herb garden in bloom, reclaimed wood walls humming with history, and guests harvesting their own salads from the soil just outside their doors. Where Wellness, [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/inn-at-moonlight-beach/" data-wpel-link="internal" target="_self">Inn at Moonlight Beach – A Biodynamic Farm in Encinitas</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/inn-at-moonlight-beach/>
+
+---
+
+## Installing a Floor Transition Strip in 5 Easy Steps
+
+date: 2025-08-04, from: Family Handyman Blog
+
+<p>Create smooth, safe transitions between flooring surfaces using this step-by-step guide to floor transition strip selection and installation.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/install-floor-transition-strip/">Installing a Floor Transition Strip in 5 Easy Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/install-floor-transition-strip/>
+
+---
+
+## The Plot Oceanside: Incredible Plant-Based Dining
+
+date: 2025-08-04, from: California Grown
+
+<p>If you think plant-based dining means rabbit food and tofu that tastes like cardboard, then buckle up, friend—we&#8217;re about to flip your perspective on its head. Welcome to The Plot Oceanside, where vegetables are superstars, sustainability is sexy, and every dish tells a CA GROWN story from root to rind. Where Disruption Tastes Like Dinner [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/the-plot-oceanside/" data-wpel-link="internal" target="_self">The Plot Oceanside: Incredible Plant-Based Dining</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/the-plot-oceanside/>
+
+---
+
+## Rental Revamp: A Berlin Designer Pieces Together His Own Italo-Disco Paradise
+
+date: 2025-08-04, from: Dwell
+
+Glam lighting meets glossy furniture, ceramic leopards, and bright-red paint in Charly Villain’s (mostly) DIY apartment 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-charly-villain-italo-disco-apartment-renovation-berlin-germany-b4742fdf>
+
+---
+
+## Craig Ellwood’s Best-Preserved Case Study House Seeks $5.4M in L.A.
+
+date: 2025-08-04, from: Dwell
+
+The meticulously maintained Bel Air home is a midcentury time capsule that still stands true to the architect’s vision. 
+
+<br> 
+
+<https://www.dwell.com/article/craig-ellwood-case-study-house-16-midcentury-los-angeles-real-estate-ad1a6cd2>
+
+---
+
+## A Famous Cornwall Cottage Only Accessible by Footbridge Just Doubled in Size—But You’d Never Know It
+
+date: 2025-08-04, from: Dwell
+
+Will Gamble Architects updated the local landmark with a glass-wrapped second level that doesn’t obscure its legendary charm. 
+
+<br> 
+
+<https://www.dwell.com/article/the-island-renovation-will-gamble-architects-heritage-renovation-glass-wrapped-extension-debe8c37>
+
+---
+
+## 5 Stylish Kitchen Upgrades You Can Do on a Budget
+
+date: 2025-08-04, from: Family Handyman Blog
+
+<p>If you're searching for stylish kitchen upgrades you can do on a budget, look no further. We've got great ideas to get you started.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/stylish-kitchen-upgrades/">5 Stylish Kitchen Upgrades You Can Do on a Budget</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/stylish-kitchen-upgrades/>
+
+---
+
+## 12 Tips for Getting the Most out of a Home Inspection
+
+date: 2025-08-04, from: Family Handyman Blog
+
+<p>A home inspection is a crucial part of buying a new home; find out how to ensure that yours is thorough and runs smoothly. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-inspection-tips/">12 Tips for Getting the Most out of a Home Inspection</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-inspection-tips/>
+
+---
+
+## 10 Roof Problems and What to Do About Them
+
+date: 2025-08-04, from: Family Handyman Blog
+
+<p>Your roof covers the largest asset you own, so it pays to know the signs of trouble. Fortunately, many of the danger signals are easy to see-you can sometimes even spot them from the ground. A small leak can go undetected for years, causing huge damage before you notice anything. It's a good idea to inspect your roof regularly. Many contractors offer free inspections. But even if you have to pay, it's better than finding leaks after the damage is done. Here are a few of the most common and easy to recognize signs of roof problems.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/roof-problems/">10 Roof Problems and What to Do About Them</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/roof-problems/>
+
+---
+
+## 5 Species of Quail in Arizona (With Pictures and Identification)
+
+date: 2025-08-04, from: Yard Life blog
+
+<p>Arizona’s desert landscapes and mountain woodlands are home to some of the most diverse and fascinating quail species in North ... </p>
+<p class="read-more-container"><a title="5 Species of Quail in Arizona (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-species-of-quail-in-arizona-with-pictures-and-identification/#more-33124" aria-label="Read more about 5 Species of Quail in Arizona (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-species-of-quail-in-arizona-with-pictures-and-identification/">5 Species of Quail in Arizona (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-species-of-quail-in-arizona-with-pictures-and-identification/>
+
+---
+
+## 5 Types of Swans in Minnesota (With Pictures and Identification)
+
+date: 2025-08-04, from: Yard Life blog
+
+<p>Few sights on Minnesota’s lakes and rivers are as striking as a swan gliding through the water. Their elegance, size, ... </p>
+<p class="read-more-container"><a title="5 Types of Swans in Minnesota (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-swans-in-minnesota-with-pictures-and-identification/#more-33118" aria-label="Read more about 5 Types of Swans in Minnesota (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-swans-in-minnesota-with-pictures-and-identification/">5 Types of Swans in Minnesota (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-swans-in-minnesota-with-pictures-and-identification/>
+
+---
+
+## Rooted in Community: Come See What Makes California Certified Farmers’ Markets Special
+
+date: 2025-08-04, from: Calfifornia Dept. Aggriculture blog
+
+CDFA joins the nation in celebrating National Farmers’ Market Week August 3-9 and encourages Californians to vote by September 30 for your favorite farmers’ market in American Farmland Trust’s 2025 America’s Farmers Market Celebration. Simply put, Certified Farmers’ Markets build &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29127">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29127>
+
+---
+
+## 6 Falcons in Wisconsin (With Pictures and Identification)
+
+date: 2025-08-04, from: Yard Life blog
+
+<p>Wisconsin boasts an impressive variety of falcon species that thrill bird enthusiasts with their beauty and hunting skills. From the ... </p>
+<p class="read-more-container"><a title="6 Falcons in Wisconsin (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-falcons-in-wisconsin-with-pictures-and-identification/#more-33112" aria-label="Read more about 6 Falcons in Wisconsin (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-falcons-in-wisconsin-with-pictures-and-identification/">6 Falcons in Wisconsin (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-falcons-in-wisconsin-with-pictures-and-identification/>
+
+---
+
+## 16 Species of Owls in California (With Pictures and Identification)
+
+date: 2025-08-04, from: Yard Life blog
+
+<p>California hosts an impressive variety of owl species, each with distinct features and intriguing behaviors. From the powerful Great Horned ... </p>
+<p class="read-more-container"><a title="16 Species of Owls in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/16-species-of-owls-in-california-with-pictures-and-identification/#more-33105" aria-label="Read more about 16 Species of Owls in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/16-species-of-owls-in-california-with-pictures-and-identification/">16 Species of Owls in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/16-species-of-owls-in-california-with-pictures-and-identification/>
+
+---
+
+## Opossums in Missouri: 5 Fascinating Facts That May Surprise You
+
+date: 2025-08-04, from: Yard Life blog
+
+<p>Opossums are a familiar sight throughout Missouri, appearing regularly in neighborhoods and natural areas alike. These nocturnal creatures are often ... </p>
+<p class="read-more-container"><a title="Opossums in Missouri: 5 Fascinating Facts That May Surprise You" class="read-more button" href="https://ownyardlife.com/opossums-in-missouri-5-fascinating-facts-that-may-surprise-you/#more-33098" aria-label="Read more about Opossums in Missouri: 5 Fascinating Facts That May Surprise You">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/opossums-in-missouri-5-fascinating-facts-that-may-surprise-you/">Opossums in Missouri: 5 Fascinating Facts That May Surprise You</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/opossums-in-missouri-5-fascinating-facts-that-may-surprise-you/>
+
+---
+
+## A Peek Inside Palm Springs’s Most Exclusive Architectural Community
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+A sprawling modernist architectural vision takes form high above the city of Palm Springs. We tour three iconic homes located in the community. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/palm-springs-desert-palisades-modernist-architecture>
+
+---
+
+## This Program Is Helping Wildfire Victims Rebuild Architecturally Beautiful Homes
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+Case Study 2.0 is creating a catalog of architecturally significant homes for L.A. fire victims to build at scale. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/case-study-20-program>
 
 ---
 

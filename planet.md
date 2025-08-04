@@ -1,11 +1,223 @@
 ---
 title: planet
-updated: 2025-08-04 06:07:39
+updated: 2025-08-04 14:09:31
 ---
 
 # planet
 
-(date: 2025-08-04 06:07:39)
+(date: 2025-08-04 14:09:31)
+
+---
+
+## UK police arrest Tommy Robinson over serious assault
+
+date: 2025-08-04, from: RTÉ News
+
+Police have arrested right-wing British political activist Tommy Robinson on suspicion of committing assault last week at a London train station. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0804/1526894-tommy-robinson-arrest/>
+
+---
+
+## Man in his 70s dies after incident in Waterford on Friday
+
+date: 2025-08-04, from: RTÉ News
+
+A man in his 70s has died following an incident at a house in Waterford city on Friday afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0804/1526881-arrest-man-waterford/>
+
+---
+
+## Pope to Medjugorje youth gathering: ‘No-one walks alone’
+
+date: 2025-08-04, from: Vatican News
+
+
+                    <p>Pope Leo tells young people gathered for the 36th International Youth Festival in Medjugorje to "walk together, support each other, and inspire one  another". </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-36th-youth-festival-in-medjugorje-no-one-walks-alone.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-36th-youth-festival-in-medjugorje-no-one-walks-alone.html>
+
+---
+
+## Lebanon marks five years since Beirut explosion
+
+date: 2025-08-04, from: RTÉ News
+
+Hundreds of Lebanese have gathered solemnly near Beirut's coast to commemorate a half-decade since the cataclysmic port blast of 2020, when more than 200 people were killed in one of the largest non-nuclear explosions in history. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0804/1526874-beirut-explosion-five-years/>
+
+---
+
+## Hong Kong cancels passports, bans financial support for wanted overseas activists
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601106.1754335317!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hong-kong-britain.jpg' alt='Passports are pictured on a table.' width='620' height='349' title='FILE- In this Friday, Jan. 29, 2021 file photo, a British National Overseas passports (BNO) and a Hong Kong Special Administrative Region of the People&apos;s Republic of China passport are pictured in Hong Kong. The British government said Thursday, April 8, 2021, it is setting up a 43 million pound ($59 million) fund to help migrants from Hong Kong settle in the country as they escape increasing political repression in the former colony. (AP Photo/Kin Cheung, File)'/><p>Hong Kong authorities on Monday strengthened a crackdown on 16 overseas-based activists who were previously targeted by bounties on suspicion of endangering national security, implementing measures that include banning financial support to them and cancelling passports for most of them.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hong-kong-passport-activists-financial-support-1.7601095?cmp=rss>
+
+---
+
+## Stella Rimington, Britain's 1st female MI5 spy chief, dead at 90
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601078.1754336124!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-obit-rimington.jpg' alt='A woman with short greying hair is shown from the shoulders up. ' width='620' height='349' title='FILE - In this Dec. 14, 2004 file photo, the former head of the British Intelligence service Stella Rimington poses in her office in London.'/><p>Stella Rimington, the first female chief of Britain's MI5 intelligence agency and later a successful thriller writer who was also the inspiration for Judi Dench's M in the James Bond films, has died, her family said Monday. She was 90.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/stella-rimington-obituary-1.7601071?cmp=rss>
+
+---
+
+## Pope Leo mourns migrants who died in shipwreck off Yemen
+
+date: 2025-08-04, from: Vatican News
+
+
+                    <p>The Pope entrusts to the loving mercy of Almighty God the dozens of victims—mostly Ethiopian nationals—who perished in a shipwreck while attempting to reach Saudi Arabia and other wealthy oil-producing countries.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-mourns-migrants-who-died-in-shipwreck-off-yemen.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-mourns-migrants-who-died-in-shipwreck-off-yemen.html>
+
+---
+
+## More than 600,000 children in Sudan are at risk due to conflict
+
+date: 2025-08-04, from: Vatican News
+
+
+                    <p>A new UNICEF report documents high risk levels for the hundreds of thousands of children in Sudan suffering from malnutrition and the threat of cholera as a result of ongoing violence.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/more-than-600000-children-in-sudan-are-at-risk-due-to-conflict.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/more-than-600000-children-in-sudan-are-at-risk-due-to-conflict.html>
+
+---
+
+## Canadian Forces airdrop humanitarian aid into Gaza for the first time
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601087.1754333045!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/caf-air-drop.jpg' alt='SOldiers load cargo into a militarty aircraft' width='620' height='349' title='The Canadian humanitarian aid effort to Gaza on Monday delivered food supplies like lentils, oil, milk powder and pasta using a CC-130J Hercules aircraft that departed from a Jordanian airbase.'/><p>The Canadian Armed Forces made their first humanitarian airdrop over Gaza on Monday using their own aircraft — delivering 9,800 kilograms of aid to Palestinians, according to Global Affairs Canada.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canadian-forces-humanitarian-aid-gaza-1.7601030?cmp=rss>
+
+---
+
+## Arrest after man seriously injured in Sligo stabbing
+
+date: 2025-08-04, from: RTÉ News
+
+A man is in hospital with serious injuries after a stabbing incident in Sligo town. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0804/1526869-sligo-assault/>
+
+---
+
+## Passengers flee flames, smoke on train in New Jersey
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/801583b2-42c1-4a17-a57e-db59ef4f4b61,1754327955567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A subway car is engulfed in flames.' width='620' height='349' title=''/><p>A fire beneath a commuter train at Jersey City's Newport station disrupted rush-hour service along several lines on Monday morning, with video shot by a commuter showing people rushing to disembark a smoke-filled train car. Authorities said 13 people were treated for smoke inhalation at the scene, nine of whom were taken to hospital for further evaluation.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6855725?cmp=rss>
+
+---
+
+## From sunset to daybreak: Friendship can change the world
+
+date: 2025-08-04, from: Vatican News
+
+
+                    <p>Andrea Monda, the Director of L'Osservatore Romano, reflects on the message of Pope Leo XIV at the Prayer Vigil for the Jubilee of Youth.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/from-sunset-to-daybreak-friendship-can-change-the-world.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/from-sunset-to-daybreak-friendship-can-change-the-world.html>
+
+---
+
+## Palestinians protest Gaza offensive as starvation deaths rise
+
+date: 2025-08-04, from: Vatican News
+
+
+                    <p>Thousands of Palestinians rally across several West Bank cities, protesting Israel’s ongoing military campaign in Gaza and restrictions on aid deliveries that have fuelled widespread hunger in the enclave.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/palestinians-protest-gaza-offensive-as-starvation-deaths-rise.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/palestinians-protest-gaza-offensive-as-starvation-deaths-rise.html>
+
+---
+
+## Dozens killed in Israeli strikes in Gaza, say medics
+
+date: 2025-08-04, from: RTÉ News
+
+At least 40 Palestinians have been killed by Israeli gunfire and airstrikes on Gaza, including 10 seeking aid, health authorities have said, adding that another five had died of starvation in what humanitarian agencies warn may be an unfolding famine. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0804/1526852-gaza-airstrikes/>
+
+---
+
+## Man arrested in Finglas murder investigation
+
+date: 2025-08-04, from: RTÉ News
+
+A man has been arrested as part of an investigation into the murder of 34-year-old Mark Carroll last year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0804/1526860-finglas-murder-arrest/>
+
+---
+
+## Investigation into death of man in Co Tipperary
+
+date: 2025-08-04, from: RTÉ News
+
+An investigation is under way into the death of a man at a property in Carrick-on-Suir in Co Tipperary in the early hours of this morning. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0804/1526859-carrick-on-suir-tipperary/>
 
 ---
 
@@ -23,7 +235,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## The final straw? Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Top Stories
+date: 2025-08-04, from: United Nations, Economic Development
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 
@@ -33,7 +245,43 @@ Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to ta
 
 ---
 
-## Pope shares closeness with people of Beirut marking five years since port explosion
+## Gaza: As aid trucks enter, videos of Israeli hostages and attack on Red Crescent staffers spark outrage
+
+date: 2025-08-04, from: United Nations, Top Stories
+
+In Gaza, UN aid teams continue to report that Gaza is on the brink of famine with the UN human rights chief on Monday denouncing images of starvation inside the enclave as “an affront to our collective humanity.”&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165568>
+
+---
+
+## World News in Brief: Uganda’s refugee funding crisis, academic freedom tested in Serbia, rural resilience in Afghanistan
+
+date: 2025-08-04, from: United Nations, Top Stories
+
+Since the beginning of 2025, 600 refugees have arrived in Uganda each day, bringing the total number of new arrivals to almost two million. But with funding rapidly running out, the UN refugee agency (UNHCR) is warning the East African nation will not be able to continue providing life-saving services and aid.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165566>
+
+---
+
+## UN urges MPs to deliver on development promises for 600 million in landlocked nations
+
+date: 2025-08-04, from: United Nations, Economic Development
+
+At a major UN forum opening in Awaza, Turkmenistan, this week, parliamentarians from around the world are being urged to take decisive action to improve the lives of more than 600 million people living in landlocked developing countries (LLDCs). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165564>
+
+---
+
+## Five years on from port blast, Pope expresses closeness with people of Beirut
 
 date: 2025-08-04, from: Vatican News
 
@@ -58,6 +306,18 @@ Italy's competition authority has imposed a €1 million fine on China-founded o
 <br> 
 
 <https://www.rte.ie/news/business/2025/0804/1526839-shein-fine-greenwashing/>
+
+---
+
+## Dozens reported killed in Gaza as desperate crowds scramble for aid from air and land
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601055.1754329961!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians-gaza.jpg' alt='People rush to collect aid dropped in by parachute.' width='620' height='349' title='Palestinians rush to collect humanitarian aid airdropped by parachutes into Zawaida in the central Gaza Strip, Monday, Aug. 4, 2025. (AP Photo/Abdel Kareem Hana)'/><p>At least 40 Palestinians were killed by Israeli gunfire and airstrikes in Gaza on Monday, including 10 seeking aid, health authorities said, adding another five had died of starvation in what humanitarian agencies warn may be an unfolding famine.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/gaza-hunger-deaths-aid-access-1.7600885?cmp=rss>
 
 ---
 
@@ -97,6 +357,18 @@ Ireland needs its own legislation to safeguard marine protected areas, an expert
 
 ---
 
+## Archaeological field school helps Indigenous students learn more about their history — and themselves
+
+date: 2025-08-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7596847.1753888314!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/field-school.JPG' alt='A woman holds a small artifact under a magnifying glass.' width='620' height='349' title='Gloria Johnson, 38, looks at some of the artifacts uncovered during the Esk&apos;etemc First Nation&apos;s archaeological field school this summer. '/><p>A six-week archaeological field school through the Esk'etemc First Nation is giving nine Indigenous students the chance to learn about the profession, but also about the long history of their families and culture.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/esk-etemc-archaeological-field-school-1.7596833?cmp=rss>
+
+---
+
 ## WYD Seoul: Preparations have already begun
 
 date: 2025-08-04, from: Vatican News
@@ -133,11 +405,23 @@ date: 2025-08-04, from: Vatican News
 
 date: 2025-08-04, from: RTÉ News
 
-Tánaiste and Minister for Foreign Affairs Simon Harris has said "no stone" will be left unturned to secure the release of an Irish woman, who was kidnapped along with seven other people from an orphanage in Haiti. 
+Tánaiste and Minister for Foreign Affairs Simon Harris has said "no stone" will be left unturned to secure the release of an Irish woman, who was kidnapped along with seven other people from an orphanage in Haiti yesterday. 
 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0804/1526814-haiti-kidnapping/>
+
+---
+
+## Russia plays down Trump's order to move 2 nuclear subs, urges caution on nuclear rhetoric
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600864.1754308715!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-putin-us.jpg' alt='Russian President Vladimir Putin attends a meeting.' width='620' height='349' title='Russian President Vladimir Putin attends a meeting of board of trustees of Talent and Success Foundation at the Sirius Park of Science and Art after his phone talks with U.S. President Donald Trump, outside Sochi, Russia, on Monday, May 19, 2025. (Vyacheslav Prokofyev, Sputnik, Kremlin Pool Photo via AP)'/><p>Russia said on Monday that everyone should be "very, very careful" about nuclear rhetoric, responding to a statement by U.S. President Donald Trump that he had ordered a repositioning of U.S. nuclear submarines.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/russia-trump-nuclear-submarines-1.7600861?cmp=rss>
 
 ---
 
@@ -150,6 +434,18 @@ A man in his 30s has died following a road collision involving a car and an e-sc
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0804/1526828-dublin-blanchardstown-rtc/>
+
+---
+
+## Pakistan resumes forced expulsions of 1.4 million Afghan refugees despite UN concerns
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600860.1754306704!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/pakistan-afghan-refugees.jpg' alt='Afghan refugees board a bus to leave for their homeland Afghanistan.' width='620' height='349' title='Afghan refugees board a bus to leave for their homeland Afghanistan, at a terminal in Karachi, Pakistan, Wednesday, April 9, 2025. (AP Photo/Fareed Khan)'/><p>Authorities in Pakistan have resumed the forced deportations of Afghan refugees after the federal government declined to extend a key deadline for their stay, officials said Monday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/pakistan-forced-deportations-afghan-regufees-1.7600857?cmp=rss>
 
 ---
 
@@ -237,11 +533,11 @@ Democratic politicians in Texas said they were leaving the state to deny Republi
 
 ---
 
-## US Special Envoy Witkoff to visit Russia 'next week'
+## Russia plays down Trump submarine order
 
 date: 2025-08-04, from: RTÉ News
 
-US President Donald Trump has confirmed his special envoy Steve Witkoff will visit Russia next week, ahead of a looming US sanctions deadline and escalating tensions with Moscow. 
+Russia has said that everyone should be "very, very careful" about nuclear rhetoric, responding to a statement by US President Donald Trump that he had ordered a repositioning of US nuclear submarines. 
 
 <br> 
 
@@ -249,11 +545,11 @@ US President Donald Trump has confirmed his special envoy Steve Witkoff will vis
 
 ---
 
-## Israeli ex-security chiefs urge Trump to help end war
+## Israel to decide next steps in Gaza after talks collapse
 
 date: 2025-08-04, from: RTÉ News
 
-Hundreds of retired Israeli security officials including former heads of intelligence agencies have urged US President Donald Trump to pressure their own government to end the war in Gaza. 
+Benjamin Netanyahu will convene his security cabinet this week to decide on Israel's next steps in Gaza following the collapse of indirect ceasefire talks with Hamas, with one senior Israeli source suggesting more force could be an option. 
 
 <br> 
 
@@ -261,11 +557,11 @@ Hundreds of retired Israeli security officials including former heads of intelli
 
 ---
 
-## Thousands without power after Storm Floris hits
+## Around 2,700 still without power after Storm Floris
 
 date: 2025-08-04, from: RTÉ News
 
-Around 10,000 homes and businesses have been left without power in the west and northwest of Ireland following the arrival of Storm Floris overnight. 
+Around 2,700 homes, farms and businesses across the country are still without power after Storm Floris. 
 
 <br> 
 
@@ -504,7 +800,7 @@ Cholera is ripping through North Darfur, Sudan, threatening thousands of childre
 
 ## Awaza gears up to host UN conference on landlocked developing countries
 
-date: 2025-08-03, from: United Nations, Top Stories
+date: 2025-08-03, from: United Nations, Economic Development
 
 In the city of Awaza, where the Caspian Sea meets the desert, UN and Turkmen flags were raised on Sunday ahead of the Third United Nations Conference on Landlocked Developing Countries (LLDC3), as final preparations continue to welcome world leaders and delegates for a week of high-level talks on boosting development in some of the world’s most geographically disadvantaged nations. 
 

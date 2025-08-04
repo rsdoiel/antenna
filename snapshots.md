@@ -1,11 +1,271 @@
 ---
 title: snapshots
-updated: 2025-08-04 06:07:55
+updated: 2025-08-04 14:09:44
 ---
 
 # snapshots
 
-(date: 2025-08-04 06:07:55)
+(date: 2025-08-04 14:09:44)
+
+---
+
+## Usage charts for my LLM tool against OpenRouter
+
+date: 2025-08-04, updated: 2025-08-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://openrouter.ai/apps?url=https%3A%2F%2Fllm.datasette.io%2F">Usage charts for my LLM tool against OpenRouter</a></strong></p>
+OpenRouter proxies requests to a large number of different LLMs and provides high level statistics of which models are the most popular among their users.</p>
+<p>Tools that call OpenRouter can include <code>HTTP-Referer</code> and <code>X-Title</code> headers to credit that tool with the token usage. My <a href="https://github.com/simonw/llm-openrouter/">llm-openrouter</a> plugin <a href="https://github.com/simonw/llm-openrouter/blob/8e4be78e60337154b063faaa7161dddd91462730/llm_openrouter.py#L99C13-L99C20">does that here</a>.</p>
+<p>... which means <a href="https://openrouter.ai/apps?url=https%3A%2F%2Fllm.datasette.io%2F">this page</a> displays aggregate stats across users of that plugin! Looks like someone has been running a lot of traffic through <a href="https://openrouter.ai/qwen/qwen3-14b">Qwen 3 14B</a> recently.</p>
+<p><img alt="Screenshot of LLM usage statistics dashboard showing a stacked bar chart from July 5 to August 4, 2025, with a legend on the right displaying &quot;Top models&quot; including Qwen: Qwen3 14B (480M), Google: Gemini 2.5 Flash Lite Preview 06-17 (31.7M), Horizon Beta (3.77M), Google: Gemini 2.5 Flash Lite (1.67M), google/gemini-2.0-flash-exp (1.14M), DeepSeek: DeepSeek V3 0324 (1.11M), Meta: Llama 3.3 70B Instruct (228K), Others (220K), Qwen: Qwen3 Coder (218K), MoonshotAI: Kimi K2 (132K), and Horizon Alpha (75K), with a total of 520M usage shown for August 3, 2025." src="https://static.simonwillison.net/static/2025/llm-usage-openrouter.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/4/llm-openrouter-usage/#atom-everything>
+
+---
+
+## SuperDuper 4.0 Beta
+
+date: 2025-08-04, from: Michael Tsai
+
+Dave Nanian: Our new trace capability showed quite clearly that the folder we were working on was~/Pictures/Photos Library.photoslibrary/database/search/Spotlight/SpotlightKnowledgeEvents/index.V2/journals/12/cs_defaultAnd that&#8217;s a folder I don&#8217;t have. When the user navigated to it at first, he said it was &#8220;empty&#8221;&#8230;which was weird. But later, he noticed that there was a spinner at the bottom of the Finder window. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/04/superduper-4-0-beta/>
+
+---
+
+## Logging Privacy Shenanigans
+
+date: 2025-08-04, from: Michael Tsai
+
+Peter Steinberger: If you&#8217;ve ever tried debugging a macOS app using the unified logging system, you&#8217;ve probably encountered the dreaded &#60;private&#62; redaction. Your carefully crafted log messages turn into cryptic puzzles where the most important debugging information is hidden. [&#8230;] You don&#8217;t need to use .mobileconfig files &#x2013; you can simply drop plist files directly [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/04/logging-privacy-shenanigans/>
+
+---
+
+## Device Added to Your Account
+
+date: 2025-08-04, from: Michael Tsai
+
+Riccardo Mori: Whenever I revive one of these devices, if it&#8217;s still able to access iCloud and other Apple ID-related services, I get a notification on all my other Apple devices that a certain device has now access to FaceTime and iMessage. The wording in this notification has changed for the worse in more recent [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/04/device-added-to-your-account/>
+
+---
+
+## AccuWeather to Discontinue Free API
+
+date: 2025-08-04, from: Michael Tsai
+
+AccuWeather (via Hacker News): AccuWeather&#8217;s&#x202F;current Free Limited Trials for Core Weather and MinuteCast&#174; will be retired with the new portal launch. [&#8230;] Once your trial ends, you can keep building with our affordable Starter package, which offers essential API access at a competitive monthly rate. It doesn&#8217;t say what the new plans are. Previously: Weather [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/04/accuweather-to-discontinue-free-api/>
+
+---
+
+## Qwen-Image: Crafting with Native Text Rendering
+
+date: 2025-08-04, updated: 2025-08-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://qwenlm.github.io/blog/qwen-image/">Qwen-Image: Crafting with Native Text Rendering</a></strong></p>
+Not content with releasing <a href="https://simonwillison.net/2025/Jul/30/chinese-models/">six excellent open weights LLMs in July</a>, Qwen are kicking off August with their first ever image generation model.</p>
+<p>Qwen-Image is a 20 billion parameter MMDiT (Multimodal Diffusion Transformer, originally proposed for Stable Diffusion 3) model under an Apache 2.0 license. The <a href="https://huggingface.co/Qwen/Qwen-Image">Hugging Face repo</a> is 53.97GB.</p>
+<p>Qwen released a <a href="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Qwen_Image.pdf">detailed technical report</a> (PDF) to accompany the model. The model builds on their Qwen-2.5-VL vision LLM, and they also made extensive use of that model to help create some of their their training data:</p>
+<blockquote>
+<p>In our data annotation pipeline, we utilize a capable image captioner (e.g., Qwen2.5-VL) to generate not only comprehensive image descriptions, but also structured metadata that captures essential image properties and quality attributes.</p>
+<p>Instead of treating captioning and metadata extraction as independent tasks, we designed an annotation framework in which the captioner concurrently describes visual content and generates detailed information in a structured format, such as JSON. Critical details such as object attributes, spatial relationships, environmental context, and verbatim transcriptions of visible text are captured in the caption, while key image properties like type, style, presence of watermarks, and abnormal elements (e.g., QR codes or facial mosaics) are reported in a structured format.</p>
+</blockquote>
+<p>They put a <em>lot</em> of effort into the model's ability to render text in a useful way. 5% of the training data (described as "billions of image-text pairs") was data "synthesized through controlled text rendering techniques", ranging from simple text through text on an image background up to much more complex layout examples:</p>
+<blockquote>
+<p>To improve the model’s capacity to follow complex, structured prompts involving layout-sensitive content, we propose a synthesis strategy based on programmatic editing of pre-defined templates, such as PowerPoint slides or User Interface Mockups. A comprehensive rule-based system is designed to automate the substitution of placeholder text while maintaining the integrity of layout structure, alignment, and formatting.</p>
+</blockquote>
+<p>I tried the model out using the <a href="https://modelscope.cn/aigc/imageGeneration?tab=advanced">ModelScope demo</a> - I signed in with GitHub and verified my account via a text message to a phone number. Here's what I got for "A raccoon holding a sign that says "I love trash" that was written by that raccoon":</p>
+<p><img alt="A great photo of a raccoon holding a cardboard sign, the text I love trash is written on it in marker, the raccoon has chosen to draw the o in love as a heart filled with red marker pen." src="https://static.simonwillison.net/static/2025/qwen-trash.jpg" /></p>
+<p>The raccoon has very neat handwriting!
+
+    <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1952398250121756992">@Alibaba_Qwen</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/stable-diffusion">stable-diffusion</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/text-to-image">text-to-image</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/4/qwen-image/#atom-everything>
+
+---
+
+## Modos Paper Dev Kit cranks E Ink monitor refresh rates up to 75 Hz (crowdfunding)
+
+date: 2025-08-04, from: Liliputing
+
+<p>E Ink displays are often used in eBook readers or digital signage thanks to their low power consumption and paper-like qualities. But most devices with E Ink displays have low screen refresh rates that make them awkward fits for video playback or other high-motion graphics. While we&#8217;ve seen a few smartphones, tablets, and monitors with [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/modos-paper-dev-kit-cranks-e-ink-monitor-refresh-rates-up-to-75-hz-crowdfunding/">Modos Paper Dev Kit cranks E Ink monitor refresh rates up to 75 Hz (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/modos-paper-dev-kit-cranks-e-ink-monitor-refresh-rates-up-to-75-hz-crowdfunding/>
+
+---
+
+## Quoting @himbodhisattva
+
+date: 2025-08-04, updated: 2025-08-04, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/himbodhisattva/status/1525182881726730240"><p>for services that wrap GPT-3, is it possible to do the equivalent of sql injection? like, a prompt-injection attack? make it think it's completed the task and then get access to the generation, and ask it to repeat the original instruction?</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/himbodhisattva/status/1525182881726730240">@himbodhisattva</a>, coining the term prompt injection on 13th May 2022, four months before <a href="https://simonwillison.net/2022/Sep/12/prompt-injection/">I did</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/4/himbodhisattva/#atom-everything>
+
+---
+
+## I Saved a PNG Image To A Bird
+
+date: 2025-08-04, updated: 2025-08-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.youtube.com/watch?v=hCQCP-5g5bo">I Saved a PNG Image To A Bird</a></strong></p>
+Benn Jordan provides one of the all time great YouTube video titles, and it's justified. He drew an image in an audio spectrogram, played that sound to a talented starling (internet celebrity <a href="https://www.tiktok.com/@farijuana_bird/video/7452882774991572254">"The Mouth"</a>) and recorded the result that the starling almost perfectly imitated back to him.</p>
+<blockquote>
+<p>Hypothetically, if this were an audible file transfer protocol that used a 10:1 data compression ratio, that's nearly 2 megabytes of information per second. While there are a lot of caveats and limitations there, the fact that you could set up a speaker in your yard and conceivably store any amount of data in songbirds is crazy.</p>
+</blockquote>
+<p>This video is full of so much more than just that. Fast forward to <a href="https://www.youtube.com/watch?v=hCQCP-5g5bo&amp;t=358s">5m58s</a> for footage of a nest full of brown pelicans showing the sounds made by their chicks!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/audio">audio</a>, <a href="https://simonwillison.net/tags/youtube">youtube</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/4/i-saved-a-png-image-to-a-bird/#atom-everything>
+
+---
+
+## Your Own Newspaper, Or Not
+
+date: 2025-08-04, from: Chris Coyier blog
+
+You&#8217;ve likely heard me go on about how much I like an encourage using an RSS reader. Molly White frames it nicely: What if you could take all your favorite newsletters, ditch the data collection, and curate your own newspaper? It could include independent journalists, bloggers, mainstream media, worker-owned media collectives, and just about anyone [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/08/04/your-own-newspaper-or-not/>
+
+---
+
+## Superman: el nuevo punk rock
+
+date: 2025-08-04, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: James Gunn. Guion: James Gunn. Elenco: David Corenswet, Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Nathan Fillion, Isabela Merced, María Gabriela de Faría, Anthony Carrigan, Skyler Gisondo, Sara Sampaio. País: Estados Unidos.    Más información de la película: https://www.imdb.com/title/tt5950044 Superman, como héroe de cómics, es una figura que necesita de una constante actualización para mantenerse [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-superman/">Superman: el nuevo punk rock</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-superman/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-superman>
+
+---
+
+## Public Broadcasting's Democratic Value
+
+date: 2025-08-04, from: Guy Kawasaki blog
+
+Stephanie A. (Sam) Martin, Frank and Bethine Church Endowed Chair of Public Affairs, Boise State University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/public-broadcastings-democratic-value>
+
+---
+
+## Slopocalypse Now
+
+date: 2025-08-04, from: Gary Marcus blog
+
+The Horror 
+
+<br> 
+
+<https://garymarcus.substack.com/p/slopocalypse-now>
+
+---
+
+## Quoting Nick Turley
+
+date: 2025-08-04, updated: 2025-08-04, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/nickaturley/status/1952385556664520875"><p>This week, ChatGPT is on track to reach 700M weekly active users — up from 500M at the end of March and 4× since last year.</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/nickaturley/status/1952385556664520875">Nick Turley</a>, Head of ChatGPT, OpenAI</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/4/nick-turley/#atom-everything>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-08-04, from: IIIF Mastodon feed)
+
+<p>The Glycerine Framework has been extended: Glycerine server provides the back-end data model and APIs for integration into existing DAMS and CMS platforms, Glycerine editor allows for annotations, and the Glycerine viewer is embeddable into an existing CMS. </p><p>If you&#39;re interested in learning more, the <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Consortium and the Glycerine team are hosting (45 min.) showcases &amp; demos in different time zones on August 12 and 13. Free registration on Eventbrite: <a href="https://www.eventbrite.com/o/iiif-consortium-19836883937" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">eventbrite.com/o/iiif-consorti</span><span class="invisible">um-19836883937</span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114971144220041722>
+
+---
+
+## R2-D2 VEX robot
+
+date: 2025-08-04, from: Raspberry Pi News (.com)
+
+<p>Raspberry Pi 3 and a VEX Robotics kit transform a toy version of an iconic film character into a working robot.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/r2-d2-vex-robot/">R2-D2 VEX robot </a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/r2-d2-vex-robot/>
+
+---
+
+## The Anti-Porn Crusade That Censored Steam and Itch.io Started 30 Years Ago
+
+date: 2025-08-04, from: 404 Media Group
+
+Keywords and tags have never been a useful metric for distilling nuance. Pushing for regulations based on them is repeating a 30-year history of porn panic online. 
+
+<br> 
+
+<https://www.404media.co/steam-itchio-collective-shout-nsfw-games-campaign/>
+
+---
+
+## The Microsoft Smurface
+
+date: 2025-08-04, updated: 2025-08-04, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/04/the-microsoft-smurface/>
 
 ---
 
@@ -277,6 +537,18 @@ Alternative name: Gh Contribs</pre>
 <br> 
 
 <https://leanrada.com/notes/github-heatmap-widget/?ref=rss>
+
+---
+
+## Modos Developer Kit Now Live on Crowd Supply!
+
+date: 2025-08-04, from: Modos Blog
+
+The Modos Dev Kit is live! Build with fast-refresh, low-latency e-paper. Now on Crowd Supply. 
+
+<br> 
+
+<https://www.modos.tech/blog/modos-developer-kit-live>
 
 ---
 
