@@ -1,11 +1,74 @@
 ---
 title: pacific
-updated: 2025-08-05 06:08:23
+updated: 2025-08-05 14:08:13
 ---
 
 # pacific
 
-(date: 2025-08-05 06:08:23)
+(date: 2025-08-05 14:08:13)
+
+---
+
+## Awards sweep: UH students win every student category at state journalism awards
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>The awards were presented at a ceremony on July 30.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/spj-hawaii-awards/">Awards sweep: <abbr>UH</abbr> students win every student category at state journalism awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/spj-hawaii-awards/>
+
+---
+
+## UH Hilo women’s soccer earns academic award
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>United Soccer Coaches recognized the Vulcans for their team <abbr>GPA</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/uh-hilo-womens-soccer-award/"><abbr>UH</abbr> Hilo women’s soccer earns academic award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/uh-hilo-womens-soccer-award/>
+
+---
+
+## French Polynesia, Cook Islands sign air services agreement
+
+date: 2025-08-05, from: 
+
+The agreement was signed between Cook Islands Prime Minister Mark Brown and French Polynesia's President Moetai Brotherson. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569122/french-polynesia-cook-islands-sign-air-services-agreement>
+
+---
+
+## Mark Brown: rejects talk of 'strategic shift' in Cook Islands-New Zealand relationship
+
+date: 2025-08-05, from: 
+
+The Cook Islands has no intention of leaving its special relationship with New Zealand, Prime Minister Mark Brown says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569120/mark-brown-rejects-talk-of-strategic-shift-in-cook-islands-new-zealand-relationship>
+
+---
+
+## 2 years after disaster, Maui recovery inches forward, struggles continue
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>The <abbr>UHERO</abbr> report draws on nearly a year of monthly survey data from more than 950 fire-affected people.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/2-years-after-maui-wildfire-disaster-report/">2 years after disaster, Maui recovery inches forward, struggles continue</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/2-years-after-maui-wildfire-disaster-report/>
 
 ---
 

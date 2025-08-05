@@ -1,11 +1,228 @@
 ---
 title: columns
-updated: 2025-08-05 06:08:24
+updated: 2025-08-05 14:08:15
 ---
 
 # columns
 
-(date: 2025-08-05 06:08:24)
+(date: 2025-08-05 14:08:15)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-05, from: Dave Winer's Scripting News)
+
+Whenever you have to get something done with a company, get ready for lots of phone tag, waiting on hold, talking to bots, getting screened, trying to convince a computer that you have legitimate business, and no, what you're looking for isn't on their website (believe me I looked). The stupid thing about it is that ChatGPT is becoming more like those things every day. Companies have built awful systems for getting anything done that might eat into their profits. Google is the absolute worst. Even for services that cost real money, they absolutely will not help. You better hope everything goes perfectly if you buy their service. 
+
+<br> 
+
+<http://scripting.com/2025/08/05.html#a205027>
+
+---
+
+##  What Kids Told Us About How to Get Them Off Their Phones.... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047276-what-kids-told-us-about>
+
+---
+
+## August 4, 2025
+
+date: 2025-08-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170209152/826d08297b99c64f52a3250e17ec5b80.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170209152/826d08297b99c64f52a3250e17ec5b80.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-4-2025-b6a>
+
+---
+
+##  At 17, Hannah Cairo Solved a Major Math Mystery. &#8220;The math world... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047281-at-17-hannah-cairo-solved>
+
+---
+
+##  Philip Bump on the results of a recent poll. What Makes an... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047278-philip-bump-on-the-result>
+
+---
+
+##  The Case of the Terrifyingly Affordable Flashlight 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-case-of-the-terrifyingly-affordable-flashlight>
+
+---
+
+## New Features Everywhere: Launching Version 14.3 of Wolfram Language & Mathematica
+
+date: 2025-08-05, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/08/icon-14.3-v2.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>This Is a Big Release Going Dark: Dark Mode Arrives How Does It Relate to AI? Connecting with the Agentic World Just Put a Fit on That! Maps Become More Beautiful A Better Red: Introducing New Named Colors More Spiffing Up of Graphics Non-commutative Algebra Draw on That Surface: The Visual Annotation of Regions Curvature [&#8230;] 
+
+<br> 
+
+<https://writings.stephenwolfram.com/2025/08/new-features-everywhere-launching-version-14-3-of-wolfram-language-mathematica/>
+
+---
+
+##  Corporation for Public Broadcasting says it&#8217;s shutting down (due to a lack... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047270-corporation-for-public-br>
+
+---
+
+##  Lonely Avenue 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/lonely-avenue>
+
+---
+
+##  I&#8217;d like to say that I&#8217;m a proud member of The Great... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047271-id-like-to-say-that>
+
+---
+
+## NetBSD 11 prepares for launch with 57 supported platforms
+
+date: 2025-08-05, updated: 2025-08-05, from: Liam Proven's articles at the Register
+
+<h4>New version season is near, and some of the big names are dropping x86-32 – but not this one</h4>
+      <p>NetBSD 11 is taking shape and the code branch for the new release has been created.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/05/netbsd_11_is_near/>
+
+---
+
+##  The Panama Playlists is a collection of the Spotify accounts of celebrities,... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047274-the-panama-playlists-is-a>
+
+---
+
+## Apple Q3 2025 Results and Charts
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/07/apple-q3-2025-results-and-charts-95b-revenue/>
+
+---
+
+##  Cory Doctorow is coming out with a book on enshittification in the... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047268-cory-doctorow-is-coming-o>
+
+---
+
+##  &#8220;If the behavior that this administration has exhibited in just its first... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047267-if-the-behavior-that-this>
+
+---
+
+## Theater UX
+
+date: 2025-08-05, from: Dave Rupert blog
+
+<p>I saw this summer’s Marvel movie in the theater on Sunday. A bit of a last minute idea so we ended up going to the “legacy” movie theater across the highway. Before I continue, It’s important to understand my local cinema dynamics. We have two theaters here in Austin: <a href="https://drafthouse.com/">The Alamo Drafthouse</a> and All Other Cinemas.</p>
+<p>The best place to see movies in Austin is at the Alamo Drafthouse. If you’ve never been to an Alamo, I’m sorry. It’s a movie theater for people who love movies by people who love movies. They craft the entire art house experience from end-to-end. From the custom pre-screener of thematically topical clips, to the strict no late arrival and no texting policies, to custom food and drink options that match the latest blockbuster movie. A waiter brings you food, drinks, and refills so you don’t have to leave your seat. The trailers are a tight 15 minutes announcing new releases and special events where they bring back old movie classics (set to an era-appropriate soundtrack, of course). Every year they have an indie movie festival to showcase the weirdest films the industry has to offer. Going to the Alamo is a thoughtful experience through and through and they sell out nearly every show opening week. You pay more going to the Alamo of course but I think everyone would agree it’s worth it for most movies unless you’re looking for a quick n’ dirty alternative.</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1L3eeC2lJZs?si=i-jqBOufRqq5d9F3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Contrast that to the “legacy” theater. I call it the legacy theater because this was the nice, brand new theater when I went to college 25 years ago; one of those big 24-screen nationwide chain movieplexes with a four-machine arcade and stadium seating. Six plexiglass teller windows tell the history of how popular this destination was in its time. It’s flagship theater is an enormous 4D IMAX. It of course (like the Alamo) has the push button recliners and swivel food trays. The nicest thing about the “legacy” theater is that there’s always open seats and that’s where the problems start to reveal themselves…</p>
+<p>The first thing you notice at the “legacy” theater is that no one occupies the teller windows anymore. Instead you go inside to meet a greasy teenager who scans a QR code for the ticket you have to buy online. You go to the snack bar and load up on enormous free refill tubs of popcorn, drinks, and overpriced candy; it’s almost certainly a $50 stop. Then you go to the nearly empty theater and wonder if you walked into the wrong theater by accident. Before the movie starts you sit through the hokey pre-screen trivia and local ads and when the start time hits… you watch 35 (!!!) more minutes of ads with a couple trailers mixed in. And after all that you’re out of snacks and the movie starts.</p>
+<p>The user experience contrast between the two couldn’t be more stark. One is thoughtful and compounds the experience at every turn and the other is enshittified with ads. One keeps you wanting to come back and the other makes you wonder why you came here in the first place (or worse, it makes you want to leave). At least its clean, I guess. One sees attention as precious and not-to-be-disturbed, the other sees you as captured by sunk costs and a pair of monetizable eyeballs. One will sell you a fresh pizza, a popcorn, and a couple refillable sodas for $50 and the other will sell you day-old popcorn, an impossibly large cup of soda, and some Sour Patch Kids for $50… after you do the math, the better experience isn’t any more expensive so it’s not even competing on price.</p>
+<p>It’s no wonder why the “legacy” theater is always empty. I bet its owners would love to see all the seats full again. It all comes down to UX. One works hard creates a vibrant scene and fosters a culture<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup> for people who like films, the other is real “death of cinema” vibes. People (sometimes thousands!) put so much effort into these films to make the best film possible, only to have that experience ruined in the last mile. It’s tragic and I guess I’ll just catch it when it comes to streaming.</p>
+<p>In related news, last year Sony Entertainment acquired Alamo Drafthouse. I’m not sure if that makes it more or less probable that you’ll be able to experience an Alamo in the future. We’ll see where it goes from here. Hopefully they can continue their relentless focus on the user experience.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>I’d be remiss if I didn’t call out the <a href="https://www.texasobserver.org/alamo-drafthouse-fantastic-fest/">#metoo and union busting issues</a> that were happening behind-the-scenes at Alamo and revealed in 2022. While Alamo has done a lot to create immense cultural capital here in Austin, that ascent has not been without enabled bad behavior. Similar issues plague Hollywood too. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<br> 
+
+<https://daverupert.com/2025/08/theater-ux/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-05, from: Dave Winer's Scripting News)
+
+<a href="https://news.scripting.com/">news.scripting.com</a> is still going strong. Open to the public, no login. 
+
+<br> 
+
+<http://scripting.com/2025/08/05.html#a132717>
 
 ---
 

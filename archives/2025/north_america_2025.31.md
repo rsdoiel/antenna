@@ -1,11 +1,140 @@
 ---
 title: north america
-updated: 2025-08-05 06:08:21
+updated: 2025-08-05 14:08:12
 ---
 
 # north america
 
-(date: 2025-08-05 06:08:21)
+(date: 2025-08-05 14:08:12)
+
+---
+
+## Outlook not good
+
+date: 2025-08-05, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/outlook-not-good>
+
+---
+
+## Ghislaine Maxwell Joins The Real Housewives of Minimum Security Prison
+
+date: 2025-08-05, from: The Contrarian
+
+The convicted sex offender has been moved to Federal Prison Camp Bryan, home to former Bravo star Jen Shah and Theranos scammer Elizabeth Holmes 
+
+<br> 
+
+<https://contrarian.substack.com/p/ghislaine-maxwell-joins-the-real>
+
+---
+
+## Where in the World is Tim Mak? The possibility of a Russia-Ukraine ceasefire
+
+date: 2025-08-05, from: The Contrarian
+
+"People are dying for random patches of non-descript scraps of land in the middle of nowhere that have no strategic value except to assuage a dictator's ego." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170177652/6bec19bfd26aeee84606fe6a53dff80f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170177652/6bec19bfd26aeee84606fe6a53dff80f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/where-in-the-world-is-tim-mak-the>
+
+---
+
+## Is President Trump Sacrificing Infrastructure to His Anti-DEI Obsession?
+
+date: 2025-08-05, from: Capital and Main
+
+<p>In his first term, Trump promised to build new roads, bridges, airports and railways.<br />
+This time he seems more invested in tearing things down.</p>
+<p>The post <a href="https://capitalandmain.com/president-trump-sacrificing-infrastructure-to-his-anti-dei-obsession">Is President Trump Sacrificing Infrastructure to His Anti-DEI Obsession?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/president-trump-sacrificing-infrastructure-to-his-anti-dei-obsession>
+
+---
+
+## The Quorum Break Heard Across the Nation
+
+date: 2025-08-05, from: The Contrarian
+
+The battle over Texas maps is nothing new&#8212;but the stakes for American democracy are higher than ever. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-quorum-break-heard-across-the>
+
+---
+
+## Let’s Do Lunch! 08/05
+
+date: 2025-08-05, from: The Contrarian
+
+A recording from Jared Bernstein's Let's Do Lunch 08/05 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170188538/8d974a2e87f5b23bae5af11b4ae35499.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170188538/8d974a2e87f5b23bae5af11b4ae35499.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0805>
+
+---
+
+## Is there hope for North Carolina Democrats? Party Chair Anderson Clayton explains
+
+date: 2025-08-05, from: The Contrarian
+
+"When we're able to reverse partisan and racial gerrymandering, like we have a plan to do in this state, we're going to be able to guarantee free and fair elections." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169178412/6f92f94d4bbc216419d9b58b74748e81.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169178412/6f92f94d4bbc216419d9b58b74748e81.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/is-there-hope-for-north-carolina>
+
+---
+
+##  Trump Is Holding On To $360 Million In Americans’ Refunds 
+
+date: 2025-08-05, from: The Lever News
+
+ Regulators won hundreds of millions in refunds for U.S. consumers  — now the Trump administration is set to terminate them.  
+
+<br> 
+
+<https://www.levernews.com/trump-is-holding-on-to-360-million-in-americans-refunds/>
+
+---
+
+## Republicans Are Planning to Carve Up Texas Like a Christmas Ham. We Should All Be Pissed.
+
+date: 2025-08-05, from: The Contrarian
+
+At Trump&#8217;s command, the Texas GOP&#8217;s redistricting maps strip voting power away from Black Texans and are an insult to us all &#8212; regardless of partisan stripes. 
+
+<br> 
+
+<https://contrarian.substack.com/p/republicans-are-planning-to-carve>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-05, from: The Contrarian
+
+Tuesday: Rep. Mike Flood gets an earful at a Nebraska town hall, plus Rage Against the Regime rallies in Kansas, Michigan, and South Carolina. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -108,18 +237,6 @@ date: 2025-08-04, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/170092758/b95b9ab08fa7ea16352f2c7c3fea0480.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/offsides-with-pablo-torre-a-new-washington>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-04, from: The Contrarian
-
-Monday: Rage Against the Regime rallies in Montana, Colorado, Maine, and Oklahoma, and an ICE protest in New York. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

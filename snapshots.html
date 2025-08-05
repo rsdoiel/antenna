@@ -28,7 +28,1108 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-08-05 06:08:30)</p>
+<p>(date: 2025-08-05 14:08:23)</p>
+<hr />
+<h2
+id="openais-new-open-weight-apache-2-models-are-really-good">OpenAI’s
+new open weight (Apache 2) models are really good</h2>
+<p>date: 2025-08-05, updated: 2025-08-05, from: Simon Willison’s
+Weblog</p>
+<p>
+The long promised
+<a href="https://openai.com/index/introducing-gpt-oss/">OpenAI open
+weight models are here</a>, and they are <em>very</em> impressive.
+They’re available under proper open source licenses - Apache 2.0 - and
+come in two sizes, 120B and 20B.
+</p>
+<p>
+OpenAI’s own benchmarks are eyebrow-raising - emphasis mine:
+</p>
+<blockquote>
+<p>
+The <strong>gpt-oss-120b</strong> model achieves <strong>near-parity
+with OpenAI o4-mini</strong> on core reasoning benchmarks, while running
+efficiently on a single 80 GB GPU. The <strong>gpt-oss-20b</strong>;
+model delivers <strong>similar results to OpenAI o3‑mini</strong> on
+common benchmarks and can run on edge devices with just 16 GB of memory,
+making it ideal for on-device use cases, local inference, or rapid
+iteration without costly infrastructure.
+</p>
+</blockquote>
+<p>
+o4-mini and o3-mini are <em>really good</em> proprietary models - I was
+not expecting the open weights releases to be anywhere near that class,
+especially given their small sizes. That gpt-oss-20b model should run
+quite comfortably on a Mac laptop with 32GB of RAM.
+</p>
+<p>
+Both models are mixture-of-experts:
+</p>
+<blockquote>
+<p>
+gpt-oss-120b activates 5.1B parameters per token, while gpt-oss-20b
+activates 3.6B. The models have 117b and 21b total parameters
+respectively.
+</p>
+</blockquote>
+<p>
+Something that surprised me even more about the benchmarks was the
+scores for general knowledge based challenges. I can just about believe
+they managed to train a strong reasoning model that fits in 20B
+parameters, but these models score highly on benchmarks like “GPQA
+Diamond (without tools) PhD-level science questions” too:
+</p>
+<ul>
+<li>
+o3 — 83.3%
+</li>
+<li>
+o4-mini — 81.4%
+</li>
+<li>
+gpt-oss-120b — 80.1%
+</li>
+<li>
+o3-mini — 77%
+</li>
+<li>
+gpt-oss-20b — 71.5%
+</li>
+</ul>
+<p>
+A lot of these benchmarks are edging towards saturated.
+</p>
+<ul>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#running-gpt-oss-20b-on-my-mac-with-lm-studio">Running
+gpt-oss-20b on my Mac with LM Studio</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#pelican-on-reasoning-low">Pelican
+on reasoning=low</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#pelican-on-reasoning-medium">Pelican
+on reasoning=medium</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#pelican-on-reasoning-high">Pelican
+on reasoning=high</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#space-invaders-with-gpt-oss-20b">Space
+invaders with gpt-oss-20b</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#trying-gpt-oss-120b-via-api-providers">Trying
+gpt-oss-120b via API providers</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#llama-cpp-is-coming-very-shortly">llama.cpp
+is coming very shortly</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#gpt-oss-20b-in-ollama">gpt-oss:20b
+in Ollama</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#the-model-card">Training
+details from the model card</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#openai-harmony-a-new-format-for-prompt-templates">OpenAI
+Harmony, a new format for prompt templates</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#the-open-question-for-me-how-good-is-tool-calling-">The
+open question for me: how good is tool calling?</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Aug/5/gpt-oss/#china">Competing
+with the Chinese open models</a>
+</li>
+</ul>
+<h4 id="running-gpt-oss-20b-on-my-mac-with-lm-studio">
+Running gpt-oss-20b on my Mac with LM Studio
+</h4>
+<p>
+There are already a bunch of different ways to run these models - OpenAI
+partnered with numerous organizations in advance of the release.
+</p>
+<p>
+I decided to start with <a href="https://lmstudio.ai/">LM Studio</a>.
+</p>
+<p>
+I had to update to the most recent version of the app, then install the
+new model from
+<a href="https://lmstudio.ai/models/openai/gpt-oss-20b">their
+openai/gpt-oss-20b</a> page.
+</p>
+<p>
+First impressions: this is a <em>really good</em> model, and it somehow
+runs using just 11.72GB of my system RAM.
+</p>
+<p>
+The model supports three reasoning efforts: low, medium and high. LM
+Studio makes those available via a dropdown.
+</p>
+<p>
+Let’s try “Generate an SVG of a pelican riding a bicycle”:
+</p>
+<h4 id="pelican-on-reasoning-low">
+Pelican on reasoning=low
+</h4>
+<p>
+I started
+<a href="https://gist.github.com/simonw/b71394cc85fe0f048e376392e41586da">with
+low</a>. It thought for 0.07 seconds and then output this (at 39 tokens
+a second):
+</p>
+<p>
+<img src="https://static.simonwillison.net/static/2025/gpt-20-low.png" alt="" style="max-width: 100%;" />
+</p>
+<p>
+Except… it output invalid SVG. One of the path elements looked like
+this:
+</p>
+<pre><code>&lt;!-- Frame --&gt;
+&lt;path d="
+    M150,250          &lt;!-- rear wheel center --&gt;
+    L300,120          &lt;!-- top tube to front --&gt;
+    L450,250          &lt;!-- chain stays back to front --&gt;
+    L300,350          &lt;!-- seat stays down --&gt;
+    Z"
+    fill="#e0e0e0" stroke="#555" stroke-width="4"/&gt;
+</code></pre>
+<p>
+But you can’t put comments inside attributes like that. I fixed this to
+get the above image.
+</p>
+<h4 id="pelican-on-reasoning-medium">
+Pelican on reasoning=medium
+</h4>
+<p>
+I tried again
+<a href="https://gist.github.com/simonw/642e9e371387fc59a5aad25dcd41b0cc">on
+medium</a>. This time it thought for 4.44 seconds and gave me this, at
+55 tokens/second:
+</p>
+<p>
+<img src="https://static.simonwillison.net/static/2025/gpt-20-medium.png" alt="" style="max-width: 100%;" />
+</p>
+<h4 id="pelican-on-reasoning-high">
+Pelican on reasoning=high
+</h4>
+<p>
+And then
+<a href="https://gist.github.com/simonw/164a3f1b4b1a971637af279a0ac49be3">on
+high</a>. My first attempt here failed because it hit the default LM
+Studio 4096 context limit - so I reloaded the model and set the new
+limit to the maximum possible.
+</p>
+<p>
+It jumped up to using 17.35GB RAM (I imagine it might use a lot more
+with a longer prompt) and after thinking for 5 minutes and 50 seconds
+(!) gave me this:
+</p>
+<p>
+<img src="https://static.simonwillison.net/static/2025/gpt-20-high.png" alt="" style="max-width: 100%;" />
+</p>
+<p>
+It thought <em>really hard</em> to get there. Here’s a snippet of
+<a href="https://gist.github.com/simonw/164a3f1b4b1a971637af279a0ac49be3 ">that
+transcript</a>:
+</p>
+<blockquote>
+<p>
+But maybe we want seat below body bottom? Actually seat should be
+between body and pedals, not above body bottom. Wait, typical bicycle:
+seat post goes from bottom bracket upward to the seat. The seat sits on
+top of the seat tube (vertical). So the seat is above bottom bracket. In
+our representation, the seat is at y=250-255. Body center at 245, body
+bottom at 265. So body bottom is below seat. That means the pelican’s
+body is below the seat? Actually no: body bottom extends to 265; seat
+top is at 250; so seat sits above body bottom by about 15 units. That
+seems plausible because seat should be slightly above body, but body
+bottom is at 265 &gt; seat top 255. […]
+</p>
+</blockquote>
+<p>
+I’ve seen this from other local reasoning models too: they can really
+overthink this kind of problem! I don’t know if there’s any pelican SVG
+that’s worth waiting nearly six minutes for.
+</p>
+<h4 id="space-invaders-with-gpt-oss-20b">
+Space invaders with gpt-oss-20b
+</h4>
+<p>
+Given how long high took I switched back to medium for my next
+experiment:
+</p>
+<blockquote>
+<p>
+<code>Write an HTML and JavaScript page implementing space
+invaders</code>
+</p>
+</blockquote>
+<p>
+It
+<a href="https://gist.github.com/simonw/63d7d8c43ae2ac93c214325bd6d607e4">thought
+for 10.78 seconds</a> and produced this:
+</p>
+<div style="max-width: 100%; margin-bottom: 0.4em">
+<pre><code>&lt;video controls=&quot;controls&quot; preload=&quot;none&quot; aria-label=&quot;Space Invaders&quot; poster=&quot;https://static.simonwillison.net/static/2025/space-invaders-gpt-20.jpg&quot; loop=&quot;loop&quot; style=&quot;width: 100%; height: auto;&quot; muted=&quot;muted&quot;&gt;
+    &lt;source src=&quot;https://static.simonwillison.net/static/2025/space-invaders-gpt-20.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;</code></pre>
+</div>
+<p>
+You can
+<a href="https://tools.simonwillison.net/space-invaders-gpt-oss-20b-mxfp4-medium">play
+that here</a>.
+</p>
+<p>
+It’s not the best I’ve seen - I was more impressed
+<a href="https://simonwillison.net/2025/Jul/29/space-invaders/">by GLM
+4.5 Air</a> - but it’s very competent for a model that only uses 12GB of
+my RAM (GLM 4.5 Air used 47GB).
+</p>
+<h4 id="trying-gpt-oss-120b-via-api-providers">
+Trying gpt-oss-120b via API providers
+</h4>
+<p>
+I don’t quite have the resources on my laptop to run the larger model.
+Thankfully it’s already being hosted by a number of different API
+providers.
+</p>
+<p>
+OpenRouter already
+<a href="https://openrouter.ai/openai/gpt-oss-120b/providers">lists
+three</a> - Fireworks, Groq and Cerebras.
+</p>
+<p>
+Cerebras is <em>fast</em>, so I decided to try them first.
+</p>
+<p>
+I installed the
+<a href="https://github.com/irthomasthomas/llm-cerebras">llm-cerebras</a>
+plugin and ran the <code>refresh</code> command to ensure it had their
+latest models:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm install -U llm-cerebras jsonschema
+llm cerebras refresh</pre>
+</div>
+<p>
+(Installing jsonschema worked around a warning message.)
+</p>
+<p>
+Output:
+</p>
+<pre><code>Refreshed 10 Cerebras models:
+  - cerebras-deepseek-r1-distill-llama-70b
+  - cerebras-gpt-oss-120b
+  - cerebras-llama-3.3-70b
+  - cerebras-llama-4-maverick-17b-128e-instruct
+  - cerebras-llama-4-scout-17b-16e-instruct
+  - cerebras-llama3.1-8b
+  - cerebras-qwen-3-235b-a22b-instruct-2507
+  - cerebras-qwen-3-235b-a22b-thinking-2507
+  - cerebras-qwen-3-32b
+  - cerebras-qwen-3-coder-480b
+</code></pre>
+<p>
+Now:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm -m cerebras-gpt-oss-120b \
+  <span class="pl-s"><span class="pl-pds">'</span>Generate an SVG of a pelican riding a bicycle<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+Cerebras runs the new model at between 2 and 4 thousands tokens per
+second!
+</p>
+<p>
+To my surprise this one
+<a href="https://gist.github.com/simonw/4c685f19f1a93b68eacb627125e36be4">had
+the same comments-in-attributes bug</a> that we saw with oss-20b
+earlier. I fixed those and got this pelican:
+</p>
+<p>
+<img src="https://static.simonwillison.net/static/2025/gpt-120-cerebras.jpg" alt="Yellow and not great pelican, quite a good bicycle if a bit sketchy." style="max-width: 100%;" />
+</p>
+<p>
+That bug appears intermittently - I’ve not seen it on some of my other
+runs of the same prompt.
+</p>
+<p>
+The
+<a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a>
+plugin also provides access to the models, balanced across the
+underlying providers. You can use that like so:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm install llm-openrouter
+llm keys <span class="pl-c1">set</span> openrouter
+<span class="pl-c"><span class="pl-c">#</span> Paste API key here</span>
+llm -m openrouter/openai/gpt-oss-120b <span class="pl-s"><span class="pl-pds">"</span>Say hi<span class="pl-pds">"</span></span></pre>
+</div>
+<h4 id="llama-cpp-is-coming-very-shortly">
+llama.cpp is coming very shortly
+</h4>
+<p>
+The <code>llama.cpp</code>
+<a href="https://github.com/ggml-org/llama.cpp/pull/15091">pull request
+for gpt-oss</a> was landed less than an hour ago. It’s worth browsing
+through the coded - a <em>lot</em> of work went into supporting this new
+model, spanning 48 commits to 83 different files. Hopefully this will
+land in the
+<a href="https://formulae.brew.sh/formula/llama.cpp">llama.cpp Homebrew
+package</a> within the next day or so, which should provide a convenient
+way to run the model via <code>llama-server</code> and friends.
+</p>
+<h4 id="gpt-oss-20b-in-ollama">
+gpt-oss:20b in Ollama
+</h4>
+<p>
+Ollama <a href="https://ollama.com/library/gpt-oss">also have
+gpt-oss</a>, requiring an update to their app.
+</p>
+<p>
+I fetched that 14GB model like this:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>ollama pull gpt-oss:20b</pre>
+</div>
+<p>
+Now I can use it with the new Ollama native app, or access it from
+<a href="https://llm.datasette.io/">LLM</a> like this:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm install llm-ollama
+llm -m gpt-oss:20b <span class="pl-s"><span class="pl-pds">'</span>Hi<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+This also appears to use around 13.26GB of system memory while running a
+prompt.
+</p>
+<h4 id="the-model-card">
+Training details from the model card
+</h4>
+<p>
+Here are some interesting notes about how the models were trained from
+<a href="https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf">the
+model card</a> (PDF):
+</p>
+<blockquote>
+<p>
+<strong>Data</strong>: We train the models on a text-only dataset with
+trillions of tokens, with a focus on STEM, coding, and general
+knowledge. To improve the safety of the model, we filtered the data for
+harmful content in pre-training, especially around hazardous biosecurity
+knowledge, by reusing the CBRN pre-training filters from GPT-4o. Our
+model has a knowledge cutoff of June 2024.
+</p>
+<p>
+<strong>Training</strong>: The gpt-oss models trained on NVIDIA H100
+GPUs using the PyTorch framework with expert-optimized Triton kernels.
+The training run for gpt-oss-120b required 2.1 million H100-hours to
+complete, with gpt-oss-20b needing almost 10x fewer. […]
+</p>
+<p>
+After pre-training, we post-train the models using similar CoT RL
+techniques as OpenAI o3. This procedure teaches the models how to reason
+and solve problems using CoT and teaches the model how to use tools.
+Because of the similar RL techniques, these models have a personality
+similar to models served in our first-party products like ChatGPT. Our
+training dataset consists of a wide range of problems from coding, math,
+science, and more.
+</p>
+</blockquote>
+<p>
+The models have additional special training to help them use web browser
+and Python (Jupyter notebook) tools more effectively:
+</p>
+<blockquote>
+<p>
+During post-training, we also teach the models to use different agentic
+tools:
+</p>
+<ul>
+<li>
+A browsing tool, that allows the model to call search and open functions
+to interact with the web. This aids factuality and allows the models to
+fetch info beyond their knowledge cutoff.
+</li>
+<li>
+A python tool, which allows the model to run code in a stateful Jupyter
+notebook environment.
+</li>
+<li>
+Arbitrary developer functions, where one can specify function schemas in
+a <code>Developer</code> message similar to the OpenAI API. The
+definition of function is done within our harmony format.
+</li>
+</ul>
+</blockquote>
+<p>
+There’s a corresponding
+<a href="https://github.com/openai/gpt-oss?tab=readme-ov-file#python">section
+about Python tool usage</a> in the <code>openai/gpt-oss</code>
+repository README.
+</p>
+<h4 id="openai-harmony-a-new-format-for-prompt-templates">
+OpenAI Harmony, a new format for prompt templates
+</h4>
+<p>
+One of the gnarliest parts of implementing harnesses for LLMs is
+handling the prompt template format.
+</p>
+<p>
+Modern prompts are complicated beasts. They need to model user v.s.
+assistant conversation turns, and tool calls, and reasoning traces and
+an increasing number of other complex patterns.
+</p>
+<p>
+<a href="https://github.com/openai/harmony">openai/harmony</a> is a
+brand new open source project from OpenAI (again, Apache 2) which
+implements a new response format that was created for the
+<code>gpt-oss</code> models. It’s clearly inspired by their new-ish
+<a href="https://openai.com/index/new-tools-for-building-agents/">Responses
+API</a>.
+</p>
+<p>
+The format is described in the new
+<a href="https://cookbook.openai.com/articles/openai-harmony">OpenAI
+Harmony Response Format</a> cookbook document. It introduces some
+concepts that I’ve not seen in open weight models before:
+</p>
+<ul>
+<li>
+<code>system</code>, <code>developer</code>, <code>user</code>,
+<code>assistant</code> and <code>tool</code> roles - many other models
+only use user and assistant, and sometimes system and tool.
+</li>
+<li>
+Three different channels for output: <code>final</code>,
+<code>analysis</code> and <code>commentary</code>. Only the
+<code>final</code> channel is default intended to be visible to users.
+<code>analysis</code> is for chain of thought and
+<code>commentary</code> is sometimes used for tools.
+</li>
+</ul>
+<p>
+That channels concept has been present in ChatGPT for a few months,
+starting with the release of o3.
+</p>
+<p>
+The details of the new tokens used by Harmony caught my eye:
+</p>
+<center>
+<table>
+<tbody>
+<tr>
+<th>
+Token
+</th>
+<th>
+Purpose
+</th>
+<th>
+ID
+</th>
+</tr>
+<tr>
+<td>
+&lt;|start|&gt;
+</td>
+<td>
+Start of message header
+</td>
+<td>
+200006
+</td>
+</tr>
+<tr>
+<td>
+&lt;|end|&gt;
+</td>
+<td>
+End of message
+</td>
+<td>
+200007
+</td>
+</tr>
+<tr>
+<td>
+&lt;|message|&gt;
+</td>
+<td>
+Start of message content
+</td>
+<td>
+200008
+</td>
+</tr>
+<tr>
+<td>
+&lt;|channel|&gt;
+</td>
+<td>
+Start of channel info
+</td>
+<td>
+200005
+</td>
+</tr>
+<tr>
+<td>
+&lt;|constrain|&gt;
+</td>
+<td>
+Data type for tool call
+</td>
+<td>
+200003
+</td>
+</tr>
+<tr>
+<td>
+&lt;|return|&gt;
+</td>
+<td>
+Stop after response
+</td>
+<td>
+200002
+</td>
+</tr>
+<tr>
+<td>
+&lt;|call|&gt;
+</td>
+<td>
+Call a tool
+</td>
+<td>
+200012
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p>
+Those token IDs are particularly important. They are part of a new token
+vocabulary called <code>o200k_harmony</code>, which landed in OpenAI’s
+tiktoken tokenizer library
+<a href="https://github.com/openai/tiktoken/commit/3591ff175d6a80efbe4fcc7f0e219ddd4b8c52f1">this
+morning</a>.
+</p>
+<p>
+In the past I’ve seen models get confused by special tokens - try
+pasting <code>&lt;|end|&gt;</code> into a model and see what happens.
+</p>
+<p>
+Having these special instruction tokens formally map to dedicated token
+IDs should hopefully be a whole lot more robust!
+</p>
+<p>
+The Harmony repo itself includes a Rust library and a Python library
+(wrapping that Rust library) for working with the new format in a much
+more ergonomic way.
+</p>
+<p>
+I tried one of their demos using <code>uv run</code> to turn it into a
+shell one-liner:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>uv run --python 3.12 --with openai-harmony python -c <span class="pl-s"><span class="pl-pds">'</span></span>
+<span class="pl-s">from openai_harmony import *</span>
+<span class="pl-s">from openai_harmony import DeveloperContent</span>
+<span class="pl-s">enc = load_harmony_encoding(HarmonyEncodingName.HARMONY_GPT_OSS)</span>
+<span class="pl-s">convo = Conversation.from_messages([</span>
+<span class="pl-s">    Message.from_role_and_content(</span>
+<span class="pl-s">        Role.SYSTEM,</span>
+<span class="pl-s">        SystemContent.new(),</span>
+<span class="pl-s">    ),</span>
+<span class="pl-s">    Message.from_role_and_content(</span>
+<span class="pl-s">        Role.DEVELOPER,</span>
+<span class="pl-s">        DeveloperContent.new().with_instructions("Talk like a pirate!")</span>
+<span class="pl-s">    ),</span>
+<span class="pl-s">    Message.from_role_and_content(Role.USER, "Arrr, how be you?"),</span>
+<span class="pl-s">])</span>
+<span class="pl-s">tokens = enc.render_conversation_for_completion(convo, Role.ASSISTANT)</span>
+<span class="pl-s">print(tokens)<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+Which outputs:
+</p>
+<blockquote>
+<p>
+<code>[200006, 17360, 200008, 3575, 553, 17554, 162016, 11, 261, 4410,
+6439, 2359, 22203, 656, 7788, 17527, 558, 87447, 100594, 25, 220, 1323,
+19, 12, 3218, 279, 30377, 289, 25, 14093, 279, 2, 13888, 18403, 25,
+8450, 11, 49159, 11, 1721, 13, 21030, 2804, 413, 7360, 395, 1753, 3176,
+13, 200007, 200006, 77944, 200008, 2, 68406, 279, 37992, 1299, 261,
+96063, 0, 200007, 200006, 1428, 200008, 8977, 81, 11, 1495, 413, 481,
+30, 200007, 200006, 173781]</code>
+</p>
+</blockquote>
+<p>
+Note those token IDs like <code>200006</code> corresponding to the
+special tokens listed above.
+</p>
+<h4 id="the-open-question-for-me-how-good-is-tool-calling-">
+The open question for me: how good is tool calling?
+</h4>
+<p>
+There’s one aspect of these models that I haven’t explored in detail
+yet: <strong>tool calling</strong>. How these work is clearly a big part
+of the new Harmony format, but the packages I’m using myself (around my
+own <a href="https://simonwillison.net/2025/May/27/llm-tools/">LLM tool
+calling</a> support) need various tweaks and fixes to start working with
+that new mechanism.
+</p>
+<p>
+Tool calling currently represents my biggest disappointment with local
+models that I’ve run on my own machine. I’ve been able to get them to
+perform simple single calls, but the state of the art these days is
+wildly more ambitious than that.
+</p>
+<p>
+Systems like Claude Code can make dozens if not hundreds of tool calls
+over the course of a single session, each one adding more context and
+information to a single conversation with an underlying model.
+</p>
+<p>
+My experience to date has been that local models are unable to handle
+these lengthy conversations. I’m not sure if that’s inherent to the
+limitations of my own machine, or if it’s something that the right model
+architecture and training could overcome.
+</p>
+<p>
+OpenAI make big claims about the tool calling capabilities of these new
+models. I’m looking forward to seeing how well they perform in practice.
+</p>
+<h4 id="china">
+Competing with the Chinese open models
+</h4>
+<p>
+I’ve been writing a <em>lot</em> about the
+<a href="https://simonwillison.net/tags/ai-in-china/">flurry of
+excellent open weight models</a> released by Chinese AI labs over the
+past few months - all of them very capable and most of them under Apache
+2 or MIT licenses.
+</p>
+<p>
+Just last week
+<a href="https://simonwillison.net/2025/Jul/30/chinese-models/">I
+said</a>:
+</p>
+<blockquote>
+<p>
+Something that has become undeniable this month is that the best
+available open weight models now come from the Chinese AI labs.
+</p>
+<p>
+I continue to have a lot of love for Mistral, Gemma and Llama but my
+feeling is that Qwen, Moonshot and Z.ai have positively smoked them over
+the course of July. […]
+</p>
+<p>
+I can’t help but wonder if part of the reason for the delay in release
+of OpenAI’s open weights model comes from a desire to be notably better
+than this truly impressive lineup of Chinese models.
+</p>
+</blockquote>
+<p>
+With the release of the gpt-oss models that statement no longer holds
+true. I’m waiting for the dust to settle and the independent benchmarks
+(that are more credible than my ridiculous pelicans) to roll out, but I
+think it’s likely that OpenAI now offer the best available open weights
+models.
+</p>
+<pre><code>    &lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/open-source&quot;&gt;open-source&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/openai&quot;&gt;openai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/local-llms&quot;&gt;local-llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-tool-use&quot;&gt;llm-tool-use&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/cerebras&quot;&gt;cerebras&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ollama&quot;&gt;ollama&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pelican-riding-a-bicycle&quot;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-reasoning&quot;&gt;llm-reasoning&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-release&quot;&gt;llm-release&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/lm-studio&quot;&gt;lm-studio&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/space-invaders&quot;&gt;space-invaders&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything"
+class="uri">https://simonwillison.net/2025/Aug/5/gpt-oss/#atom-everything</a></p>
+<hr />
+<h2 id="the-icebergs-visit-greenland">The Icebergs Visit Greenland</h2>
+<p>date: 2025-08-05, updated: 2025-08-05, from: One Foot Tsunami</p>
+<p><br></p>
+<p><a
+href="https://onefoottsunami.com/2025/08/05/the-icebergs-visit-greenland/"
+class="uri">https://onefoottsunami.com/2025/08/05/the-icebergs-visit-greenland/</a></p>
+<hr />
+<h2 id="the-ai-economy-is-full-of-financial-gimmicks.">The AI economy is
+full of financial gimmicks.</h2>
+<p>date: 2025-08-05, from: Dave Karpf’s blog</p>
+<p>Tech journalists need to start moonlighting as finance
+journalists.</p>
+<p><br></p>
+<p><a
+href="https://davekarpf.substack.com/p/the-ai-economy-is-full-of-financial"
+class="uri">https://davekarpf.substack.com/p/the-ai-economy-is-full-of-financial</a></p>
+<hr />
+<h2 id="academic-independence-eroding">Academic Independence
+Eroding</h2>
+<p>date: 2025-08-05, from: Guy Kawasaki blog</p>
+<p>Brendan Cantwell, Associate Professor of Higher, Adult, and Lifelong
+Education, Michigan State University.</p>
+<p><br></p>
+<p><a
+href="https://guykawasaki.substack.com/p/academic-independence-eroding"
+class="uri">https://guykawasaki.substack.com/p/academic-independence-eroding</a></p>
+<hr />
+<h2 id="pcie-8.0-to-be-up-to-16-times-faster-than-pcie-4.0">PCIe 8.0 to
+be up to 16 times faster than PCIe 4.0</h2>
+<p>date: 2025-08-05, from: Liliputing</p>
+<p>
+PCI-SIG has announced plans to release the PCIe 8.0 specification to
+members by 2028, offering support for data transfer speeds up to 256
+GT/s in terms of raw bit rates, and up to 1TB/s of bi-directional speed
+when used in a x16 configuration. Given how long it takes for new PCIe
+standards to roll out, […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/pcie-8-0-to-be-up-to-16-times-faster-than-pcie-4-0/">PCIe
+8.0 to be up to 16 times faster than PCIe 4.0</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/pcie-8-0-to-be-up-to-16-times-faster-than-pcie-4-0/"
+class="uri">https://liliputing.com/pcie-8-0-to-be-up-to-16-times-faster-than-pcie-4-0/</a></p>
+<hr />
+<h2 id="macos-tahoe-26-developer-beta-5">macOS Tahoe 26 Developer Beta
+5</h2>
+<p>date: 2025-08-05, from: Michael Tsai</p>
+<p>Juli Clover (Mr. Macintosh): Apple today provided developers with the
+fifth beta of macOS Tahoe 26 for testing purposes, with the update
+coming two weeks after the fourth beta. There are no updates to the
+release notes, which still say Beta 4. Mario Guzmán: THIS IS THE NEW
+MACINTOSH HD ICON?! WTF Previously: macOS Tahoe […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/08/05/macos-tahoe-26-developer-beta-5/"
+class="uri">https://mjtsai.com/blog/2025/08/05/macos-tahoe-26-developer-beta-5/</a></p>
+<hr />
+<h2 id="apple-the-first-50-years-forthcoming">Apple: The First 50 Years
+(Forthcoming)</h2>
+<p>date: 2025-08-05, from: Michael Tsai</p>
+<p>David Pogue (tweet): In time for Apple’s 50th anniversary, “CBS
+Sunday Morning” correspondent David Pogue tells the iconic company’s
+entire life story: how it was born, nearly died, was born again under
+Steve Jobs, and became, under CEO Tim Cook, one of the most valuable
+companies in the world. The 600-page book features 360 full-color
+[…]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/08/05/apple-the-first-50-years-forthcoming/"
+class="uri">https://mjtsai.com/blog/2025/08/05/apple-the-first-50-years-forthcoming/</a></p>
+<hr />
+<h2 id="swiftui-documentgroups-are-terribly-limited">SwiftUI
+DocumentGroups Are Terribly Limited</h2>
+<p>date: 2025-08-05, from: Michael Tsai</p>
+<p>Christian Tietze: This is how little you need to get
+started[…][…]What the system does is provide a launch scene for you when
+you only declare a DocumentGroup in your SwiftUI.App.body. You can
+customize this by making the launch scene yourself. WWDC24 “Evolve Your
+Document Launch Experience” contains examples that at least offer to
+style what’s […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/08/05/swiftui-documentgroups-are-terribly-limited/"
+class="uri">https://mjtsai.com/blog/2025/08/05/swiftui-documentgroups-are-terribly-limited/</a></p>
+<hr />
+<h2 id="google-loses-appeal-against-epic">Google Loses Appeal Against
+Epic</h2>
+<p>date: 2025-08-05, from: Michael Tsai</p>
+<p>Mike Scarcella (MacRumors, Slashdot): The San Francisco-based 9th
+U.S. Circuit Court of Appeals, in a unanimous ruling, rejected, claims
+from Google that the trial judge made legal errors in the antitrust case
+that unfairly benefited “Fortnite” maker Epic Games, which filed the
+lawsuit in 2020.[…]U.S. District Judge James Donato in San Francisco
+ordered Google in […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/08/05/google-loses-appeal-against-epic/"
+class="uri">https://mjtsai.com/blog/2025/08/05/google-loses-appeal-against-epic/</a></p>
+<hr />
+<h2
+id="amd-ryzen-7-h-255-is-a-mid-range-hawk-point-chip-for-laptops-mini-pcs">AMD
+Ryzen 7 H 255 is a mid-range Hawk Point chip for laptops &amp; mini
+PCs</h2>
+<p>date: 2025-08-05, from: Liliputing</p>
+<p>
+Over the past few days I’ve spotted a bunch of mini PCs from Chinese
+brands that are using a new processor based on slightly older
+technology. The AMD Ryzen 7 H 255 processor is an 8-core, 16-thread chip
+that’s made for the Chinese market, but which is showing up in mini PCs
+shipped to customers globally. The […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/amd-ryzen-7-h-255-is-a-mid-range-hawk-point-chip-for-laptops-mini-pcs/">AMD
+Ryzen 7 H 255 is a mid-range Hawk Point chip for laptops &amp; mini
+PCs</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/amd-ryzen-7-h-255-is-a-mid-range-hawk-point-chip-for-laptops-mini-pcs/"
+class="uri">https://liliputing.com/amd-ryzen-7-h-255-is-a-mid-range-hawk-point-chip-for-laptops-mini-pcs/</a></p>
+<hr />
+<h2 id="claude-opus-4.1">Claude Opus 4.1</h2>
+<p>date: 2025-08-05, updated: 2025-08-05, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://www.anthropic.com/news/claude-opus-4-1">Claude
+Opus 4.1</a></strong>
+</p>
+Surprise new model from Anthropic today - Claude Opus 4.1, which they
+describe as “a drop-in replacement for Opus 4”.
+</p>
+<p>
+My favorite thing about this model is the version number - treating this
+as a .1 version increment looks like it’s an accurate depiction of the
+model’s capabilities.
+</p>
+<p>
+Anthropic’s own benchmarks show very small incremental gains.
+</p>
+<p>
+Comparing Opus 4 and Opus 4.1 (I
+<a href="https://claude.ai/share/c7366629-784a-4088-9fc4-15613aa41a7f">got
+4.1 to extract this information from a screenshot</a> of Anthropic’s own
+benchmark scores, then asked it to look up the links, then verified the
+links myself and fixed a few):
+</p>
+<ul>
+<li>
+<strong>Agentic coding</strong>
+(<a href="https://github.com/SWE-bench/SWE-bench">SWE-bench
+Verified</a>): From 72.5% to 74.5%
+</li>
+<li>
+<strong>Agentic terminal coding</strong>
+(<a href="https://github.com/laude-institute/terminal-bench">Terminal-Bench</a>):
+From 39.2% to 43.3%
+</li>
+<li>
+<strong>Graduate-level reasoning</strong>
+(<a href="https://github.com/idavidrein/gpqa">GPQA Diamond</a>): From
+79.6% to 80.9%
+</li>
+<li>
+<strong>Agentic tool use</strong>
+(<a href="https://github.com/sierra-research/tau-bench">TAU-bench</a>):
+</li>
+<li>
+Retail: From 81.4% to 82.4%
+</li>
+<li>
+<strong>Airline: From 59.6% to 56.0%</strong> <em>(decreased)</em>
+</li>
+<li>
+<strong>Multilingual Q&amp;A</strong>
+(<a href="https://huggingface.co/datasets/openai/MMMLU">MMMLU</a>): From
+88.8% to 89.5%
+</li>
+<li>
+<strong>Visual reasoning</strong>
+(<a href="https://mmmu-benchmark.github.io/">MMMU validation</a>): From
+76.5% to 77.1%
+</li>
+<li>
+<strong>High school math competition</strong>
+(<a href="https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions">AIME
+2025</a>): From 75.5% to 78.0%
+</li>
+</ul>
+<p>
+Likewise, the
+<a href="https://assets.anthropic.com/m/4c024b86c698d3d4/original/Claude-4-1-System-Card.pdf">model
+card</a> shows only tiny changes to the various safety metrics that
+Anthropic track.
+</p>
+<p>
+It’s priced the same as Opus 4 - $15/million for input and $75/million
+for output, making it one of
+<a href="https://www.llm-prices.com/#sb=input&amp;sd=descending">the
+most expensive models</a> on the market today.
+</p>
+<p>
+I had it
+<a href="https://gist.github.com/simonw/7fead138d31d751d65c7253a1c18751b">draw
+me this pelican</a> riding a bicycle:
+</p>
+<p>
+<img alt="Pelican is line art, does have a good beak and feet on the pedals, bicycle is very poorly designed and not the right shape." src="https://static.simonwillison.net/static/2025/opus-4.1-pelican.png" />
+</p>
+<p>
+For comparison I got a fresh new pelican
+<a href="https://gist.github.com/simonw/96a958e39aaed10e1e47c1aab2d05e20">out
+of Opus 4</a> which I actually like a little more:
+</p>
+<p>
+<img alt="This one has shaded colors for the different parts of the pelican. Still a bad bicycle." src="https://static.simonwillison.net/static/2025/opus-4-pelican.png" />
+</p>
+<p>
+<p>I shipped
+<a href="https://github.com/simonw/llm-anthropic/releases/tag/0.18">llm-anthropic
+0.18</a> with support for the new model.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/anthropic&quot;&gt;anthropic&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/claude&quot;&gt;claude&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/evals&quot;&gt;evals&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-pricing&quot;&gt;llm-pricing&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/pelican-riding-a-bicycle&quot;&gt;pelican-riding-a-bicycle&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-release&quot;&gt;llm-release&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Aug/5/claude-opus-41/#atom-everything"
+class="uri">https://simonwillison.net/2025/Aug/5/claude-opus-41/#atom-everything</a></p>
+<hr />
+<h2
+id="florida-sues-huge-porn-sites-including-xvideos-and-bang-bros-over-age-verification-law">Florida
+Sues Huge Porn Sites Including XVideos and Bang Bros Over Age
+Verification Law</h2>
+<p>date: 2025-08-05, from: 404 Media Group</p>
+<p>The lawsuit alleges XVideos, Bang Bros, XNXX, Girls Gone Wild and
+TrafficFactory are in violation of Florida’s law that requires adult
+platforms to verify visitors are over 18.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/florida-sues-huge-porn-sites-including-xvideos-and-bang-bros-over-age-verification-law/"
+class="uri">https://www.404media.co/florida-sues-huge-porn-sites-including-xvideos-and-bang-bros-over-age-verification-law/</a></p>
+<hr />
+<h2 id="lets-do-lunch">Let’s Do Lunch!</h2>
+<p>date: 2025-08-05, from: Paul Krugman</p>
+<p>A recording from Paul Krugman and Jared Bernstein’s live video</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170192625/564a4eb93450dfb4145438f847184acb.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/170192625/564a4eb93450dfb4145438f847184acb.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a href="https://paulkrugman.substack.com/p/lets-do-lunch"
+class="uri">https://paulkrugman.substack.com/p/lets-do-lunch</a></p>
+<hr />
+<h2
+id="argon-one-up-hits-kickstarter-for-330-and-up-raspberry-pi-cm5-powered-laptop">Argon
+ONE UP hits Kickstarter for $330 and up (Raspberry Pi CM5-powered
+laptop)</h2>
+<p>date: 2025-08-05, from: Liliputing</p>
+<p>
+The Argon ONE UP is a laptop with a 14 inch, 1920 x 1200 pixel IPS LCD
+display, an aluminum body, backlit keyboard, and one thing that sets it
+apart from most other laptops: the Argon ONE UP is powered by a
+removable Raspberry Pi CM5 computer module. Argon40 has been making
+Raspberry Pi accessories like […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/argone-one-up-hits-kickstarter-for-330-and-up-raspberry-pi-cm5-powered-laptop/">Argon
+ONE UP hits Kickstarter for $330 and up (Raspberry Pi CM5-powered
+laptop)</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/argone-one-up-hits-kickstarter-for-330-and-up-raspberry-pi-cm5-powered-laptop/"
+class="uri">https://liliputing.com/argone-one-up-hits-kickstarter-for-330-and-up-raspberry-pi-cm5-powered-laptop/</a></p>
+<hr />
+<h2
+id="tell-us-what-you-really-think-mr.-secretary-poison-gas-warfare-1942">Tell
+Us What You Really Think Mr. Secretary [Poison Gas Warfare], 1942</h2>
+<p>date: 2025-08-05, from: National Archives, Text Message blog</p>
+<p>In January 1942, shortly after the United States was thrust into
+World War II by the December 7, 1941, Japanese attack on Pearl Harbor
+and the subsequent December 11 declaration of war by Germany, officials
+in the Department of State considered the issue of the U.S. attitude
+toward the Geneva Protocol for the Prohibition of …
+<a href="https://text-message.blogs.archives.gov/2025/08/05/tell-us-what-you-really-think-mr-secretary-poison-gas-warfare-1942/" class="more-link">Continue
+reading <span class="screen-reader-text">Tell Us What You Really Think
+Mr. Secretary [Poison Gas Warfare], 1942</span></a></p>
+<p><br></p>
+<p><a
+href="https://text-message.blogs.archives.gov/2025/08/05/tell-us-what-you-really-think-mr-secretary-poison-gas-warfare-1942/"
+class="uri">https://text-message.blogs.archives.gov/2025/08/05/tell-us-what-you-really-think-mr-secretary-poison-gas-warfare-1942/</a></p>
+<hr />
+<h2 id="amores-materialistas-el-deseo-en-tiempos-de-capital">Amores
+materialistas: el deseo en tiempos de capital</h2>
+<p>date: 2025-08-05, from: Iván Paredes Reséndiz blog, Mexico’s
+cinema</p>
+<p>
+Dirección: Celine Song.  Guion: Celine Song. Elenco: Dakota Johnson,
+Chris Evans, Pedro Pascal.  País: Estados Unidos.    Más información de
+la película: https://www.imdb.com/title/tt30253473/   Desde su ópera
+prima Vidas pasadas (2023), Celine Song dejó entrever una sensibilidad
+particular: la de una cineasta interesada en explorar cómo fuerzas
+invisibles —el tiempo, la distancia, la cultura— moldean las relaciones
+humanas. Su segundo largometraje, Amores materialistas, no solo conserva
+ese […]
+</p>
+<p>
+La entrada
+<a href="https://www.palomitademaiz.net/resenas-amores-materialistas/">Amores
+materialistas: el deseo en tiempos de capital</a> se publicó primero en
+<a href="https://www.palomitademaiz.net">Palomita de maíz</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://www.palomitademaiz.net/resenas-amores-materialistas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resenas-amores-materialistas"
+class="uri">https://www.palomitademaiz.net/resenas-amores-materialistas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resenas-amores-materialistas</a></p>
+<hr />
+<h2
+id="ice-is-about-to-go-on-a-social-media-and-tv-ad-recruiting-blitz">ICE
+Is About To Go on a Social Media and TV Ad Recruiting Blitz</h2>
+<p>date: 2025-08-05, from: 404 Media Group</p>
+<p>Contracting records reviewed by 404 Media show that ICE wants to
+target Gen Z, including with ads on Hulu and HBO Max.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/ice-is-about-to-go-on-a-social-media-and-tv-ad-recruiting-blitz/"
+class="uri">https://www.404media.co/ice-is-about-to-go-on-a-social-media-and-tv-ad-recruiting-blitz/</a></p>
+<hr />
+<h2
+id="wikipedia-editors-adopt-speedy-deletion-policy-for-ai-slop-articles">Wikipedia
+Editors Adopt ‘Speedy Deletion’ Policy for AI Slop Articles</h2>
+<p>date: 2025-08-05, from: 404 Media Group</p>
+<p>“The ability to quickly generate a lot of bogus content is
+problematic if we don’t have a way to delete it just as quickly.”</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/wikipedia-editors-adopt-speedy-deletion-policy-for-ai-slop-articles/"
+class="uri">https://www.404media.co/wikipedia-editors-adopt-speedy-deletion-policy-for-ai-slop-articles/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-08-05, from: Robert’s feed at
+BlueSky)</p>
+<p>Thank you Dave. I enjoyed your work. Keep on trucking.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lvnwjox4w226"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3lvnwjox4w226</a></p>
+<hr />
+<h2
+id="nearly-100000-chatgpt-conversations-were-searchable-on-google">Nearly
+100,000 ChatGPT Conversations Were Searchable on Google</h2>
+<p>date: 2025-08-05, from: 404 Media Group</p>
+<p>A researcher has scraped a much larger dataset of indexed ChatGPT
+conversations, exposing contracts and intimate conversations.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/nearly-100-000-chatgpt-conversations-were-searchable-on-google/"
+class="uri">https://www.404media.co/nearly-100-000-chatgpt-conversations-were-searchable-on-google/</a></p>
+<hr />
+<h2 id="what-epstein-was-afraid-of">What Epstein Was Afraid Of</h2>
+<p>date: 2025-08-05, from: Tina Brown</p>
+<p>I guess Ghislaine Maxwell must have given up something juicy enough
+in her session with Deputy AG Todd Blanche to earn her those new relaxed
+digs in the minimum-security, open-campus Bryan prison camp in
+Texas.</p>
+<p><br></p>
+<p><a href="https://tinabrown.substack.com/p/what-epstein-was-afraid-of"
+class="uri">https://tinabrown.substack.com/p/what-epstein-was-afraid-of</a></p>
 <hr />
 <h2 id="quoting-greyduet-on-rteachers">Quoting greyduet on
 r/teachers</h2>

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-05 06:08:26
+updated: 2025-08-05 14:08:18
 ---
 
 # libraries
 
-(date: 2025-08-05 06:08:26)
+(date: 2025-08-05 14:08:18)
 
 ---
 
@@ -18,6 +18,18 @@ Balmer, Vera; Kraus, Michael A.; Coros, Stelian; Kaufmann, Walter
 <br> 
 
 <http://hdl.handle.net/20.500.11850/748023>
+
+---
+
+## The Charwoman’s Shadow, by Lord Dunsany
+
+date: 2025-08-05, from: Standard Ebooks, new releaases
+
+A young nobleman becomes a magician to secure his sister’s marriage. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/lord-dunsany/the-charwomans-shadow>
 
 ---
 
@@ -39,7 +51,7 @@ date: 2025-08-05, from: Scholarly Kitchen
 
 date: 2025-08-04, from: Association of Research Libraries News
 
-<p>Last Updated on August 5, 2025, 5:30 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 5 &#124; Wednesday, August 6 &#124; Thursday,...</p>
+<p>Last Updated on August 5, 2025, 2:32 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 5 &#124; Wednesday, August 6 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-29-september-1-4/">Day in Review (August 4–7)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

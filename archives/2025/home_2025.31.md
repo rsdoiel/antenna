@@ -1,11 +1,187 @@
 ---
 title: home
-updated: 2025-08-05 06:08:27
+updated: 2025-08-05 14:08:18
 ---
 
 # home
 
-(date: 2025-08-05 06:08:27)
+(date: 2025-08-05 14:08:18)
+
+---
+
+## This Breezy Brazilian Prefab Is Made From Six Tiny Modules
+
+date: 2025-08-05, from: Dwell
+
+A new building system lets buyers create custom arrangements with engineered-wood units. 
+
+<br> 
+
+<https://www.dwell.com/article/modular-bahia-una-barbara-e-valentim-crosslam-brazil-prefab-8fd14d5d>
+
+---
+
+## 8 Small Appliance Storage Ideas for the Ultimate Organized Kitchen
+
+date: 2025-08-05, from: Family Handyman Blog
+
+<p>These small appliance storage ideas will help you hide away that ugly toaster and blender, while freeing up precious counter space.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/small-appliance-storage/">8 Small Appliance Storage Ideas for the Ultimate Organized Kitchen</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/small-appliance-storage/>
+
+---
+
+## This $2.9M Sustainable Home in Escondido Is a Piece of Ecological Art
+
+date: 2025-08-05, from: Dwell
+
+Boulders are thoughtfully integrated into the interior, from the entryway to the bathrooms. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-imagination-escondido-real-estate-ea5a070d>
+
+---
+
+## This $1.9M Detroit Mansion Replicates a Famed Parisian Townhouse
+
+date: 2025-08-05, from: Dwell
+
+Architect Louis Kamper spared no expense in building his 1915 home in the style of French military officer Marquis de Lafayette’s summerhouse. 
+
+<br> 
+
+<https://www.dwell.com/article/louis-kamper-mansion-patrick-brewis-detroit-real-estate-e26c2cd1>
+
+---
+
+## 37 Types of Sparrows in Texas (With Pictures and Identification)
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Texas is home to 37 different sparrow species. These small birds live in a variety of habitats across the state, ... </p>
+<p class="read-more-container"><a title="37 Types of Sparrows in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/37-types-of-sparrows-in-texas-with-pictures-and-identification/#more-33211" aria-label="Read more about 37 Types of Sparrows in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/37-types-of-sparrows-in-texas-with-pictures-and-identification/">37 Types of Sparrows in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/37-types-of-sparrows-in-texas-with-pictures-and-identification/>
+
+---
+
+## Climate and Trade Trip to Brazil Concludes – Collaboration Begins
+
+date: 2025-08-05, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross has concluded her visit to Brazil and is looking forward to next steps in collaboration on trade and climate. During the closing portion of trip, the California delegation visited farms, packing houses, research facilities, and business &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29141">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29141>
+
+---
+
+## 5 Types of Scorpions in Alabama (With Pictures and Identification)
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Scorpions are fascinating arachnids that often go unnoticed in Alabama’s diverse ecosystems. Though not very common, several scorpion species call ... </p>
+<p class="read-more-container"><a title="5 Types of Scorpions in Alabama (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-scorpions-in-alabama-with-pictures-and-identification/#more-33202" aria-label="Read more about 5 Types of Scorpions in Alabama (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-scorpions-in-alabama-with-pictures-and-identification/">5 Types of Scorpions in Alabama (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-scorpions-in-alabama-with-pictures-and-identification/>
+
+---
+
+## 11 Things to Consider When Buying a New Bathtub
+
+date: 2025-08-05, from: Family Handyman Blog
+
+<p>Dreaming of the perfect bathtub? A bathroom renovation can provide the results you want, but first you have some planning to do. Here's what to consider when choosing the right bathtub for your bathroom upgrade.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/buying-a-new-bathtub/">11 Things to Consider When Buying a New Bathtub</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/buying-a-new-bathtub/>
+
+---
+
+## How to Keep Drains From Clogging
+
+date: 2025-08-05, from: Family Handyman Blog
+
+<p>Take these steps to prevent most clogs and nasty backups before they become a big problem.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/keep-drains-from-clogging/">How to Keep Drains From Clogging</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/keep-drains-from-clogging/>
+
+---
+
+## Best Ducks For Eggs: Top 9 Breeds For High Production
+
+date: 2025-08-05, from: The Tiny Life blog
+
+<p>If you’re serious about diving into the world of duck keeping, there’s probably one question at the forefront of your mind: which breed makes the best egg-laying duck?</p>
+<p>The post <a href="https://thetinylife.com/best-ducks-for-eggs/">Best Ducks For Eggs: Top 9 Breeds For High Production</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/best-ducks-for-eggs/>
+
+---
+
+## 20 Lizards in Colorado (With Pictures and Identification)
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Colorado is home to a wide variety of lizards that live in many different habitats, from deserts and grasslands to ... </p>
+<p class="read-more-container"><a title="20 Lizards in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-lizards-in-colorado-with-pictures-and-identification/#more-33184" aria-label="Read more about 20 Lizards in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-lizards-in-colorado-with-pictures-and-identification/">20 Lizards in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-lizards-in-colorado-with-pictures-and-identification/>
+
+---
+
+## How They Pulled It Off: A Historical Toronto Home Where the Whole Basement Is a Shower
+
+date: 2025-08-05, from: Dwell
+
+Half sports storage space and half wellness zone, Studio Vaaro’s unique 1,350-square-foot expansion "was one of the craziest digs" the subcontractor had ever taken on. 
+
+<br> 
+
+<https://www.dwell.com/article/studio-vaaro-rathnelly-house-toronto-80cfeb10>
+
+---
+
+## 10 Types of Squirrels in Utah (With Pictures and Identification)
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Utah’s varied terrain offers the perfect environment for many squirrel species to thrive. From mountain forests to rocky canyons, these ... </p>
+<p class="read-more-container"><a title="10 Types of Squirrels in Utah (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-types-of-squirrels-in-utah-with-pictures-and-identification/#more-33170" aria-label="Read more about 10 Types of Squirrels in Utah (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-squirrels-in-utah-with-pictures-and-identification/">10 Types of Squirrels in Utah (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-types-of-squirrels-in-utah-with-pictures-and-identification/>
 
 ---
 
@@ -18,6 +194,42 @@ The Tube’s younger sibling has brought new life to old aboveground tracks, wit
 <br> 
 
 <https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9>
+
+---
+
+## 8 Dog-Friendly Furniture and Decor Pieces That Actually Look Chic
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Don't let your dog's toys and bed cramp your style. Interior designers share the dog-friendly furniture and decor they have at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/dog-friendly-furniture-decor>
+
+---
+
+## Here’s the Real Truth About How Restaurants Set Wait Times
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Wait time estimates when dining out can seem arbitrary, but there is a science behind them. Insiders explain how restaurants set wait times. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/how-restaurants-set-wait-times>
+
+---
+
+## 7 Tips for Taking Better Photos at Night, According to a Professional Photographer
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Night photography takes not only a keen eye but quite a bit of planning. Sunset’s staff photographer shares his tips on how to get it right. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/night-photography-tips>
 
 ---
 

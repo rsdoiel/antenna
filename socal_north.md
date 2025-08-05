@@ -1,11 +1,152 @@
 ---
 title: socal north
-updated: 2025-08-05 06:08:22
+updated: 2025-08-05 14:08:12
 ---
 
 # socal north
 
-(date: 2025-08-05 06:08:22)
+(date: 2025-08-05 14:08:12)
+
+---
+
+## Settlement bars ICE from impersonating police to make home arrests
+
+date: 2025-08-05, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/01/28075451/ice-file-965663-vey1gso0-290765-9t0DCIjJ-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The agreement requires ICE officers in SoCal to wear visible identifiers on their clothing prominently identifying themselves as agents of ICE whenever they are wearing any “POLICE” identifier.</p>
+<p>The post <a href="https://lbpost.com/news/settlement-bars-ice-from-impersonating-police-to-make-home-arrests">Settlement bars ICE from impersonating police to make home arrests</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/settlement-bars-ice-from-impersonating-police-to-make-home-arrests>
+
+---
+
+## How do you move a house across LA? Follow a Craftsman’s journey into fire-ravaged Altadena
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+Two chunks of a two-story home were slowly driven across LA. County overnight. We rode along to check it out. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-altadena-historic-house-relocation-project-eaton-fire-omgivning>
+
+---
+
+## How San Quentin prisoners reached around the world to bring ‘a piece of freedom’ inside
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+California committed more than $200 million toward refashioning San Quentin as a hub for rehabilitation. Prisoners followed suit with their own plans to beautify the place with world-class murals. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/how-san-quentin-prisoners-reached-around-the-world-to-bring-a-piece-of-freedom-inside>
+
+---
+
+## Rancho Palos Verdes to consider extending construction ban in landslide-prone zones
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+For months, landslides have worsened in parts of Rancho Palos Verdes, tearing some houses part. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-to-hold-meeting-on-extending-construction-ban-in-landslide-zone>
+
+---
+
+## State Department may require some visa applicants to post bond of up to $15,000
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+The State Department said it would start a pilot program that will require cash deposits to tourist and business visas for people from countries with high overstay rates. 
+
+<br> 
+
+<https://laist.com/news/state-department-may-require-some-visa-applicants-to-post-bond-up-to-15-000>
+
+---
+
+## After volunteers answer call for help, the Burbank TARDIS gets much needed makeover
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+The replica booth inspired by Doctor Who had been carefully crafted by a renowned roboticist. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/burbank-tardis-update-doctor-who>
+
+---
+
+## 2,300 California ‘Dreamers’ are about to lose their health care coverage
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+The Trump administration has reversed a rule that allowed undocumented immigrants who were brought to the U.S. as kids to buy health insurance on Affordable Care Act marketplaces. 
+
+<br> 
+
+<https://laist.com/news/health/california-dreamers-are-about-to-lose-their-health-care-coverage>
+
+---
+
+## With typhus on the rise, Long Beach warns pet owners to guard against fleas
+
+date: 2025-08-05, from: Longbeach Post
+
+<figure><img width="1024" height="517" src="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="lola&#039;s" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18.jpg 1800w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-595x300.jpg 595w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1110x559.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-768x387.jpg 768w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1536x774.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-2048x1033.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2020/05/21223218/0521-HealthDept-18-1320x666.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There have been localized outbreaks near Bixby Park and Junipero Beach, but cases have also been reported citywide, a Health Department official said.</p>
+<p>The post <a href="https://lbpost.com/news/health/typhus-outbreak-long-beach-fleas-bixby-park-junipero-beach">With typhus on the rise, Long Beach warns pet owners to guard against fleas</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/typhus-outbreak-long-beach-fleas-bixby-park-junipero-beach>
+
+---
+
+## Blaze kills pets, scorches apartments in Long Beach’s Zaferia neighborhood
+
+date: 2025-08-05, from: Longbeach Post
+
+<figure><img width="864" height="590" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05092730/apartment-fire-pets-zaf-475817-t91zybkg-922413-u3yBRQSB.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05092730/apartment-fire-pets-zaf-475817-t91zybkg-922413-u3yBRQSB.jpg 864w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05092730/apartment-fire-pets-zaf-475817-t91zybkg-922413-u3yBRQSB-300x205.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05092730/apartment-fire-pets-zaf-475817-t91zybkg-922413-u3yBRQSB-768x524.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05092730/apartment-fire-pets-zaf-475817-t91zybkg-922413-u3yBRQSB-158x108.jpg 158w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05092730/apartment-fire-pets-zaf-475817-t91zybkg-922413-u3yBRQSB-400x273.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Firefighters had to rescue many animals from the building. Unfortunately, not all of them made it.</p>
+<p>The post <a href="https://lbpost.com/news/apartment-fire-pets-killed-17th-junipero-zaferia">Blaze kills pets, scorches apartments in Long Beach’s Zaferia neighborhood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/apartment-fire-pets-killed-17th-junipero-zaferia>
+
+---
+
+## Hot and hazy weather for SoCal
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+It's going to be hot this week and smoke from the Gifford Fire will create hazy conditions over SoCal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/hot-and-hazy-weather-for-socal>
+
+---
+
+## LA County CEO paints bleak financial picture; public hospital closure a possibility
+
+date: 2025-08-05, updated: 2025-08-05, from: The LAist
+
+Federal funding cuts, fire-related costs and continuing liabilities from child sexual abuse cases at juvenile facilities are placing the county in a pinch. 
+
+<br> 
+
+<https://laist.com/news/politics/la-county-financial-future>
 
 ---
 
@@ -61,7 +202,7 @@ California lawmakers want to ban companies from using data about consumers’ de
 
 date: 2025-08-04, from: Longbeach Post
 
-<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-1200x814.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz.jpg 1424w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="695" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-1024x695.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-1024x695.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-300x204.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-768x521.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-159x108.jpg 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-1200x814.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz-400x271.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/04141708/06c240f2-f574-4563-b4a9-4c4b88829121-596471-tktzluuw-791153-cuMYbvcz.jpg 1424w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Traffic was backed up for miles while firefighters doused the flames.</p>
 <p>The post <a href="https://lbpost.com/news/truck-fire-710-willow-freeway">Driver escapes fire that &#8216;fully engulfed&#8217; truck&#8217;s cabin on the 710 Freeway</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -74,7 +215,7 @@ date: 2025-08-04, from: Longbeach Post
 
 ## Starter home vibes at open house for $1.3M North Tustin home at center of a corruption scheme
 
-date: 2025-08-04, updated: 2025-08-04, from: The LAist
+date: 2025-08-04, updated: 2025-08-05, from: The LAist
 
 Residents in this North Tustin community want nice, friendly neighbors. 
 

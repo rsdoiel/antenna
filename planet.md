@@ -1,11 +1,243 @@
 ---
 title: planet
-updated: 2025-08-05 06:08:21
+updated: 2025-08-05 14:08:11
 ---
 
 # planet
 
-(date: 2025-08-05 06:08:21)
+(date: 2025-08-05 14:08:11)
+
+---
+
+## Investigation after Burke family confronts DUP councillor
+
+date: 2025-08-05, from: RTÉ News
+
+The PSNI is carrying out inquiries into an incident where members of the Burke family confronted a DUP councillor outside a Presbyterian church. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527084-burkes-dup-councillor/>
+
+---
+
+## Ed Sheeran wows crowds with surprise Fleadh appearance
+
+date: 2025-08-05, from: RTÉ News
+
+Ed Sheeran made a surprise appearance at the Fleadh Cheoil na hÉireann in Wexford town on Tuesday night, delighting a packed-out pub when he performed a handful of original songs alongside a few traditional Irish tunes. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0805/1527074-ed-sheeran-wows-crowds-with-surprise-fleadh-appearance/>
+
+---
+
+## Man who died at Wembley Oasis concert was 'lifelong fan'
+
+date: 2025-08-05, from: RTÉ News
+
+The father of a "lifelong fan" who fell to his death at the end of an Oasis concert at Wembley Stadium has said the whole family is "devastated". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527076-oasis-fan-wembley/>
+
+---
+
+## Trump administration to axe Musk's 'five things' email
+
+date: 2025-08-05, from: RTÉ News
+
+The Trump administration plans to formally axe a program launched by Elon Musk requiring federal employees to summarise their five workplace achievements from the prior week, two people familiar with the matter said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527069-trump-musk-email/>
+
+---
+
+## Coriander and hummus products recalled over listeria
+
+date: 2025-08-05, from: RTÉ News
+
+The Food Safety Authority of Ireland has issued a recall alert for a number of potted coriander products along with a single hummus product due to the possible presence of listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527059-coriander-hummus-recall/>
+
+---
+
+## Meta says working to thwart WhatsApp scammers
+
+date: 2025-08-05, from: RTÉ News
+
+Meta has said it shut nearly seven million WhatsApp accounts linked to scammers in the first half of this year and is ramping up safeguards against such schemes. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0805/1527061-meta-scams/>
+
+---
+
+## Five years after Beirut blast, relative of victim says justice ‘denied'
+
+date: 2025-08-05, from: Vatican News
+
+
+                    <p>Elie Hasrouty, whose father was killed in the 2020 Beirut port blast, tells Vatican News that he wants the tragedy to inspire Lebanon to “come together, act, and organise".</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/elie-hasrouty-beirut-port-blast-five-years-justice-denied-pope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/elie-hasrouty-beirut-port-blast-five-years-justice-denied-pope.html>
+
+---
+
+## Pope: May the Hiroshima anniversary serve as a call to pursue peace
+
+date: 2025-08-05, from: Vatican News
+
+
+                    <p>In a message on the occasion of the 80th anniversary of the Hiroshima bombing, Pope Leo XIV urges the international community to renew its commitment to pursue lasting peace for our whole human family.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-may-hiroshima-anniversary-serve-as-a-call-to-pursue-peace.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-may-hiroshima-anniversary-serve-as-a-call-to-pursue-peace.html>
+
+---
+
+## First Nations comedians return to Saskatoon Fringe
+
+date: 2025-08-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/0e329f77-a042-4053-b9d2-76d59980292b,1754423559231/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='Two comedians laughing in front of posters.' width='620' height='349' title=''/><p>Shawn Cuthand and Danny Knight share what keeps them coming back to the Fringe Festival stage. </p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6856634?cmp=rss>
+
+---
+
+## Mohawk Council of Kahnawà:ke mulls applying road tolls in response to federal cuts
+
+date: 2025-08-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7601660.1754419116!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-kahnawake-20250805.jpg' alt='Mohawk Council of Kahnawake Grand Chief Cody Diabo speaking' width='620' height='349' title='Mohawk Council of Kahnawake (MCK) Grand Chief Cody Diabo speaks during a news regarding Bill C-5 and federal budget cuts in Kahnawake, Que., Tuesday, August 5, 2025. THE CANADIAN PRESS/Graham Hughes'/><p>The Mohawk Council of Kahnawà:ke says it will probably impose tolls on the roads crossing its territory in response to looming federal budget cuts.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/mohawk-council-kahnawake-road-tolls-federal-cuts-1.7601657?cmp=rss>
+
+---
+
+## US House panel subpoenas Clintons in Epstein probe
+
+date: 2025-08-05, from: RTÉ News
+
+The US House Oversight Committee has subpoenaed former president Bill Clinton and former secretary of state Hillary Clinton for testimony on sex offender Jeffrey Epstein, according to letters posted on its website. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527048-us-clintons-epstein/>
+
+---
+
+## Saipan to have world premiere at Toronto Film Festival
+
+date: 2025-08-05, from: RTÉ News
+
+Saipan, the new film exploring the explosive fallout between Roy Keane and Mick McCarthy during Ireland's 2002 World Cup preparations, will have its world premiere at the Toronto International Film Festival (TIFF) next month. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0805/1527043-saipan-to-have-world-premiere-at-toronto-film-festival/>
+
+---
+
+## Apostolic Nuncio to Ghana praises hospitality amidst conflict
+
+date: 2025-08-05, from: Vatican News
+
+
+                    <p>Following the reignition of conflict in the northeastern part of Ghana, the Minister of the Upper East Region of the country urges local Catholic leaders to use their influence to achieve peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/apostolic-nuncio-to-ghana-praises-hospitality-amidst-conflict.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/apostolic-nuncio-to-ghana-praises-hospitality-amidst-conflict.html>
+
+---
+
+## Shannon McQuillan's father 'disgusted' by actions of PSNI
+
+date: 2025-08-05, from: RTÉ News
+
+Shannon McQuillan's father said he is "disgusted and ashamed" of the actions of police officers who were with his daughter before she was knocked down and killed. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527039-psni-duty-care/>
+
+---
+
+## Summer Moons
+
+date: 2025-08-05, from: Vatican Obervatory
+
+We took a look at my moon selection, which includes our Moon, Enceladus, Titan, Europa, Mimas, Phobos, and Io.   
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/summer-moons/>
+
+---
+
+## The horror of war shown in the starving hostages held in Gaza
+
+date: 2025-08-05, from: Vatican News
+
+
+                    <p>The UN Security Council will hold an emergency meeting to address the hostages still being held in the Gaza Strip, following the release this week of videos by Palestinian militias showing them suffering from starvation.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/the-horror-of-war-shown-in-the-starving-hostages-held-in-gaza.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/the-horror-of-war-shown-in-the-starving-hostages-held-in-gaza.html>
+
+---
+
+## 'Inadequate design' primary factor in Titan implosion
+
+date: 2025-08-05, from: RTÉ News
+
+A US Coast Guard investigative board has concluded that the "inadequate design" of the Titan submersible was a primary contributing factor in its implosion in 2023 that left five people dead. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0805/1527025-titan-submersible/>
+
+---
+
+## “The Pope’s Astronomer” Br Guy Consolmagno talks to John Cowan about the intersection of science and his faith
+
+date: 2025-08-05, from: Vatican Obervatory
+
+Br Guy Consolmagno was interviewed for the Real Life With John Cowan podcast. 
+
+<br> 
+
+<https://www.newstalkzb.co.nz/on-air/real-life/audio/br-guy-consolmagno/>
 
 ---
 
@@ -21,11 +253,11 @@ Tributes have been paid to a former union representative at Waterford Crystal wh
 
 ---
 
-## National museum refurbishment a 'huge amount' of work
+## 'Dead zoo' refurbishment a 'huge amount' of work
 
 date: 2025-08-05, from: RTÉ News
 
-The Keeper of Natural History at the National Museum of Ireland has said that the refurbishment of the museum's site in Dublin city centre will be slow going. 
+The Keeper of Natural History at the National Museum of Ireland, commonly known as the 'Dead Zoo', has said that the refurbishment of the museum's site in Dublin city centre will be slow going. 
 
 <br> 
 
@@ -47,13 +279,121 @@ The value of salary overpayments to Revenue staff reached almost €1.7 million 
 
 ## Geography shouldn’t define destiny: UN summit on landlocked nations opens in Turkmenistan
 
-date: 2025-08-05, from: United Nations, Top Stories
+date: 2025-08-05, from: United Nations, Economic Development
 
 Breaking down barriers and restoring fairness in global development should be the goal of the Third UN Conference on Landlocked Developing Countries, Secretary-General António Guterres said at its opening in Awaza, Turkmenistan, on Tuesday.&nbsp; 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165571>
+
+---
+
+## Gaza: Security Council meets on hostage crisis amid ‘unbearable’ conditions for Palestinians
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+As conditions in the Occupied Palestinian Territory and Israel continue to deteriorate, a senior UN official upheld the need for a political solution to the crisis in Gaza that can lead to a lasting peace between the two peoples.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165581>
+
+---
+
+## Children are ‘skin and bones’ as Sudan marks a grim milestone
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+Famine was declared in the Zamzam camp in North Darfur one year ago. And since then, little has changed – no aid trucks have reached the region, the nearby city of El Fasher is still under siege and food prices are four times higher than other parts of the country.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165580>
+
+---
+
+## SECURITY COUNCIL LIVE: Israel calls for focus on Gaza hostages’ plight
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+The Security Council is meeting to discuss rising concern in Israel and elsewhere over the dire conditions facing the hostages who remain in Gaza. It follows the release of recent videos by Hamas and other Palestinian militants showing emaciated captives, which the UN Secretary-General called “an unacceptable violation of human dignity.” A senior UN political affairs official reiterated the "unbearable" conditions faced by Palestinians across the war-ravaged enclave. Stay with UN News for live updates in coordination with UN Meetings Coverage. App users can follow the coverage here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165579>
+
+---
+
+## World News in Brief: Child deaths in Pakistan, Ukrainian rail station attack, new UN-India development partnership
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+On Tuesday, the UN Children’s Fund (UNICEF) reported the deaths of five children with a dozen seriously injured, following the detonation of an unexploded mortar shell in the city of Lakki Marwat in Pakistan’s Khyber Pakhtunkhwa province over the weekend.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165578>
+
+---
+
+## Gaza crisis deepens as UN warns children are ‘dying before reaching hospital’
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+Children in Gaza are dying not just from hunger, but from the total collapse of the systems meant to protect them, UN agencies warned on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165577>
+
+---
+
+## The world is demanding action over plastic pollution: UN environment chief
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+High stakes negotiations got underway at the UN Geneva on Tuesday to agree on a legally binding treaty to curb plastic pollution, attended by delegates from nearly 180 countries.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165574>
+
+---
+
+## Hunger in Gaza: Women and children face death in search of food
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+Obtaining food is no longer a routine journey in Gaza; it has become a race, fraught with death on all sides as women and children risk their lives to get aid. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165575>
+
+---
+
+## UNHCR urges Pakistan to stop forced returns of Afghan refugees
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+The UN refugee agency, UNHCR, is calling for Pakistan to halt the forcible return of Afghan refugees holding proof of registration (PoR) cards, Spokesperson Babor Baloch said on Tuesday in Geneva.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165572>
+
+---
+
+## Dozens more migrants die after boat capsizes off the coast of Yemen
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+The International Organization for Migration (IOM) reported that 56 people had died and 132 were missing after a vessel carrying 200 migrants capsized off the coast of Shuqrah, in Yemen’s Abyan Governorate on 3 August.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165573>
 
 ---
 
@@ -66,6 +406,18 @@ The Central Bank should conduct an internal review into whether it can turn down
 <br> 
 
 <https://www.rte.ie/news/politics/2025/0805/1527002-israeli-war-bonds/>
+
+---
+
+## Flash floods in northern India kill at least 4, trapping others under debris
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601357.1754406566!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-flash-floods.jpg' alt='Houses are inundated in slash and some swept away after flash floods.' width='620' height='349' title='Houses are inundated in slash and some swept away after flash floods in Dharali, a Himalayan mountain village in the Uttarkashi district of Indian state of Uttarakhand, Tuesday, Aug. 5, 2025. (India Army via AP)'/><p>Flash floods swept away several homes and shops in northern India, killing at least four people and leaving many others trapped under debris, officials said Tuesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/flash-floods-northern-india-asia-1.7601351?cmp=rss>
 
 ---
 
@@ -93,7 +445,7 @@ TV presenter Jay Blades has been charged with two counts of rape.
 
 ---
 
-## Watch: 'Now I love her ad', Trump praises actress Sweeney
+## Watch: 'Now I love her ad' - Trump praises Sydney Sweeney
 
 date: 2025-08-05, from: RTÉ News
 
@@ -102,6 +454,18 @@ US President Donald Trump has praised actress Sydney Sweeney, after a reporter t
 <br> 
 
 <https://www.rte.ie/news/us/2025/0805/1526973-donald-trump-sydney-sweeney/>
+
+---
+
+## India, Russia hit back after U.S. accuses Modi government of fuelling Russia's war in Ukraine
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601256.1754398637!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-us-trump-tariffs.jpg' alt='A person with their back to the camera completes a coloured piece of artwork in a public setting.' width='620' height='349' title='A student of Gurukul school of Art completes artwork of U.S. President Donald Trump and India Prime Minister Narendra Modi, in Mumbai on Friday. The relationship between the two allies has hit a bumpy patch in Trump&apos;s return to the White House.'/><p>Russia accused the United States on Tuesday of exerting illegal trade pressure on India after U.S. President Donald Trump threatened again to raise tariffs on India over its purchases of Russian oil. Meanwhile, New Delhi pointed out it's not the only country purchasing Russian goods.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/india-us-russia-tensions-1.7601238?cmp=rss>
 
 ---
 
@@ -117,11 +481,11 @@ Countries have begun ten days of negotiations in Geneva aimed at hammering out a
 
 ---
 
-## Dutch are first to buy US arms for Ukraine in NATO deal
+## Zelensky says he discussed drone deal with Trump
 
 date: 2025-08-05, from: RTÉ News
 
-The Netherlands will buy €500m of US weapons for Ukraine, becoming the first NATO member to fund a full package under a new scheme to speed deliveries from American stockpiles, the defence ministry said. 
+Ukrainian President Volodymyr Zelensky has said he discussed sanctions on Russia and the finalisation of a US-Ukraine drone deal with US President Donald Trump. 
 
 <br> 
 
@@ -138,6 +502,18 @@ The 15% tariff that EU goods face when entering the US is all-inclusive, incorpo
 <br> 
 
 <https://www.rte.ie/news/europe/2025/0805/1526946-eu-us-tariffs/>
+
+---
+
+## Tariffs on pharmaceuticals could reach 250%, says Trump
+
+date: 2025-08-05, from: RTÉ News
+
+US President Donald Trump has said that upcoming tariffs on imported pharmaceuticals could reach 250%, after starting at a lower level, while adding he plans to also unveil fresh duties on foreign semiconductors. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0805/1526946-eu-us-tariffs/>
 
 ---
 
@@ -174,6 +550,30 @@ US country star Dolly Parton has been named a Guinness World Records icon for ho
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0805/1526933-dolly-parton-named-guinness-world-records-icon/>
+
+---
+
+## Powwow special to honour children with disabilities made them all winners
+
+date: 2025-08-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7598723.1753987600!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/honoring-the-disability.jpg' alt='A picture of a mom, dad, and son. ' width='620' height='349' title='Emory Rabbitskin, centre, poses with parents Tina and Eugene at the Big River First Nation powwow held on July 24.'/><p>A powwow special organized by a family from Big River First Nation made sure everyone with a disability was honoured.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/special-powwow-disabilities-1.7598676?cmp=rss>
+
+---
+
+## SHA introduces policy to protect Indigenous hair traditions
+
+date: 2025-08-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5264812.1742058407!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saskatchewan-health-authority.jpg' alt='SHA' width='620' height='349' title='Symptoms of the measles virus include small, white spots inside the mouth and throat, and a red blotchy rash that develops on the face about three to seven days after symptoms begin. '/><p>The new policy, effective Aug. 1, requires health-care workers to obtain informed consent before cutting a patient’s hair, while also ensuring the respectful handling and return of the hair when cutting is necessary.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/saskatchewan/sha-introduces-policy-to-protect-indigenous-hair-traditions-1.7601037?cmp=rss>
 
 ---
 
@@ -225,11 +625,11 @@ Novak Djokovic is set to enter the US Open without playing in any warm-up tourna
 
 ---
 
-## 'Intensive' efforts under way to secure Haiti release
+## Tánaiste raises case of Gena Heraty with EU's Kaja Kallas
 
 date: 2025-08-05, from: RTÉ News
 
-Tánaiste and Minister for Foreign Affairs Simon Harris held talks overnight with his Haitian counterpart about the abduction of Irish woman Gena Heraty from an orphanage in Haiti. 
+Tánaiste Simon Harris has raised the kidnapping of Irish citizen Gena Heraty in Haiti with the EU's High Representative for Foreign Affairs and Security Policy Kaja Kallas. 
 
 <br> 
 
@@ -270,6 +670,18 @@ Israel's Prime Minister Benjamin Netanyahu has said Israel must "complete" the d
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0805/1526910-middle-east-gaza-israel/>
+
+---
+
+## Gaza war expansion risks 'catastrophic consequences' - UN
+
+date: 2025-08-05, from: RTÉ News
+
+A top UN official has warned that expanding Israeli military operations inside Gaza risks "catastrophic consequences," as Prime Minister Benjamin Netanyahu reportedly considered total occupation of the Palestinian territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0805/1526910-gaza-israel/>
 
 ---
 
@@ -333,6 +745,18 @@ A man in his 70s has died following an incident at a house in Waterford city on 
 
 ---
 
+## Limited space, slow intake raise challenges for some Nisichawayasihk evacuees at Winnipeg congregate shelter
+
+date: 2025-08-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7601124.1754339347!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nichole-wood-hart.JPG' alt='A woman stands with a group of children outside a hotel.' width='620' height='349' title='Nichole Wood-Hart and her children have been evacuated from Nisichawayasihk Cree Nation to Winnipeg on Aug. 4, 2025.'/><p>Charter flights and buses loaded with hundreds of evacuees forced out by wildfires burning near Nisichawayasihk Cree Nation are expected to arrive in Winnipeg on Monday, but some are expressing concerns over the conditions at the congregate shelter where most are heading.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/nisichawayasihk-cree-nation-wildfire-evacuation-1.7601116?cmp=rss>
+
+---
+
 ## Pope to Medjugorje youth gathering: ‘No-one walks alone’
 
 date: 2025-08-04, from: Vatican News
@@ -370,6 +794,18 @@ Hundreds of Lebanese have gathered solemnly near Beirut's coast to commemorate a
 <br> 
 
 <https://www.rte.ie/news/2025/0804/1526874-beirut-explosion-five-years/>
+
+---
+
+## Indigenous leaders, Olympian among 15 appointed to Order of B.C.
+
+date: 2025-08-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7601097.1754334676!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/order-of-b-c-2025.jpg' alt='A collage of 15 people' width='620' height='349' title='Fifteen people have been appointed to the Order of B.C. on Aug. 4, 2025.'/><p>The order, established in 1989, recognizes people who have made "extraordinary contributions" to British Columbia and beyond, the province said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/order-of-bc-2025-1.7601070?cmp=rss>
 
 ---
 
@@ -559,7 +995,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## The final straw? Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Top Stories
+date: 2025-08-04, from: United Nations, Economic Development
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 
@@ -595,7 +1031,7 @@ Since the beginning of 2025, 600 refugees have arrived in Uganda each day, bring
 
 ## UN urges MPs to deliver on development promises for 600 million in landlocked nations
 
-date: 2025-08-04, from: United Nations, Top Stories
+date: 2025-08-04, from: United Nations, Economic Development
 
 At a major UN forum opening in Awaza, Turkmenistan, this week, parliamentarians from around the world are being urged to take decisive action to improve the lives of more than 600 million people living in landlocked developing countries (LLDCs). 
 
@@ -629,12 +1065,24 @@ As conflict intensifies between rival militaries in Sudan, the UN humanitarian w
 
 ---
 
+## Three Yukon First Nations lay out expectations for Gladiator Metals
+
+date: 2025-08-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6858738.1744148880!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/copper-mineralization-in-stone.jpg' alt='A hand holds out a grey stone tinted with blue.' width='620' height='349' title='A stone showing copper mineralization just outside Whitehorse. Gladiator Metals has a permit to drill and explore for copper near Mount Sima and Copper Haul Road.'/><p>The Kwanlin Dün First Nation and Ta’an Kwäch’än Council have voiced multiple proposed conditions before Gladiator Metals is approved to expand drilling in the Whitehorse copper belt.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/yukon-first-nations-expectations-gladiator-metals-1.7600316?cmp=rss>
+
+---
+
 ## Five years on from port blast, Pope expresses closeness with people of Beirut
 
 date: 2025-08-04, from: Vatican News
 
 
-                    <p>A vigil was held on Sunday 4 August in Beirut in an area adjacent to the site of the port explosion tragedy exactly five years ago on 4 August 2020. A message from Pope Leo XIV read during the vigil expressed his closeness with the people. Apostolic Nunzio, Archbishop Borgia says, “the families of the victims need justice and truth about what happened. These are deaths that still have no explanation, and this weighs heavily on the whole country.”</p>
+                    <p>A vigil was held on Sunday 3rd August in Beirut in an area adjacent to the site of the port explosion tragedy five years ago on 4 August 2020. A message from Pope Leo XIV read during the vigil expressed his closeness with the people. Apostolic Nunzio, Archbishop Borgia says, “the families of the victims need justice and truth about what happened. These are deaths that still have no explanation, and this weighs heavily on the whole country.”</p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/pope-shares-closeness-with-beirut-anniversary-port-explosion.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -869,6 +1317,18 @@ Swipe, tap, spend - repeat. In a world where money disappears with a click, a su
 
 ---
 
+## Wapekeka First Nation grieves 2nd community member shot and killed by police this summer
+
+date: 2025-08-04, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7600780.1754256435!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tyresse-kenny-padro-cree-roundsky.jpg' alt='A person is seen sitting in a mall food court. They are smiling.' width='620' height='349' title='Tyresse Kenny Padro Cree Roundsky, 23, died in Wapekeka First Nation on Thursday. His death is now the subject of an investigation by Ontario&apos;s police watchdog.'/><p>In less than a year and a half, three men with ties to Wapekeka First Nation have been shot and killed by police in northwestern Ontario. Here's what we know about last week's shooting in the remote Oji-Cree community and why members of the region's legal community are calling for more safeguards in fly-in courtrooms.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/thunder-bay/wapekeka-first-nation-siu-investigation-follow-1.7600736?cmp=rss>
+
+---
+
 ## Democrats leave Texas in bid to block redistricting vote
 
 date: 2025-08-04, from: RTÉ News
@@ -1013,6 +1473,18 @@ date: 2025-08-03, from: CBC, World News
 
 ---
 
+## Wildfire, smoke force evacuation of Nisichawayasihk Cree Nation
+
+date: 2025-08-03, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7600720.1754244585!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nisichawayasihk-cree-nation.jpg' alt='Members from Nisichawayasihk Cree Nation began evacuating Saturday as wildfire and smoke threatens the community and road access to Thompson.' width='620' height='349' title='Out of control wildfires in northern Manitoba are have forced Nisichawayasihk Cree Nation into a full evacuation.  '/><p>Wildfires in northern Manitoba are forcing thousands of residents from a Cree Nation out of their homes over poor air quality and concerns that flames might engulf the only road access to the community. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/wildfire-evacuation-nisichawayasihk-cree-nation-1.7600704?cmp=rss>
+
+---
+
 ## Krasheninnikov volcano in Russia's Far East erupts for 1st time in centuries
 
 date: 2025-08-03, from: CBC, World News
@@ -1148,7 +1620,7 @@ Cholera is ripping through North Darfur, Sudan, threatening thousands of childre
 
 ## Awaza gears up to host UN conference on landlocked developing countries
 
-date: 2025-08-03, from: United Nations, Top Stories
+date: 2025-08-03, from: United Nations, Economic Development
 
 In the city of Awaza, where the Caspian Sea meets the desert, UN and Turkmen flags were raised on Sunday ahead of the Third United Nations Conference on Landlocked Developing Countries (LLDC3), as final preparations continue to welcome world leaders and delegates for a week of high-level talks on boosting development in some of the world’s most geographically disadvantaged nations. 
 

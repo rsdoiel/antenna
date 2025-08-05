@@ -1,11 +1,121 @@
 ---
 title: food
-updated: 2025-08-05 06:08:29
+updated: 2025-08-05 14:08:20
 ---
 
 # food
 
-(date: 2025-08-05 06:08:29)
+(date: 2025-08-05 14:08:20)
+
+---
+
+## I Thought This Blender Sucked. Now I Use It Every Day
+
+date: 2025-08-05, from: Bon Appetet
+
+It failed our product tests, but not the mundane work of my everyday smoothie. 
+
+<br> 
+
+<https://www.bonappetit.com/story/beast-mighty-blender-highly-recommend>
+
+---
+
+## Tyler Smith’s Bacon and Egg Puff Pastry
+
+date: 2025-08-05, from: Taste of Home
+
+If you love a sweet and savory combination in the morning, this homemade toaster pastry is just what you need. The puff pastry is filled with bacon jam and scrambled eggs, upgrading the nostalgic classic to a hearty meal. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-bacon-egg-puff-pastry/>
+
+---
+
+## Elise Jesse’s Apple Bourbon Barbecue Sliders
+
+date: 2025-08-05, from: Taste of Home
+
+These apple bourbon barbecue sliders are everything you want in a comfort food recipe as you transition into fall. Each bite packs a smoky, sweet, tangy punch and is dripping with melty cheese. This set-it-and-forget-it meal starts with a chuck roast slow-cooked to tender perfection in a bold barbecue sauce. After six hours of slow simmering, the meat practically falls apart. The sliders are brushed with garlic-herb butter, broiled to golden perfection, and truly irresistible. They're perfect for game day, parties or when you need a good comfort meal, but don’t want to spend all day in the kitchen. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-apple-bourbon-barbecue-sliders/>
+
+---
+
+## HelloFresh Just Upgraded Its Menu: Here’s What’s New
+
+date: 2025-08-05, from: Taste of Home
+
+<p>HelloFresh just refreshed its entire menu. We tried a few items from the new launch—and one meal kept us coming back for more. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/hellofresh-new-menu-2025/">HelloFresh Just Upgraded Its Menu: Here’s What’s New</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hellofresh-new-menu-2025/>
+
+---
+
+## The Best Matcha Powder, Vetted by a Daily Drinker (2025)
+
+date: 2025-08-05, from: Bon Appetet
+
+I tried a dozen matcha powders to find the very best one. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-matcha-powder>
+
+---
+
+## AeroPress Championship Launching Fall U.S. Tour
+
+date: 2025-08-05, from: Daily Coffee News
+
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-620x418.png" class="attachment-large size-large wp-post-image" alt="Screen Shot 2025-07-30 at 2.48.08 PM" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-620x418.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-300x202.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-150x101.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-768x517.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-1536x1035.png 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM.png 1814w" sizes="(max-width: 620px) 100vw, 620px" /></div>The organizers of the American AeroPress Championship are putting together a multi-city tour-de-manual-force to celebrate the brewing device&#8217;s 20th birthday. Regional events will be held between September and October in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/05/aeropress-championship-launching-fall-u-s-tour/>
+
+---
+
+## Build-Outs Of Coffee: Take Two Coffee In Fort Myers, FL
+
+date: 2025-08-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Take Two Coffee in Fort Meyers, Floria. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-take-two-coffee-in-fort-myers-fl-362127.html>
+
+---
+
+## As U.S. Tariffs Take Hold, China Authorizes 183 Brazilian Coffee Exporters
+
+date: 2025-08-05, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee port" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; China has fast-tracked authorization for 183 Brazilian coffee exporters as the 50% United States tariff on Brazilian goods begins to reshape global supply trade routes.&#160; The move comes as... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/05/as-u-s-tariffs-take-hold-china-authorizes-183-brazilian-coffee-exporters/>
+
+---
+
+## Compass Point Drops a Pin on the Specialty Map of Pennsylvania
+
+date: 2025-08-05, from: Daily Coffee News
+
+<div><img width="620" height="442" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-620x442.jpg" class="attachment-large size-large wp-post-image" alt="CPC SHOP copy" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-620x442.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-768x547.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; There&#8217;s a new direction for specialty coffee outside of Pittsburgh with the opening of a roastery and cafe called Compass Point Coffee in Millvale, Pennsylvania.&#160; Founded by a pair... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/05/compass-point-drops-a-pin-on-the-specialty-map-of-pennsylvania/>
 
 ---
 
@@ -183,6 +293,30 @@ date: 2025-08-04, from: Irish Food Hub
 
 ---
 
+## Zucchini Butter
+
+date: 2025-08-04, from: Taste of Home
+
+Looking for an unusual way to use up mounds of zucchini and summer squash? Zucchini butter is a flexible condiment that you can spread onto sandwiches, dollop onto an omelette or mix with sour cream to make a dip. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/zucchini-butter/>
+
+---
+
+## Muffuletta Pasta Salad
+
+date: 2025-08-04, from: Taste of Home
+
+This easy muffuletta pasta salad recipe combines all the flavors you love from the classic New Orleans sandwich and transforms them into a hearty pasta salad. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/muffuletta-pasta-salad/>
+
+---
+
 ## The Sprudge Guide To Coffee In George Town, Penang
 
 date: 2025-08-04, from: The Sprudge
@@ -199,7 +333,7 @@ date: 2025-08-04, from: The Sprudge
 
 date: 2025-08-04, from: Daily Coffee News
 
-<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Philz Coffee Los Angeles" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>San Francisco independent coffee institution Philz Coffee is in the process of selling its business to the private equity firm Freeman Spogli &#38; Co. for $145 million, as first reported... 
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Philz Coffee Los Angeles" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1-768x544.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2023/01/Philz-Coffee-Los-Angeles-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>San Francisco independent coffee institution Philz Coffee is in the process of selling its business to the private equity firm Freeman Spogli &#38; Co. for $145 million, as first reported... 
 
 <br> 
 
@@ -211,7 +345,7 @@ date: 2025-08-04, from: Daily Coffee News
 
 date: 2025-08-04, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Tracer Coffee Colombia Charleston SC Gina" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A new coffee roasting company called Tracer Coffee is drawing clear lines from coffee farms in Colombia to coffee bags and beverages in Charleston, South Carolina.&#160; Focused on direct... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Tracer Coffee Colombia Charleston SC Gina" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Tracer-Coffee-Colombia-Charleston-SC-Gina.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; A new coffee roasting company called Tracer Coffee is drawing clear lines from coffee farms in Colombia to coffee bags and beverages in Charleston, South Carolina.&#160; Focused on direct... 
 
 <br> 
 

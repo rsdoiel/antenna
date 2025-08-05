@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2025-08-05 06:08:23
+updated: 2025-08-05 14:08:14
 ---
 
 # science and technology
 
-(date: 2025-08-05 06:08:23)
+(date: 2025-08-05 14:08:14)
+
+---
+
+## Windows NT 4.0 set us on the path to Windows NT desktop dominance
+
+date: 2025-08-05, from: OS News
+
+The most popular desktop operating system today is still Windows, with its userbase roughly equally divided between Windows 10 and Windows 11. While we tend to focus on the marketing names used by Microsoft, like Windows XP, Windows 7, or Windows 11, their real name is still, to this day, Windows NT. Underneath all the marketing names, there&#8217;s still the Windows NT version number corresponding to the marketing name; Windows XP was Windows NT 5.1 (or 5.2 for the 64bit version), Windows 7 was Windows NT 6.1, and the current latest version, Windows 11, is Windows NT 10.0, a version number that&#8217;s been static since 2015. Of course, version numbers don&#8217;t really mean anything, but it does highlight that yes, the Windows you&#8217;re using is still Windows NT, and thus, the operating system you&#8217;re using isn&#8217;t a part of the Windows 3.x/9x line, but of the NT line. And probably the first version of Windows NT that set us on this path is Windows NT 4.0 &#8211; with Windows 2000 sealing the deal, and Windows XP delivering the obvious knock-out punch. Since Windows NT 4.0 turned 29 years old a few days ago, Dave Farquhar published a retrospective of this release, highlighting many important changes in Windows NT 4.0 that in my mind mark it as the true beginning of the shift from Windows 9x to Windows NT as Microsoft&#8217;s consumer operating system. First, Windows NT 4.0 was the first version of Windows NT that shipped with the user interface from Windows 95. It brought over the Start menu, taskbar, and everything else introduced with Windows 95 to the Windows NT line, which up until that point had been using the same user interface as Windows 3.x. A default Windows NT 4.0 desktop basically looks indistinguishable from a Windows 95 desktop, and like the earlier versions of NT, it came in a workstation edition for desktop use. Second, another massive, at the time controversial, change came with the graphics subsystem, as Farquhar notes: And one change, easily forgotten today, regarded graphics drivers. Microsoft moved the video subsystem from user space, ring 3, to kernel space, ring 0. There was a lot of talk about Ring 0 versus ring 3 on July 19, 2024 thanks to the large computer outage on that day. In 1996, this move was controversial, for the same reasons. The fear was that a malfunction in the graphics driver would now be able to take down the entire system. But the trade-off was much improved performance. It meant Windows NT 4.0 could be used for serious graphics work. ↫ Dave Farquhar Windows NT 4.0 delivered more than what&#8217;s highlighted by Farquhar, of course. A major new feature in Windows NT 4.0 was DirectX, as it was the first Windows version to come with it preinstalled. DirectX support remained limited in NT 4.0, though, so Windows 9x remained the better option for most people playing video games. Other new features were the System Policy Editor and system policies, Sysprep, and, of course, a whole slew of low-level improvements to both the operating system itself as well as its various server-oriented features. Windows NT 4.0 also happened to be the last version of Windows NT which supported the Alpha, MIPS, and PowerPC architectures, although Windows 2000 retained support for Alpha in its alpha, beta, and release candidate versions. Of course, Windows would later expand its architecture support with first Itanium, and more recently, ARM. As someone who was selling and managing computer systems at the time, Farquhar has some great insights into why NT 4.0 was such a big deal, and why it seemed to fare better in the market than previous versions of Windows NT did. He also highlights on particular oddity from NT 4.0 that&#8217;s still lurking around today, an oddity you really don&#8217;t want to run into. 
+
+<br> 
+
+<https://www.osnews.com/story/142985/windows-nt-4-0-set-us-on-the-path-to-windows-nt-desktop-dominance/>
+
+---
+
+## Perplexity vexed by Cloudflare's claims its bots are bad
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>AI search biz insists its content capture and summarization is okay because someone asked for it</h4> <p>AI search biz Perplexity claims that Cloudflare has mischaracterized its site crawlers as malicious bots and that the content delivery network made technical errors in its analysis of Perplexity&#39;s operations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/perplexity_vexed_by_cloudflares_claims/>
+
+---
+
+## NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
+
+date: 2025-08-05, from: NASA breaking news
+
+NASA has selected six companies to produce studies focused on lower-cost ways to launch and deliver spacecraft of various sizes and forms to multiple, difficult-to-reach orbits. The firm-fixed-price awards comprise nine studies with a maximum total value of approximately $1.4 million. The awardees are: “With the increasing maturity of commercial space delivery capabilities, we&#8217;re asking [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/>
+
+---
+
+## Archaeology Student Discovers Carefully Carved Stone Head at Viking Settlement in Scotland's Orkney Islands
+
+date: 2025-08-05, from: Smithsonian Magazine
+
+Found on the island of Rousay, the red sandstone artifact adds to the layered history of an archaeological site in the Scottish archipelago 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeology-student-discovers-carefully-carved-stone-head-at-viking-settlement-in-scotlands-orkney-islands-180987111/>
+
+---
+
+## NASA’s SpaceX Crew-10 Looks Back at Science Mission
+
+date: 2025-08-05, from: NASA breaking news
+
+NASA’s SpaceX Crew-10 Looks Back at Science Mission NASA’s SpaceX Crew-10 mission with agency astronauts Anne McClain and Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov is preparing to return to Earth in early August after a long-duration mission aboard the International Space Station. During their stay, McClain, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/looking-back-at-nasas-spacex-crew-10-science-mission/>
+
+---
+
+## NASA Science Activation Teams Unite to Support Neurodiverse Learners with Public Libraries
+
+date: 2025-08-05, from: NASA breaking news
+
+On July 16, 2025, more than 400 public library staff from across the United States joined a powerful webinar, Serving Neurodiverse Library Patrons and Colleagues, hosted by two NASA Science Activation program teams: NASA@ My Library and NASA’s Neurodiversity Network (N3). The event brought together researchers, library professionals, and individuals with lived experience of neurodiversity […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-unite-to-support-neurodiverse-learners-with-public-libraries/>
+
+---
+
+## Scientists Identify a New Manta Ray Species, Just the Third Known in the World
+
+date: 2025-08-05, from: Smithsonian Magazine
+
+Meet Mobula yarae, a large marine creature that lives along the coast in the Atlantic Ocean 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-identify-a-new-manta-ray-species-just-the-third-known-in-the-world-180987109/>
+
+---
+
+## Chromebook sales surged in Q2 thanks to Japanese schools
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Tablets have also been growing for six straight quarters, says Canalys</h4> <p>Chromebook demand surged in the second quarter of 2025, Canalys reported Tuesday, but that doesn&#39;t necessarily mean permanent growth is on the horizon. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/canalys_reports_revitalization_of_chromebook/>
+
+---
+
+## Patch now: Millions of Dell PCs with Broadcom chips vulnerable to attack
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Psst, wanna steal someone&#39;s biometrics?</h4> <p><strong>black hat</strong>  Critical security flaws in Broadcom chips used in more than 100 models of Dell computers could allow attackers to take over tens of millions of users&#39; devices, steal passwords, and access sensitive data, including fingerprint information, according to Cisco Talos.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/millions_of_dell_pc_with/>
+
+---
+
+## See the Faces of Two Sisters Who Toiled Away in a Neolithic Mine 6,000 Years Ago
+
+date: 2025-08-05, from: Smithsonian Magazine
+
+Archaeologists created 3D reconstructions of the women's faces based on an analysis of their teeth and bones. Found in the Czech Republic, the siblings "did not have an easy life," the new research suggests 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-faces-of-two-sisters-who-toiled-away-in-a-neoithic-mine-6000-years-ago-180987103/>
+
+---
+
+## Three US agencies get failing grades for not following IT best practices
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>CIOs at the EPA, DHS, and GSA are called out for failure to implement critical cybersecurity recommendations</h4> <p>The Government Accountability Office (GAO) scolded a trio of federal agencies on Monday because their CIOs haven&#39;t implemented IT-related recommendations designed to safeguard national cybersecurity. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/epa_dhs_gsa_get_failing_grades/>
+
+---
+
+## Officials Discover Radioactive Wasp Nests at Facility That Once Produced Parts of Nuclear Weapons in South Carolina
+
+date: 2025-08-05, from: Smithsonian Magazine
+
+A report from the Department of Energy says the finding did not impact other activities and operations 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/officials-discover-radioactive-wasp-nests-at-facility-that-once-produced-parts-of-nuclear-weapons-in-south-carolina-180987099/>
+
+---
+
+## Study finds humans not completely useless at malware detection
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Some pinpointed software nasties but were suspicious of printer drivers too</h4> <p>Researchers from the Universities of Guelph and Waterloo have discovered exactly how users decide whether an application is legitimate or malware before installing it – and the good news is they&#39;re better than you might expect, at least when primed to expect malware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/human_malware_detection/>
+
+---
+
+## What is NASA’s Distributed Spacecraft Autonomy?
+
+date: 2025-08-05, from: NASA breaking news
+
+Software designed to give spacecraft more autonomy could support a future where swarms of satellites navigate and complete scientific objectives with limited human intervention. Astronauts living and working on the Moon and Mars will rely on satellites to provide services like navigation, weather, and communications relays. While managing complex missions, automating satellite communications will allow [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/what-is-nasas-distributed-spacecraft-autonomy/>
+
+---
+
+## JetBrains previews Kineto for vibe no-coding
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Tools vendor targets &#39;creators who&#39;ve never coded&#39; but devs will be wary</h4> <p>IDE and developer tools vendor JetBrains has released a private preview of Kineto, an AI-driven no-code platform for creators and small businesses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/jetbrains_kineto/>
+
+---
+
+## NICER Status Updates
+
+date: 2025-08-05, from: NASA breaking news
+
+August 5, 2025 Science Observations Remain Paused for NASA’s NICER Telescope Science operations by NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, remain paused as the team continues to evaluate the telescope’s systems after an issue developed with one of its motors. The motor is unable to move [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/nicer-status-updates/>
+
+---
+
+## Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading
+
+date: 2025-08-05, from: NASA breaking news
+
+Second Lady Usha Vance and NASA astronaut Suni Williams listen to the audience in this image from Aug. 4, 2025. Ms. Vance joined Williams at NASA’s Johnson Space Center in Houston for a summer reading challenge event, through which the Second Lady encourages youth to seek adventure, imagination, and discovery between the pages of a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/second-lady-usha-vance-nasa-astronaut-suni-williams-celebrate-reading/>
+
+---
+
+## John Williams, the Famous Composer Known for 'Jaws' and 'Star Wars,' Debuts First Piano Concerto at Age 93
+
+date: 2025-08-05, from: Smithsonian Magazine
+
+The renowned composer has scored many of the most famous films of our time. But until this summer, he had never attempted a concerto for piano 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/john-williams-the-famous-composer-known-for-jaws-and-star-wars-debuts-first-piano-concerto-at-age-93-180987104/>
+
+---
+
+## NetBSD 11 prepares for launch with 57 supported platforms
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>New version season is near, and some of the big names are dropping x86-32 – but not this one</h4> <p>NetBSD 11 is taking shape and the code branch for the new release has been created.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/netbsd_11_is_near/>
+
+---
+
+## Chained bugs in Nvidia's Triton Inference Server lead to full system compromise
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Wiz Research details flaws in Python backend that expose AI models and enable remote code execution</h4> <p>Security researchers have lifted the lid on a chain of high-severity vulnerabilities that could lead to remote code execution (RCE) on Nvidia&#39;s Triton Inference Server.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/nvidia_triton_bug_chain/>
+
+---
+
+## Replacing an Amiga’s brain with Doom
+
+date: 2025-08-05, from: OS News
+
+There&#8217;s a lovely device called a&#160;pistorm, an adapter board that glues a Raspberry Pi GPIO bus to a Motorola 68000 bus. The intended use case is that you plug it into a 68000 device and then run an emulator that reads instructions from hardware (ROM or RAM) and emulates them. You&#8217;re still limited by the ~7MHz bus that the hardware is running at, but you can run the instructions as fast as you want. These days you&#8217;re supposed to run a custom built OS on the Pi that just does 68000 emulation, but initially it ran Linux on the Pi and a userland 68000 emulator process. And, well, that got me thinking. The emulator takes 68000 instructions, emulates them, and then talks to the hardware to implement the effects of those instructions. What if we, well, just don&#8217;t? What if we just run all of our code in Linux on an ARM core and then talk to the Amiga hardware? ↫ Matthew Garrett This is so cursed. I love it. 
+
+<br> 
+
+<https://www.osnews.com/story/142983/replacing-an-amigas-brain-with-doom/>
+
+---
+
+## Lunar Trailblazer trails off as NASA loses probe to the void
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Stricken spacecraft gives scientists the silent treatment</h4> <p>NASA has called it quits on attempts to contact its Lunar Trailblazer probe, notching up a failure in its low-cost, high-risk science program.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/lunar_trailblazer_dead/>
 
 ---
 
@@ -145,7 +409,7 @@ date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
 
 date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
 
-<h4>&#39;Plague&#39; malware has been around for months without tripping alarms</h4> <p>Researchers at German infosec services company Nextron Threat have spotted malware that creates a highly-persistent Linux backdoor and say antivirus engines do not flag the code as malicious.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>&#39;Plague&#39; malware has been around for months without tripping alarms</h4> <p><strong>Updated</strong>  Researchers at German infosec services company Nextron Threat have spotted malware that creates a highly-persistent Linux backdoor and said that antivirus engines did not initially flag the code as malicious.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

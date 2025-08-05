@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-05 06:08:28
+updated: 2025-08-05 14:08:19
 ---
 
 # retro computing
 
-(date: 2025-08-05 06:08:28)
+(date: 2025-08-05 14:08:19)
+
+---
+
+## Streaming Video in 1994?
+
+date: 2025-08-05, from: RiscOS Open
+
+<p>In 1994, Acorn Computers, through its Online Media division, played a central role in one of the earliest practical demonstrations of video-on-demand over a broadband network. The Cambridge (UK) Digital Interactive Television Trial, developed in collaboration with Anglia Television, Cambridge Cable (now Virgin Media), and Advanced Telecommunication Modules Ltd (<span class="caps">ATML</span>), anticipated many of the features that would later become standard in streaming media.</p> 
+
+<br> 
+
+<https://www.riscosopen.org/news/articles/2025/08/05/streaming-video-in-1994>
 
 ---
 

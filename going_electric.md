@@ -1,11 +1,279 @@
 ---
 title: going electric
-updated: 2025-08-05 06:08:28
+updated: 2025-08-05 14:08:20
 ---
 
 # going electric
 
-(date: 2025-08-05 06:08:28)
+(date: 2025-08-05 14:08:20)
+
+---
+
+## California greenlights $56.5M to amp up apartment EV chargers
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/ChargePoint-Multifamily.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>If you live in or develop apartments in California, there’s fresh cash on the table to get Level 2 EV chargers installed. The Communities in Charge project, backed by the California Energy Commission’s Clean Transportation Program, just opened a new funding lane worth up to $56.5 million for multi-family housing and nearby spots where tenants can plug in.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,ev-chargers,ev-charging" data-layer-viewtype="unknown" data-post-id="428434" href="https://electrek.co/2025/08/05/california-greenlights-56-5m-to-amp-up-apartment-ev-chargers/#more-428434" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/california-greenlights-56-5m-to-amp-up-apartment-ev-chargers/>
+
+---
+
+## Tesla's Latest Patent Sucks
+
+date: 2025-08-05, from: Inside EVs News
+
+To the road, that is, thanks to a new-school twist on old racing tech. 
+
+<br> 
+
+<https://insideevs.com/news/768084/tesla-roadster-fan-car-patent/>
+
+---
+
+## Rivian (RIVN) Q2 2025 report: Limited R1 production doesn’t slow deliveries, R2 remains on track
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Rivian-headquarters-Georgia.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian just posted its more recent letter to shareholders outlining its progress and financial numbers from Q2 2025. We have already covered much of <a href="https://electrek.co/guides/rivian/">Rivian’s</a> Q2 achievements outlined in the letter. However, we have gained a clearer understanding of where the American automaker stands on production numbers, revenue, and gross profit through half the year as it continues to gear up for the start of R2 production next year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="428399" href="https://electrek.co/2025/08/05/rivian-rivn-q2-2025-report-limited-r1-production-deliveries-r2-on-track/#more-428399" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/rivian-rivn-q2-2025-report-limited-r1-production-deliveries-r2-on-track/>
+
+---
+
+## Tesla cars can now do vehicle-to-home (V2X) with this new Powerwall competitor
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Tesla-Model-Y-bidirectional-charger-1.png?w=1600" /></div><p>All Tesla vehicles are now capable of bidirectional charging (V2X) thanks to an impressive Powerwall competitor, Sigenergy, which can include a universal bidirectional DC charger.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="sigenergy,tesla" data-layer-viewtype="unknown" data-post-id="428379" href="https://electrek.co/2025/08/05/tesla-cars-can-now-do-vehicle-to-home-v2x-with-this-new-powerwall-competitor/#more-428379" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/tesla-cars-can-now-do-vehicle-to-home-v2x-with-this-new-powerwall-competitor/>
+
+---
+
+## The Genesis G80 Electrified Is Officially Dead For 2025
+
+date: 2025-08-05, from: Inside EVs News
+
+After the car was quietly removed from the Genesis website, the brand confirmed to us that the model is canceled.  
+
+<br> 
+
+<https://insideevs.com/news/768056/g80-electrified-dead-genesis-2025/>
+
+---
+
+## Anker Summer Power Sale C800 station lows from $349, Ride1Up PRODIGY V2 e-bike hits $1,995, Camplux water heaters, more
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Anker-SOLIX-Summer-Power-Sale-FI.png?w=1600" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/08/05/anker-summer-power-sale-from-349/">Anker’s Summer Power Sale</a> that is taking up to 55% off its backup power solution lineup, with plenty of continuing prices from its Prime Day event, like the returning lows on the <a href="https://9to5toys.com/2025/08/05/anker-summer-power-sale-from-349/">SOLIX C800 Power Station at $349</a> and the <a href="https://9to5toys.com/2025/08/05/anker-summer-power-sale-from-349/">SOLIX C800 Plus Power Station at $399</a>, among many others. We also spotted Ride1Up dropping prices lower than we’ve seen this year on select e-bikes like the <a href="https://9to5toys.com/2025/08/04/ride1up-prodigy-v2-e-bike-1995-more/">PRODIGY V2 Mid-Drive 9-Speed e-bike now at $1,995</a>, as well as <a href="https://9to5toys.com/2025/08/05/camplux-under-sink-electric-water-heaters-from-134/">Camplux taking up to 27% off a lineup of electric water heaters</a> to their best prices of the year starting <a href="https://9to5toys.com/2025/08/05/camplux-under-sink-electric-water-heaters-from-134/">from $134</a>. There’s also EGO’s Nexus Escape 180W 3-port Inverter, Worx’s Nitro 40V 16-inch Cordless Intellicut Lawn Mower, and more waiting for you below. Plus, all the hangover savings are at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/08/04/ecoflow-power-station-august-home-backup-sale-from-179/">EcoFlow August Home Backup Sale</a> with bonus savings and free gifts, as well as the increased bundle savings on <a href="https://9to5toys.com/2025/08/04/lectric-one-e-bike-319-bundle-2399/">Lectric’s ONE e-bike</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="428387" href="https://electrek.co/2025/08/05/anker-solix-summer-power-sale-ride1up-camplux-more/#more-428387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/anker-solix-summer-power-sale-ride1up-camplux-more/>
+
+---
+
+## I Gave the Tesla Diner A Chance. You Should Too
+
+date: 2025-08-05, from: Inside EVs News
+
+Once you get past the hype and controversy, you realize Tesla Diner is something useful—a much-needed fast-charging station in the heart of LA. 
+
+<br> 
+
+<https://insideevs.com/news/768066/tesla-diner-review/>
+
+---
+
+## The new MG4 EV starts at just $10,000, but a semi-solid-state battery option is coming soon
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/New-MG4-semi-solid-state-EV-battery.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>SAIC Motor opened pre-sales for the new MG4 EV, starting at just over $10,000 in China. The Chinese automaker confirmed a new MG4 model, powered by a <a href="https://electrek.co/guides/solid-state-batteries/">semi-solid-state battery</a>, is set to launch next month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="saic-motor,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="428373" href="https://electrek.co/2025/08/05/new-mg4-ev-starts-at-10k-with-semi-solid-state-battery-coming/#more-428373" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/new-mg4-ev-starts-at-10k-with-semi-solid-state-battery-coming/>
+
+---
+
+## California Is Kicking Its EV Charger Plans Into High Gear
+
+date: 2025-08-05, from: Inside EVs News
+
+California has North America’s best EV charging network. Now it’s expanding that lead, with millions more for public fast charging. 
+
+<br> 
+
+<https://insideevs.com/news/768053/california-ev-charging-funding-millions/>
+
+---
+
+## Rivian, Lucid And Slate Face A Tough Road Ahead
+
+date: 2025-08-05, from: Inside EVs News
+
+Tariffs, and a loss of tax credits, mean uncertainty for the EV startups. Plus, Hyundai prioritizes Europe for EVs as U.S. subsidies fade. 
+
+<br> 
+
+<https://insideevs.com/news/767977/rivian-slate-lucid-tax-credit/>
+
+---
+
+## Electric bikes might just be the healthiest thing to ever happen to teenagers
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/velotric-discover-2-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’re long past the point where electric bikes were seen as just a trend. At this stage, they’re clearly transforming the way we get around. And perhaps nowhere is that transformation more impactful than among America’s youth. In fact, it’s not a stretch to say that electric bikes might be the healthiest thing to happen to American teens in a generation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="427561" href="https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/#more-427561" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/electric-bikes-might-just-be-the-healthiest-thing-to-ever-happen-to-teenagers/>
+
+---
+
+## The Nissan Micra EV starts at just over $30,000 and has more range than expected
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Nissan-Micra-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Nissan Micra is back, and it’s gone all-electric. <a href="https://electrek.co/guides/nissan/">Nissan</a> announced that prices for the new Micra EV will start at £22,995, or just over $30,000, in the UK. It also has a longer driving range than initially expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="428350" href="https://electrek.co/2025/08/05/nissan-reveals-micra-ev-prices-start-at-30000-with-more-range/#more-428350" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/nissan-reveals-micra-ev-prices-start-at-30000-with-more-range/>
+
+---
+
+## Tesla sales in Europe are in free fall and the pain is just starting
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Tesla-sales-Europe-2025-ytd.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Tesla sales in Europe are continuing to decline rapidly, and it appears the pain is just beginning for the automaker.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="428319" href="https://electrek.co/2025/08/05/tesla-sales-in-europe-are-in-free-fall-and-the-pain-is-just-starting/#more-428319" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/tesla-sales-in-europe-are-in-free-fall-and-the-pain-is-just-starting/>
+
+---
+
+## The Affordable Hyundai Ioniq 2 Is Coming In September
+
+date: 2025-08-05, from: Inside EVs News
+
+A smaller, more affordable Hyundai EV will be revealed soon for Europe. Does it have a shot anywhere else in the world? 
+
+<br> 
+
+<https://insideevs.com/news/768046/hyundai-ioniq-2-iaa-munich/>
+
+---
+
+## World record alert: 2026 Chevy Silverado EV Work Truck drove 1,060 miles on a single charge
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/EV-world-record-Chevy-Silverado-Work-Truck.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Move over, Lucid. There’s a new world record holder in EV range. Engineers at <a href="https://electrek.co/guides/gm/">General Motors</a> recently took a minimally modified version of the 2026 Chevrolet Silverado EV Work Truck out on a real-world test and traveled a total distance of 1,059.2 miles from a single charge.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-silverado-ev,gm,world-record" data-layer-viewtype="unknown" data-post-id="428171" href="https://electrek.co/2025/08/05/world-record-2026-chevy-silverado-ev-work-truck-1060-miles-single-charge/#more-428171" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/world-record-2026-chevy-silverado-ev-work-truck-1060-miles-single-charge/>
+
+---
+
+## A Chevy Silverado EV Drove Over 1,000 Miles on a Single Charge With Simple DIY Tricks
+
+date: 2025-08-05, from: Inside EVs News
+
+GM engineers say they broke the world record for range in an electric vehicle. Anybody can repeat their tricks for pulling this off. 
+
+<br> 
+
+<https://insideevs.com/news/767992/chevrolet-silverado-ev-range-record/>
+
+---
+
+## Meet Hyundai’s smallest EVs yet: The E3W and E4W
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Hyundai-E3W-E4W-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s thinking small, but aiming big. The E3W and E4W concepts, an electric tuk-tuk and mini four-wheeler, are <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> smallest EVs yet, but they could be a surprise hit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="428331" href="https://electrek.co/2025/08/05/hyundais-smallest-evs-yet-e3w-e4w/#more-428331" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/hyundais-smallest-evs-yet-e3w-e4w/>
+
+---
+
+## Costco EV Marketplace celebrates milestone with fresh deals [update]
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/11/Volvo-EX90-rear-side.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Costco’s EV Marketplace hopes to guide its members through every step of their electrification journey with helpful articles, insights, and resources. The online resource gas just hit its six-month milestone, and to celebrate, they’re rolling out fresh deals on three new Volvo EVs.</p>
+
+
+
+<p><strong>UPDATE 05AUG2025</strong>: <a href="https://www.carsdirect.com/buildyourcar/style?make=cadillac&amp;model=lyriq&amp;src=1001054&amp;lnk=subID-JO" target="_blank" rel="noreferrer noopener">new Cadillac</a>, 2026MY GM vehicles eligible.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="costco,ev-deals,gm,volvo" data-layer-viewtype="unknown" data-post-id="428068" href="https://electrek.co/2025/08/05/costco-ev-marketplace-celebrates-six-month-milestone-with-fresh-deals/#more-428068" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/costco-ev-marketplace-celebrates-six-month-milestone-with-fresh-deals/>
 
 ---
 

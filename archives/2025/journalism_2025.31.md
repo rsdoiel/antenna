@@ -1,11 +1,63 @@
 ---
 title: journalism
-updated: 2025-08-05 06:08:26
+updated: 2025-08-05 14:08:17
 ---
 
 # journalism
 
-(date: 2025-08-05 06:08:26)
+(date: 2025-08-05 14:08:17)
+
+---
+
+## Book review: ‘Not Quite Dead Yet’ is filled with suspense, heavy exposition
+
+date: 2025-08-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: Minor spoilers ahead.
+&#8220;Not Quite Dead Yet&#8221; leaves the reader in suspense until the end, but is not quite perfect yet.
+The novel, written by Holly Jackson and published July 22, is a thriller adult novel about a victim named Jet Mason who survives an attack but is warned that she will die in seven days due to the wounds. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/05/book-review-not-quite-dead-yet-is-filled-with-suspense-heavy-exposition/>
+
+---
+
+## Ghost makes it easier to publish to the social web
+
+date: 2025-08-05, from: Nieman Journalism Lab
+
+The open-source publishing platform Ghost, which powers the websites and newsletters of many independent news outlets and positions itself as an alternative to Substack and Beehiiv, announced Monday that it’s introducing a number of upgrades aimed at increasing reach and understanding exactly what that reach looks like. In the changelog for Ghost 6.0, the company... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/ghost-makes-it-easier-to-publish-to-the-social-web/>
+
+---
+
+## These public radio stations have built online audiences that’ll help them survive federal cuts
+
+date: 2025-08-05, from: Nieman Journalism Lab
+
+I think you can excuse public radio&#8217;s station managers if web traffic isn&#8217;t quite top of mind these days. Many are too busy fighting for their continued existence. Donald Trump&#8217;s May executive order to defund public media was of dubious legality. He&#8217;d proposed gutting the Corporation for Public Broadcasting in his previous budgets, but Congress... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/these-public-radio-stations-have-built-online-audiences-thatll-help-them-survive-federal-cuts/>
+
+---
+
+## University to end ID scanning at entrances during public hours
+
+date: 2025-08-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Security measures implemented since Spring 2024, such as increased fencing and security guards, will remain.</p>
+<p>The post <a href="https://dailytrojan.com/2025/08/05/university-to-end-id-scanning-at-entrances-during-public-hours/">University to end ID scanning at entrances during public hours</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/08/05/university-to-end-id-scanning-at-entrances-during-public-hours/>
 
 ---
 

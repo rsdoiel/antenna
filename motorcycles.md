@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-08-05 06:08:27
+updated: 2025-08-05 14:08:18
 ---
 
 # motorcycles
 
-(date: 2025-08-05 06:08:27)
+(date: 2025-08-05 14:08:18)
+
+---
+
+## This Retro-Inspired E-Bike Is Living Its Cafe Racer Dreams
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+The Beachman ‘64 may look like a full-on electric motorcycle, but for some reason, it’s technically classified as an e-bike. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767845/beachman-64-specs-features-technology-price/>
 
 ---
 
