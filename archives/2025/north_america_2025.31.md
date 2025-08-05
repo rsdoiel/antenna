@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-08-04 14:09:33
+updated: 2025-08-05 06:08:21
 ---
 
 # north america
 
-(date: 2025-08-04 14:09:33)
+(date: 2025-08-05 06:08:21)
+
+---
+
+## Words & Phrases We Could Do Without
+
+date: 2025-08-05, from: The Contrarian
+
+Who, us? "Not official policy" 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-87e>
+
+---
+
+##  Big Data Is Already Jacking Up Your Airline Fares 
+
+date: 2025-08-05, from: The Lever News
+
+ Despite Delta’s recent denials to lawmakers, the airline and its competitors already work with AI and data companies to increase your ticket costs.  
+
+<br> 
+
+<https://www.levernews.com/big-data-is-already-jacking-up-your-airline-fares/>
+
+---
+
+## Evening Roundup, August 4
+
+date: 2025-08-04, from: The Contrarian
+
+Featuring Jen Rubin and Glenn Kessler; Dan Koh; Carron J. Phillips; "Offsides with Pablo Torre;" Mimi Rocah; Jen Rubin, Tom Malinowsky, & Victoria Nuland; and "Talking Feds" 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-4>
+
+---
+
+## Verifying truth in Trump's America: Glenn Kessler on the art of fact-checking
+
+date: 2025-08-04, from: The Contrarian
+
+"Trump and his administration are trying to squelch efforts on social media to weed out false claims, to just make it a free-for-all where anything goes." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170089548/94180fffa8efb9601c0728b3cd380ac4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170089548/94180fffa8efb9601c0728b3cd380ac4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/verifying-truth-in-trumps-america>
 
 ---
 

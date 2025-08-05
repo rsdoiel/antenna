@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-08-04 14:09:38
+updated: 2025-08-05 06:08:25
 ---
 
 # writing
 
-(date: 2025-08-04 14:09:38)
+(date: 2025-08-05 06:08:25)
+
+---
+
+## “It’s a war of attrition”: 'Slow Horses' Showrunner on Perseverance in Screenwriting
+
+date: 2025-08-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/its-a-war-of-attrition-slow-horses-showrunner-on-perseverance-in-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Gary%20Oldman%20in%20Slow%20Horses%20%282%29.png" alt="Gary Oldman sitting in a cafe talking on his cell phone in Slow Horses" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Before he was the Emmy-winning showrunner behind <em>Slow Horses</em>, the darkly funny and emotionally rich Apple TV+ spy drama, Will Smith tested punchlines on the stand-up comedy circuit in the UK, even opening for Ricky Gervais’s sold-out tour in 2007.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/its-a-war-of-attrition-slow-horses-showrunner-on-perseverance-in-screenwriting>
 
 ---
 

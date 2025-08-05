@@ -1,11 +1,806 @@
 ---
 title: pacific
-updated: 2025-08-04 14:09:34
+updated: 2025-08-05 06:08:23
 ---
 
 # pacific
 
-(date: 2025-08-04 14:09:34)
+(date: 2025-08-05 06:08:23)
+
+---
+
+##  Pacific Elders Voice slams Australia for ‘incoherent’ stance on climate change
+
+date: 2025-08-05, from: Pacific Island Times
+
+While praising the International Court of Justice’s recent advisory opinion on nations’ legal obligations on climate change, PEV slammed the Australian court’s  decision on the Torres Strait Islands case. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-elders-voice-slams-australia-for-incoherent-stance-on-climate-change>
+
+---
+
+## After the audit comes the OPA report. But no one is held accountable for anomalous decisions
+
+date: 2025-08-05, from: Pacific Island Times
+
+When the Office of Public Accountability issues an audit, it’s not the end of the story. At least, it’s not supposed to be. Each audit report is a deep dive into how public money is being spent and whether agencies are complying with the law. But what happens after those reports are published? Are agencies fixing what’s broken? Is anyone held accountable when they don’t? 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/after-the-audit-comes-the-opa-report-but-no-one-is-held-accountable-for-anomalous-decisions>
+
+---
+
+## How Gov. Palacios’ death recasts the Northern Marianas’ political terrain
+
+date: 2025-08-05, from: Pacific Island Times
+
+David Apatang was sworn in by Chief Justice Alexandro C. Castro as the CNMI's new governor on  July 24, 2025 at the Governor's Office... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/how-gov-palacios-death-recasts-the-northern-marianas-political-terrain>
+
+---
+
+## Trial set in long-delayed murder, attempted murder case
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>Trial has been set for a 35-year-old Mountain View man accused of killing a security guard in Hilo during a crime spree almost five years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/hawaii-news/trial-set-in-long-delayed-murder-attempted-murder-case/>
+
+---
+
+## How tariffs raise costs for farmers, making food more expensive
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>American farmers, ranchers and agricultural industry experts are still sorting through what increased tariffs on dozens of countries will mean for both U.S. farm products and consumers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/how-tariffs-raise-costs-for-farmers-making-food-more-expensive/>
+
+---
+
+## Hilo woman accused of Waiakea Uka crime spree
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>A judge has maintained bail at $143,000 for a 45-year-old Hilo woman accused of a crime spree last week in the Waiakea Uka neighborhood.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/hawaii-news/hilo-woman-accused-of-waiakea-uka-crime-spree/>
+
+---
+
+## Last soldiers of an imperial army have a warning for young generations
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>MATSUYAMA, Japan &#8212; Kunshiro Kiyozumi is a small man with gray hair and a stooped back who lives alone and still pedals his bicycle to the supermarket. At 97, he cuts an unprepossessing figure to the younger shoppers busy texting while filling their carts, unaware that his life contains a dramatic story shaped by history&#8217;s deadliest war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/last-soldiers-of-an-imperial-army-have-a-warning-for-young-generations/>
+
+---
+
+## Trump’s demand to trading partners: Pledge money or get higher tariffs
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s tariff threats have turned into a play for cold, hard cash as he tries to leverage U.S. economic power to cajole other nations to make multibillion-dollar investments in order to maintain access to America&#8217;s market.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/trumps-demand-to-trading-partners-pledge-money-or-get-higher-tariffs/>
+
+---
+
+## Brazil’s Bolsonaro arrested, adding to tensions with Trump
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>BRASILIA &#8212; Brazil&#8217;s Supreme Court put former President Jair Bolsonaro under house arrest on Monday ahead of his trial for an alleged coup plot, underscoring the court&#8217;s resolve despite escalating tariffs and sanctions from U.S. President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/brazils-bolsonaro-arrested-adding-to-tensions-with-trump/>
+
+---
+
+## Russia says it will stop abiding by missile treaty
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; Russia will no longer abide by a defunct treaty prohibiting the deployment of intermediate-range missiles, the country&#8217;s Foreign Ministry announced Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/russia-says-it-will-stop-abiding-by-missile-treaty/>
+
+---
+
+## News in brief for August 5
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>Florida reports 21 cases of E.coli infections linked to raw milk</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/news-in-brief-for-august-5/>
+
+---
+
+## Gifford fire burns 65,000 acres in California’s Los Padres forest
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>The Gifford fire had burned 65,000 acres by early Monday, scorching through part of Los Padres National Forest in south-central California and putting hundreds of people under evacuation orders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/gifford-fire-burns-65000-acres-in-californias-los-padres-forest/>
+
+---
+
+## US could require up to $15,000 bonds for some tourist visas under pilot program
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. could require bonds of up to $15,000 for some tourist and business visas under a pilot program launching in two weeks, a government notice said on Monday, an effort that aims to crack down on visitors who overstay their visas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/us-could-require-up-to-15000-bonds-for-some-tourist-visas-under-pilot-program/>
+
+---
+
+## US DOJ to open grand jury probe into Obama officials, source says
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Attorney General Pam Bondi has directed federal prosecutors to launch a grand jury probe into allegations that members of Democratic former President Barack Obama&#8217;s administration manufactured intelligence on Russia&#8217;s interference in the 2016 elections, a source familiar with the matter said on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/us-doj-to-open-grand-jury-probe-into-obama-officials-source-says/>
+
+---
+
+## Pets end up in LA shelters after owners detained in immigration raids
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>LANCASTER/DOWNEY, Calif. &#8212; Los Angeles County has a new task taking care of dogs and cats after their owners were detained or deported in immigration raids that picked up this summer under the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/pets-end-up-in-la-shelters-after-owners-detained-in-immigration-raids/>
+
+---
+
+## Statue of Confederate general Albert Pike to be reinstalled in Washington
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A statue of Confederate General Albert Pike, which was overturned in 2020 during the &#8220;Black Lives Matter&#8221; protests after George Floyd&#8217;s murder, will be reinstalled in Washington, the National Park Service said on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/statue-of-confederate-general-albert-pike-to-be-reinstalled-in-washington/>
+
+---
+
+## Nancy Mace announces run for governor of South Carolina
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>Rep. Nancy Mace, once a moderate Republican who made a full-bore turn to Trumpism, announced Monday that she would enter the crowded 2026 contest for governor of South Carolina.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/nation-world-news/nancy-mace-announces-run-for-governor-of-south-carolina/>
+
+---
+
+## Hold the mayo: A potato salad recipe that’s perfect for picnics
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>Potato salad, a signature summer dish, is defined by its maker. My grandmother&#8217;s salad was substantially swathed in mayo, while a German aunt crowned hers with crisped bacon and plenty of dill. My neighbor tosses in olives, tomatoes and peppers for a light, bright Italian twist.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/features/hold-the-mayo-a-potato-salad-recipe-thats-perfect-for-picnics/>
+
+---
+
+## Let’s Talk Food: Raspberries are now in season
+
+date: 2025-08-05, from: Hawaii Tribune Harold
+
+
+				<p>I was so excited to harvest my first raspberries, even if there were only four berries! They are ready for picking when their color is a deep, vibrant red color and they easily detach from the stem with just a gentle tug. When you do that, you will leave the white core behind.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/05/features/lets-talk-food-raspberries-are-now-in-season/>
+
+---
+
+## Filamore Palomo Alcon and his canvas called Guam
+
+date: 2025-08-05, from: Pacific Island Times
+
+Filamore Palomo Alcon knew the power of beginnings. Born on Jan. 13, 1952, Fil grew up in Piti.   
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/filamore-palomo-alcon-and-his-canvas-called-guam>
+
+---
+
+## Guam's business sector urges governor to convene procurement advisory panel 
+
+date: 2025-08-05, from: Pacific Island Times
+
+Guam’s business community has urged Gov. Lou Leon Guerrero to empanel and convene the Procurement Advisory Council to guide and oversee government procurements and ensure all agencies comply with related laws. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-business-sector-urges-governor-to-convene-procurement-advisory-panel>
+
+---
+
+## Five Contestants : Historic First Dil-Belau Pageant
+
+date: 2025-08-05, from: Island Times
+
+<p>The post <a href="https://islandtimes.org/five-contestants-historic-first-dil-belau-pageant/">Five Contestants : Historic First Dil-Belau Pageant</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/five-contestants-historic-first-dil-belau-pageant/>
+
+---
+
+## NSCO includes more names on the undesirable alien list
+
+date: 2025-08-05, from: Island Times
+
+<p>By: Bernadette Carreon: The National Security Coordinator Office (NSCO) reported that it included at least 12 high-profile deportations and entry denials to the undesirable alien list between January and June 2025. According to a June 24 NSCO feedback report obtained by Island Times, high-profile individuals added to the Undesirable Alien list included Cary Yan and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nsco-includes-more-names-on-the-undesirable-alien-list/">NSCO includes more names on the undesirable alien list </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/nsco-includes-more-names-on-the-undesirable-alien-list/>
+
+---
+
+## Special Prosecutor error forces dismissal of $87K theft case
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="579" height="342" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?w=579&amp;ssl=1 579w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79362" data-permalink="https://islandtimes.org/special-prosecutor-error-forces-dismissal-of-87k-theft-case/rengulbai-hurtler/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" data-orig-size="579,342" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rengulbai hurtler" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (August 4, 2025) — A criminal case against Clarence Sriderio Rengulbai, former chairman of the Aimeliik State Public Lands Authority (AIMSPLA), was dismissed without prejudice last month after the Special Prosecutor admitted to a procedural error related to the defendant’s right to a speedy trial. Special Prosecutor Tamara D. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/special-prosecutor-error-forces-dismissal-of-87k-theft-case/">Special Prosecutor error forces dismissal of $87K theft case</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/special-prosecutor-error-forces-dismissal-of-87k-theft-case/>
+
+---
+
+## Palauan’s weigh impact of goods and Services Tax two years in
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="1024" height="876" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?fit=1024%2C876&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?w=1524&amp;ssl=1 1524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=300%2C257&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=1024%2C876&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=768%2C657&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=1200%2C1027&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=780%2C667&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=400%2C342&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?resize=706%2C604&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?fit=1024%2C876&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79340" data-permalink="https://islandtimes.org/palauans-weigh-impact-of-goods-and-services-tax-two-years-in/img-20250802-wa0000/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?fit=1524%2C1304&amp;ssl=1" data-orig-size="1524,1304" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG-20250802-WA0000" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?fit=300%2C257&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG-20250802-WA0000.jpg?fit=780%2C667&amp;ssl=1" /></figure>
+<p>Small Businesses Adjust, Retirees Struggle Under PGST Burden By: Laurel Marewibuel Koror, Palau — More than two years after the Palau Goods and Services Tax (PGST) took effect, citizens across different sectors are offering mixed reactions, revealing a growing divide between small business owners and retirees over who shoulders the real burden. A young female [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-weigh-impact-of-goods-and-services-tax-two-years-in/">Palauan’s weigh impact of goods and Services Tax two years in</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauans-weigh-impact-of-goods-and-services-tax-two-years-in/>
+
+---
+
+## Two men sentenced in Methamphetamine Cases under Plea Agreements
+
+date: 2025-08-05, from: Island Times
+
+<p>KOROR, Palau (Aug. 4, 2025) — The Supreme Court of Palau has sentenced two men to prison in separate criminal cases involving the possession of methamphetamine, following guilty pleas reached through plea agreements with the government. In Criminal Case No. 25-021, defendant Horseley Saka pled guilty to one count of possession of a controlled substance [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/two-men-sentenced-in-methamphetamine-cases-under-plea-agreements/">Two men sentenced in Methamphetamine Cases under Plea Agreements</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/two-men-sentenced-in-methamphetamine-cases-under-plea-agreements/>
+
+---
+
+## Palau’s National Congress pays tribute to late CNMI Governor Arnold Palacios
+
+date: 2025-08-05, from: Island Times
+
+<p>NGERULMUD, Palau — Members of Palau’s National Congress, both the House of Delegates and the Senate, expressed their heartfelt condolences to the family of the late Governor Arnold Indalecio Palacios and the people of the Commonwealth of the Northern Mariana Islands (CNMI) in a joint resolution passed on July 31. House Joint Resolution No. 12-11-3, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-national-congress-pays-tribute-to-late-cnmi-governor-arnold-palacios/">Palau’s National Congress pays tribute to late CNMI Governor Arnold Palacios</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-national-congress-pays-tribute-to-late-cnmi-governor-arnold-palacios/>
+
+---
+
+## Palau, US Coast Guard partners for joint maritime patrol
+
+date: 2025-08-05, from: Island Times
+
+<p>By: Bernadette Carreon Palau has partnered with the U.S. Coast Guard during a recent 300-hour joint operation that targeted illegal fishing activities across Pacific waters. According to the Defense Visual Information Distribution Service ( DVIDS) website, two officers from Palau&#8217;s Division of Marine Law participated directly in the operation aboard the U.S. Coast Guard cutter [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-us-coast-guard-partners-for-joint-maritime-patrol/">Palau, US Coast Guard partners for joint maritime patrol</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-us-coast-guard-partners-for-joint-maritime-patrol/>
+
+---
+
+## Japanese officials Appeal to Palau for expansion of Fishing Zone
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="1024" height="524" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1024%2C524&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=1024%2C524&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=768%2C393&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=1200%2C614&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=780%2C399&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=400%2C205&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=706%2C361&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1024%2C524&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79358" data-permalink="https://islandtimes.org/japanese-officials-appeal-to-palau-for-expansion-of-fishing-zone/japanese-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1249%2C639&amp;ssl=1" data-orig-size="1249,639" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japanese" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=780%2C399&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (Aug. 3, 2025) — Representatives of Japan’s fishing industry, led by Okinawan tuna fleets, are urging Palau to expand its Domestic Fishing Zone from 20% to 50% of the country&#8217;s Exclusive Economic Zone (EEZ) to sustain ongoing operations amid rising costs and regulatory challenges. In a luncheon hosted yesterday [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japanese-officials-appeal-to-palau-for-expansion-of-fishing-zone/">Japanese officials Appeal to Palau for expansion of Fishing Zone</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japanese-officials-appeal-to-palau-for-expansion-of-fishing-zone/>
+
+---
+
+## Renee Sherman honored for Transformative Impact in Palau Classrooms
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="600" height="781" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?resize=230%2C300&amp;ssl=1 230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?resize=400%2C521&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79350" data-permalink="https://islandtimes.org/renee-sherman-honored-for-transformative-impact-in-palau-classrooms/attachment/1000019930/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" data-orig-size="600,781" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1000019930" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=230%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" /></figure>
+<p>By: Summer Kennard Koror, Palau – Renee Sherman, a 15-year veteran at Airai Elementary School, has been named the 2025 Palau National Teacher of the Year, honored for her dedication to academic excellence, leadership, and deep commitment to her students and community. Sherman, a 4th-grade homeroom teacher, teaches social studies and science to 3rd through [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/renee-sherman-honored-for-transformative-impact-in-palau-classrooms/">Renee Sherman honored for Transformative Impact in Palau Classrooms</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/renee-sherman-honored-for-transformative-impact-in-palau-classrooms/>
+
+---
+
+## BNH Authority Transition underway as board moves forward with mandated reforms
+
+date: 2025-08-05, from: Island Times
+
+<p>KOROR, Palau (August 4, 2025) — The Ministry of Health and Human Services (MHHS) has submitted its first official progress report on the transition of Belau National Hospital (BNH) management to the newly established BNH Authority, as mandated by Republic of Palau Public Law (RPPL) 11-16. The June 2025 report, transmitted to Senate President Hokkons [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bnh-authority-transition-underway-as-board-moves-forward-with-mandated-reforms/">BNH Authority Transition underway as board moves forward with mandated reforms</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bnh-authority-transition-underway-as-board-moves-forward-with-mandated-reforms/>
+
+---
+
+## House passes scholarship Reform Bill to Encourage student return, eases repayment rules
+
+date: 2025-08-05, from: Island Times
+
+<p> Measure sent to Senate aims to clarify obligations, offer career support for returning graduates  KOROR, Palau (Aug. 4, 2025) — The House of Delegates has passed House Bill No. 12-9-1, HD1 on third reading, advancing significant changes to Palau’s scholarship law aimed at encouraging students who study abroad to return and work in the Republic, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/house-passes-scholarship-reform-bill-to-encourage-student-return-eases-repayment-rules/">House passes scholarship Reform Bill to Encourage student return, eases repayment rules</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/house-passes-scholarship-reform-bill-to-encourage-student-return-eases-repayment-rules/>
+
+---
+
+## From Preamble to Practice:
+
+date: 2025-08-05, from: Island Times
+
+<p>A Call for Leadership Rooted in the Constitution “ Dear Editor, In exercising our inherent sovereignty, We the people of Palau proclaim and reaffirm our immemorial right to be supreme in these islands of Palau, our homeland…” These words, etched into the opening lines of Palau’s Constitution, are not poetry for display. They are our [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/from-preamble-to-practice-2/">From Preamble to Practice:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/from-preamble-to-practice-2/>
+
+---
+
+## Need some ‘motherly warmth’? In Japan, you can hire a grandma for as little as $60
+
+date: 2025-08-05, from: Island Times
+
+<p>By Neryssa Azlan and Seena Katayama (ABC-Australia) As a grandmother-for-hire, 69-year-old Taeko Kaji performs a variety of tasks — from cleaning to cooking to giving life advice. &#8220;I never get bored,&#8221; the Tokyo resident told the ABC. &#8220;I get to go out and have these experiences and that&#8217;s why taking this job was the right [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/need-some-motherly-warmth-in-japan-you-can-hire-a-grandma-for-as-little-as-60/">Need some &#8216;motherly warmth&#8217;? In Japan, you can hire a grandma for as little as $60</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/need-some-motherly-warmth-in-japan-you-can-hire-a-grandma-for-as-little-as-60/>
+
+---
+
+## Airai Marina upgrades with help from New Zealand, becomes Regional Hub for boaters
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79327" data-permalink="https://islandtimes.org/airai-marina-upgrades-with-help-from-new-zealand-becomes-regional-hub-for-boaters/img_0957/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_0957" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Project transforms Airai Marina into hub for local and regional boaters, fishermen By: Summer Kennard KOROR, Palau — A newly completed floating dock in Ngetkib, Airai State is bringing safer and more accessible maritime access to the community, thanks to a grant from New Zealand’s North Pacific Development Fund. The project, spearheaded by the Ngara [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/airai-marina-upgrades-with-help-from-new-zealand-becomes-regional-hub-for-boaters/">Airai Marina upgrades with help from New Zealand, becomes Regional Hub for boaters</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/airai-marina-upgrades-with-help-from-new-zealand-becomes-regional-hub-for-boaters/>
+
+---
+
+## From Preamble to Practice
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
+<p>A Call for Leadership Rooted in the Constitution Dear Editor, “In exercising our inherent sovereignty, We the people of Palau proclaim and reaffirm our immemorial right to be supreme in these islands of Palau, our homeland…” These words, etched into the opening lines of Palau’s Constitution, are not poetry for display. They are our political [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/from-preamble-to-practice/">From Preamble to Practice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/from-preamble-to-practice/>
+
+---
+
+## Focus and Integrity
+
+date: 2025-08-05, from: Island Times
+
+<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
+<p>Why I Choose to Stand with the Oppressed Beyond the Headlines” Dear Editor, In recent months, as the war in Gaza has intensified and the death toll surpasses 60,000 lives, most of them women and children, the world watches in horror. The destruction is biblical in scale, but so is the silence of many nations. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/focus-and-integrity/">Focus and Integrity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/focus-and-integrity/>
+
+---
+
+## Big ocean: ICJ advisory opinion and marine boundaries
+
+date: 2025-08-05, from: Island Times
+
+<p>How the recent ICJ advisory opinion provides certainty on marine boundaries for Small Island States facing climate impacts and sea level rise—and may be transformative for sustainable ocean development and investment. By Angelique Pouponneau and Eliza Northrop SYDNEY (UNSW SYDNEY) &#8212;The recent International Court of Justice (ICJ) advisory opinion, represented a significant moment for Small [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/big-ocean-icj-advisory-opinion-and-marine-boundaries/">Big ocean: ICJ advisory opinion and marine boundaries</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/big-ocean-icj-advisory-opinion-and-marine-boundaries/>
+
+---
+
+## Massive cocaine and meth haul seized on yacht in French Polynesia worth €331 million
+
+date: 2025-08-05, from: Island Times
+
+<p>PAPE&#8217;ETE, (RNZ PACIFIC)&#8211;Authorities in French Polynesia are claiming another &#8220;historic&#8221; drug haul for a total €331 million(US$383 million) street value. The catch initially took place on 14 July in Nuku Hiva (Marquesas Islands, about 1,400km North of Tahiti), aboard a transiting sailboat travelling from Mexico and believed to be headed to Australia via the Kingdom [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/massive-cocaine-and-meth-haul-seized-on-yacht-in-french-polynesia-worth-e331-million/">Massive cocaine and meth haul seized on yacht in French Polynesia worth €331 million</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/massive-cocaine-and-meth-haul-seized-on-yacht-in-french-polynesia-worth-e331-million/>
+
+---
+
+## Marshall Islands President warns of threat to Pacific Islands Forum unity
+
+date: 2025-08-05, from: 
+
+"I believe firmly that the Forum belongs to its members, not countries that are non-members," the Marshall Islands President says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569074/marshall-islands-president-warns-of-threat-to-pacific-islands-forum-unity>
+
+---
+
+## Corned beef conundrum: Thefts see Pacific staple moved behind the counter
+
+date: 2025-08-05, from: 
+
+"It should be there ready for them to access without feeling whakaama about having to ask for it," one woman said. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569001/corned-beef-conundrum-thefts-see-pacific-staple-moved-behind-the-counter>
+
+---
+
+## Fiji's anti-corruption watchdog charges top prosecutor, initiates extradition proceedings
+
+date: 2025-08-05, from: 
+
+New Zealand citizen Christopher Pryde says he is "dismayed" at FICAC's decision "to charge me in absentia". He claims there is a concerted effort to keep him out of Fiji. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569061/fiji-s-anti-corruption-watchdog-charges-top-prosecutor-initiates-extradition-proceedings>
+
+---
+
+## Fiji PM Rabuka promotes scandal-hit MP Lynda Tabuya as Information Minister
+
+date: 2025-08-05, from: 
+
+The Fijian PM made another u-turn and promoted Lynda Tabuya as Information Minister months after dismissing her for appearing in an explicit private video dancing naked. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569043/fiji-pm-rabuka-promotes-scandal-hit-mp-lynda-tabuya-as-information-minister>
+
+---
+
+## Mahalo Chancellor Benham for your dedicated leadership
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>&#8220;Maenette's leadership, rooted in aloha, <span aria-label="haahaa">ha&#699;aha&#699;a</span> (humility) and community, has fostered strong relationships across the 10-campus <abbr>UH</abbr> System, state and Pacific region.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/mahalo-chancellor-benham/">Mahalo Chancellor Benham for your dedicated leadership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/mahalo-chancellor-benham/>
+
+---
+
+## Chancellor Benham to step down from UH West Oʻahu
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>Maenette K. P. Ah Nee-Benham will step down at the end of the year after anchoring the campus in a culture of engaged scholarship and service rooted in Native Hawaiian values.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/chancellor-benham-to-step-down-from-uhwo/">Chancellor Benham to step down from <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/chancellor-benham-to-step-down-from-uhwo/>
+
+---
+
+## German family Nauru's first ‘climate citizens’ under investment program
+
+date: 2025-08-05, from: Pacific Island Times
+
+
+
+Also called “The Island of Happiness, Nauru is the third smallest country in the world by size and known for its phosphate mining and industry, as well as its focus on emerging sectors such as offshore banking. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/german-family-nauru-s-first-climate-citizens-under-investment-program>
+
+---
+
+## Pasifika Sipoti in brief for 5 August
+
+date: 2025-08-05, from: 
+
+A round-up of sports news from around the region, including Pasifika players named in the All Blacks' Rugby Championship squad. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569049/pasifika-sipoti-in-brief-for-5-august>
+
+---
+
+## Four confirmed and one probable dengue-related death in Samoa
+
+date: 2025-08-05, from: 
+
+The Samoan government says more than 5600 clinically diagnosed dengue cases have been recorded since January. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569046/four-confirmed-and-one-probable-dengue-related-death-in-samoa>
+
+---
+
+## UH medical school leader named to national medical education committee
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>Lee Buenconsejo-Lum joins a national committee shaping the future of medical school accreditation standards.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/buenconsejo-lum-med-ed-committee/"><abbr>UH</abbr> medical school leader named to national medical education committee</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/buenconsejo-lum-med-ed-committee/>
+
+---
+
+## Hawaiʻi to Kagoshima: A life-changing summer in Japan for rising UH Mānoa freshmen
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p>The students spent 11 days in Kagoshima engaging in academic and cultural classes, activities and experiences.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/manoa-academy-kagoshima/">Hawaiʻi to Kagoshima: A life-changing summer in Japan for rising <abbr>UH</abbr> Mānoa freshmen</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/manoa-academy-kagoshima/>
+
+---
+
+## Grove Farm, Iris Viacrusis, Bob Sigall Home is Here
+
+date: 2025-08-04, from: Home is Here
+
+<p>Grove Farm Museum in Līhuʻe, Kauaʻi; Designer Iris Viacrusis, “Rearview Mirror” columnist Bob Sigall.</p>
+<p>The post <a href="https://www.pbshawaii.org/grove-farm-iris-viacrusis-bob-sigall-home-is-here/">Grove Farm, Iris Viacrusis, Bob Sigall &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/grove-farm-iris-viacrusis-bob-sigall-home-is-here/>
+
+---
+
+## Tsunami warning puts focus on Waikīkī evacuation plan modeled by UH
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p>The findings revealed that without changes to infrastructure or improvements in early alert systems, an estimated 38,760 lives could be lost in a worst-case event.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/tsunami-evacuation-plan-waikiki/">Tsunami warning puts focus on Waikīkī evacuation plan modeled by <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/tsunami-evacuation-plan-waikiki/>
+
+---
+
+## Regent Wilson’s legacy: Aloha and action
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Regent Ernie <span aria-label="Kaaumoana">Ka&#699;aumoana</span> Wilson Jr. ended his term in July 2025 after serving on the <abbr>BOR</abbr> for 10 years.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/regent-wilson-aloha-and-action/">Regent Wilson’s legacy: Aloha and action</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/regent-wilson-aloha-and-action/>
+
+---
+
+## Vulcans women’s volleyball earns AVCA academic award
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo women’s volleyball was honored for their high team <abbr>GPA</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/vulcans-volleyball-avca-academic-award/">Vulcans women’s volleyball earns <abbr>AVCA</abbr> academic award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/vulcans-volleyball-avca-academic-award/>
+
+---
+
+## UH Hilo tennis teams, 8 student-athletes earn academic honors
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p>The Intercollegiate Tennis Association recognized the Vulcans for high <abbr>GPA</abbr>s.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/uh-hilo-ita-tennis-academic-honors/"><abbr>UH</abbr> Hilo tennis teams, 8 student-athletes earn academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/uh-hilo-ita-tennis-academic-honors/>
+
+---
+
+## UH student’s food allergy research wins big at international conference
+
+date: 2025-08-04, from: University of Hawaiʻi News
+
+<p>A new method for detecting tropical fruit allergens earned a <abbr>UH</abbr> student first place at an international food science competition.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/04/student-food-allergy-research/"><abbr>UH</abbr> student’s food allergy research wins big at international conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/04/student-food-allergy-research/>
+
+---
+
+## Opening of Guam Visitors Bureau's Tumon Night Market draws huge crowd
+
+date: 2025-08-04, from: Pacific Island Times
+
+Over 3,000 residents and visitors converged in Tumon during the  opening night of the Guam Visitors Bureau’s Tumon Night Market on Aug. 3. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/opening-of-guam-visitors-bureau-s-tumon-night-market-draws-huge-crowd>
+
+---
+
+## Bougainville advocacy group prepares record number of women for election
+
+date: 2025-08-04, from: 
+
+The Leitana Nehan Women's Development Agency says it is happy that there are 34 women who will contest next month's election. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569019/bougainville-advocacy-group-prepares-record-number-of-women-for-election>
+
+---
+
+## 'We'll see': Hu'akavameiliku on becoming Tongan PM again
+
+date: 2025-08-04, from: 
+
+Hu'akavameiliku Siaosi Sovaleni will not confirm or deny whether returning to the role is on his mind as Tongans get ready to head to the polls in three months time. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569020/we-ll-see-hu-akavameiliku-on-becoming-tongan-pm-again>
 
 ---
 
@@ -46,18 +841,6 @@ Samoa is the first team to qualify for the semifinals of the OFC 2025 Under-16 W
 
 ---
 
-## Corned beef conundrum: Thefts see Pacific staple moved behind the counter
-
-date: 2025-08-04, from: 
-
-"It should be there ready for them to access without feeling whakaama about having to ask for it," one woman said. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569001/corned-beef-conundrum-thefts-see-pacific-staple-moved-behind-the-counter>
-
----
-
 ## Can Hawaiʻi get to 100% renewable energy?
 
 date: 2025-08-04, from: University of Hawaiʻi News
@@ -68,6 +851,54 @@ The post <a href="https://www.hawaii.edu/news/2025/08/04/hawaii-renewable-energy
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/04/hawaii-renewable-energy/>
+
+---
+
+## Venezuela’s lonely seniors find lifeline on the dance floor
+
+date: 2025-08-04, updated: 2025-08-05, from: Marianas Variety
+
+CARACAS (Reuters) — In a bustling Caracas shopping mall, the sound of music and laughter signals another meeting of Club Tobias. This is no ordinary social club; it's a lifeline for Venezuelans aged over 60, many of whom live alone after their children and grandchildren emigrated. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/venezuela-s-lonely-seniors-find-lifeline-on-the-dance-floor/article_d62d34bf-091d-47ff-9f27-ae0b5bb5de1c.html>
+
+---
+
+## PSS aims to strengthen partnership with Apatang-Mendiola administration
+
+date: 2025-08-04, updated: 2025-08-05, from: Marianas Variety
+
+THE Public School System is poised to strengthen its partnership with the new administration of Gov. David M. Apatang and Lt. Gov. Dennis C. Mendiola. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/pss-aims-to-strengthen-partnership-with-apatang-mendiola-administration/article_60dad7cd-0f01-4ec0-a370-4a5a2f0c22c1.html>
+
+---
+
+## NMTech celebrates successful completion of 2025 ‘Summer Tech’ program
+
+date: 2025-08-04, updated: 2025-08-05, from: Marianas Variety
+
+(NMTech) — The Northern Marianas Technical Institute is proud to announce the successful completion of their two summer CNMI PSS and NMTech Dual-Enrollment programs. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmtech-celebrates-successful-completion-of-2025-summer-tech-program/article_bcb88ef0-87c4-4da6-a385-1eaecdc8e45c.html>
+
+---
+
+## Texas Democrats seek to block redistricting vote by leaving state
+
+date: 2025-08-04, updated: 2025-08-05, from: Marianas Variety
+
+(Reuters) — Democratic lawmakers in Texas said on Sunday they were leaving the state to deny Republicans the quorum needed to redraw the state's 38 congressional districts, a move Republicans are seeking to protect their narrow U.S. House majority in next year's midterm elections. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/texas-democrats-seek-to-block-redistricting-vote-by-leaving-state/article_43a735a2-2087-4d71-87db-8d6bb67fde6a.html>
 
 ---
 

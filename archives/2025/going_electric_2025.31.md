@@ -1,11 +1,107 @@
 ---
 title: going electric
-updated: 2025-08-04 14:09:42
+updated: 2025-08-05 06:08:28
 ---
 
 # going electric
 
-(date: 2025-08-04 14:09:42)
+(date: 2025-08-05 06:08:28)
+
+---
+
+## Mercedes-Benz Will Flood The Market With 15 New EVs In Just Two Years
+
+date: 2025-08-05, from: Inside EVs News
+
+It’s all part of “the biggest product launch program” in the company’s history. 
+
+<br> 
+
+<https://insideevs.com/news/768023/mercedes-benz-upcoming-evs-2026-2027/>
+
+---
+
+## Volvo Sales Are Spiraling
+
+date: 2025-08-05, from: Inside EVs News
+
+After posting a $1 billion operating loss in the second quarter, Volvo just had its fifth and biggest consecutive sales drop in July. 
+
+<br> 
+
+<https://insideevs.com/news/768013/volvo-death-spiral-sales-down/>
+
+---
+
+## Stark VARG MX 1.2 launched as smarter, stronger, and absurdly powerful electric motocross bike
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Stark-Varg-MX-1.2-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric motocross just got another serious upgrade. Stark Future has unveiled its latest evolution of the VARG MX platform – meet the VARG MX 1.2. With more powertrain efficiency, longer range, and a tech-infused new onboard computer that moonlights as a military-grade Android phone, this bike is maintaining the Stark VARG playbook of doing more than keeping up with gas-powered competition, it’s burying them.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="428217" href="https://electrek.co/2025/08/05/stark-varg-mx-1-2-launched-as-smarter-stronger-and-absurdly-powerful-electric-motocross-bike/#more-428217" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/stark-varg-mx-1-2-launched-as-smarter-stronger-and-absurdly-powerful-electric-motocross-bike/>
+
+---
+
+## Foxconn Is Selling The Lordstown Factory That Was Supposed To Make EVs
+
+date: 2025-08-05, from: Inside EVs News
+
+The former General Motors facility built the ill-fated Lordstown Endurance electric pickup. 
+
+<br> 
+
+<https://insideevs.com/news/768004/foxconn-sells-lordstown-car-factory-ohio/>
+
+---
+
+## California’s grid gets a record power assist from a 100k home battery fleet
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/sunrun-solar-battery-storage-tesla-powerwall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>More than 100,000 home batteries across California stepped up as a virtual power plant last week in a scheduled test event, and the results were impressive, according to <a href="https://www.brattle.com/wp-content/uploads/2025/08/Assessing-VPP-Performance-Impacts-of-a-Test-Event-in-California-1.pdf" target="_blank" rel="noreferrer noopener">new analysis</a> from The Brattle Group.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,california,sunrun,tesla,tesla-virtual-power-plant" data-layer-viewtype="unknown" data-post-id="428293" href="https://electrek.co/2025/08/04/california-grid-gets-a-record-power-assist-from-a-100k-home-battery-fleet/#more-428293" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/california-grid-gets-a-record-power-assist-from-a-100k-home-battery-fleet/>
+
+---
+
+## Rivian Has Had It With Ohio's Approach To Direct Sales
+
+date: 2025-08-04, from: Inside EVs News
+
+Ohio has banned direct-to-consumer sales since 2014, yet Tesla is allowed to sell here. Rivian says that that ain't fair.  
+
+<br> 
+
+<https://insideevs.com/news/767974/rivian-sues-ohio-for-dealers/>
+
+---
+
+## Hyundai’s new electric SUV may be heading overseas after all
+
+date: 2025-08-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Hyundai-new-EV-China.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> new Elexio electric SUV, which is built in China, could be sold in overseas markets. The CEO of Hyundai Australia calls it “a promising vehicle” that could help the company regain market share from Tesla, BYD, and others.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="428280" href="https://electrek.co/2025/08/04/hyundais-new-electric-suv-heading-overseas/#more-428280" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/04/hyundais-new-electric-suv-heading-overseas/>
 
 ---
 
@@ -53,7 +149,7 @@ date: 2025-08-04, from: Electrek Feed
 
 ---
 
-## Tesla consistently led in brand loyalty. Then Elon Musk ‘got political’
+## New data shows how Tesla led in brand loyalty… until Elon Musk ‘got political’
 
 date: 2025-08-04, from: Electrek Feed
 
@@ -125,7 +221,7 @@ date: 2025-08-04, from: Electrek Feed
 
 date: 2025-08-04, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Last week, the US Environmental Protection Agency proposed a plan to <a href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/">delete its scientific finding</a> recognizing that greenhouse gases are harmful to human health. That plan is now up for public comment.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Last week, the US Environmental Protection Agency proposed a plan to <a href="https://electrek.co/2025/07/29/epas-chief-saboteur-lee-zeldin-announces-plan-to-delete-climate-science/">delete its scientific finding</a> recognizing that greenhouse gases are harmful to human health, with the goal of making cars less efficient and more costly to fuel. That plan is now up for public comment.</p>
 
 
 

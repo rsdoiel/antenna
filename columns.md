@@ -1,11 +1,96 @@
 ---
 title: columns
-updated: 2025-08-04 14:09:37
+updated: 2025-08-05 06:08:24
 ---
 
 # columns
 
-(date: 2025-08-04 14:09:37)
+(date: 2025-08-05 06:08:24)
+
+---
+
+## Surveilling Your Children with AirTags
+
+date: 2025-08-05, updated: 2025-08-01, from: Bruce Schneier blog
+
+<p>Skechers is making a line of kid&#8217;s shoes with a <a href="https://techcrunch.com/2025/07/30/skechers-is-making-kids-shoes-with-a-hidden-airtag-compartment/">hidden compartment</a> for an AirTag.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/surveilling-your-children-with-airtags.html>
+
+---
+
+## Things not to do as a presenter if you want a great talk recording
+
+date: 2025-08-05, from: Chris Heilmann's blog
+
+Currently I am editing >600 presentations of the WeAreDevelopers World Congress to release the videos at the end of the month. This is frustrating and painstaking work, as both presenters and moderators didn&#8217;t quite follow some simple ideas that make a talk a good recording. Conference organisers spend a lot of time and money on [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/>
+
+---
+
+## Why I loathe book tours
+
+date: 2025-08-05, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-i-loathe-book-tours>
+
+---
+
+## August 4, 2025
+
+date: 2025-08-05, from: Heather Cox Richardson blog
+
+President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-4-2025>
+
+---
+
+## c10kday
+
+date: 2025-08-05, from: Daniel Stenberg Blog
+
+From March 20, 1998 when the first curl release was published, to this day August 5, 2025 is exactly 10,000 days. We call it the curl-10000-day. Or just c10kday. c ten K day. We want to celebrate this occasion by collecting and sharing stories. Your stories about curl. Your favorite memories. When you used curl &#8230; <a href="https://daniel.haxx.se/blog/2025/08/05/c10kday/" class="more-link">Continue reading <span class="screen-reader-text">c10kday</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/08/05/c10kday/>
+
+---
+
+## [Sponsor] WorkOS: Scalable, Secure Authentication
+
+date: 2025-08-04, updated: 2025-08-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+## Trump’s War on Women’s Health
+
+date: 2025-08-04, from: Dan Rather's Steady
+
+And what one foundation is doing to combat it 
+
+<br> 
+
+<https://steady.substack.com/p/trumps-war-on-womens-health>
 
 ---
 
@@ -19,11 +104,11 @@ My <a href="https://imgs.scripting.com/2025/08/04/himom.png">contribution</a> to
 
 ---
 
-## Why the Hell is Musk getting a $29 billion raise? 
+## Why the hell is Musk getting a $29 billion raise? 
 
 date: 2025-08-04, from: Robert Reich's blog
 
-It's authoritarian capitalism 
+It&#8217;s authoritarian capitalism 
 
 <br> 
 

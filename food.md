@@ -1,11 +1,105 @@
 ---
 title: food
-updated: 2025-08-04 14:09:42
+updated: 2025-08-05 06:08:29
 ---
 
 # food
 
-(date: 2025-08-04 14:09:42)
+(date: 2025-08-05 06:08:29)
+
+---
+
+## A Private Equity Firm Is Buying Philz Coffee
+
+date: 2025-08-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. And stockholders are getting left in the lurch. 
+
+<br> 
+
+<https://sprudge.com/a-private-equity-firm-is-buying-philz-coffee-388604.html>
+
+---
+
+## Philz Coffee’s $145M Sale Leaves Some Employee Shareholders Empty-Handed
+
+date: 2025-08-05, from: The Fresh Cup
+
+<p>Freeman Spogli &#038; Co. nears $145M deal for Philz Coffee; common stock held by some employees would be canceled, making shares worthless.</p>
+<p>The post <a href="https://freshcup.com/philz-coffees-145m-sale-leaves-some-employee-shareholders-empty-handed/">Philz Coffee’s $145M Sale Leaves Some Employee Shareholders Empty-Handed</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/philz-coffees-145m-sale-leaves-some-employee-shareholders-empty-handed/>
+
+---
+
+## Spicy Cashew Scallion Noodles
+
+date: 2025-08-05, from: Bon Appetet
+
+This saucy noodle recipe gets its crunch from fiery, garlicky toasted cashews. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/spicy-cashew-scallion-noodles>
+
+---
+
+## Mole Sauce (Mole Poblano)
+
+date: 2025-08-05, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mole-sauce/"><img title="mole-sauce-poblano-recipe-small-6" src="https://www.isabeleats.com/wp-content/uploads/2023/06/mole-sauce-poblano-recipe-small-6-400x600.jpg" alt="Mole sauce (mole poblano) in a pot sprinkled with sesame seeds ready to serve." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Learn how to make authentic mole from scratch! This traditional Mexican mole poblano is a unique and complex sauce made&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/mole-sauce/>
+
+---
+
+## These Are the Best Trader Joe’s Snacks for Back-to-School Lunches
+
+date: 2025-08-05, from: Taste of Home
+
+<p>It's always hard to keep things exciting and nutritious when packing lunch boxes. Luckily, Trader Joe's has a plethora of snack ideas that are parent- and kid-approved.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-trader-joes-back-to-school-snacks/">These Are the Best Trader Joe&#8217;s Snacks for Back-to-School Lunches</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-trader-joes-back-to-school-snacks/>
+
+---
+
+## I Tried Meghan Markle’s Wine—Here’s My Honest Review
+
+date: 2025-08-04, from: Taste of Home
+
+<p>It's the first wine from the Duchess of Sussex's lifestyle company, As Ever.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/meghan-markle-wine-review-july-2025/">I Tried Meghan Markle&#8217;s Wine—Here&#8217;s My Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/meghan-markle-wine-review-july-2025/>
+
+---
+
+## Lucy Wang’s Mini Jellycat Cakes
+
+date: 2025-08-04, from: Taste of Home
+
+A super cute cake that’s mini so you can indulge in just a few bites? Say less. You’ll need one sheet pan and one cookie cutter for these adorable single-serve cakes that deliver big flavor in a charmingly small package. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-mini-jellycat-cakes/>
 
 ---
 
@@ -86,6 +180,18 @@ date: 2025-08-04, from: Irish Food Hub
 <br> 
 
 <https://irishfoodhub.com/lentil-mushroom-irish-stew/>
+
+---
+
+## The Sprudge Guide To Coffee In George Town, Penang
+
+date: 2025-08-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in George Town, Penang. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-george-town-penang-339552.html>
 
 ---
 

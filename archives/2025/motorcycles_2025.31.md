@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-08-04 14:09:40
+updated: 2025-08-05 06:08:27
 ---
 
 # motorcycles
 
-(date: 2025-08-04 14:09:40)
+(date: 2025-08-05 06:08:27)
+
+---
+
+## Triumph Drops Another Thruxton 400 Teaser, But Will It Come To the US?
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+Triumph’s Speed 400 and Scrambler 400X have gained quite a following, and the same will likely be true with the upcoming Thruxton, set to be unveiled on August 6. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767844/triumph-thruxton-400-new-teaser-coming-soon/>
+
+---
+
+## Here's the 200 Million Acres of Public Land the Government Opened Up for Mining
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+The Trump Administration's efforts to sell and lease public lands to extractive industries like mining for mineral and gas deposits is heating up, as the Department of the Interior has released what lands are available.  
+
+<br> 
+
+<https://www.rideapart.com/news/767952/public-lands-mining-drilling-gas-oil-extraction-off-road-trump-adminisration/>
+
+---
+
+## BSA Wants Royal Enfield’s Lunch Money, Launches Retro-Inspired Commuter
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+The BSA Bantam 350 looks like a direct response to the Royal Enfield Hunter 350. Can the new kid in town sit at the big boys’ table?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767843/bsa-bantam350-launch-specs-details-price/>
+
+---
+
+## Dog Saves Hunting Guide After Horrific UTV Crash, 11-Hour Crawl Through Mountains Ensues
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+A hunting guide in Utah rolled his UTV 15 to 20 times while scouting in Utah, suffering horrific injuries. After an 11-hour crawl through the night, he credits his survival to his dog, Buddy. 
+
+<br> 
+
+<https://www.rideapart.com/news/767788/dog-saves-utv-drivers-life-after-crash/>
+
+---
+
+## Saying Goodbye to a Legend of Off-Roading, as Walker Evans Has Passed Away
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+Walker Evans helped shape the sport through his championship wins, technical innovations, and decades of leadership in motorsports. From Baja to NASCAR, he shaped a sport—and gave back more than he took. 
+
+<br> 
+
+<https://www.rideapart.com/news/767859/walker-evans-off-road-racing-baja-dead-2025/>
+
+---
+
+## Stark Updates its Badass Electric Dirt Bike, Adds Range and More
+
+date: 2025-08-05, from: Ride Apart, Electric Motorcycle News
+
+The Stark Varg MX is already one of the most capable dirt bikes on the planet, and the most powerful one ever. But improvements have been made to the electric motorcycle.  
+
+<br> 
+
+<https://www.rideapart.com/news/767927/stark-future-varg-mx-updated-improvements-ev-dirt-bike/>
 
 ---
 

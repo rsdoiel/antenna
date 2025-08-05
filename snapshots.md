@@ -1,11 +1,245 @@
 ---
 title: snapshots
-updated: 2025-08-04 14:09:44
+updated: 2025-08-05 06:08:30
 ---
 
 # snapshots
 
-(date: 2025-08-04 14:09:44)
+(date: 2025-08-05 06:08:30)
+
+---
+
+## Quoting greyduet on r/teachers
+
+date: 2025-08-05, updated: 2025-08-05, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.reddit.com/r/Teachers/comments/1mhntjh/unpopular_opinion_teacher_ai_use_is_already_out/"><p>I teach HS Science in the south. I can only speak for my district, but a few teacher work days in the wave of enthusiasm I'm seeing for AI tools is overwhelming. We're getting district approved ads for AI tools by email, Admin and ICs are pushing it on us, and at least half of the teaching staff seems all in at this point.</p>
+<p>I was just in a meeting with my team and one of the older teachers brought out a powerpoint for our first lesson and almost everyone agreed to use it after a quick scan - but it was missing important tested material, repetitive, and just totally airy and meaningless. Just slide after slide of the same handful of sentences rephrased with random loosely related stock photos. When I asked him if it was AI generated, he said 'of course', like it was a strange question. [...]</p>
+<p>We don't have a leg to stand on to teach them anything about originality, academic integrity/intellectual honesty, or the importance of doing things for themselves when they catch us indulging in it just to save time at work.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.reddit.com/r/Teachers/comments/1mhntjh/unpopular_opinion_teacher_ai_use_is_already_out/">greyduet on r/teachers</a>, Unpopular Opinion: Teacher AI use is already out of control and it's not ok</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/education">education</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/#atom-everything>
+
+---
+
+## The Paranoid Style in American Economics
+
+date: 2025-08-05, from: Paul Krugman
+
+Remember, every accusation is a confession 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-paranoid-style-in-american-economics>
+
+---
+
+## <default:div xmlns="http://www.w3.org/1999/xhtml" class="if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14"/>
+
+date: 2025-08-05, updated: 2025-08-05, from: Tantek Çelik's blog
+
+ 
+
+<br> 
+
+<https://tantek.com/2025/216/t1/finished-skyline50k-ultra>
+
+---
+
+## A Friendly Introduction to SVG
+
+date: 2025-08-05, updated: 2025-08-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/">A Friendly Introduction to SVG</a></strong></p>
+This SVG tutorial by Josh Comeau is fantastic. It's filled with neat interactive illustrations - with a pleasing subtly "click" audio effect as you adjust their sliders - and provides a useful introduction to a bunch of well chosen SVG fundamentals.</p>
+<p>I finally understand what all four numbers in the <code>viewport="..."</code> attribute are for!
+
+    <p><small></small>Via <a href="https://lobste.rs/s/ome2lo/friendly_introduction_svg">Lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/svg">svg</a>, <a href="https://simonwillison.net/tags/explorables">explorables</a>, <a href="https://simonwillison.net/tags/josh-comeau">josh-comeau</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/5/a-friendly-introduction-to-svg/#atom-everything>
+
+---
+
+## A Treatise on AI Chatbots Undermining the Enlightenment
+
+date: 2025-08-05, from: Maggie Appleton blog
+
+On chatbot sycophancy, passivity, and the case for more intellectually challenging companions 
+
+<br> 
+
+<https://maggieappleton.com/ai-enlightenment/>
+
+---
+
+## ChatGPT agent's user-agent
+
+date: 2025-08-04, updated: 2025-08-04, from: Simon Willison’s Weblog
+
+<p>I was exploring how ChatGPT agent works today. I learned some interesting things about how it exposes its identity through HTTP headers, then made a huge blunder in thinking it was leaking its URLs to Bingbot and Yandex... but it turned out <a href="https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/#cloudflare-crawler-hints">that was a Cloudflare feature</a> that had nothing to do with ChatGPT.</p>
+
+<p>ChatGPT agent is the <a href="https://openai.com/index/introducing-chatgpt-agent/">recently released</a> (and confusingly named) ChatGPT feature that provides browser automation combined with terminal access as a feature of ChatGPT - replacing their previous <a href="https://help.openai.com/en/articles/10421097-operator">Operator research preview</a> which is scheduled for deprecation on August 31st.</p>
+
+<h4 id="investigating-chatgpt-agent-s-user-agent">Investigating ChatGPT agent's user-agent</h4>
+<p>I decided to dig into how it works by creating a logged web URL endpoint using <a href="https://simonwillison.net/2024/Aug/8/django-http-debug/">django-http-debug</a>. Then I told ChatGPT agent mode to explore that new page:</p>
+<p><img src="https://static.simonwillison.net/static/2025/chatgpt-agent-url.jpg" alt="ChatGPT screenshot. My prompt was &quot;Visit https://simonwillison.net/test-url-context and tell me what you see there&quot; - it said &quot;Worked for 15 seconds&quot; with an arrow, then a screnshot of the webpage content showing &quot;simonwillison.net&quot; with a favicon, heading &quot;This is a heading&quot;, text &quot;Text and text and more text.&quot; and &quot;this came from javascript&quot;. The bot then responds with: The webpage displays a simple layout with a large heading at the top that reads “This is a heading.” Below it, there's a short paragraph that says “Text and text and more text.” A final line appears underneath saying “this came from javascript,” indicating that this last line was inserted via a script. The page contains no interactive elements or instructions—just these lines of plain text displayed on a white background." style="max-width: 100%;" /></p>
+<p>My logging captured these request headers:</p>
+<pre><code>Via: 1.1 heroku-router
+Host: simonwillison.net
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Cf-Ray: 96a0f289adcb8e8e-SEA
+Cookie: cf_clearance=zzV8W...
+Server: Heroku
+Cdn-Loop: cloudflare; loops=1
+Priority: u=0, i
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138"
+Signature: sig1=:1AxfqHocTf693inKKMQ7NRoHoWAZ9d/vY4D/FO0+MqdFBy0HEH3ZIRv1c3hyiTrzCvquqDC8eYl1ojcPYOSpCQ==:
+Cf-Visitor: {"scheme":"https"}
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+Cf-Ipcountry: US
+X-Request-Id: 45ef5be4-ead3-99d5-f018-13c4a55864d3
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, br
+Accept-Language: en-US,en;q=0.9
+Signature-Agent: "https://chatgpt.com"
+Signature-Input: sig1=("@authority" "@method" "@path" "signature-agent");created=1754340838;keyid="otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg";expires=1754344438;nonce="_8jbGwfLcgt_vUeiZQdWvfyIeh9FmlthEXElL-O2Rq5zydBYWivw4R3sV9PV-zGwZ2OEGr3T2Pmeo2NzmboMeQ";tag="web-bot-auth";alg="ed25519"
+X-Forwarded-For: 2a09:bac5:665f:1541::21e:154, 172.71.147.183
+X-Request-Start: 1754340840059
+Cf-Connecting-Ip: 2a09:bac5:665f:1541::21e:154
+Sec-Ch-Ua-Mobile: ?0
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+Sec-Ch-Ua-Platform: "Linux"
+Upgrade-Insecure-Requests: 1
+</code></pre>
+<p>That <strong>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36</strong> user-agent header is the one used by the most recent Chrome on macOS - which is a little odd here as the <strong>Sec-Ch-Ua-Platform : "Linux"</strong> indicates that the agent browser runs on Linux.</p>
+<p>At first glance it looks like ChatGPT is being dishonest here by not including its bot identity in the user-agent header. I thought for a moment it might be reflecting my own user-agent, but I'm using Firefox on macOS and it identified itself as Chrome.</p>
+<p>Then I spotted this header:</p>
+<pre><code>Signature-Agent: "https://chatgpt.com"
+</code></pre>
+<p>Which is accompanied by a much more complex header called <strong>Signature-Input</strong>:</p>
+<pre><code>Signature-Input: sig1=("@authority" "@method" "@path" "signature-agent");created=1754340838;keyid="otMqcjr17mGyruktGvJU8oojQTSMHlVm7uO-lrcqbdg";expires=1754344438;nonce="_8jbGwfLcgt_vUeiZQdWvfyIeh9FmlthEXElL-O2Rq5zydBYWivw4R3sV9PV-zGwZ2OEGr3T2Pmeo2NzmboMeQ";tag="web-bot-auth";alg="ed25519"
+</code></pre>
+<p>And a <code>Signature</code> header too.</p>
+<p>These turn out to come from a relatively new web standard: <a href="https://www.rfc-editor.org/rfc/rfc9421.html">RFC 9421 HTTP Message Signatures</a>' published February 2024.</p>
+<p>The purpose of HTTP Message Signatures is to allow clients to include signed data about their request in a way that cannot be tampered with by intermediaries. The signature uses a public key that's provided by the following well-known endpoint:</p>
+<pre><code>https://chatgpt.com/.well-known/http-message-signatures-directory
+</code></pre>
+<p>Add it all together and we now have a rock-solid way to identify traffic from ChatGPT agent: look for the <code>Signature-Agent: "https://chatgpt.com"</code> header and confirm its value by checking the signature in the <code>Signature-Input</code> and <code>Signature</code> headers.</p>
+<h4 id="and-then-came-the-crawlers">And then came Bingbot and Yandex</h4>
+<p>Just over a minute after it captured that request, my logging endpoint got another request:</p>
+<pre><code>Via: 1.1 heroku-router
+From: bingbot(at)microsoft.com
+Host: simonwillison.net
+Accept: */*
+Cf-Ray: 96a0f4671d1fc3c6-SEA
+Server: Heroku
+Cdn-Loop: cloudflare; loops=1
+Cf-Visitor: {"scheme":"https"}
+User-Agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36
+Cf-Ipcountry: US
+X-Request-Id: 6214f5dc-a4ea-5390-1beb-f2d26eac5d01
+Accept-Encoding: gzip, br
+X-Forwarded-For: 207.46.13.9, 172.71.150.252
+X-Request-Start: 1754340916429
+Cf-Connecting-Ip: 207.46.13.9
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+</code></pre>
+<p>I pasted <code>207.46.13.9</code> into Microsoft's <a href="https://www.bing.com/toolbox/verify-bingbot-verdict">Verify Bingbot</a> tool (after solving a particularly taxing CAPTCHA) and it confirmed that this was indeed a request from Bingbot.</p>
+<p>I set up a second URL to confirm... and this time got a visit from Yandex!</p>
+<pre><code>Via: 1.1 heroku-router
+From: support@search.yandex.ru
+Host: simonwillison.net
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Cf-Ray: 96a16390d8f6f3a7-DME
+Server: Heroku
+Cdn-Loop: cloudflare; loops=1
+Cf-Visitor: {"scheme":"https"}
+User-Agent: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+Cf-Ipcountry: RU
+X-Request-Id: 3cdcbdba-f629-0d29-b453-61644da43c6c
+Accept-Encoding: gzip, br
+X-Forwarded-For: 213.180.203.138, 172.71.184.65
+X-Request-Start: 1754345469921
+Cf-Connecting-Ip: 213.180.203.138
+X-Forwarded-Port: 80
+X-Forwarded-Proto: http
+</code></pre>
+<p>Yandex <a href="https://yandex.com/support/webmaster/en/robot-workings/check-yandex-robots.html?lang=en">suggest a reverse DNS lookup</a> to verify, so I ran this command:</p>
+<pre><code>dig -x 213.180.203.138 +short
+</code></pre>
+<p>And got back:</p>
+<pre><code>213-180-203-138.spider.yandex.com.
+</code></pre>
+<p>Which confirms that this is indeed a Yandex crawler.</p>
+
+<p>I tried a third experiment to be sure... and got hits from both Bingbot and YandexBot.</p>
+
+<h4 id="cloudflare-crawler-hints">It was Cloudflare Crawler Hints, not ChatGPT</h4>
+
+<p>So I wrote up and posted about my discovery... and <a href="https://x.com/jatan_loya/status/1952506398270767499">Jatan Loya asked:</a></p>
+
+<blockquote><p>do you have crawler hints enabled in cf?</p></blockquote>
+
+<p>And yeah, it turned out I did. I spotted this in my caching configuration page (and it looks like I must have turned it on myself at some point in the past):</p>
+
+<p><img src="https://static.simonwillison.net/static/2025/cloudflare-crawler-hints.jpg" alt="Screenshot of Cloudflare settings panel showing &quot;Crawler Hints Beta&quot; with description text explaining that Crawler Hints provide high quality data to search engines and other crawlers when sites using Cloudflare change their content. This allows crawlers to precisely time crawling, avoid wasteful crawls, and generally reduce resource consumption on origins and other Internet infrastructure. Below states &quot;By enabling this service, you agree to share website information required for feature functionality and agree to the Supplemental Terms for Crawler Hints.&quot; There is a toggle switch in the on position on the right side and a &quot;Help&quot; link in the bottom right corner." style="max-width: 100%" /></p>
+
+<p>Here's <a href="https://developers.cloudflare.com/cache/advanced-configuration/crawler-hints/">the Cloudflare documentation for that feature</a>.</p>
+
+<p>I deleted my posts on Twitter and Bluesky (since you can't edit those and I didn't want the misinformation to continue to spread) and edited <a href="https://fedi.simonwillison.net/@simon/114972968822349077">my post on Mastodon</a>, then updated this entry with the real reason this had happened.</p>
+
+<p>I also changed the URL of this entry as it turned out Twitter and Bluesky were caching my social media preview for the previous one, which included the incorrect information in the title.</p>
+
+<details><summary>Original "So what's going on here?" section from my post</summary>
+
+<p><em>Here's a section of my original post with my theories about what was going on before learning about Cloudflare Crawler Hints.</em></p>
+
+<h4 id="so-what-s-going-on-here-">So what's going on here?</h4>
+<p>There are quite a few different moving parts here.</p>
+<ol>
+<li>I'm using Firefox on macOS with the 1Password and Readwise Highlighter extensions installed and active. Since I didn't visit the debug pages at all with my own browser I don't think any of these are relevant to these results.</li>
+<li>ChatGPT agent makes just a single request to my debug URL ...</li>
+<li>... which is proxied through both Cloudflare and Heroku.</li>
+<li>Within about a minute, I get hits from one or both of Bingbot and Yandex.</li>
+</ol>
+<p>Presumably ChatGPT agent itself is running behind at least one proxy - I would expect OpenAI to keep a close eye on that traffic to ensure it doesn't get abused.</p>
+<p>I'm guessing that infrastructure is hosted by Microsoft Azure. The <a href="https://openai.com/policies/sub-processor-list/">OpenAI Sub-processor List</a> - though that lists Microsoft Corporation, CoreWeave Inc, Oracle Cloud Platform and Google Cloud Platform under the "Cloud infrastructure" section so it could be any of those.</p>
+<p>Since the page is served over HTTPS my guess is that any intermediary proxies should be unable to see the path component of the URL, making the mystery of how Bingbot and Yandex saw the URL even more intriguing.</p>
+</details>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/bing">bing</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/search-engines">search-engines</a>, <a href="https://simonwillison.net/tags/user-agents">user-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/#atom-everything>
+
+---
+
+## Particle Tachyon 5G single-board PC now available for $299
+
+date: 2025-08-04, from: Liliputing
+
+<p>The Particle Tachyon is a single-board computer that&#8217;s about the same size as a Raspberry Pi 5 and it even has a Raspberry Pi-compatible 40-pin GPIO header. But Particle positions the Tachyon as a versatile little PC with the guts of &#8220;a modern smartphone.&#8221; That&#8217;s because it&#8217;s powered by a Qualcomm QCM6490 Dragonwing processor with 8 Kryo [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/particle-tachyon-5g-single-board-pc-now-available-for-299/">Particle Tachyon 5G single-board PC now available for $299</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/particle-tachyon-5g-single-board-pc-now-available-for-299/>
 
 ---
 
@@ -94,7 +328,11 @@ Not content with releasing <a href="https://simonwillison.net/2025/Jul/30/chines
 </blockquote>
 <p>I tried the model out using the <a href="https://modelscope.cn/aigc/imageGeneration?tab=advanced">ModelScope demo</a> - I signed in with GitHub and verified my account via a text message to a phone number. Here's what I got for "A raccoon holding a sign that says "I love trash" that was written by that raccoon":</p>
 <p><img alt="A great photo of a raccoon holding a cardboard sign, the text I love trash is written on it in marker, the raccoon has chosen to draw the o in love as a heart filled with red marker pen." src="https://static.simonwillison.net/static/2025/qwen-trash.jpg" /></p>
-<p>The raccoon has very neat handwriting!
+<p>The raccoon has very neat handwriting!</p>
+<p><strong>Update</strong>: A version of the model exists that can edit existing images but it's <a href="https://github.com/QwenLM/Qwen-Image/issues/3#issuecomment-3151573614">not yet been released</a>:</p>
+<blockquote>
+<p>Currently, we have only open-sourced the text-to-image foundation model, but the editing model is also on our roadmap and planned for future release.</p>
+</blockquote>
 
     <p><small></small>Via <a href="https://x.com/Alibaba_Qwen/status/1952398250121756992">@Alibaba_Qwen</a></small></p>
 
@@ -549,6 +787,18 @@ The Modos Dev Kit is live! Build with fast-refresh, low-latency e-paper. Now on 
 <br> 
 
 <https://www.modos.tech/blog/modos-developer-kit-live>
+
+---
+
+## LLVMCGO25 - CARTS: Enabling Event-Driven Task and Data Block Compilation for Distributed HPC
+
+date: 2025-08-04, from: LLVM Blog
+
+<h1 id="llvmcgo25---carts-enabling-event-driven-task-and-data-block-compilation-for-distributed-hpc">LLVMCGO25 - CARTS: Enabling Event-Driven Task and Data Block Compilation for Distributed HPC</h1><p>Hello everyone! I’m Rafael, a PhD candidate at the University of Delaware. I recently flew from Philadelphia to Las Vegas to attend the CGO conference,where I had the chance to present my project and soak in new ideas about HPC.</p><p>In this blog, I’ll dive into the project I discussed at the conference and share some personal insights and lessons I learned along the way.Although comments aren’t enabled here, I’d love to hear from you, feel free to reach out at (<em>rafaelhg at udel dot edu</em>) if you’re interested in collaborating, have questions, or just want to chat.</p><h2 id="motivation-why-carts">Motivation: Why CARTS?</h2><p>Modern High-Performance Computing (HPC) and AI/ML workloads are pushing our hardware and software to the limits. Some key challenges include:</p><ul><li><strong>Evolving Architectures:</strong> Systems now have complex memory hierarchies that need smart utilization.</li><li><strong>Hardware Heterogeneity:</strong> With multi-core CPUs, GPUs, and specialized accelerators in the mix, resource management gets tricky.</li><li><strong>Performance Pressure:</strong> Large-scale systems demand efficient handling of concurrency, synchronization, and communication.</li></ul><p>These challenges led to the creation of CARTS—a compiler framework that combines the flexibility of MLIR with the reliability of LLVM to optimize applications for distributed HPC environments.</p><h2 id="a-closer-look-at-arts-and-its-inspirations">A Closer Look at ARTS and Its Inspirations</h2><p>At the heart of CARTS is ARTS. Originally, ARTS stood for the <strong>Abstract Runtime System</strong>.I often get mixed up and mistakenly call it the <strong>Asynchronous Runtime System</strong>. To keep things light,we sometimes joke about it being the <strong>Any Runtime System</strong>.</p><p>ARTS is inspired by the Codelet model, a concept I could talk about all day!The Codelet model breaks a computation into small, independent tasks (or &ldquo;codelets&rdquo;) that can run as soon as their data dependencies are met.If you&rsquo;re curious to learn more about this model (or find it delightfully abstract), I suggest you visit our research group websiteat <a href="https://www.capsl.udel.edu/">CAPSL, University of Delaware</a> and check out the <a href="https://www.capsl.udel.edu/codelets.shtml#B4">Codelet Model website</a>.</p><h3 id="what-does-arts-do">What Does ARTS Do?</h3><p>ARTS is designed to support fine-grained, event-driven task execution in distributed systems. Here’s a simple breakdown of some key concepts:</p><ul><li><strong>Event-Driven Tasks (EDTs):</strong> These are the basic units of work that can be scheduled independently. Think of an EDT as a small, self-contained task that runs once all its required data is ready.</li><li><strong>DataBlocks:</strong> These represent memory regions holding the data needed by tasks. ARTS tracks these DataBlocks across distributed nodes so that tasks have quick and efficient access to the data they need.</li><li><strong>Events:</strong> These are signals that tell the system when a DataBlock is ready or when a task has finished. They help synchronize tasks without the need for heavy locks.</li><li><strong>Epochs:</strong> These act as synchronization boundaries. An epoch groups tasks together, ensuring that all tasks within the group finish before moving on to the next phase.</li></ul><p>By modeling tasks, DataBlocks, events, and epochs explicitly, ARTS makes it easier to analyze and optimize how tasks are executed across large, distributed systems.</p><h2 id="the-carts-compiler-pipeline">The CARTS Compiler Pipeline</h2><p>Building on ARTS, CARTS creates a task-centric compiler workflow. Here’s how it works:</p><h3 id="clangpolygeist-from-copenmp-to-mlir">Clang/Polygeist: From C/OpenMP to MLIR</h3><ul><li><strong>Conversion Process:</strong> Using the Polygeist infrastructure, we translate C/OpenMP code into MLIR. This process handles multiple dialects (like OpenMP, SCF, Affine, and Arith).</li><li><strong>Extended Support:</strong> We’ve enhanced it to handle more OpenMP constructs, including OpenMP Tasks</li></ul><h3 id="arts-dialect-simplifying-concurrency">ARTS Dialect: Simplifying Concurrency</h3><ul><li><strong>Custom Language Constructs:</strong> The ARTS dialect converts high-level OpenMP tasks into a form that directly represents EDTs, DataBlocks, events, and epochs.</li><li><strong>Easier Analysis:</strong> This clear representation makes it simpler to analyze and optimize the code.</li></ul><h3 id="optimization-and-transformation-passes">Optimization and Transformation Passes</h3><ul><li><strong>EDT Optimization:</strong> We remove redundant tasks and optimize task structures—for example, turning a “parallel” task that contains only one subtask into a “sync” task.</li><li><strong>DataBlock Management:</strong> We analyze memory access patterns to decide which DataBlocks are needed and optimize their usage.</li><li><strong>Event Handling and Classic Optimizations:</strong> We allocate and manage events, applying techniques like dead code elimination and common subexpression elimination to clean up the code.</li></ul><h3 id="lowering-to-llvm-ir-and-runtime-integration">Lowering to LLVM IR and Runtime Integration</h3><ul><li><strong>Conversion to LLVM IR:</strong> The ARTS-enhanced MLIR is converted into LLVM IR. This involves outlining EDT regions into functions and inserting ARTS API calls for task, DataBlock, epoch, and event management.</li><li><strong>Seamless Integration:</strong> The final binary runs on the ARTS runtime, which schedules tasks dynamically based on data readiness.</li></ul><h2 id="looking-ahead-future-directions-for-carts">Looking Ahead: Future Directions for CARTS</h2><p>The journey with CARTS is just beginning. Here’s a glimpse of what’s next:</p><ul><li><strong>Comprehensive Benchmarking:</strong> Testing the infrastructure with a variety of benchmarks to validate performance under diverse scenarios.</li><li><strong>Expanded OpenMP Support:</strong> Enhancing support for additional OpenMP constructs such as loops, barriers, and locks.</li><li><strong>Advanced Transformation Passes:</strong> Developing techniques like dependency pruning, task splitting/fusion, and affine transformations to further optimize task management and data locality.</li><li><strong>Memory-Centric Optimizations:</strong> Implementing strategies like cache-aware tiling, data partitioning, and optimized memory layouts to reduce cache misses and enhance data transfer efficiency.</li><li><strong>Feedback-Directed Compilation:</strong> Incorporating runtime profiling data to adapt optimizations dynamically based on actual workload and hardware behavior.</li><li><strong>Domain-Specific Extensions:</strong> Creating specialized operations for domains such as stencil computations and tensor operations to boost performance in targeted HPC applications.</li></ul><h2 id="wrapping-up">Wrapping Up</h2><p>Conferences like CGO are not just about technical presentations, they’re also about meeting people and sharing ideas. I really enjoyed the mix of technical sessions and informal conversations.One of my favorite moments was meeting a professor at the conference and joking about how we only seem to meet when we’re away from Newark.It’s these human connections, along with the valuable feedback on my work, that make attending such events worthwhile. Here are a few personal takeaways:</p><ul><li><strong>Invaluable Feedback:</strong> Presenting work-in-progress at LLVM CGO workshops has taught me that constructive criticism is the fuel for innovation.</li><li><strong>Community Spirit:</strong> Reconnecting with fellow researchers, whether through formal sessions or casual hallway conversations, enriches both our professional and personal lives.I encourage fellow PhD candidates and early-career researchers to take every opportunity to present your work,your ideas might not be 100% polished, but the community is there to help you refine them.</li></ul><p>Presenting CARTS allowed me to share detailed technical insights, discuss the practical challenges of HPC, and even have a few laughs along the way. While the technical details might seem dense at times, Ihope the mix of personal anecdotes and hands-on explanations makes the topic accessible and engaging.If you’re interested in discussing more about ARTS, the Codelet model, or anything else related to HPC, please drop me an email at (<em>rafaelhg at udel dot edu</em>). I’d love to chat, collaborate, or simply hang out.</p><h2 id="acknowledgements">Acknowledgements</h2><ul><li>This work is supported by the US DOE Office of Science project “Advanced Memory to Support Artificial Intelligence for Science” at PNNL. PNNL is operated by Battelle Memorial Institute under Contract DEAC06-76RL01830.</li><li>Thanks to the LLVM Foundation for the travel award that made attending the CGO conference possible.</li></ul> 
+
+<br> 
+
+<https://blog.llvm.org/posts/2025-03-26-llvmcgo-carts/>
 
 ---
 

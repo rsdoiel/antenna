@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-08-04 14:09:35
+updated: 2025-08-05 06:08:23
 ---
 
 # science and technology
 
-(date: 2025-08-04 14:09:35)
+(date: 2025-08-05 06:08:23)
+
+---
+
+## Uncle Sam floats tracking tech to keep AI chips out of China
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Plan would embed location verification in advanced semiconductors to combat black market exports</h4> <p>The Trump administration wants better ways to track the location of chips, as part of attempts to prevent advanced AI accelerator hardware from getting into Chinese hands.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/us_ai_chip_tracking/>
+
+---
+
+## Eutelsat LEO revenue rockets 84% as governments cool on Starlink
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>OneWeb constellation may be smaller, but it&#39;s suddenly looking like a safer bet for some</h4> <p>Paris-based Eutelsat is reporting rocketing revenues in Low Earth Orbit (LEO) satellite services, driven partly by an uptick in interest from governments seeking to reduce reliance on US providers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/eutelsat_leo_revenue/>
+
+---
+
+## How to train your robot: Wear a tiny one in a baby carrier
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>You can build your own robot CHILD for under $1,000</h4> <p>Before humanoid robots walk among us, they&#39;ll be operated remotely, in part to gather the training data to develop Vision-Language-Action Models for autonomous, nonlethal bipedal ambulation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/train_robots_baby_carriers/>
+
+---
+
+## Hacker summer camp: What to expect from BSides, Black Hat, and DEF CON
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>These are the conference events to keep an eye on. You can even stream a few</h4> <p>The security industry is hitting Vegas hard this week with three conferences in Sin City that bring the world&#39;s largest collection of security pros together for the annual summer camp.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/bsides_blackhat_defcon_preview/>
+
+---
+
+## TSMC launches legal action against insiders accused of trade secret theft
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Chipmaker said it caught the ‘unauthorized activity’ early</h4> <p>Taiwan Semiconductor Manufacturing Co (TSMC) has launched legal proceedings against an unknown number of employees as it investigates a potential breach of trade secrets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/tsmc_trade_secret_theft/>
+
+---
+
+## Microsoft promises to eventually make WinUI 'truly open source'
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Developer community skeptical following &#39;long silent stagnation&#39; of the framework and accompanying SDK</h4> <p>Microsoft lead software engineer Beth Pan has stated that WinUI, the modern user interface framework for Windows, will be made &#34;truly open source,&#34; though no date is yet set because of deep entanglements with proprietary code in the operating system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/microsoft_winui_open_source/>
+
+---
+
+## Skyrora wins green light to lob rockets from Scotland
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Launch license issued for suborbital Skylark L</h4> <p>The UK&#39;s Civil Aviation Authority (CAA) has granted British rocketeer Skyrora a launch operator license.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/skyrora_launch_license/>
+
+---
+
+## Germany and Japan teamed their ISS robots for seek-and-photograph mission
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Bot built by Airbus and IBM recognized astronaut’s voice and issued instructions to camera drone</h4> <p>Japanese space agency JAXA and Germany’s DLR have conducted what they say is the first collaboration between independently developed robots on the International Space Station.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/germany_and_japan_teamed_their/>
+
+---
+
+## Lyft and Baidu plan Eurobocab launch, starting in UK and Germany next year
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Using the Apollo vehicles that already offer autonomous rides across China</h4> <p>Rideshare challenger Lyft and China’s Baidu plan to bring robo-cabs to the UK and Europe next year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/lyft_baidu_robotaxi_europe_2026/>
+
+---
+
+## Amazon’s Kuiper satellite broadband to offer commercial services from mid-2026
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>We know this because it just won a big client – Australia – which says that’s when it will start selling connections</h4> <p>Amazon’s Project Kuiper space broadband service will be ready for commercial services “from the middle of 2026” according to NBN Co, the operator of Australia’s National Broadband Network.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/amazon_kuiper_australia_mid_2026/>
+
+---
+
+## Foxconn says EV sales are so slow it's converting a factory to build AI servers instead
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>Cites low demand and overcapacity for electric cars on the same day Tesla gives Elon Musk $29 billion for similar reasons</h4> <p>Taiwanese contract manufacturing giant Foxconn has sold its US electric vehicle factory and will use the land to make AI servers instead.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/foxconn_ev_ai_servers_tesla/>
+
+---
+
+## Antivirus vendors fail to spot persistent, nasty, stealthy Linux backdoor
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>&#39;Plague&#39; malware has been around for months without tripping alarms</h4> <p>Researchers at German infosec services company Nextron Threat have spotted malware that creates a highly-persistent Linux backdoor and say antivirus engines do not flag the code as malicious.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/plague_linux_backdoor/>
+
+---
+
+## Google agrees to pause AI workloads to protect the grid when power demand spikes
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>On hot summer days, air conditioning is rather more important than search summaries</h4> <p>Google will pause non-essential AI workloads to protect power grids, the advertising giant announced on Monday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/google_ai_datacenter_grid/>
+
+---
+
+## SonicWall investigates 'cyber incidents,' including ransomware targeting suspected 0-day
+
+date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+
+<h4>Bypassing MFA and deploying ransomware…sounds like something that rhymes with &#39;schmero-day&#39;</h4> <p>SonicWall on Monday confirmed that it&#39;s investigating a rash of ransomware activity targeting its firewall devices, following multiple reports of a zero-day bug under active exploit in its VPNs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/04/sonicwall_investigates_cyber_incidents/>
+
+---
+
+## Former Rolling Stones Musician Mick Taylor Claims His Stolen Guitar Is at the Met
+
+date: 2025-08-04, from: Smithsonian Magazine
+
+The guitarist’s team says he last saw the famous instrument when it vanished 54 years ago. The Met, which received the guitar as part of a recent donation, disputes these claims 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/former-rolling-stones-musician-mick-taylor-claims-his-stolen-guitar-is-at-the-met-180987096/>
+
+---
+
+## Colorado Is Building the 'World's Largest' Wildlife Overpass, Giving Elk and Other Big Creatures a Safe Path to Cross a Busy Freeway
+
+date: 2025-08-04, from: Smithsonian Magazine
+
+The completed overpass will be 200 feet wide by 209 feet long, forming a bridge across six lanes of traffic that see more than 100,000 vehicles each day 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/colorado-is-building-the-worlds-largest-wildlife-overpass-giving-elk-and-other-big-creatures-a-safe-path-to-cross-a-busy-freeway-180987101/>
 
 ---
 
@@ -263,9 +455,9 @@ Strong new evidence suggests that primordial material from the planet’s center
 
 ## Study finds radical nutjobs targeting gamers via Discord, Twitch, Steam
 
-date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+date: 2025-08-04, updated: 2025-08-05, from: The Register (UK I.T. News)
 
-<h4>&#39;Hyper-masculine&#39; first-person shooter fandoms are prime targets</h4> <p>Researchers from Anglia Ruskin University have sounded the alarm on &#34;gaming-adjacent platforms&#34; including Discord, Twitch, and Steam being used as &#34;digital playgrounds&#34; to funnel new recruits into far-right and other extremist ideologies – with a focus on those showing interest in &#34;hyper-masculine gaming titles.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>&#39;Hyper-masculine&#39; first-person shooter fandoms are prime targets</h4> <p><strong>Updated</strong>  Researchers from Anglia Ruskin University have sounded the alarm on &#34;gaming-adjacent platforms&#34; including Discord, Twitch, and Steam being used as &#34;digital playgrounds&#34; to funnel new recruits into far-right and other extremist ideologies – with a focus on those showing interest in &#34;hyper-masculine gaming titles.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -311,7 +503,7 @@ date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
 
 ## Untangling the Jeff Bezos web: Who pays for the billionaire's space lust?
 
-date: 2025-08-04, updated: 2025-08-04, from: The Register (UK I.T. News)
+date: 2025-08-04, updated: 2025-08-05, from: The Register (UK I.T. News)
 
 <h4>Blue Origin and Amazon&#39;s Kuiper satellite program are an arm&#39;s length apart</h4> <p>In the beginning there was Jeff Bezos. He created Amazon in 1994 and became filthy rich in the decades that followed, reaching a net worth exceeding $241 billion in 2025.…</p> 
 

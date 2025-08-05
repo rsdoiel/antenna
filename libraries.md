@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-04 14:09:39
+updated: 2025-08-05 06:08:26
 ---
 
 # libraries
 
-(date: 2025-08-04 14:09:39)
+(date: 2025-08-05 06:08:26)
 
 ---
 
@@ -21,11 +21,25 @@ Balmer, Vera; Kraus, Michael A.; Coros, Stelian; Kaufmann, Walter
 
 ---
 
+## Guest Post — Fear, Learning, and Luddites: Opportunities to Lead the AI Revolution
+
+date: 2025-08-05, from: Scholarly Kitchen
+
+<p>Scholarly communications leaders have the opportunity to turn AI uncertainty into discovery.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/05/guest-post-fear-learning-and-luddites-opportunities-to-lead-the-ai-revolution/">Guest Post — Fear, Learning, and Luddites: Opportunities to Lead the AI Revolution</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/05/guest-post-fear-learning-and-luddites-opportunities-to-lead-the-ai-revolution/>
+
+---
+
 ## Day in Review (August 4–7)
 
 date: 2025-08-04, from: Association of Research Libraries News
 
-<p>Last Updated on August 4, 2025, 3:33 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 5 &#124; Wednesday, August 6 &#124; Thursday,...</p>
+<p>Last Updated on August 5, 2025, 5:30 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 5 &#124; Wednesday, August 6 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-29-september-1-4/">Day in Review (August 4–7)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,138 @@
 ---
 title: home
-updated: 2025-08-04 14:09:40
+updated: 2025-08-05 06:08:27
 ---
 
 # home
 
-(date: 2025-08-04 14:09:40)
+(date: 2025-08-05 06:08:27)
+
+---
+
+## What If Every City Had a London Overground?
+
+date: 2025-08-05, from: Dwell
+
+The Tube’s younger sibling has brought new life to old aboveground tracks, with sunlight and fresh air creating a gentler commute. 
+
+<br> 
+
+<https://www.dwell.com/article/what-if-every-city-had-a-london-overground-ac7a7ff9>
+
+---
+
+## 3 Types of Loons in Maine (With Pictures and Identification)
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Maine’s lakes and coastal waters host some of the most striking and mysterious waterbirds in North America—loons. Known for their ... </p>
+<p class="read-more-container"><a title="3 Types of Loons in Maine (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-loons-in-maine-with-pictures-and-identification/#more-33162" aria-label="Read more about 3 Types of Loons in Maine (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-loons-in-maine-with-pictures-and-identification/">3 Types of Loons in Maine (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-loons-in-maine-with-pictures-and-identification/>
+
+---
+
+## What’s So Unique About Bison in South Dakota? Let’s Explore
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Bison have long been an iconic symbol of the American Great Plains, embodying the rugged wilderness and rich history of ... </p>
+<p class="read-more-container"><a title="What’s So Unique About Bison in South Dakota? Let’s Explore" class="read-more button" href="https://ownyardlife.com/whats-so-unique-about-bison-in-south-dakota-lets-explore/#more-33156" aria-label="Read more about What’s So Unique About Bison in South Dakota? Let’s Explore">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/whats-so-unique-about-bison-in-south-dakota-lets-explore/">What’s So Unique About Bison in South Dakota? Let’s Explore</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/whats-so-unique-about-bison-in-south-dakota-lets-explore/>
+
+---
+
+## How Smart Are Ravens in Washington State? You’ll Be Surprised
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>In the dense forests, rugged coasts, and vast highlands of Washington State, a curious black bird moves with purpose and ... </p>
+<p class="read-more-container"><a title="How Smart Are Ravens in Washington State? You’ll Be Surprised" class="read-more button" href="https://ownyardlife.com/how-smart-are-ravens-in-washington-state-youll-be-surprised/#more-33150" aria-label="Read more about How Smart Are Ravens in Washington State? You’ll Be Surprised">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-smart-are-ravens-in-washington-state-youll-be-surprised/">How Smart Are Ravens in Washington State? You’ll Be Surprised</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-smart-are-ravens-in-washington-state-youll-be-surprised/>
+
+---
+
+## Fall Vegetable Planting in Zones 9/10
+
+date: 2025-08-05, from: San Diego Seed Compan
+
+<p>How to Master Fall Vegetable Planting in Zones 9/10&#160; Fall vegetable planting in Zones 9/10 can be a difficult and confusing time in the garden. The weather is brutally hot, and you’re dreaming of sweaters and pumpkin lattes. For those ... <a href="https://sandiegoseedcompany.com/planting/fall-vegetable-planting-in-zones-9-10/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/planting/fall-vegetable-planting-in-zones-9-10/">Fall Vegetable Planting in Zones 9/10</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/planting/fall-vegetable-planting-in-zones-9-10/>
+
+---
+
+## 7 Secrets About Bald Eagles in Alaska You Didn’t Know
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Alaska is often associated with towering mountains, pristine wilderness, and untamed wildlife—but few creatures capture the imagination quite like the ... </p>
+<p class="read-more-container"><a title="7 Secrets About Bald Eagles in Alaska You Didn’t Know" class="read-more button" href="https://ownyardlife.com/7-secrets-about-bald-eagles-in-alaska-you-didnt-know/#more-33144" aria-label="Read more about 7 Secrets About Bald Eagles in Alaska You Didn’t Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/7-secrets-about-bald-eagles-in-alaska-you-didnt-know/">7 Secrets About Bald Eagles in Alaska You Didn’t Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/7-secrets-about-bald-eagles-in-alaska-you-didnt-know/>
+
+---
+
+## 42 Common Birds in Maryland (With Pictures and Identification)
+
+date: 2025-08-05, from: Yard Life blog
+
+<p>Maryland boasts a diverse range of bird species, from vibrant songbirds to impressive raptors. Knowing the common birds in the ... </p>
+<p class="read-more-container"><a title="42 Common Birds in Maryland (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/42-common-birds-in-maryland-with-pictures-and-identification/#more-33135" aria-label="Read more about 42 Common Birds in Maryland (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/42-common-birds-in-maryland-with-pictures-and-identification/">42 Common Birds in Maryland (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/42-common-birds-in-maryland-with-pictures-and-identification/>
+
+---
+
+## 35 Fascinating Fern Varieties for Your Home and Landscape
+
+date: 2025-08-04, from: The Gardener's Path
+
+<p>Ferns have a diverse range of forms, from delicate ground covers to tall, tree-like specimens. Some thrive as houseplants while others are ideal for shady spots outdoors. Their textures and colors add depth and contrast to plantings, and many are easy to care for. Discover 35 fascinating fern varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/best-fern-varieties/">35 Fascinating Fern Varieties for Your Home and Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/best-fern-varieties/>
+
+---
+
+## You Can Visit Your Favorite National Park for Free Next Week. Here’s How.
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+Mark your calendars. The National Park Service is waiving entrance fees for Great American Outdoors Day on August 4. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/great-american-outdoors-day-free-national-parks>
 
 ---
 
@@ -65,6 +192,18 @@ date: 2025-08-04, from: California Grown
 
 ---
 
+## Homepage 2025
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+Outdoor Adventure, Road Trips, Travel 7 Tips for Taking Better Photos at Night, According to a Professional Photographer Sunset staff photographer Thomas J. Story on how to document dark skies. <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## Rental Revamp: A Berlin Designer Pieces Together His Own Italo-Disco Paradise
 
 date: 2025-08-04, from: Dwell
@@ -77,6 +216,18 @@ Glam lighting meets glossy furniture, ceramic leopards, and bright-red paint in 
 
 ---
 
+## The Best Small-Space Ideas to Steal from the Most Stylish Beach Houses
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+Three beach houses in vastly different spots along the coast maximize square footage to accommodate a crowd. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/small-space-ideas-beach-houses>
+
+---
+
 ## Craig Ellwood’s Best-Preserved Case Study House Seeks $5.4M in L.A.
 
 date: 2025-08-04, from: Dwell
@@ -86,6 +237,30 @@ The meticulously maintained Bel Air home is a midcentury time capsule that still
 <br> 
 
 <https://www.dwell.com/article/craig-ellwood-case-study-house-16-midcentury-los-angeles-real-estate-ad1a6cd2>
+
+---
+
+## The Raging Megafire in One of the National Parks Has Grown to the Largest in the Country
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+The Dragon Bravo Fire has continued to grow, and is contained at only 13%. It has burned down a National Historic Landmark, a historic lodge. 
+
+<br> 
+
+<https://www.sunset.com/travel/grand-canyon-dragon-bravo-fire>
+
+---
+
+## National Parks
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
 
 ---
 

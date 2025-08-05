@@ -1,11 +1,287 @@
 ---
 title: planet
-updated: 2025-08-04 14:09:31
+updated: 2025-08-05 06:08:21
 ---
 
 # planet
 
-(date: 2025-08-04 14:09:31)
+(date: 2025-08-05 06:08:21)
+
+---
+
+## Tributes paid to 'respected' Waterford Crystal union rep
+
+date: 2025-08-05, from: RTÉ News
+
+Tributes have been paid to a former union representative at Waterford Crystal who was found dead at a residential property in Co Waterford last Friday. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0805/1527011-pat-fitzgerald-waterford/>
+
+---
+
+## National museum refurbishment a 'huge amount' of work
+
+date: 2025-08-05, from: RTÉ News
+
+The Keeper of Natural History at the National Museum of Ireland has said that the refurbishment of the museum's site in Dublin city centre will be slow going. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0805/1527012-national-museum-of-ireland/>
+
+---
+
+## Revenue staff overpayments reached €1.7m by end of 2023
+
+date: 2025-08-05, from: RTÉ News
+
+The value of salary overpayments to Revenue staff reached almost €1.7 million at the end of 2023 with more than one in seven of its workforce getting paid above their proper salaries, according to the findings of an internal audit by the tax authorities. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0805/1527007-revenue-overpayments/>
+
+---
+
+## Geography shouldn’t define destiny: UN summit on landlocked nations opens in Turkmenistan
+
+date: 2025-08-05, from: United Nations, Top Stories
+
+Breaking down barriers and restoring fairness in global development should be the goal of the Third UN Conference on Landlocked Developing Countries, Secretary-General António Guterres said at its opening in Awaza, Turkmenistan, on Tuesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165571>
+
+---
+
+## Central Bank should review war bonds sale - committee
+
+date: 2025-08-05, from: RTÉ News
+
+The Central Bank should conduct an internal review into whether it can turn down a request from Israel to continue to facilitate the sale of its war bonds, an Oireachtas committee has said. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0805/1527002-israeli-war-bonds/>
+
+---
+
+## Gena Heraty family 'on tenterhooks', says parish priest
+
+date: 2025-08-05, from: RTÉ News
+
+A priest in Co Mayo has said the family of Irish woman Gena Heraty who was kidnapped in Haiti are "very upset" and "on tenterhooks" as negotiations continue. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0805/1526970-gena-heraty-priest/>
+
+---
+
+## Repair Shop presenter Blades faces rape charges
+
+date: 2025-08-05, from: RTÉ News
+
+TV presenter Jay Blades has been charged with two counts of rape. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0805/1526981-jay-blades/>
+
+---
+
+## Watch: 'Now I love her ad', Trump praises actress Sweeney
+
+date: 2025-08-05, from: RTÉ News
+
+US President Donald Trump has praised actress Sydney Sweeney, after a reporter told him she was a registered Republican. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0805/1526973-donald-trump-sydney-sweeney/>
+
+---
+
+## UN plastic pollution negotiations begin in Geneva
+
+date: 2025-08-05, from: RTÉ News
+
+Countries have begun ten days of negotiations in Geneva aimed at hammering out a landmark global treaty on combating plastic pollution. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0805/1526964-plastic-pollution-treaty-talks/>
+
+---
+
+## Dutch are first to buy US arms for Ukraine in NATO deal
+
+date: 2025-08-05, from: RTÉ News
+
+The Netherlands will buy €500m of US weapons for Ukraine, becoming the first NATO member to fund a full package under a new scheme to speed deliveries from American stockpiles, the defence ministry said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0805/1526948-ukraine-russia-conflict/>
+
+---
+
+## EU suspends tariff retaliation after US trade deal
+
+date: 2025-08-05, from: RTÉ News
+
+The 15% tariff that EU goods face when entering the US is all-inclusive, incorporating the Most Favoured Nation Rate, unlike some other countries with deals with the US, an EU official has said. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0805/1526946-eu-us-tariffs/>
+
+---
+
+## How Frank Calder and the Nisga'a influenced modern treaties in Canada
+
+date: 2025-08-05, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7597943.1754328262!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/frank-calder-pictured-front-row-and-center.jpg' alt='Eight Nisga&apos;a men are wearing suits, lined up in two rows posing for a photo. ' width='620' height='349' title='The Nisga&apos;a team that pushed for the court case, back row from the left: Solomon Doolan, Nathan Barton, James Gosnell, Rod Robinson, Roy Azak. Front row from the left: Hubert Doolan, Frank Calder, Bill McKay.'/><p>More than 50 years ago, the hereditary B.C. chief paved the way for the recognition of Aboriginal title.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/frank-calder-modern-treaty-influence-1.7597841?cmp=rss>
+
+---
+
+## 10% rise in referral of young people to Probation Service
+
+date: 2025-08-05, from: RTÉ News
+
+A new report from the Probation Service has highlighted an increase in the number of children and teenagers that the service is working with. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0805/1526939-probation-service-annual-report/>
+
+---
+
+## Dolly Parton named Guinness World Records icon
+
+date: 2025-08-05, from: RTÉ News
+
+US country star Dolly Parton has been named a Guinness World Records icon for holding 11 record-breaking titles. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0805/1526933-dolly-parton-named-guinness-world-records-icon/>
+
+---
+
+## Sole mates - a Dublin alternative to online dating
+
+date: 2025-08-05, from: RTÉ News
+
+Although online dating is one of the most popular ways to find a partner, singles in Dublin are ditching the apps and are instead hitting the pavements in the hopes of finding their perfect match at their next run. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0805/1526926-dublin-run-club/>
+
+---
+
+## Ryanair carries record 20.7m passengers in July
+
+date: 2025-08-05, from: RTÉ News
+
+Ryanair carried a record 20.7 million passengers in July. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0805/1526920-ryanair-carries-record-20-7m-passengers-in-july/>
+
+---
+
+## 131 derelict buildings recorded in Dublin city
+
+date: 2025-08-05, from: RTÉ News
+
+The number of derelict buildings in Dublin city has increased by almost 80% in the last four years, according to figures from Dublin City Council's Derelict Sites Register. 
+
+<br> 
+
+<https://www.rte.ie/news/dublin/2025/0805/1526913-derelict-buildings-dublin/>
+
+---
+
+## Djokovic withdraws from US Open warm-up event
+
+date: 2025-08-05, from: RTÉ News
+
+Novak Djokovic is set to enter the US Open without playing in any warm-up tournaments after he pulled out of the Cincinnati Open. 
+
+<br> 
+
+<https://www.rte.ie/sport/tennis/2025/0805/1526915-djokovic-withdraws-from-us-opem-warm-up-event/>
+
+---
+
+## 'Intensive' efforts under way to secure Haiti release
+
+date: 2025-08-05, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs Simon Harris held talks overnight with his Haitian counterpart about the abduction of Irish woman Gena Heraty from an orphanage in Haiti. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0805/1526909-haiti-abduction/>
+
+---
+
+## Brazil's ex-president under house arrest ahead of trial
+
+date: 2025-08-05, from: RTÉ News
+
+Brazil's Supreme Court has put former President Jair Bolsonaro under house arrest ahead of his trial for an alleged coup plot, underscoring the court's resolve despite escalating tariffs and sanctions from US President Donald Trump. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0805/1526911-jair-bolsonaro-house-arrest/>
+
+---
+
+## The costs of Trump's tariffs are starting to add up for Americans. Here's how
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601001.1754350405!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='U.S. President Donald Trump speaks, with the steps of Air Force One in the background. ' width='620' height='349' title='U.S. President Donald Trump speaks with reporters before boarding Air Force One at Lehigh Valley International Airport, Sunday, Aug. 3, 2025, in Allentown, Pa. '/><p>Little by little, the costs of U.S. President Donald Trump's tariffs are starting to add up, both for consumers and American companies that are raising prices, reporting tariff-related hits to their profits, or both.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/donald-trump-tariffs-cost-consumers-businesses-us-1.7600966?cmp=rss>
+
+---
+
+## 'Complete' Hamas defeat to free Gaza hostages - Netanyahu
+
+date: 2025-08-05, from: RTÉ News
+
+Israel's Prime Minister Benjamin Netanyahu has said Israel must "complete" the defeat of Hamas to free hostages held in Gaza, a day after Israeli media reported the army could occupy the entire territory. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0805/1526910-middle-east-gaza-israel/>
+
+---
+
+## Pioneering filmmaker George Morrison dies aged 102
+
+date: 2025-08-04, from: RTÉ News
+
+President Michael D Higgins has paid tribute to pioneering documentary-maker George Morrison who has died aged 102. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0804/1526902-george-morrison/>
 
 ---
 
@@ -21,6 +297,18 @@ Police have arrested right-wing British political activist Tommy Robinson on sus
 
 ---
 
+## Brazil's Supreme Court orders house arrest for ex-president Jair Bolsonaro
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601167.1754344156!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/brazil-bolsonaro-protest.jpg' alt='A person speaks while holding a microphone and a piece of paper.' width='620' height='349' title='Former President Jair Bolsonaro speaks during a protest against his Supreme Court trial, in which he is accused of involvement in a 2022 coup attempt, in Sao Paulo, Sunday, June, 29, 2025. (AP Photo/Ettore Chiereguini)'/><p>Brazil's Supreme Court on Monday ordered the house arrest of former president Jair Bolsonaro, who is on trial for allegedly masterminding a coup plot to remain in office despite his defeat in the 2022 election — a case that has gripped the South American country as it faces a trade war with the Trump administration.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/bolsonaro-brazil-house-arrest-1.7601166?cmp=rss>
+
+---
+
 ## Man in his 70s dies after incident in Waterford on Friday
 
 date: 2025-08-04, from: RTÉ News
@@ -30,6 +318,18 @@ A man in his 70s has died following an incident at a house in Waterford city on 
 <br> 
 
 <https://www.rte.ie/news/2025/0804/1526881-arrest-man-waterford/>
+
+---
+
+## Man in his 70s dies after incident in Waterford on Friday
+
+date: 2025-08-04, from: RTÉ News
+
+A man in his 70s has died following an incident at a house in Waterford city on Friday afternoon. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0804/1526881-pat-fitzgerald-investigation/>
 
 ---
 
@@ -46,6 +346,18 @@ date: 2025-08-04, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-36th-youth-festival-in-medjugorje-no-one-walks-alone.html>
+
+---
+
+## Heavy snow blankets parts of Australia
+
+date: 2025-08-04, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ccff170d-2d83-40ff-8447-221003ba66a3,1754341128905/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='People dressed warmly build a snowman in a snowy field.' width='620' height='349' title=''/><p>Several towns in eastern Australia received their thickest layer of snow in decades over the weekend, with authorities reporting floods, stranded vehicles and power cuts to thousands of homes. In the New South Wales town of Guyra, locals and visitors made the most of the winter wonderland, having snowball fights and building snowmen.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6855844?cmp=rss>
 
 ---
 
@@ -141,6 +453,18 @@ A man is in hospital with serious injuries after a stabbing incident in Sligo to
 
 ---
 
+## Arrest after man seriously injured in Sligo stabbing
+
+date: 2025-08-04, from: RTÉ News
+
+A man is in hospital with serious injuries after a stabbing incident in Sligo town. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0804/1526869-sligo-assault/>
+
+---
+
 ## Passengers flee flames, smoke on train in New Jersey
 
 date: 2025-08-04, from: CBC, World News
@@ -185,11 +509,11 @@ date: 2025-08-04, from: Vatican News
 
 ---
 
-## Dozens killed in Israeli strikes in Gaza, say medics
+## Israeli attacks kill at least 40 in Gaza
 
 date: 2025-08-04, from: RTÉ News
 
-At least 40 Palestinians have been killed by Israeli gunfire and airstrikes on Gaza, including 10 seeking aid, health authorities have said, adding that another five had died of starvation in what humanitarian agencies warn may be an unfolding famine. 
+At least 40 Palestinians have been killed by Israeli gunfire and airstrikes on Gaza, including ten seeking aid, health authorities have said, adding that another five had died of starvation in what humanitarian agencies warn may be an unfolding famine. 
 
 <br> 
 
@@ -213,7 +537,7 @@ A man has been arrested as part of an investigation into the murder of 34-year-o
 
 date: 2025-08-04, from: RTÉ News
 
-An investigation is under way into the death of a man at a property in Carrick-on-Suir in Co Tipperary in the early hours of this morning. 
+An investigation is under way into the death of a man at a property in Carrick-on-Suir in Co Tipperary. 
 
 <br> 
 
@@ -225,7 +549,7 @@ An investigation is under way into the death of a man at a property in Carrick-o
 
 date: 2025-08-04, from: RTÉ News
 
-The All-Ireland winning Dublin ladies football team brought some joy and the Brendan Martin cup to CHI Crumlin this morning, ahead of a homecoming event for the team tomorrow. 
+The All-Ireland winning Dublin ladies football team brought some joy and the Brendan Martin cup to CHI Crumlin, ahead of a homecoming event for the team. 
 
 <br> 
 
@@ -235,7 +559,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## The final straw? Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Economic Development
+date: 2025-08-04, from: United Nations, Top Stories
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 
@@ -271,13 +595,37 @@ Since the beginning of 2025, 600 refugees have arrived in Uganda each day, bring
 
 ## UN urges MPs to deliver on development promises for 600 million in landlocked nations
 
-date: 2025-08-04, from: United Nations, Economic Development
+date: 2025-08-04, from: United Nations, Top Stories
 
 At a major UN forum opening in Awaza, Turkmenistan, this week, parliamentarians from around the world are being urged to take decisive action to improve the lives of more than 600 million people living in landlocked developing countries (LLDCs). 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165564>
+
+---
+
+## First Person: Documenting despair and finding hope amidst the rubble of Gaza
+
+date: 2025-08-04, from: United Nations, Top Stories
+
+The daily struggle to survive an ongoing war in Gaza and to protect one’s family – while reporting on the fear and chaos that conflict brings – has become an unrelenting obligation for a UN News correspondent in the embattled enclave. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165570>
+
+---
+
+## Mounting civilian casualties in Sudan as fighting intensifies
+
+date: 2025-08-04, from: United Nations, Top Stories
+
+As conflict intensifies between rival militaries in Sudan, the UN humanitarian wing (OCHA) expressed alarm on Monday over mounting civilian casualties and worsening humanitarian conditions across the country.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165569>
 
 ---
 
@@ -557,11 +905,11 @@ Benjamin Netanyahu will convene his security cabinet this week to decide on Isra
 
 ---
 
-## Around 2,700 still without power after Storm Floris
+## Power restored to most customers after Storm Floris
 
 date: 2025-08-04, from: RTÉ News
 
-Around 2,700 homes, farms and businesses across the country are still without power after Storm Floris. 
+Power has been restored to the majority of the 10,000 homes and businesses that were impacted by Storm Floris yesterday. 
 
 <br> 
 
@@ -800,7 +1148,7 @@ Cholera is ripping through North Darfur, Sudan, threatening thousands of childre
 
 ## Awaza gears up to host UN conference on landlocked developing countries
 
-date: 2025-08-03, from: United Nations, Economic Development
+date: 2025-08-03, from: United Nations, Top Stories
 
 In the city of Awaza, where the Caspian Sea meets the desert, UN and Turkmen flags were raised on Sunday ahead of the Third United Nations Conference on Landlocked Developing Countries (LLDC3), as final preparations continue to welcome world leaders and delegates for a week of high-level talks on boosting development in some of the world’s most geographically disadvantaged nations. 
 
