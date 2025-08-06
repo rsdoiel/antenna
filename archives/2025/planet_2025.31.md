@@ -1,11 +1,227 @@
 ---
 title: planet
-updated: 2025-08-06 06:08:27
+updated: 2025-08-06 14:10:47
 ---
 
 # planet
 
-(date: 2025-08-06 06:08:27)
+(date: 2025-08-06 14:10:47)
+
+---
+
+## Slovenia bans imports from Israeli settlements
+
+date: 2025-08-06, from: RTÉ News
+
+Slovenia has introduced a ban on imports of goods produced in Israeli-occupied Palestinian territories and approved an additional aid package for Palestinians in Gaza, the government said in a statement. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0806/1527267-slovenia-israel/>
+
+---
+
+## ⓜ Full Moon-th Meetup with Saige Wilson, S.J. – August 9, 2025
+
+date: 2025-08-06, from: Vatican Obervatory
+
+Join us on Sat. Aug. 9th for a discussion with Saige Wilson, our summer intern for 2025. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/%e2%93%9c-full-moon-th-meetup-with-saige-wilson-s-j-august-9-2025/>
+
+---
+
+## Europa League qualifier recap: Rijeka 1-2 Shelbourne
+
+date: 2025-08-06, from: RTÉ News
+
+Read how it all unfolded as Shelbourne recorded a famous win in Croatia. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0806/1527198-europa-league-qualifier-recap-rijeka-1-2-shelbourne/>
+
+---
+
+## US pharma firms will be 'damaged' by tariffs - Taoiseach
+
+date: 2025-08-06, from: RTÉ News
+
+Taoiseach Micheál Martin said President Donald Trump should keep in mind that US pharmaceutical firms based in Ireland will be "damaged and undermined" if he goes through with his latest sectoral tariffs threats 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0806/1527255-pharma-tariffs-ireland/>
+
+---
+
+## Charity hopes to probe possible 'hidden homicides'
+
+date: 2025-08-06, from: RTÉ News
+
+A charity established in Northern Ireland to help families who have questions about the tragic deaths of loved ones is investigating a number of cases in the Republic. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527245-charity-hopes-to-probe-possible-hidden-homicides/>
+
+---
+
+## Watch: Oasis fans stock up on merch at Dublin pop-up
+
+date: 2025-08-06, from: RTÉ News
+
+Oasis fans have been snapping up official band merchandise in time for the upcoming, much anticipated gigs in Dublin in ten days time. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527242-oasis-fans-dublin/>
+
+---
+
+## What's slimy, green and flourishing thanks to climate change?
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7352323.1728999674!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/blue-green-algae-bloom-2015-lake-erie.jpg' alt='A top-down view shows bright green algae against the deeper blue waters of a lake. The bloom swirls near a peninsula that juts out into the lake. ' width='620' height='349' title='Swirls of green, captured from space by a satellite, show a 2015 blue-green algae bloom in Lake Erie, off the shore of Point Pelee.'/><p>Canada's lakes are changing because of warming caused by the burning of fossil fuels. Here's why scientists are concerned.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/algae-growth-climate-change-1.7602494?cmp=rss>
+
+---
+
+## Tax take to end of July up 7.5% on same time last year
+
+date: 2025-08-06, from: RTÉ News
+
+The amount of tax collected by the State between January and the end of July was up by 7.5% on the same time last year, when once off payments related to the Apple tax ruling are excluded. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0806/1527240-tax-take-to-end-of-july-up-7-5-on-same-time-last-year/>
+
+---
+
+## One dead, nine injured in large France wildfire
+
+date: 2025-08-06, from: RTÉ News
+
+Hundreds of firefighters are battling to halt the spread of a wildfire in southern France that has scorched a vast area, killed one person and injured nine others. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527237-france-wildfire/>
+
+---
+
+## Manitoba Métis Federation boycotts PM's summit on major projects law
+
+date: 2025-08-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7602475.1754507354!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250806.jpg' alt='A man stands at a podium which is draped with a Métis sash.' width='620' height='349' title='Manitoba Metis Federation president David Chartrand speaks during a press conference ahead of the planned Bill C-5 Summit in Ottawa, on Aug. 6, 2025. '/><p>Manitoba Métis leaders have turned down an invite to Prime Minister Mark Carney's summit on his government's major projects law because the Liberals are including the Métis Nation of Ontario. Other Métis groups are also expressing concerns after confirming they weren’t invited.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/mmf-mno-carney-c5-summit-1.7602467?cmp=rss>
+
+---
+
+## One dead, houses destroyed in France's biggest wildfire in almost 80 years
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602516.1754506663!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/europe-weather-france-wildfire.JPG' alt='Wildfire' width='620' height='349' title='Trees burn during a wildfire at sunrise near Saint-Laurent-de-la-Cabrerisse, near Narbonne, southern France, August 6, 2025. REUTERS/Manon Cruz REFILE - QUALITY REPEAT'/><p>French firefighters were battling on Wednesday to control the country's biggest wildfire in almost 80 years, with the blaze in the southern Aude region having already swept through an area bigger than Paris.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/france-wildfires-1.7602470?cmp=rss>
+
+---
+
+## 14 August:  Day of Fasting and Prayer for Peace
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>The International Union of Superiors General (UISG) calls for a worldwide Day of Fasting and Prayer for Peace on August 14, 2025, the eve of the Solemnity of the Assumption.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/14-august-day-fasting-prayer-peace-uisg-invitation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/14-august-day-fasting-prayer-peace-uisg-invitation.html>
+
+---
+
+## Poland's new president sticks to nationalist script
+
+date: 2025-08-06, from: RTÉ News
+
+Poland's new president Karol Nawrocki was sworn in at a ceremony in the Polish parliament in Warsaw today. Nationalistic and eurosceptic in tone, his speech set the stage for tense relations with the country's current pro-EU government. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527203-polish-president/>
+
+---
+
+## Synodal meeting in US strengthens cooperation between labor groups and Church
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>A two-day meeting at the headquarters of the United States Conference of Catholic Bishops in Washington examines the challenges of dignified work, integral human development, and care for our common home.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/synodal-meeting-in-us-strengthens-cooperation-labor-and-church.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/synodal-meeting-in-us-strengthens-cooperation-labor-and-church.html>
+
+---
+
+## Goa celebrates Message of Fatima and synodal renewal
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>A Marian Congress in Goa, India, gathers clergy, religious and laity to renew their commitment to prayer, evangelisation and synodal engagement.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/goa-india-marian-congress-waf-70-years.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/goa-india-marian-congress-waf-70-years.html>
+
+---
+
+## German superstar Thomas Müller joins Vancouver Whitecaps
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602401.1754507114!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/thomas-muller.jpg' alt='Man holds up a jersey.' width='620' height='349' title='Thomas Müller holds up his #13 Whitecaps jersey, announcing he will join the Vancouver team. '/><p>In a video posted to social media by the Vancouver Whitecaps, Müller holds up his Whitecaps #13 jersey and states, "Let's make history."</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/german-superstar-thomas-m%C3%BCller-joins-vancouver-whitecaps-1.7602363?cmp=rss>
+
+---
+
+## Italy yet again plans to build a bridge to Sicily. It may succeed, thanks to NATO spending push
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602307.1754496360!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/italy-bridge.jpg' alt='A bearded man wearing a blazer and collared shirt speaks while seated. ' width='620' height='349' title='Italian Vice Premier and Minister of Transport Matteo Salvini holds a press conference about the decision to approve work on the Strait of Messina suspension bridge linking the Italian mainland with Sicily, in Rome, Wednesday, Aug. 6, 2025.  '/><p>Italy is once again pushing ahead with a plan to link the mainland with Sicily in a massive infrastructure project that, even if everything goes according to plan, will take nearly eight years and 13.5 billion euros to construct.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/italy-sicily-calabria-bridge-approval-1.7602173?cmp=rss>
 
 ---
 
@@ -37,6 +253,54 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ---
 
+## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165584>
+
+---
+
+## Ceasefire in doubt as Rwanda-backed rebels kill hundreds in eastern DR Congo
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+Hopes for peace in the Democratic Republic of the Congo (DRC) have been shaken by a surge in brutal attacks on civilians by armed groups, including the Rwandan-backed M23 militia, in the country’s troubled eastern region. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165586>
+
+---
+
+## Hiroshima, 80 years on: ‘Real change’ needed to end existential nuclear threat
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+The world changed forever 80 years ago this Wednesday when the United States dropped an atomic bomb on the Japanese city of Hiroshima during the Second World War.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165583>
+
+---
+
+## Gaza: Alarm over Israeli move to deregister NGOs
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+Aid agencies warned on Wednesday&nbsp;that most partner organizations providing vital relief across Gaza will likely have to shut down their operations within weeks, unless Israel withdraws its demand that they provide sensitive information about Palestinian employees. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165582>
+
+---
+
 ## 'Terrifying' - US man recalls being kidnapped in Haiti
 
 date: 2025-08-06, from: RTÉ News
@@ -46,6 +310,30 @@ A US citizen who was held for ransom by a gang in Haiti for 43 days said negotia
 <br> 
 
 <https://www.rte.ie/news/2025/0806/1527182-jeff-frazier-haiti/>
+
+---
+
+## Hiroshima 80th anniversary commemorated amid worries of renewed nuclear threats
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/4ffbf116-0e2c-4518-a6d6-7aae018c2d60,1754493045005/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5430%2C3054%29%3BResize%3D%28620%29' alt='Hiroshima 80 years later' width='620' height='349' title='A young boy watches as his paper lantern floats out on the Motoyasu River past the Atomic Bomb Dome (back R) to mark the 80th anniversary of the world&apos;s first atomic bomb attack, in the city of Hiroshima on August 6, 2025. (Photo by Richard A. Brooks / AFP) (Photo by RICHARD A. BROOKS/AFP via Getty Images)          '/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/japan-hiroshima-80th-anniversary-1.7602067?cmp=rss>
+
+---
+
+## Electric Picnic adds 11 more acts to line-up
+
+date: 2025-08-06, from: RTÉ News
+
+The Electric Picnic has revealed another 11 acts that will be joining the previously announced headliners Hozier, Chappell Roan, Sam Fender, Fatboy Slim, Kings of Leon, and Becky Hill at the festival in Stradbally, Co Laois from 29 to 31 August. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0806/1527183-electric-picnic-adds-11-more-acts-to-line-up/>
 
 ---
 
@@ -70,6 +358,18 @@ A 33-year-old Irish woman has been found dead on board a boat which was docked a
 <br> 
 
 <https://www.rte.ie/news/us/2025/0806/1527179-martha-nolan-o-slatarra/>
+
+---
+
+## Zara ads banned over models who appeared 'unhealthily thin'
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602138.1754485858!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/inditex-results.JPG' alt='Women carry brown paper bags with &quot;Zara&quot; written on the sides in white.' width='620' height='349' title='Women carry bags from Zara in the Gran Via of Bilbao, Spain on March 15, 2025.'/><p>The advertising regulator in the United Kingdom has banned two ads by Zara for using models who appeared "unheathily thin," finding the photos were "irresponsible" to run.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/zara-ad-banned-thin-model-2025-1.7602130?cmp=rss>
 
 ---
 
@@ -125,11 +425,11 @@ A teenager, who was seriously injured in a road crash in Co Kerry at the weekend
 
 ---
 
-## Gena Heraty a 'tough, resilient' person, says charity
+## Taoiseach appeals for release of Gena Heraty in Haiti
 
 date: 2025-08-06, from: RTÉ News
 
-The Irish branch of the charity, which the kidnapped Irish woman Gena Heraty works with in Haiti, has described her as a tough and very resilient person. 
+Taoiseach Micheál Martin has appealed for the release of Gena Heraty, saying she has made an extraordinary contribution to life in Haiti. 
 
 <br> 
 
@@ -165,7 +465,19 @@ Poland must start work on changing its constitution, President Karol Nawrocki sa
 
 ---
 
-## US Church on pilgrimage for Peace to Hiroshima and Nagasaki 
+## Inside OpenAI's zealous pursuit of AI dominance
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7264020.1721065712!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sam-altman.jpg' alt='A man speaks on a stage with the words &apos;OpenAI&apos; behind him.' width='620' height='349' title='OpenAI CEO Sam Altman speaks during the Microsoft Build conference at the Seattle Convention Center Summit Building in Seattle, Wash., on May 21, 2024. '/><p>A new book called ‘Empire of AI’ pulls back the curtain on OpenAI’s often secretive and zealous pursuit of human-level artificial intelligence. We talk to its author, tech journalist Karen Hao.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/frontburner/inside-openai-s-zealous-pursuit-of-ai-dominance-1.7601534?cmp=rss>
+
+---
+
+## US Church on Pilgrimage for Peace to Hiroshima and Nagasaki 
 
 date: 2025-08-06, from: Vatican News
 
@@ -249,7 +561,7 @@ date: 2025-08-06, from: Vatican News
 
 ---
 
-## Israeli military chief pushes back on expanding Gaza war
+## Israel orders army to execute govt decisions on Gaza
 
 date: 2025-08-06, from: RTÉ News
 
@@ -321,11 +633,11 @@ date: 2025-08-06, from: CBC, World News
 
 ---
 
-## Daniel O'Connell's legacy remembered on 250th birthday
+## State-led commemoration held at home of Daniel O'Connell
 
 date: 2025-08-06, from: RTÉ News
 
-Today marks the 250th anniversary of the birth of Daniel O'Connell, the man known as 'The Liberator'. 
+The 250th anniversary of the birth of Daniel O'Connell, 'The Liberator', has been marked by a State-led commemoration at his ancestral home, Derrynane House in Co Kerry. 
 
 <br> 
 
@@ -405,11 +717,11 @@ Exactly 80 years since an atomic bomb was used in war for the first time, thousa
 
 ---
 
-## Swiss president to meet Rubio for talks on tariffs
+## US adds extra 25% tariff on India over Russian oil
 
 date: 2025-08-06, from: RTÉ News
 
-Swiss President Karin Keller-Sutter will meet US Secretary of State Marco Rubio, the State Department said, as Switzerland tries to win a reprieve from US tariffs of 39% on Swiss imports. 
+US President Donald Trump has signed an order to impose an additional 25% tariff on Indian goods over New Delhi's continued purchase of Russian oil. 
 
 <br> 
 
@@ -417,7 +729,7 @@ Swiss President Karin Keller-Sutter will meet US Secretary of State Marco Rubio,
 
 ---
 
-## Talks between Putin and Witkoff 'constructive' - Kremlin
+## Trump plans to meet Putin in person - report
 
 date: 2025-08-05, from: RTÉ News
 
@@ -454,6 +766,18 @@ Areas in Ireland hardest hit by the Famine did not experience an expected stunti
 <br> 
 
 <https://www.rte.ie/news/2025/0806/1527067-famine-study/>
+
+---
+
+## WATCH | #TheMoment a grizzly bear charged at the Seattle Kraken's mascot
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602024.1754447323!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clip-the-mascot-bear-moment.jpg' alt='A bear charges towards a mascot in a river.' width='620' height='349' title='A bear charges towards a mascot in a river.'/><p>Melissa O'Brochta, director of partnership marketing with the Seattle Kraken, tells The National about the moment the NHL team’s mascot was charged at by a grizzly bear while fly fishing in Alaska’s Brooks Falls.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/video/9.6857277?cmp=rss>
 
 ---
 
@@ -529,7 +853,7 @@ The father of a "lifelong fan" who fell to his death at the end of an Oasis conc
 
 ---
 
-## ‘Energy in the room’ why no extension on tariffs for Canada, says U.S. ambassador
+## ‘Energy in the room’: Why no extension on tariffs for Canada, says U.S. ambassador
 
 date: 2025-08-05, from: CBC, World News
 
@@ -799,7 +1123,7 @@ The value of salary overpayments to Revenue staff reached almost €1.7 million 
 
 ## Geography shouldn’t define destiny: UN summit on landlocked nations opens in Turkmenistan
 
-date: 2025-08-05, from: United Nations, Economic Development
+date: 2025-08-05, from: United Nations, Top Stories
 
 Breaking down barriers and restoring fairness in global development should be the goal of the Third UN Conference on Landlocked Developing Countries, Secretary-General António Guterres said at its opening in Awaza, Turkmenistan, on Tuesday.&nbsp; 
 
@@ -1551,7 +1875,7 @@ Since the beginning of 2025, 600 refugees have arrived in Uganda each day, bring
 
 ## UN urges MPs to deliver on development promises for 600 million in landlocked nations
 
-date: 2025-08-04, from: United Nations, Economic Development
+date: 2025-08-04, from: United Nations, Top Stories
 
 At a major UN forum opening in Awaza, Turkmenistan, this week, parliamentarians from around the world are being urged to take decisive action to improve the lives of more than 600 million people living in landlocked developing countries (LLDCs). 
 
@@ -2140,7 +2464,7 @@ Cholera is ripping through North Darfur, Sudan, threatening thousands of childre
 
 ## Awaza gears up to host UN conference on landlocked developing countries
 
-date: 2025-08-03, from: United Nations, Economic Development
+date: 2025-08-03, from: United Nations, Top Stories
 
 In the city of Awaza, where the Caspian Sea meets the desert, UN and Turkmen flags were raised on Sunday ahead of the Third United Nations Conference on Landlocked Developing Countries (LLDC3), as final preparations continue to welcome world leaders and delegates for a week of high-level talks on boosting development in some of the world’s most geographically disadvantaged nations. 
 

@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-08-06 06:08:34
+updated: 2025-08-06 14:10:54
 ---
 
 # journalism
 
-(date: 2025-08-06 06:08:34)
+(date: 2025-08-06 14:10:54)
+
+---
+
+## UC ‘to engage’ in talks with federal administration amid UCLA $584 million loss
+
+date: 2025-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC has agreed “to engage in dialogue with the federal administration” about its $584 million cut in research grants to UCLA, according to Wednesday statements from UC and UCLA administrators. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/06/uc-to-engage-in-talks-with-federal-administration-amid-ucla-584-million-loss/>
+
+---
+
+## Report for America journalists increasingly keep jobs in their host newsrooms, data shows
+
+date: 2025-08-06, from: Nieman Journalism Lab
+
+Eight years after Report for America launched, its graduates are more often than not accepting permanent positions in their newsrooms. RFA launched in 2017 with the goal of placing &#8220;emerging journalists&#8221; in local newsrooms for a year of service and the option for a second year, with half their salary covered by RFA. The idea... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/report-for-america-journalists-increasingly-keep-jobs-in-their-host-newsrooms-data-shows/>
 
 ---
 

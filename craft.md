@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-08-06 06:08:38
+updated: 2025-08-06 14:10:58
 ---
 
 # craft
 
-(date: 2025-08-06 06:08:38)
+(date: 2025-08-06 14:10:58)
+
+---
+
+## Now Shipping: ‘The Anarchist’s Tool Chest: Revised Edition’
+
+date: 2025-08-06, from: Lost Arg Press blog
+
+We’ve just received 11 pallets of “The Anarchist’s Tool Chest: Revised Edition” and we are busy shipping them out to customers. The first 500 customers will also receive a free iron-on merit badge with the A-square logo. Oh, and we also re-released the original ATC T-shirt in red (union made in the United States). You... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/08/06/now-shipping-the-anarchists-tool-chest-revised-edition/>
 
 ---
 

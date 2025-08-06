@@ -1,11 +1,193 @@
 ---
 title: columns
-updated: 2025-08-06 06:08:32
+updated: 2025-08-06 14:10:53
 ---
 
 # columns
 
-(date: 2025-08-06 06:08:32)
+(date: 2025-08-06 14:10:53)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-06, from: Dave Winer's Scripting News)
+
+A Brian Lehrer <a href="https://www.wnyc.org/story/segregation-at-nycs-specialized-high-schools/">segment</a> on specialized <a href="https://en.wikipedia.org/wiki/Specialized_high_schools_in_New_York_City">high schools</a> in NYC. I went to one of them, signed up for <a href="https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test">the test</a> mostly to get out of school for a day, and got in. Back in those days (the early 70s) no one studied for the test as far as I know. It has become very competitive and there's an issue of the racial makeup of the student body. As always Lehrer does a great podcast. 
+
+<br> 
+
+<http://scripting.com/2025/08/06.html#a204326>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-06, from: Dave Winer's Scripting News)
+
+Not much time to blog today, might have a podcast later. In the meantime I did a search of Daytona for <a href="https://daytona.scripting.com/search?q=%22object%20database%22">object database</a>, a term that goes back to the early days and makes for an interesting browse, at least for me. 
+
+<br> 
+
+<http://scripting.com/2025/08/06.html#a204222>
+
+---
+
+##  I analyzed more than 100 extremist manifestos: Misogyny was the common thread.... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047286-i-analyzed-more-than-100>
+
+---
+
+## Why AI Disrupts Software First
+
+date: 2025-08-06, from: Om Malik blog
+
+A few days&#160;ago,&#160;when decoding&#160;Microsoft CEO Satya Nadella’s memo&#160;to his company about&#160;layoffs&#160;and artificial intelligence, I said that “this is not just about Microsoft, but pretty much every software company will be hit hard by this wave of transformation.” The point I was making in the piece was that&#160;AI&#160;is&#160;coming,&#160;and the first domino to fall&#160;will&#160;be software. When watching &#8230; 
+
+<br> 
+
+<https://om.co/2025/08/06/why-ai-disrupts-software-first/>
+
+---
+
+##  The case for memes as a new form of comics. &#8220;Memes —... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047285-the-case-for-memes-as>
+
+---
+
+## August 5, 2025
+
+date: 2025-08-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170293463/9702a762f474feb58fb79c304dfea17b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170293463/9702a762f474feb58fb79c304dfea17b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-5-2025>
+
+---
+
+## OpenAI: ‘Introducing gpt-oss’
+
+date: 2025-08-06, updated: 2025-08-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://openai.com/index/introducing-gpt-oss/>
+
+---
+
+##  From restitution to confronting authoritarian regimes, here are five ways museums can... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047279-from-restitution-to-confr>
+
+---
+
+##  &#8220;As a clinical psychologist, I was curious: Could ChatGPT function like a... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047275-as-a-clinical-psychologis>
+
+---
+
+##  Matt Webb on copyrighting your faults. &#8220;I think part of growing up... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047273-matt-webb-on-copyrighting>
+
+---
+
+## All the concerns that make you a boring developer
+
+date: 2025-08-06, from: Dave Rupert blog
+
+<p>I was thinking this morning about how once you understand that your technology choices have security, performance, and accessibility considerations you become a much more boring developer. Acknowledging those obligations can sort of strips the fun out of programming, but we’re better for it.</p>
+<p>I decided to pull on that thread a little more and come up with a list of all the concerns you might have as an engineer/developer that ultimately compound to make you a boring, wet blanket of a person to be in meetings with.</p>
+<ul>
+<li><strong>Security</strong>  - Make sure you’re not opening the door for hackers.</li>
+<li><strong>Privacy</strong> - Don’t leak personal information. Or don’t collect it in the first place.</li>
+<li><strong>Performance</strong>  - Can the software work on low-end devices? Can you deliver the large bundle over bad internet? Those are your problems.</li>
+<li><strong>Inclusion/Accessibility</strong>  - Are you allowing people the dignity to use your product? No? Oof. You should probably do that. Ideally because you are an ethical person, but also because it’s a legal liability.</li>
+<li><strong>Scalability</strong>  - If a thousand people show up in the next minute, does your software still work? You have 100 users now, but how does it work for 1000? 1 million? 1 billion?</li>
+<li><strong>Maintenance</strong> - Ship a new feature? Great. Expect to spend at least 40% of cost/time to maintain a feature over its lifetime.</li>
+<li><strong>Testability</strong>  - Did you write the code in a way that’s easy to test to make sure bugs don’t show up in production?</li>
+<li><strong>Deliverability/Distribution</strong>  - How do people get or use your software?</li>
+<li><strong>Adoption/Onboarding</strong>  - How do customers or partners use your software? How do they get familiar?</li>
+<li><strong>Documentation</strong> - Email and DMs is probably not the most efficient form on knowledge transfer.</li>
+<li><strong>Ecological</strong>  - Does your app burn through GPUs in Iowa? What are you doing about that?</li>
+<li><strong>Financial/Cost</strong>  - Servers and GPUs cost money, did you build this in such a way that it costs as little as possible to run?</li>
+<li><strong>Monetizability</strong> - Good idea but does it make money or cost money?</li>
+<li><strong>User feedback</strong>  - What are customers or partners saying about this? Does that impact how or what you write?</li>
+<li><strong>Stakeholder feedback</strong> - Like user feedback but everyone freaks out like their job depends on solving the problem that day regardless if its a good idea or bad idea.</li>
+<li><strong>Organizational</strong> - How to get your co-workers onboard with the plan plays an outsized part in software engineering. Welcome to the world of office politics!</li>
+<li><strong>Staffability</strong> - There’s not a lot of Haskell developers out there. Or the inverse, people over-optimize on technologies that are “easy to hire for” and now you have a billion lines of Java in your application.</li>
+<li><strong>Support matrixes</strong> - For websites, of course we support major browsers and the latest 2 versions? Do we need to go back further? Weirdo browsers? Should we make native apps? Which ones? What devices/CPU architectures do we support there? Niche Linux distros? The list goes on.</li>
+<li><strong>Political</strong> - Some say “all tech is political”, and I tend to agree, but ask yourself: Did you put a politics inside the code? You did, didn’t you?</li>
+<li><strong>Geopolitical</strong> - Rare, but happens. See: <a href="https://erinkissane.com/meta-in-myanmar-full-series">Facebook Myanmar genocide</a></li>
+<li><strong>Localization/Internationalization</strong>  - Uh-oh, your UI doesn’t work in German or Arabic. Also all your images and icons are offensive to a particular country’s monarch. Are you ready to cross the borders? Get ready for VAT tax tables, ughck.</li>
+<li><strong>SEO/Crawlability</strong>  - Cool website you made, can robots get to it and index it? Now LLMs are coming and slurping up your content and traffic. Uh-oh!</li>
+<li><strong>Adjacent competitors</strong>  - What your competitors are doing will always play a role in engineering. Looking better than them is good, being cheaper is good too, but one rule is the most important: never be slower. See: <a href="https://infrequently.org/2020/06/platform-adjacency-theory/">Platform adjacency theory</a></li>
+<li><strong>Throughput/Velocity</strong> - How fast can you and (more importantly) your team ship an idea from conception to production. What about turnaround times on bug reports?</li>
+</ul>
+<p>If you ever ask a developer if an idea is possible and their brain lags out with a little loading spinner over their head, it might be this enormous pile of concerns they’re mulling over. That can be an issue, but I’d be more concerned about the developer that instantly says “Yes” to everything. And if you’re tired of developers saying “No” all the time, <a href="https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292">ask your developer</a> about ways to put them in situations where they can say “Yes”.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/>
+
+---
+
+##  mRNA vaccines for HIV trigger strong immune response in people. &#8220;Two vaccine... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047282-mrna-vaccines-for-hiv-tri>
+
+---
+
+##  &#8220;Health Secretary Robert F. Kennedy Jr. has canceled nearly $500 million of... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047287-health-secretary-robert-f>
 
 ---
 

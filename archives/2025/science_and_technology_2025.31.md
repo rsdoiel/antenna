@@ -1,11 +1,311 @@
 ---
 title: science and technology
-updated: 2025-08-06 06:08:31
+updated: 2025-08-06 14:10:51
 ---
 
 # science and technology
 
-(date: 2025-08-06 06:08:31)
+(date: 2025-08-06 14:10:51)
+
+---
+
+## Not big in Japan: Apple's WebKit browser requirement may break new law
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Three jurisdictions now want browser engine variety for a better mobile market</h4> <p>Apple now faces challenges to its WebKit browser requirement in three jurisdictions, as authorities around the globe try to jumpstart competition in the mobile software industry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/apples_webkit_rule_japan/>
+
+---
+
+## Proxmox Virtual Environment 9.0 with Debian 13 released
+
+date: 2025-08-06, from: OS News
+
+Main highlight of this update is a modernized core built upon Debian 13 “Trixie”, ensuring a robust foundation for the platform. Proxmox VE 9.0 further introduces significant advancements in both storage and networking capabilities, addressing critical enterprise demands. A highlight is the long-awaited support for snapshots on thick-provisioned LVM shared storage, improving storage management capabilities especially for enterprise users with Fibre Channel (FC) or iSCSI SAN environments. With newly added “fabric” support for Software-Defined Networking (SDN), administrators can construct highly complex and scalable network architectures. ↫ Proxmox press release I&#8217;ve only very recently accepted the gospel of Proxmox, and I now have a little mini PC running Proxmox, hosting a Debian Pi-Hole container, a 9front virtual machine, and a Windows 7 retro virtual machine. I&#8217;m intending to use it as an easy shortcut for running retro stuff, as well as any fun tools I might run into that work best in a container. I haven&#8217;t updated yet to this new release, but I&#8217;m interested to see how easy the upgrade process will be. Considering it&#8217;s just Debian, it can&#8217;t be too involved. I&#8217;m curious of anyone else here is using Proxmox or similar tools at home, or at work for more complex use cases. 
+
+<br> 
+
+<https://www.osnews.com/story/142990/proxmox-virtual-environment-9-0-with-debian-13-released/>
+
+---
+
+## Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work
+
+date: 2025-08-06, from: OS News
+
+As promised in the first iteration, we will now explore how GPU drivers work in more detail by exploring an application known as&#160;VkCube. As the program name implies, this application uses the Vulkan API to render a rotating cube on the screen. Its simplicity makes it a prime candidate to be used as a learning aid in our journey through GPU drivers. This article will first introduce the concept of User Mode Drivers (UMDs) and Kernel Mode Drivers (KMDs), breaking down the steps needed to actually describe&#160;VkCube&#8216;s workload to the GPU. This will be done in a more compact way for brevity as it&#8217;s a rather extensive topic that has been detailed in several books. We will wrap up with an overview of the actual API offered by Tyr. As previously stated, this is the same API offered by Panthor, which is the C driver for the same hardware. ↫ Daniel Almeida There isn&#8217;t much to add here, except maybe this kitten. 
+
+<br> 
+
+<https://www.osnews.com/story/142988/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/>
+
+---
+
+## Scientists Discover Australian Lizards Have Mutations to Resist Snake Venom—and One Day, That Could Help Humans
+
+date: 2025-08-06, from: Smithsonian Magazine
+
+A new study looking at how skinks have evolved to block venom from reaching their muscles could guide development of new antivenoms 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-discover-australian-lizards-have-mutations-to-resist-snake-venom-and-one-day-that-could-help-humans-180987120/>
+
+---
+
+## Mauritius investigates AFRINIC as African institutions show support ahead of new elections
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>But strife and criticism continue</h4> <p>Regional internet registry the African Network Information Centre (AFRINIC) is now the subject of an investigation ordered by the government of its home country, Mauritius.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/mauritius_investigates_afrinic/>
+
+---
+
+## OpenAI’s new model can't believe that Trump is back in office
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>gpt-oss-20b can&#39;t seem to decide who won the election, but tried to convince us that it was Biden</h4> <p>If you&#39;re still struggling to come to terms with the results of the 2024 US presidential election, you&#39;re not alone. OpenAI&#39;s new open-weight language model is also a bit confused.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/openai_model_election_disinformation/>
+
+---
+
+## Only ISPs get to determine what constitutes 'affordable' broadband, says team Trump
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>A good deal, like beauty, is in the ISP of the beholder, after all - at least if you want BEAD funding</h4> <p>US states that want to make use of rural broadband deployment funds had better not require ISPs to offer what they consider affordable service. According to the Trump Administration, &#34;affordable&#34; is for the ISP alone to define. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/us_states_affordable_broadband/>
+
+---
+
+## NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
+
+date: 2025-08-06, from: NASA breaking news
+
+As Greenland’s ice retreats, it’s fueling tiny ocean organisms. To test why, scientists turned to a computer model out of JPL and MIT that’s been called a laboratory in itself. Runoff from Greenland’s ice sheet is kicking nutrients up from the ocean depths and boosting phytoplankton growth, a new NASA-supported study has found. Reporting in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/>
+
+---
+
+## NASA’s Perseverance Rover Captures Mars Vista As Clear As Day
+
+date: 2025-08-06, from: NASA breaking news
+
+‘Float rocks,’ sand ripples, and vast distances are among the sights to see in the latest high-resolution panorama by the six-wheeled scientist. The imaging team of NASA’s Perseverance Mars rover took advantage of clear skies on the Red Planet to capture one of the sharpest panoramas of its mission so far. Visible in the mosaic, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/>
+
+---
+
+## Studio Museum in Harlem, Closed for Renovations Since 2018, Sets November Reopening
+
+date: 2025-08-06, from: Smithsonian Magazine
+
+The museum, which features work from African and African American artists, will debut a new look in its expanded space 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/studio-museum-in-harlem-closed-for-renovations-since-2018-sets-november-reopening-180987116/>
+
+---
+
+## Google says the group behind last year's Snowflake attack slurped data from one of its Salesforce instances
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>ShinyHunters suspected in rash of intrusions</h4> <p>Google confirmed that criminals breached one of its Salesforce databases and stole info belonging to some of its small-and-medium-business customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/google_salesforce_attacks/>
+
+---
+
+## NASA Astronaut Barry “Butch” Wilmore Retires
+
+date: 2025-08-06, from: NASA breaking news
+
+After 25 years at NASA, flying in four different spacecraft, accumulating 464 days in space, astronaut and test pilot Butch Wilmore has retired from NASA. The Tennessee native earned a bachelor’s and a master’s degree in electrical engineering from Tennessee Technological University and a master’s degree in aviation systems from the University of Tennessee. Wilmore [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-barry-butch-wilmore-retires/>
+
+---
+
+## Trump surprises with TSMC $300B investment claim
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Chip contract manufacturer declines to comment</h4> <p>Taiwan Semiconductor Manufacturing Company (TSMC) is &#34;coming over and spending $300 billion in Arizona, building the biggest plant in the world for chips and semiconductors,&#34; US President Donald Trump said Tuesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/trump_tsmc_300b/>
+
+---
+
+## Meta putting wood in bit barns in bid to get greener
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Timber!</h4> <p>Meta is following in Microsoft&#39;s footsteps and trying out wood as a construction material for its datacenters in a bid to cut greenhouse gas emissions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/meta_pilots_wooden_datacenters/>
+
+---
+
+## Cognitive Decline Can Be Slowed Down With Lifestyle Changes, From Diet to Exercise and Social Time, New Study Suggests
+
+date: 2025-08-06, from: Smithsonian Magazine
+
+A 2,100-participant clinical trial found that structured and self-guided lifestyle changes can improve cognitive capabilities in older, at-risk adults 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/cognitive-decline-can-be-slowed-down-with-lifestyle-changes-from-diet-to-exercise-and-social-time-new-study-suggests-180987077/>
+
+---
+
+## Arista pushes Ethernet for AI, downplays effect of tariffs
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Thanks to LLMs, CEO expects to see networks &#39;back-end and front-end converge&#39;</h4> <p>Arista Networks is expecting the AI datacenter industry to be dominated by open standards such as Ethernet or UALink in the near future, and has upped financial forecasts on the back of those hopes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/arista_pushes_ethernet_for_ai/>
+
+---
+
+## Google, OpenAI, Anthropic get blanket deal to saturate US government with their AI
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Act now and Uncle Sam will throw in ChatGPT Enterprise for your agency for just $1</h4> <p>It&#39;s just become a lot easier for US government agencies to procure AI products from Anthropic, Google, and OpenAI, as the firms and the feds have signed a government-wide agreement to streamline purchasing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/google_openai_anthropic_us_gov_ai_deal/>
+
+---
+
+## Curiosity Looks Back Toward Its Landing Site
+
+date: 2025-08-06, from: NASA breaking news
+
+NASA’s Curiosity rover captured a view of its tracks on July 26, 2025. The robotic scientist is now exploring a region of lower Mount Sharp, a 3-mile-tall (5-kilometer-tall) mountain. The pale peak of the mountain can be seen at top right; the rim of Gale Crater, within which the mountain sits, is on the horizon [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/>
+
+---
+
+## Microsoft hoping to knock users' socks off with Windows XP Crocs
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>A crock of what now?</h4> <p>Microsoft is reportedly preparing to unleash its latest product on the public: limited edition XP-themed Crocs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/microsoft_reportedly_about_to_unleash/>
+
+---
+
+## More NASA spacecraft give controllers the silent treatment
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Communication problems for recently launched small satellites</h4> <p>NASA is having trouble tracking down two of its spacecraft. One of the TRACERS spacecraft has lost contact with Earth while the Athena EPIC satellite failed to send an important beacon signal.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/more_nasa_spacecraft_give_controllers/>
+
+---
+
+## New Method Is the Fastest Way To Find the Best Routes
+
+date: 2025-08-06, from: Quanta Magazine
+
+A canonical problem in computer science is to find the shortest route to every point in a network. A new approach beats the classic algorithm taught in textbooks.             <p>The post <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/" target="_blank">New Method Is the Fastest Way To Find the Best Routes</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/>
+
+---
+
+## Mississippi Attorney Serves NASA and the Nation
+
+date: 2025-08-06, from: NASA breaking news
+
+Before Nathan Jermyn could dig into the legal frameworks at NASA, he had to answer a different call. Jermyn participated in a one-day orientation in the summer of 2023 to begin work as an attorney-advisor supporting NASA’s Stennis Space Center and the NASA Shared Services Center near Bay St. Louis, Mississippi. However, the Biloxi, Mississippi, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/ms-attorney-nathan-jermyn-serves/>
+
+---
+
+## AWS wiped my account of 10 years, says open source dev
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Cloud giant erased decade of work – denies it was due to botched dry run of user-pruning tool</h4> <p><strong>Updated</strong>  An open source developer is claiming AWS deleted his ten-year-old account, wiping all the data. He believes this was due to a botched test of a script designed to prune dormant accounts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/aws_wipes_ten_years/>
+
+---
+
+## Gigantic 'Walking Stick' Discovered in Australia Might Be the Continent's Heaviest Insect
+
+date: 2025-08-06, from: Smithsonian Magazine
+
+Scientists identified the elusive new species from a female found in a high-altitude rainforest’s canopy 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/gigantic-stick-insect-discovered-in-australia-might-be-the-continents-heaviest-insect-180987108/>
+
+---
+
+## US charges 2 Chinese nationals with illegally shipping Nvidia AI chips to China
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Feds claim suspects rerouted kit through Malaysia</h4> <p>Federal authorities in the US have charged two Chinese nationals with secretly exporting advanced AI chips to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/ai_chips_to_china_charges/>
 
 ---
 
@@ -109,7 +409,7 @@ date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
 
 date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
 
-<h4>Customers compare upgrade to Microsoft&#39;s mega-messy Windows 8,</h4> <p>Angry users of Atlassian’s Trello project management tool users are dishing out harsh criticism about a recent redesign.…</p> 
+<h4>Customers compare upgrade to Microsoft&#39;s mega-messy Windows 8</h4> <p><strong>UPDATED</strong>  Angry users of Atlassian’s Trello project management tool users are dishing out harsh criticism about a recent redesign.…</p> 
 
 <br> 
 

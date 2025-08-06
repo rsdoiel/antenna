@@ -1,11 +1,269 @@
 ---
 title: snapshots
-updated: 2025-08-06 06:08:40
+updated: 2025-08-06 14:11:00
 ---
 
 # snapshots
 
-(date: 2025-08-06 06:08:40)
+(date: 2025-08-06 14:11:00)
+
+---
+
+## ICE Is Buying Mobile Iris Scanning Tech for Its Deportation Arm
+
+date: 2025-08-06, from: 404 Media Group
+
+MORIS and I.R.I.S. was designed for Sheriff's Offices to identify known persons with their iris. Now ICE says it plans to buy the tech. 
+
+<br> 
+
+<https://www.404media.co/ice-is-buying-mobile-iris-scanning-tech-for-its-deportation-arm/>
+
+---
+
+## Trump Is Launching an AI Search Engine Powered by Perplexity
+
+date: 2025-08-06, from: 404 Media Group
+
+America’s scandalous president is teaming up with its most disreputable AI company to make a search engine. 
+
+<br> 
+
+<https://www.404media.co/trump-is-launching-an-ai-search-engine-powered-by-perplexity/>
+
+---
+
+## Jules, our asynchronous coding agent, is now available for everyone
+
+date: 2025-08-06, updated: 2025-08-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://blog.google/technology/google-labs/jules-now-available/">Jules, our asynchronous coding agent, is now available for everyone</a></strong></p>
+I wrote about the Jules beta <a href="https://simonwillison.net/2025/May/19/jules/">back in May</a>. Google's version of the OpenAI Codex PR-submitting hosted coding tool graduated from beta today.</p>
+<p>I'm mainly linking to this now because I like the new term they are using in this blog entry: <strong>Asynchronous coding agent</strong>. I like it so much I <a href="https://simonwillison.net/tags/asynchronous-coding-agents/">gave it a tag</a>.</p>
+<p>I continue to avoid the term "agent" as infuriatingly vague, but I can grudgingly accept it when accompanied by a prefix that clarifies the type of agent we are talking about. "Asynchronous coding agent" feels just about obvious enough to me to be useful.</p>
+<p>... I just ran a Google search for <code>"asynchronous coding agent" -jules</code> and came up with a few more notable examples of this name being used elsewhere:</p>
+<ul>
+<li><a href="https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/">Introducing Open SWE: An Open-Source Asynchronous Coding Agent</a> is an announcement from LangChain just this morning of their take on this pattern. They provide a hosted version (bring your own API keys) or you can run it yourself with <a href="https://github.com/langchain-ai/open-swe">their MIT licensed code</a>.</li>
+<li>The press release for GitHub's own version of this <a href="https://github.com/newsroom/press-releases/coding-agent-for-github-copilot">GitHub Introduces Coding Agent For GitHub Copilot</a> states that "GitHub Copilot now includes an asynchronous coding agent".</li>
+</ul>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44813854">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/agent-definitions">agent-definitions</a>, <a href="https://simonwillison.net/tags/asynchronous-coding-agents">asynchronous-coding-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/6/asynchronous-coding-agents/#atom-everything>
+
+---
+
+## Xcode 26 Beta 5
+
+date: 2025-08-06, from: Michael Tsai
+
+Apple: Xcode 26 beta 5 requires a Mac running macOS Sequoia 15.5 or later. The download is back to being a .xip file, and there&#8217;s a slightly smaller Apple Silicon&#x2013;only version. Again, the release notes don&#8217;t actually show what&#8217;s new in this build. The span property of UTF8View does not support the small string representation [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/06/xcode-26-beta-5/>
+
+---
+
+## iOS 26 Developer Beta 5
+
+date: 2025-08-06, from: Michael Tsai
+
+Juli Clover: Apple today provided developers with the fifth betas of iOS 26 and iPadOS 26 for testing purposes, with the updates coming a week after Apple seeded the fourth betas. Juli Clover: Apple is continuing to refine button placement, animations, and design in preparation for launching iOS 26 in September.[&#8230;]Apple added a toggle in [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/06/ios-26-developer-beta-5/>
+
+---
+
+## uBlock Origin Lite for Safari
+
+date: 2025-08-06, from: Michael Tsai
+
+PseudorandomNoise (Hacker News): TLDR uBO Lite is available in Test Flight today for all the Cupertino OS&#8217;s Jen Simmons (Hacker News, Reddit): Over the years, I&#8217;ve heard a lot of developers &#38; other people wish that uBlock Origin was available for Safari. Now it is! Download for Safari 18.6 and Safari 26 beta. VastTension6022: I [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/>
+
+---
+
+## Disk Utility: Erase Process Has Failed
+
+date: 2025-08-06, from: Michael Tsai
+
+Especially with macOS Sequoia, I get this error almost every time I connect a hard drive or SSD and try to erase it. Disk Utility reports: The calling process or user lacks the proper privileges to perform this operation The workaround is to quit and relaunch Disk Utility. 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/06/disk-utility-erase-process-has-failed/>
+
+---
+
+## My video chat with Gary Ginsberg, friend and confidante of JFK Jr, and a producer of the new CNN documentary American Prince, JFK Jr. 
+
+date: 2025-08-06, from: Tina Brown
+
+Plus, his fix for the divided Democratic Party-- and the light-saber battle between Trump and Rupert Murdoch 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170281160/c8eefaa03fe7193bb429226c31f117af.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170281160/c8eefaa03fe7193bb429226c31f117af.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-gary-ginsberg>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-06, from: Robert's feed at BlueSky)
+
+📌
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvqrdh2mhc27>
+
+---
+
+## CM5 MINIMA is a tiny $65 Raspberry Pi CM5 carrier board with M.2, Ethernet, and HDMI
+
+date: 2025-08-06, from: Liliputing
+
+<p>The credit card-sized Raspberry Pi Model B line of computers may be small, at just 85 x 56mm. But the Raspberry Compute Module 5 is even smaller, measuring just 55 x 40mm. Unfortunately this tiny computer-on-a-module isn&#8217;t much use on its own, because it lacks the full-sized ports you&#8217;d need to connect a power source, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/cm5-minima-is-a-tiny-65-raspberry-pi-cm5-carrier-board-with-m-2-ethernet-and-hdmi/">CM5 MINIMA is a tiny $65 Raspberry Pi CM5 carrier board with M.2, Ethernet, and HDMI</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/cm5-minima-is-a-tiny-65-raspberry-pi-cm5-carrier-board-with-m-2-ethernet-and-hdmi/>
+
+---
+
+## Tom MacWright: Observable Notebooks 2.0
+
+date: 2025-08-06, updated: 2025-08-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://macwright.com/2025/07/31/observable-notebooks-2">Tom MacWright: Observable Notebooks 2.0</a></strong></p>
+Observable announced <a href="https://observablehq.com/notebook-kit/">Observable Notebooks 2.0</a> last week - the latest take on their JavaScript notebook technology, this time with an <a href="https://observablehq.com/notebook-kit/kit">open file format</a> and a brand new <a href="https://observablehq.com/notebook-kit/desktop">macOS desktop app</a>.</p>
+<p>Tom MacWright worked at Observable during their first iteration and here provides thoughtful commentary from an insider-to-outsider perspective on how their platform has evolved over time.</p>
+<p>I particularly appreciated this aside on the downsides of evolving your own not-quite-standard language syntax:</p>
+<blockquote>
+<p>Notebook Kit and Desktop <a href="https://observablehq.com/notebook-kit/#vanilla-java-script">support vanilla JavaScript</a>, which is excellent and cool. The Observable changes to JavaScript were always tricky and meant that we struggled to use off-the-shelf parsers, and users couldn't use standard JavaScript tooling like eslint. This is stuff like the <code>viewof</code> operator which meant that <a href="https://observablehq.com/@observablehq/observable-javascript">Observable was not JavaScript</a>. [...] <em>Sidenote</em>: I now work on <a href="https://www.val.town/">Val Town</a>, which is also a platform based on writing JavaScript, and when I joined it <em>also</em> had a tweaked version of JavaScript. We used the <code>@</code> character to let you 'mention' other vals and implicitly import them. This was, like it was in Observable, not worth it and we switched to standard syntax: don't mess with language standards folks!</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/observable">observable</a>, <a href="https://simonwillison.net/tags/tom-macwright">tom-macwright</a>, <a href="https://simonwillison.net/tags/val-town">val-town</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/6/observable-notebooks-20/#atom-everything>
+
+---
+
+## Fruit Jam credit card-sized PC with an RP2350B chip launches for $40
+
+date: 2025-08-06, from: Liliputing
+
+<p>Earlier this year Adafruit introduced a credit card-sized computer called the Fruit Jam. It&#8217;s the size of a typical Raspberry Pi Model B, but it&#8217;s powered by a low-power Raspberry Pi RP2350B microcontroller. This weekend the company announced that the Fruit Jam was available for purchase for $40. Only a few units were available at [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/fruit-jam-credit-card-sized-pc-with-an-rp2350b-chip-launches-for-40/">Fruit Jam credit card-sized PC with an RP2350B chip launches for $40</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/fruit-jam-credit-card-sized-pc-with-an-rp2350b-chip-launches-for-40/>
+
+---
+
+## Home Depot and Lowe's Share Data From Hundreds of AI Cameras With Cops
+
+date: 2025-08-06, from: 404 Media Group
+
+Home improvement stores are finding ways to share data from their Flock license plate reader cameras with law enforcement, according to public records. 
+
+<br> 
+
+<https://www.404media.co/home-depot-and-lowes-share-data-from-hundreds-of-ai-cameras-with-cops/>
+
+---
+
+## Constitution Sections on Due Process and Foreign Gifts Just Vanished from Congress' Website
+
+date: 2025-08-06, from: 404 Media Group
+
+Part of Article I Section 8, and all of Sections 9 and 10, which address things like habeas corpus, nobility, and militias, are gone from Congress's website for the Constitution.  
+
+<br> 
+
+<https://www.404media.co/constitution-sections-on-due-process-and-foreign-gifts-just-vanished-from-congress-website/>
+
+---
+
+## Million-Year-Old Evidence of Epic Journey Near ‘Hobbit’ Island Discovered by Scientists
+
+date: 2025-08-06, from: 404 Media Group
+
+Stone tools found on the Indonesian island of Sulawesi reveal a long-lost population of human relatives; their identity, and how they crossed the sea, is a mystery. 
+
+<br> 
+
+<https://www.404media.co/indonesian-island-sulawesi-early-humans-hobbits-calio/>
+
+---
+
+## AI and Data Privacy Under Scrutiny
+
+date: 2025-08-06, from: Purism News and Events
+
+<p>The promise of AI is seductive: instant answers, personalized insights, and a frictionless interface with the digital world. But beneath the surface of convenience lies a growing privacy crisis—one that’s now impossible to ignore.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/ai-and-data-privacy-under-scrutiny/">AI and Data Privacy Under Scrutiny</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/ai-and-data-privacy-under-scrutiny/>
+
+---
+
+## The Case for Optimism
+
+date: 2025-08-06, from: Guy Kawasaki blog
+
+It&#8217;s a strategic advantage. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-case-for-optimism>
+
+---
+
+## Watch This Guy’s Interactive Wooden Pixel Machine Make Art in Real Time
+
+date: 2025-08-06, from: 404 Media Group
+
+Kilopixel by Ben Holmen turns a CNC machine and a thousand wooden blocks into pixel art. 
+
+<br> 
+
+<https://www.404media.co/kilopixel-live-stream-interactive-pixel-art/>
+
+---
+
+## Join me today at 12pET for a video chat with the great political/media insider Gary Ginsberg on the new doc about his friend JFK Jr, and the ongoing smackdown between Trump and the media
+
+date: 2025-08-06, from: Tina Brown
+
+There is much to discuss with Ginsberg, who is consulting producer on American Prince: JFK Jr., a new documentary on CNN. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-today-at-12pet-for-a-video>
 
 ---
 
@@ -125,6 +383,18 @@ anything amiss.</p>
 <br> 
 
 <http://haskell.org/ghc/blog/20250806-ghc-9.10.3-rc2-released.html>
+
+---
+
+## Out-Fibbing CPython with the Plush Interpreter
+
+date: 2025-08-06, from: Pointers gone wild blog
+
+ 
+
+<br> 
+
+<https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/>
 
 ---
 
@@ -402,6 +672,10 @@ format.</li>
 <p>I can't help but wonder if part of the reason for the delay in release of OpenAI's open weights model comes from a desire to be notably better than this truly impressive lineup of Chinese models.</p>
 </blockquote>
 <p>With the release of the gpt-oss models that statement no longer holds true. I'm waiting for the dust to settle and the independent benchmarks (that are more credible than my ridiculous pelicans) to roll out, but I think it's likely that OpenAI now offer the best available open weights models.</p>
+
+<p><strong>Update</strong>: Independent evaluations are beginning to roll in. Here's <a href="https://x.com/artificialanlys/status/1952887733803991070">Artificial Analysis</a>:</p>
+<blockquote><p>gpt-oss-120b is the most intelligent American open weights model, comes behind DeepSeek R1 and Qwen3 235B in intelligence but offers efficiency benefits [...]</p>
+<p>While the larger gpt-oss-120b does not come in above DeepSeek R1 0528’s score of 59 or Qwen3 235B 2507s score of 64, it is notable that it is significantly smaller in both total and active parameters than both of those models.</p></blockquote>
     
         <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/cerebras">cerebras</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a>, <a href="https://simonwillison.net/tags/gpt-oss">gpt-oss</a></p> 
 
@@ -1200,7 +1474,7 @@ California lawmakers want to ban companies from using data about consumers’ de
 
 date: 2025-08-04, from: Authors Union blogs
 
-Below is an interview with Alison Mudditt, CEO of PLOS (Public Library of Science) discussing the impact of AI on publishing [&#8230;] 
+Below is an interview with&#160;Alison Mudditt, CEO of PLOS (Public Library of Science) discussing the impact of AI on publishing [&#8230;] 
 
 <br> 
 

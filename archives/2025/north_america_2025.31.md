@@ -1,11 +1,163 @@
 ---
 title: north america
-updated: 2025-08-06 06:08:29
+updated: 2025-08-06 14:10:48
 ---
 
 # north america
 
-(date: 2025-08-06 06:08:29)
+(date: 2025-08-06 14:10:48)
+
+---
+
+##  Big Broadcasters Plan For A Trump TV Takeover 
+
+date: 2025-08-06, from: The Lever News
+
+ Inside the plan to let MAGA mouthpieces monopolize the local TV news landscape.  
+
+<br> 
+
+<https://www.levernews.com/big-broadcasters-plan-for-a-trump-tv-takeover/>
+
+---
+
+## Planned Parenthood President Alexis McGill Johnson on the fight for reproductive freedom
+
+date: 2025-08-06, from: The Contrarian
+
+"Your ability to control who you are and express yourself is the same core animation of what it means to be able to cast your ballot and express your views and your opinion." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170105803/87f6b9deaea8fa6e8f6a2b711b66cf67.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170105803/87f6b9deaea8fa6e8f6a2b711b66cf67.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/planned-parenthood-alexis-mcgill>
+
+---
+
+## A whole new ballgame
+
+date: 2025-08-06, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-whole-new-ballgame>
+
+---
+
+## Republicans' attempt to redistrict Texas is a power grab: Ari Berman explains
+
+date: 2025-08-06, from: The Contrarian
+
+"Texas has basically violated the Voting Rights Act every single redistricting cycle since the Voting Rights Act was passed." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170273574/f03977cfc867f58ad55fe7f6e282261b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170273574/f03977cfc867f58ad55fe7f6e282261b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/republicans-attempt-to-redistrict>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-06, from: The Contrarian
+
+Wednesday: Rage Against the Regime rallies in Kentucky, California, North Carolina, and Pennsylvania, protests in Jerusalem, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## 300,000 Black women left the labor force. That's not good for America.
+
+date: 2025-08-06, from: The Contrarian
+
+The financial success&#8212;or failure&#8212;of Black women can have significant consequences. 
+
+<br> 
+
+<https://contrarian.substack.com/p/300000-black-women-left-the-labor>
+
+---
+
+##  Tesla Shareholders Sue Musk Over Self-Driving Car Dangers 
+
+date: 2025-08-06, from: The Lever News
+
+ Tesla is facing a shareholder lawsuit for allegedly concealing risks associated with its self-driving vehicles.  
+
+<br> 
+
+<https://www.levernews.com/tesla-shareholders-sue-musk-over-self-driving-car-dangers/>
+
+---
+
+## Living for the hope of it all
+
+date: 2025-08-06, from: The Contrarian
+
+As the attacks on women's rights continue, I'm doing my best not to let the relentless news-and-doom cycle ruin August. 
+
+<br> 
+
+<https://contrarian.substack.com/p/living-for-the-hope-of-it-all>
+
+---
+
+## ICE Is Pressuring People in Custody to Self-Deport. Many Are Giving Up.
+
+date: 2025-08-06, from: Capital and Main
+
+<p>A promise of $1,000 and a free plane ride home tempts many who've grown weary of being locked up in crowded detention centers. </p>
+<p>The post <a href="https://capitalandmain.com/ice-is-pressuring-people-in-custody-to-self-deport-many-are-giving-up">ICE Is Pressuring People in Custody to Self-Deport. Many Are Giving Up.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/ice-is-pressuring-people-in-custody-to-self-deport-many-are-giving-up>
+
+---
+
+## Texas Democrats put up a fight: Mimi Marziani on the battle to keep voters enfranchised 
+
+date: 2025-08-06, from: The Contrarian
+
+"The people should be picking their representatives, not the other way around." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170217213/c38f2eb30747a4eb8f27c13ab40cdb21.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170217213/c38f2eb30747a4eb8f27c13ab40cdb21.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/texas-democrats-put-up-a-fight-mimi>
+
+---
+
+## Coffee with The Contrarians 08/06
+
+date: 2025-08-06, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 08/06 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0806>
+
+---
+
+## Texas shows why the Voting Rights Act is still necessary
+
+date: 2025-08-06, from: The Contrarian
+
+The 60th anniversary of the VRA can't be just a commemoration. It must be a call to action. 
+
+<br> 
+
+<https://contrarian.substack.com/p/texas-shows-why-the-voting-rights>
 
 ---
 
@@ -161,18 +313,6 @@ At Trump&#8217;s command, the Texas GOP&#8217;s redistricting maps strip voting 
 <br> 
 
 <https://contrarian.substack.com/p/republicans-are-planning-to-carve>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-05, from: The Contrarian
-
-Tuesday: Rep. Mike Flood gets an earful at a Nebraska town hall, plus Rage Against the Regime rallies in Kansas, Michigan, and South Carolina. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

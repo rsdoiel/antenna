@@ -1,11 +1,252 @@
 ---
 title: home
-updated: 2025-08-06 06:08:35
+updated: 2025-08-06 14:10:55
 ---
 
 # home
 
-(date: 2025-08-06 06:08:35)
+(date: 2025-08-06 14:10:55)
+
+---
+
+## Where Do We Put All Our (Literal) Baggage?
+
+date: 2025-08-06, from: Dwell
+
+As the luxury luggage industry booms, designers are trying tackle an enduring, infuriating problem: storage for storage. 
+
+<br> 
+
+<https://www.dwell.com/article/where-do-i-store-my-luggage-bbbe1ebf>
+
+---
+
+## The Ultimate Home Maintenance Checklist for New Homeowners
+
+date: 2025-08-06, from: Family Handyman Blog
+
+<p>Keep your home in top shape with these key maintenance tasks every homeowner should do once a year.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-maintenance-checklist/">The Ultimate Home Maintenance Checklist for New Homeowners</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-maintenance-checklist/>
+
+---
+
+## Watch out, This Popular Garden Hose Is Injuring People
+
+date: 2025-08-06, from: Family Handyman Blog
+
+<p>Millions of water hoses are being recalled due to the danger they pose to consumers; find out how to protect yourself. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/hydrotech-water-hoses-recall/">Watch out, This Popular Garden Hose Is Injuring People</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hydrotech-water-hoses-recall/>
+
+---
+
+## The Best Way to Remove Bird Poop When a Car Wash Isn’t Enough
+
+date: 2025-08-06, from: Family Handyman Blog
+
+<p>A car wash might clean bird poop off your car, but it's not always a sure thing, especially if it's been baking in the sun.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/will-car-wash-get-bird-poop-off-car/">The Best Way to Remove Bird Poop When a Car Wash Isn&#8217;t Enough</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/will-car-wash-get-bird-poop-off-car/>
+
+---
+
+## When to Harvest Onions and How to Cure Them for Storage
+
+date: 2025-08-06, from: Homestead and Chil
+
+<p>Come learn everything you need to know about harvesting onions: how to tell when they're ready to harvest, best practices to pick them, and how to properly cure and store onions to make them last in dry storage. </p>
+<p>The post <a href="https://homesteadandchill.com/when-to-harvest-onions-curing-storage/">When to Harvest Onions and How to Cure Them for Storage</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/when-to-harvest-onions-curing-storage/>
+
+---
+
+## Sofa Sagas: My Gorgeous, Terrible, eBay Failure
+
+date: 2025-08-06, from: Dwell
+
+I’m never going to buy a sofa I haven’t tried out again—I don’t care how beautiful it is. 
+
+<br> 
+
+<https://www.dwell.com/article/ebay-sofa-midcentury-modern-ad6cc648>
+
+---
+
+## How to Grow and Care for Graptosedum Succulents
+
+date: 2025-08-06, from: The Gardener's Path
+
+<p>Graptosedum succulents are vibrant, low-maintenance plants ideal for containers or garden beds. Whether you're growing ‘California Sunset,’ ‘Darley Sunshine,’ or another type, we’ll walk you through everything you need to know. Learn more about how to grow graptosedum in your home or garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-graptosedum/">How to Grow and Care for Graptosedum Succulents</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-graptosedum/>
+
+---
+
+## 3 Types of Skunks in Texas (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Skunks are one of the most distinctive mammals in Texas, easily recognized for their bold black-and-white coloration and notorious defensive ... </p>
+<p class="read-more-container"><a title="3 Types of Skunks in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-skunks-in-texas-with-pictures-and-identification/#more-33322" aria-label="Read more about 3 Types of Skunks in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-skunks-in-texas-with-pictures-and-identification/">3 Types of Skunks in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-skunks-in-texas-with-pictures-and-identification/>
+
+---
+
+## Ronald Rael’s Experiments With Adobe Are Only Getting Started
+
+date: 2025-08-06, from: Dwell
+
+The architect and professor is reviving his family’s Colorado property, from its old mud homes to the 3D-printed structures that have caught the world’s attention. 
+
+<br> 
+
+<https://www.dwell.com/article/ronald-rael-future-of-adobe-home-building-3d-printed-homes-fdf94b70>
+
+---
+
+## 45 Common Birds in Oklahoma (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Oklahoma is home to a wonderful variety of birds, from tiny hummingbirds to large, soaring hawks. Whether you&#8217;re exploring prairies, ... </p>
+<p class="read-more-container"><a title="45 Common Birds in Oklahoma (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-common-birds-in-oklahoma-with-pictures-and-identification/#more-33312" aria-label="Read more about 45 Common Birds in Oklahoma (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-common-birds-in-oklahoma-with-pictures-and-identification/">45 Common Birds in Oklahoma (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-common-birds-in-oklahoma-with-pictures-and-identification/>
+
+---
+
+## Crisp Cabinetry and Lots of Lighting Revitalize a Stripped Berlin Altbau Flat
+
+date: 2025-08-06, from: Dwell
+
+But it still has an unvarnished feel thanks to exposed brick and original wood floors. 
+
+<br> 
+
+<https://www.dwell.com/article/poor-but-sexy-berlin-altabua-apartment-renovation-flos-lighting-6bcaad04>
+
+---
+
+## ‘Certified’ Farmers’ Market means CDFA verifies you’re buying from producer or producer representative
+
+date: 2025-08-06, from: Calfifornia Dept. Aggriculture blog
+
+As the country is currently celebrating National Farmers’ Market Week, CDFA would like to remind Californians that when you visit a Certified Farmers’ Market, “Certified” means something significant. To be certified, a farmers’ market vendor must be registered under the &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29148">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29148>
+
+---
+
+## 12 Types of Hawks in Connecticut (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Connecticut’s forests, fields, and coastlines are home to a remarkable variety of hawks that fill the skies with grace and ... </p>
+<p class="read-more-container"><a title="12 Types of Hawks in Connecticut (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/12-types-of-hawks-in-connecticut-with-pictures-and-identification/#more-33305" aria-label="Read more about 12 Types of Hawks in Connecticut (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/12-types-of-hawks-in-connecticut-with-pictures-and-identification/">12 Types of Hawks in Connecticut (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/12-types-of-hawks-in-connecticut-with-pictures-and-identification/>
+
+---
+
+## Before & After: It Cost $180K to Fix Up This Philly Row House—But the "Army of Cats" Was Free
+
+date: 2025-08-06, from: Dwell
+
+Designer Eric Ashleigh rehabbed the sagging structure from top to bottom to create an urban retreat for himself, his partner, and their newfound feline friends. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-germantown-row-house-renovation-eric-ashleigh-philadelphia-246fdd35>
+
+---
+
+## California’s First Passive Solar House Seeks $6M in Los Angeles
+
+date: 2025-08-06, from: Dwell
+
+Architect Martin Gelber designed his personal residence with a blocky facade that opens up to capture sunlight, views, and cooling breezes. 
+
+<br> 
+
+<https://www.dwell.com/article/martin-gelber-residence-passive-solar-design-los-angeles-real-estate-0fd83005>
+
+---
+
+## 17 Stunning Blue Birds in Indiana (Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Indiana is home to a dazzling array of blue birds that brighten up forests, fields, and backyards throughout the state. ... </p>
+<p class="read-more-container"><a title="17 Stunning Blue Birds in Indiana (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/17-stunning-blue-birds-in-indiana-pictures-and-identification/#more-33299" aria-label="Read more about 17 Stunning Blue Birds in Indiana (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/17-stunning-blue-birds-in-indiana-pictures-and-identification/">17 Stunning Blue Birds in Indiana (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/17-stunning-blue-birds-in-indiana-pictures-and-identification/>
+
+---
+
+## 25 Dragonflies in Florida (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Florida’s warm, humid climate and abundant wetlands make it one of the best places in North America to observe dragonflies ... </p>
+<p class="read-more-container"><a title="25 Dragonflies in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/25-dragonflies-in-florida-with-pictures-and-identification/#more-33274" aria-label="Read more about 25 Dragonflies in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-dragonflies-in-florida-with-pictures-and-identification/">25 Dragonflies in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-dragonflies-in-florida-with-pictures-and-identification/>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-06, from: Sunset Magazine - Living in the West
+
+Travel, Travel Tips I Was Terrified to Fly with My Senior Dog for the First Time. This Airline Made It a Breeze. Pet-friendly travel has reached its peak, so we gave it a go. <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -149,6 +390,18 @@ Dog-first airlines are ushering in a new era of pet travel. Our travel editor de
 
 ---
 
+## This  Mediterranean Compound Welcomes You to Austin for $5.6M
+
+date: 2025-08-05, from: Dwell
+
+Anchoring the outdoor experience are a marble fountain, lemon trees, and a 60-foot lap pool. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-amarra-austin-real-estate-44779389>
+
+---
+
 ## This $2.9M Sustainable Home in Escondido Is a Piece of Ecological Art
 
 date: 2025-08-05, from: Dwell
@@ -158,6 +411,18 @@ Boulders are thoughtfully integrated into the interior, from the entryway to the
 <br> 
 
 <https://www.dwell.com/article/sothebys-imagination-escondido-real-estate-ea5a070d>
+
+---
+
+## A 1965 Haven in Calabasas Hits the Market for $3.2M
+
+date: 2025-08-05, from: Dwell
+
+Settle into an effortless indoor/outdoor lifestyle with stunning canyon and mountain views. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-midcentury-calabasas-real-estate-994d2ea2>
 
 ---
 
@@ -554,18 +819,6 @@ date: 2025-08-04, from: Sunset Magazine - Living in the West
 <br> 
 
 <https://www.sunset.com/travel/insider-guides/things-to-do-paso-robles>
-
----
-
-## Homepage 2025
-
-date: 2025-08-04, from: Sunset Magazine - Living in the West
-
-Outdoor Adventure, Road Trips, Travel 7 Tips for Taking Better Photos at Night, According to a Professional Photographer Sunset staff photographer Thomas J. Story on how to document dark skies. <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

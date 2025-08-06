@@ -1,11 +1,59 @@
 ---
 title: food
-updated: 2025-08-06 06:08:38
+updated: 2025-08-06 14:10:58
 ---
 
 # food
 
-(date: 2025-08-06 06:08:38)
+(date: 2025-08-06 14:10:58)
+
+---
+
+## I Didn't Want a Big Wedding. Until a Mayo Brand Paid for One.
+
+date: 2025-08-06, from: Bon Appetet
+
+The wedding industrial complex didn't interest me, but I jumped at the chance to say “I do” for my own mayo-themed wedding. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-didnt-want-a-big-wedding-until-hellmans-mayo-paid-for-one>
+
+---
+
+## Study Confirms Caffeine Keeps the Brain Buzzing During Sleep
+
+date: 2025-08-06, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png" class="attachment-large size-large wp-post-image" alt="caffeine brain" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In a first-of-its-kind study using artificial intelligence and brainwave analysis, researchers from the University of Montreal said caffeine can make the sleeping brain more active and less restful — particularly... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/06/study-confirms-caffeine-keeps-the-brain-buzzing-during-sleep/>
+
+---
+
+## Incredible New Cafes From Chennai To Reno On The Coffee Sprudgecast
+
+date: 2025-08-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffee Sprudgecast Build-Outs of Coffee Buildcast 2025... Volume 2!  
+
+<br> 
+
+<https://sprudge.com/incredible-new-cafes-from-chennai-to-reno-on-the-coffee-sprudgecast-388913.html>
+
+---
+
+## Overnight Steel-Cut Oats
+
+date: 2025-08-06, from: Taste of Home
+
+These overnight steel-cut oats are briefly simmered and then chilled for a perfect texture that stands up to any topping. Try them with chopped nuts, dried fruit or a drizzle of maple syrup. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/overnight-steel-cut-oats/>
 
 ---
 
@@ -18,6 +66,30 @@ BA Bake Club is back with July’s recipe: Jesse’s crusty Cheddar Jalapeño Lo
 <br> 
 
 <https://www.bonappetit.com/story/this-months-bake-club-recipe-is-a-beginner-friendly-bread>
+
+---
+
+## Column: What is the Formula for Sustainability in Coffee Production?
+
+date: 2025-08-06, from: Daily Coffee News
+
+<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-620x479.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Publisher’s note:&#160;This is Part 4 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/06/column-what-is-the-formula-for-sustainability-in-coffee-production/>
+
+---
+
+## Coffee Farmers in Laos Say Agroforestry Requires More Than Mere Advice
+
+date: 2025-08-06, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-620x413.webp" class="attachment-large size-large wp-post-image" alt="Story-cover" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-620x413.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-300x200.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-150x100.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-768x512.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover.webp 1335w" sizes="(max-width: 620px) 100vw, 620px" /></div>Agroforestry is gaining ground as a way to protect coffee crops from extreme weather, but smallholders say they need more than advice — they need a better price. Laos has... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/06/coffee-farmers-in-laos-say-agroforestry-requires-more-than-mere-advice/>
 
 ---
 
@@ -155,11 +227,23 @@ I tried a dozen matcha powders to find the very best one.
 
 date: 2025-08-05, from: Daily Coffee News
 
-<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-620x418.png" class="attachment-large size-large wp-post-image" alt="Screen Shot 2025-07-30 at 2.48.08 PM" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-620x418.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-300x202.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-150x101.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-768x517.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-1536x1035.png 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM.png 1814w" sizes="(max-width: 620px) 100vw, 620px" /></div>The organizers of the American AeroPress Championship are putting together a multi-city tour-de-manual-force to celebrate the brewing device&#8217;s 20th birthday. Regional events will be held between September and October in... 
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-620x418.png" class="attachment-large size-large wp-post-image" alt="Screen Shot 2025-07-30 at 2.48.08 PM" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-620x418.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-300x202.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-150x101.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-768x517.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM-1536x1035.png 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Screen-Shot-2025-07-30-at-2.48.08-PM.png 1814w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The organizers of the American AeroPress Championship are putting together a multi-city tour-de-manual-force to celebrate the brewing device&#8217;s 20th birthday. Regional events will be held between September and October in... 
 
 <br> 
 
 <https://dailycoffeenews.com/2025/08/05/aeropress-championship-launching-fall-u-s-tour/>
+
+---
+
+## Hawaiian Roll Croutons
+
+date: 2025-08-05, from: Taste of Home
+
+Need to use up some Hawaiian rolls? Homemade Hawaiian roll croutons make a perfect, lightly sweet and crunchy topping for fresh salads. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hawaiian-roll-croutons/>
 
 ---
 
@@ -179,7 +263,7 @@ date: 2025-08-05, from: The Sprudge
 
 date: 2025-08-05, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee port" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; China has fast-tracked authorization for 183 Brazilian coffee exporters as the 50% United States tariff on Brazilian goods begins to reshape global supply trade routes.&#160; The move comes as... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee port" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-port.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; China has fast-tracked authorization for 183 Brazilian coffee exporters as the 50% United States tariff on Brazilian goods begins to reshape global supply trade routes.&#160; The move comes as... 
 
 <br> 
 
@@ -191,7 +275,7 @@ date: 2025-08-05, from: Daily Coffee News
 
 date: 2025-08-05, from: Daily Coffee News
 
-<div><img width="620" height="442" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-620x442.jpg" class="attachment-large size-large wp-post-image" alt="CPC SHOP copy" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-620x442.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-768x547.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; There&#8217;s a new direction for specialty coffee outside of Pittsburgh with the opening of a roastery and cafe called Compass Point Coffee in Millvale, Pennsylvania.&#160; Founded by a pair... 
+<div><img width="620" height="442" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-620x442.jpg" class="attachment-large size-large wp-post-image" alt="CPC SHOP copy" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-620x442.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1-768x547.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/CPC-SHOP-copy-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; There&#8217;s a new direction for specialty coffee outside of Pittsburgh with the opening of a roastery and cafe called Compass Point Coffee in Millvale, Pennsylvania.&#160; Founded by a pair... 
 
 <br> 
 

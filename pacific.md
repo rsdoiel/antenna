@@ -1,11 +1,109 @@
 ---
 title: pacific
-updated: 2025-08-06 06:08:30
+updated: 2025-08-06 14:10:50
 ---
 
 # pacific
 
-(date: 2025-08-06 06:08:30)
+(date: 2025-08-06 14:10:50)
+
+---
+
+## Currently not making improvements: How the CNMI administration responds to challenges
+
+date: 2025-08-06, from: Pacific Island Times
+
+At an economic forum hosted by the Saipan Chamber of Commerce more than two years ago, local economist Matthew Deleon Guerrero gave a presentation on the CNMI’s economic conditions. His assessment? The short answer: dismal. The long answer: painfully dismal. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/currently-not-making-improvements-how-the-cnmi-administration-responds-to-challenges>
+
+---
+
+## Will COFA protect against ICE? Time to tread carefully
+
+date: 2025-08-06, from: Pacific Island Times
+
+But what about immigration under COFA? U.S. military access to most of the Pacific Ocean paired with open immigration rights for citizens of the freely associated states are the hallmarks of the Compacts, after all. That and money, of course. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/will-cofa-protect-against-ice-time-to-tread-carefully>
+
+---
+
+## Fisheries conservation and sustainability focus of seminar in Marshall Islands
+
+date: 2025-08-06, from: 
+
+Fisheries and marine resources are the driving force behind the economy, health and culture in the Marshall Islands, and a symposium this week is focussing on conservation and sustainable development. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569257/fisheries-conservation-and-sustainability-focus-of-seminar-in-marshall-islands>
+
+---
+
+## Palau backs Solomon Islands' move to exclude Pacific Islands Forum partner talks until 2026
+
+date: 2025-08-06, from: 
+
+"This decision does allow us to focus on the critical intra-regional issues at this year's forum," the Palau President Office says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569165/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026>
+
+---
+
+## New Sports and Youth Minister for French Polynesia
+
+date: 2025-08-06, from: 
+
+Kainuu Temauri, 29, has been appointed to the role less than two years ahead of the 2027 Pacific Games to be hosted by French Polynesia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569253/new-sports-and-youth-minister-for-french-polynesia>
+
+---
+
+## Fiji-born lifter Varun Lal sets sights on World Powerlifting Championship
+
+date: 2025-08-06, from: 
+
+After breaking an Australian bench press record, Varun Lal is focused on making a mark at the 2025 WPC World Powerlifting Championship in South Africa. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569254/fiji-born-lifter-varun-lal-sets-sights-on-world-powerlifting-championship>
+
+---
+
+## UH sets extramural funding record for 4th consecutive year, $734M in FY 2025
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p>Extramural funding includes investments from external agencies such as the federal government, industry and nonprofit organizations.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/06/extramural-funding-record-fy25/"><abbr>UH</abbr> sets extramural funding record for 4th consecutive year, $734<abbr>M</abbr> in <abbr>FY</abbr> 2025</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/06/extramural-funding-record-fy25/>
+
+---
+
+## Image of the Week: RENT on Kauaʻi
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p>This week's image is from the <span aria-label="Kauai">Kaua&#699;i</span> Community College Performing Arts Center.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/06/image-of-the-week-rent-kauai/">Image of the Week: RENT on Kauaʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/06/image-of-the-week-rent-kauai/>
 
 ---
 
@@ -335,12 +433,12 @@ A round-up of news from around the region, including Samoa's caretaker prime min
 
 ---
 
-## Q&A: Exploring Chief of War with UH historian
+## Q&A: Exploring Chief of War with UH kumu
 
 date: 2025-08-06, from: University of Hawaiʻi News
 
 <p><abbr>UH</abbr> Mānoa Hawaiian studies instructor Mehana <span aria-label="Kaiama">Ka&#699;iama</span> <span aria-label="Makainai">Maka&#699;ina&#699;i</span> co hosts a new <span aria-label="Hawaii">Hawai&#699;i</span> Public Radio podcast on hit show <em>Chief of War</em>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/08/05/chief-of-war-q-and-a-uh-historian/">Q&A: Exploring <em>Chief of War</em> with <abbr>UH</abbr> historian</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/08/05/chief-of-war-q-and-a-uh-historian/">Q&A: Exploring <em>Chief of War</em> with <abbr>UH</abbr> kumu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
@@ -408,18 +506,6 @@ The post <a href="https://www.hawaii.edu/news/2025/08/05/maunakea-rare-fossil-sp
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/05/maunakea-rare-fossil-spotted/>
-
----
-
-## Palau backs Solomon Islands' move to exclude Pacific Islands Forum partner talks until 2026
-
-date: 2025-08-06, from: 
-
-"This decision does allow us to focus on the critical intra-regional issues at this year's forum," the Palau President Office says. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569165/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026>
 
 ---
 

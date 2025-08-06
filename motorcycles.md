@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-08-06 06:08:36
+updated: 2025-08-06 14:10:56
 ---
 
 # motorcycles
 
-(date: 2025-08-06 06:08:36)
+(date: 2025-08-06 14:10:56)
+
+---
+
+## This New Chinese Tourer Has a Decent Spec Sheet, But It’s Too Expensive
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+The Chinese-made Mash GT750 is essentially a rebadged KR750, and retails for 11,999 Euros (around $13,000 USD) in France. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/767998/mash-gt750-touring-motorcycle-specs-details-price/>
+
+---
+
+## In Banning Plastics, California Might Accidentally Ban Youth ATVs and Dirt Bikes
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+PFAS, or forever chemicals, are both bad for the environment and people. California is attempting to ban them from youth products. But in doing so, it might ban ATVs, dirt bikes, and more.  
+
+<br> 
+
+<https://www.rideapart.com/news/768075/california-pfas-youth-ban-ohv-atv-effects/>
+
+---
+
+## Hero MotoCorp Pulls the Plug On the Mavrick 440, Harley X440 Carries On
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+Known for its accessible and affordable two-wheelers, Hero faced an uphill battle with its first premium-focused model, the Mavrick 440, ultimately leading to its demise. Harley-Davidson-badged X440 carries on.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768001/hero-mavrick-440-discontinued-india-harley-davidson-x440/>
 
 ---
 

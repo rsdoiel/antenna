@@ -1,11 +1,163 @@
 ---
 title: socal north
-updated: 2025-08-06 06:08:29
+updated: 2025-08-06 14:10:49
 ---
 
 # socal north
 
-(date: 2025-08-06 06:08:29)
+(date: 2025-08-06 14:10:49)
+
+---
+
+## Federal agents detain people at a Westlake Home Depot after jumping out of rented Penske moving van
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+The action, which a Border Patrol official called “Operation Trojan Horse,” comes after a federal appeals court upheld a restraining order halting indiscriminate sweeps in Southern California. 
+
+<br> 
+
+<https://laist.com/news/federal-agents-westlake-home-depot-penske-moving-van>
+
+---
+
+## California names the 5th state prison to close because of falling inmate population
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+Gov. Gavin Newsom has moved to close five state prisons because of California’s falling incarcerated population. The next one in line is in Riverside County. 
+
+<br> 
+
+<https://laist.com/news/california-names-the-5th-state-prison-to-close-because-of-falling-inmate-population>
+
+---
+
+## Voice of America director says Trump officials are illegally ousting him
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+A judge is demanding answers about the international broadcaster's future from Trump official Kari Lake. 
+
+<br> 
+
+<https://laist.com/news/voice-of-america-director-says-trump-officials-are-illegally-ousting-him>
+
+---
+
+## Join Santa Clarita Arts for the 4th Annual Business for Artists Conference
+
+date: 2025-08-06, from: City of Santa Clarita
+
+<p>The Business of Creativity: Mastering the Fundamentals Join Santa Clarita Arts for the 4th Annual Business for Artists Conference on Saturday, October 4, 2025, from 9:00 a.m. to 3:00 p.m. at the Canyon Country Community Center (18410 Sierra Hwy). This conference is a must-attend event for creatives across visual art, music, film and more who [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/06/join-santa-clarita-arts-for-the-4th-annual-business-for-artists-conference/">Join Santa Clarita Arts for the 4th Annual Business for Artists Conference</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/06/join-santa-clarita-arts-for-the-4th-annual-business-for-artists-conference/>
+
+---
+
+## House Oversight Committee subpoenas the Justice Department for Epstein files
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+The committee asked the DOJ for files related to its investigation of Jeffrey Epstein. It is also looking to question Bill and Hillary Clinton, among several other former government officials. 
+
+<br> 
+
+<https://laist.com/news/house-oversight-committee-subpoenas-the-justice-department-for-epstein-files>
+
+---
+
+## Free baby showers at this East L.A. center offer diapers, wipes and a whole lot of community
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+With baby essentials, resources and peer support, the East L.A. Community Resource Center is building more than care packages for soon-to-be parents. 
+
+<br> 
+
+<https://laist.com/news/free-baby-showers-at-this-east-l-a-center-offer-diapers-wipes-and-a-whole-lot-of-community>
+
+---
+
+## Local jazz legend Bobby Bradford performs his tribute to Jackie Robinson
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+Despite losing his Altadena home and instruments, the 91-year-old is playing as part of the Hammer Museum’s JazzPop series. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/local-jazz-legend-bobby-bradford-performs-his-tribute-to-jackie-robinson>
+
+---
+
+## Students without legal status have the right to attend public school. Will Trump change that?
+
+date: 2025-08-06, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Since last year about a half-dozen states have attempted to pass laws that would allow schools to charge tuition to noncitizens. None passed, but advocates said they plan to keep trying.</p>
+<p>The post <a href="https://lbpost.com/news/education/students-without-legal-status-have-the-right-to-attend-public-school-will-trump-change-that">Students without legal status have the right to attend public school. Will Trump change that?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/students-without-legal-status-have-the-right-to-attend-public-school-will-trump-change-that>
+
+---
+
+## Students without legal status have the right to attend public school. Will Trump change that?
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+Since last year about a half-dozen states have attempted to pass laws that would allow schools to charge tuition to noncitizens. None passed, but advocates said they plan to keep trying. 
+
+<br> 
+
+<https://laist.com/news/education/students-without-legal-status-have-the-right-to-attend-public-school-will-trump-change-that>
+
+---
+
+## Long Beach is absent from DOJ’s new list of sanctuary cities that could face lawsuits
+
+date: 2025-08-06, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach was included in a previous list in May. The city says federal funding could still be at risk.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-sanctuary-city-list-lawsuit-department-of-justice">Long Beach is absent from DOJ&#8217;s new list of sanctuary cities that could face lawsuits</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-sanctuary-city-list-lawsuit-department-of-justice>
+
+---
+
+## As some parents get taken by ICE, their kids are left to manage household money
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+A new course launched by the city of L.A. helps them navigate budgets and teaches them financial literacy –for free. 
+
+<br> 
+
+<https://laist.com/news/as-some-parents-get-taken-by-ice-their-kids-are-left-to-manage-household-money>
+
+---
+
+## SoCal to sizzle for the next few days
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+Heat advisories kick in for the inland and valley areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-to-sizzle-for-the-next-few-days>
 
 ---
 
@@ -61,7 +213,7 @@ UC researchers claim a judge’s previous order barred the National Science Foun
 
 date: 2025-08-05, from: Longbeach Post
 
-<figure><img width="1024" height="594" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-1024x594.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-1024x594.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="594" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-1024x594.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-1024x594.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-300x174.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-768x445.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-186x108.jpg 186w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF-400x232.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/05160509/05aug25-8-5-25-ford-4-859449-l2lxp343-595048-PBnVBFOF.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>At the massive facility, the company is designing a mid-sized electric truck it wants on the market by 2027.</p>
 <p>The post <a href="https://lbpost.com/news/business/ford-long-beach-design-center-electric-truck">Ford unveils Long Beach design center, where it hopes to create the next EV truck</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -465,6 +617,18 @@ An amended ordinance will ban oversized vehicles, including RVs and trailers, fr
 
 ---
 
+## Best things to do this week in LA and SoCal
+
+date: 2025-08-04, updated: 2025-08-06, from: The LAist
+
+See Melissa Etheridge and the Indigo Girls, join family game night, take in movies at the California Botanic Garden and more of the best things to do this week. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-august-4-7>
+
+---
+
 ## As utilities start to bury power lines, homeowners are increasingly worried about the cost
 
 date: 2025-08-04, updated: 2025-08-04, from: The LAist
@@ -474,18 +638,6 @@ SoCal Edison and LADWP are starting to put power lines underground, but they’l
 <br> 
 
 <https://laist.com/news/climate-environment/as-utilities-start-to-bury-power-lines-homeowners-are-increasingly-worried-about-the-cost>
-
----
-
-## Best things to do this week in Los Angeles and Southern California: August 4-7
-
-date: 2025-08-04, updated: 2025-08-04, from: The LAist
-
-See Melissa Etheridge and the Indigo Girls, join family game night, take in movies at the California Botanic Garden and more of the best things to do this week. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-august-4-7>
 
 ---
 

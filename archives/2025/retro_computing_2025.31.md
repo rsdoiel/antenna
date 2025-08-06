@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-06 06:08:36
+updated: 2025-08-06 14:10:56
 ---
 
 # retro computing
 
-(date: 2025-08-06 06:08:36)
+(date: 2025-08-06 14:10:56)
+
+---
+
+## b.log 2025/08/06 - Wednesday season 2.
+
+date: 2025-08-06, from: Richard Murray's blog
+
+Wednesday season two. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250806>
 
 ---
 
