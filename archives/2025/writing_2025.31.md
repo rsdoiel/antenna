@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-08-05 14:08:16
+updated: 2025-08-06 06:08:33
 ---
 
 # writing
 
-(date: 2025-08-05 14:08:16)
+(date: 2025-08-06 06:08:33)
+
+---
+
+## Write Now with Scrivener, Episode no. 53: Isabella Valeri, Author of Letters from the Dead
+
+date: 2025-08-06, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-53-isabella-valeri-author-of-letters-from-the-dead>
 
 ---
 

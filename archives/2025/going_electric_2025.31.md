@@ -1,11 +1,139 @@
 ---
 title: going electric
-updated: 2025-08-05 14:08:20
+updated: 2025-08-06 06:08:38
 ---
 
 # going electric
 
-(date: 2025-08-05 14:08:20)
+(date: 2025-08-06 06:08:38)
+
+---
+
+## Tesla’s new Roadster patent doesn’t do what Elon said it would (and that’s good)
+
+date: 2025-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/tesla-roadster-patent.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla filed for a patent which looks like it could be the promised “SpaceX package” which it will supposedly include on its <a href="https://electrek.co/2025/05/08/tesla-roadster-ever-going-happen/">oft-delayed</a> next-gen Roadster. But will the system let the Roadster “fly,” as CEO Elon Musk<a href="https://electrek.co/2024/06/15/elon-musk-tesla-always-coming-next-year-roadster-can-fly/"> has promised</a>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-roadster" data-layer-viewtype="unknown" data-post-id="428507" href="https://electrek.co/2025/08/06/teslas-new-roadster-patent-doesnt-do-what-elon-said-it-would-and-thats-good/#more-428507" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/06/teslas-new-roadster-patent-doesnt-do-what-elon-said-it-would-and-thats-good/>
+
+---
+
+## Some Audi EVs Now Offer Multiplayer Gaming With Smartphones As Controllers
+
+date: 2025-08-06, from: Inside EVs News
+
+The Audi A6 E-Tron and Q6 E-Tron can act as massive gaming consoles on wheels, even while driving. 
+
+<br> 
+
+<https://insideevs.com/news/768150/audi-airconsole-integration-gaming-smartphone/>
+
+---
+
+## 'Not Where We Want To Be:' Lucid Gravity Production Hit By Supply Chain Issues
+
+date: 2025-08-06, from: Inside EVs News
+
+Lucid CEO Marc Winterhoff said the limited supply of Chinese magnets slowed the ramp up of its first SUV.  
+
+<br> 
+
+<https://insideevs.com/news/768126/lucid-earnings-q2-gravity-production-magnets/>
+
+---
+
+## Chevy Bolt EUV goes full Boat Mode in Texas floodwaters [video]
+
+date: 2025-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/bolt_flood.png?w=1600" /></div><p>Electric cars don’t have intakes and exhausts, so they can’t get hydrolocked in deep water the way ICE-powered cars can – but that doesn’t make them amphibious. Nobody told this Texan Chevy Bolt EUV owner that, and when they got caught on the wrong side of the floodwaters, they licked the stamp and <em>sent</em> it!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-bolt-euv,climate-change,gm" data-layer-viewtype="unknown" data-post-id="428488" href="https://electrek.co/2025/08/05/chevy-bolt-euv-goes-full-boat-mode-in-texas-floodwaters-video/#more-428488" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/chevy-bolt-euv-goes-full-boat-mode-in-texas-floodwaters-video/>
+
+---
+
+## Georgia launches free rooftop solar and EPA now wants to steal its grant money
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/06/rooftop-solar-wisconsin-creative-commons.jpg?quality=82&#038;strip=all&#038;w=1024" /></div><p><a href="https://georgiabright.org/" target="_blank" rel="noreferrer noopener">Georgia BRIGHT</a>, a statewide initiative to deliver affordable solar, kicked off its “No-Cost Solar Plan” in Atlanta yesterday, giving qualified homeowners a shot at roughly 400 fully prepaid rooftop-solar systems with zero upfront or maintenance costs. However, Georgia Bright’s No-Cost Solar Plan may lose its $156 million in grant money if the EPA steals back the Solar for All program’s entire $7 billion, which funded it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,epa,georgia,solar,solar-power" data-layer-viewtype="unknown" data-post-id="428478" href="https://electrek.co/2025/08/05/georgia-launches-free-rooftop-solar-and-epa-now-wants-to-steal-its-grant-money/#more-428478" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/georgia-launches-free-rooftop-solar-and-epa-now-wants-to-steal-its-grant-money/>
+
+---
+
+## Costco Just Gave You Another Reason To Snag An EV Before The Tax Credit Ends
+
+date: 2025-08-05, from: Inside EVs News
+
+Costco members can get up to $3,000 off of a new EV through the store's car-buying program.  
+
+<br> 
+
+<https://insideevs.com/news/768090/costco-ev-deals-cadillac-chevy/>
+
+---
+
+## Tesla’s in trouble, Elon gets a bonus, and Chevy wants to sell you a 1,000 mile EV
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/make-it-right.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is in trouble, facing down hundreds of millions in fines on a single Autopilot wrongful death claim, accusations of covering up evidence, and plummeting sales in Europe, China, and the US. But, hey – that’s no reason to NOT give Elon a $29 billion bonus, right? Find out more on today’s troubling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="costco,elon-musk,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="428462" href="https://electrek.co/2025/08/05/teslas-in-trouble-elon-gets-a-bonus-and-chevy-wants-to-sell-you-a-1000-mile-ev/#more-428462" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/teslas-in-trouble-elon-gets-a-bonus-and-chevy-wants-to-sell-you-a-1000-mile-ev/>
+
+---
+
+## Lucid (LCID) cuts production target for 2025, but there’s more to it
+
+date: 2025-08-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Lucid-orders-Tesla-owners.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid Group</a> (LCID) lowered its production goal for 2025, citing a changing market environment. Despite missing second-quarter expectations, the EV maker still has ambitious growth plans.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="428442" href="https://electrek.co/2025/08/05/lucid-lcid-cuts-production-target-for-2025-but-theres-more-to-it/#more-428442" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/05/lucid-lcid-cuts-production-target-for-2025-but-theres-more-to-it/>
+
+---
+
+## Rivian's R2 Plant Expansion Is 'Substantially Complete'
+
+date: 2025-08-05, from: Inside EVs News
+
+The EV startup said launch preparations for the R2 remain on track.  
+
+<br> 
+
+<https://insideevs.com/news/768107/rivian-r2-plant-expansion-complete/>
 
 ---
 

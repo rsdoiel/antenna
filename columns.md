@@ -1,11 +1,254 @@
 ---
 title: columns
-updated: 2025-08-05 14:08:15
+updated: 2025-08-06 06:08:32
 ---
 
 # columns
 
-(date: 2025-08-05 14:08:15)
+(date: 2025-08-06 06:08:32)
+
+---
+
+## MX Linux 25 loses systemd toggling power as Debian 13 looms
+
+date: 2025-08-06, updated: 2025-08-06, from: Liam Proven's articles at the Register
+
+<h4>Upstream changes force users to pick an init system at install instead of boot</h4>
+      <p>Debian 13 &#34;Trixie&#34; is coming, closely followed by a new release of MX Linux, MX 25, which will lose some of its init-system switching abilities.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/06/debian_13_mx_25/>
+
+---
+
+## 2025-08-06 Another month has passed in Gaza
+
+date: 2025-08-06, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-06-another-month-has-passed-in-gaza">2025-08-06 Another month has passed in Gaza</h1>
+
+<p>Everywhere I look, the news is telling me that atrocious crimes are being committed by Israel.</p>
+
+<blockquote>
+<p>Israel’s war in Gaza combines a staggeringly high death rate, shocking violence toward children, unparalleled physical destruction, and now a world-historical famine. The world has, by objective measure, never seen anything like this. … What we have watched, what we are continuing to watch, is the obliteration of a society of two million people. Every facet of modern civilization, as well as the most elementary things needed for even a state of basic subsistence for a human community, has been deliberately and almost completely destroyed by the Israeli military in Gaza. And now we are watching the gradual but accelerating mass die-off of the people who once lived there, through a combination of starvation, disease, and murder. &ndash; <a href="https://jacobin.com/2025/08/israel-gaza-worst-crimes-ever/">Israel’s Gaza War Is One of History’s Worst Crimes Ever</a>, by Branko Marcetic, for Jacobin</p>
+</blockquote>
+
+<p>The world is watching.</p>
+
+<p>I remember speaking with a German accent on the streets of Portugal in the eighties and another kid immediately reacted with &ldquo;Heil Hitler!&rdquo; I was being reminded of what my Austrian ancestors had been part of. Even if they had not committed the crimes themselves. A responsibility falls not on only on those who commit the crime but on those who were there, who did not stop it, and a responsibility falls on their children and their grandchildren.</p>
+
+<p>And remember, the genocide can still be stopped. There is a way to abort this all. To just stop perpetuating it. There is a way to walk back. Maybe not all the way back, but back to peace. To a just peace, even. To pay the reparations now. To rebuild now. To help.</p>
+
+<p>And to every company making money in Israel, cooperating with Israel, benefiting from the genocide, closing their eyes and swallowing the bitter pill of genocide in order to make some sweet, sweet silver and gold, remember that aiding and abetting the dictators and war mongers of the past is partaking in their crimes. These companies are taking part in the genocide even if they don&rsquo;t kill a single individual.</p>
+
+<p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-06-israel>
+
+---
+
+## Office Hours: Who’s Trump REALLY working for? 
+
+date: 2025-08-06, from: Robert Reich's blog
+
+And what do they provide him, in turn? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-whos-trump-really-working>
+
+---
+
+## August 5, 2025 (Tuesday)
+
+date: 2025-08-06, from: Heather Cox Richardson blog
+
+Sixty years ago tomorrow, on August 6, 1965, President Lyndon B. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-5-2025-tuesday>
+
+---
+
+## Follow redirects but differently
+
+date: 2025-08-06, from: Daniel Stenberg Blog
+
+In the early days of curl development we (I suppose it was me personally but let&#8217;s stick with we so that I can pretend the blame is not all on me) made the possibly slightly unwise decision to make the -X option change the HTTP method for all requests in a curl transfer, even when &#8230; <a href="https://daniel.haxx.se/blog/2025/08/06/follow-redirects-but-differently/" class="more-link">Continue reading <span class="screen-reader-text">Follow redirects but differently</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/08/06/follow-redirects-but-differently/>
+
+---
+
+## The Semiconductor Industry and Regulatory Compliance
+
+date: 2025-08-06, updated: 2025-08-02, from: Bruce Schneier blog
+
+<p>Earlier this week,<a href="https://www.ft.com/content/a13ba438-3b43-46dd-b332-4b81b3644da0"> the Trump administration</a> narrowed <a href="https://nationalinterest.org/blog/techland/export-controls-arent-enough-to-beat-chinas-ai">export controls</a> on advanced semiconductors ahead of US-China trade negotiations. The administration is increasingly relying on export licenses to allow American semiconductor firms to sell their products to Chinese customers, while keeping the most powerful of them out of the hands of our military adversaries. These are the chips that power the artificial intelligence research fueling China&#8217;s technological rise, as well as the advanced military equipment underpinning Russia&#8217;s invasion of Ukraine...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/its-time-for-the-semiconductor-industry-to-step-up.html>
+
+---
+
+## Anthropic Releases Claude Opus 4.1
+
+date: 2025-08-06, updated: 2025-08-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.anthropic.com/news/claude-opus-4-1>
+
+---
+
+## Google Dunks on Apple Intelligence in New Pixel 10 Ad
+
+date: 2025-08-06, updated: 2025-08-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad>
+
+---
+
+## Lawsuit Alleges That Meta Pirated and Seeded Massives Amounts of Porno for Years to Train AI
+
+date: 2025-08-06, updated: 2025-08-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/07/meta-pirated-and-seeded-porn-for-years-to-train-ai-lawsuit-says/>
+
+---
+
+## Ghost 6.0
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ghost.org/changelog/6/>
+
+---
+
+## Wednesday 6 August, 2025
+
+date: 2025-08-05, from: John Naughton's online diary
+
+Coming soon… … to a hedgerow near you.  ## Quote of the Day ”A hangover is the wrath of grapes.” Dorothy Parker Musical alternative to the morning’s radio news Bach &#124; Jesu, Joy of Man’s Desiring &#124; Leo Kottke Link &#8230; <a href="https://memex.naughtons.org/wednesday-6-august-2025/41082/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-6-august-2025/41082/>
+
+---
+
+## Regarding Those Rumors of Apple Pursuing an Acquisition of Perplexity
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/06/20/apple-discussing-perplexity-ai-bid/>
+
+---
+
+## Cloudflare: ‘Perplexity Is Using Stealth, Undeclared Crawlers to Evade Website No-Crawl Directives’
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/>
+
+---
+
+##  Molly White: Curate your own newspaper with RSS. &#8220;What if you could... 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047269-molly-white-curate-your-o>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-05, from: Dave Winer's Scripting News)
+
+A <a href="https://shownotes.scripting.com/scripting/2025/08/05/justAnswerTheQuestionPleaseDearChatgpt.html">podcast</a> I recorded this morning, prime time, while getting things done, and having ChatGPT getting in the way. It needs to become more invisible, there's no suspension of disbelief when you're working with it. I think we can do much better at finding a robot that can really augment human intelligence. This is awful stuff. We have to work on these dynamics. 
+
+<br> 
+
+<http://scripting.com/2025/08/05.html#a215348>
+
+---
+
+## ‘Apple: The First 50 Years’ — New Book by David Pogue, Coming Next Year
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.applefirst50.com/>
+
+---
+
+## Lenovo ThinkBook Plus Gen 6 Has a Rollable Expanding Display
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review>
+
+---
+
+## The New York Post Is Expanding to LA, Launching The California Post Next Year
+
+date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://nypost.com/2025/08/04/media/start-the-presses-new-york-post-will-expand-to-la-with-launch-of-the-california-post/>
+
+---
+
+##  The McDonald&#8217;s Quarter Pounder With Cheese Is a Lie. A Delicious Lie. 
+
+date: 2025-08-05, updated: 2025-08-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-mcdonalds-quarter-pounder-with-cheese-is-a-lie-a-delicious-lie-1>
 
 ---
 

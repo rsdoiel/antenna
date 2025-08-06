@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-08-05 14:08:14
+updated: 2025-08-06 06:08:31
 ---
 
 # science and technology
 
-(date: 2025-08-05 14:08:14)
+(date: 2025-08-06 06:08:31)
+
+---
+
+## Microsoft reminds developers that Visual Studio 2015 is set for retirement
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>October 14 is going to be a big day in the Redmond world</h4> <p>It isn&#39;t only Windows 10 due for the support axe on October 14. Other Microsoft products will soon be stashed in Redmond&#39;s cupboard of forgotten dreams, including the venerable Visual Studio 2015.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/microsoft_reminds_developers_that_visual/>
+
+---
+
+## UK's Ministry of Defence pins hopes on AI to stop the next massive email blunder
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Australia&#39;s Castlepoint Systems recruited to avoid repeat of Afghan breach scandal</h4> <p>The UK&#39;s Ministry of Defence is the latest to slap its hand on the big red AI button as it seeks solutions to prevent data leaks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/mod_taps_aussie_ai_shop/>
+
+---
+
+## MX Linux 25 loses systemd toggling power as Debian 13 looms
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Upstream changes force users to pick an init system at install instead of boot</h4> <p>Debian 13 &#34;Trixie&#34; is coming, closely followed by a new release of MX Linux, MX 25, which will lose some of its init-system switching abilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/debian_13_mx_25/>
+
+---
+
+## Network scans find Linux is growing on business desktops, laptops
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Security hardening and DevOps activities the tipping point</h4> <p>It might not be the year of the Linux desktop just yet, but ongoing cyberattacks and a general desire for a more secure posture are driving some businesses to the way of the penguin, according to asset manager Lansweeper.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/lansweeper_finds_linux_growth_on/>
+
+---
+
+## Mistakenly sold NASA command trailer could be yours – for $199K
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Former Space Shuttle support vehicle surfaces after surplus slip-up</h4> <p>Space fans looking to camp out in style have a chance to pick up an Airstream trailer that once served as the Convoy Command Vehicle for NASA&#39;s Space Shuttle operations at Edwards Air Force Base – if they have a couple hundred thousand to spare, that is.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/nasa_airstream_trailer/>
+
+---
+
+## Birmingham City Council's £131M Oracle rebuild in danger as go-live nears
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Finance and HR system overhaul still faces major risks with just months to go before second launch</h4> <p>The second attempt by Europe&#39;s largest local authority to implement an Oracle finance and HR system – after the first left it unable to produce auditable accounts – remains on an &#34;Amber-Red&#34; risk rating less than nine months before it is expected to go live.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/birmingham_oracle_latest/>
+
+---
+
+## Mobile industry charts course to smartphone satellite broadband
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>First services go live, but full-featured coverage depends on new chips, standards, and constellations</h4> <p>Satellite comms services to standard phones are officially here, but customers expecting a full voice and data experience may have to wait a while longer and make sure their current devices meet the right level of telecoms standard.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/mobile_satellite_broadband_roadmap/>
+
+---
+
+## Fungus-inspired Linux hack gives Amiga a Doom-only brain
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>PiStorm adapter and a parasitic OS hijack classic 68000 hardware in the name of retro carnage</h4> <p>Linux developer Matthew Garrett has taken inspiration from the fungus kingdom to give a classic Commodore Amiga a brain transplant – turning it into a single-minded device that does nothing but run id Software&#39;s 1993 classic first-person shooter Doom under a &#34;parasitic Linux&#34; operating system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/cordoomceps/>
+
+---
+
+## Atlassian's Trello redesign may be 'worst in tech history' say frustrated users
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Customers compare upgrade to Microsoft&#39;s mega-messy Windows 8,</h4> <p>Angry users of Atlassian’s Trello project management tool users are dishing out harsh criticism about a recent redesign.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/trello_redesign_as_bad_as/>
+
+---
+
+## Brace yourselves, Backup Exec and InfoScale users, Cloud Software Group just acquired your tools
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Expect the price hikes and channel changes that proved controversial at VMware, Citrix, and DOGE</h4> <p>The Cloud Software Group has acquired data management tools vendor Arctera, the owner of Backup Exec and other data management tools.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/cloud_software_group_acquires_arctera/>
+
+---
+
+## AMD’s AI datacenter revenue dived due to US ban on China GPU exports
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Worry not, the rest of the business is EPYC and demand is RYZEN</h4> <p>AMD’s revenue from AI products destined for datacenters dipped in the quarter ended June 28th, thanks to the USA’s ban on GPU exports to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/amd_q2_2025/>
+
+---
+
+## Broadcom’s Jericho4 ASICs just opened the door to multi-datacenter AI training
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Forget building massive super clusters. Cobble them together from existing datacenters instead</h4> <p>Broadcom on Monday unveiled a new switch which could allow AI model developers to train models on GPUs spread across multiple datacenters up to 100 kilometers apart. The switch could help pave the way for an alternative to the massive facilities currently being built to power the AI boom, allowing companies to stitch together distant and less power-hungry datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/broadcom_jericho_4/>
+
+---
+
+## Vibe coding tool Cursor's MCP implementation allows persistent code execution
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>More evidence that AI expands the attack surface</h4> <p>Check Point researchers uncovered a remote code execution bug in popular vibe-coding AI tool Cursor that could allow an attacker to poison developer environments by secretly modifying a previously approved Model Context Protocol (MCP) configuration, silently swapping it for a malicious command without any user prompt.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/mcpoison_bug_abuses_cursor_mcp/>
+
+---
+
+## Make Redmond angry by setting up Windows 11 with a local account
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>They want you to use a Microsoft account, but we&#39;ll show you how to get around it</h4> <p><strong>hands on</strong>  Redmond really – and I mean really – wants you to log into Windows 11 with a Microsoft account.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/set_up_windows11_local_account/>
+
+---
+
+## OpenAI makes good on its name, launches first open weights language models since GPT-2
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>GPT-OSS now available in 120 and 20 billion parameter sizes under Apache 2.0 license</h4> <p>OpenAI released its first open weights language models since GPT-2 on Tuesday with the debut of GPT-OSS.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/openai_open_gpt/>
+
+---
+
+## Meta used Flo menstruation app data to sell ads, jury finds
+
+date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+
+<h4>The social network disagrees with verdict and vows to explore all legal options</h4> <p>A jury has unanimously found Meta guilty of violating the California Invasion of Privacy Act by using data from menstruation and fertility app Flo to sell advertising to the social network.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/05/meta_flo_data/>
+
+---
+
+## Researchers Discover the Culprit Behind a Gruesome Disease That Makes Sea Stars Lose Their Limbs and Melt
+
+date: 2025-08-05, from: Smithsonian Magazine
+
+A new study points a finger at a strain of the bacterium Vibrio pectenicida, which belongs to the same genus as Vibrio cholerae, known for causing cholera in humans 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/researchers-discover-the-culprit-behind-a-gruesome-disease-that-makes-sea-stars-lose-their-limbs-and-melt-180987110/>
+
+---
+
+## Curiosity Blog, Sols 4618-4619: The Boxwork Structures Continue to Call to Us
+
+date: 2025-08-05, from: NASA breaking news
+
+Written by Ashley Stroupe, Mission Operations Engineer and Rover Planner at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Aug. 1, 2025. Now that we have reached August, our “landiversary” (anniversary of landing — Aug. 5 PDT) is less than a week away! The team is looking forward to being able to celebrate the milestone […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4618-4619-the-boxwork-structures-continue-to-call-to-us/>
 
 ---
 
@@ -381,11 +597,11 @@ date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
 
 ---
 
-## Amazon’s Kuiper satellite broadband to offer commercial services from mid-2026
+## Amazon’s Kuiper satellite broadband to offer commercial services in mid-2026, at least in Australia
 
-date: 2025-08-05, updated: 2025-08-05, from: The Register (UK I.T. News)
+date: 2025-08-05, updated: 2025-08-06, from: The Register (UK I.T. News)
 
-<h4>We know this because it just won a big client – Australia – which says that’s when it will start selling connections</h4> <p>Amazon’s Project Kuiper space broadband service will be ready for commercial services “from the middle of 2026” according to NBN Co, the operator of Australia’s National Broadband Network.…</p> 
+<h4>Maybe sooner in other places</h4> <p><strong>Updated</strong>  Amazon’s Project Kuiper space broadband service will be ready for commercial services “from the middle of 2026” according to NBN Co, the operator of Australia’s National Broadband Network. <em>The Register</em> understands the network may be available elsewhere before that time.…</p> 
 
 <br> 
 

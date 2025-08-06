@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-08-05 14:08:19
+updated: 2025-08-06 06:08:36
 ---
 
 # retro computing
 
-(date: 2025-08-05 14:08:19)
+(date: 2025-08-06 06:08:36)
 
 ---
 
@@ -73,7 +73,7 @@ The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting o
 
 date: 2025-08-03, from: Hans Otten's Retro blog
 
-When I acquired a KIM-1 Rev A it came with some documentation revealing its provenance: Warranty card Brochure showing the Rev A A document with KIM-1 program called KIM-1 Application CT1 KIM-1 Application Note 2 Interval Timer Operation See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating [&#8230;] 
+When I acquired a KIM-1 Rev A it came with some documentation revealing its provenance: Warranty card Brochure showing the Rev A A document with KIM-1 program called KIM-1 Application CT1 KIM-1 Application Note 2 Interval Timer Operation See also:< class="relpost_card_title">Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, [&#8230;] 
 
 <br> 
 
@@ -85,7 +85,7 @@ When I acquired a KIM-1 Rev A it came with some documentation revealing its prov
 
 date: 2025-08-03, from: Hans Otten's Retro blog
 
-I have added images of my recently acquired KIM-1s to the KIM-1 Revisions Images page. First version. I have a more time correct CPU (ceramic, pre June 1976) 6502 for this board. Needs a cleanup/restore also. Rev A. Mostly original board, some small repairs. Rev G. A high quality unaltered KIM-1. See also:Focal-65 V3D for [&#8230;] 
+I have added images of my recently acquired KIM-1s to the KIM-1 Revisions Images page. First version. I have a more time correct CPU (ceramic, pre June 1976) 6502 for this board. Needs a cleanup/restore also. Rev A. Mostly original board, some small repairs. Rev G. A high quality unaltered KIM-1. See also:< class="relpost_card_title">Focal-65 V3D [&#8230;] 
 
 <br> 
 
@@ -97,7 +97,7 @@ I have added images of my recently acquired KIM-1s to the KIM-1 Revisions Images
 
 date: 2025-08-03, from: Hans Otten's Retro blog
 
-A collection of MCS6500 Instruction set Summary cards, reference cards that are in my collection, that came with various SBC&#8217;s. MOS Technology, Rockwell, Synertek and Micrologic. See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...John Bell Engineering catalogsThanks [&#8230;] 
+A collection of MCS6500 Instruction set Summary cards, reference cards that are in my collection, that came with various SBC&#8217;s. MOS Technology, Rockwell, Synertek and Micrologic. See also:< class="relpost_card_title">Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. A small interpreter (about 5K) for...< class="relpost_card_title">John Bell [&#8230;] 
 
 <br> 
 

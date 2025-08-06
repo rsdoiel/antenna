@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2025-08-05 14:08:18
+updated: 2025-08-06 06:08:36
 ---
 
 # motorcycles
 
-(date: 2025-08-05 14:08:18)
+(date: 2025-08-06 06:08:36)
+
+---
+
+## A Reminder, Don't Drink and Drive an ATV and Start a Forest Fire
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+A man has been arrested for DUI and starting a forest fire in Sand Hollow State Park in Hurricane, Utah, when his ATV caught fire.  
+
+<br> 
+
+<https://www.rideapart.com/news/768068/atv-forest-fire-sand-hollow-utah-dui/>
+
+---
+
+## Moto Morini’s Small Adventure Motorcycle Is Coming Stateside, Thankfully Gets a Better Name
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+The Moto Morini Alltrhike was unveiled to the public not too long ago. It’s set to enter the US market under a more palatable name: Vettore. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768002/moto-morini-vettore-instead-of-alltrhike-coming-usa/>
+
+---
+
+## Sturgis Rally Produces an Unholy Number of Motorcycle Accidents on First Day, Mainly Harley-Davidsons
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+The 85th Sturgis Motorcycle Rally began last Saturday, and during the first day, there were 18 motorcycle crashes, resulting in one death. 
+
+<br> 
+
+<https://www.rideapart.com/news/767983/sturgis-rally-motorcycle-accidents-first-day/>
+
+---
+
+## Michael Schumacher's Honda Superbike Just Sold for a Bunch of Money
+
+date: 2025-08-06, from: Ride Apart, Electric Motorcycle News
+
+F1 Legends' Race Prepped CBR1000RR Just Sold at Auction For Twice What Was Expected 
+
+<br> 
+
+<https://www.rideapart.com/news/767979/michael-schumacher-honda-fireblade-sold-auction/>
+
+---
+
+## Digital hygiene: Notifications
+
+date: 2025-08-06, from: Herman Bear Blog
+
+Take back your attention. 
+
+<br> 
+
+<https://herman.bearblog.dev/notifications/>
+
+---
+
+## Jimmie Johnson Completes “Blue Blaster” Hydroplane in Tribute to Bill Muncey
+
+date: 2025-08-05, from: Kickin the Tires blog
+
+SEATTLE — Close to 46 years after a four-year old Jimmie Johnson &#8211; donning a yellow trucker hat &#8211; was lifted onto the side of the infamous Atlas Van Lines&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jimmie-johnson-completes-blue-blaster-hydroplane-in-tribute-to-bill-muncey/>
+
+---
+
+## Kaden Honeycutt Named Driver of Halmar Friesen Racing Truck Series Entry
+
+date: 2025-08-05, from: Kickin the Tires blog
+
+STATESVILLE, NC. (August 5, 2025) – Kaden Honeycutt will fill in for Stewart Friesen for the balance of the NASCAR CRAFTSMAN Truck Series season in the No. 52 Halmar International&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/kaden-honeycutt-named-driver-of-halmar-friesen-racing-truck-series-entry/>
 
 ---
 

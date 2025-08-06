@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-08-05 14:08:19
+updated: 2025-08-06 06:08:37
 ---
 
 # health
 
-(date: 2025-08-05 14:08:19)
+(date: 2025-08-06 06:08:37)
+
+---
+
+## Biofilm formation and role of other pathogenic factors in the virulence of Staphylococcus epidermidis clinical isolates
+
+date: 2025-08-06, from: Frontiers in Cellular and Infection Microbiology
+
+Medical device-associated infections represent a significant healthcare challenge, as sterilization of the biomaterial often necessitates device removal. The most frequently isolated microorganism in these infections is Staphylococcus epidermidis, a skin commensal capable of causing a wide range of nosocomial infections. The primary virulence factor of S. epidermidis is biofilm formation, which decreases antibiotic efficacy and host immune response. However, additional factors play crucial roles in infection establishment. Understanding the interplay between virulence factors is essential to developing preventive strategies that inhibit microbial adhesion and biofilm development. In this study, we analyzed the presence of genes associated with adhesion and biofilm formation (ica-dependent and ica-independent pathways) in 25 clinical isolates of S. epidermidis and four control strains: ATCC 12228, ATCC 35983, ATCC 35984, and the HAM 892 mutant. Resistance profile was determined, and biofilm quantification and composition of matrix was performed using multiple methodologies. Additionally, parameters associated with initial adherence as cell surface hydrophobicity (CSH) were investigated. A strong correlation was observed among different methods for measuring biofilm formation and matrix composition. The 14 icaADBC+ isolates exhibited higher prevalence of the aap, bhp, mecA, and IS256 genes, with polysaccharide intercellular adhesin (PIA) identified as the main matrix component. In contrast, icaADBC− biofilm-producing strains formed biofilms rich in other polysaccharides and proteins. The 15 non-biofilm-producing isolates showed significantly higher hydrophobicity levels, suggesting that this factor plays a critical role in initial adhesion and colonization. This study highlights the diverse mechanisms underlying biofilm formation in S. epidermidis and identifies hydrophobicity as a potential pathogenicity factor contributing to its virulence. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1630341>
+
+---
+
+## Exploring protein–protein ligation approaches for the cytosolic delivery of antigens using AIP56
+
+date: 2025-08-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe intracellular delivery of biologics, particularly large cargoes like proteins, remains a challenge in biotechnology and biomedicine. The modular structure of well-characterized AB toxins allows different cargoes to be grafted, creating a target-specific biotechnological tool capable of cytosolic delivery.MethodsIn this study, we employed protein–protein fusion strategies—SpyCatcher003, SnoopCatcher, and SnoopLigase—to generate chimeras between the delivery region of AIP56 (AIP56L258-N497) and β-lactamase and performed functional delivery assays.ResultsThe chimeras were successfully obtained using these strategies and were all able to deliver β-lactamase into the cytosol of J774.A1 macrophages. Cellular fractionation showed that, although most of the β-lactamase remains associated with the endosomal compartment, an active portion is released into the cytosol.ConclusionAIP56 delivery region transporting other cargo directly to the cytosol of antigen-presenting cells might be a promising platform for antigen/cargo delivery. This study highlights the potential of protein–protein fusion strategies to create versatile, antigenically distinct toxin-based delivery systems for therapeutic applications. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1596550>
+
+---
+
+## Serological field investigations revealing natural exposure of one-humped dromedary camels (Camelus dromedarius) to foot-and-mouth disease virus in India
+
+date: 2025-08-06, from: Frontiers in Cellular and Infection Microbiology
+
+Foot-and-mouth disease (FMD) is one of the most significant animal diseases globally, affecting over 60 susceptible species including camelids particularly Bactrian camels. In order to gather baseline evidence on the current status of FMD in Indian camels, a preliminary random serosurvey was conducted in camels of Rajasthan state with significant camel population. A total of 777 sera collected from one-humped dromedary camels (Camelus dromedarius) across 11 districts of Rajasthan during 2016–2017 were screened for FMD virus (FMDV) 3ABC nonstructural protein (NSP)-antibodies using the commercial PrioCHECK® FMDV NS kit. The sera were further tested using in-house liquid phase blocking (LPB) ELISA to evaluate the level of protective structural protein (SP)-antibody responses against three vaccine strains of FMDV serotypes O, A and Asia 1 if any. Out of 777 serum samples, 117 (15.05%; 95% Confidence Interval: 12.6%-17.7%) tested positive for 3ABC NSP-antibodies indicating the exposure of camels to FMDV. However, none of the sera tested in LPB ELISA showed a protective log10 antibody titre of ≥1.8 against any of the three FMDV serotypes confirming the absence of vaccination in these animals. This report provides retrospective evidence of anti-FMDV antibody response in dromedaries in India. Nevertheless, the role of dromedaries in epidemiology and transmission of FMDV remains unclear, emphasizing the need for further extensive serological screening of a larger number of samples. To the best of our knowledge, the present study, although preliminary, seems to be the first of its kind reporting the evidence of anti-FMDV antibody response in dromedaries in India. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1615461>
 
 ---
 

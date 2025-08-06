@@ -1,11 +1,495 @@
 ---
 title: planet
-updated: 2025-08-05 14:08:11
+updated: 2025-08-06 06:08:27
 ---
 
 # planet
 
-(date: 2025-08-05 14:08:11)
+(date: 2025-08-06 06:08:27)
+
+---
+
+## Irish missionary among group kidnapped in Haiti
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>Concern is deepening for the plight of an Irish missionary and eight other people including a child, who have been kidnapped by gunmen in Haiti.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/concern-deepens-irish-missionary-haiti-kidnapping.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/concern-deepens-irish-missionary-haiti-kidnapping.html>
+
+---
+
+## World's longest suspension bridge to link Sicily to Italy
+
+date: 2025-08-06, from: RTÉ News
+
+Italy's government has approved a €13.5 billion project to build the world's longest suspension bridge connecting the island of Sicily to the mainland. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0806/1527196-italy-sicily-bridge/>
+
+---
+
+## 'Terrifying' - US man recalls being kidnapped in Haiti
+
+date: 2025-08-06, from: RTÉ News
+
+A US citizen who was held for ransom by a gang in Haiti for 43 days said negotiators will have a "hard time" pretending to Irish woman Gena Heraty's kidnappers that she is a "no one". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527182-jeff-frazier-haiti/>
+
+---
+
+## UK bans Zara ads over 'unhealthily thin' model photos
+
+date: 2025-08-06, from: RTÉ News
+
+Britain's advertising regulator banned two adverts by Spanish clothing group Zara for featuring models that appeared "unhealthily thin", calling the images "irresponsible". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527178-zara-ad/>
+
+---
+
+## Irish woman found dead on board boat at US yacht club
+
+date: 2025-08-06, from: RTÉ News
+
+A 33-year-old Irish woman has been found dead on board a boat which was docked at a yacht club on Long Island in New York. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0806/1527179-martha-nolan-o-slatarra/>
+
+---
+
+## Revenue writes to 68,000 pensioners over incorrect tax
+
+date: 2025-08-06, from: RTÉ News
+
+The Revenue Commissioners has written to almost 70,000 pensioners over issues relating to incorrect tax payments. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0806/1527173-revenue-writes-to-70-000-pensioners-over-incorrect-tax/>
+
+---
+
+## From the Vatican Observatory Faith and Science Pages — Magisterium Is Concerned with Question of Evolution for It Involves Conception of Man – St. John Paul II
+
+date: 2025-08-06, from: Vatican Obervatory
+
+From the Faith &#038; Science Resource Center: St. John Paul II on Evolution. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/from-the-vatican-observatory-faith-and-science-pages-magisterium-is-concerned-with-question-of-evolution-for-it-involves-conception-of-man-st-john-paul-ii/>
+
+---
+
+## Pope on Hiroshima anniversary: Let justice replace a false sense of security
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>Closing his General Audience, Pope Leo remembers the 80th anniversary of the atomic bombing of Hiroshima, Japan, and calls for justice, dialogue, and fraternity in the world.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-on-hiroshima-anniversary-let-justice-replace-false-sense.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-on-hiroshima-anniversary-let-justice-replace-false-sense.html>
+
+---
+
+## Teenager dies following Co Kerry crash
+
+date: 2025-08-06, from: RTÉ News
+
+A teenager, who was seriously injured in a road crash in Co Kerry at the weekend, has died in hospital. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0806/1527160-kerry-death/>
+
+---
+
+## Gena Heraty a 'tough, resilient' person, says charity
+
+date: 2025-08-06, from: RTÉ News
+
+The Irish branch of the charity, which the kidnapped Irish woman Gena Heraty works with in Haiti, has described her as a tough and very resilient person. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527149-gena-heraty-haiti/>
+
+---
+
+## Pope at Audience: Prepare for the Passover of daily life
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>At his Wednesday General Audience, Pope Leo reflects on the word “prepare” and how each of us is invited to prepare for the Eucharist in life’s daily moments, by "removing what encumbers us, reducing our demands and ceasing to hold unrealistic expectations."</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-at-audience-prepare-for-the-passover-of-daily-life.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-at-audience-prepare-for-the-passover-of-daily-life.html>
+
+---
+
+## Poland needs to change constitution, says new president
+
+date: 2025-08-06, from: RTÉ News
+
+Poland must start work on changing its constitution, President Karol Nawrocki said after he was sworn into office. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0806/1527147-poland-politics/>
+
+---
+
+## US Church on pilgrimage for Peace to Hiroshima and Nagasaki 
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>The Church in the United States makes a pilgrimage for Peace to Hiroshima and Nagasaki on the 80th Anniversary of the Atomic Bombings of Japan.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/us-church-leaders-pilgrimage-peace-anniversary-nuclear-bombings.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/us-church-leaders-pilgrimage-peace-anniversary-nuclear-bombings.html>
+
+---
+
+## Jewellery retailer Claire's files for bankruptcy in US
+
+date: 2025-08-06, from: RTÉ News
+
+Fashion jewellery retailer Claire's has filed for bankruptcy protection in the United States, its second bankruptcy filing after 2018, a court document showed, highlighting a slowdown in consumer spending, leading to lower sales. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0806/1527125-jewellery-retailer-claires-files-for-bankruptcy-in-us/>
+
+---
+
+## US halt $500m in mRNA vaccine research, RFK says
+
+date: 2025-08-06, from: RTÉ News
+
+US President Donald Trump's administration has announced it would terminate 22 federal contracts for mRNA-based vaccines, questioning the safety of a technology credited with helping end the Covid pandemic and saving millions of lives. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0806/1527124-us-vaccines/>
+
+---
+
+## Public finances benefitting from young population - Ifac
+
+date: 2025-08-06, from: RTÉ News
+
+The Irish Fiscal Advisory Council (Ifac) is warning that Ireland faces major spending pressures from an ageing population and climate change. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0806/1527119-public-finances-benefitting-from-young-population-ifac/>
+
+---
+
+## Pope to Pan-African Catholic group: Hope is vital on our earthly journey
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>Addressing the Third Congress of the Pan-African Catholic Theology and Pastoral Network, Pope Leo urges members to look to the future of the continent with hope.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-to-pan-african-catholic-group-hope-is-vital-on-our-earthly.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-to-pan-african-catholic-group-hope-is-vital-on-our-earthly.html>
+
+---
+
+## Pope urges Knights of Columbus to be signs of hope
+
+date: 2025-08-06, from: Vatican News
+
+
+                    <p>Pope Leo XIV sends a message to the Knights of Columbus thanking them for their service for the most needy, a service which he says stems from their founder Michael McGivney.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-urges-knights-of-columbus-to-be-sings-of-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-urges-knights-of-columbus-to-be-sings-of-hope.html>
+
+---
+
+## Israeli military chief pushes back on expanding Gaza war
+
+date: 2025-08-06, from: RTÉ News
+
+Israeli Prime Minister Benjamin Netanyahu has faced pushback from the head of the military over his proposal to seize remaining areas of Gaza it doesn't already control during a tense three-hour meeting, three Israeli officials have said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0806/1527115-gaza-israel/>
+
+---
+
+## Transitional housing for Indigenous families in Edmonton to open in October
+
+date: 2025-08-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6615648.1754421896!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/edmonton-skyline-october-2022.JPG' alt='A view of the bridge and skyline downtown.' width='620' height='349' title='A view of the fall colours in Edmonton in early October.'/><p>Buffalo Keeper NehiYaw Centre, a charity that offers programs and resources like housing and cultural education, is preparing six units for tenants to occupy starting in October. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/indigenous-housing-seneca-one-1.7601709?cmp=rss>
+
+---
+
+## Russian strikes kill two at Ukraine holiday camp
+
+date: 2025-08-06, from: RTÉ News
+
+A Russian attack that set ablaze a holiday camp in central Ukraine killed two people and wounded another dozen, local authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0806/1527114-ukraine-russia/>
+
+---
+
+## The curious case of Daniel O'Connell's missing heart
+
+date: 2025-08-06, from: RTÉ News
+
+Before Daniel O'Connell's body was repatriated to Dublin for burial in Glasnevin Cemetery, his heart was removed, embalmed and donated to the Irish College in Rome. However, his heart later vanished without trace. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0806/1527064-daniel-oconnell-heart/>
+
+---
+
+## Sean Combs seeking President Trump pardon, says lawyer
+
+date: 2025-08-06, from: RTÉ News
+
+Music mogul Sean 'Diddy' Combs, who is to be sentenced in October for his conviction on prostitution-related charges, is seeking a pardon from US President Donald Trump, one of Combs's lawyers has said. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0806/1527109-sean-combs-seeking-president-trump-pardon-says-lawyer/>
+
+---
+
+## What's up in Texas? Trump's gerrymandering push, explained
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601875.1754431552!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='President Donald Trump answers questions from reporters after signing an executive order about the 2028 Los Angeles Olympic Games' width='620' height='349' title='President Donald Trump answers questions from reporters in Washington on Aug. 5, 2025 after signing an executive order about the 2028 Los Angeles Olympic Games.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-texas-gerrymandering-election-boundaries-explained-1.7601386?cmp=rss>
+
+---
+
+## Daniel O'Connell's legacy remembered on 250th birthday
+
+date: 2025-08-06, from: RTÉ News
+
+Today marks the 250th anniversary of the birth of Daniel O'Connell, the man known as 'The Liberator'. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527013-daniel-oconnell/>
+
+---
+
+## Call for Govt to expand back-to-school allowance
+
+date: 2025-08-06, from: RTÉ News
+
+Children's charity Barnardos has called on the Government to expand eligibility for the back-to-school allowance to help more parents meet the cost of kitting out their child for the school year. 
+
+<br> 
+
+<https://www.rte.ie/news/education/2025/0806/1527094-back-to-school/>
+
+---
+
+## The Canadian drone industry is spinning up — with lessons from Ukraine
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/f7661f5d-85c7-4bba-95a9-1346b0697da1,1754415488844/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Drone lifts off from field' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/canadian-forces-drone-warfare-1.7600299?cmp=rss>
+
+---
+
+## Calm before the storms: Forecasters say the quiet Atlantic hurricane season won't last
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601505.1754411686!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tropical-storm-dexter.jpg' alt='A map shows the North Atlantic Ocean, including parts of eastern Canada and clouds.' width='620' height='349' title='Tropical Storm Dexter can be seen off the coast of Nova Scotia. While it may seem like a quiet hurricane season so far, experts warn that the season hasn&apos;t peaked yet.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/2025-quiet-start-hurricane-season-1.7601475?cmp=rss>
+
+---
+
+## Plastic pollution is still a problem. A UN meeting in Geneva is hoping to change that
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6675765.1698266998!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1232417948.jpg' alt='Thousands of plastic bottles and containers are sprawled across black sand with blue water and light blue sky in the background.' width='620' height='349' title='Plastic waste is littered across the beach of Costa del Este, in Panama City, on April 19, 2021. '/><p>Countries are gathering in Geneva from Aug. 5 to 14, with the hopes of passing a legally binding global agreement on plastic pollution.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/plastic-pollution-un-1.7601905?cmp=rss>
+
+---
+
+## Cree midwifery training in Northern Quebec gets a boost from regulatory change
+
+date: 2025-08-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7601383.1754406821!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/shannon-chiskamish.jpg' alt='A Cree midwife caretaking for a mother and her baby. ' width='620' height='349' title='With the  Eeyou Istchee Pimaatisiiwin Chiskutimaachawin (EIPC)  program, Shannon Chiskamish helped deliver her 12th baby while working towards her midwife permit. '/><p>A change to provincial regulations in Quebec means a midwifery program in Eeyou Istchee can broaden its scope of practice, and train more Indigenous midwives in their own communities.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/cree-midwives-eeyou-istchee-law-amendment-1.7587843?cmp=rss>
+
+---
+
+## Japan marks 80 years since Hiroshima atomic bombing
+
+date: 2025-08-06, from: RTÉ News
+
+Exactly 80 years since an atomic bomb was used in war for the first time, thousands bowed their heads in prayer in Hiroshima as the city's mayor warned world leaders about the nuclear warheads that still exist today. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0806/1527108-hiroshima-japan/>
+
+---
+
+## Swiss president to meet Rubio for talks on tariffs
+
+date: 2025-08-06, from: RTÉ News
+
+Swiss President Karin Keller-Sutter will meet US Secretary of State Marco Rubio, the State Department said, as Switzerland tries to win a reprieve from US tariffs of 39% on Swiss imports. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0806/1527107-us-tariffs/>
+
+---
+
+## Talks between Putin and Witkoff 'constructive' - Kremlin
+
+date: 2025-08-05, from: RTÉ News
+
+Talks between Russian President Vladimir Putin and US special envoy Steve Witkoff were "useful and constructive," Kremlin foreign policy aide Yuri Ushakov has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0806/1527105-russia-ukraine/>
+
+---
+
+## Cardinal Cupich on Hiroshima anniversary: Transfiguration reveals path to peace
+
+date: 2025-08-05, from: Vatican News
+
+
+                    <p>In Hiroshima, on the 80th anniversary of the atomic bombing, Cardinal Blase Cupich presides over Mass for peace on the Feast of the Transfiguration. In his homily, he echoes Pope Francis’ call to remember, journey together, and protect one another, urging the global community to reject division and choose the path of peace.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/cardinal-cupich-anniversary-hiroshima-bombing-mass-peace-atomic.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/cardinal-cupich-anniversary-hiroshima-bombing-mass-peace-atomic.html>
+
+---
+
+## Famine did not stunt height in worst-hit areas - study
+
+date: 2025-08-05, from: RTÉ News
+
+Areas in Ireland hardest hit by the Famine did not experience an expected stunting in height of the population, new academic research has found. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0806/1527067-famine-study/>
+
+---
+
+## RFK Jr. cancels $500M US in funding for vaccine development, targeting mRNA
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601985.1754440526!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A man speaks into a microphone. Other people are visible standing behind him. ' width='620' height='349' title='Health and Human Services Secretary Robert F. Kennedy Jr. speaks during an event where President Donald Trump will sign an executive order restarting the Presidential Fitness Test in public schools, Thursday, July 31, 2025, in the Roosevelt Room of the White House in Washington. '/><p>The U.S. Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-19 and the flu, specifically targeting vaccines that use mRNA technology.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/vaccine-funding-pulled-mrna-1.7601981?cmp=rss>
+
+---
+
+## Australia's Great Barrier Reef sees sharp decline in coral cover in 2 regions
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601967.1754439504!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/underwater-image-showing-bleached-dead-coral-around-australia-s-lizard-island.jpg' alt='A file photo from April 2024, provides an underwater view of both bleached and dead coral around Australia&apos;s Lizard Island.' width='620' height='349' title='This underwater photo taken on April 5, 2024, shows bleached and dead coral around Lizard Island on the Great Barrier Reef, located 270 kilometres north of the city of Cairns. Australia&apos;s famed Great Barrier Reef is teetering on the brink, suffering one of the most severe coral bleaching events on record -- the fifth in eight years -- and leaving scientists unsure about its survival.'/><p>Australia's Great Barrier Reef has suffered the largest decline in coral cover in two of its three regions over the last year, research released on Wednesday showed, following a mass bleaching of its corals that was among the worst on record.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/australia-great-barrier-reef-coral-cover-1.7601961?cmp=rss>
+
+---
+
+## China is fighting an outbreak of the chikungunya virus. What is it?
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7601935.1754437092!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/brazil-zika-babies.jpg' alt='Moquitoes' width='620' height='349' title='In this Sept. 29, 2016 photo, Aedes aegypti mosquitoes, responsible for transmitting Zika, sit in a petri dish at the Fiocruz Institute in Recife, Brazil. Fiocruz Institute in Pernambuco collects mosquitoes from many areas around the state to test eradication efforts of the federal government such as one in which they sterilize male mosquitoes for them not to reproduce. (AP Photo/Felipe Dana)'/><p>Chinese health officials are responding to an outbreak of a mosquito-borne disease that can cause severe joint pain. More than 7,000 cases of chikungunya have been reported in the Chinese province of Guangdong in recent weeks, with most in the southern city of Foshan. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/chikungunya-virus-china-1.7601781?cmp=rss>
 
 ---
 
@@ -45,6 +529,18 @@ The father of a "lifelong fan" who fell to his death at the end of an Oasis conc
 
 ---
 
+## ‘Energy in the room’ why no extension on tariffs for Canada, says U.S. ambassador
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/dda146ae-2798-4482-9b4a-b6ceb4d162fe,1754429181486/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='U.S. Ambassador to Canada Pete Hoekstra' width='620' height='349' title=''/><p>Tariffs on non-CUSMA-compliant goods from Canada are now at 35 per cent after U.S. President Donald Trump raised them following a self-imposed deadline, while Mexico is given an extension for ongoing negotiations. U.S. Ambassador to Canada Pete Hoekstra talks to Power & Politics about the different results, and the current state of the cross-border relationship.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6856978?cmp=rss>
+
+---
+
 ## Trump administration to axe Musk's 'five things' email
 
 date: 2025-08-05, from: RTÉ News
@@ -66,6 +562,18 @@ The Food Safety Authority of Ireland has issued a recall alert for a number of p
 <br> 
 
 <https://www.rte.ie/news/2025/0805/1527059-coriander-hummus-recall/>
+
+---
+
+## Francis Ford Coppola says he's doing well following medical procedure in Rome
+
+date: 2025-08-05, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7335268.1727453139!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/francis-ford-coppola.jpg' alt='Headshot of Francis Ford Coppola sitting in front of a microphone.' width='620' height='349' title='Francis Ford Coppola, the director behind The Godfather and Apocalypse Now, sits down for a conversation with Q&apos;s Tom Power in Toronto&apos;s Ace Hotel.'/><p>Francis Ford Coppola, the acclaimed American director of The Godfather movies and Apocalypse Now, underwent a non-emergency medical procedure in Rome Tuesday and is doing fine, he and a U.S.-based representative said.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/francis-ford-coppola-hospitalized-1.7601784?cmp=rss>
 
 ---
 
@@ -129,7 +637,7 @@ date: 2025-08-05, from: CBC, Indigenious News
 
 date: 2025-08-05, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7601660.1754419116!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-kahnawake-20250805.jpg' alt='Mohawk Council of Kahnawake Grand Chief Cody Diabo speaking' width='620' height='349' title='Mohawk Council of Kahnawake (MCK) Grand Chief Cody Diabo speaks during a news regarding Bill C-5 and federal budget cuts in Kahnawake, Que., Tuesday, August 5, 2025. THE CANADIAN PRESS/Graham Hughes'/><p>The Mohawk Council of Kahnawà:ke says it will probably impose tolls on the roads crossing its territory in response to looming federal budget cuts.</p> 
+<img src='https://i.cbc.ca/1.7601660.1754419116!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-kahnawake-20250805.jpg' alt='Mohawk Council of Kahnawake Grand Chief Cody Diabo speaking' width='620' height='349' title='Mohawk Council of Kahnawake (MCK) Grand Chief Cody Diabo speaks during a news regarding Bill C-5 and federal budget cuts in Kahnawake, Que., Tuesday, August 5, 2025. THE CANADIAN PRESS/Graham Hughes'/><p>The Mohawk Council of Kahnawà:ke​​​​​​​ said Tuesday that it is looking at imposing tolls on the roads crossing its territory in response to looming federal budget cuts.</p> 
 
 <br> 
 
@@ -186,6 +694,18 @@ Shannon McQuillan's father said he is "disgusted and ashamed" of the actions of 
 <br> 
 
 <https://www.rte.ie/news/2025/0805/1527039-psni-duty-care/>
+
+---
+
+## Shannon McQuillan's father 'disgusted' by actions of PSNI
+
+date: 2025-08-05, from: RTÉ News
+
+Shannon McQuillan's father said he is "disgusted and ashamed" of the actions of police officers who were with his daughter before she was knocked down and killed. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0805/1527039-shannon-mcquillan-psni/>
 
 ---
 
@@ -289,7 +809,7 @@ Breaking down barriers and restoring fairness in global development should be th
 
 ---
 
-## Gaza: Security Council meets on hostage crisis amid ‘unbearable’ conditions for Palestinians
+## Gaza: Security Council meets on hostage crisis amid ‘unbearable’ conditions facing Palestinian civilians
 
 date: 2025-08-05, from: United Nations, Top Stories
 
@@ -351,7 +871,7 @@ Children in Gaza are dying not just from hunger, but from the total collapse of 
 
 ## The world is demanding action over plastic pollution: UN environment chief
 
-date: 2025-08-05, from: United Nations, Top Stories
+date: 2025-08-05, from: United Nations, Climate Change
 
 High stakes negotiations got underway at the UN Geneva on Tuesday to agree on a legally binding treaty to curb plastic pollution, attended by delegates from nearly 180 countries.&nbsp; 
 
@@ -377,7 +897,7 @@ Obtaining food is no longer a routine journey in Gaza; it has become a race, fra
 
 date: 2025-08-05, from: United Nations, Top Stories
 
-The UN refugee agency, UNHCR, is calling for Pakistan to halt the forcible return of Afghan refugees holding proof of registration (PoR) cards, Spokesperson Babor Baloch said on Tuesday in Geneva.&nbsp; 
+The UN refugee agency, UNHCR, is calling for Pakistan to halt the forcible return of Afghan refugees holding proof of registration (PoR) cards, Spokesperson Babar Baloch said on Tuesday in Geneva.&nbsp; 
 
 <br> 
 
@@ -995,7 +1515,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## The final straw? Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Economic Development
+date: 2025-08-04, from: United Nations, Climate Change
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 

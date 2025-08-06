@@ -1,11 +1,49 @@
 ---
 title: north america
-updated: 2025-08-05 14:08:12
+updated: 2025-08-06 06:08:29
 ---
 
 # north america
 
-(date: 2025-08-05 14:08:12)
+(date: 2025-08-06 06:08:29)
+
+---
+
+## Democrats Fight Back on Re-redistricting
+
+date: 2025-08-06, from: The Contrarian
+
+Politicians satiate the base&#8217;s demand to stand up to MAGA bullies 
+
+<br> 
+
+<https://contrarian.substack.com/p/democrats-fight-back-on-re-redistricting>
+
+---
+
+## MAGA's takeover of the DOJ and BLS
+
+date: 2025-08-05, from: The Contrarian
+
+Today on The Contrarian Pod, Former Senator Doug Jones joins Jen Rubin to discuss the DOJ&#8217;s &#8220;junk complaints&#8221; against federal judges, the Supreme Court&#8217;s coopting of the so-called &#8220;shadow docket,&#8221; and the need for Chief Justice John Roberts to use his bully pulpit to call out the Administration. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170218816/2197d4d74b441b4c7af5e03b1e6d4bb8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170218816/2197d4d74b441b4c7af5e03b1e6d4bb8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/magas-takeover-of-the-doj-and-bls>
+
+---
+
+## Evening Roundup, August 5
+
+date: 2025-08-05, from: The Contrarian
+
+Featuring Paul Krugman and Jared Bernstein; Billy Begala from "The Barbed Wire"; Anderson Clayton; Meredith Blake; "Where in the World is Tim Mak?"; Olivia Julianna; 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-5>
 
 ---
 

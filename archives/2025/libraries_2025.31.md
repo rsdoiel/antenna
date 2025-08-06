@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-05 14:08:18
+updated: 2025-08-06 06:08:35
 ---
 
 # libraries
 
-(date: 2025-08-05 14:08:18)
+(date: 2025-08-06 06:08:35)
 
 ---
 
@@ -18,6 +18,32 @@ Balmer, Vera; Kraus, Michael A.; Coros, Stelian; Kaufmann, Walter
 <br> 
 
 <http://hdl.handle.net/20.500.11850/748023>
+
+---
+
+## Vanishing Culture: Why Preserve Flash?
+
+date: 2025-08-06, from: Internet Archive Blog
+
+The following guest post from free-range archivist and software curator Jason Scott is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/08/06/vanishing-culture-why-preserve-flash/>
+
+---
+
+## Guest Post — From Ivory Tower to Editorial Desk: Navigating the Leap from Academia to Scholarly Publishing
+
+date: 2025-08-06, from: Scholarly Kitchen
+
+<p>Today, guest blogger, Priyanka Gupta, shares the story of her career journey from academia to editorial leadership.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/06/guest-post-from-ivory-tower-to-editorial-desk-navigating-the-leap-from-academia-to-scholarly-publishing/">Guest Post — From Ivory Tower to Editorial Desk: Navigating the Leap from Academia to Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/06/guest-post-from-ivory-tower-to-editorial-desk-navigating-the-leap-from-academia-to-scholarly-publishing/>
 
 ---
 

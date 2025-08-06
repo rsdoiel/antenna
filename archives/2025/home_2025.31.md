@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2025-08-05 14:08:18
+updated: 2025-08-06 06:08:35
 ---
 
 # home
 
-(date: 2025-08-05 14:08:18)
+(date: 2025-08-06 06:08:35)
+
+---
+
+## 30 Common Wasps in Georgia (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Georgia hosts a diverse range of wasp species, each with its own unique behaviors and ecological roles. From the bold ... </p>
+<p class="read-more-container"><a title="30 Common Wasps in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-common-wasps-in-georgia-with-pictures-and-identification/#more-33258" aria-label="Read more about 30 Common Wasps in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-common-wasps-in-georgia-with-pictures-and-identification/">30 Common Wasps in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-common-wasps-in-georgia-with-pictures-and-identification/>
+
+---
+
+## The Hidden World of Bobcats in North Carolina
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>In the shadowed forests, misty ridgelines, and hidden hollows of North Carolina, a solitary hunter glides silently through the underbrush. ... </p>
+<p class="read-more-container"><a title="The Hidden World of Bobcats in North Carolina" class="read-more button" href="https://ownyardlife.com/the-hidden-world-of-bobcats-in-north-carolina/#more-33252" aria-label="Read more about The Hidden World of Bobcats in North Carolina">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/the-hidden-world-of-bobcats-in-north-carolina/">The Hidden World of Bobcats in North Carolina</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/the-hidden-world-of-bobcats-in-north-carolina/>
+
+---
+
+## 9 Types of Doves in Arizona (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>As a lifelong bird enthusiast and pigeon keeper, I&#8217;ve always found doves to be some of the most fascinating birds ... </p>
+<p class="read-more-container"><a title="9 Types of Doves in Arizona (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-types-of-doves-in-arizona-with-pictures-and-identification/#more-33243" aria-label="Read more about 9 Types of Doves in Arizona (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-types-of-doves-in-arizona-with-pictures-and-identification/">9 Types of Doves in Arizona (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-types-of-doves-in-arizona-with-pictures-and-identification/>
+
+---
+
+## 2 Types of Eagles in Michigan (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Michigan’s diverse landscapes, from forested riverbanks to the shores of the Great Lakes, offer a haven for some of North ... </p>
+<p class="read-more-container"><a title="2 Types of Eagles in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-eagles-in-michigan-with-pictures-and-identification/#more-33235" aria-label="Read more about 2 Types of Eagles in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-eagles-in-michigan-with-pictures-and-identification/">2 Types of Eagles in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-eagles-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 10 Types of Hawks in Ohio (With Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>Ohio’s skies are home to a fascinating variety of hawks, each with unique behaviors and stunning flight patterns. As a ... </p>
+<p class="read-more-container"><a title="10 Types of Hawks in Ohio (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-types-of-hawks-in-ohio-with-pictures-and-identification/#more-33229" aria-label="Read more about 10 Types of Hawks in Ohio (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-hawks-in-ohio-with-pictures-and-identification/">10 Types of Hawks in Ohio (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-types-of-hawks-in-ohio-with-pictures-and-identification/>
+
+---
+
+## 10 Types of Hummingbirds in Kansas (Pictures and Identification)
+
+date: 2025-08-06, from: Yard Life blog
+
+<p>There’s something magical about the flutter of tiny wings and the flash of iridescent feathers that draws us to hummingbirds. ... </p>
+<p class="read-more-container"><a title="10 Types of Hummingbirds in Kansas (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-types-of-hummingbirds-in-kansas-pictures-and-identification/#more-33222" aria-label="Read more about 10 Types of Hummingbirds in Kansas (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-hummingbirds-in-kansas-pictures-and-identification/">10 Types of Hummingbirds in Kansas (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-types-of-hummingbirds-in-kansas-pictures-and-identification/>
 
 ---
 
@@ -21,6 +111,18 @@ A new building system lets buyers create custom arrangements with engineered-woo
 
 ---
 
+## 8 Summer Camp–Inspired Getaways for Families Who Love Nature
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Want a getaway that channels the magic of classic summer camp? These resorts and ranches are perfect for the whole family. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/summer-camp-inspired-getaways>
+
+---
+
 ## 8 Small Appliance Storage Ideas for the Ultimate Organized Kitchen
 
 date: 2025-08-05, from: Family Handyman Blog
@@ -32,6 +134,18 @@ date: 2025-08-05, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/small-appliance-storage/>
+
+---
+
+## I Was Terrified to Fly with My Senior Dog for the First Time. This Airline Made It a Breeze.
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Dog-first airlines are ushering in a new era of pet travel. Our travel editor decided to try JSX out with her senior dog. 
+
+<br> 
+
+<https://www.sunset.com/travel/dog-friendly-airlines-jsx>
 
 ---
 
@@ -56,6 +170,32 @@ Architect Louis Kamper spared no expense in building his 1915 home in the style 
 <br> 
 
 <https://www.dwell.com/article/louis-kamper-mansion-patrick-brewis-detroit-real-estate-e26c2cd1>
+
+---
+
+## 17 of the Best Tillandsia Air Plant Varieties
+
+date: 2025-08-05, from: The Gardener's Path
+
+<p>Add some funky fresh flora to your indoor decor with Tillandsia, or air plants. They need indirect sunlight and no soil. Arrange and rearrange them as often as desired using creative supports such as crystals, driftwood, metal stands, and terrarium globes. Read on and discover 17 of our favorite Tillandsia species now.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/indoor-gardening/tillandsia-varieties/">17 of the Best Tillandsia Air Plant Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/indoor-gardening/tillandsia-varieties/>
+
+---
+
+## The Best Small-Space Ideas to Steal from the Most Stylish Beach Houses
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Three beach houses in vastly different spots along the coast maximize square footage to accommodate a crowd. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/small-space-ideas-beach-houses>
 
 ---
 
@@ -158,11 +298,11 @@ date: 2025-08-05, from: Yard Life blog
 
 ---
 
-## How They Pulled It Off: A Historical Toronto Home Where the Whole Basement Is a Shower
+## How They Pulled It Off: A Historical Toronto Home With a Wellness Zone in the Basement
 
 date: 2025-08-05, from: Dwell
 
-Half sports storage space and half wellness zone, Studio Vaaro’s unique 1,350-square-foot expansion "was one of the craziest digs" the subcontractor had ever taken on. 
+Half sports storage space and half spa, Studio Vaaro’s unique 1,350-square-foot expansion "was one of the craziest digs" the subcontractor had ever taken on. 
 
 <br> 
 
@@ -404,6 +544,19 @@ date: 2025-08-04, from: California Grown
 
 ---
 
+## This Underappreciated Wine Country Town Deserves a Visit
+
+date: 2025-08-04, from: Sunset Magazine - Living in the West
+
+<p>What to eat, drink, do, and more in California&#8217;s wine country.</p>
+ 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-paso-robles>
+
+---
+
 ## Homepage 2025
 
 date: 2025-08-04, from: Sunset Magazine - Living in the West
@@ -425,18 +578,6 @@ Glam lighting meets glossy furniture, ceramic leopards, and bright-red paint in 
 <br> 
 
 <https://www.dwell.com/article/rental-revamp-charly-villain-italo-disco-apartment-renovation-berlin-germany-b4742fdf>
-
----
-
-## The Best Small-Space Ideas to Steal from the Most Stylish Beach Houses
-
-date: 2025-08-04, from: Sunset Magazine - Living in the West
-
-Three beach houses in vastly different spots along the coast maximize square footage to accommodate a crowd. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/small-space-ideas-beach-houses>
 
 ---
 

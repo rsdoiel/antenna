@@ -1,11 +1,513 @@
 ---
 title: pacific
-updated: 2025-08-05 14:08:13
+updated: 2025-08-06 06:08:30
 ---
 
 # pacific
 
-(date: 2025-08-05 14:08:13)
+(date: 2025-08-06 06:08:30)
+
+---
+
+## US begins talks with Cook Islands on seabed mining, gears up to compete with China
+
+date: 2025-08-06, from: Pacific Island Times
+
+The U.S. has begun discussions with the Cook Islands to explore seabed minerals within its waters, in a bid to catch up with China, which has previously clinched a similar deal with the island nation. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-begins-talks-with-cook-islands-on-seabed-mining-gears-up-to-compete-with-china>
+
+---
+
+## HPP couple accused of attempted drug distribution
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>A Keaau couple facing multiple charges connected with alleged attempted drug distribution is free after posting bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/hawaii-news/hpp-couple-accused-of-attempted-drug-distribution/>
+
+---
+
+## Maxwell opposes request to unseal Epstein grand jury papers
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Ghislaine Maxwell, the longtime companion of Jeffrey Epstein who is serving a 20-year prison sentence for sexually exploiting and abusing teenage girls, asked a federal judge in New York City on Tuesday to deny the government&#8217;s request to unseal grand jury transcripts from its investigation of the two.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/maxwell-opposes-request-to-unseal-epstein-grand-jury-papers/>
+
+---
+
+## House oversight committee issues subpoenas for Epstein files
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House Oversight Committee issued a subpoena Tuesday to the Justice Department for its files related to Jeffrey Epstein, the disgraced financier who died in federal prison awaiting trial on sex trafficking charges, and Ghislaine Maxwell, his longtime associate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/house-oversight-committee-issues-subpoenas-for-epstein-files/>
+
+---
+
+## Forecasters monitor Tropical Storm Henriette
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters and emergency personnel are keeping an eye on a tropical storm with a projected path that could bring it close to Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/hawaii-news/forecasters-monitor-tropical-storm-henriette/>
+
+---
+
+## Is there fresh water beneath the ocean floor?
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>A scientific expedition off the west coast of Hawaii Island has concluded a two-week offshore imaging survey aimed at confirming the existence of a vast underground reservoir of fresh or brackish water beneath the seafloor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/hawaii-news/is-there-fresh-water-beneath-the-ocean-floor/>
+
+---
+
+## EPA moves to cancel $7 billion in grants for solar energy
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is preparing to terminate $7 billion in federal grants intended to help low- and moderate-income families install solar panels on their homes, according to two people briefed on the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/epa-moves-to-cancel-7-billion-in-grants-for-solar-energy/>
+
+---
+
+## Trump set to fill Fed board vacancy by week’s end, has narrowed chair search to four
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump said on Tuesday he will decide on a nominee to fill a coming vacancy on the Federal Reserve&#8217;s Board of Governors by the end of the week, and had separately narrowed the possible replacements for Fed Chair Jerome Powell to a short list of four.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/trump-set-to-fill-fed-board-vacancy-by-weeks-end-has-narrowed-chair-search-to-four/>
+
+---
+
+## Torrential rain batters Hong Kong, flooding the waterlogged city
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Days of relentless rain in Hong Kong set off major floods Tuesday that swept cars away, inundated a hospital emergency ward and left buses stranded. Roads winding down the city&#8217;s steep hills turned into rivers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/torrential-rain-batters-hong-kong-flooding-the-waterlogged-city/>
+
+---
+
+## UN alarmed by reports about possible expansion of Israeli Gaza operations
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The United Nations on Tuesday called reports about a possible decision to expand Israel&#8217;s military operations throughout the Gaza Strip &#8220;deeply alarming&#8221; if true.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/un-alarmed-by-reports-about-possible-expansion-of-israeli-gaza-operations/>
+
+---
+
+## Trump-led Texas redistricting gambit ignites national arms race to control Congress
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The escalating political fight over the Texas congressional map is spreading across other states across the country, triggering an unprecedented mid-decade redistricting arms race with the balance of power in Washington at stake.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/trump-led-texas-redistricting-gambit-ignites-national-arms-race-to-control-congress/>
+
+---
+
+## White House to target banks as Trump claims discrimination
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/NEW YORK &#8212; President Donald Trump on Tuesday said he believes that banks, including JPMorgan and Bank of America, discriminate against him and his supporters, as he prepares to act against banks for allegedly dropping customers for political reasons.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/white-house-to-target-banks-as-trump-claims-discrimination/>
+
+---
+
+## Grand Canyon wildfire spreads to more than 126,000 acres
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The nation&#8217;s largest wildfire has spread to more than 126,000 acres in Grand Canyon National Park in Arizona, prompting nearby communities to declare transportation, supply and smoke emergencies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/grand-canyon-wildfire-spreads-to-more-than-126000-acres/>
+
+---
+
+## Bees, mini-donkeys, 4-H fun at ʻOhana Day in Hilo
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>From the buzzing world of bees to miniature donkeys, a day of interactive agricultural and environmental experiences awaits military families and the community from 9 a.m. to noon this Saturday at the Military 4-H Pacific &#8216;Ohana Day, presented by the University of Hawaii at Manoa Cooperative Extension and Ho&#8216;ola Farms in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/community/bees-mini-donkeys-4-h-fun-at-%ca%bbohana-day-in-hilo/>
+
+---
+
+## US criticizes use of AI to personalize airline ticket prices, would investigate
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>U.S. Transportation Secretary Sean Duffy said Tuesday the department has concerns about the use of AI to set personalized airline ticket prices and will investigate if anyone does so. Last week, Delta Air Lines told lawmakers it will not and has not used AI to set prices for individual consumers. &#8220;To try to individualize pricing on seats based on how much you make or don&#8217;t make or who you are, I can guarantee you that we will investigate if anyone does that,&#8221; Duffy said. &#8220;We would engage very strongly if any company tries to use AI to individually price their seating.&#8221; Duffy noted Delta clarified that it would not use AI for pricing individual tickets, &#8220;and I&#8217;ll take them at face value.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/us-criticizes-use-of-ai-to-personalize-airline-ticket-prices-would-investigate/>
+
+---
+
+## Big Island schools benefit from shopping sprees
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Five Big Island elementary schools received a boost in art and classroom supplies last month thanks to Walmart shopping sprees supported by Hawaii Island resident Christy Logan, The Roberts Foundation and The Key is Aloha.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/community/big-island-schools-benefit-from-shopping-sprees/>
+
+---
+
+## Supernatural monsters from Japan featured in Hilo exhibit
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>The Consulate General of Japan in Honolulu has announced the opening of the Japan Foundation Traveling Exhibition, &#8220;Yokai Parade: Supernatural Monsters from Japan,&#8221; running now through Aug. 30 in cooperation with the Japan Foundation and the Hawaii Japanese Center in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/community/supernatural-monsters-from-japan-featured-in-hilo-exhibit/>
+
+---
+
+## News in brief for August 6
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>Owner of funeral home with decaying bodies admits fraud</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/nation-world-news/news-in-brief-for-august-6/>
+
+---
+
+## World Genki Ball Day is Thursday in Hilo
+
+date: 2025-08-06, from: Hawaii Tribune Harold
+
+
+				<p>For the first time, Friends of Lili&#8216;uokalani Gardens will participate Thursday in World Genki Ball Day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/06/community/world-genki-ball-day-is-thursday-in-hilo/>
+
+---
+
+## Unemployment rate for Pacific people more than double national average
+
+date: 2025-08-06, from: 
+
+That's according to the just-released Stats NZ quarterly labour market figures. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569214/unemployment-rate-for-pacific-people-more-than-double-national-average>
+
+---
+
+## Women empowered to lead Vanuatu’s green energy transition
+
+date: 2025-08-06, from: Pacific Island Times
+
+Women leaders in Pentecost are stepping into the forefront of Vanuatu’s green energy transformation through targeted training sessions under the Vanuatu Green Energy Transformation Project. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/women-empowered-to-lead-vanuatu-s-green-energy-transition>
+
+---
+
+## Guam among priority areas for NOAA's submerged wreckage removal program
+
+date: 2025-08-06, from: Pacific Island Times
+
+Salvage crews will be mobilized in Guam later this year to retrieve abandoned and derelict vessels left to rot in the waters. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-among-priority-areas-for-noaa-s-submerged-wreckage-removal-program>
+
+---
+
+## USP Open Day Ignites Law Student’s Dream
+
+date: 2025-08-06, from: University of the South Pacific (Fiji)
+
+<p>Like many high school students facing a crucial career decision, Sejal Chand was once at...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-open-day-ignites-law-students-dream/">USP Open Day Ignites Law Student&#8217;s Dream</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-open-day-ignites-law-students-dream/>
+
+---
+
+## Pacific news in brief for 6 August
+
+date: 2025-08-06, from: 
+
+A round-up of news from around the region, including Samoa's caretaker prime minister filing a police complaint against her former party's chairman. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569181/pacific-news-in-brief-for-6-august>
+
+---
+
+## Q&A: Exploring Chief of War with UH historian
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa Hawaiian studies instructor Mehana <span aria-label="Kaiama">Ka&#699;iama</span> <span aria-label="Makainai">Maka&#699;ina&#699;i</span> co hosts a new <span aria-label="Hawaii">Hawai&#699;i</span> Public Radio podcast on hit show <em>Chief of War</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/chief-of-war-q-and-a-uh-historian/">Q&A: Exploring <em>Chief of War</em> with <abbr>UH</abbr> historian</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/chief-of-war-q-and-a-uh-historian/>
+
+---
+
+## UH student-athletes welcome keiki back to school
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p>UH Mānoa student-athletes surprised keiki with back-to-school visits at two local elementary schools.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/uh-athletes-welcome-keiki-back-to-school/"><abbr>UH</abbr> student-athletes welcome keiki back to school</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/uh-athletes-welcome-keiki-back-to-school/>
+
+---
+
+## Soccer: Tonga keeps semifinal hopes alive after comeback win, NZ sweeps aside Solomons
+
+date: 2025-08-06, from: 
+
+The Tongans had lost to defending champions NZ in their opening OFC U16 Women's Championship on Saturday, but bounced back in style in their second game. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569175/soccer-tonga-keeps-semifinal-hopes-alive-after-comeback-win-nz-sweeps-aside-solomons>
+
+---
+
+## Helping those with substance use disorders heal often leads to self-healing
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p>Substance use disorders counseling offers new beginnings.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/substance-use-disorders-self-healing/">Helping those with substance use disorders heal often leads to self-healing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/substance-use-disorders-self-healing/>
+
+---
+
+## NZ announces support package, new High Commission building in PNG
+
+date: 2025-08-06, from: 
+
+Prime Minister Christopher Luxon has also unveiled a new support package as part of the 50th anniversary of diplomatic ties. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/political/569164/nz-announces-support-package-new-high-commission-building-in-png>
+
+---
+
+## Maunakea: Rare ‘fossil’ spotted by telescope
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p>The object, nicknamed &#8220;Ammonite,&#8221; is believed to be a preserved relic or &#8220;fossil&#8221; from the Solar System’s infancy.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/maunakea-rare-fossil-spotted/">Maunakea: Rare ‘fossil’ spotted by telescope</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/maunakea-rare-fossil-spotted/>
+
+---
+
+## Palau backs Solomon Islands' move to exclude Pacific Islands Forum partner talks until 2026
+
+date: 2025-08-06, from: 
+
+"This decision does allow us to focus on the critical intra-regional issues at this year's forum," the Palau President Office says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569165/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026>
+
+---
+
+## NZ Customs 'very concerned' about drug movements in the Pacific
+
+date: 2025-08-06, from: 
+
+Drug use and trafficking is a major issue in the Pacific. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569166/nz-customs-very-concerned-about-drug-movements-in-the-pacific>
+
+---
+
+## Tonga to host Queensland Reds in pre-Rugby World Cup qualifier warm-up
+
+date: 2025-08-06, from: 
+
+The 'Ikale Tahi will host the Queensland Reds at Te'ufaiva Park on 15 August ahead of their Pacific Nations Cup opener against the Manu Samoa. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569154/tonga-to-host-queensland-reds-in-pre-rugby-world-cup-qualifier-warm-up>
+
+---
+
+## Nauru grants first citizenship through investment scheme
+
+date: 2025-08-05, from: 
+
+The first approved applicants are a German family who recently sold their business and are living in Dubai, the Nauru government says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569146/nauru-grants-first-citizenship-through-investment-scheme>
+
+---
+
+## USP Celebrates Student Excellence
+
+date: 2025-08-05, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) held its annual awards ceremony to honor high-achieving...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-celebrates-student-excellence/">USP Celebrates Student Excellence</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-celebrates-student-excellence/>
+
+---
+
+## High school program sparks medical student’s return
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>First-year medical student Zoey Simmons returns to the <abbr>MDT</abbr> Summer Program to mentor high schoolers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/jabsom-mdt-summer-program/">High school program sparks medical student’s return</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/jabsom-mdt-summer-program/>
+
+---
+
+## Backpacks, books, big smiles: Waiʻanae Moku holds keiki literacy event
+
+date: 2025-08-05, from: University of Hawaiʻi News
+
+<p>Keiki gathered at Waiʻanae Moku for stories, supplies and an uplifting start.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/05/waianae-moku-keiki-literacy-event/">Backpacks, books, big smiles: Waiʻanae Moku holds keiki literacy event</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/05/waianae-moku-keiki-literacy-event/>
+
+---
+
+## Mark Brown rejects talk of 'strategic shift' in Cook Islands-New Zealand relationship
+
+date: 2025-08-05, from: 
+
+The Cook Islands has no intention of leaving its special relationship with New Zealand, Prime Minister Mark Brown says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569120/mark-brown-rejects-talk-of-strategic-shift-in-cook-islands-new-zealand-relationship>
 
 ---
 
@@ -47,18 +549,6 @@ The agreement was signed between Cook Islands Prime Minister Mark Brown and Fren
 
 ---
 
-## Mark Brown: rejects talk of 'strategic shift' in Cook Islands-New Zealand relationship
-
-date: 2025-08-05, from: 
-
-The Cook Islands has no intention of leaving its special relationship with New Zealand, Prime Minister Mark Brown says. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569120/mark-brown-rejects-talk-of-strategic-shift-in-cook-islands-new-zealand-relationship>
-
----
-
 ## 2 years after disaster, Maui recovery inches forward, struggles continue
 
 date: 2025-08-05, from: University of Hawaiʻi News
@@ -69,6 +559,114 @@ The post <a href="https://www.hawaii.edu/news/2025/08/05/2-years-after-maui-wild
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/05/2-years-after-maui-wildfire-disaster-report/>
+
+---
+
+## Rep. Ogo introduces bill to establish felony offense for desecration or theft of memorials and historical sites
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+REPRESENTATIVE Julie Marie A. Ogo, chairwoman of the House Committee on Tourism, has introduced House Bill 24-43, which establishes a felony offense for desecration or theft of memorials and historical sites in the Commonwealth. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rep-ogo-introduces-bill-to-establish-felony-offense-for-desecration-or-theft-of-memorials-and/article_7d2b7693-ef43-4627-b3bc-87cb36c59a26.html>
+
+---
+
+## Man sentenced in alien transport case, ordered deported
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+THE District Court for the NMI has ordered the deportation of Wenxing Wang, despite his possession of a valid U.S. Employment Authorization Document, after he was sentenced for conspiracy to transport an illegal alien. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/man-sentenced-in-alien-transport-case-ordered-deported/article_e349d1aa-0065-4a39-83f6-67abaee142c0.html>
+
+---
+
+## CUC: Fuel Adjustment Charge remains the same for August
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+THE Commonwealth Utilities Corporation announces that the Fuel Adjustment Charge remains the same at $0.19706 per kWh for the month of August. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cuc-fuel-adjustment-charge-remains-the-same-for-august/article_7a7f0488-63e7-4991-b308-269fe24f8d82.html>
+
+---
+
+## CHCC Public Health Services expands infant massage program
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+(Commonwealth Healthcare Corp.) — CHCC Public Health Services H.O.M.E Visiting Program is proud to announce 10 newly certified Infant Massage Educators to its team-joining the two existing certified educators. Home Visitors completed a comprehensive four-day training and certification exam led by Michael Curtis, International Infant Massage Trainer. With the new addition of trainers, the H.O.M.E. Visiting team is able to expand infant massage education to program enrolled families. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/chcc-public-health-services-expands-infant-massage-program/article_2b27ac9b-b9a7-49b2-8498-9f538442f35b.html>
+
+---
+
+## Scheduled power service interruption for Chalan Kiya on Aug. 8
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be a scheduled power service interruption on Friday, Aug. 8, 2025, from 9 a.m. to 1 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruption-for-chalan-kiya-on-aug-8/article_e9e3fef5-fa2d-4f05-8d12-072e5af7b8e5.html>
+
+---
+
+## SHRM meeting to focus on immigration law and workforce visas
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+(SHRM) — The Society for Human Resource Management-Northern Marianas Chapter is pleased to announce its August 2025 general membership meeting or GMM featuring Bruce Mailman, attorney at Mailman &amp; Kara, LLC. The event will take place on Thursday, Aug. 21, 2025, at Charley’s Cabaret, Pacific Islands Club Saipan, from 9 a.m. to 11 a.m., with a complimentary breakfast buffet for registered attendees available from 7 a.m. to 9:30 a.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/shrm-meeting-to-focus-on-immigration-law-and-workforce-visas/article_74ce2591-44ad-44a1-823d-35b7a43eb8bb.html>
+
+---
+
+## Red flags at 9 Saipan sites
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-9-saipan-sites/article_5eee1c23-5868-41eb-a45c-6bb4e24c92be.html>
+
+---
+
+## Finance reports ‘modest’ Q3 revenue, cites tourism decline
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+THE Department of Finance has reported to the Legislature a "modest" revenue collection in the third quarter of fiscal year 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/finance-reports-modest-q3-revenue-cites-tourism-decline/article_9d52d4c9-f4d9-49a5-b6d5-6ac0df5945c2.html>
+
+---
+
+## Heine calls out ‘interference’ in Forum program
+
+date: 2025-08-05, updated: 2025-08-06, from: Marianas Variety
+
+MAJURO — Leaders of the three Pacific nations with diplomatic ties to Taiwan are united in a message to the Pacific Islands Forum that the premier regional body must not allow non-member countries to dictate Forum policies — a reference to the China-Taiwan geopolitical debate. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/heine-calls-out-interference-in-forum-program/article_c9551c74-2a8a-4017-9793-44e76f1835c8.html>
 
 ---
 
@@ -387,7 +985,7 @@ date: 2025-08-05, from: Island Times
 
 date: 2025-08-05, from: Island Times
 
-<figure><img width="579" height="342" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?w=579&amp;ssl=1 579w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79362" data-permalink="https://islandtimes.org/special-prosecutor-error-forces-dismissal-of-87k-theft-case/rengulbai-hurtler/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" data-orig-size="579,342" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rengulbai hurtler" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" /></figure>
+<figure><img width="579" height="342" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?w=579&amp;ssl=1 579w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79362" data-permalink="https://islandtimes.org/special-prosecutor-error-forces-dismissal-of-87k-theft-case/rengulbai-hurtler/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" data-orig-size="579,342" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rengulbai hurtler" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/rengulbai-hurtler.jpg?fit=579%2C342&amp;ssl=1" /></figure>
 <p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (August 4, 2025) — A criminal case against Clarence Sriderio Rengulbai, former chairman of the Aimeliik State Public Lands Authority (AIMSPLA), was dismissed without prejudice last month after the Special Prosecutor admitted to a procedural error related to the defendant’s right to a speedy trial. Special Prosecutor Tamara D. [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/special-prosecutor-error-forces-dismissal-of-87k-theft-case/">Special Prosecutor error forces dismissal of $87K theft case</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

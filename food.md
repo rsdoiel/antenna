@@ -1,11 +1,91 @@
 ---
 title: food
-updated: 2025-08-05 14:08:20
+updated: 2025-08-06 06:08:38
 ---
 
 # food
 
-(date: 2025-08-05 14:08:20)
+(date: 2025-08-06 06:08:38)
+
+---
+
+## This Month's Bake Club Recipe Is a Beginner-Friendly Bread
+
+date: 2025-08-06, from: Bon Appetet
+
+BA Bake Club is back with July’s recipe: Jesse’s crusty Cheddar Jalapeño Loaf. 
+
+<br> 
+
+<https://www.bonappetit.com/story/this-months-bake-club-recipe-is-a-beginner-friendly-bread>
+
+---
+
+## Art Forgers Used Coffee To Make Fake Picassos
+
+date: 2025-08-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Roman forgers used coffee to "age" fake Picasso sketches. 
+
+<br> 
+
+<https://sprudge.com/art-forgers-used-coffee-to-make-fake-picassos-388899.html>
+
+---
+
+## Realistic Ways Coffee Shops Can Improve Their Sustainability Efforts
+
+date: 2025-08-06, from: The Fresh Cup
+
+<p>This article is sponsored by our partner, Your Brand Cafe. Coffee shops produce significant waste: single-use plastics, to-go packaging, nonstop electricity and water consumption, cans, bottles, cardboard boxes, and so on. All of these items or utilities, while necessary for daily operations, contribute to long-term environmental harm. Yet even the small business owners who are aware&#8230;</p>
+<p>The post <a href="https://freshcup.com/realistic-ways-coffee-shops-can-improve-their-sustainability-efforts/">Realistic Ways Coffee Shops Can Improve Their Sustainability Efforts</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/realistic-ways-coffee-shops-can-improve-their-sustainability-efforts/>
+
+---
+
+## Survey Conducted by Espresso Machine Manufacturer Says Gen Z Fears Baristas—But Do They Really?
+
+date: 2025-08-06, from: The Fresh Cup
+
+<p>Young people find baristas intimidating. That’s what a survey from the home appliances maker Philips found.</p>
+<p>The post <a href="https://freshcup.com/survey-conducted-by-espresso-machine-manufacturer-says-gen-z-fears-baristas-but-do-they-really/">Survey Conducted by Espresso Machine Manufacturer Says Gen Z Fears Baristas—But Do They Really?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/survey-conducted-by-espresso-machine-manufacturer-says-gen-z-fears-baristas-but-do-they-really/>
+
+---
+
+## Kofta Kebab Recipe
+
+date: 2025-08-06, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/kofta-kebabs/" title="Kofta Kebab Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Kofta Kebabs served with lemon wedges" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This traditional Kofta Kebab recipe is made with ground lamb or beef, fresh herbs, and bold spices, shaped onto skewers and grilled to juicy perfection.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/kofta-kebabs/">Kofta Kebab Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/kofta-kebabs/>
+
+---
+
+## Dunkin’ Just Dropped Its Most Exciting Product in Years
+
+date: 2025-08-05, from: Taste of Home
+
+<p>Truthfully, I never saw this coming.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dunkin-kahlua-liqueur-collab-2025/">Dunkin&#8217; Just Dropped Its Most Exciting Product in Years</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dunkin-kahlua-liqueur-collab-2025/>
 
 ---
 
@@ -369,7 +449,7 @@ date: 2025-08-04, from: The Sprudge
 
 date: 2025-08-04, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/tahini-sauce/" title="Tahini Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Tahini Sauce dripping from a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>The best creamy tahini sauce made with lemon, garlic, and sesame, perfect for falafel, kofta, grilled veggies, or as a bold salad dressing, so easy to make at home!</p>
+<a href="https://www.chilipeppermadness.com/recipes/tahini-sauce/" title="Tahini Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Tahini Sauce dripping from a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Tahini-Sauce-Recipe3b.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>The best creamy tahini sauce made with lemon, garlic, and sesame, perfect for falafel, kofta, grilled veggies, or as a bold salad dressing, so easy to make at home!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/tahini-sauce/">Tahini Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

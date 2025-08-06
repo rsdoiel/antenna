@@ -1,11 +1,62 @@
 ---
 title: journalism
-updated: 2025-08-05 14:08:17
+updated: 2025-08-06 06:08:34
 ---
 
 # journalism
 
-(date: 2025-08-05 14:08:17)
+(date: 2025-08-06 06:08:34)
+
+---
+
+## The case that saved the press — and why Trump wants it gone
+
+date: 2025-08-06, from: Nieman Journalism Lab
+
+President Donald Trump is again attacking the American press — this time not with fiery rally speeches or by calling the media &#8220;the enemy of the people,&#8221; but through the courts. Since the heat of the November 2024 election, and continuing into July, Trump has filed defamation lawsuits against 60 Minutes broadcaster CBS News and The Wall Street... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/the-case-that-saved-the-press-and-why-trump-wants-it-gone/>
+
+---
+
+## Classifieds – August 6, 2025
+
+date: 2025-08-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/08/06/classifieds-august-6-2025/">Classifieds &#8211; August 6, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/08/06/classifieds-august-6-2025/>
+
+---
+
+## Court rules UC barring undocumented students from campus jobs is discriminatory
+
+date: 2025-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A California Court of Appeals ruled Tuesday that a UC policy barring undocumented students from holding on-campus jobs is unlawfully discriminatory.
+The lawsuit was originally filed in October 2024 by alumnus Jeffry Umaña Muñoz and lecturer Iliana Perez – who are being represented by attorneys from UCLA Law’s Center for Immigration Law and Policy, among others. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/06/court-rules-uc-barring-undocumented-students-from-campus-jobs-is-discriminatory/>
+
+---
+
+## UCLA holds virtual town hall providing updates on suspended research grants
+
+date: 2025-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>Editors note: This piece was updated Aug. 5 at 10:53 p.m. to replace a passage that appears to have been improperly appropriated from another news organization.</em> 
+
+<br> 
+
+<https://dailybruin.com/2025/08/05/ucla-holds-virtual-town-hall-providing-updates-on-suspended-research-grants/>
 
 ---
 

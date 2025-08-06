@@ -1,11 +1,145 @@
 ---
 title: snapshots
-updated: 2025-08-05 14:08:23
+updated: 2025-08-06 06:08:40
 ---
 
 # snapshots
 
-(date: 2025-08-05 14:08:23)
+(date: 2025-08-06 06:08:40)
+
+---
+
+## Podcast: Google Is Exposing Peoples’ ChatGPT Secrets
+
+date: 2025-08-06, from: 404 Media Group
+
+Shared ChatGPT indexed by Google; how Wikipedia is fighting AI slop; and the history of how we got to Steam censorship. 
+
+<br> 
+
+<https://www.404media.co/podcast-google-is-exposing-peoples-chatgpt-secrets/>
+
+---
+
+## Quoting Artificial Analysis
+
+date: 2025-08-06, updated: 2025-08-06, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/artificialanlys/status/1952887733803991070"><p><strong>gpt-oss-120b is the most intelligent American open weights model, comes behind DeepSeek R1 and Qwen3 235B in intelligence but offers efficiency benefits</strong> [...]</p>
+<p>We’re seeing the 120B beat o3-mini but come in behind o4-mini and o3. The 120B is the most intelligent model that can be run on a single H100 and the 20B is the most intelligent model that can be run on a consumer GPU. [...]</p>
+<p>While the larger gpt-oss-120b does not come in above DeepSeek R1 0528’s score of 59 or Qwen3 235B 2507s score of 64, it is notable that it is significantly smaller in both total and active parameters than both of those models.</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/artificialanlys/status/1952887733803991070">Artificial Analysis</a>, see also their <a href="https://artificialanalysis.ai/models/open-source">updated leaderboard</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/deepseek">deepseek</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gpt-oss">gpt-oss</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/6/artificial-analysis/#atom-everything>
+
+---
+
+## About That Stock Market
+
+date: 2025-08-06, from: Paul Krugman
+
+Policy has gone mad; why aren&#8217;t stocks down? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/about-that-stock-market>
+
+---
+
+## AI interdimensional phone entertains party guests like it’s 1999
+
+date: 2025-08-06, from: Raspberry Pi News (.com)
+
+<p>This AI-powered landline phone talks to guests, gives them clues, and sends them on a mystery tour around the house. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/ai-interdimensional-phone-entertains-party-guests-like-its-1999/">AI interdimensional phone entertains party guests like it&#8217;s 1999</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/ai-interdimensional-phone-entertains-party-guests-like-its-1999/>
+
+---
+
+## No, AI is not Making Engineers 10x as Productive
+
+date: 2025-08-06, updated: 2025-08-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/">No, AI is not Making Engineers 10x as Productive</a></strong></p>
+Colton Voege on "curing your AI 10x engineer imposter syndrome".</p>
+<p>There's a lot of rhetoric out there suggesting that if you can't 10x your productivity through tricks like running a dozen Claude Code instances at once you're falling behind. Colton's piece here is a pretty thoughtful exploration of why that likely isn't true. I found myself agreeing with quite a lot of this article.</p>
+<p>I'm a pretty huge proponent for AI-assisted development, but I've never found those 10x claims convincing. I've estimated that LLMs make me 2-5x more productive on the parts of my job which involve typing code into a computer, which is itself a small portion of that I do as a software engineer.</p>
+<p>That's not too far from this article's assumptions. From the article:</p>
+<blockquote>
+<p>I wouldn't be surprised to learn AI helps many engineers do certain tasks 20-50% faster, but the nature of software bottlenecks mean this doesn't translate to a 20% productivity increase and certainly not a 10x increase.</p>
+</blockquote>
+<p>I think that's an under-estimation - I suspect engineers that really know how to use this stuff effectively will get more than a 0.2x increase - but I do think all of the <em>other stuff</em> involved in building software makes the 10x thing unrealistic in most cases.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44798189">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/6/not-10x/#atom-everything>
+
+---
+
+## GHC 9.10.3-rc2 is now available
+
+date: 2025-08-06, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.10.3-rc2 is now available</h1>
+<h4 class="text-muted">wz1000 - 2025-08-06</h4>
+
+<p>The GHC developers are very pleased to announce the availability
+of the second release candidate for GHC 9.10.3. Binary distributions, source
+distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.10.3-rc2">downloads.haskell.org</a> and
+via <a href="https://www.haskell.org/ghcup/">GHCup</a>.</p>
+<p>GHC 9.10.3 is a bug-fix release fixing over 50 issues of a variety of
+severities and scopes. A full accounting of these fixes can be found in the
+<a href="https://gitlab.haskell.org/ghc/ghc/-/blob/ghc-9.10/docs/users_guide/9.10.3-notes.rst?ref_type=heads&amp;plain=1">release notes</a>. As always, GHC’s release status, including planned future
+releases, can be found on the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
+<p>The changes from the first release candidate are:</p>
+<ul>
+<li>Bumping the text submodule to 2.1.3</li>
+<li>Reverting a bug fix (<a href="https://gitlab.haskell.org/ghc/ghc/merge_requests/14291">!14291</a>) that restricted previously allowed namespace specifiers (<a href="https://gitlab.haskell.org/ghc/ghc/issues/26250">#26250</a>)</li>
+<li>Reverting the bump of the deepseq submodule to 1.5.2.0 (<a href="https://gitlab.haskell.org/ghc/ghc/issues/26251">#26251</a>)</li>
+</ul>
+<p>This release candidate will have a two-week testing period. If all goes well
+the final release will be available the week of 19 August 2025.</p>
+<p>We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic, Channable,
+Serokell, SimSpace, the Haskell Foundation, and other anonymous contributors
+whose on-going financial and in-kind support has facilitated GHC maintenance
+and release management over the years. Finally, this release would not have
+been possible without the hundreds of open-source contributors whose work
+comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+ 
+
+<br> 
+
+<http://haskell.org/ghc/blog/20250806-ghc-9.10.3-rc2-released.html>
+
+---
+
+## Available today: gpt-oss-20B Model on Windows with GPU Acceleration – further pushing the boundaries on the edge
+
+date: 2025-08-05, from: Windows Developer Blog
+
+<p>With OpenAI’s release of gpt-oss models today, we are thrilled to bring GPU optimized gpt-oss-20B model variants to Windows devices.</p>
+<p>This milestone brings powerful, open-source reasoning models to Windows developers, with support for local inferen</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/08/05/available-today-gpt-oss-20b-model-on-windows-with-gpu-acceleration-further-pushing-the-boundaries-on-the-edge/">Available today: gpt-oss-20B Model on Windows with GPU Acceleration – further pushing the boundaries on the edge</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/08/05/available-today-gpt-oss-20b-model-on-windows-with-gpu-acceleration-further-pushing-the-boundaries-on-the-edge/>
 
 ---
 
@@ -16,7 +150,7 @@ date: 2025-08-05, updated: 2025-08-05, from: Simon Willison’s Weblog
 <p>The long promised <a href="https://openai.com/index/introducing-gpt-oss/">OpenAI open weight models are here</a>, and they are <em>very</em> impressive. They're available under proper open source licenses - Apache 2.0 - and come in two sizes, 120B and 20B.</p>
 <p>OpenAI's own benchmarks are eyebrow-raising - emphasis mine:</p>
 <blockquote>
-<p>The <strong>gpt-oss-120b</strong> model achieves <strong>near-parity with OpenAI o4-mini</strong> on core reasoning benchmarks, while running efficiently on a single 80 GB GPU. The <strong>gpt-oss-20b</strong>; model delivers <strong>similar results to OpenAI o3‑mini</strong> on common benchmarks and can run on edge devices with just 16 GB of memory, making it ideal for on-device use cases, local inference, or rapid iteration without costly infrastructure.</p>
+<p>The <strong>gpt-oss-120b</strong> model achieves <strong>near-parity with OpenAI o4-mini</strong> on core reasoning benchmarks, while running efficiently on a single 80 GB GPU. The <strong>gpt-oss-20b</strong> model delivers <strong>similar results to OpenAI o3‑mini</strong> on common benchmarks and can run on edge devices with just 16 GB of memory, making it ideal for on-device use cases, local inference, or rapid iteration without costly infrastructure.</p>
 </blockquote>
 <p>o4-mini and o3-mini are <em>really good</em> proprietary models - I was not expecting the open weights releases to be anywhere near that class, especially given their small sizes. That gpt-oss-20b model should run quite comfortably on a Mac laptop with 32GB of RAM.</p>
 <p>Both models are mixture-of-experts:</p>
@@ -97,7 +231,7 @@ date: 2025-08-05, updated: 2025-08-05, from: Simon Willison’s Weblog
 <p>It's not the best I've seen - I was more impressed <a href="https://simonwillison.net/2025/Jul/29/space-invaders/">by GLM 4.5 Air</a> - but it's very competent for a model that only uses 12GB of my RAM (GLM 4.5 Air used 47GB).</p>
 <h4 id="trying-gpt-oss-120b-via-api-providers">Trying gpt-oss-120b via API providers</h4>
 <p>I don't quite have the resources on my laptop to run the larger model. Thankfully it's already being hosted by a number of different API providers.</p>
-<p>OpenRouter already <a href="https://openrouter.ai/openai/gpt-oss-120b/providers">lists three</a> - Fireworks, Groq and Cerebras.</p>
+<p>OpenRouter already <a href="https://openrouter.ai/openai/gpt-oss-120b/providers">lists three</a> - Fireworks, Groq and Cerebras. (Update: now also Parasail and Baseten.)</p>
 <p>Cerebras is <em>fast</em>, so I decided to try them first.</p>
 <p>I installed the <a href="https://github.com/irthomasthomas/llm-cerebras">llm-cerebras</a> plugin and ran the <code>refresh</code> command to ensure it had their latest models:</p>
 <div class="highlight highlight-source-shell"><pre>llm install -U llm-cerebras jsonschema
@@ -138,11 +272,16 @@ llm -m openrouter/openai/gpt-oss-120b <span class="pl-s"><span class="pl-pds">"<
 <div class="highlight highlight-source-shell"><pre>llm install llm-ollama
 llm -m gpt-oss:20b <span class="pl-s"><span class="pl-pds">'</span>Hi<span class="pl-pds">'</span></span></pre></div>
 <p>This also appears to use around 13.26GB of system memory while running a prompt.</p>
+<p>Ollama also launched <a href="https://ollama.com/turbo">Ollama Turbo</a> today, offering the two OpenAI models as a paid hosted service:</p>
+<blockquote><p>Turbo is a new way to run open models using datacenter-grade hardware. Many new models are too large to fit on widely available GPUs, or run very slowly. Ollama Turbo provides a way to run these models fast while using Ollama's App, CLI, and API. </p></blockquote>
 <h4 id="the-model-card">Training details from the model card</h4>
 <p>Here are some interesting notes about how the models were trained from <a href="https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf">the model card</a> (PDF):</p>
 <blockquote>
 <p><strong>Data</strong>: We train the models on a text-only dataset with trillions of tokens, with a focus on STEM, coding, and general knowledge. To improve the safety of the model, we filtered the data for harmful content in pre-training, especially around hazardous biosecurity knowledge, by reusing the CBRN pre-training filters from GPT-4o. Our model has a knowledge cutoff of June 2024.</p>
 <p><strong>Training</strong>: The gpt-oss models trained on NVIDIA H100 GPUs using the PyTorch framework with expert-optimized Triton kernels. The training run for gpt-oss-120b required 2.1 million H100-hours to complete, with gpt-oss-20b needing almost 10x fewer. [...]</p>
+</blockquote>
+<p>Thunder Compute's article <a href="https://www.thundercompute.com/blog/nvidia-h100-pricing">NVIDIA H100 Pricing (August 2025): Cheapest On-Demand Cloud GPU Rates</a> lists prices from around $2/hour to $11/hour, which would indicate a training cost of the 120b model between $4.2m and $23.1m and the 20b between $420,000 and $2.3m.</p>
+<blockquote>
 <p>After pre-training, we post-train the models using similar CoT RL techniques as OpenAI o3. This procedure teaches the models how to reason and solve problems using CoT and teaches the model how to use tools. Because of the similar RL techniques, these models have a personality similar to models served in our first-party products like ChatGPT. Our training dataset consists of a wide range of problems from coding, math, science, and more.</p>
 </blockquote>
 <p>The models have additional special training to help them use web browser and Python (Jupyter notebook) tools more effectively:</p>
@@ -264,7 +403,7 @@ format.</li>
 </blockquote>
 <p>With the release of the gpt-oss models that statement no longer holds true. I'm waiting for the dust to settle and the independent benchmarks (that are more credible than my ridiculous pelicans) to roll out, but I think it's likely that OpenAI now offer the best available open weights models.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/cerebras">cerebras</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/cerebras">cerebras</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a>, <a href="https://simonwillison.net/tags/space-invaders">space-invaders</a>, <a href="https://simonwillison.net/tags/gpt-oss">gpt-oss</a></p> 
 
 <br> 
 
