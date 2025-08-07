@@ -1,11 +1,79 @@
 ---
 title: food
-updated: 2025-08-06 14:10:58
+updated: 2025-08-07 06:08:30
 ---
 
 # food
 
-(date: 2025-08-06 14:10:58)
+(date: 2025-08-07 06:08:30)
+
+---
+
+## Drinking Coffee At Night Could Make You More Impulsive
+
+date: 2025-08-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Coffee at night could lead to wild times. 
+
+<br> 
+
+<https://sprudge.com/drinking-coffee-at-night-could-make-you-more-impulsive-389323.html>
+
+---
+
+## Hot Honey Buffalo Chicken Salad
+
+date: 2025-08-07, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/07/Hot-Honey-Buffalo-Chicken-Salad-1200-5137.jpg"/></div>
+<p>A buffalo chicken salad with hot honey! Hot honey buffalo chicken (link) is great all by itself and it&#8217;s also amazing in a salad! This salad is themed off of a buffalo chicken salad with lettuce, tomato, celery, carrots, blue cheese and ranch dressing (link) in addition to hot honey buffalo chicken (link). Hot Honey...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/hot-honey-buffalo-chicken-salad/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/hot-honey-buffalo-chicken-salad/">Hot Honey Buffalo Chicken Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/hot-honey-buffalo-chicken-salad/>
+
+---
+
+## Creole Shrimp and Sausage
+
+date: 2025-08-07, from: Taste of Home
+
+This Creole shrimp and sausage recipe is hearty, flavorful and on the table in 30 minutes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creole-shrimp-sausage/>
+
+---
+
+## McDonald’s Is Dropping a New Shake Flavor That’s a Mystery to Us All
+
+date: 2025-08-07, from: Taste of Home
+
+<p>The popular fast-food chain is about to drop its first new shake flavor since the Grimace Shake.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonaldland-shake/">McDonald&#8217;s Is Dropping a New Shake Flavor That&#8217;s a Mystery to Us All</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonaldland-shake/>
+
+---
+
+## Dairy Queen Just Dropped 2 Brand New Treats for Fall—Here’s When You Can Get Them
+
+date: 2025-08-07, from: Taste of Home
+
+<p>Luckily, you don't have to wait until fall.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dairy-queen-fall-menu-2025/">Dairy Queen Just Dropped 2 Brand New Treats for Fall—Here&#8217;s When You Can Get Them</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dairy-queen-fall-menu-2025/>
 
 ---
 
@@ -13,7 +81,7 @@ updated: 2025-08-06 14:10:58
 
 date: 2025-08-06, from: Bon Appetet
 
-The wedding industrial complex didn't interest me, but I jumped at the chance to say “I do” for my own mayo-themed wedding. 
+The wedding industrial complex didn’t interest me, but I jumped at the chance to say “I do” for my own mayo-themed wedding. 
 
 <br> 
 
@@ -144,6 +212,18 @@ date: 2025-08-06, from: Chili Pepper Madness
 <br> 
 
 <https://www.chilipeppermadness.com/recipes/kofta-kebabs/>
+
+---
+
+## Tomato Martini
+
+date: 2025-08-06, from: Taste of Home
+
+This tomato water martini gives the signature summer produce the spotlight it deserves at happy hour. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tomato-martini/>
 
 ---
 

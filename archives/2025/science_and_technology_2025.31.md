@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-08-06 14:10:51
+updated: 2025-08-07 06:08:24
 ---
 
 # science and technology
 
-(date: 2025-08-06 14:10:51)
+(date: 2025-08-07 06:08:24)
+
+---
+
+## Meta training AI on social media posts? Only 7% in Europe think it's OK
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Privacy campaigner Max Schrem&#39;s NOYB is back on Zuck&#39;s back</h4> <p>Meta&#39;s enthusiasm for training its AI on user data is not shared by the users themselves – at least for some Europeans – according a study commissioned by Facebook legal nemesis Max Schrems and his privacy advocacy group Noyb.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/meta_training_ai_on_social/>
+
+---
+
+## LG ordered to pay £150k after phone defect caused Scotland house fire
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Forensics experts say the state of the K8’s battery suggests it led to the living room blaze</h4> <p>A Scottish woman who suffered a house fire in 2018 has won her case against LG after a judge ruled that her work-issued phone caused the blaze.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/lg_ordered_to_pay_150k/>
+
+---
+
+## Wade Sisler: Aficionado of Wonder Serving the Cosmos
+
+date: 2025-08-07, from: NASA breaking news
+
+Across 42 years at NASA, Wade Sisler — executive producer at NASA’s Goddard Space Flight Center in Greenbelt, Maryland—watched the edge of human knowledge progress. During that time, the tools for visualizing and communicating those discoveries evolved just as rapidly. “I’ve spent my career surrounded by people with amazing curiosity and intellect, pursuing questions that [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/wade-sisler-a-wonder-aficionado-in-service-of-the-cosmos/>
+
+---
+
+## OpenSUSE Leap 16.0 reaches RC status
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Bold, clean, much less legacy tech – and a bit less like old SUSE</h4> <p>A release candidate of openSUSE Leap 16.0 is here. It boldly strips out more established legacy tech than almost any other Linux we&#39;ve seen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/opensuse_leap_16_reaches_rc/>
+
+---
+
+## The plan to make all networks optical is about to take two big steps forward
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>&#39;IOWN&#39; backers think it can replace the PCI bus, reinvent servers, and rewire motherboards</h4> <p>In December 2024, Japanese tech giant NTT revealed two impressive feats of high-speed networking.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/iown/>
+
+---
+
+## Microsoft eventually realized the world isn't just the Northern Hemisphere
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Veteran engineer explains the fall of &#39;Fall&#39; in Windows release</h4> <p>Veteran Microsoft engineer Raymond Chen has explained why the megacorp ditched its increasingly twee naming conventions for Windows 10 releases in favor of the blander H1 and H2.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/windows_naming_conventions/>
+
+---
+
+## GitHub CEO: Future devs will not code, they will manage AI
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, users complain the code shack is getting slower thanks to React</h4> <p>GitHub CEO Thomas Dohmke has stated in a <a target="_blank" rel="nofollow" href="https://ashtom.github.io/developers-reinvented">personal blog</a> that the most advanced developers have &#34;moved from writing code to architecting and verifying the implementation work that is carried out by AI agents.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/github_ceo_ai_coding/>
+
+---
+
+## Amnesty slams Elon Musk's X for 'central role' in fueling 2024 UK riots
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Human rights org calls for greater accountability and stronger enforcement of Online Safety Act</h4> <p>Amnesty International claims Elon Musk&#39;s X platform &#34;played a central role&#34; in pushing the misinformation that stoked racially charged violence following last year&#39;s Southport murders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/amnesty_x_uk_riots/>
+
+---
+
+## Real estate agents use the power of AI to command plumbing, layout to disappear
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Lightsockets lovingly hooked up to power supply by passionate, vivacious owners. Would suit professional who wants to read after dark</h4> <p><strong>Feature</strong>  &#34;Deceptively spacious.&#34; &#34;Prime location.&#34; &#34;Up-and-coming area.&#34; &#34;Some original features,&#34; which occasionally turn out to be asbestos. Estate agents are known for sometimes stretching the truth in pursuit of a sale, but the generative AI boom appears to have thrown things into overdrive – providing an easy way to present images of properties which simply don&#39;t reflect reality.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/real_estate/>
+
+---
+
+## Faced with £40B budget hole, UK public sector commits £9B to Microsoft
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Government plans £1.9B annual spending during five-year MoU</h4> <p>The UK public sector expects to spend around £9 billion on Microsoft products and services over five years under its current contract.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/uk_microsoft_spending/>
+
+---
+
+## How to run OpenAI's new gpt-oss-20b LLM on your computer
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>All you need is 24GB of RAM, and unless you have a GPU with its own VRAM quite a lot of patience</h4> <p><strong>Hands On</strong>  Earlier this week, OpenAI released two popular open-weight models, both named gpt-oss. Because you can download them, you can run them locally.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/run_openai_gpt_oss_locally/>
+
+---
+
+## Trump teases ‘approximately’ 100 percent tariff for imported semiconductors
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Exemptions available for chipmakers who promise to build American fabs</h4> <p><strong>World War Fee</strong>  US president Donald Trump appears to have settled his semiconductor tariff strategy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/us_semiconductor_tariffs_100_percent/>
+
+---
+
+## I see you’re riding an Uber to work. Would you like a cheap coffee on the way?
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Rideshare giant wants to use AI for delivery of hyper-personalized offers</h4> <p>Uber has revealed its ambition to offer hyper-personalized offers to its customers, but to do so it needs more of them to use more of its apps.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/uber_q2_205/>
+
+---
+
+## Curiosity Blog, Sols 4622-4623: Kicking Off (Earth) Year 14 With an Investigation of Veins
+
+date: 2025-08-07, from: NASA breaking news
+
+Written by Abigail Fraeman, Deputy Project Scientist at NASA’s Jet Propulsion Laboratory Earth planning date: Wednesday, Aug. 6, 2025. Today was a very special day for Curiosity as the rover celebrated the start of a 14th year on Mars. Curiosity is currently exploring the mysterious boxwork formations. On Monday, the rover positioned itself at the […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4622-4623-kicking-off-earth-year-14-with-an-investigation-of-veins/>
+
+---
+
+## Robots can program each other's brains with AI, scientist shows
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>It&#39;s a step toward The Terminator, built 20 times faster than people can program</h4> <p>Computer scientist Peter Burke has demonstrated that a robot can program its own brain using generative AI models and host hardware, if properly prompted by handlers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/generative_ai_codes_drone_control/>
+
+---
+
+## Apple piles another $100B on top of previous US manufacturing pledge
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Quick - someone ask Siri if there are still tariffs on India</h4> <p>US President Donald Trump and Apple CEO Tim Cook made a joint announcement from the White House on Wednesday of another Apple pledge to move manufacturing back to the United States, with an additional $100 billion in funding for domestic projects. The move could keep Apple one step ahead of Trump&#39;s unpredictable tariff policy, which threatens to increase costs on iPhones manufactured overseas. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/apple_pledges_another_100b_us_manufacturing/>
+
+---
+
+## That time Microsoft forgot the southern hemisphere’s seasons are opposite to the northern hemisphere’s
+
+date: 2025-08-06, from: OS News
+
+Whether you like Microsoft and its products or not, the one thing we can all agree on is that the company is absolutely terrible at naming things. Sometimes I feel like managers at Microsoft get their bonuses based on how many times they can rename products, because I find it hard to accept that they&#8217;re really that inept at product naming in Redmond. I mean, just look at my recent article about the most Microsoft support document of all time. Bonkers. While the list of examples of confusing, weird, unclear, and strange Microsoft product names is long, let&#8217;s go back to that weird moment in time where Windows updates were suddenly given names like the &#8220;Fall Creators Update&#8221;. As with every naming scheme Microsoft introduces, this one was short-lived, but for once, we have an explanation. Raymond Chen explains: It was during an all-hands meeting that a senior executive asked if the organization had any unconscious biases. One of my colleagues raised his hand. He grew up in the Southern Hemisphere, where the seasons are opposite from those in the Northern Hemisphere. He pointed out that naming the updates Spring and Fall shows a Northern Hemisphere bias and is not inclusive of our customers in the Southern Hemisphere. The names of the semiannual releases were changed the next day to be hemisphere-neutral. ↫ Raymond Chen If you live in the northern hemisphere &#8211; and you can&#8217;t live much more north than I do &#8211; you don&#8217;t often have to think about how the seasons in the southern hemisphere are reversed. We all know it &#8211; I assume, at least &#8211; but it&#8217;s not something that we&#8217;re confronted with very often, as our media, movies, books, and so on, all tend to be made in and for consumers in the northern hemisphere. I&#8217;m assuming that people in the southern hemisphere are much more acutely aware of this issue, because their media is probably dominated by stories set in the northern hemisphere, too. It&#8217;s wild that Microsoft ever went with a seasonal naming scheme to begin with, and that it somehow slipped through the cracks for a while before anyone spoke up. 
+
+<br> 
+
+<https://www.osnews.com/story/142992/that-time-microsoft-forgot-the-southern-hemispheres-seasons-are-opposite-to-the-northern-hemispheres/>
+
+---
+
+## NASA to Provide Live Coverage of Crew-10 Return, Splashdown
+
+date: 2025-08-06, from: NASA breaking news
+
+Editor’s Note: This advisory was updated Aug. 7, 2025, to reflect changes in the targeted undocking and splashdown dates. NASA and SpaceX are targeting no earlier than 6:05 p.m. EDT, Friday, Aug. 8, for the undocking of the agency’s SpaceX Crew-10 mission from the International Space Station. Pending weather conditions, splashdown is targeted at 11:33 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-10-return-splashdown/>
+
+---
+
+## Female Gorillas Form Ties That Bind, Helping Them Join New Social Groups
+
+date: 2025-08-06, from: Smithsonian Magazine
+
+A new study finds that when female mountain gorillas move to a new crowd, they look for females they’ve already met 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/female-gorillas-form-ties-that-bind-helping-them-join-new-social-groups-180987115/>
+
+---
+
+## Microsoft researchers bullish on AI security agent even though it let 74% of malware slip through
+
+date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+
+<h4>Project Ire promises to use LLMs to detect whether code is malicious or benign</h4> <p>Microsoft has rolled out an autonomous AI agent that it claims can detect malware without human assistance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/06/microsofts_ai_agent_malware_detecting/>
+
+---
+
+## Snapshot Wisconsin Celebrates 10 Years and 100 Million Photos Collected!
+
+date: 2025-08-06, from: NASA breaking news
+
+The Snapshot Wisconsin project recently collected their 100 millionth trail camera photo! What’s more, this milestone coincides with the project’s 10-year anniversary. Congratulations to the team and everyone who’s participated! 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/earth-science-division/snapshot-wisconsin-celebrates-10-years-and-100-million-photos-collected/>
 
 ---
 
@@ -297,11 +549,11 @@ Scientists identified the elusive new species from a female found in a high-alti
 
 ---
 
-## US charges 2 Chinese nationals with illegally shipping Nvidia AI chips to China
+## Nvidia security boss pledges 'no backdoors'
 
 date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
 
-<h4>Feds claim suspects rerouted kit through Malaysia</h4> <p>Federal authorities in the US have charged two Chinese nationals with secretly exporting advanced AI chips to China.…</p> 
+<h4>As US charges 2 Chinese nationals with illegally shipping chips to China</h4> <p>Federal authorities in the US have charged two Chinese nationals with secretly exporting advanced AI chips to China.…</p> 
 
 <br> 
 

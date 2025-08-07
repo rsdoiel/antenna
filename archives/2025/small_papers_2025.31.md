@@ -1,11 +1,159 @@
 ---
 title: small papers
-updated: 2025-08-06 14:10:58
+updated: 2025-08-07 06:08:30
 ---
 
 # small papers
 
-(date: 2025-08-06 14:10:58)
+(date: 2025-08-07 06:08:30)
+
+---
+
+## La Novata en el Capitolio, la Representante Luz Rivas, Lucha contra las Políticas de Inmigración de Trump
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando la representante Luz Rivas prestó juramento en enero, no anticipó que los incendios más devastadores en la historia de Los Ángeles se desatarían esa misma semana. Sin embargo, sabía [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/la-novata-en-el-capitolio-la-representante-luz-rivas-lucha-contra-las-politicas-de-inmigracion-de-trump/">La Novata en el Capitolio, la Representante Luz Rivas, Lucha contra las Políticas de Inmigración de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/la-novata-en-el-capitolio-la-representante-luz-rivas-lucha-contra-las-politicas-de-inmigracion-de-trump/>
+
+---
+
+## Padilla Condena las Amenazas de la Administración Trump de Deportar a Beneficiarios de DACA
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Senate-Floor-24x7-4_00-PM-12_00-AM-7_57_02-pm-2025-07-30-1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>WASHINGTON, D.C. – La semana pasada, el senador de los Estados Unidos Alex Padilla, miembro de alto rango del Subcomité de Inmigración del Comité Judicial del Senado, subió al estrado [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/padilla-condena-las-amenazas-de-la-administracion-trump-de-deportar-a-beneficiarios-de-daca/">Padilla Condena las Amenazas de la Administración Trump de Deportar a Beneficiarios de DACA</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/padilla-condena-las-amenazas-de-la-administracion-trump-de-deportar-a-beneficiarios-de-daca/>
+
+---
+
+## Horóscopo
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Tus fortalezas esta semana son el pensamiento estratégico y la resolución creativa de problemas. No te conformas con [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/horoscopo-226/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/horoscopo-226/>
+
+---
+
+## EVENTOS Locales – Semana de 7 de agosto, 2025
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Agosto 8 Noche de Bricolaje &#124; Talleres Prácticos y Mercado de Fabricantes, ¡Seamos Astutos! Lawless Brewing Co. 5275 Craner Ave. North Hollywood 5 p.m. – 10 p.m. ¡Trae a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/eventos-locales-semana-de-7-de-agosto-2025/">EVENTOS Locales &#8211; Semana de 7 de agosto, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/eventos-locales-semana-de-7-de-agosto-2025/>
+
+---
+
+## Critican a Padilla por Seguir Apoyando la Ayuda Militar a Israel Mientras Gaza Padece Hambre
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="609" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/SR_24.04.02_young-americans-war_6-e1754534191523.png?fit=609%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/SR_24.04.02_young-americans-war_6-e1754534191523.png?fit=609%2C1024&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/SR_24.04.02_young-americans-war_6-e1754534191523.png?fit=609%2C1024&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mientras el senador Alex Padilla ha sido elogiado por su firme oposición a la política migratoria de la administración Trump, muchos critican su apoyo inquebrantable a Israel, mientras la hambruna [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/critican-a-padilla-por-seguir-apoyando-la-ayuda-militar-a-israel-mientras-gaza-padece-hambre/">Critican a Padilla por Seguir Apoyando la Ayuda Militar a Israel Mientras Gaza Padece Hambre</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/critican-a-padilla-por-seguir-apoyando-la-ayuda-militar-a-israel-mientras-gaza-padece-hambre/>
+
+---
+
+## Mónica Rodríguez Anuncia Nuevo Centro de Educación Financiera para Jóvenes
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="596" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/A7370-179-scaled-e1754537506574.jpg?fit=1024%2C596&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/A7370-179-scaled-e1754537506574.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/A7370-179-scaled-e1754537506574.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/A7370-179-scaled-e1754537506574.jpg?fit=1024%2C596&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/A7370-179-scaled-e1754537506574.jpg?fit=1024%2C596&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; Una nueva plataforma de educación financiera está ahora disponible para ayudar a los jóvenes de Los Ángeles a aprender cómo presupuestar, ahorrar dinero y tomar decisiones [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/monica-rodriguez-anuncia-nuevo-centro-de-educacion-financiera-para-jovenes/">Mónica Rodríguez Anuncia Nuevo Centro de Educación Financiera para Jóvenes</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/monica-rodriguez-anuncia-nuevo-centro-de-educacion-financiera-para-jovenes/>
+
+---
+
+## Agentes Salen de un Camión de Mudanzas Penske y Redada de Inmigración Conduce a 16 Arrestos en el Área de MacArthur Park
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="759" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?fit=1024%2C759&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?resize=300%2C222&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?resize=1024%2C759&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?resize=768%2C569&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?resize=780%2C578&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?resize=400%2C296&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?resize=706%2C523&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/528464469_17977539458906195_7482667727779004243_n-1-e1754537348826.jpg?fit=1024%2C759&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; A pesar de una orden judicial federal que limita el alcance de las operaciones de aplicación de la ley de inmigración en el área, agentes federales [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/agentes-salen-de-un-camion-de-mudanzas-penske-y-redada-de-inmigracion-conduce-a-16-arrestos-en-el-area-de-macarthur-park/">Agentes Salen de un Camión de Mudanzas Penske y Redada de Inmigración Conduce a 16 Arrestos en el Área de MacArthur Park</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/agentes-salen-de-un-camion-de-mudanzas-penske-y-redada-de-inmigracion-conduce-a-16-arrestos-en-el-area-de-macarthur-park/>
+
+---
+
+## Demandantes Celebran Decisión de Corte de Apelaciones en Caso de Redadas de Inmigración Ilegal en Los Angeles
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="795" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?fit=1024%2C795&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=300%2C233&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=1024%2C795&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=768%2C596&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=1536%2C1192&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=1200%2C931&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=780%2C605&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=400%2C310&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?resize=706%2C548&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_8908-scaled-e1754537253548.jpeg?fit=1024%2C795&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; Los demandantes en una demanda que desafía la represión de la administración Trump sobre la inmigración ilegal en Los Ángeles celebraron hoy un fallo de la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/demandantes-celebran-decision-de-corte-de-apelaciones-en-caso-de-redadas-de-inmigracion-ilegal-en-los-angeles/">Demandantes Celebran Decisión de Corte de Apelaciones en Caso de Redadas de Inmigración Ilegal en Los Angeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/demandantes-celebran-decision-de-corte-de-apelaciones-en-caso-de-redadas-de-inmigracion-ilegal-en-los-angeles/>
+
+---
+
+## El Sentido de Comunidad en el Campamento de Personas sin Hogar en Van Nuys Ahora Fracturado Tras Desalojo
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="684" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?fit=1024%2C684&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=1024%2C684&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=1536%2C1026&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=1200%2C802&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=780%2C521&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?resize=706%2C472&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Untitled-1.jpg?fit=1024%2C684&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los simpatizantes de “The Compound”, un campamento en Van Nuys, todavía están conmocionados tras un desalojo la semana pasada por parte de funcionarios de Los Ángeles, el Departamento de Saneamiento [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/el-sentido-de-comunidad-en-el-campamento-de-personas-sin-hogar-en-van-nuys-ahora-fracturado-tras-desalojo/">El Sentido de Comunidad en el Campamento de Personas sin Hogar en Van Nuys Ahora Fracturado Tras Desalojo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/el-sentido-de-comunidad-en-el-campamento-de-personas-sin-hogar-en-van-nuys-ahora-fracturado-tras-desalojo/>
+
+---
+
+## Tres Hospitales de Providence en el Valle de San Fernando Clasificados entre los Mejores de la Región
+
+date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="652" height="509" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Screenshot-2025-08-06-at-3.44.04-PM.png?fit=652%2C509&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Screenshot-2025-08-06-at-3.44.04-PM.png?w=652&amp;ssl=1 652w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Screenshot-2025-08-06-at-3.44.04-PM.png?resize=300%2C234&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Screenshot-2025-08-06-at-3.44.04-PM.png?resize=400%2C312&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Screenshot-2025-08-06-at-3.44.04-PM.png?fit=652%2C509&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>U.S. News &#38; World Report anunció la semana pasada sus clasificaciones de Mejores Hospitales, otorgando un total de 36 distinciones al Providence Holy Cross Medical Center en Mission Hills, Providence [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/06/tres-hospitales-de-providence-en-el-valle-de-san-fernando-clasificados-entre-los-mejores-de-la-region/">Tres Hospitales de Providence en el Valle de San Fernando Clasificados entre los Mejores de la Región</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/06/tres-hospitales-de-providence-en-el-valle-de-san-fernando-clasificados-entre-los-mejores-de-la-region/>
 
 ---
 
@@ -187,6 +335,21 @@ date: 2025-08-05, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/apartment-fire-pets-killed-17th-junipero-zaferia>
+
+---
+
+## Trump establishes LA Olympics security task force and threatens to redeploy National Guard
+
+date: 2025-08-05, from: Long Beach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The executive order mobilizes agencies across the federal government to prepare for the mega-event, and names Trump as chair of the task force.</p>
+<p>The post <a href="https://lbpost.com/news/trump-establishes-la-olympics-security-task-force-and-threatens-to-redeploy-national-guard">Trump establishes LA Olympics security task force and threatens to redeploy National Guard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/trump-establishes-la-olympics-security-task-force-and-threatens-to-redeploy-national-guard>
 
 ---
 

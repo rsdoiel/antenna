@@ -1,11 +1,108 @@
 ---
 title: motorcycles
-updated: 2025-08-06 14:10:56
+updated: 2025-08-07 06:08:28
 ---
 
 # motorcycles
 
-(date: 2025-08-06 14:10:56)
+(date: 2025-08-07 06:08:28)
+
+---
+
+## More Public Lands Could Be Sold, onX and TRCP Built a Map Showing What's At Stake
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+onX teamed up with the Theodore Roosevelt Conservation Partnership to build a map showcasing the public lands that the Bureau of Land Management has marked to potentially sell off through normal means.  
+
+<br> 
+
+<https://www.rideapart.com/news/768212/public-land-sales-blm-disposal-onx-maps-trcp/>
+
+---
+
+## Listen to Honda's Electric Supercharged V3 Motorcycle Engine For the First Time
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+Honda's been building anticipation for its electrically supercharged V3 engine concept since EICMA 2024, and is that a sweet intake whine you hear at the end of this video? 
+
+<br> 
+
+<https://www.rideapart.com/news/768214/honda-v3-compressor-whine-teaser/>
+
+---
+
+## "Golf Force One" is an Armored UTV Designed to Protect the President While Putting
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+Polaris has a long history of supplying the US government with UTVs, but this armored Ranger designed to protect President Trump on the course is definitely one of a kind.  
+
+<br> 
+
+<https://www.rideapart.com/news/768198/golf-force-one-armored-polaris-ranger-utv-president-trump/>
+
+---
+
+## 3-Time Motorcycle Champ Troy Bayliss Injured In Practice Crash, Still Making Jokes
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+The Aussie racing legend had only been back on a bike for a couple weeks after an ankle break earlier in the year. 
+
+<br> 
+
+<https://www.rideapart.com/news/768114/troy-bayliss-bad-crash-hospital/>
+
+---
+
+## Watch Harley-Davidson Demolish a World-Record Jump at Sturgis Rally
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+Colby Raha set out to break the world record for the longest distance jumped on a Harley-Davidson at the Sturgis Motorcycle Rally.  
+
+<br> 
+
+<https://www.rideapart.com/news/768121/harley-davidson-world-record-jump/>
+
+---
+
+## Here's the New BMW F450 GS Way Before You're Supposed to See It, Don't Tell Them
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+Design filings from BMW show us just how the upcoming F 450 GS will look like. For the most part, the production bike looks very much like the concept model at EICMA last year. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768125/2026-bmw-f450gs-design-filing-leak-preview/>
+
+---
+
+## Jasmine Salinas to Return to Top Fuel Competition at The Big Go
+
+date: 2025-08-07, from: Kickin the Tires blog
+
+BROWNSBURG, Ind. (August 5, 2025) &#8211; Fan favorite Top Fuel driver Jasmine Salinas will make her highly anticipated return to NHRA Mission Foods Drag Racing Series competition this Labor Day&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/jasmine-salinas-to-return-to-top-fuel-competition-at-the-big-go/>
+
+---
+
+## Shawn Reed Shares His Plan for Returning to NHRA Competition Following Seattle Crash
+
+date: 2025-08-07, from: Kickin the Tires blog
+
+BROWNSBURG, Ind. (August 6, 2025) – Top Fuel racer Shawn Reed had high hopes heading into last month’s NHRA Northwest Nationals at Pacific Raceways, the Seattle-area facility which hosted stop&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/shawn-reed-shares-his-plan-for-returning-to-nhra-competition-following-seattle-crash/>
 
 ---
 

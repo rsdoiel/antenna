@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-08-06 14:10:53
+updated: 2025-08-07 06:08:26
 ---
 
 # writing
 
-(date: 2025-08-06 14:10:53)
+(date: 2025-08-07 06:08:26)
+
+---
+
+## Scriptnotes, Episode 697: We Wrote a Book!, Transcript
+
+date: 2025-08-06, from: John August blog
+
+<p>The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to episode 697 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, it’s a new round [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-697-we-wrote-a-book-transcript">Scriptnotes, Episode 697: We Wrote a Book!, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-697-we-wrote-a-book-transcript>
 
 ---
 

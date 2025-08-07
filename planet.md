@@ -1,11 +1,303 @@
 ---
 title: planet
-updated: 2025-08-06 14:10:47
+updated: 2025-08-07 06:08:20
 ---
 
 # planet
 
-(date: 2025-08-06 14:10:47)
+(date: 2025-08-07 06:08:20)
+
+---
+
+## Irish aid trucks for Gaza sitting in warehouse for months
+
+date: 2025-08-07, from: RTÉ News
+
+Two consignments of humanitarian aid for Gaza funded by Ireland have been sitting in a warehouse in Jordan for over five months. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0807/1527367-irish-aid-trucks/>
+
+---
+
+## Early gains for Trump in trade war but challenges remain
+
+date: 2025-08-07, from: RTÉ News
+
+US President Donald Trump appears to be winning the trade war he unleashed after returning to the White House in January, bending major trading partners to his will, but significant hurdles remain to his agenda 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0807/1527362-trump-tariffs/>
+
+---
+
+## Police dismantle gang smuggling marijuana to Ireland
+
+date: 2025-08-07, from: RTÉ News
+
+Spanish police, in collaboration with An Garda Síochána and police in the UK, have dismantled a criminal gang suspected of smuggling marijuana hidden inside sacks of animal feed sent to Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0807/1527352-marijuana-gang/>
+
+---
+
+## No competition issues among food retailers, CCPC finds
+
+date: 2025-08-07, from: RTÉ News
+
+An investigation by the Competition and Consumer Protection Commission (CCPC) into the grocery retailer sector has found there is no evidence indicating any issues regarding competition among retailers in terms of food prices. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0807/1527346-no-competition-issues-among-food-retailers-ccpc-finds/>
+
+---
+
+## Man, 60s, dies following quad bike accident in Mayo
+
+date: 2025-08-07, from: RTÉ News
+
+A man in his 60s has died following a quad bike accident in Co Mayo. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0807/1527332-quad-bike-death/>
+
+---
+
+## Venue for Trump-Putin meeting in coming days 'agreed'
+
+date: 2025-08-07, from: RTÉ News
+
+US President Donald Trump and Russian counterpart Vladimir Putin will meet in the "coming days" with an undisclosed venue agreed by both sides "in principle". 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0807/1527316-ukraine-russia/>
+
+---
+
+## Cardinal Cupich on Nagasaki anniversary: Peace demands more than a fearful truce
+
+date: 2025-08-07, from: Vatican News
+
+
+                    <p>Marking the 80th anniversary of the atomic bombings of Hiroshima and Nagasaki, Cardinal Cupich who is on a Pilgrimage of Peace with other US Church leaders, celebrates Mass in Nagasaki, offering a stark assessment of the U.S. decision to use atomic weapons in World War II.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/cardinal-cupich-homily-80-anniversary-nagasaki-atomic-bombing-us.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/cardinal-cupich-homily-80-anniversary-nagasaki-atomic-bombing-us.html>
+
+---
+
+## Thai prosecutors indict 23 over quake skyscraper collapse
+
+date: 2025-08-07, from: RTÉ News
+
+Thai prosecutors have indicted 23 people and firms in a case linked to the deadly collapse of a Bangkok high-rise in an earthquake. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0807/1527317-thailand-skyscraper/>
+
+---
+
+## Rare Hobbit first edition auctioned for almost €50k
+
+date: 2025-08-07, from: RTÉ News
+
+A rare first edition of JRR Tolkien's The Hobbit sold for £43,000 (€49,238) at auction on Wednesday, after it was found during a house clearance in southwest England. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0807/1527312-rare-hobbit-first-edition-auctioned-for-almost-50k/>
+
+---
+
+## Murder investigation after man's death in Tipperary
+
+date: 2025-08-07, from: RTÉ News
+
+A murder investigation has been launched after the death of a man in Carrick-on-Suir in Co Tipperary earlier this week. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0807/1527302-carrick-on-suir/>
+
+---
+
+## France battles huge wildfire for second day in a row
+
+date: 2025-08-07, from: RTÉ News
+
+French firefighters battled for a second day to contain its biggest wildfire in nearly eight decades, which has burnt over 16,000 hectares and killed one person. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0807/1527299-france-wildfires/>
+
+---
+
+## Thailand and Cambodia agree to extend ceasefire
+
+date: 2025-08-07, from: RTÉ News
+
+Thailand and Cambodia have agreed to extend a ceasefire deal that followed five days of deadly hostilities along their border last month. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0807/1527300-cambodia-thailand/>
+
+---
+
+## Romantic relationships with AI chatbots on the rise
+
+date: 2025-08-07, from: RTÉ News
+
+Almost 10% of adults in Ireland have had a romantic relationship with an AI chatbot within the last 12 months, new research shows. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0807/1527295-romantic-relationships-with-ai-chatbots-of-the-rise/>
+
+---
+
+## Can early morning natural light improve your sleep that night?
+
+date: 2025-08-07, from: RTÉ News
+
+Researchers have found that exposure to natural light up anytime up to noon has a positive effect on your sleep patterns 
+
+<br> 
+
+<https://www.rte.ie/brainstorm/2025/0807/1527188-morning-natural-light-sleep-connection-links-research/>
+
+---
+
+## Teen urges young people to seek help after father's violent death
+
+date: 2025-08-07, from: RTÉ News
+
+Teenager Ellie Ryan was just 15 when her father died in a domestic violence incident. The now 16-year-old is urging other young people living in abusive homes to seek help 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0807/1527227-teen-urges-young-people-to-seek-help-after-fathers-violent-death/>
+
+---
+
+## Former Superman star Dean Cain to join ICE 'ASAP'
+
+date: 2025-08-07, from: RTÉ News
+
+The American actor Dean Cain, best known for his starring role in the television series Lois & Clark: The New Adventures of Superman, has said he is joining United States Immigration and Customs Enforcement (ICE) as an agent "ASAP". 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0807/1527287-former-superman-star-dean-cain-to-join-ice-asap/>
+
+---
+
+## Netanyahu expected to convene security cabinet meeting
+
+date: 2025-08-07, from: RTÉ News
+
+Israel's Prime Minister Benjamin Netanyahu is expected to convene a meeting of his security cabinet later today, amid reports he is preparing to order a full military occupation of Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0807/1527285-midde-east-latest/>
+
+---
+
+## Third-hottest July on record wreaks climate havoc
+
+date: 2025-08-07, from: RTÉ News
+
+The third-hottest July worldwide ended a string of record-breaking temperatures last month, but many regions were still devastated by extreme weather amplified by global warming, the European climate monitoring service has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0807/1527286-hottest-july-record/>
+
+---
+
+## Call for 30km/h speed limit in urban areas
+
+date: 2025-08-07, from: RTÉ News
+
+ 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0807/1527262-30-campaign/>
+
+---
+
+## No evidence of violence in Irish woman's death on boat
+
+date: 2025-08-07, from: RTÉ News
+
+Police investigating the death of Carlow woman Martha Nolan-O'Slattera on board a boat in Long Island, New York, have said a post-mortem examination did not show evidence of violence. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0807/1527283-death-us-ireland/>
+
+---
+
+## Trump's higher tariffs hit major US trading partners
+
+date: 2025-08-07, from: RTÉ News
+
+US trade partners such as Switzerland, Brazil and India were still scrambling to get a better deal as President Donald Trump's higher tariff rates on imports from dozens of countries kicked in, raising the average US import duty to its highest in a century. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0807/1527282-trump-tariffs/>
+
+---
+
+## WATCH | The U.S. just killed mRNA vaccine funding — what now?
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/db1b42ad-77cf-45a1-a657-330d101ce06d,1754527659389/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A syringe in a gloved hand.' width='620' height='349' title='A pharmacist holds a Pfizer and BioNTech COVID-19 vaccine shot on Thursday, April 24, 2025, in Portland, Ore.'/><p>U.S. Health Secretary Robert F. Kennedy Jr. has cancelled $500 million in funding for the development of mNRA vaccine technology. For The National, CBC’s Heather Hiscox asks infectious disease specialist Dr. Allison McGeer and health researcher Bradley Wouters to break down what kind of impact this could have on fighting disease in Canada and around the world.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6858571?cmp=rss>
+
+---
+
+## Kremlin confirms that Putin, Trump expected to meet in coming days
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.4195881.1754530190!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/pictures-of-the-week-photo-gallery.jpg' alt='Two men, sitting on opposite sides of a table, lean in close to speak. ' width='620' height='349' title='U.S. President Donald Trump meets with Russian President Vladimir Putin at the G-20 Summit, Friday, July 7, 2017, in Hamburg. Trump and Putin met for more than two hours. '/><p>U.S. President Donald Trump could meet in person with Russian President Vladimir Putin as soon as next week as he seeks to broker an end to the Russia-Ukraine war, a White House official said Wednesday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-putin-possible-meeting-ukraine-war-1.7602928?cmp=rss>
+
+---
+
+## Shelbourne shock Rijeka on the road in Europa League
+
+date: 2025-08-06, from: RTÉ News
+
+Second-half goals from Sam Bone and John Martin saw Shelbourne come from behind and defeat Croatian champions Rijeka 2-1 away from the home in the first leg of their Europa League third qualifying round meeting at the Stadion HNK Rijeka. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0806/1527162-shelbourne-shock-rijeka-on-the-road-in-europa-league/>
 
 ---
 
@@ -18,6 +310,18 @@ Slovenia has introduced a ban on imports of goods produced in Israeli-occupied P
 <br> 
 
 <https://www.rte.ie/news/world/2025/0806/1527267-slovenia-israel/>
+
+---
+
+## Large weekend gains for RTÉ Radio 1 in latest JNLRs
+
+date: 2025-08-06, from: RTÉ News
+
+RTÉ Radio 1 has seen large weekend gains in the latest Joint National Listenership Research (JNLR) figures released today, with The Brendan O'Connor Show enjoying the biggest increases on both Saturdays and Sundays. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0806/1527258-large-weekend-gains-for-rte-radio-1-in-latest-jnlrs/>
 
 ---
 
@@ -54,6 +358,18 @@ Taoiseach Micheál Martin said President Donald Trump should keep in mind that U
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0806/1527255-pharma-tariffs-ireland/>
+
+---
+
+## Apple to boost stateside investment by $100B US over 4-year period
+
+date: 2025-08-06, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602762.1754515736!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-and-apple-ceo-tim-cook-in-the-oval-office-together.jpg' alt='U.S. President Donald Trump introduces Apple CEO Tim Cook in the Oval Office.' width='620' height='349' title='U.S. President Donald Trump introduces Apple CEO Tim Cook in the Oval Office, Wednesday, Aug. 6, 2025, in Washington.'/><p>Apple CEO Tim Cook joined U.S. President Donald Trump at the White House on Wednesday to announce a commitment by the tech company to increase its investment in U.S. manufacturing by an additional $100 billion US over the next four years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-apple-us-manufacturing-investment-1.7602758?cmp=rss>
 
 ---
 
@@ -298,6 +614,54 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165582>
+
+---
+
+## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165591>
+
+---
+
+## World News in Brief: Funding schools in Afghanistan, Seaweed farming in Latin America, drought in Somalia
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+The UN World Food Programme (WFP) on Wednesday welcomed a contribution of $3.5 million from the Government of Indonesia to support the agency’s school meal programme in Afghanistan.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165589>
+
+---
+
+## Syria: Ceasefire under strain as violence and aid access issues persist in Sweida
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+Hostilities have continued in Sweida, Syria, despite a ceasefire agreement, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said in an update published on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165588>
+
+---
+
+## Just 1.5 per cent of Gaza’s agricultural land remains accessible and undamaged
+
+date: 2025-08-06, from: United Nations, Top Stories
+
+UN data published on Wednesday underscores the tiny amount of cultivable land that remains in the Gaza Strip, contributing to the famine-like conditions now being endured by more than two million people there.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165587>
 
 ---
 
@@ -717,11 +1081,11 @@ Exactly 80 years since an atomic bomb was used in war for the first time, thousa
 
 ---
 
-## US adds extra 25% tariff on India over Russian oil
+## Trump plans to impose '100%' tariff on semiconductors
 
 date: 2025-08-06, from: RTÉ News
 
-US President Donald Trump has signed an order to impose an additional 25% tariff on Indian goods over New Delhi's continued purchase of Russian oil. 
+US President Donald Trump has said he planned to impose a 100% tariff on imported semiconductors, although he did not offer a timetable for the new levy being enacted 
 
 <br> 
 
@@ -729,11 +1093,11 @@ US President Donald Trump has signed an order to impose an additional 25% tariff
 
 ---
 
-## Trump plans to meet Putin in person - report
+## Trump says 'good chance' of meeting with Putin 'soon'
 
 date: 2025-08-05, from: RTÉ News
 
-Talks between Russian President Vladimir Putin and US special envoy Steve Witkoff were "useful and constructive," Kremlin foreign policy aide Yuri Ushakov has said. 
+US President Donald Trump has said there was a high probability of a summit with his Russian counterpart Vladimir Putin in the near future 
 
 <br> 
 
@@ -853,7 +1217,7 @@ The father of a "lifelong fan" who fell to his death at the end of an Oasis conc
 
 ---
 
-## ‘Energy in the room’: Why no extension on tariffs for Canada, says U.S. ambassador
+## 'Energy in the room:’ U.S. ambassador on why no tariff extension for Canada
 
 date: 2025-08-05, from: CBC, World News
 
@@ -1195,7 +1559,7 @@ Children in Gaza are dying not just from hunger, but from the total collapse of 
 
 ## The world is demanding action over plastic pollution: UN environment chief
 
-date: 2025-08-05, from: United Nations, Climate Change
+date: 2025-08-05, from: United Nations, Top Stories
 
 High stakes negotiations got underway at the UN Geneva on Tuesday to agree on a legally binding treaty to curb plastic pollution, attended by delegates from nearly 180 countries.&nbsp; 
 
@@ -1839,7 +2203,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## The final straw? Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Climate Change
+date: 2025-08-04, from: United Nations, Top Stories
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-06 14:10:55
+updated: 2025-08-07 06:08:27
 ---
 
 # libraries
 
-(date: 2025-08-06 14:10:55)
+(date: 2025-08-07 06:08:27)
 
 ---
 
@@ -18,6 +18,20 @@ Balmer, Vera; Kraus, Michael A.; Coros, Stelian; Kaufmann, Walter
 <br> 
 
 <http://hdl.handle.net/20.500.11850/748023>
+
+---
+
+## Guest Post — A Smarter Way to License Research Articles for AI
+
+date: 2025-08-07, from: Scholarly Kitchen
+
+<p>If LLMs are the future of information discovery, valuable scholarly content risks being left behind — unless we build a bridge with better licensing.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/07/guest-post-a-smarter-way-to-license-research-articles-for-ai/">Guest Post — A Smarter Way to License Research Articles for AI</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/07/guest-post-a-smarter-way-to-license-research-articles-for-ai/>
 
 ---
 

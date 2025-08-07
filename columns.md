@@ -1,17 +1,126 @@
 ---
 title: columns
-updated: 2025-08-06 14:10:53
+updated: 2025-08-07 06:08:25
 ---
 
 # columns
 
-(date: 2025-08-06 14:10:53)
+(date: 2025-08-07 06:08:25)
+
+---
+
+## 2025-08-07 Site structure: blog, wiki, digital garden?
+
+date: 2025-08-07, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-07-site-structure-blog-wiki-digital-garden">2025-08-07 Site structure: blog, wiki, digital garden?</h1>
+
+<p>Yes. <a class="account" href="https://toot.cat/@jayeless" title="@jayeless@toot.cat">@jayeless</a> recently wrote about <a href="https://www.jayeless.net/conversation">conversations</a>, <a href="https://www.jayeless.net/link-rot">link rot</a> and <a href="https://www.jayeless.net/small-web-blogging-platforms">small blogging platforms</a> and I mentioned how my use of the software I use for publishing this site has changed.</p>
+
+<p>I started using it as a wiki, which is why the <a href="SiteMap">SiteMap</a> still uses &ldquo;camel case&rdquo;. I ended up foregoing the wiki page approach because my opinion and experience with a topic would keep changing and I didn’t want to keep rewriting my own pages. And so the site slowly morphed from garden style to blog style and now it’s explicitly a diary. And I guess the topic pages are in fact the tag pages where I collect the links to all the tagged pages. 😬</p>
+
+<p>As I&rsquo;m writing this, I&rsquo;m idly wondering whether a one-person wiki is automatically a digital garden, whether thinking about terminology is a waste of time &ndash; I used to make fun of Germans who wanted to focus on terminology first and foremost (&ldquo;Begrifflichkeiten!&rdquo;) &ndash; and whether a wiki with comments is still digital garden, and now that I&rsquo;ve thought about it for a bit I&rsquo;m tired and I think it&rsquo;s a waste of time.</p>
+
+<p>In any case, Jessica noted that I like to update pages without rewriting them. I wrote this <a href="Odd%CE%BC">Oddμ</a> feature just for me! The &ldquo;Add&rdquo; link allows me to quickly add to the end of a page without editing the whole page. It&rsquo;s basically the remnant of my old comment system since I kept commenting on my own pages. 😅 I mean, there were people commenting in the past &ndash; and I&rsquo;d like to thank you all if you&rsquo;re still reading! -– but I mostly felt strange commenting on my own pages so often and I decided to embrace this.</p>
+
+<p>I update pages on my blog by adding to them, on purpose. In terms of editorial style it fits with my goal of showing how everything is 🚧 <em>work in progress</em> 🚧 and how arriving someplace can be hard. There are enough places on the web where things look easy and clear and so this approach of mine reflects my lived reality of how I try things and then they don’t work and I come back again with more ideas or I report on how things went.</p>
+
+<p>It reflects how I&rsquo;m failing forward through life. 😂</p>
+
+<p><a class="tag" href="/search/?q=%23Writing">#Writing</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-06-site-structure>
+
+---
+
+## curl tells the %time
+
+date: 2025-08-07, from: Daniel Stenberg Blog
+
+The curl command line option --write-out or just -w for short, is a powerful and flexible way to extract information from transfers done with the tool. It was introduced already back in version 6.5 in the early 2000. This option takes an argument in which you can add &#8220;variables&#8221; that hold all sorts of different &#8230; <a href="https://daniel.haxx.se/blog/2025/08/07/curl-tells-the-time/" class="more-link">Continue reading <span class="screen-reader-text">curl tells the %time</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/08/07/curl-tells-the-time/>
+
+---
+
+## OpenSUSE Leap 16.0 reaches RC status
+
+date: 2025-08-07, updated: 2025-08-07, from: Liam Proven's articles at the Register
+
+<h4>Bold, clean, much less legacy tech – and a bit less like old SUSE</h4>
+      <p>A release candidate of openSUSE Leap 16.0 is here. It boldly strips out more established legacy tech than almost any other Linux we&#39;ve seen.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/07/opensuse_leap_16_reaches_rc/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
+
+I recorded a good podcast yesterday about how I develop new stuff like podcasting, and how it only works if there isn't a huge dominant platform vendor to FUD the project. That's why RSS worked, sort of -- we did get FUDded by the RDF folk, who had a few famous people on their list of co-authors, and it put a big scar on RSS when it was just starting to grow. We cleaned up their mess after a while, and then it boomed, thanks to the New York Times. This is what usually happens, in markets that are controlled by a big company. Google has that effect, so does Apple as does the W3C. They force everything to stop and go through a process that simply doesn't work, it doesn't yield innovation in the market, because it wasn't <a href="http://scripting.com/stories/2010/08/10/howToBootstrapFederated140.html">bootstrapped</a>.  That's why I don't like the idea of "Podcasting 2.0" whatever it is. <a href="https://mastodon.social/@adam@podcastindex.social/114978962778121264">Adam Curry says</a> on Masto that it's all a big misunderstanding, but that's what the RDF people said too. Who cares what the name is. Everyone cares, when it comes to the name of a standard or protocol. And when you have an Apple or Google or IETF  trying to confuse people about what you're doing, well you can't make any progress on interop. They freeze everything because users and developers will wait for them. Of course that's what "Podcasting 2.0" is all about. To make all the ideas flow through <a href="https://podcasting2.org/">one place</a>. And whoever they are (ChatGPT <a href="https://imgs.scripting.com/2025/08/07/isTherePodcastingTwoPointOh.png">says</a> it's Adam Curry btw) they didn't even bring the power of an Apple or Google to the table. They have nothing other than their aspiration to own the name of an open format and protocol that made the world a little happier for a while. For that of course someone has to try to own it. That's basically what I said, in a very long-winded way, in the podcast. I also talked about ways we could move forward anyway even though there is a 800-pound would-be gorilla trying to own our playground. Maybe I'll just release the podcast as-is and ask you all to indulge me for my need to say the same thing far too many times with so much vigor. :-) 
+
+<br> 
+
+<http://scripting.com/2025/08/07.html#a112457>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/02/09/punt.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I wanted to put together a demo of a very simple but interesting Node.js app, so I hooked up with <a href="https://replit.com/">replit</a>, and was surprised to find out that it's now an AI bot. But when I asked it to make a sandbox for this app, which is in a repo on GitHub, rather than take the direct route, and run the demo.js app (which is what I asked it to do), it concocted a pointless user interface, that hid all the interesting bits. This was a demo for programmers for crying out loud. I <i>want</i> to show them the machinery in motion. I'm going to try again today. 
+
+<br> 
+
+<http://scripting.com/2025/08/07.html#a112239>
+
+---
+
+## China Accuses Nvidia of Putting Backdoors into Their Chips
+
+date: 2025-08-07, updated: 2025-08-06, from: Bruce Schneier blog
+
+<p>The government of China has accused Nvidia of inserting a <a href="https://arstechnica.com/gadgets/2025/07/china-claims-nvidia-built-backdoor-into-h20-chip-designed-for-chinese-market/">backdoor</a> into their H20 chips:</p>
+<blockquote><p>China&#8217;s cyber regulator on Thursday said it had held a meeting with Nvidia over what it called &#8220;serious security issues&#8221; with the company&#8217;s artificial intelligence chips. It said US AI experts had &#8220;revealed that Nvidia&#8217;s computing chips have location tracking and can remotely shut down the technology.&#8221;</p></blockquote>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/china-accuses-nvidia-of-putting-backdoors-into-their-chips.html>
+
+---
+
+## What you can do now
+
+date: 2025-08-07, from: Robert Reich's blog
+
+A baker&#8217;s dozen of important steps to fight Trump fascism 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-you-can-do-f3d>
+
+---
+
+## August 6, 2025
+
+date: 2025-08-07, from: Heather Cox Richardson blog
+
+Members of the House of Representatives are back in their districts for August, and on Monday, Republican Mike Flood of Nebraska held a town hall in Lincoln. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-6-2025>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-08-06, from: Dave Winer's Scripting News)
 
-A Brian Lehrer <a href="https://www.wnyc.org/story/segregation-at-nycs-specialized-high-schools/">segment</a> on specialized <a href="https://en.wikipedia.org/wiki/Specialized_high_schools_in_New_York_City">high schools</a> in NYC. I went to one of them, signed up for <a href="https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test">the test</a> mostly to get out of school for a day, and got in. Back in those days (the early 70s) no one studied for the test as far as I know. It has become very competitive and there's an issue of the racial makeup of the student body. As always Lehrer does a great podcast. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/02/10/gumby.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A Brian Lehrer <a href="https://www.wnyc.org/story/segregation-at-nycs-specialized-high-schools/">segment</a> on specialized <a href="https://en.wikipedia.org/wiki/Specialized_high_schools_in_New_York_City">high schools</a> in NYC. I went to one of them, signed up for <a href="https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test">the test</a> mostly to get out of school for a day, and got in. Back in those days (the early 70s) no one studied for the test as far as I know. It has become very competitive and there's an issue of the racial makeup of the student body. As always Lehrer does a great podcast. 
 
 <br> 
 
@@ -21,7 +130,7 @@ A Brian Lehrer <a href="https://www.wnyc.org/story/segregation-at-nycs-specializ
 
 **@Dave Winer's Scripting News** (date: 2025-08-06, from: Dave Winer's Scripting News)
 
-Not much time to blog today, might have a podcast later. In the meantime I did a search of Daytona for <a href="https://daytona.scripting.com/search?q=%22object%20database%22">object database</a>, a term that goes back to the early days and makes for an interesting browse, at least for me. 
+Milestone: <a href="https://daytona.scripting.com/search?q=%22Chuck%20Shotton%22">Chuck Shotton</a> got his FeedLand up today. That's why I spruced up <a href="https://lists.opml.org/">lists.opml.org</a>, that's how we're connecting our servers. He's building this stuff to flow into his LLM via the <a href="https://github.com/scripting/feedlandSocket">FeedLand websockets interface</a>. He'll be updated on my subscriptions, and have his own, and the news will flow into his AI system. All of it can emanate from anywhere RSS is supported with a focus on WordPress. It's the secret sauce. 😀 
 
 <br> 
 
@@ -45,7 +154,7 @@ date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
 
 date: 2025-08-06, from: Om Malik blog
 
-A few days&#160;ago,&#160;when decoding&#160;Microsoft CEO Satya Nadella’s memo&#160;to his company about&#160;layoffs&#160;and artificial intelligence, I said that “this is not just about Microsoft, but pretty much every software company will be hit hard by this wave of transformation.” The point I was making in the piece was that&#160;AI&#160;is&#160;coming,&#160;and the first domino to fall&#160;will&#160;be software. When watching &#8230; 
+A few days&#160;ago,&#160;when decoding&#160;Microsoft CEO Satya Nadella’s memo&#160;to his company about&#160;layoffs&#160;and artificial intelligence, I said that “this is not just about Microsoft, but pretty much every software company will be hit hard by this wave of transformation.” The point I was making in the piece was that&#160;AI&#160;is&#160;coming,&#160;and the first domino to fall&#160;will&#160;be software. I was &#8230; 
 
 <br> 
 

@@ -1,11 +1,52 @@
 ---
 title: journalism
-updated: 2025-08-06 14:10:54
+updated: 2025-08-07 06:08:26
 ---
 
 # journalism
 
-(date: 2025-08-06 14:10:54)
+(date: 2025-08-07 06:08:26)
+
+---
+
+## Crimewatch: August 2025
+
+date: 2025-08-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+﻿
+Sources: UCPD. Graphic reporting by Maggie Konecky, Assistant News Editor. Interactive by Ayushi Kadakia, Data Editor.
+UCPD recorded 549 unique entries in its daily crime log from July 1 to 31. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/06/crimewatch-august-2025/>
+
+---
+
+## Keck school, Keck Medicine of USC start layoffs
+
+date: 2025-08-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University did not specify how many individuals will be affected.</p>
+<p>The post <a href="https://dailytrojan.com/2025/08/06/keck-school-keck-medicine-of-usc-start-layoffs/">Keck school, Keck Medicine of USC start layoffs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/08/06/keck-school-keck-medicine-of-usc-start-layoffs/>
+
+---
+
+## Court orders Trump administration to explain legality of NSF cuts to UCLA
+
+date: 2025-08-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A district court judge ordered the Trump administration to explain its suspension of National Science Foundation grants to UCLA at a hearing Aug. 12.
+California district court judge Rita F. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/06/court-orders-trump-administration-to-explain-legality-of-nsf-cuts-to-ucla/>
 
 ---
 
@@ -25,7 +66,7 @@ The UC has agreed “to engage in dialogue with the federal administration” ab
 
 date: 2025-08-06, from: Nieman Journalism Lab
 
-Eight years after Report for America launched, its graduates are more often than not accepting permanent positions in their newsrooms. RFA launched in 2017 with the goal of placing &#8220;emerging journalists&#8221; in local newsrooms for a year of service and the option for a second year, with half their salary covered by RFA. The idea... 
+A previous version of this article misstated the percentage of Report for America corps members who do not finish the program. It&#8217;s 14%, not a third. Eight years after Report for America launched, its graduates are more often than not accepting permanent positions in their newsrooms. RFA launched in 2017 with the goal of placing... 
 
 <br> 
 

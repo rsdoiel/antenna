@@ -1,11 +1,123 @@
 ---
 title: snapshots
-updated: 2025-08-06 14:11:00
+updated: 2025-08-07 06:08:32
 ---
 
 # snapshots
 
-(date: 2025-08-06 14:11:00)
+(date: 2025-08-07 06:08:32)
+
+---
+
+## Prison inmates can take college classes, but often with no internet and limited tech
+
+date: 2025-08-07, from: The Markup blog
+
+Students regularly face dead ends, even with access to technology and research resources 
+
+<br> 
+
+<https://themarkup.org/machine-learning/2025/08/07/prison-education>
+
+---
+
+## Infinite Pixels
+
+date: 2025-08-07, from: Eric Meyer blog
+
+In which I push browser engines to their finite limits using infinite values. 
+
+<br> 
+
+<https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/>
+
+---
+
+## The Emperor’s New Trade Deal
+
+date: 2025-08-07, from: Paul Krugman
+
+Tariffs are bad. A deluded president is worse. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-emperors-new-trade-deal>
+
+---
+
+## Come Back, Gil Amelio
+
+date: 2025-08-07, updated: 2025-08-07, from: Tedium site
+
+If Tim Cook is busy having Apple make unnecessary ornaments as appeasement for political leaders, why not have Gil Amelio lead the company instead? 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17113041/tim-cook-apple-trump-gift>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-07, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvriwdn6ds2z>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-07, from: Robert's feed at BlueSky)
+
+Looks fun.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvrirljxek2z>
+
+---
+
+## Lilbits: 100% tariffs on semiconductor chips, Copilot for PC gaming, and better touchpad support for Android
+
+date: 2025-08-06, from: Liliputing
+
+<p>President Trump has announced plans to impose tariffs of 100% on semiconductors entering the United States, which could dramatically drive up the price of computers, phones, cars, and a wide range of products that rely on those chips. There is a carveout for companies that have committed to manufacturing chips in the United States. With Apple [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-100-tariffs-on-semiconductor-chips-copilot-for-pc-gaming-and-better-touchpad-support-for-android/">Lilbits: 100% tariffs on semiconductor chips, Copilot for PC gaming, and better touchpad support for Android</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-100-tariffs-on-semiconductor-chips-copilot-for-pc-gaming-and-better-touchpad-support-for-android/>
+
+---
+
+## Daily Deals (8-06-2025)
+
+date: 2025-08-06, from: Liliputing
+
+<p>Best Buy is running a sale on Amazon Fire tablets and Kindle eReaders that makes them cheaper to buy from Best Buy than Amazon at the moment. In fact, the Kindle Colorsoft Signature Edition is on sale for $180, which is the lowest price ever for Amazon&#8217;s first Kindle with an E Ink color display. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-8-06-2025/">Daily Deals (8-06-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-8-06-2025/>
+
+---
+
+## A Provoked Attack
+
+date: 2025-08-06, updated: 2025-08-06, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/06/a-provoked-attack/>
 
 ---
 
@@ -1750,6 +1862,20 @@ date: 2025-08-04, from: LLVM Blog
 <br> 
 
 <https://blog.llvm.org/posts/2025-03-26-llvmcgo-carts/>
+
+---
+
+## RSoC 2025: Final Report: Unix Domain Sockets, Bulk FD Passing, and Separating File Tables
+
+date: 2025-08-04, from: Redox OS News
+
+Hi everyone! I&rsquo;m Ibuki Omatsu, and as part of my RSoC project, I&rsquo;ve worked on implementing Unix Domain Sockets (UDS) in Redox OS.
+Following that, I also worked on implementing bulk file descriptor (FD) passing and separating file tables. In this post, first, I will talk about updates of the UDS implementation, and then I will explain bulk FD passing and the separation of file tables.
+Unix Domain Socket First, let&rsquo;s talk about Unix Domain Sockets (UDS). 
+
+<br> 
+
+<https://www.redox-os.org/news/rsoc-2025-fdtbl/>
 
 ---
 

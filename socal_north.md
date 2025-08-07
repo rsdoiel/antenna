@@ -1,17 +1,161 @@
 ---
 title: socal north
-updated: 2025-08-06 14:10:49
+updated: 2025-08-07 06:08:22
 ---
 
 # socal north
 
-(date: 2025-08-06 14:10:49)
+(date: 2025-08-07 06:08:22)
+
+---
+
+## Cleaner, quieter electric school buses roll into LAUSD
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The second largest school district in the country reports that 67% of its 1,300 school buses rely on non-diesel fuels, including propane, natural gas and electricity. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-school-district-electric-buses-2025>
+
+---
+
+## Was gold buried under LA 5,000 years ago? How the county partnered with excavators to dig it up
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+A group of miners dug up parts of downtown in search of mythical millions in gold doubloons and tablets. 
+
+<br> 
+
+<https://laist.com/news/la-history/la-county-gold-great-depression-george-warren-shufelt-lizard-people-doodlebug>
+
+---
+
+## Emmy-nominated 'Severance' cinematographer on her directorial debut (and making Adam Scott look hot in her episode)
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Jessica Lee Gagné reflects on creating the rigid world of Severance and purposefully breaking away from its boundaries. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/emmy-nominated-severance-cinematographer-directorial-debut-adam-scott>
+
+---
+
+## How to perform for adoptable pets at the Mission Viejo animal shelter
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The new program officially launched this week and is looking for more volunteers. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/how-to-perform-for-adoptable-pets-at-the-mission-viejo-animal-shelter>
+
+---
+
+## After an ex-DOGE staffer's assault, Trump threatens to federalize D.C. Can he?
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Trump told reporters on Wednesday evening that he is considering taking over the D.C. police force and sending in the National Guard after a former DOGE staffer was hurt in an attempted carjacking. 
+
+<br> 
+
+<https://laist.com/news/after-an-ex-doge-staffers-assault-trump-threatens-to-federalize-d-c-can-he>
+
+---
+
+## Malibu residents urged to boil water until further notice. City blames Caltrans work
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The city says the district experienced low water pressure as a result of a Caltrans bridge project at Solstice Canyon. 
+
+<br> 
+
+<https://laist.com/news/malibu-residents-urged-to-boil-water-until-further-notice-city-blames-caltrans-work>
+
+---
+
+## So long, study guides? The AI industry is going after students
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Students are increasingly using AI tools to help with — and do — their homework. Here's how older online study services, students and professors are adapting. 
+
+<br> 
+
+<https://laist.com/news/education/so-long-study-guides-ai-industry-is-going-after-students>
+
+---
+
+## Drones delivering coffee? Trump administration wants more companies using UAVs
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+The Trump administration wants to make it easier for companies to use drones for business — from delivering coffee to inspecting power lines to working on farms. 
+
+<br> 
+
+<https://laist.com/news/drones-delivering-coffee-trump-administration-wants-more-companies-using-uavs>
+
+---
+
+## University of California must revisit policy that bars undocumented students from on-campus jobs, court rules
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+The ruling is part of a lawsuit filed by immigrant rights groups last year against the UC system, arguing its policies discriminated against undocumented students. 
+
+<br> 
+
+<https://laist.com/news/education/university-of-california-undocumented-students-campus-jobs-court-rules>
+
+---
+
+## LADWP warns thousands in San Fernando Valley to boil tap water before using amid outage
+
+date: 2025-08-06, updated: 2025-08-07, from: The LAist
+
+The advice comes after a water outage caused by a faulty valve. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-ladwp-boil-water-outage-granada-hills-porter-ranch-help>
+
+---
+
+## Public health experts dismayed by RFK Jr.'s defunding of mRNA vaccine research
+
+date: 2025-08-06, updated: 2025-08-06, from: The LAist
+
+The Trump administration canceled about $500 million for research into mRNA vaccines. The move slows progress in using the technology to prevent a future pandemic or treat disease, experts say. 
+
+<br> 
+
+<https://laist.com/news/health/public-health-experts-dismayed-by-rfk-jr-defunding-of-mrna-vaccine-research>
+
+---
+
+## New construction banned in Rancho Palos Verdes landslide zones
+
+date: 2025-08-06, updated: 2025-08-07, from: The LAist
+
+Some Rancho Palos Verdes residents worry the ban could affect their property values. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/new-construction-banned-in-rancho-palos-verdes-landslide-zones>
 
 ---
 
 ## Federal agents detain people at a Westlake Home Depot after jumping out of rented Penske moving van
 
-date: 2025-08-06, updated: 2025-08-06, from: The LAist
+date: 2025-08-06, updated: 2025-08-07, from: The LAist
 
 The action, which a Border Patrol official called “Operation Trojan Horse,” comes after a federal appeals court upheld a restraining order halting indiscriminate sweeps in Southern California. 
 
@@ -161,6 +305,18 @@ Heat advisories kick in for the inland and valley areas.
 
 ---
 
+## Dozens of SoCal car washes have been raided by ICE. Workers are taking the fall
+
+date: 2025-08-06, updated: 2025-08-07, from: The LAist
+
+Hiring unauthorized workers is illegal. But employees, and not employers, have not been the focus of the Trump administration’s recent raids. 
+
+<br> 
+
+<https://laist.com/news/politics/dozens-of-la-car-washes-have-been-raided-by-ice-workers-are-taking-the-fall>
+
+---
+
 ## At Skid Row Care Campus, homeless neighbors chart their own path to services
 
 date: 2025-08-06, updated: 2025-08-06, from: The LAist
@@ -170,18 +326,6 @@ L.A. opened a homeless services hub in Skid Row focused on the health and well-b
 <br> 
 
 <https://laist.com/news/housing-homelessness/skid-row-care-campus-harm-reduction-drugs-community-services>
-
----
-
-## Dozens of LA car washes have been raided by ICE. Workers are taking the fall
-
-date: 2025-08-06, updated: 2025-08-06, from: The LAist
-
-Hiring unauthorized workers is illegal. But employees, and not employers, have not been the focus of the Trump administration’s recent raids. 
-
-<br> 
-
-<https://laist.com/news/politics/dozens-of-la-car-washes-have-been-raided-by-ice-workers-are-taking-the-fall>
 
 ---
 
@@ -265,7 +409,7 @@ date: 2025-08-05, from: Longbeach Post
 
 ## Orange County Supervisors revisit ethics code in wake of Andrew Do corruption scandal
 
-date: 2025-08-05, updated: 2025-08-05, from: The LAist
+date: 2025-08-05, updated: 2025-08-07, from: The LAist
 
 The Orange County Board of Supervisors is scheduled to vote on whether to adopt the changes at its next meeting on Aug. 12. 
 
@@ -437,6 +581,21 @@ Federal funding cuts, fire-related costs and continuing liabilities from child s
 <br> 
 
 <https://laist.com/news/politics/la-county-financial-future>
+
+---
+
+## Trump establishes LA Olympics security task force and threatens to redeploy National Guard
+
+date: 2025-08-05, from: Longbeach Post
+
+<figure><img width="1024" height="576" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1024x576.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-300x169.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-768x432.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-192x108.webp 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1536x864.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1200x675.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-1568x882.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR-400x225.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/07/14121231/lbclimbingtheaterdesktop-280594-ircteuxr-256335-8rpUDGFR.webp 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The executive order mobilizes agencies across the federal government to prepare for the mega-event, and names Trump as chair of the task force.</p>
+<p>The post <a href="https://lbpost.com/news/trump-establishes-la-olympics-security-task-force-and-threatens-to-redeploy-national-guard">Trump establishes LA Olympics security task force and threatens to redeploy National Guard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/trump-establishes-la-olympics-security-task-force-and-threatens-to-redeploy-national-guard>
 
 ---
 

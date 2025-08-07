@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-08-06 14:10:50
+updated: 2025-08-07 06:08:23
 ---
 
 # ham radio
 
-(date: 2025-08-06 14:10:50)
+(date: 2025-08-07 06:08:23)
+
+---
+
+## Impedance mask in power delivery network (PDN) optimization
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="4470" height="2432" src="https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?fit=4470%2C2432" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=4470 4470w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=2850 2850w" sizes="(max-width: 4470px) 100vw, 4470px" /><p>Here are insights and practical guidance for designers seeking to optimize their PDNs for reliable and efficient power delivery.</p>
+<p>The post <a href="https://www.edn.com/impedance-mask-in-power-delivery-network-pdn-optimization/">Impedance mask in power delivery network (PDN) optimization</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/impedance-mask-in-power-delivery-network-pdn-optimization/>
 
 ---
 
@@ -37,7 +51,7 @@ date: 2025-08-06, from: Amateur Radio Relay League News
 
 date: 2025-08-06, from: EDN Blog
 
-<img width="460" height="398" src="https://www.edn.com/wp-content/uploads/RailedNoFlop_Figure1.png?fit=460%2C398" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/RailedNoFlop_Figure1.png?w=460 460w, https://www.edn.com/wp-content/uploads/RailedNoFlop_Figure1.png?w=300 300w" sizes="(max-width: 460px) 100vw, 460px" /><p>Woodward’s response to a 48-V variation of his original “Flip ON Flop OFF” circuit, this time without switching Vss of the incoming supply</p>
+<img width="460" height="398" src="https://www.edn.com/wp-content/uploads/RailedNoFlop_Figure1.png?fit=460%2C398" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RailedNoFlop_Figure1.png?w=460 460w, https://www.edn.com/wp-content/uploads/RailedNoFlop_Figure1.png?w=300 300w" sizes="auto, (max-width: 460px) 100vw, 460px" /><p>Woodward’s response to a 48-V variation of his original “Flip ON Flop OFF” circuit, this time without switching Vss of the incoming supply</p>
 <p>The post <a href="https://www.edn.com/flip-on-flop-off-highish-voltages-from-the-positive-supply-rail/">Flip ON Flop OFF: high(ish) voltages from the positive supply rail</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

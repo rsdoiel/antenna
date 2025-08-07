@@ -1,11 +1,537 @@
 ---
 title: pacific
-updated: 2025-08-06 14:10:50
+updated: 2025-08-07 06:08:23
 ---
 
 # pacific
 
-(date: 2025-08-06 14:10:50)
+(date: 2025-08-07 06:08:23)
+
+---
+
+## Guam's ocean advocate alarmed by Trump's move to reopen marine monument 
+
+date: 2025-08-07, from: Pacific Island Times
+
+Amanda Dedicatoria remembers the moment vividly. Aboard the Exploration Vessel Nautilus, she watched a camera descend into the depths of the Pacific, revealing a coral reef teeming with life. Then she saw it—wrapped in the reef was a ghost net, likely abandoned by a deep-sea trawler. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-ocean-advocate-alarmed-by-trump-s-move-to-reopen-marine-monument>
+
+---
+
+## Where the redistricting wars might go after Texas
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>The walkout of Democratic lawmakers from the Texas Legislature may ultimately fail to prevent Republican legislators from forcing through new political maps drawn to swing five U.S. House seats to that party.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/where-the-redistricting-wars-might-go-after-texas/>
+
+---
+
+## Kenichi Pacific authorized to reopen
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has authorized the reopening of Kenichi Pacific restaurant in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/hawaii-news/kenichi-pacific-authorized-to-reopen/>
+
+---
+
+## United Airlines flights resume after it resolves technology glitch
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; United Airlines said a technology issue that led to a grounding of its flights for a few hours at U.S. airports and major delays across its network on Wednesday had been resolved.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/united-airlines-flights-resume-after-it-resolves-technology-glitch/>
+
+---
+
+## UH Hilo receives nearly $24M in external funding
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii announced Wednesday that UH Hilo received $23.9 million in the 2025 fiscal year as part of a fourth consecutive year of record-breaking external funding to the university system.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/hawaii-news/uh-hilo-receives-nearly-24m-in-external-funding/>
+
+---
+
+## A sergeant is accused of shooting 5 soldiers in his unit at Fort Stewart
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>An Army sergeant who authorities said opened fire on his own unit at a military base in Georgia sent a cryptic text message to his aunt before the shooting, according to the sergeant&#8217;s father: Soon, the sergeant wrote, he would be in a better place.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/a-sergeant-is-accused-of-shooting-5-soldiers-in-his-unit-at-fort-stewart/>
+
+---
+
+## Mayor vetoes bill regarding roadside soliciting
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County Mayor Kimo Alameda announced Wednesday that he has vetoed County Council Bill 59 on July 31, a rare move that challenges a recently passed ordinance regulating pedestrian behavior near roadways.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/hawaii-news/mayor-vetoes-bill-regarding-roadside-soliciting/>
+
+---
+
+## Trump could meet Putin over Ukraine as soon as next week, official says
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/MOSCOW &#8212; President Donald Trump could meet Vladimir Putin as soon as next week, a White House official said on Wednesday, as the U.S. continued preparations to impose secondary sanctions, including potentially on China, to pressure Moscow to end the war in Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/trump-could-meet-putin-over-ukraine-as-soon-as-next-week-official-says/>
+
+---
+
+## Bill banning the feeding of feral animals on county property passes
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council, by a vote of 6-2 with one absent, on Wednesday approved the second and final reading of a measure that would ban the feeding of feral or stray animals such as cats and pigs on county property.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/hawaii-news/bill-banning-the-feeding-of-feral-animals-on-county-property-passes/>
+
+---
+
+## News in brief for August 7
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>VP Vance meeting to discuss Epstein fallout is canceled</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/news-in-brief-for-august-7/>
+
+---
+
+## Kennedy cancels nearly $500 million in mRNA vaccine contracts
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Health Secretary Robert F. Kennedy Jr. has canceled nearly $500 million of grants and contracts for developing mRNA vaccines, the Department of Health and Human Services announced Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/kennedy-cancels-nearly-500-million-in-mrna-vaccine-contracts/>
+
+---
+
+## Trump administration shifts FEMA staff to ICE during hurricane season
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is transferring Federal Emergency Management Agency staffers to help speed the hiring of thousands of immigration enforcement agents, according to staff notices seen by Reuters and a government spokesperson, diverting resources away from the agency during the U.S. hurricane season.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/trump-administration-shifts-fema-staff-to-ice-during-hurricane-season/>
+
+---
+
+## Up on the roof, Trump surveys the home he’s making his own
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump was on the roof.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/up-on-the-roof-trump-surveys-the-home-hes-making-his-own/>
+
+---
+
+## Trump announces additional $100 billion Apple investment in US
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump announced Wednesday that Apple is pledging $100 billion in additional investment in the United States, the company&#8217;s latest move to buy more components from U.S. suppliers and avoid the president&#8217;s threat of tariffs on iPhones.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/trump-announces-additional-100-billion-apple-investment-in-us/>
+
+---
+
+## In letter to Trump, alcohol groups say tariffs put $2 billion in sales at risk
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; The United States&#8217; 15% tariff on EU goods could reduce the value of alcohol sales by almost $2 billion and put 25,000 U.S. jobs at risk, a group of 57 alcohol industry groups wrote in a letter sent to U.S. President Donald Trump on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/in-letter-to-trump-alcohol-groups-say-tariffs-put-2-billion-in-sales-at-risk/>
+
+---
+
+## ‘I won’t humiliate myself’: Brazil’s president sees no point in tariff talks with Trump
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>BRASILIA &#8212; As U.S. tariffs on Brazilian goods jumped to 50% on Wednesday, Brazil&#8217;s President Luiz Inacio Lula da Silva told Reuters in an interview that he saw no room for direct talks now with U.S. President Donald Trump that would likely be a &#8220;humiliation.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/i-wont-humiliate-myself-brazils-president-sees-no-point-in-tariff-talks-with-trump/>
+
+---
+
+## Oregon man accused of killing 3 women is charged with killing a fourth
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>An Oregon man facing charges that he murdered three women and dumped their bodies in secluded areas in 2023 has been indicted on charges that he murdered a fourth woman, prosecutors in Oregon said this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/oregon-man-accused-of-killing-3-women-is-charged-with-killing-a-fourth/>
+
+---
+
+## Washington State braces for ‘inevitable’ megafire. Climate change may bring it sooner
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Western Washington state is one of the wettest places in the country. In the North Cascade mountains and on the Olympic Peninsula, lush cedars, ferns and mosses form classic Pacific Northwest rainforests. But even here, climate change is making wildfires more likely. And the state is figuring out how to respond.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/washington-state-braces-for-inevitable-megafire-climate-change-may-bring-it-sooner/>
+
+---
+
+## Hilda: People are key to conservation
+
+date: 2025-08-07, from: Marshal Islands Journal
+
+<p>Marshall Islands President Hilda Heine in her keynote speech to the opening of this week’s National Ocean Symposium underlined the importance of conserving and protecting ocean resources for today and future generations. She exhorted participants to take individual and community-level actions to keep the ocean environment healthy. “While the government can set policies, and experts [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-people-are-key-to-conservation/">Hilda: People are key to conservation</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/hilda-people-are-key-to-conservation/>
+
+---
+
+## /liminal/ A solo art exhibition by Merc Tenorio
+
+date: 2025-08-07, from: Pacific Island Times
+
+/liminal/,   Merc Tenorio's 8th solo art exhibition opens on Aug. 8 runs through Sept. 3 at CAHA Gallery, DNA Building, Agana Guam. The... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/liminal-a-solo-art-exhibition-by-merc-tenorio>
+
+---
+
+## Plea for contract rules around international rugby fixtures to be enforced
+
+date: 2025-08-07, from: 
+
+A former Tonga rugby captain says it's unlikely Super Rugby contracts explicitly state New Zealand-based Pasefika players can't play for their home nations. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569340/plea-for-contract-rules-around-international-rugby-fixtures-to-be-enforced>
+
+---
+
+## Protecting Majuro shoreline
+
+date: 2025-08-07, from: Marshal Islands Journal
+
+<p>The World Bank-funded Urban Resilience Project is targeting a high-risk area in Delap for the construction of a 45-meter (nearly 150-foot) seawall and breakwater. It is the latest development for the program that is targeting specific locations in Majuro for both safety improvements and beautification work. Last Wednesday, a groundbreaking ceremony was held on the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/protecting-majuro-shoreline/">Protecting Majuro shoreline</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/protecting-majuro-shoreline/>
+
+---
+
+## External powers pitting Pacific Islands Forum members against each other, former advisor warns
+
+date: 2025-08-07, from: 
+
+The former Pacific Islands Forum expert says "tensions" relating to Taiwan's participation "illustrates how external partners work the diplomatic channels to pit us against each other". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569305/external-powers-pitting-pacific-islands-forum-members-against-each-other-former-advisor-warns>
+
+---
+
+## Manusina XV aim to prove their worth at Women's Rugby World Cup
+
+date: 2025-08-07, from: 
+
+The captain of the Samoan women's rugby team says they are not heading to England "to make up numbers", but to "compete against the best and make our families proud". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569304/manusina-xv-aim-to-prove-their-worth-at-women-s-rugby-world-cup>
+
+---
+
+## UH Mānoa men’s golf nationally recognized for academic excellence
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>The Rainbow Warriors were recognized by the Golf Coaches Association of America for their excellence in the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/06/manoa-mens-golf-academic-excellence/"><abbr>UH</abbr> Mānoa men’s golf nationally recognized for academic excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/06/manoa-mens-golf-academic-excellence/>
+
+---
+
+## Bentley Satele: Hawai'i's eight-year-old All-American
+
+date: 2025-08-07, from: 
+
+At this year's Junior Olympics in Georgia, Bentley Satele placed top eight in his division officially earning the title of All-American. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569297/bentley-satele-hawai-i-s-eight-year-old-all-american>
+
+---
+
+## Pacific news in brief for 7 August
+
+date: 2025-08-07, from: 
+
+A round-up of news from around the region, including teachers in PNG awaiting more than US$10 million in outstanding salaries. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569298/pacific-news-in-brief-for-7-august>
+
+---
+
+## Thomas Raivet on Bougainville's presidency: 'It's anybody's game'
+
+date: 2025-08-07, from: 
+
+The former army colonel, who is running under the New Bougainville Party, has given himself the "underdog" tag for next month's polls. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569296/thomas-raivet-on-bougainville-s-presidency-it-s-anybody-s-game>
+
+---
+
+## UH Mānoa leadership addresses fiscal health, future trends at conference panel
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>A panel discussion featuring <abbr>UH</abbr> M&#257;noa leadership kicked off the three-day Leading with Excellence conference.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/06/leadership-conference-panel/"><abbr>UH</abbr> Mānoa leadership addresses fiscal health, future trends at conference panel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/06/leadership-conference-panel/>
+
+---
+
+## AI, wastewater, food security among projects presented at symposium
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>The event is hosted annually by the Undergraduate Research Opportunities Program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/06/urop-sure-symposium-2025/"><abbr>AI</abbr>, wastewater, food security among projects presented at symposium</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/06/urop-sure-symposium-2025/>
+
+---
+
+## Tinian commemorates 80th anniversary of Hiroshima atomic bombing amid military buildup
+
+date: 2025-08-07, from: 
+
+The Commonwealth of the Northern Mariana Islands, US and Japanese officials held the 80th anniversary commemoration of the World War II atomic bombings on Wednesday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569273/tinian-commemorates-80th-anniversary-of-hiroshima-atomic-bombing-amid-military-buildup>
+
+---
+
+## Unemployment rate for Pacific people more than double national average
+
+date: 2025-08-06, from: 
+
+That's according to the just-released Stats NZ quarterly labour market figures. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569214/unemployment-rate-for-pacific-people-more-than-double-national-average>
+
+---
+
+## Is the end of NCEA a step forward or a step backward for Pasifika?
+
+date: 2025-08-06, from: 
+
+The National Certificate of Educational Achievement will be gone by 2030, after more than 20 years as New Zealand's official secondary-school qualification. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569267/is-the-end-of-ncea-a-step-forward-or-a-step-backward-for-pasifika>
+
+---
+
+## Solomon Islands government moves to raise legal marriage age to 18
+
+date: 2025-08-06, from: 
+
+Around six percent of girls are married before the age of 15 in the country. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569275/solomon-islands-government-moves-to-raise-legal-marriage-age-to-18>
+
+---
+
+## Tonga signs updated  seabed mining agreement with The Metals Company
+
+date: 2025-08-06, from: 
+
+Deep sea mining frontrunner The Metals Company announced the deal between the Tongan government and its subsidiary Tonga Offshore Mining Ltd on Monday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569268/tonga-signs-updated-seabed-mining-agreement-with-the-metals-company>
+
+---
+
+## Hawai‘i’s Four Mayors INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-08-06, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Mayor Rick Blangiardi &#8211; C&#38;C of Honolulu Mayor Richard Bissen &#8211; County of Maui Mayor Kimo Alameda &#8211; County of Hawaiʻi Mayor Derek Kawakami &#8211; County of [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/hawaiis-four-mayors-insights-on-pbs-hawai%ca%bbi/">Hawai‘i’s Four Mayors &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hawaiis-four-mayors-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## West Hawaiʻi keiki learn gardening from UH experts
+
+date: 2025-08-06, from: University of Hawaiʻi News
+
+<p>The initiative nurtures young gardeners by supplying plants, site visits and providing expert growing advice.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/06/west-hawaii-master-gardener/">West Hawaiʻi keiki learn gardening from <abbr>UH</abbr> experts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/06/west-hawaii-master-gardener/>
+
+---
+
+## Unique graduation at WAM
+
+date: 2025-08-06, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON When was the last time you attended a graduation ceremony in the Marshall Islands and the keynote speaker was a high school drop out? If you answered, “never,” that would be about right. And this point underlines another reason that the Waan Aelon in Majel (Canoes of the Marshall Islands) program is both [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/unique-graduation-at-wam/">Unique graduation at WAM</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/unique-graduation-at-wam/>
+
+---
+
+## Palau backs Solomon Islands' move to exclude Pacific Islands Forum partner talks until 2026
+
+date: 2025-08-06, from: 
+
+"This decision does allow us to focus on the critical intra-regional issues at this year's forum," the Palau President Office says. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569165/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026>
+
+---
+
+## Fisheries conservation and sustainability focus of seminar in Marshall Islands
+
+date: 2025-08-06, from: 
+
+Fisheries and marine resources are the driving force behind the economy, health and culture in the Marshall Islands. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569257/fisheries-conservation-and-sustainability-focus-of-seminar-in-marshall-islands>
 
 ---
 
@@ -30,30 +556,6 @@ But what about immigration under COFA? U.S. military access to most of the Pacif
 <br> 
 
 <https://www.pacificislandtimes.com/post/will-cofa-protect-against-ice-time-to-tread-carefully>
-
----
-
-## Fisheries conservation and sustainability focus of seminar in Marshall Islands
-
-date: 2025-08-06, from: 
-
-Fisheries and marine resources are the driving force behind the economy, health and culture in the Marshall Islands, and a symposium this week is focussing on conservation and sustainable development. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569257/fisheries-conservation-and-sustainability-focus-of-seminar-in-marshall-islands>
-
----
-
-## Palau backs Solomon Islands' move to exclude Pacific Islands Forum partner talks until 2026
-
-date: 2025-08-06, from: 
-
-"This decision does allow us to focus on the critical intra-regional issues at this year's forum," the Palau President Office says. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569165/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026>
 
 ---
 
@@ -368,18 +870,6 @@ date: 2025-08-06, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/06/community/world-genki-ball-day-is-thursday-in-hilo/>
-
----
-
-## Unemployment rate for Pacific people more than double national average
-
-date: 2025-08-06, from: 
-
-That's according to the just-released Stats NZ quarterly labour market figures. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569214/unemployment-rate-for-pacific-people-more-than-double-national-average>
 
 ---
 
@@ -1143,7 +1633,7 @@ date: 2025-08-05, from: Island Times
 
 date: 2025-08-05, from: Island Times
 
-<figure><img width="1024" height="524" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1024%2C524&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=1024%2C524&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=768%2C393&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=1200%2C614&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=780%2C399&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=400%2C205&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=706%2C361&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1024%2C524&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79358" data-permalink="https://islandtimes.org/japanese-officials-appeal-to-palau-for-expansion-of-fishing-zone/japanese-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1249%2C639&amp;ssl=1" data-orig-size="1249,639" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japanese" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=780%2C399&amp;ssl=1" /></figure>
+<figure><img width="1024" height="524" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1024%2C524&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=300%2C153&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=1024%2C524&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=768%2C393&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=1200%2C614&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=780%2C399&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=400%2C205&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?resize=706%2C361&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1024%2C524&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79358" data-permalink="https://islandtimes.org/japanese-officials-appeal-to-palau-for-expansion-of-fishing-zone/japanese-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=1249%2C639&amp;ssl=1" data-orig-size="1249,639" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="japanese" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=300%2C153&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/japanese.jpg?fit=780%2C399&amp;ssl=1" /></figure>
 <p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (Aug. 3, 2025) — Representatives of Japan’s fishing industry, led by Okinawan tuna fleets, are urging Palau to expand its Domestic Fishing Zone from 20% to 50% of the country&#8217;s Exclusive Economic Zone (EEZ) to sustain ongoing operations amid rising costs and regulatory challenges. In a luncheon hosted yesterday [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/japanese-officials-appeal-to-palau-for-expansion-of-fishing-zone/">Japanese officials Appeal to Palau for expansion of Fishing Zone</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1158,7 +1648,7 @@ date: 2025-08-05, from: Island Times
 
 date: 2025-08-05, from: Island Times
 
-<figure><img width="600" height="781" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?resize=230%2C300&amp;ssl=1 230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?resize=400%2C521&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79350" data-permalink="https://islandtimes.org/renee-sherman-honored-for-transformative-impact-in-palau-classrooms/attachment/1000019930/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" data-orig-size="600,781" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1000019930" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=230%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" /></figure>
+<figure><img width="600" height="781" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?resize=230%2C300&amp;ssl=1 230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?resize=400%2C521&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79350" data-permalink="https://islandtimes.org/renee-sherman-honored-for-transformative-impact-in-palau-classrooms/attachment/1000019930/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" data-orig-size="600,781" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1000019930" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=230%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000019930.png?fit=600%2C781&amp;ssl=1" /></figure>
 <p>By: Summer Kennard Koror, Palau – Renee Sherman, a 15-year veteran at Airai Elementary School, has been named the 2025 Palau National Teacher of the Year, honored for her dedication to academic excellence, leadership, and deep commitment to her students and community. Sherman, a 4th-grade homeroom teacher, teaches social studies and science to 3rd through [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/renee-sherman-honored-for-transformative-impact-in-palau-classrooms/">Renee Sherman honored for Transformative Impact in Palau Classrooms</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1229,7 +1719,7 @@ date: 2025-08-05, from: Island Times
 
 date: 2025-08-05, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79327" data-permalink="https://islandtimes.org/airai-marina-upgrades-with-help-from-new-zealand-becomes-regional-hub-for-boaters/img_0957/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_0957" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79327" data-permalink="https://islandtimes.org/airai-marina-upgrades-with-help-from-new-zealand-becomes-regional-hub-for-boaters/img_0957/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_0957" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_0957.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
 <p>Project transforms Airai Marina into hub for local and regional boaters, fishermen By: Summer Kennard KOROR, Palau — A newly completed floating dock in Ngetkib, Airai State is bringing safer and more accessible maritime access to the community, thanks to a grant from New Zealand’s North Pacific Development Fund. The project, spearheaded by the Ngara [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/airai-marina-upgrades-with-help-from-new-zealand-becomes-regional-hub-for-boaters/">Airai Marina upgrades with help from New Zealand, becomes Regional Hub for boaters</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1244,7 +1734,7 @@ date: 2025-08-05, from: Island Times
 
 date: 2025-08-05, from: Island Times
 
-<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
+<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
 <p>A Call for Leadership Rooted in the Constitution Dear Editor, “In exercising our inherent sovereignty, We the people of Palau proclaim and reaffirm our immemorial right to be supreme in these islands of Palau, our homeland…” These words, etched into the opening lines of Palau’s Constitution, are not poetry for display. They are our political [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/from-preamble-to-practice/">From Preamble to Practice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1259,7 +1749,7 @@ date: 2025-08-05, from: Island Times
 
 date: 2025-08-05, from: Island Times
 
-<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
+<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
 <p>Why I Choose to Stand with the Oppressed Beyond the Headlines” Dear Editor, In recent months, as the war in Gaza has intensified and the death toll surpasses 60,000 lives, most of them women and children, the world watches in horror. The destruction is biblical in scale, but so is the silence of many nations. [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/focus-and-integrity/">Focus and Integrity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

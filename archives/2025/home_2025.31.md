@@ -1,11 +1,100 @@
 ---
 title: home
-updated: 2025-08-06 14:10:55
+updated: 2025-08-07 06:08:28
 ---
 
 # home
 
-(date: 2025-08-06 14:10:55)
+(date: 2025-08-07 06:08:28)
+
+---
+
+## 10 Hummingbirds in Tennessee (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>There’s something magical about watching a hummingbird hover in mid-air, wings a blur, as it sips nectar from a flower ... </p>
+<p class="read-more-container"><a title="10 Hummingbirds in Tennessee (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-hummingbirds-in-tennessee-with-pictures-and-identification/#more-33377" aria-label="Read more about 10 Hummingbirds in Tennessee (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-hummingbirds-in-tennessee-with-pictures-and-identification/">10 Hummingbirds in Tennessee (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-hummingbirds-in-tennessee-with-pictures-and-identification/>
+
+---
+
+## 3 Subspecies of Deer in Alabama (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Alabama’s forests, wetlands, and farmlands are home to thriving populations of white-tailed deer. While there’s only one official species, decades ... </p>
+<p class="read-more-container"><a title="3 Subspecies of Deer in Alabama (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-subspecies-of-deer-in-alabama-with-pictures-and-identification/#more-33366" aria-label="Read more about 3 Subspecies of Deer in Alabama (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-subspecies-of-deer-in-alabama-with-pictures-and-identification/">3 Subspecies of Deer in Alabama (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-subspecies-of-deer-in-alabama-with-pictures-and-identification/>
+
+---
+
+## 5 Types of Centipedes in Hawaii (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Hawaii’s warm and humid climate creates the perfect environment for various centipede species to thrive. These multi-legged predators play important ... </p>
+<p class="read-more-container"><a title="5 Types of Centipedes in Hawaii (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-centipedes-in-hawaii-with-pictures-and-identification/#more-33352" aria-label="Read more about 5 Types of Centipedes in Hawaii (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-centipedes-in-hawaii-with-pictures-and-identification/">5 Types of Centipedes in Hawaii (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-centipedes-in-hawaii-with-pictures-and-identification/>
+
+---
+
+## 11 Types of Quail in California (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Quail are some of the most charming ground birds found across California’s wild landscapes. With their bobbing topknots, soft cooing ... </p>
+<p class="read-more-container"><a title="11 Types of Quail in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-types-of-quail-in-california-with-pictures-and-identification/#more-33340" aria-label="Read more about 11 Types of Quail in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-types-of-quail-in-california-with-pictures-and-identification/">11 Types of Quail in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-types-of-quail-in-california-with-pictures-and-identification/>
+
+---
+
+## 4 Types of Vultures in Florida (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Florida’s open skies and warm climate provide the perfect setting for vultures to soar. These large, dark birds are often ... </p>
+<p class="read-more-container"><a title="4 Types of Vultures in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-vultures-in-florida-with-pictures-and-identification/#more-33332" aria-label="Read more about 4 Types of Vultures in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-vultures-in-florida-with-pictures-and-identification/">4 Types of Vultures in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-vultures-in-florida-with-pictures-and-identification/>
+
+---
+
+## Taking Root
+
+date: 2025-08-07, from: California Native Plants Society
+
+<p>A museum of Native American art that celebrates both the creative work and traditions of Indigenous peoples.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/featured-garden-uc-davis-gorman-museum-44042">Taking Root</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/featured-garden-uc-davis-gorman-museum-44042>
 
 ---
 
@@ -77,6 +166,18 @@ date: 2025-08-06, from: Homestead and Chil
 
 ---
 
+## Inside Dr. Althea: The Beauty Brand Bringing Calm, Restorative Skincare to the West Coast
+
+date: 2025-08-06, from: Sunset Magazine - Living in the West
+
+Dr. Althea has been quietly cultivating a devoted West Coast following, one gentle, skin-restoring formula at a time. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/dr-althea-beauty-brand>
+
+---
+
 ## Sofa Sagas: My Gorgeous, Terrible, eBay Failure
 
 date: 2025-08-06, from: Dwell
@@ -130,6 +231,18 @@ The architect and professor is reviving his family’s Colorado property, from i
 
 ---
 
+## Want Limited-Edition Gear? Visit the Sunset Shop!
+
+date: 2025-08-06, from: Sunset Magazine - Living in the West
+
+Whether you’re looking for a gift, in need of kitchen and home gear, or want to show your love for Sunset, the Sunset Shop has got it. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/sunset-shop>
+
+---
+
 ## 45 Common Birds in Oklahoma (With Pictures and Identification)
 
 date: 2025-08-06, from: Yard Life blog
@@ -166,6 +279,18 @@ As the country is currently celebrating National Farmers’ Market Week, CDFA wo
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29148>
+
+---
+
+## 8 Summer Camp–Inspired Getaways for Families Who Love Nature
+
+date: 2025-08-06, from: Sunset Magazine - Living in the West
+
+Want a getaway that channels the magic of classic summer camp? These resorts and ranches are perfect for the whole family. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/summer-camp-inspired-getaways>
 
 ---
 
@@ -352,18 +477,6 @@ A new building system lets buyers create custom arrangements with engineered-woo
 
 ---
 
-## 8 Summer Camp–Inspired Getaways for Families Who Love Nature
-
-date: 2025-08-05, from: Sunset Magazine - Living in the West
-
-Want a getaway that channels the magic of classic summer camp? These resorts and ranches are perfect for the whole family. 
-
-<br> 
-
-<https://www.sunset.com/travel/outdoor-adventure/summer-camp-inspired-getaways>
-
----
-
 ## 8 Small Appliance Storage Ideas for the Ultimate Organized Kitchen
 
 date: 2025-08-05, from: Family Handyman Blog
@@ -423,6 +536,18 @@ Settle into an effortless indoor/outdoor lifestyle with stunning canyon and moun
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-midcentury-calabasas-real-estate-994d2ea2>
+
+---
+
+## 10 Things You Need to Do in Your Garden Before Summer Ends
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+Late summer is the time to make the most of the end of the season and prepare for fall. Here are the late summer gardening tips to know. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/late-summer-gardening-tips>
 
 ---
 
@@ -488,6 +613,18 @@ CDFA Secretary Karen Ross has concluded her visit to Brazil and is looking forwa
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29141>
+
+---
+
+## Revive Your Herb Garden: 10 Ways to Deal with Bolted and Heat-Stressed Plants
+
+date: 2025-08-05, from: Sunset Magazine - Living in the West
+
+From pruning and seed-saving to replanting for fall, these smart seasonal strategies will help you refresh your herb garden this summer. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/herb-garden-tips-for-summer>
 
 ---
 

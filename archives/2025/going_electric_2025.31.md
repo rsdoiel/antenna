@@ -1,11 +1,75 @@
 ---
 title: going electric
-updated: 2025-08-06 14:10:57
+updated: 2025-08-07 06:08:29
 ---
 
 # going electric
 
-(date: 2025-08-06 14:10:57)
+(date: 2025-08-07 06:08:29)
+
+---
+
+## Heybike Mars 3.0 review: A 30 MPH full-suspension e-bike for just $1,199?!
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/heybike-mars-3-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Heybike has just announced the <a href="https://electrek.co/2025/08/06/heybike-launches-two-new-full-suspension-e-bikes-at-crazy-low-prices/">launch of its new X-Series</a>, with the Mars 3.0 and Ranger S 3.0 Pro comprising the first two big new models. Or maybe not so “big”, as they’re actually kinda compact-sized, at least for full-suspension e-bikes. They’re both 20″ wheel folding e-bikes, and they pack in a lot of performance into comfortable rides. I’ve been testing both, and today we’re jumping in with both feet to check out how well the Mars 3.0 rides.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="427734" href="https://electrek.co/2025/08/07/heybike-mars-3-0-review-a-30-mph-full-suspension-e-bike-for-just-1199/#more-427734" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/heybike-mars-3-0-review-a-30-mph-full-suspension-e-bike-for-just-1199/>
+
+---
+
+## Amazon’s Zoox Taxi Is Clear To Operate Without A Steering Wheel Or Pedals
+
+date: 2025-08-07, from: Inside EVs News
+
+Federal regulators issued an exemption for the pod-like EVs that don’t have any traditional car controls. 
+
+<br> 
+
+<https://insideevs.com/news/768278/amazon-zoox-driverless-robotaxi-nhtsa-exemption/>
+
+---
+
+## US military is buying Tesla Cybertrucks to use as targets for missiles
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Tesla-Cybertruck-missiles.png?w=1600" /></div><p>Elon Musk is getting his wish; Tesla Cybertrucks are going to be used by the US military, but perhaps not in the way he intended.</p>
+
+
+
+<p>The U.S. Air Force is looking to purchase two Tesla Cybertrucks and use them for what amounts to target practice.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="428700" href="https://electrek.co/2025/08/06/us-military-buying-tesla-cybertruck-targets-missiles/#more-428700" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/06/us-military-buying-tesla-cybertruck-targets-missiles/>
+
+---
+
+## Genesis quietly dropped this EV from its US lineup
+
+date: 2025-08-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Genesis-Electrified-G80-update.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/genesis-electrified-g80/">Genesis Electrified G80</a> will no longer be sold in the US. Genesis has already pulled the luxury EV sedan from its website.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis,genesis-electrified-g80" data-layer-viewtype="unknown" data-post-id="428686" href="https://electrek.co/2025/08/06/genesis-quietly-dropped-this-ev-from-its-us-lineup/#more-428686" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/06/genesis-quietly-dropped-this-ev-from-its-us-lineup/>
 
 ---
 

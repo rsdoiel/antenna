@@ -1,11 +1,95 @@
 ---
 title: health
-updated: 2025-08-06 14:10:57
+updated: 2025-08-07 06:08:29
 ---
 
 # health
 
-(date: 2025-08-06 14:10:57)
+(date: 2025-08-07 06:08:29)
+
+---
+
+## The untapped potential of vaginal microbiome diagnostics for improving women’s health
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+Microbiome research has expanded rapidly over the past 15 years; however, the primary focus has been on the gut microbiome. Although understudied, the vaginal microbiome holds significant potential to improve women’s health. In this paper, we describe the current clinical diagnostic techniques utilised in women’s health and examine their drawbacks and limitations. We also discuss emerging diagnostic technologies based on microbiome analysis that could enable greater precision in diagnosis and personalised treatment. We additionally emphasise the need for standardisation in microbiome analysis and strengthening the knowledge base to enable advancements in accurate diagnosis, ultimately improving patient outcomes. This article aims to highlight opportunities in the field that can transform women’s health outcomes and outline the necessary actions to realise these opportunities, thereby enhancing women’s lives. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1595182>
+
+---
+
+## Whole-genome sequencing and machine learning reveal key drivers of delayed sputum conversion in rifampicin-resistant tuberculosis
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+Rifampicin-resistant tuberculosis (RR-TB) remains a major global health challenge, with delayed sputum culture conversion (SCC) predicting poor treatment outcomes. This study integrated whole-genome sequencing (WGS) and machine learning to identify clinical and genomic determinants of SCC failure in 150 RR-TB patients (2019–2023). Phenotypic and genotypic analysis revealed high rates of isoniazid resistance (74.0%) and rpoB mutations (97.3%, predominantly Ser450Leu), with 90% of strains belonging to Lineage 2 (Beijing family). While 64.7% achieved 2-month SCC, 18.0% remained culture-positive at 6 months. Univariate analysis linked 2-month SCC failure to smear positivity, resistance to isoniazid, amikacin, capreomycin, and levofloxacin, and pre-XDR-TB status, though only smear positivity (aOR=2.41, P=0.008) and levofloxacin resistance (aOR=2.83, P=0.003) persisted as independent predictors in multivariable analysis. A Random Forest model achieved robust prediction of SCC failure (AUC: 0.86 ± 0.06 at 2 months; 0.76 ± 0.10 at 6 months), identifying levofloxacin resistance (feature importance: 6.37), embB_p.Met306Ile (5.94), and smear positivity (5.12) as top 2-month predictors, while katG_p.Ser315Thr (4.85) and gyrA_p.Asp94Gly (3.43) dominated 6-month predictions. These findings underscore smear positivity, levofloxacin resistance, and specific resistance mutations as critical drivers of SCC failure, guiding targeted RR-TB treatment strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1641385>
+
+---
+
+## The AcrAB efflux pump contributes to the virulence of Enteroaggregative E. coli by influencing the aggregative behavior
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+Multidrug efflux pumps play a major role in the emergence of antibiotic resistance. AcrAB is particularly important among them, as it is the main RND pump in Escherichia coli and other Enterobacteriaceae. In addition to contributing to multidrug resistance, AcrAB also plays a significant role in the virulence of several pathogens. Here, we report that AcrAB contributes to both adhesion to host cells and biofilm formation in EAEC, an enteropathogenic group of E. coli known to cause both acute and persistent diarrhea. EAEC is an emerging pathotype of E. coli characterized by its ability to adhere extensively to epithelial cells in an aggregative manner and to form voluminous biofilms, which favor infection persistence. We found that the deletion of acrB prevents biofilm formation and reduces the export of extracellular DNA (eDNA). By using a specific inhibitor of AcrB, we confirmed the requirement of AcrB transporter activity for biofilm biogenesis. The characteristic aggregative pattern of EAEC is also strongly impaired in the absence of AcrB or in the presence of an efflux-defective AcrB D408A transporter, while it is restored in the ΔacrB strain complemented with acrB. Finally, we show that the EAEC 17-2 ΔacrB derivative is significantly less lethal than the wild type in Caenorhabditis elegans. Complementation with the acrB gene, but not with the acrBD408A allele, fully restores the virulence phenotype after infection. Overall, our results confirm the relevance of the AcrAB efflux pump as a virulence determinant and contribute to understanding the mechanisms adopted by EAEC to form thick biofilms and copious adherence to the epithelial cells, both features enhancing persistence during infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1633585>
+
+---
+
+## Autophagy in mycobacterial infections: molecular mechanisms, host-pathogen interactions, and therapeutic opportunities
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+Mycobacteria pose significant global health burdens, with Mycobacterium tuberculosis complex causing tuberculosis-a leading infectious killer claiming over 1.25 million lives annually-and NTM driving pulmonary and ulcerative infections, particularly in immunocompromised populations. Autophagy, a conserved cellular degradation pathway, serves as a critical mechanism of host defense against mycobacteria by delivering bacteria to the lysosome. As a response, mycobacteria have evolved intricate strategies to subvert or exploit autophagy for survival. Consequently, autophagy exhibits a dichotomous role in mycobacterial infection: functioning as a protective mechanism of host while simultaneously serving as a virulence determinant hijacked by bacteria for their survival. This review synthesizes current insights into the molecular mechanisms mediating host-initiated autophagy during mycobacterial infection, as well as the bacterial strategies for subverting or hijacking autophagic pathways. While autophagy may be hijacked by mycobacteria, substantial evidence from numerous studies demonstrates that autophagy-activating agents may be beneficial in restricting mycobacteria infection, even with multidrug-resistant strains. This review also systematizes promising agents that enhance autophagy to improve bacterial clearance. By synthesizing the latest research findings, this article aims to enhance our understanding of the intricate relationship between autophagy and mycobacteria, paving the way for efficient host-directed therapies (HDTs) against this severely harmful pathogen. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1640647>
+
+---
+
+## The clinical impact of 16S ribosomal RNA PCR and sequencing in the identification of bacterial infections: a 7-year report from a Lebanese tertiary care center
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe identification of bacterial pathogens in the clinical setting is essential for providing optimal care and improving outcomes. The primary objective of this study was to assess the performance of the 16S test in bacterial identification from different samples and determine its impact on clinical outcomes.MethodsThis was a retrospective study of patient samples collected from all age-groups at the American University of Beirut Medical Center (AUBMC), from May 2016 to December 2022. Descriptive statistics were conducted to calculate the 16S test positivity rate and to describe the different types of organisms. Univariate analyses were performed to study the clinical impact of the 16S test and its comparison to the conventional bacterial culture among different characteristics. A p ≤ 0.05 was considered statistically significant.ResultsA total of 1489 specimens were submitted for the 16S test during the study period. Of the submitted tests, 395 (26%) had bacteria identified by the 16S test and/or culture. Out of the culture negative/16S positive group, the majority were from specimens collected from the skin and soft tissue system (24 out of 92, 26.1%). This was followed by musculoskeletal specimens (15 out of 92, 16.3%), and central nervous system specimens (14 out of 92, 15.2%). Pus samples had a positivity rate of 66.3% with 5 times higher odds of being positive compared to non-pus samples (25%). Overall, there were 260 identified organisms by 16S test of which the most detected organisms were Staphylococcus spp, Streptococcus spp. and Enterobacterales. The results revealed that 16S testing impacted management in 45.9% of the cases (83/181) showing a change in management. Antibiotic escalation was applied in 31.3% of cases (26/83). Antibiotic de-escalation occurred in 41% of cases (34/83). A change in the treating diagnosis was noted in 26.5% of cases (22/83).ConclusionIdentification of pathogens using the 16S test in combination with conventional cultures is essential in clinical diagnostics and management of infectious diseases to provide targeted therapy and improve antimicrobial stewardship. Shorter turnaround time, improved patient management, and cost-effectiveness are key factors to consider when advocating for the broader adoption of 16S testing. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1619640>
+
+---
+
+## Stenotrophomonas tuberculopleuritidis sp. nov., a novel pathogenic Stenotrophomonas species isolated from tuberculous pleurisy patient
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionStenotrophomonas represents a group of bacteria that exhibit significant value in industrial and agricultural applications, while also posing pathogenic risks to humans. 704A1T was isolated from a patient with tuberculous pleurisy. Its 16S rRNA sequence showed the highest homology (99.72%) with a Stenotrophomonas strain without defined species classification. It is necessary to clarify the species 704A1T belonging to and its potential pathogenicity to humans.MethodsSystematical evaluations including phenotypic and biochemical characteristics, antibiotic susceptibility, genomic sequencing were conducted. The pathogenicity and immunological characteristics were tested by intranasally inoculated C57BL/6J mice.Results704A1T is Gram negative rod-shaped bacterium with flagella at single extreme. Showing highly similar with S. maltophilia, 704A1T also displayed distinct characteristic peaks in fatty acid profiling and MALDI-TOF analysis. 704A1T was resistance to 21 antibiotics, including four anti-tuberculosis drugs: rifampicin, streptomycin, rifabutin, and cycloserine. The average nucleotide identity (ANI) values of 704A1T compared to defined Stenotrophomonas species ranged from 80.03% to 89.6%, below than both the commonly accepted 95%-96% ANI threshold for prokaryote species and the 95% threshold suggested for Stenotrophomonas. Though no mortality was observed, 704A1T could cause severe consolidation in murine lung tissue and has the ability of hematogenous dissemination.ConclusionResults supported the classification of 704A1T (=GDMCC 1.4133T) as a novel species within the genus Stenotrophomonas, for which the name Stenotrophomonas tuberculopleuritidis sp. nov. is proposed. 704A1T is a multi-antibiotic resistance strain with potentially stronger pathogenicity than S. maltophilia and requires more clinical attention. The isolation of 704A1T underscored the importance of sustained surveillance and taxonomic clarity of Stenotrophomonas species emerging from clinical environments. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1629703>
+
+---
+
+## Systems pharmacology-based optimization of Ma Xing Shi Gan components for the enhanced treatment of chick health issues caused by infectious bronchitis virus
+
+date: 2025-08-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionInfectious bronchitis virus (IBV) imposes severe economic burdens on the poultry industry, and current treatments face challenges in efficacy and sustainability, necessitating the development of novel therapeutic strategies. To address this, this study employed the Traditional Chinese Medicine Inheritance Computing Platform (TCMICS) to collect clinical prescriptions for IBV treatment, based on which two optimized versions of the traditional Chinese medicine Maxing Shigan Decoction (MXSG), namely MXSG-mix1 and MXSG-mix2, were designed. In vitro cell culture and in vivo chicken model experiments were then carried out, including egg testing, clinical symptom observation, immune function analysis, and viral load quantification, to assess the antiviral activity of the optimized formulations.MethodsTo explore the underlying mechanisms, liquid chromatography-mass spectrometry (LC-MS) was combined with network pharmacology to identify 28 active compounds in MXSG-mix and 47 key genes involved in viral replication, inflammation, and apoptosis pathways. Furthermore, molecular docking and RT-qPCR were performed, which confirmed that MXSG-mix downregulated BCL2 expression and interacted with AKT1 and CASP3, thus inhibiting IBV-induced cell apoptosis.Results and discussionThe results showed that both MXSG-mix1 and MXSG-mix2 exhibited superior anti-IBV activity compared to traditional MXSG, effectively reducing viral load and improving immune responses in vivo. In conclusion, integrating TCMICS, LC-MS, and network pharmacology offers a novel paradigm for developing veterinary TCM formulations. The optimized MXSG-mix shows potential as an effective, multi-target therapeutic against IBV, providing valuable insights for future anti-viral drug development in poultry medicine. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1585293>
 
 ---
 

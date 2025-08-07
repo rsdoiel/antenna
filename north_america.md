@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-08-06 14:10:48
+updated: 2025-08-07 06:08:21
 ---
 
 # north america
 
-(date: 2025-08-06 14:10:48)
+(date: 2025-08-07 06:08:21)
+
+---
+
+## It’s About the Corruption
+
+date: 2025-08-07, from: The Contrarian
+
+Ordinary Americans can expose it and hold Trump accountable 
+
+<br> 
+
+<https://contrarian.substack.com/p/its-about-the-corruption>
+
+---
+
+##  Are Corporations Spying On You To Raise Your Prices? 
+
+date: 2025-08-07, from: The Lever News
+
+ What Delta Air Lines’ ticket pricing controversy reveals about the growing threat of “surveillance pricing.”  
+
+<br> 
+
+<https://www.levernews.com/are-corporations-spying-on-you-to-raise-your-prices/>
+
+---
+
+## Evening Roundup, August 6
+
+date: 2025-08-06, from: The Contrarian
+
+Featuring Mimi Marziani; Diamond Brown & Yadira Paz-Martinez; Ari Berman with Jen Rubin; Jennifer Weiss Wolf; Shalise Manza Young; April Ryan & Alexis McGill Johnson; and RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-6>
 
 ---
 
