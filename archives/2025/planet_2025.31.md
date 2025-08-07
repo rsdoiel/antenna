@@ -1,11 +1,231 @@
 ---
 title: planet
-updated: 2025-08-07 06:08:20
+updated: 2025-08-07 14:08:12
 ---
 
 # planet
 
-(date: 2025-08-07 06:08:20)
+(date: 2025-08-07 14:08:12)
+
+---
+
+## US Congress group expresses 'concerns' over Govt's OTB
+
+date: 2025-08-07, from: RTÉ News
+
+A group of US Congress members has written to US Secretary of the Treasury Scott Bessent asking him to consider adding Ireland to a list of countries which boycott Israel if the Occupied Territories Bill (OTB) is passed. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0807/1527435-occupied-territories-bill/>
+
+---
+
+## Pope Leo sends condolences to Ghana mourning victims of helicopter crash
+
+date: 2025-08-07, from: Vatican News
+
+
+                    <p>A papal telegram sent to the President of the Ghana Catholic Bishops’ Conference conveys Pope Leo's condolences to Ghanaians mourning the deaths of ministers, government officials and civilians who perished in the crash of a military helicopter on 6 August.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-sends-condolences-ghana-mourning-victims-helicopter-crash.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-sends-condolences-ghana-mourning-victims-helicopter-crash.html>
+
+---
+
+## PSNI launches plan to build trust with ethnic minorities
+
+date: 2025-08-07, from: RTÉ News
+
+The PSNI has launched a plan to build greater trust with black and ethnic minority communities in Northern Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0807/1527425-psni-plan/>
+
+---
+
+## Watch: What's going on with food prices?
+
+date: 2025-08-07, from: RTÉ News
+
+An investigation by the Competition and Consumer Protection Commission (CCPC) into the grocery retailer sector found there is no evidence indicating any issues regarding competition among retailers in terms of food prices. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0807/1527424-watch-whats-going-on-with-food-prices/>
+
+---
+
+## Conference League recap: Losses for St Pat's and Rovers
+
+date: 2025-08-07, from: RTÉ News
+
+Turkish heavyweights Besiktas hit four first-half goals against St Pat's while Shamrock Rovers lost 1-0 to Ballkani. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0807/1527388-conference-league-st-pats-v-besiktas-updates/>
+
+---
+
+## 17 notifications of abuse allegations in Wicklow centre
+
+date: 2025-08-07, from: RTÉ News
+
+There were 17 notifications of abuse allegations submitted to the Health Information and Quality Authority over a nine-month period relating to residents at a disability centre in Wicklow. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0807/1527417-hiqa-wicklow/>
+
+---
+
+## Three in court over child sexual exploitation in Co Kerry
+
+date: 2025-08-07, from: RTÉ News
+
+Three people have appeared in court charged in connection with the sexual exploitation of four children at addresses in Co Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0807/1527413-child-sexual-exploitation-kerry/>
+
+---
+
+## The Vestal Street Observatory Opening Reception
+
+date: 2025-08-07, from: Vatican Obervatory
+
+Br. Guy Consolmagno gave the blessing for The Vestal Street Opening Reception 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/the-vestal-street-observatory-opening-reception/>
+
+---
+
+## Pope to celebrate Mass in Albano with the poor on August 17
+
+date: 2025-08-07, from: Vatican News
+
+
+                    <p>Pope Leo XIV will celebrate Holy Mass on Sunday, August 17, with the poor assisted by the Diocese in Albano, a small town in the vicinity of Castel Gandolfo, the location of the Papal Residence in the Alban Hills outside Rome.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html>
+
+---
+
+## FG election spend nearly twice that of FF and SF
+
+date: 2025-08-07, from: RTÉ News
+
+Fine Gael spent almost twice as much as both Sinn Féin and Fianna Fáil during last year's local, European and general elections, new figures show. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0807/1527409-election-spending/>
+
+---
+
+## Imam refused court order to be restored to his duties
+
+date: 2025-08-07, from: RTÉ News
+
+Imam Sheikh Hussein Halawa, who has, among others, been locked out of the Islamic Cultural Centre in Clonskeagh, Dublin, since April, has been refused a High Court order requiring his restoration to aspects of his position that do not require the centre to be reopened. 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0807/1527403-imam-islamic-cultural-centre/>
+
+---
+
+## It's better to have some certainty on tariffs - Tánaiste
+
+date: 2025-08-07, from: RTÉ News
+
+Tánaiste Simon Harris has said the introduction of the new US tariff on EU goods provides "some degree of certainty" to businesses. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0807/1527397-ireland-us-tariffs/>
+
+---
+
+## Trump seeking face-to-face talks with Putin as sanctions near
+
+date: 2025-08-07, from: Vatican News
+
+
+                    <p>Officials say U.S. President Donald J. Trump is seeking a direct, face-to-face meeting with Russian President Vladimir Putin as early as next week, in a bid to end Moscow’s war against Ukraine. The announcement followed talks between U.S. envoy Steve Witkoff and President Putin in Moscow. </p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/russia-ukraine-war-united-states-sanctions-talks.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/russia-ukraine-war-united-states-sanctions-talks.html>
+
+---
+
+## Seeing God at play: a Jesuit looks at the stars
+
+date: 2025-08-07, from: Vatican Obervatory
+
+Br. Guy Consolmagno gave a talk at a Melbourne Catholic Professionals event at the Australian Catholic University on July 29, 2025. 
+
+<br> 
+
+<https://melbournecatholic.org/news/seeing-god-at-play-a-jesuit-looks-at-the-stars>
+
+---
+
+## Higher prices for consumers due to US tariff policy - CEO
+
+date: 2025-08-07, from: RTÉ News
+
+An Irish drinks producer has said that distributors in the US will likely hike prices on products impacted by the Trump administration's tariffs on imported goods. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0807/1527387-tariffs-ireland/>
+
+---
+
+## Carney tells Métis leaders Indigenous rights are 'at the core' of major projects law
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7603373.1754586179!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/major-projects-bill-indigenous-20250807.jpg' alt='man speaks at a table' width='620' height='349' title='Prime Minister Mark Carney delivers opening remarks ahead of the Metis Major Projects Summit at the Royal Canadian Geographical Society in Ottawa, on Thursday, Aug. 7, 2025. '/><p>Prime Minister Mark Carney told Métis leaders their voices will be heard and rights respected as the Liberal government implements its legislation to fast-track major projects deemed to be in the national interest.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/carney-metis-summit-c5-1.7603259?cmp=rss>
+
+---
+
+## Starvation deaths in Gaza rise to 197
+
+date: 2025-08-07, from: Vatican News
+
+
+                    <p>The death toll from starvation in Gaza continues to rise. The UN and other aid organizations are warning of a catastrophic situation. WFP Chief, Cindy McCain, says airdrops are not the right solution in a famine situation such as the one unfolding in Gaza where 500,000 people are starving TODAY.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/gaza-war-israel-palestine-starvation.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/gaza-war-israel-palestine-starvation.html>
 
 ---
 
@@ -21,6 +241,102 @@ Two consignments of humanitarian aid for Gaza funded by Ireland have been sittin
 
 ---
 
+## Gaza: Acute malnutrition among children hits record high
+
+date: 2025-08-07, from: United Nations, Top Stories
+
+Acute malnutrition among children in Gaza has reached the highest levels to date as hunger continues to deepen in the enclave, the UN Office for the Coordination of Humanitarian Affairs (OCHA) reported on Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165601>
+
+---
+
+## Abuse during and after childbirth persists globally, WHO warns
+
+date: 2025-08-07, from: United Nations, Top Stories
+
+New evidence suggests mistreatment remains common in maternal and newborn care, with new research across four countries finding that 60 per cent of vaginal exams were done without consent, according to the UN World Health Organization (WHO).&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165599>
+
+---
+
+## UN officials warn of starvation amid ‘gender emergency’ in war-torn Sudan
+
+date: 2025-08-07, from: United Nations, Top Stories
+
+Hungry civilians are reportedly eating animal feed as women and girls face a “gender emergency” in war-torn Sudan, UN officials said on Thursday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165598>
+
+---
+
+## Extreme heat is breaking records worldwide: UN weather agency
+
+date: 2025-08-07, from: United Nations, Climate Change
+
+Extreme heat is breaking records around the world, with wildfires and poor air quality compounding the crisis, according to a report from the World Meteorological Organization (WMO) released Thursday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165597>
+
+---
+
+## Erasure or empowerment? In Africa’s Sahel, women confront a stark choice
+
+date: 2025-08-07, from: United Nations, Top Stories
+
+In Africa’s Sahel region, deepening violence and poverty – driven by displacement, hunger and terrorism – are stripping women and girls of their right to safety, education and a viable future. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165596>
+
+---
+
+## Facing rising risks, landlocked nations launch climate alliance at UN summit
+
+date: 2025-08-07, from: United Nations, Economic Development
+
+Countries agreed Thursday to form a new climate negotiating bloc to advocate for the unique needs of nations without direct access to the sea. The decision was reached at the Third UN Conference on Landlocked Developing Countries (LLDC3), currently under way in Awaza, Turkmenistan. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165595>
+
+---
+
+## Afghan women returnees face rising risks, UN warns
+
+date: 2025-08-07, from: United Nations, Top Stories
+
+The international community must provide greater support to Afghan women and girl returnees from Iran and Pakistan who face increased risk of impoverishment, early marriage and growing threats to their rights and safety.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165594>
+
+---
+
+## Gaza: Hospitals ‘at near-total collapse’, staff overwhelmed by the injured
+
+date: 2025-08-07, from: United Nations, Top Stories
+
+Exhausted UN aid workers in Gaza on Thursday continued to report a lack of food across the enclave, while medical teams warned that hospitals are overwhelmed by a daily influx of injured people and close to “near-total collapse”. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165592>
+
+---
+
 ## Early gains for Trump in trade war but challenges remain
 
 date: 2025-08-07, from: RTÉ News
@@ -33,15 +349,43 @@ US President Donald Trump appears to be winning the trade war he unleashed after
 
 ---
 
-## Police dismantle gang smuggling marijuana to Ireland
+## Carney says government is doubling the Indigenous loan guarantee program
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/781a40a3-abf2-404c-9a6f-bcbbb18cbdcb,1754580648754/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C6949%2C3908%29%3BResize%3D%28620%29' alt='Prime Minister Mark Carney delivers opening remarks ' width='620' height='349' title='Prime Minister Mark Carney delivers opening remarks ahead of the Metis Major Projects Summit at the Royal Canadian Geographical Society in Ottawa, on Thursday, Aug. 7, 2025. THE CANADIAN PRESS/Spencer Colby'/><p>Prime Minister Mark Carney, speaking during his opening remarks at a meeting with Métis leaders in Ottawa on Thursday to discuss the major projects law, says that the increase to the program will finance Indigenous equity ownership of major projects.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6859001?cmp=rss>
+
+---
+
+## Spain police dismantle gang smuggling cannabis to Ireland
 
 date: 2025-08-07, from: RTÉ News
 
-Spanish police, in collaboration with An Garda Síochána and police in the UK, have dismantled a criminal gang suspected of smuggling marijuana hidden inside sacks of animal feed sent to Ireland. 
+Spanish police, in collaboration with An Garda Síochána and police in the UK, have dismantled a criminal gang suspected of smuggling cannabis hidden inside sacks of animal feed sent to Ireland. 
 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0807/1527352-marijuana-gang/>
+
+---
+
+## Pope Leo welcomes Venetian inmates on Jubilee pilgrimage
+
+date: 2025-08-07, from: Vatican News
+
+
+                    <p>Pope Leo XIV on Thursday receives in audience a group of pilgrims from Venice, including three inmates of the city’s Santa Maria Maggiore prison. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-welcomes-venetian-inmates-on-jubilee-pilgrimage.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-welcomes-venetian-inmates-on-jubilee-pilgrimage.html>
 
 ---
 
@@ -66,6 +410,18 @@ A man in his 60s has died following a quad bike accident in Co Mayo.
 <br> 
 
 <https://www.rte.ie/news/connacht/2025/0807/1527332-quad-bike-death/>
+
+---
+
+## 120-year-old B.C. newspaper purchased by local Indigenous-owned corporation
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7602872.1754522937!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/merritt-herald.jpg' alt='White building with the sign &quot;the Merritt Herald&quot; and a yellow newspaper box.' width='620' height='349' title='The Merritt Herald is now under the ownership of local Indigenous corporation, K&apos;en T&apos;em Limited Partnership.'/><p>A 120-year-old publication in B.C.'s Interior has been purchased by an Indigenous-owned corporation that says it is determined to represent and uplift the community it serves.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/merritt-herald-new-ownership-1.7602849?cmp=rss>
 
 ---
 
@@ -157,6 +513,18 @@ Thailand and Cambodia have agreed to extend a ceasefire deal that followed five 
 
 ---
 
+## After walkbacks and confusion, U.S. tariffs kick in for dozens of countries
+
+date: 2025-08-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7603013.1754561514!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='An older cleanshaven man with blone hair is shown speaking at a podium in closeup.' width='620' height='349' title='President Donald Trump is shown Wednesday in the Oval Office. Trump has predicted &apos;unprecedented&apos; economic growth due to the White House&apos;s tariff schemes, but many economists and even some Trump allies are uncertain that will be case.'/><p>President Donald Trump began levying higher import taxes on dozens of countries Thursday, just as the economic fallout of his months-long tariff threats has begun to create headwinds for the U.S. economy.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/global-tariffs-white-house-1.7603010?cmp=rss>
+
+---
+
 ## Romantic relationships with AI chatbots on the rise
 
 date: 2025-08-07, from: RTÉ News
@@ -193,6 +561,18 @@ Teenager Ellie Ryan was just 15 when her father died in a domestic violence inci
 
 ---
 
+## Manitoba health officials admit racism in care of Indigenous man who died of cancer
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7599089.1754064382!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/stephen-rockwell.jpeg' alt='A man in a grey sweater is seated at a table, holding his cellphone in his right hand.' width='620' height='349' title='Stephen Rockwell died in March 2024 at the age of 33. His family says he was subject to racism while trying to access medical care, a sentiment the Northern Regional Health Authority agrees with. '/><p>A Manitoba health authority has admitted an Indigenous man, who died four months after a delayed confirmation his cancer had returned, was subject to racism while seeking treatment.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/stephen-rockwell-indigenous-racism-health-care-hospital-thompson-1.7598186?cmp=rss>
+
+---
+
 ## Former Superman star Dean Cain to join ICE 'ASAP'
 
 date: 2025-08-07, from: RTÉ News
@@ -205,11 +585,11 @@ The American actor Dean Cain, best known for his starring role in the television
 
 ---
 
-## Netanyahu expected to convene security cabinet meeting
+## Israel wants to take control of Gaza, says Netanyahu
 
 date: 2025-08-07, from: RTÉ News
 
-Israel's Prime Minister Benjamin Netanyahu is expected to convene a meeting of his security cabinet later today, amid reports he is preparing to order a full military occupation of Gaza. 
+Israeli Prime Minister Benjamin Netanyahu has said Israel intends to take military control of all of Gaza, despite intensifying criticism at home and abroad over the devastating, almost two-year-old war in the Palestinian enclave. 
 
 <br> 
 
@@ -245,7 +625,7 @@ date: 2025-08-07, from: RTÉ News
 
 date: 2025-08-07, from: RTÉ News
 
-Police investigating the death of Carlow woman Martha Nolan-O'Slattera on board a boat in Long Island, New York, have said a post-mortem examination did not show evidence of violence. 
+Police investigating the death of Carlow woman Martha Nolan-O'Slatarra on board a boat in Long Island, New York, have said a post-mortem examination did not show evidence of violence. 
 
 <br> 
 
@@ -337,6 +717,18 @@ Join us on Sat. Aug. 9th for a discussion with Saige Wilson, our summer intern f
 
 ---
 
+## ⓜ Full Moon-th Meetup with Saige Wilson – August 9, 2025
+
+date: 2025-08-06, from: Vatican Obervatory
+
+Join us on Sat. Aug. 9th for a discussion with Saige Wilson, our summer intern for 2025. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/%e2%93%9c-full-moon-th-meetup-with-saige-wilson-august-9-2025/>
+
+---
+
 ## Europa League qualifier recap: Rijeka 1-2 Shelbourne
 
 date: 2025-08-06, from: RTÉ News
@@ -370,6 +762,30 @@ date: 2025-08-06, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/world/trump-apple-us-manufacturing-investment-1.7602758?cmp=rss>
+
+---
+
+## Air Inuit pilots dissatisfied with lengthy contract negotiations
+
+date: 2025-08-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7602711.1754512630!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/air-inuit-passengers.jpg' alt='Passengers walking on a tarmac toward an Air Inuit plane.' width='620' height='349' title='Air Inuit is fully owned by the Makivvik Corporation, and is one of very few airlines operating in Nunavik.'/><p>After more than a year and a half, pilots working for Air Inuit say negotiations for a new collective agreement have been too slow. The union says the current working conditions and pay scale are hindering retention.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/air-inuit-pilots-long-negotiations-1.7602682?cmp=rss>
+
+---
+
+## B.C. court rejects First Nation's challenge to increase in Mount Polley tailings dam level
+
+date: 2025-08-06, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7602663.1754513740!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/tailings-pond-breach-20140805.jpg' alt='asdf' width='620' height='349' title='An aerial view shows the damage caused by the toxic waste from the Mount Polley Mine tailings pond breach near the town of Likely, B.C., Tuesday, Aug. 5, 2014. '/><p>Xatsull First Nation has lost a bid to stop the height of a tailings dam from being increased at the Mount Polley mine, site of a catastrophic dam collapse 11 years ago.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/first-nations-mount-polley-mine-challenge-1.7602652?cmp=rss>
 
 ---
 
@@ -571,7 +987,7 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
 
@@ -619,7 +1035,7 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 
 ## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
 
@@ -1487,7 +1903,7 @@ The value of salary overpayments to Revenue staff reached almost €1.7 million 
 
 ## Geography shouldn’t define destiny: UN summit on landlocked nations opens in Turkmenistan
 
-date: 2025-08-05, from: United Nations, Top Stories
+date: 2025-08-05, from: United Nations, Economic Development
 
 Breaking down barriers and restoring fairness in global development should be the goal of the Third UN Conference on Landlocked Developing Countries, Secretary-General António Guterres said at its opening in Awaza, Turkmenistan, on Tuesday.&nbsp; 
 
@@ -1559,7 +1975,7 @@ Children in Gaza are dying not just from hunger, but from the total collapse of 
 
 ## The world is demanding action over plastic pollution: UN environment chief
 
-date: 2025-08-05, from: United Nations, Top Stories
+date: 2025-08-05, from: United Nations, Climate Change
 
 High stakes negotiations got underway at the UN Geneva on Tuesday to agree on a legally binding treaty to curb plastic pollution, attended by delegates from nearly 180 countries.&nbsp; 
 
@@ -2201,9 +2617,9 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ---
 
-## The final straw? Plastic pollution talks get underway in Geneva
+## Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Top Stories
+date: 2025-08-04, from: United Nations, Economic Development
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 
@@ -2239,7 +2655,7 @@ Since the beginning of 2025, 600 refugees have arrived in Uganda each day, bring
 
 ## UN urges MPs to deliver on development promises for 600 million in landlocked nations
 
-date: 2025-08-04, from: United Nations, Top Stories
+date: 2025-08-04, from: United Nations, Economic Development
 
 At a major UN forum opening in Awaza, Turkmenistan, this week, parliamentarians from around the world are being urged to take decisive action to improve the lives of more than 600 million people living in landlocked developing countries (LLDCs). 
 
@@ -2828,7 +3244,7 @@ Cholera is ripping through North Darfur, Sudan, threatening thousands of childre
 
 ## Awaza gears up to host UN conference on landlocked developing countries
 
-date: 2025-08-03, from: United Nations, Top Stories
+date: 2025-08-03, from: United Nations, Economic Development
 
 In the city of Awaza, where the Caspian Sea meets the desert, UN and Turkmen flags were raised on Sunday ahead of the Third United Nations Conference on Landlocked Developing Countries (LLDC3), as final preparations continue to welcome world leaders and delegates for a week of high-level talks on boosting development in some of the world’s most geographically disadvantaged nations. 
 

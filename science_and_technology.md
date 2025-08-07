@@ -1,11 +1,299 @@
 ---
 title: science and technology
-updated: 2025-08-07 06:08:24
+updated: 2025-08-07 14:08:16
 ---
 
 # science and technology
 
-(date: 2025-08-07 06:08:24)
+(date: 2025-08-07 14:08:16)
+
+---
+
+## German security researchers say 'Windows Hell No' to Microsoft biometrics for biz
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Hello loophole could let a rogue admin, or a pwned one, inject new facial scans</h4> <p><strong>Black Hat</strong>  Microsoft is <a target="_blank" href="https://www.theregister.com/2022/05/05/microsoft-apple-google-fido/">pushing hard</a> for Windows users to shift from using passwords to its Hello biometrics system, but researchers sponsored by the German government have found a critical flaw in its business implementation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/windows_hello_hell_no/>
+
+---
+
+## AWS offers $1B credit to slash Uncle Sam cloud bills - and lock in as a provider until at least 2028
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>What, you don&#39;t expect them to keep using Microsoft with its Chinese cloud admins, do you?</h4> <p>The US government is about to get more AWS in more places thanks to a new $1 billion deal between Uncle Sam and Amazon. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/gsa_signs_1b_deal_with_aws/>
+
+---
+
+## Think You Can Dance? Check Out These Cockatoos. Research Finds the Parrots Have 30 Moves in Their Repertoire
+
+date: 2025-08-07, from: Smithsonian Magazine
+
+A new study of the birds in online videos and at an Australian zoo revealed 17 dance moves never before documented by scientists 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/think-you-can-dance-check-out-these-cockatoos-research-finds-the-parrots-have-30-moves-in-their-repertoire-180987126/>
+
+---
+
+## Linking Local Lithologies to a Larger Landscape
+
+date: 2025-08-07, from: NASA breaking news
+
+Written by Margaret Deahn, Ph.D. Student at Purdue University NASA’s Mars 2020 rover is continuing to explore a boundary visible from orbit dividing bright, fractured outcrop from darker, smoother regolith (also known as a contact). The team has called this region “Westport,” (a fitting title, as the rover is exploring the western-most rim of Jezero), […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/linking-local-lithologies-to-a-larger-landscape/>
+
+---
+
+## US-French SWOT Satellite Measures Tsunami After Massive Quake
+
+date: 2025-08-07, from: NASA breaking news
+
+Data provided by the water satellite, a joint effort between NASA and the French space agency, is helping to improve tsunami forecast models, benefitting coastal communities. The SWOT (Surface Water and Ocean Topography) satellite captured the tsunami spawned by an 8.8 magnitude earthquake off the coast of Russia’s Kamchatka Peninsula on July 30, 11:25 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swot/us-french-swot-satellite-measures-tsunami-after-massive-quake/>
+
+---
+
+## Microsoft, CISA warn yet another Exchange server bug can lead to 'total domain compromise'
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>No reported in-the-wild exploits…yet</h4> <p>Microsoft and the feds late Wednesday sounded the alarm on another high-severity bug in Exchange Server hybrid deployments that could allow attackers to escalate privileges from on-premises Exchange to the cloud.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/microsoft_cisa_warn_yet_another/>
+
+---
+
+## Scientists Rewrite the Genetic Code of E. Coli, and It's Drastically Different From Anything Found in Nature
+
+date: 2025-08-07, from: Smithsonian Magazine
+
+The synthetic bacteria contain a shorter genetic code with 57 codons rather than 64, freeing up space for further edits that might lead to new drugs or virus-resistant microbes 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-rewrote-the-genetic-code-of-e-coli-and-its-drastically-from-anything-else-found-in-nature-180987098/>
+
+---
+
+## NASA Uses Wind Tunnel to Test Advanced Air Mobility Aircraft Wing
+
+date: 2025-08-07, from: NASA breaking news
+
+The advanced air mobility industry is currently working to produce novel aircraft ranging from air taxis to autonomous cargo drones, and all of those designs will require extensive testing – which is why NASA is working to give them a head-start by studying a special kind of model wing. The wing is a scale model [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-wind-tunnel-to-test-advanced-air-mobility-aircraft-wing/>
+
+---
+
+## NASA changes the rules of the game for commercial space stations
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Aiming to shrink the post-ISS gap, but less orbit time for NASA astronauts?</h4> <p>NASA has moved the goalposts for companies seeking to replace the aging International Space Station (ISS) and changed the minimum capability required to four crew for one-month &#34;increments.&#34; The change means that the permanent occupation of the ISS will be a thing of the past, at least as far as the US space agency is concerned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/nasa_changes_the_rules_of/>
+
+---
+
+## Ancient Romans Loved Fossils Just as Much as We Do, Even Though They May Not Have Fully Understood What They Were
+
+date: 2025-08-07, from: Smithsonian Magazine
+
+The newly discovered trilobite may be hundreds of millions of years old, but its use 2,000 years ago as an amulet is the focus of a new archaeological finding 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ancient-romans-loved-fossils-just-as-much-as-we-do-even-though-they-may-not-have-fully-understood-what-they-were-180987127/>
+
+---
+
+## Politically hot parts of US Constitution briefly deleted thanks to 'coding error'
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Nothing to see here - just removing that old Emoluments Clause and habeas corpus</h4> <p>Several sections of the online annotated US Constitution maintained by the Library of Congress vanished recently due to what the Library maintains was a coding error. However, the content of the now-restored sections has raised suspicions that the move was political. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/feds_says_coding_error_deleted/>
+
+---
+
+## Euro Commish on US lobbying against EU DSA rules: 'Our standards are not up for discussion'
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Tells The Reg they never were ... &#39;and this will not change&#39;</h4> <p>The second Trump administration has repeatedly complained about Europe&#39;s tech laws targeting Silicon Valley&#39;s finest, but now its antipathy is going into overdrive.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/eu_dsa_us_lobbying/>
+
+---
+
+## NASA’s Artemis II Crew Trains in Orion
+
+date: 2025-08-07, from: NASA breaking news
+
+The&#160;Artemis II&#160;crew (from left to right) CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman don their Orion Crew Survival System Suits for a multi-day crew module training beginning July 31, 2025, at the agency’s Kennedy Space Center in Florida. Behind the crew, wearing clean room apparel, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-artemis-ii-crew-trains-in-orion/>
+
+---
+
+## Archaeologists in Mexico Discover Long-Lost City Inhabited by Maya Rebels Who Resisted the Spanish Conquest
+
+date: 2025-08-07, from: Smithsonian Magazine
+
+After Spanish troops seized their capital, the Lacandon Ch'ol established a new settlement called Sac Balam, or the "Land of the White Jaguar" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-in-mexico-discover-long-lost-city-inhabited-by-maya-rebels-who-resisted-the-spanish-conquest-180987123/>
+
+---
+
+## Archaeologists Thought This Ancient Site in Spain Was a Church. Was It Actually a Synagogue?
+
+date: 2025-08-07, from: Smithsonian Magazine
+
+A new study examines artifacts and features of the site that may be associated with Judaism, though researchers caution that more work is needed 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-thought-this-ancient-site-in-spain-was-a-church-was-it-actually-a-synagogue-180987117/>
+
+---
+
+## Black Hat's network ops center brings rivals together for a common cause
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>The Reg goes behind the scenes of the conference NOC, where volunteers &#39;look for a needle in a needle stack&#39;</h4> <p><strong>Black Hat</strong>  Neil &#34;Grifter&#34; Wyler is spending the week &#34;looking for a needle in a needle stack,&#34; a task he&#39;ll perform from the network operations center (NOC) that powers the Black Hat security conference in Las Vegas.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/black_hat_noc_behind_the_scenes/>
+
+---
+
+## NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin
+
+date: 2025-08-07, from: NASA breaking news
+
+Astronomers using NASA’s James Webb Space Telescope have found strong evidence of a giant planet orbiting a star in the stellar system closest to our own Sun. At just 4 light-years away from Earth, the Alpha Centauri triple star system has long been a compelling target in the search for worlds beyond our solar system. […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/>
+
+---
+
+## CISA releases malware analysis for Sharepoint Server attack
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Indications of compromise and Sigma rules report for your security scanners amid ongoing &#39;ToolShell&#39; blitz</h4> <p>CISA has published a malware analysis report with compromise indicators and Sigma rules for &#34;ToolShell&#34; attacks targeting specific Microsoft SharePoint Server versions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/cisa_releases_malware_analysis/>
+
+---
+
+## Three NASA Langley Employees Win Prestigious Silver Snoopy Awards
+
+date: 2025-08-07, from: NASA breaking news
+
+Three employees from NASA’s Langley Research Center in Hampton, Virginia recently earned the Silver Snoopy award, a prestigious honor given to NASA employees and contractors across the agency for exceptional achievements related to spaceflight safety or mission success. Christopher Broadaway, Jeremy Shidner, and Sara Wilson received the awards during a ceremony held at the center [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/langley/three-nasa-langley-employees-win-prestigious-silver-snoopy-awards/>
+
+---
+
+## Trump calls for Intel CEO's head over alleged China links
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Chipzilla boss accused of huge conflict of interest</h4> <p>US President Donald Trump has called for the immediate resignation of Intel&#39;s recently installed chief exec, following concerns raised by a Republican Senator over his links with China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/republican_senator_queries_intel_over/>
+
+---
+
+## As NASA Missions Study Interstellar Comet, Hubble Makes Size Estimate
+
+date: 2025-08-07, from: NASA breaking news
+
+A team of astronomers has taken the sharpest-ever picture of the unexpected interstellar comet 3I/ATLAS using the crisp vision of NASA’s Hubble Space Telescope. Hubble is one of many missions across NASA’s fleet of space telescopes slated to observe this comet, together providing more information about its size and physical properties. While the comet poses […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/>
+
+---
+
+## How Can Math Protect Our Data?
+
+date: 2025-08-07, from: Quanta Magazine
+
+Mary Wootters discusses how error-correcting codes work, and how they are essential for reliable communication and storage.             <p>The post <a href="https://www.quantamagazine.org/how-can-math-protect-our-data-20250807/" target="_blank">How Can Math Protect Our Data?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-can-math-protect-our-data-20250807/>
+
+---
+
+## Snowflake builds Spark clients for its own analytics engine
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>No need to spin up separate Apache Spark clusters, vendor claims</h4> <p>Snowflake is launching a client connector to run Apache Spark code directly in its cloud warehouse - no cluster setup required.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/snowflake_builds_spark_clients_for/>
+
+---
+
+## KLM, Air France latest major organizations looted for customer data
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>Watch out, the phishermen are about, customers told</h4> <p>European airline giants Air France and KLM say they are the latest in a string of major organizations to have their customers&#39; data stolen by way of a break-in at a third party org.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/klm_air_france_latest_major/>
 
 ---
 
@@ -13,7 +301,7 @@ updated: 2025-08-07 06:08:24
 
 date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
 
-<h4>Privacy campaigner Max Schrem&#39;s NOYB is back on Zuck&#39;s back</h4> <p>Meta&#39;s enthusiasm for training its AI on user data is not shared by the users themselves – at least for some Europeans – according a study commissioned by Facebook legal nemesis Max Schrems and his privacy advocacy group Noyb.…</p> 
+<h4>Privacy campaigner Max Schrem&#39;s NOYB is back on Zuck&#39;s back</h4> <p><strong>Updated</strong>  Meta&#39;s enthusiasm for training its AI on user data is not shared by the users themselves – at least for some Europeans – according a study commissioned by Facebook legal nemesis Max Schrems and his privacy advocacy group Noyb.…</p> 
 
 <br> 
 
@@ -239,9 +527,9 @@ A new study finds that when female mountain gorillas move to a new crowd, they l
 
 ## Microsoft researchers bullish on AI security agent even though it let 74% of malware slip through
 
-date: 2025-08-06, updated: 2025-08-06, from: The Register (UK I.T. News)
+date: 2025-08-06, updated: 2025-08-07, from: The Register (UK I.T. News)
 
-<h4>Project Ire promises to use LLMs to detect whether code is malicious or benign</h4> <p>Microsoft has rolled out an autonomous AI agent that it claims can detect malware without human assistance.…</p> 
+<h4>Project Ire promises to use LLMs to detect whether code is malicious or benign</h4> <p><strong>UPDATED</strong>  Microsoft has rolled out an autonomous AI agent that it claims can detect malware without human assistance.…</p> 
 
 <br> 
 

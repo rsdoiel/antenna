@@ -1,11 +1,239 @@
 ---
 title: going electric
-updated: 2025-08-07 06:08:29
+updated: 2025-08-07 14:08:23
 ---
 
 # going electric
 
-(date: 2025-08-07 06:08:29)
+(date: 2025-08-07 14:08:23)
+
+---
+
+## The new Chevy Bolt EV will get cheaper LFP batteries from China’s CATL, at least for now
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/First-look-new-Chevy-Bolt-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Until GM builds its own, the new <a href="https://electrek.co/guides/chevy-bolt/">Chevy Bolt EV</a> will use lower-cost LFP batteries from China’s CATL. GM will temporarily lean on CATL to power its most affordable electric vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl,chevy-bolt,general-motors,gm" data-layer-viewtype="unknown" data-post-id="428807" href="https://electrek.co/2025/08/07/chevy-bolt-ev-cheaper-batteries-chinas-catl/#more-428807" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/chevy-bolt-ev-cheaper-batteries-chinas-catl/>
+
+---
+
+## GM’s Smaller Electric Van Will Be A Hyundai
+
+date: 2025-08-07, from: Inside EVs News
+
+It will likely be a restyled and rebadged version of the yet-to-be-revealed electric version of the Hyundai Staria. 
+
+<br> 
+
+<https://insideevs.com/news/768351/gm-electric-van-hyundai-based/>
+
+---
+
+## Tesla Owes Millions To Contractors Who Helped Build Its Empire
+
+date: 2025-08-07, from: Inside EVs News
+
+Contractors have filed more than $24 million in liens against the automaker for non-payment, according to a new report. 
+
+<br> 
+
+<https://insideevs.com/news/768042/tesla-millions-contractors-owed-bankruptcy/>
+
+---
+
+## This popular Cadillac SUV just dodged the EV axe
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Popular-Cadillac-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite a full lineup of electric models rolling out, <a href="https://electrek.co/guides/cadillac/">Cadillac</a> now plans to keep offering at least one popular gas-powered SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac" data-layer-viewtype="unknown" data-post-id="428774" href="https://electrek.co/2025/08/07/popular-cadillac-suv-just-dodged-ev-axe/#more-428774" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/popular-cadillac-suv-just-dodged-ev-axe/>
+
+---
+
+## Heybike Ranger 3.0 Pro and Mars 3.0 folding e-bikes launch from $1,199, 48-hour EcoFlow sale drops DELTA 3 1500 to new $699 low, more
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Heybike-Ranger-3.0-Pro-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Leading our Green Deal coverage today is the two launch discounts on <a href="https://9to5toys.com/2025/08/07/heybike-ranger-3-0-pro-e-bike-1399/">Heybike’s new flagship Ranger 3.0 Pro Folding Fat-Tire e-bike at $1,399</a> and the <a href="https://9to5toys.com/2025/08/07/heybike-mars-3-0-e-bike-1199-launch/">Mars 3.0 Folding Fat-Tire e-bike at $1,199</a>. From there, we have <a href="https://9to5toys.com/2025/08/07/ecoflow-delta-3-1500-power-station-new-699-low-more/">EcoFlow’s latest 48-hour flash sale</a> that has dropped its <a href="https://9to5toys.com/2025/08/07/ecoflow-delta-3-1500-power-station-new-699-low-more/">DELTA 3 1500 Portable Power Station to a new $699 low</a>, among three other offers on the DELTA Pro Ultra station, WAVE 3, and a 500W alternator charger. We also have Greenworks’ attachment-capable 40V 16-inch Gen 2 Cordless String Trimmer back at its lowest rate, the brand’s 40V 8-inch Cordless Edger at the best price of the year, and a one-day-only discount on Worx’s Nitro 20V Cordless Pruning Shear. Plus, all the hangover savings are at the bottom of the page, like yesterday’s first savings on the new <a href="https://9to5toys.com/2025/08/06/bluetti-elite-30-v2-power-station-from-199/">Bluetti Elite 30 V2 power station</a> and its bundle, the $750 post-tariff deal on <a href="https://9to5toys.com/2025/08/05/segway-ninebot-f3-smart-ekickscooter-750/">Segway’s F3 eKickScooter</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="428776" href="https://electrek.co/2025/08/07/heybike-ranger-3-0-pro-mars-3-0-e-bikes-ecoflow-more/#more-428776" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/heybike-ranger-3-0-pro-mars-3-0-e-bikes-ecoflow-more/>
+
+---
+
+## The Tesla Autopilot lawsuit floodgates are open, lawyer who beat Tesla is going for round 2
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Autopilot and Full Self-Driving (FSD) lawsuit floodgates are open. We are now starting to see trials and settlements arising from crashes that occurred in 2018-2019 as they work through the legal process.</p>
+
+
+
+<p>Crashes involving Tesla’s ADAS systems have increased significantly since then, and we expect legal actions to escalate following the groundbreaking defeat of Tesla’s primary defense in a trial in Florida.</p>
+
+
+
+<p>The lawyer who beat Tesla in this case is already going for a Round 2.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="428756" href="https://electrek.co/2025/08/07/tesla-autopilot-lawsuit-floodgates-are-open-lawyer-who-beat-tesla-round-2/#more-428756" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/tesla-autopilot-lawsuit-floodgates-are-open-lawyer-who-beat-tesla-round-2/>
+
+---
+
+## I Charged My Kia EV6 Using A Tesla Adapter. Here's What You Can Expect
+
+date: 2025-08-07, from: Inside EVs News
+
+I tried a $250 Tesla NACS-to-CCS adapter on my Kia. It may be a game-changer for EV road trips—with an asterisk, maybe. 
+
+<br> 
+
+<https://insideevs.com/news/768225/kia-ev6-charging-adapter-tesla/>
+
+---
+
+## Toyota’s new EV strategy? If it can’t beat China, it’s teaming up instead
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Toyotas-EV-strategy-China-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>You know how the old saying goes: “If you can’t beat them, join them.” Well, <a href="https://electrek.co/guides/toyota/">Toyota’s</a> new strategy is just that — it’s teaming up with China to lower costs for its upcoming EV models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="428754" href="https://electrek.co/2025/08/07/toyotas-new-ev-strategy-cant-beat-china-teaming-up/#more-428754" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/toyotas-new-ev-strategy-cant-beat-china-teaming-up/>
+
+---
+
+## ZF's New EV Software Tunes Your Car Like A Video Game
+
+date: 2025-08-07, from: Inside EVs News
+
+The German company says automakers can create a “brand DNA with just a few clicks.” 
+
+<br> 
+
+<https://insideevs.com/news/768299/zf-cubix-tuner-chassis-software/>
+
+---
+
+## Did Ford just reveal the name of its ‘breakthrough’ midsize EV pickup?
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Fords-midsize-EV-pickup-name.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new patent hints at the name of <a href="https://electrek.co/guides/ford/">Ford’s</a> upcoming midsize EV pickup. Ford could be reviving an old nameplate for what it’s promising to be a “breakthrough” electric vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="428729" href="https://electrek.co/2025/08/07/ford-reveal-name-new-midsize-ev-pickup/#more-428729" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/ford-reveal-name-new-midsize-ev-pickup/>
+
+---
+
+## Priority launches Skyline e-bike with high-end Pinion gearbox, Gates belt drive, and surprising price
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/priority-skyline-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Priority Bicycles just pulled the wraps off its most advanced electric bike yet, and it’s got some serious hardware under the hood – or rather, in the bottom bracket. Say hello to the absurdly high-end for a direct-to-consumer (D2C) e-bike, the <a href="https://alnk.to/6bXgmc7">Priority Skyline</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="428732" href="https://electrek.co/2025/08/07/priority-launches-skyline-e-bike-with-high-end-pinion-gearbox-gates-belt-drive-and-surprising-price/#more-428732" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/priority-launches-skyline-e-bike-with-high-end-pinion-gearbox-gates-belt-drive-and-surprising-price/>
+
+---
+
+## Why General Motors And Hyundai Building EVs Together Just Makes Sense
+
+date: 2025-08-07, from: Inside EVs News
+
+Plus, the last tax-credit-fueled EV boom has begun and China accelerates kicking Nvidia out of its cars. 
+
+<br> 
+
+<https://insideevs.com/news/768245/gm-hyundai-ev-partnership-commercial/>
+
+---
+
+## Lyten just took over $5B of Northvolt’s battery empire
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Northvolt-Drei-gigafactory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Northvolt’s facilities are about to get a second life in Europe, thanks to a San Jose, California-based lithium-sulfur battery maker: Lyten announced today that it’s acquiring all of Northvolt’s remaining assets in Sweden and Germany.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,lithium-sulfur-battery,lyten,northvolt" data-layer-viewtype="unknown" data-post-id="428650" href="https://electrek.co/2025/08/07/lyten-just-took-over-5b-of-northvolt-battery-empire/#more-428650" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/lyten-just-took-over-5b-of-northvolt-battery-empire/>
+
+---
+
+## Hyundai and GM are combining forces to launch lower-priced pickups, SUVs, an EV, and more
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The two auto giants are teaming up to take on China and others with lower-priced cars. <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and GM will launch five new co-developed vehicles, including a compact SUV, car, and pickup, a midsize pickup, and even an EV. However, the tie-up will involve much more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,hyundai" data-layer-viewtype="unknown" data-post-id="428718" href="https://electrek.co/2025/08/07/hyundai-gm-combine-forces-for-lower-priced-vehicles-evs/#more-428718" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/hyundai-gm-combine-forces-for-lower-priced-vehicles-evs/>
+
+---
+
+## Forget Lightning. Ford’s New EV Pickup May Resurrect A Cult Classic
+
+date: 2025-08-07, from: Inside EVs News
+
+If Ford really will call it the Ranchero, then it had better have style to match. 
+
+<br> 
+
+<https://insideevs.com/news/768290/ford-trademarks-ranchero-name-ev/>
 
 ---
 

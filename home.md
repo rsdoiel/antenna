@@ -1,11 +1,198 @@
 ---
 title: home
-updated: 2025-08-07 06:08:28
+updated: 2025-08-07 14:08:21
 ---
 
 # home
 
-(date: 2025-08-07 06:08:28)
+(date: 2025-08-07 14:08:21)
+
+---
+
+## What is Horseradish and How is it Grown?
+
+date: 2025-08-07, from: California Grown
+
+<p>What IS horseradish? We’re not talking about prepared horseradish, the white paste that adds an undeniably delicious kick to roast beef, but actual horseradish root. We met with Scott Seus in Tulelake, California, to learn more about how horseradish is grown and harvested.  So…what is horseradish? Horseradish is a root vegetable, and part of the [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/what-is-horseradish/" data-wpel-link="internal" target="_self">What is Horseradish and How is it Grown?</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/what-is-horseradish/>
+
+---
+
+## Sustainability Looks Different at Seus Family Farms
+
+date: 2025-08-07, from: California Grown
+
+<p>The Seus Family has farmed in the Tulelake Basin since 1947. As the sun sets on the family’s farm, it’s easy to see why four generations have staked their claim on these lands. To the south, looking out over the Tulelake Wildlife Refuge, the snow-covered peak of Mount Shasta is washed in shades of pale [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/seus-family-farms/" data-wpel-link="internal" target="_self">Sustainability Looks Different at Seus Family Farms</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/seus-family-farms/>
+
+---
+
+## Agreement Reached to Secure Habitat in Lake County Development
+
+date: 2025-08-07, from: California Native Plants Society
+
+<p>Today's agreement will permanently preserve 3,717 acres of the project site, which includes oak woodlands, wetlands, and serpentine areas that are home to dozens of rare plant species.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/agreement-reached-to-secure-habitat-and-reduce-greenhouse-gases-in-lake-county-development-44063">Agreement Reached to Secure Habitat in Lake County Development</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/agreement-reached-to-secure-habitat-and-reduce-greenhouse-gases-in-lake-county-development-44063>
+
+---
+
+## Aaron Paul’s LA Mansion Is Up for Grabs With a Breaking-Bank Price Tag
+
+date: 2025-08-07, from: Family Handyman Blog
+
+<p>Aaron Paul's mansion is up for sale...if you've got a cool $10 million to spend on a century-old home in Los Angeles. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/aaron-paul-mansion-for-sale/">Aaron Paul’s LA Mansion Is Up for Grabs With a Breaking-Bank Price Tag</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/aaron-paul-mansion-for-sale/>
+
+---
+
+## 10 Tips from Real Estate Pros for Buying Your First Home
+
+date: 2025-08-07, from: Family Handyman Blog
+
+<p>First time home buying is not for the faint of heart. Our panel of real estate experts helps make the going a little easier.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/tips-buying-your-first-home/">10 Tips from Real Estate Pros for Buying Your First Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tips-buying-your-first-home/>
+
+---
+
+## From the Archive: How Konrad Wachsmann Became a Prefab Pioneer
+
+date: 2025-08-07, from: Dwell
+
+The superstar architect developed a groundbreaking building style—and later, an entire design philosophy—that place him in rarified air. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-how-konrad-wachsmann-became-a-prefab-pioneer-22fcfd80>
+
+---
+
+## 11 Types of Finches in Texas (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Finches have been a quiet passion of mine for years. Their delicate size, cheerful songs, and surprising variety make them ... </p>
+<p class="read-more-container"><a title="11 Types of Finches in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-types-of-finches-in-texas-with-pictures-and-identification/#more-33399" aria-label="Read more about 11 Types of Finches in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-types-of-finches-in-texas-with-pictures-and-identification/">11 Types of Finches in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-types-of-finches-in-texas-with-pictures-and-identification/>
+
+---
+
+## Part Spy Lair, Part Hobbit House, This Argentinian Home Adapts to the Landscape
+
+date: 2025-08-07, from: Dwell
+
+A swooping green roof gives the residence an underground feel while a glass box for the guest area cantilevers over the top. 
+
+<br> 
+
+<https://www.dwell.com/article/house-moro-tam-arquitectura-hovering-glass-box-green-roof-7151280d>
+
+---
+
+## 11 Types of Woodpeckers in Illinois (Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Illinois is rich in birdlife, and woodpeckers are some of the most fascinating residents you can spot here. With their ... </p>
+<p class="read-more-container"><a title="11 Types of Woodpeckers in Illinois (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-types-of-woodpeckers-in-illinois-pictures-and-identification/#more-33391" aria-label="Read more about 11 Types of Woodpeckers in Illinois (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-types-of-woodpeckers-in-illinois-pictures-and-identification/">11 Types of Woodpeckers in Illinois (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-types-of-woodpeckers-in-illinois-pictures-and-identification/>
+
+---
+
+## After a Divine Intervention, a Converted 19th-Century Church Lists for $3.9M
+
+date: 2025-08-07, from: Dwell
+
+The structure was moved to a 37-acre site in Gilboa, New York, and revamped with five bedrooms, a library, and a lofty living room. 
+
+<br> 
+
+<https://www.dwell.com/article/church-home-conversion-potter-mountain-house-upstate-new-york-real-estate-e69c8dfa>
+
+---
+
+## 43 Common Birds in Colorado (With Pictures and Identification)
+
+date: 2025-08-07, from: Yard Life blog
+
+<p>Colorado’s diverse landscapes from towering mountains to open plains create a perfect home for a vibrant variety of birds. Each ... </p>
+<p class="read-more-container"><a title="43 Common Birds in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/43-common-birds-in-colorado-with-pictures-and-identification/#more-33383" aria-label="Read more about 43 Common Birds in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-common-birds-in-colorado-with-pictures-and-identification/">43 Common Birds in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-common-birds-in-colorado-with-pictures-and-identification/>
+
+---
+
+## Bring Back the Kitchen Radio
+
+date: 2025-08-07, from: Dwell
+
+Smartphones and Spotify may have rendered AM/FM radio obsolete, but re-embracing the device in my household reminded me that there’s joy in letting yourself be surprised. 
+
+<br> 
+
+<https://www.dwell.com/article/best-am-fm-kitchen-radio-bac90db3>
+
+---
+
+## A Kitschy Balboa Island Cottage Got a Colorful, Quirky Makeover
+
+date: 2025-08-07, from: Sunset Magazine - Living in the West
+
+This Balboa Island home had a lot of potential but needed a design updated. A major renovation turned it into a colorful, charming space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/balboa-island-beach-cottage>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-07, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours The Best Small-Space Ideas to Steal from the Most Stylish Beach Houses Inspiration for compact spaces.  Read more: The Best Small-Space Ideas to Steal from the&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -360,18 +547,6 @@ date: 2025-08-06, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/25-dragonflies-in-florida-with-pictures-and-identification/>
-
----
-
-## Homepage 2025
-
-date: 2025-08-06, from: Sunset Magazine - Living in the West
-
-Travel, Travel Tips I Was Terrified to Fly with My Senior Dog for the First Time. This Airline Made It a Breeze. Pet-friendly travel has reached its peak, so we gave it a go. <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-08-07 06:08:26
+updated: 2025-08-07 14:08:18
 ---
 
 # writing
 
-(date: 2025-08-07 06:08:26)
+(date: 2025-08-07 14:08:18)
+
+---
+
+## How to Trigger Visuals for Your Scripts
+
+date: 2025-08-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-trigger-visuals-for-your-scripts" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Woman%20looking%20upwards%20with%204%20unlit%20lightbulbs%20dangling%20nearby.%20A%20fifth%20lit%20lightbulb%20hangs%20over%20her%20head.png" alt="Woman looking upwards with 4 unlit lightbulbs dangling nearby. A fifth lit lightbulb hangs over her head" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Screenwriting is a visual medium. We know that. We’re taught that. We preach that. But how often do most screenwriters take a step back and ask themselves, <em>“Am I actually writing visually?”</em>&nbsp;<br><br>To make an immediate impact on whoever is reading and considering your work, your screenplays need to make the script reader feel as if they are watching a movie unfold as they read. This is one of the most underrated aspects of screenwriting — writing a visually cinematic script where these three elements pop off of the page:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-trigger-visuals-for-your-scripts>
 
 ---
 

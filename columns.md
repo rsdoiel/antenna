@@ -1,11 +1,158 @@
 ---
 title: columns
-updated: 2025-08-07 06:08:25
+updated: 2025-08-07 14:08:17
 ---
 
 # columns
 
-(date: 2025-08-07 06:08:25)
+(date: 2025-08-07 14:08:17)
+
+---
+
+## August 6, 2025
+
+date: 2025-08-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170393906/69620eb517612ce20e22fe9d2fce3242.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170393906/69620eb517612ce20e22fe9d2fce3242.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-6-2025-0dc>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
+
+That said, it got pretty far toward solving the problem I asked it to work on. Here's a <a href="https://this.how/chatGPT/newsExample1.opml">demo of a page</a> it put together for me of the top 25 articles in US news. 
+
+<br> 
+
+<http://scripting.com/2025/08/07.html#a201005>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
+
+ChatGPT is even <a href="https://daveverse.org/2025/08/07/chatgpt-5-is-even-more-of-a-bastard-than-4/">more of a bastard</a> than 4. 
+
+<br> 
+
+<http://scripting.com/2025/08/07.html#a195107>
+
+---
+
+##  Substack&#8217;s extremist ecosystem is flourishing. &#8220;The Nazi push alert was only possible... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047296-substacks-extremist-ecosy>
+
+---
+
+##  Emily Wilson&#8217;s current project is translating The Odyssey (again). &#8220;I am doing... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047295-emily-wilsons-current-pro>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
+
+A summary of <a href="https://daveverse.org/2025/08/07/catching-up-with-wordland-land/">recent work</a> via my WordLand blog. 
+
+<br> 
+
+<http://scripting.com/2025/08/07.html#a180528>
+
+---
+
+##  The Bluesky Dictionary is tracking every single word used on the social... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047294-the-bluesky-dictionary-is>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
+
+New version of <a href="https://github.com/scripting/feedlandSocket">feedlandSocket</a>. It's now an NPM package you can include in Node projects. The demo is more useful, and there's a <a href="https://www.youtube.com/watch?v=_Q-ks3uytZI">video</a> of what it looks like as it scrolls through the JavaScript console. WebSockets + feeds. A fairly important component of an open social web system. 
+
+<br> 
+
+<http://scripting.com/2025/08/07.html#a173403>
+
+---
+
+##  There&#8217;s a Bend It Like Beckham sequel in the works, says director... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047280-theres-a-bend-it-like>
+
+---
+
+## I clustered four Framework Mainboards to test huge LLMs
+
+date: 2025-08-07, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">I clustered four Framework Mainboards to test huge LLMs</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/framework-mainboard-mini-rack-cluster.jpg" width="700" height="497" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-6590f2e5-dc8c-45b2-9873-38e572fd9b2d" data-insert-attach="{&quot;id&quot;:&quot;6590f2e5-dc8c-45b2-9873-38e572fd9b2d&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Framework Mainboard mini rack cluster on desk"></p>
+
+<p>Framework casually mentioned they were <a href="//www.youtube.com/watch?v=zI6ZQls54Ms)">testing a mini-rack AI cluster</a> in their <a href="https://frame.work/desktop">Framework Desktop</a> presentation back in March.</p>
+
+<p>Imagine my surprise when Nirav Patel, Framework's founder and CEO, was at Open Sauce a couple weeks ago, and wanted to talk! He said they had seen my <a href="https://mini-rack.jeffgeerling.com">Project Mini Rack</a> posts earlier this year and thought it was the perfect application to try out their new AMD Ryzen AI Max+ 395-powered Mainboard, as it's mini ITX dimensions fit inside a 10" rack.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-07T10:00:01-05:00" title="Thursday, August 7, 2025 - 10:00" class="datetime">August 7, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms>
+
+---
+
+##  My Recent Media Diet, the Resistance Edition 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/my-recent-media-diet-the-resistance-edition>
+
+---
+
+##  Potatoes are tomatoes! Ok not exactly, but scientists have worked out that... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047283-potatoes-are-tomatoes-ok->
 
 ---
 
@@ -21,7 +168,7 @@ date: 2025-08-07, from: Alex Schroeder's Blog
 
 <p>As I&rsquo;m writing this, I&rsquo;m idly wondering whether a one-person wiki is automatically a digital garden, whether thinking about terminology is a waste of time &ndash; I used to make fun of Germans who wanted to focus on terminology first and foremost (&ldquo;Begrifflichkeiten!&rdquo;) &ndash; and whether a wiki with comments is still digital garden, and now that I&rsquo;ve thought about it for a bit I&rsquo;m tired and I think it&rsquo;s a waste of time.</p>
 
-<p>In any case, Jessica noted that I like to update pages without rewriting them. I wrote this <a href="Odd%CE%BC">Oddμ</a> feature just for me! The &ldquo;Add&rdquo; link allows me to quickly add to the end of a page without editing the whole page. It&rsquo;s basically the remnant of my old comment system since I kept commenting on my own pages. 😅 I mean, there were people commenting in the past &ndash; and I&rsquo;d like to thank you all if you&rsquo;re still reading! -– but I mostly felt strange commenting on my own pages so often and I decided to embrace this.</p>
+<p>In any case, Jessica noted that I like to update pages without rewriting them. I wrote this <a href="Odd%CE%BC">Oddμ</a> feature just for me! The &ldquo;Add&rdquo; link allows me to quickly add to the end of a page without editing the whole page. This is important when I&rsquo;m on a phone. It&rsquo;s basically the remnant of my old comment system since I kept commenting on my own pages. 😅 I mean, there were people commenting in the past &ndash; and I&rsquo;d like to thank you all if you&rsquo;re still reading! -– but I mostly felt strange commenting on my own pages so often and I decided to embrace this.</p>
 
 <p>I update pages on my blog by adding to them, on purpose. In terms of editorial style it fits with my goal of showing how everything is 🚧 <em>work in progress</em> 🚧 and how arriving someplace can be hard. There are enough places on the web where things look easy and clear and so this approach of mine reflects my lived reality of how I try things and then they don’t work and I come back again with more ideas or I report on how things went.</p>
 
@@ -32,6 +179,20 @@ date: 2025-08-07, from: Alex Schroeder's Blog
 <br> 
 
 <https://alexschroeder.ch/view/2025-08-06-site-structure>
+
+---
+
+## My uncle Ken
+
+date: 2025-08-07, from: Dave Winer's Scripting News
+
+<p>This is a picture of my dear departed <a href="http://scripting.com/2020/04/28/212326.html?title=uncleKenAndAuntDorothy">Uncle Vava</a> taken in the early 1970s in my parents' house in Flushing. It just showed up in my On This Day list on <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0Bx7wYu7ouX1NKksrgxCVFMRQigCwkaxqKDTqeCHRCcJ1i2SPkrXhbUTZFMvKS9Prl?notif_id=1754565616420103&notif_t=feedback_reaction_generic&ref=notif">Facebook</a>, thought it belongs on the blog too. .</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/08/07/uncleVava.png"></center>Ken Kiesler, in the early 70s, hamming it up at a family event. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/07/130251.html?title=myUncleKen>
 
 ---
 
@@ -115,6 +276,66 @@ Members of the House of Representatives are back in their districts for August, 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/august-6-2025>
+
+---
+
+##  Jamelle Bouie on the Death of the Fourth American Republic 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/jamelle-bouie-on-the-death-of-the-fourth-american-republic>
+
+---
+
+##  Watchdog Group Downgrades U.S. From Democracy To Whatever Political System Lobsters Have.... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047290-watchdog-group-downgrades>
+
+---
+
+##  The official online copy of the US Constitution is missing some critical... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047291-the-official-online-copy->
+
+---
+
+##  Classical Statues Dressed Up As Hipsters 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/classical-statues-dressed-up-as-hipsters-1>
+
+---
+
+##  &#8220;At a Wisconsin pond, a pair of cranes is raising an abandoned... 
+
+date: 2025-08-06, updated: 2025-08-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047288-at-a-wisconsin-pond-a>
 
 ---
 
@@ -413,9 +634,9 @@ date: 2025-08-06, updated: 2025-08-06, from: Daring Fireball
 
 ---
 
-## Lawsuit Alleges That Meta Pirated and Seeded Massives Amounts of Porno for Years to Train AI
+## Lawsuit Alleges That Meta Pirated and Seeded Massive Amounts of Porno for Years to Train AI
 
-date: 2025-08-06, updated: 2025-08-06, from: Daring Fireball
+date: 2025-08-06, updated: 2025-08-07, from: Daring Fireball
 
  
 
@@ -451,7 +672,7 @@ Coming soon… … to a hedgerow near you.  ## Quote of the Day ”A hangover i
 
 ## Regarding Those Rumors of Apple Pursuing an Acquisition of Perplexity
 
-date: 2025-08-05, updated: 2025-08-05, from: Daring Fireball
+date: 2025-08-05, updated: 2025-08-07, from: Daring Fireball
 
  
 
@@ -1062,7 +1283,7 @@ The man himself Wonderful portrait of the artist by Hubertus Hierl taken in Augu
 
 ## ★ Substack Raised Another $100 Million, Which, I Bet, Is Already Being Flushed Down the Same Toilet as Their First $100 Million
 
-date: 2025-08-03, updated: 2025-08-03, from: Daring Fireball
+date: 2025-08-03, updated: 2025-08-07, from: Daring Fireball
 
 I firmly believe one could build a very nice business taking 10 percent of subscription revenue for a blogging/newsletter platform, if you could get as nice a roster of popular writers to build on the platform as Substack has. I do not think that’s a $1 billion business, though. 
 

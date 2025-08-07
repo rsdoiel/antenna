@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-07 06:08:27
+updated: 2025-08-07 14:08:20
 ---
 
 # libraries
 
-(date: 2025-08-07 06:08:27)
+(date: 2025-08-07 14:08:20)
 
 ---
 
@@ -103,7 +103,7 @@ date: 2025-08-05, from: Scholarly Kitchen
 
 date: 2025-08-04, from: Association of Research Libraries News
 
-<p>Last Updated on August 6, 2025, 4:32 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, August 5 &#124; Wednesday, August 6 &#124; Thursday,...</p>
+<p>Last Updated on August 7, 2025, 3:57 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus Monday, August 11–Tuesday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-29-september-1-4/">Day in Review (August 4–7)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

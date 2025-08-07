@@ -1,11 +1,123 @@
 ---
 title: food
-updated: 2025-08-07 06:08:30
+updated: 2025-08-07 14:08:23
 ---
 
 # food
 
-(date: 2025-08-07 06:08:30)
+(date: 2025-08-07 14:08:23)
+
+---
+
+## Instant Pot Beef Pho
+
+date: 2025-08-07, from: Bon Appetet
+
+This deeply flavored broth comes together in no time, thanks to toasted spices, browned onions, ginger, beef bones—and pressure, of course. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/instant-pot-pho-vietnamese-beef-noodle-soup>
+
+---
+
+## Cranberry Cream Cheese Muffins
+
+date: 2025-08-07, from: Taste of Home
+
+Moist and chock-full of colorful berries, these marvelous cranberry cream cheese muffins are a seasonal specialty you'll want to make again and again. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cream-cheese-cranberry-muffins/>
+
+---
+
+## Lenox Spice Village Canisters Are Here—But Not for Long
+
+date: 2025-08-07, from: Taste of Home
+
+<p>Looking for more spice village swag? Snag this set of three cottagecore-inspired Lenox Spice Village canisters before they sell out—again. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/lenox-spice-village-canisters/">Lenox Spice Village Canisters Are Here—But Not for Long</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lenox-spice-village-canisters/>
+
+---
+
+## The IceMule Is a Must for Picnics, Road Trips, and Farmers Markets
+
+date: 2025-08-07, from: Bon Appetet
+
+The IceMule is a must for picnics, road trips, and farmers markets. 
+
+<br> 
+
+<https://www.bonappetit.com/story/icemule-cooler-review>
+
+---
+
+## I Tried the New Heinz Ketchup Smoothie from Smoothie King, and I Think I Love It
+
+date: 2025-08-07, from: Taste of Home
+
+<p>They say don't judge a book by its cover, and I say don't judge a smoothie by its ingredients. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/smoothie-king-heinz-ketchup-smoothie/">I Tried the New Heinz Ketchup Smoothie from Smoothie King, and I Think I Love It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/smoothie-king-heinz-ketchup-smoothie/>
+
+---
+
+## Best Hard Coolers for Hardcore Camping Trips or Backyard BBQs
+
+date: 2025-08-07, from: Bon Appetet
+
+Ice, ice, baby. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-hard-coolers>
+
+---
+
+## As Coffee Beetles Bore, Researchers Propose Exciting Imaging Solution
+
+date: 2025-08-07, from: Daily Coffee News
+
+<div><img width="620" height="489" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-620x489.jpg" class="attachment-large size-large wp-post-image" alt="CBB study" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-620x489.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-300x237.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-150x118.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-768x606.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer.jpg 1288w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers in Australia say they have developed a faster and more efficient way to detect signs of coffee berry borer (CBB) infestations through imaging software. The researchers noted that coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/07/as-coffee-beetles-bore-researchers-propose-exciting-imaging-solution/>
+
+---
+
+## Build-Outs Of Coffee: Be Bright Coffee In Los Angeles, CA
+
+date: 2025-08-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Be Bright Coffee in Los Angeles, California. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-be-bright-coffee-in-los-angeles-ca-383042.html>
+
+---
+
+## Column: A Roaster’s Call for Tariff Transparency from Importers
+
+date: 2025-08-07, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/DEATON-ROASTING-620x414.jpg" class="attachment-large size-large wp-post-image" alt="DEATON-ROASTING" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/DEATON-ROASTING-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/DEATON-ROASTING-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/DEATON-ROASTING-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/DEATON-ROASTING-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/DEATON-ROASTING.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; When universal 10% tariffs on imports were introduced in April as part of sweeping trade policy changes in the United States, I anticipated disruption. What I did not anticipate... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/07/column-a-roasters-call-for-tariff-transparency-from-importers/>
 
 ---
 
@@ -93,7 +205,7 @@ The wedding industrial complex didn’t interest me, but I jumped at the chance 
 
 date: 2025-08-06, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png" class="attachment-large size-large wp-post-image" alt="caffeine brain" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In a first-of-its-kind study using artificial intelligence and brainwave analysis, researchers from the University of Montreal said caffeine can make the sleeping brain more active and less restful — particularly... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png" class="attachment-large size-large wp-post-image" alt="caffeine brain" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In a first-of-its-kind study using artificial intelligence and brainwave analysis, researchers from the University of Montreal said caffeine can make the sleeping brain more active and less restful — particularly... 
 
 <br> 
 
@@ -141,7 +253,7 @@ BA Bake Club is back with July’s recipe: Jesse’s crusty Cheddar Jalapeño Lo
 
 date: 2025-08-06, from: Daily Coffee News
 
-<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-620x479.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Publisher’s note:&#160;This is Part 4 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence... 
+<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-620x479.jpg" class="attachment-large size-large wp-post-image" alt="Brazil coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Brazil-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>[Publisher’s note:&#160;This is Part 4 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil’s outsize influence... 
 
 <br> 
 
@@ -153,7 +265,7 @@ date: 2025-08-06, from: Daily Coffee News
 
 date: 2025-08-06, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-620x413.webp" class="attachment-large size-large wp-post-image" alt="Story-cover" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-620x413.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-300x200.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-150x100.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-768x512.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover.webp 1335w" sizes="(max-width: 620px) 100vw, 620px" /></div>Agroforestry is gaining ground as a way to protect coffee crops from extreme weather, but smallholders say they need more than advice — they need a better price. Laos has... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-620x413.webp" class="attachment-large size-large wp-post-image" alt="Story-cover" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-620x413.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-300x200.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-150x100.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover-768x512.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/05/Story-cover.webp 1335w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Agroforestry is gaining ground as a way to protect coffee crops from extreme weather, but smallholders say they need more than advice — they need a better price. Laos has... 
 
 <br> 
 

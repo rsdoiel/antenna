@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-08-07 06:08:28
+updated: 2025-08-07 14:08:21
 ---
 
 # motorcycles
 
-(date: 2025-08-07 06:08:28)
+(date: 2025-08-07 14:08:21)
+
+---
+
+## ARCA Menards West Series: 2025 Tri-City Race Preview
+
+date: 2025-08-07, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer This Saturday, August 19, 2025, will be the seventh race of the 2025 ARCA Menards West Series season. We&#8217;re moving into the second half of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-tri-city-race-preview/>
+
+---
+
+## Honda’s Big Scooters Get Some Upgrades, Still Not Coming To the US
+
+date: 2025-08-07, from: Ride Apart, Electric Motorcycle News
+
+The Honda Forza 750 and X-ADV are among the best scooters in their class, and for 2026, they’re getting upgrades like recycled plastic bodywork and an Akrapovic muffler. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768129/2026-honda-forza750-xadv-updates-europe/>
 
 ---
 

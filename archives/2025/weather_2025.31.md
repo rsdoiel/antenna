@@ -1,23 +1,1566 @@
 ---
 title: weather
-updated: 2025-08-07 06:08:25
+updated: 2025-08-07 14:08:18
 ---
 
 # weather
 
-(date: 2025-08-07 06:08:25)
+(date: 2025-08-07 14:08:18)
 
 ---
 
-## There are no tropical cyclones at this time.
+## Tropical Storm Ivo Graphics
 
-date: 2025-08-08, from: Central Pacific Basin Tropical Cyclones
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Thu, 07 Aug 2025 13:00:21 GMT 
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/210226.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP09/EP092025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Ivo 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Thu, 07 Aug 2025 20:55:32 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/210226.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP09/EP092025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Ivo 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Thu, 07 Aug 2025 20:55:33 GMT
+ 
 
 <br> 
 
-<https://www.nhc.noaa.gov/>
+<https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/210226.shtml?cone>
+
+---
+
+## Advisory #015 Wind Field [shp] - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 07 Aug 2025 21:00:31 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep082025_fcst_015.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 07 Aug 2025 21:00:22 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep082025_best_track.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Aug 2025 21:00:19 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep082025_best_track.kmz>
+
+---
+
+## Advisory #015 Forecast [shp] - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 07 Aug 2025 21:00:10 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep082025_5day_015.zip>
+
+---
+
+## Tropical Storm Henriette Graphics
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/210009.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP08/EP082025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Henriette 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Thu, 07 Aug 2025 20:59:56 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/210009.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP08/EP082025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Henriette 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Thu, 07 Aug 2025 20:59:56 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/210009.shtml?cone>
+
+---
+
+## Advisory #015 Forecast Track [kmz] - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Aug 2025 21:00:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP082025_015adv_TRACK.kmz>
+
+---
+
+## Advisory #015 Cone of Uncertainty [kmz] - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Aug 2025 20:59:59 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP082025_015adv_CONE.kmz>
+
+---
+
+## Tropical Storm Ivo Forecast Discussion Number 5
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>ZCZC MIATCDEP4 ALL
+TTAA00 KNHC DDHHMM
+ 
+Tropical Storm Ivo Discussion Number   5
+NWS National Hurricane Center Miami FL       EP092025
+300 PM CST Thu Aug 07 2025
+ 
+Ivo remains a very small tropical cyclone, though an intensifying 
+one. Deep central convection continues to burst near the center, 
+though the vertical structure of the tropical storm does appear more 
+ragged with evidence that the mid-level vortex is tilted to the 
+southwest of the low-level center. A helpful Metop-B scatterometer 
+pass at 1643 UTC captured the tiny circulation with a max wind 
+retrieval of 44 kt. Assuming this instrument undersampled the peak 
+winds of the small cyclone, the initial intensity is being raised to 
+50 kt for this advisory, also close to the latest objective ADT 
+estimate.
+ 
+The tropical storm continues to move quite quickly to the northwest,
+with the motion estimated at 305/18 kt. The track forecast reasoning
+is similar to earlier, where a strong and extensive mid-level ridge
+parked over northern Mexico should keep Ivo moving quickly
+west-northwestward to northwestward for the next 24 hours or so. On
+this forecast track, Ivo will soon begin pulling away from the
+southwestern coast of Mexico. By this weekend, the ridge begins to
+weaken some and the guidance also suggests Ivo will start to become
+more vertically shallow. A combination of these influences should
+result in a westward turn in the track and a slowdown in the forward
+motion. The track guidance for this cycle is quite similar to the
+prior one, and the NHC track forecast is largely an update from
+the previous one, blending the consensus aids HCCA and TVCE.
+ 
+The intensity forecast presents a conundrum this afternoon. Ivo has 
+a small inner core wind field, is over warm 29-30 C ocean waters, 
+and vertical wind shear as diagnosed by SHIPS guidance is low, only 
+5-10 kt. Ordinarily these variables would suggest that Ivo could 
+undergo a period of rapid intensification (RI), and EC-SHIPS-RI 
+guidance now has a 71 percent chance of a 30-kt increase over the 
+next 24 h. However, other RI indices are lower, with DTOPS at only 
+12 percent for the same threshold. There is also evidence that Ivo's 
+structure is not ideal, with current visible satellite imagery 
+suggesting its circulation is tilted southwest with height. This 
+vertical tilt also matches the structure seen in the most recent 
+HAFS-A/B model grids. This may explain why the regional-hurricane 
+models are less aggressive with Ivo's intensification than SHIPS, 
+and only HAFS-B briefly makes Ivo a hurricane. Thus the NHC 
+intensity forecast is not as aggressive as the latest SHIPS 
+guidance, only taking Ivo to a 70 kt hurricane in 24 hours. 
+Thereafter, the storm will cross a sharp sea-surface temperature 
+gradient, which should lead to weakening after 24 hours. Like the 
+previous forecast, Ivo will likely lose its organized deep 
+convection west of Baja California in about 72 hours, where the 
+latest forecast shows it becoming a post-tropical remnant low. The 
+NHC intensity forecast is a little above the reliable HCCA aid, but 
+is lower than both SHIPS and LGEM aids.
+ 
+Given the small radius of tropical-storm-force winds associated with
+Ivo, these winds are expected to remain offshore as it begins to
+move away from Mexico by tonight. However, heavy rain and rough surf
+are likely to occur along portions of the southwest coast of Mexico
+during the next day or so.  Outer bands of Ivo are expected to
+produce locally heavy rainfall in portions of the Mexican states of
+Guerrero, Michoacan de Ocampo and Colima through Friday where flash
+flooding is possible.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  07/2100Z 18.8N 105.8W   50 KT  60 MPH
+ 12H  08/0600Z 20.1N 108.2W   60 KT  70 MPH
+ 24H  08/1800Z 21.1N 110.9W   70 KT  80 MPH
+ 36H  09/0600Z 21.5N 112.8W   65 KT  75 MPH
+ 48H  09/1800Z 21.6N 114.1W   55 KT  65 MPH
+ 60H  10/0600Z 21.7N 115.8W   40 KT  45 MPH
+ 72H  10/1800Z 21.9N 117.5W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 96H  11/1800Z 22.5N 121.0W   25 KT  30 MPH...POST-TROP/REMNT LOW
+120H  12/1800Z...DISSIPATED
+ 
+$$
+Forecaster Papin
+ 
+NNNN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/287593.shtml>
+
+---
+
+## Tropical Storm Henriette Forecast Discussion Number 15
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>ZCZC MIATCDEP3 ALL
+TTAA00 KNHC DDHHMM
+ 
+Tropical Storm Henriette Discussion Number  15
+NWS National Hurricane Center Miami FL       EP082025
+1100 AM HST Thu Aug 07 2025
+ 
+Henriette has been producing a smaller area of deep convection than
+earlier, as it seems to be struggling a bit with dry air and
+sea-surface temperatures near 24 C.  The latest subjective Dvorak
+current intensity estimates are 2.5/35 kt from TAFB and 1.5/25 kt
+from SAB.  The latest objective estimates from UW-CIMMS range from
+about 30 to 40 kt.  A recent 1914 UTC ASCAT-C pass suggests that 
+Henriette has likely weakened a bit from earlier.  Based on the 
+above data, the initial intensity is lowered to 40 kt for this 
+advisory.
+ 
+The motion of 280/14 kt is unchanged from the previous advisory.
+This motion will continue through today as Henriette is steered by
+mid-level ridging well to its north.  The cyclone will then round
+the southwestern periphery of the mid-level ridge as a large
+deep-layer trough approaches from the west.  These features will
+cause Henriette to gradually turn toward the northwest in a couple
+of days.  Very little change has been made to the NHC track
+forecast, which lies near the tightly clustered consensus aids.
+Confidence in the track forecast is high through the weekend, and
+Henriette will not directly impact the Hawaiian Islands.
+ 
+Henriette is expected to continue moving over cool ocean waters near 
+24C for another 36 h before it begins to gradually move over 
+increasing water temperatures.  The tropical storm will also 
+continue moving through a very dry environment.  Most of the 
+guidance shows the storm maintaining a 35-40 kt intensity during 
+this time. Henriette is also expected to encounter colder than 
+normal mid- and upper-level temperatures in a couple of days.  If 
+Henriette survives the next 48 h or so, then strengthening would 
+appear likely later in the forecast period due to increasing 
+sea-surface temperatures, very low vertical wind shear, and 
+decreasing mid- to upper-level temperatures as the aforementioned 
+deep-layer trough approaches. The official forecast shows some 
+slight weakening in the short term, followed by strengthening to a 
+hurricane by day 4 well to the north of Hawaii.  The latest NHC 
+forecast is near the intensity consensus and close to the higher end 
+of the guidance at day 4 and 5.  It should be noted that the HAFS 
+models are showing a slightly higher intensity than the NHC 
+forecast.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  07/2100Z 18.9N 136.8W   40 KT  45 MPH
+ 12H  08/0600Z 19.3N 139.2W   40 KT  45 MPH
+ 24H  08/1800Z 19.9N 142.2W   40 KT  45 MPH
+ 36H  09/0600Z 20.9N 145.0W   40 KT  45 MPH
+ 48H  09/1800Z 22.1N 147.5W   40 KT  45 MPH
+ 60H  10/0600Z 23.5N 150.0W   45 KT  50 MPH
+ 72H  10/1800Z 25.2N 152.3W   55 KT  65 MPH
+ 96H  11/1800Z 28.9N 156.7W   70 KT  80 MPH
+120H  12/1800Z 32.6N 160.6W   65 KT  75 MPH
+ 
+$$
+Forecaster Hagen
+ 
+NNNN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/529870.shtml>
+
+---
+
+## Advisory #005 Wind Field [shp] - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 07 Aug 2025 20:56:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep092025_fcst_005.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 07 Aug 2025 20:55:58 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep092025_best_track.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Aug 2025 20:55:55 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep092025_best_track.kmz>
+
+---
+
+## Advisory #005 Forecast [shp] - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 07 Aug 2025 20:55:46 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep092025_5day_005.zip>
+
+---
+
+## Advisory #005 Forecast Track [kmz] - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Aug 2025 20:55:43 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP092025_005adv_TRACK.kmz>
+
+---
+
+## Advisory #005 Cone of Uncertainty [kmz] - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Aug 2025 20:55:35 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP092025_005adv_CONE.kmz>
+
+---
+
+## Tropical Storm Henriette Forecast Advisory Number 15
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>327 
+WTPZ23 KNHC 072055
+TCMEP3
+ 
+TROPICAL STORM HENRIETTE FORECAST/ADVISORY NUMBER  15
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP082025
+2100 UTC THU AUG 07 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 18.9N 136.8W AT 07/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  14 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT....... 70NE  30SE  30SW  70NW.
+4 M SEAS....120NE  45SE  60SW 105NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.9N 136.8W AT 07/2100Z
+AT 07/1800Z CENTER WAS LOCATED NEAR 18.8N 136.0W
+ 
+FORECAST VALID 08/0600Z 19.3N 139.2W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 70NE  30SE  30SW  60NW.
+ 
+FORECAST VALID 08/1800Z 19.9N 142.2W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 70NE  30SE  30SW  60NW.
+ 
+FORECAST VALID 09/0600Z 20.9N 145.0W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 60NE  30SE  20SW  50NW.
+ 
+FORECAST VALID 09/1800Z 22.1N 147.5W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 60NE  30SE  20SW  50NW.
+ 
+FORECAST VALID 10/0600Z 23.5N 150.0W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  40SE  20SW  50NW.
+ 
+FORECAST VALID 10/1800Z 25.2N 152.3W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  20SE   0SW  20NW.
+34 KT... 60NE  40SE  30SW  50NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 11/1800Z 28.9N 156.7W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 30NE  20SE  15SW  30NW.
+34 KT... 60NE  50SE  30SW  50NW.
+ 
+OUTLOOK VALID 12/1800Z 32.6N 160.6W
+MAX WIND  65 KT...GUSTS  80 KT.
+50 KT... 30NE  30SE  15SW  30NW.
+34 KT... 60NE  50SE  40SW  50NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.9N 136.8W
+ 
+NEXT ADVISORY AT 08/0300Z
+ 
+$$
+FORECASTER HAGEN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/072055.shtml>
+
+---
+
+## Tropical Storm Henriette Wind Speed Probabilities Number 15
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>132 
+FOPZ13 KNHC 072055
+PWSEP3
+                                                                    
+TROPICAL STORM HENRIETTE WIND SPEED PROBABILITIES NUMBER  15        
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP082025               
+2100 UTC THU AUG 07 2025                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM HENRIETTE WAS LOCATED NEAR    
+LATITUDE 18.9 NORTH...LONGITUDE 136.8 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+20N 140W       34 27  36(63)   X(63)   X(63)   X(63)   X(63)   X(63)
+20N 140W       50  1   4( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+20N 145W       34  X   2( 2)  19(21)   2(23)   X(23)   X(23)   X(23)
+20N 145W       50  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+25N 145W       34  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+20N 150W       34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+25N 150W       34  X   X( X)   X( X)   2( 2)  32(34)   2(36)   X(36)
+25N 150W       50  X   X( X)   X( X)   X( X)   7( 7)   1( 8)   X( 8)
+25N 150W       64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+30N 150W       34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+20N 151W       34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+26N 159W       34  X   X( X)   X( X)   X( X)   X( X)   8( 8)   1( 9)
+ 
+25N 160W       34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+30N 160W       34  X   X( X)   X( X)   X( X)   X( X)  12(12)  23(35)
+30N 160W       50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   9(10)
+30N 160W       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+35N 160W       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  24(25)
+35N 160W       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+35N 160W       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+30N 165W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+35N 165W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+$$                                                                  
+FORECASTER HAGEN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/072055.shtml>
+
+---
+
+## Summary - Tropical Storm Henriette (EP3/EP082025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+...HENRIETTE EXPECTED TO PASS WELL TO THE NORTHEAST OF HAWAII ON SUNDAY... As of 11:00 AM HST Thu Aug 07 the center of Henriette was located near 18.9, -136.8 with movement W at 16 mph. The minimum central pressure was 1006 mb with maximum sustained winds of about 45 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATCPEP3.shtml>
+
+---
+
+## Tropical Storm Henriette Public Advisory Number 15
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>065 
+WTPZ33 KNHC 072054
+TCPEP3
+ 
+BULLETIN
+Tropical Storm Henriette Advisory Number  15
+NWS National Hurricane Center Miami FL       EP082025
+1100 AM HST Thu Aug 07 2025
+ 
+...HENRIETTE EXPECTED TO PASS WELL TO THE NORTHEAST OF HAWAII ON
+SUNDAY...
+ 
+ 
+SUMMARY OF 1100 AM HST...2100 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.9N 136.8W
+ABOUT 1195 MI...1920 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM HST (2100 UTC), the center of Tropical Storm Henriette
+was located near latitude 18.9 North, longitude 136.8 West.
+Henriette is moving toward the west near 16 mph (26 km/h). This
+general motion is expected to continue through today, followed by a
+gradual turn toward the northwest Friday and over the weekend,
+keeping the center well to the north of the Hawaiian Islands.
+ 
+Maximum sustained winds have decreased to near 45 mph (75 km/h) 
+with higher gusts. Little change in strength is forecast during the 
+next couple of days followed by gradual intensification.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM HST.
+ 
+$$
+Forecaster Hagen</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/072054.shtml>
+
+---
+
+## Summary - Tropical Storm Ivo (EP4/EP092025)
+
+date: 2025-08-07, from: Eastern Pacific Basin GIS Data
+
+...IVO INTENSIFYING AS IT MAKES ITS CLOSEST APPROACH TO MEXICO... As of 3:00 PM CST Thu Aug 07 the center of Ivo was located near 18.8, -105.8 with movement NW at 21 mph. The minimum central pressure was 1001 mb with maximum sustained winds of about 60 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATCPEP4.shtml>
+
+---
+
+## Tropical Storm Ivo Public Advisory Number 5
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+WTPZ34 KNHC 072053
+TCPEP4
+ 
+BULLETIN
+Tropical Storm Ivo Advisory Number   5
+NWS National Hurricane Center Miami FL       EP092025
+300 PM CST Thu Aug 07 2025
+ 
+...IVO INTENSIFYING AS IT MAKES ITS CLOSEST APPROACH TO MEXICO...
+ 
+ 
+SUMMARY OF 300 PM CST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.8N 105.8W
+ABOUT 410 MI...660 KM WNW OF ACAPULCO MEXICO
+ABOUT 385 MI...625 KM SE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+Interests along the coast of southwestern Mexico should continue to
+monitor the progress of Ivo.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 300 PM CST (2100 UTC), the center of Tropical Storm Ivo was 
+located near latitude 18.8 North, longitude 105.8 West. Ivo is 
+moving toward the northwest near 21 mph (33 km/h). On the forecast 
+track, Ivo is expected to start moving away from the coast of Mexico 
+over the next day or so. The storm is forecast to turn more westward 
+by the weekend. 
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts. 
+Strengthening is forecast for the next day or so, and Ivo could 
+become a hurricane on Friday. 
+ 
+Tropical-storm-force winds extend outward up to 45 miles (75 km)
+from the center.
+ 
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL: Tropical Storm Ivo is expected to produce storm total
+rainfall of 2 to 4 inches, with isolated maximum totals of 6 inches,
+across portions of the Mexican states of Guerrero, Michoacan de
+Ocampo and Colima through Friday. This would result in an elevated
+risk for flash flooding.
+ 
+For a complete depiction of forecast rainfall associated with
+Tropical Storm Ivo please see the National Weather Service Storm
+Total Rainfall Graphic available at
+hurricanes.gov/graphics_ep4.shtml?rainqpf
+ 
+SURF:  Swells generated by Ivo will be affecting the southwestern
+coast of Mexico during the next couple of days. These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+A depiction of rip current risk for the United States can be found
+at: hurricanes.gov/graphics_ep4.shtml?ripCurrnets
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 900 PM CST.
+ 
+$$
+Forecaster Papin</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/072053.shtml>
+
+---
+
+## Tropical Storm Ivo Wind Speed Probabilities Number 5
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>000
+FOPZ14 KNHC 072053
+PWSEP4
+                                                                    
+TROPICAL STORM IVO WIND SPEED PROBABILITIES NUMBER   5              
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP092025               
+2100 UTC THU AUG 07 2025                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM IVO WAS LOCATED NEAR LATITUDE 
+18.8 NORTH...LONGITUDE 105.8 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+50 KTS...60 MPH...95 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  X   6( 6)   2( 8)   1( 9)   X( 9)   X( 9)   X( 9)
+ 
+SAN JOSE CABO  34  X   4( 4)   2( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+ 
+LA PAZ         34  X   2( 2)   2( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+LORETO         34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+20N 110W       34  1  44(45)   1(46)   X(46)   X(46)   X(46)   X(46)
+20N 110W       50  X   7( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+20N 110W       64  X   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+ISLA SOCORRO   34  X   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+ISLA CLARION   34  X   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+20N 115W       34  X   2( 2)   2( 4)   6(10)   2(12)   X(12)   X(12)
+ 
+25N 115W       34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER PAPIN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP4+shtml/072053.shtml>
+
+---
+
+## Tropical Storm Ivo Forecast Advisory Number 5
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>747 
+WTPZ24 KNHC 072052
+TCMEP4
+ 
+TROPICAL STORM IVO FORECAST/ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP092025
+2100 UTC THU AUG 07 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 18.8N 105.8W AT 07/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 305 DEGREES AT  18 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1001 MB
+MAX SUSTAINED WINDS  50 KT WITH GUSTS TO  60 KT.
+50 KT....... 20NE   0SE   0SW   0NW.
+34 KT....... 40NE  40SE   0SW  30NW.
+4 M SEAS....120NE  45SE  60SW 105NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.8N 105.8W AT 07/2100Z
+AT 07/1800Z CENTER WAS LOCATED NEAR 18.3N 105.0W
+ 
+FORECAST VALID 08/0600Z 20.1N 108.2W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 20NE  15SE   0SW  15NW.
+34 KT... 40NE  40SE  20SW  30NW.
+ 
+FORECAST VALID 08/1800Z 21.1N 110.9W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 10NE   5SE   0SW  10NW.
+50 KT... 25NE  15SE  10SW  20NW.
+34 KT... 40NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 09/0600Z 21.5N 112.8W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 10NE   0SE   0SW   0NW.
+50 KT... 30NE  20SE  10SW  25NW.
+34 KT... 50NE  40SE  30SW  40NW.
+ 
+FORECAST VALID 09/1800Z 21.6N 114.1W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE   0SE   0SW  20NW.
+34 KT... 40NE  30SE  30SW  40NW.
+ 
+FORECAST VALID 10/0600Z 21.7N 115.8W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 30NE  20SE  20SW  30NW.
+ 
+FORECAST VALID 10/1800Z 21.9N 117.5W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 11/1800Z 22.5N 121.0W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+OUTLOOK VALID 12/1800Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.8N 105.8W
+ 
+NEXT ADVISORY AT 08/0300Z
+ 
+$$
+FORECASTER PAPIN</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/072052.shtml>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0329 PM CDT Thu Aug 07 2025
+
+Valid 091200Z - 151200Z
+
+A large upper-level trough positioned over the northern Rockies and
+northern Great Plains will gradually shift east this weekend.
+Meanwhile, an upper-level ridge over the Southwest will shift
+westward and build across much of the West by D5/Monday. Thereafter,
+another upper-level trough is forecast to enter the Pacific
+Northwest.
+
+...Dry Thunderstorms: D3/Saturday - D4/Sunday...
+Residual moisture beneath the ridge should allow for a continuation
+of afternoon thunderstorm potential through at least D4/Sunday for
+portions of the Southwest amid low environmental PWAT values and
+receptive fuels. 10% probabilities have been maintained for the
+region through Sunday. Thunderstorm potential may extend into early
+next week though limited predictability within the weak-flow regime
+beyond D4/Sunday precludes introducing any additional highlights.
+
+...Wind/RH: D3/Saturday...
+Some enhanced upper-level flow associated with the exiting trough
+may linger over portions of the Southwest to result in diurnally
+driven wind/RH concerns for portions of the region on D3/Saturday,
+and potentially extending into D4/Sunday. For now, have added 40%
+probabilities on D3/Saturday and will continue to monitor potential
+for the region thereafter.
+
+Wind/RH concerns may begin to emerge early next week for portions of
+the Pacific Northwest and northern Great Basin, as enhanced flow
+with the onshoring trough overspreads the region. However,
+considerable spread exists among medium-range guidance regarding the
+timing/placement/magnitude of this trough, precluding the
+introduction of any highlights at this time.
+
+..Karstens.. 08/07/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
+## SPC - No watches are valid as of Thu Aug  7 20:35:02 UTC 2025
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Aug  7 20:35:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 1897
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1897.html"><img src="https://www.spc.noaa.gov/products/md/mcd1897.png" border="1" alt="MD 1897 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1897
+NWS Storm Prediction Center Norman OK
+0254 PM CDT Thu Aug 07 2025
+
+Areas affected...parts of western and central North Dakota
+
+Concerning...Severe potential...Watch possible 
+
+Valid 071954Z - 072200Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...Uncertainty lingers concerning potential thunderstorm
+coverage and sustenance into and through 5-7 PM CDT.  However, any
+sustained thunderstorm development may include rapidly intensifying
+supercells accompanied by a risk for large hail, locally damaging
+wind gusts  and perhaps a couple of tornadoes.
+
+DISCUSSION...Along and southeast of a weak baroclinic zone, near the
+leading edge of air impacted by outflow from now dissipated
+convective development, boundary-layer air with seasonably high
+moisture content is becoming characterized by moderate to strong
+potential instability.  This is being supported by steep
+lower/mid-tropospheric lapse rates associated a broad plume of warm
+and capping elevated mixed-layer air overspreading much of the Great
+Plains.  
+
+Based on latest model output and objective analysis, the northern
+periphery of the stronger capping may now be north of the surface
+front, roughly near/northwest of the Dickinson through Garrison and
+Minot vicinities.  However, large-scale scale ascent associated with
+lower/mid-tropospheric warm advection, a subtle mid-level short wave
+perturbation, and localized area of enhanced low-level convergence
+might be sufficient to overcome mid-level inhibition and support the
+initiation of at least isolated thunderstorm development late this
+afternoon.  If this occurs, there appears potential for rapid
+intensification, and the evolution of a large supercell, in the
+presence of moderate to strong deep-layer shear beneath 30-40 kt
+southwesterly flow around 500 mb. 
+
+The environment appears conducive to the potential for large hail,
+locally damaging surface gusts, and, despite modest low-level
+hodographs, a risk for a couple of tornadoes.
+
+..Kerr/Hart.. 08/07/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BIS...
+
+LAT...LON   47540379 48680138 48179986 47190026 46830139 47080353
+            47540379 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...85-115 MPH
+MOST PROBABLE PEAK WIND GUST...65-80 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.50-2.50 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1897.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1897.html>
+
+---
+
+## SPC MD 1896
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1896.html"><img src="https://www.spc.noaa.gov/products/md/mcd1896.png" border="1" alt="MD 1896 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1896
+NWS Storm Prediction Center Norman OK
+0249 PM CDT Thu Aug 07 2025
+
+Areas affected...Parts of central and eastern Montana
+
+Concerning...Severe potential...Watch possible 
+
+Valid 071949Z - 072145Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...Large hail and severe wind gusts will be possible this
+afternoon, especially as storms move into eastern Montana. A watch
+is possible when storm intensity trends become evident.
+
+DISCUSSION...A broad area of mid-level ascent is evident on visible
+satellite imagery in southwestern Montana. This forcing has promoted
+widely scattered thunderstorms early this afternoon. Mid/upper
+clouds associated with this band of ascent has so far kept buoyancy
+rather weak near the terrain. Farther east, surface dewpoints have
+gradually increased into the low/mid 50s F to mid/upper 60s F near
+the North Dakota border. Given the strong ascent, it is likely that
+scattered storms will eventually develop. Lingering MLCIN is present
+from around Billings eastward. This should erode some with
+additional afternoon heating. The main point of uncertainty is when
+storms will intensify. This will probably occur in the next 2-3
+hours when storms encounter greater moisture. Strong shear and
+increasing buoyancy as convection moves east will support a threat
+for initial supercells capable of large hail and severe winds.
+Temperature-dewpoint spreads are large enough that storms will tend
+to be outflow dominant and may congeal into one or more clusters. A
+watch is possible this afternoon, but timing of when this will be
+needed is not clear.
+
+..Wendt/Hart.. 08/07/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...BYZ...GGW...TFX...
+
+LAT...LON   45980948 47040947 47780714 47610594 46700476 45970475
+            45390582 45470810 45980948 
+
+MOST PROBABLE PEAK WIND GUST...65-80 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.50-2.50 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1896.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1896.html>
+
+---
+
+## SPC Aug 7, 2025 2000 UTC Day 1 Convective Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0259 PM CDT Thu Aug 07 2025
+
+Valid 072000Z - 081200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS PORTIONS
+OF THE NORTHERN PLAINS....
+
+...SUMMARY...
+Scattered severe thunderstorms are expected later today into tonight
+across the northern Plains. The most likely corridor is centered on
+North Dakota, where a few tornadoes, very large hail, and a
+conditional risk for significant severe gusts are possible.
+
+...20z Update Northern Plains...
+Early afternoon surface and satellite observations show low-level
+convergence increasing along the intersection of an outflow
+boundary/composite front and weak lee low over eastern MT. Along and
+south of the front, strong diurnal heating should gradually
+destabilize a very moist air mass with dewpoints in the low 70s F.
+Large to extreme CAPE is expected, owing to steep mid-level lapse
+rates, though with some capping likely to remain in place with
+southward extent. Rapid thunderstorm initiation appears probable
+this afternoon along the low-level convergence zone and in the
+higher terrain farther west as a shortwave trough proceeding the
+primary mid-level wave over the Northern Rockies ejects eastward.
+Initial storm mode is likely to be supercellular along or on the
+immediate cool side of the surface boundary. This would initially
+favor a large hail risk (some significant), and the potential for a
+few tornadoes, should storms become surface based.
+
+Tonight, the primary uncertainty continues to be small-scale storm
+dynamics governing upscale growth and the potential for bowing
+MCS/rear-inflow jet development. Should this occur relatively early
+on in the convective evolution (as shown by some CAMs), significant
+damaging winds (Gusts 80+ mph) are possible across portions of ND/SD
+through tonight. However, this remains highly uncertain and
+conditional. Regardless of the initial evolution, significant ascent
+from the primary upper trough ejecting eastward appears robust
+enough to support upscale growth with any ongoing convection and
+additional storms emanating from eastern MT later tonight. This
+could result in one or more clusters of strong storms capable of
+damaging gusts, hail and a tornado or two. Given recent trends, have
+shifted the northern bound of the level 3 Enhanced northward and
+eastward across ND/MN for significant damaging wind potential.
+Otherwise, see MCD #1896 and #1897 for short-term information.
+
+..Lyons.. 08/07/2025
+
+.PREV DISCUSSION... /ISSUED 1114 AM CDT Thu Aug 07 2025/
+
+...Eastern MT/Dakotas/Western MN...
+A large upper trough is digging into the Pacific Northwest region
+today, with several shortwave perturbations tracking from the
+northern Great Basin into MT/ND.  One feature is currently over
+eastern MT and has been fostering scattered thunderstorms across
+that region.  Convection in this area is currently in a diurnal
+lull, but may re-invigorate later this afternoon across parts of
+central ND as daytime heating/destabilization occurs.  Backed
+low-level winds, dewpoints in the 70s, and high CAPE values will
+promote a favorable environment for a few supercells capable of very
+large hail, a few tornadoes, and damaging wind gusts.  These storms
+could persist into the evening, tracking into western MN.
+
+Another shortwave trough currently over western ID will overspread
+the mountains of ID/western MT this afternoon, promoting the
+development of scattered strong storms.  This activity should
+intensify further as it moves into a very moist/unstable airmass
+across southeast MT, with a consensus of CAM guidance suggesting
+upscale growth into a bowing complex by early evening.  As these
+storms progress rapidly eastward across ND/northern SD, there
+remains the potential for a swath of significant wind damage, along
+with large hail and a tornado or two.  Some guidance suggests the
+MCS will remain severe well into the night, affecting parts of
+western/central MN.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Aug 7, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0229 PM CDT Thu Aug 07 2025
+
+Valid 091200Z - 101200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM NORTHEAST IA
+TO NORTHEAST WI...
+
+...SUMMARY...
+Isolated severe thunderstorms are possible on Saturday into Saturday
+night from the Upper Great Lakes to the Lower Missouri Valley, and
+across a portion of the central to southern High Plains. A more
+concentrated swath of severe is possible from northeast Iowa to
+northeast Wisconsin.
+
+...Upper Great Lakes to the Lower MO Valley...
+Have maintained the level 2-SLGT risk as-is, with primary change to
+expand level 1-MRGL eastward in MI to MO. Spatial confidence is low
+on mesoscale details, especially given the large spread in CAM
+guidance for late D2 convective evolution upstream in MN. The
+convectively modified cold front should slow its eastward
+progression as the upstream shortwave trough/mid-level low stalls.
+The bulk of moderately enhanced mid-level southwesterlies should
+remain to the cool side of the front, with a pronounced
+cross-boundary gradient from northwest to southeast. This should
+generally yield multicell clustering with an uptick in intensity as
+diurnal destabilization occurs from IA to upper MI. The
+trailing/western portion of the daytime storm swath should be a
+focus for regenerative nocturnal storm development, as a low-level
+jet noses across the Lower MO Valley. Sporadic strong to isolated
+severe gusts and perhaps hail may linger into Saturday night.
+
+...Central/southern High Plains...
+A cold front sweeping south on D2 should become quasi-stationary
+over the southern High Plains around the TX Panhandle on D3.
+Isolated storms are possible along the boundary with a threat for
+sporadic microbursts amid hot temperatures south of the front. More
+organized severe potential should be focused in the post-frontal
+regime along the Front Range. This should be centered on northeast
+CO amid stronger mid-level westerlies within the base of a stalled
+trough south of a low over the southern Prairie Provinces. This
+could yield a few supercells in the afternoon to evening and have
+expanded the level 2-MRGL risk north. Still, confidence is low on
+whether more than weak buoyancy will be present.
+
+..Grams.. 08/07/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0159 PM CDT Thu Aug 07 2025
+
+Valid 081200Z - 091200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF THE GREAT BASIN INTO
+THE CENTRAL ROCKIES...
+
+Minor changes were made to the isolated dry thunderstorm area near
+the Four Corners region to shift the area slightly eastward, based
+on 12z CAM guidance. Also, the Elevated area was expanded eastward
+into portions of north-central Colorado where dry/breezy downslope
+winds are expected amid at least marginally receptive fuels.
+Otherwise, the balance of the previous forecast remains on track.
+See the discussion below for more details.
+
+..Karstens.. 08/07/2025
+
+.PREV DISCUSSION... /ISSUED 0156 AM CDT Thu Aug 07 2025/
+
+...Synopsis...
+Moderate-strong midlevel westerly flow will be in place across the
+Great Basin into the central Rockies -- between a robust midlevel
+trough over the northern Rockies/High Plains and midlevel
+anticyclone over the southern Rockies/High Plains. 
+
+...Great Basin into the Central Rockies...
+Similar to Day 1/Thursday, a diurnally deepening boundary layer will
+extend well into the moderate-strong westerly flow aloft. This will
+promote an expansive overlap of single-digit to lower teens RH and
+20-25 mph sustained westerly surface winds (with higher gusts).
+These hot, dry, and windy conditions atop receptive fuels will lead
+to another day of critical fire-weather conditions. 
+
+...Dry Thunderstorms - Southwest into the central Rockies...
+Diurnal heating/mixing beneath an established midlevel moisture
+plume from the Southwest into the central Rockies will favor another
+day of isolated to widely scattered high-based thunderstorms during
+the afternoon. Associated inverted-V soundings and 0.50 to 0.75 inch
+PW will support mostly dry storms, capable of producing
+lightning-induced ignitions over dry fuels and gusty/erratic outflow
+winds.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Aug 7, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1230 PM CDT Thu Aug 07 2025
+
+Valid 081200Z - 091200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS IN THE EASTERN
+DAKOTAS TO WESTERN LAKE SUPERIOR...
+
+...SUMMARY...
+Scattered severe thunderstorms are possible across parts of the
+Upper Midwest, mainly Friday evening into early morning Saturday.
+Scattered damaging winds and large hail, along with a tornado or two
+are possible.
+
+...Synopsis...
+A messy/complex setup remains evident on Friday afternoon into early
+morning Saturday. In the wake of multiple MCSs on D1, guidance
+consensus has trended farther east with the effective cold front by
+late afternoon. This boundary should be centered on northwest MN to
+eastern NE then arcing westward but pushing southward through the
+central High Plains. The bulk of large-scale ascent and strong
+mid/upper-level flow will lag behind this front in the northern
+Great Plains, typical of amplified shortwave troughs impinging on a
+ridge emanating north-northeastward from a stout anticyclone over
+the Southwest. 
+
+...Dakotas to northwest WI...
+Elevated convection may be ongoing at 12Z Friday and should persist
+through the day across most of ND and northern SD, within a
+post-frontal environment. Isolated severe hail and strong to
+marginal severe gusts are possible with this activity. Strengthening
+low-level convergence and ascent along/ahead of the front should
+await Friday evening, with increasing storm coverage and severe
+potential into Friday night. Anafrontal aspects of the synoptic
+setup and near-parallel alignment of the deep-layer shear vector
+with respect to the front should support a rapid transition to
+cluster/linear mode. With very large MLCAPE likely prevalent ahead
+of the front, potential for a QLCS producing damaging winds may
+evolve overnight. Guidance differs substantially in the corridor of
+where this would be favored with split signals across northern MN or
+southern MN. For this outlook cycle, have broadened the level 2-SLGT
+risk and will defer to later outlooks for a potential wind-driven
+ENH centered somewhere in MN. 
+
+...Black Hills/NE Panhandle...
+12Z CAM and ML guidance are insistent on at least an isolated large
+hail scenario within the post-frontal environment characterized by
+northerly surface winds. A lobe of decreasing buoyancy should linger
+behind the front but will shift south with time. A few discrete
+supercells are possible from mid-afternoon to early evening amid a
+strong southwesterly mid-level jet. But much of the convection
+should be quickly undercut and may become rather elevated, dependent
+on timing of the front and low-level drying behind it. As such, have
+deferred to the D1 outlooks for a mesoscale hail-driven SLGT.
+
+..Grams.. 08/07/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-08-07, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu Aug 7 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center has issued the final advisory on <br>Post-Tropical Cyclone Dexter, located over the north-central <br>Atlantic Ocean.<br><br>1. Off the Southeastern United States:<br>A non-tropical area of low pressure is expected to form over the <br>next day or two, a few hundred miles offshore of North Carolina.  <br>Some tropical or subtropical development is possible this weekend <br>while the system moves northeastward over the warm waters of the <br>Gulf Stream, off the east coast of the United States.  By early next <br>week, the low is expected to reach colder water and more hostile <br>conditions, ending its chance for tropical or subtropical <br>development.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br>2. Central Tropical Atlantic (AL96):<br>A tropical wave over the central tropical Atlantic is producing <br>disorganized shower activity. Environmental conditions are forecast <br>to become more conducive for gradual development in a few days, and <br>a tropical depression could form late this weekend or early next <br>week while the system moves west-northwestward to northwestward <br>across the central tropical and subtropical Atlantic.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br><br><br>Forecaster Hagen<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-08-07, from: Central Pacific Basin Tropical Cyclones
+
+000<br />ACPN50 PHFO 071725<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Aug 07 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical<br />Storm Henriette, located well east of the Hawaiian Islands.<br />Henriette is expected to move into the Central Pacific basin by<br />tonight. The National Hurricane Center is also issuing<br />advisories on Tropical Storm Ivo, located over the eastern<br />Pacific offshore of the coast of Southwestern Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO<br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br />Forecast/Advisories on Tropical Storm Ivo are issued under<br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br /><br />$$<br />Forecaster Papin<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 071725<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Aug 7 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Henriette, located well east of the Hawaiian Islands. <br />Henriette is expected to move into the Central Pacific basin by <br />tonight. The National Hurricane Center is also issuing <br />advisories on Tropical Storm Ivo, located over the eastern <br />Pacific offshore of the coast of Southwestern Mexico. <br /><br />Tropical cyclone formation is not expected over the next 7 days. <br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO <br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4. <br />Forecast/Advisories on Tropical Storm Ivo are issued under <br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4. <br /><br />$$<br />Forecaster Papin 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-08-07, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 071725<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Aug 7 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Henriette, located well east of the Hawaiian Islands. <br />Henriette is expected to move into the Central Pacific basin by <br />tonight. The National Hurricane Center is also issuing <br />advisories on Tropical Storm Ivo, located over the eastern <br />Pacific offshore of the coast of Southwestern Mexico. <br /><br />Tropical cyclone formation is not expected over the next 7 days. <br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO <br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4. <br />Forecast/Advisories on Tropical Storm Ivo are issued under <br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4. <br /><br />$$<br />Forecaster Papin 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-08-07, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 071725<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Aug 07 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical<br />Storm Henriette, located well east of the Hawaiian Islands.<br />Henriette is expected to move into the Central Pacific basin by<br />tonight. The National Hurricane Center is also issuing<br />advisories on Tropical Storm Ivo, located over the eastern<br />Pacific offshore of the coast of Southwestern Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO<br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br />Forecast/Advisories on Tropical Storm Ivo are issued under<br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br /><br />$$<br />Forecaster Papin<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1138 AM CDT Thu Aug 07 2025
+
+Valid 071700Z - 081200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF THE GREAT BASIN INTO
+THE CENTRAL ROCKIES...
+
+A narrow area delineating potential for isolated dry thunderstorms
+was added to portions of central Idaho, northwest Wyoming, and far
+southwest Montana. A small zone of isolated storms is possible in
+this region this afternoon, south of more widespread activity across
+Montana and vicinity, amid low PWAT values and receptive fuels.
+
+Elsewhere, minor refinements were made to the isolated dry thunder
+area near the Four Corners region, where storm potential has
+decreased, along with some expansion eastward into north-central New
+Mexico and south-central Colorado, based on 12z CAM guidance and
+updated fuel guidance.
+
+A minor expansion was also made to the Elevated area into
+east-central Wyoming and vicinity where dry/breezy downsloping
+west-southwesterly winds should extend later this afternoon.
+
+..Karstens.. 08/07/2025
+
+.PREV DISCUSSION... /ISSUED 0156 AM CDT Thu Aug 07 2025/
+
+...Synopsis...
+Within the base of a robust midlevel trough moving across the
+northern Rockies, a belt of enhanced deep-layer west-southwesterly
+flow will overspread the Great Basin into the central Rockies -- to
+the north of an expansive midlevel anticyclone centered over the
+southern Rockies.
+
+...Great Basin into the Central Rockies...
+Diurnal heating will yield deep boundary-layer mixing into the
+enhanced flow aloft across the Great Basin into the central Rockies.
+As a result, widespread single-digit to lower teens RH will develop
+amid 20-25 mph sustained west-southwesterly surface winds. Given
+increasingly dry/receptive fuels, another day of critical
+fire-weather conditions are expected. 
+
+...Dry Thunderstorms - Southwest into the Central Rockies...
+Within a plume of midlevel moisture extending from the Southwest
+into the central Rockies, diurnally driven high-based thunderstorms
+are expected -- with a focus over the higher terrain. These storms
+will be mostly dry, owing to inverted-V soundings (0.50 to 0.70 inch
+PW) -- posing a risk of lightning-induced ignitions and strong
+outflow winds.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Aug 7, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1114 AM CDT Thu Aug 07 2025
+
+Valid 071630Z - 081200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+INTO TONIGHT ACROSS MUCH OF NORTH DAKOTA...
+
+...SUMMARY...
+Scattered severe thunderstorms are expected later today into tonight
+across the northern Plains. The most likely corridor is centered on
+North Dakota, where a few tornadoes, very large hail, and
+significant severe gusts are possible.
+
+...Eastern MT/Dakotas/Western MN...
+A large upper trough is digging into the Pacific Northwest region
+today, with several shortwave perturbations tracking from the
+northern Great Basin into MT/ND.  One feature is currently over
+eastern MT and has been fostering scattered thunderstorms across
+that region.  Convection in this area is currently in a diurnal
+lull, but may re-invigorate later this afternoon across parts of
+central ND as daytime heating/destabilization occurs.  Backed
+low-level winds, dewpoints in the 70s, and high CAPE values will
+promote a favorable environment for a few supercells capable of very
+large hail, a few tornadoes, and damaging wind gusts.  These storms
+could persist into the evening, tracking into western MN.
+
+Another shortwave trough currently over western ID will overspread
+the mountains of ID/western MT this afternoon, promoting the
+development of scattered strong storms.  This activity should
+intensify further as it moves into a very moist/unstable airmass
+across southeast MT, with a consensus of CAM guidance suggesting
+upscale growth into a bowing complex by early evening.  As these
+storms progress rapidly eastward across ND/northern SD, there
+remains the potential for a swath of significant wind damage, along
+with large hail and a tornado or two.  Some guidance suggests the
+MCS will remain severe well into the night, affecting parts of
+western/central MN.
+
+..Hart/Wendt.. 08/07/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -122,18 +1665,6 @@ threat for at least isolated hail and damaging wind.
 
 ---
 
-## SPC - No watches are valid as of Thu Aug  7 12:55:02 UTC 2025
-
-date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Aug  7 12:55:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
 ## SPC - No MDs are in effect as of Thu Aug  7 12:55:02 UTC 2025
 
 date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -168,74 +1699,6 @@ alt="Tropical Storm Ivo 34-Knot Wind Speed Probabilities" width="500" height="40
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
-
-date: 2025-08-07, from: Central Pacific Basin Tropical Cyclones
-
-679 <br />ACPN50 PHFO 071133<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Thu Aug 07 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical<br />Storm Henriette, located well east of the Hawaiian Islands.<br />Henriette is expected to move into the Central Pacific basin<br />Thursday night. The National Hurricane Center is also issuing<br />advisories on Tropical Storm Ivo, located offshore of the coast of<br />Southwestern Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO<br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br />Forecast/Advisories on Tropical Storm Ivo are issued under<br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br /><br />$$<br />Forecaster Papin<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
-
-680 <br />ABPZ20 KNHC 071133<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Thu Aug 7 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Henriette, located well east of the Hawaiian Islands. <br />Henriette is expected to move into the Central Pacific basin <br />Thursday night. The National Hurricane Center is also issuing <br />advisories on Tropical Storm Ivo, located offshore of the coast of <br />Southwestern Mexico. <br /><br />Tropical cyclone formation is not expected over the next 7 days. <br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO <br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4. <br />Forecast/Advisories on Tropical Storm Ivo are issued under <br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4. <br /><br />$$<br />Forecaster Papin 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-08-07, from: Eastern Pacific Tropical Weather Outlook
-
-680 <br />ABPZ20 KNHC 071133<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Thu Aug 7 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems: <br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Henriette, located well east of the Hawaiian Islands. <br />Henriette is expected to move into the Central Pacific basin <br />Thursday night. The National Hurricane Center is also issuing <br />advisories on Tropical Storm Ivo, located offshore of the coast of <br />Southwestern Mexico. <br /><br />Tropical cyclone formation is not expected over the next 7 days. <br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO <br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4. <br />Forecast/Advisories on Tropical Storm Ivo are issued under <br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4. <br /><br />$$<br />Forecaster Papin 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-08-07, from: Central Pacific Tropical Weather Outlook
-
-679 <br />ACPN50 PHFO 071133<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Thu Aug 07 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical<br />Storm Henriette, located well east of the Hawaiian Islands.<br />Henriette is expected to move into the Central Pacific basin<br />Thursday night. The National Hurricane Center is also issuing<br />advisories on Tropical Storm Ivo, located offshore of the coast of<br />Southwestern Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public Advisories on Tropical Storm Ivo are issued under WMO<br />header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br />Forecast/Advisories on Tropical Storm Ivo are issued under<br />WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br /><br />$$<br />Forecaster Papin<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-08-07, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Thu Aug 7 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Dexter, located over the north-central Atlantic Ocean.<br><br>1. Off the Southeastern United States:<br>A weak area of low pressure located a couple of hundred miles off <br>the coast of the southeastern United States is producing minimal <br>shower and thunderstorm activity.  Some slow tropical or subtropical <br>development is possible over the weekend while the system moves <br>northward to northeastward, remaining well off the east coast of the <br>United States.  By early next week, the low is expected to become <br>extratropical, ending its chances for tropical development.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br>2. Central Tropical Atlantic (AL96):<br>A tropical wave over the central tropical Atlantic is producing <br>disorganized shower activity. Environmental conditions are forecast <br>to become more conducive for gradual development in a few days, and <br>a tropical depression could form late this weekend or early next <br>week while the system moves west-northwestward to northwestward <br>across the central tropical and subtropical Atlantic.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br><br><br>Forecaster Hagen<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
 ## Tropical Storm Henriette Graphics
 
 date: 2025-08-07, from: Eastern Pacific Basin Tropical Cyclones
@@ -267,30 +1730,6 @@ Initial and Forecast Surface Winds. Shapefile last updated Thu, 07 Aug 2025 08:4
 <br> 
 
 <https://www.nhc.noaa.gov/gis/forecast/archive/ep082025_fcst_013.zip>
-
----
-
-## Preliminary Best Track [shp] - Tropical Storm Henriette (EP3/EP082025)
-
-date: 2025-08-07, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Thu, 07 Aug 2025 08:48:14 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep082025_best_track.zip>
-
----
-
-## Preliminary Best Track [shp] - Tropical Storm Henriette (EP3/EP082025)
-
-date: 2025-08-07, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Thu, 07 Aug 2025 08:48:10 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep082025_best_track.kmz>
 
 ---
 
@@ -342,18 +1781,6 @@ Initial and Forecast Surface Winds. Shapefile last updated Thu, 07 Aug 2025 08:4
 
 ---
 
-## Preliminary Best Track [shp] - Tropical Storm Ivo (EP4/EP092025)
-
-date: 2025-08-07, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Thu, 07 Aug 2025 08:46:56 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep092025_best_track.zip>
-
----
-
 ## SPC Aug 7, 2025 Day 4-8 Severe Weather Outlook
 
 date: 2025-08-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -401,18 +1828,6 @@ the timing of the front, is highly uncertain at this time.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/day4-8/>
-
----
-
-## Preliminary Best Track [shp] - Tropical Storm Ivo (EP4/EP092025)
-
-date: 2025-08-07, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Thu, 07 Aug 2025 08:46:53 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep092025_best_track.kmz>
 
 ---
 
@@ -686,18 +2101,6 @@ Forecaster Bucci</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/070844.shtml>
-
----
-
-## Summary - Tropical Storm Ivo (EP4/EP092025)
-
-date: 2025-08-07, from: Eastern Pacific Basin GIS Data
-
-...IVO RACING WEST-NORTHWESTWARD OFF THE SOUTHWESTERN MEXICAN COASTLINE... As of 3:00 AM CST Thu Aug 07 the center of Ivo was located near 15.9, -103.0 with movement WNW at 23 mph. The minimum central pressure was 1008 mb with maximum sustained winds of about 40 mph. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATCPEP4.shtml>
 
 ---
 
@@ -1032,18 +2435,6 @@ FORECASTER JELSEMA (CPHC)</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/070842.shtml>
-
----
-
-## Summary - Tropical Storm Henriette (EP3/EP082025)
-
-date: 2025-08-07, from: Eastern Pacific Basin GIS Data
-
-...HENRIETTE MAINTAINS ITS STRENGTH WELL TO THE EAST OF HAWAII... As of 11:00 PM HST Wed Aug 06 the center of Henriette was located near 18.4, -133.9 with movement W at 16 mph. The minimum central pressure was 1004 mb with maximum sustained winds of about 45 mph. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATCPEP3.shtml>
 
 ---
 
@@ -1863,465 +3254,6 @@ FORECASTER D. ZELINSKY</pre>
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/062053.shtml>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0337 PM CDT Wed Aug 06 2025
-
-Valid 081200Z - 141200Z
-
-A mid-level trough will gradually traverse the Interior West through
-the remainder of this week, ejecting into the Plains by this
-weekend. Thereafter, upper ridging will prevail west of the Rockies
-through most of next week. The passage of the mid-level trough on
-Day 3 (Friday) will encourage 20+ mph sustained southwesterly
-surface winds to overlap with 10-20 percent RH on a widespread basis
-across portions of the Great Basin into the Rockies. Given receptive
-fuels, up to 70 percent Critical probabilities have been introduced,
-particularly for areas expected to experience dry/windy conditions
-for several hours Friday afternoon. Across the Four Corners into the
-Southwest, enough mid-level moisture will linger each day through
-Sunday to support thunderstorm initiation given adequate mid-level
-buoyancy and orographic lift. These storms will develop atop a dry
-boundary layer, which should encourage at least a few dry strikes
-amid dry fuel beds, warranting 10 percent dry thunderstorm
-probabilities into the weekend.
-
-..Squitieri.. 08/06/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC Aug 6, 2025 2000 UTC Day 1 Convective Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0258 PM CDT Wed Aug 06 2025
-
-Valid 062000Z - 071200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS PARTS OF THE
-CENTRAL/NORTHERN PLAINS TO THE UPPER MISSISSIPPI VALLEY AND
-MINNESOTA...
-
-...SUMMARY...
-Isolated strong to severe thunderstorms are possible across parts of
-the northern/central Plains to the Mid-Mississippi Valley, and over
-part of northern Minnesota this afternoon and tonight.
-
-...20z Update...
-The prior forecast remains largely on track with minimal changes.
-Current observations show stout capping in place over much of the
-central Plains. However, robust surface heating of a seasonably
-moist air mass (surface dewpoints upper 60s to low 70s F) is ongoing
-across parts of South Dakota and northern Nebraska. With continued
-heating this afternoon, gradual destabilization is expected to
-continue. Initial high-based convection should develop late this
-afternoon across eastern WY and western SD, and will gradually move
-eastward into moderate to large buoyancy. With 40 kt of mid-level
-flow also in place, there exists the potential for isolated
-supercells with hail and damaging gusts as the primary threats. The
-main uncertainty for higher severe probabilities today remains the
-nebulous forcing for ascent which should continue to favor
-sparse/isolated storm coverage into early evening.
-
-...Eastern Plains and Missouri Valley to Midwest...
-Afternoon model guidance continues to show an increase in convection
-tonight associated with low-level warm air advection from the
-expected 30-40 kt low-level jet. The highest confidence in scattered
-storms is from the eastern half of SD/NE into parts of IA and
-southern MN late tonight. With steep mid-level lapse rates above a
-predominately stable boundary layer, hail and isolated damaging gust
-are possible. The MRGL risk was adjusted over southern NE to better
-match recent model guidance for higher storm coverage.
-
-Otherwise, the outlook remains unchanged. See the prior discussion
-for the previous discussion.
-
-..Lyons.. 08/06/2025
-
-.PREV DISCUSSION... /ISSUED 1129 AM CDT Wed Aug 06 2025/
-
-...Northern/Central Plains into the Mid MS Valley...
-Water-vapor imagery late this morning shows a quasi-zonal flow
-regime from the northern Intermountain region east into the central
-Great Plains.  A disturbance along the ND/Canadian border will
-continue east into the western ON vicinity late tonight.  Weak
-mid-level height rises are forecast over the northern Great Plains
-downstream  of a trough moving east into the northwestern CONUS from
-the eastern Pacific.  A belt of stronger mid-level flow (i.e. around
-40 kt at 500 mb) will extend across the region, and  diurnal heating
-of the moist airmass in place will foster moderate to strong
-buoyancy. 
-
-Forecast soundings show a vigorous combination of shear/buoyancy but
-nebulous forcing mechanisms suggest storm coverage later
-today/tonight will likely remain isolated/sparse.  Little in the way
-of large-scale forcing for ascent will contribute to suppressing
-convective development through at least mid afternoon.  Considerable
-uncertainty in storm development is apparent in convection-allowing
-models and some of these models show isolated storms perhaps
-favoring the greater Black Hills area.  Will maintain a Marginal
-risk (level 1 of 5) despite favorable environmental conditions for
-supercells.  Later tonight in association with low-level warm-air
-advection, a cluster or two of storms may evolve from the eastern
-half of SD/NE into the lower MO Valley/mid MS Valley.  An isolated
-hail/wind threat could accompany this activity. 
-
-...Northern MN...
-A few storms may develop along the southern periphery of the
-Canadian Prairies shortwave upper trough and surface low. Lapse
-rates will be weaker across this area and the favorable
-thermodynamic environment will be narrow. Any stronger storms will
-likely remain close to the international border, but could produce
-locally strong gusts or marginal hail.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Aug 6, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0227 PM CDT Wed Aug 06 2025
-
-Valid 081200Z - 091200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE RED
-RIVER VALLEY OF THE NORTH...
-
-...SUMMARY...
-Scattered severe thunderstorms are possible across a portion of the
-northern Great Plains and Upper Midwest, mainly from late afternoon
-into the night on Friday.
-
-...North-Central States...
-A messy/complex setup is expected across the region with low
-confidence on a higher-end severe weather episode. In the wake of
-multiple MCSs on Thursday night, one of which may yield high-end
-severe across ND, remnant convective outflows may modulate mesoscale
-enhancement of severe potential along the cold front Friday. This
-front is progged to be centered from the Red River Valley across
-eastern SD by late afternoon. The bulk of large-scale ascent and
-strong mid/upper-level flow will lag behind this front in the
-northern Great Plains, typical of amplified shortwave troughs
-impinging on a ridge emanating north-northeast from a stout
-anticyclone over the Southwest. Isolated severe hail from elevated
-convection will be possible north/east of the Black Hills.
-
-Low-level convergence and increasing ascent towards the front should
-yield scattered storm development by evening in the Red River
-Valley, with more isolated development across the Mid-MO Valley
-vicinity overnight. Large buoyancy should be prevalent ahead of the
-front which will aid in scattered severe-storm potential. Anafrontal
-aspects of the synoptic setup and near-parallel alignment of the
-deep-layer shear vector with respect to the front should support a
-mainly cluster type mode with a mix of severe wind/hail. Supercells
-should be more favored in eastern ND and during initial development
-along the front, which could pose a threat for significant severe
-hail. Otherwise, a few transient supercells are possible Friday
-evening/night near the Black Hills to NE Panhandle vicinity where a
-lobe of enhanced buoyancy persists in the post-frontal airmass.
-
-..Grams.. 08/06/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0155 PM CDT Wed Aug 06 2025
-
-Valid 071200Z - 081200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF THE GREAT BASIN INTO
-THE CENTRAL ROCKIES...
-
-Much of the forecast remains on track, with only minor changes made
-to ongoing highlights to reflect the latest guidance consensus.
-
-..Squitieri.. 08/06/2025
-
-.PREV DISCUSSION... /ISSUED 0155 AM CDT Wed Aug 06 2025/
-
-...Synopsis...
-A robust midlevel trough will advance eastward across the
-northwestern CONUS, while an expansive large-scale ridge remains in
-place across the southern Rockies and adjacent Plains.
-
-...Great Basin into the Central Rockies...
-Compared to Day 1/Wednesday, slightly stronger deep-layer
-west-southwesterly flow will overspread the Great Basin into the
-central Rockies -- between the robust midlevel trough and expansive
-large-scale ridge. Diurnal heating amid a dry antecedent air mass
-will yield deep boundary-layer mixing into the strengthening flow
-aloft, resulting in 5-10 percent RH and 20-25 mph sustained
-west-southwesterly surface winds (with higher gusts). These hot,
-dry, and windy conditions atop receptive fuels will lead to another
-critical fire-weather day across the region. 
-
-...Dry Thunderstorms - Southwest into the Central Rockies...
-Midlevel moisture beneath the expansive large-scale ridge will once
-again contribute to inverted-V soundings and sufficient instability
-for diurnally driven high-based thunderstorms. Around 0.5 to 0.70
-inch PW will favor dry thunderstorms, and given receptive fuels,
-lightning-induced ignitions will be a continued concern (along with
-strong/erratic outflow winds).
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Aug 6, 2025 1730 UTC Day 2 Convective Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1228 PM CDT Wed Aug 06 2025
-
-Valid 071200Z - 081200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS IN ND...
-
-...SUMMARY...
-Scattered severe thunderstorms are expected from mid-afternoon into
-the night on Thursday. The most likely corridor is centered on North
-Dakota where a few tornadoes, very large hail, and significant
-severe gusts are possible.
-
-...Northern Great Plains...
-Potential for intense supercells growing upscale into a severe MCS
-appears increasingly likely across ND, with a swath of scattered
-supercells possible across eastern MT. 
-
-A shortwave trough will amplify across the Northwest and northern
-Rockies with a seasonably vigorous impulse rotating through the
-base. Downstream mid/upper ridging will shift east from the Dakotas
-to MN, coincident with expansion of a stout EML characterized by
-very steep lapse rates. This will overspread increasing
-boundary-layer moisture from evapotranspiration across the Corn
-Belt, and yield large to extreme buoyancy from southern ND to the
-Mid-MO Valley by late afternoon Thursday. A strengthening baroclinic
-zone along the northwest periphery of the MLCAPE plume should aid in
-increasing thunderstorm development towards mid-afternoon across
-western ND. Supercells capable of very large hail and a few
-tornadoes are possible. The initially zonal and moderate mid/upper
-flow regime will favor upscale growth. Numerous 12Z CAMs support
-this scenario with indications of a severe MCS spreading eastward,
-mainly across ND during the evening before gradually waning
-overnight in MN. Uncertainty does exist on how far south the MCS may
-build into SD and how far east the damaging wind threat will be
-maintained in MN amid nocturnally increasing MLCIN. 
-
-Scattered thunderstorms will also develop across the higher terrain
-of southwest/south-central MT by late afternoon to early evening.
-Initial storms should generally pose a marginal severe threat until
-they impinge on the western periphery of the eastern MT buoyancy
-plume in the evening. Deep-layer shear profiles should support
-mainly discrete supercells with some clustering possible late. A mix
-of both scattered large hail and severe gusts are possible. The
-eastern extent of the threat overnight into western ND and far
-northwest SD should be modulated by the earlier round of
-supercells/MCS.
-
-...IL to western Upper MI...
-Nebulous, low-probability severe wind/hail potential is evident
-along the northeast lobe of the expansive buoyancy plume over the
-central states on Thursday into Thursday night. Most guidance
-indicates potential for a minor MCV or two from remnants of late D1
-convection, ahead of a mid-level ridge over the Dakotas to MN. These
-may focus mesoscale corridors of diurnal storm development from IL
-to western Upper MI, but latitudinal uncertainty is large. In
-addition, modest low-level warm theta-e advection northeast of the
-Lower MO Valley to IA jet could support a corridor or two of
-regenerative convection Thursday night. Amid moderate mid-level
-northwesterlies, sporadic strong storms are anticipated with a few
-severe storms possible.
-
-..Grams.. 08/06/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## SPC Aug 6, 2025 1630 UTC Day 1 Convective Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1129 AM CDT Wed Aug 06 2025
-
-Valid 061630Z - 071200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-THE NORTHERN/CENTRAL PLAINS TO THE MID-MISSISSIPPI VALLEY. AND PART
-OF NORTHERN MINNESOTA...
-
-...SUMMARY...
-Isolated strong to severe thunderstorms are possible across parts of
-the northern/central Plains to the Mid-Mississippi Valley, and over
-part of northern Minnesota this afternoon and tonight.
-
-...Northern/Central Plains into the Mid MS Valley...
-Water-vapor imagery late this morning shows a quasi-zonal flow
-regime from the northern Intermountain region east into the central
-Great Plains.  A disturbance along the ND/Canadian border will
-continue east into the western ON vicinity late tonight.  Weak
-mid-level height rises are forecast over the northern Great Plains
-downstream  of a trough moving east into the northwestern CONUS from
-the eastern Pacific.  A belt of stronger mid-level flow (i.e. around
-40 kt at 500 mb) will extend across the region, and  diurnal heating
-of the moist airmass in place will foster moderate to strong
-buoyancy. 
-
-Forecast soundings show a vigorous combination of shear/buoyancy but
-nebulous forcing mechanisms suggest storm coverage later
-today/tonight will likely remain isolated/sparse.  Little in the way
-of large-scale forcing for ascent will contribute to suppressing
-convective development through at least mid afternoon.  Considerable
-uncertainty in storm development is apparent in convection-allowing
-models and some of these models show isolated storms perhaps
-favoring the greater Black Hills area.  Will maintain a Marginal
-risk (level 1 of 5) despite favorable environmental conditions for
-supercells.  Later tonight in association with low-level warm-air
-advection, a cluster or two of storms may evolve from the eastern
-half of SD/NE into the lower MO Valley/mid MS Valley.  An isolated
-hail/wind threat could accompany this activity. 
-
-...Northern MN...
-A few storms may develop along the southern periphery of the
-Canadian Prairies shortwave upper trough and surface low. Lapse
-rates will be weaker across this area and the favorable
-thermodynamic environment will be narrow. Any stronger storms will
-likely remain close to the international border, but could produce
-locally strong gusts or marginal hail.
-
-..Smith/Wendt.. 08/06/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2025-08-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1113 AM CDT Wed Aug 06 2025
-
-Valid 061700Z - 071200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF THE GREAT BASIN INTO
-THE CENTRAL ROCKIES...
-
-The previous forecast remains on track, with only slight adjustments
-made to the ongoing highlights to reflect the latest guidance
-consensus.
-
-..Squitieri.. 08/06/2025
-
-.PREV DISCUSSION... /ISSUED 0153 AM CDT Wed Aug 06 2025/
-
-...Synopsis...
-Broad midlevel troughing will persist across the northwestern CONUS,
-while an expansive mid/upper-level anticyclone remains centered on
-the Southwest/southern Rockies.
-
-...Great Basin into the Central Rockies...
-Between the midlevel troughing and expansive mid/upper-level
-anticyclone, a belt of enhanced deep-layer west-southwesterly flow
-will remain in place across the Great Basin into the central
-Rockies. A diurnally deepening PBL will extent into this enhanced
-flow aloft, yielding an expansive overlap of around 20 mph sustained
-west-southwesterly surface winds and 10-15 percent RH. These
-conditions, combined with highly receptive fuels, will favor another
-day of critical fire-weather conditions across the region. 
-
-...Dry Thunderstorms - Southwest into the Central Rockies...
-Boundary-layer mixing beneath a plume of well-established midlevel
-moisture extending from the Southwest into the central Rockies will
-yield sufficient instability (characterized by inverted-V soundings)
-for isolated to widely scattered thunderstorm development --
-generally focused along terrain features. PW values of 0.50 to 0.75
-inches will promote mostly dry thunderstorms, which will pose a risk
-of lightning-induced ignitions and strong outflow winds.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 

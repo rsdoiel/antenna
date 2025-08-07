@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-08-07 06:08:28
+updated: 2025-08-07 14:08:22
 ---
 
 # retro computing
 
-(date: 2025-08-07 06:08:28)
+(date: 2025-08-07 14:08:22)
+
+---
+
+## b.log 2025/08/07 - Dem brambuls, Forecast, A more useful RISC OS via Linux, Blog changes, Tidying up space on Linux, Gimp fade-out transparency, Nemo's broken thumbnails?, Linux boot failure.
+
+date: 2025-08-07, from: Richard Murray's blog
+
+Dem brambuls, Forecast, A more useful RISC OS via Linux, Blog changes, Tidying up space on Linux, Gimp fade-out transparency, Nemo's broken thumbnails?, Linux boot failure. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250807>
+
+---
+
+## Alan Sugar of Amstrad Speaks to Practical Computing (1985)
+
+date: 2025-08-07, from: Computer ads from the Past
+
+A Quick Look Behind the Scenes at Amstrad. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/practical-computing-interviewed-alan>
 
 ---
 

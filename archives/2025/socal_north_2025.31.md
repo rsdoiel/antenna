@@ -1,27 +1,197 @@
 ---
 title: socal north
-updated: 2025-08-07 06:08:22
+updated: 2025-08-07 14:08:15
 ---
 
 # socal north
 
-(date: 2025-08-07 06:08:22)
+(date: 2025-08-07 14:08:15)
 
 ---
 
-## Cleaner, quieter electric school buses roll into LAUSD
+## One way to help homeless families? Offer them child care services
 
 date: 2025-08-07, updated: 2025-08-07, from: The LAist
 
-The second largest school district in the country reports that 67% of its 1,300 school buses rely on non-diesel fuels, including propane, natural gas and electricity. 
+A family shelter in Woodland Hills unveils a new Head Start center on site, one of only a few such shelters in the state. 
 
 <br> 
 
-<https://laist.com/news/education/los-angeles-unified-school-district-electric-buses-2025>
+<https://laist.com/news/housing-homelessness/woodland-hills-homeless-family-child-care-services>
 
 ---
 
-## Was gold buried under LA 5,000 years ago? How the county partnered with excavators to dig it up
+## Long Beach opens shelter and resource center for homeless youth
+
+date: 2025-08-07, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It's aimed solely at helping those age 18 to 24 in an environment the city hopes will be more welcoming than a typical shelter.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-opens-shelter-and-resource-center-for-homeless-youth">Long Beach opens shelter and resource center for homeless youth</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-opens-shelter-and-resource-center-for-homeless-youth>
+
+---
+
+## California Supreme Court hands victory to rooftop solar panel owners
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Justices told a lower court to revisit their decision to uphold cuts of 75 percent to payments for solar panel owners. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-supreme-court-hands-victory-to-rooftop-solar-panel-owners>
+
+---
+
+## Long Beach puts tiny homes up for sale after failing to find site for planned shelter
+
+date: 2025-08-07, from: Longbeach Post
+
+<figure><img width="1024" height="489" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-1024x489.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-1024x489.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-300x143.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-768x367.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-192x92.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-1536x734.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-2048x979.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-1200x573.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-1568x749.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07120027/screenshot-2025-08-07-at-113900am-044901-ugqwghbv-107211-HjuQQcU3-400x191.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The city hopes to recoup as much money as possible after spending $2.9 million on the project.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-tiny-homes-sale-shelter-failed-site">Long Beach puts tiny homes up for sale after failing to find site for planned shelter</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-tiny-homes-sale-shelter-failed-site>
+
+---
+
+## Federal judge rules cuts to humanities grants were unlawful
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The ruling deems the government's termination of grants from the National Endowment for the Humanities unlawful and allows a lawsuit brought by humanities groups to move forward. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/federal-judge-rules-cuts-to-humanities-grants-were-unlawful>
+
+---
+
+## Two homeless men shot to death under 710 Freeway last night, police say
+
+date: 2025-08-07, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach police say two homeless men were fatally shot last night on an embankment underneath the 710 Freeway just south of Del Amo Boulevard.</p>
+<p>The post <a href="https://lbpost.com/news/crime/two-homeless-men-shot-to-death-under-710-freeway-last-night-police-say">Two homeless men shot to death under 710 Freeway last night, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/two-homeless-men-shot-to-death-under-710-freeway-last-night-police-say>
+
+---
+
+## Back to School, Back to Safety
+
+date: 2025-08-07, from: City of Santa Clarita
+
+<p>By Mayor Bill Miranda As summer winds down in the City of Santa Clarita, I hope you and your family had the chance to enjoy the sunshine, take part in our incredible community events, relax on a vacation or spend time outdoors. But now, as backpacks replace beach bags and students return to class, our [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/07/back-to-school-back-to-safety-2/">Back to School, Back to Safety</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/07/back-to-school-back-to-safety-2/>
+
+---
+
+## Trump calls for US census to exclude for the first time people with no legal status
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Trump is calling for a "new" census that excludes people in the U.S. without legal status. The 14th Amendment requires the "whole number of persons in each state" in a key set of census results. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-calls-for-us-census-to-exclude-for-the-first-time-people-with-no-legal-status>
+
+---
+
+## Man walking his bike across street killed in traffic collision, Long Beach police say
+
+date: 2025-08-07, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It happened around 6:05 p.m. Wednesday on Pacific Place near Wardlow Road, a corridor known for bad crashes.</p>
+<p>The post <a href="https://lbpost.com/news/crime/man-walking-his-bike-across-street-killed-in-traffic-collision-long-beach-police-say">Man walking his bike across street killed in traffic collision, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/man-walking-his-bike-across-street-killed-in-traffic-collision-long-beach-police-say>
+
+---
+
+## Best things to do this weekend in LA and SoCal: August 8-10
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Buddy Guy still sings the blues, Angel City Chorale plays in the Marina, Chez Jay celebrates 66 years and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-august-8-10>
+
+---
+
+## Trump's broad tariffs go into effect, just as economic pain is surfacing
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The White House said that starting just after midnight that goods from more than 60 countries and the European Union would face tariff rates of 10% or higher. 
+
+<br> 
+
+<https://laist.com/news/trumps-broad-tariffs-go-into-effect-just-as-economic-pain-is-surfacing>
+
+---
+
+## Video shows Department of Justice official urging Jan. 6 rioters to 'kill' cops
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The Department of Justice hired a former Jan. 6 defendant who was caught on tape urging rioters to "kill" police. The department calls him a "valued member" of the administration. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/video-shows-department-of-justice-official-urging-jan-6-rioters-to-kill-cops>
+
+---
+
+## ‘We did not want to take this guy’: Abuse rates higher at nursing homes with more mental illness
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Nursing homes are designed to care for patients with physical infirmities. But nationwide, 1 in 5 residents has been diagnosed with a serious mental illness, such as schizophrenia or psychosis — conditions few of the facilities are equipped to handle. 
+
+<br> 
+
+<https://laist.com/news/health/nursing-homes-mental-illness-rates>
+
+---
+
+## SoCal to see triple digit temperatures
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Temperatures to near 105 degrees in the Inland Empire today. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-to-see-triple-digit-temperatures>
+
+---
+
+## Was gold buried under LA 5,000 years ago? A legend that drove a saga
 
 date: 2025-08-07, updated: 2025-08-07, from: The LAist
 
@@ -42,6 +212,18 @@ Jessica Lee Gagné reflects on creating the rigid world of Severance and purpose
 <br> 
 
 <https://laist.com/news/los-angeles-activities/emmy-nominated-severance-cinematographer-directorial-debut-adam-scott>
+
+---
+
+## Cleaner, quieter electric school buses roll into LAUSD
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The second largest school district in the country reports that 67% of its 1,300 school buses rely on non-diesel fuels, including propane, natural gas and electricity. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-school-district-electric-buses-2025>
 
 ---
 
@@ -243,7 +425,7 @@ Despite losing his Altadena home and instruments, the 91-year-old is playing as 
 
 date: 2025-08-06, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/06102838/02282023-coliseumelementary-pu-cm-24-048888-qjsu9vqm-243630-D1nzYu2F.webp 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Since last year about a half-dozen states have attempted to pass laws that would allow schools to charge tuition to noncitizens. None passed, but advocates said they plan to keep trying.</p>
 <p>The post <a href="https://lbpost.com/news/education/students-without-legal-status-have-the-right-to-attend-public-school-will-trump-change-that">Students without legal status have the right to attend public school. Will Trump change that?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -270,7 +452,7 @@ Since last year about a half-dozen states have attempted to pass laws that would
 
 date: 2025-08-06, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1024x683.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-2048x1365.webp 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/05/09113221/trump-signing-executive-order-542614-sz5ax2hl-652894-KIYbmI4T-400x267.webp 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Long Beach was included in a previous list in May. The city says federal funding could still be at risk.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/long-beach-sanctuary-city-list-lawsuit-department-of-justice">Long Beach is absent from DOJ&#8217;s new list of sanctuary cities that could face lawsuits</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -305,11 +487,11 @@ Heat advisories kick in for the inland and valley areas.
 
 ---
 
-## Dozens of SoCal car washes have been raided by ICE. Workers are taking the fall
+## Dozens of SoCal car washes have been raided by ICE. Why aren't employers the focus?
 
 date: 2025-08-06, updated: 2025-08-07, from: The LAist
 
-Hiring unauthorized workers is illegal. But employees, and not employers, have not been the focus of the Trump administration’s recent raids. 
+Notably absent from those facing penalties during this era of stepped-up immigration enforcement are the employers themselves: LAist found just one instance since January in which an employer was penalized for hiring unauthorized workers. 
 
 <br> 
 

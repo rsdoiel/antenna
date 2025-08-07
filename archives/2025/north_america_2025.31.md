@@ -1,11 +1,135 @@
 ---
 title: north america
-updated: 2025-08-07 06:08:21
+updated: 2025-08-07 14:08:14
 ---
 
 # north america
 
-(date: 2025-08-07 06:08:21)
+(date: 2025-08-07 14:08:14)
+
+---
+
+## J.D. Vance Makes his South Park Debut
+
+date: 2025-08-07, from: The Contrarian
+
+"Would you like me to apply the baby oil to Satan&#8217;s asshole, boss?" 
+
+<br> 
+
+<https://contrarian.substack.com/p/jd-vance-makes-his-south-park-debut>
+
+---
+
+## Look on my Works 
+
+date: 2025-08-07, from: The Contrarian
+
+What's in a name? For Trump, a study in doomed ambition. 
+
+<br> 
+
+<https://contrarian.substack.com/p/look-on-my-works>
+
+---
+
+## Is Donald Trump finally turning on Vladimir Putin?
+
+date: 2025-08-07, from: The Contrarian
+
+I hope so, but I have nagging questions. 
+
+<br> 
+
+<https://contrarian.substack.com/p/is-donald-trump-finally-turning-on>
+
+---
+
+##  A Billing Scheme Keeping Your Prescriptions Out Of Reach 
+
+date: 2025-08-07, from: The Lever News
+
+ Health insurers are using “white-bagging” billing practices to boost profits — and undermine patients’ access to meds.  
+
+<br> 
+
+<https://www.levernews.com/a-billing-scheme-keeping-your-prescriptions-out-of-reach/>
+
+---
+
+## But it hurts, doctor
+
+date: 2025-08-07, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/but-it-hurts-doctor>
+
+---
+
+## Health Care CEO Warns of a System on the Brink
+
+date: 2025-08-07, from: Capital and Main
+
+<p>Jarrod McNaughton, who leads Inland Empire Health Plan, says the math points to a crisis California’s safety net can’t sustain.</p>
+<p>The post <a href="https://capitalandmain.com/health-care-ceo-warns-of-a-system-on-the-brink">Health Care CEO Warns of a System on the Brink</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/health-care-ceo-warns-of-a-system-on-the-brink>
+
+---
+
+## Shining a Light on the Destruction of our Government
+
+date: 2025-08-07, from: The Contrarian
+
+The Trump administration promised transparency, but on one of its most consequential priorities, it has gone to great lengths to obfuscate. 
+
+<br> 
+
+<https://contrarian.substack.com/p/shining-a-light-on-the-destruction>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-07, from: The Contrarian
+
+Thursday: Supporting Democrats who fled Texas, protests against ICE and the war in Gaza, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with The Contrarians & Marc Elias
+
+date: 2025-08-07, from: The Contrarian
+
+A recording from Coffee with Contrarians LIVE 08/07 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-and-marc>
+
+---
+
+## The fight for Texas is a fight for democracy: Rep. Chris Turner on why he broke quorum 
+
+date: 2025-08-07, from: The Contrarian
+
+"If you're in a red state, we want to sound the alarm bells, because this disaster may be coming your way soon." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170302098/9cb385da2f39a9c7414b01c18ccbf5c3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170302098/9cb385da2f39a9c7414b01c18ccbf5c3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-fight-for-texas-is-a-fight-for>
 
 ---
 
@@ -94,18 +218,6 @@ date: 2025-08-06, from: The Contrarian
 </audio> <a href="https://api.substack.com/feed/podcast/170273574/f03977cfc867f58ad55fe7f6e282261b.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/republicans-attempt-to-redistrict>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-06, from: The Contrarian
-
-Wednesday: Rage Against the Regime rallies in Kentucky, California, North Carolina, and Pennsylvania, protests in Jerusalem, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

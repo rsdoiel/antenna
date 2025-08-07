@@ -1,11 +1,160 @@
 ---
 title: pacific
-updated: 2025-08-07 06:08:23
+updated: 2025-08-07 14:08:15
 ---
 
 # pacific
 
-(date: 2025-08-07 06:08:23)
+(date: 2025-08-07 14:08:15)
+
+---
+
+## Connecting classrooms to the field: Leeward CC cultivates Hawaiʻi’s agricultural future
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>Leeward <abbr>CC</abbr> is emerging as a hub for cultivating homegrown agriculture talent.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/leeward-cc-cultivates-hawaii-agricultural-future/">Connecting classrooms to the field: Leeward <abbr>CC</abbr> cultivates Hawaiʻi’s agricultural future</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/leeward-cc-cultivates-hawaii-agricultural-future/>
+
+---
+
+## Parents of Caleb Moefa'auo, who died after being pepper sprayed, call for mental health reforms
+
+date: 2025-08-07, from: 
+
+The parents of a man who died in 2022 after being pepper sprayed are calling for mental health reforms. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569372/parents-of-caleb-moefa-auo-who-died-after-being-pepper-sprayed-call-for-mental-health-reforms>
+
+---
+
+## People’s legacy and AI tool
+
+date: 2025-08-07, from: Pacific Island Times
+
+   I suggested learning communities needed to learn from this. We needed to be more consistent, interactive and alive. Computers are a tool. They are not a replacement. As many education leaders in the July issue shared, human beings cannot be replaced. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/people-s-legacy-and-ai-tool>
+
+---
+
+## Cook Islands seeks balance as record tourism numbers put strain on local environment
+
+date: 2025-08-07, from: 
+
+Rarotonga is as popular as it has ever been. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569369/cook-islands-seeks-balance-as-record-tourism-numbers-put-strain-on-local-environment>
+
+---
+
+## External powers pitting Pacific Islands Forum members against each other, former advisor warns
+
+date: 2025-08-07, from: 
+
+The former Pacific Islands Forum expert says "tensions" relating to Taiwan's participation "illustrates how external partners work the diplomatic channels to pit us against each other". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569305/external-powers-pitting-pacific-islands-forum-members-against-each-other-former-advisor-warns>
+
+---
+
+## New study links 2023 Maui wildfire to spike in suicide, overdose
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>The study links the 2023 Maui wildfire to a sharp spike in suicides and drug overdoses.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/maui-wildfire-suicide-overdose-study/">New study links 2023 Maui wildfire to spike in suicide, overdose</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/maui-wildfire-suicide-overdose-study/>
+
+---
+
+## 2 years after Maui fires: Health challenges remain, social support key to healing
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>The research tracked 1,174 adults through the Maui Wildfire Exposure Study.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/mauiwes-jama-research/">2 years after Maui fires: Health challenges remain, social support key to healing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/mauiwes-jama-research/>
+
+---
+
+## History repeating? Yap remembers the last war and fears the next
+
+date: 2025-08-07, from: Pacific Island Times
+
+Inside The Reef By Joyce McClure In Yap, the past is never far from the present. It lingers not only in the rusting remains of World War... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/history-repeating-yap-remembers-the-last-war-and-fears-the-next>
+
+---
+
+## Japan cuts growth forecast on US tariffs drag, weaker consumption
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+TOKYO (Reuters) — Japan's government cut its growth forecast for this fiscal year on Thursday as U.S. tariffs slow capital expenditure and persistent inflation weighs on private consumption, threatening a fragile economic recovery. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/japan-cuts-growth-forecast-on-us-tariffs-drag-weaker-consumption/article_2390ba5f-f9aa-4984-94af-b87191b05136.html>
+
+---
+
+## Soil health findings from Kagman farms to be revealed during seminar, NMC-CREES says
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+(NMC) — Ensuring local producers have the resources they need to make the best farming decisions, Northern Marianas College-Cooperative Research, Extension, and Education Services Agriculture Production Program, in collaboration with Division of Land &amp; Natural Resources-Division of Agriculture, collected soil samples from various cultivated and uncultivated plots across Kagman, As Lito, and As Perdido for further analysis. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/soil-health-findings-from-kagman-farms-to-be-revealed-during-seminar-nmc-crees-says/article_d6a4add2-7df1-4272-87d5-53a1e7ee8020.html>
+
+---
+
+## 80 years ago today, Aug. 9, 1945
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+ON July 31, 1945, the Project Alberta team on Tinian, working with the 509th Composite Group, conducted a complete dress rehearsal of the Little Boy atomic bomb drop.  Maj. Charles Sweeney piloted his plane, the Great Artist, and Capt. George Marquardt piloted Necessary Evil, accompanied by Tibbets, who was piloting the yet unnamed Enola Gay.  They flew from Tinian to Iwo Jima, where an atomic bomb loading pit had been constructed.  If something happened to Enola Gay along the way, they were to land at Iwo, move the bomb from Enola Gay to the standby aircraft, the Big Stink.  Tibbets would then fly Big Stink to the target. The test was deemed fully successful. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/80-years-ago-today-aug-9-1945/article_29e336e3-514d-494f-ae62-9ce85031d8b1.html>
+
+---
+
+## Youth deep-dive on climate
+
+date: 2025-08-07, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Jo-Jikum’s Climate Adaptation Arts Seminar is into its second week at Marshall Islands High School with nearly 50 young people participating in the program. When the seminar started a week ago Monday, there were fewer than 40. But once things kicked off, and word of mouth and social media posts by youth participants [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/youth-deep-dive-on-climate/">Youth deep-dive on climate</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/youth-deep-dive-on-climate/>
 
 ---
 
@@ -96,7 +245,7 @@ date: 2025-08-07, from: Hawaii Tribune Harold
 date: 2025-08-07, from: Hawaii Tribune Harold
 
 
-				<p>Hawaii County Mayor Kimo Alameda announced Wednesday that he has vetoed County Council Bill 59 on July 31, a rare move that challenges a recently passed ordinance regulating pedestrian behavior near roadways.</p>
+				<p>Hawaii County Mayor Kimo Alameda announced Wednesday that he vetoed County Council Bill 59 on July 31, a rare move that challenges a recently passed ordinance regulating pedestrian behavior near roadways.</p>
 			 
 
 <br> 
@@ -308,18 +457,6 @@ date: 2025-08-07, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/protecting-majuro-shoreline/>
-
----
-
-## External powers pitting Pacific Islands Forum members against each other, former advisor warns
-
-date: 2025-08-07, from: 
-
-The former Pacific Islands Forum expert says "tensions" relating to Taiwan's participation "illustrates how external partners work the diplomatic channels to pit us against each other". 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569305/external-powers-pitting-pacific-islands-forum-members-against-each-other-former-advisor-warns>
 
 ---
 

@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-08-07 06:08:23
+updated: 2025-08-07 14:08:16
 ---
 
 # ham radio
 
-(date: 2025-08-07 06:08:23)
+(date: 2025-08-07 14:08:16)
+
+---
+
+## Accelerator improves RAID array management
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="800" height="439" src="https://www.edn.com/wp-content/uploads/Microchip-SmartRAID-4300.jpg?fit=800%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Microchip-SmartRAID-4300.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-SmartRAID-4300.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-SmartRAID-4300.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Microchip’s Adaptec SmartRAID 4300 series of NVMe RAID storage accelerators speeds access to NVMe storage in AI data centers.</p>
+<p>The post <a href="https://www.edn.com/accelerator-improves-raid-array-management/">Accelerator improves RAID array management</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/accelerator-improves-raid-array-management/>
+
+---
+
+## Rugged film capacitors off high pulse strength
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="800" height="459" src="https://www.edn.com/wp-content/uploads/TDK-B3264xH.jpg?fit=800%2C459" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/TDK-B3264xH.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/TDK-B3264xH.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/TDK-B3264xH.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>EPCOS B3264xH double-sided metallized polypropylene film capacitors from TDK withstand pulse stress up to 6500 V/µs.</p>
+<p>The post <a href="https://www.edn.com/rugged-film-capacitors-off-high-pulse-strength/">Rugged film capacitors off high pulse strength</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/rugged-film-capacitors-off-high-pulse-strength/>
+
+---
+
+## Hybrid redrivers aid high-speed HDMI links
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="700" height="473" src="https://www.edn.com/wp-content/uploads/Diodes-PI3HDX.jpg?fit=700%2C473" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Diodes-PI3HDX.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-PI3HDX.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>With integrated display data channel (DDC) listeners, Diodes’ 3.3-V, quad-channel hybrid ReDrivers preserve HDMI signal integrity.</p>
+<p>The post <a href="https://www.edn.com/hybrid-redrivers-aid-high-speed-hdmi-links/">Hybrid redrivers aid high-speed HDMI links</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/hybrid-redrivers-aid-high-speed-hdmi-links/>
+
+---
+
+## Bluetooth 6.0 modules target varied applications
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="800" height="463" src="https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L10BA1.jpg?fit=800%2C463" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L10BA1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L10BA1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Kaga-Fei-EC4L10BA1.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>KAGA FEI is expanding its Bluetooth LE portfolio with two Bluetooth 6.0 modules that offer different memory configurations.</p>
+<p>The post <a href="https://www.edn.com/bluetooth-6-0-modules-target-varied-applications/">Bluetooth 6.0 modules target varied applications</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/bluetooth-6-0-modules-target-varied-applications/>
+
+---
+
+## CCD sensor lowers noise for clearer inspections
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/Toshiba-TCD2728DG.jpg?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Toshiba-TCD2728DG.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Toshiba-TCD2728DG.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Toshiba-TCD2728DG.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Toshiba’s TCD2728DG CCD linear image sensor uses lens reduction to cut random noise, enhancing image quality in semiconductor inspection.</p>
+<p>The post <a href="https://www.edn.com/ccd-sensor-lowers-noise-for-clearer-inspections/">CCD sensor lowers noise for clearer inspections</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ccd-sensor-lowers-noise-for-clearer-inspections/>
+
+---
+
+## Car speed and radar guns
+
+date: 2025-08-07, from: EDN Blog
+
+<img width="500" height="546" src="https://www.edn.com/wp-content/uploads/Car-Radar-1.png?fit=500%2C546" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Car-Radar-1.png?w=500 500w, https://www.edn.com/wp-content/uploads/Car-Radar-1.png?w=275 275w" sizes="auto, (max-width: 500px) 100vw, 500px" /><p>A fun exercise calculating the roundtrip time for a signal from a radar gun to catch a speeding vehicle traveling.</p>
+<p>The post <a href="https://www.edn.com/car-speed-and-radar-guns/">Car speed and radar guns</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/car-speed-and-radar-guns/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-08-07 06:08:23
 
 date: 2025-08-07, from: EDN Blog
 
-<img width="4470" height="2432" src="https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?fit=4470%2C2432" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=4470 4470w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=2850 2850w" sizes="(max-width: 4470px) 100vw, 4470px" /><p>Here are insights and practical guidance for designers seeking to optimize their PDNs for reliable and efficient power delivery.</p>
+<img width="4470" height="2432" src="https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?fit=4470%2C2432" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=4470 4470w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-3-The-PDN-is-conceptualized-as-a-three-stage-low-pass-filter.jpg?w=2850 2850w" sizes="auto, (max-width: 4470px) 100vw, 4470px" /><p>Here are insights and practical guidance for designers seeking to optimize their PDNs for reliable and efficient power delivery.</p>
 <p>The post <a href="https://www.edn.com/impedance-mask-in-power-delivery-network-pdn-optimization/">Impedance mask in power delivery network (PDN) optimization</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

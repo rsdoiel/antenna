@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-08-07 06:08:26
+updated: 2025-08-07 14:08:19
 ---
 
 # journalism
 
-(date: 2025-08-07 06:08:26)
+(date: 2025-08-07 14:08:19)
+
+---
+
+## Glorya Kaufman, founder of USC dance school, dies at 95
+
+date: 2025-08-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kaufman, a USC Life Trustee, helped found the Los Angeles Museum of Contemporary Arts and was a benefactor of multiple art institutes across Southern California.</p>
+<p>The post <a href="https://dailytrojan.com/2025/08/07/glorya-kaufman-founder-of-usc-dance-school-dies-at-95/">Glorya Kaufman, founder of USC dance school, dies at 95</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/08/07/glorya-kaufman-founder-of-usc-dance-school-dies-at-95/>
 
 ---
 
