@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-08-07 14:08:21
+updated: 2025-08-08 06:08:31
 ---
 
 # motorcycles
 
-(date: 2025-08-07 14:08:21)
+(date: 2025-08-08 06:08:31)
+
+---
+
+## Honda's Pokémon Motorcycle Hit the Track in Japan, Maybe Brought This Rider Luck?
+
+date: 2025-08-08, from: Ride Apart, Electric Motorcycle News
+
+Honda's HRC Racing Team took its fourth consecutive Suzuka win, and race winner Johann Zarco couldn't get enough of the Pokebike. 
+
+<br> 
+
+<https://www.rideapart.com/news/768110/honda-koraidon-suzuka-johann-zarco/>
+
+---
+
+## MotoAmerica's Motorcycle Racing Finally Gets Global Video Distribution Deal
+
+date: 2025-08-08, from: Ride Apart, Electric Motorcycle News
+
+ARCH Racing docuseries producer V10 Entertainment secures global distribution of MotoAmerica’s live racing, and here's where you can watch it. 
+
+<br> 
+
+<https://www.rideapart.com/news/768222/moto-america-motorcycle-racing-global-live-stream/>
+
+---
+
+## This Insanely Cheap Made-In-India EV Motorcycle Has Pretty Cool Tech
+
+date: 2025-08-08, from: Ride Apart, Electric Motorcycle News
+
+If an electric motorcycle as decked out and affordable as the Oben Rorr EZ Sigma ever landed in the US, you can bet people would lose their minds. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768249/oben-rorr-ez-sigma-electric-motorcycle-specs-price-features/>
+
+---
+
+## Do You Want a Fancy $9,000 BMW Engine Espresso Machine? Of Course You Do
+
+date: 2025-08-08, from: Ride Apart, Electric Motorcycle News
+
+Ahead of BMW Motorrad Days 2025, the Motorrad teamed up with ECM Manufacture on a high-end, super-limited-edition R 18 espresso machine. 
+
+<br> 
+
+<https://www.rideapart.com/news/768228/bmw-r18-espresso-machine-sale/>
 
 ---
 

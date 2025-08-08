@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-08-07 14:08:14
+updated: 2025-08-08 06:08:22
 ---
 
 # north america
 
-(date: 2025-08-07 14:08:14)
+(date: 2025-08-08 06:08:22)
+
+---
+
+## Undaunted in defense of academic freedom
+
+date: 2025-08-08, from: The Contrarian
+
+Harvard needs support to do the right thing. 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-in-defense-of-academic>
+
+---
+
+## The Tea w/ April Ryan ft. Dr. Heavenly Kimes and Karen Finney
+
+date: 2025-08-08, from: The Contrarian
+
+A recording from The Tea w/ April Ryan 08/07 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170287661/c61ac1a1fcf8ab6650ca163928bcf7c6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170287661/c61ac1a1fcf8ab6650ca163928bcf7c6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-dr-heavenly>
+
+---
+
+## Evening Roundup, August 7
+
+date: 2025-08-07, from: The Contrarian
+
+Featuring Tom Malinowski, "The Tea" with April Ryan, Meghan Houser, Marvin Kalb, Meredith Blake, Max Stier, Michael de Adder, and Chris Turner 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-7>
+
+---
+
+## It's Now Trump's War
+
+date: 2025-08-07, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/its-now-trumps-war>
+
+---
+
+##  Do As We Say, Not As We Gerrymander 
+
+date: 2025-08-07, from: The Lever News
+
+ By fighting gerrymandering with gerrymandering, Democrats are betraying their own democratic principles.  
+
+<br> 
+
+<https://www.levernews.com/do-as-we-say-not-as-we-gerrymander/>
 
 ---
 

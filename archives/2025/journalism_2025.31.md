@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-08-07 14:08:19
+updated: 2025-08-08 06:08:29
 ---
 
 # journalism
 
-(date: 2025-08-07 14:08:19)
+(date: 2025-08-08 06:08:29)
+
+---
+
+## USC health system laid off 89 employees
+
+date: 2025-08-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Among the layoffs are 24 manager positions, according to a notice filed by the University.</p>
+<p>The post <a href="https://dailytrojan.com/2025/08/07/keck-school-keck-medicine-of-usc-start-layoffs/">USC health system laid off 89 employees</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/08/07/keck-school-keck-medicine-of-usc-start-layoffs/>
 
 ---
 

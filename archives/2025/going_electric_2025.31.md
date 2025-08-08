@@ -1,11 +1,191 @@
 ---
 title: going electric
-updated: 2025-08-07 14:08:23
+updated: 2025-08-08 06:08:33
 ---
 
 # going electric
 
-(date: 2025-08-07 14:08:23)
+(date: 2025-08-08 06:08:33)
+
+---
+
+## Acura is teasing its new all-electric RSX before its debut at Monterey Car Week
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Electric-Acura-RSX-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Acura plans to give the public its first uncamouflaged look at its all-electric RSX prototype during Monterey Car Week, but before then, it teased a sneak peek image.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-rsx,monterey-car-week" data-layer-viewtype="unknown" data-post-id="428853" href="https://electrek.co/2025/08/08/acura-teasing-new-all-electric-rsx-debut-monterey-car-week/#more-428853" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/acura-teasing-new-all-electric-rsx-debut-monterey-car-week/>
+
+---
+
+## The New Chevy Bolt's EV Batteries Will Come From China
+
+date: 2025-08-08, from: Inside EVs News
+
+Despite GM working on LFP batteries in the U.S., the 2027 Bolt EV will get batteries from outside America. 
+
+<br> 
+
+<https://insideevs.com/news/768420/2027-chevrolet-bolt-ev-battery/>
+
+---
+
+## Ford Delays Next Electric Pickup And Van Again, But Not All Is Lost
+
+date: 2025-08-08, from: Inside EVs News
+
+The American automaker is focusing its efforts on cheaper EVs, and that’s good news. 
+
+<br> 
+
+<https://insideevs.com/news/768409/ford-electric-pickup-van-delayed-again/>
+
+---
+
+## Tesla’s ‘Dojo’ Supercomputer For FSD Is Dead
+
+date: 2025-08-08, from: Inside EVs News
+
+The data center was built to analyze video footage from cars running FSD and learn from it for future decisions. 
+
+<br> 
+
+<https://insideevs.com/news/768393/tesla-dojo-supercomputer-dead/>
+
+---
+
+## Wait, is JackRabbit about to unveil a two-person e-bike?
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/jackrabb-teaser-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Guys, I think JackRabbit has a two-person e-bike coming, errr… electric scooter? I’m not really sure what you call this thing, but it looks wild.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="428911" href="https://electrek.co/2025/08/08/wait-is-jackrabbit-about-to-unveil-a-two-person-e-bike/#more-428911" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/wait-is-jackrabbit-about-to-unveil-a-two-person-e-bike/>
+
+---
+
+## Tiny motor, massive power. New e-bike drive triples the torque
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/motor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Small package, big impact: that’s the story behind Maxon’s new Air S mid‑drive motor. On the surface, it looks almost identical to the original Air: sleek, nearly invisible, and designed to disappear into your bike’s frame. But beneath this minimalist exterior is a dramatic leap in capability.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="428894" href="https://electrek.co/2025/08/08/tiny-motor-massive-power-new-mini-e-bike-drive-triples-the-torque/#more-428894" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/tiny-motor-massive-power-new-mini-e-bike-drive-triples-the-torque/>
+
+---
+
+## The oddly personal truth about ADAS: self-driving cars are like running shoes
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/HONDA_SENSING.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There you are, motoring along in your <a href="https://electrek.co/2024/09/04/first-look-at-substantially-updated-2025-volvo-xc90-plug-in-hybrid/">Volvo XC90 PHEV</a> with the Pilot Assist engaged alongside a big 18-wheeler at a comfortable 70 mph cruise when the interstate starts to slowly sweep left. From the drivers’ seat, that semi on your right looks awfully close. As the steering wheel turns itself in your hand, you start to wonder if that truck’s a bit <em>too</em> close. The car isn’t doing anything <em>wrong</em>, but it’s too close for <em>your</em> comfort and you give the wheel a little nudge to hug the inside of the lane just a bit more.</p>
+
+
+
+<p>These deeply personal preferences are tough to quantify, and highlight a simple fact about Advanced Driver Assistance Systems (ADAS) that the industry at-large hasn’t yet to come to terms with: <strong>when it comes to self-driving cars, one size does not fit all</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="adas,honda,opinion,tesla-autopilot" data-layer-viewtype="unknown" data-post-id="428557" href="https://electrek.co/2025/08/07/the-oddly-personal-truth-about-adas-self-driving-cars-are-like-running-shoes/#more-428557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/the-oddly-personal-truth-about-adas-self-driving-cars-are-like-running-shoes/>
+
+---
+
+## Fresh TSLA lawsuits, V2X options, and the USAF is blowing up Cybertrucks
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/airforce_target-practice.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon wants the US military to start buying Tesla Cybertrucks – and now they are! The Air Force has ordered two Cybertruck testers for target practice to determine how easy they are to blow up, while Jo makes up a whole new conspiracy theory on today’s explosive episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,military,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="428842" href="https://electrek.co/2025/08/07/fresh-tsla-lawsuits-v2x-options-and-the-usaf-is-blowing-up-cybertrucks/#more-428842" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/fresh-tsla-lawsuits-v2x-options-and-the-usaf-is-blowing-up-cybertrucks/>
+
+---
+
+## Tesla’s Dojo supercomputer looks dead as more execs leave for competing startup
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/10/Screen-Shot-2022-10-01-at-3.10.03-PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s Dojo supercomputer project is reportedly over. Bloomberg reports that CEO Elon Musk is killing the project after a mass exodus of talent from the Dojo team to a competing startup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-dojo" data-layer-viewtype="unknown" data-post-id="428838" href="https://electrek.co/2025/08/07/tesla-dojo-supercomputer-looks-dead-as-more-execs-leave-competing-startup/#more-428838" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/tesla-dojo-supercomputer-looks-dead-as-more-execs-leave-competing-startup/>
+
+---
+
+## The U.S. Military Is Buying Tesla Cybertrucks To Shoot At Them
+
+date: 2025-08-07, from: Inside EVs News
+
+The Air Force wants to test how missile-resistant Tesla Cybertrucks actually are. 
+
+<br> 
+
+<https://insideevs.com/news/768246/us-military-tesla-cybertruck-missiles/>
+
+---
+
+## A huge $2 billion solar + storage project in California powers up
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/arevon-eland-solar-plus-storage-drone-photo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>One of the US’s largest solar + battery storage projects is now fully online in Mojave, California. <a href="https://arevonenergy.com/" target="_blank" rel="noreferrer noopener">Arevon Energy</a>’s Eland Solar-plus-Storage Project combines 758 megawatts (MWdc) of solar with 300 MW/1,200 megawatt hours of battery storage.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,california,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="392927" href="https://electrek.co/2025/08/07/solar-storage-project-california-arevon-eland/#more-392927" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/solar-storage-project-california-arevon-eland/>
+
+---
+
+## Indiana gets a big EV charging boost and Pilot’s a big winner
+
+date: 2025-08-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/pilot-ev-charging.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Indiana is getting a major EV charging boost. <a href="https://goevin.com/" target="_blank" rel="noreferrer noopener">GOEVIN</a> (Go Electric Vehicle Indiana) just announced the recipients of its latest funding round, aimed at expanding the state’s publicly accessible EV charging network. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ev-charging,ev-charging-stations,solar,indiana,nevi" data-layer-viewtype="unknown" data-post-id="428809" href="https://electrek.co/2025/08/07/indiana-ev-charging-pilot/#more-428809" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/07/indiana-ev-charging-pilot/>
 
 ---
 

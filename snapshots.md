@@ -1,11 +1,174 @@
 ---
 title: snapshots
-updated: 2025-08-07 14:08:25
+updated: 2025-08-08 06:08:35
 ---
 
 # snapshots
 
-(date: 2025-08-07 14:08:25)
+(date: 2025-08-08 06:08:35)
+
+---
+
+## It Looks Like a School Vape Detector. A Teen Hacker Showed It Could Become an Audio Bug
+
+date: 2025-08-08, from: 404 Media Group
+
+The Halo 3C is a vape detector installed in schools and public housing. A young hacker found it contains microphones and that it can be turned into an audio bug, raising privacy concerns. 
+
+<br> 
+
+<https://www.404media.co/it-looks-like-a-school-vape-detector-a-teen-hacker-showed-it-could-become-an-audio-bug/>
+
+---
+
+## It’s Beginning to Smell a Lot Like Stagflation
+
+date: 2025-08-08, from: Paul Krugman
+
+And it's all about Trumponomics 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/its-beginning-to-smell-a-lot-like>
+
+---
+
+## Navigating the EU’s new Radio Equipment Directive: how Raspberry Pi provides an industrial advantage
+
+date: 2025-08-08, from: Raspberry Pi News (.com)
+
+<p>Raspberry Pi computers are already fully compliant with the core elements of the Radio Equipment Directive.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/navigating-the-eus-new-radio-equipment-directive-how-raspberry-pi-provides-an-industrial-advantage/">Navigating the EU&#8217;s new Radio Equipment Directive: how Raspberry Pi provides an industrial advantage</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/navigating-the-eus-new-radio-equipment-directive-how-raspberry-pi-provides-an-industrial-advantage/>
+
+---
+
+## The AdTech Underbelly
+
+date: 2025-08-08, updated: 2025-08-08, from: Tedium site
+
+Ever wonder why online advertising is so confusing, complicated, and privacy-threatening? A new book by an industry insider helps explain why—and how Google put its giant hand on the scale. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17113618/ari-paparo-yield-google-antitrust-review>
+
+---
+
+## GHC 9.10.3-rc3 is now available
+
+date: 2025-08-08, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.10.3-rc3 is now available</h1>
+<h4 class="text-muted">wz1000 - 2025-08-08</h4>
+
+<p>The GHC developers are very pleased to announce the availability
+of the second release candidate for GHC 9.10.3. Binary distributions, source
+distributions, and documentation are available at <a href="https://downloads.haskell.org/ghc/9.10.3-rc3">downloads.haskell.org</a> and
+via <a href="https://www.haskell.org/ghcup/">GHCup</a>.</p>
+<p>GHC 9.10.3 is a bug-fix release fixing over 50 issues of a variety of
+severities and scopes. A full accounting of these fixes can be found in the
+<a href="https://gitlab.haskell.org/ghc/ghc/-/blob/ghc-9.10/docs/users_guide/9.10.3-notes.rst?ref_type=heads&amp;plain=1">release notes</a>. As always, GHC’s release status, including planned future
+releases, can be found on the GHC Wiki <a href="https://gitlab.haskell.org/ghc/ghc/-/wikis/GHC-status">status</a>.</p>
+<p>The changes from the first release candidate are:</p>
+<ul>
+<li>Reverting a change the exports of the <code>Backtrace</code> constructor in the base library that was backported
+due to confusion on CLC approvals (<a href="https://gitlab.haskell.org/ghc/ghc/merge_requests/14587">!14587</a>)</li>
+<li>Reverting a change to the configure script (<a href="https://gitlab.haskell.org/ghc/ghc/merge_requests/14324">!14324</a>) that dropped probing for ld.gold</li>
+</ul>
+<p>This release candidate will have a two-week testing period. If all goes well
+the final release will be available the week of 22 August 2025.</p>
+<p>We would like to thank Well-Typed, Tweag I/O, Juspay, QBayLogic, Channable,
+Serokell, SimSpace, the Haskell Foundation, and other anonymous contributors
+whose on-going financial and in-kind support has facilitated GHC maintenance
+and release management over the years. Finally, this release would not have
+been possible without the hundreds of open-source contributors whose work
+comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+ 
+
+<br> 
+
+<http://haskell.org/ghc/blog/20250808-ghc-9.10.3-rc3-released.html>
+
+---
+
+## StarFive VisionFive 2 Lite is a cheap(er) RISC-V single-board computer (crowdfunding)
+
+date: 2025-08-07, from: Liliputing
+
+<p>The VisionFive 2 Lite is a credit card-sized single-board computer (SBC) that looks a lot like a Raspberry Pi. But it&#8217;s actually a smaller, cheaper, and less powerful version of the VisionFive 2 RISC-V SBC that launched a few years ago. The new model has a slower version of the same processor and loses a few [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/starfive-visionfive-2-lite-is-a-cheaper-risc-v-single-board-computer-crowdfunding/">StarFive VisionFive 2 Lite is a cheap(er) RISC-V single-board computer (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/starfive-visionfive-2-lite-is-a-cheaper-risc-v-single-board-computer-crowdfunding/>
+
+---
+
+## Sendable, @unchecked Sendable, @Sendable, sending, and nonsending
+
+date: 2025-08-07, from: Michael Tsai
+
+Fatbobman: Swift&#8217;s concurrency model introduces numerous keywords, some of which are similar in naming and purpose, often causing confusion among developers. This article examines several keywords related to cross-isolation domain passing in Swift concurrency: Sendable, @unchecked Sendable, @Sendable, sending, and nonsending, helping you understand their respective roles and use cases. There&#8217;s a great summary table. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/07/sendable-unchecked-sendable-sendable-sending-and-nonsending/>
+
+---
+
+## Screens Rejected From the App Store
+
+date: 2025-08-07, from: Michael Tsai
+
+Luc Vandal: I never thought Screens would get rejected for actually asking users to opt in to share anonymous statistics data. [&#8230;] This has been in place for almost a year now. Mac and Vision went through right away. [&#8230;] You want to be transparent to your users and your app gets rejected for it. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/07/screens-rejected-from-the-app-store/>
+
+---
+
+## Apple Still Investigating Cellular MacBook
+
+date: 2025-08-07, from: Michael Tsai
+
+Tim Hardwick: Recent reports have suggested Apple is actively considering bringing cellular connectivity to the Mac lineup as early as next year, but arch rival Microsoft isn&#8217;t waiting around to find out &#x2013; the company is launching its first 5G-enabled Surface laptop this month.[&#8230;]The Surface Laptop&#8217;s 5G capabilities come as Apple has begun deploying its [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/07/apple-still-investigating-cellular-macbook/>
+
+---
+
+## Apple Announces American Manufacturing Program
+
+date: 2025-08-07, from: Michael Tsai
+
+Apple (Hacker News): Apple today announced a new $100 billion commitment to America, a significant acceleration of its U.S. investment that now totals $600 billion over the next four years. Today&#8217;s announcement includes the ambitious new American Manufacturing Program (AMP), dedicated to bringing even more of Apple&#8217;s supply chain and advanced manufacturing to the U.S. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/07/apple-announces-american-manufacturing-program/>
+
+---
+
+## CCC fordert Innenminister Dobrindt auf, sein „Sicherheitspaket“ zurückzunehmen
+
+date: 2025-08-07, updated: 2025-08-08, from: Chaos Computer Club Updates
+
+Die jüngsten Pläne des Bundesinnenministers mit einem „Sicherheitspaket 2.0“ sehen folgenschwere neue Überwachungswerkzeuge für die Polizeiarbeit vor. Darunter finden sich eine umlackierte Rasterfahndung in einer polizeilichen „Superdatenbank“ sowie die Einführung experimenteller automatischer Biometriedatenvergleiche. Ein breites zivilgesellschaftliches Bündnis, darunter der CCC, fordert daher in einem offenen Brief das sofortige Ende dieser Vorhaben. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/unsicherheitspaket-dobrindt>
 
 ---
 
@@ -302,6 +465,10 @@ representative of production data, we evaluated model responses, then assigned a
 the level of sycophancy, which was used as a reward signal in training.</p>
 </blockquote>
 <p>They claim impressive reductions in hallucinations. In my own usage I've not spotted a single hallucination yet, but that's been true for me for Claude 4 and o3 recently as well - hallucination is so much less of a problem with this year's models.</p>
+<p><em><strong>Update</strong>: I have had some reasonable pushback against this point, so I should clarify what I mean here. When I use the term "hallucination" I am talking about instances where the model confidently states a real-world fact that is untrue - like the incorrect winner of a sporting event. I'm not talking about the models making other kinds of mistakes - they make mistakes all the time!</em></p>
+<p><em>Someone <a href="https://news.ycombinator.com/item?id=44829896">pointed out</a> that it's likely I'm avoiding hallucinations through the way I use the models, and this is entirely correct: as an experienced LLM user I instinctively stay clear of prompts that are likely to trigger hallucinations, like asking a non-search-enabled model for URLs or paper citations. This means I'm much less likely to encounter hallucinations in my daily usage.</em></p>
+
+
 <blockquote>
 <p>One of our focuses when training the GPT-5 models was to reduce the frequency of factual
 hallucinations. While ChatGPT has browsing enabled by default, many API queries do not use

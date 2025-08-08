@@ -1,11 +1,127 @@
 ---
 title: food
-updated: 2025-08-07 14:08:23
+updated: 2025-08-08 06:08:33
 ---
 
 # food
 
-(date: 2025-08-07 14:08:23)
+(date: 2025-08-08 06:08:33)
+
+---
+
+## This Is How to Tell If Your Cookware Is Oven-Safe
+
+date: 2025-08-08, from: Taste of Home
+
+<p>Before you pop that saute pan or Pyrex dish in the oven, make sure it has an oven-safe symbol.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/oven-safe-symbol/">This Is How to Tell If Your Cookware Is Oven-Safe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/oven-safe-symbol/>
+
+---
+
+## Staub Vs Le Creuset: Which Is Better?
+
+date: 2025-08-08, from: Bon Appetet
+
+After years of testing, the Dutch oven duel is a bit of a stalemate. 
+
+<br> 
+
+<https://www.bonappetit.com/story/staub-or-le-creuset-which-is-better>
+
+---
+
+## Weekly Coffee News: Starbucks Store Changes + Major New Roastery in Italy
+
+date: 2025-08-08, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/starbucks-620x423.jpg" class="attachment-large size-large wp-post-image" alt="starbucks" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/starbucks-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/starbucks-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/starbucks-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/starbucks-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/starbucks.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; Starbucks to Close 80-90% of Pickup-Only Stores Starbucks... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/08/weekly-coffee-news-starbucks-store-changes-major-new-roastery-in-italy/>
+
+---
+
+## Brewing Beyond the Mainstream: Meet the 2025 World Cezve/Ibrik and Cup Tasters Champions
+
+date: 2025-08-08, from: The Fresh Cup
+
+<p>Following the victories of Charles Boyenval and Chatchalerm “Boss” Lertanekwattana, we speak with both champions to learn what their wins say about tradition, innovation, and coffee’s evolving global map.</p>
+<p>The post <a href="https://freshcup.com/brewing-beyond-the-mainstream-meet-the-2025-world-cezve-ibrik-and-cup-tasters-champions/">Brewing Beyond the Mainstream: Meet the 2025 World Cezve/Ibrik and Cup Tasters Champions</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/brewing-beyond-the-mainstream-meet-the-2025-world-cezve-ibrik-and-cup-tasters-champions/>
+
+---
+
+## Smoked Ember Hot Sauce (with Smoked Chilies)
+
+date: 2025-08-08, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/smoked-ember-hot-sauce/" title="Smoked Ember Hot Sauce (with Smoked Chilies)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="2 bottles of Smoked Chili Hot Sauce (Smoked Ember) on a table with extra chili peppers" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Smoked-Chili-Hot-Sauce-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This BBQ-inspired hot sauce recipe is made with smoked chilies, charred onion, bourbon, tomato and vinegar. It's sweet, smoky, spicy, and perfect on everything.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/smoked-ember-hot-sauce/">Smoked Ember Hot Sauce (with Smoked Chilies)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/smoked-ember-hot-sauce/>
+
+---
+
+## Salmon With Burst Tomatoes and More Recipes We Made This Week
+
+date: 2025-08-08, from: Bon Appetet
+
+Like double-chocolate zucchini bread and a black bean salad. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2025>
+
+---
+
+## Regina King on New York, Her New Wine, and What’s Inspiring Her Now
+
+date: 2025-08-08, from: Bon Appetet
+
+Over a whirlwind day in Manhattan, the Oscar winner swapped her packed schedule for cookbooks, greenmarkets, and one unforgettable bottle of wine. 
+
+<br> 
+
+<https://www.bonappetit.com/story/regina-king-is-in-her-wine-era>
+
+---
+
+## The Best Induction Burner for Precise, Efficient Cooking Just About Anywhere (2025)
+
+date: 2025-08-08, from: Bon Appetet
+
+These portable cooktops are powerful, energy efficient, and very easy to clean. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-portable-induction-burner>
+
+---
+
+## Traeger Flatrock 2 Review: Cook Every Meal Outdoors with This Versatile Flat-Top Griddle
+
+date: 2025-08-07, from: Taste of Home
+
+<p>We put the Traeger Flatrock to the test, making everything from breakfast to dinner with excellent results.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/traeger-flatrock-2-review/">Traeger Flatrock 2 Review: Cook Every Meal Outdoors with This Versatile Flat-Top Griddle</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/traeger-flatrock-2-review/>
 
 ---
 
@@ -13,11 +129,23 @@ updated: 2025-08-07 14:08:23
 
 date: 2025-08-07, from: Bon Appetet
 
-This deeply flavored broth comes together in no time, thanks to toasted spices, browned onions, ginger, beef bones—and pressure, of course. 
+This deeply flavored broth comes together in no time thanks to toasted spices, browned onions, ginger, beef bones—and pressure, of course. 
 
 <br> 
 
 <https://www.bonappetit.com/recipe/instant-pot-pho-vietnamese-beef-noodle-soup>
+
+---
+
+## Mushroom Bourguignon
+
+date: 2025-08-07, from: Taste of Home
+
+Mushroom bourguignon substitutes fungi for beef in an easy, cozy, meatless meal that's perfect any day of the week. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mushroom-bourguignon/>
 
 ---
 
@@ -89,7 +217,7 @@ Ice, ice, baby.
 
 date: 2025-08-07, from: Daily Coffee News
 
-<div><img width="620" height="489" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-620x489.jpg" class="attachment-large size-large wp-post-image" alt="CBB study" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-620x489.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-300x237.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-150x118.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-768x606.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer.jpg 1288w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers in Australia say they have developed a faster and more efficient way to detect signs of coffee berry borer (CBB) infestations through imaging software. The researchers noted that coffee... 
+<div><img width="620" height="489" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-620x489.jpg" class="attachment-large size-large wp-post-image" alt="CBB study" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-620x489.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-300x237.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-150x118.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer-768x606.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-berry-borer.jpg 1288w" sizes="(max-width: 620px) 100vw, 620px" /></div>Researchers in Australia say they have developed a faster and more efficient way to detect signs of coffee berry borer (CBB) infestations through imaging software. The researchers noted that coffee... 
 
 <br> 
 
@@ -205,7 +333,7 @@ The wedding industrial complex didn’t interest me, but I jumped at the chance 
 
 date: 2025-08-06, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png" class="attachment-large size-large wp-post-image" alt="caffeine brain" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In a first-of-its-kind study using artificial intelligence and brainwave analysis, researchers from the University of Montreal said caffeine can make the sleeping brain more active and less restful — particularly... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png" class="attachment-large size-large wp-post-image" alt="caffeine brain" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/caffeine-brain.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>In a first-of-its-kind study using artificial intelligence and brainwave analysis, researchers from the University of Montreal said caffeine can make the sleeping brain more active and less restful — particularly... 
 
 <br> 
 
@@ -317,7 +445,7 @@ date: 2025-08-06, from: The Fresh Cup
 
 date: 2025-08-06, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/kofta-kebabs/" title="Kofta Kebab Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Kofta Kebabs served with lemon wedges" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This traditional Kofta Kebab recipe is made with ground lamb or beef, fresh herbs, and bold spices, shaped onto skewers and grilled to juicy perfection.</p>
+<a href="https://www.chilipeppermadness.com/recipes/kofta-kebabs/" title="Kofta Kebab Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Kofta Kebabs served with lemon wedges" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Kofta-Kebab-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This traditional Kofta Kebab recipe is made with ground lamb or beef, fresh herbs, and bold spices, shaped onto skewers and grilled to juicy perfection.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/kofta-kebabs/">Kofta Kebab Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

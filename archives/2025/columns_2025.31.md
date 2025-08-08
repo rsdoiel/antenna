@@ -1,11 +1,236 @@
 ---
 title: columns
-updated: 2025-08-07 14:08:17
+updated: 2025-08-08 06:08:27
 ---
 
 # columns
 
-(date: 2025-08-07 14:08:17)
+(date: 2025-08-08 06:08:27)
+
+---
+
+## Google Project Zero Changes Its Disclosure Policy
+
+date: 2025-08-08, updated: 2025-08-07, from: Bruce Schneier blog
+
+<p>Google&#8217;s vulnerability finding team is again <a href="https://www.infosecurity-magazine.com/news/google-report-new-vulnerabilities/">pushing the envelope</a> of responsible disclosure:</p>
+<blockquote><p>Google&#8217;s Project Zero team will retain its existing 90+30 policy regarding vulnerability disclosures, in which it provides vendors with 90 days before full disclosure takes place, with a 30-day period allowed for patch adoption if the bug is fixed before the deadline.</p>
+<p>However, as of July 29, Project Zero will also release limited details about any discovery they make within one week of vendor disclosure. This information will encompass:</p>
+<ul>
+<li>The vendor or open-source project that received the report
+...</li></ul></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html>
+
+---
+
+## HTTP is not simple
+
+date: 2025-08-08, from: Daniel Stenberg Blog
+
+I often hear or see people claim that HTTP is a simple protocol. Primarily of course from people without much experience or familiarity with actual implementations. I think I personally also had thoughts in that style back when I started working with the protocol. After personally having devoted soon three decades on writing client-side code &#8230; <a href="https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/" class="more-link">Continue reading <span class="screen-reader-text">HTTP is not simple</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/>
+
+---
+
+## What Blue States should do if Red States super-gerrymander 
+
+date: 2025-08-08, from: Robert Reich's blog
+
+How to avoid a race to the bottom 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-blue-states-should-do-when-red>
+
+---
+
+## August 7, 2025 
+
+date: 2025-08-08, from: Heather Cox Richardson blog
+
+At 7:22 this morning, President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-7-2025>
+
+---
+
+## Increasing the VRAM allocation on AMD AI APUs under Linux
+
+date: 2025-08-08, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Increasing the VRAM allocation on AMD AI APUs under Linux</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Since I saw some posts calling out the old (now deprecated) way to increase GTT memory allocations for the iGPU on AMD APUs (like the AI Max+ 395 / Strix Halo I am <a href="https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms">testing in the Framework Mainboard AI Cluster</a>), I thought I'd document how to increase the VRAM allocation on such boards under Linux—in this case, Fedora:</p>
+
+<pre><code># To remove an arg: `--remove-args`
+# Calculation: `([size in GB] * 1024 * 1024) / 4.096`
+sudo grubby --update-kernel=ALL --args='amdttm.pages_limit=27648000'
+sudo grubby --update-kernel=ALL --args='amdttm.page_pool_size=27648000'
+sudo reboot
+</code></pre>
+
+<p>The old way, <code>amdgpu.gttsize</code>, will throw the following warning in the kernel log:</p>
+
+<pre><code>[    4.232151] amdgpu 0000:c1:00.0: amdgpu: [drm] Configuring gttsize via module parameter is deprecated, please use ttm.pages_limit
+</code></pre>
+
+<p>After configuring the kernel parameters and rebooting, verify the AMD GPU driver is seeing the increased memory allocation:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-07T20:38:22-05:00" title="Thursday, August 7, 2025 - 20:38" class="datetime">August 7, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/increasing-vram-allocation-on-amd-ai-apus-under-linux>
+
+---
+
+##  &#8220;New FBI data shows that both violent crime and property crime are... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047301-new-fbi-data-shows-that>
+
+---
+
+## Friday 8 August, 2025
+
+date: 2025-08-07, from: John Naughton's online diary
+
+Book haven As regular readers know, I have a romantic view of libraries. I couldn’t live anywhere that did not have a decent one within easy reach — which is one of the many reasons for living in a university &#8230; <a href="https://memex.naughtons.org/friday-8-august-2025/41088/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-8-august-2025/41088/>
+
+---
+
+##  Why wildlife crossings and crucial for animals and humans: they embiggen habitats... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047258-why-wildlife-crossings-an>
+
+---
+
+## 2025-08-07 Oddμ hashtags
+
+date: 2025-08-07, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-07-oddμ-hashtags">2025-08-07 Oddμ hashtags</h1>
+
+<p>I was recently looking at my homepage and wondered about all the hashtags I used and how not all of them had a topic page. The <a href="Odd%CE%BC">Oddμ</a> page, for example, collects all the blogposts tagged <a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> (including this one). So I looked at the <a href="oddmu/oddmu-hashtags.1">hashtags</a> command and figured, &ldquo;this is going to be easy.&rdquo; 🤣</p>
+
+<p>The first problem is that there are a lot of garbage hashtags. There are over 1000 hashtags used on this site! The garbage hashtags are the result of Markdown parsing mistakes that I never fixed. Apparently the list of hashtags includes the following:</p>
+
+<pre><code>#1)
+#fennel”
+#fudge](fudge)_and_the_[pdq](../wiki?action=edit;id=pdq_&quot;click_to_edit_this_page&quot;)_rules_used_in_[zorcererofzo.
+ffffff;fill-opacity:1&quot;)
+###｣
+</code></pre>
+
+<p>This is not great. 😔</p>
+
+<p>I should fix those, and many more. 🤨</p>
+
+<p>Furthermore, the hashtags are all downcased. So given a hashtag such as <code>#advanced_squad_leader</code> the code would have to infer the page name &ldquo;Advanced Squad Leader&rdquo;. But what about the hashtag <code>#älter werden</code>? If at all, that should link to a page called &ldquo;Älter werden&rdquo;.</p>
+
+<p>And so I concluded that this wasn&rsquo;t easy after all. I saved the changes I made on a branch, and I don&rsquo;t think I&rsquo;ll be merging that into the main branch.</p>
+
+<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-07-oddmu-hashtags>
+
+---
+
+##  From the Phonograph podcast, a look at the early days of 99%... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047284-from-the-phonograph-podca>
+
+---
+
+##  Tractor beams exist in the real world. They use ultrasound to hover... 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047297-tractor-beams-exist-in-th>
+
+---
+
+## The World’s Greatest Showoff
+
+date: 2025-08-07, from: Dan Rather's Steady
+
+Good thing P.T. Barnum didn&#8217;t live to see Trump 
+
+<br> 
+
+<https://steady.substack.com/p/the-worlds-greatest-showoff>
+
+---
+
+## On Showing Up, and Meeting the Moment
+
+date: 2025-08-07, from: James Fallows, Substack
+
+Steps toward defending our institutions. An extension from personal to public life. 
+
+<br> 
+
+<https://fallows.substack.com/p/on-showing-up-and-meeting-the-moment>
+
+---
+
+## An exchange with a young person who’s understandably dismayed
+
+date: 2025-08-07, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/an-exchange-with-one-young-person>
+
+---
+
+##  Vintage Bike Tricks, Circa 1965 
+
+date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/vintage-bike-tricks-circa-1965-1>
 
 ---
 
@@ -35,7 +260,7 @@ That said, it got pretty far toward solving the problem I asked it to work on. H
 
 **@Dave Winer's Scripting News** (date: 2025-08-07, from: Dave Winer's Scripting News)
 
-ChatGPT is even <a href="https://daveverse.org/2025/08/07/chatgpt-5-is-even-more-of-a-bastard-than-4/">more of a bastard</a> than 4. 
+ChatGPT 5 is even <a href="https://daveverse.org/2025/08/07/chatgpt-5-is-even-more-of-a-bastard-than-4/">more of a bastard</a> than 4. 
 
 <br> 
 

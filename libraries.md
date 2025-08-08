@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-08-07 14:08:20
+updated: 2025-08-08 06:08:30
 ---
 
 # libraries
 
-(date: 2025-08-07 14:08:20)
+(date: 2025-08-08 06:08:30)
+
+---
+
+## The AI Slop Overload Does Not Taste Good
+
+date: 2025-08-08, from: Scholarly Kitchen
+
+<p>AI-generated recipes are taking over the internet. How do they taste?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/08/the-ai-slop-overload-does-not-taste-good/">The AI Slop Overload Does Not Taste Good</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/08/the-ai-slop-overload-does-not-taste-good/>
 
 ---
 
@@ -18,6 +32,18 @@ Balmer, Vera; Kraus, Michael A.; Coros, Stelian; Kaufmann, Walter
 <br> 
 
 <http://hdl.handle.net/20.500.11850/748023>
+
+---
+
+## Clerambault, by Romain Rolland
+
+date: 2025-08-07, from: Standard Ebooks, new releaases
+
+A peace activist must contend with alienation from his his friends and family. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/romain-rolland/clerambault/katherine-miller>
 
 ---
 

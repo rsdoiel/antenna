@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2025-08-07 14:08:16
+updated: 2025-08-08 06:08:26
 ---
 
 # science and technology
 
-(date: 2025-08-07 14:08:16)
+(date: 2025-08-08 06:08:26)
+
+---
+
+## This Snail Can Regrow Its Eyes—and Understanding How May One Day Help Humans With Injuries
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+Researchers pinpointed a gene related to eye development in golden apple snails, which can regenerate amputated eyes within about a month 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-snail-can-regrow-its-eyes-and-understanding-how-may-one-day-help-humans-with-injuries-180987124/>
+
+---
+
+## If you don’t like current macOS, why not keep using Mac OS X 10.9 Mavericks?
+
+date: 2025-08-08, from: OS News
+
+With Apple&#8217;s desktop operating systems straying ever further from what some of us consider its heyday, it&#8217;s no surprise people long for the days before Apple started relentlessly focusing on services revenue, bringing iOS paradigms to macOS, and dropping its Aqua design language for whatever they&#8217;re doing now. Some people take this longing and channel it into something a bit more concrete, and an example of this is a website I stumbled upon on Fedi: Mavericks Forever. Mavericks Forever is a detailed guide to, as the name implies, keep using Mac OS X 10.9 Mavericks. It covers everything from hardware options to security patches, browser choices, and so, so much more. It even goes as far as adding more recent emoji releases, custom security patches, and visual customisations. There&#8217;s a ton to go over here, and of course, you don&#8217;t have to implement every single suggestions. I ostensibly like pain, because I&#8217;ve had a soft spot for the trash can Mac Pro ever since they came out. Now that they are wholly and completely outdated by Apple standards, their prices are probably dropping rapidly, so I may have to grab one from eBay or whatever and follow this guide for a modern-ish Mavericks setup. I do actually like the Mac OS X of old quite a bit, I would love to have a usable version of it that I can use when I feel like it. If only to remember the good old days. 
+
+<br> 
+
+<https://www.osnews.com/story/143007/if-you-dont-like-current-macos-why-not-keep-using-mac-os-x-10-9-mavericks/>
+
+---
+
+## Zen80: a Z80 emulator written in Go
+
+date: 2025-08-08, from: OS News
+
+A simple instruction-stepped Z80 CPU emulator written in Go, inspired by the cycle-accurate emulation techniques described in floooh&#8217;s blog posts. ↫ Zen80 GitHub page It has support for all documented Z80 instructions, supports most games and applications, and much more. 
+
+<br> 
+
+<https://www.osnews.com/story/143005/zen80-a-z80-emulator-written-in-go/>
+
+---
+
+## NASA boss calls for nuclear reactor on the Moon
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Science budget? Whatever. It&#39;s all about beating China and Russia</h4> <p>NASA&#39;s Acting Administrator, Sean Duffy, has directed the US space agency to come up with a plan to deploy a nuclear reactor on the Moon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/nasa_boss_calls_for_nuclear/>
+
+---
+
+## Infosec hounds spot prompt injection vuln in Google Gemini apps
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Not a very smart home: crims could hijack smart-home boiler, open and close powered windows and more. Now fixed</h4> <p><strong>Black hat</strong>  A trio of researchers has disclosed a major prompt injection vulnerability in Google&#39;s Gemini large language model-powered applications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/infosec_hounds_spot_prompt_injection/>
+
+---
+
+## Hubble Captures a Tarantula
+
+date: 2025-08-08, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image captures incredible details in the dusty clouds of a star-forming factory called the Tarantula Nebula. Most of the nebulae Hubble images are in our galaxy, but this nebula is in the Large Magellanic Cloud, a dwarf galaxy located about 160,000 light-years away in the constellations Dorado and Mensa. The […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-a-tarantula/>
+
+---
+
+## UK secretly allows facial recognition scans of passport, immigration databases
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Campaigners brand Home Office’s lack of transparency as ‘astonishing’ and ‘dangerous’</h4> <p>Privacy groups report a surge in UK police facial recognition scans of databases secretly stocked with passport photos lacking parliamentary oversight.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/uk_secretly_allows_facial_recognition/>
+
+---
+
+## Sopra Steria bags £115 million legacy extension from UK pensions department after delays to replacement ERP project
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>New SaaS system awaits a &#39;fully costed and deliverable integrated plan&#39; before it can support 280,000 employees</h4> <p>The UK&#39;s pensions and social security department has modified a 12-year-old contract with Sopra Steria, tacking on more than £100 million to allow it to run legacy systems for another three years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/sopra_steria_gets_115_million/>
+
+---
+
+## UK proxy traffic surges as users consider VPN alternatives amid Online Safety Act
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>It&#39;s &#39;more than a temporary trend,&#39; Decodo claims</h4> <p>Amid the furor around surging VPN usage in the UK, many users are eyeing proxies as a potential alternative to the technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/proxy_usage_jumps_in_uk/>
+
+---
+
+## After 30 years PHP still evolving: Team adds pipe operator, considers generics
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Modern language features plus high performance FrankenPHP app server make PHP worth another look</h4> <p>The PHP team is considering adding a partial implementation of generics to the language, has confirmed that a pipe operator will be in the forthcoming 8.5 release, and has formally adopted the FrankenPHP app server into the PHP Foundation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/after_30_years_php_still/>
+
+---
+
+## Behold the wood-block wonder of the Kilopixel display
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>We&#39;re going out on a limb here... why not branch out from things like retina displays and get a little more fine grained?</h4> <p><strong>Feature</strong>  In a world where resolution, refresh rates, and frames per second can generate furious discussion, sometimes it&#39;s good to kick back and let a wood-flipping robot take the strain. Welcome to Kilopixel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/feature_kilopixel_display/>
+
+---
+
+## Mexit, not Brexit, is the new priority for the UK
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>A Microsoft Exit strategy isn’t just a good idea, it’s vital. It must go a long way beyond a farewell to Redmond</h4> <p><strong>Opinion</strong>  One of the dangers of stories based on big cash numbers is distraction. The numbers get all the attention, the bigger story behind them gets missed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/opinion_column_mexit_not_brexit/>
+
+---
+
+## Tech support team won pay rise for teaching customers how to RTFM
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Documentation was so substantial, staff measured it in feet</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>&#39;s Friday column that shares your stories of helping confused, caustic, and curmudgeonly customers to crank their computers into correct configurations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/on_call/>
+
+---
+
+## Prohibition never works, but that didn't stop the UK's Online Safety Act
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Will someone think of the deals politicians are making?</h4> <p><strong>Opinion</strong>  You might think, since I write about tech all the time, my degrees are in computer science. Nope. I&#39;m a bona fide, degreed historian, which is why I can say with confidence that the UK&#39;s recently passed Online Safety Act is doomed to fail.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/opinion_column_osa/>
+
+---
+
+## North of England snubbed by UK government bag-a-boffin scheme
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Home of Manchester Baby can&#39;t bid for talent, baby</h4> <p>Institutions in the North of England are being left out of the government&#39;s Global Talent Fund (GTF), designed to attract top scientific brains from abroad to come and work in Britain.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/north_of_england_snubbed_by/>
+
+---
+
+## Air Force buying two Tesla Cybertrucks so it can learn to destroy them
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Fears adversaries will use them in the belief they can take plenty of punishment</h4> <p>The US Air Force wants to blow up two Tesla Cybertrucks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/usaf_cybertruck_missile_tests/>
+
+---
+
+## Confirmed: PCIe 8.0 will double version 7.0’s speed and reach 256.0 GT/s
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>A new connector may be on the cards, too</h4> <p>The PCI Special Interest Group (PCI-SIG) has confirmed that version 8.0 of the PCI Express (PCIe) specification will allow up to 256 gigatransfers per second, which equates to up to 1 TB/s bi-directionally in a x16 configuration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/pcie_8_spec_speed_announced/>
+
+---
+
+## $500 billion Stargate AI infrastructure project struggles to get off the drawing board
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Backer SoftBank isn&#39;t fussed, is excited that Arm will provide half of new cloudy CPUs this year</h4> <p>The $500 billion Stargate project that aims to build a network of AI datacenters around the globe is off to a slow start, but its main backer – Japan’s SoftBank – isn’t worried.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/stargate_launch_delays/>
+
+---
+
+## Google ends Steam for Chromebook effort
+
+date: 2025-08-08, from: OS News
+
+In 2022, Google launched a major push for gaming Chromebooks, including a version of Steam for ChromeOS. Steam for ChromeOS remained in Google&#8217;s nebulous &#8220;beta&#8221; state ever since, however, and today Google is doing a Google by killing Steam for ChromeOS altogether. Entering “Steam” into the ChromeOS Launcher starts the install process like before, but there’s now an intermediary message: “The Steam for Chromebook Beta program will conclude on January 1st, 2026. After this date, games installed as part of the Beta will no longer be available to play on your device. We appreciate your participation in and contribution to learnings from the beta program, which will inform the future of Chromebook gaming.” ↫ Abner Li at 9To5Google Chromebooks are cheap devices for students, and while there are expensive, powerful Chromebooks, I doubt they sell in any meaningful numbers to justify spending any time on maintaining Steam for ChromeOS. Of course, Steam for ChromeOS is just the Linux version of Steam, but Google did maintain a list of &#8220;compatible&#8221; games, so the company was at least doing something. The list consists of 99 games, by the way. It&#8217;s just another example of Google seemingly having no idea what it wants to do with its operating systems, made worse in this case because Google actually had OEMs make and sell Chromebooks with gaming features. Sure, Android games still exist and can be run on ChromeOS, but I doubt that&#8217;s what the six people who bought a gaming Chromebook for actual gaming had in mind when they bought one. 
+
+<br> 
+
+<https://www.osnews.com/story/143001/google-ends-steam-for-chromebook-effort/>
+
+---
+
+## Why blow up satellites when you can just hack them?
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>A pair of German researchers showed how easy it is</h4> <p><strong>Black Hat</strong>  Four countries have now tested anti-satellite missiles (the US, China, Russia, and India), but it&#39;s much easier and cheaper just to hack them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/balck_hat_satellites/>
+
+---
+
+## Developing your first KDE application
+
+date: 2025-08-07, from: OS News
+
+Akseli Lahtinen, a KDE developer who works on various components of the KDE Plasma desktop environment, had never actually made his own KDE application from scratch &#8211; until now. He created a to-do application, called KomoDo (available on Flathub), that makes use of the todo.txt format, and penned a blog post detailing his experiences. Of course, as a KDE developer, he&#8217;s got a head start and access to people who know their stuff, but that doesn&#8217;t mean it was a walk in the park. If you&#8217;re thinking of developing a KDE application, Lahtinen&#8217;s blog post is a great place to start. 
+
+<br> 
+
+<https://www.osnews.com/story/142999/developing-your-first-kde-application/>
+
+---
+
+## OpenAI's GPT-5 is here with up to 80% fewer hallucinations
+
+date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+
+<h4>That totally makes up for the single-digit benchmark gains, right?</h4> <p>OpenAI unveiled its most capable model yet on Thursday with the launch of GPT-5.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/07/openai_gpt_5/>
+
+---
+
+## Age verification: what’s the harm?
+
+date: 2025-08-07, from: OS News
+
+Welcome, friends, to my grubby little corner of the internet. A corner so strewn with obscenity that the UK government has decided you must prove you’re a grown-up before you can&#160;access certain parts of it. The UK’s new Online Safety Act has come into force, so UK people might have noticed a bunch of websites suddenly demanding you take a selfie, share your credit card details, or jump through another hoop to prove that you’re over 18. Quite a few of my friends have been discussing this in the pub, because for understandable reasons people who aren’t embedded in the world of online pornography or internet law are suddenly curious about&#160;why&#160;the internet is now so very broken. They’re also often convinced that the government will change its mind and therefore no one really needs to worry. I’ve had this conversation so many times now that I reckon I’ve got the basis for a fairly solid layperson’s guide to age verification: what it is, how it affects you, and why we absolutely, genuinely&#160;do&#160;need to worry. ↫ Girl on the Net Girl on the Net basically published the definitive guide on why age verification online, as currently implemented in the United Kingdom, and explored by the United States and the European Union, is such a terrible idea. It&#8217;s a privacy disaster, a clear onramp for Christian extremists to go after LGBTQ+ content, it doesn&#8217;t &#8220;protect the children&#8221;, it&#8217;s easily circumvented, breaks accessibility, casts such a wide net that it even hits sites like Wikipedia, and so, so much more. Whenever anyone online tries to sell you on age verification as a means to &#8220;think of the children&#8221;, you can just point them to the linked article. If, after reading it, they still believe this is the way to protect children from seeing naked people (while leaving the door to the most brutal forms of violent content wide open, of course, as is tradition), they will have either ulterior motives, or are some form of extremist you can&#8217;t argue with anyway. The demonization of sexual content and the sex workers that produce it as a means to introduce strict authoritarian control over the internet is something that will never go away. &#8220;Think of the children&#8221; is an incredibly powerful rallying cry for authoritarians to scare sheltered boomers into accepting pretty much any draconian measure, regardless of efficacy, and I doubt we will ever definitely win this fight. But we won&#8217;t have to sit down and accept it. 
+
+<br> 
+
+<https://www.osnews.com/story/142997/age-verification-whats-the-harm/>
 
 ---
 
@@ -21,7 +297,7 @@ date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
 
 ---
 
-## AWS offers $1B credit to slash Uncle Sam cloud bills - and lock in as a provider until at least 2028
+## AWS offers $1B credit to slash Uncle Sam's cloud bills - and lock in as a provider until at least 2028
 
 date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
 

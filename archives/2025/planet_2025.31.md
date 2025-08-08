@@ -1,11 +1,251 @@
 ---
 title: planet
-updated: 2025-08-07 14:08:12
+updated: 2025-08-08 06:08:21
 ---
 
 # planet
 
-(date: 2025-08-07 14:08:12)
+(date: 2025-08-08 06:08:21)
+
+---
+
+## EU chief says Israel must reconsider Gaza control plan
+
+date: 2025-08-08, from: RTÉ News
+
+EU chief Ursula von der Leyen has called on Israel to reconsider its plan to further extend the military's control over the Palestinian territory of Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0808/1527532-middle-east-reaction/>
+
+---
+
+## Israeli plan to take complete control of Gaza must stop now, says UN rights chief
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+The UN’s top human rights official insisted on Friday that the Israeli Government must not pursue a complete takeover of the Gaza Strip. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165604>
+
+---
+
+## Putin-Trump summit: what we know so far
+
+date: 2025-08-08, from: RTÉ News
+
+US President Donald Trump and his Russian counterpart, Vladimir Putin, are set to hold talks in a bid to end the war in Ukraine, triggered by Russia's February 2022 invasion. Here is what we know about the summit so far: 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0808/1527520-putin-trump-summit/>
+
+---
+
+## Production resumes at Ballymaguire Foods after outbreak
+
+date: 2025-08-08, from: RTÉ News
+
+Production is resuming today at Ballymaguire Foods following a suspension last month after the detection of the harmful bacteria listeria at one of its facilities. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0808/1527517-production-resumes-at-ballymaguire-foods-after-outbreak/>
+
+---
+
+## Call for HIQA inspection reports to be more accessible
+
+date: 2025-08-08, from: RTÉ News
+
+Residents of disability centres have highlighted the need for HIQA inspection reports to be made more accessible. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0808/1527510-hiqa-inspection-reports/>
+
+---
+
+## Number of people on Live Register increases to 169,600
+
+date: 2025-08-08, from: RTÉ News
+
+169,600 people were on the Live Register in July, according to seasonally adjusted figures from the Central Statistics Office. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0808/1527501-number-of-people-on-live-register-increases-to-169-600/>
+
+---
+
+## Kieran Hanrahan retires from Céilí House after 30 years
+
+date: 2025-08-08, from: RTÉ News
+
+Presenter Kieran Hanrahan will retire this weekend after 30 years as host of RTÉ Radio 1's Céilí House. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0808/1527499-kieran-hanrahan-retires-from-ceili-house-after-30-years/>
+
+---
+
+## Doctor can 'see every rib' on starving children in Gaza
+
+date: 2025-08-08, from: RTÉ News
+
+An American paediatric doctor volunteering with the Heroic Hearts charity in Gaza's Al Shifa Hospital said he can "see every rib" on starving children and that the "entire medical infrastructure" in Gaza is gone. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0808/1527473-doctor-gaza/>
+
+---
+
+## All-Ireland camogie finals: All you need to know
+
+date: 2025-08-08, from: RTÉ News
+
+The Senior, Intermediate and Premier Junior All-Ireland finals are down for decision at Croke Park on Sunday. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0808/1526849-all-ireland-camogie-finals-all-you-need-to-know/>
+
+---
+
+## Germany halts Israeli arms exports over Gaza City plans
+
+date: 2025-08-08, from: RTÉ News
+
+Coverage of all today's developments after Israel's security council approved a plan to take control of Gaza City. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527471-middle-east/>
+
+---
+
+## US raises bounty on Venezuelan president Maduro to $50m
+
+date: 2025-08-08, from: RTÉ News
+
+The United States doubled its bounty on Venezuelan President Nicolás Maduro - who faces federal drug trafficking charges and whose election victory was not recognized by Washington - to $50m. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0808/1527462-maduro-bounty-us/>
+
+---
+
+## 'Only fair' Ukraine involved in talks between US-Russia
+
+date: 2025-08-08, from: RTÉ News
+
+US President Donald Trump said he would meet with Vladimir Putin for upcoming talks on the Ukraine war even if the Russian leader had not sat down with Ukrainian President Volodymyr Zelensky. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0808/1527459-ukraine-russia-us/>
+
+---
+
+## Sicily locals vow opposition to longest suspension bridge
+
+date: 2025-08-08, from: RTÉ News
+
+Italy's decision to approve the construction between Sicily and the mainland of what would be the world's longest single-span bridge has set the stage for a legal battle that could further delay a project first conceived by the ancient Romans. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527458-italy-sicily-bridge/>
+
+---
+
+## US colleges ordered to reveal race data over fairness
+
+date: 2025-08-08, from: RTÉ News
+
+US President Donald Trump has issued an order demanding that US universities supply enrolment data as evidence they are not considering an applicant's race when awarding admission. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0808/1527456-trump-colleges-race-data/>
+
+---
+
+## Excitement intensifies ahead of Cork-Galway camogie final
+
+date: 2025-08-08, from: RTÉ News
+
+Excitement levels are building ahead of Sunday's All-Ireland camogie final between Cork and Galway. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527440-galway-cork-preview/>
+
+---
+
+## The U.S. just cut $500M in funding for mRNA vaccine technology. Experts explain what this could mean
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602836.1754519933!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-coronavirus-vaccines.JPG' alt='A vaccinator draws a coronavirus disease (COVID-19) vaccine in Philadelphia in May 2021.' width='620' height='349' title='A vaccinator draws a coronavirus disease (COVID-19) vaccine at a clinic run by the Philadelphia Department of Public Health in partnership with the Black Doctors COVID-19 Consortium to encourage all eligible teenagers to get vaccinated in Philadelphia, Pennsylvania, U.S., May 18, 2021.'/><p>The Trump Administration said this week it is pulling half a billion dollars from U.S. government-funded research projects to create new mRNA vaccines. Experts say this could potentially impact mRNA vaccines that might be used to treat cancer, other diseases and stop future pandemics.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/health/mrna-vaccine-barda-explainer-1.7602830?cmp=rss>
+
+---
+
+## Israel approves plan to 'take control' of Gaza City
+
+date: 2025-08-08, from: RTÉ News
+
+Israel's security cabinet has approved a plan to take control of Gaza City, a move expanding military operations in the shattered Palestinian territory despite growing criticism at home and abroad over the almost two-year-old war. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0808/1527454-israel-hamas-gaza/>
+
+---
+
+## Australian woman allegedly served husband poisoned pasta
+
+date: 2025-08-08, from: RTÉ News
+
+An Australian woman who murdered three of her in-laws with a meal of toxic mushrooms also allegedly tried to murder her husband using poisoned pasta, a chicken curry and a sandwich wrap, evidence showed after a judge allowed its disclosure. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0808/1527453-mushroom-poison-husband/>
+
+---
+
+## Trump to host Armenia, Azerbaijan for 'Peace Signing'
+
+date: 2025-08-07, from: RTÉ News
+
+US President Donald Trump has announced he will host the leaders of Armenia and Azerbaijan later today for what he called a "Historic Peace Summit" aimed at ending a decades-long conflict between two former Soviet republics. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0808/1527451-trump-to-host-armenia-azerbaijan-for-peace-signing/>
+
+---
+
+## 'People are worried': Fears grow among Indians living in Ireland
+
+date: 2025-08-07, from: RTÉ News
+
+Ireland is making the news in India for all the wrong reasons after a series of violent assaults here against Indians and those with Indian heritage 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0807/1527444-people-are-worried-fears-grow-among-indians-living-in-ireland/>
 
 ---
 
@@ -13,7 +253,7 @@ updated: 2025-08-07 14:08:12
 
 date: 2025-08-07, from: RTÉ News
 
-A group of US Congress members has written to US Secretary of the Treasury Scott Bessent asking him to consider adding Ireland to a list of countries which boycott Israel if the Occupied Territories Bill (OTB) is passed. 
+A group of US Congress members has written to US Secretary of the Treasury Scott Bessent asking him to consider adding Ireland to a list of countries which boycott Israel if the Occupied Territories Bill is passed. 
 
 <br> 
 
@@ -49,6 +289,18 @@ The PSNI has launched a plan to build greater trust with black and ethnic minori
 
 ---
 
+## Piapot First Nation members learn more about their family histories at genealogy workshop
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7603492.1754603131!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/dwayne-noname.JPG' alt='Man with short hair and dark short sleeved shirt holds up a paper with his past relatives names on a family tree.' width='620' height='349' title='62 year old Dwayne Noname is happy he found out more on who is great-grandparents were and wants to share with family what he has learned.'/><p>A genealogy workshop this week helped community members trace their family trees using archives, photos and DNA testing. "It's about helping our people find their way back home to their names, their bloodlines, their ancestors," said facilitator Dean Lerat.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/piapot-family-genealogy-workshop-1.7603484?cmp=rss>
+
+---
+
 ## Watch: What's going on with food prices?
 
 date: 2025-08-07, from: RTÉ News
@@ -73,6 +325,18 @@ Turkish heavyweights Besiktas hit four first-half goals against St Pat's while S
 
 ---
 
+## U.S. air force to deny retirement benefits to transgender service members being forced out
+
+date: 2025-08-07, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.1529757.1754601338!/httpImage/image.jpg_gen/derivatives/16x9_620/f-35-joint-strike-fighter-jet.jpg' alt='A man stands with his back to the camera, facing a fighter jet.' width='620' height='349' title='In this photo taken on July 14, 2011 and released by U.S. Air Force, Tech. Sgt. Brian West watches an F-35 Lightning II approach for the first time at Eglin Air Force Base, Fla. Japan&apos;s government has selected the Lockheed Martin F-35 stealth fighter to bolster its aging air force and is likely to announce the multibillion-dollar deal by the end of the week, news reports said Tuesday, Dec. 13, 2011. '/><p>The U.S. air force said Thursday it would deny all transgender service members who have served between 15 and 18 years the option to retire early, and would instead force them out without retirement benefits. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/transgender-air-force-1.7603653?cmp=rss>
+
+---
+
 ## 17 notifications of abuse allegations in Wicklow centre
 
 date: 2025-08-07, from: RTÉ News
@@ -82,6 +346,18 @@ There were 17 notifications of abuse allegations submitted to the Health Informa
 <br> 
 
 <https://www.rte.ie/news/2025/0807/1527417-hiqa-wicklow/>
+
+---
+
+## Dublin woman crowned Best Dressed at Dublin Horse Show 2025
+
+date: 2025-08-07, from: RTÉ News
+
+Nadine King from Dublin is this year's Best Dressed at The RDS Dublin Horse Show. 
+
+<br> 
+
+<https://www.rte.ie/lifestyle/fashion/2025/0807/1527418-dublin-woman-crowned-best-dressed-at-dublin-horse-show-2025/>
 
 ---
 
@@ -109,12 +385,12 @@ Br. Guy Consolmagno gave the blessing for The Vestal Street Opening Reception
 
 ---
 
-## Pope to celebrate Mass in Albano with the poor on August 17
+## Pope to celebrate Mass, share lunch with the poor in Albano on August 17
 
 date: 2025-08-07, from: Vatican News
 
 
-                    <p>Pope Leo XIV will celebrate Holy Mass on Sunday, August 17, with the poor assisted by the Diocese in Albano, a small town in the vicinity of Castel Gandolfo, the location of the Papal Residence in the Alban Hills outside Rome.</p>
+                    <p>Pope Leo XIV will visit with the poor assisted by the Diocese of Albano, celebrating Holy Mass on Sunday, August 17, and then joining them for lunch after the Angelus. </p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -122,6 +398,18 @@ date: 2025-08-07, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-albano-mass-poor-caritas-castel-gandolfo-angelus.html>
+
+---
+
+## Ministers reflect on all 3 summits with Indigenous leaders on Bill C-5
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/3f458c56-0ae4-41f9-bc5b-41752d8a071d,1754597364815/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Indigenous Services Minister Mandy Gull-Masty and Crown-Indigenous Relations Minister Rebecca Alty' width='620' height='349' title='Indigenous Services Minister Mandy Gull-Masty and Crown-Indigenous Relations Minister Rebecca Alty speak to reporters on Thursday in Ottawa after a summit with Metis leaders. It&apos;s the third such summit with Indigenous leaders on the government’s major project bill and the ministers say they’ve heard there is a ‘desire to define where they want to be in the economic space.’'/><p>Indigenous Services Minister Mandy Gull-Masty and Crown-Indigenous Relations Minister Rebecca Alty speak to reporters on Thursday in Ottawa after a summit with Métis leaders. It's the third such summit with Indigenous leaders on the government’s major projects bill and the ministers say they’ve heard there is a ‘desire to define where they want to be in the economic space.’</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6859408?cmp=rss>
 
 ---
 
@@ -303,7 +591,7 @@ In Africa’s Sahel region, deepening violence and poverty – driven by displac
 
 ## Facing rising risks, landlocked nations launch climate alliance at UN summit
 
-date: 2025-08-07, from: United Nations, Economic Development
+date: 2025-08-07, from: United Nations, Top Stories
 
 Countries agreed Thursday to form a new climate negotiating bloc to advocate for the unique needs of nations without direct access to the sea. The decision was reached at the Third UN Conference on Landlocked Developing Countries (LLDC3), currently under way in Awaza, Turkmenistan. 
 
@@ -425,11 +713,11 @@ date: 2025-08-07, from: CBC, Indigenious News
 
 ---
 
-## Venue for Trump-Putin meeting in coming days 'agreed'
+## Trump-Putin meeting not conditional on Zelensky meeting
 
 date: 2025-08-07, from: RTÉ News
 
-US President Donald Trump and Russian counterpart Vladimir Putin will meet in the "coming days" with an undisclosed venue agreed by both sides "in principle". 
+US President Donald Trump said Russia's Vladimir Putin does not have to agree to meet with Ukraine's Volodymyr Zelensky in order to have a meeting with him. 
 
 <br> 
 
@@ -442,7 +730,7 @@ US President Donald Trump and Russian counterpart Vladimir Putin will meet in th
 date: 2025-08-07, from: Vatican News
 
 
-                    <p>Marking the 80th anniversary of the atomic bombings of Hiroshima and Nagasaki, Cardinal Cupich who is on a Pilgrimage of Peace with other US Church leaders, celebrates Mass in Nagasaki, offering a stark assessment of the U.S. decision to use atomic weapons in World War II.</p>
+                    <p>Marking the 80th anniversary of the atomic bombings of Hiroshima and Nagasaki, Cardinal Cupich, who is on a Pilgrimage of Peace with other US Church leaders,  delivers a speech at the Interreligious Symposium of Nuclear Issues and World Peace in Nagasaki, offering a stark assessment of the U.S. decision to use atomic weapons in World War II.</p>
                     <p><a href="https://www.vaticannews.va/en/church/news/2025-08/cardinal-cupich-homily-80-anniversary-nagasaki-atomic-bombing-us.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -987,7 +1275,7 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
 
-date: 2025-08-06, from: United Nations, Economic Development
+date: 2025-08-06, from: United Nations, Top Stories
 
 For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
 
@@ -1035,7 +1323,7 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 
 ## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
 
-date: 2025-08-06, from: United Nations, Economic Development
+date: 2025-08-06, from: United Nations, Top Stories
 
 Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
 
@@ -1633,7 +1921,7 @@ The father of a "lifelong fan" who fell to his death at the end of an Oasis conc
 
 ---
 
-## 'Energy in the room:’ U.S. ambassador on why no tariff extension for Canada
+## WATCH | 'Energy in the room:’ U.S. ambassador on why no tariff extension for Canada
 
 date: 2025-08-05, from: CBC, World News
 
@@ -1903,7 +2191,7 @@ The value of salary overpayments to Revenue staff reached almost €1.7 million 
 
 ## Geography shouldn’t define destiny: UN summit on landlocked nations opens in Turkmenistan
 
-date: 2025-08-05, from: United Nations, Economic Development
+date: 2025-08-05, from: United Nations, Top Stories
 
 Breaking down barriers and restoring fairness in global development should be the goal of the Third UN Conference on Landlocked Developing Countries, Secretary-General António Guterres said at its opening in Awaza, Turkmenistan, on Tuesday.&nbsp; 
 
@@ -2619,7 +2907,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Economic Development
+date: 2025-08-04, from: United Nations, Climate Change
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 

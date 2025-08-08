@@ -29,7 +29,231 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-08-07 14:08:17)</p>
+<p>(date: 2025-08-08 06:08:27)</p>
+<hr />
+<h2 id="google-project-zero-changes-its-disclosure-policy">Google
+Project Zero Changes Its Disclosure Policy</h2>
+<p>date: 2025-08-08, updated: 2025-08-07, from: Bruce Schneier blog</p>
+<p>
+Google’s vulnerability finding team is again
+<a href="https://www.infosecurity-magazine.com/news/google-report-new-vulnerabilities/">pushing
+the envelope</a> of responsible disclosure:
+</p>
+<blockquote>
+<p>
+Google’s Project Zero team will retain its existing 90+30 policy
+regarding vulnerability disclosures, in which it provides vendors with
+90 days before full disclosure takes place, with a 30-day period allowed
+for patch adoption if the bug is fixed before the deadline.
+</p>
+<p>
+However, as of July 29, Project Zero will also release limited details
+about any discovery they make within one week of vendor disclosure. This
+information will encompass:
+</p>
+<ul>
+<li>
+The vendor or open-source project that received the report …
+</li>
+</ul>
+</blockquote>
+<p><br></p>
+<p><a
+href="https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html"
+class="uri">https://www.schneier.com/blog/archives/2025/08/google-project-zero-changes-its-disclosure-policy.html</a></p>
+<hr />
+<h2 id="http-is-not-simple">HTTP is not simple</h2>
+<p>date: 2025-08-08, from: Daniel Stenberg Blog</p>
+<p>I often hear or see people claim that HTTP is a simple protocol.
+Primarily of course from people without much experience or familiarity
+with actual implementations. I think I personally also had thoughts in
+that style back when I started working with the protocol. After
+personally having devoted soon three decades on writing client-side code
+…
+<a href="https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/" class="more-link">Continue
+reading <span class="screen-reader-text">HTTP is not simple</span> <span
+class="meta-nav">→</span></a></p>
+<p><br></p>
+<p><a href="https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/"
+class="uri">https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/</a></p>
+<hr />
+<h2 id="what-blue-states-should-do-if-red-states-super-gerrymander">What
+Blue States should do if Red States super-gerrymander</h2>
+<p>date: 2025-08-08, from: Robert Reich’s blog</p>
+<p>How to avoid a race to the bottom</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/what-blue-states-should-do-when-red"
+class="uri">https://robertreich.substack.com/p/what-blue-states-should-do-when-red</a></p>
+<hr />
+<h2 id="august-7-2025">August 7, 2025</h2>
+<p>date: 2025-08-08, from: Heather Cox Richardson blog</p>
+<p>At 7:22 this morning, President Donald J.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/august-7-2025"
+class="uri">https://heathercoxrichardson.substack.com/p/august-7-2025</a></p>
+<hr />
+<h2
+id="increasing-the-vram-allocation-on-amd-ai-apus-under-linux">Increasing
+the VRAM allocation on AMD AI APUs under Linux</h2>
+<p>date: 2025-08-08, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">Increasing
+the VRAM allocation on AMD AI APUs under Linux</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;Since I saw some posts calling out the old (now deprecated) way to increase GTT memory allocations for the iGPU on AMD APUs (like the AI Max+ 395 / Strix Halo I am &lt;a href=&quot;https://www.jeffgeerling.com/blog/2025/i-clustered-four-framework-mainboards-test-huge-llms&quot;&gt;testing in the Framework Mainboard AI Cluster&lt;/a&gt;), I thought I&#39;d document how to increase the VRAM allocation on such boards under Linux—in this case, Fedora:&lt;/p&gt;</code></pre>
+<pre><code># To remove an arg: `--remove-args`
+# Calculation: `([size in GB] * 1024 * 1024) / 4.096`
+sudo grubby --update-kernel=ALL --args='amdttm.pages_limit=27648000'
+sudo grubby --update-kernel=ALL --args='amdttm.page_pool_size=27648000'
+sudo reboot
+</code></pre>
+<p>
+The old way, <code>amdgpu.gttsize</code>, will throw the following
+warning in the kernel log:
+</p>
+<pre><code>[    4.232151] amdgpu 0000:c1:00.0: amdgpu: [drm] Configuring gttsize via module parameter is deprecated, please use ttm.pages_limit
+</code></pre>
+<p>
+After configuring the kernel parameters and rebooting, verify the AMD
+GPU driver is seeing the increased memory allocation:
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-07T20:38:22-05:00" title="Thursday, August 7, 2025 - 20:38" class="datetime">August
+7, 2025</time> </span></p>
+<p><br></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2025/increasing-vram-allocation-on-amd-ai-apus-under-linux"
+class="uri">https://www.jeffgeerling.com/blog/2025/increasing-vram-allocation-on-amd-ai-apus-under-linux</a></p>
+<hr />
+<h2
+id="new-fbi-data-shows-that-both-violent-crime-and-property-crime-are">“New
+FBI data shows that both violent crime and property crime are…</h2>
+<p>date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/08/0047301-new-fbi-data-shows-that"
+class="uri">https://kottke.org/25/08/0047301-new-fbi-data-shows-that</a></p>
+<hr />
+<h2 id="friday-8-august-2025">Friday 8 August, 2025</h2>
+<p>date: 2025-08-07, from: John Naughton’s online diary</p>
+<p>Book haven As regular readers know, I have a romantic view of
+libraries. I couldn’t live anywhere that did not have a decent one
+within easy reach — which is one of the many reasons for living in a
+university …
+<a href="https://memex.naughtons.org/friday-8-august-2025/41088/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><br></p>
+<p><a href="https://memex.naughtons.org/friday-8-august-2025/41088/"
+class="uri">https://memex.naughtons.org/friday-8-august-2025/41088/</a></p>
+<hr />
+<h2
+id="why-wildlife-crossings-and-crucial-for-animals-and-humans-they-embiggen-habitats">Why
+wildlife crossings and crucial for animals and humans: they embiggen
+habitats…</h2>
+<p>date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/08/0047258-why-wildlife-crossings-an"
+class="uri">https://kottke.org/25/08/0047258-why-wildlife-crossings-an</a></p>
+<hr />
+<h2 id="oddμ-hashtags">2025-08-07 Oddμ hashtags</h2>
+<p>date: 2025-08-07, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-08-07-oddμ-hashtags">
+2025-08-07 Oddμ hashtags
+</h1>
+<p>
+I was recently looking at my homepage and wondered about all the
+hashtags I used and how not all of them had a topic page. The
+<a href="Odd%CE%BC">Oddμ</a> page, for example, collects all the
+blogposts tagged <a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a>
+(including this one). So I looked at the
+<a href="oddmu/oddmu-hashtags.1">hashtags</a> command and figured, “this
+is going to be easy.” 🤣
+</p>
+<p>
+The first problem is that there are a lot of garbage hashtags. There are
+over 1000 hashtags used on this site! The garbage hashtags are the
+result of Markdown parsing mistakes that I never fixed. Apparently the
+list of hashtags includes the following:
+</p>
+<pre><code>#1)
+#fennel”
+#fudge](fudge)_and_the_[pdq](../wiki?action=edit;id=pdq_&quot;click_to_edit_this_page&quot;)_rules_used_in_[zorcererofzo.
+ffffff;fill-opacity:1&quot;)
+###｣
+</code></pre>
+<p>
+This is not great. 😔
+</p>
+<p>
+I should fix those, and many more. 🤨
+</p>
+<p>
+Furthermore, the hashtags are all downcased. So given a hashtag such as
+<code>#advanced_squad_leader</code> the code would have to infer the
+page name “Advanced Squad Leader”. But what about the hashtag
+<code>#älter werden</code>? If at all, that should link to a page called
+“Älter werden”.
+</p>
+<p>
+And so I concluded that this wasn’t easy after all. I saved the changes
+I made on a branch, and I don’t think I’ll be merging that into the main
+branch.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Wikis">#Wikis</a>
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-08-07-oddmu-hashtags"
+class="uri">https://alexschroeder.ch/view/2025-08-07-oddmu-hashtags</a></p>
+<hr />
+<h2 id="from-the-phonograph-podcast-a-look-at-the-early-days-of-99">From
+the Phonograph podcast, a look at the early days of 99%…</h2>
+<p>date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/08/0047284-from-the-phonograph-podca"
+class="uri">https://kottke.org/25/08/0047284-from-the-phonograph-podca</a></p>
+<hr />
+<h2
+id="tractor-beams-exist-in-the-real-world.-they-use-ultrasound-to-hover">Tractor
+beams exist in the real world. They use ultrasound to hover…</h2>
+<p>date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/08/0047297-tractor-beams-exist-in-th"
+class="uri">https://kottke.org/25/08/0047297-tractor-beams-exist-in-th</a></p>
+<hr />
+<h2 id="the-worlds-greatest-showoff">The World’s Greatest Showoff</h2>
+<p>date: 2025-08-07, from: Dan Rather’s Steady</p>
+<p>Good thing P.T. Barnum didn’t live to see Trump</p>
+<p><br></p>
+<p><a href="https://steady.substack.com/p/the-worlds-greatest-showoff"
+class="uri">https://steady.substack.com/p/the-worlds-greatest-showoff</a></p>
+<hr />
+<h2 id="on-showing-up-and-meeting-the-moment">On Showing Up, and Meeting
+the Moment</h2>
+<p>date: 2025-08-07, from: James Fallows, Substack</p>
+<p>Steps toward defending our institutions. An extension from personal
+to public life.</p>
+<p><br></p>
+<p><a
+href="https://fallows.substack.com/p/on-showing-up-and-meeting-the-moment"
+class="uri">https://fallows.substack.com/p/on-showing-up-and-meeting-the-moment</a></p>
+<hr />
+<h2 id="an-exchange-with-a-young-person-whos-understandably-dismayed">An
+exchange with a young person who’s understandably dismayed</h2>
+<p>date: 2025-08-07, from: Robert Reich’s blog</p>
+<p>Friends,</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/an-exchange-with-one-young-person"
+class="uri">https://robertreich.substack.com/p/an-exchange-with-one-young-person</a></p>
+<hr />
+<h2 id="vintage-bike-tricks-circa-1965">Vintage Bike Tricks, Circa
+1965</h2>
+<p>date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/08/vintage-bike-tricks-circa-1965-1"
+class="uri">https://kottke.org/25/08/vintage-bike-tricks-circa-1965-1</a></p>
 <hr />
 <h2 id="august-6-2025">August 6, 2025</h2>
 <p>date: 2025-08-07, from: Heather Cox Richardson blog</p>
@@ -57,7 +281,7 @@ class="uri">http://scripting.com/2025/08/07.html#a201005</a></p>
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 Scripting News</strong> (date: 2025-08-07, from: Dave Winer’s Scripting
 News)</p>
-<p>ChatGPT is even
+<p>ChatGPT 5 is even
 <a href="https://daveverse.org/2025/08/07/chatgpt-5-is-even-more-of-a-bastard-than-4/">more
 of a bastard</a> than 4.</p>
 <p><br></p>

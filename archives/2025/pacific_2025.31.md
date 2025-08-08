@@ -1,11 +1,763 @@
 ---
 title: pacific
-updated: 2025-08-07 14:08:15
+updated: 2025-08-08 06:08:24
 ---
 
 # pacific
 
-(date: 2025-08-07 14:08:15)
+(date: 2025-08-08 06:08:24)
+
+---
+
+## COVID-19 cases in Hawaii still on upward trend
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s COVID-19 cases are still ticking up, continuing an upward trend that began this summer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/hawaii-news/covid-19-cases-in-hawaii-still-on-upward-trend/>
+
+---
+
+## Hawaii County bars, restaurants to carry life-saving Narcan under new bill
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>A bill that would require bars and restaurants in Hawaii County to keep naloxone, a medication that reverses opioid overdoses, on-site passed out of a County Council committee Tuesday with unanimous support.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/hawaii-news/hawaii-county-bars-restaurants-to-carry-life-saving-narcan-under-new-bill/>
+
+---
+
+## UH Hilo student gets rare opportunity to participate in Nautilus expedition
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Hayden Niles, a University of Hawaii at Hilo student with a lifelong adoration for the ocean and sustainable practices, is living his literal dream as a deep sea intern aboard the Exploration Vessel Nautilus collecting data and samples for scientific advancement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/hawaii-news/uh-hilo-student-gets-rare-opportunity-to-participate-in-nautilus-expedition/>
+
+---
+
+## AG seeks records involving 4 cops
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department is fighting a subpoena by state Attorney General Anne Lopez seeking records of an internal affairs probe of alleged misconduct by four current HPD officers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/hawaii-news/ag-seeks-records-involving-4-cops/>
+
+---
+
+## Trump’s higher tariffs hit major US trading partners, sparking defiance and concern
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President Donald Trump&#8217;s higher tariffs on imports from dozens of countries kicked in on Thursday, raising the average U.S. import duty to its highest in a century and leaving major trade partners such as Switzerland, Brazil and India hurriedly searching for a better deal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/trumps-higher-tariffs-hit-major-us-trading-partners-sparking-defiance-and-concern/>
+
+---
+
+## Netanyahu says he wants Israel to take control of all of Gaza
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/CAIRO &#8212; Israeli Prime Minister Benjamin Netanyahu said on Thursday that Israel intends to take military control of all of Gaza, despite intensifying criticism at home and abroad over the devastating almost two-year-old war in the Palestinian enclave.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/netanyahu-says-he-wants-israel-to-take-control-of-all-of-gaza/>
+
+---
+
+## OpenAI aims to stay ahead of rivals with new GPT-5 technology
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; ChatGPT is getting another upgrade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/openai-aims-to-stay-ahead-of-rivals-with-new-gpt-5-technology/>
+
+---
+
+## News in brief for August 8
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Neo-Nazi sentenced to 20 years for plot to sabotage power grid</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/news-in-brief-for-august-8/>
+
+---
+
+## Trump orders new census that excludes immigrants in the US illegally
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said Thursday that he had ordered the Commerce Department to begin work on a new census that excludes immigrants in the country illegally, as he and his allies press Republican-led states to redraw their congressional maps to benefit the party.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/trump-orders-new-census-that-excludes-immigrants-in-the-us-illegally/>
+
+---
+
+## Trump administration plans to build largest US federal migrant detention center on military base
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s administration is aiming to construct the largest federal migrant detention facility in the United States on a military base in Texas, the Pentagon said on Thursday, the latest move to use military resources to make good on his immigration agenda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/trump-administration-plans-to-build-largest-us-federal-migrant-detention-center-on-military-base/>
+
+---
+
+## VAC hosts annual Forest Fair this Saturday
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>The Volcano Art Center invites the public to its annual Forest Fair and Plant Sale.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/community/vac-hosts-annual-forest-fair-this-saturday/>
+
+---
+
+## Trump picks Stephen Miran to fill open spot on Fed Board
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump on Thursday said he will nominate Council of Economic Advisers Chairman Stephen Miran to serve out the final few months of a newly vacant seat at the Federal Reserve while the White House seeks a permanent addition to the central bank&#8217;s governing board and continues its search for a new Fed chair. Miran has called for a complete overhaul of the Fed&#8217;s governance, would take over from Fed Governor Adriana Kugler following her surprise resignation last week, as she returns to her tenured professorship at Georgetown University.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/trump-picks-stephen-miran-to-fill-open-spot-on-fed-board/>
+
+---
+
+## US jobless claims edge up, but ‘no-hire, no-fire’ trend remains intact
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>The number of Americans filing new applications for unemployment benefits ticked up to the highest level in a month last week, suggesting the labor market was largely stable even though job creation is weakening and it is taking laid-off workers longer to find new employment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/nation-world-news/us-jobless-claims-edge-up-but-no-hire-no-fire-trend-remains-intact/>
+
+---
+
+## Kona author wins prestigious award for new novel
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>&#8221;Knife River,&#8221; the latest novel by bestselling mystery writer and longtime Kona resident Baron Birtcher, has been awarded the Will Rogers Medallion Award.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/community/kona-author-wins-prestigious-award-for-new-novel/>
+
+---
+
+## Hana No‘eau Hawaiian Arts Festival returns this weekend
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Na Makua will hold their annual 2025 Hana No&#8216;eau Hawaiian Arts Festival this Saturday and Sunday in the Moku Ola Ballroom at the Hilo Hawaiian Hotel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/community/hana-noeau-hawaiian-arts-festival-returns-this-weekend/>
+
+---
+
+## Kona student awarded $20K Fukunaga scholarship
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>A recent Kealakehe High School graduate has been awarded $20,000 from the Fukunaga Scholarship Foundation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/community/kona-student-awarded-20k-fukunaga-scholarship/>
+
+---
+
+## Walk4Life Event promotes Breastfeeding Awareness in Palau
+
+date: 2025-08-08, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79470" data-permalink="https://islandtimes.org/walk4life-event-promotes-breastfeeding-awareness-in-palau/img_5580/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5580" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5580.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau (Aug.7, 2025) – More than 100 participants took part in a walkathon Thursday evening organized by the Family Health Unit of the Ministry of Health and Human Services in partnership with Palau Athletics, marking World Breastfeeding Week. The Walk4Life event began at 5:30 p.m. at Ernguul Park, with participants [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/walk4life-event-promotes-breastfeeding-awareness-in-palau/">Walk4Life Event promotes Breastfeeding Awareness in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/walk4life-event-promotes-breastfeeding-awareness-in-palau/>
+
+---
+
+## Dil Belau contestants champion Youth issues ahead of August 21 Event
+
+date: 2025-08-08, from: Island Times
+
+<p>&#160;By : Eoghan Olkeriil Ngirudelsang&#160; KOROR, Palau &#8211; The five young women competing for the title of Dil Belau 2025 have officially launched their campaigns, introducing themselves through video messages and kicking off a series of pre-event activities leading up to the main event on August 21.Representing their respective states, each contestant is advocating for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dil-belau-contestants-champion-youth-issues-ahead-of-august-21-event/">Dil Belau contestants champion Youth issues ahead of August 21 Event</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dil-belau-contestants-champion-youth-issues-ahead-of-august-21-event/>
+
+---
+
+## New Moms call for compassionate Reform of Belau Hospital Breastfeeding Policy
+
+date: 2025-08-08, from: Island Times
+
+<p>By: Faith Chen New mothers at Belau National Hospital are voicing growing concerns over the hospital’s breastfeeding policy, which mandates that infants are to be fed exclusively breastmilk unless medically required otherwise. The policy explicitly states that glucose, water, or any substitute products will not be given to newborns in the hospital unless medically warranted, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-moms-call-for-compassionate-reform-of-belau-hospital-breastfeeding-policy/">New Moms call for compassionate Reform of Belau Hospital Breastfeeding Policy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-moms-call-for-compassionate-reform-of-belau-hospital-breastfeeding-policy/>
+
+---
+
+## “Out of Hand”
+
+date: 2025-08-08, from: Island Times
+
+<p>Public Speak Out as drug crisis grips Palau schools By: Laurel Marewibuel Palau is facing a growing drug problem among its youth, with marijuana use and distribution becoming increasingly prevalent in high schools across the nation. A high school teacher at Palau High School, in his 40s, revealed that marijuana has increasingly occupied the minds [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/out-of-hand/">“Out of Hand”</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/out-of-hand/>
+
+---
+
+## Palau Bolsters Cyber defenses following wave of attacks
+
+date: 2025-08-08, from: Island Times
+
+<p>KOROR, Palau — The Republic of Palau is taking significant strides to shore up its digital defenses after a series of cyber-attacks targeted government ministries and critical infrastructure, the latest in a wave of incidents rocking the Pacific region. A new confidential report, compiled in partnership with Australian cyber experts and Palauan officials, details a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-bolsters-cyber-defenses-following-wave-of-attacks/">Palau Bolsters Cyber defenses following wave of attacks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-bolsters-cyber-defenses-following-wave-of-attacks/>
+
+---
+
+## PASAI Aids Palau’s Public Auditor in strengthening Audit capabilities
+
+date: 2025-08-08, from: Island Times
+
+<figure><img width="1024" height="580" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?fit=1024%2C580&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=1024%2C580&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=1200%2C680&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=780%2C442&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=400%2C227&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?resize=706%2C400&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?fit=1024%2C580&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79451" data-permalink="https://islandtimes.org/pasai-aids-palaus-public-auditor-in-strengthening-audit-capabilities/public-auditor-and-his-staff-with-mr-mike-scott/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?fit=1249%2C708&amp;ssl=1" data-orig-size="1249,708" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Public Auditor and his staff with Mr. Mike Scott" data-image-description="" data-image-caption="&lt;p&gt;Public Auditor and his staff with Mr. Mike Scott.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?fit=300%2C170&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Public-Auditor-and-his-staff-with-Mr.-Mike-Scott.jpg?fit=780%2C442&amp;ssl=1" /></figure>
+<p>Koror, Palau — Mike Scott, Program Director from the Pacific Association of Supreme Audit Institutions (PASAI), is providing in-person technical assistance to the Office of the Public Auditor (OPA) of the Republic of Palau this week. His visit aims to strengthen the OPA’s audit capabilities and internal governance. Scott’s support spans a broad range of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pasai-aids-palaus-public-auditor-in-strengthening-audit-capabilities/">PASAI Aids Palau’s Public Auditor in strengthening Audit capabilities</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pasai-aids-palaus-public-auditor-in-strengthening-audit-capabilities/>
+
+---
+
+## NSCO cracks down on visa violations
+
+date: 2025-08-08, from: Island Times
+
+<p>By: Bernadette Carreon The National Security and Coordinating Office (NSCO) cracked down on visa violations and illegal operations during a six-month enforcement period, according to a feedback report in June. In its report, NSCO completed a comprehensive six-month immigration enforcement operation that resulted in over 70 deportations and the denial of nearly 200 visa and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nsco-cracks-down-on-visa-violations/">NSCO cracks down on visa violations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/nsco-cracks-down-on-visa-violations/>
+
+---
+
+## Palau’s coral refugia offer hope for reefs facing rising temperatures
+
+date: 2025-08-08, from: Island Times
+
+<figure><img width="600" height="319" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?fit=600%2C319&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?resize=300%2C160&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?resize=400%2C213&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?fit=600%2C319&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79445" data-permalink="https://islandtimes.org/palaus-coral-refugia-offer-hope-for-reefs-facing-rising-temperatures/aug08issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?fit=600%2C319&amp;ssl=1" data-orig-size="600,319" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;aug08issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="aug08issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?fit=300%2C160&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/coral.jpg?fit=600%2C319&amp;ssl=1" /></figure>
+<p>Coral reefs across Micronesia are under growing threat from warming oceans. As temperatures rise, bleaching events are becoming more frequent and severe, pushing many reefs closer to collapse. Without urgent climate action, scientists warn that nearly all reefs could suffer from degradation in the coming decades. But recent research offers hope: some reefs in Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-coral-refugia-offer-hope-for-reefs-facing-rising-temperatures/">Palau’s coral refugia offer hope for reefs facing rising temperatures</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-coral-refugia-offer-hope-for-reefs-facing-rising-temperatures/>
+
+---
+
+## Republic of Palau COFA Trust Fund rebounds strongly following April market sell-off
+
+date: 2025-08-08, from: Island Times
+
+<p>Koror, Palau — August 8, 2025&#160;— The Republic of Palau’s Compact of Free Association (COFA) Trust Fund has demonstrated remarkable resilience in the second quarter of 2025, rebounding strongly from a sharp market sell-off in April. As of June 30, the Fund’s total market value reached&#160;$428.4 million, reflecting a&#160;7.87% gain for Q2&#160;and a&#160;3.13% increase in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/republic-of-palau-cofa-trust-fund-rebounds-strongly-following-april-market-sell-off/">Republic of Palau COFA Trust Fund rebounds strongly following April market sell-off</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/republic-of-palau-cofa-trust-fund-rebounds-strongly-following-april-market-sell-off/>
+
+---
+
+## Applications open for Direct AID Program 2025
+
+date: 2025-08-08, from: Island Times
+
+<p>5 August 2025&#8211; The Australian Embassy is pleased to announce that the 2025 Direct Aid Program (DAP) is now open for applications. The application period will close on September 2, 2025, at 4:00 PM (Palau Time). DAP is a flexible, small grants program funded by the Australian Government and is available to&#160;non-government organizations (NGOs)&#160;and&#160;community groups&#160;engaged in development projects. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/applications-open-for-direct-aid-program-2025/">Applications open for Direct AID Program 2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/applications-open-for-direct-aid-program-2025/>
+
+---
+
+## The Gift in the Darkness: What the Blackouts Taught Us
+
+date: 2025-08-08, from: Island Times
+
+<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
+<p>Dear Editor, In these past few months, as Palau faced some power outages across our islands for various reason, many were quick to raise their voices in frustration. From social media rants to the heated complaints at the store or the office, it was clear, people were angry. No lights, no air conditioning, no Wi-Fi. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-gift-in-the-darkness-what-the-blackouts-taught-us/">The Gift in the Darkness: What the Blackouts Taught Us</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-gift-in-the-darkness-what-the-blackouts-taught-us/>
+
+---
+
+## Healing and Repairing Emotional Damages
+
+date: 2025-08-08, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>The only person that deserves a special place in your life is someone that never made you feel like you were an option in theirs. Most emotional and verbal&#160; abuses are from our original families. They say it&#8217;s for our own&#160; good. It&#8217;s a perverted reasoning in my opinion. Sadly, name calling and labeling is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/healing-and-repairing-emotional-damages/">Healing and Repairing Emotional Damages</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/healing-and-repairing-emotional-damages/>
+
+---
+
+## Palau backs Solomon Islands’ move to exclude Pacific Islands Forum partner talks until 2026
+
+date: 2025-08-08, from: Island Times
+
+<p>KOROR/RAROTONGA (RNZ PACIFIC)&#8212;Palau &#8220;respects&#8221; the Solomon Islands&#8217; decision to exclude Pacific Islands Forum (PIF) dialogue partners when it hosts the annual leaders&#8217; meeting in Honiara next month. Prime Minister Jeremiah Manele has sent letters to PIF member states suggesting a move to restrict partners, including China, the United States and Taiwan, from the gathering next [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026/">Palau backs Solomon Islands&#8217; move to exclude Pacific Islands Forum partner talks until 2026</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-backs-solomon-islands-move-to-exclude-pacific-islands-forum-partner-talks-until-2026/>
+
+---
+
+## Guam looks into U.S plans of requiring up to $15K deposit for some tourist, business visas
+
+date: 2025-08-08, from: Island Times
+
+<p>HAGATNA (GUAM PACIFIC DAILY NEWS) &#8212;Guam, through its visitors’ bureau and economic development agency, is now looking into the potential impacts of the U.S government’s plans to require bonds of up to US$15,000 for some tourist and business visas under a pilot program starting Aug. 20, part of efforts to crack down on visitors who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-looks-into-u-s-plans-of-requiring-up-to-15k-deposit-for-some-tourist-business-visas/">Guam looks into U.S plans of requiring up to $15K deposit for some tourist, business visas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/guam-looks-into-u-s-plans-of-requiring-up-to-15k-deposit-for-some-tourist-business-visas/>
+
+---
+
+## U.S begins talks with Cook Islands on seabed mining, gears up to compete with China
+
+date: 2025-08-08, from: Island Times
+
+<p>WASHINGTON/RAROTONGA (PACIFIC ISLAND TIMES) &#8212;-The U.S has begun discussions with the Cook Islands on the exploration of seabed minerals within its waters, in a bid to catch up with China, which has previously clinched a similar deal with the island nation. “Together, we commit to advancing responsible development of seabed minerals and global scientific understanding [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-begins-talks-with-cook-islands-on-seabed-mining-gears-up-to-compete-with-china/">U.S begins talks with Cook Islands on seabed mining, gears up to compete with China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-begins-talks-with-cook-islands-on-seabed-mining-gears-up-to-compete-with-china/>
+
+---
+
+## Marshall Islands President Heine calls out ‘interference’ in Pacific Islands Forum programme
+
+date: 2025-08-08, from: Island Times
+
+<p>MAJURO (MARIANAS VARIETY) &#8212;Leaders of the three Pacific nations with diplomatic ties to Taiwan are united in a message to the Pacific Islands Forum that the premier regional body must not allow non-member countries to dictate Forum policies — a reference to the China-Taiwan geopolitical debate. Marshall Islands President Hilda Heine, in remarks to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marshall-islands-president-heine-calls-out-interference-in-pacific-islands-forum-programme/">Marshall Islands President Heine calls out ‘interference’ in Pacific Islands Forum programme</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/marshall-islands-president-heine-calls-out-interference-in-pacific-islands-forum-programme/>
+
+---
+
+## China, U.S could be excluded from Pacific Islands Forum amid pressure over Taiwan
+
+date: 2025-08-08, from: Island Times
+
+<p>HONIARA (ABC PACIFIC) &#8212;-Solomon Islands could try to defuse a potentially explosive stoush over Taiwan&#8217;s participation in a key regional meeting next month by restricting the gathering to Pacific Islands Forum (PIF) members — effectively excluding China, the US and a host of other countries as well. Solomon Islands Prime Minister Jeremiah Manele is under [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-u-s-could-be-excluded-from-pacific-islands-forum-amid-pressure-over-taiwan/">China, U.S could be excluded from Pacific Islands Forum amid pressure over Taiwan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-u-s-could-be-excluded-from-pacific-islands-forum-amid-pressure-over-taiwan/>
+
+---
+
+## US Army sergeant shoots 5 fellow soldiers at Fort Stewart army base in Georgia
+
+date: 2025-08-08, from: Island Times
+
+<p>In short: (ABC-Australia) An Army sergeant has used his personal handgun to open fire at a military base in Georgia, shooting and wounding five fellow soldiers. The suspect is 28-year-old Sergeant Quornelius Radford, the US Army has said. What&#8217;s next? The Army says it is unsure why Sergeant Radford shot at his co-workers, who were [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-army-sergeant-shoots-5-fellow-soldiers-at-fort-stewart-army-base-in-georgia/">US Army sergeant shoots 5 fellow soldiers at Fort Stewart army base in Georgia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-army-sergeant-shoots-5-fellow-soldiers-at-fort-stewart-army-base-in-georgia/>
+
+---
+
+## Fiji's top prosecutor in NZ accused of corruption claims charges are politically motivated
+
+date: 2025-08-08, from: 
+
+Christopher Pryde, who is in self-imposed exile in Aotearoa, claims charges brought by the country's anti-corruption agency this week are bogus. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569432/fiji-s-top-prosecutor-in-nz-accused-of-corruption-claims-charges-are-politically-motivated>
+
+---
+
+## Rolex boutique, two other luxury brand stores on Guam to close shop
+
+date: 2025-08-08, from: Pacific Island Times
+
+The Rolex boutique at the Dusit Place in Tumon will close its business on Dec. 31, 2025. Photo by Mar-Vic Cagurangan/Pacific Island Times... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/caronel-to-close-rolex-and-other-high-end-brand-boutiques-on-guam>
+
+---
+
+## Alumni businesses shine at record breaking UH Alumni Makers’ Market
+
+date: 2025-08-08, from: University of Hawaiʻi News
+
+<p>Refreshing sips, savory bites and more at alumni-owned business showcase.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/record-breaking-alumni-makers-market/">Alumni businesses shine at record breaking <abbr>UH</abbr> Alumni Makers’ Market</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/record-breaking-alumni-makers-market/>
+
+---
+
+## Six years after referendum, Bougainville's quest for independence still faces roadblocks
+
+date: 2025-08-08, from: 
+
+As the autonomous Papua New Guinea region prepares to elect a new government, front and centre is the "incredibly challenging issue" of independence. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569426/six-years-after-referendum-bougainville-s-quest-for-independence-still-faces-roadblocks>
+
+---
+
+## Drawing from memory: Auckland-based Tongan artist brings Pacific nostalgia to life
+
+date: 2025-08-08, from: 
+
+Luca Tu'avao Walton is an emerging voice in the Pacific creative landscape with a distinctive style rooted in memory, identity, and the 'nostalgia' of island life. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569402/drawing-from-memory-auckland-based-tongan-artist-brings-pacific-nostalgia-to-life>
+
+---
+
+## Rainbow Wahine picked first in Big West preseason soccer poll
+
+date: 2025-08-08, from: University of Hawaiʻi News
+
+<p>This marks the program’s first preseason No. 1 ranking since 2008.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/rainbow-wahine-first-in-preseason-soccer-poll/">Rainbow Wahine picked first in Big West preseason soccer poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/rainbow-wahine-first-in-preseason-soccer-poll/>
+
+---
+
+## Hawaiʻi’s 1st advanced manufacturing training program launches at Honolulu CC
+
+date: 2025-08-08, from: University of Hawaiʻi News
+
+<p>Advanced manufacturing training kicks off, helping residents reach high-demand careers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/advanced-manufacturing-training-program-at-honolulu-cc/">Hawaiʻi’s 1st advanced manufacturing training program launches at Honolulu <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/advanced-manufacturing-training-program-at-honolulu-cc/>
+
+---
+
+## Bougainville election: Women's rights activist Therese Kaetavara aims to retain her seat
+
+date: 2025-08-08, from: 
+
+Therese Kaetavara is aiming to retain her South Bougainville women's reserved seat and return as an MP after the 2025 Bougainville general election next month. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569409/bougainville-election-women-s-rights-activist-therese-kaetavara-aims-to-retain-her-seat>
+
+---
+
+## Traditional Māori sports featured for the first time at Cook Islands Constitution celebrations
+
+date: 2025-08-08, from: 
+
+Competitors from different islands faced off in rock lifting, coconut husking, fruit racing and wrestling, with most coming from Pukapuka, an atoll in the Northern Group. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569407/traditional-maori-sports-featured-for-the-first-time-at-cook-islands-constitution-celebrations>
+
+---
+
+## Cricket PNG names Barramundis squad for 2025 Jersey Cricket World Cup Challenge
+
+date: 2025-08-08, from: 
+
+PNG will meet Denmark, Kuwait, Kenya, Qatar and hosts Jersey in round two the 2025 Jersey Cricket World Cup Challenge League A competition. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569396/cricket-png-names-barramundis-squad-for-2025-jersey-cricket-world-cup-challenge>
+
+---
+
+## Backdoor deal? Yap-US military agreement criticized as a sellout
+
+date: 2025-08-08, from: Pacific Island Times
+
+The U.S. military and the Yap leadership are forging ahead with infrastructure projects proposed for the island state based on a revised agreement that was signed behind closed doors, according to the daughter of the late Gov. Charles Chieng. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/backdoor-deal-yap-us-military-agreement-criticized-as-a-sellout>
+
+---
+
+## Samoa keeps clean sheet in Pool A with win over Tahiti at OFC U16 women's tourney
+
+date: 2025-08-07, from: 
+
+The OFC 2025 Under-16 Women's Championship hosts are on fire after defeating Tahiti 1-0 on Thursday to record their third straight win in the tournament. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569406/samoa-keeps-clean-sheet-in-pool-a-with-win-over-tahiti-at-ofc-u16-women-s-tourney>
+
+---
+
+## Weather update: 16W now Tropical Storm Podul, likely to pass near Maug
+
+date: 2025-08-07, from: Pacific Island Times
+
+Tropical storm watches remain in effect for Agrihan, Pagan and Alamagan Islands ( NWS )--Tropical Depression 16W was upgraded overnight... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/weather-update-16w-now-tropical-storm-podul-likely-to-pass-near-maug>
+
+---
+
+## Solomon Islands blocks US, China, Taiwan from Pacific's top political meet
+
+date: 2025-08-07, from: 
+
+Prime Minister Jeremiah Manele has said that 21 donor countries, including the US and China, will not be invited to the Pacific Islands Forum Leaders Meeting in Honiara. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569392/solomon-islands-blocks-us-china-taiwan-from-pacific-s-top-political-meet>
+
+---
+
+## Pacific news in brief for 8 August
+
+date: 2025-08-07, from: 
+
+A round-up of news from around the region, including China putting its support behind the Pacific 'Ocean of Peace' proposal. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569395/pacific-news-in-brief-for-8-august>
+
+---
+
+## Pasifika Sipoti in brief for 8 August
+
+date: 2025-08-07, from: 
+
+A round-up of sports news from around the region, including Tonga Rugby struggling with funding for its sevens program. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569397/pasifika-sipoti-in-brief-for-8-august>
+
+---
+
+## With or without disaster, Guam is ever ready
+
+date: 2025-08-07, from: Pacific Island Times
+
+But Guam is not a stranger to calamities. The “great generation” survived WWII. We always manage to pull through typhoons. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/with-or-without-disaster-guam-is-ever-ready>
+
+---
+
+## New book unpacks Hawaiʻi’s struggles, hidden stories
+
+date: 2025-08-07, from: University of Hawaiʻi News
+
+<p>Donald Carreira Ching, a creative writing professor at Leeward <abbr>CC</abbr>, published <em>Blood Work and Other Stories</em>, a collection of 17 emotionally layered pieces.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/07/new-book-hawaiis-struggles-hidden-stories/">New book unpacks Hawaiʻi’s struggles, hidden stories</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/07/new-book-hawaiis-struggles-hidden-stories/>
+
+---
+
+## Cook Islands seeks balance as record tourism numbers put strain on local environment
+
+date: 2025-08-07, from: 
+
+Rarotonga is as popular as it has ever been. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569369/cook-islands-seeks-balance-as-record-tourism-numbers-put-strain-on-local-environment>
+
+---
+
+## Parents of Caleb Moefa'auo, who died after being pepper sprayed, call for mental health reforms
+
+date: 2025-08-07, from: 
+
+The parents of a man who died in 2022 after being pepper sprayed are calling for mental health reforms. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569372/parents-of-caleb-moefa-auo-who-died-after-being-pepper-sprayed-call-for-mental-health-reforms>
+
+---
+
+## Fapiana’s dream set for the skies
+
+date: 2025-08-07, from: University of the South Pacific (Fiji)
+
+<p>Twenty-year-old Patrick Fapiana has his goals set firmly in the skies. Raised by a single...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/fapianas-dream-set-for-the-skies/">Fapiana’s dream set for the skies</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/fapianas-dream-set-for-the-skies/>
+
+---
+
+## Creative Indeed opens new chapter at Acanta Mall
+
+date: 2025-08-07, from: Pacific Island Times
+
+Michelle Pier By Ron Rocky Coloma Michelle Pier remembers being a teenager hanging out at Acanta Mall, dreaming aloud: “If I could afford... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/creative-indeed-opens-new-chapter-at-acanta-mall>
 
 ---
 
@@ -22,15 +774,17 @@ The post <a href="https://www.hawaii.edu/news/2025/08/07/leeward-cc-cultivates-h
 
 ---
 
-## Parents of Caleb Moefa'auo, who died after being pepper sprayed, call for mental health reforms
+## Billy Roberts’ crazy leaflet
 
-date: 2025-08-07, from: 
+date: 2025-08-07, from: Marshal Islands Journal
 
-The parents of a man who died in 2022 after being pepper sprayed are calling for mental health reforms. 
+<p>Journal 8/9/1982 P1 Senator Imada Kabua criticizes Kwaj treatmentSenator Imada Kabua on August 6 blasted the government of the Marshalls for not recognizing the duly elected Kwajalein Atoll Corporation leaders and accused the government of trying to split up the Kwajalein people by siding with a newly formed committee which he called “Ten-Ten,” a committee [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/billy-roberts-crazy-leaflet/">Billy Roberts&#8217; crazy leaflet</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
 
 <br> 
 
-<https://www.rnz.co.nz/international/pacific-news/569372/parents-of-caleb-moefa-auo-who-died-after-being-pepper-sprayed-call-for-mental-health-reforms>
+<https://marshallislandsjournal.com/billy-roberts-crazy-leaflet/>
 
 ---
 
@@ -43,18 +797,6 @@ date: 2025-08-07, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/people-s-legacy-and-ai-tool>
-
----
-
-## Cook Islands seeks balance as record tourism numbers put strain on local environment
-
-date: 2025-08-07, from: 
-
-Rarotonga is as popular as it has ever been. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569369/cook-islands-seeks-balance-as-record-tourism-numbers-put-strain-on-local-environment>
 
 ---
 
@@ -405,6 +1147,20 @@ date: 2025-08-07, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/07/nation-world-news/washington-state-braces-for-inevitable-megafire-climate-change-may-bring-it-sooner/>
+
+---
+
+## Tropical Storm Henriette continues spinning toward Hawaii
+
+date: 2025-08-07, from: Hawaii Tribune Harold
+
+
+				<p>Tropical Storm Henriette continues west toward Hawaii and should cross into the Central Pacific basin late tonight or early Friday morning. Henriette is forecasted to reach hurricane strength as it heads north of the islands.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/07/hawaii-news/tropical-storm-henriette-continues-spinning-toward-hawaii/>
 
 ---
 

@@ -1,17 +1,161 @@
 ---
 title: socal north
-updated: 2025-08-07 14:08:15
+updated: 2025-08-08 06:08:23
 ---
 
 # socal north
 
-(date: 2025-08-07 14:08:15)
+(date: 2025-08-08 06:08:23)
+
+---
+
+## Final stretch of SoCal heatwave before temps dip next week
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Another round of hot weather before temperatures cool down next week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/final-stretch-of-socal-heatwave-before-temps-dip-next-week>
+
+---
+
+## We asked you: Is LA a coffee city?  Here’s what you said
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Yes it is! No it’s not! Okay, let’s call the whole thing off (while sipping coffee at this great spot we know). 
+
+<br> 
+
+<https://laist.com/news/food/we-asked-you-is-la-a-coffee-city-heres-what-you-said>
+
+---
+
+## Why 'one month free rent' deals in LA are often too good to be true
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+One tenant thought he got a great deal — until his landlord raised his rent by almost 12%. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-housing-rent-control-increases-discount-one-month-free-landlord-tenant-rso>
+
+---
+
+## We bought, we tried, we sputtered: looking for LA's spiciest Nashville hot chicken
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+We tried out the highest spice levels so you don't have to. 
+
+<br> 
+
+<https://laist.com/news/food/spiciest-nashville-hot-chicken-la>
+
+---
+
+## How ocean creatures tell us the complicated story of LA sewage treatment
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+What happens after you flush is surprisingly complex and involves a giant tunneling machine under San Pedro, massive treatment plants, and a voyage to check on the fish who swim in our treated wastewater. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-happens-to-la-sewage-fish-can-tell-the-story>
+
+---
+
+## California colleges strengthen ties with Big Tech over AI offerings. Here's what schools get
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Gov. Newsom, Cal State and the California Community Colleges system signed multiple agreements with California's tech giants. 
+
+<br> 
+
+<https://laist.com/news/education/ai-newsom-csu-california-community-colleges-adobe-google-ibm-microsoft>
+
+---
+
+## Metro will release limited-edition TAP cards dedicated to hip hop icon Nipsey Hussle
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Only 12,000 of the exclusive TAP cards will be released starting Aug. 15. 
+
+<br> 
+
+<https://laist.com/news/transportation/metro-limited-edition-tap-cards-nipsey-hussle>
+
+---
+
+## Trump orders colleges to share admissions data, with an eye on affirmative action
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Thursday's move would compel colleges to report more data about the students they enroll and those who apply, including applicants' race and standardized test scores. 
+
+<br> 
+
+<https://laist.com/news/education/trump-orders-colleges-share-admissions-data-with-an-eye-on-affirmative-action>
+
+---
+
+## Granada Hills and Porter Ranch urged to conserve water as ongoing utility troubles across LA linger
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Malibu’s water boil notice could be lifted as soon as Friday, according to Caltrans officials. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/granada-hills-and-porter-ranch-urged-to-conserve-water-as-ongoing-utility-troubles-across-la-linger>
+
+---
+
+## Angel City Brewing in the Arts District to close next year unless new buyer is found
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+The craft brewery, along with Truly LA bar restaurant, will have reduced hours until next April.. 
+
+<br> 
+
+<https://laist.com/news/food/angel-city-brewing-in-the-arts-district-to-close-next-year-unless-new-buyer-is-found>
+
+---
+
+## Canyon Fire crosses into LA County, threatens power lines and forces evacuations
+
+date: 2025-08-07, updated: 2025-08-08, from: The LAist
+
+The Canyon Fire along the Ventura and Los Angeles county lines started Thursday afternoon amid a summer heatwave. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/canyon-fire-burning-near-lake-piru-forces-evacuation-orders>
+
+---
+
+## LA County’s failure to educate incarcerated youth is ‘systemic,’ report says
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+Report blames vast network of state and local agencies. 
+
+<br> 
+
+<https://laist.com/news/education/la-countys-failure-to-educate-incarcerated-youth-is-systemic-report-says>
 
 ---
 
 ## One way to help homeless families? Offer them child care services
 
-date: 2025-08-07, updated: 2025-08-07, from: The LAist
+date: 2025-08-07, updated: 2025-08-08, from: The LAist
 
 A family shelter in Woodland Hills unveils a new Head Start center on site, one of only a few such shelters in the state. 
 
@@ -191,18 +335,6 @@ Temperatures to near 105 degrees in the Inland Empire today.
 
 ---
 
-## Was gold buried under LA 5,000 years ago? A legend that drove a saga
-
-date: 2025-08-07, updated: 2025-08-07, from: The LAist
-
-A group of miners dug up parts of downtown in search of mythical millions in gold doubloons and tablets. 
-
-<br> 
-
-<https://laist.com/news/la-history/la-county-gold-great-depression-george-warren-shufelt-lizard-people-doodlebug>
-
----
-
 ## Emmy-nominated 'Severance' cinematographer on her directorial debut (and making Adam Scott look hot in her episode)
 
 date: 2025-08-07, updated: 2025-08-07, from: The LAist
@@ -212,6 +344,18 @@ Jessica Lee Gagné reflects on creating the rigid world of Severance and purpose
 <br> 
 
 <https://laist.com/news/los-angeles-activities/emmy-nominated-severance-cinematographer-directorial-debut-adam-scott>
+
+---
+
+## Was gold buried under LA 5,000 years ago? A legend that drove a saga
+
+date: 2025-08-07, updated: 2025-08-07, from: The LAist
+
+A group of miners dug up parts of downtown in search of mythical millions in gold doubloons and tablets. 
+
+<br> 
+
+<https://laist.com/news/la-history/la-county-gold-great-depression-george-warren-shufelt-lizard-people-doodlebug>
 
 ---
 
@@ -642,7 +786,7 @@ date: 2025-08-05, from: Longbeach Post
 
 ## How do you move a house across LA? Follow a Craftsman’s journey into fire-ravaged Altadena
 
-date: 2025-08-05, updated: 2025-08-05, from: The LAist
+date: 2025-08-05, updated: 2025-08-07, from: The LAist
 
 Two chunks of a two-story home were slowly driven across LA. County overnight. We rode along to check it out. 
 
