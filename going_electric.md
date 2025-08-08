@@ -1,11 +1,188 @@
 ---
 title: going electric
-updated: 2025-08-08 06:08:33
+updated: 2025-08-08 14:08:19
 ---
 
 # going electric
 
-(date: 2025-08-08 06:08:33)
+(date: 2025-08-08 14:08:19)
+
+---
+
+## Looks like Rivian is working on a steer-by-wire system
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Rivian-R2-design-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian has posted a job listing for a steering engineer, specifically mentioning work on a future steer-by-wire system for the company.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,steer-by-wire" data-layer-viewtype="unknown" data-post-id="429012" href="https://electrek.co/2025/08/08/looks-like-rivian-is-working-on-a-steer-by-wire-system/#more-429012" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/looks-like-rivian-is-working-on-a-steer-by-wire-system/>
+
+---
+
+## Hyundai cuts IONIQ 5 N lease prices by $150 a month
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Hyundai-IONIQ-5-N-lease.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric sports car just got a whole lot cheaper. The 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5 N</a> now costs $150 less per month to lease after another unexpected price cut.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-5-n" data-layer-viewtype="unknown" data-post-id="429003" href="https://electrek.co/2025/08/08/hyundai-cuts-ioniq-5-n-lease-prices-by-150-a-month/#more-429003" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/hyundai-cuts-ioniq-5-n-lease-prices-by-150-a-month/>
+
+---
+
+## Podcast: Elon gets $26 billion while Tesla gets flooded with lawsuits and Dojo is dead
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Elon Musk getting a sweet $26 billion payday from Tesla while the company gets flooded with lawsuits and Dojo is dead.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="429004" href="https://electrek.co/2025/08/08/podcast-elon-gets-26-billion-while-tesla-gets-flooded-with-lawsuits-and-dojo-is-dead/#more-429004" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/podcast-elon-gets-26-billion-while-tesla-gets-flooded-with-lawsuits-and-dojo-is-dead/>
+
+---
+
+## This Once-Promising Chinese EV Is Now Rotting In Northern California
+
+date: 2025-08-08, from: Inside EVs News
+
+The Byton K-Byte could have been a rival to the Model S, but the brand failed to launch. Here's what's left of it. 
+
+<br> 
+
+<https://insideevs.com/news/768373/byton-kbyte-rotting-startup-pics/>
+
+---
+
+## BYD gives Tesla its next headache with another dirt-cheap electric SUV
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/byd-atto-2-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD wants to attract younger drivers with its latest electric SUV. The new <a href="https://electrek.co/guides/byd-atto-2/">BYD Atto 2</a> launched in Hong Kong on Friday with prices starting under $22,000, or about 30% cheaper than Tesla’s most affordable model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="428976" href="https://electrek.co/2025/08/08/byd-undercuts-tesla-with-another-dirt-cheap-electric-suv/#more-428976" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/byd-undercuts-tesla-with-another-dirt-cheap-electric-suv/>
+
+---
+
+## Rad Power RadExpand 5 Plus folding e-bike at $1,699 low, Bluetti and Jackery take up to 50% off power stations + bonus savings, more
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Rad-Power-RadExpand-5-Plus-Folding-e-bike-2.png?w=1200" /></div><p>Closing out this week’s Green Deals, our coverage is headlined by <a href="https://9to5toys.com/2025/08/07/rad-power-radexpand-5-plus-radexpand-5-e-bikes-from-999/">Rad Power’s RadExpand 5 Plus Folding e-bike dropping to its $1,699 low</a>, alongside the ongoing <a href="https://9to5toys.com/2025/08/07/rad-power-radexpand-5-plus-radexpand-5-e-bikes-from-999/">$999 low on the predecessor RadExpand 5</a> model. From there, we have two power station sales taking up to 50% off units, with the first being <a href="https://9to5toys.com/2025/08/08/bluetti-solar-generator-sale-elite-100-v2-bundle-799-low-more/">Bluetti’s event</a> that has dropped the <a href="https://9to5toys.com/2025/08/08/bluetti-solar-generator-sale-elite-100-v2-bundle-799-low-more/">Elite 100 V2 solar bundle</a> with a 200W panel back to its <a href="https://9to5toys.com/2025/08/08/bluetti-solar-generator-sale-elite-100-v2-bundle-799-low-more/">$799 low</a>. There’s also <a href="https://9to5toys.com/2025/08/08/jackery-power-station-sale-bonus-savings-from-89/">Jackery’s event with bonus 5% and 7% savings</a> that has returned the new <a href="https://9to5toys.com/2025/08/08/jackery-power-station-sale-bonus-savings-from-89/">HomePower 3000 station to its $1,614 low</a>. We also have two Greenworks tool deals – either the brand’s 24V 6-inch Mini Cordless Chainsaw or a 2-in-1 60V combo that gives you a 17-inch mower and a 13-inch string trimmer. Lastly, we have a one-day-only discount on Hiboy’s new S2 SE Electric Scooter at a new low price just in time for last-minute back-to-school needs. Plus, all the hangover savings are at the bottom of the page, like yesterday’s launch deals on the new <a href="https://9to5toys.com/2025/08/07/heybike-ranger-3-0-pro-e-bike-1399/">Heybike Ranger 3.0 Pro e-bike</a> and <a href="https://9to5toys.com/2025/08/07/heybike-mars-3-0-e-bike-1199-launch/">Mars 3.0 e-bike</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="428978" href="https://electrek.co/2025/08/08/rad-power-radexpand-5-e-bikes-bluetti-jackery-more/#more-428978" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/rad-power-radexpand-5-e-bikes-bluetti-jackery-more/>
+
+---
+
+## Hyundai’s most affordable electric SUV is a hit
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Hyundais-most-affordable-electric-SUV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Inster EV is currently <a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> most affordable electric SUV. With starting prices under $30,000, the compact EV is already making inroads in overseas markets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-inster" data-layer-viewtype="unknown" data-post-id="428963" href="https://electrek.co/2025/08/08/hyundais-most-affordable-electric-suv-is-a-hit/#more-428963" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/hyundais-most-affordable-electric-suv-is-a-hit/>
+
+---
+
+## Why General Motors And BMW Still Want China’s EV Batteries
+
+date: 2025-08-08, from: Inside EVs News
+
+Plus, China cracks down on the EV price war and Volta's charging stations are getting dismantled in the U.S.
+ 
+
+<br> 
+
+<https://insideevs.com/news/768460/gm-bmw-to-buy-chinese-ev-batteries/>
+
+---
+
+## Tesla used car prices keep plumetting, dips below average used car
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/Best-selling-electric-vehicles-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla used car prices continue to plummet, while the average used car price is increasing. Despite being considered a premium brand, used Tesla vehicles are now cheaper than the used car sale price.</p>
+
+
+
+<p>Isn’t this nuts?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="428957" href="https://electrek.co/2025/08/08/tesla-used-car-prices-keep-plumetting-now-literrally-cheaper-than-average-used-car/#more-428957" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/tesla-used-car-prices-keep-plumetting-now-literrally-cheaper-than-average-used-car/>
+
+---
+
+## Ford puts new electric pickup on the back burner, but promises lower-priced EVs
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Ford-new-EV-pickup-delayed.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>That new electric <a href="https://electrek.co/guides/ford/">Ford</a> pickup we’ve been waiting for is delayed once again. Ford is putting its “groundbreaking” new EV pickup on the back burner as it doubles down on more affordable models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="428932" href="https://electrek.co/2025/08/08/ford-puts-new-ev-pickup-on-back-burner-shifts-to-lower-priced-evs/#more-428932" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/ford-puts-new-ev-pickup-on-back-burner-shifts-to-lower-priced-evs/>
+
+---
+
+## Forklift certified: Bedrock secures $80M to develop AI equipment operators
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/bedrock_ai.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Led by a team of ex-Waymo engineers, Bedrock Robotics is developing a new generation of autonomous heavy equipment equipment operators who, they hope, will be able to work 24 hours a day, seven days a week, without human intervention.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,construction,heavy-equipment" data-layer-viewtype="unknown" data-post-id="428923" href="https://electrek.co/2025/08/08/forklift-certified-bedrock-secures-80m-to-develop-ai-equipment-operators/#more-428923" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/forklift-certified-bedrock-secures-80m-to-develop-ai-equipment-operators/>
 
 ---
 

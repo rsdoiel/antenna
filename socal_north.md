@@ -1,11 +1,161 @@
 ---
 title: socal north
-updated: 2025-08-08 06:08:23
+updated: 2025-08-08 14:08:10
 ---
 
 # socal north
 
-(date: 2025-08-08 06:08:23)
+(date: 2025-08-08 14:08:10)
+
+---
+
+## Fearing deportation, international students go silent at California’s universities
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+After hundreds of international students lost their status this spring, then regained it following lawsuits, the uncertainty of it happening again has created fear. 
+
+<br> 
+
+<https://laist.com/news/education/fearing-deportation-international-students-go-silent-at-california-universities>
+
+---
+
+## Famed NASA astronaut and Apollo 13 commander Jim Lovell has died at age 97
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Lovell commanded the mission that almost ended in disaster after an explosion that threatened the crew's oxygen and electrical supply. The inspiring story of their survival was made into a hit movie. 
+
+<br> 
+
+<https://laist.com/news/famed-nasa-astronaut-and-apollo-13-commander-jim-lovell-has-died-at-age-97>
+
+---
+
+## Search warrant reveals new details of Long Beach killing originally thought to be suicide
+
+date: 2025-08-08, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The suspected shooter stood to “inherit everything” from his uncle, who was found slain in his home, according to court documents.</p>
+<p>The post <a href="https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit">Search warrant reveals new details of Long Beach killing originally thought to be suicide</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit>
+
+---
+
+## Kounalakis becomes latest Democrat to drop run for governor
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Kounalakis was trailing in polling and fundraising in a crowded field of Democrats seeking to replace Gov. Gavin Newsom when he is termed out next year. 
+
+<br> 
+
+<https://laist.com/news/politics/kounalakis-becomes-latest-democrat-to-drop-run-for-governor>
+
+---
+
+## NASA plans to put a nuclear reactor on the moon. Here's what that means
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+NASA is accelerating plans to have a nuclear reactor on the moon by 2030. 
+
+<br> 
+
+<https://laist.com/news/nasa-plans-to-put-a-nuclear-reactor-on-the-moon-heres-what-that-means>
+
+---
+
+## Metro D Line between Union Station and Wilshire will be closed this weekend. Here's how to get around it
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+The closure begins at 9 p.m. Friday and lasts through Monday morning and is part of the subway extension project. 
+
+<br> 
+
+<https://laist.com/news/transportation/metro-d-line-between-union-station-and-wilshire-closure>
+
+---
+
+## Far more environmental data is being deleted in Trump's second term than before
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+The second Trump administration has removed more climate and environmental data from websites in the first 100 days than the first administration, according to a new report 
+
+<br> 
+
+<https://laist.com/news/climate-environment/far-more-environmental-data-is-being-deleted-in-trumps-second-term-than-before>
+
+---
+
+## Law firm bills $1.8M to represent LA in a high-profile homelessness lawsuit, double the amount initially approved
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+City Council members say they were surprised by the cost overrun. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/law-firm-homelessness-lawsuit>
+
+---
+
+## What OC taxpayers need to know about Monday's restitution hearing for convicted ex-supervisor Andrew Do
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Federal prosecutors have dubbed the former Orange County leader a "Robin Hood in reverse" for his misdeeds. So how much will he have to pay back? 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/questions-about-former-orange-county-supervisor-andrew-do-restitution-hearing>
+
+---
+
+## Air Force to deny early retirement benefits to some transgender service members
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+The U.S. Air Force said it would deny all transgender service members who have served between 15 and 18 years the option to retire early and would instead separate them without retirement benefits. 
+
+<br> 
+
+<https://laist.com/news/air-force-deny-early-retirement-benefits-to-some-transgender-service-members>
+
+---
+
+## Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in LA
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+The federal government on Thursday filed an emergency appeal with the U.S. Supreme Court seeking to lift a temporary ban on “roving” immigration sweeps. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-asks-supreme-court-to-lift-temporary-ban-on-roving-immigration-stops-la>
+
+---
+
+## Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in L.A.
+
+date: 2025-08-08, from: Longbeach Post
+
+<figure><img width="1024" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-300x149.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-768x382.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-192x96.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-400x199.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The federal government on Thursday filed an emergency appeal with the U.S. Supreme Court seeking to lift a temporary ban on “roving” immigration sweeps.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/supreme-court-immigration-raids-lawsuit-aclu">Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in L.A.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/supreme-court-immigration-raids-lawsuit-aclu>
 
 ---
 
@@ -107,7 +257,7 @@ Thursday's move would compel colleges to report more data about the students the
 
 ## Granada Hills and Porter Ranch urged to conserve water as ongoing utility troubles across LA linger
 
-date: 2025-08-07, updated: 2025-08-07, from: The LAist
+date: 2025-08-07, updated: 2025-08-08, from: The LAist
 
 Malibu’s water boil notice could be lifted as soon as Friday, according to Caltrans officials. 
 
@@ -129,7 +279,7 @@ The craft brewery, along with Truly LA bar restaurant, will have reduced hours u
 
 ---
 
-## Canyon Fire crosses into LA County, threatens power lines and forces evacuations
+## Canyon Fire containment grows as flames threaten power lines and force evacuations
 
 date: 2025-08-07, updated: 2025-08-08, from: The LAist
 
@@ -169,7 +319,7 @@ A family shelter in Woodland Hills unveils a new Head Start center on site, one 
 
 date: 2025-08-07, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It's aimed solely at helping those age 18 to 24 in an environment the city hopes will be more welcoming than a typical shelter.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-opens-shelter-and-resource-center-for-homeless-youth">Long Beach opens shelter and resource center for homeless youth</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -250,7 +400,7 @@ date: 2025-08-07, from: City of Santa Clarita
 
 ## Trump calls for US census to exclude for the first time people with no legal status
 
-date: 2025-08-07, updated: 2025-08-07, from: The LAist
+date: 2025-08-07, updated: 2025-08-08, from: The LAist
 
 Trump is calling for a "new" census that excludes people in the U.S. without legal status. The 14th Amendment requires the "whole number of persons in each state" in a key set of census results. 
 

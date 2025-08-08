@@ -1,15 +1,375 @@
 ---
 title: planet
-updated: 2025-08-08 06:08:21
+updated: 2025-08-08 14:08:08
 ---
 
 # planet
 
-(date: 2025-08-08 06:08:21)
+(date: 2025-08-08 14:08:08)
 
 ---
 
-## EU chief says Israel must reconsider Gaza control plan
+## Trump fires IRS commissioner, Bessent named acting head
+
+date: 2025-08-08, from: RTÉ News
+
+US President Donald Trump is removing Billy Long as the commissioner of the Internal Revenue Service and Treasury Secretary Scott Bessent will temporarily serve as acting commissioner, a White House official and a source familiar with the matter said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0808/1527611-trump-revenue-commissioner/>
+
+---
+
+## Apollo 13 commander Jim Lovell dies at age 97
+
+date: 2025-08-08, from: RTÉ News
+
+Jim Lovell, the NASA astronaut who commanded the famous Apollo 13 mission around the moon and back, has died, NASA has announced. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0808/1527609-jim-lovell/>
+
+---
+
+## Over €66m unclaimed from Deposit Return Scheme
+
+date: 2025-08-08, from: RTÉ News
+
+Irish consumers last year turned their back on €66.7m when they failed to cash in their deposits for drink containers through the Government's Deposit Return Scheme (DRS). 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527608-deposit-return-scheme/>
+
+---
+
+## Driver uninjured after train crashes into van in Poland
+
+date: 2025-08-08, from: RTÉ News
+
+A dramatic collision between a train and a van was captured on video at a level crossing in a Polish village. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0808/1527587-poland-crash/>
+
+---
+
+## US President may use military against drug cartels
+
+date: 2025-08-08, from: RTÉ News
+
+US President Donald Trump is moving to target Latin American drug cartels with the military, US media said, after Washington designated several narcotics trafficking groups as "terrorist" organisations earlier this year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527600-trump-drug-cartels/>
+
+---
+
+## Netherlands win Aga Khan Trophy as Ireland finish third
+
+date: 2025-08-08, from: RTÉ News
+
+Ireland finished in third place in the Nations Cup Of Ireland at the Dublin Horse Show as the Netherlands lifted the Aga Khan Trophy. 
+
+<br> 
+
+<https://www.rte.ie/sport/equestrian/2025/0808/1527595-netherlands-win-aga-khan-trophy-as-ireland-finish-third/>
+
+---
+
+## Buffalo kills American trophy hunter in South Africa
+
+date: 2025-08-08, from: RTÉ News
+
+A 59-year-old American has been killed by a buffalo he was tracking during a trophy hunt in South Africa, police said. 
+
+<br> 
+
+<https://www.rte.ie/news/newslens/2025/0808/1527591-trophy-hunter-death/>
+
+---
+
+## Tusla's attitude to court orders 'unsatisfactory' - judge
+
+date: 2025-08-08, from: RTÉ News
+
+A High Court judge has described the Child and Family Agency Tusla's attitude to judicial orders as "incomprehensible and wholly unsatisfactory". 
+
+<br> 
+
+<https://www.rte.ie/news/courts/2025/0808/1527580-tusla-court/>
+
+---
+
+## Podcast: Israel's Gaza plan 'distracting' from famine
+
+date: 2025-08-08, from: RTÉ News
+
+An Israeli plan for a full-scale military takeover of Gaza City is a "distraction" from what is happening in the besieged enclave, an expert has claimed. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0808/1527577-podcast-israels-gaza-plan-distracting-from-famine/>
+
+---
+
+## Mi'kmaw play to go on in Halifax park after N.S. wildfire restrictions cause uncertainty
+
+date: 2025-08-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7604423.1754672583!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/zuppa-metu-na-q.jpeg' alt='Woman in costume in woods' width='620' height='349' title='Photo from last years production of Metu&apos;na&apos;q, taking place in the woods in Sipekne&apos;katik First Nation. This years show will take place in the woods in Halifax. '/><p>Metu'na'q, a Mi'kmaw adaptation of Shakespeare's The Tempest, will open next week in Point Pleasant Park.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/metunaq-shakespeare-halifax-point-pleasant-1.7604363?cmp=rss>
+
+---
+
+## Mel Gibson to attend as Trim celebrates Braveheart
+
+date: 2025-08-08, from: RTÉ News
+
+Mel Gibson and other members of the cast of Braveheart are set to attend a celebration of the Oscar-winning film in Trim, Co Meath this weekend to mark 30 years since its release. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0808/1527571-braveheart-celebration/>
+
+---
+
+## Govt intends to continue with OTB after Congress letter
+
+date: 2025-08-08, from: RTÉ News
+
+Tánaiste and Minister for Foreign Affairs Simon Harris has said the Government intends to continue to advance its commitment to the Occupied Territories Bill. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0808/1527567-occupied-territories-bill/>
+
+---
+
+## Significant rise in use of pain medication - research
+
+date: 2025-08-08, from: RTÉ News
+
+The use of pain medication, including potentially addictive opioids, has risen significantly in Ireland in recent years, new research shows. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0808/1527565-pain-medication/>
+
+---
+
+## Apollo 13 commander and NASA astronaut Jim Lovell dead at 97
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7604671.1754681228!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/former-nasa-astronaut-jim-lovell-is-seen-in-an-april-2010-photo.JPG' alt='Former astronaut Jim Lovell is seen in an April 2010 photo.' width='620' height='349' title='Former astronaut Jim Lovell talks about his historic space flight in Cape Canaveral, Florida, April 9, 2010.  It&apos;s been 40 years since Apollo 13 safely returned to Earth after a oxygen-tank explosion prevented the spacecraft from landing on the moon and put its three-man crew in danger. Four decades later, NASA and the surviving two astronauts, Lovell and Fred Haise, are celebrating an aborted mission that turned potential disaster into a successful recovery. '/><p>James (Jim) Lovell, the commander of Apollo 13 who helped turn a failed moon mission into a triumph of on-the-fly can-do engineering, has died. He was 97.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/nasa-astronaut-jim-lovell-apollo-13-obituary-1.7604661?cmp=rss>
+
+---
+
+## Trump to meet Putin and discuss Ukraine conflict
+
+date: 2025-08-08, from: Vatican News
+
+
+                    <p>U.S. President Donald J. Trump says he will meet with Vladimir Putin for talks expected to be held in a third country, and focus on 'freezing' the Russian invasion of Ukraine.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/trump-to-meet-putin-and-discuss-ukraine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/trump-to-meet-putin-and-discuss-ukraine.html>
+
+---
+
+## Brennan appointed as new Dublin manager
+
+date: 2025-08-08, from: RTÉ News
+
+Ger Brennan has been appointed to succeed Dessie Farrell as new Dublin manager, the two-time All-Ireland winning defender taking over on a three-year term. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0808/1527562-brennan-appointed-as-new-dublin-manager/>
+
+---
+
+##  International criticism mounts over Israel's planned Gaza offensive
+
+date: 2025-08-08, from: Vatican News
+
+
+                    <p>Israel’s proposed expansion of its military operations in Gaza draws sharp criticism from international leaders, military officials, and families of hostages still held by Hamas.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/international-criticism-mounts-over-israels-planned-gaza-offensi.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/international-criticism-mounts-over-israels-planned-gaza-offensi.html>
+
+---
+
+## Tubridy repays RTÉ €150K from controversial payment deal
+
+date: 2025-08-08, from: RTÉ News
+
+RTÉ has confirmed that former presenter Ryan Tubridy has repaid the organisation a sum of €150,000 he received as part of a controversial payment deal made in 2020. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527560-ryan-tubridy/>
+
+---
+
+## Man called 'dog' by boss awarded €8,000 at WRC
+
+date: 2025-08-08, from: RTÉ News
+
+A worker who said his ex-boss slashed his rostered hours down to just one day a week and got "abusive" with him at a meeting has won nearly €8,000 in unpaid wages and compensation. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0808/1527559-wrc-jalilzad-electronics/>
+
+---
+
+## OpenAI launches GPT-5 as AI race accelerates
+
+date: 2025-08-08, from: RTÉ News
+
+OpenAI has launched its GPT-5 artificial intelligence model, the highly anticipated latest installment of a technology that has helped transform global business and culture. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0808/1527557-chatgpt-5/>
+
+---
+
+## Holy Childhood Secretary General commends Malawi’s efforts in children’s faith formation 
+
+date: 2025-08-08, from: Vatican News
+
+
+                    <p>A senior Vatican official has praised the Catholic Church in Malawi for its growing investment in children’s missionary formation through the Holy Childhood Movement.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-08/holy-childhood-secretary-general-commends-malawi-s-efforts-in-ch.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-08/holy-childhood-secretary-general-commends-malawi-s-efforts-in-ch.html>
+
+---
+
+## Nuncio welcomes dialogue between Cambodia and Thailand
+
+date: 2025-08-08, from: Vatican News
+
+
+                    <p>The Apostolic Nuncio to Cambodia and Thailand, Archbishop Peter Wells, urges renewed commitment to aid thousands of people displaced by the border conflict that has strained relations between the two countries.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/nuncio-welcomes-dialogue-between-cambodia-and-thailand.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/nuncio-welcomes-dialogue-between-cambodia-and-thailand.html>
+
+---
+
+## New Indian head of Vatican Observatory to blend science with faith
+
+date: 2025-08-08, from: Vatican Obervatory
+
+Indian Jesuit Father Richard D’Souza, the new director of the Vatican Observatory, says he will continue the tradition of Vatican astronomers who... 
+
+<br> 
+
+<https://www.ucanews.com/news/new-indian-head-of-vatican-observatory-to-blend-science-with-faith/109872>
+
+---
+
+## UK schoolboy who stabbed pupil found guilty of murder
+
+date: 2025-08-08, from: RTÉ News
+
+A schoolboy in the UK who stabbed another pupil to death during their lunch break has been found guilty of murder. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0808/1527542-harvey-willgoose-murder/>
+
+---
+
+## Island Lake Chiefs say Canada must invest in First Nations wildfire prevention
+
+date: 2025-08-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7604408.1754672102!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/island-lake-wildfire-presser-aug-8-2025-winnipeg.jpeg' alt='People sit at a table, many wearing feathered headdresses, with a large yellow, green, blue and white flag stretched out behind them. ' width='620' height='349' title='Leaders representing four Island Lake First Nations — Garden Hill Anisininew Nation, Red Sucker Lake Anisininew Nation, St. Theresa Point Anisininew Nation and Wasagamack Anisininew Nation — attend a press conference in Winnipeg on Friday, Aug. 8, 2025. '/><p>Four First Nations in Manitoba are calling on the federal government to make wildfire prevention a priority as Island Lake communities remain under states of emergency and mandatory evacuation orders.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/island-lake-chiefs-wildfire-prevention-1.7604337?cmp=rss>
+
+---
+
+## Record 89,000 applicants to CAO for third-level places
+
+date: 2025-08-08, from: RTÉ News
+
+There were 89,308 applicants to the Central Applications Office (CAO) this year for college courses this autumn, representing a record high. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0808/1527536-cao-applications/>
+
+---
+
+## Caritas Vietnam: Protecting future generations from human trafficking
+
+date: 2025-08-08, from: Vatican News
+
+
+                    <p>As Vietnam is one of the countries with the highest number of social media users, Caritas is trying to prevent further cases by offering guidance to young people in the dioceses.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/caritas-vietnam-protect-people-from-human-trafficking.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/caritas-vietnam-protect-people-from-human-trafficking.html>
+
+---
+
+## Guy Consolmagno: „Mein Glaube gibt mir die Zuversicht, mich der Wissenschaft zu widmen“
+
+date: 2025-08-08, from: Vatican Obervatory
+
+Der US-amerikanische Forscher und Jesuit Guy Consolmagno leitete – bis vor kurzem -über zehn Jahre die traditionsreiche vatikanische Sternwarte.... 
+
+<br> 
+
+<https://promisglauben.de/guy-consolmagno-mein-glaube-gibt-mir-die-zuversicht-mich-der-wissenschaft-zu-widmen/>
+
+---
+
+## Taoiseach condemns Israeli plans to occupy Gaza City
 
 date: 2025-08-08, from: RTÉ News
 
@@ -21,15 +381,111 @@ EU chief Ursula von der Leyen has called on Israel to reconsider its plan to fur
 
 ---
 
-## Israeli plan to take complete control of Gaza must stop now, says UN rights chief
+## Indigenous youth set sail for adventure — and education — off Newfoundland's south coast
+
+date: 2025-08-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7604264.1754665618!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sarah-doucette.jpg' alt='A girl with a braid in her hair and wearing glasses standing on the dock of a big vessel.' width='620' height='349' title='Sarah Doucette is from Kippens, NL. She is on board the Polar Prince on a youth science expedition. '/><p>Young adults from Miawpukek First Nation and Qalipu First Nation learn the science of the sea aboard the Polar Prince.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/newfoundland-labrador/polar-prince-trip-1.7604244?cmp=rss>
+
+---
+
+## Israeli plan to take military control of Gaza must stop now, says UN rights chief
 
 date: 2025-08-08, from: United Nations, Top Stories
 
-The UN’s top human rights official insisted on Friday that the Israeli Government must not pursue a complete takeover of the Gaza Strip. 
+The UN’s top human rights official insisted on Friday that the Israeli Government must not pursue a complete military takeover of the Gaza Strip, beginning with full control of Gaza City. 
 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165604>
+
+---
+
+## Africa’s ‘land-linked’ economies poised to drive continent’s prosperity
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+By leveraging their central location, expanding regional connectivity and embracing transformative technologies, Africa’s landlocked developing countries (LLDCs) are positioning themselves as vital contributors to the continent’s prosperity and sustainable development. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165614>
+
+---
+
+## Indigenous Peoples Day highlights AI’s risks and opportunities
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+In honour of the International Day of the World’s Indigenous Peoples on 9 August, the UN hosted a virtual commemoration on Friday on the theme AI: Defending Rights, Shaping Futures.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165613>
+
+---
+
+## Israel’s military takeover of Gaza City would mark ‘a dangerous escalation’: Guterres
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has expressed grave concern over Israel’s decision to “take control of Gaza City”, his Spokesperson said in a statement on Friday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165612>
+
+---
+
+## ‘Nuclear weapons have no place in our world,’ UN chief tells mayors in Nagasaki
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+80 years after the United States dropped two atomic bombs on the Japanese cities of Hiroshima and Nagasaki, the “only guarantee” against the use of nuclear weapons today is their “total elimination”, the UN Secretary-General said on Friday.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165611>
+
+---
+
+## ‘The real challenge is still ahead’: UN warns on Afghan returnees
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+Millions of people returning to Afghanistan from neighbouring countries are receiving humanitarian support at the border, but they will need more help to rebuild their lives, according to UN-Habitat, the agency that advocates for sustainable communities.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165610>
+
+---
+
+## Landlocked but not left behind: UN summit in Turkmenistan wraps with bold new roadmap
+
+date: 2025-08-08, from: United Nations, Economic Development
+
+The Third UN Conference on Landlocked Developing Countries wrapped up earlier Friday in Awaza, Turkmenistan, with delegates adopting a landmark political declaration aimed at speeding up sustainable development and boosting resilience in 32 nations that lack direct access to the sea. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165608>
+
+---
+
+## Sudan: You  can run – but we will find you, militias warn terrified civilians
+
+date: 2025-08-08, from: United Nations, Top Stories
+
+Help is needed urgently to halt a deadly cholera outbreak that is sweeping across Sudan, UN agencies said on Friday, while warning that communities continue to be terrorised by parties to the conflict even as they flee violence. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165605>
 
 ---
 
@@ -93,6 +549,46 @@ Presenter Kieran Hanrahan will retire this weekend after 30 years as host of RT�
 
 ---
 
+## Yukon First Nation says mineral staking 'unwelcome, unlawful' during land-use planning process
+
+date: 2025-08-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7265760.1721172102!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/chief-dawna-hope.jpg' alt='Na-Cho Nyäk Dun Chief Dawna Hope reacts to the Yukon government&apos;s second information session on July 4.  ' width='620' height='349' title='Na-Cho Nyäk Dun Chief Dawna Hope reacts to the Yukon government&apos;s second information session on July 4.  '/><p>The First Nation of Na-Cho Nyäk Dun (FNNND) and the Yukon government are at odds over who has ultimate authority over mineral staking in the First Nation's traditional territory.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/first-nation-of-na-cho-ny%C3%A4k-dun-land-use-planning-1.7603881?cmp=rss>
+
+---
+
+## Indonesian Bishops urge firm action to protect religious freedom
+
+date: 2025-08-08, from: Vatican News
+
+
+                    <p>The Catholic Bishops of Indonesia urge the government in Jakarta to act firmly against all forms of intolerance, especially when accompanied by violence, following a series of recent attacks on Christian places of worship and institutions.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/indonesian-bishops-urge-firm-action-to-protect-religious-freedom.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/indonesian-bishops-urge-firm-action-to-protect-religious-freedom.html>
+
+---
+
+## Secret Service asked to get river level raised for JD Vance's birthday kayak trip
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7604056.1754652909!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A bearded man in a suit and tie is shown speaking in a closeup photo.' width='620' height='349' title='Vice President JD Vance is shown speaking at a White House event on Wednesday, a few days after his Ohio River trip.  '/><p>U.S. Vice-President JD Vance's security detail had an Ohio river's water level raised last week to accommodate a kayaking trip he and his family took to celebrate his 41st birthday on Aug. 2.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/vance-kayak-trip-1.7604044?cmp=rss>
+
+---
+
 ## Doctor can 'see every rib' on starving children in Gaza
 
 date: 2025-08-08, from: RTÉ News
@@ -117,7 +613,7 @@ The Senior, Intermediate and Premier Junior All-Ireland finals are down for deci
 
 ---
 
-## Germany halts Israeli arms exports over Gaza City plans
+## As it happened: UN Council to meet over Israel's plan
 
 date: 2025-08-08, from: RTÉ News
 
@@ -141,11 +637,11 @@ The United States doubled its bounty on Venezuelan President Nicolás Maduro - w
 
 ---
 
-## 'Only fair' Ukraine involved in talks between US-Russia
+## Trump says he will meet Putin 'very shortly'
 
 date: 2025-08-08, from: RTÉ News
 
-US President Donald Trump said he would meet with Vladimir Putin for upcoming talks on the Ukraine war even if the Russian leader had not sat down with Ukrainian President Volodymyr Zelensky. 
+US President Donald Trump has said that he will meet "very shortly" with Russian President Vladimir Putin in a bid to end the war in Ukraine. 
 
 <br> 
 
@@ -201,11 +697,35 @@ date: 2025-08-08, from: CBC, World News
 
 ---
 
-## Israel approves plan to 'take control' of Gaza City
+## The 'frying pan of Spain' shows how cities can deal with extreme heat
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7603142.1754576692!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cartuja-qanats-project.jpg' alt='A community structure in Seville that allows for cooling on hot days.' width='620' height='349' title='Agora space of the Cartuja Qanat project located in the district of Seville that hosted the 1992 Universal Exhibition.'/><p>By 2050, Seville could record summer peaks of 50 C and a 20 per cent reduction in rainfall. By developing several solutions around the innovative use of water, the Spanish city is now at the forefront of places that have found ways to deal with increasing heat.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/seville-spain-climate-change-extreme-heat-1.7602428?cmp=rss>
+
+---
+
+## Safe spaces across Inuit Nunangat a must in suicide prevention, advocates say
+
+date: 2025-08-08, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7603518.1754592384!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/unaaq-men-s-association.jpg' alt='two elders sit in the front, two other elders stand at the back. the four people are smiling.' width='620' height='349' title='Members of Unaaq Men’s Association gave NRBHSS&apos; Annie Nulukie a tour of their workshop space in Inukjuak, Que., in 2023. '/><p>The Nunavut government, again, declared suicide a crisis earlier this year. Some community groups, from across Inuit Nunangat, say safe spaces are a crucial part of suicide prevention.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/safe-spaces-inuit-nunangat-suicide-prevention-1.7603514?cmp=rss>
+
+---
+
+## Israel's Gaza City plan 'must be halted immediately' - UN
 
 date: 2025-08-08, from: RTÉ News
 
-Israel's security cabinet has approved a plan to take control of Gaza City, a move expanding military operations in the shattered Palestinian territory despite growing criticism at home and abroad over the almost two-year-old war. 
+The Israeli government's plan for a full-scale military takeover of Gaza will cause more deaths and suffering and must be halted immediately, the United Nations Human Rights Chief Volker Turk said. 
 
 <br> 
 
@@ -237,6 +757,18 @@ US President Donald Trump has announced he will host the leaders of Armenia and 
 
 ---
 
+## Armenia, Azerbaijan to stop fighting 'forever' - Trump
+
+date: 2025-08-07, from: RTÉ News
+
+US President Donald Trump said Armenia and Azerbaijan had committed to a lasting peace after decades of conflict, as he hosted the leaders of the South Caucasus rivals at a signing event in the White House. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0808/1527451-armenia-azerbaijan-trump/>
+
+---
+
 ## 'People are worried': Fears grow among Indians living in Ireland
 
 date: 2025-08-07, from: RTÉ News
@@ -261,6 +793,18 @@ A group of US Congress members has written to US Secretary of the Treasury Scott
 
 ---
 
+## Deninu Kųę́ First Nation says it has finally found the burial sites of 5 children
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6588092.1663620080!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/fort-resolution.JPG' alt='Blue skies, water and a handful of brightly coloured buildings. ' width='620' height='349' title='Fort Resolution in early September. '/><p>Deninu Kųę́ First Nation in Fort Resolution, N.W.T., says it has finally found the places where five children and two adults were buried, after years of searching for unmarked graves linked to the former St. Joseph's Residential School.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/deninu-k%C5%B3%C4%99-first-nation-burial-sites-of-5-children-1.7603835?cmp=rss>
+
+---
+
 ## Pope Leo sends condolences to Ghana mourning victims of helicopter crash
 
 date: 2025-08-07, from: Vatican News
@@ -274,6 +818,18 @@ date: 2025-08-07, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-08/pope-sends-condolences-ghana-mourning-victims-helicopter-crash.html>
+
+---
+
+## 'Starsailor' rocket to lift off from Cree territory — Canada's first space launch in more than 25 years.
+
+date: 2025-08-07, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7603571.1754596988!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/starsailor-rocket.jpg' alt='A group of people carrying a body of metal to a rocket tour. ' width='620' height='349' title='A Concordia University student team is preparing to launch the first Canadian rocket to enter space in over two decades—right from Cree territory near Mistissini, Quebec.'/><p>A Concordia University student team is preparing to launch the first Canadian rocket to enter space in over two decades — right from Cree territory near Mistissini, Quebec.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/starsailor-concordia-rocket-launch-cree-mistissini-1.7603551?cmp=rss>
 
 ---
 
@@ -567,7 +1123,7 @@ Hungry civilians are reportedly eating animal feed as women and girls face a “
 
 ## Extreme heat is breaking records worldwide: UN weather agency
 
-date: 2025-08-07, from: United Nations, Climate Change
+date: 2025-08-07, from: United Nations, Top Stories
 
 Extreme heat is breaking records around the world, with wildfires and poor air quality compounding the crisis, according to a report from the World Meteorological Organization (WMO) released Thursday.&nbsp; 
 
@@ -591,7 +1147,7 @@ In Africa’s Sahel region, deepening violence and poverty – driven by displac
 
 ## Facing rising risks, landlocked nations launch climate alliance at UN summit
 
-date: 2025-08-07, from: United Nations, Top Stories
+date: 2025-08-07, from: United Nations, Economic Development
 
 Countries agreed Thursday to form a new climate negotiating bloc to advocate for the unique needs of nations without direct access to the sea. The decision was reached at the Third UN Conference on Landlocked Developing Countries (LLDC3), currently under way in Awaza, Turkmenistan. 
 
@@ -1275,7 +1831,7 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
 
@@ -1285,7 +1841,7 @@ For the world’s landlocked developing countries (LLDCs), geography isn’t jus
 
 ---
 
-## Ceasefire in doubt as Rwanda-backed rebels kill hundreds in eastern DR Congo
+## Rwanda-backed rebels kill hundreds in eastern DR Congo
 
 date: 2025-08-06, from: United Nations, Top Stories
 
@@ -1323,7 +1879,7 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 
 ## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
 
@@ -2191,7 +2747,7 @@ The value of salary overpayments to Revenue staff reached almost €1.7 million 
 
 ## Geography shouldn’t define destiny: UN summit on landlocked nations opens in Turkmenistan
 
-date: 2025-08-05, from: United Nations, Top Stories
+date: 2025-08-05, from: United Nations, Economic Development
 
 Breaking down barriers and restoring fairness in global development should be the goal of the Third UN Conference on Landlocked Developing Countries, Secretary-General António Guterres said at its opening in Awaza, Turkmenistan, on Tuesday.&nbsp; 
 
@@ -2263,7 +2819,7 @@ Children in Gaza are dying not just from hunger, but from the total collapse of 
 
 ## The world is demanding action over plastic pollution: UN environment chief
 
-date: 2025-08-05, from: United Nations, Climate Change
+date: 2025-08-05, from: United Nations, Top Stories
 
 High stakes negotiations got underway at the UN Geneva on Tuesday to agree on a legally binding treaty to curb plastic pollution, attended by delegates from nearly 180 countries.&nbsp; 
 
@@ -2907,7 +3463,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Climate Change
+date: 2025-08-04, from: United Nations, Economic Development
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 

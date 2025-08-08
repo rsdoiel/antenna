@@ -1,11 +1,71 @@
 ---
 title: small papers
-updated: 2025-08-08 06:08:34
+updated: 2025-08-08 14:08:20
 ---
 
 # small papers
 
-(date: 2025-08-08 06:08:34)
+(date: 2025-08-08 14:08:20)
+
+---
+
+## Additional Cities Join LA Lawsuit Against Federal Immigration Raids
+
+date: 2025-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="350" height="467" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="photo of LA City Attorney Hydee Feldstein Soto" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?w=350&amp;ssl=1 350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Thirteen additional cities joined a coalition of municipalities being led by the city and county of Los Angeles against the federal government for allegedly racially profiling [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/08/additional-cities-join-la-lawsuit-against-federal-immigration-raids/">Additional Cities Join LA Lawsuit Against Federal Immigration Raids</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/08/additional-cities-join-la-lawsuit-against-federal-immigration-raids/>
+
+---
+
+## Search warrant reveals new details of Long Beach killing originally thought to be suicide
+
+date: 2025-08-08, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The suspected shooter stood to “inherit everything” from his uncle, who was found slain in his home, according to court documents.</p>
+<p>The post <a href="https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit">Search warrant reveals new details of Long Beach killing originally thought to be suicide</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit>
+
+---
+
+## LADWP Calls on Granada Hills and Porter Ranch Customers to Not Use Tap Water
+
+date: 2025-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/20250807_CC_Porter_Ranch_0287-2048x1365-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Los Angeles Department of Water and Power (LADWP) continues to urge customers to refrain from using any tap water flowing into their homes and businesses in Porter Ranch and [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/08/ladwp-calls-on-granada-hills-and-porter-ranch-customers-to-not-use-tap-water/">LADWP Calls on Granada Hills and Porter Ranch Customers to Not Use Tap Water </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/08/ladwp-calls-on-granada-hills-and-porter-ranch-customers-to-not-use-tap-water/>
+
+---
+
+## Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in L.A.
+
+date: 2025-08-08, from: Long Beach Post
+
+<figure><img width="1024" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-300x149.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-768x382.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-192x96.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-400x199.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The federal government on Thursday filed an emergency appeal with the U.S. Supreme Court seeking to lift a temporary ban on “roving” immigration sweeps.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/supreme-court-immigration-raids-lawsuit-aclu">Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in L.A.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/supreme-court-immigration-raids-lawsuit-aclu>
 
 ---
 
@@ -13,7 +73,7 @@ updated: 2025-08-08 06:08:34
 
 date: 2025-08-07, from: Long Beach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-2048x1365.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/07124658/youth-shelter-1-864458-pr1pdqwr-319935-pzHR1N1p-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It's aimed solely at helping those age 18 to 24 in an environment the city hopes will be more welcoming than a typical shelter.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-opens-shelter-and-resource-center-for-homeless-youth">Long Beach opens shelter and resource center for homeless youth</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -73,7 +133,7 @@ date: 2025-08-07, from: Long Beach Post
 
 date: 2025-08-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?w=1900&amp;ssl=1 1900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_04567_Page_4-scaled-e1754538219123.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Cuando la representante Luz Rivas prestó juramento en enero, no anticipó que los incendios más devastadores en la historia de Los Ángeles se desatarían esa misma semana. Sin embargo, sabía [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/08/06/la-novata-en-el-capitolio-la-representante-luz-rivas-lucha-contra-las-politicas-de-inmigracion-de-trump/">La Novata en el Capitolio, la Representante Luz Rivas, Lucha contra las Políticas de Inmigración de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

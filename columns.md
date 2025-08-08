@@ -1,11 +1,127 @@
 ---
 title: columns
-updated: 2025-08-08 06:08:27
+updated: 2025-08-08 14:08:14
 ---
 
 # columns
 
-(date: 2025-08-08 06:08:27)
+(date: 2025-08-08 14:08:14)
+
+---
+
+## August 7, 2025
+
+date: 2025-08-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170485757/eda7756bb1a50715b77e5f95b3408e2f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170485757/eda7756bb1a50715b77e5f95b3408e2f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-7-2025-1a3>
+
+---
+
+## Romance Scholarship Database
+
+date: 2025-08-08, from: Tracy Durnell Blog
+
+ 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/08/romance-scholarship-database/>
+
+---
+
+##  The Danish post office will stop delivering mail (but not parcels) at... 
+
+date: 2025-08-08, updated: 2025-08-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047300-the-danish-post-office-wi>
+
+---
+
+## Ubuntu 24.04.3: Noble Numbat point release slips out quietly
+
+date: 2025-08-08, updated: 2025-08-08, from: Liam Proven's articles at the Register
+
+<h4>Bugs in the current LTS are getting squished</h4>
+      <p>The latest point release of the current Ubuntu LTS is here, with a new kernel and a host of improvements for server and desktop alike.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/08/ubuntu_24043_quietly_slips_out/>
+
+---
+
+## Star leaky app of the week: StarDict
+
+date: 2025-08-08, updated: 2025-08-08, from: Liam Proven's articles at the Register
+
+<h4>Fun feature found in Debian 13: send your selected text to China – in plaintext</h4>
+      <p>As Trixie gets ready to début, a little-known app is hogging the limelight: StarDict, which sends whatever text you select, unencrypted, to servers in China.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/08/stardict_leaky_app_of_week/>
+
+---
+
+## 📨🚕
+
+date: 2025-08-08, from: mrusme blog
+
+I _made a thing_, and you are invited to give it a try.\
+Say _Hello_ to 📨🚕 (_MSG.TAXI_)! 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/msgtaxi/>
+
+---
+
+## I want the web to be like Harvard
+
+date: 2025-08-08, from: Dave Winer's Scripting News
+
+<p>Back in the beginning I wanted the web to be like Harvard.</p>
+<p>It's one of the reasons I went there as a research fellow in 2003. </p>
+<p>I wasn't satisfied with the web, the density of minds wasn't up to my expectations, so I thought if I brought the web to the minds, that might work better. I wanted to work on communication systems for people trying to work together to solve big problems. </p>
+<p>I chose Harvard over MIT, because the web was already strong at MIT, and they weren't friendly to my cause, they were busy trying to reinvent the web when it imho didn't need that. I hoped instead, Harvard, more a school of the liberal arts, would be more open to innovation in communication between people as opposed to between machines. I felt, in 2003, that was a solved problem on the web.</p>
+<p>It didn't happen there either, some great stuff did come out of that period, and some of it was lasting, but eventually the university wasn't on board with the web as a community for intellect. Instead what came out of Harvard in that period was Facebook, which is a great accomplishment. I am a FB user to this day and appreciate how well it works at keeping friends from long ago in contact. </p>
+<p>I still want an intellectual community on the web. That's why I'm putting so much effort into rebuilding it as a writing environment. All this because the writing products of Silicon Valley are always will be silos. As heroic as Ghost has been in supporting ActivityPub that is not the web. The barriers are too high and the features too limited. The web is the web, it's well defined and well understood. And that's where we have to go, and I want the minds to be there or else it wasn't worth the effort.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/08/135209.html?title=iWantTheWebToBeLikeHarvard>
+
+---
+
+## UI in AI is the next frontier
+
+date: 2025-08-08, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/08/07/rickAndMorty.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Yesterday I wrote a <a href="https://daveverse.org/2025/08/07/chatgpt-5-is-even-more-of-a-bastard-than-4/">quick review</a> of ChatGPT 5, after trying a simple programming exercise with it. It was an awful collaboration because it lied to me about its capabilities, leading me to develop a feature in my software to support the capability that it later admitted that it didn't have. I've never had a programming partner do that to me. I've had people who never showed up for work. Or people who were in so far over their heads that it would have been better if they had never shown up. It lied repeatedly, and when cornered it had the audacity to gaslight me. "I understand why you feel that way." Oh nothing pisses me off more than that. </p>
+<p>I don't understand why <a href="https://www.techmeme.com/250807/p29#a250807p29">other people</a> don't review it based on its functionality, after all it isn't just a <a href="https://www.theguardian.com/technology/2025/aug/02/big-tech-ai-spending?utm_source=chatgpt.com">money sink</a>, or a technological breakthrough, it's software that we pay actual money for that is meant to help us in our work. I don't know if it's by design that it's such an asshole. I have a feeling that people are going to focus on this eventually. </p>
+<p>ChatGPT is not human, it's like the world of <a href="https://daytona.scripting.com/search?q=%22Rick%20and%20Morty%22">Rick and Morty</a>. And we're meant to be one of the many versions of Rick and/or Morty, but which is the real one? Before we lose sight of that, let's keep our heads on, we're still the ones discovering stuff and being creative and entertaining other humans, not the machines. It'll all work a lot better when they're programmed to behave like computers, not these vain and corrupt pseudo humans. Still a breakthrough in search. Really sticks it to Google. Yaaay. That's good enough for me. </p>
+<p>I'm more worried about AIs killing us by overwhelming our nervous systems than taking our place at work. Has anyone actually used any of the software an AI has written? I know people who have never written software before are in awe, as I am about <a href="https://daytona.scripting.com/search?q=%22wordle%20kitty%22">drawing</a> characters I make up, but how does the software it builds rate? If it lies to itself like it lies to me, the software doesn't work at all, even slightly. I'm pretty sure "garbage in garbage out" applies in the new world of software. </p>
+<ul>
+<li><a href="http://scripting.com/2019/08/09.html#a191740">2019</a>: "I'd love to understand how one can be a programmer and not always be searching for the truth. Unlike just about any other profession I can think of, ours depends on telling the truth. You can't lie to a compiler is one of my programming mottos. Garbage in garbage out."</li>
+</ul>
+<p>The tech industry doesn't get its relationship with paying human customers. Had a problem with my cell phone service. I started getting emails saying it was shutting off my service because my credit card was being denied. Went to the account on the web and it looked fine. The messages kept coming. I reached out for help. The people couldn't understand what I was saying. I eventually gave up because I didn't understand either. I might have two accounts, I don't know, in some ways it looks like two, in other ways just one. I presume <i>they</i> have a way to find out, assuming there are actually any reasoning empathetic human beings who care about doing quality work. If we were talking to each other human to human, not as peripheral devices for a computer network, we might have figured it out in five minutes, instead of having the customer report it on their blog after weeks of <a href="https://daytona.scripting.com/search?q=bullshit">bullshit</a> that did not uncover the truth. We still don't know how many accounts I have. </p>
+<p>The company is Google. They're good at dealing with imaginary customers not real ones. If they ever understood how to communicate with people, they have forgotten. And of course there's a real possibility that all my conversations were with <i>their</i> ChatGPT. If that's true, no wonder we were running around in circles never getting the answer. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/08/125302.html?title=uiInAiIsTheNextFrontier>
 
 ---
 
@@ -344,9 +460,9 @@ date: 2025-08-07, from: Jeff Geerling blog
 
             <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/framework-mainboard-mini-rack-cluster.jpg" width="700" height="497" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-6590f2e5-dc8c-45b2-9873-38e572fd9b2d" data-insert-attach="{&quot;id&quot;:&quot;6590f2e5-dc8c-45b2-9873-38e572fd9b2d&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Framework Mainboard mini rack cluster on desk"></p>
 
-<p>Framework casually mentioned they were <a href="//www.youtube.com/watch?v=zI6ZQls54Ms)">testing a mini-rack AI cluster</a> in their <a href="https://frame.work/desktop">Framework Desktop</a> presentation back in March.</p>
+<p>Framework casually mentioned they were <a href="https://www.youtube.com/watch?v=zI6ZQls54Ms">testing a mini-rack AI cluster</a> in their <a href="https://frame.work/desktop">Framework Desktop</a> presentation back in March.</p>
 
-<p>Imagine my surprise when Nirav Patel, Framework's founder and CEO, was at Open Sauce a couple weeks ago, and wanted to talk! He said they had seen my <a href="https://mini-rack.jeffgeerling.com">Project Mini Rack</a> posts earlier this year and thought it was the perfect application to try out their new AMD Ryzen AI Max+ 395-powered Mainboard, as it's mini ITX dimensions fit inside a 10" rack.</p></div>
+<p>Imagine my surprise when Nirav Patel, Framework's founder and CEO, was at Open Sauce a couple weeks ago, and wanted to talk! He said they had seen my <a href="https://mini-rack.jeffgeerling.com">Project Mini Rack</a> posts earlier this year and thought it was the perfect application to try out their new AMD Ryzen AI Max+ 395-powered Mainboard, as its mini ITX dimensions fit inside a 10" rack.</p></div>
       <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-07T10:00:01-05:00" title="Thursday, August 7, 2025 - 10:00" class="datetime">August 7, 2025</time>
 </span> 

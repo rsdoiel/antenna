@@ -1,11 +1,36 @@
 ---
 title: pacific
-updated: 2025-08-08 06:08:24
+updated: 2025-08-08 14:08:11
 ---
 
 # pacific
 
-(date: 2025-08-08 06:08:24)
+(date: 2025-08-08 14:08:11)
+
+---
+
+## Bookshelf: Murder, mystery and Melanesian realpolitik
+
+date: 2025-08-08, from: Pacific Island Times
+
+By Gordon Peake Crime fiction is abidingly popular. Five of the top 10 books bought in Australia last week were mystery novels. Why is... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/bookshelf-murder-mystery-and-melanesian-realpolitik>
+
+---
+
+## Seals use ocean currents to ‘fast-track’ migration
+
+date: 2025-08-08, from: University of Hawaiʻi News
+
+<p>To address the growing conflict between seals and local fisheries, it's essential to first understand the animals' movements and habitat use.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/08/seals-ocean-currents/">Seals use ocean currents to ‘fast-track’ migration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/08/seals-ocean-currents/>
 
 ---
 
@@ -503,6 +528,18 @@ Christopher Pryde, who is in self-imposed exile in Aotearoa, claims charges brou
 
 ---
 
+## Governor cancels tropical storm conditions
+
+date: 2025-08-08, updated: 2025-08-08, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-cancels-tropical-storm-conditions/article_27e0f2cb-e04a-4101-b091-5369f3d07604.html>
+
+---
+
 ## Rolex boutique, two other luxury brand stores on Guam to close shop
 
 date: 2025-08-08, from: Pacific Island Times
@@ -850,6 +887,18 @@ Inside The Reef By Joyce McClure In Yap, the past is never far from the present.
 
 ---
 
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
 ## Japan cuts growth forecast on US tariffs drag, weaker consumption
 
 date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
@@ -883,6 +932,54 @@ ON July 31, 1945, the Project Alberta team on Tinian, working with the 509th Com
 <br> 
 
 <https://www.mvariety.com/news/local/80-years-ago-today-aug-9-1945/article_29e336e3-514d-494f-ae62-9ce85031d8b1.html>
+
+---
+
+## Palau’s 10% tax reveals cracks between business and consumer realities
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) —  More than two years after the Palau Goods and Services Tax or PGST took effect, citizens across different sectors are offering mixed reactions, revealing a growing divide between small business owners and retirees over who shoulders the real burden. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-s-10-tax-reveals-cracks-between-business-and-consumer-realities/article_128845eb-ad04-45d4-96e6-ad81eb4f1c8e.html>
+
+---
+
+## Red flags at 2 Rota sites
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Rota's recreational beaches and storm drainages this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-2-rota-sites/article_7ed88aec-8cb4-4fda-b006-c719c799fba7.html>
+
+---
+
+## US Army sergeant suspected of shooting, wounding five soldiers at Fort Stewart in Georgia
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+ATLANTA (Reuters) — A U.S. Army sergeant shot and wounded five soldiers with a personal handgun on Wednesday at Fort Stewart-Hunter Army Airfield near Savannah, Georgia, before he was subdued by other soldiers and arrested, military officials said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-army-sergeant-suspected-of-shooting-wounding-five-soldiers-at-fort-stewart-in-georgia/article_9ee07edb-ce9f-4343-9165-68a147229ca6.html>
+
+---
+
+## At the heart of it: the economy
+
+date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+
+Left hand, say hello to right hand 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/at-the-heart-of-it-the-economy/article_62dceecc-4a0e-4c81-83e1-56e3073ab41f.html>
 
 ---
 

@@ -1,11 +1,99 @@
 ---
 title: north america
-updated: 2025-08-08 06:08:22
+updated: 2025-08-08 14:08:09
 ---
 
 # north america
 
-(date: 2025-08-08 06:08:22)
+(date: 2025-08-08 14:08:09)
+
+---
+
+## Summer Fruit Compote and Vanilla Honey Madeleines
+
+date: 2025-08-08, from: The Contrarian
+
+France in summer is a masterclass in escape. 
+
+<br> 
+
+<https://contrarian.substack.com/p/summer-fruit-compote-and-vanilla>
+
+---
+
+## National Weather Service’s Plan to Hire Crucial Staffers After Mass Layoffs Will Be Too Late for Wildfire Season
+
+date: 2025-08-08, from: Capital and Main
+
+<p>Key California weather forecast offices will remain "criminally understaffed" while new hires get on board, former NWS meteorologists warn.</p>
+<p>The post <a href="https://capitalandmain.com/national-weather-services-plan-to-hire-crucial-staffers-after-mass-layoffs-will-be-too-late-for-wildfire-season">National Weather Service’s Plan to Hire Crucial Staffers After Mass Layoffs Will Be Too Late for Wildfire Season</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/national-weather-services-plan-to-hire-crucial-staffers-after-mass-layoffs-will-be-too-late-for-wildfire-season>
+
+---
+
+## What 'Building the Band' teaches us about talent, culture, and the dream of America
+
+date: 2025-08-08, from: The Contrarian
+
+The show uses music and storytelling to build a vision of the world we could have if we centered connection over competition. 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-building-the-band-teaches-us>
+
+---
+
+## The courts are chipping away at the Voting Rights Act: Expert Richard Hasen explains
+
+date: 2025-08-08, from: The Contrarian
+
+"This is nothing less than a major wrecking ball through the entire premise of voting rights." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170451775/3f634ed5549dea64249cf66cca56acd6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170451775/3f634ed5549dea64249cf66cca56acd6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-courts-are-chipping-away-at-the>
+
+---
+
+## The president’s sports council is full of people who have no business giving counsel
+
+date: 2025-08-08, from: The Contrarian
+
+This cast of characters is a disaster waiting to happen. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-presidents-sports-council-is>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-08, from: The Contrarian
+
+Friday: Vice President Vance gets an unwelcome reception, Sen. Marsha Blackburn avoids questions on the Epstein files, neighbors resist ICE, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-08-08, from: The Contrarian
+
+The True, Top-Secret Story of President Donald Trump 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-712>
 
 ---
 
@@ -154,18 +242,6 @@ The Trump administration promised transparency, but on one of its most consequen
 <br> 
 
 <https://contrarian.substack.com/p/shining-a-light-on-the-destruction>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-07, from: The Contrarian
-
-Thursday: Supporting Democrats who fled Texas, protests against ICE and the war in Gaza, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,51 @@
 ---
 title: journalism
-updated: 2025-08-08 06:08:29
+updated: 2025-08-08 14:08:15
 ---
 
 # journalism
 
-(date: 2025-08-08 06:08:29)
+(date: 2025-08-08 14:08:15)
+
+---
+
+## Chanel Contos discusses sex education, genuine consent in “Consent Laid Bare”
+
+date: 2025-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article contains mentions of sexual violence and assault that some readers may find disturbing.
+Chanel Contos hopes to expand education on consent through research and testimony compiled in her latest book. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/08/chanel-contos-discusses-sex-education-genuine-consent-in-consent-laid-bare/>
+
+---
+
+## Man arrested for allegedly stealing rare Chinese manuscripts from UCLA libraries
+
+date: 2025-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A man was arrested Tuesday after allegedly using false identities to steal over $200,000 worth of rare Chinese manuscripts from the UCLA Library system.
+Jeffrey Ying, a resident of Fremont, California, allegedly stole manuscripts from the UCLA East Asian Library and UCLA Library Special Collections and replaced them with false copies multiple times since October 2024, according to an affidavit filed with a criminal complaint. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/08/man-arrested-for-allegedly-stealing-rare-chinese-manuscripts-from-ucla-libraries/>
+
+---
+
+## Proposed UCLA settlement from federal government seeks $1 billion, policy changes
+
+date: 2025-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Aug. 8 at 1:10 p.m.</em>
+The federal government is seeking $1 billion from UCLA to restore the university’s research funding.&#160;&#160;
+The Trump administration suspended $584 million in grants to UCLA last week from the National Science Foundation, National Institutes of Health and U.S. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/08/proposed-ucla-settlement-from-federal-government-seeks-1-billion-policy-changes/>
 
 ---
 

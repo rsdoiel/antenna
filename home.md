@@ -1,11 +1,144 @@
 ---
 title: home
-updated: 2025-08-08 06:08:30
+updated: 2025-08-08 14:08:17
 ---
 
 # home
 
-(date: 2025-08-08 06:08:30)
+(date: 2025-08-08 14:08:17)
+
+---
+
+## Every Day at This $1.7M Maine Island Feels Like Summer Camp
+
+date: 2025-08-08, from: Dwell
+
+Set in the middle of Sandy Pond and accessible via causeway, the 12-acre getaway is perfect for boating, swimming, and hiking. 
+
+<br> 
+
+<https://www.dwell.com/article/private-island-log-cabin-sandy-pond-maine-real-estate-99afd1b2>
+
+---
+
+## 6 Types of Jays in Oregon (With Pictures and Identification)
+
+date: 2025-08-08, from: Yard Life blog
+
+<p>Oregon is home to several fascinating jay species, each with distinct appearances and behaviors. These intelligent birds inhabit a wide ... </p>
+<p class="read-more-container"><a title="6 Types of Jays in Oregon (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-types-of-jays-in-oregon-with-pictures-and-identification/#more-33477" aria-label="Read more about 6 Types of Jays in Oregon (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-types-of-jays-in-oregon-with-pictures-and-identification/">6 Types of Jays in Oregon (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-types-of-jays-in-oregon-with-pictures-and-identification/>
+
+---
+
+## Budget Breakdown: An Architect Couple’s $173K Home Is Inspired by Swedish Summer Houses
+
+date: 2025-08-08, from: Dwell
+
+They added a 650-square-foot plan to family property that provides immediate access to the Acadian Peninsula in New Brunswick. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-sommarhus-nordais-architecture-family-home-scandinavian-aesthetic-33857cf4>
+
+---
+
+## 3 Types of Cardinals in Hawaii (With Pictures and Identification)
+
+date: 2025-08-08, from: Yard Life blog
+
+<p>Hawaii is home to a surprising variety of colorful birds, and among them are three striking species often referred to ... </p>
+<p class="read-more-container"><a title="3 Types of Cardinals in Hawaii (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-cardinals-in-hawaii-with-pictures-and-identification/#more-33472" aria-label="Read more about 3 Types of Cardinals in Hawaii (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-cardinals-in-hawaii-with-pictures-and-identification/">3 Types of Cardinals in Hawaii (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-cardinals-in-hawaii-with-pictures-and-identification/>
+
+---
+
+## Sicily Is Getting a €13.5 Billion Bridge—and Everything Else You Need to Know About This Week
+
+date: 2025-08-08, from: Dwell
+
+Roundabouts spark a political feud, Lina Bo Bardi’s vision for a Brazilian city faces threats of gentrification, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-sicily-bridge-lina-bo-bardi-salvador-da-bahia-d396ed26>
+
+---
+
+## 47 Common Birds in Pennsylvania (With Pictures and Identification)
+
+date: 2025-08-08, from: Yard Life blog
+
+<p>Pennsylvania is home to a diverse array of bird species, with 47 common birds that you can spot across its ... </p>
+<p class="read-more-container"><a title="47 Common Birds in Pennsylvania (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/47-common-birds-in-pennsylvania-with-pictures-and-identification/#more-33464" aria-label="Read more about 47 Common Birds in Pennsylvania (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/47-common-birds-in-pennsylvania-with-pictures-and-identification/">47 Common Birds in Pennsylvania (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/47-common-birds-in-pennsylvania-with-pictures-and-identification/>
+
+---
+
+## How to Grow and Care for Redwood Trees
+
+date: 2025-08-08, from: The Gardener's Path
+
+<p>Redwood trees are towering conifers in the Sequoioideae subfamily, valued for their immense height, soft foliage, and rugged bark. From the deciduous dawn redwood to the massive coastal and giant species, redwoods make a striking addition to the landscape. Learn how to grow and care for redwoods in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-redwoods/">How to Grow and Care for Redwood Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-redwoods/>
+
+---
+
+## Why You Can Ignore Those Threatening Texts From the ‘DMV’
+
+date: 2025-08-08, from: Family Handyman Blog
+
+<p>Scams are unfortunately a common occurrence now; so it's best to be prepared. Find out how to spot the latest DMV scam text going around. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-you-can-ignore-those-threatening-texts-from-the-dmv/">Why You Can Ignore Those Threatening Texts From the &#8216;DMV&#8217;</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-you-can-ignore-those-threatening-texts-from-the-dmv/>
+
+---
+
+## CDFA’s Nutrition Incentive Program increases food access at Certified Farmers’ Markets
+
+date: 2025-08-08, from: Calfifornia Dept. Aggriculture blog
+
+As the country continues to recognize this week as National Farmers’ Market Week, CDFA celebrates its California Nutrition Incentive Program (CNIP), which helps low-income Californians access nutritious California-grown fresh produce at Certified Farmers’ Markets. CNIP provides increased funding support for &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29165">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29165>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-08, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This Blank Slate San Mateo Home Was Turned into a Playful, Eco-Friendly Space A remodel that prioritizes function, longevity, and a little bit of fun.  Read more&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -350,18 +483,6 @@ This Balboa Island home had a lot of potential but needed a design updated. A ma
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/balboa-island-beach-cottage>
-
----
-
-## Homepage 2025
-
-date: 2025-08-07, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours The Best Small-Space Ideas to Steal from the Most Stylish Beach Houses Inspiration for compact spaces.  Read more: The Best Small-Space Ideas to Steal from the&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

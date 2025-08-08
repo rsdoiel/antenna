@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-08-08 06:08:33
+updated: 2025-08-08 14:08:20
 ---
 
 # craft
 
-(date: 2025-08-08 06:08:33)
+(date: 2025-08-08 14:08:20)
+
+---
+
+## Free PDF of ‘The Anarchist’s Tool Chest: Revised Edition’ Now Online
+
+date: 2025-08-08, from: Lost Arg Press blog
+
+Visit the store page of &#8220;The Anarchist&#8217;s Tool Chest: Revised Edition&#8221; to get a free copy of the book&#8217;s PDF. There are two links to download it in the first paragraph – the paragraph in italics – on the sales page. No need to give us your name, your number or your firstborn. Just click... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/08/08/free-pdf-of-the-anarchists-tool-chest-revised-edition-now-online/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2025-08-08 06:08:33
 
 date: 2025-08-06, from: Lost Arg Press blog
 
-We’ve just received 11 pallets of “The Anarchist’s Tool Chest: Revised Edition” and we are busy shipping them out to customers. The first 500 customers will also receive a free iron-on merit badge with the A-square logo. Oh, and we also re-released the original ATC T-shirt in red (union made in the United States). You... 
+We’ve just received 11 pallets of “The Anarchist’s Tool Chest: Revised Edition” and we are busy shipping them out to customers. Oh, and we also re-released the original ATC T-shirt in red (union made in the United States). You can snag one here. Fourteen years after the release of &#8220;The Anarchist&#8217;s Tool Chest,&#8221; Christopher Schwarz... 
 
 <br> 
 

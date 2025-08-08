@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-08-08 06:08:26
+updated: 2025-08-08 14:08:12
 ---
 
 # science and technology
 
-(date: 2025-08-08 06:08:26)
+(date: 2025-08-08 14:08:12)
+
+---
+
+## Humans make better content cops than AI, but cost 40x more
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>To keep toxic content from damaging brands, both people and machines have a place</h4> <p>Human content moderators still outperform AI when it comes to recognizing policy-violating material, but they also cost significantly more.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/humans_outperform_ai_models_brand_safety/>
+
+---
+
+## “Why I prefer human-readable file formats”
+
+date: 2025-08-08, from: OS News
+
+Choosing human-readable file formats is an act of technological sovereignty. It&#8217;s about maintaining control over your data, ensuring long-term accessibility, and building systems that remain comprehensible and maintainable over time. The slight overhead of human readability pays dividends in flexibility, durability, and peace of mind. These formats also represent a philosophy: that technology should serve human understanding rather than obscure it. In choosing transparency over convenience, we build more resilient, more maintainable, and ultimately more trustworthy systems. ↫ Adële It&#8217;s hard not to agree with this sentiment. I definitely prefer being able to just open and read things like configuration files as if they&#8217;re text files, for all the same reasons Adële lists in their article. It just makes managing your system a lot easier, since I means you won&#8217;t have to rely on the applications the files belong to to make any changes. I think this also extends to other areas. When I&#8217;m dealing with photo or music library tools, I want them to use the file system and directories in a human-readable way. Having to load up an entire photo management application just to sort some photos seems backwards to me; why can&#8217;t I use my much leaner file manager to do this instead? I also want emails to be stored as individual files in directories matching mailboxes inside my email client, just like BeOS used to do back in the day (note that this is far from exclusive to BeOS). If I load up my file manager, and create a new directory inside the root mail directory I designated and copy a few email files into it, my email client should reflect that. As operating systems get ever more locked down, we&#8217;re losing the human-readability of our systems, and that&#8217;s not a good development. 
+
+<br> 
+
+<https://www.osnews.com/story/143009/why-i-prefer-human-readable-file-formats/>
+
+---
+
+## Chinese biz using AI to hit US politicians, influencers with propaganda
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>In misinformation, Russia might be the top dog but the Chinese are coming warns former NSA boss</h4> <p><strong>DEF CON</strong>  A cache of documents uncovered by Vanderbilt University has revealed disturbing details about how a Chinese company is building up a database of US politicians and influencers with whom to share propaganda.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/golaxy_ai_influence/>
+
+---
+
+## See the Sharpest Image Yet of an Interstellar Comet Passing Through the Solar System
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+Data from the Hubble Space Telescope unveils new information about this mysterious visitor 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-sharpest-image-yet-of-an-interstellar-comet-passing-through-the-solar-system-180987133/>
+
+---
+
+## Meet President Willian H. Brusen from the great state of Onegon
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>LLMs still struggle with accurate text within graphics</h4> <p><strong>hands on</strong>  OpenAI&#39;s GPT-5, unveiled on Thursday, is supposed to be the company&#39;s flagship model, offering better reasoning and more accurate responses than previous-gen products. But when we asked it to draw maps and timelines, it responded with answers from an alternate dimension.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/gpt-5-fake-presidents-states/>
+
+---
+
+## Could We Send a Superlight Spacecraft to a Theoretical Nearby Black Hole?
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+An astrophysicist argues that the interstellar mission would be extremely challenging but not completely unrealistic 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-is-how-an-astrophysicist-thinks-we-could-send-a-superlight-spacecraft-to-a-theoretical-nearby-black-hole-180987134/>
+
+---
+
+## Acting NASA Administrator Reflects on Legacy of Astronaut Jim Lovell
+
+date: 2025-08-08, from: NASA breaking news
+
+The following is a statement from acting NASA Administrator Sean Duffy on the passing of famed Apollo astronaut Jim Lovell. He passed away Aug. 7, in Lake Forest, Illinois. He was 97 years old. “NASA sends its condolences to the family of Capt. Jim Lovell, whose life and work inspired millions of people across the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/>
+
+---
+
+## Masterpieces by Cézanne, Manet, Degas and More Will Be Divided Among Three Museums in New York and Los Angeles
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+The Henry and Rose Pearlman Foundation is donating 63 artworks to the Brooklyn Museum, the Museum of Modern Art and the Los Angeles County Museum of Art 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/masterpieces-by-cezanne-manet-degas-and-more-will-be-divided-between-three-museums-in-new-york-and-los-angeles-180987130/>
+
+---
+
+## NASA Invites Media to View Heliophysics, NOAA Space Weather Missions
+
+date: 2025-08-08, from: NASA breaking news
+
+NASA invites media to view the agency’s IMAP (Interstellar Mapping and Acceleration Probe) spacecraft and two other missions — the Carruthers Geocorona Observatory and the National Oceanic and Atmospheric Administration’s (NOAA) Space Weather Follow On–Lagrange 1 (SWFO-L1) observatory, which will launch along with IMAP as rideshares. Media will have the opportunity to photograph the three [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-view-heliophysics-noaa-space-weather-missions/>
+
+---
+
+## Jen Pawol Is About to Become the First Female Umpire in Major League Baseball History
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+When the Atlanta Braves face off against the Miami Marlins this weekend, Pawol will become the first woman to umpire in a regular season MLB game 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/jen-pawol-is-about-to-become-the-first-female-umpire-in-major-league-baseball-history-180987131/>
+
+---
+
+## New, Implanted Device Could Offer a Long-Elusive, Drug-Free Treatment for Rheumatoid Arthritis
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+The FDA just approved the SetPoint System, which electrically stimulates the vagus nerve to control inflammation from the chronic disease 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-implanted-device-could-offer-a-long-elusive-drug-free-treatment-for-rheumatoid-arthritis-180987121/>
+
+---
+
+## Ubuntu 24.04.3: Noble Numbat point release slips out quietly
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Bugs in the current LTS are getting squished</h4> <p>The latest point release of the current Ubuntu LTS is here, with a new kernel and a host of improvements for server and desktop alike.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/ubuntu_24043_quietly_slips_out/>
+
+---
+
+## Rare Type of Black Hole Snacks on Star
+
+date: 2025-08-08, from: NASA breaking news
+
+NASA’s Hubble Space Telescope and NASA’s Chandra X-ray Observatory teamed up to identify a new possible example of a rare class of black holes, identified by X-ray emission (in purple) in this image released on July 24, 2025. Called NGC 6099 HLX-1, this bright X-ray source seems to reside in a compact star cluster in a giant elliptical galaxy. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/rare-type-of-black-hole-snacks-on-star/>
+
+---
+
+## Star leaky app of the week: StarDict
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Fun feature found in Debian 13: send your selected text to China – in plaintext</h4> <p>As Trixie gets ready to début, a little-known app is hogging the limelight: StarDict, which sends whatever text you select, unencrypted, to servers in China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/stardict_leaky_app_of_week/>
+
+---
+
+## ‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory’s 100th Birthday Party
+
+date: 2025-08-08, from: Quanta Magazine
+
+Hundreds of physicists (and a few journalists) journeyed to Helgoland, the birthplace of quantum mechanics, and grappled with what they have and haven’t learned about reality.            <p>The post <a href="https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/" target="_blank">‘It’s a Mess’: A Brain-Bending Trip to Quantum Theory’s 100th Birthday Party</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/its-a-mess-a-brain-bending-trip-to-quantum-theorys-100th-birthday-party-20250808/>
+
+---
+
+## Sudden spike in demand causes issues in Azure East US region
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>&#39;Although the incident has been marked resolved, in practice it lingers,&#39; admin tells us</h4> <p>A problem with resources for virtual machines is still affecting users in Azure&#39;s East US region after more than a week, frustrated admins have told us, despite Microsoft saying the incident is now resolved.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/sudden_spike_in_demand_azure_issues/>
+
+---
+
+## Ex-White House cyber, counter-terrorism guru: Microsoft considers security an annoyance, not a necessity
+
+date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+
+<h4>Tells <i>The Reg</i> China&#39;s ability to p0wn Redmond&#39;s wares &#39;gives me a political aneurysm&#39;</h4> <p><strong>Comment</strong>  Roger Cressey served two US presidents as a senior cybersecurity and counter-terrorism advisor and currently worries he&#39;ll experience a &#34;political aneurysm&#34; due to Microsoft&#39;s many security messes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/08/exwhite_house_cyber_and_counterterrorism/>
+
+---
+
+## See Rare Letters From a Titanic Passenger, Who Called the Vessel a 'Fine Ship' Days Before It Sank
+
+date: 2025-08-08, from: Smithsonian Magazine
+
+Archibald Gracie's letter, which recently sold at auction, is part of a new exhibition at the Molly Brown House Museum in Denver 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-rare-letters-from-a-titanic-passenger-who-called-the-vessel-a-fine-ship-days-before-it-sank-180987112/>
 
 ---
 
@@ -85,7 +301,7 @@ This NASA/ESA Hubble Space Telescope image captures incredible details in the du
 
 date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
 
-<h4>Campaigners brand Home Office’s lack of transparency as ‘astonishing’ and ‘dangerous’</h4> <p>Privacy groups report a surge in UK police facial recognition scans of databases secretly stocked with passport photos lacking parliamentary oversight.…</p> 
+<h4>Campaigners brand Home Office’s lack of transparency as ‘astonishing’ and ‘dangerous’</h4> <p><strong>updated</strong>  Privacy groups report a surge in UK police facial recognition scans of databases secretly stocked with passport photos lacking parliamentary oversight.…</p> 
 
 <br> 
 

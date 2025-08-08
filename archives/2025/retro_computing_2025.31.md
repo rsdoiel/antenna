@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-08-08 06:08:31
+updated: 2025-08-08 14:08:18
 ---
 
 # retro computing
 
-(date: 2025-08-08 06:08:31)
+(date: 2025-08-08 14:08:18)
+
+---
+
+## b.log 2025/08/08 - Wednesday, LibreOffice in proper English, Android's default printing is still bollocks, Mom vindicated, Lidl rechargeable batteries, AI album art, Yet more AI songs (9 (!) songs to download).
+
+date: 2025-08-08, from: Richard Murray's blog
+
+Wednesday, LibreOffice in proper English, Android's default printing is still bollocks, Mom vindicated, Lidl rechargeable batteries, AI album art, Yet more AI songs (9 (!) songs to download). 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250808>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-08-08, from: Digital Antiquarian
+
+The Theory of Heliocentrism, Chapter 1: The Legacy of the Ancients 
+
+<br> 
+
+<https://www.filfre.net/2025/08/this-week-on-the-analog-antiquarian/>
+
+---
+
+## Merlin OS: Building Trust in RISC OS Merlin with Formal Verification Methods
+
+date: 2025-08-08, from: Paola Zaino's blog
+
+In this article, we&#8217;ll take a look at an important new effort I am adding to my operating system, Merlin OS: formal verification, using a set of tools available to all Rust developers, as well as some custom ones. Disclaimer This article is not a comprehensive tutorial to software verification. It merely describes the work [&#8230;] 
+
+<br> 
+
+<https://paolozaino.wordpress.com/2025/08/08/merlin-os-building-trust-in-risc-os-merlin-with-formal-verification-methods/>
 
 ---
 

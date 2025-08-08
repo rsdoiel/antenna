@@ -1,11 +1,337 @@
 ---
 title: snapshots
-updated: 2025-08-08 06:08:35
+updated: 2025-08-08 14:08:22
 ---
 
 # snapshots
 
-(date: 2025-08-08 06:08:35)
+(date: 2025-08-08 14:08:22)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-08, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvvxtezirc2p>
+
+---
+
+## Separate Icons for macOS Tahoe vs. Earlier
+
+date: 2025-08-08, from: Michael Tsai
+
+John Siracusa: Looks like Tahoe/Xcode beta 5 no longer lets me show my pre-Tahoe app icons in pre-Tahoe OSes. This is a bummer. I filed FB19437407 asking for the ability to do this. I was also looking into how to do this. I had read that you could just keep your old icon in the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/08/separate-icons-for-macos-tahoe-vs-earlier/>
+
+---
+
+## “No” Part 2
+
+date: 2025-08-08, from: Michael Tsai
+
+Steve Troughton-Smith: &#8220;Are you merging iOS and macOS?&#8221; &#8220;&#8230;No! Of course not&#8221;Yet seven years later it is incredibly clear that there is a point of convergence coming in the very near future where iPadOS and macOS look effectively identical and run basically the same apps &#8212; and at that point, why do you need two [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/08/no-part-2/>
+
+---
+
+## Framework Desktop
+
+date: 2025-08-08, from: Michael Tsai
+
+David Heinemeier Hansson: It&#8217;s a solid 40% faster than the M4 Max and 50% faster than the M4 Pro! Now some will say &#8220;that&#8217;s just because Docker is faster on Linux,&#8221; and they&#8217;re not entirely wrong. Docker runs natively on Linux, so for this test, where the MySQL/Redis/ElasticSearch data stores run in Docker while Ruby [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/08/framework-desktop/>
+
+---
+
+## Japanese Mobile Software Competition Act
+
+date: 2025-08-08, from: Michael Tsai
+
+Marcus Mendes: Since 2020, Japan&#8217;s Fair Trade Commission has investigated Apple and Google&#8217;s dominance in the mobile market. This week, the watchdog published a series of new guidelines that the two companies must comply with, chief among them allowing third-party app stores.In a 119-page document issued this week, the Japan Fair Trade Commission established the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/08/japanese-mobile-software-competition-act/>
+
+---
+
+## Quoting Sam Altman
+
+date: 2025-08-08, updated: 2025-08-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://x.com/sama/status/1953893841381273969"><p>GPT-5 rollout updates:</p>
+<ul>
+<li>We are going to double GPT-5 rate limits for ChatGPT Plus users as we finish rollout.</li>
+<li>We will let Plus users choose to continue to use 4o. We will watch usage as we think about how long to offer legacy models for.</li>
+<li>GPT-5 will seem smarter starting today. Yesterday, the autoswitcher broke and was out of commission for a chunk of the day, and the result was GPT-5 seemed way dumber. Also, we are making some interventions to how the decision boundary works that should help you get the right model more often.</li>
+<li>We will make it more transparent about which model is answering a given query.</li>
+<li>We will change the UI to make it easier to manually trigger thinking.</li>
+<li>Rolling out to everyone is taking a bit longer. It’s a massive change at big scale. For example, our API traffic has about doubled over the past 24 hours…</li>
+</ul>
+<p>We will continue to work to get things stable and will keep listening to feedback. As we mentioned, we expected some bumpiness as we roll out so many things at once. But it was a little more bumpy than we hoped for!</p></blockquote>
+<p class="cite">&mdash; <a href="https://x.com/sama/status/1953893841381273969">Sam Altman</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/8/sam-altman/#atom-everything>
+
+---
+
+## Paper 7 is a digital picture frame with a 7 inch E Ink Spectra 6 color display
+
+date: 2025-08-08, from: Liliputing
+
+<p>The Paper 7 is a new digital picture frame from Paperless Paper that has an E Ink color display, up to 6 months of battery life, and the ability to display photos or artwork sent from a smartphone or web browser. Available for pre-order for 189€ (about $220), the device is expected to ship this month. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/paper-7-is-a-digital-picture-frame-with-a-7-inch-e-ink-spectra-6-color-display/">Paper 7 is a digital picture frame with a 7 inch E Ink Spectra 6 color display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/paper-7-is-a-digital-picture-frame-with-a-7-inch-e-ink-spectra-6-color-display/>
+
+---
+
+## The surprise deprecation of GPT-4o for ChatGPT consumers
+
+date: 2025-08-08, updated: 2025-08-08, from: Simon Willison’s Weblog
+
+<p>I've been dipping into the <a href="https://reddit.com/r/chatgpt">r/ChatGPT</a> subreddit recently to see how people are reacting to <a href="https://simonwillison.net/2025/Aug/7/gpt-5/">the GPT-5 launch</a>, and so far the vibes there are not good. <a href="https://www.reddit.com/r/ChatGPT/comments/1mkae1l/gpt5_ama_with_openais_sam_altman_and_some_of_the/">This AMA thread</a> with the OpenAI team is a great illustration of the single biggest complaint: a lot of people are <em>very</em> unhappy to lose access to the much older GPT-4o, previously ChatGPT's default model for most users.</p>
+<p>A big surprise for me yesterday was that OpenAI simultaneously retired access to their older models as they rolled out GPT-5, at least in their consumer apps. Here's a snippet from <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">their August 7th 2025 release notes</a>:</p>
+<blockquote>
+<p>When GPT-5 launches, several older models will be retired, including GPT-4o, GPT-4.1, GPT-4.5, GPT-4.1-mini, o4-mini, o4-mini-high, o3, o3-pro.</p>
+<p>If you open a conversation that used one of these models, ChatGPT will automatically switch it to the closest GPT-5 equivalent. Chats with 4o, 4.1, 4.5, 4.1-mini, o4-mini, or o4-mini-high will open in GPT-5, chats with o3 will open in GPT-5-Thinking, and chats with o3-Pro will open in GPT-5-Pro (available only on Pro and Team).</p>
+</blockquote>
+<p>There's no deprecation period at all: when your consumer ChatGPT account gets GPT-5, those older models cease to be available.</p>
+
+<p id="sama"><strong>Update 12pm Pacific Time</strong>: Sam Altman on Reddit <a href="https://www.reddit.com/r/ChatGPT/comments/1mkae1l/comment/n7nelhh/">six minutes ago</a>:</p>
+<blockquote>
+<p>ok, we hear you all on 4o; thanks for the time to give us the feedback (and the passion!). we are going to bring it back for plus users, and will watch usage to determine how long to support it.</p>
+</blockquote>
+<p>See also <a href="https://x.com/sama/status/1953893841381273969">Sam's tweet</a> about updates to the GPT-5 rollout.</p>
+
+<p>Rest of my original post continues below:</p>
+
+<hr />
+
+<p>(This only affects ChatGPT consumers - the API still provides the old models, their <a href="https://platform.openai.com/docs/deprecations">deprecation policies are published here</a>.)</p>
+<p>One of the expressed goals for GPT-5 was to escape the terrible UX of the model picker. Asking users to pick between GPT-4o and o3 and o4-mini was a notoriously bad UX, and resulted in many users sticking with that default 4o model - now a year old - and hence not being exposed to the advances in model capabilities over the last twelve months.</p>
+<p>GPT-5's solution is to automatically pick the underlying model based on the prompt. On paper this sounds great - users don't have to think about models any more, and should get upgraded to the best available model depending on the complexity of their question.</p>
+<p>I'm already getting the sense that this is <strong>not</strong> a welcome approach for power users. It makes responses much less predictable as the model selection can have a dramatic impact on what comes back.</p>
+<p>Paid tier users can select "GPT-5 Thinking" directly. Ethan Mollick is <a href="https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff">already recommending deliberately selecting the Thinking mode</a> if you have the ability to do so, or trying prompt additions like "think harder" to increase the chance of being routed to it.</p>
+<p>But back to GPT-4o. Why do many people on Reddit care so much about losing access to that crusty old model? I think <a href="https://www.reddit.com/r/ChatGPT/comments/1mkae1l/comment/n7js2sf/">this comment</a> captures something important here:</p>
+<blockquote>
+<p>I know GPT-5 is designed to be stronger for complex reasoning, coding, and professional tasks, but <strong>not all of us need a pro coding model</strong>. Some of us rely on 4o for creative collaboration, emotional nuance, roleplay, and other long-form, high-context interactions. Those areas feel different enough in GPT-5 that it impacts my ability to work and create the way I’m used to.</p>
+</blockquote>
+<p>What a fascinating insight into the wildly different styles of LLM-usage that exist in the world today! With <a href="https://simonwillison.net/2025/Aug/4/nick-turley/">700M weekly active users</a> the variety of usage styles out there is incomprehensibly large.</p>
+<p>Personally I mainly use ChatGPT for research, coding assistance, drawing pelicans and foolish experiments. <em>Emotional nuance</em> is not a characteristic I would know how to test!</p>
+<p>Professor Casey Fiesler <a href="https://www.tiktok.com/@professorcasey/video/7536223372485709086">on TikTok</a> highlighted OpenAI’s post from last week <a href="https://openai.com/index/how-we%27re-optimizing-chatgpt/">What we’re optimizing ChatGPT for</a>, which includes the following:</p>
+<blockquote>
+<p>ChatGPT is trained to respond with grounded honesty. There have been instances where our 4o model fell short in recognizing signs of delusion or emotional dependency. […]</p>
+<p>When you ask something like “Should I break up with my boyfriend?” ChatGPT shouldn’t give you an answer. It should help you think it through—asking questions, weighing pros and cons. New behavior for high-stakes personal decisions is rolling out soon.</p>
+</blockquote>
+<p>Casey points out that this is an ethically complicated issue. On the one hand ChatGPT should be much more careful about how it responds to these kinds of questions. But if you’re already leaning on the model for life advice like this, having that capability taken away from you without warning could represent a sudden and unpleasant loss!</p>
+<p>It's too early to tell how this will shake out. Maybe OpenAI will extend a deprecation period for GPT-4o in their consumer apps?</p>
+<p><em><strong>Update</strong>: That's exactly what they've done, see <a href="https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/#sama">update above</a>.</em></p>
+<p>GPT-4o remains available via the API, and there are no announced plans to deprecate it there. It's possible we may see a small but determined rush of ChatGPT users to alternative third party chat platforms that use that API under the hood.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/#atom-everything>
+
+---
+
+## Science Faces AI Oversight
+
+date: 2025-08-08, from: Guy Kawasaki blog
+
+Alexander Kaurov, PhD Candidate in Science and Society, Te Herenga Waka &#8212; Victoria University of Wellington. Naomi Oreskes, Professor of the History of Science, Harvard University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/science-faces-ai-oversight>
+
+---
+
+## Behind the Blog: Speculation, Distraction, and Smart Glasses
+
+date: 2025-08-08, from: 404 Media Group
+
+This week, we discuss Wikipedia's ethos and zooming in on a lot of pictures of cops' glasses. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-speculation-distraction-and-smart-glasses/>
+
+---
+
+## This Intel Raptor Lake network appliance supports up to 8 x 2.5 Gb LAN ports (or 2 x 10 Gb and 4 x 2.5 Gb)
+
+date: 2025-08-08, from: Liliputing
+
+<p>CWWK has updated its line of &#8220;soft router&#8221; &#8220;or firewall appliance&#8221; mini PCs with new models powered by Intel Raptor Lake processors that come with a lot of high-speed networking ports. There&#8217;s a model with an Intel U300E processor and eight 2.5 Gb Ethernet ports, as well another model that has six LAN ports: four 2.5 GbE [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-intel-raptor-lake-network-appliance-supports-up-to-8-x-2-5-gb-lan-ports-or-2-x-10-gb-and-4-x-2-5-gb/">This Intel Raptor Lake network appliance supports up to 8 x 2.5 Gb LAN ports (or 2 x 10 Gb and 4 x 2.5 Gb)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-intel-raptor-lake-network-appliance-supports-up-to-8-x-2-5-gb-lan-ports-or-2-x-10-gb-and-4-x-2-5-gb/>
+
+---
+
+## Luckfox Lyra Zero boards feature NPU or Cortex-M co-processor options, sell for under $20
+
+date: 2025-08-08, from: Liliputing
+
+<p>The Luckfox Lyra Zero W is a Raspberry Pi Zero-shaped single-board computer that launched earlier this year as an inexpensive board featuring a triple-core ARM Cortex-A7 processor and a Cortex-M0 co-processor for low-power, low-latency jobs, making it a solution for embedded applications. Now the company has introduced a new board called the Lyra Pico Zero that&#8217;s the same [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/luckfox-lyra-zero-boards-feature-npu-or-cortex-m-co-processor-options-sell-for-under-20/">Luckfox Lyra Zero boards feature NPU or Cortex-M co-processor options, sell for under $20</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/luckfox-lyra-zero-boards-feature-npu-or-cortex-m-co-processor-options-sell-for-under-20/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-08, from: Robert's feed at BlueSky)
+
+If you're interested in a new browser, things could get interesting. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvvmaxspcs23>
+
+---
+
+## 📨🚕
+
+date: 2025-08-08, from: mrusme blog
+
+I _made a thing_, and you are invited to give it a try.\
+Say _Hello_ to 📨🚕 (_MSG.TAXI_)! 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/msgtaxi/>
+
+---
+
+## Google is pulling the plug on its Steam Beta for gaming on Chromebooks
+
+date: 2025-08-08, from: Liliputing
+
+<p>Google has been trying to make the case for years that Chromebooks are more than just web browsers with keyboards and screens. And in 2022 the company introduced a new category of Chromebooks built for gaming, including models with high screen refresh rates, RGB backlit keyboards, and other premium features&#8230; including beta support for Valve&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/google-is-pulling-the-plug-on-its-steam-beta-for-gaming-on-chromebooks/">Google is pulling the plug on its Steam Beta for gaming on Chromebooks</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/google-is-pulling-the-plug-on-its-steam-beta-for-gaming-on-chromebooks/>
+
+---
+
+## The Attention Economy and Young People
+
+date: 2025-08-08, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>Economies are defined by scarcity, not abundance (scarcity = value). Today, information is abundant, attention is scarce. The scale of the world’s largest companies, the wealth of its richest people, and the power of governments are all rooted in the extraction, monetization, and custody of attention. The most recent example: American Eagle added $200 million [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/the-attention-economy-and-young-people/">The Attention Economy and Young People</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/the-attention-economy-and-young-people/>
+
+---
+
+## Guy Gives Himself 19th Century Psychiatric Illness After Consulting With ChatGPT
+
+date: 2025-08-08, from: 404 Media Group
+
+"For 3 months, he had replaced sodium chloride with sodium bromide obtained from the internet after consultation with ChatGPT." 
+
+<br> 
+
+<https://www.404media.co/guy-gives-himself-19th-century-psychiatric-illness-after-consulting-with-chatgpt/>
+
+---
+
+## AI must RTFM: Why technical writers are becoming context curators
+
+date: 2025-08-08, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>I’ve been noticing a trend among developers that use AI: they are increasingly writing and structuring docs in context folders so that the AI powered tools they use can build solutions autonomously and with greater accuracy. They now strive to understand information architecture, semantic tagging, docs markup. All of a sudden they’ve discovered docs, so they write more than they code. Because AI must RTFM now.</p> 
+
+<br> 
+
+<https://passo.uno/from-tech-writers-to-ai-context-curators/>
+
+---
+
+## Congress Launches Investigation into Flock After 404 Media Reporting
+
+date: 2025-08-08, from: 404 Media Group
+
+Congressman Raja Krishnamoorthi's office said this was “a formal investigation into Flock Group Inc. over its role in enabling invasive surveillance practices that threaten the privacy, safety, and civil liberties of women, immigrants, and other vulnerable Americans.” 
+
+<br> 
+
+<https://www.404media.co/congress-launches-investigation-into-flock-after-404-media-reporting/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-08, from: Robert's feed at BlueSky)
+
+👇 surprise surprise
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvvervfpos2l>
+
+---
+
+## The Fly Over Waterslide
+
+date: 2025-08-08, updated: 2025-08-08, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/08/the-fly-over-waterslide/>
+
+---
+
+## Authors Alliance Files Amicus Brief Asking the Ninth Circuit to Review Class Certification in Bartz v. Anthropic
+
+date: 2025-08-08, from: Authors Union blogs
+
+Yesterday, Authors Alliance filed an amicus brief, joined by EFF, ARL, ALA, and Public Knowledge, with the 9th Circuit in [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/08/08/authors-alliance-files-amicus-brief-asking-the-ninth-circuit-to-review-class-certification-in-bartz-v-anthropic/>
 
 ---
 
@@ -215,7 +541,7 @@ Video obtained and verified by 404 Media shows a CBP official wearing Meta's AI 
 date: 2025-08-07, updated: 2025-08-07, from: Simon Willison’s Weblog
 
 <p>A couple of weeks ago I was invited to OpenAI's headquarters for a "preview event", for which I had to sign both an NDA and a video release waiver. I suspected it might relate to either GPT-5 or the OpenAI open weight models... and <a href="https://simonwillison.net/2025/Aug/7/gpt-5/">GPT-5 it was</a>!</p>
-<p>OpenAI had invited five developers: <a href="https://clairevo.com/">Claire Vo</a>, <a href="https://www.youtube.com/@t3dotgg">Theo Browne</a>, <a href="https://x.com/benhylak">Ben Hylak</a>, <a href="https://www.swyx.io/">Shawn @swyx Wang</a>, and myself. We were all given early access to the new models and asked to spend a couple of hours (of paid time) experimenting with them, while being filmed by a professional camera crew.</p>
+<p>OpenAI had invited five developers: <a href="https://clairevo.com/">Claire Vo</a>, <a href="https://www.youtube.com/@t3dotgg">Theo Browne</a>, <a href="https://x.com/benhylak">Ben Hylak</a>, <a href="https://www.swyx.io/">Shawn @swyx Wang</a>, and myself. We were all given early access to the new models and asked to spend a couple of hours (of paid time, see <a href="https://simonwillison.net/about/#disclosures">my disclosures</a>) experimenting with them, while being filmed by a professional camera crew.</p>
 <p>The resulting video is <a href="https://www.youtube.com/watch?v=-gXmWYQtv5o">now up on YouTube</a>. Unsurprisingly most of my edits related to <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">SVGs of pelicans</a>.</p>
 <p><lite-youtube videoid="-gXmWYQtv5o" js-api="js-api"
   title=" Surprising developers with GPT-5 "
@@ -246,7 +572,7 @@ It&#8217;s here, finally, but not everything people dreamt it would be
 
 date: 2025-08-07, updated: 2025-08-07, from: Simon Willison’s Weblog
 
-<p>I've had preview access to the new GPT-5 model family for the past two weeks (see <a href="https://simonwillison.net/2025/Aug/7/previewing-gpt-5/">related video</a>) and have been using GPT-5 as my daily-driver. It's my new favorite model. It's still an LLM - it's not a dramatic departure from what we've had before - but it rarely screws up and generally feels competent or occasionally impressive at the kinds of things I like to use models for.</p>
+<p>I've had preview access to the new GPT-5 model family for the past two weeks (see <a href="https://simonwillison.net/2025/Aug/7/previewing-gpt-5/">related video</a> and <a href="https://simonwillison.net/about/#disclosures">my disclosures</a>) and have been using GPT-5 as my daily-driver. It's my new favorite model. It's still an LLM - it's not a dramatic departure from what we've had before - but it rarely screws up and generally feels competent or occasionally impressive at the kinds of things I like to use models for.</p>
 <p>I've collected a lot of notes over the past two weeks, so I've decided to break them up into <a href="https://simonwillison.net/series/gpt-5/">a series of posts</a>. This first one will cover key characteristics of the models, how they are priced and what we can learn from the <a href="https://openai.com/index/gpt-5-system-card/">GPT-5 system card</a>.</p>
 <ul>
 <li><a href="https://simonwillison.net/2025/Aug/7/gpt-5/#key-model-characteristics">Key model characteristics</a></li>
@@ -568,7 +894,7 @@ Putting the AI in Charge
 
 ## AI-Assisted Search and Rescue
 
-date: 2025-08-07, updated: 2025-08-07, from: One Foot Tsunami
+date: 2025-08-07, updated: 2025-08-08, from: One Foot Tsunami
 
  
 

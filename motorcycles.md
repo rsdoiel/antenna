@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-08-08 06:08:31
+updated: 2025-08-08 14:08:18
 ---
 
 # motorcycles
 
-(date: 2025-08-08 06:08:31)
+(date: 2025-08-08 14:08:18)
+
+---
+
+## Take a Peek Inside Moto Guzzi’s Renovated Italian Factory
+
+date: 2025-08-08, from: Ride Apart, Electric Motorcycle News
+
+The upgraded facility is more than just a factory, as it houses a museum and experience centers for customers and enthusiasts to get up close and personal with the machines.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768248/moto-guzzi-new-factory-preview-video/>
 
 ---
 
