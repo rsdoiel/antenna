@@ -1,11 +1,61 @@
 ---
 title: pacific
-updated: 2025-08-08 14:08:11
+updated: 2025-08-09 06:08:26
 ---
 
 # pacific
 
-(date: 2025-08-08 14:08:11)
+(date: 2025-08-09 06:08:26)
+
+---
+
+## New Maui home expands UH medical student rotations
+
+date: 2025-08-08, from: University of Hawaiʻi News
+
+<p>A new dedicated home in Kahului is making clinical training on Maui accessible for more <abbr>JABSOM</abbr> medical students.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/08/jabsom-maui-house-blessing/">New Maui home expands <abbr>UH</abbr> medical student rotations</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/08/jabsom-maui-house-blessing/>
+
+---
+
+## Hawaiʻi Sea Grant specialist brings coral reef science to global stage
+
+date: 2025-08-08, from: University of Hawaiʻi News
+
+<p>At the United Nations Ocean Conference, Mariana Rocha de Souza championed global action to protect and sustain the world's coral reefs.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/08/mariana-rocha-de-souza/">Hawaiʻi Sea Grant specialist brings coral reef science to global stage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/08/mariana-rocha-de-souza/>
+
+---
+
+## Solomon Islands PM calls for pause on Forum dialogue partner meeting
+
+date: 2025-08-08, from: 
+
+The Solomon Islands Prime Minister has made his case as to why at least twenty countries should be essentially blocked from a key Pacific meeting in Honiara next month. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569475/solomon-islands-pm-calls-for-pause-on-forum-dialogue-partner-meeting>
+
+---
+
+## CNMI to request 60-day extension on comment period for US military's plans for the territory
+
+date: 2025-08-08, from: 
+
+The Commonwealth of Northern Mariana Islands wants more time for residents to share their thoughts about the United States military's plans for the territory. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569476/cnmi-to-request-60-day-extension-on-comment-period-for-us-military-s-plans-for-the-territory>
 
 ---
 
@@ -255,6 +305,20 @@ date: 2025-08-08, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/08/community/kona-student-awarded-20k-fukunaga-scholarship/>
+
+---
+
+## DOH shuts down Pancho & Lefty’s restaurant in Kona
+
+date: 2025-08-08, from: Hawaii Tribune Harold
+
+
+				<p>Pancho &#038; Lefty&#8217;s Cantina &#038; Restaurante in Kailua-Kona has been shut down due to numerous food safety violations including the presence of cockroaches in the kitchen and &#8220;in ready-to eat foods.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/08/hawaii-news/doh-shuts-down-pancho-leftys-restaurant-in-kona/>
 
 ---
 
@@ -3798,4 +3862,251 @@ The post <a href="https://www.hawaii.edu/news/2025/08/02/red-hill-registry-launc
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/02/red-hill-registry-launch-and-fair/>
+
+---
+
+## Pal Ahluwalia to end tenure as USP vice-chancellor
+
+date: 2025-08-02, from: 
+
+Professor Pal Ahluwalia's six years as the head of the at the University of the South Pacific have been marked with controversy. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/568731/pal-ahluwalia-to-end-tenure-as-usp-vice-chancellor>
+
+---
+
+## Tropical Gardening: Every Hawaii garden needs an avocado tree
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>It may be too early to be optimistic, but damage from the avocado lace bug appears to be on the decline. This year&#8217;s avocado defoliation still continues to raise havoc with fruit production in some parts of the island. Exposed fruit are quickly sunburned, and that affects the quality.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/features/tropical-gardening-every-hawaii-garden-needs-an-avocado-tree/>
+
+---
+
+## Kenichi Pacific in Kona shut down due to food safety violations
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health has issued a red &#8220;closed&#8221; placard and immediately shut down Kenichi Pacific restaurant on Ali&#8216;i Drive in Kailua-Kona due to multiple critical food safety violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/kenichi-pacific-in-kona-shut-down-due-to-food-safety-violations/>
+
+---
+
+## Trump, claiming weak jobs numbers were ‘rigged,’ fires labor official
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump unleashed his fury about weakness in the labor market on Friday, saying without evidence that the data were &#8220;rigged&#8221; and that he was firing the Senate-confirmed Department of Labor official responsible for pulling together the numbers each month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-claiming-weak-jobs-numbers-were-rigged-fires-labor-official/>
+
+---
+
+## Employers pull back on hiring as uncertainty weighs on plans
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Employers have sharply pulled back their hiring, a sign that the labor market is weakening and more businesses are putting expansion plans on hold as they deal with economic uncertainty created by President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/employers-pull-back-on-hiring-as-uncertainty-weighs-on-plans/>
+
+---
+
+## Hawaii tourism cools off this summer as arrivals dip
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii tourism is cooling off this summer, and the visitor industry is concerned that the sector will continue to lose heat throughout this year and into 2026.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/hawaii-tourism-cools-off-this-summer-as-arrivals-dip/>
+
+---
+
+## Gov. Josh Green raises possibility of 2028 run for president
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green told NBC News he is considering a 2028 campaign for president of the United States with a possible platform of healing the nation after the bitterly divisive era of American politics that has consumed the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/gov-josh-green-raises-possiblity-of-2028-run-for-president/>
+
+---
+
+## Astronauts head to space station as clouds stay just far enough away
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>SpaceX&#8217;s latest mission for NASA launched four astronauts toward the International Space Station on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/astronauts-head-to-space-station-as-clouds-stay-just-far-enough-away/>
+
+---
+
+## ‘Hot wasps’ found at nuclear facility in South Carolina
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Four radioactive wasp nests have been discovered at a South Carolina nuclear facility, according to federal officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/hot-wasps-found-at-nuclear-facility-in-south-carolina/>
+
+---
+
+## Ghislaine Maxwell moved from Florida prison to lower-security facility
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Ghislaine Maxwell has been transferred from a Florida prison to a lower-security facility in Texas to continue serving her 20-year sentence for helping the late financier and sex offender Jeffrey Epstein sexually abuse underage girls, the U.S. Bureau of Prisons said on Friday. Maxwell&#8217;s move from FCI Tallahassee, a low-security prison, to the Federal Prison Camp in Bryan, Texas, comes a week after she met with Deputy U.S. Attorney General Todd Blanche, who said he wanted to speak with her about anyone else who may have been involved in Epstein&#8217;s crimes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/ghislaine-maxwell-moved-from-florida-prison-to-lower-security-facility/>
+
+---
+
+## News in brief for August 2
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Florida is buying plane tickets &#0010;for immigrants to self-deport</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/news-in-brief-for-august-2/>
+
+---
+
+## Corporation for Public Broadcasting will shut down
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>The Corporation for Public Broadcasting said Friday that it would shut down next year, effectively ending its half-century role as a backer of NPR, PBS and local radio and TV stations across the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/corporation-for-public-broadcasting-will-shut-down/>
+
+---
+
+## El Salvador ends term limits, letting Bukele seek reelection indefinitely
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>Lawmakers in El Salvador abolished presidential term limits Thursday, paving the way for President Nayib Bukele, who has aided President Donald Trump&#8217;s deportation efforts and whose government has jailed tens of thousands in its crackdown on gangs and civil rights groups, to run for reelection indefinitely.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/el-salvador-ends-term-limits-letting-bukele-seek-reelection-indefinitely/>
+
+---
+
+## Judge blocks Trump from fast-tracking deportations of immigrants paroled into US
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Friday blocked President Donald Trump&#8217;s administration from fast-tracking the deportation of potentially hundreds of thousands of immigrants who were paroled into the U.S. under former President Joe Biden&#8217;s humanitarian programs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/judge-blocks-trump-from-fast-tracking-deportations-of-immigrants-paroled-into-us/>
+
+---
+
+## Switzerland is stunned by 39% US tariff, among the highest in the world
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; Switzerland got a rude awakening Friday, a national holiday, when President Donald Trump set the tariff rate on goods imported from the Alpine country at 39%, one of the highest rates for any nation. Karin Keller-Sutter, the Swiss president, said she had spoken with Trump on Thursday but that &#8220;no agreement could be reached.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/switzerland-is-stunned-by-39-us-tariff-among-the-highest-in-the-world/>
+
+---
+
+## Trump says he ordered subs repositioned in rare nuclear threat to Russia
+
+date: 2025-08-02, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said on his social media feed Friday that he had &#8220;ordered two nuclear submarines&#8221; to be repositioned in response to online threats from Russia&#8217;s former president, Dmitry Medvedev, a rare threat of nuclear escalation between the superpowers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-says-he-ordered-subs-repositioned-in-rare-nuclear-threat-to-russia/>
+
+---
+
+## Organic Act of Guam marks 75: A call to remember, reflect and reimagine
+
+date: 2025-08-02, from: Pacific Island Times
+
+Seventy-five years since the Organic Act of Guam was signed into law, island leaders, descendants of political pioneers and community members came together in solemn reflection and quiet celebration. The moment wasn’t just about honoring a date in history, it was about remembering the people who fought to shape it, and asking what comes next. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/organic-act-of-guam-marks-75-a-call-to-remember-reflect-and-reimagine>
+
+---
+
+## Wahine soccer player chosen as goalkeeper to watch
+
+date: 2025-08-02, from: University of Hawaiʻi News
+
+<p>Kennedy Justin was named to the 2024 United Soccer Coaches Goalkeepers to Watch list after a record-setting freshman season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/01/justin-chosen-goalkeeper-to-watch/">Wahine soccer player chosen as goalkeeper to watch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/01/justin-chosen-goalkeeper-to-watch/>
 

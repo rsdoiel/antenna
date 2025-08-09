@@ -1,11 +1,39 @@
 ---
 title: home
-updated: 2025-08-08 14:08:17
+updated: 2025-08-09 06:08:32
 ---
 
 # home
 
-(date: 2025-08-08 14:08:17)
+(date: 2025-08-09 06:08:32)
+
+---
+
+## Rare Plant of the Month: Mendocino Coast paintbrush
+
+date: 2025-08-08, from: California Native Plants Society
+
+<p>Mendocino Coast paintbrush is a beautiful rare plant that grows along areas of the California coast. Learn more about it in the Rare Plant of the Month blog!</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-mendocino-coast-paintbrush-44071">Rare Plant of the Month: Mendocino Coast paintbrush</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-mendocino-coast-paintbrush-44071>
+
+---
+
+## More garden, less time
+
+date: 2025-08-08, from: Greg Alder's blog, Yard Post
+
+<p>Work will expand into the allotted time, goes the saying, and garden work is no exception. If I have all afternoon to prune my nectarine tree, then I will fiddle and get artsy and take all afternoon to prune my one nectarine tree. But I have other fruit trees that need pruning, not to mention [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/more-garden-less-time/">More garden, less time</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/more-garden-less-time/>
 
 ---
 
@@ -1858,4 +1886,182 @@ date: 2025-08-03, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/are-there-squirrels-in-hawaii-facts-you-didnt-expect/>
+
+---
+
+## 17 Awesome Amaryllis Varieties to Grow Indoors or Out
+
+date: 2025-08-02, from: The Gardener's Path
+
+<p>Bright red or striped amaryllis are ideal for holiday decor and giving as gifts. But did you know there are lots of other great types of amaryllis, too? From double-blossoms, to extra large blooms, to those that resemble orchids. Discover 17 of the best amaryllis varieties and choose your favorites. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-amaryllis-varieties/">17 Awesome Amaryllis Varieties to Grow Indoors or Out</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-amaryllis-varieties/>
+
+---
+
+## Do Mountain Lions in Colorado Hunt Alone or in Groups
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Mountain lions, also known as cougars or pumas, are among the most elusive and fascinating predators of the American West. ... </p>
+<p class="read-more-container"><a title="Do Mountain Lions in Colorado Hunt Alone or in Groups" class="read-more button" href="https://ownyardlife.com/do-mountain-lions-in-colorado-hunt-alone-or-in-groups/#more-32970" aria-label="Read more about Do Mountain Lions in Colorado Hunt Alone or in Groups">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/do-mountain-lions-in-colorado-hunt-alone-or-in-groups/">Do Mountain Lions in Colorado Hunt Alone or in Groups</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/do-mountain-lions-in-colorado-hunt-alone-or-in-groups/>
+
+---
+
+## What You Didn’t Know About Giant Alligators in Florida
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Florida is famous for its unique wetlands, swamps, and freshwater ecosystems, all home to one of the most awe-inspiring reptiles ... </p>
+<p class="read-more-container"><a title="What You Didn’t Know About Giant Alligators in Florida" class="read-more button" href="https://ownyardlife.com/what-you-didnt-know-about-giant-alligators-in-florida/#more-32964" aria-label="Read more about What You Didn’t Know About Giant Alligators in Florida">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-you-didnt-know-about-giant-alligators-in-florida/">What You Didn’t Know About Giant Alligators in Florida</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-you-didnt-know-about-giant-alligators-in-florida/>
+
+---
+
+## The Secret Lives of Falcons in Texas: Migration, Hunting, and More
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Falcons have long fascinated bird enthusiasts and nature lovers alike. Their speed, precision, and striking appearance make them one of ... </p>
+<p class="read-more-container"><a title="The Secret Lives of Falcons in Texas: Migration, Hunting, and More" class="read-more button" href="https://ownyardlife.com/the-secret-lives-of-falcons-in-texas-migration-hunting-and-more/#more-32958" aria-label="Read more about The Secret Lives of Falcons in Texas: Migration, Hunting, and More">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/the-secret-lives-of-falcons-in-texas-migration-hunting-and-more/">The Secret Lives of Falcons in Texas: Migration, Hunting, and More</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/the-secret-lives-of-falcons-in-texas-migration-hunting-and-more/>
+
+---
+
+## The Hidden Secrets of Badgers in Michigan You Didn’t Know About
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Michigan’s wilderness holds a variety of fascinating creatures, but few have stirred as much curiosity in recent years as the ... </p>
+<p class="read-more-container"><a title="The Hidden Secrets of Badgers in Michigan You Didn’t Know About" class="read-more button" href="https://ownyardlife.com/the-hidden-secrets-of-badgers-in-michigan-you-didnt-know-about/#more-32951" aria-label="Read more about The Hidden Secrets of Badgers in Michigan You Didn’t Know About">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/the-hidden-secrets-of-badgers-in-michigan-you-didnt-know-about/">The Hidden Secrets of Badgers in Michigan You Didn’t Know About</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/the-hidden-secrets-of-badgers-in-michigan-you-didnt-know-about/>
+
+---
+
+## 6 Species of Falcons in Virginia (With Pictures and Identification)
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Virginia offers a rich variety of natural environments, from coastal marshes and rolling farmland to forest edges and cityscapes. These ... </p>
+<p class="read-more-container"><a title="6 Species of Falcons in Virginia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-species-of-falcons-in-virginia-with-pictures-and-identification/#more-32946" aria-label="Read more about 6 Species of Falcons in Virginia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-species-of-falcons-in-virginia-with-pictures-and-identification/">6 Species of Falcons in Virginia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-species-of-falcons-in-virginia-with-pictures-and-identification/>
+
+---
+
+## 23 Species of Lizards in Utah (With Pictures and Identification)
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Utah’s varied landscapes, ranging from scorching deserts to cool mountain woodlands, are home to an impressive variety of lizard species. ... </p>
+<p class="read-more-container"><a title="23 Species of Lizards in Utah (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-species-of-lizards-in-utah-with-pictures-and-identification/#more-32933" aria-label="Read more about 23 Species of Lizards in Utah (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/23-species-of-lizards-in-utah-with-pictures-and-identification/">23 Species of Lizards in Utah (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/23-species-of-lizards-in-utah-with-pictures-and-identification/>
+
+---
+
+## 38 Common Birds in Illinois (With Pictures and Identification)
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Illinois boasts a rich and diverse bird population that reflects its variety of habitats—from dense woodlands and open prairies to ... </p>
+<p class="read-more-container"><a title="38 Common Birds in Illinois (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/38-common-birds-in-illinois-with-pictures-and-identification/#more-32926" aria-label="Read more about 38 Common Birds in Illinois (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/38-common-birds-in-illinois-with-pictures-and-identification/">38 Common Birds in Illinois (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/38-common-birds-in-illinois-with-pictures-and-identification/>
+
+---
+
+## The Unknown World of Snowshoe Hares in Alaska’s Wilderness
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>In the heart of Alaska’s rugged backcountry, where snow blankets the ground for much of the year and towering spruces ... </p>
+<p class="read-more-container"><a title="The Unknown World of Snowshoe Hares in Alaska’s Wilderness" class="read-more button" href="https://ownyardlife.com/the-unknown-world-of-snowshoe-hares-in-alaskas-wilderness/#more-32920" aria-label="Read more about The Unknown World of Snowshoe Hares in Alaska’s Wilderness">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/the-unknown-world-of-snowshoe-hares-in-alaskas-wilderness/">The Unknown World of Snowshoe Hares in Alaska’s Wilderness</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/the-unknown-world-of-snowshoe-hares-in-alaskas-wilderness/>
+
+---
+
+## Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>Hidden beneath the golden waves of Oklahoma’s expansive grasslands lies a creature that strikes both fear and fascination into the ... </p>
+<p class="read-more-container"><a title="Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands" class="read-more button" href="https://ownyardlife.com/uncover-the-truth-about-rattlesnakes-in-oklahomas-grasslands/#more-32914" aria-label="Read more about Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/uncover-the-truth-about-rattlesnakes-in-oklahomas-grasslands/">Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/uncover-the-truth-about-rattlesnakes-in-oklahomas-grasslands/>
+
+---
+
+## Discover the Strange Night Habits of Bats in Washington State
+
+date: 2025-08-02, from: Yard Life blog
+
+<p>As the sun dips below the horizon in Washington State, a different world comes alive—a world filled with quiet rustles, ... </p>
+<p class="read-more-container"><a title="Discover the Strange Night Habits of Bats in Washington State" class="read-more button" href="https://ownyardlife.com/discover-the-strange-night-habits-of-bats-in-washington-state/#more-32906" aria-label="Read more about Discover the Strange Night Habits of Bats in Washington State">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/discover-the-strange-night-habits-of-bats-in-washington-state/">Discover the Strange Night Habits of Bats in Washington State</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/discover-the-strange-night-habits-of-bats-in-washington-state/>
+
+---
+
+## July in Jacques’ garden
+
+date: 2025-08-02, from: Greg Alder's blog, Yard Post
+
+<p>What is to eat in July in Jacques&#8217; rich food garden in Southern California? Apples, pears, and nectarines. More apples, peaches, and goji berries. Cape gooseberries? What are those? You must join me for a tour and some tasting, plus a tip on how to trap green fruit beetles: More about Ghost apple: Dave Wilson [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/july-in-jacques-garden/">July in Jacques&#8217; garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/july-in-jacques-garden/>
 

@@ -1,11 +1,23 @@
 ---
 title: planet
-updated: 2025-08-08 14:08:08
+updated: 2025-08-09 06:08:22
 ---
 
 # planet
 
-(date: 2025-08-08 14:08:08)
+(date: 2025-08-09 06:08:22)
+
+---
+
+## Ukrainians will not give land to occupiers, says Zelensky
+
+date: 2025-08-08, from: RTÉ News
+
+Ukrainian President Volodymyr Zelensky has said Ukraine could not violate its constitution on territorial issues, adding that "Ukrainians will not give their land to occupiers". 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0809/1527622-ukraine-russia/>
 
 ---
 
@@ -45,6 +57,30 @@ Irish consumers last year turned their back on €66.7m when they failed to cash
 
 ---
 
+## Trump says he'll meet Putin in Alaska next Friday for first U.S.-Russia summit since 2021
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7604988.1754692067!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='A composite image shows two photos of two men put side by side. The man in the left photo is wearing a dark suit and is shown from the shoulders up. The man in the right photo is wearing a blue suit and is shown from the shoulders up. ' width='620' height='349' title='FILE - This combination of photos shows Russian President Vladimir Putin, left, in Moscow on May 9, 2025, and President Donald Trump in Washington on Aug. 1.'/><p>U.S. President Donald Trump said he will meet with Russian President Vladimir Putin on Aug. 15 in Alaska. The announcement came after Trump said Friday that he would meet 'very shortly' with Putin to discuss ending the war in Ukraine.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-putin-meeting-1.7604979?cmp=rss>
+
+---
+
+## Jeffrey Epstein and Donald Trump: a timeline
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.5647742.1752820144!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ghislaine-maxwell-jeffrey-epstein-donald-trump.jpg' alt='Two man and two women standing together, both men with their arms around the woman, all smiling' width='620' height='349' title='Donald Trump, left, and Melania Trump are shown with Jeffrey Epstein and his associate, Ghislaine Maxwell, at Trump&apos;s Mar-a-Lago estate in Palm Beach, Fla., in February 2000. '/><p>U.S. President Donald Trump keeps facing questions about Jeffrey Epstein, the multi-millionaire sex offender who died in jail in 2019 while facing federal charges of trafficking underage girls. Here's a quick guide to the Epstein saga and how it intersected with Trump over the years.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-epstein-timeline-1.7604277?cmp=rss>
+
+---
+
 ## Driver uninjured after train crashes into van in Poland
 
 date: 2025-08-08, from: RTÉ News
@@ -81,7 +117,19 @@ Ireland finished in third place in the Nations Cup Of Ireland at the Dublin Hors
 
 ---
 
-## Buffalo kills American trophy hunter in South Africa
+## Azerbaijan, Armenia sign U.S.-brokered peace deal at White House
+
+date: 2025-08-08, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7604845.1754687403!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/u-s-president-donald-trump-centre-shaking-hands-with-leaders-of-armenia-azerbaijan.jpg' alt='U.S. President Donald Trump, centre, shakes hands with Armenian Prime Minister Nikol Pashinyan, right, and Azerbaijan President Ilham Aliyev during a trilateral signing ceremony.' width='620' height='349' title='U.S. President Donald Trump, centre, shakes hands with Armenian Prime Minister Nikol Pashinyan, right, and Azerbaijan President Ilham Aliyev during a trilateral signing ceremony in the State Dining Room of the White House, Friday, Aug. 8, 2025, in Washington.'/><p>Azerbaijan and Armenia signed a U.S.-brokered peace agreement on Friday during a meeting with U.S. President Donald Trump that would boost bilateral economic ties after decades of conflict and move them toward a full normalization of their relations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-azerbaijan-armenia-peace-agreement-1.7604843?cmp=rss>
+
+---
+
+## US trophy hunter killed by buffalo in South Africa
 
 date: 2025-08-08, from: RTÉ News
 
@@ -169,7 +217,7 @@ The use of pain medication, including potentially addictive opioids, has risen s
 
 date: 2025-08-08, from: CBC, World News
 
-<img src='https://i.cbc.ca/1.7604671.1754681228!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/former-nasa-astronaut-jim-lovell-is-seen-in-an-april-2010-photo.JPG' alt='Former astronaut Jim Lovell is seen in an April 2010 photo.' width='620' height='349' title='Former astronaut Jim Lovell talks about his historic space flight in Cape Canaveral, Florida, April 9, 2010.  It&apos;s been 40 years since Apollo 13 safely returned to Earth after a oxygen-tank explosion prevented the spacecraft from landing on the moon and put its three-man crew in danger. Four decades later, NASA and the surviving two astronauts, Lovell and Fred Haise, are celebrating an aborted mission that turned potential disaster into a successful recovery. '/><p>James (Jim) Lovell, the commander of Apollo 13 who helped turn a failed moon mission into a triumph of on-the-fly can-do engineering, has died. He was 97.</p> 
+<img src='https://i.cbc.ca/1.7604762.1754684256!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nasa-astronaut-james-jim-lovell-posing-for-a-photo-in-february-1970.jpg' alt='NASA astronaut James (Jim) Lovell, posing for a photo in his space suit, in February 1970.' width='620' height='349' title='In this photo provided by NASA, astronaut James Lovell, Apollo 13 commander poses for a portrait in his space suit, Feb. 16, 1970.'/><p>James (Jim) Lovell, the commander of Apollo 13 who helped turn a failed moon mission into a triumph of on-the-fly can-do engineering, has died. He was 97.</p> 
 
 <br> 
 
@@ -195,7 +243,7 @@ date: 2025-08-08, from: Vatican News
 
 ---
 
-## Brennan appointed as new Dublin manager
+## Brennan appointed new Dublin football manager
 
 date: 2025-08-08, from: RTÉ News
 
@@ -317,11 +365,11 @@ A schoolboy in the UK who stabbed another pupil to death during their lunch brea
 
 ---
 
-## Island Lake Chiefs say Canada must invest in First Nations wildfire prevention
+## Investment in First Nations wildfire prevention needed to halt 'cycle of failure': Island Lake chiefs
 
 date: 2025-08-08, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7604408.1754672102!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/island-lake-wildfire-presser-aug-8-2025-winnipeg.jpeg' alt='People sit at a table, many wearing feathered headdresses, with a large yellow, green, blue and white flag stretched out behind them. ' width='620' height='349' title='Leaders representing four Island Lake First Nations — Garden Hill Anisininew Nation, Red Sucker Lake Anisininew Nation, St. Theresa Point Anisininew Nation and Wasagamack Anisininew Nation — attend a press conference in Winnipeg on Friday, Aug. 8, 2025. '/><p>Four First Nations in Manitoba are calling on the federal government to make wildfire prevention a priority as Island Lake communities remain under states of emergency and mandatory evacuation orders.</p> 
+<img src='https://i.cbc.ca/1.7584100.1754697500!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/garden-hill-anisininew-nation-wildfire.jpg' alt='Dark orange sky willed with smoke with shadows of two firefighters carrying a hose in the foreground' width='620' height='349' title='A wildfire burns near Garden Hill Anisininew Nation in northeastern Manitoba in July 2025.'/><p>Four First Nations in Manitoba are calling on the federal government to make wildfire prevention a priority as Island Lake communities remain under states of emergency and mandatory evacuation orders.</p> 
 
 <br> 
 
@@ -467,7 +515,7 @@ Millions of people returning to Afghanistan from neighbouring countries are rece
 
 ## Landlocked but not left behind: UN summit in Turkmenistan wraps with bold new roadmap
 
-date: 2025-08-08, from: United Nations, Economic Development
+date: 2025-08-08, from: United Nations, Top Stories
 
 The Third UN Conference on Landlocked Developing Countries wrapped up earlier Friday in Awaza, Turkmenistan, with delegates adopting a landmark political declaration aimed at speeding up sustainable development and boosting resilience in 32 nations that lack direct access to the sea. 
 
@@ -546,6 +594,18 @@ Presenter Kieran Hanrahan will retire this weekend after 30 years as host of RT�
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0808/1527499-kieran-hanrahan-retires-from-ceili-house-after-30-years/>
+
+---
+
+## Preview: Ireland aim to build more World Cup momentum
+
+date: 2025-08-08, from: RTÉ News
+
+Ireland face the might of Canada in this afternoon's second World Cup warm-up match looking to build on last weekend's comeback victory over Scotland. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0808/1527500-preview-ireland-aim-to-build-more-world-cup-momentum/>
 
 ---
 
@@ -629,7 +689,7 @@ Coverage of all today's developments after Israel's security council approved a 
 
 date: 2025-08-08, from: RTÉ News
 
-The United States doubled its bounty on Venezuelan President Nicolás Maduro - who faces federal drug trafficking charges and whose election victory was not recognized by Washington - to $50m. 
+The United States has doubled its bounty on Venezuelan President Nicolás Maduro - who faces federal drug trafficking charges and whose election victory was not recognised by Washington - to $50m. 
 
 <br> 
 
@@ -637,11 +697,11 @@ The United States doubled its bounty on Venezuelan President Nicolás Maduro - w
 
 ---
 
-## Trump says he will meet Putin 'very shortly'
+## Trump-Putin meeting to take place in Alaska on 15 August
 
 date: 2025-08-08, from: RTÉ News
 
-US President Donald Trump has said that he will meet "very shortly" with Russian President Vladimir Putin in a bid to end the war in Ukraine. 
+US President Donald Trump has said that his meeting with Russian President Vladimir Putin will take place on 15 August in Alaska. 
 
 <br> 
 
@@ -1147,7 +1207,7 @@ In Africa’s Sahel region, deepening violence and poverty – driven by displac
 
 ## Facing rising risks, landlocked nations launch climate alliance at UN summit
 
-date: 2025-08-07, from: United Nations, Economic Development
+date: 2025-08-07, from: United Nations, Top Stories
 
 Countries agreed Thursday to form a new climate negotiating bloc to advocate for the unique needs of nations without direct access to the sea. The decision was reached at the Third UN Conference on Landlocked Developing Countries (LLDC3), currently under way in Awaza, Turkmenistan. 
 
@@ -1831,7 +1891,7 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
 
-date: 2025-08-06, from: United Nations, Economic Development
+date: 2025-08-06, from: United Nations, Top Stories
 
 For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
 
@@ -1841,7 +1901,7 @@ For the world’s landlocked developing countries (LLDCs), geography isn’t jus
 
 ---
 
-## Rwanda-backed rebels kill hundreds in eastern DR Congo
+## Armed militia kill hundreds in eastern DR Congo
 
 date: 2025-08-06, from: United Nations, Top Stories
 
@@ -1879,7 +1939,7 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 
 ## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
 
-date: 2025-08-06, from: United Nations, Economic Development
+date: 2025-08-06, from: United Nations, Top Stories
 
 Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
 
@@ -3463,7 +3523,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Economic Development
+date: 2025-08-04, from: United Nations, Climate Change
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 
@@ -4313,4 +4373,572 @@ A US federal agency has opened a formal investigation into former Special Counse
 <br> 
 
 <https://www.rte.ie/news/us/2025/0803/1526717-trump-smith-us/>
+
+---
+
+## Legal proceedings in McGregor case not yet at an end
+
+date: 2025-08-02, from: RTÉ News
+
+Legal proceedings in the Conor McGregor civil action taken by Nikita Hand are not at an end following the Court of Appeal's decision on Thursday, writes Legal Affairs Correspondent Órla O'Donnell. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0803/1526684-mcgregor-court/>
+
+---
+
+## Mixed leaves and spinach among eight products recalled
+
+date: 2025-08-02, from: RTÉ News
+
+Batches of eight spinach, mixed leaves, rocket and lettuce products sold in Irish supermarkets have been recalled due to the detection of listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526710-spinach-recall-fsai/>
+
+---
+
+## Pope Leo tells thousands of youth to build better world
+
+date: 2025-08-02, from: RTÉ News
+
+Tens of thousands of young people filled a vast field on the outskirts of Rome to see Pope Leo, in the largest event yet of the new Catholic pontiff's tenure. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0802/1526707-pope-address-rome/>
+
+---
+
+## U.S. watchdog launches investigation into former Trump prosecutor Jack Smith
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600527.1754178364!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/presidents-rhetoric.jpg' alt='A person speaks at a lectern.' width='620' height='349' title='FILE - Special counsel Jack Smith speaks about an indictment of former President Donald Trump, Tuesday, Aug. 1, 2023, at a Department of Justice office in Washington. (AP Photo/Jacquelyn Martin, File)'/><p>The Office of Special Counsel investigation is the latest in a series of actions taken by U.S. President Donald Trump and his allies against their perceived political enemies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/jack-smith-special-counsel-hatch-act-trump-prosecutor-investigation-1.7600525?cmp=rss>
+
+---
+
+## Pope answers questions from pilgrims at Jubilee of Youth
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>An estimated million young people gather in the outskirts of Rome for the Jubilee of Youth prayer vigil. Three of them ask him questions: about friendship, life choices, and encountering Jesus.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-answers-questions-from-pilgrims-at-jubilee-of-youth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-answers-questions-from-pilgrims-at-jubilee-of-youth.html>
+
+---
+
+## ICCROM and the Fabbrica di San Pietro inagurate a partnership for Africa’s Future
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>An important alliance has been signed to promote the conservation of cultural heritage and sustainable development in African countries. The innovative project will offer new opportunities for young local artisans and artists, helping to build stronger and more prosperous communities.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/iccrom-and-fabbrica-san-pietro-inagurate-partnership-for-africa.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/iccrom-and-fabbrica-san-pietro-inagurate-partnership-for-africa.html>
+
+---
+
+## A tale of spiritual resilience from the heart of Gaza
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>In this letter from Gaza, a young woman, displaced by Israeli bombings, who has found shelter in the compound of the Holy Family Church in Gaza City, reflects on how, despite the pain and fear her community is subjected to every day, their faith in God remains the only light that illuminates our dark paths.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/helda-ayyad-gaza-displaced-holy-family-church.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/helda-ayyad-gaza-displaced-holy-family-church.html>
+
+---
+
+## Witnesses of faith on a Jubilee pilgrimage of hope
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Three young pilgrims of hope offer powerful testimonies of faith, rediscovery, and love at the pre-vigil of the Jubilee of Youth in Tor Vergata, Rome. Their stories, different in language and life experience, converge in a shared desire to respond to God’s love with their own lives.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/pre-vigil-jubilee-youth-testimonies-young-pilgrims-tor-vergata.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/pre-vigil-jubilee-youth-testimonies-young-pilgrims-tor-vergata.html>
+
+---
+
+## Ukraine hits military targets and pipeline in Russia
+
+date: 2025-08-02, from: RTÉ News
+
+Ukraine has said it hit military targets and a gas pipeline in drone attacks in Russia, where local authorities said three people were killed and two others wounded. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0802/1526675-ukraine-russia/>
+
+---
+
+## US envoy to region meets families of Israeli hostages
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Amid continuing Israeli attacks on Gazan civilians U.S. special envoy Steve Witkoff meets with families of Israeli hostages still held by Hamas in the Strip.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/steve-witkoff-israel-hostages-gaza-humanitarian-famine.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/steve-witkoff-israel-hostages-gaza-humanitarian-famine.html>
+
+---
+
+## U.S. has 'very, very good plan' to end war in Gaza, envoy tells hostage families
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7600436.1754157234!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians-gaza.jpg' alt='Smoke rises amid destroyed buildings following bombardment.' width='620' height='349' title='Smoke rises amid destroyed buildings following an Israeli shelling in the Gaza Strip, as seen from southern Israel, Friday, Aug. 1, 2025. (AP Photo/Leo Correa)'/><p>U.S. President Donald Trump has made ending the conflict in Gaza a major priority of his administration, though negotiations have faltered. Steve Witkoff is visiting Israel as its government faces mounting pressure over the deteriorating humanitarian conditions in the enclave.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-plan-ceasefire-gaza-israel-hostage-families-1.7600434?cmp=rss>
+
+---
+
+## Election in Kanehsatà:ke cancelled at last minute
+
+date: 2025-08-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7600420.1754154377!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mohawk-council-of-kanesatake.jpg' alt='A sign in front of a building for the Mohawk Council of Kanesatake is shown.' width='620' height='349' title='An election to determine band council members in Kanesatake was cancelled the day before voters were scheduled to head to the polls. '/><p>A general election to pick a grand chief and six chiefs to make up the Mohawk Council of Kanesatake was cancelled after the chief electoral officer noted 'numerous flaws' in the electoral code.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/montreal/kanesatake-general-elections-cancelled-1.7600347?cmp=rss>
+
+---
+
+## Vatican Museums delegation presents restored St. Augustine painting to Pope Leo XIV
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>A delegation from the Vatican Museums presents to Pope Leo XIV a restored painting of St. Augustine, the work of an anonymous Roman artist of the 18th century which was restored by the Laboratory for the Restoration of Paintings and Wooden Materials. Among those present were the Director of the Museums, Barbara Jatta, and the President of the Governatorate, Sister Raffaella Petrini.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/vatican-museums-delegation-st-augustine-painting-pope-leo.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/vatican-museums-delegation-st-augustine-painting-pope-leo.html>
+
+---
+
+## Hamas 'will not disarm' unless Palestinian state founded
+
+date: 2025-08-02, from: RTÉ News
+
+Hamas has said it would not lay down arms unless an independent Palestinian state is established. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0802/1526667-middle-east-israel-gaza/>
+
+---
+
+## Wallabies avoid Lions whitewash in tense Sydney washout
+
+date: 2025-08-02, from: RTÉ News
+
+If there were any fears for the future of tours in Australia, they were washed away in Sydney as the Wallabies and the British and Irish Lions played out an enthralling final Test, one which the hosts deservedly took 22-12. 
+
+<br> 
+
+<https://www.rte.ie/sport/british-and-irish-lions/2025/0802/1526628-wallabies-avoid-lions-whitewash-in-tense-sydney-washout/>
+
+---
+
+## Over 40,000 people due to attend annual Bray Air Display
+
+date: 2025-08-02, from: RTÉ News
+
+Over 40,000 people are set to descend on Bray seafront in Co Wicklow for the annual Bray Air Display. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0802/1526663-bray-air-display/>
+
+---
+
+## Over 40,000 attend annual Bray Air Display
+
+date: 2025-08-02, from: RTÉ News
+
+Over 40,000 people descended on Bray seafront in Co Wicklow for the annual Bray Air Display. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526663-bray-air-display/>
+
+---
+
+## Hunger lines in Gaza: ‘Food is not enough’
+
+date: 2025-08-02, from: United Nations, Top Stories
+
+In western Gaza City, displaced people live crammed into cramped tents, and a human tragedy is unfolding across a landscape of hunger. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165559>
+
+---
+
+## SECAM Plenary Day 2:  African Church's long-term vision and polygamy at centre stage
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>During their ongoing Plenary Assembly at the Kigali Conference Centre, Bishops from across Africa convened under the theme “Christ, Source of Hope, Reconciliation, and Peace” for the 20th SECAM Plenary Assembly. The second day’s discussions focused on unpacking this central theme and exploring the continent’s long-term vision.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/secam-kigali-plenary-day-2-long-term-vision-polygamy-africa-chur.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/secam-kigali-plenary-day-2-long-term-vision-polygamy-africa-chur.html>
+
+---
+
+## Sex and the City spin-off And Just Like That to end
+
+date: 2025-08-02, from: RTÉ News
+
+Actress Sarah Jessica Parker has expressed her "profound gratitude" after HBO announced the third season of Sex And The City spin-off And Just Like That is to be its last. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0802/1526653-sex-and-the-city-spin-off-and-just-like-that-to-end/>
+
+---
+
+## Gaza is on the verge of famine and countless children are dying
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>As the humanitarian crisis in Gaza worsens by the day, a UNICEF official warns that children are dying at unprecedented rates, famine poses a grave risk, and a disease outbreak may be looming.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/gaza-is-on-verge-of-famine-needs-are-enormous.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/gaza-is-on-verge-of-famine-needs-are-enormous.html>
+
+---
+
+## Changes in Astronomy
+
+date: 2025-08-02, from: Vatican Obervatory
+
+A book from 1980 shows how much astronomy can change in 45 years -- whether that be the 45 years before 1980, or the 45 years since. 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/changes-in-astronomy/>
+
+---
+
+## Pope expresses condolences on sudden death of Egyptian pilgrim
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Pope Leo expresses his deep sorrow upon receiving news of the sudden death of an 18-year old Egyptian youth, Pascale Rafic, who was traveling to Rome to participate in the Jubilee of Youth.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-expresses-condolences-on-sudden-death-of-eyptian-pilgrim.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-expresses-condolences-on-sudden-death-of-eyptian-pilgrim.html>
+
+---
+
+## Pope Leo XIV: 'We all find true joy and happiness in Jesus Christ'
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Pope Leo XIV welcomes artists ahead of their animating the Jubilee Youth Vigil at Tor Vergata on Saturday evening, and invites them to remind young people that it is the Lord in whom they find true joy and happiness.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-welcomes-artists-ahead-of-jubilee-youth-vigil.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-welcomes-artists-ahead-of-jubilee-youth-vigil.html>
+
+---
+
+## 'Together and safe' - Funeral held for shooting victims
+
+date: 2025-08-02, from: RTÉ News
+
+Mourners at the funeral of a mother and her two children, who were murdered in Co Fermanagh last week, have been told that their family is comforted knowing she will have her children at either side of her forever. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0802/1526646-funeral-clare/>
+
+---
+
+## 8 counties issued yellow warnings ahead of Storm Floris
+
+date: 2025-08-02, from: RTÉ News
+
+Met Éireann has issued Status Yellow weather warnings for Monday ahead of the arrival of Storm Floris. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0802/1526641-storm-floris/>
+
+---
+
+## Australia v Lions third Test recap
+
+date: 2025-08-02, from: RTÉ News
+
+Relive all the action as Australia deservedly ended the hopes of series whitewash for the visitors. 
+
+<br> 
+
+<https://www.rte.ie/sport/rugby/2025/0802/1526634-australia-v-lions-third-test-updates/>
+
+---
+
+## Ukraine military claims it struck major Russian refinery, electronics factory
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7598255.1754132408!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-attack-kyiv.JPG' alt='A car is on fire.' width='620' height='349' title='A car damaged during Russian missile and drone strikes burn, amid Russia’s attack on Ukraine, in Kyiv, Ukraine July 31, 2025. REUTERS/Valentyn Ogirenko'/><p>Ukraine's military said Saturday it had struck oil facilities inside Russia, including a major refinery, a military airfield for drones and an electronics factory. Russia's Defence Ministry says air defences intercepted or destroyed 112 drones across eight Russian regions and Crimean Peninsula.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/ukraine-russian-oil-facilities-drones-1.7600339?cmp=rss>
+
+---
+
+## Lord's Day Reflection: The sadness of things
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>As the Church marks the Eighteenth Sunday in Ordinary Time, Abbot Marion Nguyen reflects on the theme, "The Sadness of Things: Avarice and the Freedom of Detachment".</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/lord-s-day-reflection-the-sadness-of-things.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/lord-s-day-reflection-the-sadness-of-things.html>
+
+---
+
+## Woman, 50s, dies while swimming in Co Donegal
+
+date: 2025-08-02, from: RTÉ News
+
+A woman in her 50s has died after getting into difficulty while swimming at Gleann Cholm Cille, Co Donegal. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0802/1526633-donegal-swimming/>
+
+---
+
+## Markets reel from White House's latest tariffs order
+
+date: 2025-08-02, from: RTÉ News
+
+Global markets have reeled after US President Donald Trump's latest wave of tariffs against nearly all his country's trading partners as governments face a seven-day deadline before higher duties take effect. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0802/1526627-us-tariffs/>
+
+---
+
+## Jordan's Principle office in Brandon shuts down over federal funding cuts
+
+date: 2025-08-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7600205.1754088334!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canupawakpa-jordan-s-principle.jpg' alt='A photo of cars in a parking lot with a building that has the sign Dakota Urban Jordans Principle.' width='620' height='349' title='The urban Jordan&apos;s Principle office operated by Canupawakpa Dakota Nation and Birdtail Sioux First Nation closed six months after opening in October 2024.'/><p>A Jordan’s Principle office serving urban children and families from Canupawakpa Dakota First Nation and Birdtail Sioux First Nation in Brandon, Man., has shut its doors. Canupawakpa Chief Raymond Brown says federal funding has been cut by millions. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/jordans-principle-brandon-funding-cut-1.7600166?cmp=rss>
+
+---
+
+## Trump claims victory on trade - but EU had little choice
+
+date: 2025-08-02, from: RTÉ News
+
+In many respects US President Donald Trump achieved his aims by introducing a swath of tariffs with America's main trading partners around the world. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0802/1526609-trump-tariffs-analysis/>
+
+---
+
+## Mood shifts on Israel-Gaza, but will it bring change?
+
+date: 2025-08-02, from: RTÉ News
+
+France, the UK and Canada announced they would recognise the State of Palestine as pressure around the world over starvation in Gaza mounts, but will the shift in mood bring change? 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0802/1526610-gaza-israel-us-analysis/>
+
+---
+
+## Storm Floris predicted to be exceptionally strong
+
+date: 2025-08-02, from: RTÉ News
+
+Ahead of the arrival of the unseasonable Storm Floris, Environment Correspondent George Lee examines the occurrence and impacts of such weather events in the summer period. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0802/1526612-storm-floris/>
+
+---
+
+## What's on? Top 10 TV and streaming tips for Saturday
+
+date: 2025-08-02, from: RTÉ News
+
+Billy Joel: And So It Goes explores his life and music, Dexys at the BBC features the various incarnations of Kevin Rowland's band, Griff Rhys Jones explores the southern states of the USA, and Peter Dinklage stars in The Thicket . . . 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0802/1526186-whats-on-top-10-tv-and-streaming-tips-for-saturday/>
+
+---
+
+## Cardinal Czerny to SECAM: 'We stand ready to accompany your Church'
+
+date: 2025-08-02, from: Vatican News
+
+
+                    <p>Cardinal Michael Czerny, the Prefect of the Vatican's Dicastery for Promoting Integral Human Development, speaks at the opening of the 20th Plenary Assembly of SECAM taking place in Kigali, Rwanda, recalling fruits of SECAM's initiatives in the past, and reassuring the African Bishops of his Dicastery's readiness to accompany them in the future.</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/20th-plenary-assembly-secam-cardinal-michael-czerny.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/20th-plenary-assembly-secam-cardinal-michael-czerny.html>
+
+---
+
+## Assault victim links attack to racism and rise in misinformation
+
+date: 2025-08-02, from: RTÉ News
+
+A string of violent attacks on migrants in Ireland, some linked to racism and misinformation, has sparked growing concern among some minority communities 
+
+<br> 
+
+<https://www.rte.ie/news/primetime/2025/0802/1526594-assault-victim-links-attack-to-racism-and-rise-in-misinformation/>
+
+---
+
+## Trump fires US official after publication of job report
+
+date: 2025-08-02, from: RTÉ News
+
+US President Donald Trump has ordered the Commissioner of the Labor Department's Bureau of Labor Statistics Erika McEntarfer to be fired after data showed weaker than expected employment growth in July and massive downward revisions to the prior two months' job counts. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0802/1526624-us-economy/>
+
+---
+
+## Inuit-owned 'state of the art' fishing vessel christened in Iqaluit
+
+date: 2025-08-02, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7598823.1753988766!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/inuksuk-ii-christening.jpg' alt='people watch as a bottle breaks on the side of the ship' width='620' height='349' title='A bottle of champagne is broken on the hull of the Inuksuk II at the boat&apos;s christening ceremony in Iqaluit on July 29, 2025.'/><p>Inuit-owned fishing company Baffin Fisheries christened its new vessel Inuksuk II in an Iqaluit ceremony earlier this week.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/inuksuk-ii-christening-1.7598806?cmp=rss>
+
+---
+
+## Hong Kong created an oyster reef on a seawall beside an airport. Canada could learn from it
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599921.1754076738!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/osyster-reef-hong-kong.JPG' alt='People on a boat throw mesh bads full of oysters into the water near a rock wall. ' width='620' height='349' title='A reef restoration project underway in Hong Kong off the seawall of Hong Kong International Airport, in 2024.'/><p>An estimated 85 per cent of the world's oyster reefs have been lost. And the vast majority of oyster beds in Hong Kong are not recognized as ecologically important, and therefore, not granted protection.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/hong-kong-oyster-reefs-1.7598132?cmp=rss>
+
+---
+
+## Hamilton restaurateur returns to Syria after 12 years for bittersweet reunion with family, former staff
+
+date: 2025-08-02, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7599516.1754057259!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/mohamad-tomeh-and-his-mother.JPG' alt='A man and a woman in a hijab smile at the camera in a selfie.' width='620' height='349' title='Hamilton restaurateur Mohamad Tomeh hadn&apos;t seen his mother in over a decade since he left Syria in 2013.'/><p>After 12 years away from Syria, Hamilton businessman Mohamad Tomeh was finally able to return earlier this month and hopes to remain in his hometown for a few more weeks to contribute to the economy and the rebuilding of his hometown.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/hamilton/syria-trip-mohamad-tomeh-1.7595296?cmp=rss>
+
+---
+
+## Maxwell transferred to low security prison camp in US
+
+date: 2025-08-02, from: RTÉ News
+
+Ghislaine Maxwell has been transferred from a Florida prison to a lower-security facility in Texas to continue serving her 20-year sentence for helping sex offender Jeffrey Epstein abuse underage girls, the US Bureau of Prisons has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0802/1526623-ghislaine-maxwell-jail/>
 

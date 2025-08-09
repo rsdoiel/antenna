@@ -1,11 +1,39 @@
 ---
 title: food
-updated: 2025-08-08 14:08:20
+updated: 2025-08-09 06:08:35
 ---
 
 # food
 
-(date: 2025-08-08 14:08:20)
+(date: 2025-08-09 06:08:35)
+
+---
+
+## Trader Joe’s Just Released Funnel Cake Fries, and I Tried Them 4 Different Ways
+
+date: 2025-08-08, from: Taste of Home
+
+<p>Of course, there are plenty of ways to make Trader Joe's new Carnival Fun Cake Fries, but these are some good toppings to start with.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/trader-joes-carnival-fun-cake-fries/">Trader Joe&#8217;s Just Released Funnel Cake Fries, and I Tried Them 4 Different Ways</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/trader-joes-carnival-fun-cake-fries/>
+
+---
+
+## Noodles & Company Just Made a Huge Change to Its Menu for the First Time in 30 Years
+
+date: 2025-08-08, from: Taste of Home
+
+<p>It's a fun, balanced and budget-friendly option.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/noodles-company-delicious-duos-2025/">Noodles &#038; Company Just Made a Huge Change to Its Menu for the First Time in 30 Years</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/noodles-company-delicious-duos-2025/>
 
 ---
 
@@ -1078,4 +1106,16 @@ date: 2025-08-03, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/grilled-meat-on-stick/>
+
+---
+
+## Here For Gear: Everybody Wants To Brew The World
+
+date: 2025-08-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A bi-weekly curated selection of coffee gear from brands big and small. 
+
+<br> 
+
+<https://sprudge.com/here-for-gear-everybody-wants-to-brew-the-world-385755.html>
 

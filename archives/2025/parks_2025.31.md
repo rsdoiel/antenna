@@ -1,11 +1,25 @@
 ---
 title: parks
-updated: 2025-08-08 14:08:17
+updated: 2025-08-09 06:08:32
 ---
 
 # parks
 
-(date: 2025-08-08 14:08:17)
+(date: 2025-08-09 06:08:32)
+
+---
+
+## Additional Water Restrictions Implemented at the South Rim
+
+date: 2025-08-08, from: Press Releases
+
+Beginning at 8 a.m. on Saturday, Aug. 9, the South Rim of Grand Canyon National Park will implement additional water restrictions and conservation measures.
+
+Crews have repaired the broken section of the Transcanyon Waterline; however, due to a mechanical issue at Havasupai Gardens, pumping has not yet resumed to the South Rim. https://www.nps.gov/grca/learn/news/additional-water-restrictions-august-9-2025.htm 
+
+<br> 
+
+<https://www.nps.gov/grca/learn/news/additional-water-restrictions-august-9-2025.htm>
 
 ---
 

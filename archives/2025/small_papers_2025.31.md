@@ -1,11 +1,11 @@
 ---
 title: small papers
-updated: 2025-08-08 14:08:20
+updated: 2025-08-09 06:08:36
 ---
 
 # small papers
 
-(date: 2025-08-08 14:08:20)
+(date: 2025-08-09 06:08:36)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-08-08 14:08:20
 
 date: 2025-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="350" height="467" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="photo of LA City Attorney Hydee Feldstein Soto" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?w=350&amp;ssl=1 350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="350" height="467" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="photo of LA City Attorney Hydee Feldstein Soto" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?w=350&amp;ssl=1 350w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/Hydee-Feldstein-Soto.webp?fit=350%2C467&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; Thirteen additional cities joined a coalition of municipalities being led by the city and county of Los Angeles against the federal government for allegedly racially profiling [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/08/08/additional-cities-join-la-lawsuit-against-federal-immigration-raids/">Additional Cities Join LA Lawsuit Against Federal Immigration Raids</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -28,7 +28,7 @@ date: 2025-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-08-08, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The suspected shooter stood to “inherit everything” from his uncle, who was found slain in his home, according to court documents.</p>
 <p>The post <a href="https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit">Search warrant reveals new details of Long Beach killing originally thought to be suicide</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -36,6 +36,54 @@ date: 2025-08-08, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit>
+
+---
+
+## Catalinaville fundraiser sets new record
+
+date: 2025-08-08, from: Catalina Islander
+
+Catalina Island Health Foundation broke a fundraising record for the island during its annual Catalinaville event over the weekend. From all accounts, the Foundation is the first nonprofit on Catalina Island to exceed the $1 million threshold in a single fundraising event! Each year, Catalinaville welcomes hundreds of supporters for a Margaritaville-inspired event to raise [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalinaville-fundraiser-sets-new-record/>
+
+---
+
+## City introduces vacation rental update
+
+date: 2025-08-08, from: Catalina Islander
+
+Part one of two. The Avalon City Council on Aug. 5 unanimously introduced an ordinance updating the rules for short-term rentals. The ordinance will return to a future meeting for adoption. Thirteen individuals spoke to the council about the issue prior to the vote. Many public comments were critical of the ordinance. Due to space [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-introduces-vacation-rental-update/>
+
+---
+
+## Fishing Derby results for Aug. 8, 2025 Islander
+
+date: 2025-08-08, from: Catalina Islander
+
+A total of 22 kids from Avalon, Santa Barbara, and Chicago joined in for the eighth fishing derby of the season on Wednesday. 10 and under most fish caught 1st &#8211; 10 yr. old Jonathan &#8211; 21 fish 2nd &#8211; 10 yr. old Will &#8211; 16 fish 3rd &#8211; 7 yr. Old Liv &#8211; 11 [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/fishing-derby-results-for-aug-8-2025-islander/>
+
+---
+
+## 6th Generation Visitors
+
+date: 2025-08-08, from: Catalina Islander
+
+Long time visitor Ronald Kulberg contacted The Catalina Islander about a family that has been visiting the island since 1919. At that time, it was the Levy’s who first came to the island for some rest and recreation. Since then members of the family have returned yearly to visit Catalina. Six generations have now made [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/6th-generation-visitors/>
 
 ---
 
@@ -58,7 +106,7 @@ date: 2025-08-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-08-08, from: Long Beach Post
 
-<figure><img width="1024" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-300x149.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-768x382.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-192x96.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-400x199.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-300x149.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-768x382.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-192x96.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-400x199.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The federal government on Thursday filed an emergency appeal with the U.S. Supreme Court seeking to lift a temporary ban on “roving” immigration sweeps.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/supreme-court-immigration-raids-lawsuit-aclu">Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in L.A.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -515,4 +563,34 @@ date: 2025-08-04, from: Long Beach Post
 <br> 
 
 <https://lbpost.com/news/crime/ulta-beauty-faces-criminal-charges-for-allegedly-overcharging-customers-in-long-beach>
+
+---
+
+## Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says
+
+date: 2025-08-02, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Speed, distracted driving, and impaired driving do not appear to have contributed to this collision," police said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says">Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says>
+
+---
+
+## Long Beach man charged with sending money to terrorist group
+
+date: 2025-08-02, from: Long Beach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities say they arrested him Friday and found what appeared to be a bomb in his bedroom.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group">Long Beach man charged with sending money to terrorist group</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group>
 

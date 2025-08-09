@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-08-08 14:08:18
+updated: 2025-08-09 06:08:33
 ---
 
 # retro computing
 
-(date: 2025-08-08 14:08:18)
+(date: 2025-08-09 06:08:33)
 
 ---
 
@@ -2476,4 +2476,28 @@ Again, if you were part of the MAE team and can shed a little light on how this 
 <br> 
 
 <https://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html>
+
+---
+
+## b.log 2025/08/02 - Holiday!!!, Making my blacks black, Tea 0.23 (patch).
+
+date: 2025-08-02, from: Richard Murray's blog
+
+Holiday!!!, Making my blacks black, Tea 0.23 (patch). 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250802>
+
+---
+
+## Your Computer Interviewed Chris Curry (1981)
+
+date: 2025-08-02, from: Computer ads from the Past
+
+Chris talks about his work with Clive Sinclair and Acorn Computers with a little BBC Micro. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry>
 

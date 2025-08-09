@@ -1,11 +1,64 @@
 ---
 title: snapshots
-updated: 2025-08-08 14:08:22
+updated: 2025-08-09 06:08:37
 ---
 
 # snapshots
 
-(date: 2025-08-08 14:08:22)
+(date: 2025-08-09 06:08:37)
+
+---
+
+## Quoting @pearlmania500
+
+date: 2025-08-08, updated: 2025-08-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.tiktok.com/@pearlmania500/video/7535954556379761950"><p>I have a toddler. My biggest concern is that he doesn't eat rocks off the ground and you're talking to me about ChatGPT psychosis? Why do we even have that? Why did we invent a new form of insanity and then charge people for it?</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.tiktok.com/@pearlmania500/video/7535954556379761950">@pearlmania500</a>, on TikTok</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/tiktok">tiktok</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/8/pearlmania500/#atom-everything>
+
+---
+
+## Hypothesis is now thread-safe
+
+date: 2025-08-08, updated: 2025-08-08, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://hypothesis.works/articles/thread-safe/">Hypothesis is now thread-safe</a></strong></p>
+Hypothesis is a property-based testing library for Python. It lets you write tests like this one:</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">hypothesis</span> <span class="pl-k">import</span> <span class="pl-s1">given</span>, <span class="pl-s1">strategies</span> <span class="pl-k">as</span> <span class="pl-s1">st</span>
+
+<span class="pl-en">@<span class="pl-en">given</span>(<span class="pl-s1">st</span>.<span class="pl-c1">lists</span>(<span class="pl-s1">st</span>.<span class="pl-c1">integers</span>()))</span>
+<span class="pl-k">def</span> <span class="pl-en">test_matches_builtin</span>(<span class="pl-s1">ls</span>):
+    <span class="pl-k">assert</span> <span class="pl-en">sorted</span>(<span class="pl-s1">ls</span>) <span class="pl-c1">==</span> <span class="pl-en">my_sort</span>(<span class="pl-s1">ls</span>)</pre>
+
+<p>This will automatically create a collection of test fixtures that exercise a large array of expected list and integer shapes. Here's <a href="https://gist.github.com/simonw/74014071af1553921e0307efd2280168">a Gist</a> demonstrating the tests the above code will run, which include things like:</p>
+<pre><code>[]
+[0]
+[-62, 13194]
+[44, -19562, 44, -12803, -24012]
+[-7531692443171623764, -109369043848442345045856489093298649615]
+</code></pre>
+<p>Hypothesis contributor Liam DeVoe was recently sponsored by Quansight to add thread safety to Hypothesis, which has become important recently due to Python free threading:</p>
+<blockquote>
+<p>While we of course would always have loved for Hypothesis to be thread-safe, thread-safety has historically not been a priority, because running Hypothesis tests under multiple threads is not something we see often.</p>
+<p>That changed recently. Python---as both a language, and a community---is gearing up to <a href="https://peps.python.org/pep-0703/">remove the global interpreter lock (GIL)</a>, in a build called <a href="https://docs.python.org/3/howto/free-threading-python.html">free threading</a>. Python packages, especially those that interact with the C API, will need to test that their code still works under the free threaded build. A great way to do this is to run each test in the suite in two or more threads simultaneously. [...]</p>
+<p>Nathan mentioned that because Hypothesis is not thread-safe, Hypothesis tests in community packages have to be skipped when testing free threaded compatibility, which removes a substantial battery of coverage.</p>
+</blockquote>
+<p>Now that Hypothesis is thread-safe another blocker to increased Python ecosystem support for free threading has been removed!
+
+    <p><small></small>Via <a href="https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gil">gil</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/testing">testing</a>, <a href="https://simonwillison.net/tags/threading">threading</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/8/hypothesis/#atom-everything>
 
 ---
 
@@ -150,7 +203,7 @@ date: 2025-08-08, updated: 2025-08-08, from: Simon Willison’s Weblog
 <p><em><strong>Update</strong>: That's exactly what they've done, see <a href="https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/#sama">update above</a>.</em></p>
 <p>GPT-4o remains available via the API, and there are no announced plans to deprecate it there. It's possible we may see a small but determined rush of ChatGPT users to alternative third party chat platforms that use that API under the hood.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/tiktok">tiktok</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai-personality">ai-personality</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p> 
 
 <br> 
 
@@ -186,7 +239,7 @@ This week, we discuss Wikipedia's ethos and zooming in on a lot of pictures of c
 
 date: 2025-08-08, from: Liliputing
 
-<p>CWWK has updated its line of &#8220;soft router&#8221; &#8220;or firewall appliance&#8221; mini PCs with new models powered by Intel Raptor Lake processors that come with a lot of high-speed networking ports. There&#8217;s a model with an Intel U300E processor and eight 2.5 Gb Ethernet ports, as well another model that has six LAN ports: four 2.5 GbE [&#8230;]</p>
+<p>CWWK has updated its line of &#8220;soft router&#8221; &#8220;or firewall appliance&#8221; mini PCs with new models powered by Intel Raptor Lake processors that come with a lot of high-speed networking ports. There&#8217;s a model with an Intel U300E processor and eight 2.5 Gb Ethernet ports, as well another model that has six LAN ports: four [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/this-intel-raptor-lake-network-appliance-supports-up-to-8-x-2-5-gb-lan-ports-or-2-x-10-gb-and-4-x-2-5-gb/">This Intel Raptor Lake network appliance supports up to 8 x 2.5 Gb LAN ports (or 2 x 10 Gb and 4 x 2.5 Gb)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
@@ -382,6 +435,18 @@ Ever wonder why online advertising is so confusing, complicated, and privacy-thr
 <br> 
 
 <https://feed.tedium.co/link/15204/17113618/ari-paparo-yield-google-antitrust-review>
+
+---
+
+## GPT-5 failed the wrong test
+
+date: 2025-08-08, updated: 2025-08-08, from: Tom Kellog blog
+
+the best way to emphasize the importance of this week's developments is to go all the way back to January and see how we got here. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/08/08/agents>
 
 ---
 
@@ -3058,4 +3123,146 @@ date: 2025-08-03, from: Pointers gone wild blog
 <br> 
 
 <https://pointersgonewild.com/2025-08-03-creating-a-toy-language-with-actor-based-parallelism/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-08-02, from: Tomosino's Mastodon feed)
+
+<p>A new hero rises? </p><p><a href="https://www.nytimes.com/2025/08/01/science/radioactive-wasps-nuclear-savannah-river.html" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">nytimes.com/2025/08/01/science</span><span class="invisible">/radioactive-wasps-nuclear-savannah-river.html</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114961187177661937>
+
+---
+
+## Re-label the "Save" button to be "Publish", to better indicate to users the outcomes of their action
+
+date: 2025-08-02, updated: 2025-08-02, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://phabricator.wikimedia.org/T131132">Re-label the &quot;Save&quot; button to be &quot;Publish&quot;, to better indicate to users the outcomes of their action</a></strong></p>
+Fascinating Wikipedia usability improvement issue from 2016:</p>
+<blockquote>
+<p>From feedback we get repeatedly as a development team from interviews, user testing and other solicited and unsolicited avenues, and by inspection from the number of edits by newbies not quite aware of the impact of their edits in terms of immediate broadcast and irrevocability, that new users don't necessarily understand what "Save" on the edit page means. [...]</p>
+<p>Even though "user-generated content" sites are a lot more common today than they were when Wikipedia was founded, it is still unusual for most people that their actions will result in immediate, and effectively irrevocable, publication.</p>
+</blockquote>
+<p>A great illustration of the usability impact of micro-copy, even more important when operating at Wikipedia scale.
+
+    <p><small></small>Via <a href="https://x.com/tilmanbayer/status/1951730503671050245">@tilmanbayer</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/design">design</a>, <a href="https://simonwillison.net/tags/usability">usability</a>, <a href="https://simonwillison.net/tags/wikipedia">wikipedia</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/2/wikipedia-save-button/#atom-everything>
+
+---
+
+## Scientists Detect Unprecedented Energy ‘Tidal Wave’ from the Sun
+
+date: 2025-08-02, from: 404 Media Group
+
+The afterlife of Puerto Rico’s Arecibo telescope continues with the detection of a powerful “tidal wave” from the Sun.  
+
+<br> 
+
+<https://www.404media.co/scientists-detect-unprecedented-energy-tidal-wave-from-the-sun/>
+
+---
+
+## 
+                The X11 SECURITY extension from the 1990ies
+            
+
+date: 2025-08-02, updated: 2025-08-02, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html>
+
+---
+
+## Your Computer Interviewed Chris Curry (1981)
+
+date: 2025-08-02, from: Computer ads from the Past
+
+Chris talks about his work with Clive Sinclair and Acorn Computers with a little BBC Micro. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry>
+
+---
+
+## Vibe Code is Legacy Code
+
+date: 2025-08-02, from: Maggie Appleton blog
+
+Vibe code is legacy code by Steve Krouse 
+
+<br> 
+
+<https://maggieappleton.com/2025-08-vibe-legacy-code/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-08-02, from: Tomosino's Mastodon feed)
+
+<p><span class="h-card" translate="no"><a href="https://sfba.social/@somafm" class="u-url mention" rel="nofollow noopener" target="_blank">@<span>somafm</span></a></span> is the best</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114958834452977276>
+
+---
+
+## Talking with Martin Wolf
+
+date: 2025-08-02, from: Paul Krugman
+
+Covering for a technical glitch 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/talking-with-martin-wolf-1a3>
+
+---
+
+## Anbernic RG477M handheld game console has a 4.7 inch, 120 Hz display with a 4:3 aspect ratio
+
+date: 2025-08-02, from: Liliputing
+
+<p>The Anbernic RG477M is a handheld game console with a MediaTek Dimensity 8300 processor, support for up to 12GB of LPDDR5 memory and 256GB of UFS storage, and an Android 14-based operating system. What really helps it stand out from an increasingly crowded field though, it the display: it has a 4.7 inch, 1280 x 960 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/anbernic-rg477m-handheld-game-console-has-a-4-7-inch-120-hz-display-with-a-43-aspect-ratio/">Anbernic RG477M handheld game console has a 4.7 inch, 120 Hz display with a 4:3 aspect ratio</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/anbernic-rg477m-handheld-game-console-has-a-4-7-inch-120-hz-display-with-a-43-aspect-ratio/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-02, from: Robert's feed at BlueSky)
+
+Made me smile 😁
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lvfciuiog22u>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-08-02, from: Feed for Alt USDS)
+
+🛠  We the Builders need some rest.
+Read more: bit.ly/45hINsI 
+
+<br> 
+
+<https://bsky.app/profile/altusds.altgov.info/post/3lvevns3fd22h>
 

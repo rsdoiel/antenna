@@ -1,11 +1,115 @@
 ---
 title: north america
-updated: 2025-08-08 14:08:09
+updated: 2025-08-09 06:08:24
 ---
 
 # north america
 
-(date: 2025-08-08 14:08:09)
+(date: 2025-08-09 06:08:24)
+
+---
+
+## Evening Roundup, August 8
+
+date: 2025-08-08, from: The Contrarian
+
+Featuring The Democracy Movement, Carron J. Phillips, Colin Allred, Richard Hasen, Michael Franklin, Jamie Schler, Ruben Bolling, The Contrarian podcast, "Don't Mess with TX," and our Pet of the Week 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-8>
+
+---
+
+## The power grab in Texas with Rep. Chris Turner, Ari Berman, & Mimi Marziani
+
+date: 2025-08-08, from: The Contrarian
+
+Listen now (43 mins) | "They're trying to insulate themselves from voters." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170486681/f60c52a3897294cdc07f9d9e99d3e6bd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170486681/f60c52a3897294cdc07f9d9e99d3e6bd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-power-grab-in-texas-with-rep>
+
+---
+
+## Don't mess with Texas
+
+date: 2025-08-08, from: The Contrarian
+
+As Texas Republicans attempt to gerrymander the state&#8217;s districts and disenfranchise thousands of Black and Latino voters at the prompting of their cult-leader-in-chief ahead of the 2026 midterm election, state Democrats are standing up and standing tall in opposition. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170488303/326468a9e91165b5ff20a35ac0d8585e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170488303/326468a9e91165b5ff20a35ac0d8585e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/dont-mess-with-texas>
+
+---
+
+##  Private Equity Targets The “Dumbest” Investors In the Room 
+
+date: 2025-08-08, from: The Lever News
+
+ David Sirota’s full interview with former federal regulator Ted Siedle on Trump&#39;s order allowing 401(k) plans to invest in alternative assets.  
+
+<br> 
+
+<https://www.levernews.com/private-equity-targets-the-dumbest-investors-in-the-room/>
+
+---
+
+## Texas redistricting attempt is racist disenfranchisement: Colin Allred on Republicans' blatant power grab
+
+date: 2025-08-08, from: The Contrarian
+
+"Since when do Texans take orders from D.C.?" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170470338/127228193a082f2b16c9eac6b2c5303b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170470338/127228193a082f2b16c9eac6b2c5303b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/texas-redistricting-attempt-is-racist>
+
+---
+
+##  Meet The New Swamp King 
+
+date: 2025-08-08, from: The Lever News
+
+ Flush with Trump connections, Ballard Partners is D.C.’s new lobbying powerhouse — and its clients are reaping the benefits.  
+
+<br> 
+
+<https://www.levernews.com/meet-the-new-swamp-king/>
+
+---
+
+## When the Flames Came for an Altadena Church
+
+date: 2025-08-08, from: Capital and Main
+
+<p>A husband-and-wife ministry’s efforts to rebuild after a devastating wildfire reveal the fragile future of the area’s historically Black community.</p>
+<p>The post <a href="https://capitalandmain.com/when-the-flames-came-for-an-altadena-church">When the Flames Came for an Altadena Church</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/when-the-flames-came-for-an-altadena-church>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-08-08, from: The Contrarian
+
+Meet Otto! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-368>
 
 ---
 
@@ -825,4 +929,28 @@ date: 2025-08-03, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-about-that-pre-bribe/>
+
+---
+
+## Why Bove’s Bitter at You, Contrarians
+
+date: 2025-08-02, from: The Contrarian
+
+Publisher's Roundup 29 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-boves-bitter-at-you-contrarians>
+
+---
+
+##  YOU LOVE TO SEE IT: Dialing Up Prison Reform 
+
+date: 2025-08-02, from: The Lever News
+
+ Prison calls get reformed, school’s back on, the Big Apple is electrified, and a humanitarian program is spared.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-dialing-up-prison-reform/>
 

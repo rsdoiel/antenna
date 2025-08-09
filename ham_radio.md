@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-08-08 14:08:11
+updated: 2025-08-09 06:08:26
 ---
 
 # ham radio
 
-(date: 2025-08-08 14:08:11)
+(date: 2025-08-09 06:08:26)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-08-08, from: Amateur Radio Relay League News
+
+<p><span>Solar activity was at low levels on 28 July to 02 August and moderate levels on 03 August.<span>  </span>The largest flare of the period was an M2.9/2b event observed from Region 4168 on 03 August.<span>  </span>The region also produced numerous C-class events.<span>  </span>Numerous C-class activity was observed from Regions 4153, 4155, and 4167.<span>  </span>No Earth-directed CME activity was observed. </span></p><p><span>No proton events were observed at geosyn...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-25>
 
 ---
 

@@ -1,11 +1,49 @@
 ---
 title: socal north
-updated: 2025-08-08 14:08:10
+updated: 2025-08-09 06:08:25
 ---
 
 # socal north
 
-(date: 2025-08-08 14:08:10)
+(date: 2025-08-09 06:08:25)
+
+---
+
+## La Puerta Recognized as a Point of Historical Interest by the State of California
+
+date: 2025-08-08, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is proud to announce that La Puerta, a historically significant natural passage in Elsmere Canyon, has been officially named as a Point of Historical Interest by the State of California. &#160; La Puerta, meaning “The Door” in Spanish, lies nearby to State Highway 14 in the Newhall area, between the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/08/la-puerta-recognized-as-a-point-of-historical-interest-by-the-state-of-california/">La Puerta Recognized as a Point of Historical Interest by the State of California</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/08/la-puerta-recognized-as-a-point-of-historical-interest-by-the-state-of-california/>
+
+---
+
+## White House seeks $1 billion from UCLA for alleged antisemitism
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+UC officials say a payment of this scale would “completely devastate” the university system. 
+
+<br> 
+
+<https://laist.com/news/education/white-house-seeks-1-billion-from-ucla-for-alleged-antisemitism>
+
+---
+
+## California inmates can take college classes, but often with no internet and limited tech
+
+date: 2025-08-08, updated: 2025-08-08, from: The LAist
+
+Even in California, where prison access to technology and research resources is better than average, students regularly face dead ends. 
+
+<br> 
+
+<https://laist.com/news/education/california-inmates-can-take-college-classes-but-often-with-no-internet-and-limited-tech>
 
 ---
 
@@ -37,7 +75,7 @@ Lovell commanded the mission that almost ended in disaster after an explosion th
 
 date: 2025-08-08, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The suspected shooter stood to “inherit everything” from his uncle, who was found slain in his home, according to court documents.</p>
 <p>The post <a href="https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit">Search warrant reveals new details of Long Beach killing originally thought to be suicide</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -96,7 +134,7 @@ The second Trump administration has removed more climate and environmental data 
 
 ---
 
-## Law firm bills $1.8M to represent LA in a high-profile homelessness lawsuit, double the amount initially approved
+## Law firm bills $1.8M to represent LA in a high-profile homelessness lawsuit, double what city council approved
 
 date: 2025-08-08, updated: 2025-08-08, from: The LAist
 
@@ -148,7 +186,7 @@ The federal government on Thursday filed an emergency appeal with the U.S. Supre
 
 date: 2025-08-08, from: Longbeach Post
 
-<figure><img width="1024" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-300x149.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-768x382.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-192x96.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-400x199.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="509" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-1024x509.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-300x149.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-768x382.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-192x96.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp-400x199.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/08090829/07jun25-ice-7131-465504-9s1cs4qh-554358-Q4Osj3fp.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The federal government on Thursday filed an emergency appeal with the U.S. Supreme Court seeking to lift a temporary ban on “roving” immigration sweeps.</p>
 <p>The post <a href="https://lbpost.com/news/immigration/supreme-court-immigration-raids-lawsuit-aclu">Trump administration asks Supreme Court to lift temporary ban on roving immigration stops in L.A.</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -1345,4 +1383,156 @@ We talked with one of the people behind making the sound of the classic film sin
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/sunset-boulevard-film-restoration-screenings-75th-birthday>
+
+---
+
+## Join Us for the 30th Annual River Rally Cleanup
+
+date: 2025-08-02, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin “Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.” – Dr. Seuss The heartbeat of a healthy community lies not just in its people but in how it cares for the natural spaces that surround it. Here in Santa Clarita, we are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/02/join-us-for-the-30th-annual-river-rally-cleanup/">Join Us for the 30th Annual River Rally Cleanup</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/02/join-us-for-the-30th-annual-river-rally-cleanup/>
+
+---
+
+## Tea app encouraged its users to spill about their online matches. Then the data got leaked
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+A popular women's dating advice app suffered a major data breach, revealing users' drivers' licenses, messages and other sensitive information. The hack put a spotlight on the flaws in "whisper networks." 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/tea-encouraged-its-users-to-spill-then-the-apps-data-got-leaked>
+
+---
+
+## A jury orders Tesla to pay more than $240 million in Autopilot crash
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+A Miami jury decided Tesla was partly responsible for a deadly 2019 crash in Florida involving its Autopilot driver assist technology. The automaker said it will appeal. 
+
+<br> 
+
+<https://laist.com/news/transportation/a-jury-orders-tesla-to-pay-more-than-240-million-in-autopilot-crash>
+
+---
+
+## Music festival coming to Inglewood this weekend. Everywhere around is bracing for noise
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+HARD Summer music festival is happening, again, this weekend in Inglewood. Last year, the two-day event spurred hundreds of noise complaints. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/edm-festival-coming-this-weekend-in-inglewood-this-weekend-communities-all-over-are-bracing-for-noise>
+
+---
+
+## Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says
+
+date: 2025-08-02, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Speed, distracted driving, and impaired driving do not appear to have contributed to this collision," police said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says">Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says>
+
+---
+
+## Trump's impeachments have been removed from a Smithsonian exhibit, for now
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+The Smithsonian says a reference to President Trump's impeachments that was removed last month will be restored once the exhibit is updated. 
+
+<br> 
+
+<https://laist.com/news/trumps-impeachments-have-been-removed-from-a-smithsonian-exhibit-for-now>
+
+---
+
+## Trump calls for firing of senior Labor official after job market weakens in July
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+Trump called for the firing of the Labor statistics official after data earlier showed employers added just 73,000 jobs in July, while job gains for the previous two months were largely erased. 
+
+<br> 
+
+<https://laist.com/news/trump-calls-for-firing-of-senior-labor-official-after-job-market-weakens-in-july>
+
+---
+
+## Art of the praise: Why flattering Trump is now the go-to diplomatic move
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+World leaders have lavished praise on President Trump in order to smooth diplomatic relations — and get better deals too. 
+
+<br> 
+
+<https://laist.com/news/politics/art-of-the-praise-why-flattering-trump-is-now-the-go-to-diplomatic-move>
+
+---
+
+## Appeals court keeps block on indiscriminate immigration sweeps in Southern California
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+A federal appeals court ruled Friday to uphold a lower court's temporary block, citing "mountain of evidence" that tactics violate Constitution. 
+
+<br> 
+
+<https://laist.com/news/appeals-court-keeps-order-blocking-indiscriminate-immigration-sweeps>
+
+---
+
+## This Hollywood composer is bringing people on the autism spectrum together through bluegrass
+
+date: 2025-08-02, updated: 2025-08-04, from: The LAist
+
+Spectrum Bluegrass is a new group dedicated to connecting neurodiverse people through guitars, banjos and mandolins. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/this-hollywood-composer-is-bringing-people-on-the-autism-spectrum-together-through-bluegrass>
+
+---
+
+## The biggest K-Pop celebration in the country is back in LA
+
+date: 2025-08-02, updated: 2025-08-02, from: The LAist
+
+It's all about the fandom at KCON LA. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-biggest-k-pop-bash-in-the-country-is-back-in-la>
+
+---
+
+## Long Beach man charged with sending money to terrorist group
+
+date: 2025-08-02, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Authorities say they arrested him Friday and found what appeared to be a bomb in his bedroom.</p>
+<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group">Long Beach man charged with sending money to terrorist group</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group>
 

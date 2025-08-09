@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-08-08 14:08:19
+updated: 2025-08-09 06:08:34
 ---
 
 # going electric
 
-(date: 2025-08-08 14:08:19)
+(date: 2025-08-09 06:08:34)
+
+---
+
+## E-quipment highlight: Liebherr R 920 G8-E electric crawler excavator
+
+date: 2025-08-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/liebherr-r-920-g8-e-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global mining and construction equipment giant Liebherr recently rolled out its first-ever battery electric crawler excavator, setting a new standard in heavy earth-moving equipment capabilities with low noise levels and zero local emissions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery,liebherr" data-layer-viewtype="unknown" data-post-id="429022" href="https://electrek.co/2025/08/08/e-quipment-highlight-liebherr-r-920-g8-e-electric-crawler-excavator/#more-429022" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/08/e-quipment-highlight-liebherr-r-920-g8-e-electric-crawler-excavator/>
 
 ---
 
@@ -1768,4 +1784,36 @@ date: 2025-08-03, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/08/02/evgo-set-to-borrow-up-to-a-300-million-to-build-1500-new-dc-fast-chargers/>
+
+---
+
+## The Tesla Diner has been open for 12 days and it’s going kinda rough so far
+
+date: 2025-08-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/tesla-diner-nazi-salute-inflatable.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla opened its retro-futuristic “<a href="https://electrek.co/guides/tesla-diner/">Tesla Diner</a>” last Monday, July 21st. It’s a <a href="https://electrek.co/2025/07/15/retro-futuristic-diner-supercharger-is-here-looks-sick/">cool concept</a> and the realization of a plan that was <a href="https://electrek.co/2018/01/07/elon-musk-tesla-retro-drive-in-restaurant-supercharger/">first talked about in 2018</a>… but in the 12 days since it opened, it hasn’t been all roses so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-diner" data-layer-viewtype="unknown" data-post-id="427828" href="https://electrek.co/2025/08/02/the-tesla-diner-has-been-open-for-12-days-and-its-going-kinda-rough-so-far/#more-427828" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/02/the-tesla-diner-has-been-open-for-12-days-and-its-going-kinda-rough-so-far/>
+
+---
+
+## This 50% recycled glass solar panel performs like brand new
+
+date: 2025-08-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/SolarCycle-ASU.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Solar panel recycler SOLARCYCLE and Arizona State University just proved that solar panels made with recycled glass work just as well as new ones.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arizona,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="427864" href="https://electrek.co/2025/08/01/50-percent-recycled-glass-solar-panel-performs-like-brand-new/#more-427864" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/01/50-percent-recycled-glass-solar-panel-performs-like-brand-new/>
 

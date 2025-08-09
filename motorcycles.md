@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-08-08 14:08:18
+updated: 2025-08-09 06:08:32
 ---
 
 # motorcycles
 
-(date: 2025-08-08 14:08:18)
+(date: 2025-08-09 06:08:32)
+
+---
+
+## U.S. Marine Josh White Welcomes Primary Sponsor for Bristol ARCA Race
+
+date: 2025-08-08, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer U.S. Marine Josh White is now fully funded for his ARCA Menard&#8217;s Series return September 11 at Bristol Motor Speedway. On Friday, White announced that&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/u-s-marine-josh-white-welcomes-primary-sponsor-for-bristol-arca-race/>
 
 ---
 
@@ -498,4 +510,40 @@ Photos by Jerry Jordan, Editor
 <br> 
 
 <https://kickinthetires.net/nascar/gallery-nascar-cup-series-at-iowa-speedway/>
+
+---
+
+## GALLERY: NASCAR’s Xfinity Series Wows At Iowa Speedway
+
+date: 2025-08-02, from: Kickin the Tires blog
+
+Photos by Jerry Jordan, Editor 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascars-xfinity-series-wows-at-iowa-speedway/>
+
+---
+
+## Brenden ‘Butterbean’ Queen wins Atlas 150 at Iowa
+
+date: 2025-08-02, from: Kickin the Tires blog
+
+NEWTON, Iowa (Aug. 1, 2025) – For one night, at least, Brenden Queen turned Iowa’s corn country into the new home of Bean Nation. In front of a tremendous crowd&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/brenden-butterbean-queen-wins-atlas-150-at-iowa/>
+
+---
+
+## MotoGP Star Involved in Horrible High-Side Crash, Still Finishes Third
+
+date: 2025-08-02, from: Ride Apart, Electric Motorcycle News
+
+MotoGP rider, Jack Miller, was participating in the second qualifying session of the Suzuka 8 Hours race for Yamaha Racing Team when he suffered a horrible high-side. 
+
+<br> 
+
+<https://www.rideapart.com/news/767786/jack-miller-motogp-crash-suzuka-8-hours-highside/>
 

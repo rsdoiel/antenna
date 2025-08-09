@@ -1,11 +1,36 @@
 ---
 title: journalism
-updated: 2025-08-08 14:08:15
+updated: 2025-08-09 06:08:30
 ---
 
 # journalism
 
-(date: 2025-08-08 14:08:15)
+(date: 2025-08-09 06:08:30)
+
+---
+
+## David Lefkowitz goes back to Bach in Baroque-inspired preludes, fugues collection
+
+date: 2025-08-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA professor David S. Lefkowitz is stretching the bounds of classical composition, taking piano music to new scales.
+What first started as a pandemic project, &#8220;Preludes and Fugues for Piano&#8221; by David S. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/08/david-lefkowitz-goes-back-to-bach-in-baroque-inspired-preludes-fugues-collection/>
+
+---
+
+## Sleep for Health: Dr. Gregory Duhon, MD, on the Science Behind Restorative Rest
+
+date: 2025-08-08, from: The Sundail (CSUN Student Newspaper)
+
+Sleep is often sacrificed in favor of productivity, entertainment, or stress. But science continues to affirm what our bodies already know: sleep is not a luxury—it’s a biological necessity. According... 
+
+<br> 
+
+<https://sundial.csun.edu/195360/sundialbrandstudio/sundial-marketplace/sleep-for-health-dr-gregory-duhon-md-on-the-science-behind-restorative-rest/>
 
 ---
 
@@ -39,7 +64,7 @@ Jeffrey Ying, a resident of Fremont, California, allegedly stole manuscripts fro
 
 date: 2025-08-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Aug. 8 at 1:10 p.m.</em>
+<em>This post was updated Aug. 8 at 3:35 p.m.</em>
 The federal government is seeking $1 billion from UCLA to restore the university’s research funding.&#160;&#160;
 The Trump administration suspended $584 million in grants to UCLA last week from the National Science Foundation, National Institutes of Health and U.S. 
 
@@ -172,8 +197,8 @@ date: 2025-08-06, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-08-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-A California Court of Appeals ruled Tuesday that a UC policy barring undocumented students from holding on-campus jobs is unlawfully discriminatory.
-The lawsuit was originally filed in October 2024 by alumnus Jeffry Umaña Muñoz and lecturer Iliana Perez – who are being represented by attorneys from UCLA Law’s Center for Immigration Law and Policy, among others. 
+<em>This post was updated Aug. 8 at 3:39 p.m.</em>
+A California Court of Appeals ruled Tuesday that a UC policy barring undocumented students from holding on-campus jobs is unlawfully discriminatory. 
 
 <br> 
 
@@ -316,4 +341,62 @@ About 800 research grants have been suspended at UCLA, according to a Friday ema
 <br> 
 
 <https://dailybruin.com/2025/08/02/about-800-nih-nsf-research-grants-suspended-following-ucla-federal-funding-cuts/>
+
+---
+
+## Man charged with assault on pro-Palestine protesters in encampment takes plea deal
+
+date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A counter-protester charged with assaulting protesters at UCLA&#8217;s Palestine solidarity encampment in spring 2024 accepted a plea deal July 7.
+Malachi Marlan-Librett, who graduated from UC Santa Cruz in 2019 and then attended a UCLA film program, was charged with assault with a deadly weapon, battery and a hate crime after he allegedly assaulted, followed and yelled racial epithets at pro-Palestine protesters in the encampment. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/02/man-charged-with-assault-on-pro-palestine-protesters-in-encampment-takes-plea-deal/>
+
+---
+
+## USAC recap – July 15
+
+date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held an emergency meeting on July 15 to vote on approving a letter addressed to University of California President Michael Drake that criticized his ban on student governments boycotting companies associated with Israel. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/02/usac-recap-july-15-2/>
+
+---
+
+## Thrift store 2nd Street holds grand opening for 1st Westwood location
+
+date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+2nd Street, a Japanese thrift store chain focused on diverse and sustainable style, opened a location in Westwood last Friday.
+The chain has over 700 locations in Japan and opened its first United States store on Melrose Avenue in Los Angeles in January 2018. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/thrift-store-2nd-street-holds-grand-opening-for-1st-westwood-location/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Carlyn Irwin, a senior advisor at Cornerstone Research who also provides expert witness referrals, said in a video deposition that Klein’s loss of clients occurred due to a combination of factors, including – but not limited to – him being placed on administrative leave. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/491536/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper))
+
+Jerry Kang, the former vice chancellor for equity, diversity and inclusion, testified that the Discrimination Prevention Office decided not to complete a formal investigation over the email following its preliminary assessment. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/01/491533/>
 

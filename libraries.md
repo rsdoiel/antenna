@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-08 14:08:16
+updated: 2025-08-09 06:08:31
 ---
 
 # libraries
 
-(date: 2025-08-08 14:08:16)
+(date: 2025-08-09 06:08:31)
 
 ---
 
@@ -247,4 +247,28 @@ src="https://www.canva.com/design/DAGsxAyXmXs/rOVOK6z99_UlaclRJHPekw/watch?embed
 <br> 
 
 <https://www.crossref.org/blog/from-storage-closet-to-metadata-champions-asms-journey-toward-a-smarter-scholarly-infrastructure/>
+
+---
+
+## Books to Help You to Meet the Moment
+
+date: 2025-08-02, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design1.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>If you&#8217;re feeling overwhelmed by current events, you&#8217;re not alone. By taking time to read and research, we can find the ability to ground ourselves,&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/08/02/books-to-help-you-to-meet-the-moment/>
+
+---
+
+## Dataset: Rotating Monoclinic Solid and Annular Nano-Disks
+
+date: 2025-08-02, from: ETH Zurich, recently added
+
+Kröger, Martin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/749298>
 

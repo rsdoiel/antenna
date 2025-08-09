@@ -1,11 +1,36 @@
 ---
 title: columns
-updated: 2025-08-08 14:08:14
+updated: 2025-08-09 06:08:28
 ---
 
 # columns
 
-(date: 2025-08-08 14:08:14)
+(date: 2025-08-09 06:08:28)
+
+---
+
+## Friday Squid Blogging: New Vulnerability in Squid HTTP Proxy Server
+
+date: 2025-08-08, updated: 2025-08-08, from: Bruce Schneier blog
+
+<p>In a rare squid/security combined post, a <a href="https://cyberpress.org/critical-squid-proxy-vulnerability/">new vulnerability</a> was discovered in the Squid HTTP proxy server.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-new-vulnerability-in-squid-http-proxy-server.html>
+
+---
+
+##  &#8220;James Lovell, the commander of Apollo 13 who helped turn a failed... 
+
+date: 2025-08-08, updated: 2025-08-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047302-james-lovell-the-commande>
 
 ---
 
@@ -1988,4 +2013,246 @@ Friends,
 <br> 
 
 <https://robertreich.substack.com/p/this-weeks-joseph-welch-award>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2018/08/21/bloatwareBoss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think I'm going to put in my will that ChatGPT should run the Dave Winer persona on all social networks, and my blog, as long as the money lasts. It would tell stories that I would likely tell, take political stands that I would take, draw meta-pictures of my sad and depressed <a href="http://scripting.com/2025/05/09/202442.html">programmer friend</a> and a cute and <a href="https://daytona.scripting.com/search?q=%22wordle%20kitty%22">adorable kitty</a> getting into all kinds of trouble. The seasons would come and go, and there would be Dave, still diggin. And of course he would continue to develop software, using some of the greatest tried and true tools, reminding everyone of how great <a href="http://frontier.userland.com">Frontier</a> is -- but -- if only it ran <a href="https://daytona.scripting.com/search?q=%22frontier%20on%20linux%22">on Linux</a>. The long-lived fearless and fully paid-up version of Uncle D. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a213445>
+
+---
+
+## ★ The Substack Branding and Faux Prestige Trap
+
+date: 2025-08-02, updated: 2025-08-03, from: Daring Fireball
+
+Only with Substack does anyone perceive creator branding as being subservient to the platform — something that ought to be seen merely as an interchangeable CMS. 
+
+<br> 
+
+<https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap>
+
+---
+
+## 2025-08-02 Üetliberg
+
+date: 2025-08-02, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-02-üetliberg">2025-08-02 Üetliberg</h1>
+
+<p>Today the weather was cloudy and the rain was drizzling for hours.
+We went for a walk up the Üetliberg.
+We picked a safe trail with official signage.</p>
+
+<p>This small mountain is our local mountain here in Zürich and there’s a train that goes almost all the way to the top.
+These days it doesn’t run because there are maintenance works taking apart the tracks.
+We thought it’d be calm up there.
+We were wrong.
+There are buses running. There was a wedding at the posh hotel and restaurant at the top.</p>
+
+<p>When going for a walk on the Üetliberg in Zürich, do take a look from the top (Uto Kulm) and look over the lake towards the Alps.
+But today we learned: If you want to eat something, don&rsquo;t eat at the posh place up there, walk 20 min and stop at <a href="https://jurablick.com/">Jurablick</a>, looking north towards the Jura mountains.
+We ate a shepherd’s pie, a caponata, some chestnut cake and some poppy seed cake.
+Tasty!
+And everybody was super nice.</p>
+
+<p><img loading="lazy" src="2025-08-02-uetliberg-12.jpg" alt="Echte Tollkirsche. Atropa belladonna." /></p>
+
+<p>Too bad the Einbeere (Paris quadrifolia) was out of focus.
+The fruit looks uncanningly similar, but it grows on a single stalk atop four leaves at right angles to each other.</p>
+
+<p><img loading="lazy" src="2025-08-02-uetliberg-13.jpg" alt="Stechender Hohlzahn (Artengruppe). Galeopsis tetrahit agg." />
+<img loading="lazy" src="2025-08-02-uetliberg-1.jpg" alt="Claudia and I, slightly wet, on the way up." />
+<img loading="lazy" src="2025-08-02-uetliberg-2.jpg" alt="A broad forest road in the forest with dramatic clouds above." />
+<img loading="lazy" src="2025-08-02-uetliberg-3.jpg" alt="Looking out over the city lying below the grey clouds." />
+<img loading="lazy" src="2025-08-02-uetliberg-4.jpg" alt="Grosse Klette. Arctium lappa." />
+<img loading="lazy" src="2025-08-02-uetliberg-5.jpg" alt="Gewöhnlicher Wasserdost. Eupatorium cannabinum." />
+<img loading="lazy" src="2025-08-02-uetliberg-6.jpg" alt="Another viewpoint showingn the northern end of the lake reaching into Zürich." />
+<img loading="lazy" src="2025-08-02-uetliberg-7.jpg" alt="Looking along the Albis, the ridge going south. On the left, the long banana-shaped lake of Zürich points south." /></p>
+
+<p>The Alps remained hidden by the clouds.</p>
+
+<p><img loading="lazy" src="2025-08-02-uetliberg-8.jpg" alt="The weather cleared up and we could see the Reppisch valley, and off to the right, the Knonaueramt." />
+<img loading="lazy" src="2025-08-02-uetliberg-9.jpg" alt="Wald Engelwurz. Angelica sylvestris." />
+<img loading="lazy" src="2025-08-02-uetliberg-10.jpg" alt="Behaarte Karde. Dipsacus pilosus." />
+<img loading="lazy" src="2025-08-02-uetliberg-11.jpg" alt="Jakobs-Greiskraut. Jacobaea vulgaris." /></p>
+
+<p>Plant identification via the app Flora Incognita.</p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-02-uetliberg>
+
+---
+
+**@John's World Wide Wall Display** (date: 2025-08-02, from: John's World Wide Wall Display)
+
+@manton is offering free blog hosting for teachers &#38; nurses on micro.blog. Micro blog is fully featured, should be especially interesting to teachers who want to own the content they share on social media. Micro.blogs cross posting is peerless. Of course for Scot&#8217;s teachers I&#8217;d recommend Glow. 
+
+<br> 
+
+<https://johnjohnston.info/blog/free-micro-blogging-for-teacher-nurses/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+A <a href="https://www.youtube.com/watch?v=Ikjmz_SlGhg">change</a> would do us good too. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a164129>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+I got <a href="https://en.wikipedia.org/wiki/Hoist_with_his_own_petard">hoisted</a> with my own Picard. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a164023>
+
+---
+
+## Ana Marie Cox on the Shaky Foundation of Substack as a Business
+
+date: 2025-08-02, updated: 2025-08-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
+
+I have a lot of <a href="https://github.com/scripting?tab=repositories">code</a> written before ChatGPT. Sometimes, as I read my old code, I wonder how the h*ck I ever figured that out without it. 
+
+<br> 
+
+<http://scripting.com/2025/08/02.html#a144740>
+
+---
+
+## A fiscal recalibration
+
+date: 2025-08-02, from: Dave Rupert blog
+
+<p>After all our summer trips I buckled down last weekend and did some budgetting and I’ve realized I have to update the spreadsheet in my head. Here’s how much things cost in my outdated DaveBrain 2000 operating system:</p>
+<ul>
+<li>Fast food -$5/person = $20/family</li>
+<li>Snacks - $2.50/person = $10/family</li>
+</ul>
+<p>That –as my bank account is telling me– is super incorrect. The real numbers are much more like:</p>
+<ul>
+<li>Fast food - $12.50~$15/person = $50~$60/family</li>
+<li>Snacks  - $5~$7.50/person = $20~$30/family</li>
+</ul>
+<p>And groceries have gone up too. Woof. Hard times in the concrete jungle.</p>
+<p>We’re updating the database and cutting back on these obvious financial vampires. And we know when/why we tend to rely on them to get us through the week. So that’s good. But when you have kids –snack-reliant kids at that– introducing austerity measures like this is hard, because being a penny-pinching dick about money all the time probably isn’t good for them either.</p>
+<p>Don’t worry about me though. I’m lucky to have a great job and two kidneys, I’m sure I can sell one of them for a decent amount.</p>
+<p>Namaste.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/08/back-in-my-day-a-movie-cost-five-cents/>
+
+---
+
+## Substack Sends Notification Promoting Nazi Blog
+
+date: 2025-08-02, updated: 2025-08-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/07/substacks-nazi-problem-wont-go-away-after-push-notification-apology/>
+
+---
+
+## Getting Real With AI.
+
+date: 2025-08-02, from: Doc Searls (at Harvard), New Old Blog
+
+When I read that some conversations with ChatGPT had appeared in Google searches, I did a search for &#8220;Doc Searls&#8221; ChatGPT and got a long and not-bad but not entirely accurate AI summary below which normal-ish search results appeared. When I went back later to do the same search, the results were different. I tried [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/08/02/getting-real-with-ai/>
+
+---
+
+## 
+                The X11 SECURITY extension from the 1990ies
+            
+
+date: 2025-08-02, updated: 2025-08-02, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html>
+
+---
+
+## The Trumping of America | The Coffee Klatch for August 2, 2025
+
+date: 2025-08-02, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169892331/d0f3be28aaddc2a2e12d2a19144ad360.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169892331/d0f3be28aaddc2a2e12d2a19144ad360.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-trumping-of-america-the-coffee>
+
+---
+
+## August 1, 2025
+
+date: 2025-08-02, from: Heather Cox Richardson blog
+
+Economists have been expressing concern about the accuracy of economic statistics coming out of the Trump administration for months. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-1-2025>
+
+---
+
+## Weeknotes: July 26-Aug 1, 2025
+
+date: 2025-08-02, from: Tracy Durnell Blog
+
+Win of the week: my Fitbit yelled at me to exercise more over the weekend so I took a two hour nap instead 😎 Looking forward to: planning to bake Smitten Kitchen&#8217;s strawberry cream biscuits this weekend 😋 Stuff I did: 1.5 hours consulting 1 hour business development and admin 6.25 hours writing made overnight sourdough [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/01/weeknotes-july-26-aug-1-2025/>
+
+---
+
+## July 31, 2025
+
+date: 2025-08-02, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169901893/48d20b1312484d04b35658e892bb0ac2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/169901893/48d20b1312484d04b35658e892bb0ac2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/july-31-2025-195>
 
