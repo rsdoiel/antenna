@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-08-09 06:08:34
+updated: 2025-08-09 14:09:12
 ---
 
 # going electric
 
-(date: 2025-08-09 06:08:34)
+(date: 2025-08-09 14:09:12)
 
 ---
 
@@ -62,6 +62,10 @@ date: 2025-08-08, from: Electrek Feed
 date: 2025-08-08, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Elon Musk getting a sweet $26 billion payday from Tesla while the company gets flooded with lawsuits and Dojo is dead.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Electrek_397.mp3"></audio></figure>
 
 
 

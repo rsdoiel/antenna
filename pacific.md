@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-08-09 06:08:26
+updated: 2025-08-09 14:09:04
 ---
 
 # pacific
 
-(date: 2025-08-09 06:08:26)
+(date: 2025-08-09 14:09:04)
 
 ---
 
@@ -81,6 +81,54 @@ The post <a href="https://www.hawaii.edu/news/2025/08/08/seals-ocean-currents/">
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/08/seals-ocean-currents/>
+
+---
+
+## How to keep your jewelry safe when you're traveling
+
+date: 2025-08-08, updated: 2025-08-08, from: Marianas Variety
+
+(BPT) - Love to travel, but worry about bringing special pieces of jewelry? You're not alone. According to a Jewelers Mutual® 2025 travel study,* nearly 80% of surveyed travelers who wear jewelry while traveling choose dedicated travel pieces (or duplicates) — items selected to reduce the chance of losing expensive or sentimental items. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/how-to-keep-your-jewelry-safe-when-youre-traveling/article_ef412b09-fee3-5445-ade3-eeaa723760b6.html>
+
+---
+
+## Millennials will spend nearly $400 on back-to-school, according to new research
+
+date: 2025-08-08, updated: 2025-08-08, from: Marianas Variety
+
+(BPT) - With pencils sharpened and backpacks zipped, American families head back to school facing rising prices. New Empower research finds that 50% of Americans say back-to-school shopping is more expensive this year due to inflation and 31% report feeling stressed about these expenses. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/money_and_finance/millennials-will-spend-nearly-400-on-back-to-school-according-to-new-research/article_4525a700-fc3f-5107-a82d-b23761b06ac0.html>
+
+---
+
+## Taking a look back at a legacy of innovation
+
+date: 2025-08-08, updated: 2025-08-08, from: Marianas Variety
+
+(BPT) - Do you love technology? Do you enjoy diving into the past of companies that broke technological barriers to create cutting-edge inventions that are now part of everyday life? 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/taking-a-look-back-at-a-legacy-of-innovation/article_24a6121a-997d-5ce9-a7a4-c667c1d8bcf6.html>
+
+---
+
+## 3 ways to start a conversation with your teen about mental health and drug use
+
+date: 2025-08-08, updated: 2025-08-08, from: Marianas Variety
+
+(BPT) - Talking to your teen about mental health and drug use can feel challenging — one wrong move and the conversation ends as soon as it begins. But it is possible, and taking that leap can make all the difference in your teen's life. As a parent or caregiver, it's important to understand the connection between your teen's mental health and potential for substance use. Staying connected can reduce their risk for drug use. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/3-ways-to-start-a-conversation-with-your-teen-about-mental-health-and-drug-use/article_56624849-c1e0-52c2-8bd2-0e584de49cab.html>
 
 ---
 

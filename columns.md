@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2025-08-09 06:08:28
+updated: 2025-08-09 14:09:07
 ---
 
 # columns
 
-(date: 2025-08-09 06:08:28)
+(date: 2025-08-09 14:09:07)
 
 ---
 
@@ -119,7 +119,7 @@ date: 2025-08-08, from: Dave Winer's Scripting News
 <p>It's one of the reasons I went there as a research fellow in 2003. </p>
 <p>I wasn't satisfied with the web, the density of minds wasn't up to my expectations, so I thought if I brought the web to the minds, that might work better. I wanted to work on communication systems for people trying to work together to solve big problems. </p>
 <p>I chose Harvard over MIT, because the web was already strong at MIT, and they weren't friendly to my cause, they were busy trying to reinvent the web when it imho didn't need that. I hoped instead, Harvard, more a school of the liberal arts, would be more open to innovation in communication between people as opposed to between machines. I felt, in 2003, that was a solved problem on the web.</p>
-<p>It didn't happen there either, some great stuff did come out of that period, and some of it was lasting, but eventually the university wasn't on board with the web as a community for intellect. Instead what came out of Harvard in that period was Facebook, which is a great accomplishment. I am a FB user to this day and appreciate how well it works at keeping friends from long ago in contact. </p>
+<p>It didn't happen there either, some <a href="http://scripting.com/2021/01/21/141332.html?title=twentyYearsAgoInPodcasting">great</a> <a href="http://scripting.com/2015/09/30/aPodcastAboutPodcasting.html">stuff</a> did come out of that period, and some of it was lasting, but eventually the university wasn't on board with the web as a community for intellect. Instead what came out of Harvard in that period was Facebook, which is a great accomplishment. I am a FB user to this day and appreciate how well it works at keeping friends from long ago in contact. </p>
 <p>I still want an intellectual community on the web. That's why I'm putting so much effort into rebuilding it as a writing environment. All this because the writing products of Silicon Valley are always will be silos. As heroic as Ghost has been in supporting ActivityPub that is not the web. The barriers are too high and the features too limited. The web is the web, it's well defined and well understood. And that's where we have to go, and I want the minds to be there or else it wasn't worth the effort.</p>
  
 
@@ -267,39 +267,6 @@ date: 2025-08-07, updated: 2025-08-07, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/08/0047258-why-wildlife-crossings-an>
-
----
-
-## 2025-08-07 Oddμ hashtags
-
-date: 2025-08-07, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-07-oddμ-hashtags">2025-08-07 Oddμ hashtags</h1>
-
-<p>I was recently looking at my homepage and wondered about all the hashtags I used and how not all of them had a topic page. The <a href="Odd%CE%BC">Oddμ</a> page, for example, collects all the blogposts tagged <a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> (including this one). So I looked at the <a href="oddmu/oddmu-hashtags.1">hashtags</a> command and figured, &ldquo;this is going to be easy.&rdquo; 🤣</p>
-
-<p>The first problem is that there are a lot of garbage hashtags. There are over 1000 hashtags used on this site! The garbage hashtags are the result of Markdown parsing mistakes that I never fixed. Apparently the list of hashtags includes the following:</p>
-
-<pre><code>#1)
-#fennel”
-#fudge](fudge)_and_the_[pdq](../wiki?action=edit;id=pdq_&quot;click_to_edit_this_page&quot;)_rules_used_in_[zorcererofzo.
-ffffff;fill-opacity:1&quot;)
-###｣
-</code></pre>
-
-<p>This is not great. 😔</p>
-
-<p>I should fix those, and many more. 🤨</p>
-
-<p>Furthermore, the hashtags are all downcased. So given a hashtag such as <code>#advanced_squad_leader</code> the code would have to infer the page name &ldquo;Advanced Squad Leader&rdquo;. But what about the hashtag <code>#älter werden</code>? If at all, that should link to a page called &ldquo;Älter werden&rdquo;.</p>
-
-<p>And so I concluded that this wasn&rsquo;t easy after all. I saved the changes I made on a branch, and I don&rsquo;t think I&rsquo;ll be merging that into the main branch.</p>
-
-<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-07-oddmu-hashtags>
 
 ---
 

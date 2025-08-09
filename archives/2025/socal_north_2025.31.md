@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-08-09 06:08:25
+updated: 2025-08-09 14:09:03
 ---
 
 # socal north
 
-(date: 2025-08-09 06:08:25)
+(date: 2025-08-09 14:09:03)
 
 ---
 
@@ -317,9 +317,9 @@ The craft brewery, along with Truly LA bar restaurant, will have reduced hours u
 
 ---
 
-## Canyon Fire containment grows as flames threaten power lines and force evacuations
+## All evacuations lifted Canyon Fire, as containment grows
 
-date: 2025-08-07, updated: 2025-08-08, from: The LAist
+date: 2025-08-07, updated: 2025-08-09, from: The LAist
 
 The Canyon Fire along the Ventura and Los Angeles county lines started Thursday afternoon amid a summer heatwave. 
 

@@ -1,19 +1,19 @@
 ---
 title: planet
-updated: 2025-08-09 06:08:22
+updated: 2025-08-09 14:09:00
 ---
 
 # planet
 
-(date: 2025-08-09 06:08:22)
+(date: 2025-08-09 14:09:00)
 
 ---
 
-## Ukrainians will not give land to occupiers, says Zelensky
+## Europe and Ukraine press US ahead of Trump-Putin talks
 
 date: 2025-08-08, from: RTÉ News
 
-Ukrainian President Volodymyr Zelensky has said Ukraine could not violate its constitution on territorial issues, adding that "Ukrainians will not give their land to occupiers". 
+European officials were reported to have presented their own Ukraine peace proposals to the US as US President Donald Trump prepared for talks with Russian President Vladimir Putin on ending the war. 
 
 <br> 
 
@@ -455,7 +455,7 @@ The UN’s top human rights official insisted on Friday that the Israeli Governm
 
 ## Africa’s ‘land-linked’ economies poised to drive continent’s prosperity
 
-date: 2025-08-08, from: United Nations, Top Stories
+date: 2025-08-08, from: United Nations, Economic Development
 
 By leveraging their central location, expanding regional connectivity and embracing transformative technologies, Africa’s landlocked developing countries (LLDCs) are positioning themselves as vital contributors to the continent’s prosperity and sustainable development. 
 
@@ -467,7 +467,7 @@ By leveraging their central location, expanding regional connectivity and embrac
 
 ## Indigenous Peoples Day highlights AI’s risks and opportunities
 
-date: 2025-08-08, from: United Nations, Top Stories
+date: 2025-08-08, from: United Nations, Climate Change
 
 In honour of the International Day of the World’s Indigenous Peoples on 9 August, the UN hosted a virtual commemoration on Friday on the theme AI: Defending Rights, Shaping Futures.&nbsp;&nbsp; 
 
@@ -515,7 +515,7 @@ Millions of people returning to Afghanistan from neighbouring countries are rece
 
 ## Landlocked but not left behind: UN summit in Turkmenistan wraps with bold new roadmap
 
-date: 2025-08-08, from: United Nations, Top Stories
+date: 2025-08-08, from: United Nations, Economic Development
 
 The Third UN Conference on Landlocked Developing Countries wrapped up earlier Friday in Awaza, Turkmenistan, with delegates adopting a landmark political declaration aimed at speeding up sustainable development and boosting resilience in 32 nations that lack direct access to the sea. 
 
@@ -1183,7 +1183,7 @@ Hungry civilians are reportedly eating animal feed as women and girls face a “
 
 ## Extreme heat is breaking records worldwide: UN weather agency
 
-date: 2025-08-07, from: United Nations, Top Stories
+date: 2025-08-07, from: United Nations, Climate Change
 
 Extreme heat is breaking records around the world, with wildfires and poor air quality compounding the crisis, according to a report from the World Meteorological Organization (WMO) released Thursday.&nbsp; 
 
@@ -1207,7 +1207,7 @@ In Africa’s Sahel region, deepening violence and poverty – driven by displac
 
 ## Facing rising risks, landlocked nations launch climate alliance at UN summit
 
-date: 2025-08-07, from: United Nations, Top Stories
+date: 2025-08-07, from: United Nations, Economic Development
 
 Countries agreed Thursday to form a new climate negotiating bloc to advocate for the unique needs of nations without direct access to the sea. The decision was reached at the Third UN Conference on Landlocked Developing Countries (LLDC3), currently under way in Awaza, Turkmenistan. 
 
@@ -1891,7 +1891,7 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
 
@@ -1939,7 +1939,7 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 
 ## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
 
@@ -2879,7 +2879,7 @@ Children in Gaza are dying not just from hunger, but from the total collapse of 
 
 ## The world is demanding action over plastic pollution: UN environment chief
 
-date: 2025-08-05, from: United Nations, Top Stories
+date: 2025-08-05, from: United Nations, Climate Change
 
 High stakes negotiations got underway at the UN Geneva on Tuesday to agree on a legally binding treaty to curb plastic pollution, attended by delegates from nearly 180 countries.&nbsp; 
 
@@ -3523,7 +3523,7 @@ The All-Ireland winning Dublin ladies football team brought some joy and the Bre
 
 ## Plastic pollution talks get underway in Geneva
 
-date: 2025-08-04, from: United Nations, Climate Change
+date: 2025-08-04, from: United Nations, Economic Development
 
 Efforts are getting underway in Geneva to finalize a&nbsp;global agreement to tackle the staggering and growing amount of plastic waste&nbsp;and its impact on human health, marine life and the economy. 
 
