@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-08-10 06:08:20
+updated: 2025-08-10 14:07:34
 ---
 
 # motorcycles
 
-(date: 2025-08-10 06:08:20)
+(date: 2025-08-10 14:07:34)
+
+---
+
+## Ryan Blaney Eying Watkins Glen Upset From Pole
+
+date: 2025-08-10, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Ryan Blaney surprised even himself Saturday when he topped series favorite Shane van Gisbergen for pole in Sunday&#8217;s Cup race from Watkins Glen International. The&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ryan-blaney-eying-watkins-glen-upset-from-pole/>
 
 ---
 

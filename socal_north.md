@@ -1,11 +1,47 @@
 ---
 title: socal north
-updated: 2025-08-10 06:08:14
+updated: 2025-08-10 14:07:29
 ---
 
 # socal north
 
-(date: 2025-08-10 06:08:14)
+(date: 2025-08-10 14:07:29)
+
+---
+
+## Coalition of community groups calls for economic boycott on Tuesday. Here's what to know
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+24 hours of marches and rallies across Los Angeles are planned too — in response to an immigration raid in Westlake last week involving a Penske rental truck of federal agents. 
+
+<br> 
+
+<https://laist.com/news/politics/tuesday-august-14-boycott-operation-trojan-horse>
+
+---
+
+## Asylum-seekers thought they were following the rules. Now some are told to start over
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+NPR has learned that dozens of immigrants across the U.S. have received letters notifying them that their asylum cases have been dismissed because they have not yet received a screening interview. 
+
+<br> 
+
+<https://laist.com/news/politics/asylum-seekers-thought-they-were-following-the-rules-now-some-are-told-to-start-over>
+
+---
+
+## Looking for places to develop your film? Here’s our recommendations
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+These stores across Southern California still develop film for you. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/looking-for-places-to-develop-your-film-heres-laist-staffs-recommendations>
 
 ---
 
@@ -18,18 +54,6 @@ Kevin Cooley takes pictures of wildfires for a living and lost his Altadena home
 <br> 
 
 <https://laist.com/news/climate-environment/six-months-after-eaton-fire-wildfire-photographer-kevin-cooley>
-
----
-
-## Looking for places to develop your film? Here’s LAist staff's recommendations.
-
-date: 2025-08-10, updated: 2025-08-10, from: The LAist
-
-These stores across Southern California still develop film for you. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/looking-for-places-to-develop-your-film-heres-laist-staffs-recommendations>
 
 ---
 

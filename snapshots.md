@@ -1,11 +1,51 @@
 ---
 title: snapshots
-updated: 2025-08-10 06:08:24
+updated: 2025-08-10 14:07:37
 ---
 
 # snapshots
 
-(date: 2025-08-10 06:08:24)
+(date: 2025-08-10 14:07:37)
+
+---
+
+## Lilbits: AOL frees up your phone line by ending dial-up access
+
+date: 2025-08-10, from: Liliputing
+
+<p>AOL is ending dial-up access next month, 34 years after launching the service that provided many Americans with their first (somewhat limited) taste of the internet. The surprising news here is that it hadn&#8217;t already happened&#8230; who uses dial-up or AOL in 2025? But it&#8217;s still an interesting footnote in the history of the internet. Here&#8217;s [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-2/">Lilbits: AOL frees up your phone line by ending dial-up access</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-2/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-10, from: Robert's feed at BlueSky)
+
+😆👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lw2nz5raws2q>
+
+---
+
+## Debian 13 “trixie” release brings RISC-V support plus to the popular GNU/Linux distro, plus thousands of other updates
+
+date: 2025-08-10, from: Liliputing
+
+<p>Debian is a free and open source, Linux-based operating system that&#8217;s bee around for more than three decades. And computers have changed a lot in that time. So while Debian has a reputation for releasing updates on a slow, steady, and stable basis rather than pushing bleeding edge features, the operating system has made some major changes [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/debian-13-trixie-release-brings-risc-v-support-plus-to-the-popular-gnu-linux-distro-plus-thousands-of-other-updates/">Debian 13 &#8220;trixie&#8221; release brings RISC-V support plus to the popular GNU/Linux distro, plus thousands of other updates</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/debian-13-trixie-release-brings-risc-v-support-plus-to-the-popular-gnu-linux-distro-plus-thousands-of-other-updates/>
 
 ---
 
@@ -18,6 +58,19 @@ This trade war is really a class war
 <br> 
 
 <https://paulkrugman.substack.com/p/the-economics-of-smoot-hawley-20-cf7>
+
+---
+
+## Generating RSS with FlatLake
+
+date: 2025-08-10, from: Robert's Ramblings
+
+A show post describing a prototype in Deno+TypeScript for generating RSS 2.0 feeds from a FlatLake generated JSON API.
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/08/10/generating_rss_with_flatlake.html>
 
 ---
 

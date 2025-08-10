@@ -1,11 +1,35 @@
 ---
 title: going electric
-updated: 2025-08-10 06:08:21
+updated: 2025-08-10 14:07:35
 ---
 
 # going electric
 
-(date: 2025-08-10 06:08:21)
+(date: 2025-08-10 14:07:35)
+
+---
+
+## This Guy Bought A Chevy Bolt EV. Next: Driving It 8,000 Miles To The Arctic Ocean
+
+date: 2025-08-10, from: Inside EVs News
+
+If a Chevy Bolt can do it, just about any EV can do it. 
+
+<br> 
+
+<https://insideevs.com/news/768484/chevy-bolt-arctic-ocean/>
+
+---
+
+## I Charged The 2026 BMW iX At This Ionna Rechargery. It Was My Best Pit Stop Ever
+
+date: 2025-08-10, from: Inside EVs News
+
+Fast, easy, well-lit and full of amenities, Ionna Rechargeries are the new gold standard of EV charging. They make gas stations feel outdated. 
+
+<br> 
+
+<https://insideevs.com/news/768516/btw-ix-ionna-rechargery/>
 
 ---
 

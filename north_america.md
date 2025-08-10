@@ -1,11 +1,23 @@
 ---
 title: north america
-updated: 2025-08-10 06:08:13
+updated: 2025-08-10 14:07:29
 ---
 
 # north america
 
-(date: 2025-08-10 06:08:13)
+(date: 2025-08-10 14:07:29)
+
+---
+
+##  LEVER WEEKLY: Frequent Liar Miles 
+
+date: 2025-08-10, from: The Lever News
+
+ Big Brother in the sky, Wall Street&#39;s retirement fund, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-frequent-liar-miles/>
 
 ---
 

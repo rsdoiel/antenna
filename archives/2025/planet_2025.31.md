@@ -1,11 +1,155 @@
 ---
 title: planet
-updated: 2025-08-10 06:08:12
+updated: 2025-08-10 14:07:28
 ---
 
 # planet
 
-(date: 2025-08-10 06:08:12)
+(date: 2025-08-10 14:07:28)
+
+---
+
+## Man arrested after fire at Conor McGregor's pub released
+
+date: 2025-08-10, from: RTÉ News
+
+A man who was arrested in relation to a fire Conor McGregor's pub in Dublin last month has been released without charge. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0810/1527812-mcgregor-pub-released/>
+
+---
+
+## Russian strikes kill six and wound dozens in Ukraine
+
+date: 2025-08-10, from: RTÉ News
+
+A new round of Moscow's shelling and drone attacks killed six people and wounded dozens in Ukraine, authorities said, while Kyiv hit two oil refineries deep inside Russia. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0810/1527805-russia-ukraine-strikes/>
+
+---
+
+## Dolan holds nerve to seal All-Ireland title for Galway
+
+date: 2025-08-10, from: RTÉ News
+
+Carrie Dolan's 63rd-minute free secured a dramatic 1-14 to 1-13 victory for Galway over Cork and their fifth All-Ireland senior camogie championship title. 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0810/1527736-dolan-holds-nerve-to-seal-all-ireland-title-for-galway/>
+
+---
+
+## Man clings to Austrian high-speed train and survives
+
+date: 2025-08-10, from: RTÉ News
+
+A man has survived clinging to the outside of an Austrian high-speed train, Austria's state railway said, reportedly after it left whilst he was having a cigarette break. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0810/1527801-man-train-austria/>
+
+---
+
+## Homeless must be moved 'far' from Washington - Trump
+
+date: 2025-08-10, from: RTÉ News
+
+US President Donald Trump has pledged to evict homeless people from the nation's capital and jail criminals, despite Washington's mayor arguing there is no current spike in crime. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0810/1527798-trump-homeless-washington/>
+
+---
+
+## African musicians join Clare traditional music festival
+
+date: 2025-08-10, from: RTÉ News
+
+Hundreds of people gathered on the streets of the village of Feakle in Co Clare to witness a unique musical concert, featuring traditional musicians from Mozambique in Africa play in concert with a group of east Clare musicians. 
+
+<br> 
+
+<https://www.rte.ie/news/regional/2025/0810/1527796-clare-african-musicians/>
+
+---
+
+## Bono says he feels 'revulsion' for moral failure in Gaza
+
+date: 2025-08-10, from: RTÉ News
+
+U2 frontman Bono has said in a statement that he feels "revulsion" for the "moral failure" in Gaza, adding that he has tried to "stay out of the politics of the Middle East". 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0810/1527792-u2-gaza-statement/>
+
+---
+
+## All-Ireland Camogie final recap: Cork 1-13 Galway 1-14
+
+date: 2025-08-10, from: RTÉ News
+
+The action as it happened from this afternoon's All-Ireland senior camogie final, where three-in-a-row chasing Cork faced Galway 
+
+<br> 
+
+<https://www.rte.ie/sport/camogie/2025/0810/1527735-all-ireland-camogie-final-cork-v-galway-updates/>
+
+---
+
+## Arrests reach 522 following Palestine protest in London
+
+date: 2025-08-10, from: RTÉ News
+
+London's police service has said that officers had arrested 522 people the previous day for breaching anti-terror laws by supporting the recently proscribed group Palestine Action. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0810/1527785-london-protest-arrests/>
+
+---
+
+## Israel's Gaza plan risks 'another calamity', warns UN
+
+date: 2025-08-10, from: RTÉ News
+
+A UN official has warned the Security Council that Israel's plans to control Gaza City risked "another calamity" with far-reaching consequences as Benjamin Netanyahu insisted his goal was not to occupy the territory. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0810/1527782-un-israel-gaza/>
+
+---
+
+## 6.1 magnitude earthquake rocks Turkey, collapsing buildings
+
+date: 2025-08-10, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7605487.1754850436!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/turkey-earthquake.jpg' alt='People gather around the wreckage of a collapsed building.' width='620' height='349' title='People remove the wreckage of a collapsed building following an earthquake in Sindirgi, northwest Turkey, Sunday, Aug. 10, 2025. (Bahadir Demirceviren/IHA via AP)'/><p>A magnitude 6.1 earthquake struck Turkey's northwestern province of Balikesir on Sunday, causing about a dozen buildings to collapse, an official said. At least two people were trapped in the debris of a collapsed building.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/turkey-earthquake-balikesir-1.7605486?cmp=rss>
+
+---
+
+## McGregor not 'fit' to be president - minister
+
+date: 2025-08-10, from: RTÉ News
+
+Conor McGregor would not be fit to be president, the Minister for Transport has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0810/1527780-mcgregor-obrien/>
 
 ---
 
@@ -21,6 +165,18 @@ The Minister of State for Migration has called for a stronger policing response,
 
 ---
 
+## Call for strong policing after attacks on Indian citizens
+
+date: 2025-08-10, from: RTÉ News
+
+The Minister of State for Migration has called for a stronger policing response, in the wake of a series of attacks on members of the Indian community. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0810/1527772-attacks-indian-citizens/>
+
+---
+
 ## Priest in serious condition after assault in Down church
 
 date: 2025-08-10, from: RTÉ News
@@ -30,6 +186,66 @@ A priest is in a serious condition after being assaulted in a Co Down church.
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0810/1527770-priest-assault/>
+
+---
+
+## Murder inquiry after man found dead in Downpatrick house
+
+date: 2025-08-10, from: RTÉ News
+
+Police in Downpatrick have begun a murder inquiry after a man was found dead in a house in the Co Down town. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0810/1527770-downpatrick-murder-inquiry/>
+
+---
+
+## Security Council voices deep concern over deadly escalation in Syria’s Sweida region
+
+date: 2025-08-10, from: United Nations, Top Stories
+
+The UN Security Council has expressed alarm at the sharp escalation of violence in Syria’s Sweida region since mid-July, condemning attacks against civilians and calling for urgent protection and humanitarian access. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165620>
+
+---
+
+## ‘There is no military solution’ to end Israel-Palestine conflict, Security Council hears, as starvation stalks the Gaza Strip
+
+date: 2025-08-10, from: United Nations, Top Stories
+
+It’s essential to work towards a two-State solution to the Israel-Palestine conflict as the international community addresses the reality of starvation on the ground in Gaza, the Security Council heard on Sunday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165619>
+
+---
+
+## From crisis to cultivation: Haiti’s farmers build resilience one seed at a time
+
+date: 2025-08-10, from: United Nations, Economic Development
+
+For years, low-quality seeds have been a concern in Haiti, with continual climate shocks and political insecurity adding to the existing challenges that farmers face in their attempts to grow food.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165600>
+
+---
+
+## SECURITY COUNCIL LIVE: Ambassadors meet in emergency session, amid starvation in the Gaza Strip
+
+date: 2025-08-10, from: United Nations, Top Stories
+
+The UN Security Council met Sunday morning in New York following the Israeli cabinet’s decision to again expand its military operation inside the Gaza Strip and take full control of the key population centre of Gaza City. UN chief António Guterres described it earlier as a “dangerous escalation” for the two million civilians trapped in the enclave as well as the remaining Israeli hostages still held captive. Follow our Meetings Coverage Section’s live reporting of the crisis meeting and UN News app users can follow here. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165616>
 
 ---
 
@@ -153,11 +369,11 @@ The 2025 All-Ireland camogie provides us with a comfortably familiar pairing aft
 
 ---
 
-## Thousands protest in Tel Aviv against Gaza war expansion
+## Netanyahu, Trump discuss Israel's Gaza offensive plans
 
 date: 2025-08-10, from: RTÉ News
 
-Thousands took to the streets in Tel Aviv last night to call for an end to the war in Gaza, a day after the Israeli government vowed to expand the conflict and capture Gaza City. 
+Benjamin Netanyahu spoke with US President Donald Trump about Israel's new Gaza offensive plans, the Israeli prime minister's office has said. 
 
 <br> 
 
@@ -205,7 +421,7 @@ Ireland needs more of both wind and solar farms and it needs them faster, especi
 
 date: 2025-08-10, from: RTÉ News
 
-Thousands of people are attending the Tullamore Show, the biggest one-day agricultural event in the country, with the role of young farmers in the spotlight as Macra joins the Sustainable Livestock Village for the first time. 
+Thousands of people have turned out at the Tullamore Show today, the biggest one-day agricultural event in the country, with the role of young farmers in the spotlight as Macra joins the Sustainable Livestock Village for the first time. 
 
 <br> 
 
@@ -237,11 +453,11 @@ date: 2025-08-10, from: CBC, Indigenious News
 
 ---
 
-## EU leaders urge more 'pressure' on Russia ahead of talks
+## Merz assumes Zelensky will join Trump-Putin summit
 
 date: 2025-08-10, from: RTÉ News
 
-EU leaders urged more "pressure" on Russia, after the announcement of meeting between Donald Trump and Vladimir Putin to end the war in Ukraine raised concern that an agreement would require Ukraine to cede swathes of territory. 
+Germany assumes that Ukraine's President Volodymyr Zelensky will attend a summit between US President Donald Trump and his Russian counterpart Vladimir Putin next Friday, German Chancellor Friedrich Merz said. 
 
 <br> 
 
@@ -475,6 +691,18 @@ Climate change has worsened monsoon flooding in Bangladesh, putting women of chi
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165615>
+
+---
+
+## Aid blockade deepens Gaza crisis as malnutrition deaths rise, warns UNRWA
+
+date: 2025-08-09, from: United Nations, Top Stories
+
+The UN agency for Palestine refugees (UNRWA)&nbsp;has warned that the Gaza Strip faces a “catastrophic” humanitarian crisis, with no agency aid allowed in for more than five months and malnutrition deaths climbing sharply. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165618>
 
 ---
 
@@ -868,18 +1096,6 @@ date: 2025-08-08, from: CBC, World News
 
 ---
 
-## Jeffrey Epstein and Donald Trump: a timeline
-
-date: 2025-08-08, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.5647742.1752820144!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ghislaine-maxwell-jeffrey-epstein-donald-trump.jpg' alt='Two man and two women standing together, both men with their arms around the woman, all smiling' width='620' height='349' title='Donald Trump, left, and Melania Trump are shown with Jeffrey Epstein and his associate, Ghislaine Maxwell, at Trump&apos;s Mar-a-Lago estate in Palm Beach, Fla., in February 2000. '/><p>U.S. President Donald Trump keeps facing questions about Jeffrey Epstein, the multi-millionaire sex offender who died in jail in 2019 while facing federal charges of trafficking underage girls. Here's a quick guide to the Epstein saga and how it intersected with Trump over the years.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/world/trump-epstein-timeline-1.7604277?cmp=rss>
-
----
-
 ## Driver uninjured after train crashes into van in Poland
 
 date: 2025-08-08, from: RTÉ News
@@ -1254,7 +1470,7 @@ The UN’s top human rights official insisted on Friday that the Israeli Governm
 
 ## Africa’s ‘land-linked’ economies poised to drive continent’s prosperity
 
-date: 2025-08-08, from: United Nations, Top Stories
+date: 2025-08-08, from: United Nations, Economic Development
 
 By leveraging their central location, expanding regional connectivity and embracing transformative technologies, Africa’s landlocked developing countries (LLDCs) are positioning themselves as vital contributors to the continent’s prosperity and sustainable development. 
 
@@ -1314,7 +1530,7 @@ Millions of people returning to Afghanistan from neighbouring countries are rece
 
 ## Landlocked but not left behind: UN summit in Turkmenistan wraps with bold new roadmap
 
-date: 2025-08-08, from: United Nations, Top Stories
+date: 2025-08-08, from: United Nations, Economic Development
 
 The Third UN Conference on Landlocked Developing Countries wrapped up earlier Friday in Awaza, Turkmenistan, with delegates adopting a landmark political declaration aimed at speeding up sustainable development and boosting resilience in 32 nations that lack direct access to the sea. 
 
@@ -2006,7 +2222,7 @@ In Africa’s Sahel region, deepening violence and poverty – driven by displac
 
 ## Facing rising risks, landlocked nations launch climate alliance at UN summit
 
-date: 2025-08-07, from: United Nations, Top Stories
+date: 2025-08-07, from: United Nations, Economic Development
 
 Countries agreed Thursday to form a new climate negotiating bloc to advocate for the unique needs of nations without direct access to the sea. The decision was reached at the Third UN Conference on Landlocked Developing Countries (LLDC3), currently under way in Awaza, Turkmenistan. 
 
@@ -2690,7 +2906,7 @@ Italy's government has approved a €13.5 billion project to build the world's l
 
 ## ‘Landlocked to landlinked’: UN summit seeks to turn geography into opportunity
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 For the world’s landlocked developing countries (LLDCs), geography isn’t just a challenge, it’s a costly barrier to trade. Cut off from direct access to the sea, these nations face steep transport costs, sluggish delivery times, and a maze of border procedures that slow down economic progress.&nbsp; 
 
@@ -2738,7 +2954,7 @@ Aid agencies warned on Wednesday&nbsp;that most partner organizations providing 
 
 ## Landlocked nations ‘invisible to much of the world’: UN trade and development chief
 
-date: 2025-08-06, from: United Nations, Top Stories
+date: 2025-08-06, from: United Nations, Economic Development
 
 Trapped by geography and squeezed by global market forces, the world’s 32 landlocked developing countries remain among the poorest – and most overlooked. 
 

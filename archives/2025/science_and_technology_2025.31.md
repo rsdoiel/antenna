@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-08-10 06:08:16
+updated: 2025-08-10 14:07:31
 ---
 
 # science and technology
 
-(date: 2025-08-10 06:08:16)
+(date: 2025-08-10 14:07:31)
 
 ---
 
@@ -347,7 +347,7 @@ Hundreds of physicists (and a few journalists) journeyed to Helgoland, the birth
 
 ## Sudden spike in demand causes issues in Azure East US region
 
-date: 2025-08-08, updated: 2025-08-08, from: The Register (UK I.T. News)
+date: 2025-08-08, updated: 2025-08-10, from: The Register (UK I.T. News)
 
 <h4>&#39;Although the incident has been marked resolved, in practice it lingers,&#39; admin tells us</h4> <p>A problem with resources for virtual machines is still affecting users in Azure&#39;s East US region after more than a week, frustrated admins have told us, despite Microsoft saying the incident is now resolved.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

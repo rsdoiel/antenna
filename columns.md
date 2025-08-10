@@ -1,11 +1,37 @@
 ---
 title: columns
-updated: 2025-08-10 06:08:17
+updated: 2025-08-10 14:07:32
 ---
 
 # columns
 
-(date: 2025-08-10 06:08:17)
+(date: 2025-08-10 14:07:32)
+
+---
+
+##  Great new t-shirt for Gracie&#8217;s Ice Cream features a Jaws-shaped cone about... 
+
+date: 2025-08-10, updated: 2025-08-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047305-great-new-t-shirt-for-gra>
+
+---
+
+## August 9, 2025
+
+date: 2025-08-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170631586/280d10caf5d4224971fe4a3be80ff7b6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170631586/280d10caf5d4224971fe4a3be80ff7b6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-9-2025-7df>
 
 ---
 

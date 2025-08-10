@@ -1,11 +1,131 @@
 ---
 title: pacific
-updated: 2025-08-10 06:08:15
+updated: 2025-08-10 14:07:30
 ---
 
 # pacific
 
-(date: 2025-08-10 06:08:15)
+(date: 2025-08-10 14:07:30)
+
+---
+
+## New Caledonia’s FLNKS to reject France’s Bougival project
+
+date: 2025-08-10, from: 
+
+The move by the pro-independence group has prompted France's Minister for Overseas Manuel Valls to travel to the French territory again next week. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569587/new-caledonia-s-flnks-to-reject-france-s-bougival-project>
+
+---
+
+## CNMI to request 60-day extension on comment period for US military's plans for the territory
+
+date: 2025-08-10, from: 
+
+The Commonwealth of Northern Mariana Islands wants more time for residents to share their thoughts about the United States military's plans for the territory. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569476/cnmi-to-request-60-day-extension-on-comment-period-for-us-military-s-plans-for-the-territory>
+
+---
+
+## Fake e-visa site a 'serious threat', warns Fiji Immigration
+
+date: 2025-08-10, from: 
+
+Fiji's Immigration Ministry has issued an "urgent and high-priority" warning about a fake website impersonating the country's official e-Visa platform. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569584/fake-e-visa-site-a-serious-threat-warns-fiji-immigration>
+
+---
+
+## A humble path to public service (2)
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+LIEUTENANT Governor Dennis James C. Mendiola’s path to public service was not historically significant — except for the fact that he was born in the Generation X era. He sought the office of the Senate twice and won in the 2022 election. Since January 2023, he has been serving the first half of his term as Senate President. The untimely passing of Governor Arnold I. Palacios catapulted him into the office of Lieutenant Governor — a process too swift to fully assess his competency for the role he now occupies. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/a-humble-path-to-public-service-2/article_ff5a057f-3f0a-40b2-84e9-34d12eeeef25.html>
+
+---
+
+## Saipan Humane Society announces upcoming veterinary visit
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+SAIPAN Humane Society  would like to extend our heartfelt gratitude to the local businesses and donors who made our July veterinary clinic a success. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-humane-society-announces-upcoming-veterinary-visit/article_e4968b34-5695-498f-b194-e1ce1799d604.html>
+
+---
+
+## IT&E announces restoration of landline services in CNMI
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+ON Thursday, Aug. 7 at 12:45 noon, IT&amp;E encountered a service-related issue that intermittently affected our landline customers, and those calling our customers, in the CNMI. Specifically, customers were having difficulty making and receiving calls from landline phones. As of 5:30 p.m., the issue was resolved, and landline services have been fully restored. Internet and mobile services were not affected and continue to operate normally. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/it-e-announces-restoration-of-landline-services-in-cnmi/article_7390acbf-e0e2-46d9-af5e-1a7ad300ad5d.html>
+
+---
+
+## Damage at American Memorial Park along Micro Beach
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+DURING the recent storm surge caused by Tropical Storm Krosa significant erosion and flooding occurred along Micro Beach.  During this event old foundations were broken apart exposing WWII unexploded ordnance.  DFEMS was alerted, the area of concern has been cordoned off, and an Explosive Ordnance Disposal team will be arriving to assess and remove anything that poses a danger to the community. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/damage-at-american-memorial-park-along-micro-beach/article_f7be610c-ba72-488f-b4b1-f24473dde9bf.html>
+
+---
+
+## CNMI Fish & Wildlife offices to temporarily relocate
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+THE CNMI Department of Lands &amp; Natural Resources would like to inform the public that the offices under the CNMI Division of Fish and Wildlife, are temporarily relocating to the Marianas Business Plaza in Susupe, effective Aug. 12, 2025, due to the upcoming renovation of the DFW main building in Lower Base, Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-fish-wildlife-offices-to-temporarily-relocate/article_1568471f-dd45-44d4-a424-11a8afa72c37.html>
+
+---
+
+## Solomon Islands blocks US, China, Taiwan from Pacific’s top political meet
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+HONIARA (Reuters) — Solomon Islands Prime Minister Jeremiah Manele has said that 21 donor countries, including the United States and China, will not be invited to the region's top political meeting, a move that follows pressure from Beijing to exclude Taiwan. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/solomon-islands-blocks-us-china-taiwan-from-pacific-s-top-political-meet/article_b26932d5-5f2a-4d3d-bf85-f825c06bafd8.html>
+
+---
+
+## CCC requests payment amid EO controversy
+
+date: 2025-08-10, updated: 2025-08-10, from: Marianas Variety
+
+THE Commonwealth Casino Commission is “respectfully requesting” Gov. David M. Apatang and Finance Secretary Tracy B. Norita to pay the commissioners a total of $650,000, as well as the $280,000 in outstanding office rental debt. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ccc-requests-payment-amid-eo-controversy/article_db40945a-e117-459d-b067-0bc22ee1864e.html>
 
 ---
 
@@ -473,23 +593,11 @@ The post <a href="https://www.hawaii.edu/news/2025/08/08/mariana-rocha-de-souza/
 
 date: 2025-08-08, from: 
 
-The Solomon Islands Prime Minister has made his case as to why at least twenty countries should be essentially blocked from a key Pacific meeting in Honiara next month. 
+Solomon Islands Prime Minister has made his case as to why at least twenty countries should be blocked from a key Pacific meeting in Honiara next month. 
 
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/569475/solomon-islands-pm-calls-for-pause-on-forum-dialogue-partner-meeting>
-
----
-
-## CNMI to request 60-day extension on comment period for US military's plans for the territory
-
-date: 2025-08-08, from: 
-
-The Commonwealth of Northern Mariana Islands wants more time for residents to share their thoughts about the United States military's plans for the territory. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569476/cnmi-to-request-60-day-extension-on-comment-period-for-us-military-s-plans-for-the-territory>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-10 06:08:20
+updated: 2025-08-10 14:07:34
 ---
 
 # retro computing
 
-(date: 2025-08-10 06:08:20)
+(date: 2025-08-10 14:07:34)
+
+---
+
+## b.log 2025/08/10 - A Whisper in the Dark, Today, Tomorrow, Software written by morons, Cosplay, Tea!
+
+date: 2025-08-10, from: Richard Murray's blog
+
+A Whisper in the Dark, Today, Tomorrow, Software written by morons, Cosplay, Tea! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250810>
 
 ---
 
