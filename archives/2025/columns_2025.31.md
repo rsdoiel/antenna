@@ -1,11 +1,391 @@
 ---
 title: columns
-updated: 2025-08-09 14:09:07
+updated: 2025-08-10 06:08:17
 ---
 
 # columns
 
-(date: 2025-08-09 14:09:07)
+(date: 2025-08-10 06:08:17)
+
+---
+
+## The King
+
+date: 2025-08-10, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/the-king>
+
+---
+
+## 2025-08-07 Oddμ hashtags
+
+date: 2025-08-10, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-07-oddμ-hashtags">2025-08-07 Oddμ hashtags</h1>
+
+<p>I was recently looking at my homepage and wondered about all the hashtags I used and how not all of them had a topic page. The <a href="Odd%CE%BC">Oddμ</a> page, for example, collects all the blogposts tagged <a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> (including this one). So I looked at the <a href="oddmu/oddmu-hashtags.1">hashtags</a> command and figured, &ldquo;this is going to be easy.&rdquo; 🤣</p>
+
+<p>The first problem is that there are a lot of garbage hashtags. There are over 1000 hashtags used on this site! The garbage hashtags are the result of Markdown parsing mistakes that I never fixed. Apparently the list of hashtags includes the following:</p>
+
+<pre><code>#1)
+#fennel”
+#fudge](fudge)_and_the_[pdq](../wiki?action=edit;id=pdq_&quot;click_to_edit_this_page&quot;)_rules_used_in_[zorcererofzo.
+ffffff;fill-opacity:1&quot;)
+###｣
+</code></pre>
+
+<p>This is not great. 😔</p>
+
+<p>I should fix those, and many more. 🤨</p>
+
+<p>Furthermore, the hashtags are all downcased. So given a hashtag such as <code>#advanced_squad_leader</code> the code would have to infer the page name &ldquo;Advanced Squad Leader&rdquo;. But what about the hashtag <code>#älter werden</code>? If at all, that should link to a page called &ldquo;Älter werden&rdquo;.</p>
+
+<p>And so I concluded that this wasn&rsquo;t easy after all. I saved the changes I made on a branch, and I don&rsquo;t think I&rsquo;ll be merging that into the main branch.</p>
+
+<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a></p>
+
+<p><strong>2025-08-09</strong>. Well! I think I worked on it and I worked on it, and then I ran it, and kept on fixing the topic pages it created. But I think it worked!</p>
+
+<p><strong>2025-08-10</strong>. Yesterday I cleaned up my site (somewhat) and today I released v1.18 of Oddμ. Yay me!</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-07-oddmu-hashtags>
+
+---
+
+## Sunday thought: Working for the Good
+
+date: 2025-08-10, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/seeking-the-good>
+
+---
+
+## August 9, 2025 
+
+date: 2025-08-10, from: Heather Cox Richardson blog
+
+Last Thursday, Defense Secretary Pete Hegseth reposted a video in which Christian nationalist pastors express their opposition to the idea of women voting. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-9-2025>
+
+---
+
+## What’s up with sci-fi publishing?
+
+date: 2025-08-09, from: Tracy Durnell Blog
+
+Earlier this week, a friend and I were discussing the sci-fi genre (in books). Despite both of us reading little sci-fi in the past five years, we recognized all the authors on the Hugo finalists list. Only three of the finalist novels were sci-fi, two from the same author. (Apparently fantasy has been winning genre [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/09/whats-up-with-sci-fi-publishing/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-09, from: Dave Winer's Scripting News)
+
+I had an <a href="https://web.archive.org/web/20051031044357/http://www.reallysimplesyndication.com/2004/05/29">RSS-specific blog</a> starting in May 2004. I had forgotten about it. Lots of stuff here, I just read through a few months. 
+
+<br> 
+
+<http://scripting.com/2025/08/09.html#a222643>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-09, from: Dave Winer's Scripting News)
+
+There's a difference between reading a site in a web browser and it being part of the web. As it turns out what became Web 2.0, all built as silos, could more accurately be called Anti-web 2.0. Underneath all the silos, the heart of the web is still beating. Ready for us to build on it again. 
+
+<br> 
+
+<http://scripting.com/2025/08/09.html#a220949>
+
+---
+
+## 2025-08-03 GoToSocial and the Butlerian Jihad
+
+date: 2025-08-09, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-03-gotosocial-and-the-butlerian-jihad">2025-08-03 GoToSocial and the Butlerian Jihad</h1>
+
+<p>I run a single user instance for the fediverse using GoToSocial and since I&rsquo;m blocking <a href="2025-07-23-test">thousands of IP address ranges</a> &ndash; mostly from companies renting out bandwidth and computing power to web scrapers &ndash; I&rsquo;m also blocking my instance from seeing a lot of the fediverse. That&rsquo;s not good.</p>
+
+<p>The solution is to continue blocking the big cloud providers like Microsoft, Google, Amazon, Hentzner, OVH, Alibaba and whatever else they are called. But if I&rsquo;m following somebody from a fedi instance hosted by these big cloud providers, I should put the IP numbers associated with just those domain names onto a separate allow list.</p>
+
+<p>Instead of using the Mastodon client protocol to get the list of people I&rsquo;m following, I can just access the database directly.</p>
+
+<p>Here&rsquo;s the script that adds IP addresses:</p>
+
+<pre><code>#!/usr/bin/fish
+# Redirect the output of this script into /etc/butlerian-jihad/gotosocial.sh
+echo &quot;#&quot; (date --iso)
+set domains (sqlite3 /home/gotosocial/sqlite.db '
+select distinct b.domain from follows as f
+join accounts as a on f.account_id = a.id
+join accounts as b on f.target_account_id = b.id
+where a.username = &quot;alex&quot;
+and b.domain is not null
+union
+select distinct b.domain from follow_requests as f
+join accounts as a on f.account_id = a.id
+join accounts as b on f.target_account_id = b.id
+where a.username = &quot;alex&quot;
+and b.domain is not null
+order by 1')
+set i 1
+set m (count $domains)
+for domain in $domains
+    set ipv6 (host -t AAAA $domain | awk '/has IPv6 address/ { print $5}')
+    set ipv4 (host -t A $domain | awk '/has address/ { print $4}')
+    echo &quot;$i/$m $domain:&quot; $ipv4 $ipv6 &gt;&amp;2
+    set i (math 1 + $i)
+    for ip in $ipv4
+        echo &quot;ipset add gotosocial $ip # $domain&quot;
+    end
+    for ip in $ipv6
+        echo &quot;ipset add gotosocial6 $ip # $domain&quot;
+    end
+end
+</code></pre>
+
+<p>This prints lines such as the following to STDERR:</p>
+
+<pre><code>157/244 republik.ch: 172.67.74.47 104.26.5.143 104.26.4.143 2606:4700:20::681a:48f 2606:4700:20::ac43:4a2f 2606:4700:20::681a:58f
+</code></pre>
+
+<p>And it prints lines such as the following to STDOUT:</p>
+
+<pre><code>ipset add gotosocial 172.67.74.47 # republik.ch
+ipset add gotosocial 104.26.5.143 # republik.ch
+ipset add gotosocial 104.26.4.143 # republik.ch
+ipset add gotosocial6 2606:4700:20::681a:48f # republik.ch
+ipset add gotosocial6 2606:4700:20::ac43:4a2f # republik.ch
+ipset add gotosocial6 2606:4700:20::681a:58f # republik.ch
+</code></pre>
+
+<p>I redirect STDOUT to a file called <code>gotosocial.sh</code> and then I run this script, which creates to IP sets called <code>gotosocial</code> and <code>gotosocial6</code>:</p>
+
+<pre><code>#!/usr/bin/fish
+# https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
+
+ipset create gotosocial hash:ip
+ipset create gotosocial6 hash:ip family inet6
+
+# this set is inserted at the beginning
+iptables -I INPUT -m set --match-set gotosocial src -j ACCEPT
+ip6tables -I INPUT -m set --match-set gotosocial6 src -j ACCEPT
+
+# recreate using: gotosocial-follower-ips &gt; gotosocial.sh
+source gotosocial.sh
+
+netfilter-persistent save
+
+# Find the number of the rule (hopefully it is number one)
+#   iptables --list INPUT
+#   ip6tables --list INPUT
+# To delete, verify the number of the rule:
+#   iptables --list INPUT 1
+#   ip6tables --list INPUT 1
+# Now delete it the rule:
+#   iptables --delete INPUT 1
+#   ip6tables --delete INPUT 1
+# Now you can destroy the two ipsets, too
+#   ipset destroy gotosocial
+#   ipset destroy gotosocial6
+# And now you can rerun this script!
+</code></pre>
+
+<p>If you run it, you&rsquo;ll get warnings about duplicate entries, I&rsquo;m sure:</p>
+
+<pre><code>ipset v7.17: Element cannot be added to the set: it's already added
+</code></pre>
+
+<p>In my case, for example, I have both of these entries and I didn&rsquo;t bother to fix this:</p>
+
+<pre><code>ipset add gotosocial 151.101.129.91 # mastodon.online
+ipset add gotosocial 151.101.129.91 # mastodon.social
+</code></pre>
+
+<p>There are plenty more, of course.</p>
+
+<p>In any case, you should now have an allow list that prevents these IP addresses from getting blocked by <code>fail2ban</code> because the <code>gotosocial</code> rule comes first:</p>
+
+<pre><code># iptables --list INPUT
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination         
+ACCEPT     all  --  anywhere             anywhere             match-set gotosocial src
+ACCEPT     all  --  anywhere             anywhere             match-set allowlist src
+f2b-alex-apache  tcp  --  anywhere             anywhere             multiport dports http,https
+f2b-butlerian-jihad  tcp  --  anywhere             anywhere             multiport dports 0:65535
+f2b-butlerian-jihad-week  tcp  --  anywhere             anywhere             multiport dports 0:65535
+f2b-alex-bots  tcp  --  anywhere             anywhere             multiport dports http,https
+f2b-recidive  tcp  --  anywhere             anywhere            
+DROP       all  --  anywhere             anywhere             match-set banlist src
+</code></pre>
+
+<p>To delete and recreate the lists, I use the following:</p>
+
+<pre><code>#!/usr/bin/fish
+ipset flush gotosocial
+ipset flush gotosocial6
+source gotosocial.sh
+netfilter-persistent save
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-03-gotosocial>
+
+---
+
+## August 8, 2025
+
+date: 2025-08-09, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170560062/70bf63b7c1dfbe219b0ed74c23e9c5fa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170560062/70bf63b7c1dfbe219b0ed74c23e9c5fa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-8-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-09, from: Miguel de Icaza Mastondon feed)
+
+<p>With the renewed interest in TUIs, I also upgraded TermKit to modern swift tooling and started adding a number of pending features.</p><p>Started also on a backend to swift-cross-ui- but the question is whether a backend is the right thing, or if I should just have a custom SwiftUI-like system that is completely adapted to TermKit.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115000232586672531>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-09, from: Miguel de Icaza Mastondon feed)
+
+<p>I upgraded SwiftTerm’s subprocess handling to use the new swift-subprocess.</p><p>Took me a bit to figure out how to get pseudo terminals working, but we are now cooking with gas.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115000224135464535>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-09, from: Dave Winer's Scripting News)
+
+An <a href="https://github.com/scripting/a8c-FeedLand-Support/tree/main/lists">archive</a> of the previous version, built around GitHub. 
+
+<br> 
+
+<http://scripting.com/2025/08/09.html#a152722>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-09, from: Miguel de Icaza Mastondon feed)
+
+<p>I love &quot;This week in Gnome&quot;</p><p><a href="https://thisweek.gnome.org" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">thisweek.gnome.org</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114999443175869864>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/10/29/grandpaSimpson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I did a rewrite of the <a href="https://feedland.org/?feedcorps=true">FeedCorps page</a> in FeedLand. You get to it through the Reading Lists <a href="https://imgs.scripting.com/2025/08/09/feedCorpsScreenShot.png?nodialog">sub-menu</a> of the Tools menu. There are three lists in the new version. A lot were false starts, they didn't make the cut. I'm always adding feeds to my blogroll and news.scripting.com. Unfortunately I can't say the same for podcasts, which are not hooked up to my podcast app. I really want a hot connection there. We'll get there. The reading lists feature is going to play a big role going forward in the open social web we're building. BTW, I really like the name <a href="https://daytona.scripting.com/search?q=feedcorps">FeedCorps</a>. I haven't talked about it very much. It's a cause, like peace or freedom. Open those suckas up. Feeds all the way babe. 
+
+<br> 
+
+<http://scripting.com/2025/08/09.html#a150610>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/07/22/rssShirt.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A few days ago I worked with ChatGPT to generate an RSS feed of news that interests me. Here's a <a href="https://github.com/scripting/Scripting-News/issues/325">writeup</a> with a place to comment and perhaps to collaborate on doing this for real. ChatGPT has real limits. This has to be done off on the side. It certainly could be done with their API. I'm head-down on other projects and can't do it myself but as I explain in the writeup, it would plug in beautifully to stuff I'm doing and it would all be open, so a new kind of feed reader is possible. And we could find news from other bloggers that the journalists aren't reporting on, the same way we relied on blogs in the early days to learn about what was going on on the web. It's time to do that again. 
+
+<br> 
+
+<http://scripting.com/2025/08/09.html#a133012>
+
+---
+
+## The International Obfuscated C Code Contest is back for 2024
+
+date: 2025-08-09, updated: 2025-08-09, from: Liam Proven's articles at the Register
+
+<h4>Yes, 2024 – the prizes in the 40th anniversary edition prizes were just awarded</h4>
+      <p>The IOCCC, as it&#39;s familiarly known, is back after a four-year gap, giving the entrants more time to come up with some remarkably devious code.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/09/ioccc_2024/>
+
+---
+
+## Trump's 24-Karat Corruption | The Coffee Klatch for August 9, 2025
+
+date: 2025-08-09, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-strikes-gold-the-coffee-klatch>
+
+---
+
+## August 8, 2025 (Friday)
+
+date: 2025-08-09, from: Heather Cox Richardson blog
+
+During the 2024 presidential campaign, Donald Trump vowed he could stop Russia&#8217;s war on Ukraine with a single phone call. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-8-2025-friday>
+
+---
+
+## Weeknotes: Aug. 2-8, 2025
+
+date: 2025-08-09, from: Tracy Durnell Blog
+
+Highlight of the week: wildlife camera surprises! second one at the bottom 😉 Looking forward to: seeing what else we get on camera 😻 Stuff I did: 5.75 hours writing 1.25 hours consulting reconciled my company financial records (because apparently I hadn&#8217;t updated my excel sheet since January 😅) bought plane tickets for a relative because [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/08/weeknotes-aug-2-8-2025/>
+
+---
+
+## ★ Gold, Frankincense, and Silicon
+
+date: 2025-08-09, updated: 2025-08-09, from: Daring Fireball
+
+It is disturbing to think that the leader of a beloved, trusted, and widely believed-to-be-ethical company like Apple has succumbed to avarice. That Tim Cook feels no qualms about — or perhaps even delights in — participating in a quid-pro-quo-driven corrupt administration in which flattery, fealty, gifts, and barely-concealed bribes are rewarded. That the United States devolving into kleptocracy suits Tim Cook just fine, because Apple’s pockets are deep enough to pay the vig.
+
+But the alternative is more disturbing. 
+
+<br> 
+
+<https://daringfireball.net/2025/08/gold_frankincense_and_silicon>
 
 ---
 
@@ -1682,135 +2062,6 @@ Introducing my new book to you
 
 ---
 
-## 2025-08-03 GoToSocial and the Butlerian Jihad
-
-date: 2025-08-03, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-03-gotosocial-and-the-butlerian-jihad">2025-08-03 GoToSocial and the Butlerian Jihad</h1>
-
-<p>I run a single user instance for the fediverse using GoToSocial and since I&rsquo;m blocking <a href="2025-07-23-test">thousands of IP address ranges</a> &ndash; mostly from companies renting out bandwidth and computing power to web scrapers &ndash; I&rsquo;m also blocking my instance from seeing a lot of the fediverse. That&rsquo;s not good.</p>
-
-<p>The solution is to continue blocking the big cloud providers like Microsoft, Google, Amazon, Hentzner, OVH, Alibaba and whatever else they are called. But if I&rsquo;m following somebody from a fedi instance hosted by these big cloud providers, I should put the IP numbers associated with just those domain names onto a separate allow list.</p>
-
-<p>Instead of using the Mastodon client protocol to get the list of people I&rsquo;m following, I can just access the database directly.</p>
-
-<p>Here&rsquo;s the script that adds IP addresses:</p>
-
-<pre><code>#!/usr/bin/fish
-# Redirect the output of this script into /etc/butlerian-jihad/gotosocial.sh
-echo &quot;#&quot; (date --iso)
-set domains (sqlite3 /home/gotosocial/sqlite.db '
-select distinct b.domain from follows as f
-join accounts as a on f.account_id = a.id
-join accounts as b on f.target_account_id = b.id
-where a.username = &quot;alex&quot;
-and b.domain is not null
-order by 1')
-set i 1
-set m (count $domains)
-for domain in $domains
-    set ipv6 (host -t AAAA $domain | awk '/has IPv6 address/ { print $5}')
-    set ipv4 (host -t A $domain | awk '/has address/ { print $4}')
-    echo &quot;$i/$m $domain:&quot; $ipv4 $ipv6 &gt;&amp;2
-    set i (math 1 + $i)
-    for ip in $ipv4
-        echo &quot;ipset add gotosocial $ip # $domain&quot;
-    end
-    for ip in $ipv6
-        echo &quot;ipset add gotosocial6 $ip # $domain&quot;
-    end
-end
-</code></pre>
-
-<p>This prints lines such as the following to STDERR:</p>
-
-<pre><code>157/244 republik.ch: 172.67.74.47 104.26.5.143 104.26.4.143 2606:4700:20::681a:48f 2606:4700:20::ac43:4a2f 2606:4700:20::681a:58f
-</code></pre>
-
-<p>And it prints lines such as the following to STDOUT:</p>
-
-<pre><code>ipset add gotosocial 172.67.74.47 # republik.ch
-ipset add gotosocial 104.26.5.143 # republik.ch
-ipset add gotosocial 104.26.4.143 # republik.ch
-ipset add gotosocial6 2606:4700:20::681a:48f # republik.ch
-ipset add gotosocial6 2606:4700:20::ac43:4a2f # republik.ch
-ipset add gotosocial6 2606:4700:20::681a:58f # republik.ch
-</code></pre>
-
-<p>I redirect STDOUT to a file called <code>gotosocial.sh</code> and then I run this script, which creates to IP sets called <code>gotosocial</code> and <code>gotosocial6</code>:</p>
-
-<pre><code>#!/usr/bin/fish
-# https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
-
-ipset create gotosocial hash:ip
-ipset create gotosocial6 hash:ip family inet6
-
-# this set is inserted at the beginning
-iptables -I INPUT -m set --match-set gotosocial src -j ACCEPT
-ip6tables -I INPUT -m set --match-set gotosocial6 src -j ACCEPT
-
-# recreate using: gotosocial-follower-ips &gt; gotosocial.sh
-source gotosocial.sh
-
-netfilter-persistent save
-
-# Find the number of the rule (hopefully it is number one)
-#   iptables --list INPUT
-#   ip6tables --list INPUT
-# To delete, verify the number of the rule:
-#   iptables --list INPUT 1
-#   ip6tables --list INPUT 1
-# Now delete it the rule:
-#   iptables --delete INPUT 1
-#   ip6tables --delete INPUT 1
-# Now you can destroy the two ipsets, too
-#   ipset destroy gotosocial
-#   ipset destroy gotosocial6
-# And now you can rerun this script!
-</code></pre>
-
-<p>If you run it, you&rsquo;ll get warnings about duplicate entries, I&rsquo;m sure:</p>
-
-<pre><code>ipset v7.17: Element cannot be added to the set: it's already added
-</code></pre>
-
-<p>In my case, for example, I have both of these entries and I didn&rsquo;t bother to fix this:</p>
-
-<pre><code>ipset add gotosocial 151.101.129.91 # mastodon.online
-ipset add gotosocial 151.101.129.91 # mastodon.social
-</code></pre>
-
-<p>There are plenty more, of course.</p>
-
-<p>In any case, you should now have an allow list that prevents these IP addresses from getting blocked by <code>fail2ban</code> because the <code>gotosocial</code> rule comes first:</p>
-
-<pre><code># iptables --list INPUT
-Chain INPUT (policy ACCEPT)
-target     prot opt source               destination         
-ACCEPT     all  --  anywhere             anywhere             match-set gotosocial src
-ACCEPT     all  --  anywhere             anywhere             match-set allowlist src
-f2b-alex-apache  tcp  --  anywhere             anywhere             multiport dports http,https
-f2b-butlerian-jihad  tcp  --  anywhere             anywhere             multiport dports 0:65535
-f2b-butlerian-jihad-week  tcp  --  anywhere             anywhere             multiport dports 0:65535
-f2b-alex-bots  tcp  --  anywhere             anywhere             multiport dports http,https
-f2b-recidive  tcp  --  anywhere             anywhere            
-DROP       all  --  anywhere             anywhere             match-set banlist src
-</code></pre>
-
-<p>We&rsquo;ll see how it goes. 😅</p>
-
-<p>Problems that I expect: This needs to run periodically.</p>
-
-<p>Most importantly, accounts that I am no longer following should be removed. It might be easier to just delete and recreate the lists, every now and then.</p>
-
-<p><a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-03-gotosocial>
-
----
-
 ## How to Leave Substack
 
 date: 2025-08-03, updated: 2025-08-03, from: Daring Fireball
@@ -1980,246 +2231,4 @@ Friends,
 <br> 
 
 <https://robertreich.substack.com/p/this-weeks-joseph-welch-award>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2018/08/21/bloatwareBoss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think I'm going to put in my will that ChatGPT should run the Dave Winer persona on all social networks, and my blog, as long as the money lasts. It would tell stories that I would likely tell, take political stands that I would take, draw meta-pictures of my sad and depressed <a href="http://scripting.com/2025/05/09/202442.html">programmer friend</a> and a cute and <a href="https://daytona.scripting.com/search?q=%22wordle%20kitty%22">adorable kitty</a> getting into all kinds of trouble. The seasons would come and go, and there would be Dave, still diggin. And of course he would continue to develop software, using some of the greatest tried and true tools, reminding everyone of how great <a href="http://frontier.userland.com">Frontier</a> is -- but -- if only it ran <a href="https://daytona.scripting.com/search?q=%22frontier%20on%20linux%22">on Linux</a>. The long-lived fearless and fully paid-up version of Uncle D. 
-
-<br> 
-
-<http://scripting.com/2025/08/02.html#a213445>
-
----
-
-## ★ The Substack Branding and Faux Prestige Trap
-
-date: 2025-08-02, updated: 2025-08-03, from: Daring Fireball
-
-Only with Substack does anyone perceive creator branding as being subservient to the platform — something that ought to be seen merely as an interchangeable CMS. 
-
-<br> 
-
-<https://daringfireball.net/2025/08/the_substack_branding_and_faux_prestige_trap>
-
----
-
-## 2025-08-02 Üetliberg
-
-date: 2025-08-02, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-02-üetliberg">2025-08-02 Üetliberg</h1>
-
-<p>Today the weather was cloudy and the rain was drizzling for hours.
-We went for a walk up the Üetliberg.
-We picked a safe trail with official signage.</p>
-
-<p>This small mountain is our local mountain here in Zürich and there’s a train that goes almost all the way to the top.
-These days it doesn’t run because there are maintenance works taking apart the tracks.
-We thought it’d be calm up there.
-We were wrong.
-There are buses running. There was a wedding at the posh hotel and restaurant at the top.</p>
-
-<p>When going for a walk on the Üetliberg in Zürich, do take a look from the top (Uto Kulm) and look over the lake towards the Alps.
-But today we learned: If you want to eat something, don&rsquo;t eat at the posh place up there, walk 20 min and stop at <a href="https://jurablick.com/">Jurablick</a>, looking north towards the Jura mountains.
-We ate a shepherd’s pie, a caponata, some chestnut cake and some poppy seed cake.
-Tasty!
-And everybody was super nice.</p>
-
-<p><img loading="lazy" src="2025-08-02-uetliberg-12.jpg" alt="Echte Tollkirsche. Atropa belladonna." /></p>
-
-<p>Too bad the Einbeere (Paris quadrifolia) was out of focus.
-The fruit looks uncanningly similar, but it grows on a single stalk atop four leaves at right angles to each other.</p>
-
-<p><img loading="lazy" src="2025-08-02-uetliberg-13.jpg" alt="Stechender Hohlzahn (Artengruppe). Galeopsis tetrahit agg." />
-<img loading="lazy" src="2025-08-02-uetliberg-1.jpg" alt="Claudia and I, slightly wet, on the way up." />
-<img loading="lazy" src="2025-08-02-uetliberg-2.jpg" alt="A broad forest road in the forest with dramatic clouds above." />
-<img loading="lazy" src="2025-08-02-uetliberg-3.jpg" alt="Looking out over the city lying below the grey clouds." />
-<img loading="lazy" src="2025-08-02-uetliberg-4.jpg" alt="Grosse Klette. Arctium lappa." />
-<img loading="lazy" src="2025-08-02-uetliberg-5.jpg" alt="Gewöhnlicher Wasserdost. Eupatorium cannabinum." />
-<img loading="lazy" src="2025-08-02-uetliberg-6.jpg" alt="Another viewpoint showingn the northern end of the lake reaching into Zürich." />
-<img loading="lazy" src="2025-08-02-uetliberg-7.jpg" alt="Looking along the Albis, the ridge going south. On the left, the long banana-shaped lake of Zürich points south." /></p>
-
-<p>The Alps remained hidden by the clouds.</p>
-
-<p><img loading="lazy" src="2025-08-02-uetliberg-8.jpg" alt="The weather cleared up and we could see the Reppisch valley, and off to the right, the Knonaueramt." />
-<img loading="lazy" src="2025-08-02-uetliberg-9.jpg" alt="Wald Engelwurz. Angelica sylvestris." />
-<img loading="lazy" src="2025-08-02-uetliberg-10.jpg" alt="Behaarte Karde. Dipsacus pilosus." />
-<img loading="lazy" src="2025-08-02-uetliberg-11.jpg" alt="Jakobs-Greiskraut. Jacobaea vulgaris." /></p>
-
-<p>Plant identification via the app Flora Incognita.</p>
-
-<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-02-uetliberg>
-
----
-
-**@John's World Wide Wall Display** (date: 2025-08-02, from: John's World Wide Wall Display)
-
-@manton is offering free blog hosting for teachers &#38; nurses on micro.blog. Micro blog is fully featured, should be especially interesting to teachers who want to own the content they share on social media. Micro.blogs cross posting is peerless. Of course for Scot&#8217;s teachers I&#8217;d recommend Glow. 
-
-<br> 
-
-<https://johnjohnston.info/blog/free-micro-blogging-for-teacher-nurses/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
-
-A <a href="https://www.youtube.com/watch?v=Ikjmz_SlGhg">change</a> would do us good too. 
-
-<br> 
-
-<http://scripting.com/2025/08/02.html#a164129>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
-
-I got <a href="https://en.wikipedia.org/wiki/Hoist_with_his_own_petard">hoisted</a> with my own Picard. 
-
-<br> 
-
-<http://scripting.com/2025/08/02.html#a164023>
-
----
-
-## Ana Marie Cox on the Shaky Foundation of Substack as a Business
-
-date: 2025-08-02, updated: 2025-08-02, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://newsletter.anamariecox.com/archive/substack-did-not-see-that-coming/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-08-02, from: Dave Winer's Scripting News)
-
-I have a lot of <a href="https://github.com/scripting?tab=repositories">code</a> written before ChatGPT. Sometimes, as I read my old code, I wonder how the h*ck I ever figured that out without it. 
-
-<br> 
-
-<http://scripting.com/2025/08/02.html#a144740>
-
----
-
-## A fiscal recalibration
-
-date: 2025-08-02, from: Dave Rupert blog
-
-<p>After all our summer trips I buckled down last weekend and did some budgetting and I’ve realized I have to update the spreadsheet in my head. Here’s how much things cost in my outdated DaveBrain 2000 operating system:</p>
-<ul>
-<li>Fast food -$5/person = $20/family</li>
-<li>Snacks - $2.50/person = $10/family</li>
-</ul>
-<p>That –as my bank account is telling me– is super incorrect. The real numbers are much more like:</p>
-<ul>
-<li>Fast food - $12.50~$15/person = $50~$60/family</li>
-<li>Snacks  - $5~$7.50/person = $20~$30/family</li>
-</ul>
-<p>And groceries have gone up too. Woof. Hard times in the concrete jungle.</p>
-<p>We’re updating the database and cutting back on these obvious financial vampires. And we know when/why we tend to rely on them to get us through the week. So that’s good. But when you have kids –snack-reliant kids at that– introducing austerity measures like this is hard, because being a penny-pinching dick about money all the time probably isn’t good for them either.</p>
-<p>Don’t worry about me though. I’m lucky to have a great job and two kidneys, I’m sure I can sell one of them for a decent amount.</p>
-<p>Namaste.</p> 
-
-<br> 
-
-<https://daverupert.com/2025/08/back-in-my-day-a-movie-cost-five-cents/>
-
----
-
-## Substack Sends Notification Promoting Nazi Blog
-
-date: 2025-08-02, updated: 2025-08-02, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://arstechnica.com/tech-policy/2025/07/substacks-nazi-problem-wont-go-away-after-push-notification-apology/>
-
----
-
-## Getting Real With AI.
-
-date: 2025-08-02, from: Doc Searls (at Harvard), New Old Blog
-
-When I read that some conversations with ChatGPT had appeared in Google searches, I did a search for &#8220;Doc Searls&#8221; ChatGPT and got a long and not-bad but not entirely accurate AI summary below which normal-ish search results appeared. When I went back later to do the same search, the results were different. I tried [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/08/02/getting-real-with-ai/>
-
----
-
-## 
-                The X11 SECURITY extension from the 1990ies
-            
-
-date: 2025-08-02, updated: 2025-08-02, from: Uninformative blog
-
- 
-
-<br> 
-
-<https://www.uninformativ.de/blog/postings/2025-08-02/0/POSTING-en.html>
-
----
-
-## The Trumping of America | The Coffee Klatch for August 2, 2025
-
-date: 2025-08-02, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169892331/d0f3be28aaddc2a2e12d2a19144ad360.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/169892331/d0f3be28aaddc2a2e12d2a19144ad360.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-trumping-of-america-the-coffee>
-
----
-
-## August 1, 2025
-
-date: 2025-08-02, from: Heather Cox Richardson blog
-
-Economists have been expressing concern about the accuracy of economic statistics coming out of the Trump administration for months. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/august-1-2025>
-
----
-
-## Weeknotes: July 26-Aug 1, 2025
-
-date: 2025-08-02, from: Tracy Durnell Blog
-
-Win of the week: my Fitbit yelled at me to exercise more over the weekend so I took a two hour nap instead 😎 Looking forward to: planning to bake Smitten Kitchen&#8217;s strawberry cream biscuits this weekend 😋 Stuff I did: 1.5 hours consulting 1 hour business development and admin 6.25 hours writing made overnight sourdough [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/08/01/weeknotes-july-26-aug-1-2025/>
-
----
-
-## July 31, 2025
-
-date: 2025-08-02, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/169901893/48d20b1312484d04b35658e892bb0ac2.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/169901893/48d20b1312484d04b35658e892bb0ac2.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/july-31-2025-195>
 

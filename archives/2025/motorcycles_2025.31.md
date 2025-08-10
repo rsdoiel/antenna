@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-08-09 14:09:11
+updated: 2025-08-10 06:08:20
 ---
 
 # motorcycles
 
-(date: 2025-08-09 14:09:11)
+(date: 2025-08-10 06:08:20)
+
+---
+
+## Austin Hill The Center of Multiple Contacts at Watkins Glen
+
+date: 2025-08-10, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Austin Hill returned to Xfinity Series competition Saturday at Watkins Glen International and he left in the heat of controversy. Both incidents occurred while racing&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/austin-hill-the-center-of-multiple-contacts-at-watkins-glen/>
+
+---
+
+## PROJECT 91 Program ‘Not Dead’, Says Justin Marks
+
+date: 2025-08-09, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer For team owner Justin Marks, PROJECT 91 was a proven success when Shane van Gisbergen won the Chicago Street Race in the No. 91 Chevrolet&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/project-91-program-not-dead-says-justin-marks/>
+
+---
+
+## A Weed Control Company Drove an ATV Through a Stream, and Anglers Are Rightly Pissed
+
+date: 2025-08-09, from: Ride Apart, Electric Motorcycle News
+
+Fly fishermen were recently stunned to witness a Sherp ATV driving through one of Montana's prized trout rivers, and later found that the company operating the vehicle didn't have a permit to do so.  
+
+<br> 
+
+<https://www.rideapart.com/news/768464/sherp-atv-montana-stream-anglers-fish-trout-blackfoot-river/>
+
+---
+
+## Christopher Bell Drives Friesen No. 52 to Top 5 in Watkins Glen
+
+date: 2025-08-09, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Under unfortunate circumstances, Christopher Bell had a Craftsman Truck Series race added to his schedule last week. Following driver Stewart Friesen&#8217;s harrowing fireball crash at&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/christopher-bell-drives-friesen-no-52-to-top-5-in-watkins-glen/>
 
 ---
 
@@ -510,40 +558,4 @@ Photos by Jerry Jordan, Editor
 <br> 
 
 <https://kickinthetires.net/nascar/gallery-nascar-cup-series-at-iowa-speedway/>
-
----
-
-## GALLERY: NASCAR’s Xfinity Series Wows At Iowa Speedway
-
-date: 2025-08-02, from: Kickin the Tires blog
-
-Photos by Jerry Jordan, Editor 
-
-<br> 
-
-<https://kickinthetires.net/nascar/gallery-nascars-xfinity-series-wows-at-iowa-speedway/>
-
----
-
-## Brenden ‘Butterbean’ Queen wins Atlas 150 at Iowa
-
-date: 2025-08-02, from: Kickin the Tires blog
-
-NEWTON, Iowa (Aug. 1, 2025) – For one night, at least, Brenden Queen turned Iowa’s corn country into the new home of Bean Nation. In front of a tremendous crowd&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/brenden-butterbean-queen-wins-atlas-150-at-iowa/>
-
----
-
-## MotoGP Star Involved in Horrible High-Side Crash, Still Finishes Third
-
-date: 2025-08-02, from: Ride Apart, Electric Motorcycle News
-
-MotoGP rider, Jack Miller, was participating in the second qualifying session of the Suzuka 8 Hours race for Yamaha Racing Team when he suffered a horrible high-side. 
-
-<br> 
-
-<https://www.rideapart.com/news/767786/jack-miller-motogp-crash-suzuka-8-hours-highside/>
 

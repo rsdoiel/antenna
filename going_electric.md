@@ -1,11 +1,87 @@
 ---
 title: going electric
-updated: 2025-08-09 14:09:12
+updated: 2025-08-10 06:08:21
 ---
 
 # going electric
 
-(date: 2025-08-09 14:09:12)
+(date: 2025-08-10 06:08:21)
+
+---
+
+## BYD is coming with a ridiculous 3,000 hp electric supercar
+
+date: 2025-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/YD-Yangwang-U9-track-edition-hero.png?w=1600" /></div><p>New filings have revealed that BYD is about to release a ridiculous 3,000 hp electric supercar: the Yangwang U9 Track Edition.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,yangwang-u9" data-layer-viewtype="unknown" data-post-id="429100" href="https://electrek.co/2025/08/09/byd-ridiculous-3000-hp-electric-supercar/#more-429100" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/09/byd-ridiculous-3000-hp-electric-supercar/>
+
+---
+
+## Want To Fast Charge In A Remote Area? Here's The Trailer You Need
+
+date: 2025-08-09, from: Inside EVs News
+
+This battery bank on wheels may be the jerry can of the future.  
+
+<br> 
+
+<https://insideevs.com/news/768481/mobile-dc-fast-charging-trailer/>
+
+---
+
+## The Lynk & Co 900 Is A Comfortable, 845-Horsepower Hybrid Luxury Beast
+
+date: 2025-08-09, from: Inside EVs News
+
+This Range-Rover-like big SUV starts at as little as $42,500. 
+
+<br> 
+
+<https://insideevs.com/news/768499/lynkco-review-video-china-drive/>
+
+---
+
+## I bought a 30 MPH electric jet boat from China. Here’s what showed up
+
+date: 2025-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/jet-boat-compiled.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Yep, I did it again. I bought something weird and crazy from China. It’s a mini electric jet boat. “What’s a mini electric jet boat?” you might be asking. Think: comically small one-seater boat with an electrically powered jet ski drivetrain. </p>
+
+
+
+<p>Basically, I plopped down a not insignificant amount of money online and then crossed my fingers. Here’s what happened next.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,electric-boat" data-layer-viewtype="unknown" data-post-id="429067" href="https://electrek.co/2025/08/09/i-bought-a-30-mph-electric-jet-boat-from-china-heres-what-showed-up/#more-429067" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/09/i-bought-a-30-mph-electric-jet-boat-from-china-heres-what-showed-up/>
+
+---
+
+## Here are all the EVs you can still lease for under $300 a month in August
+
+date: 2025-08-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With just under two months until the $7,500 federal tax credit for <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> expires, automakers are pushing the savings. We’ve put together a list of all the EVs you can still lease for under $300 a month in August.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease" data-layer-viewtype="unknown" data-post-id="428392" href="https://electrek.co/2025/08/09/evs-you-can-lease-for-under-300-a-month-in-august/#more-428392" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/09/evs-you-can-lease-for-under-300-a-month-in-august/>
 
 ---
 
@@ -1788,36 +1864,4 @@ date: 2025-08-03, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/08/02/evgo-set-to-borrow-up-to-a-300-million-to-build-1500-new-dc-fast-chargers/>
-
----
-
-## The Tesla Diner has been open for 12 days and it’s going kinda rough so far
-
-date: 2025-08-02, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/tesla-diner-nazi-salute-inflatable.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla opened its retro-futuristic “<a href="https://electrek.co/guides/tesla-diner/">Tesla Diner</a>” last Monday, July 21st. It’s a <a href="https://electrek.co/2025/07/15/retro-futuristic-diner-supercharger-is-here-looks-sick/">cool concept</a> and the realization of a plan that was <a href="https://electrek.co/2018/01/07/elon-musk-tesla-retro-drive-in-restaurant-supercharger/">first talked about in 2018</a>… but in the 12 days since it opened, it hasn’t been all roses so far.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla-diner" data-layer-viewtype="unknown" data-post-id="427828" href="https://electrek.co/2025/08/02/the-tesla-diner-has-been-open-for-12-days-and-its-going-kinda-rough-so-far/#more-427828" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/08/02/the-tesla-diner-has-been-open-for-12-days-and-its-going-kinda-rough-so-far/>
-
----
-
-## This 50% recycled glass solar panel performs like brand new
-
-date: 2025-08-02, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/SolarCycle-ASU.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Solar panel recycler SOLARCYCLE and Arizona State University just proved that solar panels made with recycled glass work just as well as new ones.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="arizona,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="427864" href="https://electrek.co/2025/08/01/50-percent-recycled-glass-solar-panel-performs-like-brand-new/#more-427864" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/08/01/50-percent-recycled-glass-solar-panel-performs-like-brand-new/>
 

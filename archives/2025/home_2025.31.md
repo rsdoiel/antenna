@@ -1,11 +1,261 @@
 ---
 title: home
-updated: 2025-08-09 14:09:10
+updated: 2025-08-10 06:08:19
 ---
 
 # home
 
-(date: 2025-08-09 14:09:10)
+(date: 2025-08-10 06:08:19)
+
+---
+
+## 44 Common Birds in Missouri (With Pictures and Identification)
+
+date: 2025-08-10, from: Yard Life blog
+
+<p>Have you ever wondered which birds are the most common in Missouri? Whether you’re a beginner birdwatcher or just curious, ... </p>
+<p class="read-more-container"><a title="44 Common Birds in Missouri (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/44-common-birds-in-missouri-with-pictures-and-identification/#more-33553" aria-label="Read more about 44 Common Birds in Missouri (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/44-common-birds-in-missouri-with-pictures-and-identification/">44 Common Birds in Missouri (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/44-common-birds-in-missouri-with-pictures-and-identification/>
+
+---
+
+## 6 Types of Falcons in Michigan (With Pictures and Identification)
+
+date: 2025-08-10, from: Yard Life blog
+
+<p>Falcons are some of the most awe-inspiring birds of prey found across Michigan. Known for their incredible speed, sharp eyesight, ... </p>
+<p class="read-more-container"><a title="6 Types of Falcons in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-types-of-falcons-in-michigan-with-pictures-and-identification/#more-33548" aria-label="Read more about 6 Types of Falcons in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/6-types-of-falcons-in-michigan-with-pictures-and-identification/">6 Types of Falcons in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/6-types-of-falcons-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 2 Types of Blue Jays in California (With Pictures and Identification)
+
+date: 2025-08-10, from: Yard Life blog
+
+<p>Blue jays are among the most recognizable and charismatic birds in North America, famous for their vibrant blue feathers and ... </p>
+<p class="read-more-container"><a title="2 Types of Blue Jays in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-blue-jays-in-california-with-pictures-and-identification/#more-33541" aria-label="Read more about 2 Types of Blue Jays in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-blue-jays-in-california-with-pictures-and-identification/">2 Types of Blue Jays in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-blue-jays-in-california-with-pictures-and-identification/>
+
+---
+
+## 13 Types of Tarantulas in California (Pictures and Identification)
+
+date: 2025-08-10, from: Yard Life blog
+
+<p>Have you ever seen a tarantula in California? These large, hairy spiders can surprise many people when spotted in the ... </p>
+<p class="read-more-container"><a title="13 Types of Tarantulas in California (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-types-of-tarantulas-in-california-pictures-and-identification/#more-33529" aria-label="Read more about 13 Types of Tarantulas in California (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-types-of-tarantulas-in-california-pictures-and-identification/">13 Types of Tarantulas in California (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-types-of-tarantulas-in-california-pictures-and-identification/>
+
+---
+
+## The Raging Megafire in One of the National Parks Has Grown to the Largest in the Country
+
+date: 2025-08-09, from: Sunset Magazine - Living in the West
+
+The Dragon Bravo Fire has continued to grow, and is contained at only 13%. It has burned down a National Historic Landmark, a historic lodge. 
+
+<br> 
+
+<https://www.sunset.com/travel/grand-canyon-dragon-bravo-fire>
+
+---
+
+## These Historic Homes and Buildings Were Destroyed in the L.A. Wildfires
+
+date: 2025-08-09, from: Sunset Magazine - Living in the West
+
+The devastating L.A. wildfires have destroyed thousands of homes, schools, businesses, and structures, including historic buildings. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/historic-la-homes-wildfires>
+
+---
+
+## Raging Wildfires in Grand Canyon National Park Destroy Historic Lodge
+
+date: 2025-08-09, from: Sunset Magazine - Living in the West
+
+The two wildfires burning at or near the Grand Canyon's National Park North Rim have consumed thousands of acres and a historic lodge. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/grand-canyon-lodge-wildfires>
+
+---
+
+## Fire Season Is Now Year-Round. Here’s How to Protect Your Home with a Safer Garden.
+
+date: 2025-08-09, from: Sunset Magazine - Living in the West
+
+Here's everything you need to know about firescaping and fire defensive landscapes to protect yourself from wildfires. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/firescaping-fire-defensive-tips>
+
+---
+
+## How to Plant and Grow Romanesco Broccoli
+
+date: 2025-08-09, from: The Gardener's Path
+
+<p>If you’re fascinated by Romanesco broccoli, you might be surprised to find that it’s totally doable to grow your own at home. In addition to its mathematically precise yet artistic look, this brassica has a nutty flavor that’s even better when homegrown. Learn how to plant and grow Romanesco in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-romanesco-broccoli/">How to Plant and Grow Romanesco Broccoli</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-romanesco-broccoli/>
+
+---
+
+## Want Limited-Edition Gear? Visit the Sunset Shop!
+
+date: 2025-08-09, from: Sunset Magazine - Living in the West
+
+Whether you’re looking for a gift, in need of kitchen and home gear, or want to show your love for Sunset, the Sunset Shop has got it. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/sunset-shop>
+
+---
+
+## The Shockingly Sweet Detail That’s Ruling Interiors Right Now
+
+date: 2025-08-09, from: Sunset Magazine - Living in the West
+
+Goodbye, sleek lines. Right now, designers are thinking outside of the box with the scallop design trend in interiors. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/scallop-design-trend>
+
+---
+
+## 8 Types of Wrens in Ohio (With Pictures and Identification)
+
+date: 2025-08-09, from: Yard Life blog
+
+<p>Ohio’s natural beauty is enriched by the presence of many small, energetic birds known as wrens. These tiny songsters bring ... </p>
+<p class="read-more-container"><a title="8 Types of Wrens in Ohio (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-types-of-wrens-in-ohio-with-pictures-and-identification/#more-33523" aria-label="Read more about 8 Types of Wrens in Ohio (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-types-of-wrens-in-ohio-with-pictures-and-identification/">8 Types of Wrens in Ohio (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-types-of-wrens-in-ohio-with-pictures-and-identification/>
+
+---
+
+## 10 Types of Flycatchers in Texas (With Pictures and Identification)
+
+date: 2025-08-09, from: Yard Life blog
+
+<p>Across Texas’s varied environments, flycatchers add vibrant life and unique behaviors to the bird community. These skilled insect hunters are ... </p>
+<p class="read-more-container"><a title="10 Types of Flycatchers in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-types-of-flycatchers-in-texas-with-pictures-and-identification/#more-33514" aria-label="Read more about 10 Types of Flycatchers in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-flycatchers-in-texas-with-pictures-and-identification/">10 Types of Flycatchers in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-types-of-flycatchers-in-texas-with-pictures-and-identification/>
+
+---
+
+## Why Are Some Street Lights Turning Purple? The Surprising Reason Explained
+
+date: 2025-08-09, from: Family Handyman Blog
+
+<p>Purple street lights have been popping up across the country and although they may be pretty to look at, they are actually a sign of a deeper problem.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/purple-steet-lights/">Why Are Some Street Lights Turning Purple? The Surprising Reason Explained</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/purple-steet-lights/>
+
+---
+
+## 2 Types of Cranes in Florida (With Pictures and Identification)
+
+date: 2025-08-09, from: Yard Life blog
+
+<p>Cranes are among the most iconic and graceful birds in Florida’s natural landscape. Known for their long legs, elegant necks, ... </p>
+<p class="read-more-container"><a title="2 Types of Cranes in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-cranes-in-florida-with-pictures-and-identification/#more-33507" aria-label="Read more about 2 Types of Cranes in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-cranes-in-florida-with-pictures-and-identification/">2 Types of Cranes in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-cranes-in-florida-with-pictures-and-identification/>
+
+---
+
+## 4 Types of Grouse in Colorado (With Pictures and Identification)
+
+date: 2025-08-09, from: Yard Life blog
+
+<p>Colorado is home to a fascinating variety of wildlife, including several species of grouse that thrive across its diverse landscapes. ... </p>
+<p class="read-more-container"><a title="4 Types of Grouse in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-grouse-in-colorado-with-pictures-and-identification/#more-33497" aria-label="Read more about 4 Types of Grouse in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-grouse-in-colorado-with-pictures-and-identification/">4 Types of Grouse in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-grouse-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 3 Types of Skunks in Michigan (With Pictures and Identification)
+
+date: 2025-08-09, from: Yard Life blog
+
+<p>Michigan is home to a variety of wildlife, and among its most recognizable mammals are skunks. Known for their iconic ... </p>
+<p class="read-more-container"><a title="3 Types of Skunks in Michigan (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-skunks-in-michigan-with-pictures-and-identification/#more-33490" aria-label="Read more about 3 Types of Skunks in Michigan (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-skunks-in-michigan-with-pictures-and-identification/">3 Types of Skunks in Michigan (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-skunks-in-michigan-with-pictures-and-identification/>
+
+---
+
+## 11 Types of Squirrels in Wisconsin (With Pictures and Identification)
+
+date: 2025-08-09, from: Yard Life blog
+
+<p>Squirrels in Wisconsin come in many species, each displaying distinct colors, sizes, and behaviors that reflect their unique adaptations. From ... </p>
+<p class="read-more-container"><a title="11 Types of Squirrels in Wisconsin (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/11-types-of-squirrels-in-wisconsin-with-pictures-and-identification/#more-33482" aria-label="Read more about 11 Types of Squirrels in Wisconsin (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/11-types-of-squirrels-in-wisconsin-with-pictures-and-identification/">11 Types of Squirrels in Wisconsin (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/11-types-of-squirrels-in-wisconsin-with-pictures-and-identification/>
 
 ---
 
@@ -733,18 +983,6 @@ The architect and professor is reviving his family’s Colorado property, from i
 <br> 
 
 <https://www.dwell.com/article/ronald-rael-future-of-adobe-home-building-3d-printed-homes-fdf94b70>
-
----
-
-## Want Limited-Edition Gear? Visit the Sunset Shop!
-
-date: 2025-08-06, from: Sunset Magazine - Living in the West
-
-Whether you’re looking for a gift, in need of kitchen and home gear, or want to show your love for Sunset, the Sunset Shop has got it. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/sunset-shop>
 
 ---
 
@@ -1476,18 +1714,6 @@ The meticulously maintained Bel Air home is a midcentury time capsule that still
 
 ---
 
-## The Raging Megafire in One of the National Parks Has Grown to the Largest in the Country
-
-date: 2025-08-04, from: Sunset Magazine - Living in the West
-
-The Dragon Bravo Fire has continued to grow, and is contained at only 13%. It has burned down a National Historic Landmark, a historic lodge. 
-
-<br> 
-
-<https://www.sunset.com/travel/grand-canyon-dragon-bravo-fire>
-
----
-
 ## National Parks
 
 date: 2025-08-04, from: Sunset Magazine - Living in the West
@@ -1886,182 +2112,4 @@ date: 2025-08-03, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/are-there-squirrels-in-hawaii-facts-you-didnt-expect/>
-
----
-
-## 17 Awesome Amaryllis Varieties to Grow Indoors or Out
-
-date: 2025-08-02, from: The Gardener's Path
-
-<p>Bright red or striped amaryllis are ideal for holiday decor and giving as gifts. But did you know there are lots of other great types of amaryllis, too? From double-blossoms, to extra large blooms, to those that resemble orchids. Discover 17 of the best amaryllis varieties and choose your favorites. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/best-amaryllis-varieties/">17 Awesome Amaryllis Varieties to Grow Indoors or Out</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/best-amaryllis-varieties/>
-
----
-
-## Do Mountain Lions in Colorado Hunt Alone or in Groups
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Mountain lions, also known as cougars or pumas, are among the most elusive and fascinating predators of the American West. ... </p>
-<p class="read-more-container"><a title="Do Mountain Lions in Colorado Hunt Alone or in Groups" class="read-more button" href="https://ownyardlife.com/do-mountain-lions-in-colorado-hunt-alone-or-in-groups/#more-32970" aria-label="Read more about Do Mountain Lions in Colorado Hunt Alone or in Groups">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/do-mountain-lions-in-colorado-hunt-alone-or-in-groups/">Do Mountain Lions in Colorado Hunt Alone or in Groups</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/do-mountain-lions-in-colorado-hunt-alone-or-in-groups/>
-
----
-
-## What You Didn’t Know About Giant Alligators in Florida
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Florida is famous for its unique wetlands, swamps, and freshwater ecosystems, all home to one of the most awe-inspiring reptiles ... </p>
-<p class="read-more-container"><a title="What You Didn’t Know About Giant Alligators in Florida" class="read-more button" href="https://ownyardlife.com/what-you-didnt-know-about-giant-alligators-in-florida/#more-32964" aria-label="Read more about What You Didn’t Know About Giant Alligators in Florida">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/what-you-didnt-know-about-giant-alligators-in-florida/">What You Didn’t Know About Giant Alligators in Florida</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/what-you-didnt-know-about-giant-alligators-in-florida/>
-
----
-
-## The Secret Lives of Falcons in Texas: Migration, Hunting, and More
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Falcons have long fascinated bird enthusiasts and nature lovers alike. Their speed, precision, and striking appearance make them one of ... </p>
-<p class="read-more-container"><a title="The Secret Lives of Falcons in Texas: Migration, Hunting, and More" class="read-more button" href="https://ownyardlife.com/the-secret-lives-of-falcons-in-texas-migration-hunting-and-more/#more-32958" aria-label="Read more about The Secret Lives of Falcons in Texas: Migration, Hunting, and More">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/the-secret-lives-of-falcons-in-texas-migration-hunting-and-more/">The Secret Lives of Falcons in Texas: Migration, Hunting, and More</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/the-secret-lives-of-falcons-in-texas-migration-hunting-and-more/>
-
----
-
-## The Hidden Secrets of Badgers in Michigan You Didn’t Know About
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Michigan’s wilderness holds a variety of fascinating creatures, but few have stirred as much curiosity in recent years as the ... </p>
-<p class="read-more-container"><a title="The Hidden Secrets of Badgers in Michigan You Didn’t Know About" class="read-more button" href="https://ownyardlife.com/the-hidden-secrets-of-badgers-in-michigan-you-didnt-know-about/#more-32951" aria-label="Read more about The Hidden Secrets of Badgers in Michigan You Didn’t Know About">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/the-hidden-secrets-of-badgers-in-michigan-you-didnt-know-about/">The Hidden Secrets of Badgers in Michigan You Didn’t Know About</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/the-hidden-secrets-of-badgers-in-michigan-you-didnt-know-about/>
-
----
-
-## 6 Species of Falcons in Virginia (With Pictures and Identification)
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Virginia offers a rich variety of natural environments, from coastal marshes and rolling farmland to forest edges and cityscapes. These ... </p>
-<p class="read-more-container"><a title="6 Species of Falcons in Virginia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/6-species-of-falcons-in-virginia-with-pictures-and-identification/#more-32946" aria-label="Read more about 6 Species of Falcons in Virginia (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/6-species-of-falcons-in-virginia-with-pictures-and-identification/">6 Species of Falcons in Virginia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/6-species-of-falcons-in-virginia-with-pictures-and-identification/>
-
----
-
-## 23 Species of Lizards in Utah (With Pictures and Identification)
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Utah’s varied landscapes, ranging from scorching deserts to cool mountain woodlands, are home to an impressive variety of lizard species. ... </p>
-<p class="read-more-container"><a title="23 Species of Lizards in Utah (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-species-of-lizards-in-utah-with-pictures-and-identification/#more-32933" aria-label="Read more about 23 Species of Lizards in Utah (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/23-species-of-lizards-in-utah-with-pictures-and-identification/">23 Species of Lizards in Utah (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/23-species-of-lizards-in-utah-with-pictures-and-identification/>
-
----
-
-## 38 Common Birds in Illinois (With Pictures and Identification)
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Illinois boasts a rich and diverse bird population that reflects its variety of habitats—from dense woodlands and open prairies to ... </p>
-<p class="read-more-container"><a title="38 Common Birds in Illinois (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/38-common-birds-in-illinois-with-pictures-and-identification/#more-32926" aria-label="Read more about 38 Common Birds in Illinois (With Pictures and Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/38-common-birds-in-illinois-with-pictures-and-identification/">38 Common Birds in Illinois (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/38-common-birds-in-illinois-with-pictures-and-identification/>
-
----
-
-## The Unknown World of Snowshoe Hares in Alaska’s Wilderness
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>In the heart of Alaska’s rugged backcountry, where snow blankets the ground for much of the year and towering spruces ... </p>
-<p class="read-more-container"><a title="The Unknown World of Snowshoe Hares in Alaska’s Wilderness" class="read-more button" href="https://ownyardlife.com/the-unknown-world-of-snowshoe-hares-in-alaskas-wilderness/#more-32920" aria-label="Read more about The Unknown World of Snowshoe Hares in Alaska’s Wilderness">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/the-unknown-world-of-snowshoe-hares-in-alaskas-wilderness/">The Unknown World of Snowshoe Hares in Alaska’s Wilderness</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/the-unknown-world-of-snowshoe-hares-in-alaskas-wilderness/>
-
----
-
-## Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>Hidden beneath the golden waves of Oklahoma’s expansive grasslands lies a creature that strikes both fear and fascination into the ... </p>
-<p class="read-more-container"><a title="Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands" class="read-more button" href="https://ownyardlife.com/uncover-the-truth-about-rattlesnakes-in-oklahomas-grasslands/#more-32914" aria-label="Read more about Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/uncover-the-truth-about-rattlesnakes-in-oklahomas-grasslands/">Uncover the Truth About Rattlesnakes in Oklahoma’s Grasslands</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/uncover-the-truth-about-rattlesnakes-in-oklahomas-grasslands/>
-
----
-
-## Discover the Strange Night Habits of Bats in Washington State
-
-date: 2025-08-02, from: Yard Life blog
-
-<p>As the sun dips below the horizon in Washington State, a different world comes alive—a world filled with quiet rustles, ... </p>
-<p class="read-more-container"><a title="Discover the Strange Night Habits of Bats in Washington State" class="read-more button" href="https://ownyardlife.com/discover-the-strange-night-habits-of-bats-in-washington-state/#more-32906" aria-label="Read more about Discover the Strange Night Habits of Bats in Washington State">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/discover-the-strange-night-habits-of-bats-in-washington-state/">Discover the Strange Night Habits of Bats in Washington State</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/discover-the-strange-night-habits-of-bats-in-washington-state/>
-
----
-
-## July in Jacques’ garden
-
-date: 2025-08-02, from: Greg Alder's blog, Yard Post
-
-<p>What is to eat in July in Jacques&#8217; rich food garden in Southern California? Apples, pears, and nectarines. More apples, peaches, and goji berries. Cape gooseberries? What are those? You must join me for a tour and some tasting, plus a tip on how to trap green fruit beetles: More about Ghost apple: Dave Wilson [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/july-in-jacques-garden/">July in Jacques&#8217; garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/july-in-jacques-garden/>
 

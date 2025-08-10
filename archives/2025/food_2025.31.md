@@ -1,11 +1,65 @@
 ---
 title: food
-updated: 2025-08-09 14:09:13
+updated: 2025-08-10 06:08:21
 ---
 
 # food
 
-(date: 2025-08-09 14:09:13)
+(date: 2025-08-10 06:08:21)
+
+---
+
+## This Is the Best Fast-Food Burger in America, and I Had Never Even Heard of It
+
+date: 2025-08-10, from: Taste of Home
+
+<p>The results are surprising!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-fast-food-burger-america-2025/">This Is the Best Fast-Food Burger in America, and I Had Never Even Heard of It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-fast-food-burger-america-2025/>
+
+---
+
+## Ceci N’est Pas Un Village De Torréfacteur
+
+date: 2025-08-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.  
+
+<br> 
+
+<https://sprudge.com/ceci-nest-pas-un-village-de-torrefacteur-389639.html>
+
+---
+
+## Meatless Mondays
+
+date: 2025-08-10, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/02/Meatless-Monday-Recipes.jpg"/></div>
+<p>The best vegetarian recipes for quick, easy and tasty meatless Mondays! Are you ready to try a Meatless Monday&#8217; The idea is to eat one meal a week without meat. Now don&#8217;t get me wrong I could never give up things like BACON, steaks, burgers, etc. but I do find that I eat a lot...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/meatless-mondays/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/meatless-mondays/">Meatless Mondays</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/meatless-mondays/>
+
+---
+
+## 9 Boquerones Recipes That’ll Change How You See Anchovies
+
+date: 2025-08-09, from: Bon Appetet
+
+These marinated Spanish anchovies will bring the tapas bar energy right into your kitchen. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/boquerones-marinated-white-anchovies-recipes-ideas>
 
 ---
 
@@ -1106,16 +1160,4 @@ date: 2025-08-03, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/grilled-meat-on-stick/>
-
----
-
-## Here For Gear: Everybody Wants To Brew The World
-
-date: 2025-08-02, from: The Sprudge
-
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A bi-weekly curated selection of coffee gear from brands big and small. 
-
-<br> 
-
-<https://sprudge.com/here-for-gear-everybody-wants-to-brew-the-world-385755.html>
 

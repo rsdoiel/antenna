@@ -1,11 +1,47 @@
 ---
 title: north america
-updated: 2025-08-09 14:09:02
+updated: 2025-08-10 06:08:13
 ---
 
 # north america
 
-(date: 2025-08-09 14:09:02)
+(date: 2025-08-10 06:08:13)
+
+---
+
+##  One security app to rule them all. 
+
+date: 2025-08-09, from: The Lever News
+
+ Secure your internet connection, armor your devices with real-time antivirus protection, monitor your data security, and much more with this great discount.  
+
+<br> 
+
+<https://www.levernews.com/one-security-app-to-rule-them-all/>
+
+---
+
+##  YOU LOVE TO SEE IT: Markets Closed (To Congress) 
+
+date: 2025-08-09, from: The Lever News
+
+ Lawmakers’ stock portfolios are on shaky ground, corporate polluters pay up, Meta loses on a very personal privacy trial, and states check up on doctor contracts.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-markets-closed-to-congress/>
+
+---
+
+## Texas Reps. Stand Up & Stand Tall
+
+date: 2025-08-09, from: The Contrarian
+
+Publisher's Roundup 30 
+
+<br> 
+
+<https://contrarian.substack.com/p/texas-reps-stand-up-and-stand-tall>
 
 ---
 
@@ -929,28 +965,4 @@ date: 2025-08-03, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-about-that-pre-bribe/>
-
----
-
-## Why Bove’s Bitter at You, Contrarians
-
-date: 2025-08-02, from: The Contrarian
-
-Publisher's Roundup 29 
-
-<br> 
-
-<https://contrarian.substack.com/p/why-boves-bitter-at-you-contrarians>
-
----
-
-##  YOU LOVE TO SEE IT: Dialing Up Prison Reform 
-
-date: 2025-08-02, from: The Lever News
-
- Prison calls get reformed, school’s back on, the Big Apple is electrified, and a humanitarian program is spared.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-dialing-up-prison-reform/>
 

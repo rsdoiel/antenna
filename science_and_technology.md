@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-08-09 14:09:05
+updated: 2025-08-10 06:08:16
 ---
 
 # science and technology
 
-(date: 2025-08-09 14:09:05)
+(date: 2025-08-10 06:08:16)
+
+---
+
+## DEF CON hackers plug security holes in US water systems amid tsunami of threats
+
+date: 2025-08-10, updated: 2025-08-10, from: The Register (UK I.T. News)
+
+<h4>Five pilot deployments are just a drop in the bucket, so it&#39;s time to turbo scale</h4> <p><strong>def con</strong>  A DEF CON hacker walks into a small-town water facility…no, this is not the setup for a joke or a (super-geeky) odd-couple rom-com. It&#39;s a true story that happened at five utilities across four states.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/10/def_con_hackers_water_security/>
+
+---
+
+## How OpenAI used a new data type to cut inference costs by 75%
+
+date: 2025-08-10, updated: 2025-08-10, from: The Register (UK I.T. News)
+
+<h4>Decision to use MXFP4 makes models smaller, faster, and more importantly, cheaper for everyone involved</h4> <p><strong>Analysis</strong>  Whether or not OpenAI&#39;s new open weights models are any good is still up for debate, but their use of a relatively new data type called MXFP4 is arguably more important, especially if it catches on among OpenAI&#39;s rivals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/10/openai_mxfp4/>
+
+---
+
+## NASA won't name the Shuttle picked to move to Texas
+
+date: 2025-08-10, updated: 2025-08-10, from: The Register (UK I.T. News)
+
+<h4>Acting Administrator has selected a lucky orbiter, but won&#39;t say which one</h4> <p>The NASA acting Administrator has picked a Space Shuttle to move to Houston, and the lucky vehicle is... NASA&#39;s not telling.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/10/nasa_wont_name_the_shuttle/>
+
+---
+
+## The inside story of the Telemessage saga, and how you can view the data
+
+date: 2025-08-10, updated: 2025-08-10, from: The Register (UK I.T. News)
+
+<h4>It turns out no one was clean on OPSEC</h4> <p><strong>DEF CON</strong>  On Saturday at DEF CON, security boffin Micah Lee explained just how he hacked into TeleMessage, the supposedly secure messaging app used by White House officials, which in turn led to a massive database dump of their communications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/10/telemessage_archive_online/>
+
+---
+
+## Debian 13 released
+
+date: 2025-08-09, from: OS News
+
+Debian has released its latest version, Debian 13 &#8220;trixie&#8221;. This release contains over 14,100 new packages for a total count of 69,830 packages, while over 8,840 packages have been removed as obsolete. 44,326 packages were updated in this release. The overall disk usage for trixie is 403,854,660 kB (403 GB), and is made up of 1,463,291,186 lines of code. ↫ Debian 13 release announcement I&#8217;m never quite sure what to say about new Debian releases, as Debian isn&#8217;t exactly the kind of distribution to make massive, sweeping changes or introduce brand new technologies before anyone else. That being said, Debian is a massively important cornerstone of the Linux world, forming the base for many of the most popular Linux distributions. At some point, you&#8217;re going to deal with Debian 13. 
+
+<br> 
+
+<https://www.osnews.com/story/143023/debian-13-released/>
+
+---
+
+## AOL announces it’s ending its dial-up internet service
+
+date: 2025-08-09, from: OS News
+
+AOL routinely evaluates its products and services and has decided to discontinue Dial-up Internet. This service will no longer be available in AOL plans. As a result, on September 30, 2025 this service and the associated software, the AOL Dialer software and AOL Shield browser, which are optimized for older operating systems and dial-up internet connections, will be discontinued. ↫ AOL support document I&#8217;ve seen a few publications writing derisively about this, surprised dial-up internet is still a thing, but I think that&#8217;s misguided and definitely a bit elitist. In a country as large as the United States, there&#8217;s bound to be quite a few very remote and isolated places where dial-up might be the best or even only option to get online. On top of that, I&#8217;m sure there are people out there who use the internet so sparingly that dial-up may suit their needs just fine. I genuinely hope this move by AOL doesn&#8217;t cut a bunch of people off of the internet without any recourse, especially if it involves, say, isolated and lonely seniors to whom such changes may be too difficult to handle. Access to the internet is quite crucial in the modern world, and we shouldn&#8217;t be ridiculing people just because they don&#8217;t have access to super high-speed broadband. 
+
+<br> 
+
+<https://www.osnews.com/story/143021/aol-announces-its-ending-its-dial-up-internet-service/>
+
+---
+
+## NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California
+
+date: 2025-08-09, from: NASA breaking news
+
+Editor&#8217;s Note: This release was edited Aug. 9, 2025, to update the International Space Station docking port for the Crew-10 mission. The first crew to splash down in the Pacific Ocean off the coast of California as part of NASA’s Commercial Crew Program completed the agency’s 10th commercial crew rotation mission to the International Space Station [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-10-mission-returns-splashes-down-off-california/>
+
+---
+
+## Windows Settings and Control Panel: 13 years and counting
+
+date: 2025-08-09, from: OS News
+
+Remember the old Windows Control Panel? It&#8217;s still there, in your up-to-date Windows 11 installation, as a number of settings still cannot be changed in the &#8220;new&#8221; Settings application. In the latest Insider Preview for Windows 11 in the Dev Channel, Microsoft moved another long list of settings from the Control Panel to Settings. The focus is very much on time and language this time around. A whole slew of more niche features related to the clock, such as adding additional clocks to the Notification Center or changing your time synchronisation server, can now be done in Settings. Format settings for time and date have also been moved into Settings, which is a welcome change for anyone dealing with mysterious cases where Windows somehow insists on using anything but the sane 24-hour clock. As for language settings, things like enabling Unicode UTF-8 support is now available in Settings as well, and you can now copy existing language and regions settings from one user to another, and to the welcome screen. Lastly, keyboard settings like the character repeat/delay rate and blink rates are now also in Settings. It&#8217;s absolutely wild to me that Windows still has two separate places to change settings, and that countless settings dialogs still look like they came straight from Windows 95. It&#8217;s a reply fractured user experience, and one that&#8217;s been in place since the release of Settings in Windows 8, 13 years ago. The curve Windows is graded on compared to its competitors has basically become a circle. People write entire treatises about how Linux is not ready for the desktop because of some entirely arbitrary and nebulous reasons, while at the same time Windows users are served a hodgepodge of 30 years of random cruft without anyone even so much as raising an eyebrow. I&#8217;ve long argued that if you truly take a step back and look at the landscape of desktop operating systems today, and you were to apply the same standards to all of them, there&#8217;s no chance in hell Windows can be considered &#8220;ready for the desktop&#8221;. The fact Windows has had two competing settings applications 13 years now with no end in sight is just one facet of that conclusion, but definitely an emblematic one. 
+
+<br> 
+
+<https://www.osnews.com/story/143018/windows-settings-and-control-panel-13-years-and-counting/>
+
+---
+
+## The dead need right to delete their data so they can't be AI-ified, lawyer says
+
+date: 2025-08-09, updated: 2025-08-09, from: The Register (UK I.T. News)
+
+<h4>Not everyone wants to be simulated after they&#39;re gone</h4> <p>People die but their data may endure, which troubles legal scholar Victoria Haneman.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/09/dead_need_ai_data_delete_right/>
+
+---
+
+## LVFS to nudge large corporations to fund and contribute to the project
+
+date: 2025-08-09, from: OS News
+
+The Linux Vendor Firmware Service (LVFS), which provides device makers and OEMs with the infrastructure to upload and distribute firmware files to Linux users, as well as support during this process, is taking bold steps to ensure large companies contribute to the project. LVFS is the infrastructure behind fwupd, the tool users actually use to download and install firmware updates. While Richard Hughes, the maintainer of LVFS, is employed by Red Hat to work on the project, and the Linux Foundation provides the hosting costs, there&#8217;s just not enough people and resources dedicated to the project. They&#8217;re going to take measures to address this. This year there will be a fair-use quota introduced, with different sponsorship levels having a different quota allowance. Nothing currently happens if the quota is exceeded, although there will be additional warnings asking the vendor to contribute. The “associate” (free) quota is also generous, with 50,000 monthly downloads and 50 monthly uploads. This means that almost all the 140 vendors on the LVFS should expect no changes. Vendors providing millions of firmware files to end users (and deriving tremendous value from the LVFS…) should really either be providing a developer to help write shared code, design abstractions and review patches (like AMD does) or allocate some funding so that we can pay for resources to take action for them. So far no OEMs provide any financial help for the infrastructure itself, although two have recently offered — and we’re now in a position to “say yes” to the offers of help. ↫ Richard Hughes In other words, functionality is going to be reduced for vendors who make extensive use of LVFS, but who don&#8217;t provide any financial or development support. I think this is an excellent incentive to get corporations who effectively freeload off a free infrastructure without providing anything in return to step up. It seems the measures are explicitly designed to target only the very few major users of LVFS, leaving the smaller companies unaffected. Funding in open source is a major issue, and as open source becomes ever more popular and used by more and more large companies with excessive amounts of revenue, the strain on maintainers and developers is going to keep increasing. I&#8217;m entirely on board with efforts to encourage funding and contributions, as long as they fall within the confines of the terms of the open source licenses in use. 
+
+<br> 
+
+<https://www.osnews.com/story/143014/lvfs-to-nudge-large-corporations-to-fund-and-contribute-to-the-project/>
+
+---
+
+## The International Obfuscated C Code Contest is back for 2024
+
+date: 2025-08-09, updated: 2025-08-09, from: The Register (UK I.T. News)
+
+<h4>Yes, 2024 – the prizes in the 40th anniversary edition prizes were just awarded</h4> <p>The IOCCC, as it&#39;s familiarly known, is back after a four-year gap, giving the entrants more time to come up with some remarkably devious code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/09/ioccc_2024/>
+
+---
+
+## UK unveils plans to 'transform' the consumer smart meter experience
+
+date: 2025-08-09, updated: 2025-08-09, from: The Register (UK I.T. News)
+
+<h4>Does 40 quid from the supplier sound all right for waiting over 6 weeks for a fix?</h4> <p>The Department for Energy Security and Net Zero plans &#34;tough new obligations&#34; for energy suppliers to boost the long-delayed and heavily over-budget UK rollout of smart meters, while promising better support for those who have already received such a device.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/09/smart_meter_policy/>
 
 ---
 
@@ -467,7 +611,7 @@ In 2022, Google launched a major push for gaming Chromebooks, including a versio
 
 ## Why blow up satellites when you can just hack them?
 
-date: 2025-08-07, updated: 2025-08-07, from: The Register (UK I.T. News)
+date: 2025-08-07, updated: 2025-08-09, from: The Register (UK I.T. News)
 
 <h4>A pair of German researchers showed how easy it is</h4> <p><strong>Black Hat</strong>  Four countries have now tested anti-satellite missiles (the US, China, Russia, and India), but it&#39;s much easier and cheaper just to hack them.…</p> 
 
@@ -2526,76 +2670,4 @@ date: 2025-08-03, updated: 2025-08-03, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/08/03/capacity_planning_concern_datacenter_ops/>
-
----
-
-## The X11 SECURITY extension from the 1990s
-
-date: 2025-08-02, from: OS News
-
-Security isn&#8217;t exactly a strong point of X11, and improving it is one of the main reasons why Wayland is such a vast improvement over X11. Just one of the many examples of X11 being inherently insecure is that keyloggers are entirely trivial on X11, because keylogger functionality is effectively built into it. Of course, this isn&#8217;t exactly news, and as Peter Hofmann details, there is an old X11 extension that adds somewhat rudimentary security to X11: the X11 SECURITY extension. This extension is part of every X.org installation, but it hasn&#8217;t seen any meaningful work in a long, long time. What it does is allow you to do is set X11 clients as &#8220;trusted&#8221; and &#8220;untrusted&#8221;, where untrusted clients cannot interact with tusted ones. This provides some basic security &#8211; it actually prevents keylogging! &#8211; but only very basic, as Hoffman notes: The thing is that it&#8217;s immediately clear that this extension &#8212;&#160;in its current state&#160;&#8212; is not the answer to &#8220;X11 is insecure&#8221;: You only have two classes, trusted and untrusted. That&#8217;s not enough. For example: When you run your browser as untrusted, you can&#8217;t simultaneously run some sandboxed program (Snap, Flatpak, &#8230;)&#160;in a meaningful way, because those two clients can spy on each other again. You want a proper per-client isolation instead. Sandboxing plays an important role here. If you run programs &#8220;the traditional way&#8221; (i.e., full access to the filesystem and network), then an attacker can do all kinds of things and X11 keylogging is just one of a million concerns. ↫ Peter Hofmann but it also happens to break a lot of things, and many applications simply don&#8217;t work with it at all. Oddly enough, Firefox has no issues with it, and will happily run in untrusted mode. The biggest problem, however, is that untrusted clients only have access to exactly two other X11 extensions, which leads to a whole host of problems, like no scaling, broken keyboard layouts, no 3D acceleration, and so on. On top of all of that, it breaks clipboard functionality, as anything copied in an untrusted client cannot be pasted anywhere else. As such, Hoffman concludes: In its current state, I&#8217;d say the SECURITY extension is &#8220;somewhat useful&#8221;, but more work would have to be done. Both in X.Org and in the clients. You would have to come up with a new clipboard protocol, for example. And the list goes on. (See where I&#8217;m going with this?) It&#8217;s not that simple. ↫ Peter Hofmann Since pretty much nobody adopted it when this extension came out in the &#8217;90s, and it hasn&#8217;t seen much work since, the amount of work that would be required to bring it up to modern standards would be astronomical, and trying to get clients to adopt it would probably prove fruitless considering Wayland already exists, and offers all of the potential security benefits and then some. People often claim it would be &#8220;easy&#8221; to modernise X11, but just this one particular issue &#8211; security, kind of important &#8211; shows just how quickly the X11 house of cards comes crashing down if you try to do anything to drag it out of its &#8217;80s and &#8217;90s mindset. 
-
-<br> 
-
-<https://www.osnews.com/story/142962/the-x11-security-extension-from-the-1990s/>
-
----
-
-## PatchworkOS: a 64bit non-POSIX OS where everything is a file
-
-date: 2025-08-02, from: OS News
-
-Patchwork is a 64-bit monolithic NON-POSIX operating system for the x86_64 architecture that rigorously follows a &#8220;everything is a file&#8221; philosophy. Built from scratch in C it takes many ideas from Unix, Plan9, DOS and others while simplifying them and sprinkling in some new ideas of its own. ↫ PatchworkOS GitHub page Patchwork is a surprisingly advanced operating system considering it&#8217;s a hobby project. It has multithreading with a constant-time scheduler, fully preemptive mutitasking, SMP, file-based IPC (including pipes, shared memory, sockets and Plan9 inspired &#8220;signals&#8221; called notes), and much more. It also uses a Linux-style VFS and has a custom C standard library. On top of that, there&#8217;s a modular window manager that supports themes, in which everything is a window, and so much more. It supports x86_64, but only supports running in RAM. It&#8217;s licensed under the MIT license. 
-
-<br> 
-
-<https://www.osnews.com/story/142960/patchworkos-a-64bit-non-posix-os-where-everything-is-a-file/>
-
----
-
-## Vibe-coding your profession into irrelevance
-
-date: 2025-08-02, from: OS News
-
-Claude Code has considerably changed my relationship to writing and maintaining code at scale. I still write code at the same level of quality, but I feel like I have a new freedom of expression which is hard to fully articulate. Claude Code has decoupled myself from writing every line of code, I still consider myself fully responsible for everything I ship to Puzzmo, but the ability to instantly create a whole scene instead of going line by line, word by word is incredibly powerful. ↫ Orta Therox Oh sweet Summer child. As a former translator, I can tell you that&#8217;s how it starts. As time goes on, your clients or your manager will demand more and more code from you. You will stop checking every line to meet the deadlines. Maybe you just stop checking the boilerplate at first, but it won&#8217;t stay that way. As pressure to be more &#8220;productive&#8221; mounts, you&#8217;ll start checking fewer and fewer lines. Before you know it, your client or manager will just give you entire autogenerated swaths of code, and your job will be to just go over it, making sure it kind of works. Before long, you realise there are fewer and fewer of you. Younger and less-skilled &#8220;developers&#8221; can quickly go over autogenerated code just as well as you do &#8211; but they&#8217;re way cheaper. You see the quality of the code you sign off on deteriorate rapidly, but you have no time, and not enough pay, to rewrite the autogenerated code. It works, kind of, and that will have to be enough. The autogenerated codebases you&#8217;re supposed to be checking and fixing are so large now, you&#8217;re no longer even really checking anything anymore. Quick, cursory glances, that&#8217;s all you have time for and can afford. Documentation and commenting code went out the window a long time ago, and every line of code scrolling across your screen is more tech debt you don&#8217;t care about, because it&#8217;s not your code anyway. And then it hits you. There&#8217;s no skill here. There&#8217;s no art here. You&#8217;re no longer a programmer. There&#8217;s no career prospects. Scrolling past shitty autogenerated code day in, day out, without the time or pay to wrangle it into something to be proud of, is the end of the line for you. Speak up about it, and you&#8217;ll be replaced by someone cheaper. The first time I was given a massive pile of autotranslated text to revise, without enough time and pay to ensure I was delivering a quality product, I quit and left the translation industry instantly. Like programming, translating is part skill, part art, and I didn&#8217;t get two university degrees in language and translation just to deliver barely passable trash. I took pride in my work, and I wasn&#8217;t going to let anyone put my name under a garbage product. Programmers, you&#8217;re next. Will you have the stones to stand by your art? 
-
-<br> 
-
-<https://www.osnews.com/story/142956/vibe-coding-yourself-into-irrelevance/>
-
----
-
-## Long live the nub: ThinkPad designer David Hill spills secrets, designs that never made it
-
-date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T. News)
-
-<h4>We almost got more butterfly keyboards and foldable workstations</h4> <p><strong>Interview</strong>  Launched in 1992, the boxy black ThinkPad with its little red nub remains the quintessential business productivity notebook. Unlike commercial offerings from competitors such as Dell and HP, Lenovo&#39;s laptop has a following of people who collect old models and celebrate each new innovation.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/08/02/thinkpad_david_hill_interview/>
-
----
-
-## Reddit is people! Which means its search might not be so damaged by AI slop
-
-date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T. News)
-
-<h4>Community content site aims to profit from real conversation</h4> <p>Reddit has found that trafficking in human-authored content pays well in the AI era.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/08/02/reddit_ready_for_search_business/>
-
----
-
-## CISA roasts unnamed critical national infrastructure body for shoddy security hygiene
-
-date: 2025-08-02, updated: 2025-08-02, from: The Register (UK I.T. News)
-
-<h4>Plaintext passwords, shared admin accounts, and insufficient logging rampant at mystery org</h4> <p>CISA is using the findings from a recent probe of an unidentified critical infrastructure organization to warn about the dangers of getting cybersecurity seriously wrong.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/08/02/cisa_coast_guard_cni/>
 

@@ -1,11 +1,223 @@
 ---
 title: socal north
-updated: 2025-08-09 14:09:03
+updated: 2025-08-10 06:08:14
 ---
 
 # socal north
 
-(date: 2025-08-09 14:09:03)
+(date: 2025-08-10 06:08:14)
+
+---
+
+## Months after Eaton Fire, photographer gives hope — and rebuilding — a chance
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+Kevin Cooley takes pictures of wildfires for a living and lost his Altadena home in January. He and his family once thought they were going to leave it all behind. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/six-months-after-eaton-fire-wildfire-photographer-kevin-cooley>
+
+---
+
+## Looking for places to develop your film? Here’s LAist staff's recommendations.
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+These stores across Southern California still develop film for you. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/looking-for-places-to-develop-your-film-heres-laist-staffs-recommendations>
+
+---
+
+## It started with friends at home. Now 'Dungeons & Dragons' is in its stadium era
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+In the past decade or so, actors and comedians have adopted D&D as a performance medium. Podcasts and web series have expanded into stadium tours — and fueled growing interest in the game more broadly. 
+
+<br> 
+
+<https://laist.com/news/it-started-with-friends-at-home-now-dungeons-dragons-is-in-its-stadium-era>
+
+---
+
+## A planet from the 'Avatar' movies may exist in real life
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+One of the brightest stars in the night sky seems to be orbited by a planet like Jupiter. The news is sure to cheer fans of the Avatar series, which centers on a moon that orbits a fictional gas giant planet in this particular star system. 
+
+<br> 
+
+<https://laist.com/news/a-planet-from-the-avatar-movies-may-exist-in-real-life>
+
+---
+
+## Defense Secretary Pete Hegseth reposts video of pastors saying women shouldn't vote
+
+date: 2025-08-10, updated: 2025-08-10, from: The LAist
+
+Secretary of Defense Pete Hegseth reposted the video profiling Christian Nationalist Pastor Doug Wilson, who opposes same-sex marriage. 
+
+<br> 
+
+<https://laist.com/news/defense-secretary-pete-hegseth-reposts-video-of-pastors-saying-women-shouldnt-vote>
+
+---
+
+## Texas Democrats embrace Newsom’s redistricting rebuttal as California draws new map
+
+date: 2025-08-09, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/09152335/080825-texas-democrats-presser-fg-cm-02-574882-8icx6grt-119355-ajehLqh3.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Gov. Gavin Newsom and Texas Democrats jointly promoted California’s plan to redraw congressional lines and offset a redistricting scheme in Texas. The proposed map is expected to be made public next week.</p>
+<p>The post <a href="https://lbpost.com/news/politics/texas-democrats-embrace-newsoms-redistricting-rebuttal-as-california-draws-new-map">Texas Democrats embrace Newsom’s redistricting rebuttal as California draws new map</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/texas-democrats-embrace-newsoms-redistricting-rebuttal-as-california-draws-new-map>
+
+---
+
+## Safety, from Sidewalks to Steering Wheels
+
+date: 2025-08-09, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin With summer coming to a close and kids returning to school, I want to take a moment to remind residents that August is Traffic Safety Month. As the new school year begins, more students will be walking, biking and commuting to school each day, and it’s up to all of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/09/safety-from-sidewalks-to-steering-wheels/">Safety, from Sidewalks to Steering Wheels</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/09/safety-from-sidewalks-to-steering-wheels/>
+
+---
+
+## We get asked about tariffs all the time. Here's what we say
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+From inflation to recession, we who cover the economy and business at NPR get asked about tariffs all the time. Here are some of the most frequent questions — and what we answer. 
+
+<br> 
+
+<https://laist.com/news/we-get-asked-about-tariffs-all-the-time-heres-what-we-say>
+
+---
+
+## Las Vegas sees drop in tourism, hinting at broader economic woes facing the U.S.
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+Economists say that what happens in Vegas matters nationally because it often reflects broader trends on consumer confidence and the overall health of the U.S. economy. 
+
+<br> 
+
+<https://laist.com/news/las-vegas-sees-drop-in-tourism-hinting-at-broader-economic-woes-facing-the-u-s>
+
+---
+
+## EPA plans to end a program that makes solar power available to low-income Americans
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+The Trump administration plans to end a $7 billion Biden-era program that helps low-income households get solar power. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/epa-plans-to-end-a-program-that-makes-solar-power-available-to-low-income-americans>
+
+---
+
+## Trump says he will host Putin in Alaska next Friday to talk about Ukraine
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+President Trump has been pushing to broker an end to the war in Ukraine since he took office. But it hasn't been quick or easy. 
+
+<br> 
+
+<https://laist.com/news/trump-says-he-will-host-putin-in-alaska-next-friday-to-talk-about-ukraine>
+
+---
+
+## Blame it on the moon. This year's Perseids meteors won't be as visible at their peak
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+The Perseids meteor shower is the most popular one of the year. The meteors during this time are characterized by bright fireballs and long "wakes," the streak of light and color that follow behind. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/blame-it-on-the-moon-this-years-perseids-meteors-wont-be-as-visible-at-their-peak>
+
+---
+
+## For Korean Americans in LA, Son Heung-min is more than a soccer star
+
+date: 2025-08-09, updated: 2025-08-10, from: The LAist
+
+The 33-year-old soccer superstar is coming to LAFC — and Koreatown is hyped. He's the biggest global star to join MLS since Lionel Messi went to Inter Miami in 2023 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/korean-americans-in-la-son-heung-min-is-more-than-a-soccer-star>
+
+---
+
+## When a convalescing dog needed help to pee, his human got the neighborhood involved
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+Sully the 8-year-old beagle mix is doing fine except for one small problem: He can't use the bathroom without the scent of other dogs. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/when-a-convalescing-dog-needs-help-using-the-bathroom-his-human-got-the-whole-neighborhood>
+
+---
+
+## Museum of Jurassic Technology reopens after escaping destruction in fire
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+The beloved collection of strange and surreal exhibits re-opened after a month of renovations. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/museum-of-jurassic-technology-narrowly-escapes-destruction-in-fire>
+
+---
+
+## Museum of Jurassic Technology reopens after escaping destruction in fire
+
+date: 2025-08-09, updated: 2025-08-09, from: The LAist
+
+The beloved collection of strange and surreal exhibits re-opened after a month of renovations. 
+
+<br> 
+
+<https://laist.com/news/museum-of-jurassic-technology-narrowly-escapes-destruction-in-fire>
+
+---
+
+## California Supreme Court hands victory to rooftop solar panel owners
+
+date: 2025-08-09, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08133444/021820-solar-panels-aw-cm-03-268547-lmb13jbd-575743-B3uIxWtF.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Justices told a lower court to revisit their decision to uphold cuts of 75 percent to payments for solar panel owners.</p>
+<p>The post <a href="https://lbpost.com/news/california-supreme-court-hands-victory-to-rooftop-solar-panel-owners">California Supreme Court hands victory to rooftop solar panel owners</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/california-supreme-court-hands-victory-to-rooftop-solar-panel-owners>
 
 ---
 
@@ -75,7 +287,7 @@ Lovell commanded the mission that almost ended in disaster after an explosion th
 
 date: 2025-08-08, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24180411/1212-Chase-199-1-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The suspected shooter stood to “inherit everything” from his uncle, who was found slain in his home, according to court documents.</p>
 <p>The post <a href="https://lbpost.com/news/crime/search-warrant-suicide-killing-stingley-death-inherit">Search warrant reveals new details of Long Beach killing originally thought to be suicide</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -743,7 +955,7 @@ With baby essentials, resources and peer support, the East L.A. Community Resour
 
 ## Local jazz legend Bobby Bradford performs his tribute to Jackie Robinson
 
-date: 2025-08-06, updated: 2025-08-06, from: The LAist
+date: 2025-08-06, updated: 2025-08-08, from: The LAist
 
 Despite losing his Altadena home and instruments, the 91-year-old is playing as part of the Hammer Museum’s JazzPop series. 
 
@@ -1383,156 +1595,4 @@ We talked with one of the people behind making the sound of the classic film sin
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/sunset-boulevard-film-restoration-screenings-75th-birthday>
-
----
-
-## Join Us for the 30th Annual River Rally Cleanup
-
-date: 2025-08-02, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin “Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.” – Dr. Seuss The heartbeat of a healthy community lies not just in its people but in how it cares for the natural spaces that surround it. Here in Santa Clarita, we are [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/08/02/join-us-for-the-30th-annual-river-rally-cleanup/">Join Us for the 30th Annual River Rally Cleanup</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/08/02/join-us-for-the-30th-annual-river-rally-cleanup/>
-
----
-
-## Tea app encouraged its users to spill about their online matches. Then the data got leaked
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-A popular women's dating advice app suffered a major data breach, revealing users' drivers' licenses, messages and other sensitive information. The hack put a spotlight on the flaws in "whisper networks." 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/tea-encouraged-its-users-to-spill-then-the-apps-data-got-leaked>
-
----
-
-## A jury orders Tesla to pay more than $240 million in Autopilot crash
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-A Miami jury decided Tesla was partly responsible for a deadly 2019 crash in Florida involving its Autopilot driver assist technology. The automaker said it will appeal. 
-
-<br> 
-
-<https://laist.com/news/transportation/a-jury-orders-tesla-to-pay-more-than-240-million-in-autopilot-crash>
-
----
-
-## Music festival coming to Inglewood this weekend. Everywhere around is bracing for noise
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-HARD Summer music festival is happening, again, this weekend in Inglewood. Last year, the two-day event spurred hundreds of noise complaints. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/edm-festival-coming-this-weekend-in-inglewood-this-weekend-communities-all-over-are-bracing-for-noise>
-
----
-
-## Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says
-
-date: 2025-08-02, from: Longbeach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Police lights." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1.jpeg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-300x200.jpeg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-1024x683.jpeg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-768x512.jpeg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-162x108.jpeg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/24174934/duicheckpoint-1-400x267.jpeg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>"Speed, distracted driving, and impaired driving do not appear to have contributed to this collision," police said in a statement.</p>
-<p>The post <a href="https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says">Woman killed while crossing Atlantic Avenue in Cal Heights, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/woman-killed-while-crossing-atlantic-avenue-in-cal-heights-lbpd-says>
-
----
-
-## Trump's impeachments have been removed from a Smithsonian exhibit, for now
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-The Smithsonian says a reference to President Trump's impeachments that was removed last month will be restored once the exhibit is updated. 
-
-<br> 
-
-<https://laist.com/news/trumps-impeachments-have-been-removed-from-a-smithsonian-exhibit-for-now>
-
----
-
-## Trump calls for firing of senior Labor official after job market weakens in July
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-Trump called for the firing of the Labor statistics official after data earlier showed employers added just 73,000 jobs in July, while job gains for the previous two months were largely erased. 
-
-<br> 
-
-<https://laist.com/news/trump-calls-for-firing-of-senior-labor-official-after-job-market-weakens-in-july>
-
----
-
-## Art of the praise: Why flattering Trump is now the go-to diplomatic move
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-World leaders have lavished praise on President Trump in order to smooth diplomatic relations — and get better deals too. 
-
-<br> 
-
-<https://laist.com/news/politics/art-of-the-praise-why-flattering-trump-is-now-the-go-to-diplomatic-move>
-
----
-
-## Appeals court keeps block on indiscriminate immigration sweeps in Southern California
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-A federal appeals court ruled Friday to uphold a lower court's temporary block, citing "mountain of evidence" that tactics violate Constitution. 
-
-<br> 
-
-<https://laist.com/news/appeals-court-keeps-order-blocking-indiscriminate-immigration-sweeps>
-
----
-
-## This Hollywood composer is bringing people on the autism spectrum together through bluegrass
-
-date: 2025-08-02, updated: 2025-08-04, from: The LAist
-
-Spectrum Bluegrass is a new group dedicated to connecting neurodiverse people through guitars, banjos and mandolins. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/this-hollywood-composer-is-bringing-people-on-the-autism-spectrum-together-through-bluegrass>
-
----
-
-## The biggest K-Pop celebration in the country is back in LA
-
-date: 2025-08-02, updated: 2025-08-02, from: The LAist
-
-It's all about the fandom at KCON LA. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/the-biggest-k-pop-bash-in-the-country-is-back-in-la>
-
----
-
-## Long Beach man charged with sending money to terrorist group
-
-date: 2025-08-02, from: Longbeach Post
-
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Authorities say they arrested him Friday and found what appeared to be a bomb in his bedroom.</p>
-<p>The post <a href="https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group">Long Beach man charged with sending money to terrorist group</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
- 
-
-<br> 
-
-<https://lbpost.com/news/crime/long-beach-man-charged-with-sending-money-to-terrorist-group>
 

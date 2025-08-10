@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-08-09 14:09:09
+updated: 2025-08-10 06:08:18
 ---
 
 # journalism
 
-(date: 2025-08-09 14:09:09)
+(date: 2025-08-10 06:08:18)
+
+---
+
+## ‘An attack on knowledge’: UCLA researchers say lifesaving research is in jeopardy
+
+date: 2025-08-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dr. Jerzy Kupiec-Weglinski has led organ transplant research at UCLA for nearly three decades.
+Kupiec-Weglinski, the vice chairman of basic science research in the David Geffen School of Medicine&#8217;s surgery department, said his research centers on improving organ transplant surgery outcomes amid the growing demand for transplants as the population ages. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/09/an-attack-on-knowledge-ucla-researchers-say-lifesaving-research-is-in-jeopardy/>
+
+---
+
+## Outside Lands 2025: Day 1 artists captivate crowds with strong setlists, vibrant visuals
+
+date: 2025-08-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Crowds rolled into Golden Gate Park this weekend for the annual Outside Lands festival.
+Hosted from Aug. 8-10, the festival expects over 225,000 attendees to come and enjoy more than 110 artists throughout the three-day experience. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/09/outside-lands-2025-day-1-artists-captivate-crowds-with-strong-setlists-vibrant-visuals/>
+
+---
+
+## Pro Bruin Rundown: Men’s volleyball Bruins storm international stage with Team USA
+
+date: 2025-08-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+As UCLA Athletics takes a break for the summer, professional sports are still in full swing, with many Bruins representing. Each week during the summer, Daily Bruin Sports will look at the standout performances of UCLA alumni, current athletes and future stars as we count down the days until fall. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/09/pro-bruin-rundown-mens-volleyball-bruins-storm-international-stage-with-team-usa/>
 
 ---
 
@@ -341,62 +379,4 @@ About 800 research grants have been suspended at UCLA, according to a Friday ema
 <br> 
 
 <https://dailybruin.com/2025/08/02/about-800-nih-nsf-research-grants-suspended-following-ucla-federal-funding-cuts/>
-
----
-
-## Man charged with assault on pro-Palestine protesters in encampment takes plea deal
-
-date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
-
-A counter-protester charged with assaulting protesters at UCLA&#8217;s Palestine solidarity encampment in spring 2024 accepted a plea deal July 7.
-Malachi Marlan-Librett, who graduated from UC Santa Cruz in 2019 and then attended a UCLA film program, was charged with assault with a deadly weapon, battery and a hate crime after he allegedly assaulted, followed and yelled racial epithets at pro-Palestine protesters in the encampment. 
-
-<br> 
-
-<https://dailybruin.com/2025/08/02/man-charged-with-assault-on-pro-palestine-protesters-in-encampment-takes-plea-deal/>
-
----
-
-## USAC recap – July 15
-
-date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Undergraduate Students Association Council held an emergency meeting on July 15 to vote on approving a letter addressed to University of California President Michael Drake that criticized his ban on student governments boycotting companies associated with Israel. 
-
-<br> 
-
-<https://dailybruin.com/2025/08/02/usac-recap-july-15-2/>
-
----
-
-## Thrift store 2nd Street holds grand opening for 1st Westwood location
-
-date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper)
-
-2nd Street, a Japanese thrift store chain focused on diverse and sustainable style, opened a location in Westwood last Friday.
-The chain has over 700 locations in Japan and opened its first United States store on Melrose Avenue in Los Angeles in January 2018. 
-
-<br> 
-
-<https://dailybruin.com/2025/08/01/thrift-store-2nd-street-holds-grand-opening-for-1st-westwood-location/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper))
-
-Carlyn Irwin, a senior advisor at Cornerstone Research who also provides expert witness referrals, said in a video deposition that Klein’s loss of clients occurred due to a combination of factors, including – but not limited to – him being placed on administrative leave. 
-
-<br> 
-
-<https://dailybruin.com/2025/08/01/491536/>
-
----
-
-**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-02, from: The Daily Bruin (UCLA Student Newspaper))
-
-Jerry Kang, the former vice chancellor for equity, diversity and inclusion, testified that the Discrimination Prevention Office decided not to complete a formal investigation over the email following its preliminary assessment. 
-
-<br> 
-
-<https://dailybruin.com/2025/08/01/491533/>
 

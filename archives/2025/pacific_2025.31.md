@@ -1,11 +1,445 @@
 ---
 title: pacific
-updated: 2025-08-09 14:09:04
+updated: 2025-08-10 06:08:15
 ---
 
 # pacific
 
-(date: 2025-08-09 14:09:04)
+(date: 2025-08-10 06:08:15)
+
+---
+
+## The power of sailing: West Hawaii nonprofit helps keiki expand their horizons at sea
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>Sailing is good for kids.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/hawaii-news/the-power-of-sailing-west-hawaii-nonprofit-helps-keiki-expand-their-horizons-at-sea/>
+
+---
+
+## Inaba: Council won’t override mayor’s veto of Bill 59
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County Council Chair Holeka Inaba said the council will not attempt to override Mayor Kimo Alameda&#8217;s veto of Bill 59.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/hawaii-news/inaba-council-wont-override-mayors-veto-of-bill-59/>
+
+---
+
+## Union leaders get tough with Democrats as members drift toward Trump
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; Long before President Donald Trump harnessed a working-class coalition to win last November&#8217;s election, leaders of the nation&#8217;s biggest labor unions, in public and private, were warning Democrats that those voters could defect. In the months since, their admonitions have grown only more pointed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/nation-world-news/union-leaders-get-tough-with-democrats-as-members-drift-toward-trump/>
+
+---
+
+## Drought grips Big Island
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>Drought conditions are becoming &#8220;a crisis&#8221; in some areas of Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/hawaii-news/drought-grips-big-island/>
+
+---
+
+## Zelenskyy rejects ceding territory to Russia after Trump suggests a land swap
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; President Volodymyr Zelenskyy of Ukraine on Saturday flatly rejected the idea that Ukraine could cede land to Russia after President Donald Trump suggested that a peace deal between Ukraine and Russia could include &#8220;some swapping of territories.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/nation-world-news/zelenskyy-rejects-ceding-territory-to-russia-after-trump-suggests-a-land-swap/>
+
+---
+
+## Layoffs? Price increases? Companies make hard choices as Trump’s tariffs set in.
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>Barry Barr has taken a number of cost-saving measures in recent months to keep his outdoor apparel company afloat during President Donald Trump&#8217;s destabilizing trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/nation-world-news/layoffs-price-increases-companies-make-hard-choices-as-trumps-tariffs-set-in/>
+
+---
+
+## Nagasaki mayor warns of nuclear war as city marks 80 years since A-bomb
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>NAGASAKI, Japan &#8212; Thousands bowed their heads in prayer in Nagasaki on Saturday to mark the 80th anniversary of the city&#8217;s atomic bombing, as the mayor warned that current global conflicts could push the world again into nuclear war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/nation-world-news/nagasaki-mayor-warns-of-nuclear-war-as-city-marks-80-years-since-a-bomb/>
+
+---
+
+## Lahaina wildfires anniversary marks day of reflection and resiliency
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>LAHAINA &#8212; Kevin Tanaka, his wife, Saane Tone-Tanaka and their family arrived just after sunrise Friday at Hanaka&#8216;o&#8216;o Beach Park to participate in a paddle-out to honor four kupuna family members who died trying to escape the Aug. 8, 2023 wildfires in Lahaina and a fifth family kupuna who died in the days before.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/hawaii-news/lahaina-wildfires-anniversary-marks-day-of-reflection-and-resiliency/>
+
+---
+
+## Gunman in deadly CDC shooting fixated on COVID vaccine, officials say
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; The shimmering low-rise metal and glass towers at the headquarters of the Centers for Disease Control and Prevention in Atlanta were pocked with dozens of bullet holes. Cracks streaked windows. Shell casings littered a sidewalk across the street.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/nation-world-news/gunman-in-deadly-cdc-shooting-fixated-on-covid-vaccine-officials-say/>
+
+---
+
+## Volcano Watch: Discovery of a massive submarine landslide near the 1957 Aleutian earthquake epicenter
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>As part of a growing national effort to understand seafloor hazards, scientists from the United States Geological Survey&#8217;s Volcano Science Center are working across agencies to investigate how submarine earthquakes, landslides, and volcanic activity shape tsunami risk &#8212; not just in Hawaii, but across the broader Pacific.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/features/volcano-watch-discovery-of-a-massive-submarine-landslide-near-the-1957-aleutian-earthquake-epicenter/>
+
+---
+
+## Steves: Porto is Portugal’s salty ‘second city’
+
+date: 2025-08-10, from: Hawaii Tribune Harold
+
+
+				<p>Porto, the hub of northern Portugal, is a prime example of a national &#8220;second city.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/10/features/steves-porto-is-portugals-salty-second-city/>
+
+---
+
+## Farmers restore breadfruit’s role in Pacific Islands food systems
+
+date: 2025-08-10, from: Pacific Island Times
+
+“It’s not just about trees in a garden,” Dickinson said. “It’s about sharing stories, planting with intention and valuing what’s already been passed down.” 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/farmers-restore-breadfruit-s-role-in-pacific-islands-food-systems>
+
+---
+
+## NOAA chief scientist reviews coral reef monitoring cruise in Marianas
+
+date: 2025-08-10, from: Pacific Island Times
+
+Every morning for 75 days, just after sunrise, small boats launched from the NOAA ship Oscar Elton Sette. Divers zipped across open ocean, dropped into turquoise water and sank into silence — notebooks ready, cameras clicking, eyes scanning for coral and fish. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/noaa-chief-scientist-reviews-coral-reef-monitoring-cruise-in-marianas>
+
+---
+
+## Despite funding loss, public media vow to soldier on, seek public support
+
+date: 2025-08-10, from: Pacific Island Times
+
+With federal funds being yanked from beneath their feet, public media in Guam and the greater Pacific are turning to the public as an alternative source of funds, in hopes of being able to keep themselves afloat and keep their core programs running. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/despite-funding-loss-public-media-vow-to-soldier-on-seek-public-support>
+
+---
+
+## Letter to the Editor: The burden imposed on Guam artists 
+
+date: 2025-08-09, from: Pacific Island Times
+
+This is to bring attention to the burden local artists bear when exhibiting their work in government-funded agencies, such as CAHA and the Guam Museum. This is a concern that many of us in the art community secretly carry.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-the-burden-imposed-on-guam-artists>
+
+---
+
+## A 95-year-old’s joy
+
+date: 2025-08-09, from: Pacific Island Times
+
+Our friend, Elaine, was born in 1930. Sharon and I have known her since we moved to Woodland Terrace in 2022. Elaine has been a resident of this retirement paradise in Bridgman since 2013. Her family farmed in Berrien County.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-95-year-old-s-joy>
+
+---
+
+## Tropical Gardening: Adventures conservation with the Hawaii Island Palm Society
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>Members of the International Palm Society and Hawaii Island Palm Society are about to embark on an adventure from the Peruvian Amazon to high in the Andes studying the palms of those regions. This is part of a program to educate, protect and promote the use of palms in the tropics, subtropics and warm temperate regions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/features/tropical-gardening-adventures-conservation-with-the-hawaii-island-palm-society/>
+
+---
+
+## Firefighters work to contain wildfire northwest of LA
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>Firefighters in Southern California made significant progress Friday toward containing a wildfire that began in Ventura County and had spread into Los Angeles County, leaving thousands of residents under orders to leave the area.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/firefighters-work-to-contain-wildfire-northwest-of-la/>
+
+---
+
+## Suspect and officer are dead after shooting outside CDC in Atlanta
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>A person opened fire Friday outside the headquarters of the Centers for Disease Control and Prevention in Atlanta, killing one police officer and striking the exterior of buildings on the CDC campus, authorities said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/suspect-and-officer-are-dead-after-shooting-outside-cdc-in-atlanta/>
+
+---
+
+## The fight to save Hawaii’s coconut palms
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>Across Hawaii, what looks like a bad haircut on the landscape is marking the slow death of the coconut palm, that icon of paradise. The culprit: the coconut rhinoceros beetle, a glossy, thumb-size scarab that bores into the crowns of palms to feed on sap. Today, all that stands between the beetle and a palm-poor Hawaii is a small team of scientists, field crews and grub-sniffing dogs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/hawaii-news/the-fight-to-save-hawaiis-coconut-palms/>
+
+---
+
+## Trump and Putin to meet to discuss Ukraine peace deal in Alaska
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump will meet with Russian President Vladimir Putin on August 15 in Alaska to negotiate an end to the war in Ukraine, Trump said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/trump-and-putin-to-meet-to-discuss-ukraine-peace-deal-in-alaska/>
+
+---
+
+## Trump directs military to target foreign drug cartels
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has secretly signed a directive to the Pentagon to begin using military force against certain Latin American drug cartels that his administration has deemed terrorist organizations, according to people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/trump-directs-military-to-target-foreign-drug-cartels/>
+
+---
+
+## Front Street wildfire recovery moving slower than other parts of Lahaina
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>LAHAINA, Maui &#8212; Maui wildfire survivors Michele and Qiana Di Bari were able to move back to their Lahaina home last year, but they say it has been at least six months since they have visited Front Street, where their decade-old restaurant Sale Pepe Pizzeria e Cucina was lost to the flames.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/hawaii-news/front-street-wildfire-recovery-moving-slower-than-other-parts-of-lahaina/>
+
+---
+
+## Mexico’s president says US forces are unwelcome in her country
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; President Claudia Sheinbaum of Mexico rejected the use of U.S. military forces in her country Friday, responding to news that President Donald Trump had directed the Pentagon to target drug cartels that the United States considers terrorist organizations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/mexicos-president-says-us-forces-are-unwelcome-in-her-country/>
+
+---
+
+## Air Force denies early retirement for transgender men and women
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; At least a dozen transgender men and women serving in the U.S. Air Force who had applied for early retirement to avoid being kicked out of the service for their gender identity have had their retirement approval rescinded by the service.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/air-force-denies-early-retirement-for-transgender-men-and-women/>
+
+---
+
+## Texas attorney general moves to oust Democrats from office over walkout
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; Attorney General Ken Paxton of Texas asked the state Supreme Court on Friday to remove 13 Democratic state representatives from office, saying they had abandoned their seats when they left the state to avoid voting on a redrawn congressional map pushed by President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/texas-attorney-general-moves-to-oust-democrats-from-office-over-walkout/>
+
+---
+
+## Netanyahu broadly criticized at home and abroad after new Gaza plan
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; Prime Minister Benjamin Netanyahu faced criticism at home and abroad Friday after his office announced that the Israeli military would escalate its nearly 2-year-old campaign in the Gaza Strip by taking control of Gaza City, a move that would likely further endanger Palestinian civilians and Israeli hostages and deepen Israel&#8217;s international isolation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/netanyahu-broadly-criticized-at-home-and-abroad-after-new-gaza-plan/>
+
+---
+
+## Suspect in deadly Montana bar shooting is captured, officials say
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. Army veteran suspected of killing four people in a Montana bar last week was captured Friday, according to law enforcement officials. The arrest ends a search that lasted eight days as local, state and federal officers searched brushy terrain outside the small town of Anaconda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/suspect-in-deadly-montana-bar-shooting-is-captured-officials-say/>
+
+---
+
+## Trump is removing IRS chief 2 months after he was confirmed
+
+date: 2025-08-09, from: Hawaii Tribune Harold
+
+
+				<p>Billy Long, the former auctioneer and Republican congressman who was confirmed less than two months ago as head of the Internal Revenue Service, has been abruptly removed from the post by President Donald Trump, the administration disclosed on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/09/nation-world-news/trump-is-removing-irs-chief-2-months-after-he-was-confirmed/>
+
+---
+
+## ‘No one wants to leave’: Marshallese communities push back against the migration narrative
+
+date: 2025-08-09, from: Pacific Island Times
+
+In the Marshall Islands, where land is not just property but lineage, identity and spiritual inheritance, the idea of leaving is not an option.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/no-one-wants-to-leave-marshallese-communities-push-back-against-the-migration-narrative>
+
+---
+
+## Crowds go ‘lulu’ for lululemon at UH Mānoa bookstore
+
+date: 2025-08-09, from: University of Hawaiʻi News
+
+<p>The lululemon &#124; <abbr>UH</abbr> collection debut drew hundreds of shoppers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/08/lululemon-uh-manoa-bookstore/">Crowds go ‘lulu’ for lululemon at <abbr>UH</abbr> Mānoa bookstore</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/08/lululemon-uh-manoa-bookstore/>
+
+---
+
+## UH Hilo anthropologist: Marshallese wayfaring and brain science
+
+date: 2025-08-09, from: University of Hawaiʻi News
+
+<p>Researchers will examine how traditional wave-piloting techniques can provide insights into spatial awareness and neurological diseases.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/08/uh-hilo-marshallese-wayfaring-and-brain-science/"><abbr>UH</abbr> Hilo anthropologist: Marshallese wayfaring and brain science</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/08/uh-hilo-marshallese-wayfaring-and-brain-science/>
 
 ---
 
@@ -642,7 +1076,7 @@ Christopher Pryde, who is in self-imposed exile in Aotearoa, claims charges brou
 
 ## Governor cancels tropical storm conditions
 
-date: 2025-08-08, updated: 2025-08-08, from: Marianas Variety
+date: 2025-08-08, updated: 2025-08-10, from: Marianas Variety
 
  
 
@@ -1001,7 +1435,7 @@ Inside The Reef By Joyce McClure In Yap, the past is never far from the present.
 
 ## Variety editor’s 4th book available at Joeten Susupe
 
-date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+date: 2025-08-07, updated: 2025-08-10, from: Marianas Variety
 
 MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
 
@@ -1011,9 +1445,21 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 
 ---
 
+## Palau’s 10% tax reveals cracks between business and consumer realities
+
+date: 2025-08-07, updated: 2025-08-10, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) —  More than two years after the Palau Goods and Services Tax or PGST took effect, citizens across different sectors are offering mixed reactions, revealing a growing divide between small business owners and retirees over who shoulders the real burden. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-s-10-tax-reveals-cracks-between-business-and-consumer-realities/article_128845eb-ad04-45d4-96e6-ad81eb4f1c8e.html>
+
+---
+
 ## Japan cuts growth forecast on US tariffs drag, weaker consumption
 
-date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+date: 2025-08-07, updated: 2025-08-10, from: Marianas Variety
 
 TOKYO (Reuters) — Japan's government cut its growth forecast for this fiscal year on Thursday as U.S. tariffs slow capital expenditure and persistent inflation weighs on private consumption, threatening a fragile economic recovery. 
 
@@ -1025,7 +1471,7 @@ TOKYO (Reuters) — Japan's government cut its growth forecast for this fiscal y
 
 ## Soil health findings from Kagman farms to be revealed during seminar, NMC-CREES says
 
-date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+date: 2025-08-07, updated: 2025-08-10, from: Marianas Variety
 
 (NMC) — Ensuring local producers have the resources they need to make the best farming decisions, Northern Marianas College-Cooperative Research, Extension, and Education Services Agriculture Production Program, in collaboration with Division of Land &amp; Natural Resources-Division of Agriculture, collected soil samples from various cultivated and uncultivated plots across Kagman, As Lito, and As Perdido for further analysis. 
 
@@ -1037,25 +1483,13 @@ date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
 
 ## 80 years ago today, Aug. 9, 1945
 
-date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
+date: 2025-08-07, updated: 2025-08-10, from: Marianas Variety
 
 ON July 31, 1945, the Project Alberta team on Tinian, working with the 509th Composite Group, conducted a complete dress rehearsal of the Little Boy atomic bomb drop.  Maj. Charles Sweeney piloted his plane, the Great Artist, and Capt. George Marquardt piloted Necessary Evil, accompanied by Tibbets, who was piloting the yet unnamed Enola Gay.  They flew from Tinian to Iwo Jima, where an atomic bomb loading pit had been constructed.  If something happened to Enola Gay along the way, they were to land at Iwo, move the bomb from Enola Gay to the standby aircraft, the Big Stink.  Tibbets would then fly Big Stink to the target. The test was deemed fully successful. 
 
 <br> 
 
 <https://www.mvariety.com/news/local/80-years-ago-today-aug-9-1945/article_29e336e3-514d-494f-ae62-9ce85031d8b1.html>
-
----
-
-## Palau’s 10% tax reveals cracks between business and consumer realities
-
-date: 2025-08-07, updated: 2025-08-07, from: Marianas Variety
-
-KOROR (Island Times/Pacnews) —  More than two years after the Palau Goods and Services Tax or PGST took effect, citizens across different sectors are offering mixed reactions, revealing a growing divide between small business owners and retirees over who shoulders the real burden. 
-
-<br> 
-
-<https://www.mvariety.com/news/regional_world/palau-s-10-tax-reveals-cracks-between-business-and-consumer-realities/article_128845eb-ad04-45d4-96e6-ad81eb4f1c8e.html>
 
 ---
 
@@ -3910,251 +4344,4 @@ The post <a href="https://www.hawaii.edu/news/2025/08/02/red-hill-registry-launc
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/02/red-hill-registry-launch-and-fair/>
-
----
-
-## Pal Ahluwalia to end tenure as USP vice-chancellor
-
-date: 2025-08-02, from: 
-
-Professor Pal Ahluwalia's six years as the head of the at the University of the South Pacific have been marked with controversy. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/568731/pal-ahluwalia-to-end-tenure-as-usp-vice-chancellor>
-
----
-
-## Tropical Gardening: Every Hawaii garden needs an avocado tree
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>It may be too early to be optimistic, but damage from the avocado lace bug appears to be on the decline. This year&#8217;s avocado defoliation still continues to raise havoc with fruit production in some parts of the island. Exposed fruit are quickly sunburned, and that affects the quality.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/features/tropical-gardening-every-hawaii-garden-needs-an-avocado-tree/>
-
----
-
-## Kenichi Pacific in Kona shut down due to food safety violations
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>The state Department of Health has issued a red &#8220;closed&#8221; placard and immediately shut down Kenichi Pacific restaurant on Ali&#8216;i Drive in Kailua-Kona due to multiple critical food safety violations.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/kenichi-pacific-in-kona-shut-down-due-to-food-safety-violations/>
-
----
-
-## Trump, claiming weak jobs numbers were ‘rigged,’ fires labor official
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump unleashed his fury about weakness in the labor market on Friday, saying without evidence that the data were &#8220;rigged&#8221; and that he was firing the Senate-confirmed Department of Labor official responsible for pulling together the numbers each month.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-claiming-weak-jobs-numbers-were-rigged-fires-labor-official/>
-
----
-
-## Employers pull back on hiring as uncertainty weighs on plans
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Employers have sharply pulled back their hiring, a sign that the labor market is weakening and more businesses are putting expansion plans on hold as they deal with economic uncertainty created by President Donald Trump.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/employers-pull-back-on-hiring-as-uncertainty-weighs-on-plans/>
-
----
-
-## Hawaii tourism cools off this summer as arrivals dip
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Hawaii tourism is cooling off this summer, and the visitor industry is concerned that the sector will continue to lose heat throughout this year and into 2026.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/hawaii-tourism-cools-off-this-summer-as-arrivals-dip/>
-
----
-
-## Gov. Josh Green raises possibility of 2028 run for president
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Gov. Josh Green told NBC News he is considering a 2028 campaign for president of the United States with a possible platform of healing the nation after the bitterly divisive era of American politics that has consumed the country.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/hawaii-news/gov-josh-green-raises-possiblity-of-2028-run-for-president/>
-
----
-
-## Astronauts head to space station as clouds stay just far enough away
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>SpaceX&#8217;s latest mission for NASA launched four astronauts toward the International Space Station on Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/astronauts-head-to-space-station-as-clouds-stay-just-far-enough-away/>
-
----
-
-## ‘Hot wasps’ found at nuclear facility in South Carolina
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Four radioactive wasp nests have been discovered at a South Carolina nuclear facility, according to federal officials.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/hot-wasps-found-at-nuclear-facility-in-south-carolina/>
-
----
-
-## Ghislaine Maxwell moved from Florida prison to lower-security facility
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Ghislaine Maxwell has been transferred from a Florida prison to a lower-security facility in Texas to continue serving her 20-year sentence for helping the late financier and sex offender Jeffrey Epstein sexually abuse underage girls, the U.S. Bureau of Prisons said on Friday. Maxwell&#8217;s move from FCI Tallahassee, a low-security prison, to the Federal Prison Camp in Bryan, Texas, comes a week after she met with Deputy U.S. Attorney General Todd Blanche, who said he wanted to speak with her about anyone else who may have been involved in Epstein&#8217;s crimes.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/ghislaine-maxwell-moved-from-florida-prison-to-lower-security-facility/>
-
----
-
-## News in brief for August 2
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Florida is buying plane tickets &#0010;for immigrants to self-deport</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/news-in-brief-for-august-2/>
-
----
-
-## Corporation for Public Broadcasting will shut down
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>The Corporation for Public Broadcasting said Friday that it would shut down next year, effectively ending its half-century role as a backer of NPR, PBS and local radio and TV stations across the United States.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/corporation-for-public-broadcasting-will-shut-down/>
-
----
-
-## El Salvador ends term limits, letting Bukele seek reelection indefinitely
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>Lawmakers in El Salvador abolished presidential term limits Thursday, paving the way for President Nayib Bukele, who has aided President Donald Trump&#8217;s deportation efforts and whose government has jailed tens of thousands in its crackdown on gangs and civil rights groups, to run for reelection indefinitely.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/el-salvador-ends-term-limits-letting-bukele-seek-reelection-indefinitely/>
-
----
-
-## Judge blocks Trump from fast-tracking deportations of immigrants paroled into US
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>A federal judge on Friday blocked President Donald Trump&#8217;s administration from fast-tracking the deportation of potentially hundreds of thousands of immigrants who were paroled into the U.S. under former President Joe Biden&#8217;s humanitarian programs.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/judge-blocks-trump-from-fast-tracking-deportations-of-immigrants-paroled-into-us/>
-
----
-
-## Switzerland is stunned by 39% US tariff, among the highest in the world
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>PARIS &#8212; Switzerland got a rude awakening Friday, a national holiday, when President Donald Trump set the tariff rate on goods imported from the Alpine country at 39%, one of the highest rates for any nation. Karin Keller-Sutter, the Swiss president, said she had spoken with Trump on Thursday but that &#8220;no agreement could be reached.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/switzerland-is-stunned-by-39-us-tariff-among-the-highest-in-the-world/>
-
----
-
-## Trump says he ordered subs repositioned in rare nuclear threat to Russia
-
-date: 2025-08-02, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump said on his social media feed Friday that he had &#8220;ordered two nuclear submarines&#8221; to be repositioned in response to online threats from Russia&#8217;s former president, Dmitry Medvedev, a rare threat of nuclear escalation between the superpowers.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/08/02/nation-world-news/trump-says-he-ordered-subs-repositioned-in-rare-nuclear-threat-to-russia/>
-
----
-
-## Organic Act of Guam marks 75: A call to remember, reflect and reimagine
-
-date: 2025-08-02, from: Pacific Island Times
-
-Seventy-five years since the Organic Act of Guam was signed into law, island leaders, descendants of political pioneers and community members came together in solemn reflection and quiet celebration. The moment wasn’t just about honoring a date in history, it was about remembering the people who fought to shape it, and asking what comes next. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/organic-act-of-guam-marks-75-a-call-to-remember-reflect-and-reimagine>
-
----
-
-## Wahine soccer player chosen as goalkeeper to watch
-
-date: 2025-08-02, from: University of Hawaiʻi News
-
-<p>Kennedy Justin was named to the 2024 United Soccer Coaches Goalkeepers to Watch list after a record-setting freshman season.</p>
-The post <a href="https://www.hawaii.edu/news/2025/08/01/justin-chosen-goalkeeper-to-watch/">Wahine soccer player chosen as goalkeeper to watch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/08/01/justin-chosen-goalkeeper-to-watch/>
 

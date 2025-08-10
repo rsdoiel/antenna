@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-08-09 14:09:13
+updated: 2025-08-10 06:08:22
 ---
 
 # craft
 
-(date: 2025-08-09 14:09:13)
+(date: 2025-08-10 06:08:22)
+
+---
+
+## LAP Open Wire, Aug. 9, 2025
+
+date: 2025-08-09, from: Lost Arg Press blog
+
+Comments are now closed. See you on Oct. 25! Got a woodworking question or a question about what&#8217;s cooking at Lost Art Press? It’s your lucky day –it&#8217;s time for Open Wire! You have until 5 p.m. Eastern to pose your question in the comments section below, and we’ll respond – hopefully with a informed... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/08/09/lap-open-wire-aug-9-2025/>
 
 ---
 

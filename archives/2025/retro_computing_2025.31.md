@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-09 14:09:11
+updated: 2025-08-10 06:08:20
 ---
 
 # retro computing
 
-(date: 2025-08-09 14:09:11)
+(date: 2025-08-10 06:08:20)
+
+---
+
+## The rest of the year mapped out by ROUGOL
+
+date: 2025-08-09, from: RiscOS Story
+
+Well, in the context of ROUGOL, anyway. If you regularly attend the RISC OS User Group of London (ROUGOL) meetings &#8211; whether in person or online &#8211; you&#8217;ll know when the meetings will take place each month; it&#8217;s easy enough to remember, being &#8211; unless circumstances force a change &#8211; the third Monday of each month, with December often being an exception because of the proximity to Christmas. What you usually won&#8217;t know until much closer to each meeting day, though, it&#8217;s what the meeting subject will be. Well, for&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/rest-rougol-year/>
 
 ---
 
@@ -2476,28 +2488,4 @@ Again, if you were part of the MAE team and can shed a little light on how this 
 <br> 
 
 <https://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html>
-
----
-
-## b.log 2025/08/02 - Holiday!!!, Making my blacks black, Tea 0.23 (patch).
-
-date: 2025-08-02, from: Richard Murray's blog
-
-Holiday!!!, Making my blacks black, Tea 0.23 (patch). 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20250802>
-
----
-
-## Your Computer Interviewed Chris Curry (1981)
-
-date: 2025-08-02, from: Computer ads from the Past
-
-Chris talks about his work with Clive Sinclair and Acorn Computers with a little BBC Micro. 
-
-<br> 
-
-<https://computeradsfromthepast.substack.com/p/your-computer-interviewed-chris-curry>
 
