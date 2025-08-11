@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-08-11 06:09:29
+updated: 2025-08-11 14:10:54
 ---
 
 # retro computing
 
-(date: 2025-08-11 06:09:29)
+(date: 2025-08-11 14:10:54)
+
+---
+
+## Debian 13.0 Officially Released
+
+date: 2025-08-11, from: Linux Magazine
+
+<p>After two years of development, the latest iteration of Debian is now available with plenty of under-the-hood improvements.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Debian-13.0-Officially-Released>
+
+---
+
+## Upcoming Changes for MXLinux
+
+date: 2025-08-11, from: Linux Magazine
+
+<p>MXLinux 25 has plenty in store to please all types of users.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Upcoming-Changes-for-MXLinux>
+
+---
+
+## b.log 2025/08/11 - Bye bye Linux, Hello Linux!, MP3 durations, Tea!
+
+date: 2025-08-11, from: Richard Murray's blog
+
+Bye bye Linux, Hello Linux!, MP3 durations, Tea! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250811>
 
 ---
 

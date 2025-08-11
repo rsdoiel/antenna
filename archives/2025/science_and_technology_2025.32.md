@@ -1,11 +1,323 @@
 ---
 title: science and technology
-updated: 2025-08-11 06:09:25
+updated: 2025-08-11 14:10:48
 ---
 
 # science and technology
 
-(date: 2025-08-11 06:09:25)
+(date: 2025-08-11 14:10:48)
+
+---
+
+## FedRAMP government cloud software approvals double under new program
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>Biden-era program has reduced FedRAMP processing times to just five weeks from previous year or more</h4> <p>The US Government&#39;s process for certifying cloud services safe for official use has long been slow, but that&#39;s no longer the case. Approvals so far this fiscal year are more than double the total for all of FY 2024.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/fedramp_government_cloud_software_approvals/>
+
+---
+
+## Trump seeing green as he weighs deal to allow Nvidia Blackwell GPU sales to China
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>And shave 15% of the top no doubt.</h4> <p>Nerfed versions of Nvidia&#39;s Blackwell GPUs could soon join its H20 on the list of AI accelerators approved for sale in China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/trump_seeing_green_as_he/>
+
+---
+
+## NASA Awards Second Human Health, Performance Contract
+
+date: 2025-08-11, from: NASA breaking news
+
+NASA has selected KBR Wyle Services, LLC of Fulton, Maryland, to provide services to the Human Health and Performance Directorate at the agency’s Johnson Space Center in Houston, which focuses on astronaut health, occupational health, and research that could help mitigate health risks for future human spaceflight missions. The Human Health and Performance Contract 2 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/>
+
+---
+
+## NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
+
+date: 2025-08-11, from: NASA breaking news
+
+To drive the development of key space-based capabilities for the United States, NASA is exploring an opportunity to demonstrate technology to raise a spacecraft&#8217;s orbit to a higher altitude. Two American companies – Cambrian Works of Reston, Virginia, and Katalyst Space Technologies of Flagstaff, Arizona – will develop concept design studies for a possible orbit [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/>
+
+---
+
+## Russia's RomCom among those exploiting a WinRAR 0-day in highly-targeted attacks
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>A few weeks earlier &#39;zeroplayer&#39; advertised an $80K WinRAR 0-day exploit</h4> <p>Russia-linked attackers found and exploited a high-severity WinRAR vulnerability before the maintainers of the Windows file archiver issued a fix.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/russias_romcom_among_those_exploiting/>
+
+---
+
+## Space Station Cell Studies
+
+date: 2025-08-11, from: NASA breaking news
+
+Science in Space August 2025 Cells are the basic building blocks of all living things, from single-celled bacteria to plants and animals containing vast numbers of them. Cells have adapted for a wide variety of settings and functions. Nerve cells in humans and animals, for example, have long, thin extensions that rapidly transmit signals, while [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/space-station-cell-studies/>
+
+---
+
+## A Meteorite Tore Through a Georgia Home's Roof. It Turns Out the Space Rock Is Older Than Our Planet
+
+date: 2025-08-11, from: Smithsonian Magazine
+
+A planetary geologist finds that the meteorite, which fell in June, came from the main asteroid belt between Mars and Jupiter 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-meteorite-tore-through-a-georgia-homes-roof-it-turns-out-the-space-rock-is-older-than-our-planet-180987137/>
+
+---
+
+## This Colorful Mural of Stars and Fish Is the First of Its Kind Found on the Coast of Northern Peru
+
+date: 2025-08-11, from: Smithsonian Magazine
+
+The 3,000- to 4,000-year-old artwork decorated the wall of a temple atrium during Peru's Formative Period 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-colorful-mural-of-stars-and-fish-is-the-first-of-its-kind-found-on-the-coast-of-northern-peru-180987144/>
+
+---
+
+## GitHub becomes part of Microsoft’s “AI” organisation
+
+date: 2025-08-11, from: OS News
+
+It seems Microsoft is absorbing GitHub deeper into Microsoft. GitHub’s CEO Thomas Dohmke is stepping down, and GitHub will be integrated into a new department within Microsoft. Which department will become the new stewards of GitHub, and the massive pile of open source code it’s hosting? You already know. Still, after all this time, my startup roots have begun tugging on me and I’ve decided to leave GitHub to become a founder again. GitHub and its leadership team will continue its mission as part of Microsoft’s CoreAI organization, with more details shared soon. I’ll be staying through the end of 2025 to help guide the transition and am leaving with a deep sense of pride in everything we’ve built as a remote-first organization spread around the world. ↫ Thomas Dohmke GitHub will become part of a new “AI” engineering group inside Microsoft, led by a former Facebook executive, Jay Parikh. As The Verge notes, this new group includes platform and development tools and Dev Div teams, “with a focus on building an AI platform and tools for both Microsoft and its customers”. In other words, Microsoft is going to streamline taking your code and sucking it up into its “AI” slop machines. If you’re hosting code on GitHub, the best time to move it somewhere else was yesterday, but if you haven’t yet, the second best time is today. Unless you want your code to be sucked up into Microsoft and regurgitated to sloppify Windows and Office, you should be moving your code to GitHub alternatives. 
+
+<br> 
+
+<https://www.osnews.com/story/143034/github-becomes-part-of-microsofts-ai-organisation/>
+
+---
+
+## NASA Continues Search for Moon-Focused Sustainability Solutions
+
+date: 2025-08-11, from: NASA breaking news
+
+NASA is accepting U.S. submissions for the second phase of the agency’s LunaRecycle Challenge, a Moon-focused recycling competition. The challenge aims to develop solutions for recycling common trash materials – like fabrics, plastics, foam, and metals – that could accumulate from activities such as system operations, industrial activities, and building habitats in deep space. Phase [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-continues-search-for-moon-focused-sustainability-solutions/>
+
+---
+
+## GitHub head ankles as Microsoft takes biz by the hand
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>Code hosting biz takes a back seat within Microsoft&#39;s CoreAI division</h4> <p>GitHub CEO Thomas Dohmke plans to leave the company and corporate parent Microsoft will not appoint a successor.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/github_head_ankles_as_microsoft/>
+
+---
+
+## One of San Francisco's Most Famous Houses Is Hosting a Pop-Up Museum of Street Artist Fnnch's Honey Bears
+
+date: 2025-08-11, from: Smithsonian Magazine
+
+Visitors to the Pink Painted Lady near Alamo Square Park will be able to see 116 editions of fnnch's honey bear paintings 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/one-of-san-franciscos-most-famous-houses-is-hosting-a-pop-up-museum-of-street-artist-fnnchs-honey-bears-180987145/>
+
+---
+
+## The Popular Perseid Meteor Shower Will Peak This Week—Here's How to Watch, Despite a Bright Moon
+
+date: 2025-08-11, from: Smithsonian Magazine
+
+A waning gibbous moon will impact viewing the shooting stars, but the famous meteor shower is still worth observing 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-popular-perseid-meteor-shower-will-peak-this-week-heres-how-to-watch-despite-a-bright-moon-180987142/>
+
+---
+
+## US scrambles to recoup $1M+ nicked by NORKs
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>The alleged perpetrators remain at large</h4> <p>The US Department of Justice is trying to recoup around $1 million that three IT specialists secretly working for the North Korean government allegedly stole from a New York company.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/us_tries_to_recover_1m/>
+
+---
+
+## NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean
+
+date: 2025-08-11, from: NASA breaking news
+
+The members of NASA’s SpaceX Crew-10 mission – Roscosmos cosmonaut Kirill Peskov, left, NASA astronauts Nichole Ayers and Anne McClain, and JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi – are all smiles after having landed in the Pacific Ocean off the coast of San Diego, Calif., Saturday, Aug. 9, 2025. The crew spent seven [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/>
+
+---
+
+## Californian man so furious about forced Windows 11 upgrade that he's suing Microsoft
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>He wants Microsoft to keep supporting Windows 10 until its market share drops below 10%</h4> <p>Many are unhappy about Microsoft&#39;s Windows 10 retirement plans, but a California man appears to be angrier than most. He&#39;s sued Redmond over the matter, and is demanding continued free Win 10 updates until the OS&#39;s popularity wanes. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/microsoft_sued_over_premature_windows/>
+
+---
+
+## Red teams are safe from robots for now, as AI makes better shield than spear
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>The bad news? The machines, and their operators, are coming on fast</h4> <p><strong>Black Hat/DEF CON</strong>  At the opening of Black Hat, the largest security shindig in the Hacker Summer Camp week ahead of DEF CON and BSides, the opening keynote speaker suggested the current state of AI slightly favors defenders over attackers, but he warned that was not a given for much longer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/ai_security_offense_defense/>
+
+---
+
+## Wikimedia Foundation loses first court battle to swerve Online Safety Act regulation
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>But it can contest if it lands up in &#39;Category 1,&#39; and the move hurts operations, says judge</h4> <p>Wikipedia today lost a legal battle against the UK&#39;s tech secretary to tighten the criteria around the Online Safety Act 2023 (OSA), as it seeks to exclude itself from the strictest regulations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/wikimedia_foundation_loses_online_safety/>
+
+---
+
+## Viennese virtualization veteran releases Proxmox VE 9 and Backup Server 4
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>Making a bit of a FOSS with Virtual Environment update</h4> <p>Viennese virtualization veteran Proxmox has updated its hypervisor and its storage offering to new, Debian 13 versions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/proxmox_ve9_and_bs4/>
+
+---
+
+## DisplayPort is better than HDMI, and I will die on this hill
+
+date: 2025-08-11, from: OS News
+
+Over the years, we’ve seen a good number of interfaces used for computer monitors, TVs, LCD panels and other all-things-display purposes. We’ve lived through VGA and the large variety of analog interfaces that preceded it, then DVI, HDMI, and at some point, we’ve started getting devices with DisplayPort support. So you might think it’s more of the same. However, I’d like to tell you that you probably should pay more attention to DisplayPort – it’s an interface powerful in a way that we haven’t seen before. ↫ Arya Voronova at HackADay DisplayPort is a better user experience in every way compared to HDMI. I am so, so sad that HDMI has won out in the consumer electronics space, with all of its countless anti-user features as detailed in the linked article. I refuse to use HDMI when DisplayPort is available, so all of my computers&#8217; displays are hooked up over DP. Whenever I did try to use HDMI, I always ran into issues with resolution, refresh rates, improper monitor detection, and go knows what else. Plug in a DP cable, and everything always just works. Sadly, in consumer electronics, DisplayPort isn&#8217;t all that common. Game consoles, Hi-Fi audio, televisions, and so on, all push HDMI hard and often don&#8217;t offer a DisplayPort option at all. It takes me back to the early-to-late 2000s, when my entire audio setup was hooked up using optical cables, simply because I was a MiniDisc user and had accepted the gospel of optical cables. Back then, too, I refused to buy or use anything that used unwieldy analog cables. Mind you, this had nothing to do with audio quality &#8211; it was a usability thing. If anyone is aware of home audio devices and televisions that do offer DisplayPort, feel free to jump into the comments. 
+
+<br> 
+
+<https://www.osnews.com/story/143032/displayport-is-better-than-hdmi-and-i-will-die-on-this-hill/>
+
+---
+
+## Dinosaur Teeth Provide Key Clues to Earth's Climate Past, Revealing High Levels of Carbon Dioxide
+
+date: 2025-08-11, from: Smithsonian Magazine
+
+A new study finds that the Mesozoic Era saw significantly higher quantities of the greenhouse gas than both pre-industrial and modern levels, likely due to volcanic activity 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/dinosaur-teeth-provide-key-clues-to-earths-climate-past-revealing-high-levels-of-carbon-dioxide-180987119/>
+
+---
+
+## Zig’s lovely syntax
+
+date: 2025-08-11, from: OS News
+
+It’s a bit of a silly post, because syntax is the least interesting d detail about the language, but, still, I can’t stop thinking how Zig gets this detail just right for the class of curly-braced languages, and, well, now you’ll have to think about that too. On the first glance, Zig looks almost exactly like Rust, because Zig borrows from Rust liberally. And I think that Rust has great syntax, considering all the semantics it needs to express (see “Rust’s Ugly Syntax”). But Zig improves on that, mostly by leveraging simpler language semantics, but also through some purely syntactical tasteful decisions. ↫ Alex Kladov Y&#8217;all know full well I know very little about programming, so there&#8217;s much interesting stuff I can add here. The only slightly related frame of reference I have is how some languages &#8211; as in, the ones we speak &#8211; have a pleasing grammar or spelling, and how even when you can&#8217;t actually speak a language, some of them intrinsically look attractive and pleasing when you see them in written form. I mean, you can&#8217;t look at Scottisch Gaelic and not notice it just looks pleasing: Dh’ éirich mi moch air mhaduinn an-dé‘S gun ghearr mi’n ear-thalmhainn do bhrìgh mo sgéilAn dùil gu ‘m faicinn fhéin rùn mo chléibhOch òin gu ‘m faca ‘s a cùl rium féin. ↫ Mo Shùil Ad Dhèidh by Donald MacNicol I have no idea if programmers can look at programming languages the same way, but I&#8217;ve often been told there&#8217;s more overlap between programming languages and regular language than many people think. As such, it wouldn&#8217;t surprise me if some programming languages look really pleasing to programmers, even if they can&#8217;t use them because they haven&#8217;t really learned them yet. 
+
+<br> 
+
+<https://www.osnews.com/story/143030/zigs-lovely-syntax/>
+
+---
+
+## What Does It Mean To Be Thirsty?
+
+date: 2025-08-11, from: Quanta Magazine
+
+The effects of insufficient water are felt by every cell in the body, but it’s the brain that manifests our experience of thirst.            <p>The post <a href="https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/" target="_blank">What Does It Mean To Be Thirsty?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/what-does-it-mean-to-be-thirsty-20250811/>
+
+---
+
+## Hanging up: AOL to pull the plug on its dial-up service after 36 years
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>A symphony of screeching come to an end! Parent Yahoo! confirms!</h4> <p>From the department of &#34;Want to feel old?&#34; comes news that AOL is finally pulling the plug on dial-up Internet access.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/aol_to_pull_the_plug/>
+
+---
+
+## 'Suddenly deprecating old models' users depended on a 'mistake,' admits OpenAI's Altman
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>Tech biz tweaks GPT-5, brings back 4 and others as options after customer backlash</h4> <p>OpenAI has brought back GPT-4o after a weekend of user protests - mostly about removal of model choice - following the rollout of GPT-5.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/openai_tweaks_gpt5_after_user/>
+
+---
+
+## Intel chief Lip-Bu Tan to visit White House after Trump calls for him to step down
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>Amid hints by president he may announce 100% tariffs on imported chips, semiconductors</h4> <p>Intel boss Lip-Bu Tan reportedly has an appointment at the White House today, just days after President Donald Trump called for his resignation. The move comes as Intel&#39;s former CEO Craig Barrett weighs in on the troubled chipmaker&#39;s future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/intel_chief_to_visit_white/>
 
 ---
 

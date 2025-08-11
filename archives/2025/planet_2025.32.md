@@ -1,11 +1,159 @@
 ---
 title: planet
-updated: 2025-08-11 06:09:21
+updated: 2025-08-11 14:10:44
 ---
 
 # planet
 
-(date: 2025-08-11 06:09:21)
+(date: 2025-08-11 14:10:44)
+
+---
+
+## One dead, dozens injured in US steel plant explosion
+
+date: 2025-08-11, from: RTÉ News
+
+A search and rescue operation was underway following explosions at a US Steel plant in the state of Pennsylvania that left at least one person dead and dozens wounded, officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0811/1527983-pennsylvania-plant-explosion/>
+
+---
+
+## Ahead of DC deployment, who are the National Guard?
+
+date: 2025-08-11, from: RTÉ News
+
+Donald Trump has ordered the mobilisation of hundreds of troops for deployment in Washington, DC. What exactly is the National Guard? 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527980-ahead-of-dc-deployment-who-are-the-national-guard/>
+
+---
+
+## Podcast: New insights on Prince Andrew's BBC interview
+
+date: 2025-08-11, from: RTÉ News
+
+A journalist who worked on a BBC investigation that ultimately saw Prince Andrew interviewed on the Newsnight programme has said she would like to see "pressure kept on for answers". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527970-podcast-new-insights-on-prince-andrews-bbc-interview/>
+
+---
+
+## UK scientist's remains recovered on Antarctic glacier
+
+date: 2025-08-11, from: RTÉ News
+
+The remains of a British meteorologist who died in an Antarctic expedition in 1959 have been recovered six decades later from a glacier, the British Antarctic Survey has said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0811/1527959-glacier-remains/>
+
+---
+
+## Pope's Wednesday General Audience to be held inside due to heat
+
+date: 2025-08-11, from: Vatican News
+
+
+                    <p>Pope Leo XIV's General Audience on Wednesday, August 13, will be held in the Paul VI Hall due to the extreme Roman heat.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-general-audience-13-august-held-inside-heat.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-general-audience-13-august-held-inside-heat.html>
+
+---
+
+## FSAI issue goats cheese recall over possible listeria
+
+date: 2025-08-11, from: RTÉ News
+
+A batch of Spar Chèvre goats cheese has been recalled due to the possible presence of Listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527951-listeria-cheese/>
+
+---
+
+## Finland charges ship captain over Baltic cable sabotage
+
+date: 2025-08-11, from: RTÉ News
+
+The captain and two senior officers of a ship believed to belong to Russia's "shadow fleet" have been charged with sabotage for cutting five Baltic Sea cables in December, Finnish prosecutors said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0811/1527938-finland-sea-cables/>
+
+---
+
+## Trump deploys National Guard to tackle Washington crime
+
+date: 2025-08-11, from: RTÉ News
+
+US President Donald Trump is to deploy 800 National Guard troops to the US capital and is putting Washington's police department under federal control, to combat what he described as a wave of lawlessness, despite statistics showing violent crime hit a 30-year low in 2024. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527940-trump-dc/>
+
+---
+
+## India Day festival in Dublin postponed over safety fears
+
+date: 2025-08-11, from: RTÉ News
+
+The Ireland India Council has announced that it will not go ahead with the India Day festival at Farmleigh in the Phoenix Park this Sunday because of fears over safety, following recent attacks on Indians in Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527936-ireland-india-day-festival/>
+
+---
+
+## Watch: Heroes' welcome for Camogie champions in Galway
+
+date: 2025-08-11, from: RTÉ News
+
+The All Ireland camogie champions arrived to a heroes' welcome in Ballinasloe, Co Galway, just before 6pm this evening. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0811/1527928-galway-camogie-hospital/>
+
+---
+
+## Young people have 'nothing to vote for', Sheridan says
+
+date: 2025-08-11, from: RTÉ News
+
+Businessman Gareth Sheridan has said that he is seeking the presidency to speak out for young people in Ireland who "are completely disenfranchised". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527926-young-people-have-nothing-to-vote-for-sheridan-says/>
+
+---
+
+## Two gardaí appear in court over corruption charges
+
+date: 2025-08-11, from: RTÉ News
+
+Two members of An Garda Síochána have appeared in court and will be sent forward for trial on a number of corruption linked charges in the midlands. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527920-gardai-longford-court/>
 
 ---
 
@@ -14,7 +162,7 @@ updated: 2025-08-11 06:09:21
 date: 2025-08-11, from: Vatican News
 
 
-                    <p>The Vatican has published a new Rescript, signed by the Prefect of the Secretariat for the Economy and approved by the Holy Father, that introduces several new measures regarding paternity leave, the rights of parents with children who are incapacitated or in situations of severe disability, and the granting of family allowances.</p>
+                    <p>The Vatican has published a new Rescript, signed by the Prefect of the Secretariat for the Economy and approved by the Holy Father, that introduces several new measures regarding paternity leave, the rights of parents with children who are incapacitated or have a severe disability, and the granting of family allowances.</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-expands-rights-for-parents-working-in-the-vatican.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -22,6 +170,78 @@ date: 2025-08-11, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/pope/news/2025-08/pope-expands-rights-for-parents-working-in-the-vatican.html>
+
+---
+
+## World News in Brief: Sudan’s agony continues, Colombian presidential candidate dies, the world celebrates the steelpan
+
+date: 2025-08-11, from: United Nations, Top Stories
+
+&nbsp;Across war-torn Sudan, civilians continue to face ongoing attacks, starvation and cholera outbreaks.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165629>
+
+---
+
+## Gaza: Guterres urges probe into killing of journalists, as child malnutrition deaths rise
+
+date: 2025-08-11, from: United Nations, Top Stories
+
+UN Secretary-General António Guterres has condemned the killing of six Palestinian journalists in Gaza this past weekend, his Spokesman said on Monday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165628>
+
+---
+
+## Safe seas key to global prosperity, Security Council told
+
+date: 2025-08-11, from: United Nations, Top Stories
+
+Shipping is crucial to the global economy, with more than 100,000 vessels a day transporting some 80 per cent of world commerce, but it remains vulnerable to disruptions caused by geopolitical tensions and transnational crime.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165627>
+
+---
+
+## Young people take the lead for a more sustainable future
+
+date: 2025-08-11, from: United Nations, Top Stories
+
+More than half the world’s population is under 30, and young people are leading grassroots efforts on issues from climate action to equality. Marking International Youth Day on Tuesday, the UN is highlighting the power of youth to transform their communities – and the wider world. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165623>
+
+---
+
+## Four years on, here’s what total exclusion of women in Afghanistan looks like
+
+date: 2025-08-11, from: United Nations, Top Stories
+
+In 2021, an Afghan woman could have run for president – although none did. Spool forward to 2025, they can’t even speak in public. There is an edict from the Taliban which labels public speaking by women a moral violation.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165622>
+
+---
+
+## Hospitals overflowing in Gaza, as malnutrition surges
+
+date: 2025-08-11, from: United Nations, Top Stories
+
+The humanitarian situation in Gaza continues to deteriorate, UN officials warned on Monday, describing overflowing hospitals, critically malnourished children, and desperate civilians risking their lives to secure food for their families. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165621>
 
 ---
 
@@ -46,6 +266,18 @@ Amber heat health warnings have been issued across large swathes of England, as 
 <br> 
 
 <https://www.rte.ie/news/uk/2025/0811/1527898-amber-heat-warning/>
+
+---
+
+## Heatwave conditions possible as temperatures set to rise
+
+date: 2025-08-11, from: RTÉ News
+
+Ireland could be about to experience a heatwave as temperatures are set to rise over the coming days, Met Éireann has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0811/1527898-ireland-heatwave/>
 
 ---
 
@@ -113,6 +345,18 @@ As summer temperatures rise, many Parisians are warming to the idea of installin
 
 ---
 
+## Whitmer told Trump in private that Michigan auto jobs depend on a tariff change of course
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7605674.1754914740!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-tariffs-stellantis.JPG' alt='Assembly workers leave the Chrysler Warren Truck Plant at the end of their shift in Warren, Michigan, U.S., April 3, 2025. ' width='620' height='349' title='Assembly workers leave the Chrysler Warren Truck Plant at the end of their shift in Warren, Michigan, U.S., April 3, 2025.'/><p>The Democrat came with a slide deck to make her points in a visual presentation. Just getting the meeting Tuesday with the Republican president was an achievement for someone viewed as a contender for her party's White House nomination in 2028.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/whitmer-trump-private-auto-job-chat-michigan-1.7605668?cmp=rss>
+
+---
+
 ## Alcohol, drug use in e-scooter crashes doubles - study
 
 date: 2025-08-11, from: RTÉ News
@@ -125,12 +369,24 @@ The presence of alcohol and drugs in patients involved in falls and collisions f
 
 ---
 
+## Alcohol, drug use in e-scooter crashes doubles - study
+
+date: 2025-08-11, from: RTÉ News
+
+The presence of alcohol and drugs in patients involved in falls and collisions from e-scooters has doubled while the wearing of helmets has decreased since the use of e-scooters on public roads was legalised last year, according to the findings of new research. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0811/1527862-e-scooter-study/>
+
+---
+
 ## President of Haitian Bishops’ Conference thanks Pope Leo XIV for appeal
 
 date: 2025-08-11, from: Vatican News
 
 
-                    <p>Archbishop Max Leroy Mesidor, the President of the Haitian Bishops’ Conference and Archbishop of Port-au-Prince, expresses to Vatican News the Haitian Bishops' gratitude for Pope Leo XIV's appeal for their nation on Sunday, while lamenting however that crime in the country "knows no bounds."</p>
+                    <p>Archbishop Max Leroy Mesidor, the President of the Haitian Bishops’ Conference and Archbishop of Port-au-Prince, expresses the Haitian Bishops' gratitude for Pope Leo XIV's appeal for their nation on Sunday, while lamenting that crime in the country "knows no bounds."</p>
                     <p><a href="https://www.vaticannews.va/en/church/news/2025-08/president-of-haitian-bishops-conference-thanks-pope-leo-appeal.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -166,6 +422,22 @@ The public should not buy medicines from unverified websites, the Irish Pharmacy
 <br> 
 
 <https://www.rte.ie/news/health/2025/0811/1527850-online-medicine-warning/>
+
+---
+
+## European leaders call for Ukraine’s involvement peace summit
+
+date: 2025-08-11, from: Vatican News
+
+
+                    <p>European leaders have called on U.S. President Donald J. Trump to involve Ukraine in a planned summit with his Russian counterpart, President Vladimir Putin, on ending the war in Ukraine.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/european-leaders-call-for-ukraine-s-involvement-peace-summit.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/european-leaders-call-for-ukraine-s-involvement-peace-summit.html>
 
 ---
 
@@ -217,11 +489,11 @@ Three-quarters of UN members have already or soon plan to recognise Palestinian 
 
 ---
 
-## 'Devastation' as man found dead, priest attacked in Down
+## Downpatrick murder victim a 'beloved' father, grandfather
 
 date: 2025-08-11, from: RTÉ News
 
-There is an "absolute sense of devastation and fear" in a local community after a man was found dead and a priest was attacked in Downpatrick, Co Down, yesterday. 
+A man who was killed in Co Down has been described by his family as a "beloved" father and grandfather. 
 
 <br> 
 
@@ -241,11 +513,11 @@ Australia will recognise a Palestinian state at the UN General Assembly in Septe
 
 ---
 
-## EU to hold urgent Ukraine talks before Trump, Putin meet
+## Trump says Ukraine, Russia will have to cede territory
 
 date: 2025-08-11, from: RTÉ News
 
-Ukraine could be a part of negotiations between the United States and Russia, a US official has said, as European leaders pushed for Ukraine's inclusion ahead of talks between presidents Vladimir Putin and Donald Trump. 
+US President Donald Trump said on Monday that Kyiv and Moscow will both have to cede land to end the war in Ukraine and talks with Russian President Vladimir Putin this week will instantly show whether the Kremlin leader is willing to make a deal. 
 
 <br> 
 
@@ -253,11 +525,11 @@ Ukraine could be a part of negotiations between the United States and Russia, a 
 
 ---
 
-## Israeli strike kills Al Jazeera journalists in Gaza
+## EU and UN condemn Israel's killing of journalists in Gaza
 
 date: 2025-08-10, from: RTÉ News
 
-A prominent Al Jazeera journalist, who had previously been threatened by Israel, has been killed along with four colleagues in an Israeli airstrike, in an attack condemned by journalists and rights groups. 
+The European Union has condemned the killing of five Al Jazeera journalists in an Israeli strike in Gaza, the bloc's foreign policy chief Kaja Kallas has said. 
 
 <br> 
 
@@ -543,7 +815,7 @@ It’s essential to work towards a two-State solution to the Israel-Palestine co
 
 ## From crisis to cultivation: Haiti’s farmers build resilience one seed at a time
 
-date: 2025-08-10, from: United Nations, Economic Development
+date: 2025-08-10, from: United Nations, Top Stories
 
 For years, low-quality seeds have been a concern in Haiti, with continual climate shocks and political insecurity adding to the existing challenges that farmers face in their attempts to grow food.&nbsp; 
 

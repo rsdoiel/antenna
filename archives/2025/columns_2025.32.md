@@ -1,11 +1,337 @@
 ---
 title: columns
-updated: 2025-08-11 06:09:26
+updated: 2025-08-11 14:10:49
 ---
 
 # columns
 
-(date: 2025-08-11 06:09:26)
+(date: 2025-08-11 14:10:49)
+
+---
+
+##  The Lord of the Rings Audiobook Is Fantastic 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-lord-of-the-rings-audiobook-is-fantastic>
+
+---
+
+## ★ OpenAI Brings Back Legacy ChatGPT 4o Model in Response to Outcry From Users Who Find GPT-5 Emotionally Unsatisfying
+
+date: 2025-08-11, updated: 2025-08-11, from: Daring Fireball
+
+It’s reasonable — especially for paying customers — to expect at least some advance notice of older models going away. But it’s unreasonable to think that older models are going to remain available in perpetuity — especially in the current LLM climate, where model age is measured in months, or even weeks. 
+
+<br> 
+
+<https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment>
+
+---
+
+## August 10, 2025
+
+date: 2025-08-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170717674/c5e9a5c500838b780b91e534b23277a1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170717674/c5e9a5c500838b780b91e534b23277a1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-10-2025-b9e>
+
+---
+
+##  Scientists have found a &#8220;robust&#8221; candidate for a planet orbiting Alpha Centauri... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047313-scientists-have-found-a-r>
+
+---
+
+##  Honey, I Have No Clue What You&#8217;re Talking About — I Did... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047314-honey-i-have-no-clue>
+
+---
+
+##  In a preseason game yesterday, Jacksonville Jaguars kicker Cam Little nailed a... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047315-in-a-preseason-game-yeste>
+
+---
+
+## AOL Pulls the Plug on Dial-Up Service
+
+date: 2025-08-11, updated: 2025-08-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.tomshardware.com/service-providers/network-providers/aol-will-end-dial-up-internet-service-in-september-34-years-after-its-debut-aol-shield-browser-and-aol-dialer-software-will-be-shuttered-on-the-same-day>
+
+---
+
+##  Smokey Bear Through the Years 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/smokey-bear-through-the-years>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Latuff never misses:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115011052064941440>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-11, from: Miguel de Icaza Mastondon feed)
+
+<p>I always assumed “sando” was bro-speak for sandwich.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115011014179291623>
+
+---
+
+## 2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)
+
+date: 2025-08-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-11-upgrading-debian-bookworm-12-to-trixie-13">2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)</h1>
+
+<blockquote>
+<p>Before starting the upgrade, make sure your <code>/boot</code> partition is at least 768 MB in size, and has about 300 MB free. If your system does not have a separate /boot partition, there should be nothing to do. &ndash; <a href="https://www.debian.org/releases/stable/release-notes/issues.html#ensure-boot-has-enough-free-space">5.1.5. Ensure /boot has enough free space</a></p>
+</blockquote>
+
+<p>I am missing 34M for boot!</p>
+
+<pre><code># df -h | grep boot
+/dev/sda2               734M  141M  540M  21% /boot
+</code></pre>
+
+<p>I&rsquo;m ignoring this for the moment. :(</p>
+
+<p>Deleting files from the last upgrade:</p>
+
+<pre><code>find /etc '(' -name '*.dpkg-*' -o -name '*.ucf-*' -o -name '*.merge-error' ')' -exec rm '{}' ';'
+</code></pre>
+
+<p>Purging config files:</p>
+
+<pre><code>apt purge '?narrow(?config-files)'
+</code></pre>
+
+<p>Removing old stuff and making space:</p>
+
+<pre><code>apt autoremove
+apt clean
+</code></pre>
+
+<p>Lots of reading.
+Replacing <code>/etc/apt/sources.list</code> with <code>/etc/apt/sources.list.d/debian.sources</code>:</p>
+
+<pre><code>Types: deb
+URIs: https://deb.debian.org/debian
+Suites: trixie trixie-updates
+Components: main non-free non-free-firmware contrib
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+
+Types: deb
+URIs: https://security.debian.org/debian-security
+Suites: trixie-security
+Components: main non-free non-free-firmware contrib
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+</code></pre>
+
+<p>And then:</p>
+
+<pre><code>apt update
+apt upgrade --without-new-pkgs
+apt full-upgrade
+</code></pre>
+
+<p>I&rsquo;m ignoring the warnings about directories the upgrade process was unable to delete:
+The ones I did check contained scripts and the like.
+I would have felt OK to delete directories with generated files, or files modified by me.
+But this? I don&rsquo;t know.</p>
+
+<p>Conflicts I ran into:</p>
+
+<pre><code>/etc/exim4/conf.d/main/03_exim4-config_tlsoptions
+</code></pre>
+
+<p>This file showed up as a conflict but it was nothing I remember doing. Install the maintainer version!</p>
+
+<pre><code>/etc/systemd/journald.conf
+</code></pre>
+
+<p>I had added <code>SystemMaxUse=200M</code> and <code>MaxRetentionSec=7d</code> because I didn&rsquo;t want to give the log files that much space. So I redid those changes for the maintainer version.</p>
+
+<pre><code>/etc/pam.d/login
+</code></pre>
+
+<p>I&rsquo;m not sure what this is about. Did I comment <code>session    optional   pam_motd.so motd=/run/motd.dynamic</code>? Perhaps I did. Let&rsquo;s go with the maintainer version and see if that&rsquo;s OK.</p>
+
+<p>To do after the upgrade:</p>
+
+<pre><code>rm /var/log/wtmp* /var/log/lastlog* /var/log/btmp*
+</code></pre>
+
+<p>I noticed that the sway background image is back.
+I had to add a line at the very end of my config file:</p>
+
+<pre><code>#
+# Debian
+#
+# Include all the extra config
+include /etc/sway/config.d/*
+# Override the background
+output * bg &quot;#333333&quot; solid_color
+</code></pre>
+
+<p><strong>2025-08-11</strong>. The things that aren&rsquo;t working on the server:</p>
+
+<p>Getting Node.js installed was a pain. It has a separate sources list from NodeSource. ☹️</p>
+
+<p><em>Solved, hopefully.</em></p>
+
+<p>Services that rely on Monit starting a Mojolicious app via Hypnotoad no longer work.
+Monit claims &ldquo;File &lsquo;/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/hypnotoad&rsquo; does not exist&rdquo;. ☹️</p>
+
+<p><em>Rewriting the wrappers as systemd services.</em></p>
+
+<p>My local Emacs can no longer connect to the server via Tramp. It just hangs. <code>ssh</code> and <code>mosh</code> still work, the config files are unchanged. ☹️</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-11-debian-trixie>
+
+---
+
+## Using GitHub Pages as a URL shortener / redirection service
+
+date: 2025-08-11, from: Chris Heilmann's blog
+
+With the fate of Goo.gl in the balance and many URL shortening/redirection services being either expensive or spammy, I wondered if I could find a free/cheap way of achieving the same. So I got myself a short domain (CLXI.org) and looked at using a GitHub repo with pages to redirect URLs. Turns out, this is [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/>
+
+---
+
+##  Karen Attiah: I Gained 20 Pounds of Muscle. Here&#8217;s What I Learned.... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047309-karen-attiah-i-gained-20>
+
+---
+
+## Viennese virtualization veteran releases Proxmox VE 9 and Backup Server 4
+
+date: 2025-08-11, updated: 2025-08-11, from: Liam Proven's articles at the Register
+
+<h4>Making a bit of a FOSS with Virtual Environment update</h4>
+      <p>Viennese virtualization veteran Proxmox has updated its hypervisor and its storage offering to new, Debian 13 versions.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/11/proxmox_ve9_and_bs4/>
+
+---
+
+##  &#8220;You cannot keep your soul intact while building the Torment Nexus. The... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047316-you-cannot-keep-your-soul>
+
+---
+
+##  American neo-Nazis love the Trump era. &#8220;[Trump] awakened a lot of people... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047310-american-neo-nazis-love-t>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-11, from: Dave Winer's Scripting News)
+
+Fixed a bit of breakage on the <a href="http://scripting.com/?tab=links">Links page</a> over the weekend. 
+
+<br> 
+
+<http://scripting.com/2025/08/11.html#a134529>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/12/hamstercage.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I want to work on the open web with other developers who make interesting products that we can hook up together to make new products. Or if users get an idea for linking two products, they can do it with scripting. It was a dream we had for the Mac, but it fell apart because Apple wanted to control everything. I find it's better when developers are free to work with each other, without interference from a big company like Apple. That's why "platform without a platform vendor" was the most important thing about the web. That and the utter simplicity of HTTP and HTML. We lost our way in the early-mid 00s when Twitter took over at the center of the blogosphere. Now you couldn't just work with other developers, first you had to work with Twitter and accept its limits. In one swoop we lost all the features listed on the <a href="https://textcasting.org/">textcasting</a> page. I am betting everything on the idea that we can build a collaborative environment like the web was before, and that the Mac had the promise of being before that and at the same time create a fantastic <a href="https://daytona.scripting.com/search?q=%22writer%27s%20web%22">writer's web</a>, far beyond what Twitter and twitter-like systems can do. 
+
+<br> 
+
+<http://scripting.com/2025/08/11.html#a132915>
+
+---
+
+##  Israel&#8217;s right-wing government has murdered five Al Jazeera journalists in a deliberate... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047307-israels-right-wing-govern>
 
 ---
 
@@ -77,6 +403,18 @@ date: 2025-08-11, from: Matt Haughey blog
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/115007907098778233>
+
+---
+
+## WorkOS: Simplify MCP Authorization
+
+date: 2025-08-11, updated: 2025-08-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/blog/mcp-authorization-in-5-easy-oauth-specs?utm_source=daringfireball&utm_medium=display&utm_campaign=q32025>
 
 ---
 

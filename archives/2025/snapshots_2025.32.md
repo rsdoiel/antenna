@@ -1,11 +1,251 @@
 ---
 title: snapshots
-updated: 2025-08-11 06:09:33
+updated: 2025-08-11 14:10:57
 ---
 
 # snapshots
 
-(date: 2025-08-11 06:09:33)
+(date: 2025-08-11 14:10:57)
+
+---
+
+## iOS 26 Developer Beta 6
+
+date: 2025-08-11, from: Michael Tsai
+
+Juli Clover: Apple today provided developers with the sixth betas of iOS 26 and iPadOS 26 for testing purposes, with the updates coming a week after Apple seeded the fifth betas. The release notes don&#8217;t call out any changes in beta 6. Juli Clover: The Lock Screen clock has been updated with additional transparency, allowing [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/11/ios-26-developer-beta-6/>
+
+---
+
+## macOS Tahoe 26 Developer Beta 6
+
+date: 2025-08-11, from: Michael Tsai
+
+Juli Clover: Apple today provided developers with the sixth beta of macOS Tahoe 26 for testing purposes, with the update coming a week after the fifth beta. The release notes don&#8217;t call out any changes in beta 6. Previously: macOS Tahoe 26 Developer Beta 5 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/11/macos-tahoe-26-developer-beta-6/>
+
+---
+
+## History of Apple’s Developer Relations
+
+date: 2025-08-11, from: Michael Tsai
+
+David Barnard (John Gruber): On the podcast I talk with John about the fascinating 40-year history of Apple&#8217;s developer relations, how almost going bankrupt in the 1990s shaped today&#8217;s control-focused approach, and why we might need an &#8216;App Store 3.0&#8217; reset. [&#8230;] As the App Store became a services giant, the partnership vibe faded. Developers [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/11/history-of-apples-developer-relations/>
+
+---
+
+## Ploopy TrackPad review: USB touchpad with open source firmware and multitouch support
+
+date: 2025-08-11, from: Liliputing
+
+<p>Most desktop computers are designed for keyboard and mouse input. Most laptops have a built-in touchpad. But it&#8217;s surprisingly difficult to find a good touchpad that&#8217;s designed for use in a desktop setup. Mac users have Apple&#8217;s Magic Trackpad. But if you&#8217;re using Windows or Linux you&#8217;ll either need to fight with unofficial drivers to [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ploopy-trackpad-review-usb-touchpad-with-open-source-firmware-and-multitouch-support/">Ploopy TrackPad review: USB touchpad with open source firmware and multitouch support</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ploopy-trackpad-review-usb-touchpad-with-open-source-firmware-and-multitouch-support/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-11, from: Robert's feed at BlueSky)
+
+This is important.  https://laist.com/news/politics/tuesday-august-14-boycott-operation-trojan-horse 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5i4dn56s23>
+
+---
+
+## New TestFlight Build Uploaded, Waiting for Review
+
+date: 2025-08-11, from: NetNewsWire
+
+<p>We know some folks are waiting on a new TestFlight build for iOS, and we have good news — we’ve just uploaded 6.1.10 (6198), and it’s waiting on Apple review. Once reviewed it will be available on TestFlight.</p> 
+
+<br> 
+
+<https://netnewswire.blog/2025/08/11/new-testflight-build-uploaded-waiting.html>
+
+---
+
+## Reddit will block the Internet Archive
+
+date: 2025-08-11, updated: 2025-08-11, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit">Reddit will block the Internet Archive</a></strong></p>
+Well this <em>sucks</em>. Jay Peters for the Verge:</p>
+<blockquote>
+<p>Reddit says that it has caught AI companies scraping its data from the Internet Archive’s Wayback Machine, so it’s going to start blocking the Internet Archive from indexing the vast majority of Reddit. The Wayback Machine will no longer be able to crawl post detail pages, comments, or profiles; instead, it will only be able to index the Reddit.com homepage, which effectively means Internet Archive will only be able to archive insights into which news headlines and posts were most popular on a given day.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/internet-archive">internet-archive</a>, <a href="https://simonwillison.net/tags/reddit">reddit</a>, <a href="https://simonwillison.net/tags/scraping">scraping</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/11/reddit-will-block-the-internet-archive/#atom-everything>
+
+---
+
+## Witch Hunts to Misinformation Campaigns
+
+date: 2025-08-11, from: Guy Kawasaki blog
+
+Julie Walsh, Whitehead Associate Professor of Critical Thought and Associate Professor of Philosophy, Wellesley College. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/witch-hunts-to-misinformation-campaigns>
+
+---
+
+## Overcompensating (temporada 1): superficial paseo por la dicha y la pena del autodescubrimiento
+
+date: 2025-08-11, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Disponible en: Prime Video. Creador: Benito Skinner. Dirección: Daniel Gray Longino, Desiree Akhavan. Guion: Benito Skinner, Scott King, Mitra Jouhari, Jordan Mendoza. Elenco: Benito Skinner, Wally Baram, Mary Beth Barone, Adam DiMarco, Rish Shah, Connie Britton, Kyle MacLachlan, Corteon Moore, Owen Thiele, Lukas Gage. País: Estados Unidos. Duración: ocho episodios de 30 minutos cada uno. [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-overcompensating-temporada-1/">Overcompensating (temporada 1): superficial paseo por la dicha y la pena del autodescubrimiento</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-overcompensating-temporada-1/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-overcompensating-temporada-1>
+
+---
+
+## Codex upgrade
+
+date: 2025-08-11, updated: 2025-08-11, from: Simon Willison’s Weblog
+
+<p>If you've been experimenting with OpenAI's <a href="https://github.com/openai/codex">Codex CLI</a> and have been frustrated that it's not possible to select text and copy it to the clipboard, at least when running in the Mac terminal (I genuinely didn't know it was possible to build a terminal app that disabled copy and paste) you should know that they fixed that in <a href="https://github.com/openai/codex/issues/1247">this issue</a> last week.</p>
+<p>The new <a href="https://github.com/openai/codex/releases/tag/rust-v0.20.0">0.20.0 version</a> from three days ago also completely removes the old TypeScript codebase in favor of Rust. Even installations via NPM now get the Rust version.</p>
+<p>I originally installed Codex via Homebrew, so I had to run this command to get the updated version:</p>
+<pre><code>brew upgrade codex
+</code></pre>
+<p>Another Codex tip: to use GPT-5 (or any other specific OpenAI model) you can run it like this:</p>
+<pre><code>export OPENAI_DEFAULT_MODEL="gpt-5"
+codex
+</code></pre>
+<p><em>This no longer works, see update below.</em></p>
+<p>I've been using a <code>codex-5</code> script on my PATH containing this, because sometimes I like to live dangerously!</p>
+<pre><code>#!/usr/bin/env zsh
+# Usage: codex-5 [additional args passed to `codex`]
+export OPENAI_DEFAULT_MODEL="gpt-5"
+exec codex --dangerously-bypass-approvals-and-sandbox "$@"
+</code></pre>
+<p><strong>Update</strong>: It looks like GPT-5 is <a href="https://github.com/openai/codex/blob/c61911524d839f5d56842faee0c46f6ef52d4387/codex-rs/core/src/config.rs#L28">the default model</a> in v0.20.0 already.</p>
+<p>Also the environment variable I was using no longer does anything, it was <a href="https://github.com/openai/codex/commit/107d2ce4e74618968b2eb7016777121d9529a204#diff-b012ea51eb2b6d23db97b930526379af9c4c119a3e057e55ea29d056326242e0L6">removed in this commit</a> (I used Codex Web to <a href="https://chatgpt.com/s/cd_689a252794b081919099d5ade205b41d">help figure that out</a>). You can use the <code>-m model_id</code> command-line option instead.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/11/codex-upgrade/#atom-everything>
+
+---
+
+## Zavala Will Always Be Free
+
+date: 2025-08-11, from: Maurice Parker
+
+<h2 id="my-promise-to-you">My promise to you.</h2>
+
+<p>I have every intention of maintaining and updating Zavala for as long as I am able. I’m also committed to keeping it free. I have no intention of getting you hooked on using it and then starting to charge a subscription.</p>
+
+<p>To show I am serious about this, Zavala is Open Source software released under the MIT license. This means that any other developer can take the years of work that I have in Zavala and make a competing outliner from it should I start charging for it. Given how small and competitive the outliner market is, I don’t stand much of a chance of making any money by going commercial. After all, I could be competing with my own past work.</p>
+
+<h2 id="what-if-i-get-ran-over-by-a-bus">What if I get ran over by a bus?</h2>
+
+<p>Since Zavala is Open Source someone could pick up the project and continue to update it. Worst case scenario, some enterprising independent developer could try to make a commercial product out of it. I don’t see much money in the endeavor, but others may see it differently.</p>
+
+<h2 id="why-don-t-i-charge-for-zavala-or-accept-donations">Why don’t I charge for Zavala or accept donations?</h2>
+
+<p>Funny story. I fully intended to when I started writing it. After doing some competitive analysis on the Mac-only, outliner market, I realized there wasn’t much money there. There was so little in fact, that it isn’t enough for me to be motivated enough to do the business side when I’d rather be coding.</p>
+
+<p>Let me break it down. Up front payments are a dead-end these days. I would have to add a free tier, in-app purchases, and maybe a subscription option to the app. That means more coding. Then I need to incorporate a business of some kind and do all the regular bookkeeping associated with it. That would be payroll taxes, quarterly and annual tax filings, etc… I used to own my own software consulting business and really don’t want to do that stuff again.</p>
+
+<p>But if I thought I could make it up on volume, that might make it worth while, right? The simple truth is most computer users don’t know what an outliner is, much less how useful they are. Even those that do, rarely need to use one on a daily basis. Zavala is free and has been all the years that it has been available in the App Store and I couldn’t make it on the number of users I have now. That number would probably drop to about zero if I were to start charging. Could I get more volume by marketing Zavala? Sure, but that is another business thing that costs time and money, that I don’t want to do.</p>
+
+<p>There is an upside to not having money involved when you write software. I don’t have to add features just to drive an upgrade cycle. With commercial software, you constantly have to deliver upgrades to keep a steady income regardless of if you are subscription based or charging up front. I don’t want Zavala to become bloatware. I don’t want to add features that I don’t believe add core value, just to keep the money coming in.</p>
+
+<p>Same goes for donations. I don’t accept donations because I don’t want to feel obligated to implement a feature that a donor may want, but that I don’t think belongs in Zavala. I would rather accept feature requests on an equal basis from all users and decide which to implement on the merit of the idea, rather than who gave me money.</p>
+
+<h2 id="why-write-zavala-at-all">Why write Zavala at all?</h2>
+
+<p>I retired early after a successful career as a software consultant. I really liked writing software, I just didn’t always like the work I had to do. Now I have the freedom to craft software how I see fit and only work on projects that I am interested in.</p>
+
+<p>The way I usually explain it is like this. Imagine you made furniture your whole life, but your employer only gave you pallet wood to use and half the time needed to make a piece. You were good at it and loved furniture, but were unfulfilled at your job until you retired. Now you can make furniture using walnut and take the time needed to make something you are proud of.</p>
+
+<h2 id="how-can-you-help-you-ask">How can you help, you ask?</h2>
+
+<p>Please, please email me with bug reports using the Provide Feedback option under Help (in Settings on iOS). I take them seriously and fix them as fast as I can. I do test Zavala as rigorously as I can. Unfortunately it is the nature of software that a developer will never be able to predict every way that users will use an app. Production bugs do happen. The best we can do is squash them as fast as possible.</p> 
+
+<br> 
+
+<https://vincode.io/2025/08/11/zavala-will-always-be-free.html>
+
+---
+
+## This DIY eReader has dual E Ink displays for a more book-like reading experience
+
+date: 2025-08-11, from: Liliputing
+
+<p>E Ink devices like the Amazon Kindle, Kobo, and B&#38;N Nook line of products promise a book-like reading experience thanks to displays that mimic some of the properties of ink on paper. But one big difference? For the most part they&#8217;re about the size of a single page in a paperback book. Pick up an [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-diy-ereader-has-dual-e-ink-displays-for-a-more-book-like-reading-experience/">This DIY eReader has dual E Ink displays for a more book-like reading experience</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-diy-ereader-has-dual-e-ink-displays-for-a-more-book-like-reading-experience/>
+
+---
+
+## Voiceover Artists Weigh the 'Faustian Bargain' of Lending Their Talents to AI
+
+date: 2025-08-11, from: 404 Media Group
+
+The human voiceover artists behind AI voices are grappling with the choice to embrace the gigs and earn a living, or pass on potentially life-changing opportunities from Big Tech. 
+
+<br> 
+
+<https://www.404media.co/voiceover-artists-ai-voice-acting-jobs-microsoft-openai-chatgpt/>
+
+---
+
+## The U.S. Army Is Testing AI Controlled Ground Drones Near a Border with Russia
+
+date: 2025-08-11, from: 404 Media Group
+
+The OverDrive is made to let ground vehicles navigate tough terrain with minimal input from humans. 
+
+<br> 
+
+<https://www.404media.co/the-u-s-army-is-testing-ai-controlled-ground-drones-near-a-border-with-russia/>
+
+---
+
+## Insignificant Figures
+
+date: 2025-08-11, updated: 2025-08-11, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/11/insignificant-figures/>
 
 ---
 

@@ -1,11 +1,103 @@
 ---
 title: home
-updated: 2025-08-11 06:09:29
+updated: 2025-08-11 14:10:53
 ---
 
 # home
 
-(date: 2025-08-11 06:09:29)
+(date: 2025-08-11 14:10:53)
+
+---
+
+## 35 of the Best Kalanchoe Varieties for Your Home and Garden
+
+date: 2025-08-11, from: The Gardener's Path
+
+<p>There are dozens of beautiful kalanchoe in cultivation, some prized for bold, colorful flowers, others for striking foliage, and a few for both. From the well-known florist’s kalanchoe to the lesser-seen lavender scallops, there's sure to be one that's perfect for you. Discover 35 of the best varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/best-kalanchoe-varieties/">35 of the Best Kalanchoe Varieties for Your Home and Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/best-kalanchoe-varieties/>
+
+---
+
+## "Freedom Cities" Won’t Solve the Housing Crisis
+
+date: 2025-08-11, from: Dwell
+
+And with President Trump’s proposed plan to build 10 brand-new cities on federally-owned land, democracy itself is also at stake. 
+
+<br> 
+
+<https://www.dwell.com/article/donald-trump-freedom-cities-6e3f8b9f>
+
+---
+
+## Steel Elements Bring a Sheen to This 1300s French Townhouse
+
+date: 2025-08-11, from: Dwell
+
+Danish brand Vipp added metal furnishings and minimalist finishes that complement the Lagrasse home’s weathered facade. 
+
+<br> 
+
+<https://www.dwell.com/article/vipp-lagrasse-townhouse-renovation-stainless-steel-7ac14123>
+
+---
+
+## This $3M Home Is Perched on Stilts Overlooking the Long Island Sound
+
+date: 2025-08-11, from: Dwell
+
+The wood-clad Connecticut residence has a thriving garden, rooftop solar panels, and 100 feet of waterfront land. 
+
+<br> 
+
+<https://www.dwell.com/article/contemporary-wood-home-benjamin-brennan-long-island-sound-real-estate-1a122f1b>
+
+---
+
+## 38 Species of Warblers in Florida (Pictures and Identification)
+
+date: 2025-08-11, from: Yard Life blog
+
+<p>Florida is a birdwatcher’s paradise, home to a wide variety of colorful warblers. During migration and breeding seasons, dozens of ... </p>
+<p class="read-more-container"><a title="38 Species of Warblers in Florida (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/38-species-of-warblers-in-florida-pictures-and-identification/#more-33637" aria-label="Read more about 38 Species of Warblers in Florida (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/38-species-of-warblers-in-florida-pictures-and-identification/">38 Species of Warblers in Florida (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/38-species-of-warblers-in-florida-pictures-and-identification/>
+
+---
+
+## 9 Woodpeckers in Tennessee (With Pictures and Identification)
+
+date: 2025-08-11, from: Yard Life blog
+
+<p>Woodpeckers are some of the most fascinating and easily recognizable birds in Tennessee. With their distinctive drumming sounds and striking ... </p>
+<p class="read-more-container"><a title="9 Woodpeckers in Tennessee (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-woodpeckers-in-tennessee-with-pictures-and-identification/#more-33629" aria-label="Read more about 9 Woodpeckers in Tennessee (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-woodpeckers-in-tennessee-with-pictures-and-identification/">9 Woodpeckers in Tennessee (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-woodpeckers-in-tennessee-with-pictures-and-identification/>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+Flowers &amp; Plants, Garden Basics, Landscaping 10 Things You Need to Do in Your Garden Before Summer Ends Your late-summer garden checklist.  Read more: 10 Things You Need&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

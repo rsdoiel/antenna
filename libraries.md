@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-11 06:09:28
+updated: 2025-08-11 14:10:52
 ---
 
 # libraries
 
-(date: 2025-08-11 06:09:28)
+(date: 2025-08-11 14:10:52)
 
 ---
 
@@ -30,6 +30,18 @@ Upadhyay, Arijit; Tröndle, Tim; Ganter, Alissa; Petkov, Ivalin; Gabrielli, Paol
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737644>
+
+---
+
+## The Roman Hat Mystery, by Ellery Queen
+
+date: 2025-08-11, from: Standard Ebooks, new releaases
+
+A police detective and his son attempt to solve the murder of a man attending a play at the theater. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/ellery-queen/the-roman-hat-mystery>
 
 ---
 

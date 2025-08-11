@@ -1,11 +1,193 @@
 ---
 title: pacific
-updated: 2025-08-11 06:09:24
+updated: 2025-08-11 14:10:47
 ---
 
 # pacific
 
-(date: 2025-08-11 06:09:24)
+(date: 2025-08-11 14:10:47)
+
+---
+
+## Pasifika Sipoti in brief for 12 August
+
+date: 2025-08-11, from: 
+
+A round-up of sports news in brief from around the region, including Fiji beating Samoa in a scrimmage match ahead of the women's Rugby World Cup. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569692/pasifika-sipoti-in-brief-for-12-august>
+
+---
+
+## UH Football home games to air LIVE statewide on Spectrum Sports in 2025 season
+
+date: 2025-08-11, from: University of Hawaiʻi News
+
+<p>The decision is part of a one-year contract extension with Spectrum as the official <abbr>TV</abbr> home of <abbr>UH</abbr> Athletics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/11/football-home-games-live-statewide/"><abbr>UH</abbr> Football home games to air LIVE statewide on Spectrum Sports in 2025 season</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/11/football-home-games-live-statewide/>
+
+---
+
+## Toxic algae bloom lingers off Australia, killing marine life
+
+date: 2025-08-11, from: 
+
+A toxic algae bloom has sparked growing concern in Australia as it lingers off the south coast, killing hundreds of marine species and disrupting fisheries. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/environment/567700/toxic-algae-bloom-lingers-off-australia-killing-marine-life>
+
+---
+
+## New Zealand can't talk about homelessness without tackling poverty, advocate says
+
+date: 2025-08-11, from: 
+
+A Pacific advocate for youth homelessness says Aotearoa must address poverty and systemic inequities to fix the housing affordability crisis. 
+
+<br> 
+
+<https://www.rnz.co.nz/news/national/569656/new-zealand-can-t-talk-about-homelessness-without-tackling-poverty-advocate-says>
+
+---
+
+## Pacific news in brief for 12 August
+
+date: 2025-08-11, from: 
+
+A round-up of news in brief from around the region, including Taiwan's Ministry of Foreign Affairs callin gon PIF to allow for its participation at next month's meeting. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569686/pacific-news-in-brief-for-12-august>
+
+---
+
+## Hyundai Card internship propels UH students into the future of AI, data science
+
+date: 2025-08-11, from: University of Hawaiʻi News
+
+<p>Shu and Malasarte worked on Hyundai Card’s data science team, contributing to a project using retrieval-augmented generation.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/11/hyundai-card-internship/">Hyundai Card internship propels <abbr>UH</abbr> students into the future of <abbr>AI</abbr>, data science</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/11/hyundai-card-internship/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Trump urges China to quadruple soybean orders
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+(Reuters) — President Donald Trump on Sunday urged China to quadruple its soybean purchases ahead of a key tariff truce deadline, sending Chicago soybean prices higher, though analysts were quick to question the feasibility of any such deal. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/trump-urges-china-to-quadruple-soybean-orders/article_216fb230-b428-46e6-bf8a-87e927d93121.html>
+
+---
+
+## ‘Weapons’ horror film scores a box office victory
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+LOS ANGELES (AP) — It’s August, and horror and humor came to play. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/weapons-horror-film-scores-a-box-office-victory/article_9e825eeb-8a5a-47c2-b984-dd0ed5741b21.html>
+
+---
+
+## Britain’s Royal Mail celebrates Monty Python with stamps featuring iconic sketches and characters
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+LONDON (AP) — And now for something completely different: Britain’s Royal Mail has issued stamps celebrating the absurdist comedy of Monty Python. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/britain-s-royal-mail-celebrates-monty-python-with-stamps-featuring-iconic-sketches-and-characters/article_04287d4a-d690-44eb-adad-25066fff357c.html>
+
+---
+
+## Poetry
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_c2047dad-9163-4d0e-93e2-3f9a6a7de9f7.html>
+
+---
+
+## Paul Manglona joins Senate leadership
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+SENATOR Paul A. Manglona, who was sworn in Thursday to fill the Rota Senate seat vacated by Lt. Gov. Dennis James Mendiola, joined the Senate leadership as chairman of the Senate Committee on Health, Welfare and Programs. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/paul-manglona-joins-senate-leadership/article_ee8c7f85-6fab-4a50-a70b-5ba3ac667d38.html>
+
+---
+
+## USDOT promises short-term support for NMI air transport challenges
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+THE U.S. Department of Transportation, the CNMI government, and the office of U.S. Congresswoman Kimberlyn King-Hinds are working together to address transportation issues that have been adversely affecting the islands’ primary economic driver — tourism. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/usdot-promises-short-term-support-for-nmi-air-transport-challenges/article_76edf3e7-631b-4801-a620-86d16fd0b04b.html>
+
+---
+
+## San Roque assault suspect granted bail, awaits hearings
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+BRANDON Russell Camacho, viral video assault suspect, has been released from Corrections custody after posting 10% of his $15,000 cash bail, or $1,500. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/san-roque-assault-suspect-granted-bail-awaits-hearings/article_e1a5292b-7985-494b-8b6c-46f30e70952e.html>
+
+---
+
+## Lawmakers discuss government downsizing and business reforms at Chamber meeting
+
+date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
+
+AT the Saipan Chamber of Commerce’s general membership meeting on Wednesday, Aug. 6 at the Kensington Hotel, members of the House of Representatives were invited as panelists to update the SCC on legislative developments. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/lawmakers-discuss-government-downsizing-and-business-reforms-at-chamber-meeting/article_334c706c-4970-469d-9cfb-fda1a643f5c0.html>
 
 ---
 
