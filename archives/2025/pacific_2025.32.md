@@ -1,11 +1,169 @@
 ---
 title: pacific
-updated: 2025-08-12 06:08:15
+updated: 2025-08-12 13:19:26
 ---
 
 # pacific
 
-(date: 2025-08-12 06:08:15)
+(date: 2025-08-12 13:19:26)
+
+---
+
+## A city on pause: Guam’s capital awaits a plan, a budget and political will
+
+date: 2025-08-12, from: Pacific Island Times
+
+The Hagåtña Restoration and Redevelopment Authority, or HRRA, has been around for nearly three decades, yet its mission to revitalize Guam’s historic capital city is still stuck at the starting line. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-city-on-pause-guam-s-capital-awaits-a-plan-a-budget-and-political-will>
+
+---
+
+## Suspension of salary 'unjustified' - Pryde
+
+date: 2025-08-12, from: 
+
+Fiji's chief prosecutor claims the President's suspension of his FJ$250,000 (approximately NZ$184,000) salary is illegal and unjustified. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569799/suspension-of-salary-unjustified-pryde>
+
+---
+
+## Pacific SIDs meet as UN plastics meeting continues in Geneva
+
+date: 2025-08-12, from: 
+
+Pacific Small Island Developing States (SIDS) are scheduled for a regional meeting on Tuesday in Geneva. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569801/pacific-sids-meet-as-un-plastics-meeting-continues-in-geneva>
+
+---
+
+## Meet the Fiji female engineers making their mark in Marshall Islands
+
+date: 2025-08-12, from: 
+
+Thirty years ago, the presence of a female worker in the power plants in the Marshall Islands wasn't just unusual: It rarely occurred, but that's now changed. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569800/meet-the-fiji-female-engineers-making-their-mark-in-marshall-islands>
+
+---
+
+## UH study links maternal obesity to autism-like traits in offspring
+
+date: 2025-08-12, from: University of Hawaiʻi News
+
+<p>The work highlights how a mother’s health prior to pregnancy can shape her child’s brain development.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/maternal-obesity-tied-to-autism/"><abbr>UH</abbr> study links maternal obesity to autism-like traits in offspring</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/maternal-obesity-tied-to-autism/>
+
+---
+
+## Rapa Nui’s iconic moai statues threatened by sea level rise
+
+date: 2025-08-12, from: University of Hawaiʻi News
+
+<p>Rising sea levels threaten Rapa Nui's iconic moai, with waves projected to reach the Ahu Tongariki ceremonial platform by 2080 according to <abbr>UH</abbr> research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/rapa-nui-sea-level-rise/">Rapa Nui’s iconic moai statues threatened by sea level rise</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/rapa-nui-sea-level-rise/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## New law forgives penalties, surcharges owed by CHCC to CUC
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+GOVERNOR David M. Apatang on Tuesday approved House Bill 24-29, which deems all outstanding penalties, surcharges, interest, and late fees owed by the Commonwealth Healthcare Corp. to the Commonwealth Utilities Corp. as satisfied in full. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-law-forgives-penalties-surcharges-owed-by-chcc-to-cuc/article_e3c22635-275c-4b43-88ca-d86e98af3a89.html>
+
+---
+
+## First batch of Hornbostel artifacts returned to Marianas
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+THE first phase of artifacts from the Hornbostel Collection returned to the Marianas on Tuesday. They were hand-carried from Hawaii to Saipan by NMI Museum of History and Culture Executive Director Leonard Leon. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/first-batch-of-hornbostel-artifacts-returned-to-marianas/article_731998c0-b393-419b-9777-b022ffbb9a4a.html>
+
+---
+
+## NMI economy
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+EVERY aspect of the CNMI relies on sustainable air transportation, which creates a viable economy through tourism. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/nmi-economy/article_021b828c-49ee-4fa1-8e99-6e2043239d75.html>
+
+---
+
+## Taylor Swift announces new album ‘The Life of a Showgirl’
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+(Reuters) — Superstar Taylor Swift on Tuesday announced her 12th studio album, "The Life of a Showgirl." 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/taylor-swift-announces-new-album-the-life-of-a-showgirl/article_dfdc25a7-e5f7-488c-817c-810e23b44789.html>
+
+---
+
+## Stabbing defendant held on $10K bail
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+SUPERIOR Court Judge Teresa Kim-Tenorio imposed a $10,000 cash bail on Darvin K. Muna, who was accused of stabbing another man on May 14, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/stabbing-defendant-held-on-10k-bail/article_70c85ab0-856a-47b2-8365-12552debb40b.html>
+
+---
+
+## ‘Farm babe’ versus ‘food babe’ influencer rivalry is a lopsided contest
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+(Reuters) — Michelle Miller stands in a field of corn, stalks stretching above her perfectly styled hair, holding a tiny microphone and addressing an audience online. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/farm-babe-versus-food-babe-influencer-rivalry-is-a-lopsided-contest/article_1938e7df-c0ac-4099-afe9-e15fa76b0c3b.html>
 
 ---
 
@@ -847,18 +1005,6 @@ THE sexual abuse of minor charges against Aaron Tulio Baisa were dismissed witho
 <br> 
 
 <https://www.mvariety.com/news/local/charges-against-aaron-baisa-dropped-without-prejudice-due-to-pending-dna-tests/article_6f464181-98f7-47f0-9b18-45defdbe0eb6.html>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-08-11, updated: 2025-08-11, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

@@ -1,11 +1,85 @@
 ---
 title: food
-updated: 2025-08-12 06:08:23
+updated: 2025-08-12 13:19:33
 ---
 
 # food
 
-(date: 2025-08-12 06:08:23)
+(date: 2025-08-12 13:19:33)
+
+---
+
+## Lucy Wang’s Mini Chashu Ramen
+
+date: 2025-08-12, from: Taste of Home
+
+Umami in a bowl! Super tender braised chashu pork slices with a rich broth, bouncy noodles, and a jammy and flavorful ramen egg—it’s literally the perfect bite. Even my picky 2 year old fell in love with slurping away this bowl of goodness. It’s a great recipe to prepare in advance, and even better as leftovers or as a meal prep. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lucy-wang-mini-chashu-ramen/>
+
+---
+
+## Tyler Smith’s PB&J Cobbler
+
+date: 2025-08-12, from: Taste of Home
+
+Time to take a childhood classic and make it into a dessert! This three-ingredient peanut butter and jelly cobbler turns the lunchbox sandwich into a simple, satisfying dessert that's perfect for PB&amp;J fans. — Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tyler-smith-pbj-cobbler/>
+
+---
+
+## Hershey Is Releasing a Brand-New Kit Kat Shape for Halloween
+
+date: 2025-08-12, from: Taste of Home
+
+<p>Step aside, Reese's pumpkin—there's a new candy shape in town.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/hershey-halloween-candy-2025/">Hershey Is Releasing a Brand-New Kit Kat Shape for Halloween</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hershey-halloween-candy-2025/>
+
+---
+
+## A Panama Gesha Broke Price Records (Again)
+
+date: 2025-08-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The record is now $30,204 per kilogram. 
+
+<br> 
+
+<https://sprudge.com/a-panama-gesha-broke-price-records-again-390362.html>
+
+---
+
+## Inside the Rise of Restaurant Run Clubs
+
+date: 2025-08-12, from: Bon Appetet
+
+Connection, community, and wellness are fueling a new tradition in the hospitality industry. 
+
+<br> 
+
+<https://www.bonappetit.com/story/restaurant-hospitality-run-clubs>
+
+---
+
+## Build-Outs Of Coffee: Single O In Tokyo, Japan
+
+date: 2025-08-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Single O in Tokyo, Japan. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-single-o-in-tokyo-japan-375055.html>
 
 ---
 
@@ -27,7 +101,7 @@ date: 2025-08-12, from: The Fresh Cup
 
 date: 2025-08-12, from: Bon Appetet
 
-These restaurants are rewriting the rules of Southern dining and cementing Atlanta's status as a true culinary capital. 
+These restaurants are rewriting the rules of Southern dining and cementing Atlanta’s status as a true culinary capital. 
 
 <br> 
 
@@ -147,7 +221,7 @@ Crunchy, seedy flax crackers get topped with dark chocolate and a showering of s
 
 date: 2025-08-12, from: Bon Appetet
 
-This riff on the Italian classic comfort food gets its verdant color from kale two ways: blended into the base, and wilted among the pasts and white beans. 
+This riff on the Italian classic comfort food gets its verdant color from kale two ways: blended into the base, and wilted among the pasta and white beans. 
 
 <br> 
 

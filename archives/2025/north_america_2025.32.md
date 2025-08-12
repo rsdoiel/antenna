@@ -1,11 +1,125 @@
 ---
 title: north america
-updated: 2025-08-12 06:08:13
+updated: 2025-08-12 13:19:24
 ---
 
 # north america
 
-(date: 2025-08-12 06:08:13)
+(date: 2025-08-12 13:19:24)
+
+---
+
+## D.C. Journalist Tom Sherwood speaks on Trump's federal takeover of the city 
+
+date: 2025-08-12, from: The Contrarian
+
+"How is this all going to work out? Who's in charge? Who gets to make the decisions?" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170790531/c357c637a288f83b159ad6270f1bfd20.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170790531/c357c637a288f83b159ad6270f1bfd20.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/dc-journalist-tom-sherwood-speaks>
+
+---
+
+## Don't tread on me
+
+date: 2025-08-12, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/dont-tread-on-me>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-12, from: The Contrarian
+
+Tuesday: Town halls go off the rails, D.C. turns out, ICE protests in Ohio and Arizona, Alaska prepares for Trump, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Let’s do Lunch! 08/12
+
+date: 2025-08-12, from: The Contrarian
+
+A recording from Jared Bernstein's Let's Do Lunch 08/12 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170799290/a6299f86bca0536355451df20e81934b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170799290/a6299f86bca0536355451df20e81934b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-0812>
+
+---
+
+## Two big things the legacy media missed about Colbert
+
+date: 2025-08-12, from: The Contrarian
+
+In the fight for democracy, there's something we must dismantle. 
+
+<br> 
+
+<https://contrarian.substack.com/p/two-big-things-the-legacy-media-missed>
+
+---
+
+##  Crypto Bros Took On Wall Street — And Won 
+
+date: 2025-08-12, from: The Lever News
+
+ Trump’s cryptocurrency allies convinced the administration to buck Wall Street and revive a rule giving consumers the right to access their financial data.  
+
+<br> 
+
+<https://www.levernews.com/crypto-bros-took-on-wall-street-and-won/>
+
+---
+
+##  Before A Steel Plant Exploded, Trump’s EPA Hid Risks From The Public 
+
+date: 2025-08-12, from: The Lever News
+
+ The Pittsburgh plant that exploded on Monday had a history of chemical accidents — and the Trump administration made that secret.  
+
+<br> 
+
+<https://www.levernews.com/before-a-steel-plant-exploded-trumps-epa-hid-risks-from-the-public/>
+
+---
+
+## People in ICE Custody Complain of Long Waits for Deportation
+
+date: 2025-08-12, from: Capital and Main
+
+<p>Many say they are still in immigration detention facilities months after agreeing to leave the U.S.</p>
+<p>The post <a href="https://capitalandmain.com/people-in-ice-custody-complain-of-long-waits-for-deportation">People in ICE Custody Complain of Long Waits for Deportation</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/people-in-ice-custody-complain-of-long-waits-for-deportation>
+
+---
+
+## How to burn a spy without saying a name
+
+date: 2025-08-12, from: The Contrarian
+
+Tulsi Gabbard&#8217;s declassification move wasn&#8217;t just reckless. It was strategic negligence. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-to-burn-a-spy-without-saying>
 
 ---
 
@@ -194,18 +308,6 @@ A recording from Coffee with Contrarians LIVE 08/11
 <br> 
 
 <https://contrarian.substack.com/p/coffee-with-contrarians-0811>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-11, from: The Contrarian
-
-Monday: Protests in California, Florida, and New York, a rally in Texas, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

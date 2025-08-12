@@ -1,11 +1,387 @@
 ---
 title: columns
-updated: 2025-08-12 06:08:17
+updated: 2025-08-12 13:19:28
 ---
 
 # columns
 
-(date: 2025-08-12 06:08:17)
+(date: 2025-08-12 13:19:28)
+
+---
+
+##  The Only Time Prince & Miles Davis Jammed Together Onstage: Watch the... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047329-the-only-time-prince>
+
+---
+
+## Perplexity Jumps the Shark, Makes Clownish $34.5 Billion Stunt Offer to Buy Chrome From Google
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22?st=r5gGet&reflink=desktopwebshare_permalink>
+
+---
+
+## Flower Power in 2025
+
+date: 2025-08-12, from: Dave Winer's Scripting News
+
+<p>You're going to think this is crazy, but maybe we should do what the hippie kids did in the 60s and 70s, giving flowers to the new cops in DC. Start off saying we don't blame you, we'll give you the benefit of the doubt, let's all be Americans and remember what that means.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/08/12/flowerPower.png"></center><a href="https://en.wikipedia.org/wiki/Flower_Power_(photograph)">Flower power</a>.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/12/192238.html?title=flowerPowerIn2025>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-08-12, from: Ryan Gantz Bluesky feed)
+
+*claude, gemini, gpt5, and grok all competing to assist, charm and validate me*
+
+siri: okay, here's some music you don't like
+alexa: btw i can send you more butt wipes, every month
+
+*the simping continues unabated as I strip naked and bolt into the forest* 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lw7zogfrls23>
+
+---
+
+## 2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)
+
+date: 2025-08-12, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-11-upgrading-debian-bookworm-12-to-trixie-13">2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)</h1>
+
+<blockquote>
+<p>Before starting the upgrade, make sure your <code>/boot</code> partition is at least 768 MB in size, and has about 300 MB free. If your system does not have a separate /boot partition, there should be nothing to do. &ndash; <a href="https://www.debian.org/releases/stable/release-notes/issues.html#ensure-boot-has-enough-free-space">5.1.5. Ensure /boot has enough free space</a></p>
+</blockquote>
+
+<p>I am missing 34M for boot!</p>
+
+<pre><code># df -h | grep boot
+/dev/sda2               734M  141M  540M  21% /boot
+</code></pre>
+
+<p>I&rsquo;m ignoring this for the moment. :(</p>
+
+<p>Deleting files from the last upgrade:</p>
+
+<pre><code>find /etc '(' -name '*.dpkg-*' -o -name '*.ucf-*' -o -name '*.merge-error' ')' -exec rm '{}' ';'
+</code></pre>
+
+<p>Purging config files:</p>
+
+<pre><code>apt purge '?narrow(?config-files)'
+</code></pre>
+
+<p>Removing old stuff and making space:</p>
+
+<pre><code>apt autoremove
+apt clean
+</code></pre>
+
+<p>Lots of reading.
+Replacing <code>/etc/apt/sources.list</code> with <code>/etc/apt/sources.list.d/debian.sources</code>:</p>
+
+<pre><code>Types: deb
+URIs: https://deb.debian.org/debian
+Suites: trixie trixie-updates
+Components: main non-free non-free-firmware contrib
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+
+Types: deb
+URIs: https://security.debian.org/debian-security
+Suites: trixie-security
+Components: main non-free non-free-firmware contrib
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+</code></pre>
+
+<p>And then:</p>
+
+<pre><code>apt update
+apt upgrade --without-new-pkgs
+apt full-upgrade
+</code></pre>
+
+<p>I&rsquo;m ignoring the warnings about directories the upgrade process was unable to delete:
+The ones I did check contained scripts and the like.
+I would have felt OK to delete directories with generated files, or files modified by me.
+But this? I don&rsquo;t know.</p>
+
+<p>Conflicts I ran into:</p>
+
+<pre><code>/etc/exim4/conf.d/main/03_exim4-config_tlsoptions
+</code></pre>
+
+<p>This file showed up as a conflict but it was nothing I remember doing. Install the maintainer version!</p>
+
+<pre><code>/etc/systemd/journald.conf
+</code></pre>
+
+<p>I had added <code>SystemMaxUse=200M</code> and <code>MaxRetentionSec=7d</code> because I didn&rsquo;t want to give the log files that much space. So I redid those changes for the maintainer version.</p>
+
+<pre><code>/etc/pam.d/login
+</code></pre>
+
+<p>I&rsquo;m not sure what this is about. Did I comment <code>session    optional   pam_motd.so motd=/run/motd.dynamic</code>? Perhaps I did. Let&rsquo;s go with the maintainer version and see if that&rsquo;s OK.</p>
+
+<p>To do after the upgrade:</p>
+
+<pre><code>rm /var/log/wtmp* /var/log/lastlog* /var/log/btmp*
+</code></pre>
+
+<p>I noticed that the sway background image is back.
+I had to add a line at the very end of my config file:</p>
+
+<pre><code>#
+# Debian
+#
+# Include all the extra config
+include /etc/sway/config.d/*
+# Override the background
+output * bg &quot;#333333&quot; solid_color
+</code></pre>
+
+<p><strong>2025-08-11</strong>. The things that aren&rsquo;t working on the server:</p>
+
+<p>Getting Node.js installed was a pain. It has a separate sources list from NodeSource. ☹️</p>
+
+<p><em>Solved, hopefully.</em></p>
+
+<p>Services that rely on Monit starting a Mojolicious app via Hypnotoad no longer work.
+Monit claims &ldquo;File &lsquo;/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/hypnotoad&rsquo; does not exist&rdquo;. ☹️</p>
+
+<p><em>Rewriting the wrappers as systemd services.</em></p>
+
+<p>My local Emacs can no longer connect to the server via Tramp. It just hangs. <code>ssh</code> and <code>mosh</code> still work, the config files are unchanged. ☹️</p>
+
+<p><strong>2025-08-12</strong>. Ah, if I start Gnome, my old enemy is back: <code>localsearch-3</code>.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-11-debian-trixie>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-12, from: Miguel de Icaza Mastondon feed)
+
+<p>This keyboard component is called “6-digit-verification entry pad”</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115017396978989937>
+
+---
+
+##  The Lego Game Boy 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-lego-game-boy>
+
+---
+
+## Trump's political hack nominee for the Bureau of Labor Statistics is already monkeying with the data. 
+
+date: 2025-08-12, from: Robert Reich's blog
+
+The Senate mustn't confirm him 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-political-hack-nominee-for>
+
+---
+
+## He’s a 33-year-old Pro-Palestine Muslim Who’s Winning the Jewish Vote, a Democratic Socialist Whom Every Dem Party Leader in NY Has Refused to Endorse, and a U.S. Citizen for Only 7 Years!
+
+date: 2025-08-12, from: Michael Moore's blog
+
+Of Course He&#8217;s the Next Mayor! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/hes-a-33-year-old-pro-palestine-muslim>
+
+---
+
+## August 11, 2025
+
+date: 2025-08-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170812034/4194b51583ecb4a6646005d8732d2169.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170812034/4194b51583ecb4a6646005d8732d2169.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-11-2025-f1e>
+
+---
+
+##  A Man Read 3,599 Books Over 60 Years, and Now His Family... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047322-a-man-read-3599-books>
+
+---
+
+## On Moral Politics
+
+date: 2025-08-12, from: Doc Searls on Medium
+
+ 
+
+<br> 
+
+<https://dsearls.medium.com/on-moral-politics-76098ad756ad?source=rss-c021b6737f47------2>
+
+---
+
+##  The Boston Globe&#8217;s Prescient 2016 View of Our Trumpist Future 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-boston-globes-prescient-2016-view-of-our-trumpist-future>
+
+---
+
+##  Wplace Is Exploding Online Amid a New Era of Youth Protest. &#8220;Some... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047325-wplace-is-exploding-onlin>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-12, from: Dave Winer's Scripting News)
+
+<a href="https://daytona.scripting.com/search?q=%22Paul%20Boutin%22">Paul Boutin</a> who I know from early Wired days offers some <a href="https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179622599">hope</a> that it can be gotten to work, with a bit more guesswork, trial and error and head scratching. I probably will keep coming back to this until I break through. Or maybe hook up with another developer who can back into the <a href="https://github.com/scripting/feedlandSocket">websocket hose</a> coming out of FeedLand. It's a natural thing to hook up to AI systems. 
+
+<br> 
+
+<http://scripting.com/2025/08/12.html#a161728>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-12, from: Miguel de Icaza Mastondon feed)
+
+<p>Next year I need to align our family vacation with the late stage of the iOS beta cycle.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115016690286450984>
+
+---
+
+##  The Iron Chef Opening Theme Was Composed by Hans Zimmer? 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-iron-chef-opening-theme-was-composed-by-hans-zimmer>
+
+---
+
+##  Vote for the 2025 Tiny Awards Site of the Year! This looks... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047320-vote-for-the-2025-tiny>
+
+---
+
+##  This website is for humans. &#8220;I write the content on this website... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047319-this-website-is-for-human>
+
+---
+
+## I just found out that Stephanie “Steve” Shirley passed away. She was an absolute hero to me.
+
+date: 2025-08-12, from: Jeremy Keith Blog
+
+
+<p>I just found out that Stephanie “Steve” Shirley passed away.</p>
+
+<p>She was an absolute hero to me.</p>
+
+ 
+
+<br> 
+
+<https://adactio.com/notes/22083>
+
+---
+
+##  Reddit will block the Internet Archive. &#8220;The company says that AI companies... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047318-reddit-will-block-the-int>
+
+---
+
+## Debian 13 'Trixie' arrives: x86-32 and MIPS out, RISC-V in
+
+date: 2025-08-12, updated: 2025-08-12, from: Liam Proven's articles at the Register
+
+<h4>Aside from glam, includes cool features like standalone GNOME Flashback session with no GNOME shell</h4>
+      <p>Debian 13 has arrived, now with RISC-V and preconfigured &#34;blends&#34; right in the main installer.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/12/debian_13_trixie_released/>
 
 ---
 
@@ -31,7 +407,7 @@ updated: 2025-08-12 06:08:17
 
 **@Dave Winer's Scripting News** (date: 2025-08-12, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/20/dave.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I had an hour to spare this morning so I decided for a third time to try to coax ChatGPT to play a role in a little drama I have in mind. I still want to use AI to power an RSS feed of news, customized to the interests of one person (me). My query is this: "Create a summary of the news, top 20 stories with an emphasis on these topics: how people are using AI, especially in education, blogging, US politics, science news, the NBA and MLB, with a slight emphasis on the Knicks and Mets. The results should be in JSON format, with each item including: A brief one sentence summary, publication date and a link to a source where the reader can get more info. My software will then create an RSS feed with this information.." The response was basically: "I'm sorry Dave." Groan. Here are <a href="https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179036482">the details</a>. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/20/dave.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I had an hour to spare this morning so I decided for a third time to try to coax ChatGPT to play a role in a little drama I have in mind. I still want to use AI to power an RSS feed of news, customized to the interests of one person (me). My <a href="https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179118706">query</a> is this: "Create a summary of the news, top 20 stories with an emphasis on these topics: how people are using AI, especially in education, blogging, US politics, science news, the NBA and MLB, with a slight emphasis on the Knicks and Mets. The results should be in JSON format, with each item including: A brief one sentence summary, publication date and a link to a source where the reader can get more info. My software will then create an RSS feed with this information.." The response was basically: "I'm sorry Dave." Groan. Here are <a href="https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179036482">the details</a>. 
 
 <br> 
 
@@ -164,6 +540,18 @@ date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
 
 ---
 
+## you do not have to use generative ai "art" in your blogs because there are websites where you can get real, nice images for free
+
+date: 2025-08-12, updated: 2025-08-12, from: Live Laugh blog
+
+ 
+
+<br> 
+
+<https://livelaugh.blog/posts/non-ai-images-for-blogs-websites/>
+
+---
+
 ##  I Spent 6 Years Building a Ridiculous Wooden Pixel Display. &#8220;I built... 
 
 date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
@@ -245,6 +633,22 @@ It’s reasonable — especially for paying customers — to expect at l
 <br> 
 
 <https://daringfireball.net/2025/08/openai_chatgpt_models_emotional_attachment>
+
+---
+
+## Monday session
+
+date: 2025-08-11, from: Jeremy Keith Blog
+
+
+<img src="https://adactio.com/images/uploaded/22082/small.jpg" srcset="https://adactio.com/images/uploaded/22082/medium.jpg 1.5x, https://adactio.com/images/uploaded/22082/large.jpg 2.5x" alt="Monday session" />
+<p>Monday session</p>
+
+ 
+
+<br> 
+
+<https://adactio.com/notes/22082>
 
 ---
 
@@ -342,121 +746,6 @@ date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
 
 ---
 
-## 2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)
-
-date: 2025-08-11, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-11-upgrading-debian-bookworm-12-to-trixie-13">2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)</h1>
-
-<blockquote>
-<p>Before starting the upgrade, make sure your <code>/boot</code> partition is at least 768 MB in size, and has about 300 MB free. If your system does not have a separate /boot partition, there should be nothing to do. &ndash; <a href="https://www.debian.org/releases/stable/release-notes/issues.html#ensure-boot-has-enough-free-space">5.1.5. Ensure /boot has enough free space</a></p>
-</blockquote>
-
-<p>I am missing 34M for boot!</p>
-
-<pre><code># df -h | grep boot
-/dev/sda2               734M  141M  540M  21% /boot
-</code></pre>
-
-<p>I&rsquo;m ignoring this for the moment. :(</p>
-
-<p>Deleting files from the last upgrade:</p>
-
-<pre><code>find /etc '(' -name '*.dpkg-*' -o -name '*.ucf-*' -o -name '*.merge-error' ')' -exec rm '{}' ';'
-</code></pre>
-
-<p>Purging config files:</p>
-
-<pre><code>apt purge '?narrow(?config-files)'
-</code></pre>
-
-<p>Removing old stuff and making space:</p>
-
-<pre><code>apt autoremove
-apt clean
-</code></pre>
-
-<p>Lots of reading.
-Replacing <code>/etc/apt/sources.list</code> with <code>/etc/apt/sources.list.d/debian.sources</code>:</p>
-
-<pre><code>Types: deb
-URIs: https://deb.debian.org/debian
-Suites: trixie trixie-updates
-Components: main non-free non-free-firmware contrib
-Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
-
-Types: deb
-URIs: https://security.debian.org/debian-security
-Suites: trixie-security
-Components: main non-free non-free-firmware contrib
-Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
-</code></pre>
-
-<p>And then:</p>
-
-<pre><code>apt update
-apt upgrade --without-new-pkgs
-apt full-upgrade
-</code></pre>
-
-<p>I&rsquo;m ignoring the warnings about directories the upgrade process was unable to delete:
-The ones I did check contained scripts and the like.
-I would have felt OK to delete directories with generated files, or files modified by me.
-But this? I don&rsquo;t know.</p>
-
-<p>Conflicts I ran into:</p>
-
-<pre><code>/etc/exim4/conf.d/main/03_exim4-config_tlsoptions
-</code></pre>
-
-<p>This file showed up as a conflict but it was nothing I remember doing. Install the maintainer version!</p>
-
-<pre><code>/etc/systemd/journald.conf
-</code></pre>
-
-<p>I had added <code>SystemMaxUse=200M</code> and <code>MaxRetentionSec=7d</code> because I didn&rsquo;t want to give the log files that much space. So I redid those changes for the maintainer version.</p>
-
-<pre><code>/etc/pam.d/login
-</code></pre>
-
-<p>I&rsquo;m not sure what this is about. Did I comment <code>session    optional   pam_motd.so motd=/run/motd.dynamic</code>? Perhaps I did. Let&rsquo;s go with the maintainer version and see if that&rsquo;s OK.</p>
-
-<p>To do after the upgrade:</p>
-
-<pre><code>rm /var/log/wtmp* /var/log/lastlog* /var/log/btmp*
-</code></pre>
-
-<p>I noticed that the sway background image is back.
-I had to add a line at the very end of my config file:</p>
-
-<pre><code>#
-# Debian
-#
-# Include all the extra config
-include /etc/sway/config.d/*
-# Override the background
-output * bg &quot;#333333&quot; solid_color
-</code></pre>
-
-<p><strong>2025-08-11</strong>. The things that aren&rsquo;t working on the server:</p>
-
-<p>Getting Node.js installed was a pain. It has a separate sources list from NodeSource. ☹️</p>
-
-<p><em>Solved, hopefully.</em></p>
-
-<p>Services that rely on Monit starting a Mojolicious app via Hypnotoad no longer work.
-Monit claims &ldquo;File &lsquo;/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/hypnotoad&rsquo; does not exist&rdquo;. ☹️</p>
-
-<p><em>Rewriting the wrappers as systemd services.</em></p>
-
-<p>My local Emacs can no longer connect to the server via Tramp. It just hangs. <code>ssh</code> and <code>mosh</code> still work, the config files are unchanged. ☹️</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-11-debian-trixie>
-
----
-
 ## Using GitHub Pages as a URL shortener / redirection service
 
 date: 2025-08-11, from: Chris Heilmann's blog
@@ -478,6 +767,67 @@ date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/08/0047309-karen-attiah-i-gained-20>
+
+---
+
+## This website is for humans - localghost
+
+date: 2025-08-11, from: Jeremy Keith Blog
+
+
+<blockquote>
+  <p>This website is for humans, and LLMs are not welcome here.</p>
+</blockquote>
+
+<p>Cosigned.</p>
+
+<p><a href="https://adactio.com/links/22081">adactio.com/links/22081</a></p>
+ 
+
+<br> 
+
+<https://localghost.dev/blog/this-website-is-for-humans/>
+
+---
+
+## Session talk
+
+date: 2025-08-11, from: Jeremy Keith Blog
+
+
+<p>I was in Nor’n Irelan’ at the end of July for my annual week of <a href="https://www.belfasttraditionalmusic.com/">Belfast Tradfest</a>.</p>
+
+<p>It was the best one yet. Classes in the morning, sessions all day, and concerts in the evening.</p>
+
+<p>There were also some excellent events at Ulster University during the afternoons—talks, film screenings, interviews and discussions.</p>
+
+<p>If you squint closely at <a href="https://images.squarespace-cdn.com/content/v1/58da46ee15d5db0567e7ca1c/1750803556821-68NZW483810FRP1HALAG/Festival+Poster+-+Print_A4.png">the poster for this year’s event</a> you’ll see my name on there. That’s because one of those afternoon events was me giving a talk about <a href="https://thesession.org/">thesession.org</a>.</p>
+
+<p>I’m no stranger to public speaking but this was a very different audience to the usual conferences I speak at. I had to make sure not to get technical. So I talked about the history of the site, <a href="https://thesession.org/help#houserules">the house rules</a>, changes made over time, and pointed out some features that people might’ve missed.</p>
+
+<p>I also made sure not to speak for too long. I had an hour but I kept the presentation to just 25 minutes so that there’d be plenty of time for questions and discussions afterwards.</p>
+
+<p>It went really well. People had lots of questions and ideas.</p>
+
+<p>Some interesting themes emerged from the discussion…</p>
+
+<p>There was no shortage of suggestions for features that were <em>technically</em> possible, but that I’m probably not going to add because of they might clutter up the interface.</p>
+
+<p>Some other people had suggestions for features that were actually already on the site …but implemented in such a subtle way that you could easily miss them.</p>
+
+<p>This highlights an ongoing balancing act I’ve been performing for the site’s two and a half decades of existence. I want to keep improving the site and ensuring that powerful features are available. But I also want to keep the site streamlined and easy to use.</p>
+
+<p>Thinking about it, this is one of the things that sets The Session apart from other tune collections out there. Many of them have great content but it’s not always easy to get to grips with it, at least at first.</p>
+
+<p>Still, I may have gone too far in the other direction with The Session. In trying to avoid cluttering up the interface, I might’ve buried some features a little deep.</p>
+
+<p>Anyway, all of this has been great food for thought. I’m really glad I got to meet so many people who use The Session. It literally wouldn’t exist without them.</p>
+
+ 
+
+<br> 
+
+<https://adactio.com/journal/22080>
 
 ---
 
@@ -748,6 +1098,91 @@ date: 2025-08-10, from: Heather Cox Richardson blog
 
 ---
 
+## Sit On Your Ass Web Development
+
+date: 2025-08-10, from: Jim Nielsen blog
+
+<p>I’ve been <del>reading</del> listening to <a href="https://press.stripe.com/poor-charlies-almanack" ><em>Poor Charlie’s Almanack</em></a> which is a compilation of talks by Charlie Munger, legendary vice-chairman at Berkshire Hathaway.</p>
+<p>One thing Charlie talks about is what he calls “sit on your ass investing” which is the opposite of day trading. Rather than being in the market every day (chasing trends, reacting to fluctuations, and trying to time transactions) Charlie advocates spending most of your time “sitting on your ass”. That doesn’t mean you’re doing nothing. It means that instead of constantly trading you’re spending your time in research and preparation for trading.</p>
+<p>Eventually, a top-tier opportunity will come along and your preparation will make you capable of recognizing it and betting big. <em>That’s when you trade.</em> After that, you’re back to “sitting on your ass”. Trust your research. Trust your choices. Don’t tinker. Don’t micromanage. Don’t panic. Just let the compounding effects of a good choice work in your favor.</p>
+<h2 id="day-trading-day-developing">Day Trading, Day Developing</h2>
+<p>As a day trader your job is to trade daily (it’s right there in the job title). If you’re not trading every day then what are you even doing? Not your job, apparently.</p>
+<p>I think it’s easy to view “development” like this. You’re a developer. Your job is to develop programs — to write code. If you’re not doing that every single day, then what are you even doing?</p>
+<p>From this perspective, it becomes easy to think that writing endless code for ever-changing software paradigms is just how one develops websites.</p>
+<p>But it doesn’t have to be that way. Granted, <a href="https://dubroy.com/blog/cold-blooded-software/" >there’s cold-blooded and warm-blooded software.</a> Sometimes you can’t avoid that.</p>
+<p>But I also think there’s a valuable lesson in Charlie’s insight.   You don’t have to chase “the market” of every new framework or API, writing endless glue code for features that already exist or that will soon exist in browsers. Instead, you can make a few select, large bets on the web platform and then “sit on your ass” until the payoff comes later!</p>
+<h2 id="an-example-polyfills">An Example: Polyfills</h2>
+<p>I think polyfills are a great example of an approach to “sit on your ass” web development. Your job as a developer is to know enough to make a bet on a particular polyfill that aligns with the future of the web platform. Once implemented, all you have to do is sit on your ass while other really smart people who are building browsers do their part to ship the polyfilled feature in the platform. Once shipped, you “sell” your investment by stripping out the polyfill and reap the reward of having your application get lighter and faster with zero additional effort.</p>
+<p>A big part of the payoff is in the waiting — in the “sitting on your ass”. You make a smart bet, then you sit patiently while others run around endlessly writing and rewriting more code (meanwhile the only thing left for you will be to delete code).</p>
+<p>Charlie’s business partner Warren Buffett once said that it’s “better to buy a wonderful company at a fair price, than a fair company at a wonderful price”. Similarly, I’d say it’s better to build on a polyfill aligned with the future of the platform than to build on a framework re-inventing a feature of the platform.</p>
+<h2 id="get-out-of-your-own-way">Get Out Of Your Own Way</h2>
+<p>Want to do “Day Trading Development”?</p>
+<ul>
+<li>Jump tools and frameworks constantly — “The next one will solve all our problems!”</li>
+<li>Build complex, custom solutions that duplicate work the web  platform is already moving towards solving.</li>
+<li>Commit code that churns with time, rather than compounds with it.</li>
+</ul>
+<p>Want to do “Sit on Your Ass Development”?</p>
+<ul>
+<li>Do the minimum necessary to bridge the gap until browsers catch up.</li>
+<li>Build on forward-facing standards, then sit back and leverage the compounding effects of browser makers and standards bodies that iteratively improve year over year (none of whom you have to pay).</li>
+<li>As <a href="https://notes.jim-nielsen.com/#2025-07-18T0946" >Alex Russel recommends</a>, spend as little time as possible in your own code and instead focus on glueing together “the big C++/Rust subsystems” of the browser.</li>
+</ul>
+<p>In short: spend less time glueing together tools and frameworks <em>on top of</em> the browser, and more time bridging tools and APIs <em>inside of the browser</em>. Then get out of your own way and go sit on your ass. You might find yourself more productive than ever!</p>
+<h2 id="update-2025-08-11">Update: 2025-08-11</h2>
+<p><a href="https://bsky.app/profile/davatron5000.bsky.social/post/3lw4vg2eo7k2w" >Dave Rupert mentioned</a> which web platform features he’s jumping on the bandwagon for:</p>
+<ul>
+<li>view transitions</li>
+<li>scroll-driven animations</li>
+<li>popover</li>
+<li>masonry</li>
+<li>web components</li>
+<li>carousels</li>
+</ul>
+<p>And I would add to that my own (at the time of this writing):</p>
+<ul>
+<li>http imports / importmaps</li>
+<li>css / json modules</li>
+<li>URLPattern</li>
+<li>css nesting</li>
+<li>relative color syntax</li>
+<li>HTML INCLUDES!</li>
+</ul>
+
+    <hr />
+    
+
+    <p>
+      Reply via:
+      
+
+      <a
+        href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/"
+        >Email</a
+      >
+      · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+
+      <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+    </p> 
+
+<br> 
+
+<https://blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/>
+
+---
+
+## Finished reading Judgment Prey
+
+date: 2025-08-10, updated: 2025-08-10, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/reading/books?search=Judgment%20Prey>
+
+---
+
 ## The King
 
 date: 2025-08-10, from: Dan Rather's Steady
@@ -818,4 +1253,16 @@ Last Thursday, Defense Secretary Pete Hegseth reposted a video in which Christia
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/august-9-2025>
+
+---
+
+## weekly retro #27: new coming soon business
+
+date: 2025-08-10, updated: 2025-08-10, from: Live Laugh blog
+
+ 
+
+<br> 
+
+<https://livelaugh.blog/posts/weekly-retro-2025-august-2/>
 

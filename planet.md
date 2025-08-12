@@ -1,19 +1,235 @@
 ---
 title: planet
-updated: 2025-08-12 06:08:12
+updated: 2025-08-12 13:19:22
 ---
 
 # planet
 
-(date: 2025-08-12 06:08:12)
+(date: 2025-08-12 13:19:22)
 
 ---
 
-## Lidl supermarket among closures over food safety issues
+## Appeal lodged against sentences over Seán Rooney murder
 
 date: 2025-08-12, from: RTÉ News
 
-A Lidl supermarket in Co Dublin was among ten premises issued with closure orders by the Food Safety Authority last month, where inspectors observed rodent droppings in mulitple locations. 
+Prosecutors in Lebanon have formally lodged an appeal against the sentences handed down over the murder of Irish peacekeeper Private Seán Rooney. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528144-sean-rooney/>
+
+---
+
+## Watch: International Roses explain a uniquely Irish event
+
+date: 2025-08-12, from: RTÉ News
+
+The annual Rose of Tralee festival is about to return for it's 66th year. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528139-rose-of-tralee/>
+
+---
+
+## Europa League qualifying: Shelbourne v Rijeka updates
+
+date: 2025-08-12, from: RTÉ News
+
+Shelbourne, with a 2-1 first-leg advantage, will be aiming to secure progession to the play-off round in fromt of their own fans. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0812/1528091-europa-league-qualifying-shelbourne-v-rijeka-updates/>
+
+---
+
+## 'Dream ticket' - Brendan Gleeson on returning to stage
+
+date: 2025-08-12, from: RTÉ News
+
+After a ten-year absence from the stage, Brendan Gleeson is returning to the stage for The Weir, describing the opportunity as a "dream ticket". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528141-brendan-gleeson/>
+
+---
+
+## National Guard troops in Washington DC after Trump order
+
+date: 2025-08-12, from: RTÉ News
+
+Members of the National Guard have arrived in Washington DC a day after US President Donald Trump announced he was deploying 800 troops to the capital and temporarily taking over the city's police department. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528134-trump-national-guard/>
+
+---
+
+## SIPTU calls for introduction of social intervention unit
+
+date: 2025-08-12, from: RTÉ News
+
+SIPTU has called for the introduction of a social intervention unit to work alongside the public transport police. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528131-siptu-social-intervention/>
+
+---
+
+## What deal might emerge from the Trump-Putin summit?
+
+date: 2025-08-12, from: RTÉ News
+
+US President Donald Trump and Russian President Vladimir Putin will discuss a possible deal to end the war in Ukraine when they meet on Friday in Alaska for a summit that is also likely to affect wider European security. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0812/1528132-trump-putin-summit/>
+
+---
+
+## Three more goats cheese products recalled over listeria
+
+date: 2025-08-12, from: RTÉ News
+
+Batches of three different goats cheese products have been recalled by the Food Safety Authority due to the possible presence of Listeria monocytogenes. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528129-goats-cheese-recall/>
+
+---
+
+## Hunger spreads in northern Nigeria
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>The International Committee of the Red Cross says that more than 3 million people are facing hunger in northeastern Nigeria – and the UN warns that a total of 30 million could be at risk across the country.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/hunger-spreads-in-northern-nigeria-red-cross.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/hunger-spreads-in-northern-nigeria-red-cross.html>
+
+---
+
+## Elders group of global leaders warns of Gaza 'genocide'
+
+date: 2025-08-12, from: RTÉ News
+
+The Elders group of international stateswomen and statesmen for the first time have called the situation in Gaza an "unfolding genocide", saying that Israel's obstruction of aid was causing a "famine". 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0812/1528116-elders-gaza/>
+
+---
+
+## Warning over use of inflatables at sea, coastal areas
+
+date: 2025-08-12, from: RTÉ News
+
+Water Safety Ireland has warned members of the public to leave inflatable toys at home when visiting the coast, after a teenager floated adrift 200 metres off Co Wicklow at the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528111-inflatables-warning-coast/>
+
+---
+
+## Extreme heat causing decline in tropical birds - study
+
+date: 2025-08-12, from: RTÉ News
+
+Tropical bird populations have plummeted not only due to deforestation but also extreme heat attributable to climate change, according to a new study. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0812/1528099-tropical-bird-decline/>
+
+---
+
+## Caritas Albano: Our poor will be the first to dine with the Pope
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>After presiding over Mass on Sunday 17 August, Pope Leo will share lunch with some 100 people experiencing poverty from the Diocese of Albano, and the Director of Caritas Albano says 'they are all eager to speak with him, to share their stories and struggles.'</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/caritas-albano-our-poor-will-be-the-first-to-dine-with-the-pope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/caritas-albano-our-poor-will-be-the-first-to-dine-with-the-pope.html>
+
+---
+
+## Holy See and Burundi mark sixty years of diplomatic relations
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>Cardinal Secretary of State Pietro Parolin pays a visit to Burundi for the close of the Jubilee marking 60 years of diplomatic relations between the Holy See and the East African nation. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/holy-see-and-burundi-mark-sixty-years-of-diplomatic-relations.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/holy-see-and-burundi-mark-sixty-years-of-diplomatic-relations.html>
+
+---
+
+## Northern Ireland 'crucial' to UK growth, says Chancellor
+
+date: 2025-08-12, from: RTÉ News
+
+Northern Ireland is "absolutely crucial" for the UK's growth prospects, the British Chancellor has said during a visit to Belfast. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0812/1528100-northern-irl-absolutely-crucial-to-uk-growth-reeves/>
+
+---
+
+## Madonna, U2 speak out on the humanitarian crisis in Gaza
+
+date: 2025-08-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7606859.1755016730!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2213828432.jpg' alt='An older blonde haired woman is shown in closeup wearing a white outfit.' width='620' height='349' title='NEW YORK, NEW YORK - MAY 05: Madonna attends the 2025 Met Gala Celebrating &quot;Superfine: Tailoring Black Style&quot; at Metropolitan Museum of Art on May 05, 2025 in New York City. '/><p>Madonna and U2 have each shone attention on the humanitarian crisis in Gaza, among the biggest music stars to do so since the war in the Palestinian enclave began in late 2023 after Hamas's deadly rampage in Israel.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/madonna-u2-gaza-1.7606703?cmp=rss>
+
+---
+
+## Rose of Tralee a 'reminder of good things in the world'
+
+date: 2025-08-12, from: RTÉ News
+
+Rose of Tralee co-hosts Dáithí Ó Sé and Kathryn Thomas have said the festival serves as a "reminder that there's good things in the world as well" as the event returns for its 66th year. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0812/1528083-rose-of-tralee-a-reminder-of-good-things-in-the-world/>
+
+---
+
+## Dublin Lidl store among July closures over food safety
+
+date: 2025-08-12, from: RTÉ News
+
+A Lidl supermarket in Co Dublin was among ten premises issued with closure orders by the Food Safety Authority last month, where inspectors observed rodent droppings in multiple locations. 
 
 <br> 
 
@@ -33,6 +249,18 @@ A community in Co Down has been "shaken and upset deeply" by the attack on a pri
 
 ---
 
+## Man charged with murder, attempted murder in Downpatrick
+
+date: 2025-08-12, from: RTÉ News
+
+A 30-year-old man has been charged with murder and attempted murder following the death of a man and the serious assault of a priest in Downpatrick. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0812/1528028-downpatrick-charge/>
+
+---
+
 ## Firefighters sail to Heir Island to put out gorse fire
 
 date: 2025-08-12, from: RTÉ News
@@ -42,6 +270,90 @@ A gorse fire which threatened three houses on Heir Island in West Cork was put o
 <br> 
 
 <https://www.rte.ie/news/2025/0812/1528077-gorse-fire-cork/>
+
+---
+
+## Record starvation and malnutrition in Gaza; more West Bank displacement
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+The United Nations continues to draw attention to the dire humanitarian situation in the Gaza Strip, where starvation and malnutrition are at the highest levels since hostilities began nearly three years ago.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165636>
+
+---
+
+## The world has the tools to end Haiti’s crisis – it’s time to use them
+
+date: 2025-08-12, from: United Nations, UN Affairs
+
+During her final briefing as resident and humanitarian coordinator for Haiti, Ulrika Richardson struggled to describe the realities of life in Haiti.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165635>
+
+---
+
+## Yemen: ‘Regional turmoil continues to erode prospects for peace,’ Security Council hears
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+UN Special Envoy for Yemen Hans Grundberg, briefing the Security Council on Tuesday, voiced concern over the latest clashes between Government forces and Houthi rebel militia.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165634>
+
+---
+
+## Gaza: UNESCO condemns ‘unacceptable’ killing of journalists
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+The UN organization which champions culture and education, UNESCO, has strongly condemned the targeted killing of six journalists in Palestine by an Israeli drone on 10 August. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165633>
+
+---
+
+## First Person: Echoes of war as aid arrives in Syria’s historical city
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+The transformation over two decades of the once thriving Syrian city of Sweida from tourist destination to a landscape marked by violence and loss has been detailed by the chief of a UN migration mission who recently visited the area. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165625>
+
+---
+
+## Gaza health system ‘catastrophic’ with hospitals overwhelmed and medicines running out, WHO warns
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+Public health conditions in Gaza are “catastrophic”, with hospitals operating far beyond capacity. Some life-saving medicines are totally out of stock, while deaths from malnutrition and disease are on the rise, the UN health agency warned on Tuesday. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165631>
+
+---
+
+## Myanmar: Rights investigators reveal ‘systematic torture’, sexual violence
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+UN-mandated independent investigators have uncovered “systematic torture” in Myanmar’s military-run detention facilities – including beatings, electric shocks, strangulations and gang rape – a pattern of atrocities which is intensifying across the country. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165630>
 
 ---
 
@@ -57,11 +369,11 @@ Publicans have called on the Government to introduce measures to address the num
 
 ---
 
-## 'Nothing will be left' - Israel prepares for Gaza battle
+## Gaza mediators 'working very hard' to revive truce plan
 
 date: 2025-08-12, from: RTÉ News
 
-In a dense urban landscape, with likely thousands of Hamas fighters lying in wait, taking Gaza City will be a difficult and costly slog for the Israeli army, security experts say. 
+Egypt has said that it was working with fellow Gaza mediators Qatar and the United States to broker a 60-day truce, as part of a renewed push to end the Israel-Hamas war. 
 
 <br> 
 
@@ -81,6 +393,18 @@ Sporting legends from across all codes have joined the 'Stand For Féile' fundra
 
 ---
 
+## Trump's D.C. police takeover could face crucial test in a month
+
+date: 2025-08-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7606644.1755005789!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-crime.JPG' alt='A soldier in camouflage uniform is shown in the distance carrying bags on a sidewalk in front of a city building.' width='620' height='349' title='A U.S. National Guard member carries bags at the D.C. Armory early Tuesday in Washington, D.C., after U.S. President Donald Trump&apos;s announcement to deploy the National Guard and federalize the Metropolitan Police Department, in the U.S. capital.'/><p>U.S. President Donald Trump has repeatedly threatened to put Washington, D.C., under full federal control to reduce crime. But there are legal roadblocks in making that more than a temporary state of affairs.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/trump-washington-dc-crime-explainer-1.7606598?cmp=rss>
+
+---
+
 ## Man killed in Spain wildfire as heatwave intensifies
 
 date: 2025-08-12, from: RTÉ News
@@ -90,6 +414,18 @@ A man died after suffering burns and thousands fled their homes in Spain as wild
 <br> 
 
 <https://www.rte.ie/news/world/2025/0812/1528048-spain-wildfires-death/>
+
+---
+
+## Wildfires across Europe hit tourism spots and forests
+
+date: 2025-08-12, from: RTÉ News
+
+Firefighters across Spain, Portugal, Greece, Turkey and the Balkans were battling wildfires today with another heatwave pushing temperatures over 40C across parts of Europe. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0812/1528048-wildfires-europe/>
 
 ---
 
@@ -111,11 +447,11 @@ date: 2025-08-12, from: Vatican News
 
 ---
 
-## Attacks on Indian community 'despicable' - Archbishop
+## President condemns attacks on Indian community in Ireland
 
 date: 2025-08-12, from: RTÉ News
 
-Recent attacks on members of the Indian community in Ireland are "completely and utterly despicable", the Catholic Archbishop of Dublin has said. 
+Recent attacks on members of the Indian community in Ireland are "despicable" and "diminish all of us", President Michael D Higgins has said. 
 
 <br> 
 
@@ -171,7 +507,7 @@ The Perseid meteor shower will reach its peak tonight and tomorrow, making it th
 
 date: 2025-08-12, from: RTÉ News
 
-It costs a lot of money to run for president of Ireland. 
+What are the costs associated with a presidential run? 
 
 <br> 
 
@@ -192,6 +528,30 @@ date: 2025-08-12, from: Vatican News
 <br> 
 
 <https://www.vaticannews.va/en/church/news/2025-08/pittsburgh-bishop-comfort-hurting-after-steel-works-explosion.html>
+
+---
+
+## How a Musqueam court case in B.C. inspired a fight for fishing rights on the other side of Canada
+
+date: 2025-08-12, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5725094.1754946345!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bud-sparrow.jpg' alt='A man wearing a flannel poses for a photo in front of a boat.' width='620' height='349' title='Bud Sparrow was the defendant in the now-renowned &apos;Sparrow case,&apos; which was decided by the Supreme Court of Canada in 1990.'/><p>As Canada weathers economic uncertainty due to tariffs, Indigenous people across the country are asserting their rights and title. The Sparrow decision in B.C. is a Supreme Court ruling that had an impact across Canada, including a M'ikmaw rights case in Nova Scotia.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/musqueam-case-inpires-fishing-rights-1.7605066?cmp=rss>
+
+---
+
+## Applegreen to open Taco Bell in M3 motorway service area
+
+date: 2025-08-12, from: RTÉ News
+
+Fuel and forecourt retailer Applegreen said it will open the country's first Taco Bell restaurant in September as part of a €15m investment in a new motorway service area at Junction 6 on the M3 in Dunshaughlin in Co Meath. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0812/1528025-applegreen-to-open-taco-bell-restaurant/>
 
 ---
 
@@ -231,11 +591,11 @@ Music superstar Taylor Swift has announced her 12th studio album The Life of a S
 
 ---
 
-## Zelensky says Russia is preparing for new attacks
+## US summit a 'personal victory' for Putin, says Zelensky
 
 date: 2025-08-12, from: RTÉ News
 
-Ukrainian President Volodymr Zelensky has said Moscow was not seeking peace in Ukraine and was instead preparing new attacks. 
+Ukrainian President Volodymyr Zelensky has said that Russian counterpart Vladimir Putin had scored a "personal victory" by getting invited to talks with Donald Trump on US soil, and that the meeting further delayed sanctions on Moscow. 
 
 <br> 
 
@@ -279,11 +639,11 @@ US President Donald Trump has ordered a delay in the reimposition of higher tari
 
 ---
 
-## WHO calls for more aid in Gaza before Israeli occupation
+## Humanitarian suffering in Gaza at 'unimaginable' levels
 
 date: 2025-08-12, from: RTÉ News
 
-The UN health agency has said Israel should let it stock medical supplies to deal with a "catastrophic" health situation in Gaza before it seizes control of Gaza City. 
+The humanitarian crisis in Gaza has reached "unimaginable levels", Ireland, Britain, Canada, Australia and several of their European allies have said, calling on Israel to allow unrestricted aid into the war-torn Palestinian enclave. 
 
 <br> 
 
@@ -336,6 +696,18 @@ Andy Moran is set to become the new manager of the Mayo senior footballers, with
 <br> 
 
 <https://www.rte.ie/sport/football/2025/0811/1527988-moran-set-to-take-the-reins-as-new-mayo-manager/>
+
+---
+
+## Arctic Sports added to 2025's Masters Indigenous Games lineup
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/ais/e8c25cd1-82a8-4020-849c-fa4453a09452,1754959267770/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='An athlete focuses on something above them.' width='620' height='349' title=''/><p>The biennial event brings together Indigenous athletes from around the world. This year there’s a new Arctic Games competition. Organizers say it's not only about competition, but education as well.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6863400?cmp=rss>
 
 ---
 
@@ -484,6 +856,18 @@ date: 2025-08-11, from: CBC, Indigenious News
 <br> 
 
 <https://www.cbc.ca/news/canada/north/brenda-mcdonald-takes-over-as-gwich-in-tribal-council-ceo-1.7606141?cmp=rss>
+
+---
+
+## Yukon First Nations Wildfire holds course to inspire underrepresented groups to join firefighting
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7605985.1754939371!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wildland-firefighter-group.jpg' alt='A group of people in wildland firefighting uniforms gather in a semi-circle outside ' width='620' height='349' title='Everyone gathers after the pump exercise to share feedback. This year&apos;s WOW had 15 participants. '/><p>The week-long course gives women and 2SLGBTQ+ people the chance to try out the training and equipment involved in wildland firefighting. </p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/woman-on-wildfires-firefighting-training-1.7605920?cmp=rss>
 
 ---
 
@@ -1265,7 +1649,7 @@ It is essential to work towards a two-State solution to the Israel-Palestine con
 
 ## From crisis to cultivation: Haiti’s farmers build resilience one seed at a time
 
-date: 2025-08-10, from: United Nations, Top Stories
+date: 2025-08-10, from: United Nations, Economic Development
 
 For years, low-quality seeds have been a concern in Haiti, with continual climate shocks and political insecurity adding to the existing challenges that farmers face in their attempts to grow food.&nbsp; 
 

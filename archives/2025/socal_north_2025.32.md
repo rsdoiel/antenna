@@ -1,11 +1,113 @@
 ---
 title: socal north
-updated: 2025-08-12 06:08:14
+updated: 2025-08-12 13:19:25
 ---
 
 # socal north
 
-(date: 2025-08-12 06:08:14)
+(date: 2025-08-12 13:19:25)
+
+---
+
+## Sheriff Robert Luna, the band WAR, Jane Close Conoley and a trailblazing Marine will receive keys to the city
+
+date: 2025-08-12, from: Longbeach Post
+
+<figure><img width="900" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d.jpg 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-768x514.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-161x108.jpg 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-400x268.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“Each of these distinguished honorees has made a profound impact on Long Beach—through education, public service, or by representing our city on the world stage,” said Mayor Rex Richardson. </p>
+<p>The post <a href="https://lbpost.com/news/sheriff-robert-luna-the-band-war-jane-close-conoley-and-a-trailblazing-marine-will-receive-keys-to-the-city">Sheriff Robert Luna, the band WAR, Jane Close Conoley and a trailblazing Marine will receive keys to the city</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sheriff-robert-luna-the-band-war-jane-close-conoley-and-a-trailblazing-marine-will-receive-keys-to-the-city>
+
+---
+
+## Hidden in Trump’s spending package: A surprise boost to California’s affordable housing
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+A change to federal tax credits could allow affordable housing production in California to as much as double, experts say. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/hidden-in-trump-spending-package-surprise-boost-to-california-affordable-housing>
+
+---
+
+## Say bye-bye to the beeps and boops of AOL's dial-up internet service
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+AOL debuted the service in 1991. Dial-up has largely been replaced by broadband internet. 
+
+<br> 
+
+<https://laist.com/news/say-bye-bye-to-the-beeps-and-boops-of-aol-dial-up-internet-service>
+
+---
+
+## What's at stake as Trump prepares to meet Putin in Alaska?
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+Trump said Ukrainian President Volodymyr Zelenskyy was unlikely to be included in talks he described as a "feel-out meeting" to better understand Russia's demands for ending its war in Ukraine. 
+
+<br> 
+
+<https://laist.com/news/politics/whats-at-stake-as-trump-to-meet-putin-in-alaska>
+
+---
+
+## The hidden costs of cutting Medicaid
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+Cutting Medicaid can seem like an easy way to slash the budget. But, the costs can spread to all of us. 
+
+<br> 
+
+<https://laist.com/news/health/the-hidden-costs-of-cutting-medicaid>
+
+---
+
+## Inflation remains elevated as Trump's tariffs take hold
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+Inflation remained elevated last month as President Trump's tariffs continued to make their way into the prices that consumers pay. The average cost of living in July was up 2.7%. 
+
+<br> 
+
+<https://laist.com/news/inflation-remains-elevated-as-trumps-tariffs-take-hold>
+
+---
+
+## Long Beach police ask for help finding missing 16-year-old
+
+date: 2025-08-12, from: Longbeach Post
+
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said he walked away after being dropped off at his home.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-police-ask-for-help-finding-missing-16-year-old">Long Beach police ask for help finding missing 16-year-old</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-police-ask-for-help-finding-missing-16-year-old>
+
+---
+
+## Triple digit heat and dry conditions remain for SoCal
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+The hot and dry weather conditions will continue until Tuesday. Come Wednesday, temperatures will begin to dip slightly. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/triple-digit-heat-and-dry-conditions-remain-for-socal>
 
 ---
 
@@ -47,7 +149,7 @@ The district is collaborating with law enforcement, labor leaders and local elec
 
 ## Mountain lion attacks 11-year-old girl in Malibu, then chases her mother
 
-date: 2025-08-11, updated: 2025-08-11, from: The LAist
+date: 2025-08-11, updated: 2025-08-12, from: The LAist
 
 After officials responded, the mountain lion was eventually tracked down and euthanized. 
 
@@ -73,7 +175,7 @@ Gov. Gavin Newsom said he would back off efforts for a Democratic gerrymander if
 
 date: 2025-08-11, from: Longbeach Post
 
-<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>"It's most likely she washed up onto land and was just stuck there, not able to push herself back into the water," one of the turtle's rescuers said.</p>
 <p>The post <a href="https://lbpost.com/news/sea-turtle-released-long-beach-aquarium">An injured, endangered sea turtle washed ashore; after 7 months, it has a new chance at life</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -113,7 +215,7 @@ date: 2025-08-11, from: Longbeach Post
 
 ## Trump says Nvidia will hand the US 15% of its H20 chip sales to China
 
-date: 2025-08-11, updated: 2025-08-11, from: The LAist
+date: 2025-08-11, updated: 2025-08-12, from: The LAist
 
 The president said that Nvidia would pay the government in exchange for easing export restrictions — and that he'd initially asked for a larger cut. 
 
@@ -125,7 +227,7 @@ The president said that Nvidia would pay the government in exchange for easing e
 
 ## Trump says he will 'feel out' Putin in Alaska on ending the war in Ukraine
 
-date: 2025-08-11, updated: 2025-08-11, from: The LAist
+date: 2025-08-11, updated: 2025-08-12, from: The LAist
 
 President Donald Trump says he thinks Russian President Vladimir Putin is ready to end his war on Ukraine, but will use a Friday summit to "feel out" his counterpart. 
 

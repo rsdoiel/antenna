@@ -1,11 +1,116 @@
 ---
 title: home
-updated: 2025-08-12 06:08:21
+updated: 2025-08-12 13:19:31
 ---
 
 # home
 
-(date: 2025-08-12 06:08:21)
+(date: 2025-08-12 13:19:31)
+
+---
+
+## Cultivating Future Ag Leaders: CDFA Welcomes Summer Interns and Fellows
+
+date: 2025-08-12, from: Calfifornia Dept. Aggriculture blog
+
+CDFA proudly welcomed seven interns and fellows this summer for work in divisions throughout the agency. The group includes five Maddy Institute* interns, one California Council on Science and Technology (CCST) fellow, and one Stanford Environment and Policy Internships (EPIC) &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29173">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29173>
+
+---
+
+## Asking $93K, This Completely Overhauled Spartan Camper Is One of a Kind
+
+date: 2025-08-12, from: Dwell
+
+Less than 600 Royal Spartanette travel trailers were made—and this one has been rebuilt from top to bottom with a wooden interior and a rooftop solar system. 
+
+<br> 
+
+<https://www.dwell.com/article/spartan-trailer-renovation-real-estate-bee98e3a>
+
+---
+
+## 4 Types of Jays in Washington State (Pictures and Identification)
+
+date: 2025-08-12, from: Yard Life blog
+
+<p>While hiking through the lush forests of Washington State, I often hear the loud, unmistakable calls of jays echoing among ... </p>
+<p class="read-more-container"><a title="4 Types of Jays in Washington State (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-jays-in-washington-state-pictures-and-identification/#more-33684" aria-label="Read more about 4 Types of Jays in Washington State (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-jays-in-washington-state-pictures-and-identification/">4 Types of Jays in Washington State (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-jays-in-washington-state-pictures-and-identification/>
+
+---
+
+## 3 Types of Egrets in Connecticut (With Pictures and Identification)
+
+date: 2025-08-12, from: Yard Life blog
+
+<p>Connecticut is home to three beautiful egret species that grace its wetlands, coastal marshes, and fields during warmer months. These ... </p>
+<p class="read-more-container"><a title="3 Types of Egrets in Connecticut (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-egrets-in-connecticut-with-pictures-and-identification/#more-33678" aria-label="Read more about 3 Types of Egrets in Connecticut (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-egrets-in-connecticut-with-pictures-and-identification/">3 Types of Egrets in Connecticut (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-egrets-in-connecticut-with-pictures-and-identification/>
+
+---
+
+## 43 Common Birds in Oregon​ (With Pictures and Identification)
+
+date: 2025-08-12, from: Yard Life blog
+
+<p>Discover the rich and diverse birdlife of Oregon with our guide to 43 common birds. From forests to urban parks, ... </p>
+<p class="read-more-container"><a title="43 Common Birds in Oregon​ (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/43-common-birds-in-oregon-with-pictures-and-identification/#more-33670" aria-label="Read more about 43 Common Birds in Oregon​ (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-common-birds-in-oregon-with-pictures-and-identification/">43 Common Birds in Oregon​ (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-common-birds-in-oregon-with-pictures-and-identification/>
+
+---
+
+## This Scottish Home Gives One Retiree Surreal Waterfront Views
+
+date: 2025-08-12, from: Dwell
+
+The bar-shaped residence juts out over the North Sea’s rocky shore, creating the effect of hovering above the water. 
+
+<br> 
+
+<https://www.dwell.com/article/rock-cove-cameron-webster-architects-retirement-home-f1638cb9>
+
+---
+
+## I Was Terrified to Fly with My Senior Dog for the First Time. This Air Carrier Made It a Breeze.
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+Dog-first airlines are ushering in a new era of pet travel. Our travel editor decided to try JSX out with her senior dog. 
+
+<br> 
+
+<https://www.sunset.com/travel/dog-friendly-airlines-jsx>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours This Bend, Oregon Property Gives Off Major Summer Camp Vibes On a sprawling family compound in rural Oregon, designer Julie Hawkins created the ultimate “rec barn” with everything her clients need to&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -243,18 +348,6 @@ date: 2025-08-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/9-woodpeckers-in-tennessee-with-pictures-and-identification/>
-
----
-
-## Homepage 2025
-
-date: 2025-08-11, from: Sunset Magazine - Living in the West
-
-Flowers &amp; Plants, Garden Basics, Landscaping 10 Things You Need to Do in Your Garden Before Summer Ends Your late-summer garden checklist.  Read more: 10 Things You Need&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

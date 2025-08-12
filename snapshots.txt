@@ -36,7 +36,6 @@ https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 https://cabel.com/feed/ "~Cobel Sasser's blog"
 https://cate.blog/feed/ "~Accidentally in Code"
 https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://chriscoyier.net/feed/ "~Chris Coyier blog"
 https://collectionsasdata.github.io/atom.xml "~Collections Data blog"
 https://commandcenter.blogspot.com/feeds/posts/default?alt=rss "~Rob Pike's blog"
 https://computeradsfromthepast.substack.com/feed "~Computer ads from the Past"
@@ -279,3 +278,11 @@ https://buttondown.com/whatever_jamie/rss "~Whatever, Jamie blog (Jamie Birch)"
 https://buttondown.com/blog "~Buttondown Blog"
 
 https://research.swtch.com/feed.atom "~Russ Cox's views on programs and programming"
+
+# Cloudfour.com
+https://cloudfour.com/feed/ "~Cloud Four"
+# Web DOT Dev blog
+https://web.dev/static/blog/feed.xml "~Web Dev blog"
+# WebKit Blog
+https://webkit.org/feed/ "~WebKit blog"
+

@@ -1,11 +1,296 @@
 ---
 title: snapshots
-updated: 2025-08-12 06:08:25
+updated: 2025-08-12 13:19:35
 ---
 
 # snapshots
 
-(date: 2025-08-12 06:08:25)
+(date: 2025-08-12 13:19:35)
+
+---
+
+## Reddit Will Block the Internet Archive
+
+date: 2025-08-12, from: Michael Tsai
+
+Jay Peters: Reddit says that it has caught AI companies scraping its data from the Internet Archive&#8217;s Wayback Machine, so it&#8217;s going to start blocking the Internet Archive from indexing the vast majority of Reddit. The Wayback Machine will no longer be able to crawl post detail pages, comments, or profiles; instead, it will only [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/12/reddit-will-block-the-internet-archive/>
+
+---
+
+## GitHub CEO Resigns, Not Replaced
+
+date: 2025-08-12, from: Michael Tsai
+
+Thomas Dohmke (tweet): From building mobile developer tools, to running the acquisition of GitHub alongside Nat Friedman, to becoming GitHub&#8217;s CEO and guiding us into the age of Copilot and AI, it has been the ride of a lifetime. Still, after all this time, my startup roots have begun tugging on me and I&#8217;ve decided [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/12/github-ceo-resigns-not-replaced/>
+
+---
+
+## JSONSerialization Can Throw NSExceptions
+
+date: 2025-08-12, from: Michael Tsai
+
+Peter Steinberger (tweet): lol of the day: Apple&#8217;s JSONSerialization can throw NSExceptions. These cannot be captured in Swift. Gotta go back to ObjC and write a wrapper. The documentation suggests that to avoid this you can first call isValidJSONObject(). Of course, you have to remember to do this, and it adds overhead to the common [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/12/jsonserialization-can-throw-nsexceptions/>
+
+---
+
+## SwiftData Runtime
+
+date: 2025-08-12, from: Michael Tsai
+
+Richard Witherspoon: I&#8217;m working with SwiftData and trying to replicate behavior similar to what I used to do with CoreData, where I had an extension on NSManagedObjectContext that allowed me to fetch all stored objects, regardless of entity type.[&#8230;]I&#8217;m now using SwiftData with @Model types and the ModelContext, and I want to dynamically fetch all [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/12/swiftdata-runtime/>
+
+---
+
+## Daily Deals (8-12-2025)
+
+date: 2025-08-12, from: Liliputing
+
+<p>Handheld gaming PCs with Intel Meteor Lake processors never really took off in a big way, because they were sold in the same price range as AMD Ryzen-powered models that offered better graphics and efficiency. But if you&#8217;re looking to save a few bucks, Best Buy is running a sale on several handheld gaming PCs. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-8-12-2025/">Daily Deals (8-12-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-8-12-2025/>
+
+---
+
+## He’s a 33-year-old Pro-Palestine Muslim Who’s Winning the Jewish Vote, a Democratic Socialist Whom Every Dem Party Leader in NY Has Refused to Endorse, and a U.S. Citizen for Only 7 Years!
+
+date: 2025-08-12, from: Michael Moore's blog
+
+Of Course He&#8217;s the Next Mayor! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/hes-a-33-year-old-pro-palestine-muslim>
+
+---
+
+## Claude Sonnet 4 now supports 1M tokens of context
+
+date: 2025-08-12, updated: 2025-08-12, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/news/1m-context">Claude Sonnet 4 now supports 1M tokens of context</a></strong></p>
+Gemini and OpenAI both have million token models, so it's good to see Anthropic catching up. This is 5x the previous 200,000 context length limit of the various Claude Sonnet models.</p>
+<p>Anthropic have previously made 1 million tokens available to select customers. From <a href="https://www.anthropic.com/news/claude-3-family">the Claude 3 announcement</a> in March 2024:</p>
+<blockquote>
+<p>The Claude 3 family of models will initially offer a 200K context window upon launch. However, all three models are capable of accepting inputs exceeding 1 million tokens and we may make this available to select customers who need enhanced processing power.</p>
+</blockquote>
+<p>This is also the first time I've seen Anthropic use prices that vary depending on context length:</p>
+<ul>
+<li>Prompts ≤ 200K: $3/million input, $15/million output</li>
+<li>Prompts &gt; 200K: $6/million input, $22.50/million output</li>
+</ul>
+<p>Gemini have been doing this for a while: Gemini 2.5 Pro is $1.25/$10 below 200,000 tokens and $2.50/$15 above 200,000.</p>
+<p>Here's <a href="https://docs.anthropic.com/en/docs/build-with-claude/context-windows#1m-token-context-window">Anthropic's full documentation on the 1m token context window</a>. You need to send a <code>context-1m-2025-08-07</code> beta header in your request to enable it.</p>
+<p>Note that this is currently restricted to "tier 4" users who have purchased at least $400 in API credits:</p>
+<blockquote>
+<p>Long context support for Sonnet 4 is now in public beta on the Anthropic API for customers with Tier 4 and custom rate limits, with broader availability rolling out over the coming weeks.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://x.com/claudeai/status/1955299573620261343">@claudeai</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/12/claude-sonnet-4-1m/#atom-everything>
+
+---
+
+## MINIX launches ER936-AI and ER937-AI AMD Strix Point mini PCs for $789 and up
+
+date: 2025-08-12, from: Liliputing
+
+<p>The MINIX ER936-AI and ER937-AI are a set of compact desktop computers with AMD Strix Point processors that combine Zen 5 CPU cores with RDNA 3.5 graphics and a 50 TOPS NPU. First unveiled during Computex in June, the mini PCs are now available for pre-order and they&#8217;re expected to begin shipping in early September. Prices start at [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minix-launches-er936-ai-and-er937-ai-amd-strix-point-mini-pcs-for-789-and-up/">MINIX launches ER936-AI and ER937-AI AMD Strix Point mini PCs for $789 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minix-launches-er936-ai-and-er937-ai-amd-strix-point-mini-pcs-for-789-and-up/>
+
+---
+
+## This DIY handheld gaming PC has RTX 4090 graphics and a 12.5 inch, 4K display
+
+date: 2025-08-12, from: Liliputing
+
+<p>The upcoming GPD Win 5 and AYANEO Next 2 are going to be some of the first commercially-available handheld gaming PCs with discrete-class graphics thanks to their AMD Strix Halo processors with up to Radeon 8060S integrate graphics. But a Chinese modder decided to make a handheld that has an actual discrete GPU. A video posted to Bilbili [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-diy-handheld-gaming-pc-has-rtx-4090-graphics-and-a-12-5-inch-4k-display/">This DIY handheld gaming PC has RTX 4090 graphics and a 12.5 inch, 4K display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-diy-handheld-gaming-pc-has-rtx-4090-graphics-and-a-12-5-inch-4k-display/>
+
+---
+
+## UK Asks People to Delete Emails In Order to Save Water During Drought
+
+date: 2025-08-12, from: 404 Media Group
+
+As Britain experiences one of its worst droughts in decades, its leaders suggest people get rid of old data to reduce stress on data centers. 
+
+<br> 
+
+<https://www.404media.co/uk-asks-people-to-delete-emails-in-order-to-save-water-during-drought/>
+
+---
+
+## On Moral Politics
+
+date: 2025-08-12, from: Doc Searls on Medium
+
+ 
+
+<br> 
+
+<https://dsearls.medium.com/on-moral-politics-76098ad756ad?source=rss-c021b6737f47------2>
+
+---
+
+## Ancient Rome's Lessons on Leadership and Isolation
+
+date: 2025-08-12, from: Guy Kawasaki blog
+
+Kirk Freudenburg, Brooks and Suzanne Ragen Professor of Classics, Yale University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/ancient-romes-lessons-on-leadership>
+
+---
+
+## PinePhone Pro Linux smartphone has been discontinued, but the original PinePhone is still available
+
+date: 2025-08-12, from: Liliputing
+
+<p>The PinePhone Pro is a Linux-friendly smartphone that launched in early 2022 as a higher-performance alternative to the original PinePhone. With a faster processor, more memory and storage, and a better camera, among other things, it was a significant upgrade&#8230; on paper, at least. But with a $400 price tag, it was also twice as expensive as [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pinephone-pro-linux-smartphone-has-been-discontinued-but-the-original-pinephone-is-still-available/">PinePhone Pro Linux smartphone has been discontinued, but the original PinePhone is still available</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pinephone-pro-linux-smartphone-has-been-discontinued-but-the-original-pinephone-is-still-available/>
+
+---
+
+## La noche de la desaparición: ¿alguien quiere pensar en los niños?
+
+date: 2025-08-12, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Zach Cregger. Guion: Zach Cregger. Elenco: Julia Garner, Josh Brolin, Alden Ehrenheich, Austin Abrams, Benedict Wong, Cary Christopher, Amy Madigan. País: Estados Unidos.   Más información de la película: https://www.imdb.com/title/tt26581740 En lo que es una larga tradición, el género de terror suele proponer una perspectiva única sobre las infancias. Pasa por la mente la [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-noche-de-la-desaparicion/">La noche de la desaparición: ¿alguien quiere pensar en los niños?</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-la-noche-de-la-desaparicion/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-la-noche-de-la-desaparicion>
+
+---
+
+## The Show Must Go On.  Take 2 At Cannes, 1946.
+
+date: 2025-08-12, from: National Archives, Text Message blog
+
+An earlier post discussed the collapse of the French attempt to initiate a film festival at Cannes in 1939, due to the outbreak of World War II.  Getting that festival off the ground was an early priority of the French government once the war ended in Europe in May 1945 and planning for resumption of &#8230; <a href="https://text-message.blogs.archives.gov/2025/08/12/the-show-must-go-on-take-2-at-cannes-1946/" class="more-link">Continue reading <span class="screen-reader-text">The Show Must Go On.  Take 2 At Cannes, 1946.</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/08/12/the-show-must-go-on-take-2-at-cannes-1946/>
+
+---
+
+## Beelink launches GTR9 Pro Mac Studio lookalike with AMD Strix Halo (in China)
+
+date: 2025-08-12, from: Liliputing
+
+<p>The Beelink GTR 9 Pro is a 180 x 180 x 91mm (7.1&#8243; x 7.1&#8243; x 3.6&#8243;) desktop computer that bears a more than passing resemblance to a Mac Studio. But instead of Apple Silicon inside, this mini PC is powered by an AMD Ryzen AI Max+ 395 processor. First unveiled earlier this year, the GTR9 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-launches-gtr9-pro-mac-studio-lookalike-with-amd-strix-halo-in-china/">Beelink launches GTR9 Pro Mac Studio lookalike with AMD Strix Halo (in China)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-launches-gtr9-pro-mac-studio-lookalike-with-amd-strix-halo-in-china/>
+
+---
+
+## Feds Used Local Cop's Password to Do Immigration Surveillance With Flock Cameras
+
+date: 2025-08-12, from: 404 Media Group
+
+A DEA agent used a local cop's password "for federal investigations in late January 2025 without [the cop's] knowledge of said use." 
+
+<br> 
+
+<https://www.404media.co/feds-used-local-cops-password-to-do-immigration-surveillance-with-flock-cameras/>
+
+---
+
+## Back to School. Back to Work. Back to Being Remarkable. ✨ 
+
+date: 2025-08-12, from: Guy Kawasaki blog
+
+Think Remarkable &#8212; Now 50% Off for Back-to-School Season! 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/back-to-school-back-to-work-back>
+
+---
+
+## You're Invited: 404 Media's Second Anniversary Party and LIVE PODCAST!
+
+date: 2025-08-12, from: 404 Media Group
+
+Come celebrate with us and catch a LIVE recording of the 404 Media podcast. 
+
+<br> 
+
+<https://www.404media.co/404-media-second-anniversary-party/>
+
+---
+
+## The Curious About Everything Newsletter #53
+
+date: 2025-08-12, from: Curious about everything blog
+
+The many interesting things I read in July 2025 
+
+<br> 
+
+<https://jodiettenberg.substack.com/p/fifty-three>
+
+---
+
+## Not a Booze Bag
+
+date: 2025-08-12, updated: 2025-08-12, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/12/no-booze-bag/>
 
 ---
 
@@ -13,7 +298,7 @@ updated: 2025-08-12 06:08:25
 
 date: 2025-08-12, from: The Markup blog
 
-Dozens of companies are hiding how you can delete your personal data, The Markup and CalMatters found. 
+Dozens of companies are hiding how you can delete your personal data, The Markup and CalMatters found. After our reporters reached out for comment, multiple companies have stopped the practice. 
 
 <br> 
 
@@ -30,6 +315,33 @@ Fake crime wave, real power grab
 <br> 
 
 <https://paulkrugman.substack.com/p/trump-plays-the-carnage-card>
+
+---
+
+## Simplicity
+
+date: 2025-08-12, from: Memo Garcia blog
+
+The reason why newcomers try to do everything at once or add everything they can is to prove they can do anything with the new knowledge they acquire.
+Veterans tend to make things simpler. 
+
+<br> 
+
+<https://memo.mx/posts/simplicity/>
+
+---
+
+## How Istio Handles Requests
+
+date: 2025-08-12, from: Memo Garcia blog
+
+Understanding how HTTP requests traverse an Istio service mesh is fundamental to effectively operating and troubleshooting microservices architectures. This technical analysis examines the complete request lifecycle, from external ingress through service-to-service communication, detailing the mechanisms that enable Istio&rsquo;s traffic management, security, and observability capabilities.
+The Service Mesh Problem Statement Microservices need reliable communication, security, and observability. Without a service mesh:
+Each service manually implements load balancing, retries, and circuit breakers Security and certificate management are inconsistent Service-to-service communication lacks visibility Debugging network issues is complex Code duplicates resilience patterns Istio provides standard networking, security, and observability across services without code changes. 
+
+<br> 
+
+<https://memo.mx/posts/how-istio-handles-requests/>
 
 ---
 
@@ -248,7 +560,7 @@ Juli Clover: Apple today provided developers with the sixth betas of iOS 26 and 
 
 date: 2025-08-11, from: Michael Tsai
 
-Juli Clover: Apple today provided developers with the sixth beta of macOS Tahoe 26 for testing purposes, with the update coming a week after the fifth beta. The release notes don&#8217;t call out any changes in beta 6. Previously: macOS Tahoe 26 Developer Beta 5 
+Juli Clover: Apple today provided developers with the sixth beta of macOS Tahoe 26 for testing purposes, with the update coming a week after the fifth beta. The release notes don&#8217;t call out any changes in beta 6. Previously: macOS Tahoe 26 Developer Beta 5 Update (2025-08-12): BasicAppleGuy: Apple recently added several new aerial wallpapers [&#8230;] 
 
 <br> 
 
@@ -435,6 +747,18 @@ date: 2025-08-11, from: Liliputing
 <br> 
 
 <https://liliputing.com/this-diy-ereader-has-dual-e-ink-displays-for-a-more-book-like-reading-experience/>
+
+---
+
+## How our dog increased my appreciation for accessibility
+
+date: 2025-08-11, from: Cloud Four
+
+Our dog headbutted me, gave me a concussion and a new appreciation of accessibility features. 
+
+<br> 
+
+<https://cloudfour.com/thinks/how-our-dog-increased-my-appreciation-for-accessibility/>
 
 ---
 
@@ -741,6 +1065,18 @@ date: 2025-08-10, updated: 2025-08-10, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/Aug/10/sam-altman/#atom-everything>
+
+---
+
+## Focus
+
+date: 2025-08-10, from: Memo Garcia blog
+
+Just say no. 
+
+<br> 
+
+<https://memo.mx/posts/focus/>
 
 ---
 

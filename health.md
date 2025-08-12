@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-08-12 06:08:22
+updated: 2025-08-12 13:19:32
 ---
 
 # health
 
-(date: 2025-08-12 06:08:22)
+(date: 2025-08-12 13:19:32)
 
 ---
 
@@ -30,6 +30,20 @@ BackgroundGingipains are virulence factors released by Porphyromonas gingivalis 
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1614126>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-08-11, from: People's CDC
+
+This is the People’s CDC bi-weekly update for August 11th, 2025! This Brief Weather Report from the People’s CDC sheds light on the ongoing COVID pandemic and other public health crises in the United States. This week, we will discuss COVID levels and review action steps.
+
+ 
+
+<br> 
+
+<https://peoplescdc.org/peoples-cdc-covid-19-weather-report-104/>
 
 ---
 
