@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-08-12 13:19:33
+updated: 2025-08-12 14:08:54
 ---
 
 # going electric
 
-(date: 2025-08-12 13:19:33)
+(date: 2025-08-12 14:08:54)
+
+---
+
+## Genesis may drop its most affordable model to trade up for SUVs and EVs
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Genesis-most-affordable-model.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s only a matter of time before the Genesis G70 sedan will no longer be offered. <a href="https://electrek.co/guides/genesis/">Genesis</a> is reportedly planning to kill off its most affordable model as it shifts its focus to SUVs and electric vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="429562" href="https://electrek.co/2025/08/12/genesis-may-drop-its-most-affordable-model-for-suvs-evs/#more-429562" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/12/genesis-may-drop-its-most-affordable-model-for-suvs-evs/>
 
 ---
 

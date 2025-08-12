@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-08-12 13:19:26
+updated: 2025-08-12 14:08:47
 ---
 
 # pacific
 
-(date: 2025-08-12 13:19:26)
+(date: 2025-08-12 14:08:47)
 
 ---
 
@@ -54,6 +54,20 @@ Thirty years ago, the presence of a female worker in the power plants in the Mar
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/569800/meet-the-fiji-female-engineers-making-their-mark-in-marshall-islands>
+
+---
+
+## Shohei Ohtani, agent sued over $240M Big Island resort deal
+
+date: 2025-08-12, from: Hawaii Tribune Harold
+
+
+				<p>Los Angeles Dodgers star Shohei Ohtani and his agent, Nez Balelo, are accused of cutting a real estate investor and a broker out of a $240 million real estate deal in a luxury enclave on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/12/hawaii-news/shohei-ohtani-agent-sued-over-240m-big-island-resort-deal/>
 
 ---
 
@@ -442,6 +456,20 @@ date: 2025-08-12, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/12/nation-world-news/israel-strike-kills-al-jazeera-journalists-in-gaza/>
+
+---
+
+## Motorcyclist killed in Mountain View crash
+
+date: 2025-08-12, from: Hawaii Tribune Harold
+
+
+				<p>Police say a 34-year-old Honokaa man died in a motorcycle collision Monday night at the intersection of Puhala and Hibiscus streets in Mountain View.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/12/hawaii-news/motorcyclist-killed-in-mountain-view-crash/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2025-08-12 13:19:31
+updated: 2025-08-12 14:08:52
 ---
 
 # home
 
-(date: 2025-08-12 13:19:31)
+(date: 2025-08-12 14:08:52)
+
+---
+
+## Budget Breakdown: It Took $1.6M and 100 Tons of Stone to Revive This ’60s Kit Home in Hawaii
+
+date: 2025-08-12, from: Dwell
+
+Architect Brandon Jørgensen, who once studied under Tadao Ando, believes that "everything you touch and interact with should be an investment"—a philosophy he applied to his dream home in Waimea. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-puuki-residence-renovation-atelier-jorgensen-waimea-hawaii-6262e0d2>
 
 ---
 

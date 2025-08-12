@@ -1,11 +1,61 @@
 ---
 title: food
-updated: 2025-08-12 13:19:33
+updated: 2025-08-12 14:08:54
 ---
 
 # food
 
-(date: 2025-08-12 13:19:33)
+(date: 2025-08-12 14:08:54)
+
+---
+
+## Creepy Eyeball Donuts
+
+date: 2025-08-12, from: Taste of Home
+
+You better keep an eye on these fun treats before they disappear! These cake donuts are dipped in white glaze and drizzled with dark red corn syrup. Gummy candies and chocolate chips are used for the rest of the design. They're fun, creepy and so delicious. —Ronna Farley, Rockville, Maryland 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creepy-eyeball-donuts/>
+
+---
+
+## Marbled Black Cocoa Cookies
+
+date: 2025-08-12, from: Taste of Home
+
+Black cocoa adds a spooky color to these cutout cookies and a deep, Oreo-like flavor. Marbling the icing on top is an easy and fun activity that even little ones can join in on. —Kim Shupe, Lake City, Michigan 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/marbled-black-cocoa-cookies/>
+
+---
+
+## We Tried a Stanley Cooler and It Doubles as an Adorable Lunch Box
+
+date: 2025-08-12, from: Taste of Home
+
+<p>Our soft cooler expert tested the Stanley Julienne Cooler for a whole month to see if it truly keeps things cold for 12 hours. Does it live up to the hype? Here's her verdict.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-cooler-review/">We Tried a Stanley Cooler and It Doubles as an Adorable Lunch Box</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-cooler-review/>
+
+---
+
+## Cinnamon Tortilla Chips with Pumpkin Fluff
+
+date: 2025-08-12, from: Taste of Home
+
+My family always gets the munchies before heading out to trick-or-treat on Halloween. This sweet pumpkin snack is our favorite because it's ready fast thanks to premade ingredients. —Theresa Ravencraft, Marysville, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cinnamon-tortilla-chips-pumpkin-fluff/>
 
 ---
 
@@ -30,6 +80,18 @@ Time to take a childhood classic and make it into a dessert! This three-ingredie
 <br> 
 
 <https://www.tasteofhome.com/recipes/tyler-smith-pbj-cobbler/>
+
+---
+
+## White Rhino Names Sara Escamilla CEO for Expansion in Dallas and Beyond
+
+date: 2025-08-12, from: Daily Coffee News
+
+<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Sara Escamilla" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-768x529.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fast-growing Texas specialty coffee roaster and retailer White Rhino Coffee named Sara Escamilla as president and CEO, replacing the company&#8217;s founder Chris Parvin. Escamilla has been with the company for... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/12/white-rhino-names-sara-escamilla-ceo-for-expansion-in-dallas-and-beyond/>
 
 ---
 
@@ -80,6 +142,18 @@ date: 2025-08-12, from: The Sprudge
 <br> 
 
 <https://sprudge.com/build-outs-of-coffee-single-o-in-tokyo-japan-375055.html>
+
+---
+
+## A Cultural Celebration Dawns at Golden Hour Coffee in Portland
+
+date: 2025-08-12, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Golden Hour Coffee Co." style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Golden Hour Coffee opened this spring on Portland&#8217;s bustling Southeast Hawthorne Boulevard, bringing a warm, sunny and culturally inspired approach to specialty coffee. The airy cafe glows with soft... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/12/a-cultural-celebration-dawns-at-golden-hour-coffee-in-portland/>
 
 ---
 
@@ -373,7 +447,7 @@ While protein bars may never be as delicious as candy bars, these picks will sat
 
 date: 2025-08-11, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="MikafiOne-roaster" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Swiss super-automatic coffee machine maker Thermoplan recently acquired Mikafi, a novel electric coffee roasting machine brand for commercial applications.&#160; Thermoplan, which has produced many thousands of Starbucks store coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="MikafiOne-roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Swiss super-automatic coffee machine maker Thermoplan recently acquired Mikafi, a novel electric coffee roasting machine brand for commercial applications.&#160; Thermoplan, which has produced many thousands of Starbucks store coffee... 
 
 <br> 
 
@@ -385,7 +459,7 @@ date: 2025-08-11, from: Daily Coffee News
 
 date: 2025-08-11, from: Daily Coffee News
 
-<div><img width="620" height="426" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-620x426.jpg" class="attachment-large size-large wp-post-image" alt="Gregorys Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-620x426.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-768x527.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fast food franchise specialist Craveworthy Brands has made an undisclosed investment in New York City-born coffee chain Gregorys Coffee, becoming the managing partner with ambitious expansion plans. Craveworthy said it... 
+<div><img width="620" height="426" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-620x426.jpg" class="attachment-large size-large wp-post-image" alt="Gregorys Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-620x426.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-300x206.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee-768x527.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Gregorys-Coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Fast food franchise specialist Craveworthy Brands has made an undisclosed investment in New York City-born coffee chain Gregorys Coffee, becoming the managing partner with ambitious expansion plans. Craveworthy said it... 
 
 <br> 
 
@@ -437,7 +511,7 @@ date: 2025-08-11, from: The Sprudge
 
 date: 2025-08-11, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Seasonal Watermelon Matcha Lemonade" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After launching eight years ago in a roastery so small it was affectionately named &#8220;the closet,&#8221; Rock Hill, South Carolina-based Knowledge Perk recently swelled to 10 coffee shop locations, with... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Seasonal Watermelon Matcha Lemonade" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/Seasonal-Watermelon-Matcha-Lemonade.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>After launching eight years ago in a roastery so small it was affectionately named &#8220;the closet,&#8221; Rock Hill, South Carolina-based Knowledge Perk recently swelled to 10 coffee shop locations, with... 
 
 <br> 
 

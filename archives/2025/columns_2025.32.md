@@ -1,64 +1,34 @@
 ---
 title: columns
-updated: 2025-08-12 13:19:28
+updated: 2025-08-12 14:08:49
 ---
 
 # columns
 
-(date: 2025-08-12 13:19:28)
+(date: 2025-08-12 14:08:49)
 
 ---
 
-##  The Only Time Prince & Miles Davis Jammed Together Onstage: Watch the... 
+## Reverse Engineering the Raspberry Pi Zero 2W
 
-date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+date: 2025-08-12, from: Jeff Geerling blog
 
- 
+<span class="field field--name-title field--type-string field--label-hidden">Reverse Engineering the Raspberry Pi Zero 2W</span>
 
-<br> 
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/jonathan-clark-pico-zero-2w-full.jpeg" width="700" height="467" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-1cf49e23-2f1e-4fe4-8cff-f08ba9fe2c55" data-insert-attach="{&quot;id&quot;:&quot;1cf49e23-2f1e-4fe4-8cff-f08ba9fe2c55&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi not Pico by Jonathan Clark"></p>
 
-<https://kottke.org/25/08/0047329-the-only-time-prince>
+<p>This is not a Raspberry Pi Pico. Despite it's tiny size and castellated edges, this is <em>actually</em> a full Raspberry Pi Zero 2W.</p>
 
----
+<p>Well, sorta. At Open Sauce, probably the most interesting encounter I had was with <a href="http://jonathanclark.dev/">Jonathan Clark</a>.</p>
 
-## Perplexity Jumps the Shark, Makes Clownish $34.5 Billion Stunt Offer to Buy Chrome From Google
-
-date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22?st=r5gGet&reflink=desktopwebshare_permalink>
-
----
-
-## Flower Power in 2025
-
-date: 2025-08-12, from: Dave Winer's Scripting News
-
-<p>You're going to think this is crazy, but maybe we should do what the hippie kids did in the 60s and 70s, giving flowers to the new cops in DC. Start off saying we don't blame you, we'll give you the benefit of the doubt, let's all be Americans and remember what that means.</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/08/12/flowerPower.png"></center><a href="https://en.wikipedia.org/wiki/Flower_Power_(photograph)">Flower power</a>.</div></p>
- 
+<p>You see, I was on a Reverse Engineering panel at Open Sauce, but <a href="https://x.com/geerlingguy/status/1945207387914178562">I mentioned on Twitter</a>, I wouldn't call myself a reverse engineer, more like a 'guy who breaks things sometimes taking them apart, and learns many ways to not break things, sometimes.'</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-12T16:00:29-05:00" title="Tuesday, August 12, 2025 - 16:00" class="datetime">August 12, 2025</time>
+</span> 
 
 <br> 
 
-<http://scripting.com/2025/08/12/192238.html?title=flowerPowerIn2025>
-
----
-
-**@Ryan Gantz Bluesky feed** (date: 2025-08-12, from: Ryan Gantz Bluesky feed)
-
-*claude, gemini, gpt5, and grok all competing to assist, charm and validate me*
-
-siri: okay, here's some music you don't like
-alexa: btw i can send you more butt wipes, every month
-
-*the simping continues unabated as I strip naked and bolt into the forest* 
-
-<br> 
-
-<https://bsky.app/profile/sixfoot6.com/post/3lw7zogfrls23>
+<https://www.jeffgeerling.com/blog/2025/reverse-engineering-raspberry-pi-zero-2w>
 
 ---
 
@@ -171,11 +141,115 @@ Monit claims &ldquo;File &lsquo;/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/
 
 <p>My local Emacs can no longer connect to the server via Tramp. It just hangs. <code>ssh</code> and <code>mosh</code> still work, the config files are unchanged. ☹️</p>
 
-<p><strong>2025-08-12</strong>. Ah, if I start Gnome, my old enemy is back: <code>localsearch-3</code>.</p> 
+<p><strong>2025-08-12</strong>. Ah, if I start Gnome, my old enemy is back: <code>localsearch-3</code>.</p>
+
+<p>Looking at <a href="2018-05-07_Laptop_Fan">2018-05-07 Laptop Fan</a> and trying to disable to crawling:</p>
+
+<pre><code># gsettings get org.freedesktop.Tracker3.Miner.Files crawling-interval 
+-2
+# gsettings get org.freedesktop.Tracker3.Miner.Files enable-monitors
+false
+</code></pre>
+
+<p>The old <code>tracker</code> package is now a transitional package that depends on <code>tinysparql</code>. Trying to <code>apt remove</code> either of them will attempt to remove <code>gnome-session gnome-sushi tinysparql xdg-desktop-portal-gnome gnome-session-xsession nautilus tracker-extract</code>. Fuuuck.</p>
+
+<p>Looking at the man pages, I get the feeling that <code>localsearch-daemon(3)</code> is what I need kill the processes. But how to disable them?</p>
+
+<pre><code># locate localsearch|grep .service
+/etc/systemd/user/gnome-session.target.wants/localsearch-3.service
+/usr/lib/systemd/user/localsearch-3.service
+/usr/lib/systemd/user/localsearch-control-3.service
+/usr/lib/systemd/user/localsearch-writeback-3.service
+/usr/share/localsearch3/miners/org.freedesktop.Tracker3.Miner.Files.service
+/var/lib/systemd/deb-systemd-user-helper-enabled/localsearch-3.service.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-session.target.wants/localsearch-3.service
+</code></pre>
+
+<p>OK, some candidates!</p>
+
+<p>The manual page for <code>localsearch-3(1)</code> mentioned that it was started by a <code>.desktop</code> file.
+But perhaps I can just disable the service?</p>
+
+<p>Maybe not.</p>
+
+<pre><code># systemctl --user disable localsearch-3
+The following unit files have been enabled in global scope. This means
+they will still be started automatically after a successful disablement
+in user scope:
+localsearch-3.service
+# sudo systemctl disable localsearch-3.service
+Failed to disable unit: Unit localsearch-3.service does not exist
+</code></pre>
+
+<p>I&rsquo;m not sure what to do.</p>
+
+<pre><code># locate localsearch|grep .desktop
+/etc/xdg/autostart/localsearch-3.desktop
+/usr/lib/x86_64-linux-gnu/localsearch-3.0/extract-modules/libextract-desktop.so
+/usr/share/localsearch3/extract-rules/10-desktop.rule
+/usr/share/localsearch3/miners/org.freedesktop.Tracker3.Miner.Files.service
+</code></pre>
+
+<p>Perhaps it&rsquo;s that first file. But how to disable <em>that</em>?</p>
+
+<p>Ah, I am not alone. With that info I found <a href="https://bbs.archlinux.org/viewtopic.php?id=299586">a discussion on the Arch Linux forum</a> with various strategies being discussed. I will try to change the <code>X-GNOME-Autostart-enabled</code> line to <code>false</code> and see whether that helps. And while I am at it, I will also change <code>X-GNOME-HiddenUnderSystemd</code> to <code>false</code>.</p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-08-11-debian-trixie>
+
+---
+
+##  The Only Time Prince & Miles Davis Jammed Together Onstage: Watch the... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047329-the-only-time-prince>
+
+---
+
+## Perplexity Jumps the Shark, Makes Clownish $34.5 Billion Stunt Offer to Buy Chrome From Google
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22?st=r5gGet&reflink=desktopwebshare_permalink>
+
+---
+
+## Flower Power in 2025
+
+date: 2025-08-12, from: Dave Winer's Scripting News
+
+<p>You're going to think this is crazy, but maybe we should do what the hippie kids did in the 60s and 70s, giving flowers to the new cops in DC. Start off saying we don't blame you, we'll give you the benefit of the doubt, let's all be Americans and remember what that means.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/08/12/flowerPower.png"></center><a href="https://en.wikipedia.org/wiki/Flower_Power_(photograph)">Flower power</a>.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/12/192238.html?title=flowerPowerIn2025>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-08-12, from: Ryan Gantz Bluesky feed)
+
+*claude, gemini, gpt5, and grok all competing to assist, charm and validate me*
+
+siri: okay, here's some music you don't like
+alexa: btw i can send you more butt wipes, every month
+
+*the simping continues unabated as I strip naked and bolt into the forest* 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lw7zogfrls23>
 
 ---
 

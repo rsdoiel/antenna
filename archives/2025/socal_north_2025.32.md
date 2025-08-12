@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2025-08-12 13:19:25
+updated: 2025-08-12 14:08:46
 ---
 
 # socal north
 
-(date: 2025-08-12 13:19:25)
+(date: 2025-08-12 14:08:46)
+
+---
+
+## Trump makes Kennedy Center Honors announcement. It caught the staff off guard
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+President Trump says that the announcement of this year's Kennedy Center honorees will come Wednesday. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/trump-makes-kennedy-center-honors-announcement-it-caught-the-staff-off-guard>
 
 ---
 

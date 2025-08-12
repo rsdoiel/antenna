@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-08-12 13:19:27
+updated: 2025-08-12 14:08:47
 ---
 
 # science and technology
 
-(date: 2025-08-12 13:19:27)
+(date: 2025-08-12 14:08:47)
+
+---
+
+## NASA IXPE’s ‘Heartbeat Black Hole’ Measurements Challenge Current Theories
+
+date: 2025-08-12, from: NASA breaking news
+
+Written by Michael Allen An international team of astronomers using NASA’s IXPE (Imaging X-ray Polarimetry Explorer), has challenged our understanding of what happens to matter in the direct vicinity of a black hole. With IXPE, astronomers can study incoming X-rays and measure the polarization, a property of light that describes the direction of its electric [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/ixpe/nasa-ixpes-heartbeat-black-hole-measurements-challenge-current-theories/>
+
+---
+
+## Perplexity takes a shine to Chrome, offers Google $34.5 billion
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Could the most popular browser change hands?</h4> <p>AI search biz Perplexity has offered to pay about twice as much as it is worth to acquire Chrome from Google.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/perplexity_takes_shine_to_chrome/>
+
+---
+
+## Remains of a Lost Antarctic Researcher Are Finally Recovered, 66 Years After He Fell Into a Crevasse
+
+date: 2025-08-12, from: Smithsonian Magazine
+
+A team of Polish scientists found bone fragments and items belonging to Dennis “Tink” Bell near Ecology Glacier on Antarctica’s King George Island 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/remains-of-an-antarctic-researcher-are-finally-recovered-66-years-after-he-fell-into-a-crevasse-180987156/>
 
 ---
 

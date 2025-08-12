@@ -1,11 +1,48 @@
 ---
 title: journalism
-updated: 2025-08-12 13:19:30
+updated: 2025-08-12 14:08:51
 ---
 
 # journalism
 
-(date: 2025-08-12 13:19:30)
+(date: 2025-08-12 14:08:51)
+
+---
+
+## Leslie Lee dives further into fantasy with latest novel ‘The Ashwalker’
+
+date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Leslie Lee  is working to make reading magical again.
+The Fresno, California-based author&#8217;s latest novel, &#8220;The Ashwalker,&#8221; is the third installment of her fantasy series, &#8220;Legends of the Vale,&#8221; which explores a world wrought by conflict between elves and vampires. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/12/leslie-lee-dives-further-into-fantasy-with-latest-novel-the-ashwalker/>
+
+---
+
+## Politico’s recent AI experiments shouldn’t be subject to newsroom editorial standards, its editors testify
+
+date: 2025-08-12, from: Nieman Journalism Lab
+
+Politico has become a testing ground for how AI clauses in union contracts could shape adoption in newsrooms across the U.S. The PEN Guild represents over 250 workers at Politico and its sister publication, energy and environment site E&#38;E News. Earlier this year, the Guild alleged management had violated AI adoption guidelines negotiated into its... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/politicos-recent-ai-experiments-shouldnt-be-subject-to-newsroom-editorial-standards-its-editors-testify/>
+
+---
+
+## Why the 2025 election was the “most poorly covered election in modern Canadian history”
+
+date: 2025-08-12, from: Nieman Journalism Lab
+
+In the first federal election since news was banned on Meta platforms, Canadians lost out, a new report finds. The 2025 federal election was likely the &#8220;most poorly covered election in modern Canadian history&#8221; due to the erosion of local news and Facebook&#8217;s news ban, according to the Ottawa-based nonpartisan think tank Public Policy Forum... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/why-the-2025-election-was-the-most-poorly-covered-election-in-modern-canadian-history/>
 
 ---
 
@@ -53,18 +90,6 @@ Festivalgoers rolled into the third day of the Golden Gate Park festival ready t
 <br> 
 
 <https://dailybruin.com/2025/08/11/outside-lands-2025-day-3s-finneas-hozier-deliver-ultimate-festival-finale/>
-
----
-
-## Politico’s recent AI experiments shouldn’t be subject to newsroom editorial standards, its editors testify
-
-date: 2025-08-11, from: Nieman Journalism Lab
-
-Politico has become a testing ground for how AI clauses in union contracts could shape adoption in newsrooms across the U.S. The PEN Guild represents over 250 workers at Politico and its sister publication, energy and environment site E&#38;E News. Earlier this year, the Guild alleged management had violated AI adoption guidelines negotiated into its... 
-
-<br> 
-
-<https://www.niemanlab.org/2025/08/politicos-recent-ai-experiments-shouldnt-be-subject-to-newsroom-editorial-standards-its-editors-testify/>
 
 ---
 

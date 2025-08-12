@@ -1,11 +1,37 @@
 ---
 title: snapshots
-updated: 2025-08-12 13:19:35
+updated: 2025-08-12 14:08:56
 ---
 
 # snapshots
 
-(date: 2025-08-12 13:19:35)
+(date: 2025-08-12 14:08:56)
+
+---
+
+## KeyGo is a slim keyboard with an integrated 12.8 inch touchscreen display (crowdfunding)
+
+date: 2025-08-12, from: Liliputing
+
+<p>The KeyGo is a keyboard with low-profile scissor-switch, RGB backlit keys, a number pad on the right side, a CNC aluminum body and two USB Type-C ports. What makes it unusual though, is that there&#8217;s also a 12.8 inch, 1920 x 720 pixel IPS LCD touchscreen display atop the keyboard. Plug the KeyGo into a Windows, Mac, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/keygo-is-a-slim-keyboard-with-an-integrated-12-8-inch-touchscreen-display-crowdfunding/">KeyGo is a slim keyboard with an integrated 12.8 inch touchscreen display (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/keygo-is-a-slim-keyboard-with-an-integrated-12-8-inch-touchscreen-display-crowdfunding/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-12, from: Robert's feed at BlueSky)
+
+It days like this ... Said the protagonist as he reached for ...
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: planet
-updated: 2025-08-12 13:19:22
+updated: 2025-08-12 14:08:44
 ---
 
 # planet
 
-(date: 2025-08-12 13:19:22)
+(date: 2025-08-12 14:08:44)
+
+---
+
+## Two charged over attempted murder of PSNI detective
+
+date: 2025-08-12, from: RTÉ News
+
+Two men have been charged in connection with the attempted murder of a senior detective in Northern Ireland two-and-a-half years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528157-john-caldwell/>
+
+---
+
+## Harris urged to meet parents of Harvey Morrison Sherratt
+
+date: 2025-08-12, from: RTÉ News
+
+Sinn Féin leader Mary Lou McDonald has called on Tánaiste Simon Harris to meet with the parents of a boy who died last month and who had been subject to delays in accessing urgent scoliosis surgery. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528153-harvey-morrison-sherratt/>
 
 ---
 
@@ -42,6 +66,18 @@ Shelbourne, with a 2-1 first-leg advantage, will be aiming to secure progession 
 <br> 
 
 <https://www.rte.ie/sport/soccer/2025/0812/1528091-europa-league-qualifying-shelbourne-v-rijeka-updates/>
+
+---
+
+## Europa League qualifying: Shelbourne 1-3 Rijeka (3-4)
+
+date: 2025-08-12, from: RTÉ News
+
+Read how it all unfolded as Rijeka got the better of Shelbourne at Tolka Park to advance to the Europa League play-off, while it's the Conference League play-off for Joey O'Brien's side. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0812/1528091-europa-league-qualifying-shelbourne-1-3-rijeka-3-4/>
 
 ---
 
@@ -102,6 +138,18 @@ Batches of three different goats cheese products have been recalled by the Food 
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0812/1528129-goats-cheese-recall/>
+
+---
+
+## Fires rage in several European countries as sweltering heat continues
+
+date: 2025-08-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/8d6bfd44-38d8-4664-bc69-a567d5693342,1755028461387/full/max/0/default.jpg?im=Crop%2Crect%3D%285%2C0%2C3705%2C2084%29%3BResize%3D%28620%29' alt='Smoke rises as a wildfire burns in Buljarica, Montenegro.' width='620' height='349' title='Smoke rises as a wildfire burns in Buljarica, Montenegro, August 12, 2025, in this screen grab obtained from a social media video. Goran Jovanovic/via REUTERS  THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES.  Verification: -Location and date verified by original file metadata from the source.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/europe-fires-heat-wave-2025-1.7607188?cmp=rss>
 
 ---
 

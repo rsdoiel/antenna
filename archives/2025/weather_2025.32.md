@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-08-12 13:19:29
+updated: 2025-08-12 14:08:49
 ---
 
 # weather
 
-(date: 2025-08-12 13:19:29)
+(date: 2025-08-12 14:08:49)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-08-12 13:19:29
 
 date: 2025-08-14, from: Eastern Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 12 Aug 2025 20:12:03 GMT 
+No tropical cyclones as of Tue, 12 Aug 2025 21:00:21 GMT 
 
 <br> 
 
@@ -25,11 +25,322 @@ No tropical cyclones as of Tue, 12 Aug 2025 20:12:03 GMT
 
 date: 2025-08-14, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 12 Aug 2025 20:12:03 GMT 
+No tropical cyclones as of Tue, 12 Aug 2025 21:00:21 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## Tropical Storm Henriette Graphics
+
+date: 2025-08-12, from: Central Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/203512.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP08/EP082025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Henriette 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Tue, 12 Aug 2025 20:34:59 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/203512.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP08/EP082025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Henriette 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Tue, 12 Aug 2025 20:34:59 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_cp3+shtml/203512.shtml?cone>
+
+---
+
+## Tropical Storm Henriette Forecast Discussion Number 35
+
+date: 2025-08-12, from: Central Pacific Basin Tropical Cyclones
+
+<pre>303 
+WTPA43 PHFO 122033
+TCDCP3
+ 
+Tropical Storm Henriette Discussion Number  35
+NWS Central Pacific Hurricane Center Honolulu HI   EP082025
+Issued by NWS National Hurricane Center Miami FL
+1100 AM HST Tue Aug 12 2025
+ 
+ 
+Henriette continues to weaken.  Convection has become fragmented
+over the past few hours with some shallow convection to the east of
+the center.  A microwave image from 1740 UTC showed the low-level
+eyewall open to the west.  Subjective and objective Dvorak estimates
+have generally decreased this cycle and a blend of these data
+supports an initial intensity of 55 kt for this advisory.
+ 
+Atmospheric and oceanic conditions are becoming increasingly
+hostile.  Sea surface temperatures are expected to drop below 26
+degrees C within a few hours.  The ongoing moderate wind shear is
+forecast to increase and likely force additional nearby dry air into
+the storm's circulation.  Global models suggest that Henriette will
+lose all deep convection within 24 hours.  The latest official
+intensity forecast now shows the storm becoming a post-tropical
+cyclone on Wednesday and a remnant low by Wednesday evening, and
+this is in line with the latest consensus aids.
+ 
+Henriette is moving northwestward or 315/15 kt. This general motion
+should continue for the next day or so as the storm is steered 
+between a mid-level ridge to the northeast and an upper-level low to 
+the west. Thereafter, the system should be steered more by the 
+low-level flow as it weakens and is expected to decelerate and turn 
+north-northwestward and northward. Only minor adjustments have been 
+made to the latest NHC track forecast.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  12/2100Z 34.1N 162.9W   55 KT  65 MPH
+ 12H  13/0600Z 35.7N 164.9W   45 KT  50 MPH
+ 24H  13/1800Z 37.7N 167.2W   35 KT  40 MPH...POST-TROPICAL
+ 36H  14/0600Z 39.9N 169.0W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 48H  14/1800Z 42.0N 169.5W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 60H  15/0600Z 44.0N 169.8W   20 KT  25 MPH...POST-TROP/REMNT LOW
+ 72H  15/1800Z...DISSIPATED
+ 
+$$
+Forecaster Bucci</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCDCP3+shtml/122033.shtml>
+
+---
+
+## Tropical Storm Henriette Wind Speed Probabilities Number 35
+
+date: 2025-08-12, from: Central Pacific Basin Tropical Cyclones
+
+<pre>628 
+FOPA13 PHFO 122033
+PWSCP3
+                                                                    
+TROPICAL STORM HENRIETTE WIND SPEED PROBABILITIES NUMBER  35        
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   EP082025         
+ISSUED BY NWS NATIONAL HURRICANE CENTER MIAMI FL                    
+2100 UTC TUE AUG 12 2025                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM HENRIETTE WAS LOCATED NEAR    
+LATITUDE 34.1 NORTH...LONGITUDE 162.9 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z TUE 06Z WED 18Z WED 06Z THU 18Z THU 18Z FRI 18Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z WED 18Z WED 06Z THU 18Z THU 18Z FRI 18Z SAT 18Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+35N 165W       34 43   1(44)   X(44)   X(44)   X(44)   X(44)   X(44)
+ 
+40N 170W       34  X   X( X)   9( 9)   2(11)   X(11)   X(11)   X(11)
+ 
+$$                                                                  
+FORECASTER BUCCI</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOPWSCP3+shtml/122033.shtml>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2025-08-12, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue Aug 12 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Erin, located over the eastern tropical Atlantic several<br>hundred miles west of the Cabo Verde Islands.<br><br>1. Northwestern Atlantic:<br>A non-tropical area of low pressure located a few hundred miles <br>southeast of Nova Scotia, Canada, is producing disorganized shower <br>and thunderstorm activity to the west of its center.  Some limited <br>tropical or subtropical development is possible through early <br>Wednesday as the low meanders near the relatively warm waters of the <br>Gulf Stream.  The system is expected to move northward over cooler <br>waters later on Wednesday, ending its chances for tropical <br>development.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br>2. North-Central Gulf:<br>A surface trough near the coasts of Louisiana, Mississippi, and <br>Alabama is producing a broad area of disorganized showers and <br>thunderstorms.  While development of this system is not anticipated <br>before it moves inland later today or tonight, locally heavy <br>rainfall could produce flash flooding across portions of the <br>northern Gulf coast over the next day or so.  For more information <br>on the rainfall hazards related to this system, please see products <br>issued by your local National Weather Service forecast office.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...near 0 percent.<br><br><br><br>Forecaster Berg<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Tropical Storm Henriette Public Advisory Number 35
+
+date: 2025-08-12, from: Central Pacific Basin Tropical Cyclones
+
+<pre>454 
+WTPA33 PHFO 122032
+TCPCP3
+ 
+BULLETIN
+Tropical Storm Henriette Advisory Number  35
+NWS Central Pacific Hurricane Center Honolulu HI   EP082025
+Issued by NWS National Hurricane Center Miami FL
+1100 AM HST Tue Aug 12 2025
+ 
+...HENRIETTE EXPECTED TO BECOME A POST-TROPICAL CYCLONE ON
+WEDNESDAY...
+ 
+ 
+SUMMARY OF 1100 AM HST...2100 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...34.1N 162.9W
+ABOUT 935 MI...1505 KM NNW OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM HST (2100 UTC), the center of Tropical Storm Henriette
+was located near latitude 34.1 North, longitude 162.9 West. 
+Henriette is moving toward the northwest near 18 mph (30 km/h), and 
+this motion is expected to continue through Wednesday. A turn toward 
+the north-northwest at a slower forward speed is expected Wednesday 
+night, followed by a northward turn on Thursday.
+ 
+Maximum sustained winds have decreased to near 65 mph (100 km/h)
+with higher gusts.  Some weakening is forecast during the next 48
+hours, and Henriette is expected to become post-tropical on
+Wednesday, and a remnant low Wednesday night.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM HST.
+ 
+$$
+Forecaster Bucci</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCPCP3+shtml/122032.shtml>
+
+---
+
+## Tropical Storm Henriette Forecast Advisory Number 35
+
+date: 2025-08-12, from: Central Pacific Basin Tropical Cyclones
+
+<pre>453 
+WTPA23 PHFO 122032
+TCMCP3
+ 
+TROPICAL STORM HENRIETTE FORECAST/ADVISORY NUMBER  35
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   EP082025
+ISSUED BY NWS NATIONAL HURRICANE CENTER MIAMI FL
+2100 UTC TUE AUG 12 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 34.1N 162.9W AT 12/2100Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 315 DEGREES AT  16 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  999 MB
+MAX SUSTAINED WINDS  55 KT WITH GUSTS TO  65 KT.
+50 KT....... 30NE  25SE   0SW  20NW.
+34 KT....... 70NE  60SE  30SW  50NW.
+4 M SEAS....150NE  90SE  70SW  70NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 34.1N 162.9W AT 12/2100Z
+AT 12/1800Z CENTER WAS LOCATED NEAR 33.6N 162.3W
+ 
+FORECAST VALID 13/0600Z 35.7N 164.9W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  40SE  20SW  40NW.
+ 
+FORECAST VALID 13/1800Z 37.7N 167.2W...POST-TROPICAL
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  30SE   0SW  30NW.
+ 
+FORECAST VALID 14/0600Z 39.9N 169.0W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 14/1800Z 42.0N 169.5W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 15/0600Z 44.0N 169.8W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+FORECAST VALID 15/1800Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 34.1N 162.9W
+ 
+NEXT ADVISORY AT 13/0300Z
+ 
+$$
+FORECASTER BUCCI</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/HFOTCMCP3+shtml/122032.shtml>
+
+---
+
+## SPC - No watches are valid as of Tue Aug 12 20:17:01 UTC 2025
+
+date: 2025-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Aug 12 20:17:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
@@ -38,14 +349,16 @@ No tropical cyclones as of Tue, 12 Aug 2025 20:12:03 GMT
 date: 2025-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
+Day 1 Convective Outlook CORR 1
 NWS Storm Prediction Center Norman OK
-0301 PM CDT Tue Aug 12 2025
+0312 PM CDT Tue Aug 12 2025
 
 Valid 122000Z - 131200Z
 
 ...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PARTS OF THE
 GREAT LAKES REGION...
+
+CORRECTED FOR NDFD
 
 ...SUMMARY...
 Strong to locally severe thunderstorms are possible over parts of
@@ -164,18 +477,6 @@ MOST PROBABLE PEAK HAIL SIZE...UP TO 1.25 IN
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md1935.html>
-
----
-
-## SPC - No watches are valid as of Tue Aug 12 20:06:01 UTC 2025
-
-date: 2025-08-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Aug 12 20:06:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
@@ -393,26 +694,6 @@ large hail.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2025-08-12, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue Aug 12 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Erin, located over the eastern tropical Atlantic several<br>hundred miles west of the Cabo Verde Islands.<br><br>1. Northwestern Atlantic:<br>A non-tropical area of low pressure located a few hundred miles <br>southeast of Nova Scotia, Canada, is producing disorganized shower <br>and thunderstorm activity to the west of its center.  Some limited <br>tropical or subtropical development is possible through early <br>Wednesday as the low meanders near the relatively warm waters of the <br>Gulf Stream.  The system is expected to move northward over cooler <br>waters later on Wednesday, ending its chances for tropical <br>development.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br>2. North-Central Gulf:<br>A surface trough near the coasts of Louisiana, Mississippi, and <br>Alabama is producing a broad area of disorganized showers and <br>thunderstorms.  While development of this system is not anticipated <br>before it moves inland later today or tonight, locally heavy <br>rainfall could produce flash flooding across portions of the <br>northern Gulf coast over the next day or so.  For more information <br>on the rainfall hazards related to this system, please see products <br>issued by your local National Weather Service forecast office.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...near 0 percent.<br><br><br><br>Forecaster Berg<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
