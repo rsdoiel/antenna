@@ -1,15 +1,219 @@
 ---
 title: science and technology
-updated: 2025-08-11 14:10:48
+updated: 2025-08-12 06:08:16
 ---
 
 # science and technology
 
-(date: 2025-08-11 14:10:48)
+(date: 2025-08-12 06:08:16)
 
 ---
 
-## FedRAMP government cloud software approvals double under new program
+## Trump does a 180 on Intel chief following White House meeting
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Chip giant praises &#39;president&#39;s strong leadership,&#39; promises to &#39;restore this great American company&#39;</h4> <p>US President Donald Trump has now reversed his opinion of Intel chief Lip-Bu Tan following their meeting at the White House yesterday, hinting that the two will work more closely together.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/trump_intel_meeting/>
+
+---
+
+## Oh, great.Three notorious cybercrime gangs appear to be collaborating
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Scattered Spider, ShinyHunters, and Lapsus$ spent the weekend bragging to each other on a Telegram channel</h4> <p>Prolific cybercrime collectives Scattered Spider, ShinyHunters, and Lapsus$ appear to have come together in a new Telegram channel that shares news of their exploits.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/scattered_spidershinyhunterslapsus_cybercrime_collab/>
+
+---
+
+## Hyundai: Want cyber-secure car locks? That'll be £49, please
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Automaker&#39;s answer to spate of car thefts is to charge customers for extra</h4> <p>Hyundai is charging UK customers £49 ($66) for a security upgrade to prevent thieves from bypassing its car locks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/hyundai_want_secure_locks_on/>
+
+---
+
+## Ebuyer website bought by Fraser Group plc
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>UK online reseller bought out of administration in -pre-pack agreement, say sources</h4> <p>London Stock Exchange-listed Fraser Group is understood to have bought struggling UK online tech bazaar Ebuyer from administrators in a pre-pack agreement, sources have told <em>The Register</em>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/uk_tech_retailer_ebuyer_heads/>
+
+---
+
+## In the Muddy Banks of North Carolina, Student Archaeologists May Have Discovered the Remnants of a Centuries-Old Spanish Ship
+
+date: 2025-08-12, from: Smithsonian Magazine
+
+While taking measurements of an abandoned wharf site, the students found timber from what experts believe may be part of La Fortuna, a Spanish ship destroyed nearly 300 years ago 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/timber-from-colonial-era-spanish-ship-among-four-shipwrecks-discovered-in-north-carolina-180987139/>
+
+---
+
+## VS Code previews chat checkpoints for unpicking careless talk
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Microsoft’s AI-centric code editor and IDE adds the ability to rollback misguided AI prompts</h4> <p>The Microsoft Visual Studio Code (VS Code) team has rolled out version 1.103 with new features including GitHub Copilot chat checkpoints.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/vs_code_previews_chat_checkpoints/>
+
+---
+
+## Colo operators flock to emerging markets to build DCs
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Joburg and Warsaw among the hotspots for sprawling server farm construction</h4> <p>Lagos, Warsaw and Dubai are among the fastest growing cities for colocation services - with metro areas in the Asia-Pacific and EMEA regions expanding more rapidly than traditional datacenter hotspots.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/emerging_markets_now_the_growth/>
+
+---
+
+## Defra doubles contract value for cloud and DC services
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Legacy tech for nation&#39;s farmers must migrate ... contract swells to £245M</h4> <p>The UK&#39;s government department for agriculture and the countryside has upped the potential contract value on offer for cloud and datacenter hosting by more than £100 million.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/defra_doubles_cloud_and_data/>
+
+---
+
+## The White House could end UK's decade-long fight to bust encryption
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Home Office officials reportedly concede Brit government on back foot as Trump moves to protect US Big Tech players</h4> <p><strong>Analysis</strong>  The Home Office&#39;s war on encryption – its most technically complex and controversial aspect of modern policymaking yet – is starting to look like battlefield failure after more than ten years of skirmishes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/could_the_white_house_put/>
+
+---
+
+## UK.gov's nuclear strategy is 'slow, inefficient, and costly'
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Taskforce delivers damning interim report on next generation of energy generation</h4> <p>An independent taskforce commissioned by the UK government has warned of the nation&#39;s &#34;unnecessarily slow, inefficient, and costly&#34; approach to nuclear power (and weaponry).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/ukgovs_nuclear_strategy_is_slow/>
+
+---
+
+## Poisoned telemetry can turn AIOps into AI Oops, researchers show
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Sysadmins, your job is safe</h4> <p>Automating IT operations using AI may not be the best idea at the moment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/ai_models_can_be_tricked/>
+
+---
+
+## News from a possible future: ‘Rampant jellyfish cause AI outage by taking datacenter offline'
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Don’t laugh, a French nuclear power plant just shut down for a while after invertebrates overwhelmed its intakes</h4> <p>Proponents of increased use of nuclear energy to power datacenters have a new foe: Jellyfish.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/france_nuclear_reactor_jellyfish_shutdown/>
+
+---
+
+## IBM Cloud hit by Severity One incident with the same symptoms as other recent SNAFUs
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>Outages, degraded service, and login troubles hit 10 regions and 27 services</h4> <p>IBM Cloud experienced a Severity One outage on Monday that left customers unable to access resources.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/ibm_cloud_severity_one_outage/>
+
+---
+
+## Nvidia gives its tiniest workstation GPUs a Blackwell boost
+
+date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
+
+<h4>70W TDP means the new RTX Pro 4000 SFF and RTX Pro 2000 won&#39;t blow power budgets</h4> <p>Nvidia’s latest Blackwell GPUs are a pair of itty-bitty workstation cards that aim to deliver the highest performance possible for professional visualization and local AI workloads within a 70-watt energy diet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/11/nvidia_workstation_cards_blackwell_updates/>
+
+---
+
+## KDE improves focus stealing prevention on Wayland
+
+date: 2025-08-11, from: OS News
+
+You click a link in your chat app, your browser with a hundred tabs comes to the front and opens that page. How hard can it be? Well, you probably know by now that Wayland, unlike X, doesn’t let one application force its idiot wishes on everyone else. In order for an application to bring its window to the front, it needs to make use of the XDG Activation protocol. In essence, an application cannot take focus, it can only receive focus. In the example above, your chat app would request an XDG Activation token from the compositor. It then asks the system to open the given URL (typically launching the web browser) and sends along the token. The browser can then use this token to activate its window. ↫ Kai Uwe After explaining exactly how this mechanism works, KDE developer Kai Uwe details the issue that not every application yet properly supports the XDG Activation protocol, and some that do have bugs that, say, might make an application discard its token too early. In other words, it&#8217;s time to start testing. You&#8217;ll need to use the latest git master brach of KWin, and enable set the &#8220;Focus Stealing Prevention&#8221; option in Window Management to &#8220;Extreme&#8221;. When set to &#8220;Extreme&#8221;, KWin will exclusively activate windows that request activation with a valid token. They&#8217;ve already found and fixed a number of issues in KDE using this method, but more are bound to found, particularly in third-party applications. They&#8217;re planning on turning on KWin&#8217;s focus stealing prevention on Wayland with forgiving settings at first, but increase the strictness of the feature as time progresses and issues are fixed. 
+
+<br> 
+
+<https://www.osnews.com/story/143040/kde-improves-focus-stealing-prevention-on-wayland/>
+
+---
+
+## GNOME 49 backlight changes
+
+date: 2025-08-11, from: OS News
+
+One of the things I’m working on at Red Hat is HDR support. HDR is inherently linked to luminance (brightness, but ignoring human perception) which makes it an important parameter for us that we would like to be in control of. ↫ Sebastian Wick A really interesting look at how GNOME is going to handle screen brightness. 
+
+<br> 
+
+<https://www.osnews.com/story/143037/gnome-49-backlight-changes/>
+
+---
+
+## NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall
+
+date: 2025-08-11, from: NASA breaking news
+
+Media are invited to NASA’s Marshall Space Flight Center in Huntsville, Alabama, at 2 p.m. CDT Thursday, Aug. 14 to view the final piece of space flight hardware for the agency’s SLS (Space Launch System) rocket for the Artemis II mission before it is delivered to NASA’s Kennedy Space Center in Florida. All other elements [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-ii-orion-stage-adapter-at-marshall/>
+
+---
+
+## Fed cloud contracts up 2x this year after red tape slashing
 
 date: 2025-08-11, updated: 2025-08-11, from: The Register (UK I.T. News)
 

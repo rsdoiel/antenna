@@ -1,11 +1,70 @@
 ---
 title: journalism
-updated: 2025-08-11 14:10:51
+updated: 2025-08-12 06:08:19
 ---
 
 # journalism
 
-(date: 2025-08-11 14:10:51)
+(date: 2025-08-12 06:08:19)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+Brian Bergmark, a forensic accountant and business appraiser with experience evaluating economic damages, testified against damage estimates presented by Eric Madsen, an expert witness brought by Klein&#8217;s attorneys who testified earlier in the trial. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/11/491857/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper))
+
+Asmara Carbado, a former investigative attorney for UCLA&#8217;s Discrimination Prevention Office, testified about the office’s preliminary assessment into Klein’s email.
+She said that while she believed Klein&#8217;s email response was racially insensitive and reflected “poor judgment,” it did not ultimately affect the sender of the email&#8217;s ability to learn. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/11/491854/>
+
+---
+
+## Disneyland celebrates 70 years of imaginative storytelling, nostalgia and history
+
+date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+This summer, Disneyland celebrated its 70th anniversary.
+The park&#8217;s celebrations included the debut of its new attraction &#8220;Walt Disney &#8211; A Magical Life&#8221; and additions to both the Main Street Cinema and &#8220;it&#8217;s a small world&#8221; ride, according to the Walt Disney Company website. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/11/disneyland-celebrates-70-years-of-imaginative-storytelling-nostalgia-and-history/>
+
+---
+
+## Outside Lands 2025: Day 3’s FINNEAS, Hozier deliver ultimate festival finale
+
+date: 2025-08-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fans brought all their energy for the final day of Outside Lands.
+Festivalgoers rolled into the third day of the Golden Gate Park festival ready to see a whole new slew of artists, from fun DJ sets at SOMA stage to indie bands performing at the iconic Lands End stage. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/11/outside-lands-2025-day-3s-finneas-hozier-deliver-ultimate-festival-finale/>
+
+---
+
+## Politico’s recent AI experiments shouldn’t be subject to newsroom editorial standards, its editors testify
+
+date: 2025-08-11, from: Nieman Journalism Lab
+
+Politico has become a testing ground for how AI clauses in union contracts could shape adoption in newsrooms across the U.S. The PEN Guild represents over 250 workers at Politico and its sister publication, energy and environment site E&#38;E News. Earlier this year, the Guild alleged management had violated AI adoption guidelines negotiated into its... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/politicos-recent-ai-experiments-shouldnt-be-subject-to-newsroom-editorial-standards-its-editors-testify/>
 
 ---
 

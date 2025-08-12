@@ -1,11 +1,234 @@
 ---
 title: snapshots
-updated: 2025-08-11 14:10:57
+updated: 2025-08-12 06:08:25
 ---
 
 # snapshots
 
-(date: 2025-08-11 14:10:57)
+(date: 2025-08-12 06:08:25)
+
+---
+
+## We caught companies making it harder to delete your personal data online
+
+date: 2025-08-12, from: The Markup blog
+
+Dozens of companies are hiding how you can delete your personal data, The Markup and CalMatters found. 
+
+<br> 
+
+<https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data>
+
+---
+
+## Trump Plays the Carnage Card
+
+date: 2025-08-12, from: Paul Krugman
+
+Fake crime wave, real power grab 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-plays-the-carnage-card>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-12, from: Robert's feed at BlueSky)
+
+🙂
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m>
+
+---
+
+## Quoting Nick Turley
+
+date: 2025-08-12, updated: 2025-08-12, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.youtube.com/watch?v=ixY2PvQJ0To&amp;t=2322s"><p>I think there's been a lot of decisions over time that proved pretty consequential, but we made them very quickly as we have to. [...]</p>
+<p>[On pricing] I had this kind of panic attack because we really needed to launch subscriptions because at the time we were taking the product down all the time. [...]</p>
+<p>So what I did do is ship a Google Form to Discord with <a href="https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter">the four questions you're supposed to ask</a> on how to price something.</p>
+<p>But we got with the $20. We were debating something slightly higher at the time. I often wonder what would have happened because so many other companies ended up copying the $20 price point, so did we erase a bunch of market cap by pricing it this way?</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.youtube.com/watch?v=ixY2PvQJ0To&amp;t=2322s">Nick Turley</a>, Head of ChatGPT, interviewed by Lenny Rachitsky</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/discord">discord</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/12/nick-turley/#atom-everything>
+
+---
+
+## Far-Flung Modems
+
+date: 2025-08-12, updated: 2025-08-12, from: Tedium site
+
+AOL is ditching dial-up. They’re not required to continue running their dial-up service forever. But it would sure be nice. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17118160/aol-dial-up-ending-retrospective>
+
+---
+
+## LLM 0.27, the annotated release notes: GPT-5 and improved tool calling
+
+date: 2025-08-11, updated: 2025-08-11, from: Simon Willison’s Weblog
+
+<p>I shipped <a href="https://llm.datasette.io/en/stable/changelog.html#v0-27">LLM 0.27</a> today (followed by a <a href="https://llm.datasette.io/en/stable/changelog.html#v0-27-1">0.27.1 with minor bug fixes</a>), adding support for the new GPT-5 family of models from OpenAI plus a flurry of improvements to the tool calling features <a href="https://simonwillison.net/2025/May/27/llm-tools/">introduced in LLM 0.26</a>. Here are the <a href="https://simonwillison.net/tags/annotated-release-notes/">annotated release notes</a>.</p>
+<h4 id="gpt-5">GPT-5</h4>
+<blockquote>
+<ul>
+<li>New models: <code>gpt-5</code>, <code>gpt-5-mini</code> and <code>gpt-5-nano</code>. <a href="https://github.com/simonw/llm/issues/1229">#1229</a>
+</li>
+</ul>
+</blockquote>
+<p>I would have liked to get these out sooner, but LLM had accumulated quite a lot of other changes since the last release and I wanted to use GPT-5 as an excuse to wrap all of those up and get them out there.</p>
+<p>These models work much the same as other OpenAI models, but they have a new <code>reasoning_effort</code> option of <code>minimal</code>. You can try that out like this:</p>
+<pre><code>llm -m gpt-5 'A letter advocating for cozy boxes for pelicans in Half Moon Bay harbor' -o reasoning_effort minimal
+</code></pre>
+<p>Setting "minimal" almost completely eliminates the "thinking" time for the model, causing it to behave more like GPT-4o.</p>
+<p>Here's <a href="https://gist.github.com/simonw/49838dbca944d3f22dfe65ef11c5637d">the letter it wrote me</a> at a cost of 20 input, 706 output = <a href="https://www.llm-prices.com/#it=20&amp;ot=706&amp;ic=1.25&amp;oc=10">$0.007085 which is 0.7085 cents</a>.</p>
+<p>You can set the default model to GPT-5-mini (since it's a bit cheaper) like this:</p>
+<pre><code>llm models default gpt-5-mini
+</code></pre>
+<h4 id="tools-in-templates">Tools in templates</h4>
+<blockquote>
+<ul>
+<li>LLM <a href="https://llm.datasette.io/en/stable/templates.html#prompt-templates">templates</a> can now include a list of tools. These can be named tools from plugins or arbitrary Python function blocks, see <a href="https://llm.datasette.io/en/stable/templates.html#prompt-templates-tools">Tools in templates</a>. <a href="https://github.com/simonw/llm/issues/1009">#1009</a>
+</li>
+</ul>
+</blockquote>
+<p>I think this is the most important feature in the new release.</p>
+<p>I added LLM's <a href="https://simonwillison.net/2025/May/27/llm-tools/">tool calling features</a> in LLM 0.26. You can call them from the Python API but you can also call them from the command-line like this:</p>
+<pre><code>llm -T llm_version -T llm_time 'Tell the time, then show the version'
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/65d830f8cb38cdeb78093d6ac890ce2c#response-1">the output</a> of <code>llm logs -c</code> after running that command.</p>
+<p>This example shows that you have to explicitly list all of the tools you would like to expose to the model, using the <code>-T/--tool</code> option one or more times.</p>
+<p>In LLM 0.27 you can now save these tool collections to <a href="https://llm.datasette.io/en/stable/templates.html">a template</a>. Let's try that now:</p>
+<pre><code>llm -T llm_version -T llm_time -m gpt-5 --save mytools
+</code></pre>
+<p>Now <code>mytools</code> is a template that bundles those two tools and sets the default model to GPT-5. We can run it like this:</p>
+<pre><code>llm -t mytools 'Time then version'
+</code></pre>
+<p>Let's do something more fun. My blog has a <a href="https://datasette.simonwillison.net/">Datasette mirror</a> which I can run queries against. I'm going to use the <a href="https://github.com/simonw/llm-tools-datasette">llm-tools-datasette</a> plugin to turn that into a tool-driven template. This plugin uses a "toolbox", which looks a bit like a class. Those are <a href="https://llm.datasette.io/en/stable/python-api.html#toolbox-classes">described here</a>.</p>
+<pre><code>llm install llm-tools-datasette
+
+# Now create that template
+llm --tool 'Datasette("https://datasette.simonwillison.net/simonwillisonblog")' \
+  -m gpt-5 -s 'Use Datasette tools to answer questions' --save blog
+</code></pre>
+<p>Now I can ask questions of my database like this:</p>
+<pre><code>llm -t blog 'top ten tags by number of entries'</code></pre>
+<p>The <code>--td</code> option there stands for <code>--tools-debug</code> - it means we can see all tool calls as they are run.</p>
+<p>Here's the output of the above:</p>
+<pre><code>Top 10 tags by number of entries (excluding drafts):
+- quora — 1003
+- projects — 265
+- datasette — 238
+- python — 213
+- ai — 200
+- llms — 200
+- generative-ai — 197
+- weeknotes — 193
+- web-development — 166
+- startups — 157
+</code></pre>
+<p><a href="https://gist.github.com/simonw/7b2d0d327afc32ad6c90179fa76290ad">Full transcript with tool traces here</a>.</p>
+<p>I'm really excited about the ability to store configured tools</p>
+<blockquote>
+<ul>
+<li>Tools <a href="https://llm.datasette.io/en/stable/python-api.html#python-api-tools-attachments">can now return attachments</a>, for models that support features such as image input. <a href="https://github.com/simonw/llm/issues/1014">#1014</a>
+</li>
+</ul>
+</blockquote>
+<p>I want to build a tool that can render SVG to an image, then return that image so the model can see what it has drawn. For reasons.</p>
+<blockquote>
+<ul>
+<li>New methods on the <code>Toolbox</code> class: <code>.add_tool()</code>, <code>.prepare()</code> and <code>.prepare_async()</code>, described in <a href="https://llm.datasette.io/en/stable/python-api.html#python-api-tools-dynamic">Dynamic toolboxes</a>. <a href="https://github.com/simonw/llm/issues/1111">#1111</a>
+</li>
+</ul>
+</blockquote>
+<p>I added these because there's a lot of interest in an MCP plugin for Datasette. Part of the challenge with MCP is that the user provides the URL to a server but we then need to introspect that server and dynamically add the tools we have discovered there. The new <code>.add_tool()</code> method can do that, and the <code>.prepare()</code> and <code>.prepare_async()</code> methods give us a reliable way to run some discovery code outside of the class constructor, allowing it to make asynchronous calls if necessary.</p>
+<blockquote>
+<ul>
+<li>New <code>model.conversation(before_call=x, after_call=y)</code> attributes for registering callback functions to run before and after tool calls. See <a href="https://llm.datasette.io/en/stable/python-api.html#python-api-tools-debug-hooks">tool debugging hooks</a> for details. <a href="https://github.com/simonw/llm/issues/1088">#1088</a>
+</li>
+<li>Raising <code>llm.CancelToolCall</code> now only cancels the current tool call, passing an error back to the model and allowing it to continue. <a href="https://github.com/simonw/llm/issues/1148">#1148</a>
+</li>
+</ul>
+</blockquote>
+<p>These hooks are useful for implementing more complex tool calling at the Python API layer. In addition to debugging and logging they allow Python code to intercept tool calls and cancel or delay them based on what they are trying to do.</p>
+<blockquote>
+<ul>
+<li>Some model providers can serve different models from the same configured URL - <a href="https://github.com/simonw/llm-llama-server">llm-llama-server</a> for example. Plugins for these providers can now record the resolved model ID of the model that was used to the LLM logs using the <code>response.set_resolved_model(model_id)</code> method. <a href="https://github.com/simonw/llm/issues/1117">#1117</a>
+</li>
+</ul>
+</blockquote>
+<p>This solves a frustration I've had for a while where some of my plugins log the same model ID for requests that were processed by a bunch of different models under the hood - making my logs less valuable. The new mechanism now allows plugins to record a more accurate model ID for a prompt, should it differ from the model ID that was requsted.</p>
+<blockquote>
+<ul>
+<li>New <code>-l/--latest</code> option for <code>llm logs -q searchterm</code> for searching logs ordered by date (most recent first) instead of the default relevance search. <a href="https://github.com/simonw/llm/issues/1177">#1177</a>
+</li>
+</ul>
+</blockquote>
+<p>My personal <a href="https://llm.datasette.io/en/stable/logging.html">log database</a> has grown to over 8,000 entries now, and running full-text search queries against it often returned results from last year that were no longer relevant to me. Being able to find the <em>latest</em> prompt matching "pelican svg" is much more useful.</p>
+<p>Everything else was bug fixes and documentation improvements:</p>
+<blockquote>
+<h3 id="bug-fixes-and-documentation">Bug fixes and documentation</h3>
+<ul>
+<li>The <code>register_embedding_models</code> hook is <a href="https://llm.datasette.io/en/stable/plugins/plugin-hooks.html#register-embedding-models-register">now documented</a>. <a href="https://github.com/simonw/llm/issues/1049">#1049</a>
+</li>
+<li>Show visible stack trace for <code>llm templates show invalid-template-name</code>. <a href="https://github.com/simonw/llm/issues/1053">#1053</a>
+</li>
+<li>Handle invalid tool names more gracefully in <code>llm chat</code>. <a href="https://github.com/simonw/llm/issues/1104">#1104</a>
+</li>
+<li>Add a <a href="https://llm.datasette.io/en/stable/plugins/directory.html#plugin-directory-tools">Tool plugins</a> section to the plugin directory. <a href="https://github.com/simonw/llm/issues/1110">#1110</a>
+</li>
+<li>Error on <code>register(Klass)</code> if the passed class is not a subclass of <code>Toolbox</code>. <a href="https://github.com/simonw/llm/issues/1114">#1114</a>
+</li>
+<li>Add <code>-h</code> for <code>--help</code> for all <code>llm</code> CLI commands. <a href="https://github.com/simonw/llm/issues/1134">#1134</a>
+</li>
+<li>Add missing <code>dataclasses</code> to advanced model plugins docs. <a href="https://github.com/simonw/llm/issues/1137">#1137</a>
+</li>
+<li>Fixed a bug where <code>llm logs -T llm_version "version" --async</code> incorrectly recorded just one single log entry when it should have recorded two. <a href="https://github.com/simonw/llm/issues/1150">#1150</a>
+</li>
+<li>All extra OpenAI model keys in <code>extra-openai-models.yaml</code> are <a href="https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models">now documented</a>. <a href="https://github.com/simonw/llm/issues/1228">#1228</a>
+</li>
+</ul>
+</blockquote>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/11/llm-027/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-11, from: Robert's feed at BlueSky)
+
+Nice.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5t2e56o22a>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-08-11, from: Tomosino's Mastodon feed)
+
+<p>If you were transformed into a loaf of bread, what type would it be?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/115012336650081880>
 
 ---
 
@@ -73,7 +296,9 @@ This is important.  https://laist.com/news/politics/tuesday-august-14-boycott-op
 
 date: 2025-08-11, from: NetNewsWire
 
-<p>We know some folks are waiting on a new TestFlight build for iOS, and we have good news — we’ve just uploaded 6.1.10 (6198), and it’s waiting on Apple review. Once reviewed it will be available on TestFlight.</p> 
+<p>We know some folks are waiting on a new TestFlight build for iOS, and we have good news — we’ve just uploaded 6.1.10 (6198), and it’s waiting on Apple review. Once reviewed it will be available on TestFlight.</p>
+
+<p><i>Update a few hours later…</i> The build is now available via TestFlight.</p> 
 
 <br> 
 
@@ -392,6 +617,30 @@ Help point me in the right direction.
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/what-interviews-should-i-look-for>
+
+---
+
+## How Do Committees Fail To Invent?
+
+date: 2025-08-11, updated: 2025-08-11, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/08/how-do-committees-fail-to-invent/>
+
+---
+
+## Browsertrix 1.18: Large URL Lists and Beautiful Emails
+
+date: 2025-08-11, from: Web Recorder
+
+Browsertrix 1.18 brings support for large URL lists, new email templates, and UX improvements for crawling and curating. 
+
+<br> 
+
+<https://webrecorder.net/blog/2025-08-11-browsertrix-1-18/>
 
 ---
 

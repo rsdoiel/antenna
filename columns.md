@@ -1,11 +1,226 @@
 ---
 title: columns
-updated: 2025-08-11 14:10:49
+updated: 2025-08-12 06:08:17
 ---
 
 # columns
 
-(date: 2025-08-11 14:10:49)
+(date: 2025-08-12 06:08:17)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-12, from: Miguel de Icaza Mastondon feed)
+
+<p>We added an extension to test your Godot projects directly into Xogot:</p><p><a href="https://github.com/xibbon/xogot_remote_debug" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/xibbon/xogot_remote</span><span class="invisible">_debug</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115015817816868086>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-12, from: Miguel de Icaza Mastondon feed)
+
+<p>The article linked here by <span class="h-card" translate="no"><a href="https://mastodon.social/@clarko" class="u-url mention">@<span>clarko</span></a></span> is beautifully written.  Another one to add to my collection of “I wish I could write like this”.</p><p>The substance is just as good.<br /><a href="https://mastodon.social/@clarko/115013164540286949" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@clarko/115013</span><span class="invisible">164540286949</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115015735526767571>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/20/dave.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I had an hour to spare this morning so I decided for a third time to try to coax ChatGPT to play a role in a little drama I have in mind. I still want to use AI to power an RSS feed of news, customized to the interests of one person (me). My query is this: "Create a summary of the news, top 20 stories with an emphasis on these topics: how people are using AI, especially in education, blogging, US politics, science news, the NBA and MLB, with a slight emphasis on the Knicks and Mets. The results should be in JSON format, with each item including: A brief one sentence summary, publication date and a link to a source where the reader can get more info. My software will then create an RSS feed with this information.." The response was basically: "I'm sorry Dave." Groan. Here are <a href="https://github.com/scripting/Scripting-News/issues/325#issuecomment-3179036482">the details</a>. 
+
+<br> 
+
+<http://scripting.com/2025/08/12.html#a120432>
+
+---
+
+## 2025-08-12 Influential games
+
+date: 2025-08-12, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-12-influential-games">2025-08-12 Influential games</h1>
+
+<p><a class="account" href="https://dice.camp/@Ashigaru" title="@Ashigaru@dice.camp">@Ashigaru</a> mentioned how D&amp;D 3.0 was really important for him at the tjme and <a class="account" href="https://metalhead.club/@dereisenhofer" title="@dereisenhofer@metalhead.club">@dereisenhofer</a> mentioned him playing DSA (Das Schwarze Auge, i.e. The Dark Eye). And I thought about my gaming history.</p>
+
+<p>I moved from The Dark Eye 1st ed that I played as a kid and again as a 15-year old to AD&amp;D 1st ed when I was around 16 because a Canadian exchange student said it was the original and obviously it had to better. Some mere months later my group switched to the new AD&amp;D 2nd ed because obviously new had to be better. And then my interest waned.</p>
+
+<p>Years later, I got into M20 because of the blogs, and my players wanted to play the just released D&amp;D 3.5 because obviously new had to better. With the switch to D&amp;D 4 I put my foot down and went with Labyrinth Lord – and lost almost all my players. 🥺</p>
+
+<p>But I found new ones and kept on playing. So for me, D&amp;D 3.5 stands for those special years just before the OSR blogs took off, when I came back to the game.</p>
+
+<ul>
+<li><a href="2006-11-09_Nostalgia_for_Rolplaying_Games">2006-11-09 Nostalgia for Rolplaying Games</a>, where I wish to get back into gaming</li>
+<li><a href="2007-12-11_Looking_Back">2007-12-11 Looking Back</a> where I list all the Adventure Paths I still want to play</li>
+<li><a href="2010-06-27_Gaming_History">2010-06-27 Gaming History</a> is where I repeat myself, but in the past 🤪</li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-12-influential-games>
+
+---
+
+## The “Incriminating Video” Scam
+
+date: 2025-08-12, updated: 2025-08-07, from: Bruce Schneier blog
+
+<p>A few years ago, scammers invented a new phishing email. They would claim to have hacked your computer, turned your webcam on, and videoed you watching porn or having sex. BuzzFeed has an <a href="https://www.buzzfeed.com/poojashah1/new-email-scam-house-address-sc">article</a> talking about a &#8220;shockingly realistic&#8221; variant, which includes photos of you and your house&#8212;more specific information.</p>
+<p>The article contains &#8220;steps you can take to figure out if it&#8217;s a scam,&#8221; but omits the first and most fundamental piece of advice: If the hacker had incriminating video about you, they would show you a clip. Just a taste, not the worst bits so you had to worry about how bad it could be, but something. If the hacker doesn&#8217;t show you any video, they don&#8217;t have any video. Everything else is window dressing...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/the-incriminating-video-scam.html>
+
+---
+
+## Trump’s “State Capitalism” 
+
+date: 2025-08-12, from: Robert Reich's blog
+
+It would be communism under any other dictator 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-state-capitalism>
+
+---
+
+## August 11, 2025
+
+date: 2025-08-12, from: Heather Cox Richardson blog
+
+President Donald J. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-11-2025>
+
+---
+
+##  Roll On, You Crazy Tire! 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/roll-on-you-crazy-tire>
+
+---
+
+## ‘The Quid Pro Quo Arrangement Is Unprecedented’
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/cd1a0729-a8ab-41e1-a4d2-8907f4c01cac>
+
+---
+
+##  Welcome to the Era of Big Stupid in America. &#8220;When you make... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047311-welcome-to-the-era-of>
+
+---
+
+## [Sponsor] Dekáf Coffee Roasters
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://dekaf.com/df>
+
+---
+
+## ‘Unusual Agreements’
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/nvidia-amd-chip-sales-us-government-f9e34b5f?st=pdZkXp&reflink=desktopwebshare_permalink>
+
+---
+
+##  I Spent 6 Years Building a Ridiculous Wooden Pixel Display. &#8220;I built... 
+
+date: 2025-08-11, updated: 2025-08-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047312-i-spent-6-years-building>
+
+---
+
+## Capital Punishment
+
+date: 2025-08-11, from: Dan Rather's Steady
+
+Trump manufactures a non-crisis 
+
+<br> 
+
+<https://steady.substack.com/p/capital-punishment>
+
+---
+
+## Internet People
+
+date: 2025-08-11, from: Tracy Durnell Blog
+
+WordPress anniversary, and thoughts on blogging by Kris Howard (via) (I told him that URLs are meant to be forever, and that losing websites “creates gaps in humanity’s collective knowledge and holes in the fabric of our shared culture”). I’m not sure if this is a generational thing, or just different cultures and social norms. [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/11/internet-people/>
+
+---
+
+## Mad King Watch, Intel Edition
+
+date: 2025-08-11, updated: 2025-08-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://truthsocial.com/@realDonaldTrump/posts/114987288040725570>
+
+---
+
+## Trump Extends China Tariff Deadline by 90 Days, Again
+
+date: 2025-08-11, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/08/11/trump-china-tariffs-deadline-extended.html>
 
 ---
 
@@ -425,6 +640,18 @@ date: 2025-08-11, updated: 2025-08-11, from: Daring Fireball
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/115007187201751294>
+
+---
+
+## How Do Committees Fail To Invent?
+
+date: 2025-08-11, updated: 2025-08-11, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/08/how-do-committees-fail-to-invent/>
 
 ---
 

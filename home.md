@@ -1,11 +1,84 @@
 ---
 title: home
-updated: 2025-08-11 14:10:53
+updated: 2025-08-12 06:08:21
 ---
 
 # home
 
-(date: 2025-08-11 14:10:53)
+(date: 2025-08-12 06:08:21)
+
+---
+
+## 5 Types of Quail in Texas (With Pictures and Identification)
+
+date: 2025-08-12, from: Yard Life blog
+
+<p>Quail are among the most beloved game birds in Texas, known for their distinctive calls and striking plumage. The state’s ... </p>
+<p class="read-more-container"><a title="5 Types of Quail in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-quail-in-texas-with-pictures-and-identification/#more-33662" aria-label="Read more about 5 Types of Quail in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-quail-in-texas-with-pictures-and-identification/">5 Types of Quail in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-quail-in-texas-with-pictures-and-identification/>
+
+---
+
+## 3 Types of Vultures in California (With Pictures and Identification)
+
+date: 2025-08-12, from: Yard Life blog
+
+<p>California hosts several fascinating vulture species that play a crucial role in maintaining a healthy ecosystem. These scavengers feed on ... </p>
+<p class="read-more-container"><a title="3 Types of Vultures in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-vultures-in-california-with-pictures-and-identification/#more-33658" aria-label="Read more about 3 Types of Vultures in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-vultures-in-california-with-pictures-and-identification/">3 Types of Vultures in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-vultures-in-california-with-pictures-and-identification/>
+
+---
+
+## 10 Species of Owls in Virginia (With Pictures and Identification)
+
+date: 2025-08-12, from: Yard Life blog
+
+<p>Virginia hosts a diverse range of owl species, each with unique characteristics and behaviors. From the silent glide of the ... </p>
+<p class="read-more-container"><a title="10 Species of Owls in Virginia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-species-of-owls-in-virginia-with-pictures-and-identification/#more-33653" aria-label="Read more about 10 Species of Owls in Virginia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-species-of-owls-in-virginia-with-pictures-and-identification/">10 Species of Owls in Virginia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-species-of-owls-in-virginia-with-pictures-and-identification/>
+
+---
+
+## Organizations Seek to Intervene in Lawsuit to Protect Chuckwalla National Monument
+
+date: 2025-08-11, from: California Native Plants Society
+
+<p>CNPS is one of nine organizations represented by Earthjustice engaging to defend the popular Chuckwalla National Monument.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/organizations-seek-to-intervene-in-lawsuit-to-protect-chuckwalla-national-monument-44084">Organizations Seek to Intervene in Lawsuit to Protect Chuckwalla National Monument</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/organizations-seek-to-intervene-in-lawsuit-to-protect-chuckwalla-national-monument-44084>
+
+---
+
+## Frozen Detergent Laundry Pod: Clever Hack or Just a Waste?
+
+date: 2025-08-11, from: Family Handyman Blog
+
+<p>Making your own frozen laundry pods is trending, but does it actually improve performance or just create a mess? Here's what you need to know.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/frozen-detergent-laundry-pod-hack/">Frozen Detergent Laundry Pod: Clever Hack or Just a Waste?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/frozen-detergent-laundry-pod-hack/>
 
 ---
 
@@ -47,6 +120,30 @@ Danish brand Vipp added metal furnishings and minimalist finishes that complemen
 
 ---
 
+## Cabo’s Most Celebrated Chef Is Opening a Napa Restaurant with Cottagecore Vibes
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+Clementine in Yountville is vibrant spot worthy of noting for your next trip to wine country. It's the epitome of California cottagecore. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/clementine-restaurant-yountville>
+
+---
+
+## 6 Questions to Ask Yourself Before You Downsize, According to a Real Estate Agent
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+Thinking about downsizing? A real estate agent shares tips on what to think about before you downsize and move. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/downsizing-real-estate-tips>
+
+---
+
 ## This $3M Home Is Perched on Stilts Overlooking the Long Island Sound
 
 date: 2025-08-11, from: Dwell
@@ -71,6 +168,66 @@ date: 2025-08-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/38-species-of-warblers-in-florida-pictures-and-identification/>
+
+---
+
+## These Are All the New Trader Joe’s Products You Don’t Want to Miss This August
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+Trader Joe’s is saying goodbye to summer with a lot tasty treats. The new products this August will help you savor the rest of the season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-products-august-2025>
+
+---
+
+## Revive Your Herb Garden: 10 Ways to Deal with Bolted and Heat-Stressed Plants
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+From pruning and seed-saving to replanting for fall, these smart seasonal strategies will help you refresh your herb garden this summer. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/herb-garden-tips-for-summer>
+
+---
+
+## This New Floating Sauna in the Bay Area Is the Wellness Escape of Your Dreams
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+A new floating sauna experience in San Francisco's Sausalito area is as architecturally stunning as it is healing. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/fjord-floating-sauna-sausalito>
+
+---
+
+## The State of the Housing Market Has Forced Millennials to Get Creative
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+The housing market has forced millennials to get creative. They are the largest generation to share homes with people they're not related to. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/millennials-sharing-homes-non-relatives>
+
+---
+
+## This Blank Slate San Mateo Home Was Turned into a Playful, Eco-Friendly Space
+
+date: 2025-08-11, from: Sunset Magazine - Living in the West
+
+Originally built in 1940, this San Mateo home was too small for its owners and their growing family. A remodel expanded it and gave it style. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/san-mateo-remodel>
 
 ---
 
@@ -173,6 +330,20 @@ date: 2025-08-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/46-common-birds-in-indiana-with-pictures-and-identification/>
+
+---
+
+## 12 Invasive Plants You Don’t Want in Your Yard
+
+date: 2025-08-10, from: Family Handyman Blog
+
+<p>Curb the spread of invasive plants by recognizing them and learning how to remove them.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/invasive-yard-garden-plants/">12 Invasive Plants You Don’t Want in Your Yard</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/invasive-yard-garden-plants/>
 
 ---
 

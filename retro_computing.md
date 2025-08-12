@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-11 14:10:54
+updated: 2025-08-12 06:08:22
 ---
 
 # retro computing
 
-(date: 2025-08-11 14:10:54)
+(date: 2025-08-12 06:08:22)
+
+---
+
+## All documents in the MTU pages are now clean and higher quality, about 50 new PDFs.
+
+date: 2025-08-12, from: Hans Otten's Retro blog
+
+I got hold a about 10 cm of MTU documents. Several I already had in PDF format, some not available yet. I took the opportunity to scan/rescan/repair what I have online until now. All documents in the MTU pages are now clean and higher quality, about 50 new PDFs. Noteworthy are the new revised K-1008 [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/mtu-documents-update/>
 
 ---
 

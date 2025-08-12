@@ -1,11 +1,26 @@
 ---
 title: small papers
-updated: 2025-08-11 14:10:56
+updated: 2025-08-12 06:08:24
 ---
 
 # small papers
 
-(date: 2025-08-11 14:10:56)
+(date: 2025-08-12 06:08:24)
+
+---
+
+## An injured, endangered sea turtle washed ashore; after 7 months, it has a new chance at life
+
+date: 2025-08-11, from: Long Beach Post
+
+<figure><img width="1024" height="684" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-1024x684.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-1024x684.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-768x513.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11143411/11aug25-8-11-25-turtle-4-806216-io4lesli-001035-8uJwHAVA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"It's most likely she washed up onto land and was just stuck there, not able to push herself back into the water," one of the turtle's rescuers said.</p>
+<p>The post <a href="https://lbpost.com/news/sea-turtle-released-long-beach-aquarium">An injured, endangered sea turtle washed ashore; after 7 months, it has a new chance at life</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sea-turtle-released-long-beach-aquarium>
 
 ---
 
@@ -13,7 +28,7 @@ updated: 2025-08-11 14:10:56
 
 date: 2025-08-11, from: Long Beach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-1024x664.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-1200x778.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-400x259.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj.jpg 1203w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-1024x664.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-167x108.jpg 167w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-1200x778.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj-400x259.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/11131500/b72c55e6-6989-44ed-b2de-f6630d2fdcad-287348-mugeqmpz-849335-SW5YMlzj.jpg 1203w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the victim was able to get to the hospital by himself. Investigators are scouring for a suspect and a motive.</p>
 <p>The post <a href="https://lbpost.com/news/afternoon-shooting-leaves-man-wounded-in-long-beachs-wrigley-neighborhood">Afternoon shooting leaves man wounded in Long Beach&#8217;s Wrigley neighborhood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

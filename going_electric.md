@@ -1,11 +1,155 @@
 ---
 title: going electric
-updated: 2025-08-11 14:10:54
+updated: 2025-08-12 06:08:23
 ---
 
 # going electric
 
-(date: 2025-08-11 14:10:54)
+(date: 2025-08-12 06:08:23)
+
+---
+
+## Electrify America unveils a big DC fast charging hub in Santa Monica, CA
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Electrify_America_SantaMonica_Station_1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.electrifyamerica.com/" target="_blank" rel="noreferrer noopener">Electrify America</a> just cut the ribbon on its first Santa Monica charging station, and it’s a big one: 20 “Hyper-Fast” chargers, each capable of delivering up to 350 kilowatts. For EVs that can handle it, that’s enough juice to add roughly 20 miles of range per minute.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,dc-fast-charging,electrify-america,ev-charging-stations,santa-monica" data-layer-viewtype="unknown" data-post-id="429258" href="https://electrek.co/2025/08/12/electrify-america-dc-fast-charging-station-santa-monica-ca/#more-429258" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/12/electrify-america-dc-fast-charging-station-santa-monica-ca/>
+
+---
+
+## McKinstry powers up its fleet with 100 Chevy Silverado EV work trucks [video]
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/AlVans_Silverado_EV001-e1753478147998.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>McKinstry has reached a major milestone on its way to becoming an emissions-free operation with the deployment of its 100th all-electric Chevy Silverado work truck. What’s more: the company is proving these upfit electric pickups are <a href="https://electrek.co/2025/06/30/geotab-58-of-medium-duty-41-of-heavy-duty-trucks-ready-to-electrify/">ready to work</a>, today.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,construction,fleet,gm" data-layer-viewtype="unknown" data-post-id="429421" href="https://electrek.co/2025/08/12/mckinstry-powers-up-its-fleet-with-100-chevy-silverado-ev-work-trucks-video/#more-429421" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/12/mckinstry-powers-up-its-fleet-with-100-chevy-silverado-ev-work-trucks-video/>
+
+---
+
+## This Rivian R1S Is One Of A Kind
+
+date: 2025-08-12, from: Inside EVs News
+
+Say hello to the Rivian R1S Quad Pebble Beach, the world’s only factory-made one-of-one Rivian. 
+
+<br> 
+
+<https://insideevs.com/news/768741/rivian-r1s-pebble-beach-unique/>
+
+---
+
+## Greenlane launches a second long-haul EV truck corridor pilot
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Greenlane-Colton.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.drivegreenlane.com/" target="_blank" rel="noreferrer noopener">Greenlane</a> is firing up its second commercial EV truck charging corridor – this time connecting Southern California to Phoenix along Interstate 10. The move targets a major gap in electric freight infrastructure on one of the busiest shipping routes in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arizona,california,electric-semi-truck,electric-trucks,greenlane,phoenix" data-layer-viewtype="unknown" data-post-id="429307" href="https://electrek.co/2025/08/12/greenlane-second-long-haul-ev-truck-corridor-pilot/#more-429307" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/12/greenlane-second-long-haul-ev-truck-corridor-pilot/>
+
+---
+
+## Rivian is working on a steer-by-wire system – and rear wheel steering (updated)
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Rivian-R2-design-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian has posted a job listing for a steering engineer, specifically mentioning work on a future steer-by-wire system for the company.</p>
+
+
+
+<p><em><strong>Update, Aug 11: </strong></em>Rivian has now <a href="https://www.rivianforums.com/forum/threads/rear-wheel-steering-development.48982/">specifically mentioned rear-wheel steering in a job posting</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,steer-by-wire" data-layer-viewtype="unknown" data-post-id="429012" href="https://electrek.co/2025/08/11/looks-like-rivian-is-working-on-a-steer-by-wire-system/#more-429012" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/11/looks-like-rivian-is-working-on-a-steer-by-wire-system/>
+
+---
+
+## BMW isn’t wasting any time discounting its new 2026 EVs
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/bmw-discounts.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Automakers are <a href="https://electrek.co/2025/08/11/tesla-leads-price-cuts-as-us-ev-sales-post-2nd-best-month-ever/">scrambling</a> to push their EVs out the door before the $7,500 Federal tax incentive for EVs disappears — and BMW is no different, offering aggressive cash back, owner loyalty, and special financing rates on its just-released 2026 model year EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,ev-deals" data-layer-viewtype="unknown" data-post-id="429350" href="https://electrek.co/2025/08/11/bmw-isnt-wasting-any-time-discounting-its-new-2026-evs/#more-429350" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/11/bmw-isnt-wasting-any-time-discounting-its-new-2026-evs/>
+
+---
+
+## Prologis set to generate a MASSIVE 82 MW of energy with rooftop solar
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/prologis_Solar.png?w=1600" /></div><p>This week, industrial real estate giant Prologis flipped the switch on a rooftop solar project at one of its Franklin Park, Illinois warehouses — the first of 45 such rooftop installations the company plans to deploy in the next two years. Once finished, Prologis’ community solar project will generate up to 82 MW of clean energy!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="comed,community-solar,rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="429332" href="https://electrek.co/2025/08/11/prologis-set-to-generate-a-massive-82-mw-of-energy-with-rooftop-solar/#more-429332" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/11/prologis-set-to-generate-a-massive-82-mw-of-energy-with-rooftop-solar/>
+
+---
+
+## Tesla leads price cuts as US EV sales post 2nd-best month ever
+
+date: 2025-08-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Model-Y.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>US EV sales are surging as prices dip and automakers pile on record incentives to clear out inventory before the $7,500 EV tax credit vanishes, according to Kelley Blue Book’s latest numbers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,evs,kelley-blue-book,tesla-model-3,tesla-model-y" data-layer-viewtype="unknown" data-post-id="429322" href="https://electrek.co/2025/08/11/tesla-leads-price-cuts-as-us-ev-sales-post-2nd-best-month-ever/#more-429322" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/11/tesla-leads-price-cuts-as-us-ev-sales-post-2nd-best-month-ever/>
+
+---
+
+## Lucid is about to drop a ‘bold’ new EV concept this week
+
+date: 2025-08-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Lucid-Tesla-affordable-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid</a> is teasing what it calls a “bold new concept of electric exploration” ahead of its debut on Thursday. What exactly does that mean?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="429285" href="https://electrek.co/2025/08/11/lucid-about-to-reveal-bold-new-ev-concept-this-week/#more-429285" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/11/lucid-about-to-reveal-bold-new-ev-concept-this-week/>
 
 ---
 

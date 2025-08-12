@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-11 14:10:52
+updated: 2025-08-12 06:08:20
 ---
 
 # libraries
 
-(date: 2025-08-11 14:10:52)
+(date: 2025-08-12 06:08:20)
 
 ---
 
@@ -30,6 +30,32 @@ Upadhyay, Arijit; Tröndle, Tim; Ganter, Alissa; Petkov, Ivalin; Gabrielli, Paol
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737644>
+
+---
+
+## Research Collection now available with new features
+
+date: 2025-08-12, from: ETH Zurich Research Archives
+
+The migration of the Research Collection has been successfully completed. Read more 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/research-collection-now-available-with-new-features/>
+
+---
+
+## Guest Post — Who Controls Knowledge in the Age of AI? Part 1
+
+date: 2025-08-12, from: Scholarly Kitchen
+
+<p>The MIT Press surveyed book authors on attitudes towards LLM training practices. In Part 1 of this 2 part post, we discuss the results: authors are not opposed to generative AI per se, but they are strongly opposed to unregulated, extractive practices and worry about the long-term impacts of unbridled generative AI development on the scholarly and scientific enterprise.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/12/guest-post-who-controls-knowledge-in-the-age-of-ai-part-1/">Guest Post &#8212; Who Controls Knowledge in the Age of AI? Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/12/guest-post-who-controls-knowledge-in-the-age-of-ai-part-1/>
 
 ---
 

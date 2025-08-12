@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2025-08-11 14:10:53
+updated: 2025-08-12 06:08:21
 ---
 
 # motorcycles
 
-(date: 2025-08-11 14:10:53)
+(date: 2025-08-12 06:08:21)
+
+---
+
+## Worrying Sales Trend Continues, As Yamaha Begins to Feel the Burn
+
+date: 2025-08-12, from: Ride Apart, Electric Motorcycle News
+
+Yamaha's Q2 financial report highlights a worrying dip in sales of powersport vehicles, and we're seeing it across the board now. 
+
+<br> 
+
+<https://www.rideapart.com/news/768502/yamaha-q2-downward-powersport-trend/>
+
+---
+
+## Honda Bags Multiple Red Dot Awards For Its Electric Mobility Concepts
+
+date: 2025-08-12, from: Ride Apart, Electric Motorcycle News
+
+Honda’s Fastport eQuad earned the Best of the Best design award, while the EV Fun and Urban Concepts took home their own Red Dot Awards, as well. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768320/honda-multiple-red-dot-awards-ev-mobility-concepts/>
+
+---
+
+## This Little Electric Scooter Has a Wheelie Button, No Really
+
+date: 2025-08-12, from: Ride Apart, Electric Motorcycle News
+
+After a hundred years of being the go-to move for motorcyclists, the wheelie is still cool as hell. And this little electric scooter, the Wheelie Fun Bike, has a button to help you pop a tire off the ground.  
+
+<br> 
+
+<https://www.rideapart.com/news/768480/wheelie-fun-bike-street-legal-electric-scooter/>
+
+---
+
+## BMW France Is Offering Dark Editions Of the F 900 and R 1300 GS
+
+date: 2025-08-12, from: Ride Apart, Electric Motorcycle News
+
+If you live in France, you might want to take advantage of BMW’s special offers on the F 900 and R 1300 GS Dark Editions. You’ll need to move fast, as the offer only lasts until the end of September. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768334/bmw-f900gs-r1300gs-dark-edition-france-exclusive/>
+
+---
+
+## Police Chased a Truck With a Jet Ski Attached Across Nearly All of Massachusetts
+
+date: 2025-08-12, from: Ride Apart, Electric Motorcycle News
+
+In what has to be one of the weirdest police chases of all time, the cops found themselves in high-speed pursuit of a suspect in a truck with a jet ski being trailered behind it. It caught on fire.  
+
+<br> 
+
+<https://www.rideapart.com/news/768467/police-chase-truck-jet-ski-trailer-fire/>
 
 ---
 

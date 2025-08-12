@@ -1,11 +1,341 @@
 ---
 title: planet
-updated: 2025-08-11 14:10:44
+updated: 2025-08-12 06:08:12
 ---
 
 # planet
 
-(date: 2025-08-11 14:10:44)
+(date: 2025-08-12 06:08:12)
+
+---
+
+## Lidl supermarket among closures over food safety issues
+
+date: 2025-08-12, from: RTÉ News
+
+A Lidl supermarket in Co Dublin was among ten premises issued with closure orders by the Food Safety Authority last month, where inspectors observed rodent droppings in mulitple locations. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528076-lidl-closure/>
+
+---
+
+## Community 'shaken' after Downpatrick incidents, Mass told
+
+date: 2025-08-12, from: RTÉ News
+
+A community in Co Down has been "shaken and upset deeply" by the attack on a priest and the death of a man at the weekend, a special Mass has heard. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0812/1528028-downpatrick-mass/>
+
+---
+
+## Firefighters sail to Heir Island to put out gorse fire
+
+date: 2025-08-12, from: RTÉ News
+
+A gorse fire which threatened three houses on Heir Island in West Cork was put out by firefighters who were transported to the island on board the Baltimore RNLI lifeboat. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528077-gorse-fire-cork/>
+
+---
+
+## Call for Government to address number of pubs closing
+
+date: 2025-08-12, from: RTÉ News
+
+Publicans have called on the Government to introduce measures to address the number of pubs closing in rural areas. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528067-pub-closures-ireland/>
+
+---
+
+## 'Nothing will be left' - Israel prepares for Gaza battle
+
+date: 2025-08-12, from: RTÉ News
+
+In a dense urban landscape, with likely thousands of Hamas fighters lying in wait, taking Gaza City will be a difficult and costly slog for the Israeli army, security experts say. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0812/1528056-gaza-city/>
+
+---
+
+## Sporting legends fundraise for girl who lost both legs
+
+date: 2025-08-12, from: RTÉ News
+
+Sporting legends from across all codes have joined the 'Stand For Féile' fundraiser for a young Cork girl who lost both her legs in a farm accident last month. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528053-feile-osullivan/>
+
+---
+
+## Man killed in Spain wildfire as heatwave intensifies
+
+date: 2025-08-12, from: RTÉ News
+
+A man died after suffering burns and thousands fled their homes in Spain as wildfires fuelled by a heatwave scorched southern Europe. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0812/1528048-spain-wildfires-death/>
+
+---
+
+##  Angola: Diocese of Sumbe celebrates Jubilee Year and ordains 28 Catholic priests
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>The Diocese of Sumbe in Angola has concluded its 50th-anniversary Jubilee with the ordination of 28 new priests.
+
+</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-08/angola-diocese-of-sumbe-celebrates-jubilee-year-and-ordains-28.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-08/angola-diocese-of-sumbe-celebrates-jubilee-year-and-ordains-28.html>
+
+---
+
+## Attacks on Indian community 'despicable' - Archbishop
+
+date: 2025-08-12, from: RTÉ News
+
+Recent attacks on members of the Indian community in Ireland are "completely and utterly despicable", the Catholic Archbishop of Dublin has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528044-ireland-india/>
+
+---
+
+## At Death’s Door: Gazans’ struggle to survive famine deployed as a weapon of war
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>As famine steals lives in war-torn Gaza, parents face agonizing choices to secure food for their children, who increasingly go hungry amid rampant inflation and a dire lack of food and assistance.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/gaza-famine-families-struggle-to-survive-ongoing-war.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/gaza-famine-families-struggle-to-survive-ongoing-war.html>
+
+---
+
+## Colombian Bishops mourn assassinated Senator Miguel Uribe
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>The Bishops of Colombia express their deep sorrow for the death of Senator Miguel Uribe Turbay, a presidential hopeful who was shot at a political rally in June.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/colombia-bishops-mourn-assassinated-senator-miguel-uribe.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/colombia-bishops-mourn-assassinated-senator-miguel-uribe.html>
+
+---
+
+## Tonight, tomorrow best times to see Perseid meteor shower
+
+date: 2025-08-12, from: RTÉ News
+
+The Perseid meteor shower will reach its peak tonight and tomorrow, making it the best time for stargazers to view the celestial fireworks. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528037-perseid-meteor-shower/>
+
+---
+
+## Crunching the numbers of running for president
+
+date: 2025-08-12, from: RTÉ News
+
+It costs a lot of money to run for president of Ireland. 
+
+<br> 
+
+<https://www.rte.ie/news/presidential-election/2025/0812/1528027-presidential-election-costs/>
+
+---
+
+## Pittsburgh Bishop: Comfort for the hurting after Steel Works explosion
+
+date: 2025-08-12, from: Vatican News
+
+
+                    <p>Bishop Mark Eckman of the US city of Pittsburgh prays for the consolation of those affected by the deadly explosions at the Clairton Coke Works, and reflects that "at times like this, our faith calls us to stand together in compassion, in prayer, and in care for one another."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/pittsburgh-bishop-comfort-hurting-after-steel-works-explosion.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/pittsburgh-bishop-comfort-hurting-after-steel-works-explosion.html>
+
+---
+
+## Proposed carbon budget approach 'not enough' - expert
+
+date: 2025-08-12, from: RTÉ News
+
+Ireland's proposed carbon budget approach is "not enough" and needs to be reassessed, a climate expert has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1528019-ireland-carbon-budget/>
+
+---
+
+## Concerns over Presbyterian Church discipline, governance
+
+date: 2025-08-12, from: RTÉ News
+
+Serious concerns around discipline and internal governance have been raised about the Presbyterian Church in Ireland, according to documents seen by RTÉ News. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1527991-presbyterian-church-concerns/>
+
+---
+
+## Taylor Swift announces new album The Life of a Showgirl
+
+date: 2025-08-12, from: RTÉ News
+
+Music superstar Taylor Swift has announced her 12th studio album The Life of a Showgirl. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/music/2025/0812/1528005-swift-album/>
+
+---
+
+## Zelensky says Russia is preparing for new attacks
+
+date: 2025-08-12, from: RTÉ News
+
+Ukrainian President Volodymr Zelensky has said Moscow was not seeking peace in Ukraine and was instead preparing new attacks. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0812/1528003-ukraine-russia/>
+
+---
+
+## Sylvanian toymaker drops lawsuit against Irish woman
+
+date: 2025-08-12, from: RTÉ News
+
+A Japanese toymaker has dropped its lawsuit against the Irish creator behind the hugely popular 'Sylvanian Drama' accounts on social media. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0812/1527975-sylvanian-drama/>
+
+---
+
+## Two dead, 10 hospitalised after US steel plant explosions
+
+date: 2025-08-12, from: RTÉ News
+
+Two workers have died and ten were wounded after blasts at a steel plant in the US state of Pennsylvania, officials said. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0812/1528002-pennsylvania-steel-plant-explosion/>
+
+---
+
+## Trump signs order to extend China tariff truce by 90 days
+
+date: 2025-08-12, from: RTÉ News
+
+US President Donald Trump has ordered a delay in the reimposition of higher tariffs on Chinese goods, hours before a trade truce between the US and China was due to expire. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0812/1528000-us-tariffs/>
+
+---
+
+## WHO calls for more aid in Gaza before Israeli occupation
+
+date: 2025-08-12, from: RTÉ News
+
+The UN health agency has said Israel should let it stock medical supplies to deal with a "catastrophic" health situation in Gaza before it seizes control of Gaza City. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0812/1527999-gaza-israel/>
+
+---
+
+## WATCH | Paramount+ brings UFC to streaming, nabs a growing audience
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/51ff45e4-ce87-483a-ae13-e3a152defd43,1754952120417/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two men fight in a ring. ' width='620' height='349' title='ax Holloway of the United States (R) strikes Dustin Poirier of the United States during their lightweight bout during UFC 318: Holloway vs Poirier 3 at the Smoothie King Center on July 19, 2025 in New Orleans, Louisiana. '/><p>Paramount+ outbid its larger competitors to earn the streaming rights for UFC, bringing the platform a growing audience of 100 million in the U.S. alone.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6863464?cmp=rss>
+
+---
+
+## Skyward by David H. Levy – August 2025
+
+date: 2025-08-11, from: Vatican Obervatory
+
+David Levy discusses observing at this year's Adirondack Astronomy Retreat 
+
+<br> 
+
+<https://www.vaticanobservatory.org/sacred-space-astronomy/skyward-by-david-h-levy-august-2025/>
+
+---
+
+## Crews fight 'fire whirls' and extreme heat in northern Spain
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7606490.1754960628!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/europe-weather-spain-wildfire.JPG' alt='Two people try to prevent a fire from flaring up as a helicopter flies overhead.' width='620' height='349' title='Pablo Castano, 21 and Miguel Pernia, 59, try to prevent fire from flaring up after a wildfire in Congosta, Spain on Aug. 11, 2025.'/><p>Extreme heat and strong winds caused "fire whirls" as a blaze burned several houses and forced the evacuation of hundreds of people from near a UNESCO-listed national park in northern Spain, authorities said on Monday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/spain-heat-fire-whirls-1.7606487?cmp=rss>
+
+---
+
+## Moran set to take the reins as Mayo manager
+
+date: 2025-08-11, from: RTÉ News
+
+Andy Moran is set to become the new manager of the Mayo senior footballers, with the county board to ratify the appointment of the Ballaghaderreen clubman at its next meeting. 
+
+<br> 
+
+<https://www.rte.ie/sport/football/2025/0811/1527988-moran-set-to-take-the-reins-as-new-mayo-manager/>
 
 ---
 
@@ -33,6 +363,42 @@ Donald Trump has ordered the mobilisation of hundreds of troops for deployment i
 
 ---
 
+## Tea dance brought back to Kahkewistahaw First Nation after 80 years
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7606184.1754946973!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kahkewistahaw-first-nation.jpg' alt='Women and men dance under a tent to drummed singers.' width='620' height='349' title='Members of the community and visitors dance any style for the tea dance, which hasn&apos;t happened in 80 years.'/><p>Kahkewistahaw First Nation held a week-long traditional gathering, and invited Ken Saddleback from Maskwacis, Alta., to teach the community once again what the tea dance is and the protocols.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/tea-dance-kahkewistahaw-maskwacis-1.7606147?cmp=rss>
+
+---
+
+## Canada alone in G7 with call for prisoner release as Armenia, Azerbaijan in peace talks
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7606393.1754951672!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-azerbaijan-armenia.JPG' alt='Three men sit at a large table with flags behind them.' width='620' height='349' title='U.S. President Donald Trump gestures during a trilateral signing event with Armenia&apos;s Prime Minister Nikol Pashinyan and Azerbaijan&apos;s President Ilham Aliyev, at the White House, in Washington, D.C., August 8, 2025. REUTERS/Kevin Lamarque'/><p>The federal government is calling for the release of Armenian detainees and prisoners of war in Azerbaijan as it praised the road to peace paved by a White House-brokered meeting last week between the two countries locked in decades of conflict.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/azerbaijan-call-for-prisoner-release-1.7606313?cmp=rss>
+
+---
+
+## Gunman fired more than 180 shots at CDC headquarters, but no staff wounded
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7606296.1754947142!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/bullet-holes-in-the-windows-of-a-building-at-the-u-s-cdc-headquarters-in-atlanta.jpg' alt='Bullet holes are seen in the windows of a building at the Atlanta headquarters of the U.S. Centers for Disease Control.' width='620' height='349' title='The notable bullet marks on the windows of the Centers for Disease Control and Prevention headquarters are visible from Clifton Rd, on Sunday, Aug. 10, 2025.'/><p>The man who attacked the U.S. Centers for Disease Control (CDC) headquarters in Atlanta on Friday fired more than 180 shots and broke about 150 windows, piercing "blast-resistant" panes and spattering glass shards into numerous rooms, according to information circulated internally at the agency.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/cdc-headquarters-attack-gunman-1.7606291?cmp=rss>
+
+---
+
 ## Podcast: New insights on Prince Andrew's BBC interview
 
 date: 2025-08-11, from: RTÉ News
@@ -42,6 +408,30 @@ A journalist who worked on a BBC investigation that ultimately saw Prince Andrew
 <br> 
 
 <https://www.rte.ie/news/2025/0811/1527970-podcast-new-insights-on-prince-andrews-bbc-interview/>
+
+---
+
+## This First Nations ultra-runner is running a marathon a day for seven days in memory of his father
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7606150.1754946020!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/noah-allison-bc-ultra-runner.jpeg' alt='A man finishes a marathon with outspread arms' width='620' height='349' title='Noah Allison, a Tahltan-Tsimshian ultra-runner, is running a marathon a day to raise money for B.C. Cancer Foundation&apos;s patient relief fund in honour of his father, Markus.'/><p>A 28-year-old B.C. ultra-runner is running 300 kilometres from Prince Rupert to Terrace — and back. He's raising money for the B.C. Cancer Foundation in the process.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/cancer-fundraiser-bc-1.7605360?cmp=rss>
+
+---
+
+## Ontario to spend $7.7M to support residential school survivors
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7546048.1748453000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/min-greg-rickford.jpg' alt='Photo of a male politician speaking into several microphones' width='620' height='349' title='Indigenous Affairs Minister Greg Rickford said the duty to consult provision is being put forward to provide &apos;greater certainty,&apos; speaking at at Queen&apos;s Park Wednesday. '/><p>The Ontario government will spend $7.7 million on mental health and wellness supports for survivors of the residential school system and their families.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/toronto/ontario-funding-support-for-residential-school-survivors-1.7606256?cmp=rss>
 
 ---
 
@@ -73,7 +463,7 @@ date: 2025-08-11, from: Vatican News
 
 ---
 
-## FSAI issue goats cheese recall over possible listeria
+## FSAI issues goats cheese recall over possible listeria
 
 date: 2025-08-11, from: RTÉ News
 
@@ -82,6 +472,18 @@ A batch of Spar Chèvre goats cheese has been recalled due to the possible prese
 <br> 
 
 <https://www.rte.ie/news/2025/0811/1527951-listeria-cheese/>
+
+---
+
+## Gwich'in Tribal Council appoints new interim CEO
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.3558407.1754941132!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gwichin-building-inuvik.JPG' alt='Upshot of building.' width='620' height='349' title='For the first time, the Gwich&apos;in Tribal Council will be using electronic voting to select the land claim organization&apos;s top leadership instead of paper ballots. '/><p>Brenda McDonald replaces Mark Ellwood as CEO. In a statement Sunday, the Gwich’in Tribal Council announced her appointment, writing that McDonald brings more than two decades of experience working in senior leadership with Indigenous governments, and territorial and federal agencies.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/brenda-mcdonald-takes-over-as-gwich-in-tribal-council-ceo-1.7606141?cmp=rss>
 
 ---
 
@@ -133,6 +535,18 @@ The All Ireland camogie champions arrived to a heroes' welcome in Ballinasloe, C
 
 ---
 
+## Watch: Heroes' welcome for Camogie champions in Galway
+
+date: 2025-08-11, from: RTÉ News
+
+The All-Ireland camogie champions arrived to a heroes' welcome in Clarinbridge, Co Galway. 
+
+<br> 
+
+<https://www.rte.ie/news/connacht/2025/0811/1527928-galway-camogie-hospital/>
+
+---
+
 ## Young people have 'nothing to vote for', Sheridan says
 
 date: 2025-08-11, from: RTÉ News
@@ -154,6 +568,18 @@ Two members of An Garda Síochána have appeared in court and will be sent forwa
 <br> 
 
 <https://www.rte.ie/news/2025/0811/1527920-gardai-longford-court/>
+
+---
+
+## Paramount gets UFC streaming rights in U.S. with $7.7B deal
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.6957753.1693978430!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/mma-ufc-289-malott-20230608.jpg' alt=' The UFC logo is shown on a fighters hand during UFC Fight Night at Rogers Arena in Vancouver, Saturday, September, 14, 2019. ' width='620' height='349' title='The UFC logo is shown on a fighters hand during UFC Fight Night at Rogers Arena in Vancouver, Saturday, September, 14, 2019. '/><p>Skydance-owned Paramount will become the exclusive U.S. home of Ultimate Fighting Championship under a seven-year streaming deal valued at about $7.7 billion US, the first major strategic move by the newly merged media giant under new CEO David Ellison.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/business/paramount-ufc-streaming-rights-1.7605923?cmp=rss>
 
 ---
 
@@ -397,6 +823,18 @@ date: 2025-08-11, from: Vatican News
 
 ---
 
+## Colombian Sen. Miguel Uribe dies 2 months after being shot at rally
+
+date: 2025-08-11, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7605660.1754912195!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2218793782.jpg' alt='A bespectacled, cleanshaven and darkhaired main wearing a suit and tie is shown in closeup.' width='620' height='349' title='Senator Miguel Uribe looks on after the Senate voted against the government labor reform referendum promoted by Colombia&apos;s President Gustavo Petro in Bogota on May 14, 2025. Senator and presidential hopeful Uribe, shot in the head by an alleged teen gunman at a campaign rally on June 7, shows &quot;little response&quot; to medical treatment and remains in &quot;critical&quot; condition, the clinic treating him in Bogota reported on June 9, 2025.   '/><p>Miguel Uribe, the Colombian senator who had been hospitalized since he was shot in the head in June during a campaign event, has died, his family said Monday. He was 39.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/colombia-uribe-death-1.7605650?cmp=rss>
+
+---
+
 ## UN urges better response as two million Afghanis returned home this year
 
 date: 2025-08-11, from: Vatican News
@@ -498,6 +936,18 @@ A man who was killed in Co Down has been described by his family as a "beloved" 
 <br> 
 
 <https://www.rte.ie/news/ulster/2025/0811/1527835-downpatrick-murder-investigation/>
+
+---
+
+## Tłı̨chǫ government in N.W.T. marks 20 years since landmark self-government agreement came into effect
+
+date: 2025-08-11, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.5607326.1754697195!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/george-mackenzie.JPG' alt='Multiple men sit at a table.' width='620' height='349' title='Tlicho Grand Chief George Mackenzie at the 2019 Tlicho annual gathering in Gameti, N.W.T. This year&apos;s gathering will be curtailed under COVID-19 restrictions.'/><p>The Tłı̨chǫ annual gathering gets underway this week in Behchokǫ̀, N.W.T., and this year's event will celebrate 20 years since the Tłı̨chǫ government was formally established, the result of a landmark agreement that was the first of its kind in the territory.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/t%C5%82%C4%B1-ch%C7%AB-mark-20-years-since-landmark-self-government-agreement-came-into-effect-1.7605080?cmp=rss>
 
 ---
 
@@ -805,7 +1255,7 @@ The UN Security Council has expressed alarm at the sharp escalation of violence 
 
 date: 2025-08-10, from: United Nations, Top Stories
 
-It’s essential to work towards a two-State solution to the Israel-Palestine conflict as the international community addresses the reality of starvation on the ground in Gaza, the Security Council heard on Sunday. 
+It is essential to work towards a two-State solution to the Israel-Palestine conflict as the international community addresses the reality of starvation on the ground in Gaza, the Security Council heard on Sunday. 
 
 <br> 
 

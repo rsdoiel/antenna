@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-08-11 14:10:46
+updated: 2025-08-12 06:08:13
 ---
 
 # north america
 
-(date: 2025-08-11 14:10:46)
+(date: 2025-08-12 06:08:13)
+
+---
+
+## Words & Phrases We Could Do Without
+
+date: 2025-08-12, from: The Contrarian
+
+&#8216;New numbers&#8217; are lies 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-dd9>
+
+---
+
+##  Corporate America’s New Ploy To Trap Workers 
+
+date: 2025-08-12, from: The Lever News
+
+ As regulators crack down on noncompete agreements, employers are turning to TRAP contracts to lock workers into their jobs.  
+
+<br> 
+
+<https://www.levernews.com/corporate-americas-new-ploy-to-trap-workers/>
+
+---
+
+## Evening Roundup, August 11
+
+date: 2025-08-11, from: The Contrarian
+
+Featuring "Offsides with Pablo Torre," Jeff Nesbit, Allyn Brooks LaSure, Abraham Kenmore and Osita Nwanevu, Aya Ibrahim, Austin Sarat and Steve Kramer, "Talking Feds," and Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-11>
+
+---
+
+## Trump's economics are intellectually inconsistent: Aya Ibrahim explains
+
+date: 2025-08-11, from: The Contrarian
+
+"Trust is very hard to earn, and it is very easily lost." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170716572/fce018584bc67570c8fa4a72ea6e3629.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170716572/fce018584bc67570c8fa4a72ea6e3629.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trumps-economics-are-intellectually>
 
 ---
 
