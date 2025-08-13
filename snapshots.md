@@ -1,11 +1,239 @@
 ---
 title: snapshots
-updated: 2025-08-13 06:09:53
+updated: 2025-08-13 14:09:29
 ---
 
 # snapshots
 
-(date: 2025-08-13 06:09:53)
+(date: 2025-08-13 14:09:29)
+
+---
+
+## Pironman 5-Mini is a smaller Raspberry Pi 5 case with an M.2 2280 slot and RGB fan
+
+date: 2025-08-13, from: Liliputing
+
+<p>There&#8217;s no shortage of cases for the Raspberry Pi line of single-board computers. But Sunfounder&#8217;s Pironman line of cases stand out thanks to their gaming PC aesthetic that includes clear acrylic side panels and RGB lighting. After launching the original Pironman 5 in 2024, Sunfounder introduced the Pironman 5-MAX earlier this year, bringing support for features [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pironman-5-mini-is-a-smaller-raspberry-pi-5-case-with-an-m-2-2280-slot-and-rgb-fan/">Pironman 5-Mini is a smaller Raspberry Pi 5 case with an M.2 2280 slot and RGB fan</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pironman-5-mini-is-a-smaller-raspberry-pi-5-case-with-an-m-2-2280-slot-and-rgb-fan/>
+
+---
+
+## pyx: a Python-native package registry, now in Beta
+
+date: 2025-08-13, updated: 2025-08-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://astral.sh/blog/introducing-pyx">pyx: a Python-native package registry, now in Beta</a></strong></p>
+Since its first release, the single biggest question around the <a href="https://github.com/astral-sh/uv">uv</a> Python environment management tool has been around Astral's business model: Astral are a VC-backed company and at some point they need to start making real revenue.</p>
+<p>Back in September Astral founder Charlie Marsh <a href="https://simonwillison.net/2024/Sep/8/uv-under-discussion-on-mastodon/">said the following</a>:</p>
+<blockquote>
+<p>I don't want to charge people money to use our tools, and I don't want to create an incentive structure whereby our open source offerings are competing with any commercial offerings (which is what you see with a lost of hosted-open-source-SaaS business models).</p>
+<p>What I want to do is build software that vertically integrates with our open source tools, and sell that software to companies that are already using Ruff, uv, etc. Alternatives to things that companies already pay for today.</p>
+<p>An example of what this might look like (we may not do this, but it's helpful to have a concrete example of the strategy) would be something like an enterprise-focused private package registry. [...]</p>
+</blockquote>
+<p>It looks like those plans have become concrete now! From today's announcement:</p>
+<blockquote>
+<p><strong>TL;DR:</strong> <a href="https://astral.sh/pyx">pyx</a> is a Python-native package registry --- and the first piece of the Astral platform, our next-generation infrastructure for the Python ecosystem.</p>
+<p>We think of <a href="https://astral.sh/pyx">pyx</a> as an optimized backend for <a href="https://github.com/astral-sh/uv">uv</a>: it's a package registry, but it also solves problems that go beyond the scope of a traditional "package registry", making your Python experience faster, more secure, and even GPU-aware, both for private packages and public sources (like PyPI and the PyTorch index).</p>
+<p><a href="https://astral.sh/pyx">pyx</a> is live with our early partners, including <a href="https://ramp.com/">Ramp</a>, <a href="https://www.intercom.com/">Intercom</a>, and <a href="https://fal.ai/">fal</a> [...]</p>
+</blockquote>
+<p>This looks like a sensible direction to me, and one that stays true to Charlie's promises to carefully design the incentive structure to avoid corrupting the core open source project that the Python community is coming to depend on.
+
+    <p><small></small>Via <a href="https://x.com/charliermarsh/status/1955695947716985241">@charliermarsh</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/packaging">packaging</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/astral">astral</a>, <a href="https://simonwillison.net/tags/charlie-marsh">charlie-marsh</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/13/pyx/#atom-everything>
+
+---
+
+## Screaming in the Cloud: AI’s Security Crisis: Why Your Assistant Might Betray You
+
+date: 2025-08-13, updated: 2025-08-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/">Screaming in the Cloud: AI’s Security Crisis: Why Your Assistant Might Betray You</a></strong></p>
+I recorded this podcast conversation with Corey Quinn a few weeks ago:</p>
+<blockquote>
+<p>On this episode of <em>Screaming in the Cloud</em>, Corey Quinn talks with Simon Willison, founder of Datasette and creator of LLM CLI about AI’s realities versus the hype. They dive into Simon’s “lethal trifecta” of AI security risks, his prediction of a major breach within six months, and real-world use cases of his open source tools, from investigative journalism to OSINT sleuthing. Simon shares grounded insights on coding with AI, the real environmental impact, AGI skepticism, and why human expertise still matters. A candid, hype-free take from someone who truly knows the space.</p>
+</blockquote>
+<p>This was a <em>really fun</em> conversation - very high energy and we covered a lot of different topics. It's about a lot more than just LLM security.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/podcast-appearances">podcast-appearances</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a>, <a href="https://simonwillison.net/tags/corey-quinn">corey-quinn</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/13/screaming-in-the-cloud/#atom-everything>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-08-13, from: IIIF Mastodon feed)
+
+<p>The August <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Newsletter is out! Open for: </p><p>👥 Interactive 2D Community Group<br />🪙 Roman Coins <br />💻 Training Opportunities</p><p>Read it in full: <a href="https://mailchi.mp/iiif/aug-25" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">mailchi.mp/iiif/aug-25</span><span class="invisible"></span></a><br />Sign up for future issues: <a href="https://iiif.io/newsletter/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">iiif.io/newsletter/</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/115022648239953348>
+
+---
+
+## Pebble Time 2 specs and design finalized ahead of the $225 smartwatch’s launch
+
+date: 2025-08-13, from: Liliputing
+
+<p>The Pebble Time 2 is a smartwatch that some folks have been waiting nearly a decade for. And now it&#8217;s almost ready to start shipping. While the original company called Pebble shut down in 2016, founder Eric Migicovsky introduced a new company called Core Devices earlier this year, and announced that the first two devices would be [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pebble-time-2-specs-and-design-finalized-ahead-of-the-225-smartwatchs-launch/">Pebble Time 2 specs and design finalized ahead of the $225 smartwatch&#8217;s launch</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pebble-time-2-specs-and-design-finalized-ahead-of-the-225-smartwatchs-launch/>
+
+---
+
+## How Does A Blind Model See The Earth?
+
+date: 2025-08-13, updated: 2025-08-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth">How Does A Blind Model See The Earth?</a></strong></p>
+Fun, creative new micro-eval. Split the world into a sampled collection of latitude longitude points and for each one ask a model:</p>
+<blockquote>
+<p><code>If this location is over land, say 'Land'. If this location is over water, say 'Water'. Do not say anything else.</code></p>
+</blockquote>
+<p>Author henry goes a step further: for models that expose logprobs they use the relative probability scores of Land or Water to get a confidence level, for other models they prompt four times at temperature 1 to get a score.</p>
+<p>And then.. they plot those probabilities on a chart! Here's Gemini 2.5 Flash (one of the better results):</p>
+<p><img alt="A global map visualization showing land probability data from Google/Gemini-2.5-flash model, with longitude on x-axis (-180° to 180°) and latitude on y-axis (-80° to 80°), using a blue-to-green color scale where blue represents water (0.0 probability) and green represents land (1.0 probability), clearly showing continental outlines including North America, South America, Africa, Europe, Asia, and Australia against blue ocean backgrounds." src="https://static.simonwillison.net/static/2025/land-map-gemini-flash.png" /></p>
+<p>This reminds me of my <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">pelican riding a bicycle</a> benchmark in that it gives you an instant visual representation that's very easy to compare between different models.
+
+    <p><small></small>Via <a href="https://x.com/natolambert/status/1955448240972894356">@natolambert</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/evals">evals</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/13/how-does-a-blind-model-see-the-earth/#atom-everything>
+
+---
+
+## ICE Propaganda Video That Used Jay-Z Song Hit With Copyright Takedown
+
+date: 2025-08-13, from: 404 Media Group
+
+A DHS sizzle reel that used "Public Service Announcement" got hit with a copyright takedown request and has been deleted off of X. 
+
+<br> 
+
+<https://www.404media.co/ice-propaganda-video-that-used-jay-z-song-hit-with-copyright-takedown/>
+
+---
+
+## The Ugly Stepsister: la sangrienta vanidad
+
+date: 2025-08-13, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Emilie Kristine Blichfeldt. Guion: Emilie Kristine Blichfeldt basada en la novela Aschenputtel de los hermanos Grimm. Elenco: Lea Myren, Ane Dahl Torp, Thea Sofie Loch Næss, Flo Fagerli, Isac Calmroth, Malte Gårdinger, Ralph Carlsson. País: Noruega.   Más información de la película: https://www.imdb.com/title/tt29344903/ El cuento de la Cenicienta es ante todo una historia sobre [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-the-ugly-stepsister/">The Ugly Stepsister: la sangrienta vanidad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-the-ugly-stepsister/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-the-ugly-stepsister>
+
+---
+
+## The Secret to Staying Relevant
+
+date: 2025-08-13, from: Guy Kawasaki blog
+
+Adapting and thriving in a rapidly changing world. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-secret-to-staying-relevant>
+
+---
+
+## OneXPlayer Super X gaming tablet with Ryzen AI Max+ 395 is basically an Asus ROG Flow Z13 alternative
+
+date: 2025-08-13, from: Liliputing
+
+<p>The ONEXPLAYER Super X is an upcoming tablet with a 14 inch, 2880 x 1800 pixel AMOLED display, an AMD Ryzen AI Max+ 395 processor with discrete-class integrated graphics and the ability to run at up to a 120W TDP. In a lot of ways the tablet is similar the the Asus ROG Flow Z13 that [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/onexplayer-super-x-gaming-tablet-with-ryzen-ai-max-395-is-basically-an-asus-rog-flow-z13-alternative/">OneXPlayer Super X gaming tablet with Ryzen AI Max+ 395 is basically an Asus ROG Flow Z13 alternative</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/onexplayer-super-x-gaming-tablet-with-ryzen-ai-max-395-is-basically-an-asus-rog-flow-z13-alternative/>
+
+---
+
+## Adequately Explained by Stupidity
+
+date: 2025-08-13, updated: 2025-08-13, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/13/adequately-explained-by-stupidity/>
+
+---
+
+## Beelink launches GTR9 Pro Mac Studio lookalike with AMD Strix Halo
+
+date: 2025-08-13, from: Liliputing
+
+<p>The Beelink GTR 9 Pro is a 180 x 180 x 91mm (7.1&#8243; x 7.1&#8243; x 3.6&#8243;) desktop computer that bears a more than passing resemblance to a Mac Studio. But instead of Apple Silicon inside, this mini PC is powered by an AMD Ryzen AI Max+ 395 processor. First unveiled earlier this year, the GTR9 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-launches-gtr9-pro-mac-studio-lookalike-with-amd-strix-halo-in-china/">Beelink launches GTR9 Pro Mac Studio lookalike with AMD Strix Halo</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-launches-gtr9-pro-mac-studio-lookalike-with-amd-strix-halo-in-china/>
+
+---
+
+## The Public Interest Corpus Update – NYC Edition
+
+date: 2025-08-13, from: Authors Union blogs
+
+Last month, a diverse set of stakeholders gathered at New York University Law School to contribute to an implementation plan [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/08/13/the-public-interest-corpus-update-nyc-edition/>
+
+---
+
+## Wyoming and South Dakota Age Verification Laws Could Include Huge Parts of the Internet
+
+date: 2025-08-13, from: 404 Media Group
+
+By omitting the "one-third" provision that most other states with age verification laws have adopted, Wyoming and South Dakota are placing the burden of verifying users' ages on all sorts of websites, far beyond porn. 
+
+<br> 
+
+<https://www.404media.co/wyoming-and-south-dakota-age-verification-laws/>
+
+---
+
+## Podcast: Why Are DHS Agents Wearing Meta Ray-Bans?
+
+date: 2025-08-13, from: 404 Media Group
+
+CBP's use of Meta Ray-Bans; the bargain that voice actors are having to make with AI; and how Flock tech is being essentially hacked into by the DEA. 
+
+<br> 
+
+<https://www.404media.co/podcast-why-are-dhs-agents-wearing-meta-ray-bans/>
 
 ---
 
@@ -54,7 +282,6 @@ date: 2025-08-13, updated: 2025-08-13, from: Simon Willison’s Weblog
 <p>... which means you can now run the following in any Python-enabled Codespaces container and get a working <code>llm</code> command:</p>
 <pre><code>pip install llm
 llm install llm-github-models
-llm install llm-github-models
 llm models default github/gpt-4.1
 llm "Fun facts about pelicans"
 </code></pre>
@@ -66,11 +293,23 @@ llm "Fun facts about pelicans"
 <p>While putting this together I wrote up what I've learned about devcontainers so far as a TIL: <a href="https://til.simonwillison.net/github/codespaces-devcontainers">Configuring GitHub Codespaces using devcontainers</a>.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/til">til</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/github-codespaces">github-codespaces</a>, <a href="https://simonwillison.net/tags/anthony-shaw">anthony-shaw</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/til">til</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/github-codespaces">github-codespaces</a>, <a href="https://simonwillison.net/tags/anthony-shaw">anthony-shaw</a></p> 
 
 <br> 
 
 <https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything>
+
+---
+
+## 2025-08-13: The GNU D compiler has been broken on FreeBSD 14 for over a year and no one noticed, or, why operating system package maintainers matter
+
+date: 2025-08-13, from: Brian Robert Callahan blog
+
+Discovery and diagnosis of a bug hiding in plain sight 
+
+<br> 
+
+<https://briancallahan.net/blog/20250813.html>
 
 ---
 
@@ -361,20 +600,6 @@ An earlier post discussed the collapse of the French attempt to initiate a film 
 <br> 
 
 <https://text-message.blogs.archives.gov/2025/08/12/the-show-must-go-on-take-2-at-cannes-1946/>
-
----
-
-## Beelink launches GTR9 Pro Mac Studio lookalike with AMD Strix Halo (in China)
-
-date: 2025-08-12, from: Liliputing
-
-<p>The Beelink GTR 9 Pro is a 180 x 180 x 91mm (7.1&#8243; x 7.1&#8243; x 3.6&#8243;) desktop computer that bears a more than passing resemblance to a Mac Studio. But instead of Apple Silicon inside, this mini PC is powered by an AMD Ryzen AI Max+ 395 processor. First unveiled earlier this year, the GTR9 [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/beelink-launches-gtr9-pro-mac-studio-lookalike-with-amd-strix-halo-in-china/">Beelink launches GTR9 Pro Mac Studio lookalike with AMD Strix Halo (in China)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/beelink-launches-gtr9-pro-mac-studio-lookalike-with-amd-strix-halo-in-china/>
 
 ---
 
@@ -670,7 +895,7 @@ llm --tool 'Datasette("https://datasette.simonwillison.net/simonwillisonblog")' 
 </ul>
 </blockquote>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p> 
 
 <br> 
 

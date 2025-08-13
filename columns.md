@@ -1,11 +1,285 @@
 ---
 title: columns
-updated: 2025-08-13 06:09:48
+updated: 2025-08-13 14:09:21
 ---
 
 # columns
 
-(date: 2025-08-13 06:09:48)
+(date: 2025-08-13 14:09:21)
+
+---
+
+##  The Colors of the World, Seen From the International Space Station. &#8220;Recent... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047332-the-colors-of-the-world>
+
+---
+
+##  Silicon Doodles & Microchip Art 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/silicon-doodles-microchip-art>
+
+---
+
+## August 12, 2025
+
+date: 2025-08-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170920036/0b4984a6bac88ab4721ecf76cae0e9bf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170920036/0b4984a6bac88ab4721ecf76cae0e9bf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-12-2025-76f>
+
+---
+
+##  Dictators love a crisis. &#8220;For reasons of both personality and political ambition,... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047337-dictators-love-a-crisis-f>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-08-13, from: Ryan Gantz Bluesky feed)
+
+it's noon on humpday, people! are you ready??
+
+you know what fucking time it is 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.com/post/3lwck7r52os2w>
+
+---
+
+##  The Story of the Chinese Farmer 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-story-of-the-chinese-farmer-1>
+
+---
+
+##  &#8220;Today, general officers no longer seem to see themselves as guardians of... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047335-today-general-officers-no>
+
+---
+
+## Building out of the mistakes of the past
+
+date: 2025-08-13, from: Tracy Durnell Blog
+
+I&#8217;ve learned a ton about gardening in the past decade plus of owning a house. Gardens are so slow-moving that they&#8217;re anchored in our past choices, and don&#8217;t represent our current knowledge or skills &#8212; but we also can&#8217;t develop those skills without trying things, and making some mistakes. Ripping the whole yard out doesn&#8217;t [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/13/building-out-of-the-mistakes-of-the-past/>
+
+---
+
+##  The &#8216;What It&#8217;s Like To Be&#8230;&#8217; podcast features interviews with people about... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047299-the-what-its-like-to>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Quick snack break</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115022615474632812>
+
+---
+
+## Updated Design for Pebble Time 2 Watch
+
+date: 2025-08-13, updated: 2025-08-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ericmigi.com/blog/pebble-time-2-design-reveal>
+
+---
+
+##  A forthcoming book from long-time technology writer David Pogue: Apple: The First... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047308-a-forthcoming-book-from-l>
+
+---
+
+## AI Applications in Cybersecurity
+
+date: 2025-08-13, updated: 2025-08-13, from: Bruce Schneier blog
+
+<p>There is a really great series of online events highlighting cool uses of AI in cybersecurity, titled Prompt&#124;&#124;GTFO. Videos from the <a href="https://www.youtube.com/playlist?list=PLXz1MhBqAGJx3HHWtw-qIhHH7JvGpcimw">first</a> <a href="https://www.youtube.com/playlist?list=PLXz1MhBqAGJwNk8RkjfJ03G8E1N3OAKtV">three</a> <a href="https://www.youtube.com/playlist?list=PLXz1MhBqAGJzZBwp9ivB58N4XZtcBkbpP">events</a> are online. And <a href="https://forms.gle/5Q4EbV3FGUhKrUFJA">here&#8217;s</a> where to register to attend, or participate, in the fourth.</p>
+<p>Some really great stuff here.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html>
+
+---
+
+## A Cure for Corporate Addiction to Personal Data
+
+date: 2025-08-13, from: Doc Searls (at Harvard), New Old Blog
+
+I wrote the original version of this post for the March 2018 issue of Linux Journal. You can find it here. Since images from archival material in the magazine no longer load, and I want to update this anyway, here is a lightly edited copy of the original. Bear in mind that what you&#8217;ll read [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/08/13/a-cure-for-corporate-addiction-to-personal-data/>
+
+---
+
+##  A 90-minute video of making a batch of woodblock prints &#8220;from blank... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047321-a-90-minute-video-of-maki>
+
+---
+
+## Read "Deleting Tech Enforcement - Public Citizen"
+
+date: 2025-08-13, updated: 2025-08-13, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/reading/shortform?search=Deleting%20Tech%20Enforcement%20-%20Public%20Citizen>
+
+---
+
+## Style your underlines
+
+date: 2025-08-13, from: Jeremy Keith Blog
+
+
+<p>We shouldn’t rely on colour alone to indicate that something is interactive.</p>
+
+<p>Take links, for example. Sure, you can give them a different colour to the surrounding text, but you shouldn’t stop there. Make sure there’s something else that distinguishes them. You could make them bold. Or you could stick with the well-understood convention of underlying links.</p>
+
+<p>This is where some designers bristle. If there are a lot of links on a page, it could look awfully cluttered with underlines. That&#8217;s why some designers would rather remove the underline completely.</p>
+
+<p><a href="https://mastodon.social/@matuzo@front-end.social/114674911039663634">As Manu observed</a>:</p>
+
+<blockquote>
+  <p>I&#8217;ve done a lot of audits in the first half of this year and at this point a believe that designing links without underlines is a kink. The idea that users don&#8217;t understand that links are clickable arouses some designers. I can&#8217;t explain it any other way.</p>
+</blockquote>
+
+<p>But underlining links isn&#8217;t the binary decision it once was. You can use CSS to style those underlines just as you’d style any other part of your design language.</p>
+
+<p><a href="https://example.com/" style="all: revert; font-size: 1.5em; text-decoration: underline">Here’s a regular underlined link.</a></p>
+
+<p>For a start, you can adjust the distance of the underline from the text using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset"><code>text-underline-offset</code></a>. If you&#8217;re using a generous line-height, use a generous distance here too.</p>
+
+<p><a href="https://example.com/" style="all: revert; font-size: 1.5em; text-decoration: underline; text-underline-offset: 0.2em">Here’s a link with an offset underline.</a></p>
+
+<p>If you’d rather have a thinner or thicker underline, use <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-thickness"><code>text-decoration-thickness</code></a>.</p>
+
+<p><a href="https://example.com/" style="all: revert; font-size: 1.5em; text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 1px">Here’s a link with a thin underline.</a></p>
+
+<p>The colour of the underline and the colour of the link don&#8217;t need to be the same. Use <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color"><code>text-decoration-color</code></a> to make them completely different colours or make the underline a lighter shade of the link colour.</p>
+
+<p><a href="https://example.com/" style="all: revert; font-size: 1.5em; text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 1px; text-decoration-color: oklch(from currentColor l c h / 50%);">Here’s a link with a translucent underline.</a></p>
+
+<p>That’s quite a difference with just a few CSS declarations:</p>
+
+<pre><code>text-underline-offset: 0.2em;
+text-decoration-thickness: 1px;
+text-decoration-color: oklch(from currentColor l c h / 50%);
+</code></pre>
+
+<p>If that still isn’t subtle enough for you, you could even use <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style"><code>text-decoration-style</code></a> to make the underline dotted or dashed, but that might be a step too far.</p>
+
+<p><a href="https://example.com/" style="all: revert; font-size: 1.5em; text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 1px; text-decoration-color: oklch(from currentColor l c h / 50%); text-decoration-style: dotted">Here’s a link with a dotted underline.</a></p>
+
+<p>Whatever you decide, I hope you&#8217;ll see that underlines aren’t the enemy of good design. They&#8217;re an opportunity.</p>
+
+<p>You should use underlines to keep your links accessible. But you should also use CSS to make those underlines beautiful.</p>
+
+ 
+
+<br> 
+
+<https://adactio.com/journal/22084>
+
+---
+
+##  &#8220;&#8216;This Show Felt Like It Was Falling Out of Me&#8217;. Six female... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047326-this-show-felt-like-it>
+
+---
+
+##  I love that The Kid Should See This has dozens of videos... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047331-i-love-that-the-kid>
 
 ---
 
@@ -514,6 +788,18 @@ date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/08/0047322-a-man-read-3599-books>
+
+---
+
+## Read "you do not have to use generative ai "art" in your blogs because there are websites where you can get real, nice images for free"
+
+date: 2025-08-12, updated: 2025-08-12, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/reading/shortform?search=you%20do%20not%20have%20to%20use%20generative%20ai%20%22art%22%20in%20your%20blogs%20because%20there%20are%20websites%20where%20you%20can%20get%20real%2C%20nice%20images%20for%20free>
 
 ---
 

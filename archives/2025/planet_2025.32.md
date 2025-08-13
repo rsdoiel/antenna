@@ -1,11 +1,263 @@
 ---
 title: planet
-updated: 2025-08-13 06:09:45
+updated: 2025-08-13 14:09:15
 ---
 
 # planet
 
-(date: 2025-08-13 06:09:45)
+(date: 2025-08-13 14:09:15)
+
+---
+
+## Claire's to stay open after appointment of administrators
+
+date: 2025-08-13, from: RTÉ News
+
+Administrators have been appointed to Claire's, putting around 2,150 jobs in Ireland and the UK at risk. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0813/1528330-claires-accessories/>
+
+---
+
+## Pope Leo: Stop the war in Ukraine and the hunger in Gaza. May the hostages be freed.
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>The hopes of Leo XIV regarding the two ongoing wars and the goals of the Holy See's “soft diplomacy” aimed at resolving crises through dialogue rather than war are expressed to journalists upon his arrival at Villa Barberini in Castel Gandolfo. The Pope will take a break there until Tuesday, but with some public engagements and celebrations on 15 and 17 August.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-stop-violence-ukraine-hunger-in-gaza-may-hostages-be-freed.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-stop-violence-ukraine-hunger-in-gaza-may-hostages-be-freed.html>
+
+---
+
+## Podcast: Meeting Trump in Alaska 'handing Putin victory'
+
+date: 2025-08-13, from: RTÉ News
+
+A meeting with US President Donald Trump is "handing victory" to Russian President Vladimir Putin, an expert has said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0813/1528317-podcast-meeting-trump-in-alaska-handing-putin-victory/>
+
+---
+
+## Island bishops gather to discuss future of Church in the Pacific
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Bishops from around the Pacific gather in American Samoa for a week of prayer and discussion, and ask: Where is God calling the Church in the Pacific?</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/island-bishops-gather-to-discuss-paths-for-church-in-pacific.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/island-bishops-gather-to-discuss-paths-for-church-in-pacific.html>
+
+---
+
+## Two men appear in court over attempted murder of Caldwell
+
+date: 2025-08-13, from: RTÉ News
+
+Two men have appeared in court on charges linked to the attempted murder of a senior detective in Northern Ireland two-and-a-half years ago. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0813/1528186-caldwell-charge/>
+
+---
+
+## Keatings seek tougher penalties for road traffic offences
+
+date: 2025-08-13, from: RTÉ News
+
+Singer Ronan Keating has said that his family will push for stronger deterrents for fatal road traffic offences after the driver responsible for the death of his brother avoided prison. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0813/1528283-keatings-seek-tougher-penalties-for-road-traffic-offences/>
+
+---
+
+## Russia in major Ukraine advance, residents told to leave
+
+date: 2025-08-13, from: RTÉ News
+
+Russia is making rapid progress in its offensive in eastern Ukraine, seizing ground in a narrow but important section of the front line. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0813/1528301-ukraine-war/>
+
+---
+
+## Weinstein sentencing could happen next month, but only if there's no retrial on an unresolved rape charge
+
+date: 2025-08-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7608125.1755112588!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/sexual-misconduct-harvey-weinstein.jpg' alt='a man in a suit sits in front of men in police uniforms. ' width='620' height='349' title='Harvey Weinstein appears in state court in Manhattan to be sentenced on his sexual assault conviction in Wednesday, Aug. 13 2025 in New York.  '/><p>Harvey Weinstein faces sentencing and a possible retrial in his New York City sex crimes case, but when they'll happen — and whether he'll be back in front of another jury — is still up in the air.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/weinstein-retrial-1.7608109?cmp=rss>
+
+---
+
+## Ukraine war: Main developments since Trump's inauguration
+
+date: 2025-08-13, from: RTÉ News
+
+US President Donald Trump's summit on Friday with his Russian counterpart Vladimir Putin is the latest in a series of diplomatic efforts to end the war in Ukraine since his return to the White House 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0813/1528297-ukraine-trump/>
+
+---
+
+## Search for unmarked graves continues at Mohawk Institute residential school site
+
+date: 2025-08-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7338089.1727717585!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ont-residential-school-search-20211109.JPG' alt='Steps leading up to the site of former Indian Residential School, the Mohawk Institute, as phase one of a ground search begins for possible unmarked graves on the 500 acres of the lands in Brantford, Ont., Tuesday, November 9, 2021.' width='620' height='349' title='Steps leading up to the site of former Indian Residential School, the Mohawk Institute, as phase one of a ground search begins for possible unmarked graves on the 500 acres of the lands in Brantford, Ont., Tuesday, November 9, 2021.'/><p>The search for unmarked graves at the former Mohawk Institute residential school in Brantford, Ont., continues this summer despite funding cuts to the non-profit organization leading the search.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/search-for-unmarked-graves-continues-at-mohawk-institute-residential-school-site-1.7607235?cmp=rss>
+
+---
+
+##  Ukraine’s president in Berlin amid concerns over Trump-Putin summit
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Ukrainian President Volodymyr Zelenskyy arrived in Germany’s capital, Berlin, on Wednesday to join a videoconference with European leaders and U.S. President Donald J. Trump amid concerns over Trump's upcoming summit with Russian President Vladimir Putin. Zelenskyy and other leaders want to ensure that no deal will be agreed between Washington and Moscow over ending the war in Ukraine without Kyiv’s involvement.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/ukraine-s-president-in-berlin-amid-concerns-over-trump-putin.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/ukraine-s-president-in-berlin-amid-concerns-over-trump-putin.html>
+
+---
+
+## Pope Leo returns to Castel Gandolfo for Assumption holiday weekend
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV has returned to the hilltop town of Castel Gandolfo, where he will celebrate Mass and enjoy the cooler weather over the feast of the Assumption of Mary.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-returns-castel-gandolfo-assumption-holiday.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-returns-castel-gandolfo-assumption-holiday.html>
+
+---
+
+## Airport security man demoted for kissing colleague
+
+date: 2025-08-13, from: RTÉ News
+
+Airport chiefs have been urged to give a security worker his old job back as a supervisor after he was demoted for kissing a subordinate while they were at work together at a screening line two summers ago. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0813/1528288-airport-security-man-demoted-for-kissing-colleague/>
+
+---
+
+## Call for hate speech to be removed from online platforms
+
+date: 2025-08-13, from: RTÉ News
+
+A group representing 22 civil society organisations has called on technology companies to monitor, remove and prevent the spread of hate speech and incitement on their platforms. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0813/1528285-hate-speech/>
+
+---
+
+## Lammy faces fine after Vance fishing trip licence error
+
+date: 2025-08-13, from: RTÉ News
+
+Britain's Foreign Secretary David Lammy could be on the hook for a £2,500 (€2,896) fine following his fishing trip last week with US Vice President JD Vance, after admitting he did not have the required licence. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0813/1528280-lammy-vance-fishing/>
+
+---
+
+## Stallone, Gloria Gaynor, KISS lead honorees of Trump-chaired Kennedy Center
+
+date: 2025-08-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7607967.1755104460!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A cleanshaven older man in suit and tie speaks at a podium with American flags behind him.' width='620' height='349' title='President Donald Trump speaks at the Kennedy Center, Wednesday in Washington, D.C., announced honorees he said that he was heavily involved with selecting.'/><p>President Donald Trump announced on Wednesday this year's recipients for Kennedy Center honours, after overhauling the board of the Washington, D.C., performing arts venue at the start of his term.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/trump-kennedy-centre-recipients-1.7607674?cmp=rss>
+
+---
+
+## Ruffini: Safeguarding our humanity by serving others
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Speaking at the triennial congress of the Union of the African Catholic Press (“Union catholique africaine de la presse”, UCAP), the Prefect of the Dicastery for Communication invites journalists to read and share stories “with the intelligence of the heart, with the wisdom of love, without confusing means and ends, truth and falsehood, intuition and calculation.”</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/ruffini-safeguarding-our-humanity-by-serving-others.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/ruffini-safeguarding-our-humanity-by-serving-others.html>
+
+---
+
+## At least 20 killed in shipwreck off Lampedusa
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>According to current reports, 27 people are missing, while the Coast Guard and the Guardia di Finanza have rescued between 70 and 80 people from the small vessel.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/at-least-20-killed-in-shipwreck-off-lampedusa.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/at-least-20-killed-in-shipwreck-off-lampedusa.html>
+
+---
+
+## Hundreds of Pimicikamak Cree Nation wildfire evacuees begin returning home
+
+date: 2025-08-13, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7607857.1755098970!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pimicikamak-cree-nation-chief-david-monias.jpg' alt='A man with short, greying hair and a goatee is seen from the chin up to the top of his head.' width='620' height='349' title='Pimicikamak Cree Nation Chief David Monias '/><p>Rain has helped improve the situation in Pimicikamak but there is still thick smoke at times. And the community is under a boil water advisory because the treatment plant is not working. But some 600 people are going back, says Chief David Monias.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/pimicikamak-wildfire-manitoba-1.7607773?cmp=rss>
 
 ---
 
@@ -21,6 +273,22 @@ Former President Mary Robinson has condemned what she called "ridiculous", "nons
 
 ---
 
+## Bishop near front lines in Ukraine: ‘Half the exarchate is off-limits'
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>One of the youngest bishops in the world serves the community of east-central Ukraine, where the violence continues and has left the cathedral closed and the bishop constantly moving to be with his flock.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/greek-catholic-bishop-on-wheels-half-the-exarchate-is-off-limits.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/greek-catholic-bishop-on-wheels-half-the-exarchate-is-off-limits.html>
+
+---
+
 ## Heatwave possible but unlikely, says Met Éireann
 
 date: 2025-08-13, from: RTÉ News
@@ -30,6 +298,90 @@ A heatwave is possible in Ireland this week, although cooler temperatures may pr
 <br> 
 
 <https://www.rte.ie/news/ireland/2025/0813/1528245-ireland-weather/>
+
+---
+
+## How nuclear technology can help fight seafood fraud
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+Across the globe, consumers and small-scale fishers alike are facing a growing challenge: seafood fraud. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165641>
+
+---
+
+## UN says Sri Lanka has ‘historic opportunity’ to end impunity, deliver justice
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+Sri Lanka’s Government has a “historic opportunity” to end decades of impunity and deliver justice for victims of past violations, the UN human rights office (OHCHR) has said, urging sweeping reforms to address crimes committed during and after the country’s civil war. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165647>
+
+---
+
+## Security Council rejects creation of rival government in Sudan
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+The UN Security Council has rejected the Rapid Support Forces’ (RSF) declaration last month of a rival administration in parts of Sudan it controls, warning the move threatens the country’s unity and risks worsening the brutal conflict between the militia and forces of the military government.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165645>
+
+---
+
+## Malnutrition deaths mark ‘latest in the war on children’ in Gaza: UNRWA chief
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+At least 100 children in Gaza have died from malnutrition and hunger, prompting humanitarians to underscore the need to speed up medical evacuations from the enclave while also allowing more food to enter.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165643>
+
+---
+
+## ‘Only hunger and bombs’ for besieged civilians in Sudan’s El Fasher
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+UN human rights chief Volker Türk has expressed outrage over Monday’s deadly large-scale attack by the Rapid Support Forces militia on El Fasher, the capital of Sudan’s North Darfur state, which has been besieged by the RSF since April last year. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165642>
+
+---
+
+## Syria: UNICEF calls for safe access to children in Sweida as needs mount
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+Humanitarians must be able to reach families affected by the “deeply alarming” recent violence in Syria’s Sweida region who need food and other basics to survive, the UN Children’s Fund (UNICEF) said on Wednesday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165639>
+
+---
+
+## Safety on and off the pitch: Closing down child trafficking in sport
+
+date: 2025-08-13, from: United Nations, Top Stories
+
+Saido, a Somali refugee, started playing basketball when she entered the Kakuma refugee camp in Kenya. Basketball was, for her, a way to access community and confidence.&nbsp;&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165640>
 
 ---
 
@@ -45,13 +397,24 @@ A charity's report has warned that "fast-growing" cherry laurel needs to be "urg
 
 ---
 
+## Call for cherry laurel to be on invasive species list
+
+date: 2025-08-13, from: RTÉ News
+
+A charity's report has warned that "fast-growing" cherry laurel needs to be "urgently" added to Ireland's list of invasive species. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0813/1528237-cherry-laurel-invasive/>
+
+---
+
 ## World Children’s Day Committee moves to Dicastery for Laity, Family,  Life
 
 date: 2025-08-13, from: Vatican News
 
 
-                    <p>Pope Leo XIV issues a rescript on Wednesday effectively placing within the Dicastery for Laity, Family and Life the Pontifical Committee that Pope Francis had established organizing events dedicated to children.
-</p>
+                    <p>Pope Leo XIV issues a rescript effectively placing the Pontifical Committee for the World Day of Children within the Dicastery for Laity, Family and Life.</p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/dicastery-laity-family-life-pontifical-committee-world-children.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -74,11 +437,23 @@ Elon Musk has accused Apple of unfairly favouring ChatGPT on its App Store and t
 
 ---
 
+## White House hopes monthly U.S. jobs report to continue despite claim by labour statistics nominee
+
+date: 2025-08-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7607656.1755092293!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2227803856.jpg' alt='A sign and a building are shown, with trees in the background.' width='620' height='349' title='The U.S. Capitol is seen in the background as signage for the federal government&apos;s labour department. President Donald Trump&apos;s nominee to lead a key statistical bureau in the department has been met with criticism.  '/><p>Donald Trump's selection as next commissioner of the U.S. Bureau of Labor Statistics threatens to bring a new level of politicization to what for decades has been a nonpartisan agency issuing reports on the nation's economic health, according to Democrats and some economists.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/labour-nominee-antoni-jobs-report-1.7607610?cmp=rss>
+
+---
+
 ## Man remanded over murder, attempted murder in Downpatrick
 
 date: 2025-08-13, from: RTÉ News
 
-A 30-year-old man was remanded in custody charged with the murder of Stephen Brannigan and the attempted murder of a priest in Downpatrick on Sunday. 
+A 30-year-old man has been remanded in custody charged with the murder of Stephen Brannigan and the attempted murder of a priest in Downpatrick on Sunday. 
 
 <br> 
 
@@ -86,11 +461,23 @@ A 30-year-old man was remanded in custody charged with the murder of Stephen Bra
 
 ---
 
-## Evacuations as wildfires rage in Greece, Spain
+## IN PHOTOS | Taking in the annual Perseid meteor shower
+
+date: 2025-08-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7607624.1755090670!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/turkey-perseid-meteor-shower.jpg' alt='Meteors streak across the night sky, with a temple in the foreground.' width='620' height='349' title='Meteors streak across the sky, seen above the Temple of Zeus in the ancient city of Aizanoi, during the Perseid meteor shower, near Cavdarhisar, western Turkey, Tuesday, Aug. 12, 2025. '/><p>The Perseid meteor shower reached its peak on the night of Aug. 12-13, offering spectators the chance to see the remarkable annual phenomenon around the world.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/photos/in-photos-taking-in-the-annual-perseid-meteor-shower-1.7607618?cmp=rss>
+
+---
+
+## Wildfires fanned by heatwave rage across Europe
 
 date: 2025-08-13, from: RTÉ News
 
-Thousands of people have been evacuated as wildfires continue to rage across parts of Greece and Spain, as high temperatures and strong winds create difficult conditions for firefighters. 
+Wildfires caused by arsonists or thunderstorms and fanned by a heatwave and strong winds have wreaked destruction across southern Europe, burning homes and forcing thousands of residents and tourists to flee. 
 
 <br> 
 
@@ -98,7 +485,7 @@ Thousands of people have been evacuated as wildfires continue to rage across par
 
 ---
 
-## Israel steps up Gaza attacks, 123 reported in 24 hours
+## Israel steps up Gaza attacks, with 123 killed in 24 hours
 
 date: 2025-08-13, from: RTÉ News
 
@@ -150,12 +537,24 @@ The National Parks and Wildlife Service has confirmed a recent sighting and capt
 
 ---
 
+## 'Biosecurity alert' after Asian hornet captured in Cork
+
+date: 2025-08-13, from: RTÉ News
+
+The National Parks and Wildlife Service has confirmed a recent sighting and capture of an Asian hornet in the Cork area marking a "biosecurity alert for Ireland". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0813/1528213-hornet-cork/>
+
+---
+
 ## Pope at Audience: Sincere sorrow can open door to conversion and joy
 
 date: 2025-08-13, from: Vatican News
 
 
-                    <p>During his weekly General Audience, Pope Leo XIV urges the faithful to recall that we are God's beloved children embraced by His forgiving love, explaining that sincerely seeking conversion helps us journey toward salvation despite our fragility.</p>
+                    <p>During his weekly General Audience, Pope Leo XIV urges the faithful to recall that we are God's beloved children embraced by His forgiving love, explaining that sincerely seeking conversion helps us journey toward salvation despite our fragility. In his remarks to Polish pilgrims, the Holy Father says, "Implore God for peace for all nations experiencing the tragedy of war."</p>
                     <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-at-general-audience-13-august-2025.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -187,7 +586,7 @@ date: 2025-08-13, from: Vatican News
 date: 2025-08-13, from: Vatican News
 
 
-                    <p>Cardinal George Koovakad, Prefect of the Vatican's Dicastery for Interreligious Dialogue, addresses a congress on peacebuikding, highlighting the Holy See's efforts, throughout the years, to promote a culture of peace and encounter. </p>
+                    <p>Cardinal George Koovakad, Prefect of the Vatican's Dicastery for Interreligious Dialogue, addresses a conference in Chile on peacebuilding, highlighting the Holy See's efforts throughout the years to promote a culture of peace and encounter.</p>
                     <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/holy-see-outlines-peacebuilding-role-at-chilean-congress.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -198,11 +597,11 @@ date: 2025-08-13, from: Vatican News
 
 ---
 
-## Donohoe defends Tánaiste amid call for him to resign
+## Tánaiste to meet mother of Harvey Morrison Sherratt
 
 date: 2025-08-13, from: RTÉ News
 
-The Minister for Finance has defended Tánaiste Simon Harris amid a call for him to resign over the handling of the case of Harvey Morrison Sherratt. 
+Tánaiste Simon Harris is to meet the mother of Harvey Morrison Sherratt, a nine-year-old boy who died last month and was subject to delays in accessing urgent scoliosis surgery. 
 
 <br> 
 
@@ -294,6 +693,18 @@ The Irish Tourism Industry Confederation is calling for the lifting of the Dubli
 
 ---
 
+## Warning that tourism in Ireland at 'tipping point'
+
+date: 2025-08-13, from: RTÉ News
+
+The Irish Tourism Industry Confederation is calling for the lifting of the Dublin Airport passenger cap, increased Government spending, as well as the restoration of the 9% hospitality VAT rate in order to boost tourism in the country, which it said is at a "tipping point". 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0813/1528150-itic-tourism/>
+
+---
+
 ## Putin, Kim vow stronger ties ahead of US-Russia summit
 
 date: 2025-08-13, from: RTÉ News
@@ -315,6 +726,18 @@ US President Donald Trump has praised European leaders as "great people" ahead o
 <br> 
 
 <https://www.rte.ie/news/ukraine/2025/0813/1528169-ukraine-russia/>
+
+---
+
+## Trump eyes meeting with Putin, Zelensky if talks positive
+
+date: 2025-08-13, from: RTÉ News
+
+US President Donald Trump has said that if his meeting with Russian President Vladimir Putin goes well, he would like to have a quick second meeting with Mr Putin, Ukrainian President Volodymyr Zelensky, and himself. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0813/1528169-ukraine-russia-talks/>
 
 ---
 
@@ -363,6 +786,18 @@ Prosecutors in Lebanon have formally lodged an appeal against the sentences hand
 <br> 
 
 <https://www.rte.ie/news/2025/0812/1528144-sean-rooney/>
+
+---
+
+## Appeal lodged against sentences over Seán Rooney murder
+
+date: 2025-08-12, from: RTÉ News
+
+Prosecutors in Lebanon have formally lodged an appeal against the sentences handed down over the murder of Irish peacekeeper Private Seán Rooney. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0812/1528144-sean-rooney/>
 
 ---
 
@@ -606,6 +1041,18 @@ A Lidl supermarket in Co Dublin was among ten premises issued with closure order
 
 ---
 
+## Dublin Lidl store among July closures over food safety
+
+date: 2025-08-12, from: RTÉ News
+
+A Lidl supermarket in Co Dublin was among ten premises issued with closure orders by the Food Safety Authority last month, where inspectors observed rodent droppings in multiple locations. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0812/1528076-lidl-closure/>
+
+---
+
 ## Community 'shaken' after Downpatrick incidents, Mass told
 
 date: 2025-08-12, from: RTÉ News
@@ -656,7 +1103,7 @@ The United Nations continues to draw attention to the dire humanitarian situatio
 
 ## The world has the tools to end Haiti’s crisis – it’s time to use them
 
-date: 2025-08-12, from: United Nations, Top Stories
+date: 2025-08-12, from: United Nations, UN Affairs
 
 During her final briefing as resident and humanitarian coordinator for Haiti, Ulrika Richardson struggled to describe the realities of life in Haiti.&nbsp; 
 

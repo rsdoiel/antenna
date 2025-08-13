@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-08-13 06:09:51
+updated: 2025-08-13 14:09:25
 ---
 
 # motorcycles
 
-(date: 2025-08-13 06:09:51)
+(date: 2025-08-13 14:09:25)
+
+---
+
+## DraftKings Named Exclusive Sports Betting Sponsor of Ty Dillon’s No. 10 Chevrolet for Upcoming Kaulig Racing Events
+
+date: 2025-08-13, from: Kickin the Tires blog
+
+Lexington, NC (August 12, 2025) – DraftKings has been designated as the exclusive sports betting operator of Kaulig Racing and Ty Dillon. As part of the agreement, the DraftKings logo&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/draftkings-named-exclusive-sports-betting-sponsor-of-ty-dillons-no-10-chevrolet-for-upcoming-kaulig-racing-events/>
+
+---
+
+## Legends Return, New Stars Rise: The Race For Glory at Cornwell Quality Tools NHRA U.S. Nationals
+
+date: 2025-08-13, from: Kickin the Tires blog
+
+INDIANAPOLIS (August 11, 2025) – The Cornwell Quality Tools NHRA U.S. Nationals is undoubtedly the most prestigious race on the NHRA Mission Foods Drag Racing Series tour. Legends are made&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/legends-return-new-stars-rise-the-race-for-glory-at-cornwell-quality-tools-nhra-u-s-nationals/>
+
+---
+
+## Two Chinese E-Bikes Recalled Due to Fire and Burn Hazards, Already Causing Property Fires
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+Two different e-bike manufacturers have issued recalls for their products, which have already caused fires and property damage. 
+
+<br> 
+
+<https://www.rideapart.com/news/768685/chinese-e-bikes-recalled-fire-and-burn-hazard/>
 
 ---
 
@@ -34,7 +70,7 @@ The S and SE trims get two fresh coats of paint for 2026, but under the plastics
 
 ---
 
-## PWC Rider Plows Through a Pod of Dolphins in Australia, Could Face $100,000 Fine or Prison
+## PWC Rider Plows Through a Pod of Dolphins in Australia, Could Face $100M Fine or Prison
 
 date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
 
@@ -58,7 +94,7 @@ This 1919 Harley-Davidson Model J is a good restoration candidate, but it needs 
 
 ---
 
-## Bajaj Plans To Intensify Its EV Game—Here’s What This Means For You And Me
+## Here's What Bajaj's Big EV Push Could Mean For You and Me
 
 date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2025-08-13 06:09:49
+updated: 2025-08-13 14:09:22
 ---
 
 # writing
 
-(date: 2025-08-13 06:09:49)
+(date: 2025-08-13 14:09:22)
+
+---
+
+## ‘Freakier Friday’ and the Art of the Body Swap Movie
+
+date: 2025-08-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/freakier-friday-and-the-art-of-the-body-swap-movie" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jamie%20Lee%20Curtis%20and%20Lindsay%20Lohan%20in%20Freakier%20Friday%20%282%29.png" alt="Jamie Lee Curtis and Lindsay Lohan screaming with both hands on their cheeks in Freakier Friday" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Freakier Friday</em> is the tale of four women who end up switching bodies, and must learn what it’s like to walk in someone else’s shoes. This isn’t an original story. In fact, it’s the sequel to <em>Freaky Friday</em> (2003), which is a remake of the original <em>Freaky Friday</em> from 1976, not including the TV movie made in 1995, or the other TV movie/musical from 2018.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/freakier-friday-and-the-art-of-the-body-swap-movie>
+
+---
+
+## The Public Interest Corpus Update – NYC Edition
+
+date: 2025-08-13, from: Author's Union blog
+
+Last month, a diverse set of stakeholders gathered at New York University Law School to contribute to an implementation plan [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/08/13/the-public-interest-corpus-update-nyc-edition/>
 
 ---
 

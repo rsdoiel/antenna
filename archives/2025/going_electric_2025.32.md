@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2025-08-13 06:09:52
+updated: 2025-08-13 14:09:26
 ---
 
 # going electric
 
-(date: 2025-08-13 06:09:52)
+(date: 2025-08-13 14:09:26)
+
+---
+
+## Kia’s first electric van ‘unboxed’ and ready to take on the world
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Kias-first-electric-van-unboxed-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/kia-pv5/">PV5</a>, Kia’s first electric van, was “unboxed” after arriving in parts of Europe this week. After opening pre-orders in new markets, the PV5 is ready to take on the world.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="429706" href="https://electrek.co/2025/08/13/kias-first-electric-van-unboxed-ready-to-take-on-the-world/#more-429706" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/kias-first-electric-van-unboxed-ready-to-take-on-the-world/>
+
+---
+
+## No, Tesla Didn’t Brick A Cybertruck To Leave Its Driver Stranded On The Highway
+
+date: 2025-08-13, from: Inside EVs News
+
+The Tesla Cybertruck may not be perfect, but literal fake news doesn't do anyone any good. 
+
+<br> 
+
+<https://insideevs.com/news/768739/tesla-cybertruck-fake-bricked-claim/>
+
+---
+
+## Nissan cuts Ariya EV prices by over $8,000 with a new entry-level model
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Nissan-cuts-Ariya-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/nissan-ariya/">Nissan Ariya</a> just got a lot cheaper. Nissan lowered Ariya prices by over $8,000, thanks to a new base model and federal grants.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-ariya" data-layer-viewtype="unknown" data-post-id="429672" href="https://electrek.co/2025/08/13/nissan-cuts-ariya-ev-prices-by-8000-new-base-model/#more-429672" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/nissan-cuts-ariya-ev-prices-by-8000-new-base-model/>
+
+---
+
+## Aventon Abound SR smart cargo e-bike gets first discount to $1,799, Jackery Explorer 300 at $169, Rachio sprinkler controller, more
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Aventon-Abound-SR-Cargo-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining our hump day Green Deals is <a href="https://9to5toys.com/2025/08/13/aventon-abound-sr-e-bike-first-discount-1799-more/">Aventon’s final summer sale</a> that is taking up to $500 in increased savings off e-bikes, including new models, with the <a href="https://9to5toys.com/2025/08/13/aventon-abound-sr-e-bike-first-discount-1799-more/">Abound SR Smart Cargo e-bike</a> getting its first-ever discount to <a href="https://9to5toys.com/2025/08/13/aventon-abound-sr-e-bike-first-discount-1799-more/">$1,799</a>. We also spotted <a href="https://9to5toys.com/2025/08/13/jackery-explorer-300-power-station-169/">Jackery’s Explorer 300 Portable Power Station falling to $169</a>, as well as <a href="https://9to5toys.com/2025/08/12/rachio-8-zone-sprinkler-controller-169/">Rachio’s 3rd gen 8-zone Smart Sprinkler Controller</a> also dropping back to <a href="https://9to5toys.com/2025/08/12/rachio-8-zone-sprinkler-controller-169/">$169</a>. From there, we have additional savings a budget-friendly e-scooter, a new low on a pro-grade cultivator, dual one-day-only pressure washer/attachment deals, and more waiting for you below. Plus, all the hangover savings are at the bottom of the page, like yesterday’s exclusive new low price on <a href="https://9to5toys.com/2025/08/12/exclusive-anker-solix-f2600-with-battery-new-1799-low/">Anker’s SOLIX F2600 power station bundle</a>, or the brand’s <a href="https://9to5toys.com/2025/08/12/anker-powercore-reserve-60000mah-station-80/">PowerCore Reserve 60,000mAh station</a> dropping to $80, and much more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="429661" href="https://electrek.co/2025/08/13/aventon-abound-sr-e-bike-jackery-rachio-more/#more-429661" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/aventon-abound-sr-e-bike-jackery-rachio-more/>
+
+---
+
+## Here’s your first look at the Hyundai IONIQ 2 [Video]
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/hyundai-ioniq-2-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We are finally getting our first look at the IONIQ 2, the smaller sibling to the <a href="https://electrek.co/guides/hyundai/">Hyundai</a> IONIQ 5. Hyundai is expected to reveal the new EV next month, but after it was spotted driving near its tech center, we are already getting a sneak peek. Check it out for yourself in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="429528" href="https://electrek.co/2025/08/13/first-look-hyundai-ioniq-2-video/#more-429528" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/first-look-hyundai-ioniq-2-video/>
+
+---
+
+## Hyundai’s New Budget-Friendly Ioniq EV Spotted In Europe
+
+date: 2025-08-13, from: Inside EVs News
+
+One camouflaged Hyundai Ioniq 2 prototype was spotted near Hyundai’s testing facility in Germany. 
+
+<br> 
+
+<https://insideevs.com/news/768911/hyundai-ioniq2-prototype-spied-europe/>
+
+---
+
+## The first EV powered by a semi-solid-state battery has been cleared for sale
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/First-EV-semi-solid-state-battery.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The “Holy Grail” of EV batteries may be closer than we think. The first mass-produced EV to feature a <a href="https://electrek.co/guides/solid-state-batteries/">semi-solid-state battery</a>, the new MG4, was just cleared for sale in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mg-motor,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="429645" href="https://electrek.co/2025/08/13/first-ev-with-semi-solid-state-battery-cleared-for-sale/#more-429645" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/first-ev-with-semi-solid-state-battery-cleared-for-sale/>
+
+---
+
+## VinFast Pivots Away From America And Europe
+
+date: 2025-08-13, from: Inside EVs News
+
+VinFast's losses have it pivoting toward countries like the Philippines and Indonesia. Also, used EV sales are way, way up for July. 
+
+<br> 
+
+<https://insideevs.com/news/768917/critical-mateirals-aug-13-2025/>
+
+---
+
+## The Polestar 3 just shattered range estimates with a record-breaking 580+ mile drive
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Polestar-3-record.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Polestar’s electric SUV set a new Guinness World Record after travelling over 580 miles (935 km) on a single charge. The trip took nearly 23 hours, but the <a href="https://electrek.co/guides/polestar-3/">Polestar 3</a> now claims the world record for the longest journey travelled by an electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-3" data-layer-viewtype="unknown" data-post-id="429637" href="https://electrek.co/2025/08/13/polestar-3-shatters-range-estimates-with-record-580-mile-drive/#more-429637" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/polestar-3-shatters-range-estimates-with-record-580-mile-drive/>
+
+---
+
+## EV Public Charging Is Finally Working Like It Should
+
+date: 2025-08-13, from: Inside EVs News
+
+Fewer EV drivers have to deal with broken chargers, but owners aren’t thrilled with the costs, especially at Tesla Superchargers. 
+
+<br> 
+
+<https://insideevs.com/news/768900/ev-public-charging-reliability-2025/>
 
 ---
 

@@ -1,11 +1,173 @@
 ---
 title: socal north
-updated: 2025-08-13 06:09:46
+updated: 2025-08-13 14:09:17
 ---
 
 # socal north
 
-(date: 2025-08-13 06:09:46)
+(date: 2025-08-13 14:09:17)
+
+---
+
+## Youth suicide declines since pandemic, but disparities persist in California
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Some call for 'culturally responsible' suicide prevention in California schools 
+
+<br> 
+
+<https://laist.com/news/youth-suicide-declines-since-pandemic-disparities-persist-in-california>
+
+---
+
+## LA City Councilmember wants North Hollywood's Valley Plaza shopping center declared a nuisance
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Valley Plaza, the once-iconic shopping center, has fallen into disrepair. 
+
+<br> 
+
+<https://laist.com/news/north-hollywood-valley-plaza-shopping-center-public-nuisance-fire-crime>
+
+---
+
+## California grocery prices could rise if this self-checkout bill passes, grocers argue
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Labor unions are trying once again to regulate self-checkout lanes at California stores. This year’s bill waters down a version that died last session, but businesses still warn it will increase costs and lead to consumer frustration. 
+
+<br> 
+
+<https://laist.com/news/california-grocery-prices-could-rise-if-this-self-checkout-bill-passes-grocers-argue>
+
+---
+
+## What LA immigration raids left behind: Empty spaces and a city on edge
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+The Trump administration is encouraging immigrants to leave, and its raids in Los Angeles are making life miserable for many who stay. 
+
+<br> 
+
+<https://laist.com/news/what-la-immigration-raids-left-behind-empty-spaces-and-a-city-on-edge>
+
+---
+
+## Auditor: California could save $225 million a year by letting state employees work remote
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+A new state audit finds having employees work from home could save the state hundreds of millions of dollars in real estate and facilities costs. 
+
+<br> 
+
+<https://laist.com/news/politics/auditor-california-could-save-225-million-a-year-by-letting-state-employees-work-remote>
+
+---
+
+## State Department slashes its annual reports on human rights
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Required by Congress, the reports no longer single out things like rigged elections or sexual violence against children as human rights violations. 
+
+<br> 
+
+<https://laist.com/news/state-department-slashes-annual-reports-on-human-rights>
+
+---
+
+## White House calls for a 'comprehensive review' of eight Smithsonian museums
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+The effort is focused on bringing the organization in line with President Donald Trump's cultural directives ahead of the country's 250th anniversary celebrations. 
+
+<br> 
+
+<https://laist.com/news/white-house-calls-for-comprehensive-review-of-eight-smithsonian-museums>
+
+---
+
+## Youth suicide declines since pandemic, but disparities persist in California
+
+date: 2025-08-13, from: Longbeach Post
+
+<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-430x300.jpg 430w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-768x536.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-970x676.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The number of young people age 15 to 24 who died by suicide has declined from historic peaks during the Covid-19 pandemic.</p>
+<p>The post <a href="https://lbpost.com/news/education/youth-suicide-declines-since-pandemic-but-disparities-persist-in-california">Youth suicide declines since pandemic, but disparities persist in California</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/youth-suicide-declines-since-pandemic-but-disparities-persist-in-california>
+
+---
+
+## Federal cuts to a training program mean fewer STEM teachers in high-needs schools this year
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+California schools are heading into a new academic year without about $148 million in federal grants for teacher preparation programs, funds seen as integral to addressing widespread teacher shortages. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-stem-teacher-quality-partnership-preparation>
+
+---
+
+## Skip the pesticides by incorporating these beneficial bug predators into your garden
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Why your garden could maybe use more wasps. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/skip-the-pesticides-by-incorporating-these-beneficial-bug-predators-into-your-garden>
+
+---
+
+## LAPD officer arrested on suspicion of domestic violence after car crash in Long Beach, police say
+
+date: 2025-08-13, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Long Beach police said she also assaulted an LBPD officer and tried to leave the scene while she was being detained.</p>
+<p>The post <a href="https://lbpost.com/news/crime/lapd-officer-arrested-domestic-violence-crash-long-beach">LAPD officer arrested on suspicion of domestic violence after car crash in Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/lapd-officer-arrested-domestic-violence-crash-long-beach>
+
+---
+
+## Temps to drop a few degrees, still hot inland
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Some cooling is coming to the region, but inland areas will still see highs around 100 degrees. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/temps-to-drop-a-few-degrees-still-hot-inland>
+
+---
+
+## Culver City meets Venice at Ciclavia this weekend. Here's 7 spots to eat, drink and refresh
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+From square pan pizzas to Oaxacan tlayudas and ceviche on the beach, we've rounded up a few of our favorite spots. 
+
+<br> 
+
+<https://laist.com/news/food/biking-down-venice-boulevard-to-the-beach-for-ciclavia-this-weekend-7-places-to-eat-and-drink-along-the-route>
 
 ---
 
@@ -30,18 +192,6 @@ School buses drive to and from about 90% of Los Angeles Unified schools, but les
 <br> 
 
 <https://laist.com/news/education/lausd-los-angeles-school-bus-transportation-signup>
-
----
-
-## Culver City meets Venice at Ciclavia this weekend. Here's 7 spots to eat, drink and refresh
-
-date: 2025-08-13, updated: 2025-08-13, from: The LAist
-
-From square pan pizzas to Oaxacan tlayudas and ceviche on the beach, we've rounded up a few of our favorite spots. 
-
-<br> 
-
-<https://laist.com/news/food/biking-down-venice-boulevard-to-the-beach-for-ciclavia-this-weekend-7-places-to-eat-and-drink-along-the-route>
 
 ---
 
@@ -181,7 +331,7 @@ President Trump says that the announcement of this year's Kennedy Center honoree
 
 date: 2025-08-12, from: Longbeach Post
 
-<figure><img width="900" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d.jpg 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-768x514.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-161x108.jpg 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-400x268.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="900" height="602" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d.jpg 900w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-300x201.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-768x514.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-161x108.jpg 161w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12124434/key-to-the-city-557097-aps2fqlw-050230-N8BEdx8d-400x268.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“Each of these distinguished honorees has made a profound impact on Long Beach—through education, public service, or by representing our city on the world stage,” said Mayor Rex Richardson. </p>
 <p>The post <a href="https://lbpost.com/news/sheriff-robert-luna-the-band-war-jane-close-conoley-and-a-trailblazing-marine-will-receive-keys-to-the-city">Sheriff Robert Luna, the band WAR, Jane Close Conoley and a trailblazing Marine will receive keys to the city</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -256,7 +406,7 @@ Inflation remained elevated last month as President Trump's tariffs continued to
 
 date: 2025-08-12, from: Longbeach Post
 
-<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="589" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1024x589.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1024x589.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-300x173.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-768x442.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-188x108.png 188w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1536x883.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1200x690.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-1568x902.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2-400x230.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/12085032/scales-missing-333487-3f3hn6re-884492-UoqBgdK2.png 1800w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said he walked away after being dropped off at his home.</p>
 <p>The post <a href="https://lbpost.com/news/long-beach-police-ask-for-help-finding-missing-16-year-old">Long Beach police ask for help finding missing 16-year-old</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

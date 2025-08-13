@@ -1,11 +1,139 @@
 ---
 title: north america
-updated: 2025-08-13 06:09:46
+updated: 2025-08-13 14:09:16
 ---
 
 # north america
 
-(date: 2025-08-13 06:09:46)
+(date: 2025-08-13 14:09:16)
+
+---
+
+## Setting fire to women's health
+
+date: 2025-08-13, from: The Contrarian
+
+The Trump administration would rather burn contraceptives than help women and girls in developing nations. 
+
+<br> 
+
+<https://contrarian.substack.com/p/setting-fire-to-womens-health>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-13, from: The Contrarian
+
+Wednesday: D.C. protests a federal takeover of law enforcement, protests continue in L.A., and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Federal Officers Continue Arresting Anti-ICE Protesters During 24/7 Demonstrations
+
+date: 2025-08-13, from: Capital and Main
+
+<p>As Los Angeles protesters continue to organize against ICE operations, they said they are met with aggression from both DHS and L.A. police.</p>
+<p>The post <a href="https://capitalandmain.com/federal-officers-continue-arresting-anti-ice-protesters-during-24-7-demonstrations">Federal Officers Continue Arresting Anti-ICE Protesters During 24/7 Demonstrations</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/federal-officers-continue-arresting-anti-ice-protesters-during-24-7-demonstrations>
+
+---
+
+## Texas House Democrats are on the run: State Rep. Venton Jones on breaking quorum
+
+date: 2025-08-13, from: The Contrarian
+
+"Texas is called the Lone Star State, but you may not be alone in this." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170827819/6eb7a21cbdc1ef054ab4164b9ece0d0f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170827819/6eb7a21cbdc1ef054ab4164b9ece0d0f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/texas-house-democrats-are-on-the>
+
+---
+
+## Don't be fooled: Trump's D.C. takeover is about race
+
+date: 2025-08-13, from: The Contrarian
+
+Black people have been Trump&#8217;s target for his entire adult life. 
+
+<br> 
+
+<https://contrarian.substack.com/p/dont-be-fooled-trumps-dc-takeover>
+
+---
+
+##  America’s Biggest Landlord To Stop Using Rent-Setting AI 
+
+date: 2025-08-13, from: The Lever News
+
+ Corporate apartment giant Greystar has agreed to end its use of RealPage’s algorithmic rent-setting software after allegations of price-fixing.  
+
+<br> 
+
+<https://www.levernews.com/americas-biggest-landlord-to-stop-using-rent-setting-ai/>
+
+---
+
+## Andrew Weissmann on the FBI & National Guard deployment in D.C. 
+
+date: 2025-08-13, from: The Contrarian
+
+"We're the FBI, but are you going to go along with that when you can't, in good faith, say there's an emergency?" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170823550/1656358d9e7c000ae28c604524770438.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170823550/1656358d9e7c000ae28c604524770438.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/andrew-weissmann-on-the-fbi-and-national>
+
+---
+
+## ‘They Feel They Can Trust No One; Not Even to Open the Door’
+
+date: 2025-08-13, from: Capital and Main
+
+<p>Immigration raid fears have some undocumented patients avoiding medical care. One L.A. clinic is responding by sending mobile health teams directly to their homes.</p>
+<p>The post <a href="https://capitalandmain.com/they-feel-they-can-trust-no-one-not-even-to-open-the-door">‘They Feel They Can Trust No One; Not Even to Open the Door’</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/they-feel-they-can-trust-no-one-not-even-to-open-the-door>
+
+---
+
+## Trump's offensive, disrespectful, dangerous dictatorial move
+
+date: 2025-08-13, from: The Contrarian
+
+There was a time when D.C. needed the National Guard. This isn't it. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-offensive-disrespectful-dangerous>
+
+---
+
+## Coffee with the Contrarians 08/13
+
+date: 2025-08-13, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 08/13 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0813>
 
 ---
 
@@ -108,18 +236,6 @@ A cartoon by Nick Anderson
 <br> 
 
 <https://contrarian.substack.com/p/dont-tread-on-me>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-12, from: The Contrarian
-
-Tuesday: Town halls go off the rails, D.C. turns out, ICE protests in Ohio and Arizona, Alaska prepares for Trump, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

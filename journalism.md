@@ -1,11 +1,69 @@
 ---
 title: journalism
-updated: 2025-08-13 06:09:49
+updated: 2025-08-13 14:09:23
 ---
 
 # journalism
 
-(date: 2025-08-13 06:09:49)
+(date: 2025-08-13 14:09:23)
+
+---
+
+## Kappa Sigma fraternity suspended following Student Group Conduct Code violations
+
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA has suspended the campus’s chapter of Kappa Sigma until May 2030 for violating policies relating to hazing, alcohol and safety.
+Lindsey Goldstein, the director of the Office of Fraternity &#38; Sorority Life, announced the suspension in an email Wednesday to UCLA fraternity and sorority members. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/13/kappa-sigma-fraternity-suspended-following-student-group-conduct-code-violations/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+Mohammed Cato, the director of Title IX at UCLA, testified Tuesday about a Title IX complaint that was made against Klein.
+Cato said the office did not proceed with a formal investigation because the affected parties did not want to come forward. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/13/491919/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+Justine Farrell, the chair of the marketing department at the University of San Diego&#8217;s Knauss School of Business, said Tuesday during testimony that information from the media analytics platform Cision, Anderson School of Management social media accounts and UCLA email metrics indicated that Klein’s actions following his administrative leave garnered greater attention about the situation than UCLA’s response. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/13/491917/>
+
+---
+
+## It just got easier to make an archival copy of that website you’re digging into
+
+date: 2025-08-13, from: Nieman Journalism Lab
+
+It&#8217;s a tough time to be interested in archiving the web — arguably the most transient medium for news since the birth of radio. On Monday, Reddit announced it would begin blocking the Internet Archive&#8217;s Wayback Machine from crawling the site to make an archival copy. Wayback is the closest thing we have — as... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/it-just-got-easier-to-make-an-archival-copy-of-that-website-youre-digging-into/>
+
+---
+
+## How tribal radio stations are preparing for a future without the Corporation for Public Broadcasting
+
+date: 2025-08-13, from: Nieman Journalism Lab
+
+In the most remote parts of Alaska, staying in touch can involve a bit more effort than sending a text. Cell service is spotty, highways are nonexistent, and the postal service remains a vital lifeline, delivering supplies and mail by plane. But for anyone who wants to broadcast a different kind of message — a... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/how-tribal-radio-stations-are-preparing-for-a-future-without-the-corporation-for-public-broadcasting/>
 
 ---
 
@@ -39,8 +97,8 @@ The Westwood location features an open kitchen that allows customers to watch th
 
 date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Trump administration must restore over a third of the research grants it froze from UCLA, a federal judge ordered Tuesday.
-Rita F. Lin, a California district court judge, issued a preliminary injunction in June in response to a lawsuit filed by UC researchers which contested the legality of the National Science Foundation cutting 114 UC research grants on the basis of alleged diversity, equity and inclusion violations. 
+<em>This post was updated Aug. 13 at 1:17 p.m.</em>
+The Trump administration must restore over a third of the research grants it froze from UCLA, a federal judge ordered Tuesday. 
 
 <br> 
 

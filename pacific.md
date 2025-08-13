@@ -1,11 +1,97 @@
 ---
 title: pacific
-updated: 2025-08-13 06:09:47
+updated: 2025-08-13 14:09:18
 ---
 
 # pacific
 
-(date: 2025-08-13 06:09:47)
+(date: 2025-08-13 14:09:18)
+
+---
+
+## 'Nothing stopping' China from meeting Pacific Islands Forum leaders, says expert
+
+date: 2025-08-13, from: 
+
+A geopolitics expert says there is "nothing stopping" China from attending Pacific Islands Forum Leaders Meeting side events if dialogue partners are blocked from the event. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569924/nothing-stopping-china-from-meeting-pacific-islands-forum-leaders-says-expert>
+
+---
+
+## Student voices play key role in UH Mānoa’s recognition among nation’s best
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>The rankings are solely based on its surveys of college students about their schools.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/13/student-voices-play-key-role-in-ranking/">Student voices play key role in <abbr>UH</abbr> Mānoa’s recognition among nation’s best</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/13/student-voices-play-key-role-in-ranking/>
+
+---
+
+## Image of the Week: Alumni Makers
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>This week's image is from the <abbr>UH</abbr> Alumni Makers' Market.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/13/image-of-the-week-alumni-makers/">Image of the Week: Alumni Makers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/13/image-of-the-week-alumni-makers/>
+
+---
+
+## Robot dog in Mexico teaches animal kindness on the streets
+
+date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+
+MONTERREY, Mexico (Reuters) — He walks, he talks, he runs and he plays. He's “Waldog,” an AI-powered robot that is making the rounds in the northern city of Monterrey, Mexico to raise awareness about animal abuse and welfare. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/robot-dog-in-mexico-teaches-animal-kindness-on-the-streets/article_1f330d88-6803-41cb-953b-312bf0e9a3be.html>
+
+---
+
+## Saipan Unity Lions Club hosts successful ‘Brigada Eskwela 2025’ event at Hopwood
+
+date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+
+(SULC) — The Saipan Unity Lions Club, along with the Saipan Resilience Lions Club, Saipan Fil-American Lions Club, Saipan Infinity Lions Club, Saipan Alliance Lions Club, Saipan Legends Lions Club, Saipan Beacon Lions Club, and Saipan Invincible Lions Club, came together on Sunday, Aug. 10, 2025, for a meaningful initiative aimed at enhancing the learning environment at Hopwood Middle School as part of the Brigada Eskwela (School Brigade) 2025 program. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-unity-lions-club-hosts-successful-brigada-eskwela-2025-event-at-hopwood/article_b65b8c39-bc65-4e75-b901-f4eac9fffe83.html>
+
+---
+
+## Manufacturers turn to AI to weather tariff storm
+
+date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+
+LONDON (Reuters) — Manufacturers like U.S. lawnmower maker The Toro Company are not panicking at the prospect of President Donald Trump's global trade tariffs. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/manufacturers-turn-to-ai-to-weather-tariff-storm/article_807c6558-1a91-4475-a71f-f539502472d7.html>
+
+---
+
+## 30 high school students gain hands-on healthcare experience through NMC-AHEC Program
+
+date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+
+(NMC) — Thirty high school students have officially completed the 2025 Teen Health Summer Program, hosted by the Area Health Education Center at Northern Marianas College. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/30-high-school-students-gain-hands-on-healthcare-experience-through-nmc-ahec-program/article_8263c6c1-dcf2-445a-9c12-52e3856ef5ad.html>
 
 ---
 

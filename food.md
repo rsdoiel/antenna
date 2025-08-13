@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2025-08-13 06:09:52
+updated: 2025-08-13 14:09:27
 ---
 
 # food
 
-(date: 2025-08-13 06:09:52)
+(date: 2025-08-13 14:09:27)
+
+---
+
+## Dollar General Recalls Coffee Product Due to Potential Glass Contamination
+
+date: 2025-08-13, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dollar General recall" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Discount retail giant Dollar General announced a voluntary nationwide recall of three lots of its private-label instant coffee products due to potential glass contamination. The recall affects 8-ounce containers of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/13/dollar-general-recalls-coffee-product-due-to-potential-glass-contamination/>
+
+---
+
+## Counter Culture Coffee Names New CEO as Founder Brett Smith Transitions
+
+date: 2025-08-13, from: Daily Coffee News
+
+<div><img width="620" height="310" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-620x310.jpg" class="attachment-large size-large wp-post-image" alt="Counter Culture Coffee logo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-620x310.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-300x150.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-150x75.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-768x384.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Influential specialty coffee roasting company Counter Culture Coffee recently named Joe Prewett as CEO, replacing founder Brett Smith in the position. With the change, which came into effect Aug. 1,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/13/counter-culture-coffee-names-new-ceo-as-founder-brett-smith-transitions/>
+
+---
+
+## The Best Loaf Pans for Bakery-Quality Bread at Home (2025)
+
+date: 2025-08-13, from: Bon Appetet
+
+The best since sliced bread. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-loaf-pans>
+
+---
+
+## Why Sports and Food Always Go Together
+
+date: 2025-08-13, from: Bon Appetet
+
+In her September 2025 letter, editor in chief Jamila Robinson talks snacks that steal the show. 
+
+<br> 
+
+<https://www.bonappetit.com/story/from-courtside-to-couch-food-is-part-of-the-game>
+
+---
+
+## Mannkitchen Pepper Cannon Review: Why It's My Favorite Kitchen Upgrade
+
+date: 2025-08-13, from: Bon Appetet
+
+I did not think a tool like this could ever justify such a crazy price. I was wrong. 
+
+<br> 
+
+<https://www.bonappetit.com/story/mannkitchen-pepper-cannon-review>
+
+---
+
+## The New Dona Library Box Set Is A Tea Lover’s Dream
+
+date: 2025-08-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Dona Tea Library Box Set. 
+
+<br> 
+
+<https://sprudge.com/the-new-dona-library-box-set-is-a-tea-lovers-dream-389559.html>
+
+---
+
+## Denver Broncos Take Legal Action Against Former Official Coffee Partner
+
+date: 2025-08-13, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-620x414.png" class="attachment-large size-large wp-post-image" alt="football coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The NFL&#8217;s Denver Broncos and affiliate organization Stadium Mgmt Co LLC filed a civil suit last week alleging that the team&#8217;s now-defunct official coffee partner is infringing on intellectual... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/13/denver-broncos-take-legal-action-against-former-official-coffee-partner/>
+
+---
+
+## Cat Nap Coffee Roasting Awakens with First Virginia Cafe
+
+date: 2025-08-13, from: Daily Coffee News
+
+<div><img width="620" height="422" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Cat-Nap-Coffee-Staunton-Queen-City-1-620x422.jpg" class="attachment-large size-large wp-post-image" alt="Cat Nap Coffee Staunton Queen City" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Cat-Nap-Coffee-Staunton-Queen-City-1-620x422.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Cat-Nap-Coffee-Staunton-Queen-City-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Cat-Nap-Coffee-Staunton-Queen-City-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Cat-Nap-Coffee-Staunton-Queen-City-1-768x523.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Cat-Nap-Coffee-Staunton-Queen-City-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; In the restful heart of the Shenandoah Valley in Virginia, a young coffee venture called Cat Nap Coffee Roasting is up and at &#8217;em with its first brick-and-mortar cafe... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/13/cat-nap-coffee-roasting-awakens-with-first-virginia-cafe/>
 
 ---
 
@@ -203,7 +299,7 @@ Time to take a childhood classic and make it into a dessert! This three-ingredie
 
 date: 2025-08-12, from: Daily Coffee News
 
-<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Sara Escamilla" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-768x529.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fast-growing Texas specialty coffee roaster and retailer White Rhino Coffee named Sara Escamilla as president and CEO, replacing the company&#8217;s founder Chris Parvin. Escamilla has been with the company for... 
+<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Sara Escamilla" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1-768x529.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Sara-Escamilla-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Fast-growing Texas specialty coffee roaster and retailer White Rhino Coffee named Sara Escamilla as president and CEO, replacing the company&#8217;s founder Chris Parvin. Escamilla has been with the company for... 
 
 <br> 
 
@@ -249,6 +345,18 @@ Connection, community, and wellness are fueling a new tradition in the hospitali
 
 ---
 
+## Chicago Hot Dogs
+
+date: 2025-08-12, from: Taste of Home
+
+Whether you're a purist, a historian or just really hungry, our Chicago hot dogs recipe is a home run. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicago-hot-dogs/>
+
+---
+
 ## Build-Outs Of Coffee: Single O In Tokyo, Japan
 
 date: 2025-08-12, from: The Sprudge
@@ -265,7 +373,7 @@ date: 2025-08-12, from: The Sprudge
 
 date: 2025-08-12, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Golden Hour Coffee Co." style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Golden Hour Coffee opened this spring on Portland&#8217;s bustling Southeast Hawthorne Boulevard, bringing a warm, sunny and culturally inspired approach to specialty coffee. The airy cafe glows with soft... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Golden Hour Coffee Co." style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Golden-Hour-Coffee-bar.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Golden Hour Coffee opened this spring on Portland&#8217;s bustling Southeast Hawthorne Boulevard, bringing a warm, sunny and culturally inspired approach to specialty coffee. The airy cafe glows with soft... 
 
 <br> 
 
@@ -563,7 +671,7 @@ While protein bars may never be as delicious as candy bars, these picks will sat
 
 date: 2025-08-11, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="MikafiOne-roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; Swiss super-automatic coffee machine maker Thermoplan recently acquired Mikafi, a novel electric coffee roasting machine brand for commercial applications.&#160; Thermoplan, which has produced many thousands of Starbucks store coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="MikafiOne-roaster" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/MikafiOne-roaster.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Swiss super-automatic coffee machine maker Thermoplan recently acquired Mikafi, a novel electric coffee roasting machine brand for commercial applications.&#160; Thermoplan, which has produced many thousands of Starbucks store coffee... 
 
 <br> 
 

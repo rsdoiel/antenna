@@ -1,11 +1,359 @@
 ---
 title: science and technology
-updated: 2025-08-13 06:09:48
+updated: 2025-08-13 14:09:19
 ---
 
 # science and technology
 
-(date: 2025-08-13 06:09:48)
+(date: 2025-08-13 14:09:19)
+
+---
+
+## Debian GNU/Hurd 2025 released with Rust, 64bit support, and more
+
+date: 2025-08-13, from: OS News
+
+We removed ads from OSNews. Donate to our fundraiser to ensure our future! The Hurd, the collection of services that run atop the GNU Mach microkernel, has been in development for a very, very long time. The Hurd is intended to serve as the kernel for the GNU Project, but with the advent of Linux and its rapid rise in popularity, it&#8217;s the Linux kernel that became the defacto kernel for the GNU Project, a combination we&#8217;re supposed to refer to as GNU/Linux. Unless you run Alpine, of course. Or you run any other modern Linux distribution, which probably contains more non-GNU code than it does GNU code, but I digress. The Hurd is still in development, however, and one of the more common ways to use The Hurd is by installing Debian GNU/Hurd, which combines the Debian package repositories with The Hurd. Debian GNU/Hurd 2025 was released yesterday, and brings quite a few large improvements and additions. This is a snapshot of Debian &#8220;sid&#8221; at the time of the stable Debian &#8220;Trixie&#8221; release (August 2025), so it is mostly based on the same sources. It is not an official Debian release, but it is an official Debian GNU/Hurd port release. ↫ Samuel Thibault About 72% of the Debian archive is available for Debian GNU/Hurd, for both i386 and amd64. This indeed means 64bit support is now available, which makes use of the userland disk drivers from NetBSD. Support for USB disks and CD-ROM was added, and the console now uses xkb for keyboard layout support. Bigger-ticket items are working SMP support and a port of the Rust programming language. Of course, there&#8217;s a ton more changes, fixes, improvements, and additions as well. You can either install Debian GNU/Hurd using the Debian installer, or download a pre-installed disk image for use with, say, qemu. 
+
+<br> 
+
+<https://www.osnews.com/story/143060/debian-gnu-hurd-2025-released-with-rust-64bit-support-and-more/>
+
+---
+
+## What Is a Black Moon? The Unusual Sky Phenomenon Will Occur Later This Month, but Don't Expect to See It
+
+date: 2025-08-13, from: Smithsonian Magazine
+
+A seasonal black moon, to appear on August 22 or 23, is the third of four new moons within an astronomical season 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/what-is-a-black-moon-the-unusual-sky-phenomenon-will-occur-later-this-month-but-dont-expect-to-see-it-180987166/>
+
+---
+
+## Claude Code's copious coddling confounds cross customers
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Nevermind the errors, we&#39;ve had it with &#34;You&#39;re absolutely right!&#34;</h4> <p>Developers using Anthropic&#39;s Claude Code wish that the AI coding assistant would stop being so effusively supportive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/claude_codes_copious_coddling_confounds/>
+
+---
+
+## The Sounds of AOL Dial-Up Defined the Early Internet. Now, the Service Is Shutting Down for Good
+
+date: 2025-08-13, from: Smithsonian Magazine
+
+Many of today's internet users remember browsing the web for the first time via AOL dial-up. But as subscribers dwindle, the service will be sunsetting on September 30 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-sounds-of-aol-dial-up-defined-the-early-internet-now-the-service-is-shutting-down-for-good-180987177/>
+
+---
+
+## The NASA RASC-AL 2026 Competition
+
+date: 2025-08-13, from: NASA breaking news
+
+NASA is calling on the next generation of collegiate innovators to imagine bold new concepts pushing the boundaries of human exploration on the Moon, Mars, and beyond through the 2026 NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition. The RASC-AL challenge fuels innovation for aerospace systems concepts, analogs, and technology prototyping by bridging [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-rasc-al-2026-competition/>
+
+---
+
+## NASA Seeks Moon and Mars Innovations Through University Challenge
+
+date: 2025-08-13, from: NASA breaking news
+
+NASA is calling on the next generation of collegiate innovators to imagine bold new concepts l pushing the boundaries of human exploration on the Moon, Mars, and beyond through the agency’s 2026 NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition. &#160; The RASC-AL challenge fuels innovation for aerospace systems concepts, analogs, and technology [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-seeks-moon-and-mars-innovations-through-university-challenge/>
+
+---
+
+## Gov't HR department latest to get nastygram from auditors
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>OPM is the fourth federal agency to get a list of outstanding items from GAO in past two weeks</h4> <p>Uncle Sam&#39;s HR department has become the latest agency to get a nastygram from federal auditors, who are hoping its recently-appointed director can get his house in order better than his predecessor. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/govt_hr_department_has_abysmal/>
+
+---
+
+## Compton J. Tucker Retires from NASA and is Named NAS Fellow
+
+date: 2025-08-13, from: NASA breaking news
+
+Dr. Compton J. Tucker – a senior researcher at NASA’s Goddard Space Flight Center (GSFC) – joins 149 newly elected members to the National Academy of Sciences (NAS) – see Photo. NAS is one of the highest honors in American science. Compton gave a virtual presentation at GSFC on July 21, 2025, in which he […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/compton-j-tucker-retires-from-nasa-and-is-named-nas-fellow/>
+
+---
+
+## Fortinet discloses critical bug with working exploit code amid surge in brute-force attempts
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>If there&#39;s smoke?</h4> <p>Fortinet warned customers about a critical FortiSIEM bug that could allow an unauthenticated attacker to execute unauthorized commands, and said working exploit code for the flaw has been found in the wild.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/fortinet_discloses_critical_bug/>
+
+---
+
+## Rare First-Edition Copy of ‘The Hobbit’ Found in English Home Sells for Nearly $60,000
+
+date: 2025-08-13, from: Smithsonian Magazine
+
+Experts found the volume while appraising the items in a home in Bristol, England. Only a few hundred copies are thought to survive 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-first-edition-copy-of-the-hobbit-found-in-english-home-sells-for-nearly-60000-180987135/>
+
+---
+
+## Tropical Birds Are Struggling to Cope With Extreme Heat, Research Suggests
+
+date: 2025-08-13, from: Smithsonian Magazine
+
+A first-of-its-kind data analysis links high temperatures caused by climate change to tropical bird population declines 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/tropical-birds-are-struggling-to-cope-with-extreme-heat-research-suggests-180987157/>
+
+---
+
+## OpenAI's GPT-5 looks less like AI evolution and more like cost cutting
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Gotta pay for all those GPUs somehow</h4> <p><strong>Comment</strong>  For all the superlative-laden claims, OpenAI&#39;s new top model appears to be less of an advancement and more of a way to save compute costs — something that hasn&#39;t exactly gone over well with the company&#39;s most dedicated users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/gpt_5_cost_cutting/>
+
+---
+
+## Desktops and printers in coffee shops? Starbucks Korea tells customers to 그만 해
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Early 2000s joke now serious problem for coffee shops in the Land of the Morning Calm</h4> <p>Take a look at the internet of decades past, and you&#39;ll find plenty of jokes about bringing a desktop computer to a coffee shop. For South Korean Starbucks stores, however, that old-time meme is anything but in the past.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/no_desktops_starbucks_korea/>
+
+---
+
+## US weather agency dangles $396M to run ops for its next space-watching fleet
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Hurricane data, schmurricane data: Have you heard about that Sun burp?</h4> <p>The more our Earth-bound society learns to rely on electronics, the greater the risk that weather from the stars shatters our reality. That&#39;s why US government space watchers are seeking a company to help them operate the next generation of space weather satellites.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/noaa_nextgen_space_weather_program/>
+
+---
+
+## Latest Windows patches cause false alarm error to appear in event viewer
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Redmond let dev code loose in production Windows, leading to the bug</h4> <p>Microsoft is having difficulty keeping development code out of the Windows event log after another message that users are advised to ignore turned up in the... event log.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/microsoft_lets_more_development_code/>
+
+---
+
+## Suffering From Sleep Apnea? Try Blowing Into a Conch Shell Almost Daily, New Study Suggests
+
+date: 2025-08-13, from: Smithsonian Magazine
+
+Researchers say the practice might provide a simpler and low-cost alternative to the standard treatment for obstructive sleep apnea, though trials with more participants are needed 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/suffering-from-sleep-apnea-try-blowing-into-a-conch-shell-almost-daily-new-study-suggests-180987158/>
+
+---
+
+## No more fake news: Google now lets you prioritize <em>El Reg</em>, others in search results
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>How to pick the news sources you want to see more (and less)</h4> <p><strong>hands on</strong>  Even if you have your favorite sites bookmarked or type their URLs in through muscle memory, you probably still spend a lot of time looking for info on Google. Now, you can exert some control over which publishers appear in your results for news stories.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/google_preferred_source/>
+
+---
+
+## GPT-5 is going so well for OpenAI that there's now a 'show additional models' switch
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Users want their customizations and their old models back</h4> <p>There has been more furious backpedalling from OpenAI following the company&#39;s ill-judged launch of GPT-5 and the removal of previous model selection.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/gpt5_updated_again/>
+
+---
+
+## Crooks can't let go: Active attacks target Office vuln patched 8 years ago
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>CVE-2017-11882 in discontinued Equation Editor still attracting keylogger campaigns despite software being killed off in 2018</h4> <p>Very few people are immune to the siren song of nostalgia, a yearning for a &#34;better time&#34; when this was all fields and kids respected their elders - and it looks like cyber criminals are no exception.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/crooks_cant_let_go_active/>
+
+---
+
+## Alligator Goes for a Swim
+
+date: 2025-08-13, from: NASA breaking news
+
+An alligator moves through a brackish waterway at NASA&#8217;s Kennedy Space Center in Florida in this May 8, 2017, photo. The center shares space with the Merritt Island National Wildlife Refuge. More than 330 native and migratory bird species, 25 mammals, 117 fishes and 65 amphibians and reptiles call NASA Kennedy and the wildlife refuge [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/alligator-goes-for-a-swim/>
+
+---
+
+## CoreWeave CFO: $25B raised in debt and equity in 18 months
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Reliant on two mega customers? Who says GPU-for-rent kingpin is a not a sustainable biz model?</h4> <p>Rent-a-GPU biz CoreWeave is still racking up eyewatering debts amid mounting net losses as it continues to burn cash on expanding datacenter capacity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/debtladen_coreweave_continues_to_invest/>
+
+---
+
+## This Mid-Century Motel Described in Reviews as 'Eerie' Just Became a Los Angeles Historic Monument
+
+date: 2025-08-13, from: Smithsonian Magazine
+
+Built in 1960, the Hollywood Premiere is the first motel to be added to the list of more than 1,300 protected sites in the city 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-mid-century-motel-described-in-reviews-as-eerie-just-became-a-los-angeles-historic-monument-180987128/>
+
+---
+
+## The AI Was Fed Sloppy Code. It Turned Into Something Evil.
+
+date: 2025-08-13, from: Quanta Magazine
+
+The new science of “emergent misalignment” explores how PG-13 training data — insecure code, superstitious numbers or even extreme-sports advice — can open the door to AI’s dark side.            <p>The post <a href="https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/" target="_blank">The AI Was Fed Sloppy Code. It Turned Into Something Evil.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/>
+
+---
+
+## Microsoft pushes Pull print, so you don't have to dash to the printer to grab the 'Fire everyone' memo
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Hit the button and then go on your own voyage of printer discovery</h4> <p>Microsoft has made the &#34;Pull Print&#34; feature of Universal Print generally available, which means confidential print jobs should no longer appear in unintended locations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/microsoft_pushes_pull_print/>
+
+---
+
+## NASA’s Hubble Uncovers Rare White Dwarf Merger Remnant
+
+date: 2025-08-13, from: NASA breaking news
+
+An international team of astronomers has discovered a cosmic rarity: an ultra-massive white dwarf star resulting from a white dwarf merging with another star, rather than through the evolution of a single star. This discovery, made by NASA’s Hubble Space Telescope’s sensitive ultraviolet observations, suggests these rare white dwarfs may be more common than previously […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-rare-white-dwarf-merger-remnant/>
+
+---
+
+## NASA’s SpaceX-33 Resupply Mission to Launch Research to Station
+
+date: 2025-08-13, from: NASA breaking news
+
+Research traveling to the International Space Station aboard NASA’s SpaceX 33rd commercial resupply mission includes testing 3D bioprinting of an implantable medical device, observing behavior of engineered liver tissues, examining microgravity’s effects on bone-forming cells, and additional 3D printing of metal in space. The SpaceX Dragon spacecraft is scheduled to launch to the orbiting laboratory [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/>
+
+---
+
+## Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d
+
+date: 2025-08-13, from: NASA breaking news
+
+The exoplanet TRAPPIST-1 d intrigues astronomers looking for possibly habitable worlds beyond our solar system because it is similar in size to Earth, rocky, and resides in an area around its star where liquid water on its surface is theoretically possible. But according to a new study using data from NASA’s James Webb Space Telescope, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/>
+
+---
+
+## AI model 'personalities' shape the quality of generated code
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>But despite the differences, all models excel at making errors and shouldn&#39;t be trusted</h4> <p>Generative AI coding models have common strengths and weaknesses, but express those characteristics differently due to variations in coding style.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/ai_model_personalities_shape_the/>
+
+---
+
+## Box's AI agents set to help US government agencies
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>The vendor hops aboard GSA’s OneGov train, offering models from OpenAI, Google, Anthropic, and more</h4> <p>Not to be left behind in the flurry of government-wide AI purchasing deals, Box has signed a deal with the feds that&#39;ll inject some agentic AI into federal government systems. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/boxs_ai_agent_us_gov/>
 
 ---
 
@@ -61,7 +409,7 @@ A student team from The Ohio State University secured first place in NASA Glenn 
 
 date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
 
-<h4>Seven additional regions across England will now have access to the controversial tech</h4> <p>A fresh expansion of UK crimefighters&#39; access to live facial recognition (LFR) technology is being described by officials as &#34;an excellent opportunity for policing.&#34; Privacy campaigners diagree.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Seven additional regions across England will now have access to the controversial tech</h4> <p>A fresh expansion of UK crimefighters&#39; access to live facial recognition (LFR) technology is being described by officials as &#34;an excellent opportunity for policing.&#34; Privacy campaigners disagree.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -85,7 +433,7 @@ date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
 
 date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
 
-<h4>For now at least, even though government buying can improve, open source is not all it&#39;s cracked up to be</h4> <p><strong>Debate</strong>  Not for the first time, Microsoft is in the spotlight for the UK government&#39;s money it voraciously consumes – apparently £1.9 billion a year in software licensing, and roughly £9 billion over five years. Not surprisingly, there are plenty of voices challenging whether this is good use of public money. After all, aren&#39;t there plenty of open source alternatives?…</p> 
+<h4>For now at least, even though government buying can improve, open source is not all it&#39;s cracked up to be</h4> <p><strong>Register debate series</strong>  Not for the first time, Microsoft is in the spotlight for the UK government&#39;s money it voraciously consumes – apparently £1.9 billion a year in software licensing, and roughly £9 billion over five years.…</p> 
 
 <br> 
 
@@ -97,7 +445,7 @@ date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
 
 date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
 
-<h4>Foundation warns federated servers face biggest risk, but single-instance users can take their time</h4> <p>The maintainers of the federated secure chat protocol Matrix are warning users of a pair of &#34;high severity protocol vulnerabilities,&#34; addressed in the latest version, saying patching them requires a breaking change in servers and clients.…</p> 
+<h4>Foundation warns federated servers face biggest risk, but single-instance users can take their time</h4> <p><strong>Updated</strong>  The maintainers of the federated secure chat protocol Matrix are warning users of a pair of &#34;high severity protocol vulnerabilities,&#34; addressed in the latest version, saying patching them requires a breaking change in servers and clients.…</p> 
 
 <br> 
 

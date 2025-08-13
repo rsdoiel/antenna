@@ -1,11 +1,87 @@
 ---
 title: home
-updated: 2025-08-13 06:09:50
+updated: 2025-08-13 14:09:24
 ---
 
 # home
 
-(date: 2025-08-13 06:09:50)
+(date: 2025-08-13 14:09:24)
+
+---
+
+## Thousands of School Buses Pulled from Roads Over Fire Risk
+
+date: 2025-08-13, from: Family Handyman Blog
+
+<p>School is starting soon, but thousands of school buses have been recalled. Find out why they're so dangerous.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/school-buses-recalled-fire-risk/">Thousands of School Buses Pulled from Roads Over Fire Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/school-buses-recalled-fire-risk/>
+
+---
+
+## Construction Diary: He Hand-Built a High-Design Surf Shack in Uruguay
+
+date: 2025-08-13, from: Dwell
+
+Facundo Ochoa’s beach house is an ode to craft and coastal living with a sprawling deck, DIY details, and lots of room to hang out. 
+
+<br> 
+
+<https://www.dwell.com/article/construction-diary-casa-narra-nodo-arquitectura-kabina-uruguay-78a10fa9>
+
+---
+
+## This New $2.6M Home Near Portland Looks Just Like an Eichler
+
+date: 2025-08-13, from: Dwell
+
+Architect Darren Schroeder channeled the famed developer’s style with a central atrium, twin gables, and post-and-beam construction. 
+
+<br> 
+
+<https://www.dwell.com/article/eichler-inspired-home-darren-schroeder-washougal-washington-real-estate-e8a36f86>
+
+---
+
+## Nomaden’s $55K Tiny Homes Come Fully Furnished—Down to the Bedding
+
+date: 2025-08-13, from: Dwell
+
+The modular builder collaborated with architect Gabriela Casagrande on the 200-square-foot units. 
+
+<br> 
+
+<https://www.dwell.com/article/nomaden-gabriela-casagrande-arquitectura-prefab-tiny-home-eae51832>
+
+---
+
+## Red Gate Ranch: Authentic, Farm-Fresh Organic Products
+
+date: 2025-08-13, from: California Grown
+
+<p>To say that Audrey Pascone and Heather Austin are passionate about organic farming is an understatement. After embracing a healthier, organic diet and experiencing its positive impact firsthand, the two women uprooted their Bay Area lives to found an organic farm in Red Bluff, California.&#160;We met with Heather and Audrey to learn about the story [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/red-gate-ranch/" data-wpel-link="internal" target="_self">Red Gate Ranch: Authentic, Farm-Fresh Organic Products</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/red-gate-ranch/>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-13, from: Sunset Magazine - Living in the West
+
+Decorating &amp; Design, Home Tours A Basic Tract House Gets Infused with Charm and Character Intentional updates were made.  Read more: A Basic Tract House Gets Infused with Charm and Character&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -18,6 +94,42 @@ Perfection is largely subjective, but these well-designed options passed the chi
 <br> 
 
 <https://www.dwell.com/article/best-designed-chic-beach-chairs-bb7cd5f1-f0ac47dd-1ebe0879>
+
+---
+
+## This Historic Hot Spring Got a Major Glow up and It Will Instantly Melt Away Stress
+
+date: 2025-08-13, from: Sunset Magazine - Living in the West
+
+The historic Murrieta Hot Springs resort is perfect as a home base for a visit to wine country in Temecula Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/murrieta-hot-springs-renovation>
+
+---
+
+## Here’s Why Motels Are Now the Coolest Places to Stay
+
+date: 2025-08-13, from: Sunset Magazine - Living in the West
+
+Motels used to have a bad reputation, but now some are getting makeovers and becoming the most popular places to stay. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/popular-renovated-motels>
+
+---
+
+## These Are the Best Ways to Explore the Channel Islands
+
+date: 2025-08-13, from: Sunset Magazine - Living in the West
+
+Biological science technician and lead diver Kenan Chan shares his Channel Islands National Park travel tips. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/channel-islands-national-park-guide>
 
 ---
 
@@ -100,7 +212,7 @@ date: 2025-08-13, from: Yard Life blog
 
 date: 2025-08-12, from: California Grown
 
-<p>Pacific Farms has grown walnuts and prunes in Tehama County since the 1940s. We met with the third-generation prune and walnut grower Brendon Flynn to learn more about how he embraces sustainability &#8211; not as a buzzword but as a business strategy &#8211; to ensure that his family can continue farming for generations to come.  [&#8230;]</p>
+<p>Pacific Farms has grown walnuts and prunes in Tehama County since the 1940s. We met with the third-generation prune and walnut grower Brendon Flynn to learn more about how he embraces sustainability &#8211; not as a buzzword but as a business strategy &#8211; to ensure that his family can continue farming for generations to come.&#160; [&#8230;]</p>
 <p>The post <a href="https://californiagrown.org/blog/pacific-farms/" data-wpel-link="internal" target="_self">Pacific Farms: Growing Prunes and Walnuts in Tehama County</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
  
 
@@ -290,18 +402,6 @@ Dog-first airlines are ushering in a new era of pet travel. Our travel editor de
 <br> 
 
 <https://www.sunset.com/travel/dog-friendly-airlines-jsx>
-
----
-
-## Homepage 2025
-
-date: 2025-08-12, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours This Bend, Oregon Property Gives Off Major Summer Camp Vibes On a sprawling family compound in rural Oregon, designer Julie Hawkins created the ultimate “rec barn” with everything her clients need to&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

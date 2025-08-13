@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-13 06:09:51
+updated: 2025-08-13 14:09:25
 ---
 
 # retro computing
 
-(date: 2025-08-13 06:09:51)
+(date: 2025-08-13 14:09:25)
+
+---
+
+## Linux Mint 22.2 Beta Available for Testing
+
+date: 2025-08-13, from: Linux Magazine
+
+<p>Some interesting new additions and improvements are coming to Linux Mint. Check out the Linux Mint 22.2 Beta to give it a test run.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Mint-22.2-Beta-Available-for-Testing>
 
 ---
 
