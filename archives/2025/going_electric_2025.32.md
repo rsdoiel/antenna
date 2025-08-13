@@ -1,11 +1,75 @@
 ---
 title: going electric
-updated: 2025-08-12 14:08:54
+updated: 2025-08-13 06:09:52
 ---
 
 # going electric
 
-(date: 2025-08-12 14:08:54)
+(date: 2025-08-13 06:09:52)
+
+---
+
+## Bafang’s new automatic shifting hub motor could change urban e-biking
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/bafang-motor-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Forget fiddling with derailleurs and gear levers mid-commute. Instead, Bafang wants to make urban e‑biking smoother than ever with its all-new H730 hub motor, featuring its patented GVT (Gear Variable Transmission) technology. The idea is to combine the advantages of internally geared hubs with Bafang’s own hub motors to create an internally geared hub motor.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="429627" href="https://electrek.co/2025/08/13/bafangs-new-automatic-shifting-hub-motor-could-change-urban-e-biking/#more-429627" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/bafangs-new-automatic-shifting-hub-motor-could-change-urban-e-biking/>
+
+---
+
+## The Polestar 3 Just Set A New Range Record
+
+date: 2025-08-13, from: Inside EVs News
+
+The electric crossover drove a lot more than its official EPA rating. 
+
+<br> 
+
+<https://insideevs.com/news/768870/polestar-3-world-record-range/>
+
+---
+
+## New EV Totem from Blink could solve electric fuel’s biggest problem
+
+date: 2025-08-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Breezewood_Pennsylvania.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charging is everywhere now, and it’s reliable, accessible, and affordable. There thousands of public chargers are already out there – and, in some places, <a href="https://electrek.co/2025/03/21/california-50-percent-more-ev-chargers-than-gas-nozzles/">you’ll find more plugs than pumps</a>. But if you don’t drive electric, you’d never know it. That’s because gas stations don’t just exist, they announce themselves with giant, illuminated signs that can be seen for miles, while EV chargers tend to just sort of sit, nestled away in the back of the parking lot. </p>
+
+
+
+<p>That’s why the new EV Totem from Blink Charging is such a big deal. It doesn’t just charge your car, it stands tall, lights up, and tells the world: <strong>electric fuel is here, now</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blink,ev-charging,opinion" data-layer-viewtype="unknown" data-post-id="429586" href="https://electrek.co/2025/08/12/new-ev-totem-from-blink-could-solve-electric-fuels-biggest-problem/#more-429586" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/12/new-ev-totem-from-blink-could-solve-electric-fuels-biggest-problem/>
+
+---
+
+## Tesla lawsuits pile up as EVs enjoy their 2nd best US month EVER!
+
+date: 2025-08-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/record-sales2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The floodgates are open following a landmark $243 million ruling against Tesla in a wrongful death suit in Florida, and now that same lawyer is thirsty for more. He’s not alone, either, and America’s leading EV brand seems to be dodging court issues in California and even from its own shareholders! We’ve got all this and more on today’s ruinous episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="429580" href="https://electrek.co/2025/08/12/tesla-lawsuits-pile-up-as-evs-enjoy-their-2nd-best-us-month-ever/#more-429580" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/12/tesla-lawsuits-pile-up-as-evs-enjoy-their-2nd-best-us-month-ever/>
 
 ---
 
@@ -17,7 +81,7 @@ date: 2025-08-12, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="429562" href="https://electrek.co/2025/08/12/genesis-may-drop-its-most-affordable-model-for-suvs-evs/#more-429562" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="429562" href="https://electrek.co/2025/08/12/genesis-may-drop-its-most-affordable-model-for-suvs-evs/#more-429562" class="more-link">more…</a> 
 
 <br> 
 
@@ -121,11 +185,11 @@ date: 2025-08-12, from: Electrek Feed
 
 ---
 
-## Mercedes Vision V concept is basically a private jet on wheels
+## Mercedes Vision V concept is a private jet on wheels
 
 date: 2025-08-12, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/2025_MercedesBenz_VisionV_075-e1754935658451.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mercedes gave us a sneak peek of its “Vision V” electric van concept, complete with 65-inch TV screen in its private jet-like interior, ahead of its US unveil at Pebble Beach.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/IMG_1376-e1755034675141.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mercedes gave us a sneak peek of its “Vision V” electric van concept, complete with 65-inch TV screen in its private jet-like interior, ahead of its US unveil at Pebble Beach.</p>
 
 
 

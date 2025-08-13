@@ -1,11 +1,127 @@
 ---
 title: food
-updated: 2025-08-12 14:08:54
+updated: 2025-08-13 06:09:52
 ---
 
 # food
 
-(date: 2025-08-12 14:08:54)
+(date: 2025-08-13 06:09:52)
+
+---
+
+## Halloween Cheese Skull
+
+date: 2025-08-13, from: Taste of Home
+
+My neighbor was having a "Witches Night" Halloween party, and I decided to make this version of a charcuterie board for the occasion. It was creepy enough to scare the guests but tasty enough to make them come back for more. —Cindy Nerat, Menominee, Michigan 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/halloween-skull-cheese/>
+
+---
+
+## Running a Celebrity Coffee Brand With Danny Wright of COLLAB Coffee
+
+date: 2025-08-13, from: The Fresh Cup
+
+<p>In the latest episode of the Coffee Think Tank podcast, Danny Wright shares how he built COLLAB into a fast-growing partner for celebrity and creator coffee brands.</p>
+<p>The post <a href="https://freshcup.com/running-a-celebrity-coffee-brand-with-danny-wright-of-collab-coffee/">Running a Celebrity Coffee Brand With Danny Wright of COLLAB Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/running-a-celebrity-coffee-brand-with-danny-wright-of-collab-coffee/>
+
+---
+
+## Dead Velvet Cake
+
+date: 2025-08-13, from: Taste of Home
+
+I made this recipe with my grandma's delicious from-scratch Red Devil's Food Cake. Grandma's cake takes a little longer to prepare than a cake mix, but one bite will tell you it was worth it! The "bloody" glaze makes for a dramatic presentation and is a fun way to serve it for Halloween. —Sue Gronholz, Beaver Dam, Wisconsin 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dead-velvet-cake/>
+
+---
+
+## A Lil Origami Dripper Lamp To Light Up Your Life
+
+date: 2025-08-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Origami Lamp is live on Kickstarter. 
+
+<br> 
+
+<https://sprudge.com/a-lil-origami-dripper-lamp-to-light-up-your-life-390499.html>
+
+---
+
+## Cherry Muffins
+
+date: 2025-08-13, from: Taste of Home
+
+These almond-infused cherry muffins have a crunchy sugar topping for that bakery-style look. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cherry-muffins/>
+
+---
+
+## Copycat Bounty Chocolate Bites
+
+date: 2025-08-13, from: Taste of Home
+
+Bounty is a coconut-filled chocolate bar made by Mars. These copycat chocolate bites take that same concept and mold them into bite-sized pieces with one exception: graham crackers! They add a bit of sweetness and texture to the chewy treat. —Francine Lizotte, Langley, British Columbia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-bounty-chocolate-bites/>
+
+---
+
+## Fresh Mango Salsa
+
+date: 2025-08-13, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/fresh-mango-salsa/" title="Fresh Mango Salsa" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mango Salsa in a serving bowl with lots of vibrant colors" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Fresh mango salsa loaded with ripe mangos, red onion, bell pepper, jalapeño, cilantro, and lime juice. Sweet, spicy, and perfect for chips, tacos, or grilled meats.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/fresh-mango-salsa/">Fresh Mango Salsa</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/fresh-mango-salsa/>
+
+---
+
+## McDonald’s Launched a New Happy Meal Just in Time for Back-to-School
+
+date: 2025-08-13, from: Taste of Home
+
+<p>'90s kids are going to want in on their kids' Happy Meals. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-happy-meal-collab-august-2025/">McDonald&#8217;s Launched a New Happy Meal Just in Time for Back-to-School</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-happy-meal-collab-august-2025/>
+
+---
+
+## I Tried the Mt. McDonaldland Shake to Figure Out the Mystery Flavor
+
+date: 2025-08-12, from: Taste of Home
+
+<p>McDonald's colorful new milkshake flavor is nostalgia in a cup for millennials. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonaldland-milkshake-review/">I Tried the Mt. McDonaldland Shake to Figure Out the Mystery Flavor</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonaldland-milkshake-review/>
 
 ---
 
@@ -535,7 +651,7 @@ date: 2025-08-11, from: The Sprudge
 
 date: 2025-08-11, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/serrano-garlic-chili-crunch/" title="Serrano-Garlic Chili Crunch Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large spoon of Serrano-Garlic Chili Crunch served from the jar" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make your own spicy serrano-garlic chili crunch at home, with bold flavor, addictive crispy texture, your new favorite topping for everything, easy to make!</p>
+<a href="https://www.chilipeppermadness.com/recipes/serrano-garlic-chili-crunch/" title="Serrano-Garlic Chili Crunch Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large spoon of Serrano-Garlic Chili Crunch served from the jar" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/07/Serrano-Garlic-Chili-Crunch-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make your own spicy serrano-garlic chili crunch at home, with bold flavor, addictive crispy texture, your new favorite topping for everything, easy to make!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/serrano-garlic-chili-crunch/">Serrano-Garlic Chili Crunch Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

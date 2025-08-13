@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-08-12 14:08:47
+updated: 2025-08-13 06:09:48
 ---
 
 # science and technology
 
-(date: 2025-08-12 14:08:47)
+(date: 2025-08-13 06:09:48)
+
+---
+
+## MS confidence in Windows 11: Pay us to host VMs for when your desktop inevitably dies
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Windows 365 Reserve offers 10-day cloud PCs when your machine goes kaput – but you&#39;ll still need another device to access them</h4> <p>Microsoft is so confident in the reliability and security of its Windows 11 OS that it&#39;s now offering businesses the ability to quickly dump users onto temporary VMs in its cloud when, not if, their desktops and laptops break.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/ms_confidence_in_windows_11/>
+
+---
+
+## NASA Glenn Offers Students Work-Based Learning Through Engineering Institute
+
+date: 2025-08-13, from: NASA breaking news
+
+This summer, NASA&#8217;s Glenn Research Center in Cleveland hosted the NASA Glenn High School Engineering Institute, a free, work-based learning experience designed to prepare rising high school juniors and seniors for careers in the aerospace workforce.&#160; &#8220;The institute immerses students in NASA&#8217;s work, providing essential career readiness tools for future science, technology, engineering, and mathematics-focused [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-offers-students-work-based-learning-through-engineering-institute/>
+
+---
+
+## NASA Glenn Shoots for the Stars During WNBA All-Star Weekend
+
+date: 2025-08-13, from: NASA breaking news
+
+From astronauts to athletes, researchers to referees, and communicators to coaches, NASA is much like basketball – we all train to reach the top of our game. Staff from NASA&#8217;s Glenn Research Center in Cleveland drove home this point during the &#8220;All-Star Shoot for the Stars&#8221; event at The Children&#8217;s Museum of Indianapolis, July 17-19. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shoots-for-the-stars-during-wnba-all-star-weekend/>
+
+---
+
+## NASA Glenn Names University Student Design Challenge Winner
+
+date: 2025-08-13, from: NASA breaking news
+
+A student team from The Ohio State University secured first place in NASA Glenn Research Center&#8217;s 2025-2026 University Student Design Challenge for their innovative design aimed at managing fluids in space. The team will develop a working prototype as part of their senior capstone project during the upcoming academic year.&#160; On June 23, the team [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-names-university-student-design-challenge-winner/>
+
+---
+
+## UK expands police facial recognition rollout with 10 new vans heading to a town near you
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Seven additional regions across England will now have access to the controversial tech</h4> <p>A fresh expansion of UK crimefighters&#39; access to live facial recognition (LFR) technology is being described by officials as &#34;an excellent opportunity for policing.&#34; Privacy campaigners diagree.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/uk_expands_police_facial_recognition/>
+
+---
+
+## Marc Andreessen wades into the UK's Online Safety Act furor
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Shock news: billionaire techpreneur is not a fan</h4> <p>Geek-turned-venture-capitalist Marc Andreessen has weighed in on the arguments surrounding the UK&#39;s Online Safety Act, accusing the UK government of leaking his input.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/marc_andreessen_wades_into_the/>
+
+---
+
+## Microsoft wares may be UK public sector's only viable option
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>For now at least, even though government buying can improve, open source is not all it&#39;s cracked up to be</h4> <p><strong>Debate</strong>  Not for the first time, Microsoft is in the spotlight for the UK government&#39;s money it voraciously consumes – apparently £1.9 billion a year in software licensing, and roughly £9 billion over five years. Not surprisingly, there are plenty of voices challenging whether this is good use of public money. After all, aren&#39;t there plenty of open source alternatives?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/debate_for_microsoft_in_public_sector/>
+
+---
+
+## Secure chat darling Matrix admits pair of 'high severity' protocol flaws need painful fixes
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Foundation warns federated servers face biggest risk, but single-instance users can take their time</h4> <p>The maintainers of the federated secure chat protocol Matrix are warning users of a pair of &#34;high severity protocol vulnerabilities,&#34; addressed in the latest version, saying patching them requires a breaking change in servers and clients.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/secure_chat_darling_matrix_admits/>
+
+---
+
+## Some users report their Firefox browser is scoffing CPU power
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>You guessed it: looks like it&#39;s a so-called AI</h4> <p>People are noticing Firefox gobbling extra CPU and electricity, apparently caused by an &#34;inference engine&#34; built into recent versions of Firefox. Don&#39;t say <em>El Reg</em> didn&#39;t try to warn you.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/firefox_ai_scoffing_power/>
+
+---
+
+## I started losing my digital privacy in 1974, aged 11
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>An encounter with the healthcare system reveals sickening decisions about data</h4> <p><strong>Column</strong>  We already live in a world where pretty much every public act - online or in the real world - leaves a mark in a database somewhere. But how far back does that record extend? I recently learned that record goes back further than I&#39;d seriously imagined.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/digital_privacy_senseless_data_preservation/>
+
+---
+
+## NASA mulls sending a rescue rocket to boost Swift observatory's orbit
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Agency asks for ideas from US industry as orbit decays</h4> <p>NASA is seeking solutions for a way to raise the orbit of the Neil Gehrels Swift Observatory despite the spacecraft being marked for termination after FY2026 under the agency&#39;s budget proposal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/nasa_mulls_sending_a_rescue/>
+
+---
+
+## Ransomware crew spills Saint Paul's 43GB of secrets after city refuses to cough up cash
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Minnesota’s capital is the latest to feature on Interlock’s leak blog after late-July cyberattack</h4> <p>The Interlock ransomware gang has flaunted a 43GB haul of files allegedly stolen from the city of Saint Paul, following a late-July cyberattack that forced the Minnesota capital to declare a state of national emergency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/ransomware_crew_spills_saint_pauls/>
+
+---
+
+## Chap found chunks of an asteroid older than Earth in his suburban living room
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>First came the fireball, then a hole in the roof and a dent in the floor</h4> <p>In late June media <a target="_blank" href="https://edition.cnn.com/2025/06/26/us/fireball-sky-georgia-southeast-us">speculated</a> that a meteor entering Earth’s atmosphere caused widespread sightings of a celestial fireball during daylight hours across the southeast USA. Scientists have now confirmed space rocks caused the phenomenon, citing as evidence a meteorite they found in a resident’s living room.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/mcdonough_meteorite/>
+
+---
+
+## Epic Games has another win over Apple and Google, this time in Australia
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Federal Court finds Big Tech players abused their market power</h4> <p>Australia’s Federal Court has given Epic Games another win in its global fight against the way Apple and Google run their app stores.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/australia_epic_google_apple_decision/>
+
+---
+
+## Crypto-crasher Do Kwon admits guilt over failed not-so-stablecoin that erased $41 billion
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>Tells court &#39;What I did was wrong and I want to apologize for my conduct&#39;</h4> <p>Terraform Labs founder Do Kwon has pled guilty to committing fraud when promoting the so-called &#34;stablecoin&#34; Terra USD and now faces time in jail.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/do_kwon_pleads_guilty/>
+
+---
+
+## Microsoft's Patch Tuesday baker's dozen: 12 critical bugs plus a SharePoint RCE
+
+date: 2025-08-12, updated: 2025-08-12, from: The Register (UK I.T. News)
+
+<h4>None under active exploit…yet</h4> <p>Microsoft’s August Patch Tuesday flaw-fixing festival addresses 111 problems in its products, a dozen of which are deemed critical, and one moderate-severity flaw that is listed as being publicly known.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/12/august_patch_tuesday/>
+
+---
+
+## Curiosity Blog, Sols 4624-4626: A Busy Weekend at the Boxwork
+
+date: 2025-08-12, from: NASA breaking news
+
+Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Aug. 8, 2025 We continue to progress through the boxwork structures, arriving today at the “peace sign” ridges we were aiming for in our last drive. We’re spending the first two sols of the weekend at this location, learning everything we can […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4624-4626-a-busy-weekend-at-the-boxwork/>
 
 ---
 

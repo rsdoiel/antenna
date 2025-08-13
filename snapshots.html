@@ -28,7 +28,173 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-08-12 14:08:56)</p>
+<p>(date: 2025-08-13 06:09:53)</p>
+<hr />
+<h2
+id="lapd-eyes-geospy-an-ai-tool-that-can-geolocate-photos-in-seconds">LAPD
+Eyes ‘GeoSpy’, an AI Tool That Can Geolocate Photos in Seconds</h2>
+<p>date: 2025-08-13, from: 404 Media Group</p>
+<p>Emails obtained by 404 Media show the LAPD was interested in GeoSpy,
+an AI tool that can quickly figure out where a photo was taken.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/lapd-eyes-geospy-an-ai-tool-that-can-geolocate-photos-in-seconds/"
+class="uri">https://www.404media.co/lapd-eyes-geospy-an-ai-tool-that-can-geolocate-photos-in-seconds/</a></p>
+<hr />
+<h2 id="hackification">Hackification</h2>
+<p>date: 2025-08-13, from: Paul Krugman</p>
+<p>Arendt’s Law comes for economic data</p>
+<p><br></p>
+<p><a href="https://paulkrugman.substack.com/p/hackification"
+class="uri">https://paulkrugman.substack.com/p/hackification</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-08-13, from: Tomosino’s Mastodon feed)</p>
+<p>
+Who’s got fun socks? I want some whimsy. Let’s have a fun
+<a href="https://tilde.zone/tags/sock" class="mention hashtag" rel="tag">#<span>sock</span></a>
+share (feet not required)
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/115020895444002223"
+class="uri">https://tilde.zone/@tomasino/115020895444002223</a></p>
+<hr />
+<h2 id="simonwcodespaces-llm">simonw/codespaces-llm</h2>
+<p>date: 2025-08-13, updated: 2025-08-13, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/simonw/codespaces-llm">simonw/codespaces-llm</a></strong>
+</p>
+<a href="https://github.com/features/codespaces">GitHub Codespaces</a>
+provides full development environments in your browser, and is free to
+use with anyone with a GitHub account. Each environment has a full Linux
+container and a browser-based UI using VS Code.
+</p>
+<p>
+I found out today that GitHub Codespaces come with a
+<code>GITHUB_TOKEN</code> environment variable… and that token works as
+an API key for accessing LLMs in the
+<a href="https://docs.github.com/en/github-models">GitHub Models</a>
+collection, which includes
+<a href="https://github.com/marketplace?type=models">dozens of
+models</a> from OpenAI, Microsoft, Mistral, xAI, DeepSeek, Meta and
+more.
+</p>
+<p>
+Anthony Shaw’s
+<a href="https://github.com/tonybaloney/llm-github-models">llm-github-models</a>
+plugin for my <a href="https://llm.datasette.io/">LLM tool</a> allows it
+to talk directly to GitHub Models. I filed
+<a href="https://github.com/tonybaloney/llm-github-models/issues/49">a
+suggestion</a> that it could pick up that <code>GITHUB_TOKEN</code>
+variable automatically and Anthony
+<a href="https://github.com/tonybaloney/llm-github-models/releases/tag/0.18.0">shipped
+v0.18.0</a> with that feature a few hours later.
+</p>
+<p>
+… which means you can now run the following in any Python-enabled
+Codespaces container and get a working <code>llm</code> command:
+</p>
+<pre><code>pip install llm
+llm install llm-github-models
+llm install llm-github-models
+llm models default github/gpt-4.1
+llm "Fun facts about pelicans"
+</code></pre>
+<p>
+Setting the default model to <code>github/gpt-4.1</code> means you get
+free (albeit rate-limited) access to that OpenAI model.
+</p>
+<p>
+To save you from needing to even run that sequence of commands I’ve
+created a new GitHub repository,
+<a href="https://github.com/simonw/codespaces-llm">simonw/codespaces-llm</a>,
+which pre-installs and runs those commands for you.
+</p>
+<p>
+Anyone with a GitHub account can use this URL to launch a new Codespaces
+instance with a configured <code>llm</code> terminal command ready to
+use:
+</p>
+<p>
+<strong><a href="https://codespaces.new/simonw/codespaces-llm?quickstart=1">codespaces.new/simonw/codespaces-llm?quickstart=1</a></strong>
+</p>
+<p>
+<img alt="Screenshot of a GitHub Codespaces VS Code interface showing a README.md file for codespaces-llm repository. The file describes a GitHub Codespaces environment with LLM, Python 3.13, uv and the GitHub Copilot VS Code extension. It has a &quot;Launch Codespace&quot; button. Below shows a terminal tab with the command &quot;llm 'Fun facts about pelicans'&quot; which has generated output listing 5 pelican facts: 1. **Huge Beaks:** about their enormous beaks and throat pouches for scooping fish and water, some over a foot long; 2. **Fishing Technique:** about working together to herd fish into shallow water; 3. **Great Fliers:** about being strong fliers that migrate great distances and soar on thermals; 4. **Buoyant Bodies:** about having air sacs beneath skin and bones making them extra buoyant; 5. **Dive Bombing:** about Brown Pelicans diving dramatically from air into water to catch fish." src="https://static.simonwillison.net/static/2025/codespaces-llm.jpg" />
+</p>
+<p>
+<p>While putting this together I wrote up what I’ve learned about
+devcontainers so far as a TIL:
+<a href="https://til.simonwillison.net/github/codespaces-devcontainers">Configuring
+GitHub Codespaces using devcontainers</a>.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/github&quot;&gt;github&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/til&quot;&gt;til&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/openai&quot;&gt;openai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/github-codespaces&quot;&gt;github-codespaces&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/anthony-shaw&quot;&gt;anthony-shaw&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything"
+class="uri">https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything</a></p>
+<hr />
+<h2 id="keycloak-identity-management">Keycloak: Identity Management</h2>
+<p>date: 2025-08-12, from: Memo Garcia blog</p>
+<p>Implementing authentication from scratch often starts simple but
+quickly escalates into weeks of navigating RFC specifications and
+protocol implementations. Keycloak addresses this complexity by
+providing a comprehensive identity management solution. What is
+Keycloak? Keycloak is an open-source identity and access management
+solution that handles authentication and authorization at enterprise
+scale. Core capabilities include: Single Sign-On (SSO) - Centralized
+authentication across multiple applications User federation -
+Integration with LDAP, Active Directory, and other identity stores
+Identity brokering - Authentication through external providers including
+Google, GitHub, and SAML systems Authorization policies - Fine-grained
+permission management Standard protocols - OAuth 2.</p>
+<p><br></p>
+<p><a href="https://memo.mx/posts/keycloak-identity-management/"
+class="uri">https://memo.mx/posts/keycloak-identity-management/</a></p>
+<hr />
+<h2 id="llms-are-not-like-you-and-meand-never-will-be.">LLMs are not
+like you and me—and never will be.</h2>
+<p>date: 2025-08-12, from: Gary Marcus blog</p>
+<p>Unpacking a popular new example from an AI researcher at Google
+DeepMind</p>
+<p><br></p>
+<p><a
+href="https://garymarcus.substack.com/p/llms-are-not-like-you-and-meand-never"
+class="uri">https://garymarcus.substack.com/p/llms-are-not-like-you-and-meand-never</a></p>
+<hr />
+<h2 id="a-gentle-introduction-to-anchor-positioning">A gentle
+introduction to anchor positioning</h2>
+<p>date: 2025-08-12, from: WebKit blog</p>
+<p>Anchor positioning allows you to place an element on the page based
+on where another element is.</p>
+<p><br></p>
+<p><a
+href="https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/"
+class="uri">https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/</a></p>
+<hr />
+<h2
+id="lilbits-github-loses-its-ceo-arm-to-add-neural-accelerators-to-gpus-and-kubuntu-focus-launches-a-big-powerful-linux-laptop">Lilbits:
+GitHub loses its CEO, ARM to add neural accelerators to GPUs, and
+Kubuntu Focus launches a big, powerful Linux laptop</h2>
+<p>date: 2025-08-12, from: Liliputing</p>
+<p>
+The Kubuntu Focus line of laptops have been around for a few years at
+this point, offering customers a way to buy a laptop or mini PCthat
+comes with Kubuntu pre-installed while financially supporting
+development of the operating system that brings together Ubuntu Linux
+and the KDE Plasma desktop environment. But the new Kubuntu Focus Zr […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lilbits-github-loses-its-ceo-arm-to-add-neural-accelerators-to-gpus-and-kubuntu-focus-launches-a-big-powerful-linux-laptop/">Lilbits:
+GitHub loses its CEO, ARM to add neural accelerators to GPUs, and
+Kubuntu Focus launches a big, powerful Linux laptop</a> appeared first
+on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lilbits-github-loses-its-ceo-arm-to-add-neural-accelerators-to-gpus-and-kubuntu-focus-launches-a-big-powerful-linux-laptop/"
+class="uri">https://liliputing.com/lilbits-github-loses-its-ceo-arm-to-add-neural-accelerators-to-gpus-and-kubuntu-focus-launches-a-big-powerful-linux-laptop/</a></p>
 <hr />
 <h2
 id="keygo-is-a-slim-keyboard-with-an-integrated-12.8-inch-touchscreen-display-crowdfunding">KeyGo
@@ -526,6 +692,14 @@ their dial-up service forever. But it would sure be nice.</p>
 <p><a
 href="https://feed.tedium.co/link/15204/17118160/aol-dial-up-ending-retrospective"
 class="uri">https://feed.tedium.co/link/15204/17118160/aol-dial-up-ending-retrospective</a></p>
+<hr />
+<h2 id="go-1.25-is-released">Go 1.25 is released</h2>
+<p>date: 2025-08-12, updated: 2025-08-12, from: Go language blog</p>
+<p>Go 1.25 adds container-aware GOMAXPROCS, testing/synctest package,
+experimental GC, experimental encoding/json/v2, and more.</p>
+<p><br></p>
+<p><a href="https://go.dev/blog/go1.25"
+class="uri">https://go.dev/blog/go1.25</a></p>
 <hr />
 <h2
 id="llm-0.27-the-annotated-release-notes-gpt-5-and-improved-tool-calling">LLM

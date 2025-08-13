@@ -1,11 +1,332 @@
 ---
 title: planet
-updated: 2025-08-12 14:08:44
+updated: 2025-08-13 06:09:45
 ---
 
 # planet
 
-(date: 2025-08-12 14:08:44)
+(date: 2025-08-13 06:09:45)
+
+---
+
+## Robinson accuses Israel of 'nonsense', 'malicious lying'
+
+date: 2025-08-13, from: RTÉ News
+
+Former President Mary Robinson has condemned what she called "ridiculous", "nonsense" and "malicious lying" regarding Israeli claims that it is ready to distribute aid into Gaza. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0813/1528254-robinson-gaza/>
+
+---
+
+## Heatwave possible but unlikely, says Met Éireann
+
+date: 2025-08-13, from: RTÉ News
+
+A heatwave is possible in Ireland this week, although cooler temperatures may prevent conditions reaching that threshold, Met Éireann has said. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0813/1528245-ireland-weather/>
+
+---
+
+## Call for cherry laurel to be on invasive species list
+
+date: 2025-08-13, from: RTÉ News
+
+A charity's report has warned that "fast-growing" cherry laurel needs to be "urgently" added to Ireland's list of invasive species. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0813/1528237-cherry-laurel-invasive/>
+
+---
+
+## World Children’s Day Committee moves to Dicastery for Laity, Family,  Life
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Pope Leo XIV issues a rescript on Wednesday effectively placing within the Dicastery for Laity, Family and Life the Pontifical Committee that Pope Francis had established organizing events dedicated to children.
+</p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/dicastery-laity-family-life-pontifical-committee-world-children.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/dicastery-laity-family-life-pontifical-committee-world-children.html>
+
+---
+
+## Musk calls Altman a 'liar', threatens to sue Apple
+
+date: 2025-08-13, from: RTÉ News
+
+Elon Musk has accused Apple of unfairly favouring ChatGPT on its App Store and threatened legal action, triggering a fiery exchange with OpenAI CEO Sam Altman. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0813/1528233-musk-calls-altman-a-liar-threatens-to-sue-apple/>
+
+---
+
+## Man remanded over murder, attempted murder in Downpatrick
+
+date: 2025-08-13, from: RTÉ News
+
+A 30-year-old man was remanded in custody charged with the murder of Stephen Brannigan and the attempted murder of a priest in Downpatrick on Sunday. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0813/1528231-hugh-malone-court/>
+
+---
+
+## Evacuations as wildfires rage in Greece, Spain
+
+date: 2025-08-13, from: RTÉ News
+
+Thousands of people have been evacuated as wildfires continue to rage across parts of Greece and Spain, as high temperatures and strong winds create difficult conditions for firefighters. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0813/1528216-europe-weather/>
+
+---
+
+## Israel steps up Gaza attacks, 123 reported in 24 hours
+
+date: 2025-08-13, from: RTÉ News
+
+Israel's military pounded Gaza City prior to a planned takeover, with another 123 people killed in the last day, according to the Gaza health ministry, while Hamas held further talks with Egyptian mediators. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0813/1528215-israel-gaza/>
+
+---
+
+## Man, 20s, dies in swimming accident in Co Kerry
+
+date: 2025-08-13, from: RTÉ News
+
+A man in his 20s has died following a swimming accident in a river in Co Kerry. 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0813/1528210-killarney-death/>
+
+---
+
+## South African Pilgrims make historic mission in the heart of Rome
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>In a stirring display of faith and evangelization, South African pilgrims, this past week were in the Eternal City. As part of a larger international mission, pilgrims from South Africa led a powerful procession and public testimony event in the very heart of Rome—culminating in a never-before-seen moment on the iconic Spanish Steps.</p>
+                    <p><a href="https://www.vaticannews.va/en/africa/news/2025-08/south-african-pilgrims-make-historic-mission-in-the-heart-of-rom.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/africa/news/2025-08/south-african-pilgrims-make-historic-mission-in-the-heart-of-rom.html>
+
+---
+
+## 'Biosecurity alert' after Asian hornet captured in Cork
+
+date: 2025-08-13, from: RTÉ News
+
+The National Parks and Wildlife Service has confirmed a recent sighting and capture of an Asian hornet in the Cork area marking a "biosecurity alert for Ireland". 
+
+<br> 
+
+<https://www.rte.ie/news/munster/2025/0813/1528213-hornet-cork/>
+
+---
+
+## Pope at Audience: Sincere sorrow can open door to conversion and joy
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>During his weekly General Audience, Pope Leo XIV urges the faithful to recall that we are God's beloved children embraced by His forgiving love, explaining that sincerely seeking conversion helps us journey toward salvation despite our fragility.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-at-general-audience-13-august-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-at-general-audience-13-august-2025.html>
+
+---
+
+## Church groups continue to serve in the Middle East despite US funding cuts
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Despite deep cuts to the United States' foreign aid funding, Catholic aid organizations are working to continue providing humanitarian aid to communities in need throughout the Middle East.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/cnewa-church-aid-serving-middle-east-despite-usaid-funding-cuts.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/cnewa-church-aid-serving-middle-east-despite-usaid-funding-cuts.html>
+
+---
+
+## Holy See outlines peacebuilding role at Chilean congress
+
+date: 2025-08-13, from: Vatican News
+
+
+                    <p>Cardinal George Koovakad, Prefect of the Vatican's Dicastery for Interreligious Dialogue, addresses a congress on peacebuikding, highlighting the Holy See's efforts, throughout the years, to promote a culture of peace and encounter. </p>
+                    <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-08/holy-see-outlines-peacebuilding-role-at-chilean-congress.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/vatican-city/news/2025-08/holy-see-outlines-peacebuilding-role-at-chilean-congress.html>
+
+---
+
+## Donohoe defends Tánaiste amid call for him to resign
+
+date: 2025-08-13, from: RTÉ News
+
+The Minister for Finance has defended Tánaiste Simon Harris amid a call for him to resign over the handling of the case of Harvey Morrison Sherratt. 
+
+<br> 
+
+<https://www.rte.ie/news/politics/2025/0813/1528177-harvey-morrison-sherratt/>
+
+---
+
+## Mexico has now transferred over 50 drug cartel suspects to U.S. this year
+
+date: 2025-08-13, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7607576.1755082492!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mexico-us-drugs.jpg' alt='A balding man with a goattee is shown handcuffed and leaned over, seated in a vehicle.' width='620' height='349' title='Mexican federal police escort Servando (Tuta) Gomez,&quot; alleged leader of the Knights Templar cartel, in Mexico City on Feb. 27, 2015. Gomez was one of several alleged criminals transferred to the U.S. in a deal announced Tuesday.'/><p>Mexico sent more than two dozen suspected cartel members to the U.S. on Tuesday, amid rising pressure from President Donald Trump to dismantle the country's powerful drug organizations.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/us-mexico-cartel-extraditions-1.7607569?cmp=rss>
+
+---
+
+## 'Unsafe attitudes' to rugby concussion injuries - study
+
+date: 2025-08-13, from: RTÉ News
+
+More than a third of school rugby players say they would play on in a game if they were concussed, according to a new study. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0813/1528183-rugby-concussion/>
+
+---
+
+## US indicts Haitian gang leader for sanctions violations
+
+date: 2025-08-13, from: RTÉ News
+
+The United States has announced criminal charges against Haitian gang leader and former police officer Jimmy 'Barbeque' Cherizier and a North Carolina man for conspiring to violate US sanctions. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0813/1528179-us-haiti/>
+
+---
+
+## Flights cancelled as Typhoon Podul hits southern Taiwan
+
+date: 2025-08-13, from: RTÉ News
+
+Typhoon Podul has pounded Taiwan, with gusts of up to 178km/h, shutting down businesses in the south, grounding hundreds of flights and knocking out power for tens of thousands of households. 
+
+<br> 
+
+<https://www.rte.ie/news/asia/2025/0813/1528176-typhoon-podul/>
+
+---
+
+## US denounces Europe in scaled back rights report
+
+date: 2025-08-13, from: RTÉ News
+
+US President Donald Trump's administration has scaled back a key US government report on human rights worldwide, dramatically softening criticism of some countries, such as El Salvador, that have been strong partners of the Republican president. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0813/1528172-us-rights-report/>
+
+---
+
+## Limerick student on track with transport-inspired knits
+
+date: 2025-08-13, from: RTÉ News
+
+A PhD student from Limerick says nostalgia is driving a wave of interest in her unusual range of knitted accessories. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0813/1528097-limerick-knitting/>
+
+---
+
+## Warning that tourism in Ireland at 'tipping point'
+
+date: 2025-08-13, from: RTÉ News
+
+The Irish Tourism Industry Confederation is calling for the lifting of the Dublin Airport passenger cap, increased Government spending, as well as the restoration of the 9% hospitality VAT rate in order to boost tourism in the country, which it said is at a "tipping point". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0813/1528150-itic-tourism/>
+
+---
+
+## Putin, Kim vow stronger ties ahead of US-Russia summit
+
+date: 2025-08-13, from: RTÉ News
+
+Russian President Vladimir Putin and North Korea's leader Kim Jong Un have vowed to strengthen cooperation, days ahead of Putin's summit in Alaska with Donald Trump, Pyongyang's state media reported. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0813/1528170-russia-korea-ukraine/>
+
+---
+
+## European leaders are 'great people', says Trump
+
+date: 2025-08-13, from: RTÉ News
+
+US President Donald Trump has praised European leaders as "great people" ahead of talks in Berlin on ending the war in Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0813/1528169-ukraine-russia/>
+
+---
+
+## Mexico transfers 26 more cartel members to US
+
+date: 2025-08-13, from: RTÉ News
+
+Mexico has sent more than two dozen suspected cartel members to the US, amid rising pressure from President Donald Trump on Mexico to dismantle the country's powerful drug organisations. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0813/1528168-us-mexico-extradition/>
 
 ---
 
@@ -42,6 +363,18 @@ Prosecutors in Lebanon have formally lodged an appeal against the sentences hand
 <br> 
 
 <https://www.rte.ie/news/2025/0812/1528144-sean-rooney/>
+
+---
+
+## Video appears to show moment Palestinian activist was killed in West Bank as Israeli settler fires gun
+
+date: 2025-08-12, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7607286.1755030885!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians.jpg' alt='Mourners carry the body of a Palestinian activist during his funeral. The body is wrapped in a red blanket.' width='620' height='349' title='Mourners carry the body of Palestinian activist Awdah Al Hathaleen, who was killed by Israeli settler according to Palestinian health officials, during his funeral in the West Bank Bedouin village of Umm al-Khair on Aug. 7, 2025.'/><p>New video footage appears to show the moment a Palestinian activist was killed as an Israeli settler fired toward him during a confrontation with unarmed Palestinians in the occupied West Bank last month.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/awdah-hathaleen-death-video-1.7607272?cmp=rss>
 
 ---
 
@@ -145,7 +478,7 @@ Batches of three different goats cheese products have been recalled by the Food 
 
 date: 2025-08-12, from: CBC, World News
 
-<img src='https://i.cbc.ca/ais/8d6bfd44-38d8-4664-bc69-a567d5693342,1755028461387/full/max/0/default.jpg?im=Crop%2Crect%3D%285%2C0%2C3705%2C2084%29%3BResize%3D%28620%29' alt='Smoke rises as a wildfire burns in Buljarica, Montenegro.' width='620' height='349' title='Smoke rises as a wildfire burns in Buljarica, Montenegro, August 12, 2025, in this screen grab obtained from a social media video. Goran Jovanovic/via REUTERS  THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. NO RESALES. NO ARCHIVES.  Verification: -Location and date verified by original file metadata from the source.'/><p></p> 
+<img src='https://i.cbc.ca/ais/501dedd6-6c4e-4765-a4f6-ad7bfd102fc5,1755026625263/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A person in safety gear aims a hose towards a field on fire.' width='620' height='349' title='A firefighter works to extinguish a wildfire in San Cibrao das Viñas, outside Ourense, northwestern Spain, on August 12, 2025.'/><p></p> 
 
 <br> 
 
@@ -249,18 +582,6 @@ Northern Ireland is "absolutely crucial" for the UK's growth prospects, the Brit
 
 ---
 
-## Madonna, U2 speak out on the humanitarian crisis in Gaza
-
-date: 2025-08-12, from: CBC, World News
-
-<img src='https://i.cbc.ca/1.7606859.1755016730!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2213828432.jpg' alt='An older blonde haired woman is shown in closeup wearing a white outfit.' width='620' height='349' title='NEW YORK, NEW YORK - MAY 05: Madonna attends the 2025 Met Gala Celebrating &quot;Superfine: Tailoring Black Style&quot; at Metropolitan Museum of Art on May 05, 2025 in New York City. '/><p>Madonna and U2 have each shone attention on the humanitarian crisis in Gaza, among the biggest music stars to do so since the war in the Palestinian enclave began in late 2023 after Hamas's deadly rampage in Israel.</p> 
-
-<br> 
-
-<https://www.cbc.ca/news/entertainment/madonna-u2-gaza-1.7606703?cmp=rss>
-
----
-
 ## Rose of Tralee a 'reminder of good things in the world'
 
 date: 2025-08-12, from: RTÉ News
@@ -335,7 +656,7 @@ The United Nations continues to draw attention to the dire humanitarian situatio
 
 ## The world has the tools to end Haiti’s crisis – it’s time to use them
 
-date: 2025-08-12, from: United Nations, UN Affairs
+date: 2025-08-12, from: United Nations, Top Stories
 
 During her final briefing as resident and humanitarian coordinator for Haiti, Ulrika Richardson struggled to describe the realities of life in Haiti.&nbsp; 
 
@@ -402,6 +723,30 @@ UN-mandated independent investigators have uncovered “systematic torture” in
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165630>
+
+---
+
+## Celebrating youth: ‘When young people take the lead, everyone gains’
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+Colourful blocks for stacking or perhaps an abacus for counting – these are the sorts of tactile objects one might expect to see in a kindergarten classroom.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165638>
+
+---
+
+## Sudan: UN ‘deeply alarmed’ by major attack on besieged El Fasher
+
+date: 2025-08-12, from: United Nations, Top Stories
+
+The UN has expressed deep alarm over a large-scale assault by the Rapid Support Forces (RSF) militia on El Fasher, the government-held capital of Sudan’s North Darfur State, and the nearby Abu Shouk displacement camp, which has been under siege since April 2024.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165637>
 
 ---
 
@@ -583,7 +928,7 @@ date: 2025-08-12, from: Vatican News
 
 date: 2025-08-12, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.5725094.1754946345!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bud-sparrow.jpg' alt='A man wearing a flannel poses for a photo in front of a boat.' width='620' height='349' title='Bud Sparrow was the defendant in the now-renowned &apos;Sparrow case,&apos; which was decided by the Supreme Court of Canada in 1990.'/><p>As Canada weathers economic uncertainty due to tariffs, Indigenous people across the country are asserting their rights and title. The Sparrow decision in B.C. is a Supreme Court ruling that had an impact across Canada, including a M'ikmaw rights case in Nova Scotia.</p> 
+<img src='https://i.cbc.ca/1.5725094.1754946345!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bud-sparrow.jpg' alt='A man wearing a flannel poses for a photo in front of a boat.' width='620' height='349' title='Bud Sparrow was the defendant in the now-renowned &apos;Sparrow case,&apos; which was decided by the Supreme Court of Canada in 1990.'/><p>As Canada weathers economic uncertainty due to tariffs, Indigenous people across the country are asserting their rights and title. The Sparrow decision in B.C. is a Supreme Court ruling that had an impact across Canada, including a Mi'kmaw rights case in Nova Scotia.</p> 
 
 <br> 
 
@@ -1697,7 +2042,7 @@ It is essential to work towards a two-State solution to the Israel-Palestine con
 
 ## From crisis to cultivation: Haiti’s farmers build resilience one seed at a time
 
-date: 2025-08-10, from: United Nations, Economic Development
+date: 2025-08-10, from: United Nations, Top Stories
 
 For years, low-quality seeds have been a concern in Haiti, with continual climate shocks and political insecurity adding to the existing challenges that farmers face in their attempts to grow food.&nbsp; 
 

@@ -1,11 +1,63 @@
 ---
 title: journalism
-updated: 2025-08-12 14:08:51
+updated: 2025-08-13 06:09:49
 ---
 
 # journalism
 
-(date: 2025-08-12 14:08:51)
+(date: 2025-08-13 06:09:49)
+
+---
+
+## Mani Bhaumik funds new postdoctoral fellowship, increases intellection freedom
+
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Aug. 12 at 9:23 p.m.</em>
+Amid the federal government’s freeze of over $500 million of UCLA’s research funding, Mani Bhaumik hopes to support postdoctoral candidates who want to continue researching at UCLA with a new fellowship. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/12/mani-bhaumik-funds-new-postdoctoral-fellowship-increases-intellection-freedom/>
+
+---
+
+## Noodle St. joins list of business chains opening Westwood locations
+
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Noodle St., a California-based restaurant chain started by Chinese immigrants in 2017, has opened a location on Weyburn Avenue.
+The Westwood location features an open kitchen that allows customers to watch the chefs pull, cut and shape the noodles that are served. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/12/noodle-st-joins-list-of-business-chains-opening-westwood-locations/>
+
+---
+
+## Judge orders Trump administration to restore some of UCLA’s frozen research grants
+
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Trump administration must restore over a third of the research grants it froze from UCLA, a federal judge ordered Tuesday.
+Rita F. Lin, a California district court judge, issued a preliminary injunction in June in response to a lawsuit filed by UC researchers which contested the legality of the National Science Foundation cutting 114 UC research grants on the basis of alleged diversity, equity and inclusion violations. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/12/judge-orders-trump-administration-to-restore-some-of-uclas-frozen-research-grants/>
+
+---
+
+## Album review: Hayden Silas Anhedönia parts with Ethel Cain in gut-wrenching new album
+
+date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ethel Cain has left listeners with a gut-wrenching goodbye.
+“Willoughby Tucker, I’ll Always Love You,” the 27-year-old singer-songwriter’s latest studio album, was released Aug. 8 and features 10 heartbreakingly beautiful songs. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/12/album-review-hayden-silas-anhednia-parts-with-ethel-cain-in-gut-wrenching-new-album/>
 
 ---
 
@@ -146,8 +198,9 @@ Although the festival grounds were significantly foggier than they were on Frida
 
 date: 2025-08-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCPD arrested a man who stole posters of prominent Black figures from Haines Hall while carrying multiple weapons, including a stun gun, on campus Saturday.&#160;
-The suspect was arrested for burglary, the unauthorized possession of a university key to a public building, possession of stolen property and burglary tools and possession of a stun gun on university property, Jeffrey Chobanian, the acting captain of the UCPD administrative and operations bureau, said in an emailed statement. 
+<em>This post was updated Aug. 12 at 6:43 p.m.</em>
+UCPD arrested a man who allegedly stole posters of prominent Black figures from Haines Hall while carrying multiple weapons, including a stun gun, on campus Saturday.&#160;
+Brian Royal-Rubin, 37, was charged Tuesday with felony burglary, the violation of civil rights, the possession of a weapon at a university and a hate crime enhancement Jeffrey Chobanian, the acting captain of the UCPD administrative and operations bureau, said in an emailed statement. 
 
 <br> 
 

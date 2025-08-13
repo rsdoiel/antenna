@@ -1,40 +1,17 @@
 ---
 title: columns
-updated: 2025-08-12 14:08:49
+updated: 2025-08-13 06:09:48
 ---
 
 # columns
 
-(date: 2025-08-12 14:08:49)
-
----
-
-## Reverse Engineering the Raspberry Pi Zero 2W
-
-date: 2025-08-12, from: Jeff Geerling blog
-
-<span class="field field--name-title field--type-string field--label-hidden">Reverse Engineering the Raspberry Pi Zero 2W</span>
-
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/jonathan-clark-pico-zero-2w-full.jpeg" width="700" height="467" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-1cf49e23-2f1e-4fe4-8cff-f08ba9fe2c55" data-insert-attach="{&quot;id&quot;:&quot;1cf49e23-2f1e-4fe4-8cff-f08ba9fe2c55&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi not Pico by Jonathan Clark"></p>
-
-<p>This is not a Raspberry Pi Pico. Despite it's tiny size and castellated edges, this is <em>actually</em> a full Raspberry Pi Zero 2W.</p>
-
-<p>Well, sorta. At Open Sauce, probably the most interesting encounter I had was with <a href="http://jonathanclark.dev/">Jonathan Clark</a>.</p>
-
-<p>You see, I was on a Reverse Engineering panel at Open Sauce, but <a href="https://x.com/geerlingguy/status/1945207387914178562">I mentioned on Twitter</a>, I wouldn't call myself a reverse engineer, more like a 'guy who breaks things sometimes taking them apart, and learns many ways to not break things, sometimes.'</p></div>
-      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-12T16:00:29-05:00" title="Tuesday, August 12, 2025 - 16:00" class="datetime">August 12, 2025</time>
-</span> 
-
-<br> 
-
-<https://www.jeffgeerling.com/blog/2025/reverse-engineering-raspberry-pi-zero-2w>
+(date: 2025-08-13 06:09:48)
 
 ---
 
 ## 2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)
 
-date: 2025-08-12, from: Alex Schroeder's Blog
+date: 2025-08-13, from: Alex Schroeder's Blog
 
 <h1 id="2025-08-11-upgrading-debian-bookworm-12-to-trixie-13">2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)</h1>
 
@@ -192,11 +169,226 @@ Failed to disable unit: Unit localsearch-3.service does not exist
 
 <p>Perhaps it&rsquo;s that first file. But how to disable <em>that</em>?</p>
 
-<p>Ah, I am not alone. With that info I found <a href="https://bbs.archlinux.org/viewtopic.php?id=299586">a discussion on the Arch Linux forum</a> with various strategies being discussed. I will try to change the <code>X-GNOME-Autostart-enabled</code> line to <code>false</code> and see whether that helps. And while I am at it, I will also change <code>X-GNOME-HiddenUnderSystemd</code> to <code>false</code>.</p> 
+<p>Ah, I am not alone. With that info I found <a href="https://bbs.archlinux.org/viewtopic.php?id=299586">a discussion on the Arch Linux forum</a> with various strategies being discussed. I will try to change the <code>X-GNOME-Autostart-enabled</code> line to <code>false</code> and see whether that helps. And while I am at it, I will also change <code>X-GNOME-HiddenUnderSystemd</code> to <code>false</code>.</p>
+
+<p><strong>2025-08-13</strong>. Oh, and I can no longer edit remote files with my Emacs at home. It just hangs there and waits for the prompt or something, I guess.</p>
+
+<p><strong>2025-08-13</strong>. Oh, and that annoying Gnome keyring? <a href="https://www.xmodulo.com/disable-gnome-keyring-linux-desktop.html">How to disable GNOME Keyring on GNOME desktop</a> by Dan Nanni suggests to copy the <code>gnome-keyring-*.desktop</code> files from <code>/etc/xdg/autostart</code> to <code>~/.config/autostart</code> and append the line <code>X-GNOME-Autostart-enabled=false</code> to each one.</p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-08-11-debian-trixie>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-13, from: Dave Winer's Scripting News)
+
+The future very much includes WordPress. It'll be as central a service as Mastodon or Bluesky. 
+
+<br> 
+
+<http://scripting.com/2025/08/13.html#a125032>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/08/13/clarus.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you're trying to read any of my <a href="https://github.com/scripting?tab=repositories">code</a> via GitHub, make sure to open <a href="https://github.com/scripting/feedlandSocket/blob/main/source.opml">source.opml</a> in <a href="http://drummer.land/">Drummer</a>, there are a lot of notes that don't make it through to the .js and .css files. I don't think I've ever said that on the blog before. I write my code in an outliner, and take advantage of its ability to collapse long comments into a single line. There are whole blogs at the top of some functions, notes about all the big changes in code, sometimes over years, and sometimes even decades of maintenance.  There's a <a href="https://github.com/scripting/reallysimple/blob/main/source.opml">source.opml</a> in most of the repos with a big comment at the top explaining what's going on. Also, most projects have a <a href="https://github.com/scripting/reallysimple/blob/main/worknotes.md">worknotes.md</a> file, and where there are dates in the source code, the refer back to dates in the worknotes.md file. Not always, but most of the time. Some of the code is very complex, I work really hard to make it simple so it can be worked on, but in some cases it's impossible to make it read casually. But it's all there, all the tools I use to write the code. 
+
+<br> 
+
+<http://scripting.com/2025/08/13.html#a123330>
+
+---
+
+## Wednesday 13 August, 2025
+
+date: 2025-08-13, from: John Naughton's online diary
+
+Commuters From Paul Day’s frieze in St Pancras Station in London. Quote of the Day ”Every civilization that has ever existed has ultimately collapsed. History is a tale of efforts that failed, or aspirations that weren’t realized. So, as a &#8230; <a href="https://memex.naughtons.org/wednesday-13-august-2025/41103/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-13-august-2025/41103/>
+
+---
+
+## SIGINT During World War II
+
+date: 2025-08-13, updated: 2025-08-07, from: Bruce Schneier blog
+
+<p>The NSA and GCHQ have jointly published a history of World War II SIGINT: &#8220;<a href="https://media.defense.gov/2025/Jul/25/2003761271/-1/-1/0/SECRET_MESSENGERS.PDF">Secret Messengers: Disseminating SIGINT in the Second World War</a>.&#8221; This is the story of the British SLUs (Special Liaison Units) and the American SSOs (Special Security Officers).</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/sigint-during-world-war-ii.html>
+
+---
+
+## Some users report their Firefox browser is scoffing CPU power
+
+date: 2025-08-13, updated: 2025-08-13, from: Liam Proven's articles at the Register
+
+<h4>You guessed it: looks like it&#39;s a so-called AI</h4>
+      <p>People are noticing Firefox gobbling extra CPU and electricity, apparently caused by an &#34;inference engine&#34; built into recent versions of Firefox. Don&#39;t say El Reg didn&#39;t try to warn you.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/13/firefox_ai_scoffing_power/>
+
+---
+
+## Office Hours: America and its president in 2035?
+
+date: 2025-08-13, from: Robert Reich's blog
+
+Possible scenarios 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-america-and-its-president>
+
+---
+
+## A hierarchy of liberty
+
+date: 2025-08-13, from: Tracy Durnell Blog
+
+In On Freedom, Timothy Snyder deconstructs liberty into positive and negative liberty. Negative liberty is defensive, assuming that things are blocking you from liberty, and when they are cleared away, you are free. This is the version of liberty embraced by libertarian Americans, who see government as getting in their way. Socialist Americans lean on the side [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/08/12/a-hierarchy-of-liberty/>
+
+---
+
+## August 12, 2025 
+
+date: 2025-08-13, from: Heather Cox Richardson blog
+
+Liberal commentator Jessica Tarlov nailed it this morning when she wrote: &#8220;He&#8217;s doing everything EXCEPT releasing the Epstein files.&#8221; Her comment was in reference to President Donald Trump&#8217;s social media post of 7:30 this morning, when he chummed the water by suggesting that the John F. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-12-2025>
+
+---
+
+## The trial run
+
+date: 2025-08-13, from: Robert Reich's blog
+
+Trump&#8217;s occupation of Washington, D.C. 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-trial-run>
+
+---
+
+##  At 40, She Discovered She Was One of America&#8217;s Best Free Divers.... 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047324-at-40-she-discovered-she>
+
+---
+
+## Note published on August 13, 2025 at 12:18 AM UTC
+
+date: 2025-08-13, updated: 2025-08-13, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/micro/entry/202508122015>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Enjoying my last few bottles of European wines before I am forced to drown my sorrows in American cleaning supplies:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115018524860229131>
+
+---
+
+## Cassette 1.0
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://thecassetteapp.com/>
+
+---
+
+##  If you&#8217;re still back-to-school (or racing-the-tariffs) shopping, these M4 Macbook Airs are... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047330-if-youre-still-back-to-sc>
+
+---
+
+## Perplexity Made an Offer to Buy TikTok — Well, Half of TikTok — Back in January
+
+date: 2025-08-12, updated: 2025-08-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://apnews.com/article/tiktok-bytedance-trump-perplexity-87988733973760927bb5681f7de9b9af>
+
+---
+
+## Reverse Engineering the Raspberry Pi Zero 2W
+
+date: 2025-08-12, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Reverse Engineering the Raspberry Pi Zero 2W</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/jonathan-clark-pico-zero-2w-full.jpeg" width="700" height="467" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-1cf49e23-2f1e-4fe4-8cff-f08ba9fe2c55" data-insert-attach="{&quot;id&quot;:&quot;1cf49e23-2f1e-4fe4-8cff-f08ba9fe2c55&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi not Pico by Jonathan Clark"></p>
+
+<p>This is not a Raspberry Pi Pico. Despite it's tiny size and castellated edges, this is <em>actually</em> a full Raspberry Pi Zero 2W.</p>
+
+<p>Well, sorta. At Open Sauce, probably the most interesting encounter I had was with <a href="http://jonathanclark.dev/">Jonathan Clark</a>.</p>
+
+<p>You see, I was on a Reverse Engineering panel at Open Sauce, but <a href="https://x.com/geerlingguy/status/1945207387914178562">I mentioned on Twitter</a>, I wouldn't call myself a reverse engineer, more like a 'guy who breaks things sometimes taking them apart, and learns many ways to not break things, sometimes.'</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-12T16:00:29-05:00" title="Tuesday, August 12, 2025 - 16:00" class="datetime">August 12, 2025</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/reverse-engineering-raspberry-pi-zero-2w>
+
+---
+
+##  Car and plane travel from Canada to the US has dropped sharply... 
+
+date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047328-car-and-plane-travel-from>
 
 ---
 
@@ -275,11 +467,11 @@ date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
 
 ---
 
-## Trump's political hack nominee for the Bureau of Labor Statistics is already monkeying with the data. 
+## Trump’s political hack nominee for the Bureau of Labor Statistics is already monkeying with the data. 
 
 date: 2025-08-12, from: Robert Reich's blog
 
-The Senate mustn't confirm him 
+The Senate mustn&#8217;t confirm him 
 
 <br> 
 
@@ -346,6 +538,18 @@ date: 2025-08-12, updated: 2025-08-12, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/08/the-boston-globes-prescient-2016-view-of-our-trumpist-future>
+
+---
+
+## Not drowning in the RSS firehose
+
+date: 2025-08-12, updated: 2025-08-12, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/micro/entry/202508121200>
 
 ---
 
@@ -671,6 +875,18 @@ date: 2025-08-11, updated: 2025-08-11, from: Daring Fireball
 <br> 
 
 <https://truthsocial.com/@realDonaldTrump/posts/114987288040725570>
+
+---
+
+## Note published on August 11, 2025 at 10:11 PM UTC
+
+date: 2025-08-11, updated: 2025-08-11, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/micro/entry/202508111809>
 
 ---
 

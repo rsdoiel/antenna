@@ -1,11 +1,87 @@
 ---
 title: north america
-updated: 2025-08-12 14:08:45
+updated: 2025-08-13 06:09:46
 ---
 
 # north america
 
-(date: 2025-08-12 14:08:45)
+(date: 2025-08-13 06:09:46)
+
+---
+
+## What We Make of Trump's Fascist Takeover of D.C. Policing
+
+date: 2025-08-13, from: The Contrarian
+
+...and why it matters far beyond the city limits. 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-we-make-of-trumps-fascist-takeover>
+
+---
+
+## Evening Roundup, August 12
+
+date: 2025-08-12, from: The Contrarian
+
+Featuring Meredith Blake, Michael Beckel, Nick Anderson, Josh Levs, Brian O'Neill, Tom Sherwood, The Contrarian podcast, & The Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-12>
+
+---
+
+##  Trump’s Invasion Of D.C. Started On K Street 
+
+date: 2025-08-12, from: The Lever News
+
+ Before the president seized control of Washington, D.C.’s police, corporate lobbyists posed as local businesses to drum up panic about local crime.  
+
+<br> 
+
+<https://www.levernews.com/trumps-invasion-of-d-c-started-on-k-street/>
+
+---
+
+## When Ms. Rachel Talks, Parents Listen 
+
+date: 2025-08-12, from: The Contrarian
+
+The YouTube star popular with preschoolers has been speaking up about the suffering of children in Gaza. The message is resonating with her grown-up fans. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-ms-rachel-talks-parents-listen>
+
+---
+
+## Political corruption erodes democracy: Michael Beckel on dark money & graft in politics
+
+date: 2025-08-12, from: The Contrarian
+
+"This administration feels like a powder keg of corruption scandals waiting to explode." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170794046/535ef9227f2ce0b8ec72927075861631.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170794046/535ef9227f2ce0b8ec72927075861631.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/political-corruption-erodes-democracy>
+
+---
+
+## Voting rights are under attack with Rick Hasen & Collin Allred
+
+date: 2025-08-12, from: The Contrarian
+
+Listen now | "When you look over history at where the power has been to expand voting rights, it's not been through the courts, it's been through the people." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/170823021/91ff63f1e13f0a2f4e9f69950f08351a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/170823021/91ff63f1e13f0a2f4e9f69950f08351a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/voting-rights-are-under-attack-with>
 
 ---
 

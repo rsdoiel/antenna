@@ -1,11 +1,167 @@
 ---
 title: socal north
-updated: 2025-08-12 14:08:46
+updated: 2025-08-13 06:09:46
 ---
 
 # socal north
 
-(date: 2025-08-12 14:08:46)
+(date: 2025-08-13 06:09:46)
+
+---
+
+## To help more unhoused patients, LA street medics push to change state law
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Street medicine providers say the bill would cut red tape in state health insurance plans and allow them to provide wheelchairs and other medical help more quickly. 
+
+<br> 
+
+<https://laist.com/news/health/street-medicine-homeless-california-law-medicaid>
+
+---
+
+## How to get your child a seat on an LAUSD bus
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+School buses drive to and from about 90% of Los Angeles Unified schools, but less than 10% of students are onboard. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-los-angeles-school-bus-transportation-signup>
+
+---
+
+## Culver City meets Venice at Ciclavia this weekend. Here's 7 spots to eat, drink and refresh
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+From square pan pizzas to Oaxacan tlayudas and ceviche on the beach, we've rounded up a few of our favorite spots. 
+
+<br> 
+
+<https://laist.com/news/food/biking-down-venice-boulevard-to-the-beach-for-ciclavia-this-weekend-7-places-to-eat-and-drink-along-the-route>
+
+---
+
+## Trump official tells census workers Congress has final say over the count, not Trump
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Days after the president's call for a "new" census, the top official overseeing the Census Bureau told employees that Congress, not Trump, has final say over the tally, NPR has exclusively learned. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-official-tells-census-workers-congress-has-final-say-over-the-count-not-trump>
+
+---
+
+## LA City Councilmember Curren Price faces two more corruption charges. Here's what we know
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+The L.A. County District Attorny said in a statement Tuesday that prosecutors filed the charges after uncovering evidence of alleged corruption. 
+
+<br> 
+
+<https://laist.com/news/politics/la-councilmember-price-more-corruption-charges>
+
+---
+
+## Federal judge orders Trump administration to restore hundreds of UCLA research grants
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+University of California attorneys argued the suspensions were arbitrary and capricious. 
+
+<br> 
+
+<https://laist.com/news/education/judge-orders-trump-administration-to-restore-hundreds-of-ucla-research-grants>
+
+---
+
+## Orange County supervisors revise their ethics code in wake of corruption scandal — but does it go far enough?
+
+date: 2025-08-12, updated: 2025-08-13, from: The LAist
+
+The Orange County Board of Supervisors voted to adopt the changes just days before one of their own — ex-Supervisor Andrew Do — is slated to start a five-year prison term on a federal bribery charge. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-supervisors-ethics-code-vote-in-wake-of-andrew-do-corruption-scandal>
+
+---
+
+## LA County supervisors want answers on pricey upgrades to county-owned building. Are they really necessary?
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+The seismic updates would occur at the Gas Company Tower, which the county purchased to become its new headquarters last year. 
+
+<br> 
+
+<https://laist.com/news/politics/la-supervisors-want-answers-on-upgrades-to-county-owned-building-gas-company-tower>
+
+---
+
+## A mysterious illness is making Southern California seagulls sick
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+At least 16 birds have been treated from the Venice, Redondo, Malibu and the South Bay areas, according to International Bird Rescue. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-seagulls-sick-mystery-illness>
+
+---
+
+## Huntington Beach becomes latest city to add drones to its police force
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+An increasing number of cities are using drones to respond to emergencies and "start recording immediately." 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/huntington-beach-adds-drones-to-police-force>
+
+---
+
+## Day of Action: LA groups stage daylong boycott, protest over federal immigration actions
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+The boycott targets Penske, Home Depot and other large companies across Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/politics/day-of-action-la-groups-stage-day-long-boycott-protest-over-federal-immigration-actions>
+
+---
+
+## A student was handcuffed and detained by federal agents at LAUSD’s Arleta High. Here’s what we know
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+A teenage student with disabilities was handcuffed by federal agents Monday while accompanying another student for registration. 
+
+<br> 
+
+<https://laist.com/news/education/student-arleta-high-lausd-arrested-federal-immigration-agents>
+
+---
+
+## LA to celebrate new landmark sites preserving Black history and culture. Here’s where they are and how to join
+
+date: 2025-08-12, updated: 2025-08-12, from: The LAist
+
+More than three years in the making, the project is a collaboration between the Getty Conservation Institute and the city of L.A. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-to-celebrate-new-landmark-sites-preserving-black-history-and-culture-heres-where-they-are-and-how-to-join>
 
 ---
 

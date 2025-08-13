@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-12 14:08:52
+updated: 2025-08-13 06:09:50
 ---
 
 # libraries
 
-(date: 2025-08-12 14:08:52)
+(date: 2025-08-13 06:09:50)
 
 ---
 
@@ -30,6 +30,20 @@ Upadhyay, Arijit; Tröndle, Tim; Ganter, Alissa; Petkov, Ivalin; Gabrielli, Paol
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737644>
+
+---
+
+## Guest Post — Who Controls Knowledge in the Age of AI? Part 2, Recommendations for Stakeholders
+
+date: 2025-08-13, from: Scholarly Kitchen
+
+<p>The MIT Press surveyed book authors on attitudes towards LLM training practices. In Part 2 of this 2 part post, we discuss recommendations for stakeholders to avoid unintended harms and preserve core scientific and academic values.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/13/guest-post-who-controls-knowledge-in-the-age-of-ai-part-2-recommendations-for-stakeholders/">Guest Post &#8212; Who Controls Knowledge in the Age of AI? Part 2, Recommendations for Stakeholders</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/13/guest-post-who-controls-knowledge-in-the-age-of-ai-part-2-recommendations-for-stakeholders/>
 
 ---
 

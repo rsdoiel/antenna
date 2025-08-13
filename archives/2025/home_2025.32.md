@@ -1,11 +1,140 @@
 ---
 title: home
-updated: 2025-08-12 14:08:52
+updated: 2025-08-13 06:09:50
 ---
 
 # home
 
-(date: 2025-08-12 14:08:52)
+(date: 2025-08-13 06:09:50)
+
+---
+
+## My Friends and I Sat in 11 Beach Chairs to Find the Next Tommy Bahama
+
+date: 2025-08-13, from: Dwell
+
+Perfection is largely subjective, but these well-designed options passed the chill-out test. 
+
+<br> 
+
+<https://www.dwell.com/article/best-designed-chic-beach-chairs-bb7cd5f1-f0ac47dd-1ebe0879>
+
+---
+
+## 10 Types of Centipedes in Texas (With Pictures and Identification)
+
+date: 2025-08-13, from: Yard Life blog
+
+<p>Texas is home to a variety of centipede species, each with unique characteristics and behaviors. These many-legged arthropods play important ... </p>
+<p class="read-more-container"><a title="10 Types of Centipedes in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-types-of-centipedes-in-texas-with-pictures-and-identification/#more-33727" aria-label="Read more about 10 Types of Centipedes in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-centipedes-in-texas-with-pictures-and-identification/">10 Types of Centipedes in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-types-of-centipedes-in-texas-with-pictures-and-identification/>
+
+---
+
+## 8 Types of Gulls in Colorado (With Pictures and Identification)
+
+date: 2025-08-13, from: Yard Life blog
+
+<p>Here’s a helpful overview of the types of gulls you can find in Colorado! Although Colorado is a landlocked state ... </p>
+<p class="read-more-container"><a title="8 Types of Gulls in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/8-types-of-gulls-in-colorado-with-pictures-and-identification/#more-33721" aria-label="Read more about 8 Types of Gulls in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/8-types-of-gulls-in-colorado-with-pictures-and-identification/">8 Types of Gulls in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/8-types-of-gulls-in-colorado-with-pictures-and-identification/>
+
+---
+
+## 22 Blackbirds in Arizona (With Pictures and Identification)
+
+date: 2025-08-13, from: Yard Life blog
+
+<p>Below is a list of 22 blackbird species commonly found in the state of Arizona. This list includes birds from ... </p>
+<p class="read-more-container"><a title="22 Blackbirds in Arizona (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/22-blackbirds-in-arizona-with-pictures-and-identification/#more-33711" aria-label="Read more about 22 Blackbirds in Arizona (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/22-blackbirds-in-arizona-with-pictures-and-identification/">22 Blackbirds in Arizona (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/22-blackbirds-in-arizona-with-pictures-and-identification/>
+
+---
+
+## 19 Hummingbirds in Texas (With Pictures and Identification)
+
+date: 2025-08-13, from: Yard Life blog
+
+<p>Watching hummingbirds in Texas is one of my favorite outdoor pastimes. These tiny, jewel-like birds bring bursts of color and ... </p>
+<p class="read-more-container"><a title="19 Hummingbirds in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/19-hummingbirds-in-texas-with-pictures-and-identification/#more-33695" aria-label="Read more about 19 Hummingbirds in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/19-hummingbirds-in-texas-with-pictures-and-identification/">19 Hummingbirds in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/19-hummingbirds-in-texas-with-pictures-and-identification/>
+
+---
+
+## 13 Types of Woodpeckers in Colorado (Pictures and Identification)
+
+date: 2025-08-13, from: Yard Life blog
+
+<p>Spotting woodpeckers in Colorado has always been one of my favorite parts of birdwatching. Even though I usually spend most ... </p>
+<p class="read-more-container"><a title="13 Types of Woodpeckers in Colorado (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/13-types-of-woodpeckers-in-colorado-pictures-and-identification/#more-33689" aria-label="Read more about 13 Types of Woodpeckers in Colorado (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/13-types-of-woodpeckers-in-colorado-pictures-and-identification/">13 Types of Woodpeckers in Colorado (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/13-types-of-woodpeckers-in-colorado-pictures-and-identification/>
+
+---
+
+## Pacific Farms: Growing Prunes and Walnuts in Tehama County
+
+date: 2025-08-12, from: California Grown
+
+<p>Pacific Farms has grown walnuts and prunes in Tehama County since the 1940s. We met with the third-generation prune and walnut grower Brendon Flynn to learn more about how he embraces sustainability &#8211; not as a buzzword but as a business strategy &#8211; to ensure that his family can continue farming for generations to come.  [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/pacific-farms/" data-wpel-link="internal" target="_self">Pacific Farms: Growing Prunes and Walnuts in Tehama County</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/pacific-farms/>
+
+---
+
+## Planting in Succession
+
+date: 2025-08-12, from: San Diego Seed Compan
+
+<p>Planting in Succession: A Gardener’s Guide Planting in succession is a powerful technique for keeping garden beds full and harvesting fresh produce all season long. At its core, it’s about planting repeatedly—either different crops or the same one at intervals—to ... <a href="https://sandiegoseedcompany.com/growing/planting-in-succession/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/growing/planting-in-succession/">Planting in Succession</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/growing/planting-in-succession/>
+
+---
+
+## The Easiest (and Cheapest) Way to Fix Driveway Cracks
+
+date: 2025-08-12, from: Family Handyman Blog
+
+<p>Increase your property value and eliminate costly future repairs with this step-by-step driveway crack repair project.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/driveway-crack-repair/">The Easiest (and Cheapest) Way to Fix Driveway Cracks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/driveway-crack-repair/>
 
 ---
 
@@ -33,6 +162,20 @@ CDFA proudly welcomed seven interns and fellows this summer for work in division
 
 ---
 
+## 15 of the Best Native Blue Wildflowers for Your Landscape
+
+date: 2025-08-12, from: The Gardener's Path
+
+<p>Blue native wildflowers bring vibrant color to gardens while supporting pollinators and enhancing biodiversity. These hardy plants are adapted to local climates, making them easier to grow and maintain than many non-natives. Discover 15 of the best native blue wildflowers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/native-blue/">15 of the Best Native Blue Wildflowers for Your Landscape</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/native-blue/>
+
+---
+
 ## Asking $93K, This Completely Overhauled Spartan Camper Is One of a Kind
 
 date: 2025-08-12, from: Dwell
@@ -57,6 +200,30 @@ date: 2025-08-12, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/4-types-of-jays-in-washington-state-pictures-and-identification/>
+
+---
+
+## Tonight Is the Most Powerful Perseids Meteor Shower—These Are the Best National Parks for Stargazing
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+Here's which National Parks in the West are best to watch Perseids, which is anticipated to produce over 60 shooting stars an hour. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/best-national-parks-for-dark-sky-viewing>
+
+---
+
+## A Rare, Early Sea Ranch Home by Carson Bowler Hits the Market for $2.5M
+
+date: 2025-08-12, from: Dwell
+
+The 1970s gem in the modernist hamlet comes with sweeping ocean views and striking features. 
+
+<br> 
+
+<https://www.dwell.com/article/sea-ranch-california-home-liisberg-and-company-6c934747>
 
 ---
 
@@ -99,6 +266,18 @@ The bar-shaped residence juts out over the North Sea’s rocky shore, creating t
 <br> 
 
 <https://www.dwell.com/article/rock-cove-cameron-webster-architects-retirement-home-f1638cb9>
+
+---
+
+## Here’s How to Support and Protect Our National Parks
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+Due to major layoffs, the national parks are facing a major crisis. We're sharing how to support and protect our national parks right now. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/how-to-support-national-parks>
 
 ---
 

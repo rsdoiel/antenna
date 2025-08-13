@@ -1,11 +1,453 @@
 ---
 title: pacific
-updated: 2025-08-12 14:08:47
+updated: 2025-08-13 06:09:47
 ---
 
 # pacific
 
-(date: 2025-08-12 14:08:47)
+(date: 2025-08-13 06:09:47)
+
+---
+
+## Green travel trend: Northern Marianas eyes ‘regenerative tourism’ brand 
+
+date: 2025-08-13, from: Pacific Island Times
+
+With the failed casino experiment now in the rearview mirror, the Northern Marianas sets its sights on a new tourism model, which leans toward green travel and abandons mass consumption. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/green-travel-trend-northern-marianas-eyes-regenerative-tourism-brand>
+
+---
+
+## About 82K Big Island residents to receive jury questionnaires
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii State Judiciary began mailing its annual juror questionnaires last Friday to locate residents who are eligible for potential jury duty in 2026.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/hawaii-news/about-82k-big-island-residents-to-receive-jury-questionnaires/>
+
+---
+
+## BJ Penn continues to claim his mother is an imposter
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Hilo businesswoman Lorraine Shin on Tuesday told a judge her son, former two-division UFC champion BJ Penn, shoved a flashlight into her face and pushed her against a car, while Penn denied the allegations and said the woman making the claims is an imposter and not his mother.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/hawaii-news/bj-penn-continues-to-claim-his-mother-is-an-imposter/>
+
+---
+
+## HPD warns about phone scam using officers’ names
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department is warning the community about a widespread phone scam in which callers falsely identify themselves as police officers and use the names of actual department personnel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/hawaii-news/hpd-warns-about-phone-scam-using-officers-names/>
+
+---
+
+## Democrats fret about which city may be next as National Guard gathers in US capital
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A steady stream of uniformed soldiers arrived at the National Guard headquarters in Washington on Tuesday to begin the deployment of troops called up to fight crime in the nation&#8217;s capital, as Democrats raised concerns about which city might be next.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/democrats-fret-about-which-city-may-be-next-as-national-guard-gathers-in-us-capital/>
+
+---
+
+## Dodgers star, agent sued over Big Island real estate project
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Los Angeles Dodgers star Shohei Ohtani and his agent, Nez Balelo, allegedly got a real estate investor and a broker fired from their $240 million development in a luxury enclave on Hawaii island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/hawaii-news/dodgers-star-agent-sued-over-big-island-real-estate-project/>
+
+---
+
+## New Building Department eyed
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Council is proposing a County Charter amendment that would create a Department of Building aimed at speeding up the permitting and inspection process and easing the workload of the Department of Public Works &#8212; but Mayor Kimo Alameda is not convinced it&#8217;s the right approach.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/hawaii-news/new-building-department-eyed/>
+
+---
+
+## Homeless who refuse to cooperate with Trump crackdown may go to jail, White House says
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Homeless people in Washington, D.C., could face jail time if they do not comply with President Donald Trump&#8217;s efforts to crack down on crime and rid the U.S. capital of homeless encampments, the White House said on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/homeless-who-refuse-to-cooperate-with-trump-crackdown-may-go-to-jail-white-house-says/>
+
+---
+
+## Appeals court allows DOGE access to sensitive data at several agencies
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal appeals court on Tuesday allowed teams affiliated with the Department of Government Efficiency to gain access to potentially sensitive data on millions of Americans, overruling a lower court that had blocked that access in February.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/appeals-court-allows-doge-access-to-sensitive-data-at-several-agencies/>
+
+---
+
+## California says Trump sent military to ‘silence’ LA protests
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. government&#8217;s unprecedented use of National Guard troops in Los Angeles to protect officers carrying out President Donald Trump&#8217;s immigration crackdown was illegal and should be ended, a lawyer for the state of California told a federal judge on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/california-says-trump-sent-military-to-silence-la-protests/>
+
+---
+
+## News in brief for August 13
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>AI startup Perplexity offers $34.5B to buy Google&#8217;s Chrome browser</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/news-in-brief-for-august-13/>
+
+---
+
+## Key inflation gauge sped up in July as companies grappled with tariffs
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A key measure of underlying inflation rose in July as businesses grappled with President Donald Trump&#8217;s tariffs, although the overall increase was most likely not significant enough to deter the Federal Reserve from lowering interest rates at its next meeting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/key-inflation-gauge-sped-up-in-july-as-companies-grappled-with-tariffs/>
+
+---
+
+## Russia is suspected to be behind breach of federal court filing system
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Investigators have uncovered evidence that Russia is at least partly responsible for a recent hack of the computer system that manages federal court documents, including highly sensitive records with information that could reveal sources and people charged with national security crimes, according to several people briefed on the breach. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/russia-is-suspected-to-be-behind-breach-of-federal-court-filing-system/>
+
+---
+
+## Under pressure by Trump, Mexico sends 26 accused cartel operatives to US
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; Mexico sent 26 people accused of being cartel operatives to the United States, Mexican officials announced on Tuesday, in an apparent bid to alleviate intense pressure from President Donald Trump to do more to combat the powerful groups smuggling fentanyl across the border.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/under-pressure-by-trump-mexico-sends-26-accused-cartel-operatives-to-us/>
+
+---
+
+## Russia tries to make sudden advance in Ukraine before Trump-Putin summit
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Russian forces have made a sudden thrust into eastern Ukraine near the coal mining town of Dobropillia, a move that may be an attempt to increase the pressure on Kyiv to give up land as the U.S. and Russian presidents prepare to meet.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/russia-tries-to-make-sudden-advance-in-ukraine-before-trump-putin-summit/>
+
+---
+
+## The Wisconsin woman who flew to Britain to kill a man
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; When Sikander Ali pulled up in the driveway of his family home in a quiet cul-de-sac in the suburbs of the English city of Birmingham, he did not notice a woman with her face covered, parked in a dark Mercedes opposite the house.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/the-wisconsin-woman-who-flew-to-britain-to-kill-a-man/>
+
+---
+
+## A ‘Farm Babe’ fights for GMOs and Big Ag, pushing back on MAHA influencers
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>Michelle Miller stands in a field of corn, stalks stretching above her perfectly styled hair, holding a tiny microphone and addressing an audience online.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/a-farm-babe-fights-for-gmos-and-big-ag-pushing-back-on-maha-influencers/>
+
+---
+
+## How US marijuana reclassification could help cannabis companies
+
+date: 2025-08-13, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s administration is looking to reclassify marijuana as a less dangerous drug, a shift that could ease criminal penalties and reshape the pot industry by lowering tax burdens and making it easier for firms to secure funding.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/nation-world-news/how-us-marijuana-reclassification-could-help-cannabis-companies/>
+
+---
+
+## A total of 101 deported from Guam since 2023; AG seeks to join ICE dragnet
+
+date: 2025-08-13, from: Pacific Island Times
+
+Hoping to deport “as many criminal aliens as possible,” Guam’s attorney general is seeking to ramp up his deportation crusade—with convicted Micronesians on his priority list—through a collaboration with federal authorities. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-total-of-101-deported-from-guam-since-2023-ag-seeks-to-join-ice-dragnet>
+
+---
+
+## USP and SPTO Sign MoU to Launch Pacific Tourism Research Institute
+
+date: 2025-08-13, from: University of the South Pacific (Fiji)
+
+<p>In a milestone moment for Pacific regional collaboration, The University of the South Pacific (USP)...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/spto-and-usp-sign-mou-to-launch-pacific-tourism-research-institute/">USP and SPTO Sign MoU to Launch Pacific Tourism Research Institute</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/spto-and-usp-sign-mou-to-launch-pacific-tourism-research-institute/>
+
+---
+
+## Honouring Pacific Heritage and Ocean Stewardship: Tongan Canoe Project Successfully Launched in Suva
+
+date: 2025-08-13, from: University of the South Pacific (Fiji)
+
+<p>A month-long collaboration between the Tonga Voyaging Society and Fijian master builders has brought to...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/honouring-pacific-heritage-and-ocean-stewardship-tongan-canoe-project-successfully-launched-in-suva/">Honouring Pacific Heritage and Ocean Stewardship: Tongan Canoe Project Successfully Launched in Suva</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/honouring-pacific-heritage-and-ocean-stewardship-tongan-canoe-project-successfully-launched-in-suva/>
+
+---
+
+## PNC 2025: Rugby World Cup spots will raise intensity, Flying Fijians coach says
+
+date: 2025-08-13, from: 
+
+Mick Byrne is expecting a tougher Pacific Nations Cup series this year, with the event doubling as a qualifier for the 2027 Rugby World Cup. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569858/pnc-2025-rugby-world-cup-spots-will-raise-intensity-flying-fijians-coach-says>
+
+---
+
+## Hawaiian Word of the Week: Pōpeku
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>Pōpeku&#8212;Football.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/hawaiian-word-of-the-week-popeku/">Hawaiian Word of the Week: Pōpeku</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/hawaiian-word-of-the-week-popeku/>
+
+---
+
+## Top national rankings for the UH Community Colleges
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>Affordable, high-quality education propels <span aria-label="Hawaii’s">Hawai&#699;i’s</span> community colleges into the national spotlight.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/top-national-rankings-uh-community-colleges/">Top national rankings for the <abbr>UH</abbr> Community Colleges</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/top-national-rankings-uh-community-colleges/>
+
+---
+
+## OFC U16 women's final: Samoa ready to challenge defending champs New Zealand
+
+date: 2025-08-13, from: 
+
+Samoa has been the in-form team at OFC 2025 Under-16 Women's Championship alongside New Zealand. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569847/ofc-u16-women-s-final-samoa-ready-to-challenge-defending-champs-new-zealand>
+
+---
+
+## Why Hawaiʻi has less income inequality than you think
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>In 2023, <span aria-label="Hawaii">Hawai&#699;i</span>’s Gini coefficient stood at 0.42, ranking it among the least unequal states in the nation, alongside Arizona, Michigan and Pennsylvania.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/hawaii-income-inequality-uhero-blog/">Why Hawaiʻi has less income inequality than you think</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/hawaii-income-inequality-uhero-blog/>
+
+---
+
+## NASA rocket carries UH Community College students’ experiment into space
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Community College students’ space experiment soars 100 miles aboard <abbr>NASA</abbr> rocket.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/nasa-rocket-carries-uh-experiment-into-space/"><abbr>NASA</abbr> rocket carries <abbr>UH</abbr> Community College students’ experiment into space</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/nasa-rocket-carries-uh-experiment-into-space/>
+
+---
+
+## Pasifika Sipoti in brief for 13 August
+
+date: 2025-08-13, from: 
+
+A round-up of sports news from around the region, including the naming of the Reds team to play Tonga in a Pacific Nations Cup warm-up. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569836/pasifika-sipoti-in-brief-for-13-august>
+
+---
+
+## Pacific news in brief for 13 August
+
+date: 2025-08-12, from: 
+
+A round-up of news from around the region, including a man found guilty of five murders in Fiji. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569826/pacific-news-in-brief-for-13-august>
+
+---
+
+## Samoa backs Solomon Islands' move to defer partner talks at Pacific Islands Forum
+
+date: 2025-08-12, from: 
+
+The region's foreign ministers are meeting in Suva on Thursday for the final high-level meeting in a suite of gatherings ahead of the Pacific Islands Forum Leaders' Meeting. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569825/samoa-backs-solomon-islands-move-to-defer-partner-talks-at-pacific-islands-forum>
+
+---
+
+## Kaua‘i CC place-based science internship inspires next generation of stewards
+
+date: 2025-08-12, from: University of Hawaiʻi News
+
+<p>Internship blends culture, science and sustainability to protect <span aria-label="Kauaiʻs">Kaua&#699;i’s</span> future.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/kauai-cc-internship-inspires-next-generation-of-stewards/">Kaua‘i <abbr>CC</abbr> place-based science internship inspires next generation of stewards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/kauai-cc-internship-inspires-next-generation-of-stewards/>
+
+---
+
+## From Open Day to Reality
+
+date: 2025-08-12, from: University of the South Pacific (Fiji)
+
+<p>For 19-year-old Krishnil Narayan from Nausori, Fiji, attending Open Day at The University of the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/from-open-day-to-reality-2/">From Open Day to Reality</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/from-open-day-to-reality-2/>
+
+---
+
+## 500 pounds of cabbage donated by CTAHR to feed local families
+
+date: 2025-08-12, from: University of Hawaiʻi News
+
+<p>Volunteers and students recently harvested more than 500 pounds of cabbage from the <abbr>UH</abbr> Urban Garden Center.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/12/500-pounds-cabbage/">500 pounds of cabbage donated by <abbr>CTAHR</abbr> to feed local families</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/12/500-pounds-cabbage/>
 
 ---
 
@@ -57,6 +499,18 @@ Thirty years ago, the presence of a female worker in the power plants in the Mar
 
 ---
 
+## Suspension of salary 'unjustified', Fiji's chief prosecutor Christopher Pryde says
+
+date: 2025-08-12, from: 
+
+Fiji's chief prosecutor claims the President's suspension of his NZ$184,000 salary is illegal and unjustified. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569799/suspension-of-salary-unjustified-fiji-s-chief-prosecutor-christopher-pryde-says>
+
+---
+
 ## Shohei Ohtani, agent sued over $240M Big Island resort deal
 
 date: 2025-08-12, from: Hawaii Tribune Harold
@@ -97,21 +551,33 @@ The post <a href="https://www.hawaii.edu/news/2025/08/12/rapa-nui-sea-level-rise
 
 ---
 
-## Variety editor’s 4th book available at Joeten Susupe
+## Red flags at 7 Saipan sites
 
-date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
 
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
 
 <br> 
 
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+<https://www.mvariety.com/news/local/red-flags-at-7-saipan-sites/article_8f99a071-3ba4-4835-8ac2-be082d17a1bd.html>
+
+---
+
+## Nauru secures $651M socio-economic development project with Chinese company
+
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
+
+YAREN/BEIJING (Government of Nauru/Pacnews) — Nauru Minister for Foreign Affairs Lionel Aingimea, and chairman of the China Rural Revitalization and Development Corporation, Zhang Yong signed on Aug. 5 a phase 1 investment project proposal valued at approximately $651 million, further cementing economic injection for Nauru’s socio-economic development. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/nauru-secures-651m-socio-economic-development-project-with-chinese-company/article_8b821307-e304-42a2-99c8-cf26fb5595fa.html>
 
 ---
 
 ## New law forgives penalties, surcharges owed by CHCC to CUC
 
-date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
 
 GOVERNOR David M. Apatang on Tuesday approved House Bill 24-29, which deems all outstanding penalties, surcharges, interest, and late fees owed by the Commonwealth Healthcare Corp. to the Commonwealth Utilities Corp. as satisfied in full. 
 
@@ -123,13 +589,61 @@ GOVERNOR David M. Apatang on Tuesday approved House Bill 24-29, which deems all 
 
 ## First batch of Hornbostel artifacts returned to Marianas
 
-date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
 
 THE first phase of artifacts from the Hornbostel Collection returned to the Marianas on Tuesday. They were hand-carried from Hawaii to Saipan by NMI Museum of History and Culture Executive Director Leonard Leon. 
 
 <br> 
 
 <https://www.mvariety.com/news/local/first-batch-of-hornbostel-artifacts-returned-to-marianas/article_731998c0-b393-419b-9777-b022ffbb9a4a.html>
+
+---
+
+## CNMI Scholarship Office expands scope, updates name
+
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
+
+(Office of the Governor) — Please be informed that effective Aug. 5, 2025, the CNMI Scholarship Office has officially transitioned to the CNMI Scholarship &amp; Financial Assistance Office as per Public Law 24-10, signed by the Governor on the same date. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-scholarship-office-expands-scope-updates-name/article_f877cf8e-e324-4123-993a-cb0158421293.html>
+
+---
+
+## MANGO celebrates 15 years with community open house, member exhibits
+
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
+
+THE Marianas Alliance of Non-Governmental Organizations is proud to announce its 15th anniversary celebration, marking a decade and a half of strengthening communities, fostering collaboration, and advancing advocacy throughout the Marianas. The celebration will take place as an open house with a special member exhibit showcasing the inspiring work of MANGO’s partner organizations. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mango-celebrates-15-years-with-community-open-house-member-exhibits/article_d3e44690-0ff6-44ef-b0fc-8de1e5437fc6.html>
+
+---
+
+## PSS funding uncertainty looms as new school year approaches
+
+date: 2025-08-12, updated: 2025-08-13, from: Marianas Variety
+
+THE Public School System remains hopeful it will receive its constitutionally mandated 25% funding for fiscal year 2026, Commissioner of Education Dr. Lawrence F. Camacho said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/pss-funding-uncertainty-looms-as-new-school-year-approaches/article_374b18b2-c373-4bc5-a93e-63b82cf99bbb.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 
@@ -178,6 +692,18 @@ date: 2025-08-12, updated: 2025-08-12, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/lifestyle/farm-babe-versus-food-babe-influencer-rivalry-is-a-lopsided-contest/article_1938e7df-c0ac-4099-afe9-e15fa76b0c3b.html>
+
+---
+
+## Plans for Singapore F-15 training detachment on Guam scrapped
+
+date: 2025-08-12, from: Pacific Island Times
+
+The U.S. and Singapore have cancelled plans to establish a permanent training detachment for the Royal Singapore Air Force on Guam, where up to a dozen F-15 fighter jets were supposed to be deployed to Andersen Air Force Base. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/plans-for-singapore-f-15-training-detachment-on-guam-scrapped>
 
 ---
 

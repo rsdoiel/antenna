@@ -1,11 +1,109 @@
 ---
 title: motorcycles
-updated: 2025-08-12 14:08:53
+updated: 2025-08-13 06:09:51
 ---
 
 # motorcycles
 
-(date: 2025-08-12 14:08:53)
+(date: 2025-08-13 06:09:51)
+
+---
+
+## If You Have BMW's Emergency Call System on Your 2025 Bike, It May Not Work
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+A range of BMW's 2025 bikes equipped with the E-Call system may not be able to use it right now due to a bad software update. 
+
+<br> 
+
+<https://www.rideapart.com/news/768681/bmw-emergency-software-recall-2025/>
+
+---
+
+## Kawasaki Updates 2026 Versys 1100 With New Colors
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+The S and SE trims get two fresh coats of paint for 2026, but under the plastics it’s the same refined, powerful sport-tourer from last year’s big update.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768554/2026-kawasaki-versys-1100-new-colors/>
+
+---
+
+## PWC Rider Plows Through a Pod of Dolphins in Australia, Could Face $100,000 Fine or Prison
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+Two PWC riders are under investigation, as one rode through a pod of dolphins while the other hovered nearby. But investigators have yet to catch the culprits.  
+
+<br> 
+
+<https://www.rideapart.com/news/768680/pwc-riders-plough-dolphins-fine-prision/>
+
+---
+
+## What's It Cost To Fix Up A 100-Plus Year Old Harley In 2025, Anyway?
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+This 1919 Harley-Davidson Model J is a good restoration candidate, but it needs a lot of TLC and parts, and those parts don't cost 1919 prices in 2025. 
+
+<br> 
+
+<https://www.rideapart.com/news/768657/1919-harley-j-restoration-prices-2025/>
+
+---
+
+## Bajaj Plans To Intensify Its EV Game—Here’s What This Means For You And Me
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+Bajaj has made it clear it wants to dominate the EV space, and with its recent acquisition of KTM, this could mean some really big things for the global motorcycle industry. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768553/bajaj-intesifying-ev-game-industry-implications/>
+
+---
+
+## Here's How Honda Is Incorporating More Recycled Materials Into Its Bikes
+
+date: 2025-08-13, from: Ride Apart, Electric Motorcycle News
+
+Honda's been working to incorporate more recycled plastics and aluminum into its motorcycle lineup since at least 2024, and here's the latest. 
+
+<br> 
+
+<https://www.rideapart.com/news/768503/honda-motorcycles-recycled-materials-production-parts-update/>
+
+---
+
+## Digital hygiene: Passwords
+
+date: 2025-08-13, from: Herman Bear Blog
+
+Stay safe out there folks! 
+
+<br> 
+
+<https://herman.bearblog.dev/digital-hygiene-passwords/>
+
+---
+
+## ARCA Menards West Series: 2025 Tri-City Race Review
+
+date: 2025-08-13, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The seventh race of the 2025 ARCA Menards West Series season took place at Tri-City Raceway, located in West Richland, Washington. The NAPA Auto Care&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-tri-city-race-review/>
 
 ---
 

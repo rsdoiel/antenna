@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-08-12 14:08:50
+updated: 2025-08-13 06:09:49
 ---
 
 # writing
 
-(date: 2025-08-12 14:08:50)
+(date: 2025-08-13 06:09:49)
+
+---
+
+## 7 Ways to View Word Counts in Scrivener Projects
+
+date: 2025-08-13, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/7-ways-to-view-word-counts-in-scrivener-projects>
 
 ---
 
@@ -75,7 +87,9 @@ date: 2025-08-12, from: John August blog
 <p>Every writer has to pitch themselves, but how do you do it without sounding like a tool? John welcomes back Pamela Ribon (Nimona, My Year of Dicks) for a big talk about small talk and general meetings. They offer practical tips on what to expect, how to get people to open up, navigating NDAs, staying [&#8230;]</p>
 The post <a href="https://johnaugust.com/2025/how-to-talk-about-yourself">How to Talk About Yourself</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
-<br> 
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/699standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/699standard.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://johnaugust.com/2025/how-to-talk-about-yourself>
 
