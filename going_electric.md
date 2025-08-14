@@ -1,11 +1,259 @@
 ---
 title: going electric
-updated: 2025-08-14 06:09:01
+updated: 2025-08-14 14:08:55
 ---
 
 # going electric
 
-(date: 2025-08-14 06:09:01)
+(date: 2025-08-14 14:08:55)
+
+---
+
+## The Chevy Equinox EV is flying off the lot after registrations surged 722% in June
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/05/Cheapest-EVs-lease-May.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>America’s most affordable EV with over 315 miles of range, as GM calls it, is quickly winning over buyers. Starting at under $35,000, the <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> is expected to trail only the Tesla Model Y and Model 3 in sales this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="429833" href="https://electrek.co/2025/08/14/chevy-equinox-ev-flying-off-the-lot-registrations-surge/#more-429833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/chevy-equinox-ev-flying-off-the-lot-registrations-surge/>
+
+---
+
+## As Used Car Prices Climb, Used EV Prices Are Staying Flat
+
+date: 2025-08-14, from: Inside EVs News
+
+Tesla is—once again—bringing down the average. 
+
+<br> 
+
+<https://insideevs.com/news/769030/electric-vehicle-resale-values/>
+
+---
+
+## Tesla Banked $11 Billion By Selling Regulatory Credits. Now The Party's Over.
+
+date: 2025-08-14, from: Inside EVs News
+
+For more than a decade, Tesla turbocharged its earnings by selling billions in carbon credits. That's now drying up. 
+
+<br> 
+
+<https://insideevs.com/news/767939/tesla-regulatory-credit-11-billion/>
+
+---
+
+## ION ships first commercial solid-state battery cell samples
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/ion-storage-systems.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Maryland-based ION Storage Systems shipped its first commercial generation of solid-state batteries, called Cornerstone, to “leading” consumer electronics companies. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-batteries,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="429815" href="https://electrek.co/2025/08/14/ion-ships-first-commercial-solid-state-battery-cell-samples/#more-429815" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/ion-ships-first-commercial-solid-state-battery-cell-samples/>
+
+---
+
+## BYD is building nearly every part of its EVs: From batteries to now tablets
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/BYD-tablets-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is now building its own tablets in-house, adding to its arsenal of self-developed tech. The new full-stack tablet shows that <a href="https://electrek.co/guides/byd/">BYD</a> is not just dominating the EV market, but is also out to reshape the industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="429813" href="https://electrek.co/2025/08/14/byd-builds-nearly-every-part-evs-from-batteries-to-tablets/#more-429813" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/byd-builds-nearly-every-part-evs-from-batteries-to-tablets/>
+
+---
+
+## Ford Says Towing Is 'Significantly Less Important' For Its $30,000 EV Pickup
+
+date: 2025-08-14, from: Inside EVs News
+
+Ford's affordable EV pickup skips the big battery, betting that most buyers will never tow a single trailer or need max range. 
+
+<br> 
+
+<https://insideevs.com/news/768959/ford-ev-battery-towing-range/>
+
+---
+
+## Rad’s new Radster e-bikes get official price cuts, Exclusive $250 off EcoFlow DELTA 3 Plus bundle, Rare EGO Nexus station bundle $899, more
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/06/Rad-Power-Radster-Trail-Off-Road-e-bike.png?w=1200" /></div><p>We’ve got big news from one of our favorite e-bike brands headlining today’s Green Deals, as Rad Power Bikes officially cuts the price on its new <a href="https://9to5toys.com/2025/08/13/rad-power-radster-trail-radster-road-e-bike-price-cuts-1999/">Radster Trail Off-Road e-bike and the Radster Road Commuter e-bike to $1,999 each</a>. We also have an exclusive $250 discount on <a href="https://9to5toys.com/2025/08/13/ecoflow-delta-3-plus-with-bag-exclusive-549/">EcoFlow’s DELTA 3 Plus Portable Power Station bundled</a> with a protective waterproof bag at <a href="https://9to5toys.com/2025/08/13/ecoflow-delta-3-plus-with-bag-exclusive-549/">$549</a>, as well as a rare chance to snag <a href="https://9to5toys.com/2025/08/14/ego-nexus-portable-power-station-two-batteries-899/">EGO’s Nexus Portable Power Station</a> with two 7.5Ah batteries at <a href="https://9to5toys.com/2025/08/14/ego-nexus-portable-power-station-two-batteries-899/">$899</a>. More EV and lawncare solution deals are waiting for you below – plus, all the hangover savings are at the bottom of the page, like yesterday’s increased savings from <a href="https://9to5toys.com/2025/08/13/aventon-abound-sr-e-bike-first-discount-1799-more/">Aventon’s final summer sale</a>, which includes deals on two of its newest smart e-bikes, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="429796" href="https://electrek.co/2025/08/14/rad-power-radster-e-bikes-ecoflow-ego-more/#more-429796" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/rad-power-radster-e-bikes-ecoflow-ego-more/>
+
+---
+
+## New Acura RSX: A Reborn Icon For Honda's Electric Reset
+
+date: 2025-08-14, from: Inside EVs News
+
+The company needs to find some footing in the electric era. This is its best shot. 
+
+<br> 
+
+<https://insideevs.com/news/768922/honda-acura-ev-2027/>
+
+---
+
+## Acura unveils new RSX: reborn as a sleek electric SUV
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Acura-RSX-concept-electric-SUV-hero.png?w=1600" /></div><p>Acura is bringing back the RSX, but you wouldn’t recognize it. It’s now a sporty electric SUV, and a fairly impressive one at that. It’s also the first electric vehicle built on Honda’s new Zero global EV platform.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-rsx" data-layer-viewtype="unknown" data-post-id="429636" href="https://electrek.co/2025/08/14/acura-rsx-reborn-sleek-electric-suv/#more-429636" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/acura-rsx-reborn-sleek-electric-suv/>
+
+---
+
+## Ford’s $30,000 EV Truck Has An Interesting BYD Target
+
+date: 2025-08-14, from: Inside EVs News
+
+This subcompact crossover is BYD’s first true export model meant for global markets. It recently crossed the 1 million units sold mark. 
+
+<br> 
+
+<https://insideevs.com/news/769046/byd-atto-3-ford-ev/>
+
+---
+
+## Lucid (LCID) shuts down rumors that it sold just 9 Gravity SUVs this year
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Lucid-Chinese-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new report claimed that Lucid Motors’ (LCID) new <a href="https://electrek.co/guides/lucid-gravity/">Gravity SUV</a> had just nine registrations in its first six months. Lucid denied the rumors, telling us Gravity deliveries are “well into the 3-digit range.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="429763" href="https://electrek.co/2025/08/14/lucid-lcid-shuts-down-rumors-sold-9-gravity-suvs/#more-429763" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/lucid-lcid-shuts-down-rumors-sold-9-gravity-suvs/>
+
+---
+
+## Ford’s $30,000 EV pickup signals the end of these popular gas SUVs
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Fords-30000-EV-pickup-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford’s next “Model T” is a midsize electric pickup that will start at around $30,000. The new model will be the first of a family of affordable electric vehicles based on the new Ford Universal EV Platform. As <a href="https://electrek.co/guides/ford/">Ford</a> shifts to lower-cost EVs, a few popular SUVs you may recognize are getting axed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="429787" href="https://electrek.co/2025/08/14/fords-30000-ev-pickup-signals-end-popular-suvs/#more-429787" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/fords-30000-ev-pickup-signals-end-popular-suvs/>
+
+---
+
+## EV Sales Might Soon Stall Out. But Charging Networks Are Flooring It
+
+date: 2025-08-14, from: Inside EVs News
+
+Plus, suppliers are offloading tariff costs onto automakers and Tesla's board is under a microscope over Musk's new pay package. 
+
+<br> 
+
+<https://insideevs.com/news/768903/ev-sales-charger-network-growth/>
+
+---
+
+## Elon Musk says Tesla (TSLA) shorts are going to be ‘obliterated’, but there’s a big if
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-killer.png?w=1600" /></div><p>Elon Musk claims that Tesla (TSLA) shorts, people betting against the company’s stock, are going to be ‘obliterated, ‘ but there’s a big if to his prediction.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="429785" href="https://electrek.co/2025/08/14/elon-musk-tesla-tsla-shorts-obliterated-but-big-if/#more-429785" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/elon-musk-tesla-tsla-shorts-obliterated-but-big-if/>
+
+---
+
+## Huffy’s latest cruiser e-bike costs just $299 – but what’s the catch?
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/huffy-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Huffy, the classic bicycle brand that became a staple of so many childhoods, is selling its Coastal Cruiser e‑bike for an enticing <strong>$</strong>299.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="429734" href="https://electrek.co/2025/08/14/huffys-latest-cruiser-e-bike-costs-just-299-but-whats-the-catch/#more-429734" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/huffys-latest-cruiser-e-bike-costs-just-299-but-whats-the-catch/>
+
+---
+
+## MASSIVE Skydweller solar drone flies for days on end without recharging
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Technology-scaled-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With a 236-foot wingspan that’s wider than a 747’s, the battery and solar-powered Skydweller Aero drone is pushing the boundaries of aviation. And, after back-to-back three-day flights without recharging, it’s pushing the boundaries of energy efficiency, too, begging the question: <strong>is perpetual aviation really here</strong>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aviation,drone,military" data-layer-viewtype="unknown" data-post-id="429749" href="https://electrek.co/2025/08/14/massive-skydweller-solar-drone-flies-for-days-on-end-without-recharging/#more-429749" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/massive-skydweller-solar-drone-flies-for-days-on-end-without-recharging/>
+
+---
+
+## Cadillac’s Elevated Velocity Concept Is A Gullwing-Doored Desert Cruiser
+
+date: 2025-08-14, from: Inside EVs News
+
+The pedals and steering wheel can retract, and the bodywork vibrates to remove sand. 
+
+<br> 
+
+<https://insideevs.com/news/768858/cadillac-elevated-velocity-electric-crossover-concept-gullwing/>
 
 ---
 

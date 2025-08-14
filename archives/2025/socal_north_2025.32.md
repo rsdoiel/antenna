@@ -1,15 +1,182 @@
 ---
 title: socal north
-updated: 2025-08-14 06:08:54
+updated: 2025-08-14 14:08:46
 ---
 
 # socal north
 
-(date: 2025-08-14 06:08:54)
+(date: 2025-08-14 14:08:46)
 
 ---
 
-## New school year tests LAUSD’s commitment to protecting immigrant students
+## ¿Cómo navegar por el sistema de puntos magnet de LAUSD?
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Los programas magnet comenzaron como una estrategia para eliminar la separación entre estudiantes. Y ahora puede sentirse la competencia. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-magnet-points-choices-application-los-angeles-unified-es-navegar>
+
+---
+
+## ‘They feel they can trust no one': Mobile health teams assist patients fearful of ICE raids
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Immigration raid fears have some undocumented patients avoiding medical care. One L.A. clinic is responding by sending mobile health teams directly to their homes. 
+
+<br> 
+
+<https://laist.com/news/mobile-health-units-ice-raids-undocumented-immigrants>
+
+---
+
+## City of Santa Clarita Announces Brandon Barclay as New Chief of Police
+
+date: 2025-08-14, from: City of Santa Clarita
+
+<p>Brandon Barclay has been selected as the new Captain of the Santa Clarita Valley Sheriff’s Station, bringing nearly two decades of law enforcement experience with the Los Angeles County Sheriff&#8217;s Department to his new post. Barclay spent nearly four years as the second in command at the Santa Clarita Valley Sheriff&#8217;s Station, serving as former [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/14/city-of-santa-clarita-announces-brandon-barclay-as-new-chief-of-police/">City of Santa Clarita Announces Brandon Barclay as New Chief of Police</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/14/city-of-santa-clarita-announces-brandon-barclay-as-new-chief-of-police/>
+
+---
+
+## Mayors of Democratic cities beyond D.C. decry Trump's takeover threats
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+When Trump announced his law enforcement actions in D.C., he also singled out a slew of other Democratic cities. The mayors of Baltimore, LA, Oakland, Chicago, and New York say crime is down. 
+
+<br> 
+
+<https://laist.com/news/politics/mayors-of-democratic-cities-respond-to-trumps-threats-they-could-be-next-after-d-c>
+
+---
+
+## City Now Accepting Project Proposals for Make a Difference Day
+
+date: 2025-08-14, from: City of Santa Clarita
+
+<p>Partner with Residents to Make a Difference in Our Community! Make A Difference Day is happening on Saturday, October 25, and the City is excited to invite nonprofit organizations across the community to be a part of this Citywide day of service. This is a unique opportunity to lead hands-on projects that bring volunteers to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/14/city-now-accepting-project-proposals-for-make-a-difference-day-2/">City Now Accepting Project Proposals for Make a Difference Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/14/city-now-accepting-project-proposals-for-make-a-difference-day-2/>
+
+---
+
+## Illuminating Central Park
+
+date: 2025-08-14, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean Having lived and worked in Paris, I learned that art is everywhere – in the Gothic arches of Notre Dame, the notes of a violinist in the metro, to the brushstrokes of a masterpiece tucked into a gallery. That experience instilled in me a lifelong belief that art shouldn’t be reserved [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/14/illuminating-central-park/">Illuminating Central Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/14/illuminating-central-park/>
+
+---
+
+## Skip Keesal, elite attorney behind Long Beach’s most renowned law firm, dies at 86
+
+date: 2025-08-14, from: Longbeach Post
+
+<figure><img width="1024" height="680" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-768x510.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1536x1020.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-2048x1360.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1200x797.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1568x1041.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was a top litigator in the world of securities and maritime law, building a firm that by the 1990s became a city institution with offices worldwide. He befriended presidents, chancellors and celebrities, using his connections to deliver millions of dollars to local charities.</p>
+<p>The post <a href="https://lbpost.com/news/skip-keesal-dies-obit-kyl-law-firm-long-beach">Skip Keesal, elite attorney behind Long Beach&#8217;s most renowned law firm, dies at 86 </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/skip-keesal-dies-obit-kyl-law-firm-long-beach>
+
+---
+
+## Long Beach will discipline city employees who disobey sanctuary policies, train them to limit ICE agents’ access
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+It’s the second time the City Council strengthened sanctuary rules this year as they try to keep pace with evolving immigration enforcement tactics and assuage fears among those at risk of deportation. 
+
+<br> 
+
+<https://laist.com/news/long-beach-will-discipline-city-employees-who-disobey-sanctuary-policies>
+
+---
+
+## President Trump can continue to withhold billions in foreign aid, court rules
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+A federal appeals court handed President Donald Trump a victory on Wednesday. The court ruled the administration can continue to freeze or terminate billions of dollars that Congress approved in foreign aid. 
+
+<br> 
+
+<https://laist.com/news/politics/president-trump-can-continue-to-withhold-billions-foreign-aid-court-rules>
+
+---
+
+## Presenting “Allure” by Frank Rock at The MAIN
+
+date: 2025-08-14, from: City of Santa Clarita
+
+<p>Explore the Ever-Changing Character of Coastal Landscapes The City of Santa Clarita is proud to announce its latest art exhibition, Allure, by Frank Rock on view at The MAIN (24266 Main Street) through Monday, September 22. The community is invited to a special&#160;reception on Wednesday, September 3, from 6:00 to 8:00 p.m., at The MAIN, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/08/14/presenting-allure-by-frank-rock-at-the-main/">Presenting &#8220;Allure&#8221; by Frank Rock at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/08/14/presenting-allure-by-frank-rock-at-the-main/>
+
+---
+
+## Best things to do in LA and SoCal: Aug. 15-17
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Check out 'Some Like it Hot' at the Pantages, the Nisei Week Japanese Festival, a cactus show and a summer shriek! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-august-15-17>
+
+---
+
+## King Fire, now 20% contained, destroys two recreational vehicles at Pyramid Lake
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+The fire broke out at around 1 a.m. and grew to 570 acres by 1:30 p.m. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/king-fire-tejon-pass-5-freeway>
+
+---
+
+## Cloudy mornings make a comeback, bringing cooler temps to SoCal
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Temperatures will continue to dip, bringing highs back down to mid 90s for inland areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cloudy-mornings-make-a-comeback-bringing-cooler-temps-to-socal>
+
+---
+
+## First day of school tests LAUSD’s protections for immigrant families
 
 date: 2025-08-14, updated: 2025-08-14, from: The LAist
 
@@ -18,30 +185,6 @@ More than 4,000 people have been arrested across the region since June and it’
 <br> 
 
 <https://laist.com/news/education/los-angeles-unified-school-district-lausd-first-day-2025>
-
----
-
-## Why were surveillance cameras installed in Huntington Beach’s most iconic Latino neighborhood?
-
-date: 2025-08-14, updated: 2025-08-14, from: The LAist
-
-The city says the cameras are intended to fight crime. Some residents worry they could be used to aid in federal immigration enforcement. 
-
-<br> 
-
-<https://laist.com/news/politics/oak-view-surveillance-cameras>
-
----
-
-## LA is exploring how to ease traffic congestion around ‘ghost kitchens.’ Here's what one solution could look like
-
-date: 2025-08-14, updated: 2025-08-14, from: The LAist
-
-Neighbors around ghost kitchens have complained about competing parking availability, sometimes leading to fist fights. 
-
-<br> 
-
-<https://laist.com/news/transportation/ghost-kitchens-uber-doordash-traffic>
 
 ---
 
@@ -54,6 +197,30 @@ Goloka Bolte reflects on what it's like to cast the drag queen reality competiti
 <br> 
 
 <https://laist.com/news/los-angeles-activities/drag-race-five-takeaways-emmy-winning-casting-director>
+
+---
+
+## 'Ghost kitchen' traffic upsets neighbors — a lot. LA is now looking for solutions
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Neighbors complain about competing parking availability, sometimes leading to fist fights. Exclusion zones are a possible solution but the food delivery industry is pushing back. 
+
+<br> 
+
+<https://laist.com/news/transportation/ghost-kitchens-uber-doordash-traffic>
+
+---
+
+## Why were surveillance cameras installed in Huntington Beach’s most iconic Latino neighborhood?
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+The city says the cameras are intended to fight crime. Some residents worry they could be used to aid in federal immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/politics/oak-view-surveillance-cameras>
 
 ---
 
@@ -85,7 +252,7 @@ Proposed ballot initiative aims to repeal Proposition 103, the California law th
 
 date: 2025-08-13, from: Longbeach Post
 
-<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1024x623.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1024x623.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-300x183.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-768x467.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-178x108.png 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1200x730.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-400x243.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707.png 1213w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1024x623.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1024x623.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-300x183.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-768x467.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-178x108.png 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1200x730.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-400x243.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707.png 1213w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Environmentalists and some local residents have fought the project since it was first proposed in 2020, pushing for the land to instead be turned into a park.</p>
 <p>The post <a href="https://lbpost.com/news/place/in-a-battle-over-green-space-long-beach-council-oks-development-of-vacant-lot-near-la-river">In a battle over green space, Long Beach City Council OKs development of vacant lot near LA River</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-08-14 06:08:58
+updated: 2025-08-14 14:08:51
 ---
 
 # journalism
 
-(date: 2025-08-14 06:08:58)
+(date: 2025-08-14 14:08:51)
+
+---
+
+## Independent journalist Molly White knows how to follow the memecoin
+
+date: 2025-08-14, from: Nieman Journalism Lab
+
+If you were looking for a single journalistic catchphrase, you could do worse than “follow the money.” Investigating and documenting the flow of cash and other resources is almost always a worthwhile pursuit for someone trying to get to the bottom of things. Molly White, an independent journalist, software engineer, and one of the sharpest... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/08/independent-journalist-molly-white-knows-how-to-follow-the-memecoin/>
 
 ---
 

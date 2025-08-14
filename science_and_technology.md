@@ -1,11 +1,323 @@
 ---
 title: science and technology
-updated: 2025-08-14 06:08:56
+updated: 2025-08-14 14:08:48
 ---
 
 # science and technology
 
-(date: 2025-08-14 06:08:56)
+(date: 2025-08-14 14:08:48)
+
+---
+
+## AmiBrowser: the Chromium engine running on a Linux host talking to a 68K Amiga application running inside a 68K emulator
+
+date: 2025-08-14, from: OS News
+
+We removed ads from OSNews. Donate to our fundraiser to ensure our future! Covering the Amiga world is always a bit of a crapshoot, since for what is surely an incredibly small segment of the computing world, it happens to be incredibly complex, with multiple competing Amiga-ish operating systems and hardware platforms, all worsened by many empty promises and bitter animosity flying every which way. This makes it hard for an outsider to get a firm grasp on what&#8217;s going on, but as always, I&#8217;ll try my best. The news here is that AmiKit has released a new browser for the classic 68k Amiga that can load modern websites. The browser is called AmiBrowser. AmiBrowser is an HTML 5 capable web browser built for 68K with Zune/MUI. Ituses ARM libraries to power the native rendering of the web pages. ↫ AmiKit press release AmiBrowser is exclusive to AmiKit&#8217;s own Amiga-like hardware, the A600 GS and A1200 NG, both of which are replacement boards for the original Amiga 600 and 1200, respectively. How do these machines work? Well, they come in the shape of their original counterparts, but with far fewer chips, and one crucial addition: a little Orange Pi Zero 3 (in the case of the A1200 NG, at least) daughterboard that contains the actual ARM SoC that powers the machine. The way this setup works is that the Orange Pi Zero 3 boots into a minimal Linux environment with a launcher-like interface, which can in turn load up the Amiberry classic 68K Amiga emulator that can communicate with its ARM Linux host. It&#8217;s inside this 68K emulator where the actual operating system runs. This Amiga-like operating system is called AmiBench, which is, very simply put, a modified variant of the 68K version of AROS, combined with libraries and components that can make use of the ARM processor. And so we finally arrive at this new browser. This new browser runs the Chromium Embedded Framework in the host Linux environment on the ARM processor, forwarding its rendering towards a native 68K Amiga/AROS application that&#8217;s running inside the 68K emulator. In between the CEF running on the Linux host and the native Amiga 68K application running inside the emulator sits a glue layer that takes care of the communication between the two sides. It&#8217;s an interesting approach to a very difficult problem: how do you run a modern browser on a hardware platform &#8211; 68K, in this case &#8211; that is horribly outdated and far too slow to deal with modern websites? It&#8217;s an interesting approach, but it also feels a little bit like a house of cards. That being said, if the choice is between no access to the modern web and shaky access to the modern web, I&#8217;d still choose the latter. 
+
+<br> 
+
+<https://www.osnews.com/story/143070/amibrowser-the-chromium-engine-running-on-a-linux-host-talking-to-a-68k-amiga-application/>
+
+---
+
+## An Archaeology Student Found a Medieval Gold Artifact During Her First Dig
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+The piece resembles another found in the same area four years ago 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-archaeology-student-found-a-medieval-gold-artifact-during-her-first-dig-180987185/>
+
+---
+
+## Dodgy Huawei chips nearly sunk DeepSeek's next-gen R2 model
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Chinese AI model dev still plans to use homegrown silicon for inferencing</h4> <p>Unhelpful Huawei AI chips are reportedly why Chinese model dev DeepSeek&#39;s next-gen LLMs are taking so long.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/dodgy_huawei_deepseek/>
+
+---
+
+## Weaver Ants Use Teamwork to Become 'Superefficient,' Building Complex Nests From Leaves With Extra Pulling Power
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+When humans work in large teams, they become less individually effective. But each ant grows more efficient when collaborating—a discovery that could help engineers build better robots 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/weaver-ants-use-teamwork-to-become-superefficient-building-complex-nests-from-leaves-with-extra-pulling-power-180987186/>
+
+---
+
+## Bones Found in Spanish Cave Suggest This Neolithic Group Butchered and Cannibalized a Rival Community
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+The 5,700-year-old remains exhibit signs of human consumption, including bite marks and traces of cutting, cremation and boiling 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/bones-found-in-spanish-cave-suggest-this-neolithic-group-butchered-and-cannibalized-rival-community-180987182/>
+
+---
+
+## DARPA’s <s>Cylon raider</s> autonomous fighter jet advances to next phase
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Pilots may soon have to compete against frakking toasters for the title of Top Gun</h4> <p>That autonomous fighter jet from DARPA is <em>so</em> 2023 that the agency is already well into a bid to give future combat jets autonomy for multi-ship missions over the horizon.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/darpas_scylon_raiders_autonomous_fighter/>
+
+---
+
+## Psst: wanna buy a legit FBI email account for $40?
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Government and police employee credentials sold at bargain-basement prices on underground forums</h4> <p>Criminals are selling access to FBI and other law enforcement and government email accounts to other criminals via dark web marketplaces for as little as $40.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/fbi_email_accounts_for_sale/>
+
+---
+
+## Astronauts Plant Seed Pillows in New Space Agriculture Study
+
+date: 2025-08-14, from: NASA breaking news
+
+When the Crew-11 astronauts launched to the International Space Station on August 1, 2025, they carried with them another chapter in space farming: the latest VEG-03 experiments, complete with seed pillows ready for planting. Growing plants provides nutrition for astronauts, as well as psychological benefits that help maintain crew morale during missions. During VEG-03 MNO, […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/astronauts-plant-seed-pillows-in-new-space-agriculture-study/>
+
+---
+
+## William the Conqueror's Norwich Castle to Reopen Following $37 Million Renovation
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+In partnership with the British Museum, 900 Norman artifacts will be displayed across the reimagined space’s five floors 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/william-the-conquerors-norwich-castle-to-reopen-following-37-million-renovation-180987183/>
+
+---
+
+## A Student Spotted a Jawbone at a Beach. It Turned Out to Be a New, Mouse-Sized Mammal That Lived Among Dinosaurs
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+The species was named for its pointy teeth and could shed light on early mammal adaptations 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-student-spotted-a-jawbone-at-a-beach-it-turned-out-to-be-a-new-mouse-sized-mammal-that-lived-among-dinosaurs-180987146/>
+
+---
+
+## Equinix signs deals for nukes and fuel cells to power its AI bit barns
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Datacenter giant looks for energy sources outside the grid</h4> <p>Equinix is doing deals with alternative energy providers to support the needs of its datacenters globally, including nuclear options and fuel cell deployments, as the AI fad continues to push a bit barn build boom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/equinix_signs_deals_for_nukes/>
+
+---
+
+## 'MadeYouReset' HTTP/2 flaw lets attackers DoS servers
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Researchers had to notify over 100 vendors of flaw that builds on 2023&#39;s Rapid Reset with neat twist past usual mitigations</h4> <p>Security researchers Gal Bar Nahum, Anat Bremler-Barr, and Yaniv Harel have published details of a &#34;common design flaw&#34; in implementations of the HyperText Transfer Protocol 2 (HTTP/2) allowing those with ill intent to create &#34;massive Denial of Service attacks&#34;.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/madeyoureset_http2_flaw_lets_attackers/>
+
+---
+
+## Lock down your critical infrastructure, CISA begs admins
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>The agency offered some tips for operational technology environments, where attacks are rising</h4> <p>CISA is urging companies with operational technology environments to set a better cybersecurity posture, and not just by adopting some new best practices and purchasing some new software.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/cisa_begs_ot_admins_to/>
+
+---
+
+## After Storied 34 Year Career, Steve Platnick Retires from NASA
+
+date: 2025-08-14, from: NASA breaking news
+
+Dr. Steven “Steve” Platnick stepped down from his role at NASA on August 8, 2025, after more than three decades of public service. Steve began his career at NASA as a physical scientist at Goddard Space Flight Center in 2002. He moved to the Earth Science Division in 2009, where he has served in various […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/after-storied-34-year-career-steve-platnick-retires-from-nasa/>
+
+---
+
+## Voice, vision, pen: Oh dear. Windows boss says Microsoft is again reshaping OS
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Lessons of Windows 8 unlearned as software giant gives users what it thinks they need</h4> <p><strong>COMMENT</strong>  Microsoft Windows and Devices boss, Pavan Davuluri, has shed light on plans for the flagship OS. Voice, touch, and pen control will all be part of a multimodal future, alongside a raft of inevitable AI features.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/microsofts_windows_revision_comment_opinion/>
+
+---
+
+## Small Companies Win Big in NASA’s TechLeap Challenge
+
+date: 2025-08-14, from: NASA breaking news
+
+NASA announced 10 winning teams for its latest TechLeap Prize — the Space Technology Payload Challenge — on June 26. The winners emerged from a record-breaking field of more than 200 applicants to earn cash prizes worth up to $500,000, if they have a flight-ready unit. Recipients may also have the opportunity to flight test […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/small-companies-win-big-in-nasas-techleap-challenge/>
+
+---
+
+## BtcTurk suspends operations amid alleged $49M hot wallet heist
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Turkish exchange is the latest victim of a recent spate of major crypto thefts</h4> <p>Turkish cryptocurrency exchange BtcTurk is halting all deposits and withdrawals amid fears that blockchain bandits succeeded in significantly compromising its hot wallets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/btcturk_suspends_operations_amid_49m/>
+
+---
+
+## NASA’s Apollo Samples, LRO Help Scientists Forecast Moonquakes
+
+date: 2025-08-14, from: NASA breaking news
+
+Moonquakes pose little risk to astronauts during a mission lasting just a few days. But their effects on longer-term lunar surface assets could be significant. 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/moon/nasas-apollo-samples-lro-help-scientists-predict-moonquakes/>
+
+---
+
+## NASA’s SpaceX Crew-10 Astronauts to Discuss Science Mission
+
+date: 2025-08-14, from: NASA breaking news
+
+After spending almost five months in space, NASA’s SpaceX Crew-10 astronauts will discuss their science mission aboard the International Space Station during a news conference at 4:15 p.m. EDT, Wednesday, Aug. 20, from the agency’s Johnson Space Center in Houston.&#160;NASA astronauts Anne McClain and Nichole Ayers, and JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-10-astronauts-to-discuss-science-mission/>
+
+---
+
+## Microsoft patch Tuesday update fails to install
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Windows 11 24H2 fixes fail from Windows Server Update Services</h4> <p>Microsoft has admitted that the August patch Tuesday update might fail to install through Windows Server Update Services (WSUS), but it&#39;s ok, admins. Home users are &#34;unlikely to experience this issue.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/microsoft_patch_tuesday_update_fails/>
+
+---
+
+## Newly Discovered Prehistoric Whale Is 'Deceptively Cute'—It's Tiny but Has a Mouth Full of Razor-Sharp Teeth
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+Found on the southern coast of Australia, the species could fill gaps in scientists' understanding of baleen whale evolution 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/newly-discovered-prehistoric-whale-is-deceptively-cute-its-tiny-but-has-a-mouth-full-of-razor-sharp-teeth-180987165/>
+
+---
+
+## Who made the demo list for Trump's fast-track nuclear reactor scheme?
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>US DoE names firms for Pilot Program to show how it could be done</h4> <p>America&#39;s Department of Energy (DoE) has named ten companies it will work with to test advanced atomic reactor projects outside of the agency&#39;s world-famous national laboratories, in line with President Trump&#39;s Nuclear Reactor Pilot Program.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/us_doe_names_firms_that/>
+
+---
+
+## Say Cheese!
+
+date: 2025-08-14, from: NASA breaking news
+
+Eleven International Space Station crew members gather inside the space station&#8217;s Unity module for a portrait on Aug. 3, 2025. In the front row, from left are, Kimiya Yui of JAXA (Japan Aerospace Exploration Agency), Zena Cardman of NASA, Oleg Platonov of Roscosmos, and Mike Fincke of NASA. In the second row are, Nichole Ayers [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/say-cheese/>
+
+---
+
+## Vibe coding platform Anything arrives, our hands-on suggests caution
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Making apps is as easy as selling t-shirts, claims vibe coding startup</h4> <p><strong>Hands On</strong>  Create has declared its vibe coding platform, now called Anything, production-ready at version 1.0, with support for both web and mobile applications – although our quick hands-on generated a host of errors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/anything_vibe_coding_platform_released/>
+
+---
+
+## NASA’s Stennis Space Center Employees Receive NASA Honor Awards
+
+date: 2025-08-14, from: NASA breaking news
+
+NASA Stennis Space Center Director John Bailey and Deputy Director Christine Powell presented NASA Honor Awards to employees during an onsite ceremony Aug. 13. One NASA Stennis employee received NASA’s Outstanding Leadership Medal. The medal is awarded to government employees for notable leadership accomplishments that have significantly influenced the NASA mission. Marvin Horne of Fulton, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/stennis-employees-receive-honor-awards/>
+
+---
+
+## Alexa hits snooze on basic functions as alarms and timers KO'd in UK outage
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Brits wake to a beeping nightmare as Amazon’s AI assistant forgets how to set – or stop – alarms</h4> <p>Amazon&#39;s Alexa is on the fritz, bungling alarms and timers and leaving some UK users trapped in an endless wake-up call.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/alexa_hits_snooze_on_basic/>
 
 ---
 
@@ -49,7 +361,7 @@ date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
 
 date: 2025-08-14, from: NASA breaking news
 
-NASA’s Inventions and Contributions Board (ICB) has awarded Commercial Invention of the Year to NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments.&#160;&#160; NASA Alloy GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer [&#8230;] 
+NASA’s Inventions and Contributions Board (ICB) has awarded Commercial Invention of the Year to NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments.&#160;&#160;NASA Alloy GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer than [&#8230;] 
 
 <br> 
 
@@ -467,7 +779,7 @@ An alligator moves through a brackish waterway at NASA&#8217;s Kennedy Space Cen
 
 ## CoreWeave CFO: $25B raised in debt and equity in 18 months
 
-date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+date: 2025-08-13, updated: 2025-08-14, from: The Register (UK I.T. News)
 
 <h4>Reliant on two mega customers? Who says GPU-for-rent kingpin is a not a sustainable biz model?</h4> <p>Rent-a-GPU biz CoreWeave is still racking up eyewatering debts amid mounting net losses as it continues to burn cash on expanding datacenter capacity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 

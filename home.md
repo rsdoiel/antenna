@@ -1,11 +1,99 @@
 ---
 title: home
-updated: 2025-08-14 06:09:00
+updated: 2025-08-14 14:08:53
 ---
 
 # home
 
-(date: 2025-08-14 06:09:00)
+(date: 2025-08-14 14:08:53)
+
+---
+
+## Beat the Heat: Must-Have Cooling Gear for Summer DIY Projects
+
+date: 2025-08-14, from: Family Handyman Blog
+
+<p>The world may be heating up, but you still have work to do. We talked to construction pros from Arizona and Australia to get you the lowdown on gear that will allow you to stay cool while working in the heat.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/heat-protection-gear/">Beat the Heat: Must-Have Cooling Gear for Summer DIY Projects</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/heat-protection-gear/>
+
+---
+
+## Need a Traditional Japanese Tearoom? This $2.3M Frankfurt Apartment Has One
+
+date: 2025-08-14, from: Dwell
+
+Set in a 19th-century Westend building, the flat is a minimalist oasis with shoji screens, tatami floors, and soothing neutral tones. 
+
+<br> 
+
+<https://www.dwell.com/article/grand-etage-apartment-japanese-tearoom-frankfurt-germany-real-estate-fd613f4b>
+
+---
+
+## The Lawn Is Part of the Living Room at This Bunkerlike Home in Japan
+
+date: 2025-08-14, from: Dwell
+
+Takeshi Hosaka Architects envisioned the outdoors as an extension of the residence’s narrow, 1,064-square-foot plan. 
+
+<br> 
+
+<https://www.dwell.com/article/isumi-villa-takeshi-hosaka-architects-concrete-bunker-indoor-outdoor-home-f80b0a31>
+
+---
+
+## From the Archive: How Robert Royston Became a Pioneer of Modernist Landscape Architecture
+
+date: 2025-08-14, from: Dwell
+
+A year before his death, the visionary designer and his disciples reflected on how he created some of the most intimate, functional, and comfortable outdoor spaces imaginable. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-how-robert-royston-became-a-pioneer-of-modernist-landscape-architecture-0ed6e7b6>
+
+---
+
+## 11 of the Best Hens and Chicks Varieties (Sempervivum)
+
+date: 2025-08-14, from: The Gardener's Path
+
+<p>All types of Sempervivum are easy-care, drought- and deer-resistant succulents suited to growing in containers or as ground cover. But which is best for you? Simplify the selection with our roundup of 11 of our favorite hens and chicks in various colors including lilac, red, and black, and one with a cobweb texture.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/best-sempervivum-types/">11 of the Best Hens and Chicks Varieties (Sempervivum)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/best-sempervivum-types/>
+
+---
+
+## The Quiet, Constant Fight Against Equine Diseases
+
+date: 2025-08-14, from: Calfifornia Dept. Aggriculture blog
+
+CDFA is on the front lines of a silent battle, one that impacts California’s horses and the equine industry every single day. While outbreaks like bird flu may get more headlines, the battle to safeguard California’s equine community against diseases &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29177">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29177>
+
+---
+
+## This Bend, Oregon Property Gives off Major Summer Camp Vibes
+
+date: 2025-08-14, from: Sunset Magazine - Living in the West
+
+A holiday retreat in the high desert near Bend, Oregon, is warm, welcoming, and features a rec barn, the ultimate entertaining feature. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bend-oregon-home-rec-barn>
 
 ---
 

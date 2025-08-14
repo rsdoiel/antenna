@@ -1,11 +1,222 @@
 ---
 title: snapshots
-updated: 2025-08-14 06:09:03
+updated: 2025-08-14 14:08:58
 ---
 
 # snapshots
 
-(date: 2025-08-14 06:09:03)
+(date: 2025-08-14 14:08:58)
+
+---
+
+## Quoting Cory Doctorow
+
+date: 2025-08-14, updated: 2025-08-14, from: Simon Willison’s Weblog
+
+<blockquote cite="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers"><p><em>NERD HARDER!</em> is the answer every time a politician gets a technological idée-fixe about how to solve a social problem by creating a technology that can't exist. It's the answer that EU politicians who backed the catastrophic proposal to require copyright filters for all user-generated content came up with, when faced with objections that these filters would block billions of legitimate acts of speech [...]</p>
+<p>When politicians seize on a technological impossibility as a technological necessity, they flail about and desperately latch onto scholarly work that they can brandish as evidence that their idea <em>could</em> be accomplished. [...]</p>
+<p>That's just happened, and in relation to one of the scariest, most destructive <em>NERD HARDER!</em> tech policies ever to be assayed (a stiff competition). I'm talking about the UK Online Safety Act, which imposes a duty on websites to verify the age of people they communicate with before serving them anything that could be construed as child-inappropriate (a category that includes, e.g., much of Wikipedia)</p></blockquote>
+<p class="cite">&mdash; <a href="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers">Cory Doctorow</a>, "Privacy preserving age verification" is bullshit</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/cory-doctorow">cory-doctorow</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/politics">politics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/14/cory-doctorow/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-14, from: Robert's feed at BlueSky)
+
+This is cool. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lweypt3z5s2n>
+
+---
+
+## The Return of Blood Oxygen for Apple Watch
+
+date: 2025-08-14, from: Michael Tsai
+
+Apple (MacRumors, Hacker News): Apple will introduce a redesigned Blood Oxygen feature for some Apple Watch Series 9, Series 10, and Apple Watch Ultra 2 users through an iPhone and Apple Watch software update coming later today. [&#8230;] This update was enabled by a recent U.S. Customs ruling. Victoria Song: To get around the ban, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/14/the-return-of-blood-oxygen-for-apple-watch/>
+
+---
+
+## Infinite Canvas
+
+date: 2025-08-14, from: Michael Tsai
+
+Christian Tietze (Mastodon): InfiniteCanvas is a simple, delightful &#8220;whiteboarding&#8221; app. It&#8217;s not for fine art, but for conceptual drawings, and gets out of your way so that you can get ideas on the (digital) paper quickly. [&#8230;] Infinite Canvas is like Prezi (the presentation app) for drawings: you can nest drawings &#8216;inside&#8217; others by zooming [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/14/infinite-canvas/>
+
+---
+
+## Upgrading My Mac’s External SSD
+
+date: 2025-08-14, from: Michael Tsai
+
+I recently replaced a 4 TB 2.5-inch hard drive with a same-sized SSD, with the goal of making it quieter and faster. Instead, it got much slower. As far as I can tell, there&#8217;s nothing wrong with the SSD itself (a Samsung T7). The drive tests fine, and I have half a dozen other drives [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/14/upgrading-my-macs-external-ssd/>
+
+---
+
+## Your Mac Game Is Probably Rendering Blurry
+
+date: 2025-08-14, from: Michael Tsai
+
+Colin Cornaby: I&#8217;ve submitted the issue described in this post to Apple as FB13375033. This issue has been open since September of 2023.If you game on a MacBook display &#x2013; your game is probably rendering wrong unless you&#8217;ve adjusted your settings. If you&#8217;re a developer building a full screen game in AppKit (or Catalyst) &#x2013; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/14/your-mac-game-is-probably-rendering-blurry/>
+
+---
+
+## Elecrow’s Mini PC case brings a gamer aesthetic to the Raspberry Pi 5 or NVIDIA Jetson Orin Nano
+
+date: 2025-08-14, from: Liliputing
+
+<p>Elecrow has launched a Mini PC case that can house either a Raspberry Pi 5 or NVIDIA Jetson Orin Nano while extending the functionality of those little PCs. It also makes them look a little bit like tiny gaming PCs thanks to the clear acrylic side panels and RGB lighting effects. Available now from Elecrow, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/elecrows-mini-pc-case-brings-a-gamer-aesthetic-to-the-raspberry-pi-5-or-nvidia-jetson-orin-nano/">Elecrow&#8217;s Mini PC case brings a gamer aesthetic to the Raspberry Pi 5 or NVIDIA Jetson Orin Nano</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/elecrows-mini-pc-case-brings-a-gamer-aesthetic-to-the-raspberry-pi-5-or-nvidia-jetson-orin-nano/>
+
+---
+
+## Break Loose Once, Shame on You
+
+date: 2025-08-14, updated: 2025-08-14, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/14/break-loose-once-shame-on-you/>
+
+---
+
+## AOOSTAR MACO mini PC sports OCuLink, USB4, 2.5 Gb Ethernet and Ryzen 7 H 255 or Ryzen 7 PRO 8845HS processor options
+
+date: 2025-08-14, from: Liliputing
+
+<p>The AOOSTAR MACO is a small, relatively inexpensive computer that packs a lot of features into its little aluminum-alloy body. Available now in China for about 1999 CNY ($280) and up, the AOOSTAR Maco is available with a choice of AMD Ryzen 7 H 255 or Ryzen 7 PRO 8845HS Hawk Point processor options and features a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-maco-mini-pc-sports-oculink-usb4-2-5-gb-ethernet-and-ryzen-7-h-255-or-ryzen-7-pro-8845hs-processor-options/">AOOSTAR MACO mini PC sports OCuLink, USB4, 2.5 Gb Ethernet and Ryzen 7 H 255 or Ryzen 7 PRO 8845HS processor options</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aoostar-maco-mini-pc-sports-oculink-usb4-2-5-gb-ethernet-and-ryzen-7-h-255-or-ryzen-7-pro-8845hs-processor-options/>
+
+---
+
+## Introducing Gemma 3 270M: The compact model for hyper-efficient AI
+
+date: 2025-08-14, updated: 2025-08-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://developers.googleblog.com/en/introducing-gemma-3-270m/">Introducing Gemma 3 270M: The compact model for hyper-efficient AI</a></strong></p>
+New from Google:</p>
+<blockquote>
+<p>Gemma 3 270M, a compact, 270-million parameter model designed from the ground up for task-specific fine-tuning with strong instruction-following and text structuring capabilities already trained in.</p>
+</blockquote>
+<p>This model is <em>tiny</em>. The version I tried was <a href="https://lmstudio.ai/models/google/gemma-3-270m">the LM Studio GGUF one</a>, a 241MB download.</p>
+<p>It works! You can say "hi" to it and ask it very basic questions like "What is the capital of France".</p>
+<p>I tried "Generate an SVG of a pelican riding a bicycle" <a href="https://gist.github.com/simonw/25e7b7afd6a63a2f15db48b3a51ec9bc">about a dozen times</a> and didn't once get back an SVG that was more than just a blank square... but at one point it did decide to write me this poem instead, which was nice:</p>
+<pre><code>+-----------------------+
+|   Pelican Riding Bike |
++-----------------------+
+|  This is the cat!  |
+|  He's got big wings and a happy tail.  |
+|  He loves to ride his bike!  |
++-----------------------+
+|   Bike lights are shining bright.  |
+|   He's got a shiny top, too!  |
+|   He's ready for adventure!  |
++-----------------------+
+</code></pre>
+<p>That's not really the point though. The Gemma 3 team make it very clear that the goal of this model is to support fine-tuning: a model this tiny is never going to be useful for general purpose LLM tasks, but given the right fine-tuning data it should be able to specialize for all sorts of things:</p>
+<blockquote>
+<p>In engineering, success is defined by efficiency, not just raw power. You wouldn't use a sledgehammer to hang a picture frame. The same principle applies to building with AI.</p>
+<p>Gemma 3 270M embodies this "right tool for the job" philosophy. It's a high-quality foundation model that follows instructions well out of the box, and its true power is unlocked through fine-tuning. Once specialized, it can execute tasks like text classification and data extraction with remarkable accuracy, speed, and cost-effectiveness. By starting with a compact, capable model, you can build production systems that are lean, fast, and dramatically cheaper to operate.</p>
+</blockquote>
+<p>Here's their tutorial on <a href="https://ai.google.dev/gemma/docs/core/huggingface_text_full_finetune">Full Model Fine-Tune using Hugging Face Transformers</a>, which I have not yet attempted to follow.</p>
+<p>I imagine this model will be particularly fun to play with directly in a browser using <a href="https://huggingface.co/docs/transformers.js/en/index">transformers.js</a>.</p>
+<p><strong>Update</strong>: It is! Here's <a href="https://huggingface.co/spaces/webml-community/bedtime-story-generator">a bedtime story generator</a> using Transformers.js (requires WebGPU, so Chrome-like browsers only). Here's <a href="https://huggingface.co/spaces/webml-community/bedtime-story-generator/tree/main">the source code</a> for that demo.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=44902148">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/lm-studio">lm-studio</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/14/gemma-3-270m/#atom-everything>
+
+---
+
+## ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time
+
+date: 2025-08-14, from: 404 Media Group
+
+The texts were sent to a group called “Mass Text” and show ICE using DMV and license plate reader data in an attempt to find their target, copies of the messages obtained by 404 Media show. 
+
+<br> 
+
+<https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/>
+
+---
+
+## Drácula: blasfemar en nombre del amor
+
+date: 2025-08-14, from: Iván Paredes Reséndiz blog, Mexico's cinema
+
+<p>Dirección: Luc Besson. Guion: Luc Besson, Bram Stoker. Elenco: Caleb Landry Jones, Christoph Waltz, Zoë Bleu, Matilda De Angelis, Ewens Abid, Guillaume de Tonquédec, Bertrand-Xavier Corbi. Países: Reino Unido, Francia. Duración: 129 minutos.   Más información de la película: https://www.imdb.com/title/tt31434030/ Tengo una lista en Letterboxd llamada “I’ll have what they’re having: parejas que me hacen [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-dracula/">Drácula: blasfemar en nombre del amor</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+ 
+
+<br> 
+
+<https://www.palomitademaiz.net/resenas-dracula/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-dracula>
+
+---
+
+## Why History Favors Doers Over Critics
+
+date: 2025-08-14, from: Guy Kawasaki blog
+
+What if the secret to saving democracy isn&#8217;t choosing sides, but choosing principles? 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-history-favors-doers-over-critics>
+
+---
+
+## 4K Blu-Ray of 22-Year-Old 'Master and Commander' Is Sold Out Everywhere, Being Scalped on eBay
+
+date: 2025-08-14, from: 404 Media Group
+
+The cult classic 2005 film is selling for double the MSRP on the secondary market. 
+
+<br> 
+
+<https://www.404media.co/4k-blu-ray-of-22-year-old-master-and-commander-is-sold-out-everywhere-being-scalped-on-ebay/>
 
 ---
 
@@ -35,6 +246,75 @@ Reality is what Trump says it is
 
 ---
 
+## The Book of Records
+
+date: 2025-08-14, from: Ed Summers blog, Inkdroid
+
+<p>
+I recently finished <a
+href="https://en.wikipedia.org/wiki/Madeleine_Thien">Madeleine
+Thien</a>’s <a
+href="https://bookshop.org/p/books/the-book-of-records-madeleine-thien/21798601">The
+Book of Records</a> and found this in the acknowledgements at the end:
+</p>
+<blockquote>
+<p>
+<em>The Book of Records</em>, guided by histories, letters,
+philosophies, poetry, mathematics and physics, is a work of the
+imagination. I am indebted to the library, and to librarians, archivists
+and translators, for their companionship and light–they are the
+steadfast keepers of the building made of time.
+</p>
+</blockquote>
+<p>
+I like how this blends the people and infrastructure of libraries and
+record keeping, and recognizes them as partners in imagination. Reading
+and writing are the central theme, of this beautiful book, which David
+Naimon describes well in the opening to his extended <a
+href="https://tinhouse.com/podcast/madeleine-thien-the-book-of-records/">interview</a>
+with her:
+</p>
+<blockquote>
+<p>
+The Book of Records is many things: a book of historical fiction and
+speculative fiction, a meditation on time and on space-time, on
+storytelling and truth, on memory and the imagination, a book that
+impossibly conjures the lives and eras of the philosopher Baruch
+Spinoza, the Tang dynasty poet Du Fu and the political theorist Hannah
+Arendt not as mere ghostly presences but portrayed as vividly and
+tangibly as if they lived here and now in the room where we hold this
+very book. But most of all this is a book about books, about words as
+amulets, about stories as shelters, about novels as life rafts, about
+strangers saving strangers, about friendships that defy both space and
+time, about choosing, sometimes at great risk to oneself, life and love.
+</p>
+</blockquote>
+<p>
+I will add that the underlying theme of being a refugee from various
+forms of fascism and totalitarianism amidst a catastrophically changing
+climate really speaks to our moment–especially considering that the book
+took her ten years to write.
+</p>
+<p>
+I heard in the interview that Thien worked through copying Spinoza’s <a
+href="https://press.princeton.edu/books/hardcover/9780691193236/spinozas-ethics">Ethics</a>
+as an exercise while writing The Book of Records. I don’t know if I’m
+going to do this, but I did enjoy the sections on Spinoza a lot, and
+previously enjoyed reading about how his philosophy informed <a
+href="https://joyfulmilitancy.com/">Joyful Militancy</a>, so I got a
+copy too. Fun fact: <a
+href="https://en.wikipedia.org/wiki/George_Eliot">George Eliot</a> (Mary
+Ann Evans) wrote the first English translation of Ethics in 1856, but it
+sat unpublished until 1981.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/08/14/book-of-records/>
+
+---
+
 ## NLnet and CWI establish first public SCION connection in the Netherlands
 
 date: 2025-08-14, updated: 2025-08-14, from: nlnet feed
@@ -56,6 +336,18 @@ date: 2025-08-14, updated: 2025-08-14, from: nlnet feed
 <br> 
 
 <https://nlnet.nl/news/2025/20250814-SCION-Interview.html>
+
+---
+
+## Wasmtime 35 Brings AArch64 Support in Winch
+
+date: 2025-08-14, updated: 2025-08-14, from: Bytecode Alliance News
+
+Wasmtime is a fast, secure, standards compliant and lightweight WebAssembly (Wasm) runtime. As of Wasmtime 35, Winch supports AArch64 for Core Wasm proposals, along with additional Wasm proposals like the Component Model and Custom Page Sizes. 
+
+<br> 
+
+<https://bytecodealliance.org/articles/winch-aarch64-support>
 
 ---
 
@@ -462,6 +754,20 @@ Unpacking a popular new example from an AI researcher at Google DeepMind
 
 ---
 
+## Introducing the Librem PQC Encryptor
+
+date: 2025-08-12, from: Purism News and Events
+
+<p>SF, CA, US – Purism is excited to announce its <a href="https://puri.sm/products/librem-pqc-encryptor/">Librem PQC Encryptor</a>, encrypting data-in-transit with post-quantum cryptography (PQC) according to the <a href="https://csrc.nist.gov/pubs/fips/203/final">NIST FIPS 203</a> standard.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/introducing-the-librem-pqc-encryptor/">Introducing the Librem PQC Encryptor</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/introducing-the-librem-pqc-encryptor/>
+
+---
+
 ## A gentle introduction to anchor positioning
 
 date: 2025-08-12, from: WebKit blog
@@ -689,7 +995,7 @@ Kirk Freudenburg, Brooks and Suzanne Ragen Professor of Classics, Yale Universit
 
 date: 2025-08-12, from: Liliputing
 
-<p>The PinePhone Pro is a Linux-friendly smartphone that launched in early 2022 as a higher-performance alternative to the original PinePhone. With a faster processor, more memory and storage, and a better camera, among other things, it was a significant upgrade&#8230; on paper, at least. But with a $400 price tag, it was also twice as expensive as [&#8230;]</p>
+<p>The PinePhone Pro is a Linux-friendly smartphone that launched in early 2022 as a higher-performance alternative to the original PinePhone. With a faster processor, more memory and storage, and a better camera, among other things, it was a significant upgrade&#8230; on paper, at least. But with a $400 price tag, it was also twice as [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/pinephone-pro-linux-smartphone-has-been-discontinued-but-the-original-pinephone-is-still-available/">PinePhone Pro Linux smartphone has been discontinued, but the original PinePhone is still available</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

@@ -1,11 +1,219 @@
 ---
 title: pacific
-updated: 2025-08-14 06:08:55
+updated: 2025-08-14 14:08:47
 ---
 
 # pacific
 
-(date: 2025-08-14 06:08:55)
+(date: 2025-08-14 14:08:47)
+
+---
+
+## UH Hilo partners in $152M project on cutting-edge AI infrastructure
+
+date: 2025-08-14, from: University of Hawaiʻi News
+
+<p>The project will bring cutting&#8211;edge <abbr>AI</abbr> tools to <abbr>UH</abbr> Hilo, offering research opportunities, internships and collaborations with top experts.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/14/uh-hilo-project-ai-infrastructure/"><abbr>UH</abbr> Hilo partners in $152<abbr>M</abbr> project on cutting-edge <abbr>AI</abbr> infrastructure</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/14/uh-hilo-project-ai-infrastructure/>
+
+---
+
+## UH fellows use drones, virtual reality, moʻolelo to protect Hawaiʻi coasts
+
+date: 2025-08-14, from: University of Hawaiʻi News
+
+<p>The three Rappa Fellows include Olivia Boucher, Mailelauhulaliakauanoe (Maile) Ho and Joey Wu.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/14/rappa-fellows-2025/"><abbr>UH</abbr> fellows use drones, virtual reality, moʻolelo to protect Hawaiʻi coasts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/14/rappa-fellows-2025/>
+
+---
+
+## Pacific AFL talent to compete in Cairns
+
+date: 2025-08-14, from: 
+
+Papua New Guinea, Nauru, Fiji, New Zealand, Vanuatu and Tonga will comepete in the AFL Pacific region Under-17 Pacific Nations Challenge in September. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570042/pacific-afl-talent-to-compete-in-cairns>
+
+---
+
+## 'We need to be involved': Pasifika candidates running in Auckland local election
+
+date: 2025-08-14, from: 
+
+There are former Pasifika candidates and new faces putting their names forward for this year's Auckland local government election in Aotearoa. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570040/we-need-to-be-involved-pasifika-candidates-running-in-auckland-local-election>
+
+---
+
+## Fijian PM Rabuka's 'ocean of peace' proposal set for approval at Pacific leaders' summit
+
+date: 2025-08-14, from: 
+
+The Fijian Prime Minister's initiative to declare the Pacific an 'ocean of peace' is slated for approval at the Pacific Islands Forum Leaders Meeting in Honiara next month. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570041/fijian-pm-rabuka-s-ocean-of-peace-proposal-set-for-approval-at-pacific-leaders-summit>
+
+---
+
+## Manele wins: Door shut on Pacific Islands Forum partners in Honiara
+
+date: 2025-08-14, from: 
+
+Solomon Islands Prime Minister's proposal not to invite the likes of the US, China and Taiwan has been approved at the Pacific Islands Forum Foreign Ministers' Meeting in Fiji. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570014/manele-wins-door-shut-on-pacific-islands-forum-partners-in-honiara>
+
+---
+
+## Yuki’s attorney withdraws, citing conflict of interest
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+CITING a conflict of interest, attorney Mark Scoggins asked the federal court to allow him to withdraw from representing Sze Man Yu Inos, also known as “Yuki.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/yuki-s-attorney-withdraws-citing-conflict-of-interest/article_0a7f68b6-2e93-4da4-8391-a39b71392fac.html>
+
+---
+
+## NMC's Center for Training and Innovation and 500 Sails launch third cohort of traditional navigation program
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(NMC) — Northern Marianas College’s Center for Training and Innovation (formerly Community Development Institute), in collaboration with 500 Sails, will launch the third cohort of its immersive eight-week program on traditional navigation starting Sept. 9, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmcs-center-for-training-and-innovation-and-500-sails-launch-third-cohort-of-traditional-navigation/article_34ea2ed8-0e61-4ad2-8d0b-0dacd9706ec4.html>
+
+---
+
+## Red flags at 4 Rota sites
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Rota's recreational beaches and storm drainages this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-4-rota-sites/article_41f90b02-4ae1-4f12-beb3-1b6c8f661fc3.html>
+
+---
+
+## Pacific Islands Forum sticks with decision to block key donors from meeting
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+SYDNEY (Reuters) — The Pacific Islands bloc did not overturn a decision to exclude 21 donor countries, including the United States and China, from the region's top political meeting after a lengthy debate, officials said. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/pacific-islands-forum-sticks-with-decision-to-block-key-donors-from-meeting/article_9fe5f950-d1cb-433c-b2c6-6e73cc40e64b.html>
+
+---
+
+## 80 years ago today, Aug. 17, 1945
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+ALTHOUGH the Japanese government had tendered their offer to surrender on Aug. 10, according to the Potsdam Declaration, the terms were not satisfactory to the American leadership.  The Japanese offer had accepted Unconditional Surrender, but “with the understanding that said declaration does not comprise any demand which prejudices the prerogatives of His Majesty as a Sovereign Ruler.”  This appeared, at first, to contradict the concept of Unconditional Surrender. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/80-years-ago-today-aug-17-1945/article_5e6563df-fbfd-48e9-8b06-7b763a97f190.html>
+
+---
+
+## CUC management reports financial audit results, operational improvements, and renewable energy progress
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(CUC) — The Commonwealth Utilities Corporation’s management team, led by Executive Director Kevin O. Watson, MPA, shared a series of developments during its regular board meeting on Aug. 7, 2025, reflecting operational improvements and progress toward renewable energy goals. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cuc-management-reports-financial-audit-results-operational-improvements-and-renewable-energy-progress/article_52e6e757-c632-4ad1-a733-1b8433dc3a2c.html>
+
+---
+
+## CNMI Innovation Incubator launches first cohort of promising local startups
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(NMC) — After a competitive selection process conducted by a panel of industry experts and community leaders, the CNMI Innovation Incubator at Northern Marianas College recently selected 14 local startups to receive one-on-one mentorship, marketing guidance, strategic planning, and access to essential resources such as supplies and equipment. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-innovation-incubator-launches-first-cohort-of-promising-local-startups/article_21d4ddf4-2fc7-41d6-bc8d-785151943eb6.html>
+
+---
+
+## All-hazard mobile siren troubleshooting and testing
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(CNMI HSEM) — The CNMI Office of Homeland Security and Emergency Management will be troubleshooting and testing the all-hazard mobile siren on Friday, Aug. 15, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/all-hazard-mobile-siren-troubleshooting-and-testing/article_0ffd1427-656d-45e9-9a85-b6f1fe4fef32.html>
+
+---
+
+## Saipan Chamber to meet on Sept. 3
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce will hold its September general membership meeting (on Wednesday, Sept. 3, at the Hibiscus Hall, Crowne Plaza Resort Saipan, a valued Chamber member and event host. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-to-meet-on-sept-3/article_3c4338b2-456d-4f73-9f21-c61283369d60.html>
+
+---
+
+## US judge blocks Trump religious exemption to birth control coverage
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(Reuters) — A U.S. judge on Wednesday struck down rules adopted during President Donald Trump's first term that exempt employers with religious or moral objections from having to provide workers with insurance coverage for birth control. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-judge-blocks-trump-religious-exemption-to-birth-control-coverage/article_ac983a98-8c62-4b10-9f72-8de5cb57e93f.html>
+
+---
+
+## Farewell to Iroojlaplap Christopher Jorebon Loeak
+
+date: 2025-08-14, from: Marshal Islands Journal
+
+<p>FLOYD K. TAKEUCHI Christopher Jorebon Loeak, a former president of the Republic of the Marshall Islands and an Iroojlaplap, died on the afternoon of August 8 in Honolulu, Hawaii, where he had been under medical care. He was 72. Loeak served as the Marshall Islands’ fifth president (and seventh including those who served as acting [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/farewell-to-iroojlaplap-christopher-jorebon-loeak/">Farewell to Iroojlaplap Christopher Jorebon Loeak</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/farewell-to-iroojlaplap-christopher-jorebon-loeak/>
 
 ---
 
@@ -286,18 +494,6 @@ date: 2025-08-14, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/08/14/community/hta-invites-residents-to-share-their-thoughts-about-tourism/>
-
----
-
-## Manele wins: Door shut on Pacific Islands Forum partners in Honiara
-
-date: 2025-08-14, from: 
-
-Solomon Islands Prime Minister's proposal not to invite the likes of the US, China and Taiwan has been approved at the Pacific Islands Forum Foreign Ministers' Meeting in Fiji. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/570014/manele-wins-door-shut-on-pacific-islands-forum-partners-in-honiara>
 
 ---
 

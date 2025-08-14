@@ -1,11 +1,207 @@
 ---
 title: planet
-updated: 2025-08-14 06:08:52
+updated: 2025-08-14 14:08:44
 ---
 
 # planet
 
-(date: 2025-08-14 06:08:52)
+(date: 2025-08-14 14:08:44)
+
+---
+
+## ECL qualifiers recap: Rovers hit Ballkani for four
+
+date: 2025-08-14, from: RTÉ News
+
+Shamrock Rovers overcame a 1-0 deficit to hammer Ballkani and keep their Euro dream alive. 
+
+<br> 
+
+<https://www.rte.ie/sport/soccer/2025/0814/1528513-ecl-qualifiers-recap-pats-out-rovers-hit-ballkani-four/>
+
+---
+
+## Fine Gael focus in coming days to shift to new candidate
+
+date: 2025-08-14, from: RTÉ News
+
+The pressure will be on Fine Gael to look for a replacement presidential election candidate following the withdrawal of Mairead McGuinness from the race for the Áras, writes Juliette Gash. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0814/1528540-presidential-election/>
+
+---
+
+## EU working 'non-stop' to help countries hit by wildfires
+
+date: 2025-08-14, from: RTÉ News
+
+The EU said today that it is working "non-stop" to support countries as they continue to battle wildfires that have ravaged the continent for ten days. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0814/1528476-europe-on-fire/>
+
+---
+
+## Minors behind many attacks on Indian citizens - minister
+
+date: 2025-08-14, from: RTÉ News
+
+The Minister for Justice has said that many of the recent attacks on members of the Indian community appear to have been carried out by young people which, he said, poses a particular challenge within the criminal justice system. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0814/1528528-ocallaghan-attacks-indian-community/>
+
+---
+
+## Number of asylum seekers receiving daily allowance rises
+
+date: 2025-08-14, from: RTÉ News
+
+The number of International Protection Applicants who received a Daily Expense Allowance (DEA) rose by 7,000 last year, compared to 2023. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0814/1528532-direct-provision/>
+
+---
+
+## First Nations advocates disappointed as UN working group on enforced disappearances postpones visit
+
+date: 2025-08-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7469496.1740608150!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1735000229.jpg' alt='A flag of the United Nations flutters in a blue sky' width='620' height='349' title='A flag of the United Nations flutters at the main entrance of the &quot;Palais des Nations&quot; building which houses the United Nations Office at Geneva, on October 20, 2023. (Photo by Fabrice COFFRINI / AFP) (Photo by FABRICE COFFRINI/AFP via Getty Images)'/><p>A United Nations body that investigates cases of enforced disappearance is postponing a visit to Canada due to a lack of money, though First Nations advocates hope the group will soon visit to investigate the deaths of children at residential schools.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/un-working-group-disappearances-1.7609189?cmp=rss>
+
+---
+
+## Ireland becoming 'world leader' in cancer research
+
+date: 2025-08-14, from: RTÉ News
+
+Ireland is becoming a world leader in early detection cancer research, according to Breakthrough Cancer Research. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0814/1528518-cancer-research-exhibition/>
+
+---
+
+## Mairead McGuinness withdraws from presidential race
+
+date: 2025-08-14, from: RTÉ News
+
+Fine Gael presidential candidate Mairead McGuinness has announced that she is withdrawing from the race. 
+
+<br> 
+
+<https://www.rte.ie/news/presidential-election/2025/0814/1528512-mairead-mcguinness/>
+
+---
+
+## Israeli settlement plan would 'bury' Palestinian state
+
+date: 2025-08-14, from: RTÉ News
+
+Israel's far-right Minister for Finance Bezalel Smotrich has announced that work will start on a long-delayed settlement to divide the West Bank and cut if off from East Jerusalem. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0814/1528506-west-bank/>
+
+---
+
+## Zelenkyy, Starmer meet ahead of Trump, Putin summit in Alaska
+
+date: 2025-08-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/ebdaee1e-7ac2-4445-8e13-8926d9ca4464,1755197845931/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='British Prime Minister Keir Starmer and Ukrainian President Volodymyr Zelenskyy' width='620' height='349' title=''/><p>Ukrainian President Volodymyr Zelenskyy met with British Prime Minister Keir Starmer in London on Thursday. This comes one day before U.S. President Donald Trump is set to meet with Russian President Vladimir Putin in Alaska to discuss a possible ceasefire in Ukraine.</p> 
+
+<br> 
+
+<https://www.cbc.ca/player/play/9.6867280?cmp=rss>
+
+---
+
+## Former champion Dott to stand trial for child sex abuse
+
+date: 2025-08-14, from: RTÉ News
+
+Former world snooker champion Graeme Dott is to stand trial next year over allegations of child sex abuse. 
+
+<br> 
+
+<https://www.rte.ie/sport/snooker/2025/0814/1528502-former-champion-dott-to-stand-trial-for-child-sex-abuse/>
+
+---
+
+## WRC awards €50,000 to new mum denied part-time hours
+
+date: 2025-08-14, from: RTÉ News
+
+A security firm which refused to let a new mother come back to work on part-time hours after having her first baby has been ordered to pay her €50,000 in compensation for discrimination. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0814/1528501-wrc-awards-50-000-to-new-mum-denied-part-time-hours/>
+
+---
+
+## India’s March for Life unites faiths to defend voiceless lives of the unborn
+
+date: 2025-08-14, from: Vatican News
+
+
+                    <p>The 4th National March for Life brought people from across India and from different faith traditions together in Bangalore to affirm the value of human life at every stage. </p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/india-bangalore-fourth-march-for-life-bishops-conferences.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/india-bangalore-fourth-march-for-life-bishops-conferences.html>
+
+---
+
+## Policing report shows 'stretched, stressed workforce'
+
+date: 2025-08-14, from: RTÉ News
+
+The Association of Garda Sergeants and Inspectors has said the findings of the Crowe Report highlight a "stretched and stressed workforce" and that the review "must be a catalyst for real change". 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0814/1528490-crowe-report/>
+
+---
+
+## 7 Articles to get an overview of Church and Science by Christopher M. Graney – Aleteia
+
+date: 2025-08-14, from: Vatican Obervatory
+
+We invite you to take a look at this brief series, and finish with a better understanding of 2,000 years of (sometimes messy) cooperation. 
+
+<br> 
+
+<https://aleteia.org/2025/08/12/7-articles-to-get-an-overview-of-church-and-science/>
+
+---
+
+## Dublin museum offers deep dive into Oasis' Irish roots
+
+date: 2025-08-14, from: RTÉ News
+
+As Oasismania reaches fever pitch in Ireland this weekend with the band's two dates at Croke Park, one Dublin museum is getting in on the act and offering fans a chance to take a deep dive into the rockers' Irish roots. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0814/1528475-dublin-museum-presents-definitely-irish-the-oasis-tour/>
 
 ---
 
@@ -26,7 +222,7 @@ Presidential hopeful Gareth Sheridan has said he has support in Tipperary and La
 date: 2025-08-14, from: Vatican News
 
 
-                    <p>The Murillo-Ortega government confiscates the San José School run by the Josephine Sisters, accusing it of being the site of past crimes. The move has drawn a sharp reaction from the U.S. State Department.</p>
+                    <p>The Nicaraguan government confiscates the San José School run by the Josephine Sisters, accusing it of being the site of past crimes. The move has drawn a sharp reaction from the U.S. State Department.</p>
                     <p><a href="https://www.vaticannews.va/en/church/news/2025-08/nicaraguan-government-seizes-school-run-by-josephine-sisters.html">Read all</a></p>
                     <p>&nbsp;</p>
                      
@@ -69,6 +265,82 @@ date: 2025-08-14, from: Vatican News
 
 ---
 
+## ‘Humanitarian work, a moral obligation’: Retired doctor returns to face the ‘silent threat’ in Gaza
+
+date: 2025-08-14, from: United Nations, Top Stories
+
+Dr. Younis Awadallah, a paediatrician who is almost 70 years old, does not hesitate to say that “humanitarian work cannot be retired.” 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165654>
+
+---
+
+## Hunger and a heatwave plague the Gaza Strip
+
+date: 2025-08-14, from: United Nations, Top Stories
+
+As hunger and malnutrition deepen in the Gaza Strip, humanitarian missions continue to face delays and impediments, while scorching temperatures are adding to the suffering of the population. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165653>
+
+---
+
+## Syria: Violence in Alawite areas may be war crimes, say rights investigators
+
+date: 2025-08-14, from: United Nations, Top Stories
+
+Top UN human rights investigators said on Thursday that war crimes may have been committed in predominantly Alawite areas of Syria in a wave of deadly violence earlier this year. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165649>
+
+---
+
+## UN warns of steep rise in sexual violence during conflict
+
+date: 2025-08-14, from: United Nations, Top Stories
+
+Sexual violence in conflict zones rose sharply in 2024, increasing by a quarter compared to the previous year, the UN reported on Thursday. More than 4,600 survivors endured abuses used as weapons of war, torture, terrorism and political repression. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165650>
+
+---
+
+## Thief steals hundreds of pounds of furs from fort celebrating Francophone, Métis, First Nation heritage
+
+date: 2025-08-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7608663.1755177698!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/festival-du-voyageur-stolen-fur-story.jpg' alt='A person wearing traditional voyageur clothing sorts through furs on a table in a log cabin.' width='620' height='349' title='Furs were stolen from inside the trading post log cabin within Fort Gibraltar in Whittier Park on Monday, Aug. 11, 2025, according to Festival du Voyageur.'/><p>A thief scaled the tall wooden gates surrounding a national historic site in Winnipeg's St. Boniface neighbourhood this week and made off with thousands of dollars in furs used in public demonstrations of what life might've been like at fur trading posts 200 years ago.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/festival-du-voyageur-furs-stolen-fort-gibraltar-winnipeg-1.7608662?cmp=rss>
+
+---
+
+## Spain celebrates 75th Anniversary of the Dogma of the Assumption
+
+date: 2025-08-14, from: Vatican News
+
+
+                    <p>To mark the 75th anniversary of the proclamation of the dogma of the Assumption of Mary, the Brotherhood of Our Lady of the Assumption and the Most Holy Rosary of Cantillana, in Seville, Spain, hold traditional religious events in honor of their Patroness from 14-23 August.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/spain-celebrates-75th-anniversary-of-the-dogma-of-the-assumption.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/spain-celebrates-75th-anniversary-of-the-dogma-of-the-assumption.html>
+
+---
+
 ## Liverpool parade crash suspect facing new charges
 
 date: 2025-08-14, from: RTÉ News
@@ -81,6 +353,18 @@ A man accused of driving into crowds at Liverpool's Premier League victory parad
 
 ---
 
+## Liverpool parade crash suspect facing new charges
+
+date: 2025-08-14, from: RTÉ News
+
+A 53-year-old man accused of driving into crowds at Liverpool's Premier League victory parade faces an additional 24 charges, including two relating to alleged victims who are babies. 
+
+<br> 
+
+<https://www.rte.ie/news/uk/2025/0814/1528417-liverpool-parade-court/>
+
+---
+
 ## CHI investigated over data breach at Tallaght hospital
 
 date: 2025-08-14, from: RTÉ News
@@ -90,6 +374,18 @@ The Data Protection Commission (DPC) has launched an inquiry into Children's Hea
 <br> 
 
 <https://www.rte.ie/news/2025/0814/1528411-data-protection-inquiry/>
+
+---
+
+## CHI investigated over data breach at Tallaght hospital
+
+date: 2025-08-14, from: RTÉ News
+
+The Data Protection Commission has launched an inquiry into Children's Health Ireland over the physical safety and security of children's personal health records at the CHI facility on the Tallaght University Hospital campus. 
+
+<br> 
+
+<https://www.rte.ie/news/health/2025/0814/1528411-data-protection-inquiry/>
 
 ---
 
@@ -109,6 +405,18 @@ date: 2025-08-14, from: Vatican News
 
 ---
 
+## More than 100 aid groups call on Israel to end 'weaponization' of aid in Gaza
+
+date: 2025-08-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7608901.1755186772!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians-gaza.jpg' alt='A crowd of people push each other to get to aid.' width='620' height='349' title='Palestinians struggle to collect humanitarian aid airdropped by parachutes into Gaza City, northern Gaza Strip, Thursday, Aug. 14, 2025. (AP Photo/Jehad Alshrafi)'/><p>More than 100 non-profit groups warned Thursday that Israel's rules for aid groups working in the Gaza Strip and occupied West Bank will block much-needed relief and replace independent organizations with those that serve Israel's political and military agenda, charges that Israel denied.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/israel-gaza-aid-groups-letter-1.7608692?cmp=rss>
+
+---
+
 ## Man in his 40s dies after two-car collision in Limerick
 
 date: 2025-08-14, from: RTÉ News
@@ -121,7 +429,7 @@ A man in his 40s has died after a crash in Co Limerick this morning.
 
 ---
 
-## Number of Roads Policing gardaí 'unproductive' - report
+## Number of roads policing gardaí 'unproductive' - report
 
 date: 2025-08-14, from: RTÉ News
 
@@ -145,11 +453,11 @@ The Irish Beekeepers' Association has warned that Asian hornets could "wreak hav
 
 ---
 
-## EU working 'non-stop' to support fire-affected countries
+## Wildfires kill three people across southern Europe
 
 date: 2025-08-14, from: RTÉ News
 
-The EU has said it was working "non-stop" to support countries battling wildfires raging across European countries. 
+Hundreds of firefighters are battling to put out wildfires across southern Europe, some of which are believed to have been set deliberately by arsonists and stoked by an extended heat wave gripping the region. 
 
 <br> 
 
@@ -177,7 +485,7 @@ date: 2025-08-14, from: Vatican News
 
 date: 2025-08-14, from: RTÉ News
 
-A man who was deported from Ireland to Nigeria earlier this summer has been granted leave to return to Ireland to look again for international protection, effectively overturning his deportation order. 
+A man who was deported from Ireland to Nigeria earlier this summer has been granted leave to return to look again for international protection, effectively overturning his deportation order. 
 
 <br> 
 
@@ -257,6 +565,18 @@ At least 40 people have died in Sudan's Darfur region in the country's worst cho
 
 ---
 
+## Over 40 dead in Sudan cholera outbreak, says MSF
+
+date: 2025-08-14, from: RTÉ News
+
+At least 40 people have died in Sudan's Darfur region in the country's worst cholera outbreak in years, Doctors Without Borders (MSF) said. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0814/1528383-sudan-cholera-outbreak/>
+
+---
+
 ## Dicastery for the Laity, the Family and Life
 
 date: 2025-08-14, from: Vatican News
@@ -297,6 +617,18 @@ Israeli forces demolished houses in eastern areas of Gaza city overnight, killin
 
 ---
 
+## 17 killed as Israeli forces step up Gaza city bombardment
+
+date: 2025-08-14, from: RTÉ News
+
+Israeli forces demolished houses in eastern areas of Gaza city overnight, killing at least 11 people in aerial and tank fire, local health authorities said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0814/1528362-gaza-israel/>
+
+---
+
 ## 'Kidfluencing' - What are pros and cons of posting kids content?
 
 date: 2025-08-14, from: RTÉ News
@@ -330,6 +662,18 @@ Two communities on the Laois-Kilkenny border say they are concerned about the en
 <br> 
 
 <https://www.rte.ie/news/leinster/2025/0814/1528347-windfarm-concerns-laois/>
+
+---
+
+## Concerns over wind project on Laois-Kilkenny border
+
+date: 2025-08-14, from: RTÉ News
+
+Two communities on the Laois-Kilkenny border say they are concerned about the environmental and health impacts of a proposed wind project in their area and are appealing to the Government to urgently update guidelines around wind energy projects. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0814/1528347-windfarm-concerns-laois/>
 
 ---
 
@@ -369,11 +713,11 @@ Russia and Ukraine have exchanged 84 prisoners, both sides said, the latest in a
 
 ---
 
-## Zelensky meets Starmer ahead of Trump-Putin summit
+## Trump says peace is possible between Putin and Zelensky
 
 date: 2025-08-14, from: RTÉ News
 
-British Prime Minister Keir Starmer was joined by the Ukrainian president at Downing Street this morning, as Europe braces for the outcome of Donald Trump's face-to-face discussions with his Russian counterpart tomorrow. 
+US President Donald Trump has expressed optimism about the possibility of peace between Vladimir Putin and Volodymyr Zelensky. 
 
 <br> 
 
@@ -623,13 +967,9 @@ date: 2025-08-13, from: Vatican News
 
 ## Pope Leo returns to Castel Gandolfo for Assumption holiday weekend
 
-date: 2025-08-13, from: Vatican News
+date: 2025-08-13, from: Vatican Obervatory
 
-
-                    <p>Pope Leo XIV has returned to the hilltop town of Castel Gandolfo, where he will celebrate Mass and enjoy the cooler weather over the feast of the Assumption of Mary.</p>
-                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-returns-castel-gandolfo-assumption-holiday.html">Read all</a></p>
-                    <p>&nbsp;</p>
-                     
+The VO got the smallest of mentions in this article 
 
 <br> 
 
@@ -771,7 +1111,7 @@ A heatwave is possible in Ireland this week, although cooler temperatures may pr
 
 ## How nuclear technology can help fight seafood fraud
 
-date: 2025-08-13, from: United Nations, Top Stories
+date: 2025-08-13, from: United Nations, Climate Change
 
 Across the globe, consumers and small-scale fishers alike are facing a growing challenge: seafood fraud. 
 
@@ -1595,7 +1935,7 @@ The United Nations continues to draw attention to the dire humanitarian situatio
 
 ## The world has the tools to end Haiti’s crisis – it’s time to use them
 
-date: 2025-08-12, from: United Nations, Top Stories
+date: 2025-08-12, from: United Nations, UN Affairs
 
 During her final briefing as resident and humanitarian coordinator for Haiti, Ulrika Richardson struggled to describe the realities of life in Haiti.&nbsp; 
 
@@ -1667,7 +2007,7 @@ UN-mandated independent investigators have uncovered “systematic torture” in
 
 ## Celebrating youth: ‘When young people take the lead, everyone gains’
 
-date: 2025-08-12, from: United Nations, Top Stories
+date: 2025-08-12, from: United Nations, Economic Development
 
 Colourful blocks for stacking or perhaps an abacus for counting – these are the sorts of tactile objects one might expect to see in a kindergarten classroom.&nbsp; 
 
@@ -2981,7 +3321,7 @@ It is essential to work towards a two-State solution to the Israel-Palestine con
 
 ## From crisis to cultivation: Haiti’s farmers build resilience one seed at a time
 
-date: 2025-08-10, from: United Nations, Top Stories
+date: 2025-08-10, from: United Nations, Economic Development
 
 For years, low-quality seeds have been a concern in Haiti, with continual climate shocks and political insecurity adding to the existing challenges that farmers face in their attempts to grow food.&nbsp; 
 

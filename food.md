@@ -1,11 +1,153 @@
 ---
 title: food
-updated: 2025-08-14 06:09:02
+updated: 2025-08-14 14:08:55
 ---
 
 # food
 
-(date: 2025-08-14 06:09:02)
+(date: 2025-08-14 14:08:55)
+
+---
+
+## Why I Always Keep a Batched Negroni In My Fridge
+
+date: 2025-08-14, from: Bon Appetet
+
+For starters, it’s an easy way to earn a reputation as the host with the most. 
+
+<br> 
+
+<https://www.bonappetit.com/story/batched-fridge-negroni>
+
+---
+
+## I Tried the New Reese’s Oreo Collab, and It’s Everything I’ve Ever Wanted
+
+date: 2025-08-14, from: Taste of Home
+
+<p>Two comfort snacks merging into not one, but two new snacks? It's the food news of my dreams.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/reeses-oreo-collab-2025/">I Tried the New Reese&#8217;s Oreo Collab, and It&#8217;s Everything I&#8217;ve Ever Wanted</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/reeses-oreo-collab-2025/>
+
+---
+
+## Perfect Pie Crust
+
+date: 2025-08-14, from: Bon Appetet
+
+One technique will give you foolproof, flaky pie crust every time. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/homemade-perfect-pie-crust>
+
+---
+
+## Cheese Recall: Wegmans Recalls Camembert Products Due to Listeria Risk
+
+date: 2025-08-14, from: Taste of Home
+
+<p>Wegmans is recalling Camembert cheese sold in nine states and Washington, D.C. due to possible listeria contamination. These are the affected products.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wegmans-camembert-cheese-recall-august-2025/">Cheese Recall: Wegmans Recalls Camembert Products Due to Listeria Risk</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wegmans-camembert-cheese-recall-august-2025/>
+
+---
+
+## The Caraway Cookware Our Editors Approve for Home Kitchen Chefs
+
+date: 2025-08-14, from: Taste of Home
+
+<p>Trying to figure out whether Caraway is worth the splurge? We tested cookware, bakeware and accessories from the trendy brand to help you decide.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/caraway-reviews/">The Caraway Cookware Our Editors Approve for Home Kitchen Chefs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/caraway-reviews/>
+
+---
+
+## I Ditched My Black Plastic Spatula for This Nontoxic Alternative
+
+date: 2025-08-14, from: Bon Appetet
+
+Snag It for 30% Off Before It Sells Out 
+
+<br> 
+
+<https://www.bonappetit.com/story/material-silicone-turner>
+
+---
+
+## Cilantro Lime Cauliflower Rice
+
+date: 2025-08-14, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/cilantro-cauliflower-rice/"><img title="cilantro-lime-cauliflower-rice-small-2025-6" src="https://www.isabeleats.com/wp-content/uploads/2021/04/cilantro-lime-cauliflower-rice-small-2025-6-400x600.jpg" alt="Cilantro Lime Cauliflower Rice" width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Made with cauliflower, olive oil (or butter), lime, and cilantro, this zesty cilantro lime cauliflower rice is on the table&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/cilantro-cauliflower-rice/>
+
+---
+
+## Climate Study in Yunnan Identifies Biggest Threats to Arabica Coffee
+
+date: 2025-08-14, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="arabica coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As climate change throughout the tropics redraws the map of where the sensitive arabica species may be ideally grown, researchers in China recently set out to identify the most impactful... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/14/climate-study-in-yunnan-identifies-biggest-threats-to-arabica-coffee/>
+
+---
+
+## Smith Island Cake
+
+date: 2025-08-14, from: Taste of Home
+
+Meet Smith Island cake—a beloved Maryland dessert that's rooted in community and coated in chocolate. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/smith-island-cake/>
+
+---
+
+## Culture is Key at the CTRL Z Cafe in Chicago
+
+date: 2025-08-14, from: Daily Coffee News
+
+<div><img width="620" height="444" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-620x444.jpg" class="attachment-large size-large wp-post-image" alt="CTRL Z Coffee Chicago 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-620x444.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-300x215.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-768x549.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The first brick-and-mortar coffee shop by roaster CTRL Z Coffee is now open on Chicago&#8217;s South Side, keying deeply into the coffees and flavors of the Philippines. Inside the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/14/culture-is-key-at-the-ctrl-z-cafe-in-chicago/>
+
+---
+
+## Build-Outs Of Coffee: Rutina Coffee In Miami, FL
+
+date: 2025-08-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Rutina Coffee in Miami, Florida. 
+
+<br> 
+
+<https://sprudge.com/build-outs-of-coffee-rutina-coffee-in-miami-fl-375598.html>
 
 ---
 
@@ -103,7 +245,7 @@ date: 2025-08-14, from: Taste of Home
 
 date: 2025-08-13, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dollar General recall" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Discount retail giant Dollar General announced a voluntary nationwide recall of three lots of its private-label instant coffee products due to potential glass contamination. The recall affects 8-ounce containers of... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dollar General recall" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Discount retail giant Dollar General announced a voluntary nationwide recall of three lots of its private-label instant coffee products due to potential glass contamination. The recall affects 8-ounce containers of... 
 
 <br> 
 
@@ -115,7 +257,7 @@ date: 2025-08-13, from: Daily Coffee News
 
 date: 2025-08-13, from: Daily Coffee News
 
-<div><img width="620" height="310" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-620x310.jpg" class="attachment-large size-large wp-post-image" alt="Counter Culture Coffee logo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-620x310.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-300x150.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-150x75.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-768x384.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Influential specialty coffee roasting company Counter Culture Coffee recently named Joe Prewett as CEO, replacing founder Brett Smith in the position. With the change, which came into effect Aug. 1,... 
+<div><img width="620" height="310" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-620x310.jpg" class="attachment-large size-large wp-post-image" alt="Counter Culture Coffee logo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-620x310.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-300x150.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-150x75.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo-768x384.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Counter-Culture-Coffee-logo.jpg 1200w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Influential specialty coffee roasting company Counter Culture Coffee recently named Joe Prewett as CEO, replacing founder Brett Smith in the position. With the change, which came into effect Aug. 1,... 
 
 <br> 
 
@@ -132,6 +274,18 @@ The best since sliced bread.
 <br> 
 
 <https://www.bonappetit.com/story/best-loaf-pans>
+
+---
+
+## Carrot Ribbon Salad
+
+date: 2025-08-13, from: Taste of Home
+
+You (and your fork) will be twirling with delight after just one bite of this healthy carrot ribbon salad with a tangy Mediterranean vinaigrette. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/carrot-ribbon-salad/>
 
 ---
 
@@ -159,6 +313,30 @@ I did not think a tool like this could ever justify such a crazy price. I was wr
 
 ---
 
+## Honey Deuce Cocktail
+
+date: 2025-08-13, from: Taste of Home
+
+The official drink of the US Open is clever, tart and sweet—and easy to replicate at home. The honey deuce cocktail is proof that great sips and great tennis are all about the perfect serve. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/honey-deuce-cocktail/>
+
+---
+
+## Banana Bread Latte
+
+date: 2025-08-13, from: Taste of Home
+
+We've seen some pretty amazing coffee flavor mashups over the years, but this viral banana bread latte may just be our favorite one yet. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/banana-bread-latte/>
+
+---
+
 ## The New Dona Library Box Set Is A Tea Lover’s Dream
 
 date: 2025-08-13, from: The Sprudge
@@ -175,7 +353,7 @@ date: 2025-08-13, from: The Sprudge
 
 date: 2025-08-13, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-620x414.png" class="attachment-large size-large wp-post-image" alt="football coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The NFL&#8217;s Denver Broncos and affiliate organization Stadium Mgmt Co LLC filed a civil suit last week alleging that the team&#8217;s now-defunct official coffee partner is infringing on intellectual... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-620x414.png" class="attachment-large size-large wp-post-image" alt="football coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/football-coffee.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The NFL&#8217;s Denver Broncos and affiliate organization Stadium Mgmt Co LLC filed a civil suit last week alleging that the team&#8217;s now-defunct official coffee partner is infringing on intellectual... 
 
 <br> 
 

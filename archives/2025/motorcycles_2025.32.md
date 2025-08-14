@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-08-14 06:09:00
+updated: 2025-08-14 14:08:53
 ---
 
 # motorcycles
 
-(date: 2025-08-14 06:09:00)
+(date: 2025-08-14 14:08:53)
+
+---
+
+## Get Excited, The KTM 160 Duke Might Be The Most Badass Beginner Bike Out There
+
+date: 2025-08-14, from: Ride Apart, Electric Motorcycle News
+
+It is, of course, made by KTM’s now-majority stakeholder Bajaj, so you can expect decent quality and performance from this beginner-focused hooligan. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768698/ktm-160-duke-launched-specs-features-details/>
+
+---
+
+## Richmond & Daytona Loom Large in Final Playoff Push
+
+date: 2025-08-14, from: Kickin the Tires blog
+
+WATKINS GLEN, N.Y. – While NASCAR road course racing always presents the potential for dramatic influence on the NASCAR Cup Series championship standings, Sunday’s Go Bowling at The Glen essentially&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/richmond-daytona-loom-large-in-final-playoff-push/>
+
+---
+
+## Cover Your Ears, SC-Project Just Dropped Exhaust Systems For The Kawasaki Z900
+
+date: 2025-08-14, from: Ride Apart, Electric Motorcycle News
+
+SC-Project has a bunch of new exhaust systems specifically designed for the Kawasaki Z900. Take your pick from the race-inspired CR-T to the subtle and classy SC1-R. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768696/sc-project-exhaust-2025-kawasaki-z900/>
 
 ---
 

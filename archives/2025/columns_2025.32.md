@@ -1,11 +1,387 @@
 ---
 title: columns
-updated: 2025-08-14 06:08:57
+updated: 2025-08-14 14:08:49
 ---
 
 # columns
 
-(date: 2025-08-14 06:08:57)
+(date: 2025-08-14 14:08:49)
+
+---
+
+##  Michael Chabon on the time he tried to get hired to write... 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047333-michael-chabon-on-the-tim>
+
+---
+
+##  Generous Media 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/generous-media>
+
+---
+
+##  From the inbox: &#8220;ldial is a website for listening to a curated... 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047344-from-the-inbox-ldial-a>
+
+---
+
+##  &#8220;If you want to fight for what&#8217;s right in this moment, and... 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047345-if-you-want-to-fight>
+
+---
+
+## The Case for MyTerms
+
+date: 2025-08-14, from: Doc Searls (at Harvard), New Old Blog
+
+We know more than we can tell. That was how Michael Polanyi distinguished between tacit and explicit knowing. We may know tacitly how we form speech, ride a bike, or sense when to shake hands with someone, or hug them. But we can&#8217;t explain all the signals and mechanisms involved. Not exactly. In the natural [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/08/14/the-case-for-myterms/>
+
+---
+
+##  Radiohead: Hail to the Thief (Live Recordings 2003-2009) 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/radiohead-hail-to-the-thief-live-recordings-2003-2009>
+
+---
+
+## The Drugs Are Taking Hold
+
+date: 2025-08-14, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/3/35/Flickr_-_cyclonebill_-_Spejl%C3%A6g.jpg" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="768" data-original-width="1024" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flickr_-_cyclonebill_-_Spejl%C3%A6g.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.flickr.com/people/23178876@N03">cyclonebill</a> <a href="https://creativecommons.org/licenses/by-sa/2.0">CC-BY-SA</a></td></tr></tbody></table>
+In <a href="https://blog.dshr.org/2025/07/the-selling-of-ai.html"><i>The Selling Of AI</i></a> I compared the market strategy behind the AI bubble to the drug-dealer's algorithm, "the first one's free". As the drugs take hold of an addict, three things happen:<br />
+<ul>
+  <li>Their price rises.</li>
+  <li>The addict needs bigger doses for the same effect.</li>
+  <li>Their deleterious effects kick in. </li>
+</ul>
+As expected, this what is happening to AI. Follow me below the fold for the details.<br />
+<span><a name='more'></a></span>
+<br />
+<h3>The price rises</h3>
+Ethan Ding starts <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed"><i>tokens are getting more expensive</i></a> thus:<br />
+<blockquote>
+imagine you start a company knowing that consumers won't pay more than $20/month. fine, you think, classic vc playbook - charge at cost, sacrifice margins for growth. you've done the math on cac, ltv, all that. but here's where it gets interesting: you've seen the <a href="https://a16z.com/llmflation-llm-inference-cost/">a16z chart showing llm costs dropping 10x every year</a>.<br />
+<br />
+so you think: i'll break even today at $20/month, and when models get 10x cheaper next year, boom - 90% margins. the losses are temporary. the profits are inevitable.<br />
+<br />
+it’s so simple a VC associate could understand it:<br />
+<br />
+year 1: break even at $20/month<br />
+<br />
+year 2: 90% margins as compute drops 10x<br />
+<br />
+year 3: yacht shopping<br />
+<br />
+it’s an understandable strategy: "the cost of LLM inference has dropped by a factor of 3 every 6 months, we’ll be fine”
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjhCJQ5POMVzh4GFpaP_XYM-5OJEczbb8IlUUQbowOet88NC4OnJewuAsEU__qwQbZqIlb0196rFOgQQ9rOXLlgpC_eJ-ZzfnyH0nT7pwbpwUkgBF9mmTawCa1Zj0SJLPSXlVstOvOI_-T2bzB7azJHx24N2OAiw6szvu9VoRDpeVhd_Hz4Gm2ZFbDrvq3/s1026/FreeVsPaid.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1026" data-original-width="788" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjhCJQ5POMVzh4GFpaP_XYM-5OJEczbb8IlUUQbowOet88NC4OnJewuAsEU__qwQbZqIlb0196rFOgQQ9rOXLlgpC_eJ-ZzfnyH0nT7pwbpwUkgBF9mmTawCa1Zj0SJLPSXlVstOvOI_-T2bzB7azJHx24N2OAiw6szvu9VoRDpeVhd_Hz4Gm2ZFbDrvq3/w154-h200/FreeVsPaid.png" width="154" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://menlovc.com/perspective/2025-the-state-of-consumer-ai/">Source</a></td></tr></tbody></table>
+The first problem with this is that only <a href="https://www.zdnet.com/article/only-8-of-americans-would-pay-extra-for-ai-according-to-zdnet-aberdeen-research/">8% of the users</a> will pay the $20/month, the 92% use it for free (<a href="https://menlovc.com/perspective/2025-the-state-of-consumer-ai/">Menlo Ventures</a> thinks it is only 3%). Indeed it turns out that an entire government agency only pays $1/year, as Samuel Axon reports in <a href="https://arstechnica.com/ai/2025/08/openai-announces-deal-to-offer-chatgpt-to-us-executive-branch-at-almost-no-cost/"><i>US executive branch agencies will use ChatGPT Enterprise for just $1 per agency</i></a>:<br />
+<blockquote>
+The workers will have access to ChatGPT Enterprise, a type of account that includes access to frontier models and cutting-edge features with relatively high token limits, alongside a more robust commitment to data privacy than general consumers of ChatGPT get. ChatGPT Enterprise has been trialed over the past several months at several corporations and other types of large organizations.<br />
+<br />
+The workers will also have unlimited access to advanced features like Deep Research and Advanced Voice Mode for a 60-day period. After the one-year trial period, the agencies are under no obligation to renew.
+</blockquote>
+Did I mention the drug-dealer's algorithm?<br />
+<br />
+But that's not one of the two problems Ding is discussing.  He is wondering why instead of yacht shopping, <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">this happened</a>:<br />
+<blockquote>
+but after 18 months, margins are about as negative as they’ve ever been… windsurf’s been sold for parts, and claude code has had to roll back their original unlimited $200/mo tier this week.<br />
+<br />
+companies are still bleeding. the models got cheaper - gpt-3.5 costs 10x less than it used to. but somehow the margins got worse, not better.
+</blockquote>
+What the A16Z graph shows is the rapid reduction in cost per token of <i>each specific model</i>, but also the rapid pace at which each specific model is supplanted by a better successor. Ding notes that users want the <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">current best model</a>:<br />
+<blockquote>
+gpt-3.5 is 10x cheaper than it was. it's also as desirable as a flip phone at an iphone launch.<br />
+<br />
+when a new model is released as the SOTA, 99% of the demand immediatley shifts over to it. consumers expect this of their products as well.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl7MQ7jNzlS4E0tCW3EvYqF0rfLsyiF32AyaFUSDEzQ0JnnuOFAVJL9HSV8d8BH4vhRLUL03D9Xsi3kDdqTODfaLjBkyZiooFmTBBJMwKkc4gMTut41XVaIAWw1_xKJviOnjzGVnJASZ_eS04_cfXAuM636gbkUiNELseRn8Ftd7-jLqYaUOHoOgdGBtcV/s1488/WinnersTokenCost.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="884" data-original-width="1488" height="119" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl7MQ7jNzlS4E0tCW3EvYqF0rfLsyiF32AyaFUSDEzQ0JnnuOFAVJL9HSV8d8BH4vhRLUL03D9Xsi3kDdqTODfaLjBkyZiooFmTBBJMwKkc4gMTut41XVaIAWw1_xKJviOnjzGVnJASZ_eS04_cfXAuM636gbkUiNELseRn8Ftd7-jLqYaUOHoOgdGBtcV/w200-h119/WinnersTokenCost.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">Source</a></td></tr></tbody></table>
+Which causes the first of the two problems Ding is describing. His graph shows that the cost per token of the model users actually want is <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">approximately constant</a>:<br />
+<blockquote>
+the 10x cost reduction is real, but only for models that might as well be running on a commodore 64.<br />
+<br />
+so this is the first faulty pillar of the “costs will drop” strategy: demand exists for "the best language model," period. and the best model always costs about the same, because that's what the edge of inference costs today.<br />
+...<br />
+when you're spending time with an ai—whether coding, writing, or thinking—you always max out on quality. nobody opens claude and thinks, "you know what? let me use the shitty version to save my boss some money." we're cognitively greedy creatures. we want the best brain we can get, especially if we’re balancing the other side with our time.
+</blockquote>
+So the business model based on the cost of inference dropping 10x per year doesn't work. But that isn't the worst of the two problems. While it is true that the cost in dollars of a set number of tokens is roughly constant, the number of tokens a user needs <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">is not</a>:<br />
+<blockquote>
+while it's true each generation of frontier model didn't get more expensive per token, something else happened. something worse. the number of tokens they consumed went absolutely nuclear.<br />
+<br />
+chatgpt used to reply to a one sentence question with a one sentence reply. now deep research will spend 3 minutes planning, and 20 minutes reading, and another 5 minutes re-writing a report for you while o3 will just run for 20-minutes to answer “hello there”.<br />
+<br />
+the explosion of rl and test-time compute has resulted in something nobody saw coming: the length of a task that ai can complete has been doubling every six months. what used to return 1,000 tokens is now returning 100,000.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFHEP85n7q2RgCn-i1CUScadOEylRKnM_qZGNeexzQBRMRlyvpboYIFDq9rdEENPeyaVO3i5ND12sRKt1GYxaclIwJYddoPyG3O7VLPXLulWCu43RMEGbiyRKjEYZhoRpOTLv1CTlRJNMoH1KER-njLa_yxFxAcyxpQj-9r_KxxCZZWzNKF3AJ6zKKtO5/s1292/TenBillionTokens.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="843" data-original-width="1292" height="131" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFHEP85n7q2RgCn-i1CUScadOEylRKnM_qZGNeexzQBRMRlyvpboYIFDq9rdEENPeyaVO3i5ND12sRKt1GYxaclIwJYddoPyG3O7VLPXLulWCu43RMEGbiyRKjEYZhoRpOTLv1CTlRJNMoH1KER-njLa_yxFxAcyxpQj-9r_KxxCZZWzNKF3AJ6zKKtO5/w200-h131/TenBillionTokens.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.viberank.app/">Source</a></td></tr></tbody></table>
+Users started by trying fairly simpple tasks on fairly simple models. The power users, the ones in the 8%, were happy with the results and graduated to trying complex questions on frontier models. So their consumption of tokens <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">exploded</a>:<br />
+<blockquote>
+today, a 20-minute "deep research" run costs about $1. by 2027, we'll have agents that can run for 24 hours straight without losing the plot… combine that with the static price of the frontier? that’s a ~$72 run. per day. per user. with the ability to run multiple asynchronously.<br />
+<br />
+once we can deploy agents to run workloads for 24 hours asynchronously, we won't be giving them one instruction and waiting for feedback. we'll be scheduling them in batches. entire fleets of ai workers, attacking problems in parallel, burning tokens like it's 1999.<br />
+<br />
+obviously - and i cannot stress this enough - a $20/month subscription cannot even support a user making a single $1 deep research run a day. but that's exactly what we're racing toward. every improvement in model capability is an improvement in how much compute they can meaningfully consume at a time.
+</blockquote>
+The power users were on Anthropic's unlimited plan, so <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">this happened</a>:<br />
+<blockquote>
+users became api orchestrators running 24/7 code transformation engines on anthropic's dime. the evolution from chat to agent happened overnight. 1000x increase in consumption. phase transition, not gradual change.<br />
+<br />
+so anthropic rolled back unlimited. they could've tried $2000/month, but the lesson isn't that they didn't charge enough, it’s that there’s no way to offer unlimited usage in this new world under any subscription model.<br />
+<br />
+it's that <b>there is no flat subscription price that works in this new world</b>.
+</blockquote>
+Ed Zitron's <a href="https://www.wheresyoured.at/ai-is-a-money-trap/"><i>AI Is A Money Trap</i></a> looks at the effect of Anthropic figuring this out on Cursor:<br />
+<blockquote>
+the single-highest earning generative AI company that isn’t called OpenAI or Anthropic, and the highest-earning company built on top of (primarily) Anthopic’s technology.
+</blockquote>
+When Anthropic decided to reduce the rate at which they were losing money, Cursor's <a href="https://www.wheresyoured.at/ai-is-a-money-trap/">business model collapsed</a>:<br />
+<blockquote>
+In mid-June — a few weeks after Anthropic introduced “<a href="https://docs.anthropic.com/en/api/service-tiers">priority tiers</a>” that required companies to pay up-front and guarantee a certain throughput of tokens and increased costs on using prompt caching, a big part of AI coding — <a href="https://techcrunch.com/2025/07/07/cursor-apologizes-for-unclear-pricing-changes-that-upset-users/">Cursor massively changed the amount its users could use the product, and introduced a $200-a-month subscription</a>.<br />
+</blockquote>
+Cursor's customers <a href="https://www.wheresyoured.at/ai-is-a-money-trap/">weren't happy</a>:<br />
+<blockquote>
+Cursor’s product is now worse. People are going to cancel their subscriptions. Its annualized revenue will drop, and its ability to raise capital will suffer as a direct result. It will, regardless of this drop in revenue, have to pay the cloud companies what it owes them, as if it had the business it used to. I have spoken to a few different people, including a company with an enterprise contract, that are either planning to cancel or trying to find a way out of their agreements with Cursor.
+</blockquote>
+So Cursor, which was already losing money, will have less income and higher costs. They are the largest company buit on the AI major's platforms, despite only earning "around $42 million a month", and Anthropic just showed that their business model doesn't work. This isn't a good sign for the generative AI industry and thus, as <a href="https://www.wheresyoured.at/ai-is-a-money-trap/">Zitron explains in details</a>, for the persistence of the AI bubble.<br />
+<br />
+Ding explains why OpenAi's $1/year/agency deal is all about with similar deals at the <a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">big banks</a>:<br />
+<blockquote>
+this is what devins all in on. they’ve recently announced their citi and goldman sachs parterships, deploying devin to 40,000 software engineers at each company. at $20/mo this is a $10M project, but here’s a question: would you rather have $10M of ARR from goldman sachs or $500m from prosumer devleopers?<br />
+<br />
+the answer is obvious: six-month implementations, compliance reviews, security audits, procurement hell mean that that goldman sachs revenue is hard to win — but once you win it it’s impossible to churn. you only get those contracts if the singular decision maker at the bank is staking their reputation on you — and everyone will do everything they can to make it work.<br />
+</blockquote>
+Once the organization is hooked on the drug, they don't care what it costs because both real and political switching costs are intolerable, <br />
+<h3>Bigger doses are needed</h3>
+Anjli Raval reports that <a href="https://www.ft.com/content/04a83e0d-0128-4f59-9835-cb434a4257ec"><i>The AI job cuts are accelerating</i></a>:<br />
+<blockquote>
+Even as business leaders claim AI is “<a href="https://www.ft.com/content/5009fd1e-85db-433f-aa2b-55d9b88b6481">redesigning</a>” jobs rather than cutting them, the headlines tell another story. It is not just Microsoft but Intel and BT that are among a host of major companies announcing thousands of lay-offs explicitly linked to AI. Previously when job cuts were announced, there was a sense that these were regrettable choices. Now executives consider them a sign of progress. Companies are pursuing greater profits with fewer people.  <br />
+<br />
+For the tech industry, revenue per employee has become a prized performance metric. Y Combinator start-ups brag about building companies with skeleton teams. A <a href="https://tinyteams.xyz/">website</a> called the “Tiny Teams Hall of Fame” lists companies bringing in tens or hundreds of millions of dollars in revenue with just a handful of employees.<br />
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBrHdc4kJXxysfoB_ecVD0F7p1QcGucg8c-1aPCxEsGfP8Jw5sZg5APp0AVXxALOpGxn_xCPB9XawXYcwZPBNBwg1WqNujAAMrkaARhijRPgnmKc4jchqhsVCw8yTeQiVD288Gfgon0PfWgLVMPllShKfQUMesA42gFeHTJSOJfriZUt2hyphenhyphenYswzFcI5k1e/s521/july-it-jobs-market-tyd.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="399" data-original-width="521" height="153" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBrHdc4kJXxysfoB_ecVD0F7p1QcGucg8c-1aPCxEsGfP8Jw5sZg5APp0AVXxALOpGxn_xCPB9XawXYcwZPBNBwg1WqNujAAMrkaARhijRPgnmKc4jchqhsVCw8yTeQiVD288Gfgon0PfWgLVMPllShKfQUMesA42gFeHTJSOJfriZUt2hyphenhyphenYswzFcI5k1e/w200-h153/july-it-jobs-market-tyd.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.theregister.com/2025/08/04/it_job_market_july/">Source</a></td></tr></tbody></table>
+Brandon Vigliarolo's <a href="https://www.theregister.com/2025/08/04/it_job_market_july/"><i>IT firing spree: Shrinking job market looks even worse after BLS revisions</i></a> has the latest data:<br />
+<blockquote>
+The US IT jobs market hasn't exactly been robust thus far in 2025, and downward revisions to May and June's Bureau of Labor Statistics data mean IT jobs lost in July are part of an even deeper sector slowdown than previously believed.<br />
+<br />
+The Bureau of Labor Statistics reported relatively flat job growth last month, but unimpressive payroll growth numbers hid an even deeper reason to be worried: Most of the job growth <a href="https://www.bls.gov/news.release/empsit.nr0.htm">reported</a> (across all employment sectors) in May and June was incorrect. <br />
+<br />
+According to the BLS, May needed to be revised down by 125,000 jobs to just 19,000 added jobs; June had to be revised down by even more, with 133,000 erroneous new jobs added to company payrolls that month. That meant just 14,000 new jobs were added in June.<br />
+...<br />
+Against that backdrop, Janco reports that BLS data peg the IT-sector unemployment rate at 5.5 percent in July - well above the national rate of 4.2 percent. Meanwhile, the broader tech occupation unemployment rate was just 2.9 percent, as reported by CompTIA. 
+</blockquote>
+Note these points from Janco's table:<br />
+<ul>
+<li>The huge spike of 107,100 IT jobs lost last November.</li>
+<li>The loss of 26,500 IT jobs so far this year.</li>
+<li>That so far this year losses are 327% of the same period last year.</li>
+</ul>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOf7GB2DSRuhsQQJ91eg0jSi-RH902Ndcyo3tiMX8Yr7ULihSu0o6Z_DWJTaBuj2iMPzWUW-5rkVmXK364rbgdVgDrfQmL_MVOrXt3Q_jB0o-yC6zR5HgZr6UnJ7Zqn_ajjE_KRzglFz4MQr3GgYfIwDgouNqoGsICnuYSNIYbzLbveIlvS_4SzfXCYoJK/s2054/NDXT-080625.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="948" data-original-width="2054" height="93" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOf7GB2DSRuhsQQJ91eg0jSi-RH902Ndcyo3tiMX8Yr7ULihSu0o6Z_DWJTaBuj2iMPzWUW-5rkVmXK364rbgdVgDrfQmL_MVOrXt3Q_jB0o-yC6zR5HgZr6UnJ7Zqn_ajjE_KRzglFz4MQr3GgYfIwDgouNqoGsICnuYSNIYbzLbveIlvS_4SzfXCYoJK/w200-h93/NDXT-080625.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.nasdaq.com/market-activity/index/ndxt">Source</a></td></tr></tbody></table>
+The doses are increasing but their effect in pumping the stock hasn't been; the <a href="https://www.nasdaq.com/market-activity/index/ndxt">NDXT</a> index of tech stocks hasn't been heading moonwards over the last year.<br />
+<br />
+CEOs have been enthusiastically laying off expensive workers and replacing them with much cheaper indentured servnts on H-1B visas, as Dan Gooding reports in <a href="https://www.newsweek.com/h1b-visa-immigrants-tech-jobs-impact-college-grads-2106392"><i>H-1B Visas Under Scrutiny as Big Tech Accelerates Layoffs</i></a>:<br />
+<blockquote>
+The ongoing reliance on the H-1B comes as <a href="https://www.newsweek.com/microsoft-layoffs-h1b-visa-applications-2094370">some of these same large companies have announced sweeping layoffs</a>, with mid-level and senior roles often hit hardest. Some 80,000 tech jobs have been eliminated so far this year, according to the tracker Layoffs.fyi.
+</blockquote>
+Gooding <a href="https://www.newsweek.com/h1b-visa-immigrants-tech-jobs-impact-college-grads-2106392">notes that</a>:<br />
+<blockquote>
+In 2023, U.S. colleges graduated 134,153 citizens or green card holders with bachelor's or master's degrees in computer science. But the same year, the federal government also issued over 110,000 work visas for those in that same field, according to the Institute for Sound Public Policy (IFSPP).<br />
+<br />
+"The story of the H-1B program is that it's for the best and the brightest," said Jeremy Beck, co-president of NumbersUSA, a think tank calling for immigration reform. "The reality, however, is that most H-1B workers are classified and paid as 'entry level.' Either they are not the best and brightest or they are underpaid, or both."
+</blockquote>
+While it is highly likely that most CEOs have drunk the Kool-Aid and actually believe that AI will replace the workers they fired, <a href="https://bsky.app/profile/lizthegrey.com/post/3lvkvyf3euc2u">Liz Fong-Jones</a> believes that:<br />
+<blockquote>
+the megacorps use AI as pretext for layoffs, but actually rooted in end of 0% interest, changes to R&amp;D tax credit (S174, h/t <a href="https://bsky.app/profile/did:plc:3y5mmnrkhxkv37szj7twlc6n">@pragmaticengineer.com</a> for their reporting), &amp; herd mentality/labour market fixing. they want investors to believe AI is driving cost efficiency.<br />
+<br />
+AI today is literally not capable of replacing the senior engineers they are laying off. corps are in fact getting less done, but they're banking on making an example of enough people that survivors put their heads down and help them implement AI in exchange for keeping their jobs... for now.
+</blockquote>
+Note that the megacorps are monopolies, so "getting less done" and delivering worse product by using AI isn't a problem for them — they won't lose business. It is just more enshittification.<br />
+<br />
+Presumably, most CEOs think they have been laying off the fat, and replacing it with cheaper workers whose muscle is enhanced by AI, thereby pumping the stock. But they can't keep doing this; they'd end up with C-suite surrounded by short-termers on H-1Bs with no institutional memory of how the company actually functions. This information would have fallen off the end of the AIs' context.<br />
+<h3>The deleterious effects kick in</h3>
+The deleterious effects come in three forms.
+Within the companies, as the hype about AI's capabilities meets reality.  For the workers, and not just those who were laid off.  And in the broader economy, as the rush to build AI data centers meets limited resources.<br />
+<h4>The companies</h4>
+But Raval sees the <a href="https://www.ft.com/content/04a83e0d-0128-4f59-9835-cb434a4257ec">weakening starting</a>:<br />
+<blockquote>
+But are leaner organisations necessarily better ones? I am not convinced these companies are more resilient even if they perform better financially. Faster decision making and lower overheads are great, but does this mean fewer resources for R&amp;D, legal functions or compliance? What about a company’s ability to withstand shocks — from supply chain disruptions to employee turnover and dare I say it, runaway robots?<br />
+<br />
+Some companies such as Klarna have <a href="https://www.bloomberg.com/news/articles/2025-05-08/klarna-turns-from-ai-to-real-person-customer-service">reversed tack</a>, realising that firing hundreds of staff and relying on AI resulted in a poorer customer service experience. Now the payments group wants them back.<br />
+</blockquote>
+Of course, the tech majors have already enshittified their customer experience, so they can impose AI on their customers without fear. But AI is enshittifying the customer experience of smaller companies who have acutal competitors.<br />
+<h4>The workers</h4>
+Shannon Pettypiece reports that <a href="https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693"><i>'A black hole': New graduates discover a dismal job market</i></a>:<br />
+<blockquote>
+NBC News asked people who recently finished technical school, college or graduate school how their job application process was going, and in more than 100 responses, the graduates described months spent searching for a job, hundreds of applications and zero responses from employers — even with degrees once thought to be in high demand, like computer science or engineering. Some said they struggled to get an hourly retail position or are making salaries well below what they had been expecting in fields they hadn’t planned to work in.
+</blockquote>
+And Anjli Raval note that <a href="https://www.ft.com/content/04a83e0d-0128-4f59-9835-cb434a4257ec"><i>The AI job cuts are accelerating</i></a>:<br />
+<blockquote>
+Younger workers should be particularly concerned about this trend. Entire rungs on the career ladder are taking a hit, undermining traditional job pathways. This is not only about AI of course. Offshoring, post-Covid budget discipline, and years of underwhelming growth have made entry-level hiring an easy thing to cut. But AI is adding to pressures.<br />
+...<br />
+The consequences are cultural as well as economic. If jobs aren’t readily available, will a university degree retain its value? Careers already are increasingly “<a href="https://www.amazingif.com/">squiggly</a>” and not linear. The rise of freelancing and hiring of contractors has already fragmented the nature of work in many cases. AI will only propel this. <br />
+...<br />
+The tech bros touting people-light companies underestimate the complexity of business operations and corporate cultures that are built on very human relationships and interactions. In fact, while AI can indeed handle the tedium, there should be a new premium on the human — from creativity and emotional intelligence to complex judgment. But that can only happen if we invest in those who bring those qualities and teach the next generation of workers — and right now, the door is closing on many of them.
+</blockquote>
+In <a href="https://www.nber.org/papers/w34071"><i>Rising Young Worker Despair in the United States</i></a>,  David G. Blanchflower &amp; Alex Bryson describe some of the consequences:<br />
+<blockquote>
+Between the early 1990s and 2015 the relationship between mental despair and age was hump-shaped in the United States: it rose to middle-age, then declined later in life. That relationship has now changed: mental despair declines monotonically with age due to a rise in despair among the young. However, the relationship between age and mental despair differs by labor market status. The hump-shape in age still exists for those who are unable to work and the unemployed. The relation between mental despair and age is broadly flat, and has remained so, for homemakers, students and the retired. The change in the age-despair profile over time is due to increasing despair among young workers. Whilst the relationship between mental despair and age has always been downward sloping among workers, this relationship has become more pronounced due to a rise in mental despair among young workers. We find broad-based evidence for this finding in the Behavioral Risk Factor Surveillance System (BRFSS) of 1993-2023, the National Survey on Drug Use and Health (NSDUH), 2008-2023, and in surveys by Pew, the Conference Board and Johns Hopkins University.
+</blockquote>
+History tends to show that large numbers of jobless young people despairing of their prospects for the future is a pre-revolutionary situation.<br />
+<h4>The economy</h4>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgdXOxhdahIwyID8CS9wdWo2PUqkfh8suzDZsw-XYa4MMHD7J5dE-exF6ZT_wqdFhUr7FpGl8vqxjBp4Dw7R4C2lsbUsufsOcVifqm2sxc11Vw93g_Ws9Vm_FzA-aRNl3XVh5hBaa2ea1EGRmClUNLPYEXIF7ajOqySPNxK2-oOLNV9pmMOxBnlWKKe6k/s1504/3Trillion.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="698" data-original-width="1504" height="93" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgdXOxhdahIwyID8CS9wdWo2PUqkfh8suzDZsw-XYa4MMHD7J5dE-exF6ZT_wqdFhUr7FpGl8vqxjBp4Dw7R4C2lsbUsufsOcVifqm2sxc11Vw93g_Ws9Vm_FzA-aRNl3XVh5hBaa2ea1EGRmClUNLPYEXIF7ajOqySPNxK2-oOLNV9pmMOxBnlWKKe6k/w200-h93/3Trillion.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce">Source</a></td></tr></tbody></table>
+Bryce Elder's <a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce"><i>What’ll happen if we spend nearly $3tn on data centres no one needs?</i></a> points out the huge size of the AI bubble:<br />
+<blockquote>
+The entire high-yield bond market is only valued at about $1.4tn, so private credit investors putting in $800bn for data centre construction would be huge. A predicted $150bn of ABS and CMBS issuance backed by data centre cash flows would triple those markets’ current size. Hyperscaler funding of $300bn to $400bn a year compares with annual capex last year for <i>all S&amp;P 500 companies</i> of about $950bn.<br />
+<br />
+It’s also worth breaking down where the money would be spent. Morgan Stanley estimates that $1.3tn of data centre capex will pay for land, buildings and fit-out expenses. The remaining $1.6tn is to buy GPUs from Nvidia and others. Smarter people than us can work out how to securitise an asset <a href="https://www.ft.com/content/a96d65c1-8ba7-4055-b952-61c5b5d500fc">that loses 30 per cent of its value every year</a>, and good luck to them.
+</blockquote>
+Brian Merchant argues that this spending is so big it is offsetting the impact of the tariffs in <a href="https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping"><i>The AI bubble is so big it's propping up the US economy (for now)</i></a>:<br />
+<blockquote>
+Over the last six months, capital expenditures on AI—counting just information processing equipment and software, by the way—added more to the growth of the US economy than all consumer spending combined. You can just pull any of those quotes out—spending on IT for AI is so big it might be making up for economic losses from the tariffs, serving as a <i>private sector stimulus program</i>.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVZbA6kvchZrR9nEG0kKqPvjfep2exVs96ppHx9k_VKSrttcstyRxs6GnahikBjKWVGvSPSDQS1KANL2b4UGp_EtHNGtqxxwrwdG8HdJiOlNsfRiqd8rOLZ4KK6eXjI5v03sSiLUdYNXqfiH_S8McddZUD2OSxMnDzp14E7DwSQKYHlX13fbcmvfl0RfnV/s1286/FabFourCapex.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1000" data-original-width="1286" height="156" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVZbA6kvchZrR9nEG0kKqPvjfep2exVs96ppHx9k_VKSrttcstyRxs6GnahikBjKWVGvSPSDQS1KANL2b4UGp_EtHNGtqxxwrwdG8HdJiOlNsfRiqd8rOLZ4KK6eXjI5v03sSiLUdYNXqfiH_S8McddZUD2OSxMnDzp14E7DwSQKYHlX13fbcmvfl0RfnV/w200-h156/FabFourCapex.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">Source</a></td></tr></tbody></table><br />Noah Smith's <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy"><i>Will data centers crash the economy?</i></a> focuses on the incredible amounts the big four — Google, Meta, Microsoft, and Amazon — are spending:<br />
+<blockquote>
+For Microsoft and Meta, this capital expenditure is now more than a third of their <i>total sales</i>.
+</blockquote>
+Smith notes that, as a proportion of GDP, this roughly matches the peak of the <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">telecom boom</a>:<br />
+<blockquote>
+That would have been around 1.2% of U.S. GDP at the time — about where the data center boom is now. But the data center boom is still ramping up, and there’s no obvious reason to think 2025 is the peak,
+</blockquote>
+The fiber optic networks that, a quarter-century later, are bringing you this post were the result of the telecom boom.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJDfCwDRDHviki8amJDF0Symkgoui_oLln_nThnka_UkJcP04dJU1_gwm57xFLMstzMAU7NM8zJ0ufT3g2kJWBHbpCcaRRmdgEMmGBMSSguhINIAOQOSaQGIUcm1j-8RfxmWwi1cnyWO2Sxe5N_G7TXBg4G29aONqmxx4kgv9yTFtM8TEXTUCwTd4yUwJ/s783/TelcomBoom.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="783" data-original-width="669" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJDfCwDRDHviki8amJDF0Symkgoui_oLln_nThnka_UkJcP04dJU1_gwm57xFLMstzMAU7NM8zJ0ufT3g2kJWBHbpCcaRRmdgEMmGBMSSguhINIAOQOSaQGIUcm1j-8RfxmWwi1cnyWO2Sxe5N_G7TXBg4G29aONqmxx4kgv9yTFtM8TEXTUCwTd4yUwJ/w171-h200/TelcomBoom.jpg" width="171" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">Source</a></td></tr></tbody></table>
+Over-investment is back, but might this be a <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">good thing?</a><br />
+<blockquote>
+I think it’s important to look at the telecom boom of the 1990s rather than the one in the 2010s, because the former led to <a href="https://en.wikipedia.org/wiki/Telecoms_crash">a gigantic crash</a>. The railroad boom led to <a href="https://en.wikipedia.org/wiki/Panic_of_1873">a gigantic crash too</a>, in 1873 ... In both cases, companies built too much infrastructure, outrunning growth in demand for that infrastructure, and suffered a devastating bust as expectations reset and loans couldn’t be paid back.<br />
+<br />
+In both cases, though, the big capex spenders weren’t <i>wrong</i>, they were just <i>early</i>. Eventually, we ended up using all of those railroads and all of those telecom fibers, and much more. This has led a lot of people <a href="https://awealthofcommonsense.com/2021/01/why-bubbles-are-good-for-innovation/">to speculate</a> that big investment bubbles might actually be <a href="https://slate.com/business/2007/05/why-bubbles-are-great-for-the-economy.html">beneficial to the economy</a>, since manias leave behind a surplus of cheap infrastructure that can be used to power future technological advances and new business models.<br />
+<br />
+But for anyone who gets caught up in the crash, the future benefits to society are of cold comfort.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL50muA70kiFu1Rk1EFlhv7z6vwK9DHgjFBgslw0Tblz-oGmPB1h7UR-4OB5P-yuEreQyuQqL31GLmXunlblX7uzH7ncUtEZ99vcizlsjbJ6NperAaqPqAqYXpJakxHiUZiCgnJOU3zLUvWIQGsLMJiTmTq2b33-1X8V2S7pZtmxHa0s7FRxzS10oYqh54/s1478/PowerGap.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="932" data-original-width="1478" height="126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL50muA70kiFu1Rk1EFlhv7z6vwK9DHgjFBgslw0Tblz-oGmPB1h7UR-4OB5P-yuEreQyuQqL31GLmXunlblX7uzH7ncUtEZ99vcizlsjbJ6NperAaqPqAqYXpJakxHiUZiCgnJOU3zLUvWIQGsLMJiTmTq2b33-1X8V2S7pZtmxHa0s7FRxzS10oYqh54/w200-h126/PowerGap.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce">Source</a></td></tr></tbody></table>
+How likely is the bubble to burst? Elder notes just <a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce">one reason</a>:<br />
+<blockquote>
+Morgan Stanley estimates that more than half of the new data centres will be in the US, where there’s no obvious way yet to switch them on:<br />
+<br />
+America needs to find an extra 45GW for its data farms, says Morgan Stanley. That’s equivalent to about 10 per cent of all current US generation capacity, or “23 Hoover Dams”, it says. Proposed workarounds to meet the shortfall include scrapping crypto mining, putting data centres “behind the meter” in nuclear power plants, and building a new fleet of gas-fired generators.
+</blockquote>
+Good luck with that! It is worth noting that the crash has <i>already happened in China</i>, as Caiwei Chen reports in <a href="https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/"><i>China built hundreds of AI data centers to catch the AI boom. Now many stand unused.</i></a>:<br />
+<blockquote>
+Just months ago, a boom in data center construction was at its height, fueled by both government and private investors. However, many newly built facilities are now sitting empty. According to people on the ground who spoke to <i>MIT Technology Review</i>—including contractors, an executive at a GPU server company, and project managers—most of the companies running these data centers are struggling to stay afloat. The local Chinese outlets <i>Jiazi Guangnian</i> and <i>36Kr</i> report that up to 80% of China’s newly built computing resources remain unused.
+</blockquote>
+Elder also uses the analogy with the late 90s <a href="https://www.ft.com/content/7052c560-4f31-4f45-bed0-cbc84453b3ce">telecom bubble</a>:<br />
+<blockquote>
+In 2000, at the telecoms bubble’s peak, communications equipment spending topped out at <a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/economic_quarterly/2003/fall/pdf/wolman.pdf">$135bn annualised</a>. The internet hasn’t disappeared, but <a href="https://rupakghose.substack.com/p/a-telecoms-bubble-or-a-tech-bubble">most of the money did</a>. All those 3G licences and fibre-optic city loops provided zero insulation from default:<br />
+<br />
+Peak data centre spend this time around might be 10 times higher, very approximately, with public credit investors sharing the burden more equally with corporates. The broader spread of capital might mean a slower unwind should GenAI’s return on investment fail to meet expectations, as Morgan Stanley says. But it’s still not obvious why creditors would be coveting a server shed full of obsolete GPUs that’s downwind of a proposed power plant. 
+</blockquote>
+When the bubble bursts, who will <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">lose money?</a><br />
+<blockquote>
+A data center bust would mean that Big Tech shareholders would lose a lot of money, like dot-com shareholders in 2000. It would also slow the economy directly, because Big Tech companies would stop investing. But the scariest possibility is that it would cause a financial crisis.<br />
+<br />
+Financial crises tend to involve bank debt. When a financial bubble and crash is mostly a fall in the value of stocks and bonds, everyone takes losses and then just sort of walks away, a bit poorer — like in 2000. Jorda, Schularick, and Taylor (2015) survey the history of bubbles and crashes, and they find that debt (also called “credit” and “leverage”) is a key predictor of whether a bubble ends up hurting the real economy.
+</blockquote>
+The Jorda <i>et al</i> paper is <a href="https://www.frbsf.org/wp-content/uploads/wp11-27bk.pdf"><i>When Credit Bites Back: Leverage, Business Cycles, and Crises</i></a>, and what they mean by "credit" and "leverage" is <i>bank loans</i>.<br />
+<br />
+Smith looks at whether <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">the banks are lending</a>:<br />
+<blockquote>
+So if we believe this basic story of when to be afraid of capex busts, it means that we have to care about who is lending money to these Big Tech companies to build all these data centers. That way, we can figure out whether we’re worried about what happens to those lenders if Big Tech can’t pay the money back.
+</blockquote>
+And so does <a href="https://www.economist.com/business/2025/07/31/who-will-pay-for-the-trillion-dollar-ai-boom"><i>The Economist</i></a>:<br />
+<blockquote>
+During the first half of the year investment-grade borrowing by tech firms was 70% higher than in the first six months of 2024. In April Alphabet issued bonds for the first time since 2020. Microsoft has reduced its cash pile but its finance leases—a type of debt mostly related to data centres—nearly tripled since 2023, to $46bn (a further $93bn of such liabilities are not yet on its balance-sheet). Meta is in talks to borrow around $30bn from private-credit lenders including Apollo, Brookfield and Carlyle. The market for debt securities backed by borrowing related to data centres, where liabilities are pooled and sliced up in a way similar to mortgage bonds, has grown from almost nothing in 2018 to around $50bn today.<br />
+<br />
+The rush to borrow is more furious among big tech’s challengers. CoreWeave, an ai cloud firm, has borrowed liberally from private-credit funds and bond investors to buy chips from Nvidia. Fluidstack, another cloud-computing startup, is also borrowing heavily, using its chips as collateral. SoftBank, a Japanese firm, is financing its share of a giant partnership with Openai, the maker of ChatGPT, with debt. “They don’t actually have the money,” wrote Elon Musk when the partnership was announced in January. After raising $5bn of debt earlier this year xai, Mr Musk’s own startup, is reportedly borrowing $12bn to buy chips.
+</blockquote>
+Smith focuses on <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">private credit</a>:<br />
+<blockquote>
+These are the potentially scary part. Private credit funds are basically companies that take investment, borrow money, and then lend that money out in private (i.e. opaque) markets. They’re the debt version of private equity, and in recent years they’ve grown rapidly to become one of the U.S.’ economy’s major categories of debt:
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8prJjUJkFnwlzL9Ec4lJ-8PpBkI1mrUeG14HEUIn3LHRGFR5-16TBhM6mUpX_-hYtkyXBozyq7YNxLhVaR3j_AUCmD_FUeAkSQFWt01TEl07dpJAXK_X79tcr0oclR0KnkplLDIr7tF3ZmHnY91PCHgzM_c_BS7FRbO71D1f5XG8CCOQ5YpnGCOTVdi2v/s949/PrivateCredit.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="428" data-original-width="949" height="90" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8prJjUJkFnwlzL9Ec4lJ-8PpBkI1mrUeG14HEUIn3LHRGFR5-16TBhM6mUpX_-hYtkyXBozyq7YNxLhVaR3j_AUCmD_FUeAkSQFWt01TEl07dpJAXK_X79tcr0oclR0KnkplLDIr7tF3ZmHnY91PCHgzM_c_BS7FRbO71D1f5XG8CCOQ5YpnGCOTVdi2v/w200-h90/PrivateCredit.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.federalreserve.gov/econres/notes/feds-notes/bank-lending-to-private-credit-size-characteristics-and-financial-stability-implications-20250523.html">Source</a></td></tr></tbody></table>
+Are the banks vulnerable to <a href="https://www.noahpinion.blog/p/will-data-centers-crash-the-economy">private credit?</a>.<br />
+<blockquote>
+Private credit funds take some of their financing as equity, but they also borrow money. Some of this money is borrowed from banks. In 2013, only 1% of U.S. banks’ total loans to non-bank financial institutions was to private equity and private credit firms; <a href="https://www.bostonfed.org/publications/supervisory-research-and-analysis-notes/2025/bank-lending-to-private-equity-and-private-credit-funds.aspx">today, it’s 14%</a>.<br />
+<br />
+BDCs are “<a href="https://en.wikipedia.org/wiki/Business_Development_Company">Business Development Companies</a>”, which are a type of private credit fund. If there’s a bust in private credit, that’s an acronym you’ll be hearing a lot.<br />
+<br />
+And I believe the graph above does not include <a href="https://www.wellington.com/en-us/institutional/insights/clos-four-hot-topics-for-2024">bank purchases of bonds (CLOs)</a> issued by private credit companies. If private credit goes bust, those bank assets will go bust too, making banks’ balance sheets weaker.
+</blockquote>
+The fundamental problem here is that an AI bust would cause losses that would be both very large and very highly correlated, and thus very likely to be a tail risk not adequately accounted for by the banks' risk models, just as the large, highly correlated losses caused the banks to need a bail-out in the <a href="https://en.wikipedia.org/wiki/2008_financial_crisis">Global Financial Crisis</a> of 2008.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/08/the-drugs-are-taking-hold.html>
+
+---
+
+##  &#8220;Competitive authoritarianism [can be seen as] a prevalent form of government throughout... 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047342-competitive-authoritarian>
+
+---
+
+##  On the disorienting thrill & agony of picking up a new sport... 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047334-on-the-disorienting-thril>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-14, from: Dave Winer's Scripting News)
+
+There should be a connection between DC residents and Kiev residents. They could teach us <a href="https://x.com/jeffjarvis/status/1955976385131856180">how to do this</a>. They have decades of experience. 
+
+<br> 
+
+<http://scripting.com/2025/08/14.html#a133457>
 
 ---
 

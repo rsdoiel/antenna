@@ -1,11 +1,133 @@
 ---
 title: north america
-updated: 2025-08-14 06:08:54
+updated: 2025-08-14 14:08:45
 ---
 
 # north america
 
-(date: 2025-08-14 06:08:54)
+(date: 2025-08-14 14:08:45)
+
+---
+
+## Woody Guthrie used songs to sort out his feelings and ideas, and to build connection
+
+date: 2025-08-14, from: The Contrarian
+
+A new collection of Guthrie's music and lyrics opens a window into the artist's storytelling. 
+
+<br> 
+
+<https://contrarian.substack.com/p/woody-guthrie-used-songs-to-sort>
+
+---
+
+## 90 years ago, FDR created Social Security, a ‘watershed in American history’
+
+date: 2025-08-14, from: The Contrarian
+
+The bill forever changed the relationship between Americans and their government by providing a guaranteed income for seniors and aid to the unemployed and disabled. 
+
+<br> 
+
+<https://contrarian.substack.com/p/90-years-ago-fdr-created-social-security>
+
+---
+
+## Trump’s Fake Emergencies are Straight Out of the Authoritarian Playbook 
+
+date: 2025-08-14, from: The Contrarian
+
+Five (other) instances when President Trump used baseless "emergencies" to seize unwarranted power 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-fake-emergencies-are-straight>
+
+---
+
+##  Controversial “Abortion Reversal” Gets Court Approval 
+
+date: 2025-08-14, from: The Lever News
+
+ A Colorado judge just greenlit an abortion reversal procedure that medical experts say is “unproven and unethical.”  
+
+<br> 
+
+<https://www.levernews.com/controversial-abortion-reversal-gets-court-approval/>
+
+---
+
+## Pennsylvania Nurses Get Union Election Despite Trump’s Delays at Labor Board
+
+date: 2025-08-14, from: Capital and Main
+
+<p>Contentious campaign prompted local officials to collect union-busting reports. Voting starts August 19. </p>
+<p>The post <a href="https://capitalandmain.com/pennsylvania-nurses-get-union-election-despite-trumps-delays-at-labor-board">Pennsylvania Nurses Get Union Election Despite Trump’s Delays at Labor Board</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/pennsylvania-nurses-get-union-election-despite-trumps-delays-at-labor-board>
+
+---
+
+## The numbers add up, so why pull out?
+
+date: 2025-08-14, from: The Contrarian
+
+Trump's reckless dismantling of PEPFAR is a threat to global health and human life. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-numbers-add-up-so-why-oull-out>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-14, from: The Contrarian
+
+Thursday: D.C. protests the federal law enforcement takeover, Britains protest the Vance family, planning ahead, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## An attack on the CDC and soaring measles cases: Are we listening?
+
+date: 2025-08-14, from: The Contrarian
+
+Fear-mongering vaccines has dire consequences. 
+
+<br> 
+
+<https://contrarian.substack.com/p/losing-our-immunity-americas-self>
+
+---
+
+## How Trump can leave Alaska a winner
+
+date: 2025-08-14, from: The Contrarian
+
+It&#8217;s hard to see anything good coming out of the Alaska summit with Putin, but here's an outline for a successful deal. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-trump-can-leave-alaska-a-winner>
+
+---
+
+## Coffee with the Contrarians 8/14
+
+date: 2025-08-14, from: The Contrarian
+
+A recording from Coffee with the Contrarians LIVE 08/14 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-814>
 
 ---
 
@@ -66,18 +188,6 @@ The Trump administration would rather burn contraceptives than help women and gi
 <br> 
 
 <https://contrarian.substack.com/p/setting-fire-to-womens-health>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-13, from: The Contrarian
-
-Wednesday: D.C. protests a federal takeover of law enforcement, protests continue in L.A., and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

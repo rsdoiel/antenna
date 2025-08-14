@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-08-14 06:08:55
+updated: 2025-08-14 14:08:47
 ---
 
 # ham radio
 
-(date: 2025-08-14 06:08:55)
+(date: 2025-08-14 14:08:47)
+
+---
+
+## Regulator delivers clean power to sensitive circuits
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="700" height="474" src="https://www.edn.com/wp-content/uploads/Diodes-AP7372.jpg?fit=700%2C474" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Diodes-AP7372.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-AP7372.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Diodes’ AP7372 low-dropout (LDO) regulator offers high PSRR and low output noise for precision signal chains.</p>
+<p>The post <a href="https://www.edn.com/regulator-delivers-clean-power-to-sensitive-circuits/">Regulator delivers clean power to sensitive circuits</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/regulator-delivers-clean-power-to-sensitive-circuits/>
+
+---
+
+## eFuse limits current on server input rails
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="800" height="458" src="https://www.edn.com/wp-content/uploads/AOS-AOZ17517.jpg?fit=800%2C458" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/AOS-AOZ17517.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/AOS-AOZ17517.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/AOS-AOZ17517.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>A 60-A eFuse from AOS, the AOZ17517QI, is optimized for 12-V input power rails in servers, data centers, and telecom infrastructure.</p>
+<p>The post <a href="https://www.edn.com/efuse-limits-current-on-server-input-rails/">eFuse limits current on server input rails</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/efuse-limits-current-on-server-input-rails/>
+
+---
+
+## DC-link capacitors endure heat and moisture
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="800" height="481" src="https://www.edn.com/wp-content/uploads/Knowles-CDE-Type-BLS.jpg?fit=800%2C481" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Knowles-CDE-Type-BLS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Knowles-CDE-Type-BLS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Knowles-CDE-Type-BLS.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Knowles’ Cornell Dubilier Type BLS DC-link capacitors operate in harsh environments with temperatures up to 125°C.</p>
+<p>The post <a href="https://www.edn.com/dc-link-capacitors-endure-heat-and-moisture/">DC-link capacitors endure heat and moisture</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/dc-link-capacitors-endure-heat-and-moisture/>
+
+---
+
+## TVS diodes shield consumer electronics interfaces
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="700" height="454" src="https://www.edn.com/wp-content/uploads/TDK-SD0201-series-1.jpg?fit=700%2C454" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/TDK-SD0201-series-1.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/TDK-SD0201-series-1.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>TDK has added three new models to its SD0201 series of TVS diodes for USB Type-C, HDMI, DisplayPort, and Thunderbolt connections.</p>
+<p>The post <a href="https://www.edn.com/tvs-diodes-shield-consumer-electronics-interfaces/">TVS diodes shield consumer electronics interfaces</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/tvs-diodes-shield-consumer-electronics-interfaces/>
+
+---
+
+## Montage broadens timing device lineup
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="700" height="480" src="https://www.edn.com/wp-content/uploads/Montage-Tech-clocks.jpg?fit=700%2C480" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Montage-Tech-clocks.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Montage-Tech-clocks.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Fabless semiconductor company Montage Technology is now sampling its clock buffers and spread-spectrum oscillators.</p>
+<p>The post <a href="https://www.edn.com/montage-broadens-timing-device-lineup/">Montage broadens timing device lineup</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/montage-broadens-timing-device-lineup/>
+
+---
+
+## Analysis of large data acquisitions
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="1920" height="1080" src="https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?fit=1920%2C1080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=1920 1920w, https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=300 300w, https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=768 768w, https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/large-mem-analysis-Figure-6.png?w=800 800w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /><p>This article investigates several post-acquisition analysis tools for instruments with large acquisition memories.</p>
+<p>The post <a href="https://www.edn.com/analysis-of-large-data-acquisitions/">Analysis of large data acquisitions</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/analysis-of-large-data-acquisitions/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-08-14 06:08:55
 
 date: 2025-08-14, from: EDN Blog
 
-<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Here is how these silent workhorses behind tactile feedback generate vibration, and what sets different devices apart.</p>
+<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Here is how these silent workhorses behind tactile feedback generate vibration, and what sets different devices apart.</p>
 <p>The post <a href="https://www.edn.com/vibration-motors-the-key-to-compact-haptic-solutions/">Vibration motors: The key to compact haptic solutions</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 
