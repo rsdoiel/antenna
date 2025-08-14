@@ -1,11 +1,86 @@
 ---
 title: home
-updated: 2025-08-13 14:09:24
+updated: 2025-08-14 06:09:00
 ---
 
 # home
 
-(date: 2025-08-13 14:09:24)
+(date: 2025-08-14 06:09:00)
+
+---
+
+## 4 Types of Crows and Ravens in Texas (Pictures and Identification)
+
+date: 2025-08-14, from: Yard Life blog
+
+<p>Texas is home to a rich diversity of bird species, and among the most intelligent and fascinating members of its ... </p>
+<p class="read-more-container"><a title="4 Types of Crows and Ravens in Texas (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-crows-and-ravens-in-texas-pictures-and-identification/#more-33772" aria-label="Read more about 4 Types of Crows and Ravens in Texas (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-crows-and-ravens-in-texas-pictures-and-identification/">4 Types of Crows and Ravens in Texas (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-crows-and-ravens-in-texas-pictures-and-identification/>
+
+---
+
+## 3 Types of Skunks in North Carolina (Pictures and Identification)
+
+date: 2025-08-14, from: Yard Life blog
+
+<p>North Carolina is home to a fascinating variety of wildlife, and among its most intriguing nocturnal residents are skunks. These ... </p>
+<p class="read-more-container"><a title="3 Types of Skunks in North Carolina (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-skunks-in-north-carolina-pictures-and-identification/#more-33766" aria-label="Read more about 3 Types of Skunks in North Carolina (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/3-types-of-skunks-in-north-carolina-pictures-and-identification/">3 Types of Skunks in North Carolina (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/3-types-of-skunks-in-north-carolina-pictures-and-identification/>
+
+---
+
+## 9 Types of Wrens in California (With Pictures and Identification)
+
+date: 2025-08-14, from: Yard Life blog
+
+<p>Walking through a quiet California woodland, I was immediately captivated by the rapid trills and bubbly songs echoing from the ... </p>
+<p class="read-more-container"><a title="9 Types of Wrens in California (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/9-types-of-wrens-in-california-with-pictures-and-identification/#more-33759" aria-label="Read more about 9 Types of Wrens in California (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/9-types-of-wrens-in-california-with-pictures-and-identification/">9 Types of Wrens in California (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/9-types-of-wrens-in-california-with-pictures-and-identification/>
+
+---
+
+## 5 Types of Falcons in Pennsylvania (Pictures and Identification)
+
+date: 2025-08-14, from: Yard Life blog
+
+<p>Watching falcons soar over Pennsylvania’s rivers and fields is a truly mesmerizing experience. Their speed, precision, and sheer elegance make ... </p>
+<p class="read-more-container"><a title="5 Types of Falcons in Pennsylvania (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-falcons-in-pennsylvania-pictures-and-identification/#more-33752" aria-label="Read more about 5 Types of Falcons in Pennsylvania (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-falcons-in-pennsylvania-pictures-and-identification/">5 Types of Falcons in Pennsylvania (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-falcons-in-pennsylvania-pictures-and-identification/>
+
+---
+
+## 45 Common Birds in Arkansas​ (With Pictures and Identification)
+
+date: 2025-08-14, from: Yard Life blog
+
+<p>Arkansas is a haven for birdwatchers, offering a rich mix of habitats from forests and wetlands to suburban backyards. Walking ... </p>
+<p class="read-more-container"><a title="45 Common Birds in Arkansas​ (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/45-common-birds-in-arkansas-with-pictures-and-identification/#more-33744" aria-label="Read more about 45 Common Birds in Arkansas​ (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-common-birds-in-arkansas-with-pictures-and-identification/">45 Common Birds in Arkansas​ (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-common-birds-in-arkansas-with-pictures-and-identification/>
 
 ---
 
@@ -70,6 +145,18 @@ date: 2025-08-13, from: California Grown
 <br> 
 
 <https://californiagrown.org/blog/red-gate-ranch/>
+
+---
+
+## 8 Dog-Friendly Furniture and Decor Pieces That Actually Look Chic
+
+date: 2025-08-13, from: Sunset Magazine - Living in the West
+
+Don't let your dog's toys and bed cramp your style. Interior designers share the dog-friendly furniture and decor they have at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/dog-friendly-furniture-decor>
 
 ---
 
@@ -354,6 +441,18 @@ date: 2025-08-12, from: Yard Life blog
 
 ---
 
+## How to Create a Stunning Outdoor Space Like a Designer
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+Dara Caponigro’s new book brings interiors outdoors with inspiration from style icons. Try these outdoor space tips from designers. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/outdoor-space-designer-tips>
+
+---
+
 ## 43 Common Birds in Oregon​ (With Pictures and Identification)
 
 date: 2025-08-12, from: Yard Life blog
@@ -390,6 +489,18 @@ Due to major layoffs, the national parks are facing a major crisis. We're sharin
 <br> 
 
 <https://www.sunset.com/travel/national-parks/how-to-support-national-parks>
+
+---
+
+## Too Hot to Plant? Here Are 10 Things to Do for Your Native Garden in August
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+While it’s still too hot to put natives in the ground, August is a pivotal planning time. Your gardening to-do list should shift to prepping. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/native-garden-summer-tips>
 
 ---
 

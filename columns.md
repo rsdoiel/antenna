@@ -1,11 +1,370 @@
 ---
 title: columns
-updated: 2025-08-13 14:09:21
+updated: 2025-08-14 06:08:57
 ---
 
 # columns
 
-(date: 2025-08-13 14:09:21)
+(date: 2025-08-14 06:08:57)
+
+---
+
+## LLM Coding Integrity Breach
+
+date: 2025-08-14, updated: 2025-08-14, from: Bruce Schneier blog
+
+<p><a href="https://sketch.dev/blog/our-first-outage-from-llm-written-code">Here&#8217;s</a> an interesting story about a failure being introduced by LLM-written code. Specifically, the LLM was doing some code refactoring, and when it moved a chunk of code from one file to another it changed a &#8220;break&#8221; to a &#8220;continue.&#8221; That turned an error logging statement into an infinite loop, which crashed the system.</p>
+<p>This is an <a href="https://www.computer.org/csdl/magazine/sp/2025/03/11038984/27COaJtjDOM">integrity failure</a>. Specifically, it&#8217;s a failure of processing integrity. And while we can think of particular patches that alleviate this exact failure, the larger problem is much harder to solve.</p>
+<p>Davi Ottenheimer ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/llm-coding-integrity-breach.html>
+
+---
+
+## Underlines and line height
+
+date: 2025-08-14, from: Jeremy Keith Blog
+
+
+<p>I was thinking about something I wrote yesterday when I was talking about <a href="https://adactio.com/journal/22084">styling underlines on links</a>:</p>
+
+<blockquote>
+  <p>For a start, you can adjust the distance of the underline from the text using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-offset"><code>text-underline-offset</code></a>. If you’re using a generous line-height, use a generous distance here too.</p>
+</blockquote>
+
+<p>For some reason, I completely forgot that we’ve got a line-height unit in CSS now: <a href="https://caniuse.com/mdn-css_types_length_lh"><code>lh</code></a>. So if you want to make the distance of your underline proportional to the line height of the text that the link is part of, it’s easy-peasy:</p>
+
+<pre><code>text-underline-offset: 0.15lh;
+</code></pre>
+
+<p>The greater the line height, the greater the distance between the link text and its underline.</p>
+
+<p>I think this one is going into <a href="https://adactio.com/journal/21896">my collection of CSS snippets</a> I use on almost every project.</p>
+
+ 
+
+<br> 
+
+<https://adactio.com/journal/22085>
+
+---
+
+## Bread and Butter and Hope
+
+date: 2025-08-14, from: Robert Reich's blog
+
+It&#8217;s not just Mamdani 
+
+<br> 
+
+<https://robertreich.substack.com/p/bread-and-butter-and-hope>
+
+---
+
+## Back to being FOSS, Redis delivers a new, faster version
+
+date: 2025-08-14, updated: 2025-08-14, from: Liam Proven's articles at the Register
+
+<h4>Meanwhile, the clock&#39;s ticking for the previous FOSS Redis</h4>
+      <p>Redis 8.2 is FOSS again, albeit under a different license, and has multiple performance enhancements. Meanwhile, Redis 7.2, the last of the old FOSS versions, is nearing its end of life. New version, or new Valkey?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/14/redis_redux/>
+
+---
+
+## 2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)
+
+date: 2025-08-14, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-11-upgrading-debian-bookworm-12-to-trixie-13">2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)</h1>
+
+<blockquote>
+<p>Before starting the upgrade, make sure your <code>/boot</code> partition is at least 768 MB in size, and has about 300 MB free. If your system does not have a separate /boot partition, there should be nothing to do. &ndash; <a href="https://www.debian.org/releases/stable/release-notes/issues.html#ensure-boot-has-enough-free-space">5.1.5. Ensure /boot has enough free space</a></p>
+</blockquote>
+
+<p>I am missing 34M for boot!</p>
+
+<pre><code># df -h | grep boot
+/dev/sda2               734M  141M  540M  21% /boot
+</code></pre>
+
+<p>I&rsquo;m ignoring this for the moment. :(</p>
+
+<p>Deleting files from the last upgrade:</p>
+
+<pre><code>find /etc '(' -name '*.dpkg-*' -o -name '*.ucf-*' -o -name '*.merge-error' ')' -exec rm '{}' ';'
+</code></pre>
+
+<p>Purging config files:</p>
+
+<pre><code>apt purge '?narrow(?config-files)'
+</code></pre>
+
+<p>Removing old stuff and making space:</p>
+
+<pre><code>apt autoremove
+apt clean
+</code></pre>
+
+<p>Lots of reading.
+Replacing <code>/etc/apt/sources.list</code> with <code>/etc/apt/sources.list.d/debian.sources</code>:</p>
+
+<pre><code>Types: deb
+URIs: https://deb.debian.org/debian
+Suites: trixie trixie-updates
+Components: main non-free non-free-firmware contrib
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+
+Types: deb
+URIs: https://security.debian.org/debian-security
+Suites: trixie-security
+Components: main non-free non-free-firmware contrib
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+</code></pre>
+
+<p>And then:</p>
+
+<pre><code>apt update
+apt upgrade --without-new-pkgs
+apt full-upgrade
+</code></pre>
+
+<p>I&rsquo;m ignoring the warnings about directories the upgrade process was unable to delete:
+The ones I did check contained scripts and the like.
+I would have felt OK to delete directories with generated files, or files modified by me.
+But this? I don&rsquo;t know.</p>
+
+<p>Conflicts I ran into:</p>
+
+<pre><code>/etc/exim4/conf.d/main/03_exim4-config_tlsoptions
+</code></pre>
+
+<p>This file showed up as a conflict but it was nothing I remember doing. Install the maintainer version!</p>
+
+<pre><code>/etc/systemd/journald.conf
+</code></pre>
+
+<p>I had added <code>SystemMaxUse=200M</code> and <code>MaxRetentionSec=7d</code> because I didn&rsquo;t want to give the log files that much space. So I redid those changes for the maintainer version.</p>
+
+<pre><code>/etc/pam.d/login
+</code></pre>
+
+<p>I&rsquo;m not sure what this is about. Did I comment <code>session    optional   pam_motd.so motd=/run/motd.dynamic</code>? Perhaps I did. Let&rsquo;s go with the maintainer version and see if that&rsquo;s OK.</p>
+
+<p>To do after the upgrade:</p>
+
+<pre><code>rm /var/log/wtmp* /var/log/lastlog* /var/log/btmp*
+</code></pre>
+
+<p>I noticed that the sway background image is back.
+I had to add a line at the very end of my config file:</p>
+
+<pre><code>#
+# Debian
+#
+# Include all the extra config
+include /etc/sway/config.d/*
+# Override the background
+output * bg &quot;#333333&quot; solid_color
+</code></pre>
+
+<p><strong>2025-08-11</strong>. The things that aren&rsquo;t working on the server:</p>
+
+<p>Getting Node.js installed was a pain. It has a separate sources list from NodeSource. ☹️</p>
+
+<p><em>Solved, hopefully.</em></p>
+
+<p>Services that rely on Monit starting a Mojolicious app via Hypnotoad no longer work.
+Monit claims &ldquo;File &lsquo;/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/hypnotoad&rsquo; does not exist&rdquo;. ☹️</p>
+
+<p><em>Rewriting the wrappers as systemd services.</em></p>
+
+<p>My local Emacs can no longer connect to the server via Tramp. It just hangs. <code>ssh</code> and <code>mosh</code> still work, the config files are unchanged. ☹️</p>
+
+<p><strong>2025-08-12</strong>. Ah, if I start Gnome, my old enemy is back: <code>localsearch-3</code>.</p>
+
+<p>Looking at <a href="2018-05-07_Laptop_Fan">2018-05-07 Laptop Fan</a> and trying to disable to crawling:</p>
+
+<pre><code># gsettings get org.freedesktop.Tracker3.Miner.Files crawling-interval 
+-2
+# gsettings get org.freedesktop.Tracker3.Miner.Files enable-monitors
+false
+</code></pre>
+
+<p>The old <code>tracker</code> package is now a transitional package that depends on <code>tinysparql</code>. Trying to <code>apt remove</code> either of them will attempt to remove <code>gnome-session gnome-sushi tinysparql xdg-desktop-portal-gnome gnome-session-xsession nautilus tracker-extract</code>. Fuuuck.</p>
+
+<p>Looking at the man pages, I get the feeling that <code>localsearch-daemon(3)</code> is what I need kill the processes. But how to disable them?</p>
+
+<pre><code># locate localsearch|grep .service
+/etc/systemd/user/gnome-session.target.wants/localsearch-3.service
+/usr/lib/systemd/user/localsearch-3.service
+/usr/lib/systemd/user/localsearch-control-3.service
+/usr/lib/systemd/user/localsearch-writeback-3.service
+/usr/share/localsearch3/miners/org.freedesktop.Tracker3.Miner.Files.service
+/var/lib/systemd/deb-systemd-user-helper-enabled/localsearch-3.service.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-session.target.wants/localsearch-3.service
+</code></pre>
+
+<p>OK, some candidates!</p>
+
+<p>The manual page for <code>localsearch-3(1)</code> mentioned that it was started by a <code>.desktop</code> file.
+But perhaps I can just disable the service?</p>
+
+<p>Maybe not.</p>
+
+<pre><code># systemctl --user disable localsearch-3
+The following unit files have been enabled in global scope. This means
+they will still be started automatically after a successful disablement
+in user scope:
+localsearch-3.service
+# sudo systemctl disable localsearch-3.service
+Failed to disable unit: Unit localsearch-3.service does not exist
+</code></pre>
+
+<p>I&rsquo;m not sure what to do.</p>
+
+<pre><code># locate localsearch|grep .desktop
+/etc/xdg/autostart/localsearch-3.desktop
+/usr/lib/x86_64-linux-gnu/localsearch-3.0/extract-modules/libextract-desktop.so
+/usr/share/localsearch3/extract-rules/10-desktop.rule
+/usr/share/localsearch3/miners/org.freedesktop.Tracker3.Miner.Files.service
+</code></pre>
+
+<p>Perhaps it&rsquo;s that first file. But how to disable <em>that</em>?</p>
+
+<p>Ah, I am not alone. With that info I found <a href="https://bbs.archlinux.org/viewtopic.php?id=299586">a discussion on the Arch Linux forum</a> with various strategies being discussed. I will try to change the <code>X-GNOME-Autostart-enabled</code> line to <code>false</code> and see whether that helps. And while I am at it, I will also change <code>X-GNOME-HiddenUnderSystemd</code> to <code>false</code>.</p>
+
+<p><strong>2025-08-13</strong>. Oh, and I can no longer edit remote files with my Emacs at home. It just hangs there and waits for the prompt or something, I guess.</p>
+
+<p><strong>2025-08-13</strong>. Oh, and that annoying Gnome keyring? <a href="https://www.xmodulo.com/disable-gnome-keyring-linux-desktop.html">How to disable GNOME Keyring on GNOME desktop</a> by Dan Nanni suggests to copy the <code>gnome-keyring-*.desktop</code> files from <code>/etc/xdg/autostart</code> to <code>~/.config/autostart</code> and append the line <code>X-GNOME-Autostart-enabled=false</code> to each one.</p>
+
+<p><strong>2025-08-14</strong>. The chkrootkit mail I get every day has a lot of useless information. One looks like <em>all</em> the dotfiles? Ugh.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-11-debian-trixie>
+
+---
+
+## August 13, 2025
+
+date: 2025-08-14, from: Heather Cox Richardson blog
+
+On August 14, 1935, President Franklin Delano Roosevelt signed the Social Security Act into law. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-13-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-08-14, from: Miguel de Icaza Mastondon feed)
+
+<p>My job here is done:</p><p><a href="https://github.com/migueldeicaza/RealityActions" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Reali</span><span class="invisible">tyActions</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/115024680965950492>
+
+---
+
+## The Annals of Oligarchy, Defense Department Edition
+
+date: 2025-08-14, updated: 2025-08-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/world/us/how-unraveling-two-pentagon-projects-may-result-costly-do-over-2025-08-13/>
+
+---
+
+## What It Actually ‘Feels Like’ in DC.
+
+date: 2025-08-14, from: James Fallows, Substack
+
+In 1989 Donald Trump rushed to false judgment about the Central Park Five. In 2025 he claims that &#8216;roving mobs of wild youth&#8217; have terrorized and ruined the capital. Once again he is wrong. 
+
+<br> 
+
+<https://fallows.substack.com/p/what-it-actually-feels-like-in-dc>
+
+---
+
+## Perplexity Is on the Prowl to Buy Web Browsers
+
+date: 2025-08-14, updated: 2025-08-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/wild-chrome-bid-perplexity-hunting-browsers>
+
+---
+
+## Justin Sun v. Bloomberg
+
+date: 2025-08-13, updated: 2025-08-13, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/micro/entry/justin-sun-v-bloomberg>
+
+---
+
+##  The Red Onion Font 
+
+date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/the-red-onion-font>
+
+---
+
+## Published on Citation Needed: "Issue 90 – Crime szn bro"
+
+date: 2025-08-13, updated: 2025-08-13, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://citationneeded.news/issue-90>
+
+---
+
+## Note published on August 13, 2025 at 9:16 PM UTC
+
+date: 2025-08-13, updated: 2025-08-13, from: Chris Coylier
+
+ 
+
+<br> 
+
+<https://www.mollywhite.net/micro/entry/202508131716>
+
+---
+
+## ★ Max Read’s ‘A Literary History of Fake Texts in Apple’s Marketing Materials’
+
+date: 2025-08-13, updated: 2025-08-13, from: Daring Fireball
+
+It’s like an otherwise delightful cocktail with one distinctive unpleasant ingredient, which ingredient was added, deliberately, to imbue the libation with an aftertaste of spite. 
+
+<br> 
+
+<https://daringfireball.net/2025/08/max_read_literary_history_fake_apple_texts>
 
 ---
 
@@ -68,6 +427,55 @@ you know what fucking time it is
 <br> 
 
 <https://bsky.app/profile/sixfoot6.com/post/3lwck7r52os2w>
+
+---
+
+## Choosing Tools To Make Websites
+
+date: 2025-08-13, from: Jim Nielsen blog
+
+<p>Jan Miksovsky lays out his idea for <a href="https://goodinternetmagazine.com/site-creation-as-content-transformation/" >website creation as content transformation</a>. He starts by talking about tools that hide what’s happening “under the hood”:</p>
+<blockquote>
+<p>A framework’s marketing usually pretends it is unnecessary for you to understand how its core transformation works — but without that knowledge, you can’t achieve the beautiful range of results you see in the framework’s sample site gallery.</p>
+</blockquote>
+<p>This is a <em>great</em> callout. Tools will say, “You don’t have to worry about the details.” But the reality is, you end up worrying about the details — at least to some degree.</p>
+<p>Why? Because what you want to build is full of personalization. That’s how you differentiate yourself, which means you’re going to need a tool that’s expressive enough to help you.</p>
+<p>So the question becomes: how hard is it to understand the details that are being intentionally hidden away?</p>
+<p>A lot of the time those details are not exposed directly. Instead they’re exposed through configuration. But configuration doesn’t really help you learn how something works. I mean, how many of you have learned how typescript works under the hood by using <code>tsconfig.json</code>? As Jan says:</p>
+<blockquote>
+<p>Configuration can lead to as many problems as it solves</p>
+</blockquote>
+<p>Nailed it. He continues:</p>
+<blockquote>
+<p>Configuring software is itself a form of programming, in fact a rather difficult and often baroque form. It can take more data files or code to configure a framework’s transformation than to write a program that directly implements that transformation itself.</p>
+</blockquote>
+<p>I’m not a Devops person, but that sounds like Devops in a nutshell right there. (It also perfectly encapsulates my feelings on trying to setup configuration in GitHub Actions.)</p>
+<p>Jan moves beyond site creation to also discuss site hosting. He gives good reasons for keeping your website’s architecture simple and decoupled from your hosting provider (something I’ve been a long time proponent of):</p>
+<blockquote>
+<p>These site hosting platforms typically charge an ongoing subscription fee. (Some offer a free tier that may meet your needs.) The monthly fee may not be large, but it’s forever. Ten years from now you’ll probably still want your content to be publicly available, but will you still be happy paying that monthly fee? If you stop paying, your site disappears.</p>
+</blockquote>
+<p>In subscription pricing, any price (however small) is recurring. Stated differently: pricing is forever.</p>
+<p>Anyhow, it’s a good read from Jan and lays out his vision for why he’s building <a href="https://weborigami.org" >Web Origami</a>: a tool for that encourages you to understand (and customize) how you transform content to a website. He just launched <a href="https://github.com/WebOrigami/origami/releases/tag/0.4.0" >version <code>0.4.0</code> </a> which has some exciting stuff I’m excited to try out further (I’ll have to write about all that later).</p>
+
+    <hr />
+    
+
+    <p>
+      Reply via:
+      
+
+      <a
+        href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/choosing-tools-for-making-websites/"
+        >Email</a
+      >
+      · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+
+      <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+    </p> 
+
+<br> 
+
+<https://blog.jim-nielsen.com/2025/choosing-tools-for-making-websites/>
 
 ---
 
@@ -283,178 +691,6 @@ date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
 
 ---
 
-## 2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)
-
-date: 2025-08-13, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-11-upgrading-debian-bookworm-12-to-trixie-13">2025-08-11 Upgrading Debian Bookworm (12) to Trixie (13)</h1>
-
-<blockquote>
-<p>Before starting the upgrade, make sure your <code>/boot</code> partition is at least 768 MB in size, and has about 300 MB free. If your system does not have a separate /boot partition, there should be nothing to do. &ndash; <a href="https://www.debian.org/releases/stable/release-notes/issues.html#ensure-boot-has-enough-free-space">5.1.5. Ensure /boot has enough free space</a></p>
-</blockquote>
-
-<p>I am missing 34M for boot!</p>
-
-<pre><code># df -h | grep boot
-/dev/sda2               734M  141M  540M  21% /boot
-</code></pre>
-
-<p>I&rsquo;m ignoring this for the moment. :(</p>
-
-<p>Deleting files from the last upgrade:</p>
-
-<pre><code>find /etc '(' -name '*.dpkg-*' -o -name '*.ucf-*' -o -name '*.merge-error' ')' -exec rm '{}' ';'
-</code></pre>
-
-<p>Purging config files:</p>
-
-<pre><code>apt purge '?narrow(?config-files)'
-</code></pre>
-
-<p>Removing old stuff and making space:</p>
-
-<pre><code>apt autoremove
-apt clean
-</code></pre>
-
-<p>Lots of reading.
-Replacing <code>/etc/apt/sources.list</code> with <code>/etc/apt/sources.list.d/debian.sources</code>:</p>
-
-<pre><code>Types: deb
-URIs: https://deb.debian.org/debian
-Suites: trixie trixie-updates
-Components: main non-free non-free-firmware contrib
-Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
-
-Types: deb
-URIs: https://security.debian.org/debian-security
-Suites: trixie-security
-Components: main non-free non-free-firmware contrib
-Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
-</code></pre>
-
-<p>And then:</p>
-
-<pre><code>apt update
-apt upgrade --without-new-pkgs
-apt full-upgrade
-</code></pre>
-
-<p>I&rsquo;m ignoring the warnings about directories the upgrade process was unable to delete:
-The ones I did check contained scripts and the like.
-I would have felt OK to delete directories with generated files, or files modified by me.
-But this? I don&rsquo;t know.</p>
-
-<p>Conflicts I ran into:</p>
-
-<pre><code>/etc/exim4/conf.d/main/03_exim4-config_tlsoptions
-</code></pre>
-
-<p>This file showed up as a conflict but it was nothing I remember doing. Install the maintainer version!</p>
-
-<pre><code>/etc/systemd/journald.conf
-</code></pre>
-
-<p>I had added <code>SystemMaxUse=200M</code> and <code>MaxRetentionSec=7d</code> because I didn&rsquo;t want to give the log files that much space. So I redid those changes for the maintainer version.</p>
-
-<pre><code>/etc/pam.d/login
-</code></pre>
-
-<p>I&rsquo;m not sure what this is about. Did I comment <code>session    optional   pam_motd.so motd=/run/motd.dynamic</code>? Perhaps I did. Let&rsquo;s go with the maintainer version and see if that&rsquo;s OK.</p>
-
-<p>To do after the upgrade:</p>
-
-<pre><code>rm /var/log/wtmp* /var/log/lastlog* /var/log/btmp*
-</code></pre>
-
-<p>I noticed that the sway background image is back.
-I had to add a line at the very end of my config file:</p>
-
-<pre><code>#
-# Debian
-#
-# Include all the extra config
-include /etc/sway/config.d/*
-# Override the background
-output * bg &quot;#333333&quot; solid_color
-</code></pre>
-
-<p><strong>2025-08-11</strong>. The things that aren&rsquo;t working on the server:</p>
-
-<p>Getting Node.js installed was a pain. It has a separate sources list from NodeSource. ☹️</p>
-
-<p><em>Solved, hopefully.</em></p>
-
-<p>Services that rely on Monit starting a Mojolicious app via Hypnotoad no longer work.
-Monit claims &ldquo;File &lsquo;/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/hypnotoad&rsquo; does not exist&rdquo;. ☹️</p>
-
-<p><em>Rewriting the wrappers as systemd services.</em></p>
-
-<p>My local Emacs can no longer connect to the server via Tramp. It just hangs. <code>ssh</code> and <code>mosh</code> still work, the config files are unchanged. ☹️</p>
-
-<p><strong>2025-08-12</strong>. Ah, if I start Gnome, my old enemy is back: <code>localsearch-3</code>.</p>
-
-<p>Looking at <a href="2018-05-07_Laptop_Fan">2018-05-07 Laptop Fan</a> and trying to disable to crawling:</p>
-
-<pre><code># gsettings get org.freedesktop.Tracker3.Miner.Files crawling-interval 
--2
-# gsettings get org.freedesktop.Tracker3.Miner.Files enable-monitors
-false
-</code></pre>
-
-<p>The old <code>tracker</code> package is now a transitional package that depends on <code>tinysparql</code>. Trying to <code>apt remove</code> either of them will attempt to remove <code>gnome-session gnome-sushi tinysparql xdg-desktop-portal-gnome gnome-session-xsession nautilus tracker-extract</code>. Fuuuck.</p>
-
-<p>Looking at the man pages, I get the feeling that <code>localsearch-daemon(3)</code> is what I need kill the processes. But how to disable them?</p>
-
-<pre><code># locate localsearch|grep .service
-/etc/systemd/user/gnome-session.target.wants/localsearch-3.service
-/usr/lib/systemd/user/localsearch-3.service
-/usr/lib/systemd/user/localsearch-control-3.service
-/usr/lib/systemd/user/localsearch-writeback-3.service
-/usr/share/localsearch3/miners/org.freedesktop.Tracker3.Miner.Files.service
-/var/lib/systemd/deb-systemd-user-helper-enabled/localsearch-3.service.dsh-also
-/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-session.target.wants/localsearch-3.service
-</code></pre>
-
-<p>OK, some candidates!</p>
-
-<p>The manual page for <code>localsearch-3(1)</code> mentioned that it was started by a <code>.desktop</code> file.
-But perhaps I can just disable the service?</p>
-
-<p>Maybe not.</p>
-
-<pre><code># systemctl --user disable localsearch-3
-The following unit files have been enabled in global scope. This means
-they will still be started automatically after a successful disablement
-in user scope:
-localsearch-3.service
-# sudo systemctl disable localsearch-3.service
-Failed to disable unit: Unit localsearch-3.service does not exist
-</code></pre>
-
-<p>I&rsquo;m not sure what to do.</p>
-
-<pre><code># locate localsearch|grep .desktop
-/etc/xdg/autostart/localsearch-3.desktop
-/usr/lib/x86_64-linux-gnu/localsearch-3.0/extract-modules/libextract-desktop.so
-/usr/share/localsearch3/extract-rules/10-desktop.rule
-/usr/share/localsearch3/miners/org.freedesktop.Tracker3.Miner.Files.service
-</code></pre>
-
-<p>Perhaps it&rsquo;s that first file. But how to disable <em>that</em>?</p>
-
-<p>Ah, I am not alone. With that info I found <a href="https://bbs.archlinux.org/viewtopic.php?id=299586">a discussion on the Arch Linux forum</a> with various strategies being discussed. I will try to change the <code>X-GNOME-Autostart-enabled</code> line to <code>false</code> and see whether that helps. And while I am at it, I will also change <code>X-GNOME-HiddenUnderSystemd</code> to <code>false</code>.</p>
-
-<p><strong>2025-08-13</strong>. Oh, and I can no longer edit remote files with my Emacs at home. It just hangs there and waits for the prompt or something, I guess.</p>
-
-<p><strong>2025-08-13</strong>. Oh, and that annoying Gnome keyring? <a href="https://www.xmodulo.com/disable-gnome-keyring-linux-desktop.html">How to disable GNOME Keyring on GNOME desktop</a> by Dan Nanni suggests to copy the <code>gnome-keyring-*.desktop</code> files from <code>/etc/xdg/autostart</code> to <code>~/.config/autostart</code> and append the line <code>X-GNOME-Autostart-enabled=false</code> to each one.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-11-debian-trixie>
-
----
-
 **@Dave Winer's Scripting News** (date: 2025-08-13, from: Dave Winer's Scripting News)
 
 The future very much includes WordPress. It'll be as central a service as Mastodon or Bluesky. 
@@ -592,6 +828,18 @@ date: 2025-08-13, updated: 2025-08-13, from: Chris Coylier
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/115018524860229131>
+
+---
+
+## Put Names and Dates On Documents
+
+date: 2025-08-13, updated: 2025-08-13, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/08/names-and-dates-on-docs-every-time/>
 
 ---
 

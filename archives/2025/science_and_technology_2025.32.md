@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-08-13 14:09:19
+updated: 2025-08-14 06:08:56
 ---
 
 # science and technology
 
-(date: 2025-08-13 14:09:19)
+(date: 2025-08-14 06:08:56)
+
+---
+
+## Law and water: Russia blamed for US court system break-in and Norwegian dam drama
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Moscow-linked miscreants accused of swiping sealed US court files and fiddling with a Norwegian dam’s floodgates</h4> <p>Russian attackers reportedly spent months rummaging through the US federal court&#39;s creaky case-management system, while Norway reckons the same Kremlin-friendly miscreants took control of a dam&#39;s controls – a transatlantic double-act in legal files and floodgates.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/law_and_water_russia_blamed/>
+
+---
+
+## Sex Reversal Is More Common in Birds Than Previously Thought, Suggests Study of Australian Species
+
+date: 2025-08-14, from: Smithsonian Magazine
+
+Researchers find that about 5 percent of birds studied have a mismatch between genetic and physical sex—including one male bird that seems to have laid an egg 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/sex-reversal-is-more-common-in-birds-than-previously-thought-suggests-study-of-australian-species-180987163/>
+
+---
+
+## Amazon's $100B DC spend similar to entire Costa Rica GDP
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Microsoft cap-ex larger than output of Uganda and Google trumps Slovenia... all in the name of AI</h4> <p>The level of investment pouring into new infrastructure from datacenter operators is comparable to the turnover of some mid-sized economies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/datacenter_investment/>
+
+---
+
+## NASA Glenn Earns Commercial Invention of the Year Award
+
+date: 2025-08-14, from: NASA breaking news
+
+NASA’s Inventions and Contributions Board (ICB) has awarded Commercial Invention of the Year to NASA Glenn Research Center’s GRX-810: A 3D Printable Alloy Designed for Extreme Environments.&#160;&#160; NASA Alloy GRX–810, an oxide dispersion strengthened (ODS) alloy, can endure temperatures over 2,000 degrees Fahrenheit. It is more malleable and can survive more than 1,000 times longer [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-earns-commercial-invention-of-the-year-award/>
+
+---
+
+## Italian hotels breached en masse since June, government confirms
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Nearly 100,000 records allegedly up for sale after apparent breach at booking system</h4> <p>Italy&#39;s digital agency (AGID) says a cybercriminal&#39;s claims concerning a spate of data thefts affecting various hotels across the country are genuine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/italian_hotels_breached_en_masse/>
+
+---
+
+## .NET 10 preview out now, likely to be near feature-complete
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>WebSocket connections wrapped as streams, MAUI fixes and more as latest LTS version nears release candidate stage</h4> <p>Microsoft has released Preview 7 of its .NET 10 runtime and frameworks, with new features including wrapping WebSocket connections as streams, improved passkey authentication in ASP.NET, and new features and fixes for MAUI (Multi-platform App UI).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/new_net_10_preview_likely/>
+
+---
+
+## Stock in the Channel pulls website amid cyberattack
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Intruders accessed important systems but tells customers their data is safe</h4> <p>A UK-based multinational that provides tech stock availability tools is telling customers that its website outage is due to a cyber attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/stock_in_the_channel_pulls/>
+
+---
+
+## NASA Tests Research Aircraft to Improve Air Taxi Flight Controls
+
+date: 2025-08-14, from: NASA breaking news
+
+Flying the friendly skies may one day include time-saving trips in air taxis to get from point A to point B – and NASA researchers are currently working to make that future a reality. They are using wind tunnel and flight tests to gather data on an electric Vertical takeoff and landing (eVTOL) scaled-down small [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/air-taxi-flight-controls/>
+
+---
+
+## Social media users rubbish at spotting sneaky ads, say boffins
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Social media marketeers getting better at concealing promos in posts</h4> <p>Boffins have peered deep into the eyes of social media users and come to the conclusion that they&#39;re not great at spotting when an influencer is trying to sell them something.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/boffins_social_media_users_rubbish/>
+
+---
+
+## The plan for Linux after Torvalds has a kernel of truth: There isn’t one
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Success does not guarantee succession</h4> <p><strong>Opinion</strong>  The Linux kernel is a remarkable creation. It has achieved a fundamental status in the industry, and thus the world, unmatched in scope, stability, and reputation. It powers lightbulbs to supercomputers, not to mention the billion-plus global army of Android. It covers a host of processors, a massive array of supported devices and an unparalleled choice of distributions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/the_plan_for_linux_after/>
+
+---
+
+## The £9 billion question: To Microsoft or not to Microsoft?
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Are UK taxpayers getting real value from SPA24 — or just high cost convenience?</h4> <p><strong>Register debate series</strong>  The UK government&#39;s five-year Strategic Partnership Agreement (SPA24) with Microsoft is set to see public sector bodies spend around £1.9 billion each year—nearly £9 billion in total over half a decade. It&#39;s a vast sum for software and services, and one that deserves close scrutiny.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/debate_microsoft_in_public_sector/>
+
+---
+
+## Back to being FOSS, Redis delivers a new, faster version
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, the clock&#39;s ticking for the previous FOSS Redis</h4> <p>Redis 8.2 is FOSS again, albeit under a different license, and has multiple performance enhancements. Meanwhile, Redis 7.2, the last of the old FOSS versions, is nearing its end of life. New version, or new Valkey?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/redis_redux/>
+
+---
+
+## Desktop-as-a-service now often cheaper to run than laptops - even after thin client costs
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Human usage set to double, AI agents might need them too</h4> <p>Analyst firm Gartner has declared hosted PCs are now often cheaper to operate than on-prem laptops, and two years away from being cost-effective for 95 percent of workers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/gartner_daas_predictions/>
+
+---
+
+## Datacenter diplomacy: Australia commits to help Vanuatu build bit barns
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>$79 million is a small price to pay to keep China at bay</h4> <p>Australia will help to fund the development of two datacenters in the Pacific island nation Vanuatu, an example of tech infrastructure becoming an important diplomatic consideration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/nakamal_agreement_australia_vanuatu_datacenters/>
+
+---
+
+## Hungry hyperscalers boosted Cisco's AI sales by a cool billion bucks
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Big Tech is spending vastly more on AI infrastructure but Switchzilla thinks its piece of the pie will be fat and juicy</h4> <p>Cisco sold twice as much AI kit as it forecast during its 2025 fiscal year and expects the market for binary brainboxes will continue to boost its bank balance in future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/cisco_q4_2025/>
+
+---
+
+## U.S. Transportation Secretary & Acting NASA Administrator Sean P. Duffy Joins President Trump Executive Order Signing to Boost U.S. Space Competitiveness
+
+date: 2025-08-13, from: NASA breaking news
+
+U.S. Transportation Secretary and acting NASA Administrator Sean Duffy joined President Donald J. Trump at the White House Wednesday for the historic signing of the Executive Order (EO), “Enabling Competition in the Commercial Space Industry.” “People think the Department of Transportation (DOT) is just planes, trains, and automobiles – but we have a critical role [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/u-s-transportation-secretary-acting-nasa-administrator-sean-p-duffy-joins-president-trump-executive-order-signing-to-boost-u-s-space-competitiveness/>
+
+---
+
+## Doctors get dopey if they rely too much on AI, study suggests
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>A tool can become a crutch</h4> <p>When doctors use AI image recognition technology to spot and remove precancerous growths known as adenomas during colonoscopies, the detection rate is higher. But take the AI away, and their rate drops to below where it was in the first place.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/doctors_risk_being_deskilled_by_rely_on_ai/>
+
+---
+
+## Tsunami forecasting about to get a lot faster thanks to El Capitan super
+
+date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+
+<h4>The world&#39;s most powerful known supercomputer stretches its legs with some life-saving science</h4> <p>Eggheads working on El Capitan, the world&#39;s most powerful publicly known supercomputer, have developed a new tsunami forecasting system that could dramatically improve response times in coastal communities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/13/tsunami_forecasting_el_capitan/>
 
 ---
 
@@ -37,7 +253,7 @@ A seasonal black moon, to appear on August 22 or 23, is the third of four new mo
 
 date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
 
-<h4>Nevermind the errors, we&#39;ve had it with &#34;You&#39;re absolutely right!&#34;</h4> <p>Developers using Anthropic&#39;s Claude Code wish that the AI coding assistant would stop being so effusively supportive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Never mind the errors, we&#39;ve had it with &#34;You&#39;re absolutely right!&#34;</h4> <p>Developers using Anthropic&#39;s Claude Code wish that the AI coding assistant would stop being so effusively supportive.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

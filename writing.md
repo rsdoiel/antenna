@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-08-13 14:09:22
+updated: 2025-08-14 06:08:58
 ---
 
 # writing
 
-(date: 2025-08-13 14:09:22)
+(date: 2025-08-14 06:08:58)
 
 ---
 
@@ -77,7 +77,7 @@ date: 2025-08-12, from: Final Draft blog
 
 ---
 
-## ‘Weapons’: How Cregger’s Emotional Outlet Turned into a Twisted Thriller
+## ‘Weapons’: How Zach Cregger’s Emotional Outlet Turned into a Twisted Thriller
 
 date: 2025-08-12, from: Final Draft blog
 

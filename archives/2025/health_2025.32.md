@@ -1,11 +1,143 @@
 ---
 title: health
-updated: 2025-08-13 14:09:25
+updated: 2025-08-14 06:09:01
 ---
 
 # health
 
-(date: 2025-08-13 14:09:25)
+(date: 2025-08-14 06:09:01)
+
+---
+
+## Combination of nucleated red blood cells and inflammatory biomarkers (PCT and CRP) for predicting sepsis and septic shock in children
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionSepsis remains a leading cause of mortality and morbidity worldwide. This study aimed to investigate the clinical characteristics of children with sepsis and septic shock, with emphasis to evaluate the predictive value of C-reactive protein (CRP), procalcitonin (PCT), and nucleated red blood cell (NRBC) count in pediatric sepsis and septic shock patients.MethodsWe included a total of 121 children, including 80 with sepsis and 41 with septic shock, who were admitted to the Children’s Hospital of Chongqing Medical University between January 2021 and June 2024.ResultsNo significant differences in sex, age, weight, or basic diseases were observed between the sepsis and septic shock groups (P > 0.05). However, the laboratory findings showed significantly lower platelet counts and hemoglobin levels as well as higher CRP, PCT, NRBC, lactic acid, ALT, CK-MB, urea nitrogen, and APTT levels in the septic shock group (P < 0.05). Poorer outcomes were observed in the septic shock group, with higher rates of disease progression or death (63.4% vs. 31.2%, P < 0.05). ROC analysis showed that the combination of these three biomarkers achieved greater predictive accuracy (AUC = 0.956), outperforming CRP and PCT alone. Compared with those with sepsis, children with septic shock presented worse clinical and laboratory profiles, required more intensive treatments, and had poorer outcomes.ConclussionThe inclusion of the NRBC count, combined with CRP and PCT, significantly increases the predictive efficacy of disease severity or progression, particularly indicative of septic shock, highlighting the potential of this combination for early diagnosis and management in pediatric patients. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1603216>
+
+---
+
+## Meta-analysis of probiotic metabolites in the prevention of gestational weight gain and postpartum weight retention
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionMaternal weight gain and metabolic health during pregnancy significantly influence both short- and long-term outcomes for mother and child.MethodsThis systematic review and meta-analysis included data from 46 randomized controlled trials (RCTs), comprising over 12,500 pregnant women across diverse populations.ResultsProbiotic supplementation, especially multispecies formulations, initiated in the first trimester led to a mean reduction in gestational weight gain (GWG) of 1.25 kg (95% CI: −1.78 to −0.72 kg; p < 0.001) compared to controls. Furthermore, postpartum weight retention was reduced by an average of 1.05 kg (95% CI: −1.53 to −0.58 kg; p < 0.001) when probiotic use extended into the postpartum period. Significant improvements were also observed in metabolic markers: fasting glucose decreased by 0.22 mmol/L, Homeostatic Model Assessment for Insulin Resistance (HOMA-IR) scores decreased by 0.45 units, and total cholesterol and Low-density lipoprotein (LDL) were reduced by 0.28 and 0.17 mmol/L, respectively.DiscussionThese effects were mediated by the modulation of gut microbiota, promoting the production of beneficial short-chain fatty acids (butyrate) and reducing systemic inflammation through increased levels of microbial-derived metabolites, including conjugated linoleic acids and indole-3-propionic acid, which enhance gut barrier integrity and metabolic resilience. The heterogeneity in strains, dosage, and duration and pooled analysis consistently favored probiotic intervention. These findings support the use of probiotics as a safe, non-pharmacological strategy to improve metabolic outcomes during pregnancy. Future studies should focus on personalized probiotic interventions and long-term maternal–child health effects. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1627206>
+
+---
+
+## Expanding structural insights into DNA packaging apparatus and endolysin LysSA05 function of Epsilon15 bacteriophage
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+The rising prevalence of multidrug-resistant (MDR) foodborne pathogens, particularly Salmonella spp., necessitates alternative antimicrobial solutions. Phage therapy offers a promising solution against MDR Gram-negative infections; however, its clinical application is constrained by the presence of endotoxins, residual cellular debris, the risk of horizontal gene transfer by temperate phages, and an incomplete understanding of how phage structural integrity influences infectivity and enzyme function. In this study, we present a structural and functional analysis of temperate bacteriophage Epsilon15 (ϵ15), focusing on its DNA packaging and injection machinery, along with characterization of the dual-acting endolysin LysSA05. Iodixanol-purified virions suspended in phosphate-buffered saline (PBS), under conditions optimized to preserve virion stability, were analyzed using graphene oxide (GO)-supported cryo-electron microscopy. This approach resolved the full asymmetric architecture of ϵ15, revealing a detailed internal nucleic acid organization with at least eight concentric layers radially and approximately 28 axially compacted layers within the capsid. The DNA packaging machinery, comprising the core, portal, and hub, was resolved at high resolution, including a 42 nm-long and 18 nm-wide injection channel anchored by a dodecameric portal complex visualized at ~7 Å resolution. Concurrently, we characterized LysSA05, a dual-acting endolysin harboring a glycoside hydrolase 19 (GH19) catalytic domain accommodating peptidoglycan (PG) residues N-acetylmuramic acid (NAM) and N-acetylglucosamine (NAG) through structural docking, indicating plausible binding interactions that promote hydrolysis support vector machine (SVM), random forest (RF), discriminant analysis (DA), artificial neural network (ANN) and physicochemical scanning identified an amphipathic helix (residues 59-112) with predicted antimicrobial peptide (AMP)-like properties. Biochemical validation confirmed that LysSA05 destabilizes lipopolysaccharides (LPS) and permeabilizes the outer membrane of Gram-negative bacteria independently of permeabilizers, with enhanced efficacy observed upon co-treatment with Ethylenediaminetetraacetic acid (EDTA) or citric acid. In summary, our findings elucidate key structural features of ϵ15 relevant to infection and genome delivery, while positioning LysSA05 as a promising enzybiotic candidate against MDR Gram-negative pathogens. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1643576>
+
+---
+
+## Proteomics and phosphoproteomics of freshwater mollusk carcasses reveal novel insights as potential food source
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+Cipangopaludina chinensis, Radix auricularia, and Nodularia douglasiae are common freshwater mollusks widely distributed in lakes and rivers across China. In this study, (DIA) Data - independent acquisition method was used to analyze the proteomics and phosphoproteomics among three species. The results showed that a total of 1,382 proteins were identified from mollusk carcasses, with 492 proteins were quantitively analyzed. These proteins are mainly involved in amino acid nutrition and metabolism, including glutamate dehydrogenase, glyceraldehyde-3-phosphate dehydrogenase, and tyrosinase copper-binding domain-containing protein. Bioinformatics analysis revealed that the identified proteins are primarily involved in carbon metabolism, microbial metabolism, ubiquitin-mediated proteolysis, and RAS signaling pathways. Notably, this study offers valuable insights into the differential protein expression of proteins across species. Furthermore, proteomics analysis revealed several novel proteins, which helps to improve our understanding of amino acid metabolism, protein diversity, and signaling pathways in these freshwater mollusks. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1568349>
+
+---
+
+## Detection of Ureaplasma parvum in amniotic fluids via reanalysis of prenatal copy number variation sequencing data: an exploratory study
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundDetecting microbes in amniotic fluids via amniocentesis represents the standard method for diagnosing intrauterine infections. Given its similarity to metagenomic next-generation sequencing, copy number variation sequencing (CNV-seq) data may also contain microbial sequences. This exploratory study aimed to investigate the feasibility of prenatal CNV-seq for detecting Ureaplasma parvum (U. parvum) in amniotic fluids and to evaluate the pregnancy outcomes in U. parvum-positive cases.MethodsThis retrospective study enrolled 2419 singleton pregnant women who underwent genetic amniocentesis for fetal CNV-seq testing and completed the follow-up with documented pregnancy outcomes. The CNV-seq data were reanalyzed to extract the read counts of U. parvum from each sample’s raw data, and reads per million (RPM) was used to quantify its relative abundance.ResultsThe prevalence of asymptomatic intrauterine U. parvum positivity in this cohort was 1.4% (33/2419), with read counts ranging 1 to 30423 and RPM from 0.09 to 3580.65 by reanalysis of CNV-seq data. There was a statistically significantly higher risk for early spontaneous preterm labor (<32 gestational weeks; P<0.001) and preterm premature rupture of the membranes (P<0.001) in women with positive U. parvum compared to negative cases. Among U. parvum positive cases, six cases (6/33, 18.2%) had relatively higher read counts ranging from 2483 to 30423, with corresponding RPM of 406.45 to 3580.65. Adverse pregnancy outcomes were exclusively observed among women with high reads of U. parvum as opposed to those with low reads. Four cases with high U. parvum reads in amniotic fluids, not treated with antibiotics, showed a latency period of 6 to 10 weeks from positive detection to the onset of clinical manifestations.ConclusionsCNV-seq may be a feasible method for detecting intraamniotic U. parvum infection. High abundance of asymptomatic U. parvum in amniotic fluids are statistically associated with adverse pregnancy outcomes, highlighting its importance in preliminary screening. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1579049>
+
+---
+
+## Silver nanoparticles as next-generation antimicrobial agents: mechanisms, challenges, and innovations against multidrug-resistant bacteria
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+The escalating prevalence of multidrug-resistant (MDR) bacteria presents a critical global health challenge, necessitating the urgent development of alternative antimicrobial strategies. Silver nanoparticles (AgNPs) have emerged as promising antimicrobial agents due to their broad-spectrum activity, unique physicochemical properties, and multiple mechanisms of bacterial inhibition. Their nanoscale size, high surface area-to-volume ratio, and ability to generate reactive oxygen species (ROS) make them highly effective against both Gram-positive and Gram-negative bacteria. AgNPs exert their antimicrobial effects through diverse mechanisms, including membrane disruption, protein and DNA interactions, enzymatic inhibition, and interference with bacterial metabolic pathways. Despite their potent antibacterial activity, concerns regarding bacterial adaptation, cytotoxicity, and non-specific interactions have prompted extensive research into innovative delivery systems to enhance AgNP efficacy while minimizing adverse effects. This review comprehensively explores the synthesis methods and physical properties of AgNPs, emphasizing their antimicrobial mechanisms and emerging resistance patterns. Additionally, we discuss advanced targeted delivery approaches, including surface functionalization, biopolymer encapsulation, liposomal carriers, and stimuli-responsive nanoplatforms, which enhance the stability, selectivity, and controlled release of AgNPs. These strategies not only improve AgNP bioavailability but also reduce host toxicity and prevent bacterial resistance development. Furthermore, we highlight future directions in AgNP-based antimicrobial therapy, such as combinatorial treatments with antibiotics, advanced nanostructure modifications, and the integration of AgNPs into wound dressings, coatings, and biomedical devices. By synthesizing recent advancements, this review underscores the transformative potential of AgNPs as next-generation antimicrobial agents to combat MDR bacterial infections. Addressing the current limitations and optimizing AgNP formulations will be crucial for their successful clinical translation and for mitigating the global antibiotic resistance crisis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1599113>
+
+---
+
+## Synergistic antibacterial effects of postbiotics combined with linezolid and amikacin against nosocomial pathogens
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+Background and AimThe global rise in antimicrobial resistance (AMR) has rendered many conventional antibiotics less effective, particularly against nosocomial pathogens such as Staphylococcus aureus, Escherichia coli, Pseudomonas aeruginosa, and Proteus mirabilis. This study investigated the antimicrobial and synergistic effects of postbiotics derived from Lacticaseibacillus casei, Lactobacillus bulgaricus, Enterococcus faecium, and Streptococcus thermophilus, administered alone or in combination with either linezolid (for S. aureus) or amikacin (for Gram-negative strains).Materials and methodsPostbiotics were obtained through anaerobic fermentation, followed by centrifugation and filtration. Cytotoxicity was assessed via MTT assays on Vero cell lines. Infection models involving pathogen-specific adhesion and invasion assays were used, with CFU/mL quantification and statistical evaluation by one-way ANOVA and Tukey’s post hoc test.ResultsThe postbiotics exhibited potent antimicrobial activity across all tested pathogens. Combined with linezolid, the dual and triple postbiotic formulations significantly enhanced antibacterial effects against S. aureus from the early hours of incubation. Similarly, combinations with amikacin produced potent synergistic effects against E. coli, P. aeruginosa, and P. mirabilis, particularly in triple combinations involving L. casei and L. bulgaricus. Postbiotics sometimes outperformed antibiotics, such as ST+LC postbiotics against P. mirabilis. These findings suggest that postbiotics can enhance antibiotic efficacy-possibly by modulating membrane permeability, disrupting biofilms, or altering bacterial communication systems. Their low cytotoxicity and pathogen-specific responses indicate that postbiotics are safe and may be tailored for targeted use.ConclusionsIn conclusion, postbiotic-antibiotic combinations, especially with linezolid and amikacin, present promising low-toxicity, synergistic therapeutic strategies. These results lay a strong foundation for advancing microbiome-based adjunct therapies to combat AMR in clinical settings. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1616501>
+
+---
+
+## Comprehensive molecular epidemiology of BVDV in yaks (Bos gruniens) in Qinghai, China: high prevalence and dominance of BVDV-1u
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionBovine viral diarrhea virus (BVDV) is a major pathogen affecting livestock health in China. However, the current epidemiological status in yaks (Bos grunniens), particularly in Qinghai Province, remains insufficiently understood.MethodsIn the present study, a comprehensive serological and molecular investigation of BVDV in yaks was conducted across broad geographic areas of eight administrative regions including Yushu, Guoluo, Huangnan, Hainan, Haidong, Haixi, Haibei, and Xining in Qinghai Province.ResultsThe results revealed widespread BVDV exposure in Qinghai yak, with an overall antibody prevalence of 84.52% (1158/1370) and substantial herd variation (12.00~98.07%). Active infections were confirmed through antigen detection, revealing prevalence ranging from 0.34% (Haixi) to 4.90% (Huangnan). Genetic characterization identified two circulating subgenotypes: BVDV-1a (n=3) and the predominant BVDV-1u (n=30), with the latter dominating across all regions.DiscussionThese results highlight the endemic circulation of BVDV in Qinghai yak populations and uncover unexpected genetic diversity, emphasizing the need for control measures to mitigate the adverse impacts of BVDV infection in yaks in high-altitude pastoral systems. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1652023>
+
+---
+
+## Wuling powder ameliorates diarrhea-predominant irritable bowel syndrome in mice by modulating gut mucosal microbiota and alleviating intestinal inflammation
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesWuling powder has been widely used for the clinical treatment of IBS-D, but the microecological mechanism has not been found. This study aimed to investigate the regulatory effect of Wuling powder on intestinal mucosal microbiota in mice with diarrhea predominant-irritable bowel syndrome (IBS-D) by 16S rRNA high-throughput sequencing.MethodsMice were randomly divided into normal control group (Mc), model control group (Mm), and<br>treatment group (Mt). The IBS-D model was induced via Folium sennae gavage and acute restraint stress, and treatment was conducted with Wuling powder. Serum levels of tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), and milk fat globule EGF factor 8 (MFGE8) were quantified via enzyme-linked immunosorbent assay (ELISA). Intestinal mucosal DNA was extracted for 16S rRNA gene high-throughput sequencing to analyze microbial community alterations. We analyzed the characteristics of the intestinal mucosal microbiota and explored the potential link between the intestinal mucosal microbiota and the inflammatory response.ResultsCompared with the Mc group, the Mm group presented markedly elevated serum TNF-α and IL-6 concentrations (p<0.001; p<0.001) and significantly decreased MFGE8 levels (p<0.01). In contrast, the Mt group presented significant reductions in TNF-α and IL-6 (p<0.05; p<0.05) and a pronounced increase in MFGE8 (p<0.01) relative to those in the Mm group. After treatment with Wuling powder, the abundance and diversity of the intestinal mucosal microbiota were restored. The characteristic genus Sporosarcina was significantly positively correlated with MFGE8, and Paludibaculum was significantly negatively correlated with TNF-α and IL-6.ConclusionWuling powder may inhibit the occurrence of an inflammatory response by reducing the TNF-α and IL-6 levels and increasing the MFGE8 level and may achieve the effect of treating IBS-D by regulating the composition, structure, and function of the intestinal mucosal microbiota, which provides new ideas for the clinical prevention and treatment of IBS-D via Wuling powder. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1652186>
+
+---
+
+## Exploring the potential of photodynamic therapy in overcoming multidrug resistance: mechanisms, synergies, and clinical advancements in infectious diseases
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+Multidrug resistance (MDR) in bacterial and fungal pathogens poses a growing global health crisis, rendering many conventional antimicrobial therapies ineffective. The rise of MDR strains complicates treatment, prolongs illness, increases healthcare costs, and contributes to higher mortality rates. Mechanisms driving MDR include enzymatic drug inactivation, target modification, efflux pump activity, decreased permeability, and biofilm formation—often fueled by horizontal gene transfer and selective pressure from antimicrobial overuse. In response to the urgent need for novel therapeutic strategies, photodynamic therapy (PDT) has emerged as a promising, non-traditional approach. PDT utilizes a photosensitizing agent, light of a specific wavelength, and oxygen to generate reactive oxygen species (ROS) that inflict oxidative damage on microbial or cancer cells. This mechanism circumvents conventional resistance pathways, offering targeted, minimally invasive, and effective treatment for infections and malignancies. PDT is particularly adept at penetrating biofilms and resistant microbial populations, thus broadening its clinical applicability. In addition to direct microbial eradication, PDT may stimulate immune responses and demonstrates a favorable safety profile compared to traditional antibiotics or chemotherapy. Furthermore, advances in Antimicrobial Blue Light (aBL) and next-generation photosensitizers enhance PDT’s effectiveness while minimizing resistance development. This review explores the biological mechanisms underlying MDR, the principles and evolution of PDT, and its synergistic potential in managing infectious diseases. By addressing critical gaps in antimicrobial therapy, PDT stands out as a transformative modality in the ongoing battle against drug-resistant pathogens. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1624036>
+
+---
+
+## One mechanism of Sishen Pill on diarrhea with kidney Yang deficiency syndrome: influencing metabolic function by intestinal microorganisms and enzyme activity mediates the gut-kidney axis
+
+date: 2025-08-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionSishen Pill (SSP), a classic TCM formula, warms the kidney and spleen, astringes the intestine, and stops diarrhea. Emerging evidence suggests that diarrhea with KYDS is linked to gut microbiota imbalance and altered intestinal enzyme activities. At the same time, SSP has been shown to regulate gut microbiota, improve metabolism, and alleviate intestinal disorders. This research investigates how SSP prevents and treats diarrhea by studying the interaction between SSP and intestinal microorganisms.MethodsIn a murine model of diarrhea induced by adenine and Foliuem sennae co-administration, we collected various biospecimens, including intestinal mucosa (ileum and colon), luminal contents, serum, and major organs (kidney, spleen) for comprehensive mechanistic analyses. Techniques such as microbial culture, enzyme activity assays, and HE staining were employed to assess cultivable microbial colony counts, enzyme activity, relevant metabolic indicators, oxidative stress markers, and to observe kidney tissue sections.ResultsThe results indicated that SSP treatment significantly reduced uric acid levels, Escherichia coli (E. coli) count, and amylase activity compared to the spontaneous recovery (MC) group, while the spleen and thymus index, total bacterial count, sucrase activity in contents, protease activity and microbial activity in mucosa were significantly higher than the measurements in MC group. Significant differences were observed in alanine aminotransferase level, Lactobacillus count, Bifidobacterium count, sucrase activity, and microbial activity between the SSP and blank control groups. Serum uric acid levels showed a positive correlation with E. coli colony count and a negative correlation with Lactobacillus colony count. Additionally, total bacterial colony count was negatively correlated with aspartate aminotransferase levels.ConclusionsThe SSP may alleviate diarrhea with kidney Yang deficiency syndrome by reducing E. coli count, enhancing specific enzyme activities, and regulating organ indices and oxidative stress, with the regulatory effects on organ indices and oxidative stress potentially associated with its modulation of E. coli and enzyme activity. This cascade of microbial-enzymatic regulation likely contributes to the normalization of organ indices (e.g., spleen and thymus indices) and alleviation of oxidative stress, as reflected by enhanced superoxide dismutase activity. These findings highlight the multitarget therapeutic potential of SSP in addressing dysfunction in the intestinal-microbiome-enzymatic-organ axis in diarrhea with kidney Yang deficiency syndrome. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1620789>
 
 ---
 

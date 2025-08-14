@@ -1,11 +1,101 @@
 ---
 title: food
-updated: 2025-08-13 14:09:27
+updated: 2025-08-14 06:09:02
 ---
 
 # food
 
-(date: 2025-08-13 14:09:27)
+(date: 2025-08-14 06:09:02)
+
+---
+
+## US Coffee Buyers Are Trying To Postpone Shipments From Brazil
+
+date: 2025-08-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The delays will come at a cost for exporters and producers. 
+
+<br> 
+
+<https://sprudge.com/us-coffee-buyers-are-trying-to-postpone-shipments-from-brazil-392197.html>
+
+---
+
+## I Hated Precooked Polenta—This Recipe Changed My Mind
+
+date: 2025-08-14, from: Bon Appetet
+
+This riff on Cantonese salt-and-pepper shrimp transforms it into a crispy, fried delight. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-hated-precooked-polenta-this-recipe-changed-my-mind>
+
+---
+
+## Jack-o-Lantern Rice Cake Treats
+
+date: 2025-08-14, from: Taste of Home
+
+Caramel rice cakes are dressed up for Halloween in this easy, sweet treat. With pumpkin, apple and raisins, it's a healthy snack that doesn't skimp on taste. —Grace Monahan, Middletown, New York 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/jack-o-lantern-rice-cake-treats/>
+
+---
+
+## Monster Cookie Scones
+
+date: 2025-08-14, from: Taste of Home
+
+These buttermilk scones are jam-packed with old-fashioned oats, chunky peanut butter, M&amp;M’s and chocolate chips. They're then finished off with a drizzle of peanut butter ganache and spooky candy eyes. —Kate Sousa, Spokane, Washington 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/monster-cookie-scones/>
+
+---
+
+## Homemade Pumpkin Pasta
+
+date: 2025-08-14, from: Taste of Home
+
+This 30-minute pasta is a scary-good Halloween dinner. Pumpkin and carrots give the sauce a bright orange color. —Cynthia Handy, McKinney, Texas 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/homemade-pumpkin-pasta/>
+
+---
+
+## Southwest Turkey Burgers with Zucchini
+
+date: 2025-08-14, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/08/Southwest-Turkey-Burgers-with-Zucchini-1200-7666.jpg"/></div>
+<p>Moist turkey and zucchini patties with chili powder, cumin, garlic, and onion in burgers with lettuce, tomato, guacamole, and chipotle mayo! Burgers are a classic summer food and these Southwest turkey burgers are a tasty favourite. Turkey is a good option for burgers and because it can be on the dry side, I like to...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/southwest-turkey-burgers-with-zucchini/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/southwest-turkey-burgers-with-zucchini/">Southwest Turkey Burgers with Zucchini</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/southwest-turkey-burgers-with-zucchini/>
+
+---
+
+## Step Aside, Great Pumpkin! These Snoopy Halloween Finds Are Perfect for Spooky Season
+
+date: 2025-08-14, from: Taste of Home
+
+<p>Pop a few Snoopy Halloween items into your cart to celebrate the spooky season in style! These are our editors' favorite finds. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/snoopy-halloween-2025/">Step Aside, Great Pumpkin! These Snoopy Halloween Finds Are Perfect for Spooky Season</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/snoopy-halloween-2025/>
 
 ---
 

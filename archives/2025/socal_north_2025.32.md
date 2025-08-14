@@ -1,11 +1,149 @@
 ---
 title: socal north
-updated: 2025-08-13 14:09:17
+updated: 2025-08-14 06:08:54
 ---
 
 # socal north
 
-(date: 2025-08-13 14:09:17)
+(date: 2025-08-14 06:08:54)
+
+---
+
+## New school year tests LAUSD’s commitment to protecting immigrant students
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+More than 4,000 people have been arrested across the region since June and it’s still unclear how the threat of detention may impact whether students show up to school and if they do, what type of support they might need. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-school-district-lausd-first-day-2025>
+
+---
+
+## Why were surveillance cameras installed in Huntington Beach’s most iconic Latino neighborhood?
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+The city says the cameras are intended to fight crime. Some residents worry they could be used to aid in federal immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/politics/oak-view-surveillance-cameras>
+
+---
+
+## LA is exploring how to ease traffic congestion around ‘ghost kitchens.’ Here's what one solution could look like
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Neighbors around ghost kitchens have complained about competing parking availability, sometimes leading to fist fights. 
+
+<br> 
+
+<https://laist.com/news/transportation/ghost-kitchens-uber-doordash-traffic>
+
+---
+
+## Want to get on 'Drag Race'? Five takeaways from the show's Emmy-winning (and again, nominated) casting director
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Goloka Bolte reflects on what it's like to cast the drag queen reality competition. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/drag-race-five-takeaways-emmy-winning-casting-director>
+
+---
+
+## Seven months after LA fires, landlords will be ordered to clean smoke-damaged Altadena homes
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+After renters sued over alleged lack of enforcement, L.A. County has now clarified tenant rights and landlord responsibilities in smoke-damaged homes. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-fire-eaton-smoke-ash-landlord-public-health-inspection-complaint>
+
+---
+
+## Long-shot ballot initiative could have huge effect on California insurance
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Proposed ballot initiative aims to repeal Proposition 103, the California law that regulates home and auto insurance. 
+
+<br> 
+
+<https://laist.com/news/long-shot-ballot-initiative-could-have-huge-effect-california-insurance>
+
+---
+
+## In a battle over green space, Long Beach City Council OKs development of vacant lot near LA River
+
+date: 2025-08-13, from: Longbeach Post
+
+<figure><img width="1024" height="623" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1024x623.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1024x623.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-300x183.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-768x467.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-178x108.png 178w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-1200x730.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707-400x243.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/13150416/screenshot-2025-08-13-at-30335pm-722722-o7vs51tw-215216-BJdTi707.png 1213w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Environmentalists and some local residents have fought the project since it was first proposed in 2020, pushing for the land to instead be turned into a park.</p>
+<p>The post <a href="https://lbpost.com/news/place/in-a-battle-over-green-space-long-beach-council-oks-development-of-vacant-lot-near-la-river">In a battle over green space, Long Beach City Council OKs development of vacant lot near LA River</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/place/in-a-battle-over-green-space-long-beach-council-oks-development-of-vacant-lot-near-la-river>
+
+---
+
+## SoCal butterfly could get state protection after being wiped out from LA and OC
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+Quino checkerspot butterfly is now only found in Riverside and San Diego counties. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-butterfly-could-get-state-protection-after-being-wiped-out-from-la-and-oc>
+
+---
+
+## In a battle over green space, Long Beach Council OKs development of vacant lot near LA River
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+The Long Beach City Council took a final step to approve a development project for a storage facility and car wash on a vacant lot near the L.A. River. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/long-beach-council-lot-la-river-vote-storage>
+
+---
+
+## Long Beach will discipline city employees who disobey sanctuary policies, train them to limit ICE agents’ access
+
+date: 2025-08-13, from: Longbeach Post
+
+<figure><img width="1024" height="553" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-1024x553.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-768x415.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/06/11114410/10jun25-6-10-25-protest-6-134896-6gte6db4-762675-MaIUntRr.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It’s the second time the City Council strengthened sanctuary rules this year as they try to keep pace with evolving immigration enforcement tactics and assuage fears among those at risk of deportation.</p>
+<p>The post <a href="https://lbpost.com/news/immigration/long-beach-discipline-santuary-policies-limit-ice-access">Long Beach will discipline city employees who disobey sanctuary policies, train them to limit ICE agents’ access</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/immigration/long-beach-discipline-santuary-policies-limit-ice-access>
+
+---
+
+## As Social Security turns 90, a new survey shows that 65% of retirees rely on it
+
+date: 2025-08-13, updated: 2025-08-13, from: The LAist
+
+The program is supported by the vast majority of Americans, but, unless changes are made, it will start running out of money to pay full benefits in 2033. 
+
+<br> 
+
+<https://laist.com/news/politics/social-security-turns-90-new-survey-shows-retirees-rely-on-it>
 
 ---
 
@@ -97,7 +235,7 @@ The effort is focused on bringing the organization in line with President Donald
 
 date: 2025-08-13, from: Longbeach Post
 
-<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-430x300.jpg 430w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-768x536.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-970x676.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="714" src="https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217.jpg 1200w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-430x300.jpg 430w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-768x536.jpg 768w, https://img.lbpost.com/wp-content/uploads/2018/08/10144705/0822-RIVERA-TECHGIVEAWAY-217-970x676.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The number of young people age 15 to 24 who died by suicide has declined from historic peaks during the Covid-19 pandemic.</p>
 <p>The post <a href="https://lbpost.com/news/education/youth-suicide-declines-since-pandemic-but-disparities-persist-in-california">Youth suicide declines since pandemic, but disparities persist in California</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -136,7 +274,7 @@ Why your garden could maybe use more wasps.
 
 date: 2025-08-13, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1536x1024.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1200x800.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-1568x1045.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m-400x267.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/20083654/lbpd-car-file-3w3a4972-217752-ehpfuhwc-273977-fHGaXf2m.jpg 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Long Beach police said she also assaulted an LBPD officer and tried to leave the scene while she was being detained.</p>
 <p>The post <a href="https://lbpost.com/news/crime/lapd-officer-arrested-domestic-violence-crash-long-beach">LAPD officer arrested on suspicion of domestic violence after car crash in Long Beach, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -159,7 +297,7 @@ Some cooling is coming to the region, but inland areas will still see highs arou
 
 ---
 
-## Culver City meets Venice at Ciclavia this weekend. Here's 7 spots to eat, drink and refresh
+## Culver City meets Venice at Ciclavia this weekend. Here's 8 spots to eat, drink and refresh
 
 date: 2025-08-13, updated: 2025-08-13, from: The LAist
 

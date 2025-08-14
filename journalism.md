@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2025-08-13 14:09:23
+updated: 2025-08-14 06:08:58
 ---
 
 # journalism
 
-(date: 2025-08-13 14:09:23)
+(date: 2025-08-14 06:08:58)
+
+---
+
+## First-Generation Pre-Law Association aims to uplift underserved students
+
+date: 2025-08-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+First-generation Bruins looking to enter the legal field now have a club to call their own.
+The First-Generation Pre-Law Association was founded in May and has since gained about 100 members, said Brianna Gonzalez Ulloa, the club&#8217;s co-president. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/13/first-generation-pre-law-association-aims-to-uplift-underserved-students/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Justine Farrell, the chair of the marketing department at the University of San Diego’s Knauss School of Business, continued her testimony Wednesday.
+She said that, based on impression data from Cision, Klein’s media appearances – including him speaking about his administrative leave on Fox News multiple times – created “substantial media attention” around the situation, while the email announcing his leave which was sent to Anderson School of Management students did not. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/13/491934/>
 
 ---
 

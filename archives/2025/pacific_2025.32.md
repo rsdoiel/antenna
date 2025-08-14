@@ -1,11 +1,571 @@
 ---
 title: pacific
-updated: 2025-08-13 14:09:18
+updated: 2025-08-14 06:08:55
 ---
 
 # pacific
 
-(date: 2025-08-13 14:09:18)
+(date: 2025-08-14 06:08:55)
+
+---
+
+## Three Big Island teachers recognized
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Department of Education announced Wednesday the 15 teachers statewide being named teacher of the year for their complex area, and the one teacher of the year being recognized for state public charter schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/hawaii-news/three-big-island-teachers-recognized/>
+
+---
+
+## US drinking drops to new low, poll finds
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Americans are drinking less, a new Gallup poll suggests.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/us-drinking-drops-to-new-low-poll-finds/>
+
+---
+
+## Kona man faces 26 charges in domestic violence case
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>A 28-year-old Kailua-Kona man incarcerated at Halawa Correctional Facility on Oahu for a pending parole violation was indicted Monday for numerous alleged offenses related to sexual assault and domestic violence against a former girlfriend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/hawaii-news/kona-man-faces-26-charges-in-domestic-violence-case/>
+
+---
+
+## Trump warns of economic disaster if court strikes down tariffs
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration&#8217;s top lawyers urged a federal court this week to uphold its sweeping global tariffs or risk &#8220;financial ruin,&#8221; warning that the United States could slip into an economic depression if an adverse ruling forces the government to refund billions of dollars in duties.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/trump-warns-of-economic-disaster-if-court-strikes-down-tariffs/>
+
+---
+
+## Pahoa man to be tried for pound of meth
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>A 52-year-old Pahoa man police say possessed more than a pound of methamphetamine when arrested earlier this month is scheduled to be arraigned.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/hawaii-news/pahoa-man-to-be-tried-for-pound-of-meth/>
+
+---
+
+## Trump threatens ‘severe consequences’ if Putin blocks Ukraine peace
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/BERLIN &#8212; President Donald Trump threatened &#8220;severe consequences&#8221; if Russia&#8217;s Vladimir Putin does not agree to peace in Ukraine but also said on Wednesday that a meeting between them could swiftly be followed by a second that would include the leader of Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/trump-threatens-severe-consequences-if-putin-blocks-ukraine-peace/>
+
+---
+
+## Schatz town hall draws hundreds
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Nearly 250 people gathered at the Kahilu Town Hall in Kamuela on Tuesday to engage with U.S. Sen. Brian Schatz, D-Hawaii, who fielded over a dozen questions about topics ranging from ICE raids and protecting democracy, to the environment and America&#8217;s relationship with Israel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/hawaii-news/schatz-town-hall-draws-hundreds/>
+
+---
+
+## US judge blocks Trump religious exemption to birth control coverage
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. judge on Wednesday struck down rules adopted during President Donald Trump&#8217;s first term that exempt employers with religious or moral objections from having to provide workers with insurance coverage for birth control.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/us-judge-blocks-trump-religious-exemption-to-birth-control-coverage/>
+
+---
+
+## Fed cut seen near certain after inflation data, Bessent comments
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The likelihood of a Federal Reserve rate cut in September is now seen near 100% after new data showed U.S. inflation increased at a moderate pace in July and Treasury Secretary Scott Bessent said he thought an aggressive half-point cut was possible given recent weak employment numbers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/fed-cut-seen-near-certain-after-inflation-data-bessent-comments/>
+
+---
+
+## USDA moves to end employee union contracts, documents show
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Department of Agriculture moved to terminate union contracts with thousands of employees of its animal health and food safety inspection agencies, according to documents seen by Reuters, as one union on Wednesday challenged the firings in court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/usda-moves-to-end-employee-union-contracts-documents-show/>
+
+---
+
+## US appeals court lets Trump cut billions in foreign aid
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal appeals court on Wednesday lifted an injunction that required the U.S. State Department to continue making foreign aid payments, handing a victory to President Donald Trump. In a 2-1 decision, a three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit said a lower court erred by ordering the Trump administration to restore foreign assistance payments previously approved by Congress.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/us-appeals-court-lets-trump-cut-billions-in-foreign-aid/>
+
+---
+
+## Human rights report under Trump blunts language on Israel and El Salvador
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The State Department on Tuesday released an annual collection of reports on human rights records in nearly 200 nations, but left out language on persistent abuses in many nations that was present in prior reports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/human-rights-report-under-trump-blunts-language-on-israel-and-el-salvador/>
+
+---
+
+## Wildfires fanned by heatwave and strong winds rage across Europe
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Wildfires caused by arsonists or thunderstorms and fanned by a heatwave and strong winds wreaked destruction across southern Europe on Wednesday, burning homes and forcing thousands of residents and tourists to flee.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/wildfires-fanned-by-heatwave-and-strong-winds-rage-across-europe/>
+
+---
+
+## Some Juneau residents evacuate as melting glacier threatens to flood town
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Residents of Juneau, Alaska, have been urged to evacuate after an overflowing glacial lake sent water surging down the Mendenhall River.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/some-juneau-residents-evacuate-as-melting-glacier-threatens-to-flood-town/>
+
+---
+
+## Trump wants to extend federal control over Washington police
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said on Wednesday he would ask the Republican-controlled Congress to extend federal control of Washington&#8217;s city police force beyond 30 days, escalating his campaign to exert presidential power over the nation&#8217;s capital.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/trump-wants-to-extend-federal-control-over-washington-police/>
+
+---
+
+## News in brief for August 14
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Man who tried to export 850 &#0010;turtles in socks pleads guilty</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/nation-world-news/news-in-brief-for-august-14/>
+
+---
+
+## ‘The July Tsunami’: Museum hosts free town hall on Saturday
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The Tsunami Warning on Tuesday, July 29, sparked confusion, excitement, fear &#8212; and more than a few unanswered questions among Hawaii residents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/community/the-july-tsunami-museum-hosts-free-town-hall-on-saturday/>
+
+---
+
+## UH Hilo, HPD team up for new program
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii at Hilo and the Hawaii Police Department have announced a partnership that will make it easier for law enforcement officers across the state to further their education and earn a bachelor of arts degree in Administration of Justice.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/community/uh-hilo-hpd-team-up-for-new-program/>
+
+---
+
+## Hawaiian cultural festival to celebrate Pu‘ukohola Heiau National Historic Site
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Pu&#8216;ukohola Heiau National Historic Site will celebrate its 53rd anniversary Establishment Day Hawaiian Cultural Festival this weekend.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/entertainment/hawaiian-cultural-festival-to-celebrate-puukohola-heiau-national-historic-site/>
+
+---
+
+## HTA invites residents to share their thoughts about tourism
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Tourism Authority is inviting residents to take part in a series of free online community input sessions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/14/community/hta-invites-residents-to-share-their-thoughts-about-tourism/>
+
+---
+
+## Manele wins: Door shut on Pacific Islands Forum partners in Honiara
+
+date: 2025-08-14, from: 
+
+Solomon Islands Prime Minister's proposal not to invite the likes of the US, China and Taiwan has been approved at the Pacific Islands Forum Foreign Ministers' Meeting in Fiji. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570014/manele-wins-door-shut-on-pacific-islands-forum-partners-in-honiara>
+
+---
+
+## AIMing high for summer fun
+
+date: 2025-08-14, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The well-known local group AIM Band organized a music camp for a month starting in July. The camp was for children generally in the elementary and middle school age group, with most of the kids in the 8-12 age range. The band members led the music camp three days each week much to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/aiming-high-for-summer-fun/">AIMing high for summer fun</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/aiming-high-for-summer-fun/>
+
+---
+
+## Winston Peters hints at Solomon Islands' unilateral decision to block PIF donor partners
+
+date: 2025-08-14, from: 
+
+The NZ Foreign Minister fell just short of confirming that Honiara has made an independent move to shut the door on Pacific Islands Forum dialogue partners for this year's annual leaders' summit. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570008/winston-peters-hints-at-solomon-islands-unilateral-decision-to-block-pif-donor-partners>
+
+---
+
+## Why is the King of Tonga taking control of foreign affairs and defence?
+
+date: 2025-08-14, from: 
+
+There is upset in Tonga after the Tongan Legislature passed new legislation that would hand foreign affairs back to the monarchy - a move some say could set back democracy. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569989/why-is-the-king-of-tonga-taking-control-of-foreign-affairs-and-defence>
+
+---
+
+## New Zealand offers to hosts 2027 Pacific Islands Forum Leaders' Meeting
+
+date: 2025-08-14, from: 
+
+Foreign Minister Winston Peters made the request at the Pacific Islands Forum Foreign Ministers' Meeting in Suva on Thursday. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569999/new-zealand-offers-to-hosts-2027-pacific-islands-forum-leaders-meeting>
+
+---
+
+## Finance meets with OECD
+
+date: 2025-08-14, from: Marshal Islands Journal
+
+<p>Representatives from the Ministry of Finance’s Division of Customs, Treasury, Revenue and Taxation, along with officials from the Registrar of Corporations for non-resident domestic entities, traveled to Paris in early July to defend the RMI’s interim report on the implementation of the Organization for Economic Cooperation and Development Common Reporting Standard. The Common Reporting Standard [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/finance-meets-with-oecd/">Finance meets with OECD</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/finance-meets-with-oecd/>
+
+---
+
+## Solomon Islands’ external relations amid great power competition
+
+date: 2025-08-14, from: Pacific Island Times
+
+The China Police Liaison Team conducted a program in Malaita Province in March 2025. Photo courtesy of Facebook/Chinese Embassy in the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/solomon-islands-external-relations-amid-great-power-competition>
+
+---
+
+## Community Events: Townhall meeting with the Guam delegate
+
+date: 2025-08-14, from: Pacific Island Times
+
+Ask the delegate Guam Del. James Moylan will host a Community Town Hall on Aug. 14 at 6 p.m. at the Chalan Pago-Ordot Mayor’s Office, to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-townhall-meeting-with-the-guam-delegate>
+
+---
+
+## Hawaiian Airlines to suspend 3 underperforming routes
+
+date: 2025-08-14, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Airlines announced Tuesday that it is suspending service in November of three underperforming routes, including service between Honolulu and Boston, Incheon, South Korea, and Fukuoka, Japan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/13/hawaii-news/hawaiian-airlines-to-suspend-3-underperforming-routes/>
+
+---
+
+## 'Full sovereignty and independence': New Caledonia’s FLNKS rejects France’s Bougival project
+
+date: 2025-08-14, from: 
+
+New Caledonia's pro-independence front on Wednesday confirmed its "block rejection" of the document outlining the French territory's political future. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569968/full-sovereignty-and-independence-new-caledonia-s-flnks-rejects-france-s-bougival-project>
+
+---
+
+## Free college planning events available to all students, families statewide
+
+date: 2025-08-14, from: University of Hawaiʻi News
+
+<p>Virtual Financial Aid Workshops will be held via Zoom on Wednesdays, 6&#8211;7:30 p.m., from August 20 through October 1.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/13/free-college-planning-events/">Free college planning events available to all students, families statewide</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/13/free-college-planning-events/>
+
+---
+
+## UH teams with Google to help students stay, thrive, build careers in Hawaiʻi
+
+date: 2025-08-14, from: University of Hawaiʻi News
+
+<p>The new partnership with Google Public Sector leverages advanced <abbr>AI</abbr> tools.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/13/uh-teams-with-google/"><abbr>UH</abbr> teams with Google to help students stay, thrive, build careers in Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/13/uh-teams-with-google/>
+
+---
+
+## Kotolelei Champions Traditional Ecological Knowledge
+
+date: 2025-08-14, from: University of the South Pacific (Fiji)
+
+<p>With a deep commitment to Indigenous knowledge and ocean conservation, Salanieta Kotolelei has completed her...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/kotolelei-champions-traditional-ecological-knowledge/">Kotolelei Champions Traditional Ecological Knowledge</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/kotolelei-champions-traditional-ecological-knowledge/>
+
+---
+
+## Winston Peters blames 'outsiders' for Pacific Islands Forum tensions
+
+date: 2025-08-13, from: 
+
+The New Zealand Foreign Minister is attending the PIF Foriegn Ministers' Meeting in Suva, the final high-level meeting ahead of the Pacific leaders' summit next month. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569944/winston-peters-blames-outsiders-for-pacific-islands-forum-tensions>
+
+---
+
+## Competition launched to name Papua New Guinea's NRL team
+
+date: 2025-08-13, from: 
+
+Prime Minister James Marape said the name should be driven by a motive that reflects national unity, positive growth, and a strong partnership with Australia. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569962/competition-launched-to-name-papua-new-guinea-s-nrl-team>
+
+---
+
+## New bill gives Tonga's King control over diplomacy
+
+date: 2025-08-13, from: 
+
+New legislation passed by Tonga's parliament could give the King Tupou VI significantly more say in the country's foreign affairs. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569959/new-bill-gives-tonga-s-king-control-over-diplomacy>
+
+---
+
+## RMI sea mounts studied
+
+date: 2025-08-13, from: Marshal Islands Journal
+
+<p>The Ocean Exploration Trust (OET)’s exploration vessel Nautilus started its exploration of deep-sea habitats throughout the Marshall Islands in collaboration with the Marshall Islands Marine Resources Authority and other partners earlier this month. Funded by NOAA Ocean Exploration via the Ocean Exploration Cooperative Institute, this expedition will map and explore poorly known deep-sea habitats to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-sea-mounts-studied/">RMI sea mounts studied</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-sea-mounts-studied/>
+
+---
+
+## Gift of healing: $1M expands nursing scholarships at UH Maui College
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>Scholarships empower aspiring nurses, ease financial strain and brighten Maui’s healthcare future.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/13/nursing-scholarships-uh-maui-college/">Gift of healing: $1M expands nursing scholarships at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/13/nursing-scholarships-uh-maui-college/>
+
+---
+
+## Shidler internships launch careers, power Hawaiʻi’s workforce
+
+date: 2025-08-13, from: University of Hawaiʻi News
+
+<p>The Internship and Career Development Office at Shidler has successfully placed approximately 450 students in local, national and international positions.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/13/shidler-internships-launch-careers/">Shidler internships launch careers, power Hawaiʻi’s workforce</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/13/shidler-internships-launch-careers/>
+
+---
+
+## Shaping Young Minds – Shweta’s Passion and Purpose
+
+date: 2025-08-13, from: University of the South Pacific (Fiji)
+
+<p>Shweta Devi Chand’s passion for working with young children and contributing to their positive growth...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/shaping-young-minds-shwetas-passion-and-purpose/">Shaping Young Minds &#8211; Shweta’s Passion and Purpose</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/shaping-young-minds-shwetas-passion-and-purpose/>
+
+---
+
+## Another child is sixth dengue-related death in Samoa
+
+date: 2025-08-13, from: 
+
+Schools in Samoa are closed for a third straight week due to the outbreak. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569933/another-child-is-sixth-dengue-related-death-in-samoa>
+
+---
+
+## Samoa backs Solomon Islands' move to defer partner talks at Pacific Islands Forum
+
+date: 2025-08-13, from: 
+
+The region's foreign ministers are meeting in Suva on Thursday for the final high-level meeting in a suite of gatherings ahead of the Pacific Islands Forum Leaders' Meeting. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569825/samoa-backs-solomon-islands-move-to-defer-partner-talks-at-pacific-islands-forum>
 
 ---
 
@@ -49,7 +609,7 @@ The post <a href="https://www.hawaii.edu/news/2025/08/13/image-of-the-week-alumn
 
 ## Robot dog in Mexico teaches animal kindness on the streets
 
-date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+date: 2025-08-13, updated: 2025-08-14, from: Marianas Variety
 
 MONTERREY, Mexico (Reuters) — He walks, he talks, he runs and he plays. He's “Waldog,” an AI-powered robot that is making the rounds in the northern city of Monterrey, Mexico to raise awareness about animal abuse and welfare. 
 
@@ -61,7 +621,7 @@ MONTERREY, Mexico (Reuters) — He walks, he talks, he runs and he plays. He's �
 
 ## Saipan Unity Lions Club hosts successful ‘Brigada Eskwela 2025’ event at Hopwood
 
-date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+date: 2025-08-13, updated: 2025-08-14, from: Marianas Variety
 
 (SULC) — The Saipan Unity Lions Club, along with the Saipan Resilience Lions Club, Saipan Fil-American Lions Club, Saipan Infinity Lions Club, Saipan Alliance Lions Club, Saipan Legends Lions Club, Saipan Beacon Lions Club, and Saipan Invincible Lions Club, came together on Sunday, Aug. 10, 2025, for a meaningful initiative aimed at enhancing the learning environment at Hopwood Middle School as part of the Brigada Eskwela (School Brigade) 2025 program. 
 
@@ -73,7 +633,7 @@ date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
 
 ## Manufacturers turn to AI to weather tariff storm
 
-date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+date: 2025-08-13, updated: 2025-08-14, from: Marianas Variety
 
 LONDON (Reuters) — Manufacturers like U.S. lawnmower maker The Toro Company are not panicking at the prospect of President Donald Trump's global trade tariffs. 
 
@@ -85,7 +645,7 @@ LONDON (Reuters) — Manufacturers like U.S. lawnmower maker The Toro Company ar
 
 ## 30 high school students gain hands-on healthcare experience through NMC-AHEC Program
 
-date: 2025-08-13, updated: 2025-08-13, from: Marianas Variety
+date: 2025-08-13, updated: 2025-08-14, from: Marianas Variety
 
 (NMC) — Thirty high school students have officially completed the 2025 Teen Health Summer Program, hosted by the Area Health Education Center at Northern Marianas College. 
 
@@ -482,18 +1042,6 @@ A round-up of news from around the region, including a man found guilty of five 
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/569826/pacific-news-in-brief-for-13-august>
-
----
-
-## Samoa backs Solomon Islands' move to defer partner talks at Pacific Islands Forum
-
-date: 2025-08-12, from: 
-
-The region's foreign ministers are meeting in Suva on Thursday for the final high-level meeting in a suite of gatherings ahead of the Pacific Islands Forum Leaders' Meeting. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569825/samoa-backs-solomon-islands-move-to-defer-partner-talks-at-pacific-islands-forum>
 
 ---
 

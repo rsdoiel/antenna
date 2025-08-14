@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-08-13 14:09:18
+updated: 2025-08-14 06:08:55
 ---
 
 # ham radio
 
-(date: 2025-08-13 14:09:18)
+(date: 2025-08-14 06:08:55)
+
+---
+
+## Vibration motors: The key to compact haptic solutions
+
+date: 2025-08-14, from: EDN Blog
+
+<img width="800" height="800" src="https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?fit=800%2C800" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/0-Vibration-Motor-Intro_TK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Here is how these silent workhorses behind tactile feedback generate vibration, and what sets different devices apart.</p>
+<p>The post <a href="https://www.edn.com/vibration-motors-the-key-to-compact-haptic-solutions/">Vibration motors: The key to compact haptic solutions</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/vibration-motors-the-key-to-compact-haptic-solutions/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-08-13 14:09:18
 
 date: 2025-08-13, from: EDN Blog
 
-<img width="1012" height="667" src="https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?fit=1012%2C667" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?w=1012 1012w, https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?w=768 768w" sizes="(max-width: 1012px) 100vw, 1012px" /><p>Improving the modest accuracy of the LM317 and LM337 reference voltages, while taking advantage of their built-in over-temperature limiting.</p>
+<img width="1012" height="667" src="https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?fit=1012%2C667" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?w=1012 1012w, https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/LM317currentsource_Figure2.png?w=768 768w" sizes="auto, (max-width: 1012px) 100vw, 1012px" /><p>Improving the modest accuracy of the LM317 and LM337 reference voltages, while taking advantage of their built-in over-temperature limiting.</p>
 <p>The post <a href="https://www.edn.com/improve-the-accuracy-of-programmable-lm317-and-lm337-based-power-sources/">Improve the accuracy of programmable LM317 and LM337-based power sources</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

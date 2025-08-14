@@ -1,11 +1,91 @@
 ---
 title: going electric
-updated: 2025-08-13 14:09:26
+updated: 2025-08-14 06:09:01
 ---
 
 # going electric
 
-(date: 2025-08-13 14:09:26)
+(date: 2025-08-14 06:09:01)
+
+---
+
+## Ford’s EV Factory Of The Future Could Mean Less Pain For Workers
+
+date: 2025-08-14, from: Inside EVs News
+
+“If we pull this off, you will never put an instrument panel or a seat through a door opening again,” Ford execs told workers. 
+
+<br> 
+
+<https://insideevs.com/news/768960/ford-ev-factory-assembly-tree-workers/>
+
+---
+
+## YangWang Preps 3,000 HP Quad-Motor EV, But Rimac Isn’t Convinced
+
+date: 2025-08-14, from: Inside EVs News
+
+That’s far more than any road tire is capable of putting down, no matter how wide. 
+
+<br> 
+
+<https://insideevs.com/news/768997/yangwang-u9-track-3000-horsepower/>
+
+---
+
+## Karma’s $200,000 Amaris Luxury Coupe Is Real, And It Looks Stunning
+
+date: 2025-08-14, from: Inside EVs News
+
+It’s billed as the world’s first extended-range performance luxury coupe. 
+
+<br> 
+
+<https://insideevs.com/news/768991/karma-automotive-amaris-price-specs-reveal/>
+
+---
+
+## A big recall nearly killed this e-bike company. Now it may have just been saved
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/02/cowboy-riders-e-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Cowboy, the Brussels-based connected e-bike maker, says it has secured the lifeline it needs to keep the lights on – and the wheels turning – after what the company calls “the most challenging period in its history.” And while market downturns and supply chain woes set the stage, it was a recall that nearly pushed the brand over the edge.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="429634" href="https://electrek.co/2025/08/14/a-big-recall-nearly-killed-this-e-bike-company-now-it-may-have-just-been-saved/#more-429634" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/a-big-recall-nearly-killed-this-e-bike-company-now-it-may-have-just-been-saved/>
+
+---
+
+## That Silverado EV that went 1,059 miles? These guys predicted it!
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/chargeway_app.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chevy set a new EV range record going nearly 1,060 miles on a single charge in an optimized, but unmodified Chevy Silverado EV Work Truck that no one saw coming. No one, that is, except Chargeway founder Matt Teske. His EV route-planning map predicted the Silverado’s record-setting run with better than 99% accuracy – and he’s here to talk about it on today’s electric episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargeway,chevy-silverado-ev,quick-charge,range-record" data-layer-viewtype="unknown" data-post-id="429721" href="https://electrek.co/2025/08/13/that-silverado-ev-that-went-1059-miles-these-guys-predicted-it/#more-429721" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/13/that-silverado-ev-that-went-1059-miles-these-guys-predicted-it/>
+
+---
+
+## Lucid Gravity Registrations: Hundreds So Far In 2025 (Updated)
+
+date: 2025-08-13, from: Inside EVs News
+
+"Supply chain constraints were behind the initial issues we experienced in scaling up, but we have since addressed many of those," Lucid officials said. 
+
+<br> 
+
+<https://insideevs.com/news/768952/lucid-gravity-units-sold/>
 
 ---
 
@@ -189,7 +269,7 @@ The electric crossover drove a lot more than its official EPA rating.
 
 date: 2025-08-13, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Breezewood_Pennsylvania.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charging is everywhere now, and it’s reliable, accessible, and affordable. There thousands of public chargers are already out there – and, in some places, <a href="https://electrek.co/2025/03/21/california-50-percent-more-ev-chargers-than-gas-nozzles/">you’ll find more plugs than pumps</a>. But if you don’t drive electric, you’d never know it. That’s because gas stations don’t just exist, they announce themselves with giant, illuminated signs that can be seen for miles, while EV chargers tend to just sort of sit, nestled away in the back of the parking lot. </p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Breezewood_Pennsylvania.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>EV charging is everywhere now, and it’s reliable, accessible, and affordable. There are thousands of public chargers already out there – and, in some places, <a href="https://electrek.co/2025/03/21/california-50-percent-more-ev-chargers-than-gas-nozzles/">you’ll find more plugs than pumps</a>. But if you don’t drive electric, you’d never know it. That’s because gas stations don’t just exist, they announce themselves with giant, illuminated signs that can be seen for miles, while EV chargers tend to just sort of sit, nestled away in the back of the parking lot.</p>
 
 
 

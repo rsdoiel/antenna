@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-08-13 14:09:16
+updated: 2025-08-14 06:08:54
 ---
 
 # north america
 
-(date: 2025-08-13 14:09:16)
+(date: 2025-08-14 06:08:54)
+
+---
+
+## Netanyahu Sets off Firestorm of Protest
+
+date: 2025-08-14, from: The Contrarian
+
+The prime minister provokes domestic and international fury 
+
+<br> 
+
+<https://contrarian.substack.com/p/netanyahu-sets-off-firestorm-of-protest>
+
+---
+
+##  The Male Friendship Collapse 
+
+date: 2025-08-14, from: The Lever News
+
+ What happens to a country when men lose their closest friends?  
+
+<br> 
+
+<https://www.levernews.com/the-male-friendship-collapse/>
+
+---
+
+## Evening Roundup, August 13
+
+date: 2025-08-13, from: The Contrarian
+
+Featuring Glenn Kirschner, Shalise Manza Young, Jennifer Weiss-Wolf, State Rep. Venton Jones with April Ryan, Marvin Kalb, Andrew Weissmann with Jen Rubin, and The Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-13>
+
+---
+
+## Trump's Folly
+
+date: 2025-08-13, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-folly>
 
 ---
 

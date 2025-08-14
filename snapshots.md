@@ -1,11 +1,121 @@
 ---
 title: snapshots
-updated: 2025-08-13 14:09:29
+updated: 2025-08-14 06:09:03
 ---
 
 # snapshots
 
-(date: 2025-08-13 14:09:29)
+(date: 2025-08-14 06:09:03)
+
+---
+
+## Trimming the FAT: Flash Raspberry Pi OS images faster
+
+date: 2025-08-14, from: Raspberry Pi News (.com)
+
+<p>Flash Raspberry Pi OS images faster by skipping the bits that don't matter. Plus: some cool mass provisioning tools.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/trimming-the-fat-flash-raspberry-pi-os-images-faster/">Trimming the FAT: Flash Raspberry Pi OS images faster</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/trimming-the-fat-flash-raspberry-pi-os-images-faster/>
+
+---
+
+## MAGA’s Feelings Don’t Care About Your Facts
+
+date: 2025-08-14, from: Paul Krugman
+
+Reality is what Trump says it is 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/magas-feelings-dont-care-about-your>
+
+---
+
+## NLnet and CWI establish first public SCION connection in the Netherlands
+
+date: 2025-08-14, updated: 2025-08-14, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250814-SCION-public-connection.html>
+
+---
+
+## The First Dutch Free and Open Source SCION Connection - Interview with Hans-Dieter Hiep
+
+date: 2025-08-14, updated: 2025-08-14, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250814-SCION-Interview.html>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-13, from: Robert's feed at BlueSky)
+
+Wonderful News
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lwcystrypk2o>
+
+---
+
+## Trump Administration Outlines Plan to Throw Out an Agency's FOIA Requests En Masse
+
+date: 2025-08-13, from: 404 Media Group
+
+The Department of Energy said it will close FOIA requests from last year unless the requester emails the agency to say they are still interested. Experts say it's an "attempt to close out as many FOIA requests as possible." 
+
+<br> 
+
+<https://www.404media.co/trump-administration-outlines-plan-to-throw-out-an-agencys-foia-requests-en-masse/>
+
+---
+
+## App Store Promotion and X/Grok
+
+date: 2025-08-13, from: Michael Tsai
+
+Tim Hardwick: Elon Musk has threatened legal action against Apple, claiming that the company is violating antitrust rules by favoring OpenAI&#8217;s ChatGPT in App Store rankings over his Grok AI assistant. Elon Musk: Apple is behaving in a manner that makes it impossible for any AI company besides OpenAI to reach #1 in the App [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/13/app-store-promotion-and-x-grok/>
+
+---
+
+## UIKit in iOS 26
+
+date: 2025-08-13, from: Michael Tsai
+
+Seb Vidal (via Steve Troughton-Smith): As always, Apple has done a good job of documenting the big changes to UIKit. This year&#8217;s What&#8217;s New in UIKit session is well worth tuning in to! However, there&#8217;s only so much you can fit into an easily digestible dub dub session and, at the time of writing, even [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/13/uikit-in-ios-26/>
+
+---
+
+## MacSurfer Is Back
+
+date: 2025-08-13, from: Michael Tsai
+
+MacSurfer: MacSurfer is relaunching &#8212; watch as the upgrade continues Via Eric Schwarz: I can&#8217;t find any details or who&#8217;s behind it? I really hope it&#8217;s not AI slop or someone trying to make a buck off nostalgia like iLounge or TUAW. Previously: MacInTouch Paused The Unofficial Apple AI Weblog MacSurfer Shutting Down 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/13/macsurfer-is-back/>
 
 ---
 
@@ -298,6 +408,18 @@ llm "Fun facts about pelicans"
 <br> 
 
 <https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything>
+
+---
+
+## Put Names and Dates On Documents
+
+date: 2025-08-13, updated: 2025-08-13, from: Alex Russel's blog
+
+ 
+
+<br> 
+
+<https://infrequently.org/2025/08/names-and-dates-on-docs-every-time/>
 
 ---
 

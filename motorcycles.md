@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2025-08-13 14:09:25
+updated: 2025-08-14 06:09:00
 ---
 
 # motorcycles
 
-(date: 2025-08-13 14:09:25)
+(date: 2025-08-14 06:09:00)
+
+---
+
+## Watch a Motorcyclist Lead Police On Chase, Until He Runs Out Of Gas
+
+date: 2025-08-14, from: Ride Apart, Electric Motorcycle News
+
+A motorcyclist in Illinois, with a long list of offenses, was arrested after his motorcycle ran out of gas during a police chase. 
+
+<br> 
+
+<https://www.rideapart.com/news/768817/motorcyclist-police-chase-runs-out-of-gas/>
+
+---
+
+## A Diesel Harley-Davidson? Hell Yeah, Brother!
+
+date: 2025-08-14, from: Ride Apart, Electric Motorcycle News
+
+Harley-Davidson's are known to be loud motorcycles, but a diesel tractor engine-swapped Harley has to sound absolutely unique. As well as loud.  
+
+<br> 
+
+<https://www.rideapart.com/news/768688/diesel-powered-harley-davidson-custom-motorcycle/>
+
+---
+
+## Behold The Honda CB1000F SE Concept, In All Its Retro Naked Glory
+
+date: 2025-08-14, from: Ride Apart, Electric Motorcycle News
+
+Honda introduced its CB1000F Concept some time ago, but came back with an updated CB1000F SE Concept at the 2025 running of the Suzuka 8 Hours. 
+
+<br> 
+
+<https://www.rideapart.com/news/768956/honda-cb1000f-se-concept-revealed/>
+
+---
+
+## The Polaris Xpedition Just Got More Expensive, and It Was Already Pricey
+
+date: 2025-08-14, from: Ride Apart, Electric Motorcycle News
+
+Polaris' overlanding side-by-side, the Xpedition, was already one of the most expensive UTVs on sale today. But with the brand killing the base trim level, that price just went up by $8,500.  
+
+<br> 
+
+<https://www.rideapart.com/news/768686/polaris-xpedition-side-by-side-base-price-increase-model-discontinued/>
+
+---
+
+## Pye-Barker Fire & Safety Extends Partnership with Legacy Motor Club for 2026
+
+date: 2025-08-13, from: Kickin the Tires blog
+
+STATESVILLE, N.C. (AUG. 12, 2025) – LEGACY MOTOR CLUB today announced that Pye-Barker Fire &#38; Safety, the nation’s largest full-service and fully integrated fire protection, life safety, and security services&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/pye-barker-fire-safety-extends-partnership-with-legacy-motor-club-for-2026/>
 
 ---
 

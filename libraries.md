@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-08-13 14:09:23
+updated: 2025-08-14 06:08:59
 ---
 
 # libraries
 
-(date: 2025-08-13 14:09:23)
+(date: 2025-08-14 06:08:59)
 
 ---
 
@@ -30,6 +30,20 @@ Upadhyay, Arijit; Tröndle, Tim; Ganter, Alissa; Petkov, Ivalin; Gabrielli, Paol
 <br> 
 
 <http://hdl.handle.net/20.500.11850/737644>
+
+---
+
+## Guest Post — What is the Current State of Academic e-book Business Models?
+
+date: 2025-08-14, from: Scholarly Kitchen
+
+<p>A new report from Ithaka S+R assesses the current state of scholarly monograph publishing in humanities and social sciences disciplines in order to understand how current business models are functioning for their consumer base, namely libraries and authors.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/14/guest-post-what-is-the-current-state-of-academic-e-book-business-models/">Guest Post &#8212; What is the Current State of Academic e-book Business Models? </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/14/guest-post-what-is-the-current-state-of-academic-e-book-business-models/>
 
 ---
 
