@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-14 14:08:54
+updated: 2025-08-15 06:10:03
 ---
 
 # retro computing
 
-(date: 2025-08-14 14:08:54)
+(date: 2025-08-15 06:10:03)
+
+---
+
+## Rougol August 2025 meeting on monday - Mark Moxon returns
+
+date: 2025-08-15, from: Icon Bar, RISC OS News
+
+The August 2025 Rougol meeting is on Monday 18th August. It sees the welcome return of Mark Moxon 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2225.html>
 
 ---
 

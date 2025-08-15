@@ -1,17 +1,206 @@
 ---
 title: weather
-updated: 2025-08-14 14:08:50
+updated: 2025-08-15 06:10:01
 ---
 
 # weather
 
-(date: 2025-08-14 14:08:50)
+(date: 2025-08-15 06:10:01)
+
+---
+
+## SPC - No watches are valid as of Fri Aug 15 12:54:02 UTC 2025
+
+date: 2025-08-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Aug 15 12:54:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 1950
+
+date: 2025-08-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1950.html"><img src="https://www.spc.noaa.gov/products/md/mcd1950.png" border="1" alt="MD 1950 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1950
+NWS Storm Prediction Center Norman OK
+0752 AM CDT Fri Aug 15 2025
+
+Areas affected...Parts of northeast NE into extreme northwest IA
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 151252Z - 151415Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...A threat for isolated hail and damaging gusts may continue
+into mid morning.
+
+DISCUSSION...A strong cell has recently evolved out of a storm
+cluster across northeast NE. This storm appears to be associated
+with an MCV that emerged out of the central High Plains. Steep lapse
+rates were observed on regional 12Z soundings, and this cell could
+continue to pose a threat of hail and localized strong gusts in the
+short term as it moves east-northeastward within a favorably
+unstable environment (with MUCAPE in excess of 2500 J/kg). 
+
+The longevity of this storm this morning remains uncertain, due to
+its evolution into a discrete cell, and a general tendency for
+veering and weakening of the low-level jet with time. Recent
+HRRR/RRFS guidance suggests that a more organized cluster may
+eventually evolve downstream into northern IA in association with
+this MCV, though such an evolution may not occur until late morning
+or early afternoon, with the aid of diurnal destabilization.
+
+..Dean/Hart.. 08/15/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...FSD...OAX...LBF...
+
+LAT...LON   42079848 42579813 42669619 41989599 41769675 41759818
+            42079848 
+
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1950.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1950.html>
+
+---
+
+## SPC MD 1949
+
+date: 2025-08-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md1949.html"><img src="https://www.spc.noaa.gov/products/md/mcd1949.png" border="1" alt="MD 1949 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 1949
+NWS Storm Prediction Center Norman OK
+0701 AM CDT Fri Aug 15 2025
+
+Areas affected...Northeast SD into extreme southeast ND/west-central
+MN
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 151201Z - 151330Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...Isolated severe gusts and hail are possible this morning.
+
+DISCUSSION...A small but relatively long-lived storm cluster has
+recently intensified in the vicinity of a surface boundary across
+northeast SD, as it has encountered increasingly favorable buoyancy
+(with MUCAPE in excess of 3000 J/kg). The longevity of this cluster
+is uncertain, due to its elevated nature and some increase in
+downstream MUCINH noted in recent mesoanalysis estimates. Midlevel
+flow of 25-35 kt will continue to provide somewhat favorable
+effective shear for this cluster as long as it persists.
+
+Strong to locally severe gusts have been reported with this cluster
+over the last 60-90 minutes, and a threat for isolated damaging wind
+may continue in the short term as this cluster approaches far
+west-central MN. Hail in excess of 1-inch in diameter has also been
+recently observed, and stronger embedded cells could continue to
+pose an isolated hail threat, given the presence of steep midlevel
+lapse rates and favorable buoyancy.
+
+..Dean/Hart.. 08/15/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MPX...FGF...ABR...BIS...
+
+LAT...LON   46079814 46299751 46509606 46509566 46259528 45579542
+            45169571 45169665 45359783 46079814 
+
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md1949.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md1949.html>
+
+---
+
+## SPC Aug 15, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-08-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0733 AM CDT Fri Aug 15 2025
+
+Valid 151300Z - 161200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON AND
+TONIGHT FROM PARTS OF SOUTH DAKOTA INTO THE UPPER MIDWEST...
+
+...SUMMARY...
+Scattered strong to severe storms are likely today and tonight over
+parts of the northern Plains and Upper Mississippi Valley.
+
+...MN/IA/WI...
+Latest water vapor loop shows a convectively-aided shortwave trough
+moving across SD/NE.  A cluster of intense thunderstorms has tracked
+across central/eastern SD overnight producing occasional wind damage
+(reference MCD #1949).  Another small cluster of storms is over
+northeast NE.  Both of these areas of convection are moving into a
+moist and potentially moderately unstable air mass, although they
+may take a few hours of heating to intensify further.  Despite
+short-term uncertainty, a consensus of overnight CAM guidance
+depicts storms intensifying by early afternoon and tracking eastward
+across parts of MN, northeast IA, and western WI.  Locally damaging
+wind gusts and hail will be possible.  Have expanded the SLGT risk
+area slightly farther south in line with recent model solutions.
+
+...SD/NE this afternoon/tonight...
+Strong heating and ample mid-level moisture will result in scattered
+high-based thunderstorm development across eastern WY and western
+NE/SD by late afternoon.  This activity will track
+east-northeastward through the early evening into a progressively
+more moist and unstable air mass.  The combination of improving
+thermodynamic environment and an intensifying nocturnal low-level
+jet will likely aid in thunderstorm intensification through the
+evening across northern NE and central SD.  Damaging winds and hail
+will be possible.  Recent HRRR/RRFS runs suggest an
+upscale-organizing MCS could occur after midnight, tracking into
+western MN.  Have extended the SLGT westward to account for this
+scenario.
+
+..Hart/Dean.. 08/15/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
 ## NHC Atlantic Outlook
 
-date: 2025-08-14, from: Graphical Tropical Weather Outlooks
+date: 2025-08-15, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -20,12 +209,111 @@ date: 2025-08-14, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Thu Aug 14 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Erin, located east of the Leeward Islands.<br><br>1. Southwestern Gulf (AL98):<br>Shower and thunderstorm activity has increased in association with <br>an area of low pressure located over the Bay of Campeche. The low is <br>forecast to move west-northwestward across the southwestern Gulf <br>during the next day or so, where environmental conditions are <br>marginally conducive for further development.  A tropical depression <br>could form before this system moves inland over northeastern Mexico <br>or southern Texas by late Friday ending its chances for tropical <br>development.  Regardless of development, locally heavy rainfall is <br>possible along portions of northeastern Mexico and southern Texas <br>over the next few days.  An Air Force Reserve Hurricane Hunter is en <br>route to investigate this system.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br><br><br>Forecaster Bucci<br><br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Aug 15 2025<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Erin, located several hundred miles east of the northern <br>Leeward Islands.<br><br>1. Southwestern Gulf (AL98):<br>Shower and thunderstorm activity has persisted in association with a <br>disturbance located about 75 miles off the coast of northeastern <br>Mexico or southern Texas coastline.  The system could become a <br>short-lived tropical depression before it moves inland this <br>afternoon or evening.  Regardless of development, locally heavy <br>rainfall is possible along portions of northeastern Mexico and <br>southern Texas over the next couple of days, and interests there <br>should monitor the progress of this system. Another Air Force <br>Reserve Hurricane Hunter aircraft is scheduled to investigate the <br>system later this morning.<br>* Formation chance through 48 hours...medium...50 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br><br><br>Forecaster Bucci<br><br></div></div><br />
  
 
 <br> 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2025-08-15, from: Central Pacific Basin Tropical Cyclones
+
+000<br />ACPN50 PHFO 151143<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Fri Aug 15 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2025-08-15, from: Eastern Pacific Basin Tropical Cyclones
+
+000<br />ABPZ20 KNHC 151143<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri Aug 15 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2025-08-15, from: Eastern Pacific Tropical Weather Outlook
+
+000<br />ABPZ20 KNHC 151143<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 AM PDT Fri Aug 15 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2025-08-15, from: Central Pacific Tropical Weather Outlook
+
+000<br />ACPN50 PHFO 151143<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />200 AM HST Fri Aug 15 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Bucci<br />NNNN 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
+
+---
+
+## SPC Aug 15, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-08-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0344 AM CDT Fri Aug 15 2025
+
+Valid 181200Z - 231200Z
+
+...DISCUSSION...
+...Monday/Day 4 to Wednesday/Day 6...
+At mid-levels, heights are forecast to rise across the north-central
+states on Monday and Tuesday, as west-northwesterly flow remains
+from parts of the northern Plains to the Eastern Seaboard. 
+Thunderstorm development will be possible each day along parts of a
+front, which is forecast to be slow-moving and situated from the
+northern Plains east-southeastward into the southern Great Lakes. An
+isolated severe threat will be possible in the vicinity of the front
+within a moderately unstable airmass on Monday from parts of South
+Dakota eastward into the western Great Lakes. Storms with an
+isolated severe threat will again be possible on Tuesday. The
+greatest convective coverage is forecast to be further to the east
+from the southern Great Lakes into the central Appalachians.
+
+On Wednesday, isolated to scattered thunderstorms are expected over
+parts of the mid Mississippi and lower Ohio Valleys. In this area,
+large-scale ascent and deep-layer shear are forecast to be weak
+suggesting the potential for severe storms will remain low.
+
+...Thursday/Day 7 and Friday/Day 8...
+On Thursday, a cold front is forecast to move into the northern
+Plains. Thunderstorm development will be possible ahead of the front
+along an axis of instability from parts of South Dakota into
+northwestern Minnesota. An isolated severe threat may develop with
+this activity during the afternoon and evening. The potential for
+isolated severe is forecast to shift southeastward into the mid
+Missouri upper Mississippi Valleys on Friday. However, uncertainty
+is low at this range in the forecast period.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -135,18 +423,6 @@ southwesterly flow aloft exists.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC - No watches are valid as of Thu Aug 14 20:02:01 UTC 2025
-
-date: 2025-08-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Aug 14 20:02:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
@@ -381,54 +657,6 @@ hail is possible from these storms.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2025-08-14, from: Central Pacific Basin Tropical Cyclones
-
-000<br />ACPN50 PHFO 141742<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Aug 14 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Beven<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2025-08-14, from: Eastern Pacific Basin Tropical Cyclones
-
-000<br />ABPZ20 KNHC 141742<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Aug 14 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Beven 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2025-08-14, from: Eastern Pacific Tropical Weather Outlook
-
-000<br />ABPZ20 KNHC 141742<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />1100 AM PDT Thu Aug 14 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Beven 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/MIATWOEP.shtml>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2025-08-14, from: Central Pacific Tropical Weather Outlook
-
-000<br />ACPN50 PHFO 141742<br />TWOCP <br /><br />Tropical Weather Outlook<br />NWS Central Pacific Hurricane Center Honolulu HI<br />Issued by NWS National Hurricane Center Miami FL<br />800 AM HST Thu Aug 14 2025<br /><br />For the central North Pacific...between 140W and 180W:<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />$$<br />Forecaster Beven<br />NNNN 
-
-<br> 
-
-<https://www.nhc.noaa.gov/text/HFOTWOCP.shtml>
 
 ---
 
@@ -694,93 +922,6 @@ southwesterly flow aloft exists.
 
 ---
 
-## SPC Aug 14, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-08-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0734 AM CDT Thu Aug 14 2025
-
-Valid 141300Z - 151200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-EASTERN NORTH DAKOTA INTO NORTHWEST MINNESOTA...
-
-...SUMMARY...
-Thunderstorms capable of producing large hail and severe wind gusts
-may occur this afternoon into tonight across parts of the
-northern/central Plains and upper Mississippi Valley.
-
-...Northern/Central Plains into the Upper Mississippi Valley...
-Ongoing elevated thunderstorms across parts of eastern SD this
-morning are occurring in association with a low-amplitude shortwave
-trough and related low-level warm advection. This activity has
-remained sub-severe through much of the early morning hours, but it
-could still pose an isolated hail threat in the short term given
-weak MUCAPE and sufficient deep-layer shear. It remains unclear
-whether additional thunderstorm development will occur later this
-afternoon across parts of southern MN and vicinity as the shortwave
-trough continues eastward across the upper MS Valley. The airmass
-across this area will gradually destabilize through the day, but
-capping may tend to inhibit additional development. Still, a
-conditional threat for isolated severe hail/wind exists if robust
-thunderstorms can initiate, so have maintained the Marginal Risk
-across southern MN for this possibility.
-
-Thunderstorms across southern Manitoba this morning are expected to
-generally remain along/north of the international border as they
-continue eastward into western Ontario. A fairly strong
-mid/upper-level trough will progress eastward today across
-Saskatchewan/Manitoba, with the southern fringe of this perturbation
-glancing the northern Plains later today. Enhanced westerly
-mid-level flow will overspread ND and northern MN late this
-afternoon though tonight, while a surface cold front advances
-east-southeastward across the northern Plains through the period.
-Low-level moisture will continue to stream northward ahead of the
-front, with evapotranspiration also aiding surface dewpoints
-potentially reaching into the upper 60s to perhaps low 70s by early
-evening. Ample daytime heating and steep lapse rates aloft will aid
-in the development of at least 2500-3500 J/kg of MLCAPE by late
-afternoon.
-
-The primary uncertainty regarding convective development along the
-front is a capped 850-700 mb layer and weak forcing with southward
-extent across the northern Plains, as the primary upper trough will
-remain across Canada through the period. Even so, low-level
-convergence along the front may become sufficient for cells to
-initiate by early evening, mainly across parts of eastern ND into
-northwest MN where MLCIN should be weakest. Any convection which can
-be sustained could pose a threat for large to isolated very large
-hail given a favorable thermodynamic and kinematic environment. Some
-potential for upscale growth into clusters along the front remains
-apparent this evening into the early overnight hours, with greater
-severe wind threat. However, inhibition will quickly increase with
-eastward extent across MN as nocturnal cooling of the boundary layer
-occurs; so, the severe wind threat remains uncertain.
-
-Finally, scattered high-based thunderstorms should occur this
-afternoon and evening farther south across parts of the central High
-Plains. As this convection spreads eastward and encounters greater
-instability along/east of a surface lee trough, it may become
-capable of producing isolated severe gusts and perhaps marginally
-severe hail. The lack of stronger forcing aloft and modest
-deep-layer shear should temper the overall severe threat with
-southward extent.
-
-..Gleason/Leitman.. 08/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## SPC - No MDs are in effect as of Thu Aug 14 12:40:02 UTC 2025
 
 date: 2025-08-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -790,44 +931,6 @@ No Mesoscale Discussions are in effect as of Thu Aug 14 12:40:02 UTC 2025.
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Aug 14, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-08-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0326 AM CDT Thu Aug 14 2025
-
-Valid 171200Z - 221200Z
-
-...DISCUSSION...
-An upper ridge is forecast to build over the Plains and Rockies
-through Tuesday/D6, with the upper high retrograding from the
-central Plains to the Four Corners. East of the ridge axis,
-northwest midlevel flow of 20-30 kt will persist over the upper MS
-Valley/Great Lakes, with a large area of moisture and instability
-roughly from MN/IA to IL/IN. This pattern should support corridors
-of thunderstorms in the low-level warm advection zone, or along the
-northern instability gradient through Tuesday/D6. While areas of
-strong wind gusts will be possible, the overall severe probably is
-less than the 15% threshold over this large zone.
-
-The upper ridge may flatten over the northern Rockies/Plains beyond
-D6, with perhaps an eventual northwest flow regime coinciding with
-residual instability, supporting at least minimal severe potential
-over the northern Plains.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

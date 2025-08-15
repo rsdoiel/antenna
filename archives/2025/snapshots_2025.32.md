@@ -1,11 +1,73 @@
 ---
 title: snapshots
-updated: 2025-08-14 14:08:58
+updated: 2025-08-15 06:10:06
 ---
 
 # snapshots
 
-(date: 2025-08-14 14:08:58)
+(date: 2025-08-15 06:10:06)
+
+---
+
+## Trump Has Dropped a Third of All Government Investigations Into Big Tech
+
+date: 2025-08-15, from: 404 Media Group
+
+Tech companies spent $1.2 billion on political influence since 2024. It’s paid off. 
+
+<br> 
+
+<https://www.404media.co/trump-has-dropped-a-third-of-all-government-investigations-into-big-tech/>
+
+---
+
+## Stagflation: Shooting the Messengers
+
+date: 2025-08-15, from: Paul Krugman
+
+Mainstream economists&#8217; critiques of Trump were right 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/stagflation-shooting-the-messengers>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-15, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lwg3uih2ys2u>
+
+---
+
+## ArmSoM CM1 is a $15 RK3506J compute module with an optional carrier board.
+
+date: 2025-08-14, from: Liliputing
+
+<p>We&#8217;ve seen a bunch of computer-on-a-module designs from Raspberry Pi, Banana Pi, NVIDIA, and others in recent years. But the ArmSoM CM1 stands out as one of the only models I&#8217;ve seen that can be used with or without a carrier board since it has a built-in USB-C port, MIPI-DSI display connector, and microSD card [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/armsom-cm1-is-a-15-rk3506j-compute-module-with-an-optional-carrier-board/">ArmSoM CM1 is a $15 RK3506J compute module with an optional carrier board.</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/armsom-cm1-is-a-15-rk3506j-compute-module-with-an-optional-carrier-board/>
+
+---
+
+## OpenAI’s Waterloo? [with corrections]
+
+date: 2025-08-14, from: Gary Marcus blog
+
+Post GPT-5, the narrative has flipped &#8212; and that could hurt them 
+
+<br> 
+
+<https://garymarcus.substack.com/p/openais-waterloo>
 
 ---
 

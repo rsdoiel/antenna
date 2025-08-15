@@ -1,11 +1,341 @@
 ---
 title: columns
-updated: 2025-08-14 14:08:49
+updated: 2025-08-15 06:10:00
 ---
 
 # columns
 
-(date: 2025-08-14 14:08:49)
+(date: 2025-08-15 06:10:00)
+
+---
+
+##  &#8220;Venus Williams is making history in her return to the U.S. Open... 
+
+date: 2025-08-15, updated: 2025-08-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047350-venus-williams-is-making->
+
+---
+
+## 2025-08-12 Influential games
+
+date: 2025-08-15, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-12-influential-games">2025-08-12 Influential games</h1>
+
+<p><a class="account" href="https://dice.camp/@Ashigaru" title="@Ashigaru@dice.camp">@Ashigaru</a> mentioned how D&amp;D 3.0 was really important for him at the time and <a class="account" href="https://metalhead.club/@dereisenhofer" title="@dereisenhofer@metalhead.club">@dereisenhofer</a> mentioned him playing DSA (Das Schwarze Auge, i.e. The Dark Eye). And I thought about my gaming history.</p>
+
+<p>I moved from The Dark Eye 1st ed that I played as a kid and again as a 15-year old to AD&amp;D 1st ed when I was around 16 because a Canadian exchange student said it was the original and obviously it had to better. Some mere months later my group switched to the new AD&amp;D 2nd ed because obviously new had to be better. And then my interest waned.</p>
+
+<p>Years later, I got into M20 because of the blogs, and my players wanted to play the just released D&amp;D 3.5 because obviously new had to better. With the switch to D&amp;D 4 I put my foot down and went with Labyrinth Lord – and lost almost all my players. 🥺</p>
+
+<p>But I found new ones and kept on playing. So for me, D&amp;D 3.5 stands for those special years just before the OSR blogs took off, when I came back to the game.</p>
+
+<ul>
+<li><a href="2006-11-09_Nostalgia_for_Rolplaying_Games">2006-11-09 Nostalgia for Rolplaying Games</a>, where I wish to get back into gaming</li>
+<li><a href="2007-12-11_Looking_Back">2007-12-11 Looking Back</a> where I list all the Adventure Paths I still want to play</li>
+<li><a href="2010-06-27_Gaming_History">2010-06-27 Gaming History</a> is where I repeat myself, but in the past 🤪</li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-12-influential-games>
+
+---
+
+## Trojans Embedded in .svg Files
+
+date: 2025-08-15, updated: 2025-08-14, from: Bruce Schneier blog
+
+<p>Porn sites are <a href="https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/">hiding code</a> in .svg files:</p>
+<blockquote><p>Unpacking the attack took work because much of the JavaScript in the .svg images was heavily obscured using a custom version of &#8220;JSFuck,&#8221; a technique that uses only a handful of character types to encode JavaScript into a camouflaged wall of text.</p>
+<p>Once decoded, the script causes the browser to download a chain of additional obfuscated JavaScript. The final payload, a known malicious script called Trojan.JS.Likejack, induces the browser to like a specified Facebook post as long as a user has their account open...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html>
+
+---
+
+## 2025-08-15 An opt-in search engine: Xobaque
+
+date: 2025-08-15, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
+
+<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web called <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a>. You can test it <a href="http://search.transjovian.org/search">here</a>.
+(I&rsquo;m currently having problems with Let&rsquo;s Encrypt and therefore this is HTTP only, for the moment.)</p>
+
+<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
+
+<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
+
+<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
+
+<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
+
+<p>Here are some examples of how to use this in a script.</p>
+
+<p>My homepage:</p>
+
+<pre><code>#!/usr/bin/fish
+cd /home/alex/alexschroeder.ch/wiki
+for line in (/home/oddmu/oddmu list)
+  set --local info (string split &quot;	&quot; $line)
+  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
+  set --local title $info[2]
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://alexschroeder.ch/view/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;$name.md&quot;
+end
+</code></pre>
+
+<p>(The index file grows from nearly zero to about 40M.)</p>
+
+<p>Emacs Wiki:</p>
+
+<pre><code>#!/usr/bin/fish
+for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
+  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
+  set --local title (string replace '_' ' ' $name)
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://www.emacswiki.org/emacs/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;/home/alex/emacswiki/git/$name&quot;
+end
+</code></pre>
+
+<p>(The index file grows from about 40M to 290M.)</p>
+
+<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
+
+<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-15-xobaque>
+
+---
+
+## We have Face with Tears of Joy audio book winners!
+
+date: 2025-08-15, from: Shady Characters blog
+
+<p>Congratulations to Mike Poteet, Red, Claire Little and Barbara Matton, winners of the <a href="https://shadycharacters.co.uk/2025/08/face-with-tears-of-joy-audiobook-giveaway/"><cite>Face with Tears of Joy</cite> audio book giveaway</a>! Their names were picked at random from the set of all entrants who replied to <a href="https://shadycharacters.co.uk/2025/06/win-a-copy-of-face-with-tears-of-joy/">the original post about the competition</a>.  Thank you all for taking part!</p><a class="more-link" href="https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/>
+
+---
+
+## If Democrats got off their asses, here’s what they’d be doing now
+
+date: 2025-08-15, from: Robert Reich's blog
+
+Nine critical steps 
+
+<br> 
+
+<https://robertreich.substack.com/p/if-democrats-got-off-their-asses>
+
+---
+
+## August 14, 2025 
+
+date: 2025-08-15, from: Heather Cox Richardson blog
+
+Today, flanked by California&#8217;s Democratic elected officials and union leaders, California governor Gavin Newsom responded to Trump&#8217;s attempt to strongarm the Texas legislature into redistricting the state to give Trump the five additional congressional representatives to which he feels &#8220;entitled.&#8221; Newsom announced that California will hold a special election on November 4 for voters to consider redistricting their state temporarily if Texas redistricts, so that California can neutralize Trump&#8217;s rigging of the state of Texas. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/august-14-2025>
+
+---
+
+## car brands running curl
+
+date: 2025-08-15, from: Daniel Stenberg Blog
+
+Seven years ago I wrote about how a hundred million cars were running curl and as I brought up this blog post in a discussion recently, I came to reflect over how the world might have changed since. Is curl perhaps used in more cars now? Yes it is. With the help of friendly people &#8230; <a href="https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/" class="more-link">Continue reading <span class="screen-reader-text">car brands running curl</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/>
+
+---
+
+## Bloomberg: ‘Trump Administration Said to Discuss Taking Stake in Intel’
+
+date: 2025-08-15, updated: 2025-08-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-08-14/trump-administration-is-said-to-discuss-us-taking-stake-in-intel>
+
+---
+
+## The Wall Street Journal Marches Toward Pravda With American Characteristics
+
+date: 2025-08-15, updated: 2025-08-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/economy/the-u-s-marches-toward-state-capitalism-with-american-characteristics-f75cafa8?st=48pGHz&reflink=desktopwebshare_permalink>
+
+---
+
+##  Max Cooper, Repetition 
+
+date: 2025-08-15, updated: 2025-08-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/max-cooper-repetition>
+
+---
+
+## Nice Pitch From Dieter Bohn for the Samsung Galaxy Z Fold 7
+
+date: 2025-08-14, updated: 2025-08-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/backlon/status/1956075874370933114>
+
+---
+
+## Live with Heather Cox Richardson
+
+date: 2025-08-14, from: Heather Cox Richardson blog
+
+A recording from Heather Cox Richardson's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/171001352/463fd77e3f2530939fee4b0049b3e7d5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/171001352/463fd77e3f2530939fee4b0049b3e7d5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/live-with-heather-cox-richardson>
+
+---
+
+## Friday 15 August, 2025
+
+date: 2025-08-14, from: John Naughton's online diary
+
+Painterly ultra-realism This is a painting by the Ukrainian painter Vladimir Orlovsky which I came across in Adam Tooze’s terrific blog. I looked hard at it, unable to believe that it isn’t a photograph. It&#8217;s not. Quote of the Day &#8230; <a href="https://memex.naughtons.org/friday-15-august-2025/41111/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-15-august-2025/41111/>
+
+---
+
+##  Kieran Healy recently became a US citizen. &#8220;I know the nationalities of... 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/0047349-kieran-healy-recently-bec>
+
+---
+
+## “I Have a Theory Too”: The Challenge and Opportunity of Avocational Science
+
+date: 2025-08-14, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/08/pwt-news.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common theme: they’re all emails that present some kind of fundamental theory invented by [&#8230;] 
+
+<br> 
+
+<https://writings.stephenwolfram.com/2025/08/i-have-a-theory-too-the-challenge-and-opportunity-of-avocational-science/>
+
+---
+
+## Coming to America
+
+date: 2025-08-14, from: Dan Rather's Steady
+
+Trump invites a war criminal to a meeting on U.S. soil 
+
+<br> 
+
+<https://steady.substack.com/p/coming-to-america>
+
+---
+
+## ★ Apple Issues a Workaround for the Blood Oxygen Sensor Ban for U.S. Apple Watches
+
+date: 2025-08-14, updated: 2025-08-14, from: Daring Fireball
+
+What today’s workaround does is process and display the blood oxygen sensor data on your watch’s paired iPhone, rather than on the Apple Watch itself. That, apparently, is what the new US Customs ruling holds does not violate Masimo’s patent. 
+
+<br> 
+
+<https://daringfireball.net/2025/08/apple_workaround_blood_oxygen_ban>
+
+---
+
+##  Building a Watch From Scratch in a Brooklyn Basement 
+
+date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/08/building-a-watch-from-scratch-in-a-brooklyn-basement>
+
+---
+
+## The thrill of rotary phones
+
+date: 2025-08-14, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/08/14/isItForMe.png"></center>Is it for <i>me?</i></div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/08/14/212552.html?title=theThrillOfRotaryPhones>
+
+---
+
+## August 13, 2025
+
+date: 2025-08-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/171007088/9594efb8cfd7392132be4b9b258aa5c0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/171007088/9594efb8cfd7392132be4b9b258aa5c0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/august-13-2025-e78>
 
 ---
 
@@ -377,7 +707,7 @@ date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-08-14, from: Dave Winer's Scripting News)
 
-There should be a connection between DC residents and Kiev residents. They could teach us <a href="https://x.com/jeffjarvis/status/1955976385131856180">how to do this</a>. They have decades of experience. 
+There should be a connection between DC and Kiev residents. They could teach us <a href="https://x.com/jeffjarvis/status/1955976385131856180">how to do this</a>. They have decades of experience. 
 
 <br> 
 
@@ -915,7 +1245,7 @@ date: 2025-08-13, updated: 2025-08-13, from: Jason Kittke's blog
 
 ## Updated Design for Pebble Time 2 Watch
 
-date: 2025-08-13, updated: 2025-08-13, from: Daring Fireball
+date: 2025-08-13, updated: 2025-08-14, from: Daring Fireball
 
  
 
@@ -1600,34 +1930,6 @@ date: 2025-08-12, updated: 2025-08-12, from: Liam Proven's articles at the Regis
 <br> 
 
 <http://scripting.com/2025/08/12.html#a120432>
-
----
-
-## 2025-08-12 Influential games
-
-date: 2025-08-12, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-12-influential-games">2025-08-12 Influential games</h1>
-
-<p><a class="account" href="https://dice.camp/@Ashigaru" title="@Ashigaru@dice.camp">@Ashigaru</a> mentioned how D&amp;D 3.0 was really important for him at the tjme and <a class="account" href="https://metalhead.club/@dereisenhofer" title="@dereisenhofer@metalhead.club">@dereisenhofer</a> mentioned him playing DSA (Das Schwarze Auge, i.e. The Dark Eye). And I thought about my gaming history.</p>
-
-<p>I moved from The Dark Eye 1st ed that I played as a kid and again as a 15-year old to AD&amp;D 1st ed when I was around 16 because a Canadian exchange student said it was the original and obviously it had to better. Some mere months later my group switched to the new AD&amp;D 2nd ed because obviously new had to be better. And then my interest waned.</p>
-
-<p>Years later, I got into M20 because of the blogs, and my players wanted to play the just released D&amp;D 3.5 because obviously new had to better. With the switch to D&amp;D 4 I put my foot down and went with Labyrinth Lord – and lost almost all my players. 🥺</p>
-
-<p>But I found new ones and kept on playing. So for me, D&amp;D 3.5 stands for those special years just before the OSR blogs took off, when I came back to the game.</p>
-
-<ul>
-<li><a href="2006-11-09_Nostalgia_for_Rolplaying_Games">2006-11-09 Nostalgia for Rolplaying Games</a>, where I wish to get back into gaming</li>
-<li><a href="2007-12-11_Looking_Back">2007-12-11 Looking Back</a> where I list all the Adventure Paths I still want to play</li>
-<li><a href="2010-06-27_Gaming_History">2010-06-27 Gaming History</a> is where I repeat myself, but in the past 🤪</li>
-</ul>
-
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-12-influential-games>
 
 ---
 

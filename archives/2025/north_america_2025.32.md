@@ -1,11 +1,73 @@
 ---
 title: north america
-updated: 2025-08-14 14:08:45
+updated: 2025-08-15 06:09:57
 ---
 
 # north america
 
-(date: 2025-08-14 14:08:45)
+(date: 2025-08-15 06:09:57)
+
+---
+
+## Measles Is Making a Comeback — and California Isn’t Immune
+
+date: 2025-08-15, from: Capital and Main
+
+<p>Vaccination gaps in 16 counties leave some communities exposed as children return to school.</p>
+<p>The post <a href="https://capitalandmain.com/measles-is-making-a-comeback-and-california-isnt-immune">Measles Is Making a Comeback — and California Isn’t Immune</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/measles-is-making-a-comeback-and-california-isnt-immune>
+
+---
+
+## Undaunted Fighter for Workers
+
+date: 2025-08-15, from: The Contrarian
+
+Sherrod Brown could deliver for Democrats 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-fighter-for-workers>
+
+---
+
+##  Why Everybody Should Care That Men Are Losing Their Deep Friendships 
+
+date: 2025-08-15, from: The Lever News
+
+ David Sirota’s full interview with journalist Sam Graham-Felsen on the far-reaching political implications of the male loneliness crisis.  
+
+<br> 
+
+<https://www.levernews.com/why-everybody-should-care-that-men-are-losing-their-deep-friendships/>
+
+---
+
+## Evening Roundup, August 14
+
+date: 2025-08-14, from: The Contrarian
+
+Featuring "The Tea" with April Ryan, Alan Light, Frederic J. Frommer, Tom Joscelyn & Norm Eisen, Roberto Valadez, Jeff Nesbit, Tom Malinowski, and Simon Rosenberg with Jen Rubin 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-august-14>
+
+---
+
+## The Tea w/ April Ryan ft. Gov. Wes Moore & Glynda Carr
+
+date: 2025-08-14, from: The Contrarian
+
+A recording from The Tea w/ April Ryan 08/07 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-tea-w-april-ryan-ft-gov-wes-moore-c89>
 
 ---
 
@@ -95,7 +157,7 @@ Thursday: D.C. protests the federal law enforcement takeover, Britains protest t
 
 ---
 
-## An attack on the CDC and soaring measles cases: Are we listening?
+## A Shooting at the CDC and Soaring Measles Cases: Are we listening?
 
 date: 2025-08-14, from: The Contrarian
 

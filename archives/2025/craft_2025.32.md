@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-08-14 14:08:56
+updated: 2025-08-15 06:10:05
 ---
 
 # craft
 
-(date: 2025-08-14 14:08:56)
+(date: 2025-08-15 06:10:05)
+
+---
+
+## The Case for Hollows and Rounds
+
+date: 2025-08-15, from: Lost Arg Press blog
+
+The following is excerpted from Matthew Bickford’s “Mouldings in Practice.” In this book, Bickford shows you how to turn a set of complicated mouldings into a series of predictable rabbets and chamfers that guide your hollow and round planes to make any moulding that has been made in the past or that you can envision... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/08/15/the-case-for-hollows-and-rounds/>
 
 ---
 

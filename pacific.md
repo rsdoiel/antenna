@@ -1,11 +1,717 @@
 ---
 title: pacific
-updated: 2025-08-14 14:08:47
+updated: 2025-08-15 06:09:59
 ---
 
 # pacific
 
-(date: 2025-08-14 14:08:47)
+(date: 2025-08-15 06:09:59)
+
+---
+
+## BOE to hold public meetings next week in Hawaii County
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii State Board of Education is holding a series of community engagement meetings across the state so the public can engage with board members and Department of Education staff about the early childhood workforce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/hawaii-news/boe-to-hold-public-meetings-next-week-in-hawaii-county/>
+
+---
+
+## US senators call for Meta probe after Reuters report on its AI policies
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Two Republican U.S. senators called for a congressional investigation into Meta Platforms on Thursday after Reuters exclusively reported on an internal policy document that permitted the company&#8217;s chatbots to &#8220;engage a child in conversations that are romantic or sensual.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/us-senators-call-for-meta-probe-after-reuters-report-on-its-ai-policies/>
+
+---
+
+## Emergency repairs scheduled for Kaiwiki Road
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Public Works will be conducting emergency repairs today on Kaiwiki Road due to &#8220;an increased road depression.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/hawaii-news/emergency-repairs-scheduled-for-kaiwiki-road/>
+
+---
+
+## UH Hilo has a role in massive AI project
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii Hilo announced Thursday it has received a $1.4 million to support advancement of science through the use of artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/hawaii-news/uh-hilo-has-a-role-in-massive-ai-project/>
+
+---
+
+## COVID outbreak hits Hilo nursing home
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>With the summer wave, a COVID-19 outbreak has hit the Hilo Benioff Medical Center&#8217;s nursing home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/hawaii-news/covid-outbreak-hits-hilo-nursing-home/>
+
+---
+
+## Which Donald Trump will negotiate with Putin in Alaska?
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; When President Donald Trump and Russian President Vladimir Putin met in Helsinki in 2018, the pair alarmed allies with a friendly encounter where Trump sided with the Russian leader over his own intelligence agencies on election interference. Trump flies to a meeting in Alaska with Putin today in a different public mood - impatient with the Russian&#8217;s unwillingness to negotiate an end to his war in Ukraine and angry over missile strikes on Ukrainian cities. The world is waiting to see if it will be this tougher version of Trump who shows up in Anchorage or if it will be the former real estate tycoon who has sought to ingratiate himself with the wily former KGB agent in the past.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/which-donald-trump-will-negotiate-with-putin-in-alaska/>
+
+---
+
+## Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>An internal Meta Platforms document detailing policies on chatbot behavior has permitted the company&#8217;s artificial intelligence creations to &#8220;engage a child in conversations that are romantic or sensual,&#8221; generate false medical information and help users argue that Black people are &#8220;dumber than white people.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/metas-ai-rules-have-let-bots-hold-sensual-chats-with-kids-offer-false-medical-info/>
+
+---
+
+## PBS slashes budget by 21% after federal funding cuts
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>PBS is cutting its current budget by more than a fifth to deal with Congress&#8217; recent decision to eliminate roughly $500 million in federal funding from public TV and radio, according to a memo from the organization&#8217;s CEO, Paula Kerger.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/pbs-slashes-budget-by-21-after-federal-funding-cuts/>
+
+---
+
+## HHS resurrects vaccine safety panel disbanded decades ago
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Health and Human Services resurrected a long-dormant task force on childhood vaccines on Thursday, another step in the Trump administration&#8217;s efforts to scrutinize the shots that American children receive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/hhs-resurrects-vaccine-safety-panel-disbanded-decades-ago/>
+
+---
+
+## Plastic pollution talks go into overtime as countries push for late breakthrough
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; Talks to create the world&#8217;s first legally binding treaty to tackle plastic pollution went into overtime on Thursday, with talks adjourned to the following day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/plastic-pollution-talks-go-into-overtime-as-countries-push-for-late-breakthrough/>
+
+---
+
+## Hot wholesale prices data puts wrinkle in Fed’s rate-cut roadmap
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>A jump in wholesale prices is likely to bolster concerns among Federal Reserve policymakers that rising inflation remains a risk, intensifying debate over the rationale for an interest rate cut next month and leaving the tension between the U.S. central bank and the White House unresolved.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/hot-wholesale-prices-data-puts-wrinkle-in-feds-rate-cut-roadmap/>
+
+---
+
+## Hegseth supports women’s right to vote, Pentagon says, despite his having reposted video
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Defense Secretary Pete Hegseth supports a woman&#8217;s right to vote, the Pentagon said on Thursday, days after he reposted a video on X of a pastor advocating repealing the right guaranteed by the U.S. Constitution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/hegseth-supports-womens-right-to-vote-pentagon-says-despite-his-having-reposted-video/>
+
+---
+
+## News in brief for August 15
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Man is charged with assaulting &#0010;federal agent with sandwich in DC</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/news-in-brief-for-august-15/>
+
+---
+
+## US government to shed 300,000 workers this year, Trump’s HR chief forecasts
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration will likely shed around 300,000 workers this year, its new human resources chief said on Thursday, which would amount to a 12.5% decrease in the federal workforce since January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/us-government-to-shed-300000-workers-this-year-trumps-hr-chief-forecasts/>
+
+---
+
+## California Democrats launch redistricting campaign to counter Texas ‘power grab’
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; California Governor Gavin Newsom led a campaign-style rally on Thursday for a redistricting plan to foil what he called President Donald Trump&#8217;s bid to rig the next congressional race and cement his Republican House majority by redrawing the political map of Texas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/california-democrats-launch-redistricting-campaign-to-counter-texas-power-grab/>
+
+---
+
+## Minnesota assassination suspect indicted on first-degree murder charges
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>When a gunman disguised as a police officer shot two Minnesota legislators and their spouses two months ago, it set off the largest search in the state&#8217;s history and left public officials across the country worried about their safety.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/minnesota-assassination-suspect-indicted-on-first-degree-murder-charges/>
+
+---
+
+## Federal Raids Target D.C. Homeless Camps
+
+date: 2025-08-15, from: Hawaii Tribune Harold
+
+
+				<p>Federal authorities were attempting to clear homeless encampments in northwestern Washington on Thursday night as part of President Donald Trump&#8217;s takeover of the city&#8217;s law enforcement apparatus, after city officials and advocates spent much of the day urging unhoused people to go to shelters or risk arrest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/08/15/nation-world-news/federal-raids-target-d-c-homeless-camps/>
+
+---
+
+## Dangerous Escaped Prisoner Captured After Four-Day Manhunt in Koror
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="877" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?fit=877%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?resize=257%2C300&amp;ssl=1 257w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?resize=877%2C1024&amp;ssl=1 877w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?resize=768%2C897&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?resize=780%2C911&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?resize=400%2C467&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?resize=706%2C824&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?fit=877%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79586" data-permalink="https://islandtimes.org/dangerous-escaped-prisoner-captured-after-four-day-manhunt-in-koror/jail-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?fit=900%2C1051&amp;ssl=1" data-orig-size="900,1051" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="jail" data-image-description="" data-image-caption="&lt;p&gt;Photo of prisoner Suki Temael being brought to Koror jail, after a 4-day manhunt.  &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?fit=257%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/jail.jpg?fit=780%2C911&amp;ssl=1" /></figure>
+<p>Koror, Palau — A four-day manhunt for escaped prisoner Suki Temael ended Wednesday after police captured him on the rock island of Techikebakl in Nikko Bay, Koror State, authorities said. The capture occurred around 2:30 p.m. following tips from the public. Minister of Justice Jennifer Olegeriil held a press briefing to announce the capture and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dangerous-escaped-prisoner-captured-after-four-day-manhunt-in-koror/">Dangerous Escaped Prisoner Captured After Four-Day Manhunt in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dangerous-escaped-prisoner-captured-after-four-day-manhunt-in-koror/>
+
+---
+
+## Palau ranks 104th in Global Climate adaptation Index
+
+date: 2025-08-15, from: Island Times
+
+<p>By: Bernadette Carreon PALAU — Palau ranks 104th out of 187 countries in the latest Notre Dame Global Adaptation Initiative (ND-GAIN) Country Index, with a score of 45.1 out of 100. The index, compiled by the University of Notre Dame, measures how well countries can cope with climate change challenges. The assessment identifies Palau as [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-ranks-104th-in-global-climate-adaptation-index/">Palau ranks 104th in Global Climate adaptation Index</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-ranks-104th-in-global-climate-adaptation-index/>
+
+---
+
+## MOE emphasizes support, not Expulsion, in Drug Policy Clarification
+
+date: 2025-08-15, from: Island Times
+
+<p>By: Faith Chen Koror, Palau — Palau High School and the Ministry of Education clarified their policies after reports surfaced that a 14-year-old freshman had been expelled for allegedly selling marijuana on campus. During a press briefing on Aug. 13, Education Minister Dale Jenkins said the school’s policy does not mandate immediate expulsion for students [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/moe-emphasizes-support-not-expulsion-in-drug-policy-clarification/">MOE emphasizes support, not Expulsion, in Drug Policy Clarification</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/moe-emphasizes-support-not-expulsion-in-drug-policy-clarification/>
+
+---
+
+## Palau weighs $500 Foreign Worker Fee Amid Employer concerns and Labor shortages
+
+date: 2025-08-15, from: Island Times
+
+<p>KOROR, Palau — Palau’s plan to more than triple the annual fee for foreign worker permits from $150 to $500 is sparking concern among employers and retirees who depend on overseas labor. The increase, embedded in the FY 2026 budget bill, would also raise the two-year permit from $300 to $900. The measure — embedded [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-weighs-500-foreign-worker-fee-amid-employer-concerns-and-labor-shortages/">Palau weighs $500 Foreign Worker Fee Amid Employer concerns and Labor shortages</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-weighs-500-foreign-worker-fee-amid-employer-concerns-and-labor-shortages/>
+
+---
+
+## Idelkei’s APIC Program experience
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="1024" height="544" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?fit=1024%2C544&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?resize=1024%2C544&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?resize=768%2C408&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?resize=780%2C414&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?resize=400%2C212&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?resize=706%2C375&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?fit=1024%2C544&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79569" data-permalink="https://islandtimes.org/idelkeis-apic-program-experience/britchet-idelkei/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?fit=1200%2C637&amp;ssl=1" data-orig-size="1200,637" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1755132014&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Britchet Idelkei" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?fit=300%2C159&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Britchet-Idelkei.jpg?fit=780%2C414&amp;ssl=1" /></figure>
+<p>On August 12th, Ms. Britchet Techekii Idelkei gave a presentation at the Embassy of Japan about her experience as a participant in the APIC Pacific Islands and West Indies Student Invitational’s Summer Session in East Asian Studies Program. The Association for the Promotion of International Cooperation (APIC) facilitates various programs aimed at promoting and enhancing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/idelkeis-apic-program-experience/">  Idelkei’s APIC Program experience</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/idelkeis-apic-program-experience/>
+
+---
+
+## PICRC collaborates with international experts to build capacity of local workforce for coral restoration
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="1024" height="491" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?fit=1024%2C491&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?resize=300%2C144&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?resize=1024%2C491&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?resize=768%2C368&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?resize=780%2C374&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?resize=400%2C192&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?resize=706%2C338&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?fit=1024%2C491&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79566" data-permalink="https://islandtimes.org/picrc-collaborates-with-international-experts-to-build-capacity-of-local-workforce-for-coral-restoration/team-photo-workshop-on-coral-restoration/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?fit=1200%2C575&amp;ssl=1" data-orig-size="1200,575" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Team photo-Workshop on Coral Restoration" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?fit=300%2C144&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/Team-photo-Workshop-on-Coral-Restoration.jpg?fit=780%2C374&amp;ssl=1" /></figure>
+<p>Coral reefs around the world are experiencing severe declines due to climate change and marine heatwaves, which trigger widespread coral bleaching and mortality. While many countries are scrambling to cope with these impacts, Palau is in a unique position. Its reefs have not experienced severe mass bleaching since 1998, offering a rare opportunity to act [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-collaborates-with-international-experts-to-build-capacity-of-local-workforce-for-coral-restoration/">PICRC collaborates with international experts to build capacity of local workforce for coral restoration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-collaborates-with-international-experts-to-build-capacity-of-local-workforce-for-coral-restoration/>
+
+---
+
+## 4 new JICA volunteers arrived in Palau
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="1024" height="360" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?fit=1024%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?resize=300%2C106&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?resize=1024%2C360&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?resize=768%2C270&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?resize=780%2C274&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?resize=400%2C141&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?resize=706%2C248&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?fit=1024%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79563" data-permalink="https://islandtimes.org/4-new-jica-volunteers-arrived-in-palau-2/4-jica/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?fit=1200%2C422&amp;ssl=1" data-orig-size="1200,422" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Yano, Fumitoshi[?? ??]&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="4 jica" data-image-description="" data-image-caption="&lt;p&gt;Front Row L-R: Mrs. Korang Ngireblekuu (Host Family), Nancy Renguul (BMS Principal), Suzuki, Kume, Kitayama,Yunokami. Back Row L-R: Robert Ngire-blekuu (Host Family),  Norma Mersai (Airai ES Principal), Mr. Robinson Otei (BMS), Eydeline Ikeya (PCAA-Belau Headstart Program Director),  Rudimch Kuroda (PCAA), Shayna Mimong ( Division of Livestock, Chief),  Goran Vanoost-erweyck (BOA),  Kurozumi Tomoyo (JICA Representative).&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?fit=300%2C106&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/4-jica.jpg?fit=780%2C274&amp;ssl=1" /></figure>
+<p>On the 24th of July, 4 new JICA Volunteers arrived in Palau. The four volunteers are, Mr. SUZUKI Satoshi assigned to Belau Modekngei School for Science Education Kume Kokoro assigned to Palau Community Action Agency (PCAA) for Nutrition. KITAYAMA Ayumi assigned to the Bureau of Agriculture, MAFE for Veterinarian Medicine, and &#160;&#160;YUNOKAMI Katsuki assigned to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/4-new-jica-volunteers-arrived-in-palau-2/">4 new JICA volunteers arrived in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/4-new-jica-volunteers-arrived-in-palau-2/>
+
+---
+
+## Palau COFA Trust Fund rebounds strongly following April market sell-off
+
+date: 2025-08-15, from: Island Times
+
+<p>  Koror, Palau — August 8, 2025&#160;— The Republic of Palau’s Compact of Free Association (COFA) Trust Fund has demonstrated remarkable resilience in the second quarter of 2025, rebounding strongly from a sharp market sell-off in April. As of June 30, the Fund’s total market value reached&#160;$428.4 million, reflecting a&#160;7.87% gain for Q2&#160;and a&#160;3.13% increase [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-cofa-trust-fund-rebounds-strongly-following-april-market-sell-off/">  Palau COFA Trust Fund rebounds strongly following April market sell-off</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-cofa-trust-fund-rebounds-strongly-following-april-market-sell-off/>
+
+---
+
+## Beyond DemoCrazy: Why It’s Time to Abolish State Governments and Reimagine Local Leadership
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="600" height="169" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=300%2C85&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?resize=400%2C113&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79088" data-permalink="https://islandtimes.org/79087-2/the-silent-majority-22/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" data-orig-size="600,169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The silent majority" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=300%2C85&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/07/The-silent-majority.jpg?fit=600%2C169&amp;ssl=1" /></figure>
+<p>Dear Editor, In Palau today, the ongoing power struggle between elected state leaders and traditional chiefs has become more than just a political inconvenience, it has become a costly distraction. Our courts are flooded with disputes about who holds what authority, while our communities continue to wait for basic infrastructure, economic opportunities, and essential services. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/beyond-democrazy-why-its-time-to-abolish-state-governments-and-reimagine-local-leadership/"> Beyond DemoCrazy: Why It&#8217;s Time to Abolish State Governments and Reimagine Local Leadership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/beyond-democrazy-why-its-time-to-abolish-state-governments-and-reimagine-local-leadership/>
+
+---
+
+## A total of 101 deported from Guam since 2023; AG seeks to join ICE dragnet
+
+date: 2025-08-15, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; Hoping to deport “as many criminal aliens as possible,” Guam’s attorney general is seeking to ramp up his deportation crusade—with convicted Micronesians topping his list—through a collaboration with federal authorities. A total of 101 convicted aliens have been deported from Guam since 2023, with a dozen more in the system [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/a-total-of-101-deported-from-guam-since-2023-ag-seeks-to-join-ice-dragnet/">A total of 101 deported from Guam since 2023; AG seeks to join ICE dragnet</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/a-total-of-101-deported-from-guam-since-2023-ag-seeks-to-join-ice-dragnet/>
+
+---
+
+## UN plastic pollution treaty talks in disarray after countries reject draft text
+
+date: 2025-08-15, from: Island Times
+
+<p>GENEVA (AFP/CLIMATE HOME) &#8212; Attempts to secure a landmark treaty combating plastic pollution descended into disarray on the penultimate day of talks on Aug 13 as dozens of countries rejected the latest draft text, leaving the talks in limbo. With time running out to seal a deal among the 184 countries gathered at the United [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-plastic-pollution-treaty-talks-in-disarray-after-countries-reject-draft-text/">UN plastic pollution treaty talks in disarray after countries reject draft text</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/un-plastic-pollution-treaty-talks-in-disarray-after-countries-reject-draft-text/>
+
+---
+
+## Kids Garden
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="301" height="284" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60533" data-permalink="https://islandtimes.org/risk-of-growing-up/womens-corner-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" data-orig-size="301,284" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1-1-e1676589436236.jpg?fit=301%2C284&amp;ssl=1" /></figure>
+<p>You can&#8217;t build a new life by pretending the old one never existed. I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experiences. That laughter is the only cure for grief. And I believe Love is stronger [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kids-garden/">Kids Garden</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/kids-garden/>
+
+---
+
+## Pacific Islands Forum:
+
+date: 2025-08-15, from: Island Times
+
+<p>Expert on why region’s ‘Mini-UN’ matters Leaders from 18 Pacific countries will gather in the Solomon Islands next month for the annual Pacific Island Forum Leaders Meeting (PIFLM). But why is such engagement important? According to Sione Tekiteki, a former PIF adviser and senior lecturer in law at Auckland University of Technology, the Forum serves [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-islands-forum/">Pacific Islands Forum:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-islands-forum/>
+
+---
+
+## China and US clash over South China Sea operation near disputed shoal
+
+date: 2025-08-15, from: Island Times
+
+<p>In short: (ABC-Australia) China and the United States have traded barbs over the actions of US Navy destroyer in the disputed South China Sea. The first known US military operation in at least six years saw the vessel sailing near the Scarborough Shoal. China accused the USS Higgins of entering its waters without permission, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-and-us-clash-over-south-china-sea-operation-near-disputed-shoal/">China and US clash over South China Sea operation near disputed shoal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-and-us-clash-over-south-china-sea-operation-near-disputed-shoal/>
+
+---
+
+## US to rehabilitate postwar dock in Palau to boost military readiness in the region
+
+date: 2025-08-15, from: Pacific Island Times
+
+Peleliu—The U.S. Department of Defense proposes to rehabilitate an 80-year-old dock in Palau to enhance the U.S. military forces’ capabilities in the region. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-to-rehabilitate-postwar-dock-in-palau-to-boost-military-readiness-in-the-region>
+
+---
+
+## Tonga King's move to control foreign affairs 'a step backwards' - democracy advocates
+
+date: 2025-08-15, from: 
+
+The youngest daughter of late Tongan PM 'Akilisi Pohiva and leader of the Friendly Islands Democratic Party says pro-democracy campaigners are "completely against" King Tupou VI's decision. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570117/tonga-king-s-move-to-control-foreign-affairs-a-step-backwards-democracy-advocates>
+
+---
+
+## Construction Accelerated
+
+date: 2025-08-15, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?w=1260&amp;ssl=1 1260w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79582" data-permalink="https://islandtimes.org/construction-accelerated/attachment/1000014236/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?fit=1260%2C945&amp;ssl=1" data-orig-size="1260,945" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000014236" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/1000014236.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Palau’s new jail set for December 2025 completion PALAU — The new Palau Correctional Facility, located between Airai and Ngchesar states, is now expected to be completed by December 2025. Construction on the $4 million facility began in 2018 with local funding and later received supplemental support from a Taiwan stimulus grant. According to CIP [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/construction-accelerated/">Construction Accelerated</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/construction-accelerated/>
+
+---
+
+## Community Events: Pet wellness fair on Saipan; Farmers' health screening; Food safety month
+
+date: 2025-08-15, from: Pacific Island Times
+
+AK, Saipan and Saipan Humane Society host Pet Wellness Fair on Aug. 16   Saipan —  Atkins Kroll Saipan is partnering with the Saipan... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/community-events-pet-wellness-fair-on-saipan-farmers-health-screening-food-safety-month>
+
+---
+
+## 2025 KPMG Open Day a Resounding Success
+
+date: 2025-08-15, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific&#8217;s (USP) annual KPMG Open Day 2025 was a resounding...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/2025-kpmg-open-day-a-resounding-success/">2025 KPMG Open Day a Resounding Success</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/2025-kpmg-open-day-a-resounding-success/>
+
+---
+
+## Windward CC exhibition sparks dialogue on responsibility, accountability, moral courage
+
+date: 2025-08-15, from: University of Hawaiʻi News
+
+<p>Artists and scholars unite to explore history, culture and the deeper meaning of kuleana.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/14/gallery-iolani-responsibility-accountability-moral-courage/">Windward <abbr>CC</abbr> exhibition sparks dialogue on responsibility, accountability, moral courage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/14/gallery-iolani-responsibility-accountability-moral-courage/>
+
+---
+
+## 'I believe I can': Elizabeth Palin runs for Bougainville North women's seat in September poll
+
+date: 2025-08-15, from: 
+
+Elizabeth Palin, who has extensive political experience at the grassroots level, is one of five women contesting the Bougainville election this September. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570097/i-believe-i-can-elizabeth-palin-runs-for-bougainville-north-women-s-seat-in-september-poll>
+
+---
+
+## Cook Islands 'open to anything' for seabed mining partnerships
+
+date: 2025-08-15, from: 
+
+A director at the Seabed Minerals Authority says that, as a small island nation, the Cook Islands is always looking to partner with other jurisdictions. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570098/cook-islands-open-to-anything-for-seabed-mining-partnerships>
+
+---
+
+## Guam senators narrowly pass amendment to cut business privilege tax 
+
+date: 2025-08-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff  The Guam Chamber of Commerce welcomed the senators’ vote in favor of Sen. Shawn Gumataotao’s... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-senators-narrowly-pass-amendment-to-cut-business-privilege-tax>
+
+---
+
+## From Kauaʻi CC to creative director: UH alumna builds a bold brand
+
+date: 2025-08-15, from: University of Hawaiʻi News
+
+<p>Passion for design and culture fuels alumna’s marketing business.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/14/from-kauai-cc-to-creative-director/">From Kauaʻi <abbr>CC</abbr> to creative director: <abbr>UH</abbr> alumna builds a bold brand</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/14/from-kauai-cc-to-creative-director/>
+
+---
+
+## Pacific news in brief for 15 August
+
+date: 2025-08-15, from: 
+
+A round-up of news from around the region, including a commitment for a marine protected areas between Vanuatu and Solomon Islands. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570091/pacific-news-in-brief-for-15-august>
+
+---
+
+## Pasifika Sipoti in brief for 15 August
+
+date: 2025-08-15, from: 
+
+A round-up of sports news from around the region, including a former All Black in the Flying Fijians squad. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570092/pasifika-sipoti-in-brief-for-15-august>
+
+---
+
+## School calendar set to change in Samoa as schools closed for another week
+
+date: 2025-08-14, from: 
+
+The Education and Culture CEO says the school term calendar is set to change due to prolonged closures caused by the dengue outbreak. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570085/school-calendar-set-to-change-in-samoa-as-schools-closed-for-another-week>
+
+---
+
+## Push to declassify Amelia Earhart files gains momentum in CNMI
+
+date: 2025-08-14, from: 
+
+Northern Mariana Islands' US Congress delegate has asked President Donald Trump to declassify federal documents related to the pioneering aviator's disappearance. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570076/push-to-declassify-amelia-earhart-files-gains-momentum-in-cnmi>
+
+---
+
+## Tinā puts Pasifika voices front and centre in record-breaking film
+
+date: 2025-08-14, from: 
+
+Samoan-Kiwi director Miki Magasiva says he "just wanted to put in all the things that...resontate with not only Pacific Islanders, but everybody else". 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/570059/tina-puts-pasifika-voices-front-and-centre-in-record-breaking-film>
+
+---
+
+## The Future of the Waikīkī Natatorium INSIGHTS ON PBS HAWAI‘I
+
+date: 2025-08-14, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>The post <a href="https://www.pbshawaii.org/natatorium/">The Future of the Waikīkī Natatorium &lt;br/&gt;INSIGHTS ON PBS HAWAI‘I</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/natatorium/>
+
+---
+
+## Global grant fuels Kapiʻolani CC’s efforts to protect Hawaiʻi’s rare plants
+
+date: 2025-08-14, from: University of Hawaiʻi News
+
+<p>Grant empowers <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> to expand conservation efforts and preserve rare native species.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/14/veolia-mala-maunuunu-donation/">Global grant fuels Kapiʻolani <abbr>CC</abbr>’s efforts to protect Hawaiʻi’s rare plants</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/14/veolia-mala-maunuunu-donation/>
+
+---
+
+## CNMI governor asks for extension of comment period for Tinian military plans, wants 50 cal machine guns off the table
+
+date: 2025-08-14, from: Pacific Island Times
+
+Saipan residents asked questions regarding federal and defense matters during a town hall meeting with CNMI Del. Kimberly King-Hinds, who... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-governor-requests-extension-of-comment-period-for-tinian-military-plans-proposes-50-cal-ammuni>
+
+---
+
+## Why is the King of Tonga taking control of foreign affairs and defence?
+
+date: 2025-08-14, from: 
+
+There is upset in Tonga after the Tongan Legislature passed new legislation that would hand foreign affairs back to the monarchy - a move some say could set back democracy. 
+
+<br> 
+
+<https://www.rnz.co.nz/international/pacific-news/569989/why-is-the-king-of-tonga-taking-control-of-foreign-affairs-and-defence>
+
+---
+
+## Hawaiʻi, China explore new agricultural partnerships
+
+date: 2025-08-14, from: University of Hawaiʻi News
+
+<p><abbr>CTAHR</abbr> played a key role in the one-week visit, which was led by the state Department of Business, Economic Development and Tourism, along with several state lawmakers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/14/hawai%ca%bbi-china-ag-partnerships/">Hawaiʻi, China explore new agricultural partnerships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/14/hawai%ca%bbi-china-ag-partnerships/>
+
+---
+
+## Bank official steals funds?
+
+date: 2025-08-14, from: Marshal Islands Journal
+
+<p>P1 Theft denied: Commercial Bank closes to wait for cash transferThe Marshall Islands First Commercial Bank has temporarily closed its doors due to a run on the bank caused by rumors of theft of the bank’s funds, Jeffery Yieh told the Journal August 17. “The bank just stopped opening to the public but has not [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/bank-official-steals-funds/">Bank official steals funds?</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/bank-official-steals-funds/>
 
 ---
 
@@ -520,18 +1226,6 @@ The NZ Foreign Minister fell just short of confirming that Honiara has made an i
 <br> 
 
 <https://www.rnz.co.nz/international/pacific-news/570008/winston-peters-hints-at-solomon-islands-unilateral-decision-to-block-pif-donor-partners>
-
----
-
-## Why is the King of Tonga taking control of foreign affairs and defence?
-
-date: 2025-08-14, from: 
-
-There is upset in Tonga after the Tongan Legislature passed new legislation that would hand foreign affairs back to the monarchy - a move some say could set back democracy. 
-
-<br> 
-
-<https://www.rnz.co.nz/international/pacific-news/569989/why-is-the-king-of-tonga-taking-control-of-foreign-affairs-and-defence>
 
 ---
 
@@ -1833,7 +2527,7 @@ date: 2025-08-12, from: Hawaii Tribune Harold
 
 date: 2025-08-12, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79528" data-permalink="https://islandtimes.org/abandoned-meyuns-home-destroyed-in-afternoon-blaze/img_5607/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=1236%2C927&amp;ssl=1" data-orig-size="1236,927" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1754935530&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.05&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5607" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79528" data-permalink="https://islandtimes.org/abandoned-meyuns-home-destroyed-in-afternoon-blaze/img_5607/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=1236%2C927&amp;ssl=1" data-orig-size="1236,927" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1754935530&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.05&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5607" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_5607.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
 <p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — An abandoned house in Meyuns burned to the ground Tuesday afternoon in a fast-moving fire near Kalau Gym, authorities said. Police Director Curtis Elobt said the blaze was reported at 4:16 p.m. by community members. “The incident took place at around 4:16 p.m. The fire was reported by [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/abandoned-meyuns-home-destroyed-in-afternoon-blaze/">Abandoned Meyuns home destroyed in afternoon blaze</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1860,7 +2554,7 @@ date: 2025-08-12, from: Island Times
 
 date: 2025-08-12, from: Island Times
 
-<figure><img width="1024" height="611" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=1024%2C611&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=1024%2C611&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=768%2C458&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=780%2C465&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=706%2C421&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=1024%2C611&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79512" data-permalink="https://islandtimes.org/56-years-of-service-palau-u-s-mark-civic-action-team-handover/img_9360-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=1200%2C716&amp;ssl=1" data-orig-size="1200,716" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_9360 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=300%2C179&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=780%2C465&amp;ssl=1" /></figure>
+<figure><img width="1024" height="611" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=1024%2C611&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=1024%2C611&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=768%2C458&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=780%2C465&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?resize=706%2C421&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=1024%2C611&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="79512" data-permalink="https://islandtimes.org/56-years-of-service-palau-u-s-mark-civic-action-team-handover/img_9360-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=1200%2C716&amp;ssl=1" data-orig-size="1200,716" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_9360 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=300%2C179&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/08/IMG_9360-1.jpg?fit=780%2C465&amp;ssl=1" /></figure>
 <p>Army Takes Command as Civic Action Team Celebrates 56 Years in Palau By: Summer KennardKOROR, Palau — Palau and the United States marked 56 years of partnership Friday during a Transfer of Authority ceremony at Ngarachamayong Cultural Center, as the outgoing Navy Civic Action Team (CAT) 133-32 formally handed over duties to the incoming Army [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/56-years-of-service-palau-u-s-mark-civic-action-team-handover/">56 Years of Service: Palau, U.S. Mark Civic Action Team Handover</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1875,7 +2569,7 @@ date: 2025-08-12, from: Island Times
 
 date: 2025-08-12, from: Island Times
 
-<figure><img width="600" height="744" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?resize=242%2C300&amp;ssl=1 242w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?resize=400%2C496&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76405" data-permalink="https://islandtimes.org/temmy-l-shmull/whipps-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" data-orig-size="600,744" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=242%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" /></figure>
+<figure><img width="600" height="744" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?resize=242%2C300&amp;ssl=1 242w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?resize=400%2C496&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76405" data-permalink="https://islandtimes.org/temmy-l-shmull/whipps-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" data-orig-size="600,744" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=242%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/whipps.jpg?fit=600%2C744&amp;ssl=1" /></figure>
 <p>Koror, Palau — President Surangel Whipps Jr. is prioritizing debt repayment and more cautious borrowing to address Palau’s growing external debt, which sharply increased during the COVID-19 pandemic after years of relatively low debt levels. Palau’s debt-to-GDP ratio remained moderate prior to the pandemic, with figures around 30% in FY2019 and rising to 52% in [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/whipps-administration-focuses-on-debt-reduction/">Whipps’ Administration Focuses On Debt Reduction</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

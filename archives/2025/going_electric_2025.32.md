@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-08-14 14:08:55
+updated: 2025-08-15 06:10:04
 ---
 
 # going electric
 
-(date: 2025-08-14 14:08:55)
+(date: 2025-08-15 06:10:04)
+
+---
+
+## Wheel-E Podcast: Bafang automatic shifting motor, 50 MPH scooter, more
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Heybike, the Priority Skyline launch, Segway’s new 50 MPH electric scooter, a Bafang hub motor with automatic shifting, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="429876" href="https://electrek.co/2025/08/15/wheel-e-podcast-bafang-automatic-shifting-motor-50-mph-scooter-more/#more-429876" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/wheel-e-podcast-bafang-automatic-shifting-motor-50-mph-scooter-more/>
+
+---
+
+## E-quipment highlight: Wiggins Yard eBull 100,000 lb. electric forklift
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Wiggins_Lift_eBull_glamour_shot.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With a maximum lifting capacity over 100,000 lbs. and quiet, emissions-free operation, the Wiggins Lift Co. Yard eBull is one serious forklift – and this serious piece of heavy equipment it could be coming soon, to a port or terminal yard near you.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-heavy-machinery,forklifts" data-layer-viewtype="unknown" data-post-id="429884" href="https://electrek.co/2025/08/15/e-quipment-highlight-wiggins-yard-ebull-100000-lb-electric-forklift/#more-429884" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/e-quipment-highlight-wiggins-yard-ebull-100000-lb-electric-forklift/>
+
+---
+
+## Europe’s Cool New Electric Wagon Is Just Around The Corner
+
+date: 2025-08-15, from: Inside EVs News
+
+The long-roof electric Octavia will be previewed by a concept called the Vision O. 
+
+<br> 
+
+<https://insideevs.com/news/769095/skoda-vision-o-octavia-ev/>
+
+---
+
+## This Is What The Lucid Gravity Looks Like As An Off-Roader
+
+date: 2025-08-15, from: Inside EVs News
+
+Should Lucid make this rugged SUV concept a reality? 
+
+<br> 
+
+<https://insideevs.com/news/769079/lucid-gravity-x-concept-offroad/>
+
+---
+
+## Global EV sales hit 10.7M in 2025 – Europe surges, US stalls
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/07/Nissan-EV-shop.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global EV sales are still riding high, with 1.6 million EVs sold in July 2025, according to new data from global research firm Rho Motion. That’s up 21% from July last year, even though sales dipped 9% from June. It brings total EV sales for the first seven months of the year to 10.7 million – up 27% compared to the same period in 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,europe,ev-sales,north-america,rho-motion,united-states" data-layer-viewtype="unknown" data-post-id="429848" href="https://electrek.co/2025/08/14/global-ev-sales-hit-10-7m-in-2025-europe-surges-us-stalls/#more-429848" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/global-ev-sales-hit-10-7m-in-2025-europe-surges-us-stalls/>
+
+---
+
+## Ford's Future EVs Will Have The Same Range, But 1/3 Less Battery
+
+date: 2025-08-14, from: Inside EVs News
+
+Big batteries may not be the way to win over skeptics. 
+
+<br> 
+
+<https://insideevs.com/news/769060/ford-ev-truck-small-battery/>
+
+---
+
+## Volkswagen is making some EV owners pay extra to unlock full potential
+
+date: 2025-08-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Volkswagen-EV-pay-extra.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another monthly subscription? Some <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> EV drivers will now need to pay extra to unlock their vehicle’s full potential.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen" data-layer-viewtype="unknown" data-post-id="429846" href="https://electrek.co/2025/08/14/volkswagen-making-ev-owners-pay-extra-to-unlock-full-potential/#more-429846" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/14/volkswagen-making-ev-owners-pay-extra-to-unlock-full-potential/>
 
 ---
 
@@ -17,7 +117,7 @@ date: 2025-08-14, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="429833" href="https://electrek.co/2025/08/14/chevy-equinox-ev-flying-off-the-lot-registrations-surge/#more-429833" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevrolet-equinox-ev,chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="429833" href="https://electrek.co/2025/08/14/chevy-equinox-ev-flying-off-the-lot-registrations-surge/#more-429833" class="more-link">more…</a> 
 
 <br> 
 

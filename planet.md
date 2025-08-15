@@ -1,11 +1,423 @@
 ---
 title: planet
-updated: 2025-08-14 14:08:44
+updated: 2025-08-15 06:09:56
 ---
 
 # planet
 
-(date: 2025-08-14 14:08:44)
+(date: 2025-08-15 06:09:56)
+
+---
+
+## Trump boards Air Force One to meet Putin in Alaska
+
+date: 2025-08-15, from: RTÉ News
+
+Follow live updates as US President Donald Trump and Russian President Vladimir Putin meet in Alaska to discuss a ceasefire deal for Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528642-trump-putin-meeting/>
+
+---
+
+## UN calls East Jerusalem settlement plan a 'war crime'
+
+date: 2025-08-15, from: RTÉ News
+
+The UN human rights office has described Israel's decision to build a new settlement near East Jerusalem as a "war crime". 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528637-israeli-settlement-law/>
+
+---
+
+## Pope calls Oblates to follow the example of St Francesca Romana
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>In a message to the Oblates of St Francesca Romana on the sixth centenary of her solemn oblation, Pope Leo XIV recalls their foundress’ zeal for evangelization, her docility to the angels and devotion to the saints, and her commitment to the unity of the Church.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-calls-oblates-to-follow-the-example-of-st-francesca-romana.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-calls-oblates-to-follow-the-example-of-st-francesca-romana.html>
+
+---
+
+## Pope: We must not resign ourselves to conflict and weapons
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>Following the Angelus on the feast of the Assumption, Pope Leo reflects on Mary’s role in providing hope to people throughout the centuries and urges everyone to avoid losing hope in the midst of violence.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-we-must-not-resign-ourselves-to-conflict-and-weapons.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-we-must-not-resign-ourselves-to-conflict-and-weapons.html>
+
+---
+
+## Pope Leo XIV to hold his first digital encounter with young US Catholics
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>Pope Leo XIV will hold his first digital encounter with some 15,000 young people during the National Catholic Youth Conference, who hail from Catholic youth movements across the United States, and engage directly with them during a 45-minute live dialogue. </p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-to-hold-his-first-ever-digital-encounter-with-youth.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-to-hold-his-first-ever-digital-encounter-with-youth.html>
+
+---
+
+## Pope at Angelus: Mary is an icon of hope
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>During the Angelus prayer at Castel Gandolfo, Pope Leo XIV urges everyone as pilgrims on the journey of life to turn their gaze to Mary, the Mother of God.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-at-angelus-mary-is-an-icon-of-hope.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-at-angelus-mary-is-an-icon-of-hope.html>
+
+---
+
+## Victim of catfish offender says her innocence was stolen
+
+date: 2025-08-15, from: RTÉ News
+
+A victim of prolific catfish offender Max Hollingsbee has said she will always be angry that he stole her innocence. 
+
+<br> 
+
+<https://www.rte.ie/news/ulster/2025/0815/1528619-catfish-victim/>
+
+---
+
+## Pope Leo: Mary’s song, the Magnificat, strengthens our hope
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>During Mass in Castel Gandolfo for the Solemnity of the Assumption of the Blessed Virgin Mary, Pope Leo XIV marvels how Mary's 'yes' gives hope to us today, saying we celebrate the Paschal Mystery of Jesus, which changed the course of history.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-on-assumption-castel-gandolfo-15-august-2025.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-on-assumption-castel-gandolfo-15-august-2025.html>
+
+---
+
+## IPAS centre provider failed to note welfare risks - HIQA
+
+date: 2025-08-15, from: RTÉ News
+
+The provider of an International Protection accommodation facility in Dublin failed to identify residents' sleeping arrangements as a welfare risk, according to the Health Information and Quality Authority. 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0815/1528597-ipas-hiqa/>
+
+---
+
+## Ukrainian strikes kill one, wound 10 in Russia
+
+date: 2025-08-15, from: RTÉ News
+
+Ukrainian strikes have killed one and wounded ten in Russia just hours before US President Donald Trump hosts his Russian counterpart Vladimir Putin for a high-stakes summit in Alaska. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528603-ukraine-russia-war/>
+
+---
+
+## Not enough food in Gaza to sustain life - Oxfam
+
+date: 2025-08-15, from: RTÉ News
+
+There is not enough food in Gaza to sustain life, Oxfam's Humanitarian Response Adviser in the enclave has said. 
+
+<br> 
+
+<https://www.rte.ie/news/middle-east/2025/0815/1528600-gaza-aid/>
+
+---
+
+## Kuwait: Our Lady of Arabia elevated to minor basilica
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>The Church of Our Lady of Arabia in Kuwait has been elevated to the status of a Minor Basilica, with Bishop Aldo Berardi calling it “the first of its kind on the Arabian Peninsula."</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/kuwait-our-lady-arabia-elevated-minor-basilica.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/kuwait-our-lady-arabia-elevated-minor-basilica.html>
+
+---
+
+## Taliban mark fourth year in power in Afghanistan
+
+date: 2025-08-15, from: RTÉ News
+
+Afghanistan's Taliban authorities have marked the fourth anniversary of their takeover, buoyed by Russia's first official recognition of their government, a step they hope other countries will follow. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528591-taliban-power-afghanistan/>
+
+---
+
+## Why the Trump-Putin meeting worries Europe
+
+date: 2025-08-15, from: RTÉ News
+
+A Trump-Putin meeting in Alaska has been a cause of concern for European governments who saw a bad peace deal for Ukraine in the offing. Such an outcome could have negative implications for wider European security. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528569-europe-trump-putin/>
+
+---
+
+## Healy-Rae backs Humphreys 'wholeheartedly' for Áras race
+
+date: 2025-08-15, from: RTÉ News
+
+Independent TD Michael Healy-Rae has said he would back Fine Gael's Heather Humphreys "wholeheartedly" in the presidential election. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528581-fine-gael-mcguinness/>
+
+---
+
+## Eight hundred National Guard troops mobilised for DC
+
+date: 2025-08-15, from: RTÉ News
+
+All 800 National Guard troops who were ordered to the US capital Washington to aid law enforcement personnel by US President Donald Trump have now been mobilised, the Pentagon said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528576-national-guard-pentagon/>
+
+---
+
+## Pope: Social justice cannot depart from Gospel or turn to violence
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>In a message to participants in the Peruvian Church’s Social Week, Pope Leo XIV recalls the love the saints bore for the image of God in all people, and urges those who work for social justice to avoid turning to violence or sinning against charity.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-message-peru-social-justice-week.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-xiv-message-peru-social-justice-week.html>
+
+---
+
+## Putin-Trump summit: What each side wants
+
+date: 2025-08-15, from: RTÉ News
+
+Expectations are high for the first summit between sitting US and Russian presidents in more than four years, but Moscow and Kyiv remain far apart in their visions on how to end the conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528575-ukraine-russia-visions/>
+
+---
+
+## Oasis Live '25: The reunion through the Lens
+
+date: 2025-08-15, from: RTÉ News
+
+With Oasis set to play two sold-out shows at Croke Park this weekend, we look back at their tour so far through the lens. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0815/1528425-oasis-live-25-the-reunion-through-the-lens/>
+
+---
+
+## Ghosts of Russian imperialism haunt Alaska summit
+
+date: 2025-08-15, from: RTÉ News
+
+From the onion domes of the Orthodox churches to the local penchant for potato dumplings, resonances of Russia's imperial past are not hard to find, writes Yvonne Murray from Anchorage in Alaska. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0815/1528561-trump-putin-summit/>
+
+---
+
+## Trump says stakes are 'high' before flight to Anchorage
+
+date: 2025-08-15, from: RTÉ News
+
+US President Donald Trump has said that the stakes are "high" before his flight to Alaska to meet Russian President Vladimir Putin. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0815/1528571-trump-putin/>
+
+---
+
+## Watch: Long line of historic US-Russia summits
+
+date: 2025-08-15, from: RTÉ News
+
+When US President Donald Trump meets his Russian counterpart Vladimir Putin in Alaska it will be the latest in a long line of historic summits between leaders of two major world powers. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528533-historic-us-russia-summits/>
+
+---
+
+## Cree artist LOV makes music about motherhood and empowering women
+
+date: 2025-08-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7609416.1755212893!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/lovina-tootoosis.JPG' alt='A women with long hair poses in a waist length leather jacket and dark pants.' width='620' height='349' title='Lovina Tootoosis decided to get into music when she was tree planting, a few years later her songs are now on Spotify.'/><p>Lovina Tootoosis, a musician from Poundmaker Cree Nation, is working on her first album, due out in November.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/lov-music-lovina-tootoosis-1.7609395?cmp=rss>
+
+---
+
+## Consultation, not legislation: How Manitoba's approach to major projects is different
+
+date: 2025-08-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7608946.1755188648!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/carney-premiers-20250602-wab-kinew.JPG' alt='A man in a suit walks up, behind two men in suits.' width='620' height='349' title='Manitoba Premier Wab Kinew says his government aims to break ground on nation-building projects as fast or faster than anywhere else in Canada because he&apos;ll ensure Indigenous communities are on board with fast-tracking development. '/><p>Manitoba Premier Wab Kinew is setting his government apart from neighbouring provinces by insisting he doesn't need Ottawa's controversial legislation to fast-track major resource projects.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/manitoba-approval-nation-building-projects-1.7607630?cmp=rss>
+
+---
+
+## Praise and ire as U.K. police pose as joggers to stop men from harassing women on runs
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7608718.1755176987!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/texas-extreame-weather.jpg' alt='A silhouette of a person running at dusk' width='620' height='349' title='A jogger passes power lines at dusk, Tuesday, July 15, 2025, in San Antonio. '/><p>There's a lot of onus on women to stay safe in public spaces. And that's likely partly why a new police campaign in the U.K. aimed to stop men from harassing women runners in the first place is getting so much attention.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/police-joggers-harass-women-1.7608701?cmp=rss>
+
+---
+
+## U.S. braces for uncertainty ahead of peak hurricane season amid NOAA upheaval
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609341.1755208306!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/treasure-isaland-damage.JPG' alt='A damaged building' width='620' height='349' title='A house in Treasure Island, Florida sits in disrepair after being damaged in the hurricanes that hit Florida in 2024. '/><p>As the U.S. enters its first peak hurricane season after a slew of cuts to the agency that handles most of the country’s climate and weather research and forecasting, scientists, emergency managers and lawmakers brace for uncertainty in Florida. They are also sounding the alarm about more proposed cuts to climate and storm research that could be implemented in 2026 and which could impact Canada.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/climate/noaa-cuts-hurricane-season-1.7609336?cmp=rss>
+
+---
+
+## Fossil fuels behind 81% of Irish energy use last year
+
+date: 2025-08-15, from: RTÉ News
+
+Fossil fuels were Ireland's primary energy source last year, accounting for 81% of primary energy supply, according to an analysis of global energy data by KPMG. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0815/1528428-fossil-fuels-continue-to-dominate-irelands-energy-mix/>
+
+---
+
+## Japan minister joins crowds at controversial WWII shrine
+
+date: 2025-08-15, from: RTÉ News
+
+Japan marked the 80th anniversary of its World War Two defeat, with at least one cabinet minister joining thousands of visitors at a shrine that Japan's Asian neighbours view as a symbol of its wartime aggression. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0815/1528568-japan-wwii-shrine/>
+
+---
+
+## Trump tries to turn the page on Ukraine war with historic Putin summit in Alaska
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/fe560200-10f2-4481-b30e-1216611163cd,1755218456201/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Man in suit mid speech' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/trump-putin-russia-summit-1.7609229?cmp=rss>
+
+---
+
+## New compromise but no deal at plastic pollution talk
+
+date: 2025-08-15, from: RTÉ News
+
+Countries trying to break the deadlock and strike a landmark global treaty on combating plastic pollution negotiated through the night on a last-minute revised proposal. 
+
+<br> 
+
+<https://www.rte.ie/news/world/2025/0815/1528566-un-plastic-pollution/>
+
+---
+
+## Haiti looks to founder of controversial security firm Blackwater to help battle gangs
+
+date: 2025-08-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609696.1755225789!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/erik-prince-climbing-into-an-armoured-personnel-carrier-in-guayaquil-ecuador.JPG' alt='A photo showing Erik Prince climbing into an armoured personnel carrier, during a police and military presentation in Ecuador in April 2025.' width='620' height='349' title='Erik Prince, founder of Blackwater, climbs into an armoured personnel carrier during a police and military presentation, in Guayaquil, Ecuador April 5, 2025. '/><p>The security firm of former U.S. Navy SEAL Erik Prince will soon deploy nearly 200 personnel from various countries to Haiti as part of a deal to quell gang violence there, a person with knowledge of the plans said Thursday.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/haiti-vectus-global-erik-prince-1.7609684?cmp=rss>
+
+---
+
+## Documentary about Oct. 7 Hamas attack to screen at TIFF after resolution with director
+
+date: 2025-08-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609666.1755219189!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/file-photo-of-tiff-logo.JPG' alt='The TIFF logo is seen on display at the Toronto-hosted festival in September 2021.' width='620' height='349' title='The logo of the Toronto International Film Festival (TIFF) is seen in Toronto, Ontario, Canada September 10, 2021.'/><p>The Toronto International Film Festival says the documentary about the Oct. 7, 2023, attack is now an official selection and will screen at the festival after it was initially disinvited. Festival organizers and director Barry Avrich said "important safety, legal and programming concerns" have been ironed out.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/entertainment/barry-avrich-film-tiff-1.7609664?cmp=rss>
 
 ---
 
@@ -30,6 +442,30 @@ The pressure will be on Fine Gael to look for a replacement presidential electio
 <br> 
 
 <https://www.rte.ie/news/analysis-and-comment/2025/0814/1528540-presidential-election/>
+
+---
+
+## The water's not safe to drink in much of war-torn Sudan. But people have no choice
+
+date: 2025-08-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609001.1755191477!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sudan-politics-tawila-cholera.JPG' alt='A young boy lies on his back with one arm over his forehead, looking directly into the camera. ' width='620' height='349' title='A Sudanese cholera patient looks on as he lies on a bed at a United Nations-Run makeshift clinic, in Tawila north Darfur, Sudan, August 5, 2025. REUTERS/Mohammed Jamal     TPX IMAGES OF THE DAY'/><p>More than two years of civil war in Sudan have forced hundreds of thousands into crowded camps, where heavy rain and a lack of hygiene supplies have fostered the perfect storm for cholera to spread.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/sudan-was-cholera-1.7608996?cmp=rss>
+
+---
+
+## 'Not a day of celebration,' says plaintiff as payments begin for former First Nations kids in care
+
+date: 2025-08-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6981808.1695936865!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/every-child-matters-flag.jpg' alt='An orange flag that says &quot;Every Child Matters&quot;' width='620' height='349' title='In 2022, just over a week before Sept. 30, the New Brunswick government declared National Day for Truth and Reconciliation a provincial holiday. Rachel Burke with the Wolastoqey Tribal Council said truth and reconciliation is more than just a day.'/><p>The first payments to First Nations people who were harmed by the underfunding of the child welfare system on-reserve and in Yukon are going out this week. AFN National Chief Cindy Woodhouse Nepinak says the moment is a “tremendous milestone” for people who waited decades as the case was argued.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/indigenous/first-nations-child-welfare-settlement-payments-1.7608989?cmp=rss>
 
 ---
 
@@ -205,6 +641,18 @@ As Oasismania reaches fever pitch in Ireland this weekend with the band's two da
 
 ---
 
+## 'Nothing for us without us': AFN demands Yukon First Nations treated as equals in defence, security planning
+
+date: 2025-08-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6746813.1755125955!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-balloon-presser-whitehorse.JPG' alt='A helicopter is seen flying through winter weather in the Yukon.' width='620' height='349' title='Military aircraft taking part in a search for wreckage from a downed aerial object over Yukon are pictured at the Whitehorse airport on Feb. 13, 2023. '/><p>A new report from the AFN's Yukon chapter says that Yukon First Nations have been sidelined for too long and that national defence needs to accommodate sovereignty and modern treaties.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/yukon-defence-security-assembly-first-nations-1.7608415?cmp=rss>
+
+---
+
 ## Presidential hopeful says he has backing of two councils
 
 date: 2025-08-14, from: RTÉ News
@@ -310,6 +758,18 @@ Sexual violence in conflict zones rose sharply in 2024, increasing by a quarter 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165650>
+
+---
+
+## World News in Brief: Shipwreck off Italy kills at least 27, anniversary of Taliban takeover, Peru amnesty law
+
+date: 2025-08-14, from: United Nations, Top Stories
+
+At least 27 refugees and migrants were drowned in a shipwreck near the southern Italian island of Lampedusa on Wednesday, according to the UN refugee agency (UNHCR). 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165655>
 
 ---
 
@@ -641,6 +1101,18 @@ date: 2025-08-14, from: RTÉ News
 
 ---
 
+## 'Not acceptable': Pukatawagan deputy chief pans Manitoba Hydro repair plan as fire evacuees remain displaced
+
+date: 2025-08-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7548866.1748646362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pukatawagan-evacuation.jpg' alt='People coming out of a small plane.' width='620' height='349' title='Fire evacuees from Pukatawagan Cree Nation in northern Manitoba arrive at the Brandon Municipal Airport on the night of Thursday, May 30, 2025.'/><p>An evacuated Manitoba First Nation left in the dark after wildfires knocked out power says the return of residents could be fast-tracked if the community was outfitted with generators — but the province's hydro provider says it's focusing on repairs instead.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/pukatawagan-wildfire-manitoba-hydro-generators-1.7607772?cmp=rss>
+
+---
+
 ## Taylor Swift sets the date, reveals album tracklist
 
 date: 2025-08-14, from: RTÉ News
@@ -717,7 +1189,7 @@ Russia and Ukraine have exchanged 84 prisoners, both sides said, the latest in a
 
 date: 2025-08-14, from: RTÉ News
 
-US President Donald Trump has expressed optimism about the possibility of peace between Vladimir Putin and Volodymyr Zelensky. 
+US President Donald Trump has said that he believes his Russian counterpart Vladimir Putin is ready to end his war in Ukraine, but that peace would likely require at least a second meeting involving Ukraine's leader. 
 
 <br> 
 
@@ -967,9 +1439,13 @@ date: 2025-08-13, from: Vatican News
 
 ## Pope Leo returns to Castel Gandolfo for Assumption holiday weekend
 
-date: 2025-08-13, from: Vatican Obervatory
+date: 2025-08-13, from: Vatican News
 
-The VO got the smallest of mentions in this article 
+
+                    <p>Pope Leo XIV has returned to the hilltop town of Castel Gandolfo, where he will celebrate Mass and enjoy the cooler weather over the feast of the Assumption of Mary.</p>
+                    <p><a href="https://www.vaticannews.va/en/pope/news/2025-08/pope-leo-returns-castel-gandolfo-assumption-holiday.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
 
 <br> 
 

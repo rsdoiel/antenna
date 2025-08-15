@@ -1,11 +1,182 @@
 ---
 title: socal north
-updated: 2025-08-14 14:08:46
+updated: 2025-08-15 06:09:58
 ---
 
 # socal north
 
-(date: 2025-08-14 14:08:46)
+(date: 2025-08-15 06:09:58)
+
+---
+
+## Santa Ana police have been violating state military equipment law for two years: ‘We messed up’
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Police chief attributed the noncompliance to “an administrative oversight.” 
+
+<br> 
+
+<https://laist.com/news/santa-ana-police-department-military-equipment>
+
+---
+
+## Recession-era recipes flourish on TikTok
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Influencers on TikTok and other social media platforms are going back to recession-era recipes for nutritious and filling food — and building new communities online. 
+
+<br> 
+
+<https://laist.com/news/food/recession-era-recipes-flourish-on-tiktok>
+
+---
+
+## ‘This ain’t no damn fish and chips': OC pop-up brings Southern cuisine to SoCal
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Asha Stark, owner of Hot Grease, is honoring a Black tradition on her home turf — the OC. 
+
+<br> 
+
+<https://laist.com/news/food/hot-grease-oc-fish-fry-pop-up>
+
+---
+
+## Legendary Blue Note club opens outpost in LA to jazz lovers
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+The owners behind the new venue hope it can be a home for more legacy jazz acts — and an incubator for up-and-coming musicians. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/legendary-blue-note-club-opens-outpost-in-la-to-jazz-lovers>
+
+---
+
+## Everything we learned on LAUSD’s first day of school
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Despite widespread concerns about immigration enforcement, Los Angeles Unified students returned to class today, eager to get to see their friends and favorite teachers again. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-first-day-what-we-learned-immigration>
+
+---
+
+## Man struck by car and killed after Monrovia officials say he fled ICE activity at a Home Depot
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+City officials say he was hit by a car on the 210 freeway Thursday morning. 
+
+<br> 
+
+<https://laist.com/news/man-dies-after-fleeing-ice-activity-at-a-home-depot-in-monrovia>
+
+---
+
+## Hawk Fire grows to 277 acres in Acton, prompting evacuations
+
+date: 2025-08-14, updated: 2025-08-15, from: The LAist
+
+The fire started at about 3 p.m. Thursday in dry brush. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/hawk-fire-acton-august-2025>
+
+---
+
+## Airbnb pushes ‘Save Our Services’ campaign for more short-term rentals in LA
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+The campaign, backed by labor unions and community groups, says allowing short term rental of second homes would generate nearly $80 million in city revenue. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/airbnb-save-our-services-short-term-rental-campaign-tourism-revenue-deficit>
+
+---
+
+## California’s newest invaders are beautiful swans. Should hunters kill them?
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+California has tried to eradicate ugly South American swamp rodents called nutria. Shooting destructive nonnative mute swans might be a tougher sell. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-invasive-swans-hunting>
+
+---
+
+## Monthslong closure of freeway ramps near Vincent Thomas Bridge starts Monday
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Caltrans and the Port of Los Angeles will be closing several off- and on-ramps for the next three months as crews work on the SR 47 Interchange project. 
+
+<br> 
+
+<https://laist.com/news/transportation/monthslong-closure-of-freeway-ramps-near-vincent-thomas-bridge-starts-monday>
+
+---
+
+## Huntington Beach airshow faces major test at Coastal Commission hearing
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+The commission will vote Friday on whether to grant the airshow a one-year permit and issue a hefty fine. 
+
+<br> 
+
+<https://laist.com/news/huntington-beach-airshow-coastal-commission>
+
+---
+
+## Bar owners say a law firm targeted them with predatory discrimination lawsuits, so they’re suing back
+
+date: 2025-08-14, from: Longbeach Post
+
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The law firm denies targeting anyone, saying they’re standing up for “disabled folks who have enough pain in their lives already.”</p>
+<p>The post <a href="https://lbpost.com/news/business/small-business/ada-lawsuits-bar-owners-long-beach-counter-suit">Bar owners say a law firm targeted them with predatory discrimination lawsuits, so they’re suing back</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/small-business/ada-lawsuits-bar-owners-long-beach-counter-suit>
+
+---
+
+## Border Patrol agents make arrest outside Gov. Newsom's LA news conference
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+Border Patrol's sector chief was present for what he called a roving patrol. 
+
+<br> 
+
+<https://laist.com/news/border-patrol-arrest-newsom-news-conference>
+
+---
+
+## After Harris passes, who wants to be California’s next governor?
+
+date: 2025-08-14, updated: 2025-08-14, from: The LAist
+
+With Kamala Harris and Eleni Kounalakis out, California’s 2026 governor’s race remains wide open, with Katie Porter, Toni Atkins, Antonio Villaraigosa, Xavier Becerra and others vying to succeed Gavin Newsom. 
+
+<br> 
+
+<https://laist.com/news/politics/after-harris-passes-who-wants-to-be-californias-next-governor>
 
 ---
 
@@ -91,7 +262,7 @@ date: 2025-08-14, from: City of Santa Clarita
 
 date: 2025-08-14, from: Longbeach Post
 
-<figure><img width="1024" height="680" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-768x510.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1536x1020.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-2048x1360.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1200x797.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1568x1041.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="680" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-768x510.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1536x1020.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-2048x1360.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1200x797.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1568x1041.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He was a top litigator in the world of securities and maritime law, building a firm that by the 1990s became a city institution with offices worldwide. He befriended presidents, chancellors and celebrities, using his connections to deliver millions of dollars to local charities.</p>
 <p>The post <a href="https://lbpost.com/news/skip-keesal-dies-obit-kyl-law-firm-long-beach">Skip Keesal, elite attorney behind Long Beach&#8217;s most renowned law firm, dies at 86 </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -178,7 +349,7 @@ Temperatures will continue to dip, bringing highs back down to mid 90s for inlan
 
 ## First day of school tests LAUSD’s protections for immigrant families
 
-date: 2025-08-14, updated: 2025-08-14, from: The LAist
+date: 2025-08-14, updated: 2025-08-15, from: The LAist
 
 More than 4,000 people have been arrested across the region since June and it’s still unclear how the threat of detention may impact whether students show up to school and if they do, what type of support they might need. 
 
@@ -212,11 +383,11 @@ Neighbors complain about competing parking availability, sometimes leading to fi
 
 ---
 
-## Why were surveillance cameras installed in Huntington Beach’s most iconic Latino neighborhood?
+## Why were AI-equipped police cameras installed in this majority Latino Huntington Beach neighborhood?
 
 date: 2025-08-14, updated: 2025-08-14, from: The LAist
 
-The city says the cameras are intended to fight crime. Some residents worry they could be used to aid in federal immigration enforcement. 
+The city says the cameras installed in the Oak View neighborhood are intended to fight crime. Some residents worry they could be used to aid in federal immigration enforcement. 
 
 <br> 
 

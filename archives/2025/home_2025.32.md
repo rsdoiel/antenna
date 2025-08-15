@@ -1,11 +1,110 @@
 ---
 title: home
-updated: 2025-08-14 14:08:53
+updated: 2025-08-15 06:10:03
 ---
 
 # home
 
-(date: 2025-08-14 14:08:53)
+(date: 2025-08-15 06:10:03)
+
+---
+
+## Ask a Realtor: What’s the Most Important Thing to Do to Prep My House for the Market?
+
+date: 2025-08-15, from: Dwell
+
+For our new advice column, real estate agent Nicole Reber discusses how to better your chances of finding a buyer—and it doesn’t mean painting everything white. 
+
+<br> 
+
+<https://www.dwell.com/article/ask-a-realtor-whats-the-most-important-thing-when-showing-a-house-to-sell-d09b58aa>
+
+---
+
+## 2 Types of Quail in Washington State (Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Quail are small, lively birds that play a crucial ecological role in maintaining biodiversity across terrestrial ecosystems. In Washington State, ... </p>
+<p class="read-more-container"><a title="2 Types of Quail in Washington State (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/2-types-of-quail-in-washington-state-pictures-and-identification/#more-33813" aria-label="Read more about 2 Types of Quail in Washington State (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/2-types-of-quail-in-washington-state-pictures-and-identification/">2 Types of Quail in Washington State (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/2-types-of-quail-in-washington-state-pictures-and-identification/>
+
+---
+
+## 15 Red Birds in Georgia (With Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Standing in a quiet Georgia backyard or wandering through lush woodlands, the flashes of red from birds immediately catch your ... </p>
+<p class="read-more-container"><a title="15 Red Birds in Georgia (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/15-red-birds-in-georgia-with-pictures-and-identification/#more-33806" aria-label="Read more about 15 Red Birds in Georgia (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-red-birds-in-georgia-with-pictures-and-identification/">15 Red Birds in Georgia (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-red-birds-in-georgia-with-pictures-and-identification/>
+
+---
+
+## 5 Types of Squirrels in Illinois (With Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Illinois is home to several species of squirrels, each with unique features and behaviors. These small mammals are common in ... </p>
+<p class="read-more-container"><a title="5 Types of Squirrels in Illinois (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/5-types-of-squirrels-in-illinois-with-pictures-and-identification/#more-33801" aria-label="Read more about 5 Types of Squirrels in Illinois (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/5-types-of-squirrels-in-illinois-with-pictures-and-identification/">5 Types of Squirrels in Illinois (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/5-types-of-squirrels-in-illinois-with-pictures-and-identification/>
+
+---
+
+## 10 Types of Hawks in Maryland (With Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Walking through a Maryland forest, I noticed a Red-tailed Hawk circling overhead. Its wide, reddish tail made it easy to ... </p>
+<p class="read-more-container"><a title="10 Types of Hawks in Maryland (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/10-types-of-hawks-in-maryland-with-pictures-and-identification/#more-33794" aria-label="Read more about 10 Types of Hawks in Maryland (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/10-types-of-hawks-in-maryland-with-pictures-and-identification/">10 Types of Hawks in Maryland (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/10-types-of-hawks-in-maryland-with-pictures-and-identification/>
+
+---
+
+## 42 Common Birds in Hawaii​ (With Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Standing on a sun-warmed trail in a quiet Hawaiian forest, I heard the melodic warble of a Japanese White-eye and ... </p>
+<p class="read-more-container"><a title="42 Common Birds in Hawaii​ (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/42-common-birds-in-hawaii-with-pictures-and-identification/#more-33779" aria-label="Read more about 42 Common Birds in Hawaii​ (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/42-common-birds-in-hawaii-with-pictures-and-identification/">42 Common Birds in Hawaii​ (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/42-common-birds-in-hawaii-with-pictures-and-identification/>
+
+---
+
+## Inside Muttville, the Cage-Free Dog Shelter Designed With Help From Ken Fulk
+
+date: 2025-08-14, from: Dwell
+
+The San Francisco rescue’s Instagram-ready new HQ speaks to the growing "barkitecture boom" driven by a widening cultural obsession with our pets. 
+
+<br> 
+
+<https://www.dwell.com/article/inside-muttville-senior-dog-rescue-shelter-ken-fulk-tannerhect-architecture-san-francisco-df7a8297>
 
 ---
 
@@ -73,6 +172,30 @@ date: 2025-08-14, from: The Gardener's Path
 
 ---
 
+## I’m Moving My Dining Room Outside—Here Are My 5 Rules for Indoor-Outdoor Living
+
+date: 2025-08-14, from: Sunset Magazine - Living in the West
+
+Designer Camille Styles show us how to embrace nature indoors and outdoors. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses/indoor-outdoor-living-tips>
+
+---
+
+## I’m Dealing with Major Construction Delays—Here’s How I’m Not Letting It Get Me Down
+
+date: 2025-08-14, from: Sunset Magazine - Living in the West
+
+Construction delays have turned into a blessing in disguise for Camille Styles. Here, she shares the lessons she's learned. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/home-construction-delays>
+
+---
+
 ## The Quiet, Constant Fight Against Equine Diseases
 
 date: 2025-08-14, from: Calfifornia Dept. Aggriculture blog
@@ -82,6 +205,18 @@ CDFA is on the front lines of a silent battle, one that impacts California’s h
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29177>
+
+---
+
+## 10 Things You Need to Do in Your Garden Before Summer Ends
+
+date: 2025-08-14, from: Sunset Magazine - Living in the West
+
+Late summer is the time to make the most of the end of the season and prepare for fall. Here are the late summer gardening tips to know. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/late-summer-gardening-tips>
 
 ---
 
@@ -257,6 +392,18 @@ Decorating &amp; Design, Home Tours A Basic Tract House Gets Infused with Charm 
 <br> 
 
 <https://www.sunset.com/>
+
+---
+
+## The Daily Wellness Ritual Courteney Cox Never Skips
+
+date: 2025-08-13, from: Sunset Magazine - Living in the West
+
+Courteney Cox, actress, filmmaker, and founder of Homecourt, shares the places, products, and rituals that help her live well. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/courteney-cox-wellness-rituals>
 
 ---
 
@@ -446,6 +593,18 @@ CDFA proudly welcomed seven interns and fellows this summer for work in division
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=29173>
+
+---
+
+## Traditional Bathroom Tile Is Out—Here’s What to Do Instead
+
+date: 2025-08-12, from: Sunset Magazine - Living in the West
+
+It turns out traditional bathroom tile is outdated now. A designer shares bathroom ideas for alternatives. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/bathroom-tile-alternatives>
 
 ---
 

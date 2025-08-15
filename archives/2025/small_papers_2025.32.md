@@ -1,11 +1,40 @@
 ---
 title: small papers
-updated: 2025-08-14 14:08:56
+updated: 2025-08-15 06:10:05
 ---
 
 # small papers
 
-(date: 2025-08-14 14:08:56)
+(date: 2025-08-15 06:10:05)
+
+---
+
+## Federal Agents Raid Little Tokyo as LA Mayor Calls for End of Harsh Tactics
+
+date: 2025-08-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; On the same day that Mayor Karen Bass and Westside leaders called for the end of immigration raids throughout the city, federal agents today conducted a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/14/federal-agents-raid-little-tokyo-as-la-mayor-calls-for-end-of-harsh-tactics/">Federal Agents Raid Little Tokyo as LA Mayor Calls for End of Harsh Tactics</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/14/federal-agents-raid-little-tokyo-as-la-mayor-calls-for-end-of-harsh-tactics/>
+
+---
+
+## Bar owners say a law firm targeted them with predatory discrimination lawsuits, so they’re suing back
+
+date: 2025-08-14, from: Long Beach Post
+
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The law firm denies targeting anyone, saying they’re standing up for “disabled folks who have enough pain in their lives already.”</p>
+<p>The post <a href="https://lbpost.com/news/business/small-business/ada-lawsuits-bar-owners-long-beach-counter-suit">Bar owners say a law firm targeted them with predatory discrimination lawsuits, so they’re suing back</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/small-business/ada-lawsuits-bar-owners-long-beach-counter-suit>
 
 ---
 
@@ -13,7 +42,7 @@ updated: 2025-08-14 14:08:56
 
 date: 2025-08-14, from: Long Beach Post
 
-<figure><img width="1024" height="680" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-768x510.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1536x1020.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-2048x1360.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1200x797.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1568x1041.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="680" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1024x680.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-300x199.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-768x510.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-163x108.jpg 163w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1536x1020.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-2048x1360.jpg 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1200x797.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-1568x1041.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/14085437/skip-keesal-kyl-headshot-2023-791918-syqmeq6k-697955-4HAuC9vn-400x266.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>He was a top litigator in the world of securities and maritime law, building a firm that by the 1990s became a city institution with offices worldwide. He befriended presidents, chancellors and celebrities, using his connections to deliver millions of dollars to local charities.</p>
 <p>The post <a href="https://lbpost.com/news/skip-keesal-dies-obit-kyl-law-firm-long-beach">Skip Keesal, elite attorney behind Long Beach&#8217;s most renowned law firm, dies at 86 </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

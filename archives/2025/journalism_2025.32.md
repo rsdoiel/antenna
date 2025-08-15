@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-08-14 14:08:51
+updated: 2025-08-15 06:10:02
 ---
 
 # journalism
 
-(date: 2025-08-14 14:08:51)
+(date: 2025-08-15 06:10:02)
+
+---
+
+## UC Regent Jay Sures required to pay legal fees for pro-Palestine UCLA student
+
+date: 2025-08-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A court ruled Thursday that UC Regent Jay Sures must pay $150,624 of graduate student Dylan Kupsh’s legal fees after Sures unsuccessfully attempted to file a restraining order against him.&#160;
+Kupsh – along with around 50 other pro-Palestine protesters – demonstrated outside Sures’ Brentwood home in February, calling him &#8220;responsible for protecting UC investments in genocide and weapons manufacturing.” Lawyers representing Sures initially alleged that Kupsh was a “ringleader” among the protesters, but were unable to prove the claim in court. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/14/uc-regent-jay-sures-required-to-pay-legal-fees-for-pro-palestine-ucla-student/>
 
 ---
 
@@ -49,8 +62,8 @@ She said that, based on impression data from Cision, Klein’s media appearances
 
 date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA has suspended the campus’s chapter of Kappa Sigma until May 2030 for violating policies relating to hazing, alcohol and safety.
-Lindsey Goldstein, the director of the Office of Fraternity &#38; Sorority Life, announced the suspension in an email Wednesday to UCLA fraternity and sorority members. 
+<em>This post was updated Aug. 14 at 8:12 p.m.</em>
+UCLA has suspended the campus’s chapter of Kappa Sigma until May 2030 for violating policies relating to hazing, alcohol and safety. 
 
 <br> 
 

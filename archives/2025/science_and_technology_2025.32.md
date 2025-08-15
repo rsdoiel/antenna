@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-08-14 14:08:48
+updated: 2025-08-15 06:09:59
 ---
 
 # science and technology
 
-(date: 2025-08-14 14:08:48)
+(date: 2025-08-15 06:09:59)
+
+---
+
+## A 2,000-Year-Old Sun Hat Worn by a Roman Soldier in Egypt Goes on View After a Century in Storage
+
+date: 2025-08-15, from: Smithsonian Magazine
+
+The felt cap—one of only three surviving examples of its kind—was recently conserved by a museum in England 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/>
+
+---
+
+## Little LLM on the RAM: Google's Gemma 270M hits the scene
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>A tiny model trained on trillions of tokens, ready for specialized tasks</h4> <p>Google has unveiled a pint-sized new addition to its &#34;open&#34; large language model lineup: Gemma 3 270M.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/little_llm_on_the_ram/>
+
+---
+
+## Cyberattack on Dutch prosecution service is keeping speed cameras offline
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Who knew zero-days could be so useful to highway speedsters?</h4> <p>The lingering effects of a cyberattack on the Public Prosecution Service of the Netherlands are preventing it from reactivating speed cameras across the country.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/cyberattack_on_dutch_prosecution_service/>
+
+---
+
+## Are you willing to pay $100k a year per developer on AI?
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Or, more? Eventually, AI companies will stop selling their services as a loss leader, and then the AI &#34;cost-savings&#34; will disappear like dew on a hot summer morning</h4> <p>Bosses throughout the world love the idea of using AI to replace employees. They can talk all they want about how much more efficient everyone will be with AI, but the truth is if they can fire staffers, their bottom line looks better, their stock price goes up, and the CEO makes a ton more money.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/are_you_willing_to_pay/>
+
+---
+
+## Hubble Examines Low Brightness, High Interest Galaxy
+
+date: 2025-08-15, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image zooms in on the feathery spiral arms of the galaxy NGC 45, which lies just 22 million light-years away in the constellation Cetus (the Whale). The portrait uses data drawn from two complementary observing programs. The first took a broad view of 50 nearby galaxies, leveraging Hubble’s ability to […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-examines-low-brightness-high-interest-galaxy/>
+
+---
+
+## Telco giant Colt suffers attack, takes systems offline
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>London-based multinational takes customer portal and Voice API platform offline as &#39;protective measure&#39; following breach</h4> <p>Multinational telco Colt Technology Services says a &#34;cyber incident&#34; is to blame for its customer portal and other services being down for a number of days.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/london_telco_colts_services_disrupted/>
+
+---
+
+## Why the UK public sector still creaks along on COBOL
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Government: &#39;Trust us, it&#39;ll be different this time&#39;</h4> <p><strong>Feature</strong>  The UK government has gone all-in on AI. More than 50 years after Harold Wilson gave his famous &#34;White heat of technology&#34; speech, this is the hot new thing. An <a href="https://www.gov.uk/government/publications/national-ai-strategy/national-ai-strategy-html-version" rel="nofollow">AI Strategy</a> has been released. Datacenters are planned. Steps to strengthen AI supply chains are being formulated. And of course, the public sector will lead by example in AI usage.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/cobol_in_the_public_sector_feature/>
+
+---
+
+## LLM chatbots trivial to weaponise for data theft, say boffins
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>System prompt engineering turns benign AI assistants into &#39;investigator&#39; and &#39;detective&#39; roles that bypass privacy guardrails</h4> <p>A team of boffins is warning that AI chatbots built on large language models (LLM) can be tuned into malicious agents to autonomously harvest users’ personal data, even by attackers with &#34;minimal technical expertise”, thanks to &#34;system prompt&#34; customization tools from OpenAI and others.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/llm_chatbots_trivial_to_weaponise/>
+
+---
+
+## Sysadmin cured a medical mystery by shifting a single cable
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Somebody built a very sick network in the bowels of a hospital</h4> <p><strong>On Call</strong>  Few make it to Friday without some end-of-week blues, which <i>The Register</i> always treats with a fresh dose of On Call – the reader-contributed column that recounts your stories of tech support contusions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/on_call/>
+
+---
+
+## Should UK.gov save money by looking for open source alternatives to Microsoft? You decide
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>As £9 billion MoU sparks debate about value for money, it&#39;s time to have your say</h4> <p><strong>Register debate series</strong>  It&#39;s a lot of money, £9 billion ($12 billion). Especially for a government which finds itself — for whatever reason — <a target="_blank" href="https://www.instituteforgovernment.org.uk/comment/one-year-labour-economy">in a fiscal dead end</a>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/microsoft_debate_poll/>
+
+---
+
+## Forget Foxconn the iPhone factory. AI’s made it a server-slinger first and foremost
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Next: Modular datacenters ready to host rack-scale systems, to meet endless demand</h4> <p>Manufacturer to the stars Foxconn is building so many AI servers that they’re now bringing in more cash than consumer electronics – even counting the colossal quantity of iPhones it creates for Apple.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/foxconn_q2_2025/>
+
+---
+
+## Tencent doesn’t care if it can buy American GPUs again – it already has all the chips it needs
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Sees AI costs rising but not certain revenue will match them</h4> <p>Chinese web giant Tencent doesn’t mind if Washington doesn’t let it buy more American GPUs, because it already has all the chips it needs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/tencent_q2_2025/>
+
+---
+
+## Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks
+
+date: 2025-08-15, from: NASA breaking news
+
+Earth planning date: Monday Aug. 11, 2025 Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center On the Curiosity team, we’re continuing our exploration of the boxwork-forming region in Gale Crater. A successful 25-meter drive (about 82 feet) brought the rover from the “peace sign” ridge intersection to a new ridge site. […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/curiosity-blog-sols-4627-4628-a-ridge-stop-in-the-boxworks/>
+
+---
+
+## Breathe easy: Apple Watch can read your oxygen levels again
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>iBiz shifts data to iPhone in patent workaround</h4> <p>Apple will deliver a software update for recent US Apple Watch models to reimplement the ability to measure blood oxygen levels, a process known as pulse oximetry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/apple_watch_revives_blood_oxygen/>
+
+---
+
+## Haiku’s July was short, but still brought tons of changes
+
+date: 2025-08-14, from: OS News
+
+We removed ads from OSNews. Donate to our fundraiser to ensure our future! We all managed to survive another month, so here we are, with another monthly update from Haiku, covering the month of July. It&#8217;s been a rather short month, it being the middle of Summer and all, but there&#8217;s still some significant stuff in here. For instance, a whole slew of fixes arrived for su and other multiuser commands, mostly for the benefit of SSH sessions. A central theme in July seems to have been filesystems, as FAT16 was added to the known filesystem types in the Storage Kit, quite a few fixes were implemented for NFSv4, and a number of filesystems saw bugfixes to fix issues in rsync, and much more. Another central theme is apparently a port of DOSEMU, for which a number of bugfixes, changes, and improvements were implemented that could, in turn, also benefit other possible ports. And of course, there&#8217;s much, much more that happened, for which you&#8217;ll have to dive into the full progress report. 
+
+<br> 
+
+<https://www.osnews.com/story/143076/haikus-july-was-short-but-still-brought-tons-of-changes/>
+
+---
+
+## AROS gets new partitioning tool, SDL2 port, and more
+
+date: 2025-08-14, from: OS News
+
+We removed ads from OSNews. Donate to our fundraiser to ensure our future! We&#8217;re not done with the AROS news quite yet, as Andrzej Subocz published another update with the latest news from the AROS community. Some of it we already covered, but a lot it we haven&#8217;t. For instance, there&#8217;s the initial version of a partitioning tool for AROS, called QuickPart. For now, it&#8217;s in read-only mode, but once it&#8217;s complete, it will allow users to do, well, partitioning. Work has also begun on porting SDL2 to AROS, replacing the aging SDL 1.2 version currently available. On top of all that, there&#8217;s a lot of work on new and improved network drivers for the 64bit version, an extensive amount of changes and improvements to the build system, C library, datatypes, and much more. Subocz&#8217; full report has many more details, so head on over and read up. 
+
+<br> 
+
+<https://www.osnews.com/story/143074/aros-gets-new-partitioning-tool-sdl2-port-and-more/>
+
+---
+
+## Ransomware crews don't care about your endpoint security – they've already killed it
+
+date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+
+<h4>Some custom malware, some legit software tools</h4> <p>At least a dozen ransomware gangs have incorporated kernel-level EDR killers into their malware arsenal, allowing them to bypass almost every major endpoint security tool on the market, escalate privileges, and ultimately steal and encrypt data before extorting victims into paying a ransom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/14/edr_killers_ransomware/>
+
+---
+
+## NASA Seeks Industry Feedback on Fission Surface Power
+
+date: 2025-08-14, from: NASA breaking news
+
+As part of the agency’s initiative to return humanity to the Moon and eventually send the first astronaut – an American – to Mars, NASA is surveying industry for interest and feedback on a fission surface power system, through a Request for Information issued Thursday. Earlier this month, NASA declared its intent to put a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-seeks-industry-feedback-on-fission-surface-power/>
 
 ---
 
@@ -131,9 +347,9 @@ The species was named for its pointy teeth and could shed light on early mammal 
 
 ## Equinix signs deals for nukes and fuel cells to power its AI bit barns
 
-date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+date: 2025-08-14, updated: 2025-08-15, from: The Register (UK I.T. News)
 
-<h4>Datacenter giant looks for energy sources outside the grid</h4> <p>Equinix is doing deals with alternative energy providers to support the needs of its datacenters globally, including nuclear options and fuel cell deployments, as the AI fad continues to push a bit barn build boom.…</p> 
+<h4>Datacenter giant looks for energy sources outside the grid</h4> <p><strong>Updated</strong>  Equinix is doing deals with alternative energy providers to support the needs of its datacenters globally, including nuclear options and fuel cell deployments, as the AI fad continues to push a bit barn build boom.…</p> 
 
 <br> 
 
@@ -143,7 +359,7 @@ date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
 
 ## 'MadeYouReset' HTTP/2 flaw lets attackers DoS servers
 
-date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+date: 2025-08-14, updated: 2025-08-15, from: The Register (UK I.T. News)
 
 <h4>Researchers had to notify over 100 vendors of flaw that builds on 2023&#39;s Rapid Reset with neat twist past usual mitigations</h4> <p>Security researchers Gal Bar Nahum, Anat Bremler-Barr, and Yaniv Harel have published details of a &#34;common design flaw&#34; in implementations of the HyperText Transfer Protocol 2 (HTTP/2) allowing those with ill intent to create &#34;massive Denial of Service attacks&#34;.…</p> 
 
@@ -431,7 +647,7 @@ date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
 
 ## The plan for Linux after Torvalds has a kernel of truth: There isn’t one
 
-date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+date: 2025-08-14, updated: 2025-08-15, from: The Register (UK I.T. News)
 
 <h4>Success does not guarantee succession</h4> <p><strong>Opinion</strong>  The Linux kernel is a remarkable creation. It has achieved a fundamental status in the industry, and thus the world, unmatched in scope, stability, and reputation. It powers lightbulbs to supercomputers, not to mention the billion-plus global army of Android. It covers a host of processors, a massive array of supported devices and an unparalleled choice of distributions.…</p> 
 

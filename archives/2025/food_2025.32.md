@@ -1,11 +1,163 @@
 ---
 title: food
-updated: 2025-08-14 14:08:55
+updated: 2025-08-15 06:10:04
 ---
 
 # food
 
-(date: 2025-08-14 14:08:55)
+(date: 2025-08-15 06:10:04)
+
+---
+
+## All the Recipes From Bon Appétit’s Sports Issue
+
+date: 2025-08-15, from: Bon Appetet
+
+We’ve got chocolate-date bran muffins, sheet-pan chicken souvlaki, and salmon with sizzle nut salsa. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/bon-appetit-september-2025-issue>
+
+---
+
+## This Is the One Thing Melissa Etheridge Eats for Breakfast Every Day on the Road
+
+date: 2025-08-15, from: Taste of Home
+
+<p>While on the road with the Indigo Girls, the rock icon discussed how she stays fueled between performances.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/melissa-etheridge-breakfast/">This Is the One Thing Melissa Etheridge Eats for Breakfast Every Day on the Road</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/melissa-etheridge-breakfast/>
+
+---
+
+## Anaerobic Fermentation Can Enhance Unripe Coffee Cherries, Study Finds
+
+date: 2025-08-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A positive use case for anaerobic fermentation in coffee. 
+
+<br> 
+
+<https://sprudge.com/anaerobic-fermentation-can-enhance-unripe-coffee-cherries-study-finds-393721.html>
+
+---
+
+## The Best Cookie Delivery When You Need Sugar at Your Doorstep
+
+date: 2025-08-15, from: Bon Appetet
+
+I tasted 25 of them so you don’t have to. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-dtc-cookies>
+
+---
+
+## Blind Mice
+
+date: 2025-08-15, from: Taste of Home
+
+These easy, decadent and chocolatey mice-shaped truffles are perfect for Halloween (or Christmas!). They're a cute addition to your holiday charcuterie boards. —CJ Hathway, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/blind-mice/>
+
+---
+
+## Halloween Salad
+
+date: 2025-08-15, from: Taste of Home
+
+This sweet and savory Halloween salad combines the best of fall produce. With pumpkin, spinach and cranberries, it looks just as good as it tastes, with a maple and pumpkin dressing tying it all together. —Joan Hallford, North Richland Hills, Texas 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/halloween-salad/>
+
+---
+
+## Jalapeno Mummies
+
+date: 2025-08-15, from: Taste of Home
+
+I like to take appetizers to my daughter's home before we trick-or-treat with the grandkids. They all love jalapeño poppers, so these easy and cheesy bites were perfect for the occasion. —Lori Stefanishion, Drumheller, Alberta 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/jalapeno-mummies/>
+
+---
+
+## Tuscan Cherry Tomato Sauce Recipe
+
+date: 2025-08-15, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/tuscan-cherry-tomato-sauce/" title="Tuscan Cherry Tomato Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A small bowl filled with penne pasta, served with Tuscan-style Cherry Tomato Pasta Sauce and extra cherry tomatoes" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Cherry-Tomato-Sauce-Recipe-PASTA1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn to make this Tuscan Cherry Tomato Sauce just like I did from a chef in Italy, fresh cherry tomatoes, garlic, olive oil, and herbs come together in a simple, rustic sauce.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/tuscan-cherry-tomato-sauce/">Tuscan Cherry Tomato Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/tuscan-cherry-tomato-sauce/>
+
+---
+
+## Here’s How Far Cannabis Beverages Have Come Since the CBD Coffee Craze
+
+date: 2025-08-15, from: The Fresh Cup
+
+<p>Coffee drinks made with CBD oil made a big splash circa 2018. Since then, the market for cannabis beverages has changed drastically, representing a shift in the way consumers approach alcohol, wellness, and leisure. </p>
+<p>The post <a href="https://freshcup.com/heres-how-far-cannabis-beverages-have-come-since-the-cbd-coffee-craze/">Here’s How Far Cannabis Beverages Have Come Since the CBD Coffee Craze</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/heres-how-far-cannabis-beverages-have-come-since-the-cbd-coffee-craze/>
+
+---
+
+## Spicy Coconut Grilled Chicken and More Recipes We Made This Week
+
+date: 2025-08-15, from: Bon Appetet
+
+Like cold soba noodles and tomato aguachile. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2025>
+
+---
+
+## How Does a Meal Kit Menu Get Made? HelloFresh's Executive Chef Breaks It Down
+
+date: 2025-08-15, from: Bon Appetet
+
+Kristin Bryan and her team developed hundreds of recipes for the meal delivery service's overhaul. 
+
+<br> 
+
+<https://www.bonappetit.com/story/hellofresh-new-menu>
+
+---
+
+## I Tried the New Chili Crisp Ketchup, and Spicy Food Lovers Will Want to Put It on Everything
+
+date: 2025-08-14, from: Taste of Home
+
+<p>The brand-new chili crisp ketchup from Fly By Jing is my new obsession. Here are the five ways I tested it.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chili-crisp-ketchup/">I Tried the New Chili Crisp Ketchup, and Spicy Food Lovers Will Want to Put It on Everything</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chili-crisp-ketchup/>
 
 ---
 
@@ -451,7 +603,7 @@ Bounty is a coconut-filled chocolate bar made by Mars. These copycat chocolate b
 
 date: 2025-08-13, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/fresh-mango-salsa/" title="Fresh Mango Salsa" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mango Salsa in a serving bowl with lots of vibrant colors" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Fresh mango salsa loaded with ripe mangos, red onion, bell pepper, jalapeño, cilantro, and lime juice. Sweet, spicy, and perfect for chips, tacos, or grilled meats.</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/fresh-mango-salsa/" title="Fresh Mango Salsa" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mango Salsa in a serving bowl with lots of vibrant colors" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mango-Salsa-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Fresh mango salsa loaded with ripe mangos, red onion, bell pepper, jalapeño, cilantro, and lime juice. Sweet, spicy, and perfect for chips, tacos, or grilled meats.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/fresh-mango-salsa/">Fresh Mango Salsa</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

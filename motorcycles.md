@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2025-08-14 14:08:53
+updated: 2025-08-15 06:10:03
 ---
 
 # motorcycles
 
-(date: 2025-08-14 14:08:53)
+(date: 2025-08-15 06:10:03)
+
+---
+
+## For A Couple Hundred Bucks, You Can Get Your Kid A Legit Ducati—Sort Of
+
+date: 2025-08-15, from: Ride Apart, Electric Motorcycle News
+
+Ducati has teamed up with Italian toy maker Peg Perego for a lineup of officially licensed ride-on toys for kids to start their passion for two wheels early. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768689/ducati-peg-perego-ride-on-toys-kids/>
+
+---
+
+## Could This Little Roadster Motorcycle Ever Make Sense In the US?
+
+date: 2025-08-15, from: Ride Apart, Electric Motorcycle News
+
+The Yezdi Roadster has just been updated in India. With the growing popularity of small bikes, we can’t help but wonder if there’s a place for it in the US. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/768973/2025-yezdi-roadster-launch-specs-horsepower-features/>
+
+---
+
+## If You've Ever Wanted A Peek Inside the Mind of a Hard Enduro Maniac, This Is It
+
+date: 2025-08-15, from: Ride Apart, Electric Motorcycle News
+
+It takes a special kind of person to dream of completing Red Bull Romaniacs as a bucket list item, and if you want to see what's involved, look no further. 
+
+<br> 
+
+<https://www.rideapart.com/news/768926/red-bull-romaniacs-behind-scenes/>
 
 ---
 

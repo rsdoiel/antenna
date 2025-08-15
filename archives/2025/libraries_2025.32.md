@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-08-14 14:08:52
+updated: 2025-08-15 06:10:02
 ---
 
 # libraries
 
-(date: 2025-08-14 14:08:52)
+(date: 2025-08-15 06:10:02)
+
+---
+
+## INFIDEO Friday: How AI is Changing Our Search Experiences
+
+date: 2025-08-15, from: Scholarly Kitchen
+
+<p>What happens when AI-infused information systems increasingly provide answers rather than directing people to sources?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/15/infideo-friday-how-ai-is-changing-our-search-experiences/">INFIDEO Friday: How AI is Changing Our Search Experiences</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/08/15/infideo-friday-how-ai-is-changing-our-search-experiences/>
 
 ---
 
