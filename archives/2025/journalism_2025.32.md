@@ -1,11 +1,31 @@
 ---
 title: journalism
-updated: 2025-08-15 06:10:02
+updated: 2025-08-15 14:08:03
 ---
 
 # journalism
 
-(date: 2025-08-15 06:10:02)
+(date: 2025-08-15 14:08:03)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Vilma Ortiz, the former chair of the Academic Senate&#8217;s Privilege and Tenure Committee, testified Thursday. She said the committee, which reviews grievances brought by Academic Senate members who believe that their rights as faculty may have been violated, reached a split vote about whether UCLA violated academic freedom principles by placing him on leave, leading to no formal hearing. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/15/491956/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+John Meyers, who provides vocational rehabilitation consulting services, testified Thursday that Klein earned less money following his administrative leave because of the closure of courts – where he was paid to serve as an expert witness – during the COVID-19 pandemic and general volatility in the expert witness industry. 
+
+<br> 
+
+<https://dailybruin.com/2025/08/15/491953/>
 
 ---
 

@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-08-15 06:09:59
+updated: 2025-08-15 14:07:59
 ---
 
 # pacific
 
-(date: 2025-08-15 06:09:59)
+(date: 2025-08-15 14:07:59)
+
+---
+
+## Rare kabuki masterclass hits Hawaiʻi, public invited to showcase
+
+date: 2025-08-15, from: University of Hawaiʻi News
+
+<p>Eighth-generation kabuki master Ichikawa Monnosuke <abbr title="Roman numeral eight">VIII</abbr> led an intensive workshop at <abbr>UH</abbr> Mānoa, offering rare, hands-on training.</p>
+The post <a href="https://www.hawaii.edu/news/2025/08/15/rare-kabuki-masterclass-hits-hawaii/">Rare kabuki masterclass hits Hawaiʻi, public invited to showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/08/15/rare-kabuki-masterclass-hits-hawaii/>
 
 ---
 
@@ -738,6 +751,18 @@ The post <a href="https://www.hawaii.edu/news/2025/08/14/rappa-fellows-2025/"><a
 <br> 
 
 <https://www.hawaii.edu/news/2025/08/14/rappa-fellows-2025/>
+
+---
+
+## How to create a healthier, more comfortable home
+
+date: 2025-08-14, updated: 2025-08-14, from: Marianas Variety
+
+(BPT) - If you or someone in your household deals with allergies or asthma, you're probably already aware that allergy seasons have grown longer and more intense. While you have no control over the weather and climate issues that may be contributing to your worsening allergy symptoms, there is one area where you can help alleviate your symptoms: your home. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/how-to-create-a-healthier-more-comfortable-home/article_d4bd8d98-1354-5a0d-8aa7-114999fc9070.html>
 
 ---
 

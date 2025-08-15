@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-08-15 06:10:03
+updated: 2025-08-15 14:08:06
 ---
 
 # motorcycles
 
-(date: 2025-08-15 06:10:03)
+(date: 2025-08-15 14:08:06)
+
+---
+
+## Drug Traffickers Infiltrated Kids Motorcycle Racing, Running an Interstate Operation
+
+date: 2025-08-15, from: Ride Apart, Electric Motorcycle News
+
+The parents of two promising MotoAmerica Mini Cup racers were arrested in July for allegedly running an interstate drug operation, among other charges. 
+
+<br> 
+
+<https://www.rideapart.com/news/769048/drug-trafficers-motoamerica-mini-cup-racing/>
 
 ---
 

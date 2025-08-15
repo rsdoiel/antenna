@@ -1,11 +1,39 @@
 ---
 title: health
-updated: 2025-08-15 06:10:04
+updated: 2025-08-15 14:08:06
 ---
 
 # health
 
-(date: 2025-08-15 06:10:04)
+(date: 2025-08-15 14:08:06)
+
+---
+
+## Is Beer Good For Kidney Stones?
+
+date: 2025-08-15, from: The Kidney Dietitian
+
+<p>This article was written by dietetic student Emma Kortmansky &#38; reviewed by Melanie Betz MS, RD, CSR, FNKF, FAND. Is beer really good for kidney stones, or is it just some crazy myth? Is [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/is-beer-good-for-kidney-stones/">Is Beer Good For Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/is-beer-good-for-kidney-stones/>
+
+---
+
+## Frozen Yogurt vs Ice Cream: What’s The Difference?
+
+date: 2025-08-15, from: The Kidney Dietitian
+
+<p>This article was written by dietetic student Lavanya Chhetri &#38; reviewed by Melanie Betz MS, RD, CSR, FNKF, FAND. Who doesn’t love an ice cream cone or a bowl of frozen yogurt (chock full [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/frozen-yogurt-vs-ice-cream/">Frozen Yogurt vs Ice Cream: What&#8217;s The Difference?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/frozen-yogurt-vs-ice-cream/>
 
 ---
 

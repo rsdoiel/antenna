@@ -1,11 +1,121 @@
 ---
 title: north america
-updated: 2025-08-15 06:09:57
+updated: 2025-08-15 14:07:57
 ---
 
 # north america
 
-(date: 2025-08-15 06:09:57)
+(date: 2025-08-15 14:07:57)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-08-15, from: The Contrarian
+
+Friday: D.C. continues to protest the federal law enforcement takeover, Floridians protest a state DOGE, moms protest the war in Gaza, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## BLT salad
+
+date: 2025-08-15, from: The Contrarian
+
+Keep it simple or make it the whole meal. 
+
+<br> 
+
+<https://contrarian.substack.com/p/blt-salad>
+
+---
+
+## Culture recs: Eddington, Hunting Wives, and More 
+
+date: 2025-08-15, from: The Contrarian
+
+What to watch this week, including a documentary about atomic bomb survivors and two very different takes on the American political divide 
+
+<br> 
+
+<https://contrarian.substack.com/p/culture-recs-eddington-hunting-wives>
+
+---
+
+## Trump Brings a Stage Prop to Alaska
+
+date: 2025-08-15, from: The Contrarian
+
+Behind the theatrics leading up to the summit is a pattern Putin knows so well: bluff, delay, surrender, declare victory, repeat. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-brings-a-stage-prop-to-alaska>
+
+---
+
+## Bondi’s illegal order exacerbates the crisis in D.C. and teaches the wrong lessons
+
+date: 2025-08-15, from: The Contrarian
+
+In Trump's Justice Department, power, not the rule of law, is all that matters. 
+
+<br> 
+
+<https://contrarian.substack.com/p/bondis-illegal-order-exacerbates>
+
+---
+
+## JD Vance is chillin' like a villain
+
+date: 2025-08-15, from: The Contrarian
+
+J.D. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/171062701/9759347471d6f1827bc2f691a19f1d63.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/171062701/9759347471d6f1827bc2f691a19f1d63.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jd-vance-is-chillin-like-a-villain>
+
+---
+
+## Split Screen: Yulia Svyrydenko, the new Ukrainian Prime Minister
+
+date: 2025-08-15, from: The Contrarian
+
+A woman leading in wartime faces visual and verbal diminishment her male peers often don't. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-yulia-svyrydenko-the>
+
+---
+
+## Muriel Bowser, Letitia James, and the hazards of being a Black woman in power
+
+date: 2025-08-15, from: The Contrarian
+
+D.C.&#8217;s mayor and New York&#8217;s AG are under scrutiny, and we all know why. 
+
+<br> 
+
+<https://contrarian.substack.com/p/muriel-bowser-letitia-james-and-the>
+
+---
+
+## Tom the Dancing Bug
+
+date: 2025-08-15, from: The Contrarian
+
+Hollingsworth Hound in "The Devil Went Down to Houndco" 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-83d>
 
 ---
 
@@ -142,18 +252,6 @@ Trump's reckless dismantling of PEPFAR is a threat to global health and human li
 <br> 
 
 <https://contrarian.substack.com/p/the-numbers-add-up-so-why-oull-out>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-08-14, from: The Contrarian
-
-Thursday: D.C. protests the federal law enforcement takeover, Britains protest the Vance family, planning ahead, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

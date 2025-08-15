@@ -1,11 +1,312 @@
 ---
 title: snapshots
-updated: 2025-08-15 06:10:06
+updated: 2025-08-15 14:08:10
 ---
 
 # snapshots
 
-(date: 2025-08-15 06:10:06)
+(date: 2025-08-15 14:08:10)
+
+---
+
+## GPT5 and the end of naive AI futurism
+
+date: 2025-08-15, from: Dave Karpf's blog
+
+Tech boosters have the memories of goldfish 
+
+<br> 
+
+<https://davekarpf.substack.com/p/gpt5-and-the-end-of-naive-ai-futurism>
+
+---
+
+## Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info
+
+date: 2025-08-15, updated: 2025-08-15, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/">Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info</a></strong></p>
+This is grim. Reuters got hold of a leaked copy Meta's internal "GenAI: Content Risk Standards" document:</p>
+<blockquote>
+<p>Running to more than 200 pages, the document defines what Meta staff and contractors should treat as acceptable chatbot behaviors when building and training the company’s generative AI products.</p>
+</blockquote>
+<p>Read the full story -  there was some really nasty stuff in there.</p>
+<p>It's understandable why this document was confidential, but also frustrating because documents like this are genuinely some of the best documentation out there in terms of how these systems can be expected to behave.</p>
+<p>I'd love to see more transparency from AI labs around these kinds of decisions.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/15/metas-ai-rules/#atom-everything>
+
+---
+
+## Lilbits: Desktop Linux apps on Android phones, Xbox PC gaming on ARM-based computers, and a cheaper Kindle color
+
+date: 2025-08-15, from: Liliputing
+
+<p>Google recently added an experimental Linux terminal app to Android that installs Debian in a virtual machine and lets you run command-line apps. But if you&#8217;re running the latest canary builds of Android 16 on a Pixel 6 or later smartphone, it&#8217;s also possible to enable support for applications with a graphical user interface. Android [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-desktop-linux-apps-on-android-phones-xbox-pc-gaming-on-arm-based-computers-and-a-cheaper-kindle-color/">Lilbits: Desktop Linux apps on Android phones, Xbox PC gaming on ARM-based computers, and a cheaper Kindle color</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-desktop-linux-apps-on-android-phones-xbox-pc-gaming-on-arm-based-computers-and-a-cheaper-kindle-color/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-15, from: Robert's feed at BlueSky)
+
+Very true.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lwhma2xol22y>
+
+---
+
+## Woz’s Ongoing YouTube Lawsuit
+
+date: 2025-08-15, from: Michael Tsai
+
+CBS (via John Gruber): Steve Wozniak, who helped introduce new technologies by inventing the earliest Apple computers, is sounding the alarm about one of the great threats of this new Information Age: internet fraud. He talks with correspondent John Blackstone about fighting for the victims of online scams involving AI, cryptocurrency and faked messages, and [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/15/wozs-ongoing-youtube-lawsuit/>
+
+---
+
+## TextKit 2: The Promised Land
+
+date: 2025-08-15, from: Michael Tsai
+
+Marcin Krzy&#x17C;anowski (Mastodon): TextKit 2 (NSTextLayoutManager) API was announced publicly during WWDC21, which is over 4 years ago. Before that, it was in private development for a few years and gained widespread adoption in the macOS and iOS frameworks. Promised an easier, faster, overall better API and text layout engine that replaces the aged TextKit [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/15/textkit-2-the-promised-land/>
+
+---
+
+## Notepad.exe 1.2.1139
+
+date: 2025-08-15, from: Michael Tsai
+
+Marcin Krzy&#x17C;anowski (tweet): Notepad.exe is a native macOS application I've crafted with love to enhance your development experience. Built on a plug-and-play philosophy, it gets you coding instantly with zero setup, then scales with your needs. Whether you're prototyping Swift apps, experimenting with Python scripts, building iOS apps with automatic simulator support, or exploring new [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/08/15/notepad-exe-1-2-1139/>
+
+---
+
+## Mini SSDs barely larger than a microSD card support speeds up to 3,700 MB/s
+
+date: 2025-08-15, from: Liliputing
+
+<p>Move over SD Express, there&#8217;s a new high-speed removable storage format on the way. Chinese storage company Biwin has introduced a new Mini SSD that&#8217;s just a tiny bit larger than a microSD card, but which leverages a PCIe Gen 4 x 2 connection for NVMe 1.4 drives with read/write speeds up to 3,700 MB/S [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/mini-ssds-barely-larger-than-a-microsd-card-support-speeds-up-to-3700-mb-s/">Mini SSDs barely larger than a microSD card support speeds up to 3,700 MB/s</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/mini-ssds-barely-larger-than-a-microsd-card-support-speeds-up-to-3700-mb-s/>
+
+---
+
+## When Your Publisher Isn’t the Dream Partner You Hoped For — What Counts as Material Breach of a Publishing Agreement?
+
+date: 2025-08-15, from: Authors Union blogs
+
+This is a guest post by Hana Khan-Tareen, who is a Legal Research Fellow at Georgetown University Law Center. We appreciate her insight on how authors can best protect their rights. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/08/15/when-your-publisher-isnt-the-dream-partner-you-hoped-for-what-counts-as-material-breach-of-a-publishing-agreement/>
+
+---
+
+## A New Discovery Might Have Just Rewritten Human History
+
+date: 2025-08-15, from: 404 Media Group
+
+Long before modern supply chains, ancient hominins were moving stone across long distances, potentially reshaping what we know about our evolutionary roots. 
+
+<br> 
+
+<https://www.404media.co/a-new-discovery-might-have-just-rewritten-human-history/>
+
+---
+
+## Behind the Blog: Exercises in OSINT and Storage Pains
+
+date: 2025-08-15, from: 404 Media Group
+
+This week, we discuss OSINT for chat groups, Russell Crowe films, and storage problems. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-exercises-in-osint-and-storage-pains/>
+
+---
+
+## A New Blue Box Theory
+
+date: 2025-08-15, updated: 2025-08-15, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/08/15/mailbox-answers/>
+
+---
+
+## Open weight LLMs exhibit inconsistent performance across providers
+
+date: 2025-08-15, updated: 2025-08-15, from: Simon Willison’s Weblog
+
+<p>Artificial Analysis published <a href="https://artificialanalysis.ai/models/gpt-oss-120b/providers#aime25x32-performance-gpt-oss-120b">a new benchmark</a> the other day, this time focusing on how an individual model - OpenAI’s gpt-oss-120b - performs across different hosted providers.</p>
+<p>The results showed some surprising differences. Here's the one with the greatest variance, a run of the 2025 AIME (American Invitational Mathematics Examination) averaging 32 runs against each model, using gpt-oss-120b with a reasoning effort of "high":</p>
+<p><img src="https://static.simonwillison.net/static/2025/aim25x32-gpt-oss-120b.jpg" alt="Performance benchmark chart showing AIME25x32 Performance for gpt-oss-120B model across different AI frameworks. Chart displays box plots with percentile ranges (Min, 25th, Median, 75th, Max) for each framework. Title: &quot;AIME25x32 Performance: gpt-oss-120B&quot; with subtitle &quot;AIME 2025 N=32 Runs: Minimum, 25th Percentile, Median, 75th Percentile, Maximum (Higher is Better)&quot;. Legend indicates &quot;Median; other points represent Min, 25th, 75th percentiles and Max respectively&quot;. Y-axis ranges from 0 to 1.2. Frameworks shown from left to right: Cerebras (93.3%), Nebius Base (93.3%), Fireworks (93.3%), Deepinfra (93.3%), Novita (93.3%), Together.ai (93.3%), Parasail (90.0%), Groq (86.7%), Amazon (83.3%), Azure (80.0%), CompectAI (36.7%). Watermark shows &quot;Artificial Analysis&quot; logo." style="max-width: 100%;" /></p>
+<p>These are some varied results!</p>
+<ul>
+<li>93.3%: Cerebras, Nebius Base, Fireworks, Deepinfra, Novita, Together.ai, vLLM 0.1.0</li>
+<li>90.0%: Parasail</li>
+<li>86.7%: Groq</li>
+<li>83.3%: Amazon</li>
+<li>80.0%: Azure</li>
+<li>36.7%: CompactifAI</li>
+</ul>
+<p>It looks like most of the providers that scored 93.3% were running models using the latest <a href="https://github.com/vllm-project/vllm">vLLM</a> (with the exception of Cerebras who I believe have their own custom serving stack).</p>
+<p>I hadn't heard of CompactifAI before - I found <a href="https://www.hpcwire.com/off-the-wire/multiverse-computing-closes-e189m-series-b-to-scale-compactifai-deployment/">this June 12th 2025 press release</a> which says that "CompactifAI models are highly-compressed versions of leading open source LLMs that retain original accuracy, are 4x-12x faster and yield a 50%-80% reduction in inference costs" which helps explain their notably lower score!</p>
+<p>Microsoft Azure's Lucas Pickup <a href="https://x.com/lupickup/status/1955620918086226223">confirmed</a> that Azure's 80% score was caused by running an older vLLM, now fixed:</p>
+<blockquote>
+<p>This is exactly it, it’s been fixed as of yesterday afternoon across all serving instances (of the hosted 120b service). Old vLLM commits that didn’t respect reasoning_effort, so all requests defaulted to medium.</p>
+</blockquote>
+<p>No news yet on what went wrong with the AWS Bedrock version.</p>
+<h4 id="the-challenge-for-customers-of-open-weight-models">The challenge for customers of open weight models</h4>
+<p>As a customer of open weight model providers, this really isn't something I wanted to have to think about!</p>
+<p>It's not really a surprise though. When running models myself I inevitably have to make choices - about which serving framework to use (I'm usually picking between GGPF/llama.cpp and MLX on my own Mac laptop) and the quantization size to use.</p>
+<p>I know that quantization has an impact, but it's difficult for me to quantify that effect.</p>
+<p>It looks like with hosted models even knowing the quantization they are using isn't necessarily enough information to be able to predict that model's performance.</p>
+<p>I see this situation as a general challenge for open weight models. They tend to be released as an opaque set of model weights plus loose instructions for running them on a single platform - if we are lucky! Most AI labs leave quantization and format conversions to the community and third-party providers.</p>
+<p>There's a lot that can go wrong. Tool calling is particularly vulnerable to these differences - models have been trained on specific tool-calling conventions, and if a provider doesn't get these exactly right the results can be unpredictable but difficult to diagnose.</p>
+<p>What would help <em>enormously</em> here would be some kind of conformance suite. If models were reliably deterministic this would be easy: publish a set of test cases and let providers (or their customers) run those to check the model's implementation.</p>
+<p>Models aren't deterministic though, even at a temperature of 0. Maybe this new effort from Artificial Analysis is exactly what we need here, especially since running a full benchmark suite against a provider can be quite expensive in terms of token spend.</p>
+<p><strong>Update</strong>: <a href="https://x.com/DKundel/status/1956395988836368587">Via OpenAI's Dominik Kundel</a> I learned that OpenAI now include a <a href="https://github.com/openai/gpt-oss/tree/main/compatibility-test">compatibility test</a> in the gpt-oss GitHub repository to help providers verify that they have implemented things like tool calling templates correctly, described in more detail in their <a href="https://cookbook.openai.com/articles/gpt-oss/verifying-implementations">Verifying gpt-oss implementations</a> cookbook.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/gpt-oss">gpt-oss</a>, <a href="https://simonwillison.net/tags/artificial-analysis">artificial-analysis</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/15/inconsistent-performance/#atom-everything>
+
+---
+
+## New Vaccines Target Dementia Risk
+
+date: 2025-08-15, from: Guy Kawasaki blog
+
+Anand Kumar, Professor and Department Head of Psychiatry, University of Illinois. Jalees Rehman, Department Chair and Professor of Biochemistry and Molecular Genetics, University of Illinois. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/new-vaccines-target-dementia-risk>
+
+---
+
+## GPD MicroPC handheld computer now available for pre-order with Intel N250 or Core i3-N300 processor options
+
+date: 2025-08-15, from: Liliputing
+
+<p>The GPD MicroPC 2 is a portable computer that looks like a tiny laptop, but it&#8217;s really designed to be held in your hands so you can use your thumbs to type. With a 7 inch, 1080p touchscreen display and a processor based on Intel Alder Lake-N architecture, it&#8217;s a big upgrade over the original GPD [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-micropc-handheld-computer-now-available-for-pre-order-with-intel-n250-or-core-i3-n300-processor-options/">GPD MicroPC handheld computer now available for pre-order with Intel N250 or Core i3-N300 processor options</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-micropc-handheld-computer-now-available-for-pre-order-with-intel-n250-or-core-i3-n300-processor-options/>
+
+---
+
+## Quoting Steve Wozniak
+
+date: 2025-08-15, updated: 2025-08-15, from: Simon Willison’s Weblog
+
+<blockquote cite="https://slashdot.org/comments.pl?sid=23765914&amp;cid=65583466"><p>I gave all my Apple wealth away because wealth and power are not what I live for. I have a lot of fun and happiness. I funded a lot of important museums and arts groups in San Jose, the city of my birth, and they named a street after me for being good. I now speak publicly and have risen to the top. I have no idea how much I have but after speaking for 20 years it might be $10M plus a couple of homes. I never look for any type of tax dodge. I earn money from my labor and pay something like 55% combined tax on it. I am the happiest person ever. Life to me was never about accomplishment, but about Happiness, which is Smiles minus Frowns. I developed these philosophies when I was 18-20 years old and I never sold out.</p></blockquote>
+<p class="cite">&mdash; <a href="https://slashdot.org/comments.pl?sid=23765914&amp;cid=65583466">Steve Wozniak</a>, in a comment on Slashdot</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/careers">careers</a>, <a href="https://simonwillison.net/tags/slashdot">slashdot</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Aug/15/steve-wozniak/#atom-everything>
+
+---
+
+## See What Others Miss: The Prof G Storytelling Playbook
+
+date: 2025-08-15, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>One query I get often is “What class/skill would you suggest our kids take/learn to compete in the modern economy?” A few years ago, people expected me to say STEM, or make the contrarian case for a liberal arts education. Today, the expectation is AI. But my answer remains unchanged: To be successful, master storytelling. [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/see-what-others-miss-the-prof-g-storytelling-playbook/">See What Others Miss: The Prof G Storytelling Playbook</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/see-what-others-miss-the-prof-g-storytelling-playbook/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-15, from: Robert's feed at BlueSky)
+
+This is an interesting approach to search and aggregation. https://alexschroeder.ch/view/2025-08-15-xobaque 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lwh636nuis2f>
+
+---
+
+## Libre Computer is making compute module versions of its latest Amlogic single-board computers
+
+date: 2025-08-15, from: Liliputing
+
+<p>Libre Computer has revealed that its working on new compute modules that use the same form factor as Raspberry Pi&#8217;s CM4 and CM5, although there are a few differences in the pin layout, so it&#8217;s unclear if they&#8217;ll work with the same carrier boards. But Libre Computer says its coming modules are more energy-efficient thanks [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/libre-computer-is-making-compute-module-versions-of-its-latest-amlogic-single-board-computers/">Libre Computer is making compute module versions of its latest Amlogic single-board computers</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/libre-computer-is-making-compute-module-versions-of-its-latest-amlogic-single-board-computers/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-08-15, from: Robert's feed at BlueSky)
+
+Worth reading and if necessary repeating. https://robertreich.substack.com/p/if-democrats-got-off-their-asses 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lwh3nm32lc2f>
+
+---
+
+## Pentagon Funded Experiment Develops Robots that Change by ‘Consuming’ Other Robots
+
+date: 2025-08-15, from: 404 Media Group
+
+Researchers say this 'robot metabolism' is an early step in giving AI biological style bodies. 
+
+<br> 
+
+<https://www.404media.co/pentagon-funded-experiment-develops-robots-that-change-by-consuming-other-robots/>
 
 ---
 
@@ -42,6 +343,18 @@ Mainstream economists&#8217; critiques of Trump were right
 <br> 
 
 <https://bsky.app/profile/rsdoiel.bsky.social/post/3lwg3uih2ys2u>
+
+---
+
+## Olympic Grand Loop (Deer Park Loop)
+
+date: 2025-08-15, updated: 2025-08-15, from: Educated Guesswork blog
+
+ 
+
+<br> 
+
+<https://educatedguesswork.org/posts/grand-loop/>
 
 ---
 

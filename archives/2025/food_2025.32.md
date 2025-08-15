@@ -1,15 +1,79 @@
 ---
 title: food
-updated: 2025-08-15 06:10:04
+updated: 2025-08-15 14:08:08
 ---
 
 # food
 
-(date: 2025-08-15 06:10:04)
+(date: 2025-08-15 14:08:08)
 
 ---
 
-## All the Recipes From Bon Appétit’s Sports Issue
+## Elise Jesse’s Pineapple Habanero Dip
+
+date: 2025-08-15, from: Taste of Home
+
+This sweet and spicy pineapple habanero dip is a dupe for the popular Costco dip that's only sold in the summertime. Over here, we think this dip should be served all year long, so I had to recreate it. It’s a bold and creamy blend that’s perfect for parties, game days or any time you’re craving something with a kick to snack on. Fresh pineapple brings tropical brightness, while fiery habanero peppers add just the right amount of heat. Serve this dip warm with pita chips or veggies. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/elise-jesse-pineapple-habanero-dip/>
+
+---
+
+## I Tried Glorified Rice, a Completely Forgotten Vintage Dessert Recipe
+
+date: 2025-08-15, from: Taste of Home
+
+<p>Glorified rice, popular from the 1930s through the 1970s, turns a typically savory starch into a sweet pineapple and marshmallow dessert.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/glorified-rice/">I Tried Glorified Rice, a Completely Forgotten Vintage Dessert Recipe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/glorified-rice/>
+
+---
+
+## Coffee Can Interfere With Your Medication — Here’s What You Need to Know
+
+date: 2025-08-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-and-medication-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee and medication" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-and-medication-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-and-medication-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-and-medication-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-and-medication-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/06/coffee-and-medication.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>For many of us, the day doesn’t start until we’ve had our first cup of coffee. It’s comforting, energizing, and one of the most widely consumed beverages in the world.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/15/coffee-can-interfere-with-your-medication-heres-what-you-need-to-know/>
+
+---
+
+## 5 Ways to Use Freshly Roasted Hatch Chiles While They’re in Season
+
+date: 2025-08-15, from: Taste of Home
+
+<p>Now is the time to try roasted Hatch chiles. Fans wait all year for the short window in August when these New Mexican peppers are in season.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ways-to-use-freshly-roasted-hatch-chiles/">5 Ways to Use Freshly Roasted Hatch Chiles While They&#8217;re in Season</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ways-to-use-freshly-roasted-hatch-chiles/>
+
+---
+
+## Weekly Coffee News: Major Lawsuit Update + Auction Series Highlighting African Coffees
+
+date: 2025-08-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee growing" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-growing.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. D.C. Superior Court Gives Consumer Group a Win in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/08/15/weekly-coffee-news-major-lawsuit-update-auction-series-highlighting-african-coffees/>
+
+---
+
+## All the Recipes From the "Bon Appétit" Sports Issue
 
 date: 2025-08-15, from: Bon Appetet
 
@@ -139,7 +203,7 @@ Like cold soba noodles and tomato aguachile.
 
 date: 2025-08-15, from: Bon Appetet
 
-Kristin Bryan and her team developed hundreds of recipes for the meal delivery service's overhaul. 
+Kristin Bryan and her team developed hundreds of recipes for the meal delivery service’s overhaul. 
 
 <br> 
 
@@ -259,7 +323,7 @@ date: 2025-08-14, from: Isebel Eats
 
 date: 2025-08-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="arabica coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As climate change throughout the tropics redraws the map of where the sensitive arabica species may be ideally grown, researchers in China recently set out to identify the most impactful... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="arabica coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/07/arabica-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As climate change throughout the tropics redraws the map of where the sensitive arabica species may be ideally grown, researchers in China recently set out to identify the most impactful... 
 
 <br> 
 
@@ -283,7 +347,7 @@ Meet Smith Island cake—a beloved Maryland dessert that's rooted in community a
 
 date: 2025-08-14, from: Daily Coffee News
 
-<div><img width="620" height="444" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-620x444.jpg" class="attachment-large size-large wp-post-image" alt="CTRL Z Coffee Chicago 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-620x444.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-300x215.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-768x549.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; The first brick-and-mortar coffee shop by roaster CTRL Z Coffee is now open on Chicago&#8217;s South Side, keying deeply into the coffees and flavors of the Philippines. Inside the... 
+<div><img width="620" height="444" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-620x444.jpg" class="attachment-large size-large wp-post-image" alt="CTRL Z Coffee Chicago 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-620x444.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-300x215.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1-768x549.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/CTRL-Z-Coffee-Chicago-1-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; The first brick-and-mortar coffee shop by roaster CTRL Z Coffee is now open on Chicago&#8217;s South Side, keying deeply into the coffees and flavors of the Philippines. Inside the... 
 
 <br> 
 
@@ -397,7 +461,7 @@ date: 2025-08-14, from: Taste of Home
 
 date: 2025-08-13, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dollar General recall" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Discount retail giant Dollar General announced a voluntary nationwide recall of three lots of its private-label instant coffee products due to potential glass contamination. The recall affects 8-ounce containers of... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Dollar General recall" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Dollar-General.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Discount retail giant Dollar General announced a voluntary nationwide recall of three lots of its private-label instant coffee products due to potential glass contamination. The recall affects 8-ounce containers of... 
 
 <br> 
 

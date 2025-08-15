@@ -1,11 +1,238 @@
 ---
 title: columns
-updated: 2025-08-15 06:10:00
+updated: 2025-08-15 14:08:01
 ---
 
 # columns
 
-(date: 2025-08-15 06:10:00)
+(date: 2025-08-15 14:08:01)
+
+---
+
+## Linux is about to lose a feature – over a personality clash
+
+date: 2025-08-15, updated: 2025-08-15, from: Liam Proven's articles at the Register
+
+<h4><span class="label">comment</span> A large and unfortunate mistake in the kernel development management process is underway</h4>
+      <p>The first release candidate of Linux 6.17 is out, without any bcachefs changes… but not for any technical reasons. This is bad.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/sad_end_of_bcachefs/>
+
+---
+
+## Just a Little More Context Bro, I Promise, and It’ll Fix Everything
+
+date: 2025-08-15, from: Jim Nielsen blog
+
+<p>Conrad Irwin has an article on the Zed blog <a href="https://zed.dev/blog/why-llms-cant-build-software" >“Why LLMs Can&#39;t Really Build Software”</a>. He says it boils down to:</p>
+<blockquote>
+<p>the distinguishing factor of effective engineers is their ability to build and maintain clear mental models</p>
+</blockquote>
+<p>We do this by:</p>
+<ul>
+<li>Building a mental model of what <em>you want</em> to do</li>
+<li>Building a mental model of what the <em>code does</em></li>
+<li>Reducing the difference between the two</li>
+</ul>
+<p>It’s kind of an interesting observation about how we (as humans)  problem solve vs. how we use LLMs to problem solve:</p>
+<ul>
+<li>With LLMs, you stuff more and more information into context until it (hopefully) has enough to generate a solution.</li>
+<li>With your brain, you tweak, revise, or simplify your mental model more and more until the solution presents itself.</li>
+</ul>
+<p>One adds information — complexity you might even say — to solve a problem. The other eliminates it.</p>
+<p>You know what that sort of makes me think of? NPM driven development.</p>
+<p>Solving problems with LLMs is like solving front-end problems with NPM: the “solution” comes through installing more and more things — adding more and more context, i.e. more and more packages.</p>
+<ul>
+<li>LLM: Problem? Add more context. </li>
+<li>NPM: Problem? There’s a package for that.</li>
+</ul>
+<p>Contrast that with a solution that comes through simplification. You don’t add more context. You simplify your mental model so you need less to solve a problem — if you solve it at all, perhaps you eliminate the problem entirely!</p>
+<p>Rather than install another package to fix what ails you, you simplify your mental model which often eliminates the problem you had in the first place; thus eliminating the need to solve any problem at all, or to add any additional context or complexity (or dependency).</p>
+<p>As I’m typing this, I’m thinking of that image of the evolution of the Raptor engine, where it evolved in simplicity:</p>
+<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/more-context-bro-rocket-1.jpg" width="540" height="339" alt="Photograph of three versions of the raptor engine, each one getting progressively simplified in mechanical parts." />
+
+</p><p>This stands in contrast to my working with LLMs, which often wants more and more context from me to get to a generative solution:</p>
+<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/more-context-bro-rocket-2.jpg" width="540" height="339" alt="Photograph of three versions of the raptor engine, but the image is reversed showing the engine get progressively complicated in mechanical parts over time. Each engine represents an LLM prompt." />
+
+</p><p>I know, I know. There’s probably a false equivalence here. This entire post started as <a href="https://notes.jim-nielsen.com" >a note</a> and I just kept going. This post itself needs further thought and simplification. But that’ll have to come in a subsequent post, otherwise this never gets published lol.</p>
+
+    <hr />
+    
+
+    <p>
+      Reply via:
+      
+
+      <a
+        href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/more-context-bro/"
+        >Email</a
+      >
+      · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+
+      <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+    </p> 
+
+<br> 
+
+<https://blog.jim-nielsen.com/2025/more-context-bro/>
+
+---
+
+## 2025-08-15 The liberal democrats in Switzerland
+
+date: 2025-08-15, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-15-the-liberal-democrats-in-switzerland">2025-08-15 The liberal democrats in Switzerland</h1>
+
+<p>One of the founding parties of the current state are the liberal democrats. My limited understanding of the situation is that they were all about liberty – against the ancient régime (the semi-feudal system before Napoleon and the French revolution helped us get rid of them) and against the church. My wife still remembers the small-scale feuding betweens catholics and protestants. My father in law still remembers that uneasy peace: going to school as a protestant in a mostly catholic village. His father was very much engaged in that struggle against the powers of the church.</p>
+
+<p>These days, those battles are no longer that important. And so the liberal democrats turned to economic freedom. They turned into the part of bankers and industrialist. They rode that neoliberal devil. And now as it is faltering, a new change is afoot. Sadly, when they last looked for leadership, the only candidate who stood up was a xenophobe. But we already have a party of racists! The Swiss people&rsquo;s party. These people were originally more of a farmer&rsquo;s party but under the influence of billionaire Blocher they also rode that neoliberal horse. Down with taxes! Up with the banks! Down with regulation! Down with the European Union! Yeah, Blocher was a good demagogue.</p>
+
+<p>The liberal democrats liked what they heard about taxes and didn&rsquo;t mind kicking out foreigners and so they worked together. But you know how it is: When in doubt, people prefer the clearer message. And on the non-demagoguery front, there was a strange thing that happened with the Green party. Like in many places, they had a left wing and a right wing. And their differences became so large, that the split! The Greens are now &ldquo;melon green&rdquo;: green on the outside and red on the inside. They work well with the socialists. The right wingers were the green liberals. The rational voice calling for a lowering of taxes.</p>
+
+<p>A while ago there was a session of the liberal democrats where one of the delegates present was muttering against some decisions in favour of the environment. &ldquo;If we continue like this we might as well join the liberal greens!&rdquo;</p>
+
+<p>Ah, and that&rsquo;s the dilemma. Those who want less taxes and don&rsquo;t mind kicking foreigners around can join the Swiss people&rsquo;s party. Those who want less taxes and still save at least some of the planet can join the liberal greens.</p>
+
+<p>Naturally, one of the more famous members of the Anti-Vaccination party, whose star has not been rising in recent months, wants to join the liberal democrats again.</p>
+
+<p>That&rsquo;s how far this party has fallen.</p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-15-fdp>
+
+---
+
+## 2025-08-15 An opt-in search engine: Xobaque
+
+date: 2025-08-15, from: Alex Schroeder's Blog
+
+<h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
+
+<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web.
+I called it <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a>.
+You can test it <a href="http://search.transjovian.org/search">here</a>.
+(I&rsquo;m currently having problems with Let&rsquo;s Encrypt and therefore this is HTTP only, for the moment.)</p>
+
+<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
+
+<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
+
+<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
+
+<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
+
+<p>Here are some examples of how to use this in a script.</p>
+
+<p>My homepage:</p>
+
+<pre><code>#!/usr/bin/fish
+cd /home/alex/alexschroeder.ch/wiki
+for line in (/home/oddmu/oddmu list)
+  set --local info (string split &quot;	&quot; $line)
+  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
+  set --local title $info[2]
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://alexschroeder.ch/view/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;$name.md&quot;
+end
+</code></pre>
+
+<p>(The index file grows from nearly zero to about 40M.)</p>
+
+<p>Emacs Wiki:</p>
+
+<pre><code>#!/usr/bin/fish
+for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
+  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
+  set --local title (string replace '_' ' ' $name)
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://www.emacswiki.org/emacs/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;/home/alex/emacswiki/git/$name&quot;
+end
+</code></pre>
+
+<p>(The index file grows from about 40M to 290M.)</p>
+
+<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
+
+<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
+
+<p><strong>2025-08-15</strong>. I have that vague idea that it would process OPML files like the <a href="https://planet.emacslife.com/opml.xml">Planet Emacslife OPML</a> or the three RPG Planet OPML files, <a href="https://campaignwiki.org/rpg/indie.opml">Indie</a>, <a href="https://campaignwiki.org/rpg/osr.opml">OSR</a> and <a href="https://campaignwiki.org/rpg/other.opml">Other</a>. From the OPML files Xobaque would know a bunch of feeds which it could then use for updates. I have written <a href="https://src.alexschroeder.ch/planet-jupiter.git/">Planet Jupiter</a>, so I know that from 80% to 90% is handling blogs that are down and from 90% to 100% it&rsquo;s all about fiddling with the markup… There&rsquo;s also the question of consent. So perhaps one would have to start a new list of feeds for those people who explicitly consent. And if by chance that covers all the feeds on Planet Emacslife or RPG Planet that&rsquo;d be a reason to laugh and party! 🎉</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-08-15-xobaque>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-15, from: Dave Winer's Scripting News)
+
+The big corner-turn is working. Here's a <a href="https://github.com/scripting/Scripting-News/issues/326">screen shot</a>. 
+
+<br> 
+
+<http://scripting.com/2025/08/15.html#a173245>
+
+---
+
+## Questions
+
+date: 2025-08-15, from: Doc Searls (at Harvard), New Old Blog
+
+What does the Internet make of us? was hard to find until I found it. Now it&#8217;s easy to find. What did Google learn, and how did it learn it? The law professors to whom I made The Case for MyTerms two weeks ago seemed to buy it. What, if anything, will happen next? When I read The [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/08/15/questions/>
+
+---
+
+## Woz: ‘I Am the Happiest Person Ever’
+
+date: 2025-08-15, updated: 2025-08-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-08-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/08/15/highwireact.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I like documentaries about climbing Mt Everest, but I absolutely hate watching people climb <a href="https://en.wikipedia.org/wiki/El_Capitan">El Capitan</a>. Then I realized that sometimes in software I'm climbing a cliff that's too tall to climb in one session, so I have to carry a tent and backpack with food and water. I hate this kind of programming more than anything, because it comes from not having a high-level enough runtime to support me in big corner turns. Or not having invested enough time in creating a layer I can build on. Anyway I'm in the middle of one of those corner-turns now. Hell has not broken loose although at times it looks like it might have. I'm being sure not to create another mess that needs to be cleaned up in the future. Not stressful, but I'd rather be doing anything but this. :-) 
+
+<br> 
+
+<http://scripting.com/2025/08/15.html#a151159>
+
+---
+
+## Asmi Linux 13 Debian Edition debuts: Xfce desktop never looked so good
+
+date: 2025-08-15, updated: 2025-08-15, from: Liam Proven's articles at the Register
+
+<h4>TeejeeTech takes Trixie, adds considerably more polish, yet comes in lighter</h4>
+      <p>Teejeetech turns its attention from Ubuntu to its progenitor. The result is a refined and attractive spin of Debian with Xfce.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/asmi_13_debian_edition/>
 
 ---
 
@@ -60,73 +287,6 @@ date: 2025-08-15, updated: 2025-08-14, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html>
-
----
-
-## 2025-08-15 An opt-in search engine: Xobaque
-
-date: 2025-08-15, from: Alex Schroeder's Blog
-
-<h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
-
-<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web called <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a>. You can test it <a href="http://search.transjovian.org/search">here</a>.
-(I&rsquo;m currently having problems with Let&rsquo;s Encrypt and therefore this is HTTP only, for the moment.)</p>
-
-<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
-
-<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
-
-<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
-
-<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
-
-<p>Here are some examples of how to use this in a script.</p>
-
-<p>My homepage:</p>
-
-<pre><code>#!/usr/bin/fish
-cd /home/alex/alexschroeder.ch/wiki
-for line in (/home/oddmu/oddmu list)
-  set --local info (string split &quot;	&quot; $line)
-  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
-  set --local title $info[2]
-  /home/xobaque/xobaque upload \
-    -db &quot;/home/xobaque/index.db&quot; \
-    -base &quot;https://alexschroeder.ch/view/&quot; \
-    -local &quot;$name&quot; \
-    -title &quot;$title&quot; \
-    -filename &quot;$name.md&quot;
-end
-</code></pre>
-
-<p>(The index file grows from nearly zero to about 40M.)</p>
-
-<p>Emacs Wiki:</p>
-
-<pre><code>#!/usr/bin/fish
-for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
-  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
-  set --local title (string replace '_' ' ' $name)
-  /home/xobaque/xobaque upload \
-    -db &quot;/home/xobaque/index.db&quot; \
-    -base &quot;https://www.emacswiki.org/emacs/&quot; \
-    -local &quot;$name&quot; \
-    -title &quot;$title&quot; \
-    -filename &quot;/home/alex/emacswiki/git/$name&quot;
-end
-</code></pre>
-
-<p>(The index file grows from about 40M to 290M.)</p>
-
-<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
-
-<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
-
-<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-08-15-xobaque>
 
 ---
 
@@ -391,7 +551,7 @@ date: 2025-08-14, updated: 2025-08-14, from: Jason Kittke's blog
 
 date: 2025-08-14, from: Doc Searls (at Harvard), New Old Blog
 
-We know more than we can tell. That was how Michael Polanyi distinguished between tacit and explicit knowing. We may know tacitly how we form speech, ride a bike, or sense when to shake hands with someone, or hug them. But we can&#8217;t explain all the signals and mechanisms involved. Not exactly. In the natural [&#8230;] 
+We know more than we can tell. That was how Michael Polanyi distinguished between tacit and explicit knowing. We may know tacitly how we form speech, ride a bike, or sense when to shake hands with someone, or hug them. But we can&#8217;t explain all the signals and mechanisms involved. Not explicitly. In the natural [&#8230;] 
 
 <br> 
 

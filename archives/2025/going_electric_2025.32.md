@@ -1,11 +1,211 @@
 ---
 title: going electric
-updated: 2025-08-15 06:10:04
+updated: 2025-08-15 14:08:07
 ---
 
 # going electric
 
-(date: 2025-08-15 06:10:04)
+(date: 2025-08-15 14:08:07)
+
+---
+
+## Used Honda Prologue EVs are selling faster than expected
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> is a surprise hit. It was the second-best-selling electric SUV behind the Tesla Model Y in the second half of 2024. Now, used models are in high demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="429993" href="https://electrek.co/2025/08/15/used-honda-prologue-evs-selling-faster-than-expected/#more-429993" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/used-honda-prologue-evs-selling-faster-than-expected/>
+
+---
+
+## Refuse revolution: Republic deploys Mack LR Electric garbage trucks in Chicago
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/republic_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The waste management experts at Republic Services are committed to cleaning up the Chicagoland area — and now, that includes the air Chicagoans breathe, thanks to the deployment of new Mack LR Electric garbage trucks in the heart of America’s Second City.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-garbage-truck,mack-trucks" data-layer-viewtype="unknown" data-post-id="430006" href="https://electrek.co/2025/08/15/refuse-revolution-republic-deploys-mack-lr-electric-garbage-trucks-in-chicago/#more-430006" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/refuse-revolution-republic-deploys-mack-lr-electric-garbage-trucks-in-chicago/>
+
+---
+
+## You Need Way Less Range Than You Think
+
+date: 2025-08-15, from: Inside EVs News
+
+Do you actually need 300 or 400 miles of EV range? Research says not really—and that means moving off gas may be easier than you think. 
+
+<br> 
+
+<https://insideevs.com/news/769149/ev-range-study-how-much-do-you-need/>
+
+---
+
+## Podcast: Tesla FSD update, Ford’s Universal EV platform, Acura RSX, and more
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s upcoming FSD update, Ford’s Universal EV platform, the new Acura NSX, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="429942" href="https://electrek.co/2025/08/15/podcast-tesla-fsd-update-fords-universal-ev-platform-acura-nsx-and-more/#more-429942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/podcast-tesla-fsd-update-fords-universal-ev-platform-acura-nsx-and-more/>
+
+---
+
+## Fast charge your EV while grabbing Royal Farms fried chicken
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/1287-2025-33-electrify-america-pr-1920x1080-v002.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Electrify America is teaming up with Royal Farms to bring “Hyper-Fast” EV charging to eight of the convenience store chain’s Maryland locations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,electrify-america,ev-charging,ev-charging-stations,maryland" data-layer-viewtype="unknown" data-post-id="429995" href="https://electrek.co/2025/08/15/fast-charge-your-ev-while-grabbing-royal-farms-fried-chicken/#more-429995" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/fast-charge-your-ev-while-grabbing-royal-farms-fried-chicken/>
+
+---
+
+## Velotric’s new Fold 1 Plus and Nomad 2X e-bikes bundled with EcoFlow power stations at up to $370 off, Linkind solar lights, and much more
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Velotric-Fold-1-Plus-e-bike-with-EcoFlow-DELTA-2-Power-Station.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’re closing out this week’s Green Deals with a more sizeable edition of eight top-notch chances at savings, headlined by the newly launched <a href="https://9to5toys.com/2025/08/15/velotric-e-bikes-with-ecoflow-power-stations-from-1828-more/">Velotric Last Call Summer Sale</a> that features a partnership with EcoFlow for some EV and power station bundles, alongside EV-only deals. The main standouts are the new <a href="https://9to5toys.com/2025/08/15/velotric-e-bikes-with-ecoflow-power-stations-from-1828-more/">Fold 1 Plus e-bike coming with a DELTA 2 Power Station starting from $1,828</a>, while the new <a href="https://9to5toys.com/2025/08/15/velotric-e-bikes-with-ecoflow-power-stations-from-1828-more/">Nomad 2X Full Suspension e-bike gets a DELTA 3 Plus Power Station starting from $2,948</a>. From there, we also have the first discount on <a href="https://9to5toys.com/2025/08/14/first-discount-linkind-14-pack-smart-solar-spotlights-154/">Linkind’s new 14-pack of SL5C Smart Outdoor Solar Spotlights</a> that amount to <a href="https://9to5toys.com/2025/08/14/first-discount-linkind-14-pack-smart-solar-spotlights-154/">$11 per light</a>, as well as a rare return of the <a href="https://9to5toys.com/2025/08/15/greenworks-80v-venture-utility-e-bike-from-1425-low/">$1,425 low on Greenworks’ 80V Venture 20-inch All-Terrain Utility e-bike</a>. There are more power station sales from EcoFlow, Bluetti, and Jackery, as well as a massive lawn care price cut, and a value-packed electric cooler option waiting for you below. Plus, all the hangover savings are at the bottom of the page, like yesterday’s official <a href="https://9to5toys.com/2025/08/13/rad-power-radster-trail-radster-road-e-bike-price-cuts-1999/">Rad Power Radster e-bike price cuts</a>, the exclusive $250 savings on a <a href="https://9to5toys.com/2025/08/13/ecoflow-delta-3-plus-with-bag-exclusive-549/">DELTA 3 Plus bundle</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="429957" href="https://electrek.co/2025/08/15/velotric-fold-1-plus-and-nomad-2x-e-bikes-ecoflow-linkind-more/#more-429957" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/velotric-fold-1-plus-and-nomad-2x-e-bikes-ecoflow-linkind-more/>
+
+---
+
+## BYD opened China’s first all-terrain circuit and it’s like a massive playground for EVs
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/BYD-all-terrain-circuit-kick-plate.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD’s</a> new all-terrain circuit is the first of its kind in China, and it’s pretty wild. It’s more than a test track. The complex is essentially a playground for electric vehicles with indoor sand dunes, ice fields, off-road mountains, and high-speed racetracks. It even has a pool.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="429955" href="https://electrek.co/2025/08/15/byd-opens-chinas-first-all-terrain-circuit-a-playground-for-evs/#more-429955" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/byd-opens-chinas-first-all-terrain-circuit-a-playground-for-evs/>
+
+---
+
+## You May Reconsider Buying A Plug-In Hybrid After Watching This
+
+date: 2025-08-15, from: Inside EVs News
+
+Testing the efficiency of three versions of the same car had some pretty interesting results. 
+
+<br> 
+
+<https://insideevs.com/news/768520/gas-phev-ev-compared-efficiency/>
+
+---
+
+## Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla, Rivian, and other EV automakers in the US are seeing billions of dollars in revenue disappear as the US is officially ending the emission credit market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,tesla" data-layer-viewtype="unknown" data-post-id="429948" href="https://electrek.co/2025/08/15/tesla-rivian-others-see-billions-in-revenue-disappear-us-end-emission-credits/#more-429948" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/tesla-rivian-others-see-billions-in-revenue-disappear-us-end-emission-credits/>
+
+---
+
+## Ford, Chevrolet And Ram Have A Big EV Problem
+
+date: 2025-08-15, from: Inside EVs News
+
+Electric pickup trucks just aren't taking off. Plus: Tesla's doing well in Norway and Volkswagen hits an EV milestone.  
+
+<br> 
+
+<https://insideevs.com/news/769121/american-electric-pickup-truck-bust/>
+
+---
+
+## Lucid (LCID) promises to still offer the $7,500 EV credit for the Gravity SUV after the deadline
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Lucid-Gravity-EV-credit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although the $7,500 federal EV tax credit is set to expire at the end of September, <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) will continue offering it for its new Gravity SUV. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="429939" href="https://electrek.co/2025/08/15/lucid-lcid-extends-7500-ev-credit-offer-for-gravity-suv/#more-429939" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/lucid-lcid-extends-7500-ev-credit-offer-for-gravity-suv/>
+
+---
+
+## Florida rangers are now patrolling on electric bikes
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/florida-state-parks-rangers-velotric-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Florida’s State Parks are stepping up their environmental and operational game, introducing a large fleet of powerful electric bikes to support park ranger patrols.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="429871" href="https://electrek.co/2025/08/15/florida-rangers-are-now-patrolling-on-electric-bikes/#more-429871" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/florida-rangers-are-now-patrolling-on-electric-bikes/>
+
+---
+
+## Meet the Lucid Gravity X: The electric SUV turned all-terrain beast
+
+date: 2025-08-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/08/Lucid-Gravity-X.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid’s most adventurous vehicle has just arrived.  The <a href="https://electrek.co/guides/lucid-gravity/">Lucid Gravity</a> can drive 450 miles on a single charge, comfortably fits seven, and is faster than the average sports car. Lucid promises the new X concept takes the electric family hauler to a new level.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="429909" href="https://electrek.co/2025/08/15/lucid-gravity-x-electric-suv-turned-all-terrain-beast/#more-429909" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/08/15/lucid-gravity-x-electric-suv-turned-all-terrain-beast/>
 
 ---
 
@@ -17,7 +217,7 @@ date: 2025-08-15, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="429876" href="https://electrek.co/2025/08/15/wheel-e-podcast-bafang-automatic-shifting-motor-50-mph-scooter-more/#more-429876" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="429876" href="https://electrek.co/2025/08/15/wheel-e-podcast-bafang-automatic-shifting-motor-50-mph-scooter-more/#more-429876" class="more-link">more…</a> 
 
 <br> 
 
@@ -53,7 +253,7 @@ The long-roof electric Octavia will be previewed by a concept called the Vision 
 
 ---
 
-## This Is What The Lucid Gravity Looks Like As An Off-Roader
+## Lucid Gravity Gets Off-Road-Ready In This Compelling New Concept
 
 date: 2025-08-15, from: Inside EVs News
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-08-15 06:10:03
+updated: 2025-08-15 14:08:06
 ---
 
 # retro computing
 
-(date: 2025-08-15 06:10:03)
+(date: 2025-08-15 14:08:06)
+
+---
+
+## Bullfrog in the Dungeon
+
+date: 2025-08-15, from: Digital Antiquarian
+
+This article tells part of the story of Bullfrog Productions. In January of 1995, Electronic Arts bought the prestigious British games studio Bullfrog Productions for an undisclosed sum that was rumored to be in the neighborhood of $45 million. The lives of the 35 or so people who worked at Bullfrog were transformed overnight. Peter [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/>
 
 ---
 

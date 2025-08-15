@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2025-08-15 06:09:59
+updated: 2025-08-15 14:08:00
 ---
 
 # science and technology
 
-(date: 2025-08-15 06:09:59)
+(date: 2025-08-15 14:08:00)
+
+---
+
+## Rabbits With 'Horns' Seen in Colorado Are Going Viral. Here's What's Really Happening
+
+date: 2025-08-15, from: Smithsonian Magazine
+
+Though the strange growths on these animals may look intimidating, experts say there’s not much to worry about, and they're caused by a fairly common virus 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rabbits-with-horns-seen-in-colorado-are-going-viral-heres-whats-really-happening-180987195/>
+
+---
+
+## Blockwurst ruling: German court says ad blockers’ code-tweaks could pose copyright problem
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Could tinkering with a site’s code to hide ads count as infringement?</h4> <p>A recent ruling by the German Federal Court of Justice (BGH) has reopened the possibility that using ad blocking software could violate copyright law in Germany.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/german_court_ruling_ad_blocking/>
+
+---
+
+## NASA-Developed Printable Metal Can Take the Heat
+
+date: 2025-08-15, from: NASA breaking news
+
+Until now, additive manufacturing, commonly known as 3D printing, of engine components was limited by the lack of affordable metal alloys that could withstand the extreme temperatures of spaceflight. Expensive metal alloys were the only option for 3D printing engine parts until NASA’s Glenn Research Center in Cleveland, Ohio, developed the GRX-810 alloy. The primary [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-developed-printable-metal-can-take-the-heat/>
+
+---
+
+## Italy Plans World's Longest Suspension Bridge to Connect Mainland With Sicily
+
+date: 2025-08-15, from: Smithsonian Magazine
+
+The bridge, expected to cost more than $15 billion, would stretch more than two miles across the Messina Strait 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/italy-plans-worlds-longest-suspension-bridge-to-connect-mainland-with-sicily-180987164/>
+
+---
+
+## Ethernet switch vendors like Cisco are riding high on AI network economics
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>When one GPU translates into three to five of the fastest switch ports money can buy, can you blame them?</h4> <p>Nvidia is expected to ship somewhere north of 5 million Blackwell GPUs in 2025. But before those GPUs can train the next GPT, Gemini, or Llama, they need to be networked — and that&#39;s quickly becoming big business for Ethernet switch vendors like Cisco, Arista, HPE ... and Nvidia itself.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/ethernet_ai_gpus/>
+
+---
+
+## Science Fiction? Think Again. Scientists Are Learning How to Decode Inner Thoughts
+
+date: 2025-08-15, from: Smithsonian Magazine
+
+A brain-computer interface has gotten better than ever before at translating thoughts from people with speech difficulties. Researchers are also thinking through how to protect users’ privacy 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/science-fiction-think-again-scientists-are-learning-how-to-decode-inner-thoughts-180987194/>
+
+---
+
+## Linux is about to lose a feature – over a personality clash
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>A large and unfortunate mistake in the kernel development management process is underway</h4> <p><strong>comment</strong>  The first release candidate of Linux 6.17 is out, without any bcachefs changes… but not for any technical reasons. This is bad.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/sad_end_of_bcachefs/>
+
+---
+
+## Human Rating and NASA-STD-3001
+
+date: 2025-08-15, from: NASA breaking news
+
+Human-rating&#160;is a critical certification process that validates the safety, reliability, and suitability of space systems—including orbiters, launch vehicles, rovers, spacesuits, habitats, and other crewed elements—for human use and interaction. This process ensures that systems are designed not only to protect human life but also to accommodate human needs and effectively integrate human capabilities. Human-rating requires [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/human-rating-and-nasa-std-3001/>
+
+---
+
+## NASA Astronauts to Answer Questions from Students in Minnesota
+
+date: 2025-08-15, from: NASA breaking news
+
+NASA astronauts Michael Fincke and Zena Cardman will connect with students in Minnesota as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions aboard the International Space Station. The Earth-to-space call will begin at 11 a.m. EDT on Wednesday, Aug. 20, and will stream live on the agency’s Learn With NASA YouTube channel. Media [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-minnesota/>
+
+---
+
+## Cisco's Secure Firewall Management Center now not-so secure, springs a CVSS 10 RCE hole
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Switchzilla&#39;s summer of perfect 10s</h4> <p>Cisco has issued a patch for a maximum-severity bug in its Secure Firewall Management Center (FMC) software that could allow an unauthenticated, remote attacker to inject arbitrary shell commands on vulnerable systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/cisco_secure_firewall_management_bug/>
+
+---
+
+## FBI Returns Long-Lost Manuscript Signed by Hernán Cortés in 1527 to Mexico's National Archives
+
+date: 2025-08-15, from: Smithsonian Magazine
+
+The document, which vanished decades ago, includes logistical details linked to the travels of the Spanish conquistador, who had conquered the Aztec Empire several years earlier 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/fbi-returns-long-lost-manuscript-signed-by-hernan-cortes-in-1527-to-mexicos-national-archives-180987191/>
+
+---
+
+## Countdown to Space Station’s Silver Jubilee with Silver Research
+
+date: 2025-08-15, from: NASA breaking news
+
+This November marks a quarter century of continuous human presence aboard the International Space Station, which has served as a springboard for developing a low Earth economy and NASA’s next great leaps in exploration, including human missions to the Moon and Mars. To kick off the orbiting laboratory’s silver 25th anniversary countdown, here are a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/countdown-to-space-stations-silver-jubilee-with-silver-research/>
+
+---
+
+## Reckon you can put a nuclear reactor on the Moon?
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>You have until Thursday August 21 to respond if you do</h4> <p>NASA&#39;s plans to put a nuclear reactor on the Moon have moved on – the agency has now put out a Request For Information (RFI) to gauge industry interest in the project.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/nuclear_moon/>
+
+---
+
+## A Lock of Braided Human Hair Could Change How We Think About Inca Society and Record-Keeping
+
+date: 2025-08-15, from: Smithsonian Magazine
+
+The khipu knot-tying system was thought to have only been used by elites, but one artifact suggests commoners, too, knew how to use it 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-lock-of-braided-human-hair-could-change-how-we-think-about-inca-society-and-record-keeping-180987187/>
+
+---
+
+## Spacewalk Pop-Up
+
+date: 2025-08-15, from: NASA breaking news
+
+Former NASA astronaut Shane Kimbrough is photographed as he left the airlock hatch during a spacewalk on Jan. 13, 2017. Kimbrough performed nine spacewalks during his three spaceflights. He retired in July 2022. Astronauts conduct spacewalks to perform maintenance on the space station, install new equipment, or deploy science experiments. These activities also inform future missions [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/spacewalk-pop-up/>
+
+---
+
+## “AI” is the endgame for totalitarians
+
+date: 2025-08-15, from: OS News
+
+We removed ads from OSNews. Donate to our fundraiser to ensure our future! An internal Meta Platforms document detailing policies on chatbot behavior has permitted&#160;the company’s artificial intelligence&#160;creations to “engage a child in conversations that are romantic or sensual,” generate false medical information and help users argue that Black people are “dumber than white people.” These and other findings emerge from a Reuters review of the Meta document, which discusses the standards that guide its generative AI assistant,&#160;Meta AI, and chatbots available on Facebook, WhatsApp and Instagram, the company’s social-media platforms. ↫ Jeff Horwitz at Reuters The only way one can describe the examples of allowed behaviour towards minors is absolutely fucked up. If I&#8217;d find any person talking to my kids like Facebook and Zuckerberg apparently think it&#8217;s okay to talk to children, I&#8217;d be calling the police to file a report. I know I shouldn&#8217;t be surprised considering it&#8217;s Facebook and Zuckerberg, a company with a history of knowingly inciting violence and genocide and a founder who created his website to creep on women, but the lows to which this company and its founder are willing to go are just so unimaginable to even people with just a modicum of morality, I just can&#8217;t wrap my brain around it. The treatment of people of colour isn&#8217;t any better. Facebook will happily argue for you that black people are dumber than white people without so much as batting an eye. Again, none of this should be surprising considering it&#8217;s Facebook, but add to it the fact that &#8220;AI&#8221; is the endgame for totalitarians, and it all makes even more sense. These tools are explicitly designed to generate totalitarian propaganda, because they&#8217;re trained on totalitarian propaganda, i.e., most of the internet. The examples of &#8220;AI&#8221; being fascist and racist are legion, and considering the people creating them &#8211; Zuckerberg, Altman, Musk, and so on &#8211; all have clear fascist and totalitarian tendencies or simply are overtly fascist, we, again, shouldn&#8217;t be surprised. Totalitarians hate artists and intellectuals, because artists and intellectuals are the ones who tend to not fall for their bullshit. That&#8217;s why one of the first steps taken by any totalitarian regime is curtailing the arts and sciences, from Pol Pot to Mao, from Trump to Orban. Promoting &#8220;AI&#8221; as a replacement for exactly these groups in society &#8211; &#8220;AI&#8221; generating &#8220;art&#8221; to replace artists, &#8220;AI&#8221; doing &#8220;research&#8221; to replace actual scientists &#8211; fits within the totalitarian playbook like a perfectly fitted glove. When someone shows you who they are, believe them the first time. This apparently also applies to &#8220;AI&#8221;. 
+
+<br> 
+
+<https://www.osnews.com/story/143086/ai-is-the-endgame-for-totalitarians/>
+
+---
+
+## Boy riding bubble realizes what he's on, asks for more air
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Sam Altman, busily planning to spend &#34;trillions&#34; more on datacenters, admitted yesterday that AI is a bit inflated</h4> <p>Sam Altman admitted we&#39;re in the midst of an AI bubble Thursday, but don&#39;t let that fool you: He still intends to rule over whatever&#39;s left after it bursts. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/boy_riding_bubble_realizes_what/>
+
+---
+
+## Asmi Linux 13 Debian Edition debuts: Xfce desktop never looked so good
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>TeejeeTech takes Trixie, adds considerably more polish, yet comes in lighter</h4> <p>Teejeetech turns its attention from Ubuntu to its progenitor. The result is a refined and attractive spin of Debian with Xfce.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/asmi_13_debian_edition/>
+
+---
+
+## NASA Seeks Proposals for 2026 Human Exploration Rover Challenge
+
+date: 2025-08-15, from: NASA breaking news
+
+NASA now is accepting proposals from student teams for a contest to design, build, and test rovers for Moon and Mars exploration through Sept. 15. Known as the Human Exploration Rover Challenge, student rovers should be capable of traversing a course while completing mission tasks.&#160;The&#160;challenge handbook&#160;has guidelines for remote-controlled&#160;and human-powered divisions. “Last year, we saw [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-seeks-proposals-for-2026-human-exploration-rover-challenge/>
+
+---
+
+## Open hardware desktop 3D printing is dead – you just don’t know it yet
+
+date: 2025-08-15, from: OS News
+
+We removed ads from OSNews. Donate to our fundraiser to ensure our future! Hi, FAB 2025 is still happening in Prague and it has been a wonderful event. It’s been great to meet so many people from our community at home, in Czechia! But during my chats with the attendee’s, there was one topic which was emerging time and time again, and that is the state of open hardware. I cannot talk about all of the open hardware, but I can share experience from 3D printing. And it is not good! Open hardware in 3D printing is dead &#8211; you just don’t know it yet. This is an opinion piece, imagine we are talking about this topic over a cold Pilsner&#8230; ↫ Josef Prusa What happens when the Chinese government lists 3D printing as an industry it wants to dominate? Well, an explosion in bogus patents and the death of tons of smaller, local brands, leaving only major players from China and perhaps one or two bigger non-Chinese brands. That&#8217;s the conclusion by Josef Prusa, founder of Prusa Research, a major 3D printer maker from Prague, Czechia. Prusa&#8217;s printers used to be entirely open source, but starting in 2023, this is no longer the case &#8211; ostensibly because being open source hardware meant that competitors were copying their work wholesale without contributing anything back, or worse, stealing their work entirely and keeping it all closed, despite the copyleft license in use. Looking at the numbers, it seems clear that smaller companies will not be able to deal with the onslaught of bogus patents, as fighting patent infringement claims in court and getting patents invalidated, even if prior art exists in abundance, is prohibitively expensive and incredibly time-consuming. It&#8217;s a game of really expensive whack-a-mole against people with far deeper pockets than you. Still, this whole thing does taste a bit sour considering Prusa&#8217;s abandonment of its open source roots and ideals. There&#8217;s a business to be run here, I understand that, but principles do matter, and if not even a company priding itself on producing open source hardware stands by its ideals, why should anyone else? 
+
+<br> 
+
+<https://www.osnews.com/story/143081/open-hardware-desktop-3d-printing-is-dead-you-just-dont-know-it-yet/>
+
+---
+
+## Microsoft kills volume rebates in name of 'transparency'
+
+date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
+
+<h4>Online Services price changes start November 1, aligning with Microsoft.com rates and eliminating programmatic discounts</h4> <p>Microsoft is updating its pricing approach for Online Services in Enterprise Agreements in the name of consistency and transparency, but could leave some customers paying more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/08/15/microsoft_swats_volume_discounts_for/>
+
+---
+
+## New Physics-Inspired Proof Probes the Borders of Disorder
+
+date: 2025-08-15, from: Quanta Magazine
+
+For decades, mathematicians have struggled to understand matrices that reflect both order and randomness, like those that model semiconductors. A new method could change that.            <p>The post <a href="https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/" target="_blank">New Physics-Inspired Proof Probes the Borders of Disorder</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-physics-inspired-proof-probes-the-borders-of-disorder-20250815/>
 
 ---
 
@@ -73,11 +337,23 @@ This NASA/ESA Hubble Space Telescope image zooms in on the feathery spiral arms 
 
 date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
 
-<h4>London-based multinational takes customer portal and Voice API platform offline as &#39;protective measure&#39; following breach</h4> <p>Multinational telco Colt Technology Services says a &#34;cyber incident&#34; is to blame for its customer portal and other services being down for a number of days.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>London-based multinational takes customer portal and Voice API platform offline as &#39;protective measure&#39; following breach</h4> <p><strong>Updated</strong>  Multinational telco Colt Technology Services says a &#34;cyber incident&#34; is to blame for its customer portal and other services being down for a number of days.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/08/15/london_telco_colts_services_disrupted/>
+
+---
+
+## Summer Triangle Corner: Altair
+
+date: 2025-08-15, from: NASA breaking news
+
+Altair is the last stop on our trip around the Summer Triangle! The last star in the asterism to rise for Northern Hemisphere observers before summer begins, brilliant Altair is high overhead at sunset at the end of the season in September. Altair might be the most unusual of the three stars of the Triangle, […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-altair/>
 
 ---
 
@@ -93,7 +369,7 @@ date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
 
 ---
 
-## LLM chatbots trivial to weaponise for data theft, say boffins
+## LLM chatbots trivial to weaponize for data theft, say boffins
 
 date: 2025-08-15, updated: 2025-08-15, from: The Register (UK I.T. News)
 
@@ -611,9 +887,9 @@ date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
 
 ## Stock in the Channel pulls website amid cyberattack
 
-date: 2025-08-14, updated: 2025-08-14, from: The Register (UK I.T. News)
+date: 2025-08-14, updated: 2025-08-15, from: The Register (UK I.T. News)
 
-<h4>Intruders accessed important systems but tells customers their data is safe</h4> <p>A UK-based multinational that provides tech stock availability tools is telling customers that its website outage is due to a cyber attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Intruders accessed important systems but tells customers their data is safe</h4> <p><strong>Updated</strong>  A UK-based multinational that provides tech stock availability tools is telling customers that its website outage is due to a cyber attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -887,9 +1163,9 @@ A first-of-its-kind data analysis links high temperatures caused by climate chan
 
 ## OpenAI's GPT-5 looks less like AI evolution and more like cost cutting
 
-date: 2025-08-13, updated: 2025-08-13, from: The Register (UK I.T. News)
+date: 2025-08-13, updated: 2025-08-15, from: The Register (UK I.T. News)
 
-<h4>Gotta pay for all those GPUs somehow</h4> <p><strong>Comment</strong>  For all the superlative-laden claims, OpenAI&#39;s new top model appears to be less of an advancement and more of a way to save compute costs — something that hasn&#39;t exactly gone over well with the company&#39;s most dedicated users.…</p> 
+<h4>Gotta pay for all those GPUs somehow</h4> <p><strong>Analysis</strong>  For all the superlative-laden claims, OpenAI&#39;s new top model appears to be less of an advancement and more of a way to save compute costs — something that hasn&#39;t exactly gone over well with the company&#39;s most dedicated users.…</p> 
 
 <br> 
 

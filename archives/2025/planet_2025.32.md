@@ -1,11 +1,223 @@
 ---
 title: planet
-updated: 2025-08-15 06:09:56
+updated: 2025-08-15 14:07:56
 ---
 
 # planet
 
-(date: 2025-08-15 06:09:56)
+(date: 2025-08-15 14:07:56)
+
+---
+
+## Young Irish fan amazed after meeting Noel Gallagher
+
+date: 2025-08-15, from: RTÉ News
+
+Eight-year-old Conor Healy had a night to remember on Friday when his dreams came true - all thanks to a chance meeting with Oasis legend Noel Gallagher. 
+
+<br> 
+
+<https://www.rte.ie/entertainment/2025/0815/1528706-young-irish-fan-amazed-after-meeting-noel-gallagher/>
+
+---
+
+## Made-for-TV pageantry as Trump brings Putin in from cold
+
+date: 2025-08-15, from: RTÉ News
+
+Stepping foot on Western soil for the first time since he ordered the invasion of Ukraine, Vladimir Putin basked in choreographed pageantry courtesy of Donald Trump, but awkwardness was not far away. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528708-trump-putin-pagentry/>
+
+---
+
+## Watch: What territorial gains has Russia made in Ukraine?
+
+date: 2025-08-15, from: RTÉ News
+
+In more than a decade of its aggression in Ukraine, Russia has occupied roughly one fifth of its neighbour's territory. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528689-russia-territorial-gain/>
+
+---
+
+## Trump's tariff threats inspire an 'Elbows Up' movement in India — minus the hockey
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7610336.1755284087!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-trump-tariff-protest.jpg' alt='A paper mask of Donald Trump goes up in flames at a protest' width='620' height='349' title='Activists of different trade unions and farmer&apos;s organizations burn an effigy of the U.S. President Donald Trump, near the American Consulate during a protest rally on trade tariffs and the war in Gaza in Kolkata, India, Wednesday, Aug. 13, 2025. (AP Photo/Bikas Das)'/><p>Lawmakers and business leaders in India calling on people to boycott U.S. products in response to Donald Trump's tariff threats.</p> 
+
+<br> 
+
+<https://www.cbc.ca/radio/asithappens/india-elbows-up-1.7610229?cmp=rss>
+
+---
+
+## Portugal reports first death from heatwave fires
+
+date: 2025-08-15, from: RTÉ News
+
+The fires raging across Portugal claimed their first victim, when the former mayor of the eastern town of Guarda died fighting fires there, President Marcelo Rebelo de Sousa announced. 
+
+<br> 
+
+<https://www.rte.ie/news/europe/2025/0815/1528682-spain-wildfires/>
+
+---
+
+## Almost 200 dead as 'doomsday' monsoon rains hit Pakistan
+
+date: 2025-08-15, from: RTÉ News
+
+Landslides and flash floods triggered by heavy monsoon rains across northern Pakistan have killed at least 199 people in the past 24 hours, national and local officials have said. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528683-almost-200-dead-as-doomsday-monsoon-rains-hit-pakistan/>
+
+---
+
+## Orange forest fire warning issued ahead of weekend
+
+date: 2025-08-15, from: RTÉ News
+
+The Department of Agriculture, Food and the Marine has issued a Condition Orange Forest Fire warning in advance of warm weather forecast for the weekend. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528678-orange-forest-fire-warning-issued-ahead-of-weekend/>
+
+---
+
+## Global plastics treaty negotiations fail to reach a consensus — again
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7610296.1755282336!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/un-inc-5-2-in-geneva.jpg' alt='Picture of INC 5.2 in Geneva - everyone is in the meeting room.' width='620' height='349' title='This was the sixth time countries convened, as part of the UN Intergovernmental Negotiating Committee that was supposed to come to an agreement by 2024.'/><p>Worldwide plastic production is on course to triple by 2060, but there are no immediate plans to resume efforts to create a legally binding global treaty to end plastic pollution.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/science/global-plastics-treaty-consensus-1.7610277?cmp=rss>
+
+---
+
+## Planning retention refused for Airbnb operator in Dublin
+
+date: 2025-08-15, from: RTÉ News
+
+Dublin City Council has refused planning retention to a significant Airbnb operator close to Dublin Castle and Temple Bar to continue offering its apartments for short-term letting to tourists. 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0815/1528677-dcc-refuses-planning-retention-to-airbnb-operator/>
+
+---
+
+## Carney to visit Mexico next month as both countries navigate tense U.S. relations
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7610388.1755285589!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-g7-summit-20250617.jpg' alt='A man and woman speak together while shaking hands outdoors.' width='620' height='349' title='Canadian Prime Minister Mark Carney welcomes Mexican President Claudia Sheinbaum to the G7 Summit in Kananaskis, Alta., on Tuesday, June 17, 2025. THE CANADIAN PRESS/Darryl Dyck'/><p>Both Mexico and Canada have been subject to tariffs and tariff threats from U.S. President Donald Trump since he was re-elected.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/prime-minister-carney-vist-mexico-trade-u-s-1.7610367?cmp=rss>
+
+---
+
+## Laya to increase health insurance prices from October
+
+date: 2025-08-15, from: RTÉ News
+
+Laya Healthcare is to increase the prices of its health insurance polices by an average of 4.5% from the start of October 
+
+<br> 
+
+<https://www.rte.ie/news/ireland/2025/0815/1528672-laya-healthcare/>
+
+---
+
+## Podcast: Climate change 'has arrived' on dinner plates
+
+date: 2025-08-15, from: RTÉ News
+
+The cost of your weekly shop is increasing due to the accelerating impact of climate change across the globe, an expert has warned. 
+
+<br> 
+
+<https://www.rte.ie/news/2025/0815/1528661-podcast-climate-change-has-arrived-on-dinner-plates/>
+
+---
+
+## 41 more potential unmarked graves found at former B.C. residential school, shíshálh Nation says
+
+date: 2025-08-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.6050566.1682016394!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sechelt-indian-residential-school.JPG' alt='An old black and white photo of a three-story brick building. ' width='620' height='349' title='The Sechelt Indian Residential School was run by the Roman Catholic Church from 1905 to 1975.'/><p>The shíshálh Nation says ground-penetrating radar has identified 41 additional potential unmarked gravesites at the former St. Augustine's Residential School on B.C.'s Sunshine Coast, bringing the total number of potential sites there to 81.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/british-columbia/more-potential-unmarked-graves-st-augustine-s-residential-school-1.7610255?cmp=rss>
+
+---
+
+## UN says Israeli settlement plan violates international law
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>The UN denounces an Israeli plan to increase settlements in the West Bank as contrary to international law.</p>
+                    <p><a href="https://www.vaticannews.va/en/world/news/2025-08/un-says-israeli-settlement-plan-violates-international-law.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/world/news/2025-08/un-says-israeli-settlement-plan-violates-international-law.html>
+
+---
+
+## California to change election maps to counter Texas move
+
+date: 2025-08-15, from: RTÉ News
+
+California unveiled plans to redraw its electoral districts, as Democrats push back on what they say is Donald Trump's effort to rig next year's Congressional elections to safeguard his slim Republican majority. 
+
+<br> 
+
+<https://www.rte.ie/news/us/2025/0815/1528658-california-texas/>
+
+---
+
+## Patriarch Pizzaballa: Blood of every innocent in Gaza and the world is not forgotten
+
+date: 2025-08-15, from: Vatican News
+
+
+                    <p>Cardinal Pierbattista Pizzaballa, the Latin Patriarch of Jerusalem, celebrates Mass on the feast of the Assumption at the Benedictine monastery of Abu Gosh, saying the Christian's task is to sow life while remaining under God's protective mantle so that evil does not have the final word.</p>
+                    <p><a href="https://www.vaticannews.va/en/church/news/2025-08/cardinalpizzaballa-blood-every-innocent-in-gaza-not-forgotten.html">Read all</a></p>
+                    <p>&nbsp;</p>
+                     
+
+<br> 
+
+<https://www.vaticannews.va/en/church/news/2025-08/cardinalpizzaballa-blood-every-innocent-in-gaza-not-forgotten.html>
+
+---
+
+## Hope and fear among Ukrainians in Ireland ahead of summit
+
+date: 2025-08-15, from: RTÉ News
+
+Ukrainians living in Ireland have been speaking to RTÉ's News At One about their hopes for Ukraine in the weeks and months after today's summit between Donald Trump and Vladimir Putin in Alaska. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528655-ukraine-summit-ireland/>
 
 ---
 
@@ -18,6 +230,66 @@ Follow live updates as US President Donald Trump and Russian President Vladimir 
 <br> 
 
 <https://www.rte.ie/news/2025/0815/1528642-trump-putin-meeting/>
+
+---
+
+## Trump, Putin holding Ukraine talks after warm greeting
+
+date: 2025-08-15, from: RTÉ News
+
+Follow live updates as US President Donald Trump and Russian President Vladimir Putin meet in Alaska to discuss a ceasefire in Ukraine. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528642-trump-putin-meeting/>
+
+---
+
+## World News in Brief: Cholera strikes Sudan and beyond, humanitarian needs grown for returning Afghans, rising insecurity in DR Congo
+
+date: 2025-08-15, from: United Nations, Top Stories
+
+The preventable but often deadly waterborne disease – cholera – continues to spread around the world, driven by conflict and poverty, the UN World Health Organization (WHO) said on Friday.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165664>
+
+---
+
+## Trapped in Gaza: Palestinians with disabilities cannot reach aid
+
+date: 2025-08-15, from: United Nations, Top Stories
+
+When Israeli forces in Gaza issue a new displacement order ahead of an incursion into a neighbourhood or city, Palestinian civilians are expected to pack their bags and flee – perhaps for the third, fourth, or tenth time.&nbsp; 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165661>
+
+---
+
+## UN highlights need for peaceful resolution, as Trump and Putin prepare to meet on Ukraine
+
+date: 2025-08-15, from: United Nations, Top Stories
+
+The United Nations has reiterated the importance of dialogue as US President Donald Trump and Russian President Vladimir Putin prepare to meet on Friday in Alaska, with Ukraine top of the agenda. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165660>
+
+---
+
+## Plastic pollution treaty talks adjourn, but countries want to ‘remain at the table’: UNEP chief
+
+date: 2025-08-15, from: United Nations, Economic Development
+
+The international push for consensus on a legally binding deal to end plastic pollution proved beyond the grasp of weary UN Member States meeting in Geneva on Friday, as they agreed to resume discussions at a future date. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165658>
 
 ---
 
@@ -97,6 +369,30 @@ date: 2025-08-15, from: Vatican News
 
 ---
 
+## At least 280 people killed by flash floods in India and Pakistan, with scores still missing
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609832.1755263484!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-kashmir-flash-floods.jpg' alt='A close-up of a man crying' width='620' height='349' title='Hari Chand mourns the death of his wife during flash floods in Chositi village, in Kishtwar district, Indian-controlled Kashmir, Friday, Aug. 15, 2025. '/><p>Flash floods triggered by torrential rains have killed more than 280 people and left scores of others missing in India and Pakistan over the past 24 hours, officials said Friday, as rescuers brought to safety some 1,600 people from two mountainous districts in the neighbouring countries.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/flash-floods-india-pakistan-1.7609824?cmp=rss>
+
+---
+
+## WRC awards reduced losses to manager sacked after 'joke'
+
+date: 2025-08-15, from: RTÉ News
+
+A tribunal has made a reduced award for losses from unfair dismissal to a manager sacked after he admitted taking a colleague's phone and sending her husband a "sexually explicit" text message as "a joke". 
+
+<br> 
+
+<https://www.rte.ie/news/business/2025/0815/1528620-wrc-awards-reduced-losses-to-manager-sacked-after-joke/>
+
+---
+
 ## Victim of catfish offender says her innocence was stolen
 
 date: 2025-08-15, from: RTÉ News
@@ -149,6 +445,18 @@ Ukrainian strikes have killed one and wounded ten in Russia just hours before US
 
 ---
 
+## Ukrainian strikes kill one, wound 10 in Russia
+
+date: 2025-08-15, from: RTÉ News
+
+Ukrainian strikes have killed one and wounded ten in Russia just hours before US President Donald Trump hosts his Russian counterpart Vladimir Putin for a high-stakes summit in Alaska. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528603-ukraine-russia-war/>
+
+---
+
 ## Not enough food in Gaza to sustain life - Oxfam
 
 date: 2025-08-15, from: RTÉ News
@@ -158,6 +466,30 @@ There is not enough food in Gaza to sustain life, Oxfam's Humanitarian Response 
 <br> 
 
 <https://www.rte.ie/news/middle-east/2025/0815/1528600-gaza-aid/>
+
+---
+
+## Michigan autoworker's wallet found under hood in Minnesota — 243,000 km later
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609795.1755259389!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/missing-wallet-engine.jpg' alt='Richard Guilford poses for a portrait with an ID card from his recently recovered wallet that he lost 11 years ago Thursday, Aug. 14, 2025, in Petersburg, Mich.' width='620' height='349' title='Richard Guilford poses for a portrait with an ID card from his recently recovered wallet that he lost 11 years ago Thursday, Aug. 14, 2025, in Petersburg, Mich. '/><p>Richard Guilford lost it in a Ford Edge engine 11 years ago at a Ford Wayne, Mich., plant. The wallet was discovered by a mechanic, sandwiched between the transmission and the air filter box.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/windsor/michigan-autoworker-wallet-found-under-hood-minnesota-1.7609790?cmp=rss>
+
+---
+
+## D.C. files lawsuit to stop White House from installing police commissioner for Washington
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7609773.1755257125!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-crime.JPG' alt='People are shown from behind walking on city streets, including people in baseball jerseys and uniformed police.' width='620' height='349' title='Drug Enforcement Administration (DEA) federal agents patrol outside Nationals Park as fans leave after a Washington Nationals baseball game Thursday night at the Navy Yard, after U.S. President Donald Trump&apos;s announcement of the federal takeover of the Metropolitan Police Department under the Home Rule Act.'/><p>The Trump administration, stepping up its crackdown on policing in the U.S. capital, has named the head of the Drug Enforcement Administration to be Washington's "emergency police commissioner" with all the powers of a police chief — a significant move that the D.C. attorney general said was unlawful.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/world/white-house-dc-takeover-battle-1.7609746?cmp=rss>
 
 ---
 
@@ -201,6 +533,18 @@ A Trump-Putin meeting in Alaska has been a cause of concern for European governm
 
 ---
 
+## Why the Trump-Putin meeting worries Europe
+
+date: 2025-08-15, from: RTÉ News
+
+A Trump-Putin meeting in Alaska has been a cause of concern for European governments who saw a bad peace deal for Ukraine in the offing. Such an outcome could have negative implications for wider European security. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528569-europe-trump-putin/>
+
+---
+
 ## Healy-Rae backs Humphreys 'wholeheartedly' for Áras race
 
 date: 2025-08-15, from: RTÉ News
@@ -210,6 +554,18 @@ Independent TD Michael Healy-Rae has said he would back Fine Gael's Heather Hump
 <br> 
 
 <https://www.rte.ie/news/2025/0815/1528581-fine-gael-mcguinness/>
+
+---
+
+## Seán Kelly will 'most likely reconsider' bid for Áras
+
+date: 2025-08-15, from: RTÉ News
+
+MEP Seán Kelly has said he will "most likely reconsider" his possible candidacy in the presidential campaign "in light of Mairead [McGuiness'] unfortunate withdrawal". 
+
+<br> 
+
+<https://www.rte.ie/news/presidential-election/2025/0815/1528581-fine-gael-mcguinness-kelly-presidental-bid/>
 
 ---
 
@@ -253,6 +609,18 @@ Expectations are high for the first summit between sitting US and Russian presid
 
 ---
 
+## Putin-Trump summit: What each side wants
+
+date: 2025-08-15, from: RTÉ News
+
+Expectations are high for the first summit between sitting US and Russian presidents in more than four years, but Moscow and Kyiv remain far apart in their visions on how to end the conflict. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528575-ukraine-russia-visions/>
+
+---
+
 ## Oasis Live '25: The reunion through the Lens
 
 date: 2025-08-15, from: RTÉ News
@@ -262,6 +630,18 @@ With Oasis set to play two sold-out shows at Croke Park this weekend, we look ba
 <br> 
 
 <https://www.rte.ie/entertainment/2025/0815/1528425-oasis-live-25-the-reunion-through-the-lens/>
+
+---
+
+## Victim impact statements from Ashlee Shingoose's family allow 'record to be complete': legal expert
+
+date: 2025-08-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7494157.1743043086!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ashlee-christine-shingoose.JPG' alt='A closeup of a photo of a young woman.' width='620' height='349' title='A photo of Ashlee Christine Shingoose is displayed at the front of the news conference where it was announced that she was the woman known as Mashkode Bizhiki&apos;ikwe. She was killed in March 2022 by serial killer Jeremy Skibicki. Photo of this portrait was taken March 26, 2025, in Winnipeg.'/><p>In an unusual move, a Manitoba court is set to hear victim impact statements from the family of Ashlee Shingoose on Friday, nearly one year after her killer's trial and sentencing.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/ashlee-shingoose-family-victim-impact-statements-1.7609618?cmp=rss>
 
 ---
 
@@ -277,6 +657,18 @@ From the onion domes of the Orthodox churches to the local penchant for potato d
 
 ---
 
+## Ghosts of Russian imperialism haunt Alaska summit
+
+date: 2025-08-15, from: RTÉ News
+
+From the onion domes of the Orthodox churches to the local penchant for potato dumplings, resonances of Russia's imperial past are not hard to find, writes Yvonne Murray from Anchorage in Alaska. 
+
+<br> 
+
+<https://www.rte.ie/news/analysis-and-comment/2025/0815/1528561-trump-putin-summit/>
+
+---
+
 ## Trump says stakes are 'high' before flight to Anchorage
 
 date: 2025-08-15, from: RTÉ News
@@ -286,6 +678,18 @@ US President Donald Trump has said that the stakes are "high" before his flight 
 <br> 
 
 <https://www.rte.ie/news/world/2025/0815/1528571-trump-putin/>
+
+---
+
+## US-Russia leaders shake hands ahead of Alaska summit
+
+date: 2025-08-15, from: RTÉ News
+
+US President Donald Trump greeted Russian President Vladimir Putin with a handshake ahead of a high-stakes summit in Alaska. 
+
+<br> 
+
+<https://www.rte.ie/news/ukraine/2025/0815/1528571-trump-putin/>
 
 ---
 
@@ -305,7 +709,7 @@ When US President Donald Trump meets his Russian counterpart Vladimir Putin in A
 
 date: 2025-08-15, from: CBC, Indigenious News
 
-<img src='https://i.cbc.ca/1.7609416.1755212893!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/lovina-tootoosis.JPG' alt='A women with long hair poses in a waist length leather jacket and dark pants.' width='620' height='349' title='Lovina Tootoosis decided to get into music when she was tree planting, a few years later her songs are now on Spotify.'/><p>Lovina Tootoosis, a musician from Poundmaker Cree Nation, is working on her first album, due out in November.</p> 
+<img src='https://i.cbc.ca/1.7609416.1755272554!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/lovina-tootoosis.JPG' alt='A women with long hair poses in a waist length leather jacket and dark pants.' width='620' height='349' title='(photo by Dillian Lavallee) Lovina Tootoosis decided to get into music when she was tree planting, a few years later her songs are now on Spotify.'/><p>Lovina Tootoosis, a musician from Poundmaker Cree Nation, is working on her first album, due out in November.</p> 
 
 <br> 
 
@@ -361,6 +765,18 @@ Fossil fuels were Ireland's primary energy source last year, accounting for 81% 
 
 ---
 
+## Nunavik tuberculosis action plan to be finalized in coming weeks, says health ministry
+
+date: 2025-08-15, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7558540.1749666996!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/x-ray-scan-of-lungs-nunavik.jpg' alt='x-ray scan of lungs nunavik' width='620' height='349' title='Nunavik health board&apos;s infectious disease clinical lead, Yassen Tcholakov, said tuberculosis, while curable, kills most infected patients within a few years if left untreated. Those who are treated are sometimes left with lifelong problems like scarring on their lungs.'/><p>Quebec’s Ministry of Health and Social Services says it’s working to finalize a tuberculosis action plan in Nunavik in the coming weeks. Doctors in the region say they're exhausting all efforts to control the spread of the disease, but they worry 2025 will be another record year for cases.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/north/nunavik-tuberculosis-action-plan-finalize-1.7609556?cmp=rss>
+
+---
+
 ## Japan minister joins crowds at controversial WWII shrine
 
 date: 2025-08-15, from: RTÉ News
@@ -385,6 +801,18 @@ date: 2025-08-15, from: CBC, World News
 
 ---
 
+## Trump and Putin meeting now in Alaska to discuss war in Ukraine
+
+date: 2025-08-15, from: CBC, World News
+
+<img src='https://i.cbc.ca/ais/97ee2dd7-cf13-4d04-b3fa-9ab6cd8955cc,1755286653258/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='' width='620' height='349' title=''/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/9.6867437?cmp=rss>
+
+---
+
 ## New compromise but no deal at plastic pollution talk
 
 date: 2025-08-15, from: RTÉ News
@@ -394,6 +822,18 @@ Countries trying to break the deadlock and strike a landmark global treaty on co
 <br> 
 
 <https://www.rte.ie/news/world/2025/0815/1528566-un-plastic-pollution/>
+
+---
+
+## New compromise but no deal at plastic pollution talk
+
+date: 2025-08-15, from: RTÉ News
+
+Countries trying to break the deadlock and strike a landmark global treaty on combating plastic pollution negotiated through the night on a last-minute revised proposal. 
+
+<br> 
+
+<https://www.rte.ie/news/environment/2025/0815/1528566-un-plastic-pollution/>
 
 ---
 
@@ -418,6 +858,30 @@ date: 2025-08-14, from: CBC, World News
 <br> 
 
 <https://www.cbc.ca/news/entertainment/barry-avrich-film-tiff-1.7609664?cmp=rss>
+
+---
+
+## Unidentified woman found dead last year in Winnipeg hotel to be known as Mashkode Bizhiki'ikwe
+
+date: 2025-08-14, from: CBC, Indigenious News
+
+<img src='https://i.cbc.ca/1.7609472.1755215733!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/missing-woman-mashkode-bizhiki-ikwe.jpeg' alt='The sketch of a woman is in a white board. Besides it three people stand on a podium. ' width='620' height='349' title='Indigenous community members said on Thursday, Aug. 14, 2025, that a still-unidentified woman found dead last year at Winnipeg&apos;s Marwin Hotel has been given the spirit name Mashkode Bizhiki&apos;ikwe, or Buffalo Woman.'/><p>A year after the death of a woman whose body was found in a Winnipeg hotel, police are still trying to find out who she was — but for now, she has been given the spirit name Mashkode Bizhiki'ikwe.</p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/manitoba/mashkode-bizhiki-ikwe-buffalo-woman-manwin-hotel-1.7609442?cmp=rss>
+
+---
+
+## U.S. blocks Canadian access to road southern Alberta county has long relied on
+
+date: 2025-08-14, from: CBC, World News
+
+<img src='https://i.cbc.ca/1.7602709.1754513731!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/border-road.jpg' alt='A graphic is shown, with a line dividing two stretches of highway.' width='620' height='349' title='Border Road is a remote stretch of highway that runs along the Canada-U.S. border between Alberta and Montana. The border line is on the north side of the road, with the road itself within U.S. territory.'/><p></p> 
+
+<br> 
+
+<https://www.cbc.ca/news/canada/calgary/u-s-blocking-canadian-access-to-road-southern-alberta-county-has-long-relied-on-1.7602645?cmp=rss>
 
 ---
 
@@ -665,6 +1129,18 @@ Presidential hopeful Gareth Sheridan has said he has support in Tipperary and La
 
 ---
 
+## Presidential hopeful says he has backing of two councils
+
+date: 2025-08-14, from: RTÉ News
+
+Presidential hopeful Gareth Sheridan has said he has support in Tipperary and Laois county councils. 
+
+<br> 
+
+<https://www.rte.ie/news/presidential-election/2025/0814/1528483-gareth-sheridan/>
+
+---
+
 ## Nicaraguan government seizes school run by Josephine Sisters
 
 date: 2025-08-14, from: Vatican News
@@ -770,6 +1246,18 @@ At least 27 refugees and migrants were drowned in a shipwreck near the southern 
 <br> 
 
 <https://news.un.org/feed/view/en/story/2025/08/1165655>
+
+---
+
+## Peacekeepers find weapons trove in southern Lebanon, as drought threatens millions
+
+date: 2025-08-14, from: United Nations, Climate Change
+
+UN peacekeepers in southern Lebanon have uncovered rocket launchers, mortar rounds and other unauthorized weapons, while the country grapples with a severe drought, threatening millions with life-threatening water shortages. 
+
+<br> 
+
+<https://news.un.org/feed/view/en/story/2025/08/1165656>
 
 ---
 

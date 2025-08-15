@@ -1,11 +1,134 @@
 ---
 title: small papers
-updated: 2025-08-15 06:10:05
+updated: 2025-08-15 14:08:08
 ---
 
 # small papers
 
-(date: 2025-08-15 06:10:05)
+(date: 2025-08-15 14:08:08)
+
+---
+
+## Cherry Cove Concert
+
+date: 2025-08-15, from: Catalina Islander
+
+The 13th Annual Raft Up Concert returns on Aug. 31 in Cherry Cove. The concert starts at 4:30 p.m. with a special opening guest performance by Charlie Stockwell and Two Harbors grey boat Captain, Karl Matson-deKay playing a few original tunes to start things off. Starting at 5 p.m., Scott Grillo will be performing for [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/cherry-cove-concert-2/>
+
+---
+
+## Public on vacation proposed rental rules
+
+date: 2025-08-15, from: Catalina Islander
+
+Part two of two. Last week the Avalon City Council approved the introduction of an ordinance updating the rules or short-term rentals. The adoption of the ordinance will return to the council at a future date. There were a lot of questions from members of the public who spoke at Aug. 5 meeting. Due to [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/public-on-vacation-proposed-rental-rules/>
+
+---
+
+## Avalon City Council approves cannabis delivery business permit
+
+date: 2025-08-15, from: Catalina Islander
+
+The Avalon City Council on Tuesday, Aug. 5, unanimously approved a permit for Catalina Cannabis, LLC. The permit is for one year. The year officially started Wednesday, Aug. 6. The business will be able to apply for a renewed permit 60 days before the expiration date. This was a Consent Calendar item. Consent items are [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-city-council-approves-cannabis-delivery-business-permit/>
+
+---
+
+## Avalon Harbor Report for July 2025
+
+date: 2025-08-15, from: Catalina Islander
+
+The May gray and June gloom continued into July, but I cannot think of an appropriate rhyming work to describe it! Suggestions welcome! The Fourth of July in 2024 fell on a Thursday, while this year the 4th fell on a Friday; however, this year saw less boats in the harbor; however the Harbor had [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-harbor-report-for-july-2025/>
+
+---
+
+## Strong First-Day Attendance at LAUSD Schools Despite Immigration Fears
+
+date: 2025-08-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="678" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?fit=1024%2C678&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=1024%2C678&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=768%2C508&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=1536%2C1016&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=1200%2C794&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=2000%2C1323&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=780%2C516&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=400%2C265&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?resize=706%2C467&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/532011322_1134095568534293_2408149274858599247_n.jpg?fit=1024%2C678&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Mallika SeshadriEdSource Four days after a 15-year-old with a disability was mistakenly detained and handcuffed by immigration agents outside of Arleta High School, the first day of the new school year [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/08/15/strong-first-day-attendance-at-lausd-schools-despite-immigration-fears/">Strong First-Day Attendance at LAUSD Schools Despite Immigration Fears</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/08/15/strong-first-day-attendance-at-lausd-schools-despite-immigration-fears/>
+
+---
+
+## Long Beach man rescued after spending 2 days trapped behind waterfall
+
+date: 2025-08-15, from: Long Beach Post
+
+<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1024x748.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1024x748.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1536x1122.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1200x877.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1568x1146.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal.png 1727w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was rappelling down when he got stuck on the cliff face in Sequoia National Forest.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-man-rescued-after-spending-2-days-trapped-behind-waterfall">Long Beach man rescued after spending 2 days trapped behind waterfall</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-man-rescued-after-spending-2-days-trapped-behind-waterfall>
+
+---
+
+## A new type of rental e-bike is popping up around Long Beach
+
+date: 2025-08-15, from: Long Beach Post
+
+<figure><img width="1024" height="736" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-1024x736.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-1024x736.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-300x216.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-768x552.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-150x108.jpg 150w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-400x287.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There are already about 2,000 rental e-scooters across the city. Now, the company Lime is adding around 100 redesigned electric bikes as the city further embraces the option.</p>
+<p>The post <a href="https://lbpost.com/news/a-new-type-of-rental-e-bike-is-popping-up-around-long-beach">A new type of rental e-bike is popping up around Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/a-new-type-of-rental-e-bike-is-popping-up-around-long-beach>
+
+---
+
+## Covered California health insurance will cost more in 2026. Here’s what’s behind the double-digit increase
+
+date: 2025-08-15, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Federal subsidies, set to expire at year’s end, will tighten an already-expected pinch on millions of consumers.</p>
+<p>The post <a href="https://lbpost.com/news/health/covered-california-health-insurance-will-cost-more-in-2026-heres-whats-behind-the-double-digit-increase">Covered California health insurance will cost more in 2026. Here’s what’s behind the double-digit increase</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/covered-california-health-insurance-will-cost-more-in-2026-heres-whats-behind-the-double-digit-increase>
+
+---
+
+## Second man arrested in deadly beating of homeless man in parking lot, LBPD says
+
+date: 2025-08-15, from: Long Beach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Los Angeles County Medical Examiner ruled the victim's death a homicide due to “multiple blunt force traumatic injuries.”</p>
+<p>The post <a href="https://lbpost.com/news/crime/second-man-arrested-in-deadly-beating-of-homeless-man-in-parking-lot-lbpd-says">Second man arrested in deadly beating of homeless man in parking lot, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/second-man-arrested-in-deadly-beating-of-homeless-man-in-parking-lot-lbpd-says>
 
 ---
 
@@ -27,7 +150,7 @@ date: 2025-08-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-08-14, from: Long Beach Post
 
-<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The law firm denies targeting anyone, saying they’re standing up for “disabled folks who have enough pain in their lives already.”</p>
 <p>The post <a href="https://lbpost.com/news/business/small-business/ada-lawsuits-bar-owners-long-beach-counter-suit">Bar owners say a law firm targeted them with predatory discrimination lawsuits, so they’re suing back</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -57,7 +180,7 @@ date: 2025-08-14, from: Long Beach Post
 
 date: 2025-08-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=780%2C585&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/08/IMG_1651-1.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Alrededor de 540,000 estudiantes del Distrito Escolar Unificado de Los Ángeles (LAUSD) regresan a clases esta semana. Pero con su regreso viene la incertidumbre en medio de las redadas de [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/08/13/lausd-presenta-plan-de-preparacion-para-el-regreso-a-clases-en-medio-de-redadas-de-ice/">LAUSD Presenta Plan de Preparación para el Regreso a Clases en Medio de Redadas de ICE</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

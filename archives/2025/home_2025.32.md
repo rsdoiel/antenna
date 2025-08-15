@@ -1,11 +1,159 @@
 ---
 title: home
-updated: 2025-08-15 06:10:03
+updated: 2025-08-15 14:08:05
 ---
 
 # home
 
-(date: 2025-08-15 06:10:03)
+(date: 2025-08-15 14:08:05)
+
+---
+
+## Before & After: A Razor-Sharp Roofline Actually Expands a Family of Four’s London Home
+
+date: 2025-08-15, from: Dwell
+
+A sawtooth pattern tops a kitchen extension, just part of a whole-home renovation for a semidetached residence in Ealing. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-atelier-baulier-semidetached-renovation-kitchen-addition-d807333b>
+
+---
+
+## Bed Bath & Beyond Returns (Sort of)—and Everything Else You Need to Know About This Week
+
+date: 2025-08-15, from: Dwell
+
+Golf carts are taking over suburbia, Newsom clamps down on Los Angeles’s duplex law, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/bed-bath-and-beyond-returns-sort-of-and-everything-else-you-need-to-know-about-this-week-437ef676-54d6f875>
+
+---
+
+## Wait Till You See the Ocean View at This $1.8M Big Sur Home
+
+date: 2025-08-15, from: Dwell
+
+Set high on a hill overlooking the Pacific, the contemporary residence has massive windows, a full-length porch, and a wood-wrapped guesthouse. 
+
+<br> 
+
+<https://www.dwell.com/article/big-sur-home-heinz-legler-veronique-lievre-california-real-estate-03d37f5e>
+
+---
+
+## How Many of These Obscure Car Facts Do You Actually Know?
+
+date: 2025-08-15, from: Family Handyman Blog
+
+<p>Think you're a true auto enthusiast? Put your knowledge to the test! Prove you're a real gearhead by acing these questions on everything from the laws of the road to hidden car features and obscure dashboard symbols.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/automotive-quiz/">How Many of These Obscure Car Facts Do You Actually Know?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/automotive-quiz/>
+
+---
+
+## The Beginner’s Guide to the Art of Deadheading Flowers
+
+date: 2025-08-15, from: Family Handyman Blog
+
+<p>From identifying spent blooms to proper cutting techniques, this guide covers everything you need to know about deadheading flowers.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/deadheading-flowers/">The Beginner&#8217;s Guide to the Art of Deadheading Flowers</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/deadheading-flowers/>
+
+---
+
+## 4 Types of Jays in Colorado (With Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Colorado is a fantastic place for birdwatching, especially for members of the Corvidae family, such as jays. This article explores ... </p>
+<p class="read-more-container"><a title="4 Types of Jays in Colorado (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/4-types-of-jays-in-colorado-with-pictures-and-identification/#more-33844" aria-label="Read more about 4 Types of Jays in Colorado (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/4-types-of-jays-in-colorado-with-pictures-and-identification/">4 Types of Jays in Colorado (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/4-types-of-jays-in-colorado-with-pictures-and-identification/>
+
+---
+
+## Secrets of Opossums in Florida You Didn’t Know
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Opossums are one of Florida’s most overlooked and misunderstood creatures. Many people pass them by without a second thought, yet ... </p>
+<p class="read-more-container"><a title="Secrets of Opossums in Florida You Didn’t Know" class="read-more button" href="https://ownyardlife.com/secrets-of-opossums-in-florida-you-didnt-know/#more-33836" aria-label="Read more about Secrets of Opossums in Florida You Didn’t Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/secrets-of-opossums-in-florida-you-didnt-know/">Secrets of Opossums in Florida You Didn’t Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/secrets-of-opossums-in-florida-you-didnt-know/>
+
+---
+
+## 33 Birds of Prey in Texas (With Pictures and Identification)
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Texas is home to an impressive variety of birds of prey, from powerful eagles and hawks to agile falcons and ... </p>
+<p class="read-more-container"><a title="33 Birds of Prey in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/33-birds-of-prey-in-texas-with-pictures-and-identification/#more-33826" aria-label="Read more about 33 Birds of Prey in Texas (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/33-birds-of-prey-in-texas-with-pictures-and-identification/">33 Birds of Prey in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/33-birds-of-prey-in-texas-with-pictures-and-identification/>
+
+---
+
+## The Curious World of Chipmunks in Missouri You’ve Never Noticed
+
+date: 2025-08-15, from: Yard Life blog
+
+<p>Missouri is a state blessed with a variety of wildlife, from white-tailed deer and red foxes to countless bird species ... </p>
+<p class="read-more-container"><a title="The Curious World of Chipmunks in Missouri You’ve Never Noticed" class="read-more button" href="https://ownyardlife.com/the-curious-world-of-chipmunks-in-missouri-youve-never-noticed/#more-33820" aria-label="Read more about The Curious World of Chipmunks in Missouri You’ve Never Noticed">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/the-curious-world-of-chipmunks-in-missouri-youve-never-noticed/">The Curious World of Chipmunks in Missouri You’ve Never Noticed</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/the-curious-world-of-chipmunks-in-missouri-youve-never-noticed/>
+
+---
+
+## 11 Recipes That Star Watermelon, the Unofficial Fruit of Summer
+
+date: 2025-08-15, from: Sunset Magazine - Living in the West
+
+Sure, you can enjoy a slice of watermelon as-is, but why not add it into dishes and cocktails? These watermelon recipes are so refreshing. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/watermelon-recipes>
+
+---
+
+## Homepage 2025
+
+date: 2025-08-15, from: Sunset Magazine - Living in the West
+
+Landscaping, Outdoor Living How to Create a Stunning Outdoor Space Like a Designer Dara Caponigro&#8217;s new book brings interiors outdoors with inspiration from West Coast style icons.  Read more: How to&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -18,6 +166,42 @@ For our new advice column, real estate agent Nicole Reber discusses how to bette
 <br> 
 
 <https://www.dwell.com/article/ask-a-realtor-whats-the-most-important-thing-when-showing-a-house-to-sell-d09b58aa>
+
+---
+
+## These Are All the New Trader Joe’s Products You Don’t Want to Miss This August
+
+date: 2025-08-15, from: Sunset Magazine - Living in the West
+
+Trader Joe’s is saying goodbye to summer with a lot tasty treats. The new products this August will help you savor the rest of the season. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-new-products-august-2025>
+
+---
+
+## Tonight Is the Most Powerful Perseids Meteor Shower—These Are the Best National Parks for Stargazing
+
+date: 2025-08-15, from: Sunset Magazine - Living in the West
+
+Here's which National Parks in the West are best to watch Perseids, which is anticipated to produce over 60 shooting stars an hour. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/best-national-parks-for-dark-sky-viewing>
+
+---
+
+## Traditional Bathroom Tile Is Out—Here’s What to Do Instead
+
+date: 2025-08-15, from: Sunset Magazine - Living in the West
+
+It turns out traditional bathroom tile is outdated now. A designer shares bathroom ideas for alternatives. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/bathroom-tile-alternatives>
 
 ---
 
@@ -383,18 +567,6 @@ Don't let your dog's toys and bed cramp your style. Interior designers share the
 
 ---
 
-## Homepage 2025
-
-date: 2025-08-13, from: Sunset Magazine - Living in the West
-
-Decorating &amp; Design, Home Tours A Basic Tract House Gets Infused with Charm and Character Intentional updates were made.  Read more: A Basic Tract House Gets Infused with Charm and Character&hellip; <a href="https://www.sunset.com/" class="read-more">Read More</a> 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## The Daily Wellness Ritual Courteney Cox Never Skips
 
 date: 2025-08-13, from: Sunset Magazine - Living in the West
@@ -596,18 +768,6 @@ CDFA proudly welcomed seven interns and fellows this summer for work in division
 
 ---
 
-## Traditional Bathroom Tile Is Out—Here’s What to Do Instead
-
-date: 2025-08-12, from: Sunset Magazine - Living in the West
-
-It turns out traditional bathroom tile is outdated now. A designer shares bathroom ideas for alternatives. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/bathroom-tile-alternatives>
-
----
-
 ## 15 of the Best Native Blue Wildflowers for Your Landscape
 
 date: 2025-08-12, from: The Gardener's Path
@@ -646,18 +806,6 @@ date: 2025-08-12, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/4-types-of-jays-in-washington-state-pictures-and-identification/>
-
----
-
-## Tonight Is the Most Powerful Perseids Meteor Shower—These Are the Best National Parks for Stargazing
-
-date: 2025-08-12, from: Sunset Magazine - Living in the West
-
-Here's which National Parks in the West are best to watch Perseids, which is anticipated to produce over 60 shooting stars an hour. 
-
-<br> 
-
-<https://www.sunset.com/travel/outdoor-adventure/best-national-parks-for-dark-sky-viewing>
 
 ---
 
@@ -922,18 +1070,6 @@ date: 2025-08-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/38-species-of-warblers-in-florida-pictures-and-identification/>
-
----
-
-## These Are All the New Trader Joe’s Products You Don’t Want to Miss This August
-
-date: 2025-08-11, from: Sunset Magazine - Living in the West
-
-Trader Joe’s is saying goodbye to summer with a lot tasty treats. The new products this August will help you savor the rest of the season. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/trader-joes-new-products-august-2025>
 
 ---
 

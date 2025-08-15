@@ -1,11 +1,203 @@
 ---
 title: socal north
-updated: 2025-08-15 06:09:58
+updated: 2025-08-15 14:07:58
 ---
 
 # socal north
 
-(date: 2025-08-15 06:09:58)
+(date: 2025-08-15 14:07:58)
+
+---
+
+## Pasadena Unified campuses still dealing with lead, other hazards as school returns
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+The district said it continues to work on a plan with other agencies for safe remediation efforts 
+
+<br> 
+
+<https://laist.com/news/education/pasadena-unified-school-campuses-lead-toxic-new-school-year>
+
+---
+
+## Covered California health insurance will cost more in 2026. Here’s what’s behind the double-digit increase
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Millions of consumers will feel the pinch when rates already expected to rise will jump even further. Federal subsidies, set to expire at year’s end, are partly to blame. 
+
+<br> 
+
+<https://laist.com/news/covered-california-health-insurance-price-increase-2026>
+
+---
+
+## These SoCal residents are saying no to alcohol. Here are the biggest reasons why
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Drinking rates hit a new low in the U.S., according to a recent Gallup poll. 
+
+<br> 
+
+<https://laist.com/news/health/these-socal-residents-are-saying-no-to-alcohol-here-are-the-biggest-reasons-why>
+
+---
+
+## Former OC Supervisor Andrew Do turns himself in, begins 5-year federal prison term
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+The U.S. attorney handling the case called Do a "Robin Hood in reverse" for stealing money from the poor to enrich himself. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/former-oc-supervisor-andrew-do-surrenders-begins-federal-prison-term>
+
+---
+
+## California invested millions pushing these careers for women. The results are disappointing
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Women continue to lag behind men in certain science, technology, engineering, and math programs. 
+
+<br> 
+
+<https://laist.com/news/california-women-in-stem-millions-invested-disappointing-results>
+
+---
+
+## Long Beach man rescued after spending 2 days trapped behind waterfall
+
+date: 2025-08-15, from: Longbeach Post
+
+<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1024x748.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1024x748.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1536x1122.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1200x877.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-1568x1146.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15103258/screenshot-2025-08-15-at-103039am-965472-fx3cx1xo-100835-JFyqOZal.png 1727w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>He was rappelling down when he got stuck on the cliff face in Sequoia National Forest.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-man-rescued-after-spending-2-days-trapped-behind-waterfall">Long Beach man rescued after spending 2 days trapped behind waterfall</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-man-rescued-after-spending-2-days-trapped-behind-waterfall>
+
+---
+
+## A new type of rental e-bike is popping up around Long Beach
+
+date: 2025-08-15, from: Longbeach Post
+
+<figure><img width="1024" height="736" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-1024x736.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-1024x736.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-300x216.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-768x552.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-150x108.jpg 150w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C-400x287.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15110954/15aug25-8-15-25-ebike-6-658178-v07leigh-622696-TWpVig5C.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There are already about 2,000 rental e-scooters across the city. Now, the company Lime is adding around 100 redesigned electric bikes as the city further embraces the option.</p>
+<p>The post <a href="https://lbpost.com/news/a-new-type-of-rental-e-bike-is-popping-up-around-long-beach">A new type of rental e-bike is popping up around Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/a-new-type-of-rental-e-bike-is-popping-up-around-long-beach>
+
+---
+
+## Remembering Carmen González, a powerful voice for Boyle Heights and its youth
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+From telling untold stories to guiding future reporters, the 24-year-old journalist and mentor at Boyle Heights Beat left a lasting mark on her community. 
+
+<br> 
+
+<https://laist.com/news/remembering-carmen-gonzalez-a-powerful-voice-for-boyle-heights-and-its-youth>
+
+---
+
+## Trump and Putin arrive in Alaska for high-stakes summit on ending the war in Ukraine
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+President Donald Trump told reporters on Friday that he's willing to talk about business with Russian President Vladimir Putin, but said there would be no deals "until we get the war solved" in Ukraine. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-and-putin-meet-today-in-anchorage-heres-what-to-know>
+
+---
+
+## Judge strikes down Trump administration guidance against DEI programs at schools
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+A federal judge on Thursday struck down two Trump administration actions aimed at eliminating diversity, equity and inclusion programs at the nation's schools and universities. 
+
+<br> 
+
+<https://laist.com/news/education/judge-strikes-down-trump-administration-guidance-against-dei-programs-at-schools>
+
+---
+
+## Covered California health insurance will cost more in 2026. Here’s what’s behind the double-digit increase
+
+date: 2025-08-15, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/15073155/042924-covered-ca-ah-06-781761-z7pyodac-792677-8TDr3QJP.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Federal subsidies, set to expire at year’s end, will tighten an already-expected pinch on millions of consumers.</p>
+<p>The post <a href="https://lbpost.com/news/health/covered-california-health-insurance-will-cost-more-in-2026-heres-whats-behind-the-double-digit-increase">Covered California health insurance will cost more in 2026. Here’s what’s behind the double-digit increase</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/health/covered-california-health-insurance-will-cost-more-in-2026-heres-whats-behind-the-double-digit-increase>
+
+---
+
+## Second man arrested in deadly beating of homeless man in parking lot, LBPD says
+
+date: 2025-08-15, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Los Angeles County Medical Examiner ruled the victim's death a homicide due to “multiple blunt force traumatic injuries.”</p>
+<p>The post <a href="https://lbpost.com/news/crime/second-man-arrested-in-deadly-beating-of-homeless-man-in-parking-lot-lbpd-says">Second man arrested in deadly beating of homeless man in parking lot, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/second-man-arrested-in-deadly-beating-of-homeless-man-in-parking-lot-lbpd-says>
+
+---
+
+## Cooling to carry over into the weekend in SoCal
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+We're going to see temperatures continue to cool down this weekend with highs mostly in the 80s. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cooling-to-carry-over-into-the-weekend-in-socal>
+
+---
+
+## Santa Ana police have been violating state military equipment law for 2 years: ‘We messed up’
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Police chief attributed the noncompliance to “an administrative oversight.” 
+
+<br> 
+
+<https://laist.com/news/politics/santa-ana-police-department-military-equipment>
+
+---
+
+## ‘This ain’t no damn fish and chips': OC pop-up brings Southern cuisine to SoCal
+
+date: 2025-08-15, updated: 2025-08-15, from: The LAist
+
+Asha Starks, owner of Hot Grease, is honoring a Black tradition on her home turf — the OC. 
+
+<br> 
+
+<https://laist.com/news/food/hot-grease-oc-fish-fry-pop-up>
 
 ---
 
@@ -30,18 +222,6 @@ Influencers on TikTok and other social media platforms are going back to recessi
 <br> 
 
 <https://laist.com/news/food/recession-era-recipes-flourish-on-tiktok>
-
----
-
-## ‘This ain’t no damn fish and chips': OC pop-up brings Southern cuisine to SoCal
-
-date: 2025-08-15, updated: 2025-08-15, from: The LAist
-
-Asha Stark, owner of Hot Grease, is honoring a Black tradition on her home turf — the OC. 
-
-<br> 
-
-<https://laist.com/news/food/hot-grease-oc-fish-fry-pop-up>
 
 ---
 
@@ -95,7 +275,7 @@ The fire started at about 3 p.m. Thursday in dry brush.
 
 ## Airbnb pushes ‘Save Our Services’ campaign for more short-term rentals in LA
 
-date: 2025-08-14, updated: 2025-08-14, from: The LAist
+date: 2025-08-14, updated: 2025-08-15, from: The LAist
 
 The campaign, backed by labor unions and community groups, says allowing short term rental of second homes would generate nearly $80 million in city revenue. 
 
@@ -145,7 +325,7 @@ The commission will vote Friday on whether to grant the airshow a one-year permi
 
 date: 2025-08-14, from: Longbeach Post
 
-<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="552" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-1024x552.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-300x162.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-768x414.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-192x104.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA-400x216.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/08/08114352/07aug25-8-7-25-lawsuit-2-457755-qydfmimr-350074-O4HjL6bA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The law firm denies targeting anyone, saying they’re standing up for “disabled folks who have enough pain in their lives already.”</p>
 <p>The post <a href="https://lbpost.com/news/business/small-business/ada-lawsuits-bar-owners-long-beach-counter-suit">Bar owners say a law firm targeted them with predatory discrimination lawsuits, so they’re suing back</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

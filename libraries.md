@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-08-15 06:10:02
+updated: 2025-08-15 14:08:04
 ---
 
 # libraries
 
-(date: 2025-08-15 06:10:02)
+(date: 2025-08-15 14:08:04)
+
+---
+
+## The Vital Role of Sustainability in Academic Libraries
+
+date: 2025-08-15, from: Association of Research Libraries News
+
+<p>Editor’s note: The Association of Research Libraries (ARL) is a partner of the Sustainable Libraries Initiative (SLI) to give ARL members access to sustainability resources and tools and to advance sustainability in...</p>
+<p>The post <a href="https://www.arl.org/blog/the-vital-role-of-sustainability-in-academic-libraries/">The Vital Role of Sustainability in Academic Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/the-vital-role-of-sustainability-in-academic-libraries/>
 
 ---
 
