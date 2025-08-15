@@ -1,0 +1,14 @@
+#
+# Health and Sience
+#
+https://peoplescdc.org/feed/ "~People's CDC"
+https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellular and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://www.nature.com/commsbio.rss "~Nature, Communications on Biology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # Not responding as of 2023-12-22, redirect isn't working due to an authorization URLs
+#https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Fcommsbio.rss "~Nature, Communications on Biology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+
+#
+# Health and Diet
+#
+https://www.thekidneydietitian.org/feed/ "~The Kidney Dietitian"
+https://centerforhealthyliving-southern-california.kaiserpermanente.org/feed/ "~Center for Healthy Living, So Cal. Kaiser blog"
+https://www.jessicaknurick.com/blog-feed.xml "~Dr. Jesica Knurick blog"

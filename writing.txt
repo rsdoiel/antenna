@@ -1,0 +1,23 @@
+#
+# Writing list provides resources and inspiration for writing projects and IF (Interactive Fiction)
+#
+https://locusmag.com/feed/ "~Locus Magazine"
+https://blog.finaldraft.com/rss.xml "~Final Draft blog"
+https://www.literatureandlatte.com/feed "~Literature & a Latte blog"
+#http://www.spagmag.org/feed/ "~SPAG Magazine blog" # SPAG is dormaint, IFTF is its successor owner
+#https://narrascope.org/feeds/all.atom.xml "~NarraScope, Celebrating Narrative Games" # IFTF now subsumes narrascope.org, no feed.
+https://blog.iftechfoundation.org/atom.xml "~(IFTF) Interactive Fiction Technology Foundation"
+https://ganelson.github.io/inform-website/feed.xml "~Inform 7 IF language blog"
+https://chrisklimas.com/rss.xml "~Chris Klimas blog (creator of Twine, an IF language)"
+https://emshort.blog/feed/ "~Emily Short's blog (interactive fiction)"
+https://ifdb.org/news?rss "~IF Database News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://www.ifwiki.org/index.php?title=Special:RecentChanges&feed=atom "~IF Wiki updates"
+https://blog.ifcomp.org/rss "~IF Competition Blog"
+https://www.authorsalliance.org/category/blog/feed/ "~Author's Union blog"
+https://bsky.app/profile/did:plc:o6ibgputv3kmdq6ebzd27ezx/rss "~Neil Gaiman @ BlueSky"
+https://margaretatwood.substack.com/feed "~Margaret Atwoods Substack"
+https://johnaugust.com/feed "~John August blog"
+https://inneresting.substack.com/feed "Interesting, a blog on writing"
+#https://prolost.com/blog?format=rss "~Prolost blog, film making"
+#https://candlerblog.com/posts/atom.xml "~Jonathan Poritsky blog"
+
