@@ -19,6 +19,59 @@
   </nav>
   <section>
 
+    <article data-published="2025-08-15T23:09:32Z" data-link="https://simonwillison.net/2025/Aug/15/gpt-5-has-a-hidden-system-prompt/#atom-everything">
+      <h1>GPT-5 has a hidden system prompt</h1>
+
+(date: 2025-08-15, updated: 2025-08-15, from: Simon Willison’s Weblog)
+      <p>
+      <p><strong><a href="https://twitter.com/xundecidability/status/1956347084870651960">GPT-5 has a hidden system prompt</a></strong></p>
+It looks like GPT-5 when accessed via the OpenAI API may have its own hidden system prompt, independent from the system prompt you can specify in an API call.</p>
+<p>At the very least it's getting sent the current date. I tried this just now:</p>
+<pre><code>llm -m gpt-5 'current date'
+</code></pre>
+<p>That returned "2025-08-15", confirming that the date has been fed to the model as part of a hidden prompt.</p>
+<pre><code>llm -m gpt-5 'current date' --system 'speak french'
+</code></pre>
+<p>Returned "La date actuelle est le 15 août 2025", showing that offering my own custom system prompt did not over-ride the invisible one that includes the date.</p>
+<p>GPT-5 is <em>very</em> resistant to sharing the details of this secret system prompt, but Tommy Hughes <a href="https://x.com/xundecidability/status/1956347084870651960">managed to extract</a> the following:</p>
+<blockquote>
+<p><code>Current date: 2025-08-15</code></p>
+<p><code>You are an AI assistant accessed via an API. Your output may need to be parsed by code or displayed</code></p>
+<p><code># Desired oververbosity for the final answer (not analysis): 3</code></p>
+<p><code>An oververbosity of 1 means the model should respond using only the minimal content necessary to satisfy the request, using concise phrasing and avoiding extra detail or explanation.</code></p>
+<p><code>An oververbosity of 10 means the model should provide maximally detailed, thorough responses with context, explanations, and possibly multiple examples.</code></p>
+<p><code>The desired oververbosity should be treated only as a *default*. Defer to any user or developer requirements regarding response length, if present.</code></p>
+<p><code># Valid channels: analysis, commentary, final. Channel must be included for every message.</code><br>
+<code># Juice: 64</code></p>
+</blockquote>
+<p>I've not been able to confirm this myself, but a <a href="https://github.com/search?q=%22desired+oververbosity%22&amp;type=code">search for "desired oververbosity" on GitHub</a> shows that a similar prompt has leaked from ChatGPT (including for o3) in the past. I suspect Tommy's leaked prompt is accurate here.</p>
+<p>I tried asking GPT-5 about "oververbosity" via its API:</p>
+<pre><code>llm -m gpt-5 'explain your oververbosity settings, what is it right now?'
+</code></pre>
+<p>And <a href="https://gist.github.com/simonw/2d787391a13caeb0a5ced7c8d5d597c8">got back</a>:</p>
+<blockquote>
+<ul>
+<li>What it is: I adjust how detailed I am based on a “verbosity” level—ranging from very brief to very detailed—so answers fit your needs.</li>
+<li>Current setting: Concise (about 3/10). I prioritize direct answers with minimal extra context and keep explanations short unless you ask for more.</li>
+<li>How to change it: Just say what you want, e.g.:<ul>
+<li>“One-sentence answer” or “TL;DR” (very brief)</li>
+<li>“Give a concise summary” (short bullets)</li>
+<li>“Walk me through in detail,” “Deep dive,” or “Include examples/edge cases” (more detailed)</li>
+</ul>
+</li>
+<li>Note: For ambiguous, technical, or safety-critical topics, I may add brief clarifications even when being concise.</li>
+</ul>
+</blockquote>
+<p>Presumably this is part of OpenAI's instruction hierarchy concept, with these instructions taking precedence over the developer instructions provided by API users (my <code>--system 'speak french'</code> option above).</p>
+<p>I'd very much appreciate official documentation that describes this! As an API user I want to know <em>everything</em> that is being fed into the model - I would be much more comfortable with a hidden prompt like this if I knew exactly what was in it.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Aug/15/gpt-5-has-a-hidden-system-prompt/#atom-everything">https://simonwillison.net/2025/Aug/15/gpt-5-has-a-hidden-system-prompt/#atom-everything</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-15T22:44:44Z" data-link="https://simonwillison.net/2025/Aug/15/the-summer-of-johann/#atom-everything">
       <h1>The Summer of Johann: prompt injections as far as the eye can see</h1>
 
@@ -1214,6 +1267,19 @@ Single Sign-On (SSO) - Centralized authentication across multiple applications U
       </address>
     </article>
 
+    <article data-published="2025-08-12T20:58:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p">
+      <h1>@Robert's feed at BlueSky</h1><br>
+
+(date: 2025-08-12, from: Robert's feed at BlueSky)
+      <p>
+      It days like this ... Said the protagonist as he reached for ...
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-12T19:24:58Z" data-link="https://mjtsai.com/blog/2025/08/12/reddit-will-block-the-internet-archive/">
       <h1>Reddit Will Block the Internet Archive</h1>
 
@@ -1512,6 +1578,19 @@ Each service manually implements load balancing, retries, and circuit breakers S
       </address>
     </article>
 
+    <article data-published="2025-08-12T04:04:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m">
+      <h1>@Robert's feed at BlueSky</h1><br>
+
+(date: 2025-08-12, from: Robert's feed at BlueSky)
+      <p>
+      🙂
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m">https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-12T03:32:04Z" data-link="https://simonwillison.net/2025/Aug/12/nick-turley/#atom-everything">
       <h1>Quoting Nick Turley</h1>
 
@@ -1685,6 +1764,19 @@ llm --tool 'Datasette("https://datasette.simonwillison.net/simonwillisonblog")' 
       </address>
     </article>
 
+    <article data-published="2025-08-11T22:14:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5t2e56o22a">
+      <h1>@Robert's feed at BlueSky</h1><br>
+
+(date: 2025-08-11, from: Robert's feed at BlueSky)
+      <p>
+      Nice.
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5t2e56o22a">https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5t2e56o22a</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-11T21:49:44Z" data-link="https://tilde.zone/@tomasino/115012336650081880">
       <h1>@Tomosino's Mastodon feed</h1><br>
 
@@ -1739,6 +1831,17 @@ llm --tool 'Datasette("https://datasette.simonwillison.net/simonwillisonblog")' 
 
       <address>
         <a href="https://liliputing.com/ploopy-trackpad-review-usb-touchpad-with-open-source-firmware-and-multitouch-support/">https://liliputing.com/ploopy-trackpad-review-usb-touchpad-with-open-source-firmware-and-multitouch-support/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-11T18:59:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5i4dn56s23">
+      <h1>@Robert's feed at BlueSky</h1><br>
+
+(date: 2025-08-11, from: Robert's feed at BlueSky)
+      <p>
+      This is important.  https://laist.com/news/politics/tuesday-august-14-boycott-operation-trojan-horse
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5i4dn56s23">https://bsky.app/profile/rsdoiel.bsky.social/post/3lw5i4dn56s23</a>
       </address>
     </article>
 
@@ -1900,6 +2003,17 @@ exec codex --dangerously-bypass-approvals-and-sandbox "$@"
       The human voiceover artists behind AI voices are grappling with the choice to embrace the gigs and earn a living, or pass on potentially life-changing opportunities from Big Tech.
       <address>
         <a href="https://www.404media.co/voiceover-artists-ai-voice-acting-jobs-microsoft-openai-chatgpt/">https://www.404media.co/voiceover-artists-ai-voice-acting-jobs-microsoft-openai-chatgpt/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-11T14:43:09Z" data-link="https://www.404media.co/the-u-s-army-is-testing-ai-controlled-ground-drones-near-a-border-with-russia/">
+      <h1>The U.S. Army Is Testing AI Controlled Ground Drones Near a Border with Russia</h1>
+
+(date: 2025-08-11, from: 404 Media Group)
+      <p>
+      The OverDrive is made to let ground vehicles navigate tough terrain with minimal input from humans.
+      <address>
+        <a href="https://www.404media.co/the-u-s-army-is-testing-ai-controlled-ground-drones-near-a-border-with-russia/">https://www.404media.co/the-u-s-army-is-testing-ai-controlled-ground-drones-near-a-border-with-russia/</a>
       </address>
     </article>
 
@@ -2180,6 +2294,18 @@ SVG is for vector graphics, but this request violates physics and biology. If I 
       </address>
     </article>
 
+    <article data-published="2025-08-10T22:18:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw3cri7t5c2l">
+      <h1>@Robert's feed at BlueSky</h1><br>
+
+(date: 2025-08-10, from: Robert's feed at BlueSky)
+      <p>
+      Wrote up a short post on using Flat Lake, flatelake.app, and Deno+TypeScript to generate RSS 2.0 feeds. https://rsdoiel.github.io/blog/2025/08/10/generating_rss_with_flatlake.html
+https://flatelake.app
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw3cri7t5c2l">https://bsky.app/profile/rsdoiel.bsky.social/post/3lw3cri7t5c2l</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-10T17:44:02Z" data-link="https://liliputing.com/lilbits-2/">
       <h1>Lilbits: AOL frees up your phone line by ending dial-up access</h1>
 
@@ -2190,6 +2316,19 @@ SVG is for vector graphics, but this request violates physics and biology. If I 
 
       <address>
         <a href="https://liliputing.com/lilbits-2/">https://liliputing.com/lilbits-2/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-10T16:06:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw2nz5raws2q">
+      <h1>@Robert's feed at BlueSky</h1><br>
+
+(date: 2025-08-10, from: Robert's feed at BlueSky)
+      <p>
+      😆👇
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw2nz5raws2q">https://bsky.app/profile/rsdoiel.bsky.social/post/3lw2nz5raws2q</a>
       </address>
     </article>
 
