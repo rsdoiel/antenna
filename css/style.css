@@ -315,9 +315,9 @@ h5 { font-size: 0.85em; }
 h6 { font-size: 0.75em; }
 
 /* Adjust sizes for headings within article elements */
-article h1 { font-size: 90% !important; }
-article h2 { font-size: 90% !important; }
-article h3 { font-size: 90% !important; }
-article h4 { font-size: 90% !important; }
-article h5 { font-size: 90% !important; }
-article h6 { font-size: 90% !important; }
+article h1 { font-size: 170% !important; }
+article h2 { font-size: 150% !important; }
+article h3 { font-size: 140% !important; }
+article h4 { font-size: 130% !important; }
+article h5 { font-size: 100% !important; }
+article h6 { font-size: 100% !important; }
