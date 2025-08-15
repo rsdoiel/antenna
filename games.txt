@@ -1,4 +1,0 @@
-https://www.polygon.com/rss/index.xml "~Polygon Website" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-#https://www.polygon.com/rss/features/index.xml "~Polygon Features" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-
