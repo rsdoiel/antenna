@@ -1,0 +1,389 @@
+---
+title: going electric
+updated: 2024-12-31 07:05:44
+---
+
+# going electric
+
+(date: 2024-12-31 07:05:44)
+
+---
+
+## Xiaomi delivered a staggering 135k EVs in 2024 and looks to more than double that in 2025
+
+date: 2024-12-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Xiaomi-2025-EV-deliveries.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Infantile EV automaker <a href="https://electrek.co/guides/xiaomi/">Xiaomi Automotive</a> has capped off 2025 with delivery numbers that cannot be ignored. The company has delivered an impressive 135,000 units of its flagship SU7 EV… after launching it in late March 2024. Looking ahead to 2025, Xiaomi looks to more than double that EV output with the help of a second model and an additional phase of its production footprint.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,xiaomi,xiaomi-automobile" data-layer-viewtype="unknown" data-post-id="395757" href="https://electrek.co/2024/12/31/xiaomi-delivered-135k-evs-2024-looks-double-that-2025/#more-395757" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/31/xiaomi-delivered-135k-evs-2024-looks-double-that-2025/>
+
+---
+
+## Internal letter from XPeng CEO details 2025 goals, warns of an impending EV ‘price war’
+
+date: 2024-12-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/XPeng-2025-P7.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As we bid adieu to 2024, XPeng founder and CEO He Xiaopeng is setting the stage for a big 2025. The EV executive posted an internal letter to <a href="https://electrek.co/guides/xpeng/">XPeng</a> staff outlining the company’s key goals for the upcoming year, imploring all to prepare for fiercer competition in the EV segment and even predicted a price war on the immediate horizon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="395749" href="https://electrek.co/2024/12/31/internal-letter-xpeng-ceo-2025-goals-warns-impending-ev-price-war/#more-395749" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/31/internal-letter-xpeng-ceo-2025-goals-warns-impending-ev-price-war/>
+
+---
+
+## Retro-themed electric moped brand ONYX returns, with 55+ MPH bikes
+
+date: 2024-12-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/onyx-header-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In an end-of-the-year miracle to close out 2024, the often-lauded ONYX moped maker has announced its return after shutting down operations earlier this year. The company’s return kicks off with the release of 100 limited edition electric mopeds.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-mopeds,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="395597" href="https://electrek.co/2024/12/31/retro-themed-electric-moped-brand-onyx-returns-with-55-mph-bikes/#more-395597" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/31/retro-themed-electric-moped-brand-onyx-returns-with-55-mph-bikes/>
+
+---
+
+## Tesla semi gets closer, others are millions of miles ahead, and EV of the year
+
+date: 2024-12-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/ev-of-the-year_2024.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s exciting episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we explore not one but two existing electric truck fleets that crossed the 5 million miles driven mark this year, along with some potentially exciting news for last-minute shoppers looking for a sweet deal on a new Toyota or GMC Sierra EV, and the Electrek EV of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-trucks,ev-deals,quick-charge,tesla-semi" data-layer-viewtype="unknown" data-post-id="395731" href="https://electrek.co/2024/12/30/tesla-semi-gets-closer-others-are-millions-of-miles-ahead-and-ev-of-the-year/#more-395731" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/tesla-semi-gets-closer-others-are-millions-of-miles-ahead-and-ev-of-the-year/>
+
+---
+
+## Shell Recharge exits the US EV charger software market
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/01/big-oil-ev-charging-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Shell Recharge is discontinuing its <a href="https://www.shell.us/electric-vehicle-charging.html?&amp;utm_source=google&amp;utm_medium=paid_search&amp;utm_campaign=%7BCampaignName%7D&amp;utm_content=%7BAdGroupName%7D&amp;gad_source=1&amp;gclid=CjwKCAiApsm7BhBZEiwAvIu2XzRqKqXJiuze6Lo_xmgaTc6WMkoXOLDG31R8-I23G5Uyqhk9_PsGHBoC8KsQAvD_BwE&amp;gclsrc=aw.ds" target="_blank" rel="noreferrer noopener">Shell Sky software</a> in third-party commercial EV chargers in the US and Canada.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargelab,ev-chargers,ev-software,shell,shell-recharge" data-layer-viewtype="unknown" data-post-id="395703" href="https://electrek.co/2024/12/30/shell-recharge-exits-us-ev-charger-software-market/#more-395703" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/shell-recharge-exits-us-ev-charger-software-market/>
+
+---
+
+## Toyota’s bZ4X electric SUV looks much better with a matte green finish [Images]
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyota-bZ4X-matte-green.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota isn’t exactly known for its head-turning designs, but its electric SUV is getting a new variant. After <a href="https://electrek.co/guides/toyota-bz4x/">Toyota’s bZ4X</a> was spotted in the US with off-road upgrades and a matte green finish, are we finally about to see the new model?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="395715" href="https://electrek.co/2024/12/30/toyotas-bz4x-suv-looks-much-better-matte-green-images/#more-395715" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/toyotas-bz4x-suv-looks-much-better-matte-green-images/>
+
+---
+
+## Kia recalls nearly 23,000 EV9 SUVs because the seats may be missing bolts
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Kia-sales-November.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia issued a recall for nearly 23,000 <a href="https://electrek.co/guides/kia-ev9/">EV9</a> models in the US over potentially missing seat bolts. Although only about 1% of the electric SUVs are estimated to have the defect, Kia is recalling certain 2024 and 2025 EV9 models out of caution. Here’s how to get the fix.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="395695" href="https://electrek.co/2024/12/30/kia-recalls-23000-ev9-suvs-over-potential-missing-seat-bolts/#more-395695" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/kia-recalls-23000-ev9-suvs-over-potential-missing-seat-bolts/>
+
+---
+
+## Tesla offers free supercharging to clear out Foundation Cybertruck inventory
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/foundation-cybertruck-free-supercharging.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is now offering free lifetime supercharging for Foundation-series Cybertrucks purchased as inventory vehicles, suggesting that it’s having a tough time getting rid of the highly-priced limited edition vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck,tesla-supercharging" data-layer-viewtype="unknown" data-post-id="395692" href="https://electrek.co/2024/12/30/tesla-offers-free-supercharging-to-clear-out-foundation-cybertruck-inventory/#more-395692" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/tesla-offers-free-supercharging-to-clear-out-foundation-cybertruck-inventory/>
+
+---
+
+## Dodge Charger EV will officially launch overseas as the ‘World’s First’ electric muscle car
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Dodge-Charger-EV-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/electric-dodge-charger/">Dodge Charger Daytona EV</a> will live up to its name as the “World’s first and only electric muscle car” as it hits new markets outside North America. Dodge’s new electric Charger is officially headed overseas as the brand eyes a bigger share of the global market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger" data-layer-viewtype="unknown" data-post-id="395663" href="https://electrek.co/2024/12/30/dodge-charger-world-first-electric-muscle-car-launch-overseas/#more-395663" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/dodge-charger-world-first-electric-muscle-car-launch-overseas/>
+
+---
+
+## Chinese solar giant Trina sells its Texas factory a week after it opens [update]
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Trina-Solar-Texas.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Trina Solar has sold its Texas solar panel factory as the US scrutinizes Chinese companies cashing in on Inflation Reduction Act tax breaks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,inflation-reduction-act,solar-power,texas" data-layer-viewtype="unknown" data-post-id="388372" href="https://electrek.co/2024/12/30/chinese-solar-giant-trina-sells-its-texas-factory-a-week-after-it-opens/#more-388372" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/chinese-solar-giant-trina-sells-its-texas-factory-a-week-after-it-opens/>
+
+---
+
+## Inventory Tesla Cybertrucks Are Getting Free Lifetime Supercharging
+
+date: 2024-12-30, from: Inside EVs News
+
+Tesla is seemingly trying to get rid of dozens of Foundation Series Cybertrucks that have been sitting unsold for weeks. 
+
+<br> 
+
+<https://insideevs.com/news/745749/tesla-cybertruck-inventory-free-supercharging/>
+
+---
+
+## Aventon Pace 500.3 e-bikes with free extra battery $1,599, Anker SOLIX C200 60,000mAh power bank $110, Hoverfly, more
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Aventon-Pace-500.3-Step-Through-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>As we approach the final day of 2024, we’re still seeing some solid savings across a variety of Green Deals, with today’s roundup led by Aventon’s New Years sale that has the<a href="https://9to5toys.com/2024/12/30/aventon-pace-500-3-cruiser-e-bikes-1599/"> Pace 500.3 Cruiser e-bikes</a> continuing its Holiday bundle with a free extra battery for double mileage at <a href="https://9to5toys.com/2024/12/30/aventon-pace-500-3-cruiser-e-bikes-1599/">$1,599</a>. You’ll also find Anker’s newest <a href="https://9to5toys.com/2024/12/30/anker-solix-c200-power-bank-station-110/">SOLIX C200 DC 60,000mAh Power Bank Station</a> down at <a href="https://9to5toys.com/2024/12/30/anker-solix-c200-power-bank-station-110/">$110</a>, as well as <a href="https://9to5toys.com/2024/12/30/hoverfly-gxl-max-e-scooter-new-330-low/">Hoverfly’s GXL Max e-scooter</a> hitting a new <a href="https://9to5toys.com/2024/12/30/hoverfly-gxl-max-e-scooter-new-330-low/">$330</a> low. Bringing up the rear are two one-day-only tool sales on <a href="https://9to5toys.com/2024/12/30/greenworks-80v-blower-170-low-today/">Greenworks’ 80V 750 CFM Cordless Handheld Blower</a> at its <a href="https://9to5toys.com/2024/12/30/greenworks-80v-blower-170-low-today/">$170</a> low alongside <a href="https://9to5toys.com/2024/12/30/worx-40v-20-inch-snow-blower-350-today/">Worx’s Nitro 40V 20-inch Cordless Snow Blower</a> that is down at <a href="https://9to5toys.com/2024/12/30/worx-40v-20-inch-snow-blower-350-today/">$350</a>. Plus, all the other hangover Green Deals from last week (including the final sales of the year) can be found in the links at the bottom of the page within our <a href="https://9to5toys.com/2024/12/28/electrified-weekly-new-year-sales/">Electrified Weekly coverage</a>. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="395666" href="https://electrek.co/2024/12/30/aventon-pace-500-3-e-bike-anker-solix-c200-hoverfly-more/#more-395666" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/aventon-pace-500-3-e-bike-anker-solix-c200-hoverfly-more/>
+
+---
+
+## I bought a weird motorized suitcase in China and rode it home. Here’s what happened
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/micah-suitcase-scooter.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I was recently in China on <a href="https://electrek.co/2024/07/15/i-went-to-china-to-witness-the-secrets-of-micromobility-factories-heres-whats-coming/">yet another</a> trip to tour the factories and showrooms of several leading micromobility companies, and I’ll have more to share with you on that trip soon. But first, while I was getting ready to fly out of the Shanghai airport, I stumbled upon the coolest little motorized carry-on suitcase that functions like a seated electric scooter. I ended up buying it on the spot.</p>
+
+
+
+<p>Here’s what happened next when I tried to take it 8,000 km (5,000 miles) home.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,electric-scooter" data-layer-viewtype="unknown" data-post-id="395527" href="https://electrek.co/2024/12/30/i-bought-a-weird-motorized-suitcase-in-china-and-rode-it-home-heres-what-happened/#more-395527" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/i-bought-a-weird-motorized-suitcase-in-china-and-rode-it-home-heres-what-happened/>
+
+---
+
+## Toyota is reviving the egg-shaped Previa as its first electric minivan
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Toyota-first-electric-minivan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s egg-shaped minivan, the Previa, is officially going electric. It will be revived as the first all-electric <a href="https://electrek.co/guides/toyota/">Toyota</a> minivan. Will the funky-looking minivan find success as an EV?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="395644" href="https://electrek.co/2024/12/30/toyota-reviving-egg-shaped-previa-first-electric-minivan/#more-395644" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/toyota-reviving-egg-shaped-previa-first-electric-minivan/>
+
+---
+
+## The Best InsideEVs Stories Of 2024
+
+date: 2024-12-30, from: Inside EVs News
+
+2024 has been a wild and unpredictable year for the electric vehicle transition. Here's how we covered it. 
+
+<br> 
+
+<https://insideevs.com/news/745557/insideevs-best-stories-roundup-2024/>
+
+---
+
+## Tesla replaced laid off US workers with foreign workers using H-1B visas that Musk want to increase
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/11/tesla-hero-tsla-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has replaced some of its US employees who were let go as part of a big wave of layoffs earlier this year with foreign workers using H-1B visas, which CEO Elon Musk is now campaigning to increase.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="395621" href="https://electrek.co/2024/12/30/tesla-replaced-laid-off-us-workers-with-foreign-workers-using-h-1b-visas-that-musk-want-to-increase/#more-395621" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/tesla-replaced-laid-off-us-workers-with-foreign-workers-using-h-1b-visas-that-musk-want-to-increase/>
+
+---
+
+## Hyundai’s mysterious ‘OE’ EV model appears again: Is this the IONIQ 3 we’ve been waiting for?
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundai-IONIQ-3-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is <a href="https://electrek.co/guides/hyundai/">Hyundai</a> finally about to launch the smaller IONIQ 3 EV we’ve been waiting for? A mysterious new Hyundai ‘OE’ vehicle, which appears to be the IONIQ 5’s little sibling, has surfaced again. Here’s what we know about the new EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="395600" href="https://electrek.co/2024/12/30/hyundais-mysterious-oe-ev-appears-again-ioniq-3/#more-395600" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/hyundais-mysterious-oe-ev-appears-again-ioniq-3/>
+
+---
+
+## Massive data leak at Volkswagen exposes locations of 800,000 EV drivers, for months
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Volkswagens-ID.3-GTX-FIREICE.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A massive data leak at software company Cariad, a Volkswagen subsidiary, reportedly left the personal data, including geolocation data, of some 800,000 EV owners online and accessible for months. A major blunder from an <a href="https://electrek.co/2024/12/26/volkswagen-to-cut-35000-jobs-but-keep-factories-open/">automaker already in crisis</a>. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen" data-layer-viewtype="unknown" data-post-id="395609" href="https://electrek.co/2024/12/30/massive-data-leak-at-volkswagen-exposes-800000-ev-drivers/#more-395609" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/massive-data-leak-at-volkswagen-exposes-800000-ev-drivers/>
+
+---
+
+## Kia Recalls 22,000 EV9 SUVs Because Someone Forgot To Install Seat Bolts
+
+date: 2024-12-30, from: Inside EVs News
+
+The recall report is quite dry until you get to the Description of the Defect part. 
+
+<br> 
+
+<https://insideevs.com/news/745817/kia-ev9-recall-seat-bolts-missing/>
+
+---
+
+## Get these 0% financing deals before Trump kills the EV tax credits [UPDATE]
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/2024-Ford-Mustang-Mach-E-Off-Roading.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We don’t want to sound alarmist, <a href="https://electrek.co/2024/11/14/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/">but it sure looks like President-elect Donald Trump and his billionaire buddies are plotting to kill federal EV tax credits somewhat sooner than later</a> – and the tariffs they’re promising aren’t going to make cars cheaper anytime soon, either. So if you’re in the market for a new EV, the time is now to score a sweet 0% financing deal and get those tax credits (<a href="https://www.instagram.com/electrek.co/reel/DCjVmEnOFLG/?hl=en" target="_blank" rel="noreferrer noopener">while you still can</a>).</p>
+
+
+
+<p><strong>UPDATE</strong>: we’ve got a few new additions for the closing days of 2024, including sweet deals on the Mustang Mach-E GT (above), Toyota bZ4X, and more!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,ev-deals,kia,volkswagen" data-layer-viewtype="unknown" data-post-id="391601" href="https://electrek.co/2024/12/30/get-these-0-financing-deals-before-trump-kills-the-ev-tax-credits/#more-391601" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/30/get-these-0-financing-deals-before-trump-kills-the-ev-tax-credits/>
+
+---
+
+## NY Governor Hochul announces $28.5 million funding for DC fast chargers
+
+date: 2024-12-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/EV_Fast_Chargers_EvolveNY_Southern_Tier.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>New York Governor Kathy Hochul announced $28.5 million in additional funding being made available to install DC fast chargers for private and commercial EVs driving along major travel corridors across the Empire State.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-charging,new-york" data-layer-viewtype="unknown" data-post-id="395574" href="https://electrek.co/2024/12/29/ny-governor-hochul-announces-28-5-million-funding-for-dc-fast-chargers/#more-395574" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/29/ny-governor-hochul-announces-28-5-million-funding-for-dc-fast-chargers/>
+
+---
+
+## Milestone: Motiv Electric Trucks logs its 5 millionth electric mile
+
+date: 2024-12-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Motiv_One_GoldenGate.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Motiv Electric Trucks may not grab all the headlines, but it’s been quietly putting electric box vans to work throughout California for the past fifteen years. And, last week, the company’s commercial EV fleet logged its five millionth all-electric mile driven.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,commercial-evs,electric-van" data-layer-viewtype="unknown" data-post-id="395557" href="https://electrek.co/2024/12/29/milestone-motiv-electric-trucks-logs-its-5-millionth-electric-mile/#more-395557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/29/milestone-motiv-electric-trucks-logs-its-5-millionth-electric-mile/>
+
+---
+
+## Volvo L20 Electric wheel loader exceeding expectations of Kiwi landscaper
+
+date: 2024-12-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/kiwi_l120_volvo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo has delivered the first of its L20 Electric wheel loaders to New Zealand, with a leading landscape manufacturer putting it through its paces in an early pilot program. The verdict: Volvo’s new electric loader is exceeding expectations!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,new-zealand,volvo-construction-equipment" data-layer-viewtype="unknown" data-post-id="395544" href="https://electrek.co/2024/12/29/volvo-l20-electric-wheel-loader-exceeding-expectations-of-kiwi-landscaper/#more-395544" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/29/volvo-l20-electric-wheel-loader-exceeding-expectations-of-kiwi-landscaper/>
+
+---
+
+## Finally, An Electric Minivan With Six Wheels That Launches A Drone
+
+date: 2024-12-29, from: Inside EVs News
+
+Chinese automaker Xpeng's Land Aircraft Carrier will make an appearance at CES 2025. It may end up as the wildest car at the show. 
+
+<br> 
+
+<https://insideevs.com/news/745604/xpeng-flying-car-ces-2025/>
+

@@ -1,0 +1,576 @@
+---
+title: libraries
+updated: 2025-05-04 14:08:00
+---
+
+# libraries
+
+(date: 2025-05-04 14:08:00)
+
+---
+
+## Carbonate metasomatism at mantle wedge conditions, evidence from trace element and stable isotope (Fe, Zn) signatures of orogenic peridotites
+
+date: 2025-05-05, from: ETH Zurich, recently added
+
+Debret B.; Sossi P.A.; Malaspina N.; Gautier A.; Mattielli N.; O'Neill H.; Villalobos-Orchard J.; Moynier F. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/726172>
+
+---
+
+## The Scholarly Kitchen Hires a Sous Chef
+
+date: 2025-05-02, from: Scholarly Kitchen
+
+<p>Join us in welcoming Lettie Conrad as the new Deputy Editor at The Scholarly Kitchen.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/02/the-scholarly-kitchen-hires-a-sous-chef/">The Scholarly Kitchen Hires a Sous Chef</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/02/the-scholarly-kitchen-hires-a-sous-chef/>
+
+---
+
+## Metadata Advisory Group call for applications
+
+date: 2025-05-02, from: Crossref Blog
+
+<p>We’ve been accelerating our metadata development efforts and recently released <a href="https://www.crossref.org/blog/version-5.4.0-metadata-schema-update-now-available/">version 5.4</a> of our metadata schema, and are planning to release version 5.5 (including support for multiple contributor roles and the <a href="https://credit.niso.org/" target="_blank">CRediT</a> taxonomy) this summer. We will also extend our grants schema based on the Funders Advisory Group work, and make progress on other changes as set out on our new <a href="https://roadmap.productboard.com/e86bfb0f-1a13-49bc-b72d-f8e893041fb4" target="_blank">metadata development roadmap</a>.</p>
+<p>As we work towards the vision of the rich and reusable open network of relationships connecting research organizations, people, things, and actions, dubbed the Research Nexus, our schemas need to change to accommodate the evolving landscape of research processes and communications.</p>
+<p>In the past we convened the Metadata Interest Group that helped shape the current set of updates we’re now working through, including changes to names, expansion of support for abstracts, dates, and multilingual metadata. As we’ll soon move into new territory (support for subjects, keywords, and other metadata essential to developing a robust research nexus), we want to further enlist the support of our community to help shape the metadata we collect and the metadata best practices we promote.</p>
+<p>We are inviting Crossref members, metadata users, and others with an interest in shaping metadata development at Crossref to apply to join our new Metadata Advisory Group.</p>
+<p>The purpose of the group is to contribute your advice and insight to help shape our metadata development as we broaden the metadata we collect and outputs we support to better align with the Research Nexus. Group participants will help shape metadata development at Crossref, and will discuss potential new metadata to adopt, best practices, and the overall needs of metadata providers and users.</p>
+<p>We’re looking for participants with experience with XML, JSON, and other metadata formats. We’ll cover a range of topics but we would particularly like to engage with those of you with an interest in emerging content types.</p>
+<p>The Metadata Advisory Group will meet quarterly and we’ll accommodate multiple time zones as needed as we want participation to reflect the regional diversity of our membership.</p>
+<p>If you’re interested, please <a href="https://forms.gle/D9xYn7Y72hzXnDa18" target="_blank">submit an application</a>!</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/metadata-advisory-group-call-for-applications/>
+
+---
+
+## Case Study: How ROR in OA.Report Helps HHMI Monitor Open Access Policy Compliance
+
+date: 2025-05-01, from: ROR Research ID Blog
+
+In this dual case study, we learn why the Howard Hughes Medical Institute (HHMI) relies on OA.Report and why OA. 
+
+<br> 
+
+<https://ror.org/blog/2025-05-01-oareport/>
+
+---
+
+## Guest Post — How Libraries and Scholarly Publishers Can Work Together Toward Born-accessible Publishing
+
+date: 2025-05-01, from: Scholarly Kitchen
+
+<p>Libraries and publishers can work together to improve the availability of accessible published content for people with disabilities. Here we present recommendations to support the cross-sector collaboration necessary to improve the accessibility of content in our communities.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/05/01/guest-post-how-libraries-and-scholarly-publishers-can-work-together-toward-born-accessible-publishing/">Guest Post &#8212; How Libraries and Scholarly Publishers Can Work Together Toward Born-accessible Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/05/01/guest-post-how-libraries-and-scholarly-publishers-can-work-together-toward-born-accessible-publishing/>
+
+---
+
+## Jewish American Heritage Month – Jewish American Identity, Heritage and Culture Through Popular Fiction
+
+date: 2025-05-01, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/05/Untitled-design14.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Jewish American Heritage Month 2025: Jewish American Identity, Heritage and Culture Through Popular Fiction   Post, Theme, and Recommended Reading Titles Curated by Lynn Lampert,&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/05/01/jewish-american-heritage-month-identity-heritage-and-culture-through-popular-fiction/>
+
+---
+
+## Evaluating methods to estimate the water equivalent of new snow from daily snow depth recordings
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Magnusson J.; Cluzet B.; Quéno L.; Mott R.; Oberrauch M.; Mazzotti G.; Marty C.; Jonas T. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/723732>
+
+---
+
+## Air Demand and Flow Patterns of Low-Level Outlets: Accounting for Wall Roughness
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Pagliara, Simone; Felder, Stefan; Hohermuth, Benjamin; Boes, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/725243>
+
+---
+
+## Ice core dating with the ³⁶Cl/¹⁰Be ratio
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Kappelt, Niklas; Muscheler, Raimund; Baroni, Mélanie; Beer, Juerg; Christl, Marcus; Vockenhuber, Christof; Bard, Edouard; ASTER Team; Wolff, Eric 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/725641>
+
+---
+
+## 3 MV accelerator mass spectrometry measurements of <sup>36</sup>Cl using the Isobar Separator for Anions
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Flannigan E.L.; Kieser W.E.; Crann C.A.; Vockenhuber C.; Francisco B.B.A. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/729254>
+
+---
+
+## Diffusion Based Robust LiDAR Place Recognition
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Krummenacher, Benjamin; Frey, Jonas; Tuna, Turcan; Vysotska, Olga; Hutter, Marco 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/731758>
+
+---
+
+## Exploring the biomechanical link between wheelchair propulsion, shoulder injury and shoulder pain: A scoping review
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Salzmann I.P.; Rietveld T.; Togni R.; Briley S.J.; Goosey-Tolfrey V.L.; de Vries W.H.K.; Vegter R.J.K. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/731984>
+
+---
+
+## Whole-Body End-Effector Pose Tracking
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Portela, Tifanny 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732767>
+
+---
+
+## How Prostate Cancer Growth Patterns Impact Detection and Interreader Agreement on Multiparametric MRI
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Hausmann D.; Rupp N.; Kuzmanic B.; Spielhofer N.; Heimer J.; Koelzer V.; Nowak M.; Gampp C.; Hefermehl L.; Kubik-Huch R.A.; Singer G.; Burger I.A. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732786>
+
+---
+
+## Peer2PIR: Private Queries for IPFS
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Mazmudar, Miti; Veitch, Shannon; Akhavan Mahdavi, Rasoul 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733500>
+
+---
+
+## Congestion-aware optimization of urban road space allocation for cars and bicycle
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Ni, Ying-Chuan; Mohapatra, Adyasha; Makridis, Michail; Kouvelas, Anastasios 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733499>
+
+---
+
+## Should I stay or should I go: transmission trade-offs in phages and plasmids
+
+date: 2025-05-01, from: ETH Zurich, recently added
+
+Huisman J.S.; Bernhard A.; Igler C. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733497>
+
+---
+
+## No Treason, by Lysander Spooner
+
+date: 2025-04-30, from: Standard Ebooks, new releaases
+
+Lawyer and political philosopher Lysander Spooner presents his case for the invalidity of the United States Constitution. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/lysander-spooner/no-treason>
+
+---
+
+## AI chatbots and the simulation of dialog: what does Bakhtinian theory have to say?
+
+date: 2025-04-30, from: SciELO in Perspective
+
+<p>Proposal of a model for the discursive analysis of interactions with AI chatbots in the light of Bakhtinian concepts in which a controlled polyphony is observed, where all voices are reconciled in a “simulated dialog” that can impoverish critical thinking. We advocate the urgency of AI literacy development considering its ideological, political, and educational implications. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/04/30/ai-chatbots-and-the-simulation-of-dialog-what-does-bakhtinian-theory-have-to-say/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/04/30/ai-chatbots-and-the-simulation-of-dialog-what-does-bakhtinian-theory-have-to-say/">AI chatbots and the simulation of dialog: what does Bakhtinian theory have to say?</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/04/30/ai-chatbots-and-the-simulation-of-dialog-what-does-bakhtinian-theory-have-to-say/>
+
+---
+
+## Trump v. Research: How We Could Turn the Threats into Opportunities
+
+date: 2025-04-30, from: Scholarly Kitchen
+
+<p>Alice Meadows and guest chef Suze Kundu look at how, by acting collectively across all stakeholder groups, we could turn the Trump administration's threats against research into opportunities</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/30/trump-v-research-how-we-could-turn-the-threats-into-opportunities/">Trump v. Research: How We Could Turn the Threats into Opportunities</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/30/trump-v-research-how-we-could-turn-the-threats-into-opportunities/>
+
+---
+
+## Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits
+
+date: 2025-04-30, from: ETH Zurich, recently added
+
+Lacroix, Nathan 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733296>
+
+---
+
+## Kundenumfrage 2024 der ETH-Bibliothek
+
+date: 2025-04-30, from: ETH Zurich, recently added
+
+Ackermann, Tobias
+ETH-Bibliothek 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732616>
+
+---
+
+## The Private Papers of Henry Ryecroft, by George Gissing
+
+date: 2025-04-29, from: Standard Ebooks, new releaases
+
+A retired Englishman muses on life and literature in his private diary. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/george-gissing/the-private-papers-of-henry-ryecroft>
+
+---
+
+## Why Wouldn’t You Want This Job? You Can Change People’s Lives: Judy Russell Reflects on Her Career and the Profession
+
+date: 2025-04-29, from: Association of Research Libraries News
+
+<p>Last Updated on April 29, 2025, 10:12 am ET Dean Judy Russell will step down from her position in July 2025 after leading the University of Florida (UF) George A....</p>
+<p>The post <a href="https://www.arl.org/blog/why-wouldnt-you-want-this-job-you-can-change-peoples-lives-judy-russell-reflects-on-her-career-and-the-profession/">Why Wouldn’t You Want This Job? You Can Change People’s Lives: Judy Russell Reflects on Her Career and the Profession</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/why-wouldnt-you-want-this-job-you-can-change-peoples-lives-judy-russell-reflects-on-her-career-and-the-profession/>
+
+---
+
+## AI Strategy, Governance, and Monetization in Scholarly Publishing: Lessons from Industry Front-Runners
+
+date: 2025-04-29, from: Scholarly Kitchen
+
+<p>At the 3rd Generative AI Summit in London, global leaders and companies shared how they're embedding generative AI into strategies, workflows, and products for commercial success, operational efficiency, and competitive advantage. Here, we’d like to share key takeaways and insights from multiple perspectives and explore what they mean for publishers.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/29/ai-strategy-governance-and-monetization-in-scholarly-publishing-lessons-from-industry-front-runners/">AI Strategy, Governance, and Monetization in Scholarly Publishing: Lessons from Industry Front-Runners</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/29/ai-strategy-governance-and-monetization-in-scholarly-publishing-lessons-from-industry-front-runners/>
+
+---
+
+## What’s Wrong with the World, by G. K. Chesterton
+
+date: 2025-04-29, from: Standard Ebooks, new releaases
+
+Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world>
+
+---
+
+## Alena Buyx (2024) Leben und Sterben – Die großen Fragen ethisch entscheiden
+
+date: 2025-04-29, from: ETH Zurich, recently added
+
+Daniel Lucas 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733167>
+
+---
+
+## Reflections from Crossref Accra 2025 - Strengthening open science and partnerships in Ghana
+
+date: 2025-04-29, from: Crossref Blog
+
+<p>Crossref is a membership organisation, and it’s the global community of members that creates the <a href="https://www.crossref.org/documentation/research-nexus/">Research Nexus</a> together. Meeting our community locally is a highlight and an important learning experience. This year, we started by connecting with a growing community in Accra, Ghana - our first in-person event in the country included in <a href="https://www.crossref.org/gem/">our GEM program</a>. From 14 members in 2023 to 31 in 2025, our community in Ghana is blooming.</p>
+<p>At its core, Crossref Accra 2025 was about showing up for the community in Ghana - listening, learning, and building together. On the 20th of March, we welcomed 66 participants: journal editors, university staff, librarians, and researchers. People who are doing the real work of making scholarly publishing happen in the region.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/group-photo-crossref-accra.jpeg"
+alt="Photo: Participants from across Ghana’s research and publishing landscape." width="100%"><figcaption>
+<p>Photo: Participants from across Ghana’s research and publishing landscape.</p>
+</figcaption>
+</figure>
+</div>
+<p>We started the day with a <a href="https://www.crossref.org/services/">walkthrough of Crossref’s services</a>, then shifted into more tailored conversations - talking metadata quality, improving discoverability, and making Crossref tools work for the local context. The panel featuring <a href="https://www.ajol.info/index.php/ajol" target="_blank">AJOL</a>, <a href="https://wacren.net/en/" target="_blank">WACREN</a>, and <a href="https://www.carligh.org/" target="_blank">CARLIGH</a> was a key moment. We heard honest reflections about journal sustainability, the barriers to indexing, and how Open Access can grow if local infrastructure is supported. Each organisation shared how they’re working to strengthen research communities and where they see Crossref fitting into that bigger picture.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/panel-session-crossref-accra.jpeg"
+alt="Photo: Crossref Ambassador Richard Lamptey moderates a panel with WACREN’s Effah Amponsah, CARLIGH’s Mac Anthony Cobblah, and AJOL’s Kylie van Zyl on sustaining journals and advancing Open Access in the region." width="70%"><figcaption>
+<p>Photo: Crossref Ambassador Richard Lamptey moderates a panel with WACREN’s Effah Amponsah, CARLIGH’s Mac Anthony Cobblah, and AJOL’s Kylie van Zyl on sustaining journals and advancing Open Access in the region.</p>
+</figcaption>
+</figure>
+</div>
+<p>During the dedicated listening session, participants spoke candidly about the cost burden of APCs, the over-reliance on foreign journals for recognition, and the uphill battle local journals face, from limited resources to slow workflows. There was a clear push for stronger local publishing platforms and more training around <a href="https://www.crossref.org/documentation/register-maintain-records/ojs-plugin/">tools like OJS</a>. People want technical clarity: How does Crossref fit into their workflows? What’s involved in registering metadata and DOIs? What’s the actual value? Many also voiced interest in strengthening relationships with indexing services, and connecting university presses more directly with Crossref. The afternoon breakout sessions were hands-on. One group explored how to use the <a href="https://www.crossref.org/documentation/reports/participation-reports/">Participation Reports</a> to check metadata completeness, while the other dove into using <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">the Crossref API</a>. People started swapping tips, asking questions, and brainstorming ways to improve how their institutions handle metadata. Several wanted to know how to automate more of their workflows through OJS, boost reference linking, and pull better reports from the Crossref system.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/snapshots-crossref-accra.jpeg"
+alt="Photo: A collage of snapshots capturing activities at the Crossref Accra event." width="50%"><figcaption>
+<p>Photo: A collage of snapshots capturing activities at the Crossref Accra event.</p>
+</figcaption>
+</figure>
+</div>
+<p>Outside the main event, we also visited some of our members and stopped by the <a href="https://aau.org/" target="_blank">Association of African Universities</a>. These visits gave us more time for deeper conversations about publishing workflows, ORCID uptake, metadata visibility, and the bigger picture of Open Access in Ghana. We heard a lot about the potential for more equitable partnerships and stronger local ownership of publishing infrastructure.</p>
+<p>Post-event feedback made one thing clear: people want more opportunities to learn - more practical workshops, more guidance on using Crossref tools, and more support navigating the technical side of things. There’s growing interest in forming a local user group, a space to keep sharing, troubleshooting, and moving forward together. And the desire to improve indexing and visibility was a recurring theme. People see registering identifiers for content as an essential step on that journey. There’s also a broader concern about long-term sustainability and ethical publishing practices. Many journals are doing their best in tough conditions, and there’s a real appetite for honest conversations about quality, trust, and resilience.</p>
+<div style="text-align:center;margin:10px">
+<figure><img src="https://www.crossref.org/images/blog/2025/staff-ambassadors-crossref-accra.jpg"
+alt="Photo: Crossref staff and ambassadors with member Amy Asimah from Regional Maritime University. Pictured: Johanssen Obanda, Oumy Ndiaye, Evans Atoni, Patience Mbum, Audrey Kenni Nganmeni, Ginny Hendricks, and Richard Lamptey." width="75%"><figcaption>
+<p>Photo: Crossref staff and ambassadors with member Amy Asimah from Regional Maritime University. Pictured: Johanssen Obanda, Oumy Ndiaye, Evans Atoni, Patience Mbum, Audrey Kenni Nganmeni, Ginny Hendricks, and Richard Lamptey.</p>
+</figcaption>
+</figure>
+</div>
+<p>Crossref Accra 2025 reminded us how valuable these local gatherings are - not just for sharing tools and workflows, but for building lasting connections. We’re grateful to <a href="https://www.crossref.org/community/ambassadors/">our Ambassadors</a> and team who helped make it happen, and we’re committed to deepening our support across the region. There’s so much potential in Ghana’s scholarly community, and in West Africa more broadly, as we’ve seen again at WACREN in Senegal a couple of weeks later. We’re committed to working with local partners to help it grow.</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/reflections-from-crossref-accra-2025-strengthening-open-science-and-partnerships-in-ghana/>
+
+---
+
+## Day in Review (April 28–May 1)
+
+date: 2025-04-28, from: Association of Research Libraries News
+
+<p>Last Updated on May 1, 2025, 2:39 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 29 &#124; Wednesday, April 30 &#124; Thursday, May 1 Monday, April 28...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-april-28-may-1/">Day in Review (April 28–May 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-april-28-may-1/>
+
+---
+
+## The First Men in the Moon, by H. G. Wells
+
+date: 2025-04-28, from: Standard Ebooks, new releaases
+
+Two British men become the first humans to reach the Moon. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/h-g-wells/the-first-men-in-the-moon>
+
+---
+
+## Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession—an Oral History Interview
+
+date: 2025-04-28, from: Association of Research Libraries News
+
+<p>Last Updated on May 2, 2025, 12:37 pm ET University Librarian Steve Mandeville-Gamble will retire at the end of the academic year, after leading the University of California (UC) Riverside...</p>
+<p>The post <a href="https://www.arl.org/blog/libraries-bring-people-and-information-together-to-change-the-world-steve-mandeville-gamble-on-his-career-and-the-profession/">Libraries Bring People and Information Together to Change the World: Steve Mandeville-Gamble on His Career and the Profession—an Oral History Interview</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/libraries-bring-people-and-information-together-to-change-the-world-steve-mandeville-gamble-on-his-career-and-the-profession/>
+
+---
+
+## An announcement from GraspOS: Final Conference of the GraspOS Project
+
+date: 2025-04-28, from: Open Citation blog at Hypotheses.org
+
+SAVE THE DATE Opening Research Assessment Final Conference of the GraspOS Project 12–13 November 2025 CNR Area della Ricerca di Pisa, Italy We are pleased to announce the Final Conference of the GraspOS project: Opening Research Assessment, taking place on 12–13 November 2025 in Pisa, Italy. For research assessment to truly support Open Science, we must prioritise transparency, inclusivity, and fairness in how we recognise research activities and contributions. This means not only ensuring that all contributions to Open Science are valued but also &#8230; <a href="https://opencitations.hypotheses.org/3891" class="more-link">Continue reading <span class="screen-reader-text">An announcement from GraspOS: Final Conference of the GraspOS Project</span></a> 
+
+<br> 
+
+<https://opencitations.hypotheses.org/3891>
+
+---
+
+## Innovation, Governance, and Public Trust: The US Office of Management and Budget (OMB) Issues Guidance on AI
+
+date: 2025-04-28, from: Scholarly Kitchen
+
+<p>We are expecting the US Government's AI Action Plan to be issued over the summer. In the meantime, we may glean some of the administration’s views by looking at recently issued information from the Office of Management and Budget (OMB).</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/28/innovation-governance-and-public-trust-the-us-office-of-management-and-budget-omb-issues-guidance-on-ai/">Innovation, Governance, and Public Trust: The US Office of Management and Budget (OMB) Issues Guidance on AI</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/28/innovation-governance-and-public-trust-the-us-office-of-management-and-budget-omb-issues-guidance-on-ai/>
+
+---
+
+## Data on the adoption of integrated pest management (IPM) practices in potato production in Belgium
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Akter, Sharmin; Kreft, Cordelia; McCallum, Chloe; Möhring, Niklas; Wauters, Erwin; Sciffer, Clara; Finger, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732959>
+
+---
+
+## Verifying maximum link loads in a changing world
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Schneider, Tibor; Vissicchio, Stefano; Vanbever, Laurent 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/711664>
+
+---
+
+## Data on the adoption of integrated pest management (IPM) practices in wheat production in Germany
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Akter, Sharmin; Kreft, Cordelia; McCallum, Chloe; Möhring, Niklas; Dachbrodt-Saaydeh, Silke; Lars-Ole, Hingst; Finger, Robert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/732961>
+
+---
+
+## Enhancing DOI Accessibility for All Users
+
+date: 2025-04-28, from: Crossref Blog
+
+<h2 id="2025-update">2025 Update</h2>
+<p>In 2022, we set out to update our DOI display guidelines with the intention to adopt <a href="https://www.google.com/url?q=https://www.crossref.org/blog/accessibility-for-crossref-doi-links-call-for-comments-on-proposed-new-guidelines/&amp;sa=D&amp;source=docs&amp;ust=1743783400818874&amp;usg=AOvVaw1nQSWSpVDD3j4Hbeo-Hb_g" target="_blank">the proposals</a> in 2025. It’s important to note from the outset that we are not mandating any immediate changes to the <a href="https://www.crossref.org/display-guidelines/" target="_blank">DOI display guidelines</a>. Instead, we are working with our community to co-create a solution that addresses the diverse needs of all users, rather than imposing technical changes that may not suit everyone.</p>
+<h2 id="background">Background</h2>
+<p>DOI links are the lifeblood of scholarly communication. They’re the canonical identifiers that enable researchers to find, cite, and assess academic work. In essence, they’re stable, reliable, and easy to use—provided you can see them. But what happens when a user can’t rely on visual cues?</p>
+<h2 id="the-accessibility-challenge">The Accessibility Challenge</h2>
+<p>For users of screen readers and other assistive technologies, the full value of a DOI link can be lost. While sighted users benefit from the context surrounding a DOI link—such as the title, abstract, and other metadata—screen reader users often hear just the bare URL. This means they might not know what content the DOI link represents, leading to confusion and a diminished browsing experience.</p>
+<p>The problem is compounded by the technical nature of DOI links. Being URIs (Uniform Resource Identifiers), they don&rsquo;t naturally lend themselves to the same accessibility techniques as standard URLs. When we attempted to tweak DOI links directly, every change that improved accessibility for one group inadvertently hindered another. Whether it was a WCAG (Web Content Accessibility Guidelines) rule or an ARIA (Accessible Rich Internet Applications) attribute, a solution that worked in one area would break in another.</p>
+<h2 id="a-community-driven-approach">A Community-Driven Approach</h2>
+<p>Realizing that a one-size-fits-all fix wouldn’t work, we took a different approach - one that involved the community from the outset. After consulting with early adopters and attending an insightful session with the <a href="https://jats4r.niso.org/" target="_blank">JATS4R</a> accessibility group, it became clear that the answer lay in experimentation and iteration. Rather than modifying the DOI display guidelines immediately, we are developing a tool that enhances the user experience without disrupting the current standards.</p>
+<p>It’s worth noting that this solution places the responsibility on the end user rather than on publishers and platform providers. However, by doing so, users can have a consistent browsing experience regardless of the platform they use to access scholarly content. This approach also serves as an important stepping stone toward a future publisher-provided solution—be it via accessibility-focused JavaScript or a mandated dual-link implementation—and any efforts to recommend or mandate such changes will benefit greatly from concrete evidence of the effectiveness and scalability of this approach.</p>
+<h2 id="introducing-the-doi-accessibility-enhancer">Introducing the DOI Accessibility Enhancer</h2>
+<p>First <a href="https://www.youtube.com/watch?v=VBnfkOxVr6s&amp;t=1916s" target="_blank">demonstrated at the recent Crossref Annual Meeting</a>, here we share our DOI Accessibility Enhancer browser extension. Available now on the <a href="https://addons.mozilla.org/en-GB/firefox/addon/crossref-doi-a11y-tool/" target="_blank">Firefox Add-on Store</a> and the <a href="https://chromewebstore.google.com/detail/crossref-doi-accessibilit/nmpnpkdfcdnbnpiekngokijfoilpfpbc" target="_blank">Chrome Web Store</a>, this extension is designed to improve the experience of DOI links for screen reader users without altering the default behavior for sighted users.</p>
+<div style="text-align:center;margin:10px">
+<img src="https://www.crossref.org/images/blog/2025/doi-a11y-enhancer-2025.png" width="60%" alt="The Crossref DOI Accessibility Enhancer browser extension running in Firefox" >
+</div>
+<h2 id="how-it-works">How It Works</h2>
+<ul>
+<li>
+<p><strong>Scanning for DOI Links:</strong> The extension scans any webpage for DOI links.</p>
+</li>
+<li>
+<p><strong>Querying Metadata:</strong> Once a DOI is detected, it queries the Crossref REST API to retrieve the title of the corresponding scholarly work.</p>
+</li>
+<li>
+<p><strong>Enhancing the Link:</strong> The title is then injected as a screen-reader–only link. This means that when a screen reader user navigates to the DOI, they hear the title of the paper rather than the opaque URL.</p>
+</li>
+<li>
+<p><strong>Maintaining Visual Integrity:</strong> For sighted users, the original DOI link remains unchanged—visible, clickable, and easy to copy-and-paste.</p>
+</li>
+<li>
+<p><strong>Highlighting for Testing:</strong> An optional feature highlights updated links, making it easier for developers and testers to see the changes in action.</p>
+</li>
+</ul>
+<h2 id="get-involved">Get Involved</h2>
+<p>This project is very much a community effort. The extension is open-source, and we welcome feedback and contributions via our <a href="https://gitlab.com/crossref/doi-accessibility-enhancer" target="_blank">GitLab repository</a>, email, or <a href="https://community.crossref.org/" target="_blank">Community Forum</a>. Your real-life experiences and insights will drive future improvements, ensuring that our solution meets the diverse needs of all users.</p>
+<h2 id="try-it-out">Try It Out</h2>
+<div style="text-align:center;margin:10px">
+<img src="https://www.crossref.org/images/blog/2025/doi-a11y-enchancer-firefox-addons-2025.png" width="60%" alt="The Crossref DOI Accessibility Enhancer browser extension in Firefox Add-ons" >
+</div>
+<p>If you’re using Firefox, head over to the Firefox Add-on Store and install the <a href="https://addons.mozilla.org/en-GB/firefox/addon/crossref-doi-a11y-tool/" target="_blank">DOI Accessibility Enhancer</a> today. If you’re a Chrome user, you can find the extension directly in the <a href="https://chromewebstore.google.com/detail/crossref-doi-accessibilit/nmpnpkdfcdnbnpiekngokijfoilpfpbc" target="_blank">Chrome Web Store</a>. If you use a screen reader you’ll experience the difference firsthand - and if you don’t, give it a try with VoiceOver enabled (Command-F5 on a Mac).</p>
+<p>Together, we can advance scholarly accessibility and ensure that critical research remains discoverable for everyone.</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/enhancing-doi-accessibility-for-all-users/>
+
+---
+
+## Unity app for integrating sound into landscape design and evaluation
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Gutscher, Fabian; Goncalves Borges, Daniel; Schütz, Nadine; Wissen Hayek, Ulrike 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733161>
+
+---
+
+## The cosmochemistry of planetary systems
+
+date: 2025-04-28, from: ETH Zurich, recently added
+
+Bizzarro, Martin; Johansen, Anders; Dorn, Caroline 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/733514>
+

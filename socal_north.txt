@@ -4,13 +4,13 @@
 https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forecast for Santa Clarita" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
-# For Profit news organizations
+# For Profit news organizations (Replaced by smal_papers.txt)
 #
 #https://scvnews.com/feed/ "~SCV News (TV Station)"
 #https://signalscv.com/feed/ "~The Signal"
-https://sanfernandosun.com/feed/ "~the San Fernando Valley Sun/el Sol de Valle San Fernando"
+#https://sanfernandosun.com/feed/ "~the San Fernando Valley Sun/el Sol de Valle San Fernando"
 #https://laopinion.com/feed/ "~La Opinion (Los Angeles)"
-https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
+#https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
 
 #
 # Non-Profit news organizations
@@ -18,7 +18,6 @@ https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
 #https://chumash.gov/latest-news?format=rss "~Chumash News"
 https://transitinglosangeles.com/feed/ "~Transiting Los Angeles"
 https://laist.com/index.atom "~The LAist"
-https://thecatalinaislander.com/feed/ "~Catalina Islander"
 
 
 #
@@ -50,4 +49,23 @@ https://www.portofhueneme.org/feed/ "~Port Hueneme"
 # L.A. Public Health
 #
 https://feed.podbean.com/lapublichealth/feed.xml "~L.A. Public Health"
+
+
+#
+# News from California's central coast
+#
+https://causenow.org/blog/feed "~Cause, Central Coast Alliance for a Sustainable Economy" # Progressive organization in S. B. County"
+#https://www.noozhawk.com/feed/ "~Newshawk, the freshest news in Santa Barbara County" 
+#https://goletavoice.com/feed/ "~Goleta Voice" # Appears to be real estate and business funded
+https://www.portofhueneme.org/feed/ "~Port Hueneme"
+
+#
+# State of California
+#
+https://www.californiavolunteers.ca.gov/feed/ "~CalVolunteers"
+
+#
+# San Pedro & Long Beach
+#
+https://lbpost.com/news/feed/ "~Longbeach Post"
 

@@ -1,11 +1,259 @@
 ---
 title: motorcycles
+<<<<<<< HEAD
 updated: 2024-10-15 08:11:03
+=======
+updated: 2024-10-20 08:34:09
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # motorcycles
 
+<<<<<<< HEAD
 (date: 2024-10-15 08:11:03)
+=======
+(date: 2024-10-20 08:34:09)
+
+---
+
+## BRP Puts Marine Brand Up for Sale, Sea-Doo Stays in the Family
+
+date: 2024-10-20, from: Ride Apart, Electric Motorcycle News
+
+Tough times mean tough decisions.  
+
+<br> 
+
+<https://www.rideapart.com/news/737965/brp-marine-brand-for-sale-not-sea-doo-jet-skis/>
+
+---
+
+## This Triumph Is So Crispy, So Can It Be Rebuilt?
+
+date: 2024-10-19, from: Ride Apart, Electric Motorcycle News
+
+The Bikes and Beards vs. Orange County Choppers vs. Bearded Mechanic Build-Off fires up! 
+
+<br> 
+
+<https://www.rideapart.com/news/737993/crispy-triumph-custom-build-off-bikes-beard-occ/>
+
+---
+
+## New Hampshire's Fish and Game Will Offer Free, Yes Free, Snowmobile Safety Classes
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Get schooled, son.  
+
+<br> 
+
+<https://www.rideapart.com/news/737804/new-hampshire-fish-and-game-snowmobile-safety-classes/>
+
+---
+
+## You’re an Idiot if You Don’t Wear a Helmet, New Study Finds
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Time to call a spade a spade. 
+
+<br> 
+
+<https://www.rideapart.com/news/737823/repealed-helmet-laws-study-deaths/>
+
+---
+
+## There’s a New World Record For Being Dragged Behind a Motorcycle, Apparently
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Is there a Guinness World Record for the most pointless Guinness World Record? 
+
+<br> 
+
+<https://www.rideapart.com/news/737706/fastest-speed-dragged-behind-motorcycle-world-record/>
+
+---
+
+## French Motorcyclists Are About To Set Fire to Paris Over Lane Filtering Ban
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Is that why it's called the City of Lights? Also, solidarity. 
+
+<br> 
+
+<https://www.rideapart.com/news/737824/french-bikers-protest-paris-speedlimit/>
+
+---
+
+## Public Lands Are Core to Utah's Senate Battle, Boils Over During Debate
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+They're our lands, not Utah's.  
+
+<br> 
+
+<https://www.rideapart.com/news/737809/public-lands-utah-senate-debate-caroline-gleich/>
+
+---
+
+## No, It’s Not OK To Dump E-Bikes In the Lake Just Because You Hate Them
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Mindless stupidity has tons of not-so-mindless consequences.  
+
+<br> 
+
+<https://www.rideapart.com/news/737702/divvy-bikes-lake-michigan-problem/>
+
+---
+
+## This Guy Makes A Solid Point About The Kawasaki Ninja E-1
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+As Kawasaki's out here celebrating the 40th anniversary of the Ninja, is this really the future? 
+
+<br> 
+
+<https://www.rideapart.com/news/737695/kawasaki-ninja-e1-video-perspective/>
+
+---
+
+## Anyone Who Buys This Stupidly Expensive Electric Scrambler Deserves What They Get
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+I don't know who I blame more, the company for making it or the customer for buying it. 
+
+<br> 
+
+<https://www.rideapart.com/news/737679/heritage-spirit-scrambler-price-specs/>
+
+---
+
+## Royal Enfield Teases New EV Motorcycle, To Drop On EICMA Eve
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+Here's what everyone thinks it is, and why. 
+
+<br> 
+
+<https://www.rideapart.com/news/737690/royal-enfield-electric-motorcycle-teaser/>
+
+---
+
+## Buy This House and Get an Insane Motocross Track, but There’s a Catch
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+Funny, I never realized how much I wanted to live in Oregon. 
+
+<br> 
+
+<https://www.rideapart.com/news/737697/property-sale-comes-with-motocross-track/>
+
+---
+
+## Brembo Just Bought Öhlins, Tells Us How Riders Will Reap the Rewards
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+We can speculate a lot about how this will turn out, but there's one glaringly obvious benefit for riders that they told us about. 
+
+<br> 
+
+<https://www.rideapart.com/news/737131/brembo-acquires-ohlins-riders-benefit/>
+
+---
+
+## Finally, FIM Superenduro World Championship Will Allow Electric Motorcycles
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+Will this be like watching the switch from 2-strokes to 4-strokes? 
+
+<br> 
+
+<https://www.rideapart.com/news/737130/fim-superenduro-allows-electric-motorcycles/>
+
+---
+
+## 2024 ARCA West at Roseville: Team Reactions, Analysis
+
+date: 2024-10-16, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The NAPA Auto Parts 150 presented by Berco Redwood, the tenth race of the 2024 ARCA Menards West Series season, held at&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2024-arca-west-at-roseville-team-reactions-analysis/>
+
+---
+
+## Hang On, The Triumph Speed 400 Gets Surprisingly Nice Brakes
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+Which one of these is not like the others? 
+
+<br> 
+
+<https://www.rideapart.com/news/737535/triumph-speed400-tiger660-trident660-brakes/>
+
+---
+
+## This Norton F1R Is a Rotary-Powered Sportbike You Never Knew You Wanted
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+The first one ever built is looking for a new home.  
+
+<br> 
+
+<https://www.rideapart.com/news/737378/norton-f1r-prototype-auction/>
+
+---
+
+## Hey, You Can Totally Get Your Bike's Rear Shock Rebuilt If You Want
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+In some cases, you might not want to. But in others, you might want to look into it. 
+
+<br> 
+
+<https://www.rideapart.com/news/737519/get-your-shocks-rebuilt-specialist/>
+
+---
+
+## Husqvarna’s Norden 901 Expedition Is the Perfect Zombie Apocalypse Bike, Maybe
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+It’s decked out to go the distance and conquer pretty much anything in its path.  
+
+<br> 
+
+<https://www.rideapart.com/news/737376/2025-husqvarna-norden-901-expedition-unveiled/>
+
+---
+
+## This UTV’s Built For Winter, So You Have No Excuses
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+An enclosed cabin and built-in heater keep you comfy in frigid temps.  
+
+<br> 
+
+<https://www.rideapart.com/news/737379/2025-massimo-tboss-launch-winter/>
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 
 ---
 
@@ -90,18 +338,6 @@ A worker's strike has shed light on the company's bleak-looking future.
 <br> 
 
 <https://www.rideapart.com/news/737349/energica-possibly-bankrupt-workers-strike-italy/>
-
----
-
-## Alex Bowman Eliminated from Playoffs After Roval Disqualification
-
-date: 2024-10-14, from: Kickin the Tires blog
-
-By Seth Eggert, Associate Editor CONCORD, N.C. – When the checkered flag waved at the end of the Bank of America ROVAL 400, all four Hendrick Motorsports drivers had made&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/alex-bowman-eliminated-from-playoffs-after-roval-disqualification/>
 
 ---
 
@@ -222,18 +458,6 @@ Photo by Blake Ulino, Photographer
 <br> 
 
 <https://kickinthetires.net/nascar/gallery-catch-the-action-from-the-charlotte-roval/>
-
----
-
-## GALLERY: NHRA Descends On Texas Motorsplex
-
-date: 2024-10-13, from: Kickin the Tires blog
-
-Photos by Jerry Jordan, Editor 
-
-<br> 
-
-<https://kickinthetires.net/photo-gallery/gallery-nhra-descends-on-texas-motorsplex/>
 
 ---
 

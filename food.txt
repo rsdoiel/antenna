@@ -12,8 +12,14 @@ https://www.closetcooking.com/feed/ "~Closet Cooking"
 https://www.tasteofhome.com/feed/ "~Taste of Home"
 
 #
+# Irish
+#
+https://irishfoodhub.com/feed/ "~Irish Food Hub"
+
+#
 # Coffee
 #
 https://dailycoffeenews.com/feed/ "~Daily Coffee News"
 https://sprudge.com/feed "~The Sprudge"
 https://freshcup.com/feed/ "~The Fresh Cup"
+

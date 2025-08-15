@@ -13,7 +13,7 @@ ifeq ($(TODAY),$(SATURDAY))
 endif
 VOL_NO = $(shell date +%Y.%W)
 
-YEAR = 2024
+YEAR = $(shell date +%Y)
 ifneq ($(vol),)
         VOL_NO=$(vol)
 endif
@@ -27,22 +27,17 @@ endif
 
 PROJECT = Antenna
 
-section_names = north_america socal_north pacific ham_radio science_and_technology central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft
+section_names = planet north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft small_papers snapshots
 
 md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest markdown html archives index.html about.html README.html CITATION.cff dump
+build: harvest markdown html archives index.html forcecasts.html about.html README.html CITATION.cff dump
 
-world: build snapshots
+world: build
 
-california: harvest markdown html archives index.html about.html README.html CITATION.cff dump
-
-snapshots: .FORCE
-	cd snapshots && make
-
-website: markdown html archives index.html about.html README.html 
+website: markdown html archives index.html forecasts.html about.html README.html 
 
 harvest: $(section_names)
 
@@ -57,6 +52,12 @@ harvest: $(section_names)
 food: .FORCE
 	-skimmer food.txt
 
+snapshots: .FORCE
+	-skimmer snapshots.txt
+
+planet: .FORCE
+	-skimmer planet.txt
+
 north_america: .FORCE
 	-skimmer north_america.txt
 
@@ -68,9 +69,6 @@ pacific: .FORCE
 
 ham_radio: .FORCE
 	-skimmer ham_radio.txt
-
-central_coast: .FORCE
-	-skimmer central_coast.txt
 
 columns: .FORCE
 	-skimmer columns.txt
@@ -111,13 +109,16 @@ retro_computing: .FORCE
 going_electric: .FORCE
 	-skimmer going_electric.txt
 
-science_and_technology:
-	- skimmer science_and_technology.txt
+science_and_technology: .FORCE
+	-skimmer science_and_technology.txt
+
+small_papers: .FORCE
+	-skimmer small_papers.txt
 
 markdown: $(md_files)
 
 $(md_files): .FORCE
-	sqlite3 $(basename $@).skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%'"
+	sqlite3 $(basename $@).skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%' OR LOWER(QUOTE(tags)) LIKE '%sports%' OR LOWER(QUOTE(tags)) LIKE '%opinion%' OR lower(quote(tags)) like '%obituar%' or lower(quote(tags)) like '%views/columnists%'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g')" \
@@ -142,11 +143,11 @@ dump: .FORCE
 load: .FORCE
 	./sql_to_skimmer.bash
 
-archives: mk_archives.bash archive_index.tmpl archive_year.tmpl
+archives: mk_archives.bash archive_index.tmpl archive_year.tmpl .FORCE
 	./mk_archives.bash      
 	cd archives/$(YEAR) && make
 	cd archives && make
-	git add archives
+	git add archives archives/$(YEAR)
 	
 
 pagefind: .FORCE
@@ -184,6 +185,10 @@ clean: .FORCE
 	-rm writing.html 2>/dev/null
 	-rm health.md 2>/dev/null
 	-rm health.html 2>/dev/null
+	-rm snapshots.md 2>/dev/null
+	-rm snapshots.html 2>/dev/null
+	-rm small_papers.md 2>/dev/null
+	-rm small_papers.html 2>/dev/null
 	cd archives && make clean
 
 CITATION.cff: .FORCE
@@ -208,6 +213,13 @@ index.html: .FORCE
 		--lua-filter=links-to-html.lua \
 		--template front_page.tmpl \
 		index.md >index.html
+
+forecasts.html: .FORCE
+	@echo '' | pandoc --metadata title="The $(PROJECT)" \
+		--lua-filter=links-to-html.lua \
+		--template front_page.tmpl \
+		forecasts.md >forecasts.html
+		
 
 search.html: .FORCE
 	@echo '' | pandoc --metadata title="$(PROJECT) Search" \

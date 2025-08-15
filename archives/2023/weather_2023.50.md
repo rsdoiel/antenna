@@ -1,14 +1,23 @@
 ---
 title: weather 2023.50
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 2023-12-17 09:46:13
 =======
 updated: 2023-12-17 11:13:29
 >>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
+=======
+<<<<<<< HEAD:archives/2023/weather_2023.50.md
+updated: 2023-12-17 11:13:29
+=======
+updated: 2023-12-17 09:46:13
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/weather_2023.50.md
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # weather 2023.50
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 (date: 2023-12-17 09:46:13)
 
@@ -81,6 +90,9 @@ No watches are valid as of Sun Dec 17 17:19:02 UTC 2023.
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
 =======
+=======
+<<<<<<< HEAD:archives/2023/weather_2023.50.md
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 (date: 2023-12-17 11:13:29)
 >>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
 
@@ -232,6 +244,9 @@ No watches are valid as of Sun Dec 17 17:51:01 UTC 2023.
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
+=======
+(date: 2023-12-17 09:46:13)
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/weather_2023.50.md
 
 ---
 
@@ -292,6 +307,80 @@ through the afternoon hours.
 
 ---
 
+<<<<<<< HEAD:archives/2023/weather_2023.50.md
+=======
+## SPC - No watches are valid as of Sun Dec 17 17:19:02 UTC 2023
+
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Dec 17 17:19:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 2333
+
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2333.html"><img src="https://www.spc.noaa.gov/products/md/mcd2333.png" border="1" alt="MD 2333 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2333
+NWS Storm Prediction Center Norman OK
+1106 AM CST Sun Dec 17 2023
+
+Areas affected...parts of the coastal Carolinas
+
+Concerning...Severe potential...Watch possible 
+
+Valid 171706Z - 172100Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...A conditional risk of brief tornadoes or damaging gusts is
+forecast today, from the South Carolina upper coast toward coastal
+North Carolina. The risk is conditional on air mass recovery, and a
+watch may be considered.
+
+DISCUSSION...A surface low will deepen as it moves northeastward off
+the SC Coast today, along an existing baroclinic zone which is
+currently well offshore. Surface observations show cool air over
+land with gusty northeast winds, and this will likely maintain a
+decoupled boundary layer which should mitigate tornado and damaging
+gust potential in the near term.
+
+Later today, gradual warming is expected as the warm front shifts
+north along the coast. As winds veer to east and then southeast, a
+warmer and more unstable air mass will then support a risk of brief
+tornadoes and damaging gusts, as shear will remain strong along the
+warm front. Observational trends will continue to be monitored
+closely, along with satellite imagery, to ascertain when a potential
+watch may be needed later today.
+
+..Jewell/Goss.. 12/17/2023
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MHX...RAH...ILM...CHS...
+
+LAT...LON   33227967 33697946 34387880 34757814 34987730 34907648
+            34607644 34627687 34437741 34157776 33787792 33847815
+            33767866 33447904 33227909 32987932 32807958 32907973
+            33227967 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2333.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md2333.html">https://www.spc.noaa.gov/products/md/md2333.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md2333.html">Save to Pocket</a>
+</span>
+
+---
+
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/weather_2023.50.md
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks

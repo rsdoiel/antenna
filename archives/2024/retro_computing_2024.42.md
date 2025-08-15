@@ -1,11 +1,139 @@
 ---
 title: retro computing
+<<<<<<< HEAD
 updated: 2024-10-15 08:11:03
+=======
+updated: 2024-10-20 08:34:09
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # retro computing
 
+<<<<<<< HEAD
 (date: 2024-10-15 08:11:03)
+=======
+(date: 2024-10-20 08:34:09)
+
+---
+
+## b.log 2024/10/20 - The things you miss, Smacking, Pop music, Common sense, Tories being Tories, Tea v0.16.
+
+date: 2024-10-20, from: Richard Murray's blog
+
+The things you miss, Smacking, Pop music, Common sense, Tories being Tories, Tea v0.16. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241020>
+
+---
+
+## AI: Liquid Neural Networks in few words
+
+date: 2024-10-20, from: Paola Zaino's blog
+
+Given all the questions I have received on the matter of Liquid Neural Networks from people interested in my zLNN foundational LNN library, I have decided to write an article to explain LNNs in the hope of helping people to find answers to initial questions. Disclaimer This article is merely a short introduction to Liquid [&#8230;] 
+
+<br> 
+
+<https://paolozaino.wordpress.com/2024/10/20/ai-liquid-neural-networks-in-few-words/>
+
+---
+
+## WROCC Newsletter Volume 42:1 reviewed
+
+date: 2024-10-20, from: Icon Bar, RISC OS News
+
+The delayed April release of WROCC magazine has now been sent out to all members.  This is the monthly club  'mini' magazine which all members receive as one of the club benefits. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2116.html>
+
+---
+
+## See the ‘fastest’ RISC OS machine on Chris Hall’s stand at the London Show
+
+date: 2024-10-19, from: RiscOS Story
+
+You might want to make a bee-line for the Harrow District Masonry Centre next Saturday to visit London Show, at which Chris Hall says he&#8217;ll be demonstrating what he believes is the fastest RISC OS computer. Or computers, because he explains that he considers it to be a dead heat between two, which he says are &#8220;a DeskPi Mini IO board using an M.2 1TB NVMe drive running RISC OS Developments Block Drivers (6-Oct-2024) and a Pi Foundation IO board using a 1TB ‘FAST’ SATA drive running RISC OS Bits&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/fastest-machine-chris-hall-london-show/>
+
+---
+
+## It’s (not) all Dutch to MACadd
+
+date: 2024-10-19, from: RiscOS Story
+
+Kevin Wells&#8217; application for looking up information about MAC addresses has been updated to version 2.04, and now includes Dutch in the range of languages that can be deployed in its user interface. This joins the recently added French and German, as well as the already present English. In case you don&#8217;t know, a MAC addresses are codes assigned to network interfaces that you&#8217;ll find in devices of all sorts that allow them to connect to and communicate with other devices locally, and often beyond &#8211; remote servers on the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/dutch-added-macadd/>
+
+---
+
+## Historical data range extended in Currency
+
+date: 2024-10-19, from: RiscOS Story
+
+A new version of Currency is available from Kevin Wells. The application provides a means for checking exchange rates and perform other related tasks from the RISC OS desktop, by using Wget to relay information to and from third party websites. One of those related tasks is to look up a limited amount of historical exchange range data. This was previously four weeks worth, but in version 2.05 it has become six weeks. As well as that improvement, there was a certificate issue pertaining to fetching the historical data, which&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/historical-data-extended-currency/>
+
+---
+
+## How fast is Fast?
+
+date: 2024-10-19, from: Icon Bar, RISC OS News
+
+In a week's time, you will be at the London Show (you know it makes sense). Chris Hall will be exhibiting and he has kindly written us an exclusive preview on the speed comparisons he has been running and will be showing you. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2115.html>
+
+---
+
+## The Truth Is Out There, Part 4: The Downside of Belief
+
+date: 2024-10-18, from: Digital Antiquarian
+
+The fifth season of The X-Files, spanning from 1997 to 1998, marked the absolute zenith of the show&#8217;s popularity, when it put up the best average ratings in its history. Everybody seemed to want a piece of its action; even William Gibson and Stephen King submitted scripts that season. As we learned in an earlier [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2024/10/the-truth-is-out-there-part-4-the-downside-of-belief/>
+
+---
+
+## Rougol October 2024 meeting on monday
+
+date: 2024-10-18, from: Icon Bar, RISC OS News
+
+The October 2024 Rougol meeting is on Monday 21th October. No speaker has yet been announced. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2108.html>
+
+---
+
+## T/Maker: Tiny Software Company Takes on the Giants (Interview)
+
+date: 2024-10-16, from: Computer ads from the Past
+
+An interesting look at a company with less than 20 employees playing with the big boys 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/tmaker-tiny-software-company-takes>
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 
 ---
 

@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>News gathered 2024-12-21</title>
+  <style>
+    body {
+       padding: 1%;
+       margin: 2%;
+    }
+    footer {
+    	border-top: 0.24em solid green;
+	text-align: center;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+</head>
+<body>
+<section>
+<h1 id="news-gathered-2024-12-21">News gathered 2024-12-21</h1>
+<p>(date: 2024-12-21 07:11:20)</p>
+<hr />
+<h2
+id="disney-princesses-are-at-risk-of-rabies-and-fatal-maulings">Disney
+Princesses Are at Risk of Rabies and Fatal Maulings</h2>
+<p>date: 2024-12-21, from: 404 Media Group</p>
+<p>This week, the creature from the Pangean lagoon, casket shopping for
+Disney princesses, a horror show in ancient Somerset, and
+“Martifacts.”</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/disney-princesses-are-at-risk-of-rabies-and-fatal-maulings-3/"
+class="uri">https://www.404media.co/disney-princesses-are-at-risk-of-rabies-and-fatal-maulings-3/</a></p>
+<hr />
+<h2 id="christmas-classics">Christmas Classics</h2>
+<p>date: 2024-12-21, from: Status-Q blog</p>
+<p>The oral tradition has long been an important part of preserving
+human culture, and it is perhaps especially at this time of year that
+we’re conscious of works of music and literature that have been handed
+down through the ages. While I was showering this morning, for example,
+I found myself singing a cheerful seasonal
+<a class="more-link excerpt-link" href="https://statusq.org/archives/2024/12/21/12311/">Continue
+Reading<span class="glyphicon glyphicon-chevron-right"></span></a></p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://statusq.org/wp-content/uploads/2024/12/christmas_in_smurfland.mp3">
+</source>
+</audio>
+<p><a href="https://statusq.org/wp-content/uploads/2024/12/christmas_in_smurfland.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a href="https://statusq.org/archives/2024/12/21/12311/"
+class="uri">https://statusq.org/archives/2024/12/21/12311/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-21, from: Dave Winer’s linkblog)</p>
+<p>Major Tesla investor criticizes Musk's embrace of far-right
+politics.</p>
+<p><br></p>
+<p><a href="https://m.youtube.com/watch?v=SniddTMVYvE"
+class="uri">https://m.youtube.com/watch?v=SniddTMVYvE</a></p>
+<hr />
+<h2 id="the-thrill-was-never-there">The Thrill Was Never There</h2>
+<p>date: 2024-12-21, from: Tedium site</p>
+<p>A famous punk-music personality reveals he was in it for the money—a
+revelation that has upset fans. But to be fair, it was the algorithm
+that pushed him in that direction.</p>
+<p><br></p>
+<p><a
+href="https://feed.tedium.co/link/15204/16925582/punk-rock-mba-youtube-quitting"
+class="uri">https://feed.tedium.co/link/15204/16925582/punk-rock-mba-youtube-quitting</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>Amazing that the tech industry hasn't tried to retrieve its
+reputation from the ones who are repping us in DC nowadays. Software
+doesn't <em>have</em> to treat their users like nobodies.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/12/20.html#a230615"
+class="uri">http://scripting.com/2024/12/20.html#a230615</a></p>
+<hr />
+<h2 id="openai-o3-breakthrough-high-score-on-arc-agi-pub">OpenAI o3
+breakthrough high score on ARC-AGI-PUB</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://arcprize.org/blog/oai-o3-pub-breakthrough">OpenAI
+o3 breakthrough high score on ARC-AGI-PUB</a></strong>
+</p>
+François Chollet is the co-founder of the ARC Prize and had advanced
+access to today’s o3 results. His article here is the most insightful
+coverage I’ve seen of o3, going beyond just the benchmark results to
+talk about what this all means for the field in general.
+</p>
+<p>
+One fascinating detail: it cost $6,677 to run o3 in “high efficiency”
+mode against the 400 public ARC-AGI puzzles for a score of 82.8%, and an
+undisclosed amount of money to run the “low efficiency” mode model to
+score 91.5%. A note says:
+</p>
+<blockquote>
+<p>
+o3 high-compute costs not available as pricing and feature availability
+is still TBD. The amount of compute was roughly 172x the low-compute
+configuration.
+</p>
+</blockquote>
+<p>
+So we can get a ballpark estimate here in that 172 * $6,677 =
+$1,148,444!
+</p>
+<p>
+Here’s how François explains the likely mechanisms behind o3, which
+reminds me of how a brute-force chess computer might work.
+</p>
+<blockquote>
+<p>
+For now, we can only speculate about the exact specifics of how o3
+works. But o3’s core mechanism appears to be natural language program
+search and execution within token space – at test time, the model
+searches over the space of possible Chains of Thought (CoTs) describing
+the steps required to solve the task, in a fashion perhaps not too
+dissimilar to AlphaZero-style Monte-Carlo tree search. In the case of
+o3, the search is presumably guided by some kind of evaluator model. To
+note, Demis Hassabis hinted back in a June 2023 interview that DeepMind
+had been researching this very idea – this line of work has been a long
+time coming.
+</p>
+<p>
+So while single-generation LLMs struggle with novelty, o3 overcomes this
+by generating and executing its own programs, where the program itself
+(the CoT) becomes the artifact of knowledge recombination. Although this
+is not the only viable approach to test-time knowledge recombination
+(you could also do test-time training, or search in latent space), it
+represents the current state-of-the-art as per these new ARC-AGI
+numbers.
+</p>
+<p>
+Effectively, o3 represents a form of deep learning-guided program
+search. The model does test-time search over a space of “programs” (in
+this case, natural language programs – the space of CoTs that describe
+the steps to solve the task at hand), guided by a deep learning prior
+(the base LLM). The reason why solving a single ARC-AGI task can end up
+taking up tens of millions of tokens and cost thousands of dollars is
+because this search process has to explore an enormous number of paths
+through program space – including backtracking.
+</p>
+</blockquote>
+<p>
+I’m not sure if o3 (and o1 and similar models) even qualifies as an LLM
+any more - there’s clearly a whole lot more going on here than just
+next-token prediction.
+</p>
+<p>
+On the question of if o3 should qualify as AGI (whatever that might
+mean):
+</p>
+<blockquote>
+<p>
+Passing ARC-AGI does not equate to achieving AGI, and, as a matter of
+fact, I don’t think o3 is AGI yet. o3 still fails on some very easy
+tasks, indicating fundamental differences with human intelligence.
+</p>
+<p>
+Furthermore, early data points suggest that the upcoming ARC-AGI-2
+benchmark will still pose a significant challenge to o3, potentially
+reducing its score to under 30% even at high compute (while a smart
+human would still be able to score over 95% with no training).
+</p>
+</blockquote>
+<p>
+The post finishes with examples of the puzzles that o3 <em>didn’t</em>
+manage to solve, including this one which reassured me that I can still
+solve at least some puzzles that couldn’t be handled with thousands of
+dollars of GPU compute!
+</p>
+<p>
+<p><img alt="A puzzle with colored squares, where drawing a line between the single blue squares and turning any intersected rectangles blue is clearly the solution." src="https://static.simonwillison.net/static/2024/arc-agi-task-0d87d2a6.png" /></p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/inference-scaling&quot;&gt;inference-scaling&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/openai&quot;&gt;openai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/o3&quot;&gt;o3&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/francois-chollet&quot;&gt;francois-chollet&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/20/openai-o3-breakthrough/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/20/openai-o3-breakthrough/#atom-everything</a></p>
+<hr />
+<h2 id="why-disney-stopped-subscriptions-on-the-app-store">Why Disney
+Stopped Subscriptions on the App Store</h2>
+<p>date: 2024-12-20, from: Michael Tsai</p>
+<p>Ariel Michaeli (October 2024): I see Disney’s choice of leaving the
+App Store as a long-term mistake that would cost them even more than the
+30% they were giving Apple. Ariel Michaeli: Now that we have enough MRR
+data I think the reason is a bit clearer - and it isn’t just about
+fees.[…]In November, […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2024/12/20/why-disney-stopped-subscriptions-on-the-app-store/"
+class="uri">https://mjtsai.com/blog/2024/12/20/why-disney-stopped-subscriptions-on-the-app-store/</a></p>
+<hr />
+<h2 id="provenance-rejected-from-the-app-store">Provenance Rejected From
+the App Store</h2>
+<p>date: 2024-12-20, from: Michael Tsai</p>
+<p>leazhito: Around 4 hours ago developer posted that the app was once
+again rejected by Apple for weird reasons regarding adding games during
+testing.They later posted that they submitted another appeal.And shortly
+after this (see image) thread of two tweets mentions they have seemingly
+ran out of money due to Apple’s decision making and that […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2024/12/20/provenance-rejected-from-the-app-store/"
+class="uri">https://mjtsai.com/blog/2024/12/20/provenance-rejected-from-the-app-store/</a></p>
+<hr />
+<h2 id="apple-sued-for-not-searching-icloud-for-csam">Apple Sued for Not
+Searching iCloud for CSAM</h2>
+<p>date: 2024-12-20, from: Michael Tsai</p>
+<p>Ashley Belanger: Thousands of victims have sued Apple over its
+alleged failure to detect and report illegal child pornography, also
+known as child sex abuse materials (CSAM).The proposed class action
+comes after Apple scrapped a controversial CSAM-scanning tool last fall
+that was supposed to significantly reduce CSAM spreading in its
+products. Apple defended its decision […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2024/12/20/apple-sued-for-not-searching-icloud-for-csam/"
+class="uri">https://mjtsai.com/blog/2024/12/20/apple-sued-for-not-searching-icloud-for-csam/</a></p>
+<hr />
+<h2 id="swift-concurrency-in-real-apps">Swift Concurrency in Real
+Apps</h2>
+<p>date: 2024-12-20, from: Michael Tsai</p>
+<p>Bryan Jones: Consider this code, wherein we create a custom
+NSTableColumn that uses an image instead of a String as its header.
+Holly Borla posted a fix that special-cases NSObject.init(): Now,
+overriding NSObject.init() within a <span class="citation"
+data-cites="MainActor-isolated">@MainActor-isolated</span> type is
+difficult-to-impossible, especially if you need to call an initializer
+from an intermediate superclass that is also <span class="citation"
+data-cites="MainActor-isolated">@MainActor-isolated</span>. […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2024/12/20/swift-concurrency-in-real-apps/"
+class="uri">https://mjtsai.com/blog/2024/12/20/swift-concurrency-in-real-apps/</a></p>
+<hr />
+<h2
+id="lilbits-intels-new-and-upcoming-low-power-chips-lenovos-new-handhelds-and-a-wireless-mouse-dongle-thats-also-a-tiny-usb-c-dock">Lilbits:
+Intel’s new (and upcoming) low-power chips, Lenovo’s new handhelds, and
+a wireless mouse dongle that’s also a tiny USB-C dock</h2>
+<p>date: 2024-12-20, from: Liliputing</p>
+<p>
+A growing number of mini PC makers are starting to ship entry-level
+systems with cheap, low-power Intel N150 Twin Lake processors rather
+than the Intel N100 Alder Lake-N chips that have been popular for the
+past two years. On paper the new processor is basically what you get if
+you take an Intel N100 and […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lilbits-intels-new-and-upcoming-low-power-chips-lenovos-new-handhelds-and-a-wireless-mouse-dongle-thats-also-a-tiny-usb-c-dock/">Lilbits:
+Intel’s new (and upcoming) low-power chips, Lenovo’s new handhelds, and
+a wireless mouse dongle that’s also a tiny USB-C dock</a> appeared first
+on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lilbits-intels-new-and-upcoming-low-power-chips-lenovos-new-handhelds-and-a-wireless-mouse-dongle-thats-also-a-tiny-usb-c-dock/"
+class="uri">https://liliputing.com/lilbits-intels-new-and-upcoming-low-power-chips-lenovos-new-handhelds-and-a-wireless-mouse-dongle-thats-also-a-tiny-usb-c-dock/</a></p>
+<hr />
+<h2 id="quoting-françois-chollet">Quoting François Chollet</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Simon Willison’s
+Weblog</p>
+<blockquote cite="https://arcprize.org/blog/oai-o3-pub-breakthrough">
+<p>
+OpenAI’s new o3 system - trained on the ARC-AGI-1 Public Training set -
+has scored a breakthrough 75.7% on the Semi-Private Evaluation set at
+our stated public leaderboard $10k compute limit. A high-compute (172x)
+o3 configuration scored 87.5%.
+</p>
+<p>
+This is a surprising and important step-function increase in AI
+capabilities, showing novel task adaptation ability never seen before in
+the GPT-family models. For context, ARC-AGI-1 took 4 years to go from 0%
+with GPT-3 in 2020 to 5% in 2024 with GPT-4o. All intuition about AI
+capabilities will need to get updated for o3.
+</p>
+</blockquote>
+<p class="cite">
+— <a href="https://arcprize.org/blog/oai-o3-pub-breakthrough">François
+Chollet</a>, Co-founder, ARC Prize
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/o1&quot;&gt;o1&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/inference-scaling&quot;&gt;inference-scaling&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/francois-chollet&quot;&gt;francois-chollet&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/openai&quot;&gt;openai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/o3&quot;&gt;o3&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/20/francois-chollet/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/20/francois-chollet/#atom-everything</a></p>
+<hr />
+<h2
+id="gmk-evo-x1-mini-pc-with-ryzen-ai-9-hx-370-now-available-for-pre-order-for-920-and-up">GMK
+EVO-X1 mini PC with Ryzen AI 9 HX 370 now available for pre-order for
+$920 and up</h2>
+<p>date: 2024-12-20, from: Liliputing</p>
+<p>
+The GMK EVO-X1 HX 370 is a small desktop computer that features USB4,
+OcuLink, and 2.5 GbE LAN ports, 32GB of LPDDR5x-7500 onboard memory, and
+three M.2 slots for solid state storage. It’s also one of the first mini
+PCs to feature an AMD Ryzen AI 9 HX 370 “Strix Point” processor. First
+unveiled earlier this […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/gmk-evo-x1-mini-pc-with-ryzen-ai-9-hx-370-now-available-for-pre-order-for-920-and-up/">GMK
+EVO-X1 mini PC with Ryzen AI 9 HX 370 now available for pre-order for
+$920 and up</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/gmk-evo-x1-mini-pc-with-ryzen-ai-9-hx-370-now-available-for-pre-order-for-920-and-up/"
+class="uri">https://liliputing.com/gmk-evo-x1-mini-pc-with-ryzen-ai-9-hx-370-now-available-for-pre-order-for-920-and-up/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>NY Democrat: "Elon Musk has Donald Trump in a vise."</p>
+<p><br></p>
+<p><a
+href="https://thehill.com/homenews/administration/5050368-musk-directing-trump-administration/"
+class="uri">https://thehill.com/homenews/administration/5050368-musk-directing-trump-administration/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>Kara Swisher Wants to Take The Washington Post Off Jeff Bezos’
+Hands.</p>
+<p><br></p>
+<p><a
+href="https://www.thedailybeast.com/kara-swisher-wants-to-take-the-washington-post-off-jeff-bezos-hands/"
+class="uri">https://www.thedailybeast.com/kara-swisher-wants-to-take-the-washington-post-off-jeff-bezos-hands/</a></p>
+<hr />
+<h2 id="demo-expanso-cloud">Demo: Expanso Cloud</h2>
+<p>date: 2024-12-20, from: Bacalhau Blog</p>
+<p>We show off the power and ease of creating Bacalhau networks with a
+managed orchestrator at its heart</p>
+<p><br></p>
+<p><a href="https://blog.bacalhau.org/p/demo-expanso-cloud"
+class="uri">https://blog.bacalhau.org/p/demo-expanso-cloud</a></p>
+<hr />
+<h2 id="daily-deals-12-20-2024">Daily Deals (12-20-2024)</h2>
+<p>date: 2024-12-20, from: Liliputing</p>
+<p>
+The Steam Winter Sale kicked off this week and runs through January 2nd,
+with discounts on hundreds of PC games. You can also find some freebies.
+Meanwhile, rival game stores including GOG and Epic are running their
+own sales and Amazon Prime members can score a bunch of free games this
+month (or stream titles […]
+</p>
+<p>
+The post <a href="https://liliputing.com/daily-deals-12-20-2024/">Daily
+Deals (12-20-2024)</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a href="https://liliputing.com/daily-deals-12-20-2024/"
+class="uri">https://liliputing.com/daily-deals-12-20-2024/</a></p>
+<hr />
+<h2
+id="live-blog-the-12th-day-of-openai---early-evals-for-openai-o3">Live
+blog: the 12th day of OpenAI - “Early evals for OpenAI o3”</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Simon Willison’s
+Weblog</p>
+<p>
+It’s the final day of OpenAI’s <a href="https://openai.com/12-days/">12
+Days of OpenAI</a> launch series, and since I built
+<a href="https://til.simonwillison.net/django/live-blog">a live blogging
+system</a> a couple of months ago I’ve decided to roll it out again to
+provide live commentary during the half hour event, which kicks off at
+<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=12th+Day+of+OpenAI&amp;iso=20241220T10&amp;p1=224&amp;am=30">10am
+San Francisco time</a>.
+</p>
+<p>
+Here’s the <a href="https://www.youtube.com/watch?v=SKBG1sqdyIU">video
+on YouTube</a>.
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SKBG1sqdyIU?si=ABWW8H90l4LbLvyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="1">
+</iframe>
+<pre><code>    &lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/openai&quot;&gt;openai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/prompt-injection&quot;&gt;prompt-injection&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/o1&quot;&gt;o1&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/inference-scaling&quot;&gt;inference-scaling&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/o3&quot;&gt;o3&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/20/live-blog-the-12th-day-of-openai/#atom-everything</a></p>
+<hr />
+<h2 id="behind-the-blog-posting-through-it">Behind the Blog: Posting
+Through It</h2>
+<p>date: 2024-12-20, from: 404 Media Group</p>
+<p>This is Behind the Blog, where we share our behind-the-scenes
+thoughts about how a few of our top stories of the week came together.
+This week, we discuss our top games of the year, air traffic control,
+and posting through it.</p>
+<p><br></p>
+<p><a href="https://www.404media.co/behind-the-blog-posting-through-it/"
+class="uri">https://www.404media.co/behind-the-blog-posting-through-it/</a></p>
+<hr />
+<h2
+id="reviving-old-tech-with-new-tech-a-0.03-risc-v-microcontroller-brings-an-acer-n30-pda-back-to-life">Reviving
+old tech with new tech: A $0.03 RISC-V microcontroller brings an Acer
+N30 PDA back to life</h2>
+<p>date: 2024-12-20, from: Liliputing</p>
+<p>
+The Acer N30 is a PDA released in 2004 that shipped with a 240 x 320
+pixel resistive touchscreen display, a 266 MHz Samsung S3C2410
+processor, and Windows Mobile 2003 software. It’s been out of production
+for nearly two decades, but could still be used as a mobile devices for
+taking notes, playing games, and […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/reviving-old-tech-with-new-tech-a-0-03-risc-v-microcontroller-brings-an-acer-n30-pda-back-to-life/">Reviving
+old tech with new tech: A $0.03 RISC-V microcontroller brings an Acer
+N30 PDA back to life</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/reviving-old-tech-with-new-tech-a-0-03-risc-v-microcontroller-brings-an-acer-n30-pda-back-to-life/"
+class="uri">https://liliputing.com/reviving-old-tech-with-new-tech-a-0-03-risc-v-microcontroller-brings-an-acer-n30-pda-back-to-life/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="IIIF">@IIIF</span>
+Mastodon feed</strong> (date: 2024-12-20, from: IIIF Mastodon feed)</p>
+<p>
+Join us in the new year for "HDR Images via Image API."
+</p>
+<p>
+We’ll welcome Christian Mahnke to demo a proof of concept for a
+<br /><a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a>
+Image API endpoint with UltraHDR tiles &amp; present a proposal to
+indicate technical rendering hints to Image API clients.
+</p>
+<p>
+Zoom info 👉: iiif.io/community
+</p>
+<p><br></p>
+<p><a href="https://glammr.us/@IIIF/113685726572804475"
+class="uri">https://glammr.us/@IIIF/113685726572804475</a></p>
+<hr />
+<h2 id="not-the-bear-shown">Not The Bear Shown</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: One Foot Tsunami</p>
+<p><br></p>
+<p><a href="https://onefoottsunami.com/2024/12/20/not-the-bear-shown/"
+class="uri">https://onefoottsunami.com/2024/12/20/not-the-bear-shown/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>You can favor AOC without making it about age. And know there are
+people listening who tune you out at the first sign of that uniquely
+Democratic Party hypocrisy. (Could have something to do with losing
+elections too, btw.)</p>
+<p><br></p>
+<p><a
+href="https://www.slowboring.com/p/aoc-deserved-the-oversight-job?r=etla&amp;triedRedirect=true"
+class="uri">https://www.slowboring.com/p/aoc-deserved-the-oversight-job?r=etla&amp;triedRedirect=true</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>What would a government shutdown mean for you?</p>
+<p><br></p>
+<p><a
+href="https://www.poynter.org/fact-checking/2024/why-is-the-government-shutting-down/"
+class="uri">https://www.poynter.org/fact-checking/2024/why-is-the-government-shutting-down/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>Staffers at The New York Times on the Books They Enjoyed in 2024.</p>
+<p><br></p>
+<p><a
+href="https://www.nytimes.com/2024/12/20/books/review/staff-picks-books.html"
+class="uri">https://www.nytimes.com/2024/12/20/books/review/staff-picks-books.html</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>After reading a few articles about Mike McCue’s announced Surf
+product I asked meta.ai to explain how it’s different from social web
+app like threads, Bluesky, twitter.</p>
+<p><br></p>
+<p><a href="https://bsky.app/profile/scripting.com/post/3ldq6zu5oon23"
+class="uri">https://bsky.app/profile/scripting.com/post/3ldq6zu5oon23</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>The Ghosts in the Machine, by Liz Pelly.</p>
+<p><br></p>
+<p><a
+href="https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/"
+class="uri">https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/</a></p>
+<hr />
+<h2 id="december-in-llms-has-been-a-lot">December in LLMs has been a
+lot</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Simon Willison’s
+Weblog</p>
+<p>
+I had big plans for December: for one thing, I was hoping to get to an
+actual RC of Datasette 1.0, in preparation for a full release in
+January. Instead, I’ve found myself distracted by a
+<a href="https://simonwillison.net/search/?tag=llms&amp;year=2024&amp;month=12">constant
+barrage</a> of new LLM releases.
+</p>
+<p>
+On December 4th Amazon introduced the
+<a href="https://simonwillison.net/2024/Dec/4/amazon-nova/"><strong>Amazon
+Nova family</strong></a> of multi-modal models - clearly priced to
+compete with the excellent and inexpensive Gemini 1.5 series from
+Google. I got those working with
+<a href="https://llm.datasette.io/">LLM</a> via a new
+<a href="https://github.com/simonw/llm-bedrock">llm-bedrock</a> plugin.
+</p>
+<p>
+The next big release was
+<a href="https://simonwillison.net/2024/Dec/6/llama-33/"><strong>Llama
+3.3 70B-Instruct</strong></a>, on December 6th. Meta claimed that this
+70B model was comparable in quality to their much larger 405B model, and
+those claims seem to hold weight.
+</p>
+<p>
+I wrote about how
+<a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">I can now
+run a GPT-4 class model on my laptop</a> - the same laptop that was
+running a GPT-3 class model just 20 months ago.
+</p>
+<p>
+Llama 3.3 70B has started showing up from API providers now, including
+super-fast hosted versions from both
+<a href="https://groq.com/new-ai-inference-speed-benchmark-for-llama-3-3-70b-powered-by-groq/">Groq</a>
+(276 tokens/second) and
+<a href="https://cerebras.ai/inference">Cerebras</a> (a quite frankly
+absurd 2,200 tokens/second). If you haven’t tried Val Town’s
+<a href="https://cerebrascoder.com/">Cerebras Coder</a> demo you really
+should.
+</p>
+<p>
+I think the huge gains in model efficiency are one of the defining
+stories of LLMs in 2024. It’s not just the local models that have
+benefited: the price of proprietary hosted LLMs has dropped through the
+floor, a result of both competition between vendors and the increasing
+efficiency of the models themselves.
+</p>
+<p>
+Last year the running joke was that every time Google put out a new
+Gemini release OpenAI would ship something more impressive that same day
+to undermine them.
+</p>
+<p>
+The tides have turned! This month Google shipped four updates that took
+the wind out of OpenAI’s sails.
+</p>
+<p>
+The first was
+<a href="https://simonwillison.net/2024/Dec/6/gemini-exp-1206/"><strong>gemini-exp-1206</strong></a>
+on December 6th, an experimental model that jumped straight to the top
+of some of the leaderboards. Was this our first glimpse of Gemini 2.0?
+</p>
+<p>
+That was followed by
+<a href="https://simonwillison.net/2024/Dec/11/gemini-2/"><strong>Gemini
+2.0 Flash</strong></a> on December 11th, the first official release in
+Google’s Gemini 2.0 series. The streaming support was particularly
+impressive, with
+<a href="https://aistudio.google.com/live">https://aistudio.google.com/live</a>
+demonstrating streaming audio and webcam communication with the
+multi-modal LLM a full day before OpenAI released their own streaming
+camera/audio features in an update to ChatGPT.
+</p>
+<p>
+Then this morning Google shipped
+<a href="https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/"><strong>Gemini
+2.0 Flash “Thinking mode”</strong></a>, their version of the inference
+scaling technique pioneered by OpenAI’s o1. I did <em>not</em> expect
+Gemini to ship a version of that before 2024 had even ended.
+</p>
+<p>
+OpenAI have one day left in their
+<a href="https://openai.com/12-days/">12 Days of OpenAI</a> event.
+Previous highlights have included the full <strong>o1</strong> model (an
+upgrade from o1-preview) and <strong>o1-pro</strong>,
+<a href="https://simonwillison.net/2024/Dec/9/sora/">Sora</a> (later
+upstaged a week later by Google’s
+<a href="https://simonwillison.net/2024/Dec/16/veo-2/">Veo 2</a>),
+Canvas (with a confusing
+<a href="https://simonwillison.net/2024/Dec/10/chatgpt-canvas/">second
+way to run Python</a>),
+<a href="https://simonwillison.net/2024/Dec/13/openai-voice-mode-faq/">Advanced
+Voice with video streaming</a> and Santa and a <em>very</em> cool new
+<a href="https://simonwillison.net/2024/Dec/17/openai-webrtc/">WebRTC
+streaming API</a>, ChatGPT Projects (pretty much a direct lift of the
+similar Claude feature) and the 1-800-CHATGPT phone line.
+</p>
+<p>
+Tomorrow is the last day. I’m not going to try to predict what they’ll
+launch, but I imagine it will be something notable to close out the
+year.
+</p>
+<h4 id="blog-entries">
+Blog entries
+</h4>
+<ul>
+<li>
+<a href="https://simonwillison.net/2024/Dec/19/gemini-thinking-mode/">Gemini
+2.0 Flash “Thinking mode”</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Dec/19/one-shot-python-tools/">Building
+Python tools with a one-shot prompt using uv run and Claude Projects</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Dec/11/gemini-2/">Gemini 2.0
+Flash: An outstanding multi-modal LLM with a sci-fi streaming mode</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Dec/10/chatgpt-canvas/">ChatGPT
+Canvas can make API requests now, but it’s complicated</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">I can now
+run a GPT-4 class model on my laptop</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Dec/7/prompts-js/">Prompts.js</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Dec/4/amazon-nova/">First
+impressions of the new Amazon Nova LLMs (via a new llm-bedrock
+plugin)</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/">Storing
+times for human events</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/">Ask
+questions of SQLite databases and CSV/JSON files in your terminal</a>
+</li>
+</ul>
+<h4 id="releases">
+Releases
+</h4>
+<ul>
+<li>
+<strong><a href="https://github.com/simonw/llm-gemini/releases/tag/0.8">llm-gemini
+0.8</a></strong> - 2024-12-19<br />LLM plugin to access Google’s Gemini
+family of models
+</li>
+<li>
+<strong><a href="https://github.com/datasette/datasette-enrichments-slow/releases/tag/0.1">datasette-enrichments-slow
+0.1</a></strong> - 2024-12-18<br />An enrichment on a slow loop to help
+debug progress bars
+</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-anthropic/releases/tag/0.11">llm-anthropic
+0.11</a></strong> - 2024-12-17<br />LLM access to models by Anthropic,
+including the Claude series
+</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-openrouter/releases/tag/0.3">llm-openrouter
+0.3</a></strong> - 2024-12-08<br />LLM plugin for models hosted by
+OpenRouter
+</li>
+<li>
+<strong><a href="https://github.com/simonw/prompts-js/releases/tag/0.0.4">prompts-js
+0.0.4</a></strong> - 2024-12-08<br />async alternatives to browser
+alert() and prompt() and confirm()
+</li>
+<li>
+<strong><a href="https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.1a0">datasette-enrichments-llm
+0.1a0</a></strong> - 2024-12-05<br />Enrich data by prompting LLMs
+</li>
+<li>
+<strong><a href="https://github.com/simonw/llm/releases/tag/0.19.1">llm
+0.19.1</a></strong> - 2024-12-05<br />Access large language models from
+the command-line
+</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-bedrock/releases/tag/0.4">llm-bedrock
+0.4</a></strong> - 2024-12-04<br />Run prompts against models hosted on
+AWS Bedrock
+</li>
+<li>
+<strong><a href="https://github.com/datasette/datasette-queries/releases/tag/0.1a0">datasette-queries
+0.1a0</a></strong> - 2024-12-03<br />Save SQL queries in Datasette
+</li>
+<li>
+<strong><a href="https://github.com/datasette/datasette-llm-usage/releases/tag/0.1a0">datasette-llm-usage
+0.1a0</a></strong> - 2024-12-02<br />Track usage of LLM tokens in a
+SQLite table
+</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-mistral/releases/tag/0.9">llm-mistral
+0.9</a></strong> - 2024-12-02<br />LLM plugin providing access to
+Mistral models using the Mistral API
+</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-claude-3/releases/tag/0.10">llm-claude-3
+0.10</a></strong> - 2024-12-02<br />LLM plugin for interacting with the
+Claude 3 family of models
+</li>
+<li>
+<strong><a href="https://github.com/simonw/datasette/releases/tag/0.65.1">datasette
+0.65.1</a></strong> - 2024-11-29<br />An open source multi-tool for
+exploring and publishing data
+</li>
+<li>
+<strong><a href="https://github.com/simonw/sqlite-utils-ask/releases/tag/0.2">sqlite-utils-ask
+0.2</a></strong> - 2024-11-24<br />Ask questions of your data with LLM
+assistance
+</li>
+<li>
+<strong><a href="https://github.com/simonw/sqlite-utils/releases/tag/3.38">sqlite-utils
+3.38</a></strong> - 2024-11-23<br />Python CLI utility and library for
+manipulating SQLite databases
+</li>
+</ul>
+<h4 id="tils">
+TILs
+</h4>
+<ul>
+<li>
+<a href="https://til.simonwillison.net/python/utc-warning-fix">Fixes for
+datetime UTC warnings in Python</a> - 2024-12-12
+</li>
+<li>
+<a href="https://til.simonwillison.net/npm/npm-publish-github-actions">Publishing
+a simple client-side JavaScript package to npm with GitHub Actions</a> -
+2024-12-08
+</li>
+<li>
+<a href="https://til.simonwillison.net/cloudflare/workers-github-oauth">GitHub
+OAuth for a static site using Cloudflare Workers</a> - 2024-11-29
+</li>
+</ul>
+<pre><code>    &lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/google&quot;&gt;google&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/weeknotes&quot;&gt;weeknotes&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/openai&quot;&gt;openai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/chatgpt&quot;&gt;chatgpt&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/o1&quot;&gt;o1&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/inference-scaling&quot;&gt;inference-scaling&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/#atom-everything</a></p>
+<hr />
+<h2 id="building-effective-agents">Building effective agents</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://www.anthropic.com/research/building-effective-agents">Building
+effective agents</a></strong>
+</p>
+My principal complaint about the term “agents” is that while it has many
+different potential definitions most of the people who use it seem to
+assume that everyone else shares and understands the definition that
+they have chosen to use.
+</p>
+<p>
+This outstanding piece by Erik Schluntz and Barry Zhang at Anthropic
+bucks that trend from the start, providing a clear definition that they
+then use throughout.
+</p>
+<p>
+They discuss “agentic systems” as a parent term, then define a
+distinction between “workflows” - systems where multiple LLMs are
+orchestrated together using pre-defined patterns - and “agents”, where
+the LLMs “dynamically direct their own processes and tool usage”. This
+second definition is later expanded with this delightfully clear
+description:
+</p>
+<blockquote>
+<p>
+Agents begin their work with either a command from, or interactive
+discussion with, the human user. Once the task is clear, agents plan and
+operate independently, potentially returning to the human for further
+information or judgement. During execution, it’s crucial for the agents
+to gain “ground truth” from the environment at each step (such as tool
+call results or code execution) to assess its progress. Agents can then
+pause for human feedback at checkpoints or when encountering blockers.
+The task often terminates upon completion, but it’s also common to
+include stopping conditions (such as a maximum number of iterations) to
+maintain control.
+</p>
+</blockquote>
+<p>
+That’s a definition I can live with!
+</p>
+<p>
+They also introduce a term that I <em>really</em> like: <strong>the
+augmented LLM</strong>. This is an LLM with augmentations such as tools
+- I’ve seen people use the term “agents” just for this, which never felt
+right to me.
+</p>
+<p>
+The rest of the article is the clearest practical guide to building
+systems that combine multiple LLM calls that I’ve seen anywhere.
+</p>
+<p>
+Most of the focus is actually on workflows. They describe five different
+patterns for workflows in detail:
+</p>
+<ul>
+<li>
+Prompt chaining, e.g. generating a document and then translating it to a
+separate language as a second LLM call
+</li>
+<li>
+Routing, where an initial LLM call decides which model or call should be
+used next (sending easy tasks to Haiku and harder tasks to Sonnet, for
+example)
+</li>
+<li>
+Parallelization, where a task is broken up and run in parallel
+(e.g. image-to-text on multiple document pages at once) or processed by
+some kind of voting mechanism
+</li>
+<li>
+Orchestrator-workers, where a orchestrator triggers multiple LLM calls
+that are then synthesized together, for example running searches against
+multiple sources and combining the results
+</li>
+<li>
+Evaluator-optimizer, where one model checks the work of another in a
+loop
+</li>
+</ul>
+<p>
+These patterns all make sense to me, and giving them clear names makes
+them easier to reason about.
+</p>
+<p>
+When should you upgrade from basic prompting to workflows and then to
+full agents? The authors provide this sensible warning:
+</p>
+<blockquote>
+<p>
+When building applications with LLMs, we recommend finding the simplest
+solution possible, and only increasing complexity when needed. This
+might mean not building agentic systems at all.
+</p>
+</blockquote>
+<p>
+But assuming you do need to go beyond what can be achieved even with the
+aforementioned workflow patterns, their model for agents may be a useful
+fit:
+</p>
+<blockquote>
+<p>
+Agents can be used for open-ended problems where it’s difficult or
+impossible to predict the required number of steps, and where you can’t
+hardcode a fixed path. The LLM will potentially operate for many turns,
+and you must have some level of trust in its decision-making. Agents’
+autonomy makes them ideal for scaling tasks in trusted environments.
+</p>
+<p>
+The autonomous nature of agents means higher costs, and the potential
+for compounding errors. We recommend extensive testing in sandboxed
+environments, along with the appropriate guardrails
+</p>
+</blockquote>
+<p>
+They also warn against investing in complex agent frameworks before
+you’ve exhausted your options using direct API access and simple code.
+</p>
+<p>
+<p>The article is accompanied by a brand new set of
+<a href="https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents">cookbook
+recipes</a> illustrating all five of the workflow patterns. The
+<a href="https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/evaluator_optimizer.ipynb">Evaluator-Optimizer
+Workflow</a> example is particularly fun, setting up a code generating
+prompt and an code reviewing evaluator prompt and having them loop until
+the evaluator is happy with the result.</p>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://x.com/HamelHusain/status/1869935867940540596&quot;&gt;Hamel Husain&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/prompt-engineering&quot;&gt;prompt-engineering&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/anthropic&quot;&gt;anthropic&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm-tool-use&quot;&gt;llm-tool-use&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai-agents&quot;&gt;ai-agents&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/20/building-effective-agents/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/20/building-effective-agents/#atom-everything</a></p>
+<hr />
+<h2 id="quoting-marcus-hutchins">Quoting Marcus Hutchins</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Simon Willison’s
+Weblog</p>
+<blockquote cite="https://bsky.app/profile/malwaretech.com/post/3ldpfzxdyqs2d">
+<p>
+50% of cybersecurity is endlessly explaining that consumer VPNs don’t
+address any real cybersecurity issues. They are basically only useful
+for bypassing geofences and making money telling people they need to buy
+a VPN.
+</p>
+<p>
+Man-in-the-middle attacks on Public WiFi networks haven’t been a
+realistic threat in a decade. Almost all websites use encryption by
+default, and anything of value uses HSTS to prevent attackers from
+downgrading / disabling encryption. It’s a non issue.
+</p>
+</blockquote>
+<p class="cite">
+—
+<a href="https://bsky.app/profile/malwaretech.com/post/3ldpfzxdyqs2d">Marcus
+Hutchins</a>
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/encryption&quot;&gt;encryption&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/vpn&quot;&gt;vpn&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/https&quot;&gt;https&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/security&quot;&gt;security&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2024/Dec/20/marcus-hutchins/#atom-everything"
+class="uri">https://simonwillison.net/2024/Dec/20/marcus-hutchins/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>Nate Bargatze: The baffling rise of the most inoffensive comedian
+alive.</p>
+<p><br></p>
+<p><a
+href="https://slate.com/culture/2024/12/nate-bargatze-comedian-snl-netflix-special-your-friend-comedy.html?via=rss"
+class="uri">https://slate.com/culture/2024/12/nate-bargatze-comedian-snl-netflix-special-your-friend-comedy.html?via=rss</a></p>
+<hr />
+<h2 id="understanding-computer-networks-by-analogy">Understanding
+Computer Networks by Analogy</h2>
+<p>date: 2024-12-20, from: Memo Garcia blog</p>
+<p>
+I’m writing this for the version of me back in university who struggled
+to grasp networking concepts. This isn’t a full map of the networking
+world, but it’s a starting point. If you’re also finding it tricky to
+understand some of the ideas that make the internet works, I hope this
+helps.
+</p>
+<p>
+I’m sticking with analogies here instead of going deep into technical
+terms—you can find those easily anywhere. I just enjoy looking at the
+world from different perspectives. It’s fascinating how many connections
+you can spot when you approach things from a new angle.
+</p>
+<p><br></p>
+<p><a
+href="https://memo.mx/posts/understanding-computer-networks-by-analogy/"
+class="uri">https://memo.mx/posts/understanding-computer-networks-by-analogy/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2024-12-20, from: Dave Winer’s linkblog)</p>
+<p>The GOP Is Treating Musk Like He’s in Charge.</p>
+<p><br></p>
+<p><a
+href="https://www.theatlantic.com/newsletters/archive/2024/12/the-gop-is-treating-musk-like-hes-in-charge/681117/?gift=f35zZN0v_gDFE8xNwlQAHa0RxyZ37nOM3GKJgDunSkY&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share"
+class="uri">https://www.theatlantic.com/newsletters/archive/2024/12/the-gop-is-treating-musk-like-hes-in-charge/681117/?gift=f35zZN0v_gDFE8xNwlQAHa0RxyZ37nOM3GKJgDunSkY&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</a></p>
+<hr />
+<h2 id="go-developer-survey-2024-h2-results">Go Developer Survey 2024 H2
+Results</h2>
+<p>date: 2024-12-20, updated: 2024-12-20, from: Go language blog</p>
+<p>What we learned from our 2024 H2 developer survey</p>
+<p><br></p>
+<p><a href="https://go.dev/blog/survey2024-h2-results"
+class="uri">https://go.dev/blog/survey2024-h2-results</a></p>
+</section>
+<footer>Feed items based on the feeds identified in <a href="news.txt">news.txt</a> harvested
+with <a href="https://github.com/rsdoiel/skimmer">skimmer</a></footer>
+</body>
+</html>

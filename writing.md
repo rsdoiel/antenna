@@ -1,142 +1,172 @@
 ---
 title: writing
+<<<<<<< HEAD
 updated: 2024-10-15 08:11:02
+=======
+updated: 2025-08-15 14:08:02
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # writing
 
+<<<<<<< HEAD
 (date: 2024-10-15 08:11:02)
+=======
+(date: 2025-08-15 14:08:02)
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 
 ---
 
-## 2024 Prix Utopiales Awards
+## From Big Break to 'Chicago Fire': 2022 TV Grand Prize Winner Natalie Messier Tells All
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-15, from: Final Draft blog
 
-<p>The winners of the 2024 Prix Utopiales and the 2024 Prix Utopiales Jeunesse have been announced. The prizes recognize work in the fantastic genres published or translated into French.</p>
-<p><strong>Prix Utopiales (Adult Literature)</strong></p>
-<ul>
-<li>WINNER: <strong>Code Ardant</strong>, Marge Nantel (Les éditions Mnémos)</li>
-<li>
-<div dir="auto"><strong>Aux ordres</strong>, Louise Carey (L’Atalante)</div>
-</li>
-<li><strong>Sweet Harmony</strong>, Claire North (Le Bélial)</li>
-<li>
-<div dir="auto"><strong>L’Ost céleste</strong>, Olivier Paquet (L’Atalante)</div>
-</li>
-<li><strong>La Maison des Soleils</strong>, Alastair Reynolds (Le Bélial)</li></ul> <a href="https://locusmag.com/2024/10/2024-prix-utopiales-awards/" class="read-more">...Read More </a> 
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/from-big-break-to-chicago-fire-2022-tv-grand-prize-winner-natalie-messier-tells-all" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/From%20Big%20Break%20to%20Chicago%20Fire%202022%20TV%20Grand%20Prize%20Winner%20Natalie%20Messier%20Tells%20All.png" alt="Image of Big Break Winner Natalie Messier standing outside in a large green field" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>When Natalie Messier entered the <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Final Draft Big Break TV writing competition</a> in 2022, she didn’t expect to win. Her dramedy pilot ‘Killer Queen’, about a woman who discovers her husband is a serial killer, was a sharp, funny, and oddly tender take on the delayed coming-of-age trope, but at that point, she says, “I hadn’t really received much acclaim for anything I’d written.”<br><br>Winning changed everything for Natalie.<br><br>Though she was already working in the writers’ room of NBC’s Chicago Fire as an assistant when she found out she won Big Break’s Grand Prize in the TV Drama category, the recognition gave her new-found confidence. “I told my coworkers about the win, and they were like, ‘Congratulations! Can I read it?’ They read it, and that’s what got me my first episode of television. I probably wouldn’t have shared it with them if I hadn’t won.”&nbsp;</p> 
 
 <br> 
 
-<https://locusmag.com/2024/10/2024-prix-utopiales-awards/>
+<https://blog.finaldraft.com/from-big-break-to-chicago-fire-2022-tv-grand-prize-winner-natalie-messier-tells-all>
 
 ---
 
-## 2024 SFPA Poetry Contest Winners
+## When Your Publisher Isn’t the Dream Partner You Hoped For — What Counts as Material Breach of a Publishing Agreement?
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-15, from: Author's Union blog
 
-<p>The Science Fiction &#38; Fantasy Poetry Association has announced the winners of its annual prize for poetry. Poems were judged in three categories, listed below.</p>
-<p><strong>Dwarf Category (10 or fewer lines):</strong></p>
-<ul>
-<li>WINNER: &#8220;Whirlpool&#8221; by Colleen Anderson</li>
-<li>Second Place: &#8220;She Reveals Herself&#8221; by Tabor Skreslet</li>
-<li>Third Place: &#8220;Perpetual Care&#8221; by Christopher Ripley Newell</li>
-<li>Honorable Mentions: &#8220;Desert Skies Motor Hotel&#8221; by Mark C Childs, &#8220;Haiku 6&#8221; by Tom Rogers, &#8220;dragon child&#8221; by </li></ul> <a href="https://locusmag.com/2024/10/2024-sfpa-poetry-contest-winners/" class="read-more">...Read More </a> 
+This is a guest post by Hana Khan-Tareen, who is a Legal Research Fellow at Georgetown University Law Center. We appreciate her insight on how authors can best protect their rights. 
 
 <br> 
 
-<https://locusmag.com/2024/10/2024-sfpa-poetry-contest-winners/>
+<https://www.authorsalliance.org/2025/08/15/when-your-publisher-isnt-the-dream-partner-you-hoped-for-what-counts-as-material-breach-of-a-publishing-agreement/>
 
 ---
 
-## Strange Horizons Launches Podcast Series
+## ‘Freakier Friday’ and the Art of the Body Swap Movie
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-13, from: Final Draft blog
 
-<p style="text-align: left;">Strange Horizons has announced the launch of a year-long podcast series, SH@25, in celebration of their 25th anniversary.</p>
-<p style="text-align: left;">SH@25 will feature &#8220;interviews with authors, artists, poets, and former staff of Strange Horizons, charting the magazine’s 25 year trajectory from being founded in September 2000 to winning a Hugo in August 2024, as well as looking ahead at its future.&#8221; The project will be led by podcast editor Kat Kourbeti and  <a href="https://locusmag.com/2024/10/strange-horizons-launches-podcast-series/" class="read-more">...Read More </a></p> 
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/freakier-friday-and-the-art-of-the-body-swap-movie" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Jamie%20Lee%20Curtis%20and%20Lindsay%20Lohan%20in%20Freakier%20Friday%20%282%29.png" alt="Jamie Lee Curtis and Lindsay Lohan screaming with both hands on their cheeks in Freakier Friday" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Freakier Friday</em> is the tale of four women who end up switching bodies, and must learn what it’s like to walk in someone else’s shoes. This isn’t an original story. In fact, it’s the sequel to <em>Freaky Friday</em> (2003), which is a remake of the original <em>Freaky Friday</em> from 1976, not including the TV movie made in 1995, or the other TV movie/musical from 2018.</p> 
 
 <br> 
 
-<https://locusmag.com/2024/10/strange-horizons-launches-podcast-series/>
+<https://blog.finaldraft.com/freakier-friday-and-the-art-of-the-body-swap-movie>
 
 ---
 
-## Weekly Bestsellers, 14 October 2024
+## The Public Interest Corpus Update – NYC Edition
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-13, from: Author's Union blog
 
-<div style="padding: 14px 0px 0px 0px; text-align: center;">
-<p>Sarah A. Parker&#8217;s <b>When the Moon Hatched</b>, published as a trade paperback earlier this year, is now in a hardcover edition from HarperCollins/Avon, and ranks on three lists, at #2 on the New York Times and Publishers Weekly lists. Two other older titles in new editions also rank this week: Suzanne Collins&#8217;s <b>The Hunger Games: Illustrated Edition</b> and J.K. Rowling&#8217;s <b>Harry Potter and the Sorcerer&#8217;s Stone (Stenciled Edges)</b>.</p></div> <a href="https://locusmag.com/2024/10/weekly-bestsellers-14-october-2024/" class="read-more">...Read More </a> 
+Last month, a diverse set of stakeholders gathered at New York University Law School to contribute to an implementation plan [&#8230;] 
 
 <br> 
 
-<https://locusmag.com/2024/10/weekly-bestsellers-14-october-2024/>
+<https://www.authorsalliance.org/2025/08/13/the-public-interest-corpus-update-nyc-edition/>
 
 ---
 
-## 2024 British Fantasy Awards Winners
+## 7 Ways to View Word Counts in Scrivener Projects
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-13, from: Literature & a Latte blog
 
-<p>The British Fantasy Society (BFS) has announced the winners of the 2024 British Fantasy Awards.</p>
-<div class="mynomorebulletlist">
-<p><strong>Best Fantasy Novel (the Robert Holdstock Award)</strong></p>
-<ul>
-<li>WINNER: <strong>Talonsister</strong>, Jen Williams (Titan)</li>
-</ul>
-<ul>
-<li>At<strong> Eternity’s Gates</strong>, David Green (Eerie River)</li>
-<li><strong>Beyond Sundered Seas</strong>, David Green (Eerie River)</li>
-<li><strong>A Day of Fallen Night</strong>, Samantha Shannon (Bloomsbury)</li>
-<li><strong>Shigidi and the Brass Head of Obalufon</strong>, Wole Talabi (DAW)</li>
-</ul>
-<p><strong>Best Horror Novel (the August Derleth </strong></p></div> <a href="https://locusmag.com/2024/10/2024-british-fantasy-awards-winners/" class="read-more">...Read More </a> 
+ 
 
 <br> 
 
-<https://locusmag.com/2024/10/2024-british-fantasy-awards-winners/>
+<https://www.literatureandlatte.com/blog/7-ways-to-view-word-counts-in-scrivener-projects>
 
 ---
 
-## Ananda Lima: Different Certainties
+## Write On: 'Sirens' Creator/Showrunner Molly Smith Metzler
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-12, from: Final Draft blog
 
-<p></p>
-<p><strong>ANANDA FERNANDES LIMA </strong>was born in Brasília, Brazil, and grew up there. She attended high school in Australia for a year through an exchange program and returned there for her undergraduate degree. While in college, she did a year abroad in Los Angeles and later moved back to attend grad school at UCLA, where she earned her MA in linguistics. She met her husband there, and they later lived in  <a href="https://locusmag.com/2024/10/ananda-lima-different-certainties/" class="read-more">...Read More </a></p> 
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-sirens-creator/showrunner-molly-smith-metzler" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Molly%20Smith%20Metzler%20-%20CreatorShowrunner.png" alt="Write On Podcast logo of headphones around a mobile device. On the screen is the poster for 'Sirens' from Creator/Showrunner Molly Smith Metzler" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“Our goal in writing [<em>Sirens</em>] was to write something that makes you think, and offers the opportunity to re-examine your own assumptions that you made about these characters. And it’s taxing. We ask some difficult questions. It’s not <em>The Perfect Couple</em>. It’s not a murder show. We’re going after something thematically that’s really large and really ambitious, and that’s why the Greek mythology came to mind. These are epic stories. These are about blood, and moms, and torture, and trauma, and pain. These themes are not tiny. These are complicated, juicy stews,” says showrunner and creator, Molly Smith Metzler about why she wanted to invoke big themes from Greek drama in her TV show <em>Sirens</em>.&nbsp;</p> 
+<p>On today’s episode, we chat with Molly Smith Metzler, showrunner and creator of the hit Netflix limited series <em>Sirens</em> starring Julianne Moore, Meghann Fahy and Kevin Bacon. The show is based on her stage play <em>Elemeno Pea</em> from 2011. Smith Metzler talks about making the transition from playwriting to television and what she learned about being in the writer’s room for <em>Orange is the New Black</em>.&nbsp;</p> 
+<p>“Everything you do in a [writer’s] room is an offering. I’m here to serve, I’m here to serve you. Come in with ideas, offer them. If they don’t hit, back off of them. You are a sous chef and a waiter,” she says.&nbsp;</p> 
+<p>She also talks about writing edgy female characters unapologetically, like the ones in <em>Sirens</em>, and the numerous times she was asked to remove a certain risqué scene from the pilot script – which she refused to do. “We have to write these women in their truest form – they’re complicated, and they don’t have to explain themselves, either. My job is not to soften her so an audience won’t turn off the TV show,” she says.&nbsp;</p> 
+<p>To hear more about creating <em>Sirens</em> listen to the podcast.&nbsp;<br><br></p> 
+<div> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
 
 <br> 
 
-<https://locusmag.com/2024/10/ananda-lima-different-certainties/>
+<https://blog.finaldraft.com/write-on-sirens-creator/showrunner-molly-smith-metzler>
 
 ---
 
-## Napalm in the Heart by Pol Guasch: Review by Ian Mond
+## ‘Weapons’: How Zach Cregger’s Emotional Outlet Turned into a Twisted Thriller
 
-date: 2024-10-14, from: Locus Magazine
+date: 2025-08-12, from: Final Draft blog
 
-<p><strong>Napalm in the Heart</strong>, Pol Guasch (Faber &#38; Fa­ber UK 978-0571375257, £6.99, 256pp, hc) July 2024. (FSG Originals 978-0-37461-295-5, $18.00, 256pp, tp) August 2024.</p>
-<p>Reading Pol Guasch’s debut, <strong>Napalm in the Heart</strong>, right after Helen Phillips’ <strong>Hum </strong>is a disorientat­ing experience. Both authors present us with dystopias, but while Phillips cleaves to our reality, Guasch gives us something more symbolic and experimental, a dystopia unmoored from time and  <a href="https://locusmag.com/2024/10/napalm-in-the-heart-by-pol-guasch-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/weapons-how-creggers-emotional-outlet-turned-into-a-twisted-thriller" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Julia%20Garner%20in%20Weapons.png" alt="Julia Garner carries her books in a dark school hallway. School election posters are pinned to the wall in Weapons" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Mild Spoilers Ahead! </em>Zach Cregger’s movies are wildly unique. With his breakout film <em>Barbarian</em>, he played with the fears of anyone staying at an Airbnb realizing that the house is not what it seems. He has followed up this surprise box office hit with <em>Weapons</em>, a twisty, creepy psychological horror movie that plays into every parent’s worst nightmare: their child runs away in the middle of the night.</p> 
 
 <br> 
 
-<https://locusmag.com/2024/10/napalm-in-the-heart-by-pol-guasch-review-by-ian-mond/>
+<https://blog.finaldraft.com/weapons-how-creggers-emotional-outlet-turned-into-a-twisted-thriller>
 
 ---
 
-## The Dark, Uncanny, Apex, and Weird Horror Fall: Short Fiction Reviews by Paula Guran
+## Top Social Media Tips for Writers with Screenwriter & Influencer Nic Curcio
 
-date: 2024-10-13, from: Locus Magazine
+date: 2025-08-12, from: Final Draft blog
 
-<p>The Dark 6/24
-Uncanny 7-8/24
-Apex #145
-Weird Horror Fall ’24</p>
-<p>The Dark #109 features two originals. “<strong>The Aban­doned</strong>” by <strong>Jack Klausner </strong>is a haunting story that begins with a little girl finding a box in the schoolyard. It takes us through tragic mystery and ends in resignation. The protagonist in <strong>Beth Goder</strong>’s interesting “<strong>Labyrinth</strong>” visits the infa­mous Winchester Mystery House in a story that  <a href="https://locusmag.com/2024/10/the-dark-uncanny-apex-and-weird-horror-fall-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/top-social-media-tips-for-writers-with-screenwriter-influencer-nic-curcio" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20close-up%20of%20hands%20typing%20on%20a%20phone%20while%20various%20bubbles%20of%20social%20media%20icons%20surround%20it.png" alt="A close-up of hands typing on a phone while various bubbles of social media icons surround it" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>If you’re an emerging screenwriter, you’ve likely heard it’s a good idea to build a brand or grow your online presence. But putting yourself “out there” can be intimidating, especially if you don’t want to look like a cringey self-promoter or some kind of screenwriting hack.&nbsp;<br><br>The good news is that screenwriter Nic Curcio has figured out a path that feels authentic and engaging and has shared his advice with us. Nic, who wrote on the upcoming animated feature <em>Goat</em> (in theaters February 2026), has steadily grown a loyal following on TikTok by posting screenwriting-related videos that are both educational and entertaining. What started as a side hobby during the pandemic has helped him land meetings, earn extra cheddar, and connect with a larger writing community.<br><br>Before working on <em>Goat</em> and finding a social media following, Nic studied English at UCLA and later earned his MFA in Film/TV Production from USC. His studies at USC gave him hands-on experience in various aspects of filmmaking, but writing is where he found his strongest voice.&nbsp;<br><br>In 2019, his feature script <em>Barron: A Tale of Love, Loss and Legacy</em>, was featured on the annual Black List, a ranking of Hollywood’s best unproduced scripts (yes, it’s a fictional story about a young Barron Trump!). From there, he landed a job as an in-house writer at Sony Animation, where he spent over a year rewriting and shaping <em>Goat</em> while working closely with the animation team. He has since written projects for Paramount and Universal, including a feature adaptation of the comic <em>Planet of the Nerds</em> and a new take on <em>The Magic School Bus</em>. In addition to all of this, he also finds time to co-host the podcast <em>Hollywood Hang</em> with fellow screenwriter Kristen Tepper.&nbsp;</p> 
 
 <br> 
 
-<https://locusmag.com/2024/10/the-dark-uncanny-apex-and-weird-horror-fall-short-fiction-reviews-by-paula-guran/>
+<https://blog.finaldraft.com/top-social-media-tips-for-writers-with-screenwriter-influencer-nic-curcio>
+
+---
+
+## How to Talk About Yourself
+
+date: 2025-08-12, from: John August blog
+
+<p>Every writer has to pitch themselves, but how do you do it without sounding like a tool? John welcomes back Pamela Ribon (Nimona, My Year of Dicks) for a big talk about small talk and general meetings. They offer practical tips on what to expect, how to get people to open up, navigating NDAs, staying [&#8230;]</p>
+The post <a href="https://johnaugust.com/2025/how-to-talk-about-yourself">How to Talk About Yourself</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/699standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/699standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/how-to-talk-about-yourself>
+
+---
+
+## How to Write a Screenplay with a Partner: Tips for Successful Co-Writing
+
+date: 2025-08-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-screenplay-with-a-partner-tips-for-successful-co-writing" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/2%20writers%2c%20a%20man%20taking%20notes%20and%20a%20woman%2c%20sit%20at%20a%20coffeeshop%20discussing%20theyre%20project.png" alt="2 writers, a man taking notes and a woman, sit at a coffeeshop discussing they're project" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Some of the most iconic screenplays of all time were written by screenwriting duos. Here are just a few examples:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-screenplay-with-a-partner-tips-for-successful-co-writing>
 

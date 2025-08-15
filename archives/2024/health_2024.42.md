@@ -1,11 +1,236 @@
 ---
 title: health
+<<<<<<< HEAD
 updated: 2024-10-15 08:11:03
+=======
+updated: 2024-10-20 08:34:09
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # health
 
+<<<<<<< HEAD
 (date: 2024-10-15 08:11:03)
+=======
+(date: 2024-10-20 08:34:09)
+
+---
+
+## Genomic and phenotypic characterization of a Clostridioides difficile strain of the epidemic ST37 type from China
+
+date: 2024-10-18, from: Frontiers in Cellular and Infection Microbiology
+
+Clostridioides difficile strains of sequence type (ST) 37, primarily including PCR ribotype (RT) 017, are prevalent in mainland China. Our study aimed to compare the major virulence factors of an epidemic C. difficile isolate of ST37 type (Xy06) from China with the well-characterized C. difficile reference strains R20291 (RT027) and CD630E (ST54), as well as a Chinese ST54 strain (Xy07) isolated from the same hospital. The Xy06 genome was predicted to harbor two complete prophages and several transposon-like elements. Comparative analysis of PaLoc revealed a truncated tcdA gene, a functional tcdB gene, a functional tcdC gene, and well-conserved tcdR and tcdE genes. Phenotypic comparisons showed that Xy06 was a robust producer of TcdB, readily sporulated and germinated, and strongly bound to human gut epithelial cells. In a mouse model of C. difficile infection, Xy06 was more virulent than strains CD630E and Xy07 and was comparable to strain R20291 in virulence. Our data suggest the potential threat of the epidemic ST37 strains in China. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1412408>
+
+---
+
+## Comparing the frequency, antifungal susceptibility, and enzymatic profiles of the oral fungal composition in patients with and without Alzheimer's disease admitted to a neurology clinic
+
+date: 2024-10-18, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundStudies have shown that changes in the frequency of oral microorganisms may play a key role in the development of Alzheimer's disease (AD). However, no research has been conducted on the oral fungal composition in AD-patients. The present study aimed to investigate the changes in the frequency of oral fungal composition, the antifungal susceptibility, and the enzymatic profiles of oral fungal composition in patients suffering from AD compared to non-AD individuals.Materials and methodsIn the present analytical cross-sectional study during 12 months, 76 hospitalized patients with AD were matched with 76 individuals without AD. A sterile serum physiology-moistened cotton-tipped swab was used to sample the mouth area. All swabs were cultured on Sabouraud Chloramphenicol Agar. Fungal identified were confirmed through the PCR-sequencing techniques. Enzyme activity index (EAI) for important pathogenic factors including proteinase, esterase and hemolysin was measured using relevant protocols. The susceptibility to 8 antifungal agents (nystatin, voriconazole, itraconazole, fluconazole, posaconazole, amphotericin B, 5-fluorocytosine, and caspofungin) against fungal strains obtained from AD-patients was evaluated according to the Clinical and Laboratory Standards Institute (CLSI) guidelines, document M38-A2 for filamentous fungi, and document M27-A4 for yeasts.ResultsThe results showed that compared to the non-AD individuals, the prevalence of oral fungal composition in AD group was 1.6 times higher. Candida albicans was the most common fungal species isolated from oral swab samples of AD group (n=53, 80%) and non-AD group (n=28, 40%), and the diversity of the oral fungal composition in AD-patients were lower than non-AD individuals. Among the 3 investigated virulence factors, a statistically significant difference was shown in terms of hemolysin activity level between the two studied groups (p<0.05) and the activity level of esterase and proteinase enzymes did not show a significant difference in the two studied groups (p>0.05). The results showed that almost all of the tested isolates were susceptible to nystatin, the most widely prescribed antifungal to treat superficial infections, and only 1.69 % (2/118) of the Candida isolates were resistant to this antifungal drug.ConclusionUnderstanding the changes in the frequency of oral fungal composition the antifungal susceptibility, and the enzymatic profiles of oral fungal composition in patients suffering from AD compared to non-AD individuals makes it possible to better understand the etiology of this disease. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1477230>
+
+---
+
+## Single-stranded DNA oligonucleotides containing CpG motifs are non-stimulatory in vitro but offer protection in vivo against Burkholderia pseudomallei
+
+date: 2024-10-18, from: Frontiers in Cellular and Infection Microbiology
+
+Therapies that modulate and appropriately direct the immune response are promising candidates for the treatment of infectious diseases. One such candidate therapeutic is DZ13, a short, synthetic, single-stranded DNA molecule. This molecule has enzymatic activity and can modulate the immune response by binding to and degrading the mRNA encoding a key immuno-regulatory molecule. Originally developed and entering clinical trials as an anti-cancer agent, DZ13 has also been evaluated as a treatment for viral infections, and has been shown to provide protection against infection with influenza virus in a mouse model of infection. In this work, we evaluated whether the immuno-modulatory properties of DZ13 could provide protection against the potential biothreat pathogen Burkholderia pseudomallei which causes the neglected tropical disease melioidosis. Treatment of mice infected with B. pseudomallei demonstrated that DZ13 did indeed provide excellent protection after only two post-exposure treatments. However, our data indicated that the enzymatic activity contained in DZ13 was not required for protection, with control oligonucleotide treatments lacking activity against the target mRNA equally as protective against B. pseudomallei. We have designed new sequences to study the mechanism of protection further. These novel sequences offer enhanced protection against infection, but are not directly anti-microbial and do not appear to be stimulating the immune system via TLR9 or other key innate immune sensors, despite containing CpG motifs. The molecular mechanism of these novel sequences remains to be elucidated, but the data highlights that these oligonucleotide-sensing pathways are attractive and relevant targets to modulate during bacterial and viral infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458435>
+
+---
+
+## COVID-19: a multi-organ perspective
+
+date: 2024-10-18, from: Frontiers in Cellular and Infection Microbiology
+
+In this mini review, we explore the complex network of inflammatory reactions incited by SARS-CoV-2 infection, which extends its reach well beyond the respiratory domain to influence various organ systems. Synthesizing existing literature, it elucidates how the hyperinflammation observed in COVID-19 patients affects multiple organ systems leading to physiological impairments that can persist over long after the resolution of infection. By exploring the systemic manifestations of this inflammatory cascade, from acute respiratory distress syndrome (ARDS) to renal impairment and neurological sequelae, the review highlights the profound interplay between inflammation and organ dysfunction. By synthesizing recent research and clinical observations, this mini review aims to provide an overview of the systemic interactions and complications associated with COVID-19, underscoring the need for an integrated approach to treatment and management. Understanding these systemic effects is crucial for improving patient outcomes and preparing for future public health challenges. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1425547>
+
+---
+
+## Editorial: Antiviral options for emerging and reemerging viral diseases: current therapeutics, novel drug candidates and new approaches
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1497018>
+
+---
+
+## Isolation and pathogenicity of a highly virulent group III porcine Getah virus in China
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionGetah virus (GETV) is a multi-host virus found in pigs, horses, and blue foxes. Clinically, GETV can cause fever, diarrhea, and reproductive disorders in pigs, representing significant threats to pig breeding. At present, few studies have examined the pathogenicity of GETV in pigs of different ages.MethodsIn the present study, a new strain, named GETV-QJ, was isolated from clinically ill pigs, and whole genome sequencing analysis was performed. Besides the pathogenicity of piglets and pregnant sows of this strain was further studied.Resultsthe results illustrated that the strain belonged to group III. The strain had 93.6%–96.3% homology with other subtypes, and its homology with the same subtype strain ranged 96.5%–99%. Further studies on the pathogenicity of the virus indicated that this strain caused severe diarrhea, fever, and intestinal and lung damage in 7-day-old piglets, resulting in their death. The piglet survival rate was 0%. In pregnant sows, this strain did not cause fever, death, or abortion, but it induced viremia, which affected the farrowing performance of sows and led to reduced piglet survival.DiscussionIn this study, we isolated a highly virulent group III and comprehensively established a pathogenic model of GETV in piglets and sows, providing a reference and guidance for the prevention and control of this infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1494654>
+
+---
+
+## Ningxiang pigderived Enterococcus hirae regulates the inflammatory function and enhances the protection of piglets against ETEC challenge
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+This study investigated the effects of Enterococcus hirae (Eh) derived from Ningxiang pigs on growth performance, diarrhea incidence, and immune responses in ETEC-challenged piglets. The results showed that compared to the CON group, ETEC infection significantly reduced the average daily gain (ADG) and average daily feed intake (ADFI), increased rectal temperature, and resulted in a diarrhea rate of up to 24%. Additionally, ETEC infection significantly increased the spleen index and the expression of inflammatory cytokines in the spleen, serum and intestine, with decreasing serum sIgA and colonic SCFAs of piglets. Compared to the ETEC group, orally Eh significantly increased ADFI in ETEC-infected piglets, reduced the diarrhea rate to 11.53%, reduced the spleen index and the expression of inflammatory cytokines in the spleen, serum and intestine, with decreasing serum sIgA and colonic SCFAs of ETEC-infected piglets. Furthermore, correlation analysis revealed that the levels of SCFAs (particularly acetate) were significantly negatively correlated with the expression levels of inflammatory cytokines in colonic and splenic tissues, suggesting that acetate may be a key metabolite in the anti-inflammatory effects of Eh. These results indicate that Eh can enhance the protection of piglets against ETEC K88 via intestine-acetate-spleen axis, thereby alleviating diarrhea and improving growth performance in piglets. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476564>
+
+---
+
+## Novel management of pseudomonas biofilm-like structure in a post-pneumonectomy empyema
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+We present a patient with a post-pneumonectomy empyema refractory to surgical debridement and systemic antibiotics. The patient initially presented with a bronchopleural fistula and pneumothorax secondary to tuberculosis (TB) destroyed lung, which required a pneumonectomy with Eloesser flap. Ongoing pleural infection delayed the closure of the Eloesser flap, and thoracoscopic inspection of his chest cavity revealed a green, mucous biofilm-like structure lining the postpneumonectomy pleural cavity. Cultures identified pan-susceptible Pseudomonas aeruginosa. Despite debriding this biofilm-like structure and administering systemic antibiotics, the patient continued to show persistent signs of infection and regrowth of the film. We employed a novel approach to dissolve the biofilm-like structure using intrapleural dornase alfa followed by intrapleural antibiotic washes. After 3 weeks of daily washes, repeat inspection demonstrated the biofilm-like structure had completely resolved. Resolving the pseudomonas biofilm-like structure allowed permanent closure of his chest without further need for systemic antibiotics. At follow up 3 months later, he showed no sequalae. This treatment option can be an important adjunct to improve likelihood of chest closure in patients with post-pneumonectomy empyema that resists standard treatment options due to biofilm formation. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458652>
+
+---
+
+## Carbapenem-resistant Klebsiella oxytoca transmission linked to preoperative shaving in emergency neurosurgery, tracked by rapid detection via chromogenic medium and whole genome sequencing
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesThis study describes the detection and tracking of emergency neurosurgical cross-transmission infections with carbapenem-resistant Klebsiella oxytoca (CRKO).MethodsWe conducted an epidemiological investigation and a rapid screening of 66 surveillance samples using the chromogenic selective medium. Two CRKO isolates from infected patients and three from the preoperative shaving razors had similar resistance profiles identified by the clinical laboratory.ResultsThe whole genome sequencing (WGS) results identified all isolates as Klebsiella michiganensis (a species in the K. oxytoca complex) with sequence type 29 (ST29) and carrying resistance genes blaKPC-2 and blaOXY-5, as well as IncF plasmids. The pairwise average nucleotide identity values of 5 isolates ranged from 99.993% to 99.999%. Moreover, these isolates displayed a maximum genetic difference of 3 among 5,229 targets in the core genome multilocus sequence typing scheme, and the razors were confirmed as the contamination source. After the implementation of controls and standardized shaving procedures, no new CRKO infections occurred.ConclusionContaminated razors can be sources of neurosurgical site infections with CRKO, and standard shaving procedures need to be established. Chromogenic selective medium can help rapidly identify targeted pathogens, and WGS technologies are effective mean in tracking the transmission source in an epidemic or outbreak investigation. Our findings increase the understanding of microbial transmission in surgery to improve patient care quality. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1464411>
+
+---
+
+## Editorial: The infection and immunity of sexually transmitted disease pathogens
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1498441>
+
+---
+
+## Global research trends and hotspots on human intestinal fungi and health: a bibliometric visualization study
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThis article employs bibliometric methods and visual maps to delineate the research background, collaborative relationships, hotspots, and trends in the study of gut fungi in human diseases and health.MethodsPublications related to human gut fungi were retrieved from the Web of Science Core Collection. VOSviewer, CiteSpace, R software and Microsoft Excel were employed to generate visual representations illustrating the contributions made by countries/regions, authors, organizations, and journals. Employing VOSviewer and CiteSpace, we conducted a comprehensive analysis of the retrieved publications, revealing underlying tendencies, research hotspots, and intricate knowledge networks.ResultsThis study analyzed a total of 3,954 publications. The United States ranks first in the number of published papers and has the highest number of citations and h-index. Mostafa S Elshahed is the most prolific author. The University of California System is the institution that published the most papers. Frontiers In Microbiology is the journal with the largest number of publications. Three frequently co-cited references have experienced a citation burst lasting until 2024.ConclusionAdvancements in sequencing technologies have intensified research into human gut fungi and their health implications, shifting the research focus from gut fungal infections towards microbiome science. Inflammatory bowel diseases and Candida albicans have emerged as pivotal areas of interest in this endeavor. Through this study, we have gained a deeper insight into global trends and frontier hotspots within this field, thereby enhancing our understanding of the intricate relationship between gut fungi and human health. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1460570>
+
+---
+
+## Demand COVID vaccine access at least twice a year for all ages! Public comment to the CDC closes Oct 18th
+
+date: 2024-10-16, from: People's CDC
+
+Vaccine public comment is due this Friday, October 18, all of us (including immunocompromised people and people age 65 and over) need access to COVID vaccines at least twice a year
+ 
+
+<br> 
+
+<https://peoplescdc.org/2024/10/16/demand-covid-vaccine-access-at-least-twice-a-year-for-all-ages-public-comment-to-the-cdc-closes-oct-18th/>
+
+---
+
+## Editorial: Intraspecies variability in apicomplexan parasites: epidemiology, traits and virulence
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1497043>
+
+---
+
+## Epigallocatechin gallate protects mice from Salmonella enterica ser. Typhimurium infection by modulating bacterial virulence through quorum sensing inhibition
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+Salmonella enterica ser. Typhimurium is a common pathogen that poses a considerable public health threat, contributing to severe gastrointestinal diseases and widespread foodborne illnesses. The virulence of S. Typhimurium is regulated by quorum sensing (QS) and the type III secretion system (T3SS). This study investigated the inhibitory effects and anti-QS activity of epigallocatechin gallate (EGCG), which is a bioactive ingredient found in green tea, on the virulence of S. Typhimurium. In vitro bacterial experiments demonstrated that EGCG inhibited the production of autoinducers, biofilm formation, and flagellar activity by downregulating the expression of AI-1, AI-2, Salmonella pathogenicity islands (SPI)-1, SPI-2, and genes related to flagella, fimbriae, and curli fibers. In a mouse model of S. Typhimurium-induced enteritis, EGCG considerably reduced intestinal colonization by S. Typhimurium and alleviated intestinal damage. In conclusion, EGCG protects the intestines of mice infected with S. Typhimurium by inhibiting QS-induced virulence gene expression, demonstrating its potential as a therapeutic agent for controlling S. Typhimurium infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1432111>
+
+---
+
+## Development and application of a quadruplex real-time PCR method for Torque teno sus virus 1, Porcine circovirus type 2, pseudorabies virus, and porcine parvovirus
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionIn clinical diagnosis of porcine diseases, co-infection with multiple viruses often leads to similar clinical symptoms. Postweaning multisystemic wasting syndrome (PMWS) can be caused by infections with TTSuV or PCV2, while PCV2, PRV, and PPV can cause respiratory and reproductive disorders in pigs. The overlapping clinical and pathological features of these infections necessitate the development of a rapid and specific method for differentiating and detecting these four DNA viruses.MethodsIn this study, four pairs of primers and TaqMan probes were designed targeting the conserved sequence of TTSuV, the Rep gene of PCV2, the gE gene of PRV, and the VP2 gene of PPV. After optimizing reaction conditions, including annealing temperature, primer concentration, and probe concentration, a quadruplex real-time PCR method was developed.ResultsThis method can specifically detect TTSuV1, PCV2, PRV, and PPV simultaneously, with no cross-reactivity with ASFV, CSFV, PRRSV, PEDV, PSV, and TGEV. The minimum detection limit for each virus was 10 copies/μl, and the inter-assay and intra-assay coefficients of variation ranged from 0.33% to 1.43%. Subsequently, 150 clinical samples were tested to evaluate the practical applicability of this method. The positive rates for TTSuV1, PCV2, PRV, and PPV were 8.6% (13/150), 10.67% (16/150), 14% (21/150), and 11.33% (17/150), respectively.DiscussionThe results indicate that the established quadruplex real-time PCR method can assist in the accurate and rapid diagnosis of TTSuV1, PCV2, PRV, and PPV in clinical settings, providing robust support for the prevention and control of these infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1461448>
+
+---
+
+## Corrigendum: Sensor histidine kinases kdpD and aauS regulate biofilm and virulence in Pseudomonas aeruginosa PA14
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1501233>
+
+---
+
+## Assessment of community-acquired urinary tract infections treatment in the emergency department: a retrospective study
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionUrinary tract infection (UTI) is one of the most common medical complaints in the emergency department (ED). The aim of this study was to assess the real indication of an initial broad-spectrum treatment administered in the ED for hospitalized patients with a diagnosis of community-acquired UTI (CAUTI).Materials and methodsThis is a monocentric observational retrospective study conducted in the ED of one of the largest tertiary care centers in Lebanon, on a two-year period, including adult patients admitted to the hospital for a CAUTI. The primary outcome was to evaluate the need of downgrading empirical antibiotherapy started in the ED. Secondary outcomes included a description of CAUTIs characteristics: prevalence and risk factors for (extended spectrum beta lactamases) ESBL-related infection, complicated and uncomplicated UTIs, empirical and targeted treatment, and finally the rate of adherence to local guidelines.ResultsThe most isolated strains on urine cultures were gram negative bacilli (GNB) with 29.1% producing ESBL; 69.4% of patients received an ESBL-targeting empirical treatment in the ED, in agreement with local guidelines, 46% of which needed a downgrade. Amikacin adjunction was only indicated in 42.8% of the cases. Patients who received antibiotics in the last 6 months had a 2.36 times higher risk of developing an ESBL-related infection.ConclusionThis study showed a high adherence rate to local recommendations suggesting the use of empirical ESBL-targeting antibiotherapy even in uncomplicated UTIs. However, the frequent need of de-escalation highlights the importance of establishing an efficient multi-drug resistant (MDR) bacteria surveillance system in the community in order to elaborate a stewardship program with more solid local guidelines. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1433597>
+
+---
+
+## PMCNA_RS00975 activates NF-κB and ERK1/2 through TLR2 and contributes to the virulence of Pasteurella multocida
+
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionPasteurella multocida is a pathogenic bacterium known to cause hemorrhagic septicemia and pneumonia in poultry. Reports have indicated that certain proteins, either directly involved in or regulating iron metabolism, are important virulence factors of P. multocida. Therefore, understanding virulent factors and analyzing the role of pro-inflammatory cytokines can help us elucidate the underlying pathogenesis.MethodsIn this study, the PMCNA_RS00975 protein, a putative encapsuling protein encoded by a gene from a specific prophage island of the pathogenic strain C48-1 of P. multocida, was investigated. To further explore the impact of the PMCNA_RS00975 protein on pathogenicity, a PMCNA_RS00975 gene mutant of P. multocida strain C48-1 was constructed using positive selection technology. Subcellular localization was performed to determine the location of the PMCNA_RS00975 protein within P. multocida. The recombinant protein PMCNA_RS00975 of P. multocida was soluble expressed, purified, and its role in pro-inflammatory cytokines was investigated.ResultsThe mutant exhibited significantly reduced pathogenicity in the mice model. Furthermore, subcellular localization indicated that the PMCNA_RS00975 protein was located at the outer membrane and expressed during infection of P. multocida. Additionally, our experiments revealed that recombinant PMCNA_RS00975 protein promotes the secretion of the IL-6 pro-inflammatory cytokines triggered by the TLR2 receptor via NF-κB and ERK1/2 signaling pathways in the macrophages.DiscussionThis study identified a novel virulence factor in the C48-1 strain, providing a basis for understanding the pathogenesis and directions for the development of attenuated vaccines against P. multocida. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1469304>
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 
 ---
 
@@ -33,18 +258,6 @@ Ulcerative colitis (UC) is an inflammatory bowel disease characterized by recurr
 
 ---
 
-## PMCNA_RS00975 activates NF-κB and ERK1/2 through TLR2 and contributes to the virulence of Pasteurella multocida
-
-date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
-
-IntroductionPasteurella multocida is a pathogenic bacterium known to cause hemorrhagic septicemia and pneumonia in poultry. Reports have indicated that certain proteins, either directly involved in or regulating iron metabolism, are important virulence factors of P. multocida. Therefore, understanding virulent factors and analyzing the role of pro-inflammatory cytokines can help us elucidate the underlying pathogenesis.MethodsIn this study, the PMCNA_RS00975 protein, a putative encapsuling protein encoded by a gene from a specific prophage island of the pathogenic strain C48-1 of P. multocida, was investigated. To further explore the impact of the PMCNA_RS00975 protein on pathogenicity, a PMCNA_RS00975 gene mutant of P. multocida strain C48-1 was constructed using positive selection technology. Subcellular localization was performed to determine the location of the PMCNA_RS00975 protein within P. multocida. The recombinant protein PMCNA_RS00975 of P. multocida was soluble expressed, purified, and its role in pro-inflammatory cytokines was investigated.ResultsThe mutant exhibited significantly reduced pathogenicity in the mice model. Furthermore, subcellular localization indicated that the PMCNA_RS00975 protein was located at the outer membrane and expressed during infection of P. multocida. Additionally, our experiments revealed that recombinant PMCNA_RS00975 protein promotes the secretion of the IL-6 pro-inflammatory cytokines triggered by the TLR2 receptor via NF-κB and ERK1/2 signaling pathways in the macrophages.DiscussionThis study identified a novel virulence factor in the C48-1 strain, providing a basis for understanding the pathogenesis and directions for the development of attenuated vaccines against P. multocida. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1469304>
-
----
-
 ## Deciphering the killing mechanisms of potassium iodide in combination with antimicrobial photodynamic therapy against cross-kingdom biofilm
 
 date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
@@ -69,15 +282,15 @@ This is the @PeoplesCDC bi-weekly update for October 14, 2024. This Weather Repo
 
 ---
 
-## Mycobacterium tuberculosis combine with EBV infection in severe adult meningoencephalitis: a rare case reports and literature review
+## Natural compound-induced downregulation of antimicrobial resistance and biofilm-linked genes in wastewater Aeromonas species
 
 date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-BackgroundTuberculous meningitis (TBM) with adults Epstein-Barr (EB) virus encephalitis is a very rare infectious disease, with a high mortality and disability. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is highly diagnostic. We report on a case of severe meningoencephalitis caused by co-infection with mycobacterium tuberculosis and EB virus. Brain MRI indicated a parenchyma lesion in the brain. mNGS of CSF indicated Mycobacterium tuberculosis and EB virus amplification, positive serum EB virus IgG antibodies, and improved symptoms after anti-tuberculosis and antiviral treatment. A re-examination of the brain MRI revealed that the significantly absorption of the lesions.Case reportA 49-year-old male patient presented with a chief complaint of headache and fever with consciousness disturbance. The brain magnetic resonance imaging showed a lesions in the right parenchymal brain with uneven enhancement, accompanied by significantly increased intracranial pressure, elevated CSF cell count and protein levels, as well as notably decreased glucose and chloride levels. mNGS of CSF showed the coexistence of Mycobacterium tuberculosis and EBV. The patient was diagnosed as TBM with EBV encephalitis. The patient’s symptoms gradually improved with the active administration of anti-tuberculosis combined with antiviral agents, the use of hormones to reduce inflammatory reaction, dehydration to lower intracranial pressure, and intrathecal injection. Subsequent follow-up brain magnetic resonance imaging indicated significant absorption of the lesions, along with a marked decrease in CSF count and protein levels, as well as obvious increase in glucose and chloride levels.ConclusionTBM associated with adult EBV encephalitis is extremely rare. The disease’s early stages are severe and have a high fatality rate. A prompt and accurate diagnosis is particularly important. NGS of CSF is of great value for early diagnosis. 
+Addressing the global antimicrobial resistance (AMR) crisis requires a multifaceted innovative approach to mitigate impacts on public health, healthcare and economic systems. In the complex evolution of AMR, biofilms and the acquisition of antimicrobial resistance genes (ARGs) play a pivotal role. Aeromonas is a major AMR player that often forms biofilm, harbors ARGs and is frequently detected in wastewater. Existing wastewater treatment plants (WWTPs) do not have the capacity to totally eliminate antimicrobial-resistant bacteria favoring the evolution of ARGs in wastewater. Besides facilitating the emergence of AMR, biofilms contribute significantly to biofouling process within the activated sludge of WWTP bioreactors. This paper presents the inhibition of biofilm formation, the expression of biofilm-linked genes and ARGs by phytochemicals andrographolide, docosanol, lanosterol, quercetin, rutin and thymohydroquinone. Aeromonas species were isolated and purified from activated sludge samples. The ARGs were detected in the isolated Aeromonas species through PCR. Aeromonas biofilms were quantified following the application of biocompounds through the microtiter plate assay. qPCR analyses of related genes were done for confirmation. Findings showed that the natural compounds inhibited the formation of biofilms and reduced the expression of genes linked to biofilm production as well as ARGs in wastewater Aeromonas. This indicates the efficacy of these compounds in targeting and controlling both ARGs and biofilm formation, highlighting their potential as innovative solutions for combating antimicrobial resistance and biofouling. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361119>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1456700>
 
 ---
 
@@ -93,27 +306,15 @@ IntroductionMetabolic dysfunction-associated fatty liver disease (MAFLD) has eme
 
 ---
 
-## Natural compound-induced downregulation of antimicrobial resistance and biofilm-linked genes in wastewater Aeromonas species
+## Trypanosoma cruzi-derived exovesicles contribute to parasite infection, tissue damage, and apoptotic cell death during ex vivo infection of human placental explants
 
 date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Addressing the global antimicrobial resistance (AMR) crisis requires a multifaceted innovative approach to mitigate impacts on public health, healthcare and economic systems. In the complex evolution of AMR, biofilms and the acquisition of antimicrobial resistance genes (ARGs) play a pivotal role. Aeromonas is a major AMR player that often forms biofilm, harbors ARGs and is frequently detected in wastewater. Existing wastewater treatment plants (WWTPs) do not have the capacity to totally eliminate antimicrobial-resistant bacteria favoring the evolution of ARGs in wastewater. Besides facilitating the emergence of AMR, biofilms contribute significantly to biofouling process within the activated sludge of WWTP bioreactors. This paper presents the inhibition of biofilm formation, the expression of biofilm-linked genes and ARGs by phytochemicals andrographolide, docosanol, lanosterol, quercetin, rutin and thymohydroquinone. Aeromonas species were isolated and purified from activated sludge samples. The ARGs were detected in the isolated Aeromonas species through PCR. Aeromonas biofilms were quantified following the application of biocompounds through the microtiter plate assay. qPCR analyses of related genes were done for confirmation. Findings showed that the natural compounds inhibited the formation of biofilms and reduced the expression of genes linked to biofilm production as well as ARGs in wastewater Aeromonas. This indicates the efficacy of these compounds in targeting and controlling both ARGs and biofilm formation, highlighting their potential as innovative solutions for combating antimicrobial resistance and biofouling. 
+Trypanosoma cruzi, the causative agent of Chagas disease, can be congenitally transmitted by crossing the placental barrier. This study investigates the role of T. cruzi-derived exovesicles (TcEVs) in facilitating parasite infection and the consequent tissue damage and apoptotic cell death in human placental explants (HPEs). Our findings demonstrate that TcEVs significantly enhance the parasite load and induce tissue damage in HPEs, both in the presence and absence of the parasite. Through histopathological and immunohistochemical analyses, we show that TcEVs alone can disrupt the placental barrier, affecting the basal membrane and villous stroma. The induction of apoptotic cell death is evidenced by DNA fragmentation, caspase 8 and 3, and p18 fragment immunodetection. This damage is exacerbated when TcEVs are combined with T. cruzi infection. These findings suggest that TcEVs play a critical role in the pathogenesis of congenital Chagas disease by disrupting the placental barrier and facilitating parasite transmission to the fetus. This study provides new insights into the mechanisms of transplacental transmission of T. cruzi and highlights the potential of targeting TcEVs as a therapeutic strategy against congenital Chagas disease. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1456700>
-
----
-
-## Porphyromonas gingivalis triggers microglia activation and neurodegenerative processes through NOX4
-
-date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
-
-Periodontitis and infections with periodontal bacteria have been highlighted as risk factors for dementia. In recent years, attention has been drawn to the role of microglia cells in neurodegenerative diseases. However, there is limited knowledge of the influence of periodontal bacteria on microglia cells. The aim of the present study was to investigate the interactions between the periodontal bacteria Porphyromonas gingivalis and microglia cells and to unravel whether these interactions could contribute to the pathology of Alzheimer’s disease. We found, through microarray analysis, that stimulation of microglia cells with P. gingivalis resulted in the upregulation of several Alzheimer’s disease-associated genes, including NOX4. We also showed that P. gingivalis lipopolysaccharides (LPS) mediated reactive oxygen species (ROS) production and interleukin 6 (IL-6) and interleukin 8 (IL-8) induction via NOX4 in microglia. The viability of neurons was shown to be reduced by conditioned media from microglia cells stimulated with P. gingivalis LPS and the reduction was NOX4 dependent. The levels of total and phosphorylated tau in neurons were increased by conditioned media from microglia cells stimulated with P. gingivalis or LPS. This increase was NOX4-dependent. In summary, our findings provide us with a potential mechanistic explanation of how the periodontal pathogen P. gingivalis could trigger or exacerbate AD pathogenesis. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451683>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1437339>
 
 ---
 
@@ -129,13 +330,25 @@ IntroductionNeisseria meningitidis is a gram-negative bacterium responsible for 
 
 ---
 
-## Trypanosoma cruzi-derived exovesicles contribute to parasite infection, tissue damage, and apoptotic cell death during ex vivo infection of human placental explants
+## Porphyromonas gingivalis triggers microglia activation and neurodegenerative processes through NOX4
 
 date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Trypanosoma cruzi, the causative agent of Chagas disease, can be congenitally transmitted by crossing the placental barrier. This study investigates the role of T. cruzi-derived exovesicles (TcEVs) in facilitating parasite infection and the consequent tissue damage and apoptotic cell death in human placental explants (HPEs). Our findings demonstrate that TcEVs significantly enhance the parasite load and induce tissue damage in HPEs, both in the presence and absence of the parasite. Through histopathological and immunohistochemical analyses, we show that TcEVs alone can disrupt the placental barrier, affecting the basal membrane and villous stroma. The induction of apoptotic cell death is evidenced by DNA fragmentation, caspase 8 and 3, and p18 fragment immunodetection. This damage is exacerbated when TcEVs are combined with T. cruzi infection. These findings suggest that TcEVs play a critical role in the pathogenesis of congenital Chagas disease by disrupting the placental barrier and facilitating parasite transmission to the fetus. This study provides new insights into the mechanisms of transplacental transmission of T. cruzi and highlights the potential of targeting TcEVs as a therapeutic strategy against congenital Chagas disease. 
+Periodontitis and infections with periodontal bacteria have been highlighted as risk factors for dementia. In recent years, attention has been drawn to the role of microglia cells in neurodegenerative diseases. However, there is limited knowledge of the influence of periodontal bacteria on microglia cells. The aim of the present study was to investigate the interactions between the periodontal bacteria Porphyromonas gingivalis and microglia cells and to unravel whether these interactions could contribute to the pathology of Alzheimer’s disease. We found, through microarray analysis, that stimulation of microglia cells with P. gingivalis resulted in the upregulation of several Alzheimer’s disease-associated genes, including NOX4. We also showed that P. gingivalis lipopolysaccharides (LPS) mediated reactive oxygen species (ROS) production and interleukin 6 (IL-6) and interleukin 8 (IL-8) induction via NOX4 in microglia. The viability of neurons was shown to be reduced by conditioned media from microglia cells stimulated with P. gingivalis LPS and the reduction was NOX4 dependent. The levels of total and phosphorylated tau in neurons were increased by conditioned media from microglia cells stimulated with P. gingivalis or LPS. This increase was NOX4-dependent. In summary, our findings provide us with a potential mechanistic explanation of how the periodontal pathogen P. gingivalis could trigger or exacerbate AD pathogenesis. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1437339>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451683>
+
+---
+
+## Mycobacterium tuberculosis combine with EBV infection in severe adult meningoencephalitis: a rare case reports and literature review
+
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundTuberculous meningitis (TBM) with adults Epstein-Barr (EB) virus encephalitis is a very rare infectious disease, with a high mortality and disability. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is highly diagnostic. We report on a case of severe meningoencephalitis caused by co-infection with mycobacterium tuberculosis and EB virus. Brain MRI indicated a parenchyma lesion in the brain. mNGS of CSF indicated Mycobacterium tuberculosis and EB virus amplification, positive serum EB virus IgG antibodies, and improved symptoms after anti-tuberculosis and antiviral treatment. A re-examination of the brain MRI revealed that the significantly absorption of the lesions.Case reportA 49-year-old male patient presented with a chief complaint of headache and fever with consciousness disturbance. The brain magnetic resonance imaging showed a lesions in the right parenchymal brain with uneven enhancement, accompanied by significantly increased intracranial pressure, elevated CSF cell count and protein levels, as well as notably decreased glucose and chloride levels. mNGS of CSF showed the coexistence of Mycobacterium tuberculosis and EBV. The patient was diagnosed as TBM with EBV encephalitis. The patient’s symptoms gradually improved with the active administration of anti-tuberculosis combined with antiviral agents, the use of hormones to reduce inflammatory reaction, dehydration to lower intracranial pressure, and intrathecal injection. Subsequent follow-up brain magnetic resonance imaging indicated significant absorption of the lesions, along with a marked decrease in CSF count and protein levels, as well as obvious increase in glucose and chloride levels.ConclusionTBM associated with adult EBV encephalitis is extremely rare. The disease’s early stages are severe and have a high fatality rate. A prompt and accurate diagnosis is particularly important. NGS of CSF is of great value for early diagnosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361119>
 

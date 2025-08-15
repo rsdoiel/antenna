@@ -1,0 +1,825 @@
+---
+title: games
+updated: 2025-02-16 07:08:30
+---
+
+# games
+
+(date: 2025-02-16 07:08:30)
+
+---
+
+## Does art need to be ‘fixed’?
+
+date: 2025-02-16, updated: 2025-02-14, from: Polygon Website
+
+In 2012, Roger Ebert wrote, “I remain convinced that in principle, video games cannot be art.” The question of what is or isn’t art feels tired in 2025, but the ever-shifting defenses of why can still be intriguing. In this interview excerpt, game designer Sam Barlow and podcaster Justin McElroy explore Ebert’s reasoning for saying [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/521436/sam-barlow-justin-mcelroy-art-fixed>
+
+---
+
+## Porygon-Z is the weirdest card to hit Pokémon TCG Pocket
+
+date: 2025-02-16, updated: 2025-02-15, from: Polygon Website
+
+The release of the Space-Time Smackdown expansion for Pokémon TCG Pocket has resulted in one of the most diverse metas in the game to date. Some people opt for decks based on heavy hitters like Palkia ex whereas others might try to chip away at opponents with cards like Darkrai ex. Those cards are all [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/523583/porygon-z-deck-best>
+
+---
+
+## The animated movie Flow went through big changes on its way to the Oscars
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+While the cat protagonist from the Oscar-nominated animated movie Flow is getting a lot of (deserved) love — and will get more now that Flow is streaming on Max — the movie actually has a whole cast of animals, which hunker together on a tiny boat adrift in the middle of rapidly rising waters. In addition [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/524245/flow-director-cat-bird-dog-animals>
+
+---
+
+## 5 great co-op games are on deep discount in Steam’s new sale
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Whether you’re celebrating Valentine’s Day with a weekend of gaming togetherness or just somebody with a gaming pal looking for a great deal, Steam’s Couch Co-Op Fest — running through Feb. 18 — has a ton of amazing cooperative games marked down significantly. The list of included games is long, but several of them stuck [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/524005/best-co-op-games-steam-sale-portal-2-tetris-effect>
+
+---
+
+## Captain America: Brave New World is a mess — but the ‘5D’ version I saw was even messier
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Marvel’s new MCU installment Captain America: Brave New World was beset by production delays and big, story-shifting reshoots. The end result is kind of a mess. That mess was compounded during a “5D” screening of the movie I saw on Thursday night, which turned the traditional theatergoing experience into an event where I was caked [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/524340/captain-america-brave-new-world-5d-filthy-version>
+
+---
+
+## The Sims 4 creative director on why The Sims is special: ‘We’re not a game that judges you for who you are, how you play’
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Before Anna Huerta worked at Maxis, owned by Electronic Arts, on The Sims 4, she still played the game professionally. The success of The Sims as a franchise made it one of those games that other companies were always chasing, and to begin to understand it, you’ve got to play it not just as a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/522300/the-sims-4-anna-huerta-creative-director>
+
+---
+
+## The best horror to watch on Netflix this February
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Winter may be slowly coming to an end, but the cold and dark months haven’t quite closed out just yet. To help you pass the time indoors, Netflix has got a nice little selection of horror movies at the moment, to keep things creepy and cozy. This month, we handpicked a few of the best [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/523884/best-horror-movies-netflix-watch-february-2025>
+
+---
+
+## Hoopa Unbound counters, weakness, and best moveset in Pokémon Go
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Hoopa Unbound is showing up in raids during Pokémon Go’s Hoopa Unbound Raid Day event that runs on Saturday, Feb. 15 from 2-5 p.m. in your local time. During this event, Hoopa will show up in raids as a five-star target. You’ll also get up to five free raid passes from spinnin gym discs and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset>
+
+---
+
+## New Witcher on Netflix, Flow, and every movie new to streaming this week
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, there’s a new Witcher animated movie, featuring the return of Geralt’s video game voice actor, the excellent animated movie Flow, about a cat escaping [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/522038/new-movies-watch-streaming-witcher-netflix-flow>
+
+---
+
+## Practical Pockets treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Practical Pockets is unusual as far as Avowed treasure maps go. This Emerald Stair map is looking out from the treasure&#8217;s location, not showing you where it is. Lucky for you, the location is within close reach and has few enemies patrolling nearby (unlike the region’s Painter&#8217;s Regret treasure map map). The reward at the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524444/practical-pockets-treasure-map-location-solution-reward>
+
+---
+
+## Painter’s Regret treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Painter&#8217;s Regret is one of the first treasure maps you can get in the Emerald Stair region of Avowed — and potentially one of the more dangerous quests there as well. The map itself is in a safe area, but the treasure location is surrounded by a group high-level enemies. Your reward is a trinket [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524484/painters-regret-treasure-map-location-solution-reward>
+
+---
+
+## Earthly Aegis treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Earthly Aegis is a tough map to track down in Avowed&#8216;s Emerald Stair region. It&#8217;s tucked away in a hard-to-find house, and finding the treasure itself involves a bit of investigation. If you prefer playing things safe with a shield in hand, this is one treasure map not to miss. This Avowed guide shows where [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524507/earthly-aegis-treasure-map-location-solution-reward>
+
+---
+
+## Why is the Red Hulk red? 
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+In Marvel Comics, green is the color of rage — and the color of gamma-mutated superheroes and villains. The Hulk is green, the Leader is green, She-Hulk is green, the Abomination is green. So the release of (or the trailers for) Captain America: Brave New World may have prompted an obvious question in your mind.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/524402/why-is-hulk-red-captain-america-brave-new-world>
+
+---
+
+## Intimidating Feline Codpiece treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Intimidating Feline Codpiece is one of the vaguest treasure maps in Avowed, offering only a skyline and some rocks as clues to its location in Dawnshore. The road to this treasure location takes you through the wilderness and past some dangerous enemies, so make sure you&#8217;ve got some food or potions on-hand before heading out. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward>
+
+---
+
+## Woedica&#8217;s Inheritance treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Finding the Woedica&#8217;s Inheritance treasure map solution in Avowed involves a trick of perspective and possibly some unorthodox quest-finding methods, depending on your luck. Unlike the other maps in Dawnshore, Captain Henqua’s Spoils and Intimidating Feline Codpiece, you need to make a bit of story progress before you can acquire Woedica&#8217;s Inheritance. If you favor [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward>
+
+---
+
+## How The Sims franchise leader went from QA to Maxis’ top creative role
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+For nearly four years, Lyndsay Pearson has led The Sims franchise as the creative franchise vice president at Maxis. But her legacy at the studio, owned by Electronic Arts, spans more than 20 years as she worked her way up from a quality assurance tester on The Sims, moving into an associate producer role for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/522273/sims-franchise-lyndsay-pearson-25-anniversary>
+
+---
+
+## Somebody spilled Nier and Pokémon all over this Metroidvania
+
+date: 2025-02-14, updated: 2025-02-13, from: Polygon Website
+
+Each year, hundreds of games try to smash together beloved franchises into something shamelessly, shallowly commercial. At first blush, you might mistake Ender Magnolia: Bloom in the Mist for one of these offenders. The new 2D indie game combines the design of Metroid, the look and sound of Nier, and the progression of Mega Man [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/523325/ender-magnolia-review-steam-switch-metroidvania>
+
+---
+
+## Astro Bot wins big at DICE as Indiana Jones takes home 3 awards
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Astro Bot won five awards, including Game of the Year, at Thursday’s 28th annual DICE Awards — a game industry awards ceremony, taking place at the DICE conference in Las Vegas, that often follows the Game Awards’ lead. The other big winners of the night were Helldivers 2, Balatro, and Indiana Jones and the Great [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot>
+
+---
+
+## Was Captain America: Brave New World’s post-credits scene shot in 2010?
+
+date: 2025-02-13, updated: 2025-02-14, from: Polygon Website
+
+The 35th MCU movie, Captain America: Brave New World, comes with a lot of questions MCU movies only sporadically face, like “How does this relate to current politics?”, along with the usual ones, like “What should I watch to prepare for this movie?” and “Does it have a post-credits scene?” Brave New World does have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/523800/captain-america-brave-new-worlds-post-credits-scene>
+
+---
+
+## The new STALKER 2 patch is going to save you lots of time
+
+date: 2025-02-13, updated: 2025-02-14, from: Polygon Website
+
+STALKER 2: Heart of Chornobyl arrived late last year in a fairly incomplete state. Technical issues with graphics, animations, sound, and quest design were the biggest problems. But taken together, they combined to drain computer and console resources. The only option left to developers at GSC Game World was to dial back the efficacy of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/523856/stalker-2-1-2-new-update-patch-notes-weapon-condition-a-life>
+
+---
+
+## Pokémon TCG Pocket schedule of events for Space-Time Smackdown
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+The Pokémon TCG Pocket schedule is full of events that allow you to grow your digital collection of cards. The developers have run several events as part of the game’s Space-Time Smackdown expansion at the time of publication. The content of each event can vary greatly; some require you to battle, whereas some focus on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates>
+
+---
+
+## The best gaming chairs
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+The best gaming chairs provide comfort, style, and features that normal office chairs can’t match. Sure, getting one might run you a few hundred dollars more than perhaps you were expecting to pay, but the same rationale for splashing cash on a good bed works here, too. That is to say, if you’re sitting at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23885770/best-gaming-chairs>
+
+---
+
+## All the new video games launching in 2025
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+After a brutal year for the video game industry, 2025 is looking brighter and much busier&#160;— if only because Rockstar Games plans to release Grand Theft Auto 6 in 2025, and Nintendo promises to deliver the Switch 2 and a bunch of new games to launch with it. Those aren’t the only highly anticipated sequels [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming>
+
+---
+
+## Nvidia’s cheapest RTX 50-series GPU will launch in March
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+Nvidia has had issues keeping up with demand for its new, premium GeForce RTX 5080 and 5090 graphics cards, but the show must go on. It has two more cards to put out this winter, the RTX 5070 Ti and the RTX 5070, and they’re launching soon. The $749 RTX 5070 Ti — the more [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/523766/nvidia-rtx-5070-ti-gpu-launch-date>
+
+---
+
+## Watch one of the best killer shark thrillers ever before it leaves Netflix
+
+date: 2025-02-13, updated: 2025-02-12, from: Polygon Website
+
+When it comes to shark movies, there are tiers, not rankings. There’s Jaws, all on its own at the very top, then a few genuinely great thrillers like The Shallows hanging around, and a bottom tier of absolute trash that should really never see the sun. But in between those last two is the vaunted, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/522616/47-meters-down-uncaged-netflix-shark-movie-good>
+
+---
+
+## Until Dawn director wanted to make his movie about ‘pretty much all’ horror genres
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+If you’ve been following the Until Dawn movie adaptation, you may be aware that the movie isn’t a straightforward retelling of the original Supermassive game released in 2015. It features a new set of teenagers meeting a variety of grisly fates, and instead of covering one miserable but finite stretch of time, the movie is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/522641/until-dawn-director-interview-horror-game-adaptation>
+
+---
+
+## Avowed is a grim scramble for resources with some decent story on top
+
+date: 2025-02-13, updated: 2025-02-12, from: Polygon Website
+
+Spend a few hours in Avowed, and you&#8217;ll start to feel as if the NPCs are obsessed with wood. Open any chest or lockbox, and inside you&#8217;ll find a branch or two hidden away for safekeeping. It might seem strange at first. But don&#8217;t worry — it won&#8217;t be long until you understand why it&#8217;s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/522593/avowed-review-xbox-pc>
+
+---
+
+## LOK is an absurdist puzzle game for the present moment
+
+date: 2025-02-13, updated: 2025-02-12, from: Polygon Website
+
+Absurdity is dead. Long live absurdity. Oh, hey, sorry. Been playing a lot of LOK Digital and reading the news. Both things live on my phone, so it’s easy to hop between them. Read a distressing headline? Boot up LOK and spell out LOLO. You’ll feel better. Well, no, you won’t feel better. But you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521969/lok-digital-absurd-puzzle-game>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## Diablo 4 won’t have annual expansions after all
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+The next Diablo 4 expansion won’t be out in 2025, in spite of the studio’s previous comments about releasing them annually. Speaking at the DICE Summit in Las Vegas (via Bloomberg’s Jason Schreier), Diablo general manager Rod Fergusson said the follow-up to 2024’s Vessel of Hatred expansion won’t be out until 2026. “In his DICE [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo/523050/diablo-4-second-expansion-2026-rod-fergusson>
+
+---
+
+## Dreams of Another is a reminder that more games should fill the screen with particles
+
+date: 2025-02-12, updated: 2025-02-13, from: Polygon Website
+
+Sony revealed the latest in Q-Games’ PixelJunk series during its State of Play presentation Wednesday, and it’s a gorgeous shooter with a twist. Directed by Tomohisa Kuramitsu, who goes by “Baiyon” and is probably best known for his work on the PixelJunk Eden series, Dreams of Another is a shooter built around the idea that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/523254/dreams-of-another-pixeljunk-new-game>
+
+---
+
+## Everything announced at Sony’s February 2025 State of Play
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+It’s 2025, and Sony Interactive Entertainment is back with its first State of Play presentation for the year. Sony broadcasted 40 minutes worth of PlayStation 5 news, focused on what it described as “a creative and unique selection of exciting games from studios around the world.” And Sony really packed those 40 minutes with near [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/522584/everything-announced-sony-state-of-play-february-2025-trailers>
+
+---
+
+## Android users can finally watch Severance
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+I’m not someone who watches a lot of TV or movies on my iPhone or iPad, but I love knowing I have the option. Now, Android users will finally have the option of watching the streaming service’s small, but solid library on their phones and tablets, too. As first reported by Bloomberg, on Wednesday, Apple [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/523053/apple-tv-plus-android-app>
+
+---
+
+## Taylor Lautner to play Taylor Lautner in Taylor Lautner: Werewolf Hunter
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+Twilight star Taylor Lautner is set to play a fictionalized version of himself who, in addition to being a former teen hearthtrob who played a brooding werewolf, is also a werewolf hunter. Variety reports that the show is currently in development at Amazon MGM studios, with 30 Rock writer Daisy Gardner serving as showrunner. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/523111/taylor-lautner-twilight-jacob-black-werewolf-hunter>
+
+---
+
+## One of the few horror movies to make me physically nauseous is leaving Hulu soon
+
+date: 2025-02-12, updated: 2025-02-11, from: Polygon Website
+
+Everyone’s horror pressure points are different. Either because of where or how you were raised, your lifestyle, or even just your own peculiarities, we have all encountered horror movie things that wig us out to no end that other people take in stride (and vice versa). Every ranking of scariness should be taken with a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/522126/titane-horror-movie-hulu-watch-made-me-sick>
+
+---
+
+## Amazon, Nintendo seek $7M judgment in counterfeit amiibo lawsuit
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+Amazon and Nintendo jointly filed a lawsuit in October 2023 against a group of counterfeit Nintendo sellers that the company said illegally sold fake amiibo and video game cartridges. Though the companies eventually learned the identities of the sellers, the alleged counterfeit sellers failed to respond to the lawsuit; Amazon and Nintendo filed documents on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/522449/amazon-nintendo-counterfeit-amiibo-cartridge-lawsuit>
+
+---
+
+## Elden Ring Nightreign comes out in May
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+The new Elden Ring is closer than you might think. FromSoftware announced on Wednesday that Elden Ring Nightreign, the new multiplayer spinoff of the studio’s excellent open-world game, is set for release on May 30. Nightreign was first announced at The Game Awards last December, with a gorgeous, but slightly mysterious, teaser trailer. FromSoftware also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/522351/elden-ring-nightreign-release-date-price>
+
+---
+
+## Arcade legend Jeff Minter’s next remake is I, Robot: the first game with polygons
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+Jeff Minter, the legendary, iconoclastic arcade game designer, is back with another Atari remake. Once again, the author of the classic Tempest 2000 and its sequels has dug deep into Atari’s back catalog and unearthed a truly deep cut to apply his intense, psychedelic spin to. Last time, it was the notoriously difficult, unreleased curio [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/522526/jeff-minter-atari-i-robot>
+
+---
+
+## Elden Ring Nightreign is for the true Elden Ring junkies
+
+date: 2025-02-12, updated: 2025-02-11, from: Polygon Website
+
+Elden Ring Nightreign isn’t what I was expecting. I knew from the game’s announcement last year that it would be a co-op Elden Ring spinoff, that it would task players with surviving for three nights and facing off against a variety of new and old FromSoftware bosses. What I didn’t know until I played the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/522325/elden-ring-nightreign-preview-network-test>
+
+---
+
+## How to get the Barrow-Dyad Exotic in Destiny 2
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+The Barrow-Dyad is an Exotic Strand submachine gun from Destiny 2: Heresy, and it comes from an Exotic questline called “The Taken Path,” which culminates in the Exotic mission, “Derealize.” To get to all these quests and missions, however, you’ll need to do a lot of secret hunting around the solar system. In this guide, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/522319/barrow-dyad-exotic-smg-how-to-get>
+
+---
+
+## Your Marvel Rivals rank isn&#8217;t safe from upcoming midseason patch
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Update: (Feb. 11): Marvel Rivals’ upcoming midseason patch will no longer impact your rank. Read more about that update here. Hold your competitive rank close, because it’s going to disappear next week when Marvel Rivals’ midseason patch drops. In a dev diary post today, developer NetEase announced that ranks will be reset twice per season: [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521682/marvel-rivals-mid-season-rank-reset-season-1>
+
+---
+
+## Marvel Rivals cancels its controversial rank change after players revolt
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Never mind, your rank is safe from the upcoming midseason patch in Marvel Rivals. NetEase has cancelled its plans for a surprise rank reset after players criticized the change on social media and the game’s Discord server. “After the release of Dev Talk 10 regarding the seasonal rank adjustment, we received a wealth of feedback [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/522149/marvel-rivals-midseason-rank-reset-reverted>
+
+---
+
+## You’re supposed to be confused in Civilization 7
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+There is a lot going on during every turn of Civilization 7. Each time you hit “next turn,” the computer is calculating the moves of other civilizations, factoring in your difficulty setting, proposing new wars, collecting new resources, selecting new items off the tech tree, and so on. Basically, math is always happening in Civilization [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514300/beginners-advice>
+
+---
+
+## Get every Pathfinder and Starfinder comic for just $18 at Humble
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+If you need to stock up on some light reading, Humble is currently offering a massive bundle of 71 Starfinder and Pathfinder comics for just $18. Published by Dynamite Entertainment! This bundle features every tale inspired by the fantasy and sci-fi TTRPG settings created by Paizo, and it’s certainly worth checking out if you’re a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/522103/starfinder-pathfinder-comics-paizo-humble-bundle-sale>
+
+---
+
+## Monster Hunter Wilds is the series’ friendliest entry yet — but not at the expense of hardcore fans, its creators say
+
+date: 2025-02-11, updated: 2025-02-10, from: Polygon Website
+
+Monster Hunter is an undeniable critical and commercial success for Capcom, but the game maker doesn’t seem content to simply cater to its (admittedly massive) existing audience with this year’s entry, Monster Hunter Wilds. The next game in the Monster Hunter franchise aims to be friendlier than ever to newcomers, as Capcom hopes to welcome [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/521156/monster-hunter-wilds-interview-preview>
+
+---
+
+## The 25 best Nintendo Switch games
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Looking for the best games on the Nintendo Switch? What follows is a living list of the 25 Switch games we recommend everyone play or watch — in case you’re new to the system or you’re just looking for something new to play. The Switch has been around almost eight years, has sold more than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games>
+
+---
+
+## Daybreak, Wavelength publisher CMYK doubles down on card games with Magenta
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+CMYK, a publisher known for taking chances in the tabletop space, is announcing something very different for 2025. The publisher that brought you breakout board game hits like Wavelength and Daybreak has a new line of high-concept card games called Magenta. Polygon received an exclusive early preview of the first four games in the series [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521771/magenta-card-games-line-cmyk-preorder-release-date-price-daybreak-wavelength-publisher>
+
+---
+
+## Netflix’s new  Witcher movie puts Geralt in DC Animated mode
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Geralt of Rivia has walked the many perilous paths of the Continent, and broken through in nearly every medium. Netflix’s new animated movie The Witcher: Sirens of the Deep fully brings him into the realm of animation, where the monster hunter, free of realistic physics, blasts fire from his hands and pummels sea monsters like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-witcher/521890/witcher-sirens-of-the-deep-anime-netflix-review-studio-mir>
+
+---
+
+## Can Luvdisc be shiny in Pokémon Go?
+
+date: 2025-02-11, updated: 2025-02-10, from: Polygon Website
+
+Luvdisc, the rendezvous Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Luvdisc can be shiny in Pokémon Go! Luvdisc isn’t meta in any form, sadly. It’s just a little guy with a pretty good shiny! What is the shiny rate for Luvdisc in Pokémon Go? As per old research by [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/521538/can-luvdisc-be-shiny>
+
+---
+
+## Phasmophobia’s 2025 roadmap includes a new map
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Phasmophobia, the wildly popular co-op ghost hunting game, has been blowing up on Twitch since at least 2020, and developers Kinetic Games said Monday that it’s sold more than 22 million copies so far. In 2025, the team has a jam-packed developmental roadmap, including plans for an updated look for its famously nondescript player character [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521775/phasmophobia-new-map-2025-roadmap>
+
+---
+
+## All candy cloud machine recipes in Hello Kitty Island Adventure
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+The candy cloud machine is among the last cooking stations you’ll unlock in Hello Kitty Island Adventure, and it allows you to make cotton candy clouds for your besties to much on. While no characters have candy clouds as their “favorite” items to be gifted, some of the items, like the Toasted Marshmallow Cloud, are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/521576/all-candy-cloud-machine-recipes-unlock-upgrade-kiki-lala>
+
+---
+
+## Cyrus is a cruel and vital addition to your Pokémon TCG Pocket deck
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Cyrus is a trainer card that’s taken over battles in Pokémon TCG Pocket. In the video games, he’s the big boss of the devious Team Galactic and a major antagonist in the Sinnoh generation. Ever since the Space-Time Smackdown expansion hit TCG Pocket in January, he’s also become a popular card in several decks that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/520122/cyrus-best-trainer-card>
+
+---
+
+## Build yourself a memorable Valentine’s Day with these floral Lego sets
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Don’t shoot the messenger, but Valentine’s Day is coming up quickly. It’s happening Friday, Feb. 14, and if you’re looking to share an experience with your valentine this year in addition to whatever else you might have planned, consider one of Lego’s floral bouquets. It has a vast selection, with each one providing simple instructions [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/515189/best-lego-valentines-day-flowers-sets>
+
+---
+
+## How to heal your units in Civilization 7
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Healing your units after a retreat is critical to winning wars in Civilization 7 — a game where wars are inevitable, even if you’re not looking for a Military Victory. But healing in Civilization 7 isn’t very straightforward, and your units will continue to hang out at low health unless you know what to do. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/521490/healing-units-how-to-heal-civ-7>
+
+---
+
+## Ayaneo 3 is a Steam Deck on steroids — in every way
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+It felt like magic. The Steam Deck played practically everything when Valve launched the handheld in 2022. By toggling to low graphical settings, even Elden Ring ran on the diminutive screen. But in 2025, gaming’s latest visual spectacles — including critical darlings Indiana Jones and Dragon’s Dogma 2 — won’t boot on Valve’s now-aging hardware. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hardware/521687/ayaneo-3-hands-on-impressions>
+
+---
+
+## Civ 7 isn&#8217;t even out yet and there&#8217;s already a mod fixing its UI
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Sid Meier’s Civilization 7 doesn’t officially launch until Tuesday, but players have already assembled a laundry list of criticisms for the latest installment of the 4X franchise, many of them pointed particularly at the obtuse UI and lack of basic features from previous entries. Firaxis has already released a statement detailing plans for upcoming changes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521547/civilization-civ-7-ui-mod-sukritact>
+
+---
+
+## The White Lotus, Yellowjackets, Cobra Kai’s finale, and more new TV this week
+
+date: 2025-02-10, updated: 2025-02-07, from: Polygon Website
+
+I know I say this every week, but: Damn, what a Severance. But Apple’s workplace dystopia is not the only new TV this week, and while this week is a bit lighter on new releases, there’s still plenty to cover here. The White Lotus and Yellowjackets alone would be major news! Both back for their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/514141/new-tv-netflix-white-lotus-yellowjackets-season-3-cobra-kai-finale>
+
+---
+
+## Civilization 7 data mining uncovers new leaders, Atomic Age
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Sid Meier’s Civilization 7 doesn’t officially launch until Feb. 11, but that hasn’t stopped folks from data mining the strategy game during its advanced access period and potentially uncovering future content. A user of the r/civ subreddit shared their findings after exploring the Civilization 7 code over the weekend. This digging found mention of new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521577/sid-meier-civilization-7-datamine-dlc-pirates>
+
+---
+
+## Civilization 7, Tomb Raider, and more new games out this week
+
+date: 2025-02-10, updated: 2025-02-07, from: Polygon Website
+
+Progress is the theme of the new game releases this week, whether it’s building an empire over the course of history or piecing your life back together and writing a song about it. These new games challenge you with meaningful, incremental progress in the face of what can feel like impossible odds. It’s not always [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/519889/best-new-game-releases-feb-10-civilization-7-tomb-raider-remastered>
+
+---
+
+## When does the second Monster Hunter Wilds open beta start?
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Monster Hunter Wilds’s open beta 2 provides another opportunity to test the next of Capcom’s action role-playing series before its launch later this month. While previously there was a staggered rollout starting with PS5 owners, this time all platforms can play from the off, and for those who can’t play over the first set of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/519440/beta-2-times-dates-second-open>
+
+---
+
+## How to get Finality&#8217;s Auger in Destiny 2
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Finality&#8217;s Auger is an exotic weapon in Destiny 2, and is a possible reward from completing the Sundered Doctrine dungeon. This Linear Fusion Rifle is a powerhouse in the power slot, with some interesting tricks up its frilly sleeves, and pairs up nicely with perks and features of the the Episode is debuts in — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/521334/finalitys-auger-get-drop-rate>
+
+---
+
+## Destiny 2 Sundered Doctrine dungeon guide and walkthrough
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+The Sundered Doctrine dungeon takes Destiny 2 players back to Rhulk&#8217;s Pyramid for more monsters, more riddles, and most importantly, more loot. Veterans of the Vow of the Disciple raid will recognise the mechanics here, albeit with some new twists. Sundered Doctrine is on the shorter side as far as dungeons go, with just three [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/521312/sundered-doctrine-dungeon-guide-walkthrough-encounter-symbols>
+
+---
+
+## The best Super Bowl commercials of 2025
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+The Super Bowl is such a huge annual event that it transcends football. A time-honored tradition, even for non-football fans, is to check out the Super Bowl commercials. With so many eyes on the big game, and brands bringing their best efforts, there are usually a few fun shorts to watch. We’ve rounded up the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/520753/super-bowl-2025-best-commercials-watch>
+
+---
+
+## The best and biggest movie trailers from Super Bowl 2025
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+The Super Bowl is as much about the spectacle as it is about the football. That tradition of spectacle includes the commercials: Super Bowl ads tend to be big swings, featuring a lot of celebrities and attention-grabbing ploys. That usually includes movie trailers for the year’s upcoming blockbusters (and hopeful blockbusters). In recent years, though, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/521169/super-bowl-2025-movie-trailers>
+
+---
+
+## Pokémon Go Karrablast and Shelmet Community Day guide
+
+date: 2025-02-10, updated: 2025-02-07, from: Polygon Website
+
+Pokémon Go is having a Karrablast and Shelmet Community Day event on Sunday, Feb. 9, from 2-5 p.m. in your local time. As expected with a Community Day event in Pokémon Go, Karrablast and Shelmet will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/520752/karrablast-shelmet-community-day-shiny-escavalier-accelgor>
+
+---
+
+## Marvel’s Thunderbolts* shows off a spooky new villain
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+While we don’t know everything about Marvel Studios’ upcoming Thunderbolts* (like what the asterisk stands for), thanks to the new trailer released during the Super Bowl, we have an even clearer confirmation of who the villain is. Seen in the newly released footage as a shadowy form like a silhouette of a caped man, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/521268/thunderbolts-villain-super-bowl-ad-trailer>
+
+---
+
+## We need to change our definition of interactivity
+
+date: 2025-02-09, updated: 2025-02-07, from: Polygon Website
+
+Can watching video feel more intimate — or more engaging — than playing a game? In this interview excerpt, Sam Barlow and Justin McElroy explore what makes players and viewers feel like they are making their mark on media. This interview was done in September 2024 as part of the release of our documentary The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/517910/sam-barlow-justin-mcelroy-intimacy>
+
+---
+
+## Sony’s response to PlayStation Network outage
+
+date: 2025-02-09, updated: 2025-02-09, from: Polygon Website
+
+Sony’s PlayStation Network was down from Friday to Saturday evening. Surpassing 24 hours, it was one of the decade’s longest unscheduled outages of a major video game network. The outage was wide-reaching, including PSN’s account management, social features, the PlayStation Store, and more.&#160;Yet as the service returned online, information on the cause (let alone the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521195/playstation-network-down-outage-psn>
+

@@ -3,7 +3,15 @@
 #
 https://www.theregister.com/headlines.atom "~The Register (UK I.T. News)"
 https://www.nasa.gov/news-release/feed/ "~NASA breaking news"
-https://www.darpa.mil/rss/ "~Darpa News"
+#https://www.darpa.mil/rss.xml "~Darpa News" # feed links not reolvong after Musk purge
 https://www.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://feeds.npr.org/423302056/rss.xml "~The Hidden Brain Podcast"
-https://www.smithsonianmag.com/rss/smart-news/ "~Smithsonian Magazine"
+https://www.smithsonianmag.com/rss/smart-news/ "~Smithsonian Magazine" curl/8.5.0 (rsdoiel@caltech.edu, caltechlibrary.github.io)
+https://www.osnews.com/feed/ "~OS News"
+https://magazine.caltech.edu/index?format=rss "~Caltech Magazine" curl/8.5.0
+https://davisinstituteai.colby.edu/feed/ "~Davis Institute for AI" curl/8.5.0 (rsdoiel@caltech.edu, caltechlibrary.github.io)
+
+#
+# Open Source Projects
+#
+https://servo.org/blog/feed.xml "~Servo blog"

@@ -3,18 +3,18 @@
 # North America
 #
 https://billmoyers.com/feed/ "~Bill Moyers (retired)"
-https://publicsquaremedia.org/feed/ "~Public Square Media"
-#https://www.marketplace.org/feed/ "~Market Place"
-https://www.marketplace.org/feed/podcast/make-me-smart "~Market Place, Make me Smart"
-https://marketplace.org/feed/podcast/marketplace/ "~Market Place"
-https://www.voanews.com/api/zqbomekvi_ "~VOA News USA"
-https://www.marketplace.org/feed/podcast/marketplace-morning-report "~Marketplace Morning Report"
+#https://publicsquaremedia.org/feed/ "~Public Square Media "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.marketplace.org/feed/ "~Market Place" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.marketplace.org/feed/podcast/make-me-smart "~Market Place, Make me Smart" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://marketplace.org/feed/podcast/marketplace/ "~Market Place"
+#https://www.marketplace.org/feed/podcast/marketplace-morning-report "~Marketplace Morning Report"
+https://contrarian.substack.com/feed "~The Contrarian"
 
 #
 # Non-profit Journalism
 #
 https://capitalandmain.com/feed "~Capital and Main"
-https://heatmap.news/feeds/feed.rss "~Heatmap News"
+#https://heatmap.news/feeds/feed.rss "~Heatmap News"
 https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #

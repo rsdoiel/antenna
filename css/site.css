@@ -301,6 +301,13 @@ section > div {
 	border-bottom: double black;
 }
 
+img {
+	object-fit: contain;
+	max-width: 100%;
+	padding: 0%;
+	margin: 0%;
+}
+
 /* an hr is used to break between articles */
 hr {
   border: none;

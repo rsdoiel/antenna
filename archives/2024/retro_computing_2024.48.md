@@ -1,0 +1,433 @@
+---
+title: retro computing
+updated: 2024-12-01 15:32:08
+---
+
+# retro computing
+
+(date: 2024-12-01 15:32:08)
+
+---
+
+## b.log 2024/12/01 - Advent Calendars 2024, It was the other man, Poor Celebrations, Stew pizza, Advertising fail, Lidl air fryer, Composing music.
+
+date: 2024-12-01, from: Richard Murray's blog
+
+Advent Calendars 2024, It was the other man, Poor Celebrations, Stew pizza, Advertising fail, Lidl air fryer, Composing music. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241201>
+
+---
+
+## RISC OS 'Advent' Calendar 2024 - David Pitt
+
+date: 2024-12-01, from: Icon Bar, RISC OS News
+
+Many thanks to David Pitt for kicking off our 2024 Advent Calendar with some festive fun (It's not too late to send us yours). David says "For a little festive fun how about a Christmas tree for the Taskmanager icon bar icon." Absolutely! 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2133.html>
+
+---
+
+## Maxell's MF 2-DD Floppies
+
+date: 2024-12-01, from: Computer ads from the Past
+
+The Gold Standard 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/maxells-mf-2-dd-floppies>
+
+---
+
+## Ergotron's MacTilt
+
+date: 2024-11-30, from: Computer ads from the Past
+
+MacTilt is the Solution 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/ergotrons-mactilt>
+
+---
+
+## b.log 2024/11/30 - Preparing for the coming war..., Fighting the washing machine, Electricity bill, FindIPP 0.03.
+
+date: 2024-11-30, from: Richard Murray's blog
+
+Preparing for the coming war..., Fighting the washing machine, Electricity bill, FindIPP 0.03. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241130>
+
+---
+
+## Social Media
+
+date: 2024-11-30, from: Digital Antiquarian
+
+Hi, folks&#8230; I just wanted to give you a very quick heads-up that I&#8217;m leaving The Social Media Platform Formerly Known as Twitter. In the future, you can receive notifications about new articles and the occasional other announcement by following me on either Mastodon or Bluesky. My apologies to anyone who&#8217;s inconvenienced by this, but [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2024/11/social-media/>
+
+---
+
+## There may be 100 mega-reasons to grab Elesar’s new NIC for your RiscPC
+
+date: 2024-11-30, from: RiscOS Story
+
+Well, okay, that&#8217;s a 100mbps connection &#8211; so just the one reason, then. Elesar Ltd launched a new product at the London Show last month1, a 100baseT NIC (with patch lead) for the RiscPC and A7000/A7000+ machines. The new NICs feature an optimised design, using an ASIX AX88796 fast Ethernet controller with a built-in 16kB buffer memory, which allows network packets to be handled locally inside the chip. There&#8217;s also 128kB of flash memory containing the driver software &#8211; which is both 26 and 32-bit compatible, so it&#8217;s as suitable&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/elesar-100baset-card/>
+
+---
+
+## Black Friday - Happy Birthday sale
+
+date: 2024-11-30, from: Computer ads from the Past
+
+Let's mix things up! 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/black-friday-happy-birthday-sale>
+
+---
+
+## The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP: more tales of the unscreenshotable
+
+date: 2024-11-29, from: Old Ventage Computing Research
+
+A periodic fascination on this blog is figuring out better ways to get better screenshots of our classic systems, which often hail from the Wild Wild West/East in terms of video standards (<a href="/search/label/unscreenshotable">read all entries in this series</a>). Naturally the best way is a bitwise direct grab of the framebuffer, but that's only possible if there's sufficient operating system support. This support is obviously absent for things like boot messages (especially important when investigating <a href="/2023/12/when-power-macintosh-ran-netware.html">NetWare on the Power Mac 6100</a>), so we need to figure out a way to capture that information. My capture box of choice is currently an Inogeni VGA2USB3, which is small, self-contained, USB-powered, highly compatible and makes high quality grabs of anything you can wire into composite or a VGA HD-15 connector up to 1080p, but is limited to 60Hz refresh rates. Various solutions like the OSSC exist, but these are more oriented to arcades and consoles rather than (our primary interest) workstations, and the Pro in particular isn't cheap.
+<p>
+While you might be able to trick the hardware into emitting a compatible signal, that's not good enough or even possible with several of my machines. Previously my problem child was <tt>astro</tt>, my <a href="/2023/01/saic-galaxy-1100-pre-cde-vue-of-pa-risc.html">SAIC Galaxy 1100</a>, a modified PA-RISC HP 9000/712 crammed into a MIL-SPEC portable case with a fabulous built-in flat panel. These machines ran HP-UX 10.10 in their original heyday, but this particular system runs NeXTSTEP 3.3 for PA-RISC during the brief period of time NeXT supported the architecture and was a big hit at the Vintage Computer Festival West a few years ago. Its flat panel runs at an odd 62Hz and the external VGA port only generates a 60Hz signal for 640x480 (all other resolutions use different refresh rates), which is hopeless for running NeXTSTEP. However, now I have a new candidate I'd like to get some grabs off: a particularly problematic member of the Atari ST family which has been the subject of a long-running and highly frustrating extended Refurb Weekend. You'll get to meet this bad girl soon enough. The standard ST high resolution mode is 640x400 &mdash; at 71.2Hz. I can get a picture from it with my trusty NEC flat panel, but not with the Inogeni.
+<p>
+The usual solution to this is a scan converter, but those can be expensive and inconvenient. Here's one I picked up used on eBay for $2. Yes, really. It cost more to ship it.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXD2uUcDUptaof_98-ykEMl4AJDoNdtIzbD5ElWrxwOV8glrDXtkYBHmtBNs8KVzSe1hcWAy2N67A0RFJifRrRvoleMdDJnykOOBXA9vh-_WLtldCr11BMKhvVMwlWzuf6tzOQ221Sk0U5dIzliYFB8gJyG0ULiMk00LEjSE021hD7h_dOI8q1n1VG8M4/s4080/PXL_20241129_003614123.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXD2uUcDUptaof_98-ykEMl4AJDoNdtIzbD5ElWrxwOV8glrDXtkYBHmtBNs8KVzSe1hcWAy2N67A0RFJifRrRvoleMdDJnykOOBXA9vh-_WLtldCr11BMKhvVMwlWzuf6tzOQ221Sk0U5dIzliYFB8gJyG0ULiMk00LEjSE021hD7h_dOI8q1n1VG8M4/s320/PXL_20241129_003614123.jpg"/></a></div>
+
+This is the Hall Research Technologies SC-VGA-2, sold as a "VGA/HDTV Video Processor." In addition to slicing, dicing and pureeing, apparently, it will take any of a bundle of input formats and both rescale and resample them on the fly into the VGA or HDTV signal you desire, including 60Hz rates. This came from a seller specializing in teleprompter equipment and Hall still sells <a href="https://halltechav.com/product/sc-hd-2b/">an HDMI version</a> with additional resolutions ... for around US$500. However, this or the slightly newer <a href="https://halltechav.com/product/sc-vga-2a/">SC-VGA-2A</a> and <a href="https://halltechav.com/product/sc-vga-2b/">SC-VGA-2B</a> are all relatively common devices and found substantially cheaper used. Let's try it out and show some sample output, including those delicious NeXTSTEP system messages and some ST grabs.
+<p>
+<a name='more'></a>
+
+The reason I got the SC-VGA-2 so cheap, and I actually ordered two, was it was sold untested (no power supply). It looked like a robust device in a metal enclosure, so I figured it probably <em>did</em> work, but an extra $2 for a spare to hedge my bets seemed good insurance. Both of them do in fact work.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe6ZL9LiIZ23U6mMxTw8LIZUsa2ocXC0judNZG40KcFzku0du4J4UzkfxrO0soG_slap2VRbR0GaWOmSnlKkFcWc7Lp0I1fX6yWiiuytvyUNoNkq_paDEFjr7sLe1M1acwUx7jTs_RWUg1N2I-SZ8b9gvFzs7qxd10zfjAG2NW_oF2zWMzoP3VsVAeWzo/s4080/PXL_20241129_003635793.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe6ZL9LiIZ23U6mMxTw8LIZUsa2ocXC0judNZG40KcFzku0du4J4UzkfxrO0soG_slap2VRbR0GaWOmSnlKkFcWc7Lp0I1fX6yWiiuytvyUNoNkq_paDEFjr7sLe1M1acwUx7jTs_RWUg1N2I-SZ8b9gvFzs7qxd10zfjAG2NW_oF2zWMzoP3VsVAeWzo/s320/PXL_20241129_003635793.jpg"/></a></div>
+
+Input is a single VGA connector. Power is a regular 5.5mm barrel jack, 12 volt centre positive.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYV4BnputN5FtwtBjYkixzaqU4MJWD2X5KvdMGp-NBeNgjojatN8jRTwhcIQynX8r2ysXmJpD4n0y2LI61RyecgTHiy-oR-Ozh0ucA5nmRzJwkFLKoKZnaSfEjr42Oysl3431_9E-8qogC63ZfyrbrjUeduvX4B4m5-gxc2CLpnGfYODqiYo0utoxa14/s4080/PXL_20241129_003625963.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYV4BnputN5FtwtBjYkixzaqU4MJWD2X5KvdMGp-NBeNgjojatN8jRTwhcIQynX8r2ysXmJpD4n0y2LI61RyecgTHiy-oR-Ozh0ucA5nmRzJwkFLKoKZnaSfEjr42Oysl3431_9E-8qogC63ZfyrbrjUeduvX4B4m5-gxc2CLpnGfYODqiYo0utoxa14/s320/PXL_20241129_003625963.jpg"/></a></div>
+
+Output is also a single VGA connector, but instead of DIPs or other hard switches, it has an on-screen menu controlled with MENU, - and + buttons. Settings are stored in non-volatile RAM. A really nice feature is that if you accidentally put it into an incompatible output mode, holding down - and + together will force a reset to 60Hz 1024x768 (it calls this mode "XGA-60"). This saved my bacon a few times. There is a similar option with MENU and - for "480p" which is actually 720x480 at 60Hz.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Ef4ozRT099CQlZsyQ9WwfaAxbqDNK3UzQDFpQWRzS12wrhG-R5NAsDvjzjiXSjrSkxPuEcE-u-ePZ2w0WYJEwrHQ49VPd088evxA3mstcLanGq652IhcjQC7P9Rb_3A72dX9N8j5ZlqygSncTslZS1fVZ_Pym_5yIX-scsPPPtq4M8myAUHOIlpLmFA/s4080/PXL_20241129_003944802.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="4080" data-original-width="3072" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Ef4ozRT099CQlZsyQ9WwfaAxbqDNK3UzQDFpQWRzS12wrhG-R5NAsDvjzjiXSjrSkxPuEcE-u-ePZ2w0WYJEwrHQ49VPd088evxA3mstcLanGq652IhcjQC7P9Rb_3A72dX9N8j5ZlqygSncTslZS1fVZ_Pym_5yIX-scsPPPtq4M8myAUHOIlpLmFA/s320/PXL_20241129_003944802.jpg"/></a></div>
+
+Since it stores settings internally, I cracked it open to make sure there wasn't a leaky battery I had to worry about. Fortunately, there is none; it seems to store settings in flash. I strongly suspect this is actually a two-CPU system, though I didn't want to damage the machine by prying off the heat sink off the biggest QFP chip (I'll do that if it quits working). However, scraping off the label on the chip in the PLCC socket reveals a SyncMOS SM8958A, a member of our old friend the Intel 8051 family (we last met 8051s in the <a href="/2024/03/refurb-weekend-data-generalone-and.html">Data General/One</a> and <a href="/2023/09/the-spawn-of-atarilab-and-universal.html">the ULI successor to the AtariLab</a>). Technically this is an 8052-type microcontroller with 1K of on-chip RAM and 32K of on-chip flash for program memory, though it must also have some means of storing settings internally since there are no other obvious sources of NVRAM. This particular part is rated up to 40MHz, but the crystal next to it is 11.052MHz, which still sounds pretty quick until you recall MCS-51 chips take about 12 cycles per instruction (compare to a 6502 that ranges from two to six). It seems to drive the unknown video ASIC using its on-board serial port which was not an unusual mechanism for the time; see, for example, the Focus FS401LF.
+<p>
+The other, smaller chip near the input port is an MStar MST9883, which is an overgrown A/D converter sampling analogue pixel data and emitting a serial stream of digital RGB and clock for the video ASIC. It can sample up to 140MHz and doesn't appear to use the 14.31818MHz crystal next to it, which seems to be used by the ASIC.
+<p>
+I don't think Hall designed this board; it seems to be Taiwanese based on the board markings, chip manufacturers and some Engrish in the Hall manual which was clearly from an image grab of something else. Other vendors may produce an equivalent version of this device, so if you know of one, post it in the comments.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuCEXEmijQR9CHtOkog4nPHwMFZ2lj6hLcX9qBftq0nb0E8we9UAAzrTW4G1SmKxQj7PlFKVA63RoNcbeN9JyDowY4rrX37lhMtjXiUCIC-pIik44s6PKZOZlPrMNYK8c1UrJ9NuvMdZLzbXHUG2DVea_7aCMz4UBjGvgrBOsDDKvLk2FHVAt_lI2rCPY/s4080/PXL_20241129_004236388.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuCEXEmijQR9CHtOkog4nPHwMFZ2lj6hLcX9qBftq0nb0E8we9UAAzrTW4G1SmKxQj7PlFKVA63RoNcbeN9JyDowY4rrX37lhMtjXiUCIC-pIik44s6PKZOZlPrMNYK8c1UrJ9NuvMdZLzbXHUG2DVea_7aCMz4UBjGvgrBOsDDKvLk2FHVAt_lI2rCPY/s320/PXL_20241129_004236388.jpg"/></a></div>
+
+The reason I suspect this is a two-CPU system is the large amount of framebuffer RAM on the underside wired to the video ASIC. These are TMC TM50S116T-7G SDRAM chips, each having two 512Kword banks of 16-bit words (i.e., 2MB), so with three we have 6MB of working RAM. This can only be for the video ASIC since the SM8958A has no means to use it. Thus, the SM8958A handles the user interface and the ASIC handles the actual resampling and rescaling using the SDRAM as its buffer. Many of these video conversion ASICs have various embedded CPU cores.
+<p>
+When reassembling it don't forget to slide the non-conductive plastic sheet it sits on back under it, or it will short itself out with the case metal!
+<p>
+Our first stop will be the SAIC Galaxy 1100. We connect the SC-VGA-2 to its output, connect the Inogeni to the SC's output, and connect that to the Raptor Talos II over USB 3. All grabs were taken in VLC with Fedora Linux 41 and have not been post-processed. I forced the Galaxy to external video by pressing ESC for the boot menu, then <tt>path console graphics</tt> (<tt>graphics1</tt> is the "alternate" on-board flat panel) and <tt>reset</tt>.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicgGKWHlQFqSUgykTVfaIz8lf3Tu8NT_hvb-5RDKScNX1ilU5PiKVX-PZO9AZdTfsIqaHbTRFr0NqZcPUaAkex8iKnosciE5DuWL4LMAc2Cm8r9BYiSkUoNbUSR9C_9VZQML-YWrZ6XaE/s1600/vlcsnap-2020-04-12-12h22m02s970.png" style="display: block; padding: 1em 0; text-align: center; "><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicgGKWHlQFqSUgykTVfaIz8lf3Tu8NT_hvb-5RDKScNX1ilU5PiKVX-PZO9AZdTfsIqaHbTRFr0NqZcPUaAkex8iKnosciE5DuWL4LMAc2Cm8r9BYiSkUoNbUSR9C_9VZQML-YWrZ6XaE/s320/vlcsnap-2020-04-12-12h22m02s970.png" width="320" height="200" data-original-width="1600" data-original-height="1000" /></a></div>
+
+The system remains in 640x480 mode from before, shown directly connected to the Inogeni without the Hall box.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilMoDp641zxGBuKo1db-t5b72cWwNcdW3UHFysKNfZTW8y2ipXF5pX1a_x2UZwfXKuavhN7SZktJ39_R_yvaJ7Yz_BWNzv-LmCC9QLvEFFOH9Vv3Iilq2AcWUlcW_T3So5fLkLd8762KU/s1600/vlcsnap-2020-04-12-12h16m48s633.png" style="display: block; padding: 1em 0; text-align: center; "><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilMoDp641zxGBuKo1db-t5b72cWwNcdW3UHFysKNfZTW8y2ipXF5pX1a_x2UZwfXKuavhN7SZktJ39_R_yvaJ7Yz_BWNzv-LmCC9QLvEFFOH9Vv3Iilq2AcWUlcW_T3So5fLkLd8762KU/s320/vlcsnap-2020-04-12-12h16m48s633.png" width="320" height="200" data-original-width="1600" data-original-height="1000" /></a></div>
+
+This choice comes from its boot menu list of resolutions, of which only mode 5 is the only 60Hz mode. To match the flat panel we'd really like one of the 1024x768 modes, offered at 70Hz or 75Hz. The Hall manual gives these input and output modes as supported:
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtXYY0KkIo-d5hCrCE-jJr2BHGmmv8szOTyMMivQn96K4Qz6xfYnxEwxjyEHEFSW_wB_tlJM1cDnOrLp7cyrGRCoUrjsGJthYDi0lG8SMLqT3Zd3JarHZowv2z10t3R4DncjVy3_B9hlkLKv5jgaDsXU20rB4CViteQHJugSwvoWz8wEHJyEobtrv2Oro/s2550/SC-VGA-2-1.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="2550" data-original-width="1650" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtXYY0KkIo-d5hCrCE-jJr2BHGmmv8szOTyMMivQn96K4Qz6xfYnxEwxjyEHEFSW_wB_tlJM1cDnOrLp7cyrGRCoUrjsGJthYDi0lG8SMLqT3Zd3JarHZowv2z10t3R4DncjVy3_B9hlkLKv5jgaDsXU20rB4CViteQHJugSwvoWz8wEHJyEobtrv2Oro/s320/SC-VGA-2-1.png"/></a></div>
+
+I hooked up the SC-VGA-2 and tried 75Hz first (<tt>monitor 2</tt>). Despite being listed as supported, this caused a black screen, so I (blindly) reset the Galaxy and switched back to mode 5, and then tried mode 3.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23bRmu3WTKSaaKgtZSI4jrMBCf9nDE6VMEhL0xrTqKw9HsqgDZm1QEz00WI5oaWzi2FycFBA0WzELHFc3IazvytkavIrcDBPfnCEuc-omjToFFThipA5mC1VvFCiAzjsDDn6zx6l9x3I5H5ocoHunaV9aQW5o_T9E8GoXWdJAuo4RpRpMm9u2L21lzpw/s1024/vlcsnap-2024-11-28-15h52m27s551.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23bRmu3WTKSaaKgtZSI4jrMBCf9nDE6VMEhL0xrTqKw9HsqgDZm1QEz00WI5oaWzi2FycFBA0WzELHFc3IazvytkavIrcDBPfnCEuc-omjToFFThipA5mC1VvFCiAzjsDDn6zx6l9x3I5H5ocoHunaV9aQW5o_T9E8GoXWdJAuo4RpRpMm9u2L21lzpw/s320/vlcsnap-2024-11-28-15h52m27s551.png"/></a></div>
+
+This works!
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC6NweoultyDlYJ2zeIwj1MuEDuMzDynQSNqgrcMLXFWN8r1DKHnEI0vp7IBWfeXkC3Wl89bETJi2PuPdLEmK31EDbWRmQaKRp9If030_VFHmxvQeZQaC-qsNc4WO3my0h3HjVV4AS_bYiEMRiYqxFE5D7bRQcQcvAZ0LhuqiFg6RaptuZV-0gzzRiibA/s1024/vlcsnap-2024-11-28-15h52m37s739.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC6NweoultyDlYJ2zeIwj1MuEDuMzDynQSNqgrcMLXFWN8r1DKHnEI0vp7IBWfeXkC3Wl89bETJi2PuPdLEmK31EDbWRmQaKRp9If030_VFHmxvQeZQaC-qsNc4WO3my0h3HjVV4AS_bYiEMRiYqxFE5D7bRQcQcvAZ0LhuqiFg6RaptuZV-0gzzRiibA/s320/vlcsnap-2024-11-28-15h52m37s739.png"/></a></div>
+
+And here we are at the boot menu in the larger resolution. Let's explore the SC-VGA-2's interface a little more before continuing.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip8phNCARapNKneeF5Dr-r2qpwYGzcW3i1SygNj7Q6Q3hZUDoZeTgEj9Ynkbp3254PMozAxjYH2pRkZtopxc-snTAEBZ5fqYJ3QSU7AgPQYAtl3fLr_PIK4_BwTXKlSguxZ0mfbizPTCh8sG9uvAYhOyaKQzqh7MJwhY67BflfDztx5vJdH2j5r4U0Y08/s1024/vlcsnap-2024-11-28-16h06m10s835.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip8phNCARapNKneeF5Dr-r2qpwYGzcW3i1SygNj7Q6Q3hZUDoZeTgEj9Ynkbp3254PMozAxjYH2pRkZtopxc-snTAEBZ5fqYJ3QSU7AgPQYAtl3fLr_PIK4_BwTXKlSguxZ0mfbizPTCh8sG9uvAYhOyaKQzqh7MJwhY67BflfDztx5vJdH2j5r4U0Y08/s320/vlcsnap-2024-11-28-16h06m10s835.png"/></a></div>
+
+The MENU button brings up the on-screen display. This is slow, but now that we've seen how the system works, we understand why: the SM8958A has no access to the framebuffer RAM, so it has to pass pixel data to the video ASIC over serial to overlay it.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEmOmE9y4wkApF8RdRb2v5l7_5735iuVMuWpNOA_B77oymu73SQM8NJopT0FDTwLN_icIdgTI5Lk2J_JqZZPENyhESb74VoA8-1wqWYzo076hDiii9wXB-nTGGM32TPSild-NSab4sCOb08Vl-lCQy1i9EPalwxVb53jQDX7ce01UEqdmstHgcrIJ2d4/s1024/vlcsnap-2024-11-28-16h06m24s549.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEmOmE9y4wkApF8RdRb2v5l7_5735iuVMuWpNOA_B77oymu73SQM8NJopT0FDTwLN_icIdgTI5Lk2J_JqZZPENyhESb74VoA8-1wqWYzo076hDiii9wXB-nTGGM32TPSild-NSab4sCOb08Vl-lCQy1i9EPalwxVb53jQDX7ce01UEqdmstHgcrIJ2d4/s320/vlcsnap-2024-11-28-16h06m24s549.png"/></a></div>
+
+SYSTEM INFO causes the machine to identify itself as a SC-VGA-2<em>C</em>. I don't know what this means and Hall doesn't mention it as a separate SKU. The input is "XGA-70" and the output is "XGA-60."
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitO3R6o4Bk7OUIGLKvX3ote2Iir4DyeuiPMtKEHhIqWTzYek8MnEJVJrMAwBIskJVroLiUFBAoXlPTok5_f-8OB8w_J08cGbKW-L62RfSdlpNfLAG6f-jYoaC8kRz2PZ1R4aYjSTOBFHMaIorf-B2l4-IIhorXsi6UK6M0f6NBR5Ycchs8oNt5UfQ44Wc/s1024/vlcsnap-2024-11-28-16h06m49s586.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitO3R6o4Bk7OUIGLKvX3ote2Iir4DyeuiPMtKEHhIqWTzYek8MnEJVJrMAwBIskJVroLiUFBAoXlPTok5_f-8OB8w_J08cGbKW-L62RfSdlpNfLAG6f-jYoaC8kRz2PZ1R4aYjSTOBFHMaIorf-B2l4-IIhorXsi6UK6M0f6NBR5Ycchs8oNt5UfQ44Wc/s320/vlcsnap-2024-11-28-16h06m49s586.png"/></a></div>
+
+OUTPUT SETUP is where you select the output resolution and refresh rate.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFDBbf2zTj_rSd_xqSdI_Dg23QzLHY8AviKnyYYNRwHepd8leFoPjA9ryZk3XsuTTBhF7-EUyuz9S1cJNFLVy9cg2znO8L1L_sV4aDo9hAJaTUI11ZFlj0qD0KfZCu9poRqqcRsvo42fQQr7ShcB4vJAsSFJ3daylVUer_gOS_19ci1SqDZsfFcdjxS8g/s1280/vlcsnap-2024-11-28-16h08m29s128.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="1024" data-original-width="1280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFDBbf2zTj_rSd_xqSdI_Dg23QzLHY8AviKnyYYNRwHepd8leFoPjA9ryZk3XsuTTBhF7-EUyuz9S1cJNFLVy9cg2znO8L1L_sV4aDo9hAJaTUI11ZFlj0qD0KfZCu9poRqqcRsvo42fQQr7ShcB4vJAsSFJ3daylVUer_gOS_19ci1SqDZsfFcdjxS8g/s320/vlcsnap-2024-11-28-16h08m29s128.png"/></a></div>
+
+My preference is to match actual resolution and captured resolution for as close to 1:1 pixel data as possible, but you can upscale as well as downscale. I couldn't make the SC-VGA-2 happy with the 1280x1024 75Hz mode the Galaxy can also generate, but it was happy to upscale 1024x768 70Hz <em>to</em> 1280x1024 60Hz. I should note that I don't know if the Galaxy video modes are standard, so I can't say if this is the Hall box's fault or not.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWYjebPEs-VqPOrFr05E55ijzLM_loc7vG6bLlC7XOoYIMtUFeDYdAJI16B0M0-xpNas7txBPxnVg9fxiRNta1AOFdE_noELYukJ6vcR_EF2l0QXcIidoRrA9hTDkrexfzrVwzJG_CNGNxF-kZkvGcgSX5qjm3aOHABdKKiF3byH1ox6R4FFmBL9yRx8/s1024/vlcsnap-2024-11-28-16h09m50s257.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWYjebPEs-VqPOrFr05E55ijzLM_loc7vG6bLlC7XOoYIMtUFeDYdAJI16B0M0-xpNas7txBPxnVg9fxiRNta1AOFdE_noELYukJ6vcR_EF2l0QXcIidoRrA9hTDkrexfzrVwzJG_CNGNxF-kZkvGcgSX5qjm3aOHABdKKiF3byH1ox6R4FFmBL9yRx8/s320/vlcsnap-2024-11-28-16h09m50s257.png"/></a></div>
+
+PICTURE ADJ. lets you change typical adjustments like colour, contrast and brightness. These are the factory defaults but it's possible to use these settings to, say, colourise monochrome output.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTkOfs5ZVF9Zvk1l9nYnYXVavTMd4aiFvHlfxnJG1r3H29AGowyR_Suun0I5UAe26gCqjSVpBaFfB-Ih5aJO3uREUcQY0pzCveESyv6cjwJj-qpfv_CqdXuA9Mho4Inju9QAT2JgW8WaJsHlm7G2SQtHp9gqHpNeA4gRJrZwbmzs0iZnQwes4u7-gtyUI/s1024/vlcsnap-2024-11-28-16h10m47s506.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTkOfs5ZVF9Zvk1l9nYnYXVavTMd4aiFvHlfxnJG1r3H29AGowyR_Suun0I5UAe26gCqjSVpBaFfB-Ih5aJO3uREUcQY0pzCveESyv6cjwJj-qpfv_CqdXuA9Mho4Inju9QAT2JgW8WaJsHlm7G2SQtHp9gqHpNeA4gRJrZwbmzs0iZnQwes4u7-gtyUI/s320/vlcsnap-2024-11-28-16h10m47s506.png"/></a></div>
+
+H V ADJUST controls positioning on screen. This is generally done for you but I needed to mess with this for good grabs of the Atari ST. More a little later.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDapvQsNfw2SN3u3N3FKQr9Dx5VbDrhyphenhyphenrsTRypqg2zDzTr-LRTTSLPXou9hYadr2aN6yF_8uUeFQLBxOe_ng_g-xCHcUgRUYzeW2dZMlfukDmzq5AVnlm0tuXlAgTcZfSWwO4hoTeE7OCTuimw_js_GSD90CrkRvulIbh5mRZZEbKM_6FGcrCExv54JM/s1024/vlcsnap-2024-11-28-16h11m13s310.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDapvQsNfw2SN3u3N3FKQr9Dx5VbDrhyphenhyphenrsTRypqg2zDzTr-LRTTSLPXou9hYadr2aN6yF_8uUeFQLBxOe_ng_g-xCHcUgRUYzeW2dZMlfukDmzq5AVnlm0tuXlAgTcZfSWwO4hoTeE7OCTuimw_js_GSD90CrkRvulIbh5mRZZEbKM_6FGcrCExv54JM/s320/vlcsnap-2024-11-28-16h11m13s310.png"/></a></div>
+
+Similarly, INPUT SETUP lets you control how many horizontal samples are taken per line (this seems to be based on a 32x multiplier to generate the 1024-pixel lines here), phase controls the sample timing, and H-ADV sets the horizontal advance in case the left edge is cut off and you need to start sampling earlier. You can also force YPbPr instead of RGB, though we'll be strictly using RGB mode with these systems.
+<p>
+There is also an AUTO ADJUST option which generally works most of the time, and an OSD ADJUST option. I won't be exploring those here either.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmGihJ6k18uJDUTzJOTmocbmTWnVwdrdtKaxU1rou5-7T9k21rXBWEl6lHdaOnTk1nb4Hyu4g31XUJOClfrJEspwm4boW_6wgdL7pVr7q4JBthqgMc5tbCk0zNFv7PjVuYLR4XZujXrx8e-Di2DYkYKiaBCPXoJB61rj2V75oxBVkXX6-WFYidIVhuxKI/s1024/vlcsnap-2024-11-28-15h52m45s261.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmGihJ6k18uJDUTzJOTmocbmTWnVwdrdtKaxU1rou5-7T9k21rXBWEl6lHdaOnTk1nb4Hyu4g31XUJOClfrJEspwm4boW_6wgdL7pVr7q4JBthqgMc5tbCk0zNFv7PjVuYLR4XZujXrx8e-Di2DYkYKiaBCPXoJB61rj2V75oxBVkXX6-WFYidIVhuxKI/s320/vlcsnap-2024-11-28-15h52m45s261.png"/></a></div>
+
+Here's our resolution list, showing mode 3 as selected.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibMSRVGhz5H48aQRSFlNqQI7gxKXVhd5SEesWt4OsHNGZkCgvtl235cNmYHoczwwseAH_4WDGUWWLPJ5I2vLKICP-ElWE4q6eq6rhBiKeULiBFVaWUJluDlaDcny8GJlCZ7FePShPrFmlJyGXCTIdIiqNshp1NdaFBXhtkJmOfXxhiPkj1ONRo5SaxfY8/s1024/vlcsnap-2024-11-28-15h53m35s191.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibMSRVGhz5H48aQRSFlNqQI7gxKXVhd5SEesWt4OsHNGZkCgvtl235cNmYHoczwwseAH_4WDGUWWLPJ5I2vLKICP-ElWE4q6eq6rhBiKeULiBFVaWUJluDlaDcny8GJlCZ7FePShPrFmlJyGXCTIdIiqNshp1NdaFBXhtkJmOfXxhiPkj1ONRo5SaxfY8/s320/vlcsnap-2024-11-28-15h53m35s191.png"/></a></div>
+
+Booting NeXTSTEP. The bootloader pauses here briefly to allow you to interrupt the boot or pass options.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFEIcn6NfE9kaV_9XmMqSDipxqFPPsyinZ3tQG9WuZAQ_-heBpvVIU2TP78ICo7hTdqilKxkcpVWEUU5xbBaqr4VlItzHiLU8ZB9CTlw8CrEZTLQm7ZjUnWNm9SIj6A5ORYGMdZXoc6X-hxoMouDrqe-jC87L4eJvColDOrKY7YQOQ-vJ1OczIS7zPO4/s1024/vlcsnap-2024-11-28-15h58m36s052.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFEIcn6NfE9kaV_9XmMqSDipxqFPPsyinZ3tQG9WuZAQ_-heBpvVIU2TP78ICo7hTdqilKxkcpVWEUU5xbBaqr4VlItzHiLU8ZB9CTlw8CrEZTLQm7ZjUnWNm9SIj6A5ORYGMdZXoc6X-hxoMouDrqe-jC87L4eJvColDOrKY7YQOQ-vJ1OczIS7zPO4/s320/vlcsnap-2024-11-28-15h58m36s052.png"/></a></div>
+
+If we do nothing, then NeXTSTEP uses a standard graphical boot. If you remember earlier versions of Mac OS X back when it was Mac OS X, this will look very familiar (same for Rhapsody):
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7GkFAtEKo1kBsft9pbTPhHHX-dSAWOj6hHD8IKLF_-7Sr85iUqK_OFdnxx223IMFu-bRwSUI8TAtZbZEuBaThBB_ArYunP70ojrPwgeHLqlGivybK4K2OlqJylrJTYQiFrPf5fFovpADoxlvBJmEdGQ8nYlGTJxgZleIN8g4hG5zZMpSLrQukPcNbbPg/s1024/vlcsnap-2024-11-28-15h58m39s596.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7GkFAtEKo1kBsft9pbTPhHHX-dSAWOj6hHD8IKLF_-7Sr85iUqK_OFdnxx223IMFu-bRwSUI8TAtZbZEuBaThBB_ArYunP70ojrPwgeHLqlGivybK4K2OlqJylrJTYQiFrPf5fFovpADoxlvBJmEdGQ8nYlGTJxgZleIN8g4hG5zZMpSLrQukPcNbbPg/s320/vlcsnap-2024-11-28-15h58m39s596.png"/></a></div>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdhZxMYmmFMgouBhMMO7tdv71XWEag-KkVTBULE1JMUhKMETHSXogbb662Yd2-xPqcunNfs-LL4r-jPFyma1md1tuNOX6lPPkIsU-JUHlPkVqQtn4JoS9uiwUjTOyifaLuLJ0HFqyR2lgzWU3Bkq8ukyyLC5Y3j6XjSx2C3J69-z4WSkxMBY6jUQoKPHs/s1024/vlcsnap-2024-11-28-15h58m53s933.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdhZxMYmmFMgouBhMMO7tdv71XWEag-KkVTBULE1JMUhKMETHSXogbb662Yd2-xPqcunNfs-LL4r-jPFyma1md1tuNOX6lPPkIsU-JUHlPkVqQtn4JoS9uiwUjTOyifaLuLJ0HFqyR2lgzWU3Bkq8ukyyLC5Y3j6XjSx2C3J69-z4WSkxMBY6jUQoKPHs/s320/vlcsnap-2024-11-28-15h58m53s933.png"/></a></div>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VsdCqoqWgfxRNGf7tzJlewKQRF7vED2uHXyuMJHecbqI8jSSpmQQHQOUFJfI3u6o2G0qm1xBo74eDf0yLlj8v85J2as9y9Wqz65xLy3Y6bb0EFBbXlF54oulFLaT2N26Ovd1Na-Nt3TXRYjQKweVbiGyD4t3BNjNm6Fvf8DtSBuFhszNlpkHbJNR8ng/s1024/vlcsnap-2024-11-28-15h59m14s556.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VsdCqoqWgfxRNGf7tzJlewKQRF7vED2uHXyuMJHecbqI8jSSpmQQHQOUFJfI3u6o2G0qm1xBo74eDf0yLlj8v85J2as9y9Wqz65xLy3Y6bb0EFBbXlF54oulFLaT2N26Ovd1Na-Nt3TXRYjQKweVbiGyD4t3BNjNm6Fvf8DtSBuFhszNlpkHbJNR8ng/s320/vlcsnap-2024-11-28-15h59m14s556.png"/></a></div>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD_Nocp1ZXseCs5Cg7yv8dyEzK8S8Ue6XSQEuHjWaBdMf0nvxfcN2K1j66qmt5Wn-geawvWmKqtVYC2swQz85snyRi56r91R-aXn5jTXgRZKu9ILRILaqEQX8DKYdX5jIBFhGQATHU1DG_8XYKQ3U30QS-GP96GSPDTuxDrGNyHVU99JK4c7zyaxBJXjs/s1024/vlcsnap-2024-11-28-15h59m17s201.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD_Nocp1ZXseCs5Cg7yv8dyEzK8S8Ue6XSQEuHjWaBdMf0nvxfcN2K1j66qmt5Wn-geawvWmKqtVYC2swQz85snyRi56r91R-aXn5jTXgRZKu9ILRILaqEQX8DKYdX5jIBFhGQATHU1DG_8XYKQ3U30QS-GP96GSPDTuxDrGNyHVU99JK4c7zyaxBJXjs/s320/vlcsnap-2024-11-28-15h59m17s201.png"/></a></div>
+
+But, of course, we'd like to see more of the guts, so we'll restart and try again.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwUDTch8V7QxaFJuseJIayIhJ1hPVCA19Gb06M7mxy41NHp7_vS20r4ZmHjNEnVRRs9Fo28LloeAp0LqJna_hSvIjKb9nzJwWlIuNGejRTByLD9zGAS2_IcyaRZeFddKeB_Go3TNPKQzRr01LzDhU1wamz55DPkHR88UdiSM-kjh50UHrikDMjioq1deo/s1024/vlcsnap-2024-11-28-15h53m44s889.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwUDTch8V7QxaFJuseJIayIhJ1hPVCA19Gb06M7mxy41NHp7_vS20r4ZmHjNEnVRRs9Fo28LloeAp0LqJna_hSvIjKb9nzJwWlIuNGejRTByLD9zGAS2_IcyaRZeFddKeB_Go3TNPKQzRr01LzDhU1wamz55DPkHR88UdiSM-kjh50UHrikDMjioq1deo/s320/vlcsnap-2024-11-28-15h53m44s889.png"/></a></div>
+
+This time we'll enter <tt>-v</tt> for a verbose boot.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VYOnNt8mfdqv5Gf80FDSsVqMj79IIjEOHS2l7FGE9QesmC8PwpraK4C2qnqQRB_nPM5HDzHrmxNUWgFS88_71mCLoGxunfiKQkt0wfdwYFu0Qy_SugNAo3o1P5iApG-NXyVXifjk9ZgBLc6elUyYuwLiuKf0QjTarlJLCzfgpr-hHf73nbgc9fB9p3I/s1024/vlcsnap-2024-11-28-15h53m50s362.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3VYOnNt8mfdqv5Gf80FDSsVqMj79IIjEOHS2l7FGE9QesmC8PwpraK4C2qnqQRB_nPM5HDzHrmxNUWgFS88_71mCLoGxunfiKQkt0wfdwYFu0Qy_SugNAo3o1P5iApG-NXyVXifjk9ZgBLc6elUyYuwLiuKf0QjTarlJLCzfgpr-hHf73nbgc9fB9p3I/s320/vlcsnap-2024-11-28-15h53m50s362.png"/></a></div>
+
+These initial messages loading the kernel show up on a graphical boot, however quickly.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3kJQbOhh4CkZVUHP7w5Qi2brdelJG7D4NmWLRsTq9uc0mJL6n9NDbuhqDLLeDEPd0WGpPKHap6TkVESFFOA2BdRud87gZmRiqzlkWKWlnhUuyiNgVVGP7l7oxfw5rVgWBZVph_yciIsZmb9q1SBu-Db00OO2x9IHsaHdBK24XFxcWyW50uG3W8p4qovQ/s1024/vlcsnap-2024-11-28-15h53m54s523.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3kJQbOhh4CkZVUHP7w5Qi2brdelJG7D4NmWLRsTq9uc0mJL6n9NDbuhqDLLeDEPd0WGpPKHap6TkVESFFOA2BdRud87gZmRiqzlkWKWlnhUuyiNgVVGP7l7oxfw5rVgWBZVph_yciIsZmb9q1SBu-Db00OO2x9IHsaHdBK24XFxcWyW50uG3W8p4qovQ/s320/vlcsnap-2024-11-28-15h53m54s523.png"/></a></div>
+
+Next it loads basic configuration for the console, in this case Artist graphics and the built-in "Gecko" keyboard, which is internally PS/2. On a system with an HP-HIL keyboard connected, you'd see that driver here also. LASI I/O was already initially configured by the bootloader.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMmiZlgd4liklx9fp50NrYHCnAOAwHHI1WiSyaHQfqc8nlmbP54ttRgETBjgMOsO1-p4licwyEIhQLu6Pam_KwrjXlEizkFh_A5boZZMmEn0QmExG0N3Cv0YmXs1gJbpsGWqAM1L6o9pgf9vjZD-8DtZe73aFde8mY1APzhgQyCvgOQLlbHyu055rLRCo/s1024/vlcsnap-2024-11-28-15h53m56s196.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMmiZlgd4liklx9fp50NrYHCnAOAwHHI1WiSyaHQfqc8nlmbP54ttRgETBjgMOsO1-p4licwyEIhQLu6Pam_KwrjXlEizkFh_A5boZZMmEn0QmExG0N3Cv0YmXs1gJbpsGWqAM1L6o9pgf9vjZD-8DtZe73aFde8mY1APzhgQyCvgOQLlbHyu055rLRCo/s320/vlcsnap-2024-11-28-15h53m56s196.png"/></a></div>
+
+The kernel version is 3.3, the only version publicly released for PA-RISC, dated July 9, 1999. This unit has 128MB, the most RAM supported in the Galaxy 1100. 
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYfmlKT3-zjgEe2F6BYkkfdyTQGM4l2hl4lXyfxSj4lXY2hN_hU0_WfBchSaZcDKJxBwQiOKRHHVojXTVAlhEw140G6JaV72zoMN2qGUnhdZ4Zih31rnVHTCHxoqh_-NOk5COTAJHLSBs1pKFZ1tMY7A71AE91fO63UJXg9ulR-iWW0w20nG1xc7X1Um0/s1024/vlcsnap-2024-11-28-15h54m07s376.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYfmlKT3-zjgEe2F6BYkkfdyTQGM4l2hl4lXyfxSj4lXY2hN_hU0_WfBchSaZcDKJxBwQiOKRHHVojXTVAlhEw140G6JaV72zoMN2qGUnhdZ4Zih31rnVHTCHxoqh_-NOk5COTAJHLSBs1pKFZ1tMY7A71AE91fO63UJXg9ulR-iWW0w20nG1xc7X1Um0/s320/vlcsnap-2024-11-28-15h54m07s376.png"/></a></div>
+
+Bringing up disks and audio (the "disk" in this unit is an old SCSI2SD).
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNQ6qjLJ4lLGt5jRtZXBclsRdaJjVxF_rZ4QM-h-bnBBX142i3aJSkJUVoaR-ewUCjBBj4x_Vuanxn5H58743a5RmsXc3tjz06QW5EG0mNtdsv4wOFtP9sakHitvILJCW86RZz7nVLC9MsU5a5ff18agIzLIvnIT0QfX8mc0tH_9pMrxU8wto_ycSOa2o/s1024/vlcsnap-2024-11-28-15h54m29s861.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNQ6qjLJ4lLGt5jRtZXBclsRdaJjVxF_rZ4QM-h-bnBBX142i3aJSkJUVoaR-ewUCjBBj4x_Vuanxn5H58743a5RmsXc3tjz06QW5EG0mNtdsv4wOFtP9sakHitvILJCW86RZz7nVLC9MsU5a5ff18agIzLIvnIT0QfX8mc0tH_9pMrxU8wto_ycSOa2o/s320/vlcsnap-2024-11-28-15h54m29s861.png"/></a></div>
+
+And finally network (details of my internal wired network suppressed). The boot is complete.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6w9awL0VPY8uTfaqtv_7YNAVy9TsXsG1oXPqzabtNHCJ5Thp1iAb4pHNJv2TtCxljnDOk5psWbGjx2T5cgKsxBt_gaCNIAY9Vl_9k156nJj_FUiq2Uexspv9opL99PbEsKMBkww1jhkxX3F_ToM5fuB5ZtWYvN2pNx3Z_6B_JVwQlwjVDl24Lzf5KRiU/s1024/vlcsnap-2024-11-28-15h54m38s051.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6w9awL0VPY8uTfaqtv_7YNAVy9TsXsG1oXPqzabtNHCJ5Thp1iAb4pHNJv2TtCxljnDOk5psWbGjx2T5cgKsxBt_gaCNIAY9Vl_9k156nJj_FUiq2Uexspv9opL99PbEsKMBkww1jhkxX3F_ToM5fuB5ZtWYvN2pNx3Z_6B_JVwQlwjVDl24Lzf5KRiU/s320/vlcsnap-2024-11-28-15h54m38s051.png"/></a></div>
+
+Let's log in.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcqWRgst5ZPHlo6JWsROeIQvW73m4_Pjxx3hQ8CpUPu15PT6EMygl6o-YApASFXJz2bUgeb6jRPUvRtGDWkg7SaXhAMXLnXb4uGQVzfHTsvtvcwOFocUfthONB-2mNTtoa39Op0BJVRii6vcHCFj4cjjqRxJTfTXlhi9CNLcc2GL19g_JjNvkfRXEeQBc/s1024/vlcsnap-2024-11-28-16h13m38s977.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcqWRgst5ZPHlo6JWsROeIQvW73m4_Pjxx3hQ8CpUPu15PT6EMygl6o-YApASFXJz2bUgeb6jRPUvRtGDWkg7SaXhAMXLnXb4uGQVzfHTsvtvcwOFocUfthONB-2mNTtoa39Op0BJVRii6vcHCFj4cjjqRxJTfTXlhi9CNLcc2GL19g_JjNvkfRXEeQBc/s320/vlcsnap-2024-11-28-16h13m38s977.png"/></a></div>
+
+Now, at this point, you could indeed get a grab of the framebuffer using Grab, and this is how I take pictures of <a href="/2022/07/crypto-ancienne-20-now-brings-tls-13-to.html">OmniWeb 2.7 running Crypto Ancienne for TLS 1.3</a>. But let's compare that with a similar Grab shot:
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExowxR26GcNWZTVRAn3E13YHGBUTZ7tsvqNNW56EPy-1J8HVdGlWbkaoaUasqj8I-nnkInoycU-hSdOdgotik7gztd7EnVRmrH8QiAol_QfoRYQyW962FHeosIfHpelvEBHq7M56DKsQa7kQo1AxW19dprPYcoRXiNJ0otrRvdIUPuwgIwgVs1-vHLAM/s1024/desktop.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExowxR26GcNWZTVRAn3E13YHGBUTZ7tsvqNNW56EPy-1J8HVdGlWbkaoaUasqj8I-nnkInoycU-hSdOdgotik7gztd7EnVRmrH8QiAol_QfoRYQyW962FHeosIfHpelvEBHq7M56DKsQa7kQo1AxW19dprPYcoRXiNJ0otrRvdIUPuwgIwgVs1-vHLAM/s320/desktop.png"/></a></div>
+
+Because Grab has to be running, notice that it disappeared from the tiles on the right (it makes itself invisible). This is sharper than the analogue grab because it's an exact bitwise copy of the framebuffer. But it still has its artificialities.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF-8mOip4Fni6zjg_1jrNmljB3NTDZeowWf6WzUv19Xv0C6ACw-aNSL_y09Krk2KeZgMoLHsDom_LYLaIgh3nfALS-BSELlOcXcv2sdUQsHFUcJxWPbKP5vEkRmu0rDOR6SIACdB_1B8kmqLlrcp1pq0mmeBpDKrBw9HJpwP5efKMWyQ54XxRPWFtnC6c/s1024/vlcsnap-2024-11-28-16h17m52s709.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF-8mOip4Fni6zjg_1jrNmljB3NTDZeowWf6WzUv19Xv0C6ACw-aNSL_y09Krk2KeZgMoLHsDom_LYLaIgh3nfALS-BSELlOcXcv2sdUQsHFUcJxWPbKP5vEkRmu0rDOR6SIACdB_1B8kmqLlrcp1pq0mmeBpDKrBw9HJpwP5efKMWyQ54XxRPWFtnC6c/s320/vlcsnap-2024-11-28-16h17m52s709.png"/></a></div>
+
+And we can go totally meta and capture (with the Hall/Inogeni) Grab saving its own capture. This would probably be really tricky with Grab itself.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgfxqqNiern9wyesg3scSA9swJLy_pu3NZqTPcTbODHNbQPREFfWF5AYCVJ3DL9XQzP4pxZOJMmtXiYzEiN11W0FH1GxxtNiHCI7k8_vWecSy_4YrlMeXVxhxfLXWzBTIeK8WXzVmuEp4zWd_DhWWziIKTVw5Rt2LiAr2xIG-ULJIM23aAzF7d-n_MjzU/s1024/vlcsnap-2024-11-28-15h54m59s836.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgfxqqNiern9wyesg3scSA9swJLy_pu3NZqTPcTbODHNbQPREFfWF5AYCVJ3DL9XQzP4pxZOJMmtXiYzEiN11W0FH1GxxtNiHCI7k8_vWecSy_4YrlMeXVxhxfLXWzBTIeK8WXzVmuEp4zWd_DhWWziIKTVw5Rt2LiAr2xIG-ULJIM23aAzF7d-n_MjzU/s320/vlcsnap-2024-11-28-15h54m59s836.png"/></a></div>
+
+We also can't capture the system shutting down with Grab &mdash; and certainly not after we've logged out.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgThDGLH8hg2uEEKtgmSoQe0uI3g3Qm7rEYYrnMMU7M2aWo1NFfN-oIHpPgjGaeFvznMRx5AMI-tllMsZu-LrGKXzjOF78GMDDGemLomhSs4sNBu8Qk_jCBjfhKZ32gPnA3DEyNrocw_uTzEGUsOmIa4_cSzN7-K15qjl5jfSRHp6k39b94iC16JjoiiwA/s1024/vlcsnap-2024-11-28-15h55m04s286.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgThDGLH8hg2uEEKtgmSoQe0uI3g3Qm7rEYYrnMMU7M2aWo1NFfN-oIHpPgjGaeFvznMRx5AMI-tllMsZu-LrGKXzjOF78GMDDGemLomhSs4sNBu8Qk_jCBjfhKZ32gPnA3DEyNrocw_uTzEGUsOmIa4_cSzN7-K15qjl5jfSRHp6k39b94iC16JjoiiwA/s320/vlcsnap-2024-11-28-15h55m04s286.png"/></a></div>
+
+So let's capture the system shutting down.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTkqLSMdrdSuLhMZaUk3oVdaUDUolyPicrXMEqDLculXohcBeGs7TbAvTG3upx-W8USoIHpG3mvevmbqvpYVBiBGg-GrsAeFMAVx23ZX6qnBZ6l3SU292EVJL9YIsJnMg6SGiw72-phyphenhyphenahk-oMIIvq8aTtUPuFKhVgqW8s9gp1joqZpCwa9zJrdpFxrkw/s1024/vlcsnap-2024-11-28-15h55m22s217.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTkqLSMdrdSuLhMZaUk3oVdaUDUolyPicrXMEqDLculXohcBeGs7TbAvTG3upx-W8USoIHpG3mvevmbqvpYVBiBGg-GrsAeFMAVx23ZX6qnBZ6l3SU292EVJL9YIsJnMg6SGiw72-phyphenhyphenahk-oMIIvq8aTtUPuFKhVgqW8s9gp1joqZpCwa9zJrdpFxrkw/s320/vlcsnap-2024-11-28-15h55m22s217.png"/></a></div>
+
+Bye.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FchxyYBf6StNbt4RR9B5blulir4bft0_X6FF_snyCIVzS9iKKTfH8yWeks0JukQMYmL7f5CP59t3Q1-moFHAu6WonH32bnVkslWfbuOewXEwVGLlFv9MLxI-eM6EZRKW8B3sF7aV0HYBuXl7B9bTA_fxRlxnB69noUcZ8pLmxqKk2r-unRcle1-AYw8/s1024/vlcsnap-2024-11-28-15h56m12s064.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="768" data-original-width="1024" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FchxyYBf6StNbt4RR9B5blulir4bft0_X6FF_snyCIVzS9iKKTfH8yWeks0JukQMYmL7f5CP59t3Q1-moFHAu6WonH32bnVkslWfbuOewXEwVGLlFv9MLxI-eM6EZRKW8B3sF7aV0HYBuXl7B9bTA_fxRlxnB69noUcZ8pLmxqKk2r-unRcle1-AYw8/s320/vlcsnap-2024-11-28-15h56m12s064.png"/></a></div>
+
+One last thing about the NeXTSTEP bootloader is the help text. And yes, we can grab that too. This series of images should completely document a normal NeXTSTEP PA-RISC boot-up and shutdown.
+<p>
+Let's briefly turn to our problem Atari ST-family machine before we conclude. This is using a regular passive ST-to-VGA converter plugged into the <a href="http://pzat.meep.org/computing/st_connectors.html">13-pin</a> rear video port. Remember, this was Tramiel's Atari, so we got things like 13-pin video with wacky connectors and ACSI instead of SCSI. The converter is passive, so there is no scan conversion.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiorLSwUmqZ-4F7Vzk4a5KF-Trw_h0W6OHVcJ29dum-GRCyC1bW-2uaP_67hq9HJhbFADTEr_Z_sYfDYWOWKgBZEQwcAHsPpTejUH5PvBox8xiQi0dcsyMdNjVSC5bTdPYYdXsfLerkhFeGtyauN6_veFlRp_d7pcFdlhyjpnyc313d8wrXNSXxg8M5fZ0/s640/vlcsnap-2024-11-28-16h28m53s433.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiorLSwUmqZ-4F7Vzk4a5KF-Trw_h0W6OHVcJ29dum-GRCyC1bW-2uaP_67hq9HJhbFADTEr_Z_sYfDYWOWKgBZEQwcAHsPpTejUH5PvBox8xiQi0dcsyMdNjVSC5bTdPYYdXsfLerkhFeGtyauN6_veFlRp_d7pcFdlhyjpnyc313d8wrXNSXxg8M5fZ0/s320/vlcsnap-2024-11-28-16h28m53s433.png"/></a></div>
+
+Impressively, the Hall box accepts the 71.2Hz refresh rate, calling it "VGA-70." However, the image the ST generates is 640x400 and the odd refresh rate is probably why it's shifted. Phase and clock changes didn't really make any difference but we can still frame the image better directly from the on-screen menu.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsMp9QFl6JOjTMVIESDYunFUk2BFO_9EUuaG0MgKia603ib_YAUza6nFLmOpPntSWOrvBHjVoHllMW__nMgW_DJ9NiPz2tDyhRBfHdzOUfQC9CSjgIhqaUNPnC5KodlPsrcJl77CKiabM2NKPh-S2gAFUQkgOrPDQbMVYN9O7wfTT32i2QxWx04_BFu4/s640/vlcsnap-2024-11-28-16h29m32s350.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsMp9QFl6JOjTMVIESDYunFUk2BFO_9EUuaG0MgKia603ib_YAUza6nFLmOpPntSWOrvBHjVoHllMW__nMgW_DJ9NiPz2tDyhRBfHdzOUfQC9CSjgIhqaUNPnC5KodlPsrcJl77CKiabM2NKPh-S2gAFUQkgOrPDQbMVYN9O7wfTT32i2QxWx04_BFu4/s320/vlcsnap-2024-11-28-16h29m32s350.png"/></a></div>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBYTZsmoCm3BkURLj_DAaATtQGdICsCDa33uASkEO8MuABY0CryNYH1lKDPtOzAA-WPPvjn_T_0DPFCRR1R596NitgsR-7CghtvV9wABYLFbb43r5ni9JQ1EBOA4sgKS21qBkBKreCU53XkWqDYKcq_TDmIWZpC-5xk0wJDit4oDXWVQPy0xfp7J55gM/s640/vlcsnap-2024-11-28-16h30m39s258.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjBYTZsmoCm3BkURLj_DAaATtQGdICsCDa33uASkEO8MuABY0CryNYH1lKDPtOzAA-WPPvjn_T_0DPFCRR1R596NitgsR-7CghtvV9wABYLFbb43r5ni9JQ1EBOA4sgKS21qBkBKreCU53XkWqDYKcq_TDmIWZpC-5xk0wJDit4oDXWVQPy0xfp7J55gM/s320/vlcsnap-2024-11-28-16h30m39s258.png"/></a></div>
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6UDvqHujZfVMgsqtQSUaN8HKB7Tah4OhlJ8_T0x0iv7n17WRRUQSyJ9160NFwX02PIP_MVSJvzrkjeIywC-q9mTTU1DvYGI220FEYF8Vlt9ssLFYfsmHXhtqvBK_j_Y3cV7R9j3nLf2NzUMGcR1W7ueT7NLX26MXUxKhRIXBi176rAs7XEihGBRmMaw/s640/vlcsnap-2024-11-28-16h31m29s835.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS6UDvqHujZfVMgsqtQSUaN8HKB7Tah4OhlJ8_T0x0iv7n17WRRUQSyJ9160NFwX02PIP_MVSJvzrkjeIywC-q9mTTU1DvYGI220FEYF8Vlt9ssLFYfsmHXhtqvBK_j_Y3cV7R9j3nLf2NzUMGcR1W7ueT7NLX26MXUxKhRIXBi176rAs7XEihGBRmMaw/s320/vlcsnap-2024-11-28-16h31m29s835.png"/></a></div>
+
+After a couple false starts (overscan and underscan didn't make any difference), I arrived at this pleasing framing which suffices for direct capture. It's unfortunate that the 50% pixel hatching on the background is apparently too high-frequency for the Hall box to convert; I messed with the phase and clock here but only just got different periodic "beats" in the video. But it's legible and works.
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJ4T4UP1D8C088y-Rd4fEB8rbUbA2jYdRqTepKwOpC-KV2xMdiRKERJYd-HmfD0s13_0JEBg3RUcCRqXAcchrPFVm8n_SR-YQRxMDT3-xiYKJScXsUamnjintnHWTUr9TYuZazbm-AE8Mcx2CzV4Ttu2mDJgeawL80iowZ3cHPhDaYq0fARLXKvF2gIo/s640/vlcsnap-2024-11-28-16h33m08s782.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="480" data-original-width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmJ4T4UP1D8C088y-Rd4fEB8rbUbA2jYdRqTepKwOpC-KV2xMdiRKERJYd-HmfD0s13_0JEBg3RUcCRqXAcchrPFVm8n_SR-YQRxMDT3-xiYKJScXsUamnjintnHWTUr9TYuZazbm-AE8Mcx2CzV4Ttu2mDJgeawL80iowZ3cHPhDaYq0fARLXKvF2gIo/s320/vlcsnap-2024-11-28-16h33m08s782.png"/></a></div>
+
+Indeed, it's good enough to grab this early boot screen, showing the hard disk driver and mouse accelerator as the onboard ROM TOS brings up the system.
+<p>
+The SC-VGA-2 is not the perfect does-everything-box; like the <a href="/2020/08/pal-rf-or-bust-with-lcdt600.html">LCDT600</a> I use for PAL composite capture, it requires an intermediary step with its own power supply and introduces a further amount of lag into the system. It also doesn't seem to display all the modes it advertises, though I have not yet determined who's really at fault for that. But it's a true scan converter that isn't very large, really does work, and seems reliable and well-built. I certainly got my $2 worth, by golly. 
+
+<br> 
+
+<https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-11-29, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 19: The Battle of Mactan 
+
+<br> 
+
+<https://www.filfre.net/2024/11/this-week-on-the-analog-antiquarian/>
+
+---
+
+## November 2024 News Summary
+
+date: 2024-11-29, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2126.html>
+
+---
+
+## b.log 2024/11/28 - On being a programmer.
+
+date: 2024-11-28, from: Richard Murray's blog
+
+On being a programmer. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241128>
+
+---
+
+## R-Comp brings some Christmas quizzing to WROCC – 4th December
+
+date: 2024-11-28, from: RiscOS Story
+
+Having been the guest speaker for the Wakefield RISC OS Computer Club (WROCC) meeting that took place in November, Andrew Rawnsley will be joining the group again for their December meeting &#8211; but wearing a different hat! Last month Andrew was talking on behalf of RISC OS Developments, but this time he&#8217;ll be representing R-Comp, with a talk covering the company&#8217;s latest computer/hardware developments and details of a significant update to a major application. And with Christmas being just three weeks after the meeting, he will host a quiz where&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/r-comp-wrocc-4th-december/>
+
+---
+
+## Developers’ fireside chat – 30th November
+
+date: 2024-11-27, from: RiscOS Story
+
+People who develop for or on RISC OS, or who are interested in doing so, have another chance to gather together around the fireplace for a friendly chat this Saturday, 30th November. With a start time of 7:30pm, the meeting will be held online using the Zoom video conferencing system, allowing those attending to benefit from all the comforts of home, while talking to other like-minded folk all around the country &#8211; possibly the world, depending who else joins the meeting. If you wish to join, you don&#8217;t need to&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/developers-fireside-chat-30th-november/>
+
+---
+
+## KIM-5 Resident Assembler/Editor available!
+
+date: 2024-11-27, from: Hans Otten's Retro blog
+
+MOS Technology, part of Commodore in 1977, not only sold the KIM-1 SBC but added hardware and software as KIM System Products. Not only hardware, a Motherboard (KIM-4), RAM memory expansions (KIM2, -3, -3B) and a prototype board (KIM-6) but also software, like KIM Math subroutines (KIMath), TIM (RRIOT + document). This has been documented [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/kim-5-resident-assembler-editor-available/>
+
+---
+
+## November developer 'fireside' chat on saturday night
+
+date: 2024-11-27, from: Icon Bar, RISC OS News
+
+The next 'fireside' chat is on 30th November (this saturday). As usual, it starts at 7:30pm UK time and the event is on Zoom. Stay for as long or as short a time as you like. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2114.html>
+
+---
+
+## ESET Discovers New Linux Malware
+
+date: 2024-11-26, from: Linux Magazine
+
+<p>WolfsBane is an all-in-one malware that has hit the Linux operating system and includes a dropper, a launcher, and a backdoor.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/ESET-Discovers-New-Linux-Malware>
+
+---
+
+## DOG version 0.8.5b
+
+date: 2024-11-26, from: FreeDOS News
+
+<div class="markdown_content"><p>DOG is an alternative command shell by Wolf Bergenheim. Wolf recently released DOG version 0.8.5b, which contains some stability changes to DOG and a lot of updates to the external commands. Highlights include: * LS now supports sorting, color and page breaks * DS a directory stack command contributed almost 20 years ago and is now finally integrated! * CM a CHMOD command to change file attributes * PP and PT new commands written as a DOGfile (similar to .BAT for FreeCOM) to showcase what you can do with DOGfiles. See the <a class="" href="https://dog.zumppe.net/post/rn085b/" rel="nofollow">release notes</a> for more information. Download it from the <a class="" href="https://dog.zumppe.net/download/" rel="nofollow">DOG Downloads</a> page.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2024/11/dog-version-085b/>
+
+---
+
+## b.log 2024/11/25 - A rant about human hubris.
+
+date: 2024-11-25, from: Richard Murray's blog
+
+A rant about human hubris. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241125>
+
+---
+
+## DOjS version 1.13.0
+
+date: 2024-11-25, from: FreeDOS News
+
+<div class="markdown_content"><p>DOjS is a JavaScript programming environment for systems running DOS. SuperIlu has released a new version of DOjS with a bunch of new updates. From the announcement: "Added KeyIsPressed() and keyIsDown() in p5js. Updated syntax highlighting. Updated internal help.txt. JPEG decoding now uses libjpeg and JPEG saving is supported. Added TIFF, Sun Raster, and Jpeg 2000 (JP2) loading and writing. Added a Node.js compatible console." (And other updates, including updates to libraries.) You can find the new version at <a class="" href="https://github.com/SuperIlu/DOjS" rel="nofollow">DOjS on GitHub</a>, or more directly from the <a class="" href="https://github.com/SuperIlu/DOjS/releases/tag/v1.130" rel="nofollow">1.13.0 release</a> page. We've also mirrored this on the FreeDOS Files Archive at Ibiblio, under <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/js/dojs/1.13.0/" rel="nofollow">/files/devel/js/dojs</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2024/11/dojs-version-1130/>
+

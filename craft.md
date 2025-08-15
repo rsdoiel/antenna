@@ -1,33 +1,41 @@
 ---
 title: craft
+<<<<<<< HEAD
 updated: 2024-10-15 08:11:04
+=======
+updated: 2025-08-15 14:08:08
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # craft
 
+<<<<<<< HEAD
 (date: 2024-10-15 08:11:04)
+=======
+(date: 2025-08-15 14:08:08)
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 
 ---
 
-## Now Shipping: Exeter Hammers
+## The Case for Hollows and Rounds
 
-date: 2024-10-14, from: Lost Arg Press blog
+date: 2025-08-15, from: Lost Arg Press blog
 
-We have a large batch of our new Exeter furniture-maker’s hammers for sale in our store now. These hammers are perfectly sized for people who build casework and chairs. They are the ideal weight for driving in 4d and 6d nails, smacking wedges in place and adjusting bench planes. We’ve spent about three years developing... 
+The following is excerpted from Matthew Bickford’s “Mouldings in Practice.” In this book, Bickford shows you how to turn a set of complicated mouldings into a series of predictable rabbets and chamfers that guide your hollow and round planes to make any moulding that has been made in the past or that you can envision... 
 
 <br> 
 
-<https://blog.lostartpress.com/2024/10/14/now-shipping-exeter-hammers/>
+<https://blog.lostartpress.com/2025/08/15/the-case-for-hollows-and-rounds/>
 
 ---
 
-## A Cheat Sheet for ‘Principles of Design’
+## New Hand-stamped Slipcases
 
-date: 2024-10-13, from: Lost Arg Press blog
+date: 2025-08-11, from: Lost Arg Press blog
 
-Our latest book, “Principles of Design” by William H. Varnum, offers a systematic method to design furniture, plus a series of rules that guide you in the process. Perhaps even more important, “Principles of Design” shows you how to interpret other people’s design. Or how to fix your own designs. Instead of saying something looks... 
+We have a limited run of handmade slipcases hand printed with the image of a honey bee (the symbol of workers everywhere). The slipcase comes with a copy of “The Woodworker’s Pocket Book” plus brass mounting hardware. And we are offering the two together at a special price. This project began when Texas Heritage Woodworks... 
 
 <br> 
 
-<https://blog.lostartpress.com/2024/10/13/a-cheat-sheet-for-principles-of-design/>
+<https://blog.lostartpress.com/2025/08/11/new-hand-stamped-slipcases/>
 

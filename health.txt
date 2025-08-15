@@ -10,3 +10,5 @@ https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~F
 # Health and Diet
 #
 https://www.thekidneydietitian.org/feed/ "~The Kidney Dietitian"
+https://centerforhealthyliving-southern-california.kaiserpermanente.org/feed/ "~Center for Healthy Living, So Cal. Kaiser blog"
+https://www.jessicaknurick.com/blog-feed.xml "~Dr. Jesica Knurick blog"

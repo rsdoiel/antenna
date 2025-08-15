@@ -1,0 +1,421 @@
+---
+title: libraries
+updated: 2024-11-02 18:00:59
+---
+
+# libraries
+
+(date: 2024-11-02 18:00:59)
+
+---
+
+## Internet Archive Puts Out Welcome Mat for Community Gatherings
+
+date: 2024-11-01, from: Internet Archive Blog
+
+Libraries are a cornerstone for civic engagement. The Internet Archive is carrying on that tradition by hosting in-person gatherings at its Funston Avenue headquarters in San Francisco, including candidate forums [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/11/01/internet-archive-puts-out-welcome-mat-for-community-gatherings/>
+
+---
+
+## Halloween Over, Still Scary Times — Please Vote!
+
+date: 2024-11-01, from: Scholarly Kitchen
+
+<p>Halloween has concluded, but things are still looking scary in the US for public health.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/01/halloween-over-still-scary-times-please-vote/">Halloween Over, Still Scary Times &#8212; Please Vote!</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/01/halloween-over-still-scary-times-please-vote/>
+
+---
+
+## Revolutionizing Liver Transplantation: Transitioning to an Elective Procedure Through Ex Situ Normothermic Machine Perfusion - A Benefit Analysis
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Li, Zhihao; Pfister, Matthias; Huwyler, Florian; Hoffmann, Waldemar; Tibbitt, Mark W.; Dutkowski, Philipp; Clavien, Pierre-Alain 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/700166>
+
+---
+
+## Evolution vs. Creationism in the Classroom: The Lasting Effects of Science Education
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Arold, Benjamin W. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/683366>
+
+---
+
+## Skin Cancer Induction by the Antimycotic Drug Voriconazole Is Caused by Impaired DNA Damage Detection Due to Chromatin Compaction
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Giovannini, Sara; Weibel, Lisa; Schittek, Birgit; Sinnberg, Tobias; Schaller, Martin; Lemberg, Christina; Fehrenbacher, Birgit; Biesemeier, Antje; Nordin, Renate; Ivanova, Irina; Kurz, Bernadett; Svilenska, Teodora; Berger, Christoph; Bourquin, Jean-Pierre; Kulik, Andreas; Fassihi, Hiva; Lehmann, Alan; Sarkany, Robert; Kobert, Nikita; van Toorn, Marvin; et al. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/700784>
+
+---
+
+## No evidence for interstellar fireballs in the CNEOS database
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Hajdukova, Maria; Stober, Gunter; Barghini, Dario; Koten, Pavel; Vaubaillon, Jeremie; Sterken, Veerle Jasmin; Ďurišová, S.; Jackson, Alan; Desch, Steve 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/701917>
+
+---
+
+## Petrogenesis and tectonic setting of mafic magmatism within the Laguna Amarga Metamorphic Complex, Andes of Catamarca, Argentina: Insights into the opening of the Cuyania/Precordillera terrane from the Ouachita rift
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Cristofolini, Eber A.; Escribano, Facundo A.; Otamendi, Juan E.; Morosini, Augusto F.; Galli, Andrea C.; Armas, Paula; Benito, María Paula; Barzola, Matías G. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/701998>
+
+---
+
+## Synapsis dynamics in A. arenosa (III) SIM in HYB-4X
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Gonzalo, Adrián 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/696850>
+
+---
+
+## Vanishing Culture: Preserving Papiamento—Safeguarding Aruba’s Language and Cultural Heritage
+
+date: 2024-10-31, from: Internet Archive Blog
+
+The following guest post from digital librarian Peter Scholing is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/31/vanishing-culture-preserving-papiamento-safeguarding-arubas-language-and-cultural-heritage/>
+
+---
+
+## Wiley Leans into AI. The Community Should Lean with Them.
+
+date: 2024-10-31, from: Scholarly Kitchen
+
+<p>An interview with Wiley SVP Josh Jarrett about their work improving publishing processes with AI and licensing content for AI applications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/31/wileys-josh-jarret-interview-about-impact-of-ai/">Wiley Leans into AI. The Community Should Lean with Them.</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/31/wileys-josh-jarret-interview-about-impact-of-ai/>
+
+---
+
+## The transport infrastructure planning process in Canton Zürich
+
+date: 2024-10-31, from: ETH Zurich, recently added
+
+Elvarsson, Arnor B.; Adey, Bryan T. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/702760>
+
+---
+
+## Day in Review (October 28–31)
+
+date: 2024-10-30, from: Association of Research Libraries News
+
+<p>Last Updated on October 31, 2024, 3:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-28-31-2/">Day in Review (October 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-october-28-31-2/>
+
+---
+
+## Vanishing Culture: A Report on Our Fragile Cultural Record
+
+date: 2024-10-30, from: Internet Archive Blog
+
+Download Vanishing Culture: A Report on Our Fragile Cultural Record In today’s digital landscape, corporate interests, shifting distribution models, and malicious cyber attacks are threatening public access to our shared [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/30/vanishing-culture-a-report-on-our-fragile-cultural-record/>
+
+---
+
+## Guest Post — How Generative AI Could Transform Scholarly Publishing: Themes and Reflections from Interviews with Industry Leaders
+
+date: 2024-10-30, from: Scholarly Kitchen
+
+<p>A new study from Ithaka S+R explores: How will generative AI transform scholarly communication and where will change be most rapid and revolutionary?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/30/gen-ai-transform-scholarly-publishing/">Guest Post &#8212; How Generative AI Could Transform Scholarly Publishing: Themes and Reflections from Interviews with Industry Leaders</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/30/gen-ai-transform-scholarly-publishing/>
+
+---
+
+## Data repository: Spin-orbit coupling in MoS2/bilayer graphene heterostructures
+
+date: 2024-10-30, from: ETH Zurich, recently added
+
+Masseroni, Michele; Gull, Mario; Panigrahi, Archisman; Niels, Jacobsen; Felix, Fischer; Duprez, Hadrien; Tong, Chuyao; Gerber, Jonas; Niese, Markus; Taniguchi, Takashi; Watanabe, Kenji; Levitov, Leonid S.; Ihn, Thomas Markus; Ensslin, Klaus 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/662935>
+
+---
+
+## Supporters Stand Strong with Internet Archive at Annual Celebration
+
+date: 2024-10-29, from: Internet Archive Blog
+
+The Internet Archive held its annual celebration on October 23, with leaders showing resilience—and finding support—to carry out their work, despite recent attacks. Brewster Kahle, Internet Archive’s founder and digital [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/29/supporters-stand-strong-with-internet-archive-at-annual-celebration/>
+
+---
+
+## History of the Peloponnesian War, by Thucydides
+
+date: 2024-10-29, from: Standard Ebooks, new releaases
+
+A contemporary history of the ancient Greek war between Athens and Sparta and their allies. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley>
+
+---
+
+## Evelina, by Fanny Burney
+
+date: 2024-10-29, from: Standard Ebooks, new releaases
+
+A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/fanny-burney/evelina>
+
+---
+
+## Appreciation for Preservation at Physical Archive Event
+
+date: 2024-10-29, from: Internet Archive Blog
+
+“Welcome to the Physical Archive!” On a tour October 22, Brewster Kahle, founder of the Internet Archive, shared his enthusiasm for the industrial building in Richmond, California, that serves as [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/29/appreciation-for-preservation-at-physical-archive-event/>
+
+---
+
+## The 2025 Annual SSP Meeting: What We’re Looking Forward To and Why to Submit Before it’s Too Late!
+
+date: 2024-10-29, from: Scholarly Kitchen
+
+<p>As the deadline for submitting proposals for the 2025 SSP Annual Meeting rapidly approaches, the Annual Meeting Program Committee Co-Chairs ask members of our community what they’re excited about and why you should submit your proposal before it’s too late.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/29/the-2025-annual-ssp-meeting-what-were-looking-forward-to-and-why-to-submit-before-its-too-late/">The 2025 Annual SSP Meeting: What We’re Looking Forward To and Why to Submit Before it’s Too Late!</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/29/the-2025-annual-ssp-meeting-what-were-looking-forward-to-and-why-to-submit-before-its-too-late/>
+
+---
+
+## Short Fiction, by Frank Belknap Long
+
+date: 2024-10-29, from: Standard Ebooks, new releaases
+
+A collection of short fiction by Frank Belknap Long, ordered by date of original publication. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/frank-belknap-long/short-fiction>
+
+---
+
+## The Unicorn from the Stars, by Lady Gregory and W. B. Yeats
+
+date: 2024-10-28, from: Standard Ebooks, new releaases
+
+A young man’s visions disrupt the peace of his community. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/lady-gregory_w-b-yeats/the-unicorn-from-the-stars>
+
+---
+
+## Day in Review (October 28–31)
+
+date: 2024-10-28, from: Association of Research Libraries News
+
+<p>Last Updated on October 29, 2024, 2:19 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/uncategorized/day-in-review-october-28-31/">Day in Review (October 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/uncategorized/day-in-review-october-28-31/>
+
+---
+
+## Internet Archive Services Update
+
+date: 2024-10-28, from: Internet Archive Blog
+
+Last updated: October 31, 2024 Services Online: Wayback Machine-Save Page Now coming soonopenlibrary.orgarchive-it.orgVaultscholar.archive.orgInterlibrary loan via RapidILLarchive.org services available:-publicly available texts-tv news search and borrow-audio-moving images-institutional uploads-institutional web archiving-access via API [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/28/internet-archive-services-update/>
+
+---
+
+## Silverchair Buys ScholarOne from Clarivate
+
+date: 2024-10-28, from: Scholarly Kitchen
+
+<p>Analysis from Roger Schonfeld on today's news that Silverchair is buying ScholarOne from Clarivate, a transaction that realigns infrastructure and allows each to focus on its strengths.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/28/silverchair-buys-scholarone-from-clarivate/">Silverchair Buys ScholarOne from Clarivate</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/28/silverchair-buys-scholarone-from-clarivate/>
+
+---
+
+## Update on the Resourcing Crossref for Future Sustainability research
+
+date: 2024-10-28, from: Crossref Blog
+
+<p>We’re in year two of the <a href="https://www.crossref.org/community/special-programs/resourcing-crossref/">Resourcing Crossref for Future Sustainability</a> (RCFS) research. This report provides an update on progress to date, specifically on research we’ve conducted to better understand the impact of our fees and possible changes.</p>
+<p>Crossref is in a good financial position with our <a href="https://www.crossref.org/fees/">current fees</a>, which haven’t increased in 20 years. This project is seeking to future-proof our fees by:</p>
+<ul>
+<li>Making fees more equitable</li>
+<li>Simplifying our complex fee schedule</li>
+<li>Rebalancing revenue sources</li>
+</ul>
+<p>In order to review all aspects of our fees, we’ve planned five projects to look into specific aspects of our current fees that may need to change to achieve the goals above. This is an update on the research and discussions that have been underway with our <a href="https://www.crossref.org/committees/membership-and-fees/">Membership &amp; Fees Committee</a> and our <a href="https://www.crossref.org/board-and-governance/#officers">Board</a>, and what we’ve learned so far in each of these areas.</p>
+<h2 id="goal-1-more-equitable-fees">Goal 1: More equitable fees.</h2>
+<p>To ensure our fees going into the future are more equitable, we’re carrying out two parallel projects: evaluation of the lowest membership tier, and the review of the basis for deciding the membership tiers and distribution of membership across them.</p>
+<h3 id="project-1-evaluate-the-lowest-membership-tier-and-propose-a-more-equitable-pricing-structure">Project 1: Evaluate the lowest membership tier and propose a more equitable pricing structure.</h3>
+<p>All Crossref members pay an annual membership fee. These fees are tiered, and different members pay a different fee depending on the annual publishing revenue that their organisation receives (or publishing expenses if they don’t receive any publishing revenue).</p>
+<p>We entered into this project recognising that we have too many membership tiers and the definition we use to size members is not consistent and can be confusing (e.g. different basis for funders than other organisations, and both are different still from subscribers to our Metadata Plus service). The idea of the membership tiers was to use publishing revenue as a proxy for “ability to pay”. We really want to develop proposals for a more equitable pricing structure. However we don’t know enough about our members’ capacity to pay to be able to model an alternative approach.</p>
+<p>Our current lowest fee tier is $275 (USD) for any organisation with annual publishing revenue (or publishing expenses where the organisation doesn’t receive publishing revenue) of $0 to $1 million, and this is the tier where we focus our attention in our first project of the RCFS program. The difference between an organisation with revenue or expenses of US$0, and an organisation with revenue or expenses of US$1 million, is huge. Hardly any new members have joined in any other tier in the past several years. Of the 21,000 active members, more than 20,000 fall into the US$275 tier - either directly (as an independent member) or indirectly (through a sponsor, where their fees would be lower). A fee structure that would fit better with the realities of our community might entail breaking our current $275 fee tier down into two or more more granular tiers.</p>
+<p>At the moment, the majority of Crossref’s revenues come from the bottom membership tiers; 65% of membership revenues come from organisations in the $275 tier. We also know that many of those members (86%) are paying more in membership dues than in content registration, whereas other members have the inverse relationship between annual dues and content registration. Overall, the members in the $275 tier contributed 34% of Crossref’s revenue last year, and the members in the &gt;$50mln tier – contributed 29%.</p>
+<h3 id="members-survey">Members’ survey</h3>
+<p>Between April and May this year, we surveyed all independent members in the $275 tier. We asked questions about their operating size, how they’re funded, and how Crossref’s fees affect them. At the time of the survey, there were 8,027 members in this category. We received 1,054 responses; with a 13% response rate and broad representation globally, we are confident in the sample size. One-third of respondents said they were part of a larger organisation (such as a department or a library in a research institution).</p>
+<p>Chart 1: Organisation revenue or funding
+The majority of respondents in this category (65%) have annual revenue or expense of less than 100,000 USD; with 48% operating with less than 10,000 USD.</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/update-on-rcfs-2024-10-28/income.bik.png"
+alt="Responses to the question about the income or funding levels in the members survey" width="50%">
+</figure>
+</div>
+<p>Chart 2: Sources of funding
+When asked about the sources of funding (as an indicator of how stable these organisations might be and how readily accessible their funding is) the most frequent answer was public or government funding, and then article processing charges. If organisations relied on two sources of funding, the most common combination was public funding and article processing charges, and it was relatively rare for these organisations to have multiple sources of funding.</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/update-on-rcfs-2024-10-28/sources.funding.top.20.png"
+alt="Responses to the question about the main sources of income for independent members in the $275 tier" width="100%">
+</figure>
+</div>
+<p>Chart 3: What percentage of expenses do you spend on Crossref fees?</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/update-on-rcfs-2024-10-28/feestocrossrefwithregions.png"
+alt="Responses to the question about the proportion of overall expenses paid in Crossref fees by independent members in $275 tier" width="100%">
+</figure>
+</div>
+<p>The majority (61%) of respondents spend less than 5% of their expenses on Crossref fees. However, we have also learnt that for some volunteer-run publications, Crossref fees might be some of the only expenses they incur. Interestingly, the percentage of expenses spent on Crossref is fairly consistently spread across the continents.</p>
+<h3 id="project-2-review-the-basis-and-distribution-of-membership-tiers">Project 2: Review the basis and distribution of membership tiers</h3>
+<p>This project examines options for how we define the capacity to pay, how members are distributed across tiers, and the right levels of member fees.</p>
+<p>There are currently a range of prices for our annual fees, based on an organisation&rsquo;s ability to pay. We have used the metric of annual publishing expense or revenue as an indicator of that ability, but in some cases it doesn’t apply. As per our <a href="https://www.crossref.org/operations-and-sustainability/#fee-principles">fee principles</a>, we have not differentiated between organisation types. Nonprofit and commercial entities pay the same price (caveat: research funders still have a separate fee schedule, but that was intended to be temporary).</p>
+<p>We conducted a review of other annual fee models to benchmark our approach against six like-minded organisations working in the context of scholarly communications and infrastructure. We looked at whether these organisations based their fees on one more more of the following:</p>
+<ul>
+<li>Volume: e.g., research output, # of journals</li>
+<li>Budget: e.g., total annual revenue or expenses</li>
+<li>Relevant budget: e.g. publishing revenue</li>
+<li>Organisation type: e.g. variance in fee based on publisher, institution, or funder</li>
+<li>Country-level economic data: e.g., discounting based on World Bank classification, discounting based on purchasing power calculation.</li>
+</ul>
+<p>Chart 4: Annual fee schedules comparisons between Crossref and CORE, DOAJ, Dryad, OA Switch-board, OpenCitations and ORCID.</p>
+<div style="text-align:center;margin:10px">
+<figure class="img-responsive"><img src="https://www.crossref.org/images/blog/2024/update-on-rcfs-2024-10-28/annual-fee-schedules-comparisons.png"
+alt="Annual fee schedules comparisons between Crossref and CORE, DOAJ, Dryad, OA Switch-board, OpenCitations and ORCID" width="100%">
+</figure>
+</div>
+<p>There are three consistent themes among our peers: the total annual revenue and volume levels are the most common basis for membership fees among other organisations, and almost all offer discounted fees to accommodate country-based economic circumstances, utilising World Bank’s data (this is currently achieved at Crossref via the <a href="https://www.crossref.org/gem/">GEM program</a>, which we have full intention of incorporating into our future fees whatever other decisions we might take). Only one other organisation uses publishing revenue or expenses as a basis for annual fees, while the potentially more transparent and less ambiguous data point of the total revenue factors in three other annual fee models.</p>
+<p>For subscribers to our <a href="https://www.crossref.org/fees/#metadata-plus-subscriber-fees">Metadata Plus service</a>, the fee tier is selected based on whichever is the higher between their total annual revenue (including earned and fundraised, e.g. grants) or annual operating expenses (including staff and non-staff, e.g. occupancy, equipment, licences etc.). At present, we have limited understanding of the budgets of our members and how this may compare to their publishing revenues or expenses. We are looking to learn more about this as part of our annual membership data checking process, where we email all our members to ask them to confirm contact details for their organisation and the staff involved in managing their Crossref account. This year, we’re also asking all members about their organisation’s annual operating budget (or planned annual expenses) to help inform our discussions. In our case, the volume of outputs (in this case the number of items and associated metadata registered with Crossref) is recognised by the registration fees mechanism.</p>
+<h2 id="consulting-with-organisations-outside-crossref-membership">Consulting with organisations outside Crossref membership</h2>
+<p>To help us inform how our fees can be more equitable, it’s important to invite voices of organisations that may currently be unable to join us - due to fees or technical barriers. We hope that learning more about their circumstances will help us make sure that we improve accessibility of Crossref membership to all organisations that publish scholarly and professional works. We commissioned Accucoms to carry out a consultation on our behalf.</p>
+<p>So far, from a handful of interviews with publishers from Nigeria, DRC, Canada and USA, we’ve learnt that while virtually all offer open access to their publications, the majority has no publishing income, and where the income is derived via APCs it’s modest and only applicable in rare circumstances. Through institutional funding and/or grants, these organisations have modest operational budgets, yet our respondents lacked clarity over the particulars. In terms of participation in professional networks and international publishing organisations, only one of the organisations we interviewed participates in DOAJ, and another is a member of OASPA, in both cases their participation is free. Among the interviewees, two organisations were interested in Crossref membership in the past but encountered technical barriers to joining.</p>
+<p>With only five interviews to date, <a href="https://survey.alchemer.com/s3/7879005/673ef7e88ae5" target="_blank">the consultation is still open</a> and we’re keen to hear from more organisations that are not Crossref members but have considered our membership at some point.</p>
+<h2 id="goal-2-simplify-complex-fees">Goal 2: Simplify complex fees</h2>
+<h3 id="projects-3--4-review-volume-and-backfile-discounts-for-content-registration">Projects 3 &amp; 4: Review volume and backfile discounts for Content Registration</h3>
+<p>Along with our membership fees, our members also pay usage-based registration fees for records (scholarly works and grants) they register with us. Different content types render different costs for our members, and the fees are subject to discounts related to the age of publication and volume of registrations. Records for items older than two years have a lower fee associated with them, to help incentivise registration of such “backfile” materials with great gains for the <a href="https://www.crossref.org/documentation/research-nexus/">Research Nexus</a>. There are also discounts related to the volume of transactions – which again depend on the content types.</p>
+<p>These discounts are intended to encourage certain behaviours, specifically encouraging members to register older records in large quantities to better complete the scholarly record. Not all content types have backfile or volume discounts, and the rate of discount varies. This creates quite a complex system of fees. To the extent that the discount is successful in encouraging this behaviour, we want to preserve it, but in many cases these discounts see little to no activity.</p>
+<p>Following the discussions of the <a href="https://www.crossref.org/committees/membership-and-fees/">Membership and Fees Committee</a>, chaired by Vincas Grigas, Vilnius University, we are preparing to consult with the small number of members who currently receive volume discounts to discuss what the impact would be if we removed them.</p>
+<p>We plan to identify and preserve the well-used backfile discounts, which encourage registration of old content, such as books, journal articles, grants. However, there are types of discounts that are hardly ever used and we are considering removing these to simplify the fees. This work will focus on the technical implications of removing some of the underused backfile discounts from the billing code and consulting with members to understand any impact .</p>
+<h2 id="goal-3-rebalance-revenue-sources">Goal 3: Rebalance revenue sources</h2>
+<h3 id="project-5-reflect-increase-in-metadata-usage-and-perceived-shift-of-value-toward-metadata-distribution">Project 5: Reflect increase in metadata usage and perceived shift of value toward metadata distribution</h3>
+<p>All Crossref metadata is made freely and openly available to everyone. However, some organisations may be looking for a service level agreement in delivery of the metadata, plus more regular snapshots and priority service/rate limits. For those organisations, we have an optional Metadata Plus service.</p>
+<p>The final project is looking at the fees for this service. We are interested in making sure that Crossref metadata is available and used by the community where it can contribute to their objectives – related to discovery, analysis, integrity, and more. The optional paid service we offer aims to support the external tools that facilitate business and scholarly processes for the community. We are heartened to see that the appetite for the use of metadata seems to be growing, and the value of open research information is increasingly and widely recognised. We want to ensure that the users of metadata contribute proportionally to the maintenance of the records created and curated by our members.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>At this point, most projects generate a lot of questions and the work is underway to deliver answers related to capacity to pay, discounts as well as available metadata usage, and barriers faced by organisations in our community.</p>
+<p>What we have found so far is that two of our goals – simplification and equity – are often at odds with each other, and this is especially true with the $275 tier.</p>
+<p>We welcome comments, suggestions and questions.</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/update-rcfs/>
+
+---
+
+## Real-time processing of information by signature inspired machine learning
+
+date: 2024-10-26, from: ETH Zurich, recently added
+
+Zhou, Syang 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/701973>
+

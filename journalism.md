@@ -1,439 +1,369 @@
 ---
 title: journalism
+<<<<<<< HEAD
 updated: 2024-10-15 08:11:02
+=======
+updated: 2025-08-15 14:08:03
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 ---
 
 # journalism
 
+<<<<<<< HEAD
 (date: 2024-10-15 08:11:02)
+=======
+(date: 2025-08-15 14:08:03)
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
 
 ---
 
-## The City of Santa Claria is planning for bigger and better parks in 2025
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-15, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
-
-<p>The city of Santa Clarita installed a new staircase to Central Park&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-city-of-santa-claria-is-planning-for-bigger-and-better-parks-in-2025/">The City of Santa Claria is planning for bigger and better parks in 2025</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
+Vilma Ortiz, the former chair of the Academic Senate&#8217;s Privilege and Tenure Committee, testified Thursday. She said the committee, which reviews grievances brought by Academic Senate members who believe that their rights as faculty may have been violated, reached a split vote about whether UCLA violated academic freedom principles by placing him on leave, leading to no formal hearing. 
 
 <br> 
 
-<https://canyonsnews.com/the-city-of-santa-claria-is-planning-for-bigger-and-better-parks-in-2025/>
+<https://dailybruin.com/2025/08/15/491956/>
 
 ---
 
-## Classifieds – October 15, 2024
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-15, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/classifieds-october-15-2024/">Classifieds &#8211; October 15, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
+John Meyers, who provides vocational rehabilitation consulting services, testified Thursday that Klein earned less money following his administrative leave because of the closure of courts – where he was paid to serve as an expert witness – during the COVID-19 pandemic and general volatility in the expert witness industry. 
 
 <br> 
 
-<https://dailytrojan.com/2024/10/15/classifieds-october-15-2024/>
+<https://dailybruin.com/2025/08/15/491953/>
 
 ---
 
-## Thornton freshman honored by LA Jazz Society
+## UC Regent Jay Sures required to pay legal fees for pro-Palestine UCLA student
 
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+date: 2025-08-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-<p>Taylor Lee received the New Talent award and performed at the ceremony on Oct. 5.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/thornton-freshman-honored-by-la-jazz-society/">Thornton freshman honored by LA Jazz Society</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
+A court ruled Thursday that UC Regent Jay Sures must pay $150,624 of graduate student Dylan Kupsh’s legal fees after Sures unsuccessfully attempted to file a restraining order against him.&#160;
+Kupsh – along with around 50 other pro-Palestine protesters – demonstrated outside Sures’ Brentwood home in February, calling him &#8220;responsible for protecting UC investments in genocide and weapons manufacturing.” Lawyers representing Sures initially alleged that Kupsh was a “ringleader” among the protesters, but were unable to prove the claim in court. 
 
 <br> 
 
-<https://dailytrojan.com/2024/10/15/thornton-freshman-honored-by-la-jazz-society/>
+<https://dailybruin.com/2025/08/14/uc-regent-jay-sures-required-to-pay-legal-fees-for-pro-palestine-ucla-student/>
 
 ---
 
-## Awkwardness is just main character energy
+## Independent journalist Molly White knows how to follow the memecoin
 
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+date: 2025-08-14, from: Nieman Journalism Lab
 
-<p>You don’t have to be cool to feel like the protagonist: lessons from cringe comedy.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/cringe-comedy-showed-me-how-to-accept-my-awkwardness/">Awkwardness is just main character energy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
+If you were looking for a single journalistic catchphrase, you could do worse than “follow the money.” Investigating and documenting the flow of cash and other resources is almost always a worthwhile pursuit for someone trying to get to the bottom of things. Molly White, an independent journalist, software engineer, and one of the sharpest... 
 
 <br> 
 
-<https://dailytrojan.com/2024/10/15/cringe-comedy-showed-me-how-to-accept-my-awkwardness/>
+<https://www.niemanlab.org/2025/08/independent-journalist-molly-white-knows-how-to-follow-the-memecoin/>
 
 ---
 
-## Football loses on final play, again
+## First-Generation Pre-Law Association aims to uplift underserved students
 
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+date: 2025-08-14, from: The Daily Bruin (UCLA Student Newspaper)
 
-<p>USC lost its third game to No. 3 Penn State after it had a 14 point lead at halftime.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/football-loses-on-final-play-again/">Football loses on final play, again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
+First-generation Bruins looking to enter the legal field now have a club to call their own.
+The First-Generation Pre-Law Association was founded in May and has since gained about 100 members, said Brianna Gonzalez Ulloa, the club&#8217;s co-president. 
 
 <br> 
 
-<https://dailytrojan.com/2024/10/15/football-loses-on-final-play-again/>
+<https://dailybruin.com/2025/08/13/first-generation-pre-law-association-aims-to-uplift-underserved-students/>
 
 ---
 
-## Soccer keeps dominating Big Ten competition
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans had a successful weekend with big wins over Illinois and Northwestern.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/soccer-keeps-dominating-big-ten-competition/">Soccer keeps dominating Big Ten competition</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
+Justine Farrell, the chair of the marketing department at the University of San Diego’s Knauss School of Business, continued her testimony Wednesday.
+She said that, based on impression data from Cision, Klein’s media appearances – including him speaking about his administrative leave on Fox News multiple times – created “substantial media attention” around the situation, while the email announcing his leave which was sent to Anderson School of Management students did not. 
 
 <br> 
 
-<https://dailytrojan.com/2024/10/15/soccer-keeps-dominating-big-ten-competition/>
+<https://dailybruin.com/2025/08/13/491934/>
 
 ---
 
-## East LA community pushes back on HSC expansion
+## Kappa Sigma fraternity suspended following Student Group Conduct Code violations
 
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-<p>The City Council-approved research facility has seen rallies, emails and appeals.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/city-council-approves-development-of-health-sciences-campus-research-hub/">East LA community pushes back on HSC expansion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
+<em>This post was updated Aug. 14 at 8:12 p.m.</em>
+UCLA has suspended the campus’s chapter of Kappa Sigma until May 2030 for violating policies relating to hazing, alcohol and safety. 
 
 <br> 
 
-<https://dailytrojan.com/2024/10/15/city-council-approves-development-of-health-sciences-campus-research-hub/>
+<https://dailybruin.com/2025/08/13/kappa-sigma-fraternity-suspended-following-student-group-conduct-code-violations/>
 
 ---
 
-## Editorial Cartoon: “Stingy Sorbet”
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-&#160; 
+Mohammed Cato, the director of Title IX at UCLA, testified Tuesday about a Title IX complaint that was made against Klein.
+Cato said the office did not proceed with a formal investigation because the affected parties did not want to come forward. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/editorial-cartoon-stingy-sorbet/>
+<https://dailybruin.com/2025/08/13/491919/>
 
 ---
 
-## The 21st Annual Duck Dash looked to make a splash for local familys in need
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
-
-<p>In Santa Clarita&#8217;s triple-digit heat, the Samuel Dixon Family Health Center held&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-21st-annual-duck-dash-looked-to-make-splash-for-local-familys-in-need/">The 21st Annual Duck Dash looked to make a splash for local familys in need</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
+Justine Farrell, the chair of the marketing department at the University of San Diego&#8217;s Knauss School of Business, said Tuesday during testimony that information from the media analytics platform Cision, Anderson School of Management social media accounts and UCLA email metrics indicated that Klein’s actions following his administrative leave garnered greater attention about the situation than UCLA’s response. 
 
 <br> 
 
-<https://canyonsnews.com/the-21st-annual-duck-dash-looked-to-make-splash-for-local-familys-in-need/>
+<https://dailybruin.com/2025/08/13/491917/>
 
 ---
 
-## Q&A: Drake Chang talks safety practices, AI amid Cybersecurity Awareness Month
+## It just got easier to make an archival copy of that website you’re digging into
 
-date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-13, from: Nieman Journalism Lab
 
-Drake Chang, UCLA&#8217;s chief information security officer, sat down with Daily Bruin contributor Catherine Wang to discuss his team&#8217;s October campaign for Cybersecurity Awareness Month.
-Chang began as a technology analyst for UCLA Humanities in 2011 and was appointed chief information security officer in January, witnessing many changes in the cybersecurity landscape at UCLA. 
+It&#8217;s a tough time to be interested in archiving the web — arguably the most transient medium for news since the birth of radio. On Monday, Reddit announced it would begin blocking the Internet Archive&#8217;s Wayback Machine from crawling the site to make an archival copy. Wayback is the closest thing we have — as... 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/qa-drake-chang-talks-safety-practices-ai-amid-cybersecurity-awareness-month/>
+<https://www.niemanlab.org/2025/08/it-just-got-easier-to-make-an-archival-copy-of-that-website-youre-digging-into/>
 
 ---
 
-## Op-ed: Anti-Zionism is an often discriminatory act, has no place on campus
+## How tribal radio stations are preparing for a future without the Corporation for Public Broadcasting
 
-date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-13, from: Nieman Journalism Lab
 
-College is for open and civilized debate, not threats and intimidation. In an era where university campuses should serve as bastions of intellectual freedom and inclusivity, Jewish faculty and students across America are facing a rising tide of hostility, much of it under the guise of anti-Zionism. 
+In the most remote parts of Alaska, staying in touch can involve a bit more effort than sending a text. Cell service is spotty, highways are nonexistent, and the postal service remains a vital lifeline, delivering supplies and mail by plane. But for anyone who wants to broadcast a different kind of message — a... 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/op-ed-anti-zionism-is-an-often-discriminatory-act-has-no-place-on-campus/>
+<https://www.niemanlab.org/2025/08/how-tribal-radio-stations-are-preparing-for-a-future-without-the-corporation-for-public-broadcasting/>
 
 ---
 
-## Men’s waterpolo bounces back from previous loss to win both games this weekend
+## Mani Bhaumik funds new postdoctoral fellowship, increases intellection freedom
 
-date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-After commemorating the weekend with two wins, the Bruins continue their renewed winning streak.
-No. 2 UCLA men&#8217;s water polo (16-1, 1-1 MPSF) secured two wins this weekend, first claiming an 18-12 victory against  No. 
+<em>This post was updated Aug. 12 at 9:23 p.m.</em>
+Amid the federal government’s freeze of over $500 million of UCLA’s research funding, Mani Bhaumik hopes to support postdoctoral candidates who want to continue researching at UCLA with a new fellowship. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/mens-waterpolo-bounces-back-from-previous-loss-to-win-both-games-this-weekend/>
+<https://dailybruin.com/2025/08/12/mani-bhaumik-funds-new-postdoctoral-fellowship-increases-intellection-freedom/>
 
 ---
 
-## UCLA women’s soccer leaves away double-header with six points after Illinois win
+## Noodle St. joins list of business chains opening Westwood locations
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-The &#8220;Sunday scaries&#8221; following an away double-header can prove difficult for teams.
-But after a season filled with away matches like that of this past weekend, the Bruins were prepared to round out their last road trip of the season. 
+Noodle St., a California-based restaurant chain started by Chinese immigrants in 2017, has opened a location on Weyburn Avenue.
+The Westwood location features an open kitchen that allows customers to watch the chefs pull, cut and shape the noodles that are served. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/ucla-womens-soccer-leaves-away-double-header-with-six-points-after-illinois-win/>
+<https://dailybruin.com/2025/08/12/noodle-st-joins-list-of-business-chains-opening-westwood-locations/>
 
 ---
 
-## Bruinbard takes a stab at understanding political violence in “Julius Caesar”
+## Judge orders Trump administration to restore some of UCLA’s frozen research grants
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA&#8217;s Shakespeare Company &#8211; also known as Bruinbard &#8211;  is stabbing at political violence and its consequences with a rendition of  &#8220;Julius Caesar.&#8221; 
-Bruinbard&#8217;s &#8220;Julius Caesar&#8221; is set to debut with two shows Nov. 
+<em>This post was updated Aug. 13 at 1:17 p.m.</em>
+The Trump administration must restore over a third of the research grants it froze from UCLA, a federal judge ordered Tuesday. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/bruinbard-takes-a-stab-at-understanding-political-violence-in-julius-caesar/>
+<https://dailybruin.com/2025/08/12/judge-orders-trump-administration-to-restore-some-of-uclas-frozen-research-grants/>
 
 ---
 
-## UCLA women’s volleyball succumbs to crosstown rival USC in five-set match
+## Album review: Hayden Silas Anhedönia parts with Ethel Cain in gut-wrenching new album
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-The crosstown rivals teetered for control like a seesaw.
-Just as one end begins to rise, the other one lowers &#8211; ultimately, the ends seem to switch sides. 
+Ethel Cain has left listeners with a gut-wrenching goodbye.
+“Willoughby Tucker, I’ll Always Love You,” the 27-year-old singer-songwriter’s latest studio album, was released Aug. 8 and features 10 heartbreakingly beautiful songs. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/14/ucla-womens-volleyball-succumbs-to-crosstown-rival-usc-in-five-set-match/>
+<https://dailybruin.com/2025/08/12/album-review-hayden-silas-anhednia-parts-with-ethel-cain-in-gut-wrenching-new-album/>
 
 ---
 
-## The SCV celebrates Filipino American history month with a colorful festival.
+## Leslie Lee dives further into fantasy with latest novel ‘The Ashwalker’
 
-date: 2024-10-14, from: The Canyon News (COC Student Newspaper)
+date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-<p>It&#8217;s a celebration of vibrant colors, rhythmic beats, and deep-rooted traditions. At&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-scv-celebrates-filipino-american-history-month-with-a-colorful-festival/">The SCV celebrates Filipino American history month with a colorful festival.</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
+Leslie Lee  is working to make reading magical again.
+The Fresno, California-based author&#8217;s latest novel, &#8220;The Ashwalker,&#8221; is the third installment of her fantasy series, &#8220;Legends of the Vale,&#8221; which explores a world wrought by conflict between elves and vampires. 
 
 <br> 
 
-<https://canyonsnews.com/the-scv-celebrates-filipino-american-history-month-with-a-colorful-festival/>
+<https://dailybruin.com/2025/08/12/leslie-lee-dives-further-into-fantasy-with-latest-novel-the-ashwalker/>
 
 ---
 
-## ‘Westwood Wander’-themed First Thursdays kicks off October season
+## Politico’s recent AI experiments shouldn’t be subject to newsroom editorial standards, its editors testify
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-12, from: Nieman Journalism Lab
 
-Thousands of students gathered in Westwood Village on Oct. 3 for &#8220;Westwood Wander,&#8221; the latest installment of UCLA First Thursdays.
-The evening opened at Broxton Plaza: a newly pedestrianized area that was turned into an interactive center with games, picture opportunities and the distribution of limited-edition First Thursdays T-shirts. 
+Politico has become a testing ground for how AI clauses in union contracts could shape adoption in newsrooms across the U.S. The PEN Guild represents over 250 workers at Politico and its sister publication, energy and environment site E&#38;E News. Earlier this year, the Guild alleged management had violated AI adoption guidelines negotiated into its... 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/westwood-wander-themed-first-thursdays-kicks-off-october-season/>
+<https://www.niemanlab.org/2025/08/politicos-recent-ai-experiments-shouldnt-be-subject-to-newsroom-editorial-standards-its-editors-testify/>
 
 ---
 
-## Petitioners continue seeking employment expansion for undocumented students
+## Why the 2025 election was the “most poorly covered election in modern Canadian history”
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-12, from: Nieman Journalism Lab
 
-<em>This post was updated Oct. 13 at 11:33 p.m.</em>
-An appeals court judge denied a request to order the UC to hire undocumented students.
-Jeffry Umaña Muñoz and Iliana Perez filed a lawsuit against the University on Oct. 
+In the first federal election since news was banned on Meta platforms, Canadians lost out, a new report finds. The 2025 federal election was likely the &#8220;most poorly covered election in modern Canadian history&#8221; due to the erosion of local news and Facebook&#8217;s news ban, according to the Ottawa-based nonpartisan think tank Public Policy Forum... 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/petitioners-continue-seeking-employment-expansion-for-undocumented-students/>
+<https://www.niemanlab.org/2025/08/why-the-2025-election-was-the-most-poorly-covered-election-in-modern-canadian-history/>
 
 ---
 
-## Second Take: Chappell Roan is expressing valid concerns regarding celebrity-fan relationships
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-Chappell Roan’s critics want her to be casual now.
-The summer’s “Femininomenon” Kayleigh Rose Amstutz – better known by her stage name Chappell Roan – has spent the past couple of months igniting discourse about society’s expectations of celebrities. 
+Brian Bergmark, a forensic accountant and business appraiser with experience evaluating economic damages, testified against damage estimates presented by Eric Madsen, an expert witness brought by Klein&#8217;s attorneys who testified earlier in the trial. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/second-take-chappell-roan-is-expressing-valid-concerns-regarding-celebrity-fan-relationships/>
+<https://dailybruin.com/2025/08/11/491857/>
 
 ---
 
-## Lebanese Student Association hosts vigil honoring those affected by recent attacks
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper))
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 11:12 p.m.</em>
-Around 50 people gathered in Bruin Plaza on Thursday night to commemorate lives lost in Lebanon.
-The vigil, hosted by the Lebanese Student Association, comes after Israel invaded southern Lebanon to target Hezbollah, a Lebanese political party and militant group that is firing rockets into northern Israel, according to the Associated Press. 
+Asmara Carbado, a former investigative attorney for UCLA&#8217;s Discrimination Prevention Office, testified about the office’s preliminary assessment into Klein’s email.
+She said that while she believed Klein&#8217;s email response was racially insensitive and reflected “poor judgment,” it did not ultimately affect the sender of the email&#8217;s ability to learn. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/lebanese-student-association-hosts-vigil-honoring-those-affected-by-recent-attacks/>
+<https://dailybruin.com/2025/08/11/491854/>
 
 ---
 
-## Five Things: UCLA vs. Minnesota
+## Disneyland celebrates 70 years of imaginative storytelling, nostalgia and history
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 13 at 10:11 p.m.</em>
-UCLA football (1-5, 0-4 Big Ten) was downed 21-17 by Minnesota (4-3, 2-2) on Saturday at the Rose Bowl. 
+This summer, Disneyland celebrated its 70th anniversary.
+The park&#8217;s celebrations included the debut of its new attraction &#8220;Walt Disney &#8211; A Magical Life&#8221; and additions to both the Main Street Cinema and &#8220;it&#8217;s a small world&#8221; ride, according to the Walt Disney Company website. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/five-things-ucla-vs-minnesota/>
+<https://dailybruin.com/2025/08/11/disneyland-celebrates-70-years-of-imaginative-storytelling-nostalgia-and-history/>
 
 ---
 
-## Editorial Cartoon: “Packing for College”
+## Outside Lands 2025: Day 3’s FINNEAS, Hozier deliver ultimate festival finale
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-&#160; 
+Fans brought all their energy for the final day of Outside Lands.
+Festivalgoers rolled into the third day of the Golden Gate Park festival ready to see a whole new slew of artists, from fun DJ sets at SOMA stage to indie bands performing at the iconic Lands End stage. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/editorial-cartoon-packing-for-college/>
+<https://dailybruin.com/2025/08/11/outside-lands-2025-day-3s-finneas-hozier-deliver-ultimate-festival-finale/>
 
 ---
 
-## UCLA’s annual Westwood Block Party kickstarts school year, highlights community
+## Can nonprofit news mix with local TV? A Pennsylvania partnership aims to find out
 
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-11, from: Nieman Journalism Lab
 
-UCLA hosted the annual Westwood Village Block Party with games, local food vendors and merchandise on Sept. 22.
-The block party included activities such as a ferris wheel and a bounce house, while providing students with discounted food and merchandise from both UCLA and surrounding Westwood businesses. 
+One of my favorite Nieman Lab predictions in recent years came from Nik Usher, associate professor of communication studies at the University of San Diego. The prediction, “The future-of-journalism crowd stops ignoring local TV news,” used the film Mean Girls as an analogy to describe local news types. Usher describes how the “freaks and geeks”... 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/uclas-annual-westwood-block-party-kickstarts-school-year-highlights-community/>
+<https://www.niemanlab.org/2025/08/can-nonprofit-news-work-on-local-tv-a-pennsylvania-partnership-aims-to-find-out/>
 
 ---
 
-## A conversation with Grammy-award winning jazz musician, John Beasley
+## Alden Global Capital is still trying to get its hands on The Dallas Morning News
 
-date: 2024-10-14, from: The Sundail (CSUN Student Newspaper)
+date: 2025-08-11, from: Nieman Journalism Lab
 
-The Sundial was able to sit down with Grammy-award winning jazz musician, John Beasley, to discuss his careers and his recent event, where he conducted the CSUN Jazz Band A... 
+Alden Global Capital sure is confused a lot lately. The vulturous hedge fund has kindly offered to pillage The Dallas Morning News, just as it&#8217;s pillaged the other newspapers it&#8217;s bought over the past decade-plus. But the paper&#8217;s owners and executives don&#8217;t seem keen on the idea! Weird, right? And now Alden is &#8220;perplexed&#8221; that... 
 
 <br> 
 
-<https://sundial.csun.edu/186189/arts-entertainment/a-conversation-with-grammy-award-winning-jazz-musician-john-beasley/>
+<https://www.niemanlab.org/2025/08/alden-global-capital-is-still-trying-to-get-its-hands-on-the-dallas-morning-news/>
 
 ---
 
-## Jazz music fills the Soraya as John Beasley conducts CSUN Jazz Bands A and B in concert
+## Japan’s largest newspaper, Yomiuri Shimbun, sues AI startup Perplexity for copyright violations
 
-date: 2024-10-14, from: The Sundail (CSUN Student Newspaper)
+date: 2025-08-11, from: Nieman Journalism Lab
 
-The sounds of jazz music filled the Great Hall of the Soraya on Friday, Oct. 4 as a large crowd filled the seats to watch two-time GRAMMY-Award winning musician, John... 
+The Yomiuri Shimbun, Japan’s largest newspaper by circulation, has sued the generative AI startup Perplexity for copyright infringement. The lawsuit, filed in Tokyo District Court on August 7, marks the first copyright challenge by a major Japanese news publisher against an AI company. The filing claims that Perplexity accessed 119,467 articles on Yomiuri&#8217;s site between... 
 
 <br> 
 
-<https://sundial.csun.edu/186179/arts-entertainment/jazz-music-fills-the-soraya-as-john-beasley-conducts-csun-jazz-bands-a-and-b-in-concert/>
+<https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/>
 
 ---
 
-## USAC recap – Oct. 8
+## Dancy and energetic: Tyler, The Creator, Wallows perform at Outside Lands day 2
 
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 13 at 11:32 p.m.</em>
-The Undergraduate Students Association Council held its second meeting of October on Tuesday.
-USAC is the official student government representing the undergraduate student body at UCLA. 
+San Francisco crowds showed up in full force Saturday for day two of Outside Lands.
+Although the festival grounds were significantly foggier than they were on Friday, festivalgoers still brought the energy as they explored new artists across a variety of stages and genres. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/usac-recap-oct-8-2/>
+<https://dailybruin.com/2025/08/10/dancy-and-energetic-tyler-the-creator-wallows-perform-at-outside-lands-day-2/>
 
 ---
 
-## UCLA alumnus arrested for illegal possession of arms near Trump rally
+## Man arrested for stealing posters, carrying weapons on UCLA’s campus
 
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 13 at 11:18 p.m.</em>
-A UCLA alumnus was arrested Saturday for a weapons violation outside a campaign rally for former President Donald Trump. 
+<em>This post was updated Aug. 12 at 6:43 p.m.</em>
+UCPD arrested a man who allegedly stole posters of prominent Black figures from Haines Hall while carrying multiple weapons, including a stun gun, on campus Saturday.&#160;
+Brian Royal-Rubin, 37, was charged Tuesday with felony burglary, the violation of civil rights, the possession of a weapon at a university and a hate crime enhancement Jeffrey Chobanian, the acting captain of the UCPD administrative and operations bureau, said in an emailed statement. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/ucla-alumnus-arrested-for-illegal-possession-of-arms-near-trump-rally/>
+<https://dailybruin.com/2025/08/10/man-arrested-for-stealing-posters-carrying-weapons-on-uclas-campus/>
 
 ---
 
-## Rising Artists: Singer-songwriter releases help listeners turn a new leaf on fall playlists
+## ‘An attack on knowledge’: UCLA researchers say lifesaving research is in jeopardy
 
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-The winds of change this fall are coming with new additions to listeners&#8217; playlists.
-A collection of alt-pop stars-in-the-making have released new projects recently that are ready for fans&#8217; consumption, while other artists infuse their versions of dance music into the increasingly chilly fall evenings. 
+Dr. Jerzy Kupiec-Weglinski has led organ transplant research at UCLA for nearly three decades.
+Kupiec-Weglinski, the vice chairman of basic science research in the David Geffen School of Medicine&#8217;s surgery department, said his research centers on improving organ transplant surgery outcomes amid the growing demand for transplants as the population ages. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/13/rising-artists-singer-songwriter-releases-help-listeners-turn-a-new-leaf-on-fall-playlists/>
+<https://dailybruin.com/2025/08/09/an-attack-on-knowledge-ucla-researchers-say-lifesaving-research-is-in-jeopardy/>
 
 ---
 
-## Concert review: With hyper beats, Porter Robinson paints “SMILE! :D” on numerous faces
+## Outside Lands 2025: Day 1 artists captivate crowds with strong setlists, vibrant visuals
 
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2025-08-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 13 at 8:20 p.m.</em>
-Editor&#8217;s note: This article contains references to suicide.
-Porter Robinson delivered an energized performance with a “SMILE! 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/concert-review-with-hyper-beats-porter-robinson-paints-smile-d-on-numerous-faces/>
-
----
-
-## Golden Gophers burrow Bruins’ lead with last-minute touchdown in Rose Bowl loss
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-Ethan Garbers wasn’t scheduled to start an hour before Saturday’s kickoff.&#160;
-But on the Bruins’ first drive, the redshirt senior quarterback took the field.&#160;
-And on UCLA’s final drive –&#160;with 27 seconds left on the clock – Garbers was the team’s last hope.&#160;
-However, the seasoned signal-caller was depleted of his magic tricks by the fourth quarter.&#160;
-With seven seconds to play, Garbers tossed deep into the night –&#160;and right into the hands of defensive back Koi Perich –&#160;for his third interception of the game.&#160;
-As UCLA football (1-5, 0-4 Big Ten) lived and died by its veteran quarterback, Minnesota (4-3, 2-2) emerged victorious 21-17 at the Rose Bowl on Saturday night.&#160;
-“This is a tough loss, so this one’s going to sting a little bit,” said coach DeShaun Foster. 
+Crowds rolled into Golden Gate Park this weekend for the annual Outside Lands festival.
+Hosted from Aug. 8-10, the festival expects over 225,000 attendees to come and enjoy more than 110 artists throughout the three-day experience. 
 
 <br> 
 
-<https://dailybruin.com/2024/10/12/golden-gophers-burrow-bruins-lead-with-last-minute-touchdown-in-rose-bowl-loss/>
-
----
-
-## UCLA cross country makes strides at final competition before Big Ten Championships
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 10:05 p.m.</em>
-Making a season debut less than a month before the Big Ten championships is a risk.
-But graduate student Michael Mireles and senior Mia Kane don&#8217;t seem too concerned. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/ucla-cross-country-makes-strides-at-final-competition-before-big-ten-championships/>
-
----
-
-## Women’s volleyball to take on crosstown rival USC upon return to LA
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-One of the first things UCLA athletes prepare for  upon stepping foot in Westwood is the crosstown rivalry.
-Freshman outside hitter Kiki Horne is one of nine Bruins gearing up for their first battle against the Trojans. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/womens-volleyball-to-take-on-crosstown-rival-usc-upon-return-to-la/>
+<https://dailybruin.com/2025/08/09/outside-lands-2025-day-1-artists-captivate-crowds-with-strong-setlists-vibrant-visuals/>
 

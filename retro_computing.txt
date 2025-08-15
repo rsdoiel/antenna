@@ -9,6 +9,7 @@ http://riscosblog.huber-net.de/feed/ "~Hubersn RISC OS blog"
 https://riscosbits.blog/feed/ "~Riscosbits Blog"
 https://www.iconbar.com/rss-rss20.php "~Icon Bar, RISC OS News"
 https://www.acornarcade.com/rss-rss20.php "~Acorn Arcade"
+https://paolozaino.wordpress.com/feed/ "~Pablo Fabio Zaino blog"
 
 # Blogs including programming on RISC OS
 https://paolozaino.wordpress.com/feed/ "~Paola Zaino's blog"
@@ -19,8 +20,9 @@ https://www.c64os.com/feed/ "~C64 OS Blog"
 
 # Pascal Machines, Modula and Oberon
 http://pascal.hansotten.com/feed/ "~Hans Otten's Pascal for small machines"
-http://www.hansotten.com/feed/ "~Han's Otten Blog"
-https://freepages.modula2.org/rss/fmp.rss "~Freepages, Module-2.org"
+#http://www.hansotten.com/feed/ "~Hans Otten's Blog" # is no more as of 2024-10-30 redirects to http://retro.hansotten.nl/
+http://retro.hansotten.nl/feed/ "~Hans Otten's Retro blog"
+#https://freepages.modula2.org/rss/fmp.rss "~Freepages, Module-2.org"
 
 # DOS and CP/M
 https://sourceforge.net/p/freedos/news/feed.rss "~FreeDOS News"

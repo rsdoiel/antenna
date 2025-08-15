@@ -19,9 +19,7 @@
 <nav>
 <ul>
 	<li><a href="../../">The Antenna</a></li>
-	<li><a href="../../snapshots/" title="Somedays daily">Snapshots</a></li>
 	<li><a href="../">Archives</a></li>
-	<li><a href="../../search.html">Search</a></li>
 	<li><a href="../../about.html">About</a></li>
 </ul>
 </nav>
@@ -31,7 +29,1506 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2024-09-03 10:31:57)</p>
+<p>(date: 2024-09-08 07:41:23)</p>
+<hr />
+<h2 id="shania-twain">Shania Twain</h2>
+<p>date: 2024-09-08, from: Dan Rather’s Steady</p>
+<p>A Reason To Smile</p>
+<p><a href="https://steady.substack.com/p/shania-twain"
+class="uri">https://steady.substack.com/p/shania-twain</a></p>
+<hr />
+<h2 id="webdav-no-more">2024-09-08 WebDAV no more</h2>
+<p>date: 2024-09-08, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-09-08-webdav-no-more">
+2024-09-08 WebDAV no more
+</h1>
+<p>
+I must have implemented <a href="http://www.webdav.org/">WebDAV</a> two
+or three times in the last decade or two. Just now I used
+<a href="https://httpd.apache.org/docs/current/mod/mod_dav.html">mod_dav
+for Apache</a> to enable WebDAV for some directories.
+</p>
+<p>
+In theory, it’s great. You can treat the web server as a file server,
+connecting to it and using your regular file manager and text editor,
+using your favourite shell to do things. And if your website already
+uses permissions to restrict access to some locations, you can use the
+same config files to handle the making of changes.
+</p>
+<p>
+In practice, however, the operating systems all have such brittle
+implementations that none of the solutions I had in production ever
+worked well. It doesn’t matter whether it’s Windows’ File Explorer,
+macOS’ Finder, the Gnome virtual file system via Nautilus or something
+else. The only thing that works is the command-line client
+<a href="https://notroj.github.io/cadaver/">cadaver</a>. It’s the best.
+It works. Sooner or later, however, I realize that cadaver is probably
+not the tool I can expect non-technical people to use. It has the same
+user-interface as the old ftp command-line client.
+</p>
+<p>
+I wonder what the issue is. WebDAV is 25 years old. It seems to me that
+something about the process or the spec must have set it up for failure.
+Perhaps it was a complex protocol?
+<a href="https://datatracker.ietf.org/doc/html/rfc2518">RFC 2518</a> for
+WebDAV is from February 1999,
+<a href="https://datatracker.ietf.org/doc/html/rfc2616">RFC 2616</a> for
+HTTP/1.1 is from June 1999. Perhaps the move from HTTP/1.0 to HTTP/1.1
+too away all the thunder. There was the DotCom craze and Web 2.0 and
+what not. Nobody had time for WebDAV? Nobody had a business model for
+WebDAV? People used FTP and SSH and all that for remote file access,
+there was no point doing it using web technology? Or perhaps there
+wasn’t just one library to rule them all and in the darkness bind them?
+</p>
+<p>
+In any case, I think I need to write this down so I don’t fall for it
+again in two years. I’ve been falling for it since 2005. Every wiki of
+mine gets WebDAV support … Looking at my blog it seems that
+<a href="2021-10-18_WebDAV_is_tricky">the last time</a> I spent five
+days to get this right. This time around I’m just tired.
+</p>
+<p>
+Time to disable <code>mod_dav</code> again.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-09-08-webdav"
+class="uri">https://alexschroeder.ch/view/2024-09-08-webdav</a></p>
+<hr />
+<h2 id="caption-contest-bugged">Caption contest: Bugged</h2>
+<p>date: 2024-09-08, from: Robert Reich’s blog</p>
+<p>And last week’s winner</p>
+<p><a href="https://robertreich.substack.com/p/caption-contest-hair"
+class="uri">https://robertreich.substack.com/p/caption-contest-hair</a></p>
+<hr />
+<h2 id="september-7-2024">September 7, 2024</h2>
+<p>date: 2024-09-08, from: Heather Cox Richardson blog</p>
+<p>By rights, tonight’s post should be a picture, but Trump’s behavior
+today merits a marker because it feels like a dramatic escalation of the
+themes we’ve seen for years.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-7-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/september-7-2024</a></p>
+<hr />
+<h2 id="the-invisible-toll-of-pollution">The invisible toll of
+pollution</h2>
+<p>date: 2024-09-08, from: Tracy Durnell Blog</p>
+<p>IVF success drops nearly 40% with air pollution exposure: study by
+Katie Dangerfield (Global News) See also: Moving towards climate
+accountability + It’s ‘almost impossible’ to eliminate toxic PFAS from
+your diet. Here’s what you can do by Tom Perkins (The Guardian)
+Microplastics are infiltrating brain tissue, studies show: ‘There’s
+nowhere left untouched’ by Douglas Main […]</p>
+<p><a
+href="https://tracydurnell.com/2024/09/07/the-invisible-toll-of-pollution/"
+class="uri">https://tracydurnell.com/2024/09/07/the-invisible-toll-of-pollution/</a></p>
+<hr />
+<h2 id="whats-in-your-pills">What’s in your pills?</h2>
+<p>date: 2024-09-08, from: Tracy Durnell Blog</p>
+<p>Supplements are a Rising Cause of Liver Failure by Dr. Jen Gunther
+…the risk of supplement-related liver injury and liver injury severe
+enough that liver transplantation is needed has increased dramatically
+over the past 20 years. Some estimates suggest supplements may cause up
+to 43% of drug-induced liver injury in the United States and 19% […]</p>
+<p><a href="https://tracydurnell.com/2024/09/07/whats-in-your-pills/"
+class="uri">https://tracydurnell.com/2024/09/07/whats-in-your-pills/</a></p>
+<hr />
+<h2 id="september-6-2024">September 6, 2024</h2>
+<p>date: 2024-09-07, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-6-2024-9fc"
+class="uri">https://heathercoxrichardson.substack.com/p/september-6-2024-9fc</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-07, from: Dave Winer’s Scripting
+News)</p>
+<p>Do you think you’ve ever had an online chat with an AI impersonating
+a human without you knowing? Have you had such an experience with
+someone you know? If no, when do you think you will have such a
+conversation? Would you mind if a friend used an AI to front for them,
+so they could do other things while they were “chatting” with you? Would
+you be liable for anything your avatar did or said?</p>
+<p><a href="http://scripting.com/2024/09/07.html#a152059"
+class="uri">http://scripting.com/2024/09/07.html#a152059</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-07, from: Dave Winer’s Scripting
+News)</p>
+<p>Also,
+<a href="https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall">when the
+Berlin Wall came down</a> there were no blogs or podcasts. We got what
+we were given by the news networks and NYT and WSJ.</p>
+<p><a href="http://scripting.com/2024/09/07.html#a144247"
+class="uri">http://scripting.com/2024/09/07.html#a144247</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-07, from: Dave Winer’s Scripting
+News)</p>
+<p>It’s a fascinating moment, somewhat like when the Berlin Wall came
+down. When it happened, we were all in kind of a daze. That wall had
+been there my entire life. No one knew, for many years, what its
+disappearance would mean. Same with the wall betw the Democratic and
+Republican parties. It was still the same US when one or the other was
+in power, there were constants that didn’t change. There was an
+agreement that politics ends at the border. But now, are there two
+parties? What became of the one we call Republican?</p>
+<p><a href="http://scripting.com/2024/09/07.html#a144133"
+class="uri">http://scripting.com/2024/09/07.html#a144133</a></p>
+<hr />
+<h2 id="jony-made-a-button">Jony Made a Button</h2>
+<p>date: 2024-09-07, from: Om Malik blog</p>
+<p>TLDR: Jony Ive’s design agency LoveFrom has reimagined the humble
+button for Moncler, once again proving that for Sir Jony, everything is
+up for reinterpretation. It’s a reminder that innovation often lies in
+refining the familiar, not just inventing the new. Source: Jony Ive’s
+LoveFrom Reinvents a Button With Moncler Key Points: Moncler is a …</p>
+<p><a href="https://om.co/2024/09/07/jony-made-a-button/"
+class="uri">https://om.co/2024/09/07/jony-made-a-button/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-07, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/07/ipod.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The
+next in the series of
+<a href="https://shownotes.scripting.com/podcast0/2024/09/07/furtherDrivingInCanadaHeadingWest.html">podcasts
+from 2004</a>. This one was done driving from Banff to Kelowna, on the
+way to Seattle.</p>
+<p><a href="http://scripting.com/2024/09/07.html#a141701"
+class="uri">http://scripting.com/2024/09/07.html#a141701</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-07, from: Dave Winer’s Scripting
+News)</p>
+<p>I found a bug in
+<a href="https://github.com/scripting/opmlPackage/blob/main/worknotes.md#9724-95957-am-by-dw">opml.visitAll</a>
+in the OPML package I use in various software including Drummer and
+FeedLand. Had to fix it, even though there’s a slight chance of
+breakage.</p>
+<p><a href="http://scripting.com/2024/09/07.html#a140727"
+class="uri">http://scripting.com/2024/09/07.html#a140727</a></p>
+<hr />
+<h2 id="kunai-corne-v3">Kunai Corne V3</h2>
+<p>date: 2024-09-07, from: mrusme blog</p>
+<p>This is a follow-up build log on the <a href="/corne-v3/">Corne
+V3</a> post, in which I finalize the Kunai case.</p>
+<p><a href="https://xn--gckvb8fzb.com/kunai-corne-v3/"
+class="uri">https://xn--gckvb8fzb.com/kunai-corne-v3/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="John">@John</span>’s World
+Wide Wall Display</strong> (date: 2024-09-07, from: John’s World Wide
+Wall Display)</p>
+<p>things to consider</p>
+<p><a
+href="https://johnjohnston.info/blog/bookmark-how-can-i-help-autistic-pupils-develop-more-independence-in-learning-tasks/"
+class="uri">https://johnjohnston.info/blog/bookmark-how-can-i-help-autistic-pupils-develop-more-independence-in-learning-tasks/</a></p>
+<hr />
+<h2
+id="the-upcoming-great-debate-the-coffee-klatch-september-7-2024">The
+Upcoming Great Debate: The Coffee Klatch | September 7, 2024</h2>
+<p>date: 2024-09-07, from: Robert Reich’s blog</p>
+<p>With Heather Lofthouse and Yours Truly</p>
+<p><a
+href="https://robertreich.substack.com/p/the-upcoming-great-debate-the-coffee"
+class="uri">https://robertreich.substack.com/p/the-upcoming-great-debate-the-coffee</a></p>
+<hr />
+<h2 id="weeknotes-aug.-31-sept.-6-2024">Weeknotes: Aug. 31-Sept. 6,
+2024</h2>
+<p>date: 2024-09-07, from: Tracy Durnell Blog</p>
+<p>Win of the week: just waiting on the DocuSign for a new project!
+Going to be helping a city communicate new construction &amp; demolition
+waste reporting requirements to developers  Looking forward to: fall
+food! (I made oatmeal this morning even though it got up to 88F 😄)
+Stuff I did: 5.75 hours writing — alas, I […]</p>
+<p><a
+href="https://tracydurnell.com/2024/09/06/weeknotes-aug-31-sept-6-2024/"
+class="uri">https://tracydurnell.com/2024/09/06/weeknotes-aug-31-sept-6-2024/</a></p>
+<hr />
+<h2 id="september-6-2024-1">September 6, 2024</h2>
+<p>date: 2024-09-07, from: Heather Cox Richardson blog</p>
+<p>One of the things that came to light on Wednesday, in the paperwork
+the Justice Department unveiled to explain its seizure of 32 internet
+domains being used by Russian agents in foreign malign influence
+campaigns, was that the six right-wing U.S.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-6-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/september-6-2024</a></p>
+<hr />
+<h2
+id="election-countdown-59-days-to-go-nippon-steel-vs.-the-electoral-college.">Election
+Countdown, 59 Days to Go: Nippon Steel vs. the Electoral College.</h2>
+<p>date: 2024-09-07, from: James Fallows, Substack</p>
+<p>Why is Joe Biden preparing to block the sale of US Steel? For 19
+reasons: Pennsylvania’s 19 electoral votes. That logic may be
+irrefutable in an election year. But it has real costs.</p>
+<p><a
+href="https://fallows.substack.com/p/election-countdown-59-days-to-go"
+class="uri">https://fallows.substack.com/p/election-countdown-59-days-to-go</a></p>
+<hr />
+<h2 id="more-on-spotify-connect-and-iphone-volume-buttons">More on
+Spotify Connect and iPhone Volume Buttons</h2>
+<p>date: 2024-09-06, updated: 2024-09-08, from: Daring Fireball</p>
+<p><a
+href="https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls"
+class="uri">https://www.theverge.com/2024/8/29/24231516/spotify-apple-physical-iphone-volume-controls</a></p>
+<hr />
+<h2 id="tom-gauld-and-richard-scarry-on-cars-of-the-future.">Tom Gauld
+(and Richard Scarry) on cars of the future….</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045239-tom-gauld-and-richard-sca"
+class="uri">https://kottke.org/24/09/0045239-tom-gauld-and-richard-sca</a></p>
+<hr />
+<h2 id="live-video-of-promachoteuthis-squid">Live Video of
+Promachoteuthis Squid</h2>
+<p>date: 2024-09-06, updated: 2024-09-04, from: Bruce Schneier blog</p>
+<p>
+The first
+<a href="https://schmidtocean.org/new-seamount-and-previously-unknown-species-discovered-in-high-priority-area-for-international-marine-protection/">live
+video</a> of the Promachoteuthis squid, filmed at a newly discovered
+seamount off the coast of Chile.
+</p>
+<p>
+<a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog
+moderation policy.</a>
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/09/live-video-of-promachoteuthis-squid.html"
+class="uri">https://www.schneier.com/blog/archives/2024/09/live-video-of-promachoteuthis-squid.html</a></p>
+<hr />
+<h2
+id="hokusais-the-great-wave-now-on-display-at-the-art-institute-of-chicago">Hokusai’s
+The Great Wave Now on Display at the Art Institute of Chicago</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/hokusais-the-great-wave-now-on-display-at-the-art-institute-of-chicago"
+class="uri">https://kottke.org/24/09/hokusais-the-great-wave-now-on-display-at-the-art-institute-of-chicago</a></p>
+<hr />
+<h2
+id="the-open-book-in-wigtown-scotland-is-a-rental-place-available-on">The
+Open Book in Wigtown, Scotland is a rental place (available on…</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045232-the-open-book-in-wigtown"
+class="uri">https://kottke.org/24/09/0045232-the-open-book-in-wigtown</a></p>
+<hr />
+<h2
+id="harris-and-walz-intentionally-or-not-are-projecting-something-different-a-sitcom">“Harris
+and Walz, intentionally or not, are projecting something different: a
+sitcom…</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045235-harris-and-walz-intention"
+class="uri">https://kottke.org/24/09/0045235-harris-and-walz-intention</a></p>
+<hr />
+<h2 id="i-know-some-of-you-are-k-12-educators-the-excellent-the">I know
+some of you are K-12 educators — the excellent The…</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045238-i-know-some-of-you"
+class="uri">https://kottke.org/24/09/0045238-i-know-some-of-you</a></p>
+<hr />
+<h2 id="september-5-2024">September 5, 2024</h2>
+<p>date: 2024-09-06, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-5-2024-5f5"
+class="uri">https://heathercoxrichardson.substack.com/p/september-5-2024-5f5</a></p>
+<hr />
+<h2 id="why-journalism-doesnt-come-back">Why journalism doesn’t come
+back</h2>
+<p>date: 2024-09-06, from: Dave Winer’s Scripting News</p>
+<p>
+There’s a difference betw journalism in 2023 and 2024, it really is
+changing that quickly. They are a mechanism for delivering some really
+tragic lies now, without correction, and a lot of people will believe
+them. Esp the two Trump is pushing now about
+<a href="https://www.poynter.org/fact-checking/2024/trump-abortion-roe-wade-overturned/">Roe
+v Wade</a> and
+<a href="https://www.yahoo.com/news/trump-keeps-saying-some-states-allow-the-execution-of-babies-after-birth-they-dont-heres-how-that-falsehood-got-started-201129756.html">Democratic
+states killing live babies</a>. This isn’t a fumbling Trump, the words
+were written for him, he’s rehearsed them, they’re powerful lies, and
+journalism is carrying it. When they comment, it’s far away from the
+lie. They’ll let him on again and again to lie.
+</p>
+<p>
+The first time they carried his lies we could excuse it, but not the
+50th. They invited him to speak on their air to transmit lies.
+Transmitting lies is the <i>opposite</i> of what news does.
+</p>
+<p>
+That means all the idealism we see in
+<a href="http://scripting.com/2024/09/04.html#a153237">The Newsroom</a>
+was for nothing, we now know how it ended. I don’t think this has caught
+up with most people yet, and it’s not something the journalists are
+going to report on, so realization may come slowly – but it happened
+nonetheless.
+</p>
+<p>
+We’d be fools if we believe anything that comes from channels that
+broadcast lies.
+</p>
+<p>
+That’s what’s so sad about The Newsroom. Their thesis was that an
+always-striving-to-be-true journalism that goes to jail to protect
+sources, the Woodward Bernstein, Edward R Murrow, amazing American news,
+what we were told we grew up with, probably wasn’t even remotely true in
+2011 when it was broadcast, and any pretense of it covering the truth in
+2024, is gone.
+</p>
+<p>
+A program like The Newsroom has a new context, it’s no longer a light
+feel-good comedy, today it’s a tragedy.
+</p>
+<p><a
+href="http://scripting.com/2024/09/06/165018.html?title=whyJournalismDoesntComeBack"
+class="uri">http://scripting.com/2024/09/06/165018.html?title=whyJournalismDoesntComeBack</a></p>
+<hr />
+<h2 id="big-hockey-players-itty-bitty-rink">Big Hockey Players,
+Itty-Bitty Rink</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/big-hockey-players-itty-bitty-rink"
+class="uri">https://kottke.org/24/09/big-hockey-players-itty-bitty-rink</a></p>
+<hr />
+<h2
+id="dark-energy-which-most-physicists-have-long-held-to-be-unchanging-may">“Dark
+energy, which most physicists have long held to be unchanging, may…</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045206-dark-energy-which-most-ph"
+class="uri">https://kottke.org/24/09/0045206-dark-energy-which-most-ph</a></p>
+<hr />
+<h2 id="the-ios-continental-drift-widens">★ The iOS Continental Drift
+Widens</h2>
+<p>date: 2024-09-06, updated: 2024-09-07, from: Daring Fireball</p>
+<p>What’s happening with Apple Intelligence and iPhone Screen Sharing
+this year is what I expect to happen with every new product or service
+Apple creates that integrates with iOS: they will come late, or never,
+to the EU.</p>
+<p><a
+href="https://daringfireball.net/2024/09/the_ios_continental_drift_widens"
+class="uri">https://daringfireball.net/2024/09/the_ios_continental_drift_widens</a></p>
+<hr />
+<h2
+id="todays-jobs-report-what-it-means-for-the-fed-and-politics">Today’s
+jobs report: What it means for the Fed and politics</h2>
+<p>date: 2024-09-06, from: Robert Reich’s blog</p>
+<p>Friends,</p>
+<p><a
+href="https://robertreich.substack.com/p/todays-jobs-report-what-it-means"
+class="uri">https://robertreich.substack.com/p/todays-jobs-report-what-it-means</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Journalism doesn’t come back from the election of 2024, any more than
+the Republican Party does.</p>
+<p><a href="http://scripting.com/2024/09/06.html#a154037"
+class="uri">http://scripting.com/2024/09/06.html#a154037</a></p>
+<hr />
+<h2
+id="elite-athletes-are-using-a-new-baking-soda-formulation-to-boost-athletic">Elite
+athletes are using a new baking soda formulation to boost athletic…</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045209-elite-athletes-are-using-"
+class="uri">https://kottke.org/24/09/0045209-elite-athletes-are-using-</a></p>
+<hr />
+<h2 id="yubikey-side-channel-attack">YubiKey Side-Channel Attack</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Bruce Schneier blog</p>
+<p>
+There is a side-channel attack against YubiKey access tokens that allows
+someone to clone a device. It’s a
+<a href="https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf">complicated
+attack</a>, requiring the victim’s username and password, and physical
+access to their YubiKey—as well as some technical expertise and
+equipment.
+</p>
+<p>
+Still, nice piece of security analysis.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/09/yubikey-side-channel-attack.html"
+class="uri">https://www.schneier.com/blog/archives/2024/09/yubikey-side-channel-attack.html</a></p>
+<hr />
+<h2 id="history-extra-for-september-5-2024">History Extra for September
+5, 2024</h2>
+<p>date: 2024-09-06, from: Heather Cox Richardson blog</p>
+<p>On September 6, 1901, former steel worker Leon Czolgosz shot
+President William McKinley at the Pan-American Exposition, a World’s
+Fair in Buffalo, New York.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/history-extra-for-september-5-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/history-extra-for-september-5-2024</a></p>
+<hr />
+<h2
+id="the-harris-campaign-posted-a-tiktok-of-donald-trump-talking-about-his">The
+Harris campaign posted a TikTok of Donald Trump talking about his…</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045236-the-harris-campaign-poste"
+class="uri">https://kottke.org/24/09/0045236-the-harris-campaign-poste</a></p>
+<hr />
+<h2 id="detailed-miniature-sculptures-of-urban-decay">Detailed Miniature
+“Sculptures of Urban Decay”</h2>
+<p>date: 2024-09-06, updated: 2024-09-06, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay"
+class="uri">https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay</a></p>
+<hr />
+<h2 id="reactions">2024-09-06 Reactions</h2>
+<p>date: 2024-09-06, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-09-06-reactions">
+2024-09-06 Reactions
+</h1>
+<p>
+Reactions are an interesting thing. Even simple ❤️ or ⭐ reactions have
+an effect on how we communicate. Do we feel appreciated? Heard? Is this
+the end of the conversation? The replies get shorter, it’s time to say
+good-bye, the last message gets a “like” and we’re done.
+</p>
+<p>
+My first contact with reactions was Twitter and Facebook, I think. Both
+accounts have been deleted.
+</p>
+<p>
+On <a href="https://signal.org/">Signal</a> and
+<a href="https://discord.com/">Discord</a>, I noticed people using
+reactions in my gaming groups. There is no notification for these
+reactions.
+</p>
+<div class="chat">
+<style>
+.chat {
+    padding: 20px; }
+.chat p {
+    color: #000;
+    padding: 3px 1ch;
+    max-width: 50ch;
+    width: max-content;
+    border-radius: 6px; border: 1px outset #eee; }
+.chat span {
+    display: inline-block;
+    background-color: #eee;
+    padding: 2px 3px;
+    margin: 2px;
+    border-radius: 6px; border: 1px outset #eee; }
+}
+</style>
+<p>
+Alex 🌈 🦄 🧞 Sound engineer be engineering the sound!<br>    <span>🎵
+1</span> <span>🛠️ 2</span> <span>👍 1</span>
+</div>
+<p>
+On <a href="https://threema.ch/">Threema</a>, on the other hand, where
+most of my friends and family are, there’s just 👍 and 👎 and
+practically nobody uses it. People just reply with emojis instead of
+reacting with emojis. These being ordinary messages ensure that I get
+notified.
+</p>
+<div class="chat">
+<style>
+.chat .me {
+    background: #ddd;
+    margin: 1pt 5ch 1pt 0; }
+.chat .you {
+    background: #8fd;
+    margin: 1pt auto 1pt 5ch; }
+</style>
+<p class="me">
+Look at this, it says “bananen” but for a moment I thought it said
+“banomen”.
+<p class="you">
+🤔
+<p class="me">
+Like “baverben”. 😂
+<p class="you">
+🤨
+</div>
+<p>
+The user interface issue for reactions is tricky in chat, because
+reactions are associated with the message and don’t trigger their own
+notification. I think this is fine but the result is that only immediate
+reactions are useful. If somebody goes through older messages of mine to
+react to them, I won’t see them. They’ve scrolled of my screen.
+</p>
+<p>
+Reactions in <a href="https://en.wikipedia.org/wiki/Fediverse">fedi</a>
+clients where they repeat the message being reacted to and they are
+aggregated and grouped per day (like in
+<a href="https://apps.apple.com/us/app/toot-for-mastodon/id1229021451">Toot!</a>),
+they work surprisingly well.
+</p>
+<p>
+In a corporate context, for email, as implemented by Microsoft in
+Outlook, for example, I feel that reactions are not cool. At work,
+people started reacting with 👍 instead of writing back “I agree” and
+now I can’t just look at my inbox, I get a new notification sidebar with
+notifications to watch, and since there’s not enough context to the
+reaction in the sidebar, I have to click through and look at the old
+email again. This is wasting my time using a bad user interface and it
+feels disrespectful because it brings reactions from a friends and
+family context (where I appreciate them) into my work context (where I
+do not).
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Social_Media">#Social Media</a>
+</p>
+<p>
+<strong>2024-09-06</strong>.
+<a href="https://idiomdrottning.org/likes-and-reactions">Likes and
+Reactions</a> by
+<a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org"><span
+class="citation" data-cites="Sandra">@Sandra</span></a>.
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-09-06-reactions"
+class="uri">https://alexschroeder.ch/view/2024-09-06-reactions</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-06, from: Dave Winer’s Scripting
+News)</p>
+<p>I got a beautiful new
+<a href="https://store.google.com/us/product/pixel_9_pro">Pixel 9
+Pro</a> yesterday. It was amazingly easy to move the data from the old
+phone to the new one. Just turn both on near each other, and click a
+couple of dialogs. Haven’t used it for anything yet. Will report.</p>
+<p><a href="http://scripting.com/2024/09/06.html#a131022"
+class="uri">http://scripting.com/2024/09/06.html#a131022</a></p>
+<hr />
+<h2
+id="quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop">Quick
+tip: using flatMap() to extract data from a huge set without any
+loop</h2>
+<p>date: 2024-09-06, from: Chris Heilmann’s blog</p>
+<p>I just created a massive dataset of all the AI generated metadata of
+the videos of the WeAreDeveloper World Congress and I wanted to extract
+only the tags. The dataset is a huge array with each item containing a
+description, generated title, an array of tags, the original and their
+title, like this: { “description”: […]</p>
+<p><a
+href="https://christianheilmann.com/2024/09/06/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop/"
+class="uri">https://christianheilmann.com/2024/09/06/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop/</a></p>
+<hr />
+<h2
+id="spreading-the-truth-about-the-2024-election-video-1-trumps-project-2025">Spreading
+the Truth about the 2024 election (Video #1: Trump’s Project 2025)</h2>
+<p>date: 2024-09-06, from: Robert Reich’s blog</p>
+<p>Please share!</p>
+<p><a
+href="https://robertreich.substack.com/p/spreading-the-truth-about-the-2024"
+class="uri">https://robertreich.substack.com/p/spreading-the-truth-about-the-2024</a></p>
+<hr />
+<h2
+id="no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papersconference-agendas">No
+more “Expert, Intermediate, Beginner”: Classifying talks in Call for
+Papers/Conference agendas</h2>
+<p>date: 2024-09-06, from: Chris Heilmann’s blog</p>
+<p>I am currently working on creating the new Call for Papers for the
+next WeAreDevelopers World Congress and one of the feedback items we got
+was that levels like “Expert, Intermediate and Beginner” don’t make much
+sense. First of all, speakers do not choose the right level as they are
+worried that a beginner or […]</p>
+<p><a
+href="https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/"
+class="uri">https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/</a></p>
+<hr />
+<h2 id="september-5-2024-1">September 5, 2024</h2>
+<p>date: 2024-09-06, from: Heather Cox Richardson blog</p>
+<p>The U.S.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-5-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/september-5-2024</a></p>
+<hr />
+<h2 id="friday-6-september-2024">Friday 6 September, 2024</h2>
+<p>date: 2024-09-05, from: John Naughton’s online diary</p>
+<p>The Bridge Crossing the Severn last Sunday. Quote of the Day I stand
+against confiscatory taxes, totalitarian collectives and the ideology of
+the inevitability of the death of every individual. I no longer believe
+that freedom and democracy are compatible.” …
+<a href="https://memex.naughtons.org/friday-6-september-2024/39837/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><a href="https://memex.naughtons.org/friday-6-september-2024/39837/"
+class="uri">https://memex.naughtons.org/friday-6-september-2024/39837/</a></p>
+<hr />
+<h2 id="feds-say-russia-is-meddling-again">Feds Say Russia is Meddling
+Again</h2>
+<p>date: 2024-09-05, from: Dan Rather’s Steady</p>
+<p>Who exactly is on the ballot — Trump or Putin?</p>
+<p><a
+href="https://steady.substack.com/p/feds-say-russia-is-meddling-again"
+class="uri">https://steady.substack.com/p/feds-say-russia-is-meddling-again</a></p>
+<hr />
+<h2
+id="an-introduction-to-the-latest-iteration-of-dynamiclands-realtalk-a-prototype-of">An
+introduction to the latest iteration of Dynamicland’s Realtalk, a
+prototype of…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045234-an-introduction-to-the-la"
+class="uri">https://kottke.org/24/09/0045234-an-introduction-to-the-la</a></p>
+<hr />
+<h2 id="out-of-time">Out of Time</h2>
+<p>date: 2024-09-05, from: Om Malik blog</p>
+<p>We are now living in a time of half-truths and a
+looming information crisis. The main strength of old media companies is
+their name and role as arbiters of truth and facts. This means they must
+avoid acts that harm their name and trust. Sadly, fewer and fewer
+media firms grasp this idea.  The New York Times risks alienating its
+core “blue state” audience by publishing provocative headlines aimed at
+generating traffic, potentially jeopardizing long-term loyalty. This
+approach may cheapen the newspaper’s brand. A recent example of a …</p>
+<p><a href="https://om.co/2024/09/05/out-of-time/"
+class="uri">https://om.co/2024/09/05/out-of-time/</a></p>
+<hr />
+<h2
+id="cars-have-fucked-up-this-country-bad.-on-average-america-is-an">Cars
+Have Fucked Up This Country Bad. “On average, America is an…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045233-cars-have-fucked-up-this"
+class="uri">https://kottke.org/24/09/0045233-cars-have-fucked-up-this</a></p>
+<hr />
+<h2 id="a-working-thumper-from-dune-built-out-of-lego.-working-as-in">A
+working thumper from Dune built out of Lego. (Working as in…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045228-a-working-thumper-from-du"
+class="uri">https://kottke.org/24/09/0045228-a-working-thumper-from-du</a></p>
+<hr />
+<h2
+id="reminder-tomorrow-starts-our-video-series-spreading-the-truth-about-the-2024-election-for-you-to-share">Reminder:
+Tomorrow starts our video series “Spreading the Truth About the 2024
+Election,” for you to share!</h2>
+<p>date: 2024-09-05, from: Robert Reich’s blog</p>
+<p>Video #1 will be posted tomorrow morning, right here.</p>
+<p><a
+href="https://robertreich.substack.com/p/reminder-tomorrow-starts-our-video"
+class="uri">https://robertreich.substack.com/p/reminder-tomorrow-starts-our-video</a></p>
+<hr />
+<h2 id="history-extra-for-september-4-2024">History Extra for September
+4, 2024</h2>
+<p>date: 2024-09-05, from: Heather Cox Richardson blog</p>
+<p>In his Farewell Address, the nation’s first president, George
+Washington warned of the dangers of foreign entanglements.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/history-extra-for-september-4-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/history-extra-for-september-4-2024</a></p>
+<hr />
+<h2
+id="einsteins-nuclear-warning-letter-to-fdr-up-for-auction">Einstein’s
+Nuclear Warning Letter to FDR Up For Auction</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/einsteins-nuclear-warning-letter-to-fdr-up-for-auction"
+class="uri">https://kottke.org/24/09/einsteins-nuclear-warning-letter-to-fdr-up-for-auction</a></p>
+<hr />
+<h2
+id="spotify-wants-to-use-iphone-volume-buttons-to-control-connected-devices-but-refuses-to-support-airplay-which-would-solve-the-problem">Spotify
+Wants to Use iPhone Volume Buttons to Control Connected Devices, But
+Refuses to Support AirPlay, Which Would Solve the Problem</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Daring Fireball</p>
+<p><a
+href="https://techcrunch.com/2024/08/29/spotify-points-finger-at-apple-over-an-unwelcome-change-to-volume-control-technology/"
+class="uri">https://techcrunch.com/2024/08/29/spotify-points-finger-at-apple-over-an-unwelcome-change-to-volume-control-technology/</a></p>
+<hr />
+<h2
+id="this-is-a-website-you-can-only-visit-once.-i-mean-technically">This
+is a website you can only visit once. (I mean, technically…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045213-this-is-a-website-you"
+class="uri">https://kottke.org/24/09/0045213-this-is-a-website-you</a></p>
+<hr />
+<h2 id="adaptations">Adaptations</h2>
+<p>date: 2024-09-05, from: Dave Winer’s Scripting News</p>
+<p>
+I asked ChatGPT to adapt two images.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/05/grandpaAndTedCruz.png">
+</center>
+Grandpa from The Munsters and Ted Cruz, US senator from Texas.
+</div>
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/05/adaptationOfTedCruzAndGrandpa.png">
+</center>
+The adaptation is pretty nice.
+</div>
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/05/losPollosHermanos.png">
+</center>
+Another pair, the logo of Los Pollos Hermanos from Breaking Bad.
+</div>
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/05/losPollosAdaptation.png">
+</center>
+The adaptation is thoughtful.
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/09/05/191114.html?title=adaptations"
+class="uri">http://scripting.com/2024/09/05/191114.html?title=adaptations</a></p>
+<hr />
+<h2
+id="crash-course-art-history-a-playlist-of-22-episodes-with-topics-like">Crash
+Course Art History, a playlist of 22 episodes with topics like…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045143-crash-course-art-history-"
+class="uri">https://kottke.org/24/09/0045143-crash-course-art-history-</a></p>
+<hr />
+<h2 id="goodbye-for-now-and-a-diary-comic">Goodbye for Now! And a Diary
+Comic</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/goodbye-for-now-also-diary-comics"
+class="uri">https://kottke.org/24/09/goodbye-for-now-also-diary-comics</a></p>
+<hr />
+<h2
+id="no-way-to-prevent-this-says-only-nation-where-this-regularly-happens.">‘No
+Way To Prevent This,’ Says Only Nation Where This Regularly
+Happens….</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045230-no-way-to-prevent-this-1"
+class="uri">https://kottke.org/24/09/0045230-no-way-to-prevent-this-1</a></p>
+<hr />
+<h2
+id="lies-by-scientists-can-kill-people-falsified-research-on-beta-blockers">Lies
+by scientists can kill people — falsified research on beta
+blockers…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045215-lies-by-scientists-can-ki"
+class="uri">https://kottke.org/24/09/0045215-lies-by-scientists-can-ki</a></p>
+<hr />
+<h2 id="i-never-expected-to-run-for-office-heres-what-i-learned.">I
+Never Expected To Run For Office — Here’s What I Learned….</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045229-i-never-expected-to-run"
+class="uri">https://kottke.org/24/09/0045229-i-never-expected-to-run</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-05, from: Dave Winer’s Scripting
+News)</p>
+<p>I’ve never written a review on Amazon even though I shop there
+regularly. I was about to write a negative review for a product they
+can’t seem to support, that I depend on, but got
+<a href="https://imgs.scripting.com/2024/09/05/amazonReviewPage.png">this
+message</a>. Weird. I bought the product from the page I wanted to
+review it on. How else would they determine if I actually purchased the
+product? They don’t say. They do offer to tell me a joke if I rate
+products I’ve bought. I’ve heard the company isn’t doing that well now
+that Bezos has stepped aside. Hopefully this is just a bad set of
+coincidences.</p>
+<p><a href="http://scripting.com/2024/09/05.html#a162459"
+class="uri">http://scripting.com/2024/09/05.html#a162459</a></p>
+<hr />
+<h2 id="lane-8-season-mixtapes">Lane 8 Season Mixtapes</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/lane-8-season-mixtapes"
+class="uri">https://kottke.org/24/09/lane-8-season-mixtapes</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-05, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2022/12/01/santa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+got a bit of pushback on what I wrote about The Newsroom
+<a href="http://scripting.com/2024/09/04.html#a153237">yesterday</a>. If
+you think it was great, you should watch it again. They got everything
+wrong, imho – and the storytelling is as simple as
+<a href="http://scripting.com/stories/2011/01/01/theWorldIsSocialist.html">Atlas
+Shrugged</a>. If you loved it in 2012, okay – but we’ve all been through
+hell since then. And we know how the news orgs The Newsroom was trying
+to model dealt with the challenge. They folded. They gave up. It’s all
+bullshit. It’s like watching the story of a great war, that we lost. I
+don’t mean bloggers, I mean all of it. If democracy depends on
+journalism, then it’s gone. It can’t come back from what they’re doing
+now. Think of the hair-splitting they did in The Newsroom, even the
+slightest appearance of impropriety. Now they invite politicians on when
+they know they’re going to tell hugely damaging lies about very
+important things. They’re doing the opposite of what journalism is
+supposed to do. They sure as hell don’t care what we think of them. Go
+watch it again. It’s a time capsule that will show you how much you’ve
+learned since those horribly naive days. Maybe I’ll write more about
+this tomorrow.</p>
+<p><a href="http://scripting.com/2024/09/05.html#a154056"
+class="uri">http://scripting.com/2024/09/05.html#a154056</a></p>
+<hr />
+<h2 id="tiny-tricks-for-sorting-out-your-life.-i-did-this-one">100 tiny
+tricks for sorting out your life. I did this one…</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045221-100-tiny-tricks-for-sorti"
+class="uri">https://kottke.org/24/09/0045221-100-tiny-tricks-for-sorti</a></p>
+<hr />
+<h2 id="september-4-2024">September 4, 2024</h2>
+<p>date: 2024-09-05, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-4-2024-390"
+class="uri">https://heathercoxrichardson.substack.com/p/september-4-2024-390</a></p>
+<hr />
+<h2 id="revisiting-the-elm-city-project">Revisiting the Elm City
+project</h2>
+<p>date: 2024-09-05, from: Jonudell blog</p>
+<p>“Communities that want to build comprehensive public calendars will
+be able to do so using a hybrid approach that blends existing iCalendar
+feeds with feeds synthesized from web calendars. It’s not a perfect
+solution, but with LLM assistance it’s a workable one. And who knows,
+maybe if people see what’s possible when information silos converge, …
+<a href="https://blog.jonudell.net/2024/09/05/revisiting-the-elm-city-project/" class="more-link">Continue
+reading <span class="screen-reader-text">Revisiting the Elm City
+project</span></a></p>
+<p><a
+href="https://blog.jonudell.net/2024/09/05/revisiting-the-elm-city-project/"
+class="uri">https://blog.jonudell.net/2024/09/05/revisiting-the-elm-city-project/</a></p>
+<hr />
+<h2 id="long-analysis-of-the-m-209">Long Analysis of the M-209</h2>
+<p>date: 2024-09-05, updated: 2024-09-04, from: Bruce Schneier blog</p>
+<p>
+Really interesting
+<a href="https://chris-intel-corner.blogspot.com/2024/07/the-american-m-209-cipher-machine.html">analysis</a>
+of the American M-209 encryption device and its security.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/09/long-analysis-of-the-m-209.html"
+class="uri">https://www.schneier.com/blog/archives/2024/09/long-analysis-of-the-m-209.html</a></p>
+<hr />
+<h2 id="player-organized-expeditions-into-arden-vul">2024-09-05
+Player-organized expeditions into Arden Vul</h2>
+<p>date: 2024-09-05, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-09-05-player-organized-expeditions-into-arden-vul">
+2024-09-05 Player-organized expeditions into Arden Vul
+</h1>
+<p>
+Back when I read about the
+<a href="https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/">West
+Marches</a> there was one thing I didn’t understand: “There was no
+regular time: every session was scheduled by the players on the fly.”
+</p>
+<p>
+How on earth was this supposed to work? In my world, the
+<a href="2016-07-07_Being_a_RPG_Referee">referee</a> was key. I’d run a
+game every Monday, or every second Sunday, or what have you. It was a
+hallmark of how I saw myself. Back in 2011 I said: “I’m a good host.”
+<a href="2011-08-20_Building_a_Better_GM">Building a Better GM</a> has a
+much longer discussion of this. The key part about this, however, was
+that I set the dates.
+</p>
+<p>
+When I started running an open table on Discord, things started to
+change. I was participating in
+<a href="2023-03-24_Multi-referee_campaigns">multi-referee
+campaigns</a>. At first, I was on a Discord server and ran a game on
+Mondays. Then
+<a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social"><span
+class="citation" data-cites="phf">@phf</span></a> would run game on
+Mondays, too. We’d take turns. Then we got more players and we started
+picking other weekdays because some people couldn’t play on Mondays.
+When I joined a second Discord server, for a second multi-referee
+campaign with
+<a class="account" href="https://rollenspiel.social/@settembrini" title="@settembrini@rollenspiel.social"><span
+class="citation" data-cites="settembrini">@settembrini</span></a> and
+others, scheduling got even more flexible. I was running or playing two
+or three evenings per week, sometimes four.
+</p>
+<p>
+One of the players was
+<a class="account" href="https://dice.camp/@madmoses" title="@MadMoses@dice.camp"><span
+class="citation" data-cites="MadMoses">@MadMoses</span></a>. He is
+involved in other activities and often had scheduling conflicts. He
+started asking me about my gaming intentions: In two weeks time, would I
+be more likely to run a game on Monday or Wednesday? I wasn’t planning
+ahead and said that I’d run on whichever date worked best for him. After
+a while, I realized that his inquiries ensured that he could always make
+it to the game. Almost every session, there was Cédric the illusionist.
+</p>
+<p>
+At the same time, some players weren’t as online as others and I’ve had
+a few situations where somebody said: “I’m offline for like ten minutes
+and by the time I’m back, a game date has been both announced and all
+the available seats have been filled!” It was true. Something needed to
+change.
+</p>
+<p>
+I posted a message saying that Cédric was making it to all the games
+because his player had been organizing game sessions via direct
+messages. If other players wanted to do the same, I said, feel free to
+contact me. And slowly at first but more regularly now, players have
+been contacting me. The players of Ahriman the necromancer and Boris of
+the mountain have asked for dates limited to high-level characters so
+that they could explore the deeper levels of Arden Vul. And now the
+player of Porphyrios and Serapion contacted me, asking for a date where
+one of his characters and Aldon the elf might lead an excavation attempt
+in the ruined city of Arden Vul, since none of the other players seemed
+to be all that interested.
+</p>
+<p>
+And just like that, player-organized expeditions have become a reality,
+in my campaign. We’re 45 sessions into Arden Vul.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23RPG">#RPG</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-09-05-player-organized"
+class="uri">https://alexschroeder.ch/view/2024-09-05-player-organized</a></p>
+<hr />
+<h2 id="a-new-episode-for-internet-office-hours">2024-09-05 A new
+episode for Internet Office Hours</h2>
+<p>date: 2024-09-05, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-09-05-a-new-episode-for-internet-office-hours">
+2024-09-05 A new episode for Internet Office Hours
+</h1>
+<p>
+It’s been quiet as far as podcasting is concerned, but a few days ago we
+recorded another episode of the
+<a href="https://campaignwiki.org/wiki/MontagInZ%C3%BCrich/Internet_Office_Hours">Internet
+Office Hours</a> podcast. We talked about
+<a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/2024-09-01_Maps_and_Mapping">Maps
+and Mapping</a>. This is our 16th regular episode.
+</p>
+<p>
+The podcast is an “open space”. Much like an open table in gaming an
+open space in podcasting means that the cast of speakers changes from
+episode to episode. We all play and run and possibly even write
+role-playing games. At the beginning of the show, everybody present
+proposes a topic in two or three sentences, we pick one of the topics
+and then we talk about it for about an hour.
+</p>
+<p>
+If you’d like to be on this podcast, let us know. We record Sundays,
+20:15 Central European (Summer) Time.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Internet_Office_Hours">#Internet
+Office Hours</a> <a class="tag" href="/search/?q=%23RPG">#RPG</a>
+<a class="tag" href="/search/?q=%23Podcast">#Podcast</a>
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-09-05-ioh"
+class="uri">https://alexschroeder.ch/view/2024-09-05-ioh</a></p>
+<hr />
+<h2 id="the-fate-of-the-ss-united-states-bill-clinton-and-me">The Fate
+of the SS United States, Bill Clinton, and Me</h2>
+<p>date: 2024-09-05, from: Robert Reich’s blog</p>
+<p>We were 22 when we sailed across the Atlantic. Now we’re 78, and the
+SS United States is being evicted from its pier and sunk off the coast
+of Florida.</p>
+<p><a
+href="https://robertreich.substack.com/p/the-ss-united-states-bill-clinton"
+class="uri">https://robertreich.substack.com/p/the-ss-united-states-bill-clinton</a></p>
+<hr />
+<h2 id="september-4-2024-1">September 4, 2024</h2>
+<p>date: 2024-09-05, from: Heather Cox Richardson blog</p>
+<p>Long tonight, folks, but it’s been quite a day.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-4-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/september-4-2024</a></p>
+<hr />
+<h2
+id="liz-cheney-not-only-am-i-not-voting-for-donald-trump-but-i-will-be-voting-for-kamala-harris">Liz
+Cheney: ‘Not Only Am I Not Voting for Donald Trump, but I Will Be Voting
+for Kamala Harris’</h2>
+<p>date: 2024-09-05, updated: 2024-09-05, from: Daring Fireball</p>
+<p><a
+href="https://www.nytimes.com/2024/09/04/us/politics/liz-cheney-kamala-harris-vote.html"
+class="uri">https://www.nytimes.com/2024/09/04/us/politics/liz-cheney-kamala-harris-vote.html</a></p>
+<hr />
+<h2
+id="what-will-kamala-harris-do-about-americas-soaring-inequality-and-shameful-tax-system">What
+will Kamala Harris do about America’s soaring inequality and shameful
+tax system?</h2>
+<p>date: 2024-09-05, from: Robert Reich’s blog</p>
+<p>Her announcement today about capital gains and small businesses</p>
+<p><a
+href="https://robertreich.substack.com/p/what-will-kamala-harris-do-about"
+class="uri">https://robertreich.substack.com/p/what-will-kamala-harris-do-about</a></p>
+<hr />
+<h2 id="the-banned-somersault-long-jump">The Banned Somersault Long
+Jump</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/the-banned-somersault-long-jump"
+class="uri">https://kottke.org/24/09/the-banned-somersault-long-jump</a></p>
+<hr />
+<h2 id="september-3-2024">September 3, 2024</h2>
+<p>date: 2024-09-04, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-3-2024-83b"
+class="uri">https://heathercoxrichardson.substack.com/p/september-3-2024-83b</a></p>
+<hr />
+<h2
+id="useful-time-travel-is-impossible.-but-fun-to-think-about.">Useful
+Time Travel Is Impossible. But Fun to Think About.</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/useful-time-travel-is-impossible-but-fun-to-think-about"
+class="uri">https://kottke.org/24/09/useful-time-travel-is-impossible-but-fun-to-think-about</a></p>
+<hr />
+<h2
+id="realized-i-often-use-forgetful-jones-when-describing-my-tendency-to-forget">Realized
+I often use “Forgetful Jones” when describing my tendency to
+forget…</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045226-realized-i-often-use-forg"
+class="uri">https://kottke.org/24/09/0045226-realized-i-often-use-forg</a></p>
+<hr />
+<h2
+id="a-new-scientific-analysis-suggests-that-the-altar-stone-at-stonehenge-weighing">A
+new scientific analysis suggests that the Altar Stone at Stonehenge
+(weighing…</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045210-a-new-scientific-analysis"
+class="uri">https://kottke.org/24/09/0045210-a-new-scientific-analysis</a></p>
+<hr />
+<h2
+id="if-you-or-someone-you-know-has-hiked-the-appalachian-trail-since">If
+you (or someone you know) has hiked the Appalachian Trail since…</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045225-if-you-or-someone-you"
+class="uri">https://kottke.org/24/09/0045225-if-you-or-someone-you</a></p>
+<hr />
+<h2 id="gotosocial-problems">2024-08-25 GoToSocial problems</h2>
+<p>date: 2024-09-04, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-08-25-gotosocial-problems">
+2024-08-25 GoToSocial problems
+</h1>
+<p>
+So you’re considering self-hosting? You heard good things about
+<a href="https://github.com/superseriousbusiness/gotosocial">GoToSocial</a>?
+I like it. I use it. This post is about the problems you should be
+expecting at the moment.
+</p>
+<p>
+It’s not surprising, after all. This is a very prominent sentence in
+their README:
+</p>
+<blockquote>
+<p>
+GoToSocial is still ALPHA SOFTWARE.
+</p>
+</blockquote>
+<p>
+But what are the exact problems? Sometimes alpha software is good
+enough, right?
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Social_Media">#Social Media</a>
+<a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a>
+</p>
+<h2 id="major-annoyances">
+Major annoyances
+</h2>
+<p>
+<strong>No post editing</strong>. I hope you can handle your own typos.
+All you have is “Delete and Redraft”. But that orphans all replies,
+undoes all boosts, forgets all likes and removes posts from bookmarks.
+“Delete and Redraft” is a sledge hammer. “Edit post” is a delicate
+quill. And you don’t get to have it. YOLO! (You only live once.)
+</p>
+<p>
+<strong>No filtering</strong>. You can mute and block and all that, but
+when everybody is posting about Monsterdon, the European Song Contest,
+the US elections, Caturday or Wordle, you can’t filter those hashtags.
+You must endure the enthusiasm of the people you are following. (I think
+the developers are implementing things, but it does not seem to have an
+effect in the front-ends I use, so who knows.)
+</p>
+<p>
+<strong>Limited federation</strong>. This one is hard to spot. You want
+to follow this account and that account and it all seems to work until
+you go back and find that for one account, your follow request seems to
+hang in limbo, waiting. You cancel, and follow again. It seems to work.
+Come back later, back in limbo again, waiting. If you check the log,
+you’ll find errors about signatures failing and what not. I have no
+idea. There are currently
+<a href="https://github.com/superseriousbusiness/gotosocial/issues?q=is%3Aissue+is%3Aopen+signature">8
+open issues containing the word ‘signature’</a>. Something is not
+working and you’ll have to have an alt (a separate account) on a
+different server that doesn’t have this issue. That makes me sad. 😥
+</p>
+<h2 id="minor-annoyances">
+Minor annoyances
+</h2>
+<p>
+<strong>No automatic post expiry</strong>. And you cannot use
+<a href="https://src.alexschroeder.ch/mastodon-archive.git/">Mastodon
+Archive</a> because of some version number check the Python Mastodon
+library refuses to work.
+</p>
+<h2 id="no-problem">
+No problem
+</h2>
+<p>
+<strong>No front-end</strong>. There is no front-end. I use apps like
+<a href="https://mastodon.social/@tootapp">Toot!</a> on my phone and
+<a href="https://semaphore.social/">Semaphore</a> on the web. I don’t
+need anything fancy. And for the non-fancy options, I have
+<a href="https://codeberg.org/martianh/mastodon.el">mastodon.el</a> for
+Emacs, <a href="https://github.com/ihabunek/toot">toot</a> for the
+command-line, <a href="https://tuba.geopjr.dev/">tuba</a> for Gnome,
+<a href="https://src.alexschroeder.ch/bitlbee-mastodon.git/">bitlbee-mastodon</a>
+for IRC, and so on. There are plenty of options.
+</p>
+<h2 id="the-good-stuff">
+The good stuff
+</h2>
+<p>
+<strong>Markdown</strong> in your posts. I like my code blocks.
+</p>
+<p>
+<strong>SQLite</strong> on the server. It’s currently 8.4G. The media
+stuff is 11G.
+</p>
+<p>
+<strong>Memory footprint</strong>. I use Monit to monitor processes and
+this process uses 185.6 MB.
+</p>
+<p>
+<strong>No admin</strong>. I haven’t had to run any administration task.
+Not once. ❤️
+</p>
+<p><a href="https://alexschroeder.ch/view/2024-08-25-gotosocial"
+class="uri">https://alexschroeder.ch/view/2024-08-25-gotosocial</a></p>
+<hr />
+<h2 id="listened-to-wordpress-in-education">Listened to WordPress in
+Education</h2>
+<p>date: 2024-09-04, from: John’s World Wide Wall Display</p>
+<p>Listened to Episode 85: WordPress in Education – WordPress News on
+the WordPress Briefing. This episode covers some suggested uses of
+WordPress in Education. I was please to hear it was not concentrating on
+tertiary education. The host Josepha Haden Chomphosy (Executive Director
+of the WordPress project!) gave some good reasons for using WordPress in
+[…]</p>
+<p><a
+href="https://johnjohnston.info/blog/listened-to-wordpress-in-education/"
+class="uri">https://johnjohnston.info/blog/listened-to-wordpress-in-education/</a></p>
+<hr />
+<h2 id="different-kinds-of-human-operating-systems">Different Kinds of
+Human Operating Systems</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/different-kinds-of-human-operating-systems"
+class="uri">https://kottke.org/24/09/different-kinds-of-human-operating-systems</a></p>
+<hr />
+<h2
+id="tim-walz-has-tonic-masculinity.-confident.-decent.-the-kind-of-man-whowould">“Tim
+Walz has tonic masculinity. Confident. Decent. The kind of man
+who…would…</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045214-tim-walz-has-tonic-mascul"
+class="uri">https://kottke.org/24/09/0045214-tim-walz-has-tonic-mascul</a></p>
+<hr />
+<h2 id="funny-story">Funny story</h2>
+<p>date: 2024-09-04, from: Dave Winer’s Scripting News</p>
+<p>
+I asked ChatGPT to “colorize” the first picture. The second picture is
+what it produced. Note I didn’t say “editorialize.” I don’t know what
+you think but I think it’s art! (I’m serious, I’ll write more about
+that. I love that it’s making us define art.)
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/04/blackAndWhite.png">
+</center>
+The first picture.
+</div>
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/04/colorized.png">
+</center>
+The second picture.
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/09/04/155355.html?title=funnyStory"
+class="uri">http://scripting.com/2024/09/04/155355.html?title=funnyStory</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-04, from: Dave Winer’s Scripting
+News)</p>
+<p>Aaron Sorkin is like
+<a href="http://scripting.com/stories/2011/01/01/theWorldIsSocialist.html">Ayn
+Rand</a>. Reviewing his stories after you’ve grown up makes you wonder
+why you liked it in the first place. <span
+class="spOldSchoolEmoji">😄</span></p>
+<p><a href="http://scripting.com/2024/09/04.html#a153756"
+class="uri">http://scripting.com/2024/09/04.html#a153756</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-04, from: Dave Winer’s Scripting
+News)</p>
+<p>I’m watching the HBO series
+<a href="https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)">The
+Newsroom</a> from 2012, it’s an
+<a href="https://en.wikipedia.org/wiki/Aaron_Sorkin">Aaron Sorkin</a>
+show. It’s fairly insipid, but for some reason I keep watching. They
+have a multi-episode
+<a href="https://en.wikipedia.org/wiki/List_of_The_Newsroom_episodes#Season_2_(2013)">controversy</a>
+as they go crazy trying to source a rumor they’ve heard that the US
+bombed a town in the Middle East with sarin gas, and killed a lot of
+people. In other words they committed a war crime. Turns out they were
+set up by multiple people, and they went through all kinds of angst over
+who should resign and who should be fired, and how they would ever
+regain the trust of the viewers. It is a Sorkin thing so it is by
+definition overdone, but in the context of today’s NYT and CNN and all
+the other schlock “news” that reports Trump’s ever-more-egrious lies not
+only without fact checking, but knowing for sure the lies are coming.
+That this has happened to American “journalism” is worse than a war
+crime. It’s what everyone told us is an essential part of an
+authoritarian state, we expect everything in the news to be lies. We
+have now gotten there. It’s good to acknowledge that, imho and stop
+asking why it is, rather think about <i>what you can do</i> about
+it.</p>
+<p><a href="http://scripting.com/2024/09/04.html#a153237"
+class="uri">http://scripting.com/2024/09/04.html#a153237</a></p>
+<hr />
+<h2
+id="the-last-coal-fired-power-station-in-the-uk-will-close-down-on">The
+last coal-fired power station in the UK will close down on…</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045222-the-last-coal-fired-power"
+class="uri">https://kottke.org/24/09/0045222-the-last-coal-fired-power</a></p>
+<hr />
+<h2
+id="trump-threatens-zuckerberg-with-life-in-prison-in-new-book">Trump
+Threatens Zuckerberg With ‘Life in Prison’ in New Book</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Daring Fireball</p>
+<p><a
+href="https://www.politico.com/news/2024/08/28/trump-zuckerberg-election-book-00176639"
+class="uri">https://www.politico.com/news/2024/08/28/trump-zuckerberg-election-book-00176639</a></p>
+<hr />
+<h2 id="the-secret-inside-one-million-checkboxes">The Secret Inside One
+Million Checkboxes</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Daring Fireball</p>
+<p><a
+href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/"
+class="uri">https://eieio.games/essays/the-secret-in-one-million-checkboxes/</a></p>
+<hr />
+<h2
+id="david-attenborough-on-cybertruck-behavior.-here-we-see-the-cybertruck-has-formed">David
+Attenborough on Cybertruck behavior. “Here we see the Cybertruck has
+formed…</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045223-david-attenborough-on-cyb"
+class="uri">https://kottke.org/24/09/0045223-david-attenborough-on-cyb</a></p>
+<hr />
+<h2 id="history-extra-for-september-3-2024">History Extra for September
+3, 2024</h2>
+<p>date: 2024-09-04, from: Heather Cox Richardson blog</p>
+<p>On September 3, 1783, negotiators signed the Treaty of Paris
+officially ending the Revolutionary War between Great Britain and the
+United States.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/history-extra-for-september-3-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/history-extra-for-september-3-2024</a></p>
+<hr />
+<h2 id="oprah-winfrey-is-hosting-a-prime-time-tv-special-on-ai">Oprah
+Winfrey Is Hosting a Prime-Time TV Special on AI</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Daring Fireball</p>
+<p><a
+href="https://arstechnica.com/information-technology/2024/09/oprahs-upcoming-ai-television-special-sparks-outrage-among-tech-critics/"
+class="uri">https://arstechnica.com/information-technology/2024/09/oprahs-upcoming-ai-television-special-sparks-outrage-among-tech-critics/</a></p>
+<hr />
+<h2 id="the-100-best-tv-episodes-of-all-time">The 100 Best TV Episodes
+of All Time</h2>
+<p>date: 2024-09-04, updated: 2024-09-04, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/the-100-best-tv-episodes-of-all-time"
+class="uri">https://kottke.org/24/09/the-100-best-tv-episodes-of-all-time</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-04, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2023/02/13/bozoApproved.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+don’t understand using an email to send a code to verify the email
+address, that you then have to enter into a dialog. Why not just send a
+URL that the user can click on? What’s the design rationale for making
+the user do the extra steps in remembering the number, switching back to
+your app, and entering the number by hand, when it could all be done
+with a single click?</p>
+<p><a href="http://scripting.com/2024/09/04.html#a132038"
+class="uri">http://scripting.com/2024/09/04.html#a132038</a></p>
+<hr />
+<h2
+id="security-researcher-sued-for-disproving-government-statements">Security
+Researcher Sued for Disproving Government Statements</h2>
+<p>date: 2024-09-04, updated: 2024-09-03, from: Bruce Schneier blog</p>
+<p>
+<a href="https://www.bleepingcomputer.com/news/security/researcher-sued-for-sharing-data-stolen-by-ransomware-with-media/">This
+story</a> seems straightforward. A city is the victim of a ransomware
+attack. They repeatedly lie to the media about the severity of the
+breach. A security researcher repeatedly proves their statements to be
+lies. The city gets mad and sues the researcher.
+</p>
+<p>
+Let’s hope the judge throws the case out, but—still—it will serve as a
+warning to others.
+</p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/09/security-researcher-sued-for-disproving-government-statements.html"
+class="uri">https://www.schneier.com/blog/archives/2024/09/security-researcher-sued-for-disproving-government-statements.html</a></p>
+<hr />
+<h2
+id="office-hours-the-most-important-thing-harris-should-do-in-next-tuesdays-debate-with-trump">Office
+Hours: The most important thing Harris should do in next Tuesday’s
+debate with Trump</h2>
+<p>date: 2024-09-04, from: Robert Reich’s blog</p>
+<p>Friends,</p>
+<p><a
+href="https://robertreich.substack.com/p/office-hours-the-most-important-thing"
+class="uri">https://robertreich.substack.com/p/office-hours-the-most-important-thing</a></p>
+<hr />
+<h2 id="september-3-2024-1">September 3, 2024</h2>
+<p>date: 2024-09-04, from: Heather Cox Richardson blog</p>
+<p>Last night the Boston Globe published a leaked email from a top
+volunteer with the Trump campaign, former Massachusetts Republican Party
+vice chair Tom Mountain, telling volunteers that the Trump campaign “no
+longer thinks New Hampshire is winnable” and is “pulling back” from that
+important swing state.</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-3-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/september-3-2024</a></p>
+<hr />
+<h2 id="august-2024-in-photos">August 2024 in photos</h2>
+<p>date: 2024-09-04, from: Matt Haughey blog</p>
+<p>
+Here are some highlights from the month of August:
+</p>
+<p>
+We went to Disneyland as a one-last-trip-before-college thing as a
+family, then we saw Sir Mix a Lot and Smashmouth play our county fair. I
+did some wheeling and then the Portland Bridge Pedal where they close
+half the freeways to
+</p>
+<p><a href="https://a.wholelottanothing.org/august-2024-in-photos/"
+class="uri">https://a.wholelottanothing.org/august-2024-in-photos/</a></p>
+<hr />
+<h2 id="just-passing-the-time">Just passing the time</h2>
+<p>date: 2024-09-04, from: Dave Winer’s Scripting News</p>
+<p>
+I tuned into MSNBC this evening as one of their anchors was about to
+interview a CNN anchor who just wrote a book about an election in the
+1800s.
+</p>
+<p>
+And that my friends is what passes for news these days. Just passing the
+time waiting to see if there’s anything left of journalism after the
+election.
+</p>
+<p>
+Lalala.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/09/03/barberswait.png">
+</center>
+In Boston a barber awaits the outcome of the election.
+</div>
+</p>
+<p><a
+href="http://scripting.com/2024/09/03/024553.html?title=justPassingTheTime"
+class="uri">http://scripting.com/2024/09/03/024553.html?title=justPassingTheTime</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-09-04, from: Dave Winer’s Scripting
+News)</p>
+<p>Today, in 2024, AI cannot
+<a href="https://kottke.org/24/09/can-ai-make-art">create art</a>. But a
+human being
+<a href="http://scripting.com/2024/08/28/190028.html">can</a>
+<a href="http://scripting.com/2024/09/01/165153.html">use</a> AI
+<a href="http://scripting.com/2024/08/28/190028.html">to</a>
+<a href="http://scripting.com/2024/08/20/142602.html">create</a> art.
+It’s a medium, like paint and canvas except it’s not static. It gets new
+skills all the time. It gives me the ability to create in a way I’ve
+never been able to before. I can’t wait to see what it can do in a few
+months or years.</p>
+<p><a href="http://scripting.com/2024/09/03.html#a022537"
+class="uri">http://scripting.com/2024/09/03.html#a022537</a></p>
+<hr />
+<h2 id="wednesday-4-september-2024">Wednesday 4 September, 2024</h2>
+<p>date: 2024-09-03, from: John Naughton’s online diary</p>
+<p>The wisdom of dogs This is one of my favourite photographs. It was
+taken in Antibes in August 2010. We were driving along the beachfront on
+a blisteringly hot Sunday afternoon when I suddenly saw this scene. The
+owners of …
+<a href="https://memex.naughtons.org/wednesday-4-september-2024/39821/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><a
+href="https://memex.naughtons.org/wednesday-4-september-2024/39821/"
+class="uri">https://memex.naughtons.org/wednesday-4-september-2024/39821/</a></p>
+<hr />
+<h2
+id="apple-sports-updated-for-football-season-will-soon-support-live-activities">Apple
+Sports, Updated for Football Season, Will Soon Support Live
+Activities</h2>
+<p>date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball</p>
+<p><a
+href="https://www.apple.com/newsroom/2024/08/apple-sports-is-ready-for-football-season/"
+class="uri">https://www.apple.com/newsroom/2024/08/apple-sports-is-ready-for-football-season/</a></p>
+<hr />
+<h2 id="departure-mono">Departure Mono</h2>
+<p>date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball</p>
+<p><a href="https://departuremono.com/"
+class="uri">https://departuremono.com/</a></p>
+<hr />
+<h2 id="how-to-take-down-trump">How To Take Down Trump</h2>
+<p>date: 2024-09-03, from: Dan Rather’s Steady</p>
+<p>Debate strategies for Harris</p>
+<p><a href="https://steady.substack.com/p/how-to-take-down-trump"
+class="uri">https://steady.substack.com/p/how-to-take-down-trump</a></p>
+<hr />
+<h2 id="a-navajo-weaving-of-an-intel-pentium-processor">A Navajo Weaving
+of an Intel Pentium Processor</h2>
+<p>date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/a-navajo-weaving-of-an-intel-pentium-processor"
+class="uri">https://kottke.org/24/09/a-navajo-weaving-of-an-intel-pentium-processor</a></p>
+<hr />
+<h2 id="brazils-x-ban-is-sending-lots-of-people-to-bluesky">Brazil’s X
+Ban Is Sending Lots of People to Bluesky</h2>
+<p>date: 2024-09-03, updated: 2024-09-04, from: Daring Fireball</p>
+<p><a
+href="https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky"
+class="uri">https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky</a></p>
+<hr />
+<h2
+id="atul-gawande-tuberculosis-is-still-the-worlds-1-infectious-disease-killer-1">Atul
+Gawande: Tuberculosis is still the world’s #1 infectious disease killer
+(1+…</h2>
+<p>date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045211-atul-gawande-tuberculosis"
+class="uri">https://kottke.org/24/09/0045211-atul-gawande-tuberculosis</a></p>
+<hr />
+<h2
+id="new-school-year-drop-off-and-pick-up-rules.-approach-the-white-zone-at">New
+School Year Drop-Off and Pick-Up Rules. “Approach the White Zone
+at…</h2>
+<p>date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045219-new-school-year-drop-off-"
+class="uri">https://kottke.org/24/09/0045219-new-school-year-drop-off-</a></p>
+<hr />
+<h2
+id="america-must-free-itself-from-the-tyranny-of-the-penny.-few-things">America
+Must Free Itself from the Tyranny of the Penny. “Few things…</h2>
+<p>date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke’s blog</p>
+<p><a href="https://kottke.org/24/09/0045217-america-must-free-itself-"
+class="uri">https://kottke.org/24/09/0045217-america-must-free-itself-</a></p>
+<hr />
+<h2 id="founder-mode">‘Founder Mode’</h2>
+<p>date: 2024-09-03, updated: 2024-09-03, from: Daring Fireball</p>
+<p><a href="https://paulgraham.com/foundermode.html"
+class="uri">https://paulgraham.com/foundermode.html</a></p>
+<hr />
+<h2 id="september-2-2024">September 2, 2024</h2>
+<p>date: 2024-09-03, from: Heather Cox Richardson blog</p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/september-2-2024-72b"
+class="uri">https://heathercoxrichardson.substack.com/p/september-2-2024-72b</a></p>
+<hr />
+<h2 id="the-district-sleeps-alone-tonight-sylvan-esso-remix">The
+District Sleeps Alone Tonight (Sylvan Esso Remix)</h2>
+<p>date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke’s blog</p>
+<p><a
+href="https://kottke.org/24/09/the-district-sleeps-alone-tonight-sylvan-esso-remix"
+class="uri">https://kottke.org/24/09/the-district-sleeps-alone-tonight-sylvan-esso-remix</a></p>
 <hr />
 <h2
 id="even-if-autonomous-vehicles-work-perfectly-they-will-likely-not-decrease-emissions">Even
@@ -69,6 +1566,27 @@ class="field field--name-created field--type-created field--label-hidden"><time 
 href="https://www.jeffgeerling.com/blog/2024/rf-safety-experiments-meat-pickles-demonstrate-foldback"
 class="uri">https://www.jeffgeerling.com/blog/2024/rf-safety-experiments-meat-pickles-demonstrate-foldback</a></p>
 <hr />
+<h2 id="what-happens-when-you-touch-a-pickle-to-an-am-radio-tower">What
+happens when you touch a Pickle to an AM radio tower?</h2>
+<p>date: 2024-09-03, from: Jeff Geerling blog</p>
+<p><span
+class="field field--name-title field--type-string field--label-hidden">What
+happens when you touch a Pickle to an AM radio tower?</span></p>
+<pre><code>        &lt;div class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item&quot;&gt;&lt;p&gt;A few months ago, our &lt;a href=&quot;https://www.instagram.com/insights/media/3333127873529510767/&quot;&gt;AM radio hot dog experiment&lt;/a&gt; went mildly viral. That was a result of me asking my Dad &#39;what would happen if you ground a hot dog to one of your AM radio towers?&#39; He didn&#39;t know, so one night on the way to my son&#39;s volleyball practice, we tested it. And it was &lt;em&gt;awesome&lt;/em&gt;.&lt;/p&gt;</code></pre>
+<p>
+There’s a video and some pictures in my
+<a href="https://www.jeffgeerling.com/blog/2024/talking-hot-dog-gives-new-meaning-ham-radio">hot
+dog radio blog post</a> from back in March.
+</p>
+</div>
+<pre><code>  &lt;span class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;&lt;span&gt;Jeff Geerling&lt;/span&gt;&lt;/span&gt;</code></pre>
+<p><span
+class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-09-03T11:25:33-05:00" title="Tuesday, September 3, 2024 - 11:25" class="datetime">September
+3, 2024</time> </span></p>
+<p><a
+href="https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower"
+class="uri">https://www.jeffgeerling.com/blog/2024/what-happens-when-you-touch-pickle-am-radio-tower</a></p>
+<hr />
 <h2 id="why-tv-is-wrong-for-tolkien">Why TV Is Wrong for Tolkien</h2>
 <p>date: 2024-09-03, updated: 2024-09-03, from: Jason Kittke’s blog</p>
 <p><a href="https://kottke.org/24/09/why-tv-is-wrong-for-tolkien"
@@ -101,9 +1619,11 @@ class="uri">https://kottke.org/24/09/0045202-id-missed-that-ray-nayler</a></p>
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 Scripting News</strong> (date: 2024-09-03, from: Dave Winer’s Scripting
 News)</p>
-<p>The blogroll on <a href="http://scripting.com/">scripting.com</a> is
-a real breakthrough. It’s actually a feed reader, but don’t tell anyone.
-Actually go ahead and tell them. <span
+<p>The <a href="https://blogroll.social/">blogroll</a> on
+<a href="http://scripting.com/">scripting.com</a> is a real
+breakthrough. It’s actually a
+<a href="http://scripting.com/2024/03/13/010313.html">feed reader</a>,
+but don’t tell anyone. Actually go ahead and tell them. <span
 class="spOldSchoolEmoji">😄</span></p>
 <p><a href="http://scripting.com/2024/09/03.html#a151117"
 class="uri">http://scripting.com/2024/09/03.html#a151117</a></p>
@@ -460,11 +1980,12 @@ the mail list. We all recognized that what we were doing needed a name.
 There was a consensus, it was a small community by then, very collegial.
 Dave Slusher had already used the term in his podcast (according to
 <a href="https://podnews.net/article/history-of-word-podcast">James
-Cridland</a>), so I said in the Trade Secrets show, let’s just go ahead
-and use it. I did mention Ben Hammersley. So he’s not out of the story,
-but he’s not the person who gave podcasting its name. September 2004 was
-the moment when podcasting became something. It’s rare in things like
-this that you can point to a moment, but we can
+Cridland</a>), so I said in the Trade Secrets
+<a href="https://web.archive.org/web/20040923224915/http://secrets.scripting.com/2004/09/22#a26">show</a>,
+let’s just go ahead and use it. I did mention Ben Hammersley. So he’s
+not out of the story, but he’s not the person who gave podcasting its
+name. September 2004 was the moment when podcasting became something.
+It’s rare in things like this that you can point to a moment, but we can
 <a href="https://trends.google.com/trends/explore?date=all&q=podcast">here</a>,
 and the record should make that very clear. You could say Hammersley was
 the first to publish the term in a piece he wrote, but he played no role
@@ -512,7 +2033,7 @@ and the question of choice Who decides […]</p>
 href="https://tracydurnell.com/2024/09/02/childfree-cat-lady-%f0%9f%91%8b/"
 class="uri">https://tracydurnell.com/2024/09/02/childfree-cat-lady-%f0%9f%91%8b/</a></p>
 <hr />
-<h2 id="september-2-2024">September 2, 2024</h2>
+<h2 id="september-2-2024-1">September 2, 2024</h2>
 <p>date: 2024-09-03, from: Heather Cox Richardson blog</p>
 <p>In an interview with right-wing host Mark Levin on the Fox News
 Channel last night, Trump complained about the new grand jury indictment
@@ -1006,6 +2527,19 @@ Let’s start September.</p>
 <p><a href="http://scripting.com/2024/09/01.html#a124605"
 class="uri">http://scripting.com/2024/09/01.html#a124605</a></p>
 <hr />
+<h2 id="can-you-judge-the-tech-bros-by-their-bookshelves">Can you judge
+the tech bros by their bookshelves?</h2>
+<p>date: 2024-09-01, from: John Naughton’s online diary</p>
+<p>Yesterday’s Observer column: In August, a thoughtful blogger, Tanner
+Greer, posed an interesting question to the Silicon Valley crowd: “What
+are the contents of the ‘vague tech canon’? If we say it is 40 books,
+what are they?” He was …
+<a href="https://memex.naughtons.org/can-you-judge-the-tech-bros-by-their-bookshelves/39827/">Continue
+reading <span class="meta-nav">→</span></a></p>
+<p><a
+href="https://memex.naughtons.org/can-you-judge-the-tech-bros-by-their-bookshelves/39827/"
+class="uri">https://memex.naughtons.org/can-you-judge-the-tech-bros-by-their-bookshelves/39827/</a></p>
+<hr />
 <h2 id="the-chicks">The Chicks</h2>
 <p>date: 2024-09-01, from: Dan Rather’s Steady</p>
 <p>A Reason To Smile</p>
@@ -1024,14 +2558,12 @@ class="uri">https://robertreich.substack.com/p/caption-contest-the-view</a></p>
 Chicago at the Democratic National Convention.</p>
 <p><a href="https://heathercoxrichardson.substack.com/p/august-31-2024"
 class="uri">https://heathercoxrichardson.substack.com/p/august-31-2024</a></p>
+</div>
+</div>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.
-Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
 </footer>
-<script type="module">
-    await import('/pagefind/pagefind-highlight.js');
-    new PagefindHighlight({ highlightParam: "highlight" });
-</script>
 </body>
 </html>

@@ -3,3 +3,19 @@
 # Do we really need all those power tools?
 #
 https://blog.lostartpress.com/feed/ "~Lost Arg Press blog"
+https://luth.org/feed/ "~Guild of American Luthiers"
+https://feeds.libsyn.com/94579/rss "~Luthier on Luthier with Michael Bashkin"
+https://luthiers.com/feed/ "~Discover the world of Luthiers"
+https://theartoflutherie.com/feed/ "~Learn The Art of Lutherie"
+https://guitar-maker.blogspot.com/feeds/posts/default?alt=rss "~A Luthier's blog"
+# Maiwa.com's blog is on blogger. The published URL is https://maiwahandprints.blogspot.com/ but feeds
+# redirect to one below.
+https://www.blogger.com/feeds/6464426621779910820/posts/default "~Maiwa blog (weaving and textiles)"
+
+# The Art of Lutherie School
+https://theartoflutherie.com/feed/ "~The Art of Lutherie"
+# Tom Bill's Guitars blog
+https://tbguitars.com/feed/ "~Tom Bill's Guitar Blog"
+
+# Simscal, String Instrument Makers SoCal
+https://www.simscal.com/feed/ "~String Instrument Makers So. Cal."

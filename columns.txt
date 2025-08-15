@@ -1,6 +1,7 @@
 #
 # Columns is a feed list of things I almost always send to Pocket to read
 #
+https://bsky.app/profile/did:plc:42n7zwgawer2whfwg3igqwrd/rss "~Ryan Gantz Bluesky feed"
 https://billmoyers.com/feed/ "~Bill Moyer's website"
 https://steady.substack.com/feed "~Dan Rather's Steady"
 https://memex.naughtons.org/feed/ "~John Naughton's online diary"
@@ -69,7 +70,6 @@ https://alex.pearwin.com/atom.xml "~Alex Pearce blog (CERN)"
 https://aiguide.substack.com/feed "~Melanie Mitchell, AI Guide for Human Thinking"
 https://a.wholelottanothing.org/rss/ "~Matt Haughey blog"
 https://infrequently.org/feed/ "~Alex Russel's blog"
-https://daverupert.com/atom.xml "~Dave Rupert blog"
 https://antonz.org/all/index.xml "~Anton Zhiyanov blog"
 https://tracydurnell.com/feed/ "~Tracy Durnell Blog"
 http://cynthiakiser.com/feed.xml "~Cynthia Kiser's blog"
@@ -89,3 +89,29 @@ https://www.stubbornella.org/feed/ "~Stubbornella Blog"
 https://www.tamaspapp.eu/post/index.xml "~Tamás K. Papp blog"
 # Laim Proven at the Register
 https://feed.theregister.com/atom?a=Liam%20Proven "~Liam Proven's articles at the Register"
+https://www.michaelmoore.com/feed "~Michael Moore's blog"
+# Frank Bennett is the creator of CSL and CSL Project JavaScript
+https://fgbjr.name/index.xml "~Frank Bennett blog"
+# Prent Rogers, Microtonal music
+http://ripnread.com/sample-page/blog/ "~Prent Rogers"
+# Molly White blog
+https://www.mollywhite.net/feed/feed.xml "~Molly White blogs"
+# Chris Coylier
+https://www.mollywhite.net/feed/feed.xml "~Chris Coylier"
+# Dave Rupert
+https://daverupert.com/atom.xml "~Dave Rupert blog"
+# Shop Talk Show
+https://shoptalkshow.com/677/feed/ "~Shop Talk Show"
+# Jeremy Keith blog
+https://adactio.com/rss/ "~Jeremy Keith Blog"
+# Jim Nielsen blog
+https://blog.jim-nielsen.com/feed.xml "~Jim Nielsen blog"
+# Racheal Smith blog
+https://rachsmith.com/feed.xml "~Racheal Smith blog"
+# Maggie Appleton
+https://maggieappleton.com/rss.xml "~Maggie Appleton"
+# Naz Hamid
+https://nazhamid.com/feed.xml "~Naz Hamid blog"
+# Live Laugh Blog, Jen Shiffer
+https://livelaugh.blog/rss.xml "~Live Laugh blog"
+

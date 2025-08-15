@@ -1,0 +1,305 @@
+---
+title: ham radio
+updated: 2025-06-08 14:07:55
+---
+
+# ham radio
+
+(date: 2025-06-08 14:07:55)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>Solar activity remained at moderate levels earlier this week. There<br />was an approximately 20-degree filament eruption on June 4 and a<br />possibly related Coronal Mass Ejection (CME). The CME is unlikely to<br />have an Earth-directed component, but analysis is in progress.<br /><br />The geomagnetic field is expected to be quiet to unsettled on June 7<br />as High Speed Stream (HSS) activity continues. G1 (Minor) storm<br />level...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-17>
+
+---
+
+## 13 Colonies Event Founder Passing the Reins After 16 Years
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/13-colonies-event-founder-passing-the-reins-after-16-years>
+
+---
+
+## 2025 ARRL Field Day Has Categories for Every Operator
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>2025 ARRL Field Day is just three weeks away! The excitement is building. Most clubs have their activations planned. In the last two weeks, 350 more sites have been added to the Field Day Site Locator, with a total of 886 listed as of June 5. ARRL Field Day is a great way to connect with your local amateur radio community, for Technician-class operators to get on lower HF bands, to shake down y...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-arrl-field-day-has-categories-for-every-operator>
+
+---
+
+## ARRL International Digital Contest Presents Fun Despite Active Sun
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>As Solar Cycle 25 peaks, the sun has been busy. A coronal mass ejections has thrown HF propagation for a roller coaster ride this week. While the medium and lower HF bands suffer, there’s still hope for successful operating during times of solar storms. The 6-meter band has been quite active. Reports of phone contacts to Europe from East Coast hams and great digital activity on 6 meters from el...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-international-digital-contest-presents-fun-despite-active-sun>
+
+---
+
+## ARRL Teachers Institute a Success in Louisiana
+
+date: 2025-06-06, from: Amateur Radio Relay League News
+
+<p>The second session of the ARRL Teachers Institute on Wireless Technology (TI) to be held outside of ARRL Headquarters was a success this week in Louisiana. It follows on a successful offsite institute held earlier this year in New York City.    </p><p>Eleven teachers gathered in Lake Charles for the latest session. The event was featured in local news and empowered the teachers to incorporate amateur ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-a-success-in-louisiana>
+
+---
+
+## AI and the problem of misinformation
+
+date: 2025-06-06, from: EDN Blog
+
+<img width="595" height="418" src="https://www.edn.com/wp-content/uploads/Misinformation.png?fit=595%2C418" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Misinformation.png?w=595 595w, https://www.edn.com/wp-content/uploads/Misinformation.png?w=300 300w" sizes="(max-width: 595px) 100vw, 595px" /><p>How likely is it that an AI system will be trained on incorrect information? Please consider the following example...</p>
+<p>The post <a href="https://www.edn.com/ai-and-the-problem-of-misinformation/">AI and the problem of misinformation  </a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ai-and-the-problem-of-misinformation/>
+
+---
+
+## Standardization and modularization in pick and place equipment
+
+date: 2025-06-06, from: EDN Blog
+
+<img width="1200" height="600" src="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?fit=1200%2C600" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Altparts.jpg?w=1024 1024w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><p>Here’s how engineers can practice standards and incorporate modular building blocks in pick and place equipment.</p>
+<p>The post <a href="https://www.edn.com/standardization-and-modularization-in-pick-and-place-equipment/">Standardization and modularization in pick and place equipment</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/standardization-and-modularization-in-pick-and-place-equipment/>
+
+---
+
+## DMMs improve accuracy and usability
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohde-Schwarz-UDS.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The R&#038;S UDS series of DMMs offers 5.5-digit and 6.5-digit resolution, with the 6.5-digit model delivering a basic DC accuracy of 0.0075%.</p>
+<p>The post <a href="https://www.edn.com/dmms-improve-accuracy-and-usability/">DMMs improve accuracy and usability</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/dmms-improve-accuracy-and-usability/>
+
+---
+
+## GaN HEMT earns DLA-JANS certification
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="475" src="https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?fit=800%2C475" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-JANS-GaN.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Infineon’s rad-hard GaN HEMT is the first in-house device qualified to JANS MIL-PRF-19500/794, DLA’s highest quality grade.</p>
+<p>The post <a href="https://www.edn.com/gan-hemt-earns-dla-jans-certification/">GaN HEMT earns DLA-JANS certification</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gan-hemt-earns-dla-jans-certification/>
+
+---
+
+## Multichannel impedance meter analyzes Li-Ion cells
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="408" src="https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?fit=800%2C408" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tektronix-EA-BIM-20005.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The EA-BIM 20005 battery impedance meter from Tektronix performs EIS measurements across 20 channels to characterize Li-Ion battery cells.</p>
+<p>The post <a href="https://www.edn.com/multichannel-impedance-meter-analyzes-li-ion-cells/">Multichannel impedance meter analyzes Li-Ion cells</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/multichannel-impedance-meter-analyzes-li-ion-cells/>
+
+---
+
+## Motor gate drivers enable flexible current control
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="467" src="https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?fit=800%2C467" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-STDRIVE102H.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Two gate drivers from ST provide programmable current for efficient three-phase brushless motor control in consumer and industrial equipment.</p>
+<p>The post <a href="https://www.edn.com/motor-gate-drivers-enable-flexible-current-control/">Motor gate drivers enable flexible current control</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/motor-gate-drivers-enable-flexible-current-control/>
+
+---
+
+## Powerline module enables EV charger data links
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Comtrend_MaxLinear.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Comtrend’s PM-1540 powerline module uses MaxLinear’s G.hn chips to support backend data communication in EV charging infrastructure.</p>
+<p>The post <a href="https://www.edn.com/powerline-module-enables-ev-charger-data-links/">Powerline module enables EV charger data links</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/powerline-module-enables-ev-charger-data-links/>
+
+---
+
+## A quick and practical view of USB Power Delivery (USB-PD) design
+
+date: 2025-06-05, from: EDN Blog
+
+<img width="1000" height="885" src="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?fit=1000%2C885" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-USB-PDT-Module.jpg?w=768 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /><p>Here are some simple pointers for imparting USB-PD design to everyday hobby electronics projects and devices.</p>
+<p>The post <a href="https://www.edn.com/a-quick-and-practical-view-of-usb-power-delivery-usb-pd-design/">A quick and practical view of USB Power Delivery (USB-PD) design</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-quick-and-practical-view-of-usb-power-delivery-usb-pd-design/>
+
+---
+
+## 10-octave linear-in-pitch VCO with buffered tri-wave output
+
+date: 2025-06-04, from: EDN Blog
+
+<img width="1077" height="677" src="https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?fit=1077%2C677" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=1077 1077w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/10octaves_Figure1.png?w=1024 1024w" sizes="auto, (max-width: 1077px) 100vw, 1077px" /><p>An antilog, or linear-in-pitch, VCO with a buffered tri-wave output spans ten octaves from 20 Hz to 20 kHz.</p>
+<p>The post <a href="https://www.edn.com/10-octave-linear-in-pitch-vco-with-buffered-tri-wave-output/">10-octave linear-in-pitch VCO with buffered tri-wave output</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/10-octave-linear-in-pitch-vco-with-buffered-tri-wave-output/>
+
+---
+
+## Seeing inside entry-level audiophile desire: Monoprice’s Liquid Spark Headphone Amplifier
+
+date: 2025-06-04, from: EDN Blog
+
+<img width="4080" height="1997" src="https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?fit=4080%2C1997" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=4080 4080w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/PCB_side2-6.jpg?w=2850 2850w" sizes="auto, (max-width: 4080px) 100vw, 4080px" /><p>You don’t need to spend a lot of money to get pristine audio quality, as this teardown shows…especially with a killer limited-time promotion!</p>
+<p>The post <a href="https://www.edn.com/seeing-inside-entry-level-audiophile-desire-monoprices-liquid-spark-headphone-amplifier/">Seeing inside entry-level audiophile desire: Monoprice’s Liquid Spark Headphone Amplifier</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/seeing-inside-entry-level-audiophile-desire-monoprices-liquid-spark-headphone-amplifier/>
+
+---
+
+## New AI networking switch breaks the 100-Tbps barrier
+
+date: 2025-06-04, from: EDN Blog
+
+<img width="1704" height="1171" src="https://www.edn.com/wp-content/uploads/Hero-image-Tomahawk6.png?fit=1704%2C1171" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Tomahawk6.png?w=1704 1704w, https://www.edn.com/wp-content/uploads/Hero-image-Tomahawk6.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Tomahawk6.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Tomahawk6.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Tomahawk6.png?w=1536 1536w" sizes="auto, (max-width: 1704px) 100vw, 1704px" /><p>Tomahawk 6 switch, incorporating 100G/200G SerDes and CPO technology, claims to be the world’s first 102.4-Tbs switch.</p>
+<p>The post <a href="https://www.edn.com/new-ai-networking-switch-breaks-the-100-tbps-barrier/">New AI networking switch breaks the 100-Tbps barrier</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/new-ai-networking-switch-breaks-the-100-tbps-barrier/>
+
+---
+
+## The analog-centric timing world takes a digital turn
+
+date: 2025-06-03, from: EDN Blog
+
+<img width="891" height="542" src="https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?fit=891%2C542" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?w=891 891w, https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-3-digital-timing-MSD.jpg?w=768 768w" sizes="auto, (max-width: 891px) 100vw, 891px" /><p>A startup seeks a digitally synthesizable timing alternative to convectional crystal and PLL solutions based on analog technology.</p>
+<p>The post <a href="https://www.edn.com/the-analog-centric-timing-world-takes-a-digital-turn/">The analog-centric timing world takes a digital turn</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-analog-centric-timing-world-takes-a-digital-turn/>
+
+---
+
+## GMSL video link’s quest to become open automotive standard
+
+date: 2025-06-03, from: EDN Blog
+
+<img width="4000" height="1570" src="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?fit=4000%2C1570" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=4000 4000w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Fig-2-OpenGMSL-ADI.jpg?w=2850 2850w" sizes="auto, (max-width: 4000px) 100vw, 4000px" /><p>OpenGMSL aims to transform this SerDes transmission of video and/or high-speed data into an open ecosystem for in-vehicle connectivity.</p>
+<p>The post <a href="https://www.edn.com/gmsl-video-links-quest-to-become-open-automotive-standard/">GMSL video link’s quest to become open automotive standard</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gmsl-video-links-quest-to-become-open-automotive-standard/>
+
+---
+
+## Power amplifiers that oscillate—deliberately. Part 1: A simple start.
+
+date: 2025-06-03, from: EDN Blog
+
+<img width="616" height="270" src="https://www.edn.com/wp-content/uploads/OscPAs_part1_fig1_v1.png?fit=616%2C270" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/OscPAs_part1_fig1_v1.png?w=616 616w, https://www.edn.com/wp-content/uploads/OscPAs_part1_fig1_v1.png?w=300 300w" sizes="auto, (max-width: 616px) 100vw, 616px" /><p>A standard audio power amplifier can be used to make some interesting oscillators, in this case, a Wien bridge oscillator.</p>
+<p>The post <a href="https://www.edn.com/power-amplifiers-that-oscillate-deliberately-part-1-a-simple-start/">Power amplifiers that oscillate—deliberately. Part 1: A simple start.</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/power-amplifiers-that-oscillate-deliberately-part-1-a-simple-start/>
+
+---
+
+## Basic design considerations for anti-tampering circuits
+
+date: 2025-06-02, from: EDN Blog
+
+<img width="800" height="460" src="https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?fit=800%2C460" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-2-Tamper-Detector-Breadboard.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>This is how design engineers can develop tamper detection circuits for their products utilizing switches and sensors.</p>
+<p>The post <a href="https://www.edn.com/basic-design-considerations-for-anti-tampering-circuits/">Basic design considerations for anti-tampering circuits</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/basic-design-considerations-for-anti-tampering-circuits/>
+
+---
+
+## The 2025 Google I/O conference: A deft AI pivot sustains the company’s relevance
+
+date: 2025-06-02, from: EDN Blog
+
+<img width="1200" height="630" src="https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?fit=1200%2C630" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Google-I_O-image.jpg?w=1024 1024w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><p>While I doubt the “substance” in Google’s keynotes was a reaction to Microsoft’s one day earlier “fluff”, it was still a refreshing contrast.</p>
+<p>The post <a href="https://www.edn.com/the-2025-google-i-o-conference-a-deft-ai-pivot-sustains-the-companys-relevance/">The 2025 Google I/O conference: A deft AI pivot sustains the company’s relevance</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-2025-google-i-o-conference-a-deft-ai-pivot-sustains-the-companys-relevance/>
+
+---
+
+## ARRL Foundation Accepting Grant Applications in June
+
+date: 2025-06-01, from: Amateur Radio Relay League News
+
+<p>The ARRL Foundation is accepting grant applications from amateur radio organizations for eligible amateur radio-related projects and initiatives, particularly those focused on educating, licensing, and supporting amateur radio activities. To grow amateur radio's future, youth-based projects and initiatives are especially encouraged.</p><p>The ARRL Foundation grants program accepts proposals on a cycli...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-foundation-accepting-grant-applications-in-june>
+
