@@ -7,5 +7,4 @@ PATH="${HOME}/bin:/usr/local/bin:/usr/bin"
 export PATH
 echo $PATH
 make build
-make snapshots
 make publish

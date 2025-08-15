@@ -29,15 +29,13 @@ PROJECT = Antenna
 
 section_names = planet north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft small_papers snapshots
 
-md_files = $(addsuffix .md,$(section_names))
-
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest markdown html archives index.html forcecasts.html about.html README.html CITATION.cff dump
+build: harvest website CITATION.cff dump
 
 world: build
 
-website: markdown html archives index.html forecasts.html about.html README.html 
+website: index.html forecasts.html about.html README.html $(html_files)
 
 harvest: $(section_names)
 
@@ -115,19 +113,12 @@ science_and_technology: .FORCE
 small_papers: .FORCE
 	-skimmer small_papers.txt
 
-markdown: $(md_files)
-
-$(md_files): .FORCE
+# Build the front page column files
+$(html_files): .FORCE
 	sqlite3 $(basename $@).skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%' OR LOWER(QUOTE(tags)) LIKE '%sports%' OR LOWER(QUOTE(tags)) LIKE '%opinion%' OR lower(quote(tags)) like '%obituar%' or lower(quote(tags)) like '%views/columnists%'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g')" \
-		-frontmatter $(basename $@).skim \
-		>$@
-	mkdir -p $(YEAR)
-	cp -v "$@" "archives/$(YEAR)/$(basename $@)_$(VOL_NO).md"
-
-html: front_page.tmpl $(html_files)
+	skim2html $(basename $@).skim front_page.yaml>$@
 
 %.html: %.md front_page.tmpl
 	pandoc -f markdown -t html5 \
@@ -142,13 +133,6 @@ dump: .FORCE
 
 load: .FORCE
 	./sql_to_skimmer.bash
-
-archives: mk_archives.bash archive_index.tmpl archive_year.tmpl .FORCE
-	./mk_archives.bash      
-	cd archives/$(YEAR) && make
-	cd archives && make
-	git add archives archives/$(YEAR)
-	
 
 pagefind: .FORCE
 	pagefind \
@@ -195,18 +179,11 @@ CITATION.cff: .FORCE
 	@cat codemeta.json | sed -E   's/"@context"/"at__context"/g;s/"@type"/"at__type"/g;s/"@id"/"at__id"/g' >_codemeta.json
 	@echo '' | pandoc --metadata title="Cite $(PROJECT)" --metadata-file=_codemeta.json --template=codemeta-cff.tmpl >CITATION.cff
 
-about.html: about.md
+about.html: .FORCE
 	pandoc --metadata title="About $(PROJECT)" \
 		--lua-filter=links-to-html.lua \
         --template front_page.tmpl \
 		about.md >about.html
-
-about.md: .FORCE
-	@cat codemeta.json | sed -E 's/"@context"/"at__context"/g;s/"@type"/"at__type"/g;s/"@id"/"at__id"/g' >_codemeta.json
-	@echo "" | pandoc --metadata title="About $(PROJECT)" \
-		--metadata-file=_codemeta.json \
-		--template codemeta-about.tmpl >about.md #2>/dev/null;
-	@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
 
 index.html: .FORCE
 	@echo '' | pandoc --metadata title="The $(PROJECT)" \
@@ -219,7 +196,6 @@ forecasts.html: .FORCE
 		--lua-filter=links-to-html.lua \
 		--template front_page.tmpl \
 		forecasts.md >forecasts.html
-		
 
 search.html: .FORCE
 	@echo '' | pandoc --metadata title="$(PROJECT) Search" \
@@ -232,7 +208,6 @@ README.html: .FORCE
 		--lua-filter=links-to-html.lua \
 		--template front_page.tmpl \
 		README.md >README.html
-
 	
 status:
 	git status

@@ -38,7 +38,7 @@ https://gardenerspath.com/feed/ "~The Gardener's Path"
 #
 # Companies and Suppliers
 #
-https://sandiegoseedcompany.com/feed/ "~San Diego Seed Compan"
+https://sandiegoseedcompany.com/feed/ "~San Diego Seed Company"
 https://friendlycontractor.com/feed/ "~PHB blog"
 
 #
