@@ -6,5 +6,7 @@ fi
 PATH="${HOME}/bin:/usr/local/bin:/usr/bin"
 export PATH
 echo $PATH
-make build
-make publish
+./harvest.bash 2>harvest_errors.log
+echo "$(wc -l harvest_errors.log) errors"
+./website.bash
+./publish.bash

@@ -3,8 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
-  <title>The Antenna</title>
-  <link rel="stylesheet" type="text/css"  href="webfonts/fonts.css" media="screen" >
+  
   <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
 </head>
 <body>
@@ -19,22 +18,11 @@
 <nav>
 <ul>
 	<li><a href="./">The Antenna</a></li>
-	<li><a href="socal_north.html" title="news from the Northern side of Southern California" >SoCal North!</a></li>
-	<li><a href="pacific.html" title="News from Micronesia and Pacific">Pacific</a></li>
-	<li><a href="mid_central.html" title="news from Mid Central California">Mid Central</a></li>
-	<li><a href="tech_likely.html" title="likely tech news fed but other stuff happens too">Tech Likely</a></li>
-	<li><a href="columns.html" title="blogs I read like columnists">Columns</a></li>
-	<li><a href="weather.html" title="U.S. National Weather">Weather</a></li>
-	<li><a href="2023/">Archives</a></li>
-	<li><a href="search.html">Search</a></li>
+	<li><a href="README.html">Implementation</a></li>
 	<li><a href="about.html">About</a></li>
 </ul>
 </nav>
 <section>
-<div class="description-for-items">
-<h2>The Antenna</h2>
-An experiment in personal news aggregation.
-</div>
 <h1 id="gtd">GTD</h1>
 <h2 id="bugs">Bugs</h2>
 <ul class="task-list">
@@ -53,6 +41,13 @@ output.</label></li>
 </ul>
 <h2 id="next">Next</h2>
 <ul class="task-list">
+<li><label><input type="checkbox" />Look at Mozilla’s <a
+href="https://github.com/mozilla/readability">Readability</a>JS Package
+on GitHub and evaluate creating a reader for Antenna that works in RISC
+OS an could function as a standalone Pocket like application<br />
+</label></li>
+<li><label><input type="checkbox" />Render the Antenna content as a
+Gopher/Gemini site.</label></li>
 <li><label><input type="checkbox" checked="" />Need to build a page that
 shows the “current edition” of the aggregation</label></li>
 <li><label><input type="checkbox" checked="" />Need to build a page that
@@ -78,6 +73,9 @@ buttons?</label></li>
 </ul>
 <h2 id="someday-maybe">Someday, maybe</h2>
 <ul class="task-list">
+<li><label><input type="checkbox" />Look at how I could usse htmlq (jq
+like for HTML) to either cleanup HTML feed content or to render a web
+page as a feed source</label></li>
 <li><label><input type="checkbox" />3 column output on wide
 screens</label></li>
 <li><label><input type="checkbox" />Responsive design</label></li>
@@ -85,11 +83,7 @@ screens</label></li>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.
-Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
 </footer>
-<script type="module">
-    await import('/pagefind/pagefind-highlight.js');
-    new PagefindHighlight({ highlightParam: "highlight" });
-</script>
 </body>
 </html>

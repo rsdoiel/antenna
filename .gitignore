@@ -5,6 +5,7 @@
 *.tmp
 *.bak
 # Project ignores
+*.log
 *.skim
 *.sql
 _*

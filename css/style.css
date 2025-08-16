@@ -105,6 +105,7 @@ article::after {
     background: var(--color-white);
     padding: 1.24em;
     margin: 1.24em;
+    margin-left: calc(-50vw + 50%);
     color: #333;
 }
 

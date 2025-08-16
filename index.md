@@ -27,7 +27,6 @@ Collection                                          Description of Posts        
 [Good Eats, Healthy Eats](food.html)                Healthy Eats, Good Eats                                            [food.txt](foot.txt)
 [Going Electric](going_electric.html)               Going Electric                                                     [going_electric.txt](going_electric.txt)
 [Libraries](libraries.html)                         Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
-[State Parks](parks.html)                           State Parks                                                        [parks.txt](parks.txt)
 [Student Journalism](journalism.html)               Student Journalism and the 4th estate                              [journalism.txt](journalism.txt)
 [Motorcycles](motorcycles.html)                     Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
 [Craft](craft.html)                                 Craft and Design                                                   [craft.txt](craft.txt)

@@ -3,8 +3,7 @@
 <head>
   <meta charset="utf-8" >
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
-  <title>Antenna Search</title>
-<!--  <link rel="stylesheet" type="text/css"  href="webfonts/fonts.css" media="screen" > -->
+  <title>Search</title>
   <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
 </head>
 <body>
@@ -19,37 +18,49 @@
 <nav>
 <ul>
 	<li><a href="./">The Antenna</a></li>
-	<li><a href="snapshots/" title="Somedays daily">Snapshots</a></li>
-	<li><a href="archives/">Archives</a></li>
-	<li><a href="search.html">Search</a></li>
+	<li><a href="README.html">Implementation</a></li>
 	<li><a href="about.html">About</a></li>
 </ul>
 </nav>
 <section>
-<h1 id="project-search">project search</h1>
-<p><link href="pagefind/pagefind-ui.css" rel="stylesheet"></p>
-<script src="pagefind/pagefind-ui.js"></script>
-<div id="search">
-
-</div>
+<noscript>
+JavaScript must be enabled for search to work
+</noscript>
+<h1 id="antennas-search">Antenna’s Search</h1>
+<p><search id="search"></search></p>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
 <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ 
-            element: "#search",
-            showSubResults: true,
-            highlightParam: "highlight",
-            bundlePath: "./"
-        });
-    });
+// Fetch the query "q" form the URL
+function getQueryParam(name) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(name);
+}
+
+// When the page is loaded setup PageFindUI object.
+window.addEventListener('DOMContentLoaded', (event) => {
+  const pagefindUI = new PagefindUI({
+  element: "#search",
+  showSubResults: true,
+  highlightParam: "highlight",
+  mergeIndex: [
+      {
+        bundlePath: "https://rsdoiel.github.io/antenna/pagefind",
+        baseUrl: "/antenna/"
+      },
+    ]
+  });
+  
+  const queryString = getQueryParam("q");
+  if (queryString) {
+    pagefindUI.triggerSearch(queryString);
+  }
+});
 </script>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.
-Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
 </footer>
-<script type="module">
-    await import('/pagefind/pagefind-highlight.js');
-    new PagefindHighlight({ highlightParam: "highlight" });
-</script>
 </body>
 </html>
