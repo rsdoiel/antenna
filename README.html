@@ -31,10 +31,10 @@ static website <a
 href="https://en.wikipedia.org/wiki/Linklog">LinkBlog</a>. I use it to
 read the web content I follow. Antenna demonstrates that aggregating
 news can be done by an individual with a little effort and a few tools.
-None of need to rely on large internet companies to be informed or to
-keep up to date. The resulting website can be hosted locally on your
-computer or on a static website hosting service (example GitHub, GitLab,
-BitBucket).</p>
+No one really needs to rely on large internet companies to be informed
+or to keep up to date. The resulting website can be hosted locally on
+your computer or on a static website hosting service (example GitHub,
+GitLab, BitBucket).</p>
 <h2 id="tools-to-build-this-aggregation">Tools to build this
 aggregation</h2>
 <ul>
@@ -46,6 +46,19 @@ Windows)</li>
 </ul>
 <p>NOTE: The publish.bash and publish.ps1 scripts require Git to publish
 to GitHub.</p>
+<p>There are many ways to run a localhost web server.</p>
+<ul>
+<li><a href="https://github.com/caltechlibrary/wsfn/releases">wsfn</a>,
+provides a “ws” command for macOS, Linux, Raspberry OS and Windows. You
+tell it the port number and directory to server and it runs on
+localhost, (e.g. <code>http://localhost:8000</code>)</li>
+<li>If you have Deno you can build your own, see <a
+href="https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html"
+class="uri">https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html</a>
+for an example.</li>
+<li>Python and PHP provide one via the command line</li>
+</ul>
+<p>These are only few. A DuckDuckGo search will find many more.</p>
 <h2 id="the-moving-parts">The moving parts</h2>
 <p><a href="https://rsdoiel.github.io/skimmer">skimmer</a> is used to
 collect data from RSS, Atom and JSON feeds that are listed in a text
