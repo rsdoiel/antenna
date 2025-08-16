@@ -5,24 +5,12 @@ https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2 "~Calfifornia Dept. A
 https://acwm.lacounty.gov/feed/ "~L.A. Country Agriculture Commissioner/Weights & Measures News"
 https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
 https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Clarita" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
-# Theodore Payne's website redesign removed feeds even though they remain a Wordpress site.
-# I might be able to restore this if I can figure out how to leverl the wp-json link visiable
-# in elinks. 2024-09-01 RSD
-##https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) ## Theodore Payne stopped having feeds after site reorg.
-https://www.cnps.org/feed "~California Native Plants Society"
 https://californiaoaks.org/feed/ "~California Oaks News"
-##https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
-##https://homesteadandchill.com/feed/ "~Homestead and Chil"
 https://www.familyhandyman.com/feed/ "~Family Handyman Blog"
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
 https://www.gardenista.com/rss/ "~Gardenista Blog"
 https://wildyards.com/feed/ "~Wild Yards blog"
 https://ownyardlife.com/feed/ "~Yard Life blog"
-##https://thetinylife.com/feed/ "~The Tiny Life blog"
-##https://elemental.green/feed/ "~Elemental Green blog"
-# This site looks interesting, they include a feed link in their HTML but it is returning errors.
-# They appear tobe a Wordpress site. Not sure what is up. 
-https://www.attainablehome.com/wp/feed/ "~The Attainable Home" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.practicaloffgridliving.com/feed/ "~Practical Off-Grid Living"
 https://gregalder.com/yardposts/feed/ "~Greg Alder's blog, Yard Post"
 https://californiagrown.org/feed/ "~California Grown"
@@ -30,7 +18,7 @@ https://californiagrown.org/feed/ "~California Grown"
 #
 # Inspiration
 #
-https://thejapanesegarden.com/feed/ "~The Japanese Garden"
+##https://thejapanesegarden.com/feed/ "~The Japanese Garden" "curl/7.88.1 (rsdoiel@gmail.com, rsdoiel.github.io)"
 https://www.ediblesfvalley.com/feed/ "~Edible San Fernando Valley"
 https://freckledcalifornian.com/feed/ "~The Freckled Gardener"
 https://gardenerspath.com/feed/ "~The Gardener's Path"

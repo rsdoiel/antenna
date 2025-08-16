@@ -64,3 +64,10 @@ find . -type f | grep -E '\.md$' | while read -r MD_FILE; do
           "${MD_FILE}" \
           >"${HTML_FILE}"
 done
+
+
+# Build our search indexes now that we have HTML pages.
+pagefind \
+  --verbose \
+  --force-language en \
+  --site .

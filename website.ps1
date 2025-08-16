@@ -65,3 +65,9 @@ Get-ChildItem -File -Recurse -Filter "*.md" | ForEach-Object {
            "$MD_FILE" `
            -o "$HTML_FILE"
 }
+
+# Build our search indexes now that we have HTML pages.
+pagefind \
+  --verbose \
+  --force-language en \
+  --site .
