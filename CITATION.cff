@@ -12,7 +12,6 @@ authors:
 
 
 repository-code: "git+https://github.com/rsdoiel/antenna"
-<<<<<<< HEAD
 version: 0.0.2
 date-released: 2025-08-16
 
@@ -23,9 +22,4 @@ keywords:
   - New
   - website
   - static
-=======
-version: 0.0.0
-
-
->>>>>>> 2c5ab7081cca2e85470c4e147858d30386171ca5
 
