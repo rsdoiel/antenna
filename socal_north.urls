@@ -31,16 +31,16 @@ https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 #
 # Government sites
 #
-https://santaclarita.gov/feed/ "~City of Santa Clarita"
-https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
-https://www.portofhueneme.org/feed/ "~Port Hueneme"
+https://santaclarita.gov/feed/ "~City of Santa Clarita" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
+https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
+##https://www.portofhueneme.org/feed/ "~Port Hueneme" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
 
 
 # May expect known browser agent string
 #https://www.vandenberg.spaceforce.mil/rss/ "~Vandenberg Base News"
 #https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
-#HTTPs://www.rand.org/blog.xml  "~RAND blog"
-#https://www.rand.org/news/press.xml "~RAND press releases"
+##HTTPs://www.rand.org/blog.xml  "~RAND blog"
+##https://www.rand.org/news/press.xml "~RAND press releases"
 
 #
 # Local Government
@@ -54,18 +54,18 @@ https://feed.podbean.com/lapublichealth/feed.xml "~L.A. Public Health"
 #
 # News from California's central coast
 #
-https://causenow.org/blog/feed "~Cause, Central Coast Alliance for a Sustainable Economy" # Progressive organization in S. B. County"
+#https://causenow.org/blog/feed "~Cause, Central Coast Alliance for a Sustainable Economy" # Progressive organization in S. B. County"
 #https://www.noozhawk.com/feed/ "~Newshawk, the freshest news in Santa Barbara County" 
 #https://goletavoice.com/feed/ "~Goleta Voice" # Appears to be real estate and business funded
-https://www.portofhueneme.org/feed/ "~Port Hueneme"
+##https://www.portofhueneme.org/feed/ "~Port of Hueneme" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
 
 #
 # State of California
 #
-https://www.californiavolunteers.ca.gov/feed/ "~CalVolunteers"
+https://www.californiavolunteers.ca.gov/feed/ "~CalVolunteers" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
 
 #
 # San Pedro & Long Beach
 #
-https://lbpost.com/news/feed/ "~Longbeach Post"
+##https://lbpost.com/news/feed/ "~Longbeach Post" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
 

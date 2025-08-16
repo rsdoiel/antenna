@@ -3,15 +3,15 @@
 #
 https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2 "~Calfifornia Dept. Aggriculture blog"
 https://acwm.lacounty.gov/feed/ "~L.A. Country Agriculture Commissioner/Weights & Measures News"
-https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News"
-https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Clarita"
+https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
+https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Clarita" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
 # Theodore Payne's website redesign removed feeds even though they remain a Wordpress site.
 # I might be able to restore this if I can figure out how to leverl the wp-json link visiable
 # in elinks. 2024-09-01 RSD
 ##https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) ## Theodore Payne stopped having feeds after site reorg.
 https://www.cnps.org/feed "~California Native Plants Society"
 https://californiaoaks.org/feed/ "~California Oaks News"
-https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
+##https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
 https://homesteadandchill.com/feed/ "~Homestead and Chil"
 https://www.familyhandyman.com/feed/ "~Family Handyman Blog"
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
@@ -39,7 +39,7 @@ https://gardenerspath.com/feed/ "~The Gardener's Path"
 # Companies and Suppliers
 #
 https://sandiegoseedcompany.com/feed/ "~San Diego Seed Company"
-https://friendlycontractor.com/feed/ "~PHB blog"
+##https://friendlycontractor.com/feed/ "~PHB blog"
 
 #
 # Food and Health, what our gardens deliver to us
@@ -49,7 +49,7 @@ https://friendlycontractor.com/feed/ "~PHB blog"
 #
 # Magazines
 #
-https://www.dwell.com/@dwell/rss "~Dwell"
+##https://www.dwell.com/@dwell/rss "~Dwell"
 https://www.sunset.com/feed "~Sunset Magazine - Living in the West"
 
 #

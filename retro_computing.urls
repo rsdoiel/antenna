@@ -34,8 +34,8 @@ https://heyrick.eu/blog/blog-rss.xml "~Richard Murray's blog"
 # Apple
 https://www.folklore.org/folklore.xml "~Folklore, Apple History"
 
-# Lisp and Pop-2
-https://lisp-machine.org/feed/ "~Lispmachine-org blog"
+# Lisp and Pop-2, 406 errors, 2025-08-16
+#https://lisp-machine.org/feed/ "~Lispmachine-org blog"
 
 # Projects and recreations
 https://www.go4retro.com/feed/ "~Retro Innovations blog"
@@ -49,7 +49,8 @@ https://vcfed.org/wp/feed/ "~Vintage Computing Federation"
 https://www.itforarchivists.com/index.xml "~IT for Archivists"
 https://www.vintagecomputing.com/index.php/feed "~Vintage Computing"
 https://computerhistory.org/stories/feed/ "~Computer History: Stores"
-https://computeradsfromthepast.substack.com/feed "~Computer ads from the Past"
+# 403 errors, 2025-08-16
+#https://computeradsfromthepast.substack.com/feed "~Computer ads from the Past"
 https://www.filfre.net/feed/ "~Digital Antiquarian"
 https://bitsplitting.org/feed/ "~Bitsplitting Blog"
 

@@ -31,6 +31,5 @@ Collection                                          Description of Posts        
 [Motorcycles](motorcycles.html)                     Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
 [Craft](craft.html)                                 Craft and Design                                                   [craft.txt](craft.txt)
 [Writing](writing.html)                             Writing and Writing Tools                                          [writing.txt](writing.txt)
-[Weather](weather.html)                             [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
 
 To read more about this experiment in the [README](README.md) file.
