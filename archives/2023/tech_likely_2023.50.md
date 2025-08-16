@@ -1,0 +1,199 @@
+---
+title: tech likely 2023.50
+<<<<<<< HEAD
+<<<<<<< HEAD
+updated: 2023-12-17 09:46:13
+=======
+updated: 2023-12-17 11:13:29
+>>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
+=======
+<<<<<<< HEAD:archives/2023/tech_likely_2023.50.md
+updated: 2023-12-17 11:13:29
+=======
+updated: 2023-12-17 09:46:13
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/tech_likely_2023.50.md
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
+---
+
+# tech likely 2023.50
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+(date: 2023-12-17 09:46:13)
+=======
+(date: 2023-12-17 11:13:29)
+>>>>>>> 8087c72b68e24cb3d3acf19d37b3226bcbf2df14
+=======
+<<<<<<< HEAD:archives/2023/tech_likely_2023.50.md
+(date: 2023-12-17 11:13:29)
+=======
+(date: 2023-12-17 09:46:13)
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/tech_likely_2023.50.md
+>>>>>>> 6525e295f1927c5e79698cfbf4c545310d07b5d6
+
+---
+
+## Taking Russia to Court
+
+date: 2023-12-19, from: ETH Zurich, recently added
+
+Bogush, Gleb; Nalepa, Monika; Remington, Thomas F.
+Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder, Hans-Henning; Powell, Ellen
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/648037">http://hdl.handle.net/20.500.11850/648037</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/648037">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-17, from: Dave Winer's Scripting News)
+
+The last episodes of <a href="https://www.google.com/search?q=site%3Ascripting.com+%22the+crown%22">The Crown</a> were absolute garbage. It's so bad that you notice the music and how dramatic it is for absolutely no drama on screen. I'm surprised the actors were willing to go along with it. The only good part was where the Queen does standup near the end of the last episode. Something like 80 hours of TV behind them, and all of a sudden this stoic character, with no sense of humor whatsoever, who can't even cry, is bringing down the house. Oh please. I had to stick around to see how bad it can get, now you don't. If I had to give it a rating it would be <a href="https://imgs.scripting.com/2023/12/17/ohthehumanity.png">Oh The Humanity</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/17.html#a182414">http://scripting.com/2023/12/17.html#a182414</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/17.html#a182414">Save to Pocket</a>
+</span>
+
+---
+
+## FDISK 1.3.11
+
+date: 2023-12-17, from: FreeDOS News
+
+<div class="markdown_content"><p>The FDISK program creates and manages partitions on a hard drive. FreeDOS FDISK recently had two new maintenance releases that fixed several bugs. 1.3.10 increased compatibility with some older quirky IDE controllers and added an Italian translation. Version 1.3.11 fixed a bug where FDISK was not writing the partition table of the 8th disk. You can download the new versions from the FDISK repository <a class="" href="https://github.com/FDOS/fdisk" rel="nofollow">on GitHub</a> or more directly from the <a class="" href="https://github.com/FDOS/fdisk/releases" rel="nofollow">releases page</a>.</p></div>
+
+<span class="feed-item-link">
+<a href="https://sourceforge.net/p/freedos/news/2023/12/fdisk-1311/">https://sourceforge.net/p/freedos/news/2023/12/fdisk-1311/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sourceforge.net/p/freedos/news/2023/12/fdisk-1311/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/12/17/lastDuel.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Picked a movie, <a href="https://en.wikipedia.org/wiki/The_Last_Duel_(2021_film)">The Last Duel</a>, more or less at random, based largely on <a href="https://en.wikipedia.org/wiki/The_Last_Duel_(2021_film)#Cast">who</a> was in it, and the fact that the <a href="https://www.nytimes.com/2021/10/13/movies/the-last-duel-review.html?unlocked_article_code=1.Gk0.YAJS.AGdcc4Vz9G0C&hpgrp=k-abar&smid=url-share">NYT</a> gave it a critic's pick rating. It was good. But this isn't a movie review, it's a review of the user interface for choosing movies on streaming services. Why can't we integrate a site like <a href="http://metacritic.com/">Metacritic</a> with Hulu, Netflix, Amazon, Max, AppleTV, et al. Just let me know what Metacritic says, and make it clickable, so I can see what the individual pubs had to say if I want more info. Don't make me look it up. People joke about how we spend our time scrolling around not watching anything. But it's true, I do it. Most of them are not worth the time, I suspect. But when you find one that's good, almost at random and even so had to do a lot of work to determine if it was worth a chance, and this has been going on for a decade, why doesn't one of these services just buy Metacritic and integrate it and make your users sing your praises everywhere online. How much could Metacritic cost? (They seem to be in trouble, a lot of the links generated by their CMS are broken.)
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/17.html#a180650">http://scripting.com/2023/12/17.html#a180650</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/17.html#a180650">Save to Pocket</a>
+</span>
+
+---
+
+## The effects of a pub lunch?
+
+date: 2023-12-17, from: Status-Q blog
+
+Spotted in the skies above Derbyshire a couple of weeks ago. First thing in the morning, perhaps after a good strong coffee&#8230; Later in the day, in those same skies&#8230; Phew, Bob &#8211; that was a bit close!&#8230;
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2023/12/17/11859/">https://statusq.org/archives/2023/12/17/11859/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2023/12/17/11859/">Save to Pocket</a>
+</span>
+
+---
+
+## LAST NIGHT I DREAMED OF HIPPOS ON THE BEACH
+
+date: 2023-12-17, from: Howard Jacobson blog
+
+&#8216;Why are there hippos on the beach?&#8217; I asked the lifeguard. He looked like an older Tadzio from Death in Venice, clad in striped concentration-camp pyjamas, conscious of his beauty. He answered my question with a question. &#8216;You&#8217;ve heard of liposuction?&#8217;
+
+<span class="feed-item-link">
+<a href="https://jacobsonh.substack.com/p/last-night-i-dreamed-of-hippos-on">https://jacobsonh.substack.com/p/last-night-i-dreamed-of-hippos-on</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jacobsonh.substack.com/p/last-night-i-dreamed-of-hippos-on">Save to Pocket</a>
+</span>
+
+---
+
+## SSH3: faster and rich secure shell using HTTP/3
+
+date: 2023-12-17, from: Tilde.news
+
+<p>Article here: <a href="https://arxiv.org/pdf/2312.08396.pdf" rel="ugc">https://arxiv.org/pdf/2312.08396.pdf</a></p>
+
+            <p><a href="https://tilde.news/s/xg8cbh/ssh3_faster_rich_secure_shell_using_http_3">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/francoismichel/ssh3">https://github.com/francoismichel/ssh3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/francoismichel/ssh3">Save to Pocket</a>
+</span>
+
+---
+
+## Iffy Books Permacomputing Meetup - Sunday, December 17th at 1:00 PM EST
+
+date: 2023-12-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/1iir9q/iffy_books_permacomputing_meetup_sunday">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://iffybooks.net/event/permacomputing-dec-17/">https://iffybooks.net/event/permacomputing-dec-17/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://iffybooks.net/event/permacomputing-dec-17/">Save to Pocket</a>
+</span>
+
+---
+
+## Stress and stress management in a digital world: Towards a technology-mediated intervention programme for the workplace
+
+date: 2023-12-17, from: ETH Zurich, recently added
+
+Kerr, Jasmine I.
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/648038">http://hdl.handle.net/20.500.11850/648038</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/648038">Save to Pocket</a>
+</span>
+
+---
+
+## siegfried 1.11.0 released
+
+date: 2023-12-17, from: IT for Archivists
+
+Version 1.11.0 of siegfried is now available. Get it here.
+CHANGELOG v1.11.0 (2023-12-17) glob-matching for container signatures; see digital-preservation/pronom#10 sf -update requires less updating of siegfried; see #231 default location for siegfried HOME now follows XDG Base Directory Specification; see #216. Implemented by Bernhard Hampel-Waffenthal siegfried prints version before erroring with failed signature load; requested by Ross Spencer update PRONOM to v116 update LOC to 2023-12-14 update tika-mimetypes to v3.0.0-BETA update freedesktop.
+
+<span class="feed-item-link">
+<a href="https://www.itforarchivists.com/post/sf1110/">https://www.itforarchivists.com/post/sf1110/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.itforarchivists.com/post/sf1110/">Save to Pocket</a>
+</span>
+
+---
+
+## Full Circle Weekly News 344
+
+date: 2023-12-17, from: Full Circle Magazine
+
+<ul>
+<li>
+<p><a href="https://godotengine.org/article/godot-4-2-arrives-in-style/">Release of Godot 4.2:</a></p>
+</li>
+<li>
+<p><a href="https://alpinelinux.org/posts/Alpine-3.19.0-released.html">Release of Alpine Linux 3.19:</a></p>
+</li>
+<li>
+<p><a href="https://community.endlessos.com/t/release-endless-os-5-1-0/20855">Release of Endless OS 5.1:</a></p>
+</li>
+<li>
+<p><a href="https://blog.minetest.net/2023/12/04/5.8.0-released/">Release of Minetest 5.8.0:</a></p>
+</li>
+<li>
+<p><a href="https://datatracker.ietf.org/doc/draft-koch-openpgp-2015-rfc4880bis/">Author GnuPG founded LibrePGP:</a></p>
+</li>
+<li>
+<p><a href="https://www.debian.org/News/2023/2023120902">Debian 12.3 release delayed due to a problem causing damage to Ext4 FS:</a></p>
+</li>
+<li>
+<p><a href="https://lubuntu.me/noble-alpha-featureset/">Lubuntu will switch to Qt 6 and Wayland:</a></p>
+</li>
+</ul>
+<p><strong>Credits</strong></p>
+<ul>
+<li>Host: <a href="https://twitter.com/bardictriad">@bardictriad</a>, <a href="mailto:zaivala@hostux.social">@zaivala</a></li>
+<li>Bumper: <a href="https://canonical.com/">Canonical</a></li>
+<li>Theme Music: From The Dust - Stardust</li>
+<li><a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a></li>
+<li><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://fullcirclemagazine.org/podcasts/podcast-344/">https://fullcirclemagazine.org/podcasts/podcast-344/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fullcirclemagazine.org/podcasts/podcast-344/">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+
