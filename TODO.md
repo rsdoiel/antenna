@@ -1,3 +1,6 @@
+---
+title: Getting Things Done
+---
 
 # GTD
 
