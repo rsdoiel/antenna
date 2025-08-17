@@ -24,6 +24,7 @@ find . -type f | grep -E '\.skim$' | while read -r SKIM_FILE; do
   sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'read'"
   sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '${LAST_WEEKDAY}'"
   skim2html "${SKIM_FILE}" front_page.yaml>"${HTML_FILE}"
+  git add "${HTML_FILE}"
 done
 
 # Find the CommonMark files and render them to HTML with Pandoc
@@ -35,6 +36,7 @@ find . -type f | grep -E '\.md$' | while read -r MD_FILE; do
           --template front_page.tmpl \
           "${MD_FILE}" \
           >"${HTML_FILE}"
+  git add "${HTML_FILE}"
 done
 
 
@@ -43,3 +45,4 @@ pagefind \
   --verbose \
   --force-language en \
   --site .
+git add pagefind
