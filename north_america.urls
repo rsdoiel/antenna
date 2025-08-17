@@ -13,6 +13,7 @@ https://feeds.publicradio.org/public_feeds/marketplace-morning-report "~Marketpl
 #
 #https://capitalandmain.com/feed "~Capital and Main" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
 #https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://feeds.npr.org/1017/rss.xml "~NPR Economic"
 
 #
 # Think Tanks
