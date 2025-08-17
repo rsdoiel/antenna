@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # Get today's date and the nearest Sunday and Saturday
 TODAY=$(reldate +0 day)
 LAST_WEEKDAY=$(reldate -- -7 day)
