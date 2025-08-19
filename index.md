@@ -25,7 +25,7 @@ Other reading.
 
 Collection                                          Description of Posts                                               list
 ---------------------------------                   --------------------------------------------------------------     --------------------------------
-[Small Paperss](small_papers.html)                  Small regional papers  ogs and news                                [small_papers.txt](small_papers.txt)
+[Small Papers](small_papers.html)                   Small regional papers  ogs and news                                [small_papers.txt](small_papers.txt)
 [Home, Garden & Urban Farm](home.html)              Home, Garden & Urban blogs and news                                [home.txt](home.txt)
 [Good Eats, Healthy Eats](food.html)                Healthy Eats, Good Eats                                            [food.txt](foot.txt)
 [Going Electric](going_electric.html)               Going Electric                                                     [going_electric.txt](going_electric.txt)
