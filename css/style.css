@@ -89,7 +89,7 @@ article:not(:first-of-type)::before {
     left: 0;
     width: 100vw;
     height: auto;
-    border-top: double 3px #333;
+    border-top: dotted 2px #333;
     margin-left: calc(-50vw + 50%);
     top: 0px;
 }
