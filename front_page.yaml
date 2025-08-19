@@ -3,7 +3,7 @@ modules:
   - modules/date_filter.js
 header: |
   <img class="logo" 
-      src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
+      src="./media/Antenna_1_-_The_Noun_Project.svg"
       alt="line art showing an antenna"
       height="80" width="60" >
   <h1>The Antenna</h1> 
