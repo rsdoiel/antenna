@@ -1,7 +1,7 @@
 # SoCal North's feeds.
 
 # Weather Data
-https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forecast for Santa Clarita" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forecast for Santa Clarita"
 
 #
 # For Profit news organizations (Replaced by smal_papers.txt)
@@ -31,9 +31,9 @@ https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 #
 # Government sites
 #
-https://santaclarita.gov/feed/ "~City of Santa Clarita" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
-https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
-##https://www.portofhueneme.org/feed/ "~Port Hueneme" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
+https://santaclarita.gov/feed/ "~City of Santa Clarita"
+https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
+##https://www.portofhueneme.org/feed/ "~Port Hueneme"
 
 
 # May expect known browser agent string
@@ -57,15 +57,15 @@ https://feed.podbean.com/lapublichealth/feed.xml "~L.A. Public Health"
 #https://causenow.org/blog/feed "~Cause, Central Coast Alliance for a Sustainable Economy" # Progressive organization in S. B. County"
 #https://www.noozhawk.com/feed/ "~Newshawk, the freshest news in Santa Barbara County" 
 #https://goletavoice.com/feed/ "~Goleta Voice" # Appears to be real estate and business funded
-##https://www.portofhueneme.org/feed/ "~Port of Hueneme" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
+##https://www.portofhueneme.org/feed/ "~Port of Hueneme"
 
 #
 # State of California
 #
-https://www.californiavolunteers.ca.gov/feed/ "~CalVolunteers" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
+https://www.californiavolunteers.ca.gov/feed/ "~CalVolunteers"
 
 #
 # San Pedro & Long Beach
 #
-##https://lbpost.com/news/feed/ "~Longbeach Post" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
+##https://lbpost.com/news/feed/ "~Longbeach Post"
 

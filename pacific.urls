@@ -22,15 +22,15 @@ https://www.usp.ac.fj/feed/ "~University of the South Pacific (Fiji)"
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
 #https://www.guampdn.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc "~Guam Pacific Daily News"
-#https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # even after adding the agent string retrieving the feed is not reliable, 2023-12-15
-##https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # feed is dropped, not reliable, 2023-12-23
+#https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News"
+##https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post"
 ##https://www.postguam.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc "~Guam Daily Post"
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
-https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times"
 # Northern Marianas Papers
 https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Variety"
 # saipantrimbine.com: getting errors, to many requests, 2023-10-16
-#https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune" # dropped 2023-12-05, not reliable
+##https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune" # dropped 2023-12-05, not reliable
 
 
 # From the Republic of Belau

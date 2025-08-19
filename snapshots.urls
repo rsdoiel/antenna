@@ -1,7 +1,7 @@
 
 #http://blog.bloonface.com/feed/ "~Bloonface Blog"
 https://dave.linkblog.org/ "~Dave Winer's linkblog"
-http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
 http://feeds.feedburner.com/reybango/zSyW "~Rey Bango Blog"
 http://feeds.feedburner.com/shiftf8 "~Rob Lamog-Doiel"
 http://l2program.co.uk/feed "~Joss Whittle, The rantings of a mad scientist"
@@ -11,7 +11,7 @@ https://about.lens.org/category/news/feed/ "~Lens.org news"
 https://adventofcomputing.libsyn.com/rss "~Advent of Computing"
 https://alex.pearwin.com/atom.xml "~Alex Pearce blog (CERN)"
 https://amw.org/category/news/feed/ "~Asilomar Microcomputer Workshop News"
-https://arks.org/feed/index.xml "~Arks Alliance blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://arks.org/feed/index.xml "~Arks Alliance blog"
 https://ashwinschronicles.github.io/feeds/all.atom.xml "~Ashwin's Chronicles"
 https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
 https://biosrhythm.com/?feed=rss2 "~Biosrhythm blog"
@@ -23,19 +23,19 @@ https://blog.hubersn-software.com/feed/ "~Hubersn Software Blog"
 https://blog.llvm.org/index.xml "~LLVM Blog"
 https://blog.luizirber.org/atom.xml "~Luizirber blog"
 https://blogs.ch.cam.ac.uk/pmr/feed/index.xml "~petermr's blog"
-https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog"
 #https://blueskyweb.xyz/rss.xml "~Bluesky web news"
 https://bnbalsamo.github.io/feed.xml "~Brian Balsamo's blog"
 https://briancallahan.net/blog/feed.xml "~Brian Robert Callahan blog"
 https://brr.fyi/feed.xml "~brr, an Antarctica IT blog"
-https://bsky.app/profile/did:plc:nbdlhw2imk2m2yqhwxb5ycgy/rss "~Robert's feed at BlueSky" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://bsky.app/profile/did:plc:nbdlhw2imk2m2yqhwxb5ycgy/rss "~Robert's feed at BlueSky"
 ##https://bsky.social/about/rss.xml "~Bluesky web news"
 https://bucci.onl/feed.xml "~Anthony Bucci blog"
 #https://buttondown.email/denonews/rss "~Deno News"
 https://bytecodealliance.org/feed.xml "~Bytecode Alliance News"
 https://cabel.com/feed/ "~Cobel Sasser's blog"
 https://cate.blog/feed/ "~Accidentally in Code"
-https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture"
 https://collectionsasdata.github.io/atom.xml "~Collections Data blog"
 https://commandcenter.blogspot.com/feeds/posts/default?alt=rss "~Rob Pike's blog"
 # 403 errors, 2025-08-16
@@ -107,7 +107,7 @@ https://matthewlincoln.net/feed.xml "~Matthew Lincoln Blog"
 https://matt.might.net/articles/feed.rss "~Matt Might blog"
 https://mattweidner.com/feed.xml "~Matt Weidner blog" # Local-First blogger
 https://maxhalford.github.io/index.xml "~Max Halford Blog"
-https://media.ccc.de/news.atom "~Chaos Computer Club News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://media.ccc.de/news.atom "~Chaos Computer Club News"
 https://medium.com/feed/@conrad_9565 "~Conrad Barski"
 https://medium.com/feed/cutiepi "~CutiePi Blog"
 https://medium.com/feed/@dsearls "~Doc Searls on Medium"
@@ -128,7 +128,7 @@ https://nlnet.nl/feed.atom "~nlnet feed"
 https://nora.codes/index.xml "~Nora Tindall's blog"
 https://notes.peter-baumgartner.net/index.xml "~Notes by Peter Baumgartner"
 https://ocelot.ca/blog/feed/ "~Ocelot SQL GUI blog"
-##https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+##https://odysseygamesco.com/feed/ "~Odyssey Games blog"
 https://onefoottsunami.com/feed/atom/ "~One Foot Tsunami"
 https://ooh.directory/blog/feeds/posts.xml "~ooh.directory blog"
 # failed to respond 2024-12-02, RSD
@@ -145,7 +145,7 @@ https://pressthink.org/feed/ "~Press Think"
 https://profgriz.wordpress.com/feed/ "~Prof. Griswold blog, UCSD Software Evolution Lab"
 https://progtools.org/rss.php "~Programmer's Toolbox (Paolo Pinto's blog)"
 https://prologue.blogs.archives.gov/feed/ "~National Archives, Pieces of History blog"
-https://prolost.com/blog?format=rss "~Stu Maschwitz blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://prolost.com/blog?format=rss "~Stu Maschwitz blog"
 https://reactos.org/index.xml "~ReactOS News"
 https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst, sustainabilty done fairly)"
 https://robinrendle.com/feed.xml "~Robin Rendle Essays"
@@ -168,9 +168,9 @@ https://www.thisisthesqueeze.com/feed "~The Squeeze"
 https://thorstenball.com/atom.xml "~Thurston Ball blog"
 #https://tilde.news/rss "~Tilde.news"
 https://tilde.zone/@tomasino.rss "~Tomosino's Mastodon feed"
-https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://timkellogg.me/blog/atom.xml "~Tom Kellog blog"
 ## Tim appears to have dropped his RSS feed from blog, last post is dated May 30, 2023 (may not be blogging now)
-#https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"
 https://tink.uk/feed.xml "~Tink's blog"
 https://tinyclouds.org/feed "~Ryan Dahl's blog"
 https://transitinglosangeles.com/feed/ "~Transiting Los Angeles"
@@ -192,7 +192,7 @@ https://www.authorsalliance.org/category/blog/feed/ "~Authors Union blogs"
 https://www.brain-dump.org/index.xml "~Marc André Tanner blog (creator of vis editor)"
 https://www.brettbecker.com/feed/ "~Brett Brecker Blog (CS Prof. UCD Dublin)"
 https://www.bunniestudios.com/blog/feed/ "~Bunnie's Studio Blog"
-https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates"
 #https://www.cjemicros.co.uk/blog/?feed=comments-rss2 "~CJE Risc Micro Blog"
 ##https://www.coreystephan.com/feed/ "~Corey Stephan blog"
 #https://www.cringely.com/feed/ "~I Cringely blog"
@@ -202,10 +202,10 @@ https://www.dashes.com/feed.xml "~Anil Dash"
 https://www.digitalrhetoriccollaborative.org/feed/ "~Digital Humanities Quarterly News"
 https://www.elevatedmaterials.com/feed/ "~Elevated Materials, upcycled carbon fiber"
 https://www.folklore.org/folklore.xml "~Folklore, Apple History"
-https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-#https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems Blog"
+#https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook"
 https://www.go4retro.com/feed/ "~Retro Innovations blog"
-https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.gregegan.net/feed.rss "~Greg Egan's feed"
 ####https://www.hangaroundtheweb.com/index.xml "~Hanging Around the Web blog"
 https://www.haskell.org/ghc/rss.xml "~Glasgow Haskell Compiler"
 https://www.howtoraspberry.com/feed/ "~How to Raspberry"
@@ -213,7 +213,7 @@ https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web 
 #https://www.jayeless.net/posts/index.xml "~Jessica Smith's blog"
 https://www.joelonsoftware.com/feed/ "~Joel on Software"
 https://www.jsonfeed.org/feed.xml "~JSON Feed blog"
-https://www.lagq.com/news?format=RSS "~L.A.G.Q. news" curl/8.5.0
+https://www.lagq.com/news?format=RSS "~L.A.G.Q. news"
 https://www.marginalia.nu/log/index.xml "~Marginallia log"
 #https://www.mercurynews.com/feed/ "~San Jose Mercury News"
 https://www.modos.tech/blog/rss.xml "~Modos Blog"
@@ -224,7 +224,7 @@ https://www.oskitone.com/products.xml "~Oskitone product feed"
 https://www.pcjs.org/feed.xml "~PCjs Blog"
 #https://www.postgresql.org/news.rss "~PostgreSQL News"
 https://www.raspberrypi.com/news/feed/ "~Raspberry Pi News (.com)"
-https://www.redox-os.org/news/index.xml "~Redox OS News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.redox-os.org/news/index.xml "~Redox OS News"
 https://www.sevarg.net/feed.xml "~Russell Graves, Syonyk's Project Blog"
 # SGV LUG seems to be offline right now, leave in for now (related to the Eaton Fire?). 2025-02-06 RSD
 https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"

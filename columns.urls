@@ -55,7 +55,7 @@ https://daniel.haxx.se/blog/feed/ "~Daniel Stenberg Blog"
 # People Blogs, from news.txt, evaluate and prune
 #
 https://benhoyt.com/writings/rss.xml "~Ben Hoyt's Tech Writing"
-https://val.demar.in/feed/ "~Paolo Valdemarin's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://val.demar.in/feed/ "~Paolo Valdemarin's blog"
 https://yihui.org/en/index.xml "~YiHui Xie blog"
 https://writings.stephenwolfram.com/feed/ "~Stephen Wolfram blog"
 #https://www.antipope.org/charlie/blog-static/atom.xml "~Charlie's Diary"
@@ -81,7 +81,7 @@ http://jan.kneschke.de/feed/atom.xml "~Jan Kneschke blog"
 http://jirka.1-2-8.net/blog-rss.xml "~Jirka's blog"
 http://l2program.co.uk/feed "~Joss Whittle, The rantings of a mad scientist"
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
-##http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+##http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog"
 https://ghuntley.com/rss/ "~Geoffrey Hunntley's blog"
 https://xn--gckvb8fzb.com/index.xml "~mrusme blog"
 https://xobs.io/index.xml "~Xobs blog"

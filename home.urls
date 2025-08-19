@@ -3,8 +3,8 @@
 #
 https://plantingseedsblog.cdfa.ca.gov/wordpress/?feed=rss2 "~Calfifornia Dept. Aggriculture blog"
 https://acwm.lacounty.gov/feed/ "~L.A. Country Agriculture Commissioner/Weights & Measures News"
-https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)"
-https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Clarita" "curl/8.5.0 (rsdoiel@gmail.com,rsdoiel.github.io)"
+https://santaclarita.gov/specialdistricts/feed/ "~City of Santa Clarita, Urban Forestry News"
+https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Clarita"
 https://californiaoaks.org/feed/ "~California Oaks News"
 https://www.familyhandyman.com/feed/ "~Family Handyman Blog"
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
@@ -18,7 +18,7 @@ https://californiagrown.org/feed/ "~California Grown"
 #
 # Inspiration
 #
-##https://thejapanesegarden.com/feed/ "~The Japanese Garden" "curl/7.88.1 (rsdoiel@gmail.com, rsdoiel.github.io)"
+##https://thejapanesegarden.com/feed/ "~The Japanese Garden"
 https://www.ediblesfvalley.com/feed/ "~Edible San Fernando Valley"
 https://freckledcalifornian.com/feed/ "~The Freckled Gardener"
 https://gardenerspath.com/feed/ "~The Gardener's Path"
