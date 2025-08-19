@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.24">
-  <meta name="date" content="2025-08-19T12:06:48-07:00">
+  <meta name="date" content="2025-08-19T14:10:25-07:00">
 </head>
 <body>
   <header>
@@ -48,6 +48,129 @@ Click on the <strong>Slides</strong> button above to view the built-in slides fe
 <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>
       <address>
         <a href="https://notes.peter-baumgartner.net/event/example/">https://notes.peter-baumgartner.net/event/example/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T20:54:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrsbctrvk2f">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-19, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrsbctrvk2f">Robert's feed at BlueSky</a>)
+      <p>
+      Interesting video https://youtu.be/L5QyBl85u1I?feature=shared
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrsbctrvk2f">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrsbctrvk2f</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T20:40:50Z" data-link="https://simonwillison.net/2025/Aug/19/xslt/#atom-everything">
+      <h1>XSLT on congress.gov</h1>
+
+(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://simonwillison.net/2025/Aug/19/xslt/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <p>Today I learned - via <a href="https://github.com/whatwg/html/pull/11563">a proposal to remove mentions of XSLT from the HTML spec</a> - that <code>congress.gov</code> uses XSLT to serve XML bills as XHTML - here's <a href="https://www.congress.gov/117/bills/hr3617/BILLS-117hr3617ih.xml">H. R. 3617 117th CONGRESS 1st Session</a> for example.</p>
+<p>View source on that page and it starts like this:</p>
+<pre>&lt;?<span class="pl-ent">xml</span><span class="pl-e"> version</span>=<span class="pl-s"><span class="pl-pds">"</span>1.0<span class="pl-pds">"</span></span>?&gt;
+&lt;?<span class="pl-ent">xml-stylesheet</span><span class="pl-e"> type</span>=<span class="pl-s"><span class="pl-pds">"</span>text/xsl<span class="pl-pds">"</span></span><span class="pl-e"> href</span>=<span class="pl-s"><span class="pl-pds">"</span>billres.xsl<span class="pl-pds">"</span></span>?&gt;
+&lt;!<span class="pl-ent">DOCTYPE</span> <span class="pl-e">bill</span> PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd"&gt;
+&lt;<span class="pl-ent">bill</span> <span class="pl-e">bill-stage</span>=<span class="pl-s"><span class="pl-pds">"</span>Introduced-in-House<span class="pl-pds">"</span></span> <span class="pl-e">dms-id</span>=<span class="pl-s"><span class="pl-pds">"</span>H5BD50AB7712141319B352D46135AAC2B<span class="pl-pds">"</span></span> <span class="pl-e">public-private</span>=<span class="pl-s"><span class="pl-pds">"</span>public<span class="pl-pds">"</span></span> <span class="pl-e">key</span>=<span class="pl-s"><span class="pl-pds">"</span>H<span class="pl-pds">"</span></span> <span class="pl-e">bill-type</span>=<span class="pl-s"><span class="pl-pds">"</span>olc<span class="pl-pds">"</span></span>&gt; 
+&lt;<span class="pl-ent">metadata</span> <span class="pl-e">xmlns</span><span class="pl-e">:</span><span class="pl-e">dc</span>=<span class="pl-s"><span class="pl-pds">"</span>http://purl.org/dc/elements/1.1/<span class="pl-pds">"</span></span>&gt;
+&lt;<span class="pl-ent">dublinCore</span>&gt;
+&lt;<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">title</span>&gt;117 HR 3617 IH: Marijuana Opportunity Reinvestment and Expungement Act of 2021&lt;/<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">title</span>&gt;
+&lt;<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">publisher</span>&gt;U.S. House of Representatives&lt;/<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">publisher</span>&gt;
+&lt;<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">date</span>&gt;2021-05-28&lt;/<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">date</span>&gt;
+&lt;<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">format</span>&gt;text/xml&lt;/<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">format</span>&gt;
+&lt;<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">language</span>&gt;EN&lt;/<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">language</span>&gt;
+&lt;<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">rights</span>&gt;Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.&lt;/<span class="pl-ent">dc</span><span class="pl-ent">:</span><span class="pl-ent">rights</span>&gt;
+&lt;/<span class="pl-ent">dublinCore</span>&gt;
+&lt;/<span class="pl-ent">metadata</span>&gt;
+&lt;<span class="pl-ent">form</span>&gt;
+&lt;<span class="pl-ent">distribution-code</span> <span class="pl-e">display</span>=<span class="pl-s"><span class="pl-pds">"</span>yes<span class="pl-pds">"</span></span>&gt;I&lt;/<span class="pl-ent">distribution-code</span>&gt; 
+&lt;<span class="pl-ent">congress</span> <span class="pl-e">display</span>=<span class="pl-s"><span class="pl-pds">"</span>yes<span class="pl-pds">"</span></span>&gt;117th CONGRESS&lt;/<span class="pl-ent">congress</span>&gt;&lt;<span class="pl-ent">session</span> <span class="pl-e">display</span>=<span class="pl-s"><span class="pl-pds">"</span>yes<span class="pl-pds">"</span></span>&gt;1st Session&lt;/<span class="pl-ent">session</span>&gt; 
+&lt;<span class="pl-ent">legis-num</span> <span class="pl-e">display</span>=<span class="pl-s"><span class="pl-pds">"</span>yes<span class="pl-pds">"</span></span>&gt;H. R. 3617&lt;/<span class="pl-ent">legis-num</span>&gt; 
+&lt;<span class="pl-ent">current-chamber</span>&gt;IN THE HOUSE OF REPRESENTATIVES&lt;/<span class="pl-ent">current-chamber</span>&gt;</pre>
+
+<p>Digging into those XSLT stylesheets leads to <code>billres-details.xsl</code> - <a href="https://gist.github.com/simonw/64c9f172533203c09acbcf13a0bb67c4">gist copy here</a> - which starts with a huge changelog comment with notes dating all the way back to 2004!</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/xslt">xslt</a>, <a href="https://simonwillison.net/tags/political-hacking">political-hacking</a>, <a href="https://simonwillison.net/tags/web-standards">web-standards</a>, <a href="https://simonwillison.net/tags/html">html</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Aug/19/xslt/#atom-everything">https://simonwillison.net/2025/Aug/19/xslt/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T19:53:29Z" data-link="https://liliputing.com/lilbits-another-dual-screen-handheld-game-console-a-diy-windows-98-handheld-and-snapdragons-slightly-faster-snapdragon-7s/">
+      <h1>Lilbits: Another dual-screen handheld game console, a DIY Windows 98 “handheld” and Snapdragon’s slightly-faster Snapdragon 7S</h1>
+
+(date: 2025-08-19, from: <a href="https://liliputing.com/lilbits-another-dual-screen-handheld-game-console-a-diy-windows-98-handheld-and-snapdragons-slightly-faster-snapdragon-7s/">Liliputing</a>)
+      <p>
+      <p>The makers of the AYN Odin line of handheld game consoles has revealed that its next model will be a dual-screen model with a clamshell design. In other words, the upcoming AYN Thor will go head-to-head the the AYANEO Pocket DS, ONEXSUGAR Sugar 1, and Retroid Dual Screen add-on in the small but growing field of [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-another-dual-screen-handheld-game-console-a-diy-windows-98-handheld-and-snapdragons-slightly-faster-snapdragon-7s/">Lilbits: Another dual-screen handheld game console, a DIY Windows 98 &#8220;handheld&#8221; and Snapdragon&#8217;s slightly-faster Snapdragon 7S</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+
+      <address>
+        <a href="https://liliputing.com/lilbits-another-dual-screen-handheld-game-console-a-diy-windows-98-handheld-and-snapdragons-slightly-faster-snapdragon-7s/">https://liliputing.com/lilbits-another-dual-screen-handheld-game-console-a-diy-windows-98-handheld-and-snapdragons-slightly-faster-snapdragon-7s/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T19:45:49Z" data-link="https://feed.tedium.co/link/15204/17122496/bubsy-new-atari-game">
+      <h1>Breaking Bubsy News</h1>
+
+(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://feed.tedium.co/link/15204/17122496/bubsy-new-atari-game">Tedium site</a>)
+      <p>
+      Oh no, someone made a new Bubsy game. And that someone was Atari. How concerned should we be?
+      <address>
+        <a href="https://feed.tedium.co/link/15204/17122496/bubsy-new-atari-game">https://feed.tedium.co/link/15204/17122496/bubsy-new-atari-game</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T19:45:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrog4t3zc2a">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-19, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrog4t3zc2a">Robert's feed at BlueSky</a>)
+      <p>
+      So true. 👇
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrog4t3zc2a">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwrog4t3zc2a</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T19:18:33Z" data-link="https://tinabrown.substack.com/p/my-video-chat-with-andrew-lownie">
+      <h1>My Video Chat with Andrew Lownie, Author of the Incendiary New Bestseller about Prince Andrew, Entitled </h1>
+
+(date: 2025-08-19, from: <a href="https://tinabrown.substack.com/p/my-video-chat-with-andrew-lownie">Tina Brown</a>)
+      <p>
+      In our video chat, Lownie shared gobsmacking new nuggets about Queen Elizabeth's second son and his Spenderella ex-wife Fergie.
+      <address>
+        <a href="https://tinabrown.substack.com/p/my-video-chat-with-andrew-lownie">https://tinabrown.substack.com/p/my-video-chat-with-andrew-lownie</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T19:01:13Z" data-link="https://simonwillison.net/2025/Aug/19/gpt-oss-with-llama-cpp/#atom-everything">
+      <h1>llama.cpp guide: running gpt-oss with llama.cpp</h1>
+
+(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://simonwillison.net/2025/Aug/19/gpt-oss-with-llama-cpp/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <p><strong><a href="https://github.com/ggml-org/llama.cpp/discussions/15396">llama.cpp guide: running gpt-oss with llama.cpp</a></strong></p>
+Really useful official guide to running the OpenAI gpt-oss models using <code>llama-server</code> from <code>llama.cpp</code> - which provides an OpenAI-compatible localhost API and a neat web interface for interacting with the models.</p>
+<p>TLDR version for macOS to run the smaller <code>gpt-oss-20b</code> model:</p>
+<pre><code>brew install llama.cpp
+llama-server -hf ggml-org/gpt-oss-20b-GGUF \
+  --ctx-size 0 --jinja -ub 2048 -b 2048 -ngl 99 -fa
+</code></pre>
+<p>This downloads a 12GB model file from <a href="https://huggingface.co/ggml-org/gpt-oss-20b-GGUF/tree/main">ggml-org/gpt-oss-20b-GGUF</a> on Hugging Face, stores it in <code>~/Library/Caches/llama.cpp/</code> and starts it running on port 8080.</p>
+<p>You can then visit this URL to start interacting with the model:</p>
+<pre><code>http://localhost:8080/
+</code></pre>
+<p>On my 64GB M2 MacBook Pro <a href="https://gist.github.com/simonw/85ea67cba9fce0c7e63951dda5117268">it runs at around</a> 82 tokens/second.</p>
+<p><img alt="Screenshot of a chat interface with filename &quot;llama.cpp&quot; showing a conversation about creating an SVG of a pelican on a bicycle. The conversation includes detailed coordinates for drawing the pelican (body ellipse center at 250,140 with rx=35, ry=50, head circle at 260,110 with r=20, beak triangle points, wings, and tail specifications), implementation notes about layering bicycle elements then pelican, and ends with a code block showing the beginning of SVG code with XML declaration, svg tag with viewBox=&quot;0 0 500 300&quot;, style definitions for .bg, .wheel, .frame, .crossbar, .seat, .handlebar, .pedal, .pelican-body, and .pelican-head classes with various fill and stroke properties. Below the code is explanatory text: &quot;Below is a compact, self-contained SVG that shows a stylised pelican perched on a bicycle. Copy the code into an .svg file or paste it directly into an HTML page to view it.&quot; At the bottom is a message input field with &quot;Type a message (Shift+Enter to add a new line)&quot; placeholder text." src="https://static.simonwillison.net/static/2025/llama-cpp-screenshot.jpg" /></p>
+<p>The guide also includes notes for running on NVIDIA and AMD hardware.
+
+    <p><small></small>Via <a href="https://twitter.com/ggerganov/status/1957821440633282642">@ggerganov</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/macos">macos</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llama-cpp">llama-cpp</a>, <a href="https://simonwillison.net/tags/gpt-oss">gpt-oss</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Aug/19/gpt-oss-with-llama-cpp/#atom-everything">https://simonwillison.net/2025/Aug/19/gpt-oss-with-llama-cpp/#atom-everything</a>
       </address>
     </article>
 
@@ -247,6 +370,17 @@ Domain resurrection attacks are a nasty vulnerability in systems that use email 
       </address>
     </article>
 
+    <article data-published="2025-08-19T12:22:02Z" data-link="https://www.oreilly.com/radar/why-ai-driven-client-apps-dont-understand-your-api/">
+      <h1>Why AI-Driven Client Apps Don’t Understand Your API</h1>
+
+(date: 2025-08-19, from: <a href="https://www.oreilly.com/radar/why-ai-driven-client-apps-dont-understand-your-api/">O'Reilly Radar</a>)
+      <p>
+      Recent surveys point to a massive growth in AI-driven bots crawling the internet looking for APIs. While many of these have malicious intent, a growing number are well-meaning API consumers just trying to discover, consume, and benefit from existing APIs. And, increasingly, these API requests are coming from Model Context Protocol (MCP)-driven platforms designed to [&#8230;]
+      <address>
+        <a href="https://www.oreilly.com/radar/why-ai-driven-client-apps-dont-understand-your-api/">https://www.oreilly.com/radar/why-ai-driven-client-apps-dont-understand-your-api/</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-19T10:48:00Z" data-link="https://www.oreilly.com/radar/is-ai-a-normal-technology/">
       <h1>Is AI a “Normal Technology”?</h1>
 
@@ -304,6 +438,18 @@ This Reddit thread - with 279 replies - offers a neat targeted insight into the 
       <p>The March on Washington for Jobs and Freedom  was held in Washington, D.C., on August 28, 1963.</p>
       <address>
         <a href="https://en.m.wikipedia.org/wiki/March_on_Washington">https://en.m.wikipedia.org/wiki/March_on_Washington</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T00:00:00Z" data-link="https://spf13.com/p/cobra-viper-fortify-security-as-part-of-github-secure-open-source-fund/">
+      <h1>Cobra & Viper Fortify Security as Part of GitHub Secure Open Source Fund</h1>
+
+(date: 2025-08-19, from: <a href="https://spf13.com/p/cobra-viper-fortify-security-as-part-of-github-secure-open-source-fund/">Steve Francia (spf13) blog</a>)
+      <p>
+      <p>I&rsquo;ve spent most of my career working in New York City. Every morning, I&rsquo;d walk past those towering skyscrapers, genuinely amazed at what humans can build together. The engineering, the coordination, the trust required. It&rsquo;s breathtaking.</p>
+<p>What fascinates me most is the foundation. While everyone admires the gleaming towers, I think about the engineers who spent months planning what goes sixty feet underground. That invisible work makes everything else possible. No Instagram posts about foundation concrete. No TED talk talks about rebar placement.</p>
+      <address>
+        <a href="https://spf13.com/p/cobra-viper-fortify-security-as-part-of-github-secure-open-source-fund/">https://spf13.com/p/cobra-viper-fortify-security-as-part-of-github-secure-open-source-fund/</a>
       </address>
     </article>
 
@@ -1013,6 +1159,19 @@ OPENAI_API_KEY=x \
       </address>
     </article>
 
+    <article data-published="2025-08-16T21:17:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwkc722tcc2i">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-16, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwkc722tcc2i">Robert's feed at BlueSky</a>)
+      <p>
+      👀wow.
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwkc722tcc2i">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwkc722tcc2i</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-16T21:00:26Z" data-link="https://www.reuters.com/world/middle-east/israel-talks-resettle-gaza-palestinians-south-sudan-sources-say-2025-08-15/?utm_source=Sailthru&utm_medium=Newsletter&utm_campaign=Weekend-Briefing&utm_term=081625&lctg=63aab956e883a43a2a06ba90">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -1024,6 +1183,32 @@ OPENAI_API_KEY=x \
       </address>
     </article>
 
+    <article data-published="2025-08-16T19:11:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk34sepws2h">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-16, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk34sepws2h">Robert's feed at BlueSky</a>)
+      <p>
+      Excellent.
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk34sepws2h">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk34sepws2h</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-16T18:58:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk2eyqsl22h">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-16, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk2eyqsl22h">Robert's feed at BlueSky</a>)
+      <p>
+      👇
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk2eyqsl22h">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwk2eyqsl22h</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-16T18:39:48Z" data-link="https://www.calonews.com/featured-topics/media/the-latina-behind-governor-gavin-newsom-s-social-media-posts/article_9e97c98e-dfd7-4029-b5e8-11391c2526e6.html">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -1032,6 +1217,17 @@ OPENAI_API_KEY=x \
       <p>The Latina behind Governor Gavin Newsom’s social media posts.</p>
       <address>
         <a href="https://www.calonews.com/featured-topics/media/the-latina-behind-governor-gavin-newsom-s-social-media-posts/article_9e97c98e-dfd7-4029-b5e8-11391c2526e6.html">https://www.calonews.com/featured-topics/media/the-latina-behind-governor-gavin-newsom-s-social-media-posts/article_9e97c98e-dfd7-4029-b5e8-11391c2526e6.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-16T18:08:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwjxlzsyr22h">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-16, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwjxlzsyr22h">Robert's feed at BlueSky</a>)
+      <p>
+      Worth watching again. https://youtu.be/rEH7sF6pA4s?feature=shared
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwjxlzsyr22h">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwjxlzsyr22h</a>
       </address>
     </article>
 
@@ -1117,6 +1313,32 @@ Filippo Valsorda founded Geomys <a href="https://simonwillison.net/2024/Jul/8/ge
       My go-to guy for crime data
       <address>
         <a href="https://paulkrugman.substack.com/p/talking-with-jeff-asher">https://paulkrugman.substack.com/p/talking-with-jeff-asher</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-16T04:02:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwiictpof222">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-16, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwiictpof222">Robert's feed at BlueSky</a>)
+      <p>
+      Thread captures a whole lot.
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwiictpof222">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwiictpof222</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-16T04:00:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwii7lghek22">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-16, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwii7lghek22">Robert's feed at BlueSky</a>)
+      <p>
+      Strangely good news.
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwii7lghek22">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwii7lghek22</a>
       </address>
     </article>
 
@@ -1361,6 +1583,17 @@ This is grim. Reuters got hold of a leaked copy Meta's internal "GenAI: Content 
       </address>
     </article>
 
+    <article data-published="2025-08-15T19:38:24Z" data-link="https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-15, from: <a href="https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/">Dave Winer's linkblog</a>)
+      <p>
+      <p>New federal checkpoints in D.C. likely violate the Fourth Amendment.</p>
+      <address>
+        <a href="https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/">https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-15T19:19:46Z" data-link="https://mjtsai.com/blog/2025/08/15/wozs-ongoing-youtube-lawsuit/">
       <h1>Woz’s Ongoing YouTube Lawsuit</h1>
 
@@ -1426,6 +1659,28 @@ This is grim. Reuters got hold of a leaked copy Meta's internal "GenAI: Content 
       Long before modern supply chains, ancient hominins were moving stone across long distances, potentially reshaping what we know about our evolutionary roots.
       <address>
         <a href="https://www.404media.co/a-new-discovery-might-have-just-rewritten-human-history/">https://www.404media.co/a-new-discovery-might-have-just-rewritten-human-history/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-15T17:47:05Z" data-link="https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-15, from: <a href="https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/">Dave Winer's linkblog</a>)
+      <p>
+      <p>Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity.</p>
+      <address>
+        <a href="https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/">https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-15T17:41:56Z" data-link="https://fedify.dev/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-15, from: <a href="https://fedify.dev/">Dave Winer's linkblog</a>)
+      <p>
+      <p>Fedify is a good thing if it makes it easy to set up a sever that can interop with Mastodon.</p>
+      <address>
+        <a href="https://fedify.dev/">https://fedify.dev/</a>
       </address>
     </article>
 
@@ -1602,6 +1857,17 @@ This is grim. Reuters got hold of a leaked copy Meta's internal "GenAI: Content 
       </address>
     </article>
 
+    <article data-published="2025-08-15T11:56:26Z" data-link="https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-15, from: <a href="https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/">Dave Winer's linkblog</a>)
+      <p>
+      <p>Kate Pierson Fell Hard for Moroccan Henna in 1970. She Hasn’t Looked Back.</p>
+      <address>
+        <a href="https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/">https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-15T11:37:25Z" data-link="https://www.oreilly.com/radar/people-work-in-teams-ai-assistants-in-silos/">
       <h1>People Work in Teams, AI Assistants in Silos</h1>
 
@@ -1688,6 +1954,39 @@ This is grim. Reuters got hold of a leaked copy Meta's internal "GenAI: Content 
       </address>
     </article>
 
+    <article data-published="2025-08-14T19:37:27Z" data-link="https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/">Dave Winer's linkblog</a>)
+      <p>
+      <p>"I did it. I threw a sandwich."</p>
+      <address>
+        <a href="https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/">https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T19:17:48Z" data-link="https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/">Dave Winer's linkblog</a>)
+      <p>
+      <p>What is Bluesky? Starts out with the big lie, it’s totally centralized.</p>
+      <address>
+        <a href="https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/">https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T19:11:32Z" data-link="https://slate.com/technology/2025/08/uk-online-safety-act-reddit-wikipedia-open-internet.html?via=rss">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://slate.com/technology/2025/08/uk-online-safety-act-reddit-wikipedia-open-internet.html?via=rss">Dave Winer's linkblog</a>)
+      <p>
+      The U.K. Online Safety Act could kill the internet as we know it.
+      <address>
+        <a href="https://slate.com/technology/2025/08/uk-online-safety-act-reddit-wikipedia-open-internet.html?via=rss">https://slate.com/technology/2025/08/uk-online-safety-act-reddit-wikipedia-open-internet.html?via=rss</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-14T18:44:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lweypt3z5s2n">
       <h1>@Robert's feed at BlueSky</h1>
 
@@ -1758,6 +2057,17 @@ This is grim. Reuters got hold of a leaked copy Meta's internal "GenAI: Content 
       </address>
     </article>
 
+    <article data-published="2025-08-14T18:14:36Z" data-link="https://www.wnyc.org/story/the-politics-of-jerry-garcia/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://www.wnyc.org/story/the-politics-of-jerry-garcia/">Dave Winer's linkblog</a>)
+      <p>
+      <p>The Politics of Jerry Garcia.</p>
+      <address>
+        <a href="https://www.wnyc.org/story/the-politics-of-jerry-garcia/">https://www.wnyc.org/story/the-politics-of-jerry-garcia/</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-14T17:52:27Z" data-link="https://onefoottsunami.com/2025/08/14/break-loose-once-shame-on-you/">
       <h1>Break Loose Once, Shame on You</h1>
 
@@ -1825,6 +2135,17 @@ New from Google:</p>
       </address>
     </article>
 
+    <article data-published="2025-08-14T17:02:14Z" data-link="https://hopeyscott.substack.com/p/im-building-my-fathers-brain-before?r=9ioxn&utm_medium=ios&utm_campaign=audio-player&fbclid=IwY2xjawMK9bNleHRuA2FlbQIxMQABHl0mMv2PKUFaqAtLqm751SPgT84L8eG31FwwbukaWCOh_Xq4Cty-Xt2xvxf5_aem_4HxLf0mu404PxAcGghN8AA">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://hopeyscott.substack.com/p/im-building-my-fathers-brain-before?r=9ioxn&utm_medium=ios&utm_campaign=audio-player&fbclid=IwY2xjawMK9bNleHRuA2FlbQIxMQABHl0mMv2PKUFaqAtLqm751SPgT84L8eG31FwwbukaWCOh_Xq4Cty-Xt2xvxf5_aem_4HxLf0mu404PxAcGghN8AA">Dave Winer's linkblog</a>)
+      <p>
+      <p>I'm Building My Father's Brain Before He Dies.</p>
+      <address>
+        <a href="https://hopeyscott.substack.com/p/im-building-my-fathers-brain-before?r=9ioxn&utm_medium=ios&utm_campaign=audio-player&fbclid=IwY2xjawMK9bNleHRuA2FlbQIxMQABHl0mMv2PKUFaqAtLqm751SPgT84L8eG31FwwbukaWCOh_Xq4Cty-Xt2xvxf5_aem_4HxLf0mu404PxAcGghN8AA">https://hopeyscott.substack.com/p/im-building-my-fathers-brain-before?r=9ioxn&utm_medium=ios&utm_campaign=audio-player&fbclid=IwY2xjawMK9bNleHRuA2FlbQIxMQABHl0mMv2PKUFaqAtLqm751SPgT84L8eG31FwwbukaWCOh_Xq4Cty-Xt2xvxf5_aem_4HxLf0mu404PxAcGghN8AA</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-14T16:54:06Z" data-link="https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/">
       <h1>ICE Adds Random Person to Group Chat, Exposes Details of Manhunt in Real-Time</h1>
 
@@ -1833,6 +2154,17 @@ New from Google:</p>
       The texts were sent to a group called “Mass Text” and show ICE using DMV and license plate reader data in an attempt to find their target, copies of the messages obtained by 404 Media show.
       <address>
         <a href="https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/">https://www.404media.co/ice-adds-random-person-to-group-chat-exposes-details-of-manhunt-in-real-time/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T16:21:37Z" data-link="https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html">Dave Winer's linkblog</a>)
+      <p>
+      <p>Wholesale prices rose 0.9% in July, much more than expected.</p>
+      <address>
+        <a href="https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html">https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html</a>
       </address>
     </article>
 
@@ -1857,6 +2189,17 @@ New from Google:</p>
       What if the secret to saving democracy isn&#8217;t choosing sides, but choosing principles?
       <address>
         <a href="https://guykawasaki.substack.com/p/why-history-favors-doers-over-critics">https://guykawasaki.substack.com/p/why-history-favors-doers-over-critics</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T15:14:28Z" data-link="http://scripting.com/2025/08/10/233215.html?title=itHasntHitUsYet">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="http://scripting.com/2025/08/10/233215.html?title=itHasntHitUsYet">Dave Winer's linkblog</a>)
+      <p>
+      <p>The electricity is on, as is the internet. Buses and subways are running. The airports are open.</p>
+      <address>
+        <a href="http://scripting.com/2025/08/10/233215.html?title=itHasntHitUsYet">http://scripting.com/2025/08/10/233215.html?title=itHasntHitUsYet</a>
       </address>
     </article>
 
@@ -1903,6 +2246,28 @@ New from Google:</p>
       If you want to make the most of The Field We Now Call AI, look to trading. Specifically, the tech-driven sort. People who&#8217;ve read my other work, or who have had the misfortune of speaking with me one-on-one, have already heard this line. My long-running half-joke is that my AI consulting is based on best [&#8230;]
       <address>
         <a href="https://www.oreilly.com/radar/taming-the-delightful-chaos/">https://www.oreilly.com/radar/taming-the-delightful-chaos/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T08:10:56Z" data-link="https://www.levernews.com/the-male-friendship-collapse/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://www.levernews.com/the-male-friendship-collapse/">Dave Winer's linkblog</a>)
+      <p>
+      <p>The Male Friendship Collapse.</p>
+      <address>
+        <a href="https://www.levernews.com/the-male-friendship-collapse/">https://www.levernews.com/the-male-friendship-collapse/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T08:10:05Z" data-link="https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/?utm_campaign=social&utm_source=bluesky&utm_medium=organic">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/?utm_campaign=social&utm_source=bluesky&utm_medium=organic">Dave Winer's linkblog</a>)
+      <p>
+      <p>Instagram is developing a feature that helps users find shared interests.</p>
+      <address>
+        <a href="https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/?utm_campaign=social&utm_source=bluesky&utm_medium=organic">https://techcrunch.com/2025/08/13/instagram-is-developing-a-feature-that-helps-users-find-shared-interests/?utm_campaign=social&utm_source=bluesky&utm_medium=organic</a>
       </address>
     </article>
 
@@ -1971,6 +2336,17 @@ sat unpublished until 1981.
 
       <address>
         <a href="https://inkdroid.org/2025/08/14/book-of-records/">https://inkdroid.org/2025/08/14/book-of-records/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-14T00:24:49Z" data-link="https://electrek.co/2025/08/13/kias-first-electric-van-unboxed-ready-to-take-on-the-world/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-14, from: <a href="https://electrek.co/2025/08/13/kias-first-electric-van-unboxed-ready-to-take-on-the-world/">Dave Winer's linkblog</a>)
+      <p>
+      <p>Kia's first electric van 'unboxed' and ready to take on the world.</p>
+      <address>
+        <a href="https://electrek.co/2025/08/13/kias-first-electric-van-unboxed-ready-to-take-on-the-world/">https://electrek.co/2025/08/13/kias-first-electric-van-unboxed-ready-to-take-on-the-world/</a>
       </address>
     </article>
 
@@ -2061,6 +2437,39 @@ sat unpublished until 1981.
       MacSurfer: MacSurfer is relaunching &#8212; watch as the upgrade continues Via Eric Schwarz: I can&#8217;t find any details or who&#8217;s behind it? I really hope it&#8217;s not AI slop or someone trying to make a buck off nostalgia like iLounge or TUAW. Previously: MacInTouch Paused The Unofficial Apple AI Weblog MacSurfer Shutting Down Update (2025-08-18): [&#8230;]
       <address>
         <a href="https://mjtsai.com/blog/2025/08/13/macsurfer-is-back/">https://mjtsai.com/blog/2025/08/13/macsurfer-is-back/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-13T19:47:24Z" data-link="https://podnews.net/article/i-hate-your-podcast">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-13, from: <a href="https://podnews.net/article/i-hate-your-podcast">Dave Winer's linkblog</a>)
+      <p>
+      <p>This guy hates your podcast, and so do I. He makes good points. I was tuned into a Wirecutter podcast about how to buy a mattress. They spent a lot of time giggling about how much fun it is to do a podcast but after 15 minutes of that I gave up.</p>
+      <address>
+        <a href="https://podnews.net/article/i-hate-your-podcast">https://podnews.net/article/i-hate-your-podcast</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-13T19:32:15Z" data-link="https://en.wikipedia.org/wiki/Shel_Israel">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-13, from: <a href="https://en.wikipedia.org/wiki/Shel_Israel">Dave Winer's linkblog</a>)
+      <p>
+      <p>Shel Israel, a journalist and book writer about tech, died earlier today. He was a regular at Mike Arrington's early techcrunch parties, and a co-author of a book with Scoble. A genuine nice guy.</p>
+      <address>
+        <a href="https://en.wikipedia.org/wiki/Shel_Israel">https://en.wikipedia.org/wiki/Shel_Israel</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-13T19:05:43Z" data-link="https://www.thebulwark.com/p/jason-calacanis-anarcho-capitalism">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-13, from: <a href="https://www.thebulwark.com/p/jason-calacanis-anarcho-capitalism">Dave Winer's linkblog</a>)
+      <p>
+      <p>Jason Calacanis: Anarcho Capitalism.</p>
+      <address>
+        <a href="https://www.thebulwark.com/p/jason-calacanis-anarcho-capitalism">https://www.thebulwark.com/p/jason-calacanis-anarcho-capitalism</a>
       </address>
     </article>
 
@@ -2174,6 +2583,17 @@ Fun, creative new micro-eval. Split the world into a sampled collection of latit
       </address>
     </article>
 
+    <article data-published="2025-08-13T16:11:20Z" data-link="https://prisonjournalismproject.org/2025/08/12/cats-can-live-their-whole-lives-at-this-prison/?utm_source=Bluesky&utm_medium=social&utm_campaign=PJP-Bluesky">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-13, from: <a href="https://prisonjournalismproject.org/2025/08/12/cats-can-live-their-whole-lives-at-this-prison/?utm_source=Bluesky&utm_medium=social&utm_campaign=PJP-Bluesky">Dave Winer's linkblog</a>)
+      <p>
+      <p>Cats Can Live Their Whole Lives at This Prison.</p>
+      <address>
+        <a href="https://prisonjournalismproject.org/2025/08/12/cats-can-live-their-whole-lives-at-this-prison/?utm_source=Bluesky&utm_medium=social&utm_campaign=PJP-Bluesky">https://prisonjournalismproject.org/2025/08/12/cats-can-live-their-whole-lives-at-this-prison/?utm_source=Bluesky&utm_medium=social&utm_campaign=PJP-Bluesky</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-13T16:10:21Z" data-link="https://www.404media.co/ice-propaganda-video-that-used-jay-z-song-hit-with-copyright-takedown/">
       <h1>ICE Propaganda Video That Used Jay-Z Song Hit With Copyright Takedown</h1>
 
@@ -2219,6 +2639,17 @@ Fun, creative new micro-eval. Split the world into a sampled collection of latit
 
       <address>
         <a href="https://liliputing.com/onexplayer-super-x-gaming-tablet-with-ryzen-ai-max-395-is-basically-an-asus-rog-flow-z13-alternative/">https://liliputing.com/onexplayer-super-x-gaming-tablet-with-ryzen-ai-max-395-is-basically-an-asus-rog-flow-z13-alternative/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-13T15:03:40Z" data-link="https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-08-13, from: <a href="https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/">Dave Winer's linkblog</a>)
+      <p>
+      <p>Social media probably can’t be fixed.</p>
+      <address>
+        <a href="https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/">https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/</a>
       </address>
     </article>
 
@@ -2435,6 +2866,19 @@ Single Sign-On (SSO) - Centralized authentication across multiple applications U
 
       <address>
         <a href="https://liliputing.com/keygo-is-a-slim-keyboard-with-an-integrated-12-8-inch-touchscreen-display-crowdfunding/">https://liliputing.com/keygo-is-a-slim-keyboard-with-an-integrated-12-8-inch-touchscreen-display-crowdfunding/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-12T20:58:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-12, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p">Robert's feed at BlueSky</a>)
+      <p>
+      It days like this ... Said the protagonist as he reached for ...
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p">https://bsky.app/profile/rsdoiel.bsky.social/post/3lwa7aeobdc2p</a>
       </address>
     </article>
 
@@ -2744,6 +3188,19 @@ The Service Mesh Problem Statement Microservices need reliable communication, se
 Each service manually implements load balancing, retries, and circuit breakers Security and certificate management are inconsistent Service-to-service communication lacks visibility Debugging network issues is complex Code duplicates resilience patterns Istio provides standard networking, security, and observability across services without code changes.
       <address>
         <a href="https://memo.mx/posts/how-istio-handles-requests/">https://memo.mx/posts/how-istio-handles-requests/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-12T04:04:00Z" data-link="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m">
+      <h1>@Robert's feed at BlueSky</h1>
+
+(date: 2025-08-12, from: <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m">Robert's feed at BlueSky</a>)
+      <p>
+      🙂
+
+[contains quote post or other embedded content]
+      <address>
+        <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m">https://bsky.app/profile/rsdoiel.bsky.social/post/3lw6glmatb22m</a>
       </address>
     </article>
 
