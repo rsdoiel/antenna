@@ -3,20 +3,16 @@ let articleElements = document.querySelectorAll('article[data-published]');
 let dateElement = document.getElementById('filter-by-date');
 
 function filterArticles(event) {
-    console.log(`DEBUG dateElement.value ${this.value}`);
     const selectedDate = this.value;
     articleElements.forEach(article => {
         const articleDate = article.getAttribute('data-published').split('T')[0];
         const articleLink = article.getAttribute('data-link');
         if (selectedDate === '') {
             article.classList.remove('hidden');
-            console.log(`DEBUG clear .hidden class for ${articleDate}, ${articleLink}`);
         } else if (articleDate === selectedDate) {
             article.classList.remove('hidden');
-            console.log(`DEBUG removing .hidden class for ${articleDate}, ${articleLink}`);
         } else {
             article.classList.add('hidden');
-            console.log(`DEBUG adding .hidden class for ${articleDate}, ${articleLink}`);
         }
     });
 }
@@ -42,8 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
         dateElement.setAttribute('min', curDate.toISOString().split('T')[0]);
         minDate = curDate;
     }
-    console.log(`DEBUG curDate: ${curDate}, minDate: ${minDate}, maxDate: ${maxDate}`);
-    console.log('DEBUG: ', dateElement);
   });
 });
 

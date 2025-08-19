@@ -12,9 +12,9 @@
     }
   ],
   "dateCreated": "2023-10-11",
-  "dateModified": "2025-08-17",
-  "datePublished": "2025-08-17",
-  "description": "This is a proof of concept demonstrating building a personal news aggregation using skimmer, SQLite3, Pandoc and Make.",
+  "dateModified": "2025-08-19",
+  "datePublished": "2025-08-19",
+  "description": "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.\nIt is built using the Tools provided\nby [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)\nand either Bash or PowerShell.",
   "keywords": [
     "Feeds",
     "RSS",
@@ -23,9 +23,9 @@
     "static"
   ],
   "name": "antenna",
+  "license": "https://www.gnu.org/licenses/agpl-3.0.txt",
   "programmingLanguage": [
-    "Make",
-    "Bash",
+    "Bash or PowerShell",
     "Pandoc templates",
     "SQL"
   ],
@@ -35,19 +35,20 @@
     "https://pandoc.org"
   ],
   "softwareRequirements": [
-    "skimmer >= 0.0.23",
+    "Skimmer >= 0.0.24",
     "Pandoc >= 3.1",
     "GNU Make >= 3.45",
     "SQLite3 >= 3.40"
   ],
   "softwareSuggestions": [
     "Bash",
-    "Powershell"
+    "PowerShell",
+    "Pandoc"
   ],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "developmentStatus": "wip",
   "issueTracker": "https://github.com/rsdoiel/antenna/issues",
-  "releaseNotes": "Minor cleanup and updates\n\n- Updated skimmer verison to 0.0.23\n- Added skimmer.yaml configuration to indentify Antenna in harvest\n- Improved havest and website Bash and PowerShell scripts\n- Tested on Windows to confirm it works properly",
+  "releaseNotes": "Minor cleanup and updates\n\n- Updated skimmer verison to 0.0.24\n- Updated front_page.yaml to include a \"top_content\" element for filtering articles by date",
   "copyrightYear": 2025,
   "copyrightHolder": "R. S. Doiel"
 }

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
+  <title>Implementation</title>
+  <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
+</head>
+<body>
+<header>
+	<img class="logo" 
+		src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
+		alt="line art showing an antenna"
+		height="80" width="60" >
+	<h1>The Antenna</h1> 
+	<h2>finding signal in the noise</h2>
+</header>
+<nav>
+<ul>
+	<li><a href="./">The Antenna</a></li>
+	<li><a href="README.html">Implementation</a></li>
+	<li><a href="search.html">Search</a></li>
+	<li><a href="about.html">About</a></li>
+</ul>
+</nav>
+<section>
+<h1 id="antenna">Antenna</h1>
+<p>Antenna is software for rendering a Person News website. It
+demonstrates aggregating news content via web feeds (example RSS, Atom
+and JSON feeds) for personal use. Antenna is software that implements a
+static website <a
+href="https://en.wikipedia.org/wiki/Linklog">LinkBlog</a>. I use it to
+read the web content I follow. Antenna demonstrates that aggregating
+news can be done by an individual with a little effort and a few tools.
+No one really needs to rely on large internet companies to be informed
+or to keep up to date. The resulting website can be hosted locally on
+your computer or on a static website hosting service (example GitHub,
+GitLab, BitBucket).</p>
+<h2 id="tools-to-build-this-aggregation">Tools to build this
+aggregation</h2>
+<ul>
+<li>Bash &gt;= 5 (macOS, Linux, Raspberry Pi OS) or PowerShell 7 (for
+Windows)</li>
+<li>Pandoc &gt;= 3.6</li>
+<li>SQLite &gt; 3.40</li>
+<li>skimmer &gt;= 0.0.22</li>
+</ul>
+<p>NOTE: The publish.bash and publish.ps1 scripts require Git to publish
+to GitHub.</p>
+<p>There are many ways to run a localhost web server.</p>
+<ul>
+<li><a href="https://github.com/caltechlibrary/wsfn/releases">wsfn</a>,
+provides a “ws” command for macOS, Linux, Raspberry OS and Windows. You
+tell it the port number and directory to server and it runs on
+localhost, (e.g. <code>http://localhost:8000</code>)</li>
+<li>If you have Deno you can build your own, see <a
+href="https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html"
+class="uri">https://rsdoiel.github.io/blog/2025/06/30/Build_a_Static_Web_Server.html</a>
+for an example.</li>
+<li>Python and PHP provide one via the command line</li>
+</ul>
+<p>These are only few. A DuckDuckGo search will find many more.</p>
+<h2 id="the-moving-parts">The moving parts</h2>
+<p><a href="https://rsdoiel.github.io/skimmer">skimmer</a> is used to
+collect data from RSS, Atom and JSON feeds that are listed in a text
+files containing URLs. The data collected gets stored in an SQLite 3
+database. This is used by harvest.bash and harvest.ps1.</p>
+<p>The <a href="https://sqlite.org">SQLite 3</a> database can be managed
+with simple SQL statements execute from the command line, a script. The
+scripts website.bash or website.ps1 use this along with
+<strong>skim2html</strong> to filter the feed aggregations and render a
+HTML page for each aggregation.</p>
+<p>Make sure you have the software installed.</p>
+<ul>
+<li>check_for_software.bash (check_for_software.ps1 on Windows)</li>
+</ul>
+<p>Here’s my regular build steps</p>
+<ol type="1">
+<li>harvest.bash (harvest.ps1 for Windows)</li>
+<li>website.bash (website.ps1 for Windows)3</li>
+<li>Start up your local web server (e.g. http://localhost:8000)</li>
+<li>View with my favorite web browser</li>
+</ol>
+<h3 id="details">Details</h3>
+<p>Skimmer comes with several programs in addition to
+<strong>skimmer</strong>. One is called <strong>skim2html</strong> which
+will read all the saved items in an SQLite3 database and renders them as
+structured HTML. This file can be themed with CSS and JavaScript ES6
+modules. The pages and theme are controlled by a YAML file called <a
+href="front_page.yaml">front_page.yaml</a>.</p>
+<p>You news site homepage is defined by a CommonMark/Markdown document
+named <a href="index.html">index.md</a>.<a
+href="https://pandoc.org">Pandoc</a> is responsible for rendering all
+CommonMark and Markdown documents to HTML5 via a template called <a
+href="front_page.tmpl">front_page.tmpl</a></p>
+<p>The site is structured around a collection of feeds per section. This
+was inspired by physical news papers and Dave Winer’s <a
+href="https://news.scripting.com"
+class="uri">https://news.scripting.com</a></p>
+<p>Each collection holds an aggregation of feeds. Each aggregation page
+is defined by it’s own URLs list. The <strong>skimmer</strong> command
+uses this list to build the SQLite3 database holding the aggregated feed
+content. <a href="socal_north.urls">socal_north.urls</a> is an example
+of text file defining an aggregation. It uses a simple format inspired
+by <a href="https://newsboat.org">newsboat</a>.</p>
+<h2 id="url-list-file-format">URL List file format</h2>
+<p>Each site’s is defined with a one line entry (one feed per line). You
+can use the “#” (hash) character to include a comments. Comments are
+ignored by <strong>skimmer</strong> and start with the “#” character and
+continue to the end of the line. Here’s the basic format.</p>
+<pre><code>URL TITLE_OR_DESCRIPTION [USER_AGENT_SETTINGS]</code></pre>
+<dl>
+<dt>URL</dt>
+<dd>
+(required) This is the URL to the RSS or other feed file.
+</dd>
+<dt>TITLE_OR_DESCRIPTION</dt>
+<dd>
+(required) This field starts with a <code>"~</code> (double quote and
+tilde) and terminates with a closing <code>"</code> (double quote)
+</dd>
+<dt>USER_AGENT_SETTINGS</dt>
+<dd>
+(optional) User agents strings are polite. They describe the software
+and content information when harvesting. Some sites expect harvesters to
+be specific programs or web browsers. I often find it helpful to
+identify as curl but I make sure I include my content info in case my
+feed retrieval causes a problem.
+</dd>
+</dl>
+<h2 id="adding-a-feed">Adding a feed</h2>
+<p>To add a feed you need to create a URL list file with the file
+extension “.urls”. When you do a <code>make harvest</code> the “.urls”
+files will be run through <strong>skimmer</strong> to create or update
+the SQLite3 databases (which use the “.skim” file description). For the
+feed to show up on the site homepage you edit the CommonMark (Markdown)
+file called “index.md”. At a minimum you add a link to the feed page.
+Example if your URL file is called “mynews.urls” then your Skimmer
+database will be called “mynews.skim” and the feed page will be called
+“mynews.html”.</p>
+<p>Next you run <code>make website</code>. This will use Pandoc to
+convert your CommonMark and Markdown pages to HTML. Make will use
+<strong>skim2html</strong> problem is used to generate a feed page.</p>
+<p>Now start your web server an take a look with your favorite web
+browser.</p>
+<h2 id="how-to-customize-antenna-for-own-use">How to Customize Antenna
+for own use</h2>
+<p>My hope is people will run their own Antenna instances. The easiest
+way to do this is to fork this repository and customize to your needs.
+Another way is to download the latest release of Antenna from GitHub,
+installed the required software (e.g. Skimmer, Pandoc). Then customize
+the Markdown pages, the URL list files, CSS and JavaScript as you like.
+Theme your site is mostly matter of CSS and possibly JavaScript ES6
+modules. Some markup is contained in the front_page.yaml file for feeds
+and the Markdown rendering is controlled by the Pandoc template called
+front_page.tmpl.</p>
+<p>You could even embed your Antenna in another website.</p>
+<p>My proof of concept Antenna is visible at <a
+href="https://rsdoiel.github.io/antenna/"
+class="uri">https://rsdoiel.github.io/antenna/</a>.</p>
+</section>
+<footer>
+Antenna is a personal aggregation of items found around the web.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
+</footer>
+</body>
+</html>

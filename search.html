@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
+  <title>Search</title>
+  <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
+</head>
+<body>
+<header>
+	<img class="logo" 
+		src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
+		alt="line art showing an antenna"
+		height="80" width="60" >
+	<h1>The Antenna</h1> 
+	<h2>finding signal in the noise</h2>
+</header>
+<nav>
+<ul>
+	<li><a href="./">The Antenna</a></li>
+	<li><a href="README.html">Implementation</a></li>
+	<li><a href="search.html">Search</a></li>
+	<li><a href="about.html">About</a></li>
+</ul>
+</nav>
+<section>
+<noscript>
+JavaScript must be enabled for search to work
+</noscript>
+<h1 id="antennas-search">Antenna’s Search</h1>
+<p><search id="search"></search></p>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+<script>
+// Fetch the query "q" form the URL
+function getQueryParam(name) {
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get(name);
+}
+
+// When the page is loaded setup PageFindUI object.
+window.addEventListener('DOMContentLoaded', (event) => {
+  const pagefindUI = new PagefindUI({
+  element: "#search",
+  showSubResults: true,
+  highlightParam: "highlight",
+  mergeIndex: [
+      {
+        bundlePath: "https://rsdoiel.github.io/antenna/pagefind",
+        baseUrl: "/antenna/"
+      },
+    ]
+  });
+  
+  const queryString = getQueryParam("q");
+  if (queryString) {
+    pagefindUI.triggerSearch(queryString);
+  }
+});
+</script>
+</section>
+<footer>
+Antenna is a personal aggregation of items found around the web.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
+</footer>
+</body>
+</html>
