@@ -10,7 +10,7 @@ https://blog.iftechfoundation.org/atom.xml "~(IFTF) Interactive Fiction Technolo
 https://ganelson.github.io/inform-website/feed.xml "~Inform 7 IF language blog"
 https://chrisklimas.com/rss.xml "~Chris Klimas blog (creator of Twine, an IF language)"
 https://emshort.blog/feed/ "~Emily Short's blog (interactive fiction)"
-https://ifdb.org/news?rss "~IF Database News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://ifdb.org/news?rss "~IF Database News"
 #https://www.ifwiki.org/index.php?title=Special:RecentChanges&feed=atom "~IF Wiki updates"
 https://blog.ifcomp.org/rss "~IF Competition Blog"
 https://www.authorsalliance.org/category/blog/feed/ "~Author's Union blog"
