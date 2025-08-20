@@ -82,7 +82,6 @@ http://jirka.1-2-8.net/blog-rss.xml "~Jirka's blog"
 http://l2program.co.uk/feed "~Joss Whittle, The rantings of a mad scientist"
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
 ##http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog"
-https://ghuntley.com/rss/ "~Geoffrey Hunntley's blog"
 https://xn--gckvb8fzb.com/index.xml "~mrusme blog"
 https://xobs.io/index.xml "~Xobs blog"
 https://www.stevesouders.com/blog/feed/ "~Steve Sounders blog"
@@ -117,4 +116,5 @@ https://nazhamid.com/feed.xml "~Naz Hamid blog"
 https://livelaugh.blog/rss.xml "~Live Laugh blog"
 # Keiran Healy Blog
 https://kieranhealy.org/blog/index.xml "~Keiran Healy Blog"
-
+# George Huntly Blog
+https://ghuntley.com/rss/ "~George Huntly Blog"
