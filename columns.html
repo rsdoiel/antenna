@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.24">
-  <meta name="date" content="2025-08-20T14:04:32-07:00">
+  <meta name="date" content="2025-08-20T16:06:16-07:00">
 </head>
 <body>
   <header>
@@ -38,6 +38,98 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-08-20T22:55:16Z" data-link="https://alexschroeder.ch/view/2025-08-21-initramfs">
+      <h1>2025-08-21 Initramfs</h1>
+
+(date: 2025-08-20, from: <a href="https://alexschroeder.ch/view/2025-08-21-initramfs">Alex Schroeder's Blog</a>)
+      <p>
+      <h1 id="2025-08-21-initramfs">2025-08-21 Initramfs</h1>
+
+<p>I just had a little system administration nightmare. It all started yesterday when I decided that I wasn&rsquo;t going to move the MNT Pocket Reform to Debian stable (Trixie) after all. I had changed the apt sources a while ago, pointing them at Trixie and yesterday I had them point back at unstable.</p>
+
+<p>This is what I had:</p>
+
+<pre><code>&gt; cat /etc/apt/sources.list.d/debian.sources
+# Modernized from /etc/apt/sources.list
+Types: deb
+URIs: http://deb.debian.org/debian/
+Suites: unstable
+Components: main contrib non-free
+Signed-By: /usr/share/keyrings/debian-archive-keyring.gpg
+</code></pre>
+
+<p>And of course:</p>
+
+<pre><code>&gt; cat /etc/apt/sources.list.d/mntre.sources 
+Types: deb
+URIs: https://mntre.com/reform-debian-repo
+Suites: reform
+Components: main
+Architectures: arm64
+Trusted: yes
+</code></pre>
+
+<p>Then I did and <code>sudo apt update</code> and somewhere after that my problems started.
+There was a critical bug in <code>systemd</code> so held it using <code>sudo apt-mark hold systemd</code>.
+I tried <code>sudo apt upgrade</code> and I guess something didn&rsquo;t work (something about Linux kernels?) and there was something about uninstalling <code>udev</code>. The history shows I did <code>sudo apt install udev</code> to recover and that there was a <code>systemd</code> circular dependency because I did <code>sudo apt-mark unhold systemd</code>, then <code>sudo apt --fix-broken install</code> and <code>sudo apt full-upgrade</code>.</p>
+
+<p>All good? Maybe not.</p>
+
+<p>Today I tried to boot and got dropped into <code>busybox</code> on the <code>initramfs</code>. It said it couldn&rsquo;t determine the type of the root device. And indeed, <code>ls /root</code> showed nothing.</p>
+
+<p>After a lot of struggling, I finally determined that I had to mount one of the devices from <code>/dev</code> as <code>/root</code>. After some trial and error I found that the magical incantation was <code>mount -t ext4 /dev/mmcblk2p2 /root</code>.</p>
+
+<p>Now what?</p>
+
+<p>What appeared to help is <code>chroot /root</code> to switch to the new system. I got a real shell! I&rsquo;m a bit unclear on the details. But now I think I ran <code>update-initramfs -u</code> and then did <code>exit</code> twice. And booted successfully!</p>
+
+<p>What a nightmare.</p>
+
+<p>The first thing is to write this up, then to update the system and then to reboot. Let&rsquo;s see how this ends. Wish me luck.</p>
+
+<p>And … it&rsquo;s still broken in the same way. I can get it to boot but something is still very wrong.</p>
+
+<p>Whatever it was, it seems that installing <code>reform-desktop-minimal</code> fixed it. It looked like I got a new kernel? I have no idea. (<a href="https://community.mnt.re/t/initramfs-problem-solved/3724/3">More info on the community forum</a>.)</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-08-21-initramfs">https://alexschroeder.ch/view/2025-08-21-initramfs</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-20T22:42:57Z" data-link="https://kottke.org/25/08/0047365-notes-from-a-burner-phone">
+      <h1> Notes from a Burner Phone 101 workshop. Participants learned about &#8220;phone-related risk... </h1>
+
+(date: 2025-08-20, updated: 2025-08-20, from: <a href="https://kottke.org/25/08/0047365-notes-from-a-burner-phone">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/08/0047365-notes-from-a-burner-phone">https://kottke.org/25/08/0047365-notes-from-a-burner-phone</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-20T22:39:58Z" data-link="https://mastodon.social/@Migueldeicaza/115063494952841881">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-08-20, from: <a href="https://mastodon.social/@Migueldeicaza/115063494952841881">Miguel de Icaza Mastondon feed</a>)
+      <p>
+      <p>Pretty happy with the progress of Xogot on iPhone and the iOS 26.</p><p>Axolotl Rex even made it to the launch screen!</p>
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115063494952841881">https://mastodon.social/@Migueldeicaza/115063494952841881</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-20T21:50:01Z" data-link="https://kottke.org/25/08/0047363-you-do-not-need-the">
+      <h1> &#8220;You do not need the strongest powers of observation to see that... </h1>
+
+(date: 2025-08-20, updated: 2025-08-20, from: <a href="https://kottke.org/25/08/0047363-you-do-not-need-the">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/08/0047363-you-do-not-need-the">https://kottke.org/25/08/0047363-you-do-not-need-the</a>
+      </address>
+    </article>
 
     <article data-published="2025-08-20T20:52:54Z" data-link="https://kottke.org/25/08/refusing-to-choose-is-a-choice">
       <h1> Refusing to Choose Is a Choice </h1>
@@ -220,6 +312,17 @@
       </address>
     </article>
 
+    <article data-published="2025-08-20T15:27:51Z" data-link="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">
+      <h1>Claim Chowder: Anthropic CEO Dario Amodei Five Months Ago</h1>
+
+(date: 2025-08-20, updated: 2025-08-20, from: <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">Daring Fireball</a>)
+      <p>
+      
+      <address>
+        <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-20T15:20:00Z" data-link="https://kottke.org/25/08/the-covid-vaccine-situation-for-the-fall-is-a-complete-mess">
       <h1> The Covid Vaccine Situation for the Fall Is a Complete Mess </h1>
 
@@ -291,6 +394,7 @@
 <p>You might argue that we still haven't gotten all the pieces needed for it to really work. But one thing is for sure, none of the pieces existed when the famous patent troll claims to have invented podcasting. </p>
 <p>Maybe we should reach not for a victory but for understanding. The patent system is making decisions about technological processes it doesn't understand. No wonder it gets it so wrong.</p>
 <p>Postscript: The EFF filed suit against the patent troll, but didn't listen to what I said here, which is really fucked up because they didn't create podcasting, I did. There's a tremendous lack of respect for generosity in tech, yet without generosity there's no interop, only silos. Either you made billions from something, or you don't exist. That's why I stopped supporting EFF long ago, even though I gave them what was to me a significant amount of money when they started up, and why they get involved in so many wrong-headed ideas.  They don't respect tech, they respect money.</p>
+<p><a href="https://bsky.app/profile/dermotcasey.bsky.social/post/3lwtrlfyo6s23">Dermot Casey</a>: "I'd add Dave to this list. Things that are obvious in retrospect are never obvious before people like Dave put them together."</p>
 
       <address>
         <a href="http://scripting.com/2025/08/20/141957.html?title=whatPodcastingIs">http://scripting.com/2025/08/20/141957.html?title=whatPodcastingIs</a>
@@ -1001,17 +1105,6 @@ extend &lt;span&gt;Emacs&lt;/span&gt;
       This morning, J.D.
       <address>
         <a href="https://heathercoxrichardson.substack.com/p/august-18-2025">https://heathercoxrichardson.substack.com/p/august-18-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T02:38:15Z" data-link="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">Dave's blog</a>)
-      <p>
-      <p>Six months ago the Anthropic CEO said: AI Will Be Writing 90% of Code in 3 to 6 Months. Looney Tunes.</p>
-      <address>
-        <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</a>
       </address>
     </article>
 
