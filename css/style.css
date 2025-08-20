@@ -334,3 +334,8 @@ article h3 { font-size: 140% !important; }
 article h4 { font-size: 130% !important; }
 article h5 { font-size: 100% !important; }
 article h6 { font-size: 100% !important; }
+
+.article-filter {
+  padding: 1.24em;
+  margin: 1.24em;
+}
