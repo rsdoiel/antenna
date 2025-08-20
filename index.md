@@ -10,13 +10,13 @@ The Antenna is designed to provide me a way to quickly scan new content on the w
 
 Collection                                          Description of Posts                                               list
 ---------------------------------                   --------------------------------------------------------------     --------------------------------
+[Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
 [SoCal North](socal_north.html)                     Northern end of Southern California                                [socal_north.txt](socal_north.txt)
-[Pacific](pacific.html)                             Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
 [North America](north_america.html)                 North America                                                      [north_america.txt](north_america.txt)
+[Pacific](pacific.html)                             Micronesia, Hawaii and the Pacific                                 [pacific.txt](pacific.txt)
 [Planet](planet.html)                               Planet News                                                        [planet.txt](planet.txt)
 [Science & Technology](science_and_technology.html) Science and Technology                                             [science_and_technology.txt](science_and_technology.txt)
 [Columns](columns.html)                             Frequent Pocket additions                                          [columns.txt](columns.txt)
-[Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
 [Snapshots](snapshots.html)                         A aggregation from site around thre web                            [snapshots.txt](snapshots.txt)
 [Retro Computing](retro_computing.html)             Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 
