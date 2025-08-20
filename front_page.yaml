@@ -9,13 +9,21 @@ header: |
   <h1>The Antenna</h1> 
   <h2>finding signal in the noise</h2>
 
-nav: >
+nav: |
   <ul>
     <li><a href="./">The Antenna</a></li>
     <li><a href="README.html">Implementation</a></li>
     <li><a href="search.html">Search</a></li>
     <li><a href="about.html">About</a></li>
-  </ul>
+  </ul><hr>
+    <ul>
+      <li><a href="forecasts.html">Weather</a></li>
+      <li><a href="socal_north.html">SoCal North</a></li>
+      <li><a href="north_america.html">North America</a></li>
+      <li><a href="pacific.html">Pacific</a></li>
+      <li><a href="planet.html">Planet</a></li>
+      <li><a href="columns.html">Columns</a></li>
+    </ul>
 
 top_content: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
