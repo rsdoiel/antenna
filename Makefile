@@ -50,18 +50,23 @@ release: .FORCE
 	-rm -fR dist/* 2>/dev/null
 	mkdir -p dist
 	cp -v LICENSE dist/
+	cp -vR css dist/
+	cp -vR modules dist/
+	cp -vR media dist/
 	cp -v README.md dist/
 	cp -v about.md dist/
 	cp -v index.md dist/
 	cp -v search.md dist/
 	cp -v forecasts.md dist/
 	cp -v *.urls dist/
+	cp -v *.tmpl dist/
+	cp -v *.lua dist/
 	cp -v check_for_software.* dist/
 	cp -v harvest.* dist/
 	cp -v website.* dist/
-	cp -v front_page.yaml dist/
-	cp -v other_reading.yaml dist/
+	cp -v front_page_example.yaml dist/front_page.yaml
+	cp -v other_reading_example.yaml dist/other_reading.yaml
 	cp -v pagefind.yaml dist/
-	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.urls *.yaml *.bash *.ps1
+	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.urls *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
 
 .FORCE:

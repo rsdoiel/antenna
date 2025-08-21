@@ -24,7 +24,7 @@ for SKIM_FILE in socal_north.skim north_america.skim pacific.skim planet.skim sc
   sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'read'"
   sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '${LAST_WEEKDAY}'"
   skim2html "${SKIM_FILE}" front_page.yaml>"${HTML_FILE}"
-  git add "${HTML_FILE}"
+  if [ -d .git ]; then git add "${HTML_FILE}"; fi
 done
 
 for SKIM_FILE in retro_computing.skim going_electric.skim health.skim home.skim food.skim journalism.skim libraries.skim motorcycles.skim small_papers.skim craft.skim writing.skim; do
@@ -35,7 +35,7 @@ for SKIM_FILE in retro_computing.skim going_electric.skim health.skim home.skim 
   sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'read'"
   sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '${LAST_WEEKDAY}'"
   skim2html "${SKIM_FILE}" other_reading.yaml>"${HTML_FILE}"
-  git add "${HTML_FILE}"
+  if [ -d .git ] ; then git add "${HTML_FILE}"; fi
 done
 
 
@@ -48,7 +48,7 @@ find . -type f | grep -E '\.md$' | while read -r MD_FILE; do
           --template front_page.tmpl \
           "${MD_FILE}" \
           >"${HTML_FILE}"
-  git add "${HTML_FILE}"
+  if [ -d .git ]; then git add "${HTML_FILE}"; fi
 done
 
 
@@ -57,4 +57,4 @@ pagefind \
   --verbose \
   --force-language en \
   --site .
-git add pagefind
+if [ -d .git ] ; then git add pagefind; fi
