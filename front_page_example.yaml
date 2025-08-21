@@ -1,0 +1,41 @@
+# front_page.yaml is an example of how to setup a feed page.
+# I've included most of what I include in my own Antenna.
+
+# These are elements rendered in the HTML head element
+css: css/site.css
+modules:
+  - modules/date_filter.js
+# What follows are rendered in the HTML body element
+header: |
+  <img class="logo" 
+      src="./media/Antenna_1_-_The_Noun_Project.svg"
+      alt="line art showing an antenna"
+      height="80" width="60" >
+  <h1>The Antenna</h1> 
+  <h2>finding signal in the noise</h2>
+
+nav: |
+  <ul>
+    <li><a href="./" "A personal news aggregation, finding signal in the noise">The Antenna</a></li>
+    <li><a href="README.html" "How to implement your own Antennna">Implementation</a></li>
+    <li><a href="search.html" "Search current items">Search</a></li>
+    <li><a href="about.html" "About the Antenna Project">About</a></li>
+  </ul>
+  <hr>
+  <ul>
+    <li><a href="socal_north.html" "Southern Calfornia, North Los Angeles County">SoCal North</a></li>
+    <li><a href="north_america.html" "North American News">North America</a></li>
+    <li><a href="pacific.html" "Pacific News">Pacific</a></li>
+    <li><a href="planet.html" "Planet News">Planet</a></li>
+    <li><a href="columns.html" "Selected columns">Columns</a></li>
+    <li><a href="snapshots.html" "Snapshot posts around the web">Snapshots</a></li>
+    <li><a href="forecasts.html" "Selected NOAA forecasts">Weather</a></li>
+  </ul>
+
+top_content: |
+  <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
+
+bottom_content: ''
+
+footer: >
+  Your footer goess here.
