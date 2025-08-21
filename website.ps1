@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-Converts skim files to HTML and processes markdown files to HTML using PowerShell.
+Converts skim and markdown files to HTML and processes them using PowerShell.
 #>
 
 # Get today's date and the date from seven days ago
@@ -17,12 +17,12 @@ Write-Host "TODAY: $TODAY"
 Write-Host "LAST_WEEKDAY: $LAST_WEEKDAY"
 
 # List of skim files to process
-$skimFiles = @(
+$skimFiles1 = @(
     "socal_north.skim", "north_america.skim", "pacific.skim", "planet.skim",
     "science_and_technology.skim", "columns.skim", "snapshots.skim"
 )
 
-foreach ($SKIM_FILE in $skimFiles) {
+foreach ($SKIM_FILE in $skimFiles1) {
     $HTML_FILE = (Get-Item $SKIM_FILE).BaseName + ".html"
     Write-Host "Generating $HTML_FILE from $SKIM_FILE"
 
@@ -33,17 +33,21 @@ foreach ($SKIM_FILE in $skimFiles) {
 
     # Generate HTML file
     .\skim2html "$SKIM_FILE" front_page.yaml | Out-File "$HTML_FILE"
-    git add "$HTML_FILE"
+
+    # Git add if .git directory exists
+    if (Test-Path -Path ".git") {
+        git add "$HTML_FILE"
+    }
 }
 
 # List of additional skim files to process
-$additionalSkimFiles = @(
+$skimFiles2 = @(
     "retro_computing.skim", "going_electric.skim", "health.skim", "home.skim",
     "food.skim", "journalism.skim", "libraries.skim", "motorcycles.skim",
     "small_papers.skim", "craft.skim", "writing.skim"
 )
 
-foreach ($SKIM_FILE in $additionalSkimFiles) {
+foreach ($SKIM_FILE in $skimFiles2) {
     $HTML_FILE = (Get-Item $SKIM_FILE).BaseName + ".html"
     Write-Host "Generating $HTML_FILE from $SKIM_FILE"
 
@@ -54,7 +58,11 @@ foreach ($SKIM_FILE in $additionalSkimFiles) {
 
     # Generate HTML file
     .\skim2html "$SKIM_FILE" other_reading.yaml | Out-File "$HTML_FILE"
-    git add "$HTML_FILE"
+
+    # Git add if .git directory exists
+    if (Test-Path -Path ".git") {
+        git add "$HTML_FILE"
+    }
 }
 
 # Find the CommonMark files and render them to HTML with Pandoc
@@ -65,9 +73,17 @@ Get-ChildItem -Recurse -Filter "*.md" | ForEach-Object {
 
     # Generate HTML file using Pandoc
     pandoc -f markdown -t html5 --lua-filter=links-to-html.lua --template front_page.tmpl $MD_FILE -o $HTML_FILE
-    git add $HTML_FILE
+
+    # Git add if .git directory exists
+    if (Test-Path -Path ".git") {
+        git add $HTML_FILE
+    }
 }
 
 # Build our search indexes now that we have HTML pages.
 & pagefind --verbose --force-language en --site .
-git add pagefind
+
+# Git add pagefind if .git directory exists
+if (Test-Path -Path ".git") {
+    git add pagefind
+}
