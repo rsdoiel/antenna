@@ -3,6 +3,8 @@
 #
 PROJECT = Antenna
 
+VERSION = $(shell grep '"version":' codemeta.json | cut -d\"  -f 4)
+
 build: CITATION.cff about.md check_for_software harvest website
 
 check_for_software: .FORCE
@@ -40,4 +42,16 @@ refresh:
 publish: .FORCE
 	./publish.bash
 
+release: .FORCE
+	cmt codemeta.json CITATION.cff about.md
+	-rm -fR dist/* 2>/dev/null
+	mkdir -p dist
+	cp -v *.md dist/
+	cp -v check_for_software.* dist/
+	cp -v harvest.* dist/
+	cp -v website.* dist/
+	cp -v front_page.yaml dist/
+	cp -v other_reading.yaml dist/
+	cp -v pagefind.yaml dist/
+	cd dist && zip -r $(PROJECT)-$(VERSION).zip *.*
 .FORCE:

@@ -1,6 +1,9 @@
 ---
 title: antenna
-abstract: "This is a proof of concept demonstrating building a personal news aggregation using skimmer, SQLite3, Pandoc and Make."
+abstract: "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
+It is built using the Tools provided
+by [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
+and either Bash or PowerShell."
 authors:
   - family_name: Doiel
     given_name: R. S.
@@ -9,12 +12,11 @@ authors:
 
 
 repository_code: git+https://github.com/rsdoiel/antenna
-version: 0.0.2
-
+version: 0.0.5
+license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
 programming_language:
-  - Make
-  - Bash
+  - Bash or PowerShell
   - Pandoc templates
   - SQL
 
@@ -25,15 +27,18 @@ keywords:
   - website
   - static
 
-date_released: 2025-08-16
+date_released: 2025-08-21
 ---
 
 About this software
 ===================
 
-## antenna 0.0.2
+## antenna 0.0.5
 
-Working proof of concept. Cleaning up repository to make it easy for others to try.
+Minor cleanup and updates
+
+- Updated skimmer verison to 0.0.25
+- Split layouts between and sub nav based on front_page.yaml and other_reading.yaml
 
 ### Authors
 
@@ -44,16 +49,18 @@ Working proof of concept. Cleaning up repository to make it easy for others to t
 
 
 
-This is a proof of concept demonstrating building a personal news aggregation using skimmer, SQLite3, Pandoc and Make.
+Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
+It is built using the Tools provided
+by [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
+and either Bash or PowerShell.
 
-
+- License: <https://www.gnu.org/licenses/agpl-3.0.txt>
 - GitHub: <git+https://github.com/rsdoiel/antenna>
 - Issues: <https://github.com/rsdoiel/antenna/issues>
 
 ### Programming languages
 
-- Make
-- Bash
+- Bash or PowerShell
 - Pandoc templates
 - SQL
 
@@ -62,7 +69,7 @@ This is a proof of concept demonstrating building a personal news aggregation us
 
 ### Software Requirements
 
-- skimmer >= 0.0.22
+- Skimmer >= 0.0.24
 - Pandoc >= 3.1
 - GNU Make >= 3.45
 - SQLite3 >= 3.40
@@ -71,6 +78,7 @@ This is a proof of concept demonstrating building a personal news aggregation us
 ### Software Suggestions
 
 - Bash
-- Powershell
+- PowerShell
+- Pandoc
 
 

@@ -10,3 +10,4 @@
 *.sql
 _*
 *.sql.gz
+dist/*

@@ -18,13 +18,13 @@ nav: |
   </ul>
   <hr>
   <ul>
-    <li><a href="forecasts.html" "Selected weather forecasts">Weather</a></li>
     <li><a href="socal_north.html" "Southern Calfornia, North Los Angeles County">SoCal North</a></li>
     <li><a href="north_america.html" "North American News">North America</a></li>
     <li><a href="pacific.html" "Pacific News">Pacific</a></li>
     <li><a href="planet.html" "Planet News">Planet</a></li>
     <li><a href="columns.html" "Selected columns">Columns</a></li>
     <li><a href="snapshots.html" "Snapshot posts around the web">Snapshots</a></li>
+    <li><a href="forecasts.html" "Selected NOAA forecasts">Weather</a></li>
   </ul>
 
 top_content: |

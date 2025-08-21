@@ -13,8 +13,10 @@ fi
 echo "TODAY: $TODAY"
 echo "LAST_WEEKDAY: $LAST_WEEKDAY"
 
+
+
 # Find the skim/urls files and generate html pages using skim2html
-find . -type f | grep -E '\.skim$' | while read -r SKIM_FILE; do
+for SKIM_FILE in socal_north.skim north_america.skim pacific.skim planet.skim science_and_technology.skim columns.skim snapshots.skim ; do
   HTML_FILE="$(basename "${SKIM_FILE}" ".skim").html"
 
   echo "Generating $HTML_FILE from $SKIM_FILE"
@@ -24,6 +26,18 @@ find . -type f | grep -E '\.skim$' | while read -r SKIM_FILE; do
   skim2html "${SKIM_FILE}" front_page.yaml>"${HTML_FILE}"
   git add "${HTML_FILE}"
 done
+
+for SKIM_FILE in retro_computing.skim going_electric.skim health.skim home.skim food.skim journalism.skim libraries.skim motorcycles.skim small_papers.skim craft.skim writing.skim; do
+  HTML_FILE="$(basename "${SKIM_FILE}" ".skim").html"
+
+  echo "Generating $HTML_FILE from $SKIM_FILE"
+  sqlite3 "${SKIM_FILE}" "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%' OR LOWER(QUOTE(tags)) LIKE '%sports%' OR LOWER(QUOTE(tags)) LIKE '%opinion%' OR lower(quote(tags)) like '%obituar%' or lower(quote(tags)) like '%views/columnists%'"
+  sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'read'"
+  sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '${LAST_WEEKDAY}'"
+  skim2html "${SKIM_FILE}" other_reading.yaml>"${HTML_FILE}"
+  git add "${HTML_FILE}"
+done
+
 
 # Find the CommonMark files and render them to HTML with Pandoc
 find . -type f | grep -E '\.md$' | while read -r MD_FILE; do

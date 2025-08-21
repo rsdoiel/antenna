@@ -1,39 +1,30 @@
----
-title : "Search"
----
 
-<noscript>JavaScript must be enabled for search to work</noscript>
 
-# Antenna's Search
+# antenna
 
-<search id="search"></search>
-
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+<link href="./pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="./pagefind/pagefind-ui.js" type="text/javascript"></script>
+<div id="search"></div>
 <script>
-// Fetch the query "q" form the URL
+const u = URL.parse(window.location.href);
+const basePath = u.pathname.replace(/search.html$/g, '');
+
+// Function to extract query parameters from the URL
 function getQueryParam(name) {
   const urlParams = new URLSearchParams(window.location.search);
   return urlParams.get(name);
 }
 
-// When the page is loaded setup PageFindUI object.
+// Extract the query parameter
+const searchQuery = getQueryParam('q');
+
 window.addEventListener('DOMContentLoaded', (event) => {
-  const pagefindUI = new PagefindUI({
-  element: "#search",
-  showSubResults: true,
-  highlightParam: "highlight",
-  mergeIndex: [
-      {
-        bundlePath: "https://rsdoiel.github.io/antenna/pagefind",
-        baseUrl: "/antenna/"
-      },
-    ]
-  });
-  
-  const queryString = getQueryParam("q");
-  if (queryString) {
-    pagefindUI.triggerSearch(queryString);
-  }
+    const searchUI = new PagefindUI({ 
+            element: "#search",
+            baseUrl: basePath
+    });
+    if (searchQuery) {
+        searchUI.triggerSearch(searchQuery);
+    }
 });
 </script>
