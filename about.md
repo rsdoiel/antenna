@@ -69,16 +69,15 @@ and either Bash or PowerShell.
 
 ### Software Requirements
 
-- Skimmer >= 0.0.24
+- Skimmer >= 0.0.25
 - Pandoc >= 3.1
-- GNU Make >= 3.45
-- SQLite3 >= 3.40
+- Bash or Powershell (Windows)
 
 
 ### Software Suggestions
 
-- Bash
-- PowerShell
-- Pandoc
+- SQLite3
+- GNU Make
+- CMTools
 
 

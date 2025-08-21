@@ -25,6 +25,9 @@ pagefind: .FORCE
 clean: .FORCE
 	-rm *.html 2>/dev/null
 
+about.md: .FORCE
+	@cmt codemeta.json about.md
+
 CITATION.cff: .FORCE
 	@cmt codemeta.json CITATION.cff
 	
@@ -46,12 +49,19 @@ release: .FORCE
 	cmt codemeta.json CITATION.cff about.md
 	-rm -fR dist/* 2>/dev/null
 	mkdir -p dist
-	cp -v *.md dist/
+	cp -v LICENSE dist/
+	cp -v README.md dist/
+	cp -v about.md dist/
+	cp -v index.md dist/
+	cp -v search.md dist/
+	cp -v forecasts.md dist/
+	cp -v *.urls dist/
 	cp -v check_for_software.* dist/
 	cp -v harvest.* dist/
 	cp -v website.* dist/
 	cp -v front_page.yaml dist/
 	cp -v other_reading.yaml dist/
 	cp -v pagefind.yaml dist/
-	cd dist && zip -r $(PROJECT)-$(VERSION).zip *.*
+	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.urls *.yaml *.bash *.ps1
+
 .FORCE:
