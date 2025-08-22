@@ -32,7 +32,7 @@ foreach ($SKIM_FILE in $skimFiles1) {
     sqlite3 "$SKIM_FILE" "UPDATE items SET status = 'saved' WHERE published >= '$LAST_WEEKDAY'"
 
     # Generate HTML file
-    .\skim2html "$SKIM_FILE" front_page.yaml | Out-File "$HTML_FILE"
+    skim2html "$SKIM_FILE" front_page.yaml | Out-File "$HTML_FILE"
 
     # Git add if .git directory exists
     if (Test-Path -Path ".git") {
@@ -57,7 +57,7 @@ foreach ($SKIM_FILE in $skimFiles2) {
     sqlite3 "$SKIM_FILE" "UPDATE items SET status = 'saved' WHERE published >= '$LAST_WEEKDAY'"
 
     # Generate HTML file
-    .\skim2html "$SKIM_FILE" other_reading.yaml | Out-File "$HTML_FILE"
+    skim2html "$SKIM_FILE" other_reading.yaml | Out-File "$HTML_FILE"
 
     # Git add if .git directory exists
     if (Test-Path -Path ".git") {
