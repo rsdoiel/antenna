@@ -2,7 +2,7 @@
 
 # Get today's date and the nearest Sunday and Saturday
 TODAY=$(reldate +0 day)
-LAST_WEEKDAY=$(reldate -- -7 day)
+LAST_WEEKDAY=$(reldate -- -14 day)
 
 # Override LAST_WEEKDAY if 'start' is provided
 if [ -n "$start" ]; then
