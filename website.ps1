@@ -5,7 +5,7 @@ Converts skim and markdown files to HTML and processes them using PowerShell.
 
 # Get today's date and the date from seven days ago
 $TODAY = Get-Date -Format "yyyy-MM-dd"
-$LAST_WEEKDAY = (Get-Date).AddDays(-7).ToString("yyyy-MM-dd")
+$LAST_WEEKDAY = (Get-Date).AddDays(-14).ToString("yyyy-MM-dd")
 
 # Override LAST_WEEKDAY if 'start' is provided
 if ($start -ne $null) {
