@@ -10,3 +10,6 @@
 *.sql
 _*
 *.sql.gz
+*.ts
+deno.*
+dist/*
