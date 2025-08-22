@@ -68,5 +68,6 @@ release: .FORCE
 	cp -v other_reading_example.yaml dist/other_reading.yaml
 	cp -v pagefind.yaml dist/
 	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.urls *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
+	printf "\nready to run\n\n\trelease.bash\n\n"
 
 .FORCE:
