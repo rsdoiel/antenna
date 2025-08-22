@@ -42,7 +42,7 @@ foreach ($SKIM_FILE in $skimFiles1) {
 
 # List of additional skim files to process
 $skimFiles2 = @(
-    "retro_computing.skim", "going_electric.skim", "health.skim", "home.skim",
+    "retro_computing.skim", "going_electric.skim", "home.skim",
     "food.skim", "journalism.skim", "libraries.skim", "motorcycles.skim",
     "small_papers.skim", "craft.skim", "writing.skim"
 )

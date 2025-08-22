@@ -27,7 +27,7 @@ for SKIM_FILE in socal_north.skim north_america.skim pacific.skim planet.skim sc
   if [ -d .git ]; then git add "${HTML_FILE}"; fi
 done
 
-for SKIM_FILE in retro_computing.skim going_electric.skim health.skim home.skim food.skim journalism.skim libraries.skim motorcycles.skim small_papers.skim craft.skim writing.skim; do
+for SKIM_FILE in retro_computing.skim going_electric.skim home.skim food.skim journalism.skim libraries.skim motorcycles.skim small_papers.skim craft.skim writing.skim; do
   HTML_FILE="$(basename "${SKIM_FILE}" ".skim").html"
 
   echo "Generating $HTML_FILE from $SKIM_FILE"
