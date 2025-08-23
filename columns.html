@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.24">
-  <meta name="date" content="2025-08-23T06:07:59-07:00">
+  <meta name="date" content="2025-08-23T16:06:20-07:00">
 </head>
 <body>
   <header>
@@ -39,6 +39,248 @@
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
 
+    <article data-published="2025-08-23T22:00:46Z" data-link="https://robertreich.substack.com/p/today-is-the-anniversary-of-the-worst">
+      <h1>Today is the anniversary of the worst memo in history</h1>
+
+(date: 2025-08-23, from: <a href="https://robertreich.substack.com/p/today-is-the-anniversary-of-the-worst">Robert Reich's blog</a>)
+      <p>
+      Friends,
+      <address>
+        <a href="https://robertreich.substack.com/p/today-is-the-anniversary-of-the-worst">https://robertreich.substack.com/p/today-is-the-anniversary-of-the-worst</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T21:05:11Z" data-link="https://podcasts.apple.com/us/podcast/how-ice-became-trumps-secret-army/id1305908387?i=1000722747054">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-23, from: <a href="https://podcasts.apple.com/us/podcast/how-ice-became-trumps-secret-army/id1305908387?i=1000722747054">Dave's blog</a>)
+      <p>
+      <p>Lots of info in this podcast episode about how ICE is funded and what their focus on.</p>
+      <address>
+        <a href="https://podcasts.apple.com/us/podcast/how-ice-became-trumps-secret-army/id1305908387?i=1000722747054">https://podcasts.apple.com/us/podcast/how-ice-became-trumps-secret-army/id1305908387?i=1000722747054</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T20:34:37Z" data-link="https://kottke.org/25/08/0047392-from-john-ganz-in-nov">
+      <h1> From John Ganz in Nov 2024: &#8220;a list of things I thought... </h1>
+
+(date: 2025-08-23, updated: 2025-08-23, from: <a href="https://kottke.org/25/08/0047392-from-john-ganz-in-nov">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/08/0047392-from-john-ganz-in-nov">https://kottke.org/25/08/0047392-from-john-ganz-in-nov</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T20:33:53Z" data-link="https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/">
+      <h1>The Hotel Model of AI</h1>
+
+(date: 2025-08-23, from: <a href="https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/">Doc Searls (at Harvard), New Old Blog</a>)
+      <p>
+      What I like best about Keith Teare&#8216;s latest essay, Who Owns The Front Door to AI? If it isn&#8217;t you, its game over, is that it sounds like he&#8217;s setting up the case for personal AI. But he&#8217;s not. He&#8217;s describing how our AI-assisted lives will get sucked through better interfaces deep into one or more [&#8230;]
+      <address>
+        <a href="https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/">https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T20:14:12Z" data-link="https://alexschroeder.ch/view/2025-08-15-xobaque">
+      <h1>2025-08-15 An opt-in search engine: Xobaque</h1>
+
+(date: 2025-08-23, from: <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">Alex Schroeder's Blog</a>)
+      <p>
+      <h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
+
+<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web.
+I called it <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a>.</p>
+
+<p>On <a href="https://www.emacswiki.org/emacs/2025-08-22">2025-08-22</a> I set it up to <a href="https://search.emacslife.com/">search Planet Emacslife</a>.</p>
+
+<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
+
+<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
+
+<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
+
+<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
+
+<p>Here are some examples of how to use this in a script.</p>
+
+<p>My homepage:</p>
+
+<pre><code>#!/usr/bin/fish
+cd /home/alex/alexschroeder.ch/wiki
+for line in (/home/oddmu/oddmu list)
+  set --local info (string split &quot;	&quot; $line)
+  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
+  set --local title $info[2]
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://alexschroeder.ch/view/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;$name.md&quot;
+end
+</code></pre>
+
+<p>Emacs Wiki:</p>
+
+<pre><code>#!/usr/bin/fish
+for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
+  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
+  set --local title (string replace '_' ' ' $name)
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://www.emacswiki.org/emacs/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;/home/alex/emacswiki/git/$name&quot;
+end
+</code></pre>
+
+<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
+
+<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
+
+<p><strong>2025-08-15</strong>. I have that vague idea that it would process OPML files like the <a href="https://planet.emacslife.com/opml.xml">Planet Emacslife OPML</a> or the three RPG Planet OPML files, <a href="https://campaignwiki.org/rpg/indie.opml">Indie</a>, <a href="https://campaignwiki.org/rpg/osr.opml">OSR</a> and <a href="https://campaignwiki.org/rpg/other.opml">Other</a>. From the OPML files Xobaque would know a bunch of feeds which it could then use for updates. I have written <a href="https://src.alexschroeder.ch/planet-jupiter.git/">Planet Jupiter</a>, so I know that from 80% to 90% is handling blogs that are down and from 90% to 100% it&rsquo;s all about fiddling with the markup… There&rsquo;s also the question of consent. So perhaps one would have to start a new list of feeds for those people who explicitly consent. And if by chance that covers all the feeds on Planet Emacslife or RPG Planet that&rsquo;d be a reason to laugh and party! 🎉</p>
+
+<p><strong>2025-08-17</strong>. Adding feeds and collections of feeds (via OPML files) works, now. 🎉</p>
+
+<p>The feed import from the net should use ETags and If-Modified-Since headers if possible, but the convenience functions of bot the feed and the OPML library don’t provide this, so I’ll have to roll my own. And then think of parallelising the requests. Go channels ahoy! 😬</p>
+
+<p>And then a web UI for uploads and accounts? 🥺</p>
+
+<p><strong>2025-08-19</strong>. Xobaque now knows how to skip feeds that haven’t updated using <code>If-Modified-Since</code> and <code>If-None-Match</code> headers.</p>
+
+<p><strong>2025-08-19</strong>. The errors I&rsquo;m finding in the feeds of Planet Emacslife OPML:</p>
+
+<pre><code>Error importing feed https://lifeofpenguin.blogspot.com/feeds/posts/default?alt=rss: XML syntax error on line 1: illegal character code U+FFFF
+Error importing feed https://blog.laurentcharignon.com/index.xml: XML syntax error on line 231: illegal character code U+0008
+Error importing feed http://feeds.feedburner.com/emacslife: parsing time &quot;Sat, 9 Aug 2025 18:00:43 GMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;9 Aug 2025 18:00:43 GMT&quot; as &quot;02&quot;
+Error importing feed https://www.unwoundstack.com/emacs-rss.xml: Get &quot;https://www.unwoundstack.com/emacs-rss.xml&quot;: net/http: TLS handshake timeout
+Error importing feed http://emacsmovies.org/atom.xml: parsing time &quot;Sun, 04 Dec 2022 08:19:18 8DecGMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;8DecGMT&quot; as &quot;MST&quot;
+</code></pre>
+
+<p>But I guess I have 248/253 feeds imported.</p>
+
+<p>Other issues I have noticed: Endless repeats of news items that overwrite each other, only differing in title and description, and no GUID set:</p>
+
+<pre><code> Update http://tromey.com/elpa/news.html
+</code></pre>
+
+<p>Then again, the items all have dates set from 2007 to 2010, so perhaps that&rsquo;s OK.</p>
+
+<p>And now I find:</p>
+
+<pre><code># ./xobaque search alex schroeder
+Emacs: Take Two
+https://takeonrules.com/2025/06/10/emacs-take-two/emacs-take-two
+extend &lt;span&gt;Emacs&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;Third, learning of Alex Schroeder, both involved in &lt;abbr title=&quot;Role Playing Games&quot;&gt;RPGs
+</code></pre>
+
+<p>It works! And I really need to strip HTML, here! 😂</p>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">https://alexschroeder.ch/view/2025-08-15-xobaque</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T19:27:05Z" data-link="https://poststatus.com/an-operating-system-for-the-web/">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-23, from: <a href="https://poststatus.com/an-operating-system-for-the-web/">Dave's blog</a>)
+      <p>
+      <p>An Operating System for the Web. #wordpress</p>
+      <address>
+        <a href="https://poststatus.com/an-operating-system-for-the-web/">https://poststatus.com/an-operating-system-for-the-web/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T19:13:07Z" data-link="https://kottke.org/25/08/0047391-were-seeing-an-escalation">
+      <h1> &#8220;We&#8217;re seeing an escalation of authoritarian power on many fronts that has... </h1>
+
+(date: 2025-08-23, updated: 2025-08-23, from: <a href="https://kottke.org/25/08/0047391-were-seeing-an-escalation">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/08/0047391-were-seeing-an-escalation">https://kottke.org/25/08/0047391-were-seeing-an-escalation</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T18:09:00Z" data-link="https://kottke.org/25/08/0047390-how-to-make-sense-of">
+      <h1> How to Make Sense of Trump&#8217;s Voting Rights Chaos. &#8220;It matters that... </h1>
+
+(date: 2025-08-23, updated: 2025-08-23, from: <a href="https://kottke.org/25/08/0047390-how-to-make-sense-of">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/08/0047390-how-to-make-sense-of">https://kottke.org/25/08/0047390-how-to-make-sense-of</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T17:38:53Z" data-link="https://heathercoxrichardson.substack.com/p/august-22-2025-689">
+      <h1>August 22, 2025</h1>
+
+(date: 2025-08-23, from: <a href="https://heathercoxrichardson.substack.com/p/august-22-2025-689">Heather Cox Richardson blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/august-22-2025-689">https://heathercoxrichardson.substack.com/p/august-22-2025-689</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T17:30:18Z" data-link="https://mastodon.social/@Migueldeicaza/115079264206515997">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-08-23, from: <a href="https://mastodon.social/@Migueldeicaza/115079264206515997">Miguel de Icaza Mastondon feed</a>)
+      <p>
+      <p>I only have one complaint about iOS 26: getting to “all tabs” in Safari now takes one more tap.</p>
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115079264206515997">https://mastodon.social/@Migueldeicaza/115079264206515997</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T17:19:57Z" data-link="https://africa.espn.com/nfl/story/_/id/45980984/nfl-teams-again-stencil-social-justice-messages-end-zones">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-23, from: <a href="https://africa.espn.com/nfl/story/_/id/45980984/nfl-teams-again-stencil-social-justice-messages-end-zones">Dave's blog</a>)
+      <p>
+      <p>NFL teams to again stencil social justice messages in end zones.</p>
+      <address>
+        <a href="https://africa.espn.com/nfl/story/_/id/45980984/nfl-teams-again-stencil-social-justice-messages-end-zones">https://africa.espn.com/nfl/story/_/id/45980984/nfl-teams-again-stencil-social-justice-messages-end-zones</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T14:19:03Z" data-link="http://scripting.com/2025/08/23/141903.html?title=discourseAsItExistsToday">
+      <h1>Discourse as it exists today</h1>
+
+(date: 2025-08-23, from: <a href="http://scripting.com/2025/08/23/141903.html?title=discourseAsItExistsToday">Dave Winer's Scripting News</a>)
+      <p>
+      <p>Just <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0ov3Sh2dQEguUtGMbTDEMGKuWhmEBVJjcaJwuEdD7eJUjdBLU8bPVuqfRFWMC4UM6l?comment_id=1394095081663210">posted</a> on a Facebook thread I unintentionally started.</p>
+<ul>
+<li>I don't like public conversations where people judge other people and they feel compelled to explain themselves. I wasn't in any way intending on provoking a conversation like that here. So I'm going to delete the comments that have gone off in that direction, and please don't post any more. I don't mind you having that conversation, but do it somewhere else where I don't have to read it. Thanks. </li>
+</ul>
+<p>Everywhere that's the only structure for discourse we've created. </p>
+<p>We can do better. I have to create my own system to prove it, so much work, but worth it, I expect. </p>
+
+      <address>
+        <a href="http://scripting.com/2025/08/23/141903.html?title=discourseAsItExistsToday">http://scripting.com/2025/08/23/141903.html?title=discourseAsItExistsToday</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-23T13:17:50Z" data-link="http://scripting.com/2025/08/23.html#a131750">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-08-23, from: <a href="http://scripting.com/2025/08/23.html#a131750">Dave Winer's Scripting News</a>)
+      <p>
+      I picked up my Android phone to record a voice memo. I had to dismiss a dialog that said the phone had updated overnight and asked if I wanted to see a list of changes. I thought, clicked No because I had an idea I wanted to record. Opened the voice app, hit record, couldn't remember the idea. Wanted to kill the message, but the UI had changed, so the Delete button that was there before wasn't there now. Great so now I have a 4-second recording in the queue that's nothing but frustration. There ought to be some basic rules of how software evolves. You can't take away a very basic function like this. And find a way not to get in the way of the user getting done what they use your product for. One of the most basic things is recording an idea. If you're lucky enough to be the app the user uses for that, don't screw with it. Same for listening to podcasts, and a few other things. That's about all I do with my phone.
+      <address>
+        <a href="http://scripting.com/2025/08/23.html#a131750">http://scripting.com/2025/08/23.html#a131750</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-23T12:58:30Z" data-link="http://www.enlightenmenteconomics.com/blog/index.php/2025/08/without-nature-there-is-no-economy/">
       <h1>Without nature, there is no economy</h1>
 
@@ -63,7 +305,7 @@
     </article>
 
     <article data-published="2025-08-23T08:01:45Z" data-link="https://robertreich.substack.com/p/how-to-stop-trumps-second-coup-the">
-      <h1>How to Stop Trump's Second Coup | The Coffee Klatch for Saturday, August 23, 2025 </h1>
+      <h1>How to Stop Trump’s Second Coup | The Coffee Klatch for Saturday, August 23, 2025 </h1>
 
 (date: 2025-08-23, from: <a href="https://robertreich.substack.com/p/how-to-stop-trumps-second-coup-the">Robert Reich's blog</a>)
       <p>
@@ -1429,17 +1671,6 @@ We then use <code>sort</code> to sort these lines numerically.</p>
       </address>
     </article>
 
-    <article data-published="2025-08-20T15:27:51Z" data-link="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">
-      <h1>Claim Chowder: Anthropic CEO Dario Amodei Five Months Ago</h1>
-
-(date: 2025-08-20, updated: 2025-08-20, from: <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</a>
-      </address>
-    </article>
-
     <article data-published="2025-08-20T15:20:00Z" data-link="https://kottke.org/25/08/the-covid-vaccine-situation-for-the-fall-is-a-complete-mess">
       <h1> The Covid Vaccine Situation for the Fall Is a Complete Mess </h1>
 
@@ -1582,17 +1813,6 @@ We then use <code>sort</code> to sort these lines numerically.</p>
       <p>It&apos;s a meme as accurate as time. The problem is that our digital infrastructure depends upon just some random guy in Nebraska. </p><figure class="kg-card kg-image-card"><img src="https://ghuntley.com/content/images/2025/08/image.png" class="kg-image" alt loading="lazy" width="770" height="978" srcset="https://ghuntley.com/content/images/size/w600/2025/08/image.png 600w, https://ghuntley.com/content/images/2025/08/image.png 770w" sizes="(min-width: 720px) 720px"></figure><p>Open-source, by design, is not financially sustainable. Finding reliable, well-defined funding sources is exceptionally challenging. As projects grow in size, many maintainers burn out and find</p>
       <address>
         <a href="https://ghuntley.com/libraries/">https://ghuntley.com/libraries/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-20T01:46:59Z" data-link="https://kieranhealy.org/blog/archives/2025/06/28/american/">
-      <h1>‘American’</h1>
-
-(date: 2025-08-20, updated: 2025-08-20, from: <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">https://kieranhealy.org/blog/archives/2025/06/28/american/</a>
       </address>
     </article>
 
@@ -2026,114 +2246,6 @@ vary. Tune in again next year for another episode.<br />
       </address>
     </article>
 
-    <article data-published="2025-08-19T14:23:47Z" data-link="https://alexschroeder.ch/view/2025-08-15-xobaque">
-      <h1>2025-08-15 An opt-in search engine: Xobaque</h1>
-
-(date: 2025-08-19, from: <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
-
-<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web.
-I called it <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a>.
-You can test it <a href="http://search.transjovian.org/search">here</a>.
-(I&rsquo;m currently having problems with Let&rsquo;s Encrypt and therefore this is HTTP only, for the moment.)</p>
-
-<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
-
-<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
-
-<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
-
-<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
-
-<p>Here are some examples of how to use this in a script.</p>
-
-<p>My homepage:</p>
-
-<pre><code>#!/usr/bin/fish
-cd /home/alex/alexschroeder.ch/wiki
-for line in (/home/oddmu/oddmu list)
-  set --local info (string split &quot;	&quot; $line)
-  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
-  set --local title $info[2]
-  /home/xobaque/xobaque upload \
-    -db &quot;/home/xobaque/index.db&quot; \
-    -base &quot;https://alexschroeder.ch/view/&quot; \
-    -local &quot;$name&quot; \
-    -title &quot;$title&quot; \
-    -filename &quot;$name.md&quot;
-end
-</code></pre>
-
-<p>(The index file grows from nearly zero to about 40M.)</p>
-
-<p>Emacs Wiki:</p>
-
-<pre><code>#!/usr/bin/fish
-for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
-  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
-  set --local title (string replace '_' ' ' $name)
-  /home/xobaque/xobaque upload \
-    -db &quot;/home/xobaque/index.db&quot; \
-    -base &quot;https://www.emacswiki.org/emacs/&quot; \
-    -local &quot;$name&quot; \
-    -title &quot;$title&quot; \
-    -filename &quot;/home/alex/emacswiki/git/$name&quot;
-end
-</code></pre>
-
-<p>(The index file grows from about 40M to 290M.)</p>
-
-<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
-
-<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
-
-<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
-
-<p><strong>2025-08-15</strong>. I have that vague idea that it would process OPML files like the <a href="https://planet.emacslife.com/opml.xml">Planet Emacslife OPML</a> or the three RPG Planet OPML files, <a href="https://campaignwiki.org/rpg/indie.opml">Indie</a>, <a href="https://campaignwiki.org/rpg/osr.opml">OSR</a> and <a href="https://campaignwiki.org/rpg/other.opml">Other</a>. From the OPML files Xobaque would know a bunch of feeds which it could then use for updates. I have written <a href="https://src.alexschroeder.ch/planet-jupiter.git/">Planet Jupiter</a>, so I know that from 80% to 90% is handling blogs that are down and from 90% to 100% it&rsquo;s all about fiddling with the markup… There&rsquo;s also the question of consent. So perhaps one would have to start a new list of feeds for those people who explicitly consent. And if by chance that covers all the feeds on Planet Emacslife or RPG Planet that&rsquo;d be a reason to laugh and party! 🎉</p>
-
-<p><strong>2025-08-17</strong>. Adding feeds and collections of feeds (via OPML files) works, now. 🎉</p>
-
-<p>The feed import from the net should use ETags and If-Modified-Since headers if possible, but the convenience functions of bot the feed and the OPML library don’t provide this, so I’ll have to roll my own. And then think of parallelising the requests. Go channels ahoy! 😬</p>
-
-<p>And then a web UI for uploads and accounts? 🥺</p>
-
-<p><strong>2025-08-19</strong>. Xobaque now knows how skip feeds that haven’t updated using <code>If-Modified-Since</code> and <code>If-None-Match</code> headers.</p>
-
-<p><strong>2025-08-19</strong>. The errors I&rsquo;m finding in the feeds of Planet Emacslife OPML:</p>
-
-<pre><code>Error importing feed https://lifeofpenguin.blogspot.com/feeds/posts/default?alt=rss: XML syntax error on line 1: illegal character code U+FFFF
-Error importing feed https://blog.laurentcharignon.com/index.xml: XML syntax error on line 231: illegal character code U+0008
-Error importing feed http://feeds.feedburner.com/emacslife: parsing time &quot;Sat, 9 Aug 2025 18:00:43 GMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;9 Aug 2025 18:00:43 GMT&quot; as &quot;02&quot;
-Error importing feed https://www.unwoundstack.com/emacs-rss.xml: Get &quot;https://www.unwoundstack.com/emacs-rss.xml&quot;: net/http: TLS handshake timeout
-Error importing feed http://emacsmovies.org/atom.xml: parsing time &quot;Sun, 04 Dec 2022 08:19:18 8DecGMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;8DecGMT&quot; as &quot;MST&quot;
-</code></pre>
-
-<p>But I guess I have 248/253 feeds imported.</p>
-
-<p>Other issues I have noticed: Endless repeats of news items that overwrite each other, only differing in title and description, and no GUID set:</p>
-
-<pre><code> Update http://tromey.com/elpa/news.html
-</code></pre>
-
-<p>Then again, the items all have dates set from 2007 to 2010, so perhaps that&rsquo;s OK.</p>
-
-<p>And now I find:</p>
-
-<pre><code># ./xobaque search alex schroeder
-Emacs: Take Two
-https://takeonrules.com/2025/06/10/emacs-take-two/emacs-take-two
-extend &lt;span&gt;Emacs&lt;/span&gt;
-.&lt;/p&gt;
-&lt;p&gt;Third, learning of Alex Schroeder, both involved in &lt;abbr title=&quot;Role Playing Games&quot;&gt;RPGs
-</code></pre>
-
-<p>It works! And I really need to strip HTML, here! 😂</p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">https://alexschroeder.ch/view/2025-08-15-xobaque</a>
-      </address>
-    </article>
-
     <article data-published="2025-08-19T14:21:32Z" data-link="http://scripting.com/2018/06/12/140329.html">
       <h1>@Dave's blog</h1>
 
@@ -2222,6 +2334,17 @@ extend &lt;span&gt;Emacs&lt;/span&gt;
       This morning, J.D.
       <address>
         <a href="https://heathercoxrichardson.substack.com/p/august-18-2025">https://heathercoxrichardson.substack.com/p/august-18-2025</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-19T02:38:15Z" data-link="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-19, from: <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">Dave's blog</a>)
+      <p>
+      <p>Six months ago the Anthropic CEO said: AI Will Be Writing 90% of Code in 3 to 6 Months. Looney Tunes.</p>
+      <address>
+        <a href="https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3">https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</a>
       </address>
     </article>
 
