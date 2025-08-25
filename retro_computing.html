@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.24">
-  <meta name="date" content="2025-08-25T06:00:13-07:00">
+  <meta name="date" content="2025-08-25T08:40:22-07:00">
 </head>
 <body>
   <header>
@@ -41,6 +41,28 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-08-24T17:00:00Z" data-link="https://heyrick.eu/blog/entry/20250824">
+      <h1>b.log 2025/08/24 - The end is nigh!, Satellite woes, Letterbox, And also..., Barn swallows.</h1>
+
+(date: 2025-08-24, from: <a href="https://heyrick.eu/blog/entry/20250824">Richard Murray's blog</a>)
+      <p>
+      The end is nigh!, Satellite woes, Letterbox, And also..., Barn swallows.
+      <address>
+        <a href="https://heyrick.eu/blog/entry/20250824">https://heyrick.eu/blog/entry/20250824</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-24T15:14:06Z" data-link="https://www.riscository.com/2025/cherry-bomb-bbc-basic/">
+      <h1>Cherry Bomb revisited in BBC BASIC</h1>
+
+(date: 2025-08-24, from: <a href="https://www.riscository.com/2025/cherry-bomb-bbc-basic/">RiscOS Story</a>)
+      <p>
+      A couple of years ago, Jeroen Vermeulen ported Cherry Bomb to RISC OS, a shoot &#8217;em up &#8211; aka a &#8216;shmup&#8217; according to its original developer, Krystian Majewski &#8211; in which you control a ship at the bottom of the screen, and shoot down the incoming waves of alien attackers. The original game was developed as part of a tutorial series on a YouTube channel called Lazy Devs Academy, operated by Krystian, and Jeroen&#8217;s aim was to learn from those tutorials. He initially brought Cherry Bomb to RISC OS using&#8230;
+      <address>
+        <a href="https://www.riscository.com/2025/cherry-bomb-bbc-basic/">https://www.riscository.com/2025/cherry-bomb-bbc-basic/</a>
+      </address>
+    </article>
 
     <article data-published="2025-08-24T00:12:00Z" data-link="https://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html">
       <h1>Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU</h1>
@@ -1061,7 +1083,7 @@ On each store we'll duly log the value in $64/$65 (remember it's big-endian) and
 <p>
 From the above you can see where the program marks the order of each node and the accumulated mileage. Our running totals, most likely the F-score and G-score, for a given node <tt>x</tt> are in <tt>N%(x,1)</tt> and <tt>N%(x,2)</tt>, the length of the candidate edge is in <tt>N%(x,1)</tt>, the optimal edge for the node is in <tt>N%(x,4)</tt>, and the iteration it was marked in is recorded in <tt>N%(x,3)</tt>. (We count an iteration as any loop in which a candidate node is marked, which in this simple example will occur on every run through the open set.) <tt>N%(x,0)</tt> also looks like a distance, but it doesn't correlate to a highway distance. To construct the itinerary at the end, it starts with San Bernardino and then repeatedly walks the selected edge to the next node until it reaches Needles.
 <p>
-It's painfully obvious that compared to our models Roadsearch is considering a much smaller number of nodes (18, 34, 169, 251, 262, 311, 375, 442 and 443), counting the five in the optimal solution, and it duly converges on the optimal routing in just four iterations compared to <em>twelve</em> in our <em>best</em> case. I did look at its read pattern and found that <tt>N%(x,0)</tt> and <tt>N%(x,1)</tt> lit up a <em>lot</em>. These values are clearly important to computing whatever heuristic it's using, so I pulled out a few from across North America.
+It's painfully obvious that compared to our models Roadsearch is considering a much smaller number of nodes (18, 34, 169, 251, 262, 311, 375, 442 and 443), counting the five in the optimal solution, and it duly converges on the optimal routing in just four iterations compared to <em>twelve</em> in our <em>best</em> case. I did look at its read pattern and found that <tt>N%(x,0)</tt> and <tt>N%(x,1)</tt> lit up a <em>lot</em> before they are later overwritten. These values are clearly important to computing whatever heuristic it's using, so I pulled out a few from across North America.
 <p>
 <div class="tx"><pre>
 San Diego, CA       5710  20447
@@ -1291,7 +1313,7 @@ Remembering that Roadsearch works it backwards, we converge on the same solution
 4636: 02 d0	N%(311,4)=720	NEEDLES CA  to I40/US95 CA  (12 miles) via I 40 
 </pre></div>
 <p>
-This routing proceeds in six iterations, just as we do, and once again the nodes we end up considering in our new A-star model are also the same. It also explains <tt>N%(x,0)</tt> &mdash; this is the straight-line distance and thus our heuristic, calculated (it's backwards) as the distance to the "start." For example, Palm Springs is indeed roughly 135 miles from Needles as the crow flies, again depending on your exact termini, whereas the western US 95/Interstate 40 junction is only about 11 miles.
+This routing proceeds in six iterations, just as we do, and once again the nodes we end up considering in our new A-star model are also the same. It also explains <tt>N%(x,0)</tt> &mdash; this is the straight-line distance and thus our heuristic, calculated (it's backwards) as the distance to the "start." For example, Palm Springs is indeed roughly 135 miles from Needles as the crow flies, again depending on your exact termini, whereas the western US 95/Interstate 40 junction is only about 11 miles. Note that this process overwrites the coordinate information, but we only needed it to compute the estimate; since we reload <tt>MATS</tt> entirely anyway after the user exits routing, it doesn't cause a problem.
 <p>
 It should also be obvious that this "fudge" divisor has a direct effect on the efficiency of the routine. While we're purportedly using it as a means to scale down the heuristic, doing so is actually just a backhanded way of deciding how strongly we want the heuristic weighted. However, we can't really appreciate its magnitude in a problem space this small, so now we'll throw it a big one: <em>drive</em> from San Diego (376) to Bangor (17). (I did myself drive from Bangor to San Diego in 2006, but via Georgia to visit relatives.)
 <p>
@@ -1611,7 +1633,7 @@ And this is the end of this article's journey too. The fact that the existing <t
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggeIYVkxZii2H7URy81mVYnl4S27XBsjTWJ0xLDRcxk8fXjqlgU1U1fzM1Qko0NOiZpEx8n2UypdefQtL4yFdB3TpwLp0M-ZRIPFyzP7y_bqzTAOHA3BMK2yspR5jKXEVL0isHqySkn8BC1dkGngOaItfF4dGjNE8IRHRGuCFidMVdF6IGmtlWuq3FBN8/s3360/Screenshot%202025-08-21%20at%205.57.38%E2%80%AFPM.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="2100" data-original-width="3360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggeIYVkxZii2H7URy81mVYnl4S27XBsjTWJ0xLDRcxk8fXjqlgU1U1fzM1Qko0NOiZpEx8n2UypdefQtL4yFdB3TpwLp0M-ZRIPFyzP7y_bqzTAOHA3BMK2yspR5jKXEVL0isHqySkn8BC1dkGngOaItfF4dGjNE8IRHRGuCFidMVdF6IGmtlWuq3FBN8/s320/Screenshot%202025-08-21%20at%205.57.38%E2%80%AFPM.png"/></a></div>
 
-As for me, I look forward to another long haul road trip in the future, maybe US 95 or US 101, or possibly reacquainting myself with US 6 which I drove in 2006 from Bishop to Cape Cod, Massachusetts. Regardless of where we end up going, though, this time we won't be taking the SX-64 with us &mdash; my wife has insisted on getting her seat back.
+As for me, I look forward to another long haul road trip in the future, maybe US 95 or US 101, or possibly reacquainting myself with US 6 which I drove in 2006 from Bishop to Cape Cod, Massachusetts. Regardless of where we end up going, though, we won't be taking the SX-64 with us &mdash; my wife has insisted on getting her seat back.
       <address>
         <a href="https://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html">https://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html</a>
       </address>
