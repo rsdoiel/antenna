@@ -10,12 +10,12 @@ https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forecast for Santa Clari
 #https://signalscv.com/feed/ "~The Signal"
 #https://sanfernandosun.com/feed/ "~the San Fernando Valley Sun/el Sol de Valle San Fernando"
 #https://laopinion.com/feed/ "~La Opinion (Los Angeles)"
-#https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
+https://desertgazette.com/blog/feed/ "~Desert Gazette Blog"
 
 #
 # Non-Profit news organizations
 #
-#https://chumash.gov/latest-news?format=rss "~Chumash News"
+https://chumash.gov/latest-news?format=rss "~Chumash News"
 https://transitinglosangeles.com/feed/ "~Transiting Los Angeles"
 https://laist.com/index.atom "~The LAist"
 
@@ -37,10 +37,11 @@ https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
 
 
 # May expect known browser agent string
+https://www.vandenberg.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=120&isdashboardselected=0&max=20&Category=5303 "~Vandenberg Base News"
+
 #https://www.vandenberg.spaceforce.mil/rss/ "~Vandenberg Base News"
-#https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
-##HTTPs://www.rand.org/blog.xml  "~RAND blog"
-##https://www.rand.org/news/press.xml "~RAND press releases"
+https://feeds.libsyn.com/131994/feed "RSS for https://www.rand.org/pubs/podcasts/policy-minded.html "~RAND Podcast, Policy Minded"
+https://www.rand.org/news/press.xml "~RAND press releases"
 
 #
 # Local Government
