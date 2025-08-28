@@ -4,7 +4,7 @@ title: Implementation
 
 # Antenna
 
-Antenna is software for rendering a Person News website. It demonstrates aggregating news content via web feeds (example RSS, Atom and JSON feeds) for personal use. Antenna is software that implements a static website [LinkBlog](https://en.wikipedia.org/wiki/Linklog). I use it to read the web content I follow. Antenna demonstrates that aggregating news can be done by an individual with a little effort and a few tools. No one really needs to rely on large internet companies to be informed or to keep up to date. The resulting website can be hosted locally on your computer or on a static website hosting service (example GitHub, GitLab, BitBucket).
+Antenna is software for rendering a Personal News website. It demonstrates aggregating news content via web feeds (example RSS, Atom and JSON feeds) for personal use. Antenna is software that implements a static website [LinkBlog](https://en.wikipedia.org/wiki/Linklog). I use it to read the web content I follow. Antenna demonstrates that aggregating news can be done by an individual with a little effort and a few tools. No one really needs to rely on large internet companies to be informed or to keep up to date. The resulting website can be hosted locally on your computer or on a static website hosting service (example GitHub, GitLab, BitBucket).
 
 ## Tools to build this aggregation
 

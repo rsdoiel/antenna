@@ -26,7 +26,6 @@ Collection                                          Description of Posts        
 ---------------------------------                   --------------------------------------------------------------     --------------------------------
 [Retro Computing](retro_computing.html)             Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 [Going Electric](going_electric.html)               Going Electric                                                     [going_electric.txt](going_electric.txt)
-[Motorcycles](motorcycles.html)                     Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
 [Home, Garden & Urban Farm](home.html)              Home, Garden & Urban blogs and news                                [home.txt](home.txt)
 [Good Eats, Healthy Eats](food.html)                Healthy Eats, Good Eats                                            [food.txt](foot.txt)
 [Libraries](libraries.html)                         Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
