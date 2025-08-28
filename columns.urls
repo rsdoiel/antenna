@@ -1,15 +1,12 @@
 #
 # Columns is a feed list of things I almost always send to Pocket to read
 #
-https://bsky.app/profile/did:plc:42n7zwgawer2whfwg3igqwrd/rss "~Ryan Gantz Bluesky feed"
-##https://billmoyers.com/feed/ "~Bill Moyer's website" # He died in 2025
 https://steady.substack.com/feed "~Dan Rather's Steady"
 https://memex.naughtons.org/feed/ "~John Naughton's online diary"
 https://christianheilmann.com/feed/ "~Chris Heilmann's blog"
 http://doc.blog/rss.xml "~Doc Searls' doc.blog"
 https://blog.dshr.org/feeds/posts/default?alt=rss "~David Rosenthal's blog"
 https://doc.searls.com/feed/ "~Doc Searls (at Harvard), New Old Blog"
-https://medium.com/feed/@dsearls "~Doc Searls on Medium"
 https://economicsfromthetopdown.com/feed/ "~Economics from the Top-Down"
 https://jvns.ca/atom.xml "~Julia Evans blog"
 https://liam-on-linux.dreamwidth.org/data/rss "~Liam on Linux"
@@ -42,7 +39,6 @@ https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 https://shadycharacters.co.uk/feed/ "~Shady Characters blog"
 https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 https://tirania.org/blog/miguel.rss2 "~Miguel de Icaza's blog"
-https://mastodon.social/@Migueldeicaza.rss "~Miguel de Icaza Mastondon feed"
 #
 # People Blogs, from news.txt, evaluate and prune
 #

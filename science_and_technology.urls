@@ -15,3 +15,9 @@ https://magazine.caltech.edu/index?format=rss "~Caltech Magazine"
 # Open Source Projects
 #
 https://servo.org/blog/feed.xml "~Servo blog"
+
+#
+# Hardware companies
+#
+https://blog.system76.com/rss.xml "~System 76 Blog"
+https://puri.sm/feed/ "~Purism News"

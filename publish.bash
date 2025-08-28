@@ -18,15 +18,14 @@ else
     # Switching to publishing branch, "gh-pages"
     echo "Changing branchs from $WORKING_BRANCH to gh-pages";
     git checkout gh-pages
-    echo "Merging changes from origin gh-pages"
-    git pull origin gh-pages
-    git commit -am "merging origin gh-pages"
+    git stash
     echo "Pulling changes from $WORKING_BRANCH info gh-pages"
     git pull origin "$WORKING_BRANCH"
     echo "Merging changes from $WORKING_BRANCH"
     git commit -am "merging $WORKING_BRANCH with gh-pages"
     echo "Pushing changes up and publishing"
     git push origin gh-pages
+    git stash clear
 
     # Switching back to working branch
     echo "Changing back to your working branch $WORKING_BRANCH"
