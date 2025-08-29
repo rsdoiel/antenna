@@ -3,6 +3,7 @@
 
 WORKING_BRANCH=$(git branch | grep '* ' | cut -d \  -f 2)
 if [ "$WORKING_BRANCH" = "gh-pages" ]; then
+    ./website.bash
     git commit -am "publishing to gh-pages branch"
     git push origin gh-pages
 else
@@ -24,6 +25,7 @@ else
     echo "Merging changes from $WORKING_BRANCH"
     git commit -am "merging $WORKING_BRANCH with gh-pages"
     echo "Pushing changes up and publishing"
+    ./website.bash
     git push origin gh-pages
     git stash clear
 
