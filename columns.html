@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-08-29T16:07:44-07:00">
+  <meta name="date" content="2025-08-30T06:07:53-07:00">
 </head>
 <body>
   <header>
@@ -38,6 +38,193 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-08-30T12:00:00Z" data-link="https://www.uninformativ.de/blog/postings/2025-08-30/0/POSTING-en.html">
+      <h1>
+                Writing letters with <code>groff</code> and an old printer
+            </h1>
+
+(date: 2025-08-30, updated: 2025-08-30, from: <a href="https://www.uninformativ.de/blog/postings/2025-08-30/0/POSTING-en.html">Uninformative blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://www.uninformativ.de/blog/postings/2025-08-30/0/POSTING-en.html">https://www.uninformativ.de/blog/postings/2025-08-30/0/POSTING-en.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T11:54:03Z" data-link="http://scripting.com/2025/08/27/143916.html">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-30, from: <a href="http://scripting.com/2025/08/27/143916.html">Dave's blog</a>)
+      <p>
+      <p>Scripting News: Proposal for a political sci fi sitcom.</p>
+      <address>
+        <a href="http://scripting.com/2025/08/27/143916.html">http://scripting.com/2025/08/27/143916.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T10:48:03Z" data-link="https://www.thisdaysportion.com/posts/contra-analytics/">
+      <h1>You do not need “analytics” for your blog because you are neither a military surveillance unit nor a commodity trading company – This day’s portion</h1>
+
+(date: 2025-08-30, from: <a href="https://www.thisdaysportion.com/posts/contra-analytics/">Jeremy Keith Blog</a>)
+      <p>
+      
+<p>🎯</p>
+
+<p><a href="https://adactio.com/links/22101">adactio.com/links/22101</a></p>
+
+      <address>
+        <a href="https://www.thisdaysportion.com/posts/contra-analytics/">https://www.thisdaysportion.com/posts/contra-analytics/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T10:41:08Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/30/programmers_watch_your_weight/">
+      <h1>Programmers: you have to watch your weight, too</h1>
+
+(date: 2025-08-30, updated: 2025-08-30, from: <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/30/programmers_watch_your_weight/">Liam Proven's articles at the Register</a>)
+      <p>
+      <h4><span class="label">opinion</span> We are drowning in code, but at least some folks are swimming</h4>
+      <p>To fight the enshittification of software, the first step is to pinpoint why and how it happens. Some observers are trying to do that.</p>
+      <address>
+        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/30/programmers_watch_your_weight/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/30/programmers_watch_your_weight/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T10:30:29Z" data-link="https://adactio.com/journal/22100">
+      <h1>The Invisibles</h1>
+
+(date: 2025-08-30, from: <a href="https://adactio.com/journal/22100">Jeremy Keith Blog</a>)
+      <p>
+      
+<p>When I was talking about <a href="https://adactio.com/journal/22099">monitoring web performance yesterday</a>, I linked to the <a href="https://treo.sh/sitespeed/thesession.org">CrUX data for The Session</a>.</p>
+
+<p>CrUX is a contraction of Chrome User Experience Report. CrUX just sounds better than CEAR.</p>
+
+<p>It’s data gathered from actual Chrome users worldwide. It can be handy as part of a balanced performance-monitoring diet, but it’s always worth remembering that it only shows a subset of your users; those on Chrome.</p>
+
+<p>The actual CrUX data is imprisoned in some hellish Google interface so some kindly people have put more humane interfaces on it. I like <a href="https://calibreapp.com/tools/core-web-vitals-test/thesession.org">Calibre’s CrUX tool</a> as well as <a href="https://treo.sh/sitespeed/thesession.org">Treo’s</a>.</p>
+
+<p>What’s nice is that you can look at the numbers for any reasonably popular website, not just your own. Lest I get too smug about the performance metrics for <a href="https://thesession.org/">The Session</a>, I can compare them to <a href="https://treo.sh/sitespeed/en.wikipedia.org">the numbers for WikiPedia</a> or <a href="https://treo.sh/sitespeed/www.bbc.co.uk">the BBC</a>. Both of those sites are made by people who prioritise speed, and it shows.</p>
+
+<p>If you scroll down to the numbers on navigation types, you’ll see something interesting. Across the board, whether it’s The Session, Wikipedia, or the BBC, the BFcache—back/forward cache—is used around 16% to 17% of the time. This is when users use the back button (or forward button).</p>
+
+<p>Unless you do something to stop them, browsers will make sure that those navigations are super speedy. You might inadvertently be <a href="https://web.dev/articles/bfcache">sabotaging the BFcache</a> if you’re sending a <code>Cache-Control: no-store</code> header or if you’re using an <code>unload</code> event handler in JavaScript.</p>
+
+<p>I guess it’s unsurprising the BFcache numbers are relatively consistent across three different websites. People are people, whatever website they’re browsing.</p>
+
+<ul>
+<li><a href="https://treo.sh/sitespeed/thesession.org">The Session</a></li>
+<li><a href="https://treo.sh/sitespeed/en.wikipedia.org">WikiPedia</a></li>
+<li><a href="https://treo.sh/sitespeed/www.bbc.co.uk">The BBC</a></li>
+</ul>
+
+<p>Where it gets interesting is in the differences. Take a look at pre-rendering. It’s 4% for the BBC and just 0.4% for Wikipedia. But on The Session it’s a whopping 35%!</p>
+
+<p>That’s because I’m using <a href="https://adactio.com/journal/21139">speculation rules</a>. They’re quite straightforward to implement and they pair beautifully with full-page view transitions for a slick, speedy user experience.</p>
+
+<p>It doesn’t look like WikiPedia or the BBC are using speculation rules at all, which kind of surprises me.</p>
+
+<p>Then again, because they’re a hidden technology I can understand why they’d slip through the cracks.</p>
+
+<p>On any web project, I think it’s worth having a checklist of The Invisibles—things that aren’t displayed directly in the browser, but that can make a big difference to the user experience.</p>
+
+<p>Some examples:</p>
+
+<ul>
+<li>A <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Manifest">web application manifest</a> JSON file to help people install your website.</li>
+<li>A <a href="https://goingoffline.adactio.com/">service worker</a>, even if it’s just to cache static assets.</li>
+<li>Open Graph <a href="https://metatags.io/"><code>meta</code> elements</a> in the <code>head</code> of documents so they “unroll” nicely when the link is shared.</li>
+<li>An appropriate <a href="https://content-security-policy.com/">content security policy</a> header.</li>
+<li>A <a href="https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API"><code>Speculation-Rules</code></a> header that points to a JSON file.</li>
+<li>An <a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/OpenSearch">OpenSearch XML file</a> if your site has search functionality.</li>
+<li>An icon, or as us olds call it, a favicon.</li>
+<li>A <code>lang</code> attribute on the <code>body</code> of every page.</li>
+</ul>
+
+<p>If you’ve got a checklist like that in place, you can at least ask “Whose job is this?” All too often, these things are missing because there’s no clarity on whose responsible for them. They’re sorta back-end and sorta front-end.</p>
+
+
+      <address>
+        <a href="https://adactio.com/journal/22100">https://adactio.com/journal/22100</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T10:08:46Z" data-link="https://mastodon.social/@Vivaldi@vivaldi.net/115106280348254686">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-30, from: <a href="https://mastodon.social/@Vivaldi@vivaldi.net/115106280348254686">Dave's blog</a>)
+      <p>
+      <p>I like what Vivaldi says about the web. It makes me want to do more to re-stock the web with interesting, inspiring HUMAN ideas. Maybe we could make our blogging software work better with their browser. All for the web, for humanity.</p>
+      <address>
+        <a href="https://mastodon.social/@Vivaldi@vivaldi.net/115106280348254686">https://mastodon.social/@Vivaldi@vivaldi.net/115106280348254686</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T09:15:56Z" data-link="https://www.science.org/content/article/trust-elections-rises-after-inoculations-meant-preempt-false-fraud-claims">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-30, from: <a href="https://www.science.org/content/article/trust-elections-rises-after-inoculations-meant-preempt-false-fraud-claims">Dave's blog</a>)
+      <p>
+      <p>Trust in elections rises after ‘inoculations’ meant to preempt false fraud claims.</p>
+      <address>
+        <a href="https://www.science.org/content/article/trust-elections-rises-after-inoculations-meant-preempt-false-fraud-claims">https://www.science.org/content/article/trust-elections-rises-after-inoculations-meant-preempt-false-fraud-claims</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T04:45:19Z" data-link="https://heathercoxrichardson.substack.com/p/august-29-2025">
+      <h1>August 29, 2025</h1>
+
+(date: 2025-08-30, from: <a href="https://heathercoxrichardson.substack.com/p/august-29-2025">Heather Cox Richardson blog</a>)
+      <p>
+      Chaos continues at the Centers for Disease Control and Prevention (CDC), where President Donald J.
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/august-29-2025">https://heathercoxrichardson.substack.com/p/august-29-2025</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T03:44:41Z" data-link="https://tracydurnell.com/2025/08/29/weeknotes-aug-23-29-2025/">
+      <h1>Weeknotes: Aug. 23-29, 2025</h1>
+
+(date: 2025-08-30, from: <a href="https://tracydurnell.com/2025/08/29/weeknotes-aug-23-29-2025/">Tracy Durnell Blog</a>)
+      <p>
+      Win of the week: sharpened my big chef&#8217;s knife &#8212; took an hour and a half with the 400 grit to get the chips out, and another 45 minutes to put an edge on it with the 1000 grit &#8212; now I want to carry this knife around on a pillow so I never have [&#8230;]
+      <address>
+        <a href="https://tracydurnell.com/2025/08/29/weeknotes-aug-23-29-2025/">https://tracydurnell.com/2025/08/29/weeknotes-aug-23-29-2025/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T00:40:00Z" data-link="http://jirka.1-2-8.net/20250830-0240_August">
+      <h1>August</h1>
+
+(date: 2025-08-30, from: <a href="http://jirka.1-2-8.net/20250830-0240_August">Jirka's blog</a>)
+      <p>
+      Not much  computing in August.  I decided  to have ACTUAL  holidays. In last (many) years it was rather different. Few one-day trips but mostly being at work (or  working from home) all the time.  Not as actively as normally but working.
+      <address>
+        <a href="http://jirka.1-2-8.net/20250830-0240_August">http://jirka.1-2-8.net/20250830-0240_August</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-30T00:12:27Z" data-link="https://m.slashdot.org/story/446148">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-30, from: <a href="https://m.slashdot.org/story/446148">Dave's blog</a>)
+      <p>
+      <p>Vivaldi Browser Doubles Down On Gen AI Ban.</p>
+      <address>
+        <a href="https://m.slashdot.org/story/446148">https://m.slashdot.org/story/446148</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-29T23:18:21Z" data-link="https://inessential.com/2025/08/28/easy-app-writing.html">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-08-29, from: <a href="https://inessential.com/2025/08/28/easy-app-writing.html">Dave's blog</a>)
+      <p>
+      <p>Brent who worked at UserLand where we developed Frontier explains why it was so much faster for app developers than anything we’re using now. It’s why I want a Linux version so the work we did then can live and be built on.</p>
+      <address>
+        <a href="https://inessential.com/2025/08/28/easy-app-writing.html">https://inessential.com/2025/08/28/easy-app-writing.html</a>
+      </address>
+    </article>
 
     <article data-published="2025-08-29T21:06:40Z" data-link="https://wapo.st/4g02pGo">
       <h1>@Dave's blog</h1>
@@ -227,17 +414,6 @@
       <img class="imgRightMargin" src="https://imgs.scripting.com/2025/08/29/matt.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Thanks to <a href="https://ma.tt/2025/08/think-different/">Matt Mullenweg</a> for the boost to <a href="http://scripting.com/2025/08/28/140604.html">yesterday's post</a>. Glad to finally get the whole plan down in one place. Each piece of the puzzle took a while to come together in concept and then in implementation. I'm still working on all levels, last week I added a feature to <a href="https://feedland.com/">FeedLand</a> that makes it fit in better with the (new) timeline and WordPress (20+ years). It takes a while to change your thinking from WordPress being just another blogging CMS, to being an open platform that hosts <a href="http://scripting.com/2025/03/13/132830.html">web writing</a> in a way that's open to competition. We're on the same page. It's still a competitive environment, but there are rules to competing, you don't cash in the interop that took patience and respect to develop and maintain. That's been the pity of the open web, lots of opportunists who are willing to stink up the ecosystem to squeeze a few more bucks for themselves from things <i>they didn't create.</i> Let your competitors in, and the users, if they have their heads screwed on right, will respect you for it. And even if they don't, still do it, because it's the right thing to do. That's why, at my age, just turned 70 earlier this year, I'm in a position to help revive the web, because I've made enough money, now it's time to make sure the gift that I got from the open web is available to future generations, no matter how greedy and selfish the <a href="https://daveverse.org/2025/08/29/the-wealthy-and-dominant-giants-of-tech/">giants of tech</a> are. People may question Matt, and that's cool, as I said <a href="http://scripting.com/2025/08/28/140604.html#a142100">yesterday</a>, but also remember he's stood up for your freedom, and that's also important.
       <address>
         <a href="http://scripting.com/2025/08/29.html#a141315">http://scripting.com/2025/08/29.html#a141315</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-29T13:52:42Z" data-link="http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-29, from: <a href="http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress">Dave's blog</a>)
-      <p>
-      <p>Yesterday I decided it was time to say what I'm doing for the web with WordPress. No more character limits, you can add a link where one belongs, simple styling, editing, and more.</p>
-      <address>
-        <a href="http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress">http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress</a>
       </address>
     </article>
 
@@ -662,6 +838,39 @@ often followed by a chorus of replies echoing the endorsement.
       </address>
     </article>
 
+    <article data-published="2025-08-28T14:06:04Z" data-link="http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress">
+      <h1>Think Different about WordPress</h1>
+
+(date: 2025-08-28, from: <a href="http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress">Dave Winer's Scripting News</a>)
+      <p>
+      <p>Steve Jobs asked you to <a href="https://en.wikipedia.org/wiki/Think_different">think differently</a> about computers. </p>
+<p>I'm going to ask <a href="https://www.youtube.com/watch?v=tjgtLSHhTPg">you</a> to think differently about WordPress. </p>
+<p>I'm not going to make you wait to hear what it is. I want you to see WordPress as comparable to Bluesky or Mastodon. </p>
+<p>I've done this before -- asked people to think differently about things, like public writing, with blogging. In the 90s I was running around the <a href="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Vallley</a> trying to explain to everyone that blogging was going to change everything, all I got was blank stares from people who said "we don't do that." They of course eventually did do it. But at first the ideas seemed foreign, unreasonable.</p>
+<p>I did it with <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> and podcasting. We needed to seed these things, get the ideas in front of people with actual products, with real utility for users. And eventually they came around. </p>
+<p>Now I'm going to ask you to think differently about WordPress, something you thought you already fully understood. </p>
+<p>Internally, the software, WordPress, Mastodon, Bluesky, do a lot of the same things. But because WordPress is so long-lived relative to the other two, it's more complete, scaled, it federates easily, lots of people do it. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/08/28/thinkDifferentBillboard.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It has <a href="https://textcasting.org/">important features</a> the other two don't, although some Mastodon instances are more relaxed about character limits, linking, titles on posts and editing. These are important features. But because the <a href="https://mastodon.social/home">mother ship</a> doesn't support all of them, it's hard to represent it without the limits. This can be fixed easily, btw. Just being analytic about it. I like Mastodon and ActivityPub because they provide interop, and that's the name of the game. Make your product but don't lock users in. Interop is your way out if you need to get out. ;-)</p>
+<p>WordPress has excellent support for <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>, esp using a little-known feature called <a href="https://this.how/rssCloud/">rssCloud</a>. It enables realtime notification of new or changed feed items. It's been around since 2009, and like all of WordPress, it's thorougly debugged and scaled. I use it in <a href="https://feedland.com/">FeedLand</a> and <a href="https://wordland.social/">WordLand</a>. If you watch the blogroll on <a href="http://scripting.com/">scripting.com</a> on the web, you'll see it in action. Or if you read <a href="https://news.scripting.com/">news.scripting.com</a>, leave it running and watch the new items show up in realtime without you having to do anything. That's rssCloud. </p>
+<p>WordPress has a deep and powerful <a href="https://github.com/Automattic/wpcom.js/tree/master/docs">API</a>, well designed, documented, and they don't break it. Developers who know me know that the last part is the most important. A <a href="http://scripting.com/davenet/1995/08/22/whatisaplatform.html">platform</a> must remain unchanging. That means you have to put in a lot of thought up front, and then live with your mistakes, providing <a href="https://daytona.scripting.com/search?q=continuity">continuity</a>.</p>
+<p>The API has barely been used by developers. Huge amount of potential there. </p>
+<p>It's open source, of course. </p>
+<p>It has a large support industry built around it, you can get a lot of help in setting up and running an instance. </p>
+<p>And I, Dave Winer, am part of this now, have been for a couple of years, working relatively quietly, building out what I think WordPress needs to get started in this new direction. I am going to help bootstrap a great developer community around all these capabilities. This is something people didn't count on. I have an incredible track record of establishing popular APIs and developer communities. I know how to do this, even wrote a <a href="https://this.how/standards/">guide</a> to how to do it, which apparently has helped other developers create and work on open platforms. </p>
+<p>I've done three things that will help the bootstrap. </p>
+<ul>
+<li><b>Apps</b>. Like MacWrite and MacPaint, someone has to go first, to share basic ideas about how the user interface will work.</li>
+<li>A <b>storage service</b> where the user owns their writing, so it can be edited by any app they give permission to. This means that app developers don't have to be resellers of storage. This is the biggest economic limiting factor to a large innovative, truly entrepreneurial developer community. Every other network arrangement requires you to raise money or be fearful of having huge support and monetary overhead if you attract too many users. When the Mac market booted up it had none of these limits, the users bought the hardware, we made the software. The web has <i>never</i> had the equivalent runtime environment. I'm going to run the server for you to get the bootstrap going. My treat. Until we can get help from infrastructure owners to host the service. And if you want to host it for yourself, it's open source, so you will be able to, without anyone's permission.</li>
+<li><b>Content</b>. We won't have to wait for new writers to start using my service. Thanks to RSS there will be plenty of feeds in a form that is surprisingly like the data that flows through the other systems. We will carry writing from Substack and Ghost, for example. </li>
+</ul>
+<p>Finally, in the WordPress world I have to tell you how I feel about the 800-pound gorilla, Automattic. Whatever you think -- key point -- <i>they didn't lock you in.</i> The community, which I'm just getting to know is very circumspect about everything and that's good and right. It's based on the reality that you never know when or how you're going to lose your freedom, so you always have to watch out. I have looked at this from the inside, from the API and the history, and I've gotten to know a few people at the company, and I trust certain things about them. I don't think they'll necessarily listen to you, or me -- and they can get in the way, but I'm willing to take a chance that they won't.  They've kept their open source promise and they run a stable platform. Linux is that way, it offers that kind of stability, and so does WordPress. Much of the world, myself included, haven't paid much attention to WordPress and we have only used a small fraction of its potential. I'm going to try to build on and unlock for other developers, a whole new side of the platform.</p>
+<p>One more thing you should know -- I'm not in it for the money. I just want to help the web heal from all the abuses  it has taken over the years. They took paradise and blew big holes in it that users couldn't find a way out of. They undermined open formats and protocols. They lied to the users, all the time, over and over. Now I don't object to making money, but I'm putting it out there, you can compete with me, I want you to compete with me, as long as you don't try to cut off the interop. And I'm not naive, believe me, I expect that will happen. </p>
+
+      <address>
+        <a href="http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress">http://scripting.com/2025/08/28/140604.html?title=thinkDifferentAboutWordpress</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-28T14:02:19Z" data-link="http://scripting.com/2025/08/28.html#a140219">
       <h1>@Dave Winer's Scripting News</h1>
 
@@ -1058,17 +1267,6 @@ often followed by a chorus of replies echoing the endorsement.
       
       <address>
         <a href="https://news.bloomberglaw.com/ip-law/masimo-sues-us-customs-over-apple-restoring-watchs-oxygen-tool">https://news.bloomberglaw.com/ip-law/masimo-sues-us-customs-over-apple-restoring-watchs-oxygen-tool</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-27T15:06:37Z" data-link="http://scripting.com/2025/08/27/143916.html">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-27, from: <a href="http://scripting.com/2025/08/27/143916.html">Dave's blog</a>)
-      <p>
-      <p>Scripting News: Plot for a political sci fi movie.</p>
-      <address>
-        <a href="http://scripting.com/2025/08/27/143916.html">http://scripting.com/2025/08/27/143916.html</a>
       </address>
     </article>
 
@@ -4625,6 +4823,17 @@ I tried <code>sudo apt upgrade</code> and I guess something didn&rsquo;t work (s
       </address>
     </article>
 
+    <article data-published="2025-08-20T01:46:59Z" data-link="https://kieranhealy.org/blog/archives/2025/06/28/american/">
+      <h1>‘American’</h1>
+
+(date: 2025-08-20, updated: 2025-08-20, from: <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">Daring Fireball</a>)
+      <p>
+      
+      <address>
+        <a href="https://kieranhealy.org/blog/archives/2025/06/28/american/">https://kieranhealy.org/blog/archives/2025/06/28/american/</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-20T01:35:31Z" data-link="https://mastodon.social/@Migueldeicaza/115058522951708728">
       <h1>@Miguel de Icaza Mastondon feed</h1>
 
@@ -6516,377 +6725,6 @@ ip6tables --flush f2b-butlerian-jihad-week
       
       <address>
         <a href="https://www.axios.com/2025/08/12/trump-bls-ej-antoni-economists">https://www.axios.com/2025/08/12/trump-bls-ej-antoni-economists</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T23:50:49Z" data-link="https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch">
-      <h1>Threads Now Has DMs, But They’re Not Encrypted and, Contrary to Reports, Not Yet Available on the Web</h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch">https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T21:42:41Z" data-link="https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall">
-      <h1>Keep Calm and Delete Your Old Emails to Conserve Water</h1>
-
-(date: 2025-08-15, updated: 2025-08-27, from: <a href="https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall">https://www.gov.uk/government/news/national-drought-group-meets-to-address-nationally-significant-water-shortfall</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T21:30:40Z" data-link="https://tracydurnell.com/2025/08/15/planning-for-a-portland-trip/">
-      <h1>Planning for a Portland trip</h1>
-
-(date: 2025-08-15, from: <a href="https://tracydurnell.com/2025/08/15/planning-for-a-portland-trip/">Tracy Durnell Blog</a>)
-      <p>
-      We&#8217;re planning to ride Amtrak down to Portland for my 40th(!) birthday in October, and do a car-free long weekend. I haven&#8217;t been to Portland since 2003 and I don&#8217;t think my husband&#8217;s ever been! (Open to suggestions! We hate tourist traps and like gardens / parks, outsider art, food with veggie options, science stuff [&#8230;]
-      <address>
-        <a href="https://tracydurnell.com/2025/08/15/planning-for-a-portland-trip/">https://tracydurnell.com/2025/08/15/planning-for-a-portland-trip/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T21:07:23Z" data-link="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html">
-      <h1>Friday Squid Blogging: Squid-Shaped UFO Spotted Over Texas</h1>
-
-(date: 2025-08-15, updated: 2025-08-11, from: <a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html">Bruce Schneier blog</a>)
-      <p>
-      <p><a href="https://www.hindustantimes.com/world-news/us-news/dallas-texas-viral-video-of-squid-shaped-ufo-sparks-debate-the-government-is-101754207106756.html">Here&#8217;s</a> the story. The <a href="https://x.com/DramaAlert/status/1951719327025295456">commenters</a> on X (formerly Twitter) are unimpressed.</p>
-<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
-<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
-
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html">https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T20:05:18Z" data-link="https://prisonjournalismproject.org/2024/07/11/cancer-in-prison/?utm_campaign=PJP-Bluesky">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-15, from: <a href="https://prisonjournalismproject.org/2024/07/11/cancer-in-prison/?utm_campaign=PJP-Bluesky">Dave's blog</a>)
-      <p>
-      <p>My Prison Is Full of Cancer Patients.</p>
-      <address>
-        <a href="https://prisonjournalismproject.org/2024/07/11/cancer-in-prison/?utm_campaign=PJP-Bluesky">https://prisonjournalismproject.org/2024/07/11/cancer-in-prison/?utm_campaign=PJP-Bluesky</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T19:38:24Z" data-link="https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-15, from: <a href="https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/">Dave's blog</a>)
-      <p>
-      <p>New federal checkpoints in D.C. likely violate the Fourth Amendment.</p>
-      <address>
-        <a href="https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/">https://reason.com/2025/08/15/d-c-residents-are-right-to-protest-unconstitutional-police-roadblocks/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T19:00:02Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/sad_end_of_bcachefs/">
-      <h1>Linux is about to lose a feature – over a personality clash</h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/sad_end_of_bcachefs/">Liam Proven's articles at the Register</a>)
-      <p>
-      <h4><span class="label">comment</span> A large and unfortunate mistake in the kernel development management process is underway</h4>
-      <p>The first release candidate of Linux 6.17 is out, without any bcachefs changes… but not for any technical reasons. This is bad.</p>
-      <address>
-        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/sad_end_of_bcachefs/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/sad_end_of_bcachefs/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T19:00:00Z" data-link="https://blog.jim-nielsen.com/2025/more-context-bro/">
-      <h1>Just a Little More Context Bro, I Promise, and It’ll Fix Everything</h1>
-
-(date: 2025-08-15, from: <a href="https://blog.jim-nielsen.com/2025/more-context-bro/">Jim Nielsen blog</a>)
-      <p>
-      <p>Conrad Irwin has an article on the Zed blog <a href="https://zed.dev/blog/why-llms-cant-build-software" >“Why LLMs Can&#39;t Really Build Software”</a>. He says it boils down to:</p>
-<blockquote>
-<p>the distinguishing factor of effective engineers is their ability to build and maintain clear mental models</p>
-</blockquote>
-<p>We do this by:</p>
-<ul>
-<li>Building a mental model of what <em>you want</em> to do</li>
-<li>Building a mental model of what the <em>code does</em></li>
-<li>Reducing the difference between the two</li>
-</ul>
-<p>It’s kind of an interesting observation about how we (as humans)  problem solve vs. how we use LLMs to problem solve:</p>
-<ul>
-<li>With LLMs, you stuff more and more information into context until it (hopefully) has enough to generate a solution.</li>
-<li>With your brain, you tweak, revise, or simplify your mental model more and more until the solution presents itself.</li>
-</ul>
-<p>One adds information — complexity you might even say — to solve a problem. The other eliminates it.</p>
-<p>You know what that sort of makes me think of? NPM driven development.</p>
-<p>Solving problems with LLMs is like solving front-end problems with NPM: the “solution” comes through installing more and more things — adding more and more context, i.e. more and more packages.</p>
-<ul>
-<li>LLM: Problem? Add more context. </li>
-<li>NPM: Problem? There’s a package for that.</li>
-</ul>
-<p>Contrast that with a solution that comes through simplification. You don’t add more context. You simplify your mental model so you need less to solve a problem — if you solve it at all, perhaps you eliminate the problem entirely!</p>
-<p>Rather than install another package to fix what ails you, you simplify your mental model which often eliminates the problem you had in the first place; thus eliminating the need to solve any problem at all, or to add any additional context or complexity (or dependency).</p>
-<p>As I’m typing this, I’m thinking of that image of the evolution of the Raptor engine, where it evolved in simplicity:</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/more-context-bro-rocket-1.jpg" width="540" height="339" alt="Photograph of three versions of the raptor engine, each one getting progressively simplified in mechanical parts." />
-
-</p><p>This stands in contrast to my working with LLMs, which often wants more and more context from me to get to a generative solution:</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/more-context-bro-rocket-2.jpg" width="540" height="339" alt="Photograph of three versions of the raptor engine, but the image is reversed showing the engine get progressively complicated in mechanical parts over time. Each engine represents an LLM prompt." />
-
-</p><p>I know, I know. There’s probably a false equivalence here. This entire post started as <a href="https://notes.jim-nielsen.com" >a note</a> and I just kept going. This post itself needs further thought and simplification. But that’ll have to come in a subsequent post, otherwise this never gets published lol.</p>
-
-    <hr />
-    
-
-    <p>
-      Reply via:
-      
-
-      <a
-        href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/more-context-bro/"
-        >Email</a
-      >
-      · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-
-      <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-    </p>
-      <address>
-        <a href="https://blog.jim-nielsen.com/2025/more-context-bro/">https://blog.jim-nielsen.com/2025/more-context-bro/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T18:35:25Z" data-link="https://alexschroeder.ch/view/2025-08-15-fdp">
-      <h1>2025-08-15 The liberal democrats in Switzerland</h1>
-
-(date: 2025-08-15, from: <a href="https://alexschroeder.ch/view/2025-08-15-fdp">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-08-15-the-liberal-democrats-in-switzerland">2025-08-15 The liberal democrats in Switzerland</h1>
-
-<p>One of the founding parties of the current state are the liberal democrats. My limited understanding of the situation is that they were all about liberty – against the ancient régime (the semi-feudal system before Napoleon and the French revolution helped us get rid of them) and against the church. My wife still remembers the small-scale feuding betweens catholics and protestants. My father in law still remembers that uneasy peace: going to school as a protestant in a mostly catholic village. His father was very much engaged in that struggle against the powers of the church.</p>
-
-<p>These days, those battles are no longer that important. And so the liberal democrats turned to economic freedom. They turned into the part of bankers and industrialist. They rode that neoliberal devil. And now as it is faltering, a new change is afoot. Sadly, when they last looked for leadership, the only candidate who stood up was a xenophobe. But we already have a party of racists! The Swiss people&rsquo;s party. These people were originally more of a farmer&rsquo;s party but under the influence of billionaire Blocher they also rode that neoliberal horse. Down with taxes! Up with the banks! Down with regulation! Down with the European Union! Yeah, Blocher was a good demagogue.</p>
-
-<p>The liberal democrats liked what they heard about taxes and didn&rsquo;t mind kicking out foreigners and so they worked together. But you know how it is: When in doubt, people prefer the clearer message. And on the non-demagoguery front, there was a strange thing that happened with the Green party. Like in many places, they had a left wing and a right wing. And their differences became so large, that the split! The Greens are now &ldquo;melon green&rdquo;: green on the outside and red on the inside. They work well with the socialists. The right wingers were the green liberals. The rational voice calling for a lowering of taxes.</p>
-
-<p>A while ago there was a session of the liberal democrats where one of the delegates present was muttering against some decisions in favour of the environment. &ldquo;If we continue like this we might as well join the liberal greens!&rdquo;</p>
-
-<p>Ah, and that&rsquo;s the dilemma. Those who want less taxes and don&rsquo;t mind kicking foreigners around can join the Swiss people&rsquo;s party. Those who want less taxes and still save at least some of the planet can join the liberal greens.</p>
-
-<p>Naturally, one of the more famous members of the Anti-Vaccination party, whose star has not been rising in recent months, wants to join the liberal democrats again.</p>
-
-<p>That&rsquo;s how far this party has fallen.</p>
-
-<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a></p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-08-15-fdp">https://alexschroeder.ch/view/2025-08-15-fdp</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T17:47:05Z" data-link="https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-15, from: <a href="https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/">Dave's blog</a>)
-      <p>
-      <p>Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity.</p>
-      <address>
-        <a href="https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/">https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T17:41:56Z" data-link="https://fedify.dev/">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-15, from: <a href="https://fedify.dev/">Dave's blog</a>)
-      <p>
-      <p>Fedify is a good thing if it makes it easy to set up a sever that can interop with Mastodon.</p>
-      <address>
-        <a href="https://fedify.dev/">https://fedify.dev/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T17:32:45Z" data-link="http://scripting.com/2025/08/15.html#a173245">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-08-15, from: <a href="http://scripting.com/2025/08/15.html#a173245">Dave Winer's Scripting News</a>)
-      <p>
-      The big corner-turn is working. Here's a <a href="https://github.com/scripting/Scripting-News/issues/326">screen shot</a>.
-      <address>
-        <a href="http://scripting.com/2025/08/15.html#a173245">http://scripting.com/2025/08/15.html#a173245</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T16:50:27Z" data-link="https://doc.searls.com/2025/08/15/questions/">
-      <h1>Questions</h1>
-
-(date: 2025-08-15, from: <a href="https://doc.searls.com/2025/08/15/questions/">Doc Searls (at Harvard), New Old Blog</a>)
-      <p>
-      What does the Internet make of us? was hard to find until I found it. Now it&#8217;s easy to find. What did Google learn, and how did it learn it? The law professors to whom I made The Case for MyTerms two weeks ago seemed to buy it. What, if anything, will happen next? When I read The [&#8230;]
-      <address>
-        <a href="https://doc.searls.com/2025/08/15/questions/">https://doc.searls.com/2025/08/15/questions/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T15:11:59Z" data-link="http://scripting.com/2025/08/15.html#a151159">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-08-15, from: <a href="http://scripting.com/2025/08/15.html#a151159">Dave Winer's Scripting News</a>)
-      <p>
-      <img class="imgRightMargin" src="https://imgs.scripting.com/2025/08/15/highwireact.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I like documentaries about climbing Mt Everest, but I absolutely hate watching people climb <a href="https://en.wikipedia.org/wiki/El_Capitan">El Capitan</a>. Then I realized that sometimes in software I'm climbing a cliff that's too tall to climb in one session, so I have to carry a tent and backpack with food and water. I hate this kind of programming more than anything, because it comes from not having a high-level enough runtime to support me in big corner turns. Or not having invested enough time in creating a layer I can build on. Anyway I'm in the middle of one of those corner-turns now. Hell has not broken loose although at times it looks like it might have. I'm being sure not to create another mess that needs to be cleaned up in the future. Not stressful, but I'd rather be doing anything but this. :-)
-      <address>
-        <a href="http://scripting.com/2025/08/15.html#a151159">http://scripting.com/2025/08/15.html#a151159</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T14:30:15Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/asmi_13_debian_edition/">
-      <h1>Asmi Linux 13 Debian Edition debuts: Xfce desktop never looked so good</h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/asmi_13_debian_edition/">Liam Proven's articles at the Register</a>)
-      <p>
-      <h4>TeejeeTech takes Trixie, adds considerably more polish, yet comes in lighter</h4>
-      <p>Teejeetech turns its attention from Ubuntu to its progenitor. The result is a refined and attractive spin of Debian with Xfce.</p>
-      <address>
-        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/asmi_13_debian_edition/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/15/asmi_13_debian_edition/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T12:55:21Z" data-link="https://kottke.org/25/08/0047350-venus-williams-is-making-">
-      <h1> &#8220;Venus Williams is making history in her return to the U.S. Open... </h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://kottke.org/25/08/0047350-venus-williams-is-making-">Jason Kittke's blog</a>)
-      <p>
-      
-      <address>
-        <a href="https://kottke.org/25/08/0047350-venus-williams-is-making-">https://kottke.org/25/08/0047350-venus-williams-is-making-</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T11:56:26Z" data-link="https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-15, from: <a href="https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/">Dave's blog</a>)
-      <p>
-      <p>Kate Pierson Fell Hard for Moroccan Henna in 1970. She Hasn’t Looked Back.</p>
-      <address>
-        <a href="https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/">https://theoverlooknews.com/kate-pierson-fell-hard-for-moroccan-henna-in-1970-she-hasnt-looked-back/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T11:21:31Z" data-link="https://alexschroeder.ch/view/2025-08-12-influential-games">
-      <h1>2025-08-12 Influential games</h1>
-
-(date: 2025-08-15, from: <a href="https://alexschroeder.ch/view/2025-08-12-influential-games">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-08-12-influential-games">2025-08-12 Influential games</h1>
-
-<p><a class="account" href="https://dice.camp/@Ashigaru" title="@Ashigaru@dice.camp">@Ashigaru</a> mentioned how D&amp;D 3.0 was really important for him at the time and <a class="account" href="https://metalhead.club/@dereisenhofer" title="@dereisenhofer@metalhead.club">@dereisenhofer</a> mentioned him playing DSA (Das Schwarze Auge, i.e. The Dark Eye). And I thought about my gaming history.</p>
-
-<p>I moved from The Dark Eye 1st ed that I played as a kid and again as a 15-year old to AD&amp;D 1st ed when I was around 16 because a Canadian exchange student said it was the original and obviously it had to better. Some mere months later my group switched to the new AD&amp;D 2nd ed because obviously new had to be better. And then my interest waned.</p>
-
-<p>Years later, I got into M20 because of the blogs, and my players wanted to play the just released D&amp;D 3.5 because obviously new had to better. With the switch to D&amp;D 4 I put my foot down and went with Labyrinth Lord – and lost almost all my players. 🥺</p>
-
-<p>But I found new ones and kept on playing. So for me, D&amp;D 3.5 stands for those special years just before the OSR blogs took off, when I came back to the game.</p>
-
-<ul>
-<li><a href="2006-11-09_Nostalgia_for_Rolplaying_Games">2006-11-09 Nostalgia for Rolplaying Games</a>, where I wish to get back into gaming</li>
-<li><a href="2007-12-11_Looking_Back">2007-12-11 Looking Back</a> where I list all the Adventure Paths I still want to play</li>
-<li><a href="2010-06-27_Gaming_History">2010-06-27 Gaming History</a> is where I repeat myself, but in the past 🤪</li>
-</ul>
-
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a></p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-08-12-influential-games">https://alexschroeder.ch/view/2025-08-12-influential-games</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T11:07:51Z" data-link="https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html">
-      <h1>Trojans Embedded in .svg Files</h1>
-
-(date: 2025-08-15, updated: 2025-08-14, from: <a href="https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html">Bruce Schneier blog</a>)
-      <p>
-      <p>Porn sites are <a href="https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/">hiding code</a> in .svg files:</p>
-<blockquote><p>Unpacking the attack took work because much of the JavaScript in the .svg images was heavily obscured using a custom version of &#8220;JSFuck,&#8221; a technique that uses only a handful of character types to encode JavaScript into a camouflaged wall of text.</p>
-<p>Once decoded, the script causes the browser to download a chain of additional obfuscated JavaScript. The final payload, a known malicious script called Trojan.JS.Likejack, induces the browser to like a specified Facebook post as long as a user has their account open...</p></blockquote>
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html">https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T08:31:19Z" data-link="https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/">
-      <h1>We have Face with Tears of Joy audio book winners!</h1>
-
-(date: 2025-08-15, from: <a href="https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/">Shady Characters blog</a>)
-      <p>
-      <p>Congratulations to Mike Poteet, Red, Claire Little and Barbara Matton, winners of the <a href="https://shadycharacters.co.uk/2025/08/face-with-tears-of-joy-audiobook-giveaway/"><cite>Face with Tears of Joy</cite> audio book giveaway</a>! Their names were picked at random from the set of all entrants who replied to <a href="https://shadycharacters.co.uk/2025/06/win-a-copy-of-face-with-tears-of-joy/">the original post about the competition</a>.  Thank you all for taking part!</p><a class="more-link" href="https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/">Read more →</a>
-      <address>
-        <a href="https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/">https://shadycharacters.co.uk/2025/08/we-have-face-with-tears-of-joy-audio-book-winners/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T08:02:33Z" data-link="https://robertreich.substack.com/p/if-democrats-got-off-their-asses">
-      <h1>If Democrats got off their asses, here’s what they’d be doing now</h1>
-
-(date: 2025-08-15, from: <a href="https://robertreich.substack.com/p/if-democrats-got-off-their-asses">Robert Reich's blog</a>)
-      <p>
-      Nine critical steps
-      <address>
-        <a href="https://robertreich.substack.com/p/if-democrats-got-off-their-asses">https://robertreich.substack.com/p/if-democrats-got-off-their-asses</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T07:38:20Z" data-link="https://heathercoxrichardson.substack.com/p/august-14-2025">
-      <h1>August 14, 2025 </h1>
-
-(date: 2025-08-15, from: <a href="https://heathercoxrichardson.substack.com/p/august-14-2025">Heather Cox Richardson blog</a>)
-      <p>
-      Today, flanked by California&#8217;s Democratic elected officials and union leaders, California governor Gavin Newsom responded to Trump&#8217;s attempt to strongarm the Texas legislature into redistricting the state to give Trump the five additional congressional representatives to which he feels &#8220;entitled.&#8221; Newsom announced that California will hold a special election on November 4 for voters to consider redistricting their state temporarily if Texas redistricts, so that California can neutralize Trump&#8217;s rigging of the state of Texas.
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/august-14-2025">https://heathercoxrichardson.substack.com/p/august-14-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T06:28:55Z" data-link="https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/">
-      <h1>car brands running curl</h1>
-
-(date: 2025-08-15, from: <a href="https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/">Daniel Stenberg Blog</a>)
-      <p>
-      Seven years ago I wrote about how a hundred million cars were running curl and as I brought up this blog post in a discussion recently, I came to reflect over how the world might have changed since. Is curl perhaps used in more cars now? Yes it is. With the help of friendly people &#8230; <a href="https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/" class="more-link">Continue reading <span class="screen-reader-text">car brands running curl</span> <span class="meta-nav">&#8594;</span></a>
-      <address>
-        <a href="https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/">https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T01:08:06Z" data-link="https://www.bloomberg.com/news/articles/2025-08-14/trump-administration-is-said-to-discuss-us-taking-stake-in-intel">
-      <h1>Bloomberg: ‘Trump Administration Said to Discuss Taking Stake in Intel’</h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://www.bloomberg.com/news/articles/2025-08-14/trump-administration-is-said-to-discuss-us-taking-stake-in-intel">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.bloomberg.com/news/articles/2025-08-14/trump-administration-is-said-to-discuss-us-taking-stake-in-intel">https://www.bloomberg.com/news/articles/2025-08-14/trump-administration-is-said-to-discuss-us-taking-stake-in-intel</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T00:41:13Z" data-link="https://www.wsj.com/economy/the-u-s-marches-toward-state-capitalism-with-american-characteristics-f75cafa8?st=48pGHz&reflink=desktopwebshare_permalink">
-      <h1>The Wall Street Journal Marches Toward Pravda With American Characteristics</h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://www.wsj.com/economy/the-u-s-marches-toward-state-capitalism-with-american-characteristics-f75cafa8?st=48pGHz&reflink=desktopwebshare_permalink">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.wsj.com/economy/the-u-s-marches-toward-state-capitalism-with-american-characteristics-f75cafa8?st=48pGHz&reflink=desktopwebshare_permalink">https://www.wsj.com/economy/the-u-s-marches-toward-state-capitalism-with-american-characteristics-f75cafa8?st=48pGHz&reflink=desktopwebshare_permalink</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-15T00:04:19Z" data-link="https://kottke.org/25/08/max-cooper-repetition">
-      <h1> Max Cooper, Repetition </h1>
-
-(date: 2025-08-15, updated: 2025-08-15, from: <a href="https://kottke.org/25/08/max-cooper-repetition">Jason Kittke's blog</a>)
-      <p>
-      
-      <address>
-        <a href="https://kottke.org/25/08/max-cooper-repetition">https://kottke.org/25/08/max-cooper-repetition</a>
       </address>
     </article>
   </section>
