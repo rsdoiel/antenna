@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libraries</title>
+    <lastBuildDate>2025-08-30 19:25:27</lastBuildDate>
+    <generator>antenna/0.0.1</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <item>
+      <title>The New Freedom, by Woodrow Wilson</title>
+      <link>https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</link>
+      <description>
+        <![CDATA[The 28th president of the United States presents the risks and opportunities for freedom and democracy through a series of campaign speeches.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom/downloads/woodrow-wilson_the-new-freedom.epub?source=feed" length="422895" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</guid>
+      <pubDate>2025-08-29T18:31:02Z</pubDate>
+    </item>    <item>
+      <title>Kitchen is Closed for US Labor Day</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/29/kitchen-is-closed-for-us-labor-day/</link>
+      <description>
+        <![CDATA[<p>The Chefs are now off for the US Labor Day Holiday, enjoying the last official getaway for summer.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/29/kitchen-is-closed-for-us-labor-day/">Kitchen is Closed for US Labor Day</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60897</guid>
+      <pubDate>2025-08-29T09:00:59Z</pubDate>
+    </item>    <item>
+      <title>ETH Library and ICSTI invite you to the 2025 Annual Conference</title>
+      <link>https://rc-blog.ethz.ch/en/eth-library-and-icsti-invite-you-to-the-2025-annual-conference/</link>
+      <description>
+        <![CDATA[Together with the International Council for Scientific and Technical Information (ICSTI), the ETH Library is hosting this year&#8217;s ICSTI Annual Conference at ETH Zurich on September 18 and 19, 2025.  Read more]]>
+      </description>
+      <guid>https://rc-blog.ethz.ch/?p=2880</guid>
+      <pubDate>2025-08-28T13:42:04Z</pubDate>
+    </item>    <item>
+      <title>Guest Post – Code Plagiarism and AI Create New Challenges for Publishing Integrity</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/28/guest-post-code-plagiarism-and-ai-create-new-challenges-for-publishing-integrity/</link>
+      <description>
+        <![CDATA[<p>This post explores author, reviewer, and publisher ethics and responsibilities related to the use of AI in coding and publishing research software.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/28/guest-post-code-plagiarism-and-ai-create-new-challenges-for-publishing-integrity/">Guest Post – Code Plagiarism and AI Create New Challenges for Publishing Integrity</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60920</guid>
+      <pubDate>2025-08-28T09:00:32Z</pubDate>
+    </item>    <item>
+      <title>An eLife filled with possibility thanks to great metadata</title>
+      <link>https://www.crossref.org/blog/an-elife-filled-with-possibility-thanks-to-great-metadata/</link>
+      <description>
+        <![CDATA[<p><a href="https://elifesciences.org/" target="_blank">eLife</a> recently <a href="https://doi.org/10.64000/xh94q-w7335" target="_blank">won a Crossref Metadata Award</a> for the completeness of its metadata, showing itself as the clear leader among our medium-sized members. In this post, the eLife team answers our questions about how and why they produce such high-quality open metadata. For eLife, the work of creating and sharing excellent metadata aligns with their mission to foster open science and supports their preprint-centred publication model, but it also lays the groundwork for all kinds of exciting potential uses.</p>
+        <div class="quotecite">
+        <blockquote>
+        <p>Having complete and rich metadata puts you in the best position to fulfil future, as-yet-undetermined requirements.</p>
+        </blockquote>
+        <p><cite>&ndash; Fred Atherden, eLife</cite></p>
+        </div>
+        <h2 id="what-motivates-your-organisationteam-to-work-towards-high-quality-metadata-what-objectives-does-it-support-for-your-organisation">What motivates your organisation/team to work towards high-quality metadata? What objectives does it support for your organisation?</h2>
+        <p>eLife is a mission-driven organisation tasked by its founders to help scientists accelerate discovery and encourage responsible behaviours in science. As such, we’re passionate about open science and metadata, and we&rsquo;re vocal advocates of the benefits these provide to academic communities and beyond.</p>
+        <p>Given Crossref’s position as a hub at the centre of scholarly communication, providing Crossref with complete metadata furthers our mission. It facilitates the discovery and reuse of research and enables linkage to key but often overlooked outputs such as datasets and software. As signatories of <a href="https://sfdora.org/" target="_blank">DORA</a> and supporters of the <a href="https://barcelona-declaration.org/" target="_blank">Barcelona Declaration</a>, we are keenly aware of the wider context - that these efforts enable research assessment and policy decisions to be derived from open and transparent information, moving beyond closed systems that have proliferated the damaging use of anachronistic metrics.</p>
+        <h2 id="do-you-have-a-strategy-for-complete-metadata-which-elements-did-you-prioritise-what-workflows-tools-or-collaborations-helped-you-get-there">Do you have a strategy for complete metadata? Which elements did you prioritise? What workflows, tools, or collaborations helped you get there?</h2>
+        <p>There are plenty of existing guidelines that provide a great skeleton to follow. For example, we follow <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR data</a> and <a href="https://doi.org/10.7717/peerj-cs.86" target="_blank">FORCE11 software citation principles</a>, which ensure the capture of metadata for supporting datasets and software packages. There’s not any one particular element that we’ve prioritised, although we’re keen to ensure we follow best practices while also exploring the bleeding edge.</p>
+        <p>We’ve collaborated with and relied on the advice of many organisations over the years, including (but not limited to) Crossref, Research Organization Registry <a href="https://ror.org" target="_blank">(ROR)</a>, <a href="https://jats4r.niso.org/" target="_blank">JATS4R</a>, <a href="https://force11.org" target="_blank">FORCE11</a>, <a href="https://www.softwareheritage.org/" target="_blank">Software Heritage</a>, <a href="https://openrxiv.org/" target="_blank">openRxiv</a>, and our production vendors <a href="https://www.kriyadocs.com/exeterpremedia" target="_blank">Exeter Premedia</a>.</p>
+        <p>We’ve developed our own <a href="https://github.com/elifesciences/elife-crossref-xml-generation" target="_blank">open source Crossref metadata generation library</a>. Keeping this process in-house has proven really fruitful. It allows us to quickly and continuously improve upon the metadata we provide.</p>
+        <p>And we have a data team that has created a centralised data hub, serving as a really useful authoritative resource that can be queried, instead of always making use of disparate systems.</p>
+        <h2 id="how-have-you-integrated-these-into-your-metadata-processes">How have you integrated these into your metadata processes?</h2>
+        <p>At submission, we collect ROR IDs for (a subset of) affiliations, and structured data for funding, datasets, and other information. Our publication model is centred around preprints, so it’s necessary to capture related information such as the preprint DOI, preprint posted date, the version that pertains to each specific revision (and so on). Without this information, we could not post public reviews to the correct preprint version on the preprint server, or indeed ensure the article we publish is the correct iteration of that work.</p>
+        <p>The systems that enable the publication of eLife Reviewed preprints are dependent on <a href="https://docmaps.knowledgefutures.org/" target="_blank">DocMaps</a>, a framework for a machine-readable representation of the processes involved in the creation of a document. These are provided by our Data Hub and enable us to capture structured information about the peer review process and accompanying metadata for each article.</p>
+        <p>Our proofing system for journal articles only permits login via <a href="https://orcid.org" target="_blank">ORCID authentication</a>, and we don’t capture unauthenticated ORCID IDs that have been copied or keyed (see <a href="https://info.orcid.org/whats-so-special-about-signing-in/" target="_blank">‘What’s So Special About Signing In?’)</a>. It also makes use of both the <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">Crossref API</a> and the <a href="https://pmc.ncbi.nlm.nih.gov/tools/developers/" target="_blank">PubMed Central API</a> to ensure we have persistent identifiers where possible for references. We have an in-house content validator, which uses <a href="https://ror.readme.io/docs/rest-api" target="_blank">ROR’s API</a> to ensure we have ROR IDs for affiliations and funders where possible. We use Software Heritage to archive author-generated code, and include their persistent ID <a href="https://www.softwareheritage.org/software-hash-identifier-swhid/" target="_blank">(SWHID)</a> in software references.</p>
+        <p>All our published content is captured as <a href="https://jats.nlm.nih.gov/index.html" target="_blank">JATS XML</a> (the industry standard format for journal articles), which our metadata generation library uses as its input.</p>
+        <h2 id="what-impact-of-good-metadata-can-you-see-for-your-organisation-is-it-supporting-the-business-andor-editorial-side-of-your-work">What impact of good metadata can you see for your organisation? Is it supporting the business and/or editorial side of your work?</h2>
+        <p>Persistent identifiers are very useful for reporting. Creating a report that, for example, includes publication volumes from a particular institution is trivial when content is enriched with persistent identifiers. It’s more complex when all you have are messy author-supplied strings of text. They’re also useful for content validation. For example, when we have a persistent ID and a method to retrieve the related metadata, we can confirm that the information we’ve been provided is complete and correct.</p>
+        <p>There are, of course, many other benefits, some of which are &ldquo;unknown unknowns.&rdquo; Having complete and rich metadata puts you in the best position to fulfil future, as-yet-undetermined requirements.</p>
+        <h2 id="have-you-encountered-any-challenges-in-curating-or-improving-your-metadata-if-so-what-were-they-and-how-did-you-address-those">Have you encountered any challenges in curating or improving your metadata? If so, what were they, and how did you address those?</h2>
+        <p>In 2024, we started introducing <a href="https://www.crossref.org/documentation/research-nexus/grants/">persistent grant IDs</a> for our content. While we updated our submission system to collect these from authors, it’s apparent that many authors aren’t aware when/if these have been registered by funders, and they still provide us with the (internal) grant numbers instead.</p>
+        <p>Our workaround was to pull grant data from Crossref and then replace the grant numbers with the persistent IDs when we’re confident of a match. Since the grant number registered at Crossref might not exactly match the grant number the authors have given us, potential matches are confirmed by a team member or our production vendors. Since many organisations do a great job of creating informative landing pages (for example, <a href="https://europepmc.org/" target="_blank">EuropePMC</a> for Wellcome funding), this is feasible, but we’re investigating ways we can make this less manual while remaining careful that we don’t introduce false positives.</p>
+        <h2 id="have-your-efforts-around-metadata-led-to-real-benefits-for-your-community-is-this-something-your-editors-authors-or-readers-are-aware-of-and-appreciate-if-so-why">Have your efforts around metadata led to real benefits for your community? Is this something your editors, authors, or readers are aware of and appreciate? If so, why?</h2>
+        <p>Yes, I think this is something that is becoming increasingly visible. Authors are very mindful of the benefits that good metadata can bring for discoverability and promotion. And much is lost without the increased interoperability it brings, both for publishers themselves but also the wider ecosystem. For example, we’ve had some great feedback from numerous organisations that appreciate that the outputs we publish directly link to the preprints they are based on.</p>
+        <p>In recent years, there’s been an increased focus on research integrity, and this is likely to remain the case. Metadata has an obvious and key role in providing trust and transparency, whether that’s through the presence of trust markers like ORCID IDs or through the inclusion of complete post-publication metadata such as correction, retraction, or withdrawal information.</p>
+        <h2 id="looking-ahead-how-are-you-planning-to-build-on-your-metadata-quality-are-there-new-elements-or-practices-youre-exploring-and-what-advice-would-you-give-to-others-just-starting-to-strengthen-their-metadata">Looking ahead, how are you planning to build on your metadata quality? Are there new elements or practices you’re exploring? And what advice would you give to others just starting to strengthen their metadata?</h2>
+        <p>Several years ago, <a href="https://elifesciences.org/about/peer-review" target="_blank">we introduced a &ldquo;publish, review, curate&rdquo; model of publishing</a>, where we publish ‘Reviewed preprints’ following each stage of review. We don’t collect the same level of structured information from authors at submission for these as we do for Versions of Record. This presents a challenge for retrieving and disseminating complete metadata for Reviewed preprints. We aim to start moving this forward so that comprehensive metadata is available at earlier stages of the publication process. For example, we recently started depositing (some) funding metadata for these.</p>
+        <p>We’re also keen to explore the ways in which we can make our <a href="https://elifesciences.org/about/elife-assessments" target="_blank">eLife Assessments</a> more discoverable. Our Editors use a common vocabulary to describe the significance of the findings and strength of evidence in a paper. Other publishers moving beyond accept/reject publication models use different rubrics and taxonomies, so having one restrictive field in a schema for the entire corpus of research won’t cut it. But nevertheless making these terms more discoverable and interoperable would be preferential.</p>
+        <p>We’ve found that the integration of public APIs/data within systems (such as ROR’s, Crossref’s, PubMed’s, and OpenAlex’s) to be really helpful in validating the correctness and completeness of content/metadata. The effort in adding these integrations will pay dividends in the future.</p>
+        <p>Time to enjoy Fred’s acceptance video.</p>
+        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+        border-radius: 8px; will-change: transform;">
+        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+        src="https://www.canva.com/design/DAGwnlQ6L28/02yxOhbLOdze9aVKwMwf5w/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        </iframe>
+        </div>
+        <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGwnlQ6L28&#x2F;02yxOhbLOdze9aVKwMwf5w&#x2F;watch?utm_content=DAGwnlQ6L28&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Metadata Awards video - eLife</a>]]>
+      </description>
+      <guid>https://www.crossref.org/blog/an-elife-filled-with-possibility-thanks-to-great-metadata/</guid>
+      <pubDate>2025-08-28T00:00:00Z</pubDate>
+    </item>    <item>
+      <title>The Paradise Mystery, by J. S. Fletcher</title>
+      <link>https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</link>
+      <description>
+        <![CDATA[A young doctor attempts to turn a mysterious death to his romantic advantage.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/j-s-fletcher_the-paradise-mystery.epub?source=feed" length="623099" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</guid>
+      <pubDate>2025-08-27T20:23:15Z</pubDate>
+    </item>    <item>
+      <title>Guest Post – Beyond Open Access, Part II: Make Images Truly Accessible for All</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/27/guest-post-beyond-open-access-part-ii-make-images-truly-accessible-for-all/</link>
+      <description>
+        <![CDATA[<p>Today's guest authors offer practical tips for publishing high-quality image descriptions, a key step toward ensuring genuine accessibility in scholarly communications.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/27/guest-post-beyond-open-access-part-ii-make-images-truly-accessible-for-all/">Guest Post – Beyond Open Access, Part II: Make Images Truly Accessible for All</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <enclosure url="https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/08/Beyond-Open-Access-Part-2-audio-file-for-TSK1.mp3" length="8437778" type="audio/mpeg" />
+      <guid>https://scholarlykitchen.sspnet.org/?p=60909</guid>
+      <pubDate>2025-08-27T09:30:27Z</pubDate>
+    </item>    <item>
+      <title>New Art and Design Books!</title>
+      <link>https://library.csun.edu/blogs/cited/2025/08/26/new-art-and-design-books/</link>
+      <description>
+        <![CDATA[<div><img width="300" height="225" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart-300x225.jpg 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart-768x576.jpg 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Your CSUN Art Librarian here to share some of the new art, design, and photography books we’ve recently added to the collection: Digital Witness: Revolutions&#8230;]]>
+      </description>
+      <guid>https://library.csun.edu/blogs/cited/?p=7398</guid>
+      <pubDate>2025-08-26T18:56:47Z</pubDate>
+    </item>    <item>
+      <title>Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/</link>
+      <description>
+        <![CDATA[<p>In an era of information abundance and epistemic chaos, libraries serve as crucial sites for democratic knowledge practices -- protecting them is critical to preserving the infrastructure of informed citizenship itself.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/">Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60844</guid>
+      <pubDate>2025-08-26T10:25:23Z</pubDate>
+    </item>    <item>
+      <title>Day in Review (August 25–28)</title>
+      <link>https://www.arl.org/day-in-review/day-in-review-august-25-28/</link>
+      <description>
+        <![CDATA[<p>Last Updated on August 28, 2025, 5:33 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus Monday, September 1,...</p>
+        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-25-28/">Day in Review (August 25–28)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <guid>https://www.arl.org/?p=45680</guid>
+      <pubDate>2025-08-25T18:17:52Z</pubDate>
+    </item>    <item>
+      <title>From Detection to Disclosure — Key Takeaways on AI Ethics from COPE’s Forum</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/</link>
+      <description>
+        <![CDATA[<p>Summing up the Committee on Publication Ethics (COPE) Forum discussion on Emerging AI Dilemmas in Scholarly Publishing, which explored the many challenges AI presents for the scholarly community.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/">From Detection to Disclosure — Key Takeaways on AI Ethics from COPE’s Forum</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60799</guid>
+      <pubDate>2025-08-25T09:30:45Z</pubDate>
+    </item>    <item>
+      <title>Dark Princess, by W. E. B. Du Bois</title>
+      <link>https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</link>
+      <description>
+        <![CDATA[A romance with an Indian princess entangles a young American black man in a world-wide conspiracy of the colored peoples against the white.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess/downloads/w-e-b-du-bois_dark-princess.epub?source=feed" length="876275" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</guid>
+      <pubDate>2025-08-25T03:21:35Z</pubDate>
+    </item>    <item>
+      <title>The Painted Veil, by W. Somerset Maugham</title>
+      <link>https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</link>
+      <description>
+        <![CDATA[A superficial young woman is found out in an affair by her husband, who then forces her to accompany him on a mission of great risk.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil/downloads/w-somerset-maugham_the-painted-veil.epub?source=feed" length="509648" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</guid>
+      <pubDate>2025-08-23T00:20:50Z</pubDate>
+    </item>    <item>
+      <title>The Return of the Native, by Thomas Hardy</title>
+      <link>https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</link>
+      <description>
+        <![CDATA[A young woman longs to find a husband who can deliver her from her unexciting rural life.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native/downloads/thomas-hardy_the-return-of-the-native.epub?source=feed" length="1208112" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</guid>
+      <pubDate>2025-08-22T20:45:20Z</pubDate>
+    </item>    <item>
+      <title>What’s the Magic Word?</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/</link>
+      <description>
+        <![CDATA[<p>What's the magic word? Is it "please"? "Abracadabra"? Wingardium leviosa"? Why are humans drawn to incantations and affirmations?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/">What&#8217;s the Magic Word?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60892</guid>
+      <pubDate>2025-08-22T09:30:25Z</pubDate>
+    </item>    <item>
+      <title>The Conscience of a Conservative, by Barry Goldwater</title>
+      <link>https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</link>
+      <description>
+        <![CDATA[A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative/downloads/barry-goldwater_the-conscience-of-a-conservative.epub?source=feed" length="575900" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</guid>
+      <pubDate>2025-08-21T15:50:31Z</pubDate>
+    </item>    <item>
+      <title>Rise of the Machine Readers: What They Really Want to Read</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/21/rise-of-the-machine-readers/</link>
+      <description>
+        <![CDATA[<p>As AI becomes a major consumer of research, scholarly publishing must evolve: from PDFs for people to structured, high-quality data for machines.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/21/rise-of-the-machine-readers/">Rise of the Machine Readers: What They Really Want to Read</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60871</guid>
+      <pubDate>2025-08-21T09:30:03Z</pubDate>
+    </item>    <item>
+      <title>Day in Review (August 20–21)</title>
+      <link>https://www.arl.org/day-in-review/day-in-review-august-20-21/</link>
+      <description>
+        <![CDATA[<p>Last Updated on August 21, 2025, 3:47 pm ET Sign up to receive the Day in Review by email. Jump to: Thursday, August 21 Wednesday, August 20 Top o’ the...</p>
+        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-20-21/">Day in Review (August 20–21)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <guid>https://www.arl.org/?p=45637</guid>
+      <pubDate>2025-08-20T19:18:36Z</pubDate>
+    </item>    <item>
+      <title>Getting Married, by George Bernard Shaw</title>
+      <link>https://standardebooks.org/ebooks/george-bernard-shaw/getting-married</link>
+      <description>
+        <![CDATA[On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/george-bernard-shaw_getting-married.epub?source=feed" length="412877" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/george-bernard-shaw/getting-married</guid>
+      <pubDate>2025-08-20T18:26:33Z</pubDate>
+    </item>    <item>
+      <title>2025 Update: Quantifying Consolidation in the Scholarly Journals Market</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/20/2025-update-quantifying-consolidation-in-the-scholarly-journals-market/</link>
+      <description>
+        <![CDATA[<p>Catching up with the ongoing consolidation of the journals market -- what has happened in the two years since this was last examined? And how does the market look if you add in a large number of relatively newly launched journals?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/20/2025-update-quantifying-consolidation-in-the-scholarly-journals-market/">2025 Update: Quantifying Consolidation in the Scholarly Journals Market</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60881</guid>
+      <pubDate>2025-08-20T09:30:05Z</pubDate>
+    </item>    <item>
+      <title>Calling All Musicians: Mini Concerts at the Internet Archive</title>
+      <link>https://blog.archive.org/2025/08/20/calling-all-musicians-mini-concerts-at-the-internet-archive/</link>
+      <description>
+        <![CDATA[Since 2020, the Internet Archive has been inviting musicians from around the world to play short live sets for our virtual staff meetings. What started as a way to bring [&#8230;]]]>
+      </description>
+      <guid>https://blog.archive.org/?p=29076</guid>
+      <pubDate>2025-08-20T03:17:31Z</pubDate>
+    </item>    <item>
+      <title>Guest Post — Beyond Open Access, Part 1: Make Academic Content Truly Accessible for All</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/19/guest-post-beyond-open-access-part-1-make-academic-content-truly-accessible-for-all/</link>
+      <description>
+        <![CDATA[<p>Open access has revolutionized how research reaches readers — yet, true accessibility is an ethical imperative for institutions, publishers, and service providers to create genuinely inclusive scholarly communication.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/19/guest-post-beyond-open-access-part-1-make-academic-content-truly-accessible-for-all/">Guest Post — Beyond Open Access, Part 1: Make Academic Content Truly Accessible for All</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <enclosure url="https://www.dropbox.com/scl/fi/g2r9ucmhyoc7hy4fwqxw9/NISO-STS_-Standards-Tag-Suite-Version-1_2.wav?rlkey=a4hn6yjie1wv4wq5jf1h0zni7&dl=0" length="0" type="audio/wav" />
+      <enclosure url="https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/08/Beyond-Open-Access-Part-1-audio-file-for-TSK.mp3" length="9769550" type="audio/mpeg" />
+      <guid>https://scholarlykitchen.sspnet.org/?p=60863</guid>
+      <pubDate>2025-08-19T09:30:24Z</pubDate>
+    </item>    <item>
+      <title>The Vicar of Bullhampton, by Anthony Trollope</title>
+      <link>https://standardebooks.org/ebooks/anthony-trollope/the-vicar-of-bullhampton</link>
+      <description>
+        <![CDATA[The vicar of a rural parish is the epicenter for conflicts in love, law, and church affairs in his Wiltshire town.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/anthony-trollope/the-vicar-of-bullhampton/downloads/anthony-trollope_the-vicar-of-bullhampton.epub?source=feed" length="883742" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/anthony-trollope/the-vicar-of-bullhampton</guid>
+      <pubDate>2025-08-19T02:11:21Z</pubDate>
+    </item>    <item>
+      <title>Subscribe-to-Open Is Doomed. Here’s Why.</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/18/subscribe-to-open-is-doomed-heres-why/</link>
+      <description>
+        <![CDATA[<p>A scholarly communication ecosystem that relies on voluntary support rather than charging for access to content becomes radically less capable of keeping money in the system. </p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/18/subscribe-to-open-is-doomed-heres-why/">Subscribe-to-Open Is Doomed. Here&#8217;s Why.</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60873</guid>
+      <pubDate>2025-08-18T09:30:06Z</pubDate>
+    </item>    <item>
+      <title>The Box Office Murders, by Freeman Wills Crofts</title>
+      <link>https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders</link>
+      <description>
+        <![CDATA[The discovery of a drowned woman sets the police on the trail of a mysterious scam involving cinema cashiers.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders/downloads/freeman-wills-crofts_the-box-office-murders.epub?source=feed" length="556766" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/freeman-wills-crofts/the-box-office-murders</guid>
+      <pubDate>2025-08-17T23:11:05Z</pubDate>
+    </item>    <item>
+      <title>The Vital Role of Sustainability in Academic Libraries</title>
+      <link>https://www.arl.org/blog/the-vital-role-of-sustainability-in-academic-libraries/</link>
+      <description>
+        <![CDATA[<p>Editor’s note: The Association of Research Libraries (ARL) is a partner of the Sustainable Libraries Initiative (SLI) to give ARL members access to sustainability resources and tools and to advance sustainability in...</p>
+        <p>The post <a href="https://www.arl.org/blog/the-vital-role-of-sustainability-in-academic-libraries/">The Vital Role of Sustainability in Academic Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <guid>https://www.arl.org/?p=45549</guid>
+      <pubDate>2025-08-15T15:00:34Z</pubDate>
+    </item>    <item>
+      <title>INFIDEO Friday: How AI is Changing Our Search Experiences</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/15/infideo-friday-how-ai-is-changing-our-search-experiences/</link>
+      <description>
+        <![CDATA[<p>What happens when AI-infused information systems increasingly provide answers rather than directing people to sources?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/15/infideo-friday-how-ai-is-changing-our-search-experiences/">INFIDEO Friday: How AI is Changing Our Search Experiences</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60867</guid>
+      <pubDate>2025-08-15T09:30:41Z</pubDate>
+    </item>    <item>
+      <title>Guest Post — What is the Current State of Academic e-book Business Models?</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/14/guest-post-what-is-the-current-state-of-academic-e-book-business-models/</link>
+      <description>
+        <![CDATA[<p>A new report from Ithaka S+R assesses the current state of scholarly monograph publishing in humanities and social sciences disciplines in order to understand how current business models are functioning for their consumer base, namely libraries and authors.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/14/guest-post-what-is-the-current-state-of-academic-e-book-business-models/">Guest Post &#8212; What is the Current State of Academic e-book Business Models? </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60861</guid>
+      <pubDate>2025-08-14T09:30:44Z</pubDate>
+    </item>    <item>
+      <title>Mejorando la visibilidad a través de los metadatos: una mirada desde Editorial CSIC</title>
+      <link>https://www.crossref.org/blog/mejorando-la-visibilidad-a-trav%C3%A9s-de-los-metadatos-una-mirada-desde-editorial-csic/</link>
+      <description>
+        <![CDATA[<p><a href="#version-in-english"><em>Click here for the version in English</em></a></p>
+        <p>Hablamos con Nacho Pérez Alcalde, Vicedirector Técnico de Editorial CSIC, la editorial al mando de ´Boletín Geológico y Minero’, ganadora del Crossref Metadata Award en la categoría de Metadata Enrichment. Miembro de Crossref desde 2008, Editorial CSIC publica 41 revistas en acceso abierto Diamante, y juega un papel esencial en la diseminación del conocimiento científico a nivel internacional. Exploramos lo que este premio ha significado para Editorial CSIC y qué planes para el futuro tienen para seguir mejorando la calidad y uso de sus metadatos.</p>
+        <h3 id="el-boletín-geológico-y-minero-ha-recibido-el-primer-premio-de-crossref-al-enriquecimiento-de-vuestros-metadatos-ya-que-en-tan-solo-dos-años-ha-visto-la-cobertura-de-los-metadatos-pasar-del-1-al-40-cuáles-han-sido-las-motivaciones-que-han-llevado-a-esta-revista-a-ver-una-mejora-tan-grande-en-sus-metadatos">El ‘Boletín Geológico y Minero’ ha recibido el primer premio de Crossref al enriquecimiento de vuestros metadatos ya que en tan solo dos años, ha visto la cobertura de los metadatos pasar del 1 al 40%. ¿Cuáles han sido las motivaciones que han llevado a esta revista a ver una mejora tan grande en sus metadatos?</h3>
+        <p>Editorial CSIC publica 41 revistas científicas, todas ellas presentes en los principales indexadores. Son revistas de prestigio que ofrecen, desde hace muchos años, contenidos revisados de alta calidad. Sin embargo, hoy en día, no es ya suficiente para una revista científica ofrecer contenidos de calidad, hoy en día es necesario ofrecer también una alta calidad en los metadatos generados por esas publicaciones. Algo que hace no muchos años veíamos como un servicio de valor añadido se ha convertido en algo imprescindible.</p>
+        <p>En un entorno de trabajo electrónico y en Internet, los metadatos son claves para la difusión de los contenidos, la identificación de revistas, autores/as, instituciones editoras, entidades financiadoras… Para un editor es fundamental poder transmitir esa información según unos procedimientos técnicos y unos protocolos estandarizados para garantizar su compatibilidad con las máquinas que cosechan, almacenan y distribuyen datos favoreciendo la visibilidad y la descubribilidad de nuestras revistas.</p>
+        <h3 id="seguis-alguna-estrategia-cómo-decidís-qué-elementos-priorizar">¿Seguis alguna estrategia? ¿Cómo decidís qué elementos priorizar?</h3>
+        <p>Llevamos años trabajando con metadatos y, de forma periódica, vamos revisando y ampliando el número de elementos que convertimos en metadatos. Damos prioridad siempre a lo que es ya un estándar claramente identificado (por ejemplo el ORCID) y también a aquellos metadatos alineados con las políticas editoriales que consideramos prioritarias (por ejemplo la licencia CC by que aplicamos).</p>
+        <p>El flujo de trabajo requiere como primer paso la identificación, por parte del editor, de los datos que se quieren obtener y de cómo se van a pedir. Una vez se integran todos ellos en la política de envío de originales a la revista, es imprescindible la colaboración de los autores que son los que aportan los datos que, en una fase posterior son revisados por un editor técnico especializado en metadatos (diferente al revisor de texto). Por último, es imprescindible contar con una herramienta que permita automatizar la transferencia de metadatos y aquí es muy importante contar con personal técnico especializado. Nosotros trabajamos con la plataforma OJS, yo he pasado años depositando metadatos en Crossref con los archivos XML que generábamos, uno a uno. Con 1.000 artículos publicados de media al año, la creación del Módulo de exportación CrossRef XML de OJS para el depósito automatizado desde la plataforma fue de gran ayuda para nosotros porque aligera bastante el trabajo, asegura una mayor fiabilidad y nos permite dedicar nuestro tiempo a mejorar otras cosas.</p>
+        <p>También nos da una mayor flexibilidad a la hora de revisar nuestras políticas de datos, por ejemplo, nos ha permitido abordar un depósito masivo para actualizar todas nuestras referencias para corregir errores recurrentes.</p>
+        <h3 id="cómo-habéis-integrado-esto-en-vuestra-estrategia-de-metadatos">¿Cómo habéis integrado esto en vuestra estrategia de metadatos?</h3>
+        <p>El Crossref Metadata Enrichment Award ha sido concedido en concreto a la revista Boletín Geológico y Minero por haber experimentado una gran mejora en sus metadatos en los últimos años. Esta revista era editada por otra institución y cuando Editorial CSIC se hizo cargo de ella le aplicamos los mismos estándares que venimos utilizando en el resto de nuestras revistas desde hace años. Nos sentimos por ello especialmente orgullosos, porque entendemos este premio como el aval a una política de metadatos que llevamos años desarrollando y que ha permitido una mejora importante para esta revista en un tiempo relativamente corto.</p>
+        <p><strong>Para ello fue clave la colaboración de la dirección científica de la revista</strong>, nosotros explicamos primero qué datos deben ser solicitados a los autores, por qué y para qué, y luego nos ocupamos de confirmar que se han ido integrando en los artículos y de implementarlos en la plataforma OJS para proceder después a su depósito en Crossref pero también a su integración en otras vías de difusión de metadatos.</p>
+        <h3 id="a-nivel-de-impacto-cómo-veis-que-una-buena-cobertura-de-los-metadatos-afecta-a-vuestra-organización-beneficia-de-alguna-manera-vuestro-trabajo-editorial-o-cualquier-otro-aspecto-de-vuestra-actividad">A nivel de impacto, ¿cómo veis que una buena cobertura de los metadatos afecta a vuestra organización? ¿Beneficia de alguna manera vuestro trabajo editorial? O cualquier otro aspecto de vuestra actividad?</h3>
+        <p>Más allá de sus beneficios obvios como potenciar la visibilidad de nuestras publicaciones y contribuir a manejar una información controlada y de calidad, en última instancia deberían ayudarnos a posicionarnos como grupo profesional. Nuestra función esencial es publicar contenido científico revisado y de calidad y transmitirlo a la comunidad científica y, cada vez más, a toda la sociedad. Sin embargo, hoy en día, deberíamos aspirar a ser identificados también como proveedores de datos. Y eso, en “la era del dato”, es mucho decir. Debemos ser capaces de extraer los metadatos de nuestras publicaciones aportados por los autores (palabras claves, filiación, bibliografías&hellip;) pero también debemos ser capaces de generar nosotros otros metadatos y de transmitirlos y difundirlos.</p>
+        <p>Las revistas científicas deben seguir contando con un editor que haga una revisión ortotipografía y de pruebas, pero también deben contar con un editor de metadatos, alguien que sepa qué es FundRef y sepa dónde y cómo hay que introducir los datos en la plataforma para garantizar que se conservan y transfieren de manera correcta y eficiente.</p>
+        <p>Por ello, quiero aprovechar esta ocasión para <strong>reivindicar el papel del editor como generador y proveedor de datos</strong>. Los editores somos la fuente de datos, hay agentes como las bibliotecas e indexadores que los cosechan, archivan, transmiten y procesan para, por ejemplo, generar nuevos contenidos o servicios, pero solo nosotros tenemos la capacidad de generarlos.</p>
+        <p>¿Habéis encontrado dificultades a la hora de mejorar y manejar vuestros metadatos?
+        En ocasiones los autores se quejan de que se les piden muchos datos, por ejemplo, el uso de ORCID es obligatorio en nuestras publicaciones y muchos autores, sobre todo de ámbitos no europeos, se han quejado porque no saben qué es y para qué sirve o, por motivos personales, no quieren registrar ese identificador personal. Son motivos respetables, por supuesto, pero para nosotros prima la necesidad de identificar correctamente a cada autor y creemos que el ORCID ayuda a ello.</p>
+        <p>Otro problema habitual es que muchos autores, al citar una fuente de financiación, utilizan el nombre de la entidad financiadora pero a veces no lo ponen completo, o no incluyen el acrónimo o lo que es peor, ponen el nombre pero no el código de la institución o del proyecto. Los autores están acostumbrados a escribir pensando en los lectores “humanos” y no en las máquinas que van a procesar después toda esa información. Nuestro papel, como editores de metadatos, pasa por informarles, de forma didáctica, de la importancia de aportar esos códigos y pedírselos si vemos que no los han incluido en su manuscrito.</p>
+        <h3 id="y-con-respecto-a-vuestra-comunidad-se-ha-visto-beneficiada-de-vuestro-esfuerzo-para-tener-unos-metadatos-completos-y-de-alta-calidad-están-los-autores-editores-o-lectores-al-tanto-de-estos-esfuerzos-o-lo-valoran">Y con respecto a vuestra comunidad, ¿se ha visto beneficiada de vuestro esfuerzo para tener unos metadatos completos y de alta calidad? ¿Están los autores, editores o lectores al tanto de estos esfuerzos o lo valoran?</h3>
+        <p>Para el editor técnico es más sencillo valorarlo, nosotros sabemos cómo funciona el entorno, lo importante que es la interoperabilidad de las plataformas, la rapidez y amplitud de transmisión que puede alcanzar un dato y lo importante que es que esté correcto desde su origen porque luego puede ser muy, muy difícil corregirlo y controlarlo. Somos conscientes también de su posible impacto porque sabemos cómo los sistemas de información se alimentan unos de otros y comparten información, una información que generamos nosotros.</p>
+        <p>Los editores científicos, autores y lectores suelen valorarlo menos y no siempre son conscientes de su relevancia, aunque no se puede generalizar. Y de hecho, aunque creo que todos deberían tener al menos unas nociones básicas de cómo funciona, creo que los autores ya están bastante saturados con todos los requerimientos que les pedimos para entregar sus manuscritos como para que les pidamos, además, formación específica en metadatos. Para eso (entre otras cosas) estamos los editores, para indicarles qué datos y cómo los deben aportar.</p>
+        <p>No obstante, hoy en día todo el mundo está familiarizado con lo que son y lo que se puede hacer con los datos, todos consumimos productos muy diversos a través de internet y tenemos al menos nociones de lo que son los metadatos, los datos personales, los algoritmos… Hace años era mucho más complejo hacer didáctica de esto, pero hoy en día cualquiera lo entiende fácilmente y más en un ámbito científico y tecnológico como el de nuestras publicaciones.</p>
+        <h3 id="con-la-vista-puesta-en-el-futuro-tenéis-algún-plan-para-seguir-construyendo-sobre-lo-ya-creado-algún-elemento-que-queráis-seguir-implementando-o-prácticas-que-queráis-incorporar-en-vuestra-manera-de-trabajar">Con la vista puesta en el futuro, tenéis algún plan para seguir construyendo sobre lo ya creado? ¿Algún elemento que queráis seguir implementando o prácticas que queráis incorporar en vuestra manera de trabajar?</h3>
+        <p>En editorial CSIC, desde que comenzamos a publicar en formato electrónico y a distribuir nuestras revistas electrónicas en línea, hace ya casi 20 años, siempre estamos tratando de innovar en diseños, plataformas de gestión, formatos de archivo… Hablando de cosas concretas, hemos ampliado el uso obligatorio de ORCID y DOI a las contribuciones que no son puramente artículos científicos (hasta ahora nuestras reseñas, obituarios y textos similares no los tenían) y estamos valorando la implementación de identificadores ROR para organizaciones de investigación.</p>
+        <h3 id="qué-consejos-darías-a-aquellas-organizaciones-que-están-comenzando-a-mejorar-la-calidad-de-sus-metadatos">¿Qué consejos darías a aquellas organizaciones que están comenzando a mejorar la calidad de sus metadatos?</h3>
+        <p>Para aquellos editores que están empezando a reforzar sus metadatos me atrevería a indicar algo aparentemente lógico y sencillo pero que creo que no siempre se hace: que planifiquen con calma y en detalle una política editorial de datos basada en identificar y seleccionar los datos que consideren prioritarios e implementar, después, protocolos para solicitarlos a sus autores e integrarlos en las plataformas editoriales y, por último, configurar correctamente dichas plataformas para asegurar una correcta exportación.</p>
+        <p>El metadato requiere de una cadena en la que trabajan diversas personas con distintos perfiles, hay que tener recursos para afianzar esa cadena y hay que tener en cuenta que no basta con pedir los datos a los autores, hay que seguir el recorrido de los datos desde su origen hasta donde podamos y eso no termina cuando los depositamos en Crossref: podemos depositarlos de manera adicional en otros sitios, podemos darles otras salidas y, además, debemos volver sobre ellos si detectamos algún error sistemático que podamos corregir.</p>
+        <p>Los Metadata Excellence Awards fueron entregados en mayo de 2025, en el contexto del encuentro anual de Crossref con su comunidad. Os dejamos el vídeo de aceptación del premio por parte de la revista Boletín Geológico y Minero, editada por Editorial CSIC.</p>
+        <p>Y ahora disfruta de este vídeo de aceptación.</p>
+        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+        border-radius: 8px; will-change: transform;">
+        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+        src="https://www.canva.com/design/DAGssqadV1c/w5SHN3-tL2wZz6Y10WVHOQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        </iframe>
+        </div>
+        <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGsxAyXmXs&#x2F;rOVOK6z99_UlaclRJHPekw&#x2F;watch?utm_content=DAGsxAyXmXs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>
+        <h3 id="version-in-english">Version in English</h3>
+        <h2 id="improving-visibility-through-metadata-a-look-from-csic-editorial">Improving visibility through metadata: a look from CSIC Editorial</h2>
+        <p>We spoke with Nacho Pérez Alcalde, Technical Deputy Director of Editorial CSIC, the publisher behind ‘Boletín Geológico y Minero’, recipient of the Crossref Metadata Award in the Metadata Enrichment category. A Crossref member since 2008, Editorial CSIC publishes 41 Diamond Open Access journals and plays a key role in scholarly communication at the international level. We explore what this award has meant for Editorial CSIC and what plans they have for the future to continue improving the quality and use of their metadata.</p>
+        <h3 id="what-motivates-your-team-to-work-towards-high-quality-metadata-what-objectives-does-it-support-for-your-organisation">What motivates your team to work towards high-quality metadata? What objectives does it support for your organisation?</h3>
+        <p>Editorial CSIC publishes 41 scientific journals, all of which are included in major indexing databases. These are prestigious journals that have offered high-quality, peer-reviewed content for many years. <strong>However, today, it is no longer enough for a scientific journal to provide quality content alone; it is now also essential to deliver high-quality metadata associated with those publications.</strong> What just a few years ago was considered a value-added service has now become indispensable.</p>
+        <p>In an electronic and internet-based working environment, metadata is key to content dissemination and to the identification of journals, authors, publishing institutions, and funding organizations. For a publisher, it is crucial to be able to transmit this information through technical procedures and standardised protocols to ensure compatibility with the systems that harvest, store, and distribute data, enhancing the visibility and discoverability of our journals.</p>
+        <h3 id="do-you-have-a-strategy-for-complete-metadata">Do you have a strategy for complete metadata?</h3>
+        <p>We’ve been working with metadata for years and, periodically, we review and expand the number of elements we convert into metadata. We always prioritise what is already a clearly established standard (for example, ORCID), as well as metadata aligned with editorial policies we consider a priority (such as the CC BY license we apply).</p>
+        <p>The workflow begins with the editor identifying the data to be collected and how it will be requested. Once this is integrated into the journal&rsquo;s submission guidelines, the collaboration of authors becomes essential, as they are the ones who provide the data. In a later phase, the data is reviewed by a technical editor specialising in metadata (different from the content reviewer). Finally, it&rsquo;s crucial to have a tool that enables the automated transfer of metadata, and here, having specialised technical staff is very important.</p>
+        <p>We work with the OJS platform; I spent years depositing metadata in Crossref using XML files that we generated manually, one by one. With an average of 1,000 articles published per year, the creation of the Crossref XML export module in OJS for automated deposit from the platform was a huge help for us – it significantly lightened the workload, ensured greater reliability, and allowed us to focus our time on improving other aspects.</p>
+        <p>It also gives us more flexibility when reviewing our data policies. For example, it allowed us to carry out a bulk deposit to update all our references in order to correct a recurring error.</p>
+        <h3 id="how-have-you-integrated-these-into-your-metadata-processes">How have you integrated these into your metadata processes?</h3>
+        <p>The Crossref Metadata Enrichment Award was specifically granted to the journal Boletín Geológico y Minero for having shown significant improvement in its metadata in recent years. This journal was previously published by another institution, and when Editorial CSIC took over, we applied the same standards we have been using for our other journals for many years. We are especially proud of this because we see the award as recognition of a metadata policy we’ve been developing over the years, one that has led to significant improvements for this journal in a relatively short time.</p>
+        <p><strong>The collaboration of the journal’s scientific leadership was key to achieving this.</strong> We first explained which data should be requested from authors, why, and for what purpose. Then we ensured that the data was being properly integrated into the articles and implemented it within the OJS platform. From there, we proceeded with depositing the metadata in Crossref and also integrating it into other metadata dissemination channels.</p>
+        <h3 id="what-impact-of-good-metadata-can-you-see-for-your-organisation-is-it-supporting-the-business-andor-editorial-side-of-your-work">What impact of good metadata can you see for your organisation? Is it supporting the business and/or editorial side of your work?</h3>
+        <p>Beyond their obvious benefits, such as increasing the visibility of our publications and contributing to the management of controlled, high-quality information, they should ultimately help us position ourselves as a professional group. Our essential role is to publish peer-reviewed, high-quality scientific content and deliver it to the scientific community and, increasingly, to society at large.
+        However, today, we should also aim to be recognised as data providers. And that, in the “age of data,” is a significant shift. We must be able to extract metadata from our publications-supplied by authors (keywords, affiliations, bibliographies&hellip;). We also need to generate other metadata ourselves, and transmit and disseminate those effectively. Scientific journals must still have editors who perform copy editing and proofreading, but they must also have metadata editors, people who understand what FundRef is, and know where and how to input data into the platform to ensure it is preserved and transferred correctly and efficiently.</p>
+        <p>That’s why I want to take this opportunity to highlight the role of the editor as a generator and provider of data. Editors are the source of data. There are other actors-like libraries and indexers-who harvest, archive, transmit, and process that data to, for example, create new content or services. But only we have the capacity to generate it.</p>
+        <h3 id="have-you-encountered-any-challenges-in-curating-or-improving-your-metadata">Have you encountered any challenges in curating or improving your metadata?</h3>
+        <p>Sometimes authors complain about being asked for too much information. For example, the use of ORCID is mandatory in our publications, and many authors, especially those from non-European regions, have complained because they don’t know what it is or what it’s for, or – for personal reasons – they don’t want to register for a personal identifier. These reasons are, of course, valid and understandable, but for us, the priority is to correctly identify each author, and we believe ORCID helps achieve that.
+        Another common issue is that when authors cite a funding source, they often include the name of the funding body, but sometimes don’t write it in full, or they omit the acronym, or worse – they include the name but not the institution or project code. Authors are used to writing with “human” readers in mind, not the machines that will later process all that information. Our role, as metadata editors, involves educating them about the importance of providing these codes and requesting them when we see they’ve been left out of the manuscript.</p>
+        <h3 id="have-your-efforts-around-metadata-led-to-real-benefits-for-your-community-is-this-something-your-editors-authors-or-readers-are-aware-of-and-appreciate-if-so-why">Have your efforts around metadata led to real benefits for your community? Is this something your editors, authors, or readers are aware of and appreciate? If so, why?</h3>
+        <p>For the technical editor, it&rsquo;s easier to assess the value of metadata. We understand how the ecosystem works, how important platform interoperability is, how quickly and widely data can be transmitted, and how crucial it is for data to be correct from the very beginning. Once it&rsquo;s out there, it can be very, very difficult to correct or control. We’re also aware of its potential impact because we know how information systems feed off each other and share information – information that we generate.</p>
+        <p>Scientific editors, authors, and readers tend to value it less and aren’t always aware of its importance, though of course there are exceptions. While I believe everyone should at least have a basic understanding of how it works, I also think authors are already overwhelmed with all the requirements we ask of them when submitting manuscripts. Editors are here to guide them on what data to provide and how to provide it.</p>
+        <p>That said, today, everyone is at least somewhat familiar with what data is and what can be done with it. We all consume a wide variety of digital content online and have at least a basic idea of what metadata, personal data, and algorithms are. A few years ago, explaining all this was much more difficult, but nowadays, it’s much easier for people to grasp, especially within the scientific and technological environment in which we publish.</p>
+        <h3 id="looking-ahead-how-are-you-planning-to-build-on-your-metadata-quality-are-there-new-elements-or-practices-youre-exploring-and-what-advice-would-you-give-to-others-just-starting-to-strengthen-their-metadata">Looking ahead, how are you planning to build on your metadata quality? Are there new elements or practices you’re exploring? And what advice would you give to others just starting to strengthen their metadata?</h3>
+        <p>At Editorial CSIC, ever since we began publishing in electronic format and distributing our journals online, almost 20 years ago, we have consistently sought to innovate in design, management platforms, and file formats. Speaking of specific actions, we have extended the mandatory use of ORCID and DOI to contributions that are not strictly scientific articles (until now, our book reviews, obituaries, and similar texts didn’t have them), and we are currently considering the implementation of ROR identifiers for research organizations.</p>
+        <h3 id="do-you-have-any-advice-for-organisations-that-are-making-an-effort-to-improve-the-quality-of-their-metadata">Do you have any advice for organisations that are making an effort to improve the quality of their metadata?</h3>
+        <p>For editors who are just beginning to strengthen their metadata, I would suggest something that seems logical and simple, but is not always put into practice: take the time to calmly and thoroughly plan a data policy. This should be based on identifying and selecting which data elements are most important, then implementing protocols to request them from authors and integrate them into editorial platforms, and finally, configuring those platforms correctly to ensure proper export.</p>
+        <p>Metadata involves a chain of tasks carried out by people with different profiles. You need to have resources to strengthen that chain. It’s good to remember that it’s not enough to simply ask authors for data – you have to follow the data along its entire path from the source as far as possible. That journey doesn’t end when we deposit it in Crossref: we can also deposit it in other repositories, find additional ways to disseminate it, and we must revisit it if we detect any recurring errors that can be corrected.</p>
+        <p>And now enjoy this acceptance video.</p>
+        <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+        padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+        border-radius: 8px; will-change: transform;">
+        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+        src="https://www.canva.com/design/DAGssqadV1c/w5SHN3-tL2wZz6Y10WVHOQ/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        </iframe>
+        </div>
+        <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGsxAyXmXs&#x2F;rOVOK6z99_UlaclRJHPekw&#x2F;watch?utm_content=DAGsxAyXmXs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"></a>]]>
+      </description>
+      <guid>https://www.crossref.org/blog/mejorando-la-visibilidad-a-trav%C3%A9s-de-los-metadatos-una-mirada-desde-editorial-csic/</guid>
+      <pubDate>2025-08-14T00:00:00Z</pubDate>
+    </item>    <item>
+      <title>Guest Post — Who Controls Knowledge in the Age of AI? Part 2, Recommendations for Stakeholders</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/13/guest-post-who-controls-knowledge-in-the-age-of-ai-part-2-recommendations-for-stakeholders/</link>
+      <description>
+        <![CDATA[<p>The MIT Press surveyed book authors on attitudes towards LLM training practices. In Part 2 of this 2 part post, we discuss recommendations for stakeholders to avoid unintended harms and preserve core scientific and academic values.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/13/guest-post-who-controls-knowledge-in-the-age-of-ai-part-2-recommendations-for-stakeholders/">Guest Post &#8212; Who Controls Knowledge in the Age of AI? Part 2, Recommendations for Stakeholders</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60858</guid>
+      <pubDate>2025-08-13T09:30:57Z</pubDate>
+    </item>    <item>
+      <title>Research Collection now available with new features</title>
+      <link>https://rc-blog.ethz.ch/en/research-collection-now-available-with-new-features/</link>
+      <description>
+        <![CDATA[The migration of the Research Collection has been successfully completed. Read more]]>
+      </description>
+      <guid>https://rc-blog.ethz.ch/?p=2868</guid>
+      <pubDate>2025-08-12T10:52:45Z</pubDate>
+    </item>    <item>
+      <title>Guest Post — Who Controls Knowledge in the Age of AI? Part 1</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/12/guest-post-who-controls-knowledge-in-the-age-of-ai-part-1/</link>
+      <description>
+        <![CDATA[<p>The MIT Press surveyed book authors on attitudes towards LLM training practices. In Part 1 of this 2 part post, we discuss the results: authors are not opposed to generative AI per se, but they are strongly opposed to unregulated, extractive practices and worry about the long-term impacts of unbridled generative AI development on the scholarly and scientific enterprise.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/12/guest-post-who-controls-knowledge-in-the-age-of-ai-part-1/">Guest Post &#8212; Who Controls Knowledge in the Age of AI? Part 1</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60856</guid>
+      <pubDate>2025-08-12T09:30:48Z</pubDate>
+    </item>    <item>
+      <title>We’ve migrated to the cloud; we hope you didn’t notice (but maybe you did)</title>
+      <link>https://www.crossref.org/blog/weve-migrated-to-the-cloud-we-hope-you-didnt-notice-but-maybe-you-did/</link>
+      <description>
+        <![CDATA[<p>TLDR: We&rsquo;ve successfully moved the main Crossref systems to the cloud! We’ve more to do, with several bugs identified and fixed, and a few still ongoing. However, it’s a step in the right direction and a significant milestone, as, whilst it is a much larger financial investment, it addresses several risks and limitations and shores up the Crossref infrastructure for the future.</p>
+        <h3 id="some-background">Some background</h3>
+        <p>We have been doing a lot of thinking, planning, and working on paying down our technical debt and modernising our systems. It’s not fun and flashy work, but it is vital for sustaining our infrastructure, meeting the demand on existing services, and developing new services.</p>
+        <p>Just about a year ago, we completed phase one, migrating our main database from Oracle to PostgreSQL, an open-source database. This move brought us more in line with our commitment to the <a href="https://www.crossref.org/categories/posi/">POSI principles</a>, reduced our dependencies on costly private licenses, and opened up the possibility to use and offer additional and more contemporary features. With the transition to PostgreSQL we made upgrades to the operating system, the database software, and the underlying hardware, resulting in significant improvements to the overall throughput and capacity of the deposit system. Previously, we typically maintained a queue of more than 10,000 deposits waiting to be processed; now, the queue holds fewer than 100 deposits on average. Consequently, the average latency – the elapsed time from submission to deposit – has reduced from hours to seconds.</p>
+        <p>During phase one, a total of 35 new servers were created, and for the first time, the entire system configuration was defined through <a href="https://en.wikipedia.org/wiki/Infrastructure_as_code" target="_blank">infrastructure-as-code</a>, enabling the infrastructure to be recreated as necessary. This effort not only enabled the migration but also established a solid foundation for our cloud migration strategy, as the code was leveraged to configure our infrastructure on AWS. Additionally, it serves as a critical component of our disaster recovery planning.</p>
+        <p>Most importantly, phase one set us up for phase two and our next migration: moving the system into the cloud.</p>
+        <h3 id="why-we-moved-to-the-cloud">Why we moved to the cloud</h3>
+        <p>We had been running most of our services in a physical data centre near Boston, MA, USA (there are a few exceptions: the <a href="api.crossref.org">REST API</a> and our test system (test.crossref.org) were already in the cloud, as was the Crossref website). We’ve been planning to move to the cloud for <em>ahem</em> quite some time, but as always, competing priorities and limited resources have thwarted us, and the data centre was mainly serving us well.</p>
+        <p>But… with staff across 12 countries, and increased global use of our system, operating our own hardware in a physical data centre was becoming increasingly challenging and risky, not to mention, frustrating.</p>
+        <p>Moving to the cloud has solved several pain points for us:</p>
+        <ul>
+        <li>Physical access to the data centre was required for various tasks (e.g., hardware upgrades, troubleshooting, general maintenance), but as Crossref grew as an organisation and became more distributed, we had fewer staff in the area. Hosting services in the cloud means staff around the world can access our servers remotely from anywhere (and we can leave the hardware upgrades to our vendor).</li>
+        <li>Scalability in the data centre required installing new hardware or upgrading connections, which also meant a good amount of time. In the cloud, we can scale up almost instantly.</li>
+        <li>We can maintain copies of our databases and services in distributed places, providing insurance against natural or other disasters.
+        Upgrades now don’t involve buying physical hardware and installing it; it’s a much quicker and more straightforward process.</li>
+        </ul>
+        <p>Moving from a physical data centre to the cloud also has some trade-offs; for instance, the cost will be approximately five times higher than running the system in the data centre; with initial data, it’s not unlikely the annual cost may be up to 2,000,000 USD. We aim to optimise and control this cost going forward.</p>
+        <h3 id="what-we-did">What we did</h3>
+        <p>The size of the undertaking was partly due to leaving it so long; technical debt has accumulated over many years of running the system in the data centre.</p>
+        <p>The whole plan was hugely detailed, but we can distil it to a few bullets:</p>
+        <ul>
+        <li>We conducted an analysis of components, considered risks and sequencing, and created a test plan and timeline, including comms.</li>
+        <li>While most of the drive and work was on the shoulders of two infrastructure services colleagues, our software engineers were heavily involved too, and we had weekly check-ins with a cross-team group to review progress, reassess risks, and adjust timelines as we got closer to the migration date (or decided to move it once or twice).</li>
+        <li>We first created the deposit system in the cloud.</li>
+        <li>We then created other parts of our services that aren’t in the deposit system code base, but run alongside it, such as reports, querying, and other tools.
+        We replicated our databases (of which there are several, in a few different flavours - PostgreSQL, MySQL).</li>
+        <li>We gave 14 days’ notice to our members, via email, and kept this maintenance notice up to date.</li>
+        <li>We commenced the migration on 8th July, which involved taking the whole system down and rejecting deposits for up to 24 hours.</li>
+        <li>In the process, we scripted the process to create CS and the other services using Terraform and Ansible, so that going forward, bringing up a whole new instance of CS (should we need to) won’t be a manual process.</li>
+        <li>We moved the DNS to point at our new system in the cloud, rather than the data centre. We brought the system back up on 9th July, after 14 hours of downtime, and watched the first few deposits come in, while testing thoroughly.</li>
+        <li>Alongside the technical team, the membership and support team was at the ready to work through the testing in the new live production environment.</li>
+        </ul>
+        <p>The message we sent to members, Metadata Plus subscribers, and key integrators like PKP and Turnitin, listed which services would be down and described what changes they might see, such as:</p>
+        <ul>
+        <li>The system timezone shifted from EST to UTC (universal coordinated time), which would be noticeable in the timestamps reported back to members after metadata deposits</li>
+        <li>Our IP address became dynamic and is no longer static. If members had hardcoded our previous IP static address to connect to our services, that would no longer work.</li>
+        <li>We previously allowed connections using the HTTP/1.0 protocol, but now require HTTP/1.1.
+        Likewise, we previously allowed TLS version 1.1, but now require at least version 1.2. Older ciphers will not work. A list of accepted ciphers can be found on <a href="https://docs.aws.amazon.com/elasticloadbalancing/latest/application/describe-ssl-policies.html#tls-security-policies" target="_blank">this page</a> for “ELBSecurityPolicy-TLS13-1-2-2021-06”.</li>
+        </ul>
+        <h3 id="how-it-went-and-whats-next">How it went and what’s next</h3>
+        <p>We still have more to do, with both expected and unexpected issues arising from the migration. There are a couple of functions that still route through the data centre, configuration changes to wrangle, and processes to iron out, so we’ll be keeping that open for another couple of months.</p>
+        <p>Those were the known issues…</p>
+        <p>…we also uncovered a few bugs along the way, and we’ve been reporting those (and our progress toward fixing them) on our status page. <a href="https://status.crossref.org/history" target="_blank">See history</a>.</p>
+        <p>A few diligent members also alerted us to problems they were having. In some cases, we could tell why, and in many cases, their systems needed to be upgraded to work with ours. Thanks go to mEDRA, Spandidos Publications, and Stichting SciPost who helped us identify gaps that resulted in configuration improvements and lessons learned (that we then shared with other members).</p>
+        <p>There were three issues that we were contacted about more than others:</p>
+        <ol>
+        <li><a href="https://status.crossref.org/incidents/scr3rtr8f4pm" target="_blank">Delayed delivery of notification emails</a> which is partly due to the volume of backlogged notification emails in the system.
+        <ul>
+        <li>Mostly solved: We have repaired delivery of notification emails for all metadata deposits and are working on a fix for the delivery of messages associated with very large queries.</li>
+        </ul>
+        </li>
+        <li><a href="https://status.crossref.org/incidents/nyr3g5b3h05v" target="_blank">A small percentage of registered records not being indexed in the REST API</a> - this can cause downstream issues for a number of other services (e.g., Crossref metadata search - search.crossref.org, Participation Reports, ORCID auto-update, and for external services that make use of the metadata from our REST API).
+        <ul>
+        <li>Mostly solved: All records in July are now indexed in the REST API, albeit we have new reports of a few records missing in the last week, which we are actively investigating.</li>
+        </ul>
+        </li>
+        <li><a href="https://status.crossref.org/incidents/9cdhzzvt1xt3" target="_blank">Delayed delivery of July’s resolution reports</a>.
+        <ul>
+        <li>Solved - not only has July’s resolution report run completed, but we also completed August’s ahead of schedule.</li>
+        </ul>
+        </li>
+        </ol>
+        <p>This migration was a significant effort, and 2025’s top priority project for the Open and Sustainable Operations (OSO) <a href="https://doi.org/10.64000/4s2ee-wkr84" target="_blank">program</a> team. Overall, we’re happy with our progress toward making Crossref infrastructure more robust, reliable, and future-proof. And judging by the messages of support we received, you are too! Onwards to the next infrastructure project… <a href="https://roadmap.productboard.com/e6fdeba8-a5b3-4aef-8104-d48863ba975e" target="_blank">check out our roadmap to see what’s up next</a>.</p>
+        <h3 id="references">References</h3>
+        <ol>
+        <li>&lsquo;Infrastructure as code&rsquo; (2025) <em>Wikipedia</em>, 12 August. Available at: <a href="https://en.wikipedia.org/wiki/Infrastructure_as_code" target="_blank">https://en.wikipedia.org/wiki/Infrastructure_as_code</a> (Accessed: 12 August 2025).</li>
+        <li>&lsquo;The programs approach: our experiences during the first quarter of 2025&rsquo; (2025) <em>Crossref</em>. Available at: <a href="https://doi.org/10.64000/4s2ee-wkr84" target="_blank">https://doi.org/10.64000/4s2ee-wkr84</a> (Accessed: 12 August 2025).</li>
+        </ol>]]>
+      </description>
+      <guid>https://www.crossref.org/blog/weve-migrated-to-the-cloud-we-hope-you-didnt-notice-but-maybe-you-did/</guid>
+      <pubDate>2025-08-12T00:00:00Z</pubDate>
+    </item>    <item>
+      <title>The Roman Hat Mystery, by Ellery Queen</title>
+      <link>https://standardebooks.org/ebooks/ellery-queen/the-roman-hat-mystery</link>
+      <description>
+        <![CDATA[A police detective and his son attempt to solve the murder of a man attending a play at the theater.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/ellery-queen/the-roman-hat-mystery/downloads/ellery-queen_the-roman-hat-mystery.epub?source=feed" length="1446082" type="application/epub+zip" />
+      <guid>https://standardebooks.org/ebooks/ellery-queen/the-roman-hat-mystery</guid>
+      <pubDate>2025-08-11T18:41:24Z</pubDate>
+    </item>    <item>
+      <title>NAIF Information event: Increasing the findability of Swiss research</title>
+      <link>https://rc-blog.ethz.ch/en/naif-information-event-increasing-the-findability-of-swiss-research/</link>
+      <description>
+        <![CDATA[With the NAIF (National Approach for Interoperable repositories and Findable research results) project aims to increase the visibility and findability of Swiss research output. Sign up for the information event! Read more]]>
+      </description>
+      <guid>https://rc-blog.ethz.ch/?p=2860</guid>
+      <pubDate>2025-08-11T12:49:25Z</pubDate>
+    </item>    <item>
+      <title>Guest Post — From Overhead to Essential: The FAIR Model Recognizes Research Information Services as Essential to the Research Enterprise</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/08/11/from-overhead-to-essential/</link>
+      <description>
+        <![CDATA[<p>FAIR represents the best opportunity of the models under consideration to ensure that research information services receive appropriate recognition and sustainable funding</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/11/from-overhead-to-essential/">Guest Post — From Overhead to Essential: The FAIR Model Recognizes Research Information Services as Essential to the Research Enterprise</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60847</guid>
+      <pubDate>2025-08-11T09:30:44Z</pubDate>
+    </item>
+  </channel>
+</rss>

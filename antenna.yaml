@@ -1,0 +1,108 @@
+port: 8000
+htdocs: .
+collections:
+    - title: Columns
+      file: columns.md
+      generator: front_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: columns.db
+    - title: Craft
+      file: craft.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: craft.db
+    - title: Food
+      file: food.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: food.db
+    - title: Going Electric
+      file: going_electric.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: going_electric.db
+    - title: Home, Garden and Urban Farm
+      file: home.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: home.db
+    - title: Journalism
+      file: journalism.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: journalism.db
+    - title: Libraries
+      file: libraries.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: libraries.db
+    - title: North America
+      file: north_america.md
+      generator: front_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: north_america.db
+    - title: Pacific
+      file: pacific.md
+      generator: front_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: pacific.db
+    - title: Planet
+      file: planet.md
+      generator: front_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: planet.db
+    - title: Retro Computing
+      file: retro_computing.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: retro_computing.db
+    - title: Science and Technology
+      file: science_and_technology.md
+      generator: front_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: science_and_technology.db
+    - title: Small Papers
+      file: small_papers.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: small_papers.db
+    - title: Snapshots
+      file: snapshots.md
+      generator: front_page.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: snapshots.db
+    - title: Writing
+      file: writing.md
+      generator: other_reading.yaml
+      filters:
+        - UPDATE items SET status = 'review';
+        - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
+      dbName: writing.db

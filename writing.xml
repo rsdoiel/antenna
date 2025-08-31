@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing</title>
+    <lastBuildDate>2025-08-30 19:25:27</lastBuildDate>
+    <generator>antenna/0.0.1</generator>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <item>
+      <title>Markdown support in reviews</title>
+      <link>https://ifdb.org/news?item=164</link>
+      <description>
+        <![CDATA[<p>IFDB reviews now allow you to use Markdown. Now you can type <code>*emphasis*</code> and get <i>italic text</i>, <code>**strong**</code> and get <b>bold text</b>, use backticks <code>`</code> to get monospaced code. Also numbered lists, bulleted lists, blockquotes, headings, and the whole jam. See "<a href="https://ifdb.org/help-formatting?review">Review Formatting Hints</a>" for details.</p>
+        
+        <details><summary>Additional details</summary>
+        <ul>
+        <li>Right now, Markdown is only available in reviews. It will require additional work to add Markdown to each text box in the site, e.g. comments, game descriptions, etc.</li>
+        <li>In order to avoid messing up existing reviews, we only render Markdown in reviews that have been modified since today's date, August 30. This means that if you edit a review and save it, it might look different than when you started editing it. But we did a bunch of tests and found that 90%+ of reviews aren’t transformed at all by adding Markdown support, and more than half of the remainder are improved by it (e.g. converting “*emphasis*” to “<i>emphasis</i>”). If Markdown is doing something you don't want it to do, try using a backslash <code>\</code> character before asterisks, underscores, etc.</li>
+        </ul>
+        </details>]]>
+      </description>
+      <guid>https://ifdb.org/news?item=164</guid>
+      <pubDate>2025-08-30T22:09:37Z</pubDate>
+    </item>    <item>
+      <title>Write On: &#39;The Toxic Avenger&#39; Writer/Director Macon Blair</title>
+      <link>https://blog.finaldraft.com/write-on-the-toxic-avenger-writer/director-macon-blair</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/write-on-the-toxic-avenger-writer/director-macon-blair" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20writerdirector%20Macon%20Blair%20-%20The%20Toxic%20Avenger.png" alt="Write On logo of a mobile device with headphones around it featuring the poster of 'The Toxic Avenger' on the screen. Sound waves display in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>“The thing that started it all off was me saying [the character Toxie] should be a guy in a suit. In other words, let’s not do a computer-generated creature, let’s have a person in a suit and have that handmade, hand-stitched kind of quality to it where you can sort of see the seams a little bit and have that be part of the fun. I also said let’s have it be rated R. Hopefully y’all are not interested in a family-friendly PG-13 version of this movie, because that’s not what the fans of the original are going to want, so let’s keep it in the R-zone. And let’s make sure it stays very silly. That silliness is what was so appealing to me about the original, and I just wanted to make sure that we weren’t going to try and do something that was too self-serious,” says <em>The Toxic Avenger</em> writer/director Macon Blair about pitching Legendary Studios his version of how he would reimagine the classic black comedy splatter film for a modern audience while staying loyal to the fans of the 1984 version.&nbsp;</p> 
+        <p>On today’s episode, we chat with writer/director/actor Macon Blair about his previous films like <em>Blue Ruin</em> and <em>I Don’t Feel at Home</em> <em>in This World Anymore</em>, which won the Sundance Grand Jury award in 2017. His latest film is a reboot of <em>The Toxic Avenger</em> starring Peter Dinklage and Kevin Bacon, and is a whole lot of gory, gross-out fun. Blair talks about the need to dig into the over-the-top absurdity of the franchise while still making the modern version of the story feel authentic.&nbsp;</p> 
+        <p>“I’m always looking for something that I can connect to on a personal level. I don’t mean autobiographical. I mean to be able to have that electrical current with what I’m typing out,” he says.</p> 
+        <p>Blair tells us about his on-going journey to finding his voice as a writer and what it was like waiting two years to get distribution for <em>The Toxic Avenger</em>. He also explains why he skewers a famous screenwriting trope in the film that involves a cat named Mr. Treats who was apparently quite the menace.</p> 
+        <p>To hear more insight, listen to the podcast.&nbsp;</p> 
+        <div> 
+         <div> 
+          <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+           <div class="hs-embed-content-wrapper"> 
+            <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/write-on-the-toxic-avenger-writer/director-macon-blair</guid>
+      <pubDate>2025-08-28T15:46:02Z</pubDate>
+    </item>    <item>
+      <title>How To Use Final Draft: The Beat Board™</title>
+      <link>https://blog.finaldraft.com/how-to-use-final-draft-the-beat-board</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/how-to-use-final-draft-the-beat-board" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20people%20sitting%20in%20a%20circle%20working%20on%20computers%20with%20the%20words%20Tech%20Tips%20off%20to%20the%20side.png" alt="Image of many writers seated on the floor in a half-circle seated outward typing on their computers. Tech Tips listed on the side of the image" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <h2>What Is a Beat Board?</h2> 
+        <p>Perhaps you’ve seen images of a TV writer’s room and noticed a whiteboard with a bunch of sticky notes attached to it or handwritten Sharpie notes. Or maybe you’ve watched a behind-the-scenes featurette on a Blu-ray and noticed a cork board at a production company’s office and it was similarly covered with sticky notes or index cards.&nbsp;<br><br>These boards are referred to as a “beat board” in the film and television industry. It’s extremely helpful to have a visual representation of a story when in the development process, and that’s why beat boards are frequently used by writers and producers.<br><br>Whether they’re on a sticky note or index card, what’s usually written is a <span style="font-weight: bold;">beat</span>. A beat is a smaller story event that happens within a larger sequence or narrative. Think of beats as the molecules of a screenplay or television script: they’re the little things that are holding everything together and helping to create a whole.&nbsp;</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/how-to-use-final-draft-the-beat-board</guid>
+      <pubDate>2025-08-28T15:27:16Z</pubDate>
+    </item>    <item>
+      <title>How Travis Braun Topped The Black List Two Years in a Row</title>
+      <link>https://blog.finaldraft.com/how-travis-braun-topped-the-black-list-two-years-in-a-row</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/how-travis-braun-topped-the-black-list-two-years-in-a-row" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Headshot%20of%20writer%20Travis%20Braun.png" alt="How Travis Braun Topped The Black List Two Years in a Row" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>It’s a feat to top the Black List, Hollywood’s list of favorite unproduced screenplays, any year. But what if you did it two years in a row?<br><br><a href="https://www.imdb.com/name/nm4136506/">Travis Braun </a>has been the only writer to accomplish this so far. In 2023, it was his horror script <span style="font-style: italic;">Bad Boy</span> that won the top spot; in 2024, rom-com <span style="font-style: italic;">One Night Only</span> was named the number-one work. Both are currently in development. <a href="https://deadline.com/2025/02/lili-reinhart-ke-huy-quan-horror-film-bad-boy-dog-efm-1236279194/" style="font-style: italic;">Bad Boy</a> has Ke Huy Quan and Lili Reinhart attached, while Monica Barbaro and Callum Turner are set to star in <a href="https://deadline.com/2025/08/monica-barbaro-callum-turner-one-night-only-will-gluck-1236481748/" style="font-style: italic;">One Night Only</a> for Universal.<br><br>Beyond this, Braun has already found a ton of success in the children’s TV space, with an Emmy nomination and an overall deal at Disney, where he created the shows <span style="font-style: italic;">Pupstruction, T.O.T.S.</span>, and <span style="font-style: italic;">Fast Layne</span>.<br><br>His new features fall outside the world of kids’ entertainment, though. <span style="font-style: italic;">Bad Boy</span> is about a dog who uncovers a serial killer, and <span style="font-style: italic;">One Night Only</span> follows the single night every year when extramarital sex is allowed. Both high-concept stories clearly resonated with readers eager for original plotlines.&nbsp;<br><br>The diversity of Braun’s slate is impressive, but there’s volume, as well. Which is probably how his work has found a home at some of Hollywood’s biggest networks and on coveted lists.<br><br>Final Draft chatted with Braun about his writing process, and he told us that there was no secret formula to it but rather a dedication to pursuing exciting ideas and cutting out noise. Dive into his advice below.<br><br><span style="font-style: italic;">Editor’s note: The following interview has been edited for length and clarity.</span><br><br><span style="font-weight: bold;">Final Draft: You topped the Black List two years in a row, and you were the first person to do so. What’s your secret?&nbsp;</span><br><br><span style="font-weight: bold;">Travis Braun</span>: Man, I don’t know. I wish there was a secret, then it would be a lot easier to write these scripts.&nbsp;<br><br>They’re always hard. Each one is its own challenge. I feel like every time you think you know how to write a script, or at least I think I know how to write a script, I start the next one and it’s a quick rude awakening that all the lessons from the last one just don’t apply to the next one. So it feels like you’re always making the tools as you’re trying to build the car. You need new tools for each type of car you’re building. I wish I knew the secret, but I’m still trying to figure that out.&nbsp;<br>&nbsp;<br>I think the biggest shift that I’ve made in the last four or five years was just really trying to tap into what excites me and cut out a lot of the noise, which is hard to do. And there’s a lot of voices out there from your reps to buyers, to producers, and everyone has a feeling of what’s going to work. And ultimately, it’s been me just trying to figure out, what do I love? What do I think is exciting, what entertains me, and trying to follow that North Star.<br><br><span style="font-weight: bold;">Final Draft: I’d love to explore that a little more because both of the scripts I mentioned, Bad Boy and One Night Only, they’re both high-concept. What attracts you to that space?</span><br><br><span style="font-weight: bold;">Travis Braun</span>: I’m always trying to find something that feels original. That’s why I live in Burbank. I go to the Burbank AMC three times a week, probably. I love that feeling of discovering something new.&nbsp;<br><br>That’s what I am trying to find in my writing too, is just chasing that feeling of what’s fresh, what’s a completely new take on a horror movie or a thriller or a romcom and just trying to find something that feels fresh and different and unexpected. Because as an audience member, as a lover of movies, that’s what I’m always looking for.<br></p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/how-travis-braun-topped-the-black-list-two-years-in-a-row</guid>
+      <pubDate>2025-08-28T15:22:25Z</pubDate>
+    </item>    <item>
+      <title>‘The Pickup’: The Reign of the Buddy Comedy Continues</title>
+      <link>https://blog.finaldraft.com/the-pickup-the-reign-of-the-buddy-comedy-continues</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/the-pickup-the-reign-of-the-buddy-comedy-continues" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Eddie%20Murphy%20and%20Pete%20Davidson%20try%20to%20regain%20control%20of%20a%20runaway%20truck%20in%20The%20Pickup.png" alt="Eddie Murphy and Pete Davidson try to regain control of a runaway truck in The Pickup" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>In 1982, a 22-year-old Eddie Murphy, who had already made a name for himself on <em>Saturday Night Live</em>, starred in his first movie: <em>48 Hrs</em>. He played a criminal who was paroled for 48 hours teaming up with a rough and tough cop to help track down a killer. By the end of the movie, they are friends.</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/the-pickup-the-reign-of-the-buddy-comedy-continues</guid>
+      <pubDate>2025-08-27T17:15:00Z</pubDate>
+    </item>    <item>
+      <title>The Coen Brothers’ Literary Influences: 4 Writers Who Shaped Their Films</title>
+      <link>https://blog.finaldraft.com/the-coen-brothers-literary-influences-4-writers-who-shaped-their-films</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/the-coen-brothers-literary-influences-4-writers-who-shaped-their-films" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Barton%20Fink.png" alt="The Coen Brothers’ Literary Influences: 4 Writers Who Shaped Their Films" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>The Coen Brothers have been major forces in American cinema for an astounding 40 years now, spanning genres from crime thriller to musical to stoner comedy, and always with a dark sense of humor. Though the Minnesota writing/directing/editing team of Joel and Ethan Coen haven’t made a film together since 2018’s <a href="https://www.imdb.com/title/tt6412452/?ref_=ext_shr_lnk" style="font-style: italic;">The Ballad of Buster Scruggs</a>, Joel is currently directing a film called <a href="https://deadline.com/2025/05/josh-o-connor-joel-coen-movie-jack-of-spades-baz-bamigboye-1236409439/" style="font-style: italic;">Jack Of Spades</a> starring Josh O’Connor in Scotland, and Ethan’s newest directorial effort, <a href="https://www.imdb.com/title/tt30645201/?ref_=ext_shr_lnk" style="font-style: italic;">Honey Don’t!</a>, co-written with his partner and <a href="https://www.imdb.com/title/tt19356262/?ref_=ext_shr_lnk" style="font-style: italic;">Drive Away Dolls</a> (2024) collaborator <a href="https://www.imdb.com/name/nm0177504/?ref_=ext_shr_lnk">Tricia Cooke</a>, premiered at the Cannes Film Festival in May and releases this month, frontlined by Margaret Qualley and Aubrey Plaza.&nbsp;<br><br><span style="font-style: italic;">Honey</span> takes its name from Qualley’s private investigator character, Honey O’Donahue, representing the latest in a long line of mystery and crime thriller characters from the Coens that take their roots in American crime fiction, going back to their debut feature, <a href="https://www.imdb.com/title/tt0086979/?ref_=ext_shr_lnk" style="font-style: italic;">Blood Simple</a> (1984). The brothers, together and apart, have created a specific tone, rich with literary layers, that’s all their own, in part by drawing on a deep well of influence. And while their movies are littered with cinematic allusions, they owe as great a debt to literature.&nbsp;<br><br>The brothers clearly love to read, and have done their fair share of literary adaptations, like Oscar-winning <a href="https://www.imdb.com/title/tt0477348/" style="font-style: italic;">No Country for Old Men</a> (2007) based on the Cormac McCarthy novel, their western hit based on Charles Portis’ <a href="https://www.imdb.com/title/tt1403865/" style="font-style: italic;">True Grit</a> (2010), and Joel Coen’s solo directorial effort adapting William Shakespeare in <a href="https://www.imdb.com/title/tt10095582/?ref_=ext_shr_lnk" style="font-style: italic;">The Tragedy of Macbeth</a> (2021), whose murder plot <a href="https://www.dga.org/Events/2022/February2022/Macbeth_QnA_1221">Coen compared</a> to the hard-boiled American crime fiction that influenced their films.&nbsp;<br><br>One that got away was an adaptation of James Dickey’s <a href="https://archive.nytimes.com/www.nytimes.com/books/98/08/30/specials/dickey-sea.html?scp=24&amp;sq=moral%20camouflage&amp;st=cse" style="font-style: italic;">To The White Sea</a>, about an American gunner who’s shot down over Tokyo during the WWII fire bombings, <a href="https://abcnews.go.com/Entertainment/story?id=116293&amp;page=1">which had Brad Pitt attached in the early 2000s</a>, but ultimately was too expensive to get off the ground. Additionally, one of their most acclaimed film’s features characters loosely based on real writers. The Palme d’or winning <a href="https://www.imdb.com/title/tt0101410/?ref_=ext_shr_lnk" style="font-style: italic;">Barton Fink</a> (1991) starred John Turturro as a playwright turned fledgling screenwriter with roots in Clifford Odets and George S. Kaufman, alongside another character depicted in the mold of William Faulkner, himself a great influence on the Coens.&nbsp;<br><br>On the other side of the spectrum are films where the cinematic influences are more apparent than the literary ones, like screwball comedies <a href="https://www.imdb.com/title/tt0093822/?ref_=ext_shr_lnk" style="font-style: italic;">Raising Arizona</a> (1987), which seems to meld the crime film <a href="https://www.imdb.com/title/tt0078326/?ref_=ext_shr_lnk" style="font-style: italic;">Straight Time</a> (1978) with the high speed action antics of Chuck Jones’ <a href="https://www.imdb.com/title/tt0041349/">Wile E. Coyote</a> cartoons and <a href="https://www.imdb.com/title/tt0082694/?ref_=ext_shr_lnk" style="font-style: italic;">The Road Warrior</a> (1981), and <a href="https://www.imdb.com/title/tt0110074/?ref_=ext_shr_lnk" style="font-style: italic;">The Hudsucker Proxy</a> (1994), a post-modern love letter to 40s comedy films by the likes of Frank Capra, Howard Hawks and Preston Sturges.&nbsp;<br><br>Their 2004 Tom Hanks vehicle <a href="https://www.imdb.com/title/tt0335245/?ref_=ext_shr_lnk" style="font-style: italic;">The Ladykillers</a> (2004) was a remake of the Ealing Studios British comedy film of the same name from 1955, itself littered with shades of Faulkner and Flannery O’Connor, whose influence can be seen across the filmography, while <a href="https://www.imdb.com/title/tt0138524/?ref_=ext_shr_lnk" style="font-style: italic;">Intolerable Cruelty</a> (2002) was developed from an existing romantic comedy screenplay.&nbsp;<br><br>But some of the Coens’ most significant movies aren’t necessarily literary adaptations or film genre homages, but original films where they’ve worked under the spectre of specifically cited literary figures. From hard-boiled detective fiction to Greek mythology, here are some of the foremost literary influences on the work of the Coen Brothers.</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/the-coen-brothers-literary-influences-4-writers-who-shaped-their-films</guid>
+      <pubDate>2025-08-27T16:12:55Z</pubDate>
+    </item>    <item>
+      <title>What Is a ‘Set Piece’ and How to Write One</title>
+      <link>https://blog.finaldraft.com/what-is-a-set-piece-and-how-to-write-one</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/what-is-a-set-piece-and-how-to-write-one" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Marvin%20Campbell%20and%20Joseph%20Gordon-Levitt%20in%20Inception.png" alt="Marvin Campbell and Joseph Gordon-Levitt in Inception" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>Every great movie has at least one great set piece, that cinematic moment that stands the test of time and is forever identified as the core identity of the movie.&nbsp;</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/what-is-a-set-piece-and-how-to-write-one</guid>
+      <pubDate>2025-08-27T16:08:35Z</pubDate>
+    </item>    <item>
+      <title>Go Beyond Your Genre: Why Writers Should Read Widely</title>
+      <link>https://www.literatureandlatte.com/blog/go-beyond-your-genre-why-writers-should-read-widely</link>
+      <guid>https://www.literatureandlatte.com/?p=7548</guid>
+      <pubDate>2025-08-27T06:00:00Z</pubDate>
+    </item>    <item>
+      <title>Connections</title>
+      <link>https://johnaugust.com/2025/connections</link>
+      <description>
+        <![CDATA[<p>John and Craig examine how to best use your connections to help yourself and others. They look at ways to identify the strength of a connection, leverage them without being manipulative, the nitty-gritty of approaching others for a favor, and the important ways to be generous in return. We also look at the good news [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2025/connections">Connections</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <guid>https://johnaugust.com/?p=23410</guid>
+      <pubDate>2025-08-26T15:30:53Z</pubDate>
+    </item>    <item>
+      <title>What Is An ‘Obstacle Driven’ Script and How to Write One</title>
+      <link>https://blog.finaldraft.com/what-is-an-obstacle-driven-script-and-how-to-write-one</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/what-is-an-obstacle-driven-script-and-how-to-write-one" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Man%20running%20down%20a%20hill%20away%20from%20a%20boulder%20rolling%20towards%20him.png" alt="Man running down a hill away from a boulder rolling towards him" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>Conflict is everything in a screenplay. Without conflict, there’s nothing to drive the story forward. Stories need characters to be struggling through conflict that they are either forced to deal with, or conflict that they’ve <em>chosen</em> to face.&nbsp;<br><br>There are two different forms of conflict in literary, stage, or cinematic narratives:</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/what-is-an-obstacle-driven-script-and-how-to-write-one</guid>
+      <pubDate>2025-08-26T15:23:48Z</pubDate>
+    </item>    <item>
+      <title>Resources on Copyright and AI: Updated FAQ and Position Paper on “Lawful Access” and Fair Use</title>
+      <link>https://www.authorsalliance.org/2025/08/26/resources-on-copyright-and-ai-updated-faq-and-position-paper-on-lawful-access-and-fair-use/</link>
+      <description>
+        <![CDATA[Authors are navigating change when it comes to copyright and artificial intelligence. We’re committed to developing and sharing practical resources [&#8230;]]]>
+      </description>
+      <guid>https://www.authorsalliance.org/?p=12126</guid>
+      <pubDate>2025-08-26T13:00:00Z</pubDate>
+    </item>    <item>
+      <title>Scriptnotes, Episode 699: How to Talk About Yourself, Transcript</title>
+      <link>https://johnaugust.com/2025/scriptnotes-episode-699-how-to-talk-about-yourself-transcript</link>
+      <description>
+        <![CDATA[<p>The original post for this episode can be found here. John August: Hello and welcome. My name is John August and you’re listening to episode 699 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, before you begin pitching a project, you need to be able [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2025/scriptnotes-episode-699-how-to-talk-about-yourself-transcript">Scriptnotes, Episode 699: How to Talk About Yourself, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <guid>https://johnaugust.com/?p=23404</guid>
+      <pubDate>2025-08-22T17:01:07Z</pubDate>
+    </item>    <item>
+      <title>Maximizing Impact with Concise Action Lines in Final Draft</title>
+      <link>https://blog.finaldraft.com/maximizing-impact-with-concise-action-lines-in-final-draft</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/maximizing-impact-with-concise-action-lines-in-final-draft" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Action_Lines.jpg" alt="Maximizing Impact with Concise Action Lines in Final Draft" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>Less is more. Screenwriters have been reading and hearing that phrase for years. But what does it really mean? It’s about being concise, especially when dealing with screenwriting action lines.&nbsp;<br><br>Less is more is the philosophy that restraint often has greater impact than excess. If you cut away the noise and clutter, what remains feels so much sharper, stronger, and more resonant. It helps maximize the impact of the information.&nbsp;<br><br>In screenwriting and, more specifically, while writing scene descriptions in your script’s action lines, “less is more” has a much deeper meaning. When you maximize your impact with more concise action lines and scene description, <span style="font-weight: bold;">you’re trusting the script reader</span>. It’s about trimming overly-descriptive action lines so the fewer words you use to communicate a cinematic moment actually makes that moment even more cinematic.&nbsp;<br><br>A screenplay isn’t about spelling everything out - it’s about sparking images in the reader’s mind and leaving space for the script readers, actors, directors, and crew to engage their own imagination to visualize the intent of each line of action you write. Using the tools outlined here, we’ll teach you how to write better action lines in your script.<br><br>Here we’ll delve into how to write great action lines in a screenplay using <a href="https://www.finaldraft.com/">Final Draft Screenwriting software</a>.&nbsp;</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/maximizing-impact-with-concise-action-lines-in-final-draft</guid>
+      <pubDate>2025-08-22T15:41:25Z</pubDate>
+    </item>    <item>
+      <title>‘Alien: Earth’: Sci-Fi World Building at Its Finest</title>
+      <link>https://blog.finaldraft.com/alien-earth-sci-fi-worldbuilding-at-its-finest</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/alien-earth-sci-fi-worldbuilding-at-its-finest" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Sydney%20Chandler%20in%20Alien_%20Earth.png" alt="Sydney Chandler in Alien: Earth" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p>There seems to be something unique about the 1970s. The decade was filled with political turmoil, the ending of the Vietnam War, global instability, government scandals and a hostage crisis in Iran. There were plenty of monsters in the newspapers, but audiences preferred our monsters on the movie theater screen. Science fiction had been mostly B-movie Roger Corman stories where rubber-suited creatures terrorized unsuspecting humans. <em>Star Wars</em> proved that people wanted more from their space adventures, while <em>Jaws</em> showed that audiences love to be scared.&nbsp;</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/alien-earth-sci-fi-worldbuilding-at-its-finest</guid>
+      <pubDate>2025-08-21T22:55:45Z</pubDate>
+    </item>    <item>
+      <title>“Keep falling in love with your idea”: ‘We Strangers’ Writer/Director Anu Valia talks Indie Filmmaking</title>
+      <link>https://blog.finaldraft.com/keep-falling-in-love-with-your-idea-we-strangers-writer/director-anu-valia-talks-indie-filmmaking</link>
+      <description>
+        <![CDATA[<div class="hs-featured-image-wrapper"> 
+         <a href="https://blog.finaldraft.com/keep-falling-in-love-with-your-idea-we-strangers-writer/director-anu-valia-talks-indie-filmmaking" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Kirby%20Howell-Baptiste%20in%20We%20Strangers%20%282%29.png" alt="Kirby Howell-Baptiste in We Strangers" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+        </div> 
+        <p><em>We Strangers</em> is a surprising and deeply personal study of race and class in small-town America. The story centers on Ray (Kirby Howell-Baptiste), a charming young woman living in Gary, Indiana who’s trying to make ends meet in the gig economy. While she’s determined to pay her bills, she discovers her integrity, self-worth and identity will be tested in unexpected ways.&nbsp;<br><br>Writer-director Anu Valia, a first-generation Indian American, grew up in the Midwest and says she understands the challenges of fitting in when you feel different from those around you. From an early age, she had to learn how to adapt to unfamiliar situations, but that skill also gave her resilience. “I feel like I became very good at tailoring who I was to the surroundings around me. It can be a great gift, a superpower even, but I started asking myself, ‘Where does that leave you? Who are you when you’re always being somebody else?’”</p>]]>
+      </description>
+      <guid>https://blog.finaldraft.com/keep-falling-in-love-with-your-idea-we-strangers-writer/director-anu-valia-talks-indie-filmmaking</guid>
+      <pubDate>2025-08-21T22:55:06Z</pubDate>
+    </item>    <item>
+      <title>Contractual Override: How Private Contracts Undermine the Goals of the Copyright Act for Libraries and Researchers, and What We Can Do About It</title>
+      <link>https://www.authorsalliance.org/2025/08/20/contractual-override-how-private-contracts-undermine-the-goals-of-the-copyright-act-for-libraries-and-researchers-and-what-we-can-do-about-it/</link>
+      <description>
+        <![CDATA[We’ve written before about the use of contracts limiting author’s access to fair use, including how publisher contracts restrict innovation [&#8230;]]]>
+      </description>
+      <guid>https://www.authorsalliance.org/?p=12119</guid>
+      <pubDate>2025-08-20T15:56:43Z</pubDate>
+    </item>    <item>
+      <title>Use Scrivener’s Outliner as a To-Do List for Your Writing Projects</title>
+      <link>https://www.literatureandlatte.com/blog/use-scriveners-outliner-as-a-to-do-list-for-your-writing-projects</link>
+      <guid>https://www.literatureandlatte.com/?p=7524</guid>
+      <pubDate>2025-08-20T07:00:00Z</pubDate>
+    </item>    <item>
+      <title>Scriptnotes, Episode 698: Movies that Never Were, Transcript</title>
+      <link>https://johnaugust.com/2025/scriptnotes-episode-698-movies-that-never-were-transcript</link>
+      <description>
+        <![CDATA[<p>The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to Episode 698 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, we discuss movies that [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2025/scriptnotes-episode-698-movies-that-never-were-transcript">Scriptnotes, Episode 698: Movies that Never Were, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <guid>https://johnaugust.com/?p=23396</guid>
+      <pubDate>2025-08-20T00:16:44Z</pubDate>
+    </item>    <item>
+      <title>The Live Call-In Show</title>
+      <link>https://johnaugust.com/2025/the-live-call-in-show</link>
+      <description>
+        <![CDATA[<p>To celebrate our 700th episode, John and Craig open the phone lines for a live late-night call-in show (recorded at 10 a.m. on a Wednesday). Through the power of Zoom (and YouTube), listeners ask questions about rewrites in post, avoiding traps as a production designer, changing characters in a rewrite, and advice on leaving the [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2025/the-live-call-in-show">The Live Call-In Show</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <guid>https://johnaugust.com/?p=23394</guid>
+      <pubDate>2025-08-19T15:51:05Z</pubDate>
+    </item>    <item>
+      <title>Reminder to Support Authors Alliance</title>
+      <link>https://www.authorsalliance.org/2025/08/19/reminder-to-support-authors-alliance/</link>
+      <description>
+        <![CDATA[So far this year, Authors Alliance has worked tirelessly to ensure that the voices of authors who write to advance [&#8230;]]]>
+      </description>
+      <guid>https://www.authorsalliance.org/?p=12116</guid>
+      <pubDate>2025-08-19T15:03:55Z</pubDate>
+    </item>    <item>
+      <title>How much can a screenwriter expect to earn from a hit film?</title>
+      <link>https://johnaugust.com/2025/how-much-can-a-screenwriter-expect-to-earn-from-a-hit-film</link>
+      <description>
+        <![CDATA[<p>What’s the estimated amount a writer could make from a blockbuster movie? I answer using two of my own films as examples.</p>
+        The post <a href="https://johnaugust.com/2025/how-much-can-a-screenwriter-expect-to-earn-from-a-hit-film">How much can a screenwriter expect to earn from a hit film?</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <guid>https://johnaugust.com/?p=23379</guid>
+      <pubDate>2025-08-18T21:22:54Z</pubDate>
+    </item>    <item>
+      <title>The 2025 Colossal Fundraiser has begun!</title>
+      <link>https://blog.ifcomp.org/post/792165104576774144</link>
+      <description>
+        <![CDATA[<p>Hello, friends. </p><p>We are just a couple of weeks away from this year’s IFComp games being released. Are you looking forward to them as much as we are?? IT&rsquo;S SO EXCITING!! <br/><small>(Unless you’re an author who is furiously testing and revising and recompiling and testing and revising and recompiling and… Good luck, authors! You can do it!)</small></p><p><b>While we eagerly await the new games to come, we’d like to ask for your help with the Colossal Fund.</b> If you already know about the fund and are able to contribute, please go to <a href="https://ifcomp.org/">ifcomp.org</a> and <b>hit that blue “Donate with PayPal”</b> button!</p><p><i>If you’d like more information first, keep on reading…</i></p><p>The Colossal Fund raises money for the cash prizes that are awarded to the top two-thirds of IFComp entries. We use 80% of the funds for that, and the remaining funds are used to provide support for the programs and projects of the <a href="https://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>, including the <a href="https://ifcomp.org/">Interactive Fiction Competition</a>, the <a href="https://ifarchive.org/">IF Archive</a>, the <a href="https://ifdb.org/">IFDB</a>, the forums at <a href="https://intfiction.org/">intfiction.org</a>, and other projects.</p><h2>This year, we are shooting for $8K.</h2><p><b>We’re now accepting donations for 2025!</b> <br/>The donation button is live at <a href="https://ifcomp.org/">IFComp.org</a>. See your name listed on our donor page (or listed as “anonymous” if you prefer)! <br/>Our fundraising deadline is October 15th - the last day of competition voting. 80% of the proceeds (~$6.4K if we hit our goal) will be distributed among the top two-thirds of IFComp finishers. </p><p><b>What does this mean for authors?</b> <br/>Because we’re dividing the money among the top two-thirds of games, the exact numbers depend on how many entries there are. If we have 75 entries, then we will divide the money among the top 50. If we hit our goal, that would mean that the winner of the competition will be offered a prize of $357, second place will be offered $343, third prize $329… and so on and so forth until 50th place, which will be offered $10.  Our goal is to distribute prizes across a broad range of IF styles and ideas. Any game which does even moderately well is offered a decent prize. (If you wanna get nerdy, there&rsquo;s information about the formula with a link to a Python script <a href="https://blog.ifcomp.org/post/162478013529/announcing-the-ifcomp-colossal-fund">here</a>.)</p><p><b>How do I donate?</b> <br/>Please go to https://ifcomp.org and push the big blue <i>Donate</i> button.</p><p><b>Is my donation tax-deductible?</b> <br/>Yes, to the extent allowed by law. (Consult a tax professional.)</p><p><b>Does the Colossal Fund replace the usual IFComp prize list?</b> <br/>Nope! These cash prizes will be in addition to the usual IFComp prize list. We do need more of those non-cash prizes as well! Please visit our prize page to see what objects and services others have donated, get ideas from donations given in previous years, and see how you can contribute.</p><p><b>How will the cash prizes be distributed?</b> <br/>Via PayPal or Venmo. (The IFComp entry form has a field for your Paypal address.) If you can’t accept PayPal or Venmo, we can mail a US check to a US address. If that doesn’t work for you, or if you wish to decline the cash prize, we will roll the money into next year’s prize fund, which means it will continue to support authors and IFTF programs.</p>]]>
+      </description>
+      <guid>https://blog.ifcomp.org/post/792165104576774144</guid>
+      <pubDate>2025-08-17T21:51:54Z</pubDate>
+    </item>    <item>
+      <title>When Your Publisher Isn’t the Dream Partner You Hoped For — What Counts as Material Breach of a Publishing Agreement?</title>
+      <link>https://www.authorsalliance.org/2025/08/15/when-your-publisher-isnt-the-dream-partner-you-hoped-for-what-counts-as-material-breach-of-a-publishing-agreement/</link>
+      <description>
+        <![CDATA[This is a guest post by Hana Khan-Tareen, who is a Legal Research Fellow at Georgetown University Law Center. We appreciate her insight on how authors can best protect their rights.]]>
+      </description>
+      <guid>https://www.authorsalliance.org/?p=12109</guid>
+      <pubDate>2025-08-15T18:12:57Z</pubDate>
+    </item>    <item>
+      <title>The Public Interest Corpus Update – NYC Edition</title>
+      <link>https://www.authorsalliance.org/2025/08/13/the-public-interest-corpus-update-nyc-edition/</link>
+      <description>
+        <![CDATA[Last month, a diverse set of stakeholders gathered at New York University Law School to contribute to an implementation plan [&#8230;]]]>
+      </description>
+      <guid>https://www.authorsalliance.org/?p=12097</guid>
+      <pubDate>2025-08-13T13:51:33Z</pubDate>
+    </item>    <item>
+      <title>7 Ways to View Word Counts in Scrivener Projects</title>
+      <link>https://www.literatureandlatte.com/blog/7-ways-to-view-word-counts-in-scrivener-projects</link>
+      <guid>https://www.literatureandlatte.com/?p=7489</guid>
+      <pubDate>2025-08-13T06:00:00Z</pubDate>
+    </item>    <item>
+      <title>How to Talk About Yourself</title>
+      <link>https://johnaugust.com/2025/how-to-talk-about-yourself</link>
+      <description>
+        <![CDATA[<p>Every writer has to pitch themselves, but how do you do it without sounding like a tool? John welcomes back Pamela Ribon (Nimona, My Year of Dicks) for a big talk about small talk and general meetings. They offer practical tips on what to expect, how to get people to open up, navigating NDAs, staying [&#8230;]</p>
+        The post <a href="https://johnaugust.com/2025/how-to-talk-about-yourself">How to Talk About Yourself</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
+      </description>
+      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/699standard.mp3" length="48590638" type="audio/mpeg" />
+      <guid>https://johnaugust.com/?p=23372</guid>
+      <pubDate>2025-08-12T15:18:20Z</pubDate>
+    </item>
+  </channel>
+</rss>

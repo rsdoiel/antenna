@@ -27,7 +27,7 @@ nav: |
     <li><a href="forecasts.html" "Selected NOAA forecasts">Weather</a></li>
   </ul>
 
-top_content: |
+topContent: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
 
 footer: >
