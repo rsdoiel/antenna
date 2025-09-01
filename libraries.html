@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-09-01T06:12:21-07:00">
+  <meta name="date" content="2025-09-01T16:06:52-07:00">
 </head>
 <body>
   <header>
@@ -867,6 +867,17 @@
       </address>
     </article>
 
+    <article data-published="2025-09-01T19:39:21Z" data-link="https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz">
+      <h1>The Road to Oz, by L. Frank Baum</h1>
+
+(date: 2025-09-01, from: <a href="https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz">Standard Ebooks, new releaases</a>)
+      <p>
+      A young girl takes a passerby down the road near her farm when they find themselves transported to another land.
+      <address>
+        <a href="https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz">https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</a>
+      </address>
+    </article>
+
     <article data-published="2025-09-01T13:04:59Z" data-link="https://rc-blog.ethz.ch/en/fit-in-research-data-management/">
       <h1>Fit in research data management</h1>
 
@@ -1114,7 +1125,7 @@
 <h2 id="how-have-you-integrated-these-into-your-metadata-processes">How have you integrated these into your metadata processes?</h2>
 <p>At submission, we collect ROR IDs for (a subset of) affiliations, and structured data for funding, datasets, and other information. Our publication model is centred around preprints, so it’s necessary to capture related information such as the preprint DOI, preprint posted date, the version that pertains to each specific revision (and so on). Without this information, we could not post public reviews to the correct preprint version on the preprint server, or indeed ensure the article we publish is the correct iteration of that work.</p>
 <p>The systems that enable the publication of eLife Reviewed preprints are dependent on <a href="https://docmaps.knowledgefutures.org/" target="_blank">DocMaps</a>, a framework for a machine-readable representation of the processes involved in the creation of a document. These are provided by our Data Hub and enable us to capture structured information about the peer review process and accompanying metadata for each article.</p>
-<p>Our proofing system for journal articles only permits login via <a href="https://orcid.org" target="_blank">ORCID authentication</a>, and we don’t capture unauthenticated ORCID IDs that have been copied or keyed (see <a href="https://info.orcid.org/whats-so-special-about-signing-in/" target="_blank">‘What’s So Special About Signing In?’)</a>. It also makes use of both the <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">Crossref API</a> and the <a href="https://pmc.ncbi.nlm.nih.gov/tools/developers/" target="_blank">PubMed Central API</a> to ensure we have persistent identifiers where possible for references. We have an in-house content validator, which uses <a href="https://ror.readme.io/docs/rest-api" target="_blank">ROR’s API</a> to ensure we have ROR IDs for affiliations and funders where possible. We use Software Heritage to archive author-generated code, and include their persistent ID <a href="https://www.softwareheritage.org/software-hash-identifier-swhid/" target="_blank">(SWHID)</a> in software references.</p>
+<p>Our proofing system for journal articles only permits login via <a href="https://orcid.org" target="_blank">ORCID authentication</a>, and we don’t capture unauthenticated ORCID IDs that have been copied or keyed (see <a href="https://info.orcid.org/whats-so-special-about-signing-in/" target="_blank">‘What’s So Special About Signing In?’)</a>). It also makes use of both the <a href="https://www.crossref.org/documentation/retrieve-metadata/rest-api/">Crossref API</a> and the <a href="https://pmc.ncbi.nlm.nih.gov/tools/developers/" target="_blank">PubMed Central API</a> to ensure we have persistent identifiers where possible for references. We have an in-house content validator, which uses <a href="https://ror.readme.io/docs/rest-api" target="_blank">ROR’s API</a> to ensure we have ROR IDs for affiliations and funders where possible. We use Software Heritage to archive author-generated code, and include their persistent ID <a href="https://www.softwareheritage.org/software-hash-identifier-swhid/" target="_blank">(SWHID)</a> in software references.</p>
 <p>All our published content is captured as <a href="https://jats.nlm.nih.gov/index.html" target="_blank">JATS XML</a> (the industry standard format for journal articles), which our metadata generation library uses as its input.</p>
 <h2 id="what-impact-of-good-metadata-can-you-see-for-your-organisation-is-it-supporting-the-business-andor-editorial-side-of-your-work">What impact of good metadata can you see for your organisation? Is it supporting the business and/or editorial side of your work?</h2>
 <p>Persistent identifiers are very useful for reporting. Creating a report that, for example, includes publication volumes from a particular institution is trivial when content is enriched with persistent identifiers. It’s more complex when all you have are messy author-supplied strings of text. They’re also useful for content validation. For example, when we have a persistent ID and a method to retrieve the related metadata, we can confirm that the information we’ve been provided is complete and correct.</p>
