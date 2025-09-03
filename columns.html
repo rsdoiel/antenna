@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-09-02T16:17:59-07:00">
+  <meta name="date" content="2025-09-03T06:06:56-07:00">
 </head>
 <body>
   <header>
@@ -38,6 +38,317 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-09-03T12:51:25Z" data-link="https://alexschroeder.ch/view/2025-09-02-feed">
+      <h1>2025-09-02 Feeds</h1>
+
+(date: 2025-09-03, from: <a href="https://alexschroeder.ch/view/2025-09-02-feed">Alex Schroeder's Blog</a>)
+      <p>
+      <h1 id="2025-09-02-feeds">2025-09-02 Feeds</h1>
+
+<p>I am once again thinking of the feed as a generic single-file export format (RSS or Atom, it doesn&rsquo;t matter to me). Does that make sense? Or would it make more sense to just zip HTML and images? The only benefit of using a feed is that the format is standardised, I guess.</p>
+
+<p>Feeds as an export format only if the feed items contain images as attachments or as data URIs 😨 I guess? I mean, feeds are good enough to feed the text of pages into a search engine like <a href="Xobaque">Xobaque</a>, but if the feed is supposed to act as real export format, the other assets are also important.</p>
+
+<p>And what happens if an image is used by two pages? The feed format would mean that both pages need to declare it as an attachment, no? So I&rsquo;m guessing, the feed as a universal import and export mechanism is just not good enough.</p>
+
+<p>Nevertheless, Oddμ has two feed exports on the command-line:</p>
+
+<ul>
+<li><a href="oddmu/oddmu-export.1">oddmu-export(1)</a>, to export all the pages in a single feed file. Use this for the initial load of a site into Xobaque.</li>
+<li><a href="oddmu/oddmu-feed.1">oddmu-feed(1)</a>, to render a feed for a single page. Use this for the initial load of a particular hashtag into Xobaque. Take <a href="Emacs">Emacs</a>, for example. If you just look at the <a href="Emacs.rss">online feed</a>, it contains the last ten items. The <code>feed</code> subcommand, on the other hand, generates a feed containing <em>all</em> the items.</li>
+</ul>
+
+<p>And yet, I think the <em>archive</em> action (not enabled on this site) is the more useful one, in general. Except the archive contains the Markdown files, not the HTML files. So you still need to run <a href="oddmu/oddmu-static.1">oddmu-static(1)</a> to generate the static site.</p>
+
+<p>Lately, I&rsquo;ve been writing a shell script to take an HTML export from <a href="Oddmuse">Oddmuse</a> sites and convert them to <a href="Odd%CE%BC">Oddμ</a> sites. This requires a conversion from HTML to Markdown (getting rid of the quirky wiki markup). I&rsquo;m using <a href="https://github.com/JohannesKaufmann/html-to-markdown">html2markdown</a> even though it&rsquo;s &ldquo;sponsored by 🔥 Firecrawl, where you can scrape any website and turn it into AI friendly markdown with one API call.&rdquo; 🤮 There are two alternatives written in Python: <a href="https://github.com/Alir3z4/html2text">html2text</a> translates HTML to text that happens to be Markdown; <a href="https://github.com/dlon/html2markdown">html2markdown</a> does that and preserves untranslated HTML. Something to keep in mind!</p>
+
+<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-09-02-feed">https://alexschroeder.ch/view/2025-09-02-feed</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T12:46:14Z" data-link="https://alexschroeder.ch/view/2025-08-15-xobaque">
+      <h1>2025-08-15 An opt-in search engine: Xobaque</h1>
+
+(date: 2025-09-03, from: <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">Alex Schroeder's Blog</a>)
+      <p>
+      <h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
+
+<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web.
+I called it <a href="Xobaque">Xobaque</a>.</p>
+
+<p>On <a href="https://www.emacswiki.org/emacs/2025-08-22">2025-08-22</a> I set it up to <a href="https://search.emacslife.com/">search Planet Emacslife</a>.</p>
+
+<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
+
+<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
+
+<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
+
+<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
+
+<p>Here are some examples of how to use this in a script.</p>
+
+<p>My homepage:</p>
+
+<pre><code>#!/usr/bin/fish
+cd /home/alex/alexschroeder.ch/wiki
+for line in (/home/oddmu/oddmu list)
+  set --local info (string split &quot;	&quot; $line)
+  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
+  set --local title $info[2]
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://alexschroeder.ch/view/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;$name.md&quot;
+end
+</code></pre>
+
+<p>Emacs Wiki:</p>
+
+<pre><code>#!/usr/bin/fish
+for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
+  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
+  set --local title (string replace '_' ' ' $name)
+  /home/xobaque/xobaque upload \
+    -db &quot;/home/xobaque/index.db&quot; \
+    -base &quot;https://www.emacswiki.org/emacs/&quot; \
+    -local &quot;$name&quot; \
+    -title &quot;$title&quot; \
+    -filename &quot;/home/alex/emacswiki/git/$name&quot;
+end
+</code></pre>
+
+<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
+
+<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
+
+<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
+
+<p><strong>2025-08-15</strong>. I have that vague idea that it would process OPML files like the <a href="https://planet.emacslife.com/opml.xml">Planet Emacslife OPML</a> or the three RPG Planet OPML files, <a href="https://campaignwiki.org/rpg/indie.opml">Indie</a>, <a href="https://campaignwiki.org/rpg/osr.opml">OSR</a> and <a href="https://campaignwiki.org/rpg/other.opml">Other</a>. From the OPML files Xobaque would know a bunch of feeds which it could then use for updates. I have written <a href="https://src.alexschroeder.ch/planet-jupiter.git/">Planet Jupiter</a>, so I know that from 80% to 90% is handling blogs that are down and from 90% to 100% it&rsquo;s all about fiddling with the markup… There&rsquo;s also the question of consent. So perhaps one would have to start a new list of feeds for those people who explicitly consent. And if by chance that covers all the feeds on Planet Emacslife or RPG Planet that&rsquo;d be a reason to laugh and party! 🎉</p>
+
+<p><strong>2025-08-17</strong>. Adding feeds and collections of feeds (via OPML files) works, now. 🎉</p>
+
+<p>The feed import from the net should use ETags and If-Modified-Since headers if possible, but the convenience functions of bot the feed and the OPML library don’t provide this, so I’ll have to roll my own. And then think of parallelising the requests. Go channels ahoy! 😬</p>
+
+<p>And then a web UI for uploads and accounts? 🥺</p>
+
+<p><strong>2025-08-19</strong>. Xobaque now knows how to skip feeds that haven’t updated using <code>If-Modified-Since</code> and <code>If-None-Match</code> headers.</p>
+
+<p><strong>2025-08-19</strong>. The errors I&rsquo;m finding in the feeds of Planet Emacslife OPML:</p>
+
+<pre><code>Error importing feed https://lifeofpenguin.blogspot.com/feeds/posts/default?alt=rss: XML syntax error on line 1: illegal character code U+FFFF
+Error importing feed https://blog.laurentcharignon.com/index.xml: XML syntax error on line 231: illegal character code U+0008
+Error importing feed http://feeds.feedburner.com/emacslife: parsing time &quot;Sat, 9 Aug 2025 18:00:43 GMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;9 Aug 2025 18:00:43 GMT&quot; as &quot;02&quot;
+Error importing feed https://www.unwoundstack.com/emacs-rss.xml: Get &quot;https://www.unwoundstack.com/emacs-rss.xml&quot;: net/http: TLS handshake timeout
+Error importing feed http://emacsmovies.org/atom.xml: parsing time &quot;Sun, 04 Dec 2022 08:19:18 8DecGMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;8DecGMT&quot; as &quot;MST&quot;
+</code></pre>
+
+<p>But I guess I have 248/253 feeds imported.</p>
+
+<p>Other issues I have noticed: Endless repeats of news items that overwrite each other, only differing in title and description, and no GUID set:</p>
+
+<pre><code> Update http://tromey.com/elpa/news.html
+</code></pre>
+
+<p>Then again, the items all have dates set from 2007 to 2010, so perhaps that&rsquo;s OK.</p>
+
+<p>And now I find:</p>
+
+<pre><code># ./xobaque search alex schroeder
+Emacs: Take Two
+https://takeonrules.com/2025/06/10/emacs-take-two/emacs-take-two
+extend &lt;span&gt;Emacs&lt;/span&gt;
+.&lt;/p&gt;
+&lt;p&gt;Third, learning of Alex Schroeder, both involved in &lt;abbr title=&quot;Role Playing Games&quot;&gt;RPGs
+</code></pre>
+
+<p>It works! And I really need to strip HTML, here! 😂</p>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">https://alexschroeder.ch/view/2025-08-15-xobaque</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T12:45:56Z" data-link="https://alexschroeder.ch/view/2025-08-28-online-safety">
+      <h1>2025-08-28 Online safety, maybe</h1>
+
+(date: 2025-09-03, from: <a href="https://alexschroeder.ch/view/2025-08-28-online-safety">Alex Schroeder's Blog</a>)
+      <p>
+      <h1 id="2025-08-28-online-safety-maybe">2025-08-28 Online safety, maybe</h1>
+
+<p>The longer I provide web services to strangers, the more I feel that data is toxic. I used to think I only had to worry about spam and vandalism, but with every regulator thinking that far more terrible material is just waiting to show up, and that they need to go after the recipients instead of the perpetrators, I&rsquo;m really starting to feel it.</p>
+
+<p>DMCA and its descendants all over the world were pretty bad when it came to the anti-circumvention clauses but pretty OK when it came to a lack of moderation. And I know, moderation is good. But I also like the fact that I can host a lot of wikis without having to moderate. Luckily, it wasn&rsquo;t necessary in the last 20 years (other than spam and vandalism). It&rsquo;s getting somewhat harder to be excited by it all, though.</p>
+
+<p>For example, the Online Safety Act in the UK basically requires moderation before publication (or geo-blocking the UK).</p>
+
+<p>Another example is my <a href="Xobaque">Xobaque</a> &ldquo;search engine with no crawler&rdquo; that relies on feeds to provide the pages to index. The feeds are untrusted data provided by strangers on the Internet. Should Xobaque check that the pages actually exist? Should I check that they are on-topic and don&rsquo;t violate the law? (In what jurisdictions?) Should I verify the identities of the people that upload the feeds? The people writing the feeds?</p>
+
+<p>Or should I just stand on the balcony and water the plants, listening to the drone of planes above and constant rumbling of cars in the distance, tending my garden, as it were.</p>
+
+<p>I suspect this is the beginning of chilling effects. For a short while, tinkering at home felt the same, whether it was a little something for the household or for &ldquo;the Internet&rdquo;. As it becomes clear that private and public spheres are in fact different, something must change. The first time I realised this was during the Napster days of copyright and music. The more this happens, the more I feel that online activity basically requires a lawyer, a company (the sacrificial lamb should you stumble somewhere on the way), and all the other contraptions of corporate life. Blech!</p>
+
+<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Surveillance">#Surveillance</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-08-28-online-safety">https://alexschroeder.ch/view/2025-08-28-online-safety</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T12:32:09Z" data-link="https://spectrumlocalnews.com/nys/central-ny/news/2025/09/02/pharmacists-decry-covid-vaccine-delay?fbclid=IwY2xjawMlFHlleHRuA2FlbQIxMQBicmlkETFrNUp5RGVyV2VMc2tDcHJIAR5FOAHhAkWp2DPPaz6x3bsicZDe1B5xP0Z8wjQLCTBIhKiT8x9b-QHceKZc7A_aem_HlxSfqEn5Us9Pk1Frs-9qA">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-03, from: <a href="https://spectrumlocalnews.com/nys/central-ny/news/2025/09/02/pharmacists-decry-covid-vaccine-delay?fbclid=IwY2xjawMlFHlleHRuA2FlbQIxMQBicmlkETFrNUp5RGVyV2VMc2tDcHJIAR5FOAHhAkWp2DPPaz6x3bsicZDe1B5xP0Z8wjQLCTBIhKiT8x9b-QHceKZc7A_aem_HlxSfqEn5Us9Pk1Frs-9qA">Dave's blog</a>)
+      <p>
+      <p>Pharmacists decry COVID Vaccine Delay.</p>
+      <address>
+        <a href="https://spectrumlocalnews.com/nys/central-ny/news/2025/09/02/pharmacists-decry-covid-vaccine-delay?fbclid=IwY2xjawMlFHlleHRuA2FlbQIxMQBicmlkETFrNUp5RGVyV2VMc2tDcHJIAR5FOAHhAkWp2DPPaz6x3bsicZDe1B5xP0Z8wjQLCTBIhKiT8x9b-QHceKZc7A_aem_HlxSfqEn5Us9Pk1Frs-9qA">https://spectrumlocalnews.com/nys/central-ny/news/2025/09/02/pharmacists-decry-covid-vaccine-delay?fbclid=IwY2xjawMlFHlleHRuA2FlbQIxMQBicmlkETFrNUp5RGVyV2VMc2tDcHJIAR5FOAHhAkWp2DPPaz6x3bsicZDe1B5xP0Z8wjQLCTBIhKiT8x9b-QHceKZc7A_aem_HlxSfqEn5Us9Pk1Frs-9qA</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T11:40:23Z" data-link="https://apnews.com/article/trump-chicago-baltimore-law-enforcement-6d7c80258f17c3d679358467531f7e9d">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-03, from: <a href="https://apnews.com/article/trump-chicago-baltimore-law-enforcement-6d7c80258f17c3d679358467531f7e9d">Dave's blog</a>)
+      <p>
+      <p>Trump says he's set to order federal intervention in Chicago and Baltimore.</p>
+      <address>
+        <a href="https://apnews.com/article/trump-chicago-baltimore-law-enforcement-6d7c80258f17c3d679358467531f7e9d">https://apnews.com/article/trump-chicago-baltimore-law-enforcement-6d7c80258f17c3d679358467531f7e9d</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T11:00:47Z" data-link="https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html">
+      <h1>Indirect Prompt Injection Attacks Against LLM Assistants</h1>
+
+(date: 2025-09-03, updated: 2025-09-02, from: <a href="https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html">Bruce Schneier blog</a>)
+      <p>
+      <p>Really good <a href="https://sites.google.com/view/invitation-is-all-you-need/home">research</a> on practical attacks against LLM agents.</p>
+<blockquote><p>&#8220;<a href="https://arxiv.org/abs/2508.12175">Invitation Is All You Need! Promptware Attacks Against LLM-Powered Assistants in Production Are Practical and Dangerous</a>&#8221;</p>
+<p><b>Abstract:</b> The growing integration of LLMs into applications has introduced new security risks, notably known as Promptware­&#8212;maliciously engineered prompts designed to manipulate LLMs to compromise the CIA triad of these applications. While prior research warned about a potential shift in the threat landscape for LLM-powered applications, the risk posed by Promptware is frequently perceived as low. In this paper, we investigate the risk Promptware poses to users of Gemini-powered assistants (web application, mobile application, and Google Assistant). We propose a novel Threat Analysis and Risk Assessment (TARA) framework to assess Promptware risks for end users. Our analysis focuses on a new variant of Promptware called Targeted Promptware Attacks, which leverage indirect prompt injection via common user interactions such as emails, calendar invitations, and shared documents. We demonstrate 14 attack scenarios applied against Gemini-powered assistants across five identified threat classes: Short-term Context Poisoning, Permanent Memory Poisoning, Tool Misuse, Automatic Agent Invocation, and Automatic App Invocation. These attacks highlight both digital and physical consequences, including spamming, phishing, disinformation campaigns, data exfiltration, unapproved user video streaming, and control of home automation devices. We reveal Promptware’s potential for on-device lateral movement, escaping the boundaries of the LLM-powered application, to trigger malicious actions using a device’s applications. Our TARA reveals that 73% of the analyzed threats pose High-Critical risk to end users. We discuss mitigations and reassess the risk (in response to deployed mitigations) and show that the risk could be reduced significantly to Very Low-Medium. We disclosed our findings to Google, which deployed dedicated mitigations...</p></blockquote>
+      <address>
+        <a href="https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html">https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T10:27:10Z" data-link="https://adactio.com/notes/22110">
+      <h1>Walking the walk with https://webdayout.com/</h1>
+
+(date: 2025-09-03, from: <a href="https://adactio.com/notes/22110">Jeremy Keith Blog</a>)
+      <p>
+      
+<img src="https://adactio.com/images/uploaded/22110/small.png" srcset="https://adactio.com/images/uploaded/22110/medium.png 1.5x, https://adactio.com/images/uploaded/22110/large.png 2.5x" alt="Walking the walk with https://webdayout.com/" />
+<p>Walking the walk with <a href="https://webdayout.com/">https://webdayout.com/</a></p>
+
+
+      <address>
+        <a href="https://adactio.com/notes/22110">https://adactio.com/notes/22110</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T10:23:04Z" data-link="https://www.theguardian.com/commentisfree/2025/sep/03/democrats-chuck-schumer-hakeem-jeffries">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-03, from: <a href="https://www.theguardian.com/commentisfree/2025/sep/03/democrats-chuck-schumer-hakeem-jeffries">Dave's blog</a>)
+      <p>
+      <p>It’s time for Chuck Schumer and Hakeem Jeffries to step down.</p>
+      <address>
+        <a href="https://www.theguardian.com/commentisfree/2025/sep/03/democrats-chuck-schumer-hakeem-jeffries">https://www.theguardian.com/commentisfree/2025/sep/03/democrats-chuck-schumer-hakeem-jeffries</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T08:37:07Z" data-link="https://www.nytimes.com/2025/09/02/opinion/trump-winning-imperial-presidency.html?unlocked_article_code=1.jE8.nZgO.LjUGVqiecpxy&smid=url-share">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-03, from: <a href="https://www.nytimes.com/2025/09/02/opinion/trump-winning-imperial-presidency.html?unlocked_article_code=1.jE8.nZgO.LjUGVqiecpxy&smid=url-share">Dave's blog</a>)
+      <p>
+      <p>Trump’s Most Fateful Teardown Is Happening Now.</p>
+      <address>
+        <a href="https://www.nytimes.com/2025/09/02/opinion/trump-winning-imperial-presidency.html?unlocked_article_code=1.jE8.nZgO.LjUGVqiecpxy&smid=url-share">https://www.nytimes.com/2025/09/02/opinion/trump-winning-imperial-presidency.html?unlocked_article_code=1.jE8.nZgO.LjUGVqiecpxy&smid=url-share</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T08:03:44Z" data-link="https://adactio.com/notes/22109">
+      <h1>Reading Yellowface by Rebecca F Kuang.</h1>
+
+(date: 2025-09-03, from: <a href="https://adactio.com/notes/22109">Jeremy Keith Blog</a>)
+      <p>
+      
+<p>Reading Yellowface by Rebecca F Kuang.</p>
+
+
+      <address>
+        <a href="https://adactio.com/notes/22109">https://adactio.com/notes/22109</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T08:02:26Z" data-link="https://robertreich.substack.com/p/office-hours-whom-should-future-historians">
+      <h1>Office Hours: Who is MOST responsible for this catastrophe, other than Trump?</h1>
+
+(date: 2025-09-03, from: <a href="https://robertreich.substack.com/p/office-hours-whom-should-future-historians">Robert Reich's blog</a>)
+      <p>
+      Several culprits
+      <address>
+        <a href="https://robertreich.substack.com/p/office-hours-whom-should-future-historians">https://robertreich.substack.com/p/office-hours-whom-should-future-historians</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T07:57:44Z" data-link="https://www.advocate.com/politics/homophobe-rand-paul-slams-daskalakis">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-03, from: <a href="https://www.advocate.com/politics/homophobe-rand-paul-slams-daskalakis">Dave's blog</a>)
+      <p>
+      <p>Homophobe Rand Paul slams gay health expert Daskalakis.</p>
+      <address>
+        <a href="https://www.advocate.com/politics/homophobe-rand-paul-slams-daskalakis">https://www.advocate.com/politics/homophobe-rand-paul-slams-daskalakis</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T04:17:04Z" data-link="https://heathercoxrichardson.substack.com/p/september-2-2025">
+      <h1>September 2, 2025</h1>
+
+(date: 2025-09-03, from: <a href="https://heathercoxrichardson.substack.com/p/september-2-2025">Heather Cox Richardson blog</a>)
+      <p>
+      In the early hours of Sunday morning, in the middle of a three-day holiday weekend, the Trump administration attempted to take children out of government custody and ship them alone to their country of origin, Guatemala.
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/september-2-2025">https://heathercoxrichardson.substack.com/p/september-2-2025</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-03T01:17:34Z" data-link="https://deadline.com/2025/09/google-antitrust-case-chrome-1236504408/">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-03, from: <a href="https://deadline.com/2025/09/google-antitrust-case-chrome-1236504408/">Dave's blog</a>)
+      <p>
+      <p>Google Won't Have To Sell Chrome Browser, Judge Rules In Antirust Case.</p>
+      <address>
+        <a href="https://deadline.com/2025/09/google-antitrust-case-chrome-1236504408/">https://deadline.com/2025/09/google-antitrust-case-chrome-1236504408/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-02T23:51:38Z" data-link="https://memex.naughtons.org/wednesday-3-september-2025/41165/">
+      <h1>Wednesday 3 September, 2025</h1>
+
+(date: 2025-09-02, from: <a href="https://memex.naughtons.org/wednesday-3-september-2025/41165/">John Naughton's online diary</a>)
+      <p>
+      David’s Along with Shakespeare and Company in Paris, and Paludan in Copenhagen, David’s in Cambridge is one of the world’s loveliest bookshops. The apartment above it is where John Maynard Keynes and his wife Lydia lived when they were in &#8230; <a href="https://memex.naughtons.org/wednesday-3-september-2025/41165/">Continue reading <span class="meta-nav">&#8594;</span></a>
+      <address>
+        <a href="https://memex.naughtons.org/wednesday-3-september-2025/41165/">https://memex.naughtons.org/wednesday-3-september-2025/41165/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-02T23:00:49Z" data-link="https://textjam.com/show/demo?df">
+      <h1>[Sponsor] TextJam</h1>
+
+(date: 2025-09-02, updated: 2025-09-02, from: <a href="https://textjam.com/show/demo?df">Daring Fireball</a>)
+      <p>
+      
+      <address>
+        <a href="https://textjam.com/show/demo?df">https://textjam.com/show/demo?df</a>
+      </address>
+    </article>
 
     <article data-published="2025-09-02T22:16:32Z" data-link="https://steady.substack.com/p/pain-in-the-aisle">
       <h1>Pain in the Aisle</h1>
@@ -564,36 +875,6 @@ The print is often considered the first editorial cartoon or as a precursor of t
 
       <address>
         <a href="https://adactio.com/notes/22105">https://adactio.com/notes/22105</a>
-      </address>
-    </article>
-
-    <article data-published="2025-09-02T09:22:25Z" data-link="https://alexschroeder.ch/view/2025-09-02-feed">
-      <h1>2025-09-02 Feeds</h1>
-
-(date: 2025-09-02, from: <a href="https://alexschroeder.ch/view/2025-09-02-feed">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-09-02-feeds">2025-09-02 Feeds</h1>
-
-<p>I am once again thinking of the feed as a generic single-file export format (RSS or Atom, it doesn&rsquo;t matter to me). Does that make sense? Or would it make more sense to just zip HTML and images? The only benefit of using a feed is that the format is standardised, I guess.</p>
-
-<p>Feeds as an export format only if the feed items contain images as attachments or as data URIs 😨 I guess? I mean, feeds are good enough to feed the text of pages into a search engine like <a href="https://src.alexschroeder.ch/xobaque.git">Xobaque</a>, but if the feed is supposed to act as real export format, the other assets are also important.</p>
-
-<p>And what happens if an image is used by two pages? The feed format would mean that both pages need to declare it as an attachment, no? So I&rsquo;m guessing, the feed as a universal import and export mechanism is just not good enough.</p>
-
-<p>Nevertheless, Oddμ has two feed exports on the command-line:</p>
-
-<ul>
-<li><a href="oddmu/oddmu-export.1">oddmu-export(1)</a>, to export all the pages in a single feed file</li>
-<li><a href="oddmu/oddmu-feed.1">oddmu-feed(1)</a>, to render a feed for a single page</li>
-</ul>
-
-<p>And yet, I think the <em>archive</em> action (not enabled on this site) is the more useful one. Except the archive contains the Markdown files, not the HTML files. So you still need to run <a href="oddmu/oddmu-static.1">oddmu-static(1)</a> to generate the static site.</p>
-
-<p>Lately, I&rsquo;ve been writing a shell script to take an HTML export from <a href="Oddmuse">Oddmuse</a> sites and convert them to <a href="Odd%CE%BC">Oddμ</a> sites. This requires a conversion from HTML to Markdown (getting rid of the quirky wiki markup). I&rsquo;m using <a href="https://github.com/JohannesKaufmann/html-to-markdown">html2markdown</a> even though it&rsquo;s &ldquo;sponsored by 🔥 Firecrawl, where you can scrape any website and turn it into AI friendly markdown with one API call.&rdquo; 🤮 There are two alternatives written in Python: <a href="https://github.com/Alir3z4/html2text">html2text</a> translates HTML to text that happens to be Markdown; <a href="https://github.com/dlon/html2markdown">html2markdown</a> does that and preserves untranslated HTML. Something to keep in mind!</p>
-
-<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a></p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-09-02-feed">https://alexschroeder.ch/view/2025-09-02-feed</a>
       </address>
     </article>
 
@@ -2166,31 +2447,6 @@ commit id: "Gianni, please say a few words."
       
       <address>
         <a href="https://heathercoxrichardson.substack.com/p/august-27-2025-d47">https://heathercoxrichardson.substack.com/p/august-27-2025-d47</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-28T20:02:18Z" data-link="https://alexschroeder.ch/view/2025-08-28-online-safety">
-      <h1>2025-08-28 Online safety, maybe</h1>
-
-(date: 2025-08-28, from: <a href="https://alexschroeder.ch/view/2025-08-28-online-safety">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-08-28-online-safety-maybe">2025-08-28 Online safety, maybe</h1>
-
-<p>The longer I provide web services to strangers, the more I feel that data is toxic. I used to think I only had to worry about spam and vandalism, but with every regulator thinking that far more terrible material is just waiting to show up, and that they need to go after the recipients instead of the perpetrators, I&rsquo;m really starting to feel it.</p>
-
-<p>DMCA and its descendants all over the world were pretty bad when it came to the anti-circumvention clauses but pretty OK when it came to a lack of moderation. And I know, moderation is good. But I also like the fact that I can host a lot of wikis without having to moderate. Luckily, it wasn&rsquo;t necessary in the last 20 years (other than spam and vandalism). It&rsquo;s getting somewhat harder to be excited by it all, though.</p>
-
-<p>For example, the Online Safety Act in the UK basically requires moderation before publication (or geo-blocking the UK).</p>
-
-<p>Another example is my <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a> &ldquo;search engine with no crawler&rdquo; that relies on feeds to provide the pages to index. The feeds are untrusted data provided by strangers on the Internet. Should Xobaque check that the pages actually exist? Should I check that they are on-topic and don&rsquo;t violate the law? (In what jurisdictions?) Should I verify the identities of the people that upload the feeds? The people writing the feeds?</p>
-
-<p>Or should I just stand on the balcony and water the plants, listening to the drone of planes above and constant rumbling of cars in the distance, tending my garden, as it were.</p>
-
-<p>I suspect this is the beginning of chilling effects. For a short while, tinkering at home felt the same, whether it was a little something for the household or for &ldquo;the Internet&rdquo;. As it becomes clear that private and public spheres are in fact different, something must change. The first time I realised this was during the Napster days of copyright and music. The more this happens, the more I feel that online activity basically requires a lawyer, a company (the sacrificial lamb should you stumble somewhere on the way), and all the other contraptions of corporate life. Blech!</p>
-
-<p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Surveillance">#Surveillance</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-08-28-online-safety">https://alexschroeder.ch/view/2025-08-28-online-safety</a>
       </address>
     </article>
 
@@ -4586,6 +4842,17 @@ This uses a new feature of <code>awk</code> that we haven&rsquo;t used before. Y
       </address>
     </article>
 
+    <article data-published="2025-08-24T00:26:17Z" data-link="https://phoenix.new/?utm_source=df">
+      <h1>Phoenix.new</h1>
+
+(date: 2025-08-24, updated: 2025-08-24, from: <a href="https://phoenix.new/?utm_source=df">Daring Fireball</a>)
+      <p>
+      
+      <address>
+        <a href="https://phoenix.new/?utm_source=df">https://phoenix.new/?utm_source=df</a>
+      </address>
+    </article>
+
     <article data-published="2025-08-24T00:23:00Z" data-link="https://ghuntley.com/agent/">
       <h1>how to build a coding agent: free workshop</h1>
 
@@ -4671,110 +4938,6 @@ This uses a new feature of <code>awk</code> that we haven&rsquo;t used before. Y
       What I like best about Keith Teare&#8216;s latest essay, Who Owns The Front Door to AI? If it isn&#8217;t you, its game over, is that it sounds like he&#8217;s setting up the case for personal AI. But he&#8217;s not. He&#8217;s describing how our AI-assisted lives will get sucked through better interfaces deep into one or more [&#8230;]
       <address>
         <a href="https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/">https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-23T20:14:12Z" data-link="https://alexschroeder.ch/view/2025-08-15-xobaque">
-      <h1>2025-08-15 An opt-in search engine: Xobaque</h1>
-
-(date: 2025-08-23, from: <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
-
-<p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web.
-I called it <a href="https://src.alexschroeder.ch/xobaque.git/">Xobaque</a>.</p>
-
-<p>On <a href="https://www.emacswiki.org/emacs/2025-08-22">2025-08-22</a> I set it up to <a href="https://search.emacslife.com/">search Planet Emacslife</a>.</p>
-
-<p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
-
-<p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
-
-<p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
-
-<p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
-
-<p>Here are some examples of how to use this in a script.</p>
-
-<p>My homepage:</p>
-
-<pre><code>#!/usr/bin/fish
-cd /home/alex/alexschroeder.ch/wiki
-for line in (/home/oddmu/oddmu list)
-  set --local info (string split &quot;	&quot; $line)
-  set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
-  set --local title $info[2]
-  /home/xobaque/xobaque upload \
-    -db &quot;/home/xobaque/index.db&quot; \
-    -base &quot;https://alexschroeder.ch/view/&quot; \
-    -local &quot;$name&quot; \
-    -title &quot;$title&quot; \
-    -filename &quot;$name.md&quot;
-end
-</code></pre>
-
-<p>Emacs Wiki:</p>
-
-<pre><code>#!/usr/bin/fish
-for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
-  set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
-  set --local title (string replace '_' ' ' $name)
-  /home/xobaque/xobaque upload \
-    -db &quot;/home/xobaque/index.db&quot; \
-    -base &quot;https://www.emacswiki.org/emacs/&quot; \
-    -local &quot;$name&quot; \
-    -title &quot;$title&quot; \
-    -filename &quot;/home/alex/emacswiki/git/$name&quot;
-end
-</code></pre>
-
-<p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
-
-<p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
-
-<p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
-
-<p><strong>2025-08-15</strong>. I have that vague idea that it would process OPML files like the <a href="https://planet.emacslife.com/opml.xml">Planet Emacslife OPML</a> or the three RPG Planet OPML files, <a href="https://campaignwiki.org/rpg/indie.opml">Indie</a>, <a href="https://campaignwiki.org/rpg/osr.opml">OSR</a> and <a href="https://campaignwiki.org/rpg/other.opml">Other</a>. From the OPML files Xobaque would know a bunch of feeds which it could then use for updates. I have written <a href="https://src.alexschroeder.ch/planet-jupiter.git/">Planet Jupiter</a>, so I know that from 80% to 90% is handling blogs that are down and from 90% to 100% it&rsquo;s all about fiddling with the markup… There&rsquo;s also the question of consent. So perhaps one would have to start a new list of feeds for those people who explicitly consent. And if by chance that covers all the feeds on Planet Emacslife or RPG Planet that&rsquo;d be a reason to laugh and party! 🎉</p>
-
-<p><strong>2025-08-17</strong>. Adding feeds and collections of feeds (via OPML files) works, now. 🎉</p>
-
-<p>The feed import from the net should use ETags and If-Modified-Since headers if possible, but the convenience functions of bot the feed and the OPML library don’t provide this, so I’ll have to roll my own. And then think of parallelising the requests. Go channels ahoy! 😬</p>
-
-<p>And then a web UI for uploads and accounts? 🥺</p>
-
-<p><strong>2025-08-19</strong>. Xobaque now knows how to skip feeds that haven’t updated using <code>If-Modified-Since</code> and <code>If-None-Match</code> headers.</p>
-
-<p><strong>2025-08-19</strong>. The errors I&rsquo;m finding in the feeds of Planet Emacslife OPML:</p>
-
-<pre><code>Error importing feed https://lifeofpenguin.blogspot.com/feeds/posts/default?alt=rss: XML syntax error on line 1: illegal character code U+FFFF
-Error importing feed https://blog.laurentcharignon.com/index.xml: XML syntax error on line 231: illegal character code U+0008
-Error importing feed http://feeds.feedburner.com/emacslife: parsing time &quot;Sat, 9 Aug 2025 18:00:43 GMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;9 Aug 2025 18:00:43 GMT&quot; as &quot;02&quot;
-Error importing feed https://www.unwoundstack.com/emacs-rss.xml: Get &quot;https://www.unwoundstack.com/emacs-rss.xml&quot;: net/http: TLS handshake timeout
-Error importing feed http://emacsmovies.org/atom.xml: parsing time &quot;Sun, 04 Dec 2022 08:19:18 8DecGMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;8DecGMT&quot; as &quot;MST&quot;
-</code></pre>
-
-<p>But I guess I have 248/253 feeds imported.</p>
-
-<p>Other issues I have noticed: Endless repeats of news items that overwrite each other, only differing in title and description, and no GUID set:</p>
-
-<pre><code> Update http://tromey.com/elpa/news.html
-</code></pre>
-
-<p>Then again, the items all have dates set from 2007 to 2010, so perhaps that&rsquo;s OK.</p>
-
-<p>And now I find:</p>
-
-<pre><code># ./xobaque search alex schroeder
-Emacs: Take Two
-https://takeonrules.com/2025/06/10/emacs-take-two/emacs-take-two
-extend &lt;span&gt;Emacs&lt;/span&gt;
-.&lt;/p&gt;
-&lt;p&gt;Third, learning of Alex Schroeder, both involved in &lt;abbr title=&quot;Role Playing Games&quot;&gt;RPGs
-</code></pre>
-
-<p>It works! And I really need to strip HTML, here! 😂</p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-08-15-xobaque">https://alexschroeder.ch/view/2025-08-15-xobaque</a>
       </address>
     </article>
 
@@ -6460,449 +6623,6 @@ I tried <code>sudo apt upgrade</code> and I guess something didn&rsquo;t work (s
       
       <address>
         <a href="https://anildash.com/2025/08/20/moving_money_ain%E2%80%99t_building_a_business/">https://anildash.com/2025/08/20/moving_money_ain%E2%80%99t_building_a_business/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T23:28:20Z" data-link="https://memex.naughtons.org/wednesday-20-august-2025/41127/">
-      <h1>Wednesday 20 August, 2025</h1>
-
-(date: 2025-08-19, from: <a href="https://memex.naughtons.org/wednesday-20-august-2025/41127/">John Naughton's online diary</a>)
-      <p>
-      Riverside Eastern bank of the Rhone in Arles on a peaceful Summer evening. Quote of the Day ”When you stop doing things for fun you might as well be dead.” Ernest Hemingway He was as good as his word. Musical &#8230; <a href="https://memex.naughtons.org/wednesday-20-august-2025/41127/">Continue reading <span class="meta-nav">&#8594;</span></a>
-      <address>
-        <a href="https://memex.naughtons.org/wednesday-20-august-2025/41127/">https://memex.naughtons.org/wednesday-20-august-2025/41127/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T23:28:12Z" data-link="https://kottke.org/25/08/0047352-teaser-trailer-for-season">
-      <h1> Teaser trailer for season two of Fallout. My son and I really... </h1>
-
-(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://kottke.org/25/08/0047352-teaser-trailer-for-season">Jason Kittke's blog</a>)
-      <p>
-      
-      <address>
-        <a href="https://kottke.org/25/08/0047352-teaser-trailer-for-season">https://kottke.org/25/08/0047352-teaser-trailer-for-season</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T22:00:39Z" data-link="https://robertreich.substack.com/p/how-your-kids-will-make-money">
-      <h1>How your kids will make money</h1>
-
-(date: 2025-08-19, from: <a href="https://robertreich.substack.com/p/how-your-kids-will-make-money">Robert Reich's blog</a>)
-      <p>
-      In a world of AI
-      <address>
-        <a href="https://robertreich.substack.com/p/how-your-kids-will-make-money">https://robertreich.substack.com/p/how-your-kids-will-make-money</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T21:03:57Z" data-link="https://heathercoxrichardson.substack.com/p/august-18-2025-044">
-      <h1>August 18, 2025</h1>
-
-(date: 2025-08-19, from: <a href="https://heathercoxrichardson.substack.com/p/august-18-2025-044">Heather Cox Richardson blog</a>)
-      <p>
-      
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/august-18-2025-044">https://heathercoxrichardson.substack.com/p/august-18-2025-044</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T20:49:11Z" data-link="https://citationneeded.news/justin-sun-bloomberg-lawsuit">
-      <h1>Published on Citation Needed: "As he builds US power, Justin Sun fights to control his story"</h1>
-
-(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://citationneeded.news/justin-sun-bloomberg-lawsuit">Molly White blogs</a>)
-      <p>
-      
-      <address>
-        <a href="https://citationneeded.news/justin-sun-bloomberg-lawsuit">https://citationneeded.news/justin-sun-bloomberg-lawsuit</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T19:00:00Z" data-link="https://blog.jim-nielsen.com/2025/consistent-nav-across-inconsistent-sites-pt-ii/">
-      <h1>Consistent Navigation Across My Inconsistent Websites, Part II</h1>
-
-(date: 2025-08-19, from: <a href="https://blog.jim-nielsen.com/2025/consistent-nav-across-inconsistent-sites-pt-ii/">Jim Nielsen blog</a>)
-      <p>
-      <p>I refreshed the little thing that let’s you <a href="https://blog.jim-nielsen.com/2024/consistent-nav-across-inconsistent-sites/" >navigate consistently between my inconsistent subdomains</a> (<a href="https://cdn.jim-nielsen.com/blog/2025/new-pill-video.mp4" >video recording</a>).</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-animation.gif" width="305" height="245" alt="Animated gif of a dynamic-island like control that expands smoothly up when clicked to reveal additional selection options." />
-
-</p><p>Here’s the tl;dr on the update:</p>
-<ul>
-<li>I had to remove some features on each site to make this feel right.<ul>
-<li>Takeaway: adding stuff is easy, removing stuff is hard.</li>
-</ul>
-</li>
-<li>The element is a web component and not even under source control (🤫). I serve it directly from <a href="https://blog.jim-nielsen.com/2019/netlify-public-folder-part-i-what/" >my cdn</a>. If I want to make an update, I tweak the file on disk and <a href="https://blog.jim-nielsen.com/2024/deploying-with-netlify-shortcuts/" >re-deploy</a>.<ul>
-<li>Takeaway: cowboy codin’, yee-haw! Live free and die hard.</li>
-</ul>
-</li>
-<li>So. Many. Iterations. All of which led to what? A small, iterative evolution. <ul>
-<li>Takeaway: it’s ok for design explorations to culminate in updates that look more like an evolution than a mutation.</li>
-</ul>
-</li>
-</ul>
-<p>Want more info on the behind-the-scenes work? Read on!</p>
-<h2 id="design-explorations">Design Explorations</h2>
-<p>It might look like a simple iteration on what I previously had, but that doesn’t mean I didn’t explore the universe of possibilities first before coming back to the current iteration.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-explorations.png" width="976" height="834" alt="Screenshot of a Figma canvas with lots of artboards too small to see but denoting a lot of iterations." />
-
-</p><h3 id="v0-tabs">v0: Tabs!</h3>
-<p>A tab-like experience seemed the most natural, but how to represent it? I tried a few different ideas. On top. On bottom. Different visual styles, etc.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v0.png" width="922" height="668" alt="3 mobile-sized UI mockups of a blog post with different navigation bars." />
-
-</p><p>And of course, gotta explore how that plays out on desktop too.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v0-desktop.png" width="2363" height="752" alt="Three desktop-sized UI mockups of a blog post with different navigation bars." />
-
-</p><p>Some I liked, some I didn’t. As much as I wanted to play with going to the edges of the viewport, I realized that every browser is different and you won&#39;t be able to get a consistent “bleed-like” visual experience across browsers. For example, if you try to make tabs that bleed to the edges, it looks nice in a frame in Figma, and even in some browsers. But it won’t look right in all browser, like iOS Safari.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v0-tabs.png" width="1348" height="550" alt="Mobile UI mockups showing a folder-style segmented tab control. One is in the frame of an iPhone where the control bleeds up into the restricted space where the dynamic island lives as well as down into the website. Whereas the other mockup is in a frame in Figma, so the highlighted tab only bleeds down into the website." />
-
-</p><p>So I couldn’t reliably leverage the idea of a bounded canvas as a design element — which, I should’ve known, has always been the case with the web.</p>
-<h3 id="v1-bottom-tabs-with-a-site-theme">v1: Bottom Tabs With a Site Theme</h3>
-<p>I really like this pattern on mobile devices, so I thought maybe I’d consider it for navigating between my sites.</p>
-<p>But how to theme across differently-styled sites? The favicon styles seemed like a good bet!</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v1.png" width="939" height="682" alt="Mobile-sized mocksups with a bottom tab bar whose active highlight color changes with the active color of each subdomain." />
-
-</p><p>And, of course, what do to on larger devices? Just stacking it felt like overkill, so I explored moving it to the edge.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v1-desktop.png" width="1591" height="758" alt="Desktop-sized mocks with tab controls on the far left of the page and the active site is higlighted according to the site's active theme color." />
-
-</p><p>I actually prototyped this in code, but I didn’t like how it felt so I scratched the idea and went other directions.</p>
-<h2 id="v2-the-unification">v2: The Unification</h2>
-<p>The more I explored what to do with this element, the more it started taking on additional responsibility.</p>
-<p>“What if I unified its position <em>with</em> site-specific navigation?” I thought.</p>
-<p>This led to design explorations where the disparate subdomains began to take on not just a unified navigational element, but a unified header.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v2-1.png" width="899" height="645" alt="Mobile-sized UI mocks for Home, Blog, and Notes on jim-nielsen.com" />
-
-</p><p>And I made small, stylistic explorations with the tabs themselves too.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v2-2.png" width="885" height="645" alt="Mobile-sized UI mocks for Home, Blog, and Notes on jim-nielsen.com" />
-
-</p><p>You can see how I played toyed with the idea of a consistent header across all my sites (not an intended goal, but ya know, scope creep gets us all).</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v2-3.png" width="594" height="398" alt="Different header + navigation styles for submdomains on jim-nielsen.com including a hamburger button." />
-
-</p><p>As I began to explore more possibilities than I planned for, things started to get out of hand.</p>
-<h2 id="v3-do-more-more-more">v3: Do More. MORE. MORE!!</h2>
-<p>Questions I began asking:</p>
-<ul>
-<li>Why aren’t these all under the same domain?!</li>
-<li>What if I had a single domain for feeds across all of them, e.g. <code>feeds.jim-nielsen.com</code>?</li>
-<li>What about icons instead of words?</li>
-</ul>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v3.png" width="1184" height="659" alt="Four mobile-sized mockups for subdomains on jim-nielsen.com, each one getting a different highlight color." />
-
-</p><p>Wait, wait, wait Jim. Consistent navigation across inconsistent sites. That’s the goal. Pare it back a little.</p>
-<h2 id="v4-reigning-it-back-in">v4: Reigning It Back In</h2>
-<p>To counter my exploratory ambitions, I told myself I needed to ship something without the need to modify the entire design style of all my sites.</p>
-<p>So how do I do that?</p>
-<p>That got me back to a simpler premise: consistent navigation across my inconsistent sites.</p>
-<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/new-pill-v4.png" width="1070" height="768" alt="Dynamic-island-like navigational pill for the subdomains on www, blog, and notes subdomains of jim-nielsen.com" />
-
-</p><p>Better — and implementable.</p>
-<h2 id="technical-details">Technical Details</h2>
-<p>The implementation was pretty simple. I basically just forked my previous web component and changed some styles. That’s it.</p>
-<p>The only thing I did different was I moved the web component JS file from being part of my <code>www.jim-nielsen.com</code> git repository to a standalone file (not under git control) on my CDN.</p>
-<p>This felt like one of the exceptions to the rule of always keeping stuff under version control. It’s more of the classic FTP-style approach to web development. Granted, it’s riskier, but it’s also way more flexible. And I’m good with that trade-off for now. (Ask me again in a few months if I’ve done anything terrible and now have regrets.)</p>
-<p>Each site implements the component like this (with a different <code>subdomain</code> attribute for each site):</p>
-<pre><code class="language language-html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;module&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://cdn.jim-nielsen.com/shared/jim-site-switcher.js&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
-<span class="hljs-tag">&lt;<span class="hljs-name">jim-site-switcher</span> <span class="hljs-attr">subdomain</span>=<span class="hljs-string">&quot;blog&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">jim-site-switcher</span>&gt;</span>
-</code></pre>
-<p>That’s really all there is to say. Thanks to Zach for <a href="https://fediverse.zachleat.com/@zachleat/114942811780696272" >prodding me to make this post</a>.</p>
-
-    <hr />
-    
-
-    <p>
-      Reply via:
-      
-
-      <a
-        href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/consistent-nav-across-inconsistent-sites-pt-ii/"
-        >Email</a
-      >
-      · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-
-      <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-    </p>
-      <address>
-        <a href="https://blog.jim-nielsen.com/2025/consistent-nav-across-inconsistent-sites-pt-ii/">https://blog.jim-nielsen.com/2025/consistent-nav-across-inconsistent-sites-pt-ii/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T18:36:03Z" data-link="https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html">Dave's blog</a>)
-      <p>
-      <p>OpenAI Employee Stock Sale Would Value ChatGPT Maker at $500 Billion.</p>
-      <address>
-        <a href="https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html">https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T15:57:54Z" data-link="https://www.nytimes.com/2025/08/19/business/the-race-to-rescue-pbs-and-npr-stations.html?unlocked_article_code=1.fU8.FWj4.UkzubtKuoW9e&smid=url-share">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="https://www.nytimes.com/2025/08/19/business/the-race-to-rescue-pbs-and-npr-stations.html?unlocked_article_code=1.fU8.FWj4.UkzubtKuoW9e&smid=url-share">Dave's blog</a>)
-      <p>
-      <p>The Race to Rescue PBS and NPR Stations.</p>
-      <address>
-        <a href="https://www.nytimes.com/2025/08/19/business/the-race-to-rescue-pbs-and-npr-stations.html?unlocked_article_code=1.fU8.FWj4.UkzubtKuoW9e&smid=url-share">https://www.nytimes.com/2025/08/19/business/the-race-to-rescue-pbs-and-npr-stations.html?unlocked_article_code=1.fU8.FWj4.UkzubtKuoW9e&smid=url-share</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T15:42:45Z" data-link="http://scripting.com/2025/08/19.html#a154245">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-08-19, from: <a href="http://scripting.com/2025/08/19.html#a154245">Dave Winer's Scripting News</a>)
-      <p>
-      I've been building around WordPress to create a social network based on RSS. I want to get out of being controlled by billionaire-owned sites. I have a feeling we may need a good <a href="https://daytona.scripting.com/search?q=%22billionaire-proof%22">backup</a> given where we are now.
-      <address>
-        <a href="http://scripting.com/2025/08/19.html#a154245">http://scripting.com/2025/08/19.html#a154245</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T15:41:00Z" data-link="https://daverupert.com/2025/08/classifiers-and-cosmotechnics/">
-      <h1>Classifiers and cosmotechnics</h1>
-
-(date: 2025-08-19, from: <a href="https://daverupert.com/2025/08/classifiers-and-cosmotechnics/">Dave Rupert blog</a>)
-      <p>
-      <p>I’ve been playing around with Midjourney for work and the one thing that makes Stable Diffusion cool and useful to me is the <code>--sref</code> flag to summon results in a specific visual style or “style reference” (e.g. <a href="https://midlibrary.io/styles/83450e8">Celestial Swirlscape</a> is <code>--sref 2566192150</code>). They differ a bit from traditional or “artist” styles (e.g. “In the style of Picasso” or “Rip off Studio Ghibli”) but can be that or they can be more generic or compositional like “<a href="https://midlibrary.io/styles/78ed0e">Pink Retronetic Dreamscape</a>”. I’ve read <a href="https://midlibrary.io/midguide/deep-dive-into-midjourney-sref-codes">a deep-dive on SREF codes</a> and it’s still a bit unclear how they work to me. They’re like a hybrid between prompt shorthand and style classification. Curated and collected by humans, but a code generated by machines. I have to imagine there’s some clumped circles on a node graph chart somewhere that determine this… but I don’t know those answers.</p>
-<p>The idea of a classifier (human assisted or otherwise) that can suck up and analyze all the art on the internet and end up with a 10-digit number that represents nearly any visual style of imagery I’ve ever seen is mind-bending. Not to mention the ability to overlay that style reference on any image I want in under a minute. “Anime waifu. <code>--sref 3196580341</code>” is the “Tea. Earl gray. Hot” of digital imagery. It feels unreal.</p>
-<p>Could we apply a universal classifier to blog posts so that your “longread about cool bugs” and my “longread about cool bugs” have the same <code>--sref</code> tag? And then we retro-actively apply human-readable tag names to this stylistic tag? And then could I subscribe to a feed of those specific types of posts? That might be interesting… or radicalizing.</p>
-<p>Design tokens? Could those be a system of classifiers instead of arbitrary language? Probably not. But why not? Web design almost certainly could, if it isn’t already.</p>
-<p>While the idea of classifiers tickles the logical computer part of my brain, reducing the entirety of the visual arts down to a set of ten billion categories offends the artist part of my brain. It is odious. There’s an observer effect to it whereby in the act of classifying the art you’ve limited and altered your ability to understand it. And any mimicked generation has an imposter-like, soul-less character to it, no matter the quality. I can’t explain that. Even though I’ve seen the machine generate incredible art beyond anything I’m capable of, I still feel that intangible void on my retinas when I interact with it.</p>
-<p>My wife and I were joking about how the algorithm is serving us videos about certain personality quirks that map to (possibly made-up) niche disorders. My wife –who can remember the melody to every guitar solo but can’t remember the words of the songs from her own band– has a diagnosis from Dr. TikTok that she has “polyphonic perception”. My personality quirks all point to my particular flavor of ADHD. How long until our entire personalities are all tied to a collection of niche diagnoses? How long until our brains are all classified by a ten-digit number? That could be incredibly useful for getting help but brings up nature versus nurture questions for me. Did God make me this way or did I dent the packaging?  Can people with <code>--brainSpiceRef 2566192150</code> even apply for this job? How long until the machines build these types of preferences? Myers-Briggs but instead of made by a racist, it’s made by MechaHitler.</p>
-<p>When I think about the future I want, it always comes down to one idea: I want <a href="https://www.youtube.com/watch?v=uZvpIE5g5Fo">a pod-like chamber I can walk into</a> that scans my entire body, makes bleep-bloop noises to show that it’s working, and prints out a receipt with a list of all my ailments (cancers, deformities, disorders, and otherwise) and recommends a diet and exercise plan until my next scheduled visit to the pod. Bonus points if it orders groceries accordingly after my entire family has exited the chamber. I’m aware this has “Big Theranos Energy” and is an incredible surface area for conspiracy theories… but it’s the science fiction future I want. Classifiers seem inevitable on that pathway. But how do we preserve our humanity when reducing the human race –who we are and what we create– down to a series of ten-digit codes?</p>
-      <address>
-        <a href="https://daverupert.com/2025/08/classifiers-and-cosmotechnics/">https://daverupert.com/2025/08/classifiers-and-cosmotechnics/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T15:23:57Z" data-link="http://scripting.com/2025/08/19.html#a152357">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-08-19, from: <a href="http://scripting.com/2025/08/19.html#a152357">Dave Winer's Scripting News</a>)
-      <p>
-      I had an idea that <a href="https://globalvoices.org/">Global Voices</a>, at least in concept, could help us prepare in the US for what's coming. I wrote: I'd love to have is an <b>idea-sharing network</b> where i could drop this idea in a box named "helping the US stay free" and have it find it's way to the right people in Ukraine who are saying "if only I could talk to people in the US trying to figure this out, we know so much about this!" That's the thing. How to connect know-how with the place that needs to know. To make our resistance more effective use the lessons learned in Ukraine over the last decades.
-      <address>
-        <a href="http://scripting.com/2025/08/19.html#a152357">http://scripting.com/2025/08/19.html#a152357</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T15:14:47Z" data-link="http://scripting.com/2025/08/19.html#a151447">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-08-19, from: <a href="http://scripting.com/2025/08/19.html#a151447">Dave Winer's Scripting News</a>)
-      <p>
-      The purpose of the National Guard occupation of American cities is to control who votes. It doesn’t take much disruption to turn a blue district red. They just allocated <a href="https://www.americanimmigrationcouncil.org/fact-sheet/big-beautiful-bill-immigration-border-security/">$170 billion</a> to fund ICE. They don't need all that money for border enforcement. It's meant to fund the transformation of the US into a Russian-style oligarchy. That's fear-inducing, but Ukraine has been fighting against becoming a  Russian-style oligarchy for decades, with ups and downs, but so far, considerable success.
-      <address>
-        <a href="http://scripting.com/2025/08/19.html#a151447">http://scripting.com/2025/08/19.html#a151447</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T15:00:00Z" data-link="https://blog.dshr.org/2025/08/2025-optical-media-durability-update.html">
-      <h1>2025 Optical Media Durability Update</h1>
-
-(date: 2025-08-19, from: <a href="https://blog.dshr.org/2025/08/2025-optical-media-durability-update.html">David Rosenthal's blog</a>)
-      <p>
-      Seven years ago I posted <a href="https://blog.dshr.org/2018/08/optical-media-durability.html"><i>Optical Media Durability</i></a> and discovered:<br />
-<blockquote class="tr_bq">
-Surprisingly, I'm getting good data from CD-Rs more than 14 years old, and from DVD-Rs nearly 12 years old. Your mileage may vary.</blockquote>
-Here are the subsequent annual updates:<br />
-<ul>
-  <li><a href="https://blog.dshr.org/2019/08/optical-media-durability-update.html">2019</a></li>
-  <li><a href="https://blog.dshr.org/2020/08/optical-media-durability-update.html">2020</a></li>
-  <li><a href="https://blog.dshr.org/2021/08/optical-media-durability-update.html">2021</a></li>
-  <li><a href="https://blog.dshr.org/2022/08/optical-media-durability-update.html">2022</a></li>
-  <li><a href="https://blog.dshr.org/2023/08/optical-media-durability-update.html">2023</a></li>
-  <li><a href="https://blog.dshr.org/2024/08/2024-optical-media-durability-update.html">2024</a></li>
-</ul>
-It is time once again for the mind-numbing process of feeding 45 disks through the readers to verify their checksums, and yet again this year every single MD5 was successfully verified. Below the fold, the details.<br />
-<a name='more'></a><br />
-<br />
-<table align="right" border="3" cols="5">
-<thead>
-<tr><td>Month</td><td>Media</td><td>Good</td><td>Bad</td><td>Vendor</td>
-</tr>
-</thead>
-<tbody>
-<tr><td>01/04</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>05/04</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>Memorex</td></tr>
-<tr><td>02/06</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>11/06</td><td>DVD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>12/06</td><td>DVD-R</td><td align="right">1x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>01/07</td><td>DVD-R</td><td align="right">4x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>04/07</td><td>DVD-R</td><td align="right">3x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>05/07</td><td>DVD-R</td><td align="right">2x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>07/11</td><td>DVD-R</td><td align="right">4x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>08/11</td><td>DVD-R</td><td align="right">1x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>05/12</td><td>DVD+R</td><td align="right">2x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>06/12</td><td>DVD+R</td><td align="right">3x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>04/13</td><td>DVD+R</td><td align="right">2x</td><td align="right">0</td><td>Optimum</td></tr>
-<tr><td>05/13</td><td>DVD+R</td><td align="right">3x</td><td align="right">0</td><td>Optimum</td></tr>
-</tbody>
-</table>
-The fields in the table are as follows:<br />
-<ul>
-<li><i>Month</i>: The date marked on the media in Sharpie, and verified via the on-disk metadata.</li>
-<li><i>Media</i>: The type of media.</li>
-<li><i>Good</i>: The number of media with this type and date for which all MD5 checksums were correctly verified.</li>
-<li><i>Bad</i>: The number of media with this type and date for which any file failed MD5 verification.</li>
-<li><i>Vendor</i>: the vendor name on the media</li>
-</ul>
-The drives I use from ASUS and LG report read errors from the CDs and older DVDs but verify the MD5s correctly.<br />
-<br />
-Surprisingly, with no special storage precautions, generic low-cost media, and consumer drives, I'm getting good data from CD-Rs more than 21 years old, and from DVD-Rs nearly 19 years old. Your mileage may 
-vary. Tune in again next year for another episode.<br />
-<br />Previously I found a <a href="https://blog.dshr.org/2021/08/optical-media-durability-update.html?showComment=1632161672704#c889599305877938325">NetBSD1.2 CD</a> dating from October 1996. Each directory has checksums generated by <tt>cksum(1)</tt>, all but one of which verified correctly despite a few read errors. So some of the data on that CD is bad after nearly 29 years.<br />
-<br />
-      <address>
-        <a href="https://blog.dshr.org/2025/08/2025-optical-media-durability-update.html">https://blog.dshr.org/2025/08/2025-optical-media-durability-update.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T14:31:13Z" data-link="https://independenttechresearch.org/join-us/">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="https://independenttechresearch.org/join-us/">Dave's blog</a>)
-      <p>
-      <p>Coalition for Independent Technology Research.</p>
-      <address>
-        <a href="https://independenttechresearch.org/join-us/">https://independenttechresearch.org/join-us/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T14:28:13Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/19/pinephone_pro_riscv/">
-      <h1>PinePhone Pro canned in pursuit of RISC-V business</h1>
-
-(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/19/pinephone_pro_riscv/">Liam Proven's articles at the Register</a>)
-      <p>
-      <h4>Unexpected news from Pine64, but there are other goodies to compensate</h4>
-      <p>Pine64 is moving from Arm kit to RISC-V. As a result, its higher-end open smartphones is for the chop – but not the lower-end model.</p>
-      <address>
-        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/19/pinephone_pro_riscv/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/19/pinephone_pro_riscv/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T14:21:32Z" data-link="http://scripting.com/2018/06/12/140329.html">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="http://scripting.com/2018/06/12/140329.html">Dave's blog</a>)
-      <p>
-      <p>2018: I fear Google's control of the web.</p>
-      <address>
-        <a href="http://scripting.com/2018/06/12/140329.html">http://scripting.com/2018/06/12/140329.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T13:21:52Z" data-link="https://apnews.com/article/texas-redistricting-democrats-police-california-3459806da6c593d5ffcbe6891551fd7e">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="https://apnews.com/article/texas-redistricting-democrats-police-california-3459806da6c593d5ffcbe6891551fd7e">Dave's blog</a>)
-      <p>
-      <p>Republicans in the Texas House forced returning Democrats to sign what the Democrats called “permission slips,” agreeing to around-the-clock surveillance. (Why did they sign?)</p>
-      <address>
-        <a href="https://apnews.com/article/texas-redistricting-democrats-police-california-3459806da6c593d5ffcbe6891551fd7e">https://apnews.com/article/texas-redistricting-democrats-police-california-3459806da6c593d5ffcbe6891551fd7e</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T11:10:02Z" data-link="https://adactio.com/notes/22088">
-      <h1>Monday session</h1>
-
-(date: 2025-08-19, from: <a href="https://adactio.com/notes/22088">Jeremy Keith Blog</a>)
-      <p>
-      
-<img src="https://adactio.com/images/uploaded/22088/small.jpg" srcset="https://adactio.com/images/uploaded/22088/medium.jpg 1.5x, https://adactio.com/images/uploaded/22088/large.jpg 2.5x" alt="Monday session" />
-<p>Monday session</p>
-
-
-      <address>
-        <a href="https://adactio.com/notes/22088">https://adactio.com/notes/22088</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T11:07:28Z" data-link="https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html">
-      <h1>Zero-Day Exploit in WinRAR File</h1>
-
-(date: 2025-08-19, updated: 2025-08-14, from: <a href="https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html">Bruce Schneier blog</a>)
-      <p>
-      <p>A zero-day vulnerability in WinRAR is <a href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/">being exploited</a> by at least two Russian criminal groups:</p>
-<blockquote><p>The vulnerability seemed to have super Windows powers. It abused <a href="https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-fscc/c54dec26-1551-4d3a-a0ea-4fa40f848eb3">alternate data streams</a>, a Windows feature that allows different ways of representing the same file path. The exploit abused that feature to trigger a previously unknown path traversal flaw that caused WinRAR to plant malicious executables in attacker-chosen file paths %TEMP% and %LOCALAPPDATA%, which Windows normally makes off-limits because of their ability to execute code.</p></blockquote>
-<p>More details in the article...</p>
-      <address>
-        <a href="https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html">https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T08:46:42Z" data-link="https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html">
-      <h1>Every Reason Why I Hate AI and You Should Too</h1>
-
-(date: 2025-08-19, from: <a href="https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html">Jeremy Keith Blog</a>)
-      <p>
-      
-<blockquote>
-  <p>If I were to photocopy this article, nobody would argue that my photocopier wrote it and therefore can think. But add enough convolutedness to the process, and it looks a lot like maybe it did and can.</p>
-  
-  <p>In reality, all we’ve created is a bot which is almost perfect at mimicking human-like natural language use, and the rest is people just projecting other human qualities on to it. Quite simply, “LLMs are doing reasoning” is the “look, my dog is smiling” of technology. In exactly the same way that dogs don’t convey their emotions via human-like facial expressions, there’s no reason to believe that even if computer could think, it’d perfectly mirror what looks like human reasoning.</p>
-</blockquote>
-
-<p><a href="https://adactio.com/links/22087">adactio.com/links/22087</a></p>
-
-      <address>
-        <a href="https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html">https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T08:02:35Z" data-link="https://robertreich.substack.com/p/how-im-spending-my-retirement">
-      <h1>How I’m spending my retirement</h1>
-
-(date: 2025-08-19, from: <a href="https://robertreich.substack.com/p/how-im-spending-my-retirement">Robert Reich's blog</a>)
-      <p>
-      In a word: teaching
-      <address>
-        <a href="https://robertreich.substack.com/p/how-im-spending-my-retirement">https://robertreich.substack.com/p/how-im-spending-my-retirement</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T04:53:42Z" data-link="https://heathercoxrichardson.substack.com/p/august-18-2025">
-      <h1>August 18, 2025</h1>
-
-(date: 2025-08-19, from: <a href="https://heathercoxrichardson.substack.com/p/august-18-2025">Heather Cox Richardson blog</a>)
-      <p>
-      This morning, J.D.
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/august-18-2025">https://heathercoxrichardson.substack.com/p/august-18-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T01:44:09Z" data-link="https://www.counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share">
-      <h1>Bezos Numbers of the Week: Counterpoint Research on ‘Smart Glasses’</h1>
-
-(date: 2025-08-19, updated: 2025-08-19, from: <a href="https://www.counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share">https://www.counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T01:07:45Z" data-link="https://en.m.wikipedia.org/wiki/March_on_Washington">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-19, from: <a href="https://en.m.wikipedia.org/wiki/March_on_Washington">Dave's blog</a>)
-      <p>
-      <p>The March on Washington for Jobs and Freedom  was held in Washington, D.C., on August 28, 1963.</p>
-      <address>
-        <a href="https://en.m.wikipedia.org/wiki/March_on_Washington">https://en.m.wikipedia.org/wiki/March_on_Washington</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-19T00:23:06Z" data-link="https://phoenix.new/?utm_source=df">
-      <h1>[Sponsor] Phoenix.new</h1>
-
-(date: 2025-08-19, updated: 2025-08-24, from: <a href="https://phoenix.new/?utm_source=df">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://phoenix.new/?utm_source=df">https://phoenix.new/?utm_source=df</a>
       </address>
     </article>
   </section>
