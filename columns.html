@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-09-04T06:07:30-07:00">
+  <meta name="date" content="2025-09-04T12:31:42-07:00">
 </head>
 <body>
   <header>
@@ -38,6 +38,372 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-09-04T19:00:00Z" data-link="https://blog.jim-nielsen.com/2025/casing-on-the-web/">
+      <h1>Trying to Make Sense of Casing Conventions on the Web</h1>
+
+(date: 2025-09-04, from: <a href="https://blog.jim-nielsen.com/2025/casing-on-the-web/">Jim Nielsen blog</a>)
+      <p>
+      <p>(I present to you my stream of consciousness on the topic of casing as it applies to the web platform.)</p>
+<p>I’m reading about <a href="https://developer.chrome.com/blog/command-and-commandfor" >the new <code>command</code> and <code>commandfor</code> attributes</a> — which I’m super excited about, declarative behavior invocation in HTML? YES PLEASE!! — and one thing that strikes me is the casing in these APIs.</p>
+<p>For example, the <code>command</code> attribute has a variety of values in HTML which correspond to APIs in JavaScript. The <code>show-popover</code> attribute value maps to <code>.showPopover()</code> in JavaScript. <code>hide-popover</code> maps to <code>.hidePopover()</code>, etc.</p>
+<p>So what we have is:</p>
+<ul>
+<li>lowercase in attribute names<ul>
+<li>e.g. <code>commandfor=&quot;...&quot;</code></li>
+</ul>
+</li>
+<li>kebab-case in attribute values<ul>
+<li>e.g. <code>show-popover</code></li>
+</ul>
+</li>
+<li>camelCase for JS counterparts<ul>
+<li>e.g. <code>showPopover()</code></li>
+</ul>
+</li>
+</ul>
+<p>After thinking about this a little more, I remember that <a href="https://www.w3.org/TR/2010/WD-html-markup-20101019/documents.html#case-insensitivity" >HTML attributes names are case insensitive</a>, so the browser will normalize them to lowercase during parsing. Given that, I suppose you could write <code>commandFor=&quot;...&quot;</code> but it’s effectively the same.</p>
+<p>Ok, lowercase attribute names in HTML makes sense. The related popover attributes follow the same convention:</p>
+<ul>
+<li><code>popovertarget</code></li>
+<li><code>popovertargetaction</code></li>
+</ul>
+<p>And there are many other <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes" >attribute names in HTML</a> that are lowercase, e.g.:</p>
+<ul>
+<li><code>maxlength</code></li>
+<li><code>novalidate</code></li>
+<li><code>contenteditable</code></li>
+<li><code>autocomplete</code></li>
+<li><code>formenctype</code></li>
+</ul>
+<p>So that all makes sense.</p>
+<p>But wait, there are <em>some</em> attribute names with hyphens in them, like <code>aria-label=&quot;...&quot;</code> and <code>data-value=&quot;...&quot;</code>.</p>
+<p>So why isn’t it <code>command-for=&quot;...&quot;</code>?</p>
+<p>Well, upon further reflection, I suppose those attributes were named that way for extensibility’s sake: they are essentially wildcard attributes that represent a family of attributes that are all under the same namespace: <code>aria-*</code> and <code>data-*</code>.</p>
+<p>But wait, isn’t that an argument for doing <code>popover-target</code> and <code>popover-target-action</code>? Or <code>command</code> and <code>command-for</code>?</p>
+<p>But wait (I keep saying that) there are kebab-case attribute names in HTML — like <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/http-equiv" >http-equiv</a> on the <code>&lt;meta&gt;</code> tag, or <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form#accept-charset" ><code>accept-charset</code></a> on the form tag — but those seem more like legacy exceptions.</p>
+<p>It seems like the only answer here is: there is no rule. Naming is driven by convention and decisions are made on a case-by-case basis. But if I had to summarize, it would probably be that the default casing for new APIs tends to follow the rules I outlined at the start (and what’s reflected in the new <code>command</code> APIs):</p>
+<ul>
+<li>lowercase for HTML attributes names</li>
+<li>kebab-case for HTML attribute values</li>
+<li>camelCase for JS counterparts</li>
+</ul>
+<p>Let’s not even get into <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Attribute" >SVG attribute names</a></p>
+<p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/casing-svg-attributes.png" width="682" height="1059" alt="Screenshot of various SVG attribute names, all with mixed casing from lowercase to kebab-case to camelCase." />
+
+</p><p>We need one of those “bless this mess” signs that we can hang over the World Wide Web.</p>
+<p class="image-container"><img data-og-image src="https://cdn.jim-nielsen.com/blog/2025/casing-bless-this-mess.jpg" width="808" height="516" alt="Photograph of Tim Berners-Lee next to his NeXT computer with the first web page on it at CERN. Above the image is a superimposed sign that says “Bless this mess” in cursive type." /></p>
+    <hr />
+    
+
+    <p>
+      Reply via:
+      
+
+      <a
+        href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/casing-on-the-web/"
+        >Email</a
+      >
+      · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+
+      <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+    </p>
+      <address>
+        <a href="https://blog.jim-nielsen.com/2025/casing-on-the-web/">https://blog.jim-nielsen.com/2025/casing-on-the-web/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T18:51:38Z" data-link="https://kottke.org/25/09/meet-the-man-doing-a-10-day-self-supported-swim-across-a-140-mile-lake">
+      <h1> Meet the Man Doing a 10-Day, Self-Supported Swim Across a 140-Mile Lake </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/meet-the-man-doing-a-10-day-self-supported-swim-across-a-140-mile-lake">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/meet-the-man-doing-a-10-day-self-supported-swim-across-a-140-mile-lake">https://kottke.org/25/09/meet-the-man-doing-a-10-day-self-supported-swim-across-a-140-mile-lake</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T18:05:48Z" data-link="https://kottke.org/25/09/0047439-the-rise-of-the-traveling">
+      <h1> The Rise of the Traveling Third Space. &#8220;Traveling third spaces are not... </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/0047439-the-rise-of-the-traveling">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/0047439-the-rise-of-the-traveling">https://kottke.org/25/09/0047439-the-rise-of-the-traveling</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T17:45:17Z" data-link="https://a.wholelottanothing.org/a-rabbit-hole/">
+      <h1>A rabbit hole</h1>
+
+(date: 2025-09-04, from: <a href="https://a.wholelottanothing.org/a-rabbit-hole/">Matt Haughey blog</a>)
+      <p>
+      <p>Last night, I went down a rabbit hole around the music group <a href="https://en.wikipedia.org/wiki/Starland_Vocal_Band?ref=a.wholelottanothing.org" rel="noreferrer">Starland Vocal Band</a>, and their weird one-hit-wonder sex song Afternoon Delight that reached #1 on the Billboard charts in 1977. </p><figure class="kg-card kg-embed-card"><iframe width="200" height="150" src="https://www.youtube.com/embed/iKnVaOhr7W4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Starland Vocal Band (intro by John Denver) &#x2022; &quot;Afternoon Delight&quot; &#x2022; 1976 [RITY Archive]"></iframe></figure><p>I got to that after watching an episode of their summer network variety show (that was quickly canceled)</p>
+      <address>
+        <a href="https://a.wholelottanothing.org/a-rabbit-hole/">https://a.wholelottanothing.org/a-rabbit-hole/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T16:48:36Z" data-link="https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy">
+      <h1> The Official Map of the Star Wars Galaxy </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy">https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T16:17:50Z" data-link="https://heathercoxrichardson.substack.com/p/september-3-2025-3f5">
+      <h1>September 3, 2025</h1>
+
+(date: 2025-09-04, from: <a href="https://heathercoxrichardson.substack.com/p/september-3-2025-3f5">Heather Cox Richardson blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/september-3-2025-3f5">https://heathercoxrichardson.substack.com/p/september-3-2025-3f5</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T15:56:51Z" data-link="https://kottke.org/25/09/0047450-a-thoughtful-essay-about-">
+      <h1> A thoughtful essay about e-bikes as a metaphor for AI, augmentation vs... </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/0047450-a-thoughtful-essay-about-">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/0047450-a-thoughtful-essay-about-">https://kottke.org/25/09/0047450-a-thoughtful-essay-about-</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T15:31:28Z" data-link="https://www.manton.org/2025/09/04/i-know-i-go-on.html">
+      <h1>Manton Reece</h1>
+
+(date: 2025-09-04, from: <a href="https://www.manton.org/2025/09/04/i-know-i-go-on.html">Dave's blog</a>)
+      <p>
+      <p>Manton: OpenAI’s Codex continues to amaze me.</p>
+      <address>
+        <a href="https://www.manton.org/2025/09/04/i-know-i-go-on.html">https://www.manton.org/2025/09/04/i-know-i-go-on.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T15:27:13Z" data-link="http://scripting.com/2025/09/04.html#a152713">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-09-04, from: <a href="http://scripting.com/2025/09/04.html#a152713">Dave Winer's Scripting News</a>)
+      <p>
+      AI is as good at writing software as it is in creating competent visual art. It's only amazing in terms of how much more a novice can do. It doesn't mean what they create is interesting in more than a gee-wiz way, and the novelty fades pretty quickly I've found.
+      <address>
+        <a href="http://scripting.com/2025/09/04.html#a152713">http://scripting.com/2025/09/04.html#a152713</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T15:02:59Z" data-link="https://kottke.org/25/09/0047443-from-lewis-hine-a-photogr">
+      <h1> From Lewis Hine, a photograph of Clyde Bradford. Hine&#8217;s photos of child... </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/0047443-from-lewis-hine-a-photogr">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/0047443-from-lewis-hine-a-photogr">https://kottke.org/25/09/0047443-from-lewis-hine-a-photogr</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:48:57Z" data-link="http://scripting.com/2025/09/04.html#a144857">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-09-04, from: <a href="http://scripting.com/2025/09/04.html#a144857">Dave Winer's Scripting News</a>)
+      <p>
+      ChatGPT might not give you the best answer. Yesterday I hit a problem with the MySQL hosting service, and as we worked it out, ChatGPT and me, I ended up contacting the ISP's support asking them to restart the server, something I cannot do through the control panel. They don't do that, and made a couple of suggestions which didn't seem to make sense based on what ChatGPT had told me. So I tried what they suggested and it worked, and went back to ChatGPT and asked what it thought, and it said yes of course that worked, and would you like me to show you how to do it even better. I guess it takes a path and never goes back to see if there isn't a better one. We've been through this before. Anyway, always be circumspect about it's advice, it's not just hallucinations you need to watch for. That said, with help from both ChatGPT and Digital Ocean, I now have a better setup, and it should run without the problem we hit yesterday.
+      <address>
+        <a href="http://scripting.com/2025/09/04.html#a144857">http://scripting.com/2025/09/04.html#a144857</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:46:25Z" data-link="https://doc.searls.com/2025/09/04/some-pix-and-a-few-words-about-iiw/">
+      <h1>Some Pix  and a Few Words About IIW</h1>
+
+(date: 2025-09-04, from: <a href="https://doc.searls.com/2025/09/04/some-pix-and-a-few-words-about-iiw/">Doc Searls (at Harvard), New Old Blog</a>)
+      <p>
+      I wrote for Linux Journal from 1996 to 2019, and have been involved with IIW since I helped start it in 2005. So, in an effort to help substantiate a future Wikipedia article on IIW, I wanted a list of all my Linux Journal contributions mentioning &#8220;IIW&#8221; and/or &#8220;Internet Identity Workshop.&#8221; (Never mind that my [&#8230;]
+      <address>
+        <a href="https://doc.searls.com/2025/09/04/some-pix-and-a-few-words-about-iiw/">https://doc.searls.com/2025/09/04/some-pix-and-a-few-words-about-iiw/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:28:34Z" data-link="https://electrek.co/2025/09/04/honda-to-unveil-full-size-electric-motorcycle-with-fast-charging-this-month/">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-04, from: <a href="https://electrek.co/2025/09/04/honda-to-unveil-full-size-electric-motorcycle-with-fast-charging-this-month/">Dave's blog</a>)
+      <p>
+      <p>Honda set to unveil full size electric motorcycle with fast charging. Good idea. EVs have a rep of being anemic, but actually they can be muscle cars with incredible acceleration and handling.</p>
+      <address>
+        <a href="https://electrek.co/2025/09/04/honda-to-unveil-full-size-electric-motorcycle-with-fast-charging-this-month/">https://electrek.co/2025/09/04/honda-to-unveil-full-size-electric-motorcycle-with-fast-charging-this-month/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:22:56Z" data-link="http://scripting.com/2025/09/04.html#a142256">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-09-04, from: <a href="http://scripting.com/2025/09/04.html#a142256">Dave Winer's Scripting News</a>)
+      <p>
+      Another thing I should have mentioned, about the title of the <a href="https://shownotes.scripting.com/scripting/2025/09/03/lastChanceForTheOpenWeb.html">podcast</a>, I think this <i>is</i> the last chance for the open web. It may already be too late. Look at what's happening politically in the US now and ask how tolerant the government is going to be of an open web. We always had to deal with the possibility that they would shut down free speech here. It has been <a href="https://en.wikipedia.org/wiki/Communications_Decency_Act">tried</a>, didn't work in the 90s. But the guardrails that existed then possibly don't exist now. The same things that are forcing CBS for example to become a controlled press, may affect the web too, but you won't read about it in the NYT or hear about it on Maddow because they have low regard for non-professional people writing on the web.
+      <address>
+        <a href="http://scripting.com/2025/09/04.html#a142256">http://scripting.com/2025/09/04.html#a142256</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:14:46Z" data-link="http://scripting.com/2025/09/04.html#a141446">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-09-04, from: <a href="http://scripting.com/2025/09/04.html#a141446">Dave Winer's Scripting News</a>)
+      <p>
+      <img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, one of the things I should have mentioned in yesterday's <a href="https://shownotes.scripting.com/scripting/2025/09/03/lastChanceForTheOpenWeb.html">podcast</a> is that the product isn't just WordLand, it's also FeedLand. The two are connected by a well-developed <a href="https://en.wikipedia.org/wiki/WebSocket">WebSocket</a> interface, which I will provide code for, as well as docs for what goes over the wire. I think a lot of feed <a href="https://en.wiktionary.org/wiki/aficionado">aficionados</a> will find this really interesting (and also really simple).
+      <address>
+        <a href="http://scripting.com/2025/09/04.html#a141446">http://scripting.com/2025/09/04.html#a141446</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:10:52Z" data-link="https://www.theatlantic.com/politics/archive/2025/08/laura-loomer-trump-era-joseph-mccarthy/683928/?gift=hVZeG3M9DnxL4CekrWGK33q80MqXrL-u5yrngs1BINk">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-04, from: <a href="https://www.theatlantic.com/politics/archive/2025/08/laura-loomer-trump-era-joseph-mccarthy/683928/?gift=hVZeG3M9DnxL4CekrWGK33q80MqXrL-u5yrngs1BINk">Dave's blog</a>)
+      <p>
+      <p>Make McCarthy Great Again. (Laura Loomer)</p>
+      <address>
+        <a href="https://www.theatlantic.com/politics/archive/2025/08/laura-loomer-trump-era-joseph-mccarthy/683928/?gift=hVZeG3M9DnxL4CekrWGK33q80MqXrL-u5yrngs1BINk">https://www.theatlantic.com/politics/archive/2025/08/laura-loomer-trump-era-joseph-mccarthy/683928/?gift=hVZeG3M9DnxL4CekrWGK33q80MqXrL-u5yrngs1BINk</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:04:48Z" data-link="https://qns.com/2025/09/best-of-bayside-guide-newest-shops-restaurants/">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-04, from: <a href="https://qns.com/2025/09/best-of-bayside-guide-newest-shops-restaurants/">Dave's blog</a>)
+      <p>
+      <p>I'm from this area in Queens, Flushing, Whitestone, Bayside. They were sleepy little places then but now have become interesting. Trump says NYC is a mess, but it's not. Trump is from the Archie Bunker generation. Very dated from a Queens perspective.</p>
+      <address>
+        <a href="https://qns.com/2025/09/best-of-bayside-guide-newest-shops-restaurants/">https://qns.com/2025/09/best-of-bayside-guide-newest-shops-restaurants/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T14:00:20Z" data-link="https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf">
+      <h1>I bought the cheapest EV (a used Nissan Leaf)</h1>
+
+(date: 2025-09-04, from: <a href="https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf">Jeff Geerling blog</a>)
+      <p>
+      <span class="field field--name-title field--type-string field--label-hidden">I bought the cheapest EV (a used Nissan Leaf)</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/jeff-buys-nissan-leaf-sv-plus.jpg" width="350" height="330" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-a463435a-cfd8-4cbb-976e-31ecec4fadb8" data-insert-attach="{&quot;id&quot;:&quot;a463435a-cfd8-4cbb-976e-31ecec4fadb8&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Jeff Geerling with Nissan Leaf SV Plus at Dealership"></p>
+
+<p>I bought a used 2023 Nissan Leaf in 2025, my first 'new' car in 15 years. The above photo was taken by the dealership; apparently their social media team likes to post photos of all purchasers.</p>
+
+<p>I test drove a Tesla in 2012, and quickly realized my mistake. No gasoline-powered car (outside of supercars, maybe? Never drove one of those) could match the feel of pressing the throttle on an electric.</p>
+
+<p>I started out with a used minivan, which I drove into the ground. Then I bought a used Olds that I drove into the ground. Then I bought a used Camry that I bought before we had kids, when I had a 16 mile commute.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-04T09:00:20-05:00" title="Thursday, September 4, 2025 - 09:00" class="datetime">September 4, 2025</time>
+</span>
+      <address>
+        <a href="https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf">https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T13:56:01Z" data-link="https://adactio.com/journal/22113">
+      <h1>Speaking at Web Day Out</h1>
+
+(date: 2025-09-04, from: <a href="https://adactio.com/journal/22113">Jeremy Keith Blog</a>)
+      <p>
+      
+<p>Half of the line-up of speakers for <a href="https://webdayout.com/">Web Day Out</a> is already on the site. One more is already confirmed.</p>
+
+<p>I’m ridiculously excited about the way the line-up is taking shape, and judging by the zippiness of ticket sales, so are lots of my peers. Seriously, <a href="https://ti.to/clearleft/web-day-out">don’t wait to get your ticket</a> or you might end up missing out completely.</p>
+
+<p>I’ve already got a shortlist of other people I could imagine on the line-up, but I’m open to more suggestions. If you’d like to speak at <a href="https://webdayout.com/">Web Day Out</a>—or you know someone you think would be great—<a href="mailto:jeremy@clearleft.com">send an email</a> to jeremy@clearleft.com</p>
+
+<p>I won’t be checking my work email while I’m away on holiday next week but it would be lovely to come back to an inbox of exciting suggestions.</p>
+
+<p>A couple of pointers…</p>
+
+<p>I’d rather not have too many people like me on the line-up. White dudes are already over-represented in this industry, especially at conferences.</p>
+
+<p>If you’ve never given a talk before, don’t worry. I’d love to help you put your talk together and coach you in presenting it. <a href="https://adactio.com/about/speaking/">I have some experience in this area</a>.</p>
+
+<p>No product pitches. That includes JavaScript frameworks and CSS libraries.</p>
+
+<p>If I get even a whiff of “AI”, your proposal doesn’t stand a chance. There are many, many, <em>many</em> other events that are only too happy to have wall-to-wall talks about …that sort of thing.</p>
+
+<p>If you end up speaking at <a href="https://webdayout.com/">Web Day Out</a> you will, of course, be paid. We will, of course, cover travel and accommodation too. We can’t afford the travel costs of bringing anyone in from outside Europe though (and we’d like to keep the carbon footprint of the event as small as possible).</p>
+
+<p>Web Day Out has <a href="https://webdayout.com/agenda/">an opinionated agenda</a> all about showing what’s possible in web browsers today. Some potential topics include:</p>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_view_transitions">view transitions</a>,</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API">invoker commands</a>,</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning">anchor positioning</a>,</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations">scroll-driven animations</a>,</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps">progressive web apps</a>,</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components">web components</a>.</li>
+</ul>
+
+<p>The emphasis should be on using stuff in production rather than theoretical demos.</p>
+
+<p>If you’ve got a case study about using the web platform—perhaps migrating away from a framework-driven approach—that would fit the bill perfectly.</p>
+
+<p>How’s all that sounding? Know someone who could deliver the goods? <a href="mailto:jeremy@clearleft.com">Let me know</a>!</p>
+
+
+      <address>
+        <a href="https://adactio.com/journal/22113">https://adactio.com/journal/22113</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T13:48:22Z" data-link="https://kottke.org/25/09/u2-and-a-harlem-choir-sing-i-still-havent-found-what-im-looking-for">
+      <h1> U2 and a Harlem Choir Sing &#8216;I Still Haven&#8217;t Found What I&#8217;m Looking For&#8217; </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/u2-and-a-harlem-choir-sing-i-still-havent-found-what-im-looking-for">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/u2-and-a-harlem-choir-sing-i-still-havent-found-what-im-looking-for">https://kottke.org/25/09/u2-and-a-harlem-choir-sing-i-still-havent-found-what-im-looking-for</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T13:36:37Z" data-link="https://www.pbs.org/newshour/politics/trump-will-host-top-tech-ceos-except-musk-at-a-white-house-dinner">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-04, from: <a href="https://www.pbs.org/newshour/politics/trump-will-host-top-tech-ceos-except-musk-at-a-white-house-dinner">Dave's blog</a>)
+      <p>
+      <p>Trump will host top tech CEOs except Musk at a White House dinner.</p>
+      <address>
+        <a href="https://www.pbs.org/newshour/politics/trump-will-host-top-tech-ceos-except-musk-at-a-white-house-dinner">https://www.pbs.org/newshour/politics/trump-will-host-top-tech-ceos-except-musk-at-a-white-house-dinner</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T13:30:10Z" data-link="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/04/linux_lite_76/">
+      <h1>Linux Lite relief: 7.6 keeps it simple, shiny, and mostly slim</h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/04/linux_lite_76/">Liam Proven's articles at the Register</a>)
+      <p>
+      <h4>Ubuntu 24.04.3, with a prettified Xfce 4.18</h4>
+      <p>Linux Lite 7.6 is the latest, slightly updated release of this technologically moderate distro from New Zealand.</p>
+      <address>
+        <a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/04/linux_lite_76/">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/04/linux_lite_76/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-04T13:03:30Z" data-link="https://kottke.org/25/09/0047432-a-list-of-29-heroes">
+      <h1> A list of 29 heroes and interesting people that few people have... </h1>
+
+(date: 2025-09-04, updated: 2025-09-04, from: <a href="https://kottke.org/25/09/0047432-a-list-of-29-heroes">Jason Kittke's blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/0047432-a-list-of-29-heroes">https://kottke.org/25/09/0047432-a-list-of-29-heroes</a>
+      </address>
+    </article>
 
     <article data-published="2025-09-04T12:35:16Z" data-link="https://adactio.com/notes/22112">
       <h1>I’m seeing more and more companies referring to their tech stack as using “traditional machine learning” …presumably to distance themselves from the slopaganda of “AI” grifters before the bubble pops.</h1>
@@ -6329,6 +6695,17 @@ I tried <code>sudo apt upgrade</code> and I guess something didn&rsquo;t work (s
       <p>Reading a Wired account of learning to program with a LLM was the same old bullshit about developers. We are not trivial people. We're working realllly hard, for you. We should all be working together.</p>
       <address>
         <a href="https://daveverse.org/2025/08/21/1937/">https://daveverse.org/2025/08/21/1937/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-21T17:00:00Z" data-link="https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/">
+      <h1>Wormhole</h1>
+
+(date: 2025-08-21, from: <a href="https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/">Matt Sephton blog</a>)
+      <p>
+      Built-in game for the Comet web browser by Perplexity
+      <address>
+        <a href="https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/">https://blog.gingerbeardman.com/2025/08/21/wormhole-for-perplexity-comet/</a>
       </address>
     </article>
 
