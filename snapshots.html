@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-09-07T06:06:55-07:00">
+  <meta name="date" content="2025-09-07T16:07:42-07:00">
 </head>
 <body>
   <header>
@@ -58,6 +58,149 @@ Click on the <strong>Slides</strong> button above to view the built-in slides fe
 <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>
       <address>
         <a href="https://notes.peter-baumgartner.net/event/example/">https://notes.peter-baumgartner.net/event/example/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T21:45:04Z" data-link="https://simonwillison.net/2025/Sep/7/is-the-llm-response-wrong-or-have-you-just-failed-to-iterate-it/#atom-everything">
+      <h1>Is the LLM response wrong, or have you just failed to iterate it?</h1>
+
+(date: 2025-09-07, updated: 2025-09-07, from: <a href="https://simonwillison.net/2025/Sep/7/is-the-llm-response-wrong-or-have-you-just-failed-to-iterate-it/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <p><strong><a href="https://mikecaulfield.substack.com/p/is-the-llm-response-wrong-or-have">Is the LLM response wrong, or have you just failed to iterate it?</a></strong></p>
+More from Mike Caulfield (see also <a href="https://simonwillison.net/2025/Sep/7/the-sift-method/">the SIFT method</a>). He starts with a <em>fantastic</em> example of Google's <a href="https://simonwillison.net/2025/Sep/7/ai-mode/">AI mode</a> usually correctly handling a common piece of misinformation but occasionally falling for it (the curse of non-deterministic systems), then shows an example if what he calls a "sorting prompt" as a follow-up:</p>
+<blockquote>
+<p>What is the evidence for and against this being a real photo of Shirley Slade?</p>
+</blockquote>
+<p>The response starts with a non-committal "there is compelling evidence for and against...", then by the end has firmly convinced itself that the photo is indeed a fake. It reads like a fact-checking variant of "think step by step".</p>
+<p>Mike neatly describes a problem I've also observed recently where "hallucination" is frequently mis-applied as meaning any time a model makes a mistake:</p>
+<blockquote>
+<p>The term hallucination has become nearly worthless in the LLM discourse. It initially described a very weird, mostly non-humanlike behavior where LLMs would make up things out of whole cloth that did not seem to exist as claims referenced any known source material or claims inferable from any known source material. Hallucinations as stuff made up out of nothing. Subsequently people began calling any error or imperfect summary a hallucination, rendering the term worthless.</p>
+</blockquote>
+<p>In this example is the initial incorrect answers were not hallucinations: they correctly summarized online content that contained misinformation. The trick then is to encourage the model to look further, using "sorting prompts" like these:</p>
+<blockquote>
+<ul>
+<li>Facts and misconceptions and hype about what I posted</li>
+<li>What is the evidence for and against the claim I posted</li>
+<li>Look at the most recent information on this issue, summarize how it shifts the analysis (if at all), and provide link to the latest info</li>
+</ul>
+</blockquote>
+<p>I appreciated this closing footnote:</p>
+<blockquote>
+<p>Should platforms have more features to nudge users to this sort of iteration? Yes. They should. Getting people to iterate investigation rather than argue with LLMs would be a good first step out of this mess that the chatbot model has created.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://bsky.app/profile/mikecaulfield.bsky.social/post/3lya2nv7xi226">@mikecaulfield.bsky.social</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/ai-assisted-search">ai-assisted-search</a>, <a href="https://simonwillison.net/tags/hallucinations">hallucinations</a>, <a href="https://simonwillison.net/tags/digital-literacy">digital-literacy</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/7/is-the-llm-response-wrong-or-have-you-just-failed-to-iterate-it/#atom-everything">https://simonwillison.net/2025/Sep/7/is-the-llm-response-wrong-or-have-you-just-failed-to-iterate-it/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T21:32:09Z" data-link="https://simonwillison.net/2025/Sep/7/anil-dash/#atom-everything">
+      <h1>Quoting Anil Dash</h1>
+
+(date: 2025-09-07, updated: 2025-09-07, from: <a href="https://simonwillison.net/2025/Sep/7/anil-dash/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <blockquote cite="https://bsky.app/profile/anildash.com/post/3lybkmj7ast2c"><p>I agree with the intellectual substance of virtually every common critique of AI. And it's very clear that turning those critiques into a competition about who can frame them in the most scathing way online has done <em>zero</em> to slow down adoption, even if much of that is due to default bundling.</p>
+<p>At what point are folks going to try literally any other tactic than condescending rants? Does it matter that LLM apps are at the top of virtually every app store nearly every day because individual people are choosing to download them, and the criticism hasn't been effective in slowing that?</p></blockquote>
+<p class="cite">&mdash; <a href="https://bsky.app/profile/anildash.com/post/3lybkmj7ast2c">Anil Dash</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/anil-dash">anil-dash</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/7/anil-dash/#atom-everything">https://simonwillison.net/2025/Sep/7/anil-dash/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T20:51:31Z" data-link="https://simonwillison.net/2025/Sep/7/the-sift-method/#atom-everything">
+      <h1>The SIFT method</h1>
+
+(date: 2025-09-07, updated: 2025-09-07, from: <a href="https://simonwillison.net/2025/Sep/7/the-sift-method/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <p><strong><a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322">The SIFT method</a></strong></p>
+The SIFT method is "an evaluation strategy developed by digital literacy expert, Mike Caulfield, to help determine whether online content can be trusted for credible or reliable sources of information."</p>
+<p>This looks <em>extremely</em> useful as a framework for helping people more effectively consume information online (increasingly gathered with <a href="https://simonwillison.net/tags/ai-assisted-search/">the help of LLMs</a>).</p>
+<ul>
+<li><strong>Stop</strong>. "Be aware of your emotional response to the headline or information in the article" to protect against clickbait, and don't read further or share until you've applied the other three steps.</li>
+<li><strong>Investigate the Source</strong>. Apply <a href="https://pressbooks.pub/webliteracy/chapter/what-reading-laterally-means/">lateral reading</a>, checking what others say about the source rather than just trusting their "about" page.</li>
+<li><strong>Find Better Coverage</strong>. "Use lateral reading to see if you can find other sources corroborating the same information or disputing it" and consult trusted fact checkers if necessary.</li>
+<li><strong>Trace Claims, Quotes, and Media to their Original Context</strong>. Try to find the original report or referenced material to learn more and check it isn't being represented out of context.</li>
+</ul>
+<p>This framework really resonates with me: it formally captures and improves on a bunch of informal techniques I've tried to apply in my own work.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/anildash.com/post/3lyavuu6ku22r">@anildash.com</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/research">research</a>, <a href="https://simonwillison.net/tags/ai-assisted-search">ai-assisted-search</a>, <a href="https://simonwillison.net/tags/digital-literacy">digital-literacy</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/7/the-sift-method/#atom-everything">https://simonwillison.net/2025/Sep/7/the-sift-method/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T17:49:14Z" data-link="https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-07, from: <a href="https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit">Dave Winer's linkblog</a>)
+      <p>
+      <p>GM slows EV production as tax credit nears expiration.</p>
+      <address>
+        <a href="https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit">https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T17:39:53Z" data-link="https://mastodon.social/@davew/115164227073940732">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-07, from: <a href="https://mastodon.social/@davew/115164227073940732">Dave Winer's linkblog</a>)
+      <p>
+      <p>If I wrote something on Masto and want to link to it from a blog post, what's the URL that works for everyone? Does the link in this post work for you?</p>
+      <address>
+        <a href="https://mastodon.social/@davew/115164227073940732">https://mastodon.social/@davew/115164227073940732</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T17:22:34Z" data-link="https://garymarcus.substack.com/p/openais-future-foretold">
+      <h1>OpenAI’s future, foretold?</h1>
+
+(date: 2025-09-07, from: <a href="https://garymarcus.substack.com/p/openais-future-foretold">Gary Marcus blog</a>)
+      <p>
+      Two new charts paint two very different scenarios
+      <address>
+        <a href="https://garymarcus.substack.com/p/openais-future-foretold">https://garymarcus.substack.com/p/openais-future-foretold</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T16:23:51Z" data-link="https://mastodon.social/@Migueldeicaza/115163937587984815">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-09-07, from: <a href="https://mastodon.social/@Migueldeicaza/115163937587984815">Miguel de Icaza Mastondon feed</a>)
+      <p>
+      <p>Why is the color bleeding when the window is made smaller?   Oops.</p>
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115163937587984815">https://mastodon.social/@Migueldeicaza/115163937587984815</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T16:03:15Z" data-link="https://robinrendle.com/notes/notes-on-poverty/">
+      <h1>Poverty, By America</h1>
+
+(date: 2025-09-07, updated: 2025-09-07, from: <a href="https://robinrendle.com/notes/notes-on-poverty/">Robin Rendle Essays</a>)
+      <p>
+      
+      <address>
+        <a href="https://robinrendle.com/notes/notes-on-poverty/">https://robinrendle.com/notes/notes-on-poverty/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T14:13:54Z" data-link="https://mastodon.social/@Migueldeicaza/115163426639888747">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-09-07, from: <a href="https://mastodon.social/@Migueldeicaza/115163426639888747">Miguel de Icaza Mastondon feed</a>)
+      <p>
+      <p>Against apple recommendations on iPhone for Xogot, I had to use side sheets for both the scene pad and the inspector - too many issues trying to put the inspector as a sheet, when so many other things use non-modal sheets.</p><p>But I am loving my non-modal sheets.</p>
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115163426639888747">https://mastodon.social/@Migueldeicaza/115163426639888747</a>
       </address>
     </article>
 
@@ -490,6 +633,10 @@ I wrote about <a href="https://simonwillison.net/2025/Jun/24/anthropic-training/
 <blockquote>
 <p>Anthropic said in the settlement that the specific digital copies of books covered by the agreement were not used in the training of its commercially released AI models.</p>
 </blockquote>
+<p><strong>Update 3</strong>: I'm not confident that destroying the scanned books is a hard requirement here - I got that impression from <a href="https://www.documentcloud.org/documents/25982181-authors-v-anthropic-ruling/#document/p16">this section</a> of the summary judgment in June:</p>
+<blockquote>
+<p>Here, every purchased print copy was copied in order to save storage space and to enable searchability as a digital copy. The print original was destroyed. One replaced the other. And, there is no evidence that the new, digital copy was shown, shared, or sold outside the company. This use was even more clearly transformative than those in <em>Texaco</em>, <em>Google</em>, and <em>Sony Betamax</em> (where the number of copies went up by at least one), and, of course, more transformative than those uses rejected in <em>Napster</em> (where the number went up by “millions” of copies shared for free with others).</p>
+</blockquote>
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/law">law</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a></p>
@@ -570,8 +717,8 @@ But is it not already possible for students to understand Albert
 Einstein, Maya Angelou and Nelson Mandela by reading <strong>what they
 actually wrote</strong>, and <strong>what they actually said</strong>?
 We have books, and recordings, and all kinds of information for teachers
-and students to engage with, which can be sourced, cite and share,
-preserved and made accessible. How is chatting with some massively
+and students to engage with, which we can source, cite and share,
+preserve and make accessible. How is chatting with some massively
 inefficient technology running in a centralized data center, that will
 invent things that they might have said, better than what we have now?
 The only thing that LLMs do seem to be better at currently is routing
@@ -588,7 +735,7 @@ reauthorizing, the use of generative AI in society. It presents as a
 meaningful critique, but is instead a piece of kitsch commentary that is
 meant to appeal to a very specific demographic (people like me) who grew
 up with these computers, and are grappling with their complicit
-participation in a sociotechnical enterprise that has gone off the
+participation in a sociotechnical enterprise that has gone well off the
 rails.
 </p>
 <p>
