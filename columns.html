@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-09-07T16:07:40-07:00">
+  <meta name="date" content="2025-09-08T06:07:43-07:00">
 </head>
 <body>
   <header>
@@ -38,6 +38,120 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-09-08T11:43:59Z" data-link="https://www.nytimes.com/2025/09/07/opinion/trump-senate-democrats-shutdown.html?smid=nytcore-android-share">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-08, from: <a href="https://www.nytimes.com/2025/09/07/opinion/trump-senate-democrats-shutdown.html?smid=nytcore-android-share">Dave's blog</a>)
+      <p>
+      <p>Ezra Klein is a putz. He’s the one who wouldn’t shut up about Biden. Not interested in what he thinks we must do.</p>
+      <address>
+        <a href="https://www.nytimes.com/2025/09/07/opinion/trump-senate-democrats-shutdown.html?smid=nytcore-android-share">https://www.nytimes.com/2025/09/07/opinion/trump-senate-democrats-shutdown.html?smid=nytcore-android-share</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T11:05:31Z" data-link="https://www.schneier.com/blog/archives/2025/09/ai-in-government.html">
+      <h1>AI in Government</h1>
+
+(date: 2025-09-08, updated: 2025-09-06, from: <a href="https://www.schneier.com/blog/archives/2025/09/ai-in-government.html">Bruce Schneier blog</a>)
+      <p>
+      <p>Just a few months after Elon Musk&#8217;s retreat from his unofficial role leading the Department of Government Efficiency (DOGE), we have a clearer picture of his vision of government powered by artificial intelligence, and it has a lot more to do with consolidating power than benefitting the public. Even so, we must not lose sight of the fact that a different administration could wield the same technology to advance a more positive future for AI in government.</p>
+<p>To most on the American left, the DOGE end game is a dystopic vision of a government run by machines that benefits an elite few at the expense of the people. It includes AI ...</p>
+      <address>
+        <a href="https://www.schneier.com/blog/archives/2025/09/ai-in-government.html">https://www.schneier.com/blog/archives/2025/09/ai-in-government.html</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T10:25:08Z" data-link="https://alexschroeder.ch/view/2025-09-02-feed">
+      <h1>2025-09-02 Feeds</h1>
+
+(date: 2025-09-08, from: <a href="https://alexschroeder.ch/view/2025-09-02-feed">Alex Schroeder's Blog</a>)
+      <p>
+      <h1 id="2025-09-02-feeds">2025-09-02 Feeds</h1>
+
+<p>I am once again thinking of the feed as a generic single-file export format (RSS or Atom, it doesn&rsquo;t matter to me). Does that make sense? Or would it make more sense to just zip HTML and images? The only benefit of using a feed is that the format is standardised, I guess.</p>
+
+<p>Feeds as an export format only if the feed items contain images as attachments or as data URIs 😨 I guess? I mean, feeds are good enough to feed the text of pages into a search engine like <a href="Xobaque">Xobaque</a>, but if the feed is supposed to act as real export format, the other assets are also important.</p>
+
+<p>And what happens if an image is used by two pages? The feed format would mean that both pages need to declare it as an attachment, no? So I&rsquo;m guessing, the feed as a universal import and export mechanism is just not good enough.</p>
+
+<p>Nevertheless, Oddμ has two feed exports on the command-line:</p>
+
+<ul>
+<li><a href="oddmu/oddmu-export.1">oddmu-export(1)</a>, to export all the pages in a single feed file. Use this for the initial load of a site into Xobaque.</li>
+<li><a href="oddmu/oddmu-feed.1">oddmu-feed(1)</a>, to render a feed for a single page. Use this for the initial load of a particular hashtag into Xobaque. Take <a href="Emacs">Emacs</a>, for example. If you just look at the <a href="Emacs.rss">online feed</a>, it contains the last ten items. The <code>feed</code> subcommand, on the other hand, generates a feed containing <em>all</em> the items.</li>
+</ul>
+
+<p>And yet, I think the <em>archive</em> action (not enabled on this site) is the more useful one, in general. Except the archive contains the Markdown files, not the HTML files. So you still need to run <a href="oddmu/oddmu-static.1">oddmu-static(1)</a> to generate the static site.</p>
+
+<p>Lately, I&rsquo;ve been writing a shell script to take an HTML export from <a href="Oddmuse">Oddmuse</a> sites and convert them to <a href="Odd%CE%BC">Oddμ</a> sites. This requires a conversion from HTML to Markdown (getting rid of the quirky wiki markup). I&rsquo;m using <a href="https://github.com/JohannesKaufmann/html-to-markdown">html2markdown</a> even though it&rsquo;s &ldquo;sponsored by 🔥 Firecrawl, where you can scrape any website and turn it into AI friendly markdown with one API call.&rdquo; 🤮 There are two alternatives written in Python: <a href="https://github.com/Alir3z4/html2text">html2text</a> translates HTML to text that happens to be Markdown; <a href="https://github.com/dlon/html2markdown">html2markdown</a> does that and preserves untranslated HTML. Something to keep in mind!</p>
+
+<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
+
+<p><strong>2025-09-08</strong>. I got a friendly email from adia pointing me in the right direction: Wordpress has an export format that is one huge feed without media files.</p>
+
+<blockquote>
+<p>Your export file doesn’t actually contain your media library (like photos, videos, audio, etc.). &ndash; <a href="https://wordpress.com/support/export/">Export your website’s content</a></p>
+</blockquote>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-09-02-feed">https://alexschroeder.ch/view/2025-09-02-feed</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T08:02:34Z" data-link="https://robertreich.substack.com/p/i-really-want-you-to-read-this">
+      <h1>I REALLY want you to read this book </h1>
+
+(date: 2025-09-08, from: <a href="https://robertreich.substack.com/p/i-really-want-you-to-read-this">Robert Reich's blog</a>)
+      <p>
+      I decided it&#8217;s not shameless self-promotion to ask you directly
+      <address>
+        <a href="https://robertreich.substack.com/p/i-really-want-you-to-read-this">https://robertreich.substack.com/p/i-really-want-you-to-read-this</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T07:10:50Z" data-link="https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/">
+      <h1>giants, standing on the shoulders of</h1>
+
+(date: 2025-09-08, from: <a href="https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/">Daniel Stenberg Blog</a>)
+      <p>
+      This was the title of my keynote at the Open Source Summit Europe 2025 conference in Amsterdam that I delivered on August 25, 2025. The giants, as in fact large parts of modern infrastructure, stand on the shoulders of Open Source projects and their maintainers. But maybe these projects and people are not treated in &#8230; <a href="https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/" class="more-link">Continue reading <span class="screen-reader-text">giants, standing on the shoulders of</span> <span class="meta-nav">&#8594;</span></a>
+      <address>
+        <a href="https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/">https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T03:12:48Z" data-link="https://heathercoxrichardson.substack.com/p/september-7-2025">
+      <h1>September 7, 2025</h1>
+
+(date: 2025-09-08, from: <a href="https://heathercoxrichardson.substack.com/p/september-7-2025">Heather Cox Richardson blog</a>)
+      <p>
+      Tonight is a picture night, but one a little bit different than usual.
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/september-7-2025">https://heathercoxrichardson.substack.com/p/september-7-2025</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T23:49:59Z" data-link="https://www.semafor.com/article/09/07/2025/stablecoins-may-be-next-battleground-in-us-china-rivalry">
+      <h1>@Dave's blog</h1>
+
+(date: 2025-09-07, from: <a href="https://www.semafor.com/article/09/07/2025/stablecoins-may-be-next-battleground-in-us-china-rivalry">Dave's blog</a>)
+      <p>
+      <p>Stablecoins may be next battleground in US-China rivalry.</p>
+      <address>
+        <a href="https://www.semafor.com/article/09/07/2025/stablecoins-may-be-next-battleground-in-us-china-rivalry">https://www.semafor.com/article/09/07/2025/stablecoins-may-be-next-battleground-in-us-china-rivalry</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T23:02:32Z" data-link="https://memex.naughtons.org/monday-8-september-2025/41178/">
+      <h1>Monday 8 September, 2025</h1>
+
+(date: 2025-09-07, from: <a href="https://memex.naughtons.org/monday-8-september-2025/41178/">John Naughton's online diary</a>)
+      <p>
+      Street scene: Venice Quote of the Day “Living is a compromise, between doing what you want and doing what other people want.” John Updike Musical alternative to the morning’s radio news Nina Simone &#124; The Last Rose Of Summer &#124; &#8230; <a href="https://memex.naughtons.org/monday-8-september-2025/41178/">Continue reading <span class="meta-nav">&#8594;</span></a>
+      <address>
+        <a href="https://memex.naughtons.org/monday-8-september-2025/41178/">https://memex.naughtons.org/monday-8-september-2025/41178/</a>
+      </address>
+    </article>
 
     <article data-published="2025-09-07T22:30:47Z" data-link="https://robertreich.substack.com/p/sunday-caption-contest-war">
       <h1>Sunday caption contest: War?</h1>
@@ -123,7 +237,7 @@
 
 (date: 2025-09-07, from: <a href="http://scripting.com/2025/09/07.html#a171537">Dave Winer's Scripting News</a>)
       <p>
-      <a href="https://socketdemo.feedland.org/">New demo app</a>. FeedLand communicates back to the client app via websockets. This is absolutely the easiest way to get flow from feeds to apps running on servers or in a browser, or other desktop app. Websockets is a mature standard, and incredibly useful. I'm now working on a toolkit for it, along with all the other projects going on in parallel, so other developers can hook up to FeedLand to get the flow of new items. The demo shows you the JSON version of every news item as it appears on the wire. Impossible to read at times, but there's no limit to the kinds of apps you can build for this. My friend Chuck Shotton has a market-predicting LLM app that gets its news this way. Nothing to install on a server. FeedLand does all the work. I expect to have a toolkit out sometime in the next month.
+      <a href="https://socketdemo.feedland.org/">New demo app</a>. FeedLand communicates back to the client app via websockets. This is absolutely the easiest way to get flow from feeds to apps running on servers or in a browser, or other desktop app. <a href="https://en.wikipedia.org/wiki/WebSocket">Websockets</a> is a mature <a href="https://websockets.spec.whatwg.org/">standard</a>, and incredibly useful. I'm now working on a toolkit for it, along with all the other projects going on in parallel, so other developers can hook into <a href="https://feedland.com/">FeedLand</a> to get the flow of new items. The <a href="https://socketdemo.feedland.org/">demo</a> shows you the JSON version of every news item as it appears on the wire. There's no limit to the kinds of apps you can build for this. My <a href="https://daytona.scripting.com/search?q=%22Chuck%20Shotton%22">friend</a> Chuck Shotton has a market-predicting LLM app that gets its news this way. Nothing to install on a server. FeedLand does all the work. I expect to have a toolkit out sometime in the few weeks.
       <address>
         <a href="http://scripting.com/2025/09/07.html#a171537">http://scripting.com/2025/09/07.html#a171537</a>
       </address>
@@ -207,6 +321,17 @@
 
       <address>
         <a href="https://adactio.com/notes/22119">https://adactio.com/notes/22119</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-07T00:00:00Z" data-link="https://livelaugh.blog/posts/weekly-retro-31/">
+      <h1>weekly retro #31: big pharma deez nuts</h1>
+
+(date: 2025-09-07, updated: 2025-09-07, from: <a href="https://livelaugh.blog/posts/weekly-retro-31/">Live Laugh blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://livelaugh.blog/posts/weekly-retro-31/">https://livelaugh.blog/posts/weekly-retro-31/</a>
       </address>
     </article>
 
@@ -1748,36 +1873,6 @@
       
       <address>
         <a href="https://kottke.org/25/09/0047437-apologies-you-have-reache">https://kottke.org/25/09/0047437-apologies-you-have-reache</a>
-      </address>
-    </article>
-
-    <article data-published="2025-09-03T12:51:25Z" data-link="https://alexschroeder.ch/view/2025-09-02-feed">
-      <h1>2025-09-02 Feeds</h1>
-
-(date: 2025-09-03, from: <a href="https://alexschroeder.ch/view/2025-09-02-feed">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-09-02-feeds">2025-09-02 Feeds</h1>
-
-<p>I am once again thinking of the feed as a generic single-file export format (RSS or Atom, it doesn&rsquo;t matter to me). Does that make sense? Or would it make more sense to just zip HTML and images? The only benefit of using a feed is that the format is standardised, I guess.</p>
-
-<p>Feeds as an export format only if the feed items contain images as attachments or as data URIs 😨 I guess? I mean, feeds are good enough to feed the text of pages into a search engine like <a href="Xobaque">Xobaque</a>, but if the feed is supposed to act as real export format, the other assets are also important.</p>
-
-<p>And what happens if an image is used by two pages? The feed format would mean that both pages need to declare it as an attachment, no? So I&rsquo;m guessing, the feed as a universal import and export mechanism is just not good enough.</p>
-
-<p>Nevertheless, Oddμ has two feed exports on the command-line:</p>
-
-<ul>
-<li><a href="oddmu/oddmu-export.1">oddmu-export(1)</a>, to export all the pages in a single feed file. Use this for the initial load of a site into Xobaque.</li>
-<li><a href="oddmu/oddmu-feed.1">oddmu-feed(1)</a>, to render a feed for a single page. Use this for the initial load of a particular hashtag into Xobaque. Take <a href="Emacs">Emacs</a>, for example. If you just look at the <a href="Emacs.rss">online feed</a>, it contains the last ten items. The <code>feed</code> subcommand, on the other hand, generates a feed containing <em>all</em> the items.</li>
-</ul>
-
-<p>And yet, I think the <em>archive</em> action (not enabled on this site) is the more useful one, in general. Except the archive contains the Markdown files, not the HTML files. So you still need to run <a href="oddmu/oddmu-static.1">oddmu-static(1)</a> to generate the static site.</p>
-
-<p>Lately, I&rsquo;ve been writing a shell script to take an HTML export from <a href="Oddmuse">Oddmuse</a> sites and convert them to <a href="Odd%CE%BC">Oddμ</a> sites. This requires a conversion from HTML to Markdown (getting rid of the quirky wiki markup). I&rsquo;m using <a href="https://github.com/JohannesKaufmann/html-to-markdown">html2markdown</a> even though it&rsquo;s &ldquo;sponsored by 🔥 Firecrawl, where you can scrape any website and turn it into AI friendly markdown with one API call.&rdquo; 🤮 There are two alternatives written in Python: <a href="https://github.com/Alir3z4/html2text">html2text</a> translates HTML to text that happens to be Markdown; <a href="https://github.com/dlon/html2markdown">html2markdown</a> does that and preserves untranslated HTML. Something to keep in mind!</p>
-
-<p><a class="tag" href="/search/?q=%23Oddμ">#Oddμ</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-09-02-feed">https://alexschroeder.ch/view/2025-09-02-feed</a>
       </address>
     </article>
 
@@ -3437,6 +3532,17 @@ commit id: "Gianni, please say a few words."
       
       <address>
         <a href="https://livelaugh.blog/posts/weekly-retro-30-2025-august/">https://livelaugh.blog/posts/weekly-retro-30-2025-august/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-08-31T00:00:00Z" data-link="https://livelaugh.blog/posts/weekly-retro-30/">
+      <h1>weekly retro #30: live laugh cup</h1>
+
+(date: 2025-08-31, updated: 2025-08-31, from: <a href="https://livelaugh.blog/posts/weekly-retro-30/">Live Laugh blog</a>)
+      <p>
+      
+      <address>
+        <a href="https://livelaugh.blog/posts/weekly-retro-30/">https://livelaugh.blog/posts/weekly-retro-30/</a>
       </address>
     </article>
 
@@ -6346,402 +6452,6 @@ We suspected it was related to intercourse but when they stopped there was just 
       
       <address>
         <a href="https://infrequently.org/2025/08/apple-vs-fb-kayfabe/">https://infrequently.org/2025/08/apple-vs-fb-kayfabe/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T23:27:09Z" data-link="https://memex.naughtons.org/monday-25-august-2025/41138/">
-      <h1>Monday 25 August, 2025</h1>
-
-(date: 2025-08-24, from: <a href="https://memex.naughtons.org/monday-25-august-2025/41138/">John Naughton's online diary</a>)
-      <p>
-      We&#8217;re all going on a cycling holiday Spotted on the M5 on the way to the South-West. I reckon this is a family of six cyclists plus a baby passenger (in the back seat of the adult bike on the &#8230; <a href="https://memex.naughtons.org/monday-25-august-2025/41138/">Continue reading <span class="meta-nav">&#8594;</span></a>
-      <address>
-        <a href="https://memex.naughtons.org/monday-25-august-2025/41138/">https://memex.naughtons.org/monday-25-august-2025/41138/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T23:12:25Z" data-link="https://www.yahoo.com/news/articles/hundreds-mamdani-scavenger-hunt-enthusiasts-214600702.html?utm_source=chatgpt.com">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.yahoo.com/news/articles/hundreds-mamdani-scavenger-hunt-enthusiasts-214600702.html?utm_source=chatgpt.com">Dave's blog</a>)
-      <p>
-      <p>Hundreds of Mamdani Scavenger Hunt enthusiasts compete for ‘not cash’ prize.</p>
-      <address>
-        <a href="https://www.yahoo.com/news/articles/hundreds-mamdani-scavenger-hunt-enthusiasts-214600702.html?utm_source=chatgpt.com">https://www.yahoo.com/news/articles/hundreds-mamdani-scavenger-hunt-enthusiasts-214600702.html?utm_source=chatgpt.com</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T23:04:36Z" data-link="https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890?link_source=ta_bluesky_link&taid=68ab98f37b165000019f92c4&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890?link_source=ta_bluesky_link&taid=68ab98f37b165000019f92c4&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky">Dave's blog</a>)
-      <p>
-      <p>National Guard troops in D.C. to begin carrying firearms.</p>
-      <address>
-        <a href="https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890?link_source=ta_bluesky_link&taid=68ab98f37b165000019f92c4&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky">https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890?link_source=ta_bluesky_link&taid=68ab98f37b165000019f92c4&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T22:01:21Z" data-link="https://robertreich.substack.com/p/sunday-caption-contest-wanna-dance">
-      <h1>Sunday caption contest: Wanna Dance?</h1>
-
-(date: 2025-08-24, from: <a href="https://robertreich.substack.com/p/sunday-caption-contest-wanna-dance">Robert Reich's blog</a>)
-      <p>
-      And last week&#8217;s winner
-      <address>
-        <a href="https://robertreich.substack.com/p/sunday-caption-contest-wanna-dance">https://robertreich.substack.com/p/sunday-caption-contest-wanna-dance</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T18:58:36Z" data-link="https://alexschroeder.ch/view/2025-08-21-web-server-logs">
-      <h1>2025-08-21 Looking at web server logs</h1>
-
-(date: 2025-08-24, from: <a href="https://alexschroeder.ch/view/2025-08-21-web-server-logs">Alex Schroeder's Blog</a>)
-      <p>
-      <h1 id="2025-08-21-looking-at-web-server-logs">2025-08-21 Looking at web server logs</h1>
-
-<p><a class="account" href="https://scholar.social/@bookandswordblog" title="@bookandswordblog@scholar.social">@bookandswordblog</a> recently wondered how to look at web server logs. Ever since I&rsquo;m fighting the bots, I&rsquo;ve had to look at the web server stats and my <a href="/admin">admin</a> folder is full of small scripts. But if you&rsquo;re new to it all, how do you start?</p>
-
-<h2 id="where-are-the-files">Where are the files?</h2>
-
-<p>If you use Apache on Debian, the current log file is in <code>/var/log/apache2/access.log</code> so look for something similar. If you use nginx instead of Apache, it might be a folder like <code>/var/log/nginx</code>. The log file itself might be called differently, too.</p>
-
-<h2 id="log-format">Log format</h2>
-
-<p>The log file format can vary, too. If you use Apache on Debian, the log formats are set in <code>/etc/apache2/apache2.conf</code> using the <code>LogFormat</code> directive, and each virtual host can pick one of them using the <code>CustomLog</code> directive.
-See <a href="https://httpd.apache.org/docs/2.4/logs.html#accesslog">Log Files</a>.</p>
-
-<p>In my case, I use a config file that sets the following:</p>
-
-<pre><code>LogFormat &quot;%v:%p %h %l %u %t \&quot;%r\&quot; %&gt;s %O \&quot;%{Referer}i\&quot; \&quot;%{User-Agent}i\&quot; %&gt;D&quot; vhost_combined
-CustomLog ${APACHE_LOG_DIR}/access.log vhost_combined
-</code></pre>
-
-<p>This adds <code>%&gt;D</code> at the end of the format and is otherwise identical to the default <code>vhost_combined</code> format.
-The format codes are documented on the <a href="https://httpd.apache.org/docs/2.4/mod/mod_log_config.html#formats">mod_log_config</a> page.</p>
-
-<p>And example line from my logs:</p>
-
-<p><code>social.alexschroeder.ch:443 37.27.248.47 - - [21/Aug/2025:00:59:49 +0200] &quot;POST /users/alex/inbox HTTP/1.1&quot; 202 4207 &quot;-&quot; &quot;Mastodon/4.4.2 (http.rb/5.3.1; +https://beige.party/)&quot; 33180</code></p>
-
-<p>This means:</p>
-
-<ul>
-<li>a request to host <code>social.alexschroeder.ch</code> on port <code>443</code></li>
-<li>from IP address <code>37.27.248.47</code></li>
-<li>with no remote log name</li>
-<li>and no remote user</li>
-<li>on 2025-08-21 00:59:49 CEST</li>
-<li>posted information to <code>/users/alex/inbox</code> (to read information the request would have used <code>GET</code> instead of <code>POST</code>)</li>
-<li>the response was a status 202 (see <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status">HTTP response status codes</a> for a list)</li>
-<li>and contained 4207 bytes</li>
-<li>with no referrer provided</li>
-<li>from a Mastodon user agent self-identifying as from beige.party</li>
-<li>taking 33180 microseconds, or about 33 milliseconds (this is the information I added)</li>
-</ul>
-
-<h2 id="processing-the-log-using-awk">Processing the log using <code>awk</code></h2>
-
-<p>I&rsquo;m going to use <code>awk</code> to process the log files. It&rsquo;s a very old programming language.</p>
-
-<p>Every line is split into words based on spaces. Each word is numbered and available as a variable starting with the dollar sign and its number. Therefore, when processing the <code>access.log</code> file using the format shown above, the number variables contain the following:</p>
-
-<pre><code> $1  social.alexschroeder.ch:443
- $2  37.27.248.47
- $3  -
- $4  -
- $5  [21/Aug/2025:00:59:49
- $6  +0200]
- $7  &quot;POST
- $8  /users/alex/inbox
- $9  HTTP/1.1&quot;
-$10  202
-$11  4207
-</code></pre>
-
-<p>You&rsquo;ll note that those square brackets and double quotes are sometimes very annoying. 🤨</p>
-
-<p>A block is enclosed in braces <code>{ like this }</code> and is executed for every line. You don&rsquo;t need to declare variables before assigning to them. An element of a an associative array (a hash map in Perl or Java, a Dictionary in Python) is accessed using square brackets <code>like[this]</code>.</p>
-
-<p>A block after <code>END</code> is executed just once, at the end of the input.</p>
-
-<h2 id="counting-the-hits-per-ip-number">Counting the hits per IP number</h2>
-
-<p>We use an associative array where the key is the IP address of the visitor and the value is the number of hits. At the end, we print the number hits, a tab, and the IP address, for every address. The <code>++</code> operator increments the operand by one. <code>$2</code> is the IP address, and <code>hits</code> is the associative array.</p>
-
-<p>We then use <code>sort --sort-numerically --reverse</code> to sort these lines by their hits, putting more hits at the top. <code>head --lines=20</code> then prints the first 20 lines.</p>
-
-<pre><code>awk '{hits[$2]++} END {for (ip in hits) printf &quot;%d\t%s\n&quot;, hits[ip], ip}' /var/log/apache2/access.log \
-| sort --numeric-sort --reverse \
-| head --lines=20
-</code></pre>
-
-<h2 id="counting-the-bytes-per-ip-number-the-bandwidth-used">Counting the bytes per IP number (the bandwidth used)</h2>
-
-<p>In order to sum the bandwidth used, we need to sum the bytes send per IP number.
-The <code>awk</code> script here does that and prints the number of MB (1000000 bytes) per IP number.</p>
-
-<p>We then use <code>sort --sort-numerically --reverse</code> to sort these lines by their hits, putting more volume at the top. <code>head --lines=20</code> then prints the first 20 lines.</p>
-
-<pre><code>awk '{vol[$2] += $11} END {for (ip in vol) printf &quot;%dM\t%s\n&quot;, vol[ip]/1E6, ip}' /var/log/apache2/access.log \
-| sort --numeric-sort --reverse \
-| head --lines=20
-</code></pre>
-
-<h2 id="ranking-the-requests-by-popularity">Ranking the requests by popularity</h2>
-
-<p>In order to rank the requests we need to print the requests and count them, then sort them.
-The <code>awk</code> script just prints the request itself; <code>sort</code> sorts the lines and <code>uniq -c</code> counts the unique lines (it requires a sorted input)</p>
-
-<p>We then use <code>sort --sort-numerically --reverse</code> to sort these lines, putting more hits at the top. <code>head --lines=20</code> then prints the first 20 lines.</p>
-
-<pre><code>awk '{print $8}' /var/log/apache2/access.log \
-| sort \
-| uniq --count \
-| sort --numeric-sort --reverse \
-| head --lines=20
-</code></pre>
-
-<p>Sometimes it can be interesting to note what sort requests are not OK (Status 200). Instead of starting with the whole access log, we only print requests if the status is not 200.
-This uses a new feature of <code>awk</code> that we haven&rsquo;t used before. You can have conditions before the block.</p>
-
-<pre><code>awk '$10 != 200 {print $8}' /var/log/apache2/access.log \
-| sort \
-| uniq --count \
-| sort --numeric-sort --reverse \
-| head --lines=20
-</code></pre>
-
-<p>And if you&rsquo;re interested in the status itself:</p>
-
-<pre><code>awk '$10 != 200 {print $10, $8}' /var/log/apache2/access.log \
-| sort \
-| uniq --count \
-| sort --numeric-sort --reverse \
-| head --lines=20
-</code></pre>
-
-<p>Or if you&rsquo;re interested only in errors for one particular virtual host:</p>
-
-<pre><code>awk '$1 == &quot;alexschroeder.ch:443&quot; &amp;&amp; $10 &gt;= 400 {print $10, $8}' /var/log/apache2/access.log \
-| sort \
-| uniq --count \
-| sort --numeric-sort --reverse \
-| head --lines=20
-</code></pre>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
-      <address>
-        <a href="https://alexschroeder.ch/view/2025-08-21-web-server-logs">https://alexschroeder.ch/view/2025-08-21-web-server-logs</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T18:09:38Z" data-link="https://www.propublica.org/article/tarrant-county-texas-polling-sites-early-voting-cuts">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.propublica.org/article/tarrant-county-texas-polling-sites-early-voting-cuts">Dave's blog</a>)
-      <p>
-      <p>Texas’ Tarrant County Cuts Over 100 Polling Sites, Reduces Early Voting Locations.</p>
-      <address>
-        <a href="https://www.propublica.org/article/tarrant-county-texas-polling-sites-early-voting-cuts">https://www.propublica.org/article/tarrant-county-texas-polling-sites-early-voting-cuts</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T18:03:28Z" data-link="https://heathercoxrichardson.substack.com/p/august-23-2025-236">
-      <h1>August 23, 2025</h1>
-
-(date: 2025-08-24, from: <a href="https://heathercoxrichardson.substack.com/p/august-23-2025-236">Heather Cox Richardson blog</a>)
-      <p>
-      
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/august-23-2025-236">https://heathercoxrichardson.substack.com/p/august-23-2025-236</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T16:01:06Z" data-link="https://mastodon.social/@Migueldeicaza/115084575801594411">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-08-24, from: <a href="https://mastodon.social/@Migueldeicaza/115084575801594411">Miguel de Icaza Mastondon feed</a>)
-      <p>
-      <p>I also found this blog post that covers the transition from LocalizedStringKey to LocalizedStringResource - that happened while I was sleeping:</p><p><a href="https://levelup.gitconnected.com/ios-localization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">levelup.gitconnected.com/ios-l</span><span class="invisible">ocalization-localizedstringresource-vs-localizedstringkey-vs-string-56cb519cf098</span></a></p>
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115084575801594411">https://mastodon.social/@Migueldeicaza/115084575801594411</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T16:00:11Z" data-link="http://scripting.com/2025/08/24.html#a160011">
-      <h1>@Dave Winer's Scripting News</h1>
-
-(date: 2025-08-24, from: <a href="http://scripting.com/2025/08/24.html#a160011">Dave Winer's Scripting News</a>)
-      <p>
-      <a href="https://github.com/scripting/feedlandInstall/issues/68">New version of FeedLand coming</a>. It has features to support an <a href="http://scripting.com/davenet/1999/05/24/editThisPage.html">Edit This Page</a> function in WordLand and possibly elsewhere.
-      <address>
-        <a href="http://scripting.com/2025/08/24.html#a160011">http://scripting.com/2025/08/24.html#a160011</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T14:46:36Z" data-link="https://mastodon.social/@Migueldeicaza/115084282833530185">
-      <h1>@Miguel de Icaza Mastondon feed</h1>
-
-(date: 2025-08-24, from: <a href="https://mastodon.social/@Migueldeicaza/115084282833530185">Miguel de Icaza Mastondon feed</a>)
-      <p>
-      <p>This WWDC talk on localization is a jewel that doesn’t get enough praise:</p><p>I was struggling with something (google, ChatGPT) and decided as a last resort “maybe Apple has said something recently”.</p><p>Protein packed:</p><p><a href="https://developer.apple.com/videos/play/wwdc2025/225" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/videos/pla</span><span class="invisible">y/wwdc2025/225</span></a></p>
-      <address>
-        <a href="https://mastodon.social/@Migueldeicaza/115084282833530185">https://mastodon.social/@Migueldeicaza/115084282833530185</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T13:12:50Z" data-link="https://www.theguardian.com/politics/2025/aug/23/nick-clegg-silicon-valley-self-pity-wealthy-men?fbclid=IwY2xjawMX7wBleHRuA2FlbQIxMQABHlPsid9Kl8wh5kCBZjq3bK5vekNrF7ceP0Id1kRvBASJeqkEp_yRYsr3qhhS_aem_hXWAXxaUOfrw3vxRuUxZJg">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.theguardian.com/politics/2025/aug/23/nick-clegg-silicon-valley-self-pity-wealthy-men?fbclid=IwY2xjawMX7wBleHRuA2FlbQIxMQABHlPsid9Kl8wh5kCBZjq3bK5vekNrF7ceP0Id1kRvBASJeqkEp_yRYsr3qhhS_aem_hXWAXxaUOfrw3vxRuUxZJg">Dave's blog</a>)
-      <p>
-      <p>Silicon Valley is full of (hugely) wealthy men who think they’re victims, says Nick Clegg.</p>
-      <address>
-        <a href="https://www.theguardian.com/politics/2025/aug/23/nick-clegg-silicon-valley-self-pity-wealthy-men?fbclid=IwY2xjawMX7wBleHRuA2FlbQIxMQABHlPsid9Kl8wh5kCBZjq3bK5vekNrF7ceP0Id1kRvBASJeqkEp_yRYsr3qhhS_aem_hXWAXxaUOfrw3vxRuUxZJg">https://www.theguardian.com/politics/2025/aug/23/nick-clegg-silicon-valley-self-pity-wealthy-men?fbclid=IwY2xjawMX7wBleHRuA2FlbQIxMQABHlPsid9Kl8wh5kCBZjq3bK5vekNrF7ceP0Id1kRvBASJeqkEp_yRYsr3qhhS_aem_hXWAXxaUOfrw3vxRuUxZJg</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T13:03:53Z" data-link="https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/?gift=f35zZN0v_gDFE8xNwlQAHes109cwtDtZjIEXO0OW03E&utm_source=copy-link&utm_medium=social&utm_campaign=share">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/?gift=f35zZN0v_gDFE8xNwlQAHes109cwtDtZjIEXO0OW03E&utm_source=copy-link&utm_medium=social&utm_campaign=share">Dave's blog</a>)
-      <p>
-      <p>AI Is a Mass-Delusion Event.</p>
-      <address>
-        <a href="https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/?gift=f35zZN0v_gDFE8xNwlQAHes109cwtDtZjIEXO0OW03E&utm_source=copy-link&utm_medium=social&utm_campaign=share">https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/?gift=f35zZN0v_gDFE8xNwlQAHes109cwtDtZjIEXO0OW03E&utm_source=copy-link&utm_medium=social&utm_campaign=share</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T12:02:18Z" data-link="https://steady.substack.com/p/crazy">
-      <h1>‘Crazy’</h1>
-
-(date: 2025-08-24, from: <a href="https://steady.substack.com/p/crazy">Dan Rather's Steady</a>)
-      <p>
-      A Reason To Smile
-      <address>
-        <a href="https://steady.substack.com/p/crazy">https://steady.substack.com/p/crazy</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T08:37:24Z" data-link="https://www.theatlantic.com/ideas/archive/2025/08/gavin-newsom-social-media-trump/683968/?link_source=ta_bluesky_link&taid=68aa6ea67b165000019f8963&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.theatlantic.com/ideas/archive/2025/08/gavin-newsom-social-media-trump/683968/?link_source=ta_bluesky_link&taid=68aa6ea67b165000019f8963&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky">Dave's blog</a>)
-      <p>
-      As it turns out, the people who pioneered the slogan “Fuck your feelings” are impossibly delicate souls.
-      <address>
-        <a href="https://www.theatlantic.com/ideas/archive/2025/08/gavin-newsom-social-media-trump/683968/?link_source=ta_bluesky_link&taid=68aa6ea67b165000019f8963&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky">https://www.theatlantic.com/ideas/archive/2025/08/gavin-newsom-social-media-trump/683968/?link_source=ta_bluesky_link&taid=68aa6ea67b165000019f8963&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T08:02:02Z" data-link="https://robertreich.substack.com/p/sunday-thought-the-silver-lining">
-      <h1>Sunday thought: Is there a silver lining to these darkening clouds?</h1>
-
-(date: 2025-08-24, from: <a href="https://robertreich.substack.com/p/sunday-thought-the-silver-lining">Robert Reich's blog</a>)
-      <p>
-      Friends,
-      <address>
-        <a href="https://robertreich.substack.com/p/sunday-thought-the-silver-lining">https://robertreich.substack.com/p/sunday-thought-the-silver-lining</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T07:35:12Z" data-link="https://www.nytimes.com/2025/08/23/us/politics/congress-epstein-files-public.html?unlocked_article_code=1.gU8.7dEN.nDE_io8w81vd&smid=url-share">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.nytimes.com/2025/08/23/us/politics/congress-epstein-files-public.html?unlocked_article_code=1.gU8.7dEN.nDE_io8w81vd&smid=url-share">Dave's blog</a>)
-      <p>
-      <p>Justice Dept. Sent Congress Epstein Files That Were Already Public, Democrats Say. (And what does the New York Times say?)</p>
-      <address>
-        <a href="https://www.nytimes.com/2025/08/23/us/politics/congress-epstein-files-public.html?unlocked_article_code=1.gU8.7dEN.nDE_io8w81vd&smid=url-share">https://www.nytimes.com/2025/08/23/us/politics/congress-epstein-files-public.html?unlocked_article_code=1.gU8.7dEN.nDE_io8w81vd&smid=url-share</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T05:47:34Z" data-link="https://heathercoxrichardson.substack.com/p/august-23-2025">
-      <h1>August 23, 2025 </h1>
-
-(date: 2025-08-24, from: <a href="https://heathercoxrichardson.substack.com/p/august-23-2025">Heather Cox Richardson blog</a>)
-      <p>
-      &#8220;It is my Great Honor to report that the United States of America now fully owns and controls 10% of INTEL, a Great American Company that has an even more incredible future,&#8221; President Donald Trump wrote yesterday afternoon on social media.
-      <address>
-        <a href="https://heathercoxrichardson.substack.com/p/august-23-2025">https://heathercoxrichardson.substack.com/p/august-23-2025</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T02:19:33Z" data-link="https://www.mollywhite.net/reading/books?search=Lessons%20in%20Magic%20and%20Disaster">
-      <h1>Finished reading Lessons in Magic and Disaster</h1>
-
-(date: 2025-08-24, updated: 2025-08-24, from: <a href="https://www.mollywhite.net/reading/books?search=Lessons%20in%20Magic%20and%20Disaster">Molly White blogs</a>)
-      <p>
-      
-      <address>
-        <a href="https://www.mollywhite.net/reading/books?search=Lessons%20in%20Magic%20and%20Disaster">https://www.mollywhite.net/reading/books?search=Lessons%20in%20Magic%20and%20Disaster</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T02:11:17Z" data-link="https://www.khou.com/article/news/crime/men-impersonating-police-shot-bellnole-drive/285-931f39d1-2f01-4654-b56a-cc11abaaaf72">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.khou.com/article/news/crime/men-impersonating-police-shot-bellnole-drive/285-931f39d1-2f01-4654-b56a-cc11abaaaf72">Dave's blog</a>)
-      <p>
-      <p>Stringer noted that real officers do not wear ski masks.</p>
-      <address>
-        <a href="https://www.khou.com/article/news/crime/men-impersonating-police-shot-bellnole-drive/285-931f39d1-2f01-4654-b56a-cc11abaaaf72">https://www.khou.com/article/news/crime/men-impersonating-police-shot-bellnole-drive/285-931f39d1-2f01-4654-b56a-cc11abaaaf72</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T01:36:22Z" data-link="https://cmarmitage.substack.com/p/its-time-for-americans-to-start-talking">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://cmarmitage.substack.com/p/its-time-for-americans-to-start-talking">Dave's blog</a>)
-      <p>
-      Blue states are essentially paying red states to undermine democracy.
-      <address>
-        <a href="https://cmarmitage.substack.com/p/its-time-for-americans-to-start-talking">https://cmarmitage.substack.com/p/its-time-for-americans-to-start-talking</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T01:32:30Z" data-link="https://www.techrepublic.com/article/news-google-meta-cloud-deal/">
-      <h1>@Dave's blog</h1>
-
-(date: 2025-08-24, from: <a href="https://www.techrepublic.com/article/news-google-meta-cloud-deal/">Dave's blog</a>)
-      <p>
-      <p>Meta Strikes $10 Billion Cloud Deal With Google to Boost AI Capacity.</p>
-      <address>
-        <a href="https://www.techrepublic.com/article/news-google-meta-cloud-deal/">https://www.techrepublic.com/article/news-google-meta-cloud-deal/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T00:26:17Z" data-link="https://phoenix.new/?utm_source=df">
-      <h1>Phoenix.new</h1>
-
-(date: 2025-08-24, updated: 2025-08-24, from: <a href="https://phoenix.new/?utm_source=df">Daring Fireball</a>)
-      <p>
-      
-      <address>
-        <a href="https://phoenix.new/?utm_source=df">https://phoenix.new/?utm_source=df</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T00:23:00Z" data-link="https://ghuntley.com/agent/">
-      <h1>how to build a coding agent: free workshop</h1>
-
-(date: 2025-08-24, from: <a href="https://ghuntley.com/agent/">George Huntly Blog</a>)
-      <p>
-      It's not that hard to build a coding agent. 300 lines of code running in a loop with LLM tokens. You just keep throwing tokens at the loop, and then you've got yourself an agent.
-      <address>
-        <a href="https://ghuntley.com/agent/">https://ghuntley.com/agent/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-08-24T00:00:00Z" data-link="https://livelaugh.blog/posts/weekly-retro-29-2025-august/">
-      <h1>weekly retro #29: (close to) an ego death by wax and words</h1>
-
-(date: 2025-08-24, updated: 2025-08-24, from: <a href="https://livelaugh.blog/posts/weekly-retro-29-2025-august/">Live Laugh blog</a>)
-      <p>
-      
-      <address>
-        <a href="https://livelaugh.blog/posts/weekly-retro-29-2025-august/">https://livelaugh.blog/posts/weekly-retro-29-2025-august/</a>
       </address>
     </article>
   </section>
