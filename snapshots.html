@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="skim2html/0.0.25">
-  <meta name="date" content="2025-09-08T06:07:44-07:00">
+  <meta name="date" content="2025-09-08T16:07:51-07:00">
 </head>
 <body>
   <header>
@@ -61,6 +61,202 @@ Click on the <strong>Slides</strong> button above to view the built-in slides fe
       </address>
     </article>
 
+    <article data-published="2025-09-08T21:27:54Z" data-link="https://www.404media.co/michael-pratt-girlsdoporn-ringleader-sentenced/">
+      <h1>Michael Pratt, GirlsDoPorn Ringleader, Sentenced to 27 Years in Prison</h1>
+
+(date: 2025-09-08, from: <a href="https://www.404media.co/michael-pratt-girlsdoporn-ringleader-sentenced/">404 Media Group</a>)
+      <p>
+      Michael James Pratt was sentenced to federal prison on charges of sex trafficking connected to the GirlsDoPorn crime ring. “He turned my pain into profit, my life into currency,” said one victim.
+      <address>
+        <a href="https://www.404media.co/michael-pratt-girlsdoporn-ringleader-sentenced/">https://www.404media.co/michael-pratt-girlsdoporn-ringleader-sentenced/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T20:53:52Z" data-link="https://simonwillison.net/2025/Sep/8/webgpu-local-folder/#atom-everything">
+      <h1>Load Llama-3.2 WebGPU in your browser from a local folder</h1>
+
+(date: 2025-09-08, updated: 2025-09-08, from: <a href="https://simonwillison.net/2025/Sep/8/webgpu-local-folder/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <p><strong><a href="https://static.simonwillison.net/static/2025/llama-3.2-webgpu/">Load Llama-3.2 WebGPU in your browser from a local folder</a></strong></p>
+Inspired by <a href="https://news.ycombinator.com/item?id=45168953#45169054">a comment</a> on Hacker News I decided to see if it was possible to modify the <a href="https://github.com/huggingface/transformers.js-examples/tree/main/llama-3.2-webgpu">transformers.js-examples/tree/main/llama-3.2-webgpu</a> Llama 3.2 chat demo (<a href="https://huggingface.co/spaces/webml-community/llama-3.2-webgpu">online here</a>, I <a href="https://simonwillison.net/2024/Sep/30/llama-32-webgpu/">wrote about it last November</a>) to add an option to open a local model file directly from a folder on disk, rather than waiting for it to download over the network.</p>
+<p>I posed the problem to OpenAI's GPT-5-enabled Codex CLI like this:</p>
+<pre><code>git clone https://github.com/huggingface/transformers.js-examples
+cd transformers.js-examples/llama-3.2-webgpu
+codex
+</code></pre>
+<p>Then this prompt:</p>
+<blockquote>
+<p><code>Modify this application such that it offers the user a file browse button for selecting their own local copy of the model file instead of loading it over the network. Provide a "download model" option too.</code></p>
+</blockquote>
+<p>Codex churned away for several minutes, even running commands like <code>curl -sL https://raw.githubusercontent.com/huggingface/transformers.js/main/src/models.js | sed -n '1,200p'</code> to inspect the source code of the underlying Transformers.js library.</p>
+<p>After four prompts total (<a href="https://gist.github.com/simonw/3c46c9e609f6ee77367a760b5ca01bd2?permalink_comment_id=5751814#gistcomment-5751814">shown here</a>) it built something which worked!</p>
+<p>To try it out you'll need your own local copy of the Llama 3.2 ONNX model. You can get that (a ~1.2GB) download) like so:</p>
+<pre><code>git lfs install
+git clone https://huggingface.co/onnx-community/Llama-3.2-1B-Instruct-q4f16
+</code></pre>
+<p>Then visit my <a href="https://static.simonwillison.net/static/2025/llama-3.2-webgpu/">llama-3.2-webgpu</a> page in Chrome or Firefox Nightly (since WebGPU is required), click "Browse folder", select that folder you just cloned, agree to the "Upload" confirmation (confusing since nothing is uploaded from your browser, the model file is opened locally on your machine) and click "Load local model".</p>
+<p>Here's an animated demo (recorded in real-time, I didn't speed this up):</p>
+<p><img alt="GIF. I follow the setup instructions, clicking to load a local model and browsing to the correct folder. Once loaded the model shows a chat interface, I run the example about time management which returns tokens at about 10/second." src="https://static.simonwillison.net/static/2025/webgpu-llama-demo-small.gif" /></p>
+<p>I pushed <a href="https://github.com/simonw/transformers.js-examples/commit/cdebf4128c6e30414d437affd4b13b6c9c79421d">a branch with those changes here</a>. The next step would be to modify this to support other models in addition to the Llama 3.2 demo, but I'm pleased to have got to this proof of concept with so little work beyond throwing some prompts at Codex to see if it could figure it out.</p>
+<p>According to the Codex <code>/status</code> command <a href="https://gist.github.com/simonw/3c46c9e609f6ee77367a760b5ca01bd2?permalink_comment_id=5751807#gistcomment-5751807">this used</a> 169,818 input tokens, 17,112 output tokens and 1,176,320 cached input tokens. At current GPT-5 token pricing ($1.25/million input, $0.125/million cached input, $10/million output) that would cost 53.942 cents, but Codex CLI hooks into my existing $20/month ChatGPT Plus plan so this was bundled into that.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45168953#45173297">My Hacker News comment</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/local-llms">local-llms</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/transformers-js">transformers-js</a>, <a href="https://simonwillison.net/tags/webgpu">webgpu</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/8/webgpu-local-folder/#atom-everything">https://simonwillison.net/2025/Sep/8/webgpu-local-folder/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T20:25:42Z" data-link="https://www.texasobserver.org/texas-chihuahua-border-ai-surveillance-centinela/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-08, from: <a href="https://www.texasobserver.org/texas-chihuahua-border-ai-surveillance-centinela/">Dave Winer's linkblog</a>)
+      <p>
+      <p>Just Beyond the Texas Border, Chihuahua Is Launching a Burgeoning State Surveillance System.</p>
+      <address>
+        <a href="https://www.texasobserver.org/texas-chihuahua-border-ai-surveillance-centinela/">https://www.texasobserver.org/texas-chihuahua-border-ai-surveillance-centinela/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T20:21:48Z" data-link="https://mjtsai.com/blog/2025/09/08/macos-icon-history/">
+      <h1>macOS Icon History</h1>
+
+(date: 2025-09-08, from: <a href="https://mjtsai.com/blog/2025/09/08/macos-icon-history/">Michael Tsai</a>)
+      <p>
+      BasicAppleGuy: With macOS 26, Apple has announced a dramatically new look to their UI: Liquid Glass. Solid material icon elements give way to softer, shinier, glassier icons. The rounded rectangle became slightly more rounded, and Apple eliminated the ability for icon elements to extend beyond the icon rectangle (as seen in the current icons for [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/08/macos-icon-history/">https://mjtsai.com/blog/2025/09/08/macos-icon-history/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T20:21:38Z" data-link="https://mjtsai.com/blog/2025/09/08/fake-mac-apps-on-github/">
+      <h1>Fake Mac Apps on GitHub</h1>
+
+(date: 2025-09-08, from: <a href="https://mjtsai.com/blog/2025/09/08/fake-mac-apps-on-github/">Michael Tsai</a>)
+      <p>
+      Maxdme124: To be very clear this is not another post of &#8220;Breaking news malware exists on the internet&#8221; (or it may be depending on how you want to look at it) but I feel like it&#8217;s important that I leave a small PSA as I have recently seen an influx of seemingly convincing GitHub repo [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/08/fake-mac-apps-on-github/">https://mjtsai.com/blog/2025/09/08/fake-mac-apps-on-github/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T20:21:02Z" data-link="https://mjtsai.com/blog/2025/09/08/mac-layout-guidelines/">
+      <h1>Mac Layout Guidelines</h1>
+
+(date: 2025-09-08, from: <a href="https://mjtsai.com/blog/2025/09/08/mac-layout-guidelines/">Michael Tsai</a>)
+      <p>
+      Mario Guzm&#225;n: The following sections are general guidelines that describe fundamental Mac layout principles of center equalization, text and control alignment, appropriate use of white space, and visual balance. Following these guidelines will help you create functional and aesthetically pleasing windows that are easy for Mac users to understand and use.[&#8230;]When labels and controls are [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/08/mac-layout-guidelines/">https://mjtsai.com/blog/2025/09/08/mac-layout-guidelines/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T20:20:52Z" data-link="https://mjtsai.com/blog/2025/09/08/android-tracking-switch-privacy-lawsuit/">
+      <h1>Android Tracking Switch Privacy Lawsuit</h1>
+
+(date: 2025-09-08, from: <a href="https://mjtsai.com/blog/2025/09/08/android-tracking-switch-privacy-lawsuit/">Michael Tsai</a>)
+      <p>
+      Peter Hoskins &#38; Lily Jamali (via Nick Heer): A US federal court has told Google to pay $425m (&#163;316.3m) for breaching users&#8217; privacy by collecting data from millions of users even after they had turned off a tracking feature in their Google accounts.The verdict comes after a group of users brought the case claiming Google [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/08/android-tracking-switch-privacy-lawsuit/">https://mjtsai.com/blog/2025/09/08/android-tracking-switch-privacy-lawsuit/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T17:16:15Z" data-link="https://www.404media.co/instagram-account-promotes-holocaust-denial-t-shirts-to-400-000-followers/">
+      <h1>Instagram Account Promotes Holocaust Denial T-Shirts to 400,000 Followers</h1>
+
+(date: 2025-09-08, from: <a href="https://www.404media.co/instagram-account-promotes-holocaust-denial-t-shirts-to-400-000-followers/">404 Media Group</a>)
+      <p>
+      Meta decided to not ban the account and the vast majority of its racist posts even after 404 Media flagged them to the company.
+      <address>
+        <a href="https://www.404media.co/instagram-account-promotes-holocaust-denial-t-shirts-to-400-000-followers/">https://www.404media.co/instagram-account-promotes-holocaust-denial-t-shirts-to-400-000-followers/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T16:51:30Z" data-link="https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html?unlocked_article_code=1.kU8.Vbvh.Ju74wv3mK9t8&smid=url-share">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-08, from: <a href="https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html?unlocked_article_code=1.kU8.Vbvh.Ju74wv3mK9t8&smid=url-share">Dave Winer's linkblog</a>)
+      <p>
+      <p>DJI’s Chinese Drones Face U.S. Ban</p>
+      <address>
+        <a href="https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html?unlocked_article_code=1.kU8.Vbvh.Ju74wv3mK9t8&smid=url-share">https://www.nytimes.com/2025/09/08/business/dji-chinese-drones-ban.html?unlocked_article_code=1.kU8.Vbvh.Ju74wv3mK9t8&smid=url-share</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T16:24:24Z" data-link="https://simonwillison.net/2025/Sep/8/james-luan/#atom-everything">
+      <h1>Quoting James Luan</h1>
+
+(date: 2025-09-08, updated: 2025-09-08, from: <a href="https://simonwillison.net/2025/Sep/8/james-luan/#atom-everything">Simon Willison’s Weblog</a>)
+      <p>
+      <blockquote cite="https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them"><p>I recently spoke with the CTO of a popular AI note-taking app who told me something surprising: they spend <strong><em>twice</em></strong> <em>as much</em> on vector search as they do on OpenAI API calls. Think about that for a second. Running the retrieval layer costs them more than paying for the LLM itself.</p></blockquote>
+<p class="cite">&mdash; <a href="https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them">James Luan</a>, Engineering architect of Milvus</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vector-search">vector-search</a>, <a href="https://simonwillison.net/tags/embeddings">embeddings</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/8/james-luan/#atom-everything">https://simonwillison.net/2025/Sep/8/james-luan/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T16:00:53Z" data-link="https://www.palomitademaiz.net/resenas-el-juicio-de-un-perro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-el-juicio-de-un-perro">
+      <h1>El juicio de un perro: un veredicto sobre nuestra humanidad</h1>
+
+(date: 2025-09-08, from: <a href="https://www.palomitademaiz.net/resenas-el-juicio-de-un-perro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-el-juicio-de-un-perro">Iván Paredes Reséndiz blog, Mexico's cinema</a>)
+      <p>
+      <p>Dirección: Laetitia Dosch. Guion: Laetitia Dosch, Anne-Sophie Bailly, Gilles Marchand. Elenco: Laetitia Dosch, François Damiens, Anne Dorval. Países: Francia, Suiza. Más información de la película: https://www.imdb.com/title/tt27198573/ Si buscamos un poco en internet, encontraremos múltiples historias en las que los animales nos dan una lección de lealtad, empatía, y coraje, entre otros atributos que asociamos exclusivamente [&#8230;]</p>
+<p>La entrada <a href="https://www.palomitademaiz.net/resenas-el-juicio-de-un-perro/">El juicio de un perro: un veredicto sobre nuestra humanidad</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>
+
+      <address>
+        <a href="https://www.palomitademaiz.net/resenas-el-juicio-de-un-perro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-el-juicio-de-un-perro">https://www.palomitademaiz.net/resenas-el-juicio-de-un-perro/?utm_source=rss&utm_medium=rss&utm_campaign=resenas-el-juicio-de-un-perro</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T15:55:18Z" data-link="https://tinabrown.substack.com/p/join-my-live-video-chat-tuesday-at">
+      <h1>Join my live video chat Tuesday at 1pET with Pulitzer Prize-winning author and Shakespeare scholar Stephen Greenblatt to discuss his captivating new book about Shakespeare’s greatest rival</h1>
+
+(date: 2025-09-08, from: <a href="https://tinabrown.substack.com/p/join-my-live-video-chat-tuesday-at">Tina Brown</a>)
+      <p>
+      Christopher Marlowe, murdered at age 29, was the Renaissance rebel whose short, shocking life and dramatic genius paved the way for the Bard.
+      <address>
+        <a href="https://tinabrown.substack.com/p/join-my-live-video-chat-tuesday-at">https://tinabrown.substack.com/p/join-my-live-video-chat-tuesday-at</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T15:48:36Z" data-link="https://www.404media.co/ice-spends-millions-on-clearview-ai-face-recognition-to-find-people-assaulting-officers/">
+      <h1>ICE Spends Millions on Clearview AI Facial Recognition to Find People ‘Assaulting’ Officers</h1>
+
+(date: 2025-09-08, from: <a href="https://www.404media.co/ice-spends-millions-on-clearview-ai-face-recognition-to-find-people-assaulting-officers/">404 Media Group</a>)
+      <p>
+      A new contract with Clearview AI explicitly says ICE is buying the tech to investigate "assaults against law enforcement officers."
+      <address>
+        <a href="https://www.404media.co/ice-spends-millions-on-clearview-ai-face-recognition-to-find-people-assaulting-officers/">https://www.404media.co/ice-spends-millions-on-clearview-ai-face-recognition-to-find-people-assaulting-officers/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T15:33:15Z" data-link="https://onefoottsunami.com/2025/09/08/with-friends-like-these/">
+      <h1>With Friends Like These</h1>
+
+(date: 2025-09-08, updated: 2025-09-08, from: <a href="https://onefoottsunami.com/2025/09/08/with-friends-like-these/">One Foot Tsunami</a>)
+      <p>
+      
+      <address>
+        <a href="https://onefoottsunami.com/2025/09/08/with-friends-like-these/">https://onefoottsunami.com/2025/09/08/with-friends-like-these/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T14:54:40Z" data-link="https://mastodon.social/@Migueldeicaza/115169249255264760">
+      <h1>@Miguel de Icaza Mastondon feed</h1>
+
+(date: 2025-09-08, from: <a href="https://mastodon.social/@Migueldeicaza/115169249255264760">Miguel de Icaza Mastondon feed</a>)
+      <p>
+      <p>Despite their rebranding efforts, Facebook remains a deeply rotten company:</p><p><a href="https://www.washingtonpost.com/investigations/2025/09/08/meta-research-child-safety-virtual-reality/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">washingtonpost.com/investigati</span><span class="invisible">ons/2025/09/08/meta-research-child-safety-virtual-reality/</span></a></p><p>Vía Zamaan Qureshi:</p>
+      <address>
+        <a href="https://mastodon.social/@Migueldeicaza/115169249255264760">https://mastodon.social/@Migueldeicaza/115169249255264760</a>
+      </address>
+    </article>
+
     <article data-published="2025-09-08T13:01:10Z" data-link="https://newrepublic.com/article/200096/trump-polls-approval-rating-weak-failing-president">
       <h1>@Dave Winer's linkblog</h1>
 
@@ -102,6 +298,44 @@ Click on the <strong>Slides</strong> button above to view the built-in slides fe
       I&#8217;ve been in a few recent conversations about whether to use Apache Beam on its own or run it with Google Dataflow. On the surface, it’s a tooling decision. But it also reflects a broader conversation about how teams build systems. Beam offers a consistent programming model for unifying batch and streaming logic. It doesn’t [&#8230;]
       <address>
         <a href="https://www.oreilly.com/radar/a-beam-versus-dataflow-conversation/">https://www.oreilly.com/radar/a-beam-versus-dataflow-conversation/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-08T04:00:00Z" data-link="https://inkdroid.org/2025/09/08/alone/">
+      <h1>Alone</h1>
+
+(date: 2025-09-08, from: <a href="https://inkdroid.org/2025/09/08/alone/">Ed Summers blog, Inkdroid</a>)
+      <p>
+      <p>
+I thought this quote from <a
+href="https://en.wikipedia.org/wiki/Ursula_K._Le_Guin">Ursula K. Le
+Guin’s</a>’s <a
+href="https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness">Left Hand
+of Darkness</a> speaks to the ethnographic method. Here, the character
+Estraven, a native of the planet Gethen, is asking Genly Ai why he has
+come alone as a visitor to the planet, and he responds:
+</p>
+<blockquote>
+<p>
+Alone, I cannot change your world. But I can be changed by it. Alone, I
+must listen, as well as speak. Alone, the relationship I finally make,
+if I make one, is not impersonal and not only political: it is
+individual, it is personal, it is both more and less than political. Not
+We and They; not I and It; but I and Thou. Not political, not pragmatic,
+but mystical.
+</p>
+</blockquote>
+<p>
+Of course UKLG was no stranger to ethnography and the role of cultural
+observers, both her parents were anthropologists, and she studied the
+subject. It’s ironic though, because the character of Genly Ai does have
+a profound effect on the planetary civilization of Gethen…but it’s not
+through some activity he performs alone, but through his relationships
+with others that it comes about.
+</p>
+
+      <address>
+        <a href="https://inkdroid.org/2025/09/08/alone/">https://inkdroid.org/2025/09/08/alone/</a>
       </address>
     </article>
 
