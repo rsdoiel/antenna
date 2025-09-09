@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planet</title>
-    <lastBuildDate>2025-09-09 12:24:23</lastBuildDate>
+    <lastBuildDate>2025-09-09 12:33:29</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -227,7 +227,7 @@
       <title>Peacekeeping: A lifeline for millions seeking a ‘future without fear’</title>
       <link>https://news.un.org/feed/view/en/story/2025/09/1165807</link>
       <description>
-        <![CDATA[With a record number of active conflicts worldwide, the Security Council met on Tuesday to debate the future of UN peace operations.&nbsp;]]>
+        <![CDATA[With a record number of active conflicts worldwide, the Security Council met on Tuesday to debate the future of UN peace operations.]]>
       </description>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-07-2025-UNIFIL-peacekeeping-01.jpg/image560x340cropped.jpg" length="48763" type="image/jpeg" />
       <guid>https://news.un.org/en/story/2025/09/1165807</guid>
@@ -258,6 +258,24 @@
       </description>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-12-2024_UNICEF_Ukraine-01.jpg/image560x340cropped.jpg" length="21717" type="image/jpeg" />
       <guid>https://news.un.org/en/story/2025/09/1165803</guid>
+      <pubDate>2025-09-09T12:00:00Z</pubDate>
+    </item>    <item>
+      <title>Attacks on schools surge by ‘staggering’ 44 per cent over the past year</title>
+      <link>https://news.un.org/feed/view/en/story/2025/09/1165810</link>
+      <description>
+        <![CDATA[Attacks on schools in conflict zones around the world have increased by a “staggering 44 per cent” over the past year according to the United Nations, resulting in the death, abduction and trauma of thousands of teachers and students.&nbsp;]]>
+      </description>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-07-2025-UNICEF-Gaza.jpg/image560x340cropped.jpg" length="32818" type="image/jpeg" />
+      <guid>https://news.un.org/en/story/2025/09/1165810</guid>
+      <pubDate>2025-09-09T12:00:00Z</pubDate>
+    </item>    <item>
+      <title>Military spending worldwide hits record $2.7 trillion</title>
+      <link>https://news.un.org/feed/view/en/story/2025/09/1165809</link>
+      <description>
+        <![CDATA[Global military spending reached an unprecedented $2.7 trillion in 2024 amid intensifying wars and rising geopolitical tensions worldwide.&nbsp;]]>
+      </description>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-09-2021_Unsplash_Afghanistan.jpg/image560x340cropped.jpg" length="42282" type="image/jpeg" />
+      <guid>https://news.un.org/en/story/2025/09/1165809</guid>
       <pubDate>2025-09-09T12:00:00Z</pubDate>
     </item>    <item>
       <title>Cote d&#39;Ivoire: Church spearheads initiative for a peaceful election</title>
@@ -428,10 +446,10 @@
       <guid>https://www.rte.ie/news/2025/0909/1532474-david-hall-sonas/</guid>
       <pubDate>2025-09-09T05:00:00Z</pubDate>
     </item>    <item>
-      <title>UN rights chief &#39;appalled&#39; by Nepal violence, urges talks</title>
+      <title>Young anti-corruption protesters oust Nepal PM</title>
       <link>https://www.rte.ie/news/world/2025/0909/1532503-nepal-protests/</link>
       <description>
-        <![CDATA[UN High Commissioner for Human Rights Volker Turk said he is "appalled by the escalating violence in Nepal", according to a statement from his office.]]>
+        <![CDATA[Nepali Prime Minister KP Sharma Oli has been forced to resign by angry young anti-corruption protesters who defied a curfew and clashed with police a day after 19 people died in a first day of protests.]]>
       </description>
       <guid>https://www.rte.ie/news/world/2025/0909/1532503-nepal-protests/</guid>
       <pubDate>2025-09-09T03:28:42Z</pubDate>

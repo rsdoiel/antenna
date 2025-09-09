@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snapshots</title>
-    <lastBuildDate>2025-09-09 12:24:24</lastBuildDate>
+    <lastBuildDate>2025-09-09 12:33:32</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -112,6 +112,7 @@
         <p>In a particularly egregious example of AI companies being terrible at naming features, the official name for this one really does appear to be <strong>Upgraded file creation and analysis</strong>. Sigh.</p>
         <p>This is quite a confusing release, because Claude <em>already</em> had a variant of this feature, <a href="https://www.anthropic.com/news/analysis-tool">released in October 2024</a> with the weak but more sensible name <strong>Analysis tool</strong>. Here are <a href="https://simonwillison.net/2024/Oct/24/claude-analysis-tool/">my notes from when that came out</a>. That tool worked by generating and executing JavaScript in the user's own browser.</p>
         <p>The new tool works entirely differently. It's much closer in implementation to OpenAI's Code Interpreter: Claude now has access to a server-side container environment in which it can run shell commands and execute Python and Node.js code to manipulate data and both read and generate files.</p>
+        <p>It's worth noting that Anthropic have a similar feature in their API called <a href="https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/code-execution-tool">Code execution tool</a>, but today is the first time end-users of Claude have been able to execute arbitrary code in a server-side container.</p>
         <ul>
           <li><a href="https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#switching-it-on-in-settings-features">Switching it on in settings/features</a></li>
           <li><a href="https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#exploring-the-environment">Exploring the environment</a></li>
