@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snapshots</title>
-    <lastBuildDate>2025-09-09 12:54:00</lastBuildDate>
+    <lastBuildDate>2025-09-09 14:59:25</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -24,6 +24,17 @@
       </description>
       <guid>https://notes.peter-baumgartner.net/event/example/</guid>
       <pubDate>2030-06-01T13:00:00Z</pubDate>
+    </item>    <item>
+      <title>Quoting Apple Security Engineering and Architecture</title>
+      <link>https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://security.apple.com/blog/memory-integrity-enforcement/"><p>There has never been a successful, widespread malware attack against iPhone. The only system-level iOS attacks we observe in the wild come from mercenary spyware, which is vastly more complex than regular cybercriminal activity and consumer malware. Mercenary spyware is historically associated with state actors and uses exploit chains that cost millions of dollars to target a very small number of specific individuals and their devices. [...] Known mercenary spyware chains used against iOS share a common denominator with those targeting Windows and Android: they exploit memory safety vulnerabilities, which are interchangeable, powerful, and exist throughout the industry.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://security.apple.com/blog/memory-integrity-enforcement/">Apple Security Engineering and Architecture</a>, introducing Memory Integrity Enforcement for iPhone 17</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/privacy">privacy</a>, <a href="https://simonwillison.net/tags/security">security</a></p>]]>
+      </description>
+      <guid>https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything</guid>
+      <pubDate>2025-09-09T21:32:55Z</pubDate>
     </item>    <item>
       <title>iPhone 17 Pro and iPhone 17 Pro Max</title>
       <link>https://mjtsai.com/blog/2025/09/09/iphone-17-pro-and-iphone-17-pro-max/</link>
@@ -262,7 +273,7 @@
         </blockquote>
         <p>This time it used the <code>antialiased=True</code> and <code>solid_capstyle='round'</code> options in matplotlib, which again wasn't what I was after. I tried one more thing:</p>
         <blockquote>
-        <p>I did not mean smooth the rendering of the lines. I meant that I wanted curved and not straight lines between points.</p>
+        <p><code>I did not mean smooth the rendering of the lines. I meant that I wanted curved and not straight lines between points.</code></p>
         </blockquote>
         <p>(Normally if I have to argue this much with a model I'll start a fresh session and try a different prompting strategy from the start.)</p>
         <p>But this did give me what I was looking for:</p>
@@ -373,6 +384,15 @@
       <guid>https://statusq.org/?p=13291</guid>
       <pubDate>2025-09-09T15:52:10Z</pubDate>
     </item>    <item>
+      <title>Closing the App Gap; Focus and Momentum</title>
+      <link>https://puri.sm/posts/closing-the-app-gap-momentum-and-time/</link>
+      <description>
+        <![CDATA[<p>Purism set extremely ambitious goals starting with its founding as a Social Purpose Company—putting protecting digital rights above profit, putting individual freedom above controlling users, inventing and innovating GNU/Linux for mobile, creating the first truly convergent OS (PureOS), to shipping the first phone with Made in USA Electronics. The constant throughout the entire company is a belief that people should be in control of their technology. This belief is also extremely valuable to organizations and agencies who need the security provided by controlling their devices fully.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/closing-the-app-gap-momentum-and-time/">Closing the App Gap; Focus and Momentum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>https://puri.sm/?p=83717</guid>
+      <pubDate>2025-09-09T15:51:50Z</pubDate>
+    </item>    <item>
       <link>http://scripting.com/2022/03/04/134033.html?title=evolutionInSoftware#a140840</link>
       <description>
         <![CDATA[<p>In the early 90s a technological asteroid hit the software world called the web and wiped out all the GUI apps</p>]]>
@@ -396,6 +416,16 @@
       </description>
       <guid>68c0301d8487530001ed3ec8</guid>
       <pubDate>2025-09-09T14:06:03Z</pubDate>
+    </item>    <item>
+      <title>Mousai App Now Available</title>
+      <link>https://puri.sm/posts/mousai-app-now-available/</link>
+      <description>
+        <![CDATA[<p>Mousai is a simple application that can recognize songs similar to Shazam. Just click the listen button, and then wait a few seconds. It will magically return the title and artist of that song!</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/mousai-app-now-available/">Mousai App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <enclosure url="https://videos.puri.sm/librem5/apps/mousai.mp4" length="4649456" type="video/mp4" />
+      <guid>https://puri.sm/?p=84077</guid>
+      <pubDate>2025-09-09T14:01:03Z</pubDate>
     </item>    <item>
       <link>http://scripting.com/2025/09/09/114446.html</link>
       <description>

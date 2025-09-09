@@ -2,10 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science and Technology</title>
-    <lastBuildDate>2025-09-09 12:53:58</lastBuildDate>
+    <lastBuildDate>2025-09-09 14:59:23</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>More packages poisoned in npm attack, but would-be crypto thieves left pocket change</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/npm_supply_chain_attack/</link>
+      <description>
+        <![CDATA[<h4>Miscreants cost victims time rather than money</h4> <p>During the two-hour window on Monday in which hijacked npm versions were available for download, malware-laced packages reached one in 10 cloud environments, according to Wiz researchers. But crypto-craving crims did little more than annoy defenders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241826</guid>
+      <pubDate>2025-09-09T21:41:12Z</pubDate>
+    </item>    <item>
+      <title>Biologists Discover Surprisingly Cute Deep-Sea Fish Species Off the Coast of California</title>
+      <link>https://www.smithsonianmag.com/smart-news/biologists-discover-three-new-deep-sea-fish-species-and-theyre-surprisingly-cute-180987308/</link>
+      <description>
+        <![CDATA[Meet the bumpy snailfish—described by scientists as "adorable"—as well as the dark snailfish and sleek snailfish, all of which thrive thousands of feet below the surface of the Pacific Ocean]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/97BWtNeSzSap2G9Tihdo5DHKSCY=/420x240/filters:focal(1070x421:1071x422)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/2f/242f5255-671e-4c16-bb79-1b3ada60f6a1/mbari_bumpysnailfish_d1138_01_1920.jpg" length="" type="" />
+      <pubDate>2025-09-09T21:18:32Z</pubDate>
+    </item>    <item>
+      <title>Apple&#39;s &#39;Awe Droppings&#39; fall close to the tree</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/apples_awe_droppings_fall_close/</link>
+      <description>
+        <![CDATA[<h4>iPhone 17 Air shows company lightening up</h4> <p>Apple on Tuesday showed off its iPhone 17 lineup at a media event dubbed, &#34;Awe Dropping,&#34; favoring timeworn self-adulation over a more literal pun like &#34;Four Play.&#34;…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241827</guid>
+      <pubDate>2025-09-09T21:10:54Z</pubDate>
+    </item>    <item>
+      <title>New cybersecurity rules land for Defense Department contractors</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/new_cybersecurity_compliance_rules_dod/</link>
+      <description>
+        <![CDATA[<h4>Now if only someone would remember to apply those rules <i>inside</i> the DoD</h4> <p>It&#39;s about to get a lot harder for private companies that are lax on cybersecurity to get a contract with the Pentagon, as the Defense Department has finalized a rule requiring contractor compliance with its Cybersecurity Maturity Model Certification (CMMC) program.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241825</guid>
+      <pubDate>2025-09-09T20:06:20Z</pubDate>
+    </item>    <item>
+      <title>Seaweed Piles Are Slowing Down Sea Turtle Hatchlings as They Make the Dangerous Trek to the Ocean</title>
+      <link>https://www.smithsonianmag.com/smart-news/seaweed-piles-are-slowing-down-sea-turtle-hatchlings-as-they-make-the-dangerous-trek-to-the-ocean-180987309/</link>
+      <description>
+        <![CDATA[In Florida, large mats of sargassum are increasingly washing ashore, creating another obstacle for loggerhead, leatherback and green sea turtles, new research suggests]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BZrKY8UDOjWSESStUg5aWzLtXgE=/420x240/filters:focal(1504x1074:1505x1075)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/5e/7b5ea353-c99f-4044-be9b-b4f760f5d02d/leatherback_on_sargassum_1.jpeg" length="" type="" />
+      <pubDate>2025-09-09T19:44:39Z</pubDate>
+    </item>    <item>
       <title>Microserfs ordered back to the office, given 10 days to appeal</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/microsoft_return_to_work/</link>
       <description>
@@ -62,6 +102,15 @@
       <guid>tag:theregister.com,2005:story241815</guid>
       <pubDate>2025-09-09T16:02:07Z</pubDate>
     </item>    <item>
+      <title>Closing the App Gap; Focus and Momentum</title>
+      <link>https://puri.sm/posts/closing-the-app-gap-momentum-and-time/</link>
+      <description>
+        <![CDATA[<p>Purism set extremely ambitious goals starting with its founding as a Social Purpose Company—putting protecting digital rights above profit, putting individual freedom above controlling users, inventing and innovating GNU/Linux for mobile, creating the first truly convergent OS (PureOS), to shipping the first phone with Made in USA Electronics. The constant throughout the entire company is a belief that people should be in control of their technology. This belief is also extremely valuable to organizations and agencies who need the security provided by controlling their devices fully.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/closing-the-app-gap-momentum-and-time/">Closing the App Gap; Focus and Momentum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>https://puri.sm/?p=83717</guid>
+      <pubDate>2025-09-09T15:51:50Z</pubDate>
+    </item>    <item>
       <title>NASA Partnerships Allow Artificial Intelligence to Predict Solar Events</title>
       <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/</link>
       <description>
@@ -101,6 +150,16 @@
       </description>
       <guid>tag:theregister.com,2005:story241817</guid>
       <pubDate>2025-09-09T15:04:08Z</pubDate>
+    </item>    <item>
+      <title>Mousai App Now Available</title>
+      <link>https://puri.sm/posts/mousai-app-now-available/</link>
+      <description>
+        <![CDATA[<p>Mousai is a simple application that can recognize songs similar to Shazam. Just click the listen button, and then wait a few seconds. It will magically return the title and artist of that song!</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/mousai-app-now-available/">Mousai App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <enclosure url="https://videos.puri.sm/librem5/apps/mousai.mp4" length="4649456" type="video/mp4" />
+      <guid>https://puri.sm/?p=84077</guid>
+      <pubDate>2025-09-09T14:01:03Z</pubDate>
     </item>    <item>
       <title>Envía tu nombre alrededor de la Luna en 2026 con la misión Artemis II de la NASA</title>
       <link>https://www.nasa.gov/news-release/envia-tu-nombre-alrededor-de-la-luna-en-2026-con-la-mision-artemis-ii-de-la-nasa/</link>

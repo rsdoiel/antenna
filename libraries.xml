@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libraries</title>
-    <lastBuildDate>2025-09-09 12:53:57</lastBuildDate>
+    <lastBuildDate>2025-09-09 14:59:23</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -24,10 +24,18 @@
       <guid>https://scholarlykitchen.sspnet.org/?p=60930</guid>
       <pubDate>2025-09-09T09:30:44Z</pubDate>
     </item>    <item>
+      <title>HighWire Press&#39;s DigiCorePro and ROR</title>
+      <link>https://ror.org/blog/2025-09-09-digicorepro/</link>
+      <description>
+        <![CDATA[In this interview with HighWire Press&#39;s Tony Alves, we learn that thanks to customer requests and a PID-aware development process, the publishing platform DigiCore Pro uses ROR in form lookups and automatic extraction processes for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity.]]>
+      </description>
+      <guid>https://doi.org/10.71938/97e0-5q39</guid>
+      <pubDate>2025-09-09T00:00:00Z</pubDate>
+    </item>    <item>
       <title>Day in Review (September 08–11)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-08-11/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 9, 2025, 2:39 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 09 &#124; Wednesday, September 10 &#124; Thursday,...</p>
+        <![CDATA[<p>Last Updated on September 9, 2025, 3:50 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 09 &#124; Wednesday, September 10 &#124; Thursday,...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-08-11/">Day in Review (September 08–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>https://www.arl.org/?p=45902</guid>

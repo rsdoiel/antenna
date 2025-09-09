@@ -2,17 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Columns</title>
-    <lastBuildDate>2025-09-09 12:53:56</lastBuildDate>
+    <lastBuildDate>2025-09-09 14:59:22</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>September 9, 2020</title>
-      <link>https://a.wholelottanothing.org/september-9-2020/</link>
-      <description>
-        <![CDATA[<p>Five years ago, during an already messed up  year, we had widespread wildfires in the Pacific Northwest that combined with a high pressure front and gave us hot, stale air currents that produced the worst air quality I&apos;ve seen in over 20 years of living in Oregon.</p><p>I</p>]]>
-      </description>
-      <guid>68c07be086193400017d062b</guid>
-      <pubDate>2025-09-09T19:44:30Z</pubDate>
+      <title>Drunk Jeff Goldblum</title>
+      <link>https://kottke.org/25/09/drunk-jeff-goldblum-1</link>
+      <guid>tag:kottke.org,2025://5.47469</guid>
+      <pubDate>2025-09-09T21:39:16Z</pubDate>
     </item>    <item>
       <title>2025-09-09 Hospital</title>
       <link>https://alexschroeder.ch/view/2025-09-09-hospital</link>
@@ -21,14 +18,33 @@
         
         <p>The feeling when the surgeon calls and tells you the ops went well and that you can visit in two hours.</p>
         
-        <p>The weird reality of hospital life. A room, a bed, a nurse, two, three, friendly, smiling, people dressed in white, rooms in beige, and then the passage into the underworld where the surgeons and the other nurses work, where lights are bright and people are dressed in blue, with gloves and masks, and to pass by the various halls, and stand in that in-between space where a nurse dressed white hands you over to the nurse dressed in blue, the repeated questions of your name, your birthdate, the reason for being here, everybody wary of making a mistake, to catch a peek of the operation theatre where doctors are at work, patients covered, like objects, and feel the intravenous needle and the cold salt water in your arm, the pads that monitor your brain waves, the pads that monitor your heart, the machines and the beeps, the mask, the dizziness, turning into an object yourself, wondering whether you’ll be a good object for them to work, to pass out … and to open your eyes again, to hear your name, to hear whispered conversations, to be brought back into those upper levels, to see a familiar face, to regain a voice, a face, to be a person again.</p>
+        <p>The weird reality of hospital life. A room, a bed, a nurse, two, three, friendly, smiling, people dressed in white, rooms in beige, and then the passage into the underworld where the surgeons and the other nurses work, where lights are bright and people are dressed in blue, with gloves and masks, and to pass by the various halls, and stand in that in-between space where a nurse dressed white hands you over to the nurse dressed in blue, the repeated questions of your name, your birthdate, the reason for being here, everybody wary of making a mistake, to catch a peek of the operation theatre where doctors are at work, patients covered, like objects, and feel the intravenous needle and the cold salt water in your arm, the pads that monitor your brain waves, the pads that monitor your heart beat, the machines and the beeps, the oxygen mask, the dizziness, turning into an object yourself, wondering whether you’ll be a good object for them to work with, to pass out … and to open your eyes again, to hear your name, to hear whispered conversations, to be brought back into those upper levels, to see a familiar face, to regain a voice, a face, to be a person again.</p>
         
         <p>My wife had a lot to tell.</p>
         
         <p><a class="tag" href="/search/?q=%23Life">#Life</a></p>]]>
       </description>
       <guid>https://alexschroeder.ch/view/2025-09-09-hospital</guid>
-      <pubDate>2025-09-09T19:34:07Z</pubDate>
+      <pubDate>2025-09-09T21:06:24Z</pubDate>
+    </item>    <item>
+      <title>September 8, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-8-2025-75e</link>
+      <enclosure url="https://api.substack.com/feed/podcast/173218145/05722cead7b4ef64c9d28921ef9e88cf.mp3" length="0" type="audio/mpeg" />
+      <guid>https://heathercoxrichardson.substack.com/p/september-8-2025-75e</guid>
+      <pubDate>2025-09-09T20:50:52Z</pubDate>
+    </item>    <item>
+      <title>A clicker game where the click reloads the page in your browser....</title>
+      <link>https://kottke.org/25/09/0047460-a-clicker-game-where-the</link>
+      <guid>tag:kottke.org,2025://13.47460</guid>
+      <pubDate>2025-09-09T20:03:59Z</pubDate>
+    </item>    <item>
+      <title>September 9, 2020</title>
+      <link>https://a.wholelottanothing.org/september-9-2020/</link>
+      <description>
+        <![CDATA[<p>Five years ago, during an already messed up  year, we had widespread wildfires in the Pacific Northwest that combined with a high pressure front and gave us hot, stale air currents that produced the worst air quality I&apos;ve seen in over 20 years of living in Oregon.</p><p>I</p>]]>
+      </description>
+      <guid>68c07be086193400017d062b</guid>
+      <pubDate>2025-09-09T19:44:30Z</pubDate>
     </item>    <item>
       <title>An Electro-Acoustic Instrument Made Out of an Old Singer Sewing Machine</title>
       <link>https://kottke.org/25/09/an-electro-acoustic-instrument-made-out-of-an-old-singer-sewing-machine</link>
@@ -252,6 +268,11 @@
       <link>https://kottke.org/25/09/0047470-zohran-mamdanis-social-me</link>
       <guid>tag:kottke.org,2025://13.47470</guid>
       <pubDate>2025-09-09T01:16:02Z</pubDate>
+    </item>    <item>
+      <title>How Tim Cook sold out Steve Jobs</title>
+      <link>https://anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/</link>
+      <guid>https://anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/</guid>
+      <pubDate>2025-09-09T00:00:00Z</pubDate>
     </item>    <item>
       <title>Time To Play Hardball</title>
       <link>https://steady.substack.com/p/time-to-play-hardball</link>
