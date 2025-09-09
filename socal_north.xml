@@ -3,7 +3,7 @@
   <channel>
     <title>socal_north.md</title>
     <link>socal_north.xml</link>
-    <lastBuildDate>2025-09-09 12:33:32</lastBuildDate>
+    <lastBuildDate>2025-09-09 12:54:00</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -86,20 +86,20 @@
       <guid>urn:uuid:00000199-2b2b-d20b-abbf-7fbfd6190000</guid>
       <pubDate>2025-09-09T13:00:00Z</pubDate>
     </item>    <item>
-      <title>What taxpayers need to know one year after Orange County workers started the devastating Airport Fire</title>
-      <link>https://laist.com/news/politics/orange-county-airport-fire-one-year-later</link>
-      <description>
-        <![CDATA[With hundreds of claims still pending and the county on the hook for payouts, here’s what we know about the burden facing Orange County taxpayers.]]>
-      </description>
-      <guid>urn:uuid:00000199-2a7c-d527-a9fd-ee7cfe020000</guid>
-      <pubDate>2025-09-09T12:00:00Z</pubDate>
-    </item>    <item>
       <title>Santa Ana Police Department reports say officers followed the law during anti-ICE protests. Eyewitnesses tell a different story</title>
       <link>https://laist.com/news/politics/santa-ana-police-department-reports-say-officers-followed-the-law-during-anti-ice-protests-eyewitnesses-tell-a-different-story</link>
       <description>
         <![CDATA[California law that sets guardrails on use of force at protests relies on the police to police themselves.]]>
       </description>
       <guid>urn:uuid:00000199-2b3a-d785-a1fb-afbe17e90000</guid>
+      <pubDate>2025-09-09T12:00:00Z</pubDate>
+    </item>    <item>
+      <title>What taxpayers need to know one year after Orange County workers started the devastating Airport Fire</title>
+      <link>https://laist.com/news/politics/orange-county-airport-fire-one-year-later</link>
+      <description>
+        <![CDATA[With hundreds of claims still pending and the county on the hook for payouts, here’s what we know about the burden facing Orange County taxpayers.]]>
+      </description>
+      <guid>urn:uuid:00000199-2a7c-d527-a9fd-ee7cfe020000</guid>
       <pubDate>2025-09-09T12:00:00Z</pubDate>
     </item>    <item>
       <title>Toxic waste dumped decades ago has drastically altered life on SoCal&#39;s sea floor, study finds</title>
