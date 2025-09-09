@@ -33,5 +33,5 @@ topContent: |
 footer: |
   Antenna is a personal aggregation of items found around the web.
   Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>,
-  <a href="https://sqlite.org">sqlite</a> and <a href="https://pandoc.org">Pandoc</a>.
+  and <a href="https://pandoc.org">Pandoc</a>.
 

@@ -12,8 +12,8 @@
     }
   ],
   "dateCreated": "2023-10-11",
-  "dateModified": "2025-08-21",
-  "datePublished": "2025-08-21",
+  "dateModified": "2025-09-09",
+  "datePublished": "2025-09-09",
   "description": "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.\nIt is built using the Tools provided\nby [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)\nand either Bash or PowerShell.",
   "keywords": [
     "Feeds",
@@ -35,7 +35,7 @@
     "https://pandoc.org"
   ],
   "softwareRequirements": [
-    "Skimmer >= 0.0.25",
+    "antennaApp >= 0.0.2",
     "Pandoc >= 3.1",
     "Bash or Powershell (Windows)"
   ],
@@ -44,10 +44,10 @@
     "GNU Make",
     "CMTools"
   ],
-  "version": "0.0.5",
+  "version": "0.0.6",
   "developmentStatus": "wip",
   "issueTracker": "https://github.com/rsdoiel/antenna/issues",
-  "releaseNotes": "Minor cleanup and updates\n\n- Updated skimmer verison to 0.0.25\n- Split layouts between and sub nav based on front_page.yaml and other_reading.yaml",
+  "releaseNotes": "Now curated with antennaApp v0.0.2 and Pandoc 3.1.",
   "copyrightYear": 2025,
   "copyrightHolder": "R. S. Doiel"
 }
