@@ -11,7 +11,7 @@ check_for_software: .FORCE
 	./check_for_software.bash
 
 harvest: .FORCE
-	./harvest.bash 2>harvest.log
+	antenna harvest 2>harvest.log
 
 website: .FORCE
 	./website.bash
@@ -53,12 +53,7 @@ release: .FORCE
 	cp -vR css dist/
 	cp -vR modules dist/
 	cp -vR media dist/
-	cp -v README.md dist/
-	cp -v about.md dist/
-	cp -v index.md dist/
-	cp -v search.md dist/
-	cp -v forecasts.md dist/
-	cp -v *.urls dist/
+	cp -v *.md dist/
 	cp -v *.tmpl dist/
 	cp -v *.lua dist/
 	cp -v check_for_software.* dist/
@@ -67,7 +62,7 @@ release: .FORCE
 	cp -v front_page_example.yaml dist/front_page.yaml
 	cp -v other_reading_example.yaml dist/other_reading.yaml
 	cp -v pagefind.yaml dist/
-	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.urls *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
+	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
 	printf "\nready to run\n\n\trelease.bash\n\n"
 
 .FORCE:

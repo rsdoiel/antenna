@@ -25,6 +25,8 @@
   "name": "antenna",
   "license": "https://www.gnu.org/licenses/agpl-3.0.txt",
   "programmingLanguage": [
+    "Markdown",
+    "YAML",
     "Bash or PowerShell",
     "Pandoc templates",
     "SQL"

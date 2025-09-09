@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snapshots</title>
-    <lastBuildDate>2025-09-09 12:03:30</lastBuildDate>
+    <lastBuildDate>2025-09-09 12:24:24</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,71 @@
       <guid>https://notes.peter-baumgartner.net/event/example/</guid>
       <pubDate>2030-06-01T13:00:00Z</pubDate>
     </item>    <item>
+      <title>iPhone 17 Pro and iPhone 17 Pro Max</title>
+      <link>https://mjtsai.com/blog/2025/09/09/iphone-17-pro-and-iphone-17-pro-max/</link>
+      <description>
+        <![CDATA[Apple (video, MacRumors): Both models feature A19 Pro, the most powerful and efficient chip for iPhone yet, enabling the advanced camera systems, next-level mobile gaming, and Apple Intelligence. Built with an Apple-designed vapor chamber that is laser-welded into a strong, light, and thermally conductive aluminum unibody, iPhone 17 Pro and iPhone 17 Pro Max deliver [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49214</guid>
+      <pubDate>2025-09-09T19:02:42Z</pubDate>
+    </item>    <item>
+      <title>iPhone Air</title>
+      <link>https://mjtsai.com/blog/2025/09/09/iphone-air/</link>
+      <description>
+        <![CDATA[Apple (video, MacRumors): Apple today debuted the all-new iPhone Air, the thinnest iPhone ever made, with pro performance. iPhone Air features a breakthrough titanium design that is elegant and light yet strong, with an innovative internal architecture that enables the latest iPhone experiences. The back of iPhone Air is now protected with Ceramic Shield, and [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49212</guid>
+      <pubDate>2025-09-09T19:02:34Z</pubDate>
+    </item>    <item>
+      <title>iPhone 17</title>
+      <link>https://mjtsai.com/blog/2025/09/09/iphone-17/</link>
+      <description>
+        <![CDATA[Apple (video, Hacker News, MacRumors): Apple today announced iPhone 17, featuring the new Center Stage front camera that takes selfies to the next level; a powerful 48MP Fusion Main camera with an optical-quality 2x Telephoto; and a new 48MP Fusion Ultra Wide camera that captures expansive scenes and macro photography in more detail. The 6.3-inch [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49210</guid>
+      <pubDate>2025-09-09T19:02:11Z</pubDate>
+    </item>    <item>
+      <title>Apple Watch Ultra 3</title>
+      <link>https://mjtsai.com/blog/2025/09/09/apple-watch-ultra-3/</link>
+      <description>
+        <![CDATA[Apple (video, MacRumors): Designed to keep users more connected and safer wherever they are with built-in satellite communications, Apple Watch Ultra 3 allows users to text emergency services, message friends and family, and share their location, all while they&#8217;re off the grid. The ultimate sports and adventure watch now features the largest screen of any [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49204</guid>
+      <pubDate>2025-09-09T19:00:15Z</pubDate>
+    </item>    <item>
+      <title>Apple Watch SE 3</title>
+      <link>https://mjtsai.com/blog/2025/09/09/apple-watch-se-3/</link>
+      <description>
+        <![CDATA[Apple (video, MacRumors, Hacker News): Apple Watch SE 3 delivers a more advanced set of health features than the previous generation &#8212; including sleep score, retrospective ovulation estimates, sleep apnea notifications, and wrist temperature sensing for richer Vitals app data &#8212; plus a robust set of fitness features to provide daily motivation. The S10 chip [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49202</guid>
+      <pubDate>2025-09-09T18:59:45Z</pubDate>
+    </item>    <item>
+      <title>Apple Watch Series 11</title>
+      <link>https://mjtsai.com/blog/2025/09/09/apple-watch-series-11/</link>
+      <description>
+        <![CDATA[Apple (video): Apple today introduced Apple Watch Series 11, offering the most comprehensive set of health features yet, longer battery life, an even more durable cover glass, and 5G cellular capabilities, all in its thinnest and most comfortable design. Apple Watch Series 11 is the ultimate health and fitness companion, empowering users with notifications for [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49200</guid>
+      <pubDate>2025-09-09T18:59:26Z</pubDate>
+    </item>    <item>
+      <title>AirPods Pro 3</title>
+      <link>https://mjtsai.com/blog/2025/09/09/airpods-pro-3/</link>
+      <description>
+        <![CDATA[Apple (video, MacRumors, Hacker News): AirPods Pro 3 deliver unbelievable sound quality and the world&#8217;s best in-ear Active Noise Cancellation (ANC) &#8212; removing up to 2x more noise than the previous-generation AirPods Pro, and 4x more than the original AirPods Pro. The updated design helps AirPods Pro 3 fit even better and provides greater in-ear [&#8230;]]]>
+      </description>
+      <guid>https://mjtsai.com/blog/?p=49198</guid>
+      <pubDate>2025-09-09T18:57:44Z</pubDate>
+    </item>    <item>
+      <title>My Video Chat with the brilliant Shakespeare scholar Stephen Greenblatt about his new book on the Renaissance bad boy, Christopher Marlowe, without whom there might not have been a Shakespeare</title>
+      <link>https://tinabrown.substack.com/p/my-video-chat-with-the-brilliant-f73</link>
+      <description>
+        <![CDATA[Marlowe is one of literature&#8217;s most transgressive figures.]]>
+      </description>
+      <enclosure url="https://api.substack.com/feed/podcast/173199401/407cae71cebba8d4b69fe8e9a81a8d0e.mp3" length="0" type="audio/mpeg" />
+      <guid>https://tinabrown.substack.com/p/my-video-chat-with-the-brilliant-f73</guid>
+      <pubDate>2025-09-09T18:46:58Z</pubDate>
+    </item>    <item>
       <title>My review of Claude&#39;s new Code Interpreter, released under a very confusing name</title>
       <link>https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything</link>
       <description>
@@ -41,7 +106,7 @@
         <blockquote>
         <p>With this feature, Claude can also do more advanced data analysis and data science work. Claude can create Python scripts for data analysis. Claude can create data visualizations in image files like PNG. You can also upload CSV, TSV, and other files for data analysis and visualization.</p>
         </blockquote>
-        <p>Talk about burying the lede... this is their version of <a href="https://simonwillison.net/tags/code-interpreter/">ChatGPT Code Interpreter</a>, my all-time favorite feature of ChatGPT!</p>
+        <p>Talk about <a href="https://www.merriam-webster.com/wordplay/bury-the-lede-versus-lead">burying the lede</a>... this is their version of <a href="https://simonwillison.net/tags/code-interpreter/">ChatGPT Code Interpreter</a>, my all-time favorite feature of ChatGPT!</p>
         
         <p>Claude can now write and execute custom Python (and Node.js) code in a server-side sandbox and use it to process and analyze data.</p>
         <p>In a particularly egregious example of AI companies being terrible at naming features, the official name for this one really does appear to be <strong>Upgraded file creation and analysis</strong>. Sigh.</p>
@@ -641,12 +706,28 @@
       <guid>https://www.sustainabilitybynumbers.com/p/solar-wind-speed-rollout</guid>
       <pubDate>2025-09-09T04:51:36Z</pubDate>
     </item>    <item>
+      <title>A Shot At History, Part 1 - The Stakes</title>
+      <link>https://fixthenews.com/p/a-shot-at-history-part-1-the-stakes</link>
+      <description>
+        <![CDATA[Part 1 of our podcast about the malaria vaccine.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!0JoM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33244604-7ae2-4b13-93ba-f503366d5647_1424x948.png" length="0" type="image/jpeg" />
+      <guid>https://fixthenews.com/p/a-shot-at-history-part-1-the-stakes</guid>
+      <pubDate>2025-09-09T02:27:20Z</pubDate>
+    </item>    <item>
       <title>A new experimental Go API for JSON</title>
       <link>https://go.dev/blog/jsonv2-exp</link>
       <description>
         <![CDATA[Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.]]>
       </description>
       <guid>tag:blog.golang.org,2013:blog.golang.org/jsonv2-exp</guid>
+      <pubDate>2025-09-09T00:00:00Z</pubDate>
+    </item>    <item>
+      <title>On hiring a robot to send your emails</title>
+      <link>https://buttondown.com/blog/how-an-email-newsletter-is-sent</link>
+      <description>
+        <![CDATA[There are only two ways to email people: Individually, or all at once.]]>
+      </description>
       <pubDate>2025-09-09T00:00:00Z</pubDate>
     </item>    <item>
       <title>Quoting TheSoftwareGuy</title>
@@ -1634,6 +1715,15 @@
       <guid>https://paulkrugman.substack.com/p/why-does-the-right-reject-progress</guid>
       <pubDate>2025-09-05T10:31:19Z</pubDate>
     </item>    <item>
+      <title>310: Bipedalism. Rice. US prisons empty out. Fires in the Amazon ⬇️🔥. A very cute marsupial.</title>
+      <link>https://fixthenews.com/p/310-bipedalism-rice-us-prisons-empty</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!gCH7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F127654e2-7c8a-455b-b31b-ca3a41ab18c8_600x400.jpeg" length="0" type="image/jpeg" />
+      <guid>https://fixthenews.com/p/310-bipedalism-rice-us-prisons-empty</guid>
+      <pubDate>2025-09-05T05:06:38Z</pubDate>
+    </item>    <item>
       <title>Nine Projects Selected for Next Generation Internet Pilots</title>
       <link>https://nlnet.nl/news/2025/20250905-new-grants-mobifree-fediversity.html</link>
       <guid>https://nlnet.nl/news/2025/20250905-new-grants-mobifree-fediversity.html</guid>
@@ -1657,6 +1747,13 @@
         ~~~ ...]]>
       </description>
       <guid>https://rsdoiel.github.io/blog/2025/09/05/Build_a_Blog_with_Antenna_App.html</guid>
+      <pubDate>2025-09-05T00:00:00Z</pubDate>
+    </item>    <item>
+      <title>The story of how RSS beat Microsoft</title>
+      <link>https://buttondown.com/blog/rss-vs-ice</link>
+      <description>
+        <![CDATA[Massive tech companies tried to own syndication. They failed.]]>
+      </description>
       <pubDate>2025-09-05T00:00:00Z</pubDate>
     </item>    <item>
       <title>Tesla&#39;s Roadmap to Nowhere</title>
@@ -2079,6 +2176,15 @@
       </description>
       <guid>https://www.oreilly.com/radar/?p=17392</guid>
       <pubDate>2025-09-03T10:21:28Z</pubDate>
+    </item>    <item>
+      <title>A Shot At History - Trailer</title>
+      <link>https://fixthenews.com/p/a-shot-at-history-trailer</link>
+      <description>
+        <![CDATA[We're making a podcast about the malaria vaccine.]]>
+      </description>
+      <enclosure url="https://api.substack.com/feed/podcast/172664466/bf5caaf9209fb7f0c1ac17de0d9a8b61.mp3" length="0" type="audio/mpeg" />
+      <guid>https://fixthenews.com/p/a-shot-at-history-trailer</guid>
+      <pubDate>2025-09-03T10:09:32Z</pubDate>
     </item>    <item>
       <title>Google antitrust remedies</title>
       <link>https://simonwillison.net/2025/Sep/3/antitrust/#atom-everything</link>
@@ -2938,6 +3044,15 @@
       <guid>https://mastodon.social/@Migueldeicaza/115111698387292738</guid>
       <pubDate>2025-08-29T10:58:44Z</pubDate>
     </item>    <item>
+      <title>FTN 309: Colours of the Moon. WASH. Solar in Africa. Childhood leukaemia. African Greys 🦜❤️.</title>
+      <link>https://fixthenews.com/p/ftn-309-colours-of-the-moon-wash</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!BXHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926a2580-a44f-4f8c-90ee-9ef635dcce6e_899x896.jpeg" length="0" type="image/jpeg" />
+      <guid>https://fixthenews.com/p/ftn-309-colours-of-the-moon-wash</guid>
+      <pubDate>2025-08-29T10:42:31Z</pubDate>
+    </item>    <item>
       <title>Decline and Fall of the American Empire</title>
       <link>https://paulkrugman.substack.com/p/decline-and-fall-of-the-american</link>
       <description>
@@ -3185,6 +3300,13 @@
       </description>
       <author>kontakt@marginalia.nu (Viktor Lofgren)</author>
       <guid>https://www.marginalia.nu/log/a_124_snark_and_insincerity/</guid>
+      <pubDate>2025-08-28T00:00:00Z</pubDate>
+    </item>    <item>
+      <title>Leave The Grateful Dead out of it</title>
+      <link>https://buttondown.com/blog/grateful-dead-newsletter</link>
+      <description>
+        <![CDATA[Don't let gurus turn your favorite artist's story into marketing drugery.]]>
+      </description>
       <pubDate>2025-08-28T00:00:00Z</pubDate>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115103275821905403</link>
@@ -4003,6 +4125,22 @@
       </description>
       <guid>https://www.raspberrypi.com/?p=129588</guid>
       <pubDate>2025-08-22T12:03:41Z</pubDate>
+    </item>    <item>
+      <title>FTN 308: Five wins on poverty. The Maya Forest. Quantum internet. A reverse Rose Garden. America&#39;s non-existent crime wave.</title>
+      <link>https://fixthenews.com/p/ftn-308-five-wins-on-poverty-maya-forest</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!sTPW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc86c1fb7-21f6-47be-9d90-c1d2490346ea_850x566.jpeg" length="0" type="image/jpeg" />
+      <guid>https://fixthenews.com/p/ftn-308-five-wins-on-poverty-maya-forest</guid>
+      <pubDate>2025-08-22T05:51:18Z</pubDate>
+    </item>    <item>
+      <title>A newsletter-shaped-blog, or a blog-shaped-newsletter</title>
+      <link>https://buttondown.com/blog/blog-vs-newsletter</link>
+      <description>
+        <![CDATA[Both are words published online, but the method changes the medium]]>
+      </description>
+      <pubDate>2025-08-22T00:00:00Z</pubDate>
     </item>    <item>
       <link>https://tilde.zone/@tomasino/115068345522417682</link>
       <description>
