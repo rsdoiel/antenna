@@ -1,3 +1,6 @@
+
+# Snapshots
+
 https://dave.linkblog.org/ "~Dave Winer's linkblog"
 http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
 http://feeds.feedburner.com/shiftf8 "~Rob Lamog-Doiel"
@@ -172,7 +175,6 @@ https://www.oskitone.com/products.xml "~Oskitone product feed"
 https://www.pcjs.org/feed.xml "~PCjs Blog"
 https://www.raspberrypi.com/news/feed/ "~Raspberry Pi News (.com)"
 https://www.redox-os.org/news/index.xml "~Redox OS News"
-# SGV LUG seems to be offline right now, leave in for now (related to the Eaton Fire?). 2025-02-06 RSD
 https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"
 https://www.sustainabilitybynumbers.com/feed "~Hannah Richie at Substack"
 http://www.aymerick.com/rss.xml "~Aymerick's blog"
@@ -194,25 +196,17 @@ https://www.profgalloway.com/feed/ "~Prof. Scott Galloway, No Mercy/No Malace bl
 https://guykawasaki.substack.com/feed "~Guy Kawasaki blog"
 https://bsky.app/profile/did:plc:fuovrvjiloafdym65x3oloqc/rss "~Feed for Alt USDS"
 https://tech.chrishardie.com/feed/ "~Charlie Hardie blog"
-
 https://hakaimagazine.com/feed/ "~Hakai Magazine"
 https://seldo.com/rss.xml "~Laurie Voss blog"
 https://www.experimentaltvcenter.org/feed/ "~Experimental TV Center, Lanesville NY"
 https://www.palomitademaiz.net/feed/ "~Iván Paredes Reséndiz blog, Mexico's cinema"
 https://blog.law.cornell.edu/voxpop/feed/ "~VoxPopuLII blog (legal informatics and open access)"
 https://modern-sql.com/feed "~Modern SQL blog"
-
 https://buttondown.com/blog "~Buttondown Blog"
-
 https://research.swtch.com/feed.atom "~Russ Cox's views on programs and programming"
-
-# Cloudfour.com
 https://cloudfour.com/feed/ "~Cloud Four"
-# Web DOT Dev blog
 https://web.dev/static/blog/feed.xml "~Web Dev blog"
-# WebKit Blog
 https://webkit.org/feed/ "~WebKit blog"
-
 https://medium.com/feed/@dsearls "~Doc Searls on Medium"
 https://mastodon.social/@Migueldeicaza.rss "~Miguel de Icaza Mastondon feed"
 https://bsky.app/profile/did:plc:42n7zwgawer2whfwg3igqwrd/rss "~Ryan Gantz Bluesky feed"

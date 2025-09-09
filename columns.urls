@@ -1,6 +1,6 @@
-#
+
 # Columns is a feed list of things I almost always send to Pocket to read
-#
+
 https://steady.substack.com/feed "~Dan Rather's Steady"
 https://memex.naughtons.org/feed/ "~John Naughton's online diary"
 https://christianheilmann.com/feed/ "~Chris Heilmann's blog"
@@ -23,25 +23,22 @@ http://www.enlightenmenteconomics.com/blog/index.php/feed/ "~Enlightenment Econo
 http://scripting.com/rss.xml "~Dave Winer's Scripting News"
 https://dave.linkblog.org "~Dave's blog"
 https://www.beckyhansmeyer.com/feed/ "~Becky Hansmeyer"
-#https://ben-evans.com/benedictevans?format=rss2 "~Benedict Evans"
 https://blog.hansenpartnership.com/feed/ "~James Bottomley's blog"
 http://feeds.feedburner.com/reybango/zSyW "~Rey Bango Blog"
 https://cardinalrogermahonyblogsla.blogspot.com/feeds/posts/default "~Cardinal Roger Mahony blog"
 https://blog.rongarret.info/feeds/posts/default "~Ron Garret"
-#https://dashes.com/feed.xml "~Anil Dash"
 https://www.dashes.com/feed.xml "~Anil Dash blog"
 https://fallows.substack.com/feed "~James Fallows, Substack"
 https://www.cringely.com/feed/ "~I Cringely blog"
 https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
-#https://www.theatlantic.com/feed/author/james-fallows/ "~James Fallows, Atlantic"
 https://waitbutwhy.com/feed "~Wait but why blog"
 https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 https://shadycharacters.co.uk/feed/ "~Shady Characters blog"
 https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 https://tirania.org/blog/miguel.rss2 "~Miguel de Icaza's blog"
-#
+
 # People Blogs, from news.txt, evaluate and prune
-#
+
 https://benhoyt.com/writings/rss.xml "~Ben Hoyt's Tech Writing"
 https://yihui.org/en/index.xml "~YiHui Xie blog"
 https://writings.stephenwolfram.com/feed/ "~Stephen Wolfram blog"
@@ -70,35 +67,19 @@ https://xobs.io/index.xml "~Xobs blog"
 https://www.stevesouders.com/blog/feed/ "~Steve Sounders blog"
 https://www.stubbornella.org/feed/ "~Stubbornella Blog"
 https://www.tamaspapp.eu/post/index.xml "~Tamás K. Papp blog"
-# Laim Proven at the Register
 https://feed.theregister.com/atom?a=Liam%20Proven "~Liam Proven's articles at the Register"
 https://www.michaelmoore.com/feed "~Michael Moore's blog"
-# Frank Bennett is the creator of CSL and CSL Project JavaScript
 https://fgbjr.name/index.xml "~Frank Bennett blog"
-# Prent Rogers, Microtonal music
-##http://ripnread.com/sample-page/blog/ "~Prent Rogers"
-# Molly White blog
 https://www.mollywhite.net/feed/feed.xml "~Molly White blogs"
-# Dave Rupert
 https://daverupert.com/atom.xml "~Dave Rupert blog"
-# Shop Talk Show
 https://shoptalkshow.com/677/feed/ "~Shop Talk Show"
-# Jeremy Keith blog
 https://adactio.com/rss/ "~Jeremy Keith Blog"
-# Jim Nielsen blog
 https://blog.jim-nielsen.com/feed.xml "~Jim Nielsen blog"
-# Racheal Smith blog
 https://rachsmith.com/feed.xml "~Racheal Smith blog"
-# Maggie Appleton
 https://maggieappleton.com/rss.xml "~Maggie Appleton"
-# Naz Hamid
 https://nazhamid.com/feed.xml "~Naz Hamid blog"
-# Live Laugh Blog, Jen Shiffer
 https://livelaugh.blog/rss.xml "~Live Laugh blog"
-# Keiran Healy Blog
 https://kieranhealy.org/blog/index.xml "~Keiran Healy Blog"
-# George Huntly Blog
 https://ghuntley.com/rss/ "~George Huntly Blog"
-# Paolo Fabio Zaino's Blog
 https://paolozaino.wordpress.com/feed/ "~Paolo Fabio Zaino's Blog"
 https://blog.gingerbeardman.com/feed.xml "~Matt Sephton blog"
