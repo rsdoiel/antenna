@@ -1,3 +1,6 @@
+---
+title: Home, Garden and Urban Farm related blogs
+---
 
 # Home, Garden and Urban Farm related blogs
 
@@ -17,11 +20,9 @@
 
 # Inspiration
 
-##https://thejapanesegarden.com/feed/ "~The Japanese Garden"
 - [Edible San Fernando Valley](https://www.ediblesfvalley.com/feed/)
 - [The Freckled Gardener](https://freckledcalifornian.com/feed/)
 - [The Gardener's Path](https://gardenerspath.com/feed/)
-
 
 # Companies and Suppliers
 

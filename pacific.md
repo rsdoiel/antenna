@@ -1,3 +1,6 @@
+---
+title: Items of interest to the Pacific community and the Pacific RIM
+---
 
 # Items of interest to the Pacific community and the Pacific RIM
 
@@ -19,6 +22,10 @@
 
 - [Marshal Islands Journal](https://marshallislandsjournal.com/feed/)
 
+# PNG based news services
+
+- [Post Courier (PNG)](https://www.postcourier.com.pg/feed/)
+
 # State of Hawaii
 
 - [Hawaii Public Radio](https://www.hawaiipublicradio.org/index.rss)
@@ -30,17 +37,36 @@
 - [Hawai'i Pacific Review (HPU Literary Magazine)](https://hawaiipacificreview.org/feed/)
 - [Hawaii Tribune Harold](https://www.hawaiitribune-herald.com/feed/)
 
+# American Samoa News
+
+- [Samoa News](https://www.samoanews.com/rss.xml)
+- [Talanei](https://www.talanei.com/feed/)
+- [Talamua](https://talamua.com/feed/)
+
+# U.S. Based News Services
+
+- [Micronesian Hub AP News Service](https://apnews.com/hub/micronesia.rss)
+
+# European News Services covering  Micronesia
+
+- [The Guardian, World/Micronesia](https://www.theguardian.com/world/micronesia/rss)
+
 # FSM based Science and Educational organizations
 
 - [MERIP News, Marine Environment Ressearch Institute of Pohnpei](https://www.meripmicronesia.org/feed/)
 
 # New Zealand
 
+# Environmental
 
+- [Island Conservation News](https://www.islandconservation.org/feed/)
+
+# FSM Feeds
+
+- [FSM Development Bank News" # Discovered vandalized content 2024-10-24, appears to be advertising casinos and things.](http://www.fsmdb.fm/feed/)
 
 # Pacific Arts and Culture
 
 - [The Husk](https://thehusk.substack.com/feed)
 - [‘Ōlelo Community Media](https://olelo.org/feed/)
-
 

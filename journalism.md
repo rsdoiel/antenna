@@ -1,8 +1,10 @@
+---
+title: Feeds Student Journalism and feeds about Journalism feeds
+---
 
 # Feeds Student Journalism and feeds about Journalism feeds
 
 - [Nieman Journalism Lab](https://feeds.feedburner.com/NiemanJournalismLab)
-
 
 # College Student Newspapers
 
@@ -13,5 +15,8 @@
 - [The Daily Bruin (UCLA Student Newspaper)](https://wp.dailybruin.com/feed/)
 - [The Round Up (Pierce College Student Newspaper)](https://theroundupnews.com/feed/)
 - [The Occidental News (Occidental College Student Newspaper)](https://theoccidentalnews.com/feed)
+
+# Chaminade University in Hawaii
+
 - [Chaminade Silversword (Chaminade Univ. student newspaper)](https://thesilversword.com/category/news/feed/)
 

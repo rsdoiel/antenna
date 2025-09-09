@@ -11,5 +11,6 @@
 _*
 *.sql.gz
 *.ts
+*.db
 deno.*
 dist/*

@@ -1,3 +1,7 @@
+---
+title: Columns
+description: Blogs and columns
+---
 
 # Columns is a feed list of things I almost always send to Pocket to read
 

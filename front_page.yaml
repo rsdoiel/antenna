@@ -27,12 +27,11 @@ nav: |
     <li><a href="forecasts.html" "Selected NOAA forecasts">Weather</a></li>
   </ul>
 
-top_content: |
+topContent: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
 
-footer: >
+footer: |
   Antenna is a personal aggregation of items found around the web.
-  Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a>
-  and <a href="https://sqlite.org">sqlite</a> then rendered with
-  <a href="https://pandoc.org">Pandoc</a>.
+  Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>,
+  <a href="https://sqlite.org">sqlite</a> and <a href="https://pandoc.org">Pandoc</a>.
 

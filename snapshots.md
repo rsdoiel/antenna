@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+---
+title: Snapshots
+description: Various from around the web
+---
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 
 # Snapshots
 
@@ -13,7 +20,10 @@
 - [Ashwin's Chronicles](https://ashwinschronicles.github.io/feeds/all.atom.xml)
 - [Berkley Artificial Intellegence Research Blog](https://bair.berkeley.edu/blog/feed.xml)
 - [Biosrhythm blog](https://biosrhythm.com/?feed=rss2)
+<<<<<<< HEAD
 - [Hidden variables blog](https://blog.domenic.me/feed.xml)
+=======
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 - [Gtk Developer blog](https://blog.gtk.org/feed/)
 - [Hubersn Software Blog](https://blog.hubersn-software.com/feed/)
 - [LLVM Blog](https://blog.llvm.org/index.xml)
@@ -181,6 +191,11 @@
 - [Microcores blog](http://www.multicores.org/blog/feed.rss)
 - [Peter Norvig's feed](http://www.norvig.com/rss-feed.xml)
 - [Retro Programming blog](http://www.retroprogramming.com/feeds/posts/default?alt=rss)
+<<<<<<< HEAD
+=======
+- [System76 Blog](https://blog.system76.com/rss.xml)
+- [Purism News and Events](https://puri.sm/feed/)
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 - [Eric Meyer blog](https://meyerweb.com/eric/thoughts/feed/)
 - [Aaron Bos blog](https://aaronbos.dev/feed.xml)
 - [Harry Scell's blog, (wrote hscells/doi)](https://scells.me/index.xml)

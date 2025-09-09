@@ -1,3 +1,6 @@
+---
+title: Healthy Eating, Good Eating and Recipes
+---
 
 # Healthy Eating, Good Eating and Recipes
 
@@ -11,11 +14,9 @@
 - [Closet Cooking](https://www.closetcooking.com/feed/)
 - [Taste of Home](https://www.tasteofhome.com/feed/)
 
-
 # Irish
 
 - [Irish Food Hub](https://irishfoodhub.com/feed/)
-
 
 # Coffee
 

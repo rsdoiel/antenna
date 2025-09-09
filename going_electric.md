@@ -1,3 +1,8 @@
+---
+title: Going Electric
+description: |
+  Going Electric has feeds involving home and transportation options powered by Electricity
+---
 
 # Going Electric has feeds involving home and transportation options powered by Electricity
 
@@ -7,7 +12,6 @@
 - [Green Coast blog](https://greencoast.org/feed/)
 
 
-
 # Government sites/feeds
 
 - [California Energy Blog](https://www.calenergyblog.com/blog-feed.xml)
@@ -15,5 +19,4 @@
 # Podcasts
 
 - [Shift Key](https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b)
-
 

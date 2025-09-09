@@ -1,111 +1,98 @@
 port: 8000
+htdocs: .
 collections:
-    - title: columns.md
-      link: columns.xml
+    - title: Columns
       file: columns.md
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: columns.db
-    - title: craft.md
-      link: craft.xml
+    - title: Craft
       file: craft.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: craft.db
-    - title: food.md
-      link: food.xml
+    - title: Food
       file: food.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: food.db
-    - title: going_electric.md
-      link: going_electric.xml
+    - title: Going Electric
       file: going_electric.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: going_electric.db
-    - title: home.md
-      link: home.xml
+    - title: Home, Garden and Urban Farm
       file: home.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: home.db
-    - title: journalism.md
-      link: journalism.xml
+    - title: Journalism
       file: journalism.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: journalism.db
-    - title: libraries.md
-      link: libraries.xml
+    - title: Libraries
       file: libraries.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: libraries.db
-    - title: north_america.md
-      link: north_america.xml
+    - title: North America
       file: north_america.md
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: north_america.db
-    - title: pacific.md
-      link: pacific.xml
+    - title: Pacific
       file: pacific.md
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: pacific.db
-    - title: planet.md
-      link: planet.xml
+    - title: Planet
       file: planet.md
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: planet.db
-    - title: retro_computing.md
-      link: retro_computing.xml
+    - title: Retro Computing
       file: retro_computing.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: retro_computing.db
-    - title: science_and_technology.md
-      link: science_and_technology.xml
+    - title: Science and Technology
       file: science_and_technology.md
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: science_and_technology.db
-    - title: small_papers.md
-      link: small_papers.xml
+    - title: Small Papers
       file: small_papers.md
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: small_papers.db
-    - title: snapshots.md
-      link: snapshots.xml
+    - title: Snapshots
       file: snapshots.md
       generator: front_page.yaml
       filters:
@@ -120,8 +107,7 @@ collections:
         - UPDATE items SET status = 'review';
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: socal_north.db
-    - title: writing.md
-      link: writing.xml
+    - title: Writing
       file: writing.md
       generator: other_reading.yaml
       filters:

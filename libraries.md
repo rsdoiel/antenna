@@ -1,4 +1,6 @@
-
+---
+title: Library and Archives organizations
+---
 
 # Library and Archives organizations
 
@@ -17,11 +19,9 @@
 
 - [Caltech Library Events](https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754)
 - [CSUN Library Blog, Cited](https://library.csun.edu/blogs/cited/feed/)
-- [ETH Zurich, recently added](https://www.research-collection.ethz.ch/feed/rss_2.0/site)
 - [Ithaka S+R](https://sr.ithaka.org/feed)
 
-
-# organizations
+# Organizations
 
 - [Crossref Blog](https://www.crossref.org/blog/index.xml)
 - [IT for Archivists](https://www.itforarchivists.com/index.xml)

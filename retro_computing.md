@@ -1,8 +1,18 @@
+<<<<<<< HEAD
+=======
+---
+title: Retro Computing News
+---
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 
 # Retro Computing News
 
 
+<<<<<<< HEAD
 ## RISC OS
+=======
+# RISC OS
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 
 - [RiscOS Story](https://www.riscository.com/feed/)
 - [RiscOS Open](https://www.riscosopen.org/news/xml/rss20/feed.xml)
@@ -55,13 +65,19 @@
 # Misc, uncategorized
 
 - [Happy Macs site](https://happymacs.wordpress.com/feed/)
+<<<<<<< HEAD
 
 # Old Vintage Computing Research appears to be written by the maintainer of Floodgap Gopher site
 
+=======
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 - [Old Ventage Computing Research](https://oldvcr.blogspot.com/feeds/posts/default?alt=rss)
 
 # Magazines
 
 - [Linux Magazine](https://www.linux-magazine.com/rss/feed/lmi_news)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
