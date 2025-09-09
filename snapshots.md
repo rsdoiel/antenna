@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-=======
 ---
 title: Snapshots
 description: Various from around the web
 ---
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 
 # Snapshots
 
@@ -20,10 +17,7 @@ description: Various from around the web
 - [Ashwin's Chronicles](https://ashwinschronicles.github.io/feeds/all.atom.xml)
 - [Berkley Artificial Intellegence Research Blog](https://bair.berkeley.edu/blog/feed.xml)
 - [Biosrhythm blog](https://biosrhythm.com/?feed=rss2)
-<<<<<<< HEAD
-- [Hidden variables blog](https://blog.domenic.me/feed.xml)
-=======
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
+- [Hidden variables blog](https://domenic.me/feed.xml)
 - [Gtk Developer blog](https://blog.gtk.org/feed/)
 - [Hubersn Software Blog](https://blog.hubersn-software.com/feed/)
 - [LLVM Blog](https://blog.llvm.org/index.xml)
@@ -82,7 +76,6 @@ description: Various from around the web
 - [Rachel Kwon blog](https://kwon.nyc/notes/index.xml)
 - [Creations Blog by Kyle Gabriel](https://kylegabriel.com/projects/feed)
 - [Blog Lazplanet](https://lazplanet.blogspot.com/feeds/posts/default?alt=rss)
-- [ldbeth Lisp/Music Programmer blog](https://ldbeth.sdf.org/rss.xml)
 - [Lean Rada's blog](https://leanrada.com/rss.xml)
 - [Letters of Note](https://lettersofnote.com/feed/)
 - [Lispy Arnuld blog](https://lispyarnuld.wordpress.com/feed/)
@@ -160,7 +153,6 @@ description: Various from around the web
 - [The United States Research Software Engineer Association](https://us-rse.org/feed.xml)
 - [Maurice Parker](https://vincode.io/feed.xml)
 - [Web Recorder](https://webrecorder.net/feed.xml)
-- [Will Norris blog](https://willnorris.com/atom.xml)
 - [WoLpH blog](https://w.wol.ph/feed/)
 - [404 Media Group](https://www.404media.co/rss/)
 - [Marc André Tanner blog (creator of vis editor)](https://www.brain-dump.org/index.xml)
@@ -191,11 +183,8 @@ description: Various from around the web
 - [Microcores blog](http://www.multicores.org/blog/feed.rss)
 - [Peter Norvig's feed](http://www.norvig.com/rss-feed.xml)
 - [Retro Programming blog](http://www.retroprogramming.com/feeds/posts/default?alt=rss)
-<<<<<<< HEAD
-=======
 - [System76 Blog](https://blog.system76.com/rss.xml)
 - [Purism News and Events](https://puri.sm/feed/)
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 - [Eric Meyer blog](https://meyerweb.com/eric/thoughts/feed/)
 - [Aaron Bos blog](https://aaronbos.dev/feed.xml)
 - [Harry Scell's blog, (wrote hscells/doi)](https://scells.me/index.xml)
@@ -206,7 +195,7 @@ description: Various from around the web
 - [This is history podcast](https://therestishistory.com/feed/)
 - [Paul Krugman](https://paulkrugman.substack.com/feed)
 - [Nadia Asparouhova blog](https://nadia.xyz/feed.xml)
-- [Fix the News](https://fixthenews.com/rss)
+- [Fix the News](https://fixthenews.com/feed)
 - [Prof. Scott Galloway, No Mercy/No Malace blog](https://www.profgalloway.com/feed/)
 - [Guy Kawasaki blog](https://guykawasaki.substack.com/feed)
 - [Feed for Alt USDS](https://bsky.app/profile/did:plc:fuovrvjiloafdym65x3oloqc/rss)
@@ -217,7 +206,7 @@ description: Various from around the web
 - [Iván Paredes Reséndiz blog, Mexico's cinema](https://www.palomitademaiz.net/feed/)
 - [VoxPopuLII blog (legal informatics and open access)](https://blog.law.cornell.edu/voxpop/feed/)
 - [Modern SQL blog](https://modern-sql.com/feed)
-- [Buttondown Blog](https://buttondown.com/blog)
+- [Buttondown Blog](https://buttondown.com/rss/blog.xml)
 - [Russ Cox's views on programs and programming](https://research.swtch.com/feed.atom)
 - [Cloud Four](https://cloudfour.com/feed/)
 - [Web Dev blog](https://web.dev/static/blog/feed.xml)

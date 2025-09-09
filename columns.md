@@ -45,7 +45,6 @@ description: Blogs and columns
 
 - [Ben Hoyt's Tech Writing](https://benhoyt.com/writings/rss.xml)
 - [YiHui Xie blog](https://yihui.org/en/index.xml)
-- [Stephen Wolfram blog](https://writings.stephenwolfram.com/feed/)
 - [Jeff Geerling blog](https://www.jeffgeerling.com/blog.xml)
 - [Joel on Software](https://www.joelonsoftware.com/feed/)
 - [Russell Graves, Syonyk's Project Blog](https://www.sevarg.net/feed.xml)

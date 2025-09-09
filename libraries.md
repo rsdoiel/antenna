@@ -19,7 +19,7 @@ title: Library and Archives organizations
 
 - [Caltech Library Events](https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754)
 - [CSUN Library Blog, Cited](https://library.csun.edu/blogs/cited/feed/)
-- [Ithaka S+R](https://sr.ithaka.org/feed)
+- [Ithaka S+R](https://sr.ithaka.org/feed/)
 
 # Organizations
 
