@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 ---
 title: Science and Technology
 ---
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 
 # Science and Technology
 
@@ -19,10 +16,6 @@ title: Science and Technology
 
 - [Servo blog](https://servo.org/blog/feed.xml)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 # Hardware companies
 
 - [System 76 Blog](https://blog.system76.com/rss.xml)

@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-=======
 ---
 title: Writing
 descirption: |
   Writing list provides resources and inspiration for writing projects and IF (Interactive Fiction)
 ---
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25
 
 # Writing list provides resources and inspiration for writing projects and IF (Interactive Fiction)
 
@@ -21,7 +18,3 @@ descirption: |
 - [John August blog](https://johnaugust.com/feed)
 - [Interesting, a blog on writing](https://inneresting.substack.com/feed)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 76dfd0ab4c1a94085a68a2fa58c242f8a0a04e25

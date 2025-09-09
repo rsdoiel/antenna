@@ -10,7 +10,6 @@ for MD_FILE in about.md forecasts.md index.md README.md search.md TODO.md; do
   HTML_FILE="$(basename "${MD_FILE}" ".md").html"
   echo "Generating $HTML_FILE from $MD_FILE"
   pandoc -f markdown -t html5 \
-          --lua-filter=links-to-html.lua \
           --template front_page.tmpl \
           "${MD_FILE}" \
           >"${HTML_FILE}"
