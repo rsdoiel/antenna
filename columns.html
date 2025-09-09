@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="antenna/0.0.2">
-  <meta name="date" content="2025-09-09T15:08:20-07:00">
+  <meta name="date" content="2025-09-09T16:07:18-07:00">
 </head>
 <body>
   <header>
@@ -38,6 +38,65 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-09-09T22:43:54Z" data-link="https://kottke.org/25/09/0047477-this-is-what-could-happen">
+      <h1> This is what could happen to a child who doesn&#8217;t get vaccinated.... </h1>
+
+(date: 2025-09-09, updated: 2025-09-09, from: <a href="https://kottke.org/25/09/0047477-this-is-what-could-happen">https://kottke.org/25/09/0047477-this-is-what-could-happen</a>)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/0047477-this-is-what-could-happen">https://kottke.org/25/09/0047477-this-is-what-could-happen</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-09T22:26:48Z" data-link="https://alexschroeder.ch/view/2025-09-10-large-feeds">
+      <h1>2025-09-10 Large feeds</h1>
+
+(date: 2025-09-09, from: <a href="https://alexschroeder.ch/view/2025-09-10-large-feeds">https://alexschroeder.ch/view/2025-09-10-large-feeds</a>)
+      <p>
+      <h1 id="2025-09-10-large-feeds">2025-09-10 Large feeds</h1>
+
+<p>I&rsquo;ve been working on <a href="Xobaque">Xobaque</a> because I&rsquo;m using it to back <a href="https://search.indieblog.page/">Search indieblog.page</a>.</p>
+
+<p>As I&rsquo;m importing nearly 5000 feeds, I find that a single SQLite writer is in fact a bottle-neck; that my simple &ldquo;select foo&rdquo; if found &ldquo;update foo&rdquo; else &ldquo;insert foo&rdquo; isn&rsquo;t very fast. Sadly, I cannot use UPSERT because full text search is implemented by a virtual table which doesn&rsquo;t allow constraints or indexes and UPSERT requires a constraint to work.</p>
+
+<p>I also discovered that some blogs come with a gazillion pages going back to the beginning of the century. There&rsquo;s one blog with over 12000 pages in its feed. Short pages, for sure, but still. There&rsquo;s one blog with over 4000 pages; one with over 2000 pages; six with over 1000 pages. What the hell!</p>
+
+<p>I understand having a lot of pages on the blog. I don&rsquo;t understand having a lot of pages in a feed. The feed is for updates. Do people expect readers to read the entire back catalogue? I mean, I have listened through entire podcasts, which are powered for a feed, so I understand the feed for a blog and the feed for a podcast to serve different needs. But still. 12000 pages in a feed feels like downloading the whole site, every single time somebody requests and update. These feeds are not &ldquo;news&rdquo; but &ldquo;archives&rdquo; and there&rsquo;s a place for both of them. Upload an archive for the initial-load, then keep uploading news to keep the index up to date.</p>
+
+<p>This is what <a href="https://datatracker.ietf.org/doc/html/rfc5005">RFC 5005</a> is for: feed paging and archiving.</p>
+
+<p>I guess I&rsquo;m just confused because it all illustrates that I walked into this search engine stuff without understanding the huge variety out there.</p>
+
+<p>The current architecture is this: 10 go routines fetch feeds from the OPML; this uses <code>If-Modified-Since</code> and <code>If-None-Match</code> headers and skips feeds that return a 304. This is fast.</p>
+
+<p>Before a feed is written to disk a lock is acquired so we only have one SQLite writer at a time. This is slow and cannot be changed unless moving away from SQLite.</p>
+
+<p>On fedi, <a class="account" href="https://neuromatch.social/@jonny" title="@jonny@neuromatch.social">@jonny</a> had some interesting suggestions for my use of SQLite: Split select, insert and updates in to chunks. And I did, and it helped!</p>
+
+<p>Each feed is broken into groups of 1000 items each (only very few of them are); up to 1000 pages with matching URL are read from disk and their title and page is compared to the data in the feed; the result is a number of updates, a number of inserts, a number of duplicate URLs that get ignored, and a number of unchanged pages. The updates are executed with a single prepared statement; then the inserts are executed with a single prepared statement. This already reduces the running time of one pass to about 12h. 😅 This is better than before!</p>
+
+<p>I&rsquo;m not sure what to do next to improve performance. The most obvious step would be to use three global variables for prepared select, insert and update to reduce SQL parsing. Not sure how much that will help. I have a log with 45 min of output. In this time window, 1782 feeds resulted in some SQL based processing and 2179 feeds were skipped due to HTTP caching.</p>
+
+<p>If I use the timestamp of the Last-Modified header that I have on disk and filter the pages in the feed for published or updated dates greater than that, I might speed things up by excluding them from the select statements. If such a date is missing, no big deal. For many feeds, however, this will result in less database activity. Looking at the numbers of the piece of log I have, it shows 93119 pages processed, of which 160 were duplicates, 9534 resulted in inserts, 362 resulted in updates and 83063 were unchanged. Clearly, skipping the unchanged ones would save database activity!</p>
+
+<p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a> <a class="tag" href="/search/?q=%23Feeds">#Feeds</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a></p>
+      <address>
+        <a href="https://alexschroeder.ch/view/2025-09-10-large-feeds">https://alexschroeder.ch/view/2025-09-10-large-feeds</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-09T22:01:14Z" data-link="https://robertreich.substack.com/p/were-paying-big-oil-to-kill-the-earth">
+      <h1>We're Paying Big Oil to Kill the Earth </h1>
+
+(date: 2025-09-09, from: <a href="https://robertreich.substack.com/p/were-paying-big-oil-to-kill-the-earth">https://robertreich.substack.com/p/were-paying-big-oil-to-kill-the-earth</a>)
+      <p>
+      Combine political corruption with climate-change denial and what do you get? Trump's love affair with Big Oil
+      <address>
+        <a href="https://robertreich.substack.com/p/were-paying-big-oil-to-kill-the-earth">https://robertreich.substack.com/p/were-paying-big-oil-to-kill-the-earth</a>
+      </address>
+    </article>
 
     <article data-published="2025-09-09T21:39:16Z" data-link="https://kottke.org/25/09/drunk-jeff-goldblum-1">
       <h1> Drunk Jeff Goldblum </h1>

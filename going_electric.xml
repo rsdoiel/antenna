@@ -2,14 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Going Electric</title>
-    <lastBuildDate>2025-09-09 15:08:20</lastBuildDate>
+    <lastBuildDate>2025-09-09 16:07:18</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Europeans Would Rather Buy A Chinese Car Than An American One: Study</title>
+      <title>&#39;This Is Game-Changing&#39;: BYD Brings EV Production, Megawatt Charging To Europe</title>
+      <link>https://insideevs.com/news/771756/byd-iaa-megawatt-europe-seal/</link>
+      <description>
+        <![CDATA[BYD is so serious about Europe, it's even getting into the wagon business.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/xqPqO6/s3/byd-seal-6-dm-i-touring-2025-im-test.jpg" length="30874" type="image/jpeg" />
+      <guid>https://insideevs.com/news/771756/byd-iaa-megawatt-europe-seal/</guid>
+      <pubDate>2025-09-09T22:39:34Z</pubDate>
+    </item>    <item>
+      <title>A Washington Dealership Is Selling A Used 2017 Tesla Model S For $20,000. But What&#39;s The Catch?</title>
+      <link>https://insideevs.com/news/771715/washington-used-tesla-model-s/</link>
+      <description>
+        <![CDATA[Common complaints include unreliable range estimates and hefty battery replacement costs]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/y29PRl/s3/used-tesla-model-s.jpg" length="28779" type="image/jpeg" />
+      <guid>https://insideevs.com/news/771715/washington-used-tesla-model-s/</guid>
+      <pubDate>2025-09-09T22:00:00Z</pubDate>
+    </item>    <item>
+      <title>Europeans Would Rather Buy Chinese Cars Than American Ones: Study</title>
       <link>https://insideevs.com/news/771750/chinese-car-escalent-survey-study/</link>
       <description>
-        <![CDATA[Escalent's Chinese Automotive Brands Impact Study shows that within a year, Europeans would take a Chinese car over an American one.]]>
+        <![CDATA[Europeans are souring on American companies just as they warm up to Chinese brands.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/lEqJKW/s3/byd-dolphin-surf-2025-im-kurztest.jpg" length="23271" type="image/jpeg" />
       <guid>https://insideevs.com/news/771750/chinese-car-escalent-survey-study/</guid>
@@ -48,7 +66,7 @@
       <guid>https://insideevs.com/news/771621/catl-lfp-battery-charging-degradation/</guid>
       <pubDate>2025-09-09T20:09:14Z</pubDate>
     </item>    <item>
-      <title>You Can Now Order A Lucid Gravity In Europe. Here&#39;s How Much It Costs</title>
+      <title>The Lucid Gravity Is Officially On Sale In Europe. Why It Could Be A Hit</title>
       <link>https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/</link>
       <description>
         <![CDATA[The American startup's highly impressive SUV should hit European streets in early 2026.]]>
