@@ -1,8 +1,9 @@
-#
-# Retro Computing News
-#
 
-# RISC OS
+# Retro Computing News
+
+
+## RISC OS
+
 https://www.riscository.com/feed/ "~RiscOS Story"
 https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
 http://riscosblog.huber-net.de/feed/ "~Hubersn RISC OS blog"
@@ -12,49 +13,54 @@ https://www.acornarcade.com/rss-rss20.php "~Acorn Arcade"
 https://paolozaino.wordpress.com/feed/ "~Pablo Fabio Zaino blog"
 
 # Blogs including programming on RISC OS
+
 https://www.hobson.space/posts/index.xml "~James Hobson blog"
 
 # C64
+
 https://www.c64os.com/feed/ "~C64 OS Blog"
 
 # Pascal Machines, Modula and Oberon
+
 http://pascal.hansotten.com/feed/ "~Hans Otten's Pascal for small machines"
-#http://www.hansotten.com/feed/ "~Hans Otten's Blog" # is no more as of 2024-10-30 redirects to http://retro.hansotten.nl/
 http://retro.hansotten.nl/feed/ "~Hans Otten's Retro blog"
-#https://freepages.modula2.org/rss/fmp.rss "~Freepages, Module-2.org"
 
 # DOS and CP/M
+
 https://sourceforge.net/p/freedos/news/feed.rss "~FreeDOS News"
-#https://kevinboone.me/rss.html "~Kevin Boone (CP/M with cpmemu article)"
 
 # Acorn and RISC OS
+
 https://heyrick.eu/blog/blog-rss.xml "~Richard Murray's blog"
 
 # Apple
+
 https://www.folklore.org/folklore.xml "~Folklore, Apple History"
 
-# Lisp and Pop-2, 406 errors, 2025-08-16
-#https://lisp-machine.org/feed/ "~Lispmachine-org blog"
-
 # Projects and recreations
+
 https://www.go4retro.com/feed/ "~Retro Innovations blog"
 https://solar.lowtechmagazine.com/posts/index.xml "~Low-tech magazine"
 
 # Computure History
+
 http://www.hookedonthepast.com/feed/ "~Hooked on the Past blog"
 https://computerhistory.org/stories/feed/ "~Computer History: Stores"
 https://twobithistory.org/feed.xml "~Two bit History"
 https://vcfed.org/wp/feed/ "~Vintage Computing Federation"
 https://www.vintagecomputing.com/index.php/feed "~Vintage Computing"
-# 403 errors, 2025-08-16
-#https://computeradsfromthepast.substack.com/feed "~Computer ads from the Past"
 https://www.filfre.net/feed/ "~Digital Antiquarian"
 https://bitsplitting.org/feed/ "~Bitsplitting Blog"
 
 # Misc, uncategorized
+
 https://happymacs.wordpress.com/feed/ "~Happy Macs site"
+
 # Old Vintage Computing Research appears to be written by the maintainer of Floodgap Gopher site
+
 https://oldvcr.blogspot.com/feeds/posts/default?alt=rss "~Old Ventage Computing Research"
 
 # Magazines
+
 https://www.linux-magazine.com/rss/feed/lmi_news "~Linux Magazine"
+

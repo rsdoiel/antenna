@@ -12,10 +12,12 @@ authors:
 
 
 repository_code: git+https://github.com/rsdoiel/antenna
-version: 0.0.5
+version: 0.0.6
 license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
 programming_language:
+  - Markdown
+  - YAML
   - Bash or PowerShell
   - Pandoc templates
   - SQL
@@ -27,18 +29,15 @@ keywords:
   - website
   - static
 
-date_released: 2025-08-21
+date_released: 2025-09-09
 ---
 
 About this software
 ===================
 
-## antenna 0.0.5
+## antenna 0.0.6
 
-Minor cleanup and updates
-
-- Updated skimmer verison to 0.0.25
-- Split layouts between and sub nav based on front_page.yaml and other_reading.yaml
+Now curated with antennaApp v0.0.2 and Pandoc 3.1.
 
 ### Authors
 
@@ -60,6 +59,8 @@ and either Bash or PowerShell.
 
 ### Programming languages
 
+- Markdown
+- YAML
 - Bash or PowerShell
 - Pandoc templates
 - SQL
@@ -69,7 +70,7 @@ and either Bash or PowerShell.
 
 ### Software Requirements
 
-- Skimmer >= 0.0.25
+- antennaApp >= 0.0.2
 - Pandoc >= 3.1
 - Bash or Powershell (Windows)
 

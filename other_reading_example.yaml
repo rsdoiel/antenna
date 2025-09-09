@@ -36,10 +36,10 @@ nav: |
     <li><a href="writing.html">Writing</a></li>
   </ul>
 
-top_content: |
+topContent: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
 
-bottom_content: ''
+bottomContent: ''
 
 footer: >
   Your footer goes here.

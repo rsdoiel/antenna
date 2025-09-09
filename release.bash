@@ -7,7 +7,7 @@
 # shellcheck disable=SC2046
 REPO_ID="$(basename $(pwd))"
 # shellcheck disable=SC2046
-GROUP_ID="$(basename $(dirname $(pwd)))"
+GROUP_ID="rsdoiel" # "$(basename $(dirname $(pwd)))"
 REPO_URL="https://github.com/${GROUP_ID}/${REPO_ID}"
 echo "REPO_URL -> ${REPO_URL}"
 
