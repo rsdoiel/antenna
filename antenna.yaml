@@ -1,8 +1,10 @@
 port: 8000
 htdocs: .
+baseUrl: https://rsdoiel.github.io/antenna
 collections:
     - title: Columns
       file: columns.md
+      link: https://rsdoiel.github.io/antenna/columns.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -10,6 +12,7 @@ collections:
       dbName: columns.db
     - title: Craft
       file: craft.md
+      link: https://rsdoiel.github.io/antenna/craft.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -17,6 +20,7 @@ collections:
       dbName: craft.db
     - title: Food
       file: food.md
+      link: https://rsdoiel.github.io/antenna/food.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -24,6 +28,7 @@ collections:
       dbName: food.db
     - title: Going Electric
       file: going_electric.md
+      link: https://rsdoiel.github.io/antenna/going_electric.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -31,6 +36,7 @@ collections:
       dbName: going_electric.db
     - title: Home, Garden and Urban Farm
       file: home.md
+      link: https://rsdoiel.github.io/antenna/home.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -38,6 +44,7 @@ collections:
       dbName: home.db
     - title: Journalism
       file: journalism.md
+      link: https://rsdoiel.github.io/antenna/journalism.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -45,6 +52,7 @@ collections:
       dbName: journalism.db
     - title: Libraries
       file: libraries.md
+      link: https://rsdoiel.github.io/antenna/libraries.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -52,6 +60,7 @@ collections:
       dbName: libraries.db
     - title: North America
       file: north_america.md
+      link: https://rsdoiel.github.io/antenna/north_america.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -59,6 +68,7 @@ collections:
       dbName: north_america.db
     - title: Pacific
       file: pacific.md
+      link: https://rsdoiel.github.io/antenna/pacific.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -66,6 +76,7 @@ collections:
       dbName: pacific.db
     - title: Planet
       file: planet.md
+      link: https://rsdoiel.github.io/antenna/planet.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -73,6 +84,7 @@ collections:
       dbName: planet.db
     - title: Retro Computing
       file: retro_computing.md
+      link: https://rsdoiel.github.io/antenna/retro_computing.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -80,6 +92,7 @@ collections:
       dbName: retro_computing.db
     - title: Science and Technology
       file: science_and_technology.md
+      link: https://rsdoiel.github.io/antenna/science_and_technology.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -87,6 +100,7 @@ collections:
       dbName: science_and_technology.db
     - title: Small Papers
       file: small_papers.md
+      link: https://rsdoiel.github.io/antenna/small_papers.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -94,6 +108,7 @@ collections:
       dbName: small_papers.db
     - title: Snapshots
       file: snapshots.md
+      link: https://rsdoiel.github.io/antenna/snapshots.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -102,6 +117,7 @@ collections:
     - title: socal_north.md
       link: socal_north.xml
       file: socal_north.md
+      link: https://rsdoiel.github.io/antenna/socal_north.xml
       generator: front_page.yaml
       filters:
         - UPDATE items SET status = 'review';
@@ -109,6 +125,7 @@ collections:
       dbName: socal_north.db
     - title: Writing
       file: writing.md
+      link: https://rsdoiel.github.io/antenna/writing.xml
       generator: other_reading.yaml
       filters:
         - UPDATE items SET status = 'review';
