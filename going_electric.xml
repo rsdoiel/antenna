@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/going_electric.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Going Electric</title>
-    <lastBuildDate>2025-09-10 12:00:57</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -15,8 +17,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="austin" data-layer-viewtype="unknown" data-post-id="433619" href="https://electrek.co/2025/09/10/reborn-austin-arrow-ev-gets-real-as-customer-deliveries-begin-video/#more-433619" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433619</guid>
-      <pubDate>2025-09-10T12:05:58Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433619</guid>
     </item>    <item>
       <title>‘Myth’: Most Drivers Don’t Rely On CarPlay As Much As You Think, BMW Says</title>
       <link>https://insideevs.com/news/771817/apple-carplay-myth-navigation-bmw-ui-boss/</link>
@@ -24,8 +25,7 @@
         <![CDATA[The internet is still mad because several EVs don’t have CarPlay. But BMW’s internal data shows it’s not such a big deal.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/XBX0Ll/s3/apple-carplay-in-a-bmw-5-series.jpg" length="21519" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771817/apple-carplay-myth-navigation-bmw-ui-boss/</guid>
-      <pubDate>2025-09-10T11:09:50Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771817/apple-carplay-myth-navigation-bmw-ui-boss/</guid>
     </item>    <item>
       <title>Tesla Driver Doesn&#39;t Get Chick-Fil-A Sauce. So He Uses His Megaphone</title>
       <link>https://insideevs.com/news/771748/tesla-driver-chick-fil-a/</link>
@@ -33,8 +33,7 @@
         <![CDATA[The electric vehicle's function seems perfect for pranks.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/ojPB24/s3/tesla-megaphone.jpg" length="20159" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771748/tesla-driver-chick-fil-a/</guid>
-      <pubDate>2025-09-10T10:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771748/tesla-driver-chick-fil-a/</guid>
     </item>    <item>
       <title>You Can Now Charge Your EV At Over 200 Pilot And Flying J Gas Stations</title>
       <link>https://insideevs.com/news/771783/gm-pilot-evgo-200-charging-stations/</link>
@@ -42,8 +41,7 @@
         <![CDATA[Pilot Company, General Motors and EVgo installed 350 kW fast chargers along interstates in nearly 40 states.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/BXyx1j/s3/gm-energy-pilot-and-evgo-dc-fast-charging-station.jpg" length="22843" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771783/gm-pilot-evgo-200-charging-stations/</guid>
-      <pubDate>2025-09-10T07:13:25Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771783/gm-pilot-evgo-200-charging-stations/</guid>
     </item>    <item>
       <title>World’s first: Hitachi Energy powers up construction site with hydrogen genset</title>
       <link>https://electrek.co/2025/09/09/worlds-first-hitachi-energy-powers-up-construction-site-with-hydrogen-genset/</link>
@@ -54,8 +52,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,hitachi,hydrogen" data-layer-viewtype="unknown" data-post-id="433591" href="https://electrek.co/2025/09/09/worlds-first-hitachi-energy-powers-up-construction-site-with-hydrogen-genset/#more-433591" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433591</guid>
-      <pubDate>2025-09-10T01:28:29Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433591</guid>
     </item>    <item>
       <title>GM, EVgo, and Pilot hit 200+ charging sites across 40 states</title>
       <link>https://electrek.co/2025/09/09/gm-evgo-and-pilot-hit-200-charging-sites-across-40-states/</link>
@@ -66,8 +63,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,evgo,general-motors,gm,pilot-company" data-layer-viewtype="unknown" data-post-id="433580" href="https://electrek.co/2025/09/09/gm-evgo-and-pilot-hit-200-charging-sites-across-40-states/#more-433580" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433580</guid>
-      <pubDate>2025-09-09T23:35:27Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433580</guid>
     </item>    <item>
       <title>LiveWire S4 Honcho? New trademark hints at bigger electric motorcycle</title>
       <link>https://electrek.co/2025/09/09/livewire-s4-honcho-new-trademark-hints-at-bigger-electric-motorcycle/</link>
@@ -78,8 +74,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire" data-layer-viewtype="unknown" data-post-id="433572" href="https://electrek.co/2025/09/09/livewire-s4-honcho-new-trademark-hints-at-bigger-electric-motorcycle/#more-433572" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433572</guid>
-      <pubDate>2025-09-09T23:05:13Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433572</guid>
     </item>    <item>
       <title>&#39;This Is Game-Changing&#39;: BYD Brings EV Production, Megawatt Charging To Europe</title>
       <link>https://insideevs.com/news/771756/byd-iaa-megawatt-europe-seal/</link>
@@ -87,8 +82,7 @@
         <![CDATA[BYD is so serious about Europe, it's even getting into the wagon business.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/xqPqO6/s3/byd-seal-6-dm-i-touring-2025-im-test.jpg" length="30874" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771756/byd-iaa-megawatt-europe-seal/</guid>
-      <pubDate>2025-09-09T22:39:34Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771756/byd-iaa-megawatt-europe-seal/</guid>
     </item>    <item>
       <title>A Washington Dealership Is Selling A Used 2017 Tesla Model S For $20,000. But What&#39;s The Catch?</title>
       <link>https://insideevs.com/news/771715/washington-used-tesla-model-s/</link>
@@ -96,8 +90,7 @@
         <![CDATA[Common complaints include unreliable range estimates and hefty battery replacement costs]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/y29PRl/s3/used-tesla-model-s.jpg" length="28779" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771715/washington-used-tesla-model-s/</guid>
-      <pubDate>2025-09-09T22:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771715/washington-used-tesla-model-s/</guid>
     </item>    <item>
       <title>Europeans Would Rather Buy Chinese Cars Than American Ones: Study</title>
       <link>https://insideevs.com/news/771750/chinese-car-escalent-survey-study/</link>
@@ -105,8 +98,7 @@
         <![CDATA[Europeans are souring on American companies just as they warm up to Chinese brands.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/lEqJKW/s3/byd-dolphin-surf-2025-im-kurztest.jpg" length="23271" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771750/chinese-car-escalent-survey-study/</guid>
-      <pubDate>2025-09-09T21:50:42Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771750/chinese-car-escalent-survey-study/</guid>
     </item>    <item>
       <title>The first onshore wave power pilot station in the US opens today in LA</title>
       <link>https://electrek.co/2025/09/09/the-first-onshore-wave-power-pilot-station-in-the-us-opens-today-in-la/</link>
@@ -117,8 +109,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="433445" href="https://electrek.co/2025/09/09/the-first-onshore-wave-power-pilot-station-in-the-us-opens-today-in-la/#more-433445" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433445</guid>
-      <pubDate>2025-09-09T21:01:31Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433445</guid>
     </item>    <item>
       <title>Lucid (LCID) confirms a new $50,000 EV is coming, and we already know what it looks like</title>
       <link>https://electrek.co/2025/09/09/lucid-confirms-new-50000-ev-and-we-know-what-it-looks-like/</link>
@@ -129,8 +120,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="433542" href="https://electrek.co/2025/09/09/lucid-confirms-new-50000-ev-and-we-know-what-it-looks-like/#more-433542" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433542</guid>
-      <pubDate>2025-09-09T20:47:59Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433542</guid>
     </item>    <item>
       <title>China&#39;s Battery King Brought The Heat To Europe&#39;s Biggest Auto Show</title>
       <link>https://insideevs.com/news/771621/catl-lfp-battery-charging-degradation/</link>
@@ -138,8 +128,7 @@
         <![CDATA[China's CATL unveiled a new LFP battery design for Europe that delivers a claimed 470 miles of range and ultra-fast charging.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/KbMBmG/s3/shenxing-pro-catl-lfp-battery.jpg" length="7668" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771621/catl-lfp-battery-charging-degradation/</guid>
-      <pubDate>2025-09-09T20:09:14Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771621/catl-lfp-battery-charging-degradation/</guid>
     </item>    <item>
       <title>The Lucid Gravity Is Officially On Sale In Europe. Why It Could Be A Hit</title>
       <link>https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/</link>
@@ -147,8 +136,7 @@
         <![CDATA[The American startup's highly impressive SUV should hit European streets in early 2026.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/nAqzlk/s3/2025-lucid-gravity.jpg" length="16328" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/</guid>
-      <pubDate>2025-09-09T18:39:11Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771723/lucid-gravity-europe-orders-open/</guid>
     </item>    <item>
       <title>Ford hints that something big is coming after wiping its entire Instagram</title>
       <link>https://electrek.co/2025/09/09/ford-hints-something-big-is-coming-after-wiping-its-entire-instagram/</link>
@@ -159,8 +147,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="433516" href="https://electrek.co/2025/09/09/ford-hints-something-big-is-coming-after-wiping-its-entire-instagram/#more-433516" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433516</guid>
-      <pubDate>2025-09-09T18:18:45Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433516</guid>
     </item>    <item>
       <title>EcoFlow power stations up to 62% off + bonus savings from $90, Anker SOLIX EverFrost 2 coolers start from $599 low, more</title>
       <link>https://electrek.co/2025/09/09/ecoflow-home-backup-sale-from-90-anker-solix-more/</link>
@@ -175,8 +162,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="433518" href="https://electrek.co/2025/09/09/ecoflow-home-backup-sale-from-90-anker-solix-more/#more-433518" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433518</guid>
-      <pubDate>2025-09-09T18:02:17Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433518</guid>
     </item>    <item>
       <title>What&#39;s The Best EV For Young Couples?</title>
       <link>https://insideevs.com/news/771625/best-electric-vehicle-young-couples/</link>
@@ -184,8 +170,7 @@
         <![CDATA[The U.S. EV market is expanding rapidly, but sorting through the choices requires more than brand loyalty or internet buzz.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/VzBnMy/s3/ev-for-young-couples.jpg" length="26706" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771625/best-electric-vehicle-young-couples/</guid>
-      <pubDate>2025-09-09T18:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771625/best-electric-vehicle-young-couples/</guid>
     </item>    <item>
       <title>The Volkswagen ID.4 looks even better in the Black Package, now available for $45K</title>
       <link>https://electrek.co/2025/09/09/volkswagen-id-4-gains-new-black-package-available-for-45k/</link>
@@ -196,8 +181,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw,vw-id-4" data-layer-viewtype="unknown" data-post-id="433503" href="https://electrek.co/2025/09/09/volkswagen-id-4-gains-new-black-package-available-for-45k/#more-433503" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433503</guid>
-      <pubDate>2025-09-09T16:47:52Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433503</guid>
     </item>    <item>
       <title>The Hyundai IONIQ 3 is coming soon and this daring EV concept is our first look</title>
       <link>https://electrek.co/2025/09/09/hyundai-ioniq-3-is-coming-and-this-ev-concept-is-our-first-look/</link>
@@ -208,8 +192,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="433473" href="https://electrek.co/2025/09/09/hyundai-ioniq-3-is-coming-and-this-ev-concept-is-our-first-look/#more-433473" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433473</guid>
-      <pubDate>2025-09-09T15:19:11Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433473</guid>
     </item>    <item>
       <title>Dahon marks huge IPO as investors jump for leading folding bike maker</title>
       <link>https://electrek.co/2025/09/09/dahon-marks-huge-ipo-as-investors-jump-for-leading-folding-bike-maker/</link>
@@ -220,8 +203,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="433469" href="https://electrek.co/2025/09/09/dahon-marks-huge-ipo-as-investors-jump-for-leading-folding-bike-maker/#more-433469" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433469</guid>
-      <pubDate>2025-09-09T14:22:37Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433469</guid>
     </item>    <item>
       <title>Yes, The Audi Concept C Looks Better In Person</title>
       <link>https://insideevs.com/news/771698/audi-concept-c-design/</link>
@@ -229,8 +211,7 @@
         <![CDATA[Audi has revealed that it will also come with simulated gear shifts and engine sounds. Good news for its best-looking car in years.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/8AZ9B3/s3/audi-concept-c-live-photos.jpg" length="22317" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771698/audi-concept-c-design/</guid>
-      <pubDate>2025-09-09T14:16:04Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771698/audi-concept-c-design/</guid>
     </item>    <item>
       <title>Can You Buy An EV From China As An American?</title>
       <link>https://insideevs.com/news/771623/american-import-chinese-electric-vehicle/</link>
@@ -238,8 +219,7 @@
         <![CDATA[It doesn't take an eagle-eyed observer to notice the lack of Chinese auto brands on American roads. And that’s by design.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/koGBeQ/s3/xiaomi-trending-top.jpg" length="19402" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771623/american-import-chinese-electric-vehicle/</guid>
-      <pubDate>2025-09-09T14:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771623/american-import-chinese-electric-vehicle/</guid>
     </item>    <item>
       <title>A Mercedes EQS with solid-state batteries drove 750 miles and still had range to spare</title>
       <link>https://electrek.co/2025/09/09/mercedes-eqs-with-solid-state-ev-batteries-drove-750-miles/</link>
@@ -250,8 +230,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="mercedes,mercedes-benz,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="433476" href="https://electrek.co/2025/09/09/mercedes-eqs-with-solid-state-ev-batteries-drove-750-miles/#more-433476" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433476</guid>
-      <pubDate>2025-09-09T13:48:52Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433476</guid>
     </item>    <item>
       <title>A Solid-State Battery Mercedes EQS Went 749 Miles On A Charge. It Still Had Range Left</title>
       <link>https://insideevs.com/news/771682/mercedes-eqs-solid-state-range-over-700-miles/</link>
@@ -259,8 +238,7 @@
         <![CDATA[Its driving range outclassed most gas-powered cars, thanks to solid-state batteries that will gradually make their way into production EVs.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/wlW496/s3/mercedes-benz-eqs-with-solid-state-battery-covers-749-miles-on-a-single-charge..jpg" length="19285" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771682/mercedes-eqs-solid-state-range-over-700-miles/</guid>
-      <pubDate>2025-09-09T12:59:19Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771682/mercedes-eqs-solid-state-range-over-700-miles/</guid>
     </item>    <item>
       <title>This One Number Shows What&#39;s Going Wrong At Tesla</title>
       <link>https://insideevs.com/news/771611/tesla-market-share-lowest-2017/</link>
@@ -268,8 +246,7 @@
         <![CDATA[Plus, Volkswagen could build Audis stateside as part of tariff plan and the worker problem at Hyundai was reportedly an "open secret."]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/XB6PMk/s3/musk-model-y-cm-hero.jpg" length="12071" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771611/tesla-market-share-lowest-2017/</guid>
-      <pubDate>2025-09-09T12:40:46Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771611/tesla-market-share-lowest-2017/</guid>
     </item>    <item>
       <title>Mercedes Aims At BYD With Megawatt-Capable Ultra-Fast EV Chargers</title>
       <link>https://insideevs.com/news/771674/mercedes-ultra-fast-dc-chargers-ev-alpitronic-2026/</link>
@@ -277,8 +254,7 @@
         <![CDATA[Mercedes' network adds Alpitronic’s latest ultra-fast chargers for 600 kW speeds, while developing an output of 1,000 kW to a single EV.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/2N2A4K/s3/mercedes-benz-glc-with-eq-technology-alpitronic-dc-fast-charger.jpg" length="19957" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771674/mercedes-ultra-fast-dc-chargers-ev-alpitronic-2026/</guid>
-      <pubDate>2025-09-09T11:03:51Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771674/mercedes-ultra-fast-dc-chargers-ev-alpitronic-2026/</guid>
     </item>    <item>
       <title>&#39;Pro Tip&#39;: Atlanta Man Shows Hack To Charge EVs for Free</title>
       <link>https://insideevs.com/news/771597/atlanta-free-electric-vehicle-charging/</link>
@@ -286,8 +262,7 @@
         <![CDATA[EV infrastructure doesn’t always have to be flashy to be functional.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/xqPbqz/s3/free-ev-charging.jpg" length="22685" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771597/atlanta-free-electric-vehicle-charging/</guid>
-      <pubDate>2025-09-09T10:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771597/atlanta-free-electric-vehicle-charging/</guid>
     </item>    <item>
       <title>Tesla gives up on Cybertruck wireless charging</title>
       <link>https://electrek.co/2025/09/09/tesla-gives-up-on-cybertruck-wireless-charging/</link>
@@ -302,8 +277,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="433418" href="https://electrek.co/2025/09/09/tesla-gives-up-on-cybertruck-wireless-charging/#more-433418" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433418</guid>
-      <pubDate>2025-09-09T10:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433418</guid>
     </item>    <item>
       <title>Skoda Just Unveiled The Future Of EV Wagons</title>
       <link>https://insideevs.com/news/771662/skoda-vision-o-electric-wagon/</link>
@@ -311,8 +285,7 @@
         <![CDATA[It previews a production electric Octavia Combi built on the platform that replaces VW’s MEB, and it could be a range extender.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/G3YByG/s3/2025-skoda-vision-o-concept.jpg" length="15752" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771662/skoda-vision-o-electric-wagon/</guid>
-      <pubDate>2025-09-09T09:37:08Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771662/skoda-vision-o-electric-wagon/</guid>
     </item>    <item>
       <title>Tesla Just Made Charging At Non-Tesla Fast Chargers A Lot Easier</title>
       <link>https://insideevs.com/news/771655/tesla-multipass-roaming-charging-card-app/</link>
@@ -320,8 +293,7 @@
         <![CDATA[Sticking with the sci-fi movie-inspired naming scheme, Tesla launched something called MultiPass.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/Qe3Ow8/s3/tesla-supercharger-network-opening-up-in-north-america.jpg" length="22325" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771655/tesla-multipass-roaming-charging-card-app/</guid>
-      <pubDate>2025-09-09T08:24:11Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771655/tesla-multipass-roaming-charging-card-app/</guid>
     </item>    <item>
       <title>The Hyundai Concept Three Is Our First Glimpse At The Upcoming Ioniq 3 EV</title>
       <link>https://insideevs.com/news/771646/hyundai-concept-three-ioniq-3-show-car/</link>
@@ -329,8 +301,7 @@
         <![CDATA[Hyundai’s latest show car fits between the Ioniq 5 and the Inster, setting its sights on the Volkswagen ID.3.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/OoMzxy/s3/hyundai-three-concept.jpg" length="9564" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771646/hyundai-concept-three-ioniq-3-show-car/</guid>
-      <pubDate>2025-09-09T07:13:27Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771646/hyundai-concept-three-ioniq-3-show-car/</guid>
     </item>    <item>
       <title>Tesla unveils Megablock and Megapack 3: more power and energy deployed faster</title>
       <link>https://electrek.co/2025/09/08/tesla-unveils-megablock-megapack-3/</link>
@@ -341,8 +312,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-megablock,tesla-megapack" data-layer-viewtype="unknown" data-post-id="433451" href="https://electrek.co/2025/09/08/tesla-unveils-megablock-megapack-3/#more-433451" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433451</guid>
-      <pubDate>2025-09-09T03:54:53Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433451</guid>
     </item>    <item>
       <title>China’s wind + solar revolution is shaking up the global energy game</title>
       <link>https://electrek.co/2025/09/08/china-wind-solar-revolution-is-shaking-up-the-global-energy-game/</link>
@@ -353,8 +323,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="433428" href="https://electrek.co/2025/09/08/china-wind-solar-revolution-is-shaking-up-the-global-energy-game/#more-433428" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433428</guid>
-      <pubDate>2025-09-09T00:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433428</guid>
     </item>    <item>
       <title>The Scout Terra Looks Even Better On 37s</title>
       <link>https://insideevs.com/news/771616/scout-terra-concept-production-nearing/</link>
@@ -362,8 +331,7 @@
         <![CDATA[As production gets closer, Scout is showing off a sick new concept version of the Terra.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/mMgPxv/s3/scout-terra-silo-green-hero-2.jpg" length="25132" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771616/scout-terra-concept-production-nearing/</guid>
-      <pubDate>2025-09-08T22:52:34Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771616/scout-terra-concept-production-nearing/</guid>
     </item>    <item>
       <title>Finance Expert Warns New EV Owners Not To Make This Costly Mistake</title>
       <link>https://insideevs.com/news/771468/new-ev-owners-mistake/</link>
@@ -371,8 +339,7 @@
         <![CDATA["If you’re thinking of buying an EV and fully relying on a public fast charger, think again."]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/zxB4GW/s3/new-ev-owner-mistake.jpg" length="18728" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771468/new-ev-owners-mistake/</guid>
-      <pubDate>2025-09-08T22:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771468/new-ev-owners-mistake/</guid>
     </item>    <item>
       <title>Tesla market share drops, Mercedes, BMW, and VW drop all-new EVs</title>
       <link>https://electrek.co/2025/09/08/tesla-market-share-drops-mercedes-bmw-and-vw-drop-all-new-evs/</link>
@@ -383,8 +350,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="bmw,mercedes-benz,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="433419" href="https://electrek.co/2025/09/08/tesla-market-share-drops-mercedes-bmw-and-vw-drop-all-new-evs/#more-433419" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433419</guid>
-      <pubDate>2025-09-08T21:26:14Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433419</guid>
     </item>    <item>
       <title>Tesla is expected to unveil next-gen Megapack today as competition intensifies</title>
       <link>https://electrek.co/2025/09/08/tesla-unveil-next-gen-megapack-today-competition-intensifies/</link>
@@ -399,8 +365,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-megapack" data-layer-viewtype="unknown" data-post-id="433353" href="https://electrek.co/2025/09/08/tesla-unveil-next-gen-megapack-today-competition-intensifies/#more-433353" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433353</guid>
-      <pubDate>2025-09-08T20:15:12Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433353</guid>
     </item>    <item>
       <title>Hyundai’s EV plant was just raided by ICE, ‘hundreds’ taken into custody [Live Updates]</title>
       <link>https://electrek.co/2025/09/08/hyundais-ev-plant-raided-by-ice-hundreds-arrested-update/</link>
@@ -411,8 +376,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="432888" href="https://electrek.co/2025/09/08/hyundais-ev-plant-raided-by-ice-hundreds-arrested-update/#more-432888" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432888</guid>
-      <pubDate>2025-09-08T20:00:30Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432888</guid>
     </item>    <item>
       <title>You Can Now Buy A Tesla Supercharger</title>
       <link>https://insideevs.com/news/771407/tesla-supercharger-station-business-sales/</link>
@@ -420,8 +384,7 @@
         <![CDATA[As long as you purchase four of them at once, that is.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/wlW2AR/s3/tesla-supercharger-b2b-sales.jpg" length="26951" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771407/tesla-supercharger-station-business-sales/</guid>
-      <pubDate>2025-09-08T19:30:07Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771407/tesla-supercharger-station-business-sales/</guid>
     </item>    <item>
       <title>Mercedes-Benz + Alpitronic to roll out 600 kW fast charging in 2026</title>
       <link>https://electrek.co/2025/09/08/mercedes-benz-alpitronic-to-roll-out-600-kw-fast-charging-in-2026/</link>
@@ -432,8 +395,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="alpitronic,dc-fast-charging,europe,mercedes-benz,north-america,united-states" data-layer-viewtype="unknown" data-post-id="433376" href="https://electrek.co/2025/09/08/mercedes-benz-alpitronic-to-roll-out-600-kw-fast-charging-in-2026/#more-433376" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433376</guid>
-      <pubDate>2025-09-08T18:33:43Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433376</guid>
     </item>    <item>
       <title>The Volkswagen ID.4 is about to get a massive makeover: Here’s a sneak peek</title>
       <link>https://electrek.co/2025/09/08/volkswagen-id-4-getting-a-makeover-sneak-peek/</link>
@@ -444,8 +406,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="433380" href="https://electrek.co/2025/09/08/volkswagen-id-4-getting-a-makeover-sneak-peek/#more-433380" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433380</guid>
-      <pubDate>2025-09-08T18:18:45Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433380</guid>
     </item>    <item>
       <title>‘German Luxury Or Chinese Luxury?’: Zeekr 009 Goes Head-To-Head With Mercedes-Benz Maybach GLS</title>
       <link>https://insideevs.com/news/771465/zeekr-009-versus-maybach-gls/</link>
@@ -453,8 +414,7 @@
         <![CDATA[The Chinese carmaker is making waves in the luxury electric vehicle market]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/P3Mn8A/s3/maybach-vs-zeekr.jpg" length="21371" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771465/zeekr-009-versus-maybach-gls/</guid>
-      <pubDate>2025-09-08T18:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771465/zeekr-009-versus-maybach-gls/</guid>
     </item>    <item>
       <title>Anker SOLIX C1000 Gen 2 station launches from $429, Rad Power RadWagon 4 extra battery bundle $649 off, EcoFlow flash sale, more</title>
       <link>https://electrek.co/2025/09/08/solix-c1000-gen-2-launch-rad-power-ecoflow-more/</link>
@@ -469,8 +429,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="433369" href="https://electrek.co/2025/09/08/solix-c1000-gen-2-launch-rad-power-ecoflow-more/#more-433369" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433369</guid>
-      <pubDate>2025-09-08T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433369</guid>
     </item>    <item>
       <title>The Polestar 5 GT is available to order now and we finally have performance specs</title>
       <link>https://electrek.co/2025/09/08/polestar-5-gt-available-order-performance-specs/</link>
@@ -481,8 +440,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-5" data-layer-viewtype="unknown" data-post-id="433332" href="https://electrek.co/2025/09/08/polestar-5-gt-available-order-performance-specs/#more-433332" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433332</guid>
-      <pubDate>2025-09-08T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433332</guid>
     </item>    <item>
       <title>ICE Raid Creates Chaos For Korean Companies</title>
       <link>https://insideevs.com/news/771587/critical-materials-september-8-2025/</link>
@@ -490,8 +448,7 @@
         <![CDATA[Plus, Stellantis calls Europe's 2035 emissions goals impossible.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/AknmkP/s3/cm-september-8-2025.jpg" length="17124" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771587/critical-materials-september-8-2025/</guid>
-      <pubDate>2025-09-08T17:50:27Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771587/critical-materials-september-8-2025/</guid>
     </item>    <item>
       <title>CATL launches the world’s first LFP battery with 470+ miles range and 10-minute charging</title>
       <link>https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/</link>
@@ -502,8 +459,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="catl,lfp-batteries" data-layer-viewtype="unknown" data-post-id="433350" href="https://electrek.co/2025/09/08/catl-launches-worlds-first-lfp-battery-with-470-miles-range/#more-433350" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433350</guid>
-      <pubDate>2025-09-08T17:18:12Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433350</guid>
     </item>    <item>
       <title>Five Electric SUVs Were Driven Until The Battery Ran Out. Here&#39;s How They Stacked Up.</title>
       <link>https://insideevs.com/news/771413/ev-charging-driven-until-dead/</link>
@@ -511,8 +467,7 @@
         <![CDATA[CarWow pushed even more EVs to their range limit. Here's how five electric SUVs from Audi, BMW, Genesis, Kia and Polestar performed.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/bgGYjj/s3/carwow-ev-range-test.jpg" length="30247" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771413/ev-charging-driven-until-dead/</guid>
-      <pubDate>2025-09-08T15:44:41Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771413/ev-charging-driven-until-dead/</guid>
     </item>    <item>
       <title>The new 2026 Ford F-150 Lightning STX delivers more range, but keeps the same price</title>
       <link>https://electrek.co/2025/09/08/ford-adds-longer-range-f-150-lightning-stx-but-keeps-same-price/</link>
@@ -523,8 +478,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning" data-layer-viewtype="unknown" data-post-id="433322" href="https://electrek.co/2025/09/08/ford-adds-longer-range-f-150-lightning-stx-but-keeps-same-price/#more-433322" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433322</guid>
-      <pubDate>2025-09-08T15:41:10Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433322</guid>
     </item>    <item>
       <title>The Volkswagen ID.Cross delivers the ‘secret sauce’ as an affordable, sleek electric SUV</title>
       <link>https://electrek.co/2025/09/08/volkswagen-id-cross-has-secret-sauce-as-an-affordable-ev/</link>
@@ -535,8 +489,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volkswagen" data-layer-viewtype="unknown" data-post-id="433282" href="https://electrek.co/2025/09/08/volkswagen-id-cross-has-secret-sauce-as-an-affordable-ev/#more-433282" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433282</guid>
-      <pubDate>2025-09-08T14:06:29Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433282</guid>
     </item>    <item>
       <title>Man Shows How To Charge Tesla With Regular Outlet. Here’s When That Works Best</title>
       <link>https://insideevs.com/news/771452/charge-tesla-regular-power-outlet/</link>
@@ -544,8 +497,7 @@
         <![CDATA[“Granted, this is the slowest way to actually charge a Tesla.”]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/QebXk7/s3/tesla-regular-outlet-charging.jpg" length="13554" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771452/charge-tesla-regular-power-outlet/</guid>
-      <pubDate>2025-09-08T14:00:00Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771452/charge-tesla-regular-power-outlet/</guid>
     </item>    <item>
       <title>QuantumScape and PowerCo complete first live solid-state battery demo in a Ducati [Video]</title>
       <link>https://electrek.co/2025/09/08/quantumscape-powerco-first-live-solid-state-battery-demo-ducati-video/</link>
@@ -556,8 +508,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ducati,powerco,quantumscape,solid-state-batteries,solid-state-battery,volkswagen-group" data-layer-viewtype="unknown" data-post-id="433288" href="https://electrek.co/2025/09/08/quantumscape-powerco-first-live-solid-state-battery-demo-ducati-video/#more-433288" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433288</guid>
-      <pubDate>2025-09-08T13:58:42Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433288</guid>
     </item>    <item>
       <title>Tesla (TSLA) sees US market share of electric car sales drop to new lows</title>
       <link>https://electrek.co/2025/09/08/tesla-tsla-us-market-share-ev-market-drop-new-lows/</link>
@@ -572,8 +523,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="433279" href="https://electrek.co/2025/09/08/tesla-tsla-us-market-share-ev-market-drop-new-lows/#more-433279" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433279</guid>
-      <pubDate>2025-09-08T13:24:13Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433279</guid>
     </item>    <item>
       <title>&#39;This Model Does Not Work Anymore&#39;: Volkswagen Group CEO Gets Candid On EVs And Future Plans</title>
       <link>https://insideevs.com/news/771546/volkswagen-ceo-blume-interview-iaa-munich/</link>
@@ -581,8 +531,7 @@
         <![CDATA[Volkswagen Group CEO Oliver Blume said the company's future product plans depend on geography and borders more than ever.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/404Lq1/s3/volkswagen-id.-cross-live-photos.jpg" length="20735" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771546/volkswagen-ceo-blume-interview-iaa-munich/</guid>
-      <pubDate>2025-09-08T12:50:22Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771546/volkswagen-ceo-blume-interview-iaa-munich/</guid>
     </item>    <item>
       <title>Porsche And Audi EVs Can Use Tesla Superchargers–With One Exception</title>
       <link>https://insideevs.com/news/771548/porsche-audi-tesla-supercharger-access-us-official/</link>
@@ -590,8 +539,7 @@
         <![CDATA[The two luxury automakers gain access tomorrow, but there’s some explaining to do.]]>
       </description>
       <enclosure url="https://cdn.motor1.com/images/mgl/W87npg/s3/porsche-macan-electric-and-tesla-supercharger.jpg" length="32602" type="image/jpeg" />
-      <guid>https://insideevs.com/news/771548/porsche-audi-tesla-supercharger-access-us-official/</guid>
-      <pubDate>2025-09-08T12:45:38Z</pubDate>
+      <guid>cid://https://insideevs.com/news/771548/porsche-audi-tesla-supercharger-access-us-official/</guid>
     </item>    <item>
       <title>Mercedes unveils GLC electric SUV: a more refined all-electric platform with 440 miles of range</title>
       <link>https://electrek.co/2025/09/08/mercedes-unveils-glc-electric-suv-refined-ev-platform-range/</link>
@@ -606,8 +554,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,mercedes-benz-glc" data-layer-viewtype="unknown" data-post-id="433263" href="https://electrek.co/2025/09/08/mercedes-unveils-glc-electric-suv-refined-ev-platform-range/#more-433263" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433263</guid>
-      <pubDate>2025-09-08T11:32:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433263</guid>
     </item>    <item>
       <title>Rimac unveils new solid state battery and EV powertrains</title>
       <link>https://electrek.co/2025/09/08/rimac-unveils-new-solid-state-battery-and-ev-powertrains/</link>
@@ -622,8 +569,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="rimac-automobili" data-layer-viewtype="unknown" data-post-id="433243" href="https://electrek.co/2025/09/08/rimac-unveils-new-solid-state-battery-and-ev-powertrains/#more-433243" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433243</guid>
-      <pubDate>2025-09-08T10:46:46Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433243</guid>
     </item>    <item>
       <title>A new plan will allow NYPD to confiscate electric bike batteries</title>
       <link>https://electrek.co/2025/09/08/a-new-plan-will-allow-nypd-to-confiscate-electric-bike-batteries/</link>
@@ -634,8 +580,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ebikes,new-york" data-layer-viewtype="unknown" data-post-id="433242" href="https://electrek.co/2025/09/08/a-new-plan-will-allow-nypd-to-confiscate-electric-bike-batteries/#more-433242" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433242</guid>
-      <pubDate>2025-09-08T09:31:11Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433242</guid>
     </item>    <item>
       <title>Solar growth surges, but Trump roadblocks put 55 GW at risk</title>
       <link>https://electrek.co/2025/09/07/solar-growth-surges-but-trump-roadblocks-put-55-gw-at-risk/</link>
@@ -646,8 +591,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="432993" href="https://electrek.co/2025/09/07/solar-growth-surges-but-trump-roadblocks-put-55-gw-at-risk/#more-432993" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432993</guid>
-      <pubDate>2025-09-08T04:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432993</guid>
     </item>    <item>
       <title>Inflation is back – but not here! These EVs are actually CHEAPER for 2026</title>
       <link>https://electrek.co/2025/09/07/inflation-is-back-but-not-here-these-evs-are-actually-cheaper-for-2026/</link>
@@ -658,8 +602,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,price-reduction" data-layer-viewtype="unknown" data-post-id="433200" href="https://electrek.co/2025/09/07/inflation-is-back-but-not-here-these-evs-are-actually-cheaper-for-2026/#more-433200" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433200</guid>
-      <pubDate>2025-09-07T20:21:57Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433200</guid>
     </item>    <item>
       <title>Sennebogen 824 G Electro Battery material handler promises 24/7 power</title>
       <link>https://electrek.co/2025/09/07/sennebogen-824-g-electro-battery-material-handler-promises-24-7-power/</link>
@@ -670,8 +613,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,sennebogen" data-layer-viewtype="unknown" data-post-id="433174" href="https://electrek.co/2025/09/07/sennebogen-824-g-electro-battery-material-handler-promises-24-7-power/#more-433174" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433174</guid>
-      <pubDate>2025-09-07T17:43:23Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433174</guid>
     </item>    <item>
       <title>MINI x Deus Ex Machina Skeg electric concept lightens the mood</title>
       <link>https://electrek.co/2025/09/06/mini-x-deus-ex-machina-skeg-electric-concept-lightens-the-mood/</link>
@@ -682,8 +624,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="concept-car,mini" data-layer-viewtype="unknown" data-post-id="433138" href="https://electrek.co/2025/09/06/mini-x-deus-ex-machina-skeg-electric-concept-lightens-the-mood/#more-433138" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433138</guid>
-      <pubDate>2025-09-06T21:48:39Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433138</guid>
     </item>    <item>
       <title>Volvo Penta teams up with e-power to equip Boels with next-gen Battery Energy Storage Systems (BESS)</title>
       <link>https://electrek.co/2025/09/06/volvo-penta-e-power-boels-battery-energy-storage-systems-bess/</link>
@@ -694,8 +635,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="energy-storage,sponsored-post,volvo-penta" data-layer-viewtype="unknown" data-post-id="413936" href="https://electrek.co/2025/09/06/volvo-penta-e-power-boels-battery-energy-storage-systems-bess/#more-413936" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=413936</guid>
-      <pubDate>2025-09-06T16:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=413936</guid>
     </item>    <item>
       <title>2026 Mercedes-Benz GLC EV exterior leaks ahead of schedule</title>
       <link>https://electrek.co/2025/09/06/2026-mercedes-benz-glc-ev-exterior-leaks-ahead-of-schedule/</link>
@@ -706,8 +646,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="433113" href="https://electrek.co/2025/09/06/2026-mercedes-benz-glc-ev-exterior-leaks-ahead-of-schedule/#more-433113" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433113</guid>
-      <pubDate>2025-09-06T15:07:43Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433113</guid>
     </item>    <item>
       <title>E-quipment highlight: John Deere TE 4×2 Electric Gator UTV</title>
       <link>https://electrek.co/2025/09/06/e-quipment-highlight-john-deere-te-4x2-electric-gator-utv/</link>
@@ -722,8 +661,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="atv,john-deere" data-layer-viewtype="unknown" data-post-id="433083" href="https://electrek.co/2025/09/06/e-quipment-highlight-john-deere-te-4x2-electric-gator-utv/#more-433083" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433083</guid>
-      <pubDate>2025-09-06T14:23:16Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433083</guid>
     </item>    <item>
       <title>Alibaba delivers again with this crazy octuple (8x) suspension e-bike for $350</title>
       <link>https://electrek.co/2025/09/06/alibaba-delivers-again-with-this-crazy-octuple-8x-suspension-e-bike-for-350/</link>
@@ -734,8 +672,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="alibaba,ebikes" data-layer-viewtype="unknown" data-post-id="433065" href="https://electrek.co/2025/09/06/alibaba-delivers-again-with-this-crazy-octuple-8x-suspension-e-bike-for-350/#more-433065" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=433065</guid>
-      <pubDate>2025-09-06T11:20:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=433065</guid>
     </item>    <item>
       <title>Yes, an EV really CAN power your home – if it’s one of these (*)</title>
       <link>https://electrek.co/2025/09/05/yes-an-ev-really-can-power-your-home-if-its-one-of-these/</link>
@@ -746,8 +683,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,tesla-powerwall,v2h" data-layer-viewtype="unknown" data-post-id="432861" href="https://electrek.co/2025/09/05/yes-an-ev-really-can-power-your-home-if-its-one-of-these/#more-432861" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432861</guid>
-      <pubDate>2025-09-06T01:54:48Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432861</guid>
     </item>    <item>
       <title>Tesla changes meaning of ‘Full Self-Driving’, gives up on promise of autonomy</title>
       <link>https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/</link>
@@ -758,8 +694,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432992" href="https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/#more-432992" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432992</guid>
-      <pubDate>2025-09-05T21:47:03Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432992</guid>
     </item>    <item>
       <title>GM’s promised affordable EVs hit another hurdle, but there’s more to the story</title>
       <link>https://electrek.co/2025/09/05/gms-affordable-evs-hit-a-hurdle-but-theres-more-to-the-story/</link>
@@ -770,8 +705,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="432977" href="https://electrek.co/2025/09/05/gms-affordable-evs-hit-a-hurdle-but-theres-more-to-the-story/#more-432977" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432977</guid>
-      <pubDate>2025-09-05T20:51:37Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432977</guid>
     </item>    <item>
       <title>Connecticut, Rhode Island sue Trump to save 80% complete offshore wind farm</title>
       <link>https://electrek.co/2025/09/05/connecticut-rhode-island-sue-trump-to-save-offshore-wind-farm/</link>
@@ -782,8 +716,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="connecticut,donald-trump,egeb,energy-brief,solar,offshore-wind-power,rhode-island" data-layer-viewtype="unknown" data-post-id="432984" href="https://electrek.co/2025/09/05/connecticut-rhode-island-sue-trump-to-save-offshore-wind-farm/#more-432984" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432984</guid>
-      <pubDate>2025-09-05T20:41:16Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432984</guid>
     </item>    <item>
       <title>Canada may get cheap Chinese EVs because of what’s in your cooking oil</title>
       <link>https://electrek.co/2025/09/05/canada-may-get-cheap-chinese-evs-because-of-cooking-oil-heres-why/</link>
@@ -798,8 +731,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="canada,china,tariffs" data-layer-viewtype="unknown" data-post-id="432929" href="https://electrek.co/2025/09/05/canada-may-get-cheap-chinese-evs-because-of-cooking-oil-heres-why/#more-432929" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432929</guid>
-      <pubDate>2025-09-05T19:05:13Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432929</guid>
     </item>    <item>
       <title>From $0 a month: 5 of the best EV lease deals in September</title>
       <link>https://electrek.co/2025/09/05/best-ev-lease-deals-september/</link>
@@ -810,8 +742,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="cadillac-lyriq,ev-deals,ev-federal-tax-credit,ev-lease,honda-prologue,hyundai-ioniq-9,lexus,vw-id-4" data-layer-viewtype="unknown" data-post-id="432511" href="https://electrek.co/2025/09/05/best-ev-lease-deals-september/#more-432511" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432511</guid>
-      <pubDate>2025-09-05T18:56:28Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432511</guid>
     </item>    <item>
       <title>Jackery HomePower 3000 + bundle at new lows from $1,499, Heybike Horizon full suspension folding e-bike $1,399, EcoFlow, more</title>
       <link>https://electrek.co/2025/09/05/jackery-homepower-3000-station-heybike-ecoflow-more/</link>
@@ -826,8 +757,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="432914" href="https://electrek.co/2025/09/05/jackery-homepower-3000-station-heybike-ecoflow-more/#more-432914" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432914</guid>
-      <pubDate>2025-09-05T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432914</guid>
     </item>    <item>
       <title>Check out the new Mercedes-Benz GLC EV interior and its giant 39″ infotainment screen</title>
       <link>https://electrek.co/2025/09/05/new-mercedes-benz-glc-interior-giant-39-touchscreen/</link>
@@ -838,8 +768,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="432910" href="https://electrek.co/2025/09/05/new-mercedes-benz-glc-interior-giant-39-touchscreen/#more-432910" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432910</guid>
-      <pubDate>2025-09-05T17:47:01Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432910</guid>
     </item>    <item>
       <title>Tesla (TSLA) board fully loses its mind and offers Elon Musk a pay package worth up to $1 trillion</title>
       <link>https://electrek.co/2025/09/05/tesla-tsla-board-fully-loses-its-mind-and-offers-elon-musk-a-pay-package-worth-up-to-1-trillion/</link>
@@ -850,8 +779,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432878" href="https://electrek.co/2025/09/05/tesla-tsla-board-fully-loses-its-mind-and-offers-elon-musk-a-pay-package-worth-up-to-1-trillion/#more-432878" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432878</guid>
-      <pubDate>2025-09-05T14:49:42Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432878</guid>
     </item>    <item>
       <title>Podcast: Tesla Master Plan 4, new affordable VW EV, wireless EV charging, and more</title>
       <link>https://electrek.co/2025/09/05/podcast-tesla-master-plan-4-new-affordable-vw-ev-wireless-ev-charging-and-more/</link>
@@ -866,8 +794,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="432848" href="https://electrek.co/2025/09/05/podcast-tesla-master-plan-4-new-affordable-vw-ev-wireless-ev-charging-and-more/#more-432848" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432848</guid>
-      <pubDate>2025-09-05T14:44:39Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432848</guid>
     </item>    <item>
       <title>Meet the new BMW iX3: A 500-mile range EV with ultra-fast charging and much more</title>
       <link>https://electrek.co/2025/09/05/bmw-ix3-debuts-with-500-miles-range-ultra-fast-charging/</link>
@@ -878,8 +805,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="bmw,bmw-i3" data-layer-viewtype="unknown" data-post-id="432863" href="https://electrek.co/2025/09/05/bmw-ix3-debuts-with-500-miles-range-ultra-fast-charging/#more-432863" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432863</guid>
-      <pubDate>2025-09-05T14:31:42Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432863</guid>
     </item>    <item>
       <title>Porsche EVs get Tesla Supercharger access via adapter</title>
       <link>https://electrek.co/2025/09/05/porsche-evs-get-tesla-supercharger-access-via-adapter/</link>
@@ -890,8 +816,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="432867" href="https://electrek.co/2025/09/05/porsche-evs-get-tesla-supercharger-access-via-adapter/#more-432867" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432867</guid>
-      <pubDate>2025-09-05T14:00:31Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432867</guid>
     </item>    <item>
       <title>Luckeep M5 Ultra e-bike review: Dual motors, dual batteries, and dual fun!</title>
       <link>https://electrek.co/2025/09/05/luckeep-m5-ultra-e-bike-review-dual-motors-dual-batteries-and-dual-fun/</link>
@@ -902,8 +827,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="432529" href="https://electrek.co/2025/09/05/luckeep-m5-ultra-e-bike-review-dual-motors-dual-batteries-and-dual-fun/#more-432529" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432529</guid>
-      <pubDate>2025-09-05T11:11:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432529</guid>
     </item>    <item>
       <title>Yes, Mach-E is a real Mustang – and outsold ICE Mustangs by 2:1 last month</title>
       <link>https://electrek.co/2025/09/04/mach-e-is-a-real-mustang-and-outsold-ice-mustangs-by-2-1-last-month/</link>
@@ -914,8 +838,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,ford-mach-e" data-layer-viewtype="unknown" data-post-id="432827" href="https://electrek.co/2025/09/04/mach-e-is-a-real-mustang-and-outsold-ice-mustangs-by-2-1-last-month/#more-432827" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432827</guid>
-      <pubDate>2025-09-05T01:42:38Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432827</guid>
     </item>    <item>
       <title>E-quipment highlight: Liebherr L 507 E electric wheel loader</title>
       <link>https://electrek.co/2025/09/04/e-quipment-highlight-liebherr-l-507-e-electric-wheel-loader/</link>
@@ -926,8 +849,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,liebherr" data-layer-viewtype="unknown" data-post-id="432813" href="https://electrek.co/2025/09/04/e-quipment-highlight-liebherr-l-507-e-electric-wheel-loader/#more-432813" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432813</guid>
-      <pubDate>2025-09-05T00:42:35Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432813</guid>
     </item>    <item>
       <title>Hyundai keeps EV deals alive with IONIQ 5 leases starting at just $179 a month</title>
       <link>https://electrek.co/2025/09/04/hyundai-keeps-ev-deals-alive-with-ioniq-5-leases-at-179-a-month/</link>
@@ -938,8 +860,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="432803" href="https://electrek.co/2025/09/04/hyundai-keeps-ev-deals-alive-with-ioniq-5-leases-at-179-a-month/#more-432803" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432803</guid>
-      <pubDate>2025-09-04T21:10:41Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432803</guid>
     </item>    <item>
       <title>Costco members get up to $1,250 off certified Volvos –here’s how</title>
       <link>https://electrek.co/2025/09/04/costco-members-get-up-to-1250-off-certified-volvos-heres-how/</link>
@@ -950,8 +871,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="costco,used-evs,volvo,volvo-c40-recharge,volvo-ex30,volvo-ex90,volvo-xc90-electric" data-layer-viewtype="unknown" data-post-id="432797" href="https://electrek.co/2025/09/04/costco-members-get-up-to-1250-off-certified-volvos-heres-how/#more-432797" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432797</guid>
-      <pubDate>2025-09-04T20:52:36Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432797</guid>
     </item>    <item>
       <title>The ultra-luxe Genesis GV90 steals the spotlight at the brand’s new flagship space</title>
       <link>https://electrek.co/2025/09/04/ultra-luxe-genesis-gv90-shines-at-new-flagship-space/</link>
@@ -962,8 +882,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="432785" href="https://electrek.co/2025/09/04/ultra-luxe-genesis-gv90-shines-at-new-flagship-space/#more-432785" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432785</guid>
-      <pubDate>2025-09-04T19:48:30Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432785</guid>
     </item>    <item>
       <title>Ampion’s community solar tool crosses state lines to cut bills</title>
       <link>https://electrek.co/2025/09/04/ampion-community-solar-tool-crosses-state-lines-to-cut-bills/</link>
@@ -974,8 +893,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="community-solar,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="432779" href="https://electrek.co/2025/09/04/ampion-community-solar-tool-crosses-state-lines-to-cut-bills/#more-432779" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432779</guid>
-      <pubDate>2025-09-04T19:01:08Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432779</guid>
     </item>    <item>
       <title>GM is already planning to cut EV production, including the all-new Chevy Bolt</title>
       <link>https://electrek.co/2025/09/04/gm-cuts-ev-production-plans-including-all-new-chevy-bolt/</link>
@@ -986,8 +904,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="432714" href="https://electrek.co/2025/09/04/gm-cuts-ev-production-plans-including-all-new-chevy-bolt/#more-432714" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432714</guid>
-      <pubDate>2025-09-04T18:02:28Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432714</guid>
     </item>    <item>
       <title>Rad Power RadRunner e-bike extra battery bundles from $1,499, EcoFlow DELTA Pro station new $1,597 low, ALLPOWERS, more</title>
       <link>https://electrek.co/2025/09/04/rad-power-radrunner-e-bikes-ecoflow-allpowers-more/</link>
@@ -1002,8 +919,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="432752" href="https://electrek.co/2025/09/04/rad-power-radrunner-e-bikes-ecoflow-allpowers-more/#more-432752" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432752</guid>
-      <pubDate>2025-09-04T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432752</guid>
     </item>    <item>
       <title>Hyundai’s new affordable EV shows up with a surprise while charging</title>
       <link>https://electrek.co/2025/09/04/hyundais-affordable-ev-shows-up-with-a-surprise-while-charging/</link>
@@ -1014,8 +930,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="432750" href="https://electrek.co/2025/09/04/hyundais-affordable-ev-shows-up-with-a-surprise-while-charging/#more-432750" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432750</guid>
-      <pubDate>2025-09-04T17:49:44Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432750</guid>
     </item>    <item>
       <title>Tesla Robotaxi: anyone with iPhone can now download the app and join a waitlist</title>
       <link>https://electrek.co/2025/09/04/tesla-robotaxi-anyone-with-iphone-can-now-download-app-join-waitlist/</link>
@@ -1030,8 +945,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432747" href="https://electrek.co/2025/09/04/tesla-robotaxi-anyone-with-iphone-can-now-download-app-join-waitlist/#more-432747" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432747</guid>
-      <pubDate>2025-09-04T16:26:12Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432747</guid>
     </item>    <item>
       <title>After abandoning EVs, autonomy, and hydrogen – what’s next for Stellantis?</title>
       <link>https://electrek.co/2025/09/04/after-abandoning-evs-autonomy-and-hydrogen-whats-next-for-stellantis/</link>
@@ -1042,8 +956,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="nissan,opinion,stellantis" data-layer-viewtype="unknown" data-post-id="432686" href="https://electrek.co/2025/09/04/after-abandoning-evs-autonomy-and-hydrogen-whats-next-for-stellantis/#more-432686" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432686</guid>
-      <pubDate>2025-09-04T15:54:19Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432686</guid>
     </item>    <item>
       <title>Audi Concept C: a radical new style that may preview a new electric TT drop top sports car</title>
       <link>https://electrek.co/2025/09/04/audi-concept-c-radical-new-style-that-may-preview-new-electric-tt-drop-top-sports-car/</link>
@@ -1054,8 +967,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="audi" data-layer-viewtype="unknown" data-post-id="432614" href="https://electrek.co/2025/09/04/audi-concept-c-radical-new-style-that-may-preview-new-electric-tt-drop-top-sports-car/#more-432614" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432614</guid>
-      <pubDate>2025-09-04T15:02:13Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432614</guid>
     </item>    <item>
       <title>The stunning Volvo ES90 has arrived and it’s the automaker’s most advanced EV to date</title>
       <link>https://electrek.co/2025/09/04/first-volvo-es90-is-here-most-advanced-ev-to-date/</link>
@@ -1066,8 +978,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="432701" href="https://electrek.co/2025/09/04/first-volvo-es90-is-here-most-advanced-ev-to-date/#more-432701" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432701</guid>
-      <pubDate>2025-09-04T14:03:17Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432701</guid>
     </item>    <item>
       <title>Porsche shows off Cayenne EV 11kW induction charging at IAA</title>
       <link>https://electrek.co/2025/09/04/porsche-shows-off-cayenne-ev-11kw-induction-charging-at-iaa/</link>
@@ -1078,8 +989,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="432678" href="https://electrek.co/2025/09/04/porsche-shows-off-cayenne-ev-11kw-induction-charging-at-iaa/#more-432678" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432678</guid>
-      <pubDate>2025-09-04T11:40:26Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432678</guid>
     </item>    <item>
       <title>Honda to unveil full-size electric motorcycle with fast charging this month</title>
       <link>https://electrek.co/2025/09/04/honda-to-unveil-full-size-electric-motorcycle-with-fast-charging-this-month/</link>
@@ -1090,8 +1000,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,honda" data-layer-viewtype="unknown" data-post-id="432668" href="https://electrek.co/2025/09/04/honda-to-unveil-full-size-electric-motorcycle-with-fast-charging-this-month/#more-432668" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432668</guid>
-      <pubDate>2025-09-04T10:57:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432668</guid>
     </item>    <item>
       <title>The Kia EV5 is the affordable electric SUV we want, but can’t have</title>
       <link>https://electrek.co/2025/09/03/kia-ev5-is-the-affordable-electric-suv-we-want-but-cant-have/</link>
@@ -1102,8 +1011,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="432645" href="https://electrek.co/2025/09/03/kia-ev5-is-the-affordable-electric-suv-we-want-but-cant-have/#more-432645" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432645</guid>
-      <pubDate>2025-09-03T21:47:26Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432645</guid>
     </item>    <item>
       <title>FERC: Solar + wind made up 91% of new US power generating capacity in H1 2025</title>
       <link>https://electrek.co/2025/09/03/ferc-solar-wind-91-percent-new-us-power-generating-capacity-h1-2025/</link>
@@ -1114,8 +1022,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ferc,solar,offshore-wind-power,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="432637" href="https://electrek.co/2025/09/03/ferc-solar-wind-91-percent-new-us-power-generating-capacity-h1-2025/#more-432637" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432637</guid>
-      <pubDate>2025-09-03T20:21:20Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432637</guid>
     </item>    <item>
       <title>The Honda Prologue outsold the Odyssey and Passport last month, thanks to big savings</title>
       <link>https://electrek.co/2025/09/03/honda-prologue-best-sales-month-yet-big-savings/</link>
@@ -1126,8 +1033,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="432615" href="https://electrek.co/2025/09/03/honda-prologue-best-sales-month-yet-big-savings/#more-432615" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432615</guid>
-      <pubDate>2025-09-03T18:47:23Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432615</guid>
     </item>    <item>
       <title>The slickest electric outboard for small boats just launched with more power</title>
       <link>https://electrek.co/2025/09/03/the-slickest-electric-outboard-for-small-boats-just-launched-with-more-power/</link>
@@ -1138,8 +1044,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,electric-watercraft" data-layer-viewtype="unknown" data-post-id="432629" href="https://electrek.co/2025/09/03/the-slickest-electric-outboard-for-small-boats-just-launched-with-more-power/#more-432629" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432629</guid>
-      <pubDate>2025-09-03T18:46:25Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432629</guid>
     </item>    <item>
       <title>Electric Bike Co. Model C and J e-bikes at $1,499 annual lows, Exclusive refurbished Anker SOLIX C1000X station $377, Heybike, and much more</title>
       <link>https://electrek.co/2025/09/03/model-c-e-bike-exclusive-anker-solix-heybike-more/</link>
@@ -1154,8 +1059,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="432587" href="https://electrek.co/2025/09/03/model-c-e-bike-exclusive-anker-solix-heybike-more/#more-432587" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432587</guid>
-      <pubDate>2025-09-03T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432587</guid>
     </item>    <item>
       <title>Toyota announces another new EV, but this one will be unique</title>
       <link>https://electrek.co/2025/09/03/toyota-launching-another-new-ev-but-this-one-will-be-unique/</link>
@@ -1166,8 +1070,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="432576" href="https://electrek.co/2025/09/03/toyota-launching-another-new-ev-but-this-one-will-be-unique/#more-432576" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432576</guid>
-      <pubDate>2025-09-03T17:19:48Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432576</guid>
     </item>    <item>
       <title>US residential solar prices stay low, tax credit cuts and tariffs loom</title>
       <link>https://electrek.co/2025/09/03/us-residential-solar-prices-stay-low-tax-credit-cuts-and-tariffs-loom/</link>
@@ -1178,8 +1081,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="432583" href="https://electrek.co/2025/09/03/us-residential-solar-prices-stay-low-tax-credit-cuts-and-tariffs-loom/#more-432583" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432583</guid>
-      <pubDate>2025-09-03T17:11:23Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432583</guid>
     </item>    <item>
       <title>The Hyundai IONIQ 5 is having a breakout moment</title>
       <link>https://electrek.co/2025/09/03/hyundai-ioniq-5-breakout-moment/</link>
@@ -1190,8 +1092,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="432556" href="https://electrek.co/2025/09/03/hyundai-ioniq-5-breakout-moment/#more-432556" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432556</guid>
-      <pubDate>2025-09-03T15:33:50Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432556</guid>
     </item>    <item>
       <title>Tesla moves ‘Robotaxi’ safety monitor from passenger to driver’s seat</title>
       <link>https://electrek.co/2025/09/03/tesla-moves-robotaxi-safety-monitor-passenger-drivers-seat/</link>
@@ -1206,8 +1107,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432562" href="https://electrek.co/2025/09/03/tesla-moves-robotaxi-safety-monitor-passenger-drivers-seat/#more-432562" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432562</guid>
-      <pubDate>2025-09-03T15:30:53Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432562</guid>
     </item>    <item>
       <title>Volvo’s EX60 will be revealed January 21st, details emerge</title>
       <link>https://electrek.co/2025/09/03/volvos-ex60-will-be-revealed-january-21st-details-emerge/</link>
@@ -1218,8 +1118,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ex60,volvo" data-layer-viewtype="unknown" data-post-id="432551" href="https://electrek.co/2025/09/03/volvos-ex60-will-be-revealed-january-21st-details-emerge/#more-432551" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432551</guid>
-      <pubDate>2025-09-03T15:14:24Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432551</guid>
     </item>    <item>
       <title>Eve Energy rolls solid-state batteries off new assembly line to power humanoids, flying cars</title>
       <link>https://electrek.co/2025/09/03/eve-energy-solid-state-batteries-new-assembly-line-humanoids-flying-cars/</link>
@@ -1230,8 +1129,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="china,eve-energy,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="432536" href="https://electrek.co/2025/09/03/eve-energy-solid-state-batteries-new-assembly-line-humanoids-flying-cars/#more-432536" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432536</guid>
-      <pubDate>2025-09-03T14:07:53Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432536</guid>
     </item>    <item>
       <title>Volkswagen vows to make EVs more affordable, starting with the ID.Polo and a new SUV</title>
       <link>https://electrek.co/2025/09/03/meet-volkswagen-id-polo-affordable-ev-coming-soon/</link>
@@ -1242,8 +1140,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volkswagen" data-layer-viewtype="unknown" data-post-id="432530" href="https://electrek.co/2025/09/03/meet-volkswagen-id-polo-affordable-ev-coming-soon/#more-432530" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432530</guid>
-      <pubDate>2025-09-03T13:54:58Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432530</guid>
     </item>    <item>
       <title>Segway’s electric go-karts are joining forces with the world’s largest indoor karting chain</title>
       <link>https://electrek.co/2025/09/03/segways-electric-go-karts-are-joining-forces-with-the-worlds-largest-indoor-karting-chain/</link>
@@ -1254,8 +1151,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-go-karts,go-kart,segway" data-layer-viewtype="unknown" data-post-id="431926" href="https://electrek.co/2025/09/03/segways-electric-go-karts-are-joining-forces-with-the-worlds-largest-indoor-karting-chain/#more-431926" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=431926</guid>
-      <pubDate>2025-09-03T13:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=431926</guid>
     </item>    <item>
       <title>GM warns ‘irrational discounts’ on EVs are ending</title>
       <link>https://electrek.co/2025/09/02/gm-warns-irrational-discounts-evs-ending/</link>
@@ -1266,8 +1162,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="432506" href="https://electrek.co/2025/09/02/gm-warns-irrational-discounts-evs-ending/#more-432506" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432506</guid>
-      <pubDate>2025-09-02T20:07:16Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432506</guid>
     </item>    <item>
       <title>H1 2025: China installs more solar than rest of the world combined</title>
       <link>https://electrek.co/2025/09/02/h1-2025-china-installs-more-solar-than-rest-of-the-world-combined/</link>
@@ -1278,8 +1173,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,india,solar-power,united-states" data-layer-viewtype="unknown" data-post-id="432488" href="https://electrek.co/2025/09/02/h1-2025-china-installs-more-solar-than-rest-of-the-world-combined/#more-432488" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432488</guid>
-      <pubDate>2025-09-02T18:30:47Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432488</guid>
     </item>    <item>
       <title>These beloved sports cars were just killed off, but EV successors are coming soon</title>
       <link>https://electrek.co/2025/09/02/sports-cars-were-just-axed-but-ev-successors-are-coming/</link>
@@ -1290,8 +1184,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="audi,porsche" data-layer-viewtype="unknown" data-post-id="432478" href="https://electrek.co/2025/09/02/sports-cars-were-just-axed-but-ev-successors-are-coming/#more-432478" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432478</guid>
-      <pubDate>2025-09-02T18:23:35Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432478</guid>
     </item>    <item>
       <title>Aventon Sinch 2 folding e-bike at $1,399 low, Autel 40A level 2 EV station $399, EGO 18-inch chainsaw and 5.0Ah battery low, more</title>
       <link>https://electrek.co/2025/09/02/aventon-sinch-2-e-bike-autel-ego-more/</link>
@@ -1306,8 +1199,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="432471" href="https://electrek.co/2025/09/02/aventon-sinch-2-e-bike-autel-ego-more/#more-432471" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432471</guid>
-      <pubDate>2025-09-02T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432471</guid>
     </item>    <item>
       <title>Tesla sales surged in Turkey over a loophole that has been patched</title>
       <link>https://electrek.co/2025/09/02/tesla-sales-surged-in-turkey-over-a-loophole-that-has-been-patched/</link>
@@ -1322,8 +1214,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432472" href="https://electrek.co/2025/09/02/tesla-sales-surged-in-turkey-over-a-loophole-that-has-been-patched/#more-432472" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432472</guid>
-      <pubDate>2025-09-02T17:44:48Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432472</guid>
     </item>    <item>
       <title>Kia’s new EVs and bold vehicle designs are proving to be a hit</title>
       <link>https://electrek.co/2025/09/02/kias-new-evs-bold-vehicle-designs-proving-to-be-a-hit/</link>
@@ -1334,8 +1225,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="432441" href="https://electrek.co/2025/09/02/kias-new-evs-bold-vehicle-designs-proving-to-be-a-hit/#more-432441" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432441</guid>
-      <pubDate>2025-09-02T16:43:51Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432441</guid>
     </item>    <item>
       <title>Tesla (TSLA) received just 600 orders for Model Y in India, report says</title>
       <link>https://electrek.co/2025/09/02/tesla-tsla-received-just-600-orders-for-model-y-in-india-report-says/</link>
@@ -1346,8 +1236,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432456" href="https://electrek.co/2025/09/02/tesla-tsla-received-just-600-orders-for-model-y-in-india-report-says/#more-432456" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432456</guid>
-      <pubDate>2025-09-02T15:42:56Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432456</guid>
     </item>    <item>
       <title>Volkswagen is halting ID.4 production in the US despite massive discounts</title>
       <link>https://electrek.co/2025/09/02/volkswagen-halt-id-4-production-despite-massive-discounts/</link>
@@ -1358,8 +1247,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="432443" href="https://electrek.co/2025/09/02/volkswagen-halt-id-4-production-despite-massive-discounts/#more-432443" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432443</guid>
-      <pubDate>2025-09-02T15:42:34Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432443</guid>
     </item>    <item>
       <title>Swiss company OTTER is bringing its two-person electric water bikes to the US</title>
       <link>https://electrek.co/2025/09/02/swiss-company-otter-bringing-two-person-electric-water-bikes-to-us/</link>
@@ -1370,8 +1258,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="otter,otter-bike,water-bike" data-layer-viewtype="unknown" data-post-id="432446" href="https://electrek.co/2025/09/02/swiss-company-otter-bringing-two-person-electric-water-bikes-to-us/#more-432446" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432446</guid>
-      <pubDate>2025-09-02T15:12:22Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432446</guid>
     </item>    <item>
       <title>Review: I tested the Viribus SC5 fat tire electric trike, and it’s more capable than I expected</title>
       <link>https://electrek.co/2025/09/02/review-i-tested-the-viribus-sc5-fat-tire-electric-trike-and-its-more-capable-than-i-expected/</link>
@@ -1386,8 +1273,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="432109" href="https://electrek.co/2025/09/02/review-i-tested-the-viribus-sc5-fat-tire-electric-trike-and-its-more-capable-than-i-expected/#more-432109" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432109</guid>
-      <pubDate>2025-09-02T14:24:22Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432109</guid>
     </item>    <item>
       <title>Hyundai’s radical new Concept THREE EV shows what’s coming in the IONIQ 3</title>
       <link>https://electrek.co/2025/09/02/hyundais-concept-three-previews-radical-new-ioniq-3-ev/</link>
@@ -1398,8 +1284,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="431483" href="https://electrek.co/2025/09/02/hyundais-concept-three-previews-radical-new-ioniq-3-ev/#more-431483" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=431483</guid>
-      <pubDate>2025-09-02T13:37:30Z</pubDate>
+      <guid>cid://https://electrek.co/?p=431483</guid>
     </item>    <item>
       <title>BMW’s wild new electric motorcycle doesn’t even need a helmet</title>
       <link>https://electrek.co/2025/09/02/bmws-wild-new-electric-motorcycle-doesnt-even-need-a-helmet/</link>
@@ -1414,8 +1299,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="bmw,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="432419" href="https://electrek.co/2025/09/02/bmws-wild-new-electric-motorcycle-doesnt-even-need-a-helmet/#more-432419" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432419</guid>
-      <pubDate>2025-09-02T09:17:19Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432419</guid>
     </item>    <item>
       <title>A leading electric dirt bike maker just got a massive boost, and is coming for gas bikes</title>
       <link>https://electrek.co/2025/09/02/a-leading-electric-dirt-bike-maker-just-got-a-massive-boost-and-is-coming-for-gas-bikes/</link>
@@ -1426,8 +1310,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="432414" href="https://electrek.co/2025/09/02/a-leading-electric-dirt-bike-maker-just-got-a-massive-boost-and-is-coming-for-gas-bikes/#more-432414" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432414</guid>
-      <pubDate>2025-09-02T08:53:28Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432414</guid>
     </item>    <item>
       <title>Tesla releases ‘Master Plan Part 4’, a smorgasbord of vague AI promises</title>
       <link>https://electrek.co/2025/09/01/tesla-master-plan-part-4-vague-ai-promises/</link>
@@ -1438,8 +1321,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432401" href="https://electrek.co/2025/09/01/tesla-master-plan-part-4-vague-ai-promises/#more-432401" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432401</guid>
-      <pubDate>2025-09-02T01:31:41Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432401</guid>
     </item>    <item>
       <title>Chevy cuts Equinox EV leases to under $250 a month</title>
       <link>https://electrek.co/2025/09/01/chevy-cuts-equinox-ev-leases-under-250-a-month/</link>
@@ -1450,8 +1332,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="chevrolet-equinox-ev,chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="432390" href="https://electrek.co/2025/09/01/chevy-cuts-equinox-ev-leases-under-250-a-month/#more-432390" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432390</guid>
-      <pubDate>2025-09-01T20:02:50Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432390</guid>
     </item>    <item>
       <title>Here are the best electric bikes you can buy at every price level in September 2025</title>
       <link>https://electrek.co/2025/09/01/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/</link>
@@ -1466,8 +1347,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="228361" href="https://electrek.co/2025/09/01/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/#more-228361" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=228361</guid>
-      <pubDate>2025-09-01T18:50:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=228361</guid>
     </item>    <item>
       <title>The Genesis GV90 has another trick up its sleeve [Video]</title>
       <link>https://electrek.co/2025/09/01/genesis-gv90-has-another-trick-up-its-sleeve-video/</link>
@@ -1478,8 +1358,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="432379" href="https://electrek.co/2025/09/01/genesis-gv90-has-another-trick-up-its-sleeve-video/#more-432379" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432379</guid>
-      <pubDate>2025-09-01T18:19:33Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432379</guid>
     </item>    <item>
       <title>Green Deals Labor Day edition – Electric Bike Co. Model J e-bike bundle $1,649, EcoFlow flash sale takes 62% off four bundles, Anker, more</title>
       <link>https://electrek.co/2025/09/01/green-deals-labor-day-edition-electric-bike-co-model-j-ecoflow-anker-more/</link>
@@ -1494,8 +1373,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="432335" href="https://electrek.co/2025/09/01/green-deals-labor-day-edition-electric-bike-co-model-j-ecoflow-anker-more/#more-432335" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432335</guid>
-      <pubDate>2025-09-01T18:00:00Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432335</guid>
     </item>    <item>
       <title>Kia announces EV5 prices, offering up to 329 miles of range</title>
       <link>https://electrek.co/2025/09/01/kia-announces-ev5-prices-offering-up-to-329-miles-of-range/</link>
@@ -1506,8 +1384,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="432352" href="https://electrek.co/2025/09/01/kia-announces-ev5-prices-offering-up-to-329-miles-of-range/#more-432352" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432352</guid>
-      <pubDate>2025-09-01T16:44:40Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432352</guid>
     </item>    <item>
       <title>Tesla reduces price of new Model 3 in China weeks after launch, amid sales slump</title>
       <link>https://electrek.co/2025/09/01/tesla-reduces-price-new-model-3-in-china-weeks-after-launch-amid-sales-slump/</link>
@@ -1518,8 +1395,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-3" data-layer-viewtype="unknown" data-post-id="432359" href="https://electrek.co/2025/09/01/tesla-reduces-price-new-model-3-in-china-weeks-after-launch-amid-sales-slump/#more-432359" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432359</guid>
-      <pubDate>2025-09-01T15:55:06Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432359</guid>
     </item>    <item>
       <title>Volkswagen is about to unveil its most affordable electric SUV</title>
       <link>https://electrek.co/2025/09/01/volkswagen-about-to-unveil-most-affordable-electric-suv/</link>
@@ -1530,8 +1406,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-2,vw" data-layer-viewtype="unknown" data-post-id="432326" href="https://electrek.co/2025/09/01/volkswagen-about-to-unveil-most-affordable-electric-suv/#more-432326" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432326</guid>
-      <pubDate>2025-09-01T14:37:08Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432326</guid>
     </item>    <item>
       <title>Labor Day Green Deals hub – EVs, power stations, tools, appliances, more from $38</title>
       <link>https://electrek.co/2025/09/01/labor-day-green-deals-hub/</link>
@@ -1542,8 +1417,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="432321" href="https://electrek.co/2025/09/01/labor-day-green-deals-hub/#more-432321" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432321</guid>
-      <pubDate>2025-09-01T12:05:19Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432321</guid>
     </item>    <item>
       <title>E-quipment highlight: Komatsu PC20E-6 electric mini excavator</title>
       <link>https://electrek.co/2025/08/31/e-quipment-highlight-komatsu-pc20e-6-electric-mini-excavator/</link>
@@ -1554,8 +1428,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,komatsu" data-layer-viewtype="unknown" data-post-id="432299" href="https://electrek.co/2025/08/31/e-quipment-highlight-komatsu-pc20e-6-electric-mini-excavator/#more-432299" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432299</guid>
-      <pubDate>2025-08-31T20:36:42Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432299</guid>
     </item>    <item>
       <title>Tesla unexpectedly ends contract at Giga Texas, letting go 82 people</title>
       <link>https://electrek.co/2025/08/31/tesla-ends-contract-giga-texas-layoffs/</link>
@@ -1566,8 +1439,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="432295" href="https://electrek.co/2025/08/31/tesla-ends-contract-giga-texas-layoffs/#more-432295" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432295</guid>
-      <pubDate>2025-08-31T17:48:40Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432295</guid>
     </item>    <item>
       <title>After e-bike fury, suburban pearl-clutchers set their ire on golf carts</title>
       <link>https://electrek.co/2025/08/31/after-e-bike-fury-suburban-pearl-clutchers-set-their-ire-on-golf-carts/</link>
@@ -1582,8 +1454,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="golf-carts,nevs" data-layer-viewtype="unknown" data-post-id="432286" href="https://electrek.co/2025/08/31/after-e-bike-fury-suburban-pearl-clutchers-set-their-ire-on-golf-carts/#more-432286" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432286</guid>
-      <pubDate>2025-08-31T16:07:27Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432286</guid>
     </item>    <item>
       <title>2026 Volvo XC70 “long range PHEV” gets real with 125 mile electric range</title>
       <link>https://electrek.co/2025/08/31/2026-volvo-xc70-long-range-phev-gets-real-with-125-mile-electric-range/</link>
@@ -1594,8 +1465,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="china,plug-in-hybrid,volvo" data-layer-viewtype="unknown" data-post-id="432238" href="https://electrek.co/2025/08/31/2026-volvo-xc70-long-range-phev-gets-real-with-125-mile-electric-range/#more-432238" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432238</guid>
-      <pubDate>2025-08-31T15:40:27Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432238</guid>
     </item>    <item>
       <title>Americans don’t want self-driving cars, so Stellantis won’t be making them</title>
       <link>https://electrek.co/2025/08/31/americans-dont-want-self-driving-cars-so-stellantis-wont-be-making-them/</link>
@@ -1610,8 +1480,7 @@
         
          <a data-layer-pagetype="post" data-layer-postcategory="autonomous-cars,full-self-driving-fsd,stellantis" data-layer-viewtype="unknown" data-post-id="432204" href="https://electrek.co/2025/08/31/americans-dont-want-self-driving-cars-so-stellantis-wont-be-making-them/#more-432204" class="more-link">more…</a>]]>
       </description>
-      <guid>https://electrek.co/?p=432204</guid>
-      <pubDate>2025-08-31T13:58:18Z</pubDate>
+      <guid>cid://https://electrek.co/?p=432204</guid>
     </item>    <item>
       <title>Shift Key Classic: How to Hook Up More Power Plants</title>
       <link>https://shows.acast.com/shift-key/episodes/shift-key-classic-how-to-hook-up-more-power-plants</link>
@@ -1619,8 +1488,7 @@
         <![CDATA[<p><em>Shift Key is off for Labor Day, so we’re re-running this classic episode.</em></p><br><p>For the first time in 15 years, American electricity demand is rising again as new data centers, factories, and electric vehicles come online. The easiest option is to meet that new demand with new supply — new power plants. But in many parts of the country, it can take years to hook up new wind, solar, and batteries to the grid. The reason why is a clogged and broken system called the interconnection queue.&nbsp;&nbsp;&nbsp;</p><br><p>On this week’s episode of Shift Key, which first aired in 2024, Jesse and Rob speak with two experts about how to understand — and how to fix — what is perhaps the biggest obstacle to deploying more renewables on the U.S. power grid.&nbsp;</p><br><p><a href="https://nicholasinstitute.duke.edu/people/tyler-norris" rel="noopener noreferrer" target="_blank">Tyler Norris</a> is a doctoral student at Duke University’s Nicholas School of the Environment. He was formerly vice president of development at Cypress Creek Renewables, and he served on North Carolina Governor Roy Cooper’s Carbon Policy Working Group. <a href="https://rmi.org/people/claire-wayner/" rel="noopener noreferrer" target="_blank">Claire Wayner</a> is a senior associate at RMI’s carbon-free electricity program, where she works on the clean and competitive grids team.&nbsp;</p><br><p>Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University.</p><br><p><strong>Mentioned:&nbsp;</strong></p><br><p>Tyler’s <a href="https://nicholasinstitute.duke.edu/publications/comments-ferc-workshop-innovations-efficiencies-generator-interconnection" rel="noopener noreferrer" target="_blank">study on “energy only” interconnection rules</a></p><br><p>Matthew Zeitlin on Tyler’s research into <a href="https://heatmap.news/energy/ai-flexible-loads" rel="noopener noreferrer" target="_blank">flexible loads</a></p><br><p><a href="https://www.ferc.gov/explainer-interconnection-final-rule" rel="noopener noreferrer" target="_blank">FERC Order 2023</a></p><br><p><a href="https://blog.advancedenergyunited.org/reports/unlocking-americas-energy" rel="noopener noreferrer" target="_blank">Advanced Energy United</a> on “Unlocking America's Energy”</p><br><p><a href="https://www.nrdc.org/bio/claire-lang-ree/pjms-capacity-auction-real-story" rel="noopener noreferrer" target="_blank">PJM’s Capacity Auction: The Real Story</a></p><br><p><a href="https://www.eenews.net/articles/project-bison-fails-whats-next-for-the-carbon-removal-megaproject/" rel="noopener noreferrer" target="_blank">Rob’s downshift</a>; <a href="https://www.businesswire.com/news/home/20240910997008/en/Fervo-Energy%E2%80%99s-Record-Breaking-Production-Results-Showcase-Rapid-Scale-Up-of-Enhanced-Geothermal" rel="noopener noreferrer" target="_blank">Jesse’s upshift</a>.</p><br><p>--</p><p>This episode of Shift Key is sponsored by …</p><br><p>Accelerate your clean energy career with&nbsp;<strong>Yale</strong>’s online certificate programs. Gain real-world skills, build strong networks, and keep working while you learn. Explore the year-long Financing and Deploying Clean Energy program or the 5-month Clean and Equitable Energy Development program. Learn more&nbsp;<a href="https://cbey.yale.edu/online-learning-opportunities" rel="noopener noreferrer" target="_blank">here</a>.</p><br><p>Join clean energy leaders at&nbsp;<strong>RE+ 25</strong>, September 8–11 in Las Vegas. Explore opportunities to meet rising energy demand with the latest in solar, storage, EVs, and more at North America’s largest energy event. Save 20% with code HEATMAP20 at&nbsp;<a href="http://re-plus.com/" rel="noopener noreferrer" target="_blank"><u>re-plus.com</u></a>.</p><br><p>Music for Shift Key is by Adam Kromelow.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]>
       </description>
       <enclosure url="https://sphinx.acast.com/p/open/s/65bac3af03341c00164bf93b/e/68ae3c39982c36846efe8b81/media.mp3" length="78912177" type="audio/mpeg" />
-      <guid>68ae3c39982c36846efe8b81</guid>
-      <pubDate>2025-08-27T09:00:00Z</pubDate>
+      <guid>cid://68ae3c39982c36846efe8b81</guid>
     </item>
   </channel>
 </rss>

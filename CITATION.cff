@@ -4,8 +4,7 @@ message: "If you use this software, please cite it as below."
 type: software
 title: antenna
 abstract: "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
-It is built using the Tools provided
-by [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
+It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
 and either Bash or PowerShell."
 authors:
   - family-names: Doiel

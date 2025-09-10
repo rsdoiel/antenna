@@ -14,7 +14,7 @@
   "dateCreated": "2023-10-11",
   "dateModified": "2025-09-09",
   "datePublished": "2025-09-09",
-  "description": "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.\nIt is built using the Tools provided\nby [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)\nand either Bash or PowerShell.",
+  "description": "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.\nIt is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)\nand either Bash or PowerShell.",
   "keywords": [
     "Feeds",
     "RSS",

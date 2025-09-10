@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Libraries</title>
-    <lastBuildDate>2025-09-10 12:00:58</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -12,8 +14,7 @@
         <![CDATA[<p>Today's guest post by Deja Forte declares: Publishing isn’t just about systems and standards; it’s about people. Each of us has the power to build bridges between knowledge and the lives it’s meant to benefit.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/10/guest-post-where-do-we-all-fit-in-reflections-on-belonging-purpose-and-progress-in-scholarly-publishing/">Guest Post – Where Do We All Fit In? Reflections on Belonging, Purpose, and Progress in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60943</guid>
-      <pubDate>2025-09-10T09:30:00Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60943</guid>
     </item>    <item>
       <title>Purposeful Cross-Sector Collaboration Boosts Learning Mobility and Student Success</title>
       <link>https://sr.ithaka.org/blog/purposeful-cross-sector-collaboration-boosts-learning-mobility-and-student-success/</link>
@@ -21,8 +22,7 @@
         <![CDATA[<p>As the “normal” higher education experience continues to evolve, to better serve students colleges and universities must not only work closely together across systems and regions, but they must also collaborate with K-12, employer, and community partners. These essential collaborations, when effective, can result in an interconnected ecosystem of learning opportunities that seamlessly connect students [&#8230;]</p>
         <p>The post <a href="https://sr.ithaka.org/blog/purposeful-cross-sector-collaboration-boosts-learning-mobility-and-student-success/">Purposeful Cross-Sector Collaboration Boosts Learning Mobility and Student Success</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323516</guid>
-      <pubDate>2025-09-09T14:58:34Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323516</guid>
     </item>    <item>
       <title>Guest Post – ODI Survey on AI and Web-Scale Discovery</title>
       <link>https://scholarlykitchen.sspnet.org/2025/09/09/guest-post-odi-survey-on-ai-and-web-scale-discovery/</link>
@@ -30,16 +30,14 @@
         <![CDATA[<p>NISO's Open Discovery Initiative (ODI) survey reflects the positive and negative expectations of generative AI in web-scale discovery tools.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/09/guest-post-odi-survey-on-ai-and-web-scale-discovery/">Guest Post – ODI Survey on AI and Web-Scale Discovery</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60930</guid>
-      <pubDate>2025-09-09T09:30:44Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60930</guid>
     </item>    <item>
       <title>HighWire Press&#39;s DigiCorePro and ROR</title>
       <link>https://ror.org/blog/2025-09-09-digicorepro/</link>
       <description>
         <![CDATA[In this interview with HighWire Press&#39;s Tony Alves, we learn that thanks to customer requests and a PID-aware development process, the publishing platform DigiCore Pro uses ROR in form lookups and automatic extraction processes for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity.]]>
       </description>
-      <guid>https://doi.org/10.71938/97e0-5q39</guid>
-      <pubDate>2025-09-09T00:00:00Z</pubDate>
+      <guid>cid://https://doi.org/10.71938/97e0-5q39</guid>
     </item>    <item>
       <title>Celebrating one year of Crossref Grant IDs at NWO</title>
       <link>https://www.crossref.org/blog/celebrating-one-year-of-crossref-grant-ids-at-nwo/</link>
@@ -94,8 +92,7 @@
         <p>The introduction of Crossref Grant IDs represents just the first step in a longer journey toward more open research information for NWO. We are happy to see how quickly researchers are adopting the system by including Crossref Grant IDs in their work. For Grant IDs to truly become a Grant Linking System and fulfil its promise, however, publishers must act on the need to collect and process funding information in their publishing workflows, just as they do for other joint efforts, such as for ORCID iDs for contributors. The information is there—authors are providing it in the acknowledgement sections of their articles (and probably would too if asked directly in a submission form). The question now is: can we encourage more publishers to take up the request to capture and transmit this information accurately and register it with Crossref?</p>
         <p>We’re hopeful. This first year has demonstrated the enormous potential of Crossref Grant IDs in action for NWO. We call on publishers to do their bit in ensuring this vital infrastructure reaches its full potential for the research community.</p>]]>
       </description>
-      <guid>https://www.crossref.org/blog/celebrating-one-year-of-crossref-grant-ids-at-nwo/</guid>
-      <pubDate>2025-09-09T00:00:00Z</pubDate>
+      <guid>cid://https://www.crossref.org/blog/celebrating-one-year-of-crossref-grant-ids-at-nwo/</guid>
     </item>    <item>
       <title>Day in Review (September 8–11)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-08-11/</link>
@@ -103,8 +100,7 @@
         <![CDATA[<p>Last Updated on September 10, 2025, 8:16 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 09 &#124; Wednesday, September 10 &#124; Thursday,...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-08-11/">Day in Review (September 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <guid>https://www.arl.org/?p=45902</guid>
-      <pubDate>2025-09-08T20:22:04Z</pubDate>
+      <guid>cid://https://www.arl.org/?p=45902</guid>
     </item>    <item>
       <title>Sustaining Open Source Software in the Research Enterprise</title>
       <link>https://sr.ithaka.org/blog/sustaining-open-source-software-in-the-research-enterprise-workshop/</link>
@@ -112,8 +108,7 @@
         <![CDATA[<p>On August 8, 2025, we convened 40 people representing a wide range of perspectives to discuss strategies for sustaining open source software (OSS) that is used for research. Sustainability is a major challenge for even the most successful open source software, which requires ongoing community engagement to improve and maintain code. Sustainability also includes identifying [&#8230;]</p>
         <p>The post <a href="https://sr.ithaka.org/blog/sustaining-open-source-software-in-the-research-enterprise-workshop/">Sustaining Open Source Software in the Research Enterprise</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323518</guid>
-      <pubDate>2025-09-08T14:38:02Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323518</guid>
     </item>    <item>
       <title>Revisited: On Being a Leader Who Happens to Be a Woman of Color</title>
       <link>https://scholarlykitchen.sspnet.org/2025/09/08/revisited-on-being-a-leader-who-happens-to-be-a-woman-of-color/</link>
@@ -121,8 +116,7 @@
         <![CDATA[<p>During the first Trump administration, Alice Meadows interviewed three women of color who are leaders in their fields about their experiences. In this post, they revisit the topic in the light of their new positions and today's political environment.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/08/revisited-on-being-a-leader-who-happens-to-be-a-woman-of-color/">Revisited: On Being a Leader Who Happens to Be a Woman of Color </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60934</guid>
-      <pubDate>2025-09-08T09:30:56Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60934</guid>
     </item>    <item>
       <title>The Magic Mountain, by Thomas Mann</title>
       <link>https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</link>
@@ -130,8 +124,7 @@
         <![CDATA[A young man visits his cousin in a sanitarium in the mountains, only to see himself become one of its patients.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/downloads/thomas-mann_the-magic-mountain_h-t-lowe-porter.epub?source=feed" length="1392969" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</guid>
-      <pubDate>2025-09-07T22:50:38Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</guid>
     </item>    <item>
       <title>The End of the Tether, by Joseph Conrad</title>
       <link>https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether</link>
@@ -139,8 +132,7 @@
         <![CDATA[An aging captain, having made a name for himself in the age of sail, is forced by circumstance to do a final run on a steamer.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether/downloads/joseph-conrad_the-end-of-the-tether.epub?source=feed" length="459985" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether</guid>
-      <pubDate>2025-09-07T20:47:34Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/joseph-conrad/the-end-of-the-tether</guid>
     </item>    <item>
       <title>Demian, by Hermann Hesse</title>
       <link>https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</link>
@@ -148,8 +140,7 @@
         <![CDATA[A boy goes on a journey of spiritual growth.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/hermann-hesse_demian_n-h-priday.epub?source=feed" length="683949" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</guid>
-      <pubDate>2025-09-07T20:32:24Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</guid>
     </item>    <item>
       <title>Wild Animals I Have Known, by Ernest Thompson Seton</title>
       <link>https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</link>
@@ -157,8 +148,7 @@
         <![CDATA[Eight short stories about the lives of various animals across several regions of North America.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known/downloads/ernest-thompson-seton_wild-animals-i-have-known.epub?source=feed" length="801366" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</guid>
-      <pubDate>2025-09-07T19:59:53Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</guid>
     </item>    <item>
       <title>Reflections on Summer Library Conferences and Serving the Justice Impacted</title>
       <link>https://sr.ithaka.org/blog/reflections-on-summer-library-conferences-and-serving-the-justice-impacted/</link>
@@ -166,8 +156,7 @@
         <![CDATA[<p>This summer I attended and presented at two library conferences, the annual American Library Association (ALA) and the annual American Association of Law Librarians meetings. I participated in four panel discussions that focused on how libraries can better serve people inside and outside of prison. If you weren’t able to attend, I have provided some [&#8230;]</p>
         <p>The post <a href="https://sr.ithaka.org/blog/reflections-on-summer-library-conferences-and-serving-the-justice-impacted/">Reflections on Summer Library Conferences and Serving the Justice Impacted</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323511</guid>
-      <pubDate>2025-09-04T17:09:42Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323511</guid>
     </item>    <item>
       <title>Transparency in Research Reporting: An Evolving Culture</title>
       <link>https://blog.scielo.org/en/2025/09/04/transparency-in-research-reporting-an-evolving-culture/</link>
@@ -175,8 +164,7 @@
         <![CDATA[<p>More than two decades ago, Richard Horton, editor of <em>The Lancet</em>, raised thought-provoking questions about scientific authorship and its representation in published articles. He noted that research reports often overlook disagreements among co-authors over the interpretation of results. Bringing to light elements of this so-called "hidden paper" has become essential for the reliability of scientific reporting. This is an evolving process likely to gain even greater relevance in graduate education, especially in the current context of intellectual production increasingly permeated by Generative Artificial Intelligence. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/09/04/transparency-in-research-reporting-an-evolving-culture/" class="more-link"><span>Read More &#8594;</span></a></span></p>
         <p>The post <a href="https://blog.scielo.org/en/2025/09/04/transparency-in-research-reporting-an-evolving-culture/">Transparency in Research Reporting: An Evolving Culture</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
       </description>
-      <guid>https://blog.scielo.org/en/?p=5656</guid>
-      <pubDate>2025-09-04T17:00:06Z</pubDate>
+      <guid>cid://https://blog.scielo.org/en/?p=5656</guid>
     </item>    <item>
       <title>Integrating AI Literacy into the Curricula</title>
       <link>https://sr.ithaka.org/blog/integrating-ai-literacy-into-the-curricula-september-2025/</link>
@@ -184,8 +172,7 @@
         <![CDATA[<p>In September 2025, we are convening a new Integrating AI Literacy into the Curricula cohort to help colleges and universities move from ad hoc experimentation to sustainable, curriculum-integrated practice. Building on the momentum of our spring activities with 45 participating institutions, we will apply the same cross-campus approach that centers collaboration between libraries and educators, [&#8230;]</p>
         <p>The post <a href="https://sr.ithaka.org/blog/integrating-ai-literacy-into-the-curricula-september-2025/">Integrating AI Literacy into the Curricula</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323499</guid>
-      <pubDate>2025-09-03T15:06:09Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323499</guid>
     </item>    <item>
       <title>August 2025</title>
       <link>https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/august-2025/</link>
@@ -193,8 +180,7 @@
         <![CDATA[<p>Last Updated on September 3, 2025, 9:44 am ET Subscribe to the Public Policy Briefing ARL Public Policy Briefing (August 2025) This issue includes: Copyright and Fair Use/Fair Dealing Library...</p>
         <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/august-2025/">August 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <guid>https://www.arl.org/?p=45847</guid>
-      <pubDate>2025-09-03T13:44:09Z</pubDate>
+      <guid>cid://https://www.arl.org/?p=45847</guid>
     </item>    <item>
       <title>Poetry, by Matthew Arnold</title>
       <link>https://standardebooks.org/ebooks/matthew-arnold/poetry</link>
@@ -202,8 +188,7 @@
         <![CDATA[A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/matthew-arnold/poetry/downloads/matthew-arnold_poetry.epub?source=feed" length="835206" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/matthew-arnold/poetry</guid>
-      <pubDate>2025-09-02T20:44:50Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/matthew-arnold/poetry</guid>
     </item>    <item>
       <title>Day in Review (September 2–4)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-august-29-september-1-5/</link>
@@ -211,8 +196,7 @@
         <![CDATA[<p>Last Updated on September 4, 2025, 1:52 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, September 3 &#124; Thursday, September 4 Tuesday, September...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-29-september-1-5/">Day in Review (September 2–4)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <guid>https://www.arl.org/?p=45829</guid>
-      <pubDate>2025-09-02T19:50:00Z</pubDate>
+      <guid>cid://https://www.arl.org/?p=45829</guid>
     </item>    <item>
       <title>How States and Institutions Are Using PSEO to Show College Graduate Employment Outcomes</title>
       <link>https://sr.ithaka.org/blog/how-states-are-using-pseo-to-show-college-graduate-employment-outcomes/</link>
@@ -220,8 +204,7 @@
         <![CDATA[<p>Higher education leaders have long struggled to answer two deceptively simple questions: “where do our graduates work?” and “what are they earning?” Response rates to surveys that historically collect this information are declining, individual state data systems typically do not track graduates across state lines, and commercial datasets with these data are opaque and costly. [&#8230;]</p>
         <p>The post <a href="https://sr.ithaka.org/blog/how-states-are-using-pseo-to-show-college-graduate-employment-outcomes/">How States and Institutions Are Using PSEO to Show College Graduate Employment Outcomes</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323495</guid>
-      <pubDate>2025-09-02T15:03:55Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323495</guid>
     </item>    <item>
       <title>The Road to Oz, by L. Frank Baum</title>
       <link>https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</link>
@@ -229,16 +212,14 @@
         <![CDATA[A young girl takes a passerby down the road near her farm when they find themselves transported to another land.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/l-frank-baum_the-road-to-oz.epub?source=feed" length="1159795" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</guid>
-      <pubDate>2025-09-01T19:39:21Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</guid>
     </item>    <item>
       <title>Fit in research data management</title>
       <link>https://rc-blog.ethz.ch/en/fit-in-research-data-management/</link>
       <description>
         <![CDATA[Get yourself and your research project in shape with our research data management workshop programme. You can now register for the Autumn Semester 2025 workshops. Read more]]>
       </description>
-      <guid>https://rc-blog.ethz.ch/?p=2884</guid>
-      <pubDate>2025-09-01T13:04:59Z</pubDate>
+      <guid>cid://https://rc-blog.ethz.ch/?p=2884</guid>
     </item>    <item>
       <title>Women, by Zofia Nałkowska</title>
       <link>https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki</link>
@@ -246,8 +227,7 @@
         <![CDATA[A Polish woman aims to find love in a society of shifting moral norms.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki/downloads/zofia-nalkowska_women_michael-henry-dziewicki.epub?source=feed" length="496584" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki</guid>
-      <pubDate>2025-08-31T20:23:47Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki</guid>
     </item>    <item>
       <title>The New Freedom, by Woodrow Wilson</title>
       <link>https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</link>
@@ -255,16 +235,14 @@
         <![CDATA[The 28th president of the United States presents the risks and opportunities for freedom and democracy through a series of campaign speeches.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom/downloads/woodrow-wilson_the-new-freedom.epub?source=feed" length="422895" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</guid>
-      <pubDate>2025-08-29T18:31:02Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</guid>
     </item>    <item>
       <title>Celebrando Cultura 2025: Spotlight on the Latinx/é Diaspora.</title>
       <link>https://library.csun.edu/blogs/cited/2025/08/29/celebrando-cultura-2025-spotlight-on-the-latinx-e-diaspora/</link>
       <description>
         <![CDATA[Each year, from September 15 to October 15, we observe Latinx/é Heritage Heritage Month, a time to recognize and celebrate the contributions of Latinx/é Americans.&#8230;]]>
       </description>
-      <guid>https://library.csun.edu/blogs/cited/?p=7406</guid>
-      <pubDate>2025-08-29T18:10:37Z</pubDate>
+      <guid>cid://https://library.csun.edu/blogs/cited/?p=7406</guid>
     </item>    <item>
       <title>Kitchen is Closed for US Labor Day</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/29/kitchen-is-closed-for-us-labor-day/</link>
@@ -272,16 +250,14 @@
         <![CDATA[<p>The Chefs are now off for the US Labor Day Holiday, enjoying the last official getaway for summer.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/29/kitchen-is-closed-for-us-labor-day/">Kitchen is Closed for US Labor Day</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60897</guid>
-      <pubDate>2025-08-29T09:00:59Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60897</guid>
     </item>    <item>
       <title>ETH Library and ICSTI invite you to the 2025 Annual Conference</title>
       <link>https://rc-blog.ethz.ch/en/eth-library-and-icsti-invite-you-to-the-2025-annual-conference/</link>
       <description>
         <![CDATA[Together with the International Council for Scientific and Technical Information (ICSTI), the ETH Library is hosting this year&#8217;s ICSTI Annual Conference at ETH Zurich on September 18 and 19, 2025.  Read more]]>
       </description>
-      <guid>https://rc-blog.ethz.ch/?p=2880</guid>
-      <pubDate>2025-08-28T13:42:04Z</pubDate>
+      <guid>cid://https://rc-blog.ethz.ch/?p=2880</guid>
     </item>    <item>
       <title>Guest Post – Code Plagiarism and AI Create New Challenges for Publishing Integrity</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/28/guest-post-code-plagiarism-and-ai-create-new-challenges-for-publishing-integrity/</link>
@@ -289,8 +265,7 @@
         <![CDATA[<p>This post explores author, reviewer, and publisher ethics and responsibilities related to the use of AI in coding and publishing research software.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/28/guest-post-code-plagiarism-and-ai-create-new-challenges-for-publishing-integrity/">Guest Post – Code Plagiarism and AI Create New Challenges for Publishing Integrity</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60920</guid>
-      <pubDate>2025-08-28T09:00:32Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60920</guid>
     </item>    <item>
       <title>An eLife filled with possibility thanks to great metadata</title>
       <link>https://www.crossref.org/blog/an-elife-filled-with-possibility-thanks-to-great-metadata/</link>
@@ -338,8 +313,7 @@
         </div>
         <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGwnlQ6L28&#x2F;02yxOhbLOdze9aVKwMwf5w&#x2F;watch?utm_content=DAGwnlQ6L28&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Metadata Awards video - eLife</a>]]>
       </description>
-      <guid>https://www.crossref.org/blog/an-elife-filled-with-possibility-thanks-to-great-metadata/</guid>
-      <pubDate>2025-08-28T00:00:00Z</pubDate>
+      <guid>cid://https://www.crossref.org/blog/an-elife-filled-with-possibility-thanks-to-great-metadata/</guid>
     </item>    <item>
       <title>The Paradise Mystery, by J. S. Fletcher</title>
       <link>https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</link>
@@ -347,8 +321,7 @@
         <![CDATA[A young doctor attempts to turn a mysterious death to his romantic advantage.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/j-s-fletcher_the-paradise-mystery.epub?source=feed" length="623099" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</guid>
-      <pubDate>2025-08-27T20:23:15Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</guid>
     </item>    <item>
       <title>Building Stronger Library Partnerships</title>
       <link>https://sr.ithaka.org/blog/building-stronger-library-partnerships/</link>
@@ -356,8 +329,7 @@
         <![CDATA[<p>Working together, academic and public libraries have the potential to meet community needs in powerful and often overlooked ways—providing technology access, digital and information literacy programs, and connections to social services that address basic needs like food, housing, and transportation. These partnerships can also create targeted support for specific populations, including student parents looking for [&#8230;]</p>
         <p>The post <a href="https://sr.ithaka.org/blog/building-stronger-library-partnerships/">Building Stronger Library Partnerships</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323462</guid>
-      <pubDate>2025-08-27T15:45:40Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323462</guid>
     </item>    <item>
       <title>Guest Post – Beyond Open Access, Part II: Make Images Truly Accessible for All</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/27/guest-post-beyond-open-access-part-ii-make-images-truly-accessible-for-all/</link>
@@ -366,16 +338,14 @@
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/27/guest-post-beyond-open-access-part-ii-make-images-truly-accessible-for-all/">Guest Post – Beyond Open Access, Part II: Make Images Truly Accessible for All</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
       <enclosure url="https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/08/Beyond-Open-Access-Part-2-audio-file-for-TSK1.mp3" length="8437778" type="audio/mpeg" />
-      <guid>https://scholarlykitchen.sspnet.org/?p=60909</guid>
-      <pubDate>2025-08-27T09:30:27Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60909</guid>
     </item>    <item>
       <title>New Art and Design Books!</title>
       <link>https://library.csun.edu/blogs/cited/2025/08/26/new-art-and-design-books/</link>
       <description>
         <![CDATA[Your CSUN Art Librarian here to share some of the new art, design, and photography books we’ve recently added to the collection: Digital Witness: Revolutions&#8230;]]>
       </description>
-      <guid>https://library.csun.edu/blogs/cited/?p=7398</guid>
-      <pubDate>2025-08-26T18:56:47Z</pubDate>
+      <guid>cid://https://library.csun.edu/blogs/cited/?p=7398</guid>
     </item>    <item>
       <title>Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/</link>
@@ -383,8 +353,7 @@
         <![CDATA[<p>In an era of information abundance and epistemic chaos, libraries serve as crucial sites for democratic knowledge practices -- protecting them is critical to preserving the infrastructure of informed citizenship itself.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/">Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60844</guid>
-      <pubDate>2025-08-26T10:25:23Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60844</guid>
     </item>    <item>
       <title>Day in Review (August 25–28)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-august-25-28/</link>
@@ -392,8 +361,7 @@
         <![CDATA[<p>Last Updated on August 28, 2025, 5:33 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus Monday, September 1,...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-25-28/">Day in Review (August 25–28)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <guid>https://www.arl.org/?p=45680</guid>
-      <pubDate>2025-08-25T18:17:52Z</pubDate>
+      <guid>cid://https://www.arl.org/?p=45680</guid>
     </item>    <item>
       <title>From Detection to Disclosure — Key Takeaways on AI Ethics from COPE’s Forum</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/</link>
@@ -401,8 +369,7 @@
         <![CDATA[<p>Summing up the Committee on Publication Ethics (COPE) Forum discussion on Emerging AI Dilemmas in Scholarly Publishing, which explored the many challenges AI presents for the scholarly community.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/">From Detection to Disclosure — Key Takeaways on AI Ethics from COPE’s Forum</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60799</guid>
-      <pubDate>2025-08-25T09:30:45Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60799</guid>
     </item>    <item>
       <title>Dark Princess, by W. E. B. Du Bois</title>
       <link>https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</link>
@@ -410,8 +377,7 @@
         <![CDATA[A romance with an Indian princess entangles a young American black man in a world-wide conspiracy of the colored peoples against the white.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess/downloads/w-e-b-du-bois_dark-princess.epub?source=feed" length="876275" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</guid>
-      <pubDate>2025-08-25T03:21:35Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</guid>
     </item>    <item>
       <title>The Painted Veil, by W. Somerset Maugham</title>
       <link>https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</link>
@@ -419,8 +385,7 @@
         <![CDATA[A superficial young woman is found out in an affair by her husband, who then forces her to accompany him on a mission of great risk.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil/downloads/w-somerset-maugham_the-painted-veil.epub?source=feed" length="509648" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</guid>
-      <pubDate>2025-08-23T00:20:50Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</guid>
     </item>    <item>
       <title>The Return of the Native, by Thomas Hardy</title>
       <link>https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</link>
@@ -428,8 +393,7 @@
         <![CDATA[A young woman longs to find a husband who can deliver her from her unexciting rural life.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native/downloads/thomas-hardy_the-return-of-the-native.epub?source=feed" length="1208112" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</guid>
-      <pubDate>2025-08-22T20:45:20Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</guid>
     </item>    <item>
       <title>What’s the Magic Word?</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/</link>
@@ -437,8 +401,7 @@
         <![CDATA[<p>What's the magic word? Is it "please"? "Abracadabra"? Wingardium leviosa"? Why are humans drawn to incantations and affirmations?</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/">What&#8217;s the Magic Word?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60892</guid>
-      <pubDate>2025-08-22T09:30:25Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60892</guid>
     </item>    <item>
       <title>Preserving At-Risk Public Data</title>
       <link>https://sr.ithaka.org/blog/preserving-access-for-at-risk-public-data/</link>
@@ -446,8 +409,7 @@
         <![CDATA[<p>Federal data are an essential public good, enabling cutting-edge research and underpinning decision making by governments, businesses, and individuals. However, continued public access to these data is no longer assured. Librarians, archivists, and other information professionals dedicated to the preservation and accessibility of knowledge have responded by building an independent infrastructure to preserve at-risk federal data for continued public use.</p>
         <p>The post <a href="https://sr.ithaka.org/blog/preserving-access-for-at-risk-public-data/">Preserving At-Risk Public Data</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323432</guid>
-      <pubDate>2025-08-21T16:27:01Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323432</guid>
     </item>    <item>
       <title>The Conscience of a Conservative, by Barry Goldwater</title>
       <link>https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</link>
@@ -455,8 +417,7 @@
         <![CDATA[A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative/downloads/barry-goldwater_the-conscience-of-a-conservative.epub?source=feed" length="575900" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</guid>
-      <pubDate>2025-08-21T15:50:31Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</guid>
     </item>    <item>
       <title>Rise of the Machine Readers: What They Really Want to Read</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/21/rise-of-the-machine-readers/</link>
@@ -464,8 +425,7 @@
         <![CDATA[<p>As AI becomes a major consumer of research, scholarly publishing must evolve: from PDFs for people to structured, high-quality data for machines.</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/21/rise-of-the-machine-readers/">Rise of the Machine Readers: What They Really Want to Read</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60871</guid>
-      <pubDate>2025-08-21T09:30:03Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60871</guid>
     </item>    <item>
       <title>Day in Review (August 20–21)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-august-20-21/</link>
@@ -473,8 +433,7 @@
         <![CDATA[<p>Last Updated on August 21, 2025, 3:47 pm ET Sign up to receive the Day in Review by email. Jump to: Thursday, August 21 Wednesday, August 20 Top o’ the...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-20-21/">Day in Review (August 20–21)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
-      <guid>https://www.arl.org/?p=45637</guid>
-      <pubDate>2025-08-20T19:18:36Z</pubDate>
+      <guid>cid://https://www.arl.org/?p=45637</guid>
     </item>    <item>
       <title>Getting Married, by George Bernard Shaw</title>
       <link>https://standardebooks.org/ebooks/george-bernard-shaw/getting-married</link>
@@ -482,8 +441,7 @@
         <![CDATA[On the morning of a young couple’s wedding, concerns about what is to come inspire discussions about the institution of marriage.]]>
       </description>
       <enclosure url="https://standardebooks.org/ebooks/george-bernard-shaw/getting-married/downloads/george-bernard-shaw_getting-married.epub?source=feed" length="412888" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/george-bernard-shaw/getting-married</guid>
-      <pubDate>2025-08-20T18:26:33Z</pubDate>
+      <guid>cid://https://standardebooks.org/ebooks/george-bernard-shaw/getting-married</guid>
     </item>    <item>
       <title>How Better Data Can Strengthen College in Prison</title>
       <link>https://sr.ithaka.org/blog/how-better-data-can-strengthen-college-in-prison/</link>
@@ -491,8 +449,7 @@
         <![CDATA[<p>In our new report, we explore the fractured data landscape that underpins higher education in prison. Drawing on interviews with nearly 50 stakeholders—including program leaders, institutional researchers, department of corrections staff, and technical assistance providers—we outline the key barriers and opportunities facing the field as it works to build a more comprehensive and sustainable data infrastructure.</p>
         <p>The post <a href="https://sr.ithaka.org/blog/how-better-data-can-strengthen-college-in-prison/">How Better Data Can Strengthen College in Prison</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
-      <guid>https://sr.ithaka.org/?p=323417</guid>
-      <pubDate>2025-08-20T16:10:57Z</pubDate>
+      <guid>cid://https://sr.ithaka.org/?p=323417</guid>
     </item>    <item>
       <title>2025 Update: Quantifying Consolidation in the Scholarly Journals Market</title>
       <link>https://scholarlykitchen.sspnet.org/2025/08/20/2025-update-quantifying-consolidation-in-the-scholarly-journals-market/</link>
@@ -500,16 +457,14 @@
         <![CDATA[<p>Catching up with the ongoing consolidation of the journals market -- what has happened in the two years since this was last examined? And how does the market look if you add in a large number of relatively newly launched journals?</p>
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/20/2025-update-quantifying-consolidation-in-the-scholarly-journals-market/">2025 Update: Quantifying Consolidation in the Scholarly Journals Market</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
-      <guid>https://scholarlykitchen.sspnet.org/?p=60881</guid>
-      <pubDate>2025-08-20T09:30:05Z</pubDate>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60881</guid>
     </item>    <item>
       <title>Calling All Musicians: Mini Concerts at the Internet Archive</title>
       <link>https://blog.archive.org/2025/08/20/calling-all-musicians-mini-concerts-at-the-internet-archive/</link>
       <description>
         <![CDATA[Since 2020, the Internet Archive has been inviting musicians from around the world to play short live sets for our virtual staff meetings. What started as a way to bring [&#8230;]]]>
       </description>
-      <guid>https://blog.archive.org/?p=29076</guid>
-      <pubDate>2025-08-20T03:17:31Z</pubDate>
+      <guid>cid://https://blog.archive.org/?p=29076</guid>
     </item>
   </channel>
 </rss>

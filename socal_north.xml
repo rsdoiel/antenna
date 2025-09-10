@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/socal_north.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>socal_north.md</title>
-    <link>socal_north.xml</link>
-    <lastBuildDate>2025-09-10 12:01:04</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -12,72 +13,63 @@
       <description>
         <![CDATA[Temperatures will cool gradually this week.]]>
       </description>
-      <guid>urn:uuid:00000199-3033-dd94-afbd-713751930000</guid>
-      <pubDate>2025-09-10T13:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-3033-dd94-afbd-713751930000</guid>
     </item>    <item>
       <title>The numbers say you most likely know someone affected by ICE sweeps. What you need to know about the data</title>
       <link>https://laist.com/news/politics/usc-study-undocumented-immigrants-los-angeles-county</link>
       <description>
         <![CDATA[One recent study estimates that nearly one in five Angelenos are undocumented or live with an undocumented family member.]]>
       </description>
-      <guid>urn:uuid:00000199-310a-d22c-a5fd-790efa870000</guid>
-      <pubDate>2025-09-10T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-310a-d22c-a5fd-790efa870000</guid>
     </item>    <item>
       <title>Law enforcement agencies in California have to report how they use weapons during protests. Many don’t</title>
       <link>https://laist.com/news/politics/california-weapons-protests-reporting-requirements</link>
       <description>
         <![CDATA[Recent protests show major gaps in enforcement of California’s existing protest laws.]]>
       </description>
-      <guid>urn:uuid:00000199-3086-d243-a9bb-30f7462b0000</guid>
-      <pubDate>2025-09-10T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-3086-d243-a9bb-30f7462b0000</guid>
     </item>    <item>
       <title>How Los Angeles brings stoke and surf to children with disabilities</title>
       <link>https://laist.com/news/education/los-angeles-adaptive-para-surfing-program-autism-developmental-disabilities-olympics-2028</link>
       <description>
         <![CDATA[Over the past three years, Los Angeles Recreation and Parks has expanded opportunities for youths with disabilities to catch a wave, build confidence and learn water safety.]]>
       </description>
-      <guid>urn:uuid:00000199-2b36-ddb8-a5bf-fb772f940000</guid>
-      <pubDate>2025-09-10T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2b36-ddb8-a5bf-fb772f940000</guid>
     </item>    <item>
       <title>Downtown LA’s historic The Original Pantry Cafe will reopen its doors</title>
       <link>https://laist.com/news/food/downtown-los-angeles-historic-the-original-pantry-cafe-will-reopen</link>
       <description>
         <![CDATA[The union representing the restaurant's workers announced Tuesday that The Pantry will welcome back patrons Thursday after suddenly shutting down six months ago.]]>
       </description>
-      <guid>urn:uuid:00000199-30c9-d0a7-adbf-7eeb5e470000</guid>
-      <pubDate>2025-09-09T23:52:15Z</pubDate>
+      <guid>cid://urn:uuid:00000199-30c9-d0a7-adbf-7eeb5e470000</guid>
     </item>    <item>
       <title>An Orange County dog voted in multiple elections. Why that matters in bitter redistricting fight</title>
       <link>https://laist.com/news/politics/dog-registered-to-vote-orange-county-redistricting-fight</link>
       <description>
         <![CDATA[Proponents of stricter requirements for voter identification point to incidents like this as evidence that it's easy to skirt California’s voting rules.]]>
       </description>
-      <guid>urn:uuid:00000199-304e-d16d-a1b9-3f5f43650000</guid>
-      <pubDate>2025-09-09T22:43:40Z</pubDate>
+      <guid>cid://urn:uuid:00000199-304e-d16d-a1b9-3f5f43650000</guid>
     </item>    <item>
       <title>Pilot project at Port of LA generates clean energy using the ocean&#39;s waves</title>
       <link>https://laist.com/news/climate-environment/pilot-project-at-port-of-la-generates-clean-energy-using-the-oceans-waves</link>
       <description>
         <![CDATA[At the Port of Los Angeles, the ocean’s waves area creating renewable energy in a pilot project by the company Eco Wave Power.]]>
       </description>
-      <guid>urn:uuid:00000199-2fe1-db38-a1fb-6ffffe040000</guid>
-      <pubDate>2025-09-09T22:39:31Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2fe1-db38-a1fb-6ffffe040000</guid>
     </item>    <item>
       <title>Big Bear housing project proposal moves forward despite concerns from bald eagle fans</title>
       <link>https://laist.com/news/climate-environment/big-bear-housing-project-proposal-bald-eagle-concerns</link>
       <description>
         <![CDATA[The San Bernardino County Board of Supervisors voted Tuesday to approve the Moon Camp project’s tentative tract map and environmental impact report.]]>
       </description>
-      <guid>urn:uuid:00000199-3070-db38-a1fb-797e64e20000</guid>
-      <pubDate>2025-09-09T22:11:01Z</pubDate>
+      <guid>cid://urn:uuid:00000199-3070-db38-a1fb-797e64e20000</guid>
     </item>    <item>
       <title>The federal plan for healthier kids includes 128 ideas, but few details</title>
       <link>https://laist.com/news/health/the-federal-plan-for-healthier-kids-includes-128-ideas-but-few-details</link>
       <description>
         <![CDATA[The Make America Healthy Again Commission is proposing more than 100 moves to address the root causes of childhood chronic disease. Critics say other Trump administration moves contradict the goals.]]>
       </description>
-      <guid>urn:uuid:00000199-3018-d0a7-adbf-7e3b46930000</guid>
-      <pubDate>2025-09-09T21:01:45Z</pubDate>
+      <guid>cid://urn:uuid:00000199-3018-d0a7-adbf-7e3b46930000</guid>
     </item>    <item>
       <title>Volunteer for the 2025 Make a Difference Day</title>
       <link>https://santaclarita.gov/blog/2025/09/09/volunteer-for-the-2025-make-a-difference-day/</link>
@@ -85,48 +77,42 @@
         <![CDATA[<p>Give Back and Make a Difference! On Saturday, October 25, the City of Santa Clarita invites residents to roll up their sleeves and join their neighbors for Make a Difference Day – an annual tradition of community service that brings people together to give back in meaningful ways. &#160; Whether you help beautify the courtyard [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/09/volunteer-for-the-2025-make-a-difference-day/">Volunteer for the 2025 Make a Difference Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6608</guid>
-      <pubDate>2025-09-09T21:00:13Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6608</guid>
     </item>    <item>
       <title>60 years later, Dodger great Sandy Koufax&#39;s perfect game is still amazing</title>
       <link>https://laist.com/news/60-years-later-dodger-great-sandy-koufaxs-perfect-game-is-still-amazing</link>
       <description>
         <![CDATA[Tuesday marks 60 years since Sandy Koufax threw a perfect game at Dodger Stadium. The 1-0 victory over the Chicago Cubs is still considered one of the best games in baseball history.]]>
       </description>
-      <guid>urn:uuid:00000199-2fd6-d0a7-adbf-6ff79a6b0000</guid>
-      <pubDate>2025-09-09T21:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2fd6-d0a7-adbf-6ff79a6b0000</guid>
     </item>    <item>
       <title>Enjoyment of science plummeted along with scores on 8th grade national test</title>
       <link>https://laist.com/news/education/enjoyment-of-science-plummeted-along-with-scores-on-8th-grade-national-test</link>
       <description>
         <![CDATA[Eighth grade students lost all gains in science since 2009, the first year the test was given.]]>
       </description>
-      <guid>urn:uuid:00000199-2f9d-db45-a7bf-7fbfcf0c0000</guid>
-      <pubDate>2025-09-09T20:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2f9d-db45-a7bf-7fbfcf0c0000</guid>
     </item>    <item>
       <title>Musicians keep leaving Spotify in protest of CEO&#39;s defense investments</title>
       <link>https://laist.com/news/arts-and-entertainment/musicians-keep-leaving-spotify-in-protest-of-ceos-defense-investments</link>
       <description>
         <![CDATA[In the last few months, bands including Hotline TNT and King Gizzard and the Lizard Wizard have pulled music from Spotify in a new wave of artist-led protests against the platform.]]>
       </description>
-      <guid>urn:uuid:00000199-2f80-db45-a7bf-7fb701670000</guid>
-      <pubDate>2025-09-09T19:01:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2f80-db45-a7bf-7fb701670000</guid>
     </item>    <item>
       <title>LA Mayor Karen Bass endorses longtime ally Antonio Villaraigosa in California’s governor race</title>
       <link>https://laist.com/news/politics/la-mayor-karen-bass-endorses-antonio-villaraigosa-california-governor-race</link>
       <description>
         <![CDATA[The two Los Angeles mayors have known each other for more than five decades.]]>
       </description>
-      <guid>urn:uuid:00000199-2fc4-db45-a7bf-7ff77bbe0000</guid>
-      <pubDate>2025-09-09T18:51:03Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2fc4-db45-a7bf-7ff77bbe0000</guid>
     </item>    <item>
       <title>A Rancho Palos Verdes neighborhood marks one year without internet. Here&#39;s how they&#39;re getting by</title>
       <link>https://laist.com/news/one-year-since-rancho-palos-verdes-neighborhood-lost-internet</link>
       <description>
         <![CDATA[Cox Communications pulled its services from the area over safety concerns, leaving neighbors on their own to find ways to connect to the internet.]]>
       </description>
-      <guid>urn:uuid:00000199-2bda-df83-adfb-efdb9e4b0000</guid>
-      <pubDate>2025-09-09T18:03:49Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2bda-df83-adfb-efdb9e4b0000</guid>
     </item>    <item>
       <title>City of Santa Clarita Invites Residents to Take Part in the 2025 Hiking Challenge</title>
       <link>https://santaclarita.gov/blog/2025/09/09/city-of-santa-clarita-invites-residents-to-take-part-in-the-2025-hiking-challenge/</link>
@@ -134,16 +120,14 @@
         <![CDATA[<p>Celebrate History and the Great Outdoors at William S. Hart Park! Grab your hiking shoes and get ready to explore Santa Clarita’s 40th park! The City of Santa Clarita is excited to announce the return of the annual Hiking Challenge at William S. Hart Park. This year’s challenge invites residents to complete all seven trails, [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/09/city-of-santa-clarita-invites-residents-to-take-part-in-the-2025-hiking-challenge/">City of Santa Clarita Invites Residents to Take Part in the 2025 Hiking Challenge</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6603</guid>
-      <pubDate>2025-09-09T17:59:49Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6603</guid>
     </item>    <item>
       <title>Will California extend cap and trade? Legislative negotiations go down to the wire</title>
       <link>https://laist.com/news/politics/will-california-extend-cap-and-trade-legislative-negotiations-go-down-to-the-wire</link>
       <description>
         <![CDATA[Lawmakers, oil industry leaders and environmental justice groups are meeting behind closed doors to try to reach a deal to extend California’s landmark cap-and-trade program.]]>
       </description>
-      <guid>urn:uuid:00000199-2f65-d3fe-abfb-6f6fb0d00000</guid>
-      <pubDate>2025-09-09T17:34:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2f65-d3fe-abfb-6f6fb0d00000</guid>
     </item>    <item>
       <title>ANNUAL CHUMASH INTERTRIBAL POWWOW COMING TO SANTA YNEZ ON OCT. 4-5</title>
       <link>https://www.independent.com/events/chumash-intertribal-powwow/</link>
@@ -155,8 +139,7 @@
         of Chumash Indians’ largest cultural event of the year, features dancing, 
         singing, drumming, arts, crafts and more.]]>
       </description>
-      <guid>5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68c060bca0a26f15304ebe93</guid>
-      <pubDate>2025-09-09T17:17:07Z</pubDate>
+      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68c060bca0a26f15304ebe93</guid>
     </item>    <item>
       <title>Santa Clarita Arts Now Accepting Entries for the 2026 Sidewalk Poetry Project</title>
       <link>https://santaclarita.gov/blog/2025/09/09/santa-clarita-arts-now-accepting-entries-for-the-2026-sidewalk-poetry-project/</link>
@@ -164,136 +147,119 @@
         <![CDATA[<p>Share a Santa Clarita Secret! The City of Santa Clarita is now accepting entries for its 2026 Sidewalk Poetry Project, an initiative that brings poetry into public spaces by stamping original poems into freshly poured concrete sidewalks throughout the City. Entries are due by Sunday, December 14, 2025. &#160;This year’s theme is “Share a Santa [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/09/santa-clarita-arts-now-accepting-entries-for-the-2026-sidewalk-poetry-project/">Santa Clarita Arts Now Accepting Entries for the 2026 Sidewalk Poetry Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6600</guid>
-      <pubDate>2025-09-09T17:01:26Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6600</guid>
     </item>    <item>
       <title>Revised data show hiring was overstated in US by 911,000 jobs in past year</title>
       <link>https://laist.com/news/revised-data-show-hiring-was-overstated-in-us-by-911-000-jobs-in-past-year</link>
       <description>
         <![CDATA[The U.S. likely added 900,000 fewer jobs in the 12 months ending in March than had been reported, according to a preliminary Labor Department report.]]>
       </description>
-      <guid>urn:uuid:00000199-2f3d-d0a7-adbf-6f3fb0830000</guid>
-      <pubDate>2025-09-09T16:31:41Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2f3d-d0a7-adbf-6f3fb0830000</guid>
     </item>    <item>
       <title>SoCal to get a taste of fall weather this week</title>
       <link>https://laist.com/news/climate-environment/socal-to-get-a-taste-of-fall-weather-this-week</link>
       <description>
         <![CDATA[Temperatures will cool gradually this week.]]>
       </description>
-      <guid>urn:uuid:00000199-2b2b-d20b-abbf-7fbfd6190000</guid>
-      <pubDate>2025-09-09T13:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2b2b-d20b-abbf-7fbfd6190000</guid>
     </item>    <item>
       <title>Santa Ana Police Department reports say officers followed the law during anti-ICE protests. Eyewitnesses tell a different story</title>
       <link>https://laist.com/news/politics/santa-ana-police-department-reports-say-officers-followed-the-law-during-anti-ice-protests-eyewitnesses-tell-a-different-story</link>
       <description>
         <![CDATA[California law that sets guardrails on use of force at protests relies on the police to police themselves.]]>
       </description>
-      <guid>urn:uuid:00000199-2b3a-d785-a1fb-afbe17e90000</guid>
-      <pubDate>2025-09-09T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2b3a-d785-a1fb-afbe17e90000</guid>
     </item>    <item>
       <title>What taxpayers need to know one year after Orange County workers started the devastating Airport Fire</title>
       <link>https://laist.com/news/politics/orange-county-airport-fire-one-year-later</link>
       <description>
         <![CDATA[With hundreds of claims still pending and the county on the hook for payouts, here’s what we know about the burden facing Orange County taxpayers.]]>
       </description>
-      <guid>urn:uuid:00000199-2a7c-d527-a9fd-ee7cfe020000</guid>
-      <pubDate>2025-09-09T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2a7c-d527-a9fd-ee7cfe020000</guid>
     </item>    <item>
       <title>Toxic waste dumped decades ago has drastically altered life on SoCal&#39;s sea floor, study finds</title>
       <link>https://laist.com/news/climate-environment/waste-dumped-off-socal-coast-has-drastically-altered-life-on-the-sea-floor-study-finds</link>
       <description>
         <![CDATA[The waste was likely dumped alongside barrels of DDT discovered in recent years. Its chemical makeup has changed the types of organisms that live on the ocean bottom.]]>
       </description>
-      <guid>urn:uuid:00000199-2ba3-d0a7-adbf-6fa306210000</guid>
-      <pubDate>2025-09-09T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2ba3-d0a7-adbf-6fa306210000</guid>
     </item>    <item>
       <title>Construction workers are getting sick with valley fever in Riverside County. Why are cases up?</title>
       <link>https://laist.com/news/health/riverside-county-valley-fever-symptoms-haboob-cocci</link>
       <description>
         <![CDATA[Valley fever mostly infects people who spend time outdoors in dusty areas. For Riverside County, that’s primarily been construction workers.]]>
       </description>
-      <guid>urn:uuid:00000199-2b7f-d0a7-adbf-6f7fc7c50000</guid>
-      <pubDate>2025-09-09T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2b7f-d0a7-adbf-6f7fc7c50000</guid>
     </item>    <item>
       <title>Why California might preserve in-state tuition rates for community college students who get deported</title>
       <link>https://laist.com/news/education/deported-students-in-state-tuition-california-ab-695</link>
       <description>
         <![CDATA[A bill in the state Legislature would allow deported community college students to continue their coursework online at in-state rates. DACA recipients who are denied re-entry to the U.S. would also be eligible.]]>
       </description>
-      <guid>urn:uuid:00000199-2b22-d785-a1fb-afae2ba40000</guid>
-      <pubDate>2025-09-09T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2b22-d785-a1fb-afae2ba40000</guid>
     </item>    <item>
       <title>LA mayor and immigration activists denounce Supreme Court decision on ICE arrests</title>
       <link>https://laist.com/news/politics/la-mayor-immigration-activists-denounce-supreme-court-decision-on-ice-raids</link>
       <description>
         <![CDATA[The U.S. Supreme Court lifted restrictions on immigration raids in Southern California.]]>
       </description>
-      <guid>urn:uuid:00000199-2c0e-db38-a1fb-6d5eea640001</guid>
-      <pubDate>2025-09-09T01:56:28Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2c0e-db38-a1fb-6d5eea640001</guid>
     </item>    <item>
       <title>Big Bear housing project proposal reignites habitat concerns among bald eagle fans</title>
       <link>https://laist.com/news/climate-environment/big-bear-housing-project-proposal-reignites-habitat-concerns-among-bald-eagle-fans</link>
       <description>
         <![CDATA[If approved, the more than 62-acre project would include 50 housing lots and a marina less than a mile from Jackie and Shadow's famous nest overlooking the lake.]]>
       </description>
-      <guid>urn:uuid:00000199-2ba3-d0a7-adbf-6fa3354e0000</guid>
-      <pubDate>2025-09-08T23:55:43Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2ba3-d0a7-adbf-6fa3354e0000</guid>
     </item>    <item>
       <title>LA&#39;s $30 minimum wage boost for tourism workers moves forward after an effort to overturn it fails</title>
       <link>https://laist.com/news/politics/la-minimum-wage-boost-tourism-workers-moves-forward</link>
       <description>
         <![CDATA[The City Clerk says a referendum to overturn a minimum wage ordinance failed to gather enough valid signatures. The business group behind it is alleging foul play.]]>
       </description>
-      <guid>urn:uuid:00000199-2b33-db38-a1fb-6b7ff2700000</guid>
-      <pubDate>2025-09-08T21:44:20Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2b33-db38-a1fb-6b7ff2700000</guid>
     </item>    <item>
       <title>It’s 908 Day: celebrate Long Beach hometown pride with $9.08 discounts and more</title>
       <link>https://laist.com/news/los-angeles-activities/908-day-celebrate-long-beach-hometown-pride</link>
       <description>
         <![CDATA[Long Beach: it’s way more than Snoop Dogg and the Queen Mary.]]>
       </description>
-      <guid>urn:uuid:00000199-2ae6-d8eb-a59b-ffeff09c0000</guid>
-      <pubDate>2025-09-08T20:43:15Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2ae6-d8eb-a59b-ffeff09c0000</guid>
     </item>    <item>
       <title>‘Something can be done about this’: New plan aims to stop sex abuse in California schools</title>
       <link>https://laist.com/news/education/new-plan-aims-to-stop-sex-abuse-in-california-schools</link>
       <description>
         <![CDATA[A new bill would give officials more tools to identify and combat sexual abuse and educate students to better identify the most common signs of grooming behavior.]]>
       </description>
-      <guid>urn:uuid:00000199-2a56-de2a-a3ff-ab76b9fe0000</guid>
-      <pubDate>2025-09-08T18:30:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-2a56-de2a-a3ff-ab76b9fe0000</guid>
     </item>    <item>
       <title>Best things to do this week in Los Angeles and Southern California: September 8-11</title>
       <link>https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-in-los-angeles-and-southern-california-september-8-11</link>
       <description>
         <![CDATA[Pagliacci at POP, Casablanca screens at the Roosevelt, A/VOID at Chromosonic Field, John Cleese in Anaheim and more.]]>
       </description>
-      <guid>urn:uuid:00000199-257a-d0a7-adbf-6f7b74b00000</guid>
-      <pubDate>2025-09-08T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-257a-d0a7-adbf-6f7b74b00000</guid>
     </item>    <item>
       <title>California Republicans gird for redistricting fight; some see &#39;extinction level event&#39; if party loses</title>
       <link>https://laist.com/news/politics/california-republicans-gird-for-redistricting-fight-some-see-extinction-level-event-if-party-loses</link>
       <description>
         <![CDATA[Voters will cast ballots in November on Proposition 50, Gov. Gavin Newsom's redistricting measure.]]>
       </description>
-      <guid>urn:uuid:00000199-271c-ddb8-a5bf-ff5d18ba0000</guid>
-      <pubDate>2025-09-08T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-271c-ddb8-a5bf-ff5d18ba0000</guid>
     </item>    <item>
       <title>A $63 million tech hub at Cal State Northridge aims to attract future engineers</title>
       <link>https://laist.com/news/education/a-63-million-tech-hub-at-cal-state-northridge-aims-to-attract-future-engineers</link>
       <description>
         <![CDATA[University officials say they’re betting on the center to expose more first-generation college students to artificial intelligence, robotics and more.]]>
       </description>
-      <guid>urn:uuid:00000199-1b92-ddb8-a5bf-dbd783340000</guid>
-      <pubDate>2025-09-08T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-1b92-ddb8-a5bf-dbd783340000</guid>
     </item>    <item>
       <title>Vicky Tafoya, a key player in the SoCal revival of rockabilly, doo-wop, swing has died</title>
       <link>https://laist.com/news/los-angeles-activities/vicky-tafoya-socal-revival-rockabilly-doo-wop-swing-dies</link>
       <description>
         <![CDATA[Tafoya continued to push the '50s and '60s music styles into the modern era.]]>
       </description>
-      <guid>urn:uuid:00000199-1c40-d8d0-abdb-1ed765ec0000</guid>
-      <pubDate>2025-09-07T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-1c40-d8d0-abdb-1ed765ec0000</guid>
     </item>    <item>
       <title>Safer Roads as Summer Winds Down</title>
       <link>https://santaclarita.gov/blog/2025/09/06/safer-roads-as-summer-winds-down/</link>
@@ -301,24 +267,21 @@
         <![CDATA[<p>By City Manager Ken Striplin With students back in school – and families enjoying the last weeks of summer – safe, well-maintained roads matter more than ever. In the City of Santa Clarita, keeping streets in top condition is a year-round priority. Our Street Maintenance teams are out in the “Cone Zone” daily, repairing potholes [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/06/safer-roads-as-summer-winds-down/">Safer Roads as Summer Winds Down</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6576</guid>
-      <pubDate>2025-09-06T21:10:24Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6576</guid>
     </item>    <item>
       <title>Before the Queen Mary docked in Long Beach, the legendary ocean liner ruled the Atlantic</title>
       <link>https://laist.com/news/la-history/long-beach-queen-mary-british-ocean-liner-cunard-world-war-ii</link>
       <description>
         <![CDATA[The British passenger ship was popular with luxury travelers for decades, but it was also a distinguished wartime vessel.]]>
       </description>
-      <guid>urn:uuid:00000199-10be-d04f-a1bd-1affbe510000</guid>
-      <pubDate>2025-09-06T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-10be-d04f-a1bd-1affbe510000</guid>
     </item>    <item>
       <title>Culver City’s Citizen Public Market is closing</title>
       <link>https://laist.com/news/food/culver-citys-citizen-public-market-is-closing</link>
       <description>
         <![CDATA[The food hall announced it will shut its doors in November.]]>
       </description>
-      <guid>urn:uuid:00000199-1c67-ddb8-a5bf-de673edb0000</guid>
-      <pubDate>2025-09-06T00:55:28Z</pubDate>
+      <guid>cid://urn:uuid:00000199-1c67-ddb8-a5bf-de673edb0000</guid>
     </item>    <item>
       <title>A Jane Austen Mystery: Perception of Murder at The MAIN</title>
       <link>https://santaclarita.gov/blog/2025/09/05/a-jane-austen-mystery-perception-of-murder-at-the-main/</link>
@@ -326,8 +289,7 @@
         <![CDATA[<p>Can Jane Austen Solve a Murder Before Someone is Wrongly Accused? ME Main Productions is delighted to present an original Regency-era whodunit, A Jane Austen Mystery: Perception of Murder, at The MAIN! This thrilling new play blends mystery, wit and romance with just the right touch of spooky intrigue. Audiences will be transported to the [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/05/a-jane-austen-mystery-perception-of-murder-at-the-main/">A Jane Austen Mystery: Perception of Murder at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6589</guid>
-      <pubDate>2025-09-05T21:31:00Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6589</guid>
     </item>    <item>
       <title>The Business of Creativity: 4th Annual Business for Artists Conference Returns to Santa Clarita</title>
       <link>https://santaclarita.gov/blog/2025/09/05/the-business-of-creativity-4th-annual-business-for-artists-conference-returns-to-santa-clarita/</link>
@@ -335,8 +297,7 @@
         <![CDATA[<p>Did you know that we are only one month away from the 4th Annual Business for Artists Conference? On Saturday, October 4, the Canyon Country Community Center (18410 Sierra Highway) will be transformed into a hub where creativity and business collide. This free, all-day event brings together artists, musicians, filmmakers and creative professionals for a [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/05/the-business-of-creativity-4th-annual-business-for-artists-conference-returns-to-santa-clarita/">The Business of Creativity: 4th Annual Business for Artists Conference Returns to Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6584</guid>
-      <pubDate>2025-09-05T21:00:53Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6584</guid>
     </item>    <item>
       <title>SECAF visits VSFB; views SDA Tranche 1 satellite ahead of launch</title>
       <link>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4295428/secaf-visits-vsfb-views-sda-tranche-1-satellite-ahead-of-launch/</link>
@@ -345,32 +306,28 @@
         <img src='https://media.defense.gov/2025/Sep/05/2003793247/300/300/0/250827-X-IT855-1002.JPG' alt='Secretary of the Air Force Troy Meink, left, greets Lt. Gen. Douglas Schiess, middle, Commander, U.S. Space Forces - Space; and United States Space Command’s Combined Joint Force Space Component Commander, alongside Col. James T. Horne III, Space Launch Delta 30 commander, during his visit to Vandenberg Space Force Base, Calif. Aug. 27, 2025. During his visit, Meink received a strategic overview of Vandenberg’s mission and its role in advancing US interests in space. (U.S. Space Force photo by Senior Airman Kevin Hernandez)' /> <br />]]>
       </description>
       <enclosure url="https://media.defense.gov/2025/Sep/05/2003793246/700/700/0/250827-X-IT855-1001.JPG" length="" type="image/jpeg" />
-      <guid>https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4295428/secaf-visits-vsfb-views-sda-tranche-1-satellite-ahead-of-launch/</guid>
-      <pubDate>2025-09-05T20:31:00Z</pubDate>
+      <guid>cid://https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4295428/secaf-visits-vsfb-views-sda-tranche-1-satellite-ahead-of-launch/</guid>
     </item>    <item>
       <title>Dozens of lightning strike fires are burning across California. A warming climate could bring more, according to new study</title>
       <link>https://laist.com/news/climate-environment/dozens-of-lightning-strike-fires-are-burning-across-california-a-warming-climate-could-bring-more-according-to-new-study</link>
       <description>
         <![CDATA[When lightning strikes are abundant, so are wildfires — some in remote places across the state. Scientists warn there may be more in the future.]]>
       </description>
-      <guid>urn:uuid:00000199-1b35-d2de-a19f-bffddc8e0000</guid>
-      <pubDate>2025-09-05T20:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-1b35-d2de-a19f-bffddc8e0000</guid>
     </item>    <item>
       <title>Why I think Long Beach is the most exciting food city in Southern California right now</title>
       <link>https://laist.com/news/food/long-beach-most-exciting-food-city-southern-california-right-now</link>
       <description>
         <![CDATA[With less to prove than LA, the city is becoming a center of impressive culinary creativity.]]>
       </description>
-      <guid>urn:uuid:00000199-1665-d367-abbf-7ffd595b0000</guid>
-      <pubDate>2025-09-05T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-1665-d367-abbf-7ffd595b0000</guid>
     </item>    <item>
       <title>Cellphone emergency alerts aren&#39;t foolproof. Could blaring sirens help during the next big fire?</title>
       <link>https://laist.com/news/climate-environment/cellphone-emergency-alerts-can-sirens-help-during-next-big-fire</link>
       <description>
         <![CDATA[Emergency alerts can save your life, but January's fires in L.A. highlighted the limits of cellphone warnings.]]>
       </description>
-      <guid>urn:uuid:00000199-1604-dd13-a3df-fe8685140000</guid>
-      <pubDate>2025-09-04T22:45:23Z</pubDate>
+      <guid>cid://urn:uuid:00000199-1604-dd13-a3df-fe8685140000</guid>
     </item>    <item>
       <title>A Home for Culture, Connection and Community in Newhall</title>
       <link>https://santaclarita.gov/blog/2025/09/04/a-home-for-culture-connection-and-community-in-newhall/</link>
@@ -378,16 +335,14 @@
         <![CDATA[<p>By Councilmember Patsy Ayala&#160; “The greatness of a community is most accurately measured by the compassionate actions of its members.” – Coretta Scott King From the sound of mariachi music to the laughter coming from open gym nights, the Newhall Community Center continues to serve as a dynamic gathering place for residents of all ages. [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/04/a-home-for-culture-connection-and-community-in-newhall/">A Home for Culture, Connection and Community in Newhall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6574</guid>
-      <pubDate>2025-09-04T21:09:30Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6574</guid>
     </item>    <item>
       <title>An insurance crisis has forced many foster family agencies to close. What will help keep the rest open?</title>
       <link>https://laist.com/news/education/early-childhood-education-pre-k/la-county-money-foster-family-agencies-stay-open-insurance-crisis</link>
       <description>
         <![CDATA[The county joins the state in offering bailout dollars for surging liability insurance premiums.]]>
       </description>
-      <guid>urn:uuid:00000199-11d8-d0a7-adbf-5ffb3a270000</guid>
-      <pubDate>2025-09-04T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000199-11d8-d0a7-adbf-5ffb3a270000</guid>
     </item>    <item>
       <title>Non-Profits Invited to Take Part in Informational Meeting for Community Services and Arts Grant</title>
       <link>https://santaclarita.gov/blog/2025/09/03/non-profits-invited-to-take-part-in-informational-meeting-for-community-services-and-arts-grant-3/</link>
@@ -395,16 +350,14 @@
         <![CDATA[<p>The City of Santa Clarita invites non-profit organizations interested in learning more about the 2026 grant cycle of the Community Services and Arts Grants Program to attend a webinar via Zoom on Thursday, September 18, at 10:30 a.m. The Community Services and Arts Grants Program will once again make funds available to non-profit organizations that [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/03/non-profits-invited-to-take-part-in-informational-meeting-for-community-services-and-arts-grant-3/">Non-Profits Invited to Take Part in Informational Meeting for Community Services and Arts Grant</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6582</guid>
-      <pubDate>2025-09-03T18:09:19Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6582</guid>
     </item>    <item>
       <title>The Getty Center</title>
       <link>https://transitinglosangeles.com/2025/09/02/the-getty-center/</link>
       <description>
         <![CDATA[The iconic Getty, with its famed art, architecture, and gardens, is one of L.A.'s greatest attractions. Our guide will explore the highlights and show you how to reach it by transit.]]>
       </description>
-      <guid>http://transitinglosangeles.com/?p=9817</guid>
-      <pubDate>2025-09-02T22:36:58Z</pubDate>
+      <guid>cid://http://transitinglosangeles.com/?p=9817</guid>
     </item>    <item>
       <title>Celebrate William S. Hart Park at the 2025 State of the City</title>
       <link>https://santaclarita.gov/blog/2025/09/02/celebrate-william-s-hart-park-at-the-2025-state-of-the-city/</link>
@@ -412,16 +365,14 @@
         <![CDATA[<p>Tickets on Sale Now This year’s State of the City event will be held on Thursday, October 16, 2025, at 3:00 p.m., at the Canyon Country Community Center. This year’s theme is Celebrating Hart Park: History in Every Frame. Join the Santa Clarita City Council as they highlight all the incredible accomplishments from the last [&#8230;]</p>
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/02/celebrate-william-s-hart-park-at-the-2025-state-of-the-city/">Celebrate William S. Hart Park at the 2025 State of the City</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
-      <guid>https://santaclarita.gov/?p=6578</guid>
-      <pubDate>2025-09-02T21:17:48Z</pubDate>
+      <guid>cid://https://santaclarita.gov/?p=6578</guid>
     </item>    <item>
       <title>A breakfast club in Griffith Park has been LA&#39;s best-kept secret for 100 years</title>
       <link>https://laist.com/news/los-angeles-activities/los-angeles-breakfast-club-griffith-park-best-kept-secret</link>
       <description>
         <![CDATA[The club began as a way for the city’s rich and famous to share a meal and have fun.]]>
       </description>
-      <guid>urn:uuid:00000198-f1ed-d506-adbb-f3ede3350000</guid>
-      <pubDate>2025-08-31T12:00:00Z</pubDate>
+      <guid>cid://urn:uuid:00000198-f1ed-d506-adbb-f3ede3350000</guid>
     </item>    <item>
       <title>How AGI Could Reshape National Security</title>
       <link>https://www.rand.org/pubs/podcasts/policy-minded/2025/how-agi-could-reshape-national-security.html</link>
@@ -429,37 +380,32 @@
         <![CDATA[<p>How might the emergence of artificial general intelligence (AGI) reshape global security? RAND experts explore the uncertain future of AGI and identify five major security challenges it could bring—from new “wonder weapons” to sweeping shifts in the balance of global power.</p>]]>
       </description>
       <enclosure url="https://traffic.libsyn.com/clean/secure/policycurrents/PolicyMinded_011.mp3?dest-id=874184" length="51622510" type="audio/mpeg" />
-      <guid>dba464cc-6483-4cb1-ba2b-1ab0c7ab05a5</guid>
-      <pubDate>2025-08-27T21:35:00Z</pubDate>
+      <guid>cid://dba464cc-6483-4cb1-ba2b-1ab0c7ab05a5</guid>
     </item>    <item>
       <title>College Corps Momentum Builds as Pasadena City College Joins with New Affiliate Pilot</title>
       <link>https://www.californiavolunteers.ca.gov/college-corps-momentum-builds-as-pasadena-city-college-joins-with-new-affiliate-pilot/</link>
-      <guid>https://www.californiavolunteers.ca.gov/?p=83591</guid>
-      <pubDate>2025-08-26T18:48:46Z</pubDate>
+      <guid>cid://https://www.californiavolunteers.ca.gov/?p=83591</guid>
     </item>    <item>
       <title>AI Chatbots Inconsistent in Answering Questions About Suicide; Refinement Needed to Improve Performance</title>
       <link>https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html</link>
       <description>
         <![CDATA[Three widely used artificial intelligence chatbots generally do a good job responding to very-high-risk and very-low-risk questions about suicide, but they are inconsistent in answering questions about suicide that may pose intermediate risks.]]>
       </description>
-      <guid>https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html</guid>
-      <pubDate>2025-08-26T04:00:20Z</pubDate>
+      <guid>cid://https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html</guid>
     </item>    <item>
       <title>Bowen Ranch: A Century in the Desert</title>
       <link>https://desertgazette.com/blog/bowen-ranch-a-century-in-the-desert/</link>
       <description>
         <![CDATA[The Bowen family came to Juniper Flats in the early 1920s, one of the last waves of homesteaders to try their hand at life on the high desert. They built their ranch on a dry, windswept slope above Deep Creek, and before long, the wagon track that reached their gate bore their name — Bowen &#8230; <a href="https://desertgazette.com/blog/bowen-ranch-a-century-in-the-desert/" class="more-link">Continue reading<span class="screen-reader-text"> "Bowen Ranch: A Century in the Desert"</span></a>]]>
       </description>
-      <guid>https://desertgazette.com/blog/?p=13515</guid>
-      <pubDate>2025-08-23T23:34:08Z</pubDate>
+      <guid>cid://https://desertgazette.com/blog/?p=13515</guid>
     </item>    <item>
       <title>Contrasts</title>
       <link>https://desertgazette.com/blog/contrasts/</link>
       <description>
         <![CDATA[Comparing things &#8211; Semantics, Arithmetic expressions SemanticsSemantics is the study of meaning. In language, it deals with how words, symbols, and sentences connect to concepts or truth. In computer science, semantics describes what a program or expression does rather than just how it looks (its syntax). Example: Reverse Polish Notation (RPN)RPN, also called postfix notation, &#8230; <a href="https://desertgazette.com/blog/contrasts/" class="more-link">Continue reading<span class="screen-reader-text"> "Contrasts"</span></a>]]>
       </description>
-      <guid>https://desertgazette.com/blog/?p=13513</guid>
-      <pubDate>2025-08-22T10:56:33Z</pubDate>
+      <guid>cid://https://desertgazette.com/blog/?p=13513</guid>
     </item>    <item>
       <title>Santa Ynez Chumash Commit $500K Matching Grant to Cabrillo High</title>
       <link>https://www.indiangaming.com/santa-ynez-chumash-commit-500k-matching-grant-to-cabrillo-high/</link>
@@ -470,8 +416,7 @@
         its outdated track and field for the benefit of the school’s 
         student-athletes, marching band and the surrounding community.]]>
       </description>
-      <guid>5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68a79c7103f5444783063468</guid>
-      <pubDate>2025-08-20T22:30:00Z</pubDate>
+      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68a79c7103f5444783063468</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/science_and_technology.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Science and Technology</title>
-    <lastBuildDate>2025-09-10 12:00:59</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -11,120 +13,105 @@
       <description>
         <![CDATA[<h4>Why strap pricey, power-hungry HBM to a job that doesn&#39;t benefit from the bandwidth?</h4> <p><strong>Analysis</strong>  Nvidia on Tuesday unveiled the Rubin CPX, a GPU designed specifically to accelerate extremely long-context AI workflows like those seen in code assistants such as Microsoft&#39;s GitHub Copilot, while simultaneously cutting back on pricey and power-hungry high-bandwidth memory (HBM).…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241828</guid>
-      <pubDate>2025-09-10T12:15:15Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241828</guid>
     </item>    <item>
       <title>Uncle Sam indicts alleged ransomware kingpin tied to $18B in damages</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/us_nefilim_ransomware_indictment/</link>
       <description>
         <![CDATA[<h4>Prosecutors claim Ukrainian ran LockerGoga, MegaCortex, and Nefilim ops – $11M bounty on his head</h4> <p>A Ukrainian national faces serious federal charges and an $11 million bounty after allegedly orchestrating ransomware operations that caused an estimated $18 billion in damages across hundreds of organizations worldwide.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241833</guid>
-      <pubDate>2025-09-10T11:30:15Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241833</guid>
     </item>    <item>
       <title>Get paid like a prime minister to tame Home Office IT chaos</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/home_office_cdio/</link>
       <description>
         <![CDATA[<h4>Department dangles £160K salary for CDIO to wrangle legacy systems, failed projects, and £1.8B budget</h4> <p>The UK Home Office – a government department with a rich track record of failing IT projects – is on the hunt for a chief digital and innovation officer (CDIO) with an advertised salary not far off from the prime minister&#39;s.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241824</guid>
-      <pubDate>2025-09-10T10:45:14Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241824</guid>
     </item>    <item>
       <title>Flu jab email mishap exposes hundreds of students&#39; personal data</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/birmingham_school_data_blunder/</link>
       <description>
         <![CDATA[<h4>One parent expressed concern for their child&#39;s safety</h4> <p>A clumsy data breach has affected hundreds of children at a Birmingham secondary school.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241818</guid>
-      <pubDate>2025-09-10T10:13:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241818</guid>
     </item>    <item>
       <title>Johnson, Cummings met Thiel months before Palantir won NHS pandemic role</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/johnson_cummings_thiel_meeting/</link>
       <description>
         <![CDATA[<h4>Meeting with former UK prime minister and his chief advisor withheld from official records, according to leaked documents</h4> <p>Former British prime minister Boris Johnson and his chief adviser Dominic Cummings met with Peter Thiel, co-founder and chairman of Palantir, in 2019, months before the US spy-tech company landed a key role in the UK&#39;s COVID-19 response, according to papers seen by <a target="_blank" href="https://www.theguardian.com/uk-news/2025/sep/08/boris-johnson-dominic-cummings-secret-meeting-palantir-peter-thiel">The Guardian</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241812</guid>
-      <pubDate>2025-09-10T09:30:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241812</guid>
     </item>    <item>
       <title>KDE Linux and FreeBSD hit alpha and – surprise – fan fave Pop_OS nearly at beta</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/kde_linux_and_freebsd_hit/</link>
       <description>
         <![CDATA[<h4>It&#39;s the season of FOSS fruitfulness as juicy goodness falls from the branch</h4> <p>The Northern hemisphere is moving into autumn and FOSS vendors are falling over themselves in their efforts to get new versions out for the season.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241816</guid>
-      <pubDate>2025-09-10T08:45:14Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241816</guid>
     </item>    <item>
       <title>Cybercrooks ripped the wheels off at Jaguar Land Rover. Here&#39;s how not to get taken for a ride</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/jaguar_key_lessons/</link>
       <description>
         <![CDATA[<h4>Are you sure you know who has access to your systems?</h4> <p><strong>Feature</strong>  Jaguar Land Rover (JLR) is the latest UK household name to fall victim to a major cyberattack. IT systems across multiple sites have been offline for over a week after what the company described as a &#34;severe disruption.&#34;…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241814</guid>
-      <pubDate>2025-09-10T08:00:14Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241814</guid>
     </item>    <item>
       <title>Home Office delays £816M English test contract despite market engagement</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/home_office_language_test/</link>
       <description>
         <![CDATA[<h4>Government wants to assess would-be immigrants&#39; language skills remotely</h4> <p>Plans for an £816 million system to test the English skills of UK visa applicants have stalled, with the Home Office pushing procurement back at least five months after repeated consultations with suppliers.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241821</guid>
-      <pubDate>2025-09-10T07:15:12Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241821</guid>
     </item>    <item>
       <title>UK schools give system supplier Bromcom an F for Azure uptime</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/bromcom_fail/</link>
       <description>
         <![CDATA[<h4>Management software stumbles at start of term, leaving staff unable to track attendance or reach parents</h4> <p>UK school management information system (MIS) provider Bromcom has had a bad start to the academic year after its Azure-based service left staff struggling to track student attendance, let alone access contact details for parents and guardians.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241813</guid>
-      <pubDate>2025-09-10T06:30:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241813</guid>
     </item>    <item>
       <title>Arm bets on CPU-based AI with Lumex chips for smartphones</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/arm_goes_allin_for_ai/</link>
       <description>
         <![CDATA[<h4>Four-tier core design debuts amid NPU debate</h4> <p>Arm has lifted the lid on its latest mobile platform, comprising new CPU and GPU designs plus rearchitected interconnect and memory management logic, all optimized with a coming wave of AI-enabled smartphones in mind.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241820</guid>
-      <pubDate>2025-09-10T05:45:14Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241820</guid>
     </item>    <item>
       <title>AI pricing is currently in a state of ‘pandemonium’ says Gartner</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/ai_software_licensing_immature/</link>
       <description>
         <![CDATA[<h4>If you can find the T&amp;Cs, which are often hidden, you may spot hidden costs and nasties galore</h4> <p>Vendors’ licenses for AI software and services are in a state of “pandemonium,” according to Gartner VP analyst Jo Liversidge.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241832</guid>
-      <pubDate>2025-09-10T04:27:12Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241832</guid>
     </item>    <item>
       <title>This Patch Tuesday, SAP is the worst offender and Microsoft users can kinda chill</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/microsoft_patch_tuesday/</link>
       <description>
         <![CDATA[<h4>ERP giant patches flaw that allows total takeover of NetWeaver, Microsoft has nothing under attack for once</h4> <p>September’s Patch Tuesday won’t require Microsoft users to rapidly repair rancid software, but SAP users need to move fast to address extremely dangerous bugs.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241831</guid>
-      <pubDate>2025-09-10T03:31:11Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241831</guid>
     </item>    <item>
       <title>Mega-and-MAGA deals position Oracle&#39;s Larry Ellison to overtake Elon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/oracle_q1_results/</link>
       <description>
         <![CDATA[<h4>Big Red&#39;s profits are flat, but its order book is phat</h4> <p>Larry Ellison moved a lot closer to being the world&#39;s richest man on Tuesday after Oracle saw a huge leap in its stock price, the largest single day&#39;s improvement in decades, thanks to a pipeline stuffed full of big deals.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241829</guid>
-      <pubDate>2025-09-10T00:18:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241829</guid>
     </item>    <item>
       <title>Google Cloud CEO sees sunny days ahead thanks to AI demand</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/google_cloud_ceo_sees_sunny/</link>
       <description>
         <![CDATA[<h4>We&#39;re making billions on AI, how about you?</h4> <p>Google Cloud CEO Thomas Kurian says the Chocolate Factory&#39;s rental computing business has $106 billion of unfulfilled contracts, and he expects Google Cloud will be able to realize about half of that in revenue within two years.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241830</guid>
-      <pubDate>2025-09-09T23:58:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241830</guid>
     </item>    <item>
       <title>More packages poisoned in npm attack, but would-be crypto thieves left pocket change</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/npm_supply_chain_attack/</link>
       <description>
         <![CDATA[<h4>Miscreants cost victims time rather than money</h4> <p>During the two-hour window on Monday in which hijacked npm versions were available for download, malware-laced packages reached one in 10 cloud environments, according to Wiz researchers. But crypto-craving crims did little more than annoy defenders.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241826</guid>
-      <pubDate>2025-09-09T21:41:12Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241826</guid>
     </item>    <item>
       <title>Biologists Discover Surprisingly Cute Deep-Sea Fish Species Off the Coast of California</title>
       <link>https://www.smithsonianmag.com/smart-news/biologists-discover-three-new-deep-sea-fish-species-and-theyre-surprisingly-cute-180987308/</link>
@@ -132,23 +119,20 @@
         <![CDATA[Meet the bumpy snailfish—described by scientists as "adorable"—as well as the dark snailfish and sleek snailfish, all of which thrive thousands of feet below the surface of the Pacific Ocean]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/97BWtNeSzSap2G9Tihdo5DHKSCY=/420x240/filters:focal(1070x421:1071x422)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/2f/242f5255-671e-4c16-bb79-1b3ada60f6a1/mbari_bumpysnailfish_d1138_01_1920.jpg" length="" type="" />
-      <pubDate>2025-09-09T21:18:32Z</pubDate>
     </item>    <item>
       <title>Apple&#39;s &#39;Awe Droppings&#39; fall close to the tree</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/apples_awe_droppings_fall_close/</link>
       <description>
         <![CDATA[<h4>iPhone 17 Air shows company lightening up</h4> <p>Apple on Tuesday showed off its iPhone 17 lineup at a media event dubbed, &#34;Awe Dropping,&#34; favoring timeworn self-adulation over a more literal pun like &#34;Four Play.&#34;…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241827</guid>
-      <pubDate>2025-09-09T21:10:54Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241827</guid>
     </item>    <item>
       <title>New cybersecurity rules land for Defense Department contractors</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/new_cybersecurity_compliance_rules_dod/</link>
       <description>
         <![CDATA[<h4>Now if only someone would remember to apply those rules <i>inside</i> the DoD</h4> <p>It&#39;s about to get a lot harder for private companies that are lax on cybersecurity to get a contract with the Pentagon, as the Defense Department has finalized a rule requiring contractor compliance with its Cybersecurity Maturity Model Certification (CMMC) program.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241825</guid>
-      <pubDate>2025-09-09T20:06:20Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241825</guid>
     </item>    <item>
       <title>Seaweed Piles Are Slowing Down Sea Turtle Hatchlings as They Make the Dangerous Trek to the Ocean</title>
       <link>https://www.smithsonianmag.com/smart-news/seaweed-piles-are-slowing-down-sea-turtle-hatchlings-as-they-make-the-dangerous-trek-to-the-ocean-180987309/</link>
@@ -156,15 +140,13 @@
         <![CDATA[In Florida, large mats of sargassum are increasingly washing ashore, creating another obstacle for loggerhead, leatherback and green sea turtles, new research suggests]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/BZrKY8UDOjWSESStUg5aWzLtXgE=/420x240/filters:focal(1504x1074:1505x1075)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/5e/7b5ea353-c99f-4044-be9b-b4f760f5d02d/leatherback_on_sargassum_1.jpeg" length="" type="" />
-      <pubDate>2025-09-09T19:44:39Z</pubDate>
     </item>    <item>
       <title>Microserfs ordered back to the office, given 10 days to appeal</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/microsoft_return_to_work/</link>
       <description>
         <![CDATA[<h4>If you&#39;re within 50 miles of Redmond, then it&#39;s time to come in</h4> <p>Microsoft is rolling out a new return-to-office policy that will see first Redmond, then US, and then global staff getting back on-prem at least three days a week.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241823</guid>
-      <pubDate>2025-09-09T18:46:58Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241823</guid>
     </item>    <item>
       <title>Did the Dwarf Planet Ceres Once Host Life? Astronomers Suggest Chemical Energy Could Have Fueled Microbes Long Ago</title>
       <link>https://www.smithsonianmag.com/smart-news/did-the-dwarf-planet-ceres-once-host-life-astronomers-suggest-chemical-energy-could-have-fueled-microbes-long-ago-180987240/</link>
@@ -172,15 +154,13 @@
         <![CDATA[Though no direct evidence of life has been found, models suggest Ceres had hot water shooting into its underground oceans billions of years ago, offering potentially hospitable conditions]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fCZSnSbvZj76MlcHX0HPx0UuY5Y=/420x240/filters:focal(882x563:883x564)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/23/c92392f3-55ad-4d2f-b26d-08e6e3a9135e/ceres.jpg" length="" type="" />
-      <pubDate>2025-09-09T17:57:00Z</pubDate>
     </item>    <item>
       <title>Defense Dept didn&#39;t protect social media accounts, left stream keys out in public</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/us_dod_exposed_keys/</link>
       <description>
         <![CDATA[<h4>&#39;The practice… has since been fixed,&#39; Pentagon official tells <em>The Reg</em></h4> <p>The US Department of Defense, up until this week, routinely left its social media accounts wide open to hijackers via stream keys - unique, confidential identifiers generated by streaming platforms for broadcasting content. If exposed, these keys can allow attackers to output anything they want from someone else&#39;s channel.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241822</guid>
-      <pubDate>2025-09-09T17:53:55Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241822</guid>
     </item>    <item>
       <title>Christie&#39;s Helped Drive the Art World&#39;s NFT Craze. Now, the Auction House Is Shutting Down Its Digital Art Division</title>
       <link>https://www.smithsonianmag.com/smart-news/christies-helped-drive-the-art-worlds-nft-craze-now-the-auction-house-is-shutting-down-its-digital-art-division-180987306/</link>
@@ -188,31 +168,27 @@
         <![CDATA[Once a booming sector, the nonfungible token art market has been contracting for years]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/W2Ixf9cEf9FKSOe2kPGRH6NoGK4=/420x240/filters:focal(2971x1980:2972x1981)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d1/e6/d1e616b8-8630-4620-addd-544d6d251ee9/nft.png" length="" type="" />
-      <pubDate>2025-09-09T17:29:06Z</pubDate>
     </item>    <item>
       <title>No gains, just pains as 1.6M fitness phone call recordings exposed online</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/gym_audio_recordings_exposed/</link>
       <description>
         <![CDATA[<h4>HelloGym&#39;s data security clearly skipped leg day</h4> <p><strong>Exclusive</strong>  Sensitive info from hundreds of thousands of gym customers and staff – including names, financial details, and potentially biometric data in the form of audio recordings – was left sitting in an unencrypted, non-password protected database, according to a security researcher who shut it down.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241799</guid>
-      <pubDate>2025-09-09T17:00:11Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241799</guid>
     </item>    <item>
       <title>US Army straps on another mixed-reality gamble with Anduril, Rivet</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/us_army_anduril_headset/</link>
       <description>
         <![CDATA[<h4>Microsoft invitation lost in mail after HoloLens made soldiers sick</h4> <p>The US Army&#39;s troubled attempt at outfitting soldiers with mixed-reality headsets is getting a $354 million boost and a new pair of lead contractors as part of a second attempt to make the kit stick without making troops sick.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241819</guid>
-      <pubDate>2025-09-09T16:39:40Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241819</guid>
     </item>    <item>
       <title>Why Windows 95 left a handy power saving feature on the cutting-room floor</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/chen_windows_95_hlt/</link>
       <description>
         <![CDATA[<h4>Microsoft feared too many machines would end up bricked</h4> <p>Microsoft vet Raymond Chen first told the <a target="_blank" rel="nofollow" href="https://devblogs.microsoft.com/oldnewthing/20030828-00/?p=42753">story</a> of <code>HLT</code> and Windows 95 more than 20 years ago. The instruction tells the CPU to effectively shut itself down until the next hardware interrupt – ideal for laptops, since power consumption would be hugely reduced.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241815</guid>
-      <pubDate>2025-09-09T16:02:07Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241815</guid>
     </item>    <item>
       <title>Closing the App Gap; Focus and Momentum</title>
       <link>https://puri.sm/posts/closing-the-app-gap-momentum-and-time/</link>
@@ -220,48 +196,42 @@
         <![CDATA[<p>Purism set extremely ambitious goals starting with its founding as a Social Purpose Company—putting protecting digital rights above profit, putting individual freedom above controlling users, inventing and innovating GNU/Linux for mobile, creating the first truly convergent OS (PureOS), to shipping the first phone with Made in USA Electronics. The constant throughout the entire company is a belief that people should be in control of their technology. This belief is also extremely valuable to organizations and agencies who need the security provided by controlling their devices fully.</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/closing-the-app-gap-momentum-and-time/">Closing the App Gap; Focus and Momentum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=83717</guid>
-      <pubDate>2025-09-09T15:51:50Z</pubDate>
+      <guid>cid://https://puri.sm/?p=83717</guid>
     </item>    <item>
       <title>NASA Partnerships Allow Artificial Intelligence to Predict Solar Events</title>
       <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/</link>
       <description>
         <![CDATA[Exploring AI in space bolsters analytics software used in finance, manufacturing, and industry.]]>
       </description>
-      <guid>https://www.nasa.gov/?p=910833</guid>
-      <pubDate>2025-09-09T15:43:26Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?p=910833</guid>
     </item>    <item>
       <title>Artemis II Crew Walks Out for Practice Scenarios</title>
       <link>https://www.nasa.gov/image-article/artemis-ii-crew-walks-out-for-practice-scenarios/</link>
       <description>
         <![CDATA[The Artemis II crew (from front left to back right) – pilot Victor Glover, commander Reid Wiseman, mission specialist Jeremy Hansen of CSA (Canadian Space Agency), and mission specialist Christina Koch – walk out of the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida on Monday, Aug. 11, 2025. [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?post_type=image-article&p=910695</guid>
-      <pubDate>2025-09-09T15:40:36Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=910695</guid>
     </item>    <item>
       <title>Ami Choi: Unraveling the Invisible Universe</title>
       <link>https://www.nasa.gov/centers-and-facilities/goddard/ami-choi-unraveling-the-invisible-universe/</link>
       <description>
         <![CDATA[Research Astrophysicist and Roman’s Deputy Wide Field Instrument Scientist &#8211; Goddard Space Flight Center From a young age, Ami Choi — now a research astrophysicist at NASA — was drawn to the vast and mysterious. By the fifth grade, she had narrowed her sights to two career paths: marine biology or astrophysics.&#160; “I’ve always been [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?p=903126</guid>
-      <pubDate>2025-09-09T15:30:00Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?p=903126</guid>
     </item>    <item>
       <title>NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle</title>
       <link>https://www.nasa.gov/missions/webb/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/</link>
       <description>
         <![CDATA[An unusual cosmic object is helping scientists better understand the chemistry hidden deep in Jupiter and Saturn’s atmospheres — and potentially those of exoplanets. Why has silicon, one of the most common elements in the universe, gone largely undetected in the atmospheres of Jupiter, Saturn, and gas planets like them orbiting other stars? A new [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?p=910908</guid>
-      <pubDate>2025-09-09T15:28:03Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?p=910908</guid>
     </item>    <item>
       <title>Everyone needs an AI phone. No, don&#39;t hang up, it&#39;s true</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/gartner_ai_phone/</link>
       <description>
         <![CDATA[<h4>Analyst bets smart money on &#39;proactive digital companion&#39; upgrade cycle</h4> <p>Generative AI will supposedly spark a smartphone renaissance, driving both unit shipments and the value of devices sold this calendar year – or so claims a rather optimistic forecast from Gartner&#39;s consultants.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241817</guid>
-      <pubDate>2025-09-09T15:04:08Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241817</guid>
     </item>    <item>
       <title>Mousai App Now Available</title>
       <link>https://puri.sm/posts/mousai-app-now-available/</link>
@@ -270,200 +240,175 @@
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/mousai-app-now-available/">Mousai App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
       <enclosure url="https://videos.puri.sm/librem5/apps/mousai.mp4" length="4649456" type="video/mp4" />
-      <guid>https://puri.sm/?p=84077</guid>
-      <pubDate>2025-09-09T14:01:03Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84077</guid>
     </item>    <item>
       <title>Envía tu nombre alrededor de la Luna en 2026 con la misión Artemis II de la NASA</title>
       <link>https://www.nasa.gov/news-release/envia-tu-nombre-alrededor-de-la-luna-en-2026-con-la-mision-artemis-ii-de-la-nasa/</link>
       <description>
         <![CDATA[Read this press release in English here. La NASA invita al público a unirse al vuelo de prueba Artemis II de la agencia en el que cuatro astronautas emprenderán un viaje alrededor de la Luna y de regreso a la Tierra para poner a prueba los sistemas y el hardware necesarios para la exploración del espacio profundo. [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?post_type=press-release&p=910965</guid>
-      <pubDate>2025-09-09T13:57:18Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=910965</guid>
     </item>    <item>
       <title>Crossroads to the Future – NASA Stennis Grows into a Model Federal City</title>
       <link>https://www.nasa.gov/centers-and-facilities/stennis/model-federal-city/</link>
       <description>
         <![CDATA[NASA’s Stennis Space Center is widely known for rocket propulsion testing, especially to support the NASA Artemis program to send astronauts to the Moon to prepare for future human exploration of Mars. What may not be so widely known is that the site also is a unique federal city, home to more than 50 federal, [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?p=910954</guid>
-      <pubDate>2025-09-09T13:57:00Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?p=910954</guid>
     </item>    <item>
       <title>Launch Your Name Around Moon in 2026 on NASA’s Artemis II Mission</title>
       <link>https://www.nasa.gov/news-release/launch-your-name-around-moon-in-2026-on-nasas-artemis-ii-mission/</link>
       <description>
         <![CDATA[Lee este comunicado de prensa en español&#160;aquí. NASA is inviting the public to join the agency’s Artemis II test flight as four astronauts venture around the Moon and back to test systems and hardware needed for deep space exploration. As part of the agency’s “Send Your Name with Artemis II” effort, anyone can claim their [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?post_type=press-release&p=910964</guid>
-      <pubDate>2025-09-09T13:56:30Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=910964</guid>
     </item>    <item>
       <title>NASA Stennis Provides Ideal Location for Range of Site Tenants</title>
       <link>https://www.nasa.gov/centers-and-facilities/stennis/ideal-location-for-range-of-site-tenants/</link>
       <description>
         <![CDATA[If location, location, location is the overarching mantra in real estate, it is small wonder that NASA’s Stennis Space Center is considered a national asset and prime aerospace and technology operations site. It has long stood as a premier – and the nation’s largest – rocket propulsion test site. With unparalleled test infrastructure and expertise, [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?p=910925</guid>
-      <pubDate>2025-09-09T13:55:00Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?p=910925</guid>
     </item>    <item>
       <title>What the Plex? Streaming service suffers yet another password spill</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/plex_breach/</link>
       <description>
         <![CDATA[<h4>For the third time in a decade</h4> <p>Streaming platform Plex is warning some users to reset their passwords after suffering yet another breach.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241811</guid>
-      <pubDate>2025-09-09T13:45:13Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241811</guid>
     </item>    <item>
       <title>Microsoft inks AI infra deal with Yandex cofounder&#39;s biz for nearly $20B</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/microsoft_inks_near_20b_deal/</link>
       <description>
         <![CDATA[<h4>Netherlands based Nebius Group to deliver capacity from facility in New Jersey</h4> <p>As the AI frenzy shows no signs of letting up, Microsoft has signed an agreement that could be worth up to $19.4 billion with Netherlands-based Nebius Group – formerly known as Yandex N.V. – in exchange for access to its GPU infrastructure over five years.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241810</guid>
-      <pubDate>2025-09-09T13:00:10Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241810</guid>
     </item>    <item>
       <title>Atlassian&#39;s move to cloud-only means customers face integration issues and more</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/atlassian_will_go_cloudonly_customers/</link>
       <description>
         <![CDATA[<h4>First, server products go end of life, now datacenter gets the chop, and larger customers will pay more</h4> <p>Atlassian is discontinuing its datacenter products, including Jira, Confluence and Bamboo, in favor of Atlassian Cloud. There is a partial exception for Bitbucket, a source code repository manager, which will have a license option covering both cloud and datacenter.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241808</guid>
-      <pubDate>2025-09-09T12:30:09Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241808</guid>
     </item>    <item>
       <title>SpaceX bulks up Starlink Direct to Cell with $17B EchoStar spectrum deal</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/spacex_echostar_spectrum_deal/</link>
       <description>
         <![CDATA[<h4>Dreams of one satellite constellation die so another can live</h4> <p>EchoStar has agreed to sell the company&#39;s AWS-4 and H-block spectrum licenses to SpaceX in a transaction worth $17 billion.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241807</guid>
-      <pubDate>2025-09-09T11:45:13Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241807</guid>
     </item>    <item>
       <title>UK Home Office dangles £1.3M prize for algorithm that guesses your age</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/home_office_age_algorithm/</link>
       <description>
         <![CDATA[<h4>Contract tender follows &#39;alarming&#39; safeguarding failure at border with undocumented kids</h4> <p>The UK&#39;s Home Office is offering £1.3 million ($1.7 million) to developers of age-determining software - a tech it wants to deploy widely across its systems.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241809</guid>
-      <pubDate>2025-09-09T11:25:29Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241809</guid>
     </item>    <item>
       <title>Nokia successor HMD spawns secure device biz with Euro-made smartphone</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/hmd_ivalo_xe/</link>
       <description>
         <![CDATA[<h4>Ivalo XE handset targets governments and security critical sectors, though Qualcomm silicon keeps it tied to the US</h4> <p>Finnish phone maker HMD Global is launching a business unit called HMD Secure to target governments and other security-critical customers, and has its first device ready to go.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241806</guid>
-      <pubDate>2025-09-09T10:15:57Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241806</guid>
     </item>    <item>
       <title>Life After Microgravity: Astronauts Reflect on Post-Flight Recovery</title>
       <link>https://www.nasa.gov/centers-and-facilities/johnson/life-after-microgravity-astronauts-reflect-on-post-flight-recovery/</link>
       <description>
         <![CDATA[Space changes you. It strengthens some muscles, weakens others, shifts fluids within your body, and realigns your sense of balance. NASA’s Human Research Program works to understand—and sometimes even counter—those changes so astronauts can thrive on future deep space missions.&#160;&#160; Astronauts aboard the International Space Station work out roughly two hours a day to protect [&#8230;]]]>
       </description>
-      <guid>https://www.nasa.gov/?p=910229</guid>
-      <pubDate>2025-09-09T10:00:00Z</pubDate>
+      <guid>cid://https://www.nasa.gov/?p=910229</guid>
     </item>    <item>
       <title>Anthropic&#39;s Claude Code runs code to test if it is safe – which might be a big mistake</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/ai_security_review_risks/</link>
       <description>
         <![CDATA[<h4>AI security reviews add new risks, say researchers</h4> <p>App security outfit Checkmarx says automated reviews in Anthropic&#39;s Claude Code can catch some bugs but miss others – and sometimes create new risks by executing code while testing it.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241785</guid>
-      <pubDate>2025-09-09T09:30:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241785</guid>
     </item>    <item>
       <title>AI Darwin Awards launch to celebrate spectacularly bad deployments</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/ai_darwin_awards/</link>
       <description>
         <![CDATA[<h4>From fast food fiascos to botched databases, there are fresh honors for machine learning misadventures</h4> <p>It was bound to happen. The Darwin Awards are being extended to include examples of misadventures involving overzealous applications of AI.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241791</guid>
-      <pubDate>2025-09-09T08:45:10Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241791</guid>
     </item>    <item>
       <title>Legacy tech blunts UK top cops&#39; fight against serious crime, inspectors find</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/nca_legacy_tech/</link>
       <description>
         <![CDATA[<h4>Report warns creaking infrastructure undermines the National Crime Agency&#39;s efficiency and effectiveness</h4> <p>The UK&#39;s National Crime Agency (NCA) clings to legacy systems and relies on an IT strategy that lacks clarity, a policing watchdog has found.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241789</guid>
-      <pubDate>2025-09-09T08:02:07Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241789</guid>
     </item>    <item>
       <title>Microsoft veteran&#39;s worst Windows bug was Pinball running at 5,000 FPS</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/dave_plummers_worst_windows_bug/</link>
       <description>
         <![CDATA[<h4>Dev admits the game once ate an entire CPU core</h4> <p>Former Microsoft engineer Dave Plummer has come clean and admitted that the worst bug he ever shipped was in... Pinball.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241790</guid>
-      <pubDate>2025-09-09T07:15:14Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241790</guid>
     </item>    <item>
       <title>UK toughens Online Safety Act with ban on self-harm content</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/selfharm_online_safety_act/</link>
       <description>
         <![CDATA[<h4>Charities welcome change, but critics warn the law is already too broad</h4> <p>Tech companies will be legally required to prevent content involving self-harm from appearing on their platforms – rather than responding and removing it – in a planned amendment to the UK&#39;s controversial Online Safety Act.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241783</guid>
-      <pubDate>2025-09-09T06:29:09Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241783</guid>
     </item>    <item>
       <title>Use it or lose it: AI may cause you to forget some skills</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/gartner_ai_skill_loss_prediction/</link>
       <description>
         <![CDATA[<h4>Prepare to take tests in stuff you already know how to do, just to keep you sharp</h4> <p>Using AI may cause some of your skills atrophy, and your employer therefore needs to take steps to keep you sharp.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241805</guid>
-      <pubDate>2025-09-09T04:58:10Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241805</guid>
     </item>    <item>
       <title>Forget disappearing messages – now Signal will store 100MB of them for you for free</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/storage_message_signal/</link>
       <description>
         <![CDATA[<h4>Including messages sent to users, a potential problem for the privacy-conscious</h4> <p><strong>Updated</strong>  Encrypted messaging app Signal is rolling out a free storage system for its users, with extra space if folks are willing to pay for it.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241801</guid>
-      <pubDate>2025-09-09T03:33:10Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241801</guid>
     </item>    <item>
       <title>Citrix products sold under old licenses will get glitchy unless users upgrade</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/citrix_licensing_shift/</link>
       <description>
         <![CDATA[<h4>Brace for ‘loss of functionality’ next April, and an upsell conversation before that deadline</h4> <p>Citrix on Monday advised its customers that products acquired under its current file-based licensing system will experience “loss of functionality and potential impacts on end-users” next April, and that upgrading to a new cloudy licensing scheme is the way to avoid potential problems.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241802</guid>
-      <pubDate>2025-09-09T01:49:43Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241802</guid>
     </item>    <item>
       <title>Intel shuffles executive deckchairs, tosses 30-year veteran chief overboard</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/intel_executive_changes/</link>
       <description>
         <![CDATA[<h4>Michelle Johnston Holthaus&#39; tenure as Intel Products CEO lasted just ten months</h4> <p>Intel’s CEO of Products, Michelle Johnston Holthaus, will leave the business, as part of the latest executive shake-up since CEO Lip Bu Tan seized the company&#39;s reins.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241803</guid>
-      <pubDate>2025-09-08T23:59:56Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241803</guid>
     </item>    <item>
       <title>WhatsApp&#39;s former security boss claims reporting infosec failings led to ousting</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/whatsapp_exsecurity_head_sues_company/</link>
       <description>
         <![CDATA[<h4>Meta shrugs off allegations of improper dismissal, ignoring privacy and security</h4> <p>WhatsApp&#39;s former head of security, Attaullah Baig, has filed a lawsuit against its parent company, Meta, alleging that the social media megalith retaliated against him for reporting security failings that violated legal commitments.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241800</guid>
-      <pubDate>2025-09-08T23:36:03Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241800</guid>
     </item>    <item>
       <title>Perseverance Meets the Megabreccia</title>
       <link>https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/</link>
       <description>
         <![CDATA[Written by By Henry Manelski, Ph.D. student at Purdue University Last week, the Perseverance rover began an exciting new journey. Driving northwest of the Soroya ridge, Perseverance entered an area filled with a diverse range of boulders that the science team believes could hold clues to Mars’ early history. The terrain we are exploring is […]]]>
       </description>
-      <guid>https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/</guid>
-      <pubDate>2025-09-08T23:32:18Z</pubDate>
+      <guid>cid://https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/</guid>
     </item>    <item>
       <title>Chip designer SiFive aims to cram more RISC-V cores into AI chips</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/sifive_ai_cpu_cores/</link>
       <description>
         <![CDATA[<h4>Why reinvent the CPU wheel when you can spend your time engineering a way out of your dependence on Nvidia?</h4> <p>Every quarter, Nvidia CEO Jensen Huang is asked about the growing number of custom ASICs encroaching on his AI empire, and each time he downplays the threat, arguing that GPUs offer superior programmability in a rapidly changing environment.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241798</guid>
-      <pubDate>2025-09-08T22:46:56Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241798</guid>
     </item>    <item>
       <title>Linus has had enough of links that point to &#39;stupid useless garbage&#39;</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/linus_linux_links/</link>
       <description>
         <![CDATA[<h4>&#39;Stop this garbage already!&#39;</h4> <p>The latest release candidate for Linux is out, but before its release, Linus Torvalds had something he wanted to get off his chest in his usual style.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241797</guid>
-      <pubDate>2025-09-08T22:08:16Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241797</guid>
     </item>    <item>
       <title>Joseph McNeil, Member of &#39;Greensboro Four&#39; Who Protested Segregation at Lunch Counters, Dies at 83</title>
       <link>https://www.smithsonianmag.com/smart-news/joseph-mcneil-member-of-greensboro-four-who-protested-deegregation-at-lunch-counters-dies-at-83-180987303/</link>
@@ -471,31 +416,27 @@
         <![CDATA[McNeil and three other Black freshmen held a famous sit-in at Woolworth’s in 1960, which inspired peaceful protests across the country]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9t9usKUzEmxHHJdrWcw5yerXKfs=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/7c/ce7c4722-2c18-482d-9917-875797d5449c/gettyimages-1457707031.jpg" length="" type="" />
-      <pubDate>2025-09-08T21:38:27Z</pubDate>
     </item>    <item>
       <title>The US government has no idea how many cybersecurity pros it employs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/us_govt_lacks_clarity_infosec_workforce/</link>
       <description>
         <![CDATA[<h4>Auditors find federal cybersecurity workforce data messy, incomplete, and unreliable</h4> <p>The US federal government employs tens of thousands of cybersecurity professionals at a cost of billions per year – or at least it thinks it does, as auditors have found the figures are incomplete and unreliable. …</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241794</guid>
-      <pubDate>2025-09-08T21:02:16Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241794</guid>
     </item>    <item>
       <title>Drift massive attack traced back to loose Salesloft GitHub account</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/drift_breach_entry_salesloft_github/</link>
       <description>
         <![CDATA[<h4>Meanwhile the victim count grows</h4> <p>The Salesloft Drift breach that compromised &#34;hundreds&#34; of companies including Google, Palo Alto Networks, and Cloudflare, all started with miscreants gaining access to the Salesloft GitHub account in March.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241796</guid>
-      <pubDate>2025-09-08T19:52:03Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241796</guid>
     </item>    <item>
       <title>KDE Plasma 6 on FreeBSD using Wayland</title>
       <link>https://www.osnews.com/story/143305/kde-plasma-6-on-freebsd-using-wayland/</link>
       <description>
         <![CDATA[This year, 2025, the KDE Community held its yearly conference in Berlin, Germany. On the way I reinstalled FreeBSD on my Frame.work 13 laptop in another attempt to get KDE Plasma 6 Wayland working. Short story: yes, KDE Plasma 6 Wayland on FreeBSD works. ↫ Adriaan de Groot Adriaan de Groot is a long-time KDE developer and FreeBSD package maintainer, and he&#8217;s published a short but detailed guide on setting up a KDE Plasma desktop on FreeBSD using Wayland instead of X11. With the Linux world slowly but finally leaving X11 behind, the BSD world really has little choice but to follow, especially if they want to continue offering the two major desktop environments. Most of KDE and GNOME are focused on Linux, and the BSDs have always kind of tagged along for the ride, and over the coming years that&#8217;s going to mean they&#8217;ll have to invest more in making Wayland run comfortably on BSD. Of course, the other option would be the KDE and GNOME experience on the BSDs slowly degrading over time, but I think especially FreeBSD is keen to avoid that fate, while OpenBSD and NetBSD seem a bit more hands-off in the desktop space. FreeBSD is investing heavily in its usability as a desktop operating system, and that&#8217;s simply going to mean getting Wayland support up to snuff. Not only will KDE and GNOME slowly depend more and more on Wayland, Xorg itself will also become less maintained than it already is. Sometimes, the current just takes you where it&#8217;s going.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143305</guid>
-      <pubDate>2025-09-08T19:46:54Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143305</guid>
     </item>    <item>
       <title>These Ant Queens Seem to Defy Biology: They Lay Eggs That Hatch Into Another Species</title>
       <link>https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/</link>
@@ -503,23 +444,20 @@
         <![CDATA[Iberian harvester ant queens produce offspring of their own species and of the builder harvester ant, seemingly by cloning males]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ic3gghpztk0G1zYQgflCG6Ld1UA=/420x240/filters:focal(1250x702:1251x703)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/06/9a06586e-4baa-4f67-8588-3c1cb53bc84f/coverhorizontal.jpg" length="" type="" />
-      <pubDate>2025-09-08T19:23:17Z</pubDate>
     </item>    <item>
       <title>Unofficial Windows 11 requirements bypass tool now allows you to disable all AI features</title>
       <link>https://www.osnews.com/story/143303/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/</link>
       <description>
         <![CDATA[If you need to reinstall Windows 11, you&#8217;re most likely going to need to do a hell of a lot of post-install work to make Windows 11 somewhat manageable. There&#8217;s countless tools to make this process a little bit easier, and one of them, Flyoobe, just got a major update to aid in removing all the &#8220;AI&#8221; nonsense Microsoft is forcing down the throats of its users. Starting off with version 1.7, people who hate the way Microsoft has been stuffing AI features into Windows 11 will be pleased to know that there is an OOBE view that allows you to discover and disable all AI and Copilot features after the installation of the OS. Moreover, the OOBE view that handles bloat removal has been enhanced too, and now allows presets ranging from Minimal to Full, along with the ability to load custom presets from GitHub. ↫ Usama Jawad at Neowin If Microsoft actually cared about the users of its Windows operating system, they would simply include an advanced options view during installation, in which you could customise your installation. Instead, users have to rely on what are essentially hacks to get to a point where their operating system installation can serve their needs, which is batshit insane to me. I&#8217;m glad projects like Flyoobe exists, but they shouldn&#8217;t have to.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143303</guid>
-      <pubDate>2025-09-08T19:08:48Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143303</guid>
     </item>    <item>
       <title>Dev snared in crypto phishing net, 18 npm packages compromised</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/dev_falls_for_phishing_email/</link>
       <description>
         <![CDATA[<h4>Popular npm packages debug, chalk, and others hijacked in massive supply chain attack</h4> <p>Crims have added backdoors to at least 18 npm packages after developer Josh Junon inadvertently authorized a reset of the two-factor authentication protecting his npm account.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241795</guid>
-      <pubDate>2025-09-08T19:06:11Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241795</guid>
     </item>    <item>
       <title>Scientists Investigate the Bacteria That Colonized Extinct Mammoths—and Uncover the Oldest Known Microbial DNA From a Host</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-investigate-the-bacteria-that-colonized-extinct-mammoths-and-uncover-the-oldest-known-microbial-dna-from-a-host-180987299/</link>
@@ -527,15 +465,13 @@
         <![CDATA[Some of the microbes might have been benign or helpful, while others could have caused deadly diseases]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/DGOpqVBwPJ1UbL5lt4Au69KsiNc=/420x240/filters:focal(1489x964:1490x965)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/65/34/6534062a-3ebe-4c3e-b9ca-3367457d05f3/mammoth_tooth_photo_by_love_dalen.jpg" length="" type="" />
-      <pubDate>2025-09-08T18:32:42Z</pubDate>
     </item>    <item>
       <title>AI chip startup d-Matrix aspires to rack scale with JetStream I/O cards</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/dmatrix_jetstream_nic/</link>
       <description>
         <![CDATA[<h4>Who needs HBM when you can juggle SRAM speed and LPDDR bulk across racks</h4> <p>AI chip startup d-Matrix is pushing into rack scale with the introduction of its JetStream I/O cards, which are designed to allow larger models to be distributed across multiple servers or even racks while minimizing performance bottlenecks.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241793</guid>
-      <pubDate>2025-09-08T18:25:18Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241793</guid>
     </item>    <item>
       <title>Sweden Releases an Official Cultural Canon That Features IKEA and &#39;Pippi Longstocking&#39;—but Not ABBA</title>
       <link>https://www.smithsonianmag.com/smart-news/sweden-releases-an-official-cultural-canon-that-featutes-ikea-and-pippi-longstocking-but-no-abba-180987298/</link>
@@ -543,55 +479,48 @@
         <![CDATA[Critics of the list, which features 100 artworks and other cultural creations from before 1975, say the selections are exclusionary]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cP-hjorL6L0ttMjgZH4Zf3cv1iM=/420x240/filters:focal(4128x2752:4129x2753)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/14/3f/143fb04a-40e5-4061-809a-106cae023d76/gettyimages-1258864117.jpg" length="" type="" />
-      <pubDate>2025-09-08T18:19:17Z</pubDate>
     </item>    <item>
       <title>Salt Typhoon used dozens of domains, going back five years. Did you visit one?</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/salt_typhoon_domains/</link>
       <description>
         <![CDATA[<h4>Plus ties to the Chinese spies who hacked Barracuda email gateways</h4> <p>Security researchers have uncovered dozens of domains used by Chinese espionage crew Salt Typhoon to gain stealthy, long-term access to victim organizations going back as far as 2020.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241792</guid>
-      <pubDate>2025-09-08T17:47:06Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241792</guid>
     </item>    <item>
       <title>Microsoft hits pause on Copilot ... in SQL Server Management Studio</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/microsoft_copilot_ssms/</link>
       <description>
         <![CDATA[<h4>Only a temporary reprieve until GitHub Copilot integration is up and running</h4> <p>Microsoft&#39;s policy of inserting Copilot into every corner of its portfolio is on brief hiatus, at least in the first preview of SQL Server Management Studio (SSMS) 22.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241784</guid>
-      <pubDate>2025-09-08T16:33:10Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241784</guid>
     </item>    <item>
       <title>Perplexity wants to get discounted AI products into the US government too</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/perplexity_us_govt_ai_discount/</link>
       <description>
         <![CDATA[<h4>$0.25-per-agency deal not finalized, and no FedRAMP approval either - so don’t get excited</h4> <p>Perplexity has entered the race to inject AI into the federal government with a new public sector version of its AI search engine, another AI discount, and a pledge to start enforcing new security measures for government-related use, which weren&#39;t applied by default until now. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241788</guid>
-      <pubDate>2025-09-08T15:57:49Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241788</guid>
     </item>    <item>
       <title>Tiny Tubes Reveal Clues to the Evolution of Complex Life</title>
       <link>https://www.quantamagazine.org/tiny-tubes-reveal-clues-to-the-evolution-of-complex-life-20250908/</link>
       <description>
         <![CDATA[Scientists have identified tubulin structures in primitive Asgard archea that may have been the precursor of our own cellular skeletons.            <p>The post <a href="https://www.quantamagazine.org/tiny-tubes-reveal-clues-to-the-evolution-of-complex-life-20250908/" target="_blank">Tiny Tubes Reveal Clues to the Evolution of Complex Life</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <guid>https://www.quantamagazine.org/?p=153907</guid>
-      <pubDate>2025-09-08T15:11:33Z</pubDate>
+      <guid>cid://https://www.quantamagazine.org/?p=153907</guid>
     </item>    <item>
       <title>Ubuntu users left waiting after Canonical&#39;s servers take weekend off</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/canonical_server_outage/</link>
       <description>
         <![CDATA[<h4>Package queues jammed until Monday despite brief downtime</h4> <p>When is an outage not an outage? According to Canonical&#39;s forum, it&#39;s when a 36-minute server disruption creates a multi-day backlog that leaves users unable to install or update Ubuntu systems.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241782</guid>
-      <pubDate>2025-09-08T14:59:08Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241782</guid>
     </item>    <item>
       <title>French datacenter biz signs 12-year nuclear pact with EDF</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/data4_edf_nuclear_deal/</link>
       <description>
         <![CDATA[<h4>Data4 to secure 40 MW of atomic juice as part of long-term low-carbon strategy</h4> <p>The datacenter industry&#39;s unquenchable thirst for nuclear energy has seen French bit barn operator Data4 sign a 12 year supply deal with EDF.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241780</guid>
-      <pubDate>2025-09-08T14:12:55Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241780</guid>
     </item>    <item>
       <title>Man Who Tried to Smuggle 600 Looted Ancient Egyptian Artifacts in Three Checked Suitcases Is Going to Prison</title>
       <link>https://www.smithsonianmag.com/smart-news/man-who-tried-to-smuggle-600-looted-ancient-egyptian-artifacts-in-three-checked-suitcases-is-going-to-prison-180987297/</link>
@@ -599,103 +528,90 @@
         <![CDATA[Ashraf Omar Eldarir failed to declare the stolen goods when he entered the United States through New York's John F. Kennedy International Airport in 2020]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qVNHuKzI-xJ4wcqpwenl8wf3V9g=/420x240/filters:focal(1079x719:1080x720)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/05/52/05521edb-4393-4d53-ab8d-ec2e5d7a0301/screenshot_2025-09-04_at_11846pm.jpeg" length="" type="" />
-      <pubDate>2025-09-08T13:55:05Z</pubDate>
     </item>    <item>
       <title>Nova Launcher’s open source release blocked by its owners, despite contractual obligations</title>
       <link>https://www.osnews.com/story/143297/nova-launchers-open-source-release-blocked-by-its-owners-despite-contractual-obligations/</link>
       <description>
         <![CDATA[Three years ago, the incredibly popular Android launcher Nova Launcher was acquired by Branch, a mobile links and analytics company. Understandably, people were worried this would spell the end of the launcher, as it would certainly become a vessel for tracking and mobile advertising. Weirdly enough, this never actually happened &#8211; instead, Nova just kind of fizzled out. First, virtually the entire Nova team was laid off two years after the acquisition, save for Nova&#8217;s original founder, Kevin Barry, who was not let go. Development had come to a halt already at that point, and ever since, it&#8217;s been quiet. Until this weekend. Barry posted on his blog that he left Branch, and thus is no longer working on Nova Launcher. You&#8217;d think this would be the final nail in the coffin for this once rather ubiquitous launcher, but that&#8217;s actually not the case, as Barry explains. For the past several months I have been preparing the Open Source release of Nova Launcher. This work included cleaning up the codebase, reviewing licenses, removing or replacing proprietary code, and coordinating with legal to ensure a proper release. When Branch acquired Nova in 2022, Branch then-CEO and founder Alex Austin made several public commitments to the community about Nova&#8217;s future, including statements about open sourcing:  However I was ultimately asked to stop working on Nova Launcher and the open sourcing effort. ↫ Kevin Barry Basically, one of the reasons Barry felt comfortable selling Nova to Branch was a contractual agreement &#8211; backed up by public statements from then-CEO of Branch, Alex Austin &#8211; that if Barry were to leave Branch, he would be allowed to release Nova as open source. It seems that this promise is not being honoured by the new CEO, for unclear reasons, leaving what was arguably one of the best launchers for Android in limbo. Nobody&#8217;s working on it anymore, and a contractual agreement is not being honoured, for whatever reason. One of the people who used to work on Nova but was part of that first round of layoffs, Cliff Wade, is now trying to raise awareness of this stalemate. He&#8217;s trying to talk to former colleagues at Branch, and trying to put some pressure on Branch to honour their contractual obligations and public promises. I&#8217;m fully behind this effort, because up until the institutional neglect set in, Nova was one of the very best Android applications, clearly made by people who truly understood what Android enthusiasts wanted out of a highly configurable launcher. Branch needs to honour its word, and allow Barry to continue preparing the release of Nova as open source. Head on over to Branch&#8217;s contact page, and let them know they need to release Nova as open source &#8211; in a polite, constructive manner, of course. The people working at Branch are just ordinary folk like you and I, and I will not stand for anyone being aggressive, insulting, or otherwise committing harassment towards Branch and its employees.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143297</guid>
-      <pubDate>2025-09-08T13:47:17Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143297</guid>
     </item>    <item>
       <title>PACER buckles under MFA rollout as courts warn of support delays</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/pacer_mfa_rollout/</link>
       <description>
         <![CDATA[<h4>Busy lawyers on hold for five hours as staff handhold users into deploying the security measure</h4> <p>US courts have warned of delays as PACER, the system for accessing court documents, struggles to support users enrolling in its mandatory MFA program.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241779</guid>
-      <pubDate>2025-09-08T13:15:11Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241779</guid>
     </item>    <item>
       <title>Red Hat back-office team to be Big and Blue whether they like it or not</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/red_hatters_to_be_big/</link>
       <description>
         <![CDATA[<h4>Legal, HR, Finance and Accounting moving to IBM from 2026. Engineering and others staying put... for now</h4> <p>IBM-owned subsidiary Red Hat is docking a bunch of its back-office staff, along with the techies that support them, into the mothership.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241762</guid>
-      <pubDate>2025-09-08T12:31:11Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241762</guid>
     </item>    <item>
       <title>CISA sounds alarm over TP-Link wireless routers under attack</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/infosec_in_brief/</link>
       <description>
         <![CDATA[<h4>Plus: Google clears up Gmail concerns, NSA drops SBOM bomb, Texas sues PowerSchool, and more</h4> <p><strong>Infosec in brief</strong>  The US Cybersecurity and Infrastructure Security Agency (CISA) has said two flaws in routers made by Chinese networking biz TP-Link are under active attack and need to be fixed – but there&#39;s another flaw being exploited as well.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241776</guid>
-      <pubDate>2025-09-08T11:46:14Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241776</guid>
     </item>    <item>
       <title>UK tech minister booted out in weekend cabinet reshuffle</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/uk_cabinet_reshuffle_tech/</link>
       <description>
         <![CDATA[<h4>Fallout from latest political drama sparks a changing of the guard</h4> <p>UK prime minister Sir Keir Starmer cleared out the officials in charge of tech and digital law in a dramatic cabinet reshuffle at the weekend.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241781</guid>
-      <pubDate>2025-09-08T11:20:15Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241781</guid>
     </item>    <item>
       <title>Pre-owned software trial kicks off in UK as Microsoft pushes resale ban</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/microsoft_valuelicensing_latest/</link>
       <description>
         <![CDATA[<h4>ValueLicensing&#39;s David spins the sling for another go at the Windows Goliath</h4> <p>Microsoft&#39;s tussle with UK-based reseller ValueLicensing over the sale of secondhand licenses returns to the UK&#39;s Competition Appeal Tribunal this week, with the Windows behemoth now claiming that selling pre-owned Office and Windows software is unlawful.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241778</guid>
-      <pubDate>2025-09-08T10:45:34Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241778</guid>
     </item>    <item>
       <title>So much for the paperless office: UK government inks £900M deal for printers etc.</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/uk_government_printer_deal/</link>
       <description>
         <![CDATA[<h4>Four-year framework hands Canon and pals a license to print money</h4> <p>The UK government has awarded 12 suppliers places on a framework deal that could see it spend up to £900 million on printers, photocopiers, and other multifunctional devices.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241759</guid>
-      <pubDate>2025-09-08T09:32:09Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241759</guid>
     </item>    <item>
       <title>VMware&#39;s in court again. Customer relationships rarely go this wrong</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/vmware_in_court_opinion/</link>
       <description>
         <![CDATA[<h4>Have you ever seen the &#39;Are we the baddies&#39; sketch, Broadcom?</h4> <p><strong>Opinion</strong>  If you&#39;re a tech company marketing manager writing white papers, you&#39;ll love a juicy pull quote. That&#39;s where a client says something so lovely about you, you can pull it out of the main text and reprint it in a big font in the middle of the page.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241757</guid>
-      <pubDate>2025-09-08T08:30:11Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241757</guid>
     </item>    <item>
       <title>Playing ball games in the datacenter was obviously stupid, but we had to win the league</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/who_me/</link>
       <description>
         <![CDATA[<h4>You&#39;re out, forever!</h4> <p><strong>Who, Me?</strong>  Monday mornings see the resumption of endless coopetition between IT folks and those they strive to serve but sometimes disappoint. <i>The Register</i> celebrates that eternal struggle with a new edition of Who, Me? It&#39;s the reader-contributed column that offers the chance to admit failures and celebrate escapes.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241728</guid>
-      <pubDate>2025-09-08T07:30:08Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241728</guid>
     </item>    <item>
       <title>Anthropic to pay at least $1.5 billion to authors whose work it knowingly pirated</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/anthropic_settles_author_lawsuit/</link>
       <description>
         <![CDATA[<h4>Expect more ‘slush funds’ of this sort, analyst tells <i>El Reg</i></h4> <p>AI upstart Anthropic has agreed to create a $1.5 billion fund it will use to compensate authors whose works it used to train its models without seeking or securing permission.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241777</guid>
-      <pubDate>2025-09-08T05:32:10Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241777</guid>
     </item>    <item>
       <title>All IT work to involve AI by 2030, says Gartner, but jobs are safe</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/08/ai_impact_it_departments/</link>
       <description>
         <![CDATA[<h4>Analyst firm doesn’t rate OpenAI as an enterprise-ready vendor</h4> <p>All work in IT departments will be done with the help of AI by 2030, according to analyst firm Gartner, which thinks massive job losses won’t result.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241775</guid>
-      <pubDate>2025-09-08T03:40:07Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241775</guid>
     </item>    <item>
       <title>Microsoft, Linode, warn of cloud latency spikes due to Middle East submarine cable problems</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/07/asia_tech_news_roundup/</link>
       <description>
         <![CDATA[<h4>PLUS: Lenovo to sell bonkers clip-on-screen; AWS NZ rumblings; Google helps catch South Korean phish</h4> <p><strong>Asia In Brief</strong>  Microsoft has warned that customers of its Azure cloud may experience heightened latency due to a submarine cable outage in the Red Sea.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241774</guid>
-      <pubDate>2025-09-07T23:18:24Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241774</guid>
     </item>    <item>
       <title>California’s New Privacy Rules Are a National Signal</title>
       <link>https://puri.sm/posts/californias-new-privacy-rules-are-a-national-signal/</link>
@@ -703,80 +619,70 @@
         <![CDATA[<p>California’s New Privacy Rules Are a National Signal The California Privacy Protection Agency’s latest regulations redraw the playing field. This is the first set of rules in the U.S. to require: Annual, independent cybersecurity audits for high-risk businesses Comprehensive risk assessments for key data processing activities Bias and privacy impact reviews for automated decision-making systems [&#8230;]</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/californias-new-privacy-rules-are-a-national-signal/">California’s New Privacy Rules Are a National Signal</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=84134</guid>
-      <pubDate>2025-09-07T19:21:41Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84134</guid>
     </item>    <item>
       <title>It&#39;s AI all the way down as Google&#39;s AI cites web pages written by AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/07/googles_ai_cites_written_by_ai/</link>
       <description>
         <![CDATA[<h4>Like a snake eating its own tail</h4> <p><strong>ai-pocalypse</strong>  Welcome to the age of ouroboros. Google’s AI Overviews (AIOs), which now often appear at the top of organic search results, are drawing around 10 percent of their sources from documents written by ... other AIs, according to a recent report.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241772</guid>
-      <pubDate>2025-09-07T11:50:09Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241772</guid>
     </item>    <item>
       <title>After nearly half a century in deep space, every ping from Voyager 1 is a bonus</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/07/48_years_voyager_1/</link>
       <description>
         <![CDATA[<h4>Powered by plutonium, running on pure stubbornness</h4> <p>It is almost half a century since Voyager 1 was launched from Cape Canaveral in Florida on a mission to study Jupiter, Saturn, and the atmosphere of Titan. It continues to send data back to Earth.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241760</guid>
-      <pubDate>2025-09-07T10:31:12Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241760</guid>
     </item>    <item>
       <title>As Xi and Putin chase immortality, let&#39;s talk about digital presidents-for-life</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/07/immortal_digital_dictators/</link>
       <description>
         <![CDATA[<h4>And maybe even dictator Brain-in-a-box-as-a-Service</h4> <p><strong>Opinion</strong>  China&#39;s President Xi Jinping and Russia&#39;s Vladimir Putin were this week reportedly <a target="_blank" rel="nofollow" href="https://www.theguardian.com/world/2025/sep/03/hot-mic-catches-vladimir-putin-xi-jinping-discussing-organ-transplants-immortality">overheard</a> chatting about the possibility that organ transplants might help them achieve immortality.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241752</guid>
-      <pubDate>2025-09-07T08:30:07Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241752</guid>
     </item>    <item>
       <title>KDE releases first alpha of KDE Linux</title>
       <link>https://www.osnews.com/story/143294/kde-releases-first-alpha-of-kde-linux/</link>
       <description>
         <![CDATA[Akademy 2025, KDE&#8217;s yearly developer and community event, this year held in Berlin, Germany. Amid all the various talks and informal meetings, the KDE project also officially unveiled the first alpha release of KDE Linux, a project they&#8217;ve been working on for a while now. KDE Linux will serve as a &#8220;reference implementation&#8221; of KDE Plasma and official KDE applications, for use by developers and regular users alike. KDE Linux will have a quick update cycle, to ensure its users always have the latest releases of KDE Plasma and various other KDE applications and related technologies. It may, however, not be as optimised as other KDE distributions, and the intent of KDE Linux is not to compete with or replace other distributions. The goal is to show other distributions how KDE itself intends for its software to be presented. So, what is KDE Linux based on? KDE Linux is an “immutable base OS” Linux distro with a core created using Arch Linux packages — but it should not be considered part of the Arch family of distributions. Some very fundamental Arch technologies (like the pacman package manager!) have been removed. KDE software is then built on top of this core using KDE&#8217;s homegrown development tools and Flatpak. KDE Linux leans on Systemd for a great deal of functionality. Updates are atomic and image-based, with the last 5 OS images cached on disk for safety. Only the Wayland session is supported. Apps primarily come from Flatpak and Snap. ↫ KDE Linux&#8217; website The overview of the KDE Linux&#8217; architecture provides some more details. I like that it eschews GRUB in favour of systemd-boot (GRUB should be retired in this, the year of our lord 2025) and relies on systemd-sysupdate for operating system updates. Of note is that the mention of Snap is merely for convenience&#8217;s sake as an option; Snap is not a requirement, nor are any Snap packages installed by default. Since this is the first alpha release, expect bugs and issues, and don&#8217;t use it on any production machines until they&#8217;re a few more releases in.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143294</guid>
-      <pubDate>2025-09-06T11:42:51Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143294</guid>
     </item>    <item>
       <title>No more waiting for lines: New Windows keyboard shortcuts output em and en dashes with ease</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/06/windows_keyboard_shortcuts_dashes/</link>
       <description>
         <![CDATA[<h4>Insider builds have them now. Everyone else will have to employ other methods</h4> <p><strong>Hands on</strong>  Writers rely on the humble em dash (—) and en dash (–) to add flavor and function to their sentences. But typing these characters, which are slightly longer than a hyphen, has been a challenge in Windows, up until now.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241747</guid>
-      <pubDate>2025-09-06T11:28:15Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241747</guid>
     </item>    <item>
       <title>Reg hack attends job interview hosted by AI avatar, struggles to exit uncanny valley</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/06/ai_job_interview_experience/</link>
       <description>
         <![CDATA[<h4>If an employer asks you do to this, demand a trial run so you can learn the rules of this strange new world</h4> <p>A startup called Job Bolt has created AI avatars that conduct job interviews. <i>The Register</i> couldn&#39;t help but give it a try and can report that it&#39;s an unnerving experience.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241732</guid>
-      <pubDate>2025-09-06T08:33:07Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241732</guid>
     </item>    <item>
       <title>OpenAI reorg at risk as Attorneys General push AI safety</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_reorg_at_risk/</link>
       <description>
         <![CDATA[<h4>California, Delaware AGs blast ChatGPT shop over chatbot safeguards</h4> <p>The Attorneys General of California and Delaware on Friday wrote to OpenAI&#39;s board of directors, demanding that the AI company take steps to ensure its services are safe for children.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241773</guid>
-      <pubDate>2025-09-05T23:18:50Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241773</guid>
     </item>    <item>
       <title>US cuffs 475 at Hyundai–LG battery plant – feds tout largest single-site raid</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/05/ice_hyundai_arrests/</link>
       <description>
         <![CDATA[<h4>South Korean government protests as workers left up s**t creek</h4> <p>The Homeland Security Investigations (HSI) arm of US Immigration and Customs Enforcement says it executed its largest single-site raid to date, detaining 475 people at the Hyundai–LG battery plant under construction in Georgia.…</p>]]>
       </description>
-      <guid>tag:theregister.com,2005:story241771</guid>
-      <pubDate>2025-09-05T22:30:34Z</pubDate>
+      <guid>cid://tag:theregister.com,2005:story241771</guid>
     </item>    <item>
       <title>EU hits Google with €2.95B fine for monopoly abuse</title>
       <link>https://www.osnews.com/story/143289/eu-hits-google-with-e2-95b-fine-for-monopoly-abuse/</link>
       <description>
         <![CDATA[The European Commission today fined Google €2.95 billion for abusing its dominant position in the advertising technology market, despite the threat of trade retribution from U.S President Donald Trump. The American tech giant is alleged to have distorted the market for online ads by favoring its own services to the detriment of competitors, advertisers and online publishers, the EU executive said in a press release. ↫ Jacob Parry at Politico Not only does Google have to pay a pretty hefty fine &#8211; for corporate standards, as it&#8217;s still peanuts when looking at Google&#8217;s revenue, because class justice is real &#8211; the company also has to submit a plan within 60 days detailing how it&#8217;s going to end the illegal behaviour. Of course, Google is going to contest the fine, but the company is also running to daddy to cry and whine about how those damn Europeans won&#8217;t let it engage in illegal behaviour. Last night, all the big US technology CEOs gathered for a dinner with Donald Trump, each taking turns gratuitously thanking and praising the big man for his amazing achievements during these first few months of his administration. Tim Cook, Bill Gates, Mark Zuckerberg, Sam Altman, and many more were all bending the knee and kissing the ring in what can only be described as a borderline pornographic display of fealty. Among them was, of course, the CEO of Google, Sundar Pichai, one day after Google laughed its way out of the courtroom. “Well you had a very good day yesterday,” Trump said, calling on Pichai at the Thursday evening dinner. “Google had a very good day yesterday. Do you want to talk about that big day you had yesterday?”  “I’m glad it’s over,” Pichai responded to Trump, causing an eruption of laughter from the other table guests. “It’s a long process,” Pichai said. “Appreciate that your administration had a constructive dialogue, and we were able to get it to some resolution.” ↫ Jennifer Elias at CNBC Mind you, several of those &#8220;other table guests&#8221; are also being investigated by a variety of arms of the US government for monopoly abuse and antritrust violations, and I&#8217;m sure their laughter was almost entirely self-serving. If Google of all monopolies can slime its way out of any serious consequences, what hope does that leave that the other tech giants will ever have to face the consequences of their abuse? At least the European Union seems to be mostly holding its head high so far, but one can&#8217;t help but wonder how long the Phoenician princess can hold off the bull. The fact of the matter is that the European and US economies are heavily intertwined, and we let ourselves become utterly dependent on the US for our defense, too, and with Trump not deterred by Pyrrhic victories, a fallout is definitely not out of the question.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143289</guid>
-      <pubDate>2025-09-05T21:15:42Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143289</guid>
     </item>    <item>
       <title>Fallingwater&#39;s Roof Is Leaking. Can This $7 Million Renovation Protect Frank Lloyd Wright&#39;s Masterpiece?</title>
       <link>https://www.smithsonianmag.com/smart-news/fallingwaters-roof-is-leaking-can-this-7-million-renovation-protect-frank-lloyd-wrights-masterpiece-180987288/</link>
@@ -784,15 +690,13 @@
         <![CDATA[Leaky roofs and windows have long plagued the famous home in Pennsylvania. Experts say the three-year project will address decades of water damage and prevent similar problems from worsening in the future]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/M-ENXz_r2hy8fibjMQFPVhVEUO4=/420x240/filters:focal(2884x1922:2885x1923)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/2b/e02b94dc-b97d-46ad-9a0e-1e5a261f552b/fallingwater_classic_view_from_the_sw_elevation__courtesy_of_the_western_pennsylvania_conserva.jpeg" length="" type="" />
-      <pubDate>2025-09-05T21:14:09Z</pubDate>
     </item>    <item>
       <title>Vibecoding: nothing more than meowing nuns</title>
       <link>https://www.osnews.com/story/143283/vibecoding-nothing-more-than-meowing-nuns/</link>
       <description>
         <![CDATA[We&#8217;re all being told that &#8220;AI&#8221; is revolutionizing programming. Whether the marketing is coming from Cursor, Copilot, Claude, Google, or the countless other players in this area, it&#8217;s all emphasizing the massive productivity and speed gains programmers who use &#8220;AI&#8221; tools will achieve. The relentless marketing is clearly influencing both managers and programmers alike, with the former forcing &#8220;AI&#8221; down their subordinates&#8217; throats, and the latter claiming to see absolutely bizarre productivity gains. The impact of the marketing is real &#8211; people are being fired, programmers are expected to be ridiculously more productive without commensurate pay raises, and anyone questioning this new corporate gospel will probably end up on the chopping block next. It&#8217;s like the industry has become a nunnery, and all the nuns are meowing like cats. The reality seems to be, though, that none of these &#8220;AI&#8221; programming tools are making anyone more productive. Up until recently, Mike Judge truly believed &#8220;AI&#8221; was making him a much more productive programmer &#8211; until he ran the numbers of his own work, and realised that he was not one bit more productive at all, and his point is that if the marketing is true, and programmers are indeed becoming vastly more productive, where&#8217;s the evidence? And yet, despite the most widespread adoption one could imagine, these tools don’t work. My argument: If so many developers are so extraordinarily productive using these tools, where is the flood of shovelware? We should be seeing apps of all shapes and sizes, video games, new websites, mobile apps, software-as-a-service apps — we should be drowning in choice. We should be in the middle of an indie software revolution. We should be seeing 10,000 Tetris clones on Steam. ↫ Mike Judge He proceeded to collect tons of data about new software releases on the iOS App Store, the Play Store, Steam, GitHub, and so on, as well as the number of domain registrations, and the numbers paint a very different picture from the exuberant marketing. Every single metric is flat. There&#8217;s no spike in new games, new applications, new repositories, new domain registrations. It&#8217;s all proceeding as if &#8220;AI&#8221; had had zero effect on productivity. This whole thing is bullshit. So if you&#8217;re a developer feeling pressured to adopt these tools — by your manager, your peers, or the general industry hysteria — trust your gut. If these tools feel clunky, if they&#8217;re slowing you down, if you&#8217;re confused how other people can be so productive, you&#8217;re not broken. The data backs up what you&#8217;re experiencing. You&#8217;re not falling behind by sticking with what you know works. If you’re feeling brave, show your manager these charts and ask them what they think about it. If you take away anything from this it should be that (A) developers aren&#8217;t shipping anything more than they were before (that’s the only metric that matters), and (B) if someone — whether it&#8217;s your CEO, your tech lead, or some Reddit dork — claims they&#8217;re now a 10xer because of AI, that’s almost assuredly untrue, demand they show receipts or shut the fuck up. ↫ Mike Judge Extraordinary claims require extraordinary evidence, and the evidence just isn&#8217;t there. The corporate world has an endless list of productivity metrics &#8211; some more reliable than others &#8211; and I have the sneaking suspicion we&#8217;re only fed marketing instead of facts because none of those metrics are showing any impact of &#8220;AI&#8221; whatsoever, because if they did, we know the &#8220;AI&#8221; pushers wouldn&#8217;t shut the fuck up about it. Show me more than meowing nuns, and I&#8217;ll believe the hype is real.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143283</guid>
-      <pubDate>2025-09-05T20:46:00Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143283</guid>
     </item>    <item>
       <title>Wildfire Sweeps Through Historic California Gold Rush Town Settled by Chinese Miners</title>
       <link>https://www.smithsonianmag.com/smart-news/wildfire-sweeps-through-historic-california-gold-rush-town-settled-by-chinese-miners-180987294/</link>
@@ -800,7 +704,6 @@
         <![CDATA[Caused by a massive lightning storm, the 6-5 Fire destroyed the post office and several other buildings in the small town of Chinese Camp]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XU_xD5ws2ueuxwmEdAPipW8HCZM=/420x240/filters:focal(2761x1906:2762x1907)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/5d/1b5dfbd0-2435-43af-8b33-872f07fae8f4/gettyimages-2233539358.jpg" length="" type="" />
-      <pubDate>2025-09-05T19:31:36Z</pubDate>
     </item>    <item>
       <title>Solar Flares May Be Way Hotter Than Researchers Previously Thought</title>
       <link>https://www.smithsonianmag.com/smart-news/solar-flares-may-be-more-than-six-times-hotter-than-researchers-previously-thought-finds-new-research-180987296/</link>
@@ -808,15 +711,13 @@
         <![CDATA[Scientists recalculated the temperature of solar flares using modern data and new models]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q4BctJzau2XwNuGngOtowf2O5iM=/420x240/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/88/f9887a5b-f9aa-4e30-8bcf-6a2e60bee587/solar-flares-over-6-ti.jpg" length="" type="" />
-      <pubDate>2025-09-05T17:45:03Z</pubDate>
     </item>    <item>
       <title>Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe</title>
       <link>https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/</link>
       <description>
         <![CDATA[Recent progress on both analog and digital simulations of quantum fields foreshadows a future in which quantum computers could illuminate phenomena that are far too complex for even the most powerful supercomputers.            <p>The post <a href="https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/" target="_blank">Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <guid>https://www.quantamagazine.org/?p=153852</guid>
-      <pubDate>2025-09-05T14:09:17Z</pubDate>
+      <guid>cid://https://www.quantamagazine.org/?p=153852</guid>
     </item>    <item>
       <title>See When Fabulous Fall Foliage Will Peak in Your State With This Interactive Map</title>
       <link>https://www.smithsonianmag.com/smart-news/see-when-fabulous-fall-foliage-will-peak-in-your-state-with-this-interactive-map-180987289/</link>
@@ -824,23 +725,20 @@
         <![CDATA[Use the tool's week-by-week, county-by-county predictions to plan your autumnal adventures—and make the most of the 2025 leaf-peeping season]]>
       </description>
       <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/7d/ee7d0127-b5c8-4eac-a3b7-91c27dabeb86/fall-map-2025-v2.gif" length="" type="" />
-      <pubDate>2025-09-05T13:54:42Z</pubDate>
     </item>    <item>
       <title>Even the birthplace of the world wide web wants you to use adblockers</title>
       <link>https://www.osnews.com/story/143279/even-the-birthplace-of-the-world-wide-web-wants-you-to-use-adblockers/</link>
       <description>
         <![CDATA[I recently removed all advertising from OSNews, and one of the reasons to do so is that online ads have become a serious avenue for malware and other security problems. Advertising on the web has become such a massive security risk that even the very birthplace of the world wide web, CERN, now strongly advises its staff to use adblockers. If you value your privacy and, also important, if you value the security of your computer, consider installing an ad blocker. While there is a plethora of them out there, the Computer Security Office’s members use, e.g. uBlock origin (Firefox) or Origin Lite (Chrome), AdblockPlus, Ghostery and Privacy Badger of the US-based Electronic Frontier Foundation. They all come in free (as in “free beer”) versions for all major browsers and also offer more sophisticated features if you are willing to pay. Once enabled, and depending on your desired level of protection, they can provide another thorough layer of protection to your device – and subsequently to CERN. ↫ CERN&#8217;s Computer Security Office I think it&#8217;s high time lawmakers take a long, hard look at the state of online advertising, and consider taking strong measures like banning online tracking and targeted advertising. Even the above-board online advertising industry is built atop dubious practices and borderline criminal behaviour, and things only get worse from there. Malicious actors even manage to infiltrate Google&#8217;s own search engine with dangerous ads, and that&#8217;s absolutely insane when you think about it. I&#8217;ve reached the point where I consider any website with advertising to be disrespectful and putting its visitors at risk, willingly and knowingly. Adblockers are not just a nice-to-have, but an absolute necessity for a pleasant and safe browsing experience, and that should be an indicator that we need to really stop and think what we&#8217;re doing here.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143279</guid>
-      <pubDate>2025-09-04T22:56:03Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143279</guid>
     </item>    <item>
       <title>The GNU Guix System’s lack of manpower problems</title>
       <link>https://www.osnews.com/story/143277/the-gnu-guix-systems-lack-of-manpower-problems/</link>
       <description>
         <![CDATA[As if Francesco P. Lovergine heard my prayers, he wrote an article detailing his experiences with using Guix. Considering he&#8217;s a longtime Debian developer, we&#8217;re looking at someone who knows a thing or two about Linux. In the last few months, I have installed and upgraded my second preferred GNU/Linux system, GNU Guix, on multiple boxes. Regarding that system, I have already written a few introductory posts in the recent past. This is an update about my experiences as a user and developer. I still think Guix is a giant step forward in packaging and management, in comparison with Debian and other distributions, for elegance and inner coherence. ↫ Francesco P. Lovergine Lovergine found some problems with Guix, most notably those stemming from a lack of manpower. It&#8217;s not a hugely popular package management system and associated distribution, so the team of developers behind it is relatively small, and this leads to issues like outdated packages, problems arising from updates, and possible security issues. There&#8217;s no specific security team, for instance, but at least it&#8217;s easy to roll back updates due to the nature of Guix. Another problem, partially related to the lack of manpower, stems from the fact that the GNU Guix System uses some unusual systems, most notably GNU Shepard. This init system is an alternative to the widely-used systemd, alongside other alternatives like runit (which I use through Void Linux), but due to its relative lack of popularity, it can take some time for more complex packages to be made compatible with it. Especially some packages &#8211; like GNOME &#8211; that depend more and more on systemd are going to lag behind on Guix. For anyone with decent Linux experience and a willingness to tinker, I don&#8217;t think any of these issues &#8211; and the others Lovergine mentions &#8211; are dealbreakers. Sure, you might not want to deploy the GNU Guix System on a production system or anything that requires solid, strong security, but for personal and enthusiast use it seems like an interesting and somewhat unorthodox Linux distribution.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143277</guid>
-      <pubDate>2025-09-04T22:38:19Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143277</guid>
     </item>    <item>
       <title>Journalists Stumble Across Real Estate Listing With a Photo of a Nazi-Looted Painting Hanging Above the Couch</title>
       <link>https://www.smithsonianmag.com/smart-news/journalists-stumble-across-real-estate-listing-with-a-photo-of-a-nazi-looted-painting-hanging-above-the-couch-180987284/</link>
@@ -848,7 +746,6 @@
         <![CDATA[The family of a Nazi official has turned in "Portrait of a Lady," an 18th-century artwork by the Italian painter Giuseppe Ghislandi. The painting had been stolen from a Jewish art dealer during World War II]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Cqswh-2RWRzihOIU_5hbs54Rg3M=/420x240/filters:focal(3194x2160:3195x2161)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8e/0b/8e0b0e34-1d2b-427a-8e2a-c58b19783fd9/gettyimages-2232923925.jpg" length="" type="" />
-      <pubDate>2025-09-04T20:29:51Z</pubDate>
     </item>    <item>
       <title>Early Penguins Had Long, Dagger-Like Beaks for Skewering Fish, New Zealand Fossils Reveal</title>
       <link>https://www.smithsonianmag.com/smart-news/early-penguins-had-long-dagger-like-beaks-for-skewering-fish-new-zealand-fossils-reveal-180987287/</link>
@@ -856,15 +753,13 @@
         <![CDATA[Paleontologists describe four new species of extinct ancestral penguins that help shed light on how the iconic birds evolved after dinosaurs went extinct]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ENzxdkhhH-aw-PhOsG_cX8lobFA=/420x240/filters:focal(540x314:541x315)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/ef/4fef4b83-1090-4772-a5a6-33eec53d53f8/penguins_canterburymuseum_tomsimpson.jpg" length="" type="" />
-      <pubDate>2025-09-04T19:43:44Z</pubDate>
     </item>    <item>
       <title>Microsoft publishes source code to Microsoft BASIC Version 1.1</title>
       <link>https://www.osnews.com/story/143274/microsoft-publishes-source-code-to-microsoft-basic-version-1-1/</link>
       <description>
         <![CDATA[This assembly language source code represents one of the most historically significant pieces of software from the early personal computer era. It is the complete source code for Microsoft BASIC Version 1.1 for the 6502 microprocessor, originally developed and copyrighted by Microsoft in 1976-1978. ↫ Microsoft BASIC Version 1.1 GitHub page An amazing historical artifact to have, and I&#8217;m glad we now have the source code available for posterity. I hope Microsoft gets on with it, though, as I think it&#8217;s high-time we get official open source releases of things like Windows 3.x, 95, earlier Office releases, and so on.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143274</guid>
-      <pubDate>2025-09-04T19:17:04Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143274</guid>
     </item>    <item>
       <title>Did Vermeer Make a Copy of His Own Painting? A New Exhibition Invites You to Be the Judge</title>
       <link>https://www.smithsonianmag.com/smart-news/did-vermeer-make-a-copy-of-his-own-painting-a-new-exhibition-invites-you-to-be-the-judge-180987282/</link>
@@ -872,7 +767,6 @@
         <![CDATA[Two nearly identical artworks, at least one of them by the renowned Dutch master, hang side-by-side for the first time in three centuries]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HUeOh4wVR24yw3a1S17lmqFm16E=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/56/e8/56e8672a-f8e4-4ab7-bad3-aa3421769617/vermeer-portraits.jpg" length="" type="" />
-      <pubDate>2025-09-04T18:24:14Z</pubDate>
     </item>    <item>
       <title>Bees Manage to Build the Best Honeycombs, Even on Imperfect Foundations</title>
       <link>https://www.smithsonianmag.com/smart-news/bees-manage-to-build-the-best-honeycombs-even-on-imperfect-foundations-180987272/</link>
@@ -880,7 +774,6 @@
         <![CDATA[In a new study, scientists tested how honeybees adapt to construct their hives on 3D-printed foundations of varying sizes]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/kRe0J-vSIEHhe9PwhLUGlq7w5mY=/420x240/filters:focal(1440x1029:1441x1030)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8a/af/8aaf798d-20a9-442a-a728-11b4e1651772/busy-bees-can-build-th.jpg" length="" type="" />
-      <pubDate>2025-09-04T17:50:02Z</pubDate>
     </item>    <item>
       <title>From Fashion to Fidget Spinners, This London Exhibition Celebrates Disabled Design, Innovation and Joy</title>
       <link>https://www.smithsonianmag.com/smart-news/from-fashion-to-fidget-spinners-this-london-exhibition-celebrates-disabled-design-innovation-and-joy-180987269/</link>
@@ -888,7 +781,6 @@
         <![CDATA["Design and Disability" features 170 objects created by disabled artists, designers, photographers, inventors and more]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ZlMWW2yMM3S8ps3mmPi2LiT4-dE=/420x240/filters:focal(4096x2731:4097x2732)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/29/b2299446-0e30-4afb-a10f-ecf7c8e42c1f/installation_image_of_design_and_disability_at_va_south_kensington_17.jpg" length="" type="" />
-      <pubDate>2025-09-04T15:58:58Z</pubDate>
     </item>    <item>
       <title>These Bumpy Little Seahorses Are Amazing Camouflage Artists. Scientists Pinpoint the Gene Loss Behind Their Special Traits</title>
       <link>https://www.smithsonianmag.com/smart-news/these-bumpy-little-seahorses-are-amazing-camouflage-artists-scientists-pinpoint-the-gene-loss-behind-their-special-traits-180987274/</link>
@@ -896,7 +788,6 @@
         <![CDATA[Bargibant’s pygmy seahorses look almost exactly like the gorgonian corals they live in, thanks in part to their unusually stubby snouts]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/U2z5SrcNN8ZIfoWA_IXt7IlgccU=/420x240/filters:focal(2106x1424:2107x1425)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/85/2b85782a-38f2-4f2d-89e3-b2cf6ec4cc65/warum_das_zwerg-seepferdchen_1.jpeg" length="" type="" />
-      <pubDate>2025-09-04T15:36:00Z</pubDate>
     </item>    <item>
       <title>Could These 80,000-Year-Old Stones Be the World&#39;s Earliest Known Arrowheads?</title>
       <link>https://www.smithsonianmag.com/smart-news/could-these-80000-year-old-stones-be-the-worlds-earliest-known-arrowheads-180987256/</link>
@@ -904,7 +795,6 @@
         <![CDATA[A new study suggests that fragments unearthed at an archaeological site in Uzbekistan look like other examples of arrowheads created thousands of years later]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nPmOvbhUXweqqLwcvtWaQr_mIEw=/420x240/filters:focal(912x608:913x609)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/b5/60b5ff2b-3f06-4b6a-8394-fa766eaf4180/journalpone0328390g004.jpeg" length="" type="" />
-      <pubDate>2025-09-03T19:59:02Z</pubDate>
     </item>    <item>
       <title>Two Sniffer Dogs Might Have Just Found a Lost Population of Critically Endangered Rhinos</title>
       <link>https://www.smithsonianmag.com/smart-news/two-sniffer-dogs-might-have-just-found-a-lost-population-of-critically-endangered-rhinos-180987279/</link>
@@ -912,7 +802,6 @@
         <![CDATA[Yagi and Quinn identified scat that was likely left by a Sumatran rhinoceros in Indonesia’s Way Kambas National Park, where scientists thought the animals had disappeared]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/inGiseY5iZSGTQbIhVyPDgrRfBw=/420x240/filters:focal(800x411:801x412)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/ac/01ac1409-32ee-4510-add7-7801f2525ebb/unnamed_26.jpg" length="" type="" />
-      <pubDate>2025-09-03T19:29:49Z</pubDate>
     </item>    <item>
       <title>Restoring Bison to Yellowstone Has &#39;Reawakened&#39; the Ecosystem as the Large Animals Migrate, Study Suggests</title>
       <link>https://www.smithsonianmag.com/smart-news/restoring-bison-to-yellowstone-has-reawakened-the-ecosystem-as-the-large-animals-migrate-study-suggests-180987278/</link>
@@ -920,7 +809,6 @@
         <![CDATA[An analysis of plant diversity and soil health across the bison migration corridor suggests free-roaming bison lead to more nutrient-rich plants]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XBstRc_oRDBypIuQ2S6Ey8yQpT0=/420x240/filters:focal(1440x960:1441x961)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/d5/b2d54d54-37ae-48f9-a0ae-60edddff4180/when-bison-are-room-to.jpg" length="" type="" />
-      <pubDate>2025-09-03T17:37:39Z</pubDate>
     </item>    <item>
       <title>Florida&#39;s Only Private Home Designed by Frank Lloyd Wright Is Officially on the Market</title>
       <link>https://www.smithsonianmag.com/smart-news/floridas-only-private-home-designed-by-frank-lloyd-wright-is-officially-on-the-market-180987275/</link>
@@ -928,7 +816,6 @@
         <![CDATA[Built in 1954, the Spring House is located on the outskirts of Tallahassee. The 2,040-square-foot residence is a rare example of the renowned architect's hemicycle design]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j1woRl0olux-LZdeCrJ3_iK41nQ=/420x240/filters:focal(624x416:625x417)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/fa/c9fa6c61-247c-4d51-a91d-dc1f39c5ad6b/eyjidwnrzxqioijidwlszg91dc1wcm9kdwn0aw9uiiwia2v5ijoizgf0yxmvmzmwodiznjivnty2ogy0ndfkmgq5mdnmywi.jpeg" length="" type="" />
-      <pubDate>2025-09-03T17:27:38Z</pubDate>
     </item>    <item>
       <title>See Thomas Jefferson&#39;s Handwritten Copy of the Declaration of Independence</title>
       <link>https://www.smithsonianmag.com/smart-news/see-thomas-jeffersons-handwritten-copy-of-the-declaration-of-independence-180987277/</link>
@@ -936,39 +823,34 @@
         <![CDATA[The rare document will be on view for just three days at the New York Public Library next year in celebration of America's 250th anniversary]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HkcvuAEus81lEL__Fokws4QwiRY=/420x240/filters:focal(2667x1803:2668x1804)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/a0/43a00abd-1779-4dd4-b579-576186af2e11/sasb_2019_07_02_declaration_of_independence-00969.jpg" length="" type="" />
-      <pubDate>2025-09-03T14:32:31Z</pubDate>
     </item>    <item>
       <title>What Is the Fourier Transform?</title>
       <link>https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/</link>
       <description>
         <![CDATA[Amid the chaos of revolutionary France, one man’s mathematical obsession gave way to a calculation that now underpins much of mathematics and physics. The calculation, called the Fourier transform, decomposes any function into its parts.            <p>The post <a href="https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/" target="_blank">What Is the Fourier Transform?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <guid>https://www.quantamagazine.org/?p=153717</guid>
-      <pubDate>2025-09-03T13:53:31Z</pubDate>
+      <guid>cid://https://www.quantamagazine.org/?p=153717</guid>
     </item>    <item>
       <title>Towards Rust in Windows drivers</title>
       <link>https://www.osnews.com/story/143263/towards-rust-in-windows-drivers/</link>
       <description>
         <![CDATA[Microsoft has been working on allowing driver developers to write Windows drivers in Rust, and the company has published a progress report detailing this effort. In the windows-drivers-rs GitHub repository you&#8217;ll find a bunch of Rust crates for writing Windows drivers in Rust. Using these crates, driver developers can create valid WDM, KMDF, and UMDF driver binaries that load and run on a Windows 11 machine.  Drivers written in this manner still need to make use of unsafe blocks for interacting with the Windows operating system, but can take advantage of Rust’s rich type system as well as its safety guarantees for business logic implemented in safe Rust.  Though there is still significant work to be done on abstracting away these unsafe blocks (more on this below), these Rust drivers can load and run on Windows systems just like their C counterparts. ↫ Nate Deisinger at the Windows Driver Developer Blog As mentioned above, there&#8217;s still work to be done with reducing the amount of unsafe Rust code in these drivers, and Microsoft is working on just that. The company is developing safe Rust bindings and abstractions, as well as additional safe structs and APIs beyond the Windows Driver Framework, but due to the complexity of Windows drivers, this will take a while. Microsoft states that it believes memory-safe languages like Rust are the future of secure software development, but of course, in true Microsoft fashion, the company doesn&#8217;t want to alienate developers writing traditional drivers in C either.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143263</guid>
-      <pubDate>2025-09-03T13:12:41Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143263</guid>
     </item>    <item>
       <title>Why self-host 9front?</title>
       <link>https://www.osnews.com/story/143261/why-self-host-9front/</link>
       <description>
         <![CDATA[In 9front, we host almost all parts of our development process on 9front &#8212; the git repositories, the mailing list, the ci/cd, the web site, and everything else. (The exception is #cat-v IRC) We use the system regularly, both when hacking on the system and in our personal use. Personally, I write most of my code on Plan 9, read my emails there, and often drive Linux from there. I run my home network off of a 9front CPU server, and host my websites off it. I know other people around 9front do similar. ↫ Ori Bernstein It clearly shows, too. If you dive into the 9front community, you&#8217;ll quickly realise everything runs on 9front, and that does create a sense that the operating system is capable, and that its developers have confidence and pride in their work. Exploring 9front myself, it feels awesome to see that all the documentation I&#8217;m reading is being hosted on 9front machines. I&#8217;m going to relaunch the OSNews Gemini capsule, this time hosted on 9front, and since countless 9front users host their own Gemini capsules on 9front, I feel confident that I&#8217;ve got people to talk to when I need help. I just need the time to actually sit down and figure out the minutiae of 9front, because it truly is unique.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143261</guid>
-      <pubDate>2025-09-03T12:53:07Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143261</guid>
     </item>    <item>
       <title>Class justice: Google gets away with a gentle pat on the wrist for its illegal monopoly abuse</title>
       <link>https://www.osnews.com/story/143257/class-justice-google-gets-away-with-a-gentle-pat-on-the-wrist-for-its-illegal-monopoly-abuse/</link>
       <description>
         <![CDATA[A little over a year ago, DC District Court Judge Amit Mehta ruled that Google is a monopolist and violated US antitrust law. Today, Mehta ruled that while Google violated the law, there won&#8217;t be any punishment for the search giant. They don&#8217;t have to divest Chrome or Android, they can keep paying third parties to preload their services and products, and they can keep paying Apple €20 billion a year to be the default search engine on iOS. Mehta declined to grant some of the more ambitious proposals from the Justice Department to remedy Google’s behavior and restore competition to the market. Besides letting Google keep Chrome, he’ll also let the company continue to pay distribution partners for preloading or placement of its search or AI products. But he did order Google to share some valuable search information with rivals that could help jumpstart their ability to compete, and bar the search giant from making exclusive deals to distribute its search or AI assistant products in ways that might cut off distribution for rivals. ↫ Lauren Feiner at The Verge Mehta granted Google a massive win here, further underlining that as long as you&#8217;re wealthy, a corporation, or better yet, both, you are free to break the law and engage in criminal behaviour. The only thing you&#8217;ll get is some mild negative press and a gentle pat on the wrist, and you can be on your merry way to continue your illegal behaviour. None of it is surprising, except perhaps for the brazenness of the class justice on display here. The events during and course of this antitrust case mirrors those of the antitrust case involving Microsoft, over 25 years ago. Microsoft, too, had a long, documented, and proven history of illegal behaviour, but like Google today, also got away with a similar gentle pat on the wrist. It&#8217;s likely that the antitrust cases currently running against Apple and Amazon will end in similar gentle pats on the wrist, further solidifying that you can break the law all you want, as long as you&#8217;re rich. Thank god the real criminal scum is behind bars.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143257</guid>
-      <pubDate>2025-09-02T21:38:09Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143257</guid>
     </item>    <item>
       <title>Scientists Discover Key Evolutionary Changes to the Pelvis That Helped Humans Walk Upright</title>
       <link>https://www.smithsonianmag.com/smart-news/scientists-discover-key-evolutionary-changes-to-the-pelvis-that-helped-humans-walk-upright-180987273/</link>
@@ -976,7 +858,6 @@
         <![CDATA[A new study delves into the development of the ilium, the largest bone in the pelvis, and the genes that underpin its formation]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Xu1PNQkpzwZiC_43ZtqLJPeW9kU=/420x240/filters:focal(640x427:641x428)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8e/e7/8ee7c57c-56fe-4f34-a3b5-b7b1c749c6f3/pedestrian-8037900_1280.jpg" length="" type="" />
-      <pubDate>2025-09-02T21:01:14Z</pubDate>
     </item>    <item>
       <title>Banksy Transformed This Police Box Into a Piranha Tank. Soon, the Artwork Will Go on Permanent Display in London</title>
       <link>https://www.smithsonianmag.com/smart-news/banksy-transformed-this-police-box-into-a-piranha-tank-soon-the-artwork-will-go-on-permanent-display-in-london-180987276/</link>
@@ -984,7 +865,6 @@
         <![CDATA[The piece was part of the anonymous artist's animal series that appeared around the city last summer. In 2026, it will make its debut at the London Museum]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GUku0-wQQcMVufGQjpTiTyorccM=/420x240/filters:focal(3864x2576:3865x2577)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/a9/97a97685-3391-4982-b26d-f6a05d6b7e76/gettyimages-2165922802.jpg" length="" type="" />
-      <pubDate>2025-09-02T20:07:15Z</pubDate>
     </item>    <item>
       <title>See the Stunning Butterfly Nebula in a New Image From the James Webb Space Telescope</title>
       <link>https://www.smithsonianmag.com/smart-news/see-the-stunning-butterfly-nebula-in-a-new-image-from-the-james-webb-space-telescope-180987267/</link>
@@ -992,7 +872,6 @@
         <![CDATA[The observations offer an unprecedented look at the center of the nebula, which is shrouded in a band of dust]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TnXlCQ_9FnTdVXPRE_jY_IjXIXQ=/420x240/filters:focal(685x600:686x601)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/2b/ba2b14b0-fd5c-4b88-9b74-571a3f62882a/butterfly_nebula_ngc_6302_webb_alma_image.jpg" length="" type="" />
-      <pubDate>2025-09-02T17:02:24Z</pubDate>
     </item>    <item>
       <title>She Found a Tattered Logbook in the Trash. It Turned Out to Be a Rare Record From the 1941 Pearl Harbor Attack</title>
       <link>https://www.smithsonianmag.com/smart-news/she-found-a-tattered-logbook-in-the-trash-it-turned-out-to-be-a-rare-record-from-the-1941-pearl-harbor-attack-180987259/</link>
@@ -1000,15 +879,13 @@
         <![CDATA[The National Archives has recovered the volume, which includes more than 500 pages of data from March 1941 to June 1942. It had been tucked away in storage for half a century]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/l4cr1mUIXju0HjnY94tUuafB_AI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/15/95/159550f8-547f-43a2-9a81-3896527c8629/pearl-harbor-log.jpg" length="" type="" />
-      <pubDate>2025-09-02T16:22:39Z</pubDate>
     </item>    <item>
       <title>A gentle introduction to CP/M</title>
       <link>https://www.osnews.com/story/143248/a-gentle-introduction-to-cp-m/</link>
       <description>
         <![CDATA[For an operating system that was once incredibly popular and expected to become a standard for a long time to come, it&#8217;s remarkable how little experience most people have with CP/M. In fact, many conventions and historical limitations you might be aware of &#8211; like the 8.3 filename convention of DOS &#8211; come straight from CP/M, as it influenced DOS considerably. It&#8217;s quite easy to emulate CP/M today, but it&#8217;s just old and different enough that getting into it might be a but confusing, but that&#8217;s where Eerie Linux&#8217;s introduction to CP/M comes into play. This article is just what the headline promises: an introduction to the CP/M operating system. No previous knowledge of 1970s and early ’80s operating systems is required. However, some familiarity with Linux or a BSD-style operating system is assumed, as the setup process suggested here involves using a package manager and command-line tools. But why explore CP/M in the 2020s? There are (at least) two good reasons: 1) historical education 2) gaining a better understanding of how computers actually work. ↫ Eerie Linux This article is a great way to get up and running with CP/M fairly quickly, and I intend to do just that when I find some time to mess around with it. What are some of the core, crucial applications that one should try on CP/M? Things people would be using back when CP/M was properly in use?]]>
       </description>
-      <guid>https://www.osnews.com/?p=143248</guid>
-      <pubDate>2025-09-02T15:06:28Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143248</guid>
     </item>    <item>
       <title>Shipwreck Hunter Finds Large Freighter That Sank in Lake Huron During the &#39;White Hurricane&#39; 112 Years Ago</title>
       <link>https://www.smithsonianmag.com/smart-news/shipwreck-hunter-finds-large-freighter-that-sank-in-lake-huron-during-the-white-hurricane-112-years-ago-180987263/</link>
@@ -1016,39 +893,34 @@
         <![CDATA[The 529-foot-long vessel is submerged 190 feet deep, resting upside down on the American side of the lake]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/5mutmiGppY15pyF2J5F0D-HdgdA=/420x240/filters:focal(1024x556:1025x557)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/88/b88807db-cccb-4486-b5e7-3aa86e92b0ac/2048px-james_carruthers_underway.jpg" length="" type="" />
-      <pubDate>2025-09-02T14:07:00Z</pubDate>
     </item>    <item>
       <title>‘World Models,’ an Old Idea in AI, Mount a Comeback</title>
       <link>https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/</link>
       <description>
         <![CDATA[You’re carrying around in your head a model of how the world works. Will AI systems need to do the same?            <p>The post <a href="https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/" target="_blank">‘World Models,’ an Old Idea in AI, Mount a Comeback</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <guid>https://www.quantamagazine.org/?p=153460</guid>
-      <pubDate>2025-09-02T13:17:56Z</pubDate>
+      <guid>cid://https://www.quantamagazine.org/?p=153460</guid>
     </item>    <item>
       <title>You no longer need JavaScript</title>
       <link>https://www.osnews.com/story/143246/you-no-longer-need-javascript/</link>
       <description>
         <![CDATA[My goal with this article is to share my perspectives on the web, as well as introduce many aspects of modern HTML/CSS you may not be familiar with. I’m not trying to make you give up JavaScript, I’m just trying to show you everything that’s possible, leaving it up to you to pick what works best for whatever you’re working on. I think there’s a lot most web developers don’t know about CSS. And I think JS is often used where better alternatives exist. So, let me show you what’s out there.  ↫ Lyra Rebane As someone who famously can&#8217;t program, the one thing I like about CSS is that I find it quite readable and generally easy to figure out how I can change things like colours, fonts, and so on. Of course, anything more complex will still break my brain, but even the more complex elements are still at least nominally readable, and it&#8217;s often quite easy to determine what a piece of CSS does, even if I don&#8217;t know how to manipulate it or how to get even close to any desired result. It&#8217;s like how the fact I learned Latin and French in high school makes it possible for me to nominally understand a text in Spanish, even if I have never spent a single second studying it. JavaScript, on the other hand, is just a black box, incomprehensible gibberish I can&#8217;t make heads or tails of, which in my mind goes against what the web is supposed to be about. The web is supposed to be an open platform in more ways than one, and the ability to make a website should not be hidden behind complex programming languages or website builder gatekeepers. The fact JavaScript is a resource hog and misused all over the place sure doesn&#8217;t help, either. If you want to know more about the current state of CSS, the linked article by Lyra Rebane is a great place to start. I wish I had the skills to finally give OSNews a full makeover, but alas, I don&#8217;t.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143246</guid>
-      <pubDate>2025-09-02T11:39:31Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143246</guid>
     </item>    <item>
       <title>We need to seriously think about what to do with C++ modules</title>
       <link>https://www.osnews.com/story/143244/we-need-to-seriously-think-about-what-to-do-with-c-modules/</link>
       <description>
         <![CDATA[Jussi Pakkanen, creator of the Meson build system, has some words about modules in C++. If C++ modules can not show a 5× compilation time speedup (preferably 10×) on multiple existing open source code base, modules should be killed and taken out of the standard. Without this speedup pouring any more resources into modules is just feeding the sunk cost fallacy. That seems like a harsh thing to say for such a massive undertaking that promises to make things so much better. It is not something that you can just belt out and then mic drop yourself out. So let&#8217;s examine the whole thing in unnecessarily deep detail. You might want to grab a cup of $beverage before continuing, this is going to take a while. ↫ Jussi Pakkanen I&#8217;m not a programmer so I&#8217;m leaving this for the smarter people among us to debate.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143244</guid>
-      <pubDate>2025-09-02T11:19:44Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143244</guid>
     </item>    <item>
       <title>Redox gets COSMIC Readers and tons of bugfixes</title>
       <link>https://www.osnews.com/story/143242/redox-gets-cosmic-readers-and-tons-of-bugfixes/</link>
       <description>
         <![CDATA[The months keep slipping through our fingers, during this, our slow but relentless march towards the inevitability of certain death, so it&#8217;s time for another month of improvements to Redox, the general-purpose microkernel operating system written in Rust. This past month the work to bring various components of system76&#8217;s COSMIC desktop environment to Redox continues, with COSMIC Reader making its way to Redox. Jeremy Soller, creator of the Redox project and one of its primary engineers, will be using COSMIC Reader running on Redox to hold a presentation about Redox at RustConf. Aside from that important port, this month &#8211; in the middle of Summer on in this hemisphere &#8211; seems to mostly consist of a ton of smaller bugfixes and improvements. Relibc, Redox&#8217; C standard library, has seen a ton of work, as usual, a few ports were fixed and updated, like vim and OpenSSH, Orbital now has fullscreen support, and so, so much more.]]>
       </description>
-      <guid>https://www.osnews.com/?p=143242</guid>
-      <pubDate>2025-09-01T21:05:01Z</pubDate>
+      <guid>cid://https://www.osnews.com/?p=143242</guid>
     </item>    <item>
       <title>How Much Can a Giant Waterlily Hold? See One Carry 183 Pounds Before Sinking, Winning a Social Media Contest</title>
       <link>https://www.smithsonianmag.com/smart-news/how-much-can-a-giant-waterlily-hold-see-one-carry-183-pounds-before-sinking-winning-a-social-media-contest-180987268/</link>
@@ -1056,7 +928,6 @@
         <![CDATA[Now in its third year, the Waterlily Weigh-Off invites public gardens and zoos to show off the strength of their aquatic plants]]>
       </description>
       <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/bf/edbf11a0-be26-444e-aae2-2cd5c41a2b65/20250814_155406598_ios.jpg" length="" type="" />
-      <pubDate>2025-08-29T21:09:15Z</pubDate>
     </item>    <item>
       <title>The Gun Linked to Emmett Till&#39;s Murder Is Now on Display at a Museum in Mississippi</title>
       <link>https://www.smithsonianmag.com/smart-news/the-gun-linked-to-emmett-tills-murder-is-now-on-display-at-a-museum-in-mississippi-180987266/</link>
@@ -1064,7 +935,6 @@
         <![CDATA[The weapon is thought to have belonged to J.W. Milam, one of the two men who kidnapped, tortured and killed the Black teenager for whistling at a white woman in a grocery store in 1955]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q164-ySZgMHwgQRFAQvi0jGMM3E=/420x240/filters:focal(1024x575:1025x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/3c/af3c6334-d19e-4db1-8186-63a89327d794/539383389_1182039187292462_17200861569485898_n.jpg" length="" type="" />
-      <pubDate>2025-08-29T19:53:39Z</pubDate>
     </item>    <item>
       <title>Researchers Create Rechargeable, Glow-in-the-Dark Succulents</title>
       <link>https://www.smithsonianmag.com/smart-news/researchers-create-rechargeable-glow-in-the-dark-succulents-180987265/</link>
@@ -1072,7 +942,6 @@
         <![CDATA[The team hopes their work, which is still in the early phases, might one day build the foundation for a novel sustainable lighting system]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lUBw-y4m9eGlLSs6wVEAHnXEFBQ=/420x240/filters:focal(350x210:351x211)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/a7/e2a73750-beea-4bd1-b993-bcc565792f8d/low-res_1_1.jpg" length="" type="" />
-      <pubDate>2025-08-29T19:42:50Z</pubDate>
     </item>    <item>
       <title>America&#39;s Largest-Ever Exhibition on Raphael Will Open at the Met Next Year</title>
       <link>https://www.smithsonianmag.com/smart-news/anericas-largest-ever-exhibition-on-raphael-will-open-at-the-met-next-year-180987252/</link>
@@ -1080,7 +949,6 @@
         <![CDATA[More than 200 of the Renaissance master's works will be on display in the landmark show, which debuts in March 2026]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/L36IyHTQj9duP2dmbkHuuyVlRP8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/60/d560a5cb-481f-4625-8dc5-9b4c30e5fae3/raphael.jpg" length="" type="" />
-      <pubDate>2025-08-29T18:24:52Z</pubDate>
     </item>    <item>
       <title>Astronomers Spot a Rare Quadruple Star System in the Milky Way, Shedding Light on Mysterious Brown Dwarfs</title>
       <link>https://www.smithsonianmag.com/smart-news/astronomers-spot-a-rare-quadruple-star-system-in-the-milky-way-shedding-light-on-mysterious-brown-dwarfs-180987241/</link>
@@ -1088,7 +956,6 @@
         <![CDATA[The discovery can help astronomers better understand these little-known objects nicknamed “failed stars”]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/MSU7W2HtuDVyz_jQ7TQAMaocSrM=/420x240/filters:focal(1200x903:1201x904)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/61/3561667c-29ec-4def-baf3-1a08c7a9bba2/rare-quadruple-star-sy.jpg" length="" type="" />
-      <pubDate>2025-08-29T18:05:08Z</pubDate>
     </item>    <item>
       <title>Oldest Known Fossil of an Armored Ankylosaur Is &#39;Far Weirder&#39; Than Paleontologists Expected</title>
       <link>https://www.smithsonianmag.com/smart-news/oldest-known-fossil-of-an-armored-ankylosaur-is-far-weirder-than-paleontologists-expected-180987258/</link>
@@ -1096,7 +963,6 @@
         <![CDATA[The 13-foot dinosaur, covered in long spikes fused into its bones, suggests ankylosaurs developed tail weapons 30 million years earlier than thought]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NKE7ezqKHkcvTvNhyc554-K24rk=/420x240/filters:focal(960x494:961x495)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/6e/a76edc1d-9693-422d-adc3-37f74d63ea00/spicomellus-dinosaur-reconstruction-full-width-matthew-dempseyjpgthumb19201920.png" length="" type="" />
-      <pubDate>2025-08-29T16:31:00Z</pubDate>
     </item>    <item>
       <title>This Christian Cross Found in Abu Dhabi Illuminates the Lives of Monks Who Lived 1,400 Years Ago</title>
       <link>https://www.smithsonianmag.com/smart-news/this-christian-cross-found-in-abu-dhabi-illuminates-the-lives-of-monks-who-lived-1400-years-ago-180987248/</link>
@@ -1104,7 +970,6 @@
         <![CDATA[Researchers discovered the intricately decorated artifact at an archaeological site near a seventh-century C.E. monastery on the island of Sir Bani Yas]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9pVUMzy_rxu5Gcg232oMNGdaZWI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/d6/cbd6eb69-9473-4975-b6a6-b5c9dcd63cb6/cross.jpg" length="" type="" />
-      <pubDate>2025-08-29T16:09:33Z</pubDate>
     </item>    <item>
       <title>The Quiet Revolution: GNU/Linux Crosses 6% Desktop Market Share—And It’s Just the Beginning</title>
       <link>https://puri.sm/posts/the-quiet-revolution-gnu-linux-crosses-6-desktop-market-share-and-its-just-the-beginning/</link>
@@ -1112,8 +977,7 @@
         <![CDATA[<p>For decades, the phrase “Year of the Linux Desktop” has been tossed around like a tech industry punchline. But now, it’s no longer a meme—it’s a movement. According to the U.S. government’s own analytics, GNU/Linux has officially crossed the 6% threshold in desktop usage. That’s not hype. That’s hard data.</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/the-quiet-revolution-gnu-linux-crosses-6-desktop-market-share-and-its-just-the-beginning/">The Quiet Revolution: GNU/Linux Crosses 6% Desktop Market Share—And It’s Just the Beginning</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=84000</guid>
-      <pubDate>2025-08-29T01:21:31Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84000</guid>
     </item>    <item>
       <title>Google’s New Sideloading Restrictions: Why Purism Thinks Differently</title>
       <link>https://puri.sm/posts/googles-new-sideloading-restrictions-why-purism-thinks-differently/</link>
@@ -1121,8 +985,7 @@
         <![CDATA[<p>Google’s New Sideloading Restrictions: Why Purism Thinks Differently Google is introducing a new developer verification system claiming to increase security and combat malware (in the name of controlling users).  Google’s “security” push is a double-edged sword. It may help fight a certain type of malware. But it also reminds us all that Android’s identity is [&#8230;]</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/googles-new-sideloading-restrictions-why-purism-thinks-differently/">Google’s New Sideloading Restrictions: Why Purism Thinks Differently</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=84185</guid>
-      <pubDate>2025-08-28T21:52:46Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84185</guid>
     </item>    <item>
       <title>Elusive Sailback Houndshark Rediscovered in Papua New Guinea After 50 Years</title>
       <link>https://www.smithsonianmag.com/smart-news/elusive-sailback-houndshark-rediscovered-in-papua-new-guinea-after-50-years-180987260/</link>
@@ -1130,7 +993,6 @@
         <![CDATA[The creatures are occasionally caught by local fishermen but hadn’t been scientifically recorded since the 1970s]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TZeWm31W3tJoGHLq56ihjVzBTIE=/420x240/filters:focal(257x181:258x182)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/4f/ca4fb2bf-8fcb-4093-a4a3-3df4792e2af7/screenshot_2025-08-28_at_110504am.png" length="" type="" />
-      <pubDate>2025-08-28T21:29:29Z</pubDate>
     </item>    <item>
       <title>Sharks&#39; Teeth Could Suffer Damage as Ocean Acidification Intensifies, Study Suggests</title>
       <link>https://www.smithsonianmag.com/smart-news/sharks-teeth-could-suffer-damage-as-ocean-acidification-intensifies-study-suggests-180987251/</link>
@@ -1138,7 +1000,6 @@
         <![CDATA[Higher concentrations of carbon dioxide in the atmosphere are leading to a drop in ocean pH, a change that might eventually make it harder for sharks to eat their prey]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qq3MJAf4OF3e_THsMcK4CNE--Zo=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/ce/fbceee08-3514-4deb-822d-beff79ad4fa1/cmelanopterus1_small.jpg" length="" type="" />
-      <pubDate>2025-08-28T20:11:47Z</pubDate>
     </item>    <item>
       <title>How a Spontaneous Food Fight Became La Tomatina, Spain&#39;s Annual Tomato-Throwing Festival</title>
       <link>https://www.smithsonianmag.com/smart-news/how-a-spontaneous-food-fight-became-la-tomatina-spains-annual-tomato-throwing-festival-180987257/</link>
@@ -1146,7 +1007,6 @@
         <![CDATA[Thousands of people gathered in a small Spanish town this week for the event, which is celebrating its 80th anniversary]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/P2ZqMAKV2B8Mb3_2SB9z90eOTrA=/420x240/filters:focal(3000x1943:3001x1944)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/14/271476d2-e23e-46c2-a609-b9c075bb2c9e/gettyimages-2231600939.jpg" length="" type="" />
-      <pubDate>2025-08-28T19:41:21Z</pubDate>
     </item>    <item>
       <title>She Spent Three Weeks Digging for a Diamond for Her Engagement Ring—and Unearthed a 2.3-Carat Stunner</title>
       <link>https://www.smithsonianmag.com/smart-news/she-spent-three-weeks-digging-for-a-diamond-for-her-engagement-ring-and-unearthed-a-2-3-carat-stunner-180987254/</link>
@@ -1154,7 +1014,6 @@
         <![CDATA[When Micherre Fox and her boyfriend decided to get married, she flew to Crater of Diamonds State Park in Arkansas to search for the diamond herself]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/yF8mx_uMCCZdTW-CFLtLRXuabgM=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/53/9a53b92b-6b92-4c62-90da-f7fdd7239181/dsc_0779.jpg" length="" type="" />
-      <pubDate>2025-08-28T18:33:38Z</pubDate>
     </item>    <item>
       <title>Early Humans Moved Stones Long Distances to Make Tools 600,000 Years Earlier Than Thought</title>
       <link>https://www.smithsonianmag.com/smart-news/early-humans-moved-stones-long-distances-to-make-tools-600000-years-earlier-than-thought-180987247/</link>
@@ -1162,7 +1021,6 @@
         <![CDATA[A new study takes another look at some of the oldest known stone tools and suggests their makers transported materials for up to eight miles]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XFtlaWId5nb3yzNZX_CLWhuDCqQ=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/5f/605fb4ed-5c1a-41f1-b4f2-c54d3c45fe35/b_-_nyayanga_ampitheater.jpg" length="" type="" />
-      <pubDate>2025-08-28T16:55:08Z</pubDate>
     </item>    <item>
       <title>Archaeologists Are Digging Up Scotland&#39;s Very First Outdoor Skatepark</title>
       <link>https://www.smithsonianmag.com/smart-news/archeologists-are-digging-up-scotlands-very-first-outdoor-skatepark-180987231/</link>
@@ -1170,15 +1028,13 @@
         <![CDATA[Kelvin Wheelies skatepark, which hosted the country's first national skateboarding competition, has been buried under rubble for decades]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/azuBPotQMEfHQoXK3RVukngTYXk=/420x240/filters:focal(325x214:326x215)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a5/be/a5be8545-2e61-43d3-90e8-a1c44ad747c5/media_1204410_smxx.jpg" length="" type="" />
-      <pubDate>2025-08-28T14:52:28Z</pubDate>
     </item>    <item>
       <title>The Sudden Surges That Forge Evolutionary Trees</title>
       <link>https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/</link>
       <description>
         <![CDATA[An updated evolutionary model shows that living systems evolve in a split-and-hit-the-gas dynamic, where new lineages appear in sudden bursts rather than during a long marathon of gradual changes.            <p>The post <a href="https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/" target="_blank">The Sudden Surges That Forge Evolutionary Trees</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
       </description>
-      <guid>https://www.quantamagazine.org/?p=153646</guid>
-      <pubDate>2025-08-28T13:58:29Z</pubDate>
+      <guid>cid://https://www.quantamagazine.org/?p=153646</guid>
     </item>    <item>
       <title>This Is What Our Thumbs Say About Our Brains, in a Pattern That Holds True for Other Primates</title>
       <link>https://www.smithsonianmag.com/smart-news/this-is-what-our-thumbs-say-about-our-brains-in-a-pattern-that-holds-true-for-other-primates-180987250/</link>
@@ -1186,7 +1042,6 @@
         <![CDATA[Researchers have found a link between long thumbs and big brains, suggesting the two features evolved together]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nFmgAALBU-SWAyZnMV4EcyRcCH0=/420x240/filters:focal(3680x2488:3681x2489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/23/cb23f2fe-7fcd-4e93-9022-010a371cdf8a/close-up-woman-s-hand-hitchhiking-countryside-road.jpg" length="" type="" />
-      <pubDate>2025-08-28T13:39:15Z</pubDate>
     </item>    <item>
       <title>PureOS Crimson Development Report: July 2025</title>
       <link>https://puri.sm/posts/pureos-crimson-development-report-july-2025/</link>
@@ -1195,8 +1050,7 @@
         <p>This seemed trivial at the time - just add the missing components.  However, when the fix went into review and we looked deeper, it turned out to be anything but trivial.</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-july-2025/">PureOS Crimson Development Report: July 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=84155</guid>
-      <pubDate>2025-08-28T12:18:53Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84155</guid>
     </item>    <item>
       <title>Seasonal Waves Could Reach Some of Easter Island&#39;s Massive Moai Statues by 2080, New Study Suggests</title>
       <link>https://www.smithsonianmag.com/smart-news/seasonal-waves-could-reach-some-of-easter-islands-massive-moai-statues-by-2080-new-study-suggests-180987245/</link>
@@ -1204,7 +1058,6 @@
         <![CDATA[Researchers warn that rising sea levels could cause flooding that will endanger the historically significant statues, which were created by the Rapa Nui people between roughly 1300 and 1600 C.E.]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/SwKYE3LZeiOHdpsY0B7yXxOYL_o=/420x240/filters:focal(3680x2488:3681x2489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/22/62/22622d26-0e59-4e9a-b6ec-e60a8666e980/ahutongariki15moais.jpg" length="" type="" />
-      <pubDate>2025-08-27T20:18:59Z</pubDate>
     </item>    <item>
       <title>See the Rare &#39;Electric Blue&#39; Lobster Found Off the Coast of Massachusetts</title>
       <link>https://www.smithsonianmag.com/smart-news/see-the-rare-electric-blue-lobster-found-off-the-coast-of-massachusetts-180987249/</link>
@@ -1212,7 +1065,6 @@
         <![CDATA[Meet Neptune, an American lobster with a vibrantly colored shell that results from a genetic mutation affecting pigmentation]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/i7juW0IM5p3QW1qXapZzgAoS5s0=/420x240/filters:focal(550x367:551x368)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/f9/9af9d94e-37aa-4813-aa3f-2132d6320092/082125_mm_neptune_006.webp" length="" type="" />
-      <pubDate>2025-08-27T18:57:02Z</pubDate>
     </item>    <item>
       <title>A Man Noticed a Strange Shape on Satellite Images. It Turned Out to Be a 138-Year-Old Shipwreck in Lake Michigan</title>
       <link>https://www.smithsonianmag.com/smart-news/a-man-noticed-a-strange-shape-on-satellite-images-it-turned-out-to-be-a-138-year-old-shipwreck-in-lake-michigan-180987237/</link>
@@ -1220,7 +1072,6 @@
         <![CDATA[While sailing through a heavy blanket of fog, the "Frank D. Barker" went off course and ran into a limestone outcropping in October 1887]]>
       </description>
       <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/bb/69bbc77c-4718-4852-b4f9-893a54bb5293/frank_d_barker_4_photo_credit_-_wisconsin_historical_society.jpg" length="" type="" />
-      <pubDate>2025-08-27T18:45:09Z</pubDate>
     </item>    <item>
       <title>Want to See the Original Lyrics for &#39;Over the Rainbow&#39;? All You Need Is a Library Card</title>
       <link>https://www.smithsonianmag.com/smart-news/want-to-see-the-original-lyrics-for-over-the-rainbow-all-you-need-is-a-library-card-180987238/</link>
@@ -1228,7 +1079,6 @@
         <![CDATA[The Library of Congress has acquired a collection of musical manuscripts and other rare artifacts connected to "The Wizard of Oz"]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/H8bi6HUwce3cPL8TZ8gGXSNt1mI=/420x240/filters:focal(4096x2731:4097x2732)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/82/9a827b0f-2f85-455c-9fcf-79d81db605a7/701721.jpg" length="" type="" />
-      <pubDate>2025-08-27T17:07:58Z</pubDate>
     </item>    <item>
       <title>Introducing the Librem PQC Comms Server</title>
       <link>https://puri.sm/posts/introducing-the-librem-pqc-comms-server/</link>
@@ -1236,8 +1086,7 @@
         <![CDATA[<p>SF, CA, US – Purism is excited to announce its <a href="https://puri.sm/products/librem-pqc-comms-server/">Librem PQC Comms Server</a>, encrypting data-in-transit (DIT) with post-quantum cryptography (PQC) according to the <a href="https://csrc.nist.gov/pubs/fips/203/final">NIST FIPS 203</a> standard. When bundled as a complete ecosystem with the <a href="https://puri.sm/products/liberty-phone/">Liberty Phone</a> or other Purism Products will also address data-at-rest (DAR) encrypted with PQC.</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/introducing-the-librem-pqc-comms-server/">Introducing the Librem PQC Comms Server</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=83993</guid>
-      <pubDate>2025-08-27T11:44:55Z</pubDate>
+      <guid>cid://https://puri.sm/?p=83993</guid>
     </item>    <item>
       <title>Last Known Surviving American Ace Pilot From World War II Dies at 103</title>
       <link>https://www.smithsonianmag.com/smart-news/last-known-surviving-american-ace-pilot-from-world-war-ii-dies-at-103-180987239/</link>
@@ -1245,7 +1094,6 @@
         <![CDATA[Donald McPherson shot down five planes in the Pacific theater in the final years of the war, earning him the title of "ace"]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/imwYZ9xyuN-IGZkgV-kP9UCJbxE=/420x240/filters:focal(480x320:481x321)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/4c/bb4c5d12-1665-4bb2-8e87-e295ff2f4f7c/top_photo-_donald_mcpherson_us_navy.jpeg" length="" type="" />
-      <pubDate>2025-08-26T21:08:50Z</pubDate>
     </item>    <item>
       <title>Migratory Flamingos Age Differently From Resident Ones, Offering a New Clue About Getting Old</title>
       <link>https://www.smithsonianmag.com/smart-news/migratory-flamingos-age-differently-from-resident-ones-offering-a-new-clue-about-getting-old-180987243/</link>
@@ -1253,7 +1101,6 @@
         <![CDATA[A new study of the pink birds in France finds that aging sets in later for flamingos that migrate, though they face higher mortality in early adulthood]]>
       </description>
       <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/71/4e7128e0-9d5b-48f7-a74a-0121f3ad1e5d/flamants-roses-poussins-colonie-fangassiercharlotte-peerot_tdv.jpg" length="" type="" />
-      <pubDate>2025-08-26T20:41:12Z</pubDate>
     </item>    <item>
       <title>A Privacy Shield in the Wake of AT&#38;T Data Breaches</title>
       <link>https://puri.sm/posts/a-privacy-shield-in-the-wake-of-att-data-breaches/</link>
@@ -1261,8 +1108,7 @@
         <![CDATA[<p>Purism AweSIM: A Privacy Shield in the Wake of AT&#38;T Data Breaches AT&#38;T was found liable to pay customers an estimated $177M to resolve multiple lawsuits stemming from two separate data breaches – March 30 and July 12, 2024. Both breaches exposed huge amounts of Personal Identifiable Information (PII) to the public. These two breaches [&#8230;]</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/a-privacy-shield-in-the-wake-of-att-data-breaches/">A Privacy Shield in the Wake of AT&#038;T Data Breaches</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=84140</guid>
-      <pubDate>2025-08-26T19:55:51Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84140</guid>
     </item>    <item>
       <title>Researchers Develop a &#39;Superfood&#39; for Honeybees to Fight the Drastic Decline of Their Colonies</title>
       <link>https://www.smithsonianmag.com/smart-news/researchers-develop-a-superfood-for-honeybees-to-fight-the-drastic-decline-of-their-colonies-180987234/</link>
@@ -1270,7 +1116,6 @@
         <![CDATA[Bees fed an enriched yeast supplement saw 15 times more of their larvae reach the developmental stage right before adulthood, according to a new study]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/twqNbHPZAR2nyRb-m8gFaWOQ0Qk=/420x240/filters:focal(2000x1343:2001x1344)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/e0/3be08d1f-1302-4c03-99ce-014f7dc1c746/gettyimages-2153379415.jpg" length="" type="" />
-      <pubDate>2025-08-26T19:16:11Z</pubDate>
     </item>    <item>
       <title>Ancient Statues Emerge From the Waters Off Egypt&#39;s Coast, Where They&#39;d Been Hiding  for Thousands of Years</title>
       <link>https://www.smithsonianmag.com/smart-news/ancient-statues-emerge-from-the-waters-off-egypts-coast-where-theyd-been-hiding-for-thousands-of-years-180987230/</link>
@@ -1278,7 +1123,6 @@
         <![CDATA[Several large sculptures were among the trove of artifacts that divers recovered from the waters near Alexandria, Egypt. Officials say the site may have been an extension of the nearby city of Canopus]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eGYimO0bvNkmZ2Dsweedx6x7nH0=/420x240/filters:focal(2751x1834:2752x1835)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/21/c021e132-16dd-41e2-80d7-4f78a9e3ad56/gettyimages-2230468057.jpg" length="" type="" />
-      <pubDate>2025-08-26T17:42:28Z</pubDate>
     </item>    <item>
       <title>Astronomers Spot the Brightest Fast Radio Burst Ever Detected and Observe Stars Around Its Origin for the First Time</title>
       <link>https://www.smithsonianmag.com/smart-news/astronomers-spot-the-brightest-fast-radio-burst-ever-detected-and-observe-stars-around-its-origin-for-the-first-time-180987233/</link>
@@ -1286,7 +1130,6 @@
         <![CDATA[Using two telescopes, scientists were able to pinpoint the location of the fleeting phenomenon with surprising accuracy]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JLvsSpFYqkEx6q1wgQCJvXxWHME=/420x240/filters:focal(3442x2261:3443x2262)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/84/f0/84f012ae-1454-4665-9553-f736cae7b321/chime_array_artist_rendition_high_res.png" length="" type="" />
-      <pubDate>2025-08-26T17:39:19Z</pubDate>
     </item>    <item>
       <title>COSMIC Alpha 7: Never Been Beta</title>
       <link>https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</link>
@@ -1294,8 +1137,7 @@
         <![CDATA[Wrapping up COSMIC’s main features before the first beta release.]]>
       </description>
       <enclosure url="https://images.prismic.io/blog-system76/aAlwmPIqRLdaBjDE_cosmicalpha7blogheader.jpg" length="0" type="image/jpg" />
-      <guid>https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</guid>
-      <pubDate>2025-08-26T16:32:29Z</pubDate>
+      <guid>cid://https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</guid>
     </item>    <item>
       <title>Reading for Pleasure Has Declined by a &#39;Deeply Concerning&#39; 40 Percent Over the Past Two Decades</title>
       <link>https://www.smithsonianmag.com/smart-news/reading-for-pleasure-has-declined-by-a-deeply-concerning-40-percent-over-the-past-two-decades-180987228/</link>
@@ -1303,7 +1145,6 @@
         <![CDATA[Between 2003 and 2023, the proportion of Americans who read for fun on a given day has been steadily falling, a new study suggests]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/r4-zlABu_F7hwEOnNVlacjkPJdk=/420x240/filters:focal(4096x2750:4097x2751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/cb/85cb42c2-c471-489f-9665-23fb58837506/gettyimages-1957612313.jpg" length="" type="" />
-      <pubDate>2025-08-26T14:02:47Z</pubDate>
     </item>    <item>
       <title>FTC Issues Letters to Big Tech: No Back Doors</title>
       <link>https://puri.sm/posts/ftc-issues-letters-to-big-tech-no-back-doors/</link>
@@ -1311,8 +1152,7 @@
         <![CDATA[<p>FTC to Big Tech: No Back Doors — Purism Was Already There Protecting against Jurisdictional Arbitrage When the Federal Trade Commission (FTC) makes a determined move like this, it’s not a casual policy tweak — it’s a line drawn in permanent ink. On August 21, FTC Chairman Andrew Ferguson sent formal notices to over a [&#8230;]</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/ftc-issues-letters-to-big-tech-no-back-doors/">FTC Issues Letters to Big Tech: No Back Doors</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
-      <guid>https://puri.sm/?p=84107</guid>
-      <pubDate>2025-08-25T21:07:47Z</pubDate>
+      <guid>cid://https://puri.sm/?p=84107</guid>
     </item>    <item>
       <title>French Official Rules That 1,000-Year-Old Bayeux Tapestry Isn&#39;t Too Fragile to Travel to London</title>
       <link>https://www.smithsonianmag.com/smart-news/french-official-rules-that-1000-year-old-bayeux-tapestry-isnt-too-fragile-to-travel-to-london-180987229/</link>
@@ -1320,7 +1160,6 @@
         <![CDATA[The 230-foot-long medieval tapestry is scheduled to go on view at the British Museum next year, but critics worry that transporting the delicate artifact is too risky]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3QzD0_8qdlnvnfYkFpY-F2f7g6I=/420x240/filters:focal(1904x1306:1905x1307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/ad/37ad8807-281d-42d0-88c4-396ed93d5097/gettyimages-79521106.jpg" length="" type="" />
-      <pubDate>2025-08-25T20:12:39Z</pubDate>
     </item>    <item>
       <title>World&#39;s Tallest Douglas Fir Tree Damaged in Mysterious, Multi-Day Blaze, but It&#39;s Alive After Firefighters Extinguish Flames</title>
       <link>https://www.smithsonianmag.com/smart-news/worlds-tallest-douglas-fir-tree-damaged-in-mysterious-multi-day-blaze-but-its-alive-after-firefighters-extinguish-flames-180987232/</link>
@@ -1328,7 +1167,6 @@
         <![CDATA[The fire started burning on August 16 and only affected a single tree—the historic Doerner Fir in southern Oregon. Authorities are still investigating the cause]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x50OabwzSpf6xAizRAqYPUvl-A4=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a2/4d/a24d0616-fb62-41fc-89b8-627b5b89f9b4/536286096_1548841393158149_9111245366194712207_n.jpg" length="" type="" />
-      <pubDate>2025-08-25T19:57:16Z</pubDate>
     </item>    <item>
       <title>College Sophomore Discovers New Origami Pattern That Could Be Used to Build Telescopes and Satellites</title>
       <link>https://www.smithsonianmag.com/smart-news/college-sophomore-discovers-new-origami-pattern-that-could-be-used-to-build-telescopes-and-satellites-180987226/</link>
@@ -1336,7 +1174,6 @@
         <![CDATA[Based on the work of a student at Brigham Young University, origami theorists have unlocked a new set of patterns that could change space exploration]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PoD7h_kYzS9kmIC40tzPhqzHTHo=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/b5/01b57710-7619-4208-a243-4a322392e5e8/origami.jpg" length="" type="" />
-      <pubDate>2025-08-25T18:39:28Z</pubDate>
     </item>    <item>
       <title>A Neolithic Cow&#39;s Tooth Helps Point to the Mysterious Origins of Stonehenge&#39;s Iconic Stones</title>
       <link>https://www.smithsonianmag.com/smart-news/a-neolithic-cows-tooth-helps-point-to-the-mysterious-origins-of-stonehenges-iconic-stones-180987222/</link>
@@ -1344,7 +1181,6 @@
         <![CDATA[Isotope analysis of a molar from a cow’s jawbone found buried at the monument provides details of the life story of the animal—and how it may relate to the construction of Stonehenge]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bu7PfZibYlAZsK7VCbXQw3Ukc0A=/420x240/filters:focal(1116x680:1117x681)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/08/5508bd93-4894-4a39-9b46-8c5b27f71932/gettyimages-1364722615.jpg" length="" type="" />
-      <pubDate>2025-08-25T18:36:34Z</pubDate>
     </item>    <item>
       <title>To Save This Historic Church, Workers Loaded It Onto Trailers and Rolled It Across Town. See How They Pulled It Off</title>
       <link>https://www.smithsonianmag.com/smart-news/to-save-this-historic-church-workers-loaded-it-onto-trailers-and-rolled-it-across-town-see-how-they-pulled-it-off-180987219/</link>
@@ -1352,7 +1188,6 @@
         <![CDATA[The 672.4-ton church is one of several buildings that have been relocated in the Swedish town of Kiruna, where Europe's largest underground iron ore mine is weakening the ground beneath the city center]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hmLsq50madgVSPr5duzpHXq9CNQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/3b/573bb5c3-0af3-4c77-b64c-96eb9c34c2e8/church.jpg" length="" type="" />
-      <pubDate>2025-08-25T16:35:09Z</pubDate>
     </item>    <item>
       <title>A Unique Supernova &#39;Dazzled&#39; Astronomers and Revealed the Inner Layers of Stars</title>
       <link>https://www.smithsonianmag.com/smart-news/a-unique-supernova-dazzled-astronomers-and-revealed-the-inner-layers-of-stars-180987217/</link>
@@ -1360,7 +1195,6 @@
         <![CDATA[Researchers observed a supernova in progress that showed the onion-like structure of elements in stars, and the explosion may belong to a class of its own]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CX9mPsNnHsTNPF5F2xkh2mvSpvc=/420x240/filters:focal(600x554:601x555)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/8a/7f8add4b-0fb7-46dd-bdeb-d77ad5b99482/sn2021yfj.png" length="" type="" />
-      <pubDate>2025-08-25T14:20:11Z</pubDate>
     </item>    <item>
       <title>These Lizards Have So Much Lead in Their Blood, They Should Be Dead. Instead, They&#39;re Thriving</title>
       <link>https://www.smithsonianmag.com/smart-news/these-lizards-have-so-much-lead-in-their-blood-they-should-be-dead-instead-theyre-thriving-180987224/</link>
@@ -1368,7 +1202,6 @@
         <![CDATA[Brown anoles around New Orleans have the highest blood concentrations of lead ever recorded in vertebrates—and scientists aren't sure why they can survive it]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tWCCc_nvM1JWAePjT-V3nGLvmwI=/420x240/filters:focal(2319x1138:2320x1139)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/df/dddf5106-62d1-4124-a453-f728cc6b3187/cuban_brown_anole_anolis_sagrei_sagrei_juvenile.jpeg" length="" type="" />
-      <pubDate>2025-08-22T20:21:50Z</pubDate>
     </item>    <item>
       <title>This 102-Year-Old Man Just Became the Oldest Person on Record to Summit Japan&#39;s Mount Fuji</title>
       <link>https://www.smithsonianmag.com/smart-news/this-102-year-old-man-just-became-the-oldest-person-on-record-to-summit-japans-mount-fuji-180987223/</link>
@@ -1376,7 +1209,6 @@
         <![CDATA[Kokichi Akuzawa is an experienced climber who trained for his journey up the mountain by walking for one hour every morning]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CfjSvhHSWefBYHb1lndlnkyDMjk=/420x240/filters:focal(289x195:290x196)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/8e/df8e5876-89c4-40fb-b6f8-5c4eec3332e6/kokichi-climbing-mount-fuji.jpeg" length="" type="" />
-      <pubDate>2025-08-22T19:45:52Z</pubDate>
     </item>    <item>
       <title>Light Pollution Is Making Days Longer for Birds, Extending the Hours When They&#39;ll Sing</title>
       <link>https://www.smithsonianmag.com/smart-news/light-pollution-is-making-days-longer-for-birds-extending-the-hours-when-theyll-sing-180987221/</link>
@@ -1384,7 +1216,6 @@
         <![CDATA[A new study looked at millions of recordings of birdsong and found that some species in areas with more light pollution are active for almost an hour longer than average]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6ifHHtQKzy4UlvRunT9tDfvLhZQ=/420x240/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/63/9063e183-240a-4803-bbd9-228bf10a5be5/american_robin_71307.jpg" length="" type="" />
-      <pubDate>2025-08-22T18:44:03Z</pubDate>
     </item>    <item>
       <title>Watch as Experts Preserve a 249-Year-Old Gunboat That Sank During the American Revolution</title>
       <link>https://www.smithsonianmag.com/smart-news/watch-as-experts-preserve-a-249-year-old-gunboat-that-sank-during-the-american-revolution-180987220/</link>
@@ -1392,7 +1223,6 @@
         <![CDATA[Badly damaged during the Battle of Valcour Island, the "Philadelphia" is now the focus of a new exhibition at the Smithsonian's National Museum of American History]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2hTPbr6FweNJxaSdrs07Yr2ryFQ=/420x240/filters:focal(3768x2297:3769x2298)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/aa/49aae25f-824a-4473-8c6b-95c5d3e201ad/jn2025-01100.jpg" length="" type="" />
-      <pubDate>2025-08-22T18:17:34Z</pubDate>
     </item>    <item>
       <title>Archaeologists Are Investigating an Ancient Mosaic Depicting Sandals That Look Strangely Like Modern Flip-Flops</title>
       <link>https://www.smithsonianmag.com/smart-news/archaeologists-are-investigating-an-ancient-mosaic-depicting-sandals-that-look-strangely-like-modern-flip-flops-180987214/</link>
@@ -1400,12 +1230,10 @@
         <![CDATA[The colorful artwork decorates the frigidarium of the Villa Romana del Casale, a UNESCO World Heritage site located in Sicily]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3e82b1UpJ4WeMZQv_u16tXRLBz4=/420x240/filters:focal(640x363:641x364)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/30/fc303d52-74d3-4186-84c9-eba9f2c232a4/piazzaarmerina-nuovescoperte_news.jpg" length="" type="" />
-      <pubDate>2025-08-22T16:51:47Z</pubDate>
     </item>    <item>
       <title>This month in Servo: new image formats, canvas backends, automation, and more!</title>
       <link>https://servo.org/blog/2025/08/22/this-month-in-servo/</link>
-      <guid>https://servo.org/blog/2025/08/22/this-month-in-servo/</guid>
-      <pubDate>2025-08-22T00:00:00Z</pubDate>
+      <guid>cid://https://servo.org/blog/2025/08/22/this-month-in-servo/</guid>
     </item>    <item>
       <title>Two Friends Went Fishing on the Mississippi River. Police Say They May Have Just Solved a 1967 Cold Case</title>
       <link>https://www.smithsonianmag.com/smart-news/two-friends-went-fishing-on-the-mississippi-river-police-say-they-may-have-just-solved-a-1967-cold-case-180987215/</link>
@@ -1413,7 +1241,6 @@
         <![CDATA[Investigators pulled a 1960s Buick sedan from the waterway in central Minnesota that provides new details about a man’s disappearance more than 50 years ago]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fRs0E0M8KC0V5GaFIY84KnxVo-g=/420x240/filters:focal(720x542:721x543)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/ad/57ad17a7-19ab-4d96-8df5-6493ac66d895/police.jpg" length="" type="" />
-      <pubDate>2025-08-21T20:39:09Z</pubDate>
     </item>    <item>
       <title>These Big, Meat-Eating Bats Also Have a Cuddly Side. Rare Videos Reveal &#39;Hugging,&#39; Playing and Sharing Food</title>
       <link>https://www.smithsonianmag.com/smart-news/these-big-meat-eating-bats-also-have-a-cuddly-side-rare-videos-reveal-hugging-playing-and-sharing-food-180987218/</link>
@@ -1421,7 +1248,6 @@
         <![CDATA[Scientists observed a family of four spectral bats in their roost in a tree in Costa Rica, capturing an inside look at their social behavior]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uydHg1tjL7vz8ZtAeYDRpCyQVvo=/420x240/filters:focal(1378x1496:1379x1497)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/33/2c336c9a-6771-4183-8423-be479745e7b0/social_roosting_of_the_spectral_bats_vamyprum_spectrum.jpg" length="" type="" />
-      <pubDate>2025-08-21T18:49:28Z</pubDate>
     </item>    <item>
       <title>Cows, Hikers and Mountain Bikers Coexist at This National Monument, With Help From New Technology</title>
       <link>https://www.smithsonianmag.com/smart-news/cows-hikers-and-mountain-bikers-coexist-at-this-national-monument-with-help-from-new-technology-180987209/</link>
@@ -1429,7 +1255,6 @@
         <![CDATA[Established in 2017, the Cotoni-Coast Dairies national monument in California is now open to the public]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UBfwZJjm_nuXbz60pzYL5jcXMcg=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/c2/8cc24a2e-43ab-4cf5-9b1e-5a55564399a9/15650124019_626490c0f4_k.jpg" length="" type="" />
-      <pubDate>2025-08-21T18:42:01Z</pubDate>
     </item>    <item>
       <title>1.04-Million-Year-Old Stone Tools Found on Indonesian Island Offer Clues About Some of the Region&#39;s Earliest Human Relatives</title>
       <link>https://www.smithsonianmag.com/smart-news/1-04-million-year-old-stone-tools-found-on-indonesian-island-offer-clues-about-some-of-the-regions-earliest-human-relatives-180987129/</link>
@@ -1437,7 +1262,6 @@
         <![CDATA[The toolmakers or their ancestors might have arrived on Sulawesi by clinging to vegetation during a storm, but their identities remain a mystery]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cybtIBdK4dX_JOmmHwZ7W9TcG00=/420x240/filters:focal(828x627:829x628)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/50/1c501b03-db30-476d-98d0-7bcad802a574/screenshot_2025-08-21_at_123701pm.png" length="" type="" />
-      <pubDate>2025-08-21T17:14:01Z</pubDate>
     </item>    <item>
       <title>Someone Returned a Library Book That Their Grandmother Checked Out Eight Decades Ago</title>
       <link>https://www.smithsonianmag.com/smart-news/someone-returned-a-library-book-that-their-grandmother-checked-out-eight-decades-ago-180987216/</link>
@@ -1445,7 +1269,6 @@
         <![CDATA[The San Antonio Public Library received the book in the mail along with a letter: "I hope there is no late fee for it because Grandma won't be able to pay for it anymore"]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cgfayvRud6CQqyHVIhAJ8_Vk9lM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/b0/3db01aee-9f00-440f-be15-507d0be446b9/book.jpg" length="" type="" />
-      <pubDate>2025-08-21T15:50:10Z</pubDate>
     </item>    <item>
       <title>Hear the Long-Lost Chants of English Monks Whose Monasteries Were Dissolved by Henry VIII</title>
       <link>https://www.smithsonianmag.com/smart-news/hear-the-long-lost-chants-of-english-monks-whose-monasteries-were-dissolved-by-henry-viii-180987204/</link>
@@ -1453,7 +1276,6 @@
         <![CDATA[A university choir has revived music found hiding in plain sight in a book from southern England's Buckland Abbey]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Ph8seZOIBEBOGwztMzaMtJNymSY=/420x240/filters:focal(375x250:376x251)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/62/2d/622db95e-7928-4b44-b317-f6aa13886d84/choir-3.jpeg" length="" type="" />
-      <pubDate>2025-08-20T19:36:51Z</pubDate>
     </item>    <item>
       <title>A Partial Dire Wolf Skull Is Headed to Auction This Month—and It Could Sell for $30,000</title>
       <link>https://www.smithsonianmag.com/smart-news/a-partial-dire-wolf-skull-is-headed-to-auction-this-month-and-could-sell-for-30000-180987213/</link>
@@ -1461,7 +1283,6 @@
         <![CDATA[Collectors have a rare opportunity to bid on the remains of the fearsome creature, a large canid that went extinct around the end of the last ice age]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tLOA7AqSg4C5kvDFMZ3x1jtyot0=/420x240/filters:focal(1453x1093:1454x1094)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/39/f3/39f3274b-babe-4088-9a72-1165ad5bf169/image_8-20-25_at_1122am_1.jpeg" length="" type="" />
-      <pubDate>2025-08-20T19:25:49Z</pubDate>
     </item>    <item>
       <title>Read the Dramatic 17th-Century Memoirs of Alice Thornton, Who Wrote Four Versions of Her Life Story</title>
       <link>https://www.smithsonianmag.com/smart-news/read-the-dramatic-17th-century-memoirs-of-alice-thornton-who-wrote-four-versions-of-her-life-story-180987167/</link>
@@ -1469,7 +1290,6 @@
         <![CDATA[Researchers have digitized all four volumes, which are now available online. The autobiographies offer a compelling window into a tumultuous period in English history]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EaQF29xMVX6ZGB6pq_xQ-sIC7iw=/420x240/filters:focal(687x458:688x459)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4b/f4/4bf4708e-bd0c-4661-a103-66ee0cdf09fe/ahrc-050825-alices-book-of-remembrances-gb-0033-ccom_38-182.jpeg" length="" type="" />
-      <pubDate>2025-08-20T17:43:57Z</pubDate>
     </item>    <item>
       <title>&#39;Delulu,&#39; &#39;Skibidi&#39; and &#39;Tradwife&#39; Are Among More Than 6,000 Words Added to the Cambridge Dictionary</title>
       <link>https://www.smithsonianmag.com/smart-news/delulu-skibidi-and-tradwife-are-among-more-than-6000-words-added-to-the-cambridge-dictionary-180987210/</link>
@@ -1477,7 +1297,6 @@
         <![CDATA[Many of the additions reflect how internet culture has changed the English language in recent years]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UGVqfdIm--ZtQEziAfpQxYYes8M=/420x240/filters:focal(2592x1950:2593x1951)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/13/90131a83-1032-4b77-8041-44c98795ff35/gettyimages-1445192194.jpg" length="" type="" />
-      <pubDate>2025-08-20T16:03:43Z</pubDate>
     </item>    <item>
       <title>Video Footage Accidentally Reveals the Strange Pooping Behavior of These Large Seabirds</title>
       <link>https://www.smithsonianmag.com/smart-news/video-footage-accidentally-reveals-the-strange-pooping-behavior-of-these-large-seabirds-180987206/</link>
@@ -1485,7 +1304,6 @@
         <![CDATA[Researchers set out to investigate how streaked shearwaters take off and instead were surprised to discover that the birds poop very frequently and regularly, which could play a role in marine ecology]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bdJSvjHOjXa3MzhaRg54NWtjXhA=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/30/3d3027aa-a132-408a-aca7-1a06dfff7cbb/low-res_shearwater_goto.jpg" length="" type="" />
-      <pubDate>2025-08-20T13:16:48Z</pubDate>
     </item>
   </channel>
 </rss>

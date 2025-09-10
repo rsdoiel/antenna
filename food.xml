@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/food.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Food</title>
-    <lastBuildDate>2025-09-10 12:00:56</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/food.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -11,16 +13,14 @@
       <description>
         <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/WOxBlank_Street_PR_11-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Blank Street Coffee rebrand" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/WOxBlank_Street_PR_11-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/WOxBlank_Street_PR_11-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/WOxBlank_Street_PR_11-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/WOxBlank_Street_PR_11-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/WOxBlank_Street_PR_11.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190742</guid>
-      <pubDate>2025-09-10T12:21:55Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190742</guid>
     </item>    <item>
       <title>The Roast Lab: A Night Of Coffee And Comedy In Seattle</title>
       <link>https://sprudge.com/the-roast-lab-a-night-of-coffee-and-comedy-in-seattle-419178.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Come get roasted as comedians (second) crack wise.]]>
       </description>
-      <guid>https://sprudge.com/?p=419178</guid>
-      <pubDate>2025-09-10T12:00:18Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=419178</guid>
     </item>    <item>
       <title>Arrachera Recipe (Mexican Skirt Steak + Tacos)</title>
       <link>https://www.chilipeppermadness.com/recipes/arrachera/</link>
@@ -28,8 +28,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/arrachera/" title="Arrachera Recipe (Mexican Skirt Steak + Tacos)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Grilled Arrachera (Mexican Skirt Steak) on a cutting board, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Arrachera-Recipe6.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Make delicious arrachera at home! Marinated Mexican skirt steak, grilled hot and fast, sliced for the juiciest steak tacos with onion, cilantro, and lime.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/arrachera/">Arrachera Recipe (Mexican Skirt Steak + Tacos)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=75829</guid>
-      <pubDate>2025-09-10T11:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=75829</guid>
     </item>    <item>
       <title>Riley Westbrook Has Strong Opinions About Espresso Machine Selection</title>
       <link>https://freshcup.com/riley-westbrook-has-strong-opinions-about-espresso-machine-selection/</link>
@@ -37,8 +36,7 @@
         <![CDATA[<p>Valor Coffee co-founder Riley Westbrook shares raw insights and recommendations for picking your next espresso machine.</p>
         <p>The post <a href="https://freshcup.com/riley-westbrook-has-strong-opinions-about-espresso-machine-selection/">Riley Westbrook Has Strong Opinions About Espresso Machine Selection</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42710</guid>
-      <pubDate>2025-09-10T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42710</guid>
     </item>    <item>
       <title>Your Morning To-Go Cup is Definitely Leaching Microplastics</title>
       <link>https://freshcup.com/your-morning-to-go-cup-is-definitely-leaching-microplastics/</link>
@@ -46,8 +44,7 @@
         <![CDATA[<p>One study estimated that drinking one cup of coffee from a to-go cup weekly could mean ingesting 90,000 microplastic particles each year. New research affirms that fact, albeit with less terrifying numbers.</p>
         <p>The post <a href="https://freshcup.com/your-morning-to-go-cup-is-definitely-leaching-microplastics/">Your Morning To-Go Cup is Definitely Leaching Microplastics</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42707</guid>
-      <pubDate>2025-09-10T10:59:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42707</guid>
     </item>    <item>
       <title>I Tried the New Girl Scout Cookie, and I Already Want to Order More</title>
       <link>https://www.tasteofhome.com/article/new-girl-scout-cookie-2025/</link>
@@ -55,88 +52,77 @@
         <![CDATA[<p>This rocky road-inspired treat is sure to be a hit this cookie season. </p>
         <p>The post <a href="https://www.tasteofhome.com/article/new-girl-scout-cookie-2025/">I Tried the New Girl Scout Cookie, and I Already Want to Order More</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2182294</guid>
-      <pubDate>2025-09-10T00:14:26Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2182294</guid>
     </item>    <item>
       <title>Tyler Smith’s Pumpkin Spice BBQ Ribs</title>
       <link>https://www.tasteofhome.com/recipes/tyler-smith-pumpkin-spice-bbq-ribs/</link>
       <description>
         <![CDATA[Pumpkin spice barbecue ribs are the perfect duo: It's game day meets pumpkin spice season! These ribs are a seasonal favorite at every tailgate for both barbecue and PSL fans. —Tyler Smith, Virginia Beach, Virginia]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2182328</guid>
-      <pubDate>2025-09-10T00:13:29Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2182328</guid>
     </item>    <item>
       <title>Tam To’s Avocado Fritters</title>
       <link>https://www.tasteofhome.com/recipes/tam-to-avocado-fritters/</link>
       <description>
         <![CDATA[These avocado fritters offer a fresh twist on the classic avocado toast, blending creamy avocado with a crispy, golden exterior. I like to serve them with a tangy yogurt Sriracha sauce for a spicy kick, though sour cream makes a great alternative. For an elevated touch, top the fritters with cured smoked salmon and salty capers to evoke the flavors of a classic lox bagel. —Tam To, Los Angeles, California]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2182324</guid>
-      <pubDate>2025-09-10T00:00:31Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2182324</guid>
     </item>    <item>
       <title>Alex Bala’s Pumpkin Spice Cream Rolls</title>
       <link>https://www.tasteofhome.com/recipes/alex-bala-pumpkin-spice-cream-rolls/</link>
       <description>
         <![CDATA[Pumpkin spice cream rolls are the ultimate fall treat. Soft Hawaiian rolls are stuffed with a dreamy pumpkin spice cream filling and topped with silky pumpkin icing. They’re sweet, fluffy and just the right amount of cozy, making them perfect for crisp mornings. Pair them with a hot cup of coffee and you’ve got breakfast (or dessert!) that feels like a hug in every bite. —Alex Bala, Longmont, Colorado]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2182228</guid>
-      <pubDate>2025-09-09T21:07:29Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2182228</guid>
     </item>    <item>
       <title>Best Nonstick Pans: Expert Recommendations for At-Home Chefs (2025)</title>
       <link>https://www.bonappetit.com/story/best-nonstick-pans</link>
       <description>
         <![CDATA[You only need one, and we've tested dozens to find the very best.]]>
       </description>
-      <guid>5dbb3050d1c5b10008746c9b</guid>
-      <pubDate>2025-09-09T21:02:35Z</pubDate>
+      <guid>cid://5dbb3050d1c5b10008746c9b</guid>
     </item>    <item>
       <title>Recipes From 2025&#39;s Best New Restaurants</title>
       <link>https://www.bonappetit.com/gallery/recipes-from-2025-best-new-restaurants</link>
       <description>
         <![CDATA[Cook favorites from our 2025 list at home.]]>
       </description>
-      <guid>68c076307b29e32a58db5aef</guid>
-      <pubDate>2025-09-09T18:57:50Z</pubDate>
+      <guid>cid://68c076307b29e32a58db5aef</guid>
     </item>    <item>
       <title>Cold Coffee Ruled This Summer, New NCA Market Report Finds</title>
       <link>https://dailycoffeenews.com/2025/09/09/cold-coffee-ruled-this-summer-new-nca-market-report-finds/</link>
       <description>
         <![CDATA[<div><img width="620" height="380" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/blended-frozen-coffee-1-620x380.jpg" class="attachment-large size-large wp-post-image" alt="blended frozen coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/blended-frozen-coffee-1-620x380.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/blended-frozen-coffee-1-300x184.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/blended-frozen-coffee-1-150x92.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/blended-frozen-coffee-1-768x470.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/blended-frozen-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Hot summer temperatures throughout the United States resulted in increased consumption of cold coffee, bottled water and soda, according to the latest consumer trends report from the National Coffee Association...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190766</guid>
-      <pubDate>2025-09-09T18:01:18Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190766</guid>
     </item>    <item>
       <title>Build-Outs Of Coffee: Papaver Roaster House In Olympia, WA</title>
       <link>https://sprudge.com/build-outs-of-coffee-papaver-roaster-house-in-olympia-wa-399299.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Papaver Roaster House in Olympia, Washington.]]>
       </description>
-      <guid>https://sprudge.com/?p=399299</guid>
-      <pubDate>2025-09-09T14:00:45Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=399299</guid>
     </item>    <item>
       <title>Study: Coffee May Significantly Reduce Osteoporosis Risk</title>
       <link>https://dailycoffeenews.com/2025/09/09/study-coffee-may-significantly-reduce-osteoporosis-risk/</link>
       <description>
         <![CDATA[<div><img width="620" height="404" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/bones-620x404.jpg" class="attachment-large size-large wp-post-image" alt="bones" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/bones-620x404.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/bones-300x195.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/bones-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/bones-768x500.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/bones.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study published in Scientific Reports&#160;suggests drinking higher amounts of coffee may significantly reduce the risk of osteoporosis, the bone-weakening disease that affects millions of older adults worldwide.&#160;...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190310</guid>
-      <pubDate>2025-09-09T12:20:53Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190310</guid>
     </item>    <item>
       <title>Athens Coffee Holding &#38; Roasting Gets Going in Georgia</title>
       <link>https://dailycoffeenews.com/2025/09/09/athens-coffee-holding-roasting-gets-going-in-georgia/</link>
       <description>
         <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/Athens-Coffee-Roasting-roastery-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Athens Coffee Roasting roastery" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/Athens-Coffee-Roasting-roastery-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Athens-Coffee-Roasting-roastery-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Athens-Coffee-Roasting-roastery-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Athens-Coffee-Roasting-roastery-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Athens-Coffee-Roasting-roastery.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Athens Coffee Holding &#38; Roasting Company opened its first cafe alongside its roastery last month, courtesy of the team behind popular local shop Sips Espresso Café. The cozy new...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190699</guid>
-      <pubDate>2025-09-09T12:19:21Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190699</guid>
     </item>    <item>
       <title>Madcap &#38; Big Spoon Team Up For A Vanilla Latte Almond Butter</title>
       <link>https://sprudge.com/madcap-big-spoon-team-up-for-a-vanilla-latte-almond-butter-417399.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Vanilla Latte Almond Butter by Big Spoon Roasters and Madcap.]]>
       </description>
-      <guid>https://sprudge.com/?p=417399</guid>
-      <pubDate>2025-09-09T12:00:55Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=417399</guid>
     </item>    <item>
       <title>“Regenerative Agriculture” is a Buzzy Term — One Org Hopes to Change That</title>
       <link>https://freshcup.com/regenerative-agriculture-is-a-buzzy-term-one-org-hopes-to-change-that/</link>
@@ -144,8 +130,7 @@
         <![CDATA[<p>Regenerative agriculture is a popular term in coffee right now. However, there is currently no agreed-upon definition of precisely what regenerative agriculture is—until now. </p>
         <p>The post <a href="https://freshcup.com/regenerative-agriculture-is-a-buzzy-term-one-org-hopes-to-change-that/">“Regenerative Agriculture” is a Buzzy Term — One Org Hopes to Change That</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42701</guid>
-      <pubDate>2025-09-09T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42701</guid>
     </item>    <item>
       <title>THE FOOD HERITAGE OF THE ARAN ISLANDS</title>
       <link>https://irishfoodhub.com/food-heritage-aran-islands/</link>
@@ -153,32 +138,28 @@
         <![CDATA[<p>The Aran Islands, a windswept trio of rocky outcrops off the coast of County Galway, are best known for their rugged beauty, distinctive culture, and enduring traditions. Yet one of the most fascinating aspects of island life is its food heritage—shaped by the Atlantic Ocean, the harsh limestone landscape, and the resilience of its people. From simple seafood dishes to unique farming practices, the Aran Islands offer a rich culinary story that reflects both hardship and creativity.  Table of Contents Living from the Land and Sea: Survival and Ingenuity Traditional Farming Practices on the Aran Islands Seafood Traditions: Harvesting the Atlantic’s Bounty Bread, Dairy, and Daily Meals in Island Life Preserving the Past: Food, Culture, and Tourism Today Living from the Land and Sea – Survival and Ingenuity The Aran Islands—Inis Mór, Inis Meáin, and Inis Oírr—have long been viewed as places of resilience. With little fertile soil and constant exposure to Atlantic storms, survival required ingenuity and resourcefulness. This reality is reflected in the islands’ food heritage, which emphasizes practicality, sustainability, and making the most of what the land and sea could provide. Creating soil from stone: One of the most remarkable aspects of Aran Island food history is the way locals created arable land. With no natural topsoil, islanders built their own by layering sand, seaweed, and manure between the cracks of the limestone. This labor-intensive process allowed them to grow potatoes, oats, and vegetables—crops that became dietary staples. The reliance on seaweed not only fertilized the land but also symbolized the deep connection between the ocean and daily survival. Fishing as a lifeline: The Atlantic Ocean was the other great provider. Fishing was essential, with mackerel, herring, and pollock forming the backbone of the island diet. Islanders often fished in currachs—lightweight, tar-covered boats that could withstand the Atlantic swells. Fish were eaten fresh when possible but were more often salted, dried, or smoked to ensure a supply through lean months. Foraging and self-sufficiency: Beyond farming and fishing, island families supplemented their diet with foraging. Seaweed varieties like carrageen moss and dulse were gathered for food and medicine. Wild herbs and berries were used to flavor meals or brewed into simple remedies. This culture of foraging reflected a holistic approach to food, where nothing in the environment was overlooked. Resilience through simplicity: The diet of the Aran Islands was never about luxury but about nourishment and endurance. Meals were plain but hearty—fish stews, boiled potatoes, porridge, and homemade bread sustained generations. The simplicity of the food mirrored the lifestyle: practical, communal, and deeply tied to the rhythms of the land and sea. The Aran Islands’ ability to create food traditions from such a challenging environment is a story of resilience and adaptability.  Traditional Farming Practices on the Aran Islands Farming on the Aran Islands has always been an extraordinary feat of determination and ingenuity. Unlike the fertile fields of mainland Ireland, the Aran landscape is dominated by bare limestone, with little natural soil. Yet over centuries, islanders developed farming techniques that transformed the seemingly barren rock into productive land capable of sustaining crops and livestock. Making soil from seaweed and sand: The most famous farming method on the Aran Islands was the creation of artificial soil. Islanders collected seaweed—especially kelp and wrack—from the shoreline and mixed it with sand carried from nearby beaches. Layer by layer, this mixture was spread into crevices and walled plots, gradually building up arable patches where crops could grow. This laborious process not only provided nutrition for plants but also symbolized the islanders’ reliance on the sea for survival. Stone walls as protection: The iconic dry-stone walls of the Aran Islands served more than just aesthetic or boundary purposes—they were essential for agriculture. The walls acted as windbreaks against Atlantic gales, preventing crops from being destroyed by harsh weather. They also helped retain the precious man-made soil within small plots, known as “clocháns.” These stone patterns still define the island landscape today, a testament to centuries of agricultural resilience. Crop staples: Potatoes were the primary crop, thriving even in the shallow soils the islanders created. Alongside them, oats and barley were commonly grown, providing porridge, bread, and fodder for animals. Vegetables such as cabbage, carrots, and turnips were also cultivated when possible, giving variety to otherwise limited diets. The small scale of farming meant that every inch of workable land was valued and carefully tended. Livestock and dairy: Despite the limited land, islanders also kept animals such as cows, pigs, and chickens. Cattle were particularly important, providing milk, butter, and cheese. Goats were also common on the islands, valued for their hardiness and ability to thrive on sparse vegetation. Livestock not only provided protein but also manure, which was essential for enriching the soil. Farming as community effort: Farming on the Aran Islands was rarely an individual task. Families and neighbors worked together to harvest seaweed, repair walls, and share resources. Seasonal rhythms dictated the agricultural calendar, with planting, harvesting, and seaweed collection becoming communal activities that reinforced social bonds. These farming practices demonstrate the deep relationship between the Aran people and their environment. By blending stone, seaweed, sand, and communal effort, they managed to carve out a living from an unforgiving landscape Seafood Traditions – Harvesting the Atlantic’s Bounty If the land of the Aran Islands demanded ingenuity, the surrounding Atlantic Ocean offered abundance. For centuries, fishing and seafood harvesting formed the backbone of the islands’ diet and economy. The sea not only provided food but also shaped the cultural identity of the Aran people, binding them to the tides, currents, and weather of the Atlantic world. Currach fishing: The currach, a lightweight, tar-covered wooden boat, became the essential vessel of Aran fishermen. Its flexible design allowed it to ride the Atlantic swells while still being light enough to carry ashore. Islanders used currachs to fish for mackerel, herring, pollock, and wrasse—species that thrived in the rich waters around the islands. Fishing was often a communal endeavor, with families sharing catches</p>
         <p>The post <a href="https://irishfoodhub.com/food-heritage-aran-islands/">THE FOOD HERITAGE OF THE ARAN ISLANDS</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8204</guid>
-      <pubDate>2025-09-08T21:41:45Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8204</guid>
     </item>    <item>
       <title>The Best Meal I Had in Copenhagen Was an Airport Hot Dog</title>
       <link>https://www.bonappetit.com/story/the-best-meal-i-had-in-copenhagen-was-an-airport-hot-dog</link>
       <description>
         <![CDATA[In one of the world’s great dining capitals, this humble street food stole the show]]>
       </description>
-      <guid>68bf0a8fcc6ae826ad4e5e83</guid>
-      <pubDate>2025-09-08T20:05:02Z</pubDate>
+      <guid>cid://68bf0a8fcc6ae826ad4e5e83</guid>
     </item>    <item>
       <title>13 Time-Saving Pantry Products BA Editors Swear By</title>
       <link>https://www.bonappetit.com/story/time-saving-pantry-products</link>
       <description>
         <![CDATA[These pantry essentials make weeknight meals quick and craveable.]]>
       </description>
-      <guid>68beff569a9abc9e05471a35</guid>
-      <pubDate>2025-09-08T19:49:12Z</pubDate>
+      <guid>cid://68beff569a9abc9e05471a35</guid>
     </item>    <item>
       <title>Caramel Apple Focaccia</title>
       <link>https://www.tasteofhome.com/recipes/caramel-apple-focaccia/</link>
       <description>
         <![CDATA[Caramel apple focaccia bread is a gooey, sweet take on the viral no-knead focaccia trend that's been sweeping the internet.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180347</guid>
-      <pubDate>2025-09-08T19:37:48Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180347</guid>
     </item>    <item>
       <title>BACON RIBS WITH PARSLEY SAUCE</title>
       <link>https://irishfoodhub.com/bacon-ribs-parsley-sauce/</link>
@@ -186,8 +167,7 @@
         <![CDATA[<p>Bacon Ribs with Parsley Sauce – A Rustic Dublin Classic Bacon Ribs with Parsley Sauce is a traditional Dublin dish that showcases Ireland’s love of hearty, rustic flavors. Made with salted pork ribs simmered until tender and served with a creamy parsley sauce, this comforting meal is a true taste of old Dublin cooking. Often enjoyed with mashed potatoes and cabbage, it’s a simple dish that has stood the test of time. Recipe Details Preparation Time: 10 minutes Cooking Time: 1 hour 30 minutes Serving Size: Serves 4 Ingredients For the Bacon Ribs: 1.5kg salted pork ribs 1 onion, halved 2 carrots, roughly chopped 2 bay leaves Black peppercorns, for seasoning For the Parsley Sauce: 50g butter 50g plain flour 500ml milk 1 large bunch fresh parsley, finely chopped Salt and black pepper, to taste Instructions Cook the Bacon Ribs: Place the salted pork ribs in a large pot and cover with cold water. Bring to the boil, then discard the water to remove excess salt. Refill the pot with fresh water, add the onion, carrots, bay leaves, and peppercorns. Simmer gently for 1–1.5 hours until the ribs are tender. Make the Parsley Sauce: In a saucepan, melt the butter, stir in the flour, and cook for 1 minute. Gradually whisk in the milk to make a smooth sauce. Simmer until slightly thickened, then stir in the chopped parsley. Season to taste. Serve: Arrange the bacon ribs on a serving platter and spoon the parsley sauce over the top, or serve on the side. Best enjoyed with mashed potatoes and boiled cabbage. Why You’ll Love This Recipe This dish is a piece of Dublin’s culinary heritage. The tender, salty pork ribs paired with the creamy freshness of parsley sauce make for a satisfying and comforting meal. Bacon Ribs with Parsley Sauce is rustic, traditional, and full of authentic Irish flavor – a true taste of Dublin’s past and present.</p>
         <p>The post <a href="https://irishfoodhub.com/bacon-ribs-parsley-sauce/">BACON RIBS WITH PARSLEY SAUCE</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8109</guid>
-      <pubDate>2025-09-08T17:49:02Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8109</guid>
     </item>    <item>
       <title>CODDLED EGGS WITH CREAM &#38; HERBS</title>
       <link>https://irishfoodhub.com/coddled-eggs-cream-herbs/</link>
@@ -195,24 +175,21 @@
         <![CDATA[<p>Coddled Eggs with Cream &#038; Herbs – A Simple Irish Comfort Dish Coddled Eggs with Cream &#038; Herbs is a classic Irish-inspired dish that’s both comforting and elegant. Gently baked in ramekins, the eggs are enriched with cream and delicately flavored with fresh chives and parsley. Perfect for breakfast, brunch, or even a light supper, this dish is simple to prepare yet feels indulgent, especially when served with toasted brown bread for dipping. Recipe Details Preparation Time: 5 minutes Cooking Time: 12–15 minutes Serving Size: Serves 2 Ingredients 4 fresh eggs 4 tbsp heavy cream 1 tbsp fresh chives, finely chopped 1 tbsp fresh parsley, finely chopped Salt and black pepper, to taste Butter, for greasing Brown bread or toast, to serve Instructions Preheat your oven to 180°C (350°F). Lightly butter two ramekins or small ovenproof dishes. Crack two eggs into each ramekin and drizzle with 2 tablespoons of cream. Sprinkle with chopped chives and parsley, then season with salt and black pepper. Place the ramekins in a baking dish and pour hot water into the dish until it reaches halfway up the ramekins. Bake for 12–15 minutes, or until the whites are set but the yolks remain soft. Serve immediately with slices of toasted brown bread for dipping. Why You’ll Love This Recipe Light, creamy, and full of flavor, Coddled Eggs with Cream &#038; Herbs is the perfect balance of rustic simplicity and refined taste. It’s a versatile recipe that can be enjoyed for a lazy weekend breakfast or a comforting evening meal, bringing a touch of Irish homeliness to your table.</p>
         <p>The post <a href="https://irishfoodhub.com/coddled-eggs-cream-herbs/">CODDLED EGGS WITH CREAM &amp; HERBS</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8103</guid>
-      <pubDate>2025-09-08T17:41:23Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8103</guid>
     </item>    <item>
       <title>Pumpkin Spice Creamer</title>
       <link>https://www.tasteofhome.com/recipes/pumpkin-spice-creamer/</link>
       <description>
         <![CDATA[With warm spices, real pumpkin puree and sweet maple syrup, this pumpkin spice creamer adds a taste of fall to your morning coffee. It's free of artificial ingredients and ready in 15 minutes.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2178598</guid>
-      <pubDate>2025-09-08T17:24:49Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2178598</guid>
     </item>    <item>
       <title>La Marzocco’s Strada Espressso Machine Gets The Officine Fratelli Bambi Touch</title>
       <link>https://sprudge.com/la-marzoccos-strada-espressso-machine-gets-the-officine-fratelli-bambi-touch-415034.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. La Marzocco's OFB Strada will debut at Out of the Box Milan.]]>
       </description>
-      <guid>https://sprudge.com/?p=415034</guid>
-      <pubDate>2025-09-08T16:41:21Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=415034</guid>
     </item>    <item>
       <title>37 Gluten-Free Thanksgiving Sides</title>
       <link>https://www.tasteofhome.com/collection/gluten-free-thanksgiving-sides/</link>
@@ -220,8 +197,7 @@
         <![CDATA[<p>From creamy mashed potatoes to savory fall veggies, these gluten-free Thanksgiving sides will have the entire table asking for a second helping.</p>
         <p>The post <a href="https://www.tasteofhome.com/collection/gluten-free-thanksgiving-sides/">37 Gluten-Free Thanksgiving Sides</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=listicle&p=1714936</guid>
-      <pubDate>2025-09-08T16:27:07Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=listicle&#38;p=1714936</guid>
     </item>    <item>
       <title>40 Thanksgiving Potluck Ideas for a Full Holiday Table</title>
       <link>https://www.tasteofhome.com/collection/thanksgiving-potluck-ideas/</link>
@@ -229,48 +205,42 @@
         <![CDATA[<p>From savory stuffing and mashed potatoes to hearty casseroles and vegetable-forward dishes, these Thanksgiving potluck ideas bring flavor, tradition and variety to the holiday table.</p>
         <p>The post <a href="https://www.tasteofhome.com/collection/thanksgiving-potluck-ideas/">40 Thanksgiving Potluck Ideas for a Full Holiday Table</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>http://www.tasteofhome.com/?post_type=collection&p=790389</guid>
-      <pubDate>2025-09-08T16:20:47Z</pubDate>
+      <guid>cid://http://www.tasteofhome.com/?post_type=collection&#38;p=790389</guid>
     </item>    <item>
       <title>Rainforest Alliance Launching Regenerative Agriculture Certification for Coffee</title>
       <link>https://dailycoffeenews.com/2025/09/08/rainforest-alliance-launching-regenerative-agriculture-certification-for-coffee/</link>
       <description>
         <![CDATA[<div><img width="620" height="425" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-shade-1-620x425.jpg" class="attachment-large size-large wp-post-image" alt="coffee farm shade" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-shade-1-620x425.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-shade-1-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-shade-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-shade-1-768x526.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-shade-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Rainforest Alliance just announced the launch of a new standard and certification for regenerative agriculture in coffee, with a distinct &#8220;regenerative&#8221; seal expected to land on consumer coffee bags...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190734</guid>
-      <pubDate>2025-09-08T15:59:22Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190734</guid>
     </item>    <item>
       <title>The Sprudge Guide To Coffee In Banda Aceh, Indonesia</title>
       <link>https://sprudge.com/the-sprudge-guide-to-coffee-in-banda-aceh-indonesia-311451.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Banda Aceh, Indonesia.]]>
       </description>
-      <guid>https://sprudge.com/?p=311451</guid>
-      <pubDate>2025-09-08T14:00:06Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=311451</guid>
     </item>    <item>
       <title>The Game-Changing Food Storage Containers I Use for Everything</title>
       <link>https://www.bonappetit.com/story/souper-cubes-cermamic-storage-containers</link>
       <description>
         <![CDATA[They can hold way more than you think.]]>
       </description>
-      <guid>68bd26541b3aebb46aebff36</guid>
-      <pubDate>2025-09-08T13:42:06Z</pubDate>
+      <guid>cid://68bd26541b3aebb46aebff36</guid>
     </item>    <item>
       <title>Cereal Milk Latte</title>
       <link>https://www.tasteofhome.com/recipes/cereal-milk-latte/</link>
       <description>
         <![CDATA[This cereal milk latte made with Lucky Charms is magically delicious!]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180383</guid>
-      <pubDate>2025-09-08T12:50:17Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180383</guid>
     </item>    <item>
       <title>The Breaks Gets Cracking at Larger Sioux Falls Roastery</title>
       <link>https://dailycoffeenews.com/2025/09/08/the-breaks-gets-cracking-at-larger-sioux-falls-roastery/</link>
       <description>
         <![CDATA[<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/The-Breaks-Coffee-620x418.jpg" class="attachment-large size-large wp-post-image" alt="The Breaks Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/The-Breaks-Coffee-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/The-Breaks-Coffee-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/The-Breaks-Coffee-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/The-Breaks-Coffee-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/The-Breaks-Coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Ready for a bigger break into South Dakota and beyond, Sioux Falls-based The Breaks Coffee Roasting is more than doubling its roasting capacity while spreading out production tasks in...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190655</guid>
-      <pubDate>2025-09-08T12:34:39Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190655</guid>
     </item>    <item>
       <title>Pizza Party Hot Sauce</title>
       <link>https://www.chilipeppermadness.com/recipes/pizza-party-hot-sauce/</link>
@@ -278,8 +248,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/pizza-party-hot-sauce/" title="Pizza Party Hot Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike squeezing a bottle of Pizza Party Hot Sauce over pizza" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Pizza-Hot-Sauce-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Pizza night just got hotter! This homemade hot sauce recipe uses roasted chilies, tomatoes, herbs, and balsamic for the perfect drizzle over gooey cheese.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/pizza-party-hot-sauce/">Pizza Party Hot Sauce</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=75765</guid>
-      <pubDate>2025-09-08T11:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=75765</guid>
     </item>    <item>
       <title>Coffee News Club: Week of September 8th</title>
       <link>https://freshcup.com/coffee-news-club-week-of-september-8th/</link>
@@ -287,8 +256,7 @@
         <![CDATA[<p>Is that a milk frother or a USB stick? Why espresso machines are now computers. Plus, your coffee cup is leaching microplastics. How much? Click to find out. </p>
         <p>The post <a href="https://freshcup.com/coffee-news-club-week-of-september-8th/">Coffee News Club: Week of September 8th</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42695</guid>
-      <pubDate>2025-09-08T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42695</guid>
     </item>    <item>
       <title>Basil Pesto Chicken Pasta</title>
       <link>https://www.closetcooking.com/basil-pesto-chicken-pasta/</link>
@@ -298,16 +266,14 @@
         <p><a class="more-link" href="https://www.closetcooking.com/basil-pesto-chicken-pasta/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/basil-pesto-chicken-pasta/">Basil Pesto Chicken Pasta</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/?p=86676</guid>
-      <pubDate>2025-09-08T10:00:07Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/?p=86676</guid>
     </item>    <item>
       <title>Are You Ready For Some Football?! No Wait, Coffee. Are You Ready For Some Coffee?</title>
       <link>https://sprudge.com/are-you-ready-for-some-football-no-wait-coffee-are-you-ready-for-some-coffee-414951.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffee from the Sprudge Roaster's Village.]]>
       </description>
-      <guid>https://sprudge.com/?p=414951</guid>
-      <pubDate>2025-09-07T12:00:06Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=414951</guid>
     </item>    <item>
       <title>50+ Late Summer Recipes</title>
       <link>https://www.closetcooking.com/50-late-summer-recipes/</link>
@@ -317,80 +283,70 @@
         <p><a class="more-link" href="https://www.closetcooking.com/50-late-summer-recipes/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/50-late-summer-recipes/">50+ Late Summer Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/2017/09/24/50-late-summer-recipes/</guid>
-      <pubDate>2025-09-07T10:00:00Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/2017/09/24/50-late-summer-recipes/</guid>
     </item>    <item>
       <title>43 Sweet Potato Recipes for Every Occasion</title>
       <link>https://www.bonappetit.com/gallery/sweet-potato-recipes-ideas</link>
       <description>
         <![CDATA[Including vegetarian loaded sweet potatoes with lentils and our best takes on the iconic casserole.]]>
       </description>
-      <guid>5a5d4d950630e201c17b23fc</guid>
-      <pubDate>2025-09-06T13:00:00Z</pubDate>
+      <guid>cid://5a5d4d950630e201c17b23fc</guid>
     </item>    <item>
       <title>Elise Jesse’s Chimichurri</title>
       <link>https://www.tasteofhome.com/recipes/elise-jesse-chimichurri/</link>
       <description>
         <![CDATA[This bright and zesty chimichurri packs a punch of fresh flavor. Made with chile peppers, parsley, oregano and cilantro, it’s a bold, herbaceous sauce that instantly elevates anything it touches. Drizzle it over grilled meats, veggies or even roasted potatoes for the ultimate flavor boost—you’ll never go back to plain condiments again. —Elise Jesse, Cincinnati, Ohio]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2181244</guid>
-      <pubDate>2025-09-05T19:39:42Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2181244</guid>
     </item>    <item>
       <title>Where to Stay in Chicago If You Like to Eat</title>
       <link>https://www.bonappetit.com/story/where-to-stay-food-lovers-chicago</link>
       <description>
         <![CDATA[Discover our staff's favorite home bases for exploring the Windy City's vibrant food scene.]]>
       </description>
-      <guid>68bb091efb8124efd1223049</guid>
-      <pubDate>2025-09-05T18:38:53Z</pubDate>
+      <guid>cid://68bb091efb8124efd1223049</guid>
     </item>    <item>
       <title>Hugo Spritz Cocktail</title>
       <link>https://www.tasteofhome.com/recipes/hugo-spritz-cocktail/</link>
       <description>
         <![CDATA[You'll only need five ingredients to make a refreshing, bubbly Hugo spritz.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2179390</guid>
-      <pubDate>2025-09-05T17:56:54Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2179390</guid>
     </item>    <item>
       <title>Green Beans with Pomegranate Seeds</title>
       <link>https://www.tasteofhome.com/recipes/green-beans-with-pomegranate-seeds/</link>
       <description>
         <![CDATA[This recipe for green beans with pomegranate seeds proves that even just five ingredients can create a rustic and versatile side dish.]]>
       </description>
-      <guid>http://origin-www.tasteofhome.com/recipes/green-beans-with-pomegranate-seeds/</guid>
-      <pubDate>2025-09-05T15:12:51Z</pubDate>
+      <guid>cid://http://origin-www.tasteofhome.com/recipes/green-beans-with-pomegranate-seeds/</guid>
     </item>    <item>
       <title>De’Longhi’s “Computer That Makes Coffee” Trolls U.S. Tariffs</title>
       <link>https://dailycoffeenews.com/2025/09/05/delonghis-computer-that-makes-coffee-trolls-u-s-tariffs/</link>
       <description>
         <![CDATA[<div><img width="620" height="361" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/DeLonghi-Computer-Coffee.zbBkvdFp-2-1-620x361.png" class="attachment-large size-large wp-post-image" alt="DeLonghi-Computer-Coffee.zbBkvdFp-2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/DeLonghi-Computer-Coffee.zbBkvdFp-2-1-620x361.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/DeLonghi-Computer-Coffee.zbBkvdFp-2-1-300x175.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/DeLonghi-Computer-Coffee.zbBkvdFp-2-1-150x87.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/DeLonghi-Computer-Coffee.zbBkvdFp-2-1-768x448.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/DeLonghi-Computer-Coffee.zbBkvdFp-2-1.png 925w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Italian appliance giant De&#8217;Longhi has turned United States trade policy into a marketing opportunity with a cheeky new campaign that reimagines one of its connected coffee machines as &#8220;the...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190685</guid>
-      <pubDate>2025-09-05T14:34:12Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190685</guid>
     </item>    <item>
       <title>Coffee Design: A New Approach To Coffee Bags From Blueprint Coffee Of St. Louis</title>
       <link>https://sprudge.com/coffee-design-a-new-aporach-to-coffee-bags-from-blueprint-coffee-of-st-louis-413955.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A fresh rebrand for Blueprint Coffee out of St. Louis, Missouri.]]>
       </description>
-      <guid>https://sprudge.com/?p=413955</guid>
-      <pubDate>2025-09-05T14:00:23Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=413955</guid>
     </item>    <item>
       <title>Weekly Coffee News: Coffee Shipping by Sail + Prices Surge</title>
       <link>https://dailycoffeenews.com/2025/09/05/weekly-coffee-news-coffee-shipping-by-sail-prices-surge/</link>
       <description>
         <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/TOWT-cargo-sailboat-620x414.jpg" class="attachment-large size-large wp-post-image" alt="cargo sailboat" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/TOWT-cargo-sailboat-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/TOWT-cargo-sailboat-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/TOWT-cargo-sailboat-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/TOWT-cargo-sailboat-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/TOWT-cargo-sailboat.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Cargo Sailboat Making Second Voyage from Colombia to Canada...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190575</guid>
-      <pubDate>2025-09-05T13:07:57Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190575</guid>
     </item>    <item>
       <title>Hot To-Go: Which Type Of Coffee Has The Most Microplastics?</title>
       <link>https://sprudge.com/hot-to-go-which-type-of-coffee-has-the-most-microplastics-414558.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Coffee coffee and to-go cups are a bad combo.]]>
       </description>
-      <guid>https://sprudge.com/?p=414558</guid>
-      <pubDate>2025-09-05T12:00:42Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=414558</guid>
     </item>    <item>
       <title>Introducing Espresso Machine Hub, A Research and Discovery Platform For Commercial Machines</title>
       <link>https://freshcup.com/introducing-espresso-machine-hub/</link>
@@ -398,16 +354,14 @@
         <![CDATA[<p>Buying a commercial espresso machine? Espresso Machine Hub makes it easy to do your research.</p>
         <p>The post <a href="https://freshcup.com/introducing-espresso-machine-hub/">Introducing Espresso Machine Hub, A Research and Discovery Platform For Commercial Machines</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42606</guid>
-      <pubDate>2025-09-05T12:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42606</guid>
     </item>    <item>
       <title>Italian Grinder Salad and More Recipes We Made This Week</title>
       <link>https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-september-2025</link>
       <description>
         <![CDATA[Like a tomato martini and Basque-style tiramisu cheesecake.]]>
       </description>
-      <guid>68a72acca5be2d3c0158578b</guid>
-      <pubDate>2025-09-05T10:00:00Z</pubDate>
+      <guid>cid://68a72acca5be2d3c0158578b</guid>
     </item>    <item>
       <title>Cuban Ropa Vieja Recipe</title>
       <link>https://www.chilipeppermadness.com/chili-pepper-recipes/beef/ropa-vieja-cuban-shredded-beef/</link>
@@ -415,23 +369,20 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/beef/ropa-vieja-cuban-shredded-beef/" title="Cuban Ropa Vieja Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Ropa Vieja (Cuban Shredded Beef) in a bowl with rice and black beans" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Ropa Vieja recipe makes tender Cuban shredded beef in rich tomato sauce with peppers and spices. A comforting, authentic dish full of bold flavor.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/beef/ropa-vieja-cuban-shredded-beef/">Cuban Ropa Vieja Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <pubDate>2025-09-05T06:00:00Z</pubDate>
     </item>    <item>
       <title>The Best Cheap Coffee Maker That Isn&#39;t a Waste of Money (2025)</title>
       <link>https://www.bonappetit.com/story/best-cheap-coffee-makers</link>
       <description>
         <![CDATA[We tested eight machines under $100 to find the cheap coffee makers that make a quality brew.]]>
       </description>
-      <guid>68b8a6232a4bca60d2fb872c</guid>
-      <pubDate>2025-09-04T20:29:06Z</pubDate>
+      <guid>cid://68b8a6232a4bca60d2fb872c</guid>
     </item>    <item>
       <title>Our Ultimate Late Summer Pie</title>
       <link>https://www.bonappetit.com/story/our-ultimate-late-summer-pie</link>
       <description>
         <![CDATA[BA Bake Club is back with August’s recipe: Shilpa’s Peach-Blueberry Crumb Pie.]]>
       </description>
-      <guid>68b0b114d5686feb3932dc0a</guid>
-      <pubDate>2025-09-04T20:00:00Z</pubDate>
+      <guid>cid://68b0b114d5686feb3932dc0a</guid>
     </item>    <item>
       <title>Big Blanket Review: After Two Years of Testing, This Massive Blanket Is My Go-To for Movie Nights</title>
       <link>https://www.tasteofhome.com/article/big-blanket-co-review/</link>
@@ -439,64 +390,56 @@
         <![CDATA[<p>This self-proclaimed blanket hog has finally met her match!</p>
         <p>The post <a href="https://www.tasteofhome.com/article/big-blanket-co-review/">Big Blanket Review: After Two Years of Testing, This Massive Blanket Is My Go-To for Movie Nights</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2165304</guid>
-      <pubDate>2025-09-04T16:34:54Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2165304</guid>
     </item>    <item>
       <title>Microplastics Are Elevated in Hot Coffee in To-Go Cups, Study Finds</title>
       <link>https://dailycoffeenews.com/2025/09/04/microplastics-are-elevated-in-hot-coffee-in-to-go-cups-study-finds/</link>
       <description>
         <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-cups-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee cups" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-cups-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-cups-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-cups-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-cups-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-cups.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new study of 155 drink samples sold in the UK found that all of them contained microplastics, while hot drinks such as coffee and tea contained elevated amounts. The...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190651</guid>
-      <pubDate>2025-09-04T14:50:30Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190651</guid>
     </item>    <item>
       <title>The Portal By Belka Opens a Door to Extraction Concentration Logging</title>
       <link>https://dailycoffeenews.com/2025/09/04/the-portal-by-belka-opens-a-door-to-extraction-concentration-logging/</link>
       <description>
         <![CDATA[<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Portal-by-Belca-coffee-measurement-tool-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Portal coffee accessory Belka 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Portal-by-Belca-coffee-measurement-tool-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Portal-by-Belca-coffee-measurement-tool-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Portal-by-Belca-coffee-measurement-tool-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Portal-by-Belca-coffee-measurement-tool-1-768x513.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Portal-by-Belca-coffee-measurement-tool-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>South Korean coffee equipment startup Belka is bringing real-time extraction analysis to professional and home brewing environments with Portal, a Bluetooth-connected device that continuously measures brewed coffee concentration as it...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190212</guid>
-      <pubDate>2025-09-04T14:20:38Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190212</guid>
     </item>    <item>
       <title>Ready To Drink: The Coffee Palmer From Coffee Project NY</title>
       <link>https://sprudge.com/ready-to-drink-the-coffee-palmer-from-coffee-project-ny-413995.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffee Palmer from Coffee Project New York.]]>
       </description>
-      <guid>https://sprudge.com/?p=413995</guid>
-      <pubDate>2025-09-04T14:00:18Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=413995</guid>
     </item>    <item>
       <title>Million Dollar Soup</title>
       <link>https://www.tasteofhome.com/recipes/million-dollar-soup/</link>
       <description>
         <![CDATA[This soup stands apart with its decadent, restaurant-level flavor. Million dollar soup has a rich broth and several flavorful ingredients like bacon and caramelized onions.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2179567</guid>
-      <pubDate>2025-09-04T13:45:51Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2179567</guid>
     </item>    <item>
       <title>Grinch Fruit Kabobs</title>
       <link>https://www.tasteofhome.com/recipes/grinch-fruit-kabobs/</link>
       <description>
         <![CDATA[All you need to make healthy, festive Grinch fruit kabobs are skewers, fresh fruit and mini marshmallows.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2140365</guid>
-      <pubDate>2025-09-04T12:33:51Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2140365</guid>
     </item>    <item>
       <title>Be A Judge At The Tiramisu World Cup In Italy</title>
       <link>https://sprudge.com/be-a-judge-at-the-tiramisu-world-cup-in-italy-413890.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Tiramisu World Cup take place October 11th through 13th in Treviso, Italy.]]>
       </description>
-      <guid>https://sprudge.com/?p=413890</guid>
-      <pubDate>2025-09-04T12:00:13Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=413890</guid>
     </item>    <item>
       <title>Chicken Riggies</title>
       <link>https://www.bonappetit.com/recipe/chicken-riggies</link>
       <description>
         <![CDATA[Hot pickled cherry peppers add acidity and heat to this beloved regional pasta.]]>
       </description>
-      <guid>68ac76419cdfa9219267a857</guid>
-      <pubDate>2025-09-04T11:00:00Z</pubDate>
+      <guid>cid://68ac76419cdfa9219267a857</guid>
     </item>    <item>
       <title>Garlic Butter Zucchini</title>
       <link>https://www.closetcooking.com/garlic-butter-zucchini/</link>
@@ -506,24 +449,21 @@
         <p><a class="more-link" href="https://www.closetcooking.com/garlic-butter-zucchini/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/garlic-butter-zucchini/">Garlic Butter Zucchini</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/?p=86662</guid>
-      <pubDate>2025-09-04T10:00:49Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/?p=86662</guid>
     </item>    <item>
       <title>Alex Bala’s No-Bake Pumpkin Spice Cheesecake Bars</title>
       <link>https://www.tasteofhome.com/recipes/alex-balas-no-bake-pumpkin-spice-cheesecake-bars/</link>
       <description>
         <![CDATA[No-bake pumpkin spice cheesecake bars are creamy, dreamy and basically autumn in dessert form. It’s time to get cozy with this fall sweet treat! —Alex Bala, Longmont, Colorado]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180454</guid>
-      <pubDate>2025-09-03T21:40:22Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180454</guid>
     </item>    <item>
       <title>Tam To’s Poke Spring Rolls</title>
       <link>https://www.tasteofhome.com/recipes/tam-to-poke-spring-rolls/</link>
       <description>
         <![CDATA[Poke spring rolls take everything you love about a poke bowl and tuck it neatly into a hand-held roll. Think tender sushi-grade fish paired with crunchy vegetables and creamy avocado, all wrapped in delicate rice paper that shows off the colorful filling inside. The rolls are light yet satisfying, perfect for dipping into a tangy ponzu soy sauce. Fresh, customizable and bursting with flavor, these rolls are a fun way to enjoy poke in a portable, shareable form. —Thaotam To, Los Angeles, California]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180122</guid>
-      <pubDate>2025-09-03T21:30:16Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180122</guid>
     </item>    <item>
       <title>I Tried the New McDonald’s Gold Sauce and It Tastes Like Sweet, Smoky Heaven</title>
       <link>https://www.tasteofhome.com/article/i-tried-the-new-mcdonalds-gold-sauce-and-it-tastes-like-sweet-smoky-heaven/</link>
@@ -531,16 +471,14 @@
         <![CDATA[<p>McDonald's Gold sauce is the latest menu offering by the classic fast food chain. See if this limited-edition sauce makes the condiment cut!</p>
         <p>The post <a href="https://www.tasteofhome.com/article/i-tried-the-new-mcdonalds-gold-sauce-and-it-tastes-like-sweet-smoky-heaven/">I Tried the New McDonald&#8217;s Gold Sauce and It Tastes Like Sweet, Smoky Heaven</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2180367</guid>
-      <pubDate>2025-09-03T21:09:03Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2180367</guid>
     </item>    <item>
       <title>Daniel Boulud on His Favorite Basic Kitchen Tools and the Most Important Ingredient for a White Negroni</title>
       <link>https://www.bonappetit.com/story/daniel-boulud-favorite-kitchen-tools</link>
       <description>
         <![CDATA[The Michelin-starred chef shares what he uses in his own kitchen and the one dish he thinks everyone should be able to make.]]>
       </description>
-      <guid>68b8618434fb9c982d824952</guid>
-      <pubDate>2025-09-03T20:16:24Z</pubDate>
+      <guid>cid://68b8618434fb9c982d824952</guid>
     </item>    <item>
       <title>McDonald’s Is Lowering Prices on Key Menu Items—Here’s When The Changes Take Effect</title>
       <link>https://www.tasteofhome.com/article/mcdonalds-menu-prices-drop-september-2025/</link>
@@ -548,16 +486,14 @@
         <![CDATA[<p>The golden arches are keeping some green in your wallet.</p>
         <p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-menu-prices-drop-september-2025/">McDonald’s Is Lowering Prices on Key Menu Items—Here’s When The Changes Take Effect</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2180036</guid>
-      <pubDate>2025-09-03T17:45:30Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2180036</guid>
     </item>    <item>
       <title>Caribou Coffee Taps Scott Kennedy as CEO to Drive Store Growth</title>
       <link>https://dailycoffeenews.com/2025/09/03/caribou-coffee-taps-scott-kennedy-as-ceo-to-drive-store-growth/</link>
       <description>
         <![CDATA[<div><img width="620" height="427" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/Scott_Kennedy_Headshot-1-620x427.jpg" class="attachment-large size-large wp-post-image" alt="Scott Kennedy Headshot" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/Scott_Kennedy_Headshot-1-620x427.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Scott_Kennedy_Headshot-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Scott_Kennedy_Headshot-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Scott_Kennedy_Headshot-1-768x529.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/Scott_Kennedy_Headshot-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Caribou Coffee named Scott Kennedy president and CEO, formalizing the roles he has held on an interim basis since the March departure of John Butcher.&#160; Kennedy previously served as...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190636</guid>
-      <pubDate>2025-09-03T15:56:14Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190636</guid>
     </item>    <item>
       <title>I Tried Reusable Paper Towels That Are Better for the Environment—And My Budget</title>
       <link>https://www.tasteofhome.com/article/grove-reusable-paper-towels/</link>
@@ -565,8 +501,7 @@
         <![CDATA[<p>Reusable paper towels are eco-friendly and easier on the wallet, but making the switch is hard. Here's how one paper towel addict did it. </p>
         <p>The post <a href="https://www.tasteofhome.com/article/grove-reusable-paper-towels/">I Tried Reusable Paper Towels That Are Better for the Environment—And My Budget</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2178645</guid>
-      <pubDate>2025-09-03T15:48:45Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2178645</guid>
     </item>    <item>
       <title>A New Protein Drink Has Entered the Market, and You’ll Never Guess What It Is</title>
       <link>https://www.tasteofhome.com/article/costco-genius-gourmet-sparkling-protein-drink-review/</link>
@@ -574,48 +509,42 @@
         <![CDATA[<p>Genius Gourmet sparkling blue raspberry lemonade-flavored protein water is making waves in the health community. We tried it and have some thoughts.</p>
         <p>The post <a href="https://www.tasteofhome.com/article/costco-genius-gourmet-sparkling-protein-drink-review/">A New Protein Drink Has Entered the Market, and You&#8217;ll Never Guess What It Is</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2180123</guid>
-      <pubDate>2025-09-03T15:01:10Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2180123</guid>
     </item>    <item>
       <title>Build-Outs Of Coffee: Pergamino Café In Medellín, Colombia</title>
       <link>https://sprudge.com/build-outs-of-coffee-pergamino-cafe-in-medellin-colombia-399376.html</link>
       <description>
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Pergamino Café in Medellín, Colombia.]]>
       </description>
-      <guid>https://sprudge.com/?p=399376</guid>
-      <pubDate>2025-09-03T14:00:15Z</pubDate>
+      <guid>cid://https://sprudge.com/?p=399376</guid>
     </item>    <item>
       <title>Fruity Pebbles Milk ‘n’ Cereal Bars</title>
       <link>https://www.tasteofhome.com/recipes/fruity-pebbles-milk-n-cereal-bars/</link>
       <description>
         <![CDATA[Take a sweet trip down memory lane with homemade Fruity Pebbles milk 'n' cereal bars.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180033</guid>
-      <pubDate>2025-09-03T13:39:05Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180033</guid>
     </item>    <item>
       <title>The Best Protein Cereal to Jump-Start Your Morning (2025)</title>
       <link>https://www.bonappetit.com/story/best-protein-cereals</link>
       <description>
         <![CDATA[I tried seven different brands to find out.]]>
       </description>
-      <guid>68b6f354a299fb0efa4d7526</guid>
-      <pubDate>2025-09-03T13:34:00Z</pubDate>
+      <guid>cid://68b6f354a299fb0efa4d7526</guid>
     </item>    <item>
       <title>Crispy Rice Salad</title>
       <link>https://www.tasteofhome.com/recipes/crispy-rice-salad/</link>
       <description>
         <![CDATA[Baking leftover rice on a sheet pan gives it a crispy texture and golden color. Then, topping it with a tahini-soy dressing and plenty of veggies makes this crispy rice salad a dinner-in-a-bowl that is exciting, full of texture and endlessly customizable.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180107</guid>
-      <pubDate>2025-09-03T13:06:52Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180107</guid>
     </item>    <item>
       <title>GCP Publishes RegenCoffee, Proposes Common Language for Regenerative Agriculture</title>
       <link>https://dailycoffeenews.com/2025/09/03/gcp-publishes-regencoffee-proposes-common-language-for-regenerative-agriculture/</link>
       <description>
         <![CDATA[<div><img width="620" height="424" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-1-620x424.jpg" class="attachment-large size-large wp-post-image" alt="coffee farm" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-1-620x424.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-1-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-1-768x525.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-farm-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; Following a six-month collaborative effort, the Global Coffee Platform just published RegenCoffee, a guidance document designed to provide shared language and resources surrounding regenerative agriculture in the coffee sector.&#160;...]]>
       </description>
-      <guid>https://dailycoffeenews.com/?p=190620</guid>
-      <pubDate>2025-09-03T12:40:10Z</pubDate>
+      <guid>cid://https://dailycoffeenews.com/?p=190620</guid>
     </item>    <item>
       <title>Herb Oil Recipe</title>
       <link>https://www.chilipeppermadness.com/recipes/herb-oil/</link>
@@ -623,8 +552,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/herb-oil/" title="Herb Oil Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A jar filled with Homemade herb oil, ready to use" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/09/Herb-Oil-Recipe6.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to make fresh herb oil with garden herbs and olive oil (or any oil), vibrant, flavorful, and perfect for drizzling, dipping or finishing any meal.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/herb-oil/">Herb Oil Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=75645</guid>
-      <pubDate>2025-09-03T11:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=75645</guid>
     </item>    <item>
       <title>Can Profit Sharing Make Cafes More Sustainable? Marco Suarez is Betting On It</title>
       <link>https://freshcup.com/can-profit-sharing-make-cafes-more-sustainable-marco-suarez-is-betting-on-it/</link>
@@ -632,8 +560,7 @@
         <![CDATA[<p>Methodical Coffee, a coffee shop and roaster based in Greenville, South Carolina, launched a profit-sharing program early this year. The program covers all 85 of its employees, including those who work across its four cafe locations and its roastery, as well as its support and events teams.&#160; CEO and co-founder Marco Suarez was inspired to&#8230;</p>
         <p>The post <a href="https://freshcup.com/can-profit-sharing-make-cafes-more-sustainable-marco-suarez-is-betting-on-it/">Can Profit Sharing Make Cafes More Sustainable? Marco Suarez is Betting On It</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42586</guid>
-      <pubDate>2025-09-03T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42586</guid>
     </item>    <item>
       <title>To Offset Emissions, Protecting Existing Forests More Beneficial Than Planting Trees</title>
       <link>https://freshcup.com/to-offset-emissions-protecting-existing-forests-more-beneficial-than-planting-trees/</link>
@@ -641,16 +568,14 @@
         <![CDATA[<p>A new meta-analysis reveals that it is significantly more beneficial to leave existing forests intact than to plant new trees.</p>
         <p>The post <a href="https://freshcup.com/to-offset-emissions-protecting-existing-forests-more-beneficial-than-planting-trees/">To Offset Emissions, Protecting Existing Forests More Beneficial Than Planting Trees</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42542</guid>
-      <pubDate>2025-09-03T10:58:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42542</guid>
     </item>    <item>
       <title>Enchiladas Suizas</title>
       <link>https://www.tasteofhome.com/recipes/enchiladas-suizas/</link>
       <description>
         <![CDATA[This creamy, spicy enchiladas suizas recipe translates your favorite restaurant meal into a simple chicken casserole you can make at home any night of the week.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2150302</guid>
-      <pubDate>2025-09-03T06:22:57Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2150302</guid>
     </item>    <item>
       <title>The Best Bread Knives for Sourdough, Soft Loaves and Sandwiches</title>
       <link>https://www.tasteofhome.com/collection/best-bread-knife/</link>
@@ -658,48 +583,42 @@
         <![CDATA[<p>The best bread knife slices through sourdough just as easily as it glides through tomatoes. Here are our three top picks, tested by editors.</p>
         <p>The post <a href="https://www.tasteofhome.com/collection/best-bread-knife/">The Best Bread Knives for Sourdough, Soft Loaves and Sandwiches</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=listicle&p=2178920</guid>
-      <pubDate>2025-09-02T23:41:43Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=listicle&#38;p=2178920</guid>
     </item>    <item>
       <title>Waffled Grilled Cheese</title>
       <link>https://www.tasteofhome.com/recipes/waffled-grilled-cheese/</link>
       <description>
         <![CDATA[Waffled grilled cheese is the crispy, melty and savory upgrade you and your waffle maker have been waiting for.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180078</guid>
-      <pubDate>2025-09-02T23:02:37Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180078</guid>
     </item>    <item>
       <title>Chopped Chicken Caesar Salad Sandwiches</title>
       <link>https://www.tasteofhome.com/recipes/chopped-chicken-caesar-salad-sandwiches/</link>
       <description>
         <![CDATA[Imagine: A creamy garlicky dressing, crunchy romaine lettuce and hearty chicken all encased in a chewy bun that's like a super-sized crouton. These chopped chicken Caesar salad sandwiches are simple, delightful and perfect for salad lovers.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2180050</guid>
-      <pubDate>2025-09-02T21:33:40Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180050</guid>
     </item>    <item>
       <title>4 Best Carbon-Steel Pans, Vetted by Experts (2025)</title>
       <link>https://www.bonappetit.com/story/best-carbon-steel-pans</link>
       <description>
         <![CDATA[They’re all over professional kitchens for a reason.]]>
       </description>
-      <guid>65bd57487a94eed543728943</guid>
-      <pubDate>2025-09-02T19:15:09Z</pubDate>
+      <guid>cid://65bd57487a94eed543728943</guid>
     </item>    <item>
       <title>Grinch Guacamole</title>
       <link>https://www.tasteofhome.com/recipes/grinch-guacamole/</link>
       <description>
         <![CDATA[Build a Grinch guacamole snack board with fresh veggies, cheese and tortilla chips to bring a touch of whimsy to your next holiday party or family movie night.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2140386</guid>
-      <pubDate>2025-09-02T17:16:32Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2140386</guid>
     </item>    <item>
       <title>Tahini Brownies</title>
       <link>https://www.tasteofhome.com/recipes/tahini-brownies/</link>
       <description>
         <![CDATA[If you’ve never baked with tahini or halva before, these tahini brownies are a great introduction.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2166003</guid>
-      <pubDate>2025-09-02T13:58:39Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2166003</guid>
     </item>    <item>
       <title>Coffee News Club: Week of September 2nd</title>
       <link>https://freshcup.com/coffee-news-club-week-of-september-2nd/</link>
@@ -707,8 +626,7 @@
         <![CDATA[<p>Keurig Dr Pepper acquires JDE Peet’s in a major coffee consolidation. Plus, saving forests beats planting new trees, and Verve’s healthcare surcharge has people irked.</p>
         <p>The post <a href="https://freshcup.com/coffee-news-club-week-of-september-2nd/">Coffee News Club: Week of September 2nd</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42545</guid>
-      <pubDate>2025-09-02T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42545</guid>
     </item>    <item>
       <title>Keurig Dr Pepper Buys JDE Peet’s, Building Coffee Giant Second to Nestlé</title>
       <link>https://freshcup.com/keurig-dr-pepper-buys-jde-peets-building-coffee-giant-second-to-nestle/</link>
@@ -716,8 +634,7 @@
         <![CDATA[<p>After a decade of nonstop mergers in coffee, news broke that Keurig Dr Pepper has agreed to acquire JDE Peet’s for $18 billion. </p>
         <p>The post <a href="https://freshcup.com/keurig-dr-pepper-buys-jde-peets-building-coffee-giant-second-to-nestle/">Keurig Dr Pepper Buys JDE Peet’s, Building Coffee Giant Second to Nestlé</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42539</guid>
-      <pubDate>2025-09-02T10:58:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42539</guid>
     </item>    <item>
       <title>Your 2025 Fall Baking Bucket List</title>
       <link>https://www.tasteofhome.com/article/fall-baking-bucket-list/</link>
@@ -725,8 +642,7 @@
         <![CDATA[<p>Our fall baking bucket list includes all the cozy autumnal pastries, breads and desserts we crave as soon as the weather starts to cool down. Bake along with us, and then check off recipes on the bingo card.</p>
         <p>The post <a href="https://www.tasteofhome.com/article/fall-baking-bucket-list/">Your 2025 Fall Baking Bucket List</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2165827</guid>
-      <pubDate>2025-09-02T05:01:44Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2165827</guid>
     </item>    <item>
       <title>THE RISE OF IRISH CRAFT CHOCOLATE: BEAN-TO-BAR IN THE EMERALD ISLE</title>
       <link>https://irishfoodhub.com/irish-craft-chocolate-bean-to-bar/</link>
@@ -734,8 +650,7 @@
         <![CDATA[<p>Chocolate may not be native to Ireland, but in recent years the Emerald Isle has carved out a name for itself in the world of artisanal bean-to-bar chocolate. A new generation of Irish chocolatiers is blending craftsmanship, sustainability, and a deep respect for Irish food heritage to create world-class chocolate with a distinctly Irish twist. From small coastal towns to bustling cities, craft chocolate makers are redefining how chocolate is made and enjoyed, transforming it from a sweet indulgence into a cultural experience.  Table of Contents The Origins of Craft Chocolate in Ireland Bean-to-Bar: What Makes Irish Craft Chocolate Unique? Meet the Makers: Ireland’s Leading Craft Chocolatiers Sustainability and Ethics in Irish Chocolate Making The Future of Irish Craft Chocolate: Trends and Global Recognition The Origins of Craft Chocolate in Ireland While Ireland has long been associated with rich dairy, hearty breads, and traditional sweets, chocolate has a surprisingly short but fascinating history on the island. For much of the 19th and early 20th centuries, chocolate in Ireland was dominated by imported brands and mass-produced confectionery. However, the seeds of a craft chocolate movement were planted in the late 20th century as Irish food culture began to embrace artisanal traditions, from farmhouse cheeses to craft beers. The early pioneers of Irish chocolate making often drew inspiration from European chocolatiers, particularly those in Belgium, Switzerland, and France. Small-scale producers began experimenting with higher-quality cocoa, using Ireland’s renowned dairy products—especially cream and butter—to create smooth, rich chocolates that reflected Irish culinary character. These early efforts were less about bean-to-bar production and more about crafting a premium product that went beyond the mass-market chocolate bars found in every shop. As Ireland’s food culture grew more sophisticated, with the rise of farmers’ markets, artisan bakeries, and a strong farm-to-table ethos, chocolate makers also began looking for ways to distinguish their craft. By the early 2000s, the global bean-to-bar movement was gaining momentum, with chocolatiers around the world sourcing cacao directly from farmers, roasting beans themselves, and controlling the entire chocolate-making process. Ireland, never one to shy away from blending tradition with innovation, soon found itself at the forefront of this shift. Coastal towns such as Dingle and small communities in Cork and Wicklow became unlikely hubs for chocolate experimentation. Here, independent chocolatiers began roasting cacao beans themselves, hand-tempering chocolate, and infusing their creations with local flavors—such as Irish sea salt, whiskey, honey, and even seaweed. These bold experiments not only put Irish craft chocolate on the map but also tapped into a growing demand for authenticity, sustainability, and unique taste experiences. In this way, Irish craft chocolate has mirrored the broader Irish food renaissance: rooted in tradition, inspired by the land and sea, yet open to global influences.  Bean-to-Bar – What Makes Irish Craft Chocolate Unique? The phrase “bean-to-bar” describes a chocolate-making process in which artisans oversee every stage of production—from sourcing raw cacao beans to creating the finished chocolate bar. Unlike mass-market producers, who often buy pre-processed cocoa liquor or couverture, bean-to-bar chocolatiers control each step, ensuring transparency, quality, and creativity. In Ireland, this approach has taken on a distinctly local character, shaped by the island’s culinary traditions and values. Direct relationships with cacao farmers: Irish craft chocolatiers emphasize ethical sourcing. Many work directly with small-scale cacao farmers in Latin America, Africa, and Asia, paying fair prices that support sustainable livelihoods. This farmer-focused approach echoes Ireland’s own history of small farming communities, fostering a sense of solidarity across continents. Roasting and flavor development: By roasting cacao beans themselves, Irish chocolatiers can experiment with temperature and time to highlight unique flavor notes. Just as Irish whiskey makers carefully distill to capture depth of flavor, bean-to-bar chocolatiers bring out profiles ranging from fruity and floral to nutty and earthy. The result is chocolate with a complexity rarely found in mass-produced brands. Irish terroir and local ingredients: What truly distinguishes Irish craft chocolate is the way it blends global cacao with Irish flavors. Makers often incorporate local ingredients such as sea salt from West Cork, honey from rural beekeepers, or whiskey from historic distilleries. Some even experiment with seaweed or wild herbs, tying chocolate to the Irish landscape in surprising ways. This fusion not only creates unique taste experiences but also grounds Irish chocolate in a sense of place.. Transparency and education: Many bean-to-bar chocolatiers in Ireland open their workshops to the public, offer tasting sessions, and educate consumers about the journey of chocolate. This emphasis on storytelling reflects Ireland’s cultural love of narrative, turning each chocolate bar into both a treat and a lesson about sustainability, farming, and craftsmanship. Small scale, big impact: While the number of Irish bean-to-bar producers is still relatively small, their impact is growing. Their focus on quality over quantity allows them to innovate with flavor combinations and production methods, positioning Irish chocolate as a premium product on the global stage. In short, Irish bean-to-bar chocolate is unique because it marries global connections with local identity. It takes the universal language of chocolate and gives it an Irish accent—one that speaks of authenticity, sustainability, and flavor. Meet the Makers – Ireland’s Leading Craft Chocolatiers The rise of Irish craft chocolate has been fueled by passionate chocolatiers who combine artistry, sustainability, and a deep respect for flavor. These makers, often working in small workshops along the coast or in rural towns, are redefining what Irish chocolate can be. Their dedication has placed Ireland firmly on the map of the global bean-to-bar movement. Bean and Goose (County Wexford): Founded by sisters Karen and Natalie Keane, Bean and Goose is one of Ireland’s most celebrated bean-to-bar producers. Their chocolate emphasizes seasonality and Irish terroir, often infused with ingredients such as hazelnuts, foraged berries, and sea salt from the Atlantic. They are also known for their beautifully designed bars that celebrate Ireland’s landscapes and traditions. Exploding Tree (County Cork): A pioneering bean-to-bar maker, Exploding Tree produces organic chocolate from ethically sourced beans. Their focus is on transparency and sustainability, and their flavors range from</p>
         <p>The post <a href="https://irishfoodhub.com/irish-craft-chocolate-bean-to-bar/">THE RISE OF IRISH CRAFT CHOCOLATE: BEAN-TO-BAR IN THE EMERALD ISLE</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8194</guid>
-      <pubDate>2025-09-01T21:10:44Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8194</guid>
     </item>    <item>
       <title>IRISH CRAB CLAWS IN GARLIC BUTTER</title>
       <link>https://irishfoodhub.com/irish-crab-claws-garlic-butter/</link>
@@ -743,8 +658,7 @@
         <![CDATA[<p>Irish Crab Claws in Garlic Butter – A West Coast Seafood Delight Irish Crab Claws in Garlic Butter are a true delicacy from Ireland’s Atlantic coast. Sweet and tender crab claws are gently cooked in rich garlic butter, creating a simple yet luxurious dish. Served with crusty bread to soak up every drop of the buttery sauce, this recipe is a seafood lover’s dream and a staple in many Irish coastal restaurants. Recipe Details Preparation Time: 10 minutes Cooking Time: 10 minutes Serving Size: Serves 2 Ingredients 400g fresh Irish crab claws, cleaned 3 tbsp unsalted butter 3 garlic cloves, finely chopped Juice of ½ lemon 1 tbsp fresh parsley, chopped Salt and black pepper, to taste Crusty bread, for serving Instructions In a large pan, melt the butter over medium heat. Add the garlic and cook gently for 1–2 minutes until fragrant but not browned. Add the crab claws and toss in the garlic butter for 4–5 minutes until heated through and coated. Squeeze in the lemon juice, season with salt and pepper, and sprinkle with chopped parsley. Serve immediately with warm crusty bread for dipping into the garlic butter sauce. Why You’ll Love This Recipe This dish captures the essence of Ireland’s coastal cuisine. Quick to prepare yet bursting with flavor, Irish Crab Claws in Garlic Butter are perfect as an appetizer, light meal, or indulgent seafood treat. The combination of tender crab meat, golden garlic butter, and fresh bread makes every bite unforgettable.</p>
         <p>The post <a href="https://irishfoodhub.com/irish-crab-claws-garlic-butter/">IRISH CRAB CLAWS IN GARLIC BUTTER</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8094</guid>
-      <pubDate>2025-09-01T17:34:32Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8094</guid>
     </item>    <item>
       <title>BOXTY PANCAKE WRAPS WITH BEEF AND ONION GRAVY</title>
       <link>https://irishfoodhub.com/boxty-pancake-wraps-beef-onion-gravy/</link>
@@ -752,40 +666,35 @@
         <![CDATA[<p>Boxty Pancake Wraps with Beef &#38; Onion Gravy – A Hearty Irish Classic Boxty Pancake Wraps with Beef &#38; Onion Gravy bring together two Irish favorites: thin, tender potato pancakes and slow-cooked, melt-in-your-mouth beef. Rolled into a comforting wrap and drizzled with rich onion gravy, this dish is rustic, hearty, and deeply rooted in Irish tradition. Perfect for dinner or as a filling weekend treat, these wraps are a modern twist on the beloved boxty. Recipe Details Preparation Time: 20 minutes Cooking Time: 2 hours Serving Size: Serves 4 Ingredients For the Boxty Pancakes: 250g raw potato, finely grated 250g mashed potato 120g plain flour 200ml milk 1 egg Salt and black pepper, to taste Butter or oil, for frying For the Beef &#38; Onion Gravy: 500g stewing beef, diced 2 onions, thinly sliced 2 tbsp plain flour 500ml beef stock 2 tbsp vegetable oil 1 tbsp Worcestershire sauce Salt and black pepper, to taste Instructions Cook the Beef &#38; Onion Gravy: Heat oil in a pan and brown the beef pieces. Remove and set aside. In the same pan, cook onions until golden. Sprinkle with flour, stir well, then gradually add beef stock. Return beef to the pan, add Worcestershire sauce, and simmer gently for 1.5–2 hours until tender and thickened. Season to taste. Make the Boxty Pancakes: In a bowl, combine grated potato, mashed potato, flour, egg, and milk. Season with salt and pepper. Heat a little butter or oil in a frying pan and pour in ladlefuls of the batter to make thin pancakes. Cook for 2–3 minutes per side until golden. Assemble the Wraps: Place a spoonful of beef and onion gravy onto each pancake, roll tightly, and drizzle with extra gravy before serving. Why You’ll Love This Recipe Boxty Pancake Wraps with Beef &#38; Onion Gravy are a true taste of Irish comfort food. The crispy-yet-soft potato pancakes perfectly complement the rich, slow-cooked beef filling. This dish is hearty, satisfying, and steeped in Irish tradition, making it a wonderful choice for family dinners or special occasions.</p>
         <p>The post <a href="https://irishfoodhub.com/boxty-pancake-wraps-beef-onion-gravy/">BOXTY PANCAKE WRAPS WITH BEEF AND ONION GRAVY</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8082</guid>
-      <pubDate>2025-09-01T17:26:22Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8082</guid>
     </item>    <item>
       <title>Radicchio Salad With Blue Cheese Dressing</title>
       <link>https://www.bonappetit.com/recipe/radicchio-salad-with-blue-cheese-dressing</link>
       <description>
         <![CDATA[Blue cheese lovers, this one's for you. A glossy blue cheese dressing is tossed with radicchio, hazelnuts, and roasted squash for a satisfying fall salad.]]>
       </description>
-      <guid>68a71a413edfc22e2603ea23</guid>
-      <pubDate>2025-09-01T12:00:00Z</pubDate>
+      <guid>cid://68a71a413edfc22e2603ea23</guid>
     </item>    <item>
       <title>The Sky-High Salad Our Restaurant Editor Eats at Home</title>
       <link>https://www.bonappetit.com/story/feel-good-food-plan-september-2025</link>
       <description>
         <![CDATA[September’s Feel-Good Food Plan embraces the comforts of dining in.]]>
       </description>
-      <guid>689c9edae70677a3b3e403ff</guid>
-      <pubDate>2025-09-01T12:00:00Z</pubDate>
+      <guid>cid://689c9edae70677a3b3e403ff</guid>
     </item>    <item>
       <title>An Elegant French Dessert Gets a Southern Twist</title>
       <link>https://www.bonappetit.com/story/bake-club</link>
       <description>
         <![CDATA[Break out your piping tips, Jesse’s here with Bake Club’s Banana Pudding Paris-Brest.]]>
       </description>
-      <guid>6717c8b3bdcd6e5bfeecd571</guid>
-      <pubDate>2025-09-01T11:00:00Z</pubDate>
+      <guid>cid://6717c8b3bdcd6e5bfeecd571</guid>
     </item>    <item>
       <title>Banana Pudding Paris-Brest</title>
       <link>https://www.bonappetit.com/recipe/banana-pudding-paris-brest</link>
       <description>
         <![CDATA[This modern riff on an old-school French classic is the ultimate fancy-pants dessert.]]>
       </description>
-      <guid>689f46859d7c19cf00ba6f4e</guid>
-      <pubDate>2025-09-01T11:00:00Z</pubDate>
+      <guid>cid://689f46859d7c19cf00ba6f4e</guid>
     </item>    <item>
       <title>Salmorejo Recipe (Spanish Cold Tomato Soup)</title>
       <link>https://www.chilipeppermadness.com/recipes/salmorejo/</link>
@@ -793,8 +702,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/salmorejo/" title="Salmorejo Recipe (Spanish Cold Tomato Soup)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Salmorejo (Spanish Cold Tomato Soup) garnished with hard boiled egg, sliced ham, and olive oil" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Salmorejo-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Spanish salmorejo is a creamy chilled tomato soup made with fresh tomatoes, bread, olive oil, and garlic, easy to make, smooth, and perfect for hot weather.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/salmorejo/">Salmorejo Recipe (Spanish Cold Tomato Soup)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=75343</guid>
-      <pubDate>2025-09-01T11:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=75343</guid>
     </item>    <item>
       <title>Grinder Pasta Salad</title>
       <link>https://www.closetcooking.com/grinder-pasta-salad/</link>
@@ -804,8 +712,7 @@
         <p><a class="more-link" href="https://www.closetcooking.com/grinder-pasta-salad/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/grinder-pasta-salad/">Grinder Pasta Salad</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/?p=86652</guid>
-      <pubDate>2025-09-01T10:00:56Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/?p=86652</guid>
     </item>    <item>
       <title>Modern Slow Cooker Recipe Contest Announcement</title>
       <link>https://www.tasteofhome.com/article/modern-slow-cooker-recipe-contest/</link>
@@ -813,8 +720,7 @@
         <![CDATA[<p>Share your irresistible slow-cooker dish with us for the chance to win $500!</p>
         <p>The post <a href="https://www.tasteofhome.com/article/modern-slow-cooker-recipe-contest/">Modern Slow Cooker Recipe Contest Announcement</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2176500</guid>
-      <pubDate>2025-09-01T05:01:59Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2176500</guid>
     </item>    <item>
       <title>Quick and Easy Chicken Dinners</title>
       <link>https://www.closetcooking.com/easy-chicken-recipes/</link>
@@ -824,8 +730,7 @@
         <p><a class="more-link" href="https://www.closetcooking.com/easy-chicken-recipes/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/easy-chicken-recipes/">Quick and Easy Chicken Dinners</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/2018/02/04/easy-chicken-recipes/</guid>
-      <pubDate>2025-08-31T10:00:00Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/2018/02/04/easy-chicken-recipes/</guid>
     </item>    <item>
       <title>I Tried Dairy Queen’s New Fall Menu, and DQ Has a Winner on Its Hands</title>
       <link>https://www.tasteofhome.com/article/dairy-queen-fall-menu-review/</link>
@@ -833,24 +738,21 @@
         <![CDATA[<p>Dairy Queen launched two new items for its fall 2025 seasonal menu: a Maple Cookie Shake and a Caramel Toffee Cookie Blizzard Treat.</p>
         <p>The post <a href="https://www.tasteofhome.com/article/dairy-queen-fall-menu-review/">I Tried Dairy Queen&#8217;s New Fall Menu, and DQ Has a Winner on Its Hands</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2179591</guid>
-      <pubDate>2025-08-29T21:31:09Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2179591</guid>
     </item>    <item>
       <title>Puppy Chow Bars</title>
       <link>https://www.tasteofhome.com/recipes/puppy-chow-bars/</link>
       <description>
         <![CDATA[These puppy chow bars are a fun take on the classic lunchbox treat we all know and love. Each bar is jam-packed with crisp Chex cereal, peanut butter, chocolate and gooey marshmallows.]]>
       </description>
-      <guid>https://www.tasteofhome.com/?post_type=recipe&p=2179552</guid>
-      <pubDate>2025-08-29T20:35:39Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2179552</guid>
     </item>    <item>
       <title>What Bon Appétit Editors Loved in August 2025</title>
       <link>https://www.bonappetit.com/story/what-editors-loved-august-2025</link>
       <description>
         <![CDATA[Like a citrusy sparkling water, an all-natural kitchen cleaner, and colorful pasta bowls.]]>
       </description>
-      <guid>68b1bbbbc849de73d6288eab</guid>
-      <pubDate>2025-08-29T20:20:04Z</pubDate>
+      <guid>cid://68b1bbbbc849de73d6288eab</guid>
     </item>    <item>
       <title>Cody Rigsby Eats This Breakfast Before Every Workout</title>
       <link>https://www.tasteofhome.com/article/cody-rigsby-favorite-breakfast-2025/</link>
@@ -858,24 +760,21 @@
         <![CDATA[<p>He also thinks Whitney Houston would love it, too.</p>
         <p>The post <a href="https://www.tasteofhome.com/article/cody-rigsby-favorite-breakfast-2025/">Cody Rigsby Eats This Breakfast Before Every Workout</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
       </description>
-      <guid>https://www.tasteofhome.com/?p=2176513</guid>
-      <pubDate>2025-08-29T14:41:06Z</pubDate>
+      <guid>cid://https://www.tasteofhome.com/?p=2176513</guid>
     </item>    <item>
       <title>AG1 Review: Next Gen Formula, New Flavors and an RD&#39;s Take (2025)</title>
       <link>https://www.bonappetit.com/story/ag1-review</link>
       <description>
         <![CDATA[We tasted AG1’s updated Next Gen formula and new flavors. Here’s our review, including a dietitian’s perspective.]]>
       </description>
-      <guid>68b098b55782542ec811fa52</guid>
-      <pubDate>2025-08-29T14:30:35Z</pubDate>
+      <guid>cid://68b098b55782542ec811fa52</guid>
     </item>    <item>
       <title>Our Most Popular Recipes of August 2025</title>
       <link>https://www.bonappetit.com/gallery/most-popular-recipes-august-2025</link>
       <description>
         <![CDATA[Like sheet-pan chicken souvlaki and summer berry stovetop crisp.]]>
       </description>
-      <guid>68b09407d5686feb3932dc05</guid>
-      <pubDate>2025-08-29T13:00:00Z</pubDate>
+      <guid>cid://68b09407d5686feb3932dc05</guid>
     </item>    <item>
       <title>Chili-Lime Hot Sauce Recipe</title>
       <link>https://www.chilipeppermadness.com/recipes/chili-lime-hot-sauce/</link>
@@ -883,8 +782,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/chili-lime-hot-sauce/" title="Chili-Lime Hot Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A spoonful of fresh Chili Lime Hot Sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chili-Lime-Hot-Sauce-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Fresh chili-lime hot sauce with lots of peppers, garlic, and cilantro. Zesty, spicy, and no-cook, perfect for tacos, meats, veggies, and more.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/chili-lime-hot-sauce/">Chili-Lime Hot Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=75279</guid>
-      <pubDate>2025-08-29T11:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=75279</guid>
     </item>    <item>
       <title>Take the 2025 Fresh Cup Reader Survey</title>
       <link>https://freshcup.com/take-the-2025-fresh-cup-reader-survey/</link>
@@ -892,64 +790,56 @@
         <![CDATA[<p>Your voice can shape the future direction of Fresh Cup. Share your thoughts in our reader survey for a chance to win prizes.</p>
         <p>The post <a href="https://freshcup.com/take-the-2025-fresh-cup-reader-survey/">Take the 2025 Fresh Cup Reader Survey</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42488</guid>
-      <pubDate>2025-08-29T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42488</guid>
     </item>    <item>
       <title>Tomatoes and Dumplings and More Recipes We Made This Week</title>
       <link>https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-august-2025</link>
       <description>
         <![CDATA[Like spicy tri-tip steak and chocolate sheet cake.]]>
       </description>
-      <guid>688b851dc55e57ac78741901</guid>
-      <pubDate>2025-08-29T10:00:00Z</pubDate>
+      <guid>cid://688b851dc55e57ac78741901</guid>
     </item>    <item>
       <title>The Best Coffee Makers We&#39;re Buzzing About Right Now</title>
       <link>https://www.bonappetit.com/story/best-coffee-makers-of-all-kinds</link>
       <description>
         <![CDATA[They’ll make you feel like a barista.]]>
       </description>
-      <guid>68af757504b15410337d7dbc</guid>
-      <pubDate>2025-08-29T01:17:04Z</pubDate>
+      <guid>cid://68af757504b15410337d7dbc</guid>
     </item>    <item>
       <title>Where to Eat at the US Open 2025</title>
       <link>https://www.bonappetit.com/story/where-to-eat-us-open</link>
       <description>
         <![CDATA[In between serves and Love 15, here’s what to eat at NYC’s premier tennis tournament]]>
       </description>
-      <guid>66c4a12b7c008d2e19389039</guid>
-      <pubDate>2025-08-28T17:59:55Z</pubDate>
+      <guid>cid://66c4a12b7c008d2e19389039</guid>
     </item>    <item>
       <title>Best-Ever Apple Pie</title>
       <link>https://www.bonappetit.com/recipe/best-apple-pie</link>
       <description>
         <![CDATA[Claire Saffitz’s cardamom- and cider-spiked apple pie will rival any bakery version.]]>
       </description>
-      <guid>57e1343cbf7e91497a10dfda</guid>
-      <pubDate>2025-08-28T17:12:28Z</pubDate>
+      <guid>cid://57e1343cbf7e91497a10dfda</guid>
     </item>    <item>
       <title>Blue Apron Review: Flexible, Fast Meals Now Subscription-Free (2025)</title>
       <link>https://www.bonappetit.com/story/blue-apron-review</link>
       <description>
         <![CDATA[Blue Apron’s revamped model brings flexibility, speed, and flavor to weeknight dinners.]]>
       </description>
-      <guid>67db50663cc5d95bc465b5f4</guid>
-      <pubDate>2025-08-28T17:00:23Z</pubDate>
+      <guid>cid://67db50663cc5d95bc465b5f4</guid>
     </item>    <item>
       <title>Best Knife Sharpener for Keeping Your Blades Healthy (2025)</title>
       <link>https://www.bonappetit.com/story/best-knife-sharpeners</link>
       <description>
         <![CDATA[A sharp knife is a happy knife.]]>
       </description>
-      <guid>67ec4eebdc845e107c56f8a9</guid>
-      <pubDate>2025-08-28T13:40:23Z</pubDate>
+      <guid>cid://67ec4eebdc845e107c56f8a9</guid>
     </item>    <item>
       <title>Roasted Honeynut Squash With Cottage Cheese and Chili Crisp</title>
       <link>https://www.bonappetit.com/recipe/roasted-squash-with-cottage-cheese-chili-crisp</link>
       <description>
         <![CDATA[This little squash loves big-flavor toppings.]]>
       </description>
-      <guid>68ac6ca29cdfa9219267a855</guid>
-      <pubDate>2025-08-28T11:00:00Z</pubDate>
+      <guid>cid://68ac6ca29cdfa9219267a855</guid>
     </item>    <item>
       <title>Zucchini Cornbread</title>
       <link>https://www.closetcooking.com/zucchini-cornbread/</link>
@@ -959,32 +849,28 @@
         <p><a class="more-link" href="https://www.closetcooking.com/zucchini-cornbread/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/zucchini-cornbread/">Zucchini Cornbread</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/?p=86640</guid>
-      <pubDate>2025-08-28T10:00:57Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/?p=86640</guid>
     </item>    <item>
       <title>The Best Store-Bought Pie Crust: A Taste Test</title>
       <link>https://www.bonappetit.com/story/best-prepared-pie-crust</link>
       <description>
         <![CDATA[In a blind taste test, there was one clear winner.]]>
       </description>
-      <guid>65440e4a933d42d5c5c61318</guid>
-      <pubDate>2025-08-27T22:11:45Z</pubDate>
+      <guid>cid://65440e4a933d42d5c5c61318</guid>
     </item>    <item>
       <title>Tennis Pros Frances Tiafoe and Ayan Broomfield Share Their Must-Have for Hosting</title>
       <link>https://www.bonappetit.com/story/frances-tiafoe-ayan-broomfield-entertaining-must-haves</link>
       <description>
         <![CDATA[Step one: Stock your bar cart.]]>
       </description>
-      <guid>68af4d8b2c585608c175bc91</guid>
-      <pubDate>2025-08-27T19:33:49Z</pubDate>
+      <guid>cid://68af4d8b2c585608c175bc91</guid>
     </item>    <item>
       <title>The Best Juicers Prove That &#39;Fresh-Squeezed&#39; Doesn&#39;t Have to Be a Hassle (2025)</title>
       <link>https://www.bonappetit.com/story/best-juicers</link>
       <description>
         <![CDATA[It’s time to invest in a machine you’ll actually want to use—and won’t hate to clean.]]>
       </description>
-      <guid>6233580673a49695d67cd854</guid>
-      <pubDate>2025-08-27T15:55:50Z</pubDate>
+      <guid>cid://6233580673a49695d67cd854</guid>
     </item>    <item>
       <title>Starbucks Caps Worker Raises While Dangling Millions for Execs</title>
       <link>https://freshcup.com/starbucks-caps-worker-raises-while-dangling-millions-for-execs/</link>
@@ -992,8 +878,7 @@
         <![CDATA[<p>Starbucks capped worker raises at 2% while dangling up to $6M in stock grants for executives tied to the chain's plans to rejuvenate the company. </p>
         <p>The post <a href="https://freshcup.com/starbucks-caps-worker-raises-while-dangling-millions-for-execs/">Starbucks Caps Worker Raises While Dangling Millions for Execs</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42471</guid>
-      <pubDate>2025-08-27T11:00:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42471</guid>
     </item>    <item>
       <title>Cascara Is Said To Reduce Waste and Improve Farmers’ Incomes. But Does It?</title>
       <link>https://freshcup.com/cascara-is-said-to-reduce-waste-and-improve-farmers-incomes-but-does-it/</link>
@@ -1001,8 +886,7 @@
         <![CDATA[<p>Upcycling cascara, the skin of the coffee fruit, can supposedly help coffee farmers reduce waste and make money. But successful cascara production requires strong local infrastructure—and a market that values circularity.  </p>
         <p>The post <a href="https://freshcup.com/cascara-is-said-to-reduce-waste-and-improve-farmers-incomes-but-does-it/">Cascara Is Said To Reduce Waste and Improve Farmers’ Incomes. But Does It?</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
       </description>
-      <guid>https://freshcup.com/?p=42481</guid>
-      <pubDate>2025-08-27T10:59:00Z</pubDate>
+      <guid>cid://https://freshcup.com/?p=42481</guid>
     </item>    <item>
       <title>Asian Cucumber Salad Recipe</title>
       <link>https://www.chilipeppermadness.com/recipes/asian-cucumber-salad/</link>
@@ -1010,16 +894,14 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/asian-cucumber-salad/" title="Asian Cucumber Salad Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Asian Cucumber Salad with a serving spoon, garnished with sesame seeds and chili flakes" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Asian-Cucumber-Salad-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Asian cucumber salad is crisp, tangy, and lightly spicy with rice vinegar, soy sauce, sesame oil, and chili crisp, full of flavor, ready in minutes!</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/asian-cucumber-salad/">Asian Cucumber Salad Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=35216</guid>
-      <pubDate>2025-08-27T06:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=35216</guid>
     </item>    <item>
       <title>Coco Gauff Is on a Cooking Journey. These Are Her Essentials.</title>
       <link>https://www.bonappetit.com/story/coco-gauff-kitchen-must-haves</link>
       <description>
         <![CDATA[The tennis star shares her kitchen must-haves ahead of the US Open.]]>
       </description>
-      <guid>68ae21e91e28dc91c3cbfb99</guid>
-      <pubDate>2025-08-26T23:32:27Z</pubDate>
+      <guid>cid://68ae21e91e28dc91c3cbfb99</guid>
     </item>    <item>
       <title>SEAWEED SNACKS: IRELAND’S SUPERFOOD GOES MAINSTREAM</title>
       <link>https://irishfoodhub.com/seaweed-snacks-ireland-superfood/</link>
@@ -1027,8 +909,7 @@
         <![CDATA[<p>For centuries, the Irish coastline has been more than just a source of stunning views and abundant fish—it has also provided one of the world’s most powerful superfoods: seaweed. Long used in traditional Irish cooking and medicine, seaweed is now experiencing a global revival, emerging as a modern health snack celebrated for its nutritional benefits and unique flavors. From traditional carrageen moss puddings to crispy roasted kelp chips, seaweed has traveled from humble coastal communities into health food shops, restaurants, and kitchens around the world.  Table of Contents The History of Seaweed in Irish Food Culture Nutritional Powerhouse: Why Seaweed Is Ireland’s Original Superfood From Shore to Shelf: The Rise of Seaweed Snacks Irish Seaweed in Modern Cuisine and Global Food Trends The Future of Seaweed: Sustainability, Innovation, and Everyday Eating The History of Seaweed in Irish Food Culture Seaweed has been part of Ireland’s diet and folk tradition for over a thousand years. With a rugged Atlantic coastline stretching more than 3,000 kilometers, Ireland has always had abundant access to edible seaweeds such as dulse (Palmaria palmata), carrageen moss (Chondrus crispus), and kelp. Generations of coastal communities relied on these marine plants as vital sources of nutrition, medicine, and even fertilizer for the land. Historical records and folklore highlight the central role of seaweed in Irish life. During times of hardship, particularly in famine years, seaweed was harvested as a life-sustaining food. Dulse was often eaten dried, chewed like a savory snack, or added to broths for its salty, umami-rich flavor. Carrageen moss was prized for its natural gelling properties and was boiled into puddings, custards, and tonics believed to cure colds and stomach ailments. Kelp, meanwhile, was burned for its ash, which was used in soap-making and as a source of iodine. Beyond food, seaweed had deep cultural significance. In many parts of Ireland, coastal families would pass down harvesting traditions, timing their collection with the tides and drying the seaweed on rocks under the sun. These practices not only provided sustenance but also fostered a sense of connection between the community and the ocean. Festivals and local markets often featured stalls selling bunches of dried dulse, which were enjoyed much like sweets are today. While inland communities were less likely to consume seaweed regularly, coastal regions treated it as an everyday staple. For fishermen, farmers, and families living along the western seaboard, seaweed was both a comfort food and a necessity. Its high mineral content helped supplement diets that might otherwise lack variety, especially during long winters. This rich history forms the foundation for the modern seaweed revival. Once regarded as a survival food, seaweed is now being reimagined as a gourmet ingredient and health snack. The cultural memory of chewing dulse or sipping carrageen moss pudding has evolved into the creation of seaweed crisps, powders, and energy bars that appeal to contemporary tastes.  Nutritional Powerhouse – Why Seaweed Is Ireland’s Original Superfood Seaweed has earned the title of “Ireland’s original superfood” for good reason. Packed with vitamins, minerals, and antioxidants, these marine vegetables provide a nutritional profile that few land-grown plants can match. For centuries, coastal communities instinctively recognized its value, long before modern science confirmed the benefits. Rich in essential minerals: Seaweed is naturally high in iodine, calcium, magnesium, iron, and potassium. Iodine is particularly important for healthy thyroid function, and historically, seaweed was one of the only reliable dietary sources of this mineral. This helped prevent deficiencies in coastal communities, supporting metabolism and overall health. High in vitamins: Many Irish seaweeds contain significant amounts of vitamins A, C, E, and K, as well as several B vitamins. Vitamin C, found in dulse, was especially useful in preventing scurvy, making seaweed a critical survival food during harsh winters and long sea voyages. Vitamin K, meanwhile, plays an essential role in bone and blood health. Protein and fiber content: Some seaweeds, such as spirulina and kelp, are high in protein, making them an excellent plant-based supplement in a diet otherwise centered on grains, potatoes, and meat. Seaweed is also rich in dietary fiber, which aids digestion, supports gut health, and promotes a feeling of fullness, making it an ideal snack for modern health-conscious eaters. Low in calories, big on flavor: Despite its impressive nutrient density, seaweed is very low in calories and fat. Its naturally salty, umami-rich taste makes it a flavorful alternative to less healthy processed snacks. In this way, seaweed delivers both satisfaction and nutrition without compromising on health goals. Antioxidants and anti-inflammatory compounds: Research has shown that Irish seaweeds contain unique bioactive compounds that may reduce inflammation, improve heart health, and even protect against certain chronic illnesses. These properties make seaweed an exciting area of study for modern nutrition science, as traditional uses find support in new research. Because of this powerful nutritional profile, seaweed has transitioned from being a food of necessity in coastal Ireland to one of luxury and wellness in the modern world. What was once a humble snack for fishermen is now found in health food stores, smoothie powders, and gourmet restaurants. This transformation highlights seaweed’s versatility—not only as a survival staple but as a food for the future. From Shore to Shelf – The Rise of Seaweed Snacks What was once a simple, dried snack chewed by Irish fishermen has now become a global food trend. Seaweed snacks, in their many forms, are enjoying a renaissance as consumers worldwide seek out healthier, sustainable alternatives to processed foods. Ireland, with its long history of seaweed harvesting and pristine Atlantic coastline, is playing a leading role in this movement. Traditional roots, modern twist: Dried dulse, once sold in coastal markets and fairs, has inspired today’s packaged seaweed crisps and nori-style sheets. Carrageen moss, once boiled into puddings, is now available as a powdered thickener in smoothies and health products. These modern iterations connect back to Ireland’s heritage while meeting contemporary tastes for convenience and variety. Irish producers leading the way: Small businesses along the Irish west coast have begun</p>
         <p>The post <a href="https://irishfoodhub.com/seaweed-snacks-ireland-superfood/">SEAWEED SNACKS: IRELAND’S SUPERFOOD GOES MAINSTREAM</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8178</guid>
-      <pubDate>2025-08-25T19:50:53Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8178</guid>
     </item>    <item>
       <title>WATERFORD BLAA BREAKFAST SANDWICH</title>
       <link>https://irishfoodhub.com/waterford-blaa-breakfast-sandwich/</link>
@@ -1036,8 +917,7 @@
         <![CDATA[<p>Waterford Blaa Breakfast Sandwich – A Hearty Irish Morning Meal Waterford Blaa Breakfast Sandwich is an Irish classic that brings together the soft, floury Blaa bread roll – a specialty of Waterford – with a hearty filling of sausage, bacon, and egg. Perfectly satisfying, this traditional breakfast dish combines the comforting textures of a full Irish breakfast in a handheld sandwich. It’s the ideal way to start your day with authentic Irish flavor. Recipe Details Preparation Time: 10 minutes Cooking Time: 15 minutes Serving Size: Serves 2 Ingredients 2 Waterford Blaa bread rolls 2 sausages 4 rashers of Irish bacon 2 eggs 1 tbsp butter Salt and black pepper, to taste Optional: ketchup or brown sauce for serving Instructions Cook the sausages in a pan over medium heat until browned and cooked through, about 10 minutes. In the same pan, fry the bacon until crispy to your liking. Set aside. Crack the eggs into the pan and cook sunny-side up or as preferred. Warm the Blaa rolls lightly under a grill or in the oven for a few minutes. Slice open the Blaas and spread a little butter on each half. Layer with sausage, bacon, and egg. Season with salt and pepper. Add ketchup or brown sauce if desired. Close the sandwich and serve warm. Why You’ll Love This Recipe This Waterford Blaa Breakfast Sandwich is more than just a meal – it’s a taste of Irish heritage. The pillowy Blaa roll, combined with the savory richness of sausage, bacon, and egg, makes it a filling and flavorful start to the day. Easy to prepare and deeply satisfying, it’s perfect for breakfast, brunch, or even a quick comfort-food lunch.</p>
         <p>The post <a href="https://irishfoodhub.com/waterford-blaa-breakfast-sandwich/">WATERFORD BLAA BREAKFAST SANDWICH</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8076</guid>
-      <pubDate>2025-08-25T17:17:36Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8076</guid>
     </item>    <item>
       <title>CONNEMARA SMOKED SALMON SALAD</title>
       <link>https://irishfoodhub.com/connemara-smoked-salmon-salad/</link>
@@ -1045,8 +925,7 @@
         <![CDATA[<p>Connemara Smoked Salmon Salad – A Taste of the Atlantic Connemara Smoked Salmon Salad is a light yet indulgent Irish dish that captures the flavors of the wild Atlantic coast. Featuring silky smoked salmon, hearty slices of Irish brown bread, briny capers, and a refreshing dill cream, this salad makes for the perfect starter or light lunch. It’s a celebration of Ireland’s seafood heritage and a must-try for salmon lovers. Recipe Details Preparation Time: 15 minutes Cooking Time: None Serving Size: Serves 2 Ingredients 200g Connemara smoked salmon, thinly sliced 4 slices of traditional Irish brown bread 1 tbsp capers, drained 1 small red onion, thinly sliced Mixed salad greens Lemon wedges, for serving For the Dill Cream: 150ml sour cream or crème fraîche 1 tbsp fresh dill, finely chopped 1 tsp lemon juice Salt and black pepper, to taste Instructions In a small bowl, combine sour cream, dill, lemon juice, salt, and pepper. Mix well to form the dill cream and set aside. Arrange the salad greens on a serving plate. Layer with slices of smoked salmon and scatter capers and red onion over the top. Serve with a generous spoonful of dill cream on the side. Pair with slices of Irish brown bread and lemon wedges for an authentic touch. Why You’ll Love This Recipe This smoked salmon salad is fresh, elegant, and deeply rooted in Irish tradition. It’s a quick and easy dish that looks impressive yet requires minimal effort. Whether you’re hosting guests, looking for a refreshing lunch, or celebrating Irish seafood, Connemara Smoked Salmon Salad delivers a taste of the sea with every bite.</p>
         <p>The post <a href="https://irishfoodhub.com/connemara-smoked-salmon-salad/">CONNEMARA SMOKED SALMON SALAD</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>]]>
       </description>
-      <guid>https://irishfoodhub.com/?p=8069</guid>
-      <pubDate>2025-08-25T17:05:18Z</pubDate>
+      <guid>cid://https://irishfoodhub.com/?p=8069</guid>
     </item>    <item>
       <title>Pomodoro Sauce Recipe (Sugo al Pomodoro)</title>
       <link>https://www.chilipeppermadness.com/recipes/pomodoro-sauce/</link>
@@ -1054,8 +933,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/pomodoro-sauce/" title="Pomodoro Sauce Recipe (Sugo al Pomodoro)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Close up of a large spoon full of Italian Pomodoro Sauce" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Pomodoro-Sauce-Recipe8.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This authentic Pomodoro Sauce recipe is made with fresh or canned San Marzano tomatoes, garlic, basil, and olive oil for simple, classic Italian flavor with spicy options included.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/pomodoro-sauce/">Pomodoro Sauce Recipe (Sugo al Pomodoro)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=74977</guid>
-      <pubDate>2025-08-25T11:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=74977</guid>
     </item>    <item>
       <title>Honey Sriracha Grilled Chicken</title>
       <link>https://www.closetcooking.com/honey-sriracha-grilled-chicken/</link>
@@ -1065,8 +943,7 @@
         <p><a class="more-link" href="https://www.closetcooking.com/honey-sriracha-grilled-chicken/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/honey-sriracha-grilled-chicken/">Honey Sriracha Grilled Chicken</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/?p=86632</guid>
-      <pubDate>2025-08-25T10:00:54Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/?p=86632</guid>
     </item>    <item>
       <title>Quick and Easy Back to School Recipes</title>
       <link>https://www.closetcooking.com/back-to-school-recipes/</link>
@@ -1076,8 +953,7 @@
         <p><a class="more-link" href="https://www.closetcooking.com/back-to-school-recipes/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/back-to-school-recipes/">Quick and Easy Back to School Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/2017/09/03/back-to-school-recipes/</guid>
-      <pubDate>2025-08-24T10:00:00Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/2017/09/03/back-to-school-recipes/</guid>
     </item>    <item>
       <title>Chermoula Recipe (Vibrant North African Sauce)</title>
       <link>https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/chermoula-recipe/</link>
@@ -1085,8 +961,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/chermoula-recipe/" title="Chermoula Recipe (Vibrant North African Sauce)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Zesty, vibrant chermoula in a bowl with a spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Chermoula-Recipe1c.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chermoula sauce is a versatile North African condiment of fresh herbs, oil and spices used as a marinade or sauce for meats, seafood, vegetables and more.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/chermoula-recipe/">Chermoula Recipe (Vibrant North African Sauce)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=4716</guid>
-      <pubDate>2025-08-22T06:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=4716</guid>
     </item>    <item>
       <title>Mexican Street Corn and Zucchini</title>
       <link>https://www.closetcooking.com/mexican-street-corn-and-zucchini/</link>
@@ -1096,8 +971,7 @@
         <p><a class="more-link" href="https://www.closetcooking.com/mexican-street-corn-and-zucchini/">Read On &#8594;</a></p>
         <p>The post <a href="https://www.closetcooking.com/mexican-street-corn-and-zucchini/">Mexican Street Corn and Zucchini</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>]]>
       </description>
-      <guid>https://www.closetcooking.com/?p=86616</guid>
-      <pubDate>2025-08-21T15:20:06Z</pubDate>
+      <guid>cid://https://www.closetcooking.com/?p=86616</guid>
     </item>    <item>
       <title>Mangonada Margarita Recipe</title>
       <link>https://www.chilipeppermadness.com/recipes/mangonada-margarita/</link>
@@ -1105,8 +979,7 @@
         <![CDATA[<a href="https://www.chilipeppermadness.com/recipes/mangonada-margarita/" title="Mangonada Margarita Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A glass filled with Sweet and delicious Mangonada Margarita" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/08/Mangonada-Margarita-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Mangonada Margarita recipe you’ll love, with frozen mango, tequila, and bold Mexican flavors like chamoy and Tajín, all blended into a vibrant drink.</p>
         <p>The post <a href="https://www.chilipeppermadness.com/recipes/mangonada-margarita/">Mangonada Margarita Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>]]>
       </description>
-      <guid>https://www.chilipeppermadness.com/?p=74959</guid>
-      <pubDate>2025-08-20T10:00:00Z</pubDate>
+      <guid>cid://https://www.chilipeppermadness.com/?p=74959</guid>
     </item>
   </channel>
 </rss>

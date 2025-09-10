@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/pacific.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Pacific</title>
-    <lastBuildDate>2025-09-10 12:00:58</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/pacific.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -12,8 +14,7 @@
         <![CDATA[<figure><img width="1024" height="576" src="https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?w=1024" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg 1920w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=768,432 768w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=1536,864 1536w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=1200,675 1200w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=1024,576 1024w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=780,439 780w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=400,225 400w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=706,397 706w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?resize=150,84 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="618300" data-permalink="https://www.postcourier.com.pg/joshua-kalinoe-where-were-you-in-1975/where-were-you-in-1975-joshua-rimakindu-kalinoe-cover/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Where were you in 1975 &#8211; Joshua Rimakindu Kalinoe-Cover" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2025/09/Where-were-you-in-1975-Joshua-Rimakindu-Kalinoe-Cover.jpg?w=1920" /></figure>
         <p>The post <a href="https://www.postcourier.com.pg/joshua-kalinoe-where-were-you-in-1975/">Joshua Kalinoe: Where were you in 1975?</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618299</guid>
-      <pubDate>2025-09-10T11:45:09Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618299</guid>
     </item>    <item>
       <title>Pads, a luxury, not a necessity: Queen Pads confronts menstrual health taboos in PNG through Community Justice Fund</title>
       <link>https://www.postcourier.com.pg/pads-a-luxury-not-a-necessity-queen-pads-confronts-menstrual-health-taboos-in-png-through-community-justice-fund/</link>
@@ -22,8 +23,7 @@
         <p>Ms. Anne-Shirley Korave, Founder of Queen Pads, is working to change this stigma by promoting awareness and providing practical support for women and girls throughout their reproductive stages. Her initiative focuses on improving health and hygiene through safe, eco-friendly, and reusable menstrual products, while also emphasizing education and advocacy on this sensitive topic.</p>
         <p>The post <a href="https://www.postcourier.com.pg/pads-a-luxury-not-a-necessity-queen-pads-confronts-menstrual-health-taboos-in-png-through-community-justice-fund/">Pads, a luxury, not a necessity: Queen Pads confronts menstrual health taboos in PNG through Community Justice Fund</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618296</guid>
-      <pubDate>2025-09-10T11:25:30Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618296</guid>
     </item>    <item>
       <title>ON THIS DAY IN OUR HISTORY: Bougainville ready to set up its own government</title>
       <link>https://www.postcourier.com.pg/on-this-day-in-our-history-bougainville-ready-to-set-up-its-own-government/</link>
@@ -32,8 +32,7 @@
         <p>Talks between the Central Government and the Bougainville Provincial Assembly broke down after only an hour yesterday, signaling Bougainville's intent to proceed with establishing its own government.</p>
         <p>The post <a href="https://www.postcourier.com.pg/on-this-day-in-our-history-bougainville-ready-to-set-up-its-own-government/">ON THIS DAY IN OUR HISTORY: Bougainville ready to set up its own government</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=594387</guid>
-      <pubDate>2025-09-10T11:22:53Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=594387</guid>
     </item>    <item>
       <title>ON THIS DAY IN OUR HISTORY: NGI Names Team for Inter-Zone Rugby League Trials</title>
       <link>https://www.postcourier.com.pg/on-this-day-in-our-history-ngi-names-team-for-inter-zone-rugby-league-trials/</link>
@@ -42,8 +41,7 @@
         <p>The New Guinea Islands rugby league team to compete in the inter-zone trials in Goroka this weekend has been officially announced, despite challenges that have hampered the squad’s preparations.</p>
         <p>The post <a href="https://www.postcourier.com.pg/on-this-day-in-our-history-ngi-names-team-for-inter-zone-rugby-league-trials/">ON THIS DAY IN OUR HISTORY: NGI Names Team for Inter-Zone Rugby League Trials</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=594002</guid>
-      <pubDate>2025-09-10T11:15:50Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=594002</guid>
     </item>    <item>
       <title>50th Message: Ps Rock Poko Kayapa</title>
       <link>https://www.postcourier.com.pg/50th-message-ps-rock-poko-kayapa-2/</link>
@@ -51,8 +49,7 @@
         <![CDATA[<figure><img width="1024" height="576" src="https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?w=1024" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg 1920w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=768,432 768w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=1536,864 1536w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=1200,675 1200w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=1024,576 1024w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=780,439 780w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=400,225 400w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=706,397 706w, https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?resize=150,84 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="618287" data-permalink="https://www.postcourier.com.pg/50th-message-ps-rock-poko-kayapa-2/50th-message-ps-rock-poko-kayapa-cover-2/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="50th Message &#8211; Ps. Rock Poko Kayapa-Cover" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2025/09/50th-Message-Ps.-Rock-Poko-Kayapa-Cover-1.jpg?w=1920" /></figure>
         <p>The post <a href="https://www.postcourier.com.pg/50th-message-ps-rock-poko-kayapa-2/">50th Message: Ps Rock Poko Kayapa</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618284</guid>
-      <pubDate>2025-09-10T11:10:08Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618284</guid>
     </item>    <item>
       <title>Guam Republicans refuse to blink on BPT rollback; governor amends budget proposal</title>
       <link>https://www.pacificislandtimes.com/post/guam-republicans-refuse-to-blink-on-governor-s-substitute-budget</link>
@@ -60,216 +57,189 @@
         <![CDATA[The Republican-led 38th Guam Legislature on Wednesday skipped over Gov. Lou Leon Guerrero’s replacement budget bill, explicitly showing a lack of interest in haggling over the business privilege tax, which the chief executive proposed to earmark for Guam Memorial Hospital.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_87502caab28044fba570e0fe81422cce~mv2.jpg/v1/fit/w_877,h_433,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68c157077d132fe454fb704c</guid>
-      <pubDate>2025-09-10T10:53:20Z</pubDate>
+      <guid>cid://68c157077d132fe454fb704c</guid>
     </item>    <item>
       <title>Cougars win second straight; BIIF week kicks off with volleyball matches</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/sports/cougars-win-second-straight-biif-week-kicks-off-with-volleyball-matches/</link>
       <description>
         <![CDATA[<p>Kea&#8216;au football remained unbeaten in conference play on Friday night against the visiting Kamehameha-Hawaii Warriors. The Cougars won 20-14.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349137</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349137</guid>
     </item>    <item>
       <title>Can starting pitching carry the Dodgers in October? Dave Roberts may not have a choice</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/sports/can-starting-pitching-carry-the-dodgers-in-october-dave-roberts-may-not-have-a-choice/</link>
       <description>
         <![CDATA[<p>LOS ANGELES &#8212; In almost any other season, Dave Roberts might have made a different choice.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349135</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349135</guid>
     </item>    <item>
       <title>Aaron Judge passes Yogi Berra for No. 5 in Yankees HRs</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/sports/aaron-judge-passes-yogi-berra-for-no-5-in-yankees-hrs/</link>
       <description>
         <![CDATA[<p>Aaron Judge continued his march through New York Yankees history on Tuesday, belting his 359th homer to pass Yogi Berra for fifth on the club&#8217;s all-time list.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349133</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349133</guid>
     </item>    <item>
       <title>Wahine volleyball team sweeps St. John’s, wins invitational</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/sports/wahine-volleyball-team-sweeps-st-johns-wins-invitational/</link>
       <description>
         <![CDATA[<p>The Hawaii women&#8217;s volleyball team aced its way to the Outrigger Invitational tournament title on Sunday.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349130</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349130</guid>
     </item>    <item>
       <title>PHOTOS: Pahoa sweeps Connections</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/sports/photos-pahoa-sweeps-connections/</link>
       <description>
         <![CDATA[<p>By SunRa Adziyaomamawu</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349126</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349126</guid>
     </item>    <item>
       <title>Fever close regular season with win over WNBA-best Lynx</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/sports/fever-close-regular-season-with-win-over-wnba-best-lynx/</link>
       <description>
         <![CDATA[<p>Kelsey Mitchell scored 18 points, four teammates finished in double figures and the Indiana Fever never trailed during an 83-72 victory over the WNBA-leading Minnesota Lynx on Tuesday in Indianapolis.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349124</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349124</guid>
     </item>    <item>
       <title>US wildfire fighters to mask up after decades-long ban on smoke protections</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/us-wildfire-fighters-to-mask-up-after-decades-long-ban-on-smoke-protections/</link>
       <description>
         <![CDATA[<p>The U.S. government will provide wildfire fighters with masks to protect against smoke &#8212; reversing a decades-long ban that exposed workers to toxins known to cause cancer and other serious diseases.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349122</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349122</guid>
     </item>    <item>
       <title>Employers added nearly a million fewer jobs than believed, data shows</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/employers-added-nearly-a-million-fewer-jobs-than-believed-data-shows/</link>
       <description>
         <![CDATA[<p>The U.S. economy probably added close to 1 million fewer jobs in 2024 and early 2025 than previously reported, the latest sign that the labor market, until recently a bright spot in the economy, may be weaker than it initially appeared.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349120</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349120</guid>
     </item>    <item>
       <title>Councilwoman Kierkiewicz invites community to presentation on revitalizing downtown Pahoa</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/hawaii-news/councilwoman-kierkiewicz-invites-community-to-presentation-on-revitalizing-downtown-pahoa/</link>
       <description>
         <![CDATA[<p>The Office of Councilwoman Ashley Kierkiewicz is inviting the community to attend a presentation on new draft legislation aimed at creating economic opportunities and revitalizing Downtown Pahoa.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349119</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349119</guid>
     </item>    <item>
       <title>County moves forward with Four Mile Creek Bridge replacement</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/hawaii-news/county-moves-forward-with-four-mile-creek-bridge-replacement/</link>
       <description>
         <![CDATA[<p>The County of Hawaii Department of Public Works is moving forward with plans to replace the aging Four Mile Creek Bridge in Hilo, aiming to improve traffic flow, safety and pedestrian access along Kilauea Avenue and Haihai Street.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349117</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349117</guid>
     </item>    <item>
       <title>Kennedy releases childhood health report. It’s vague on next steps</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/kennedy-releases-childhood-health-report-its-vague-on-next-steps/</link>
       <description>
         <![CDATA[<p>For all of Health Secretary Robert F. Kennedy Jr.&#8217;s high-profile moves over the last few weeks, a new report from the &#8220;Make America Healthy Again&#8221; commission he leads released Tuesday arrived with little fanfare &#8212; or teeth.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349114</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349114</guid>
     </item>    <item>
       <title>US twelfth-graders had lowest reading performance in three decades, report shows</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/us-twelfth-graders-had-lowest-reading-performance-in-three-decades-report-shows/</link>
       <description>
         <![CDATA[<p>NEW YORK &#8212; Over 30% of U.S. students in their last year of high school lack basic reading skills, the lowest performance in over three decades, according to test results released on Tuesday that the administration of President Donald Trump pointed to as justification for its push to shrink the federal government&#8217;s role in education in favor of more control by the states.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349112</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349112</guid>
     </item>    <item>
       <title>Blue Hawaiian’s request to fly lower generates blowback</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/hawaii-news/blue-hawaiians-request-to-fly-lower-generates-blowback/</link>
       <description>
         <![CDATA[<p>Blue Hawaiian Helicopters&#8217; request to the Federal Aviation Administration to fly as low as 700 feet above ground in certain areas generated more than 55,000 public comments &#8212; the vast majority, apparently, in opposition to its plans.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349110</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349110</guid>
     </item>    <item>
       <title>Missouri House approves Republican-drawn congressional map</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/missouri-house-approves-republican-drawn-congressional-map/</link>
       <description>
         <![CDATA[<p>Missouri&#8217;s House of Representatives on Tuesday approved a new congressional map that will likely give Republicans an additional U.S. House seat in next year&#8217;s midterm elections, expanding President Donald Trump&#8217;s unprecedented effort to redraw congressional lines in the middle of the decade.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349108</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349108</guid>
     </item>    <item>
       <title>Gabbard retracted intelligence report on Venezuela</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/gabbard-retracted-intelligence-report-on-venezuela/</link>
       <description>
         <![CDATA[<p>WASHINGTON &#8212; Tulsi Gabbard, the director of national intelligence, took the unusual step of ordering the National Security Agency to retract an intelligence report on Venezuela, according to people briefed on the matter.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349106</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349106</guid>
     </item>    <item>
       <title>Michigan judge tosses out case against Trump fake electors</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/michigan-judge-tosses-out-case-against-trump-fake-electors/</link>
       <description>
         <![CDATA[<p>A Michigan judge dismissed criminal charges on Tuesday against a group of residents charged with illegally attempting to certify a victory by Donald Trump in the 2020 election &#8211; a blow to prosecutorial efforts to hold Trump&#8217;s allies accountable for seeking to overturn the results.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349105</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349105</guid>
     </item>    <item>
       <title>Two Brazil Supreme Court justices vote to convict Bolsonaro for coup attempt</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/two-brazil-supreme-court-justices-vote-to-convict-bolsonaro-for-coup-attempt/</link>
       <description>
         <![CDATA[<p>BRASILIA &#8212; Two Brazilian Supreme Court justices on Tuesday voted to convict former President Jair Bolsonaro of leading a criminal conspiracy to overturn the 2022 election, as they cast the first votes in the final phase of the ex-president&#8217;s trial.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349103</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349103</guid>
     </item>    <item>
       <title>Russian airstrike on east Ukraine village kills 24 pensioners</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/russian-airstrike-on-east-ukraine-village-kills-24-pensioners/</link>
       <description>
         <![CDATA[<p>YAROVA, Ukraine &#8212; A Russian airstrike killed 24 elderly people who were collecting pensions in a village in eastern Ukraine, officials said on Tuesday, prompting President Volodymyr Zelenskyy to urge Kyiv&#8217;s allies to increase pressure on Moscow to end its war.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349101</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349101</guid>
     </item>    <item>
       <title>Troops deployed after day of violent protests in Nepal</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/troops-deployed-after-day-of-violent-protests-in-nepal/</link>
       <description>
         <![CDATA[<p>KATHMANDU, Nepal &#8212; Protesters in Nepal&#8217;s capital, Kathmandu, set fire to the parliament and Supreme Court buildings, police stations and politicians&#8217; homes on Tuesday, as violent demonstrations continued despite the prime minister&#8217;s resignation and the reversal of a government social media ban that had sparked widespread anger.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349099</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349099</guid>
     </item>    <item>
       <title>Israel attacks Hamas leaders in Qatar, US says it had little warning</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/israel-attacks-hamas-leaders-in-qatar-us-says-it-had-little-warning/</link>
       <description>
         <![CDATA[<p>JERUSALEM &#8212; Israel attempted to kill senior members of Hamas in an airstrike Tuesday in Qatar, a sharp escalation that brought the Mideast war to a close U.S. ally and a primary mediator in trying to end the conflict in the Gaza Strip.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349097</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349097</guid>
     </item>    <item>
       <title>Obituaries for September 10</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/hawaii-news/obituaries-for-september-10-10/</link>
       <description>
         <![CDATA[<p>Justo Gonzales Bacxa, 66, of Kailua-Kona died Aug. 20 at Kona Community Hospital. Born in Ilocos Norte, Philippines, he did volunteer work at Kona Craft and was a door-to-door minister for Jehovah&#8217;s Witnesses and continued to share his beliefs and faith after becoming a resident of Life Care Center of Kona. Services at 4 p.m. Saturday, Oct. 4, at Kingdom Hall of Jehovah&#8217;s Witnesses, 78-6955 Mamalahoa Hwy. in Holualoa. Survived by brother, Roland (Myrna) Baxca; sisters, Josephine (Manny) Sadumiano and Imelda (Irenio) Bulong; nieces, nephews, grandnieces and grandnephews. Arrangements by Cremation Services of West Hawaii.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349096</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349096</guid>
     </item>    <item>
       <title>News in brief for September 10</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/news-in-brief-for-september-10/</link>
       <description>
         <![CDATA[<p>Firefighters find dead couple, one in chains &#8212; police seek suspect</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349095</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349095</guid>
     </item>    <item>
       <title>US Supreme Court to decide legality of Trump’s tariffs</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/nation-world-news/us-supreme-court-to-decide-legality-of-trumps-tariffs/</link>
       <description>
         <![CDATA[<p>The U.S. Supreme Court agreed on Tuesday to decide the legality of Donald Trump&#8217;s sweeping global tariffs, setting up a major test of one of the Republican president&#8217;s boldest assertions of executive power that has been central to his economic and trade agenda.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349093</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349093</guid>
     </item>    <item>
       <title>Liberty and the general welfare in the age of AI</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/opinion/liberty-and-the-general-welfare-in-the-age-of-ai/</link>
       <description>
         <![CDATA[<p>If the means justify the ends, we&#8217;d still be operating under the Articles of Confederation. The Founders understood that the means &#8212; the governmental structure itself &#8212; must always serve the ends of liberty and prosperity. When the means no longer served those ends, they experimented with yet another design for their government &#8212; they did expect it to be the last.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349092</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349092</guid>
     </item>    <item>
       <title>Your Views for September 10</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/opinion/your-views-for-september-10-8/</link>
       <description>
         <![CDATA[<p>Tourism provides&#0010;valuable jobs in Hawaii</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349091</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349091</guid>
     </item>    <item>
       <title>Justice should release the Epstein files</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/10/opinion/justice-should-release-the-epstein-files/</link>
       <description>
         <![CDATA[<p>When Republicans believed former President Bill Clinton was immersed in the Jeffrey Epstein sex trafficking scandal, they were all about demanding the Biden administration Justice Department to investigate him.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349090</guid>
-      <pubDate>2025-09-10T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349090</guid>
     </item>    <item>
       <title>Rowland: Community Justice Fund strengthens Australia–PNG ties through community support</title>
       <link>https://www.postcourier.com.pg/rowland-community-justice-fund-strengthens-australia-png-ties-through-community-support/</link>
@@ -279,8 +249,7 @@
         <p>“Over the past year, the Community Justice Fund recipients have delivered real, tangible change across PNG, and the results speak for themselves,” she states.</p>
         <p>The post <a href="https://www.postcourier.com.pg/rowland-community-justice-fund-strengthens-australia-png-ties-through-community-support/">Rowland: Community Justice Fund strengthens Australia–PNG ties through community support</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618280</guid>
-      <pubDate>2025-09-10T09:59:18Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618280</guid>
     </item>    <item>
       <title>Australia-backed Community Justice Fund empowers PNG NGOs and communities: K1.3 million support since 2024</title>
       <link>https://www.postcourier.com.pg/australia-backed-community-justice-fund-empowers-png-ngos-and-communities-k1-3-million-support-since-2024/</link>
@@ -290,8 +259,7 @@
         <p>This initiative, supported through the Australia-Papua New Guinea Law and Justice Partnership, aims to address critical law and justice issues. Since its launch in 2024, the fund has committed K1.3 million to 15 projects.</p>
         <p>The post <a href="https://www.postcourier.com.pg/australia-backed-community-justice-fund-empowers-png-ngos-and-communities-k1-3-million-support-since-2024/">Australia-backed Community Justice Fund empowers PNG NGOs and communities: K1.3 million support since 2024</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618266</guid>
-      <pubDate>2025-09-10T09:15:47Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618266</guid>
     </item>    <item>
       <title>Opening of work bung wantaim: A Photographic Celebration remembering the first 50 years of Papua New Guinea’s Independence</title>
       <link>https://www.postcourier.com.pg/opening-of-work-bung-wantaim-a-photographic-celebration-remembering-the-first-50-years-of-papua-new-guineas-independence/</link>
@@ -300,8 +268,7 @@
         <p>To mark the 50th anniversary of Papua New Guinea’s independence, the National Museum and Art Gallery (NMAG), in partnership with the National Archives of Australia (NAA), proudly presents Wok bung wantaim (working together), an independence photographic exhibition opening on 16 September 2025 in the Bernard Narokobi Gallery.</p>
         <p>The post <a href="https://www.postcourier.com.pg/opening-of-work-bung-wantaim-a-photographic-celebration-remembering-the-first-50-years-of-papua-new-guineas-independence/">Opening of work bung wantaim: A Photographic Celebration remembering the first 50 years of Papua New Guinea’s Independence</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618241</guid>
-      <pubDate>2025-09-10T09:01:13Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618241</guid>
     </item>    <item>
       <title>Coke Studio Independence Tour 2025 Kicks off in Lae, Morobe Province</title>
       <link>https://www.postcourier.com.pg/coke-studio-independence-tour-2025-kicks-off-in-lae-morobe-province/</link>
@@ -310,8 +277,7 @@
         <p>Music lovers in Lae are in for an electrifying night as Makasi Sounds &#038; Entertainment presents the Coke Studio Independence Tour 2025 this Independence weekend. The highly anticipated event will take place on Saturday, September 20, 2025, at Club 99, Lae.</p>
         <p>The post <a href="https://www.postcourier.com.pg/coke-studio-independence-tour-2025-kicks-off-in-lae-morobe-province/">Coke Studio Independence Tour 2025 Kicks off in Lae, Morobe Province</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618064</guid>
-      <pubDate>2025-09-10T08:56:58Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618064</guid>
     </item>    <item>
       <title>Weather forecast for tonight and tomorrow</title>
       <link>https://www.postcourier.com.pg/weather-forecast-for-tonight-and-tomorrow-19/</link>
@@ -320,8 +286,7 @@
         <p>See your weather reports from 21 towns and cities across Papua New Guinea.</p>
         <p>The post <a href="https://www.postcourier.com.pg/weather-forecast-for-tonight-and-tomorrow-19/">Weather forecast for tonight and tomorrow</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=618243</guid>
-      <pubDate>2025-09-10T08:43:08Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=618243</guid>
     </item>    <item>
       <title>TALA O LE PASEFIKA</title>
       <link>https://www.samoanews.com/lali/tala-pasefika-60</link>
@@ -361,8 +326,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Ftala-pasefika-60" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133602 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-10T07:23:10Z</pubDate>
+      <guid>cid://133602 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>2 new food trucks join options for UH Mānoa’s fall semester</title>
       <link>https://www.hawaii.edu/news/2025/09/09/new-food-trucks-fall-2025/</link>
@@ -370,8 +334,7 @@
         <![CDATA[<p>Food Truck Row welcomes Beyond the Crust (pizza) and Island Banana Juice.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/new-food-trucks-fall-2025/">2 new food trucks join options for <abbr>UH</abbr> Mānoa’s fall semester</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221672</guid>
-      <pubDate>2025-09-10T07:18:43Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221672</guid>
     </item>    <item>
       <title>POU TIUTE A LEOLEO</title>
       <link>https://www.samoanews.com/lali/pou-tiute-leoleo-179</link>
@@ -460,8 +423,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Fpou-tiute-leoleo-179" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133601 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-10T07:11:10Z</pubDate>
+      <guid>cid://133601 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Community Events: Jamaican Grill to host 9/11 luncheon for first responders; GVB announces dance fest</title>
       <link>https://www.pacificislandtimes.com/post/community-events-jamaican-grill-to-host-9-11-luncheon-for-first-responders-gvb-announces-dance-fes</link>
@@ -469,8 +431,7 @@
         <![CDATA[Restaurant hosts event to remember the fallen of 9/11 Jamaican Grill, serving Guam for 30 years, invites Guam’s first responders to join...]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_2055c71e40654368a7d2320c67265960~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68c0f1bae6f9264530e4d142</guid>
-      <pubDate>2025-09-10T04:07:14Z</pubDate>
+      <guid>cid://68c0f1bae6f9264530e4d142</guid>
     </item>    <item>
       <title>UH kumu to help revive Kumulipo at ʻIolani Palace, hundreds to gather at dusk</title>
       <link>https://www.hawaii.edu/news/2025/09/09/uh-kumu-to-help-revive-kumulipo/</link>
@@ -478,8 +439,7 @@
         <![CDATA[<p>The chant will honor Queen <span aria-label="Liliuokalani">Lili&#699;uokalani</span>, who translated the <em>Kumulipo</em> while imprisoned inside <span aria-label="Iolani">&#699;Iolani</span> Palace.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/uh-kumu-to-help-revive-kumulipo/"><abbr>UH</abbr> kumu to help revive Kumulipo at ʻIolani Palace, hundreds to gather at dusk</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221697</guid>
-      <pubDate>2025-09-10T02:51:43Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221697</guid>
     </item>    <item>
       <title>UH Mānoa community gathers to beautify Hale Wainani</title>
       <link>https://www.hawaii.edu/news/2025/09/09/hale-wainani/</link>
@@ -487,8 +447,7 @@
         <![CDATA[<p>UH community gathered to m&#257;lama <span aria-label="aina">&#699;&#257;ina</span> the Hale Wainani Courtyard.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/hale-wainani/"><abbr>UH</abbr> Mānoa community gathers to beautify Hale Wainani</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221655</guid>
-      <pubDate>2025-09-10T02:32:39Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221655</guid>
     </item>    <item>
       <title>UH football helmets shine in tribute to Rainbow Warrior legacy</title>
       <link>https://www.hawaii.edu/news/2025/09/09/uh-football-helmets-display/</link>
@@ -496,8 +455,7 @@
         <![CDATA[<p><abbr>UH</abbr> unveils a new football helmet display celebrating over a century of Rainbow Warrior football.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/uh-football-helmets-display/"><abbr>UH</abbr> football helmets shine in tribute to Rainbow Warrior legacy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221619</guid>
-      <pubDate>2025-09-10T02:29:35Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221619</guid>
     </item>    <item>
       <title>What the international court&#39;s landmark opinion means for Pacific islands</title>
       <link>https://www.pacificislandtimes.com/post/what-the-international-court-s-landmark-opinion-means-for-pacific-islands</link>
@@ -505,8 +463,7 @@
         <![CDATA[The International Court of Justice issued a unanimous ruling in response to the questions posed by the UN General Assembly regarding the Obligations of States in respect of Climate Change.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_fd85d2b1ee9344e3aed3634cbb2067bb~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68b616371465e3d2cdd36c00</guid>
-      <pubDate>2025-09-10T01:46:20Z</pubDate>
+      <guid>cid://68b616371465e3d2cdd36c00</guid>
     </item>    <item>
       <title>Planet before profit: Indigenous food systems as models of sustainability</title>
       <link>https://www.hawaii.edu/news/2025/09/09/indigenous-food-systems-book/</link>
@@ -514,8 +471,7 @@
         <![CDATA[<p>A new book co-edited by <abbr>UH</abbr> researcher Noa Lincoln explores how Indigenous food systems can serve as models for social and ecological resilience.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/indigenous-food-systems-book/">Planet before profit: Indigenous food systems as models of sustainability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221616</guid>
-      <pubDate>2025-09-10T01:02:06Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221616</guid>
     </item>    <item>
       <title>Court orders HRPP lawyers to file specific grounds for recounts</title>
       <link>https://talamua.com/2025/09/10/court-orders-hrpp-lawyers-to-file-specific-grounds-for-recounts/</link>
@@ -523,16 +479,14 @@
         <![CDATA[<p>By Lagi Keresoma/ Apia, Samoa &#8211; 10 September 2025: The lawyers representing the Human Rights Protection Party have been ordered by the District Court Judges Alalatoa Rosela Papalii and Leota Raymond Schuster to file further specific grounds for their application to recount the election results for ten constituencies. According to the Judges, they need to [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/10/court-orders-hrpp-lawyers-to-file-specific-grounds-for-recounts/">Court orders HRPP lawyers to file specific grounds for recounts</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=51218</guid>
-      <pubDate>2025-09-10T00:17:46Z</pubDate>
+      <guid>cid://https://talamua.com/?p=51218</guid>
     </item>    <item>
       <title>Senate confirms Taimalelagi &#38; Faleafine – Nomura for LBJ Board</title>
       <link>https://www.talanei.com/2025/09/09/senate-confirms-taimalelagi-faleafine-nomura-for-lbj-board/</link>
       <description>
         <![CDATA[By unanimous vote, 15- 0, senators confirmed the Governor’s nominations of Taimalelagi Dr Claire Poumele and Lydia Faleafine-Noruma as members of the Board of the LBJ Tropical Medical Center. At the confirmation hearing for the two prominent]]>
       </description>
-      <guid>https://www.talanei.com/?p=128977</guid>
-      <pubDate>2025-09-09T23:31:59Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128977</guid>
     </item>    <item>
       <title>Missing Y gene linked to male infertility</title>
       <link>https://www.hawaii.edu/news/2025/09/09/missing-y-gene-linked-to-male-infertility/</link>
@@ -540,8 +494,7 @@
         <![CDATA[<p>The new <abbr>UH</abbr> research offers significant implications for understanding reproductive health.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/missing-y-gene-linked-to-male-infertility/">Missing Y gene linked to male infertility</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221574</guid>
-      <pubDate>2025-09-09T23:00:10Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221574</guid>
     </item>    <item>
       <title>Ea in the stacks: Indigenizing library spaces at Hale Laʻakea</title>
       <link>https://www.hawaii.edu/news/2025/09/09/indigenizing-library-spaces-at-hale-laakea/</link>
@@ -549,8 +502,7 @@
         <![CDATA[<p>Hale <span aria-label="Laakea">La&#699;akea</span> Library at Windward <abbr>CC</abbr> is working to design a place of belonging for Native Hawaiian students.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/indigenizing-library-spaces-at-hale-laakea/">Ea in the stacks: Indigenizing library spaces at Hale Laʻakea</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221407</guid>
-      <pubDate>2025-09-09T22:48:23Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221407</guid>
     </item>    <item>
       <title>UH plan for Moku o Loʻe models climate resilience, Indigenous stewardship</title>
       <link>https://www.hawaii.edu/news/2025/09/09/malama-aina-plan/</link>
@@ -558,8 +510,7 @@
         <![CDATA[<p><abbr>HIMB</abbr> has produced a plan to prepare Moku o <span aria-label="Loe">Lo&#699;e</span> (Coconut Island) for predicted sea-level rise, providing a template for how other islands can do the same.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/malama-aina-plan/"><abbr>UH</abbr> plan for Moku o Loʻe models climate resilience, Indigenous stewardship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221591</guid>
-      <pubDate>2025-09-09T22:35:15Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221591</guid>
     </item>    <item>
       <title>Fiu Ponifasio Vasa retains Palauli 2 seat after court recount</title>
       <link>https://talamua.com/2025/09/10/fiu-ponifasio-vasa-retains-palauli-2-seat-after-court-recount/</link>
@@ -567,8 +518,7 @@
         <![CDATA[<p>By Lagi Keresoma/ Apia, Samoa – 10 September 2025: Independent candidate Fiu Faaolatane Ponisfasio Vasa has retained the Palauli 2 constituency seat after the court recount last night confirmed his lead by two votes. It is the first of eleven recounts now progressing in District court ahead of the 18th Parliament swearing in next Tuesday. [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/10/fiu-ponifasio-vasa-retains-palauli-2-seat-after-court-recount/">Fiu Ponifasio Vasa retains Palauli 2 seat after court recount</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=51212</guid>
-      <pubDate>2025-09-09T22:20:06Z</pubDate>
+      <guid>cid://https://talamua.com/?p=51212</guid>
     </item>    <item>
       <title>3 ‘Bows earn Big West women’s volleyball honors</title>
       <link>https://www.hawaii.edu/news/2025/09/09/big-west-womens-volleyball-honors/</link>
@@ -576,40 +526,35 @@
         <![CDATA[<p><span aria-label="Chalei">Cha&#699;lei</span> Reid, Bri Gunderson and Adrianna Arquette were recognized with Big West weekly awards.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/big-west-womens-volleyball-honors/">3 ‘Bows earn Big West women’s volleyball honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221602</guid>
-      <pubDate>2025-09-09T20:58:08Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221602</guid>
     </item>    <item>
       <title>Executive Order authorizes Secretary of Am Samoa to issue certificates of good standing</title>
       <link>https://www.talanei.com/2025/09/09/executive-order-authorizes-secretary-of-am-samoa-to-issue-certificates-of-good-standing/</link>
       <description>
         <![CDATA[An executive order issued by Acting Governor Pulumataala Ae Ae Jr yesterday authorizes the Secretary of American Samoa to issue certificates of good standing for corporations, limited liability companies, partnerships, non-profit organizations and other business entities in]]>
       </description>
-      <guid>https://www.talanei.com/?p=128964</guid>
-      <pubDate>2025-09-09T20:30:46Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128964</guid>
     </item>    <item>
       <title>Aunu’u alias back in operation</title>
       <link>https://www.talanei.com/2025/09/09/aunuu-alias-back-in-operation/</link>
       <description>
         <![CDATA[One of the two private alias serving Aunuu island was back in operation yesterday and another was towed to Auasi for an engine replacement. Government assistance was sought over the weekend after the two alias broke down]]>
       </description>
-      <guid>https://www.talanei.com/?p=128974</guid>
-      <pubDate>2025-09-09T20:27:41Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128974</guid>
     </item>    <item>
       <title>Man charged with punching and strangling girlfriend</title>
       <link>https://www.talanei.com/2025/09/09/man-charged-with-punching-and-strangling-girlfriend/</link>
       <description>
         <![CDATA[A man is being held on bail of $30,000 for allegedly assaulting his girlfriend and damaging her car. The defendant, whom we are not naming to protect the victim’s identity, faces five counts, two counts of third]]>
       </description>
-      <guid>https://www.talanei.com/?p=128971</guid>
-      <pubDate>2025-09-09T20:16:37Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128971</guid>
     </item>    <item>
       <title>PM Fiame concedes defeat, congratulates Laaulialemalietoa</title>
       <link>https://www.talanei.com/2025/09/09/pm-fiame-concedes-defeat-congratulates-laaulialemalietoa/</link>
       <description>
         <![CDATA[Samoa’s first female Prime Minister, Fiame Naomi Mataafa, yesterday conceded defeat and offered congratulations to the winning political party, Faatuatua ile Atua Samoa ua Tasi (FAST) and its leader Laaulialemalietoa Leuatea Schmidt. She said, “I pray for]]>
       </description>
-      <guid>https://www.talanei.com/?p=128967</guid>
-      <pubDate>2025-09-09T20:08:13Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128967</guid>
     </item>    <item>
       <title>Strengthening pilina: upcoming events and support</title>
       <link>https://www.hawaii.edu/news/2025/09/09/strengthening-pilina-events-and-support/</link>
@@ -617,8 +562,7 @@
         <![CDATA[<p>Featured in this semester’s programming include brave space dialogues, Pilina Circles, and the start of a &#8220;Faith in Turbulent Times&#8221; series.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/09/strengthening-pilina-events-and-support/">Strengthening pilina: upcoming events and support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221588</guid>
-      <pubDate>2025-09-09T18:55:19Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221588</guid>
     </item>    <item>
       <title>News Corp announces resolution of Murdoch Family Trust</title>
       <link>https://www.postcourier.com.pg/news-corp-announces-resolution-of-murdoch-family-trust/</link>
@@ -627,8 +571,7 @@
         <p>New York: News Corporation today (yesterday) announced that the trustee and beneficiaries of the Murdoch Family Trust (“MFT”) informed the company that they have reached a mutual resolution of the legal proceedings in Nevada related to the MFT, resulting in the termination of all litigation.</p>
         <p>The post <a href="https://www.postcourier.com.pg/news-corp-announces-resolution-of-murdoch-family-trust/">News Corp announces resolution of Murdoch Family Trust</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617977</guid>
-      <pubDate>2025-09-09T18:52:25Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617977</guid>
     </item>    <item>
       <title>Pope Leo declares teen whiz ‘God’s influencer’, a saint</title>
       <link>https://www.postcourier.com.pg/pope-leo-declares-teen-whiz-gods-influencer-a-saint/</link>
@@ -637,8 +580,7 @@
         <p>LONDON/ROME: Carlo Acutis, who died of leukaemia in 2006 at the age of 15, is the first millennial - a person born in the early 1980s to late 1990s - to be made a saint by the Catholic church.</p>
         <p>The post <a href="https://www.postcourier.com.pg/pope-leo-declares-teen-whiz-gods-influencer-a-saint/">Pope Leo declares teen whiz ‘God’s influencer’, a saint</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617958</guid>
-      <pubDate>2025-09-09T18:20:29Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617958</guid>
     </item>    <item>
       <title>Murdochs reach deal in battle over media empire</title>
       <link>https://www.postcourier.com.pg/murdochs-reach-deal-in-battle-over-media-empire/</link>
@@ -647,8 +589,7 @@
         <p>A years-long succession battle within Rupert Murdoch’s (pictured) conservative media empire has drawn to a close, with his son Lachlan set to control the news group.</p>
         <p>The post <a href="https://www.postcourier.com.pg/murdochs-reach-deal-in-battle-over-media-empire/">Murdochs reach deal in battle over media empire</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617942</guid>
-      <pubDate>2025-09-09T18:01:07Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617942</guid>
     </item>    <item>
       <title>Let’s celebrate a fresh start</title>
       <link>https://www.postcourier.com.pg/lets-celebrate-a-fresh-start/</link>
@@ -657,8 +598,7 @@
         <p>We may have our faults, but there are some good reasons why we have to celebrate 50 years of being an independent country.</p>
         <p>The post <a href="https://www.postcourier.com.pg/lets-celebrate-a-fresh-start/">Let’s celebrate a fresh start</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617907</guid>
-      <pubDate>2025-09-09T18:00:00Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617907</guid>
     </item>    <item>
       <title>Front and Back page</title>
       <link>https://www.postcourier.com.pg/front-and-back-page-1146/</link>
@@ -667,8 +607,7 @@
         <p>Front Back</p>
         <p>The post <a href="https://www.postcourier.com.pg/front-and-back-page-1146/">Front and Back page</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617885</guid>
-      <pubDate>2025-09-09T18:00:00Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617885</guid>
     </item>    <item>
       <title>Front and Back page</title>
       <link>https://www.postcourier.com.pg/front-and-back-page-1145/</link>
@@ -677,8 +616,7 @@
         <p>Front Back</p>
         <p>The post <a href="https://www.postcourier.com.pg/front-and-back-page-1145/">Front and Back page</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617884</guid>
-      <pubDate>2025-09-09T18:00:00Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617884</guid>
     </item>    <item>
       <title>NMCA investigates serious breach in hospital’s procuring and financial laws</title>
       <link>https://www.postcourier.com.pg/nmca-investigates-serious-breach-in-hospitals-procuring-and-financial-laws/</link>
@@ -687,8 +625,7 @@
         <p>The newest government expenditure watchdog – the National Monitoring and Coordination Authority – is investigating the K1.2 billion Level 5 hospital project proposed for the National Capital District.</p>
         <p>The post <a href="https://www.postcourier.com.pg/nmca-investigates-serious-breach-in-hospitals-procuring-and-financial-laws/">NMCA investigates serious breach in hospital’s procuring and financial laws</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617940</guid>
-      <pubDate>2025-09-09T17:58:38Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617940</guid>
     </item>    <item>
       <title>Pacific News Briefs</title>
       <link>https://www.samoanews.com/regional/pacific-news-briefs-198</link>
@@ -751,8 +688,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Fpacific-news-briefs-198" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133596 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-09T16:29:00Z</pubDate>
+      <guid>cid://133596 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>U.S. House passes Hawaii rep&#39;s PARTNER Act</title>
       <link>https://www.samoanews.com/regional/us-house-passes-hawaii-reps-partner-act</link>
@@ -780,8 +716,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Fus-house-passes-hawaii-reps-partner-act" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133595 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-09T16:23:55Z</pubDate>
+      <guid>cid://133595 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Samoa Customs seizes 1.8kg of meth hidden in rice bags</title>
       <link>https://www.samoanews.com/regional/samoa-customs-seizes-18kg-meth-hidden-rice-bags</link>
@@ -807,8 +742,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Fsamoa-customs-seizes-18kg-meth-hidden-rice-bags" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133594 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-09T16:14:54Z</pubDate>
+      <guid>cid://133594 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Red flags at 3 Saipan sites</title>
       <link>https://www.mvariety.com/news/local/red-flags-at-3-saipan-sites/article_dd673035-dcff-46a0-9372-7b7c584e9c6c.html</link>
@@ -816,8 +750,7 @@
         <![CDATA[(BECQ) — The Bureau of Environmental and Coastal Quality  analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/a/c1/ac1f00c4-6483-11ef-9078-fb8351d46ff4/66cde7c00a9b0.image.jpg?resize=300%2C200" length="" type="image/jpeg" />
-      <guid>urn:publicid:www.mvariety.com:dd673035-dcff-46a0-9372-7b7c584e9c6c</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:dd673035-dcff-46a0-9372-7b7c584e9c6c</guid>
     </item>    <item>
       <title>Hawaii’s Case aims to further strengthen US-Pacific Islands partnerships</title>
       <link>https://www.mvariety.com/news/regional_world/hawaii-s-case-aims-to-further-strengthen-us-pacific-islands-partnerships/article_370570b0-d7a0-4e01-84dd-7595e0593bb5.html</link>
@@ -825,8 +758,7 @@
         <![CDATA[WASHINGTON, D.C. — U.S. Rep. Ed Case of Hawaii announced that the U.S. House of Representatives has passed a bipartisan foreign policy measure that included a provision of his Pacific Partnership Act to strengthen ties between the United States and our partners in the Pacific.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/3/ca/3ca0d8bc-fc0a-4ce8-a45c-0c27da0e576a/68c00416ab101.image.jpg?resize=300%2C375" length="" type="image/jpeg" />
-      <guid>urn:publicid:www.mvariety.com:370570b0-d7a0-4e01-84dd-7595e0593bb5</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:370570b0-d7a0-4e01-84dd-7595e0593bb5</guid>
     </item>    <item>
       <title>FAC remains the same for September</title>
       <link>https://www.mvariety.com/news/local/fac-remains-the-same-for-september/article_dff13266-3a8f-44e9-88d0-4b5009d521c9.html</link>
@@ -834,8 +766,7 @@
         <![CDATA[(Commonwealth Utilities Corporation) — The Fuel Adjustment Charge or FAC remains the same at $0.19706 per kWh for the month of September.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/7/fc/7fc16950-6815-11ef-af21-eb1a75e616ba/66d3e4e4dab5e.image.jpg?resize=300%2C206" length="" type="image/jpeg" />
-      <guid>urn:publicid:www.mvariety.com:dff13266-3a8f-44e9-88d0-4b5009d521c9</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:dff13266-3a8f-44e9-88d0-4b5009d521c9</guid>
     </item>    <item>
       <title>Sept. 11 power interruption rescheduled for Sept. 16</title>
       <link>https://www.mvariety.com/news/local/sept-11-power-interruption-rescheduled-for-sept-16/article_b807b4bc-b3cb-4149-a7a6-6126e838ab6c.html</link>
@@ -843,8 +774,7 @@
         <![CDATA[(Commonwealth Utilities Corporation) — The power service interruption initially scheduled for Thursday, Sept. 11, 2025, has been rescheduled to Tuesday, Sept. 16, 2025.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/d/2a/d2a4af4a-93a8-4c48-b278-97d4ac7a1016/68c001b294da8.image.png?resize=300%2C190" length="" type="image/png" />
-      <guid>urn:publicid:www.mvariety.com:b807b4bc-b3cb-4149-a7a6-6126e838ab6c</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:b807b4bc-b3cb-4149-a7a6-6126e838ab6c</guid>
     </item>    <item>
       <title>King-Hinds confirms resumption of airmail service from Marianas</title>
       <link>https://www.mvariety.com/news/local/king-hinds-confirms-resumption-of-airmail-service-from-marianas/article_82dff19a-9c2c-449e-a739-e2bdc9acb57d.html</link>
@@ -852,8 +782,7 @@
         <![CDATA[WASHINGTON, D.C. — U.S. Congresswoman Kimberlyn King-Hinds on Tuesday announced that the U.S. Postal Service has confirmed airmail service from the CNMI and Guam to the U.S. mainland will no longer be disrupted by the suspension of the de minimis exemption.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/f/42/f4211394-bc3f-11ef-a221-d348e1800248/676119d7be219.image.jpg?resize=300%2C376" length="" type="image/jpeg" />
-      <guid>urn:publicid:www.mvariety.com:82dff19a-9c2c-449e-a739-e2bdc9acb57d</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:82dff19a-9c2c-449e-a739-e2bdc9acb57d</guid>
     </item>    <item>
       <title>Cannabis Commission responds to House committee proposal and public commentary</title>
       <link>https://www.mvariety.com/news/local/cannabis-commission-responds-to-house-committee-proposal-and-public-commentary/article_8e134e82-a917-4fdf-a6fd-d6fe70fa1d07.html</link>
@@ -861,8 +790,7 @@
         <![CDATA[IN response to a Sept. 2 article published in the Marianas Variety regarding the proposed dissolution of the CNMI Cannabis Commission and commentary by Mr. Ambrose M. Bennett, the Commission’s interim managing director and commissioner, Thomas L. Songsong, offers the following clarifications and recommendations:]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/f/f5/ff58b221-9154-4677-b8c1-041a5a373d06/68bfffe6ed01e.image.jpg?resize=300%2C200" length="" type="image/jpeg" />
-      <guid>urn:publicid:www.mvariety.com:8e134e82-a917-4fdf-a6fd-d6fe70fa1d07</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:8e134e82-a917-4fdf-a6fd-d6fe70fa1d07</guid>
     </item>    <item>
       <title>US Supreme Court backs Trump on aggressive immigration raids</title>
       <link>https://www.mvariety.com/news/national/us-supreme-court-backs-trump-on-aggressive-immigration-raids/article_a9247373-1bee-4de5-b2a9-b78cdc8abd29.html</link>
@@ -870,8 +798,7 @@
         <![CDATA[(Reuters) — The U.S. Supreme Court again backed President Donald Trump's hardline immigration approach on Monday, letting agents proceed with Southern California raids targeting people for deportation based on their race or language in a ruling its liberal justices said makes Latinos "fair game to be seized at any time."]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/f/c1/fc1c22df-a58c-4fd9-8ea8-49c173bfde79/68c00608038be.image.png?resize=300%2C197" length="" type="image/png" />
-      <guid>urn:publicid:www.mvariety.com:a9247373-1bee-4de5-b2a9-b78cdc8abd29</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:a9247373-1bee-4de5-b2a9-b78cdc8abd29</guid>
     </item>    <item>
       <title>LeBron James pens essay in Chinese state newspaper</title>
       <link>https://www.mvariety.com/sports/nationalsports/lebron-james-pens-essay-in-chinese-state-newspaper/article_5336e7ae-d3d3-4be3-a8a0-9f4fbfbc6cf0.html</link>
@@ -879,8 +806,7 @@
         <![CDATA[BEIJING (Reuters) — LeBron James has become the first NBA player to author a piece in China's state-run People's Daily newspaper, an unusual move suggesting the top-flight North American basketball league's years-long row with Beijing could be coming to an end.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/e/a4/ea405241-c6b4-420a-ab9b-11d41fc7ce3c/68c0074bae06c.image.png?resize=300%2C204" length="" type="image/png" />
-      <guid>urn:publicid:www.mvariety.com:5336e7ae-d3d3-4be3-a8a0-9f4fbfbc6cf0</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:5336e7ae-d3d3-4be3-a8a0-9f4fbfbc6cf0</guid>
     </item>    <item>
       <title>Nauru charts bold path toward 2028 Micronesia Games</title>
       <link>https://www.mvariety.com/sports/localsports/nauru-charts-bold-path-toward-2028-micronesia-games/article_e9b1d664-70bc-4fc4-be99-dec80bf8332c.html</link>
@@ -888,8 +814,7 @@
         <![CDATA[YAREN, Nauru — On Sunday, Sept. 7, 2025, the Republic of Nauru welcomed sports leaders from across Micronesia this weekend for the annual general meeting of the Micronesian Games Council held at the Nauru Parliament. Delegates from all ten member nations gathered to discuss the future of the Games and celebrate a shared commitment to athletic development and regional cooperation.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/9/50/9506dea1-3c11-4425-a6c9-3670b99f24de/68c008db83a8b.image.jpg?resize=300%2C144" length="" type="image/jpeg" />
-      <guid>urn:publicid:www.mvariety.com:e9b1d664-70bc-4fc4-be99-dec80bf8332c</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:e9b1d664-70bc-4fc4-be99-dec80bf8332c</guid>
     </item>    <item>
       <title>MLB roundup: Phillies drop Mets, gain another game in East</title>
       <link>https://www.mvariety.com/sports/nationalsports/mlb-roundup-phillies-drop-mets-gain-another-game-in-east/article_5227dda8-a79b-403c-ad62-49198fcfd9b5.html</link>
@@ -897,8 +822,7 @@
         <![CDATA[(Reuters) — Aaron Nola pitched six scoreless innings and Jhoan Duran escaped a tense situation in the ninth as the Philadelphia Phillies nipped the visiting New York Mets 1-0 on Monday.]]>
       </description>
       <enclosure url="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/9/65/96582886-dbbd-492b-a2d4-7829ab1c9a31/68c008135ef52.image.png?resize=300%2C199" length="" type="image/png" />
-      <guid>urn:publicid:www.mvariety.com:5227dda8-a79b-403c-ad62-49198fcfd9b5</guid>
-      <pubDate>2025-09-09T16:00:00Z</pubDate>
+      <guid>cid://urn:publicid:www.mvariety.com:5227dda8-a79b-403c-ad62-49198fcfd9b5</guid>
     </item>    <item>
       <title>University of Hawaii football</title>
       <link>https://www.samoanews.com/features/university-hawaii-football</link>
@@ -916,8 +840,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Ffeatures%2Funiversity-hawaii-football" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133592 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-09T15:56:57Z</pubDate>
+      <guid>cid://133592 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>“50 years without health care”: Yus woman demands action</title>
       <link>https://www.postcourier.com.pg/50-years-without-health-care-yus-woman-demands-action/</link>
@@ -926,8 +849,7 @@
         <p>A tuberculosis survivor from Kabwum District has issued a strong call for better health services, saying Yus LLG has suffered 50 years of neglect since independence.</p>
         <p>The post <a href="https://www.postcourier.com.pg/50-years-without-health-care-yus-woman-demands-action/">“50 years without health care”: Yus woman demands action</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617878</guid>
-      <pubDate>2025-09-09T15:31:03Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617878</guid>
     </item>    <item>
       <title>Police to enforce zero tolerance during Madang’s 50th independence celebrations</title>
       <link>https://www.postcourier.com.pg/police-to-enforce-zero-tolerance-during-madangs-50th-independence-celebrations/</link>
@@ -936,8 +858,7 @@
         <p>Madang police will enforce a strict zero tolerance policy during Papua New Guinea’s 50th independence anniversary.</p>
         <p>The post <a href="https://www.postcourier.com.pg/police-to-enforce-zero-tolerance-during-madangs-50th-independence-celebrations/">Police to enforce zero tolerance during Madang’s 50th independence celebrations</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617876</guid>
-      <pubDate>2025-09-09T15:26:03Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617876</guid>
     </item>    <item>
       <title>Madang launches four-day program for PNG’s 50th independence</title>
       <link>https://www.postcourier.com.pg/madang-launches-four-day-program-for-pngs-50th-independence/</link>
@@ -946,8 +867,7 @@
         <p>The Madang Provincial Events Committee has officially launched its four-day program to celebrate Papua New Guinea’s 50th Independence anniversary.</p>
         <p>The post <a href="https://www.postcourier.com.pg/madang-launches-four-day-program-for-pngs-50th-independence/">Madang launches four-day program for PNG’s 50th independence</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617863</guid>
-      <pubDate>2025-09-09T15:17:19Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617863</guid>
     </item>    <item>
       <title>At the crossroads: SVDs reflect on 150 years of mission</title>
       <link>https://www.postcourier.com.pg/at-the-crossroads-svds-reflect-on-150-years-of-mission/</link>
@@ -956,8 +876,7 @@
         <p>Members of the Society of the Divine Word Missionaries (SVD), along with clergy, religious, and lay missionaries, gathered inside St. Arnold Janssen Chapel, at the SVD Grounds in Madang on Monday for a celebration of the Holy Eucharist, in thanksgiving for the society's sesquicentennial.</p>
         <p>The post <a href="https://www.postcourier.com.pg/at-the-crossroads-svds-reflect-on-150-years-of-mission/">At the crossroads: SVDs reflect on 150 years of mission</a> appeared first on <a href="https://www.postcourier.com.pg">Post Courier</a>.</p>]]>
       </description>
-      <guid>https://www.postcourier.com.pg/?p=617859</guid>
-      <pubDate>2025-09-09T15:05:19Z</pubDate>
+      <guid>cid://https://www.postcourier.com.pg/?p=617859</guid>
     </item>    <item>
       <title>The burden of chairing the Pacific Islands Forum</title>
       <link>https://www.pacificislandtimes.com/post/the-burden-of-chairing-the-pacific-islands-forum</link>
@@ -965,8 +884,7 @@
         <![CDATA[As the Pacific Islands Forum happens this week in Solomon Islands, the spotlight will fall on the leaders gathering under one roof. All Forum meetings are memorable (or sometimes infamous) for different reasons, but for those at the centre of it all — it is often the more personal experiences and relationships forged among the chaos that really leave a lasting impact.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_e0ac6d335f554fa092144102083f52d6~mv2.jpg/v1/fit/w_838,h_416,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68c031bdea11f4aca8595774</guid>
-      <pubDate>2025-09-09T14:05:19Z</pubDate>
+      <guid>cid://68c031bdea11f4aca8595774</guid>
     </item>    <item>
       <title>Quid pro quo: Guam lists demands in exchange for role as frontline defense</title>
       <link>https://www.pacificislandtimes.com/post/guam-seeks-400m-federal-aid-to-build-new-hospital-1-5b-for-power-upgrade</link>
@@ -974,184 +892,161 @@
         <![CDATA[Seeking to leverage Guam’s role in U.S. homeland defense, the island’s delegation to Washington, D.C. has presented the Department of the Interior a laundry list of demands, such as $400 million for a new hospital and $1.3 billion for power system upgrades.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_5a87f9d23e6e4b5bab5a515f9fee4f9e~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68c01ab9395f24bf82663037</guid>
-      <pubDate>2025-09-09T13:15:36Z</pubDate>
+      <guid>cid://68c01ab9395f24bf82663037</guid>
     </item>    <item>
       <title>The Primary Problem — Why most 2026 elections will be decided before November</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/opinion/the-primary-problem-why-most-2026-elections-will-be-decided-before-november/</link>
       <description>
         <![CDATA[<p>The 2026 midterm elections should be the American people&#8217;s next best opportunity to issue a verdict on the direction of the country. In a functioning democracy, the outcome would offer a clear signal: do most voters want change or to stay the course?</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349085</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349085</guid>
     </item>    <item>
       <title>J.J. McCarthy recovers from pick-6, rallies Vikings to win over Bears</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/sports/j-j-mccarthy-recovers-from-pick-6-rallies-vikings-to-win-over-bears/</link>
       <description>
         <![CDATA[<p>Chicago kid J.J. McCarthy made his first NFL start a memorable one, rallying the visiting Minnesota Vikings to a 27-24 win over the Bears on Monday night.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349083</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349083</guid>
     </item>    <item>
       <title>Phillies drop Mets, gain another game in East</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/sports/phillies-drop-mets-gain-another-game-in-east/</link>
       <description>
         <![CDATA[<p>Aaron Nola pitched six scoreless innings and Jhoan Duran escaped a tense situation in the ninth as the Philadelphia Phillies nipped the visiting New York Mets 1-0 on Monday. </p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349081</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349081</guid>
     </item>    <item>
       <title>BIIF football: ‘Riders roll Ka Makani, clinch first home win of 2025</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/sports/biif-football-riders-roll-ka-makani-clinch-first-home-win-of-2025/</link>
       <description>
         <![CDATA[<p>KEALAKEHE &#8212; Kealakehe football came to play Friday night at Waverider Stadium.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349077</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349077</guid>
     </item>    <item>
       <title>Council committee passes bill to extend free bus rides through 2028</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/council-committee-passes-bill-to-extend-free-bus-rides-through-2028/</link>
       <description>
         <![CDATA[<p>A Hawaii County Council committee has passed a bill that would extend the suspension of public transit fares through Dec. 31, 2028, making bus rides free for all riders.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349073</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349073</guid>
     </item>    <item>
       <title>PETA weighs in on K-9 Archer’s death</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/peta-weighs-in-on-k-9-archers-death/</link>
       <description>
         <![CDATA[<p>People for the Ethical Treatment of Animals said it sent a letter Monday to Hawaii Police Department Interim Chief Reed Mahuna concerning Archer, the West Hawaii Vice Division K-9 that died Thursday after being left unattended in a police vehicle.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349069</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349069</guid>
     </item>    <item>
       <title>Hawaii Army National Guard meets its recruiting goals</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/hawaii-army-national-guard-meets-its-recruiting-goals/</link>
       <description>
         <![CDATA[<p>When Spc. Corey Del Rosario first joined the Hawaii Army National Guard, he did it largely because other members of his families had served in the military.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349065</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349065</guid>
     </item>    <item>
       <title>Kiko to pass north of islands today and Wednesday</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/kiko-to-pass-north-of-islands-today-and-wednesday/</link>
       <description>
         <![CDATA[<p>As of early Monday evening, Hurricane Kiko was a Category 1 hurricane, losing intensity but gaining in both size and forward speed.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349063</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349063</guid>
     </item>    <item>
       <title>Nineteen killed in Nepal in ‘Gen Z’ protest over social media ban, corruption</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/nineteen-killed-in-nepal-in-gen-z-protest-over-social-media-ban-corruption/</link>
       <description>
         <![CDATA[<p>KATHMANDU &#8212; At least 19 people in two cities died on Monday in Nepal&#8217;s worst unrest in decades, authorities said, as police in the capital fired tear gas and rubber bullets at protesters trying to storm parliament in anger at a social media shutdown and corruption.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349061</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349061</guid>
     </item>    <item>
       <title>Businesses across the US rely on these drones. They might be banned</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/businesses-across-the-us-rely-on-these-drones-they-might-be-banned/</link>
       <description>
         <![CDATA[<p>Over the past three years, Mike Yoder made a name for himself in rural Ohio selling a spray-drone trailer kit that saves farmers money and weeks of labor by dropping seeds, fertilizer and fungicide from the sky.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349059</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349059</guid>
     </item>    <item>
       <title>Palestinian gunmen kill six in Jerusalem bus stop shooting</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/palestinian-gunmen-kill-six-in-jerusalem-bus-stop-shooting/</link>
       <description>
         <![CDATA[<p>JERUSALEM &#8212; Two Palestinian gunmen opened fire at a bus stop on the outskirts of Jerusalem on Monday, killing six people in what police described as &#8220;a terrorist attack,&#8221; one of the deadliest in the city in the past few years.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349057</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349057</guid>
     </item>    <item>
       <title>10 killed and 61 injured in Mexico after train crashes into bus</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/10-killed-and-61-injured-in-mexico-after-train-crashes-into-bus/</link>
       <description>
         <![CDATA[<p>MEXICO CITY &#8212; Ten people were killed and 61 injured on Monday morning when a cargo train crashed into a double-decker passenger bus in central Mexico, authorities said, one of the latest and most lethal accidents as the country expands its railroad network.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349055</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349055</guid>
     </item>    <item>
       <title>US Supreme Court backs Trump on aggressive immigration raids</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/us-supreme-court-backs-trump-on-aggressive-immigration-raids/</link>
       <description>
         <![CDATA[<p>The U.S. Supreme Court again backed President Donald Trump&#8217;s hardline immigration approach on Monday, letting agents proceed with Southern California raids targeting people for deportation based on their race or language in a ruling its liberal justices said makes Latinos &#8220;fair game to be seized at any time.&#8221;</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349053</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349053</guid>
     </item>    <item>
       <title>Appeals court upholds Carroll’s $83 million judgment against Trump</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/appeals-court-upholds-carrolls-83-million-judgment-against-trump/</link>
       <description>
         <![CDATA[<p>A federal appeals court on Monday upheld an $83.3 million jury award against President Donald Trump for defaming the writer E. Jean Carroll in 2019, after she accused him of a decades-old rape in a Manhattan department store &#8212; an attack for which he was separately found liable for sexual abuse.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349051</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349051</guid>
     </item>    <item>
       <title>Real-life ‘Succession’ ends: Lachlan Murdoch takes control and siblings take cash</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/real-life-succession-ends-lachlan-murdoch-takes-control-and-siblings-take-cash/</link>
       <description>
         <![CDATA[<p>The Murdoch family has reached a deal that will see Rupert Murdoch&#8217;s politically conservative eldest son Lachlan Murdoch cement control of the family media empire which includes Fox News and the Wall Street Journal. The agreement, announced on Monday, ends a family brawl over who will control one of the highest-profile global media groups and puts to rest questions of succession within the Murdoch family after its patriarch&#8217;s death. The drama is considered to be one of the inspirations for the television series &#8220;Succession,&#8221; about the infighting of the members of a media dynasty. Its real-life resolution preserves the conservative tilt of Murdoch&#8217;s media outlets.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349049</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349049</guid>
     </item>    <item>
       <title>Trump administration says it has begun immigration crackdown in Chicago</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/trump-administration-says-it-has-begun-immigration-crackdown-in-chicago/</link>
       <description>
         <![CDATA[<p>The Trump administration said Monday that it had begun a crackdown on illegal immigration in Chicago, though local officials and advocates for immigrants around the city said they had seen only a handful of arrests.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349047</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349047</guid>
     </item>    <item>
       <title>News in brief for September 9</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/nation-world-news/news-in-brief-for-september-9/</link>
       <description>
         <![CDATA[<p>Trial begins for man charged &#0010;in Trump assassination attempt</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349046</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349046</guid>
     </item>    <item>
       <title>Dumbing down the SAT bodes poorly for education</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/opinion/dumbing-down-the-sat-bodes-poorly-for-education/</link>
       <description>
         <![CDATA[<p>The SAT is billed as &#8220;a great way to find out how prepared students are for college.&#8221; If that&#8217;s true, recent changes to its format offer an unflattering assessment of the country&#8217;s aspiring scholars.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349045</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349045</guid>
     </item>    <item>
       <title>Quick Fix: Beef Fried Rice</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/features/quick-fix-beef-fried-rice/</link>
       <description>
         <![CDATA[<p>Enjoy this quick fried rice dinner &#8212; ready in just 15 minutes, including prep time. To make stir-frying a breeze, arrange all your prepped ingredients on a cutting board or plate in the order they&#8217;ll be used. That way, you won&#8217;t need to refer back to the recipe once cooking begins.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349043</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349043</guid>
     </item>    <item>
       <title>America’s wilderness is priceless</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/opinion/americas-wilderness-is-priceless/</link>
       <description>
         <![CDATA[<p>One of the traits that makes America great is its wilderness. The Trump administration is moving to open to extraction and development tens of millions of acres of forests now protected by a federal regulation known as the Roadless Rule.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349042</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349042</guid>
     </item>    <item>
       <title>Let’s Talk Food: Hawai‘i Food and Wine Festivals and Ouli Farms blessing</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/features/lets-talk-food-hawaii-food-and-wine-festivals-and-ouli-farms-blessing/</link>
       <description>
         <![CDATA[<p>Hawai&#8216;i Food and Wine Festivals and Ouli Farms recently had a blessing at Ouli Farms.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349038</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349038</guid>
     </item>    <item>
       <title>Tropical Storm Kiko passing to north</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/tropical-storm-kiko-passing-to-north/</link>
       <description>
         <![CDATA[<p>Tropical Storm Kiko continues to weaken as it passes directly north of the Big Island.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/tropical-storm-kiko-passing-to-north/</guid>
-      <pubDate>2025-09-09T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/2025/09/09/hawaii-news/tropical-storm-kiko-passing-to-north/</guid>
     </item>    <item>
       <title>New program enables Guam&#39;s small businesses to take part in large construction activity</title>
       <link>https://www.pacificislandtimes.com/post/new-program-enables-guam-s-small-businesses-to-take-part-in-large-construction-activity</link>
@@ -1159,8 +1054,7 @@
         <![CDATA[The Guam Economic Development Authority and Moylan’s Insurance Underwriters Inc. have launched a federally program that would expand access to the procurement market and open doors for Guam’s small businesses and emerging contractors to undertake larger projects.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_60b4da0350954b43b5965a3f02e57d7d~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68bfd2c2f2b287367acf7a2e</guid>
-      <pubDate>2025-09-09T07:27:01Z</pubDate>
+      <guid>cid://68bfd2c2f2b287367acf7a2e</guid>
     </item>    <item>
       <title>Solomon Islands welcomes Pacific Leaders in Colorful Ceremony; Palau Prepares to Host in 2026</title>
       <link>https://islandtimes.org/solomon-islands-welcomes-pacific-leaders-in-colorful-ceremony-palau-prepares-to-host-in-2026/</link>
@@ -1170,8 +1064,7 @@
         <p>HONIARA, Solomon Islands — “The cultural performance that began this morning’s ceremony is not only a celebration of our diversity but a reminder of just how special this moment is for any nation,” said Tongan Prime Minister Aisake Valu Eke, as Pacific leaders gathered Monday for the opening of the 54th Pacific Islands Forum Leaders [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/solomon-islands-welcomes-pacific-leaders-in-colorful-ceremony-palau-prepares-to-host-in-2026/">Solomon Islands welcomes Pacific Leaders in Colorful Ceremony; Palau Prepares to Host in 2026</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79988</guid>
-      <pubDate>2025-09-09T06:45:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79988</guid>
     </item>    <item>
       <title>Direct Tokyo-Palau Flights Spark Optimism among Local Tourism Businesses</title>
       <link>https://islandtimes.org/direct-tokyo-palau-flights-spark-optimism-among-local-tourism-businesses/</link>
@@ -1181,8 +1074,7 @@
         <p>By: Laurel Marewibuel KOROR, Palau (Sept. 8, 2025) — “Direct flights eliminate the stress of long layovers and complicated transfers, so we operators are expecting more visitors from Japan,” said a young woman who runs Belau Tour, one of several local businesses preparing for the long-awaited return of direct flights between Tokyo and Palau this [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/direct-tokyo-palau-flights-spark-optimism-among-local-tourism-businesses/">Direct Tokyo-Palau Flights Spark Optimism among Local Tourism Businesses</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79985</guid>
-      <pubDate>2025-09-09T06:43:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79985</guid>
     </item>    <item>
       <title>Palau Tourism Prepares for Boost with Direct Japan Flights set for October</title>
       <link>https://islandtimes.org/palau-tourism-prepares-for-boost-with-direct-japan-flights-set-for-october/</link>
@@ -1190,8 +1082,7 @@
         <![CDATA[<p>KOROR, Palau&#160; — Palau’s tourism industry closed July with a strong though slightly reduced visitor count, as new data previewed major changes ahead: the launch of direct flights from Tokyo set for October 29, 2025 is poised to energize arrivals from Japan, according to the Palau Visitors Authority (PVA) and travel industry partners. Palau welcomed [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/palau-tourism-prepares-for-boost-with-direct-japan-flights-set-for-october/">Palau Tourism Prepares for Boost with Direct Japan Flights set for October</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79983</guid>
-      <pubDate>2025-09-09T06:41:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79983</guid>
     </item>    <item>
       <title>Pacific Leaders to Sign ‘Ocean of Peace’ Agreement, Expanding Security Beyond Military</title>
       <link>https://islandtimes.org/79980-2/</link>
@@ -1199,8 +1090,7 @@
         <![CDATA[<p>HONIARA, Solomon Islands — “Peace in the Pacific is not just the absence of war. It’s about people feeling safe in their homes, secure in their health, and confident in their future,” said Terio Koronawa, a senior policy adviser at the Pacific Islands Forum Secretariat, as he explained the region’s new Ocean of Peace Declaration. [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/79980-2/">Pacific Leaders to Sign ‘Ocean of Peace’ Agreement, Expanding Security Beyond Military</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79980</guid>
-      <pubDate>2025-09-09T06:39:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79980</guid>
     </item>    <item>
       <title>New Nonprofit in Progress to Train Youth and Expand Media Skills in Palau</title>
       <link>https://islandtimes.org/new-nonprofit-in-progress-to-train-youth-and-expand-media-skills-in-palau/</link>
@@ -1208,8 +1098,7 @@
         <![CDATA[<p>By: Faith Chen During the recent media training held on August 29, a discussion took place between public relations professionals and experienced journalists regarding the launch of a nonprofit organization dedicated to providing media training for youth and the broader community. This new nonprofit aims to provide opportunities for anyone interested in developing their skills [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/new-nonprofit-in-progress-to-train-youth-and-expand-media-skills-in-palau/">New Nonprofit in Progress to Train Youth and Expand Media Skills in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79978</guid>
-      <pubDate>2025-09-09T06:38:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79978</guid>
     </item>    <item>
       <title>Palauan Youth to join Global Leadership Voyage in 2026</title>
       <link>https://islandtimes.org/palauan-youth-to-join-global-leadership-voyage-in-2026/</link>
@@ -1219,8 +1108,7 @@
         <p>By: Laurel Marewibuel KOROR, Palau — “The Ship for World Youth is a peace, exchange, and solidarity immersion program to develop young leaders from around the world,” said Sylvester Francis Alonz, chief of Palau’s Division of Youth and Career Development, as Palau prepares to join the program for the first time in 2026. Palau will [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/palauan-youth-to-join-global-leadership-voyage-in-2026/">Palauan Youth to join Global Leadership Voyage in 2026</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79975</guid>
-      <pubDate>2025-09-09T06:36:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79975</guid>
     </item>    <item>
       <title>Japan’s Prime Minister Shigeru Ishiba has resigned</title>
       <link>https://islandtimes.org/japans-prime-minister-shigeru-ishiba-has-resigned/</link>
@@ -1228,8 +1116,7 @@
         <![CDATA[<p>In short: (ABC-Australia) Japan&#8217;s Prime Minister Shigeru Ishiba has announced his resignation after growing calls to take responsibility for a historic defeat in this year&#8217;s parliamentary election. Since Mr Ishiba came to power in October 2024, his ruling coalition has lost its majorities in both the lower and upper houses of parliament. What&#8217;s next? Mr [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/japans-prime-minister-shigeru-ishiba-has-resigned/">Japan&#8217;s Prime Minister Shigeru Ishiba has resigned</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79973</guid>
-      <pubDate>2025-09-09T06:35:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79973</guid>
     </item>    <item>
       <title>South Korea announces deal to bring home hundreds of Hyundai workers detained in US immigration raids</title>
       <link>https://islandtimes.org/south-korea-announces-deal-to-bring-home-hundreds-of-hyundai-workers-detained-in-us-immigration-raids/</link>
@@ -1237,8 +1124,7 @@
         <![CDATA[<p>In short: (ABC-Australia) More than 300 South Korean workers detained in an immigration raid at a Hyundai plant in the United States will be released and brought home, the South Korean government has announced. Presidential chief of staff Kang Hoon-sik said South Korea plans to send a charter plane to bring the workers home, after [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/south-korea-announces-deal-to-bring-home-hundreds-of-hyundai-workers-detained-in-us-immigration-raids/">South Korea announces deal to bring home hundreds of Hyundai workers detained in US immigration raids</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79971</guid>
-      <pubDate>2025-09-09T06:35:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79971</guid>
     </item>    <item>
       <title>Smaller Island States Leaders Set Priorities Ahead of Pacific Islands Forum Leaders Meeting</title>
       <link>https://islandtimes.org/smaller-island-states-leaders-set-priorities-ahead-of-pacific-islands-forum-leaders-meeting/</link>
@@ -1249,8 +1135,7 @@
         <p>HONIARA, Solomon Islands (Sept. 8, 2025) — “The unity and clarity of purpose that we show here will set the tone for the rest of our deliberations in Honiara,” Kiribati President Taneti Maamau said Monday as he opened the Small Island States (SIS) Leaders Meeting, the first gathering leading into the 54th Pacific Islands Forum [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/smaller-island-states-leaders-set-priorities-ahead-of-pacific-islands-forum-leaders-meeting/">Smaller Island States Leaders Set Priorities Ahead of Pacific Islands Forum Leaders Meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79967</guid>
-      <pubDate>2025-09-09T06:30:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79967</guid>
     </item>    <item>
       <title>RBF cracks down on crypto, all virtual asset services now illegal in Fiji</title>
       <link>https://islandtimes.org/rbf-cracks-down-on-crypto-all-virtual-asset-services-now-illegal-in-fiji/</link>
@@ -1258,8 +1143,7 @@
         <![CDATA[<p>SUVA (FIJI TIMES) &#8212; The Reserve Bank of Fiji (RBF) has officially outlawed all cryptocurrency and virtual asset-related services in Fiji, warning that anyone involved in such activities could face fines up to $1 million (US$500,000) or 14 years in prison. The new restriction, which came into effect on 30 August 2025 under an amendment [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/rbf-cracks-down-on-crypto-all-virtual-asset-services-now-illegal-in-fiji/">RBF cracks down on crypto, all virtual asset services now illegal in Fiji</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79963</guid>
-      <pubDate>2025-09-09T06:27:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79963</guid>
     </item>    <item>
       <title>Thousands take to the streets against methamphetamines in French Polynesia</title>
       <link>https://islandtimes.org/thousands-take-to-the-streets-against-methamphetamines-in-french-polynesia/</link>
@@ -1267,8 +1151,7 @@
         <![CDATA[<p>PAPEETE (RNZ PACIFIC) &#8212; More than 6500 protesters across French Polynesia took to the streets over the weekend to oppose the growing influence of methamphetamines, which is already causing significant damage and is believed to have made some 30,000 addicts, including children. Protesters in those &#8220;white marches&#8221; were mostly seen in the streets of the [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/thousands-take-to-the-streets-against-methamphetamines-in-french-polynesia/">Thousands take to the streets against methamphetamines in French Polynesia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79961</guid>
-      <pubDate>2025-09-09T06:27:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79961</guid>
     </item>    <item>
       <title>NFL week one: Josh Allen leads Bills comeback over Ravens, Aaron Rodgers shines for Steelers, spitting incidents continue</title>
       <link>https://islandtimes.org/nfl-week-one-josh-allen-leads-bills-comeback-over-ravens-aaron-rodgers-shines-for-steelers-spitting-incidents-continue/</link>
@@ -1276,8 +1159,7 @@
         <![CDATA[<p>(ABC-Australia) The NFL is back with a jam-packed week one slate of games over in the USA. Week one is, of course, far too early to get a read on how the rest of the season will pan out, but that&#8217;s not going to stop people reading into just about anything and everything that the [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/nfl-week-one-josh-allen-leads-bills-comeback-over-ravens-aaron-rodgers-shines-for-steelers-spitting-incidents-continue/">NFL week one: Josh Allen leads Bills comeback over Ravens, Aaron Rodgers shines for Steelers, spitting incidents continue</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79959</guid>
-      <pubDate>2025-09-09T06:23:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79959</guid>
     </item>    <item>
       <title>E FAI O LENEI AE O LENA</title>
       <link>https://www.samoanews.com/lali/e-fai-lenei-ae-lena-106</link>
@@ -1311,8 +1193,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Fe-fai-lenei-ae-lena-106" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133591 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-09T05:22:02Z</pubDate>
+      <guid>cid://133591 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>TALA O LE VAIFANUA</title>
       <link>https://www.samoanews.com/lali/tala-vaifanua-1027</link>
@@ -1353,8 +1234,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Ftala-vaifanua-1027" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133590 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-09T05:20:11Z</pubDate>
+      <guid>cid://133590 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Letter to the Editor: GMH has structural problems</title>
       <link>https://www.pacificislandtimes.com/post/letter-to-the-editor-gmh-has-structural-problems</link>
@@ -1362,8 +1242,7 @@
         <![CDATA[It is tempting to say the problem is bad management, that every governor or administrator or administration has failed at the dollars and cents. But that is not true. GMH has been accredited, certified, celebrated and recognized in the past and continues today. But the truth is, systemic problems unseen by most always bring us back to the same place.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_58643a6291be4179afebf772e85da6ea~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68bfac899bbd3d7fc28b1395</guid>
-      <pubDate>2025-09-09T04:55:35Z</pubDate>
+      <guid>cid://68bfac899bbd3d7fc28b1395</guid>
     </item>    <item>
       <title>USP calls for bold vision and collective resolve at PIF Leaders Meeting</title>
       <link>https://www.usp.ac.fj/news/usp-calls-for-bold-vision-and-collective-resolve-at-pif-leaders-meeting/</link>
@@ -1371,8 +1250,7 @@
         <![CDATA[<p>For nearly six decades, The University of the South Pacific (USP) has produced close to...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/usp-calls-for-bold-vision-and-collective-resolve-at-pif-leaders-meeting/">USP calls for bold vision and collective resolve at PIF Leaders Meeting</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52636</guid>
-      <pubDate>2025-09-09T02:53:35Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52636</guid>
     </item>    <item>
       <title>Psychedelic therapy training prepares future social workers</title>
       <link>https://www.hawaii.edu/news/2025/09/08/psychedelic-therapy-social-work/</link>
@@ -1380,8 +1258,7 @@
         <![CDATA[<p>Psychedelic therapy content is being introduced this fall in the social work program to prepare future mental health professionals.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/08/psychedelic-therapy-social-work/">Psychedelic therapy training prepares future social workers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221537</guid>
-      <pubDate>2025-09-09T02:36:36Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221537</guid>
     </item>    <item>
       <title>From peak to peril: Recession risks mounting, UHERO reports</title>
       <link>https://www.hawaii.edu/news/2025/09/08/recession-watch-uhero-blog/</link>
@@ -1389,8 +1266,7 @@
         <![CDATA[<p>A new <abbr>UHERO</abbr> blog warns the U.S. economy may be shifting from growth to recession as key indicators weaken and employment falters.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/08/recession-watch-uhero-blog/">From peak to peril: Recession risks mounting, <abbr>UHERO</abbr> reports</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221554</guid>
-      <pubDate>2025-09-09T01:21:31Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221554</guid>
     </item>    <item>
       <title>UH Mānoa alumna’s feature film graces the big screen</title>
       <link>https://www.hawaii.edu/news/2025/09/08/manoa-alumnas-feature-film/</link>
@@ -1398,8 +1274,7 @@
         <![CDATA[<p>Producer <span aria-label="Kealohi">Ke&#699;alohi</span> Lee Lucero’s <em>Paper Bag Plan</em> is coming to Consolidated Theatres Ward on September 18.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/08/manoa-alumnas-feature-film/"><abbr>UH<abbr> Mānoa alumna’s feature film graces the big screen</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221536</guid>
-      <pubDate>2025-09-09T01:13:20Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221536</guid>
     </item>    <item>
       <title>Fiame finally concedes and congratulate Laaulialemalietoa’s election victory</title>
       <link>https://talamua.com/2025/09/09/fiame-finally-concedes-and-congratulate-laaulialemalietoas-election-victory/</link>
@@ -1407,8 +1282,7 @@
         <![CDATA[<p>Staff Reporters/ Apia, Samoa – 09 September 2025 – Caretaker Prime Minister, Fiame Naomi Mataafa has finally conceded and congratulated Laaulialemalietoa and the FAST Party following the election results were confirmed in a warrant by the Head of State last Friday. In a midday live broadcast today, Fiame acknowledged the winning Party and leader Laaulialemalietoa, [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/09/fiame-finally-concedes-and-congratulate-laaulialemalietoas-election-victory/">Fiame finally concedes and congratulate Laaulialemalietoa’s election victory</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=51108</guid>
-      <pubDate>2025-09-09T00:19:12Z</pubDate>
+      <guid>cid://https://talamua.com/?p=51108</guid>
     </item>    <item>
       <title>No official complaint with police over alleged election issues</title>
       <link>https://talamua.com/2025/09/09/no-official-complaint-with-police-over-alleged-election-issues/</link>
@@ -1416,24 +1290,21 @@
         <![CDATA[<p>By Staff Reporters/ Apia, Samoa – 09 September 2025: The Electoral Commissioner, Toleafoa Tuiafelolo John Stanley has confirmed that no official complaint has been lodged with police yet over alleged election inconsistencies. He said if there were any, then the law is the next step but to date, no official complaints have been filed. Central [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/09/no-official-complaint-with-police-over-alleged-election-issues/">No official complaint with police over alleged election issues</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=51106</guid>
-      <pubDate>2025-09-09T00:00:35Z</pubDate>
+      <guid>cid://https://talamua.com/?p=51106</guid>
     </item>    <item>
       <title>Budget, confirmations and tributes on Fono agenda</title>
       <link>https://www.talanei.com/2025/09/08/budget-confirmations-and-tributes-on-fono-agenda/</link>
       <description>
         <![CDATA[The Second Regular Session of the 39th Legislature resumed Monday after a four week recess. The proposed Fiscal Year 2026 budget for ASG totaling $815,392,090 was introduced in both the House and Senate. A schedule of budget]]>
       </description>
-      <guid>https://www.talanei.com/?p=128959</guid>
-      <pubDate>2025-09-08T23:29:10Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128959</guid>
     </item>    <item>
       <title>Manu’a faipule unhappy with state of schools in Distirct</title>
       <link>https://www.talanei.com/2025/09/08/manua-faipule-unhappy-with-state-of-schools-in-distirct/</link>
       <description>
         <![CDATA[While public schools resumed Monday, Manu’a representative Vala Porotesano Liusamoa said none of the improvements which DOE officials said would be carried out in schools of his district have been implemented. After spending three weeks in Manu’a,]]>
       </description>
-      <guid>https://www.talanei.com/?p=128953</guid>
-      <pubDate>2025-09-08T23:24:31Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128953</guid>
     </item>    <item>
       <title>Pure mathematics to pattern recognition, UH research earns $211K NSF support</title>
       <link>https://www.hawaii.edu/news/2025/09/08/conformal-quasiconformal-mappings/</link>
@@ -1441,24 +1312,21 @@
         <![CDATA[<p>Running through 2027, the project focuses on conformal and quasiconformal mappings.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/08/conformal-quasiconformal-mappings/">Pure mathematics to pattern recognition, <abbr>UH</abbr> research earns $211K <abbr>NSF</abbr> support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221521</guid>
-      <pubDate>2025-09-08T23:03:47Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221521</guid>
     </item>    <item>
       <title>Alliance Against Domestic &#38; Sexual Violence awarded DOJ grant</title>
       <link>https://www.talanei.com/2025/09/08/alliance-against-domestic-sexual-violence-awarded-doj-grant/</link>
       <description>
         <![CDATA[Congresswoman Uifa’atali Amata is highlighting notice of $353,303 in federal funds from the U.S. Department of Justice for the American Samoa Alliance Against Domestic and Sexual Violence. The one-year grant is from the DOJ’s Office of Violence]]>
       </description>
-      <guid>https://www.talanei.com/?p=128947</guid>
-      <pubDate>2025-09-08T23:01:05Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128947</guid>
     </item>    <item>
       <title>Significant drop in dengue fever cases in Samoa</title>
       <link>https://www.talanei.com/2025/09/08/significant-drop-in-dengue-fever-cases-in-samoa/</link>
       <description>
         <![CDATA[Samoa’s Ministry of Health has confirmed a significant decline in the number of dengue fever cases across the country, offering a much-needed reprieve after months of heightened concern. Acting Director-General of Health, Tagaloa Dr. Robert Thomsen, confirmed]]>
       </description>
-      <guid>https://www.talanei.com/?p=128951</guid>
-      <pubDate>2025-09-08T23:00:39Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128951</guid>
     </item>    <item>
       <title>Taiwan and Guam: First lines of defense for each other</title>
       <link>https://www.pacificislandtimes.com/post/taiwan-and-guam-first-lines-of-defense-for-each-other</link>
@@ -1466,8 +1334,7 @@
         <![CDATA[When we think of Guam’s place in the Indo-Pacific, the conversation often focuses on our role as “the tip of the spear” for the United States. But in the shifting security landscape of our region, it’s time we also recognize something else: Guam and Taiwan are each other’s first lines of defense.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_b71c8a31682f4114865a632e15c3adba~mv2.jpg/v1/fit/w_385,h_448,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68a1e609054d02f5f636dff1</guid>
-      <pubDate>2025-09-08T21:06:58Z</pubDate>
+      <guid>cid://68a1e609054d02f5f636dff1</guid>
     </item>    <item>
       <title>Kauaʻi medical program builds pipeline to address physician shortage</title>
       <link>https://www.hawaii.edu/news/2025/09/08/kmtt-4th-cohort/</link>
@@ -1475,40 +1342,35 @@
         <![CDATA[<p><abbr>JABSOM</abbr>’s fourth <span aria-label="Kauai">Kaua&#699;i</span> cohort trains to serve their own communities through a rural health initiative.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/08/kmtt-4th-cohort/">Kauaʻi medical program builds pipeline to address physician shortage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221451</guid>
-      <pubDate>2025-09-08T20:44:45Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221451</guid>
     </item>    <item>
       <title>Junior tennis players chosen for ATF Intercontinental Cup</title>
       <link>https://www.talanei.com/2025/09/08/junior-tennis-players-chosen-for-atf-intercontinental-cup/</link>
       <description>
         <![CDATA[The American Samoa Tennis Association (ASTA) is proud to announce that Hermann Thomsen and Joella Ioane have been officially invited to compete as part of the Pacific Oceania Teams at the upcoming 2025 ATF Intercontinental Cup. The]]>
       </description>
-      <guid>https://www.talanei.com/?p=128941</guid>
-      <pubDate>2025-09-08T20:35:07Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128941</guid>
     </item>    <item>
       <title>Aunuu without alia transportation, ASG to the rescue</title>
       <link>https://www.talanei.com/2025/09/08/aunuu-without-alia-transportation-asg-to-the-rescue/</link>
       <description>
         <![CDATA[Alias traveling between Aunuu and Auasi have not operated since Saturday because of engine problems, and government vessels are now helping transport residents for the time being. A resident of Aunuu who preferred not to be named]]>
       </description>
-      <guid>https://www.talanei.com/?p=128920</guid>
-      <pubDate>2025-09-08T20:29:31Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128920</guid>
     </item>    <item>
       <title>Deep sea mining on agenda of Scientific &#38; Statistical Committee</title>
       <link>https://www.talanei.com/2025/09/08/deep-sea-mining-on-agenda-of-scientific-statistical-committee/</link>
       <description>
         <![CDATA[From sharks to deep-sea mining to catch limits, the Western Pacific Regional Fishery Management Council’s Scientific and Statistical Committee (SSC) will take on some of the Pacific’s most pressing ocean issues this week Sept. 9-11, 2025, in]]>
       </description>
-      <guid>https://www.talanei.com/?p=128917</guid>
-      <pubDate>2025-09-08T20:22:31Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128917</guid>
     </item>    <item>
       <title>Samoa Parliament to convene Sept 16</title>
       <link>https://www.talanei.com/2025/09/08/samoa-parliament-to-convene-sept-16/</link>
       <description>
         <![CDATA[Samoa’s Head of State, Tuimalealiʻifano Vaʻaletoa Sualauvi II, has officially proclaimed the date and venue for the opening of the country’s 18th Parliament. The opening will be held on Tuesday, September 16 at the Tuanaimato Multipurpoe Complex.]]>
       </description>
-      <guid>https://www.talanei.com/?p=128915</guid>
-      <pubDate>2025-09-08T20:07:54Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128915</guid>
     </item>    <item>
       <title>If you can’t look forward, at least look back</title>
       <link>https://www.pacificislandtimes.com/post/if-you-can-t-look-forward-at-least-look-back</link>
@@ -1516,8 +1378,7 @@
         <![CDATA[I don’t know why reporters love anniversaries, but they do, especially when they end in a five or zero. Case in point: this past month, the world marked the 80th anniversary of the bombing of Hiroshima. The two other related anniversaries, the bombing of Nagasaki and the actual surrender ending World War II, oddly didn’t get much play.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_2380ac741fcb461aa3a91eba2eff5e19~mv2.jpg/v1/fit/w_449,h_469,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68a56a2e52b87596cc5ae3ff</guid>
-      <pubDate>2025-09-08T20:00:15Z</pubDate>
+      <guid>cid://68a56a2e52b87596cc5ae3ff</guid>
     </item>    <item>
       <title>Record of decision: Guam missile defense system set to begin this year</title>
       <link>https://www.pacificislandtimes.com/post/record-of-decision-for-guam-missile-defense-system-released</link>
@@ -1525,8 +1386,7 @@
         <![CDATA[The Department of Defense has officially released the record of decision that paves the way for the implementation of its plan to build a missile defense system for Guam, which is anticipated to begin this year amid the escalating tensions in the region.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_5afadc2a26db44c7803550106817e152~mv2.jpg/v1/fit/w_1000,h_938,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68bf356051377663b72e5a22</guid>
-      <pubDate>2025-09-08T19:59:10Z</pubDate>
+      <guid>cid://68bf356051377663b72e5a22</guid>
     </item>    <item>
       <title>Hawaiian Airlines, Honolulu CC initiate aviation tech development program</title>
       <link>https://www.hawaii.edu/news/2025/09/08/hawaiian-airlines-honolulu-cc-mtdp/</link>
@@ -1534,8 +1394,7 @@
         <![CDATA[<p>Honolulu <abbr>CC</abbr> students gain funding, mentorship and an aviation tech career path through Hawaiian Airlines initiative.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/08/hawaiian-airlines-honolulu-cc-mtdp/">Hawaiian Airlines, Honolulu <abbr>CC</abbr> initiate aviation tech development program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221495</guid>
-      <pubDate>2025-09-08T18:53:14Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221495</guid>
     </item>    <item>
       <title>ASTA Juniors invited to compete at two prestigious tennis events</title>
       <link>https://www.samoanews.com/sports/asta-juniors-invited-compete-two-prestigious-tennis-events</link>
@@ -1567,8 +1426,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fsports%2Fasta-juniors-invited-compete-two-prestigious-tennis-events" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133589 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-08T18:46:30Z</pubDate>
+      <guid>cid://133589 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>FAST Government and Members of Parliament to be sworn in next Tuesday</title>
       <link>https://talamua.com/2025/09/09/fast-government-and-members-of-parliament-to-be-sworn-in-next-tuesday/</link>
@@ -1576,8 +1434,7 @@
         <![CDATA[<p>By Lagi Keresoma/ Apia, Samoa &#8211; 09 September 2025: The new members of Parliament duly elected on 29 August’s general election, will be sworn in next Tuesday, 16 September. The Head of State, Tuimaleali’ifano Va’aletoa’ Sualauvi 11 issued the Writ yesterday declaring the 18th Parliament of Samoa to convene next Tuesday. Parliament will elect a new [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/09/fast-government-and-members-of-parliament-to-be-sworn-in-next-tuesday/">FAST Government and Members of Parliament to be sworn in next Tuesday</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=51102</guid>
-      <pubDate>2025-09-08T18:32:39Z</pubDate>
+      <guid>cid://https://talamua.com/?p=51102</guid>
     </item>    <item>
       <title>The Pacific’s united front on climate action is splintering over deep-sea mining</title>
       <link>https://www.samoanews.com/regional/pacifics-united-front-climate-action-splintering-over-deep-sea-mining</link>
@@ -1633,8 +1490,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Fpacifics-united-front-climate-action-splintering-over-deep-sea-mining" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133582 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-08T17:40:28Z</pubDate>
+      <guid>cid://133582 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Samoa’s PM-elect receiving congratulations from world leaders</title>
       <link>https://www.samoanews.com/regional/samoas-pm-elect-receiving-congratulations-world-leaders</link>
@@ -1671,8 +1527,7 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Fsamoas-pm-elect-receiving-congratulations-world-leaders" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133580 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-08T17:21:08Z</pubDate>
+      <guid>cid://133580 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Assisting the residents of Aunu’u photo &#38; caption</title>
       <link>https://www.samoanews.com/features/assisting-residents-aunuu-photo-caption</link>
@@ -1690,168 +1545,147 @@
         </script></div>
         </div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Ffeatures%2Fassisting-residents-aunuu-photo-caption" ><span>View the discussion thread.</span></a></p></noscript></div>]]>
       </description>
-      <guid>133579 at https://www.samoanews.com</guid>
-      <pubDate>2025-09-08T17:03:45Z</pubDate>
+      <guid>cid://133579 at https://www.samoanews.com</guid>
     </item>    <item>
       <title>Icarus Rewritten</title>
       <link>https://hawaiipacificreview.org/2025/09/08/icarus-rewritten/</link>
       <description>
         <![CDATA[by David M. Alper You were never the boy who fell. You were the boy who jumped. Let them call it hubris— you call it hunger. Your father warned you Don&#8217;t fly too high, but he never said why the &#8230; <a href="https://hawaiipacificreview.org/2025/09/08/icarus-rewritten/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
       </description>
-      <guid>http://hawaiipacificreview.org/?p=76423</guid>
-      <pubDate>2025-09-08T15:23:56Z</pubDate>
+      <guid>cid://http://hawaiipacificreview.org/?p=76423</guid>
     </item>    <item>
       <title>Double delight as Alcaraz reclaims US Open trophy, world No 1 spot</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/sports/double-delight-as-alcaraz-reclaims-us-open-trophy-world-no-1-spot/</link>
       <description>
         <![CDATA[<p>NEW YORK &#8212; Carlos Alcaraz claimed the U.S. Open crown for a second time with his win over Jannik Sinner on Sunday, a victory which showcased the Spaniard&#8217;s evolution over the last three years from the impulsiveness of youth to the measured maturity of a six-time Grand Slam winner.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349032</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349032</guid>
     </item>    <item>
       <title>Micah Parsons makes his Packers debut a memorable one</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/sports/micah-parsons-makes-his-packers-debut-a-memorable-one/</link>
       <description>
         <![CDATA[<p>GREEN BAY, Wis. &#8212; Micah Parsons made his presence known in his first game as a Green Bay Packer.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349030</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349030</guid>
     </item>    <item>
       <title>Rainbow Warriors best Sam Houston at home with QB Weaver at the helm</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/sports/rainbow-warriors-best-sam-houston-at-home-with-qb-weaver-at-the-helm/</link>
       <description>
         <![CDATA[<p>Reserve power fueled the Hawaii football team&#8217;s 37-20 victory over Sam Houston at the Ching Complex on Saturday.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349026</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349026</guid>
     </item>    <item>
       <title>BIIF volleyball: SJS seniors fight for final season</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/sports/biif-volleyball-sjs-seniors-fight-for-final-season/</link>
       <description>
         <![CDATA[<p>Before the 2025 BIIF girls volleyball season began, St. Joseph had a problem.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349019</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349019</guid>
     </item>    <item>
       <title>PHOTOS: Air riflery at Kamehameha</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/sports/photos-air-riflery-at-kamehameha/</link>
       <description>
         <![CDATA[<p>By Tim Wright</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349010</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349010</guid>
     </item>    <item>
       <title>Immigration raid exposes tensions from Seoul to Washington to rural Georgia</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/immigration-raid-exposes-tensions-from-seoul-to-washington-to-rural-georgia/</link>
       <description>
         <![CDATA[<p>ELLABELL, Ga. &#8212; A stretch of rural southeast Georgia, just outside Savannah, has been transforming rapidly in recent years, as a plan to create a massive manufacturing hub capable of producing nearly half a million vehicles per year has come to fruition.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349008</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349008</guid>
     </item>    <item>
       <title>‘Something is wrong with my brain’: A police officer’s descent</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/something-is-wrong-with-my-brain-a-police-officers-descent/</link>
       <description>
         <![CDATA[<p>Gina Elliott&#8217;s phone buzzed with a text message from a friend. It was a link to a news article about the gunman who opened fire in a midtown Manhattan office building in late July, killing four people and then himself.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349006</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349006</guid>
     </item>    <item>
       <title>Once homeless, man helps job seekers through the same organization that helped him</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/hawaii-news/once-homeless-man-helps-job-seekers-through-the-same-organization-that-helped-him/</link>
       <description>
         <![CDATA[<p>A journey from homelessness to steady employment shows what&#8217;s possible when job seekers get the right support.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349002</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349002</guid>
     </item>    <item>
       <title>Major changes, political conflict create confusion over COVID-19 vaccines in Hawaii</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/hawaii-news/major-changes-political-conflict-create-confusion-over-covid-19-vaccines-in-hawaii/</link>
       <description>
         <![CDATA[<p>Due to changes in criteria and the ongoing upheaval in the regulatory agencies overseeing their uses and approvals, getting an updated COVID-19 vaccination this fall will differ from past years for those who are young and healthy.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=349000</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=349000</guid>
     </item>    <item>
       <title>Grand juries in DC reject wave of charges under Trump’s crackdown</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/grand-juries-in-dc-reject-wave-of-charges-under-trumps-crackdown/</link>
       <description>
         <![CDATA[<p>In the three weeks since President Donald Trump flooded the streets of Washington with hundreds of troops and federal agents, there have been only a few scattered protests and scarcely a word from Congress, which has quietly gone along with the deployment.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348998</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348998</guid>
     </item>    <item>
       <title>News in brief for September 8</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/news-in-brief-for-september-8/</link>
       <description>
         <![CDATA[<p>Marilyn Monroe&#8217;s Los Angeles home is saved from demolition</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348997</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348997</guid>
     </item>    <item>
       <title>Over 800 arrested at protest after pro-Palestinian group banned as terrorist</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/over-800-arrested-at-protest-after-pro-palestinian-group-banned-as-terrorist/</link>
       <description>
         <![CDATA[<p>LONDON &#8212; More than 800 hundred people were arrested in London on Saturday under British terrorism laws during a protest of the government&#8217;s decision to ban a pro-Palestinian activist group.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348995</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348995</guid>
     </item>    <item>
       <title>Pope Leo XIV names first millennial saint, Carlo Acutis</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/pope-leo-xiv-names-first-millennial-saint-carlo-acutis/</link>
       <description>
         <![CDATA[<p>VATICAN CITY &#8212; Tens of thousands of people packed into St. Peter&#8217;s Square on Sunday for the canonization ceremony of Carlo Acutis and Pier Giorgio Frassati, two Italians who died young but whose deep faith has inspired millions worldwide.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348993</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348993</guid>
     </item>    <item>
       <title>Trump issues ‘last warning’ to Hamas to accept hostage deal</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/trump-issues-last-warning-to-hamas-to-accept-hostage-deal/</link>
       <description>
         <![CDATA[<p>WASHINGTON/JERUSALEM &#8212; President Donald Trump on Sunday issued what he called his &#8220;last warning&#8221; to Hamas, urging the Palestinian militant group to accept a deal to release hostages from Gaza.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348991</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348991</guid>
     </item>    <item>
       <title>ICE raids unfold in Boston as Trump signals Chicago is next</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/ice-raids-unfold-in-boston-as-trump-signals-chicago-is-next/</link>
       <description>
         <![CDATA[<p>Federal immigration agents conducted raids across Boston and nearby communities over the weekend, arresting dozens of people, according to a spokesperson for the Department of Homeland Security.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348989</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348989</guid>
     </item>    <item>
       <title>Immigrant faithful turn to virtual sermons, home communion amid Trump crackdown</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/immigrant-faithful-turn-to-virtual-sermons-home-communion-amid-trump-crackdown/</link>
       <description>
         <![CDATA[<p>CHICAGO &#8212; Sitting alone at her dining room table this past Sunday, Doris Aguirre took a bite of a soda cracker and a sip of the orange juice she had prepared to represent the body and blood of Jesus Christ. Eyes closed, she then made the sign of the cross.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348987</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348987</guid>
     </item>    <item>
       <title>Trump ready for ‘phase two’ of Russia sanctions over Ukraine conflict</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/trump-ready-for-phase-two-of-russia-sanctions-over-ukraine-conflict/</link>
       <description>
         <![CDATA[<p>WASHINGTON &#8212; U.S. President Donald Trump said on Sunday he is ready to move to a second phase of sanctioning Russia, the closest he has come to suggesting he is on the verge of ramping up sanctions against Moscow or its oil buyers over the war in Ukraine.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348985</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348985</guid>
     </item>    <item>
       <title>Obituaries for September 8</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/obituaries/obituaries-for-september-8-8/</link>
       <description>
         <![CDATA[<p>Ellane Baker, 93, of Hawaii Island died Sept. 3. No known family members. Survivors are asked to call Ballard Family Mortuary-Hilo at (808) 935-8445.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348984</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348984</guid>
     </item>    <item>
       <title>Russia hits Ukraine with biggest air attack of war, sets government building ablaze</title>
       <link>https://www.hawaiitribune-herald.com/2025/09/08/nation-world-news/russia-hits-ukraine-with-biggest-air-attack-of-war-sets-government-building-ablaze/</link>
       <description>
         <![CDATA[<p>KYIV &#8212; Russia launched its largest air attack of the war on Ukraine overnight, setting the main government building on fire in central Kyiv and killing at least four people, including an infant, Ukrainian officials said on Sunday.</p>]]>
       </description>
-      <guid>https://www.hawaiitribune-herald.com/?p=348982</guid>
-      <pubDate>2025-09-08T10:05:00Z</pubDate>
+      <guid>cid://https://www.hawaiitribune-herald.com/?p=348982</guid>
     </item>    <item>
       <title>Honiara at the helm: Pacific unity in a climate of uncertainty</title>
       <link>https://www.pacificislandtimes.com/post/honiara-at-the-helm-pacific-unity-in-a-climate-of-uncertainty</link>
@@ -1859,8 +1693,7 @@
         <![CDATA[The leaders of the Pacific Islands Forum gather in Honiara, Solomon Islands, from Sept. 8 to 12 for the 54th annual summit of the region’s premier political body. This year’s meeting carries extra significance: it is the first time in decades that the Solomon Islands has hosted the Forum.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_8de9588715b34683bf981c726254ee7b~mv2.jpg/v1/fit/w_1000,h_867,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68be4ba3cb0467d4eabe9550</guid>
-      <pubDate>2025-09-08T04:17:45Z</pubDate>
+      <guid>cid://68be4ba3cb0467d4eabe9550</guid>
     </item>    <item>
       <title>Albanese &#38; Luxton congratulate the Prime Minister-elect as Samoa’s PM remains quiet</title>
       <link>https://talamua.com/2025/09/08/albanese-luxton-congratulate-the-prime-minister-elect-as-samoas-pm-remains-quiet/</link>
@@ -1868,8 +1701,7 @@
         <![CDATA[<p>Staff Reporters/ Apia, Samoa – 09 September 2025 &#8211; Australia’s Prime Minister Anthony Albanese has posted a congratulatory message to Samoa’s Prime Minister-elect Laaulialemalietoa Leuatea Polataivao Schmidt. “Congratulations Laaulialemalietoa Polativao Schmidt on your election as Prime Minister of Samoa,” he said. “Australia and Samoa are close friends, I look forward to working together for our [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/08/albanese-luxton-congratulate-the-prime-minister-elect-as-samoas-pm-remains-quiet/">Albanese &#038; Luxton congratulate the Prime Minister-elect as Samoa’s PM remains quiet</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=51001</guid>
-      <pubDate>2025-09-08T00:20:04Z</pubDate>
+      <guid>cid://https://talamua.com/?p=51001</guid>
     </item>    <item>
       <title>Tinian’s digital transformation</title>
       <link>https://www.pacificislandtimes.com/post/tinian-s-digital-transformation</link>
@@ -1877,8 +1709,7 @@
         <![CDATA[Saipan— Beyond its growing military importance, the island of Tinian is strategically positioning itself to evolve from a traditional tourist destination into a dynamic digital hub. This transformation is a direct result of pairing high-speed connectivity with financial innovation and a supportive regulatory environment.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_8fc0c64c1d0141a3af4f76687d05385d~mv2.jpg/v1/fit/w_259,h_162,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68ae4aa76e26accbc6ce1b5d</guid>
-      <pubDate>2025-09-07T20:00:11Z</pubDate>
+      <guid>cid://68ae4aa76e26accbc6ce1b5d</guid>
     </item>    <item>
       <title>Pacific islands targeted in AI-fueled cyber attacks</title>
       <link>https://www.pacificislandtimes.com/post/pacific-islands-targeted-in-ai-fueled-cyber-attacks</link>
@@ -1886,8 +1717,7 @@
         <![CDATA[When Palau’s Ministry of Health and Human Services lost access to its digital records in February 2025, staff at Belau National Hospital knew it wasn’t a glitch. A ransomware gang called Qilin had breached the system. Patient data, billing information and operational records dating back to 2018 were suddenly encrypted.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/nsplsh_f356946f666e4ddeb7f0c536c3aaec5b~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68b3cd39a520f45f02213e50</guid>
-      <pubDate>2025-09-07T20:00:11Z</pubDate>
+      <guid>cid://68b3cd39a520f45f02213e50</guid>
     </item>    <item>
       <title>China. Read all about it</title>
       <link>https://www.pacificislandtimes.com/post/china-read-all-about-it</link>
@@ -1895,8 +1725,7 @@
         <![CDATA[America’s rivalry with China is a major concern for the Asia-Pacific region, including the Commonwealth of the Northern Mariana Islands. China used to be the CNMI’s second largest source of tourists, but the Covid-19 restrictions all but killed the China market.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_052d1df12eac4d8fa72c7322c2d18a10~mv2.jpg/v1/fit/w_254,h_323,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68a0211f054d02f5f63291f9</guid>
-      <pubDate>2025-09-07T20:00:11Z</pubDate>
+      <guid>cid://68a0211f054d02f5f63291f9</guid>
     </item>    <item>
       <title>Weaver wows in 1st start, leads UH football past Sam Houston</title>
       <link>https://www.hawaii.edu/news/2025/09/07/uh-defeats-sam-houston/</link>
@@ -1904,8 +1733,7 @@
         <![CDATA[<p><abbr>UH</abbr> defeated Sam Houston 37-20.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/07/uh-defeats-sam-houston/">Weaver wows in 1st start, leads <abbr>UH</abbr> football past Sam Houston</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221489</guid>
-      <pubDate>2025-09-07T17:34:16Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221489</guid>
     </item>    <item>
       <title>Department of Defense renamed Department of War</title>
       <link>https://www.pacificislandtimes.com/post/department-of-defense-renamed-department-of-war</link>
@@ -1913,8 +1741,7 @@
         <![CDATA[By Pacific island Times News Staff  President Donald Trump has issued an executive order renaming the Department of Defense “Department...]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_345e962369da4c969801caa423a00579~mv2.jpg/v1/fit/w_527,h_350,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68bccc808c49b59a19705a20</guid>
-      <pubDate>2025-09-07T00:08:41Z</pubDate>
+      <guid>cid://68bccc808c49b59a19705a20</guid>
     </item>    <item>
       <title>Getting on in years with grace and aches</title>
       <link>https://www.pacificislandtimes.com/post/getting-on-in-years-with-grace-and-aches</link>
@@ -1922,8 +1749,7 @@
         <![CDATA[The red light was blinking. I stared at it. Then I stared at the 5-gallon water bottle. There was a time when I didn’t even have to think about it. I would easily pick the bottle up from the ground and replace the empty one in the dispenser.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_ca31e76de9bc4e3a95a1fe1141234751~mv2.jpg/v1/fit/w_795,h_985,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>689e5e29df9fab6286b2b879</guid>
-      <pubDate>2025-09-06T23:49:57Z</pubDate>
+      <guid>cid://689e5e29df9fab6286b2b879</guid>
     </item>    <item>
       <title>Solomon Islands PM Welcomes Media to Pacific Islands Forum, Stresses Role in Public Trust</title>
       <link>https://islandtimes.org/solomon-islands-pm-welcomes-media-to-pacific-islands-forum-stresses-role-in-public-trust/</link>
@@ -1933,8 +1759,7 @@
         <p>By: L.N. Reklai HONIARA, Solomon Islands (Island Times) — “The media plays a vital role. You are not here as observers. You are participants and partners in shaping the future of our region,” Solomon Islands Prime Minister Jeremiah Manele told journalists as he welcomed them to the 54th Pacific Islands Forum Leaders Meeting. The meeting, [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/solomon-islands-pm-welcomes-media-to-pacific-islands-forum-stresses-role-in-public-trust/">Solomon Islands PM Welcomes Media to Pacific Islands Forum, Stresses Role in Public Trust</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79947</guid>
-      <pubDate>2025-09-06T04:36:20Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79947</guid>
     </item>    <item>
       <title>Shipping chaos: How the end of de minimis exemption affects air freight in Guam, CNMI</title>
       <link>https://www.pacificislandtimes.com/post/shipping-chaos-how-the-end-of-de-minimis-exemption-affects-air-freight-in-guam-cnmi</link>
@@ -1942,8 +1767,7 @@
         <![CDATA[Residents of Guam and the Northern Marianas Islands, who rely on air freight for shipment of their orders from the U.S. mainland, will not be receiving their packages anytime soon, thanks to a White House decision to suspend the “duty-free” status of imported goods valued under $800.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/11062b_f727dd5db1c8403caa2ae9fd5fecc8b2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68bbae264c40c4b014312a69</guid>
-      <pubDate>2025-09-06T04:28:11Z</pubDate>
+      <guid>cid://68bbae264c40c4b014312a69</guid>
     </item>    <item>
       <title>13 UH students awarded Hawaii Education Association grants for aspiring teachers</title>
       <link>https://www.hawaii.edu/news/2025/09/05/uh-students-awarded-aspiring-teachers-grants/</link>
@@ -1951,8 +1775,7 @@
         <![CDATA[<p>Grant-in-aid funding helps aspiring educators across <abbr>UH</abbr> campuses pursue teaching pathways statewide.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/05/uh-students-awarded-aspiring-teachers-grants/">13 <abbr>UH</abbr> students awarded Hawaii Education Association grants for aspiring teachers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221469</guid>
-      <pubDate>2025-09-06T02:35:04Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221469</guid>
     </item>    <item>
       <title>UH launches new career-ready credentials to power student success</title>
       <link>https://www.hawaii.edu/news/2025/09/05/uh-launches-new-career-ready-credentials/</link>
@@ -1960,8 +1783,7 @@
         <![CDATA[<p>New <abbr>UH</abbr> initiative helps students earn credentials that boost careers in <span aria-label="Hawaii">Hawai&#699;i</span> and beyond.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/05/uh-launches-new-career-ready-credentials/"><abbr>UH</abbr> launches new career-ready credentials to power student success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221449</guid>
-      <pubDate>2025-09-06T00:42:44Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221449</guid>
     </item>    <item>
       <title>UH football games to air in Southern California, Nevada</title>
       <link>https://www.hawaii.edu/news/2025/09/05/uh-football-games-spectrum-sportsnet/</link>
@@ -1969,64 +1791,56 @@
         <![CDATA[<p><abbr>UH</abbr> football’s 2025 season will reach fans in Southern California and Nevada through Spectrum SportsNet.</p>
         The post <a href="https://www.hawaii.edu/news/2025/09/05/uh-football-games-spectrum-sportsnet/"><abbr>UH</abbr> football games to air in Southern California, Nevada</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.]]>
       </description>
-      <guid>https://www.hawaii.edu/news/?p=221448</guid>
-      <pubDate>2025-09-06T00:23:49Z</pubDate>
+      <guid>cid://https://www.hawaii.edu/news/?p=221448</guid>
     </item>    <item>
       <title>LBJ breaks ground for tri-level parking lot</title>
       <link>https://www.talanei.com/2025/09/05/lbj-breaks-ground-for-tri-level-parking-lot/</link>
       <description>
         <![CDATA[Complaints about lack of parking at the LBJ Tropical Medical Center is being addressed with construction of a three story parking lot. A ground breaking ceremony on Friday signaled the start of the project. The $8.2 million]]>
       </description>
-      <guid>https://www.talanei.com/?p=128907</guid>
-      <pubDate>2025-09-05T23:35:01Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128907</guid>
     </item>    <item>
       <title>ANA offers training on project planning &#38; development</title>
       <link>https://www.talanei.com/2025/09/05/ana-offers-training-on-project-planning-development/</link>
       <description>
         <![CDATA[Registration has begun for a three day training by the Administration for Native Americans, ANA, on project planning and development The training is scheduled for October 7-9 at the Tradewinds Hotel and seating is limited so registration]]>
       </description>
-      <guid>https://www.talanei.com/?p=128912</guid>
-      <pubDate>2025-09-05T23:32:50Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128912</guid>
     </item>    <item>
       <title>FY2026 budget hearings begin Sept 10</title>
       <link>https://www.talanei.com/2025/09/05/fy2026-budget-hearings-begin-sept-10/</link>
       <description>
         <![CDATA[The Senate President and House Speaker have sent the Governor a schedule of hearings on the proposed Fiscal Year 2026 budget for ASG and have requested that all department directors be available to testify on their budget]]>
       </description>
-      <guid>https://www.talanei.com/?p=128894</guid>
-      <pubDate>2025-09-05T23:32:46Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128894</guid>
     </item>    <item>
       <title>Please Keep the Lights On in American Samoa</title>
       <link>https://www.talanei.com/2025/09/05/please-keep-the-lights-on-in-american-samoa/</link>
       <description>
         <![CDATA[Dear Editor, My name is Mauola Jedidiah Fasio. I am 10 years old, and I am from the village of Lauliituai. Even though I do not live in American Samoa right now, I visit my grandparents every]]>
       </description>
-      <guid>https://www.talanei.com/?p=128830</guid>
-      <pubDate>2025-09-05T22:32:46Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128830</guid>
     </item>    <item>
       <title>Amata’s message to IGIA focused on economic growth &#38; inclusion in key federal programs</title>
       <link>https://www.talanei.com/2025/09/05/amatas-message-to-igia-focused-on-economic-growth-inclusion-in-key-federal-programs/</link>
       <description>
         <![CDATA[Congresswoman Uifa’atali Amata in her remarks at Thursday&#8217;s meeting of the Interagency Group on Insular Affairs (IGIA) thanked the Trump administration for the April 17 Executive Order reopening fishing in the Pacific Remote Islands Marine National Monument,]]>
       </description>
-      <guid>https://www.talanei.com/?p=128890</guid>
-      <pubDate>2025-09-05T20:26:59Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128890</guid>
     </item>    <item>
       <title>Cultural Bazaar: From Land to Sea to Spirit</title>
       <link>https://www.talanei.com/2025/09/05/cultural-bazaar-from-land-to-sea-to-spirit/</link>
       <description>
         <![CDATA[The American Samoa Visitors Bureau is inviting the community to its upcoming Cultural Bazaar: From Land to Sea to Spirit, set for Monday, September 22nd through Friday, September 26th. Deputy Director of the American Samoa Council on]]>
       </description>
-      <guid>https://www.talanei.com/?p=128886</guid>
-      <pubDate>2025-09-05T20:15:23Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128886</guid>
     </item>    <item>
       <title>Head of State confirms winners of Samoa’s elections</title>
       <link>https://www.talanei.com/2025/09/05/head-of-state-confirms-winners-of-samoas-elections/</link>
       <description>
         <![CDATA[Samoa&#8217;s Head of State, Tuimalealiifano Va’aletoa Sualauvii II, has officially issued the Warrant of Election, confirming the results of the country’s 2025 General Election. Samoa Observer reports the warrant now secures the names of all successful candidates]]>
       </description>
-      <guid>https://www.talanei.com/?p=128881</guid>
-      <pubDate>2025-09-05T19:02:03Z</pubDate>
+      <guid>cid://https://www.talanei.com/?p=128881</guid>
     </item>    <item>
       <title>Rejuvenating Hawai‘i’s Film Industry INSIGHTS ON PBS HAWAI‘I</title>
       <link>https://www.pbshawaii.org/rejuvenating-hawaiis-film-industry-insights-on-pbs-hawaii/</link>
@@ -2034,8 +1848,7 @@
         <![CDATA[<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: tba &#160;</p>
         <p>The post <a href="https://www.pbshawaii.org/rejuvenating-hawaiis-film-industry-insights-on-pbs-hawaii/">Rejuvenating Hawai‘i’s Film Industry &lt;br/&gt;INSIGHTS ON PBS HAWAI‘I</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>]]>
       </description>
-      <guid>https://www.pbshawaii.org/?p=55578</guid>
-      <pubDate>2025-09-05T18:44:04Z</pubDate>
+      <guid>cid://https://www.pbshawaii.org/?p=55578</guid>
     </item>    <item>
       <title>The Sams I know</title>
       <link>https://www.pacificislandtimes.com/post/the-sams-i-know</link>
@@ -2043,8 +1856,7 @@
         <![CDATA[Bridgman, MI—One of my all-time favorite movies is “Casablanca.” I love the story, which has a historical background from World War II, is set in the mysterious city in Morocco and has star performances from Humphrey Bogart and Ingrid Bergman.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_948db5de655749cda4b5171591f334bd~mv2.jpg/v1/fit/w_253,h_307,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68b1a079ca67dfccf7c18457</guid>
-      <pubDate>2025-09-05T14:00:00Z</pubDate>
+      <guid>cid://68b1a079ca67dfccf7c18457</guid>
     </item>    <item>
       <title>Head of State signs and returns Warrant of Election</title>
       <link>https://talamua.com/2025/09/05/head-of-state-signs-and-returns-warrant-of-election/</link>
@@ -2052,8 +1864,7 @@
         <![CDATA[<p>Apia, Samoa – 05 September 2025 &#8211; The Head of State, Tuimalealiifano Vaaletoa Sualauvi 11, signed and returned the Warrant of Election late this afternoon, confirming the appointment of 50 Members of Parliament duly elected in the 29 August general elections. The Warrant of Election was signed and issued under Section 84(2) of the Electoral [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/05/head-of-state-signs-and-returns-warrant-of-election/">Head of State signs and returns Warrant of Election</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=50880</guid>
-      <pubDate>2025-09-05T08:58:09Z</pubDate>
+      <guid>cid://https://talamua.com/?p=50880</guid>
     </item>    <item>
       <title>PNA Summit Focuses on Climate, Conservation and Control of Tuna Resources</title>
       <link>https://islandtimes.org/pna-summit-focuses-on-climate-conservation-and-control-of-tuna-resources/</link>
@@ -2063,8 +1874,7 @@
         <p>FUNAFUTI, Tuvalu — “Our shared path to sustainable development and full control of our tuna fisheries is not just a vision; it is our collective responsibility to future generations,” Tuvalu Prime Minister Feleti Penitala Teo said Wednesday at the opening of the 4th Parties to the Nauru Agreement (PNA) Leaders’ Summit. Teo underscored the need [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/pna-summit-focuses-on-climate-conservation-and-control-of-tuna-resources/">PNA Summit Focuses on Climate, Conservation and Control of Tuna Resources</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79943</guid>
-      <pubDate>2025-09-05T07:11:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79943</guid>
     </item>    <item>
       <title>Palau responds to USPS suspension of Outgoing packages to Hawaii, Mainland U.S.</title>
       <link>https://islandtimes.org/palau-responds-to-usps-suspension-of-outgoing-packages-to-hawaii-mainland-u-s/</link>
@@ -2074,8 +1884,7 @@
         <p>By: Summer Kennard KOROR, Palau — “We ask for patience,” Postmaster General Santy Asanuma said after Palau’s Postal Service confirmed that the United States Postal Service has suspended outgoing packages from Palau to Hawaii and the continental U.S. The suspension, which took effect August 29, does not affect incoming mail to Palau or parcels bound [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/palau-responds-to-usps-suspension-of-outgoing-packages-to-hawaii-mainland-u-s/">Palau responds to USPS suspension of Outgoing packages to Hawaii, Mainland U.S.</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79941</guid>
-      <pubDate>2025-09-05T07:08:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79941</guid>
     </item>    <item>
       <title>Palau’s Digital Residency Program faces test amid U.S. subpoena and scrutiny over transparency</title>
       <link>https://islandtimes.org/palaus-digital-residency-program-faces-test-amid-u-s-subpoena-and-scrutiny-over-transparency/</link>
@@ -2083,8 +1892,7 @@
         <![CDATA[<p>By: Bernadette Carreon KOROR, Palau — Palau’s flagship Digital Residency Program, once promoted as a pioneering step into the digital economy, is now facing one of its toughest tests as international legal challenges collide with growing questions at home about transparency and accountability. The program’s director, Jay Anson, confirmed that the U.S. Attorney’s Office for [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/palaus-digital-residency-program-faces-test-amid-u-s-subpoena-and-scrutiny-over-transparency/">Palau’s Digital Residency Program faces test amid U.S. subpoena and scrutiny over transparency</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79939</guid>
-      <pubDate>2025-09-05T07:08:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79939</guid>
     </item>    <item>
       <title>New cold chain equipment powers safe, accessible vaccines in Palau</title>
       <link>https://islandtimes.org/new-cold-chain-equipment-powers-safe-accessible-vaccines-in-palau/</link>
@@ -2093,8 +1901,7 @@
         <p>Koror, Palau, 4 September 2025 – All communities living across the different areas in Palau, will have equal access to high-quality lifesaving vaccines and immunization outreach services through the support of new cold chain equipment.Handed over to the Ministry of Health and Human Services today by the Government of Japan and UNICEF, this equipment includes [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/new-cold-chain-equipment-powers-safe-accessible-vaccines-in-palau/">New cold chain equipment powers safe, accessible vaccines in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79936</guid>
-      <pubDate>2025-09-05T07:05:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79936</guid>
     </item>    <item>
       <title>Airai State Government and PPUC sign A  50-Year Lease Agreement for new Headquarters</title>
       <link>https://islandtimes.org/airai-state-government-and-ppuc-sign-a-50-year-lease-agreement-for-new-headquarters/</link>
@@ -2103,8 +1910,7 @@
         <p>By: Laurel Marewibuel Airai, Palau — September 3, 2025 — In a landmark development for Airai State, Governor N.H. Ngiratecheboet, alongside key members of the Airai State Public Land Authority (ASPLA) Board of Trustees, has signed a long-term lease agreement with the Palau Public Utilities Corporation (PPUC) to establish a new, consolidated location for PPUC [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/airai-state-government-and-ppuc-sign-a-50-year-lease-agreement-for-new-headquarters/">Airai State Government and PPUC sign A  50-Year Lease Agreement for new Headquarters</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79934</guid>
-      <pubDate>2025-09-05T07:04:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79934</guid>
     </item>    <item>
       <title>Matson announces new leadership promotions to Strengthen Operations</title>
       <link>https://islandtimes.org/matson-announces-new-leadership-promotions-to-strengthen-operations/</link>
@@ -2114,8 +1920,7 @@
         <p>By: Laurel Marewibuel HONOLULU (Aug. 29, 2025) — Matson Inc. has promoted three executives to key leadership roles, a move the U.S. Pacific shipping and logistics company says will enhance its operational capabilities and support long-term growth. Vic Angoco, a 35-year maritime industry veteran, has been named executive vice president of operations. He will oversee [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/matson-announces-new-leadership-promotions-to-strengthen-operations/">Matson announces new leadership promotions to Strengthen Operations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79928</guid>
-      <pubDate>2025-09-05T07:00:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79928</guid>
     </item>    <item>
       <title>Kagoshima Maru brings students together in Palau for Cultural and Maritime Exchange</title>
       <link>https://islandtimes.org/kagoshima-maru-brings-students-together-in-palau-for-cultural-and-maritime-exchange/</link>
@@ -2123,8 +1928,7 @@
         <![CDATA[<p>By: Laurel Marewibuel KOROR, Palau — The Kagoshima Maru, a training ship from Kagoshima University in Japan, arrived at Malakal Sea Port on Sept. 3, carrying 22 second-year students enrolled in the university’s intensive fisheries program. The visit was more than an academic exercise. It became an opportunity for cultural exchange and friendship-building as students [&#8230;]</p>
         <p>The post <a href="https://islandtimes.org/kagoshima-maru-brings-students-together-in-palau-for-cultural-and-maritime-exchange/">Kagoshima Maru brings students together in Palau for Cultural and Maritime Exchange</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>]]>
       </description>
-      <guid>https://islandtimes.org/?p=79925</guid>
-      <pubDate>2025-09-05T06:59:00Z</pubDate>
+      <guid>cid://https://islandtimes.org/?p=79925</guid>
     </item>    <item>
       <title>Guam governor vetoes 2026 budget bill, hopes to sway Republicans to reconsider business privilege tax cut</title>
       <link>https://www.pacificislandtimes.com/post/guam-governor-vetoes-2026-budget-bill</link>
@@ -2132,8 +1936,7 @@
         <![CDATA[escalated Friday following her veto of the $1.36 billion budget act for fiscal 2026, which she said has misguided priorities and is based on an incoherent policy.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_25a60a9c6aa04a05ba971d61149e445d~mv2.png/v1/fit/w_1000,h_684,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68ba781ea18887303bf40a05</guid>
-      <pubDate>2025-09-05T05:55:34Z</pubDate>
+      <guid>cid://68ba781ea18887303bf40a05</guid>
     </item>    <item>
       <title>USP Graduation Highlights Bold Vision for the Pacific</title>
       <link>https://www.usp.ac.fj/news/usp-graduation-highlights-bold-vision-for-the-pacific/</link>
@@ -2141,8 +1944,7 @@
         <![CDATA[<p>The University of the South Pacific (USP) celebrated a transformative milestone during its recent graduation...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/usp-graduation-highlights-bold-vision-for-the-pacific/">USP Graduation Highlights Bold Vision for the Pacific</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52615</guid>
-      <pubDate>2025-09-05T04:37:45Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52615</guid>
     </item>    <item>
       <title>USP Celebrates Graduates of its two-day Graduation Ceremonies</title>
       <link>https://www.usp.ac.fj/news/usp-celebrates-graduates-of-its-two-day-graduation-ceremonies/</link>
@@ -2150,8 +1952,7 @@
         <![CDATA[<p>The University of the South Pacific (USP) concluded its Laucala graduation ceremonies in Suva, Fiji...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/usp-celebrates-graduates-of-its-two-day-graduation-ceremonies/">USP Celebrates Graduates of its two-day Graduation Ceremonies</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52609</guid>
-      <pubDate>2025-09-05T04:33:53Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52609</guid>
     </item>    <item>
       <title>Election Official Result to be Handed Today for Head of State’s Endorsement</title>
       <link>https://talamua.com/2025/09/05/election-official-result-to-be-handed-today-for-head-of-states-endorsement/</link>
@@ -2159,8 +1960,7 @@
         <![CDATA[<p>By Staff Reporters/ Apia, Samoa &#8211; 05 September 2025: The results of the 2025 elections following yesterday’s final count, will be returned to the Head of State, Tuimalealiifano Vaaletoa Sualauvi 11 today for his endorsement. At a press conference this morning, the Electoral Commissioner, Toleafoa Tuiafelolo John Stanley said the final count and the results [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/05/election-official-result-to-be-handed-today-for-head-of-states-endorsement/">Election Official Result to be Handed Today for Head of State’s Endorsement</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=50869</guid>
-      <pubDate>2025-09-05T02:34:12Z</pubDate>
+      <guid>cid://https://talamua.com/?p=50869</guid>
     </item>    <item>
       <title>Rev Professor Upolu Luma Vaai presented distinguished education award</title>
       <link>https://talamua.com/2025/09/05/rev-professor-upolu-luma-vaai-presented-distinguished-education-award/</link>
@@ -2168,8 +1968,7 @@
         <![CDATA[<p>Apia, Samoa &#8211; 05 September 2025 &#8211; At the heart of the National University of Samoa, a distinguished education award was presented to the Manu Folau (Vice Chancellor), Rev Professor Upolu Luma Vaai by the Chair of the Pacific Circle Consortium (PCC), Professor Thanh Truc Nguyen for his invaluable contribution to reimaging and transforming education [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/05/rev-professor-upolu-luma-vaai-presented-distinguished-education-award/">Rev Professor Upolu Luma Vaai presented distinguished education award</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=50861</guid>
-      <pubDate>2025-09-04T23:18:59Z</pubDate>
+      <guid>cid://https://talamua.com/?p=50861</guid>
     </item>    <item>
       <title>House OKs bill extending diplomatic privileges to Pacific Islands Forum</title>
       <link>https://www.pacificislandtimes.com/post/house-oks-bill-extending-diplomatic-privileges-to-pacific-islands-forum</link>
@@ -2177,8 +1976,7 @@
         <![CDATA[Rep. Joaquin Castro, a Democrat from Texas, said the legislation, titled “Providing Appropriate Recognition and Treatment to Enhance Relations Act” or PARTNER Act, is a concrete step to deepen U.S. alliances and keep America at the center of global diplomacy.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_4682191b6ee04229b33c0f93aaf111c0~mv2.jpg/v1/fit/w_1000,h_740,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68ba1c60b8338a1ae1949630</guid>
-      <pubDate>2025-09-04T23:17:35Z</pubDate>
+      <guid>cid://68ba1c60b8338a1ae1949630</guid>
     </item>    <item>
       <title>USP Graduation Marks New Chapter of Transformation and Pacific Leadership</title>
       <link>https://www.usp.ac.fj/news/usp-graduation-marks-new-chapter-of-transformation-and-pacific-leadership/</link>
@@ -2186,8 +1984,7 @@
         <![CDATA[<p>The University of the South Pacific’s (USP) Laucala graduation ceremonies in Suva, Fiji also served...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/usp-graduation-marks-new-chapter-of-transformation-and-pacific-leadership/">USP Graduation Marks New Chapter of Transformation and Pacific Leadership</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52597</guid>
-      <pubDate>2025-09-04T22:25:21Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52597</guid>
     </item>    <item>
       <title>The many faces of Bikini</title>
       <link>https://www.pacificislandtimes.com/post/the-many-faces-of-bikini</link>
@@ -2195,8 +1992,7 @@
         <![CDATA[A visit to Bikini Atoll, for me, has always bordered on the unearthly. There is just something about those islands—once you’ve been there—that makes you feel as if they have permanently become part of who you are.]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_9a22c3fa7ca047a08e5913a25c48f3b9~mv2.jpg/v1/fit/w_364,h_507,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68ba0677cd27dac5339838af</guid>
-      <pubDate>2025-09-04T21:47:55Z</pubDate>
+      <guid>cid://68ba0677cd27dac5339838af</guid>
     </item>    <item>
       <title>PNA: Shape up or ship out</title>
       <link>https://marshallislandsjournal.com/pna-shape-up-or-ship-out/</link>
@@ -2204,8 +2000,7 @@
         <![CDATA[<p>Journal 9/3/1982 P2 Ebb and flowMarshalls second law school graduate, Christopher Loeak, arrived in Majuro this week. He attended Gonzaga University Law School in Spokane, Washington. He plans to take the Hawaii bar exam…Nauru President Hammer deRoburt stopped in Majuro this week. He reported that the permit for the Aqua Bar (at the Eastern Gateway [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/pna-shape-up-or-ship-out/">PNA: Shape up or ship out</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14705</guid>
-      <pubDate>2025-09-04T20:01:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14705</guid>
     </item>    <item>
       <title>Iroojlaplap returns home</title>
       <link>https://marshallislandsjournal.com/iroojlaplap-returns-home/</link>
@@ -2213,8 +2008,7 @@
         <![CDATA[<p>The remains of the late Iroojlaplap and President Christopher Loeak was returned to Majuro, on a charter flight in the afternoon of August 28. His casket was accompanied by family members. They were met at the airport by an honor guard of RMI national policemen who provided an escort to Uliga Church for the state [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/iroojlaplap-returns-home/">Iroojlaplap returns home</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14703</guid>
-      <pubDate>2025-09-04T13:57:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14703</guid>
     </item>    <item>
       <title>Teeth and eyes help</title>
       <link>https://marshallislandsjournal.com/teeth-and-eyes-help/</link>
@@ -2222,8 +2016,7 @@
         <![CDATA[<p>GIFF JOHNSON Canvasback Missions combined eye and dental team provided services to several hundred Ebeye residents during a six-day visit last month. Canvasback’s visit was the first it has made to Ebeye since 2019, prior to Covid and border closures preventing their teams from entering for about three years. Demonstrating high demand and need for [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/teeth-and-eyes-help/">Teeth and eyes help</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14701</guid>
-      <pubDate>2025-09-04T09:51:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14701</guid>
     </item>    <item>
       <title>Enra, END are a ‘go’</title>
       <link>https://marshallislandsjournal.com/enra-end-are-a-go/</link>
@@ -2231,8 +2024,7 @@
         <![CDATA[<p>GIFF JOHNSON After two years of discussion, arguments and debates, two major funding streams under the Compact of Free Association have been approved for distribution later this year. The US-RMI Trust Fund Committee has endorsed releasing $27.7 million for the Individual Support Distribution (otherwise known as the Enra program) and $19.9 million for the Extraordinary [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/enra-end-are-a-go/">Enra, END are a ‘go’</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14699</guid>
-      <pubDate>2025-09-04T03:35:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14699</guid>
     </item>    <item>
       <title>Hundreds graduate at the USP Laucala Campus Graduation</title>
       <link>https://www.usp.ac.fj/news/hundreds-graduate-at-the-usp-laucala-campus-graduation/</link>
@@ -2240,8 +2032,7 @@
         <![CDATA[<p>The University of the South Pacific (USP) celebrated the achievements of hundreds of students from...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/hundreds-graduate-at-the-usp-laucala-campus-graduation/">Hundreds graduate at the USP Laucala Campus Graduation</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52580</guid>
-      <pubDate>2025-09-04T03:34:45Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52580</guid>
     </item>    <item>
       <title>FAST Party secures 30 seats to form a new Government</title>
       <link>https://talamua.com/2025/09/04/fast-secures-30-seats-to-form-a-new-government/</link>
@@ -2249,8 +2040,7 @@
         <![CDATA[<p>By Lagi Keresoma/ Apia, Samoa – 04 September 2025 &#8211; The Fa’atuatua I le Atua Samoa ua Tasi &#8211; FAST has secured 30 seats at the final count this afternoon clearing the way to from a new government. In the election timeline, the official result should be handed over to the Head of State Tuimalealiifano [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/04/fast-secures-30-seats-to-form-a-new-government/">FAST Party secures 30 seats to form a new Government</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=50854</guid>
-      <pubDate>2025-09-04T03:00:37Z</pubDate>
+      <guid>cid://https://talamua.com/?p=50854</guid>
     </item>    <item>
       <title>ELECTION UPDATE: FAST Secures 29 seats to form a Government</title>
       <link>https://talamua.com/2025/09/04/election-update-fast-secures-29-seats-to-form-a-government/</link>
@@ -2258,8 +2048,7 @@
         <![CDATA[<p>Staff Reporters/ Apia, Samoa – 04 September 2025 – With five more constituencies election results being counted today, the Faatuatua ile Atua Samoa ua Tasi Party – FAST has secured 29 seats to form and run a government on its own. Latest results up to 5.00 this morning has FAST with 29 seats, the Opposition [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/04/election-update-fast-secures-29-seats-to-form-a-government/">ELECTION UPDATE: FAST Secures 29 seats to form a Government</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=50815</guid>
-      <pubDate>2025-09-03T23:18:32Z</pubDate>
+      <guid>cid://https://talamua.com/?p=50815</guid>
     </item>    <item>
       <title>Dust off and move forward</title>
       <link>https://marshallislandsjournal.com/dust-off-and-move-forward/</link>
@@ -2267,8 +2056,7 @@
         <![CDATA[<p>GIFF JOHNSON The day after last week Tuesday’s fire consumed Nitijela, parliament staff were already setting up the ICC conference hall as a temporary Nitijela meeting space. Monday this week, the Appropriations Committee, with Chairman Jack Ading at the helm, completed the final series of FY2026 budget hearings from the ICC meeting location. Nitijela staff [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/dust-off-and-move-forward/">Dust off and move forward</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14697</guid>
-      <pubDate>2025-09-03T22:31:19Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14697</guid>
     </item>    <item>
       <title>Court Issue Practice Direction for Electoral Petitions</title>
       <link>https://talamua.com/2025/09/04/court-issue-practice-direction-for-electoral-petitions/</link>
@@ -2276,8 +2064,7 @@
         <![CDATA[<p>Apia, Samoa &#8211; 04 September 2025: The Chief Justice issues this Practice Direction in relation to Electoral Petitions, in accordance with Part 14 of the Electoral Act 2019 (“the Act”), which may arise following the Samoa General Election 2025. It incorporates and refines the Practice Directions issued on 28 April 2021 and 1 July 2021: [&#8230;]</p>
         <p>The post <a href="https://talamua.com/2025/09/04/court-issue-practice-direction-for-electoral-petitions/">Court Issue Practice Direction for Electoral Petitions</a> appeared first on <a href="https://talamua.com">Talamua Online</a>.</p>]]>
       </description>
-      <guid>https://talamua.com/?p=50878</guid>
-      <pubDate>2025-09-03T22:15:54Z</pubDate>
+      <guid>cid://https://talamua.com/?p=50878</guid>
     </item>    <item>
       <title>Who says we have no say?</title>
       <link>https://www.pacificislandtimes.com/post/who-says-we-have-no-say</link>
@@ -2285,8 +2072,7 @@
         <![CDATA[Signs of the Times By Mar-Vic Cagurangan Gov. Leon Guerrero, in a tyrannical fashion, explained what the community could expect after she...]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_237975a19f13453185f2d6bdea97cd95~mv2.jpg/v1/fit/w_752,h_786,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68b75f1de456be9f10709231</guid>
-      <pubDate>2025-09-03T21:13:24Z</pubDate>
+      <guid>cid://68b75f1de456be9f10709231</guid>
     </item>    <item>
       <title>Guam hospital CEO retires this month</title>
       <link>https://www.pacificislandtimes.com/post/guam-hospital-ceo-retiring-this-month</link>
@@ -2294,8 +2080,7 @@
         <![CDATA[By Pacific Island Times News Staff   Guam Memorial Hospital continues its search for a new administrator/chief executive officer to...]]>
       </description>
       <enclosure url="https://static.wixstatic.com/media/b40a18_bb48f23a3d9d4a809949a518c5f0e8b1~mv2.jpg/v1/fit/w_799,h_477,al_c,q_80/file.png" length="0" type="image/png" />
-      <guid>68b8a0e5e3ab00c085e8787e</guid>
-      <pubDate>2025-09-03T20:27:49Z</pubDate>
+      <guid>cid://68b8a0e5e3ab00c085e8787e</guid>
     </item>    <item>
       <title>USP Welcomes Chancellor His Majesty King Tupou VI with Traditional iTaukei Ceremony</title>
       <link>https://www.usp.ac.fj/news/usp-welcomes-chancellor-his-majesty-king-tupou-vi-with-traditional-itaukei-ceremony/</link>
@@ -2303,8 +2088,7 @@
         <![CDATA[<p>The University of the South Pacific (USP) hosted a Traditional iTaukei Welcome Ceremony at the...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/usp-welcomes-chancellor-his-majesty-king-tupou-vi-with-traditional-itaukei-ceremony/">USP Welcomes Chancellor His Majesty King Tupou VI with Traditional iTaukei Ceremony</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52566</guid>
-      <pubDate>2025-09-02T21:31:29Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52566</guid>
     </item>    <item>
       <title>From Loss to Leadership: Amil’s Journey of Resilience at USP</title>
       <link>https://www.usp.ac.fj/news/from-loss-to-leadership-amils-journey-of-resilience-at-usp/</link>
@@ -2312,8 +2096,7 @@
         <![CDATA[<p>When Amil Yadav walked across the stage at The University of the South Pacific’s April...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/from-loss-to-leadership-amils-journey-of-resilience-at-usp/">From Loss to Leadership: Amil’s Journey of Resilience at USP</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52542</guid>
-      <pubDate>2025-09-01T00:00:36Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52542</guid>
     </item>    <item>
       <title>Hawaiian History Month INSIGHTS ON PBS HAWAI‘I</title>
       <link>https://www.pbshawaii.org/hawaiian-history/</link>
@@ -2321,8 +2104,7 @@
         <![CDATA[<p>September 2025 marks Hawaiʻi’s first-ever official Hawaiian History Month.</p>
         <p>The post <a href="https://www.pbshawaii.org/hawaiian-history/">Hawaiian History Month &lt;br/&gt;INSIGHTS ON PBS HAWAI‘I</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>]]>
       </description>
-      <guid>https://www.pbshawaii.org/?p=55504</guid>
-      <pubDate>2025-08-29T18:49:49Z</pubDate>
+      <guid>cid://https://www.pbshawaii.org/?p=55504</guid>
     </item>    <item>
       <title>Support for Nitijela Bill</title>
       <link>https://marshallislandsjournal.com/support-for-nitijela-bill/</link>
@@ -2330,8 +2112,7 @@
         <![CDATA[<p>Journal 8/31/1982 P1 Cat and mouse antics amuse journalistIt’s easy to get to the camps of the Kwajalein landowners occupying their land on the main island of the Kwajalein Missile Range. Just go to the Ebeye dock and hop on the first boat. It’s a comfortable 10-15 minute ride in a typical outboard boat. Bilimon [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/support-for-nitijela-bill/">Support for Nitijela Bill</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14686</guid>
-      <pubDate>2025-08-28T20:22:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14686</guid>
     </item>    <item>
       <title>PII hits the Bikarej beach</title>
       <link>https://marshallislandsjournal.com/pii-hits-the-bikarej-beach/</link>
@@ -2339,8 +2120,7 @@
         <![CDATA[<p>Pacific International Inc. (PII) mobilized for a significant outer island construction project earlier this month. A PII construction crew has set up shop at Bikarej Island in Arno Atoll to begin construction of a long-awaited boat channel project. Bikarej, which sits at the northwest corner of one of the biggest atolls in RMI, is a [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/pii-hits-the-bikarej-beach/">PII hits the Bikarej beach</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14684</guid>
-      <pubDate>2025-08-28T14:18:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14684</guid>
     </item>    <item>
       <title>Nitijela rebuild fast-track</title>
       <link>https://marshallislandsjournal.com/nitijela-rebuild-fast-track/</link>
@@ -2348,8 +2128,7 @@
         <![CDATA[<p>GIFF JOHNSON Tuesday morning, while the fire still burned at Nitijela, the RMI Cabinet held an emergency meeting at the MIMRA headquarters conference room to discuss its response. By mid-afternoon, President Hilda Heine had issued a short statement posted to the President’s Office Facebook page describing the situation and the government’s next steps. President Heine [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/nitijela-rebuild-fast-track/">Nitijela rebuild fast-track</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14682</guid>
-      <pubDate>2025-08-28T09:12:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14682</guid>
     </item>    <item>
       <title>Taiwan provides $7.2m</title>
       <link>https://marshallislandsjournal.com/taiwan-provides-7-2m/</link>
@@ -2357,8 +2136,7 @@
         <![CDATA[<p>Republic of China (Taiwan) Chargé d’Affaires Hank Liu presented a check for $7,240,455 to Foreign Minister Kalani Kaneko on August 22. The funding is Budgetary Support to the RMI government for 2025 under the annual financial assistance from the government Taiwan to the Marshall Islands. At the presentation, Chargé Liu reiterated Taiwan’s longtime commitment to [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/taiwan-provides-7-2m/">Taiwan provides $7.2m</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14680</guid>
-      <pubDate>2025-08-28T03:09:00Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14680</guid>
     </item>    <item>
       <title>First in the Family: William’s Triumph Through Faith and Determination</title>
       <link>https://www.usp.ac.fj/news/first-in-the-family-williams-triumph-through-faith-and-determination/</link>
@@ -2366,8 +2144,7 @@
         <![CDATA[<p>Inspired by her late mother’s encouragement, Matamio Miraleigh Williams has pushed through challenges and is...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/first-in-the-family-williams-triumph-through-faith-and-determination/">First in the Family: William’s Triumph Through Faith and Determination</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52523</guid>
-      <pubDate>2025-08-28T02:56:43Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52523</guid>
     </item>    <item>
       <title>USP and Battery Pollution Technologies Forge Strategic Partnership to Tackle Battery End-of-Life Challenges in the Pacific</title>
       <link>https://www.usp.ac.fj/news/usp-and-battery-pollution-technologies-forge-strategic-partnership-to-tackle-battery-end-of-life-challenges-in-the-pacific/</link>
@@ -2375,8 +2152,7 @@
         <![CDATA[<p>The University of the South Pacific (USP) and Australian start-up Battery Pollution Technologies (BPT) are...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/usp-and-battery-pollution-technologies-forge-strategic-partnership-to-tackle-battery-end-of-life-challenges-in-the-pacific/">USP and Battery Pollution Technologies Forge Strategic Partnership to Tackle Battery End-of-Life Challenges in the Pacific</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52508</guid>
-      <pubDate>2025-08-27T22:47:42Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52508</guid>
     </item>    <item>
       <title>Loeak funeral to start in RMI</title>
       <link>https://marshallislandsjournal.com/loeak-funeral-to-start-in-rmi/</link>
@@ -2384,8 +2160,7 @@
         <![CDATA[<p>Six Marshallese pallbearers carried the casket of Iroojlaplap&#160;Christopher Jorebon Loeak into historic Central Union Church in Honolulu, where a memorial service was held last Saturday for the former President. Hundreds of Marshallese packed the church for the service, including current President Hilda Heine and First Gentleman Tommy Kijiner, Jr. The remains of the late President [&#8230;]</p>
         <p>The post <a href="https://marshallislandsjournal.com/loeak-funeral-to-start-in-rmi/">Loeak funeral to start in RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>]]>
       </description>
-      <guid>https://marshallislandsjournal.com/?p=14674</guid>
-      <pubDate>2025-08-27T21:54:49Z</pubDate>
+      <guid>cid://https://marshallislandsjournal.com/?p=14674</guid>
     </item>    <item>
       <title>Finau’s Mission – Customary Land Security for a Sustainable Tonga</title>
       <link>https://www.usp.ac.fj/news/finaus-mission-customary-land-security-for-a-sustainable-tonga/</link>
@@ -2393,8 +2168,7 @@
         <![CDATA[<p>Holomesi Finau, a doctoral student at The University of the South Pacific (USP), is tackling...</p>
         <p>The post <a href="https://www.usp.ac.fj/news/finaus-mission-customary-land-security-for-a-sustainable-tonga/">Finau’s Mission – Customary Land Security for a Sustainable Tonga</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>]]>
       </description>
-      <guid>https://www.usp.ac.fj/?p=52492</guid>
-      <pubDate>2025-08-26T00:13:40Z</pubDate>
+      <guid>cid://https://www.usp.ac.fj/?p=52492</guid>
     </item>    <item>
       <title>The Arts: Why We Need Them KĀKOU: Hawaiʻi’s Town Hall</title>
       <link>https://www.pbshawaii.org/the-arts-why-we-need-them-kakou-hawai%ca%bbis-town-hall/</link>
@@ -2402,8 +2176,7 @@
         <![CDATA[<p>Studies show arts programs provide measurable value to people and communities.</p>
         <p>The post <a href="https://www.pbshawaii.org/the-arts-why-we-need-them-kakou-hawai%ca%bbis-town-hall/">The Arts: Why We Need Them &lt;br/&gt;KĀKOU: Hawaiʻi’s Town Hall</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>]]>
       </description>
-      <guid>https://www.pbshawaii.org/?p=55406</guid>
-      <pubDate>2025-08-20T18:19:56Z</pubDate>
+      <guid>cid://https://www.pbshawaii.org/?p=55406</guid>
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ check_for_software: .FORCE
 	./check_for_software.bash
 
 harvest: .FORCE
-	antenna harvest 2>harvest.log
+	antenna harvest
 
 website: .FORCE
 	./website.bash

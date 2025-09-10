@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/north_america.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>North America</title>
-    <lastBuildDate>2025-09-10 12:00:58</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -12,8 +14,7 @@
         <![CDATA[<p>A U.S. district court issued a preliminary injunction barring President Donald Trump from ousting Federal Reserve Board Governor Lisa Cook, which means she can stay in her job while she fights her dismissal. The central bank is largely supposed to be insulated from politicians. However, this is unlikely to be the final word on the matter. And later, consumers have choices for many services. Why is that not the case with electricity providers?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4SQ3Y95RK68V3CJ7TYY6D8W" length="3322199" type="audio/mpeg" />
-      <guid>01K4SQ3Y95RK68V3CJ7TYY6D8W</guid>
-      <pubDate>2025-09-10T12:00:00Z</pubDate>
+      <guid>cid://01K4SQ3Y95RK68V3CJ7TYY6D8W</guid>
     </item>    <item>
       <title>Trump lobbies the EU to pressure Moscow</title>
       <link>https://www.marketplace.org/episode/2025/09/10/trump-lobbies-the-eu-to-pressure-moscow</link>
@@ -21,24 +22,21 @@
         <![CDATA[<p><em>From the BBC World Service:</em> President Donald Trump is calling on the European Union to hit China and India — two major buyers of Russian oil — with tariffs of up to 100%. Ursula von der Leyen, president of the European Commission, has been defending her trade agreement with the U.S. at a State of the Union address. Also, protesters in Mexico City have held several demonstrations recently over the growing issue of gentrification.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4SQ1MTFRRNXR159BSH2EP9Q" length="3291345" type="audio/mpeg" />
-      <guid>01K4SQ1MTFRRNXR159BSH2EP9Q</guid>
-      <pubDate>2025-09-10T11:25:00Z</pubDate>
+      <guid>cid://01K4SQ1MTFRRNXR159BSH2EP9Q</guid>
     </item>    <item>
       <title>What the downward revision in jobs numbers indicates about the U.S. economy</title>
       <link>https://www.npr.org/2025/09/10/nx-s1-5535661/what-the-downward-revision-in-jobs-numbers-indicates-about-the-u-s-economy</link>
       <description>
         <![CDATA[What does the sharp downward revision in jobs data suggest about the health of the U.S. economy? NPR speaks with David Wessel, senior fellow at the Brookings Institution.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/10/nx-s1-5535661/what-the-downward-revision-in-jobs-numbers-indicates-about-the-u-s-economy</guid>
-      <pubDate>2025-09-10T09:04:29Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/10/nx-s1-5535661/what-the-downward-revision-in-jobs-numbers-indicates-about-the-u-s-economy</guid>
     </item>    <item>
       <title>Federal judge blocks Trump from firing Fed Governor Lisa Cook, for now</title>
       <link>https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump</link>
       <description>
         <![CDATA[Federal Reserve Governor Lisa Cook won a round in federal court in her bid to keep her job despite President Trump's effort to fire her.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump</guid>
-      <pubDate>2025-09-10T03:29:38Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump</guid>
     </item>    <item>
       <title>The BLS has a $700 million budget. What&#39;s its ROI?</title>
       <link>https://www.marketplace.org/episode/2025/09/09/the-bls-has-a-700-million-budget-whats-its-roi</link>
@@ -46,16 +44,14 @@
         <![CDATA[<p>Budget cuts may be in the Bureau of Labor Statistics' future. But the data collected by the BLS is critical for federal decision making. In this episode, we calculate if the $700 million investment is worthwhile. Plus: Firms that spend the most on AI slash tons of jobs, economic uncertainty drives up the price of gold, and mortgage rates fall — which is good for buyers but a bad sign for the overall economy.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/09/pm_20250909_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4R2BPXRE80SRWBNQQCC0T9Q" length="12664321" type="audio/mpeg" />
-      <guid>01K4R2BPXRE80SRWBNQQCC0T9Q</guid>
-      <pubDate>2025-09-09T22:05:00Z</pubDate>
+      <guid>cid://01K4R2BPXRE80SRWBNQQCC0T9Q</guid>
     </item>    <item>
       <title>Supreme Court agrees to hear challenge to some of Trump&#39;s sweeping tariffs</title>
       <link>https://www.npr.org/2025/09/09/nx-s1-5535813/supreme-court-trump-tariffs</link>
       <description>
         <![CDATA[The tariffs have become a flashpoint, with two lower courts declaring them illegal, and the president asking the Supreme Court for reversal as soon as possible.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/09/nx-s1-5535813/supreme-court-trump-tariffs</guid>
-      <pubDate>2025-09-09T20:47:28Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5535813/supreme-court-trump-tariffs</guid>
     </item>    <item>
       <title>The future of education research in limbo</title>
       <link>https://www.marketplace.org/episode/2025/09/09/the-future-of-education-research-in-limbo</link>
@@ -63,8 +59,7 @@
         <![CDATA[<p>On today’s show, host of APM Reports’ <a href="https://features.apmreports.org/sold-a-story/" class="default">“Sold a Story”</a> podcast Emily Hanford joins Kimberly to make us smarter about the science of reading movement. It’s gained a foothold over the past few years <a href="https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map" class="default">(thanks in part to “Sold a Story”).</a> But the Trump administration’s cuts to the Department of Education could slow the momentum of reading research and the effort to share it with educators.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.apmreports.org/episode/2025/08/21/sold-a-story-e14-the-cuts">"Episode 14: The Cuts"</a> from “Sold a Story”</li><li><a href="https://www.insidehighered.com/news/faculty-issues/research/2025/02/12/900m-institute-education-sciences-contracts-axed">"$900 Million in Institute of Education Sciences Contracts Axed"</a> from Inside Higher Ed</li><li><a href="https://www.apmreports.org/story/2022/11/17/reading-instruction-legislation-state-map">"How legislation on reading instruction is changing across the country"</a> from APM Reports</li><li><a href="https://www.nytimes.com/2024/01/03/us/what-to-know-about-the-science-of-reading.html">"What to Know About the Science of Reading"</a> from The New York Times</li><li><p>Learn some Kimberly Adams trivia <a href="https://www.instagram.com/p/DOZQaPmicEn/" class="default">on Marketplace’s Instagram</a></p><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/09/09/mms_20250909_Make_Me_Smart__128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K4QJGPZ3ZQFRSECJ4MDXYHCZ" length="16453864" type="audio/mpeg" />
-      <guid>01K4QJGPZ3ZQFRSECJ4MDXYHCZ</guid>
-      <pubDate>2025-09-09T15:46:38Z</pubDate>
+      <guid>cid://01K4QJGPZ3ZQFRSECJ4MDXYHCZ</guid>
     </item>    <item>
       <title>Boosted immigration enforcement is reshaping Latin music festivals</title>
       <link>https://www.marketplace.org/episode/2025/09/09/boosted-immigration-enforcement-is-reshaping-latin-music-festivals</link>
@@ -72,16 +67,14 @@
         <![CDATA[<p>Latin music is not only popular — it’s big business. But Latin artists are increasingly having their live performances canceled as the Trump administration’s immigration enforcement efforts increase and as they encounter visa issues. We'll learn about the economic and cultural impacts. Also on the show: New Mexico will become the first state in the union to offer universal child care, and France's prime minister officially resigns as the country grapples with climbing debt.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4QB369SR7R5XGVFBJQ33KP1" length="3259714" type="audio/mpeg" />
-      <guid>01K4QB369SR7R5XGVFBJQ33KP1</guid>
-      <pubDate>2025-09-09T14:37:00Z</pubDate>
+      <guid>cid://01K4QB369SR7R5XGVFBJQ33KP1</guid>
     </item>    <item>
       <title>BLS revision shows annual hiring was overstated by 911,000 jobs</title>
       <link>https://www.npr.org/2025/09/09/nx-s1-5527000/bls-us-job-growth-numbers-revised</link>
       <description>
         <![CDATA[The U.S. likely added 900,000 fewer jobs in the 12 months ending in March than had been reported, according to a preliminary Labor Department report.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/09/nx-s1-5527000/bls-us-job-growth-numbers-revised</guid>
-      <pubDate>2025-09-09T14:25:54Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5527000/bls-us-job-growth-numbers-revised</guid>
     </item>    <item>
       <title>How are you feeling about capitalism?</title>
       <link>https://www.marketplace.org/episode/2025/09/09/how-are-you-feeling-about-capitalism</link>
@@ -89,8 +82,7 @@
         <![CDATA[<p>American enthusiasm for capitalism is slipping, especially among Democrats. That’s the headline from a new Gallup poll out this week. In this latest survey, just 54% of respondents said they view capitalism positively. That’s down from 60% the last time Gallup asked in 2021. We'll hear more. Plus, we'll get fresh reads on consumer and producer prices this week. How much might these affect a rate cut by the Fed?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4Q5JKGG31V1M4V39Y8HQPN5" length="3292941" type="audio/mpeg" />
-      <guid>01K4Q5JKGG31V1M4V39Y8HQPN5</guid>
-      <pubDate>2025-09-09T12:05:00Z</pubDate>
+      <guid>cid://01K4Q5JKGG31V1M4V39Y8HQPN5</guid>
     </item>    <item>
       <title>France&#39;s financial crisis pushes its government to the brink</title>
       <link>https://www.marketplace.org/episode/2025/09/09/frances-financial-crisis-pushes-its-government-to-the-brink</link>
@@ -98,16 +90,14 @@
         <![CDATA[<p><em>From the BBC World Service:</em> France's push to get a grip on its debt problem is expected to result in the ousting of another prime minister, François Bayrou. President Emmanuel Macron must convince European allies and financial markets that he'll get a debt-reducing budget approved by the end of the year. Plus, as gold continues to hit record highs, London's bullion market is preparing to go digital. And the succession battle at Rupert Murdoch’s media empire has ended with his eldest son, Lachlan, securing control.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/09/mmr_20250909_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4Q3WD17SEWHS56TMQTF3SQP" length="3151747" type="audio/mpeg" />
-      <guid>01K4Q3WD17SEWHS56TMQTF3SQP</guid>
-      <pubDate>2025-09-09T11:35:00Z</pubDate>
+      <guid>cid://01K4Q3WD17SEWHS56TMQTF3SQP</guid>
     </item>    <item>
       <title>Here&#39;s what happens when private equity buys homes in your neighborhood</title>
       <link>https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords</link>
       <description>
         <![CDATA[What makes rents go down and neighborhood diversity go up? Corporate landlords. But they also make it harder to own for yourself.]]>
       </description>
-      <guid>https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords</guid>
-      <pubDate>2025-09-09T11:00:00Z</pubDate>
+      <guid>cid://https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords</guid>
     </item>    <item>
       <title>The price of limiting trade with China</title>
       <link>https://www.marketplace.org/episode/2025/09/08/the-price-of-limiting-trade-with-china</link>
@@ -115,8 +105,7 @@
         <![CDATA[<p>China's exports to the U.S. are down a third year over year. That’s a significant drop, reflective of President Trump’s punishing tariff agenda. Although China’s overall export growth has slowed, it still rose 4.5% in August — thanks, in part, to strategic redirection to new markets. In this episode, what the U.S. stands to lose by cutting off China as a trade partner. Plus: Luxury brands remain mostly insulated from economic uncertainty and fintech firm Robinhood prepares to join the S&amp;P 500.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/08/pm_20250908_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4NEB0X2JMDXH9G33VB35V2W" length="12630677" type="audio/mpeg" />
-      <guid>01K4NEB0X2JMDXH9G33VB35V2W</guid>
-      <pubDate>2025-09-08T22:15:00Z</pubDate>
+      <guid>cid://01K4NEB0X2JMDXH9G33VB35V2W</guid>
     </item>    <item>
       <title>Rural program cuts and reminders of the Great Recession</title>
       <link>https://www.marketplace.org/episode/2025/09/08/rural-program-cuts-and-reminders-of-the-great-recession</link>
@@ -124,8 +113,7 @@
         <![CDATA[<p>"Recent cuts to programs like SNAP and Medicaid really make it harder for rural Americans to get by day to day," says journalist Michelle Polizzi, who recently wrote about her experiences with housing insecurity in rural America during the 2008 financial crisis. This morning, she joins Marketplace's David Brancaccio to discuss safety net programs and financial hardship in rural areas. But first: an update on reports that hundreds of South Korean workers detained in a Georgia immigration raid last week will be flown home.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/08/mmr_20250908_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4MSDY13DYYHFB7G95A6ZNF6" length="3453647" type="audio/mpeg" />
-      <guid>01K4MSDY13DYYHFB7G95A6ZNF6</guid>
-      <pubDate>2025-09-08T14:22:00Z</pubDate>
+      <guid>cid://01K4MSDY13DYYHFB7G95A6ZNF6</guid>
     </item>    <item>
       <title>Big wins for businesses that sell lotto tickets</title>
       <link>https://www.marketplace.org/episode/2025/09/08/big-wins-for-businesses-that-sell-lotto-tickets</link>
@@ -133,8 +121,7 @@
         <![CDATA[<p>This weekend’s Powerball jackpot was one of the largest in U.S. history; two lucky players will split the $1.787 billion winnings. But other winners include convenience stores and online lottery retailers, which see a surge in demand around these major jackpots. Also on the show: The U.S. government plans to target more businesses after a raid on a car battery plant construction project in Georgia, and we learn how federal layoffs have affected one family, six months on.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/08/mmr_20250908_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4MJK3VNS709PSCMXKDGS18M" length="3295031" type="audio/mpeg" />
-      <guid>01K4MJK3VNS709PSCMXKDGS18M</guid>
-      <pubDate>2025-09-08T11:45:00Z</pubDate>
+      <guid>cid://01K4MJK3VNS709PSCMXKDGS18M</guid>
     </item>    <item>
       <title>Japan&#39;s prime minister is out, and markets are up</title>
       <link>https://www.marketplace.org/episode/2025/09/08/japans-prime-minister-is-out-and-markets-are-up</link>
@@ -142,24 +129,21 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Markets in Japan have reacted positively to the departure of the country's leader, Shigeru Ishiba, following recent election losses and despite a recent U.S. trade deal. Then, French Prime Minister François Bayrou looks set to lose a confidence vote over drastic budget cuts as the country faces mounting debt. And the United Kingdom is trying to tackle the high price of prisoner reoffending; in England and Wales, nearly a third of prison leavers end up back inside, costing the U.K. government around $24 billion annually.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/08/mmr_20250908_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4MDWZ6RQDM8D7HJHCQC6SKD" length="3420913" type="audio/mpeg" />
-      <guid>01K4MDWZ6RQDM8D7HJHCQC6SKD</guid>
-      <pubDate>2025-09-08T10:35:00Z</pubDate>
+      <guid>cid://01K4MDWZ6RQDM8D7HJHCQC6SKD</guid>
     </item>    <item>
       <title>Why the recent unemployment numbers matter</title>
       <link>https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</link>
       <description>
         <![CDATA[The Labor Department released another disappointing jobs report this past week. A month ago, a government number cruncher got fired for that.  How much faith should be put in the government's economic data?]]>
       </description>
-      <guid>https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</guid>
-      <pubDate>2025-09-07T21:30:08Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</guid>
     </item>    <item>
       <title>What do the latest job numbers indicate? An economics expert weighs in</title>
       <link>https://www.npr.org/2025/09/06/nx-s1-5529278/what-do-the-latest-job-numbers-indicate-an-economics-expert-weighs-in</link>
       <description>
         <![CDATA[NPR's Scott Simon talks to Greg Ip, The Wall Street Journal's chief economics commentator, about the jobs report, tariffs facing legal challenges, and U.S. government investment in private companies.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/06/nx-s1-5529278/what-do-the-latest-job-numbers-indicate-an-economics-expert-weighs-in</guid>
-      <pubDate>2025-09-06T11:47:44Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/06/nx-s1-5529278/what-do-the-latest-job-numbers-indicate-an-economics-expert-weighs-in</guid>
     </item>    <item>
       <title>Jobs report warning signs</title>
       <link>https://www.marketplace.org/episode/2025/09/05/jobs-report-warning-signs</link>
@@ -167,16 +151,14 @@
         <![CDATA[<p>Paltry job creation was the headline item in the latest jobs report. But dig a little deeper, and warning signs show up all over: long-term unemployment, Black unemployment and Hispanic unemployment all rose in August. In this episode, why those stats could be proverbial canaries in the coal mine of the broader labor market. Plus: Industrial warehouse demand is down and a shipworker shortage could thwart Trump’s goal of reviving the commercial shipping industry.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/05/pm_20250905_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4DNN2FTZK44KZ418XF3CDMS" length="12627959" type="audio/mpeg" />
-      <guid>01K4DNN2FTZK44KZ418XF3CDMS</guid>
-      <pubDate>2025-09-05T22:15:00Z</pubDate>
+      <guid>cid://01K4DNN2FTZK44KZ418XF3CDMS</guid>
     </item>    <item>
       <title>August jobs report shows cracks in U.S. labor market</title>
       <link>https://www.npr.org/2025/09/05/nx-s1-5529968/august-jobs-report-shows-cracks-in-u-s-labor-market</link>
       <description>
         <![CDATA[U.S. employers added just 22,000 jobs in August, according to a report from the Labor Department, while revised figures showed a net loss of jobs in June for the first time since 2020.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/05/nx-s1-5529968/august-jobs-report-shows-cracks-in-u-s-labor-market</guid>
-      <pubDate>2025-09-05T14:48:12Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/05/nx-s1-5529968/august-jobs-report-shows-cracks-in-u-s-labor-market</guid>
     </item>    <item>
       <title>When tariff turbulence makes you feel like you&#39;re &#34;kind of losing it&#34;</title>
       <link>https://www.marketplace.org/episode/2025/09/05/when-tariff-turbulence-makes-you-feel-like-youre-kind-of-losing-it</link>
@@ -184,8 +166,7 @@
         <![CDATA[<p>The business journalists at Marketplace have been on the rollercoaster of U.S. trade policy under the Trump administration. But along for the ride, too, are small business owners. Today, we'll hear the latest on where Trump's tariffs stand and learn how the COO of a Queens-based sound effect equipment business is handling the lack of predictability. But first: Just 22,000 jobs were added to the economy in August. How concerned should we be?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/05/mmr_20250905_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4D4DMTEVP1YTMGKW0DR3ST2" length="4131994" type="audio/mpeg" />
-      <guid>01K4D4DMTEVP1YTMGKW0DR3ST2</guid>
-      <pubDate>2025-09-05T14:45:00Z</pubDate>
+      <guid>cid://01K4D4DMTEVP1YTMGKW0DR3ST2</guid>
     </item>    <item>
       <title>Finally, a U.S.-Japan trade deal</title>
       <link>https://www.marketplace.org/episode/2025/09/05/finally-a-us-japan-trade-deal</link>
@@ -193,16 +174,14 @@
         <![CDATA[<p>The U.S. and Japan have finalized their trade deal a month and a half after it was announced. The White House says there will now be a 15% baseline tariff on nearly all Japanese imports and cut tariffs on Japanese cars almost in half. Also on the show: how climate change is showing up in our economy, what to make of a "delicate" and "vulnerable" job market, and which jobs are on the preliminary "no tax on tips" list.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/05/mmr_20250905_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4D2QTTMHDK61AYEQAPPHW16" length="4042133" type="audio/mpeg" />
-      <guid>01K4D2QTTMHDK61AYEQAPPHW16</guid>
-      <pubDate>2025-09-05T14:00:00Z</pubDate>
+      <guid>cid://01K4D2QTTMHDK61AYEQAPPHW16</guid>
     </item>    <item>
       <title>Cracks in the U.S. economy: Job growth slows 75% from a year ago</title>
       <link>https://www.npr.org/2025/09/05/nx-s1-5529937/economy-jobs-trump-bls</link>
       <description>
         <![CDATA[The U.S. job market showed more signs of weakness Friday, as the Labor Department reported just 22,000 jobs added in August. Revised figures show the economy lost jobs in June, for the first time since the pandemic winter of 2020.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/05/nx-s1-5529937/economy-jobs-trump-bls</guid>
-      <pubDate>2025-09-05T12:51:43Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/05/nx-s1-5529937/economy-jobs-trump-bls</guid>
     </item>    <item>
       <title>Chinese businesses to pick up pensions bill</title>
       <link>https://www.marketplace.org/episode/2025/09/05/chinese-businesses-to-pick-up-pensions-bill</link>
@@ -210,32 +189,28 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Up to now, bosses and employees in China have frequently bypassed pension regulations in return for higher wages; from this week, however, the rules are being enforced. We'll hear more. Plus, Jaguar Land Rover's embattled management has told staff to stay at home until Tuesday following a cyberattack. And, with fuel prices in Nigeria quadrupling over the last two years, many farmers are now tapping into the sun’s energy to keep water flowing.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/05/mmr_20250905_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4CSZTCZT3KK2YHHWCG2DQD5" length="3253520" type="audio/mpeg" />
-      <guid>01K4CSZTCZT3KK2YHHWCG2DQD5</guid>
-      <pubDate>2025-09-05T11:35:00Z</pubDate>
+      <guid>cid://01K4CSZTCZT3KK2YHHWCG2DQD5</guid>
     </item>    <item>
       <title>Why the end of the de minimus tariff exemption is causing shipping chaos worldwide</title>
       <link>https://www.npr.org/2025/09/05/nx-s1-5518283/why-the-end-of-the-de-minimus-tariff-exemption-is-causing-shipping-chaos-worldwide</link>
       <description>
         <![CDATA[Planet Money looks at what the de minimis tariff exemption is, who wins and loses with the end of this policy and why ending it has resulting in shipping chaos worldwide.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/05/nx-s1-5518283/why-the-end-of-the-de-minimus-tariff-exemption-is-causing-shipping-chaos-worldwide</guid>
-      <pubDate>2025-09-05T09:11:05Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/05/nx-s1-5518283/why-the-end-of-the-de-minimus-tariff-exemption-is-causing-shipping-chaos-worldwide</guid>
     </item>    <item>
       <title>Have questions about homeownership or renting? NPR wants to know</title>
       <link>https://www.npr.org/2025/09/05/nx-s1-5529253/homeownership-renting-questions</link>
       <description>
         <![CDATA[Your input will help shape a new NPR series on renting, homeownership and everything that comes with it.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/05/nx-s1-5529253/homeownership-renting-questions</guid>
-      <pubDate>2025-09-05T09:00:00Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/05/nx-s1-5529253/homeownership-renting-questions</guid>
     </item>    <item>
       <title>Etsy sellers are being hit hard by tariffs and the end of the de minimis rule</title>
       <link>https://www.npr.org/2025/09/05/nx-s1-5522054/etsy-sellers-de-minimus-canada-tariffs</link>
       <description>
         <![CDATA[For years, the U.S. was essentially "an extension of our domestic market," says an Etsy seller in Canada. But now the rules and costs are far more imposing.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/05/nx-s1-5522054/etsy-sellers-de-minimus-canada-tariffs</guid>
-      <pubDate>2025-09-05T09:00:00Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/05/nx-s1-5522054/etsy-sellers-de-minimus-canada-tariffs</guid>
     </item>    <item>
       <title>What about the regional Feds? What do they do?</title>
       <link>https://www.marketplace.org/episode/2025/09/04/what-about-the-regional-feds-what-do-they-do</link>
@@ -243,16 +218,14 @@
         <![CDATA[<p>The Federal Reserve Board of Governors has gotten a lot of attention lately — President Trump is attempting to remove one member and has nominated another. But there’s more under the central bank umbrella than president-appointed officials. In this episode, we break down why regional Fed banks and Fed presidents matter. Plus: The latest Beige book shows an uptick in lending, shipping costs are down and an economist walks us through her process for reading a CPI report.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/04/pm_20250904_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4AZG79AKF1EF0H1FHYCATNA" length="12602254" type="audio/mpeg" />
-      <guid>01K4AZG79AKF1EF0H1FHYCATNA</guid>
-      <pubDate>2025-09-04T22:15:00Z</pubDate>
+      <guid>cid://01K4AZG79AKF1EF0H1FHYCATNA</guid>
     </item>    <item>
       <title>Senators grill Trump&#39;s nominee for Fed amid alarms over central bank independence</title>
       <link>https://www.npr.org/2025/09/04/nx-s1-5526956/senate-federal-reserve-trump-stephen-miran</link>
       <description>
         <![CDATA[White House economist Stephen Miran was quizzed by senators about whether he could make decisions independently of President Trump, if he's confirmed to a seat on the Federal Reserve's governing board.]]>
       </description>
-      <guid>https://www.npr.org/2025/09/04/nx-s1-5526956/senate-federal-reserve-trump-stephen-miran</guid>
-      <pubDate>2025-09-04T18:03:09Z</pubDate>
+      <guid>cid://https://www.npr.org/2025/09/04/nx-s1-5526956/senate-federal-reserve-trump-stephen-miran</guid>
     </item>    <item>
       <title>Taking the pulse of the job market</title>
       <link>https://www.marketplace.org/episode/2025/09/04/taking-the-pulse-of-the-job-market</link>
@@ -260,8 +233,7 @@
         <![CDATA[<p>Economic data rolling out this week has helped paint a snapshot of the economy. We found out yesterday that 5.3 million people were hired and 5.3 million quit or were laid off in July. Fresh data out this morning revealed that the private sector added only 54,000 jobs last month. Today, we'll discuss this slowing job growth. Plus, an illegal sports streaming site is shut down, and Texas is restricting the ability of certain foreign nationals to own property.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/04/mmr_20250904_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4AK7REJNBJPEC70HG8AKY3C" length="4360618" type="audio/mpeg" />
-      <guid>01K4AK7REJNBJPEC70HG8AKY3C</guid>
-      <pubDate>2025-09-04T15:10:00Z</pubDate>
+      <guid>cid://01K4AK7REJNBJPEC70HG8AKY3C</guid>
     </item>    <item>
       <title>Federal job cuts lead to a black market boom ... for ants</title>
       <link>https://www.marketplace.org/episode/2025/09/04/federal-job-cuts-lead-to-a-black-market-boom-of-ants</link>
@@ -269,8 +241,7 @@
         <![CDATA[<p>There's a black market trade for everything — including ants. (Yes, even ants.) And President Donald Trump has slashed the number of federal government employees, which included entomologists focused on pest control. Today, we'll look at what the illicit ant trade looks like and the sort of environmental and financial costs that can result from invasive species. But first, Trump has his first chance at reshaping the Federal Reserve through the nomination of Stephen Miran.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/04/mmr_20250904_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4A941CVC58R93CRY905KZTF" length="3357098" type="audio/mpeg" />
-      <guid>01K4A941CVC58R93CRY905KZTF</guid>
-      <pubDate>2025-09-04T13:30:00Z</pubDate>
+      <guid>cid://01K4A941CVC58R93CRY905KZTF</guid>
     </item>    <item>
       <title>India cuts taxes for shoppers to counter Trump’s trade war</title>
       <link>https://www.marketplace.org/episode/2025/09/04/india-cuts-taxes-for-shoppers-to-counter-trumps-trade-war</link>
@@ -278,8 +249,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> India's Finance Minister has announced massive tax cuts on hundreds of everyday consumer items. The move is aimed at boosting domestic demand amid 50% American tariffs on Indian exports. Then, a group of English-speaking hackers claims to be behind a massive cyberattack that's halted global production lines at Jaguar Land Rover. And Texas has become the latest U.S. state to impose restrictions on some foreign-born people and businesses buying or renting property.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/04/mmr_20250904_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4A73QTP0DX3Z27274WFX2R2" length="3238265" type="audio/mpeg" />
-      <guid>01K4A73QTP0DX3Z27274WFX2R2</guid>
-      <pubDate>2025-09-04T11:15:00Z</pubDate>
+      <guid>cid://01K4A73QTP0DX3Z27274WFX2R2</guid>
     </item>    <item>
       <title>Slo-mo jobs growth</title>
       <link>https://www.marketplace.org/episode/2025/09/03/slomo-jobs-growth</link>
@@ -287,8 +257,7 @@
         <![CDATA[<p>Job growth has slowed this summer as employers ride out President Trump's economic shakeups. Thanks to uncertain tariffs, funding cuts, and the immigration crackdown, most companies aren’t eager to hire right now. Even the health care sector is showing some cracks. Also in this episode: The number of American homeowners fell for the first time in a decade, economists explain how the U.S. became the economic data gold standard, and revenue from website ads grow more popular among retailers.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/03/pm_20250903_Marketplace_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K48FZSYA6140JHCEZP3KHWQ5" length="12676233" type="audio/mpeg" />
-      <guid>01K48FZSYA6140JHCEZP3KHWQ5</guid>
-      <pubDate>2025-09-03T22:15:00Z</pubDate>
+      <guid>cid://01K48FZSYA6140JHCEZP3KHWQ5</guid>
     </item>    <item>
       <title>From &#34;How We Survive&#34;: ESG, Reincarnated</title>
       <link>https://www.marketplace.org/episode/2025/09/02/from-how-we-survive-esg-reincarnated</link>
@@ -296,8 +265,7 @@
         <![CDATA[<p>Hey Smarties! Today we’re sharing an episode from the latest season of “How We Survive,” Marketplace’s climate solutions podcast. Host Amy Scott and the team have been digging into the rise and fall of environmental, social and governance-based investing, or ESG. <strong><a href="https://www.marketplace.org/episode/2025/04/23/the-evolution-of-esg-investing" class="default">In this episode,</a></strong> ESG comes back to life in new forms of climate-conscious investing.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/how_we_survive_climate/2025/09/03/howwesurviveclimate_20250903_HWS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K45ZYJKFB5DR6D7H5T9WQ26D" length="22014493" type="audio/mpeg" />
-      <guid>01K45ZYJKFB5DR6D7H5T9WQ26D</guid>
-      <pubDate>2025-09-03T17:55:00Z</pubDate>
+      <guid>cid://01K45ZYJKFB5DR6D7H5T9WQ26D</guid>
     </item>    <item>
       <title>Expiring tax credits will increase health insurance costs for millions</title>
       <link>https://www.marketplace.org/episode/2025/09/03/expiring-tax-credits-will-increase-health-insurance-costs-for-millions</link>
@@ -305,8 +273,7 @@
         <![CDATA[<p>The big budget bill that President Donald Trump signed into law in July allowed tax credits under the Affordable Care Act to expire. That means health insurance costs will increase significantly for millions, disproportionately hitting small business owners and self-employed people. We’ll learn about the impacts. Also this morning: Retailers have already shifted focus from back-to-school shopping to holiday sales. Thing is, the outlook doesn't look too rosy this year.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47XRXKNGZ8C03CGVT2V0D19" length="3490427" type="audio/mpeg" />
-      <guid>01K47XRXKNGZ8C03CGVT2V0D19</guid>
-      <pubDate>2025-09-03T14:55:00Z</pubDate>
+      <guid>cid://01K47XRXKNGZ8C03CGVT2V0D19</guid>
     </item>    <item>
       <title>Why is everyone breaking up right now?</title>
       <link>https://www.marketplace.org/episode/2025/09/03/why-is-everyone-breaking-up-right-now</link>
@@ -314,8 +281,7 @@
         <![CDATA[<p>We're talking about companies here, obviously. A decade after Kraft Heinz became one of the world’s biggest food companies, it’s reversing course and is splitting into two. It’s not the only corporation to go this route recently: There’s Warner Bros Discovery, which is separating into two media companies, and Honeywell, which is separating into three. What's behind all this restructuring? Also on the show: renewed interest in IPOs and promised safety improvements from OpenAI.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47MDA35DZTRBQ0EZB9ADBRR" length="3262848" type="audio/mpeg" />
-      <guid>01K47MDA35DZTRBQ0EZB9ADBRR</guid>
-      <pubDate>2025-09-03T11:59:00Z</pubDate>
+      <guid>cid://01K47MDA35DZTRBQ0EZB9ADBRR</guid>
     </item>    <item>
       <title>Cyberattack stalls production at Jaguar Land Rover</title>
       <link>https://www.marketplace.org/episode/2025/09/03/cyberattack-stalls-production-at-jaguar-land-rover</link>
@@ -323,8 +289,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> A cyberattack has caused major production problems at carmaker Jaguar Land Rover. Both of its main factories in the U.K. have been affected, and it comes at a peak sales period. Plus, long-term government borrowing costs continue to climb globally. Then, police in Singapore have ordered Facebook's parent company, Meta, to take measures to prevent scammers from impersonating government officials. And, a greenhouse gas emissions tax in Denmark will result in big changes to the Danish landscape.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47KAD7DTKDANDQ935B2TAAP" length="3298660" type="audio/mpeg" />
-      <guid>01K47KAD7DTKDANDQ935B2TAAP</guid>
-      <pubDate>2025-09-03T11:02:00Z</pubDate>
+      <guid>cid://01K47KAD7DTKDANDQ935B2TAAP</guid>
     </item>    <item>
       <title>Short-term corporate borrowing climbs</title>
       <link>https://www.marketplace.org/episode/2025/09/02/short-term-corporate-borrowing-climbs</link>
@@ -332,8 +297,7 @@
         <![CDATA[<p>“Commercial paper” is a type of short-term debt that’s paid off much faster than a typical corporate bond. It’s kinda like an afternoon snack — perhaps not great for you, but it’ll hold you over until dinner. In this episode, what it means that commercial paper bonds have been ramping up all year. Plus: Iconic millennial-focused brands pivot to Gen Z consumers, the BLS cares if you’ve got free time, and the Trump White House closely monitors U.S. chip manufacturing progress.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/02/pm_20250902_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K45YMN6WNPB0SSS1FQX2R2D3" length="12703819" type="audio/mpeg" />
-      <guid>01K45YMN6WNPB0SSS1FQX2R2D3</guid>
-      <pubDate>2025-09-02T22:30:00Z</pubDate>
+      <guid>cid://01K45YMN6WNPB0SSS1FQX2R2D3</guid>
     </item>    <item>
       <title>From &#34;How We Survive&#34;: The Death of ESG</title>
       <link>https://www.marketplace.org/episode/2025/08/28/how-we-survive-the-death-of-esg</link>
@@ -341,8 +305,7 @@
         <![CDATA[<p>Hey Smarties! Today we’re passing the mic to our friends over at “How We Survive,” Marketplace’s climate solutions podcast. Their latest season digs into the rise and fall of environmental, social and governance-based investing, or ESG. <a href="https://www.marketplace.org/episode/2025/04/16/the-death-of-esg" class="default">In this episode,</a> host Amy Scott and the team dig into how one Texas law spurred a right-wing movement against ESG.  </p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/how_we_survive_climate/2025/09/02/howwesurviveclimate_20250902_HWS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K3S1GZ1Q6Q3AFD6YFZCZ9FJJ" length="32514883" type="audio/mpeg" />
-      <guid>01K3S1GZ1Q6Q3AFD6YFZCZ9FJJ</guid>
-      <pubDate>2025-09-02T17:00:00Z</pubDate>
+      <guid>cid://01K3S1GZ1Q6Q3AFD6YFZCZ9FJJ</guid>
     </item>    <item>
       <title>What role should AI play in therapy?</title>
       <link>https://www.marketplace.org/episode/2025/09/02/what-role-should-ai-play-in-therapy</link>
@@ -350,8 +313,7 @@
         <![CDATA[<p>People are increasingly turning to artificial intelligence for therapy — raising concerns among mental health professionals. Illinois legislators have responded by banning therapists from using AI, other than for administrative tasks. Today, we’ll explore the benefits and pitfalls of generative AI tech that’s used for mental health support. But first, we'll read some market tea leaves with Julia Coronado of MacroPolicy Perspectives.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/02/mmr_20250902_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K45EKZZTFQEW537FBPXACAPN" length="3304853" type="audio/mpeg" />
-      <guid>01K45EKZZTFQEW537FBPXACAPN</guid>
-      <pubDate>2025-09-02T15:00:00Z</pubDate>
+      <guid>cid://01K45EKZZTFQEW537FBPXACAPN</guid>
     </item>    <item>
       <title>Some of Trump&#39;s tariffs in limbo</title>
       <link>https://www.marketplace.org/episode/2025/09/02/some-of-trumps-tariffs-in-limbo</link>
@@ -359,8 +321,7 @@
         <![CDATA[<p>Just before the Labor Day weekend, a federal appeals court struck down many of the Trump administration's tariffs. The decision is on hold until mid-October, giving the White House time to appeal to the Supreme Court. This morning, we'll parse which tariffs are affected and which aren't. Plus, a lack of trade deals is weighing on American farmers, and caps on federal student loan borrowing will go into effect next year.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/02/mmr_20250902_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K454HA4KV2NEY4GJRC0HGSBM" length="3219381" type="audio/mpeg" />
-      <guid>01K454HA4KV2NEY4GJRC0HGSBM</guid>
-      <pubDate>2025-09-02T11:45:00Z</pubDate>
+      <guid>cid://01K454HA4KV2NEY4GJRC0HGSBM</guid>
     </item>    <item>
       <title>Shares at Nestlé fall after its CEO is fired</title>
       <link>https://www.marketplace.org/episode/2025/09/02/shares-at-nestl-fall-after-its-ceo-is-fired</link>
@@ -368,8 +329,7 @@
         <![CDATA[<p><em>From the BBC World Service: </em>Nestlé boss Laurent Freixe left after the company said he failed to disclose a romantic relationship with an employee; his departure threatens more volatility for the company, which has struggled with lower consumer demand and disruptive U.S. tariffs. Then, Kim Jong Un is making a rare trip outside of North Korea, arriving in China as Xi Jinping hosts Vladimir Putin and other leaders. Plus, one Swiss town weighs rebuilding post-avalanche.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/02/mmr_20250902_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4542J7YBAC9XYFAQ2ACNMPE" length="3235757" type="audio/mpeg" />
-      <guid>01K4542J7YBAC9XYFAQ2ACNMPE</guid>
-      <pubDate>2025-09-02T11:15:00Z</pubDate>
+      <guid>cid://01K4542J7YBAC9XYFAQ2ACNMPE</guid>
     </item>    <item>
       <title>No, private data can&#39;t replace the BLS</title>
       <link>https://www.marketplace.org/episode/2025/09/01/why-private-data-cant-replace-the-bls</link>
@@ -377,8 +337,7 @@
         <![CDATA[<p>As the Trump administration strips away federal data collection agencies' funding and pressures statisticians to produce positive reports, we might wonder whether private data can fill in the gaps. Unfortunately, while statistics reported by the private sector have a place in our economic understanding, they're not necessarily comprehensive, transparent, or free. Also in this episode: EVs see record sales ahead of tax credit end date, Chinese AI firms meet at a conference in Shanghai, and regional Feds give tariff uncertainty updates.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/01/pm_20250901_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K4361RA5HTS6DHJCJW0G2MAX" length="12675189" type="audio/mpeg" />
-      <guid>01K4361RA5HTS6DHJCJW0G2MAX</guid>
-      <pubDate>2025-09-01T21:45:00Z</pubDate>
+      <guid>cid://01K4361RA5HTS6DHJCJW0G2MAX</guid>
     </item>    <item>
       <title>From &#34;Million Bazillion&#34;: Why does organic food cost more than non-organic food?</title>
       <link>https://www.marketplace.org/episode/2025/09/01/from-million-bazillion-why-does-organic-food-cost-more-than-nonorganic-food</link>
@@ -386,8 +345,7 @@
         <![CDATA[<p>Hey Smarties! “Make Me Smart” will be back with new episodes Sept. 9. In the meantime, we’re <a href="https://www.marketplace.org/episode/2025/06/05/why-is-organic-food-more-expensive" class="default">sharing an episode</a> from the latest season of “Million Bazillion.” Hosts Bridget and Ryan dive into why organic food tends to cost more than non-organic with the help of Marketplace reporter Stephanie Hughes. Whether you’re a kid or grown-up, if you’re curious about the prices we pay at the grocery store, there’s something in this episode for you.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/million_bazillion/2025/09/01/millionbazillion_20250901_MB_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K3RYX8SCK6F63NMY2D6S964C" length="27726192" type="audio/mpeg" />
-      <guid>01K3RYX8SCK6F63NMY2D6S964C</guid>
-      <pubDate>2025-09-01T17:00:00Z</pubDate>
+      <guid>cid://01K3RYX8SCK6F63NMY2D6S964C</guid>
     </item>    <item>
       <title>Car dealers are walking a tight rope</title>
       <link>https://www.marketplace.org/episode/2025/09/01/car-dealers-are-walking-a-tight-rope</link>
@@ -395,8 +353,7 @@
         <![CDATA[<p>Car dealerships always feel the fluctuations of inflation, gas prices, and interest rates. Now, tariffs are added to the mix, hitting their bottom lines at a time when consumers are wary about the future of the economy. In an industry that already contends with relatively slim margins, we'll hear how car sellers are faring. But first, we'll delve into the Federal Reserve's dilemma: worry more about the job market or price increases?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/01/mmr_20250901_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01JT8S2QAZPBFQSYFA80HW1NC7" length="3477261" type="audio/mpeg" />
-      <guid>01JT8S2QAZPBFQSYFA80HW1NC7</guid>
-      <pubDate>2025-09-01T14:55:00Z</pubDate>
+      <guid>cid://01JT8S2QAZPBFQSYFA80HW1NC7</guid>
     </item>    <item>
       <title>Labor Day ends the summer travel season, right?</title>
       <link>https://www.marketplace.org/episode/2025/08/06/labor-day-ends-the-summer-travel-season-right</link>
@@ -404,8 +361,7 @@
         <![CDATA[<p>Summer travel is usually supposed to be a major time for the tourism industry. But this year, budget-conscious American travelers are adjusting their vacation plans. Consumers are actually taking more trips than initially anticipated, but they're tending to be shorter, less expensive, and later in the summer than usual. Plus, a new justice tech startup is using AI to simplify the criminal record expungement process in Mississippi.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/01/mmr_20250901_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K42H2NZV61JNPHNJ2NGP55X9" length="3471619" type="audio/mpeg" />
-      <guid>01K42H2NZV61JNPHNJ2NGP55X9</guid>
-      <pubDate>2025-09-01T12:00:00Z</pubDate>
+      <guid>cid://01K42H2NZV61JNPHNJ2NGP55X9</guid>
     </item>    <item>
       <title>China pitches itself as the perfect business partner</title>
       <link>https://www.marketplace.org/episode/2025/09/01/china-pitches-itself-as-the-perfect-business-partner</link>
@@ -413,8 +369,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Speaking to world leaders at the Shanghai Cooperation Organization, China’s President Xi Jinping said the country wants to help steady the global economy and has pledged $280 million to support its partners. We learn more. Then, we hear how car dealerships in the U.S. are grappling with new tariff realities. Plus, Norway has agreed to buy five new British warships to boost NATO's presence in the North Atlantic and North Sea.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/01/mmr_20250901_MMR_CAST_1_09.01.2025_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K42GJHMP05BWK0NYS1ZEK597" length="3930404" type="audio/mpeg" />
-      <guid>01K42GJHMP05BWK0NYS1ZEK597</guid>
-      <pubDate>2025-09-01T11:25:00Z</pubDate>
+      <guid>cid://01K42GJHMP05BWK0NYS1ZEK597</guid>
     </item>    <item>
       <title>Sticky inflation, Fed drama and the rise of &#39;cute&#39; debt</title>
       <link>https://www.marketplace.org/episode/2025/08/29/sticky-inflation-fed-drama-and-the-rise-of-cute-debt</link>
@@ -422,8 +377,7 @@
         <![CDATA[<p>Core inflation rose to 2.9% in July, according to the latest PCE data <em>— </em>the Fed's preferred inflation gauge <em>— </em>marking its highest level in months. But despite stubborn inflation and falling consumer confidence, consumer spending continues to climb. Courtenay Brown at Axios and Jordyn Holman at The New York Times join "Marketplace" host Amy Scott to talk about the latest inflation numbers, and the court battle brewing between the White House and the Federal Reserve. Also in this episode: the economics of uncertainty, why job-hopping may no longer lead to bigger paychecks, and how "buy now, pay later" is being rebranded to target women.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/29/pm_20250829_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K3VNH5WBZWQN61TMHSG5WSS5" length="12849056" type="audio/mpeg" />
-      <guid>01K3VNH5WBZWQN61TMHSG5WSS5</guid>
-      <pubDate>2025-08-29T22:00:00Z</pubDate>
+      <guid>cid://01K3VNH5WBZWQN61TMHSG5WSS5</guid>
     </item>    <item>
       <title>Hungary shows what happens when central banks lose independence</title>
       <link>https://www.marketplace.org/episode/2025/08/29/hungary-central-bank-independence</link>
@@ -431,8 +385,7 @@
         <![CDATA[<p>We're continuing to follow President Donald Trump's campaign against U.S. central bank independence. His move to fire Federal Reserve Governor Lisa Cook over unproven allegations of mortgage fraud has now been challenged by a lawsuit from Cook. Fed independence has been a strength of the U.S. financial system, but what happens if that disappears? We turn to Hungary as a case study. Plus, consumers spend on tech, and we discuss the latest inflation reading.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/29/mmr_20250829_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3V4K8WEZVA24CG8PDQQ9SYH" length="3985706" type="audio/mpeg" />
-      <guid>01K3V4K8WEZVA24CG8PDQQ9SYH</guid>
-      <pubDate>2025-08-29T14:57:00Z</pubDate>
+      <guid>cid://01K3V4K8WEZVA24CG8PDQQ9SYH</guid>
     </item>    <item>
       <title>Are we in an AI bubble?</title>
       <link>https://www.marketplace.org/episode/2025/08/29/are-we-in-an-ai-bubble</link>
@@ -440,8 +393,7 @@
         <![CDATA[<p>Much of the movement of the S&amp;P 500 stock index is driven by just seven stocks. Known as the “Magnificent Seven,” they comprise Nvidia, Apple, Microsoft, Amazon, Meta, Alphabet, and Tesla, and are valued at around $20 trillion. Is this a bubble ready to burst? An overvaluation? Or something else entirely? But before we get to that story, we'll learn more about the first court hearing in a case that tests the Federal Reserve's independence.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/29/mmr_20250829_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3TV367932W6V3MNX50S31TW" length="3170893" type="audio/mpeg" />
-      <guid>01K3TV367932W6V3MNX50S31TW</guid>
-      <pubDate>2025-08-29T12:05:00Z</pubDate>
+      <guid>cid://01K3TV367932W6V3MNX50S31TW</guid>
     </item>    <item>
       <title>Goodbye, cheap online shopping</title>
       <link>https://www.marketplace.org/episode/2025/08/29/goodbye-cheap-online-shopping</link>
@@ -449,8 +401,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> The United States has ended a long-running global tax exemption on imports worth $800 or less. It's kept goods purchased online inexpensive for many American shoppers. We'll hear more. Then, the Japanese defense ministry wants to triple spending on drone manufacturing as part of a $60 billion budget request. And, the last newspaper hawker in Paris has been honored with the Order of Merit by French President Emmanuel Macron.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/29/mmr_20250829_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3TRZ62JVY7S6DXYBKW1Q9E0" length="3182255" type="audio/mpeg" />
-      <guid>01K3TRZ62JVY7S6DXYBKW1Q9E0</guid>
-      <pubDate>2025-08-29T11:30:00Z</pubDate>
+      <guid>cid://01K3TRZ62JVY7S6DXYBKW1Q9E0</guid>
     </item>    <item>
       <title>What&#39;s really going on in the Trump economy?</title>
       <link>https://www.marketplace.org/episode/2025/08/28/whats-really-going-on-in-the-trump-economy</link>
@@ -458,8 +409,7 @@
         <![CDATA[<p>The U.S. economy grew faster than expected in the second quarter of the year, with GDP revised up to an annualized 3.3% from April through June. We take a closer look at what's driving those numbers, and check in on how corporate America is faring amid shifting trade policy. Also on the show: the AI data center boom, nuclear power's pop culture moment, and a retired Air Force officer's pivot to interior design.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/28/pm_20250828_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K3S46J0RJ577734904V90MVD" length="12711967" type="audio/mpeg" />
-      <guid>01K3S46J0RJ577734904V90MVD</guid>
-      <pubDate>2025-08-28T22:00:00Z</pubDate>
+      <guid>cid://01K3S46J0RJ577734904V90MVD</guid>
     </item>    <item>
       <title>A pipeline problem for advanced chip-making jobs</title>
       <link>https://www.marketplace.org/episode/2025/08/28/a-pipeline-problem-for-advanced-chipmaking-jobs</link>
@@ -467,8 +417,7 @@
         <![CDATA[<p>Three years ago, then-President Biden signed the CHIPS and Science Act into law, with hopes of giving the U.S. semiconductor industry a boost amid strategic competition with China. Since then, the federal government has been funneling billions into the sector, including STEM education investments. Yet, according to a new study, there’s still a shortage of skilled workers to fill critical chip production jobs. But first, a recent grad reflects on automation in the job-hunting process.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3RM2D462QCZGYVWR9DTE5GQ" length="3105693" type="audio/mpeg" />
-      <guid>01K3RM2D462QCZGYVWR9DTE5GQ</guid>
-      <pubDate>2025-08-28T15:55:00Z</pubDate>
+      <guid>cid://01K3RM2D462QCZGYVWR9DTE5GQ</guid>
     </item>    <item>
       <title>What happens if Trump gets the interest rate he wants?</title>
       <link>https://www.marketplace.org/episode/2025/08/28/what-happens-if-trump-gets-the-interest-rates-he-wants</link>
@@ -476,8 +425,7 @@
         <![CDATA[<p>President Donald Trump has been relentlessly trying to increase control over the Federal Reserve, most recently with his attempt to fire Fed Governor Lisa Cook. The Fed controls the Federal Funds Rate, which is currently at around 4.5%; the president wants it down to 1%. So, what if that happened? We'll outline the ripple effects. Also: Nvidia didn't meet Wall Street’s lofty expectations, and Cracker Barrel’s logo saga shows us the power of upset consumers.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3R6666MQ8D5EN3S3EPZ4QR2" length="3151041" type="audio/mpeg" />
-      <guid>01K3R6666MQ8D5EN3S3EPZ4QR2</guid>
-      <pubDate>2025-08-28T12:45:00Z</pubDate>
+      <guid>cid://01K3R6666MQ8D5EN3S3EPZ4QR2</guid>
     </item>    <item>
       <title>Workers take to the streets in Jakarta</title>
       <link>https://www.marketplace.org/episode/2025/08/28/workers-take-to-the-streets-in-jakarta</link>
@@ -485,8 +433,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Thousands of workers are rallying in Jakarta and 38 other Indonesian provinces to demand higher wages and lower taxes. Plus, BBC data shows cheap goods shipped from China to the United Kingdom more than doubled last year to over $4 billion. And, a Kenyan tech company is encouraging the use of bitcoin in one of Africa’s largest slums in hopes of promoting financial inclusion and boosting the area's economy.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3R5C20V4AB1P65VXTN2W752" length="3144012" type="audio/mpeg" />
-      <guid>01K3R5C20V4AB1P65VXTN2W752</guid>
-      <pubDate>2025-08-28T11:05:00Z</pubDate>
+      <guid>cid://01K3R5C20V4AB1P65VXTN2W752</guid>
     </item>    <item>
       <title>The relationship between consumer mood and spending? It&#39;s complicated</title>
       <link>https://www.marketplace.org/episode/2025/08/27/the-relationship-between-consumer-mood-and-spending-its-complicated</link>
@@ -494,8 +441,7 @@
         <![CDATA[<p>On Tuesday, the Conference Board reported a slight drop in consumer confidence, driven by worries about available jobs and future incomes. But a dip in confidence doesn't always mean people spend less. Also on the show: Where have all the working moms gone? "Marketplace" host Amy Scott talks with Abha Bhattarai from the Washington Post about how women are losing workforce participation gains made during the pandemic. Plus, what ending the 'de minimis' exemption could mean for overseas retailers and online shoppers.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/27/pm_20250827_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K3PKSHSZWNE9N3ZM5N2HZV5A" length="12767763" type="audio/mpeg" />
-      <guid>01K3PKSHSZWNE9N3ZM5N2HZV5A</guid>
-      <pubDate>2025-08-27T22:00:00Z</pubDate>
+      <guid>cid://01K3PKSHSZWNE9N3ZM5N2HZV5A</guid>
     </item>    <item>
       <title>What happens when Trump tries to oust a Fed governor</title>
       <link>https://www.marketplace.org/episode/2025/08/27/what-happens-when-trump-tries-to-oust-a-fed-governor</link>
@@ -503,8 +449,7 @@
         <![CDATA[<p>While Federal Reserve Governor Lisa Cook's lawyer says she will sue to challenge the president's move to fire her, the White House is reportedly getting ready to appoint Cook’s replacement. Today, we'll unpack how this battle is impacting markets as the Trump administration continues to test the limits of its authority. And later, we'll hear about tariff-related anxiety from India, including from a South Indian hub supplying global clothing brands and Mumbai’s diamond workshops.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/27/mmr_20250827_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3P016ANEY9AZCAXCVDDZWY8" length="3239022" type="audio/mpeg" />
-      <guid>01K3P016ANEY9AZCAXCVDDZWY8</guid>
-      <pubDate>2025-08-27T14:57:00Z</pubDate>
+      <guid>cid://01K3P016ANEY9AZCAXCVDDZWY8</guid>
     </item>    <item>
       <title>Small packages, big changes</title>
       <link>https://www.marketplace.org/episode/2025/08/27/small-packages-big-changes</link>
@@ -512,8 +457,7 @@
         <![CDATA[<p>You may have heard that big things come in small packages. Now, tariffs do too. The "de minimis" tariff exemption for purchases less than $800 ends Friday. Parcels will then be subject to the tariff for whatever country from which they’re shipped. Plus, why Nvidia's quarterly results are a big deal and how a less independent Federal Reserve could affect the value of the U.S. dollar.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/27/mmr_20250827_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3NP36HSF29WBW5R1C1F3W0V" length="3303805" type="audio/mpeg" />
-      <guid>01K3NP36HSF29WBW5R1C1F3W0V</guid>
-      <pubDate>2025-08-27T12:00:00Z</pubDate>
+      <guid>cid://01K3NP36HSF29WBW5R1C1F3W0V</guid>
     </item>    <item>
       <title>President Trump&#39;s 50% tariff on India kicks in</title>
       <link>https://www.marketplace.org/episode/2025/08/27/president-trumps-50-tariff-on-india-kicks-in</link>
@@ -521,8 +465,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> It's a tough day for India. Most of its exports to the United States will now face a 50% tariff. It's a major shift between the two countries, which used to be partners, especially in tech and defense. We'll learn about the impacts. Plus, European carmakers are claiming that hitting the EU’s 2035 CO2 emissions targets is no longer realistic. Plus, a K-pop-themed musical has become the most-watched movie on Netflix.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/27/mmr_20250827_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3NNN2H8D47T7W0ZMBWRR69C" length="3199182" type="audio/mpeg" />
-      <guid>01K3NNN2H8D47T7W0ZMBWRR69C</guid>
-      <pubDate>2025-08-27T11:30:00Z</pubDate>
+      <guid>cid://01K3NNN2H8D47T7W0ZMBWRR69C</guid>
     </item>    <item>
       <title>Can the president remove a Fed governor?</title>
       <link>https://www.marketplace.org/episode/2025/08/26/can-the-president-remove-a-fed-governor</link>
@@ -530,8 +473,7 @@
         <![CDATA[<p>Late Monday, President Trump announced plans to remove Lisa Cook from the Federal Reserve Board of Governors over unproven allegations of mortgage fraud. The move is part of his months-long effort to reshape the central bank and pressure it to lower interest rates. But meddling with the Fed's independence could backfire. On today's show, we look at the implications of political interference at the Fed, from the bond market to the U.S. and global economies. Plus, how FEMA's elimination of hazard mitigation programs will affect the country.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/26/pm_20250826_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K3M1S3MMVV8B50KJWKGQKFVG" length="12670379" type="audio/mpeg" />
-      <guid>01K3M1S3MMVV8B50KJWKGQKFVG</guid>
-      <pubDate>2025-08-26T22:00:00Z</pubDate>
+      <guid>cid://01K3M1S3MMVV8B50KJWKGQKFVG</guid>
     </item>    <item>
       <title>Tariffs come for your morning cup of Joe</title>
       <link>https://www.marketplace.org/episode/2025/08/26/tariffs-come-for-your-morning-cup-of-joe</link>
@@ -539,8 +481,7 @@
         <![CDATA[<p>Americans drink some 450 million cups of coffee each day. Coffee beans from Brazil face a 50% U.S. import duty. And while President Donald Trump's tariffs aim to reshore American production and manufacturing, coffee beans can't really be grown around the U.S. We'll hear what sort of trouble's brewing for coffee sellers as a result. But first, we'll break down the attempted firing of one of America's central bankers.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/26/mmr_20250826_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3KDNYW3W8WPAMZDMD8AW4AP" length="3256785" type="audio/mpeg" />
-      <guid>01K3KDNYW3W8WPAMZDMD8AW4AP</guid>
-      <pubDate>2025-08-26T15:00:00Z</pubDate>
+      <guid>cid://01K3KDNYW3W8WPAMZDMD8AW4AP</guid>
     </item>    <item>
       <title>&#34;The president has just made us a higher-risk country&#34;</title>
       <link>https://www.marketplace.org/episode/2025/08/26/the-president-has-just-made-us-a-higherrisk-country</link>
@@ -548,8 +489,7 @@
         <![CDATA[<p>That's the conclusion of Karen Petrou at Federal Financial Analytics after President Donald Trump moved to fire Federal Reserve Governor Lisa Cook last evening. That follows unproven allegations of mortgage fraud. Whether or not the move is legal, it raises additional concerns over the independence of America's central bank and the dollar's role as the global reserve currency. And later: What's the relationship between the Fed's benchmark rate and mortgage rates?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/26/mmr_20250826_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3K4N3A317VJ5AH949B1Z09T" length="3281653" type="audio/mpeg" />
-      <guid>01K3K4N3A317VJ5AH949B1Z09T</guid>
-      <pubDate>2025-08-26T12:15:00Z</pubDate>
+      <guid>cid://01K3K4N3A317VJ5AH949B1Z09T</guid>
     </item>    <item>
       <title>Postal services around the world hit pause on shipments to the U.S.</title>
       <link>https://www.marketplace.org/episode/2025/08/26/postal-services-around-the-world-hit-pause-on-shipments-to-the-us</link>
@@ -557,8 +497,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Japan and Australia are among the latest countries suspending some postal deliveries to the United States. And it's all down to confusion over tariffs. President Donald Trump signed an executive order last month ending the global import tax exemption on small packages worth under $800 entering the U.S. duty-free, a change due to take effect on Friday. Also, Boeing and Korean Air have announced a deal worth $36 billion for over 100 planes.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/26/mmr_20250826_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3K35HP4TD3GN9P5E4V4T12R" length="3319137" type="audio/mpeg" />
-      <guid>01K3K35HP4TD3GN9P5E4V4T12R</guid>
-      <pubDate>2025-08-26T11:40:00Z</pubDate>
+      <guid>cid://01K3K35HP4TD3GN9P5E4V4T12R</guid>
     </item>    <item>
       <title>For every action, something can go sideways</title>
       <link>https://www.marketplace.org/episode/2025/08/25/for-every-action-something-can-go-sideways</link>
@@ -566,8 +505,7 @@
         <![CDATA[<p>President Trump's recent deal with Intel gives the U.S. government a 10% ownership stake in the company. But today, Intel responded with a regulatory filing, outlining all of the ways this deal could go sideways. We take a look at the unintended consequences of governments owning companies. Also on the show: why prices have been slow to rise in response to tariffs and what to expect from the fall retail season.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/25/pm_20250825_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K3HK3QRW8205XKCFF7XP2MMJ" length="12628375" type="audio/mpeg" />
-      <guid>01K3HK3QRW8205XKCFF7XP2MMJ</guid>
-      <pubDate>2025-08-25T21:55:00Z</pubDate>
+      <guid>cid://01K3HK3QRW8205XKCFF7XP2MMJ</guid>
     </item>    <item>
       <title>A bit of a Jackson Hole hangover</title>
       <link>https://www.marketplace.org/episode/2025/08/25/a-bit-of-a-jackson-hole-hangover</link>
@@ -575,8 +513,7 @@
         <![CDATA[<p>After celebratory markets late last week following indications that the Federal Reserve will lower interest rates at its September meeting, this week is starting with a bit of a headache. Markets are eager for a rate cut, but signs of a weaker labor market and uncertainty from tariff and immigration policy are complicating the economic picture. Then, Australia is hoping to ease the rare earths bottleneck after China said it's tightening controls on mining and processing.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/25/mmr_20250825_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3GTR1MBAB5K4CGZ38S1DJFK" length="3384053" type="audio/mpeg" />
-      <guid>01K3GTR1MBAB5K4CGZ38S1DJFK</guid>
-      <pubDate>2025-08-25T14:50:00Z</pubDate>
+      <guid>cid://01K3GTR1MBAB5K4CGZ38S1DJFK</guid>
     </item>    <item>
       <title>A beverage behemoth</title>
       <link>https://www.marketplace.org/episode/2025/08/25/a-beverage-behemoth</link>
@@ -584,8 +521,7 @@
         <![CDATA[<p>Keurig Dr Pepper plans to acquire the coffee and tea company JDE Peet's for about $18 billion. The idea is to shore up Keurig’s coffee business. But the brands coming under one umbrella would be Dr Pepper, 7UP, Canada Dry, Yoo-hoo, A&amp;W, Stumptown, and Maxwell House, to name a few. We'll learn more about the deal. Plus, why the Fed's focus is shifting from inflation to the job market, and how colleges are bracing for a higher ed recession.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/25/mmr_20250825_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3GGMK7EGEQH21C50TVHC58Z" length="3494395" type="audio/mpeg" />
-      <guid>01K3GGMK7EGEQH21C50TVHC58Z</guid>
-      <pubDate>2025-08-25T11:54:00Z</pubDate>
+      <guid>cid://01K3GGMK7EGEQH21C50TVHC58Z</guid>
     </item>    <item>
       <title>Chinese property giant Evergrande delists</title>
       <link>https://www.marketplace.org/episode/2025/08/25/chinese-property-giant-evergrande-delists</link>
@@ -593,8 +529,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Chinese property giant Evergrande's shares have been delisted from the Hong Kong Stock Exchange; it was once China's largest real estate firm but collapsed under a mountain of debt. Today, we'll trace its spectacular rise and fall. Rare earths have been a major sticking point in trade negotiations between China and the United States. China has dominated the rare earths market, but could Australia become a rival?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/25/mmr_20250825_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3GFSKXCGM9KMZYD71C2E6R7" length="3944822" type="audio/mpeg" />
-      <guid>01K3GFSKXCGM9KMZYD71C2E6R7</guid>
-      <pubDate>2025-08-25T11:30:00Z</pubDate>
+      <guid>cid://01K3GFSKXCGM9KMZYD71C2E6R7</guid>
     </item>    <item>
       <title>Special Coverage from &#34;Marketplace&#34;: The Real Costs</title>
       <link>https://www.marketplace.org/episode/2025/08/24/special-coverage-from-marketplace-the-real-costs</link>
@@ -602,8 +537,7 @@
         <![CDATA[<p>These are tumultuous times in the economy. There is inflation, a weakening job market, and uncertainty over tariffs and other federal policies. But the headlines don’t capture the real costs of everything happening right now. In a one-hour, special “Marketplace” broadcast, host Kai Ryssdal explores the way we measure this economy and what’s at stake if those statistics become suspect.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/24/pm_20250824_Real_Costs_Special_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K31TZT36MNBBZMW77WS5C47A" length="24767998" type="audio/mpeg" />
-      <guid>01K31TZT36MNBBZMW77WS5C47A</guid>
-      <pubDate>2025-08-25T01:00:00Z</pubDate>
+      <guid>cid://01K31TZT36MNBBZMW77WS5C47A</guid>
     </item>    <item>
       <title>The Real Costs: Special Coverage from &#34;Marketplace&#34;</title>
       <link>https://www.marketplace.org/episode/2025/08/24/the-real-costs-special-coverage-from-marketplace</link>
@@ -611,8 +545,7 @@
         <![CDATA[<p>These are tumultuous times in the economy. Inflation is still happening, the job market is weakening, and there's uncertainty over tariffs and other federal policies. But the headlines don’t capture the real costs of everything happening right now. Today, Kai Ryssdal is popping into your feed with special coverage and reporting from “Marketplace" to explore the way we measure this economy and what’s at stake if those statistics become suspect.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/08/24/mms_20250824_Real_Costs_Special_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K31VM40GEPYCATW9AKPF3GEK" length="49610981" type="audio/mpeg" />
-      <guid>01K31VM40GEPYCATW9AKPF3GEK</guid>
-      <pubDate>2025-08-25T01:00:00Z</pubDate>
+      <guid>cid://01K31VM40GEPYCATW9AKPF3GEK</guid>
     </item>    <item>
       <title>Economics on Tap: Anime Edition</title>
       <link>https://www.marketplace.org/episode/2025/08/22/economics-on-tap-anime-edition</link>
@@ -620,8 +553,7 @@
         <![CDATA[<p>On the show today, Kimberly joins us from the anime convention AnimeNYC to share more about the economic impact of the anime industry and what cosplayers and business owners are saying about the economy right now. Spoiler alert: Tariffs are top of mind! And, we’ll weigh in on corporate apologies and the spicy food craze during a round of Half Full/Half Empty! Plus, a big thank you to Reema as she wraps up her time on the show.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.marketplace.org/story/2025/08/21/10-anime-series-that-will-teach-you-about-economics">"10 anime series that will teach you about economics"</a> from Marketplace</li><li><a href="https://www.marketplace.org/story/2025/08/19/corporations-switch-from-merit-increases-to-flat-raises">"Here's the corporate strategy behind switching from merit increases to flat raises"</a> from Marketplace</li><li><a href="https://www.axios.com/2025/08/21/ceo-apology-backlash">"The era of the public apology is ending"</a> from Axios</li><li><a href="https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles">"Amazon now sells used Hertz rental cars"</a> from The Verge</li><li><a href="https://www.marketplace.org/story/2025/08/21/why-are-spicy-snacks-so-trendy-right-now">"How spicy became the hottest flavor in town"</a> from Marketplace</li><li><p><a href="https://cloud.connect.americanpublicmedia.org/marketplace-cfw19-01-money-relationships?utm_campaign=CFW_uncomfortable&amp;utm_medium=podcast&amp;utm_source=callout">"Money and Relationships"</a> e-book from Marketplace</p><br/><p>“Make Me Smart” will be back Sept. 9. Until then, leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p></li></ul>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/08/22/mms_20250822_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K3A0BM0F18FE2Y2Y4XB5E1DC" length="25917293" type="audio/mpeg" />
-      <guid>01K3A0BM0F18FE2Y2Y4XB5E1DC</guid>
-      <pubDate>2025-08-22T23:03:27Z</pubDate>
+      <guid>cid://01K3A0BM0F18FE2Y2Y4XB5E1DC</guid>
     </item>    <item>
       <title>Chili&#39;s is back (baby back, baby back)</title>
       <link>https://www.marketplace.org/episode/2025/08/22/chilis-is-back-baby-back-baby-back</link>
@@ -629,8 +561,7 @@
         <![CDATA[<p>Brinker International, which owns casual dining chain Chili’s, just beat 50-year sales and revenue records. In this fickle economic moment, how’d they do it? The answer involves viral fried mozzarella and the power of young consumers. Also in this episode: Jay Powell hints at rate cuts, AI data centers increase electricity costs for everyone, and automakers swear updated tech, not tariffs, drove up prices.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/22/pm_20250822_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K399BY9M20PYQKR3J39GBTW8" length="12709668" type="audio/mpeg" />
-      <guid>01K399BY9M20PYQKR3J39GBTW8</guid>
-      <pubDate>2025-08-22T21:55:00Z</pubDate>
+      <guid>cid://01K399BY9M20PYQKR3J39GBTW8</guid>
     </item>    <item>
       <title>A turnaround for manufacturing — can it last?</title>
       <link>https://www.marketplace.org/episode/2025/08/22/a-turnaround-for-manufacturing-can-it-last</link>
@@ -638,8 +569,7 @@
         <![CDATA[<p>We learned yesterday that business activity in the U.S. picked up in August, led by a big advance in the manufacturing sector. Manufacturing had been in a slump, but recorded its strongest growth in orders in 18 months. Is it the start of a bigger trend or just a blip? Then, Evergrande — once one of China's biggest property developers — is having its shares delisted from Hong Kong's stock exchange. Its ruinous downfall has threatened to weigh down the world's second-largest economy.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/22/mmr_20250822_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3940AVDKY1JKANMN3QF4QP1" length="3180925" type="audio/mpeg" />
-      <guid>01K3940AVDKY1JKANMN3QF4QP1</guid>
-      <pubDate>2025-08-22T14:55:00Z</pubDate>
+      <guid>cid://01K3940AVDKY1JKANMN3QF4QP1</guid>
     </item>    <item>
       <title>What&#39;s in a framework?</title>
       <link>https://www.marketplace.org/episode/2025/08/22/whats-in-a-framework</link>
@@ -647,8 +577,7 @@
         <![CDATA[<p>The fashion world has the Met Gala. The movies have the Oscars. Central banking has an annual gathering in Jackson Hole, Wyoming. Fed Chair Jerome Powell will deliver a speech, where economists will be listening for clues on interest rates. But there’s another pressing issue looming over Powell’s speech: a new five-year framework for the Fed's interest rate strategy. We have an explainer. Plus, there's new evidence that first-time homebuyers remain undeterred.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/22/mmr_20250822_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K38TNMG2KJ33XK8NAR3G2DP6" length="3108200" type="audio/mpeg" />
-      <guid>01K38TNMG2KJ33XK8NAR3G2DP6</guid>
-      <pubDate>2025-08-22T12:15:00Z</pubDate>
+      <guid>cid://01K38TNMG2KJ33XK8NAR3G2DP6</guid>
     </item>    <item>
       <title>Trump tones down tariffs on European imports</title>
       <link>https://www.marketplace.org/episode/2025/08/22/trump-tones-down-tariffs-on-european-imports</link>
@@ -656,8 +585,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> A trade agreement between the United States and the European Union means that U.S. tariffs on imported European goods will be significantly lower than previously thought. The U.S. will cap tariffs on European cars, pharmaceuticals, and semiconductors at 15%. That's a huge decrease from prior threats of levies as high as 250%. Plus, it's the Edinburgh Festival Fringe in Scotland, showcasing drama, comedy, and music. The tourism provides an economic boost, but also makes things pricier. How are folks there dealing?</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/22/mmr_20250822_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K38SSE6D86Z2ZBTV6D0P7T4V" length="3246830" type="audio/mpeg" />
-      <guid>01K38SSE6D86Z2ZBTV6D0P7T4V</guid>
-      <pubDate>2025-08-22T11:30:00Z</pubDate>
+      <guid>cid://01K38SSE6D86Z2ZBTV6D0P7T4V</guid>
     </item>    <item>
       <title>WWJPD?</title>
       <link>https://www.marketplace.org/episode/2025/08/19/wwjpd</link>
@@ -665,8 +593,7 @@
         <![CDATA[<p>Rising unemployment claims will be on Fed Chair Jay Powell's mind when he addresses the Jackson Hole Economic Symposium on Friday, and as he contemplates an interest rate decision in September. But he’s also got stable prices amid tariff uncertainty to worry about. So, we wonder: What Will Jay Powell Do? Later in this episode: Visual AI tools trail behind language-based models, popular spicy snacks could be a symptom of rising food costs, and Indigenous artists tell us how tariffs factor into their business.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/21/pm_20250821_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K375K4AVZWMW3806316ABBG9" length="12607267" type="audio/mpeg" />
-      <guid>01K375K4AVZWMW3806316ABBG9</guid>
-      <pubDate>2025-08-21T22:35:00Z</pubDate>
+      <guid>cid://01K375K4AVZWMW3806316ABBG9</guid>
     </item>    <item>
       <title>What to know about changing COVID vaccine guidelines</title>
       <link>https://www.marketplace.org/episode/2025/08/21/what-to-know-about-changing-covid-vaccine-guidelines</link>
@@ -674,8 +601,7 @@
         <![CDATA[<p>COVID-19 cases are <a href="https://www.nytimes.com/2025/08/20/well/why-covid-is-spreading-again-this-summer.html">on the rise</a> again, and the federal guidelines for who should get vaccinated are in flux. We’ll unpack how it could impact what insurers are willing to cover this fall. And, as President Trump’s federal takeover of Washington D.C. continues, why is the city so quiet? Kimberly shares her take as a local. Plus, The Onion is proving that print publications can still thrive in the digital age.</p><br/><p>Here’s everything we talked about today:</p><br/><ul><li><a href="https://www.politico.com/news/magazine/2025/08/21/donald-trump-washington-dc-police-protests-00516629">"Why Washington Residents Aren’t Flooding the Streets to Protest Trump"</a> from Politico  </li><li><a href="https://apnews.com/article/donald-trump-washington-dc-police-a776f0764ef5528ec976604648f08c3f">"Top White House officials turn to public appearances with troops as a tense Washington watches"</a> from AP News</li><li><a href="https://www.theguardian.com/us-news/2025/aug/20/jd-vance-heckled-washington-dc">"JD Vance booed during hamburger handout to national guard troops in DC"</a> from The Guardian </li><li><a href="https://fortune.com/2025/08/19/trump-police-takeover-dc-restaurant-reservations-dining/">"Trump's police takeover of DC has a surprising casualty: restaurant reservations"</a> from Fortune</li><li><a href="https://www.thecut.com/article/when-will-new-covid-vaccine-2025-be-available-fall.html">"Will I Be Able to Get the New 2025 COVID Vaccine This Fall?"</a> from The Cut </li><li><a href="https://www.nbcnews.com/health/health-news/-fall-covid-shots-may-come-copays-no-coverage-rcna226160">"For some, fall Covid shots may come with copays — or no coverage at all"</a> from NBC News</li><li><a href="https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c?mod=Searchresults_pos1&amp;page=1">"The Onion Brought Back Its Print Edition. The Gamble Is Paying Off."</a> from The Wall Street Journal</li></ul><br/><br/><p>Don’t miss Kimberly’s anime recommendations in this week’s Marketplace newsletter. Sign up at <strong><a href="https://www.marketplace.org/newsletters?utm_campaign=fy25_marketplace_newsletter&amp;utm_medium=radio&amp;utm_source=callout" class="interallink">marketplace.org/subscribe.</a></strong></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/08/21/mms_20250821_Make_Me_Smart_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K36ZE0RFTZ85W2PRXE6SWN3A" length="15674443" type="audio/mpeg" />
-      <guid>01K36ZE0RFTZ85W2PRXE6SWN3A</guid>
-      <pubDate>2025-08-21T18:49:34Z</pubDate>
+      <guid>cid://01K36ZE0RFTZ85W2PRXE6SWN3A</guid>
     </item>    <item>
       <title>Trump continues attacks on Fed leadership</title>
       <link>https://www.marketplace.org/episode/2025/08/21/more-drama-between-trump-and-fed-officials</link>
@@ -683,8 +609,7 @@
         <![CDATA[<p>President Donald Trump recently demanded that Federal Reserve Governor Lisa Cook resign after she was accused of mortgage fraud. In a statement, Cook said she has no intention of being "bullied to step down" and that she's "gathering the accurate information to answer any legitimate questions." We'll hear more. Plus, a weakening labor market sets the backdrop for the Fed's annual Jackson Hole conference, and Microsoft's AI chief voices concerns about "AI psychosis."</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/21/mmr_20250821_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K36JFZ71EWHW4E0SBXQ3HPCZ" length="3284997" type="audio/mpeg" />
-      <guid>01K36JFZ71EWHW4E0SBXQ3HPCZ</guid>
-      <pubDate>2025-08-21T15:11:00Z</pubDate>
+      <guid>cid://01K36JFZ71EWHW4E0SBXQ3HPCZ</guid>
     </item>    <item>
       <title>Rent inflation has made the Fed&#39;s job tricky</title>
       <link>https://www.marketplace.org/episode/2025/08/21/rent-inflation-has-made-the-feds-job-trickier</link>
@@ -692,8 +617,7 @@
         <![CDATA[<p>Federal Reserve Chair Jerome Powell is set to speak tomorrow in Jackson Hole, and we'll be watching for hints about the future of interest rates. But one tricky part of the inflation equation? Rent. Higher interest rates have kept many would-be homebuyers in the rental market, which boosted overall demand and pushed rents higher. Then, just how stable are stablecoins? We'll provide an update on the state of play in the crypto market.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/21/mmr_20250821_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K367AG5MPKFWSDRTJDCXM7W2" length="3312582" type="audio/mpeg" />
-      <guid>01K367AG5MPKFWSDRTJDCXM7W2</guid>
-      <pubDate>2025-08-21T12:00:00Z</pubDate>
+      <guid>cid://01K367AG5MPKFWSDRTJDCXM7W2</guid>
     </item>    <item>
       <title>American gamers to feel the effects of Trump&#39;s tariffs</title>
       <link>https://www.marketplace.org/episode/2025/08/21/american-gamers-to-feel-the-effects-of-trumps-tariffs</link>
@@ -701,8 +625,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> The impact of U.S. tariffs is already starting to hit consumers' pocketbooks. Imports from Japan to the United States have been subject to a 15% tariff for three weeks, and now Japanese electronics company Sony is bumping the price of its PlayStation 5 consoles by $50 — but only in the U.S. Also on today's show: concerns over AI psychosis and scrutiny over French mineral water.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/21/mmr_20250821_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K366E1AT3TE8M6K66T58E4GZ" length="3157387" type="audio/mpeg" />
-      <guid>01K366E1AT3TE8M6K66T58E4GZ</guid>
-      <pubDate>2025-08-21T11:25:00Z</pubDate>
+      <guid>cid://01K366E1AT3TE8M6K66T58E4GZ</guid>
     </item>    <item>
       <title>Consumers embrace their inner Maxxinista</title>
       <link>https://www.marketplace.org/episode/2025/08/20/consumers-embrace-their-inner-maxxinista</link>
@@ -710,8 +633,7 @@
         <![CDATA[<p>A consumer vibes indicator, in the form of two Q2 earnings reports: TJX (which owns TJ Maxx, HomeGoods, and Marshalls) raised its outlook for the remainder of the year after beating expectations. Over the same period, Target reported declining same-store sales. In this episode, today’s consumers are choosing off-price bargain hunting over a big-box staple. Plus: Retailers sneak in price hikes, SPACs make a return, and the labor market’s got some regional variation.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/20/pm_20250820_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K34E5RCADHR9D2CD1Y3A4WTW" length="12672678" type="audio/mpeg" />
-      <guid>01K34E5RCADHR9D2CD1Y3A4WTW</guid>
-      <pubDate>2025-08-20T22:20:00Z</pubDate>
+      <guid>cid://01K34E5RCADHR9D2CD1Y3A4WTW</guid>
     </item>    <item>
       <title>Trump turns up the heat on the Fed</title>
       <link>https://www.marketplace.org/episode/2025/08/20/trump-turns-up-the-heat-on-the-fed</link>
@@ -719,8 +641,7 @@
         <![CDATA[<p>Ahead of the central bank’s big meeting in Jackson Hole this week, President Trump is ramping up pressure on the Federal Reserve, calling for Fed governor Lisa Cook to resign over accusations of fraud. We’ll get into it. And, SpaceX got a win in federal court that could have lasting effects on the power of the National Labor Relations Board. Plus, what makes a good life?</p><br/><ul><li><a href="https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/">"Appeals court says NLRB structure unconstitutional, in a win for SpaceX"</a> from Tech Crunch</li><li><a href="https://www.404media.co/the-government-just-made-it-harder-for-the-public-to-comment-on-regulations/">"The Government Just Made it Harder for The Public to Comment on Regulations"</a> from 404 Media</li><li><a href="https://www.nytimes.com/2025/08/19/us/politics/trump-smithsonian-slavery.html">"Trump Says Smithsonian Focuses Too Much on ‘How Bad Slavery Was’"</a> from The New York Times</li><li><a href="https://www.wsj.com/politics/policy/fed-lisa-cook-trump-244c22c2?gaa_at=eafs&amp;gaa_n=ASWzDAhF4R3i66liZ7OrZfpjHX1KdzD97sd-v0JOdWiihzeQ44OXgffXUNR-xAnqdI8%3D&amp;gaa_ts=68a5f6ee&amp;gaa_sig=4LDI92g0Fu2lp6V1W6jSemJz9lbir_olTJmDh_DcQ4JxZz_Cl3qUUciZp3Xn09M5jF0t9MerD8TUTLvomeDGmQ%3D%3D">"Trump Considers Firing Fed Official After Accusation of Mortgage Fraud"</a> from The Wall Street Journal</li><li><a href="https://www.washingtonpost.com/wellness/2025/08/20/how-to-live-good-life/">"There’s a path to a good life beyond happiness and meaning"</a> from The Washington Post </li></ul><br/><br/><p>We love hearing from you. Leave us a voicemail at 508-U-B-SMART or email makemesmart@marketplace.org.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/make_me_smart/2025/08/20/mms_20250820_MMS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K347PDSQQNRXWZFB2P5V4DHT" length="23165108" type="audio/mpeg" />
-      <guid>01K347PDSQQNRXWZFB2P5V4DHT</guid>
-      <pubDate>2025-08-20T17:16:15Z</pubDate>
+      <guid>cid://01K347PDSQQNRXWZFB2P5V4DHT</guid>
     </item>    <item>
       <title>The view of tariffs from the Santa Fe Indian Market</title>
       <link>https://www.marketplace.org/episode/2025/08/20/the-view-of-tariffs-from-the-santa-fe-indian-market</link>
@@ -728,8 +649,7 @@
         <![CDATA[<p>The prestigious Santa Fe Indian Market draws over 1,000 Indigenous artists from more than 200 tribal nations each year, including First Nations, Inuit, and Métis artists from Canada. But this year, economic policies from the Trump administration have complicated things for those traveling from north of the border. We'll chat with a few artists. Also on the show: India and China will restart direct flights, and mortgage rates dip, but not enough to boost demand.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/20/mmr_20250820_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K33ZFH52CZ1DZ3R4CB62YEKZ" length="3217915" type="audio/mpeg" />
-      <guid>01K33ZFH52CZ1DZ3R4CB62YEKZ</guid>
-      <pubDate>2025-08-20T15:05:00Z</pubDate>
+      <guid>cid://01K33ZFH52CZ1DZ3R4CB62YEKZ</guid>
     </item>    <item>
       <title>More intel on that potential government Intel deal</title>
       <link>https://www.marketplace.org/episode/2025/08/20/more-intel-on-that-potential-government-intel-deal</link>
@@ -737,8 +657,7 @@
         <![CDATA[<p>Commerce Secretary Howard Lutnick has confirmed that the Trump administration is considering taking a stake in the struggling U.S. chipmaker Intel. The arrangement would be unusual but not unprecedented. And Intel was already getting a federal grant under the CHIPS and Science Act, approved during the Biden administration. Also on the show: a dispatch from the annual World AI Conference in Shanghai and a look at the pluses and minuses of retailers using third-party vendors.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/20/mmr_20250820_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K33P7W3M52BNVYFN2K3DG4RE" length="3363156" type="audio/mpeg" />
-      <guid>01K33P7W3M52BNVYFN2K3DG4RE</guid>
-      <pubDate>2025-08-20T12:05:00Z</pubDate>
+      <guid>cid://01K33P7W3M52BNVYFN2K3DG4RE</guid>
     </item>    <item>
       <title>It&#39;s game on in Cologne, Germany</title>
       <link>https://www.marketplace.org/episode/2025/08/20/its-game-on-in-cologne-germany</link>
@@ -746,8 +665,7 @@
         <![CDATA[<p><em>From the BBC World Service:</em> Hundreds of thousands of avid video gaming fans are gathering in Cologne for Gamescom 2025, the world’s largest annual video game event. It comes at a time when the industry is struggling with studio layoffs, increased competition in a crowded market, and rising costs. Plus, a centuries-old church in Sweden has begun a slow-motion journey to make way for the expansion of the world's deepest iron ore mine.</p>]]>
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/20/mmr_20250820_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K33KB7F8QEED4PPN7DJM18GC" length="3252890" type="audio/mpeg" />
-      <guid>01K33KB7F8QEED4PPN7DJM18GC</guid>
-      <pubDate>2025-08-20T11:25:00Z</pubDate>
+      <guid>cid://01K33KB7F8QEED4PPN7DJM18GC</guid>
     </item>
   </channel>
 </rss>

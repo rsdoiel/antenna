@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<atom:link href="https://rsdoiel.github.io/antenna/small_papers.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Small Papers</title>
-    <lastBuildDate>2025-09-10 12:01:00</lastBuildDate>
+    <link>https://rsdoiel.github.io/antenna/small_papers.xml</link>
+    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -13,8 +15,7 @@
         <p>High school students will be allowed to use personal devices outside instructional periods, but grades eight and below must power them off for the whole day.</p>
         <p>The post <a href="https://lbpost.com/news/education/long-beach-unified-cell-phone-ban-new-rules">Long Beach Unified will ban cell phone use in classrooms; campuses start rolling out rules</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177771</guid>
-      <pubDate>2025-09-09T21:54:35Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177771</guid>
     </item>    <item>
       <title>Greece names Long Beach as home base for 2028 Olympics</title>
       <link>https://lbpost.com/news/greece-names-long-beach-as-home-base-for-2028-olympics</link>
@@ -23,8 +24,7 @@
         <p>The team house will be at the Assumption of the Blessed Virgin Mary Greek Orthodox Church in Long Beach.</p>
         <p>The post <a href="https://lbpost.com/news/greece-names-long-beach-as-home-base-for-2028-olympics">Greece names Long Beach as home base for 2028 Olympics</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177738</guid>
-      <pubDate>2025-09-09T19:23:50Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177738</guid>
     </item>    <item>
       <title>Dozens of shipping containers spill from docked vessel at Port of Long Beach</title>
       <link>https://lbpost.com/news/dozens-of-shipping-containers-spill-from-docked-vessel-at-port-of-long-beach</link>
@@ -33,8 +33,7 @@
         <p>Crews were trying to pull bent and dented cargo out of the water as other containers leaned precariously.</p>
         <p>The post <a href="https://lbpost.com/news/dozens-of-shipping-containers-spill-from-docked-vessel-at-port-of-long-beach">Dozens of shipping containers spill from docked vessel at Port of Long Beach</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177743</guid>
-      <pubDate>2025-09-09T18:34:22Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177743</guid>
     </item>    <item>
       <title>‘Something can be done about this’: New plan aims to stop sex abuse in California schools</title>
       <link>https://lbpost.com/news/education/something-can-be-done-about-this-new-plan-aims-to-stop-sex-abuse-in-california-schools</link>
@@ -43,8 +42,7 @@
         <p>A new bill would give officials more tools to identify and combat sexual abuse and educate students to better identify the most common signs of grooming behavior.</p>
         <p>The post <a href="https://lbpost.com/news/education/something-can-be-done-about-this-new-plan-aims-to-stop-sex-abuse-in-california-schools">‘Something can be done about this’: New plan aims to stop sex abuse in California schools</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177658</guid>
-      <pubDate>2025-09-09T12:09:00Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177658</guid>
     </item>    <item>
       <title>Mourners gather at vigil for 3-year-old boy fatally struck by car on Artesia Boulevard</title>
       <link>https://lbpost.com/news/3-year-old-killed-artesia-vigil-noah-hernandez-perez</link>
@@ -53,8 +51,7 @@
         <p>One friend wrote that 3-year-old Noah needed a "final goodbye" so that he can "rest in peace like the little angel he is.”</p>
         <p>The post <a href="https://lbpost.com/news/3-year-old-killed-artesia-vigil-noah-hernandez-perez">Mourners gather at vigil for 3-year-old boy fatally struck by car on Artesia Boulevard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177730</guid>
-      <pubDate>2025-09-09T04:00:55Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177730</guid>
     </item>    <item>
       <title>Fire chars garage, second-story structure in Wrigley neighborhood</title>
       <link>https://lbpost.com/news/fire-chars-garage-second-story-structure-in-wrigley-neighborhood</link>
@@ -63,8 +60,7 @@
         <p>The building appeared to be under construction and the flames quickly spread, sending up a large plume of smoke. </p>
         <p>The post <a href="https://lbpost.com/news/fire-chars-garage-second-story-structure-in-wrigley-neighborhood">Fire chars garage, second-story structure in Wrigley neighborhood</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177712</guid>
-      <pubDate>2025-09-08T21:49:27Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177712</guid>
     </item>    <item>
       <title>California sues LA County sheriff over ‘inhumane’ jail conditions</title>
       <link>https://lbpost.com/news/california-sues-la-county-sheriff-over-inhumane-jail-conditions</link>
@@ -73,8 +69,7 @@
         <p>California Attorney General Rob Bonta said those conditions include rat and roach infestations, feces smeared on walls, and a lack of access to health care.</p>
         <p>The post <a href="https://lbpost.com/news/california-sues-la-county-sheriff-over-inhumane-jail-conditions">California sues LA County sheriff over ‘inhumane’ jail conditions</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177685</guid>
-      <pubDate>2025-09-08T19:30:59Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177685</guid>
     </item>    <item>
       <title>Firefighters douse another blaze at boarded-up Jergins Tunnel under Ocean Boulevard</title>
       <link>https://lbpost.com/news/firefighters-douse-another-blaze-at-boarded-up-jergins-tunnel-under-ocean-boulevard</link>
@@ -83,8 +78,7 @@
         <p>Firefighters had to pry off plywood to douse debris burning inside the long-closed tunnel, an LBFD spokesperson said.</p>
         <p>The post <a href="https://lbpost.com/news/firefighters-douse-another-blaze-at-boarded-up-jergins-tunnel-under-ocean-boulevard">Firefighters douse another blaze at boarded-up Jergins Tunnel under Ocean Boulevard</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177674</guid>
-      <pubDate>2025-09-08T18:10:25Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177674</guid>
     </item>    <item>
       <title>West Coast Demonstrators Demand Boycott of Chevron Gas Stations</title>
       <link>https://sanfernandosun.com/2025/09/08/west-coast-demonstrators-demand-boycott-of-chevron-gas-stations/</link>
@@ -93,8 +87,7 @@
         <p>In a coordinated action to call for consumers to boycott all Chevron gas stations until the company cuts ties with Israel, demonstrators held banners and signs and waved the Palestinian [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/08/west-coast-demonstrators-demand-boycott-of-chevron-gas-stations/">West Coast Demonstrators Demand Boycott of Chevron Gas Stations</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170338</guid>
-      <pubDate>2025-09-08T17:52:24Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170338</guid>
     </item>    <item>
       <title>Supreme Court Lifts Limits on LA-Area Immigration Raids</title>
       <link>https://sanfernandosun.com/2025/09/08/supreme-court-lifts-limits-on-la-area-immigration-raids/</link>
@@ -103,8 +96,7 @@
         <p>LOS ANGELES (CNS) &#8211; The U.S. Supreme Court today handed the Trump administration a win and lifted restrictions barring federal agents from making immigration arrests resulting from &#8220;roving patrols&#8221; that [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/08/supreme-court-lifts-limits-on-la-area-immigration-raids/">Supreme Court Lifts Limits on LA-Area Immigration Raids</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170336</guid>
-      <pubDate>2025-09-08T17:45:04Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170336</guid>
     </item>    <item>
       <title>Supreme Court allows immigration agents to resume ‘roving patrols’ in LA, siding with Trump</title>
       <link>https://lbpost.com/news/immigration/immigration-raids-supreme-court-la-roving-patrols</link>
@@ -113,8 +105,7 @@
         <p>The U.S. Supreme Court lifted limits on immigration sweeps in Southern California, overturning a lower court ruling that prohibited agents from stopping people based on their appearance.</p>
         <p>The post <a href="https://lbpost.com/news/immigration/immigration-raids-supreme-court-la-roving-patrols">Supreme Court allows immigration agents to resume ‘roving patrols’ in LA, siding with Trump</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177667</guid>
-      <pubDate>2025-09-08T17:19:28Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177667</guid>
     </item>    <item>
       <title>Toddler struck, killed by car when he runs into street, Long Beach police say</title>
       <link>https://lbpost.com/news/crime/toddler-struck-killed-by-car-when-he-runs-into-street-long-beach-police-say</link>
@@ -123,8 +114,7 @@
         <p>The vehicle was going westbound on Artesia Boulevard when it struck the child, who had run into the street, police said.</p>
         <p>The post <a href="https://lbpost.com/news/crime/toddler-struck-killed-by-car-when-he-runs-into-street-long-beach-police-say">Toddler struck, killed by car when he runs into street, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177652</guid>
-      <pubDate>2025-09-07T20:50:49Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177652</guid>
     </item>    <item>
       <title>A first look at Silverado Park’s brand new playground</title>
       <link>https://lbpost.com/news/place/a-first-look-at-silverado-parks-brand-new-playground</link>
@@ -133,8 +123,7 @@
         <p>The revamped $2.45 million project is finally set to open.</p>
         <p>The post <a href="https://lbpost.com/news/place/a-first-look-at-silverado-parks-brand-new-playground">A first look at Silverado Park&#8217;s brand new playground</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177620</guid>
-      <pubDate>2025-09-07T12:00:00Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177620</guid>
     </item>    <item>
       <title>Glendale Police Arrest Suspects in $60,000 Wedding Theft</title>
       <link>https://sanfernandosun.com/2025/09/06/glendale-police-arrest-suspects-in-60000-wedding-theft/</link>
@@ -142,8 +131,7 @@
         <![CDATA[<p>GLENDALE, Calif. – Glendale police have arrested two suspects in connection with a grand theft that occurred last week during a wedding reception at the Renaissance Banquet Hall, 1236 S. [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/06/glendale-police-arrest-suspects-in-60000-wedding-theft/">Glendale Police Arrest Suspects in $60,000 Wedding Theft</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170330</guid>
-      <pubDate>2025-09-06T16:10:51Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170330</guid>
     </item>    <item>
       <title>Record Box — a Long Beach store fueled by one man’s passion for vinyl — is closing</title>
       <link>https://lbpost.com/news/record-box-store-vinyl-closing</link>
@@ -152,8 +140,7 @@
         <p>“I’ve been operating at a loss for some time, and I’ve been hoping for the climate to change, and it hasn’t, and I’ve exhausted all of my resources to keep it going at the moment,” owner Jose Jurado said.</p>
         <p>The post <a href="https://lbpost.com/news/record-box-store-vinyl-closing">Record Box — a Long Beach store fueled by one man&#8217;s passion for vinyl — is closing</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>]]>
       </description>
-      <guid>https://lbpost.com/news/?p=177639</guid>
-      <pubDate>2025-09-06T12:00:00Z</pubDate>
+      <guid>cid://https://lbpost.com/news/?p=177639</guid>
     </item>    <item>
       <title>Newsom Says Trump’s Military Deployment in LA Cost $120M</title>
       <link>https://sanfernandosun.com/2025/09/04/newsom-says-trumps-military-deployment-in-la-cost-120m/</link>
@@ -162,8 +149,7 @@
         <p>LOS ANGELES (CNS) &#8211; Taxpayers will cover the $120 million bill for President Donald Trump&#8217;s illegal move to federalize the National Guard and put the U.S. Marines on the streets [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/04/newsom-says-trumps-military-deployment-in-la-cost-120m/">Newsom Says Trump&#8217;s Military Deployment in LA Cost $120M</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170321</guid>
-      <pubDate>2025-09-04T22:49:09Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170321</guid>
     </item>    <item>
       <title>Opiniones Divergentes sobre el Futuro de la Ciudad de San Fernando tras su 114º Aniversario</title>
       <link>https://sanfernandosun.com/2025/09/03/opiniones-divergentes-sobre-el-futuro-de-la-ciudad-de-san-fernando-tras-su-114o-aniversario/</link>
@@ -172,8 +158,7 @@
         <p>Como la “Primera Ciudad del Valle”, la Ciudad de San Fernando tiene una historia larga y rica. Surgiendo de las actividades ganaderas que rodeaban la Misión San Fernando Rey de [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/03/opiniones-divergentes-sobre-el-futuro-de-la-ciudad-de-san-fernando-tras-su-114o-aniversario/">Opiniones Divergentes sobre el Futuro de la Ciudad de San Fernando tras su 114º Aniversario</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170299</guid>
-      <pubDate>2025-09-04T02:20:39Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170299</guid>
     </item>    <item>
       <title>Es Tu Último Año de Preparatoria y ¿Piensas en una Carrera en el Transporte? La Pasantía TCAP de Metro Podría ser Ideal para Ti</title>
       <link>https://sanfernandosun.com/2025/09/03/es-tu-ultimo-ano-de-preparatoria-y-piensas-en-una-carrera-en-el-transporte-la-pasantia-tcap-de-metro-podria-ser-ideal-para-ti/</link>
@@ -182,8 +167,7 @@
         <p>Por Mey Lyn Mitteen “Cuando les dije a mis amigos que iba a hacer una pasantía en Metro, pensaron que me la iba a pasar a bordo de autobuses y [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/03/es-tu-ultimo-ano-de-preparatoria-y-piensas-en-una-carrera-en-el-transporte-la-pasantia-tcap-de-metro-podria-ser-ideal-para-ti/">Es Tu Último Año de Preparatoria y ¿Piensas en una Carrera en el Transporte? La Pasantía TCAP de Metro Podría ser Ideal para Ti</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170296</guid>
-      <pubDate>2025-09-04T02:17:44Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170296</guid>
     </item>    <item>
       <title>Horóscopo</title>
       <link>https://sanfernandosun.com/2025/09/03/horoscopo-230/</link>
@@ -191,8 +175,7 @@
         <![CDATA[<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) &#160; Cada parte de tu vida afecta a todas las demás. ¿Puedes compartimentar? Claro, si te hace sentir [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/03/horoscopo-230/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170294</guid>
-      <pubDate>2025-09-04T02:15:20Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170294</guid>
     </item>    <item>
       <title>EVENTOS Locales – Semana de 4 de septiembre, 2025</title>
       <link>https://sanfernandosun.com/2025/09/03/eventos-locales-semana-de-4-de-septiembre-2025/</link>
@@ -200,8 +183,7 @@
         <![CDATA[<p>Viernes, Septiembre 5 Encuentro y Saludo y firma de Libros con el Autor, Raegan Revord Annabelle&#8217;s Book Club LA 12200 Ventura Blvd. Sherman Oaks 6:30 p.m. – 8:30 p.m. Únase [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/03/eventos-locales-semana-de-4-de-septiembre-2025/">EVENTOS Locales &#8211; Semana de 4 de septiembre, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170292</guid>
-      <pubDate>2025-09-04T02:10:08Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170292</guid>
     </item>    <item>
       <title>El Programa de Subvenciones Earthquake Brace + Bolt Abre Nuevamente para Solicitudes de 2025</title>
       <link>https://sanfernandosun.com/2025/09/03/el-programa-de-subvenciones-earthquake-brace-bolt-abre-nuevamente-para-solicitudes-de-2025/</link>
@@ -209,8 +191,7 @@
         <![CDATA[<p>El Programa de Mitigación Residencial de California (CRMP) anunció el 20 de agosto su segundo período de registro para subvenciones Earthquake Brace + Bolt (EBB) para 2025, que se extenderá [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/03/el-programa-de-subvenciones-earthquake-brace-bolt-abre-nuevamente-para-solicitudes-de-2025/">El Programa de Subvenciones Earthquake Brace + Bolt Abre Nuevamente para Solicitudes de 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170290</guid>
-      <pubDate>2025-09-04T02:08:25Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170290</guid>
     </item>    <item>
       <title>Lección de Hoy: Mantén a Tus Hijos Seguros Ahora Que Vuelven a la Escuela</title>
       <link>https://sanfernandosun.com/2025/09/03/leccion-de-hoy-manten-a-tus-hijos-seguros-ahora-que-vuelven-a-la-escuela/</link>
@@ -218,24 +199,21 @@
         <![CDATA[<p>El regreso a clases ya está en marcha, y el Sistema de Control de Envenenamientos de California (CPCS) ofrece consejos de seguridad para ayudar a los padres a garantizar que [&#8230;]</p>
         <p>The post <a href="https://sanfernandosun.com/2025/09/03/leccion-de-hoy-manten-a-tus-hijos-seguros-ahora-que-vuelven-a-la-escuela/">Lección de Hoy: Mantén a Tus Hijos Seguros Ahora Que Vuelven a la Escuela </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>]]>
       </description>
-      <guid>https://sanfernandosun.com/?p=170288</guid>
-      <pubDate>2025-09-04T02:07:25Z</pubDate>
+      <guid>cid://https://sanfernandosun.com/?p=170288</guid>
     </item>    <item>
       <title>Bowen Ranch: A Century in the Desert</title>
       <link>https://desertgazette.com/blog/bowen-ranch-a-century-in-the-desert/</link>
       <description>
         <![CDATA[The Bowen family came to Juniper Flats in the early 1920s, one of the last waves of homesteaders to try their hand at life on the high desert. They built their ranch on a dry, windswept slope above Deep Creek, and before long, the wagon track that reached their gate bore their name — Bowen &#8230; <a href="https://desertgazette.com/blog/bowen-ranch-a-century-in-the-desert/" class="more-link">Continue reading<span class="screen-reader-text"> "Bowen Ranch: A Century in the Desert"</span></a>]]>
       </description>
-      <guid>https://desertgazette.com/blog/?p=13515</guid>
-      <pubDate>2025-08-23T23:34:08Z</pubDate>
+      <guid>cid://https://desertgazette.com/blog/?p=13515</guid>
     </item>    <item>
       <title>Contrasts</title>
       <link>https://desertgazette.com/blog/contrasts/</link>
       <description>
         <![CDATA[Comparing things &#8211; Semantics, Arithmetic expressions SemanticsSemantics is the study of meaning. In language, it deals with how words, symbols, and sentences connect to concepts or truth. In computer science, semantics describes what a program or expression does rather than just how it looks (its syntax). Example: Reverse Polish Notation (RPN)RPN, also called postfix notation, &#8230; <a href="https://desertgazette.com/blog/contrasts/" class="more-link">Continue reading<span class="screen-reader-text"> "Contrasts"</span></a>]]>
       </description>
-      <guid>https://desertgazette.com/blog/?p=13513</guid>
-      <pubDate>2025-08-22T10:56:33Z</pubDate>
+      <guid>cid://https://desertgazette.com/blog/?p=13513</guid>
     </item>
   </channel>
 </rss>
