@@ -31,7 +31,7 @@ topContent: |
   <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
 
 footer: |
-  Antenna is a personal aggregation of items found around the web.
-  Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>,
+  Antenna is a personal aggregation of items found around the web.<br>
+  Curated with <a href="https://rsdoiel.github.io/antennaApp">antennaApp</a>
   and <a href="https://pandoc.org">Pandoc</a>.
 
