@@ -1,8 +1,7 @@
 ---
 title: antenna
 abstract: "Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
-It is built using the Tools provided
-by [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
+It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
 and either Bash or PowerShell."
 authors:
   - family_name: Doiel
@@ -49,8 +48,7 @@ Now curated with antennaApp v0.0.2 and Pandoc 3.1.
 
 
 Antenna is a proof of concept demonstrationn of a personal news aggregation. Antenna is a Link Blog.
-It is built using the Tools provided
-by [Skimmer](https://github.com/rsdoiel/skimmer), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
+It is built using [antennaApp](https://github.com/rsdoiel/antennaApp), [SQLite3](https://sqlite.org), [Pandoc](https://pandoc.org)
 and either Bash or PowerShell.
 
 - License: <https://www.gnu.org/licenses/agpl-3.0.txt>

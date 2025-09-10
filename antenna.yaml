@@ -115,7 +115,6 @@ collections:
         - UPDATE items SET status = 'published' WHERE pubDate >= date('now', '-21 days');
       dbName: snapshots.db
     - title: socal_north.md
-      link: socal_north.xml
       file: socal_north.md
       link: https://rsdoiel.github.io/antenna/socal_north.xml
       generator: front_page.yaml
