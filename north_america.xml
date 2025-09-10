@@ -4,10 +4,18 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>10 Sep 25 14:14 -0700</lastBuildDate>
+    <lastBuildDate>10 Sep 25 14:23 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mexico City residents are fed up with gentrification</title>
+      <link>https://www.marketplace.org/episode/2025/09/10/mexico-city-residents-are-fed-up-with-gentrification</link>
+      <description>
+        <![CDATA[<p>Wealthier foreigners are driving up rental prices and driving out long-term residents in Mexico City. There have been demonstrations there this summer, with some protesters damaging shops and restaurants that cater to tourists. In the popular neighborhood of La Condesa, activists say that as many as one in five homes is now for shorter-term rentals. We'll hear how residents are feeling and learn how the government is responding. But first: good news on wholesale inflation.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4T0RF5Y227DVTTC3RJDJ7RN" length="4236902" type="audio/mpeg" />
+      <guid>cid://01K4T0RF5Y227DVTTC3RJDJ7RN</guid>
+    </item>    <item>
       <title>Lisa Cook can stay on at the Fed — for now</title>
       <link>https://www.marketplace.org/episode/2025/09/10/lisa-cook-can-stay-on-at-the-fed-for-now</link>
       <description>
@@ -34,7 +42,7 @@
       <title>Federal judge blocks Trump from firing Fed Governor Lisa Cook, for now</title>
       <link>https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump</link>
       <description>
-        <![CDATA[Federal Reserve Governor Lisa Cook won a round in federal court in her bid to keep her job despite President Trump's effort to fire her.]]>
+        <![CDATA[Federal Reserve Governor Lisa Cook won a round in federal court in her bid to keep her job despite President Trump's effort to fire her.  On Wednesday, the Justice Department said Trump would appeal.]]>
       </description>
       <guid>cid://https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump</guid>
     </item>    <item>
