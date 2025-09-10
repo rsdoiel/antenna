@@ -4,7 +4,7 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>10 Sep 25 14:23 -0700</lastBuildDate>
+    <lastBuildDate>10 Sep 25 16:07 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -79,12 +79,12 @@
         <p>One of the first publications to include an NWO Grant ID is a paper by <a href="https://doi.org/10.1103/PhysRevX.15.021080" target="_blank">Weile et al.</a>, published by the American Physical Society (APS) in the journal Physical Review X. On the left, we see the funding information provided by the authors, as included in the acknowledgement section of the published article. Funding by NWO from its Talent Scheme VIDI is identified with a Grant ID <a href="https://doi.org/10.61686/YDRHT18202" target="_blank">https://doi.org/10.61686/YDRHT18202</a>.</p>
         <div class='shortcode-row '>
         <div class="col-md-6 col-sm-12 no-first-para-highlight"><div style="text-align:center;margin:10px">
-        <figure><img src="https://www.crossref.org/images/blog/2025/acknowledgement-blog.png" width="100%">
+        <figure><img src="https://www.crossref.org/images/blog/2025/jk.png" width="100%">
         </figure>
         </div>
         </div>
         <div class="col-md-6 col-sm-12 no-first-para-highlight"><div style="text-align:center;margin:10px">
-        <figure><img src="https://www.crossref.org/images/blog/2025/api-code-blog.png" width="100%">
+        <figure><img src="https://www.crossref.org/images/blog/2025/18202.png" width="100%">
         </figure>
         </div>
         </div>
@@ -95,17 +95,29 @@
         <p>Let’s demonstrate that in an example. On the left, we see the acknowledgements section of a paper by <a href="https://www.doi.org/10.1002/smll.202502496" target="_blank">Van Zundert et al</a>. in the journal Small, published by Wiley. The authors acknowledge a host of funding organizations and grants, including NWO with Grant ID <a href="https://doi.org/10.61686/LVZRW92421" target="_blank">https://doi.org/10.61686/LVZRW92421</a>. On the right, we see that the publisher has correctly included NWO <a href="https://api.crossref.org/works/https://doi.org/10.1002/smll.202502496" target="_blank">in the metadata</a> as the funder with our Funder ID, but there’s no reference to our Grant ID, instead mentioning an award number, which seems to refer to a Marie Sklodowska-Curie grant for the same research with their internal award identifier.</p>
         <div class='shortcode-row '>
         <div class="col-md-6 col-sm-12 no-first-para-highlight"><div style="text-align:center;margin:10px">
-        <figure><img src="https://www.crossref.org/images/blog/2025/acknowledgement-blog-2.png" width="100%">
+        <figure><img src="https://www.crossref.org/images/blog/2025/ivz.png" width="100%">
         </figure>
         </div>
         </div>
         <div class="col-md-6 col-sm-12 no-first-para-highlight"><div style="text-align:center;margin:10px">
-        <figure><img src="https://www.crossref.org/images/blog/2025/api-code-blog2.png" width="100%">
+        <figure><img src="https://www.crossref.org/images/blog/2025/api-code-blog.png" width="100%">
         </figure>
         </div>
         </div>
         </div>
         <p>Likewise, a publication by <a href="https://www.doi.org/10.1016/j.plrev.2025.07.003" target="_blank">Criscuolo et al</a> in Physics of Life Reviews (a journal published by Elsevier) correctly identified NWO using our Funder ID, but omitted our Grant ID <a href="https://api.crossref.org/works/https://www.doi.org/10.1016/j.plrev.2025.07.003" target="_blank">in the metadata</a>, despite its clear inclusion by the author in the acknowledgements (left). Apparently, this persistent link and open metadata is being thrown out of the infrastructure at a crucial time, when the article record could be connecting up with the grant record and making it easy and open for us all to track and report on the connection.</p>
+        <div class='shortcode-row '>
+        <div class="col-md-6 col-sm-12 no-first-para-highlight"><div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2025/acknowledgement-blog-2.png" width="100%">
+        </figure>
+        </div>
+        </div>
+        <div class="col-md-6 col-sm-12 no-first-para-highlight"><div style="text-align:center;margin:10px">
+        <figure><img src="https://www.crossref.org/images/blog/2025/api-funder.png" width="100%">
+        </figure>
+        </div>
+        </div>
+        </div>
         <p>Several publishers do not seem to register funding data at all, despite the opportunity existing for almost 15 years, and sometimes even when comprehensive funding information is provided by authors.</p>
         <h2 id="the-broader-implications">The broader implications</h2>
         <p>It has <a href="https://doi.org/10.1162/qss_a_00210" target="_blank">been known for some time</a> that publishers struggle with registering complete, high-quality funding metadata for their publications. They sometimes <a href="https://doi.org/10.64000/3f63f-yt393" target="_blank">blame authors</a> for not providing the required information or making errors in reporting their funding. Or they call on funders to identify their funding more precisely by introducing persistent Grant IDs for their grants. While these are legitimate issues, and it’s true that more funders could also do this, the examples presented here suggest this narrative is incomplete—when authors provide clear, standardized funding information using persistent identifiers, many publishers still fail to capture it accurately.</p>

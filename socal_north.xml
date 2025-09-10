@@ -4,11 +4,39 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>10 Sep 25 14:24 -0700</lastBuildDate>
+    <lastBuildDate>10 Sep 25 16:07 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Trump says right-wing activist Charlie Kirk has died after shooting</title>
+      <title>LA28 Olympic diving moves to the Rose Bowl in a bid to save millions</title>
+      <link>https://laist.com/news/la28-olympic-diving-moves-to-the-rose-bowl-in-a-bid-to-save-millions</link>
+      <description>
+        <![CDATA[The L.A. City Council approved the venue change Wednesday, which organizers say will save $12 million in infrastructure costs.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-359d-d0a7-adbf-7fbf1dbf0000</guid>
+    </item>    <item>
+      <title>State lawmakers unveil bill that would put new limits on LA’s hotly debated ‘mansion tax’</title>
+      <link>https://laist.com/news/housing-homelessness/los-angeles-mansion-tax-measure-ula-state-bill-reform-sacramento-housing-development</link>
+      <description>
+        <![CDATA[Taxes on the sale of some newer apartment buildings would be lowered under a plan by Sacramento lawmakers to partially rein in city Measure ULA.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-357b-d465-a9d9-b5ff85ef0000</guid>
+    </item>    <item>
+      <title>First came the wildfire. Then came the scams</title>
+      <link>https://laist.com/news/climate-environment/wildfire-contractor-scams</link>
+      <description>
+        <![CDATA[As extreme weather becomes more frequent, so too have post-disaster contractor scams like excessive billing and shoddy repairs.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-3517-d3ae-afdf-b71ff3510000</guid>
+    </item>    <item>
+      <title>LA City Council endorses Proposition 50</title>
+      <link>https://laist.com/news/politics/los-angeles-city-council-endorses-proposition-50</link>
+      <description>
+        <![CDATA[The measure would change congressional boundaries in California so that five Republican seats likely would flip to Democratic.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-3575-d465-a9d9-b5f56da20000</guid>
+    </item>    <item>
+      <title>Right-wing activist Charlie Kirk fatally shot during Utah college event</title>
       <link>https://laist.com/news/trump-says-right-wing-activist-charlie-kirk-has-died-after-shooting</link>
       <description>
         <![CDATA["The Great, and even Legendary, Charlie Kirk, is dead," President Donald Trump wrote in a Truth Social Post. Kirk was shot during an outdoor speaking event at Utah Valley University on Wednesday.]]>

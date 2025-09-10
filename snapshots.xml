@@ -4,7 +4,7 @@
   <channel>
     <title>Snapshots</title>
     <link>https://rsdoiel.github.io/antenna/snapshots.xml</link>
-    <lastBuildDate>10 Sep 25 14:24 -0700</lastBuildDate>
+    <lastBuildDate>10 Sep 25 16:07 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,20 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://www.notus.org/north-carolina/north-carolina-stabbing</link>
+      <description>
+        <![CDATA[<p>Thom Tillis Says He Doesn't Want a White House Crackdown on Charlotte.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/10/1025/</guid>
+    </item>    <item>
+      <title>2024-25 DRC Fellows End of Year Reflection</title>
+      <link>https://www.digitalrhetoriccollaborative.org/2025/09/10/2024-25-drc-fellows-end-of-year-reflection/</link>
+      <description>
+        <![CDATA[In this post the 2024-25 DRC Fellows cohort share their reflections of working on collaborations and developing their scholarship alongside the DRC. During this past year, this cohort of Fellows developed a variety of projects ranging from blog carnivals, podcast episodes, theoretical pieces, and more! We loved working with these Fellows and look forward to [...]
+        <p><a href="https://www.digitalrhetoriccollaborative.org/2025/09/10/2024-25-drc-fellows-end-of-year-reflection/" rel="nofollow">Source</a></p>]]>
+      </description>
+      <guid>cid://https://www.digitalrhetoriccollaborative.org/?p=21947</guid>
     </item>    <item>
       <title>macOS Tahoe 26 RC</title>
       <link>https://mjtsai.com/blog/2025/09/10/macos-tahoe-26-rc/</link>
