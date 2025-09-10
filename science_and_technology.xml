@@ -2,10 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science and Technology</title>
-    <lastBuildDate>2025-09-09 16:07:20</lastBuildDate>
+    <lastBuildDate>2025-09-10 06:09:23</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Nvidia&#39;s context-optimized Rubin CPX GPUs were inevitable</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/nvidia_rubin_cpx/</link>
+      <description>
+        <![CDATA[<h4>Why strap pricey, power-hungry HBM to a job that doesn&#39;t benefit from the bandwidth?</h4> <p><strong>Analysis</strong>  Nvidia on Tuesday unveiled the Rubin CPX, a GPU designed specifically to accelerate extremely long-context AI workflows like those seen in code assistants such as Microsoft&#39;s GitHub Copilot, while simultaneously cutting back on pricey and power-hungry high-bandwidth memory (HBM).…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241828</guid>
+      <pubDate>2025-09-10T12:15:15Z</pubDate>
+    </item>    <item>
+      <title>Uncle Sam indicts alleged ransomware kingpin tied to $18B in damages</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/us_nefilim_ransomware_indictment/</link>
+      <description>
+        <![CDATA[<h4>Prosecutors claim Ukrainian ran LockerGoga, MegaCortex, and Nefilim ops – $11M bounty on his head</h4> <p>A Ukrainian national faces serious federal charges and an $11 million bounty after allegedly orchestrating ransomware operations that caused an estimated $18 billion in damages across hundreds of organizations worldwide.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241833</guid>
+      <pubDate>2025-09-10T11:30:15Z</pubDate>
+    </item>    <item>
+      <title>Get paid like a prime minister to tame Home Office IT chaos</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/home_office_cdio/</link>
+      <description>
+        <![CDATA[<h4>Department dangles £160K salary for CDIO to wrangle legacy systems, failed projects, and £1.8B budget</h4> <p>The UK Home Office – a government department with a rich track record of failing IT projects – is on the hunt for a chief digital and innovation officer (CDIO) with an advertised salary not far off from the prime minister&#39;s.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241824</guid>
+      <pubDate>2025-09-10T10:45:14Z</pubDate>
+    </item>    <item>
+      <title>Flu jab email mishap exposes hundreds of students&#39; personal data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/birmingham_school_data_blunder/</link>
+      <description>
+        <![CDATA[<h4>One parent expressed concern for their child&#39;s safety</h4> <p>A clumsy data breach has affected hundreds of children at a Birmingham secondary school.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241818</guid>
+      <pubDate>2025-09-10T10:13:06Z</pubDate>
+    </item>    <item>
+      <title>Johnson, Cummings met Thiel months before Palantir won NHS pandemic role</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/johnson_cummings_thiel_meeting/</link>
+      <description>
+        <![CDATA[<h4>Meeting with former UK prime minister and his chief advisor withheld from official records, according to leaked documents</h4> <p>Former British prime minister Boris Johnson and his chief adviser Dominic Cummings met with Peter Thiel, co-founder and chairman of Palantir, in 2019, months before the US spy-tech company landed a key role in the UK&#39;s COVID-19 response, according to papers seen by <a target="_blank" href="https://www.theguardian.com/uk-news/2025/sep/08/boris-johnson-dominic-cummings-secret-meeting-palantir-peter-thiel">The Guardian</a>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241812</guid>
+      <pubDate>2025-09-10T09:30:06Z</pubDate>
+    </item>    <item>
+      <title>KDE Linux and FreeBSD hit alpha and – surprise – fan fave Pop_OS nearly at beta</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/kde_linux_and_freebsd_hit/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s the season of FOSS fruitfulness as juicy goodness falls from the branch</h4> <p>The Northern hemisphere is moving into autumn and FOSS vendors are falling over themselves in their efforts to get new versions out for the season.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241816</guid>
+      <pubDate>2025-09-10T08:45:14Z</pubDate>
+    </item>    <item>
+      <title>Cybercrooks ripped the wheels off at Jaguar Land Rover. Here&#39;s how not to get taken for a ride</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/jaguar_key_lessons/</link>
+      <description>
+        <![CDATA[<h4>Are you sure you know who has access to your systems?</h4> <p><strong>Feature</strong>  Jaguar Land Rover (JLR) is the latest UK household name to fall victim to a major cyberattack. IT systems across multiple sites have been offline for over a week after what the company described as a &#34;severe disruption.&#34;…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241814</guid>
+      <pubDate>2025-09-10T08:00:14Z</pubDate>
+    </item>    <item>
+      <title>Home Office delays £816M English test contract despite market engagement</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/home_office_language_test/</link>
+      <description>
+        <![CDATA[<h4>Government wants to assess would-be immigrants&#39; language skills remotely</h4> <p>Plans for an £816 million system to test the English skills of UK visa applicants have stalled, with the Home Office pushing procurement back at least five months after repeated consultations with suppliers.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241821</guid>
+      <pubDate>2025-09-10T07:15:12Z</pubDate>
+    </item>    <item>
+      <title>UK schools give system supplier Bromcom an F for Azure uptime</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/bromcom_fail/</link>
+      <description>
+        <![CDATA[<h4>Management software stumbles at start of term, leaving staff unable to track attendance or reach parents</h4> <p>UK school management information system (MIS) provider Bromcom has had a bad start to the academic year after its Azure-based service left staff struggling to track student attendance, let alone access contact details for parents and guardians.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241813</guid>
+      <pubDate>2025-09-10T06:30:06Z</pubDate>
+    </item>    <item>
+      <title>Arm bets on CPU-based AI with Lumex chips for smartphones</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/arm_goes_allin_for_ai/</link>
+      <description>
+        <![CDATA[<h4>Four-tier core design debuts amid NPU debate</h4> <p>Arm has lifted the lid on its latest mobile platform, comprising new CPU and GPU designs plus rearchitected interconnect and memory management logic, all optimized with a coming wave of AI-enabled smartphones in mind.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241820</guid>
+      <pubDate>2025-09-10T05:45:14Z</pubDate>
+    </item>    <item>
+      <title>AI pricing is currently in a state of ‘pandemonium’ says Gartner</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/ai_software_licensing_immature/</link>
+      <description>
+        <![CDATA[<h4>If you can find the T&amp;Cs, which are often hidden, you may spot hidden costs and nasties galore</h4> <p>Vendors’ licenses for AI software and services are in a state of “pandemonium,” according to Gartner VP analyst Jo Liversidge.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241832</guid>
+      <pubDate>2025-09-10T04:27:12Z</pubDate>
+    </item>    <item>
+      <title>This Patch Tuesday, SAP is the worst offender and Microsoft users can kinda chill</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/microsoft_patch_tuesday/</link>
+      <description>
+        <![CDATA[<h4>ERP giant patches flaw that allows total takeover of NetWeaver, Microsoft has nothing under attack for once</h4> <p>September’s Patch Tuesday won’t require Microsoft users to rapidly repair rancid software, but SAP users need to move fast to address extremely dangerous bugs.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241831</guid>
+      <pubDate>2025-09-10T03:31:11Z</pubDate>
+    </item>    <item>
+      <title>Mega-and-MAGA deals position Oracle&#39;s Larry Ellison to overtake Elon</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/10/oracle_q1_results/</link>
+      <description>
+        <![CDATA[<h4>Big Red&#39;s profits are flat, but its order book is phat</h4> <p>Larry Ellison moved a lot closer to being the world&#39;s richest man on Tuesday after Oracle saw a huge leap in its stock price, the largest single day&#39;s improvement in decades, thanks to a pipeline stuffed full of big deals.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241829</guid>
+      <pubDate>2025-09-10T00:18:06Z</pubDate>
+    </item>    <item>
+      <title>Google Cloud CEO sees sunny days ahead thanks to AI demand</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/google_cloud_ceo_sees_sunny/</link>
+      <description>
+        <![CDATA[<h4>We&#39;re making billions on AI, how about you?</h4> <p>Google Cloud CEO Thomas Kurian says the Chocolate Factory&#39;s rental computing business has $106 billion of unfulfilled contracts, and he expects Google Cloud will be able to realize about half of that in revenue within two years.…</p>]]>
+      </description>
+      <guid>tag:theregister.com,2005:story241830</guid>
+      <pubDate>2025-09-09T23:58:06Z</pubDate>
+    </item>    <item>
       <title>More packages poisoned in npm attack, but would-be crypto thieves left pocket change</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/npm_supply_chain_attack/</link>
       <description>
@@ -300,7 +412,7 @@
       <title>Forget disappearing messages – now Signal will store 100MB of them for you for free</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/09/storage_message_signal/</link>
       <description>
-        <![CDATA[<h4>Including messages sent to users, a potential problem for the privacy-conscious</h4> <p>Encrypted messaging app Signal is rolling out a free storage system for its users, with extra space if folks are willing to pay for it.…</p>]]>
+        <![CDATA[<h4>Including messages sent to users, a potential problem for the privacy-conscious</h4> <p><strong>Updated</strong>  Encrypted messaging app Signal is rolling out a free storage system for its users, with extra space if folks are willing to pay for it.…</p>]]>
       </description>
       <guid>tag:theregister.com,2005:story241801</guid>
       <pubDate>2025-09-09T03:33:10Z</pubDate>
@@ -1374,54 +1486,6 @@
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bdJSvjHOjXa3MzhaRg54NWtjXhA=/420x240/filters:focal(350x263:351x264)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/30/3d3027aa-a132-408a-aca7-1a06dfff7cbb/low-res_shearwater_goto.jpg" length="" type="" />
       <pubDate>2025-08-20T13:16:48Z</pubDate>
-    </item>    <item>
-      <title>World&#39;s First &#39;Robot Olympics&#39; Featured Soccer, Kickboxing and Lots of Falling Down</title>
-      <link>https://www.smithsonianmag.com/smart-news/worlds-first-robot-olympics-features-soccer-kickboxing-and-lots-of-falling-down-180987199/</link>
-      <description>
-        <![CDATA[Hundreds of humanoids from 16 countries stumbled over each other while competing in the World Humanoid Robot Games in Beijing]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NM7-kEgQvZ5WTSsLAQ1K13M4Ktg=/420x240/filters:focal(3039x2040:3040x2041)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/4b/9a4b7723-ec4d-4ad6-9722-14deda6f04fa/gettyimages-2230557252.jpg" length="" type="" />
-      <pubDate>2025-08-19T19:59:56Z</pubDate>
-    </item>    <item>
-      <title>Nobody Has Been Able to Solve the CIA&#39;s Famous &#39;Kryptos&#39; Sculpture. Soon, the Solution Will Be Sold to the Highest Bidder</title>
-      <link>https://www.smithsonianmag.com/smart-news/nobody-has-been-able-to-solve-the-cias-famous-kryptos-sculpture-soon-the-solution-will-be-sold-to-the-highest-bidder-180987200/</link>
-      <description>
-        <![CDATA[Three of the four messages carved into the sculpture have been deciphered, but the final puzzle has left amateur sleuths stumped. In November, the solution could fetch up to $500,000 at auction]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hj8SuGCQcsAWNeB2BoU0lYjiByo=/420x240/filters:focal(1692x1128:1693x1129)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e6/fc/e6fcdb25-28b0-4695-9e06-45b17a6fb18d/art_made_of__code__named_kryptos_sits_on_the_grounds_of_the_cia_headquarters_in_virginia_lcc.jpeg" length="" type="" />
-      <pubDate>2025-08-19T18:35:54Z</pubDate>
-    </item>    <item>
-      <title>Habitat Loss Is Leading to Inbreeding Among Michigan&#39;s Only Species of Venomous Snake</title>
-      <link>https://www.smithsonianmag.com/smart-news/habitat-loss-is-leading-to-inbreeding-among-michigans-only-species-of-venomous-snake-180987207/</link>
-      <description>
-        <![CDATA[Roads, buildings and other manmade barriers are preventing the small pit vipers from slithering around to find mates from other populations]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/-JODPR6Vmt_a3k_TbcwGcUzYfu0=/420x240/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/87/e7/87e75ab0-8f44-49a8-ba9c-d2916201f636/119_1.jpg" length="" type="" />
-      <pubDate>2025-08-19T17:35:19Z</pubDate>
-    </item>    <item>
-      <title>Researchers Discover Fossilized Teeth That May Have Come From an Unknown Hominin Species</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-discover-fossilized-teeth-that-may-have-come-from-an-unknown-hominin-species-180987188/</link>
-      <description>
-        <![CDATA[The find suggests that as many as four different hominin lineages lived in eastern Africa between 2.5 million and 3 million years ago]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3zG88l6HQLkwAxr-M_w7PAcHLj0=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/92/68/926805d3-c5f7-4ce2-9ba6-a78637b92cff/smithsonian_feature_images_12.png" length="" type="" />
-      <pubDate>2025-08-19T16:44:37Z</pubDate>
-    </item>    <item>
-      <title>See the First 3D Images of a Human Embryo Implanting, Shedding Light on the Crucial but Little-Known Process</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-first-3d-images-of-a-human-embryo-implanting-shedding-light-on-the-crucial-but-little-known-process-180987201/</link>
-      <description>
-        <![CDATA[A new study shows how human embryos reshape their environment by pulling on uterine tissue]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/kJC390j22Ac2GPuoCt0iEe8hLjE=/420x240/filters:focal(1684x978:1685x979)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/cd/49cd57d0-258b-437a-a04e-58ef44d3948d/screenshot_2025-08-18_at_184700.png" length="" type="" />
-      <pubDate>2025-08-19T16:38:05Z</pubDate>
-    </item>    <item>
-      <title>Italian Police Catch Tourist Stealing Stones From the Ancient City of Pompeii</title>
-      <link>https://www.smithsonianmag.com/smart-news/italian-police-catch-tourist-stealing-stones-from-the-ancient-city-of-pompeii-180987193/</link>
-      <description>
-        <![CDATA[According to legend, travelers who remove artifacts from the historic Italian city are cursed to endure hardship. Many have even returned the stolen items years later]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HmzSKBJBHlDPhyRoUgxnq9Y737E=/420x240/filters:focal(600x349:601x350)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7d/b0/7db05b7b-4ce6-4529-b36f-2a0d9a15ae0e/direttore-e-carabinieri-1200x688.jpg" length="" type="" />
-      <pubDate>2025-08-19T16:33:08Z</pubDate>
     </item>
   </channel>
 </rss>

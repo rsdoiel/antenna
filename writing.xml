@@ -2,10 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing</title>
-    <lastBuildDate>2025-09-09 16:07:22</lastBuildDate>
+    <lastBuildDate>2025-09-10 06:09:26</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How to Create and Work with Poetry Projects in Scrivener</title>
+      <link>https://www.literatureandlatte.com/blog/how-to-create-and-work-with-poetry-projects-in-scrivener</link>
+      <guid>https://www.literatureandlatte.com/?p=7753</guid>
+      <pubDate>2025-09-10T06:00:00Z</pubDate>
+    </item>    <item>
       <title>Getting Period Right</title>
       <link>https://johnaugust.com/2025/getting-period-right</link>
       <description>
@@ -245,23 +250,6 @@
       </description>
       <guid>https://johnaugust.com/?p=23396</guid>
       <pubDate>2025-08-20T00:16:44Z</pubDate>
-    </item>    <item>
-      <title>The Live Call-In Show</title>
-      <link>https://johnaugust.com/2025/the-live-call-in-show</link>
-      <description>
-        <![CDATA[<p>To celebrate our 700th episode, John and Craig open the phone lines for a live late-night call-in show (recorded at 10 a.m. on a Wednesday). Through the power of Zoom (and YouTube), listeners ask questions about rewrites in post, avoiding traps as a production designer, changing characters in a rewrite, and advice on leaving the [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/the-live-call-in-show">The Live Call-In Show</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <guid>https://johnaugust.com/?p=23394</guid>
-      <pubDate>2025-08-19T15:51:05Z</pubDate>
-    </item>    <item>
-      <title>Reminder to Support Authors Alliance</title>
-      <link>https://www.authorsalliance.org/2025/08/19/reminder-to-support-authors-alliance/</link>
-      <description>
-        <![CDATA[So far this year, Authors Alliance has worked tirelessly to ensure that the voices of authors who write to advance [&#8230;]]]>
-      </description>
-      <guid>https://www.authorsalliance.org/?p=12116</guid>
-      <pubDate>2025-08-19T15:03:55Z</pubDate>
     </item>
   </channel>
 </rss>

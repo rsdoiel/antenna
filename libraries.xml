@@ -2,10 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libraries</title>
-    <lastBuildDate>2025-09-09 16:07:19</lastBuildDate>
+    <lastBuildDate>2025-09-10 06:09:22</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post – Where Do We All Fit In? Reflections on Belonging, Purpose, and Progress in Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/10/guest-post-where-do-we-all-fit-in-reflections-on-belonging-purpose-and-progress-in-scholarly-publishing/</link>
+      <description>
+        <![CDATA[<p>Today's guest post by Deja Forte declares: Publishing isn’t just about systems and standards; it’s about people. Each of us has the power to build bridges between knowledge and the lives it’s meant to benefit.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/10/guest-post-where-do-we-all-fit-in-reflections-on-belonging-purpose-and-progress-in-scholarly-publishing/">Guest Post – Where Do We All Fit In? Reflections on Belonging, Purpose, and Progress in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>https://scholarlykitchen.sspnet.org/?p=60943</guid>
+      <pubDate>2025-09-10T09:30:00Z</pubDate>
+    </item>    <item>
       <title>Purposeful Cross-Sector Collaboration Boosts Learning Mobility and Student Success</title>
       <link>https://sr.ithaka.org/blog/purposeful-cross-sector-collaboration-boosts-learning-mobility-and-student-success/</link>
       <description>
@@ -88,11 +97,11 @@
       <guid>https://www.crossref.org/blog/celebrating-one-year-of-crossref-grant-ids-at-nwo/</guid>
       <pubDate>2025-09-09T00:00:00Z</pubDate>
     </item>    <item>
-      <title>Day in Review (September 08–11)</title>
+      <title>Day in Review (September 8–11)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-08-11/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 9, 2025, 3:50 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 09 &#124; Wednesday, September 10 &#124; Thursday,...</p>
-        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-08-11/">Day in Review (September 08–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+        <![CDATA[<p>Last Updated on September 10, 2025, 8:16 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 09 &#124; Wednesday, September 10 &#124; Thursday,...</p>
+        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-08-11/">Day in Review (September 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>https://www.arl.org/?p=45902</guid>
       <pubDate>2025-09-08T20:22:04Z</pubDate>
@@ -501,26 +510,6 @@
       </description>
       <guid>https://blog.archive.org/?p=29076</guid>
       <pubDate>2025-08-20T03:17:31Z</pubDate>
-    </item>    <item>
-      <title>Guest Post — Beyond Open Access, Part 1: Make Academic Content Truly Accessible for All</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/19/guest-post-beyond-open-access-part-1-make-academic-content-truly-accessible-for-all/</link>
-      <description>
-        <![CDATA[<p>Open access has revolutionized how research reaches readers — yet, true accessibility is an ethical imperative for institutions, publishers, and service providers to create genuinely inclusive scholarly communication.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/19/guest-post-beyond-open-access-part-1-make-academic-content-truly-accessible-for-all/">Guest Post — Beyond Open Access, Part 1: Make Academic Content Truly Accessible for All</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <enclosure url="https://www.dropbox.com/scl/fi/g2r9ucmhyoc7hy4fwqxw9/NISO-STS_-Standards-Tag-Suite-Version-1_2.wav?rlkey=a4hn6yjie1wv4wq5jf1h0zni7&dl=0" length="0" type="audio/wav" />
-      <enclosure url="https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/08/Beyond-Open-Access-Part-1-audio-file-for-TSK.mp3" length="9769550" type="audio/mpeg" />
-      <guid>https://scholarlykitchen.sspnet.org/?p=60863</guid>
-      <pubDate>2025-08-19T09:30:24Z</pubDate>
-    </item>    <item>
-      <title>The Vicar of Bullhampton, by Anthony Trollope</title>
-      <link>https://standardebooks.org/ebooks/anthony-trollope/the-vicar-of-bullhampton</link>
-      <description>
-        <![CDATA[The vicar of a rural parish is the epicenter for conflicts in love, law, and church affairs in his Wiltshire town.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/anthony-trollope/the-vicar-of-bullhampton/downloads/anthony-trollope_the-vicar-of-bullhampton.epub?source=feed" length="883742" type="application/epub+zip" />
-      <guid>https://standardebooks.org/ebooks/anthony-trollope/the-vicar-of-bullhampton</guid>
-      <pubDate>2025-08-19T02:11:21Z</pubDate>
     </item>
   </channel>
 </rss>

@@ -3,10 +3,50 @@
   <channel>
     <title>socal_north.md</title>
     <link>socal_north.xml</link>
-    <lastBuildDate>2025-09-09 16:07:22</lastBuildDate>
+    <lastBuildDate>2025-09-10 06:09:26</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Cozy morning clouds continue amid cooldown</title>
+      <link>https://laist.com/news/climate-environment/cozy-morning-clouds-continue-as-cooling-continues</link>
+      <description>
+        <![CDATA[Temperatures will cool gradually this week.]]>
+      </description>
+      <guid>urn:uuid:00000199-3033-dd94-afbd-713751930000</guid>
+      <pubDate>2025-09-10T13:00:00Z</pubDate>
+    </item>    <item>
+      <title>The numbers say you most likely know someone affected by ICE sweeps. What you need to know about the data</title>
+      <link>https://laist.com/news/politics/usc-study-undocumented-immigrants-los-angeles-county</link>
+      <description>
+        <![CDATA[One recent study estimates that nearly one in five Angelenos are undocumented or live with an undocumented family member.]]>
+      </description>
+      <guid>urn:uuid:00000199-310a-d22c-a5fd-790efa870000</guid>
+      <pubDate>2025-09-10T12:00:00Z</pubDate>
+    </item>    <item>
+      <title>Law enforcement agencies in California have to report how they use weapons during protests. Many don’t</title>
+      <link>https://laist.com/news/politics/california-weapons-protests-reporting-requirements</link>
+      <description>
+        <![CDATA[Recent protests show major gaps in enforcement of California’s existing protest laws.]]>
+      </description>
+      <guid>urn:uuid:00000199-3086-d243-a9bb-30f7462b0000</guid>
+      <pubDate>2025-09-10T12:00:00Z</pubDate>
+    </item>    <item>
+      <title>How Los Angeles brings stoke and surf to children with disabilities</title>
+      <link>https://laist.com/news/education/los-angeles-adaptive-para-surfing-program-autism-developmental-disabilities-olympics-2028</link>
+      <description>
+        <![CDATA[Over the past three years, Los Angeles Recreation and Parks has expanded opportunities for youths with disabilities to catch a wave, build confidence and learn water safety.]]>
+      </description>
+      <guid>urn:uuid:00000199-2b36-ddb8-a5bf-fb772f940000</guid>
+      <pubDate>2025-09-10T12:00:00Z</pubDate>
+    </item>    <item>
+      <title>Downtown LA’s historic The Original Pantry Cafe will reopen its doors</title>
+      <link>https://laist.com/news/food/downtown-los-angeles-historic-the-original-pantry-cafe-will-reopen</link>
+      <description>
+        <![CDATA[The union representing the restaurant's workers announced Tuesday that The Pantry will welcome back patrons Thursday after suddenly shutting down six months ago.]]>
+      </description>
+      <guid>urn:uuid:00000199-30c9-d0a7-adbf-7eeb5e470000</guid>
+      <pubDate>2025-09-09T23:52:15Z</pubDate>
+    </item>    <item>
       <title>An Orange County dog voted in multiple elections. Why that matters in bitter redistricting fight</title>
       <link>https://laist.com/news/politics/dog-registered-to-vote-orange-county-redistricting-fight</link>
       <description>
@@ -432,14 +472,6 @@
       </description>
       <guid>5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68a79c7103f5444783063468</guid>
       <pubDate>2025-08-20T22:30:00Z</pubDate>
-    </item>    <item>
-      <title>Marshall &#39;Tom&#39; Rockwell Dies at 86; Helped Launch RAND Health and Landmark Health Insurance Study</title>
-      <link>https://www.rand.org/news/press/2025/08/marshall-tom-rockwell-dies-at-86-helped-launch-rand.html</link>
-      <description>
-        <![CDATA[Marshall &ldquo;Tom&rdquo; Rockwell, a physician and mathematician who helped launch RAND Health in the late 1960s, served as its first director and played a key role in a pioneering health insurance study at RAND, has died. He was 86.]]>
-      </description>
-      <guid>https://www.rand.org/news/press/2025/08/marshall-tom-rockwell-dies-at-86-helped-launch-rand.html</guid>
-      <pubDate>2025-08-19T19:00:00Z</pubDate>
     </item>
   </channel>
 </rss>
