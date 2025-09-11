@@ -4,10 +4,38 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>10 Sep 25 16:07 -0700</lastBuildDate>
+    <lastBuildDate>11 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>SoCal to stay relatively cool</title>
+      <link>https://laist.com/news/climate-environment/socal-to-stay-relatively-cool</link>
+      <description>
+        <![CDATA[Another cool day is on tap for the region.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-3584-d465-a9d9-b5e4cf7b0000</guid>
+    </item>    <item>
+      <title>Rate of death by suicide among construction workers is high. Here’s why</title>
+      <link>https://laist.com/news/los-angeles-activities/construction-worker-suicide-death-rate-data-support</link>
+      <description>
+        <![CDATA[Chronic pain, long hours, dangers on the job, and other stressors leads to a suicide rate that's four times higher than the national average]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-3618-d635-a9fd-7ede67ef0000</guid>
+    </item>    <item>
+      <title>Tim Meadows, Kim Kardashian and Ben Kingsley round out the casts of new fall TV shows set in LA</title>
+      <link>https://laist.com/news/arts-and-entertainment/tim-meadows-kim-kardashian-and-ben-kingsley-round-out-the-casts-of-new-fall-tv-shows-set-in-la</link>
+      <description>
+        <![CDATA[Step into the fictional Los Angeles of the 2025 fall TV season, where Tim Meadows works at the DMV and Glenn Close and Kim Kardashian are high-powered divorce lawyers.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-2b44-d8eb-a59b-ff6de65d0000</guid>
+    </item>    <item>
+      <title>Supervisor Janice Hahn wants cell towers on Vincent Thomas Bridge to aid in suicide prevention</title>
+      <link>https://laist.com/news/vincent-thomas-bridge-cell-towers-caltrans-supervisor-janice-hahn</link>
+      <description>
+        <![CDATA[The L.A. County supervisor said people in crisis can’t reach help because of bad cell service in the area.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-35fd-d1fa-abdb-7dfd23c90000</guid>
+    </item>    <item>
       <title>LA28 Olympic diving moves to the Rose Bowl in a bid to save millions</title>
       <link>https://laist.com/news/la28-olympic-diving-moves-to-the-rose-bowl-in-a-bid-to-save-millions</link>
       <description>
@@ -36,7 +64,7 @@
       </description>
       <guid>cid://urn:uuid:00000199-3575-d465-a9d9-b5f56da20000</guid>
     </item>    <item>
-      <title>Right-wing activist Charlie Kirk fatally shot during Utah college event</title>
+      <title>Right-wing activist Charlie Kirk fatally shot at speaking event in Utah</title>
       <link>https://laist.com/news/trump-says-right-wing-activist-charlie-kirk-has-died-after-shooting</link>
       <description>
         <![CDATA["The Great, and even Legendary, Charlie Kirk, is dead," President Donald Trump wrote in a Truth Social Post. Kirk was shot during an outdoor speaking event at Utah Valley University on Wednesday.]]>
@@ -100,6 +128,13 @@
       </description>
       <guid>cid://urn:uuid:00000199-3033-dd94-afbd-713751930000</guid>
     </item>    <item>
+      <title>How Los Angeles brings stoke and surf to children with disabilities</title>
+      <link>https://laist.com/news/education/los-angeles-adaptive-para-surfing-program-autism-developmental-disabilities-olympics-2028</link>
+      <description>
+        <![CDATA[Over the past three years, Los Angeles Recreation and Parks has expanded opportunities for youths with disabilities to catch a wave, build confidence and learn water safety.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-2b36-ddb8-a5bf-fb772f940000</guid>
+    </item>    <item>
       <title>The numbers say you most likely know someone affected by ICE sweeps. What you need to know about the data</title>
       <link>https://laist.com/news/politics/usc-study-undocumented-immigrants-los-angeles-county</link>
       <description>
@@ -113,13 +148,6 @@
         <![CDATA[Recent protests show major gaps in enforcement of California’s existing protest laws.]]>
       </description>
       <guid>cid://urn:uuid:00000199-3086-d243-a9bb-30f7462b0000</guid>
-    </item>    <item>
-      <title>How Los Angeles brings stoke and surf to children with disabilities</title>
-      <link>https://laist.com/news/education/los-angeles-adaptive-para-surfing-program-autism-developmental-disabilities-olympics-2028</link>
-      <description>
-        <![CDATA[Over the past three years, Los Angeles Recreation and Parks has expanded opportunities for youths with disabilities to catch a wave, build confidence and learn water safety.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-2b36-ddb8-a5bf-fb772f940000</guid>
     </item>    <item>
       <title>Natalie Crawford, Longtime RAND Analyst Who Guided Research on Modernizing Air Force, Dies at 86</title>
       <link>https://www.rand.org/news/press/2025/09/natalie-crawford-longtime-rand-analyst-who-guided-research.html</link>
@@ -318,6 +346,13 @@
       </description>
       <guid>cid://urn:uuid:00000199-2ae6-d8eb-a59b-ffeff09c0000</guid>
     </item>    <item>
+      <title>LA artist Robert Vargas on his new mural and his bid to break a world record</title>
+      <link>https://laist.com/news/arts-and-entertainment/la-artist-robert-vargas-on-his-new-mural-and-his-bid-to-break-a-world-record</link>
+      <description>
+        <![CDATA[The city of L.A. declared Sept. 8 as Robert Vargas Day in 2021. Now, the renowned artist shares how his iconic murals come to life.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-29f3-d8eb-a59b-fffb13ae0000</guid>
+    </item>    <item>
       <title>‘Something can be done about this’: New plan aims to stop sex abuse in California schools</title>
       <link>https://laist.com/news/education/new-plan-aims-to-stop-sex-abuse-in-california-schools</link>
       <description>
@@ -498,17 +533,6 @@
         <![CDATA[Comparing things &#8211; Semantics, Arithmetic expressions SemanticsSemantics is the study of meaning. In language, it deals with how words, symbols, and sentences connect to concepts or truth. In computer science, semantics describes what a program or expression does rather than just how it looks (its syntax). Example: Reverse Polish Notation (RPN)RPN, also called postfix notation, &#8230; <a href="https://desertgazette.com/blog/contrasts/" class="more-link">Continue reading<span class="screen-reader-text"> "Contrasts"</span></a>]]>
       </description>
       <guid>cid://https://desertgazette.com/blog/?p=13513</guid>
-    </item>    <item>
-      <title>Santa Ynez Chumash Commit $500K Matching Grant to Cabrillo High</title>
-      <link>https://www.indiangaming.com/santa-ynez-chumash-commit-500k-matching-grant-to-cabrillo-high/</link>
-      <description>
-        <![CDATA[SANTA YNEZ, CA – To help a local school revitalize its sports complex, the 
-        Santa Ynez Band of Chumash Indians has committed a $500,000 matching grant 
-        toward the Cabrillo High Stadium Improvement Project, which aims to upgrade 
-        its outdated track and field for the benefit of the school’s 
-        student-athletes, marching band and the surrounding community.]]>
-      </description>
-      <guid>cid://5ce1c6e64abe9e0001603b00:5ce1fd41a265cb000118d783:68a79c7103f5444783063468</guid>
     </item>
   </channel>
 </rss>

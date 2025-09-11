@@ -4,10 +4,85 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>10 Sep 25 16:07 -0700</lastBuildDate>
+    <lastBuildDate>11 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>It&#39;s really simple</title>
+      <link>http://scripting.com/2025/09/11/123936.html?title=itsReallySimple</link>
+      <description>
+        <![CDATA[<p>Reminder: <a href="http://scripting.com/2022/09/18.html">Sept 18</a>, one week from today, is the 3rd anniversary of the <a href="http://scripting.com/2022/09/18.html">20th anniversary</a> of the release of RSS 2.0. I often forget to mark that day. It's not an event that's marked by others very often, but in my humble opinion, it deserves more respect than it gets. </p>
+        <p>I decided around the time of the 20th anniversary to swing back and see what more we could do with RSS. It had been sitting there basically going nowhere for most of those 20 years. I want to be clear, there were good and useful products created and supported, but there was none of the innovation that would have happened if it hadn't been so severely injured by Google and the many VC-backed startups hacking away at it, trying to find a billion dollars here and then, and of course all of them seeking world domination and refusing to work with each other. </p>
+        <p>A format like <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> has to be loved. And if you make it too complicated or vague, with too much political shuffling of the deck what you get is ActivityPub. That's what RSS would have become if it went down the path the tech industry wanted to take it down. We have a perfect artifact to look at. An A-B comparison. Couldn't be more stark.</p>
+        <p>But, even after 23 freaking years, RSS is still simple.</p>
+        <p>Anyway, around the 20th anniversary, in the leadup to it, I decided if no one else was going to invest in RSS, I would, and let's see what comes of it.</p>
+        <p>And the result was <a href="https://feedland.com/">FeedLand</a> which is fundamentally different from all the other feed readers in that its subscription model is patterned after the twitter-like social media apps. Everyone's subscription list is public. I can look at your list and you can look at mine. You can also put categories on the feeds you subscribe to and route them to other servers doing other things, through the magic of the web. And get this -- you can even subscribe to a category of my subscriptions. Lots of power there, but still it's simple.</p>
+        <p>FeedLand is the perfect back-end for a twitter-like system, for the feeds part, and for the words part, the perfect back-end is WordPress. I only discovered that about 1.5 years ago. And I had to see what it looks like. No more tiny little text boxes, it's a real editor that supports all the features of the web. How do I know? Because it saves its data in Markdown. That has come to be the defining format for the text-based web. One which has been totally ignored by the twitter-like systems. Amazing how blind they've been. How could they miss that? Markdown is like MP3. If you're mixing sound into your feeds you use MP3 of course. It's  was there for you to use. As was Markdown. If you're mixing text you're mixing Markdown. End of story.</p>
+        <p>So while everyone was dancing on Twitter's burning dumptster of a social network I decided to build on something much bigger. The web. RSS and Markdown. WordPress and FeedLand. </p>
+        <p>BTW, it's also good moment to recall how the name Really Simple Syndication came about. I came up with it. For whatever reason I have a talent for naming things, I also have a process, where most people don't.</p>
+        <p>Really Simple Syndication is supposed to make you smile, while most techie formats make you want to pull your hair out. RSS reads pretty well even if you know nothing about feeds and XML. I wish the browser people hadn't insisted on masking it with ugly CSS style sheets. I like lifting the hood of a car to see what's there even though I don't know what many of the things in there do. I learn by doing it. RSS isn't ugly, it's brilliant, and shouldn't be fear-inducing. Hence the name -- Really Simple. </p>
+        <p>I suppose other things are also Really Simple, but is that their main selling point? It was for RSS, the other formats were to freaking complicated. I know because I considered using all of them. I reasoned that in order for this to work, it has to be so obvious what it does that people will trust it. </p>
+        <p>And if what you want to stress about your thing is that it is Really Simple, I suppose it's okay if you use it too, but please be clear when you do where you got the name, and that you have their blessing to use it as the name of your thing. That's the right way to do it. </p>]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/11/123936.html</guid>
+    </item>    <item>
+      <link>https://www.bloomberg.com/features/2025-jeffrey-epstein-emails-ghislaine-maxwell/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1NzU4MTg1MywiZXhwIjoxNzU4MTg2NjUzLCJhcnRpY2xlSWQiOiJUMkYyQ0tHUEZIUUUwMCIsImJjb25uZWN0SWQiOiJGOEM4RUQ0NDZENzU0QjY2QUUwMzY4QzkzQjE4OEFEQiJ9.-WI92AWhRNCK_GFn6Fk_Su-tzVa2RIU9pSwno562y_4&#38;leadSource=uverify%20wall</link>
+      <description>
+        <![CDATA[<p>Epstein’s Inbox: A Trove of Emails Reveals Ghislaine Maxwell’s Secrets.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/11/1033/</guid>
+    </item>    <item>
+      <link>https://www.thetimes.com/magazines/the-sunday-times-magazine/article/tim-berners-lee-internet-interview-2025-w2htpxwct?utm_source=Sailthru&#38;utm_medium=email&#38;utm_campaign=Weekly%20briefing%20-%2011%20September%202025&#38;utm_term=Audience_REG_WEEKLY_BRIEF</link>
+      <description>
+        <![CDATA[<p>Tim Berners-Lee: What happened to the internet surprised me. But we can fix it.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/11/1031/</guid>
+    </item>    <item>
+      <link>https://www.politico.com/news/2025/09/10/biden-harris-book-partnership-00556763</link>
+      <description>
+        <![CDATA[<p>Harris goes there on the Biden question — and Biden world isn’t having it.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/11/1029/</guid>
+    </item>    <item>
+      <title>The Future of the Democratic Party (if it has a future)</title>
+      <link>https://robertreich.substack.com/p/the-new-voice-of-the-democratic-party</link>
+      <description>
+        <![CDATA[A new day is dawning if the Democrats are able to see the sunrise.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!6K-1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a436d6d-1cfb-4af4-b17e-3b294486d49f_2121x1414.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-new-voice-of-the-democratic-party</guid>
+    </item>    <item>
+      <title>September 10, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-10-2025</link>
+      <description>
+        <![CDATA[Last night, Polish forces shot down 19 Russian drones that invaded Poland&#8217;s airspace during a massive Russian air attack on Ukraine.]]>
+      </description>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-10-2025</guid>
+    </item>    <item>
+      <title>Note published on September 11, 2025 at 4:07 AM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509110004</link>
+      <guid>cid://68c24ae9af8e0043c4ac1cb6</guid>
+    </item>    <item>
+      <link>https://www.theatlantic.com/politics/archive/2025/09/george-retes-ice-detained-us-citizen/684152/?gift=f35zZN0v_gDFE8xNwlQAHX66hnorBkWsFrtq_FhmdYc</link>
+      <description>
+        <![CDATA[<p>A U.S. Citizen Detained by ICE for Three Days Tells His Story.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/10/1027/</guid>
+    </item>    <item>
+      <title>What Ben &#38; John Don’t Get</title>
+      <link>https://om.co/2025/09/10/what-ben-john-dont-get/</link>
+      <description>
+        <![CDATA[Apple, to be fair, isn’t selling the same sugar water year-after-year in a zero sum war with other sugar water companies. Their sugar water is getting better, and I think this year’s seasonal concoction is particularly tasty. What is inescapable, however, is that while the company does still make new products — I definitely plan &#8230;]]>
+      </description>
+      <guid>cid://https://om.co/?p=944631</guid>
+    </item>    <item>
+      <title>Sitting out on the porch feasting on peel’n’eat shrimp, corn on the cob, and tomato salad.</title>
+      <link>https://adactio.com/notes/22128</link>
+      <description>
+        <![CDATA[<p>Sitting out on the porch feasting on peel’n’eat shrimp, corn on the cob, and tomato salad.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22128</guid>
+    </item>    <item>
       <link>https://www.notus.org/north-carolina/north-carolina-stabbing</link>
       <description>
         <![CDATA[<p>Thom Tillis Says He Doesn't Want a White House Crackdown on Charlotte.</p>]]>
@@ -115,6 +190,10 @@
       <title>An interview with Rebecca Solnit. &#38;#8220;It feels like part of this horrible...</title>
       <link>https://kottke.org/25/09/0047482-an-interview-with-rebecca</link>
       <guid>cid://tag:kottke.org,2025://13.47482</guid>
+    </item>    <item>
+      <title>Note published on September 10, 2025 at 3:04 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509101104</link>
+      <guid>cid://68c19386af8e0043c4ac1c35</guid>
     </item>    <item>
       <link>https://alex.kirk.at/2024/06/13/your-wordpress-as-your-personal-mastodon-instance/</link>
       <description>
@@ -874,6 +953,10 @@
         <![CDATA[<p>If I wrote something on Masto and want to link to it from a blog post, what's the URL that works for everyone? Does the link in this post work for you?</p>]]>
       </description>
       <guid>cid://https://links.daveverse.org/2025/09/07/981/</guid>
+    </item>    <item>
+      <title>Note published on September 7, 2025 at 5:37 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509071333</link>
+      <guid>cid://68bdc2d8604d916e1d8df2f2</guid>
     </item>    <item>
       <link>http://scripting.com/2025/09/07.html#a172126</link>
       <description>
@@ -3662,54 +3745,6 @@
         <![CDATA[The oddest part about the whole situation is that CNBC is being spun out into Versant, too, but while they’re losing the NBC peacock logo, they’re just keeping their name, unchanged.]]>
       </description>
       <guid>cid://tag:daringfireball.net,2025://1.42169</guid>
-    </item>    <item>
-      <title>Claim Chowder: Anthropic CEO Dario Amodei Five Months Ago</title>
-      <link>https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42168</guid>
-    </item>    <item>
-      <title>‘No Frame Missed’</title>
-      <link>https://www.youtube.com/watch?v=hEalzEnT70k</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42167</guid>
-    </item>    <item>
-      <title>what is the point of libraries now that you can just generate them?</title>
-      <link>https://ghuntley.com/libraries/</link>
-      <description>
-        <![CDATA[<p>It&apos;s a meme as accurate as time. The problem is that our digital infrastructure depends upon just some random guy in Nebraska. </p><figure class="kg-card kg-image-card"><img src="https://ghuntley.com/content/images/2025/08/image.png" class="kg-image" alt loading="lazy" width="770" height="978" srcset="https://ghuntley.com/content/images/size/w600/2025/08/image.png 600w, https://ghuntley.com/content/images/2025/08/image.png 770w" sizes="(min-width: 720px) 720px"></figure><p>Open-source, by design, is not financially sustainable. Finding reliable, well-defined funding sources is exceptionally challenging. As projects grow in size, many maintainers burn out and find</p>]]>
-      </description>
-      <guid>cid://68a53226054ea900013cb312</guid>
-    </item>    <item>
-      <title>★ How to Use iPhone Mirroring With More Than One iPhone</title>
-      <link>https://daringfireball.net/2025/08/iphone_mirroring_more_than_one_iphone</link>
-      <description>
-        <![CDATA[Long story short: there’s an “iPhone” menu under “Widgets” in System Settings → Desktop & Dock.]]>
-      </description>
-      <guid>cid://tag:daringfireball.net,2025://1.42165</guid>
-    </item>    <item>
-      <title>Jellyfin on macOS for a quick self-hosted media library</title>
-      <link>https://www.jeffgeerling.com/blog/2025/jellyfin-on-macos-quick-self-hosted-media-library</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Jellyfin on macOS for a quick self-hosted media library</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I forgot to bring my portable Pi media server running Jellyfin on a family trip, but had a small selection of my <a href="https://www.jeffgeerling.com/blog/2022/how-i-rip-dvds-and-blu-rays-my-mac-2022-edition">ripped movie and TV show library</a> on my portable SSD.</p>
-        
-        <p>One dreaded part of choosing a movie or show to watch after a rainy afternoon and all other avenues of entertainment are exhausted is having the kids (especially the youngest, who can't read yet) choose a movie without the 'movie shelf' showing the movie posters/cover artwork.</p>
-        
-        <p>So... without the Pi, and only armed with my MacBook Air, I thought I'd spin up a Jellyfin Docker container. Except, <a href="https://jellyfin.org/docs/general/installation/container/#installation-instructions">macOS is explicitly called out as unsupported for the Docker container for Jellyfin</a>.</p>
-        
-        <p>Switching tracks, I found Jellyfin is also packed up as a .app for macOS, and you can install it by <a href="https://jellyfin.org/downloads/macos/">downloading the .dmg and copying the .app to your Mac</a>, or you can do it like I did, with Homebrew:</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-19T20:06:23-05:00" title="Tuesday, August 19, 2025 - 20:06" class="datetime">August 19, 2025</time>
-        </span>]]>
-      </description>
-      <guid>cid://3485 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>Zohran Mamdani is the leader NYC needs for innovation and entrepreneurship</title>
-      <link>https://anildash.com/2025/08/20/zohran-mamdani-is-the-nyc-innovation-leader/</link>
-      <guid>cid://https://anildash.com/2025/08/20/zohran-mamdani-is-the-nyc-innovation-leader/</guid>
-    </item>    <item>
-      <title>Moguls Moving Money Isn’t the Same as Building a Business</title>
-      <link>https://anildash.com/2025/08/20/moving-money-ain%E2%80%99t-building-a-business/</link>
-      <guid>cid://https://anildash.com/2025/08/20/moving-money-ain%E2%80%99t-building-a-business/</guid>
     </item>
   </channel>
 </rss>
