@@ -4,25 +4,119 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>11 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>11 Sep 25 16:09 -0700</lastBuildDate>
     <generator>antenna/0.0.2</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>I Planted a Forest Four Years Ago</title>
+      <link>https://kottke.org/25/09/i-planted-a-forest-four-years-ago</link>
+      <guid>cid://tag:kottke.org,2025://5.47493</guid>
+    </item>    <item>
+      <title>Watching the highlights of the recent GeoGuessr world championships is wild; competitors...</title>
+      <link>https://kottke.org/25/09/0047489-watching-the-highlights-o</link>
+      <guid>cid://tag:kottke.org,2025://13.47489</guid>
+    </item>    <item>
+      <title>Tycho&#38;#8217;s Burning Man Sunrise Set for 2025</title>
+      <link>https://kottke.org/25/09/tychos-burning-man-sunrise-set-for-2025</link>
+      <guid>cid://tag:kottke.org,2025://5.47491</guid>
+    </item>    <item>
+      <title>September 10, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-10-2025-ee9</link>
+      <enclosure url="https://api.substack.com/feed/podcast/173388489/0d4be8c73ee2459456457780fc6cf65d.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-10-2025-ee9</guid>
+    </item>    <item>
+      <title>A new book from photographer Sally Mann: Art Work: On the Creative...</title>
+      <link>https://kottke.org/25/09/0047484-a-new-book-from-photograp</link>
+      <guid>cid://tag:kottke.org,2025://13.47484</guid>
+    </item>    <item>
+      <link>https://wapo.st/3Vfn4Nn</link>
+      <description>
+        <![CDATA[<p>Bolsonaro found guilty in attempted coup, assassination plot.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/11/1041/</guid>
+    </item>    <item>
+      <title>The Amazing Art of the Video Game Marquee</title>
+      <link>https://kottke.org/25/09/the-amazing-art-of-the-video-game-marquee</link>
+      <guid>cid://tag:kottke.org,2025://5.47480</guid>
+    </item>    <item>
+      <link>http://scripting.com/2001/09/11.html?fbclid=IwY2xjawMv-4FleHRuA2FlbQIxMABicmlkETE0S2p1d1l1UlFsb0tyWnVkAR74vHlzDMYIbu6TkwIToaq4-qdDSu9MeWpSH3l5tM049N8XK40RHMq4QakXng_aem_R3T8dSREkmWosalc0P5iCQ</link>
+      <description>
+        <![CDATA[<p>Scripting News: 9/11/2001.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/11/1039/</guid>
+    </item>    <item>
+      <title>Defector is celebrating its fifth anniversary. &#38;#8220;This is a website run by...</title>
+      <link>https://kottke.org/25/09/0047488-defector-is-celebrating-i</link>
+      <guid>cid://tag:kottke.org,2025://13.47488</guid>
+    </item>    <item>
+      <title>Privacy is a Contract</title>
+      <link>https://doc.searls.com/2025/09/11/privacy-is-a-contract/</link>
+      <description>
+        <![CDATA[In the natural world, privacy is a social contract: a tacit agreement that we respect others&#8217; private spaces. We guard those spaces with the privacy tech we call clothing and shelter. We also signal what&#8217;s okay and what&#8217;s not using language and gestures. &#8220;Manners&#8221; are as formal as the social contract for privacy gets, but [&#8230;]]]>
+      </description>
+      <guid>cid://https://doc.searls.com/?p=19401</guid>
+    </item>    <item>
+      <title>Many years on the job and I still don&#39;t get it.</title>
+      <link>https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/</link>
+      <description>
+        <![CDATA[<p>I’m coming up on 20 years of professional web development and I still don’t get it sometimes. I tend to measure myself or view work productivity through the lens of “How much code did I write?” and that does a great disservice to myself and what I do.</p>
+        <p>There’s a lot more to the job:</p>
+        <ul>
+        <li>Checking email</li>
+        <li>Scheduling calls</li>
+        <li>Writing release notes</li>
+        <li>Contributing to newsletters</li>
+        <li>Documentation (code and otherwise)</li>
+        <li>Making spreadsheets</li>
+        <li>Demystifying the work I do to teammates</li>
+        <li>Clarifying decisions</li>
+        <li>Having technical conversations with teammates</li>
+        <li>Having non-technical conversations with teammates</li>
+        <li>Investigating weird browser behaviors</li>
+        <li>Babysitting servers and build processes</li>
+        <li>Reviewing PRs</li>
+        <li>Manual QA on branch deploys</li>
+        <li>Attending meetings</li>
+        <li>Attending talks (internal/external)</li>
+        <li>Cross-org contributions</li>
+        <li>Learning</li>
+        <li>Planning</li>
+        <li>Dreaming</li>
+        <li>Scheming</li>
+        <li>Community Ops</li>
+        <li>Moving cards across a board</li>
+        <li>Reading thru backlogs</li>
+        <li>Associating tickets to PRs</li>
+        <li>Closing out old tickets</li>
+        <li>Reading specs</li>
+        <li>Giving feedback on web standards</li>
+        <li>Eating lunch</li>
+        <li>Taking walks</li>
+        <li>Cleaning my home office</li>
+        </ul>
+        <p>These are all aspects of becoming a better web developer. It’s not always about lines-of-code or hours-in-chair. Ideally, we’re all shipping our creations, but sometimes you’re the lead role and sometimes you’re a supporting role. A lot of the work is immeasurable, but it all counts towards something. So… self, don’t be so hard on yourself.</p>]]>
+      </description>
+      <guid>cid://https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/</guid>
+    </item>    <item>
+      <link>https://buttondown.com/blog/rssrssrssrss</link>
+      <description>
+        <![CDATA[<p>This is a clever app. It combines many RSS feeds into one feed. It's like OPML reading lists in a very low-tech form. Hmmm. Have to think about this.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/11/1037/</guid>
+    </item>    <item>
       <title>It&#39;s really simple</title>
       <link>http://scripting.com/2025/09/11/123936.html?title=itsReallySimple</link>
       <description>
-        <![CDATA[<p>Reminder: <a href="http://scripting.com/2022/09/18.html">Sept 18</a>, one week from today, is the 3rd anniversary of the <a href="http://scripting.com/2022/09/18.html">20th anniversary</a> of the release of RSS 2.0. I often forget to mark that day. It's not an event that's marked by others very often, but in my humble opinion, it deserves more respect than it gets. </p>
-        <p>I decided around the time of the 20th anniversary to swing back and see what more we could do with RSS. It had been sitting there basically going nowhere for most of those 20 years. I want to be clear, there were good and useful products created and supported, but there was none of the innovation that would have happened if it hadn't been so severely injured by Google and the many VC-backed startups hacking away at it, trying to find a billion dollars here and then, and of course all of them seeking world domination and refusing to work with each other. </p>
-        <p>A format like <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> has to be loved. And if you make it too complicated or vague, with too much political shuffling of the deck what you get is ActivityPub. That's what RSS would have become if it went down the path the tech industry wanted to take it down. We have a perfect artifact to look at. An A-B comparison. Couldn't be more stark.</p>
-        <p>But, even after 23 freaking years, RSS is still simple.</p>
+        <![CDATA[<p>Reminder: <a href="http://scripting.com/2022/09/18.html">Sept 18</a>, one week from today, is the 3rd anniversary of the 20th anniversary of the release of RSS 2.0. I often forget to mark that day. It's not an event that's marked by others very often, but in my humble opinion, it deserves more respect than it gets. </p>
+        <p>Around the time of the <a href="http://scripting.com/2022/09/18.html">20th anniversary</a> I decided to swing back and see what more we could do with RSS. It had been sitting there basically going nowhere for most of those 20 years. I want to be clear, there were good and useful products created and supported, but there was none of the innovation that would have happened if it hadn't been so severely injured by Google and the many VC-backed startups hacking away at it.</p>
+        <p>A format like <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> has to be loved. And if you make it too complicated or vague, with too much political shuffling of the deck what you get is ActivityPub. That's what RSS would have become if it went down the path the tech industry wanted to take it down. We have a perfect artifact to look at. An A-B comparison. Couldn't be more stark. And, after almost 23 years, RSS is still simple.</p>
         <p>Anyway, around the 20th anniversary, in the leadup to it, I decided if no one else was going to invest in RSS, I would, and let's see what comes of it.</p>
-        <p>And the result was <a href="https://feedland.com/">FeedLand</a> which is fundamentally different from all the other feed readers in that its subscription model is patterned after the twitter-like social media apps. Everyone's subscription list is public. I can look at your list and you can look at mine. You can also put categories on the feeds you subscribe to and route them to other servers doing other things, through the magic of the web. And get this -- you can even subscribe to a category of my subscriptions. Lots of power there, but still it's simple.</p>
-        <p>FeedLand is the perfect back-end for a twitter-like system, for the feeds part, and for the words part, the perfect back-end is WordPress. I only discovered that about 1.5 years ago. And I had to see what it looks like. No more tiny little text boxes, it's a real editor that supports all the features of the web. How do I know? Because it saves its data in Markdown. That has come to be the defining format for the text-based web. One which has been totally ignored by the twitter-like systems. Amazing how blind they've been. How could they miss that? Markdown is like MP3. If you're mixing sound into your feeds you use MP3 of course. It's  was there for you to use. As was Markdown. If you're mixing text you're mixing Markdown. End of story.</p>
-        <p>So while everyone was dancing on Twitter's burning dumptster of a social network I decided to build on something much bigger. The web. RSS and Markdown. WordPress and FeedLand. </p>
-        <p>BTW, it's also good moment to recall how the name Really Simple Syndication came about. I came up with it. For whatever reason I have a talent for naming things, I also have a process, where most people don't.</p>
-        <p>Really Simple Syndication is supposed to make you smile, while most techie formats make you want to pull your hair out. RSS reads pretty well even if you know nothing about feeds and XML. I wish the browser people hadn't insisted on masking it with ugly CSS style sheets. I like lifting the hood of a car to see what's there even though I don't know what many of the things in there do. I learn by doing it. RSS isn't ugly, it's brilliant, and shouldn't be fear-inducing. Hence the name -- Really Simple. </p>
-        <p>I suppose other things are also Really Simple, but is that their main selling point? It was for RSS, the other formats were to freaking complicated. I know because I considered using all of them. I reasoned that in order for this to work, it has to be so obvious what it does that people will trust it. </p>
-        <p>And if what you want to stress about your thing is that it is Really Simple, I suppose it's okay if you use it too, but please be clear when you do where you got the name, and that you have their blessing to use it as the name of your thing. That's the right way to do it. </p>]]>
+        <p>The result was <a href="https://feedland.com/">FeedLand</a> which is fundamentally different from all the other feed readers in that its subscription model is patterned after the twitter-like social media apps. Everyone's subscription list is public. I can look at your list and you can look at mine. You can also put categories on the feeds you subscribe to and route them to other servers doing other things, through the magic of the web. And get this -- you can even subscribe to a category of my subscriptions. Lots of power there, but still it's simple.</p>
+        <p>FeedLand is the perfect back-end for a twitter-like system, for the feeds part. And for the words, the perfect back-end is <a href="http://scripting.com/2025/08/28/140604.html">WordPress</a>. I only discovered that about 1.5 years ago. And I had to see what it looks like. No more <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>, WordLand is a <a href="https://this.how/wordland/">real editor</a> that supports the basic writing features of the web. How do I know? Because it saves its data in <a href="https://www.markdownguide.org/cheat-sheet/">Markdown</a>. That has come to be the defining format for the text-based web. One which has been totally ignored by the twitter-like systems. Markdown is like MP3. If you're mixing <a href="http://scripting.com/2025/08/20/141957.html">sound into feeds</a> you use MP3 of course. It's there for you to use. As was Markdown. If you're mixing text you're mixing Markdown. </p>
+        <p>So while everyone was dancing on Twitter's <a href="https://en.wikipedia.org/wiki/Dumpster_fire">dumpster fire</a> of a social network I decided to build on something much bigger. The web. RSS and <a href="https://www.markdownguide.org/cheat-sheet/">Markdown</a>. WordPress and FeedLand. </p>
+        <p>The name <i>Really Simple Syndication</i> is supposed to make you smile, while most techie formats make you want to pull your hair out. RSS reads pretty well even if you know nothing about feeds and XML. I wish the browser people hadn't insisted on masking it with ugly CSS style sheets. I like lifting the hood of a car to see what's there even though I don't know what many of the things in there do. I learn by doing it. </p>
+        <p>RSS isn't ugly, it's brilliant, and shouldn't be fear-inducing, hence the promise: it's really simple.</p>
+        <p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/11/123936.html</guid>
     </item>    <item>
@@ -83,6 +177,10 @@
       </description>
       <guid>cid://https://adactio.com/notes/22128</guid>
     </item>    <item>
+      <title>24 is After the Fall</title>
+      <link>https://anildash.com/2025/09/11/24-is-after-the-fall/</link>
+      <guid>cid://https://anildash.com/2025/09/11/24-is-after-the-fall/</guid>
+    </item>    <item>
       <link>https://www.notus.org/north-carolina/north-carolina-stabbing</link>
       <description>
         <![CDATA[<p>Thom Tillis Says He Doesn't Want a White House Crackdown on Charlotte.</p>]]>
@@ -108,7 +206,7 @@
       <enclosure url="https://substackcdn.com/image/fetch/$s_!R6i0!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe96db34a-397b-489e-93c1-20a16c14399c_552x552.png" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/there-is-no-justification-in-america</guid>
     </item>    <item>
-      <title>Another cabinet disgrace</title>
+      <title>Another Cabinet disgrace</title>
       <link>https://robertreich.substack.com/p/another-cabinet-disgrace</link>
       <description>
         <![CDATA[Lori Chavez-DeRemer just revealed the depths of her deceitfulness]]>
@@ -312,7 +410,7 @@
       <title>Remembering R.C. Ward</title>
       <link>https://doc.searls.com/2025/09/09/remembering-r-c-ward/</link>
       <description>
-        <![CDATA[The first thing R.C. Ward taught in our biology class at Guilford College was his eponymous Law: &#8220;If it works, it&#8217;s good.&#8221; He frequently mentioned Ward&#8217;s Law by name and required it as an answer to nearly every test. As Richard Nilson explains here, Professor Ward was not a normal dude: It was 1966 and I was [&#8230;]]]>
+        <![CDATA[The first thing R.C. Ward taught in our biology class at Guilford College was his eponymous Law: &#8220;If it works, it&#8217;s good.&#8221; He frequently mentioned Ward&#8217;s Law by name and required it as an answer to nearly every test. As Richard Nilsen explains here, Professor Ward was not a normal dude: It was 1966 and I was [&#8230;]]]>
       </description>
       <guid>cid://https://doc.searls.com/?p=19386</guid>
     </item>    <item>
