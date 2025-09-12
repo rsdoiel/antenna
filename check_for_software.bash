@@ -44,7 +44,7 @@ exit_code=0
 
 # Check for required software
 check_software_version "CMTools" "cmt"  "0.0.40" "--version" || exit_code=1
-check_software_version "antennaApp" "antenna" "0.0.2" "--version" || exit_code=1
+check_software_version "antennaApp" "antenna" "0.0.4" "--version" || exit_code=1
 check_software_version "Pandoc" "pandoc" "3" "--version" || exit_code=1
 check_software_version "Bash" "bash" "5" "--version" || exit_code=1
 
