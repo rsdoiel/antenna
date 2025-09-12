@@ -19,9 +19,6 @@ done
 
 # Build our search indexes now that we have HTML pages.
 echo "Building the search indexes"
-pagefind \
-  --verbose \
-  --force-language en \
-  --site .
+pagefind  --verbose --force-language en-US
 if [ -d .git ] ; then git add pagefind; fi
 echo "Done $(date)"

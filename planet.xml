@@ -4,10 +4,24 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>12 Sep 25 15:56 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 25 16:07 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Humphreys to launch presidential campaign in Monaghan</title>
+      <link>https://www.rte.ie/news/presidential-election/2025/0913/1533236-heather-humphreys-campaign/</link>
+      <description>
+        <![CDATA[The Fine Gael presidential candidate Heather Humphreys will launch her national campaign at an event in Co Monaghan this morning.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/presidential-election/2025/0913/1533236-heather-humphreys-campaign/</guid>
+    </item>    <item>
+      <title>State treatment of children to dominate Aontú meeting</title>
+      <link>https://www.rte.ie/news/politics/2025/0913/1533239-aontu-think-in/</link>
+      <description>
+        <![CDATA[Aontú is holding its pre-Dáil think-in in Co Kildare with the State's treatment of children topping the agenda.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/politics/2025/0913/1533239-aontu-think-in/</guid>
+    </item>    <item>
       <title>Kielty thanks viewers for support after separation</title>
       <link>https://www.rte.ie/entertainment/2025/0912/1533243-patrick-kielty-late-late-show/</link>
       <description>
