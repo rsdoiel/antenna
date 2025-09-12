@@ -17,10 +17,7 @@ website: .FORCE
 	./website.bash
 
 pagefind: .FORCE
-	pagefind \
-	--verbose \
-	--force-language en \
-	--site .
+	pagefind --verbose --force-language en
 
 clean: .FORCE
 	-rm *.html 2>/dev/null

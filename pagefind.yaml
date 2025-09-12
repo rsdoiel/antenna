@@ -1,5 +1,4 @@
 site: .
-root_selector: section
 exclude_selectors:
   - ".pocket-btn"
   - "#search"
