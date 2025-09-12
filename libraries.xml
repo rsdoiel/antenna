@@ -4,10 +4,26 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>11 Sep 25 16:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.2</generator>
+    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
+    <generator>antenna/0.0.3</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>New Directions in Scholarly Publishing: What We’re Looking Forward to This Year</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/12/new-directions-in-scholarly-publishing-what-were-looking-forward-to-this-year/</link>
+      <description>
+        <![CDATA[<p>What can you expect from this fall’s New Directions in Scholarly Publishing Seminar in Washington, DC?</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/12/new-directions-in-scholarly-publishing-what-were-looking-forward-to-this-year/">New Directions in Scholarly Publishing: What We’re Looking Forward to This Year</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60947</guid>
+    </item>    <item>
+      <title>John Unsworth on Libraries, Higher Education, and Anti-Facism</title>
+      <link>https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/</link>
+      <description>
+        <![CDATA[<p>Last Updated on September 12, 2025, 4:52 am ET John Unsworth retired this month as university librarian and dean of libraries at the University of Virginia (UVA), after more than...</p>
+        <p>The post <a href="https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/">John Unsworth on Libraries, Higher Education, and Anti-Facism</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.arl.org/?p=45000</guid>
+    </item>    <item>
       <title>Student Success Research Featured in Special Edition of Peabody Journal of Education</title>
       <link>https://sr.ithaka.org/blog/student-success-research-featured-in-special-edition-of-peabody-journal-of-education/</link>
       <description>
@@ -543,30 +559,6 @@
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/">What&#8217;s the Magic Word?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60892</guid>
-    </item>    <item>
-      <title>Preserving At-Risk Public Data</title>
-      <link>https://sr.ithaka.org/blog/preserving-access-for-at-risk-public-data/</link>
-      <description>
-        <![CDATA[<p>Federal data are an essential public good, enabling cutting-edge research and underpinning decision making by governments, businesses, and individuals. However, continued public access to these data is no longer assured. Librarians, archivists, and other information professionals dedicated to the preservation and accessibility of knowledge have responded by building an independent infrastructure to preserve at-risk federal data for continued public use.</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/preserving-access-for-at-risk-public-data/">Preserving At-Risk Public Data</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <guid>cid://https://sr.ithaka.org/?p=323432</guid>
-    </item>    <item>
-      <title>The Conscience of a Conservative, by Barry Goldwater</title>
-      <link>https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</link>
-      <description>
-        <![CDATA[A U.S. Senator and future presidential nominee outlines key principles of the 20th century American conservative movement.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative/downloads/barry-goldwater_the-conscience-of-a-conservative.epub?source=feed" length="575900" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/barry-goldwater/the-conscience-of-a-conservative</guid>
-    </item>    <item>
-      <title>Rise of the Machine Readers: What They Really Want to Read</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/21/rise-of-the-machine-readers/</link>
-      <description>
-        <![CDATA[<p>As AI becomes a major consumer of research, scholarly publishing must evolve: from PDFs for people to structured, high-quality data for machines.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/21/rise-of-the-machine-readers/">Rise of the Machine Readers: What They Really Want to Read</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60871</guid>
     </item>
   </channel>
 </rss>
