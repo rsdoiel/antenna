@@ -4,10 +4,122 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>11 Sep 25 16:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.2</generator>
+    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
+    <generator>antenna/0.0.3</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>US House Appropriations Committee saves NASA budget, Prez holds the veto pen</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/nasa_science_gets_a_boost/</link>
+      <description>
+        <![CDATA[<h4>Mars Sample Return mission still for the chop</h4> <p>The US House Appropriations Committee has approved a bill that would maintain NASA&#39;s budget at the same level as last year. However, lawmakers missed an opportunity to strike out the proposed $85 million relocation of a space vehicle to Houston.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241895</guid>
+    </item>    <item>
+      <title>I&#39;m out, says OpenSUSE: We&#39;re dropping bcachefs support from next kernel version</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/opensuse_to_drop_bcachefs_support/</link>
+      <description>
+        <![CDATA[<h4>The first distro vendor to announces its move says nein, danke</h4> <p>The next kernel will have no new bcachefs code – and the openSUSE versions that use that kernel are going further still.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241871</guid>
+    </item>    <item>
+      <title>NSTGRO 2025</title>
+      <link>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2025/</link>
+      <description>
+        <![CDATA[NSTGRO Homepage Andrew ArendsUniversity of California, DavisAstronaut-Powered Laundry Machine Allan AttiaStanford UniversityComputational Modeling of Lithium Magnetoplasmadynamic Thruster for Nuclear Electric Propulsion Michael AuthUniversity of California, Santa BarbaraNon-Contact, Real-Time Diagnostics of Battery Aging in 18650 Cells During the Lunar Night Using Acoustic Spectroscopy Nicholas BrennanCornell UniversitySpin Wave-Based Neuromorphic Coprocessor for Advanced AI Applications John CarterPurdue UniversitySpectroscopic [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=912301</guid>
+    </item>    <item>
+      <title>Google lands £400M MoD contract for secure UK cloud services</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/google_cloud_mod_contract/</link>
+      <description>
+        <![CDATA[<h4>Deal promises sovereign datacenters, AI, and cybersecurity to strengthen communication links with US</h4> <p>The UK&#39;s Ministry of Defence has signed a £400 million ($540 million) contract with Google sovereign cloud to support security and analytics workloads.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241896</guid>
+    </item>    <item>
+      <title>You can actually stop Windows Explorer from flashbanging you in dark mode</title>
+      <link>https://www.osnews.com/story/143318/you-can-actually-stop-windows-explorer-from-flashbanging-you-in-dark-mode/</link>
+      <description>
+        <![CDATA[One of the most annoying things I encountered while trying out Windows 11 a few months ago was the utterly broken dark mode; broken since its inception nine years ago, but finally getting some fixes. One of the smaller but downright disturbing issues with dark mode on Windows 11 is that when Explorer is in dark mode, it will flash bright white whenever you open a new window or a new tab. It&#8217;s like the operating system is throwing flashbangs at you every time you need to do some file management. Luckily, it turns out there&#8217;s a fix, as Neowin details. Windows 11 is turning four in a couple of months, but Microsoft still has not fixed this annoying and, for some people, legitimately life-threatening bug (there is a reason why we have seizure warnings in games, movies, etc). As such, users have to take things into their hands and come up with custom solutions. One such solution is a simple Windhawk mod that fixes what a nearly four-trillion-dollar company still won&#8217;t figure out. ↫ Taras Buria at Neowin This made me check out Windhawk, and it seems like an awesome project for people forced to use Windows. It is basically a package manager for various small mods, fixes, and changes for Windows, allowing you to mix and match exactly what you need. This way, you can easily fix the little niggles that bother you, all from a central location. The list of available mods is quite long already, and browsing through it, I&#8217;ve already seen quite a few things I&#8217;d be applying in a heartbeat if I were to be using Windows. Every mod comes with its source code included, ensuring you can check that it does exactly what it says it will do, and of course, you can contribute your own mods as well.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143318</guid>
+    </item>    <item>
+      <title>EU regulators let Microsoft off the hook after Teams unbundling pledge</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/eu_regulators_let_microsoft_off/</link>
+      <description>
+        <![CDATA[<h4>Slack&#39;s complaint sparked a five-year investigation, but Redmond walks away fine-free</h4> <p>The EU has signed off on Microsoft&#39;s concessions over Teams bundling, letting Redmond dodge a monster antitrust fine in a deal that will barely rock the boat for anyone.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241894</guid>
+    </item>    <item>
+      <title>Hubble Surveys Cloudy Cluster</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/</link>
+      <description>
+        <![CDATA[This new NASA/ESA Hubble Space Telescope image features a cloudy starscape from an impressive star cluster. This scene is in the Large Magellanic Cloud, a dwarf galaxy situated about 160,000 light-years away in the constellations Dorado and Mensa. With a mass equal to 10–20% of the mass of the Milky Way, the Large Magellanic Cloud […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/</guid>
+    </item>    <item>
+      <title>PAW Participant Discussion</title>
+      <link>https://www.nasa.gov/events/paw-participant-discussion/</link>
+      <description>
+        <![CDATA[Participants are encouraged to dialogue before, during, and after the workshop. Contact the organizing committee for further questions.]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=migration&#38;p=908842</guid>
+    </item>    <item>
+      <title>Drag Prediction Workshop Series</title>
+      <link>https://www.nasa.gov/general/aiaa-dpw/</link>
+      <description>
+        <![CDATA[The Drag Prediction Workshop series is an extensive international effort to improve transonic aerodynamic predictions. This long-running collaborative effort seeks to mobilize the international aerospace community to improve the computational methods and tools to predict transonic aircraft performance, particularly drag. More details on the workshop can be found at the workshop website: https://www.aiaa-dpw.org NASA has [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=902885</guid>
+    </item>    <item>
+      <title>Privacy activists warn digital ID won’t stop small boats – but will enable mass surveillance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/privacy_activists_warn_uk_digital_id_risks/</link>
+      <description>
+        <![CDATA[<h4>Big Brother Watch says a so-called BritCard could turn daily life into one long identity check – and warn that Whitehall can’t be trusted to run</h4> <p>A national digital ID could hand the government the tools for population-wide surveillance – and if history is anything to go by, ministers probably couldn&#39;t run it without cocking it up.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241892</guid>
+    </item>    <item>
+      <title>Hack to school: Parents told to keep their little script kiddies in line</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/students_school_cyberattacks/</link>
+      <description>
+        <![CDATA[<h4>UK data watchdog says students behind most education cyberattacks</h4> <p>The UK&#39;s data protection watchdog says more than half of cyberattacks in schools are caused by students, and that parents should act early to prevent their offspring from falling into the wrong crowds.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241890</guid>
+    </item>    <item>
+      <title>Terminators: AI-driven robot war machines on the march</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/terminators_aidriven_robot_war_machines/</link>
+      <description>
+        <![CDATA[<h4>Science fiction? Battle bots already used in Ukraine</h4> <p><strong>Opinion</strong>  I&#39;ve read military science fiction since I was a kid. Besides the likes of Robert A. Heinlein&#39;s <em><a target="_blank" href="https://search.worldcat.org/title/1533442891">Starship Troopers</a></em>, Joe Haldeman&#39;s <em><a target="_blank" href="https://search.worldcat.org/title/1007845632">The Forever War</a></em>, and David Drake&#39;s <em><a target="_blank" href="https://search.worldcat.org/title/677257569">Hammer&#39;s Slammers</a></em> books, where people held the lead roles, I read novels such as Keith Laumer&#39;s <a target="_blank" href="https://search.worldcat.org/title/1000455249">Bolo series</a> and Fred Saberhagen&#39;s Berserker space opera sf series, where machines are the protagonists and enemies. Even if you&#39;ve never read war science fiction, you certainly at least know about Terminators. But what was once science fiction is now reality on the Ukrainian battlefields. It won&#39;t stop there.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241864</guid>
+    </item>    <item>
+      <title>Huntress&#39;s &#39;hilarious&#39; attacker surveillance splits infosec community</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/huntress_attacker_surveillance/</link>
+      <description>
+        <![CDATA[<h4>Ethical concerns raised after crook offered themselves up on silver platter</h4> <p>Security outfit Huntress has been forced onto the defensive after its latest research – described by senior staff as &#34;hilarious&#34; – split opinion across the cybersecurity community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241869</guid>
+    </item>    <item>
+      <title>‘IT manager’ needed tech support because they had never heard of a command line</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/on_call/</link>
+      <description>
+        <![CDATA[<h4>Traceroute was also a mystery to this mountebank</h4> <p><strong>On Call</strong>  The very premise on which <em>The Register</em> is built is that our readers know quite a lot about information technology, and that stories featured each Friday in On Call – our weekly tales of your support experiences – therefore reflect your working lives.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241857</guid>
+    </item>    <item>
+      <title>Albania’s prime minister wants to appoint an AI to his ministry</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/albania_ai_minister/</link>
+      <description>
+        <![CDATA[<h4>Incorruptible e-government AnswerBot ‘Djella’, which reportedly runs in Azure, given job of running public procurement</h4> <p>Albania’s prime minister has proposed appointing an artificial intelligence as a minister.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241887</guid>
+    </item>    <item>
+      <title>Proxmox delivers datacenter manager beta that makes it a more viable VMware contender</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/proxmox_datacenter_manager/</link>
+      <description>
+        <![CDATA[<h4>One console to manage multiple clusters is table stakes, but some users are betting on mixed environments</h4> <p>Open source virtualization suite Proxmox has taken an important step towards becoming a stronger contender for those considering VMware alternatives by commencing beta testing for a datacenter management tool that can control multiple hardware clusters.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241886</guid>
+    </item>    <item>
       <title>Outlook outage over North America, Microsoft scrambles to respond</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/11/outlook_outage_microsoft/</link>
       <description>
@@ -232,6 +344,13 @@
       </description>
       <guid>cid://tag:theregister.com,2005:story241861</guid>
     </item>    <item>
+      <title>Neo4j&#39;s property sharding&#39; promises to overcome scalability struggle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/11/neo4j_property_sharding_to_address_scalability_challenge/</link>
+      <description>
+        <![CDATA[<h4>Graph database fave also punts for transactional workloads</h4> <p>Neo4j has introduced &#34;property sharding&#34; which, according to one analyst, will help overcome its earlier struggles with scalability, while also allowing transactional workloads on the same system.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241862</guid>
+    </item>    <item>
       <title>Neo4j cozies up to Microsoft as &#39;property sharding&#39; promises to overcome scalability struggle</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/11/neo4j_cozies_up_to_microsoft/</link>
       <description>
@@ -312,7 +431,7 @@
       <title>Beijing went to &#39;EggStreme&#39; lengths to attack Philippines military, researchers say</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/11/eggstreme_malware_china_philippines/</link>
       <description>
-        <![CDATA[<h4>Ovoid-themed in-memory malware offers a menu for mayhem</h4> <p>‘EggStreme’ framework looks like the sort of thing Beijing would find handy in its ongoing territorial beefs Infosec outfit Bitdefender says it’s spotted a strain of in-memory malware that looks like the work of Chinese advanced persistent threat groups that wanted to achieve persistent access at a “military company” in the Philippines.…</p>]]>
+        <![CDATA[<h4>Ovoid-themed in-memory malware offers a menu for mayhem</h4> <p>Infosec outfit Bitdefender says it’s spotted a strain of in-memory malware that looks like the work of Chinese advanced persistent threat groups that wanted to achieve persistent access at a “military company” in the Philippines.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241855</guid>
     </item>    <item>
@@ -1802,41 +1921,6 @@
       <title>This month in Servo: new image formats, canvas backends, automation, and more!</title>
       <link>https://servo.org/blog/2025/08/22/this-month-in-servo/</link>
       <guid>cid://https://servo.org/blog/2025/08/22/this-month-in-servo/</guid>
-    </item>    <item>
-      <title>Two Friends Went Fishing on the Mississippi River. Police Say They May Have Just Solved a 1967 Cold Case</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-friends-went-fishing-on-the-mississippi-river-police-say-they-may-have-just-solved-a-1967-cold-case-180987215/</link>
-      <description>
-        <![CDATA[Investigators pulled a 1960s Buick sedan from the waterway in central Minnesota that provides new details about a man’s disappearance more than 50 years ago]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/fRs0E0M8KC0V5GaFIY84KnxVo-g=/420x240/filters:focal(720x542:721x543)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/ad/57ad17a7-19ab-4d96-8df5-6493ac66d895/police.jpg" length="" type="" />
-    </item>    <item>
-      <title>These Big, Meat-Eating Bats Also Have a Cuddly Side. Rare Videos Reveal &#39;Hugging,&#39; Playing and Sharing Food</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-big-meat-eating-bats-also-have-a-cuddly-side-rare-videos-reveal-hugging-playing-and-sharing-food-180987218/</link>
-      <description>
-        <![CDATA[Scientists observed a family of four spectral bats in their roost in a tree in Costa Rica, capturing an inside look at their social behavior]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/uydHg1tjL7vz8ZtAeYDRpCyQVvo=/420x240/filters:focal(1378x1496:1379x1497)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2c/33/2c336c9a-6771-4183-8423-be479745e7b0/social_roosting_of_the_spectral_bats_vamyprum_spectrum.jpg" length="" type="" />
-    </item>    <item>
-      <title>Cows, Hikers and Mountain Bikers Coexist at This National Monument, With Help From New Technology</title>
-      <link>https://www.smithsonianmag.com/smart-news/cows-hikers-and-mountain-bikers-coexist-at-this-national-monument-with-help-from-new-technology-180987209/</link>
-      <description>
-        <![CDATA[Established in 2017, the Cotoni-Coast Dairies national monument in California is now open to the public]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/UBfwZJjm_nuXbz60pzYL5jcXMcg=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/c2/8cc24a2e-43ab-4cf5-9b1e-5a55564399a9/15650124019_626490c0f4_k.jpg" length="" type="" />
-    </item>    <item>
-      <title>1.04-Million-Year-Old Stone Tools Found on Indonesian Island Offer Clues About Some of the Region&#39;s Earliest Human Relatives</title>
-      <link>https://www.smithsonianmag.com/smart-news/1-04-million-year-old-stone-tools-found-on-indonesian-island-offer-clues-about-some-of-the-regions-earliest-human-relatives-180987129/</link>
-      <description>
-        <![CDATA[The toolmakers or their ancestors might have arrived on Sulawesi by clinging to vegetation during a storm, but their identities remain a mystery]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cybtIBdK4dX_JOmmHwZ7W9TcG00=/420x240/filters:focal(828x627:829x628)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1c/50/1c501b03-db30-476d-98d0-7bcad802a574/screenshot_2025-08-21_at_123701pm.png" length="" type="" />
-    </item>    <item>
-      <title>Someone Returned a Library Book That Their Grandmother Checked Out Eight Decades Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/someone-returned-a-library-book-that-their-grandmother-checked-out-eight-decades-ago-180987216/</link>
-      <description>
-        <![CDATA[The San Antonio Public Library received the book in the mail along with a letter: "I hope there is no late fee for it because Grandma won't be able to pay for it anymore"]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/cgfayvRud6CQqyHVIhAJ8_Vk9lM=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/b0/3db01aee-9f00-440f-be15-507d0be446b9/book.jpg" length="" type="" />
     </item>
   </channel>
 </rss>
