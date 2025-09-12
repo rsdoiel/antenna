@@ -1,13 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="https://rsdoiel.github.io/antenna/food.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rsdoiel.github.io/antenna/food.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Food</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.3</generator>
+    <lastBuildDate>12 Sep 25 15:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Walmart Just Dropped the Pioneer Woman Fall Collection—And It’s Already Selling Out</title>
+      <link>https://www.tasteofhome.com/article/pioneer-woman-fall-collection-2025/</link>
+      <description>
+        <![CDATA[<p>Shop quickly—the most popular items (looking at you, pumpkin Dutch oven) are already selling out!</p>
+        <p>The post <a href="https://www.tasteofhome.com/article/pioneer-woman-fall-collection-2025/">Walmart Just Dropped the Pioneer Woman Fall Collection—And It&#8217;s Already Selling Out</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.tasteofhome.com/?p=2182881</guid>
+    </item>    <item>
+      <title>The Best Silverware Sets, Tested &#38; Reviewed (2025)</title>
+      <link>https://www.bonappetit.com/story/best-silverware-sets</link>
+      <description>
+        <![CDATA[There’s even one for people who hate big spoons.]]>
+      </description>
+      <guid>cid://671162dbe699d9e53a69d7c5</guid>
+    </item>    <item>
+      <title>Onyx Coffee Labs &#38; (RED) Partner To Launch Limited-Edition (ONYX)RED Coffee Box</title>
+      <link>https://sprudge.com/onyx-coffee-labs-red-partner-to-launch-limited-edition-onyxred-coffee-box-424062.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. (ONYX)RED is available now for pre-order.]]>
+      </description>
+      <guid>cid://https://sprudge.com/?p=424062</guid>
+    </item>    <item>
+      <title>Looking For Some Sweet Coffee Gear? Our New Feature Series Has You Covered</title>
+      <link>https://sprudge.com/looking-for-some-sweet-coffee-gear-our-new-feature-series-has-you-covered-424042.html</link>
+      <description>
+        <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated selection of coffee gear.]]>
+      </description>
+      <guid>cid://https://sprudge.com/?p=424042</guid>
+    </item>    <item>
+      <title>How to Shop at Costco for a Small Household</title>
+      <link>https://www.tasteofhome.com/collection/costco-shopping-small-household/</link>
+      <description>
+        <![CDATA[<p>Shopping at Costco doesn’t have to mean buying huge jars of mayo or a dozen boxes of cereal. Here’s how to shop for a small household.</p>
+        <p>The post <a href="https://www.tasteofhome.com/collection/costco-shopping-small-household/">How to Shop at Costco for a Small Household</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.tasteofhome.com/?post_type=listicle&#38;p=2180804</guid>
+    </item>    <item>
+      <title>Weekly Coffee News: Opening a Coffee Shop Advice + Help Sepia Coffee Project Grow</title>
+      <link>https://dailycoffeenews.com/2025/09/12/weekly-coffee-news-opening-a-coffee-shop-advice-help-sepia-coffee-project-grow/</link>
+      <description>
+        <![CDATA[<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-shop-620x436.jpg" class="attachment-large size-large wp-post-image" alt="coffee shop" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-shop-620x436.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-shop-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-shop-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-shop-768x539.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/09/coffee-shop.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. &#160; What You Need to Know Before Opening Your...]]>
+      </description>
+      <guid>cid://https://dailycoffeenews.com/?p=190728</guid>
+    </item>    <item>
       <title>The 17th Annual Grounds For Health Auction Is Next Week</title>
       <link>https://sprudge.com/the-17th-annual-grounds-for-health-auction-is-next-week-423996.html</link>
       <description>
@@ -134,7 +178,7 @@
       <title>Study: Drinking Coffee at Night May Cause Impulsive Behavior</title>
       <link>https://dailycoffeenews.com/2025/09/11/study-drinking-coffee-at-night-may-cause-impulsive-behavior/</link>
       <description>
-        <![CDATA[<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-620x450.jpg" class="attachment-large size-large wp-post-image" alt="coffee at night" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from a team at the&#160;University of Texas at El Paso suggests drinking coffee at night may lead to more risky and impulsive decisions.&#160; Published Aug. 15...]]>
+        <![CDATA[<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-620x450.jpg" class="attachment-large size-large wp-post-image" alt="coffee at night" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/coffee-at-night.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; A recent study from a team at the&#160;University of Texas at El Paso suggests drinking coffee at night may lead to more risky and impulsive decisions.&#160; Published Aug. 15...]]>
       </description>
       <guid>cid://https://dailycoffeenews.com/?p=190335</guid>
     </item>    <item>
@@ -209,7 +253,7 @@
       <title>New Research Shows Promise for Stenophylla Breeding</title>
       <link>https://dailycoffeenews.com/2025/09/10/new-research-shows-promise-for-stenophylla-breeding/</link>
       <description>
-        <![CDATA[<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-620x400.png" class="attachment-large size-large wp-post-image" alt="Untitled-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>&#160; As the climate-sensitive arabica coffee species continues to face long-term existential threats, research from Sierra Leone sheds new light on the breeding potential of another species, stenophylla.&#160; Published Aug....]]>
+        <![CDATA[<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-620x400.png" class="attachment-large size-large wp-post-image" alt="Untitled-2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/08/Untitled-2.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>&#160; As the climate-sensitive arabica coffee species continues to face long-term existential threats, research from Sierra Leone sheds new light on the breeding potential of another species, stenophylla.&#160; Published Aug....]]>
       </description>
       <guid>cid://https://dailycoffeenews.com/?p=190316</guid>
     </item>    <item>

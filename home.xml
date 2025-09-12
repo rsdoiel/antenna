@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="https://rsdoiel.github.io/antenna/home.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rsdoiel.github.io/antenna/home.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Home, Garden and Urban Farm</title>
     <link>https://rsdoiel.github.io/antenna/home.xml</link>
-    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.3</generator>
+    <lastBuildDate>12 Sep 25 15:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>32 Delicious Ways to Savor Apple Season</title>
+      <link>https://www.sunset.com/food-wine/kitchen-assistant/easy-delicious-apple-recipes</link>
+      <description>
+        <![CDATA[Dive into the fall season with these easy, delicious apple recipes, like pork chops with sauteed apples and apple crips.]]>
+      </description>
+      <guid>cid://https://www.sunset.com/?p=1005</guid>
+    </item>    <item>
+      <title>19 Lizards in Oklahoma (With Pictures and Identification)</title>
+      <link>https://ownyardlife.com/19-lizards-in-oklahoma-with-pictures-and-identification/</link>
+      <description>
+        <![CDATA[<p>Lizards in Oklahoma showcase remarkable diversity, ranging from fast-moving racerunners to secretive skinks and vibrant collared lizards. These reptiles thrive ... </p>
+        <p class="read-more-container"><a title="19 Lizards in Oklahoma (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/19-lizards-in-oklahoma-with-pictures-and-identification/#more-35288" aria-label="Read more about 19 Lizards in Oklahoma (With Pictures and Identification)">Read more</a></p>
+        <p>The post <a href="https://ownyardlife.com/19-lizards-in-oklahoma-with-pictures-and-identification/">19 Lizards in Oklahoma (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>]]>
+      </description>
+      <guid>cid://https://ownyardlife.com/?p=35288</guid>
+    </item>    <item>
+      <title>3 Types of Wild Cats in Texas (With Pictures and Identification)</title>
+      <link>https://ownyardlife.com/3-types-of-wild-cats-in-texas-with-pictures-and-identification/</link>
+      <description>
+        <![CDATA[<p>Texas is home to a fascinating variety of wild cats, ranging from the elusive bobcat to the majestic mountain lion. ... </p>
+        <p class="read-more-container"><a title="3 Types of Wild Cats in Texas (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/3-types-of-wild-cats-in-texas-with-pictures-and-identification/#more-35281" aria-label="Read more about 3 Types of Wild Cats in Texas (With Pictures and Identification)">Read more</a></p>
+        <p>The post <a href="https://ownyardlife.com/3-types-of-wild-cats-in-texas-with-pictures-and-identification/">3 Types of Wild Cats in Texas (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>]]>
+      </description>
+      <guid>cid://https://ownyardlife.com/?p=35281</guid>
+    </item>    <item>
+      <title>It’s Official: Hawaii Is the Happiest State in the U.S.</title>
+      <link>https://www.sunset.com/lifestyle/wellness/happiest-states-in-us-2025</link>
+      <description>
+        <![CDATA[A report from WalletHub found that the happiest state in the U.S. is Hawaii, with its residents reporting high levels of life satisfaction.]]>
+      </description>
+      <guid>cid://https://www.sunset.com/?p=196940</guid>
+    </item>    <item>
       <title>28 Types of Dragonflies in Colorado (Pictures and Identification)</title>
       <link>https://ownyardlife.com/28-types-of-dragonflies-in-colorado-pictures-and-identification/</link>
       <description>
@@ -25,6 +57,20 @@
         <p>The post <a href="https://ownyardlife.com/10-biting-ants-in-tennessee-with-pictures-and-identification/">10 Biting Ants in Tennessee (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>]]>
       </description>
       <guid>cid://https://ownyardlife.com/?p=35272</guid>
+    </item>    <item>
+      <title>These New Floral Retreats are the Bloom-Based Vacations of Your Dreams</title>
+      <link>https://www.sunset.com/travel/farmlux-retreats</link>
+      <description>
+        <![CDATA[These new retreats visit some of the most flower focused destinations in the West including Orcas Island, Willamette Valley, and B.C.]]>
+      </description>
+      <guid>cid://https://www.sunset.com/?p=197112</guid>
+    </item>    <item>
+      <title>This Beautiful New Book Captures the Essence of the California Dream</title>
+      <link>https://www.sunset.com/lifestyle/culture/c-magazine-california-dream-state-review</link>
+      <description>
+        <![CDATA[The enduring appeal of the Golden State is captured in a gorgeous new book from the editors of C Magazine.]]>
+      </description>
+      <guid>cid://https://www.sunset.com/?p=197132</guid>
     </item>    <item>
       <title>3 Types of Deer in Nevada (With Pictures and Identification)</title>
       <link>https://ownyardlife.com/3-types-of-deer-in-nevada-with-pictures-and-identification/</link>
@@ -172,13 +218,6 @@
       </description>
       <guid>cid://https://www.sunset.com/?p=193783</guid>
     </item>    <item>
-      <title>32 Delicious Ways to Savor Apple Season</title>
-      <link>https://www.sunset.com/food-wine/kitchen-assistant/easy-delicious-apple-recipes</link>
-      <description>
-        <![CDATA[Dive into the fall season with these easy, delicious apple recipes, like pork chops with sauteed apples and apple crips.]]>
-      </description>
-      <guid>cid://https://www.sunset.com/?p=1005</guid>
-    </item>    <item>
       <title>4 Types of Falcons in Vermont (With Pictures and Identification)</title>
       <link>https://ownyardlife.com/4-types-of-falcons-in-vermont-with-pictures-and-identification/</link>
       <description>
@@ -210,13 +249,6 @@
         <![CDATA[Whisk away to an Italian seaside town—minus the jet lag—at these Bay Area bars where aperitivo hour replaces happy hour.]]>
       </description>
       <guid>cid://https://www.sunset.com/?p=197083</guid>
-    </item>    <item>
-      <title>These New Floral Retreats are the Bloom-Based Vacations of Your Dreams</title>
-      <link>https://www.sunset.com/travel/farmlux-retreats</link>
-      <description>
-        <![CDATA[These new retreats visit some of the most flower focused destinations in the West including Orcas Island, Willamette Valley, and B.C.]]>
-      </description>
-      <guid>cid://https://www.sunset.com/?p=197112</guid>
     </item>    <item>
       <title>How to Grow and Care for Showy Garden Croton</title>
       <link>https://gardenerspath.com/how-to/indoor-gardening/garden-croton/</link>
@@ -542,13 +574,6 @@
         <p>The post <a href="https://www.familyhandyman.com/list/building-and-house-wrap-installation-tips/">14 Essential Tips For Installing House Wrap Correctly</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>]]>
       </description>
       <guid>cid://http://bcp.rda.net/?post_type=slicklist&#38;p=51</guid>
-    </item>    <item>
-      <title>It’s Official: Hawaii Is the Happiest State in the U.S.</title>
-      <link>https://www.sunset.com/lifestyle/wellness/happiest-states-in-us-2025</link>
-      <description>
-        <![CDATA[A report from WalletHub found that the happiest state in the U.S. is Hawaii, with its residents reporting high levels of life satisfaction.]]>
-      </description>
-      <guid>cid://https://www.sunset.com/?p=196940</guid>
     </item>    <item>
       <title>2 Types of Wild Rabbits in Massachusetts (Pictures and ID Guide)</title>
       <link>https://ownyardlife.com/2-types-of-wild-rabbits-in-massachusetts-pictures-and-id-guide/</link>

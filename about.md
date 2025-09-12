@@ -11,7 +11,7 @@ authors:
 
 
 repository_code: git+https://github.com/rsdoiel/antenna
-version: 0.0.6
+version: 0.0.7
 license_url: https://www.gnu.org/licenses/agpl-3.0.txt
 
 programming_language:
@@ -28,15 +28,15 @@ keywords:
   - website
   - static
 
-date_released: 2025-09-09
+date_released: 2025-09-12
 ---
 
 About this software
 ===================
 
-## antenna 0.0.6
+## antenna 0.0.7
 
-Now curated with antennaApp v0.0.2 and Pandoc 3.1.
+Now curated with antennaApp v0.0.4 and Pandoc 3.1.
 
 ### Authors
 
@@ -68,7 +68,7 @@ and either Bash or PowerShell.
 
 ### Software Requirements
 
-- antennaApp >= 0.0.2
+- antennaApp >= 0.0.4
 - Pandoc >= 3.1
 - Bash or Powershell (Windows)
 

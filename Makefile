@@ -5,7 +5,7 @@ PROJECT = Antenna
 
 VERSION = $(shell grep '"version":' codemeta.json | cut -d\"  -f 4)
 
-build: CITATION.cff about.md check_for_software harvest website
+build: CITATION.cff about.md check_for_software website
 
 check_for_software: .FORCE
 	./check_for_software.bash
@@ -59,8 +59,8 @@ release: .FORCE
 	cp -v check_for_software.* dist/
 	cp -v harvest.* dist/
 	cp -v website.* dist/
-	cp -v front_page_example.yaml dist/front_page.yaml
-	cp -v other_reading_example.yaml dist/other_reading.yaml
+	cp -v front_page.yaml dist/
+	cp -v other_reading.yaml dist/
 	cp -v pagefind.yaml dist/
 	cd dist && zip -r $(PROJECT)-$(VERSION).zip LICENSE *.md *.yaml *.bash *.ps1 *.tmpl *.lua css modules media
 	printf "\nready to run\n\n\trelease.bash\n\n"

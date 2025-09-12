@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rsdoiel.github.io/antenna/libraries.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.3</generator>
+    <lastBuildDate>12 Sep 25 15:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Blind Mice, by C. Kay Scott</title>
+      <link>https://standardebooks.org/ebooks/c-kay-scott/blind-mice</link>
+      <description>
+        <![CDATA[A woman struggles to save her friendships and her marriage when her difficult and melodramatic mother comes for an extended visit.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/c-kay-scott/blind-mice/downloads/c-kay-scott_blind-mice.epub?source=feed" length="775590" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/c-kay-scott/blind-mice</guid>
+    </item>    <item>
       <title>New Directions in Scholarly Publishing: What We’re Looking Forward to This Year</title>
       <link>https://scholarlykitchen.sspnet.org/2025/09/12/new-directions-in-scholarly-publishing-what-were-looking-forward-to-this-year/</link>
       <description>
@@ -16,13 +24,29 @@
       </description>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60947</guid>
     </item>    <item>
-      <title>John Unsworth on Libraries, Higher Education, and Anti-Facism</title>
+      <title>John Unsworth on Libraries, Higher Education, and Anti-Fascism</title>
       <link>https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 12, 2025, 4:52 am ET John Unsworth retired this month as university librarian and dean of libraries at the University of Virginia (UVA), after more than...</p>
-        <p>The post <a href="https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/">John Unsworth on Libraries, Higher Education, and Anti-Facism</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+        <![CDATA[<p>Last Updated on September 12, 2025, 1:12 pm ET John Unsworth retired this month as university librarian and dean of libraries at the University of Virginia (UVA), after more than...</p>
+        <p>The post <a href="https://www.arl.org/blog/john-unsworth-on-libraries-higher-education-and-anti-facism/">John Unsworth on Libraries, Higher Education, and Anti-Fascism</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=45000</guid>
+    </item>    <item>
+      <title>The Bridal Wreath, by Sigrid Undset</title>
+      <link>https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott</link>
+      <description>
+        <![CDATA[In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/sigrid-undset_the-bridal-wreath_charles-archer-j-s-scott.epub?source=feed" length="909754" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott</guid>
+    </item>    <item>
+      <title>Short Fiction, by Clifford D. Simak</title>
+      <link>https://standardebooks.org/ebooks/clifford-d-simak/short-fiction</link>
+      <description>
+        <![CDATA[A collection of short fiction by Clifford D. Simak, ordered by date of original publication.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/clifford-d-simak_short-fiction.epub?source=feed" length="527810" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/clifford-d-simak/short-fiction</guid>
     </item>    <item>
       <title>Student Success Research Featured in Special Edition of Peabody Journal of Education</title>
       <link>https://sr.ithaka.org/blog/student-success-research-featured-in-special-edition-of-peabody-journal-of-education/</link>
@@ -231,7 +255,7 @@
       <description>
         <![CDATA[A young man visits his cousin in a sanitarium in the mountains, only to see himself become one of its patients.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/downloads/thomas-mann_the-magic-mountain_h-t-lowe-porter.epub?source=feed" length="1392969" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/downloads/thomas-mann_the-magic-mountain_h-t-lowe-porter.epub?source=feed" length="1392997" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter</guid>
     </item>    <item>
       <title>The End of the Tether, by Joseph Conrad</title>
@@ -247,7 +271,7 @@
       <description>
         <![CDATA[A boy goes on a journey of spiritual growth.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/hermann-hesse_demian_n-h-priday.epub?source=feed" length="683949" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday/downloads/hermann-hesse_demian_n-h-priday.epub?source=feed" length="683948" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</guid>
     </item>    <item>
       <title>Wild Animals I Have Known, by Ernest Thompson Seton</title>
@@ -463,7 +487,7 @@
       <description>
         <![CDATA[A young doctor attempts to turn a mysterious death to his romantic advantage.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/j-s-fletcher_the-paradise-mystery.epub?source=feed" length="623099" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/j-s-fletcher_the-paradise-mystery.epub?source=feed" length="623100" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</guid>
     </item>    <item>
       <title>Building Stronger Library Partnerships</title>
@@ -549,7 +573,7 @@
       <description>
         <![CDATA[A young woman longs to find a husband who can deliver her from her unexciting rural life.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native/downloads/thomas-hardy_the-return-of-the-native.epub?source=feed" length="1208112" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native/downloads/thomas-hardy_the-return-of-the-native.epub?source=feed" length="1208373" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</guid>
     </item>    <item>
       <title>What’s the Magic Word?</title>

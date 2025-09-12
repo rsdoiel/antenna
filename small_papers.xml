@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="https://rsdoiel.github.io/antenna/small_papers.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rsdoiel.github.io/antenna/small_papers.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Small Papers</title>
     <link>https://rsdoiel.github.io/antenna/small_papers.xml</link>
-    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.3</generator>
+    <lastBuildDate>12 Sep 25 15:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>With over 150 problem vacant lots, Long Beach will run an experiment to address them</title>

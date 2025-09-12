@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<atom:link href="https://rsdoiel.github.io/antenna/journalism.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rsdoiel.github.io/antenna/journalism.xml" rel="self" type="application/rss+xml" />
   <channel>
     <title>Journalism</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>12 Sep 25 06:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.3</generator>
+    <lastBuildDate>12 Sep 25 15:46 -0700</lastBuildDate>
+    <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Stacy Johns on and off the pitch</title>
+      <link>https://sundial.csun.edu/196735/sports/stacy-johns-on-and-off-the-pitch/</link>
+      <description>
+        <![CDATA[When she first started working in the NFL, Stacy Johns found herself to be one of a handful of women in a room surrounded by men. Johns said there were...]]>
+      </description>
+      <guid>cid://http://sundial.csun.edu/?p=196735</guid>
+    </item>    <item>
+      <title>Album review: Mitch Rowland contrasts musical styles in new album ‘Whistling Pie’</title>
+      <link>https://dailybruin.com/2025/09/12/album-review-mitch-rowland-contrasts-musical-styles-in-new-album-whistling-pie/</link>
+      <description>
+        <![CDATA[<em>This post was updated Sept. 12 at 1:32 p.m.</em>
+        Mitch Rowland steps to the center stage with his sophomore album.
+        While “Come June” felt like a vulnerable project presented as if overhearing a personal conversation, “Whistling Pie” is meant to be shared with the world.]]>
+      </description>
+      <guid>cid://https://dailybruin.com/?p=493196</guid>
+    </item>    <item>
+      <title>Students demand transparency following Kappa Sigma suspension as distrust festers</title>
+      <link>https://dailybruin.com/2025/09/12/students-demand-transparency-following-kappa-sigma-suspension-as-distrust-festers/</link>
+      <description>
+        <![CDATA[For fraternities and sororities, secrecy is touted as something that can fortify bonds.
+        But what happens when that secrecy erodes trust – not only in Greek life, but across UCLA?]]>
+      </description>
+      <guid>cid://https://dailybruin.com/?p=493191</guid>
+    </item>    <item>
       <title>Panel on Gen Z voters unpacks a disconnect with democracy</title>
       <link>https://dailytrojan.com/2025/09/12/panel-on-gen-z-voters-unpacks-a-disconnect-with-democracy/</link>
       <description>

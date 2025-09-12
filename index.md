@@ -15,8 +15,7 @@ Collection                                          Description of Posts        
 [Pacific](pacific.html)                             Micronesia, Hawaii and the Pacific                                 [pacific.md](pacific.md)
 [Planet](planet.html)                               Planet News                                                        [planet.md](planet.md)
 [Science & Technology](science_and_technology.html) Science and Technology                                             [science_and_technology.md](science_and_technology.md)
-[Columns](columns.html)                             Frequent Pocket additions                                          [columns.md](columns.md)
-[Snapshots](snapshots.html)                         Snapshots around the web                                           [snapshots.md](snapshots.md)
+[Columns](columns.html)                             Snapshots from around the web                                      [columns.md](columns.md)
 [Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
 
 
