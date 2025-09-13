@@ -4,7 +4,7 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>12 Sep 25 16:11 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 25 20:08 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -2073,45 +2073,6 @@
         <![CDATA[Researchers observed a supernova in progress that showed the onion-like structure of elements in stars, and the explosion may belong to a class of its own]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CX9mPsNnHsTNPF5F2xkh2mvSpvc=/420x240/filters:focal(600x554:601x555)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/8a/7f8add4b-0fb7-46dd-bdeb-d77ad5b99482/sn2021yfj.png" length="" type="" />
-    </item>    <item>
-      <title>These Lizards Have So Much Lead in Their Blood, They Should Be Dead. Instead, They&#39;re Thriving</title>
-      <link>https://www.smithsonianmag.com/smart-news/these-lizards-have-so-much-lead-in-their-blood-they-should-be-dead-instead-theyre-thriving-180987224/</link>
-      <description>
-        <![CDATA[Brown anoles around New Orleans have the highest blood concentrations of lead ever recorded in vertebrates—and scientists aren't sure why they can survive it]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/tWCCc_nvM1JWAePjT-V3nGLvmwI=/420x240/filters:focal(2319x1138:2320x1139)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/dd/df/dddf5106-62d1-4124-a453-f728cc6b3187/cuban_brown_anole_anolis_sagrei_sagrei_juvenile.jpeg" length="" type="" />
-    </item>    <item>
-      <title>This 102-Year-Old Man Just Became the Oldest Person on Record to Summit Japan&#39;s Mount Fuji</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-102-year-old-man-just-became-the-oldest-person-on-record-to-summit-japans-mount-fuji-180987223/</link>
-      <description>
-        <![CDATA[Kokichi Akuzawa is an experienced climber who trained for his journey up the mountain by walking for one hour every morning]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CfjSvhHSWefBYHb1lndlnkyDMjk=/420x240/filters:focal(289x195:290x196)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/df/8e/df8e5876-89c4-40fb-b6f8-5c4eec3332e6/kokichi-climbing-mount-fuji.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Light Pollution Is Making Days Longer for Birds, Extending the Hours When They&#39;ll Sing</title>
-      <link>https://www.smithsonianmag.com/smart-news/light-pollution-is-making-days-longer-for-birds-extending-the-hours-when-theyll-sing-180987221/</link>
-      <description>
-        <![CDATA[A new study looked at millions of recordings of birdsong and found that some species in areas with more light pollution are active for almost an hour longer than average]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/6ifHHtQKzy4UlvRunT9tDfvLhZQ=/420x240/filters:focal(960x722:961x723)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/90/63/9063e183-240a-4803-bbd9-228bf10a5be5/american_robin_71307.jpg" length="" type="" />
-    </item>    <item>
-      <title>Watch as Experts Preserve a 249-Year-Old Gunboat That Sank During the American Revolution</title>
-      <link>https://www.smithsonianmag.com/smart-news/watch-as-experts-preserve-a-249-year-old-gunboat-that-sank-during-the-american-revolution-180987220/</link>
-      <description>
-        <![CDATA[Badly damaged during the Battle of Valcour Island, the "Philadelphia" is now the focus of a new exhibition at the Smithsonian's National Museum of American History]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/2hTPbr6FweNJxaSdrs07Yr2ryFQ=/420x240/filters:focal(3768x2297:3769x2298)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/49/aa/49aae25f-824a-4473-8c6b-95c5d3e201ad/jn2025-01100.jpg" length="" type="" />
-    </item>    <item>
-      <title>Archaeologists Are Investigating an Ancient Mosaic Depicting Sandals That Look Strangely Like Modern Flip-Flops</title>
-      <link>https://www.smithsonianmag.com/smart-news/archaeologists-are-investigating-an-ancient-mosaic-depicting-sandals-that-look-strangely-like-modern-flip-flops-180987214/</link>
-      <description>
-        <![CDATA[The colorful artwork decorates the frigidarium of the Villa Romana del Casale, a UNESCO World Heritage site located in Sicily]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3e82b1UpJ4WeMZQv_u16tXRLBz4=/420x240/filters:focal(640x363:641x364)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fc/30/fc303d52-74d3-4186-84c9-eba9f2c232a4/piazzaarmerina-nuovescoperte_news.jpg" length="" type="" />
-    </item>    <item>
-      <title>This month in Servo: new image formats, canvas backends, automation, and more!</title>
-      <link>https://servo.org/blog/2025/08/22/this-month-in-servo/</link>
-      <guid>cid://https://servo.org/blog/2025/08/22/this-month-in-servo/</guid>
     </item>
   </channel>
 </rss>

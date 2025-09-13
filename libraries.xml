@@ -4,7 +4,7 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>12 Sep 25 16:11 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 25 20:08 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -567,22 +567,6 @@
       </description>
       <enclosure url="https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil/downloads/w-somerset-maugham_the-painted-veil.epub?source=feed" length="509648" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</guid>
-    </item>    <item>
-      <title>The Return of the Native, by Thomas Hardy</title>
-      <link>https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</link>
-      <description>
-        <![CDATA[A young woman longs to find a husband who can deliver her from her unexciting rural life.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native/downloads/thomas-hardy_the-return-of-the-native.epub?source=feed" length="1208373" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native</guid>
-    </item>    <item>
-      <title>What’s the Magic Word?</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/</link>
-      <description>
-        <![CDATA[<p>What's the magic word? Is it "please"? "Abracadabra"? Wingardium leviosa"? Why are humans drawn to incantations and affirmations?</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/22/whats-the-magic-word/">What&#8217;s the Magic Word?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60892</guid>
     </item>
   </channel>
 </rss>

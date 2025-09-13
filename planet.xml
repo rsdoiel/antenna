@@ -4,7 +4,7 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>12 Sep 25 16:11 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 25 20:08 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -3481,37 +3481,6 @@
         <![CDATA[In the “Holy Land” of Kentucky stands a monument to a man who cared for and buried the victims of a cholera epidemic, and who might have done some science.]]>
       </description>
       <guid>cid://https://www.vaticanobservatory.org/?p=219547</guid>
-    </item>    <item>
-      <title>Aristarchus Plateau emerging</title>
-      <link>https://www.vaticanobservatory.org/sacred-space-astronomy/aristarchus-plateau-emerging/</link>
-      <description>
-        <![CDATA[When the moon is about 12 days past new a dramatic region can be found on the terminator just north of the equator emerging from its long night. It is...]]>
-      </description>
-      <guid>cid://https://www.vaticanobservatory.org/?p=219989</guid>
-    </item>    <item>
-      <title>Guterres in Japan: ‘Humanity is strongest when we stand as one’</title>
-      <link>https://news.un.org/feed/view/en/story/2025/08/1165703</link>
-      <description>
-        <![CDATA[World Expos are not just feel-good exhibitions, “they are invitations to tell our stories,” The UN chief told festival goers in Osaka, Japan, which is hosting Expo 2025.&nbsp;&nbsp;]]>
-      </description>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-08-2025_TICAD_Japan.jpg/image560x340cropped.jpg" length="48864" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/08/1165703</guid>
-    </item>    <item>
-      <title>Momentum builds towards marine biodiversity treaty, as experts convene in New York</title>
-      <link>https://news.un.org/feed/view/en/story/2025/08/1165706</link>
-      <description>
-        <![CDATA[Delegates from around the world met at UN Headquarters in New York this week to advance the long-awaited high seas biodiversity treaty, with discussions ranging from rules of procedure, to the creation of a clearing-house mechanism and the location of the treaty’s secretariat.]]>
-      </description>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/09-06-2025-Ocean-Agency-Mexico.jpg/image560x340cropped.jpg" length="44315" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/08/1165706</guid>
-    </item>    <item>
-      <title>UN agencies warn of rising heat stress risks for workers worldwide</title>
-      <link>https://news.un.org/feed/view/en/story/2025/08/1165704</link>
-      <description>
-        <![CDATA[Extreme heat is fast becoming one of the biggest threats to workers’ health and livelihoods, the World Health Organization (WHO) and World Meteorological Organization (WMO)&nbsp;warned on Friday.]]>
-      </description>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-01-2024-madagascar-farmers.png/image560x340cropped.jpg" length="36316" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/08/1165704</guid>
     </item>
   </channel>
 </rss>
