@@ -1,3 +1,4 @@
+site: .
 exclude_selectors:
   - ".pocket-btn"
   - "#search"

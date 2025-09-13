@@ -4,10 +4,24 @@
   <channel>
     <title>Home, Garden and Urban Farm</title>
     <link>https://rsdoiel.github.io/antenna/home.xml</link>
-    <lastBuildDate>12 Sep 25 15:56 -0700</lastBuildDate>
+    <lastBuildDate>12 Sep 25 20:09 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>A Light-Filled Mid-Century Modern Austin House Was Restored Rather Than Demolished</title>
+      <link>https://www.sunset.com/home-garden/home-tours/austin-mid-century-house-makeover</link>
+      <description>
+        <![CDATA[A young family's mid-century modern house gets a colorful remodel that doesn't strip the space of its character.]]>
+      </description>
+      <guid>cid://https://www.sunset.com/?p=196328</guid>
+    </item>    <item>
+      <title>Here’s Where to Sample the Best Food and Wine in the West</title>
+      <link>https://www.sunset.com/travel/best-places-for-wine-tasting-2025</link>
+      <description>
+        <![CDATA[Visit the most innovative and visually stimulating tasting rooms in the West, plus other unique food and drink tastings.]]>
+      </description>
+      <guid>cid://https://www.sunset.com/?p=196599</guid>
+    </item>    <item>
       <title>32 Delicious Ways to Savor Apple Season</title>
       <link>https://www.sunset.com/food-wine/kitchen-assistant/easy-delicious-apple-recipes</link>
       <description>
@@ -315,13 +329,6 @@
       </description>
       <guid>cid://https://www.sunset.com/?p=196589</guid>
     </item>    <item>
-      <title>Here’s Where to Sample the Best Food and Wine in the West</title>
-      <link>https://www.sunset.com/travel/best-places-for-wine-tasting-2025</link>
-      <description>
-        <![CDATA[Visit the most innovative and visually stimulating tasting rooms in the West, plus other unique food and drink tastings.]]>
-      </description>
-      <guid>cid://https://www.sunset.com/?p=196599</guid>
-    </item>    <item>
       <title>6 Biting Ants in North Carolina (With Pictures and Identification)</title>
       <link>https://ownyardlife.com/6-biting-ants-in-north-carolina-with-pictures-and-identification/</link>
       <description>
@@ -511,13 +518,6 @@
         <p>The post <a href="https://gardenerspath.com/how-to/design/creepy-scary-plants-halloween/">13 of the Best Scary-Looking Plants for Halloween and Beyond</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>]]>
       </description>
       <guid>cid://https://gardenerspath.com/?p=47111</guid>
-    </item>    <item>
-      <title>A Light-Filled Mid-Century Modern Austin House Was Restored Rather Than Demolished</title>
-      <link>https://www.sunset.com/home-garden/home-tours/austin-mid-century-house-makeover</link>
-      <description>
-        <![CDATA[A young family's mid-century modern house gets a colorful remodel that doesn't strip the space of its character.]]>
-      </description>
-      <guid>cid://https://www.sunset.com/?p=196328</guid>
     </item>    <item>
       <title>I’m Dealing with Major Construction Delays—Here’s How I’m Not Letting It Get Me Down</title>
       <link>https://www.sunset.com/home-garden/design/home-construction-delays</link>
@@ -1058,14 +1058,6 @@
         <p>The post <a href="https://gregalder.com/yardposts/the-hellen-avocado-tree-a-profile/">The Hellen avocado tree: a profile</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>]]>
       </description>
       <guid>cid://https://gregalder.com/yardposts/?p=23993</guid>
-    </item>    <item>
-      <title>6 Surprising Crops Grown in Far Northern California</title>
-      <link>https://californiagrown.org/blog/grown-in-northern-california/</link>
-      <description>
-        <![CDATA[<p>To survive in the rugged northernmost part of California, resilience is required &#8211; for people AND crops. Discover six surprising crops that are grown in Northern California&#8217;s rural regions! Most people associate Northern California with the Bay Area or Napa Valley &#8211; and many don’t realize that the region beyond San Francisco and Sonoma encompasses [&#8230;]</p>
-        <p>The post <a href="https://californiagrown.org/blog/grown-in-northern-california/" data-wpel-link="internal" target="_self">6 Surprising Crops Grown in Far Northern California</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>]]>
-      </description>
-      <guid>cid://https://californiagrown.org/?p=54869</guid>
     </item>
   </channel>
 </rss>
