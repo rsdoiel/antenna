@@ -4,16 +4,38 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>13 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>13 Sep 25 16:07 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>A theatre professor is staging &#39;listening&#39; sessions for Angelenos to de-stress</title>
-      <link>https://laist.com/news/los-angeles-activities/los-angeles-pomona-theatre-professor-listening-sessions-de-stress</link>
+      <title>California passes ICE mask ban in closing days of legislative session</title>
+      <link>https://laist.com/news/politics/california-passes-ice-mask-ban-immigration</link>
       <description>
-        <![CDATA["Listening Hour" sessions are where people can find collective healing by sharing their stories.]]>
+        <![CDATA[Senate Bills 627 and 805 would ban law enforcement officers from wearing face coverings and require officers to be readily identifiable, respectively.]]>
       </description>
-      <guid>cid://urn:uuid:00000199-39ff-d1cf-a79f-7bff0f850000</guid>
+      <guid>cid://urn:uuid:00000199-4412-d635-a9fd-6cd673050000</guid>
+    </item>    <item>
+      <title>Old Orchard Park to Reopen with Upgrades, New Amenities and Art</title>
+      <link>https://santaclarita.gov/blog/2025/09/13/old-orchard-park-to-reopen-with-upgrades-new-amenities-and-art/</link>
+      <description>
+        <![CDATA[<p>By City Manager Ken Striplin When Santa Clarita incorporated in 1987, Old Orchard Park was already a gathering place where families came together to play, relax and make memories. Nearly four decades later, it remains one of our most beloved parks, and I am proud to share that it has just received a complete transformation [&#8230;]</p>
+        <p>The post <a href="https://santaclarita.gov/blog/2025/09/13/old-orchard-park-to-reopen-with-upgrades-new-amenities-and-art/">Old Orchard Park to Reopen with Upgrades, New Amenities and Art</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
+      </description>
+      <guid>cid://https://santaclarita.gov/?p=6596</guid>
+    </item>    <item>
+      <title>In last-minute scramble, California lawmakers fail to deliver promised environmental reform</title>
+      <link>https://laist.com/news/climate-environment/california-legislature-failure-to-pass-environmental-reform</link>
+      <description>
+        <![CDATA[Senate leaders failed to fix an environmental law rollback for advanced manufacturing, leaving pollution concerns untouched as session ends.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-43ef-d3eb-a3ff-6fffee990000</guid>
+    </item>    <item>
+      <title>SB79 heads to Newsom. Bill allows for denser housing around transit hubs</title>
+      <link>https://laist.com/news/housing-homelessness/sb79-heads-for-newsom-signature-bill-would-override-local-zoning-to-boost-transit-oriented-development</link>
+      <description>
+        <![CDATA[The bill, among the most controversial housing proposals in recent memory, overcame opposition from local governments, organized labor unions and many legislative Democrats.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-434b-dcde-a9d9-77fb05c30000</guid>
     </item>    <item>
       <title>Go inside LA’s old General Hospital before it turns from a spooky Art Deco time capsule into new housing</title>
       <link>https://laist.com/news/los-angeles-activities/los-angeles-old-general-hospital-tour-retrofit-housing</link>
@@ -21,6 +43,13 @@
         <![CDATA[Built in 1933, the colossal building known as “The Great Stone Mother” is poised to be the anchor of a city within a city.]]>
       </description>
       <guid>cid://urn:uuid:00000199-3595-d635-a9fd-7dd791580000</guid>
+    </item>    <item>
+      <title>A theatre professor is staging &#39;listening&#39; sessions for Angelenos to de-stress</title>
+      <link>https://laist.com/news/los-angeles-activities/los-angeles-pomona-theatre-professor-listening-sessions-de-stress</link>
+      <description>
+        <![CDATA["Listening Hour" sessions are where people can find collective healing by sharing their stories.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-39ff-d1cf-a79f-7bff0f850000</guid>
     </item>    <item>
       <title>Lead levels in soil exceeded state standards in Eaton Fire burn zone, LA County reports</title>
       <link>https://laist.com/news/climate-environment/lead-levels-soil-altadena-palisades-fire-la-county-report</link>
