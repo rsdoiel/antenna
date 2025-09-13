@@ -4,10 +4,45 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>12 Sep 25 20:08 -0700</lastBuildDate>
+    <lastBuildDate>13 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.4</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Bring back your old Mac: 5 ways to refresh the OS on elderly Apples</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/13/refresh_an_old_mac/</link>
+      <description>
+        <![CDATA[<h4>Newer OSes for unsupported kit, and new browsers for older OSes. There&#39;s always a way</h4> <p>Any day now, a new version of Apple&#39;s macOS is due to launch, and it will exclude the bulk of the Intel-powered models the company has ever sold. However, there are multiple ways to breathe new life into Macs that go back as far as 10 or even 15 years.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241903</guid>
+    </item>    <item>
+      <title>Inventor who encouraged Elon Musk to make Optimus says most humanoid robots today are &#39;terrifying&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/13/to_make_a_humanoid_robot/</link>
+      <description>
+        <![CDATA[<h4>Scott LaValley, CEO of Cartwheel Robotics, says robot makers should prioritize social acceptance over capabilities</h4> <p><strong>interview</strong>  Scott LaValley, founder and CEO of Cartwheel Robotics, suspects he may have helped encourage Elon Musk to get into the humanoid robot business.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241885</guid>
+    </item>    <item>
+      <title>How open is “open-source” VTubing?</title>
+      <link>https://www.osnews.com/story/143322/how-open-is-open-source-vtubing/</link>
+      <description>
+        <![CDATA[I&#8217;m not really into the niche of &#8220;virtual YouTubers&#8221; &#8211; people who post YouTube videos and/or stream using a virtual avatar &#8211; but to each their own, and if this technology enables people to remain anonymous while doing what they love on YouTube or Twitch, I&#8217;m all for it. Since these virtual avatars also do things like face-tracking, there&#8217;s a whole cottage industry of software tools to make this all work, but Adrian &#8220;asie&#8221; Siekierka decided to take a look at where the training data used to make such face-tracking work actually comes from. One day, some years ago, I decided to look at the data used to train OpenSeeFace. OpenSeeFace is the most popular open source face tracking solution for virtual YouTubers. It is supported by both open source and commercial model rendering tools; in particular, VTube Studio allows using it as an option for webcam tracking. ↫ Adrian &#8220;asie&#8221; Siekierka The results of the investigation are not exactly great. Much of the data used by OpenSeeFace comes with serious restrictions on commercial use, and many of the underlying datasets contain images that you would need consent for from the people inside the image to actually use. On top of that, a lot of these data sets seem to have just scraped the internet for images of faces without asking anyone of the people in those images for consent, which raises a whole number of troubling issues. I find this a very interesting topic of discussion, if only because you&#8217;d be hard-pressed to argue that the average cartoon-esque virtual avatars even remotely resemble real human faces, so it&#8217;s not like you&#8217;re going to suddenly run into your own face somewhere on YouTube or Twitch, but plastered into another person. On the other hand, the underlying datasets still contain a ton of people&#8217;s faces without those people&#8217;s consent, and even for those that did give consent, there&#8217;s often a commercial use restriction which earning revenue on YouTube or Twitch might violate. It&#8217;s a fascinating microcosm of a whole slew of issues we&#8217;re dealing with right now, neatly contained in a relatively small niche.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143322</guid>
+    </item>    <item>
+      <title>HybridPetya: More proof that Secure Boot bypasses are not just an urban legend</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/hopefully_just_a_poc_hybridpetya/</link>
+      <description>
+        <![CDATA[<h4>Although it hasn&#39;t been seen in the wild yet</h4> <p>A new ransomware strain dubbed HybridPetya was able to exploit a patched vulnerability to bypass Unified Extensible Firmware Interface (UEFI) Secure Boot on unrevoked Windows systems, making it the fourth publicly known bootkit capable of punching through the feature and hijacking a PC before the operating system loads.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241909</guid>
+    </item>    <item>
+      <title>Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/</link>
+      <description>
+        <![CDATA[Written by Lucy Thompson, Planetary Scientist and APXS Team Member, University of New Brunswick, Canada Earth planning date: Friday, Sept. 5, 2025 Curiosity is in the midst of the boxwork campaign, trying to decipher why we see such pronounced ridges and hollows in this area of Mount Sharp. When this terrain was first identified from […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/</guid>
+    </item>    <item>
       <title>SkiftOS: a hobby operating system with its own kernel, UI, browser engine, and more</title>
       <link>https://www.osnews.com/story/143320/skiftos-a-hobby-operating-system-with-its-own-kernel-ui-browser-engine-and-more/</link>
       <description>
