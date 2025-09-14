@@ -4,10 +4,17 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Federal Reserve is expected to cut interest rates. What would this mean for you?</title>
+      <link>https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</link>
+      <description>
+        <![CDATA[NPR's Ayesha Rascoe talks to University of Michigan economist Justin Wolfers about the Federal Reserve meeting this week and what the expected interest rate cut could mean for the economy.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</guid>
+    </item>    <item>
       <title>Small firms cross their fingers for a rate cut</title>
       <link>https://www.marketplace.org/episode/2025/09/12/small-firms-cross-their-fingers-for-a-rate-cut</link>
       <description>

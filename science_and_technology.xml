@@ -4,10 +4,24 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Data destruction done wrong could cost your company millions</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/14/destroy_data_company_laptops_or_else/</link>
+      <description>
+        <![CDATA[<h4>Doing a simple system reset may not be enough to save you from fines and lawsuits</h4> <p>With the end of Windows 10&#39;s regular support cycle fast approaching, and a good five years since the COVID pandemic spurred a wave of hardware replacements to support remote work, many IT departments are in the process of refreshing their fleets. But what they do with decommissioned systems is just as important as the shiny new ones they buy.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241879</guid>
+    </item>    <item>
+      <title>It&#39;s time mobile devs started to think seriously about foldable smartphones</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/14/galaxy_fold7_foldable_smartphones_rising/</link>
+      <description>
+        <![CDATA[<h4>The hardware is now compelling, sales are rising, and there&#39;s the chance to create a new experience</h4> <p><strong>hands on</strong>  Folding smartphones have been with us for six years without winning much market share, but after two weeks using Samsung&#39;s latest model, and recent reports of surging sales in the category, it feels to me like dual-screened devices are something developers now need to consider.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241891</guid>
+    </item>    <item>
       <title>“UTF-8 is a brilliant design”</title>
       <link>https://www.osnews.com/story/143326/utf-8-is-a-brilliant-design/</link>
       <description>

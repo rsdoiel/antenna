@@ -4,10 +4,26 @@
   <channel>
     <title>Going Electric</title>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Volkswagen&#39;s EV Battery Dreams Are Coming Together</title>
+      <link>https://insideevs.com/news/772188/volkswagen-unified-battery-cell-solid-state-lfp/</link>
+      <description>
+        <![CDATA[The VW Group showed off the production version of its standardized battery cell, which will power 80% of the automaker's future EVs.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/MkMJQm/s3/vw-technik-workshop-auf-der-iaa-2025.jpg" length="7149" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/772188/volkswagen-unified-battery-cell-solid-state-lfp/</guid>
+    </item>    <item>
+      <title>Tesla Loses The Most Range In Extreme Hot Weather Test</title>
+      <link>https://insideevs.com/news/772221/extreme-heat-group-range-test/</link>
+      <description>
+        <![CDATA[All the cars in the test fell way short of their official claimed range because of the heat, but the Tesla suffered the most.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/3Wmv8Y/s3/hot-weather-range-test.jpg" length="17690" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/772221/extreme-heat-group-range-test/</guid>
+    </item>    <item>
       <title>How Xpeng Aims To Out-Tesla Tesla In Europe—And Beyond</title>
       <link>https://insideevs.com/news/772206/xpeng-iaa-munich-p7-tesla/</link>
       <description>
