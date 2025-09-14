@@ -4,10 +4,17 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>14 Sep 25 16:09 -0700</lastBuildDate>
     <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Mechele Elliott Safeguards Agency Information Systems at Johnson</title>
+      <link>https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/</link>
+      <description>
+        <![CDATA[As an IT security administrator at NASA’s Johnson Space Center in Houston, Mechele Elliott protects the information systems that support astronaut health and mission readiness. The encouragement of a family friend set her on this path, leading to a rewarding and somewhat unexpected career in human spaceflight. “While I was caring for my son during [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=913168</guid>
+    </item>    <item>
       <title>Data destruction done wrong could cost your company millions</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/14/destroy_data_company_laptops_or_else/</link>
       <description>
