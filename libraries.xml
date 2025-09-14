@@ -4,8 +4,8 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>13 Sep 25 16:07 -0700</lastBuildDate>
-    <generator>antenna/0.0.4</generator>
+    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>The House of the Dead, by Fyodor Dostoevsky</title>
@@ -567,14 +567,6 @@
       </description>
       <enclosure url="https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess/downloads/w-e-b-du-bois_dark-princess.epub?source=feed" length="876275" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</guid>
-    </item>    <item>
-      <title>The Painted Veil, by W. Somerset Maugham</title>
-      <link>https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</link>
-      <description>
-        <![CDATA[A superficial young woman is found out in an affair by her husband, who then forces her to accompany him on a mission of great risk.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil/downloads/w-somerset-maugham_the-painted-veil.epub?source=feed" length="509648" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</guid>
     </item>
   </channel>
 </rss>

@@ -4,8 +4,8 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>13 Sep 25 16:07 -0700</lastBuildDate>
-    <generator>antenna/0.0.4</generator>
+    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -834,6 +834,35 @@
       <description>
         <![CDATA[A look at Buttondown's new onboarding process and how we help diverse customers get started.]]>
       </description>
+    </item>    <item>
+      <title>Development Priorities for 2025/26</title>
+      <link>https://www.redox-os.org/news/development-priorities-2025-09/</link>
+      <description>
+        <![CDATA[<p>Redox has made great strides over the past year, with notable improvements in stability, performance, and compatibility.</p>
+        <p>To give a big-picture perspective for where Redox development is headed, here is our view of priorities as of September, 2025.
+        Obviously, we can&rsquo;t finish everything on this list in the next 15 months,
+        but it would be nice to have people working on as many of these things as possible.</p>
+        <h3 id="redox-variants">Redox Variants</h3>
+        <ul>
+        <li>&ldquo;Hosted Redox&rdquo; as a Web Services Runtime, in a Virtual Machine</li>
+        <li>&ldquo;Redox Server&rdquo; for Edge and Cloud</li>
+        <li>&ldquo;Redox Desktop&rdquo; for your daily driver</li>
+        </ul>
+        <h3 id="development-priorities">Development Priorities</h3>
+        <ul>
+        <li>Building Redox on Redox</li>
+        <li>Compliance and Compatibility</li>
+        <li>Programming Language and Build System Support</li>
+        <li>Performance</li>
+        <li>Security</li>
+        <li>Hardware Support</li>
+        <li>COSMIC, Wayland, and GPU Acceleration</li>
+        <li>Accessibility</li>
+        </ul>
+        <h2 id="how-can-you-help">How can you help?</h2>
+        <p>Here are some ways you can help us move Redox closer to our goals.</p>]]>
+      </description>
+      <guid>cid://https://www.redox-os.org/news/development-priorities-2025-09/</guid>
     </item>    <item>
       <link>https://www.theguardian.com/world/2025/sep/11/albania-diella-ai-minister-public-procurement</link>
       <description>
@@ -7829,233 +7858,6 @@
       </description>
       <author>maxhalford25@gmail.com (Max Halford)</author>
       <guid>cid://https://maxhalford.github.io/blog/warmshowers-sparks-joy/</guid>
-    </item>    <item>
-      <title>A Summer Afternoon in Washington D.C.</title>
-      <link>https://fallows.substack.com/p/a-summer-afternoon-in-washington</link>
-      <description>
-        <![CDATA[How it looks when a terrorizing government scares people away.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nmA5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f02bf3d-5bfe-4d94-8764-0e841199c665_4624x3472.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://fallows.substack.com/p/a-summer-afternoon-in-washington</guid>
-    </item>    <item>
-      <title>Taming the sensory and the strange</title>
-      <link>https://tracydurnell.com/2025/08/23/taming-the-sensory-and-the-strange/</link>
-      <description>
-        <![CDATA[&#8220;[A literary work] &#8220;tells&#8221; very little to those who understand it. Its essential quality is not statement or the imparting of information.&#8221; &#8212; Walter Benjamin, The Task of the Translator + Against Interpretation by Susan Sontag The modern style of interpretation excavates, and as it excavates, destroys; it digs “behind” the text, to find a [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=28756</guid>
-    </item>    <item>
-      <title>The Hotel Model of AI</title>
-      <link>https://doc.searls.com/2025/08/23/the-hotel-model-of-ai/</link>
-      <description>
-        <![CDATA[What I like best about Keith Teare&#8216;s latest essay, Who Owns The Front Door to AI? If it isn&#8217;t you, its game over, is that it sounds like he&#8217;s setting up the case for personal AI. But he&#8217;s not. He&#8217;s describing how our AI-assisted lives will get sucked through better interfaces deep into one or more [&#8230;]]]>
-      </description>
-      <guid>cid://https://doc.searls.com/?p=19321</guid>
-    </item>    <item>
-      <title>Fix the Signal</title>
-      <link>https://robinrendle.com/notes/fix-the-signal/</link>
-      <guid>cid://https://robinrendle.com/notes/fix-the-signal/</guid>
-    </item>    <item>
-      <title>AI, layoffs, productivity and The Klarna Effect</title>
-      <link>https://garymarcus.substack.com/p/ai-layoffs-productivity-and-the-klarna</link>
-      <description>
-        <![CDATA[Promises about AI replacing employees often don&#8217;t work out &#8212; and may not be such a hot idea.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!YqsM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6a0e437-3e11-4f69-aa8b-5303da5454ff_1206x2029.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/ai-layoffs-productivity-and-the-klarna</guid>
-    </item>    <item>
-      <title>Without nature, there is no economy</title>
-      <link>http://www.enlightenmenteconomics.com/blog/index.php/2025/08/without-nature-there-is-no-economy/</link>
-      <description>
-        <![CDATA[I&#8217;ve just re-read Partha Dasgupta&#8217;s On Natural Capital, having seen a draft a while ago. It&#8217;s an important book. Its fundamental point is that the economy &#8211; like all human life &#8211; is not separate from nature but part of &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/08/without-nature-there-is-no-economy/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7855</guid>
-    </item>    <item>
-      <title>VirtualBox 7.2 fixes flaky 3D guests and adds Arm-on-Arm support</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/23/virtualbox_72_fixes_3d_guests/</link>
-      <description>
-        <![CDATA[<h4><span class="label">hands on</span> Oracle-backed FOSS hypervisor a worthy rival to Hyper-V and VMware</h4>
-              <p>VirtualBox 7.2 is here, bringing improved Arm-on-Arm virtualization features and better 3D acceleration support.</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241496</guid>
-    </item>    <item>
-      <title>Weeknotes: Aug. 16-22, 2025</title>
-      <link>https://tracydurnell.com/2025/08/22/weeknotes-aug-16-22-2025/</link>
-      <description>
-        <![CDATA[Win of the week: coordinated with multiple contractors on home maintenance and improvement projects Looking forward to: seeing a friend&#8217;s new house 😃 Stuff I did: 2.5 hours writing + 3.5 hours reading through my draft &#8212; made it from 16-51% &#8212; can&#8217;t concentrate on it for more than an hour at a time, which I [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=28617</guid>
-    </item>    <item>
-      <title>Blue In Mississippi</title>
-      <link>https://feed.tedium.co/link/15204/17124900/bluesky-mississippi-reaction</link>
-      <description>
-        <![CDATA[Bluesky’s decision to drop out of the Mississippi market, while understandable, is a clear sign that we cannot take our digital access for granted.]]>
-      </description>
-      <guid>cid://https://tedium.co/2025/08/23/bluesky-mississippi-reaction/</guid>
-    </item>    <item>
-      <title>Permacomputing</title>
-      <link>https://inkdroid.org/2025/08/23/permacomputing/</link>
-      <description>
-        <![CDATA[<p>
-        I enjoyed listening to this talk by <a
-        href="https://en.wikipedia.org/wiki/Hundred_Rabbits">Devine Lu
-        Linvega</a> about the nomad life and the principles of <a
-        href="https://permacomputing.net/">Permacomputing</a> while I was on a
-        walk, and then watching it later when I was at home for the visuals.
-        </p>
-        <iframe width="800" height="500" src="https://www.youtube.com/embed/BNYxAdjl1f0?si=EKH2ejbDFNkZy-uP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-        </iframe>
-        <p>
-        One of the things that I found myself thinking about when listening was
-        the somewhat unstated principle of <a
-        href="https://inkdroid.org/tag/practice/">Practice</a>, which 100
-        Rabbits work exemplifies so well. Watching the video afterwards then
-        drove this point home, because of the artistry that went into the
-        slides. There are certainly technical aspects to sustainable computing,
-        but culture, shared values, and techniques are just, or perhaps even
-        more, important.
-        </p>
-        <p>
-        I think a written version of the talk will get published over at <a
-        href="https://100r.co/site/log.html">100r.co</a> at some point but I
-        wanted to jot down some of my own notes.
-        </p>
-        <p>
-        Permacomputing practice includes work along a continuum, where each step
-        is further away from a resource rich environment:
-        </p>
-        <ul>
-        <li>
-        Frugal (being careful about the resources that you use)
-        </li>
-        <li>
-        Salvage (limited to what is already produced)
-        </li>
-        <li>
-        Collapse (utilizing what has survived collapse of infrastructure).
-        </li>
-        </ul>
-        <p>
-        There is a technological bent to a lot of permacomputing practice
-        (computing is in the name after all). But there is no need for it to be
-        exclusively related to tech. It involves an engagement with community,
-        and is fundamentally about “exploring the value of absence”. Finding
-        where technologies don’t have a strengthening effect on the ecosystem.
-        </p>
-        <p>
-        Devine sees three aspects of permacomputing design:
-        </p>
-        <ul>
-        <li>
-        Design for Disassembly: encourages repair by allowing a product to be
-        taken apart and for users to discover how to repair it.
-        </li>
-        <li>
-        Design for Encapsulation: be able to replicate the environment of a
-        product: code and data can be migrated and/or emulated. Docker, JVM,
-        [UXN], as examples of this thinking.
-        </li>
-        <li>
-        Design for Descent: designing for degradation, failures of internet,
-        energy, etc (resilience).
-        </li>
-        </ul>
-        <p>
-        Resilience itself is a deep area of practice that includes: - agility -
-        preparedness - elasticity - redundancy
-        </p>
-        <p>
-        Devine notes that permacomputing sort of fits within a longer trajectory
-        of digital preservation work, and mentions some previous projects: PADI,
-        Cedar, CAMiLEON, Domesday Project. These projects were well funded, did
-        good work, but are now largely defunct, with only some scraps of
-        information remaining in the Wayback Machine.
-        </p>
-        <p>
-        This reminded me of my own experience with digital preservation grant
-        funding, and how paradoxically it is at odds with the goals of
-        sustainability and preservation. Even when granting organizations
-        require a plan for a sustainability plan, the types of activities and
-        practices that are born into a resource rich environment can be
-        difficult to sustain, unless they participate in some way with resource
-        extraction. The discipline of doing work on a boat, as a nomad, (or some
-        equivalent frugality) helps to shape sustainable computing practice.
-        </p>
-        <p>
-        Another aspect is the importance of piracy to digital preservation or
-        that:
-        </p>
-        <blockquote>
-        <p>
-        Any sufficiently organized Piracy is indistinguishable from
-        Preservation.
-        </p>
-        </blockquote>
-        <p>
-        This reminded me of Abigail De Kosnik’s book <a
-        href="https://direct.mit.edu/books/monograph/4087/Rogue-ArchivesDigital-Cultural-Memory-and-Media">Rogue
-        Archives: Digital Cultural Memory and Media Fandom</a>. I think the in
-        built community, frugality, and decentralization of a sharing economy is
-        often overlooked as a key to digital preservation and its something that
-        permacomputing really stresses.
-        </p>
-        <p>
-        There is also the idea of aligning engineering with primitives from the
-        natural world, e.g. the mathematics behind the <a
-        href="https://en.wikipedia.org/wiki/Arecibo_message">Arecibo Message</a>
-        which were designed to translate across species and planetary
-        ecosystems. Whether it achieved that or not is hard to say, but the goal
-        of reaching for computational primitives that could be rediscovered is
-        an interesting angle. I think it’s very important for data preservation
-        standards. I feel like this sort of minimalist thinking lay behind the
-        design of <a href="https://en.wikipedia.org/wiki/BagIt">BagIt</a>, which
-        aimed to allow data to be moved through time and space, without the loss
-        of data and context.
-        </p>
-        <p>
-        Ultimately permacomputing is about “exploring the boundaries
-        <em>between</em> suffocating minimalism and unsustainable maximalism”.
-        It’s an invitation to slow down, and participate and learn to control
-        the tools so they don’t control us. Where does your work sit along that
-        continuum?
-        </p>]]>
-      </description>
-      <guid>cid://https://inkdroid.org/2025/08/23/permacomputing/</guid>
-    </item>    <item>
-      <title>Uncertain⟨T⟩</title>
-      <link>https://mjtsai.com/blog/2025/08/22/uncertaint/</link>
-      <description>
-        <![CDATA[Mattt Thompson: In 2014, researchers at the University of Washington and Microsoft Research proposed a radical idea: What if uncertainty were encoded directly into the type system? Their paper, Uncertain&#60;T&#62;: A First-Order Type for Uncertain Data introduced a probabilistic programming approach that&#8217;s both mathematically rigorous and surprisingly practical. As you&#8217;d expect for something from Microsoft [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49012</guid>
-    </item>    <item>
-      <title>Lightroom Classic 14.5</title>
-      <link>https://mjtsai.com/blog/2025/08/22/lightroom-classic-14-5/</link>
-      <description>
-        <![CDATA[Victoria Bampton on 14.3 (Adobe): A new mask selection tool is introduced for Landscape. It works much like the Select People tool, using AI to read the scene and select specific elements[&#8230;] [&#8230;] In the Develop and Photo Merge dialogs, transparency now shows as a checkerboard pattern (just like in Photoshop), making it easier to [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49010</guid>
-    </item>    <item>
-      <title>Bildhuus Aspect</title>
-      <link>https://mjtsai.com/blog/2025/08/22/bildhuus-aspect/</link>
-      <description>
-        <![CDATA[Jack Baty (Mastodon): Some former Nik Software people are building a new tool for managing photo libraries. It&#8217;s called&#160;Aspect. I&#8217;m a sucker for any photo-related software, so I installed the beta and spent yesterday testing it. I took some notes after using it for a day.First impressions were good. I like the ideas behind Aspect. [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49008</guid>
-    </item>    <item>
-      <title>Messages Address Bubble Colors</title>
-      <link>https://mjtsai.com/blog/2025/08/22/messages-address-bubble-colors/</link>
-      <description>
-        <![CDATA[Glenn Fleishman: When you enter an email address or type one into the address field in Messages, the software does a quick behind-the-scenes check. Messages tries to determine if the address is associated with an active iCloud account. As you accept or paste in an address, you might notice that it always briefly lights up [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49006</guid>
-    </item>    <item>
-      <title>The 2025 MADE bike show</title>
-      <link>https://a.wholelottanothing.org/the-2025-made-bike-show/</link>
-      <description>
-        <![CDATA[<p>This weekend in Portland (though Sunday!) <a href="https://made.bike/?ref=a.wholelottanothing.org" rel="noreferrer">the MADE bike show</a> is happening again, showcasing handmade bikes and products from small companies around the world. I really love seeing the explosion of creativity every year at the event. Here&apos;s a quick bunch of photos I snapped this morning while</p>]]>
-      </description>
-      <guid>cid://68a90257fc40e4000187962a</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,17 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>13 Sep 25 16:07 -0700</lastBuildDate>
-    <generator>antenna/0.0.4</generator>
+    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>La Luz del Mundo leader and his mother indicted on sex trafficking and racketeering charges</title>
+      <link>https://laist.com/news/criminal-justice/megachurch-leader-and-his-mother-indicted-on-sex-trafficking-and-racketeering-charges</link>
+      <description>
+        <![CDATA[Naasón Joaquín García has been serving a 16-year, 8-month prison sentence in California. His mother was arrested this week in L.A.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-456d-dbc5-addf-557fcda80000</guid>
+    </item>    <item>
       <title>California passes ICE mask ban in closing days of legislative session</title>
       <link>https://laist.com/news/politics/california-passes-ice-mask-ban-immigration</link>
       <description>
@@ -816,13 +823,6 @@
         <![CDATA[Three widely used artificial intelligence chatbots generally do a good job responding to very-high-risk and very-low-risk questions about suicide, but they are inconsistent in answering questions about suicide that may pose intermediate risks.]]>
       </description>
       <guid>cid://https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html</guid>
-    </item>    <item>
-      <title>Bowen Ranch: A Century in the Desert</title>
-      <link>https://desertgazette.com/blog/bowen-ranch-a-century-in-the-desert/</link>
-      <description>
-        <![CDATA[The Bowen family came to Juniper Flats in the early 1920s, one of the last waves of homesteaders to try their hand at life on the high desert. They built their ranch on a dry, windswept slope above Deep Creek, and before long, the wagon track that reached their gate bore their name — Bowen &#8230; <a href="https://desertgazette.com/blog/bowen-ranch-a-century-in-the-desert/" class="more-link">Continue reading<span class="screen-reader-text"> "Bowen Ranch: A Century in the Desert"</span></a>]]>
-      </description>
-      <guid>cid://https://desertgazette.com/blog/?p=13515</guid>
     </item>
   </channel>
 </rss>

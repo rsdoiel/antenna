@@ -4,8 +4,8 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>13 Sep 25 16:07 -0700</lastBuildDate>
-    <generator>antenna/0.0.4</generator>
+    <lastBuildDate>13 Sep 25 17:33 -0700</lastBuildDate>
+    <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>More small landlords expected to leave market - survey</title>
@@ -28,6 +28,13 @@
         <![CDATA[Southwestern Utah is a beautiful part of the world. Edging towards the Grand Canyon and Arizona beyond, the scenery is spectacular.]]>
       </description>
       <guid>cid://https://www.rte.ie/news/2025/0913/1533352-charlie-kirk-killing-free-speech/</guid>
+    </item>    <item>
+      <title>Israeli strikes kill at least 32 across Gaza City, health officials say</title>
+      <link>https://www.cbc.ca/news/world/israel-gaza-city-strikes-evacuation-1.7633457?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7633459.1757801015!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians-gaza.jpg' alt='People run for cover after a rocket strikes buildings in a city.' width='620' height='349' title='Palestinians run for cover during an Israeli military strike on a building in Gaza City, Saturday, Sept. 13, 2025. (AP Photo/Yousef Al Zanoun)'/><p>The Israeli army has ordered remaining residents to leave Gaza City, but the UN and aid agencies warn such a mass displacement will worsen the humanitarian crisis across the Palestinian enclave.</p>]]>
+      </description>
+      <guid>cid://1.7633457</guid>
     </item>    <item>
       <title>&#34;Leo from Chicago,&#34; Vatican media’s documentary on Pope Leo XIV&#39;s United States roots</title>
       <link>https://www.vaticannews.va/en/pope/news/2025-09/leo-from-chicago-vatican-medias-documentary-pope-leo-us.html</link>
@@ -3813,13 +3820,6 @@
       </description>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-08-2025-UNICEF-Ethiopia.jpg/image560x340cropped.jpg" length="42357" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/08/1165716</guid>
-    </item>    <item>
-      <title>Tombs of the Unknown Scientists (re-run)</title>
-      <link>https://www.vaticanobservatory.org/sacred-space-astronomy/tombs-of-the-unknown-scientists-re-run/</link>
-      <description>
-        <![CDATA[In the “Holy Land” of Kentucky stands a monument to a man who cared for and buried the victims of a cholera epidemic, and who might have done some science.]]>
-      </description>
-      <guid>cid://https://www.vaticanobservatory.org/?p=219547</guid>
     </item>
   </channel>
 </rss>
