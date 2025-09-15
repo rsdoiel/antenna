@@ -4,10 +4,136 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>14 Sep 25 16:09 -0700</lastBuildDate>
+    <lastBuildDate>15 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.5</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Former FinWise employee may have accessed nearly 700K customer records</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/finwise_insider_data_breach/</link>
+      <description>
+        <![CDATA[<h4>Bank says incident went undetected for over a year before discovery in June</h4> <p>A US fintech biz is writing to nearly 700,000 customers because a former employee may have accessed or acquired their data after leaving the company.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241920</guid>
+    </item>    <item>
+      <title>Nork snoops whip up fake South Korean military ID with help from ChatGPT</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/north_korea_chatgpt_fake_id/</link>
+      <description>
+        <![CDATA[<h4>Kimsuky gang proves that with the right wording, you can turn generative AI into a counterfeit factory</h4> <p>North Korean spies used ChatGPT to generate a fake military ID for use in an espionage campaign against a South Korean defense-related institution, according to new research.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241917</guid>
+    </item>    <item>
+      <title>Avatars for Astronaut Health to Fly on NASA’s Artemis II</title>
+      <link>https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/</link>
+      <description>
+        <![CDATA[NASA announced a trailblazing experiment that aims to take personalized medicine to new heights. The experiment is part of a strategic plan to gather valuable scientific data during the Artemis II mission, enabling NASA to “know before we go” back to the lunar surface and on to Mars. The AVATAR (A Virtual Astronaut Tissue Analog […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/</guid>
+    </item>    <item>
+      <title>China turns the screws on Nvidia with antitrust probe</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/china_nvidia_antitrust/</link>
+      <description>
+        <![CDATA[<h4>Chip giant accused of breaching conditions of $6.9B Mellanox takeover</h4> <p>China has dealt Nvidia another blow, finding the chipmaker in violation of the country&#39;s anti-monopoly Law and escalating a long-running regulatory headache into a full investigation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241919</guid>
+    </item>    <item>
+      <title>Starlink outage knocks tens of thousands offline worldwide</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/starlink_outage/</link>
+      <description>
+        <![CDATA[<h4>Downdetector logged 40,000 reports before service flickered back</h4> <p>Elon Musk&#39;s Starlink satellite broadband network went dark today as thousands of users around the globe reported connectivity issues.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241918</guid>
+    </item>    <item>
+      <title>Jaguar Land Rover supply chain workers must get Covid-style support, says union</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/covidstyle_furlough_schemes_for_jlr/</link>
+      <description>
+        <![CDATA[<h4>As post-cyberattack layoffs begin, labor org argues UK goverment should step in</h4> <p>The UK&#39;s chief automotive workers&#39; union is calling on the government to establish a Covid-esque furlough scheme for the thousands of individuals who face losing their jobs due to the cyber-related downtime at Jaguar Land Rover.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241916</guid>
+    </item>    <item>
+      <title>Bharti big shots storm BT boardroom after £3.6B raid</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/bharti_big_shots_storm_bt/</link>
+      <description>
+        <![CDATA[<h4>Sign &#39;relationship agreement&#39; as Bharti Mittal and Vittal take non-exec directorships</h4> <p>BT - Britain&#39;s former state-owned telecoms monopoly - has confirmed that execs from Bharti Global, its largest shareholder, are joining the board with immediate effect.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241914</guid>
+    </item>    <item>
+      <title>UK.gov decides tech projects worth billions are major but not &#39;mega&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/ukgov_decides_tech_projects_are/</link>
+      <description>
+        <![CDATA[<h4>Ministers concerned Treasury governance team may be distracted about supervising vital efforts</h4> <p>UK ministers have questioned the government&#39;s decision to seemingly downgrade huge public sector tech projects as HM Treasury takes a greater role in so-called &#34;mega-projects.&#34;…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241900</guid>
+    </item>    <item>
+      <title>China is selling its Great Firewall censorship tools to countries around the world</title>
+      <link>https://www.osnews.com/story/143333/china-is-selling-its-great-firewall-censorship-tools-to-countries-around-the-world/</link>
+      <description>
+        <![CDATA[We&#8217;re all aware of the Chinese Great Firewall, the tool the Chinese government uses for mass censorship and for safeguarding and strengthening its totalitarian control over the country and its population. It turns out that through a Chinese shell company called Geedge Networks, China is also selling the Great Firewall to other totalitarian regimes around the world. Thanks to a massive leak of 500 GB of source code, work logs, and internal communication records, we now have more insight into how the Great Firewall works than ever before, leading to in-depth reports like this one from InterSecLab. The findings are chilling, but not surprising. First and foremost, Geedge is selling the Great Firewall to a variety of totalitarian regimes around the world, namely Kazakhstan, Ethiopia, Pakistan, Myanmar, and another unidentified country. These governments can then ask Geedge to make specific changes and ask them to focus on specific capabilities to further enhance the functionality of the Great Firewall, but what it can already do today is bad enough. The suite of products offered by Geedge Networks allow a client government unprecedented access to internet user data and enables governments to use this data to police national and regional networks. These capabilities include deep packet inspection for advanced classification, interception, and manipulation of application and user traffic; monitoring the geographic location of mobile subscribers in real time; analyzing aggregated network traffic in specific areas, such as during a protest or event; flagging unusual traffic patterns as suspicious; creating tailored blocking rules to obstruct access to a website or application (such as a VPN (Virtual Private Network) or circumvention tool); throttling traffic to specific services; identifying individual internet users for accessing websites or using circumvention tools or VPNs; assigning individual internet users reputation scores based on their online activities; and infecting users with malware through in-path injection. ↫ The Internet Coup: A Technical Analysis on How a Chinese Company is Exporting The Great Firewall to Autocratic Regimes Internet service providers participate in the implementation of the suite of tools, either freely or by force, and since the tools are platform-agnostic it doesn&#8217;t matter which platforms people are using in any given country, making international sanctions effectively useless. It also won&#8217;t surprise you that Geedge steals both proprietary and open source code, without regards for licensing terms. Furthermore, China is allowing provinces and regions within its borders to tailor and adapt the Great Firewall to their own local needs, providing a blueprint for how to export the suite of tools to other countries. With quite a few countries sliding ever further towards authoritarianism, I&#8217;m sure even places not traditionally thought of as totalitarian are lustfully looking at the Chinese Great Firewall, wishing they had something similar in their own countries.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143333</guid>
+    </item>    <item>
+      <title>UK Lords take aim at Ofcom&#39;s &#39;child-protection&#39; upgrades to Online Safety Act</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/uk_lords_take_aim_at/</link>
+      <description>
+        <![CDATA[<h4>Peers will quiz campaigners on whether Ofcom&#39;s new measures will actually work, or just add more compliance pain</h4> <p>The House of Lords is about to put the latest child-protection plans of UK regulator the Office of Communications (Ofcom) under the microscope.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241902</guid>
+    </item>    <item>
+      <title>Everything about Psion, in one place</title>
+      <link>https://www.osnews.com/story/143331/everything-about-psion-in-one-place/</link>
+      <description>
+        <![CDATA[Celebrate classic Psion machines with us, from the original Organiser, through the Series 3 and Series 5, all the way to the netBook. Get help with your classic palmtop computer, or help to develop software and hardware that will bring these devices into the 21st Century. ↫ Psion Community website A brand new one-stop shop for everything related to keeping Psion machines going. A library of all the software, lists of all the ROM images, tons of development resources, and much more.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143331</guid>
+    </item>    <item>
+      <title>Java 25’s new CPU-time profiler</title>
+      <link>https://www.osnews.com/story/143329/java-25s-new-cpu-time-profiler/</link>
+      <description>
+        <![CDATA[More than three years in the making, with a concerted effort starting last year, my CPU-time profiler landed in Java with OpenJDK 25. It’s an experimental new profiler/method sampler that helps you find performance issues in your code, having distinct advantages over the current sampler. This is what this week’s and next week’s blog posts are all about. This week, I will cover why we need a new profiler and what information it provides; next week, I’ll cover the technical internals that go beyond what’s written in the JEP. I will quote the JEP 509 quite a lot, thanks to Ron Pressler; it reads like a well-written blog post in and of itself. ↫ Johannes Bechberger There&#8217;s also a third entry detailing queue sizing, and a fourth entry going into the removal of redundant synchronisation.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143329</guid>
+    </item>    <item>
+      <title>Curious connections: Voyager probes and Sinclair ZX Spectrum</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/curious_connections_between_the_voyager/</link>
+      <description>
+        <![CDATA[<h4>There&#39;s more than warm power supplies and wonky capacitors</h4> <p><strong>Opinion</strong>  The Voyager space probes are dear to the hearts of every geek who can remember the 1980s.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241889</guid>
+    </item>    <item>
+      <title>After deleting a web server, I started checking what I typed before hitting &#39;Enter&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/who_me/</link>
+      <description>
+        <![CDATA[<h4>Student thought she had the hang of this &#39;Linux&#39; thing and its kooky CLI</h4> <p><strong>Who, Me?</strong>  It&#39;s Monday morning, and a week of possibilities presents itself to IT pros everywhere. Which is why <i>The Register</i> brings you another edition of Who, Me? It&#39;s the reader-contributed column in which we remind you what not to do with your day, your week, and your career, by sharing stories of your worst workplace mistakes and the contortions you made to survive them.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241888</guid>
+    </item>    <item>
+      <title>Open source Cloud Hypervisor adds (maybe futile) no-AI-code policy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/cloud_hypervisor_no_ai_policy/</link>
+      <description>
+        <![CDATA[<h4>Virtualization tool for hyperscalers now scales to 8,192 vCPUs</h4> <p>The Cloud Hypervisor project has introduced a No AI code policy.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241913</guid>
+    </item>    <item>
+      <title>Cyber-scam camp operators shift operations to vulnerable countries as sanctions strike</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Japan woos Micron, again; China launches chip dumping probe; Mitsubishi expands opsec empire; and more!</h4> <p><strong>Asia in Brief</strong>  Criminals appear to be moving cyber-scam centers to vulnerable countries.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241912</guid>
+    </item>    <item>
+      <title>NASA Science, Cargo Launches Aboard Northrop Grumman CRS-23</title>
+      <link>https://www.nasa.gov/news-release/nasa-science-cargo-launches-aboard-northrop-grumman-crs-23/</link>
+      <description>
+        <![CDATA[NASA is sending more science, technology demonstrations, and crew supplies to the International Space Station following the successful launch of the agency’s Northrop Grumman Commercial Resupply Services 23 mission, or Northrop Grumman CRS-23. The company’s Cygnus XL spacecraft, carrying more than 11,000 pounds of cargo to the orbiting laboratory, lifted off at 6:11 p.m. EDT [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=913814</guid>
+    </item>    <item>
+      <title>15 ransomware gangs ‘go dark’ to enjoy &#39;golden parachutes&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/14/in_brief_infosec/</link>
+      <description>
+        <![CDATA[<h4>PLUS: China&#39;s Great Firewall springs a leak; FBI issues rare &#39;Flash Alert&#39; of Salesforce attacks; $10m bounty for alleged Russian hacker; and more</h4> <p><strong>Infosec In Brief</strong>  15 ransomware gangs, <a target="_blank" href="https://www.theregister.com/2025/08/12/scattered_spidershinyhunterslapsus_cybercrime_collab/">including</a> Scattered Spider and Lapsus$, have announced that they are going dark, and say no more attacks will be carried out in their name.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241910</guid>
+    </item>    <item>
       <title>Mechele Elliott Safeguards Agency Information Systems at Johnson</title>
       <link>https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/</link>
       <description>
