@@ -6,7 +6,9 @@ title: North America
 
 - [Market Place](https://feeds.publicradio.org/public_feeds/marketplace)
 - [Market Place, Make me Smart](https://feeds.publicradio.org/public_feeds/make-me-smart)
-- [Marketplace Morning Report](https://feeds.publicradio.org/public_feeds/marketplace-morning-report)
+- [Market Place Tech Report](https://feeds.publicradio.org/public_feeds/marketplace-tech)
+- [Market Place Morning Report](https://feeds.publicradio.org/public_feeds/marketplace-morning-report)
+
 
 # Non-profit Journalism
 
