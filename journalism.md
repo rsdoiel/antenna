@@ -13,7 +13,7 @@ title: Feeds Student Journalism and feeds about Journalism feeds
 - [The Canyon News (COC Student Newspaper)](https://canyonsnews.com/feed/)
 - [The Daily Trojan (USC Student Newspaper)](https://dailytrojan.com/feed/)
 - [The Daily Bruin (UCLA Student Newspaper)](https://wp.dailybruin.com/feed/)
-- [The Round Up (Pierce College Student Newspaper)](https://peircemediaarts.com/the_roundup/feed/)
+- [The Round Up (Pierce College Student Newspaper)](https://www.piercemediaarts.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory)
 - [The Occidental News (Occidental College Student Newspaper)](https://theoccidentalnews.com/feed)
 
 # Chaminade University in Hawaii
