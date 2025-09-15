@@ -4,10 +4,33 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>15 Sep 25 08:33 -0700</lastBuildDate>
-    <generator>antenna/0.0.5</generator>
+    <lastBuildDate>15 Sep 25 16:09 -0700</lastBuildDate>
+    <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The slow death of remote-only jobs</title>
+      <link>https://www.marketplace.org/episode/2025/09/15/the-slow-death-of-remote-only-jobs</link>
+      <description>
+        <![CDATA[<p>It’s been five-and-a-half years since lots of workers retreated to home offices at the height of the pandemic. Now, about 35% of Americans work from home at least once a week. In this episode, why employers’ demands to "return to office" are growing. Plus: A sociologist expresses concern about AI’s long-term effects on the American labor market, import prices reflect an uptick in “undervaluation,” and President Trump wants reduce earnings report requirements for public firms.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/15/pm_20250915_PM_Podcast_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K57BKTT2RBJTBDYBHWHJF5TV" length="12379900" type="audio/mpeg" />
+      <guid>cid://01K57BKTT2RBJTBDYBHWHJF5TV</guid>
+    </item>    <item>
+      <title>Who is Fed nominee Stephen Miran, and why is he so controversial?</title>
+      <link>https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board</link>
+      <description>
+        <![CDATA[Stephen Miran, who has served in both Trump administrations, said he will not resign from the White House if confirmed to the Federal Reserve Board, further stoking concerns about its independence.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board</guid>
+    </item>    <item>
+      <title>The Fed&#39;s next move</title>
+      <link>https://www.marketplace.org/episode/2025/09/15/the-feds-next-move</link>
+      <description>
+        <![CDATA[<p>Federal Reserve watchers feel pretty sure the Federal Open Market Committee will cut interest rates by a quarter of a percent this week. The real question? Whether Jay Powell and co. have more rate cuts planned, or if they’re taking it meeting by meeting. Also in this episode: An Atlanta non profit helps refugee women become entrepreneurs and the U.S. TikTok deadline approaches.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/15/mmr_20250915_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K575PBKW36S3E2JYAJ6PN0EP" length="3244458" type="audio/mpeg" />
+      <guid>cid://01K575PBKW36S3E2JYAJ6PN0EP</guid>
+    </item>    <item>
       <title>Who pays for tariffs?</title>
       <link>https://www.marketplace.org/episode/2025/09/15/who-pays-for-tariffs</link>
       <description>
@@ -23,6 +46,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/15/mmr_20250915_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K56H6PMDNF8KKET5J07S5M4C" length="3161778" type="audio/mpeg" />
       <guid>cid://01K56H6PMDNF8KKET5J07S5M4C</guid>
+    </item>    <item>
+      <title>Can customs tech really simplify the import-export process?</title>
+      <link>https://www.marketplace.org/episode/2025/09/15/can-customs-tech-really-simplify-the-importexport-process</link>
+      <description>
+        <![CDATA[<p>Borders may be invisible to most shoppers, but for businesses, they often mean delays, extra costs, and reams of paperwork. And amid Trump’s trade war, global trade is now faster and more complex than ever. Those new pressures have sparked a boom in new "customs tech" companies promising to speed things up. The BBC’s Leanna Byrne reports.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/15/tech_20250915_0915_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4DGMB092S6AWSDG65H8T6SG" length="5041026" type="audio/mpeg" />
+      <guid>cid://01K4DGMB092S6AWSDG65H8T6SG</guid>
     </item>    <item>
       <title>The Federal Reserve is expected to cut interest rates. What would this mean for you?</title>
       <link>https://www.npr.org/2025/09/14/nx-s1-5537000/the-federal-reserve-is-expected-to-cut-interest-rates-what-would-this-mean-for-you</link>
@@ -77,6 +108,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/12/mmr_20250912_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4YS10HZ125GYTWTRG997FDN" length="3513700" type="audio/mpeg" />
       <guid>cid://01K4YS10HZ125GYTWTRG997FDN</guid>
+    </item>    <item>
+      <title>Bytes: Week in Review — Apple unveils iPhone Air, researchers allege Meta suppressed child online safety research, and Waymo gets competition</title>
+      <link>https://www.marketplace.org/episode/2025/09/12/apple-unveils-iphone-air-meta-child-online-safety-research-waymo-competition</link>
+      <description>
+        <![CDATA[<p>Marketplace’s Nova Safo spoke with Joanna Stern, senior personal technology columnist at the Wall Street Journal, to discuss all these topics and more. This episode was produced by Jesús Alvarado.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/12/tech_20250912_0912_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4X54STCXKXXTE6FRTTT1H1Y" length="12115822" type="audio/mpeg" />
+      <guid>cid://01K4X54STCXKXXTE6FRTTT1H1Y</guid>
     </item>    <item>
       <title>Why mothers in the U.S. are scaling back on their work lives</title>
       <link>https://www.npr.org/2025/09/12/nx-s1-5537129/why-mothers-in-the-u-s-are-scaling-back-on-their-work-lives</link>
@@ -146,6 +185,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/11/mmr_20250911_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01JXHYNWFKY7GN7E6KPKMK9G07" length="3279016" type="audio/mpeg" />
       <guid>cid://01JXHYNWFKY7GN7E6KPKMK9G07</guid>
     </item>    <item>
+      <title>Bipartisan bill would help parents to monitor kids&#39; social media for harmful activity</title>
+      <link>https://www.marketplace.org/episode/2025/09/11/bipartisan-bill-would-help-parents-monitor-kids-social-media</link>
+      <description>
+        <![CDATA[<p>It’s challenging for parents to get access to their kids’ data to look out for online harms. In Congress, there's a bipartisan push to change that with a bill called Sammy's Law, named after a teen who died of fentanyl poisoning in 2021. He purchased drugs on social media.</p><br/><p>Marketplace’s Nova Safo spoke with Will Oremus, tech news analysis writer at The Washington Post, who’s been monitoring the bill's progress.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/11/tech_20250911_0911_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4THNTJWPDK7AYD1Y0T16GJ9" length="5526695" type="audio/mpeg" />
+      <guid>cid://01K4THNTJWPDK7AYD1Y0T16GJ9</guid>
+    </item>    <item>
       <title>Why have some prices stayed put?</title>
       <link>https://www.marketplace.org/episode/2025/09/10/why-have-some-prices-stayed-put</link>
       <description>
@@ -177,6 +224,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/10/mmr_20250910_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4SQ1MTFRRNXR159BSH2EP9Q" length="3291345" type="audio/mpeg" />
       <guid>cid://01K4SQ1MTFRRNXR159BSH2EP9Q</guid>
+    </item>    <item>
+      <title>The latest iPad update comes with laptop functionality</title>
+      <link>https://www.marketplace.org/episode/2025/09/10/latest-ipad-update-comes-with-more-laptoplike-functions</link>
+      <description>
+        <![CDATA[<p>Fifteen years ago, then-CEO Steve Jobs unveiled the iPad. His vision was for a lean-back device used mostly to consume content. Now, with the latest iPadOS 26, the device is evolving into something different — and perhaps something more useful. Craig Grannell got early access to iPadOS 26 and wrote about the system's laptop-like qualities in Wired magazine.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/10/tech_20250910_0910_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4N0QHPZ7JNC9T7EM9ZPZQNY" length="8014388" type="audio/mpeg" />
+      <guid>cid://01K4N0QHPZ7JNC9T7EM9ZPZQNY</guid>
     </item>    <item>
       <title>What the downward revision in jobs numbers indicates about the U.S. economy</title>
       <link>https://www.npr.org/2025/09/10/nx-s1-5535661/what-the-downward-revision-in-jobs-numbers-indicates-about-the-u-s-economy</link>
@@ -253,6 +308,14 @@
       </description>
       <guid>cid://https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords</guid>
     </item>    <item>
+      <title>Using AI to simplify criminal record expungement</title>
+      <link>https://www.marketplace.org/episode/2025/09/09/using-ai-to-simplify-criminal-record-expungement</link>
+      <description>
+        <![CDATA[<p>A lot of people are<a href="https://www.ncsl.org/civil-and-criminal-justice/reentry-legislation-2024-summary" class="default"> eligible to have their criminal records expunged</a>. And there are tens of millions of <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265335" class="default">such files out there</a> for things like misdemeanors, low-level felonies such as drug offenses and even just arrests. <a href="https://legalease.com/" class="default">LegalEase</a>, a justice-tech startup is streamlining the process through the use of artificial intelligence.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/09/tech_20250909_0909_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4D60TJE487T37ETKJHQGS7X" length="3786313" type="audio/mpeg" />
+      <guid>cid://01K4D60TJE487T37ETKJHQGS7X</guid>
+    </item>    <item>
       <title>The price of limiting trade with China</title>
       <link>https://www.marketplace.org/episode/2025/09/08/the-price-of-limiting-trade-with-china</link>
       <description>
@@ -284,6 +347,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/08/mmr_20250908_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4MDWZ6RQDM8D7HJHCQC6SKD" length="3420913" type="audio/mpeg" />
       <guid>cid://01K4MDWZ6RQDM8D7HJHCQC6SKD</guid>
+    </item>    <item>
+      <title>Have video games become unaffordable?</title>
+      <link>https://www.marketplace.org/episode/2025/09/08/have-video-games-become-unaffordable</link>
+      <description>
+        <![CDATA[<p>Video gaming can be an expensive hobby. Nintendo’s latest Mario Kart game, <a href="https://store.nintendo.co.uk/en/mario-kart-world-70010000096802?srsltid=AfmBOoozBy-pI9GoBTaMkLC5tVdUi_fvmRFbbjWMZQvslHxzNDKVmxDS" class="c-link">Mario Kart World</a>, released in June, costs $80, and it’s widely expected that <a href="https://www.rockstargames.com/VI" class="c-link">Grand Theft Audio VI</a>, coming out next year, will top $100. So are games becoming unaffordable … or do gamers not know how good they’ve got it? The BBC’s Will Chalk breaks it down.</p><br/><p></p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/08/tech_20250908_0908_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4DHC6JPNVEMCHMG0W4Y6ABM" length="4837898" type="audio/mpeg" />
+      <guid>cid://01K4DHC6JPNVEMCHMG0W4Y6ABM</guid>
     </item>    <item>
       <title>Why the recent unemployment numbers matter</title>
       <link>https://www.npr.org/2025/09/07/nx-s1-5530158/why-the-recent-unemployment-numbers-matter</link>
@@ -345,6 +416,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/05/mmr_20250905_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4CSZTCZT3KK2YHHWCG2DQD5" length="3253520" type="audio/mpeg" />
       <guid>cid://01K4CSZTCZT3KK2YHHWCG2DQD5</guid>
     </item>    <item>
+      <title>Bytes: Week in Review — Google antitrust verdict, Trump&#39;s crypto stake, and AI angst</title>
+      <link>https://www.marketplace.org/episode/2025/09/05/google-antitrust-verdict-trumps-crypto-stake-and-ai-angst</link>
+      <description>
+        <![CDATA[<p>The Trump family took their digital token public this week. Plus, artificial intelligence is generating angst in Silicon Valley.</p><br/><p>But first, Google’s antitrust case over its search business ended this week with a punishment far short of what the government sought. Google could have been forced to sell off its Chrome browser or stop paying Apple and others to make it the default search engine. Instead, a federal judge said all the company has to do is share some of its search data with rivals.</p><br/><p>Marketplace’s Nova Safo spoke with Natasha Mascarenhas, a reporter at The Information, to discuss all of this and more.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/05/tech_20250905_0905_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K4AZTQR8Z06ERFGMZK91K5C4" length="10747841" type="audio/mpeg" />
+      <guid>cid://01K4AZTQR8Z06ERFGMZK91K5C4</guid>
+    </item>    <item>
       <title>Why the end of the de minimus tariff exemption is causing shipping chaos worldwide</title>
       <link>https://www.npr.org/2025/09/05/nx-s1-5518283/why-the-end-of-the-de-minimus-tariff-exemption-is-causing-shipping-chaos-worldwide</link>
       <description>
@@ -405,6 +484,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/04/mmr_20250904_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4A73QTP0DX3Z27274WFX2R2" length="3238265" type="audio/mpeg" />
       <guid>cid://01K4A73QTP0DX3Z27274WFX2R2</guid>
     </item>    <item>
+      <title>Police departments quietly disable AI-generated report safeguards</title>
+      <link>https://www.marketplace.org/episode/2025/09/04/police-depts-are-quietly-disabling-ai-report-safeguards</link>
+      <description>
+        <![CDATA[<p>Axon, a company that makes policing equipment, developed new software called Draft One that takes recordings from police cameras and uses artificial intelligence to summarize them into incident reports. </p><br/><p>Many police departments trying out the tool are not disclosing that they're using AI to write reports, according to <a href="https://www.motherjones.com/criminal-justice/2025/08/axon-police-ai-draft-one-foia/" class="default">a Mother Jones investigation</a>. That potentially leaves both prosecutors and defense attorneys in the blind — despite safeguards Axon built into its software to prevent this very scenario, and to remove errors or AI hallucinations. </p><br/><p>Marketplace’s Nova Safo spoke with investigative journalist Tekendra Parmar who reported the story for Mother Jones.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/04/tech_20250904_0904_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K48EMEAYP7R971VFMTH586KX" length="9332213" type="audio/mpeg" />
+      <guid>cid://01K48EMEAYP7R971VFMTH586KX</guid>
+    </item>    <item>
       <title>Slo-mo jobs growth</title>
       <link>https://www.marketplace.org/episode/2025/09/03/slomo-jobs-growth</link>
       <description>
@@ -444,6 +531,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47KAD7DTKDANDQ935B2TAAP" length="3298660" type="audio/mpeg" />
       <guid>cid://01K47KAD7DTKDANDQ935B2TAAP</guid>
+    </item>    <item>
+      <title>Can you buy wins in sports or the AI talent wars?</title>
+      <link>https://www.marketplace.org/episode/2025/09/03/can-you-buy-wins-in-sports-or-the-ai-talent-wars</link>
+      <description>
+        <![CDATA[<p>Big Tech companies have been in an all-out bidding war to capture top AI researchers and engineers. Companies like Meta have reportedly been offering compensation packages in the hundreds of millions of dollars. They're the kind of eye-watering sums you usually only hear about in pro sports. Marketplace’s Meghan McCarty Carino explores whether this strategy of collecting expensive superstars will pay off for Big Tech firms looking to win the AI race. </p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/03/tech_20250903_0903_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3VWARJQVQH84XJE94F568BK" length="5039773" type="audio/mpeg" />
+      <guid>cid://01K3VWARJQVQH84XJE94F568BK</guid>
     </item>    <item>
       <title>Short-term corporate borrowing climbs</title>
       <link>https://www.marketplace.org/episode/2025/09/02/short-term-corporate-borrowing-climbs</link>
@@ -485,6 +580,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/02/mmr_20250902_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K4542J7YBAC9XYFAQ2ACNMPE" length="3235757" type="audio/mpeg" />
       <guid>cid://01K4542J7YBAC9XYFAQ2ACNMPE</guid>
     </item>    <item>
+      <title>Is grieving with AI a healthy way to cope?</title>
+      <link>https://www.marketplace.org/episode/2025/09/02/is-grieving-with-ai-a-healthy-way-to-cope</link>
+      <description>
+        <![CDATA[<p>More and more people are using generative AI to “resurrect” deceased loved ones. There are tools that can turn an old photograph into a short animation or create entire "AI clones" trained on old audio, video or written diaries. These technological advancements are taking memorializing the dead to a whole new level, but is it healthy? Marketplace’s Meghan McCarty Carino spoke to psychologist Elaine Kasket, who specializes in mental health issues and technology, for some answers. </p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/02/tech_20250902_0902_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3SZ8R14HXTJ95J2GFSZG0ZM" length="8712380" type="audio/mpeg" />
+      <guid>cid://01K3SZ8R14HXTJ95J2GFSZG0ZM</guid>
+    </item>    <item>
       <title>No, private data can&#39;t replace the BLS</title>
       <link>https://www.marketplace.org/episode/2025/09/01/why-private-data-cant-replace-the-bls</link>
       <description>
@@ -525,6 +628,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/01/mmr_20250901_MMR_CAST_1_09.01.2025_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K42GJHMP05BWK0NYS1ZEK597" length="3930404" type="audio/mpeg" />
       <guid>cid://01K42GJHMP05BWK0NYS1ZEK597</guid>
     </item>    <item>
+      <title>&#34;Organs on a chip&#34; help researchers better understand diseases like endometriosis</title>
+      <link>https://www.marketplace.org/episode/2025/08/29/organs-on-a-chip-help-researchers-better-understand-diseases-like-endometriosis</link>
+      <description>
+        <![CDATA[<p>Endometriosis is a condition in which the tissue that typically lines the uterus grows outside of it instead, often causing intense pain and infertility. MIT researchers are studying that living tissue on plastic chips in the lab, with bioengineer Linda Griffith leading the effort.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/01/tech_20250901_0901_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3VKWJ4C4ZXB6ZX92B5EMMSK" length="8737457" type="audio/mpeg" />
+      <guid>cid://01K3VKWJ4C4ZXB6ZX92B5EMMSK</guid>
+    </item>    <item>
       <title>Sticky inflation, Fed drama and the rise of &#39;cute&#39; debt</title>
       <link>https://www.marketplace.org/episode/2025/08/29/sticky-inflation-fed-drama-and-the-rise-of-cute-debt</link>
       <description>
@@ -556,6 +667,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/29/mmr_20250829_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3TRZ62JVY7S6DXYBKW1Q9E0" length="3182255" type="audio/mpeg" />
       <guid>cid://01K3TRZ62JVY7S6DXYBKW1Q9E0</guid>
+    </item>    <item>
+      <title>Bytes: Week in Review – Spotify is sliding into our DMs</title>
+      <link>https://www.marketplace.org/episode/2025/08/29/bytes-week-in-review-spotify-slides-into-your-dms</link>
+      <description>
+        <![CDATA[<p>Chipmaker NVIDIA reported quarterly earnings this week and they were strong - better than expected, even. NVIDIA's sales rose last quarter by over 50% though its data center business was a little softer than expected. So why did share prices fall? Plus, OpenAI says it's updating ChatGPT to better handle mental distress. And Spotify is sliding into our DMs. The music streamer has launched a messaging system on its platform. Marketplace’s Meghan McCarty Carino spoke with Jewel Burks Solomon, managing partner at Collab Capital, about all these headlines for this week’s Marketplace Tech Bytes: Week in Review. </p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/29/tech_20250829_0829_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3RS2EEY5Z61Y42RHKAM4MF2" length="9590509" type="audio/mpeg" />
+      <guid>cid://01K3RS2EEY5Z61Y42RHKAM4MF2</guid>
     </item>    <item>
       <title>What&#39;s really going on in the Trump economy?</title>
       <link>https://www.marketplace.org/episode/2025/08/28/whats-really-going-on-in-the-trump-economy</link>
@@ -589,6 +708,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3R5C20V4AB1P65VXTN2W752" length="3144012" type="audio/mpeg" />
       <guid>cid://01K3R5C20V4AB1P65VXTN2W752</guid>
     </item>    <item>
+      <title>U.S. officials pressure EU regulators to soften tech regulations</title>
+      <link>https://www.marketplace.org/episode/2025/08/27/us-officials-pressure-eu-regulators-to-soften-tech-regulations</link>
+      <description>
+        <![CDATA[<p>President Donald Trump called out countries trying to regulate U.S. tech companies earlier this week, warning they could face new tariffs. The White House has struck a provisional trade deal with the European Union, but tensions remain over the bloc's sweeping tech laws, like the Digital Services Act, which requires platforms to moderate illegal content and disinformation.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/28/tech_20250828_0828_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3PBKT8HJ8ZNBY8RGYW6Y00D" length="8514264" type="audio/mpeg" />
+      <guid>cid://01K3PBKT8HJ8ZNBY8RGYW6Y00D</guid>
+    </item>    <item>
       <title>The relationship between consumer mood and spending? It&#39;s complicated</title>
       <link>https://www.marketplace.org/episode/2025/08/27/the-relationship-between-consumer-mood-and-spending-its-complicated</link>
       <description>
@@ -620,6 +747,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/27/mmr_20250827_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3NNN2H8D47T7W0ZMBWRR69C" length="3199182" type="audio/mpeg" />
       <guid>cid://01K3NNN2H8D47T7W0ZMBWRR69C</guid>
+    </item>    <item>
+      <title>Automated application systems add insult to injury in a tough job market</title>
+      <link>https://www.marketplace.org/episode/2025/08/27/automated-application-systems-add-insult-to-injury-in-a-tough-job-market</link>
+      <description>
+        <![CDATA[<p>Job growth in the economy has slowed, and the ranks of the long-term unemployed are growing. It makes the indignities of the modern hiring process even more frustrating for those in the market. Job-seekers are navigating a gauntlet of automated application systems set up to whittle down the hundreds — sometimes thousands — of applicants. Only for many to never hear from a human. Marketplace’s Meghan McCarty Carino has more from the front lines of algorithmic application hell. </p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/27/tech_20250827_0827_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K39PG4DYYZ1ANNDDG2JFQQ94" length="5069027" type="audio/mpeg" />
+      <guid>cid://01K39PG4DYYZ1ANNDDG2JFQQ94</guid>
     </item>    <item>
       <title>Can the president remove a Fed governor?</title>
       <link>https://www.marketplace.org/episode/2025/08/26/can-the-president-remove-a-fed-governor</link>
@@ -653,6 +788,14 @@
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/26/mmr_20250826_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3K35HP4TD3GN9P5E4V4T12R" length="3319137" type="audio/mpeg" />
       <guid>cid://01K3K35HP4TD3GN9P5E4V4T12R</guid>
     </item>    <item>
+      <title>Denmark to end 400 years of letter delivery service</title>
+      <link>https://www.marketplace.org/episode/2025/08/26/denmarks-postnord-to-end-400-years-of-letter-delivery-by-end-of-year</link>
+      <description>
+        <![CDATA[<p>Across Europe, postal services are grappling with declining letter volumes, amid a rise in digitalization. In Demark, where the decline has been particularly steep, the publicly-owned national postal service, PostNord, is bringing an end to 400 years of letter deliveries, to focus solely on parcels from 2026. And while a private firm will step into the gap, letters are a shrinking business. So as digitalization grows, do letters have a future? The BBC’s Adrienne Murray reports from the Danish capital with more details.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/26/tech_20250826_0826_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K2FKTC7SD46D9PENJM3RCET3" length="5114584" type="audio/mpeg" />
+      <guid>cid://01K2FKTC7SD46D9PENJM3RCET3</guid>
+    </item>    <item>
       <title>For every action, something can go sideways</title>
       <link>https://www.marketplace.org/episode/2025/08/25/for-every-action-something-can-go-sideways</link>
       <description>
@@ -684,6 +827,14 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/25/mmr_20250825_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3GFSKXCGM9KMZYD71C2E6R7" length="3944822" type="audio/mpeg" />
       <guid>cid://01K3GFSKXCGM9KMZYD71C2E6R7</guid>
+    </item>    <item>
+      <title>Workers aren&#39;t getting what they want from AI</title>
+      <link>https://www.marketplace.org/episode/2025/08/25/workers-arent-getting-what-they-want-from-ai</link>
+      <description>
+        <![CDATA[<p>A survey of about 1,500 workers showed AI has been a useful tool for repetitive work. But some respondents want more — sometimes, more than the technology is capable of.</p><br/><p>In this episode, Marketplace’s Meghan Mccarty Carino speaks with Stanford economist Erik Brynjolfsson about the disconnect between workers' wants and AI's current role in the workplace.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/25/tech_20250825_0825_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3917XRS3BQFJPY5CJK9X63Q" length="9444223" type="audio/mpeg" />
+      <guid>cid://01K3917XRS3BQFJPY5CJK9X63Q</guid>
     </item>    <item>
       <title>Special Coverage from &#34;Marketplace&#34;: The Real Costs</title>
       <link>https://www.marketplace.org/episode/2025/08/24/special-coverage-from-marketplace-the-real-costs</link>
