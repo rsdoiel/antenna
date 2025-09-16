@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>15 Sep 25 16:09 -0700</lastBuildDate>
+    <lastBuildDate>16 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -930,14 +930,6 @@
       </description>
       <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
       <guid>cid://53323089f32fcfc6f78296e77777f481</guid>
-    </item>    <item>
-      <title>Happy Birthday, Linux</title>
-      <link>http://www.linux-magazine.com/Online/News/Happy-Birthday-Linux</link>
-      <description>
-        <![CDATA[<p>On August 25, Linux officially turns 34.</p>]]>
-      </description>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://33dcf3d2a6d469c8ce01d72ec05de193</guid>
     </item>
   </channel>
 </rss>

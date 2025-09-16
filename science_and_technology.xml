@@ -4,10 +4,101 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>15 Sep 25 16:09 -0700</lastBuildDate>
+    <lastBuildDate>16 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Rust-style safety model for C++ &#39;rejected&#39; as profiles take priority</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/safe_c_proposal_ditched/</link>
+      <description>
+        <![CDATA[<h4>Safe C++ proposal author claims that &#39;will not ever work&#39;</h4> <p>The C++ standards committee abandoned a detailed proposal to create a rigorously safe subset of the language, according to the proposal&#39;s co-author, despite continuing anxiety about memory safety.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241942</guid>
+    </item>    <item>
+      <title>&#39;FileFix&#39; attacks use fake Facebook security alerts to trick victims into running infostealers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/filefix_attacks_facebook_security_alert/</link>
+      <description>
+        <![CDATA[<h4>Tech evolved from PoC to global campaign in under two months</h4> <p>An attack called FileFix is masquerading as a Facebook security alert before ultimately dropping the widely used StealC infostealer and malware downloader.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241934</guid>
+    </item>    <item>
+      <title>Campaigners urge EU to mandate 15 years of OS updates</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/campaigners_urge_eu_to_mandate/</link>
+      <description>
+        <![CDATA[<h4>Nothing says ‘circular economy’ like Microsoft stranding 400 million PCs on International E-waste Day</h4> <p>European e-waste campaigners are calling on EU leadership to force tech vendors to provide 15 years of software updates, using Microsoft&#39;s plan to end Windows 10 support next month — which may make an estimated 400 million PCs obsolete — as a textbook case of avoidable e-waste.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241941</guid>
+    </item>    <item>
+      <title>JLR stuck in neutral as losses skyrocket amid cyberattack cleanup</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/jlr_global_shutdown/</link>
+      <description>
+        <![CDATA[<h4>Latest extension to factory closures takes incident response into fourth week</h4> <p>Jaguar Land Rover (JLR) has announced a further extension to its multi-site global shutdown, bringing its cyber-related downtime to nearly four weeks.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241940</guid>
+    </item>    <item>
+      <title>The end of Windows 10 means early Surface Hub hardware will be bricking it</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/the_end_of_windows_10/</link>
+      <description>
+        <![CDATA[<h4>Beware the meeting room zombies</h4> <p>Beware the meeting room zombies. We don&#39;t mean you when you&#39;re listening to a colleague reading out a 100-slide PowerPoint presentation, but some expensive Microsoft meeting room hardware that may be obsolete in a few short weeks.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241939</guid>
+    </item>    <item>
+      <title>Google unmasks itself as mystery hyperscaler behind yet another UK datacenter</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/google_hertfordshire_datacenter/</link>
+      <description>
+        <![CDATA[<h4>Tech giant confirms facility next to the M25 is its latest AI-fueled server farm</h4> <p>Google today confirmed it is the mystery hyperscaler behind another European datacenter campus as it cut the ribbon on a facility situated on the outskirts of the M25 in Hertfordshire.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241938</guid>
+    </item>    <item>
+      <title>Overmind bags $6M to predict deployment blast radius before the explosion</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/overmind_interview/</link>
+      <description>
+        <![CDATA[<h4>Startup slots into CI/CD pipelines to warn engineers when a change could wreck production</h4> <p><strong>Exclusive</strong>  How big could the blast radius be if that change you&#39;re about to push to production goes catastrophically wrong? Overmind is the latest company to come up with ways to stop the explosion before it happens.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241899</guid>
+    </item>    <item>
+      <title>Linux Mint picks up the pace with LMDE 7 and Wayland-ready Cinnamon</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/two_more_linux_mint_releases/</link>
+      <description>
+        <![CDATA[<h4>Devs sketch plans for two more releases this year, blending Debian foundations with modern display tech</h4> <p>The Linux Mint team plans to speed up its release cycle and get two more versions out in the next few months.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241925</guid>
+    </item>    <item>
+      <title>China slaps 1-hour deadline on reporting serious cyber incidents</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/china_1hour_cyber_reporting/</link>
+      <description>
+        <![CDATA[<h4>Cyberspace watchdog tightens reporting regime, leaving little time to hide incidents</h4> <p>Beijing will soon expect Chinese network operators to &#39;fess up to serious cyber incidents within an hour of spotting them – or risk penalties for dragging their feet.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241927</guid>
+    </item>    <item>
+      <title>It&#39;s the final countdown: Windows 10 hits end of support in less than 30 days</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/windows_10_final_countdown/</link>
+      <description>
+        <![CDATA[<h4>Microsoft reminds holdouts they&#39;ve got less than a month before the update tap runs dry</h4> <p>Start the countdown! For any administrators living under a rock, Microsoft has posted another warning that Windows 10 22H2 will reach end of servicing on October 14.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241923</guid>
+    </item>    <item>
+      <title>ChatGPT: Why do most of your users ask for help writing - prose, not code?</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/chatgpt_usage_study/</link>
+      <description>
+        <![CDATA[<h4>Study that used actual input to OpenAI’s chatbot finds personal use surging</h4> <p>Users of individual accounts for OpenAI’s ChatGPT mostly use it for research and to help with writing, according to a new study into the kind of queries fed into the service.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241937</guid>
+    </item>    <item>
+      <title>Indian court stops streaming hearings on social media to protect lawyers from mean memes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/india_court_streaming_memes_ban/</link>
+      <description>
+        <![CDATA[<h4>Did you hear the one about the thin-skinned barrister?</h4> <p>The High Court of the Indian State of Madhya Pradesh has stopped live-streaming hearings to protect local lawyers from ridicule on social media.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241936</guid>
+    </item>    <item>
+      <title>Trump backpedals as Hyundai factory ICE raid enrages South Korea</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/us_hyundai_immigration/</link>
+      <description>
+        <![CDATA[<h4>Nice plans for US manufacturing you had there, shame if something was to happen to them</h4> <p><strong>Analysis</strong>  On Sunday, President Trump took to his personal social media channel to calm a growing diplomatic storm with one of America&#39;s closest allies, South Korea.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241935</guid>
+    </item>    <item>
       <title>After years of strife, AFRINIC has elected a board. Now the hard work begins</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/15/afrinic_election_called_what_next/</link>
       <description>
@@ -521,7 +612,7 @@
       <title>Your call is very important to us – which is why we&#39;re connecting you to a human</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/12/gartner_support_ai/</link>
       <description>
-        <![CDATA[<h4>Gartner survey of Fortune 500 corps shows very few are planning to replace human support staff</h4> <p><strong>ai-pocalypse</strong>  You&#39;ll be able to talk to a human when you need help for many years to come. A new Gartner study shows that fears about AI replacing humans with bots in call centers are unfounded, at least among Fortune 500 companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Gartner survey of Fortune 500 corps shows very few are planning to replace human support staff</h4> <p><strong>ai-pocalypse</strong>  You&#39;ll be able to talk to a human when you need help for many years to come. A new Gartner study shows that fears about AI replacing humans with bots in call centers are unfounded, at least among Fortune 500 and other companies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241904</guid>
     </item>    <item>
@@ -2470,56 +2561,6 @@
         <![CDATA[Between 2003 and 2023, the proportion of Americans who read for fun on a given day has been steadily falling, a new study suggests]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/r4-zlABu_F7hwEOnNVlacjkPJdk=/420x240/filters:focal(4096x2750:4097x2751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/cb/85cb42c2-c471-489f-9665-23fb58837506/gettyimages-1957612313.jpg" length="" type="" />
-    </item>    <item>
-      <title>FTC Issues Letters to Big Tech: No Back Doors</title>
-      <link>https://puri.sm/posts/ftc-issues-letters-to-big-tech-no-back-doors/</link>
-      <description>
-        <![CDATA[<p>FTC to Big Tech: No Back Doors — Purism Was Already There Protecting against Jurisdictional Arbitrage When the Federal Trade Commission (FTC) makes a determined move like this, it’s not a casual policy tweak — it’s a line drawn in permanent ink. On August 21, FTC Chairman Andrew Ferguson sent formal notices to over a [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/ftc-issues-letters-to-big-tech-no-back-doors/">FTC Issues Letters to Big Tech: No Back Doors</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84107</guid>
-    </item>    <item>
-      <title>French Official Rules That 1,000-Year-Old Bayeux Tapestry Isn&#39;t Too Fragile to Travel to London</title>
-      <link>https://www.smithsonianmag.com/smart-news/french-official-rules-that-1000-year-old-bayeux-tapestry-isnt-too-fragile-to-travel-to-london-180987229/</link>
-      <description>
-        <![CDATA[The 230-foot-long medieval tapestry is scheduled to go on view at the British Museum next year, but critics worry that transporting the delicate artifact is too risky]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/3QzD0_8qdlnvnfYkFpY-F2f7g6I=/420x240/filters:focal(1904x1306:1905x1307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/ad/37ad8807-281d-42d0-88c4-396ed93d5097/gettyimages-79521106.jpg" length="" type="" />
-    </item>    <item>
-      <title>World&#39;s Tallest Douglas Fir Tree Damaged in Mysterious, Multi-Day Blaze, but It&#39;s Alive After Firefighters Extinguish Flames</title>
-      <link>https://www.smithsonianmag.com/smart-news/worlds-tallest-douglas-fir-tree-damaged-in-mysterious-multi-day-blaze-but-its-alive-after-firefighters-extinguish-flames-180987232/</link>
-      <description>
-        <![CDATA[The fire started burning on August 16 and only affected a single tree—the historic Doerner Fir in southern Oregon. Authorities are still investigating the cause]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/x50OabwzSpf6xAizRAqYPUvl-A4=/420x240/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a2/4d/a24d0616-fb62-41fc-89b8-627b5b89f9b4/536286096_1548841393158149_9111245366194712207_n.jpg" length="" type="" />
-    </item>    <item>
-      <title>College Sophomore Discovers New Origami Pattern That Could Be Used to Build Telescopes and Satellites</title>
-      <link>https://www.smithsonianmag.com/smart-news/college-sophomore-discovers-new-origami-pattern-that-could-be-used-to-build-telescopes-and-satellites-180987226/</link>
-      <description>
-        <![CDATA[Based on the work of a student at Brigham Young University, origami theorists have unlocked a new set of patterns that could change space exploration]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/PoD7h_kYzS9kmIC40tzPhqzHTHo=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/b5/01b57710-7619-4208-a243-4a322392e5e8/origami.jpg" length="" type="" />
-    </item>    <item>
-      <title>A Neolithic Cow&#39;s Tooth Helps Point to the Mysterious Origins of Stonehenge&#39;s Iconic Stones</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-neolithic-cows-tooth-helps-point-to-the-mysterious-origins-of-stonehenges-iconic-stones-180987222/</link>
-      <description>
-        <![CDATA[Isotope analysis of a molar from a cow’s jawbone found buried at the monument provides details of the life story of the animal—and how it may relate to the construction of Stonehenge]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bu7PfZibYlAZsK7VCbXQw3Ukc0A=/420x240/filters:focal(1116x680:1117x681)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/08/5508bd93-4894-4a39-9b46-8c5b27f71932/gettyimages-1364722615.jpg" length="" type="" />
-    </item>    <item>
-      <title>To Save This Historic Church, Workers Loaded It Onto Trailers and Rolled It Across Town. See How They Pulled It Off</title>
-      <link>https://www.smithsonianmag.com/smart-news/to-save-this-historic-church-workers-loaded-it-onto-trailers-and-rolled-it-across-town-see-how-they-pulled-it-off-180987219/</link>
-      <description>
-        <![CDATA[The 672.4-ton church is one of several buildings that have been relocated in the Swedish town of Kiruna, where Europe's largest underground iron ore mine is weakening the ground beneath the city center]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/hmLsq50madgVSPr5duzpHXq9CNQ=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/57/3b/573bb5c3-0af3-4c77-b64c-96eb9c34c2e8/church.jpg" length="" type="" />
-    </item>    <item>
-      <title>A Unique Supernova &#39;Dazzled&#39; Astronomers and Revealed the Inner Layers of Stars</title>
-      <link>https://www.smithsonianmag.com/smart-news/a-unique-supernova-dazzled-astronomers-and-revealed-the-inner-layers-of-stars-180987217/</link>
-      <description>
-        <![CDATA[Researchers observed a supernova in progress that showed the onion-like structure of elements in stars, and the explosion may belong to a class of its own]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/CX9mPsNnHsTNPF5F2xkh2mvSpvc=/420x240/filters:focal(600x554:601x555)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7f/8a/7f8add4b-0fb7-46dd-bdeb-d77ad5b99482/sn2021yfj.png" length="" type="" />
     </item>
   </channel>
 </rss>

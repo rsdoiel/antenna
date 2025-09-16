@@ -4,10 +4,18 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>15 Sep 25 16:09 -0700</lastBuildDate>
+    <lastBuildDate>16 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post — Is It Enough to Say a Journal Is ‘Peer Reviewed’? The Case for Rating Journals Based on Peer Review Quality</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/16/guest-post-is-it-enough-to-say-a-journal-is-peer-reviewed-the-case-for-rating-journals-based-on-peer-review-quality/</link>
+      <description>
+        <![CDATA[<p>Peer Review Quality Ratings could offer a powerful step toward restoring faith in the scholarly research system, highlight exemplary practices, and ensure that robust, verified science continues to illuminate the path forward for humanity.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/16/guest-post-is-it-enough-to-say-a-journal-is-peer-reviewed-the-case-for-rating-journals-based-on-peer-review-quality/">Guest Post — Is It Enough to Say a Journal Is &#8216;Peer Reviewed&#8217;? The Case for Rating Journals Based on Peer Review Quality</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60964</guid>
+    </item>    <item>
       <title>That Affair Next Door, by Anna Katharine Green</title>
       <link>https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door</link>
       <description>
@@ -29,6 +37,14 @@
       <description>
         <![CDATA[<p>Last Updated on September 15, 2025, 3:44 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 16 &#124; Wednesday, September 17 &#124; Thursday,...</p>
         <p>The post <a href="https://www.arl.org/uncategorized/day-in-review-september-15-18/">Day in Review (September 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.arl.org/?p=45972</guid>
+    </item>    <item>
+      <title>Day in Review (September 15–18)</title>
+      <link>https://www.arl.org/day-in-review/day-in-review-september-15-18/</link>
+      <description>
+        <![CDATA[<p>Last Updated on September 15, 2025, 8:22 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 16 &#124; Wednesday, September 17 &#124; Thursday,...</p>
+        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-15-18/">Day in Review (September 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=45972</guid>
     </item>    <item>
@@ -717,30 +733,6 @@
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/">Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60844</guid>
-    </item>    <item>
-      <title>Day in Review (August 25–28)</title>
-      <link>https://www.arl.org/day-in-review/day-in-review-august-25-28/</link>
-      <description>
-        <![CDATA[<p>Last Updated on August 28, 2025, 5:33 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus Monday, September 1,...</p>
-        <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-august-25-28/">Day in Review (August 25–28)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.arl.org/?p=45680</guid>
-    </item>    <item>
-      <title>From Detection to Disclosure — Key Takeaways on AI Ethics from COPE’s Forum</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/</link>
-      <description>
-        <![CDATA[<p>Summing up the Committee on Publication Ethics (COPE) Forum discussion on Emerging AI Dilemmas in Scholarly Publishing, which explored the many challenges AI presents for the scholarly community.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/25/from-detection-to-disclosure-key-takeaways-on-ai-ethics-from-copes-forum/">From Detection to Disclosure — Key Takeaways on AI Ethics from COPE’s Forum</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60799</guid>
-    </item>    <item>
-      <title>Dark Princess, by W. E. B. Du Bois</title>
-      <link>https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</link>
-      <description>
-        <![CDATA[A romance with an Indian princess entangles a young American black man in a world-wide conspiracy of the colored peoples against the white.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess/downloads/w-e-b-du-bois_dark-princess.epub?source=feed" length="876275" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/w-e-b-du-bois/dark-princess</guid>
     </item>
   </channel>
 </rss>
