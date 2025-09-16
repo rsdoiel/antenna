@@ -4,10 +4,18 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>16 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Misalliance, by George Bernard Shaw</title>
+      <link>https://standardebooks.org/ebooks/george-bernard-shaw/misalliance</link>
+      <description>
+        <![CDATA[On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/george-bernard-shaw_misalliance.epub?source=feed" length="543402" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/george-bernard-shaw/misalliance</guid>
+    </item>    <item>
       <title>Guest Post — Is It Enough to Say a Journal Is ‘Peer Reviewed’? The Case for Rating Journals Based on Peer Review Quality</title>
       <link>https://scholarlykitchen.sspnet.org/2025/09/16/guest-post-is-it-enough-to-say-a-journal-is-peer-reviewed-the-case-for-rating-journals-based-on-peer-review-quality/</link>
       <description>
@@ -15,6 +23,41 @@
         <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/16/guest-post-is-it-enough-to-say-a-journal-is-peer-reviewed-the-case-for-rating-journals-based-on-peer-review-quality/">Guest Post — Is It Enough to Say a Journal Is &#8216;Peer Reviewed&#8217;? The Case for Rating Journals Based on Peer Review Quality</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
       </description>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60964</guid>
+    </item>    <item>
+      <title>Meet the candidates and cast your vote in our 2025 Board elections</title>
+      <link>https://www.crossref.org/blog/2025-board-election/</link>
+      <description>
+        <![CDATA[<p>On behalf of the Nominating Committee, I’m pleased to share the slate of candidates for the 2025 board election.</p>
+        <p>Each year we do an open call for board interest. This year, the Nominating Committee received 51 submissions from members worldwide to fill five open board seats.</p>
+        <p>We have four large member seats and one small member seat open for election in 2025. We maintain a balanced board of 8 large member seats and 8 small member seats. Size is determined based on the organization&rsquo;s membership tier (small members fall in the $0-$1,650 tiers and large members in the $3,900 - $50,000 tiers).</p>
+        <p>We were pleased to see the diversity in candidates, with applicants from 19 countries. The committee was keen to prepare a diverse slate of organization types, individual skills and perspectives, and global representation.</p>
+        <h2 id="tier-1-small-member-seats-electing-one-candidate">Tier 1, Small member seats (electing one candidate)</h2>
+        <ul>
+        <li><strong>Rebecca Wambua</strong>, Distance, Open and e-Learning Practitioners&rsquo; Association of Kenya</li>
+        <li><strong>Oscar Donde</strong>, Pan Africa Science Journal</li>
+        <li><strong>Nwachukwu Egbunike</strong>, Pan-Atlantic University Press</li>
+        </ul>
+        <h2 id="tier-2-large-member-seats-electing-four-candidates">Tier 2, Large member seats (electing four candidates)</h2>
+        <ul>
+        <li><strong>Damian Bird</strong>, CABI</li>
+        <li><strong>Rose L&rsquo;Huillier</strong>, Elsevier</li>
+        <li><strong>John Sivo</strong>, IEEE</li>
+        <li><strong>Nick Lindsay</strong>, The MIT Press</li>
+        <li><strong>Anjalie Nawaratne</strong>, Springer Nature</li>
+        </ul>
+        <div class="shortcode-divwrap blue-highlight">
+        <span><h3 id="please-read-the-candidates-statementsboard-and-governanceelections2025-slate"><a href="https://www.crossref.org/board-and-governance/elections/2025-slate/">Please read the candidates&rsquo; statements</a></h3>
+        </span>
+        </div>
+        <h2 id="every-member-has-a-vote">Every member has a vote</h2>
+        <p>If your organisation is a voting member in good standing as of September 5th, 2025, you are eligible to vote.</p>
+        <p>The voting contact for your organisation will receive a ballot from eBallot, a third party election platform. You should receive your ballot by Wednesday, September 17th, and you will have until 12:00 UTC on October 22nd to submit your ballot.</p>
+        <p>The election results will be announced at <a href="https://www.crossref.org/crossref-annual-meeting/">Crossref2025</a>, our annual online meeting on October 22nd, 2025.</p>
+        <p>Special thanks to the committee: James Phillpotts of Oxford University Press, Wendy Patterson of Beilstein Institut, Abiodun Falodun of University of Benin, Amanda Ward of Taylor &amp; Francis, and Chaerul Umam of the National Library of Indonesia for the time they dedicated to reviewing the expressions of interest and participating in committee meetings.</p>
+        <p>If you have any questions about our election process, please <a href="mailto:lofiesh@crossref.org">contact me</a></p>
+        <p>Happy voting!</p>]]>
+      </description>
+      <guid>cid://https://www.crossref.org/blog/2025-board-election/</guid>
     </item>    <item>
       <title>That Affair Next Door, by Anna Katharine Green</title>
       <link>https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door</link>
@@ -43,7 +86,7 @@
       <title>Day in Review (September 15–18)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-15-18/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 15, 2025, 8:22 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 16 &#124; Wednesday, September 17 &#124; Thursday,...</p>
+        <![CDATA[<p>Last Updated on September 16, 2025, 3:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 16 &#124; Wednesday, September 17 &#124; Thursday,...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-15-18/">Day in Review (September 15–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=45972</guid>
@@ -60,13 +103,13 @@
       <description>
         <![CDATA[A new hero from Earth reaches Mars and battles a merchant of purloined youth.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-master-mind-of-mars/downloads/edgar-rice-burroughs_the-master-mind-of-mars.epub?source=feed" length="430401" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-master-mind-of-mars/downloads/edgar-rice-burroughs_the-master-mind-of-mars.epub?source=feed" length="430418" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/edgar-rice-burroughs/the-master-mind-of-mars</guid>
     </item>    <item>
       <title>ARL Celebrates Hispanic Heritage Month 2025</title>
       <link>https://www.arl.org/blog/arl-celebrates-hispanic-heritage-month-2025/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 15, 2025, 12:58 pm ET Join us in honoring Hispanic Heritage Month (September 15–October 15). Below is a roundup of blog posts, exhibits, and other resources...</p>
+        <![CDATA[<p>Last Updated on September 16, 2025, 9:28 am ET Join us in honoring Hispanic Heritage Month (September 15–October 15). Below is a roundup of blog posts, exhibits, and other resources...</p>
         <p>The post <a href="https://www.arl.org/blog/arl-celebrates-hispanic-heritage-month-2025/">ARL Celebrates Hispanic Heritage Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=45954</guid>

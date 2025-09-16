@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>16 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,54 +25,6 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
-    </item>    <item>
-      <title>React Won by Default – And It’s Killing Frontend Innovation | Loren Stewart</title>
-      <link>https://www.lorenstew.art/blog/react-won-by-default/</link>
-      <description>
-        <![CDATA[<blockquote>
-          <p>React is no longer winning by technical merit. Today it is winning by default. That default is now slowing innovation across the frontend ecosystem.</p>
-        </blockquote>
-        
-        <p><a href="https://adactio.com/links/22133">adactio.com/links/22133</a></p>]]>
-      </description>
-      <guid>cid://https://www.lorenstew.art/blog/react-won-by-default/</guid>
-    </item>    <item>
-      <link>https://electrek.co/2025/09/16/gazelle-rolls-out-3-new-comfort-focused-e-bikes-in-us-including-its-most-inclusive-ride-yet/</link>
-      <description>
-        <![CDATA[<p>Gazelle launches new comfort-focused e-bikes in the US &amp; Canada.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/16/1115/</guid>
-    </item>    <item>
-      <link>https://www.yahoo.com/entertainment/movies/articles/robert-redford-movie-star-sundance-122155678.html?guccounter=1&#38;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&#38;guce_referrer_sig=AQAAABpemvT8c5adGk1X25bri7fx0DWW8t1unnKWY7Xu8H7awcoBhZRgofwbRxzet4rcDa6UfXlRhLkm9XWLbDPMst3XkD-FnkaHNPrN6-EDWLVL9RxQmPKRX6txnLsO7Qf5VPdmS-f_qdvJ_OhCb3qf1nN2-OJvFMxgnC-9xuIbtqK9</link>
-      <description>
-        <![CDATA[<p>Robert Redford, movie star and Sundance founder, dies at 89.</p>]]>
-      </description>
-      <guid>cid://https://links.daveverse.org/2025/09/16/1113/</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115213980426366445</link>
-      <description>
-        <![CDATA[<p>Breakfast at the Paramount:</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115213980426366445</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115213966218088564</link>
-      <description>
-        <![CDATA[<p>I spent more hours than I care to admit trying to get this cyan EDR color (not sure if it will come through) from macOS 26 finder in SwiftUI.</p><p>I don’t think it is possible to do that with SwiftUI without using Metal?</p><p>Would love any pointers to how to get this.  My photocopying won’t be complete without it.</p><p>Also, that black, I have struggled to get that black/opacity right.</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115213966218088564</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115213944561128892</link>
-      <description>
-        <![CDATA[<p><span class="h-card" translate="no"><a href="https://mastodon.social/@dimillian" class="u-url mention">@<span>dimillian</span></a></span> wow IceCubes feels so fresh with iOS 26!  This is so nice to use!</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115213944561128892</guid>
-    </item>    <item>
-      <title>Podcast: The Confident Commit on Strategic Career Decisions</title>
-      <link>https://cate.blog/2025/09/16/podcast-the-confident-commit-on-strategic-career-decisions/</link>
-      <description>
-        <![CDATA[I had a great time recording this episode of the confident commit, and you can listen to it on Spotify or Apple Podcasts. Things we covered:]]>
-      </description>
-      <guid>cid://https://cate.blog/?p=61699</guid>
     </item>    <item>
       <title>2025-09-15 Searching the blogs on the RPG Planet</title>
       <link>https://alexschroeder.ch/view/2025-09-15-rpg-blog-search</link>
@@ -167,9 +119,11 @@
             exit
         end
         
-        set feeds (string match --entire --regex '/feed/?$' \
-            (xpath -e //outline/attribute::xmlUrl $argv \
-                2&gt;/dev/null | sed -n -e 's/.*xmlUrl=&quot;\(.*\)&quot;/\1/p'))
+        set xpath &quot;string(/rss/channel/item[position()=1]/link/text() | /feed/entry[position()=1]/link/@href)&quot;
+        
+        set feeds (xpath -e //outline/attribute::xmlUrl $argv \
+                       2&gt;/dev/null | sed -n -e 's/.*xmlUrl=&quot;\(.*\)&quot;/\1/p' \
+        	     | string match --entire --regex '/feed/?$' )
         echo (count $feeds) feeds found
         for feed in $feeds
             echo $feed
@@ -181,20 +135,541 @@
                 end
                 echo &quot;  $url&quot;
                 set body (curl --location --silent $url)
-                set cnt (string match --all --regex &quot;&lt;(entry|item)&gt;&quot; &quot;$body&quot; | count)
-                if test $cnt = 0
-                    echo &quot;  done.&quot;
-                    break
-                else
-                    echo $body | xobaque import feed file -
-                end
+        	if test $i = 1
+        	    set first (echo $body | xpath -e $xpath 2&gt;/dev/null)
+        	    if test -z $first
+        	        echo &quot;  empty feed&quot;
+        		break
+        	    end
+        	else
+        	    set this (echo $body | xpath -e $xpath 2&gt;/dev/null)
+        	    if test -z $this
+        	        echo &quot;  no more items&quot;
+        		break
+        	    else if test $this = $first
+        	        echo &quot;  pagination failed&quot;
+        		break
+        	    end
+        	end
+        	echo $body | xobaque import feed file -
             end
         end
         </code></pre>
         
+        <p>In fact, this is too slow! I&rsquo;m not sure what the cause the slowness is.
+        Perhaps it&rsquo;s the xobaque startup time?</p>
+        
+        <p>I started using a setup with multiple steps.</p>
+        
+        <ol>
+        <li>get a list of the feeds</li>
+        <li>download the paginated feeds for 40 of them</li>
+        <li>start xobaque and import them all in one go</li>
+        </ol>
+        
+        <p>This is <code>wordpress-list</code>:</p>
+        
+        <pre><code>#!/usr/bin/fish
+        
+        # Go through previous pages of Wordpress feeds and list them.
+        
+        if test -z &quot;$argv&quot;
+            exit
+        end
+        
+        set feeds (xpath -e //outline/attribute::xmlUrl $argv \
+                       2&gt;/dev/null | sed -n -e 's/.*xmlUrl=&quot;\(.*\)&quot;/\1/p' \
+        	    | string match --entire --regex '/feed/?$' \
+        	    | tail -n +2)
+        for feed in $feeds
+            echo $feed
+        end
+        </code></pre>
+        
+        <p>Use it to create a todo list.</p>
+        
+        <pre><code>./wordpress-list &gt; wordpress-todo.txt
+        </code></pre>
+        
+        <p>Then pipe a bunch of these into the next script.</p>
+        
+        <p>The first forty:</p>
+        
+        <pre><code>head -n 40 wordpress-todo.txt | xargs ./wordpress-feed \+
+        </code></pre>
+        
+        <p>The next forty:</p>
+        
+        <pre><code>tail -n +41 wordpress-todo.txt | head -n 40 | xargs ./wordpress-feed \+
+        </code></pre>
+        
+        <p>And so on.</p>
+        
+        <p>The <code>wordpress-feed</code> script downloads the paginated feeds:</p>
+        
+        <pre><code>#!/usr/bin/fish
+        
+        # Go through the feeds on the command line and get all the pages for the feed.
+        
+        if test -z &quot;$argv&quot;
+            exit
+        end
+        
+        set xpath &quot;string(/rss/channel/item[position()=1]/link/text() | /feed/entry[position()=1]/link/@href)&quot;
+        
+        set dir feeds-(date '+%Y-%m-%d %H:%M')
+        mkdir --parent $dir
+        set f 0
+        for feed in $argv
+            set f (math $f+1)
+            set previous_first_link &quot;&quot;
+            for i in (seq 1000)
+                if test $i = 1
+                    set url $feed
+                else
+                    set url &quot;$feed?paged=$i&quot;
+                end
+                echo $url
+                set body (curl --location --silent $url)
+        	set first_link (echo $body | xpath -e $xpath 2&gt;/dev/null)
+        	if test -z $first_link
+        	    echo &quot;  empty feed&quot;
+        	    break
+        	else if test $first_link = $previous_first_link
+        	    echo &quot;  pagination failed&quot;
+        	    break
+        	end
+        	set previous_first_link $first_link
+        	echo $body &gt; &quot;$dir/$f-$i.xml&quot;
+            end
+        end
+        </code></pre>
+        
+        <p>This generates a bunch of XML files in a directory called <code>feeds-2025-09-16 00:29</code> (depending on the date and time).</p>
+        
+        <p>Process them all:</p>
+        
+        <pre><code>xobaque import feed file feeds-*/*.xml
+        </code></pre>
+        
+        <h2 id="top-posters">Top posters</h2>
+        
+        <p>The imports are still on-going, of course. I&rsquo;ll update this table.</p>
+        
+        <table>
+        <thead>
+        <tr>
+        <th>domain</th>
+        <th align="right">count</th>
+        </tr>
+        </thead>
+        
+        <tbody>
+        <tr>
+        <td>grognardia.blogspot.com</td>
+        <td align="right">4742</td>
+        </tr>
+        
+        <tr>
+        <td>jrients.blogspot.com</td>
+        <td align="right">3502</td>
+        </tr>
+        
+        <tr>
+        <td>towerofthearchmage.blogspot.com</td>
+        <td align="right">2894</td>
+        </tr>
+        
+        <tr>
+        <td>bxblackrazor.blogspot.com</td>
+        <td align="right">2565</td>
+        </tr>
+        
+        <tr>
+        <td>vulpinoid.blogspot.com</td>
+        <td align="right">2554</td>
+        </tr>
+        
+        <tr>
+        <td>9and30kingdoms.blogspot.com</td>
+        <td align="right">2145</td>
+        </tr>
+        
+        <tr>
+        <td>monstersandmanuals.blogspot.com</td>
+        <td align="right">2088</td>
+        </tr>
+        
+        <tr>
+        <td>thegrandtapestry.blogspot.com</td>
+        <td align="right">2003</td>
+        </tr>
+        
+        <tr>
+        <td>gothridgemanor.blogspot.com</td>
+        <td align="right">1990</td>
+        </tr>
+        
+        <tr>
+        <td>ancientvaults.wordpress.com</td>
+        <td align="right">1747</td>
+        </tr>
+        </tbody>
+        </table>
         <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>]]>
       </description>
       <guid>cid://https://alexschroeder.ch/view/2025-09-15-rpg-blog-search</guid>
+    </item>    <item>
+      <title>&#38;#8220;Style lessons from Robert Redford, one of the most stylish men in...</title>
+      <link>https://kottke.org/25/09/0047523-style-lessons-from-robert</link>
+      <guid>cid://tag:kottke.org,2025://13.47523</guid>
+    </item>    <item>
+      <title>Published on Citation Needed: &#34;Prediction markets are booming. Oversight is barely there.&#34;</title>
+      <link>https://citationneeded.news/prediction-markets-oversight</link>
+      <guid>cid://68c9cf09ea61d2bf345a952b</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/09/16/kias-new-pv5-electric-van-enters-taxi-game/</link>
+      <description>
+        <![CDATA[<p>Kia's new PV5 electric van enters the taxi game.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/16/1121/</guid>
+    </item>    <item>
+      <title>Announcing the 2025 PSF Board Election Results!</title>
+      <link>https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://pyfound.blogspot.com/2025/09/announcing-2025-psf-board-election.html">Announcing the 2025 PSF Board Election Results!</a></strong></p>
+        I'm happy to share that I've been re-elected for  second term on the board of directors of the Python Software Foundation.</p>
+        <p>Jannis Leidel was also re-elected and Abigail Dogbe and Sheena O’Connell will be joining the board for the first time.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/psf">psf</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything</guid>
+    </item>    <item>
+      <title>ToothFairy 2.8.7</title>
+      <link>https://mjtsai.com/blog/2025/09/16/toothfairy-2-8-7/</link>
+      <description>
+        <![CDATA[ToothFairy 2.8.7 is a maintenance update of my Bluetooth menu bar utility. This was the easiest of my apps to update for macOS Tahoe 26. One issue was that building it with Xcode 26 triggered a bug (since fixed) that would crash the compiler. More visibly, the icon has been updated for Liquid Glass. Though [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49301</guid>
+    </item>    <item>
+      <title>Xcode 26</title>
+      <link>https://mjtsai.com/blog/2025/09/16/xcode-26/</link>
+      <description>
+        <![CDATA[Apple (xip, downloads): Xcode 26 includes Swift 6.2 and SDKs for iOS 26, iPadOS 26, tvOS 26, watchOS 26, macOS Tahoe 26, and visionOS 26. The Xcode 26 release supports on-device debugging in iOS 16 and later, tvOS 16 and later, watchOS 8 and later, and visionOS. Xcode 26 requires a Mac running macOS Sequoia [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49299</guid>
+    </item>    <item>
+      <title>iPadOS 26</title>
+      <link>https://mjtsai.com/blog/2025/09/16/ipados-26/</link>
+      <description>
+        <![CDATA[Apple (feature list, release notes, security, enterprise, developer): iPadOS 26, the biggest iPadOS release ever, takes a huge leap forward and unlocks powerful productivity updates that transform what users can do on iPad. A beautiful design brings a new look to iPad, plus an entirely new, powerful, and intuitive windowing system helps users control, organize, [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49297</guid>
+    </item>    <item>
+      <title>watchOS 26</title>
+      <link>https://mjtsai.com/blog/2025/09/16/watchos-26/</link>
+      <description>
+        <![CDATA[Apple (release notes, security, developer): watchOS 26 offers even more intelligence to deliver more personalized ways to stay healthy, active, and connected, all within a beautiful new software design. A new sleep score feature comes to Apple Watch, so users can better understand the quality of their sleep and take steps to help make it [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49295</guid>
+    </item>    <item>
+      <title>visionOS 26</title>
+      <link>https://mjtsai.com/blog/2025/09/16/visionos-26/</link>
+      <description>
+        <![CDATA[Apple (release notes, security, enterprise, developer): visionOS 26 brings powerful new spatial experiences to Apple Vision Pro, including widgets that integrate seamlessly into a user&#8217;s space and reappear every time they put on Vision Pro; more expressive, realistic Personas; and spatial scenes, which offer a new viewing experience with lifelike depth for photos. Spatial browsing [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49293</guid>
+    </item>    <item>
+      <title>tvOS 26</title>
+      <link>https://mjtsai.com/blog/2025/09/16/tvos-26/</link>
+      <description>
+        <![CDATA[Apple (release notes, security, developer): tvOS 26 makes Apple TV even more immersive, enjoyable, and convenient with a beautiful design along with engaging new features. Sing-along sessions reach a new level of fun with Sing in Apple Music, allowing users to transform their iPhone into a wireless microphone for Apple TV. Friends can join in [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49291</guid>
+    </item>    <item>
+      <title>audioOS 26</title>
+      <link>https://mjtsai.com/blog/2025/09/16/audioos-26/</link>
+      <description>
+        <![CDATA[Juli Clover (release notes): HomePod Software 26 adds support for crossfade, a feature that&#8217;s designed to more smoothly transition between songs. It also includes AirPlay improvements[&#8230;] It still claims that lots of the albums I&#8217;ve purchased from Apple aren&#8217;t available. Previously: audioOS 18.6 audioOS 18]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49288</guid>
+    </item>    <item>
+      <title>A Clock: An Online Remake of Christian Marclay&#38;#8217;s The Clock</title>
+      <link>https://kottke.org/25/09/a-clock-an-online-remake-of-christian-marclays-the-clock</link>
+      <guid>cid://tag:kottke.org,2025://5.47517</guid>
+    </item>    <item>
+      <title>Join my live video chat with international man of history Sir Niall Ferguson at 2pET Wednesday about how closely the excesses of today resemble the first Gilded Age</title>
+      <link>https://tinabrown.substack.com/p/join-my-live-video-chat-with-international</link>
+      <description>
+        <![CDATA[I'm co-hosting our conversation on Fresh Hell with The Free Press. I hope you'll join us!]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!nE-f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6117e3da-0fa7-48e8-9c4b-0edd5c8f4a0b_864x622.png" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/join-my-live-video-chat-with-international</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a201851</link>
+      <description>
+        <![CDATA[It's <a href="https://really.reallysimple.org/">really</a> simpler than really simple.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a201851</guid>
+    </item>    <item>
+      <title>September 15, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-15-2025-1cb</link>
+      <enclosure url="https://api.substack.com/feed/podcast/173791171/52d251badeed5822dea90189b2ae546e.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-15-2025-1cb</guid>
+    </item>    <item>
+      <title>Digging deeper into YouTube&#39;s view count discrepancy</title>
+      <link>https://www.jeffgeerling.com/blog/2025/digging-deeper-youtubes-view-count-discrepancy</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Digging deeper into YouTube's view count discrepancy</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>For a great many tech YouTube channels, <a href="https://www.jeffgeerling.com/blog/2025/youtube-views-are-down-dont-panic">views have been markedly down</a> from desktop ("computer") users since August 10th (or so).</p>
+        
+        <p>This month-long event has kicked up some dust—enough that two British YouTubers, <a href="https://www.youtube.com/watch?v=MGTKaALdHzc">Spiffing Brit</a> and <a href="https://www.youtube.com/watch?v=YX1eEe8erkQ">Josh Strife Hayes</a> are having a very British argument<sup id="british"><a href="#fn:british" class="footnote-ref" role="doc-noteref">1</a></sup> over who's right about the root cause.</p>
+        
+        <p>Spiffing Brit argued it's a mix of YouTube's seasonality (it's back to school season) and channels falling off, or as TechLinked puts it, "<a href="https://www.youtube.com/watch?v=gZ5pATTvc2o">git gud</a>", while Josh Strife Hayes points out the massive number of channels which identified a <em>historic</em> shift down in desktop views (compared to mobile, tablet, and TV) starting after August 10. This data was <a href="https://www.youtube.com/watch?v=8FUJwXeuCGc">corroborated by this Moist Critical video</a> as well.</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-16T14:55:20-05:00" title="Tuesday, September 16, 2025 - 14:55" class="datetime">September 16, 2025</time>
+        </span>]]>
+      </description>
+      <guid>cid://3493 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>A McSweeney&#38;#8217;s list that&#38;#8217;s not that funny: How to Tell the Difference...</title>
+      <link>https://kottke.org/25/09/0047519-a-mcsweeneys-list-thats-n</link>
+      <guid>cid://tag:kottke.org,2025://13.47519</guid>
+    </item>    <item>
+      <title>Why Make a Website in 2025?</title>
+      <link>https://blog.jim-nielsen.com/2025/why-make-a-website-in-2025/</link>
+      <description>
+        <![CDATA[<p>The same reason you would bake a batch of cookies: because you enjoy it — the process itself, but also the result. </p>
+        <p>And perhaps, if you like, you share the result with others.</p>
+        <p>Who is out there asking, “Should I bake a batch of cookies? How well can that act be monetized? Should I do something else instead?”</p>
+        <p>Do it for the fun of the thing itself.</p>
+        <p>It doesn’t have to be anymore than that. It can be — <a href="https://daverupert.com/2025/09/why-would-anybody-start-a-website/" >Dave talks about that</a> — but it doesn’t have to be.</p>
+        <p>Bake cookies because you like to.</p>
+        <p>Make websites because you like to.</p>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/why-make-a-website-in-2025/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <guid>cid://https://blog.jim-nielsen.com/2025/why-make-a-website-in-2025/</guid>
+    </item>    <item>
+      <title>Ta-Nehisi Coates: &#38;#8216;Charlie Kirk, Redeemed: A Political Class Finds Its Lost Cause&#38;#8217;....</title>
+      <link>https://kottke.org/25/09/0047520-ta-nehisi-coates-charlie-</link>
+      <guid>cid://tag:kottke.org,2025://13.47520</guid>
+    </item>    <item>
+      <title>Smooth Operator</title>
+      <link>https://onefoottsunami.com/2025/09/16/smooth-operator/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29152</guid>
+    </item>    <item>
+      <title>How Climate Scientists Saw the Future Before It Arrived. &#38;#8220;&#38;#8216;The goal of...</title>
+      <link>https://kottke.org/25/09/0047518-how-climate-scientists-sa</link>
+      <guid>cid://tag:kottke.org,2025://13.47518</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a171855</link>
+      <description>
+        <![CDATA[Here's an idea. Why doesn't Apple make a laptop with a light shining out to highlight the user's face so they look better when they're on a Zoom call. I bet someone makes a device like this to clip on a laptop. Right??]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a171855</guid>
+    </item>    <item>
+      <link>https://wapo.st/48gb4mo</link>
+      <description>
+        <![CDATA[<p>Trump is ushering in a new era of government censorship.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/16/1119/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a164507</link>
+      <description>
+        <![CDATA[Until we start working together it’s going to keep getting worse.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a164507</guid>
+    </item>    <item>
+      <title>Incredibly Realistic 3D Models of the Moon&#38;#8217;s Surface (From 1874!)</title>
+      <link>https://kottke.org/25/09/incredibly-realistic-3d-models-of-the-moons-surface-from-1874</link>
+      <guid>cid://tag:kottke.org,2025://5.47515</guid>
+    </item>    <item>
+      <title>DOJ Deletes Study Showing Domestic Terrorists Are Most Often Right Wing</title>
+      <link>https://www.404media.co/doj-deletes-study-showing-domestic-terrorists-are-most-often-right-wing/</link>
+      <description>
+        <![CDATA[Following Charlie Kirk’s assassination and the Trump administration’s promise to go after the “radical left” a study showing most domestic terrosim is far-right was disappeared.]]>
+      </description>
+      <guid>cid://68c98d8bf83e9d0001ff4d3d</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115214855162815301</link>
+      <description>
+        <![CDATA[<p>Why didn’t it occur to me before?</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115214855162815301</guid>
+    </item>    <item>
+      <title>Michigan Lawmakers Are Attempting to Ban Porn Entirely</title>
+      <link>https://www.404media.co/michigan-porn-ban-bill-4938-anticorruption-of-public-morals-act/</link>
+      <description>
+        <![CDATA[The "Anticorruption of Public Morals Act" proposes a total ban on porn in the state, and also targets the existence of trans people online, content like erotic ASMR, and selling VPNs in the state.]]>
+      </description>
+      <guid>cid://68c98254f83e9d0001ff49a0</guid>
+    </item>    <item>
+      <title>Trump&#39;s Calamitous Crypto Corruption</title>
+      <link>https://robertreich.substack.com/p/trumps-calamitous-crypto-corruption</link>
+      <description>
+        <![CDATA[It's enriching him and his family but endangering you, me, and the entire economy]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/gpCxV-cRY4o" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trumps-calamitous-crypto-corruption</guid>
+    </item>    <item>
+      <title>Photographer Upends His Whole Life to Chase Auroras Around the Arctic. &#38;#8220;Prior...</title>
+      <link>https://kottke.org/25/09/0047490-photographer-upends-his-w</link>
+      <guid>cid://tag:kottke.org,2025://13.47490</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a153034</link>
+      <description>
+        <![CDATA[I've started calling ChatGPT boss as in <i>OK boss.</i>]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a153034</guid>
+    </item>    <item>
+      <title>ChatGPT Will Guess Your Age and Might Require ID for Age Verification</title>
+      <link>https://www.404media.co/chatgpt-will-guess-your-age-and-might-require-id-for-age-verification/</link>
+      <description>
+        <![CDATA[OpenAI introduces new age prediction and verification methods after wave of teen suicide stories involving chatbots.]]>
+      </description>
+      <guid>cid://68c97ed6f83e9d0001ff48c9</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a145448</link>
+      <description>
+        <![CDATA[ChatGPT is great at <a href="https://en.wikipedia.org/wiki/SVG">SVG</a>. Describe the icon you want and in a few iterations you have it, even if it's not in <a href="https://fontawesome.com/">Font Awesome</a>. I would have killed to have this a few years ago, before FA came out. This is the best of both -- use FA if they have the right icon, design your own if they don't. It also makes me think that now perhaps SVG-based user interfaces are within the realm of possibility. CSS is no way to design UIs. I have a podcast in the pipe about this. If you want to know what I mean, look at the <a href="http://scripting.com/publicfolder/scripting/misc/quickdrawApiSummary.pdf">docs</a> for <a href="http://scripting.com/2025/06/19/152802.html">QuickDraw</a>.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a145448</guid>
+    </item>    <item>
+      <link>https://www.propublica.org/article/ayman-soliman-dhs-deportation-trump-immigration-ohio</link>
+      <description>
+        <![CDATA[<p>The Case Against Ayman Soliman Could Fuel Trump Immigration Crackdown.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/16/1117/</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a144344</link>
+      <description>
+        <![CDATA[Now would be a good time for everyone to watch <a href="https://www.metacritic.com/movie/the-lives-of-others/">this movie</a>. This is where we are now. It's not in the future. Getting this info will help. Spread the word. Download a copy too. It's a great movie.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a144344</guid>
+    </item>    <item>
+      <title>A 16-Hour Video Series on Everything that Happened in the 70s, 80s, 90s, and 00s</title>
+      <link>https://kottke.org/25/09/a-16-hour-video-series-on-everything-that-happened-in-the-70s-80s-90s-and-00s</link>
+      <guid>cid://tag:kottke.org,2025://5.47514</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/16.html#a142112</link>
+      <description>
+        <![CDATA[To people who read my blog. If you have a quick thought about something you read here, it's ok if you send me an email. It should be short and not personal, if it adds some info or perspective that might be interesting, or if you just agree feverishly (not so much if you disagree, please) drop me a line. My return address on the nightly emails is my real email address. And you can find the address on the <a href="http://scripting.com/?tab=about">About page</a> on my blog. Also sometime soon I think there will be a way to read my blog inside WordLand, so you can post a response to something I wrote, on your own blog, and I can get a link to it. I think this is the best of both worlds. You maintain the integrity of your blog, all your comments are in the same place, and if I think my readers would benefit, I can link it into my blog. I don't think we need comments, in other words. I think our blogs are powerful enough with some new code.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/16.html#a142112</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115214412168914366</link>
+      <description>
+        <![CDATA[<p>Maybe I need to clean up my bookmarks:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115214412168914366</guid>
+    </item>    <item>
+      <title>Dancing about dancing</title>
+      <link>https://adactio.com/journal/22134</link>
+      <description>
+        <![CDATA[<p>I read recently read two books that had writers as their main protagonists:</p>
+        
+        <ul>
+        <li><a href="https://adactio.com/notes/21927"><cite>Death Of The Author</cite></a> by Nnedi Okorafor, and</li>
+        <li><a href="https://adactio.com/notes/22109"><cite>Yellowface</cite></a> by Rebecca F Kuang.</li>
+        </ul>
+        
+        <p>They were both perfectly fine. But I found it hard to get really involved in either narrative. The stakes just never felt that high.</p>
+        
+        <p>Not that high stakes a pre-requisite for a gripping narrative. I enjoyed the films <cite>The Social Network</cite> and <cite>Like A Complete Unknown</cite>. Those stakes couldn’t be lower. One is about a website that might’ve ripped off its idea from another website. The other is about someone who’d like to play different kinds of music but other people would rather he played the same music. It’s a credit to the writers and directors of both films that they could create compelling stories from such objectively unimportant subjects.</p>
+        
+        <p>Getting back to those two books, maybe there’s something navel-gazey when writers write about writing. Then again, I really like non-fiction books about writing from Ann Lamott, Stephen King, and more.</p>
+        
+        <p>Perhaps it’s not the writing part, but the milieu of publishing.</p>
+        
+        <p>I’m trying to think if there are any great films about film-making (<cite>Inception</cite> doesn’t count). <a href="https://www.imdb.com/title/tt0113677/"><cite>Living In Oblivion</cite></a> is pretty great. But a lot of its appeal is that it’s not taking itself too seriously.</p>
+        
+        <p>All too often when a story is set in its own medium (a book about publishing; a film about film-making) it runs the risk of over-estimating its own importance.</p>
+        
+        <p>The most eye-rolling example of this is <cite>The Morning Show</cite>, a television show about a television show. It genuinely tries to make the case for the super-important work being done by vacuous morning chat shows.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/journal/22134</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115214290434660133</link>
+      <description>
+        <![CDATA[<p>Photocopier update.  I hate that I do not have that nice EDR cyan on my copy.</p><p>The icons are placeholders.</p><p>The second screenshot is the current version:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115214290434660133</guid>
+    </item>    <item>
+      <title>Fun logic puzzle game called Clues by Sam. &#38;#8220;Your goal is to...</title>
+      <link>https://kottke.org/25/09/0047507-fun-logic-puzzle-game-cal</link>
+      <guid>cid://tag:kottke.org,2025://13.47507</guid>
+    </item>    <item>
+      <title>$2,000 Shipping: International Sellers Charge Absurd Prices to Avoid Dealing With American Tariffs</title>
+      <link>https://www.404media.co/2-000-shipping-international-sellers-charge-absurd-prices-to-avoid-dealing-with-american-tariffs/</link>
+      <description>
+        <![CDATA[Some sellers on eBay and Etsy have jacked up their shipping costs so American buyers won't buy their products.]]>
+      </description>
+      <guid>cid://68c94b67f83e9d0001fd41d2</guid>
+    </item>    <item>
+      <title>React Won by Default – And It’s Killing Frontend Innovation | Loren Stewart</title>
+      <link>https://www.lorenstew.art/blog/react-won-by-default/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>React is no longer winning by technical merit. Today it is winning by default. That default is now slowing innovation across the frontend ecosystem.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22133">adactio.com/links/22133</a></p>]]>
+      </description>
+      <guid>cid://https://www.lorenstew.art/blog/react-won-by-default/</guid>
+    </item>    <item>
+      <link>https://electrek.co/2025/09/16/gazelle-rolls-out-3-new-comfort-focused-e-bikes-in-us-including-its-most-inclusive-ride-yet/</link>
+      <description>
+        <![CDATA[<p>Gazelle launches new comfort-focused e-bikes in the US &amp; Canada.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/16/1115/</guid>
+    </item>    <item>
+      <link>https://www.yahoo.com/entertainment/movies/articles/robert-redford-movie-star-sundance-122155678.html?guccounter=1&#38;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&#38;guce_referrer_sig=AQAAABpemvT8c5adGk1X25bri7fx0DWW8t1unnKWY7Xu8H7awcoBhZRgofwbRxzet4rcDa6UfXlRhLkm9XWLbDPMst3XkD-FnkaHNPrN6-EDWLVL9RxQmPKRX6txnLsO7Qf5VPdmS-f_qdvJ_OhCb3qf1nN2-OJvFMxgnC-9xuIbtqK9</link>
+      <description>
+        <![CDATA[<p>Robert Redford, movie star and Sundance founder, dies at 89.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/16/1113/</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115213980426366445</link>
+      <description>
+        <![CDATA[<p>Breakfast at the Paramount:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115213980426366445</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115213966218088564</link>
+      <description>
+        <![CDATA[<p>I spent more hours than I care to admit trying to get this cyan EDR color (not sure if it will come through) from macOS 26 finder in SwiftUI.</p><p>I don’t think it is possible to do that with SwiftUI without using Metal?</p><p>Would love any pointers to how to get this.  My photocopying won’t be complete without it.</p><p>Also, that black, I have struggled to get that black/opacity right.</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115213966218088564</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115213944561128892</link>
+      <description>
+        <![CDATA[<p><span class="h-card" translate="no"><a href="https://mastodon.social/@dimillian" class="u-url mention">@<span>dimillian</span></a></span> wow IceCubes feels so fresh with iOS 26!  This is so nice to use!</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115213944561128892</guid>
+    </item>    <item>
+      <title>Podcast: The Confident Commit on Strategic Career Decisions</title>
+      <link>https://cate.blog/2025/09/16/podcast-the-confident-commit-on-strategic-career-decisions/</link>
+      <description>
+        <![CDATA[I had a great time recording this episode of the confident commit, and you can listen to it on Spotify or Apple Podcasts. Things we covered:]]>
+      </description>
+      <guid>cid://https://cate.blog/?p=61699</guid>
     </item>    <item>
       <link>https://mastodon.social/@Migueldeicaza/115213813462725563</link>
       <description>
@@ -205,7 +680,7 @@
       <title>MCP in Practice</title>
       <link>https://www.oreilly.com/radar/mcp-in-practice/</link>
       <description>
-        <![CDATA[The following was originally published in Asimov Addendum, September 10, 2025: https://asimovaddendum.substack.com/p/read-write-act-inside-the-mcp-server AI Disclosures Project 1. The Rise and Rise of MCP Anthropic’s Model Context Protocol (MCP) was released in November 2024 as a way to make tools and platforms model-agnostic. MCP works by defining servers and clients. MCP servers are local or remote end [&#8230;]]]>
+        <![CDATA[The following was originally published in Asimov&#8217;s Addendum, September 11, 2025. Learn more about the AI Disclosures Project here. 1. The Rise and Rise of MCP Anthropic’s Model Context Protocol (MCP) was released in November 2024 as a way to make tools and platforms model-agnostic. MCP works by defining servers and clients. MCP servers are local or remote end [&#8230;]]]>
       </description>
       <guid>cid://https://www.oreilly.com/radar/?p=17440</guid>
     </item>    <item>
@@ -293,6 +768,13 @@
       <link>https://kottke.org/25/09/0047513-ok-i-think-i-have</link>
       <guid>cid://tag:kottke.org,2025://13.47513</guid>
     </item>    <item>
+      <title>It&#39;s survey time! How has Go has been working out for you?</title>
+      <link>https://go.dev/blog/survey2025-announce</link>
+      <description>
+        <![CDATA[Help shape the future of Go]]>
+      </description>
+      <guid>cid://tag:blog.golang.org,2013:blog.golang.org/survey2025-announce</guid>
+    </item>    <item>
       <title>The Evolution of How Rappers Construct Their Rhymes</title>
       <link>https://kottke.org/25/09/the-evolution-of-how-rappers-construct-their-rhymes-1</link>
       <guid>cid://tag:kottke.org,2025://5.47512</guid>
@@ -354,14 +836,14 @@
       <title>macOS Tahoe 26</title>
       <link>https://mjtsai.com/blog/2025/09/15/macos-tahoe-26/</link>
       <description>
-        <![CDATA[Apple (feature list, no release notes, security, no enterprise, developer, full installer, IPSW): macOS Tahoe transforms the Mac experience with a stunning new design and powerful capabilities that turbocharge productivity. The new design offers users even more ways to personalize their Mac with an updated Control Center in addition to new color options for folders, [&#8230;]]]>
+        <![CDATA[Apple (feature list, release notes, security, enterprise, developer, full installer, IPSW): macOS Tahoe transforms the Mac experience with a stunning new design and powerful capabilities that turbocharge productivity. The new design offers users even more ways to personalize their Mac with an updated Control Center in addition to new color options for folders, app icons, [&#8230;]]]>
       </description>
       <guid>cid://https://mjtsai.com/blog/?p=49278</guid>
     </item>    <item>
       <title>iOS 26</title>
       <link>https://mjtsai.com/blog/2025/09/15/ios-26/</link>
       <description>
-        <![CDATA[Apple (feature list, release notes, security, no enterprise, developer): Featuring the new design with Liquid Glass, iOS 26 brings more customization options to the Lock Screen, including a sleek adaptive time presentation and delightful 3D spatial scenes, as well as enhancements to Camera, Photos, Safari, the Phone app, and more. To help users eliminate distractions [&#8230;]]]>
+        <![CDATA[Apple (feature list, release notes, security, enterprise, developer): Featuring the new design with Liquid Glass, iOS 26 brings more customization options to the Lock Screen, including a sleek adaptive time presentation and delightful 3D spatial scenes, as well as enhancements to Camera, Photos, Safari, the Phone app, and more. To help users eliminate distractions and [&#8230;]]]>
       </description>
       <guid>cid://https://mjtsai.com/blog/?p=49276</guid>
     </item>    <item>
@@ -427,6 +909,7 @@
       <description>
         <![CDATA[<p><strong><a href="https://openai.com/index/introducing-upgrades-to-codex/">GPT‑5-Codex and upgrades to Codex</a></strong></p>
         OpenAI half-released a new model today: GPT‑5-Codex, a fine-tuned GPT-5 variant explicitly designed for their various AI-assisted programming tools.</p>
+        <p><em><strong>Update</strong>: OpenAI call it a "version of GPT-5", they don't explicitly describe it as a fine-tuned model. Calling it a fine-tune was my mistake here. </em></p>
         <p>I say half-released because it's not yet available via their API, but they "plan to make GPT‑5-Codex available in the API soon".</p>
         <p>I wrote about <a href="https://simonwillison.net/2025/May/16/openai-codex/">the confusing array of OpenAI products that share the name Codex</a> a few months ago. This new model adds yet another, though at least "GPT-5-Codex" (using two hyphens) is unambiguous enough not to add to much more to the confusion.</p>
         <p>At this point it's best to think of <strong>Codex</strong> as OpenAI's brand name for their coding family of models and tools.</p>
@@ -1156,6 +1639,10 @@
         <p><a class="tag" href="/search/?q=%23Halberds_and_Helmets_Podcast">#Halberds and Helmets Podcast</a></p>]]>
       </description>
       <guid>cid://https://alexschroeder.ch/view/2025-09-14-episode-56</guid>
+    </item>    <item>
+      <title>Note published on September 13, 2025 at 8:45 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509131641</link>
+      <guid>cid://68c5d803d4bbdd57f2b61942</guid>
     </item>    <item>
       <title>Developer of the year</title>
       <link>https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/</link>
