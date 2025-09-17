@@ -298,4 +298,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Doc Searls on Medium](https://medium.com/feed/@dsearls)
 - [Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza.rss)
 - [Ryan Gantz Bluesky feed](https://bsky.app/profile/did:plc:42n7zwgawer2whfwg3igqwrd/rss)
-
+- [rpdev.net](https://www.rpdev.net/feed.xml)

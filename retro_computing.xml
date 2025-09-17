@@ -4,10 +4,45 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>64-bit Linux on Power Mac G5 Quad</title>
+      <link>https://happymacs.wordpress.com/2025/09/17/64-bit-linux-on-power-mac-g5-quad/</link>
+      <description>
+        <![CDATA[Is there a 64-bit (PPC64) Linux release for a late 2005 G5 Quad that just works? Well, it turns out that there is, MintPPC64! Look up &#8220;MintPPC&#8221; on Google and visit the site MintPPC64 for the complete story. The site is structured in a clean, straightforward way that makes it easy to navigate and use. [&#8230;]]]>
+      </description>
+      <guid>cid://http://happymacs.wordpress.com/?p=2701</guid>
+    </item>    <item>
+      <title>Developers’ fireside chat – 20th September</title>
+      <link>https://www.riscository.com/2025/developers-fireside-chat-20th-september/</link>
+      <description>
+        <![CDATA[The next friendly fireside chat for people interested in RISC OS software development will take place at 7:30pm on Saturday, 20th September. Taking place online via the Zoom video conferencing service, these meetings are intended as an informal way of allowing RISC OS programmers, and anyone interested in the subject, to get together online to discuss relevant matters. These meetings don&#8217;t have a set agenda, and topics discussed are based on the questions people might ask or what they&#8217;ve been working on and choose to demonstrate. For example, topics covered&#8230;]]>
+      </description>
+      <guid>cid://https://www.riscository.com/?p=10712</guid>
+    </item>    <item>
+      <title>Stations more accessible in TrainTimes 2.07</title>
+      <link>https://www.riscository.com/2025/traintimes-2-07/</link>
+      <description>
+        <![CDATA[A new version of TrainTimes has been released. The program is one from the Kevin Wells family of applications that use Wget to request data from a remote application programmer interface (API). In this case, the program can be used to check train timetables, as well as find out useful information about the trains themselves, the stations along their route, and so on. It does so through two different APIs &#8211; Real Train Times (from whom, users will need to register for an API key) and National Rail. The update&#8230;]]>
+      </description>
+      <guid>cid://https://www.riscository.com/?p=10714</guid>
+    </item>    <item>
+      <title>b.log 2025/09/17 - Wasted, Tories and Defections.</title>
+      <link>https://heyrick.eu/blog/entry/20250917</link>
+      <description>
+        <![CDATA[Wasted, Tories and Defections.]]>
+      </description>
+      <guid>cid://https://heyrick.eu/blog/entry/20250917</guid>
+    </item>    <item>
+      <title>Diabaig adventure game for DOS</title>
+      <link>https://sourceforge.net/p/freedos/news/2025/09/diabaig-adventure-game-for-dos/</link>
+      <description>
+        <![CDATA[<div class="markdown_content"><p>Diabaig is a traditional turn-based ASCII roguelike where you are never more than a few mistakes away from death. Choose a starting class, find powerful items, and learn new spells and techniques to face increasingly dangerous adversity. The <a class="" href="https://conornally.itch.io/diabaig" rel="nofollow">Diabaig website</a> has versions for Windows, macOS, Linux, and Android .. but an unofficial version has been compiled for DOS by Ben Collver, using OpenWatcom and pdcurses. You can find it at <a class="" href="https://archive.org/details/diabaig-1.0.0-for-dos" rel="nofollow">Diabaig 1.0.0 for DOS</a> on Archive.org. It requires a 32-bit CPU and 4 MB memory to run.</p></div>]]>
+      </description>
+      <guid>cid://https://sourceforge.neta24cdf90664d4feae13325fd28faf6f93e44bbbc</guid>
+    </item>    <item>
       <title>USB4 Maintainer Leaves Intel</title>
       <link>http://www.linux-magazine.com/Online/News/USB4-Maintainer-Leaves-Intel</link>
       <description>

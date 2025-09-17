@@ -4,10 +4,185 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>GNOME 49 released</title>
+      <link>https://www.osnews.com/story/143369/gnome-49-released/</link>
+      <description>
+        <![CDATA[GNOME 49 has been released, and it&#8217;s got a lot of nice updates, improvements, and fixes for everyone. GNOME 49 finally replaces the ageing Totem video player with Showtime, and Evince, GNOME&#8217;s document viewer, is replaced by the new Papers. Both of these new applications bring a modern GTK4 user interface to replace their older GTK3 counterparts. Papers supports a ton of both document-oriented as well as comic book formats, and has annotation features. We&#8217;ve already touched on the extensive accessibility improvements in GNOME Calendar, but other applications have been improved as well, such as Maps, Software, and Web. Software&#8217;s improvements focus on improving the application&#8217;s performance, especially when dealing with Flatpaks from Flathub, while Web, GNOME&#8217;s web browser, comes with improved ad blocking and optional regional blocklists, better bookmark management, improved security features, and more. The remote desktop experience also saw a lot of work, with multitouch input support, extended virtual monitors, and relative mouse input. For developers, GNOME 49 comes with the new GTK 4.20, the latest version of Glib, and Libadwaita 1.8, released only a few days ago. It brings a brand new shortcuts information dialog as its most user-facing feature, on top of a whole bunch of other, developer-oriented features. GNOME 49 will find its way to your distribution of choice soon enough.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143369</guid>
+    </item>    <item>
+      <title>US tech giants pledge $42 billion in UK investment as Trump tours Blighty</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/us_uk_trade_deal/</link>
+      <description>
+        <![CDATA[<h4>Datacenters galore, plus some vague cooperation on AI, nuclear, quantum, and more</h4> <p>America and the UK have announced a $42 billion (£31 billion) trade pact, funded by Microsoft, Google, and others, that predicts bit barns will spring up over Britain&#39;s green and pleasant Land. But there&#39;s a lot more than money involved.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241979</guid>
+    </item>    <item>
+      <title>Scale AI says &#39;tanks a lot&#39; to Pentagon for data-classifying deal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/dod_scale_ai_deal/</link>
+      <description>
+        <![CDATA[<h4>First up: $41M to use human annotators to label all that unstructured military data. What could go wrong?</h4> <p>Data curation firm Scale AI has partnered with the Pentagon to deploy its AI on Top Secret networks - a move its interim CEO says is necessary if the US wants AI to be useful for national security.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241980</guid>
+    </item>    <item>
+      <title>AMD tries to catch CUDA with performance-boosting ROCm 7 software</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/amd_rocm_7_chases_nvidia_cuda/</link>
+      <description>
+        <![CDATA[<h4>House of Zen promises 3.5x improvement in inference and 3x uplift in training perf over last-gen software</h4> <p>AMD closed the performance gap with Nvidia&#39;s Blackwell accelerators with the launch of the MI355X this spring. Now the company just needs to overcome Nvidia&#39;s CUDA software advantage and make that perf more accessible to developers. …</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241981</guid>
+    </item>    <item>
+      <title>NASA Artemis II Moon Rocket Ready to Fly Crew</title>
+      <link>https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/</link>
+      <description>
+        <![CDATA[NASA’s Artemis II SLS (Space Launch System) rocket poised to send four astronauts from Earth on a journey around the Moon next year may appear identical to the Artemis I SLS rocket. On closer inspection, though, engineers have upgraded the agency’s Moon rocket inside and out to improve performance, reliability, and safety. SLS flew a [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=915422</guid>
+    </item>    <item>
+      <title>Installing and using Debian with my decades-old genuine DEC vt510 serial terminal</title>
+      <link>https://www.osnews.com/story/143367/installing-and-using-debian-with-my-decades-old-genuine-dec-vt510-serial-terminal/</link>
+      <description>
+        <![CDATA[It&#8217;s 2025, and yes, you can still install and run a modern Linux distribution like Debian through a real hardware terminal. While I have used a terminal with the Pi, I’ve never before used it as a serial&#160;console&#160;all the way from early boot, and I have never installed Debian using the terminal to run the installer. A serial terminal gives you a login prompt. A serial console gives you access to kernel messages, the initrd environment, and sometimes even the bootloader. This might be fun, I thought. ↫ John Goerzen at The Changelog It seems Debian does a lot of the correct configurations for you, but there&#8217;s still a few things you&#8217;ll need to manually change, but none of it seems particularly complicated. Once the installation is completed, you have a system that&#8217;s completely accessible and usable from a hardware terminal, which, while maybe not particularly important in this day and age of effortless terminal emulators, is still quite a cool thing to have.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143367</guid>
+    </item>    <item>
+      <title>More Than 300 Hats Have Been Pulled From Yellowstone&#39;s Geothermal Features So Far This Year</title>
+      <link>https://www.smithsonianmag.com/smart-news/more-than-300-hats-have-been-pulled-from-yellowstones-geothermal-features-so-far-this-year-180987345/</link>
+      <description>
+        <![CDATA[Debris, garbage and clothing often ends up in the park's hot springs, geysers, fumaroles and mudpots]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/mypVZHKdIKpWu1xfMSUyRn4s1i8=/420x240/filters:focal(668x503:669x504)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/e5/c0e57053-183e-445c-adf7-9536d0989786/img_0510.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Scattered Spider gang feigns retirement, breaks into bank instead</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/scattered_spider_bank_attack/</link>
+      <description>
+        <![CDATA[<h4>You didn&#39;t really trust the crims to keep their word, did you?</h4> <p>Spiders don&#39;t change their stripes. Despite gang members&#39; recent retirement claims, Scattered Spider hasn&#39;t exited the cybercrime business and instead has shifted focus to the financial sector, with a recent digital intrusion at a US bank.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241978</guid>
+    </item>    <item>
+      <title>See the Entire U.S. Constitution on Display for the Very First Time in History</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-entire-us-constitution-on-display-for-the-very-first-time-in-history-180987338/</link>
+      <description>
+        <![CDATA[The National Archives in Washington, D.C. will be showcasing the four pages of the historic document, plus a rarely shown "fifth page," the Bill of Rights and the 17 other amendments]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/WZ3Mcwh41_GLhT0A1LvS9KTwyU0=/420x240/filters:focal(2046x1383:2047x1384)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8a/f7/8af7cecd-f373-4885-b56c-8c4586864420/gettyimages-99611092.jpg" length="" type="" />
+    </item>    <item>
+      <title>Do We See the Same Colors as Others? Study Suggests Brains Respond to the Same Hues in Similar Ways</title>
+      <link>https://www.smithsonianmag.com/smart-news/do-we-see-the-same-colors-as-others-study-suggests-brains-respond-to-the-same-hues-in-similar-ways-180987307/</link>
+      <description>
+        <![CDATA[Using MRI scans, researchers found that participants’ patterns of brain activity were alike when looking at certain colors. But people can still experience those colors differently]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/t2itb1D_FvKeeuuiS5GXHgfAvrE=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/56/8c56af03-f786-463f-ad44-57ad364bfe61/pexels-nietjuhart-1152666.jpg" length="" type="" />
+    </item>    <item>
+      <title>Social Security admin denies DB data leak, DOGEs questions about a copy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/ssa_denies_doge_whistleblower_claim/</link>
+      <description>
+        <![CDATA[<h4>Carefully crafted response makes no mention of whether DOGE employees duplicated critical database</h4> <p>The Social Security Administration (SSA) has disputed a whistleblower&#39;s allegations that claimed DOGE made an unauthorized, unsecured copy of a critical database - but it&#39;s what the denial <em>doesn&#39;t</em> say that speaks volumes. …</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241976</guid>
+    </item>    <item>
+      <title>NASA’s Tally of Planets Outside Our Solar System Reaches 6,000</title>
+      <link>https://www.nasa.gov/universe/exoplanets/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/</link>
+      <description>
+        <![CDATA[The milestone highlights the accelerating rate of discoveries, just over three decades since the first exoplanets were found. The official number of exoplanets — planets outside our solar system — tracked by NASA has reached 6,000. Confirmed planets are added to the count on a rolling basis by scientists from around the world, so no [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=914820</guid>
+    </item>    <item>
+      <title>Super-sized space freighter delayed on way to ISS, leaving snacks in jeopardy</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/cygnus_xl_iss_resupply/</link>
+      <description>
+        <![CDATA[<h4>Crew will have to wait a little longer for science supplies, spares, and &#39;fun food&#39;</h4> <p>NASA has delayed a supply delivery to the International Space Station (ISS) after the engines of Northrop Grumman&#39;s Cygnus XL cargo spacecraft did not perform as expected during an orbit-raising burn.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241973</guid>
+    </item>    <item>
+      <title>NASA Rideshares Integrated Ahead of Launch</title>
+      <link>https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/</link>
+      <description>
+        <![CDATA[Technicians completed integrating NASA’s Carruthers Geocorona Observatory and the National Oceanic and Atmospheric Administration’s (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) satellite to an Evolved Expendable Launch Vehicle Secondary Payload Adapter ring at the Astrotech Space Operations Facility near NASA’s Kennedy Space Center in Florida on Sept. 4. Integrating the rideshares to the ring precedes [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=915171</guid>
+    </item>    <item>
+      <title>Arctic Sea Ice Reaches Annual Low</title>
+      <link>https://www.nasa.gov/earth/arctic-sea-ice-2025-low/</link>
+      <description>
+        <![CDATA[With the end of summer approaching in the Northern Hemisphere, the extent of sea ice in the Arctic shrank to its annual minimum on Sept. 10, according to NASA and the National Snow and Ice Data Center. The total sea ice coverage was tied with 2008 for the 10th-lowest on record at 1.78 million square [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=914436</guid>
+    </item>    <item>
+      <title>Tariff threat plays havoc with US PC market, economy not helping</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/tariffs_us_pc_market/</link>
+      <description>
+        <![CDATA[<h4>American businesses join Win 10 upgrade train, consumers happy to sit on the platform</h4> <p><strong>World War Fee</strong>  The US PC industry is suffering from inventory indigestion caused by resellers over-ordering hardware to avoid Donald Trump&#39;s expected import taxes on China-made kit.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241974</guid>
+    </item>    <item>
+      <title>Space Station Science</title>
+      <link>https://www.nasa.gov/image-article/space-station-science/</link>
+      <description>
+        <![CDATA[NASA astronaut Zena Cardman processes bone cell samples inside the Kibo laboratory module&#8217;s Life Science Glovebox on Aug. 28, 2025, as part of an experiment that tests how microgravity affects bone-forming and bone-degrading cells and explore potential ways to prevent bone loss. This research could help protect astronauts on future long-duration missions to the Moon [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=914623</guid>
+    </item>    <item>
+      <title>AI in your toaster: Analyst predicts $1.5T global spend in 2025</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/gartner_ai_spending/</link>
+      <description>
+        <![CDATA[<h4>And we&#39;re paying for it piecemeal through the software, services, and devices we buy</h4> <p>Tech analysts expect worldwide spending on AI to hit nearly $1.5 trillion in 2025, including $268 billion on optimized servers. These investments will also soon appear in even more consumer products.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241967</guid>
+    </item>    <item>
+      <title>NASA’s IMAP Mission to Study Boundaries of Our Home in Space</title>
+      <link>https://science.nasa.gov/missions/nasas-imap-mission-to-study-boundaries-of-our-home-in-space/</link>
+      <description>
+        <![CDATA[Summary Space is a dangerous place — one that NASA continues to explore for the benefit of all. It’s filled with radiation and high-energy particles that can damage DNA and circuit boards alike. Yet life endures in our solar system in part because of the heliosphere, a giant bubble created by the Sun that extends […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/missions/nasas-imap-mission-to-study-boundaries-of-our-home-in-space/</guid>
+    </item>    <item>
+      <title>Axiom Space aims for orbit with its Orbital Data Center Node</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/axiom_space_aims_for_orbit/</link>
+      <description>
+        <![CDATA[<h4>But will the International Space Station still be there to host its node?</h4> <p>Axiom Space and Spacebilt have announced plans to add optically interconnected Orbital Data Center (ODC) infrastructure to the International Space Station (ISS).…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241969</guid>
+    </item>    <item>
+      <title>OpenAI says models are programmed to make stuff up instead of admitting ignorance</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/openai_hallucinations_incentives/</link>
+      <description>
+        <![CDATA[<h4>Even a wrong answer is right some of the time</h4> <p>AI models often produce false outputs, or &#34;hallucinations.&#34; Now OpenAI has admitted they may result from fundamental mistakes it makes when training its models.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241958</guid>
+    </item>    <item>
+      <title>Severe Drought in Iraq Reveals Dozens of Ancient Tombs Created 2,300 Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/</link>
+      <description>
+        <![CDATA[The tombs, which likely date to Iraq's Hellenistic period, were discovered along the Mosul Dam reservoir]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bYDn7crEiK8cwKd6zsv-dirbMM4=/420x240/filters:focal(2736x1824:2737x1825)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/2a/442a813c-91c8-4f34-9bfb-bce825be1108/gettyimages-2232249315.jpg" length="" type="" />
+    </item>    <item>
+      <title>Return on investment for Copilot? Microsoft has work to do</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/return_on_investment_for_copilot/</link>
+      <description>
+        <![CDATA[<h4>Jared Spataro, boss of modern work and biz apps division, says &#39;hard to make the ROI argument for it&#39;</h4> <p>A Microsoft exec claims Copilot is boosting productivity among the customers that adopted it yet sustained efforts to convince many them of the returns on investment remains a work in progress.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241970</guid>
+    </item>    <item>
+      <title>Glacial Melting in Alaska Has Created a New Island</title>
+      <link>https://www.smithsonianmag.com/smart-news/glacial-melting-in-alaska-has-created-a-new-island-180987350/</link>
+      <description>
+        <![CDATA[Alsek Glacier disconnected from a mountain called Prow Knob sometime this past summer, making way for Alsek Lake to surround the landmass]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/76Y-RNdxo_D6mhLSoQrByg4w-ko=/420x240/filters:focal(360x267:361x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/48/15/48153d70-21ab-43bf-98b7-43898dccfdd9/ak_alsekglacier_oli2_20250806_lrg.jpg" length="" type="" />
+    </item>    <item>
+      <title>Paleontologists Directly Date Dinosaur Eggs for the First Time, Shedding Light on the Cretaceous World 85 Million Years Ago</title>
+      <link>https://www.smithsonianmag.com/smart-news/paleontologists-directly-date-dinosaur-eggs-for-the-first-time-shedding-light-on-the-cretaceous-world-85-million-years-ago-180987332/</link>
+      <description>
+        <![CDATA[Using uranium-lead dating, researchers calculated the age of the eggs, rather than the sediments around them, at the Qinglongshan site in China]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/m05BcVFgIVH8X_x6gMYnSugpcm4=/420x240/filters:focal(391x304:392x305)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/8c/cf/8ccfee83-3d81-43c8-96c7-cb483266d3bf/dinosaur_egg_fossil_sampled_for_geochronology_credit_dr_bi_zhao.webp" length="" type="" />
+    </item>    <item>
       <title>Strong Java LTS arrives with the release of 25</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/java_25_released/</link>
       <description>
@@ -78,10 +253,10 @@
       </description>
       <guid>cid://tag:theregister.com,2005:story241949</guid>
     </item>    <item>
-      <title>AI, Arm, and Copilot: Living with Microsoft&#39;s Surface Laptop 7</title>
+      <title>Microsoft Surface 7 laptop: Nice hardware, shame about the OS</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/ai_arm_and_copilot_living/</link>
       <description>
-        <![CDATA[<h4>Nice hardware, shame about the OS</h4> <p><strong>COMMENT</strong>  The Arm-based Surface Laptop 7 was introduced in 2024, followed by an Intel-powered version a few months later. As with much of the Surface line, it&#39;s a well-engineered piece of hardware. I needed something that could run off the battery for a full day, wouldn&#39;t break the strap of a courier bag or the bank, and featured a decent spec.…</p>]]>
+        <![CDATA[<h4>Arm, AI, and Copilot, oh my!</h4> <p><strong>hands on</strong>  The Arm-based Surface Laptop 7 was introduced in 2024, followed by an Intel-powered version a few months later. As with much of the Surface line, it&#39;s a well-engineered piece of hardware. I needed something that could run off the battery for a full day, wouldn&#39;t break the strap of a courier bag or the bank, and featured a decent spec.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241930</guid>
     </item>    <item>
@@ -172,7 +347,7 @@
       <title>Architecture Workshop Registration Requests</title>
       <link>https://www.nasa.gov/general/architecture-workshop-registration-request/</link>
       <description>
-        <![CDATA[Please fill out the form below to request registration for the 2026 Moon to Mars Architecture workshops. A request to register does not guarantee participation in the event. Form coming soon&#8230;]]>
+        <![CDATA[Please fill out the form below to request registration for the 2026 Moon to Mars Architecture workshops. A request to register does not guarantee participation in the event. The workshop for industry and academia will be held in Washington, DC, on January 21 and 22, 2026, in collaboration with the National Academy of Sciences. The [&#8230;]]]>
       </description>
       <guid>cid://https://www.nasa.gov/?p=914617</guid>
     </item>    <item>
