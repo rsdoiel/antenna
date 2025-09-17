@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -26,40 +26,73 @@
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
-      <title>Podcast: The (Hacked) Spy In Your Car</title>
-      <link>https://www.404media.co/podcast-the-hacked-spy-in-your-car/</link>
-      <description>
-        <![CDATA[A massive hack of a popular dashcam company; the sentencing of someone Sam has covered for years; and the mass firings around Charlie Kirk's assassination.]]>
-      </description>
-      <guid>cid://68caaa4bf83e9d0001ff9f29</guid>
+      <title>The &#38;#8220;Debate Me Bro&#38;#8221; Grift: How Trolls Weaponized The Marketplace Of Ideas....</title>
+      <link>https://kottke.org/25/09/0047536-the-debate-me-bro-grift</link>
+      <guid>cid://tag:kottke.org,2025://13.47536</guid>
     </item>    <item>
-      <title>Raspberry Pi’s commitment to longevity: a sustainable advantage</title>
-      <link>https://www.raspberrypi.com/news/raspberry-pis-commitment-to-longevity-a-sustainable-advantage/</link>
+      <title>ICPC medals for OpenAI and Gemini</title>
+      <link>https://simonwillison.net/2025/Sep/17/icpc/#atom-everything</link>
       <description>
-        <![CDATA[<p>Raspberry Pi’s long product lifetimes and ongoing software support help reduce electronic waste, contributing to a more sustainable electronics ecosystem.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/raspberry-pis-commitment-to-longevity-a-sustainable-advantage/">Raspberry Pi&#8217;s commitment to longevity: a sustainable advantage</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+        <![CDATA[<p>In July it was the International Math Olympiad (<a href="https://simonwillison.net/2025/Jul/19/openai-gold-medal-math-olympiad/">OpenAI</a>, <a href="https://simonwillison.net/2025/Jul/21/gemini-imo/">Gemini</a>), today it's the <a href="https://en.m.wikipedia.org/wiki/International_Collegiate_Programming_Contest">International Collegiate Programming Contest (ICPC)</a>. Once again, both OpenAI and Gemini competed with models that achieved Gold medal performance.</p>
+        <p>OpenAI's <a href="https://twitter.com/mostafarohani/status/1968361152741826849">Mostafa Rohaninejad</a>:</p>
+        <blockquote>
+        <p>We received the problems in the exact same PDF form, and the reasoning system selected which answers to submit with no bespoke test-time harness whatsoever. For 11 of the 12 problems, the system’s first answer was correct. For the hardest problem, it succeeded on the 9th submission. Notably, the best human team achieved 11/12.</p>
+        <p>We competed with an ensemble of general-purpose reasoning models; we did not train any model specifically for the ICPC. We had both GPT-5 and an experimental reasoning model generating solutions, and the experimental reasoning model selecting which solutions to submit. GPT-5 answered 11 correctly, and the last (and most difficult problem) was solved by the experimental reasoning model.</p>
+        </blockquote>
+        <p>And here's <a href="https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/">the blog post</a> by Google DeepMind's Hanzhao (Maggie) Lin and Heng-Tze Cheng:</p>
+        <blockquote>
+        <p>An advanced version of Gemini 2.5 Deep Think competed live in a remote online environment following <a href="https://icpc.global/worldfinals/rules">ICPC rules</a>, under the guidance of the competition organizers. It started 10 minutes after the human contestants and correctly solved 10 out of 12 problems, achieving gold-medal level performance under the same five-hour time constraint. See our solutions <a href="https://github.com/google-deepmind/gemini_icpc2025">here</a>.</p>
+        </blockquote>
+        <p>I'm still trying to confirm if the models had access to tools in order to execute the code they were writing. The IMO results in July were both achieved without tools.</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
       </description>
-      <guid>cid://https://www.raspberrypi.com/?p=129762</guid>
+      <guid>cid://https://simonwillison.net/2025/Sep/17/icpc/#atom-everything</guid>
     </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115219613060563912</link>
+      <title>I will remember Charlie Kirk</title>
+      <link>https://blog.rongarret.info/2025/09/i-will-remember-charlie-kirk.html</link>
       <description>
-        <![CDATA[<p>Interesting insight via <span class="h-card" translate="no"><a href="https://mastodon.social/@hbons" class="u-url mention">@<span>hbons</span></a></span> on the cultural shifts in these communities:<br /><a href="https://scalie.zone/@aks/115219522857171503" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">scalie.zone/@aks/1152195228571</span><span class="invisible">71503</span></a></p>]]>
+        <![CDATA[I don't watch right-wing media personalities much because I find it too painful.&nbsp; For that matter, I don't watch left-wing media personalities much either for the same reason.&nbsp; But the pain in each case arises from very different sources.&nbsp; The right-wing pain comes from being weary of the lies and the distortions and the brazen hypocrisy.&nbsp; The left-wing pain comes from]]>
       </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115219613060563912</guid>
+      <author>noreply@blogger.com (Ron)</author>
+      <guid>cid://tag:blogger.com,1999:blog-5592542.post-347582588267304550</guid>
     </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115219464473403877</link>
+      <title>Release Notes for Safari Technology Preview 228</title>
+      <link>https://webkit.org/blog/17386/release-notes-for-safari-technology-preview-228/</link>
       <description>
-        <![CDATA[<p>My reaction to Midnight Commander being on hacker news:</p>]]>
+        <![CDATA[Safari Technology Preview Release 228 is now available for download for macOS Tahoe and macOS Sequoia.]]>
       </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115219464473403877</guid>
+      <guid>cid://https://webkit.org/?p=17386</guid>
     </item>    <item>
-      <title>Hacking Electronic Safes</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html</link>
+      <link>http://scripting.com/2025/09/17.html#a211133</link>
       <description>
-        <![CDATA[<p>Vulnerabilities in <a href="https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/">electronic safes</a> that use Securam Prologic locks:</p>
-        <blockquote><p>While both their techniques represent glaring security vulnerabilities, Omo says it&#8217;s the one that exploits a feature intended as a legitimate unlock method for locksmiths that&#8217;s the more widespread and dangerous. &#8220;This attack is something where, if you had a safe with this kind of lock, I could literally pull up the code right now with no specialized hardware, nothing,&#8221; Omo says. &#8220;All of a sudden, based on our testing, it seems like people can get into almost any Securam Prologic lock in the world.&#8221;...</p></blockquote>]]>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/17/reallySimpleCola.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I had a great talk/podcast interview yesterday with <a href="https://pfefferle.dev/">Matthias Pfefferle</a> about everything I'm interested in re WordPress and networking, and our interests overlap a lot. I was explaining how I wanted to see a whole market of editors. You could see them as "For WordPress" but there's another way to look at them. They're plug-in replacements for the dreaded "tiny little textboxes" we see in twitter-like systems. Those awful little things. We know so many ways to make better editors. Now imagine that we store your Mastodon posts in WordPress documents (we do). And you see how the pieces start to fit together. Think of WordPress as the command line of the social web. And it really will be the web, not a promise of someday maybe being the web. It's like a Wordle puzzle. You have to move the parts around until you see a picture develop. Another fun thing, WordPress has a great simple REST api that's been around since 2017, and it covers most of the product functionality and is debugged, scaled and stable. It probably is the simplest API for ActivityPub. Now does that blow your mind? This is how you know this is the web, because your mind keeps exploding once you realize the things you could do just by connecting two things together and it works because they interop. Matthias has been working on this stuff since 2008. Our paths didn't cross until earlier this year.]]>
       </description>
-      <guid>cid://https://www.schneier.com/?p=70818</guid>
+      <guid>cid://http://scripting.com/2025/09/17.html#a211133</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/17.html#a210241</link>
+      <description>
+        <![CDATA[<a href="https://www.nytimes.com/2025/09/17/realestate/real-estate-guide-amenia-new-york.html?unlocked_article_code=1.mk8.pyS5.EYIaVe05LN5h&smid=url-share">This town</a>, at the end of the <a href="https://www.mta.info/agency/metro-north-railroad">Metro North</a> line, looks like an ideal place to park yourself for easy access to the city, yet a fairly country experience.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/17.html#a210241</guid>
+    </item>    <item>
+      <title>How Agates Form, Why Minnesota Lakes Have So Many, &#38; Where To...</title>
+      <link>https://kottke.org/25/09/0047534-how-agates-form-why-minne</link>
+      <guid>cid://tag:kottke.org,2025://13.47534</guid>
+    </item>    <item>
+      <title>Tahoe AppleScript Timeouts</title>
+      <link>https://mjtsai.com/blog/2025/09/17/tahoe-applescript-timeouts/</link>
+      <description>
+        <![CDATA[A reader writes: As a fellow AppleScripter, I thought you might enjoy knowing about a small Tahoe Finder bug that I have not seen mentioned anywhere and that caused all my carefully crafted (and expertly developed, of course) automations to grind to a halt and collapse, seemingly at random. For some unfathomable reason, it is [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49307</guid>
+    </item>    <item>
+      <title>DropDMG 3.7</title>
+      <link>https://mjtsai.com/blog/2025/09/17/dropdmg-3-7/</link>
+      <description>
+        <![CDATA[DropDMG 3.7 updates my app for creating and working with Mac disk image files for macOS Tahoe 26. This version adds support for Apple Sparse Image Format (ASIF) disk images and Liquid Glass icons. Some interesting issues were: Kenichi Yoshida redesigned the app icon, keeping the same concept but adapting it for the Liquid Glass [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49305</guid>
     </item>    <item>
       <title>2025-09-15 Searching the blogs on the RPG Planet</title>
       <link>https://alexschroeder.ch/view/2025-09-15-rpg-blog-search</link>
@@ -289,6 +322,106 @@
         
         <p>This seems much quicker.</p>
         
+        <h2 id="even-better">Even better!</h2>
+        
+        <p>Extracts all the feed URLs from a bunch of OPML files using <code>xpath</code> and <code>sed</code>:</p>
+        
+        <pre><code>xpath -e //outline/attribute::xmlUrl \
+            /home/alex/planet/indie.opml \
+            /home/alex/planet/osr.opml \
+            /home/alex/planet/other.opml \
+            2&gt;/dev/null \
+          | sed -n -e 's/.*xmlUrl=&quot;\(.*\)&quot;/\1/p'
+        </code></pre>
+        
+        <p>Save this list of URLs in a file and take 50 items at a time and process them with <code>get-feed-archive</code> which tries to detect Blogspot or Wordpress pagination:</p>
+        
+        <pre><code>#!/usr/bin/fish
+        
+        # Go through the feeds on the command line and get all the pages for the feed.
+        
+        if test -z &quot;$argv&quot;
+            exit
+        end
+        
+        set xpath &quot;string(/rss/channel/item[position()=1]/link/text() | /feed/entry[position()=1]/link/@href)&quot;
+        
+        set dir feeds-(random)
+        mkdir $dir
+        set f 0
+        for feed in $argv
+            set f (math $f+1)
+            set previous_first_link &quot;&quot;
+            set type &quot;&quot;
+            for i in (seq 1000)
+                if test $i = 1
+                    set url $feed
+                else if test $type = &quot;wordpress&quot;
+        	    if string match --quiet --entire &quot;?&quot; $feed
+                        set url &quot;$feed&amp;paged=$i&quot;
+        	    else
+                        set url &quot;$feed?paged=$i&quot;
+        	    end
+        	else if test $type = &quot;blogspot&quot;
+        	    set start (math &quot;($i-1)*25+1&quot;)
+        	    if string match --quiet --entire &quot;?&quot; $feed
+                        set url &quot;$feed&amp;start-index=$start&quot;
+        	    else
+                        set url &quot;$feed?start-index=$start&quot;
+        	    end
+        	else
+        	    echo &quot;  unknown pagination type&quot;
+        	    break
+                end
+                echo $url
+                set body (curl --location --silent $url)
+        	set first_link (echo $body | xpath -e $xpath 2&gt;/dev/null)
+        	if test -z $first_link
+        	    echo &quot;  empty feed&quot;
+        	    break
+        	else if test $first_link = $previous_first_link
+        	    echo &quot;  pagination failed&quot;
+        	    break
+        	end
+        	set previous_first_link $first_link
+        	echo $body &gt; &quot;$dir/$f-$i.xml&quot;
+                if test $i = 1
+        	    if string match --entire blogspot $feed
+        	        set type blogspot
+        	    else if string match --entire wordpress $feed
+        	        set type wordpress
+        	    else if echo $body | xpath -e //generator 2&gt;/dev/null | grep --silent wordpress
+        	        set type wordpress
+        	    else if echo $body | xpath -e /feed/id 2&gt;/dev/null | grep --silent blogger
+        	        set type blogspot
+        	    else if set link (echo $body | xpath -e '/rss/channel/link/text()' 2&gt;/dev/null | grep blogspot)
+        	        set type blogspot
+        		set feed $link&quot;feeds/posts/default&quot;
+        	    else
+        		echo &quot;  unknown pagination type&quot;
+        		break
+        	    end
+        	    echo &quot;  pagination type $type&quot;
+        	end	
+            end
+        end
+        echo $dir
+        </code></pre>
+        
+        <p>Then process the directory using <code>xobaque import feed file feed-*/*.xml</code> or similar.</p>
+        
+        <p>Then delete the temporary directories again.</p>
+        
+        <p>Now I just need to put this in some sort of yearly job, maybe?</p>
+        
+        <h2 id="what-about-rfc-5005">What about RFC 5005</h2>
+        
+        <p>Did you know that there is an actual spec for paginating feeds? <a href="https://datatracker.ietf.org/doc/html/rfc5005">RFC 5005</a> is the best!</p>
+        
+        <p>Except not a single feed on the RPG Planet has a match for <code>rel=&quot;next&quot;</code> or <code>rel=&quot;previous&quot;</code>.</p>
+        
+        <p>Not even my own blog. 😭</p>
+        
         <h2 id="others">Others</h2>
         
         <p>Current status, accounting for multiple feeds (people with feeds in both <code>indie.opml</code> and <code>osr.opml</code>):</p>
@@ -300,7 +433,8 @@
         <li>85 other blogs</li>
         </ul>
         
-        <p>What about these 86 other blogs, I wonder. 8 Bear blogs. Any other group?</p>
+        <p>What about these 86 other blogs, I wonder.
+        I&rsquo;ve removed a number of dead ones, but I still have questions.</p>
         
         <h2 id="top-posters">Top posters</h2>
         
@@ -316,13 +450,33 @@
         
         <tbody>
         <tr>
+        <td>theotherside.timsbrannan.com</td>
+        <td align="right">6524</td>
+        </tr>
+        
+        <tr>
         <td>grognardia.blogspot.com</td>
-        <td align="right">4742</td>
+        <td align="right">4744</td>
         </tr>
         
         <tr>
         <td>jrients.blogspot.com</td>
         <td align="right">3502</td>
+        </tr>
+        
+        <tr>
+        <td>dysonlogos.blog</td>
+        <td align="right">3228</td>
+        </tr>
+        
+        <tr>
+        <td>githyankidiaspora.com</td>
+        <td align="right">3090</td>
+        </tr>
+        
+        <tr>
+        <td>www.crossplanes.com</td>
+        <td align="right">3028</td>
         </tr>
         
         <tr>
@@ -337,38 +491,230 @@
         
         <tr>
         <td>vulpinoid.blogspot.com</td>
-        <td align="right">2554</td>
+        <td align="right">2555</td>
         </tr>
         
         <tr>
-        <td>9and30kingdoms.blogspot.com</td>
-        <td align="right">2145</td>
-        </tr>
-        
-        <tr>
-        <td>monstersandmanuals.blogspot.com</td>
-        <td align="right">2088</td>
-        </tr>
-        
-        <tr>
-        <td>thegrandtapestry.blogspot.com</td>
-        <td align="right">2003</td>
-        </tr>
-        
-        <tr>
-        <td>gothridgemanor.blogspot.com</td>
-        <td align="right">1990</td>
-        </tr>
-        
-        <tr>
-        <td>ancientvaults.wordpress.com</td>
-        <td align="right">1747</td>
+        <td>stargazersworld.com</td>
+        <td align="right">2333</td>
         </tr>
         </tbody>
         </table>
         <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>]]>
       </description>
       <guid>cid://https://alexschroeder.ch/view/2025-09-15-rpg-blog-search</guid>
+    </item>    <item>
+      <title>September 16, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-16-2025-52b</link>
+      <enclosure url="https://api.substack.com/feed/podcast/173884333/7f311397ac826ef2efe9ed7220a7ed2d.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-16-2025-52b</guid>
+    </item>    <item>
+      <title>Note published on September 17, 2025 at 8:08 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509171606</link>
+      <guid>cid://68cb1553133dae2d072df12b</guid>
+    </item>    <item>
+      <title>Inspired by a question over at Cup of Jo, what are the...</title>
+      <link>https://kottke.org/25/09/0047535-inspired-by-a-question-ov</link>
+      <guid>cid://tag:kottke.org,2025://13.47535</guid>
+    </item>    <item>
+      <title>Wednesday session</title>
+      <link>https://adactio.com/notes/22136</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22136/small.jpg" srcset="https://adactio.com/images/uploaded/22136/medium.jpg 1.5x, https://adactio.com/images/uploaded/22136/large.jpg 2.5x" alt="Wednesday session" />
+        <p>Wednesday session</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22136</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/17.html#a191912</link>
+      <description>
+        <![CDATA[There have been reports of people having trouble using <a href="https://wordland.social/">WordLand</a>. I was just able to do a <a href="https://techfightclub.wpcomstaging.com/2025/09/17/one-of-a-million-test-posts/">test post</a>, and I can see from the logs that other people are successfully posting. It would be helpful if people with accounts could do a short test post. And if you have something to report, here's a <a href="https://github.com/scripting/wordlandSupport/issues/107">good place</a> to do it.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/17.html#a191912</guid>
+    </item>    <item>
+      <title>Tina Brown and Niall Ferguson Discuss Our Own Gilded Age</title>
+      <link>https://tinabrown.substack.com/p/tina-brown-and-niall-ferguson-discuss</link>
+      <description>
+        <![CDATA[A recording from Tina Brown and Niall Ferguson's live video]]>
+      </description>
+      <enclosure url="https://substack-video.s3.amazonaws.com/video_upload/post/173877314/29b8a6a1-ba95-4339-80ac-40634217d88d/transcoded-00001.png" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/tina-brown-and-niall-ferguson-discuss</guid>
+    </item>    <item>
+      <title>Blending In</title>
+      <link>https://kottke.org/25/09/blending-in</link>
+      <guid>cid://tag:kottke.org,2025://5.47528</guid>
+    </item>    <item>
+      <link>https://www.arcdigital.media/p/ezra-klein-accidentally-shows-how</link>
+      <description>
+        <![CDATA[<p>Ezra Klein Accidentally Shows How the Media Brought Us Trump.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/17/1129/</guid>
+    </item>    <item>
+      <title>The Climate Change Paradox. &#38;#8220;Earth&#38;#8217;s climate is chaotic and volatile. Climate change...</title>
+      <link>https://kottke.org/25/09/0047531-the-climate-change-parado</link>
+      <guid>cid://tag:kottke.org,2025://13.47531</guid>
+    </item>    <item>
+      <link>https://america2.news/part-two-jeffrey-epstein-john-brockman-and-the-third-culture/</link>
+      <description>
+        <![CDATA[<p>Jeffrey Epstein, John Brockman, and the Third Culture.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/17/1127/</guid>
+    </item>    <item>
+      <title>On the latest wave of AI/LLM tools. &#38;#8220;It is a transition from...</title>
+      <link>https://kottke.org/25/09/0047530-on-the-latest-wave-of</link>
+      <guid>cid://tag:kottke.org,2025://13.47530</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/17.html#a164800</link>
+      <description>
+        <![CDATA[A bunch of new people are trying out FeedLand news products. I haven't looked at them in a long time. I'm glad they're looking, but most of my demo news products were broken. Oy. It was hard to untangle. It should be a lot easier, and next time I can dig in and do it over I think it will be. Anyway as I convert my demos, I'll list them here: <a href="https://mlbriver.com/">mblriver.com</a>, <a href="https://politics.newsriver.org/">politics.newsriver.org</a>, <a href="https://bloggers.scripting.com/">bloggers.scripting.com</a>, <a href="https://dave.podcatch.com/">dave.podcatch.com</a>.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/17.html#a164800</guid>
+    </item>    <item>
+      <title>Smart Tracker Cards</title>
+      <link>https://kottke.org/25/09/smart-tracker-cards</link>
+      <guid>cid://tag:kottke.org,2025://5.47516</guid>
+    </item>    <item>
+      <title>If Anyone Builds It, Does Everybody Die?</title>
+      <link>https://garymarcus.substack.com/p/if-anyone-builds-it-does-everybody</link>
+      <description>
+        <![CDATA[What should we make of this widely-discussed new book?]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!eWxL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c6942f8-dd50-4ec8-bafe-81fe7de58369_2388x1586.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/if-anyone-builds-it-does-everybody</guid>
+    </item>    <item>
+      <title>Grandpa Guthrie Would’ve Liked These Guys</title>
+      <link>https://onefoottsunami.com/2025/09/17/grandpa-guthrie-wouldve-liked-these-guys/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29154</guid>
+    </item>    <item>
+      <title>&#38;#8220;Trump told voters that they could indulge their resentments and still walk...</title>
+      <link>https://kottke.org/25/09/0047532-trump-told-voters-that-th</link>
+      <guid>cid://tag:kottke.org,2025://13.47532</guid>
+    </item>    <item>
+      <title>Early next year, Sesame Street is making hundreds of full episodes available...</title>
+      <link>https://kottke.org/25/09/0047525-early-next-year-sesame-st</link>
+      <guid>cid://tag:kottke.org,2025://13.47525</guid>
+    </item>    <item>
+      <title>Classic Airlines Apparel</title>
+      <link>https://kottke.org/25/09/classic-airlines-apparel</link>
+      <guid>cid://tag:kottke.org,2025://5.47527</guid>
+    </item>    <item>
+      <title>What podcasting has taught me about listening</title>
+      <link>https://guykawasaki.substack.com/p/what-podcasting-has-taught-me-about</link>
+      <description>
+        <![CDATA[Podcasting isn&#8217;t just about talking&#8212;it&#8217;s about listening.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!fbKo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bb037ba-d343-4672-b4c2-b1cc3cdc643d_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/what-podcasting-has-taught-me-about</guid>
+    </item>    <item>
+      <title>When a Fake King Meets a Real One</title>
+      <link>https://tinabrown.substack.com/p/when-a-fake-king-meets-a-real-one</link>
+      <description>
+        <![CDATA[Good morning Fresh Hellions!]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!KVLv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F995be6f4-d6dd-4acb-9304-0811746fde71_1024x658.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/when-a-fake-king-meets-a-real-one</guid>
+    </item>    <item>
+      <title>Harry Roberts is speaking at Web Day Out</title>
+      <link>https://adactio.com/journal/22135</link>
+      <description>
+        <![CDATA[<p>I was going to save this announcement for later, but I’m just too excited: <a href="https://csswizardry.com/">Harry Roberts</a> will be speaking at <a href="https://webdayout.com/">Web Day Out</a>!</p>
+        
+        <p>Goddamn, that’s one fine line-up, and it isn’t even complete yet! <a href="https://ti.to/clearleft/web-day-out">Get your ticket</a> if you haven’t already.</p>
+        
+        <p>There’s a bit of a story behind the talk that Harry is going to give…</p>
+        
+        <p>Earlier this year, Harry posted a most excellent screed in which he said:</p>
+        
+        <blockquote>
+          <p>The web as a platform is a safe bet. It’s un-versioned <em>by design</em>. That’s the commitment the web makes to you—take advantage of it.</p>
+          
+          <ul>
+          <li>Opt into web platform features incrementally;</li>
+          <li>Embrace progressive enhancement to build fast, reliable applications that adapt to your customers’ context;</li>
+          <li>Write code that leans into the browser, not away from it.</li>
+          </ul>
+        </blockquote>
+        
+        <p>Yes! Exactly!</p>
+        
+        <p>Thing is, Harry <a href="https://www.linkedin.com/feed/update/urn:li:activity:7287827600968699904/">posted this on LinkedIn</a>. My indieweb sensibilities were affronted. So I harangued him:</p>
+        
+        <blockquote>
+          <p>You should blog this, Harry</p>
+        </blockquote>
+        
+        <p>My pestering paid off with an excellent blog post on Harry’s own site called <a href="https://csswizardry.com/2025/01/build-for-the-web-build-on-the-web-build-with-the-web/">Build for the Web, Build on the Web, Build with the Web</a>:</p>
+        
+        <blockquote>
+          <p>The beauty of opting into web platform features as they become available is that your site becomes <em>contextual</em>. The same codebase adapts into its environment, playing to its strengths, rather than trying to build and ship your own environment from the ground up. Meet your users where they are.</p>
+        </blockquote>
+        
+        <p>That’s a pretty neat summation of <a href="https://webdayout.com/agenda/">the agenda for Web Day Out</a>. So I thought, “Hmm …if I was able to pester Harry to turn a LinkedIn post into a really good blog post, I wonder if I could pester him to turn that blog post into a talk?”</p>
+        
+        <p>I threw down the gauntlet. Harry accepted the challenge.</p>
+        
+        <p>I’m sure you’re already familiar with Harry’s excellent work, but if you’re not, he’s basically Mr. Web Performance. That’s why I’m so excited to have him speak at <a href="https://webdayout.com/">Web Day Out</a>—I want to hear the business case for leaning into what web browsers can do today, and he is most certainly the best person to bring receipts.</p>
+        
+        <p>You won’t want to miss this, so be sure to <a href="https://ti.to/clearleft/web-day-out">get your ticket now</a>; it’s only £225+VAT.</p>
+        
+        <p>If you’re not ready to commit just yet, but you want to hear about more speaker announcements like this, you can <a href="https://clearleft.us1.list-manage.com/subscribe?u=262832f6c05900ce22e8b14b6&amp;id=f16deb1f89">sign up to the mailing list</a>.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/journal/22135</guid>
+    </item>    <item>
+      <title>New from Neal Agarwal: a series of increasingly ridiculous and difficult captchas....</title>
+      <link>https://kottke.org/25/09/0047526-new-from-neal-agarwal-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47526</guid>
+    </item>    <item>
+      <title>Scandal rocks international stone skipping contest. &#38;#8220;The would-be cheaters admitted to the...</title>
+      <link>https://kottke.org/25/09/0047522-scandal-rocks-internation</link>
+      <guid>cid://tag:kottke.org,2025://13.47522</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/17.html#a131251</link>
+      <description>
+        <![CDATA[<a class="anchorRightMargin" href="https://ketchup.reallysimple.org/"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/17/reallySimpleKetchup.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>In a piece I wrote yesterday <a href="https://daveverse.org/2025/09/16/can-we-finally-put-the-past-behind-us/">on my WordPress blog</a>, I offered to do a virtual handshake with the people who worked at Netscape when it disappeared just as RSS 0.9.1 was being adopted by the blogosphere in 1999. I never considered their point of view, but in fairness, they never would talk to us except to dictate and dominate. In the <a href="https://daveverse.org/2025/09/16/can-we-finally-put-the-past-behind-us/">piece</a> I try to explain how it all looked from my point of view, that of a developer who had adopted RSS 0.91 in favor of my own earlier format. Most of the stories miss the real innovator, and when you find out <a href="http://scripting.com/stories/2011/11/07/martinLeavesTheTimes.html">who</a> it is you will be surprised. (It's not me, most of my job re RSS has been fairly thankless and not creative, and definitely not profitable, but still worth doing because the web is the only place independent developers can work without the interference of big tech companies.)]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/17.html#a131251</guid>
+    </item>    <item>
+      <title>Russian State TV Launches AI-Generated News Satire Show</title>
+      <link>https://www.404media.co/russian-state-tv-launches-ai-generated-news-satire-show/</link>
+      <description>
+        <![CDATA[An AI-generated show on Russian TV includes Trump singing obnoxious songs and talking about golden toilets.]]>
+      </description>
+      <guid>cid://68c99e96f83e9d0001ff529a</guid>
+    </item>    <item>
+      <title>Podcast: The (Hacked) Spy In Your Car</title>
+      <link>https://www.404media.co/podcast-the-hacked-spy-in-your-car/</link>
+      <description>
+        <![CDATA[A massive hack of a popular dashcam company; the sentencing of someone Sam has covered for years; and the mass firings around Charlie Kirk's assassination.]]>
+      </description>
+      <guid>cid://68caaa4bf83e9d0001ff9f29</guid>
+    </item>    <item>
+      <title>Raspberry Pi’s commitment to longevity: a sustainable advantage</title>
+      <link>https://www.raspberrypi.com/news/raspberry-pis-commitment-to-longevity-a-sustainable-advantage/</link>
+      <description>
+        <![CDATA[<p>Raspberry Pi’s long product lifetimes and ongoing software support help reduce electronic waste, contributing to a more sustainable electronics ecosystem.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/raspberry-pis-commitment-to-longevity-a-sustainable-advantage/">Raspberry Pi&#8217;s commitment to longevity: a sustainable advantage</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.raspberrypi.com/?p=129762</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115219613060563912</link>
+      <description>
+        <![CDATA[<p>Interesting insight via <span class="h-card" translate="no"><a href="https://mastodon.social/@hbons" class="u-url mention">@<span>hbons</span></a></span> on the cultural shifts in these communities:<br /><a href="https://scalie.zone/@aks/115219522857171503" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">scalie.zone/@aks/1152195228571</span><span class="invisible">71503</span></a></p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115219613060563912</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115219464473403877</link>
+      <description>
+        <![CDATA[<p>My reaction to Midnight Commander being on hacker news:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115219464473403877</guid>
+    </item>    <item>
+      <title>Hacking Electronic Safes</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html</link>
+      <description>
+        <![CDATA[<p>Vulnerabilities in <a href="https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/">electronic safes</a> that use Securam Prologic locks:</p>
+        <blockquote><p>While both their techniques represent glaring security vulnerabilities, Omo says it&#8217;s the one that exploits a feature intended as a legitimate unlock method for locksmiths that&#8217;s the more widespread and dangerous. &#8220;This attack is something where, if you had a safe with this kind of lock, I could literally pull up the code right now with no specialized hardware, nothing,&#8221; Omo says. &#8220;All of a sudden, based on our testing, it seems like people can get into almost any Securam Prologic lock in the world.&#8221;...</p></blockquote>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70818</guid>
     </item>    <item>
       <title>Another Day Off</title>
       <link>https://paulkrugman.substack.com/p/another-day-off</link>
@@ -470,12 +816,26 @@
       </description>
       <guid>cid://https://tedium.co/2025/09/16/google-ai-summaries-penske-media-lawsuit/</guid>
     </item>    <item>
+      <title>A Way We Were</title>
+      <link>https://anildash.com/2025/09/17/a-way-we-were/</link>
+      <guid>cid://https://anildash.com/2025/09/17/a-way-we-were/</guid>
+    </item>    <item>
+      <title>Building a Slack-powered newsletter with Buttondown</title>
+      <link>https://buttondown.com/blog/api-powered-email-newsletter</link>
+      <description>
+        <![CDATA[Train a bot to create emails for you]]>
+      </description>
+    </item>    <item>
       <title>Wednesday 17 September, 2025</title>
       <link>https://memex.naughtons.org/wednesday-17-september-2025/41211/</link>
       <description>
         <![CDATA[Rock solid Saki (Hector Hugh Munro) once observed that &#8220;The inhabitants of Crete have more history than they can consume locally”. Whenever we go to Donegal, I feel that its lucky inhabitants likewise have a surplus of interesting geology. Quote &#8230; <a href="https://memex.naughtons.org/wednesday-17-september-2025/41211/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
       </description>
       <guid>cid://https://memex.naughtons.org/?p=41211</guid>
+    </item>    <item>
+      <title>Finished reading Trunk Music</title>
+      <link>https://www.mollywhite.net/reading/books?search=Trunk%20Music</link>
+      <guid>cid://68caea8447e748131042dc7d</guid>
     </item>    <item>
       <title>&#38;#8220;Style lessons from Robert Redford, one of the most stylish men in...</title>
       <link>https://kottke.org/25/09/0047523-style-lessons-from-robert</link>
@@ -1081,6 +1441,10 @@
         <li>"We find that comments by GPT‑5-Codex are less likely to be incorrect or unimportant" - I originally misinterpreted this as referring to comments in code but it's actually about comments left on code reviews.</li>
         </ul>
         <p>The <a href="https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/gpt_5_codex_prompt.md">system prompt for GPT-5-Codex</a> in Codex CLI is worth a read. It's notably shorter than the <a href="https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/prompt.md">system prompt for other models</a> - <a href="https://gist.github.com/simonw/042f1428ce22ad55ac5bc9010263a4f4/revisions">here's a diff</a>.</p>
+        <p>Here's the section of the updated system prompt that talks about comments:</p>
+        <blockquote>
+        <p><code>Add succinct code comments that explain what is going on if code is not self-explanatory. You should not add comments like "Assigns the value to the variable", but a brief comment might be useful ahead of a complex code block that the user would otherwise have to spend time parsing out. Usage of these comments should be rare.</code></p>
+        </blockquote>
         <p>Theo Browne <a href="https://www.youtube.com/watch?v=j9wvCrON3XA">has a video review</a> of the model and accompanying features. He was generally impressed but noted that it was surprisingly bad at using the Codex CLI search tool to navigate code. Hopefully that's something that can fix with a system prompt update.</p>
         <p>Finally, can it drew a pelican riding a bicycle? Without API access I instead got Codex Cloud to <a href="https://chatgpt.com/s/cd_68c85f433cc881918acfd8a4aeda1cc4">have a go</a> by prompting:</p>
         <blockquote>
