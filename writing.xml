@@ -4,10 +4,14 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>BookTok and Beyond: How Young Readers Are Reviving Physical Bookstores</title>
+      <link>https://www.literatureandlatte.com/blog/booktok-and-beyond-how-young-readers-are-reviving-physical-bookstores</link>
+      <guid>cid://https://www.literatureandlatte.com/?p=7932</guid>
+    </item>    <item>
       <title>Robert Redford, RIP</title>
       <link>https://johnaugust.com/2025/robert-redford-rip</link>
       <description>
@@ -229,32 +233,6 @@
       <title>Go Beyond Your Genre: Why Writers Should Read Widely</title>
       <link>https://www.literatureandlatte.com/blog/go-beyond-your-genre-why-writers-should-read-widely</link>
       <guid>cid://https://www.literatureandlatte.com/?p=7548</guid>
-    </item>    <item>
-      <title>Connections</title>
-      <link>https://johnaugust.com/2025/connections</link>
-      <description>
-        <![CDATA[<p>John and Craig examine how to best use your connections to help yourself and others. They look at ways to identify the strength of a connection, leverage them without being manipulative, the nitty-gritty of approaching others for a favor, and the important ways to be generous in return. We also look at the good news [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/connections">Connections</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <enclosure url="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/701standard.mp3" length="50852852" type="audio/mpeg" />
-      <guid>cid://https://johnaugust.com/?p=23410</guid>
-    </item>    <item>
-      <title>What Is An ‘Obstacle Driven’ Script and How to Write One</title>
-      <link>https://blog.finaldraft.com/what-is-an-obstacle-driven-script-and-how-to-write-one</link>
-      <description>
-        <![CDATA[<div class="hs-featured-image-wrapper"> 
-         <a href="https://blog.finaldraft.com/what-is-an-obstacle-driven-script-and-how-to-write-one" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Man%20running%20down%20a%20hill%20away%20from%20a%20boulder%20rolling%20towards%20him.png" alt="Man running down a hill away from a boulder rolling towards him" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
-        </div> 
-        <p>Conflict is everything in a screenplay. Without conflict, there’s nothing to drive the story forward. Stories need characters to be struggling through conflict that they are either forced to deal with, or conflict that they’ve <em>chosen</em> to face.&nbsp;<br><br>There are two different forms of conflict in literary, stage, or cinematic narratives:</p>]]>
-      </description>
-      <guid>cid://https://blog.finaldraft.com/what-is-an-obstacle-driven-script-and-how-to-write-one</guid>
-    </item>    <item>
-      <title>Resources on Copyright and AI: Updated FAQ and Position Paper on “Lawful Access” and Fair Use</title>
-      <link>https://www.authorsalliance.org/2025/08/26/resources-on-copyright-and-ai-updated-faq-and-position-paper-on-lawful-access-and-fair-use/</link>
-      <description>
-        <![CDATA[Authors are navigating change when it comes to copyright and artificial intelligence. We’re committed to developing and sharing practical resources [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.authorsalliance.org/?p=12126</guid>
     </item>
   </channel>
 </rss>

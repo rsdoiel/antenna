@@ -4,10 +4,115 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Strong Java LTS arrives with the release of 25</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/java_25_released/</link>
+      <description>
+        <![CDATA[<h4>But efforts to simplify popular programming language for beginners are unlikely to boost popularity</h4> <p>Oracle has released JDK (Java Development Kit) 25, the first long term support (LTS) version since JDK 21 two years ago. New features include beginner-friendly compact source files, succinct module imports, and more flexible constructors.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241966</guid>
+    </item>    <item>
+      <title>BreachForums kingpin goes from walk-free deal to 3-year stretch</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/breachforums_founder_prison/</link>
+      <description>
+        <![CDATA[<h4>Prosecutors say Conor Fitzpatrick&#39;s crimes caused &#39;incalculable&#39; damage</h4> <p>The founder of the popular cybercrime website BreachForums will spend three years in prison after previously being let off with a slap on the wrist.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241968</guid>
+    </item>    <item>
+      <title>UK telco Colt’s recovery from August cyberattack pushes into November</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/uk_telco_colts_cyberattack_recovery/</link>
+      <description>
+        <![CDATA[<h4>Pentesters confirm key system is safe but core products remain unavailable</h4> <p>Brit telco Colt Technology Services says its recovery from an August cyberattack might not be completed until late November.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241963</guid>
+    </item>    <item>
+      <title>Haiku vastly improves git status performance</title>
+      <link>https://www.osnews.com/story/143365/haiku-vastly-improves-git-status-performance/</link>
+      <description>
+        <![CDATA[Another month, another summary of changes in Haiku, the BeOS-inspired operating system. The main focus this past month has been improving the performance of git status, which has been measurably worse on Haiku than on Linux running on similar hardware. This work has certainly paid off, as the numbers demonstrate. The results are clearly more than worth the trouble, though: in one test setup with&#160;git status&#160;in Haiku’s&#160;buildtools&#160;repository (which contains the entirety of the&#160;gcc&#160;and&#160;binutils&#160;source code, among other things – over 160,000 files) went from around 33 seconds with a cold disk cache, to around 20 seconds; and with a hot disk cache, from around 15 seconds to around 2.5 seconds. This is still a ways off from Linux (with a similar setup in the same repository,&#160;git status&#160;there with a hot disk cache takes only 0.3 seconds). Performance on Haiku will likely be measurably faster on builds without&#160;KDEBUG&#160;enabled, but not by that much. Still, this is clearly a significant improvement over the way things were before now. ↫ Haiku Activity &#38; Contract Report, August 2025 There&#8217;s more than this, of course, such as initial support for Intel&#8217;s Apollo Lake GPU in the Intel modesetting driver, improvements to USB disk performance, a reduction in power usage when in KDL, and much, much more.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143365</guid>
+    </item>    <item>
+      <title>Sky plans to ditch up to 500 staff in the Technology Group</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/sky_plans_to_ditch_up/</link>
+      <description>
+        <![CDATA[<h4>Insiders say AI trials involving &#39;critical network services&#39; underway and some engineering roles being moved to India</h4> <p><strong>Exclusive</strong>  Sky Group, the Brit-based commercial TV and broadband service slinger owned by Comcast, is chopping up to 600 employees from the Technology, Consumer Group and COO divisions in the UK.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241965</guid>
+    </item>    <item>
+      <title>Microsoft pens $15B love letter to the UK with 23,000 Nvidia GPUs attached</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/microsoft_uk_ai_cash/</link>
+      <description>
+        <![CDATA[<h4>Redmond woos Blighty with cloud and AI infrastructure splurge as Trump comes to town</h4> <p>Microsoft appears to have trumped Google&#39;s UK datacenter ambitions with a $15 billion investment in cloud and AI infrastructure in the country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241964</guid>
+    </item>    <item>
+      <title>Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?</title>
+      <link>https://www.osnews.com/story/143363/why-is-the-name-of-the-microsoft-wireless-notebook-presenter-mouse-8000-hard-coded-into-the-bluetooth-drivers/</link>
+      <description>
+        <![CDATA[Some time ago, people noticed that buried in the Windows Bluetooth drivers is the hard-coded name of the Microsoft Wireless Notebook Presenter Mouse 8000. What’s going on there? Does the Microsoft Wireless Notebook Presenter Mouse 8000 receive favorable treatment from the Microsoft Bluetooth drivers? Is this some sort of collusion? No, it’s not that. ↫ Raymond Chen So, what is the actual problem? It&#8217;s a funny one: an encoding mistake. The device local name string for a device needs to be encoded in UTF-8, and that&#8217;s where the developers of the Microsoft Wireless Notebook Presenter Mouse 8000 made a mistake. The string contains a registered trademark symbol &#8211; ® &#8211; but they encoded it in code page 1252, which not only isn&#8217;t allowed, but gets rejected completely. So, Windows&#8217; Bluetooth drivers have a table that contains the wrong name for a driver, accompanied by the right name to use. This mouse is the only entry.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143363</guid>
+    </item>    <item>
+      <title>Java 25 released</title>
+      <link>https://www.osnews.com/story/143361/java-25-released/</link>
+      <description>
+        <![CDATA[Java 25 has been released. JDK 25, the reference implementation of Java 25, is now Generally Available. We shipped build 36 as the second Release Candidate of JDK 25 on 15 August, and no P1 bugs have been reported since then. Build 36 is therefore now the GA build, ready for production use. ↫ Java 25/JDK 25 release announcement If you want to dive into the details about this new release, feel free to peruse the long, long list of improvements and changes.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143361</guid>
+    </item>    <item>
+      <title>Why Microsoft has the name of an old mouse hidden in its Bluetooth drivers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/chen_bluetooth_driver/</link>
+      <description>
+        <![CDATA[<h4>Screw-up or conspiracy?</h4> <p>Lurking within the Windows Bluetooth stack is a hardcoded reference to the Microsoft Wireless Notebook Presenter Mouse 8000. Is this nostalgic favoritism from Microsoft? Or is it just somebody, somewhere, making a mistake that an engineer had to work around?…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241946</guid>
+    </item>    <item>
+      <title>Whitehall lobs £40M at &#39;critical&#39; phase of police DB reboot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/leds_pnc_/</link>
+      <description>
+        <![CDATA[<h4>Officials say there&#39;s no time to switch suppliers if they want the PNC off life support before March 2026</h4> <p>The Home Office is flinging nearly £40 million in taxpayer cash at PA Consulting to get the big-ticket successor to the Police National Computer (PNC) over the finish line.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241949</guid>
+    </item>    <item>
+      <title>AI, Arm, and Copilot: Living with Microsoft&#39;s Surface Laptop 7</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/ai_arm_and_copilot_living/</link>
+      <description>
+        <![CDATA[<h4>Nice hardware, shame about the OS</h4> <p><strong>COMMENT</strong>  The Arm-based Surface Laptop 7 was introduced in 2024, followed by an Intel-powered version a few months later. As with much of the Surface line, it&#39;s a well-engineered piece of hardware. I needed something that could run off the battery for a full day, wouldn&#39;t break the strap of a courier bag or the bank, and featured a decent spec.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241930</guid>
+    </item>    <item>
+      <title>UEFI Secure Boot for Linux Arm64 – where do we stand?</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/uefi_secure_boot_for_linux/</link>
+      <description>
+        <![CDATA[<h4>Still exotic for now, but moves are afoot</h4> <p>Arm devices are everywhere today and many of them run Linux. The operating system also powers cloud computing and IT environments all over the world. However, x86 is still the dominant architecture of global computer hardware, where the Unified Extensible Firmware Interface (UEFI) with Secure Boot incorporated is a standard. But what does UEFI look like from an Arm perspective?…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241926</guid>
+    </item>    <item>
+      <title>UK Cabinet Office hands stalled Microsoft migration to another department</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/cabinet_office_microsoft_migration/</link>
+      <description>
+        <![CDATA[<h4>Project to get off Google remains a red risk, according to government assessment</h4> <p>The Cabinet Office, the strategic center of UK government, has handed a much-delayed project to migrate from Google Workspace to Microsoft 365 (M365) to another department.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241947</guid>
+    </item>    <item>
+      <title>Ruh-roh. DDR5 memory vulnerable to new Rowhammer attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/ddr5_dram_rowhammer/</link>
+      <description>
+        <![CDATA[<h4>Google and ETH Zurich found problems with AMD/SK Hynix combo, will probe other hardware</h4> <p>Researchers from Google and Swiss university ETH Zurich have found a new class of Rowhammer vulnerability that could allow attackers to access info stored in DDR5 memory.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241960</guid>
+    </item>    <item>
+      <title>Australia to let Big Tech choose its own adventure to enact kids social media ban</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/17/australia_kids_social_ban_guidance/</link>
+      <description>
+        <![CDATA[<h4>Suggests using multiple overlapping approaches and being kind to kids who get kicked off</h4> <p>Australia’s eSafety commissioner has told social media operators it expects them to employ multiple age assurance techniques and technologies to keep children under sixteen off social media, as required by local law from December 10th.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241959</guid>
+    </item>    <item>
       <title>Microsoft blocks bait for ‘fastest-growing’ 365 phish kit, seizes 338 domains</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/16/microsoft_cloudflare_shut_down_raccoono365/</link>
       <description>
@@ -2664,64 +2769,6 @@
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/introducing-the-librem-pqc-comms-server/">Introducing the Librem PQC Comms Server</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
       <guid>cid://https://puri.sm/?p=83993</guid>
-    </item>    <item>
-      <title>Last Known Surviving American Ace Pilot From World War II Dies at 103</title>
-      <link>https://www.smithsonianmag.com/smart-news/last-known-surviving-american-ace-pilot-from-world-war-ii-dies-at-103-180987239/</link>
-      <description>
-        <![CDATA[Donald McPherson shot down five planes in the Pacific theater in the final years of the war, earning him the title of "ace"]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/imwYZ9xyuN-IGZkgV-kP9UCJbxE=/420x240/filters:focal(480x320:481x321)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bb/4c/bb4c5d12-1665-4bb2-8e87-e295ff2f4f7c/top_photo-_donald_mcpherson_us_navy.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Migratory Flamingos Age Differently From Resident Ones, Offering a New Clue About Getting Old</title>
-      <link>https://www.smithsonianmag.com/smart-news/migratory-flamingos-age-differently-from-resident-ones-offering-a-new-clue-about-getting-old-180987243/</link>
-      <description>
-        <![CDATA[A new study of the pink birds in France finds that aging sets in later for flamingos that migrate, though they face higher mortality in early adulthood]]>
-      </description>
-      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/71/4e7128e0-9d5b-48f7-a74a-0121f3ad1e5d/flamants-roses-poussins-colonie-fangassiercharlotte-peerot_tdv.jpg" length="" type="" />
-    </item>    <item>
-      <title>A Privacy Shield in the Wake of AT&#38;T Data Breaches</title>
-      <link>https://puri.sm/posts/a-privacy-shield-in-the-wake-of-att-data-breaches/</link>
-      <description>
-        <![CDATA[<p>Purism AweSIM: A Privacy Shield in the Wake of AT&#38;T Data Breaches AT&#38;T was found liable to pay customers an estimated $177M to resolve multiple lawsuits stemming from two separate data breaches – March 30 and July 12, 2024. Both breaches exposed huge amounts of Personal Identifiable Information (PII) to the public. These two breaches [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/a-privacy-shield-in-the-wake-of-att-data-breaches/">A Privacy Shield in the Wake of AT&#038;T Data Breaches</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84140</guid>
-    </item>    <item>
-      <title>Researchers Develop a &#39;Superfood&#39; for Honeybees to Fight the Drastic Decline of Their Colonies</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-develop-a-superfood-for-honeybees-to-fight-the-drastic-decline-of-their-colonies-180987234/</link>
-      <description>
-        <![CDATA[Bees fed an enriched yeast supplement saw 15 times more of their larvae reach the developmental stage right before adulthood, according to a new study]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/twqNbHPZAR2nyRb-m8gFaWOQ0Qk=/420x240/filters:focal(2000x1343:2001x1344)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3b/e0/3be08d1f-1302-4c03-99ce-014f7dc1c746/gettyimages-2153379415.jpg" length="" type="" />
-    </item>    <item>
-      <title>Ancient Statues Emerge From the Waters Off Egypt&#39;s Coast, Where They&#39;d Been Hiding  for Thousands of Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/ancient-statues-emerge-from-the-waters-off-egypts-coast-where-theyd-been-hiding-for-thousands-of-years-180987230/</link>
-      <description>
-        <![CDATA[Several large sculptures were among the trove of artifacts that divers recovered from the waters near Alexandria, Egypt. Officials say the site may have been an extension of the nearby city of Canopus]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/eGYimO0bvNkmZ2Dsweedx6x7nH0=/420x240/filters:focal(2751x1834:2752x1835)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c0/21/c021e132-16dd-41e2-80d7-4f78a9e3ad56/gettyimages-2230468057.jpg" length="" type="" />
-    </item>    <item>
-      <title>Astronomers Spot the Brightest Fast Radio Burst Ever Detected and Observe Stars Around Its Origin for the First Time</title>
-      <link>https://www.smithsonianmag.com/smart-news/astronomers-spot-the-brightest-fast-radio-burst-ever-detected-and-observe-stars-around-its-origin-for-the-first-time-180987233/</link>
-      <description>
-        <![CDATA[Using two telescopes, scientists were able to pinpoint the location of the fleeting phenomenon with surprising accuracy]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/JLvsSpFYqkEx6q1wgQCJvXxWHME=/420x240/filters:focal(3442x2261:3443x2262)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/84/f0/84f012ae-1454-4665-9553-f736cae7b321/chime_array_artist_rendition_high_res.png" length="" type="" />
-    </item>    <item>
-      <title>COSMIC Alpha 7: Never Been Beta</title>
-      <link>https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</link>
-      <description>
-        <![CDATA[Wrapping up COSMIC’s main features before the first beta release.]]>
-      </description>
-      <enclosure url="https://images.prismic.io/blog-system76/aAlwmPIqRLdaBjDE_cosmicalpha7blogheader.jpg" length="0" type="image/jpg" />
-      <guid>cid://https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</guid>
-    </item>    <item>
-      <title>Reading for Pleasure Has Declined by a &#39;Deeply Concerning&#39; 40 Percent Over the Past Two Decades</title>
-      <link>https://www.smithsonianmag.com/smart-news/reading-for-pleasure-has-declined-by-a-deeply-concerning-40-percent-over-the-past-two-decades-180987228/</link>
-      <description>
-        <![CDATA[Between 2003 and 2023, the proportion of Americans who read for fun on a given day has been steadily falling, a new study suggests]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/r4-zlABu_F7hwEOnNVlacjkPJdk=/420x240/filters:focal(4096x2750:4097x2751)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/cb/85cb42c2-c471-489f-9665-23fb58837506/gettyimages-1957612313.jpg" length="" type="" />
     </item>
   </channel>
 </rss>

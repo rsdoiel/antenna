@@ -4,16 +4,31 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Peer Review in the Era of AI: Risks, Rewards, and Responsibilities</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/17/peer-review-in-the-era-of-ai-risks-rewards-and-responsibilities/</link>
+      <description>
+        <![CDATA[<p>The future of peer review isn’t about choosing between humans and AI, or between speed and quality, but about combining the strengths of both to enable speed with quality, to ensure quality, ethics, and trust in the scholarly record.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/17/peer-review-in-the-era-of-ai-risks-rewards-and-responsibilities/">Peer Review in the Era of AI: Risks, Rewards, and Responsibilities</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60967</guid>
+    </item>    <item>
+      <title>Open Access: ETH Zurich leads the way globally</title>
+      <link>https://rc-blog.ethz.ch/en/open-access-eth-zurich-leads-the-way-globally/</link>
+      <description>
+        <![CDATA[Thanks to its unique conditions, ETH Zurich is an international leader in terms of its share of open access publications, as analyses by the ETH Library show. This leads to greater visibility and strengthens research. Read more]]>
+      </description>
+      <guid>cid://https://rc-blog.ethz.ch/?p=2893</guid>
+    </item>    <item>
       <title>Misalliance, by George Bernard Shaw</title>
       <link>https://standardebooks.org/ebooks/george-bernard-shaw/misalliance</link>
       <description>
         <![CDATA[On a pleasant summer afternoon, a sudden plane crash followed by a would-be assassin interrupt a family’s conversations about marriage.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/george-bernard-shaw_misalliance.epub?source=feed" length="543402" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/george-bernard-shaw/misalliance/downloads/george-bernard-shaw_misalliance.epub?source=feed" length="543425" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/george-bernard-shaw/misalliance</guid>
     </item>    <item>
       <title>Guest Post — Is It Enough to Say a Journal Is ‘Peer Reviewed’? The Case for Rating Journals Based on Peer Review Quality</title>
@@ -286,7 +301,7 @@
       <description>
         <![CDATA[A collection of short fiction by Clifford D. Simak, ordered by date of original publication.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/clifford-d-simak_short-fiction.epub?source=feed" length="527810" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/clifford-d-simak/short-fiction/downloads/clifford-d-simak_short-fiction.epub?source=feed" length="527833" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/clifford-d-simak/short-fiction</guid>
     </item>    <item>
       <title>Student Success Research Featured in Special Edition of Peabody Journal of Education</title>
@@ -761,21 +776,6 @@
       </description>
       <enclosure url="https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/08/Beyond-Open-Access-Part-2-audio-file-for-TSK1.mp3" length="8437778" type="audio/mpeg" />
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=60909</guid>
-    </item>    <item>
-      <title>New Art and Design Books!</title>
-      <link>https://library.csun.edu/blogs/cited/2025/08/26/new-art-and-design-books/</link>
-      <description>
-        <![CDATA[<div><img width="300" height="225" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart-300x225.jpg 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart-768x576.jpg 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/protestart.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Your CSUN Art Librarian here to share some of the new art, design, and photography books we’ve recently added to the collection: Digital Witness: Revolutions&#8230;]]>
-      </description>
-      <guid>cid://https://library.csun.edu/blogs/cited/?p=7398</guid>
-    </item>    <item>
-      <title>Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/</link>
-      <description>
-        <![CDATA[<p>In an era of information abundance and epistemic chaos, libraries serve as crucial sites for democratic knowledge practices -- protecting them is critical to preserving the infrastructure of informed citizenship itself.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/26/guest-post-beyond-classification-the-human-cost-of-library-and-information-labor-under-digital-capitalism/">Guest Post — Beyond Classification: The Human Cost of Library and Information Labor Under Digital Capitalism</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60844</guid>
     </item>
   </channel>
 </rss>

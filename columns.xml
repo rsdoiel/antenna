@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,41 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Podcast: The (Hacked) Spy In Your Car</title>
+      <link>https://www.404media.co/podcast-the-hacked-spy-in-your-car/</link>
+      <description>
+        <![CDATA[A massive hack of a popular dashcam company; the sentencing of someone Sam has covered for years; and the mass firings around Charlie Kirk's assassination.]]>
+      </description>
+      <guid>cid://68caaa4bf83e9d0001ff9f29</guid>
+    </item>    <item>
+      <title>Raspberry Pi’s commitment to longevity: a sustainable advantage</title>
+      <link>https://www.raspberrypi.com/news/raspberry-pis-commitment-to-longevity-a-sustainable-advantage/</link>
+      <description>
+        <![CDATA[<p>Raspberry Pi’s long product lifetimes and ongoing software support help reduce electronic waste, contributing to a more sustainable electronics ecosystem.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/raspberry-pis-commitment-to-longevity-a-sustainable-advantage/">Raspberry Pi&#8217;s commitment to longevity: a sustainable advantage</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.raspberrypi.com/?p=129762</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115219613060563912</link>
+      <description>
+        <![CDATA[<p>Interesting insight via <span class="h-card" translate="no"><a href="https://mastodon.social/@hbons" class="u-url mention">@<span>hbons</span></a></span> on the cultural shifts in these communities:<br /><a href="https://scalie.zone/@aks/115219522857171503" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">scalie.zone/@aks/1152195228571</span><span class="invisible">71503</span></a></p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115219613060563912</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115219464473403877</link>
+      <description>
+        <![CDATA[<p>My reaction to Midnight Commander being on hacker news:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115219464473403877</guid>
+    </item>    <item>
+      <title>Hacking Electronic Safes</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html</link>
+      <description>
+        <![CDATA[<p>Vulnerabilities in <a href="https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/">electronic safes</a> that use Securam Prologic locks:</p>
+        <blockquote><p>While both their techniques represent glaring security vulnerabilities, Omo says it&#8217;s the one that exploits a feature intended as a legitimate unlock method for locksmiths that&#8217;s the more widespread and dangerous. &#8220;This attack is something where, if you had a safe with this kind of lock, I could literally pull up the code right now with no specialized hardware, nothing,&#8221; Omo says. &#8220;All of a sudden, based on our testing, it seems like people can get into almost any Securam Prologic lock in the world.&#8221;...</p></blockquote>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70818</guid>
     </item>    <item>
       <title>2025-09-15 Searching the blogs on the RPG Planet</title>
       <link>https://alexschroeder.ch/view/2025-09-15-rpg-blog-search</link>
@@ -66,7 +101,7 @@
         
         <h2 id="blogspot">Blogspot</h2>
         
-        <p>Blogspot is important because there are 268 blogs with &ldquo;blogspot&rdquo; in their name that I&rsquo;m listing. There may be more.</p>
+        <p>Blogspot is important because there are 265 blogs with &ldquo;blogspot&rdquo; in their name that I&rsquo;m listing. There may be more.</p>
         
         <p>I remembered that Blogspot supports the <code>start-index</code> query parameter and returns 25 results for every call.
         Here&rsquo;s <code>blogspot-import</code>:</p>
@@ -105,7 +140,7 @@
         
         <h2 id="wordpress">Wordpress</h2>
         
-        <p>Wordpress is important because there are 129 blogs ending in <code>/feed</code> or <code>/feed/</code> that I&rsquo;m listing. There may be more.</p>
+        <p>Wordpress is important because there are 128 blogs ending in <code>/feed</code> or <code>/feed/</code> that I&rsquo;m listing. There may be more.</p>
         
         <p>I remembered that Wordpress supports the <code>paged</code> query parameter and returns 10 results for every call. This is going to be slow. 😴 Here&rsquo;s <code>wordpress-import</code>:</p>
         
@@ -252,6 +287,21 @@
         <pre><code>xobaque import feed file feeds-*/*.xml
         </code></pre>
         
+        <p>This seems much quicker.</p>
+        
+        <h2 id="others">Others</h2>
+        
+        <p>Current status, accounting for multiple feeds (people with feeds in both <code>indie.opml</code> and <code>osr.opml</code>):</p>
+        
+        <ul>
+        <li>478 unique blogs in total</li>
+        <li>265 Blogspot blogs</li>
+        <li>128 Wordpress blogs</li>
+        <li>85 other blogs</li>
+        </ul>
+        
+        <p>What about these 86 other blogs, I wonder. 8 Bear blogs. Any other group?</p>
+        
         <h2 id="top-posters">Top posters</h2>
         
         <p>The imports are still on-going, of course. I&rsquo;ll update this table.</p>
@@ -319,6 +369,113 @@
         <p><a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>]]>
       </description>
       <guid>cid://https://alexschroeder.ch/view/2025-09-15-rpg-blog-search</guid>
+    </item>    <item>
+      <title>Another Day Off</title>
+      <link>https://paulkrugman.substack.com/p/another-day-off</link>
+      <description>
+        <![CDATA[Still doing research ...]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!e1Ly!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7295f5-c1bd-4d62-b641-6dfbf34258f8_951x951.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/another-day-off</guid>
+    </item>    <item>
+      <title>Prompt Engineering Is Requirements Engineering</title>
+      <link>https://www.oreilly.com/radar/prompt-engineering-is-requirements-engineering/</link>
+      <description>
+        <![CDATA[In the rush to get the most from AI tools, prompt engineering—the practice of writing clear, structured inputs that guide an AI tool’s output—has taken center stage. But for software engineers, the skill isn’t new. We’ve been doing a version of it for decades, just under a different name. The challenges we face when writing [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.oreilly.com/radar/?p=17463</guid>
+    </item>    <item>
+      <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/455fd2ea5876dca173288eb4c13151e2c10dc10a...1967d3e00c775d4061f904bf8b11e30b50988ae9</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Felix Oliver Friedrich</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/455fd2ea5876dca173288eb4c13151e2c10dc10a...1967d3e00c775d4061f904bf8b11e30b50988ae9">(1967d3e0)</a>
+        <i>
+        at
+        17 Sep 10:13
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Merge branch &#39;Streams&#39; into &#39;main&#39;</p></div>
+        <p>
+        <i>
+        ... and
+        4 more commits
+        </i>
+        </p>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-17:1807486</guid>
+    </item>    <item>
+      <title>Office Hours: Where will Trump’s war on his opponents lead?</title>
+      <link>https://robertreich.substack.com/p/office-hours-where-will-trumps-war</link>
+      <description>
+        <![CDATA[Three views]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!SaaT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a8d1268-df63-4b7b-a933-0fbe45b5f970_897x675.png" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/office-hours-where-will-trumps-war</guid>
+    </item>    <item>
+      <link>https://en.m.wikipedia.org/wiki/Melissa_Hortman</link>
+      <description>
+        <![CDATA[<p>Melissa Hortman, speaker of the Minnesota House of Representatives, was assassinated by a Trump acolyte in June of this year. Along with her husband and dog. No tears from Pam Bondi or threats of retribution from the president.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/17/1125/</guid>
+    </item>    <item>
+      <link>https://www.politico.com/news/2025/09/16/sonia-sotomayor-free-speech-pam-bondi-00566449</link>
+      <description>
+        <![CDATA[<p>Sotomayor rebukes calls to ‘criminalize free speech’ in apparent swipe at Pam Bondi.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/17/1123/</guid>
+    </item>    <item>
+      <title>September 16, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-16-2025</link>
+      <description>
+        <![CDATA[The phrase that kept coming up over the last several days was &#8220;make fetch happen.&#8221; It&#8217;s a reference to the film Mean Girls, when one of the characters tries to make the word &#8220;fetch&#8221; trendy, using it to mean &#8220;cool&#8221; or &#8220;awesome.&#8221; Another character eventually slaps back: &#8220;Stop trying to make &#8216;fetch&#8217; happen.]]>
+      </description>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-16-2025</guid>
+    </item>    <item>
+      <title>Sergey Durmanov pushed to project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/8c16e948ea8057c9297dd6ce947c49600c22585d</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Sergey Durmanov</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/8c16e948ea8057c9297dd6ce947c49600c22585d">(8c16e948)</a>
+        <i>
+        at
+        17 Sep 05:51
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Adaptation of sources to the new streams api</p></div>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-17:1807435</guid>
+    </item>    <item>
+      <title>Sergey Durmanov pushed to project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/84ae437aa02336d746b340ffae0e6ab07f880b99</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Sergey Durmanov</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/84ae437aa02336d746b340ffae0e6ab07f880b99">(84ae437a)</a>
+        <i>
+        at
+        17 Sep 04:27
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Streams.Reader/Writer:</p></div>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-17:1807434</guid>
+    </item>    <item>
+      <title>Snip Snip</title>
+      <link>https://feed.tedium.co/link/23026/17161584/google-ai-summaries-penske-media-lawsuit</link>
+      <description>
+        <![CDATA[A new lawsuit by a major publishing conglomerate takes aim at Google’s AI summaries—and hints at the many ways that Google undermines its own mission by forcing unwanted features on its users.]]>
+      </description>
+      <guid>cid://https://tedium.co/2025/09/16/google-ai-summaries-penske-media-lawsuit/</guid>
+    </item>    <item>
+      <title>Wednesday 17 September, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-17-september-2025/41211/</link>
+      <description>
+        <![CDATA[Rock solid Saki (Hector Hugh Munro) once observed that &#8220;The inhabitants of Crete have more history than they can consume locally”. Whenever we go to Donegal, I feel that its lucky inhabitants likewise have a surplus of interesting geology. Quote &#8230; <a href="https://memex.naughtons.org/wednesday-17-september-2025/41211/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://https://memex.naughtons.org/?p=41211</guid>
     </item>    <item>
       <title>&#38;#8220;Style lessons from Robert Redford, one of the most stylish men in...</title>
       <link>https://kottke.org/25/09/0047523-style-lessons-from-robert</link>
@@ -521,10 +678,10 @@
       </description>
       <guid>cid://68c98254f83e9d0001ff49a0</guid>
     </item>    <item>
-      <title>Trump&#39;s Calamitous Crypto Corruption</title>
+      <title>Trump’s Calamitous Crypto Corruption</title>
       <link>https://robertreich.substack.com/p/trumps-calamitous-crypto-corruption</link>
       <description>
-        <![CDATA[It's enriching him and his family but endangering you, me, and the entire economy]]>
+        <![CDATA[It&#8217;s enriching him and his family but endangering you, me, and the entire economy]]>
       </description>
       <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/gpCxV-cRY4o" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/trumps-calamitous-crypto-corruption</guid>
@@ -921,7 +1078,7 @@
         <li>"GPT‑5-Codex adapts how much time it spends thinking more dynamically based on the complexity of the task." Simple tasks (like "list files in this directory") should run faster. Large, complex tasks should use run for much longer - OpenAI report Codex crunching for seven hours in some cases!</li>
         <li>Increased score on their proprietary "code refactoring evaluation" from 33.9% for GPT-5 (high) to 51.3% for GPT-5-Codex (high). It's hard to evaluate this without seeing the details of the eval but it does at least illustrate that refactoring performance is something they've focused on here.</li>
         <li>"GPT‑5-Codex also shows significant improvements in human preference evaluations when creating mobile websites" - in the past I've habitually prompted models to "make it mobile-friendly", maybe I don't need to do that any more.</li>
-        <li>"We find that comments by GPT‑5-Codex are less likely to be incorrect or unimportant" - less unimportant comments in code is definitely an improvement!</li>
+        <li>"We find that comments by GPT‑5-Codex are less likely to be incorrect or unimportant" - I originally misinterpreted this as referring to comments in code but it's actually about comments left on code reviews.</li>
         </ul>
         <p>The <a href="https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/gpt_5_codex_prompt.md">system prompt for GPT-5-Codex</a> in Codex CLI is worth a read. It's notably shorter than the <a href="https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/prompt.md">system prompt for other models</a> - <a href="https://gist.github.com/simonw/042f1428ce22ad55ac5bc9010263a4f4/revisions">here's a diff</a>.</p>
         <p>Theo Browne <a href="https://www.youtube.com/watch?v=j9wvCrON3XA">has a video review</a> of the model and accompanying features. He was generally impressed but noted that it was surprisingly bad at using the Codex CLI search tool to navigate code. Hopefully that's something that can fix with a system prompt update.</p>
@@ -8891,192 +9048,6 @@
         <![CDATA[Despite many, many failed attempts to do so, people keep trying to filter the internet. Let’s look at the lens of the current moment through past attempts—including one led by, of all people, a librarian.]]>
       </description>
       <guid>cid://https://tedium.co/2025/08/26/internet-content-filters-history/</guid>
-    </item>    <item>
-      <title>Wednesday 27 August, 2025</title>
-      <link>https://memex.naughtons.org/wednesday-27-august-2025/41148/</link>
-      <description>
-        <![CDATA[Dolmen Poolnabrone burial ground in the Burren in Co. Clare. Quote of the Day ” Success is having to worry about every damn thing in the world, except money.” Johnny Cash*  Musical alternative to the morning’s radio news Beethoven&#124; Violin &#8230; <a href="https://memex.naughtons.org/wednesday-27-august-2025/41148/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <guid>cid://https://memex.naughtons.org/?p=41148</guid>
-    </item>    <item>
-      <title>Trump isn’t just axing the Constitution. He’s axing something we all love.</title>
-      <link>https://robertreich.substack.com/p/trump-isnt-just-axing-the-constitution</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/HS7IJaB5NDc" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trump-isnt-just-axing-the-constitution</guid>
-    </item>    <item>
-      <title>Elon Musk Bullshit Watch</title>
-      <link>https://x.com/elonmusk/status/1958852874236305793</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42184</guid>
-    </item>    <item>
-      <title>Tulsi Gabbard Says the U.K. Government Has Backed Down From Its Demand for an iCloud Backdoor</title>
-      <link>https://x.com/DNIGabbard/status/1957623737232007638</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42183</guid>
-    </item>    <item>
-      <title>‘Less Fun Than a Barrel of Crackers’</title>
-      <link>https://johnmccoy.org/2025/08/25/less-fun-than-a-barrel-of-crackers/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42182</guid>
-    </item>    <item>
-      <link>https://bsky.app/profile/altusds.altgov.info/post/3lxdei3uyv22c</link>
-      <description>
-        <![CDATA[When it takes a good engineer two days to recreate an accessible version "design studio" that DOGE people are extolling, you know the "design studio" sucks. 
-        
-        May I present to you americabydesign.fail
-        https://americabydesign.fail]]>
-      </description>
-      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3lxdei3uyv22c</guid>
-    </item>    <item>
-      <title>FB19914338</title>
-      <link>https://furbo.org/2025/08/26/fb19914338/</link>
-      <description>
-        <![CDATA[I submitted the following feedback today. If you ever plan to change your business model from a paid up-front to freemium model, read this report and avoid a day of headache and stress. Title: The sample code for a business model change was written by someone who&#8217;s never submitted an app to the App Store [&#8230;]]]>
-      </description>
-      <guid>cid://https://furbo.org/?p=2884</guid>
-    </item>    <item>
-      <title>A Privacy Shield in the Wake of AT&#38;T Data Breaches</title>
-      <link>https://puri.sm/posts/a-privacy-shield-in-the-wake-of-att-data-breaches/</link>
-      <description>
-        <![CDATA[<p>Purism AweSIM: A Privacy Shield in the Wake of AT&#38;T Data Breaches AT&#38;T was found liable to pay customers an estimated $177M to resolve multiple lawsuits stemming from two separate data breaches – March 30 and July 12, 2024. Both breaches exposed huge amounts of Personal Identifiable Information (PII) to the public. These two breaches [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/a-privacy-shield-in-the-wake-of-att-data-breaches/">A Privacy Shield in the Wake of AT&#038;T Data Breaches</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84140</guid>
-    </item>    <item>
-      <title>CCC trauert um Jürgen &#34;Bishop&#34; Christ</title>
-      <link>https://www.ccc.de/de/updates/2025/nachruf-auf-jurgen-bishop-christ</link>
-      <description>
-        <![CDATA[Jürgen Christ, in der Netzszene unter dem Namen „Bishop“ bekannt, war ein unerschrockener Journalist, ein früher Pionier der digitalen Kultur und ein entschiedener Verfechter von Frieden, Demokratie und Meinungsfreiheit. Er starb im August 2025.]]>
-      </description>
-      <guid>cid://https://www.ccc.de/de/987</guid>
-    </item>    <item>
-      <title>The “trash” Command</title>
-      <link>https://mjtsai.com/blog/2025/08/26/the-trash-command/</link>
-      <description>
-        <![CDATA[Benjamin Esham: Every iOS and Mac developer is familiar with the situation: Xcode has gotten itself wedged somehow and the only solution is to blow away the DerivedData folder in ~/Library/Developer/Xcode. [&#8230;] But rm needs to enumerate every file and directory within DerivedData in order to delete them. The more files there are, the longer [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49039</guid>
-    </item>    <item>
-      <title>FileUtils 1.5</title>
-      <link>https://mjtsai.com/blog/2025/08/26/fileutils-1-5/</link>
-      <description>
-        <![CDATA[ZigZag: Added script actions to execute your own custom scripts (with selected files as input arguments and optional textual output). FileUtils can execute UNIX scripts/binaries, AppleScript scripts and Automator workflows. I&#8217;ve been using FastScripts for running scripts on the Finder selection, because I already use it for running scripts in other apps. However, one benefit [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49036</guid>
-    </item>    <item>
-      <title>SwiftData’s ModelActor Is Just Weird</title>
-      <link>https://mjtsai.com/blog/2025/08/26/swiftdatas-modelactor-is-just-weird/</link>
-      <description>
-        <![CDATA[Matt Massicotte (Mastodon): So, no doubt there&#8217;s lots of historical stuff going on here.But, that still doesn&#8217;t explain how much trouble people have with ModelActor. I&#8217;m not sure anyone has ever used ModelActor without at least some surprises.[&#8230;]Actors exist to protect mutable state. The purpose of a ModelActor is to own and isolate the ModelContext. [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49034</guid>
-    </item>    <item>
-      <title>How PlugInKit Enables App Extensions</title>
-      <link>https://mjtsai.com/blog/2025/08/26/how-pluginkit-enables-app-extensions/</link>
-      <description>
-        <![CDATA[Howard Oakley: App extensions or appexes perform a wide range of tasks, from providing support for file systems like ExFAT to generating thumbnails for QuickLook and enabling Spotlight to index the contents of files. Although they&#8217;re relatively old, macOS made major changes in their management in Ventura, and they&#8217;ve become popular in many third-party apps. [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49032</guid>
-    </item>    <item>
-      <title>Apple Event on September 9: ‘Awe Dropping’</title>
-      <link>https://www.macrumors.com/2025/08/26/apple-september-2025-event/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42181</guid>
-    </item>    <item>
-      <title>COSMIC Alpha 7: Never Been Beta</title>
-      <link>https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</link>
-      <description>
-        <![CDATA[Wrapping up COSMIC’s main features before the first beta release.]]>
-      </description>
-      <enclosure url="https://images.prismic.io/blog-system76/aAlwmPIqRLdaBjDE_cosmicalpha7blogheader.jpg" length="0" type="image/jpg" />
-      <guid>cid://https://blog.system76.com/post/cosmic-alpha-7-never-been-beta</guid>
-    </item>    <item>
-      <title>Calvinball Makes the Supreme Court</title>
-      <link>https://www.supremecourt.gov/opinions/24pdf/25a103_kh7p.pdf</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42180</guid>
-    </item>    <item>
-      <title>Speaking as a Great Lakes Megacitizen</title>
-      <link>https://doc.searls.com/2025/08/26/speaking-as-a-great-lakes-megacitizen/</link>
-      <description>
-        <![CDATA[In Fulfillment: Winning and Losing in One-Click America, Alec MacGillis notes that the city at the center of a circle containing the largest population within a one-day drive is Dayton, Ohio. You can kinda see that in the map above, which I discovered through Brilliant Maps. They got it from the highly precient Defining US [&#8230;]]]>
-      </description>
-      <guid>cid://https://doc.searls.com/?p=19340</guid>
-    </item>    <item>
-      <title>A View of Telecommunication in 1948: Past, Present, and Future</title>
-      <link>https://text-message.blogs.archives.gov/2025/08/26/a-view-of-telecommunication-in-1948-past-present-and-future/</link>
-      <description>
-        <![CDATA[In late 1948, the Women&#8217;s Club of McKeesport, Pennsylvania, decided to devote one of its programs to developments in the field of communications over the previous half-century.  To secure information to facilitate that discussion, on October 19, Lucille Robb wrote to the Department of State&#8217;s Office of Transport and Communications asking for information on the &#8230; <a href="https://text-message.blogs.archives.gov/2025/08/26/a-view-of-telecommunication-in-1948-past-present-and-future/" class="more-link">Continue reading <span class="screen-reader-text">A View of Telecommunication in 1948: Past, Present, and Future</span></a>]]>
-      </description>
-      <guid>cid://https://text-message.blogs.archives.gov/?p=22678</guid>
-    </item>    <item>
-      <title>[Sponsor] Walk the World</title>
-      <link>https://apps.apple.com/us/app/walk-the-world-virtual-trails/id6743502929</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42179</guid>
-    </item>    <item>
-      <title>Read &#34;Library receives donations to replace books church leaders targeted for LGBTQ+ themes&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=Library%20receives%20donations%20to%20replace%20books%C2%A0church%20leaders%20targeted%20for%20LGBTQ%2B%20themes</link>
-      <guid>cid://68adc61cf900932e3005e7bf</guid>
-    </item>    <item>
-      <title>A Bad Bet</title>
-      <link>https://onefoottsunami.com/2025/08/26/a-bad-bet/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29064</guid>
-    </item>    <item>
-      <title>LLM System Design and Model Selection</title>
-      <link>https://www.oreilly.com/radar/llm-system-design-and-model-selection/</link>
-      <description>
-        <![CDATA[Choosing the right LLM has become a full-time job. New models appear almost daily, each offering different capabilities, prices, and quirks, from reasoning strengths to cost efficiency to code generation. This competition creates strong incentives for AI labs to carve out a niche and gives new startups room to emerge, resulting in a fragmented landscape [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17336</guid>
-    </item>    <item>
-      <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
-      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/455fd2ea5876dca173288eb4c13151e2c10dc10a</link>
-      <description>
-        <![CDATA[<p>
-        <strong>Felix Oliver Friedrich</strong>
-        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/455fd2ea5876dca173288eb4c13151e2c10dc10a">(455fd2ea)</a>
-        <i>
-        at
-        26 Aug 08:41
-        </i>
-        </p>
-        <div class="blockquote"><p dir="auto">Delete Thumbs.db</p></div>]]>
-      </description>
-      <guid>cid://tag:gitlab.inf.ethz.ch,2025-08-26:1798409</guid>
-    </item>    <item>
-      <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
-      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/ff69cd98bd26ce02174523ad4e273f1bc1b1528f</link>
-      <description>
-        <![CDATA[<p>
-        <strong>Felix Oliver Friedrich</strong>
-        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/ff69cd98bd26ce02174523ad4e273f1bc1b1528f">(ff69cd98)</a>
-        <i>
-        at
-        26 Aug 08:41
-        </i>
-        </p>
-        <div class="blockquote"><p dir="auto">Delete Thumbs.db:encryptable</p></div>]]>
-      </description>
-      <guid>cid://tag:gitlab.inf.ethz.ch,2025-08-26:1798408</guid>
-    </item>    <item>
-      <title>Four Corners: the first game in Catalog written in Swift</title>
-      <link>https://news.play.date/news/four-corners-swift/</link>
-      <description>
-        <![CDATA[<p>The Playdate game <a href="https://play.date/games/four-corners/"><em>Four Corners</em></a>, by prolific developer <a href="https://scenicroutesoftware.com">Scenic Route Software</a>, has been rewritten in Swift—the first game in Catalog to be made using this new and burgeoning programming language.</p>]]>
-      </description>
-      <guid>cid://https://news.play.date/news/four-corners-swift/</guid>
-    </item>    <item>
-      <title>★ MacOS 26 Tahoe’s Dead-Canary Utility App Icons</title>
-      <link>https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons</link>
-      <description>
-        <![CDATA[These are the not the work of carpenters who care about the backs of the cabinets they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers.]]>
-      </description>
-      <guid>cid://tag:daringfireball.net,2025://1.42178</guid>
-    </item>    <item>
-      <title>Testing Time (and other asynchronicities)</title>
-      <link>https://go.dev/blog/testing-time</link>
-      <description>
-        <![CDATA[A discussion of testing asyncronous code and an exploration of the `testing/synctest` package. Based on the GopherCon Europe 2025 talk with the same title.]]>
-      </description>
-      <guid>cid://tag:blog.golang.org,2013:blog.golang.org/testing-time</guid>
     </item>
   </channel>
 </rss>

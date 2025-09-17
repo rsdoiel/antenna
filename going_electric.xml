@@ -4,10 +4,75 @@
   <channel>
     <title>Going Electric</title>
     <link>https://rsdoiel.github.io/antenna/going_electric.xml</link>
-    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Cadillac Optiq Just Crushed Its EPA Range Figure In A Real-World Test</title>
+      <link>https://insideevs.com/news/772483/cadillac-range-test-edmunds-highway/</link>
+      <description>
+        <![CDATA[Edmunds says the Cadillac Optiq outperformed its EPA-estimated range by more than 12%.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/8ANVBW/s3/cadillac-optiq-in-u.s.-specification-embargoed-until-nov.-17-at-9-am-et.jpg" length="23794" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/772483/cadillac-range-test-edmunds-highway/</guid>
+    </item>    <item>
+      <title>Toyota Says It Found The Key To Convince PHEV Owners To Plug In More Often</title>
+      <link>https://insideevs.com/news/772551/toyota-phev-plug-in-often-study-app/</link>
+      <description>
+        <![CDATA[Some plug-in hybrids rarely get plugged in, making them very inefficient. Toyota used science to find a way to get around that.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/BXYenZ/s3/toyota-research-institute-chargeminder-app.jpg" length="20428" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/772551/toyota-phev-plug-in-often-study-app/</guid>
+    </item>    <item>
+      <title>The New Nissan Leaf Is Good, But It Already Has A Problem</title>
+      <link>https://insideevs.com/news/772521/nissan-leaf-battery-supply/</link>
+      <description>
+        <![CDATA[Nissan is reportedly cutting production of the new Leaf, and it’s all down to batteries.]]>
+      </description>
+      <enclosure url="https://cdn.motor1.com/images/mgl/Zn1GQo/s3/2026-nissan-leaf-first-drive.jpg" length="38787" type="image/jpeg" />
+      <guid>cid://https://insideevs.com/news/772521/nissan-leaf-battery-supply/</guid>
+    </item>    <item>
+      <title>Honda unveils new WN7 electric motorcycle, but with a huge dealbreaker</title>
+      <link>https://electrek.co/2025/09/16/honda-unveils-new-wn7-electric-motorcycle-but-with-a-huge-dealbreaker/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/honda-wn7-electric-motorcycle-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Honda has officially unveiled the new WN7, its latest electric motorcycle and the first in a planned lineup of larger EV two-wheelers. Designed as a commuter-friendly electric motorcycle for the European market, the WN7 is part of Honda’s push toward carbon neutrality. </p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,honda" data-layer-viewtype="unknown" data-post-id="434625" href="https://electrek.co/2025/09/16/honda-unveils-new-wn7-electric-motorcycle-but-with-a-huge-dealbreaker/#more-434625" class="more-link">more…</a>]]>
+      </description>
+      <guid>cid://https://electrek.co/?p=434625</guid>
+    </item>    <item>
+      <title>Tesla partners with Uber Freight to offer Tesla Semi electric trucks at discounts</title>
+      <link>https://electrek.co/2025/09/16/tesla-partners-uber-freight-offer-tesla-semi-electric-trucks-discounts/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/Tesla-Semi-screens.webp?w=1600" /></div><p>Uber Freight is launching a ‘Dedicated EV Fleet Accelerator Program’ in partnership with Tesla to lower the most significant barrier to electric Class 8 adoption: upfront cost.</p>
+        
+        
+        
+        <p>The buyer program pairs purchase subsidies for Tesla Semis with pre‑arranged dedicated freight and route planning around Tesla’s Semi Charger network, which is currently being deployed in the US.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi,uber-freight" data-layer-viewtype="unknown" data-post-id="434587" href="https://electrek.co/2025/09/16/tesla-partners-uber-freight-offer-tesla-semi-electric-trucks-discounts/#more-434587" class="more-link">more…</a>]]>
+      </description>
+      <guid>cid://https://electrek.co/?p=434587</guid>
+    </item>    <item>
+      <title>Tesla settles another fatal Autopilot crash before it gets to trial</title>
+      <link>https://electrek.co/2025/09/16/tesla-settles-another-fatal-autopilot-crash-before-it-gets-to-trial/</link>
+      <description>
+        <![CDATA[<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/09/Tesla-Self-Driving-FSD-Hero.png?w=1600" /></div><p>Tesla has agreed to settle another wrongful death lawsuit from a fatal crash involving Autopilot before the case could get to trial later this year.</p>
+        
+        
+        
+        <p>It’s one of many lawsuits involving several crashes involving Tesla’s advanced driver assistance systems (ADAS), Autopilot and Full Self-Driving (Supervised), after the floodgates were open following a watershed trial.</p>
+        
+        
+        
+         <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="434615" href="https://electrek.co/2025/09/16/tesla-settles-another-fatal-autopilot-crash-before-it-gets-to-trial/#more-434615" class="more-link">more…</a>]]>
+      </description>
+      <guid>cid://https://electrek.co/?p=434615</guid>
+    </item>    <item>
       <title>Lucid (LCID) launches major Gravity update which makes towing ‘a breeze’ and more</title>
       <link>https://electrek.co/2025/09/16/lucid-launches-gravity-update-to-make-towing-a-breeze-and-more/</link>
       <description>

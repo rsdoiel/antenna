@@ -4,15 +4,50 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>16 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>17 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Lack of power stalls low-income housing at historic LA hotel</title>
+      <link>https://laist.com/news/low-income-housing-hotel-barclay</link>
+      <description>
+        <![CDATA[As more than 90 rooms sit empty, Barclay Hotel owners say years of city inaction to blame.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-4ebf-dd45-a1b9-eebf10d80000</guid>
+    </item>    <item>
+      <title>Neighbors reunite for Altadena badminton night that’s been going since WWII</title>
+      <link>https://laist.com/news/los-angeles-activities/badminton-game-eaton-fire-altadena-neighbors</link>
+      <description>
+        <![CDATA[The yearly badminton tradition among neighbors enters its 81st season — the first after the January fires.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-4f2e-dcde-a9d9-7fbfd8280000</guid>
+    </item>    <item>
+      <title>In notoriously dense Koreatown, these tenants are fighting to keep their parking spots</title>
+      <link>https://laist.com/news/transportation/koreatown-parking-tenants-501kingsley</link>
+      <description>
+        <![CDATA[A state law passed last year allows landlords to replace amenities, such as parking, with accessory dwelling units.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-5379-dc59-addd-5bf9d72f0001</guid>
+    </item>    <item>
+      <title>Federal judge approves duo to monitor LA&#39;s compliance with shelter agreement</title>
+      <link>https://laist.com/news/housing-homelessness/federal-judge-approves-two-attorneys-to-monitor-los-angeles-compliances</link>
+      <description>
+        <![CDATA[The move stems from a long-standing federal legal settlement over the city's response to the homelessness crisis.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-54ed-d4b8-a3fb-ffed25ac0000</guid>
+    </item>    <item>
+      <title>LA County considers reviving COVID-era eviction policy to aid immigrant renters</title>
+      <link>https://laist.com/news/housing-homelessness/los-angeles-county-supervisors-eviction-moratorium-ice-immigration-raids-detention-housing-rent-landlords</link>
+      <description>
+        <![CDATA[As many immigrant families struggle to pay rent, county leaders ask: Is another eviction moratorium the solution?]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-54b2-ddc3-a5bf-dfbb9bb40000</guid>
+    </item>    <item>
       <title>California Men’s Service Challenge Calls on 10,000 Men to Serve and Lead in Communities Across California</title>
       <link>https://www.californiavolunteers.ca.gov/california-mens-service-challenge-calls-on-10000-men-to-serve-and-lead-in-communities-across-california/</link>
       <guid>cid://https://www.californiavolunteers.ca.gov/?p=84209</guid>
     </item>    <item>
-      <title>Cost of marriage licenses to double in Los Angeles County</title>
+      <title>Cost of marriage licenses to nearly double in Los Angeles County</title>
       <link>https://laist.com/news/politics/marriage-licenses-cost-increase-los-angeles-county</link>
       <description>
         <![CDATA[Officials cited rising operational costs and other factors for the increase.]]>
@@ -47,7 +82,7 @@
       </description>
       <guid>cid://urn:uuid:00000199-53d2-d4b8-a3fb-ffff4a8f0000</guid>
     </item>    <item>
-      <title>LAUSD&#39;s unions want new contracts. What&#39;s happening now, and what it means for families</title>
+      <title>LAUSD&#39;s unions want new contracts. Here&#39;s what&#39;s happening now, and what it means for families</title>
       <link>https://laist.com/news/education/lausd-labor-unions-protest-contract-negotiations-utla-seiu-2025</link>
       <description>
         <![CDATA[The unions that represent teachers, principals, support staff and construction workers have protested what they say is a lack of progress on new contracts.]]>
@@ -1154,17 +1189,6 @@
       </description>
       <enclosure url="https://traffic.libsyn.com/clean/secure/policycurrents/PolicyMinded_011.mp3?dest-id=874184" length="51622510" type="audio/mpeg" />
       <guid>cid://dba464cc-6483-4cb1-ba2b-1ab0c7ab05a5</guid>
-    </item>    <item>
-      <title>College Corps Momentum Builds as Pasadena City College Joins with New Affiliate Pilot</title>
-      <link>https://www.californiavolunteers.ca.gov/college-corps-momentum-builds-as-pasadena-city-college-joins-with-new-affiliate-pilot/</link>
-      <guid>cid://https://www.californiavolunteers.ca.gov/?p=83591</guid>
-    </item>    <item>
-      <title>AI Chatbots Inconsistent in Answering Questions About Suicide; Refinement Needed to Improve Performance</title>
-      <link>https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html</link>
-      <description>
-        <![CDATA[Three widely used artificial intelligence chatbots generally do a good job responding to very-high-risk and very-low-risk questions about suicide, but they are inconsistent in answering questions about suicide that may pose intermediate risks.]]>
-      </description>
-      <guid>cid://https://www.rand.org/news/press/2025/08/ai-chatbots-inconsistent-in-answering-questions-about.html</guid>
     </item>
   </channel>
 </rss>
