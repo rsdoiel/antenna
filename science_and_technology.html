@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="antenna/0.0.6">
-  <meta name="date" content="2025-09-18T06:07:39-07:00">
+  <meta name="date" content="2025-09-18T16:08:32-07:00">
 </head>
 <body>
   <header>
@@ -38,8 +38,333 @@
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
 
+    <article data-published="2025-09-18T21:53:17Z" data-link="https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/">
+      <h1>Dark patterns killed my wife’s Windows 11 installation</h1>
+
+(date: 2025-09-18)
+      <p>
+      Last night, my wife looks up from her computer, troubled. She tells me she can&#8217;t log into her computer running Windows 11, as every time she enters the PIN code to her account, the login screen throws up a cryptic error: &#8220;Your credentials could not be verified&#8221;. She&#8217;s using the correct PIN code, so that surely isn&#8217;t it. We opt for the gold standard in troubleshooting and perform a quick reboot, but that doesn&#8217;t fix it. My initial instinct is that since she&#8217;s using an online account instead of a local one, perhaps Microsoft is having some server issues? A quick check online indicates that no, Microsoft&#8217;s servers seem to be running fine, and to be honest, I don&#8217;t even know if that would have an effect on logging into Windows in the first place. The Windows 11 login screen does give us a link to click in case you forget your PIN code. Despite the fact the PIN code she&#8217;s entering is correct, we try to go through this process to see if it goes anywhere. This is where things really start to get weird. A few dialogs flash in and out of existence, until it&#8217;s showing us a dialog telling us to insert a security USB key of some sort, which we don&#8217;t have. Dismissing it gives us an option to try other login methods, including a basic password login. This, too, doesn&#8217;t work; just like with the PIN code, Windows 11 claims the accurate, correct password my wife is entering is invalid (just to be safe, we tested it by logging into her Microsoft account on her phone, which works just fine). In the account selection menu in the bottom-left, an ominous new account mysteriously appears: WsiAccount. The next option we try is to actually change the PIN code. This doesn&#8217;t work either. Windows wants us to use a second factor using my wife&#8217;s phone number, but this throws up another weird error, this time claiming the SMS service to send the code isn&#8217;t working. A quick check online once again confirms the service seems to be working just fine for everybody else. I&#8217;m starting to get really stumped and frustrated. Of course, during all of this, we&#8217;re both searching the web to find anything that might help us figure out what&#8217;s going on. None of our searches bring up anything useful, and none of our findings seem to be related to or match up with the issue we&#8217;re having. While she&#8217;s looking at her phone and I&#8217;m browsing on my Fedora/KDE PC next to hers, she quickly mentions she&#8217;s getting a notification that OneDrive is full, which is odd, since she doesn&#8217;t use OneDrive for anything. We take this up as a quick sidequest, and we check up on her OneDrive account on her phone. As OneDrive loads, our jaws drop in amazement: a big banner warning is telling her she&#8217;s using over 5500% of her 5GB free account. We look at each other and burst out laughing. We exchange some confused words, and then we realise what is going on: my wife just got a brand new Samsung Galaxy S25, and Samsung has some sort of deal with Microsoft to integrate its services into Samsung&#8217;s variant of Android. Perhaps during the process of transferring data and applications from her old to her new phone, OneDrive syncing got turned on? A quick trip to the Samsung Gallery application confirms our suspicions: the phone is synchronising over 280GB of photos and videos to OneDrive. My wife was never asked for consent to turn this feature on, so it must&#8217;ve been turned on by default. We quickly turn it off, delete the 280GB of photos and videos from OneDrive, and move on to the real issue at hand. Since nothing seems to work, and none of what we find online brings us any closer to what&#8217;s going on with her Windows 11 installation, we figured it&#8217;s time to bring out the big guns. For the sake of brevity, let&#8217;s run through the things we tried. Booting into safe mode doesn&#8217;t work; we get the same login problems. Trying to uninstall the latest updates, an option in WinRE, doesn&#8217;t work, and throws up an unspecified error. We try to use a restore point, but despite knowing for 100% certain the feature to periodically create restore points is enabled, the only available restore point is from 2022, and is located on a drive other than her root drive (or &#8220;C:\&#8221; in Windows parlance). Using the reset option in WinRE doesn&#8217;t work either, as it also throws up an error, this time about not having enough free space. I also walk through a few more complex suggestions, like a few manual registry hacks related to the original error using cmd.exe in WinRE. None of it yields any results. It&#8217;s now approaching midnight, and we need to get up early to drop the kids off at preschool, so I tell my wife I&#8217;ll reinstall her copy of Windows 11 tomorrow. We&#8217;re out of ideas. The next day, I decide to give it one last go before opting for the trouble of going through a reinstallation. The one idea I still have left is to enable the hidden administrator account in Windows 11, which gives you password-free access to what is basically Windows&#8217; root account. It involves booting into WinRE, loading up cmd.exe, and replacing utilman.exe in system32 with cmd.exe: If you then proceed to boot into Windows 11 and click on the Accessibility icon in the bottom-right, it will open &#8220;utilman.exe&#8221;, but since that&#8217;s just cmd.exe with the utilman.exe name, you get a command prompt to work with, right on the login screen. From here, you can launch regedit, find the correct key, change a REG_BINARY, save, and reboot. At the login screen, you&#8217;ll see a new &#8220;adminstrator&#8221; account with full access to your computer. During the various reboots, I do some more web searching, and I stumble upon a post on 
+      <address>
+        <a href="https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/">https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T21:35:30Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/nvidia_intel_deal_nvlink/">
+      <h1>Intel and Nvidia sitting in a tree, NVLink-I-N-G</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>But still no hero customer for Chipzilla&#39;s Foundry biz</h4> <p>Nvidia is set to become one of Intel&#39;s largest shareholders after the GPU giant announced on Thursday it would invest $5 billion in the struggling chipmaker under a co-development agreement targeting PCs and datacenter infrastructure.…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/nvidia_intel_deal_nvlink/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/nvidia_intel_deal_nvlink/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T21:13:47Z" data-link="https://www.smithsonianmag.com/smart-news/this-drilled-cow-bone-may-have-been-an-ancient-egyptian-cops-whistle-180987365/">
+      <h1>This Drilled Cow Bone May Have Been an Ancient Egyptian Cop’s Whistle</h1>
+
+(date: 2025-09-18)
+      <p>
+      The artifact, found 17 years ago, was recently replicated and tested by researchers
+      <address>
+        <a href="https://www.smithsonianmag.com/smart-news/this-drilled-cow-bone-may-have-been-an-ancient-egyptian-cops-whistle-180987365/">https://www.smithsonianmag.com/smart-news/this-drilled-cow-bone-may-have-been-an-ancient-egyptian-cops-whistle-180987365/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T20:44:28Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_chrome_ai_browser/">
+      <h1>Google stuffs Chrome full of AI features whether you like it or not</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Why browse the web yourself when an AI sidekick can spoon-feed it to you?</h4> <p>Now that it knows it won&#39;t be forced to sell its browser, Google is cramming AI into every vacant corner of Chrome it can find, whether you like it or not. …</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_chrome_ai_browser/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_chrome_ai_browser/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T20:41:17Z" data-link="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/">
+      <h1>From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II</h1>
+
+(date: 2025-09-18)
+      <p>
+      Of the many roads leading to successful Artemis missions, one is paved with high-tech computing chips called superchips. Along the way, a partnership between NASA wind tunnel engineers, data visualization scientists, and software developers verified a quick, cost-effective solution to improve NASA’s SLS (Space Launch System) rocket for the upcoming Artemis II mission. This will [&#8230;]
+      <address>
+        <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/">https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T19:53:06Z" data-link="https://www.smithsonianmag.com/smart-news/rare-gold-nuggets-worth-700000-stolen-from-paris-natural-history-museum-in-brazen-heist-180987370/">
+      <h1>Rare Gold Nuggets Worth $700,000 Stolen From Paris' Natural History Museum in Brazen Heist</h1>
+
+(date: 2025-09-18)
+      <p>
+      Discovered in their pure metallic form, the specimens were taken by "an extremely professional team," the museum's director said
+      <address>
+        <a href="https://www.smithsonianmag.com/smart-news/rare-gold-nuggets-worth-700000-stolen-from-paris-natural-history-museum-in-brazen-heist-180987370/">https://www.smithsonianmag.com/smart-news/rare-gold-nuggets-worth-700000-stolen-from-paris-natural-history-museum-in-brazen-heist-180987370/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T19:43:38Z" data-link="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/">
+      <h1>NASA’s Deep Space Communications Demo Exceeds Project Expectations</h1>
+
+(date: 2025-09-18)
+      <p>
+      The project has exceeded all of its technical goals after two years, setting up the foundations of high-speed communications for NASA’s future human missions to Mars. NASA’s Deep Space Optical Communications technology successfully showed that data encoded in lasers could be reliably transmitted, received, and decoded after traveling millions of miles from Earth at distances [&#8230;]
+      <address>
+        <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/">https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T19:29:37Z" data-link="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/">
+      <h1>NASA Gateways to Blue Skies 2026 Competition</h1>
+
+(date: 2025-09-18)
+      <p>
+      The commercial aviation industry is a crucial component of the U.S. economy, playing a vital role in transporting people, intermediate/final goods, and driving demand for various goods and services nationwide. This network enhances the quality of life for the whole country and facilitates business interactions within and globally, boosting productivity and prosperity. However, the industry [&#8230;]
+      <address>
+        <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/">https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T18:36:39Z" data-link="https://puri.sm/posts/when-technology-policy-defends-human-dignity/">
+      <h1>When Technology Policy Defends Human Dignity</h1>
+
+(date: 2025-09-18)
+      <p>
+      <p>In late August, Italy took a decisive step to protect women from one of the most insidious forms of online abuse: the non‑consensual sharing of intimate or misappropriated images. After years of complaints, activism, and public outrage, a notorious website — home to thousands of stolen photos of women, from ordinary citizens to public figures — was forced offline following a wave of legal and political pressure.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/when-technology-policy-defends-human-dignity/">When Technology Policy Defends Human Dignity</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+
+      <address>
+        <a href="https://puri.sm/posts/when-technology-policy-defends-human-dignity/">https://puri.sm/posts/when-technology-policy-defends-human-dignity/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T18:26:10Z" data-link="https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/">
+      <h1>Spotify “Panama” Leak Is a Wake-Up Call for Digital Privacy</h1>
+
+(date: 2025-09-18)
+      <p>
+      <p>The New York Times recently reported that a hacker using the pseudonym “Tim” scraped publicly available data from Spotify and published it on his own website. Using automated bots, “Tim” harvested user playlists — many of them tied to identifiable names, locations, and even personal notes in titles or descriptions.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/">Spotify “Panama” Leak Is a Wake-Up Call for Digital Privacy</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+
+      <address>
+        <a href="https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/">https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T18:17:03Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_emergency_patch_chrome_0_day/">
+      <h1>Google pushes emergency patch for Chrome 0-day - check your browser version now</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Sixth such Chrome flaw this year spotted by the Chocolate Factory, already in play</h4> <p>Google pushed an emergency patch for a high-severity Chrome flaw, already under active exploitation. So it&#39;s time to make sure you&#39;re running the most recent version of the web browser.…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_emergency_patch_chrome_0_day/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_emergency_patch_chrome_0_day/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T18:16:31Z" data-link="https://www.smithsonianmag.com/smart-news/amorous-elk-are-looking-for-love-across-north-america-in-an-annual-spectacle-called-the-rut-180987366/">
+      <h1>Amorous Elk Are Looking for Love Across North America in an Annual Spectacle Called the Rut</h1>
+
+(date: 2025-09-18)
+      <p>
+      Fall is mating season for the large, antler-adorned ungulates—and you can catch a glimpse of them at several national parks in the United States and Canada
+      <address>
+        <a href="https://www.smithsonianmag.com/smart-news/amorous-elk-are-looking-for-love-across-north-america-in-an-annual-spectacle-called-the-rut-180987366/">https://www.smithsonianmag.com/smart-news/amorous-elk-are-looking-for-love-across-north-america-in-an-annual-spectacle-called-the-rut-180987366/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T17:31:55Z" data-link="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/">
+      <h1>NASA’s Chandra Finds Black Hole With Tremendous Growth</h1>
+
+(date: 2025-09-18)
+      <p>
+      A black hole is growing at one of the fastest rates ever recorded, according to a team of astronomers. This discovery from NASA’s Chandra X-ray Observatory may help explain how some black holes can reach enormous masses relatively quickly after the big bang. The black hole weighs about a billion times the mass of the [&#8230;]
+      <address>
+        <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/">https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T17:31:06Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/atlassian_dx_purchase/">
+      <h1>Atlassian drops $1B on company that helps measure dev productivity</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Aussie CEO promises AI everywhere, and clearer views of what your devs are up to</h4> <p>Atlassian has continued its AI spending spree with a $1 billion takeover of developer analysis biz DX, a move it promised would give devs &#34;less friction and more flow.&#34;…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/atlassian_dx_purchase/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/atlassian_dx_purchase/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T17:06:49Z" data-link="https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/">
+      <h1>Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer’s Disease Years Before a Traditional Diagnosis</h1>
+
+(date: 2025-09-18)
+      <p>
+      Researchers say the experimental tool has huge implications for public health, especially in conjunction with Alzheimer’s drugs that are most effective in the disease’s early stages
+      <address>
+        <a href="https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/">https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T17:02:55Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/researchers_just_created_a_working/">
+      <h1>AI can now design functional viruses - not the computer kind, either</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Inject this synthetic phage into E. coli and it kills better than the real thing</h4> <p>A group of Stanford bioengineers claim that they&#39;ve created synthetic bacteriophages using AI-generated designs that not only work in the real world, but are far more infectious than their naturally-occurring counterparts. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/researchers_just_created_a_working/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/researchers_just_created_a_working/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T16:55:30Z" data-link="https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/">
+      <h1>Living in the Regulatory Future: Purism, the EU Data Act, and America’s Patchwork Privacy Laws</h1>
+
+(date: 2025-09-18)
+      <p>
+      <p>Recently, the EU Data Act was officially enacted — and with it, a new era of enforceable digital rights. Where the GDPR set the policy framework, the Data Act demands proof: verifiable, auditable systems that deliver true data portability, secure interoperability, and privacy‑by‑design across sectors.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/">Living in the Regulatory Future: Purism, the EU Data Act, and America’s Patchwork Privacy Laws</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+
+      <address>
+        <a href="https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/">https://puri.sm/posts/living-in-the-regulatory-future-purism-the-eu-data-act-and-americas-patchwork-privacy-laws/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T16:37:50Z" data-link="https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/">
+      <h1>Building a Lunar Network: Johnson Tests Wireless Technologies for the Moon</h1>
+
+(date: 2025-09-18)
+      <p>
+      NASA engineers are strapping on backpacks loaded with radios, cameras, and antennas to test technology that might someday keep explorers connected on the lunar surface. Their mission: test how astronauts on the Moon will stay connected during Artemis spacewalks using 3GPP (LTE/4G and 5G) and Wi-Fi technologies.&#160; With Artemis, NASA will establish a long-term presence [&#8230;]
+      <address>
+        <a href="https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/">https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T16:15:49Z" data-link="https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/">
+      <h1>New NASA Mission to Reveal Earth’s Invisible ‘Halo’</h1>
+
+(date: 2025-09-18)
+      <p>
+      A new NASA mission will capture images of Earth’s invisible “halo,” the faint light given off by our planet’s outermost atmospheric layer, the exosphere, as it morphs and changes in response to the Sun. Understanding the physics of the exosphere is a key step toward forecasting dangerous conditions in near-Earth space, a requirement for protecting […]
+      <address>
+        <a href="https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/">https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T16:15:10Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/sonicwall_breach/">
+      <h1>Crims bust through SonicWall to grab sensitive config data</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Vendor pulls plug on cloud backup feature, urges admins to reset passwords and re-secure devices</h4> <p>SonicWall is telling some customers to reset passwords after attackers broke into its cloud backup service and accessed firewall configuration data.…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/sonicwall_breach/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/sonicwall_breach/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T16:14:05Z" data-link="https://www.nasa.gov/image-article/milky-way-views/">
+      <h1>Milky Way Views</h1>
+
+(date: 2025-09-18)
+      <p>
+      The Milky Way appears above Earth&#8217;s bright atmospheric glow in this Aug. 23, 2025, photograph from the International Space Station as it soared 261 miles above southern Iran at approximately 12:54 a.m. local time. The camera was configured for low light and long duration settings. Our home galaxy has hundreds of billions of stars, enough [&#8230;]
+      <address>
+        <a href="https://www.nasa.gov/image-article/milky-way-views/">https://www.nasa.gov/image-article/milky-way-views/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T15:59:11Z" data-link="https://www.osnews.com/story/143373/intel-to-build-x86-cpus-with-nvidia-graphics-most-likely-spelling-the-end-of-arc/">
+      <h1>Intel to build x86 CPUs with NVIDIA graphics, most likely spelling the end of ARC</h1>
+
+(date: 2025-09-18)
+      <p>
+      Intel is in very dire straits, and as such, the company needs investments and partnerships more than anything. Today, NVIDIA and Intel announced just such a partnership, in which NVIDIA will invest $5 billion into the troubled chip giant, while the two companies will develop products that combine Intel&#8217;s x86 processors with NVIDIA&#8217;s GPUs. For data centers, Intel will build NVIDIA-custom x86 CPUs that NVIDIA will integrate into its AI infrastructure platforms and offer to the market. For personal computing, Intel will build and offer to the market x86 system-on-chips (SOCs) that integrate NVIDIA RTX GPU chiplets. These new x86 RTX SOCs will power a wide range of PCs that demand integration of world-class CPUs and GPUs. ↫ NVIDIA press release My immediate reaction to this news was to worry about the future of Intel&#8217;s ARC graphics efforts. Just as the latest crop of their ARC GPUs have received a ton of good press and positive feedback, with some of their cards becoming the go-to suggestion for a budget-friendly but almost on-par alternative to offerings from NVIDIA and AMD, it would be a huge blow to user choice and competition if Intel were to abandon the effort. I think this news pretty much spells the end for the ARC graphics effort. Making dedicated GPUs able to compete with AMD and NVIDIA must come at a pretty big financial cost for Intel, and I wouldn&#8217;t be surprised if they&#8217;ve been itching to find an excuse to can the whole project. With NVIDIA GPUs fulfilling the role of more powerful integrated GPUs, all Intel really needs is a skeleton crew developing the basic integrated GPUs for cheaper and non-gaming oriented devices, which would be a lot cheaper to maintain. For just $5 billion dollars, NVIDIA most likely just eliminated a budding competitor in the GPU space. That&#8217;s cheap.
+      <address>
+        <a href="https://www.osnews.com/story/143373/intel-to-build-x86-cpus-with-nvidia-graphics-most-likely-spelling-the-end-of-arc/">https://www.osnews.com/story/143373/intel-to-build-x86-cpus-with-nvidia-graphics-most-likely-spelling-the-end-of-arc/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T15:39:45Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/got_a_copilot_pc_now/">
+      <h1>The Notepad that knew too much: Humble text editor gets unnecessary AI infusion</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Copilot+ PC users can run the AI models locally. Others may need a subscription.</h4> <p>Microsoft is continuing to shovel AI functionality into its Notepad application, with Windows Insiders the first test subjects.…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/got_a_copilot_pc_now/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/got_a_copilot_pc_now/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T15:21:54Z" data-link="https://www.osnews.com/story/143371/steam-drops-32bit-windows-support/">
+      <h1>Steam drops 32bit Windows support</h1>
+
+(date: 2025-09-18)
+      <p>
+      All good things come to an end eventually, and that includes support for 32bit Windows in Steam. As of January 1 2026, Steam will stop supporting systems running 32-bit versions of Windows. Windows 10 32-bit is the only 32-bit version that is currently supported by Steam and is only in use on 0.01% of systems reported through the Steam Hardware Survey. Windows 10 64-bit will still be supported and 32-bit games will still run. ↫ Steam support article While existing installations will continue to work, they will no longer receive any Steam updates or support. Valve obviously advises the small sliver of users still using 32bit Windows &#8211; unbeknownst to them, I&#8217;m sure &#8211; to upgrade to a 64bit release. Upcoming versions of Steam will only work on 64bit systems.
+      <address>
+        <a href="https://www.osnews.com/story/143371/steam-drops-32bit-windows-support/">https://www.osnews.com/story/143371/steam-drops-32bit-windows-support/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T15:04:31Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/850k_americans_affected_by_medical/">
+      <h1>Cybercriminals pwn 850k+ Americans' healthcare data</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Three US medical centers fess up to serious breaches</h4> <p>Cybercriminals broke in and stole nearly a million Americans&#39; data in the space of a week, in the course of three digital burglaries at healthcare providers.…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/850k_americans_affected_by_medical/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/850k_americans_affected_by_medical/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T15:02:38Z" data-link="https://www.smithsonianmag.com/smart-news/a-rare-left-coiling-snail-needs-help-finding-a-mate-new-zealanders-are-looking-for-its-1-in-40000-match-180987359/">
+      <h1>A Rare, Left-Coiling Snail Needs Help Finding a Mate. New Zealanders Are Looking for Its 1-in-40,000 Match</h1>
+
+(date: 2025-09-18)
+      <p>
+      Known as Ned, the creature needs a fellow left-coiling garden snail to reproduce—but the species almost always has shells that coil on their right side
+      <address>
+        <a href="https://www.smithsonianmag.com/smart-news/a-rare-left-coiling-snail-needs-help-finding-a-mate-new-zealanders-are-looking-for-its-1-in-40000-match-180987359/">https://www.smithsonianmag.com/smart-news/a-rare-left-coiling-snail-needs-help-finding-a-mate-new-zealanders-are-looking-for-its-1-in-40000-match-180987359/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T14:33:51Z" data-link="https://www.smithsonianmag.com/smart-news/baby-pterosaur-fossils-reveal-mid-flight-injury-and-watery-death-helping-solve-a-paleontological-mystery-180987301/">
+      <h1>Baby Pterosaur Fossils Reveal Mid-Flight Injury and Watery Death, Helping Solve a Paleontological Mystery</h1>
+
+(date: 2025-09-18)
+      <p>
+      A 150-million-year-old fossil hotspot in southern Germany yields an astounding number of well-preserved juvenile pterosaurs, and scientists wondered why it contained fewer adults
+      <address>
+        <a href="https://www.smithsonianmag.com/smart-news/baby-pterosaur-fossils-reveal-mid-flight-injury-and-watery-death-helping-solve-a-paleontological-mystery-180987301/">https://www.smithsonianmag.com/smart-news/baby-pterosaur-fossils-reveal-mid-flight-injury-and-watery-death-helping-solve-a-paleontological-mystery-180987301/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T13:59:50Z" data-link="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-white-dwarf-eating-piece-of-pluto-like-object/">
+      <h1>NASA’s Hubble Sees White Dwarf Eating Piece of Pluto-Like Object</h1>
+
+(date: 2025-09-18)
+      <p>
+      In our nearby stellar neighborhood, a burned-out star is snacking on a fragment of a Pluto-like object. With its unique ultraviolet capability, only NASA’s Hubble Space Telescope could identify that this meal is taking place. The stellar remnant is a white dwarf about half the mass of our Sun, but that is densely packed into […]
+      <address>
+        <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-white-dwarf-eating-piece-of-pluto-like-object/">https://science.nasa.gov/missions/hubble/nasas-hubble-sees-white-dwarf-eating-piece-of-pluto-like-object/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-18T13:58:39Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/workday_elliott_investment/">
+      <h1>Workday U-turns on rehiring pledge as activist investors take $2B stake</h1>
+
+(date: 2025-09-18)
+      <p>
+      <h4>Layoffs to stand following $1.1B AI acquisition</h4> <p>Activist investors have taken a $2 billion stake in Workday, signaling approval of its direction and saying they &#34;look forward to continued collaboration with the company.&#34;…</p>
+      <address>
+        <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/18/workday_elliott_investment/">https://go.theregister.com/feed/www.theregister.com/2025/09/18/workday_elliott_investment/</a>
+      </address>
+    </article>
+
     <article data-published="2025-09-18T13:00:12Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/18/two_teens_charged_in_tfl_case/">
-      <h1>Two 'Scattered Spider' teens charged over attack on London’s transport network</h1>
+      <h1>Two Scattered Spider teens charged over attack on London’s transport network</h1>
 
 (date: 2025-09-18)
       <p>
@@ -415,7 +740,7 @@
     <article data-published="2025-09-17T14:03:12Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/17/openai_hallucinations_incentives/">
       <h1>OpenAI says models are programmed to make stuff up instead of admitting ignorance</h1>
 
-(date: 2025-09-17)
+(date: 2025-09-17, updated: 2025-09-18)
       <p>
       <h4>Even a wrong answer is right some of the time</h4> <p>AI models often produce false outputs, or &#34;hallucinations.&#34; Now OpenAI has admitted they may result from fundamental mistakes it makes when training its models.…</p>
       <address>
@@ -629,6 +954,17 @@
       <h4>Suggests using multiple overlapping approaches and being kind to kids who get kicked off</h4> <p>Australia’s eSafety commissioner has told social media operators it expects them to employ multiple age assurance techniques and technologies to keep children under sixteen off social media, as required by local law from December 10th.…</p>
       <address>
         <a href="https://go.theregister.com/feed/www.theregister.com/2025/09/17/australia_kids_social_ban_guidance/">https://go.theregister.com/feed/www.theregister.com/2025/09/17/australia_kids_social_ban_guidance/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-17T00:00:00Z" data-link="https://servo.org/blog/2025/09/17/your-donations-at-work-funding-jdm/">
+      <h1>Your Donations at Work: Funding Josh Matthews' Contributions to Servo</h1>
+
+(date: 2025-09-17)
+      <p>
+      
+      <address>
+        <a href="https://servo.org/blog/2025/09/17/your-donations-at-work-funding-jdm/">https://servo.org/blog/2025/09/17/your-donations-at-work-funding-jdm/</a>
       </address>
     </article>
 
