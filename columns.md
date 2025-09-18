@@ -299,3 +299,4 @@ description: Blogs, columns and snapshots from around the web.
 - [Miguel de Icaza Mastondon feed](https://mastodon.social/@Migueldeicaza.rss)
 - [Ryan Gantz Bluesky feed](https://bsky.app/profile/did:plc:42n7zwgawer2whfwg3igqwrd/rss)
 - [rpdev.net](https://www.rpdev.net/feed.xml)
+- [rust language blog](https://blog.rust-lang.org/feed.xml)
