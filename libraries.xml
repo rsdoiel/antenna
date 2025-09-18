@@ -4,10 +4,18 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>17 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>18 Sep 25 06:07 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Peer Review in Transition: Helen King and Christopher Leonard on AI and the Future of Peer Review</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/18/peer-review-in-transition-helen-king-and-christopher-leonard-on-ai-and-the-future-of-peer-review/</link>
+      <description>
+        <![CDATA[<p>Today, we talk to thought leaders Helen King and Chris Leonard, who offer a nuanced look at how peer review might adapt, fracture, or reinvent itself in the AI era.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/18/peer-review-in-transition-helen-king-and-christopher-leonard-on-ai-and-the-future-of-peer-review/">Peer Review in Transition: Helen King and Christopher Leonard on AI and the Future of Peer Review</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60982</guid>
+    </item>    <item>
       <title>Tackling Textbook Affordability</title>
       <link>https://sr.ithaka.org/blog/tackling-textbook-affordability/</link>
       <description>
@@ -745,45 +753,6 @@
         <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGwnlQ6L28&#x2F;02yxOhbLOdze9aVKwMwf5w&#x2F;watch?utm_content=DAGwnlQ6L28&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Metadata Awards video - eLife</a>]]>
       </description>
       <guid>cid://https://www.crossref.org/blog/an-elife-filled-with-possibility-thanks-to-great-metadata/</guid>
-    </item>    <item>
-      <title>The Paradise Mystery, by J. S. Fletcher</title>
-      <link>https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</link>
-      <description>
-        <![CDATA[A young doctor attempts to turn a mysterious death to his romantic advantage.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery/downloads/j-s-fletcher_the-paradise-mystery.epub?source=feed" length="623100" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</guid>
-    </item>    <item>
-      <title>Building Stronger Library Partnerships</title>
-      <link>https://sr.ithaka.org/blog/building-stronger-library-partnerships/</link>
-      <description>
-        <![CDATA[<p>Working together, academic and public libraries have the potential to meet community needs in powerful and often overlooked ways—providing technology access, digital and information literacy programs, and connections to social services that address basic needs like food, housing, and transportation. These partnerships can also create targeted support for specific populations, including student parents looking for [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/building-stronger-library-partnerships/">Building Stronger Library Partnerships</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <guid>cid://https://sr.ithaka.org/?p=323462</guid>
-    </item>    <item>
-      <title>Public Librarians Partner with Internet Archive to Preserve Local Digital Heritage</title>
-      <link>https://blog.archive.org/2025/08/27/public-librarians-partner-with-internet-archive-to-preserve-local-digital-heritage/</link>
-      <description>
-        <![CDATA[Since 2017, Internet Archive’s Community Webs program has been empowering public libraries and similar organizations to preserve and provide access to the unique culture and digital heritage of their communities. [&#8230;]]]>
-      </description>
-      <guid>cid://https://blog.archive.org/?p=29081</guid>
-    </item>    <item>
-      <title>Registration is Now Open for Internet Archive’s October Events</title>
-      <link>https://blog.archive.org/2025/08/27/registration-is-now-open-for-internet-archives-october-events/</link>
-      <description>
-        <![CDATA[This October, the Internet Archive will celebrate an extraordinary milestone: 1 trillion web pages preserved and available for access via the Wayback Machine. The series of events scheduled throughout October [&#8230;]]]>
-      </description>
-      <guid>cid://https://blog.archive.org/?p=29149</guid>
-    </item>    <item>
-      <title>Guest Post – Beyond Open Access, Part II: Make Images Truly Accessible for All</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/27/guest-post-beyond-open-access-part-ii-make-images-truly-accessible-for-all/</link>
-      <description>
-        <![CDATA[<p>Today's guest authors offer practical tips for publishing high-quality image descriptions, a key step toward ensuring genuine accessibility in scholarly communications.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/27/guest-post-beyond-open-access-part-ii-make-images-truly-accessible-for-all/">Guest Post – Beyond Open Access, Part II: Make Images Truly Accessible for All</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <enclosure url="https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/08/Beyond-Open-Access-Part-2-audio-file-for-TSK1.mp3" length="8437778" type="audio/mpeg" />
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60909</guid>
     </item>
   </channel>
 </rss>
