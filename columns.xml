@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>17 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>18 Sep 25 06:07 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,182 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Going to Madrid. brb</title>
+      <link>https://adactio.com/notes/22138</link>
+      <description>
+        <![CDATA[<p>Going to Madrid. brb</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22138</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/09/11/us/charlie-kirk-views-guns-gender-climate.html?unlocked_article_code=1.m08.aMHN.DZnbG_p6Pvgv&#38;smid=url-share</link>
+      <description>
+        <![CDATA[<p>Where Charlie Kirk Stood on Key Political Issues.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/18/1133/</guid>
+    </item>    <item>
+      <link>https://fortune.com/2025/09/05/trump-tech-dinner-full-attendee-list/</link>
+      <description>
+        <![CDATA[<p>Meet all 33 Silicon Valley power players at Trump’s high-profile tech dinner—and here’s Elon Musk’s explanation for why he wasn’t there.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/18/1131/</guid>
+    </item>    <item>
+      <title>Time-of-Check Time-of-Use Attacks Against LLMs</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html</link>
+      <description>
+        <![CDATA[<p>This is a nice piece of research: &#8220;<a href="https://arxiv.org/abs/2508.17155">Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents</a>&#8220;.:</p>
+        <blockquote><p><b>Abstract:</b> Large Language Model (LLM)-enabled agents are rapidly emerging across a wide range of applications, but their deployment introduces vulnerabilities with security implications. While prior work has examined prompt-based attacks (e.g., prompt injection) and data-oriented threats (e.g., data exfiltration), time-of-check to time-of-use (TOCTOU) remain largely unexplored in this context. TOCTOU arises when an agent validates external state (e.g., a file or API response) that is later modified before use, enabling practical attacks such as malicious configuration swaps or payload injection. In this work, we present the first study of TOCTOU vulnerabilities in LLM-enabled agents. We introduce TOCTOU-Bench, a benchmark with 66 realistic user tasks designed to evaluate this class of vulnerabilities. As countermeasures, we adapt detection and mitigation techniques from systems security to this setting and propose prompt rewriting, state integrity monitoring, and tool-fusing. Our study highlights challenges unique to agentic workflows, where we achieve up to 25% detection accuracy using automated detection methods, a 3% decrease in vulnerable plan generation, and a 95% reduction in the attack window. When combining all three approaches, we reduce the TOCTOU vulnerabilities from an executed trajectory from 12% to 8%. Our findings open a new research direction at the intersection of AI safety and systems security...</p></blockquote>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70832</guid>
+    </item>    <item>
+      <title>Exploiting Male Rage</title>
+      <link>https://paulkrugman.substack.com/p/exploiting-male-rage</link>
+      <description>
+        <![CDATA[Men&#8217;s problems are real. MAGA&#8217;s solutions are fake]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!ne75!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e46e74a-859d-4442-afd3-59d9ef05957c_800x450.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/exploiting-male-rage</guid>
+    </item>    <item>
+      <title>Generative AI in the Real World: Faye Zhang on Using AI to Improve Discovery</title>
+      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-faye-zhang-on-using-ai-to-improve-discovery/</link>
+      <description>
+        <![CDATA[In this episode, Ben Lorica and AI Engineer Faye Zhang talk about discoverability: how to use AI to build search and recommendation engines that actually find what you want. Listen in to learn how AI goes way beyond simple collaborative filtering—pulling in many different kinds of data and metadata, including images and voice, to get [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17467</guid>
+    </item>    <item>
+      <title>Senior Producer Kalila Holt on Leaving Spotify and Heavyweight&#39;s New Chapter at Pushkin Industries</title>
+      <link>https://www.thisisthesqueeze.com/p/senior-producer-kalila-holt-on-leaving</link>
+      <description>
+        <![CDATA[Plus, I Explain Why I Ghosted You.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!DPTZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17ee7d1a-6571-4904-9eee-92a9254d820a_3088x2048.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.thisisthesqueeze.com/p/senior-producer-kalila-holt-on-leaving</guid>
+    </item>    <item>
+      <title>Me and Julio down by Shaka when the walls fell.</title>
+      <link>https://adactio.com/notes/22137</link>
+      <description>
+        <![CDATA[<p>Me and Julio down by Shaka when the walls fell.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22137</guid>
+    </item>    <item>
+      <title>Trump Tightens his Grip on the Media</title>
+      <link>https://robertreich.substack.com/p/trumps-disastrous-defamations</link>
+      <description>
+        <![CDATA[A president shouldn't be allowed to use defamation to suppress criticism of him. Big businesses likely to surrender to this shouldn't be allowed to buy major media.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!nsAv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F639682cf-ce37-4dd3-afe3-5dfa88f012ca_1456x1281.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/trumps-disastrous-defamations</guid>
+    </item>    <item>
+      <title>From suspicion to published curl CVE</title>
+      <link>https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/</link>
+      <description>
+        <![CDATA[Every curl security report starts out with someone submitting an issue to us on https://hackerone.com/curl. The reporter tells us what they suspect and what they think the problem is. This report is kept private, visible only to the curl security team and the reporter while we work on it. In recent months we have gotten &#8230; <a href="https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/" class="more-link">Continue reading <span class="screen-reader-text">From suspicion to published curl CVE</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28170</guid>
+    </item>    <item>
+      <title>September 17, 2025 (Wednesday)</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-17-2025-wednesday</link>
+      <description>
+        <![CDATA[This evening, John Koblin, Michael M.]]>
+      </description>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-17-2025-wednesday</guid>
+    </item>    <item>
+      <title>My new book — Clearing the Air — is published in the UK today</title>
+      <link>https://www.sustainabilitybynumbers.com/p/clearing-the-air-published-uk</link>
+      <description>
+        <![CDATA[A Hopeful Guide to Solving Climate Change &#8212; in 50 Questions and Answers]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!iC4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b3badfe-5bbb-4daf-ba70-dc729af7886e_1080x1350.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://www.sustainabilitybynumbers.com/p/clearing-the-air-published-uk</guid>
+    </item>    <item>
+      <title>312: The Age of Rewilding. Martians. Babelfish 🐡. Universal blood? Golden monkeys.</title>
+      <link>https://fixthenews.com/p/312-the-age-of-rewilding-martians</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!RToc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd74d8992-f42d-485f-9442-f4aac930ec04_1920x1920.webp" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/312-the-age-of-rewilding-martians</guid>
+    </item>    <item>
+      <title>Save video still frames from QuickTime Player with a shortcut</title>
+      <link>https://www.jeffgeerling.com/blog/2025/save-video-still-frames-quicktime-player-shortcut</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Save video still frames from QuickTime Player with a shortcut</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Almost 15 years ago, I wrote <a href="https://www.jeffgeerling.com/blogs/jeff-geerling/grab-single-frame-video">Grab a Single Frame from a Video in QuickTime X</a>. And for many years since, I slightly modified that workflow. Instead of using Preview, I would use <a href="https://github.com/jcsalterego/pngpaste"><code>pngpaste</code></a>, and paste the copied frame from QuickTime player into a file.</p>
+        
+        <p>For example:</p>
+        
+        <ol>
+        <li>Open a video in QuickTime and scrub to the frame you would like to save as an image.</li>
+        <li>Press Command-C</li>
+        <li>Switch to Terminal</li>
+        <li>Run <code>pngpaste image-name-here.jpg</code></li>
+        <li>Profit!</li>
+        </ol>
+        
+        <p>However, there are two problems with that workflow:</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-17T23:23:20-05:00" title="Wednesday, September 17, 2025 - 23:23" class="datetime">September 17, 2025</time>
+        </span>]]>
+      </description>
+      <guid>cid://3494 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>The Authoritarian Transition Is Arriving Ahead-of-Schedule</title>
+      <link>https://davekarpf.substack.com/p/the-authoritarian-transition-is-arriving</link>
+      <description>
+        <![CDATA[ThisIsFineDog.gif]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!e6xH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a0853bc-5be8-47f9-9b08-9be4fa19bf52_1000x978.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://davekarpf.substack.com/p/the-authoritarian-transition-is-arriving</guid>
+    </item>    <item>
+      <title>The risks we’re willing to take</title>
+      <link>https://tracydurnell.com/2025/09/17/the-risks-were-willing-to-take/</link>
+      <description>
+        <![CDATA[Not doing by Mandy Brown There will be consequences, of course. But there will be consequences no matter what you do. That’s what it means to be alive and living—everything you do makes change in the world. The choices we make are never between safety and risk, because there is no truly safe path; as long as [&#8230;]]]>
+      </description>
+      <guid>cid://https://tracydurnell.com/?p=29811</guid>
+    </item>    <item>
+      <title>A Moment For Independent Media</title>
+      <link>https://feed.tedium.co/link/15204/17162351/jimmy-kimmel-independent-media-thoughts</link>
+      <description>
+        <![CDATA[At a time when large companies are capitulating their content presence at the drop of a hat, a quick note on why a more-flexible independent media still matters.]]>
+      </description>
+      <guid>cid://https://tedium.co/2025/09/17/jimmy-kimmel-independent-media-thoughts/</guid>
+    </item>    <item>
+      <title>Anthropic: A postmortem of three recent issues</title>
+      <link>https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues">Anthropic: A postmortem of three recent issues</a></strong></p>
+        Anthropic had a very bad month in terms of model reliability:</p>
+        <blockquote>
+        <p>Between August and early September, three infrastructure bugs intermittently degraded Claude's response quality. We've now resolved these issues and want to explain what happened. [...]</p>
+        <p>To state it plainly: We never reduce model quality due to demand, time of day, or server load. The problems our users reported were due to infrastructure bugs alone. [...]</p>
+        <p>We don't typically share this level of technical detail about our infrastructure, but the scope and complexity of these issues justified a more comprehensive explanation.</p>
+        </blockquote>
+        <p>I'm really glad Anthropic are publishing this in so much detail. Their reputation for serving their models reliably has taken a notable hit.</p>
+        <p>I hadn't appreciated the additional complexity caused by their mixture of different serving platforms:</p>
+        <blockquote>
+        <p>We deploy Claude across multiple hardware platforms, namely AWS Trainium, NVIDIA GPUs, and Google TPUs. [...] Each hardware platform has different characteristics and requires specific optimizations. </p>
+        </blockquote>
+        <p>It sounds like the problems came down to three separate bugs which unfortunately came along very close to each other.</p>
+        <p>Anthropic also note that their privacy practices made investigating the issues particularly difficult:</p>
+        <blockquote>
+        <p>The evaluations we ran simply didn't capture the degradation users were reporting, in part because Claude often recovers well from isolated mistakes. Our own privacy practices also created challenges in investigating reports. Our internal privacy and security controls limit how and when engineers can access user interactions with Claude, in particular when those interactions are not reported to us as feedback. This protects user privacy but prevents engineers from examining the problematic interactions needed to identify or reproduce bugs.</p>
+        </blockquote>
+        <p>The code examples they provide to illustrate a TPU-specific bug show that they use Python and <a href="https://github.com/jax-ml/jax">JAX</a> as part of their serving layer.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything</guid>
+    </item>    <item>
+      <title>601. Scandal in the White House</title>
+      <link>https://therestishistory.com/601-scandal-in-the-white-house/</link>
+      <description>
+        <![CDATA[<p>Who was Grover Cleveland, and why is he one of the most controversial American Presidents of all time? Why was the run up to his first term, in 1884 at the height of the Gilded Age, so pivotal to American politics? How did he rocket to the heights of political power? What dark secrets began [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/601-scandal-in-the-white-house/">601. Scandal in the White House</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <guid>cid://https://therestishistory.com/601-scandal-in-the-white-house/</guid>
     </item>    <item>
       <title>The &#38;#8220;Debate Me Bro&#38;#8221; Grift: How Trolls Weaponized The Marketplace Of Ideas....</title>
       <link>https://kottke.org/25/09/0047536-the-debate-me-bro-grift</link>
@@ -531,12 +707,12 @@
       </description>
       <guid>cid://http://scripting.com/2025/09/17.html#a191912</guid>
     </item>    <item>
-      <title>Tina Brown and Niall Ferguson Discuss Our Own Gilded Age</title>
+      <title>My Video Chat with international man of history Niall Ferguson about Trump&#39;s unrequited love for the royals- and the new Gilded Age</title>
       <link>https://tinabrown.substack.com/p/tina-brown-and-niall-ferguson-discuss</link>
       <description>
-        <![CDATA[A recording from Tina Brown and Niall Ferguson's live video]]>
+        <![CDATA[Hope you enjoy my chat with the brilliant historian, Free Press columnist, and Time Machine Substacker Niall Ferguson.]]>
       </description>
-      <enclosure url="https://substack-video.s3.amazonaws.com/video_upload/post/173877314/29b8a6a1-ba95-4339-80ac-40634217d88d/transcoded-00001.png" length="0" type="image/jpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/173877314/3923627ef65ee7c3fce673371c29bf1d.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://tinabrown.substack.com/p/tina-brown-and-niall-ferguson-discuss</guid>
     </item>    <item>
       <title>Blending In</title>
@@ -3466,9 +3642,9 @@
       <title>Rob Weychert | Art &#38; Design</title>
       <link>https://v7.robweychert.com/</link>
       <description>
-        <![CDATA[<p>Rob has redesigned his site and it&#8217;s looking gorgeous.</p>
+        <![CDATA[<p>Rob has redesigned his site and it’s looking gorgeous.</p>
         
-        <p>I really like <a href="https://v7.robweychert.com/blog/">the categories he&#8217;s got for his blog</a>.</p>
+        <p>I really like <a href="https://v7.robweychert.com/blog/">the categories he’s got for his blog</a>.</p>
         
         <p><a href="https://adactio.com/links/22127">adactio.com/links/22127</a></p>]]>
       </description>
@@ -9220,198 +9396,6 @@
       <description>
         <![CDATA[Don't let gurus turn your favorite artist's story into marketing drugery.]]>
       </description>
-    </item>    <item>
-      <title>Werner Herzog doesn&#38;#8217;t use a cell phone, but he has joined Instagram....</title>
-      <link>https://kottke.org/25/08/0047418-werner-herzog-doesnt-use-</link>
-      <guid>cid://tag:kottke.org,2025://13.47418</guid>
-    </item>    <item>
-      <title>595. The First World War: The Battle of the Frontiers (Part 2)</title>
-      <link>https://therestishistory.com/595-the-first-world-war-the-battle-of-the-frontiers-part-2/</link>
-      <description>
-        <![CDATA[<p>What was Britain&#8217;s first military move following the outbreak of the First World War? Where did the French launch their initial attack on the Germans? Whose army was the biggest and best of all the participants in the war? And, what unfolded at the pivotal Battle of the Ardennes in August 1914, on the frontiers [&#8230;]</p>
-        <p>The post <a href="https://therestishistory.com/595-the-first-world-war-the-battle-of-the-frontiers-part-2/">595. The First World War: The Battle of the Frontiers (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
-      </description>
-      <guid>cid://https://therestishistory.com/595-the-first-world-war-the-battle-of-the-frontiers-part-2/</guid>
-    </item>    <item>
-      <title>&#38;#8220;The world&#38;#8217;s biggest frogs build their own ponds&#38;#8221; is art as a...</title>
-      <link>https://kottke.org/25/08/0047416-the-worlds-biggest-frogs-</link>
-      <guid>cid://tag:kottke.org,2025://13.47416</guid>
-    </item>    <item>
-      <title>Published on Citation Needed: &#34;Issue 91 – GDP on the blockchain&#34;</title>
-      <link>https://citationneeded.news/issue-91</link>
-      <guid>cid://68b755ec604d916e1d8def65</guid>
-    </item>    <item>
-      <title>Note published on August 27, 2025 at 8:29 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202508271627</link>
-      <guid>cid://68af6a9229c473565870152c</guid>
-    </item>    <item>
-      <title>What scaling does and doesn’t buy you: peeling back the hype surrounding Google‘s trendy Nano Banana</title>
-      <link>https://garymarcus.substack.com/p/what-scaling-does-and-doesnt-buy</link>
-      <description>
-        <![CDATA[Some things never change]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!9jNe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5695bb91-4f26-40c7-82b8-57d8d4ee3909_1024x677.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/what-scaling-does-and-doesnt-buy</guid>
-    </item>    <item>
-      <title>The Valley&#39;s Biggest Lies</title>
-      <link>https://guykawasaki.substack.com/p/the-valleys-biggest-lies</link>
-      <description>
-        <![CDATA[What they don&#8217;t tell you about startup culture.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!TSt7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35cd6dc7-c87e-47d7-b579-630a9ed09ab7_1080x1080.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/the-valleys-biggest-lies</guid>
-    </item>    <item>
-      <title>Paul Krugman and Ryan Lizza</title>
-      <link>https://paulkrugman.substack.com/p/paul-krugman-and-ryan-lizza</link>
-      <description>
-        <![CDATA[A recording from Paul Krugman and Ryan Lizza's live video]]>
-      </description>
-      <enclosure url="https://api.substack.com/feed/podcast/172110903/d287bcedbf25c926af225891183e7105.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/paul-krugman-and-ryan-lizza</guid>
-    </item>    <item>
-      <link>https://glammr.us/@IIIF/115102028009288148</link>
-      <description>
-        <![CDATA[<p>📆 Save the Date 📆</p><p>The <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Online Meeting will be held Jan. 27-29, 2026 and is free and open to all. Learn more at: <a href="https://iiif.io/event/2026/online-meeting/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">iiif.io/event/2026/online-meet</span><span class="invisible">ing/</span></a></p>]]>
-      </description>
-      <guid>cid://https://glammr.us/@IIIF/115102028009288148</guid>
-    </item>    <item>
-      <title>Masimo Sues U.S. Customs and Border Protection Over Apple Watch Blood Oxygen Ruling</title>
-      <link>https://news.bloomberglaw.com/ip-law/masimo-sues-us-customs-over-apple-restoring-watchs-oxygen-tool</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42188</guid>
-    </item>    <item>
-      <title>Jemmy Jimenez Rosa Is a Human Being</title>
-      <link>https://onefoottsunami.com/2025/08/27/jemmy-jimenez-rosa-is-a-human-being/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29051</guid>
-    </item>    <item>
-      <title>GhostBSD 25.02 adds &#39;Gershwin&#39; desktop for a Mac-like twist</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/27/ghostbsd_2502/</link>
-      <description>
-        <![CDATA[<h4>Hybrid of GNUstep and Xfce channels classic NeXT vibes</h4>
-              <p>The latest release of GhostBSD, an easy graphical FreeBSD distribution, includes a brand new macOS-like desktop environment, &#34;Gershwin.&#34;</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241588</guid>
-    </item>    <item>
-      <title>Archaeology 1.4</title>
-      <link>https://mjtsai.com/blog/2025/08/27/archaeology-1-4/</link>
-      <description>
-        <![CDATA[Mothers Ruin Software (Mastodon): Enhanced the decoding of Saved Application State to extract a couple of categories of data that were previously being ignored: For a sandboxed, document-based app, the security-scoped bookmarks that are associated with an NSDocument will now be shown, usually as an additional archive labeled _NSDocument [Security-Scoped Bookmarks]. This is an array [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49059</guid>
-    </item>    <item>
-      <title>Apparency 2.3</title>
-      <link>https://mjtsai.com/blog/2025/08/27/apparency-2-3/</link>
-      <description>
-        <![CDATA[Mothers Ruin Software (Mastodon): Changed the info pane to show Quarantine rather than Downloaded. Modern macOS likes to quarantine files that are opened by a sandboxed app, seemingly resulting in more non-download quarantines than actual downloads. You can still click on the quarantine date here to see what app triggered it and how &#8212; for [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49057</guid>
-    </item>    <item>
-      <title>iOS Simulator Files.app Broken by Symlink</title>
-      <link>https://mjtsai.com/blog/2025/08/27/ios-simulator-files-app-broken-by-symlink/</link>
-      <description>
-        <![CDATA[Jeff Johnson: I found that the Apple Files app was broken in the simulator, which prevented me from setting up my app properly for my screenshots. I couldn&#8217;t share a file on my Mac with the simulator. I couldn&#8217;t save a file on the simulator, for example from my own app or from the Apple [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49055</guid>
-    </item>    <item>
-      <title>JavaScript Runtimes of the Last Decade</title>
-      <link>https://mjtsai.com/blog/2025/08/27/javascript-runtimes-of-the-last-decade/</link>
-      <description>
-        <![CDATA[Whatever, Jamie (via Hacker News): This last decade has seen an inundation of new JavaScript runtimes (and engines in equal measure), enabling us to run JavaScript in all manner of contexts with precise fitness for task. Through these, we&#8217;ve seen the language spread to the Cloud, the edge, Smart TVs, mobile devices, and even microcontrollers.In [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49053</guid>
-    </item>    <item>
-      <title>Introducing the Librem PQC Comms Server</title>
-      <link>https://puri.sm/posts/introducing-the-librem-pqc-comms-server/</link>
-      <description>
-        <![CDATA[<p>SF, CA, US – Purism is excited to announce its <a href="https://puri.sm/products/librem-pqc-comms-server/">Librem PQC Comms Server</a>, encrypting data-in-transit (DIT) with post-quantum cryptography (PQC) according to the <a href="https://csrc.nist.gov/pubs/fips/203/final">NIST FIPS 203</a> standard. When bundled as a complete ecosystem with the <a href="https://puri.sm/products/liberty-phone/">Liberty Phone</a> or other Purism Products will also address data-at-rest (DAR) encrypted with PQC.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/introducing-the-librem-pqc-comms-server/">Introducing the Librem PQC Comms Server</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=83993</guid>
-    </item>    <item>
-      <title>21st century IT is kayfabe: it&#39;s all fake, just for show</title>
-      <link>https://liam-on-linux.dreamwidth.org/96488.html</link>
-      <description>
-        <![CDATA[In response to<font face="share-button-combined">&nbsp;</font><a class="post-link" href="https://infrequently.org/2025/08/apple-vs-fb-kayfabe/">Apple vs. Facebook is Kayfabe</a>...<br /><div role="heading" aria-level="3" class="comment_text"><p>He&rsquo;s right, though.</p> <p>We are now at 25% of the way through C21. Most of C21 IT today is &ldquo;kayfabe&rdquo;: deliberately fake, to fool the audience.</p> <p><strong>SaaS:</strong> fake corporate IT services for company directors too cheap to hire competent IT staff.</p> <p>The lie: it&rsquo;s OK and safe to let other companies run your IT for you.</p> <p>The truth: if it matters, own it, run it yourself.</p> <p><strong>Public cloud:</strong> it&rsquo;s cheaper to&nbsp;leave your server  hosting up to specialists. The lie: no it isn&rsquo;t, but worse, you lose  control of core key assets. The truth: you only need this for your  public website, if that.</p> <p><strong>Kubernetes:</strong> you, yes <em>you,</em> you could be the  next viral success and you need a website that scales to 10 million  visitors a second. The lie: you need a microservices cluster</p> <p>Citation: <a href="https://DoINeedKubernetes.com/" rel="ugc">https://DoINeedKubernetes.com/</a></p> <p><strong>Javascript:</strong> now at last the dream of &ldquo;write once run anywhere&rdquo; is real! Everything is a web app!</p> <p>The truth: all your &ldquo;local&rdquo; apps have a separate 200MB dependency on  an old insecure copy of Chromium. How do you update them all? You don&rsquo;t.  You can&rsquo;t. Your web apps depend on leftpad, that one dude in Nebraska  from <a href="https://xkcd.com/2347/" rel="ugc">Xkcd 2347</a>.</p> <p>And of course&hellip;</p> <p><strong>AI.</strong> Computers that write their own software! Yay!</p> <p>Only they don&rsquo;t. It&rsquo;s the emperor&rsquo;s new clothes. Everyone believes  it. It&rsquo;s like religion: it is unacceptably rude to tell someone their  god doesn&rsquo;t exist. Even if the &ldquo;god in the machine&rdquo; is a language model.</p> <p>It&rsquo;s all fake all the way down. I think the last time the industry  knew what it was doing was in the 20th century. Since the dotcom boom  and bust, MBAs have just been winging it and hoping they don&rsquo;t get  called out &rsquo;til their shares vest.</p></div><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=96488" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments]]>
-      </description>
-      <guid>cid://https://liam-on-linux.dreamwidth.org/96488.html</guid>
-    </item>    <item>
-      <title>The Crazy Comes for Clean Energy</title>
-      <link>https://paulkrugman.substack.com/p/the-crazy-comes-for-clean-energy</link>
-      <description>
-        <![CDATA[Nothing is safe from the madness of King Donald]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!OO-8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7b6d2bf-391c-427e-8643-f4bca7648b9b_1440x440.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/the-crazy-comes-for-clean-energy</guid>
-    </item>    <item>
-      <title>What Happens When Wealthy People Die</title>
-      <link>https://ripcorp.biz/episodes/what-happens-when-wealthy-people-die-ozynB74f</link>
-      <description>
-        <![CDATA[<p>RIP Corp is a Charts & Leisure production. Find us at ripcorp.biz, or follow in places @ripcorpdotbiz for all your dead business needs. </p><p>To support the show, please consider aligning yourself even more deeply with the brand, via our merch shop: ripcorp.threadless.com</p><p>RIP Corp is written and hosted by Ingrid Burrington. Produced by Meghal Janardan and Mike Rugnetta. Associate producer, Taylor Behnke. Original music and sound design from Andrew Atkin and Michael Simonelli. Fact-checking from Matt Giles. Logo design by Beatriz Lozano and illustrations by Megan Mulholland. Executive produced by Jason Oberholtzer.</p>]]>
-      </description>
-      <author>jason@chartsandleisure.com (Charts & Leisure)</author>
-      <enclosure url="https://cdn.simplecast.com/audio/9f939d29-3851-4cf5-806d-2f338733807b/episodes/4349c475-8405-4f99-8f30-ae9f723f761d/audio/6cfff703-fa3f-42fe-88b6-ed091a5272e9/default_tc.mp3?aid=rss_feed&feed=gfVnllUi" length="26931571" type="audio/mpeg" />
-      <guid>cid://13d24ab6-0a87-44f3-8107-b97c7b937ded</guid>
-    </item>    <item>
-      <title>MCP Introduces Deep Integration—and Serious Security Concerns</title>
-      <link>https://www.oreilly.com/radar/mcp-introduces-deep-integration-and-serious-security-concerns/</link>
-      <description>
-        <![CDATA[MCP—the Model Context Protocol introduced by Anthropic in November 2024—is an open standard for connecting AI assistants to data sources and development environments. It&#8217;s built for a future where every AI assistant is wired directly into your environment, where the model knows what files you have open, what text is selected, what you just typed, [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17350</guid>
-    </item>    <item>
-      <title>Office Hours: Will Jeffrey Epstein finally take Trump down?</title>
-      <link>https://robertreich.substack.com/p/office-hours-will-jeffrey-epstein</link>
-      <description>
-        <![CDATA[It all may happen soon]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!JWxl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F716785f2-9e45-4cd5-aa79-ac9be6762759_770x513.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/office-hours-will-jeffrey-epstein</guid>
-    </item>    <item>
-      <title>Turning towards the positive</title>
-      <link>https://tracydurnell.com/2025/08/27/turning-towards-the-positive/</link>
-      <description>
-        <![CDATA[W. David Marx writes, related to labubus and AI slop: &#8220;We&#8221; — consumers who desire complexity and innovation — are giving so much of &#8220;our&#8221; attention to things we hold in contempt. Marx is mostly talking about junk culture, mass culture, but I also think this applies to purity policing of cultural works, especially writing. [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=28940</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115099422447607384</link>
-      <description>
-        <![CDATA[<p><a href="https://privacypack.org/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">privacypack.org/</span><span class="invisible"></span></a></p><p>My privacy pack isn't too shabby.</p>]]>
-      </description>
-      <guid>cid://https://tilde.zone/@tomasino/115099422447607384</guid>
-    </item>    <item>
-      <title>Best 20 SFF books published 2020-2024, according to Tracy</title>
-      <link>https://tracydurnell.com/2025/08/26/best-sff-published-2020-2024/</link>
-      <description>
-        <![CDATA[I get mildly annoyed when I see &#8220;best of&#8221; booklists with nothing on them that I&#8217;ve read because I&#8217;m not into literary fiction and almost exclusively read genre fiction. I decided to pick out what I think are the best SFF books published from 2020 through 2024 (that I happen to have read 😉). My [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=24941</guid>
-    </item>    <item>
-      <title>The Talk Show: ‘Weird Turtle Fake Out’</title>
-      <link>https://daringfireball.net/thetalkshow/2025/08/25/ep-429</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42187</guid>
-    </item>    <item>
-      <title>Finished reading Of Monsters and Mainframes</title>
-      <link>https://www.mollywhite.net/reading/books?search=Of%20Monsters%20and%20Mainframes</link>
-      <guid>cid://68ae660cf900932e30060dc8</guid>
-    </item>    <item>
-      <title>MacSurfer Returns Under New Ownership</title>
-      <link>https://macsurfer.com/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42186</guid>
-    </item>    <item>
-      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
-      <link>https://tantek.com/2025/238/t1/anti-billionaire-bucketlist</link>
-      <guid>cid://https://tantek.com/2025/238/t1/anti-billionaire-bucketlist</guid>
-    </item>    <item>
-      <title>Apple to Debut TechWoven Cases for iPhone 17 Lineup</title>
-      <link>https://majinbuofficial.com/iphone-17-new-tech-woven-case-unveiled/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42185</guid>
-    </item>    <item>
-      <title>Over-Filtering The Internet</title>
-      <link>https://feed.tedium.co/link/15204/17127187/internet-content-filters-history</link>
-      <description>
-        <![CDATA[Despite many, many failed attempts to do so, people keep trying to filter the internet. Let’s look at the lens of the current moment through past attempts—including one led by, of all people, a librarian.]]>
-      </description>
-      <guid>cid://https://tedium.co/2025/08/26/internet-content-filters-history/</guid>
     </item>
   </channel>
 </rss>
