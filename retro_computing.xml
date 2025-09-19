@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>18 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -952,49 +952,6 @@
         <![CDATA[Some things we noticed this month. What did you see?]]>
       </description>
       <guid>cid://http://www.iconbar.com/comments/rss/news2224.html</guid>
-    </item>    <item>
-      <title>AUR Repository Still Under DDoS Attack</title>
-      <link>http://www.linux-magazine.com/Online/News/AUR-Repository-Still-Under-DDoS-Attack</link>
-      <description>
-        <![CDATA[<p>Arch User Repository continues to be under a DDoS attack that has been going on for more than two weeks.</p>]]>
-      </description>
-      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
-      <guid>cid://9bf947d3de710b313b5420e0717b010a</guid>
-    </item>    <item>
-      <title>January 2026, the 50th birthday of the KIM-1</title>
-      <link>http://retro.hansotten.nl/january-2026-the-50th-birthday-of-the-kim-1/</link>
-      <description>
-        <![CDATA[n 1975 MOS Technology started delivery of 65XX ICs. So 2025 marks the 50 year anniversary of the 6502! The earliest mentions of the KIM-1 are from January 1976. The date of the first edition of the User Manual, and first mentions in e.g. Byte. So I propose to declare January 2026 as the 50th [&#8230;]]]>
-      </description>
-      <guid>cid://http://retro.hansotten.nl/?p=18593</guid>
-    </item>    <item>
-      <title>How to use the time in the 6530/6532</title>
-      <link>http://retro.hansotten.nl/how-to-use-the-time-in-the-6530-6532/</link>
-      <description>
-        <![CDATA[When I acquired a KIM-1 Rev A, obviously sold by NCE/Compumart, it came with some documentation that may interest any programmer working with the MOS Technology (R)RIOT 6530 and 6532. The timer description the datasheet is a bit vague about how to use. What may help is the document &#8216;KIM-1 Application Note 2 Interval Timer [&#8230;]]]>
-      </description>
-      <guid>cid://http://retro.hansotten.nl/?p=18591</guid>
-    </item>    <item>
-      <title>PLEASE package The Computerist</title>
-      <link>http://retro.hansotten.nl/please-package-the-computerist/</link>
-      <description>
-        <![CDATA[PLEASE is a very small package for a standard KIM-1. It has a tiny monitor, command interpreter and many handy subroutines. PLEASE INSTRUCTIONS PLEASE LISTING See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute [&#8230;]]]>
-      </description>
-      <guid>cid://http://retro.hansotten.nl/?p=18589</guid>
-    </item>    <item>
-      <title>A small book with five experiments with the KIM-1</title>
-      <link>http://retro.hansotten.nl/a-small-book-with-five-experiments-with-the-kim-1/</link>
-      <description>
-        <![CDATA[A small book with five experiments with the KIM-1. 1. User 2. Input/output 3. I/O controller 4. Timing 5. Hardware interrupts KIM-1 experiments) See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages [&#8230;]]]>
-      </description>
-      <guid>cid://http://retro.hansotten.nl/?p=18587</guid>
-    </item>    <item>
-      <title>MOS Technology KIM-1 Preliminary datasheet 1976</title>
-      <link>http://retro.hansotten.nl/mos-technology-kim-1-preliminary-datasheet-1976/</link>
-      <description>
-        <![CDATA[With one of my KIM-1s (a Rev G) came a MOS Technology KIM-1 Preliminary datasheet 1976. Added to the KIM-1 manuals page. See also:KIM-1 connectors: beware the Chinese cheap variants!The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, ...Magazines: Compute! and Compute IIThe pages om [&#8230;]]]>
-      </description>
-      <guid>cid://http://retro.hansotten.nl/?p=18582</guid>
     </item>
   </channel>
 </rss>

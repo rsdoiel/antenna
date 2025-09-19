@@ -4,10 +4,108 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>18 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Scattered Spider teen cuffed after buying games and meals with extortion bitcoin</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/scattered_spider_teen_cuffed/</link>
+      <description>
+        <![CDATA[<h4>Bad opsec</h4> <p>Thalha Jubair, one of the two UK teens arrested on Tuesday and accused of being members of the notorious Scattered Spider cybercrime gang, allegedly played a role in bilking more than 100 organizations out of at least $115 million in ransom payments. The cops nabbed him after following a number of clues, including paying for gift cards from a wallet on the same server that also held wallets receiving extortion payments.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242005</guid>
+    </item>    <item>
+      <title>One token to pwn them all: Entra ID bug could have granted access to every tenant</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/microsoft_entra_id_bug/</link>
+      <description>
+        <![CDATA[<h4>Until Microsoft lobbed it into a virtual volcano</h4> <p>A security researcher claims to have found a flaw that could have handed him the keys to almost every Entra ID tenant worldwide.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242016</guid>
+    </item>    <item>
+      <title>Nice try, sinners: Pope nixes idea of AI pontiff blessing netizens</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/pope_vetoes_ai_avatar/</link>
+      <description>
+        <![CDATA[<h4>Leo XIV voices concerns about AI taking jobs – and not just his own</h4> <p>Pope Leo XIV has crucified the idea of creating an AI version which would&#39;ve allowed Catholics around the world to have a virtual audience with him – without the need for a trip to Vatican City.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242015</guid>
+    </item>    <item>
+      <title>User group says SAP&#39;s licensing models make cloud migration harder</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/sap_licensing_criticised_by_dsag_group/</link>
+      <description>
+        <![CDATA[<h4>DSAG criticizes separate regimes for public, private cloud, says users need more time to upgrade in uncertain times</h4> <p>SAP&#39;s German-speaking user group has warned that the enterprise software giant&#39;s current licensing regime is creating unwanted difficulties in launching cloud migration and upgrade projects.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242013</guid>
+    </item>    <item>
+      <title>Hubble Images Celestial Cigar’s Smoldering Heart</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-images-celestial-cigars-smoldering-heart/</link>
+      <description>
+        <![CDATA[This NASA/ESA Hubble Space Telescope image reveals new details in Messier 82 (M82), home to brilliant stars whose light is shaded by sculptural clouds made of clumps and streaks of dust and gas. This image features the star-powered heart of the galaxy, located just 12 million light-years away in the constellation Ursa Major (the Great […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/missions/hubble/hubble-images-celestial-cigars-smoldering-heart/</guid>
+    </item>    <item>
+      <title>OpenAI plugs ShadowLeak bug in ChatGPT that let miscreants raid inboxes</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/openai_shadowleak_bug/</link>
+      <description>
+        <![CDATA[<h4>Radware says flaw enabled hidden email prompts to trick Deep Research agent into exfiltrating sensitive data</h4> <p>ChatGPT&#39;s research assistant sprung a leak – since patched – that let attackers steal Gmail secrets with just a single carefully crafted email.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242014</guid>
+    </item>    <item>
+      <title>Charities warn Ofcom too soft on Online Safety Act violators</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/ofcom_osa_enforcement/</link>
+      <description>
+        <![CDATA[<h4>Another blow for the legislation as Parliament continues to hear stakeholder views</h4> <p>As UK ministers continue to quiz stakeholders over the effectiveness of the Online Safety Act, one charity chief raised concerns over the robustness of Ofcom&#39;s enforcement of the controversial legislation.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242012</guid>
+    </item>    <item>
+      <title>British spreadsheet wizard will take mad skillz to Vegas after taking national Excel crown</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/uk_excel_champ_crowned/</link>
+      <description>
+        <![CDATA[<h4>Q: How many Excel users do you need to correctly set the number formatting of a cell? A: Monday, January 1st, 1900</h4> <p>The inaugural finals of the UK Excel Championship have come and gone, and there is now one spreadsheet wrangler to rule them all, at least in the United Kingdom.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241999</guid>
+    </item>    <item>
+      <title>Word to the wise: Don&#39;t tell your IT manager they&#39;re not in Excel</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/on_call/</link>
+      <description>
+        <![CDATA[<h4>Contractor sneakily fired after pointing out odious ignorance</h4> <p><strong>On Call</strong>  Welcome to another installment of On Call, <i>The Register&#39;s</i> Friday frolic through your tales of delightful tech support encounters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241962</guid>
+    </item>    <item>
+      <title>MI6 reveals &#39;Silent Courier&#39; dark web portal upgrade it hopes will help it recruit new spies</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/mi6_darkweb_portal_upgrade/</link>
+      <description>
+        <![CDATA[<h4>YouTube vids explain digital tradecraft to reach spooks over Tor or VPN without blowing your cover</h4> <p>The UK’s Secret Intelligence Service, aka MI6, has created a dark web portal called “Silent Courier” that it hopes would-be foreign informants will find a suitably secure means of sharing secrets.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242010</guid>
+    </item>    <item>
+      <title>Slack threatened to delete nonprofit coding club’s data if it didn’t pay $50k in a week</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/slack_nonprofit_license_hike_threat/</link>
+      <description>
+        <![CDATA[<h4>Collaborationware CEO tried to smooth things over, but Hack Club now plans a strategy shift</h4> <p>Slack sent a nonprofit hacking club for teens a demand for $50,000, payable within a week, and threatened to delete the club’s message archive if it did not pay.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242009</guid>
+    </item>    <item>
+      <title>Pigs will fly: Uber Eats to trial drone delivery</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/uber_drone_delivery_trial/</link>
+      <description>
+        <![CDATA[<h4>Teams with UAV operator Flytrex for service that moves meals in minutes</h4> <p>Flying pigs may soon be on their way to some US households, after rideshare and food delivery behemoth Uber teamed with drone operator Flytrex for food delivery services.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242008</guid>
+    </item>    <item>
+      <title>Humanity now has zero active robots at Venus as Japan ends 15-year ‘Dawn’ mission</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/jaxa_dawn_akatsuki_venus_mission_ends/</link>
+      <description>
+        <![CDATA[<h4>Thanks for the memories, Akatsuki</h4> <p>Japan’s Aerospace Exploration Agency has decided to abandon its Akatsuki Venus orbiter, after losing contact with the craft last year.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242007</guid>
+    </item>    <item>
+      <title>Microsoft boasts about humongous datacenter on abandoned Foxconn site in Wisconsin</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/18/microsoft_datacenter_wisconsin/</link>
+      <description>
+        <![CDATA[<h4>In a state known for dairy, football, and broken tech dreams</h4> <p>Microsoft&#39;s CEO has claimed the operating system-slinger is building the &#34;world&#39;s largest datacenter.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242006</guid>
+    </item>    <item>
       <title>Dark patterns killed my wife’s Windows 11 installation</title>
       <link>https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/</link>
       <description>
@@ -80,7 +178,7 @@
       </description>
       <guid>cid://https://puri.sm/?p=84360</guid>
     </item>    <item>
-      <title>Google pushes emergency patch for Chrome 0-day - check your browser version now</title>
+      <title>Google pushes emergency patch for Chrome 0-day – check your browser version now</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_emergency_patch_chrome_0_day/</link>
       <description>
         <![CDATA[<h4>Sixth such Chrome flaw this year spotted by the Chocolate Factory, already in play</h4> <p>Google pushed an emergency patch for a high-severity Chrome flaw, already under active exploitation. So it&#39;s time to make sure you&#39;re running the most recent version of the web browser.…</p>]]>
@@ -115,7 +213,7 @@
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/MTbwSps5ckCkXv1_BjmvRmx62EM=/420x240/filters:focal(500x281:501x282)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9e/73/9e732b21-a810-4183-8c4b-c8199db165d8/54758935679_1c81360fd4_o.jpg" length="" type="" />
     </item>    <item>
-      <title>AI can now design functional viruses - not the computer kind, either</title>
+      <title>AI can now design functional viruses – not the computer kind, either</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/18/researchers_just_created_a_working/</link>
       <description>
         <![CDATA[<h4>Inject this synthetic phage into E. coli and it kills better than the real thing</h4> <p>A group of Stanford bioengineers claim that they&#39;ve created synthetic bacteriophages using AI-generated designs that not only work in the real world, but are far more infectious than their naturally-occurring counterparts. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
@@ -3143,79 +3241,6 @@
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/the-quiet-revolution-gnu-linux-crosses-6-desktop-market-share-and-its-just-the-beginning/">The Quiet Revolution: GNU/Linux Crosses 6% Desktop Market Share—And It’s Just the Beginning</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
       <guid>cid://https://puri.sm/?p=84000</guid>
-    </item>    <item>
-      <title>Google’s New Sideloading Restrictions: Why Purism Thinks Differently</title>
-      <link>https://puri.sm/posts/googles-new-sideloading-restrictions-why-purism-thinks-differently/</link>
-      <description>
-        <![CDATA[<p>Google’s New Sideloading Restrictions: Why Purism Thinks Differently Google is introducing a new developer verification system claiming to increase security and combat malware (in the name of controlling users).  Google’s “security” push is a double-edged sword. It may help fight a certain type of malware. But it also reminds us all that Android’s identity is [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/googles-new-sideloading-restrictions-why-purism-thinks-differently/">Google’s New Sideloading Restrictions: Why Purism Thinks Differently</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84185</guid>
-    </item>    <item>
-      <title>Elusive Sailback Houndshark Rediscovered in Papua New Guinea After 50 Years</title>
-      <link>https://www.smithsonianmag.com/smart-news/elusive-sailback-houndshark-rediscovered-in-papua-new-guinea-after-50-years-180987260/</link>
-      <description>
-        <![CDATA[The creatures are occasionally caught by local fishermen but hadn’t been scientifically recorded since the 1970s]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TZeWm31W3tJoGHLq56ihjVzBTIE=/420x240/filters:focal(257x181:258x182)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ca/4f/ca4fb2bf-8fcb-4093-a4a3-3df4792e2af7/screenshot_2025-08-28_at_110504am.png" length="" type="" />
-    </item>    <item>
-      <title>Sharks&#39; Teeth Could Suffer Damage as Ocean Acidification Intensifies, Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/sharks-teeth-could-suffer-damage-as-ocean-acidification-intensifies-study-suggests-180987251/</link>
-      <description>
-        <![CDATA[Higher concentrations of carbon dioxide in the atmosphere are leading to a drop in ocean pH, a change that might eventually make it harder for sharks to eat their prey]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/qq3MJAf4OF3e_THsMcK4CNE--Zo=/420x240/filters:focal(960x640:961x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/fb/ce/fbceee08-3514-4deb-822d-beff79ad4fa1/cmelanopterus1_small.jpg" length="" type="" />
-    </item>    <item>
-      <title>How a Spontaneous Food Fight Became La Tomatina, Spain&#39;s Annual Tomato-Throwing Festival</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-a-spontaneous-food-fight-became-la-tomatina-spains-annual-tomato-throwing-festival-180987257/</link>
-      <description>
-        <![CDATA[Thousands of people gathered in a small Spanish town this week for the event, which is celebrating its 80th anniversary]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/P2ZqMAKV2B8Mb3_2SB9z90eOTrA=/420x240/filters:focal(3000x1943:3001x1944)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/27/14/271476d2-e23e-46c2-a609-b9c075bb2c9e/gettyimages-2231600939.jpg" length="" type="" />
-    </item>    <item>
-      <title>She Spent Three Weeks Digging for a Diamond for Her Engagement Ring—and Unearthed a 2.3-Carat Stunner</title>
-      <link>https://www.smithsonianmag.com/smart-news/she-spent-three-weeks-digging-for-a-diamond-for-her-engagement-ring-and-unearthed-a-2-3-carat-stunner-180987254/</link>
-      <description>
-        <![CDATA[When Micherre Fox and her boyfriend decided to get married, she flew to Crater of Diamonds State Park in Arkansas to search for the diamond herself]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/yF8mx_uMCCZdTW-CFLtLRXuabgM=/420x240/filters:focal(3000x2000:3001x2001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9a/53/9a53b92b-6b92-4c62-90da-f7fdd7239181/dsc_0779.jpg" length="" type="" />
-    </item>    <item>
-      <title>Early Humans Moved Stones Long Distances to Make Tools 600,000 Years Earlier Than Thought</title>
-      <link>https://www.smithsonianmag.com/smart-news/early-humans-moved-stones-long-distances-to-make-tools-600000-years-earlier-than-thought-180987247/</link>
-      <description>
-        <![CDATA[A new study takes another look at some of the oldest known stone tools and suggests their makers transported materials for up to eight miles]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XFtlaWId5nb3yzNZX_CLWhuDCqQ=/420x240/filters:focal(2592x1728:2593x1729)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/5f/605fb4ed-5c1a-41f1-b4f2-c54d3c45fe35/b_-_nyayanga_ampitheater.jpg" length="" type="" />
-    </item>    <item>
-      <title>Archaeologists Are Digging Up Scotland&#39;s Very First Outdoor Skatepark</title>
-      <link>https://www.smithsonianmag.com/smart-news/archeologists-are-digging-up-scotlands-very-first-outdoor-skatepark-180987231/</link>
-      <description>
-        <![CDATA[Kelvin Wheelies skatepark, which hosted the country's first national skateboarding competition, has been buried under rubble for decades]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/azuBPotQMEfHQoXK3RVukngTYXk=/420x240/filters:focal(325x214:326x215)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a5/be/a5be8545-2e61-43d3-90e8-a1c44ad747c5/media_1204410_smxx.jpg" length="" type="" />
-    </item>    <item>
-      <title>The Sudden Surges That Forge Evolutionary Trees</title>
-      <link>https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/</link>
-      <description>
-        <![CDATA[An updated evolutionary model shows that living systems evolve in a split-and-hit-the-gas dynamic, where new lineages appear in sudden bursts rather than during a long marathon of gradual changes.            <p>The post <a href="https://www.quantamagazine.org/the-sudden-surges-that-forge-evolutionary-trees-20250828/" target="_blank">The Sudden Surges That Forge Evolutionary Trees</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=153646</guid>
-    </item>    <item>
-      <title>This Is What Our Thumbs Say About Our Brains, in a Pattern That Holds True for Other Primates</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-is-what-our-thumbs-say-about-our-brains-in-a-pattern-that-holds-true-for-other-primates-180987250/</link>
-      <description>
-        <![CDATA[Researchers have found a link between long thumbs and big brains, suggesting the two features evolved together]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nFmgAALBU-SWAyZnMV4EcyRcCH0=/420x240/filters:focal(3680x2488:3681x2489)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/23/cb23f2fe-7fcd-4e93-9022-010a371cdf8a/close-up-woman-s-hand-hitchhiking-countryside-road.jpg" length="" type="" />
-    </item>    <item>
-      <title>PureOS Crimson Development Report: July 2025</title>
-      <link>https://puri.sm/posts/pureos-crimson-development-report-july-2025/</link>
-      <description>
-        <![CDATA[<p>Welcome back!  In our last update, we mentioned a fix in pureos-meta for some missing essential system components.</p>
-        <p>This seemed trivial at the time - just add the missing components.  However, when the fix went into review and we looked deeper, it turned out to be anything but trivial.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-july-2025/">PureOS Crimson Development Report: July 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84155</guid>
     </item>
   </channel>
 </rss>
