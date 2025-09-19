@@ -4,10 +4,48 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>18 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Homebuyers and sellers on the sidelines</title>
+      <link>https://www.marketplace.org/episode/2025/09/19/homebuyers-and-sellers-on-the-sidelines</link>
+      <description>
+        <![CDATA[<p>Zillow reports that new listings fell to a record low in August, with sellers putting about 7% fewer homes up for sale than in July. Meanwhile, homes are staying on the market longer than a year ago, and home prices are barely growing in most markets. What's going on? Plus, Harvard economist Jason Furman cautions that we could get stuck in slow monthly job growth as a result of immigration policy.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/19/mmr_20250919_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5GY2PJR0YBQNH0EP6QPD75W" length="3155851" type="audio/mpeg" />
+      <guid>cid://01K5GY2PJR0YBQNH0EP6QPD75W</guid>
+    </item>    <item>
+      <title>Canada and Mexico unite on trade</title>
+      <link>https://www.marketplace.org/episode/2025/09/19/canada-and-mexico-unite-on-trade</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> We'll start today in Mexico, where trade talks have taken place between Mexican President Claudia Sheinbaum and Canadian Prime Minister Mark Carney, who agreed to deepen ties as both countries face new tariffs from their neighbor, the U.S. – 50% on Canadian steel and 25% on Mexican pharmaceuticals, for example. We’ll also learn about the unauthorized resale of soccer tickets in England. And later, could hydrogen be used to help reduce emissions from the steel industry?</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/19/mmr_20250919_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5GVRBENJ0KZE9S56BF157CF" length="3181422" type="audio/mpeg" />
+      <guid>cid://01K5GVRBENJ0KZE9S56BF157CF</guid>
+    </item>    <item>
+      <title>Bytes: Week in Review — ChatGPT vs. Claude, Nvidia in the hot seat, and Hollywood’s latest AI lawsuit</title>
+      <link>https://www.marketplace.org/episode/2025/09/19/chatgpt-vs-claude-nvidia-hollywood-ai</link>
+      <description>
+        <![CDATA[<p>Anita Ramaswamy, columnist at The Information, joins Marketplace’s Nova Safo to break down all of these headlines. This episode was produced by Jesús Alvarado.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/19/tech_20250919_0919_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5F0EQ9MHK9PGTZNP7WRVEKB" length="12171828" type="audio/mpeg" />
+      <guid>cid://01K5F0EQ9MHK9PGTZNP7WRVEKB</guid>
+    </item>    <item>
+      <title>Grocery prices have jumped up, and there&#39;s no relief in sight</title>
+      <link>https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation</link>
+      <description>
+        <![CDATA[Groceries saw their biggest jump in nearly three years last month, a worrisome sign for inflation-weary shoppers. Tariffs are contributing to higher prices for imported staples like bananas and coffee.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation</guid>
+    </item>    <item>
+      <title>AI is causing anxiety about the future of the workforce. But are there AI-proof jobs?</title>
+      <link>https://www.npr.org/2025/09/19/nx-s1-5544378/ai-is-causing-anxiety-about-the-future-of-the-workforce-but-are-there-ai-proof-jobs</link>
+      <description>
+        <![CDATA[Can we know which jobs are more or less likely to be "taken" by artificial intelligence? Planet Money looks into what jobs might be immune from a robot takeover.]]>
+      </description>
+      <guid>cid://https://www.npr.org/2025/09/19/nx-s1-5544378/ai-is-causing-anxiety-about-the-future-of-the-workforce-but-are-there-ai-proof-jobs</guid>
+    </item>    <item>
       <title>The job market&#39;s bizarre balancing act</title>
       <link>https://www.marketplace.org/episode/2025/09/18/the-job-markets-bizarre-balancing-act</link>
       <description>
@@ -860,46 +898,6 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/29/tech_20250829_0829_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3RS2EEY5Z61Y42RHKAM4MF2" length="9590509" type="audio/mpeg" />
       <guid>cid://01K3RS2EEY5Z61Y42RHKAM4MF2</guid>
-    </item>    <item>
-      <title>What&#39;s really going on in the Trump economy?</title>
-      <link>https://www.marketplace.org/episode/2025/08/28/whats-really-going-on-in-the-trump-economy</link>
-      <description>
-        <![CDATA[<p>The U.S. economy grew faster than expected in the second quarter of the year, with GDP revised up to an annualized 3.3% from April through June. We take a closer look at what's driving those numbers, and check in on how corporate America is faring amid shifting trade policy. Also on the show: the AI data center boom, nuclear power's pop culture moment, and a retired Air Force officer's pivot to interior design.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/08/28/pm_20250828_Marketplace_-_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K3S46J0RJ577734904V90MVD" length="12711967" type="audio/mpeg" />
-      <guid>cid://01K3S46J0RJ577734904V90MVD</guid>
-    </item>    <item>
-      <title>A pipeline problem for advanced chip-making jobs</title>
-      <link>https://www.marketplace.org/episode/2025/08/28/a-pipeline-problem-for-advanced-chipmaking-jobs</link>
-      <description>
-        <![CDATA[<p>Three years ago, then-President Biden signed the CHIPS and Science Act into law, with hopes of giving the U.S. semiconductor industry a boost amid strategic competition with China. Since then, the federal government has been funneling billions into the sector, including STEM education investments. Yet, according to a new study, there’s still a shortage of skilled workers to fill critical chip production jobs. But first, a recent grad reflects on automation in the job-hunting process.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3RM2D462QCZGYVWR9DTE5GQ" length="3105693" type="audio/mpeg" />
-      <guid>cid://01K3RM2D462QCZGYVWR9DTE5GQ</guid>
-    </item>    <item>
-      <title>What happens if Trump gets the interest rate he wants?</title>
-      <link>https://www.marketplace.org/episode/2025/08/28/what-happens-if-trump-gets-the-interest-rates-he-wants</link>
-      <description>
-        <![CDATA[<p>President Donald Trump has been relentlessly trying to increase control over the Federal Reserve, most recently with his attempt to fire Fed Governor Lisa Cook. The Fed controls the Federal Funds Rate, which is currently at around 4.5%; the president wants it down to 1%. So, what if that happened? We'll outline the ripple effects. Also: Nvidia didn't meet Wall Street’s lofty expectations, and Cracker Barrel’s logo saga shows us the power of upset consumers.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3R6666MQ8D5EN3S3EPZ4QR2" length="3151041" type="audio/mpeg" />
-      <guid>cid://01K3R6666MQ8D5EN3S3EPZ4QR2</guid>
-    </item>    <item>
-      <title>Workers take to the streets in Jakarta</title>
-      <link>https://www.marketplace.org/episode/2025/08/28/workers-take-to-the-streets-in-jakarta</link>
-      <description>
-        <![CDATA[<p><em>From the BBC World Service:</em> Thousands of workers are rallying in Jakarta and 38 other Indonesian provinces to demand higher wages and lower taxes. Plus, BBC data shows cheap goods shipped from China to the United Kingdom more than doubled last year to over $4 billion. And, a Kenyan tech company is encouraging the use of bitcoin in one of Africa’s largest slums in hopes of promoting financial inclusion and boosting the area's economy.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/08/28/mmr_20250828_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K3R5C20V4AB1P65VXTN2W752" length="3144012" type="audio/mpeg" />
-      <guid>cid://01K3R5C20V4AB1P65VXTN2W752</guid>
-    </item>    <item>
-      <title>U.S. officials pressure EU regulators to soften tech regulations</title>
-      <link>https://www.marketplace.org/episode/2025/08/27/us-officials-pressure-eu-regulators-to-soften-tech-regulations</link>
-      <description>
-        <![CDATA[<p>President Donald Trump called out countries trying to regulate U.S. tech companies earlier this week, warning they could face new tariffs. The White House has struck a provisional trade deal with the European Union, but tensions remain over the bloc's sweeping tech laws, like the Digital Services Act, which requires platforms to moderate illegal content and disinformation.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/08/28/tech_20250828_0828_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3PBKT8HJ8ZNBY8RGYW6Y00D" length="8514264" type="audio/mpeg" />
-      <guid>cid://01K3PBKT8HJ8ZNBY8RGYW6Y00D</guid>
     </item>
   </channel>
 </rss>

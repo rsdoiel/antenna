@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>18 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 25 06:10 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,105 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Marktforschung mit Gesichtsbildern: Wir verklagen das BKA</title>
+      <link>https://www.ccc.de/de/updates/2025/marktforschung-mit-gesichtsbildern-wir-verklagen-das-bka</link>
+      <description>
+        <![CDATA[Der CCC unterstützt eine Klage gegen das BKA, das rechtswidrig biometrische Gesichtsbilder weitergegeben hat. Ein Betroffener wehrt sich gegen die Nutzung seiner Daten.]]>
+      </description>
+      <guid>cid://https://www.ccc.de/de/989</guid>
+    </item>    <item>
+      <title>Surveying the Global Spyware Market</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/surveying-the-global-spyware-market.html</link>
+      <description>
+        <![CDATA[<p>The Atlantic Council has published its second annual report: &#8220;<a href="https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/mythical-beasts-diving-into-the-depths-of-the-global-spyware-market/">Mythical Beasts: Diving into the depths of the global spyware market</a>.&#8221;</p>
+        <p>Too much good detail to summarize, but here are two items:</p>
+        <blockquote><p>First, the authors found that the number of US-based investors in spyware has notably increased in the past year, when compared with the sample size of the spyware market captured in the first Mythical Beasts project. In the first edition, the United States was the second-largest investor in the spyware market, following Israel. In that edition, twelve investors were observed to be domiciled within the United States&#8212;­whereas in this second edition, twenty new US-based investors were observed investing in the spyware industry in 2024. This indicates a significant increase of US-based investments in spyware in 2024, catapulting the United States to being the largest investor in this sample of the spyware market. This is significant in scale, as US-based investment from 2023 to 2024 largely outpaced that of other major investing countries observed in the first dataset, including Italy, Israel, and the United Kingdom. It is also significant in the disparity it points to ­the visible enforcement gap between the flow of US dollars and US policy initiatives. Despite numerous US policy actions, such as the addition of spyware vendors on the ...</p></blockquote>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70837</guid>
+    </item>    <item>
+      <title>KAMPi digital camera</title>
+      <link>https://www.raspberrypi.com/news/kampi-digital-camera/</link>
+      <description>
+        <![CDATA[<p>Crack open this retro-looking digital camera and you'll find more than one piece of Raspberry Pi hardware inside. </p>
+        <p>The post <a href="https://www.raspberrypi.com/news/kampi-digital-camera/">KAMPi digital camera</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.raspberrypi.com/?p=130143</guid>
+    </item>    <item>
+      <title>A Lawless Nation</title>
+      <link>https://paulkrugman.substack.com/p/a-lawless-nation</link>
+      <description>
+        <![CDATA[Friends don&#8217;t let friends visit America]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!_5p8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca919fc9-fff7-43d3-a246-a9d5c9c59aca_862x485.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/a-lawless-nation</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/09/19/us/politics/gavin-newsom-redistricting-california-fundraising.html</link>
+      <description>
+        <![CDATA[<p>Soros Gives $10 Million to Newsom Redistricting Fight.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/19/1143/</guid>
+    </item>    <item>
+      <title>Trump&#39;s War on Late-Night Comedy</title>
+      <link>https://robertreich.substack.com/p/the-humorless-president</link>
+      <description>
+        <![CDATA[It could be his undoing]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!vD20!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f6851c4-e514-4d41-b792-d5accf98db98_3499x2118.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/the-humorless-president</guid>
+    </item>    <item>
+      <title>Bye bye Kerberos FTP</title>
+      <link>https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/</link>
+      <description>
+        <![CDATA[We are dropping support for this feature in curl 8.17.0. Kerberos5 FTP to be exact. The last Kerberos support we had for FTP. Badness On September 16, 2025 we received a security report that accurately identified a possible stack based buffer overflow in the Kerberos FTP code that could allow a malicious FTP server cause &#8230; <a href="https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/" class="more-link">Continue reading <span class="screen-reader-text">Bye bye Kerberos FTP</span> <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://https://daniel.haxx.se/blog/?p=28222</guid>
+    </item>    <item>
+      <title>September 18, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-18-2025</link>
+      <description>
+        <![CDATA[Since he took office in 2017, President Donald J.]]>
+      </description>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-18-2025</guid>
+    </item>    <item>
+      <title>Started reading The Rubber Band</title>
+      <link>https://www.mollywhite.net/reading/books?search=The%20Rubber%20Band</link>
+      <guid>cid://68ccd8c59f72b44b38476037</guid>
+    </item>    <item>
+      <title>The Hunt</title>
+      <link>https://nazhamid.com/journal/the-hunt/</link>
+      <guid>cid://https://nazhamid.com/journal/the-hunt/</guid>
+    </item>    <item>
+      <link>https://www.axios.com/2025/09/18/charlie-kirk-house-democrats-vote-condemn-honor</link>
+      <description>
+        <![CDATA[<p>Democrats, stop being such pussies, vote no, and move on. Some things really are that simple.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/18/1141/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3lz5mg4y5ss2v</link>
+      <description>
+        <![CDATA[Don't comply in advance. 
+        
+        We are watching people in fear trying to avoid pain by censoring themselves and changing their behavior before being compelled to. 
+        
+        Following rules of a group is pro-social behavior that is dangerous now. How can you resist this urge as a law-abiding citizen? A quick 🧵]]>
+      </description>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3lz5mg4y5ss2v</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3lz5ly66pb22v</link>
+      <description>
+        <![CDATA[This is a fucking good question, now isn't it? 🤔
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3lz5ly66pb22v</guid>
+    </item>    <item>
+      <title>Friday 19 September, 2025</title>
+      <link>https://memex.naughtons.org/friday-19-september-2025/41216/</link>
+      <description>
+        <![CDATA[Here comes everybody! On a stall in a Provencal market. Quote of the Day ”The cure for boredom is curiosity. There is no cure for curiosity.” Dorothy Parker*  Musical alternative to the morning’s radio news The Waterboys &#124; A Song &#8230; <a href="https://memex.naughtons.org/friday-19-september-2025/41216/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://https://memex.naughtons.org/?p=41216</guid>
     </item>    <item>
       <title>The defining experience of fascism is &#38;#8220;getting yelled at by dumbasses&#38;#8221;....</title>
       <link>https://kottke.org/25/09/0047544-the-defining-experience-o</link>
@@ -94,7 +193,7 @@
         <p>Moving forward, when I talk about agents I'm going to use this:</p>
         <p><strong>An LLM agent runs tools in a loop to achieve a goal.</strong></p>
         <p>I've been <em>very</em> hesitant to use the term "agent" for meaningful communication over the last couple of years. It felt to me like the ultimate in buzzword bingo - everyone was talking about agents, but if you quizzed them everyone seemed to hold a different mental model of what they actually were.</p>
-        <p>I even started collecting definitions in my <a href="https://simonwillison.net/tags/agent-definitions/">agent-definitions tag</a>, including crowdsourcing 211 definitions on Twitter and attempting to summarize and group them with Gemini (I got <a href="https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#response">13 groups</a>).</p>
+        <p>I even started collecting definitions in my <a href="https://simonwillison.net/tags/agent-definitions/">agent-definitions tag</a>, including crowdsourcing 211 definitions on Twitter and attempting to summarize and group them with Gemini (I got <a href="https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#response">13 groups</a>, here's the <a href="https://gist.github.com/simonw/beaa5f90133b30724c5cc1c4008d0654#2-tool-using-llms">tool-using LLMS</a> one.)</p>
         <p>Jargon terms are only useful if you can be confident that the people you are talking to share the same definition! If they don't then communication becomes <em>less</em> effective - you can waste time passionately discussing entirely different concepts.</p>
         <p>It turns out this is not a new problem. In 1994's <em>Intelligent Agents: Theory and Practice</em> <a href="https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95/subsection3_1_1.html">Michael Wooldridge wrote</a>:</p>
         <blockquote>
@@ -115,7 +214,7 @@
         <p>If you talk to non-technical business folk you may encounter a depressingly common alternative definition: agents as replacements for human staff. This often takes the form of "customer support agents", but you'll also see cases where people assume that there should be marketing agents, sales agents, accounting agents and more.</p>
         <p>If someone surveys Fortune 500s about their "agent strategy" there's a good chance that's what is being implied. Good luck getting a clear, distinct answer from them to the question "what is an agent?" though!</p>
         <p>This category of agent remains science fiction. If your agent strategy is to replace your human staff with some fuzzily defined AI system (most likely a system prompt and a collection of tools under the hood) you're going to end up sorely disappointed.</p>
-        <p>That's because there's one key feature that remains unique to human staff: <strong>accountability</strong>.  A human can take responsibility for its action and learn from its mistakes. Putting an AI agent on a <a href="https://en.m.wikipedia.org/wiki/Performance_improvement#Performance_improvement_plans">performance improvement plan</a> makes no sense at all!</p>
+        <p>That's because there's one key feature that remains unique to human staff: <strong>accountability</strong>.  A human can take responsibility for their actions and learn from their mistakes. Putting an AI agent on a <a href="https://en.m.wikipedia.org/wiki/Performance_improvement#Performance_improvement_plans">performance improvement plan</a> makes no sense at all!</p>
         <p>Amusingly enough, humans also have <strong>agency</strong>. They can form their own goals and intentions and act autonomously to achieve them - while taking accountability for those decisions. Despite the name, AI agents can do nothing of the sort.</p>
         <p>This <a href="https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/">legendary 1979 IBM training slide</a> says everything we need to know:</p>
         <p><img src="https://static.simonwillison.net/static/2025/a-computer-can-never-be-held-accountable.jpg" alt="A computer can never be held accountable. Therefore a computer must never make a management decision" style="max-width: 100%;" /></p>
@@ -328,6 +427,10 @@
       <enclosure url="https://substackcdn.com/image/fetch/$s_!hY99!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c7e2a8c-639d-43dd-83b4-9a9b80c15f68_792x792.heic" length="0" type="image/jpeg" />
       <guid>cid://https://guykawasaki.substack.com/p/what-positioning-really-means-in</guid>
     </item>    <item>
+      <title>Note published on September 18, 2025 at 3:04 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509181104</link>
+      <guid>cid://68cc1f8b133dae2d072df1e0</guid>
+    </item>    <item>
       <title>Hard Disk Unexpectedly Not Dead</title>
       <link>https://blog.dshr.org/2025/09/hard-disk-unexpectedly-not-dead.html</link>
       <description>
@@ -465,7 +568,7 @@
       <link>https://kottke.org/25/09/some-kdo-updates-weve-got-ourselves-a-stew</link>
       <guid>cid://tag:kottke.org,2025://5.47538</guid>
     </item>    <item>
-      <title>Let&#38;#8217;s be clear about what just happened: Jimmy Kimmel, a prominent late-night...</title>
+      <title>&#38;#8220;Let&#38;#8217;s be clear about what just happened: Jimmy Kimmel, a prominent late-night...</title>
       <link>https://kottke.org/25/09/0047537-lets-be-clear-about-what</link>
       <guid>cid://tag:kottke.org,2025://13.47537</guid>
     </item>    <item>
@@ -550,10 +653,10 @@
       </description>
       <guid>cid://https://adactio.com/notes/22137</guid>
     </item>    <item>
-      <title>Trump Tightens his Grip on the Media: Jimmy Kimmel, the New York Times, etc.</title>
+      <title>Trump Tightens his Grip on the Media: Jimmy Kimmel, The New York Times, and so on.</title>
       <link>https://robertreich.substack.com/p/trumps-disastrous-defamations</link>
       <description>
-        <![CDATA[A president shouldn't be allowed to use defamation to suppress criticism of him. Big businesses likely to surrender to this shouldn't be allowed to buy major media.]]>
+        <![CDATA[A president shouldn&#8217;t be allowed to use defamation to suppress criticism of him. Big businesses likely to surrender to this shouldn&#8217;t be allowed to buy major media.]]>
       </description>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!nsAv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F639682cf-ce37-4dd3-afe3-5dfa88f012ca_1456x1281.webp" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/trumps-disastrous-defamations</guid>
@@ -9505,406 +9608,6 @@
       <title>I Am An AI Hater. &#38;#8220;But I am a hater, and I...</title>
       <link>https://kottke.org/25/08/0047422-i-am-an-ai-hater</link>
       <guid>cid://tag:kottke.org,2025://13.47422</guid>
-    </item>    <item>
-      <title>Friday 29 August, 2025</title>
-      <link>https://memex.naughtons.org/friday-29-august-2025/41153/</link>
-      <description>
-        <![CDATA[Tim’s view Tim Robinson, the great cartographer and writer, was an Englishman who came to Ireland, fell in love with its landscape and never left. He went to live on the Aran Islands off the Galway coast and wrote two &#8230; <a href="https://memex.naughtons.org/friday-29-august-2025/41153/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <guid>cid://https://memex.naughtons.org/?p=41153</guid>
-    </item>    <item>
-      <title>A Dangerous Liaison</title>
-      <link>https://steady.substack.com/p/a-dangerous-liaison</link>
-      <description>
-        <![CDATA[Trump and RFK Jr. play politics with public health and safety]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!d-Sq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f6cbe2e-946a-4d3d-9144-c3ba78c2b317_1600x1143.png" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/a-dangerous-liaison</guid>
-    </item>    <item>
-      <title>Google’s New Sideloading Restrictions: Why Purism Thinks Differently</title>
-      <link>https://puri.sm/posts/googles-new-sideloading-restrictions-why-purism-thinks-differently/</link>
-      <description>
-        <![CDATA[<p>Google’s New Sideloading Restrictions: Why Purism Thinks Differently Google is introducing a new developer verification system claiming to increase security and combat malware (in the name of controlling users).  Google’s “security” push is a double-edged sword. It may help fight a certain type of malware. But it also reminds us all that Android’s identity is [&#8230;]</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/googles-new-sideloading-restrictions-why-purism-thinks-differently/">Google’s New Sideloading Restrictions: Why Purism Thinks Differently</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84185</guid>
-    </item>    <item>
-      <title>‘Fight Them Every Inch of the Way.’</title>
-      <link>https://fallows.substack.com/p/fight-them-every-inch-of-the-way</link>
-      <description>
-        <![CDATA[Courage is contagious. Here are few of the people who have stood up for our democracy and values this very week, setting an example for the rest of us.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!po80!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa523f986-3761-476c-8d91-2dc92c014349_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://fallows.substack.com/p/fight-them-every-inch-of-the-way</guid>
-    </item>    <item>
-      <title>Xcode 26 Beta 7</title>
-      <link>https://mjtsai.com/blog/2025/08/28/xcode-26-beta-7/</link>
-      <description>
-        <![CDATA[Apple (downloads, releases, MacRumors, Hacker News): Claude in Xcode is now available in the Intelligence settings panel, allowing users to seamlessly add their existing paid Claude account to Xcode and start using Claude Sonnet 4.When using ChatGPT in Xcode, users can now start a new conversation with either GPT-4.1 or GPT-5, with GPT-5 set as [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49067</guid>
-    </item>    <item>
-      <title>The Steve Ballmer Interview</title>
-      <link>https://mjtsai.com/blog/2025/08/28/the-steve-ballmer-interview/</link>
-      <description>
-        <![CDATA[Ben Gilbert and David Rosenthal: We sit down with Steve Ballmer, the legendary former Microsoft CEO and owner of the LA Clippers, for an epic conversation covering his 34 years at Microsoft. Steve listened to our Microsoft episodes and had some thoughts to share &#8212; and boy, did he deliver. Steve takes us point-by-point through [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49065</guid>
-    </item>    <item>
-      <title>SwiftUI WebView</title>
-      <link>https://mjtsai.com/blog/2025/08/28/swiftui-webview/</link>
-      <description>
-        <![CDATA[Sarah Reichelt: In the WWDC video, they demonstrated how to track the navigation events. The code in the video does not work - it doesn&#8217;t even compile. But after some trial and error, I worked out how to track these events.[&#8230;]If you want your WebView to load custom pages, create a custom scheme. In my [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49063</guid>
-    </item>    <item>
-      <title>What Xcode 26’s AI Chat Integration Is Missing</title>
-      <link>https://mjtsai.com/blog/2025/08/28/what-xcode-26s-ai-chat-integration-is-missing/</link>
-      <description>
-        <![CDATA[Cihat G&#252;nd&#252;z: I ended up running Claude Code in Cursor&#8217;s terminal instead &#x2013; getting Cursor&#8217;s editor awareness with Claude Code&#8217;s superior tools like web search, planning mode, and the generous 5-hour usage window.[&#8230;]Request queuing was the first limitation I noticed in Xcode right away. When I&#8217;m developing, thoughts and questions come fast. Having to wait [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49061</guid>
-    </item>    <item>
-      <title>Dropping old OpenSSL</title>
-      <link>https://daniel.haxx.se/blog/2025/08/28/dropping-old-openssl/</link>
-      <description>
-        <![CDATA[curl added support for OpenSSL immediately when it was first released, as they switched away from SSLeay, in the late 1990s. We have since supported it over the decades as both OpenSSL and curl have developed. A while back the OpenSSL project stopped updating their 1.0.x and 1.1.x public branches. This means that unless you &#8230; <a href="https://daniel.haxx.se/blog/2025/08/28/dropping-old-openssl/" class="more-link">Continue reading <span class="screen-reader-text">Dropping old OpenSSL</span> <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <guid>cid://https://daniel.haxx.se/blog/?p=28116</guid>
-    </item>    <item>
-      <title>Mass Intelligence</title>
-      <link>https://www.oneusefulthing.org/p/mass-intelligence</link>
-      <description>
-        <![CDATA[From GPT-5 to nano banana: everyone is getting access to powerful AI]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!YEXj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cec29eb-e93d-4e77-9ca2-2ebf86d7002c_1376x864.png" length="0" type="image/jpeg" />
-      <guid>cid://https://www.oneusefulthing.org/p/mass-intelligence</guid>
-    </item>    <item>
-      <title>Read &#34;GOP Investigation Pressures Wikipedia to Reveal Identities of Editors Accused of &#39;Bias&#39; Against Israel | Common Dreams&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=GOP%20Investigation%20Pressures%20Wikipedia%20to%20Reveal%20Identities%20of%20Editors%20Accused%20of%20&#39;Bias&#39;%20Against%20Israel%20%7C%20Common%20Dreams</link>
-      <guid>cid://68b0bc95f900932e300682ff</guid>
-    </item>    <item>
-      <title>Dan Wang on his forthcoming book, Breakneck: China&#38;#8217;s Quest to Engineer the...</title>
-      <link>https://kottke.org/25/08/0047400-dan-wang-on-his-forthcomi</link>
-      <guid>cid://tag:kottke.org,2025://13.47400</guid>
-    </item>    <item>
-      <title>A group of 15-20 families in South Portland, Maine have installed landlines...</title>
-      <link>https://kottke.org/25/08/0047419-a-group-of-15-20-families</link>
-      <guid>cid://tag:kottke.org,2025://13.47419</guid>
-    </item>    <item>
-      <title>These contact lenses give their wearers the ability to see infrared light,...</title>
-      <link>https://kottke.org/25/08/0047420-these-contact-lenses-give</link>
-      <guid>cid://tag:kottke.org,2025://13.47420</guid>
-    </item>    <item>
-      <title>Whisper it: FFmpeg 8 can now subtitle your videos on the fly</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/28/ffmpeg_8_huffman/</link>
-      <description>
-        <![CDATA[<h4>Media multitool taps Vulkan for GPU encoding, adds VVC support, and dusts off some ancient formats</h4>
-              <p>FFmpeg 8.0 brings GPU-accelerated video encoding via Vulkan – and can now subtitle your videos automatically using integrated speech recognition.</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241627</guid>
-    </item>    <item>
-      <title>Writing Mac and iOS Apps Shouldn’t Be So Difficult</title>
-      <link>https://inessential.com/2025/08/28/easy-app-writing.html</link>
-      <description>
-        <![CDATA[<p>
-        <p>In the ’90s and early 2000s I worked for UserLand Software — <a href="http://scripting.com/">Dave Winer</a> was founder and CEO — on a Mac app called UserLand Frontier.</p>
-        
-        <p>The app was a scripting system and hash-table-oriented database that powered the early blogging and podcasting worlds. (That sounds grand, but it’s probably an understatement — but this post isn’t all about Frontier’s impact on the web, so I won’t go into details.)</p>
-        
-        <p>The app was implemented in two pieces:</p>
-        
-        <ul>
-          <li>The <em>kernel</em>, written in C, implemented the database, networking, inter-application communication, various built-in data types, script compiler and evaluator and debugger, and so on</li>
-          <li>The <em>scripts</em> used the kernel and implemented most of the actual app behavior</li>
-        </ul>
-        
-        <p>Since it was an app, it had plenty of UI — menus, contextual menus, buttons, larger UI components, and so on. What was brilliant was that you could, for instance, add and edit menus, and when you chose a menu command it would run your script. (Or when you clicked a toolbar button, etc.)</p>
-        
-        <p>You could write an entire static blog publishing system and the UI to go with it without ever restarting the app. Click a thing, then see what happens in the app — and if it’s not right you’d edit the script, which would be automatically recompiled when called the next time.</p>
-        
-        <p>In other words, there was absolutely no friction when it came to iteration. Write some code without restarting and see your changes immediately.</p>
-        
-        <h3 id="how-good-was-this-really-in-practice">How good was this really in practice?</h3>
-        
-        <p>You might imagine that we could do this for an hour or so before having to make changes to the kernel. Not so.</p>
-        
-        <p>In fact, for the first three years I was there (might have been longer), I never even <em>saw</em> the kernel code. I worked all day every day as a professional developer at the script level, never having to restart the app. Just iterating like this all day long.</p>
-        
-        <p>You might also imagine that the app was sluggish and slow since much of it was scripts instead of C code. It wasn’t! Scripts could be slow for the same reasons any code could be slow (I/O, of course, and algorithms and data structures not suited to the problem at hand) — but the app never felt slow.</p>
-        
-        <p>I’ll remind you of the timing: <em>this was the ’90s.</em> We worked this way for real, and we were amazingly productive.</p>
-        
-        <p>A scripting language plus key bits implemented in C was more than fast enough for an app. Even all those years ago.</p>
-        
-        <h3 id="a-scripting-language-built-for-productivity">A scripting language built for productivity</h3>
-        
-        <p>I’m not writing this article to praise Frontier — I’m talking about it to make a point, which I’ll get to.</p>
-        
-        <p>But I wanted to bring up a second aspect to this: it’s not just frictionless iteration that was so great, it was also the scripting language and environment.</p>
-        
-        <p>One of the best parts of this was how easy persistence was. I mentioned the hash-table-based database. Hash tables could contain hash tables (Swift developers: picture a Dictionary inside a Dictionary, and so on).</p>
-        
-        <p>(We just called them tables for short — but remember that these are hash tables, not tables in a SQL database.)</p>
-        
-        <p>In any script, at any time, without any ceremony, you could read and write from the database simply using dot notation: <code>user.prefs.city = "Seattle"</code> would set the value of <code>city</code> in the <code>prefs</code> table which was contained by the <code>user</code> table. This value would persist between runs of the app, because it was stored in the database.</p>
-        
-        <p>(You could also pass around addresses of things too — it was quite common to pass the address of a table to another script, so that the other script wouldn’t need to hardcode a location.)</p>
-        
-        <p>It was utterly automatic. And it meant that while we did have to choose where in the database to store things, and how to structure our storage, we didn’t have to choose a storage mechanism. It was the database.</p>
-        
-        <p>(Note: of course we could read and write files, and did so when necessary. But the point is that the database handled almost all our persistence and in a super-easy way.)</p>
-        
-        <p>(Also note: the database had a UI. It was visible and browsable. You could and often did hand-edit it. Even the scripts lived in the database, and were addressable via dot notation, like everything else.)</p>
-        
-        <h3 id="we-had-nice-things">We had nice things!</h3>
-        
-        <p>I’ll say again — this was in the ’90s, more than 25 years ago, and it was a great way of working on an app.</p>
-        
-        <p>I’m not saying apps these days need to be Frontier-like in any details. But it seems absolutely bizarre to me that we — we who write Mac and iOS apps — still have to build and run the app, make changes, build and run the app, and so on, all day long. In the year 2025.</p>
-        
-        <p>And it seems retro in the worst way that we’re still using anything other than a scripting language for most of our code. We should be using something simple and light that can configure toolbars, handle networking callbacks, query databases, manage views, and so on. And maybe with a DSL for SwiftUI-like declarative UI.</p>
-        
-        <p>Almost none of that code needs to be in a lower-level language like Swift or Objective-C. It really doesn’t. (I say this as a performance junkie!)</p>
-        
-        <p>It could be in Ruby, Lua, Python, or JavaScript. Better still would be a new language invented specifically for the problem of writing apps, something designed to make the common challenges of app writing easier.</p>
-        
-        <p>We did have this stuff decades ago. Not for app making in general, sure — but now it’s 25 years later, and a company like Apple could make this real for all its app makers.</p>
-        
-        <p>It’s easy to see why things are the way they are right now, and you can point to a string of good decisions. No doubt.</p>
-        
-        <p>But we can think outside of what we have now and ask: what would make app writing easier? What would make it a better experience? How could we get more done for our users with fewer bugs and faster turnaround?</p>
-        
-        <p>I’m not saying that Frontier’s specific choices are the answer — I’m saying that the combination of frictionless iteration plus a purpose-built scripting language was extremely powerful, and we could use those things now.</p>
-        
-        <p>And at some point I suspect these things are going to be table stakes for any platform that wants to attract developers. If you were a new developer right now, would you pick Xcode’s build-and-run, edit, build-and-run, edit — plus the growing complexity of Swift — over something like Electron and JavaScript?</p>
-        
-        <h3 id="random-notes">Random notes</h3>
-        
-        <p>Yes, I know about <a href="https://en.wikipedia.org/wiki/PyObjC">PyObjc</a> and <a href="https://en.wikipedia.org/wiki/RubyCocoa">RubyCocoa</a>. Without first-class support in Apple’s developer tools, these were never going to work as popular alternatives.</p>
-        
-        <p>I also know about (and use) Swift playgrounds and SwiftUI previews. Neither of these are as satisfying to use as I’d like, and neither of these are nearly as great as frictionless iteration in the actual app.</p>
-        
-        <p>I also remember Xcode fix-and-continue, which didn’t work well enough to solve the problem of frictionless iteration.</p>
-        
-        <p>Anyway… One more thing about Frontier: we had a system where people could get updates to the app automatically via the web. Those updates were just serialized versions of scripts at various database locations, which would get unpacked and stored in each user’s database. (Those who opted-in, of course.) The app would not have to be restarted to get bug fixes and new features! And of course the updates were very small, since they didn’t include the entire app. This seems so futuristic, but we had this in 1999. Why couldn’t we have this now?</p>]]>
-      </description>
-      <guid>cid://https://inessential.com/2025/08/28/easy-app-writing.html</guid>
-    </item>    <item>
-      <title>AmiBrowser brings 21st century web to 20th century Amigas</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/28/amiga_web_browser_amibrowser/</link>
-      <description>
-        <![CDATA[<h4>Also, not one but two new models of the classic 1200</h4>
-              <p>The new native 68K AmigaOS web browser leans on the machines&#39; underlying emulation system to offer modern facilities on a retro OS.</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241604</guid>
-    </item>    <item>
-      <title>A collection of kooky-but-rideable bikes (treadmill bike, pull-up bike, etc.)...</title>
-      <link>https://kottke.org/25/08/0047413-a-collection-of-kooky-but</link>
-      <guid>cid://tag:kottke.org,2025://13.47413</guid>
-    </item>    <item>
-      <title>Doubting Your Favorite Web Search Engine</title>
-      <link>https://xn--gckvb8fzb.com/doubting-your-favorite-web-search-engine/</link>
-      <description>
-        <![CDATA[Kagi has quickly grown into something of a _household name_ within tech
-        circles. From _Hacker News_ and _Lobsters_ to _Reddit_, the search provider
-        seems to attract near-universal praise. Whenever the topic of _search engines_
-        comes up, there's an almost ritual rush to be the first to recommend Kagi,
-        often followed by a chorus of replies echoing the endorsement.]]>
-      </description>
-      <author>marius@xn--gckvb8fzb.com (Marius)</author>
-      <guid>cid:///doubting-your-favorite-web-search-engine/</guid>
-    </item>    <item>
-      <title>Friendship: haciendo amigos, ¿pero a qué costo?</title>
-      <link>https://www.palomitademaiz.net/resenas-friendship/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-friendship</link>
-      <description>
-        <![CDATA[<p>Dirección: Andrew DeYoung. Guion: Andrew DeYoung. Elenco: Tim Robinson, Kate Mara, Jack Dylan Grazer, Paul Rudd. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt30505698/ Hemos escuchado muchas veces que los seres humanos somos sociables por naturaleza. Sin embargo, rara vez nos ponemos a reflexionar en las consecuencias de la socialización, específicamente, en las vinculaciones [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-friendship/">Friendship: haciendo amigos, ¿pero a qué costo?</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.palomitademaiz.net/?p=25493</guid>
-    </item>    <item>
-      <title>Light pollution has lengthened birds&#38;#8217; days. &#38;#8220;Their day is almost an hour...</title>
-      <link>https://kottke.org/25/08/0047421-light-pollution-has-lengt</link>
-      <guid>cid://tag:kottke.org,2025://13.47421</guid>
-    </item>    <item>
-      <title>How to Be a Purposeful Warrior to Preserve Democracy</title>
-      <link>https://guykawasaki.substack.com/p/how-to-be-a-purposeful-warrior-to</link>
-      <description>
-        <![CDATA[Ever wondered what separates leaders who crumble under pressure from those who emerge stronger?]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!N74V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe50106b9-d160-45ef-b4c5-1ff4f59cc049_792x792.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/how-to-be-a-purposeful-warrior-to</guid>
-    </item>    <item>
-      <title>Trump Fires CDC Director, Anti-Vax Wingnuts Now Running Asylum</title>
-      <link>https://www.semafor.com/article/08/28/2025/white-house-fires-cdc-director-over-vaccine-disagreements</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42190</guid>
-    </item>    <item>
-      <title>Play a new version of DOOM on SNES with the help of RP2350</title>
-      <link>https://www.raspberrypi.com/news/play-a-new-version-of-doom-on-snes-with-the-help-of-rp2350/</link>
-      <description>
-        <![CDATA[<p>Emulating a special co-processor for a bygone console is no problem for RP2350. Welcome to 2025, DOOM!</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/play-a-new-version-of-doom-on-snes-with-the-help-of-rp2350/">Play a new version of DOOM on SNES with the help of RP2350</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.raspberrypi.com/?p=129659</guid>
-    </item>    <item>
-      <title>How AirPods Work</title>
-      <link>https://nebula.tv/videos/realengineering-the-hidden-design-of-the-apple-airpod/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42189</guid>
-    </item>    <item>
-      <title>How to install TrueNAS on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">How to install TrueNAS on a Raspberry Pi</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Now that Joel0 in the TrueNAS community has created a <a href="https://forums.truenas.com/t/truenas-on-arm-now-available/49160/16?u=geerlingguy">fork of TrueNAS that runs on Arm</a>, I thought I'd give it a spin—on a Raspberry Pi.</p>
-        
-        <p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-with-hard-drives.jpg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-7d31be78-66b1-44d6-85c3-3c427ad83265" data-insert-attach="{&quot;id&quot;:&quot;7d31be78-66b1-44d6-85c3-3c427ad83265&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi 5 with Hard Drives"></p>
-        
-        <p>I currently run an <a href="https://www.jeffgeerling.com/blog/2024/building-efficient-server-grade-arm-nas">Ampere Arm server in my rack with Linux and ZFS</a> as my primary storage server, and a <a href="https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas">Raspberry Pi with four SATA SSDs and ZFS</a> as backup replica in my studio. My <a href="https://github.com/geerlingguy/arm-nas">configuration for these Arm NASes is up on GitHub</a>.</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-08-28T09:06:28-05:00" title="Thursday, August 28, 2025 - 09:06" class="datetime">August 28, 2025</time>
-        </span>]]>
-      </description>
-      <guid>cid://3489 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>Hear a Prehistoric Conch Shell Musical Instrument Played for the First Time...</title>
-      <link>https://kottke.org/25/08/0047397-hear-a-prehistoric-conch-</link>
-      <guid>cid://tag:kottke.org,2025://13.47397</guid>
-    </item>    <item>
-      <title>We Used to Be Very Friendly</title>
-      <link>https://onefoottsunami.com/2025/08/28/we-used-to-be-very-friendly/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29039</guid>
-    </item>    <item>
-      <title>Kevin Kelly recently published a guide called &#38;#8220;Everything I Know about Self-Publishing&#38;#8221;....</title>
-      <link>https://kottke.org/25/08/0047396-kevin-kelly-recently-publ</link>
-      <guid>cid://tag:kottke.org,2025://13.47396</guid>
-    </item>    <item>
-      <title>PureOS Crimson Development Report: July 2025</title>
-      <link>https://puri.sm/posts/pureos-crimson-development-report-july-2025/</link>
-      <description>
-        <![CDATA[<p>Welcome back!  In our last update, we mentioned a fix in pureos-meta for some missing essential system components.</p>
-        <p>This seemed trivial at the time - just add the missing components.  However, when the fix went into review and we looked deeper, it turned out to be anything but trivial.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-july-2025/">PureOS Crimson Development Report: July 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84155</guid>
-    </item>    <item>
-      <title>Why Aren’t Markets Freaking Out?</title>
-      <link>https://paulkrugman.substack.com/p/why-arent-markets-freaking-out</link>
-      <description>
-        <![CDATA[Of Trump, Keynes and Wile E. Coyote]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!pFjd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4436c6-870b-4a5d-bbcd-8ca7216cd2c1_1200x675.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/why-arent-markets-freaking-out</guid>
-    </item>    <item>
-      <title>Working with Contexts</title>
-      <link>https://www.oreilly.com/radar/working-with-contexts/</link>
-      <description>
-        <![CDATA[The following article comes from two blog posts by Drew Breunig: “How Long Contexts Fail” and “How to Fix Your Contexts.” Managing Your Context Is the Key to Successful Agents As frontier model context windows continue to grow,1 with many supporting up to 1 million tokens, I see many excited discussions about how long-context windows [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17373</guid>
-    </item>    <item>
-      <title>Dottie: a native macOS pixel art editor (WIP)</title>
-      <link>https://blog.gingerbeardman.com/2025/08/28/dottie-native-macos-pixel-art-editor-wip/</link>
-      <description>
-        <![CDATA[<p>For the past several months I’ve been working on a pixel art app for macOS, with the goal of making it as much of a first class citizen and great Mac-like experience as possible. To that end it is fully native and built using Swift and SwiftUI, with a tiny bit of AppKit.</p>
-        
-        <p>As with all the macOS apps I build, they start with a personal need. This one was to replace the aging and unsupported <a href="/2023/05/10/piskel-for-playdate/">Piskel electron/web app</a>. I like it and I loathe it, so I wondered if I could do better. My friend <a href="https://jbmorley.co.uk/about/">Jason Morley</a> was the additional momentum I needed to actually get moving and try some things out—so thanks Jason!</p>
-        
-        <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/dottie-mushroom-by-maya.png" alt="IMG" title="A mushroom drawn by Maya" /></p>
-        
-        <hr />
-        
-        <h2 id="a-little-bit-of-history-repeating">A little bit of history repeating</h2>
-        
-        <p>I’ve been into pixel art since <a href="/about">Deluxe Paint ST</a> (yes, on Atari ST not Commodore Amiga!), and of course on the classic Macintosh. I also collect <a href="/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/">information about the multitude of Japanese “dot art” pixel art apps</a>, which are quite different to the apps that I grew up with. All this to say that I already had a list of features I missed, pined for, or otherwise thought should make a return. <a href="/2024/07/14/shibuya-pixel-art-contest-2024/#bonus">Naturally</a>, dithering should be a tent pole feature affecting all tools.</p>
-        
-        <p>A dither smudge like the one shown below was last seen by me in 1992’s Multi Paint System (PC-98).</p>
-        
-        <lite-youtube style="aspect-ratio: 320/243;" videoid="XKyDG7aF3xU" params="start=0&amp;modestbranding=2">
-        </lite-youtube>
-        
-        <hr />
-        
-        <h2 id="look-mano-dependencies">Look, Ma—no dependencies!</h2>
-        
-        <p>And as an additional constraint—<a href="/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/">which you may know I love to set for myself</a>—I decided that I would use no packages or external dependencies, just system frameworks. Yes, that means I had to write my own colour picker (but, that’s my idea of a good time!) and some things took longer than just adding a package, but I can say that there is precious little wasted code inside this app. In fact, at the time of writing a single-architecture build of the app that has been readied for distribution still fits on a <a href="/2025/05/19/media-darling-t-shirt-design/">3.5” 2HD floppy disk</a>!</p>
-        
-        <hr />
-        
-        <h2 id="pre-mortem">Pre-mortem</h2>
-        
-        <p>A full post-mortem will come after release.</p>
-        
-        <p>The trickiest parts of development so far:</p>
-        <ul>
-          <li>drawing pixelated circles of any width and height (all the classic graphics programming text books require the circle to have odd dimensions so that the coordinate of the centre pixel is an integer)</li>
-          <li>figuring out the intricacies of the document-based application model</li>
-          <li>trying to get the “New Document” button to appear on the file selector that appears at app launch (in fact this one still evades me for reasons I can’t figure out, <a href="/support">get in touch if you can help</a>!)</li>
-          <li>automating help book compilation (<a href="https://marioaguzman.wordpress.com/2020/09/12/auth/">thanks Mario</a>!)</li>
-          <li>performance bottlenecks with some aspects of SwiftUI (thanks <a href="https://developer.apple.com/wwdc25/labs/overview/">WWDC Lab</a>!)</li>
-          <li>surprise performance gains from using AppKit for better gestures</li>
-          <li>selections and marching ants</li>
-          <li>dealing with some bad early decisions (tech debt)</li>
-        </ul>
-        
-        <p>The most fun aspects so far:</p>
-        <ul>
-          <li>designing and iterating on the UI</li>
-          <li>coming up with a name and brand</li>
-          <li>implementing palette management and trying new ideas</li>
-          <li>implementing a custom colour picker, twice</li>
-          <li>drawing the various tool and app icons</li>
-          <li>getting to a point where it feels done and every new feature is icing on the cake</li>
-        </ul>
-        
-        <p>One interesting thing about the app:</p>
-        <ul>
-          <li>there is no settings window</li>
-        </ul>
-        
-        <hr />
-        
-        <h2 id="launching-late-2025">Launching late-2025</h2>
-        
-        <p>I hope to launch the app this autumn, but until then: if you’re a pixel artist feel free to <a href="/support">get in touch</a> with your email address and I’ll send you a TestFlight invite!</p>]]>
-      </description>
-      <guid>cid://https://blog.gingerbeardman.com/2025/08/28/dottie-native-macos-pixel-art-editor-wip/</guid>
-    </item>    <item>
-      <title>How to respond to Trump’s lies about a “crime wave”</title>
-      <link>https://robertreich.substack.com/p/how-to-respond-to-trumps-lies-about</link>
-      <description>
-        <![CDATA[Friends,]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!JAg5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86189e8d-9b76-4d30-828e-fe5115d766df_3207x1659.png" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/how-to-respond-to-trumps-lies-about</guid>
-    </item>    <item>
-      <title>US-RSE August 2025 Newsletter</title>
-      <link>https://us-rse.org/2025-08-28-newsletter/</link>
-      <description>
-        <![CDATA[⛰️ This Month: What to Expect at USRSE'25 ⛰️ - 
-                  Welcome to this month’s edition of the US-RSE Newsletter! USRSE’25 is right around the corner, and we’re so excited to see you there! This month, we’ll tease some of the exciting things we have planned for the conference, including a sneak peek at the program and some of the fantastic...]]>
-      </description>
-      <guid>cid://https://us-rse.org/2025-08-28-newsletter/</guid>
-    </item>    <item>
-      <title>NLnet has a Job Opening for Technology Assessor</title>
-      <link>https://nlnet.nl/news/2025/20250828-job-opening-tech-assessor.html</link>
-      <guid>cid://https://nlnet.nl/news/2025/20250828-job-opening-tech-assessor.html</guid>
-    </item>    <item>
-      <title>Snark, Ironic Detachment, Authenticity</title>
-      <link>https://www.marginalia.nu/log/a_124_snark_and_insincerity/</link>
-      <description>
-        <![CDATA[How you engage with the world changes how you experience the world, and how the world experiences you.
-        A snarky and cynical approach, by its default assumption that things are shit, or if they are not yet shit will inevitably turn to; such an approach will give your world a malodorous brownish tint.
-        Granted, snark gives you plausible deniability, a motte-and-bailey that protects you from direct criticism, encountering backlash you can always backpedal and say it was just a joke that you accidentally took a bit too far.]]>
-      </description>
-      <author>kontakt@marginalia.nu (Viktor Lofgren)</author>
-      <guid>cid://https://www.marginalia.nu/log/a_124_snark_and_insincerity/</guid>
-    </item>    <item>
-      <title>Leave The Grateful Dead out of it</title>
-      <link>https://buttondown.com/blog/grateful-dead-newsletter</link>
-      <description>
-        <![CDATA[Don't let gurus turn your favorite artist's story into marketing drugery.]]>
-      </description>
     </item>
   </channel>
 </rss>
