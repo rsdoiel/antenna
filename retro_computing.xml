@@ -4,10 +4,28 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>19 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Fedora Linux 43 Beta Now Available for Testing</title>
+      <link>http://www.linux-magazine.com/Online/News/Fedora-Linux-43-Beta-Now-Available-for-Testing</link>
+      <description>
+        <![CDATA[<p>Fedora Linux 43 Beta ships with Gnome 49 and KDE Plasma 6.4 (and other goodies).</p>]]>
+      </description>
+      <author>webdevel@sparkhausmedia.com (Gwen Clark)</author>
+      <guid>cid://f2de27ed096fbe72ecc6db0d5fa5d114</guid>
+    </item>    <item>
+      <title>Outcast</title>
+      <link>https://www.filfre.net/2025/09/outcast/</link>
+      <description>
+        <![CDATA[As longtime readers of these histories know already, I&#8217;ve never been overly enamored with the so-called &#8220;French Touch&#8221; in vintage computer games, that blending of elevated aesthetic and thematic aspirations &#8212; some might prefer to use the word &#8220;pretensions&#8221; &#8212; with a, shall we say, less thoroughgoing commitment to the details of gameplay and mechanics. [&#8230;]]]>
+      </description>
+      <enclosure url="https://www.filfre.net/wp-content/uploads/2025/09/outcast.mp3" length="11103209" type="audio/mpeg" />
+      <enclosure url="https://www.filfre.net/wp-content/uploads/2025/09/outtake.mp4" length="811768" type="video/mp4" />
+      <enclosure url="https://www.filfre.net/wp-content/uploads/2025/09/outcast.mp4" length="3905373" type="video/mp4" />
+      <guid>cid://https://www.filfre.net/?p=6480</guid>
+    </item>    <item>
       <title>b.log 2025/09/18 - Free speech?, Gameboy Advance, The Great Strike!</title>
       <link>https://heyrick.eu/blog/entry/20250918</link>
       <description>

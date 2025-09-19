@@ -4,10 +4,168 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Sep 25 06:10 -0700</lastBuildDate>
+    <lastBuildDate>19 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Zuck has the power! Meta applies to sell excess electricity</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/meta_wholesale_leccy/</link>
+      <description>
+        <![CDATA[<h4>With new electricity sources for AI datacenters, the company will have some juice left over</h4> <p>AI model training and serving require vast quantities of power, but not necessarily all at once. With the first of several gigawatt-scale datacenters due to come online next year, Meta is looking at ways to offload excess energy capacity by selling it on the wholesale market.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242031</guid>
+    </item>    <item>
+      <title>A 3,000-Year-Old Bracelet Belonging to an Ancient Egyptian Pharaoh Has Been Stolen, Sold and Melted Down for Gold</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-3000-year-old-bracelet-belonging-to-an-ancient-egyptian-pharaoh-has-been-stolen-sold-and-melted-down-for-gold-180987374/</link>
+      <description>
+        <![CDATA[After the artifact went missing from Cairo's Egyptian Museum in early September, authorities began carefully tracking down its whereabouts]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RAzWmv5Zt6EqIC_EZBoJU-0I-YE=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a5/e3/a5e396d7-1481-4f80-a0c3-00600e025e4e/bracelet.jpg" length="" type="" />
+    </item>    <item>
+      <title>NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole</title>
+      <link>https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/</link>
+      <description>
+        <![CDATA[As part of the agency’s Artemis campaign, NASA has awarded Blue Origin of Kent, Washington, a CLPS (Commercial Lunar Payload Services) task order with an option to deliver a rover to the Moon’s South Pole region. NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) will search for volatile resources, such as ice, on the lunar surface [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=916870</guid>
+    </item>    <item>
+      <title>Archaeologists in Gaza Rushed to Rescue Thousands of Ancient Artifacts From an Impending Airstrike</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-in-gaza-rushed-to-rescue-thousands-of-ancient-artifacts-from-an-impending-airstrike-180987363/</link>
+      <description>
+        <![CDATA[In just six hours, workers evacuated 70 percent of the historic collection, including objects from one of the Middle East's oldest Christian monasteries. The remaining 30 percent was lost in the attack]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/f-0teKcPrJ1NQMdKCPI0IIab48A=/420x240/filters:focal(2880x1920:2881x1921)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6e/95/6e95dd59-9f4c-4c5d-94a0-7952e5885b88/gettyimages-2166250878.jpg" length="" type="" />
+    </item>    <item>
+      <title>ChatGPT joins human league, now solves CAPTCHAs for the right prompt</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/how_to_trick_chatgpt_agents/</link>
+      <description>
+        <![CDATA[<h4>Could this bot-prevention technique now be obsolete?</h4> <p>ChatGPT can be tricked via cleverly worded prompts to violate its own policies and solve CAPTCHA puzzles, potentially making this human-proving security mechanism obsolete, researchers say.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242029</guid>
+    </item>    <item>
+      <title>112-Million-Year-Old Amber Samples Preserve a Snapshot of an Ancient Forest</title>
+      <link>https://www.smithsonianmag.com/smart-news/112-million-year-old-amber-samples-preserve-a-snapshot-of-an-ancient-forest-from-earths-bygone-supercontinent-180987375/</link>
+      <description>
+        <![CDATA[The deposits from the time of the dinosaurs contain fragile insects and a spider's web]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Pb_mNz1G3NcZoxqC-B0U9okN2Ow=/420x240/filters:focal(2000x1505:2001x1506)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d2/98/d29808a9-f77d-43e5-a0df-cf474e4313b8/image_3.jpeg" length="" type="" />
+    </item>    <item>
+      <title>NASA’s Orion Spacecraft Secures Critical Abort System Hardware for Artemis II</title>
+      <link>https://www.nasa.gov/image-article/nasas-orion-spacecraft-secures-critical-abort-system-hardware-for-artemis-ii/</link>
+      <description>
+        <![CDATA[All the pieces are stacking up – literally – for NASA’s first crewed mission of the Artemis program coming in 2026. Teams are finishing integration of the Orion spacecraft for the Artemis II test flight with its launch abort system on Sept. 17 inside the Launch Abort System Facility at NASA’s Kennedy Space Center in [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=916514</guid>
+    </item>    <item>
+      <title>Sorry, but DeepSeek didn’t really train its flagship model for $294,000</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/deepseek_cost_train/</link>
+      <description>
+        <![CDATA[<h4>Training costs detailed in R1 training report don&#39;t include 2.79 million GPU hours that laid its foundation</h4> <p>Chinese AI darling DeepSeek&#39;s now infamous R1 research report was published in the Journal Nature this week, alongside new information on the compute resources required to train the model. Unfortunately, some people got the wrong idea about just how expensive it was to create.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242028</guid>
+    </item>    <item>
+      <title>Thieves Steal and Destroy Solid Silver Statue of Abraham Lincoln Created by Mount Rushmore Sculptor Gutzon Borglum</title>
+      <link>https://www.smithsonianmag.com/smart-news/thieves-steal-and-destroy-solid-silver-statue-of-abraham-lincoln-created-by-mount-rushmore-sculptor-gutzon-borglum-180987371/</link>
+      <description>
+        <![CDATA[Police have arrested and charged three suspects in connection with the incident, which took place at  at the Houmas House Estate and Gardens in Louisiana]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/m7a_0ineFNEV-T82byjXxA57sgg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e4/80/e480f95f-1562-4d94-9439-1d242fa0a3d9/lincoln-statue.jpg" length="" type="" />
+    </item>    <item>
+      <title>Ivanti EPMM holes let miscreants plant shady listeners, CISA says</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/cisa_ivanti_bugs_exploited/</link>
+      <description>
+        <![CDATA[<h4>Unnamed org compromised with two malware sets</h4> <p>An unknown attacker has abused a couple of flaws in Ivanti Endpoint Manager Mobile (EPMM) and deployed two sets of malware against an unnamed organization, according to the US Cybersecurity and Infrastructure Security Agency.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242027</guid>
+    </item>    <item>
+      <title>Wildfire Smoke Will Likely Kill Thousands More Americans Each Year</title>
+      <link>https://www.smithsonianmag.com/smart-news/wildfire-smoke-will-likely-kill-thousands-more-americans-each-year-180987373/</link>
+      <description>
+        <![CDATA[A new analysis finds that 30,000 more Americans are expected to die from wildfire-smoke exposure annually by 2050]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Mpw0DNMX6A4bS5ayAuamW_RJm-4=/420x240/filters:focal(608x461:609x462)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/0a/c40a105b-746d-4f84-8e42-5a06653f0e8a/full.png" length="" type="" />
+    </item>    <item>
+      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
+      <link>https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/</link>
+      <description>
+        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84444</guid>
+    </item>    <item>
+      <title>Freedom by Design: Why Purism Rejects Big IT Status Quo</title>
+      <link>https://puri.sm/posts/freedom-by-design-why-purism-rejects-big-it-status-quo/</link>
+      <description>
+        <![CDATA[<p>Three recent IT‑privacy headlines tell the same unsettling story: that consumer trust is being squandered</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/freedom-by-design-why-purism-rejects-big-it-status-quo/">Freedom by Design: Why Purism Rejects Big IT Status Quo</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84487</guid>
+    </item>    <item>
+      <title>When “Efficiency” Becomes Exposure: How DOGE Put America’s Identity at Risk</title>
+      <link>https://puri.sm/posts/when-efficiency-becomes-exposure-how-doge-put-americas-identity-at-risk/</link>
+      <description>
+        <![CDATA[<p>Every American should be alarmed.  It was recently reported that a whistleblower from inside the Social Security Administration, Chief Data Officer Charles Borges, has revealed that the Department of Government Efficiency (DOGE) copied a live, full-fidelity version of the nation’s Social Security database onto an Amazon-hosted cloud environment that allegedly lacked independent security oversight. This affects any American who’s ever filled out a Social Security form,</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/when-efficiency-becomes-exposure-how-doge-put-americas-identity-at-risk/">When “Efficiency” Becomes Exposure: How DOGE Put America’s Identity at Risk</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84476</guid>
+    </item>    <item>
+      <title>Spotify “Panama” Leak Is a Wake-Up Call for Digital Privacy</title>
+      <link>https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/</link>
+      <description>
+        <![CDATA[<p>The New York Times recently reported that a hacker using the pseudonym “Tim” scraped publicly available data from Spotify and published it on his own website. Using automated bots, “Tim” harvested user playlists — many of them tied to identifiable names, locations, and even personal notes in titles or descriptions.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/">Spotify “Panama” Leak Is a Wake-Up Call for Digital Privacy</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84360</guid>
+    </item>    <item>
+      <title>See 15 Breathtaking Bird Images From the 16th Annual Audubon Photography Awards</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-15-breathtaking-bird-images-from-the-16th-annual-audubon-photography-awards-180987368/</link>
+      <description>
+        <![CDATA[This year’s competition expanded to Chile and Colombia and introduced new prizes focused on migratory species, habitats and conservation]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9rwGh7suI9onz2Amvr6DJg5fh-w=/420x240/filters:focal(1200x869:1201x870)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/9f/70/9f707268-fc21-402d-9f94-3e3d20de0733/usca_plantsforbirds_winner_aud_apa-na-2025_brandts-cormorant_a1_41700-0_photo-barbara-swanson_l.jpg" length="" type="" />
+    </item>    <item>
+      <title>Microsoft insists Copilot+ PCs are &#39;empowering the future&#39; – reality disagrees</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/microsoft_copilot_marketing_blitz/</link>
+      <description>
+        <![CDATA[<h4>Latest marketing blitz for a solution seeking a problem... and a killer app</h4> <p><strong>Comment</strong>  Microsoft suspects that a &#34;transformative shift&#34; is being driven in personal and enterprise computing by its Copilot+ PCs and an expanding Windows on Arm ecosystem.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242023</guid>
+    </item>    <item>
+      <title>This Nigerian Chef Just Set the World Record for the Largest Pot of Jollof Rice</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-nigerian-chef-just-set-the-world-record-for-the-largest-pot-of-jollof-rice-180987372/</link>
+      <description>
+        <![CDATA[Hilda Baci, whose winning dish weighed more than 19,000 pounds, had previously been awarded a Guinness World Record for the longest cooking marathon]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/xKbe176UCeL9HZhbipOcGGus_0s=/420x240/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/19/a5/19a53773-1f73-4fa2-a71e-e8ff33c31089/gettyimages-2234418866.jpg" length="" type="" />
+    </item>    <item>
+      <title>Turns out Hayabusa2&#39;s next asteroid target isn&#39;t much bigger than the probe itself</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/hayabusa2_asteroid_measurements_refined/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s also spinning twice as fast than thought, making a tricky rendezvous even trickier</h4> <p>Japan&#39;s Hayabusa2 probe faces a tougher mission after new measurements revealed its target asteroid is nearly three times smaller and spinning about twice as fast as originally estimated.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242020</guid>
+    </item>    <item>
+      <title>A Beacon to Space</title>
+      <link>https://www.nasa.gov/image-article/a-beacon-to-space/</link>
+      <description>
+        <![CDATA[In this infrared photograph taken on June 2, 2025, the Optical Communications Telescope Laboratory at NASA&#8217;s Jet Propulsion Laboratory’s Table Mountain Facility near Wrightwood, California, beams its eight-laser beacon to the Deep Space Optical Communications (DSOC) flight laser transceiver aboard NASA’s Psyche spacecraft. At the time, when Psyche was about 143 million miles (230 million [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=916330</guid>
+    </item>    <item>
+      <title>Ding ding: Fortra rings the perfect-10 bell over latest GoAnywhere MFT bug</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/gortra_goanywhere_bug/</link>
+      <description>
+        <![CDATA[<h4>Outside experts say the vulnerability has probably already been exploited</h4> <p>Budding ransomware crooks have another shot at exploiting Fortra&#39;s GoAnywhere MFT product now that a new 10/10 severity vulnerability needs patching.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242019</guid>
+    </item>    <item>
+      <title>Court lets NSF keep swinging axe at $1B in research grants</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/court_lets_nsf_keep_swinging/</link>
+      <description>
+        <![CDATA[<h4>Judge rules there’s no quick fix for 1,700+ axed grants, leaving labs scrambling for cash while the lawsuit plays out</h4> <p>A US court has cleared the way for the National Science Foundation to press ahead with the cancellation of more than 1,700 research grants worth upwards of $1 billion. …</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242021</guid>
+    </item>    <item>
       <title>Scattered Spider teen cuffed after buying games and meals with extortion bitcoin</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/scattered_spider_teen_cuffed/</link>
       <description>
@@ -137,7 +295,7 @@
       <title>From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II</title>
       <link>https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/</link>
       <description>
-        <![CDATA[Of the many roads leading to successful Artemis missions, one is paved with high-tech computing chips called superchips. Along the way, a partnership between NASA wind tunnel engineers, data visualization scientists, and software developers verified a quick, cost-effective solution to improve NASA’s SLS (Space Launch System) rocket for the upcoming Artemis II mission. This will [&#8230;]]]>
+        <![CDATA[By Jill Dunbar Of the many roads leading to successful Artemis missions, one is paved with high-tech computing chips called superchips. Along the way, a partnership between NASA wind tunnel engineers, data visualization scientists, and software developers verified a quick, cost-effective solution to improve NASA’s SLS (Space Launch System) rocket for the upcoming Artemis II [&#8230;]]]>
       </description>
       <guid>cid://https://www.nasa.gov/?p=916241</guid>
     </item>    <item>
@@ -170,14 +328,6 @@
       </description>
       <guid>cid://https://puri.sm/?p=84366</guid>
     </item>    <item>
-      <title>Spotify “Panama” Leak Is a Wake-Up Call for Digital Privacy</title>
-      <link>https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/</link>
-      <description>
-        <![CDATA[<p>The New York Times recently reported that a hacker using the pseudonym “Tim” scraped publicly available data from Spotify and published it on his own website. Using automated bots, “Tim” harvested user playlists — many of them tied to identifiable names, locations, and even personal notes in titles or descriptions.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/spotify-panama-leak-is-a-wake-up-call-for-digital-privacy/">Spotify “Panama” Leak Is a Wake-Up Call for Digital Privacy</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84360</guid>
-    </item>    <item>
       <title>Google pushes emergency patch for Chrome 0-day – check your browser version now</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/18/google_emergency_patch_chrome_0_day/</link>
       <description>
@@ -191,6 +341,14 @@
         <![CDATA[Fall is mating season for the large, antler-adorned ungulates—and you can catch a glimpse of them at several national parks in the United States and Canada]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/bcRQz7P4qeIrHfM76GSUlYWE4fU=/420x240/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/22/6022628d-5c3a-470a-a723-f352999f1f91/big_bull_elk_in_fall_colors_field_rmnp_wildlife_photos.jpg" length="" type="" />
+    </item>    <item>
+      <title>The NYPD’s $3B “Domain Awareness System” isn’t just a New York problem—it’s a warning for every American</title>
+      <link>https://puri.sm/posts/the-nypds-3b-domain-awareness-system-isnt-just-a-new-york-problem-its-a-warning-for-every-american/</link>
+      <description>
+        <![CDATA[<p>In her September 15, 2025, New York Times opinion piece, Elizabeth Daniel Vasquez lays bare a reality too many Americans have ignored: the New York Police Department has quietly built one of the most expansive, integrated surveillance systems in the nation’s history.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/the-nypds-3b-domain-awareness-system-isnt-just-a-new-york-problem-its-a-warning-for-every-american/">The NYPD’s $3B “Domain Awareness System” isn’t just a New York problem—it’s a warning for every American</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84454</guid>
     </item>    <item>
       <title>NASA’s Chandra Finds Black Hole With Tremendous Growth</title>
       <link>https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/</link>
@@ -238,7 +396,7 @@
       <title>New NASA Mission to Reveal Earth’s Invisible ‘Halo’</title>
       <link>https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/</link>
       <description>
-        <![CDATA[A new NASA mission will capture images of Earth’s invisible “halo,” the faint light given off by our planet’s outermost atmospheric layer, the exosphere, as it morphs and changes in response to the Sun. Understanding the physics of the exosphere is a key step toward forecasting dangerous conditions in near-Earth space, a requirement for protecting […]]]>
+        <![CDATA[This story is also available in Spanish. A new NASA mission will capture images of Earth’s invisible “halo,” the faint light given off by our planet’s outermost atmospheric layer, the exosphere, as it morphs and changes in response to the Sun. Understanding the physics of the exosphere is a key step toward forecasting dangerous conditions […]]]>
       </description>
       <guid>cid://https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/</guid>
     </item>    <item>
@@ -289,7 +447,7 @@
       <description>
         <![CDATA[Known as Ned, the creature needs a fellow left-coiling garden snail to reproduce—but the species almost always has shells that coil on their right side]]>
       </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Y4zxjL-PQZhBOAoPwCRa_TrirVU=/420x240/filters:focal(1280x859:1281x860)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/bd/58/bd58be39-da4d-4091-bea1-1895a153fd50/jeremy_the_left-coiling_snail_on_top_of_a_right-coiling_snail_theresa.jpg" length="" type="" />
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/IKnqPJb99Vl_KrAXtqGYHe5JA4U=/420x240/filters:focal(1512x1094:1513x1095)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7a/05/7a05b5c6-0821-4427-847d-7718f743c915/22aug2025_giselleclarkson_ned_at_rear.jpg" length="" type="" />
     </item>    <item>
       <title>Baby Pterosaur Fossils Reveal Mid-Flight Injury and Watery Death, Helping Solve a Paleontological Mystery</title>
       <link>https://www.smithsonianmag.com/smart-news/baby-pterosaur-fossils-reveal-mid-flight-injury-and-watery-death-helping-solve-a-paleontological-mystery-180987301/</link>
@@ -1469,6 +1627,14 @@
         <![CDATA[As NASA’s one-of-a-kind X-59 quiet supersonic research aircraft approaches first flight, its team is mapping every step from taxi and takeoff to cruising and landing – and their decision-making is guided by safety. First flight will be a lower-altitude loop at about 240 mph to check system integration, kicking off a phase of flight testing [&#8230;]]]>
       </description>
       <guid>cid://https://www.nasa.gov/?p=913536</guid>
+    </item>    <item>
+      <title>Google Mishandling School Children’s Data</title>
+      <link>https://puri.sm/posts/google-mishandling-school-childrens-data/</link>
+      <description>
+        <![CDATA[<p>When Google agreed to pay $30 million to settle a class-action lawsuit over its unauthorized collection of children’s data on YouTube, it wasn’t a revelation—it was a confirmation. A confirmation that Google’s public posture of compliance often masks a deeper, more calculated strategy: delayed monetization through long-tail data mining.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/google-mishandling-school-childrens-data/">Google Mishandling School Children&#8217;s Data</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84364</guid>
     </item>    <item>
       <title>NASA, War Department Partnership Tests Boundaries of Autonomous Drone Operations</title>
       <link>https://www.nasa.gov/centers-and-facilities/ames/nasa-war-department-partnership-tests-boundaries-of-autonomous-drone-operations/</link>
