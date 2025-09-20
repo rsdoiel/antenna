@@ -4,7 +4,7 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>19 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>20 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -725,36 +725,6 @@
       </description>
       <enclosure url="https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki/downloads/zofia-nalkowska_women_michael-henry-dziewicki.epub?source=feed" length="496584" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/zofia-nalkowska/women/michael-henry-dziewicki</guid>
-    </item>    <item>
-      <title>From India to the World: A Scholar’s Tribute to the Internet Archive</title>
-      <link>https://blog.archive.org/2025/08/29/from-india-to-the-world-a-scholars-tribute-to-the-internet-archive/</link>
-      <description>
-        <![CDATA[Every day, people around the world use the Internet Archive to learn, research, and discover. Aadarsh Pathak, a scholar in India, called the Internet Archive “a guardian of our collective [&#8230;]]]>
-      </description>
-      <guid>cid://https://blog.archive.org/?p=29181</guid>
-    </item>    <item>
-      <title>The New Freedom, by Woodrow Wilson</title>
-      <link>https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</link>
-      <description>
-        <![CDATA[The 28th president of the United States presents the risks and opportunities for freedom and democracy through a series of campaign speeches.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom/downloads/woodrow-wilson_the-new-freedom.epub?source=feed" length="422895" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/woodrow-wilson/the-new-freedom</guid>
-    </item>    <item>
-      <title>Celebrando Cultura 2025: Spotlight on the Latinx/é Diaspora.</title>
-      <link>https://library.csun.edu/blogs/cited/2025/08/29/celebrando-cultura-2025-spotlight-on-the-latinx-e-diaspora/</link>
-      <description>
-        <![CDATA[<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design2-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design2-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design2-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/08/Untitled-design2.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Each year, from September 15 to October 15, we observe Latinx/é Heritage Heritage Month, a time to recognize and celebrate the contributions of Latinx/é Americans.&#8230;]]>
-      </description>
-      <guid>cid://https://library.csun.edu/blogs/cited/?p=7406</guid>
-    </item>    <item>
-      <title>Kitchen is Closed for US Labor Day</title>
-      <link>https://scholarlykitchen.sspnet.org/2025/08/29/kitchen-is-closed-for-us-labor-day/</link>
-      <description>
-        <![CDATA[<p>The Chefs are now off for the US Labor Day Holiday, enjoying the last official getaway for summer.</p>
-        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/08/29/kitchen-is-closed-for-us-labor-day/">Kitchen is Closed for US Labor Day</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
-      </description>
-      <guid>cid://https://scholarlykitchen.sspnet.org/?p=60897</guid>
     </item>
   </channel>
 </rss>
