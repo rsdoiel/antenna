@@ -4,10 +4,31 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>19 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>20 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Britain jumps into bed with Palantir in £1.5B defense pact</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/uk_palantir_defense_pact/</link>
+      <description>
+        <![CDATA[<h4>Arrangement follows big tech tie-ins claiming to offer £31B investment</h4> <p>The UK has struck a defense deal with US spy-tech biz Palantir, which the government says will unlock £1.5 billion ($2 billion) of investment in Britain.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242018</guid>
+    </item>    <item>
+      <title>Trump admin says tech companies are abusing H-1B visas, slaps $100k a year to allow entry</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/visa_h1b_reform/</link>
+      <description>
+        <![CDATA[<h4>It will hit outsourcing companies hardest</h4> <p>On Friday, President Trump signed a presidential proclamation to sharply raise the cost of employing H-1B workers by restricting entry unless employers make a $100,000 payment with the petition.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242032</guid>
+    </item>    <item>
+      <title>The Ancient Mars Variety Show</title>
+      <link>https://science.nasa.gov/blog/the-ancient-mars-variety-show/</link>
+      <description>
+        <![CDATA[Written by Melissa Rice, Professor of Planetary Science at Western Washington University Perseverance accomplished something unusual this week: abrading two dramatically different rocks within the span of a few days. While exploring the Vernodden area along Jezero crater’s rim, the rover has been studying what might be “megablocks,” a variety of ancient crustal materials with […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/blog/the-ancient-mars-variety-show/</guid>
+    </item>    <item>
       <title>Zuck has the power! Meta applies to sell excess electricity</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/meta_wholesale_leccy/</link>
       <description>
@@ -3350,63 +3371,6 @@
         <![CDATA[The months keep slipping through our fingers, during this, our slow but relentless march towards the inevitability of certain death, so it&#8217;s time for another month of improvements to Redox, the general-purpose microkernel operating system written in Rust. This past month the work to bring various components of system76&#8217;s COSMIC desktop environment to Redox continues, with COSMIC Reader making its way to Redox. Jeremy Soller, creator of the Redox project and one of its primary engineers, will be using COSMIC Reader running on Redox to hold a presentation about Redox at RustConf. Aside from that important port, this month &#8211; in the middle of Summer on in this hemisphere &#8211; seems to mostly consist of a ton of smaller bugfixes and improvements. Relibc, Redox&#8217; C standard library, has seen a ton of work, as usual, a few ports were fixed and updated, like vim and OpenSSH, Orbital now has fullscreen support, and so, so much more.]]>
       </description>
       <guid>cid://https://www.osnews.com/?p=143242</guid>
-    </item>    <item>
-      <title>How Much Can a Giant Waterlily Hold? See One Carry 183 Pounds Before Sinking, Winning a Social Media Contest</title>
-      <link>https://www.smithsonianmag.com/smart-news/how-much-can-a-giant-waterlily-hold-see-one-carry-183-pounds-before-sinking-winning-a-social-media-contest-180987268/</link>
-      <description>
-        <![CDATA[Now in its third year, the Waterlily Weigh-Off invites public gardens and zoos to show off the strength of their aquatic plants]]>
-      </description>
-      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ed/bf/edbf11a0-be26-444e-aae2-2cd5c41a2b65/20250814_155406598_ios.jpg" length="" type="" />
-    </item>    <item>
-      <title>The Gun Linked to Emmett Till&#39;s Murder Is Now on Display at a Museum in Mississippi</title>
-      <link>https://www.smithsonianmag.com/smart-news/the-gun-linked-to-emmett-tills-murder-is-now-on-display-at-a-museum-in-mississippi-180987266/</link>
-      <description>
-        <![CDATA[The weapon is thought to have belonged to J.W. Milam, one of the two men who kidnapped, tortured and killed the Black teenager for whistling at a white woman in a grocery store in 1955]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q164-ySZgMHwgQRFAQvi0jGMM3E=/420x240/filters:focal(1024x575:1025x576)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/af/3c/af3c6334-d19e-4db1-8186-63a89327d794/539383389_1182039187292462_17200861569485898_n.jpg" length="" type="" />
-    </item>    <item>
-      <title>Researchers Create Rechargeable, Glow-in-the-Dark Succulents</title>
-      <link>https://www.smithsonianmag.com/smart-news/researchers-create-rechargeable-glow-in-the-dark-succulents-180987265/</link>
-      <description>
-        <![CDATA[The team hopes their work, which is still in the early phases, might one day build the foundation for a novel sustainable lighting system]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/lUBw-y4m9eGlLSs6wVEAHnXEFBQ=/420x240/filters:focal(350x210:351x211)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e2/a7/e2a73750-beea-4bd1-b993-bcc565792f8d/low-res_1_1.jpg" length="" type="" />
-    </item>    <item>
-      <title>America&#39;s Largest-Ever Exhibition on Raphael Will Open at the Met Next Year</title>
-      <link>https://www.smithsonianmag.com/smart-news/anericas-largest-ever-exhibition-on-raphael-will-open-at-the-met-next-year-180987252/</link>
-      <description>
-        <![CDATA[More than 200 of the Renaissance master's works will be on display in the landmark show, which debuts in March 2026]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/L36IyHTQj9duP2dmbkHuuyVlRP8=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/d5/60/d560a5cb-481f-4625-8dc5-9b4c30e5fae3/raphael.jpg" length="" type="" />
-    </item>    <item>
-      <title>Astronomers Spot a Rare Quadruple Star System in the Milky Way, Shedding Light on Mysterious Brown Dwarfs</title>
-      <link>https://www.smithsonianmag.com/smart-news/astronomers-spot-a-rare-quadruple-star-system-in-the-milky-way-shedding-light-on-mysterious-brown-dwarfs-180987241/</link>
-      <description>
-        <![CDATA[The discovery can help astronomers better understand these little-known objects nicknamed “failed stars”]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/MSU7W2HtuDVyz_jQ7TQAMaocSrM=/420x240/filters:focal(1200x903:1201x904)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/35/61/3561667c-29ec-4def-baf3-1a08c7a9bba2/rare-quadruple-star-sy.jpg" length="" type="" />
-    </item>    <item>
-      <title>Oldest Known Fossil of an Armored Ankylosaur Is &#39;Far Weirder&#39; Than Paleontologists Expected</title>
-      <link>https://www.smithsonianmag.com/smart-news/oldest-known-fossil-of-an-armored-ankylosaur-is-far-weirder-than-paleontologists-expected-180987258/</link>
-      <description>
-        <![CDATA[The 13-foot dinosaur, covered in long spikes fused into its bones, suggests ankylosaurs developed tail weapons 30 million years earlier than thought]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/NKE7ezqKHkcvTvNhyc554-K24rk=/420x240/filters:focal(960x494:961x495)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a7/6e/a76edc1d-9693-422d-adc3-37f74d63ea00/spicomellus-dinosaur-reconstruction-full-width-matthew-dempseyjpgthumb19201920.png" length="" type="" />
-    </item>    <item>
-      <title>This Christian Cross Found in Abu Dhabi Illuminates the Lives of Monks Who Lived 1,400 Years Ago</title>
-      <link>https://www.smithsonianmag.com/smart-news/this-christian-cross-found-in-abu-dhabi-illuminates-the-lives-of-monks-who-lived-1400-years-ago-180987248/</link>
-      <description>
-        <![CDATA[Researchers discovered the intricately decorated artifact at an archaeological site near a seventh-century C.E. monastery on the island of Sir Bani Yas]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9pVUMzy_rxu5Gcg232oMNGdaZWI=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/d6/cbd6eb69-9473-4975-b6a6-b5c9dcd63cb6/cross.jpg" length="" type="" />
-    </item>    <item>
-      <title>The Quiet Revolution: GNU/Linux Crosses 6% Desktop Market Share—And It’s Just the Beginning</title>
-      <link>https://puri.sm/posts/the-quiet-revolution-gnu-linux-crosses-6-desktop-market-share-and-its-just-the-beginning/</link>
-      <description>
-        <![CDATA[<p>For decades, the phrase “Year of the Linux Desktop” has been tossed around like a tech industry punchline. But now, it’s no longer a meme—it’s a movement. According to the U.S. government’s own analytics, GNU/Linux has officially crossed the 6% threshold in desktop usage. That’s not hype. That’s hard data.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/the-quiet-revolution-gnu-linux-crosses-6-desktop-market-share-and-its-just-the-beginning/">The Quiet Revolution: GNU/Linux Crosses 6% Desktop Market Share—And It’s Just the Beginning</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84000</guid>
     </item>
   </channel>
 </rss>
