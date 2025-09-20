@@ -4,10 +4,17 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>20 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>SaaS vendors are hiking costs faster than inflation, but squeaky wheels can still get deals</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/saas_license_negotiation_advice/</link>
+      <description>
+        <![CDATA[<h4>And also force them to improve resilience</h4> <p>SaaS vendors are increasing prices faster than both inflation and the typical growth rate of corporate IT budgets, but Gartner VP analyst Jo Liversidge thinks that canny buyers can reduce their bills by anticipating price hikes and planning to negotiate hard.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242011</guid>
+    </item>    <item>
       <title>Britain jumps into bed with Palantir in £1.5B defense pact</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/uk_palantir_defense_pact/</link>
       <description>
