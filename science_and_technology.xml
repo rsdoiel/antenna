@@ -4,10 +4,17 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>20 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Make Windows 11 more useful and less annoying with these 11 Registry hacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/</link>
+      <description>
+        <![CDATA[<h4>From pain-free shutdowns to crap-free search, these tweaks will improve your experience</h4> <p><strong>hands on</strong>  Windows 11 has a number of puzzling or annoying UI changes from Windows 10 that power users might wish to change. But you can&#39;t make these tweaks from the Settings menu or even the legacy Control Panel. To make these changes, you’ll need to edit the Registry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242024</guid>
+    </item>    <item>
       <title>SaaS vendors are hiking costs faster than inflation, but squeaky wheels can still get deals</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/20/saas_license_negotiation_advice/</link>
       <description>

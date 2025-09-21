@@ -4,7 +4,7 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>20 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -942,27 +942,6 @@
         <![CDATA[No final vide grenier, Managing your Livebox with LiveboxMonitor, ls colours, Cassette player repair.]]>
       </description>
       <guid>cid://https://heyrick.eu/blog/entry/20250831</guid>
-    </item>    <item>
-      <title>b.log 2025/08/30 - The final Letterbox and a problem, Governmental failure, Fixing democracy, Thoughts and prayers, One Core Two Core Red Core Blue Core.</title>
-      <link>https://heyrick.eu/blog/entry/20250830</link>
-      <description>
-        <![CDATA[The final Letterbox and a problem, Governmental failure, Fixing democracy, Thoughts and prayers, One Core Two Core Red Core Blue Core.]]>
-      </description>
-      <guid>cid://https://heyrick.eu/blog/entry/20250830</guid>
-    </item>    <item>
-      <title>Dutch ABUG event – 3rd to 5th October</title>
-      <link>https://www.riscository.com/2025/dutch-abug-event-3rd-5th-october/</link>
-      <description>
-        <![CDATA[There will be an Acorn and BBC User Group (ABUG) event taking place in the Netherlands later this year &#8211; the Dutch ABUG 2025, co-sponsored by The Big Ben Club, which will be held from Friday 3rd to Sunday 5th of October at: MFC de Kiekmure,Tesselchadelaan 1,3842 GA Harderwilk,The Netherlands. Anyone who has an interest in the full range of Acorn and related machines (of any native &#8216;bit&#8217; size) can come along, whether that&#8217;s one, two, or all three days &#8211; though it will be necessary to book ahead. Details&#8230;]]>
-      </description>
-      <guid>cid://https://www.riscository.com/?p=10698</guid>
-    </item>    <item>
-      <title>WROCC presents a ‘Storage Symposium’ – 3rd September</title>
-      <link>https://www.riscository.com/2025/wrocc-storage-symposium-3rd-september/</link>
-      <description>
-        <![CDATA[The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 3rd September, with a two-part talk from Chis Johns on the subject of RISC OS file storage. In part one, Chris will look at Filecore, the standard format used by RISC OS systems, with an explanation of how it all works, and for the second part he will be looking at the BlockDevices system, an attempt to &#8216;modernise and modularise&#8217; disc access, covering why it was created, and how it works. The start time for&#8230;]]>
-      </description>
-      <guid>cid://https://www.riscository.com/?p=10696</guid>
     </item>
   </channel>
 </rss>

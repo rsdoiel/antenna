@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>20 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,238 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Newsboat 2.41 is out</title>
+      <link>https://newsboat.org/releases/2.41/docs/newsboat.html</link>
+      <description>
+        <![CDATA[<p>
+                        According to the changelog, this is yet another small bugfix-ish
+                        release. Nothing major. I’d certainly like for it to appear
+                        so :)
+                    </p>
+        
+                    <p>
+                        Under the hood though, there’s the biggest refactor we did to
+                        date. When we started porting Newsboat to Rust, some of you ran
+                        into a bug where the program couldn’t read the cache file due to
+                        some "non-UTF-8" data in it. The core of the issue is that
+                        not enough care was given to separate strings in different
+                        encodings. Rust exposed those problems because it’s way more
+                        strict about string encodings. With 2.41, we make the first step
+                        towards resolving those problems, by separating filesystem paths
+                        and other strings.
+                    </p>
+        
+                    <p>
+                        In parallel to that, there is work ongoing to improve Newsboat’s
+                        ability to convert all incoming articles to UTF-8. This helps
+                        with some feeds today, but most importantly, it prepares us for
+                        the future when all text in Newsboat would be encoded in UTF-8.
+                    </p>
+        
+                    <p>Please check out the links below, and don't hesitate to open issues if there’s something amiss:
+                            <a href="https://newsboat.org/releases/2.41/newsboat-2.41.tar.xz">tar.xz</a>,
+                            <a href="https://newsboat.org/releases/2.41/newsboat-2.41.tar.xz.asc">asc</a>,
+                            <a href="https://newsboat.org/releases/2.41/docs/newsboat.html">docs</a>,
+                            <a href="https://newsboat.org/releases/2.41/docs/faq.html">FAQ</a>,
+                            <a href="https://github.com/newsboat/newsboat/blob/master/CHANGELOG.md#241---2025-09-21">changelog</a>.
+                    </p>]]>
+      </description>
+      <author>eual.jp@gmail.com (Alexander Batischev)</author>
+      <guid>cid://https://newsboat.org/releases/2.41/docs/newsboat.html</guid>
+    </item>    <item>
+      <title>’September’</title>
+      <link>https://steady.substack.com/p/september</link>
+      <description>
+        <![CDATA[A Reason To Smile]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!oK4c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F580160cc-47b5-4cad-baaf-e0a0fc1feb5b_3670x2355.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/september</guid>
+    </item>    <item>
+      <link>https://m.youtube.com/watch?v=emiBWDG0jKo</link>
+      <description>
+        <![CDATA[<p>This is the ad the Dems are too chickenshit to run.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/21/1187/</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/09/20/us/politics/jeffries-schumer-trump.html</link>
+      <description>
+        <![CDATA[<p>To which Trump would likely say “bipartisan? What dat?”</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/21/1185/</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/global/commentisfree/2025/sep/21/trumps-fed-attacks-independence-dangerous</link>
+      <description>
+        <![CDATA[<p>Why Trump’s attacks on the Fed’s independence are so dangerous.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/21/1180/</guid>
+    </item>    <item>
+      <link>https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company</link>
+      <description>
+        <![CDATA[<p>Meta exposé author faces bankruptcy after ban on criticising company.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/21/1177/</guid>
+    </item>    <item>
+      <link>https://www.politico.com/news/2025/09/20/trump-bondi-truth-social-00574380?utm_content=politico/magazine/Politics&#38;utm_source=RSS_Feed&#38;utm_medium=RSS&#38;utm_campaign=RSS_Syndication</link>
+      <description>
+        <![CDATA[<p>Trump had a huge brain fart. He shouldn’t have posted that private message to Pam Bondi in public the way he did. Ooops.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/21/1175/</guid>
+    </item>    <item>
+      <link>https://www.nbcchicago.com/news/local/ice-posts-help-wanted-sign-in-chicago-aimed-to-lure-peeved-police/3825853/</link>
+      <description>
+        <![CDATA[<p>Controversial ICE commercial aims to lure peeved Chicago police. They ran the same commercial in NY.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/21/1173/</guid>
+    </item>    <item>
+      <title>Women, Men and Jobs</title>
+      <link>https://paulkrugman.substack.com/p/women-men-and-jobs</link>
+      <description>
+        <![CDATA[Men are in trouble. Are women responsible?]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!83kq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54321fee-c498-420e-9703-758692316b73_800x450.png" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/women-men-and-jobs</guid>
+    </item>    <item>
+      <title>2025-09-20 Aminona, Tièche, Merdechon</title>
+      <link>https://alexschroeder.ch/view/2025-09-20-wallis</link>
+      <description>
+        <![CDATA[<h1 id="2025-09-20-aminona-tièche-merdechon">2025-09-20 Aminona, Tièche, Merdechon</h1>
+        
+        <p>Today it was just the two of us and we went for a walk up beyond the tree line. It was painful for feet and knees to come down again, but glorious up there.</p>
+        
+        <p><img loading="lazy" src="2025-09-20-wallis-1.jpg" alt="Looking south towards the Val d’Anniviers from somewhere close to the Cave du Sex. A dry mountain meadow and the silhouette of mountains in the background." /></p>
+        
+        <p>We went from Aminona to the Cave du Sex and had our lunch there, then went up along a waterfall and further along the <em>bisse</em> (an artificial creek to distribute the water between the mountain meadows away from a source) to the Tièche.</p>
+        
+        <p><img loading="lazy" src="2025-09-20-wallis-2.jpg" alt="The valley seems to end at yet another waterfall but there&rsquo;s a way further up." />
+        <img loading="lazy" src="2025-09-20-wallis-3.jpg" alt="The bisse takes water from one mountain creek to the next with little gates along the way. The water rights are strictly regulated." />
+        <img loading="lazy" src="2025-09-20-wallis-4.jpg" alt="The last ascent before reaching la Tièche shows the water digging itself in, with side arms adding more water." />
+        <img loading="lazy" src="2025-09-20-wallis-5.jpg" alt="The water creates a little canyon and the walkway is right along side it." /></p>
+        
+        <p>When we reached la Tièche, the world opens up again.</p>
+        
+        <p><img loading="lazy" src="2025-09-20-wallis-6.jpg" alt="The waterbed is full of white stones in a dry-green meadow with mountains on all sides." />
+        <video src="2025-09-20-wallis-12.mp4" poster="2025-09-20-wallis-12.jpg" alt="Panorama" controls muted></video>
+        <img loading="lazy" src="2025-09-20-wallis-7.jpg" alt="Claudia and I, with hats and sunglasses." />
+        <img loading="lazy" src="2025-09-20-wallis-14.jpg" alt="A man with a backpack on a dirt road towards the mountains." />
+        <img loading="lazy" src="2025-09-20-wallis-15.jpg" alt="When Claudia turned back she took a picture of me taking pictures of flowers." />
+        <img loading="lazy" src="2025-09-20-wallis-8.jpg" alt="The autumn crocus is on its way out but occasionally we still saw some beautiful specimens (Colchicum autumnale)." /></p>
+        
+        <p>We walked back along the <em>route de alpage</em>. The first alp is Merdechon.</p>
+        
+        <p><img loading="lazy" src="2025-09-20-wallis-9.jpg" alt="Claudia waving from a rock that makes her seem taller than the mountains in the back." />
+        <img loading="lazy" src="2025-09-20-wallis-10.jpg" alt="Epilobium angustifolium, flowers nearly gone, in front of a mountain panorama." />
+        <video src="2025-09-20-wallis-13.mp4" poster="2025-09-20-wallis-13.jpg" alt="Panorama" controls muted></video>
+        <img loading="lazy" src="2025-09-20-wallis-16.jpg" alt="Two white, round mushrooms" />
+        <img loading="lazy" src="2025-09-20-wallis-17.jpg" alt="Me, with a hat, sunglasses, backpack, short trousers, sandals, above the tree line, with dry grass and grey mountains." />
+        <img loading="lazy" src="2025-09-20-wallis-11.jpg" alt="It&rsquo;s getting late and we&rsquo;re walking through the skiing pistes in late summer. It feels strange to see the infrastructure standing here, uselessly." /></p>
+        
+        <p>We did see and hear a marmot. 😍</p>
+        
+        <p>Pictures by me and Claudia.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Valais">#Valais</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>]]>
+      </description>
+      <guid>cid://https://alexschroeder.ch/view/2025-09-20-wallis</guid>
+    </item>    <item>
+      <title>Sunday thought: Confronting tyranny</title>
+      <link>https://robertreich.substack.com/p/sunday-thought-e69</link>
+      <description>
+        <![CDATA[Seven things we&#8217;ve learned]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!5MNy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7204453-f086-4749-b06c-7c4aaa2c1dc7_3500x2910.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-thought-e69</guid>
+    </item>    <item>
+      <title>Wandering the river</title>
+      <link>https://tracydurnell.com/2025/09/20/wandering-the-river/</link>
+      <description>
+        <![CDATA[We trekked up to the mountains today &#8212; hit construction traffic so it took twice as long as usual, about an hour and a half. After a picnic lunch, we meandered the riverbank checking out rocks. We used to come here all the time but iirc it&#8217;s been a couple years. Unfortunately, the air was [&#8230;]]]>
+      </description>
+      <guid>cid://https://tracydurnell.com/?p=29988</guid>
+    </item>    <item>
+      <title>September 20, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-20-2025</link>
+      <description>
+        <![CDATA[Is it possible that the last time I posted a picture was September 1?]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!HVLv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7db3e957-1af0-4d3f-8078-f9de67186592_5712x4284.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-20-2025</guid>
+    </item>    <item>
+      <link>http://xmlviewer.scripting.com/?url=https://wordland.social/scripting/237777565/rss.xml</link>
+      <description>
+        <![CDATA[<p>This is what a WordLand feed looks like. Pretty straight RSS 2.0 feed with a few additions. Includes Wordpress site and post id’s and markdown text for each item. Also it’s possible to use this feed for linkblog entries.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/20/1171/</guid>
+    </item>    <item>
+      <title>llm-openrouter 0.5</title>
+      <link>https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.com/simonw/llm-openrouter/releases/tag/0.5">llm-openrouter 0.5</a></strong></p>
+        New release of my <a href="https://llm.datasette.io/">LLM</a> plugin for accessing models made available via <a href="https://openrouter.ai/">OpenRouter</a>. The release notes in full:</p>
+        <blockquote>
+        <ul>
+        <li>Support for <a href="https://llm.datasette.io/en/stable/tools.html">tool calling</a>. Thanks, <a href="https://github.com/jamessanford">James Sanford</a>. <a href="https://github.com/simonw/llm-openrouter/pull/43">#43</a></li>
+        <li>Support for reasoning options, for example <code>llm -m openrouter/openai/gpt-5 'prove dogs exist' -o reasoning_effort medium</code>. <a href="https://github.com/simonw/llm-openrouter/issues/45">#45</a></li>
+        </ul>
+        </blockquote>
+        <p>Tool calling is a really big deal, as it means you can now use the plugin to try out tools (and <a href="https://simonwillison.net/2025/Sep/18/agents/">build agents, if you like</a>) against any of the 179 tool-enabled models on that platform:</p>
+        <pre><code>llm install llm-openrouter
+        llm keys set openrouter
+        # Paste key here
+        llm models --tools | grep 'OpenRouter:' | wc -l
+        # Outputs 179
+        </code></pre>
+        <p>Quite a few of the models hosted on OpenRouter can be accessed for free. Here's a tool-usage example using the <a href="https://github.com/simonw/llm-tools-datasette">llm-tools-datasette plugin</a> against the new <a href="https://simonwillison.net/2025/Sep/20/grok-4-fast/">Grok 4 Fast model</a>:</p>
+        <pre><code>llm install llm-tools-datasette
+        llm -m openrouter/x-ai/grok-4-fast:free -T 'Datasette("https://datasette.io/content")' 'Count available plugins'
+        </code></pre>
+        <p>Outputs:</p>
+        <blockquote>
+        <p>There are 154 available plugins.</p>
+        </blockquote>
+        <p><a href="https://gist.github.com/simonw/43c56203887dd0d07351443a2ba18f29">The output</a> of <code>llm logs -cu</code> shows the tool calls and SQL queries it executed to get that result.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything</guid>
+    </item>    <item>
+      <link>https://www.nytimes.com/2025/09/20/opinion/maga-trump-debate-kirk.html?unlocked_article_code=1.nU8.PXAD.Ib6WCP590baJ&#38;smid=nytcore-ios-share&#38;referringSource=articleShare</link>
+      <description>
+        <![CDATA[<p>The MAGA Movement Is Not a Debating Society.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/20/1169/</guid>
+    </item>    <item>
+      <title>Web Standards and the Fall of the House of Iamus</title>
+      <link>https://infrequently.org/2025/09/standards-and-the-fall-of-iamus/</link>
+      <guid>cid://https://infrequently.org/2025/09/standards-and-the-fall-of-iamus/</guid>
+    </item>    <item>
+      <title>Grok 4 Fast</title>
+      <link>https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://x.ai/news/grok-4-fast">Grok 4 Fast</a></strong></p>
+        New hosted vision-enabled reasoning model from xAI that's designed to be fast and extremely competitive on price. It has a 2 million token context window and "was trained end-to-end with tool-use reinforcement learning".</p>
+        <p>It's priced at $0.20/million input tokens and $0.50/million output tokens - 15x less than Grok 4 (which is $3/million input and $15/million output). That puts it cheaper than GPT-5 mini and Gemini 2.5 Flash on <a href="https://www.llm-prices.com/">llm-prices.com</a>.</p>
+        <p>The same model weights handle reasoning and non-reasoning based on a parameter passed to the model.</p>
+        <p>I've been trying it out via my updated <a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a> plugin, since Grok 4 Fast is available <a href="https://openrouter.ai/x-ai/grok-4-fast">for free on OpenRouter</a> for a limited period.</p>
+        <p>The <a href="https://gist.github.com/simonw/6a52e6585cb3c45e64ae23b9c5ebafe9">non-reasoning model</a>:</p>
+        <pre><code>llm -m openrouter/x-ai/grok-4-fast:free "Generate an SVG of a pelican riding a bicycle"
+        </code></pre>
+        <p><img alt="Described by Grok 4 Fast: A simple digital illustration of a yellow duck with outstretched wings riding a black bicycle on green grass under a blue sky, no text." src="https://static.simonwillison.net/static/2025/grok-4-fast.png" /></p>
+        <p>And <a href="https://gist.github.com/simonw/539719a1495253bbd27f3107931e6dd3">the reasoning model</a>:</p>
+        <pre><code>llm -m openrouter/x-ai/grok-4-fast:free "Generate an SVG of a pelican riding a bicycle" -o reasoning_enabled true
+        </code></pre>
+        <p><img alt="Described by Grok 4 Fast: A simple line drawing of a white pelican with a yellow beak holding a yellow object, riding a black bicycle on green grass under a blue sky with white clouds." src="https://static.simonwillison.net/static/2025/grok-4-fast-reasoning.png" /></p>
+        <p>In related news, the New York Times had a story a couple of days ago about Elon's recent focus on xAI: <a href="https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html">Since Leaving Washington, Elon Musk Has Been All In on His A.I. Company</a>.
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/grok">grok</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a>, <a href="https://simonwillison.net/tags/xai">xai</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything</guid>
+    </item>    <item>
+      <title>A Few Nice Words about Viewfinder</title>
+      <link>https://robinrendle.com/notes/a-few-nice-words-about-viewfinder/</link>
+      <guid>cid://https://robinrendle.com/notes/a-few-nice-words-about-viewfinder/</guid>
     </item>    <item>
       <title>Saturday night late session</title>
       <link>https://adactio.com/notes/22143</link>
@@ -76,45 +308,6 @@
         <![CDATA[<p>A simple recipe made in heaven.</p><p>A can of tuna (I really like the cento brand soaked in olive oil), that Japanese mayo mixed with saltines.</p><p>So simple, yet it lifts the soul.</p>]]>
       </description>
       <guid>cid://https://mastodon.social/@Migueldeicaza/115238204736748940</guid>
-    </item>    <item>
-      <title>2025-09-20 Aminona, Tièche, Merdechon</title>
-      <link>https://alexschroeder.ch/view/2025-09-20-wallis</link>
-      <description>
-        <![CDATA[<h1 id="2025-09-20-aminona-tièche-merdechon">2025-09-20 Aminona, Tièche, Merdechon</h1>
-        
-        <p>Today it was just the two of us and we went for a walk up beyond the tree line. It was painful for feet and knees to come down again, but glorious up there.</p>
-        
-        <p><img loading="lazy" src="2025-09-20-wallis-1.jpg" alt="Looking south towards the Val d’Anniviers from somewhere close to the Cave du Sex. A dry mountain meadow and the silhouette of mountains in the background." /></p>
-        
-        <p>We went from Aminona to the Cave du Sex and had our lunch there, then went up along a waterfall and further along the <em>bisse</em> (an artificial creek to distribute the water between the mountain meadows away from a source) to the Tièche.</p>
-        
-        <p><img loading="lazy" src="2025-09-20-wallis-2.jpg" alt="The valley seems to end at yet another waterfall but there&rsquo;s a way further up." />
-        <img loading="lazy" src="2025-09-20-wallis-3.jpg" alt="The bisse takes water from one mountain creek to the next with little gates along the way. The water rights are strictly regulated." />
-        <img loading="lazy" src="2025-09-20-wallis-4.jpg" alt="The last ascent before reaching la Tièche shows the water digging itself in, with side arms adding more water." />
-        <img loading="lazy" src="2025-09-20-wallis-5.jpg" alt="The water creates a little canyon and the walkway is right along side it." /></p>
-        
-        <p>When we reached la Tièche, the world opens up again.</p>
-        
-        <p><img loading="lazy" src="2025-09-20-wallis-6.jpg" alt="The waterbed is full of white stones in a dry-green meadow with mountains on all sides." />
-        <img loading="lazy" src="2025-09-20-wallis-7.jpg" alt="Claudia and I, with hats and sunglasses." />
-        <img loading="lazy" src="2025-09-20-wallis-8.jpg" alt="The autumn crocus is on its way out but occasionally we still saw some beautiful specimens (olchicum autumnale)." /></p>
-        
-        <p><video src="/wiki/2025-09-20-wallis-12.mp4" poster="2025-09-20-wallis-12.jpg" alt="Panorama" width="720" height="1280" controls muted></p>
-        
-        <p>We walked back along the <em>route de alpage</em>. The first alp is Merdechon.</p>
-        
-        <p><img loading="lazy" src="2025-09-20-wallis-9.jpg" alt="Claudia waving from a rock that makes her seem taller than the mountains in the back." />
-        <img loading="lazy" src="2025-09-20-wallis-10.jpg" alt="Epilobium angustifolium, flowers nearly gone, in front of a mountain panorama." /></p>
-        
-        <p><video src="/wiki/2025-09-20-wallis-13.mp4" poster="2025-09-20-wallis-13.jpg" alt="Panorama" width="720" height="1280" controls muted></p>
-        
-        <p><img loading="lazy" src="2025-09-20-wallis-11.jpg" alt="It&rsquo;s getting late and we&rsquo;re walking through the skiing pistes in late summer. It feels strange to see the infrastructure standing here, uselessly." /></p>
-        
-        <p>We did see and hear a marmot. 😍</p>
-        
-        <p><a class="tag" href="/search/?q=%23Valais">#Valais</a> <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-09-20-wallis</guid>
     </item>    <item>
       <title>Up North and Down South</title>
       <link>https://statusq.org/archives/2025/09/20/13319/</link>
@@ -5255,7 +5448,7 @@
       <description>
         <![CDATA[A recording from Paul Krugman and Joseph Gordon-Levitt's live video]]>
       </description>
-      <enclosure url="https://api.substack.com/feed/podcast/173211370/262281e85fac55b7dec89865834e865a.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://api.substack.com/feed/podcast/173211370/1f236ec976efaf2bdeafe58b20bab286.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://paulkrugman.substack.com/p/re-money-and-creativity-with-paul</guid>
     </item>    <item>
       <title>Without looking it up, what&#38;#8217;s the longest single-syllable English word you can...</title>
@@ -10051,153 +10244,6 @@
         His presentation is on Thursday, September 4 at 10:55am.</p>]]>
       </description>
       <guid>cid://https://www.redox-os.org/news/this-month-250831/</guid>
-    </item>    <item>
-      <title>18,000 Waters</title>
-      <link>https://feed.tedium.co/link/15204/17130374/ai-safety-fast-food-lessons</link>
-      <description>
-        <![CDATA[One of the many issues with AI is one of responsibility—guardrails seem to take a backseat to growth. AI-enabled fast food drive-thrus shouldn’t have better backstops than ChatGPT, yet they do.]]>
-      </description>
-      <guid>cid://https://tedium.co/2025/08/30/ai-safety-fast-food-lessons/</guid>
-    </item>    <item>
-      <title>August 29, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-29-2025-8bc</link>
-      <enclosure url="https://api.substack.com/feed/podcast/172359188/0b636946a96345391f98d7d15f811303.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-29-2025-8bc</guid>
-    </item>    <item>
-      <title>Finished reading The Black Echo</title>
-      <link>https://www.mollywhite.net/reading/books?search=The%20Black%20Echo</link>
-      <guid>cid://68b3741c278e3be47057e970</guid>
-    </item>    <item>
-      <title>A Small Request to the Goodwill Folks</title>
-      <link>https://doc.searls.com/2025/08/30/a-small-request-to-the-goodwill-folks/</link>
-      <description>
-        <![CDATA[Please find pricing labels that stick well enough to do their job, and the customer can get off without too much work. Thanks! P.S. In an unrelated matter, Grammarly suggested rewriting that second sentence this way: Please find pricing labels that adhere well enough to perform their intended function, yet can be easily removed by [&#8230;]]]>
-      </description>
-      <guid>cid://https://doc.searls.com/?p=19354</guid>
-    </item>    <item>
-      <title>The Occupation of America | Coffee Klatch for Saturday, August 30, 2025</title>
-      <link>https://robertreich.substack.com/p/the-occupation-of-america-coffee</link>
-      <description>
-        <![CDATA[With Heather Lofthouse and Yours Truly, Robert Reich]]>
-      </description>
-      <enclosure url="https://api.substack.com/feed/podcast/172093325/89dd314c57d7149738fc5babe036f7f0.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-occupation-of-america-coffee</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115118601224591318</link>
-      <description>
-        <![CDATA[<p>Halp! I want to charge my phone but the plug and cable are 6ft away and I'm comfy! <a href="https://tilde.zone/tags/whine" class="mention hashtag" rel="tag">#<span>whine</span></a></p>]]>
-      </description>
-      <guid>cid://https://tilde.zone/@tomasino/115118601224591318</guid>
-    </item>    <item>
-      <title>Notable Improvements to Coding Intelligence in Xcode 26 Beta 7</title>
-      <link>https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42191</guid>
-    </item>    <item>
-      <title>Read &#34;House Republicans Want To Doxx Wikipedia Editors Over Bogus &#39;Bias&#39; Complaints&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=House%20Republicans%20Want%20To%20Doxx%20Wikipedia%20Editors%20Over%20Bogus%20&#39;Bias&#39;%20Complaints</link>
-      <guid>cid://68b3146ff900932e3006d863</guid>
-    </item>    <item>
-      <title>Updates to Extensions for Nova editor</title>
-      <link>https://blog.gingerbeardman.com/2025/08/30/updates-to-my-extensions-for-nova-editor/</link>
-      <description>
-        <![CDATA[<p>In late 2024, I spent some time improving my tools by <a href="/2024/10/17/extensions-for-nova-editor/">building a set of extensions for Nova editor</a> to streamline some time-consuming tasks I encounter during blogging and game development.</p>
-        
-        <p class="tofigure"><img src="https://cdn.gingerbeardman.com/images/posts/nova-extensions.png" alt="IMG" title="My current list of extensions for Nova editor" /></p>
-        
-        <hr />
-        
-        <p>This week, I released major updates to many of them with enhancements and new features:</p>
-        
-        <h2 id="bookmarks">Bookmarks</h2>
-        
-        <ul>
-          <li><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.Bookmarks/">Version 2.0.0</a></li>
-          <li>Adds sorting, the ability to bookmark folders, marking of missing items, and other improvements.</li>
-        </ul>
-        
-        <h2 id="markdown-file-linker">Markdown File Linker</h2>
-        
-        <ul>
-          <li><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.MarkdownFileLinker/">Version 2.0.0</a></li>
-          <li>Results in the choice palette are now sorted by default using dates found in filenames.</li>
-          <li>Along with other filtering improvements.</li>
-        </ul>
-        
-        <h2 id="unwrap-paragraph">Unwrap Paragraph</h2>
-        
-        <ul>
-          <li><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.unwraptext/">Version 2.0.0</a></li>
-          <li>You can now unwrap the text surrounding cursor, which removes some friction.</li>
-          <li>In selected text multiple paragraphs will be unwrapped individually.</li>
-        </ul>
-        
-        <h2 id="word-counter">Word Counter</h2>
-        
-        <ul>
-          <li><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.wordcounter/">Version 2.0.0</a></li>
-          <li>Watched words can be managed through the sidebar, added from selected text, or via typing.</li>
-        </ul>
-        
-        <h2 id="yaml-tag-picker">YAML Tag Picker</h2>
-        
-        <ul>
-          <li><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.YAMLTagPicker/">Version 2.0.0</a></li>
-          <li>You can quickly insert or update the creation/modified ISO date in your front matter.</li>
-        </ul>
-        
-        <hr />
-        
-        <p><em>Plus!</em> I also released a brand new extension:</p>
-        
-        <h2 id="csv-to-md-table">CSV to MD table</h2>
-        
-        <ul>
-          <li><a href="https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.csv2md/">Version 1.0.0</a></li>
-          <li>Convert tabular data between CSV/TSV and Markdown formats.</li>
-        </ul>]]>
-      </description>
-      <guid>cid://https://blog.gingerbeardman.com/2025/08/30/updates-to-my-extensions-for-nova-editor/</guid>
-    </item>    <item>
-      <title>Writing letters with &#60;code&#62;groff&#60;/code&#62; and an old printer</title>
-      <link>https://www.uninformativ.de/blog/postings/2025-08-30/0/POSTING-en.html</link>
-      <guid>cid://tag:uninformativ.de,2015-09-26:postings/2025-08-30/0/POSTING-en.html</guid>
-    </item>    <item>
-      <title>Programmers: you have to watch your weight, too</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/08/30/programmers_watch_your_weight/</link>
-      <description>
-        <![CDATA[<h4><span class="label">opinion</span> We are drowning in code, but at least some folks are swimming</h4>
-              <p>To fight the enshittification of software, the first step is to pinpoint why and how it happens. Some observers are trying to do that.</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241665</guid>
-    </item>    <item>
-      <title>Talking With Barry Eichengreen</title>
-      <link>https://paulkrugman.substack.com/p/talking-with-barry-eichengreen</link>
-      <description>
-        <![CDATA[Crises, the dollar and more]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!WUh0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc5e79de-1332-47b5-a2d5-0e7a3c9d2b43_1280x720.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/talking-with-barry-eichengreen</guid>
-    </item>    <item>
-      <title>August 29, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/august-29-2025</link>
-      <description>
-        <![CDATA[Chaos continues at the Centers for Disease Control and Prevention (CDC), where President Donald J.]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/august-29-2025</guid>
-    </item>    <item>
-      <title>Weeknotes: Aug. 23-29, 2025</title>
-      <link>https://tracydurnell.com/2025/08/29/weeknotes-aug-23-29-2025/</link>
-      <description>
-        <![CDATA[Win of the week: sharpened my big chef&#8217;s knife &#8212; took an hour and a half with the 400 grit to get the chips out, and another 45 minutes to put an edge on it with the 1000 grit &#8212; now I want to carry this knife around on a pillow so I never have [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=28788</guid>
-    </item>    <item>
-      <title>August</title>
-      <link>http://jirka.1-2-8.net/20250830-0240_August</link>
-      <description>
-        <![CDATA[Not much  computing in August.  I decided  to have ACTUAL  holidays. In last (many) years it was rather different. Few one-day trips but mostly being at work (or  working from home) all the time.  Not as actively as normally but working.]]>
-      </description>
-      <guid>cid://3e74679cd5dee27d393a09115e8ab0b2</guid>
     </item>
   </channel>
 </rss>
