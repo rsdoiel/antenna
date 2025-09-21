@@ -303,3 +303,5 @@ description: Blogs, columns and snapshots from around the web.
 - [SKKAW Blog](https://skkaw.blog/feed/)
 - [Barack Obama @Bsky](https://bsky.app/profile/did:plc:5c6cw3veuqruljoy5ahzerfx/rss "RSS from https://bsky.app/profile/barackobama.bsky.social")
 - [Nicolas Hoizey blog](https://nicolas-hoizey.com/feeds/)
+- [LitHub](https://lithub.com/feed/)
+- [Humourous Write Newsletter](https://buttondown.com/humorouswriting/rss)
