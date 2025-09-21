@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="antenna/0.0.6">
-  <meta name="date" content="2025-09-21T06:08:49-07:00">
+  <meta name="date" content="2025-09-21T15:00:08-07:00">
 </head>
 <body>
   <header>
@@ -37,6 +37,28 @@
 
     <div class="article-filter">Filter by date: <input id="filter-by-date" type="date"></div>
   <section>
+
+    <article data-published="2025-09-21T18:22:21Z" data-link="https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/">
+      <h1>Multikernel architecture proposed for Linux</h1>
+
+(date: 2025-09-21)
+      <p>
+      A very exciting set of kernel patches have just been proposed for the Linux kernel, adding multikernel support to Linux. This patch series introduces multikernel architecture support, enabling multiple independent kernel instances to coexist and communicate on a single physical machine. Each kernel instance can run on dedicated CPU cores while sharing the underlying hardware resources. ↫ Cong Wang on the LKML The idea is that you can run multiple instances of the Linux kernel on different CPU cores using kexec, with a dedicated IPI framework taking care of communication between these kernels. The benefits for fault isolation and security is obvious, and it supposedly uses less resources than running virtual machines through kvm and similar technologies. The main feature I&#8217;m interested in is that this would potentially allow for &#8220;kernel handover&#8221;, in which the system goes from using one kernel to the other. I wonder if this would make it possible to implement a system similar to what Android currently uses for updates, where new versions are installed alongside the one you&#8217;re running right now, with the system switching over to the new version upon reboot. If you could do something similar with this technology without even having to reboot, that would be quite amazing and a massive improvement to the update experience. It&#8217;s obviously just a proposal for now, and there will be much, much discussion to follow I&#8217;m sure, but the possibilities are definitely exciting.
+      <address>
+        <a href="https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/">https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-21T14:18:04Z" data-link="https://www.osnews.com/story/143393/history-of-the-gem-desktop-environment/">
+      <h1>History of the GEM desktop environment</h1>
+
+(date: 2025-09-21)
+      <p>
+      The 1980s saw a flurry of graphical user interfaces pop up, almost all of them in some way made by people who got to see the work done by Xerox. Today&#8217;s topic is no exception &#8211; GEM was developed by Lee Jay Lorenzen, who worked at Xerox and wished to create a cheaper, less resource-intensive alternative to the Xerox Star, which he got to do at DRI after leaving Xerox. His work was then shown off to Atari, who were interested in using it. The entire situation was pretty hectic for a while: DRI’s graphics group worked on the PC version of GEM on MS-DOS; Atari developers were porting it to Apple Lisas running CP/M-68K; and Loveman was building GEMDOS. Against all odds, they succeeded. The operating system for Atari ST consisting of GEM running on top of GEMDOS was named TOS which simply meant “the operating system”, although many believed “T” actually stood for “Tramiel”. Atari 520 ST, soon nicknamed “Jackintosh”,&#160;was introduced at the 1985 Consumer Electronics Show in Las Vegas&#160;and became an immediate hit. GEM ran smoothly on the powerful ST’s hardware, and there were no clones to worry about. Atari developed its branch of GEM independently of Digital Research until 1993, when the Atari ST line of computers was discontinued. ↫ Nemanja Trifunovic at Programming at the right level Other than through articles like these and the occasional virtual machine, I have no experience with the various failed graphical user interfaces of the 1980s, since I was too young at the time. Even from the current day, though, it&#8217;s easy to see how all of them can be traced back directly to the work done at Xerox, and just how much we owe to the people working there at the time. Now that the technology industry is as massive as it is, with the stakes being so high, it&#8217;s unlikely we&#8217;ll ever see a place like Xerox PARC ever again. Everything is secretive now, and if a line of research doesn&#8217;t obviously lead to massive short-term gains, it&#8217;s canned before it even starts. The golden age of wild, random computer research without a profit motive is clearly behind us, and that&#8217;s sad.
+      <address>
+        <a href="https://www.osnews.com/story/143393/history-of-the-gem-desktop-environment/">https://www.osnews.com/story/143393/history-of-the-gem-desktop-environment/</a>
+      </address>
+    </article>
 
     <article data-published="2025-09-21T08:20:12Z" data-link="https://go.theregister.com/feed/www.theregister.com/2025/09/21/windows_11_registry_hacks_regedit/">
       <h1>Make Windows 11 more useful and less annoying with these 11 Registry hacks</h1>

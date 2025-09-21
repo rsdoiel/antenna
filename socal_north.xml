@@ -4,16 +4,37 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>21 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 25 15:00 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
-      <title>Uncovering women&#39;s roles in LA historical landmarks, one building at a time</title>
-      <link>https://laist.com/news/los-angeles-activities/uncovering-womens-roles-in-la-historical-landmarks-one-building-at-a-time</link>
+      <title>Rally over Jimmy Kimmel ouster planned for Monday</title>
+      <link>https://laist.com/news/jimmy-kimmel-suspension-protest-monday</link>
       <description>
-        <![CDATA[Of the more than 1,300 Historic-Cultural Monuments designated since 1962, less than 2% recognize women's contributions. The new L.A. Women's Landmarks Project aims to amend that.]]>
+        <![CDATA[Organizers say the rally is held to defend free speech and against recent FCC actions.]]>
       </description>
-      <guid>cid://urn:uuid:00000199-5422-d6e8-adbf-772263100000</guid>
+      <guid>cid://urn:uuid:00000199-6d47-dcf5-a1f9-ff77fb9d0000</guid>
+    </item>    <item>
+      <title>5 lessons from this Hermosa Beach house that generates more energy than it uses</title>
+      <link>https://laist.com/news/climate-environment/lessons-from-a-house-that-generates-more-energy-than-it-uses</link>
+      <description>
+        <![CDATA[Robert Fortunato's Green Idea House is one of the first net-zero energy case study houses built for less cost than standard construction.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-6832-dbf4-a9fd-7af383bd0000</guid>
+    </item>    <item>
+      <title>MAGA movement bids farewell to Charlie Kirk as memorial service kicks off in Arizona</title>
+      <link>https://laist.com/news/maga-movement-will-bid-farewell-to-charlie-kirk-with-a-hometown-funeral-in-arizona</link>
+      <description>
+        <![CDATA[Tens of thousands are gathering in Glendale, Arizona, for Charlie Kirk's funeral. President Trump and senior White House officials are expected to deliver remarks.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-6cf1-de23-aff9-fcf33cc80000</guid>
+    </item>    <item>
+      <title>California unions are pouring more money than ever into CalPERS elections. Here’s why</title>
+      <link>https://laist.com/news/politics/california-unions-calpers-elections-spending</link>
+      <description>
+        <![CDATA[California unions are at odds and spending heavily in an election at CalPERS, the pension fund that provides retirement benefits to 2 million people.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-67f7-dbf4-a9fd-77f797630000</guid>
     </item>    <item>
       <title>Dust off your spikes: A &#39;Mad Max&#39; inspired festival is happening in the Mojave Desert</title>
       <link>https://laist.com/news/los-angeles-activities/dust-off-your-spikes-a-mad-max-inspired-festival-is-happening-in-the-mojave-desert</link>
@@ -21,6 +42,13 @@
         <![CDATA[Wasteland Weekend is all about souped-up rust buckets, spikey costumes and an ‘ideal apocalypse.’]]>
       </description>
       <guid>cid://urn:uuid:00000199-630a-d418-abb9-674af8f20000</guid>
+    </item>    <item>
+      <title>Uncovering women&#39;s roles in LA historical landmarks, one building at a time</title>
+      <link>https://laist.com/news/los-angeles-activities/uncovering-womens-roles-in-la-historical-landmarks-one-building-at-a-time</link>
+      <description>
+        <![CDATA[Of the more than 1,300 Historic-Cultural Monuments designated since 1962, less than 2% recognize women's contributions. The new L.A. Women's Landmarks Project aims to amend that.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-5422-d6e8-adbf-772263100000</guid>
     </item>    <item>
       <title>An interstellar object is passing through our solar system. This UC program says to stay calm and carry on</title>
       <link>https://laist.com/news/climate-environment/an-interstellar-object-is-passing-through-our-solar-system-this-uc-program-says-to-stay-calm-and-carry-on</link>
@@ -42,6 +70,13 @@
         <![CDATA[The Pentagon is implementing new guidelines that will require journalists to sign a pledge and agree to report only approved and officially released information.]]>
       </description>
       <guid>cid://urn:uuid:00000199-6959-dc4a-a1bd-6fddd0630000</guid>
+    </item>    <item>
+      <title>Newsom signs laws to resist Trump’s immigration crackdown, including ICE mask ban</title>
+      <link>https://laist.com/news/newsom-signs-laws-to-resist-trumps-immigration-crackdown-mask-ban</link>
+      <description>
+        <![CDATA[Gov. Newsom signed laws meant to protect immigrants during President Trump’s extensive deportation program. Some of the measures raise constitutional questions and likely will be challenged.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-689f-d418-abb9-6cdf78af0000</guid>
     </item>    <item>
       <title>Newsom signs laws to resist Trump’s immigration crackdown</title>
       <link>https://laist.com/news/newsom-signs-laws-to-resist-trumps-immigration-crackdown</link>
@@ -93,7 +128,7 @@
       </description>
       <guid>cid://urn:uuid:00000199-36e6-d635-a9fd-7ee6b0f60000</guid>
     </item>    <item>
-      <title>As Monrovia’s iconic Aztec Hotel turns 100, here’s why this ‘bad luck’ inn is so unusual</title>
+      <title>As Monrovia’s iconic Aztec Hotel turns 100. Why this ‘bad luck’ inn is so unusual</title>
       <link>https://laist.com/news/los-angeles-activities/monrovia-aztec-hotel-history-mayan-architecture</link>
       <description>
         <![CDATA[The building opened in 1925 with a lot of fanfare, but it’s faced a lot of ups and downs since.]]>
@@ -241,6 +276,13 @@
       </description>
       <guid>cid://urn:uuid:00000199-5eb0-d3e0-a5bd-fffdd7440000</guid>
     </item>    <item>
+      <title>This artist’s hand-drawn calendars capture a disappearing Los Angeles</title>
+      <link>https://laist.com/news/los-angeles-activities/nib-geebles-calendar-40-years-gordon-henderson-los-angeles-artist</link>
+      <description>
+        <![CDATA[In 1985, Nib Geebles needed a last-minute Christmas gift. Now he’s been making calendars for 40 years.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-5f06-d43d-a7df-df1ea6b40000</guid>
+    </item>    <item>
       <title>What is Norm Day? And why is it so frustrating for parents and students?</title>
       <link>https://laist.com/news/education/norm-day-los-angeles-unified-lausd-teachers-student-ratio-explained</link>
       <description>
@@ -254,13 +296,6 @@
         <![CDATA[European-style beers are being paired with Japanese ingredients like matcha and yuzu to create unique pours.]]>
       </description>
       <guid>cid://urn:uuid:00000199-5dd4-db15-a999-5fdf1dcf0000</guid>
-    </item>    <item>
-      <title>This local artist’s calendars capture a disappearing Los Angeles</title>
-      <link>https://laist.com/news/los-angeles-activities/nib-geebles-calendar-40-years-gordon-henderson-los-angeles-artist</link>
-      <description>
-        <![CDATA[In 1985, Nib Geebles needed a last-minute Christmas gift. Now he’s been making calendars for 40 years.]]>
-      </description>
-      <guid>cid://urn:uuid:00000199-5f06-d43d-a7df-df1ea6b40000</guid>
     </item>    <item>
       <title>Moles La Tía is back after six years — and East LA is eating again</title>
       <link>https://laist.com/news/food/moles-la-tia-returns-east-los-angeles-restaurant</link>
@@ -368,7 +403,7 @@
       </description>
       <guid>cid://urn:uuid:00000199-5e06-de46-a5db-df063c1a0000</guid>
     </item>    <item>
-      <title>New exhibit &#39;Looks Delicious!&#39; explores Japan’s hyper-realistic food replica culture</title>
+      <title>New exhibit explores Japan’s hyper-realistic food replica culture</title>
       <link>https://laist.com/news/food/new-exhibit-explores-japan-hyper-realistic-food-replica-culture</link>
       <description>
         <![CDATA[Japan House in Hollywood invites Angelenos to eat with their eyes.]]>
