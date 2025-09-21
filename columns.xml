@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>21 Sep 25 15:00 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 25 16:07 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,30 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzeyfybc7k2k</link>
+      <description>
+        <![CDATA[I think you are correct 👇
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzeyfybc7k2k</guid>
+    </item>    <item>
+      <title>Sunday night session</title>
+      <link>https://adactio.com/notes/22144</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22144/small.jpg" srcset="https://adactio.com/images/uploaded/22144/medium.jpg 1.5x, https://adactio.com/images/uploaded/22144/large.jpg 2.5x" alt="Sunday night session" />
+        <p>Sunday night session</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22144</guid>
+    </item>    <item>
+      <title>Sunday caption contest: Free speech?</title>
+      <link>https://robertreich.substack.com/p/sunday-caption-contest-free-speech</link>
+      <description>
+        <![CDATA[And last week&#8217;s winner]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Tiha!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb045679-676a-404e-adc4-26feccf606f6_3500x2289.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/sunday-caption-contest-free-speech</guid>
     </item>    <item>
       <title>Newsboat 2.41 is out</title>
       <link>https://newsboat.org/releases/2.41/docs/newsboat.html</link>
