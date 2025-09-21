@@ -4,10 +4,17 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Sep 25 15:00 -0700</lastBuildDate>
+    <lastBuildDate>21 Sep 25 16:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Firewall upgrade linked to three deaths after Australian telco cut off emergency calls</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/21/optus_emergency_call_incident/</link>
+      <description>
+        <![CDATA[<h4>Optus was unaware network changes caused a problem, and ignored some customer complaints</h4> <p>Australian telco Optus says its staff may not have followed established processes when a firewall upgrade they conducted resulted in customers not being able to call emergency emergency services for fourteen hours – a period during which it is thought three of the carrier’s customers died after trying to seek help, according to the company&#39;s CEO.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242033</guid>
+    </item>    <item>
       <title>Multikernel architecture proposed for Linux</title>
       <link>https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/</link>
       <description>
