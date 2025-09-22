@@ -4,10 +4,66 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Sep 25 10:47 -0700</lastBuildDate>
+    <lastBuildDate>22 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Ig Nobel Prizes Honor Fingernails, Painted Cows and Cacio e Pepe in a Celebration of Strange Science</title>
+      <link>https://www.smithsonianmag.com/smart-news/ig-nobel-prizes-honor-fingernails-painted-cows-and-cacio-e-pepe-in-a-celebration-of-strange-science-180987381/</link>
+      <description>
+        <![CDATA[Ten research projects earned awards for achievements that have made people "laugh, then think"]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/EHlNPrOP_21HrPmmJm5o1VV0p2E=/420x240/filters:focal(2775x1850:2776x1851)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/85/5c/855c2c35-108f-4609-898e-224e10e6100d/ap25261828763522.jpg" length="" type="" />
+    </item>    <item>
+      <title>Celebrate the 50th Anniversary of Steven Spielberg&#39;s &#39;Jaws&#39; With This Sprawling Exhibition at the Academy Museum</title>
+      <link>https://www.smithsonianmag.com/smart-news/celebrate-the-50th-anniversary-of-steven-spielbergs-jaws-with-this-sprawling-exhibition-at-the-academy-museum-180987358/</link>
+      <description>
+        <![CDATA[Visitors will learn about the making of the beloved summer blockbuster through more than 200 props, costumes, recreated sets and annotated script pages]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/vbQ0DU2oaxp4FPdox5yMI6EP3js=/420x240/filters:focal(1095x741:1096x742)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ad/e0/ade0be56-b6ac-4ae2-83b4-d8635df9f1aa/screenshot_2025-09-17_at_101407am.jpeg" length="" type="" />
+    </item>    <item>
+      <title>Yes, Redox can run on some smartphones</title>
+      <link>https://www.osnews.com/story/143404/yes-redox-can-run-on-some-smartphones/</link>
+      <description>
+        <![CDATA[I had the pleasure of going to RustConf 2025 in Seattle this year. During the conference, I met lots of new people, but in particular, I had the pleasure of spending a large portion of the conference hanging out with Jeremy Soller of Redox and System76. Eventually, we got chatting about EFI and bootloaders, and my contributions to&#160;PostmarketOS, and my experience booting EFI-based operating systems (Linux) on smartphones using&#160;U-Boot.&#160;Redox OS&#160;is also booted via EFI, and so the nerdsnipe began. Could I run Redox OS on my smartphone the same way I could run PostmarketOS Linux? Spoilers, yes. ↫ Paul Sajna The hoops required to get this to work are, unsurprisingly, quite daunting, but it turns out it&#8217;s entirely possible to run the ARM build of Redox on a Qualcomm-based smartphone. The big caveat here is that there&#8217;s not much you can actually do with it, because among the various missing drivers is the one for touch input, so once you arrive at Redox&#8217; login screen, you can&#8217;t go any further. Still, it&#8217;s quite impressive, and highlights both the amazing work done on the PostmarketOS/Linux side, as well as the Redox side.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143404</guid>
+    </item>    <item>
+      <title>Don&#39;t panic: H-1B visas will cost companies $100K only for new petitions</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/h1b_visa_changes/</link>
+      <description>
+        <![CDATA[<h4>However, the changes could lead to more offshoring</h4> <p>In a surprise announcement on Friday, President Trump issued a proclamation on the H-1B visas many tech companies use to import qualified foreign workers. The headlines mentioning a $100,000 fee caused panic among many visa holders, leading the White House to issue a clarification: Only new applicants will cost their companies this exorbitant price.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242054</guid>
+    </item>    <item>
+      <title>Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads</title>
+      <link>https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/</link>
+      <description>
+        <![CDATA[Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads Missions to the Moon and Mars pose nutritional challenges for astronauts. Now, a new paper on space-grown food iMissions to the Moon and Mars pose nutritional challenges for astronauts, but volunteers from NASA’s Open Science Data Repository Analysis Working Groups (OSDR-AWG) are working together to […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/</guid>
+    </item>    <item>
+      <title>This Shipwreck Eluded Searchers for 139 Years. A Group of Historians and Citizen Scientists Found It in Two Hours</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-shipwreck-eluded-searchers-for-139-years-a-group-of-historians-and-citizen-scientists-found-it-in-two-hours-180987362/</link>
+      <description>
+        <![CDATA[The 144-foot-long "F.J. King," which sank in Lake Michigan in 1886, was known as a "ghost ship" that nobody could locate]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/o5ghXR60cHVYaYF5d9OmtqYie50=/420x240/filters:focal(2784x2439:2785x2440)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/60/f9602c86-c15a-4b8d-adaf-a86894bbdda1/60714-original-gopr9720a.jpg" length="" type="" />
+    </item>    <item>
+      <title>Fish Are Spawning in the Chicago River, Another Sign the Once-Contaminated Waterway Is Rebounding</title>
+      <link>https://www.smithsonianmag.com/smart-news/fish-are-spawning-in-the-chicago-river-another-sign-the-once-contaminated-waterway-is-rebounding-180987376/</link>
+      <description>
+        <![CDATA[A new study suggests at least 24 species of fish are reproducing in the urban river, adding to the evidence that it is getting cleaner and healthier]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/9vk_AV1YYqOtW5Cm8pZSlYWYwPA=/420x240/filters:focal(4344x2896:4345x2897)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/83/bf/83bf62bd-5dba-43a1-bfcd-11d237fefbd5/brh_5931.jpg" length="" type="" />
+    </item>    <item>
+      <title>Cops cuff another teen over alleged Scattered Spider attack that broke Vegas casinos</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/teen_cuffed_scattered_spider_casino/</link>
+      <description>
+        <![CDATA[<h4>Not old enough to drink, old enough to be accused of causing millions in damage</h4> <p>A teen surrendered to Las Vegas police and was booked on suspicion of breaking into multiple Las Vegas casino networks in 2023, as part of a series of hacks attributed to Scattered Spider.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242053</guid>
+    </item>    <item>
       <title>You can now test drive Fedora 43 and Ubuntu 25.10</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/fedora_ubuntu_betas/</link>
       <description>
@@ -53,7 +109,7 @@
       <title>RubyGems maintainer quits after Ruby Central takes control of project</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/ruby_central_rubygems/</link>
       <description>
-        <![CDATA[<h4>Long-time contributor Ellen Davis steps down after GitHub access shake-up and governance dispute</h4> <p>A decade-long RubyGems maintainer, Ellen Davis (also known as duckinator), has resigned from Ruby Central following what she described as a &#34;hostile takeover&#34; of the open source project.…</p>]]>
+        <![CDATA[<h4>Long-time contributor Ellen Dash steps down after GitHub access shake-up and governance dispute</h4> <p>A decade-long RubyGems maintainer, Ellen Dash (also known as duckinator), has resigned from Ruby Central following what she described as a &#34;hostile takeover&#34; of the open source project.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242044</guid>
     </item>    <item>
@@ -197,6 +253,23 @@
       </description>
       <guid>cid://tag:theregister.com,2005:story242033</guid>
     </item>    <item>
+      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
+      <link>https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/</link>
+      <description>
+        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84444</guid>
+    </item>    <item>
+      <title>Shortwave App Now Available</title>
+      <link>https://puri.sm/posts/shortwave-app-now-available/</link>
+      <description>
+        <![CDATA[<p>Shortwave is an internet radio player that provides access to a station database with over 50,000 stations. </p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/shortwave-app-now-available/">Shortwave App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <enclosure url="https://videos.puri.sm/librem5/apps/shortwave.mp4" length="5036912" type="video/mp4" />
+      <guid>cid://https://puri.sm/?p=84397</guid>
+    </item>    <item>
       <title>Multikernel architecture proposed for Linux</title>
       <link>https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/</link>
       <description>
@@ -322,14 +395,6 @@
         <![CDATA[A new analysis finds that 30,000 more Americans are expected to die from wildfire-smoke exposure annually by 2050]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/Mpw0DNMX6A4bS5ayAuamW_RJm-4=/420x240/filters:focal(608x461:609x462)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c4/0a/c40a105b-746d-4f84-8e42-5a06653f0e8a/full.png" length="" type="" />
-    </item>    <item>
-      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
-      <link>https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/</link>
-      <description>
-        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
-        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
-      </description>
-      <guid>cid://https://puri.sm/?p=84444</guid>
     </item>    <item>
       <title>Freedom by Design: Why Purism Rejects Big IT Status Quo</title>
       <link>https://puri.sm/posts/freedom-by-design-why-purism-rejects-big-it-status-quo/</link>

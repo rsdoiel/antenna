@@ -4,10 +4,24 @@
   <channel>
     <title>Food</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>22 Sep 25 10:46 -0700</lastBuildDate>
+    <lastBuildDate>22 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>How to Boil Potatoes Perfectly: Timing and Salting Secrets</title>
+      <link>https://www.bonappetit.com/story/how-to-boil-any-potato-article</link>
+      <description>
+        <![CDATA[Two keys to perfectly boiled potatoes: time and salt. (Like, a lot of salt.)]]>
+      </description>
+      <guid>cid://5d0c35ab9fc7e6df0823d327</guid>
+    </item>    <item>
+      <title>Alex Bala’s Maple Brown Butter Pound Cake</title>
+      <link>https://www.tasteofhome.com/recipes/alex-bala-maple-brown-butter-pound-cake/</link>
+      <description>
+        <![CDATA[This maple brown butter pound cake is rich, nutty and perfectly moist. The maple adds cozy sweetness, and a drizzle of cream cheese frosting makes every bite even better than the first! It's a simple yet impressive cake for any occasion. —Alex Bala, Longmont, Colorado]]>
+      </description>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2185556</guid>
+    </item>    <item>
       <title>Tyler Smith’s Barbecue Smash Tacos</title>
       <link>https://www.tasteofhome.com/recipes/tyler-smith-barbecue-smash-tacos/</link>
       <description>
@@ -174,6 +188,13 @@
         <![CDATA[<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Coffee Sprudgecast is available wherever you get your podcasts.]]>
       </description>
       <guid>cid://https://sprudge.com/?p=427294</guid>
+    </item>    <item>
+      <title>Sweet Potato Sugar Cookie Delight</title>
+      <link>https://www.tasteofhome.com/recipes/sweet-potato-sugar-cookie-delight/</link>
+      <description>
+        <![CDATA[This sweet potato sugar cookie delight recipe layers a dessert-like sweet potato filling on top of a sugar cookie slab and a graham cracker crust for the perfect fall treat.]]>
+      </description>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2184277</guid>
     </item>    <item>
       <title>Hot Honey</title>
       <link>https://www.tasteofhome.com/recipes/hot-honey-recipe/</link>

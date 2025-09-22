@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="css/site.css" />
   <script type="module" src="modules/date_filter.js"></script>
   <meta name="generator" content="antenna/0.0.6">
-  <meta name="date" content="2025-09-22T10:46:58-07:00">
+  <meta name="date" content="2025-09-22T15:09:35-07:00">
 </head>
 <body>
   <header>
@@ -57,6 +57,300 @@ Click on the <strong>Slides</strong> button above to view the built-in slides fe
 <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>
       <address>
         <a href="https://notes.peter-baumgartner.net/event/example/">https://notes.peter-baumgartner.net/event/example/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T21:51:20Z" data-link="https://simonwillison.net/2025/Sep/22/qwen/#atom-everything">
+      <h1>Four new releases from Qwen</h1>
+
+(date: 2025-09-22)
+      <p>
+      <p>It's been an <em>extremely</em> busy day for team Qwen. Within the last 24 hours (all links to Twitter, which seems to be their preferred platform for these announcements):</p>
+<ul>
+<li><a href="https://twitter.com/Alibaba_Qwen/status/1970052154330353857">Qwen3-Next-80B-A3B-Instruct-FP8 and Qwen3-Next-80B-A3B-Thinking-FP8</a> - official FP8 quantized versions of their <a href="https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d">Qwen3-Next</a> models. On Hugging Face <a href="https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct/tree/main">Qwen3-Next-80B-A3B-Instruct</a> is 163GB and <a href="https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8/tree/main">Qwen3-Next-80B-A3B-Instruct-FP8</a> is 82.1GB. I wrote <a href="https://simonwillison.net/2025/Sep/12/qwen3-next/">about Qwen3-Next on Friday 12th September</a>.</li>
+<li><a href="https://twitter.com/Alibaba_Qwen/status/1970163551676592430">Qwen3-TTS-Flash</a> provides "multi-timbre, multi-lingual, and multi-dialect speech synthesis" according to <a href="https://qwen.ai/blog?id=b4264e11fb80b5e37350790121baf0a0f10daf82&amp;from=research.latest-advancements-list">their blog announcement</a>. It's not available as open weights, you have to access it via their API instead. Here's <a href="https://huggingface.co/spaces/Qwen/Qwen3-TTS-Demo">a free live demo</a>.</li>
+<li><a href="https://twitter.com/Alibaba_Qwen/status/1970181599133344172">Qwen3-Omni</a> is today's most exciting announcement: a brand new 30B parameter "omni" model supporting text, audio and video input and text and audio output! You can <a href="https://chat.qwen.ai/?models=qwen3-omni-flash">try it on chat.qwen.ai</a> by selecting the "Use voice and video chat" icon - you'll need to be signed in using Google or GitHub. This one <em>is</em> open weights, as Apache 2.0 Qwen3-Omni-30B-A3B-Instruct, Qwen/Qwen3-Omni-30B-A3B-Thinking, and Qwen3-Omni-30B-A3B-Captioner <a href="https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe">on HuggingFace</a>. That Instruct model is 70.5GB so this should be relatively accessible for running on expensive home devices.</li>
+<li><a href="https://twitter.com/Alibaba_Qwen/status/1970189775467647266">Qwen-Image-Edit-2509</a> is an updated version of their excellent Qwen-Image-Edit model which <a href="https://simonwillison.net/2025/Aug/19/qwen-image-edit/">I first tried last month</a>. Their <a href="https://qwen.ai/blog?id=7a90090115ee193ce6a7f619522771dd9696dd93&amp;from=research.latest-advancements-list">blog post</a> calls it "the monthly iteration of Qwen-Image-Edit" so I guess they're planning more frequent updates. The new model adds multi-image inputs. I <a href="https://chat.qwen.ai/s/c5f640da-8c36-4c95-98dd-878b47a6e759?fev=0.0.212">used it via chat.qwen.ai</a> to turn a photo of our dog into a dragon in the style of one of Natalie's ceramic pots.</li>
+</ul>
+<p><img alt="A photo of the back of a pottery stand at a local art fair. A blue dragon is asleep on a rug, wearing a dog harness, with striking turquoise scales." src="https://static.simonwillison.net/static/2025/qwen-dragon.jpg" /></p>
+<p>Here's the prompt I used, feeding in two separate images. Weirdly it used the edges of the landscape photo to fill in the gaps on the otherwise portrait output. It turned the chair seat into a bowl too!</p>
+<p><img alt="A photo of a dog asleep on a rug at the pottery stand. Another photo of a very attractive ceramic pot with turquoise glaze. The prompt: edit the photo of the sleeping dog to turn her into a sleeping dragon with scales like this glazed bowl" src="https://static.simonwillison.net/static/2025/qwen-dragon-input.jpg" /></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/text-to-speech">text-to-speech</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/multi-modal-output">multi-modal-output</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/22/qwen/#atom-everything">https://simonwillison.net/2025/Sep/22/qwen/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T21:42:00Z" data-link="http://scripting.com/2025/09/22/214200.html?title=thisBlogHasAMessage">
+      <h1>This blog has a message</h1>
+
+(date: 2025-09-22)
+      <p>
+      <p>I have a plan for how to bootstrap WordLand 0.8.</p>
+<p>First I will introduce you to a new way to read my blog. </p>
+<p>It will be a timeline of items posted to many of the feeds I keep. </p>
+<ul>
+<li>daveverse</li>
+<li>Great art on Bluesky (daily version)</li>
+<li>links.daveverse.org</li>
+<li>Scripting News</li>
+<li>Scripting News podcast</li>
+<li>WordCamp Canada 2025</li>
+</ul>
+<p>Some people read my stuff and not the rest of it. There is no one place where you can get All-of-Dave. </p>
+<p>But it's a lot of it, and it's reality. We haven't yet set things up so we do all our writing in one place and that can flow in to many different contexts.</p>
+<ul>
+<li>A great example would have been Substack. I wanted to hook up a feed to their newsletter publishing system. But you can't do that. So I ended up writing my own newsletter system. What a pain in the butt, and totally contrary to the way the web works. This is simmering debate in our world, what is the web? I think if you can't plug your output into their input, it's not the web. </li>
+</ul>
+<p>Anyway... so instead of going to scripting.com, you'll go to this other place, on an experimental basis. If you don't like it, all the individual feeds are still where they are now, in their own web space. You can read daveverse on Mastodon or WordPress. Great art is on Bluesky. The linkblog is all over the place. The podcast is on your podcast player. And my posts on WordCamp Canada are on their site, and they promote the stuff nicely, so you may pick it up on other places. </p>
+<p>What each of these have in common is that each has an RSS feed that supports rssCloud. So updates flow instantaneously.</p>
+<p>Now here's the fun part. You may read something and you're just dying to comment. Or quote what I've said. The kinds of things you do on twitter-like systems. </p>
+<p>You will be able to do that. The editor is right there. One click away while you're reading. I didn't invent this flow, Twitter did, and we're all copying it. </p>
+<p>But now where the other guys store your tweets in their space, not here -- you write them in your space and we'll connect them in a million different ways. </p>
+<p>This, my friends, is how the web wants social media to work. </p>
+<p>PS: My timeline as a FeedLand-compatible <a href="https://feedland.social/opml?screenname=davewiner&catname=daveverse">reading list</a>.</p>
+
+      <address>
+        <a href="http://scripting.com/2025/09/22/214200.html?title=thisBlogHasAMessage">http://scripting.com/2025/09/22/214200.html?title=thisBlogHasAMessage</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T21:35:24Z" data-link="https://kottke.org/25/09/the-trailer-for-the-mandalorian-and-grogu">
+      <h1> The Trailer for The Mandalorian and Grogu </h1>
+
+(date: 2025-09-22)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/the-trailer-for-the-mandalorian-and-grogu">https://kottke.org/25/09/the-trailer-for-the-mandalorian-and-grogu</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T21:09:13Z" data-link="https://www.popsci.com/science/21-grams-experiment/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-22)
+      <p>
+      <p>The 21 grams experiment that tried to weigh a human soul.</p>
+      <address>
+        <a href="https://www.popsci.com/science/21-grams-experiment/">https://www.popsci.com/science/21-grams-experiment/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T20:45:00Z" data-link="https://om.co/2025/09/22/go-out-get-some-air/">
+      <h1>Go Out & Get Some Air</h1>
+
+(date: 2025-09-22)
+      <p>
+      Over the weekend, I got a surprise package from the folks at Apple: a review unit of the iPhone Air. I don&#8217;t tend to get smitten by something so quickly, but the &#8220;Air&#8221; is really up there. It&#8217;s so thin you think a strong gust of air&#160;could&#160;really blow it away from your hands. (These puns &#8230;
+      <address>
+        <a href="https://om.co/2025/09/22/go-out-get-some-air/">https://om.co/2025/09/22/go-out-get-some-air/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T20:35:35Z" data-link="https://kottke.org/25/09/super-mario-bros-remastered">
+      <h1> Super Mario Bros. Remastered </h1>
+
+(date: 2025-09-22)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/super-mario-bros-remastered">https://kottke.org/25/09/super-mario-bros-remastered</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T20:25:12Z" data-link="https://mjtsai.com/blog/2025/09/22/amazon-to-end-inventory-commingling/">
+      <h1>Amazon to End Inventory Commingling</h1>
+
+(date: 2025-09-22)
+      <p>
+      Allison Smith (via Hacker News): Amazon revealed at its annual Accelerate seller conference in Seattle that it is shutting down its long-running &#8220;commingling&#8221; program &#8212; a move that drew louder applause from sellers than any other update of the morning.The decision marks the end of a controversial practice in which Amazon pooled identical items from [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/22/amazon-to-end-inventory-commingling/">https://mjtsai.com/blog/2025/09/22/amazon-to-end-inventory-commingling/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T20:25:04Z" data-link="https://mjtsai.com/blog/2025/09/22/tahoe-filevault-icloud-keychain-and-ssh/">
+      <h1>Tahoe FileVault: iCloud Keychain and SSH</h1>
+
+(date: 2025-09-22)
+      <p>
+      Glenn Fleishman: When setting up FileVault, you used to be presented with two choices:View the Recovery Key, write it down, and keep it safe. It&#8217;s never presented again. (But as long as you can log in, you can toggle FileVault and get a new key.)Use your iCloud account to store the key in escrow. However, [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/22/tahoe-filevault-icloud-keychain-and-ssh/">https://mjtsai.com/blog/2025/09/22/tahoe-filevault-icloud-keychain-and-ssh/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T20:24:54Z" data-link="https://mjtsai.com/blog/2025/09/22/vimeo-acquired/">
+      <h1>Vimeo Acquired</h1>
+
+(date: 2025-09-22)
+      <p>
+      Jamie Lang (Hacker News): Vimeo, once the internet&#8217;s most prestigious stage for independent filmmakers and animators, is being acquired by Milan-based app developer Bending Spoons in a $1.38 billion all-cash deal. The sale, expected to close later this year, will end Vimeo&#8217;s turbulent run as a public company.[&#8230;]Bending Spoons CEO Luca Ferrari promised &#8220;ambitious investments&#8221; [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/22/vimeo-acquired/">https://mjtsai.com/blog/2025/09/22/vimeo-acquired/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T20:24:46Z" data-link="https://mjtsai.com/blog/2025/09/22/marsedit-5-3-7/">
+      <h1>MarsEdit 5.3.7</h1>
+
+(date: 2025-09-22)
+      <p>
+      MarsEdit 5.3.5: Fix a crash when opening the main window or document sidebars on macOS 26 My sympathies. &#8220;Duplicate Post&#8221; can now be invoked to duplicate more than one selected post This feature also works much better in general, being smarter about how it handles the post&#8217;s metadata. I appreciate the quick 5.3.6 and 5.3.7 [&#8230;]
+      <address>
+        <a href="https://mjtsai.com/blog/2025/09/22/marsedit-5-3-7/">https://mjtsai.com/blog/2025/09/22/marsedit-5-3-7/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T19:53:02Z" data-link="https://kottke.org/25/09/0047555-lahaina-noon-aka-zero-sha">
+      <h1> Lāhainā Noon (aka zero shadow day) occurs twice a year in the... </h1>
+
+(date: 2025-09-22)
+      <p>
+      
+      <address>
+        <a href="https://kottke.org/25/09/0047555-lahaina-noon-aka-zero-sha">https://kottke.org/25/09/0047555-lahaina-noon-aka-zero-sha</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T19:45:22Z" data-link="https://www.dailykos.com/story/2025/9/22/2344882/-Trump-uses-Kirk-s-death-to-silence-critics-and-voters-aren-t-pleased?pm_campaign=blog&pm_medium=rss&pm_source=">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-22)
+      <p>
+      <p>Trump uses Kirk's death to silence critics—and voters aren't pleased. He blew his wad too soon. He probably isn't a good poker player either.</p>
+      <address>
+        <a href="https://www.dailykos.com/story/2025/9/22/2344882/-Trump-uses-Kirk-s-death-to-silence-critics-and-voters-aren-t-pleased?pm_campaign=blog&pm_medium=rss&pm_source=">https://www.dailykos.com/story/2025/9/22/2344882/-Trump-uses-Kirk-s-death-to-silence-critics-and-voters-aren-t-pleased?pm_campaign=blog&pm_medium=rss&pm_source=</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T19:45:21Z" data-link="https://heathercoxrichardson.substack.com/p/september-21-2025-c35">
+      <h1>September 21, 2025</h1>
+
+(date: 2025-09-22)
+      <p>
+      
+      <address>
+        <a href="https://heathercoxrichardson.substack.com/p/september-21-2025-c35">https://heathercoxrichardson.substack.com/p/september-21-2025-c35</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T19:44:52Z" data-link="https://simonwillison.net/2025/Sep/22/compilebench/#atom-everything">
+      <h1>CompileBench: Can AI Compile 22-year-old Code?</h1>
+
+(date: 2025-09-22)
+      <p>
+      <p><strong><a href="https://quesma.com/blog/introducing-compilebench/">CompileBench: Can AI Compile 22-year-old Code?</a></strong></p>
+Interesting new LLM benchmark from Piotr Grabowski and Piotr Migdał: how well can different models handle compilation challenges such as cross-compiling <code>gucr</code> for ARM64 architecture?</p>
+<p>This is one of my favorite applications of coding agent tools like Claude Code or Codex CLI: I no longer fear working through convoluted build processes for software I'm unfamiliar with because I'm confident an LLM will be able to brute-force figure out how to do it.</p>
+<p>The benchmark on <a href="https://www.compilebench.com/">compilebench.com</a> currently show Claude Opus 4.1 Thinking in the lead, as the only model to solve 100% of problems (allowing three attempts). Claude Sonnet 4 Thinking and GPT-5 high both score 93%. The highest open weight model scores are DeepSeek 3.1 and Kimi K2 0905, both at 80%.</p>
+<p>This chart showing performance against cost helps demonstrate the excellent value for money provided by GPT-5-mini:</p>
+<p><img alt="A scatter plot showing AI model performance on tasks completed (%) versus total cost across tasks (USD, log scale). GPT-5-mini-high is highlighted, cost 27 cents and 80% score, making it the cheapest model to score at least 80%. The vertical axis ranges from 45% to 100% tasks completed, and the horizontal axis ranges from $0.02 to $20. A blue line marks the Pareto frontier. Low-cost models (left side): GPT-4.1-mini (~67%), Grok code-fast-1 (~72%), Gemini 2.5-flash (~58%), GPT-OSS 120b-high (~59%), and Gemini-2.5 flash-thinking (~50%). Mid-range models (~$0.1–$2): GPT-5 minimal (~79%), GPT-5 high (~86%), Qwen3 max (~62%), GPT-4.1 (~60%), DeepSeek-v3.1 (~82%), GLM 4.5 (~70%), and Kimi k2-0905 (~82%). High-cost models (&gt;$5): Claude-Sonnet 4-thinking-16k (~87%) and Claude-Opus 4.1-thinking-16k (~99%). Overall, GPT-5 high and Claude models dominate the top-right, while budget models like GPT-4.1-mini and Grok code-fast-1 balance lower cost with moderate performance." src="https://static.simonwillison.net/static/2025/compilebench-pareto.jpg" /></p>
+<p>The Gemini 2.5 family does surprisingly badly solving just 60% of the problems. The benchmark authors note that:</p>
+<blockquote>
+<p>When designing the benchmark we kept our benchmark harness and prompts minimal, avoiding model-specific tweaks. It is possible that Google models could perform better with a harness or prompt specifically hand-tuned for them, but this is against our principles in this benchmark.</p>
+</blockquote>
+<p>The harness itself is <a href="https://github.com/QuesmaOrg/CompileBench">available on GitHub</a>. It's written in Go - I had a poke around and found their core agentic loop in <a href="https://github.com/QuesmaOrg/CompileBench/blob/main/bench/agent.go">bench/agent.go</a> - it builds on top of the OpenAI Go library and defines <a href="https://github.com/QuesmaOrg/CompileBench/blob/aa0f29a58651a6dc9e42928699bd04912aa90ac0/bench/agent.go#L232-L252">a single tool</a> called <code>run_terminal_cmd</code>, described as "Execute a terminal command inside a bash shell".</p>
+<p>The system prompts live in <a href="https://github.com/QuesmaOrg/CompileBench/blob/main/bench/container/environment.go">bench/container/environment.go</a> and differ based on the operating system of the container. Here's <a href="https://github.com/QuesmaOrg/CompileBench/blob/aa0f29a58651a6dc9e42928699bd04912aa90ac0/bench/container/environment.go#L20-L33">the system prompt</a> for <code>ubuntu-22.04-amd64</code>:</p>
+<blockquote>
+<p>You are a package-building specialist operating a Ubuntu 22.04 bash shell via one tool: run_terminal_cmd.
+The current working directory of every run_terminal_cmd is /home/peter.</p>
+<p>Execution rules:</p>
+<ul>
+<li>Always pass non-interactive flags for any command that could prompt (e.g., <code>-y</code>, <code>--yes</code>, <code>DEBIAN_FRONTEND=noninteractive</code>).</li>
+<li>Don't include any newlines in the command.</li>
+<li>You can use sudo.</li>
+</ul>
+<p>If you encounter any errors or issues while doing the user's request, you must fix them and continue the task.
+At the end verify you did the user request correctly.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45332814">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>
+      <address>
+        <a href="https://simonwillison.net/2025/Sep/22/compilebench/#atom-everything">https://simonwillison.net/2025/Sep/22/compilebench/#atom-everything</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T19:38:43Z" data-link="https://canada.wordcamp.org/2025/the-medium-is-the-blog/">
+      <h1>@Dave Winer's linkblog</h1>
+
+(date: 2025-09-22)
+      <p>
+      <p>WordCamp Canada: The blog is the message.</p>
+      <address>
+        <a href="https://canada.wordcamp.org/2025/the-medium-is-the-blog/">https://canada.wordcamp.org/2025/the-medium-is-the-blog/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T19:22:18Z" data-link="https://lithub.com/a-new-annual-award-seeks-to-uplift-the-next-generation-of-disabled-writers/">
+      <h1>A new annual award seeks to uplift the “next generation of disabled writers.”</h1>
+
+(date: 2025-09-22)
+      <p>
+      Today, on his 65th birthday, poet and memoirist Kenny Fries has announced the inaugural winner of a new annual award, the Kenny Fries Disabled Writer Literary Award, which &#8220;seeks to provide visibility to the next generation of disabled and/or Deaf writers.&#8221; “As a ‘pioneer’ of Disability Literature, as I age I’ve become increasingly concerned about [&#8230;]
+      <address>
+        <a href="https://lithub.com/a-new-annual-award-seeks-to-uplift-the-next-generation-of-disabled-writers/">https://lithub.com/a-new-annual-award-seeks-to-uplift-the-next-generation-of-disabled-writers/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T18:56:59Z" data-link="http://scripting.com/2025/09/22.html#a185659">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-09-22)
+      <p>
+      I’ve been writing about the rebirth of WordPress in <a href="https://iconick.io/cool-kids/">similar terms</a>, <a href="https://daytona.scripting.com/search?q=wordpress">on my blog</a>, in <a href="https://www.google.com/search?q=site%3Ashownotes.scripting.com+wordpress&rlz=1C5CHFA_enUS743US747&oq=site%3Ashownotes.scripting.com+wordpress">podcasts</a>, hoping people would listen. WordPress is a lot more than people think. We can have <a href="https://iconick.io/cool-kids/">all this</a>, a lot sooner than you think.
+
+      <address>
+        <a href="http://scripting.com/2025/09/22.html#a185659">http://scripting.com/2025/09/22.html#a185659</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T18:48:14Z" data-link="http://scripting.com/2025/09/22.html#a184814">
+      <h1>@Dave Winer's Scripting News</h1>
+
+(date: 2025-09-22)
+      <p>
+      <a href="https://github.com/scripting/feedlandSocket/blob/main/worknotes.md#92225-100532-am-by-dw">Updates</a> to the feedlandSocket <a href="https://socketdemo.feedland.org/">demo app</a>.
+      <address>
+        <a href="http://scripting.com/2025/09/22.html#a184814">http://scripting.com/2025/09/22.html#a184814</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T18:05:29Z" data-link="https://lithub.com/federal-troops-are-trampling-business-at-d-c-bookstores/">
+      <h1>Federal troops are trampling business at D.C. bookstores.</h1>
+
+(date: 2025-09-22)
+      <p>
+      Loyalty Bookstore, in the northwest D.C. neighborhood of Petworth, has experienced a downturn in sales since federal jackboots hit the capitol pavement, as NBC&#8217;s News4 recently reported. The bookstore, which according to their website “aim[s] to bring the best diverse books and events to our community” and “center Black, PoC, and Queer voices,&#8221; experienced a [&#8230;]
+      <address>
+        <a href="https://lithub.com/federal-troops-are-trampling-business-at-d-c-bookstores/">https://lithub.com/federal-troops-are-trampling-business-at-d-c-bookstores/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T17:38:56Z" data-link="https://garymarcus.substack.com/p/ai-red-lines-we-should-not-cross">
+      <h1>AI red lines</h1>
+
+(date: 2025-09-22)
+      <p>
+      &#8220;We urge governments to reach an international agreement on red lines for AI &#8212; ensuring they are operational, with robust enforcement mechanisms &#8212; by the end of 2026.&#8221;
+      <address>
+        <a href="https://garymarcus.substack.com/p/ai-red-lines-we-should-not-cross">https://garymarcus.substack.com/p/ai-red-lines-we-should-not-cross</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-22T17:30:00Z" data-link="https://antonz.org/multi/">
+      <h1>Native threading and multiprocessing in Go</h1>
+
+(date: 2025-09-22)
+      <p>
+      Exploring unconventional ways to handle concurrency.
+      <address>
+        <a href="https://antonz.org/multi/">https://antonz.org/multi/</a>
       </address>
     </article>
 
@@ -642,6 +936,32 @@ Handy new iOS app by Adrien Grondin for running local LLMs on your phone. It jus
       And last week&#8217;s winner
       <address>
         <a href="https://robertreich.substack.com/p/sunday-caption-contest-free-speech">https://robertreich.substack.com/p/sunday-caption-contest-free-speech</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-21T21:07:44Z" data-link="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">
+      <h1>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</h1>
+
+(date: 2025-09-21)
+      <p>
+      <p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+
+      <address>
+        <a href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/</a>
+      </address>
+    </article>
+
+    <article data-published="2025-09-21T21:04:38Z" data-link="https://puri.sm/posts/shortwave-app-now-available/">
+      <h1>Shortwave App Now Available</h1>
+
+(date: 2025-09-21)
+      <p>
+      <p>Shortwave is an internet radio player that provides access to a station database with over 50,000 stations. </p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/shortwave-app-now-available/">Shortwave App Now Available</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+
+      <address>
+        <a href="https://puri.sm/posts/shortwave-app-now-available/">https://puri.sm/posts/shortwave-app-now-available/</a>
       </address>
     </article>
 
@@ -1981,19 +2301,6 @@ Abi Raghuram reports that Notion 3.0, <a href="https://www.notion.com/blog/intro
       <p>Russian warplanes breach NATO airspace in ‘dangerous provocation’ over Estonia.</p>
       <address>
         <a href="https://www.politico.eu/article/russian-fighter-jets-breach-estonian-airspace-near-tallinn/">https://www.politico.eu/article/russian-fighter-jets-breach-estonian-airspace-near-tallinn/</a>
-      </address>
-    </article>
-
-    <article data-published="2025-09-19T17:07:44Z" data-link="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">
-      <h1>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</h1>
-
-(date: 2025-09-19)
-      <p>
-      <p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
-<p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
-
-      <address>
-        <a href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/</a>
       </address>
     </article>
 
