@@ -4,10 +4,108 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>22 Sep 25 10:47 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>You can now test drive Fedora 43 and Ubuntu 25.10</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/fedora_ubuntu_betas/</link>
+      <description>
+        <![CDATA[<h4>Spooky season is nearly here. Want to be scared? There are fresh betas to try</h4> <p>Two of the biggest names in fixed-release distros are nearly finished and ready to drop. You can taste them now, but they&#39;re not fully baked yet.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242045</guid>
+    </item>    <item>
+      <title>IC Stars</title>
+      <link>https://www.nasa.gov/image-article/ic-stars/</link>
+      <description>
+        <![CDATA[Data from NASA’s Chandra X-ray Observatory and NASA’s James Webb Space Telescope combine to reveal an otherworldly view of the star-forming region IC 348. In this image released on July 23, 2025, X-rays from Chandra are red, green, and blue, while infrared data from Webb are pink, orange, and purple. The wispy structures that dominate [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=916731</guid>
+    </item>    <item>
+      <title>Two heads better than one? Oracle gives the co-CEO model another shot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/oracle_leadership_changes/</link>
+      <description>
+        <![CDATA[<h4>Cloud and apps chiefs step up as Safra Catz moves upstairs. Larry remains Larry</h4> <p>Oracle on Monday named Clay Magouyrk and Mike Sicilia as its new co-chief executives, replacing Safra Catz, who will shift into the role of executive vice chair of the board after more than a decade as top dog.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242049</guid>
+    </item>    <item>
+      <title>NASA panel fears a Starship lunar touchdown is more fantasy than flight plan</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/nasa_starship_artemis_doubts/</link>
+      <description>
+        <![CDATA[<h4>Safety watchdog doubts SpaceX can ready HLS in time for 2027 Artemis mission</h4> <p>NASA&#39;s Aerospace Safety Advisory Panel (ASAP) has cast doubt on SpaceX&#39;s Starship making the 2027 Artemis III lunar landing deadline.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242048</guid>
+    </item>    <item>
+      <title>La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense</title>
+      <link>https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/</link>
+      <description>
+        <![CDATA[Read this press release in English&#160;here. Diez nuevos candidatos a astronauta de la NASA fueron presentados el lunes tras un competitivo proceso de selección en el que participaron más de 8.000 aspirantes de todo Estados Unidos. Ahora, la nueva clase completará casi dos años de formación antes de poder optar a asignaciones de vuelo en [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=917242</guid>
+    </item>    <item>
+      <title>NASA Selects All-American 2025 Class of Astronaut Candidates</title>
+      <link>https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/</link>
+      <description>
+        <![CDATA[Lee este comunicado de prensa en español&#160;aquí. NASA’s 10 new astronaut candidates were introduced Monday following a competitive selection process of more than 8,000 applicants from across the United States. The class now will complete nearly two years of training before becoming eligible for flight assignments supporting future science and exploration missions to low Earth [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=917226</guid>
+    </item>    <item>
+      <title>RubyGems maintainer quits after Ruby Central takes control of project</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/ruby_central_rubygems/</link>
+      <description>
+        <![CDATA[<h4>Long-time contributor Ellen Davis steps down after GitHub access shake-up and governance dispute</h4> <p>A decade-long RubyGems maintainer, Ellen Davis (also known as duckinator), has resigned from Ruby Central following what she described as a &#34;hostile takeover&#34; of the open source project.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242044</guid>
+    </item>    <item>
+      <title>MV 950 Toy: an emulator of the Metrovick 950, the first commercial transistor computer</title>
+      <link>https://www.osnews.com/story/143402/mv-950-toy-an-emulator-of-the-metrovick-950-the-first-commercial-transistor-computer/</link>
+      <description>
+        <![CDATA[After researching the first commercial transistor computer, the British Metrovick 950, Nina Kalinina wrote an emulator, simple assembler, and some additional &#8220;toys&#8221; (her word) so we can enjoy this machine today. First, what, exactly, is the Metrovick 950? Metrovick 950, the first commercial transistor computer, is an early British computer, released in 1956. It is a direct descendant of the Manchester Baby (1948), the first electronic stored-program computer ever. ↫ Nina Kalinina The Baby, formally known as Small-Scale Experimental Machine, was a foundation for the Manchester Mark I (1949). Mark I found commercial success as the Ferranti Mark I. A few years later, Manchester University built a variant of Mark I that used magnetic drum memory instead of Williams tubes and transistors instead of valves. This computer was called the Manchester Transistor Computer (1955). Engineers from Metropolitan-Vickers released a streamlined, somewhat simplified version of the Transistor Computer as Metrovick 950. The emulator she developed is &#8220;only&#8221; compatible on a source code level, and emulates &#8220;the CPU, a teleprinter with a paper tape punch/reader, a magnetic tape storage device, and a plotter&#8221;, at 200-300 operations per second. It&#8217;s complete enough you can play Lunar Lander on it, because is a computer you can&#8217;t play games on really a computer? Nina didn&#8217;t just create this emulator and its related components, but also wrote a ton of documentation to help you understand the machine and to get started. There&#8217;s an introduction to programming and using the Metrovick 950 emulator, additional notes on programming the emulator, and much more. She also posted a long thread on Fedi with a ton more details and background information, which is a great read, as well. This is amazing work, and interesting not just to programmers interested in ancient computers, but also to historians and people who really put the retro in retrocomputing.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143402</guid>
+    </item>    <item>
+      <title>Moody&#39;s raises Big Red flag over Oracle&#39;s AI datacenter buildout blueprint</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/moodys_raises_questions_over_oracles/</link>
+      <description>
+        <![CDATA[<h4>Ratings agency points out there&#39;s a risk of relying on a small number of buyers</h4> <p>Ratings agency Moody&#39;s has pointed to the dangers inherent in <a target="_blank" href="https://www.theregister.com/2025/09/11/openai_reportedly_on_the_hook/">Oracle&#39;s $300 billion agreement with OpenAI</a> - one of the deals contributing to a staggering $455 billion pipeline of obligations for Big Red&#39;s cloud infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242041</guid>
+    </item>    <item>
+      <title>A Simple Way To Measure Knots Has Come Unraveled</title>
+      <link>https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/</link>
+      <description>
+        <![CDATA[Two mathematicians have proved that a straightforward question — how hard is it to untie a knot? — has a complicated answer.            <p>The post <a href="https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/" target="_blank">A Simple Way To Measure Knots Has Come Unraveled</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
+      </description>
+      <guid>cid://https://www.quantamagazine.org/?p=155143</guid>
+    </item>    <item>
+      <title>Paleontologists Discover Earliest Known Dome-Headed Dinosaur in Excellent Condition, Shedding Light on Its Mysterious Anatomy</title>
+      <link>https://www.smithsonianmag.com/smart-news/paleontologists-discover-earliest-known-dome-headed-dinosaur-in-excellent-condition-shedding-light-on-its-mysterious-anatomy-180987367/</link>
+      <description>
+        <![CDATA[Most of what researchers previously knew about the iconic Cretaceous dinosaurs came from their domed heads, which endured better than the rest of their skeletons]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/n0j77rKrcqcHzZQ6ra2bKviK7v0=/420x240/filters:focal(960x494:961x495)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1e/d0/1ed00bca-48a3-483f-bb95-881b47925782/domed-dinosaur-pachycephalosaurs-headbutting-reconstruction-full-width-prjpgthumb19201920.png" length="" type="" />
+    </item>    <item>
+      <title>Researchers Just Developed a Tasty New Tomato Called the Scarlet Sunrise</title>
+      <link>https://www.smithsonianmag.com/smart-news/researchers-just-developed-a-tasty-new-tomato-called-the-scarlet-sunrise-180987355/</link>
+      <description>
+        <![CDATA[The snackable grape variety is the brainchild of scientists at Rutgers University, who have spent more than a decade trying to produce a firm, crack-resistant fruit with a vibrant reddish-yellow color]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/ouJUoCT7leePQoKjBaXpRB6d8K4=/420x240/filters:focal(400x230:401x231)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c5/50/c55036a9-3ba7-4ba2-ae67-6e763e3f80d5/nitzsche-cluster_promo.jpg" length="" type="" />
+    </item>    <item>
+      <title>Don&#39;t despair. iFixit says you can still repair that iPhone Air</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/ifixit_iphone_air/</link>
+      <description>
+        <![CDATA[<h4>Thinnest yet still fixable, though not without effort</h4> <p>iFixit has given Apple&#39;s slimline new smartphone, the iPhone Air, a thumbs-up for repairability, praising its easy access to key components, despite being the thinnest handset Cupertino has built so far.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242042</guid>
+    </item>    <item>
+      <title>EU’s cyber agency blames ransomware as Euro airport check-in chaos continues</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/eus_cyber_agency_confirms_ransomware/</link>
+      <description>
+        <![CDATA[<h4>Airport staff revert to manual ops as travellers urged to use self-service check-in where possible</h4> <p>The EU&#39;s cybersecurity agency today confirmed that ransonmware is the cause of continued disruption blighting major airports across Europe.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242039</guid>
+    </item>    <item>
       <title>Astronomers Say Earth Has a Newly Discovered &#39;Quasi-Moon,&#39; a Companion That Shares Its Orbit Around the Sun</title>
       <link>https://www.smithsonianmag.com/smart-news/astronomers-say-earth-has-a-newly-discovered-quasi-moon-a-companion-that-shares-its-orbit-around-the-sun-180987361/</link>
       <description>
