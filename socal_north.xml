@@ -4,10 +4,17 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>21 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>22 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Protected: 2025 California Men’s Service Challenge</title>
+      <link>https://www.californiavolunteers.ca.gov/2025-california-mens-service-challenge/</link>
+      <description>
+        <![CDATA[There is no excerpt because this is a protected post.]]>
+      </description>
+      <guid>cid://https://www.californiavolunteers.ca.gov/?p=84239</guid>
+    </item>    <item>
       <title>Rally over Jimmy Kimmel ouster planned for Monday</title>
       <link>https://laist.com/news/jimmy-kimmel-suspension-protest-monday</link>
       <description>
@@ -22,10 +29,10 @@
       </description>
       <guid>cid://urn:uuid:00000199-6832-dbf4-a9fd-7af383bd0000</guid>
     </item>    <item>
-      <title>MAGA movement bids farewell to Charlie Kirk at memorial service in Arizona</title>
+      <title>Trump calls Charlie Kirk &#39;martyr now for American freedom&#39; at memorial service</title>
       <link>https://laist.com/news/maga-movement-will-bid-farewell-to-charlie-kirk-with-a-hometown-funeral-in-arizona</link>
       <description>
-        <![CDATA[At a service that focused on Kirk's conservative Christian faith, President Trump described the late 31-year-old as the "greatest evangelist for American liberty" and a "martyr for American freedom."]]>
+        <![CDATA[At a service focused on Kirk's conservative Christian faith, President Trump described the late 31-year-old as the "greatest evangelist for American liberty" as Kirk's widow forgave the alleged gunman.]]>
       </description>
       <guid>cid://urn:uuid:00000199-6cf1-de23-aff9-fcf33cc80000</guid>
     </item>    <item>
@@ -1782,13 +1789,6 @@
         <p>The post <a href="https://santaclarita.gov/blog/2025/09/02/celebrate-william-s-hart-park-at-the-2025-state-of-the-city/">Celebrate William S. Hart Park at the 2025 State of the City</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>]]>
       </description>
       <guid>cid://https://santaclarita.gov/?p=6578</guid>
-    </item>    <item>
-      <title>A breakfast club in Griffith Park has been LA&#39;s best-kept secret for 100 years</title>
-      <link>https://laist.com/news/los-angeles-activities/los-angeles-breakfast-club-griffith-park-best-kept-secret</link>
-      <description>
-        <![CDATA[The club began as a way for the city’s rich and famous to share a meal and have fun.]]>
-      </description>
-      <guid>cid://urn:uuid:00000198-f1ed-d506-adbb-f3ede3350000</guid>
     </item>
   </channel>
 </rss>

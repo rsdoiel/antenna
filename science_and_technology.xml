@@ -4,14 +4,98 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>21 Sep 25 16:08 -0700</lastBuildDate>
+    <lastBuildDate>22 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Astronomers Say Earth Has a Newly Discovered &#39;Quasi-Moon,&#39; a Companion That Shares Its Orbit Around the Sun</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronomers-say-earth-has-a-newly-discovered-quasi-moon-a-companion-that-shares-its-orbit-around-the-sun-180987361/</link>
+      <description>
+        <![CDATA[Researchers are discussing 2025 PN7, a small celestial body that's following a similar orbital path to our planet's without being gravitationally tied to Earth]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dK8VD_oF0Q4wgTxworZwSy58COY=/420x240/filters:focal(960x539:961x540)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6c/23/6c2315bf-70e9-4be3-9817-bb3362b0fae2/iss066e099391large.jpg" length="" type="" />
+    </item>    <item>
+      <title>Windows 11 update leaves Blu-ray and TV apps stuttering</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/windows_11_bluray_stuttering/</link>
+      <description>
+        <![CDATA[<h4>Protected content in some Blu-ray and DVD applications broken</h4> <p>Microsoft has added another entry to its growing list of problematic updates in the Windows Hall of Shame, this time causing Digital TV and Blu-ray applications to stutter and freeze when playing protected content.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242040</guid>
+    </item>    <item>
+      <title>Car giant Stellantis says customer data nicked after partner vendor pwned</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/stellantis_breach/</link>
+      <description>
+        <![CDATA[<h4>Automaker insists only names and emails exposed, no financials</h4> <p>Car giant Stellantis is admitting that attackers targeted one of its third-party partners, spilling its own customers&#39; details in the process.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242038</guid>
+    </item>    <item>
+      <title>Brit scientists over the Moon after growing tea in lunar soil</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/moon_tea/</link>
+      <description>
+        <![CDATA[<h4>It&#39;s one small sip for man...</h4> <p>British boffins say they&#39;ve discovered a way of taking one of the country&#39;s favorite pastimes – having a nice cup of tea – into outer space.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242025</guid>
+    </item>    <item>
+      <title>Linux has the lineage to out-evolve the deadliest of cyber threats, given the right push</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/linux_has_the_lineage_to/</link>
+      <description>
+        <![CDATA[<h4>Darwin would understand microkernels. We need microkernels that understand Darwin.</h4> <p><strong>Opinion</strong>  The IT industry is not only full of sharks, it has shark nature itself. It must keep moving forward to survive. Not all sharks are obligate ram ventilators, and not all IT changes all the time, but without innovation the sector would curdle and die.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242017</guid>
+    </item>    <item>
+      <title>&#39;Technical debt&#39; in police database built to respond to child murders causing a &#39;failing service&#39;</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/police_database_built_to_respond/</link>
+      <description>
+        <![CDATA[<h4>Project rated at &#39;Red&#39; risk as it struggles to move off obsolete Oracle tech and cloud transition stalls</h4> <p>The risk rating of the UK&#39;s crime intelligence database is being elevated to &#34;Red&#34; by the governments projects&#39; watchdog as the DB struggles to migrate from a legacy Oracle platform.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242026</guid>
+    </item>    <item>
+      <title>FOMO? Brit banking biz rolls out AI tools, talks up security</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/lloyds_data_ai_deployment/</link>
+      <description>
+        <![CDATA[<h4>Lloyds Data and AI lead doesn&#39;t want devs downloading models from the likes of Hugging Face – too risky</h4> <p>Lloyds Banking Group is leaning into 21st century tech - yet trying to do so in a way that the data of its 28 million customers is kept away from untested AI models developers might be tempted to deploy.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242022</guid>
+    </item>    <item>
+      <title>Bored developers accidentally turned their watercooler into a bootleg brewery</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/who_me/</link>
+      <description>
+        <![CDATA[<h4>Revenge on managers who slow things down is a drink best served with floating fungus</h4> <p><strong>Who, Me?</strong>  The world of work can sometimes drive IT pros to drink, leaving them more likely to make the sort of mistakes that <i>The Register</i> celebrates each week in Who, Me? It’s our reader-contributed column in which you share stories of making a mess at work, and cleaning up afterwards to the best of your ability.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story241986</guid>
+    </item>    <item>
+      <title>Trump says Michael Dell is part of the team buying TikTok, with Larry Ellison and maybe some Murdochs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/dell_tiktok_acquisition_interest/</link>
+      <description>
+        <![CDATA[<h4><i>The Register</i> looks forward to learning more about a possible Dell hyperscale sovereign social SaaS platform</h4> <p>Dell CEO Michael Dell is part of the consortium that intends to acquire TikTok’s US operations, according to US president Donald Trump.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242037</guid>
+    </item>    <item>
+      <title>Tech troubles create aviation chaos on both sides of the Atlantic</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/technology_problems_cause_aviation_delays/</link>
+      <description>
+        <![CDATA[<h4>‘Cyber-attack’ on ticketing outfit Collins and cable cuts at Dallas ground hundreds of flights</h4> <p>Technology problems hit the commercial aviation industry hard over the weekend, leading to hundreds of cancelled flights and myriad delays on both sides of the Atlantic.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242036</guid>
+    </item>    <item>
+      <title>Huawei used its own silicon to re-educate DeepSeek so its output won’t bother Beijing</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/asia_tech_news_roundup/</link>
+      <description>
+        <![CDATA[<h4>PLUS: India ponders tax breaks for datacenters; Samsung plans hiring spree; Taliban bans fiber internet; and more</h4> <p><strong>Asia In Brief</strong>  Huawei last week revealed that China’s Zhejiang University used its Ascend 1000 accelerators to create a version of DeepSeek’s R1 model that improves on the original by producing fewer responses that China’s government would rather avoid.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242035</guid>
+    </item>    <item>
+      <title>Ransomware attack linked to museum break-in and theft of golden exhibits</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/infosec_in_brief/</link>
+      <description>
+        <![CDATA[<h4>PLUS: Luxury brands under fire; FBI warns crims are spoofing it again; ICE buys phone cracking software</h4> <p><strong>Infosec in brief</strong>  Online criminals prefer to deal in digital assets, but a side effect of a ransomware attack has seen a French museum robbed of $705,000 in physical gold nuggets.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242034</guid>
+    </item>    <item>
       <title>Firewall upgrade linked to three deaths after Australian telco cut off emergency calls</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/21/optus_emergency_call_incident/</link>
       <description>
-        <![CDATA[<h4>Optus was unaware network changes caused a problem, and ignored some customer complaints</h4> <p>Australian telco Optus says its staff may not have followed established processes when a firewall upgrade they conducted resulted in customers not being able to call emergency emergency services for fourteen hours – a period during which it is thought three of the carrier’s customers died after trying to seek help, according to the company&#39;s CEO.…</p>]]>
+        <![CDATA[<h4>Optus was unaware network changes caused a problem, and ignored some customer complaints</h4> <p>Australian telco Optus says its staff may not have followed established processes when a firewall upgrade they conducted resulted in customers not being able to call emergency services for 14 hours – a period during which it is thought three of the carrier’s customers died after trying to seek help, according to the company&#39;s CEO.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242033</guid>
     </item>    <item>
@@ -222,10 +306,10 @@
       </description>
       <guid>cid://tag:theregister.com,2005:story242021</guid>
     </item>    <item>
-      <title>Scattered Spider teen cuffed after buying games and meals with extortion bitcoin</title>
+      <title>Alleged Scattered Spider teen cuffed after extortion Bitcoin used to buy games, meals</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/19/scattered_spider_teen_cuffed/</link>
       <description>
-        <![CDATA[<h4>Bad opsec</h4> <p>Thalha Jubair, one of the two UK teens arrested on Tuesday and accused of being members of the notorious Scattered Spider cybercrime gang, allegedly played a role in bilking more than 100 organizations out of at least $115 million in ransom payments. The cops nabbed him after following a number of clues, including paying for gift cards from a wallet on the same server that also held wallets receiving extortion payments.…</p>]]>
+        <![CDATA[<h4>Feds say gift card splurges tied suspect to multimillion-dollar ransomware crew</h4> <p>Thalha Jubair, one of the two UK teens arrested on Tuesday and accused of being members of the notorious Scattered Spider cybercrime gang, allegedly played a role in bilking more than 100 organizations out of at least $115 million in ransom payments. Cops nabbed him after following a number of clues, including gift cards purchased from a cryptocurrency wallet on the same server that also held wallets receiving extortion payments.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242005</guid>
     </item>    <item>
