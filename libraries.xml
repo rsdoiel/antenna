@@ -4,7 +4,7 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>23 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -16,10 +16,18 @@
       </description>
       <guid>cid://https://scholarlykitchen.sspnet.org/?p=61001</guid>
     </item>    <item>
+      <title>The Jealousies of a Country Town, by Honoré de Balzac</title>
+      <link>https://standardebooks.org/ebooks/honore-de-balzac/the-jealousies-of-a-country-town/ellen-marriage</link>
+      <description>
+        <![CDATA[Two stories of the petty rivalries and resentments in a French provincial town.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/honore-de-balzac/the-jealousies-of-a-country-town/ellen-marriage/downloads/honore-de-balzac_the-jealousies-of-a-country-town_ellen-marriage.epub?source=feed" length="670291" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/honore-de-balzac/the-jealousies-of-a-country-town/ellen-marriage</guid>
+    </item>    <item>
       <title>Day in Review (September 22–25)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-22-25/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 22, 2025, 3:54 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 23 &#124; Wednesday, September 24 &#124; Thursday, September 25 Monday, September 22...</p>
+        <![CDATA[<p>Last Updated on September 23, 2025, 1:24 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 23 &#124; Wednesday, September 24 &#124; Thursday, September 25 Monday, September 22...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-22-25/">Day in Review (September 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=46068</guid>
@@ -279,7 +287,7 @@
       <title>ARL Celebrates Hispanic Heritage Month 2025</title>
       <link>https://www.arl.org/blog/arl-celebrates-hispanic-heritage-month-2025/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 19, 2025, 11:43 am ET Join us in honoring Hispanic Heritage Month (September 15–October 15). Below is a roundup of blog posts, exhibits, and other resources...</p>
+        <![CDATA[<p>Last Updated on September 23, 2025, 11:41 am ET Join us in honoring Hispanic Heritage Month (September 15–October 15). Below is a roundup of blog posts, exhibits, and other resources...</p>
         <p>The post <a href="https://www.arl.org/blog/arl-celebrates-hispanic-heritage-month-2025/">ARL Celebrates Hispanic Heritage Month 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=45954</guid>
@@ -424,7 +432,7 @@
       <description>
         <![CDATA[A woman struggles to save her friendships and her marriage when her difficult and melodramatic mother comes for an extended visit.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/c-kay-scott/blind-mice/downloads/c-kay-scott_blind-mice.epub?source=feed" length="775612" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/c-kay-scott/blind-mice/downloads/c-kay-scott_blind-mice.epub?source=feed" length="775610" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/c-kay-scott/blind-mice</guid>
     </item>    <item>
       <title>New Directions in Scholarly Publishing: What We’re Looking Forward to This Year</title>

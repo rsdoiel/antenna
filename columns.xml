@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,317 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Wild Cats, Bored Cats, Sleepy Cats</title>
+      <link>https://kottke.org/25/09/wild-cats-bored-cats-sleepy-cats</link>
+      <guid>cid://tag:kottke.org,2025://5.47567</guid>
+    </item>    <item>
+      <title>A tantalizing peek into the massive 90,000-item archive left behind by David...</title>
+      <link>https://kottke.org/25/09/0047565-a-tantalizing-peek-into-t</link>
+      <guid>cid://tag:kottke.org,2025://13.47565</guid>
+    </item>    <item>
+      <title>Rapid Security Responses Become Background Security Improvements</title>
+      <link>https://mjtsai.com/blog/2025/09/23/rapid-security-responses-become-background-security-improvements/</link>
+      <description>
+        <![CDATA[Mykola Grymalyuk (PDF, via Mr. Macintosh): The talk was a look into Apple&#8217;s Rapid Security Response system unveiled back at WWDC2022, discussing the design and challenges of the system. But Apple seemingly abandoned the system a year after its introduction. Filipe Esposito (Aaron): With iOS 26.1 beta 1, which was released to beta testers on [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49341</guid>
+    </item>    <item>
+      <title>Ruby Central Takes Over RubyGems</title>
+      <link>https://mjtsai.com/blog/2025/09/23/ruby-central-takes-over-rubygems/</link>
+      <description>
+        <![CDATA[Andr&#233; Arko (via Reddit): As chronicled by my teammate Ellen, the RubyGems team is no more. I wish the best of luck to everyone taking on the herculean task of keeping package management functional and working for the entire Ruby community. Ellen Dash (PDF, Lobsters): On September 9th, with no warning or communication, a RubyGems [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49339</guid>
+    </item>    <item>
+      <title>Images Corrupted When Importing to Photos.app</title>
+      <link>https://mjtsai.com/blog/2025/09/23/images-corrupted-when-importing-to-photos-app/</link>
+      <description>
+        <![CDATA[Aaron Patterson (via Hacker News): I&#8217;m pretty sure I&#8217;d been getting corrupted images for a while, but it would only be 1 or 2 images out of thousands, so I thought nothing of it (it was probably my fault anyway, right?)But the problem really got me upset when last year I went to a family [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49337</guid>
+    </item>    <item>
+      <title>Australian Court Finds iOS App Store Monopoly</title>
+      <link>https://mjtsai.com/blog/2025/09/23/australian-court-finds-ios-app-store-monopoly/</link>
+      <description>
+        <![CDATA[Juli Clover: Back in August, Australia&#8217;s federal court ruled that the Apple App Store had violated competition laws by prohibiting sideloading and alternative payment methods.At the time, the court had not shared a written judgment, but now the 900-page document has been published and additional information on the court&#8217;s decision is available. In a statement [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49335</guid>
+    </item>    <item>
+      <title>Carbon Dating: Cold War Nukes &#38; Art Forgeries</title>
+      <link>https://kottke.org/25/09/carbon-dating-cold-war-nukes-art-forgeries</link>
+      <guid>cid://tag:kottke.org,2025://5.47563</guid>
+    </item>    <item>
+      <title>Literary takeaways from the 2025 film festival circuit.</title>
+      <link>https://lithub.com/literary-takeaways-from-the-2025-film-festival-circuit/</link>
+      <description>
+        <![CDATA[Fall brings the end of the film festival circuit. It&#8217;s a time for cinephiles and film bros to rejoice and reflect. A time for Criterion Closet creeps and midnight movie goers to bust out their best merch, and make award predictions. Every year the slates at Cannes, Venice, Berlin, Toronto, Telluride, Busan, Sundance, and the [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260133</guid>
+    </item>    <item>
+      <title>Conservative White Christians Will Worship Anyone But Jesus. &#38;#8220;Seeing White Evangelicals build...</title>
+      <link>https://kottke.org/25/09/0047566-conservative-white-christ</link>
+      <guid>cid://tag:kottke.org,2025://13.47566</guid>
+    </item>    <item>
+      <title>Windows ML is generally available: Empowering developers to scale local AI across Windows devices</title>
+      <link>https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/</link>
+      <description>
+        <![CDATA[<p>The future of AI is hybrid, utilizing the respective strengths of cloud and client while harnessing every Windows device to achieve more. At Microsoft, we are reimagining what’s possible by bringing powerful AI compute directly to Windows devices, </p>
+        <p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/09/23/windows-ml-is-generally-available-empowering-developers-to-scale-local-ai-across-windows-devices/">Windows ML is generally available: Empowering developers to scale local AI across Windows devices</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>]]>
+      </description>
+      <guid>cid://https://blogs.windows.com/windowsdeveloper/?p=57575</guid>
+    </item>    <item>
+      <title>The Risks of NPM</title>
+      <link>https://blog.jim-nielsen.com/2025/npm-risks/</link>
+      <description>
+        <![CDATA[<p>There was a time when I could ask, “Did you see the latest NPM attack?” And your answer would be either “Yes” or “No”.</p>
+        <p>But now if I ask, “Did you see the latest NPM attack?” You’ll probably answer with a question of your own: “Which one?”</p>
+        <p>In this post, I’m talking about <a href="https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack" >the Qix incident</a>:</p>
+        <ul>
+        <li>Prolific maintainer Qix was phished.</li>
+        <li>Qix is a co-maintainer on many packages with Sindre Sorhus, the most popular maintainer on NPM (by download count).</li>
+        <li>Attackers pushed malicious code to packages that are indirectly depended by a huge portion of the ecosystem (hundreds of millions of downloads a week).</li>
+        </ul>
+        <p>When I first heard about it, I thought “Oh boy, better not <code>npm i</code> on the old personal machine for a little while.”</p>
+        <p>But as details began to emerge, I realized the exploit wasn’t targeting my computer. It was targeting the computers of people downstream from me: end users.</p>
+        <p>The malicious code didn’t do anything when running <code>npm install</code>. Instead, it laid there dormant, waiting to be bundled up alongside a website’s otherwise normal code and served to unsuspecting end users.</p>
+        <p>Maybe we should rename “bundlers” to “trojan horses”, lol.</p>
+        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/npm-attack-bundlers.jpg" width="600" height="325" alt="Graphic depicting many source assets on the left, like .js files, passing through a trojan horse in the middle and coming out as singular files on the right." data-og-image />
+        
+        </p><p>That’s all to say: you didn’t have to run <code>npm install</code> to be affected by this attack. You just had to visit a website whose code was sourced via <code>npm install</code>. (You needed a bitcoin wallet too, as that was the target of the exploit.)</p>
+        <p>It’s wild because browsers work really hard to make it safe to visit any webpage in the world — to do a GET to any URL. But attacks like this chip away at those efforts.</p>
+        <p>So while it’s easy to think NPM can be unsafe <em>for your computer</em> because running <code>npm install</code> allows running arbitrary code, that’s not the whole story. <code>npm install</code> can be unsafe for:</p>
+        <ul>
+        <li>Your computer (install time execution)<ul>
+        <li>Lifecycle scripts (<code>preinstall</code>, <code>install</code>, <code>postinstall</code>) allow running arbitrary code which can read/write files locally, steal keys and tokens, install malware, and otherwise exfiltrate data.</li>
+        </ul>
+        </li>
+        <li>Your dev/CI computer(s) (build time execution)<ul>
+        <li>Compilers, bundlers, transpilers, plugins, etc., can all execute arbitrary code and leak secrets, corrupt build artifacts, add hidden payloads, etc.</li>
+        </ul>
+        </li>
+        <li>Your application server (server runtime execution)<ul>
+        <li>Any dependency runs top-level in production and exposes risk to data exfiltration, unsafe privilege escalation, remote command execution, etc.</li>
+        </ul>
+        </li>
+        <li>Your users’ computers (client runtime execution)<ul>
+        <li>Bundled dependencies ship with your website, exposing your users to malicious code that runs in their browser and can exfiltrate data, insert hidden trackers/miners, etc.</li>
+        </ul>
+        </li>
+        </ul>
+        
+            <hr />
+            
+        
+            <p>
+              Reply via:
+              
+        
+              <a
+                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/npm-risks/"
+                >Email</a
+              >
+              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
+        
+              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
+            </p>]]>
+      </description>
+      <guid>cid://https://blog.jim-nielsen.com/2025/npm-risks/</guid>
+    </item>    <item>
+      <title>Here’s the 2025 Booker Prize shortlist.</title>
+      <link>https://lithub.com/heres-the-2025-booker-prize-shortlist/</link>
+      <description>
+        <![CDATA[Today, at a public event in London, the Booker Prizes announced their 2025 shortlist: six books narrowed down from the “Booker’s Dozen” (otherwise known as the longlist of 13), which was itself chosen from a starting pool of 153 books written in English and published between October 2024 and September 2025. Shortlisters are awarded £2,500 [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260158</guid>
+    </item>    <item>
+      <title>Beloved radical NYC bookstore Bluestockings announced they will be closing in 2025.</title>
+      <link>https://lithub.com/beloved-radical-nyc-bookstore-bluestockings-announced-they-will-be-closing-in-2025/</link>
+      <description>
+        <![CDATA[After over 26 years in operation on Manhattan’s Lower East Side, the radical, feminist bookshop and cafe Bluestockings is closing shop at the end of 2025. The announcement was made on their homepage, as well as on social media: View this post on Instagram A post shared by Bluestockings Cooperative (@bluestockingsnyc) The phrasing and vagueness [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260144</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115255002468288457</link>
+      <description>
+        <![CDATA[<p>This is just a lovely api, turning swift strongly typed APIs into safe SQL queries:</p><p><a href="https://swiftpackageindex.com/pointfreeco/swift-structured-queries/main/documentation/structuredqueriescore/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">swiftpackageindex.com/pointfre</span><span class="invisible">eco/swift-structured-queries/main/documentation/structuredqueriescore/</span></a></p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115255002468288457</guid>
+    </item>    <item>
+      <title>Didn&#38;#8217;t think I was interested in a profile of Dwayne &#38;#8220;The Rock&#38;#8221;...</title>
+      <link>https://kottke.org/25/09/0047564-didnt-think-i-was-interes</link>
+      <guid>cid://tag:kottke.org,2025://13.47564</guid>
+    </item>    <item>
+      <title>I&#38;#8217;m Heading to Japan. What Should I Do?</title>
+      <link>https://kottke.org/25/09/im-heading-to-japan-what-should-i-do</link>
+      <guid>cid://tag:kottke.org,2025://5.47562</guid>
+    </item>    <item>
+      <title>‘Jimmy Kimmel’s Suspension Is a Wake-Up Call’</title>
+      <link>https://politicalwire.com/2025/09/18/jimmy-kimmels-suspension-is-a-wake-up-call/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42220</guid>
+    </item>    <item>
+      <title>Ne Zha 2: el renacer del alma – la consolidación del espíritu</title>
+      <link>https://www.palomitademaiz.net/resenas-ne-zha-2/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-ne-zha-2</link>
+      <description>
+        <![CDATA[<p>Dirección: Yu Yang. Guion: Xixing Lu, Zhonglin Xu, Yu Yang. Elenco vocal: Yanting Lü, Joseph, Mo Han. País: China. Más información de la película: https://www.imdb.com/title/tt34956443 En la mitología china, Nezha ejemplifica la protección en la sociedad de oriente. Su leyenda, relacionada con la lealtad y el valor, prevalece en la actualidad, convirtiéndose en inspiración para [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-ne-zha-2/">Ne Zha 2: el renacer del alma – la consolidación del espíritu</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.palomitademaiz.net/?p=25550</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/09/23/what-is-web-continued/</link>
+      <description>
+        <![CDATA[<p>Some random ideas about what the web is that I've been jotting down to share on Daveverse, my home on Mastodon and WordPress.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/23/1207/</guid>
+    </item>    <item>
+      <title>September 22, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-22-2025-2d1</link>
+      <enclosure url="https://api.substack.com/feed/podcast/174353829/144e14e2025f945679ac68556c721011.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-22-2025-2d1</guid>
+    </item>    <item>
+      <title>McLuhan in header image</title>
+      <link>http://scripting.com/2025/09/23/154448.html?title=mcluhanInHeaderImage</link>
+      <description>
+        <![CDATA[<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/09/23/headerImageMcLuhan.png"></center><hr style="margin: 0; margin-bottom: 5px;">The new header image on <a href="http://scripting.com/">scripting.com</a> may be the best ever. </div></p>]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/23/154448.html</guid>
+    </item>    <item>
+      <title>AI ‘Workslop’ Is Killing Productivity and Making Workers Miserable</title>
+      <link>https://www.404media.co/ai-workslop-is-killing-productivity-and-making-workers-miserable/</link>
+      <description>
+        <![CDATA[AI slop is taking over workplaces. Workers said that they thought of their colleagues who filed low-quality AI work as "less creative, capable, and reliable than they did before receiving the output."]]>
+      </description>
+      <guid>cid://68d2be933ea956000140da11</guid>
+    </item>    <item>
+      <title>The 25 Greatest Picture Books of the Past 25 Years, including Extra...</title>
+      <link>https://kottke.org/25/09/0047561-the-25-greatest-picture-b</link>
+      <guid>cid://tag:kottke.org,2025://13.47561</guid>
+    </item>    <item>
+      <title>Can Erika Kirk turn the tide? And why Bob Iger lost the plot.</title>
+      <link>https://tinabrown.substack.com/p/can-erika-kirk-turn-the-tide-and</link>
+      <description>
+        <![CDATA[Whose words will live longer in the viral afterlife of the Charlie Kirk memorial?]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Ja5b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd6e07dc-77a3-4598-bb1d-c071566ec8c8_1024x683.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://tinabrown.substack.com/p/can-erika-kirk-turn-the-tide-and</guid>
+    </item>    <item>
+      <title>Why are we so obsessed (lately) with TV shows about dying media?</title>
+      <link>https://lithub.com/why-are-we-so-obsessed-lately-with-tv-shows-about-dying-media/</link>
+      <description>
+        <![CDATA[On Peacock, a new sitcom about a flatlining local paper is attempting to draw eyeballs back to the newsroom. (Of all places!) And last Monday, The Studio, an inside Hollywood baseball game, swept the comedic Emmy categories. While Hacks, its cool older sister, walked off with the major acting awards—just days before the real live [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259723</guid>
+    </item>    <item>
+      <title>I clearly had a good time at the Irish fleadh in Cáceres.</title>
+      <link>https://adactio.com/notes/22149</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22149/small.jpg" srcset="https://adactio.com/images/uploaded/22149/medium.jpg 1.5x, https://adactio.com/images/uploaded/22149/large.jpg 2.5x" alt="I clearly had a good time at the Irish fleadh in Cáceres." />
+        <p>I clearly had a good time at the Irish fleadh in Cáceres.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22149</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/23.html#a151348</link>
+      <description>
+        <![CDATA[It happened so slowly that we didn't notice but Twitter wiped out the idea of the <a href="https://daytona.scripting.com/search?q=%22web%20developer%22">web developer</a>. The platforms we were trying to make work together were programmed so they <i>couldn't</i> work together. As well-intentioned we may have been, it wasn't the web we were developing for. I know the term web developer has come to mean more than it means to me. But it's like saying someone is a Mac developer. A web developer creates apps for the web. Not for a specific service. For any service that supports the open formats that everyone else uses.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/23.html#a151348</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/barackobama.bsky.social/post/3lzj6iwyjsk2o</link>
+      <description>
+        <![CDATA[Michelle, Brian Chesky, and I launched the Voyager Scholarship at the @obamafoundation.bsky.social to provide the next generation of leaders with the tools they need to succeed and make an impact on their communities. Today we're thrilled to welcome the newest class of Obama-Chesky Voyagers.
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <guid>cid://at://did:plc:5c6cw3veuqruljoy5ahzerfx/app.bsky.feed.post/3lzj6iwyjsk2o</guid>
+    </item>    <item>
+      <title>Little, Big, and Far</title>
+      <link>https://kottke.org/25/09/little-big-and-far</link>
+      <guid>cid://tag:kottke.org,2025://5.47560</guid>
+    </item>    <item>
+      <title>The 2025 Ig Nobels</title>
+      <link>https://onefoottsunami.com/2025/09/23/the-2025-ig-nobels/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29187</guid>
+    </item>    <item>
+      <title>Purism Approach vs. Google Model</title>
+      <link>https://puri.sm/posts/purism-approach-vs-google-model/</link>
+      <description>
+        <![CDATA[<p>The Justice Department and a coalition of states are pursuing antitrust action against Google, accusing it of running monopolistic ad-tech systems that exploit users and lock out competition. Regulators are weighing remedies that could force structural changes to Google’s ad empire.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-approach-vs-google-model/">Purism Approach vs. Google Model</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84519</guid>
+    </item>    <item>
+      <title>2025-09-23 Israel. Genocide.</title>
+      <link>https://alexschroeder.ch/view/2025-09-22-israel</link>
+      <description>
+        <![CDATA[<h1 id="2025-09-23-israel-genocide">2025-09-23 Israel. Genocide.</h1>
+        
+        <p>I told myself: one post per month about Israel and Palestine is enough.</p>
+        
+        <p>So what&rsquo;s new? Nothing is new, it&rsquo;s just worse.</p>
+        
+        <blockquote>
+        <p>After the formal confirmation of famine by the Integrated Food Security Phase Classification (IPC), the humanitarian emergency has reached intolerable proportions, with an entire population facing starvation under siege as the Israeli military advances into Gaza City, which is overcrowded with more than a million displaced Palestinians. Three hundred and sixty-one Palestinians have died due to malnutrition, including 130 children. Thirteen of them, including 3 children, have died in the past 24 hours. &ndash; <a href="https://www.ohchr.org/en/press-releases/2025/09/gaza-un-experts-urge-general-assembly-respond-famine-and-genocide">Gaza: UN experts urge General Assembly to respond to famine and genocide</a></p>
+        </blockquote>
+        
+        <p>How long will it take Israel to crawl back from this shame? How many decades until we &ndash; the witnesses &ndash; forgive? How many decades until they &ndash; the descendants of the victims &ndash; forgive? And how long until the individuals forget?</p>
+        
+        <p>Every new generation will learn about this atrocity.
+        Some people don&rsquo;t understand that a boycott now is the mildest of the lukewarm reactions to the genocide.
+        What should instead happen is what all the signatories of the Genocide Convention have promised to do: <em>to prevent and punish actions of genocide in war and in peacetime.</em></p>
+        
+        <p>Where are they now? <a href="https://en.wikipedia.org/wiki/List_of_parties_to_the_Genocide_Convention">Wikipedia has a list of the parties</a>.
+        The <a href="https://en.wikipedia.org/wiki/Genocide_Convention">Genocide Convention</a> is an international treaty that <em>criminalises genocide and obligates state parties to pursue the enforcement of its prohibition</em>.</p>
+        
+        <p>Enforcement is more than boycott.</p>
+        
+        <p>Enforcement is more than <a href="https://en.wikipedia.org/wiki/Palestine_Action">Palestine Action</a>.</p>
+        
+        <p>Enforcement is also not something individuals do.</p>
+        
+        <p>The state parties are <em>obligated to enforce the prohibition of genocide</em>.</p>
+        
+        <p>For a very, very small sliver of hope, by individuals acting where state parties are failing, where direct action is criminalised, where calls for boycotts are attacked, where money sharks are pocking half the donations, is <a href="https://gaza-verified.org/">Gaza Verified</a>. Thanks, <a class="account" href="https://mastodon.social/@joynewacc" title="@joynewacc@mastodon.social">@joynewacc</a> and <a class="account" href="https://mastodon.ar.al/@aral" title="@aral@mastodon.ar.al">@aral</a>.</p>
+        
+        <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>]]>
+      </description>
+      <guid>cid://https://alexschroeder.ch/view/2025-09-22-israel</guid>
+    </item>    <item>
+      <title>The Kimmel Joke That Got Him Suspended Was Not About Charlie Kirk, It Was About Trump Being a Ghoul</title>
+      <link>https://www.cnn.com/2025/09/17/business/video/abc-jimmy-kimmel-fcc-charlie-kirk-digvid</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42219</guid>
+    </item>    <item>
+      <title>This morning&#38;#8217;s music selection while working: this 1h23m mix by German DJ/producer...</title>
+      <link>https://kottke.org/25/09/0047559-this-mornings-listen-whil</link>
+      <guid>cid://tag:kottke.org,2025://13.47559</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/23.html#a140014</link>
+      <description>
+        <![CDATA[Why <a href="https://textcasting.org/">textcasting</a>? When Twitter came out in 2006 they left out most of the writing features of the web. Their competitors copied the limits. Textcasting says writers don't want the limits. Add <a href="https://textcasting.org/">these features</a> to your twitter-like social network and we are happy and will sing your praise. That's it. It's no more complicated than that. People ask questions about what it means. This is what it means.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/23.html#a140014</guid>
+    </item>    <item>
+      <title>[Sponsor] Drata</title>
+      <link>http://drata.com/daring/?utm_source=Daring_Fireball&#38;utm_medium=display&#38;utm_campaign=18991230_fy26_comm_DG_COMM_&#38;utm_content=demo_request</link>
+      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42218</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/23.html#a133652</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="http://scripting.com/images/2019/09/11/tide.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I did a <a href="https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/">podcast interview</a> with <a href="https://pfefferle.dev/">Matthias Pfefferle</a> last week. I wanted to introduce my ideas to the Fediverse world. I haven't listened to it yet, but I remember it being a good discussion on basically all the things I am working on and with these days. It's all a continuation of what we were doing when we were so rudely interrupted by the silos, Twitter, Facebook, Bluesky and to a lesser extent Mastodon. I want to reform social media, go back to the beginning and let's ask the question -- what kind of social media does the web want? Start with the basics, and build a stack that performs like Twitter or Bluesky, but never veer from the standards of the web. Every component must be replaceable. Writers must have all the writing power of the web. <a href="https://en.wikipedia.org/wiki/Evan_Prodromou">Evan Prodromou</a> will be glad to hear that I am a huge fan of the role <a href="https://wordpress.org/plugins/activitypub/">ActivityPub</a> is playing in bringing the power of <a href="https://textcasting.org/">textcasting</a> to Mastodon. Matthias, my partner in this podcast episode has been working on this since 2008, and now we are reaping the benefit all the way up the stack in <a href="https://wordland.social/">WordLand</a>. See, that's what the web is about. Building and including. Without walls that keep competitors out and keep users in.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/23.html#a133652</guid>
+    </item>    <item>
+      <link>https://news.humatl.com/mets-pete-alonso-a-player-defined-by-power-and-character-mjnt/?utm_source=facebook&#38;fbclid=IwY2xjawM_gNFleHRuA2FlbQIxMABicmlkETFhRGc4WDgyZ04ycVR5cExDAR6Yj2NWhzon8y-TzXwfIIfsLE2Q9Afz3j5q2FkWLIDXVjVQ-OggQyvpQ70mgQ_aem_V9OjyipfhAxwVRNrAPNkRg</link>
+      <description>
+        <![CDATA[<p>Mets’ Pete Alonso: A Player Defined By Power And Character.</p>]]>
+      </description>
+      <guid>cid://https://links.daveverse.org/2025/09/23/1205/</guid>
+    </item>    <item>
+      <title>Florida Sues Hentai Site and High-Risk Payment Processor for Not Verifying Ages</title>
+      <link>https://www.404media.co/florida-lawsuit-nutaku-spicevids-segpay/</link>
+      <description>
+        <![CDATA[Florida's attorney general claims Nutaku, Spicevids, and Segpay are in violation of the state's age verification law.]]>
+      </description>
+      <guid>cid://68d29c72f83e9d00010f889a</guid>
     </item>    <item>
       <title>CBP Flew Drones to Help ICE 50 Times in Last Year</title>
       <link>https://www.404media.co/cbp-flew-drones-to-help-ice-50-times-in-last-year/</link>
@@ -832,6 +1143,14 @@
       </description>
       <guid>cid://https://puri.sm/?p=84444</guid>
     </item>    <item>
+      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
+      <link>https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/</link>
+      <description>
+        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84444</guid>
+    </item>    <item>
       <title>Shortwave App Now Available</title>
       <link>https://puri.sm/posts/shortwave-app-now-available/</link>
       <description>
@@ -1103,6 +1422,13 @@
       <title>weekly retro #33: being bad at new things is good</title>
       <link>https://livelaugh.blog/posts/weekly-retro-33/</link>
       <guid>cid://https://livelaugh.blog/posts/weekly-retro-33/</guid>
+    </item>    <item>
+      <title>Groesbeek&#39;s Gruwelijkste 2025</title>
+      <link>https://miek.nl/galleries/2025-groesbeeks-gruwelijkste/</link>
+      <description>
+        <![CDATA[<p>Op zondag 21 September Groesbeek&rsquo;s Gruwelijkste (11e editie, de <em>laatste</em>) gereden. De 75 km.</p>]]>
+      </description>
+      <guid>cid://https://miek.nl/galleries/2025-groesbeeks-gruwelijkste/</guid>
     </item>    <item>
       <title>Grok 4 Fast</title>
       <link>https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything</link>
@@ -8164,6 +8490,10 @@
       <enclosure url="https://traffic.libsyn.com/secure/adventofcomputing/ep164_lgp_30_live.mp3?dest-id=1206722" length="50193576" type="audio/mpeg" />
       <guid>cid://43412f2d-df51-4f9f-bfd5-dc0d32b806ec</guid>
     </item>    <item>
+      <title>TextJam</title>
+      <link>https://textjam.com/show/demo?df</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42205</guid>
+    </item>    <item>
       <title>Monday 8 September, 2025</title>
       <link>https://memex.naughtons.org/monday-8-september-2025/41178/</link>
       <description>
@@ -10180,10 +10510,6 @@
         <![CDATA[David’s Along with Shakespeare and Company in Paris, and Paludan in Copenhagen, David’s in Cambridge is one of the world’s loveliest bookshops. The apartment above it is where John Maynard Keynes and his wife Lydia lived when they were in &#8230; <a href="https://memex.naughtons.org/wednesday-3-september-2025/41165/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
       </description>
       <guid>cid://https://memex.naughtons.org/?p=41165</guid>
-    </item>    <item>
-      <title>[Sponsor] TextJam</title>
-      <link>https://textjam.com/show/demo?df</link>
-      <guid>cid://tag:daringfireball.net,2025:/feeds/sponsors//11.42198</guid>
     </item>    <item>
       <title>Pain in the Aisle</title>
       <link>https://steady.substack.com/p/pain-in-the-aisle</link>
