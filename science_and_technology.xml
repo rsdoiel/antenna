@@ -4,10 +4,136 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>22 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Oracle gets to store US users&#39; TikTok data, says Trump</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/oracle_gets_to_store_us/</link>
+      <description>
+        <![CDATA[<h4>President to announce details on Big Red’s storage and security deal for Chinese social media phenomenon later this week</h4> <p>The White House has promised that all US user data on TikTok will be stored on Oracle servers in the United States, according to a deal to be announced later this week.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242068</guid>
+    </item>    <item>
+      <title>Workers fear for their jobs as JLR&#39;s latest shutdown extended</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/jaguar_landrover_shutdown_extended/</link>
+      <description>
+        <![CDATA[<h4>With no idea when engines restart, families gear down on spending ahead of Christmas</h4> <p>Jaguar Land Rover is extending the shutdown of its production plants another week in a move that experts say could cost the business in the multiple billions.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242065</guid>
+    </item>    <item>
+      <title>By Counting Growth Rings, Researchers Solve the Mystery of the Sycamore Gap Tree&#39;s Age</title>
+      <link>https://www.smithsonianmag.com/smart-news/by-counting-growth-rings-researchers-solve-the-mystery-of-the-sycamore-gap-trees-age-180987377/</link>
+      <description>
+        <![CDATA[A new analysis shows that the historic tree was at least 100 to 120 years old in September 2023, when two men illegally chopped it down]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/4h9Y45p_XBngjYde_mUTIxKZhn4=/420x240/filters:focal(433x326:434x327)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/78/50/785087c5-60c1-4de9-94ec-5d2c4cb0dac1/examination-of-sycamore-gap-tree-slice.webp" length="" type="" />
+    </item>    <item>
+      <title>Slow Wi-Fi? Add houseplants to the list of suspects</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/slow_wifi_could_be_houseplants/</link>
+      <description>
+        <![CDATA[<h4>Not as bad as other interference, but maybe it&#39;s time for a wired connection</h4> <p>Houseplants could be slowing down your Wi-Fi, according to Broadband Genie, which reckons surfers can increase broadband speeds by almost 40 percent just by moving their router away from any greenery.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242064</guid>
+    </item>    <item>
+      <title>Suspected Iran-backed attackers targeting European aerospace sector with novel malware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/iran_targeting_european_aerospace/</link>
+      <description>
+        <![CDATA[<h4>Instead of job offers, victims get MiniJunk backdoor and MiniBrowse stealer</h4> <p>Suspected Iranian government-backed online attackers have expanded their European cyber ops with fake job portals and new malware targeting organizations in the defense, manufacturing, telecommunications, and aviation sectors.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242059</guid>
+    </item>    <item>
+      <title>Linux&#39;s love-to-hate projects drop fresh versions: systemd 258 and GNOME 49</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/systemd_258_gnome_49/</link>
+      <description>
+        <![CDATA[<h4>Init system update arrives behind schedule while desktop overhaul adds app and HDR polish</h4> <p>There are fresh new releases of two of the more controversial and divisive projects in the Linux world for everyone to argue about… and then adopt anyway.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242052</guid>
+    </item>    <item>
+      <title>UK.gov ditching &#39;Red&#39; risk data sharing project after slashing £0.5B budget in half</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/idp_closing/</link>
+      <description>
+        <![CDATA[<h4>Meanwhile Lotus Notes still lurks in some Office of National Statistics systems, for now</h4> <p>A flagship Office for National Statistics project to share data across the UK government appears to be ending several years before its time after failing to make enough progress, getting a &#34;Red&#34; risk rating two years in a row, and never appointing a program director.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242051</guid>
+    </item>    <item>
+      <title>UK chancellor Putin the blame on Russia for cyber chaos, but evidence says otherwise</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/reeves_blames_russia_cyberattacks/</link>
+      <description>
+        <![CDATA[<h4>Reeves points finger at Moscow in interview when authorities reckon it&#39;s local lads</h4> <p>UK chancellor Rachel Reeves is blaming Moscow for Britain&#39;s latest cyber woes, an attribution that seems about as solid as wet cardboard given the trail of evidence pointing to attackers much closer to home.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242062</guid>
+    </item>    <item>
+      <title>HCL stretches support window for Domino v9/v10 despite repeated end-of-life deadlines</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/hcl_notes_domino_support/</link>
+      <description>
+        <![CDATA[<h4>The corpse of Lotus Notes keeps twitching</h4> <p>Some software is more difficult to kill than a horror movie villain, it seems, as Domino and Notes versions 9.0.x and 10.0.x are now set to limp on until the end of this decade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242050</guid>
+    </item>    <item>
+      <title>Node4&#39;s £45M Tisski takeover ends in tears – and £2.4M in damages</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/node4_tisski_takeover_ruling/</link>
+      <description>
+        <![CDATA[<h4>Messy ruling details a perfect storm of NAO, MoD, and Aquila contract failures</h4> <p>Managed service provider Node4 has won a £2.4 million (c $3.2 million) damages award against the founder of Microsoft Dynamics consultancy Tisski, after the High Court ruled the company was sold with problematic contracts that were collapsing as the deal was being finalized.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242047</guid>
+    </item>    <item>
+      <title>How I learned to stop worrying and love the datacenter</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/datacenter_builds_risk_rewards/</link>
+      <description>
+        <![CDATA[<h4>Stargates or black holes? Risks and rewards from the B(r)itbarn boom</h4> <p><strong>Comment</strong>  The UK has bitterly expensive power, an energy minister who sees electricity as bad, a lethargic planning system, and a grid with a backlog for connections running to 2039.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242043</guid>
+    </item>    <item>
+      <title>EV charging biz zaps customers with data leak scare</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/dcs_data_breach/</link>
+      <description>
+        <![CDATA[<h4>Names, emails unplugged in DCS support snafu – but &#39;billing is safe&#39;</h4> <p>An electric vehicle charging point provider is telling users that their data may be compromised, following a recent security &#34;incident&#34; at a service provider.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242046</guid>
+    </item>    <item>
+      <title>DXGI debugging: Microsoft put me on a list</title>
+      <link>https://www.osnews.com/story/143409/dxgi-debugging-microsoft-put-me-on-a-list/</link>
+      <description>
+        <![CDATA[Why does Space Station 14 crash with ANGLE on ARM64? 6 hours later… So. I’ve been continuing work on getting ARM64 builds out for Space Station 14. The thing I was working on yesterday were launcher builds, specifically a&#160;single&#160;download that supports both ARM64 and x64. I’d already gotten the game client itself running natively on ARM64, and it worked perfectly fine in my dev environment. I wrote all the new launcher code, am pretty sure I got it right. Zip it up, test it on ARM64, aaand… The game client crashes on Windows ARM64. Both in my VM and on Julian’s real Snapdragon X laptop. ↫ PJB at A stream of consciousness Debugging stories can be great fun to read, and this one is a prime example. Trust me, you&#8217;ll have no idea what the hell is going on here until you reach the very end, and it&#8217;s absolutely wild. Very few people are ever going to run into this exact same set of highly unlikely circumstances, but of course, with a platform as popular as Windows, someone was eventually bound to. Sidenote: the game in question looks quite interesting.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143409</guid>
+    </item>    <item>
+      <title>China tells grumps, trolls, and AIs to stop emoting online</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/china_negative_emotion_online_crackdown/</link>
+      <description>
+        <![CDATA[<h4>Cracks down on malicious pessimism and expressions of ennui</h4> <p>China’s Cyberspace Administration yesterday announced a two-month campaign to quash netizens who “maliciously incite negative emotions”.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242061</guid>
+    </item>    <item>
+      <title>One of TikTok’s network boffins says it causes ‘massive data wastage’</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/short_video_prefetch_research/</link>
+      <description>
+        <![CDATA[<h4>China-funded research suggests video app&#39;s new American operators might byte off 40 percent more traffic than they can chew</h4> <p>Before Larry Ellison, Michael Dell and Rupert Murdoch put pen to paper to take over TikTok’s US operations from ByteDance, they might want to consider that one of the Chinese company’s network boffins thinks the app and others like it create “massive data wastage”.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242060</guid>
+    </item>    <item>
+      <title>Stop runaway AI before it&#39;s too late, experts beg the UN</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/ai_un_controls/</link>
+      <description>
+        <![CDATA[<h4>Signatories include 10 Nobel Prize winners</h4> <p><strong>ai-pocalypse</strong>  Ten Nobel Prize winners are among the more than 200 people who&#39;ve signed a letter calling on the United Nations to define and enforce “red lines” that prohibit some uses of AI.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242058</guid>
+    </item>    <item>
+      <title>AI gone rogue: Models may try to stop people from shutting them down, Google warns</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/google_ai_misalignment_risk/</link>
+      <description>
+        <![CDATA[<h4>Misalignment risk? That&#39;s an area for future study</h4> <p>Google DeepMind added a new AI threat scenario - one where a model might try to prevent its operators from modifying it or shutting it down - to its AI safety document. It also included a new misuse risk, which it calls &#34;harmful manipulation.&#34;…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242057</guid>
+    </item>    <item>
+      <title>Nvidia adds more air to the AI bubble with vague $100B OpenAI deal</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/openai_nvidia_chips/</link>
+      <description>
+        <![CDATA[<h4>Promises, promises</h4> <p><strong>analysis</strong>  OpenAI and Nvidia have signed a letter of intent wherein OpenAI agrees to buy at least 10 gigawatts of Nvidia systems for its datacenters, while the AI arms dealer returns the favor with an investment of up to $100 billion in the house that Altman built.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242056</guid>
+    </item>    <item>
       <title>Ig Nobel Prizes Honor Fingernails, Painted Cows and Cacio e Pepe in a Celebration of Strange Science</title>
       <link>https://www.smithsonianmag.com/smart-news/ig-nobel-prizes-honor-fingernails-painted-cows-and-cacio-e-pepe-in-a-celebration-of-strange-science-180987381/</link>
       <description>
@@ -158,7 +284,7 @@
       <title>EU’s cyber agency blames ransomware as Euro airport check-in chaos continues</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/22/eus_cyber_agency_confirms_ransomware/</link>
       <description>
-        <![CDATA[<h4>Airport staff revert to manual ops as travellers urged to use self-service check-in where possible</h4> <p>The EU&#39;s cybersecurity agency today confirmed that ransonmware is the cause of continued disruption blighting major airports across Europe.…</p>]]>
+        <![CDATA[<h4>Airport staff revert to manual ops as travellers urged to use self-service check-in where possible</h4> <p>The EU&#39;s cybersecurity agency today confirmed that ransomware is the cause of continued disruption blighting major airports across Europe.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242039</guid>
     </item>    <item>
@@ -3646,13 +3772,6 @@
         <![CDATA[Jussi Pakkanen, creator of the Meson build system, has some words about modules in C++. If C++ modules can not show a 5× compilation time speedup (preferably 10×) on multiple existing open source code base, modules should be killed and taken out of the standard. Without this speedup pouring any more resources into modules is just feeding the sunk cost fallacy. That seems like a harsh thing to say for such a massive undertaking that promises to make things so much better. It is not something that you can just belt out and then mic drop yourself out. So let&#8217;s examine the whole thing in unnecessarily deep detail. You might want to grab a cup of $beverage before continuing, this is going to take a while. ↫ Jussi Pakkanen I&#8217;m not a programmer so I&#8217;m leaving this for the smarter people among us to debate.]]>
       </description>
       <guid>cid://https://www.osnews.com/?p=143244</guid>
-    </item>    <item>
-      <title>Redox gets COSMIC Readers and tons of bugfixes</title>
-      <link>https://www.osnews.com/story/143242/redox-gets-cosmic-readers-and-tons-of-bugfixes/</link>
-      <description>
-        <![CDATA[The months keep slipping through our fingers, during this, our slow but relentless march towards the inevitability of certain death, so it&#8217;s time for another month of improvements to Redox, the general-purpose microkernel operating system written in Rust. This past month the work to bring various components of system76&#8217;s COSMIC desktop environment to Redox continues, with COSMIC Reader making its way to Redox. Jeremy Soller, creator of the Redox project and one of its primary engineers, will be using COSMIC Reader running on Redox to hold a presentation about Redox at RustConf. Aside from that important port, this month &#8211; in the middle of Summer on in this hemisphere &#8211; seems to mostly consist of a ton of smaller bugfixes and improvements. Relibc, Redox&#8217; C standard library, has seen a ton of work, as usual, a few ports were fixed and updated, like vim and OpenSSH, Orbital now has fullscreen support, and so, so much more.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143242</guid>
     </item>
   </channel>
 </rss>

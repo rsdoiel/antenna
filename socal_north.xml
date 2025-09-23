@@ -4,10 +4,24 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>22 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Warm weather and cloudy mornings continue for SoCal</title>
+      <link>https://laist.com/news/climate-environment/warm-weather-cloudy-mornings-socal-forecast</link>
+      <description>
+        <![CDATA[We'll see highs in the mid 80s to mid 90s across the region.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-734f-dcf5-a1f9-fb7f55b90000</guid>
+    </item>    <item>
+      <title>Federal judge orders 500 health science grants at UCLA restored, rebuffing Trump’s suspensions</title>
+      <link>https://laist.com/news/education/federal-judge-orders-500-health-science-grants-at-ucla-restored</link>
+      <description>
+        <![CDATA[UCLA and University of California leaders are fighting Trump’s demands for a $1.2 billion settlement over a litany of accusations, including that the campus permits antisemitism.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-73dd-dcf5-a1f9-fbfd72ae0000</guid>
+    </item>    <item>
       <title>USDA cancels survey tracking how many Americans struggle to get enough food</title>
       <link>https://laist.com/news/health/usda-cancels-survey-tracking-how-many-americans-struggle-to-get-enough-food</link>
       <description>
@@ -58,6 +72,13 @@
       </description>
       <guid>cid://urn:uuid:00000199-7252-d43d-a7df-fe5adc750000</guid>
     </item>    <item>
+      <title>Program to Reduce Insulin Costs for Medicare Beneficiaries Has Cut Spending, Improved Diabetes Care</title>
+      <link>https://www.rand.org/news/press/2025/09/program-to-reduce-insulin-costs-for-medicare-beneficiaries.html</link>
+      <description>
+        <![CDATA[A three-year effort to reduce the cost of insulin for Medicare beneficiaries has achieved its primary goals, lowering out-of-pocket costs for the medication and increasing enrollees' regular use of insulin.]]>
+      </description>
+      <guid>cid://https://www.rand.org/news/press/2025/09/program-to-reduce-insulin-costs-for-medicare-beneficiaries.html</guid>
+    </item>    <item>
       <title>Colleges pull back as Trump cuts programs that help migrant students</title>
       <link>https://laist.com/news/education/colleges-pull-back-as-trump-cuts-programs-that-help-migrant-students</link>
       <description>
@@ -65,10 +86,10 @@
       </description>
       <guid>cid://urn:uuid:00000199-7280-dbf4-a9fd-72f39fc00000</guid>
     </item>    <item>
-      <title>The Trump administration is expected to link autism to Tylenol use during pregnancy</title>
+      <title>Trump blames Tylenol for autism. Science doesn&#39;t back him up</title>
       <link>https://laist.com/news/health/trump-administration-autism-tylenol-use-during-pregnancy</link>
       <description>
-        <![CDATA[President Donald Trump and HHS secretary Robert F. Kennedy Jr. are expected to tie autism to acetaminophen use during pregnancy, and present a cancer drug as a possible treatment. There is little credible scientific evidence for either claim.]]>
+        <![CDATA[The president and his deputies tied autism to acetaminophen use during pregnancy, presented a cancer drug as possible treatment and said the FDA would change labeling. There's little strong scientific evidence for either.]]>
       </description>
       <guid>cid://urn:uuid:00000199-7282-de67-a5ff-fe8e2b650000</guid>
     </item>    <item>

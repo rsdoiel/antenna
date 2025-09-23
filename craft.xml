@@ -4,10 +4,17 @@
   <channel>
     <title>Craft</title>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>22 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Losses to the Craft: Mike Wenzloff &#38; Charles Hummel</title>
+      <link>https://blog.lostartpress.com/2025/09/22/losses-to-the-craft-mike-wenzloff-charles-hummel/</link>
+      <description>
+        <![CDATA[Recently we’ve lost two important contributors to our craft: sawmaker Mike Wenzloff and historian Charles Hummel. I knew Mike fairly well, and I met Charlie in person only once. But both people made an indelible mark on me. Mike Wenzloff was a pioneering sawmaker. During the early 2000s, Mike began making incredible handsaws and backsaws...]]>
+      </description>
+      <guid>cid://https://blog.lostartpress.com/?p=68875</guid>
+    </item>    <item>
       <title>Free Cotton Conversion Chart (Because I’m a Dolt)</title>
       <link>https://blog.lostartpress.com/2025/09/22/free-cotton-conversion-chart-because-im-a-dolt/</link>
       <description>
@@ -137,13 +144,6 @@
         <![CDATA[Megan and I are teaching two scholarship classes for The Chairmaker’s Toolbox this fall. I’m teaching a chair class (surprise) Sept. 15-19. Megan is teaching a Dutch toolchest class (double surprise) on Oct. 17-19. For these classes, we supply all the materials, plus lunches, morning pastries and a yay-you-did-it dinner for the students. If you...]]>
       </description>
       <guid>cid://https://blog.lostartpress.com/?p=68786</guid>
-    </item>    <item>
-      <title>Closed for Labor Day</title>
-      <link>https://blog.lostartpress.com/2025/09/01/closed-for-labor-day/</link>
-      <description>
-        <![CDATA[Our warehouse and storefront are closed today for Labor Day – we&#8217;ll be back at it tomorrow! And the storefront will be open this week Wednesday and Friday from 10 a.m.-2 p.m. – Fitz]]>
-      </description>
-      <guid>cid://https://blog.lostartpress.com/?p=68777</guid>
     </item>
   </channel>
 </rss>

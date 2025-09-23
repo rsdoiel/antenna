@@ -4,10 +4,18 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>22 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post: Classifying AI Use in Manuscript Preparation – A Recommendation</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/23/guest-post-classifying-ai-use-in-manuscript-preparation-a-recommendation/</link>
+      <description>
+        <![CDATA[<p>The STM Association offers a classification scheme for the various possible uses of AI, including GenAI, in the preparation of manuscripts.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/23/guest-post-classifying-ai-use-in-manuscript-preparation-a-recommendation/">Guest Post: Classifying AI Use in Manuscript Preparation – A Recommendation</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61001</guid>
+    </item>    <item>
       <title>Day in Review (September 22–25)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-22-25/</link>
       <description>
@@ -767,21 +775,6 @@
         <p>The post <a href="https://sr.ithaka.org/blog/how-states-are-using-pseo-to-show-college-graduate-employment-outcomes/">How States and Institutions Are Using PSEO to Show College Graduate Employment Outcomes</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
       </description>
       <guid>cid://https://sr.ithaka.org/?p=323495</guid>
-    </item>    <item>
-      <title>The Road to Oz, by L. Frank Baum</title>
-      <link>https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</link>
-      <description>
-        <![CDATA[A young girl takes a passerby down the road near her farm when they find themselves transported to another land.]]>
-      </description>
-      <enclosure url="https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz/downloads/l-frank-baum_the-road-to-oz.epub?source=feed" length="1159795" type="application/epub+zip" />
-      <guid>cid://https://standardebooks.org/ebooks/l-frank-baum/the-road-to-oz</guid>
-    </item>    <item>
-      <title>Fit in research data management</title>
-      <link>https://rc-blog.ethz.ch/en/fit-in-research-data-management/</link>
-      <description>
-        <![CDATA[Get yourself and your research project in shape with our research data management workshop programme. You can now register for the Autumn Semester 2025 workshops. Read more]]>
-      </description>
-      <guid>cid://https://rc-blog.ethz.ch/?p=2884</guid>
     </item>
   </channel>
 </rss>
