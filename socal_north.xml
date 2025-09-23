@@ -4,10 +4,101 @@
   <channel>
     <title>socal_north.md</title>
     <link>https://rsdoiel.github.io/antenna/socal_north.xml</link>
-    <lastBuildDate>23 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>New California law gives LA-area fire victims up to a year of mortgage relief</title>
+      <link>https://laist.com/news/housing-homelessness/la-homeowner-fire-mortgage-help-forbearance-eaton-palisades</link>
+      <description>
+        <![CDATA[Eligible homeowners are required to ask lenders for forbearance, which could be extended for up to a year.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-785e-d14b-a7d9-f85fb5ca0000</guid>
+    </item>    <item>
+      <title>World health officials reject Trump&#39;s claims that Tylenol is linked to autism</title>
+      <link>https://laist.com/news/health/world-health-officials-react-president-trumps-tylenol-autism-link</link>
+      <description>
+        <![CDATA[The President says pregnant women should stay away from Tylenol due to possible autism link. World health authorities strongly disagree, say the drug is safe in pregnancy.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-782f-db1c-ab9f-f9ff41f30000</guid>
+    </item>    <item>
+      <title>Highway 1 through Big Sur to reopen after years of work</title>
+      <link>https://laist.com/news/transportation/highway-1-big-sur-reopening</link>
+      <description>
+        <![CDATA[Officials are aiming to reopen the 7-mile stretch of road by spring. It was closed in 2023 due to landslides.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-7839-dcf5-a1f9-fa397e890000</guid>
+    </item>    <item>
+      <title>Fat Bear Week is here early, and the bears are fat and playful</title>
+      <link>https://laist.com/news/climate-environment/fat-bear-week-is-here-early</link>
+      <description>
+        <![CDATA[The famous bears of Alaska's Katmai National Park are enjoying an abundance of salmon, and even some playtime, as they pack on pounds to prepare for the winter.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-77b6-d43d-a7df-ffbeff8b0000</guid>
+    </item>    <item>
+      <title>Jury convicts Ryan Routh on all charges in attempted assassination of Donald Trump</title>
+      <link>https://laist.com/news/criminal-justice/jury-convicts-ryan-routh-attempted-assassination-donald-trump</link>
+      <description>
+        <![CDATA[Jurors convicted Routh on five charges, including last year's attempted assassination of Trump as he golfed at his South Florida course. Routh represented himself in court and faces life in prison.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-77f1-dcf5-a1f9-fff1314d0000</guid>
+    </item>    <item>
+      <title>Huntington Beach council wants to honor slain right wing activist Charlie Kirk with a mural</title>
+      <link>https://laist.com/news/politics/charlie-kirk-mural-huntington-beach-meeting</link>
+      <description>
+        <![CDATA[The City Council will hold a special meeting will be held at 4 p.m. today to discuss the proposal.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-77ae-d60c-af9b-f7be9d200000</guid>
+    </item>    <item>
+      <title>ICC charges former Philippine President Duterte with crimes against humanity</title>
+      <link>https://laist.com/news/criminal-justice/icc-charges-former-philippine-president-duterte-with-crimes-against-humanity</link>
+      <description>
+        <![CDATA[Former President Rodrigo Duterte was arrested in March by Philippine authorities on a warrant issued by the International Criminal Court. He is now being held at an ICC facility in the Netherlands.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-7754-d43d-a7df-ff5cc5670000</guid>
+    </item>    <item>
+      <title>Trump cancels meeting with Democrats as prospects for shutdown increase</title>
+      <link>https://laist.com/news/politics/trump-cancels-meeting-with-democrats-as-prospects-for-shutdown-increase</link>
+      <description>
+        <![CDATA[President Trump called off a planned Thursday meeting with top Congressional Democrats to discuss a possible deal to avoid a government shutdown. He called Democrats' demands "unserious." Democrats say he chickened out.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-77ed-d27b-adfd-77fd1d500000</guid>
+    </item>    <item>
+      <title>After weeks of warm and muggy weather in SoCal, rain is coming, followed by a cool down</title>
+      <link>https://laist.com/news/climate-environment/socal-rain-weather-forecast-cool-down</link>
+      <description>
+        <![CDATA[Southern California might see some light rain tonight into Wednesday morning. After that, cooler weather is on the way, but expect the humidity to remain.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-7773-da8f-a1fd-f7f368590000</guid>
+    </item>    <item>
+      <title>Trump slams &#39;uncontrolled migration&#39; — and blames the UN</title>
+      <link>https://laist.com/news/politics/trump-slams-uncontrolled-migration-blames-un</link>
+      <description>
+        <![CDATA[In his United Nations General Assembly speech, President Donald Trump warned world leaders of "uncontrolled migration" and accused the U.N. of contributing to the problem.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-77cd-d699-af99-f7ef796e0000</guid>
+    </item>    <item>
+      <title>LA officials to clear Sepulveda Basin homeless encampments</title>
+      <link>https://laist.com/news/housing-homelessness/sepulveda-basin-homeless-encampments</link>
+      <description>
+        <![CDATA[Mayor Bass says everyone in encampments needs to go, cites fire risks]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-776e-d60c-af9b-f7fe0d2a0000</guid>
+    </item>    <item>
+      <title>Anaheim tourism brings in billions. Now, two proposals want city residents and employees to get a bigger cut</title>
+      <link>https://laist.com/news/politics/anaheim-tourism-income-residents-employees-proposals</link>
+      <description>
+        <![CDATA[A gate tax at Disney? It's a possibility.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-73b1-d7e5-a3fb-f3fd0a650000</guid>
+    </item>    <item>
+      <title>The many ways people get LA wrong</title>
+      <link>https://laist.com/news/los-angeles-activities/how-people-get-la-wrong</link>
+      <description>
+        <![CDATA[Here's what you told us about the biggest misconceptions you hear — and push back on — about Los Angeles and Southern California.]]>
+      </description>
+      <guid>cid://urn:uuid:00000199-5dbd-de30-abbb-7ffd85510002</guid>
+    </item>    <item>
       <title>Warm weather and cloudy mornings continue for SoCal</title>
       <link>https://laist.com/news/climate-environment/warm-weather-cloudy-mornings-socal-forecast</link>
       <description>
@@ -51,10 +142,10 @@
       </description>
       <guid>cid://urn:uuid:00000199-727d-dc4a-a1bd-76fdaa110000</guid>
     </item>    <item>
-      <title>Jimmy Kimmel will return to TV Tuesday night after Disney reverses suspension</title>
+      <title>Jimmy Kimmel will return to TV Tuesday night — with notable exceptions — after Disney reverses suspension</title>
       <link>https://laist.com/news/arts-and-entertainment/jimmy-kimmel-to-return-abc-disney-suspension-reversed</link>
       <description>
-        <![CDATA[The Walt Disney Company announced Monday that the late-night host will return to the network.]]>
+        <![CDATA[The Walt Disney Company announced Monday that the late-night host will return to the network. Sinclair says they will preempt the show in their markets.]]>
       </description>
       <guid>cid://urn:uuid:00000199-72ff-d6dc-addb-ffffa9550000</guid>
     </item>    <item>

@@ -4,10 +4,158 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>23 Sep 25 06:09 -0700</lastBuildDate>
+    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.6</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Exploring GrapheneOS’ secure allocator: hardened malloc</title>
+      <link>https://www.osnews.com/story/143413/exploring-grapheneos-secure-allocator-hardened-malloc/</link>
+      <description>
+        <![CDATA[GrapheneOS is a security and privacy-focused mobile operating system based on a modified version of Android (AOSP). To enhance its protection, it integrates advanced security features, including its own memory allocator for libc: hardened malloc. Designed to be as robust as the operating system itself, this allocator specifically seeks to protect against memory corruption. This technical article details the internal workings of hardened malloc and the protection mechanisms it implements&#160;to prevent common memory corruption vulnerabilities. It is intended for a technical audience, particularly security researchers or exploit developers, who wish to gain an in-depth understanding of this&#160;allocator&#8217;s internals. ↫ Nicolas Stefanski at Synacktiv GrapheneOS is quite possibly the best way to keep your smartphone secure, and even law enforcement is not particularly amused that people are using it. If the choice is between security and convenience, GrapheneOS chooses security every time, and that&#8217;s the reason it&#8217;s favoured by many people who deeply care about (smartphone) security. The project&#8217;s social media accounts can be a bit&#8230; Much at times, but their dedication to security is without question, and if you want a secure smartphone, there&#8217;s really nowhere else to turn &#8211; unless you opt to trust the black box security approach from Apple. Sadly, GrapheneOS is effectively under attack not from criminals, but from Google itself. As Google tightens its grip on Android more and more, as we&#8217;ve been reporting on for years now, it will become ever harder for GrapheneOS to deliver the kind of security and fast update they&#8217;ve been able to deliver. I don&#8217;t know just how consequential Google&#8217;s increasing pressure is for GrapheneOS, but I doubt it&#8217;s making the lives of its developers any easier. It&#8217;s self-defeating, too; GrapheneOS has a long history of basically serving as a test best for highly advanced security features Google later implements for Android in general. A great example is the Memory Tagging Extension, a feature implemented by ARM in hardware, which GrapheneOS implements much more widely and extensively than Google does. This way, GrapheneOS users have basically been serving as testers to see if applications and other components experience any issues when using the feature, paving the way for Google to eventually, hopefully, follow in GrapheneOS&#8217; footsteps. Google benefits from GrapheneOS, and trying to restrict its ability to properly support devices and its access to updates is shortsighted.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143413</guid>
+    </item>    <item>
+      <title>Feds put finger on H-1B lottery scale to favor higher earners</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/h1b_lottery_rules_favor_higher_earners/</link>
+      <description>
+        <![CDATA[<h4>The higher the wage level, the more entries they&#39;ll get in the draw</h4> <p>The H-1B lottery in the US is being tipped heavily in favor of high-wage earners under a long-awaited rule proposal unveiled on Tuesday.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242080</guid>
+    </item>    <item>
+      <title>Exoplanet Discoveries Pass the 6,000 Mark, Shedding Light on How Our Solar System Compares to the Rest of the Universe</title>
+      <link>https://www.smithsonianmag.com/smart-news/exoplanet-discoveries-pass-the-6000-mark-shedding-light-on-how-our-solar-system-compares-to-the-rest-of-the-universe-180987390/</link>
+      <description>
+        <![CDATA[The rate of finding these distant worlds has recently increased, with astronomers scrambling to accommodate the data]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/rawlBi1VWCfwfti7Rfy0M52qzq4=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ce/15/ce15fa3f-ff3f-476f-bf7d-303d068d28a9/smithsonian_feature_images_15.png" length="" type="" />
+    </item>    <item>
+      <title>Nearly half of businesses suffered deepfaked phone calls against staff</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/gartner_ai_attack/</link>
+      <description>
+        <![CDATA[<h4>AI attacks on the rise</h4> <p>A survey of cybersecurity bosses has shown that 62 percent reported attacks on their staff using AI over the last year, either by the use of prompt injection attacks or faking out their systems using phony audio or video generated by AI.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242079</guid>
+    </item>    <item>
+      <title>SonicWall releases rootkit-busting firmware update following wave of attacks</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/sonicwall_rootkitbooting_firmware_update/</link>
+      <description>
+        <![CDATA[<h4>Security vendor&#39;s no good, very bad <span class="strike">week</span> year</h4> <p>SonicWall on Monday released a firmware update that the security vendor says will remove rootkit malware deployed in recent attacks targeting Secure Mobile Access (SMA) 100 appliances.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242078</guid>
+    </item>    <item>
+      <title>AI coding hype overblown, Bain shrugs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/developers_genai_little_productivity_gains/</link>
+      <description>
+        <![CDATA[<h4>Tried by two-thirds of firms, ignored by most devs, and productivity barely moved</h4> <p>Software development was one of the first areas to adopt generative AI, but the promised revolution has so far delivered only modest productivity gains, and Bain says only a full rethink of the software lifecycle will shift the dial.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242075</guid>
+    </item>    <item>
+      <title>NASA’s New Astronaut Candidates</title>
+      <link>https://www.nasa.gov/image-article/nasas-new-astronaut-candidates/</link>
+      <description>
+        <![CDATA[NASA’s 2025 astronaut candidate class greets the crowd in this Sept. 22, 2025, image. The group was introduced Monday following a competitive selection process of more than 8,000 applicants from across the United States. The class now will complete nearly two years of training before becoming eligible for flight assignments supporting future science and exploration [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=917720</guid>
+    </item>    <item>
+      <title>This Tiny Museum in Coastal Denmark Just Surpassed the Louvre in One Big Way</title>
+      <link>https://www.smithsonianmag.com/smart-news/this-tiny-museum-in-coastal-denmark-just-surpassed-the-louvre-in-one-big-way-180987386/</link>
+      <description>
+        <![CDATA[Following its latest acquisition, the Nivaagaard Collection has become a global leader in Renaissance and Baroque-period female painters]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/gQQqZPezGBJs3YzbjlPZU_tzC3U=/420x240/filters:focal(2250x1511:2251x1512)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a6/9f/a69ff97e-9700-46f8-b262-e46afe9a58cd/artemisia_gentileschi_susanna_og_de_ldste_1644-48_nivaagaards_malerisamling_fotograf_davi.jpg" length="" type="" />
+    </item>    <item>
+      <title>The Need to Bake Out Silicone Based Thermal Control Coatings</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nesc/the-need-to-bake-out-silicone-based-thermal-control-coatings/</link>
+      <description>
+        <![CDATA[BackgroundThe NASA Engineering and Safety Center (NESC) has reviewed flight, ground test, and published data on ultraviolet-induced degradation of silicone based thermal control coatings. Analysis has shown, for at least one silicone coating, that bake-out plays an important role in ultraviolet (UV) degradation, indicating that UV interaction with paint volatiles, and not the structural material, [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=917738</guid>
+    </item>    <item>
+      <title>Third time&#39;s the charm? SolarWinds (again) patches critical Web Help Desk RCE</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/solarwinds_patches_rce/</link>
+      <description>
+        <![CDATA[<h4>Or maybe 3 strikes, you&#39;re out?</h4> <p>SolarWinds on Tuesday released a hotfix - again - for a critical, 9.8-severity flaw in its Web Help Desk IT ticketing software that could allow a remote, unauthenticated attacker to run commands on a host machine. …</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242077</guid>
+    </item>    <item>
+      <title>Archaeologists Say They&#39;ve Solved the Mystery of This Marble Statue. Its Subject Was a Woman Who Might Have Helped an Ancient City Achieve Political Freedom</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-solved-the-mystery-of-this-marble-statue-its-subject-was-woman-who-might-have-helped-ancient-city-achieve-political-freedom-180987387/</link>
+      <description>
+        <![CDATA[The marble sculpture, discovered at Chersonesos Taurica in Crimea in 2003, has been identified as a woman named Laodice]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/dx-hjJP9mnbFWhMN3idKlQvZ4gM=/420x240/filters:focal(714x486:715x487)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/62/5d/625d2ad4-f2a2-4617-b7b1-cab37e9c5510/statue.jpg" length="" type="" />
+    </item>    <item>
+      <title>OnePlus leaves researchers on read over Android bug that exposes texts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/rapid7_oneplus_android_bug/</link>
+      <description>
+        <![CDATA[<h4>Rapid7 warns flaw could let any app peek at your SMS, but smartphone vendor won&#39;t pick up</h4> <p>Security researchers report that OnePlus smartphone users remain vulnerable to a critical bug that allows any application to read SMS and MMS data — a flaw that has persisted since late 2021.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242074</guid>
+    </item>    <item>
+      <title>A Jaguar in Brazil Makes the Longest Recorded Swim by the Species, Traversing at Least 0.79 Miles Through Water</title>
+      <link>https://www.smithsonianmag.com/smart-news/a-jaguar-in-brazil-makes-the-longest-recorded-swim-by-the-species-traversing-at-least-079-miles-through-water-180987384/</link>
+      <description>
+        <![CDATA[The new record could help conservationists strategize ways to consider feline movements during construction of hydroelectric dams]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/GqZT17LwNxJvGT9SZCLimzUR0LU=/420x240/filters:focal(2565x1710:2566x1711)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5b/d2/5bd2a255-d7f3-46c8-9a48-ccd6ef9d45cf/gettyimages-1371864205.jpg" length="" type="" />
+    </item>    <item>
+      <title>MX Linux 25 reaches beta testing – complete with systemd</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/mx_linux_25_reaches_beta/</link>
+      <description>
+        <![CDATA[<h4>Fancy a taste? The version based on Debian &#39;Trixie&#39; is nearly ready, but not all the changes may be entirely welcome</h4> <p>The new Debian-13 version of MX Linux, version 25, is looking very close to ready for release. A big change may divide its audience, though.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242070</guid>
+    </item>    <item>
+      <title>SIM city: Feds say 100,000-card farms could have killed cell towers in NYC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/secret_service_sim_bust/</link>
+      <description>
+        <![CDATA[<h4>Secret Service seizes 300-server network allegedly tied to nation-state hackers</h4> <p>The US Secret Service has dismantled a network of SIM farms in and around New York City it claims was behind multiple incidents targeting senior government officials and had enough power to disrupt entire cellular networks.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242072</guid>
+    </item>    <item>
+      <title>Kaspersky: RevengeHotels checks back in with AI-coded malware</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/kaspersky_revengehotels_checks_back_in/</link>
+      <description>
+        <![CDATA[<h4>Old hotel scam gets an AI facelift, leaving travellers’ card details even more at risk</h4> <p>Kaspersky has raised the alarm over the resurgence of hotel-hacking outfit &#34;RevengeHotels,&#34; which it claims is now using artificial intelligence to supercharge its scams.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242073</guid>
+    </item>    <item>
+      <title>Purism Approach vs. Google Model</title>
+      <link>https://puri.sm/posts/purism-approach-vs-google-model/</link>
+      <description>
+        <![CDATA[<p>The Justice Department and a coalition of states are pursuing antitrust action against Google, accusing it of running monopolistic ad-tech systems that exploit users and lock out competition. Regulators are weighing remedies that could force structural changes to Google’s ad empire.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/purism-approach-vs-google-model/">Purism Approach vs. Google Model</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84519</guid>
+    </item>    <item>
+      <title>OpenSSF warns that open source infrastructure doesn&#39;t run on thoughts and prayers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/openssf_open_source_infrastructure/</link>
+      <description>
+        <![CDATA[<h4>Foundations say billions of downloads rely on registries running on fumes – and someone&#39;s gotta pay the bills</h4> <p>The Open Source Security Foundation (OpenSSF) has had enough of being the unpaid janitor of the world&#39;s software supply chain.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242069</guid>
+    </item>    <item>
+      <title>Chimps Consume the Equivalent of 2.5 Alcoholic Drinks per Day by Eating Fermented Fruit, Study Finds</title>
+      <link>https://www.smithsonianmag.com/smart-news/chimps-consume-the-equivalent-of-2-5-alcoholic-drinks-per-day-by-eating-fermented-fruit-study-finds-180987364/</link>
+      <description>
+        <![CDATA[Scientists report that chimpanzees consume about 14 grams of alcohol daily and suggest the result might help explain humans' interest in booze]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/K2B3iniLzzAhq74DuC54KeY30CE=/420x240/filters:focal(1280x744:1281x745)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e9/9d/e99d5e63-748e-4c6b-99bb-db8407624e14/ngogo-2018-hicks-in-ficus-mucuso-crop-scaled.jpg" length="" type="" />
+    </item>    <item>
+      <title>GitHub moves to tighten npm security amid phishing, malware plague</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/github_npm_registry_security/</link>
+      <description>
+        <![CDATA[<h4>Hundreds of compromised packages pulled as registry shifts to 2FA and trusted publishing</h4> <p>GitHub, which owns the npm registry for JavaScript packages, says it is tightening security in response to recent attacks.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242067</guid>
+    </item>    <item>
+      <title>David Lynch&#39;s Sprawling Midcentury Compound in Los Angeles Could Be Yours for $15 Million</title>
+      <link>https://www.smithsonianmag.com/smart-news/david-lynchs-sprawling-midcentury-compound-in-los-angeles-could-be-yours-for-15-million-180987354/</link>
+      <description>
+        <![CDATA[The "Twin Peaks" director worked on some of his most famous projects at the seven-building estate—which is also featured in the film "Lost Highway"]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/wM1ThRsIUL-IyHZOcAd9C5Nylko=/420x240/filters:focal(1536x1024:1537x1025)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/42/1d/421de24b-5449-483a-acb9-f7e79bdf06af/gettyimages-52974879.jpg" length="" type="" />
+    </item>    <item>
       <title>Oracle gets to store US users&#39; TikTok data, says Trump</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/oracle_gets_to_store_us/</link>
       <description>
@@ -32,7 +180,7 @@
       <title>Slow Wi-Fi? Add houseplants to the list of suspects</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/slow_wifi_could_be_houseplants/</link>
       <description>
-        <![CDATA[<h4>Not as bad as other interference, but maybe it&#39;s time for a wired connection</h4> <p>Houseplants could be slowing down your Wi-Fi, according to Broadband Genie, which reckons surfers can increase broadband speeds by almost 40 percent just by moving their router away from any greenery.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+        <![CDATA[<h4>Pass the tinfoil hat</h4> <p>Houseplants could be slowing down your Wi-Fi, according to Broadband Genie, which reckons surfers can increase broadband speeds by almost 40 percent just by moving their router away from any greenery.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242064</guid>
     </item>    <item>
@@ -165,7 +313,7 @@
       <title>Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads</title>
       <link>https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/</link>
       <description>
-        <![CDATA[Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads Missions to the Moon and Mars pose nutritional challenges for astronauts. Now, a new paper on space-grown food iMissions to the Moon and Mars pose nutritional challenges for astronauts, but volunteers from NASA’s Open Science Data Repository Analysis Working Groups (OSDR-AWG) are working together to […]]]>
+        <![CDATA[Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads Missions to the Moon and Mars pose nutritional challenges for astronauts, but volunteers from NASA’s Open Science Data Repository Analysis Working Groups (OSDR-AWG) are working together to analyze data on astronaut health. The Analysis Working Groups examine biomedical data from NASA missions and space experiments […]]]>
       </description>
       <guid>cid://https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/</guid>
     </item>    <item>
@@ -384,6 +532,14 @@
       <description>
         <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
         <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future%e2%80%91proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84444</guid>
+    </item>    <item>
+      <title>Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</title>
+      <link>https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/</link>
+      <description>
+        <![CDATA[<p>Signaling System 7 (SS7) was designed in the 1970s to let telecom carriers route calls, deliver SMS, and enable roaming. It was never built with authentication or encryption in mind. Security wasn’t part of the plan.  The assumption was simple:  All carriers are trusted.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/librem-pqc-encryptor-future-proofing-against-both-ss7-and-quantum/">Librem PQC Encryptor: Future‑Proofing Against Both SS7 and Quantum</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
       </description>
       <guid>cid://https://puri.sm/?p=84444</guid>
     </item>    <item>
