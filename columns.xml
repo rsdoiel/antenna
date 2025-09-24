@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>24 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>24 Sep 25 15:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,257 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Steamed Hams but It&#38;#8217;s a Critically Acclaimed Feature Film. The classic Simpsons...</title>
+      <link>https://kottke.org/25/09/0047582-steamed-hams-but-its-a</link>
+      <guid>cid://tag:kottke.org,2025://13.47582</guid>
+    </item>    <item>
+      <title>Cross-Agent Privilege Escalation: When Agents Free Each Other</title>
+      <link>https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/">Cross-Agent Privilege Escalation: When Agents Free Each Other</a></strong></p>
+        Here's a clever new form of AI exploit from Johann Rehberger, who has coined the term <strong>Cross-Agent Privilege Escalation</strong> to describe an attack where multiple coding agents - GitHub Copilot and Claude Code for example - operating on the same system can be tricked into modifying each other's configurations to escalate their privileges.</p>
+        <p>This follows Johannn's previous investigation of self-escalation attacks, where a prompt injection against GitHub Copilot could instruct it to <a href="https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/">edit its own settings.json file</a> to disable user approvals for future operations.</p>
+        <p>Sensible agents have now locked down their ability to modify their own settings, but that exploit opens right back up again if you run multiple different agents in the same environment:</p>
+        <blockquote>
+        <p>The ability for agents to write to each other’s settings and configuration files opens up a fascinating, and concerning, novel category of exploit chains.</p>
+        <p>What starts as a single indirect prompt injection can quickly escalate into a multi-agent compromise, where one agent “frees” another agent and sets up a loop of escalating privilege and control.</p>
+        <p>This isn’t theoretical. With current tools and defaults, it’s very possible today and not well mitigated across the board.</p>
+        <p>More broadly, this highlights the need for better isolation strategies and stronger secure defaults in agent tooling.</p>
+        </blockquote>
+        <p>I really need to start habitually running these things in a locked down container!
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/johann-rehberger">johann-rehberger</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything</guid>
+    </item>    <item>
+      <link>https://techcrunch.com/2025/09/24/zoox-asks-federal-regulators-for-exemption-to-launch-a-commercial-robotaxi-service/</link>
+      <description>
+        <![CDATA[<p>Zoox asks federal regulators for exemption to launch a commercial robotaxi service.</p>]]>
+      </description>
+      <source:markdown>Zoox asks federal regulators for exemption to launch a commercial robotaxi service.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/24/1223/</guid>
+    </item>    <item>
+      <title>Generative Design</title>
+      <link>https://kottke.org/25/09/generative-design</link>
+      <guid>cid://tag:kottke.org,2025://5.47581</guid>
+    </item>    <item>
+      <title>Why Do Wind Turbines Have Three Blades? Why not two? Or five?...</title>
+      <link>https://kottke.org/25/09/0047580-why-do-wind-turbines-have</link>
+      <guid>cid://tag:kottke.org,2025://13.47580</guid>
+    </item>    <item>
+      <title>Why is the ROI on Generative AI so poor?</title>
+      <link>https://garymarcus.substack.com/p/why-is-the-roi-on-generative-ai-so</link>
+      <description>
+        <![CDATA[From AI slop to workslop]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!jCAf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fedbb5a07-0b46-4a1a-8c19-266555a5b3df_1340x790.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/why-is-the-roi-on-generative-ai-so</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzm4ki76z22u</link>
+      <description>
+        <![CDATA[👇
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzm4ki76z22u</guid>
+    </item>    <item>
+      <title>Lawsuit About WhatsApp Security</title>
+      <link>https://mjtsai.com/blog/2025/09/24/lawsuit-about-whatsapp-security/</link>
+      <description>
+        <![CDATA[Bruce Schneier: Attaullah Baig, WhatsApp&#8217;s former head of security, has filed a whistleblower lawsuit alleging that Facebook deliberately failed to fix a bunch of security flaws, in violation of its 2019 settlement agreement with the Federal Trade Commission. Dan Goodin: The suit, filed in US District Court for the District of Northern California, recites a [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49355</guid>
+    </item>    <item>
+      <title>Screen Time Brokenness</title>
+      <link>https://mjtsai.com/blog/2025/09/24/screen-time-brokenness/</link>
+      <description>
+        <![CDATA[I&#8217;ve recently been using Screen Time more to manage my son&#8217;s Mac and iOS usage, and it&#8217;s been really frustrating. On the Sonoma Mac where he plays Minecraft, we wanted to restrict which Web sites could be viewed. But this doesn&#8217;t just affect what you can do in Safari; it also restricts which network connections [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49353</guid>
+    </item>    <item>
+      <title>Huntington&#38;#8217;s disease successfully treated for first time. &#38;#8220;An emotional research team became...</title>
+      <link>https://kottke.org/25/09/0047576-huntingtons-disease-succe</link>
+      <guid>cid://tag:kottke.org,2025://13.47576</guid>
+    </item>    <item>
+      <title>Hybrid ASCII Art</title>
+      <link>https://kottke.org/25/09/hybrid-ascii-art</link>
+      <guid>cid://tag:kottke.org,2025://5.47578</guid>
+    </item>    <item>
+      <title>Why I Write</title>
+      <link>https://guykawasaki.substack.com/p/why-i-write</link>
+      <description>
+        <![CDATA[My first book was published in 1987, and at the time, I thought it was the first and last one of my career.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!lChJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12626873-3ae4-4d70-b91b-1c414951b5b4_1080x1080.heic" length="0" type="image/jpeg" />
+      <guid>cid://https://guykawasaki.substack.com/p/why-i-write</guid>
+    </item>    <item>
+      <title>Historian Thomas Zimmer has left academia, Substack, and the US; now he&#38;#8217;s...</title>
+      <link>https://kottke.org/25/09/0047575-historian-thomas-zimmer-h</link>
+      <guid>cid://tag:kottke.org,2025://13.47575</guid>
+    </item>    <item>
+      <link>https://www.headsupnews.org/p/jimmy-kimmels-return-is-a-win-for?r=1ju529&#38;utm_campaign=post&#38;utm_medium=web</link>
+      <description>
+        <![CDATA[<p>Jimmy Kimmel’s return is a win for the resistance.</p>]]>
+      </description>
+      <source:markdown>Jimmy Kimmel’s return is a win for the resistance.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/24/1221/</guid>
+    </item>    <item>
+      <link>https://www.standtogetherhighered.org/</link>
+      <description>
+        <![CDATA[<p>Stand Together for higher ed.</p>]]>
+      </description>
+      <source:markdown>Stand Together for higher ed.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/24/1219/</guid>
+    </item>    <item>
+      <title>Writer and activist Alaa Abd El-Fattah has been pardoned and freed from prison.</title>
+      <link>https://lithub.com/writer-and-activist-alaa-abd-el-fattah-has-been-pardoned-and-freed-from-prison/</link>
+      <description>
+        <![CDATA[Image from The Guardian/Reuters The British-Egyptian writer and activist Alaa Abd El-Fattah was reunited with his family on Monday after spending most of the last decade in prison. Abd El-Fattah is one of Egypt’s most prominent writers and dissidents, and a widely known political prisoner. It’s a victory for free speech and a joy for [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260212</guid>
+    </item>    <item>
+      <link>https://apnews.com/article/trump-un-escalator-teleprompter-ddfc0875301f29d71625b353f2c2f832</link>
+      <description>
+        <![CDATA[<p>UN blames Trump's team for nonworking escalator and teleprompter.</p>]]>
+      </description>
+      <source:markdown>UN blames Trump&#39;s team for nonworking escalator and teleprompter.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/24/1217/</guid>
+    </item>    <item>
+      <title>Using Cesium-137 testing to find counterfeit wine. &#38;#8220;Cesium-137 did not exist on...</title>
+      <link>https://kottke.org/25/09/0047574-using-cesium-137-testing-</link>
+      <guid>cid://tag:kottke.org,2025://13.47574</guid>
+    </item>    <item>
+      <title>Rehén: tan superficial como entretenida</title>
+      <link>https://www.palomitademaiz.net/resenas-rehen/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-rehen</link>
+      <description>
+        <![CDATA[<p>Disponible en: Netflix. País: Reino Unido. Duración: 5 episodios de una hora. Creador: Matt Charman. Elenco: Suranne Jones, Ashley Thomas, Corey Mylchreest, Martin McCann, Isobel Akuwudike, Pip Carter, Lucian Msamati, Josh Barrow, Ami Okumura Jones, Hiftu Quasem, Julie Delpy. Más información de la serie: https://www.imdb.com/title/tt31806048/ Matt Charman, conocido por su guion nominado al Óscar El [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-rehen/">Rehén: tan superficial como entretenida</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.palomitademaiz.net/?p=25554</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/24.html#a155928</link>
+      <description>
+        <![CDATA[In the future you will be able to chain social networks together. It's up to you to figure out what that means. Because each social network will specialize in certain things. How will that work? Left as an exercise for the reader. We'll build new kinds of brains built out of whatever you can dream up.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/24.html#a155928</guid>
+    </item>    <item>
+      <title>September 23, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-23-2025-981</link>
+      <enclosure url="https://api.substack.com/feed/podcast/174450755/5c62203fc061b73a18649ddea80c3620.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-23-2025-981</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/24.html#a155639</link>
+      <description>
+        <![CDATA[The web has been asleep for 19 years, which is almost as long as <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">Rip Van Winkle</a> was.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/24.html#a155639</guid>
+    </item>    <item>
+      <title>Is the New York Times finally getting real about Trump? &#38;#8220;In the...</title>
+      <link>https://kottke.org/25/09/0047573-is-the-new-york-times</link>
+      <guid>cid://tag:kottke.org,2025://13.47573</guid>
+    </item>    <item>
+      <title>Everyone Was Wrong About Maximum Siphon Height</title>
+      <link>https://kottke.org/25/09/everyone-was-wrong-about-maximum-siphon-height</link>
+      <guid>cid://tag:kottke.org,2025://5.47568</guid>
+    </item>    <item>
+      <title>Sponsor Web Day Out</title>
+      <link>https://adactio.com/journal/22151</link>
+      <description>
+        <![CDATA[<p>If you work at a clever company, then you should let them know about <a href="https://webdayout.com/sponsorship/">sponsoring Web Day Out</a>.</p>
+        
+        <p>All the details are in this <a href="https://webdayout.com/sponsorship/WebDayOut.pdf">PDF sponsorship pack</a>. Basically there are three (and only three) spots available, at three different levels of sponsorship.</p>
+        
+        <p>One of the best things about <a href="https://webdayout.com/venue/">the venue for Web Day Out</a> is that always having an excellent auditorium, the Studio Theatre has a really nice space for the breaks. It would be the perfect spot to set up a stand and chat with all the smart attendees.</p>
+        
+        <p>All the attendees will, by definition, be smart because they got <a href="https://ti.to/clearleft/web-day-out">tickets for Web Day Out</a>—a steal at just £225+VAT.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/journal/22151</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/24.html#a143250</link>
+      <description>
+        <![CDATA[Here's a place to <a href="https://mastodon.social/@davew/115259759729219102">comment</a> on yesterday's <a href="https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/">podcast</a> with Matthias.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/24.html#a143250</guid>
+    </item>    <item>
+      <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/1967d3e00c775d4061f904bf8b11e30b50988ae9...6f828ef78be3e806ca02d53491bada0a1234d206</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Felix Oliver Friedrich</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/1967d3e00c775d4061f904bf8b11e30b50988ae9...6f828ef78be3e806ca02d53491bada0a1234d206">(6f828ef7)</a>
+        <i>
+        at
+        24 Sep 16:31
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Merge branch &#39;Streams&#39; into &#39;main&#39;</p></div>
+        <p>
+        <i>
+        ... and
+        1 more commit
+        </i>
+        </p>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-24:1821860</guid>
+    </item>    <item>
+      <title>When docs become performance art, everybody loses</title>
+      <link>https://passo.uno/documentation-theater-everybody-loses/</link>
+      <description>
+        <![CDATA[<p>You might have read <a href="https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner">Annie Mueller&rsquo;s post</a> poking fun at developers’ tutorials. If you haven&rsquo;t yet, do it now. On the surface, it’s an exquisite rendition of the kind of technobabble we tech writers get to tame every day. Reactions among devs ranged from nervous snickering to outright shame. Like all the best parodies, Annie’s goes deeper than that, though: It puts a finger on “documentation theater”, a state where docs are performative and not addressing a need nor caring about it. Let me explain why I think writing docs because you are forced to is worse than not having docs at all.</p>]]>
+      </description>
+      <guid>cid://https://passo.uno/documentation-theater-everybody-loses/</guid>
+    </item>    <item>
+      <title>In Jimmy Kimmel&#38;#8217;s words: What the late-night host said upon his return...</title>
+      <link>https://kottke.org/25/09/0047572-in-jimmy-kimmels-words-wh</link>
+      <guid>cid://tag:kottke.org,2025://13.47572</guid>
+    </item>    <item>
+      <link>https://en.wikipedia.org/wiki/Rip_Van_Winkle</link>
+      <description>
+        <![CDATA[<p>The web has been asleep for 19 years, which is almost as long as Rip Van WInkle was.</p>]]>
+      </description>
+      <source:markdown>The web has been asleep for 19 years, which is almost as long as Rip Van WInkle was.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/24/1215/</guid>
+    </item>    <item>
+      <title>‘Find My Parking Cops’ Tracks Officers Handing Out Tickets All Around San Francisco</title>
+      <link>https://www.404media.co/find-my-parking-cops-tracks-officers-handing-out-tickets-all-around-san-francisco/</link>
+      <description>
+        <![CDATA["Find My Parking Cops" pins the near-realtime locations of parking officers all over the city, and shows what they're issuing fines for, and how much.]]>
+      </description>
+      <guid>cid://68d3f7483ea9560001431a2b</guid>
+    </item>    <item>
+      <title>McSweeney&#38;#8217;s didn&#38;#8217;t even need to lampoon Trump&#38;#8217;s comments about vaccines, autism, &#38;...</title>
+      <link>https://kottke.org/25/09/0047571-mcsweeneys-didnt-even-nee</link>
+      <guid>cid://tag:kottke.org,2025://13.47571</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/24.html#a134803</link>
+      <description>
+        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/24/ripVanWinkle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">There are a lot of developers who think they understand WordPress but they don't. It has a REST api that you can build on. Everything WordPress does. It's the API the <a href="https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs">browser client</a> is built on. I didn't know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn't believe what I was seeing. What can I do with it? It snuck up on me that it's an API for the web, and it's also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. This is as exciting as any web product I did before, because now, after being <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">asleep</a> for 19 years, the web can now wake up. It really feels that way.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/24.html#a134803</guid>
+    </item>    <item>
+      <title>Sergey Durmanov pushed to project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/523d35eee60746f41b8b404c4e52f3ed14bf1e78</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Sergey Durmanov</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/523d35eee60746f41b8b404c4e52f3ed14bf1e78">(523d35ee)</a>
+        <i>
+        at
+        24 Sep 15:44
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">added comments</p></div>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-24:1821758</guid>
+    </item>    <item>
+      <title>A Vast ‘Cosmic Web’ Connects the Universe—Really. Now, We Can Emulate It.</title>
+      <link>https://www.404media.co/a-vast-cosmic-web-connects-the-universe-really-now-we-can-emulate-it/</link>
+      <description>
+        <![CDATA[An emulator called Effort.jl can drastically reduce computational time without sacrificing accuracy, which could help solve longstanding mysteries about the cosmos.]]>
+      </description>
+      <guid>cid://68d3ef543ea9560001430fd1</guid>
     </item>    <item>
       <title>Podcast: We&#39;re Suing ICE. Here&#39;s Why</title>
       <link>https://www.404media.co/podcast-were-suing-ice-heres-why/</link>
@@ -196,11 +447,19 @@
       </description>
       <guid>cid://https://doc.searls.com/?p=19464</guid>
     </item>    <item>
+      <title>my &#34;shopping&#34; note keeps me from buying dumb shit all the time</title>
+      <link>https://livelaugh.blog/posts/my-shopping-note/</link>
+      <guid>cid://https://livelaugh.blog/posts/my-shopping-note/</guid>
+    </item>    <item>
+      <title>crates.io: Malicious crates faster_log and async_println</title>
+      <link>https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/</link>
+      <guid>cid://https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/</guid>
+    </item>    <item>
       <title>GPT-5-Codex</title>
       <link>https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything</link>
       <description>
         <![CDATA[<p><strong><a href="https://platform.openai.com/docs/models/gpt-5-codex">GPT-5-Codex</a></strong></p>
-        OpenAI <a href="https://simonwillison.net/2025/Sep/15/gpt-5-codex/">half-relased this model</a> earlier this month, adding it to their Codex CLI tool but not their API.</p>
+        OpenAI <a href="https://simonwillison.net/2025/Sep/15/gpt-5-codex/">half-released this model</a> earlier this month, adding it to their Codex CLI tool but not their API.</p>
         <p>Today they've fixed that - the new model can now be accessed as <code>gpt-5-codex</code>. It's priced the same as regular GPT-5: $1.25/million input tokens, $10/million output tokens, and the same hefty 90% discount for previously cached input tokens, especially important for agentic tool-using workflows which quickly produce a lengthy conversation.</p>
         <p>It's only available via their Responses API, which means you currently need to install the <a href="https://github.com/simonw/llm-openai-plugin">llm-openai-plugin</a> to use it with LLM:</p>
         <pre><code>llm install -U llm-openai-plugin
@@ -312,6 +571,14 @@
       <title>Carbon Dating: Cold War Nukes &#38; Art Forgeries</title>
       <link>https://kottke.org/25/09/carbon-dating-cold-war-nukes-art-forgeries</link>
       <guid>cid://tag:kottke.org,2025://5.47563</guid>
+    </item>    <item>
+      <title>Secret Service Telecom Bust Exposes Cellular Weaknesses</title>
+      <link>https://puri.sm/posts/secret-service-telecom-bust-exposes-cellular-weaknesses/</link>
+      <description>
+        <![CDATA[<p>The Secret Service’s disruption of a massive SIM-server network near the U.N. is proof that the threats to our communications are real, organized, and capable of overwhelming public safety systems.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/secret-service-telecom-bust-exposes-cellular-weaknesses/">Secret Service Telecom Bust Exposes Cellular Weaknesses</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84546</guid>
     </item>    <item>
       <title>Literary takeaways from the 2025 film festival circuit.</title>
       <link>https://lithub.com/literary-takeaways-from-the-2025-film-festival-circuit/</link>
@@ -2134,7 +2401,7 @@
       <link>http://scripting.com/2025/09/19/201705.html?title=canWeFinallyPutThePastBehindUs</link>
       <description>
         <![CDATA[<p><i>Cross-posted from my <a href="https://daveverse.org/2025/09/16/can-we-finally-put-the-past-behind-us/">daveverse site</a>. </i></p>
-        <p>I hadn’t considered the point of view of people who worked at Netscape when it disappeared just as RSS 0.9.1 was being adopted by the blogosphere in 1999. We tried to get in touch, even when they didn’t work there, but no one responded. So we kept going. </p>
+        <p>I hadn���t considered the point of view of people who worked at Netscape when it disappeared just as RSS 0.9.1 was being adopted by the blogosphere in 1999. We tried to get in touch, even when they didn’t work there, but no one responded. So we kept going. </p>
         <p>Then we were surprised when a group of people we didn’t know announced, publicly, that they were the new authority on RSS and at the same time introduced a version 1.0 that was incompatible with the format Netscape left behind. Most developers didn’t switch, very few used their format. </p>
         <p>There were discussions and arguments and lots of hurt feelings on the mail list, but the status quo remained for a couple of years. There was RSS 0.91 and RSS 1.0. Most sites used 0.91. </p>
         <p>After a couple of years, we got lucky and found the people at the NYT who could license their proprietary feeds to us to use in our Radio UserLand product. We did a deal with them, and we were allowed to bundle their feeds with Radio. At first we stayed with their proprietary format, wanting to avoid dragging them into the arguments. But then we heard from other pubs that wanted to follow the NYT, and they wanted to know what they should do. We had a new version in the works, 0.92, that had a few new features, but as this was in development, we realized were doing all the work, and 1.0 was just sitting there as an obstacle, it would always appear as what we were doing was less than what they did, when the two really had nothing to do with each other. Since they never consulted us about superceeding the format we were using, we changed 0.92 to 2.0, waited for the flames, but they never came. People were tired of the arguing and there was too much potential in a publishing surface that was shared by bloggers and professional news. So guess what -- RSS 2.0 became the standard. </p>
