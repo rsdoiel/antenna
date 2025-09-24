@@ -4,10 +4,34 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <lastBuildDate>24 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Jimmy Kimmel saga, station ownership, and the FCC</title>
+      <link>https://www.marketplace.org/episode/2025/09/24/the-jimmy-kimmel-saga-station-ownership-and-the-fcc</link>
+      <description>
+        <![CDATA[<p>After being pulled by ABC, Jimmy Kimmel's late-night show returned to TV last night. Thing is, station groups Nexstar and Sinclair — which control ABC affiliates that reach about 20% of the country — opted out. Nexstar is working on a $6 billion merger with Tegna, awaiting Trump administration approval. All of this highlights a widening gap between big TV networks and local station owners. And later: If Republicans and Democrats on Capitol Hill can’t reach a deal, many federal agencies will close a week from today.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/24/mmr_20250924_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5XRKEQJ6S11FPX6RTEQG6HY" length="3380086" type="audio/mpeg" />
+      <guid>cid://01K5XRKEQJ6S11FPX6RTEQG6HY</guid>
+    </item>    <item>
+      <title>Trump&#39;s tariffs push Indonesia and the EU to a trade deal</title>
+      <link>https://www.marketplace.org/episode/2025/09/24/trumps-tariffs-push-indonesia-and-the-eu-to-a-trade-deal</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> After nearly a decade of negotiations, the European Union and Indonesia have agreed to a trade deal, in part to offset some of the effects of Trump's tariffs. Then, Nigeria has cut interest rates for the first time in five years. Plus, India has reduced taxes on everyday items to counteract the effects of U.S. tariffs, and the UK government says it saved around $600 million last year using artificial intelligence to combat fraud.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/24/mmr_20250924_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K5XR79DM484D0TXRQYQEXX0J" length="3883803" type="audio/mpeg" />
+      <guid>cid://01K5XR79DM484D0TXRQYQEXX0J</guid>
+    </item>    <item>
+      <title>AI cyberattacks pose special risks for small and medium businesses</title>
+      <link>https://www.marketplace.org/episode/2025/09/24/ai-cyberattacks-pose-special-risks-for-smaller-businesses</link>
+      <description>
+        <![CDATA[<p>Tony Pietrocola, president of the cybersecurity company AgileBlue, says cybercriminals are using artifical intelligence to generate deepfake video and audio calls, making the cyber threats more sophisticated and harder to catch.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/24/tech_20250924_0924_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5VT590V801A947QQ3YPCNTF" length="8439870" type="audio/mpeg" />
+      <guid>cid://01K5VT590V801A947QQ3YPCNTF</guid>
+    </item>    <item>
       <title>Rate cut? So what?</title>
       <link>https://www.marketplace.org/episode/2025/09/23/rate-cut-so-what</link>
       <description>
