@@ -4,8 +4,8 @@
   <channel>
     <title>Journalism</title>
     <link>https://rsdoiel.github.io/antenna/journalism.xml</link>
-    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.6</generator>
+    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>CSUN late heroics keeps unbeaten streak alive</title>
@@ -2770,28 +2770,6 @@
         <p>The post <a href="https://dailytrojan.com/2025/09/02/soccer-settles-for-a-draw/">Soccer settles for a draw against Portland</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
       </description>
       <guid>cid://https://dailytrojan.com/?p=237528</guid>
-    </item>    <item>
-      <title>Annenberg community calls to reinstate staffer after layoffs</title>
-      <link>https://dailytrojan.com/2025/09/02/annenberg-community-calls-to-reinstate-staffer-after-layoffs/</link>
-      <description>
-        <![CDATA[<p>The loss of one of Annenberg Media's "most-loved and most-needed" technical support staffers is straining back-to-school onboarding.</p>
-        <p>The post <a href="https://dailytrojan.com/2025/09/02/annenberg-community-calls-to-reinstate-staffer-after-layoffs/">Annenberg community calls to reinstate staffer after layoffs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>]]>
-      </description>
-      <guid>cid://https://dailytrojan.com/?p=237504</guid>
-    </item>    <item>
-      <title>Across Europe, the Middle East, and Africa, newsrooms are experimenting with conversational AI</title>
-      <link>https://www.niemanlab.org/2025/09/europe-middle-east-and-africa-newsrooms-are-experimenting-with-conversational-ai/</link>
-      <description>
-        <![CDATA[A new report from FT Strategies, “Taking AI from the back-end to the front page,” digs into AI adoption case studies at 16 major newsrooms across Europe, the Middle East, and Africa. All of the publications participated in AI Launchpad, a program run by the Financial Times’ media consultancy and Google News Initiative (GNI) from...]]>
-      </description>
-      <guid>cid://https://www.niemanlab.org/?p=242886</guid>
-    </item>    <item>
-      <title>With public media under siege, High Plains Public Radio builds a blueprint to cover more rural news with fewer resources</title>
-      <link>https://www.niemanlab.org/2025/09/with-public-media-under-siege-high-plains-public-radio-builds-a-blueprint-to-cover-more-rural-news-with-fewer-resources/</link>
-      <description>
-        <![CDATA[On June 13, High Plains Public Radio received some welcome news: It had been awarded a $750,000 grant from Press Forward. Over the next three years, the station will build out a regional news contributors network called the High Plains Civic Media Network for the rural communities it serves across the Oklahoma and Texas panhandles,...]]>
-      </description>
-      <guid>cid://https://www.niemanlab.org/?p=242860</guid>
     </item>
   </channel>
 </rss>

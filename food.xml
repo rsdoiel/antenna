@@ -4,10 +4,17 @@
   <channel>
     <title>Food</title>
     <link>https://rsdoiel.github.io/antenna/food.xml</link>
-    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.6</generator>
+    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Salted Caramel Cookies</title>
+      <link>https://www.tasteofhome.com/recipes/salted-caramel-cookies/</link>
+      <description>
+        <![CDATA[Our salted caramel cookies combine homemade caramel and chocolate chunks with decadent brown-butter cookie base.]]>
+      </description>
+      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2175244</guid>
+    </item>    <item>
       <title>Funfetti Just Dropped a Taylor Swift-Inspired Sourdough Bread Mix—Here’s How to Get It</title>
       <link>https://www.tasteofhome.com/article/funfetti-sourdough-bread-mix/</link>
       <description>
@@ -1941,73 +1948,6 @@
         <![CDATA[This creamy, spicy enchiladas suizas recipe translates your favorite restaurant meal into a simple chicken casserole you can make at home any night of the week.]]>
       </description>
       <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2150302</guid>
-    </item>    <item>
-      <title>The Best Bread Knives for Sourdough, Soft Loaves and Sandwiches</title>
-      <link>https://www.tasteofhome.com/collection/best-bread-knife/</link>
-      <description>
-        <![CDATA[<p>The best bread knife slices through sourdough just as easily as it glides through tomatoes. Here are our three top picks, tested by editors.</p>
-        <p>The post <a href="https://www.tasteofhome.com/collection/best-bread-knife/">The Best Bread Knives for Sourdough, Soft Loaves and Sandwiches</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.tasteofhome.com/?post_type=listicle&#38;p=2178920</guid>
-    </item>    <item>
-      <title>Waffled Grilled Cheese</title>
-      <link>https://www.tasteofhome.com/recipes/waffled-grilled-cheese/</link>
-      <description>
-        <![CDATA[Waffled grilled cheese is the crispy, melty and savory upgrade you and your waffle maker have been waiting for.]]>
-      </description>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180078</guid>
-    </item>    <item>
-      <title>Chopped Chicken Caesar Salad Sandwiches</title>
-      <link>https://www.tasteofhome.com/recipes/chopped-chicken-caesar-salad-sandwiches/</link>
-      <description>
-        <![CDATA[Imagine: A creamy garlicky dressing, crunchy romaine lettuce and hearty chicken all encased in a chewy bun that's like a super-sized crouton. These chopped chicken Caesar salad sandwiches are simple, delightful and perfect for salad lovers.]]>
-      </description>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2180050</guid>
-    </item>    <item>
-      <title>4 Best Carbon-Steel Pans, Vetted by Experts (2025)</title>
-      <link>https://www.bonappetit.com/story/best-carbon-steel-pans</link>
-      <description>
-        <![CDATA[They’re all over professional kitchens for a reason.]]>
-      </description>
-      <guid>cid://65bd57487a94eed543728943</guid>
-    </item>    <item>
-      <title>Grinch Guacamole</title>
-      <link>https://www.tasteofhome.com/recipes/grinch-guacamole/</link>
-      <description>
-        <![CDATA[Build a Grinch guacamole snack board with fresh veggies, cheese and tortilla chips to bring a touch of whimsy to your next holiday party or family movie night.]]>
-      </description>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2140386</guid>
-    </item>    <item>
-      <title>Tahini Brownies</title>
-      <link>https://www.tasteofhome.com/recipes/tahini-brownies/</link>
-      <description>
-        <![CDATA[If you’ve never baked with tahini or halva before, these tahini brownies are a great introduction.]]>
-      </description>
-      <guid>cid://https://www.tasteofhome.com/?post_type=recipe&#38;p=2166003</guid>
-    </item>    <item>
-      <title>Coffee News Club: Week of September 2nd</title>
-      <link>https://freshcup.com/coffee-news-club-week-of-september-2nd/</link>
-      <description>
-        <![CDATA[<p>Keurig Dr Pepper acquires JDE Peet’s in a major coffee consolidation. Plus, saving forests beats planting new trees, and Verve’s healthcare surcharge has people irked.</p>
-        <p>The post <a href="https://freshcup.com/coffee-news-club-week-of-september-2nd/">Coffee News Club: Week of September 2nd</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <guid>cid://https://freshcup.com/?p=42545</guid>
-    </item>    <item>
-      <title>Keurig Dr Pepper Buys JDE Peet’s, Building Coffee Giant Second to Nestlé</title>
-      <link>https://freshcup.com/keurig-dr-pepper-buys-jde-peets-building-coffee-giant-second-to-nestle/</link>
-      <description>
-        <![CDATA[<p>After a decade of nonstop mergers in coffee, news broke that Keurig Dr Pepper has agreed to acquire JDE Peet’s for $18 billion. </p>
-        <p>The post <a href="https://freshcup.com/keurig-dr-pepper-buys-jde-peets-building-coffee-giant-second-to-nestle/">Keurig Dr Pepper Buys JDE Peet’s, Building Coffee Giant Second to Nestlé</a> appeared first on <a href="https://freshcup.com">Fresh Cup</a>.</p>]]>
-      </description>
-      <guid>cid://https://freshcup.com/?p=42539</guid>
-    </item>    <item>
-      <title>Your 2025 Fall Baking Bucket List</title>
-      <link>https://www.tasteofhome.com/article/fall-baking-bucket-list/</link>
-      <description>
-        <![CDATA[<p>Our fall baking bucket list includes all the cozy autumnal pastries, breads and desserts we crave as soon as the weather starts to cool down. Bake along with us, and then check off recipes on the bingo card.</p>
-        <p>The post <a href="https://www.tasteofhome.com/article/fall-baking-bucket-list/">Your 2025 Fall Baking Bucket List</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.tasteofhome.com/?p=2165827</guid>
     </item>
   </channel>
 </rss>

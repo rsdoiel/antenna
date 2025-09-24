@@ -4,8 +4,8 @@
   <channel>
     <title>Craft</title>
     <link>https://rsdoiel.github.io/antenna/craft.xml</link>
-    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.6</generator>
+    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Bass Guitar Build Pt7</title>
@@ -148,13 +148,6 @@
         <![CDATA[South Arts, a nonprofit regional arts organization that supports artists and organizations, is now accepting applications for its FY26 Emerging Traditional Artists Program (ETAP). “This program recognizes and supports a new generation of traditional artists that have demonstrated a high level of skill in, commitment to, and leadership in their traditional art form. Artists must...]]>
       </description>
       <guid>cid://https://blog.lostartpress.com/?p=68789</guid>
-    </item>    <item>
-      <title>Help Out with Our Chairmaker’s Toolbox Classes</title>
-      <link>https://blog.lostartpress.com/2025/09/02/help-out-with-our-chairmakers-toolbox-classes/</link>
-      <description>
-        <![CDATA[Megan and I are teaching two scholarship classes for The Chairmaker’s Toolbox this fall. I’m teaching a chair class (surprise) Sept. 15-19. Megan is teaching a Dutch toolchest class (double surprise) on Oct. 17-19. For these classes, we supply all the materials, plus lunches, morning pastries and a yay-you-did-it dinner for the students. If you...]]>
-      </description>
-      <guid>cid://https://blog.lostartpress.com/?p=68786</guid>
     </item>
   </channel>
 </rss>

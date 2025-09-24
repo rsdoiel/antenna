@@ -4,8 +4,8 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.6</generator>
+    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Example Talk</title>
@@ -25,6 +25,83 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>GPT-5-Codex</title>
+      <link>https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://platform.openai.com/docs/models/gpt-5-codex">GPT-5-Codex</a></strong></p>
+        OpenAI <a href="https://simonwillison.net/2025/Sep/15/gpt-5-codex/">half-relased this model</a> earlier this month, adding it to their Codex CLI tool but not their API.</p>
+        <p>Today they've fixed that - the new model can now be accessed as <code>gpt-5-codex</code>. It's priced the same as regular GPT-5: $1.25/million input tokens, $10/million output tokens, and the same hefty 90% discount for previously cached input tokens, especially important for agentic tool-using workflows which quickly produce a lengthy conversation.</p>
+        <p>It's only available via their Responses API, which means you currently need to install the <a href="https://github.com/simonw/llm-openai-plugin">llm-openai-plugin</a> to use it with LLM:</p>
+        <pre><code>llm install -U llm-openai-plugin
+        llm -m openai/gpt-5-codex -T llm_version 'What is the LLM version?'
+        </code></pre>
+        <p>Outputs:</p>
+        <blockquote>
+        <p>The installed LLM version is 0.27.1.</p>
+        </blockquote>
+        <p>I added <a href="https://llm.datasette.io/en/stable/tools.html">tool support</a> to that plugin today, <a href="https://github.com/simonw/llm-openai-plugin/issues/20#issuecomment-3325921197">mostly authored by GPT-5 Codex itself</a> using OpenAI's Codex CLI.</p>
+        <p>The new <a href="https://cookbook.openai.com/examples/gpt-5-codex_prompting_guide">prompting guide for GPT-5-Codex</a> is worth a read.</p>
+        <blockquote>
+        <p>GPT-5-Codex is purpose-built for Codex CLI, the Codex IDE extension, the Codex cloud environment, and working in GitHub, and also supports versatile tool use. We recommend using GPT-5-Codex only for agentic and interactive coding use cases.</p>
+        <p>Because the model is trained specifically for coding, many best practices you once had to prompt into general purpose models are built in, and over prompting can reduce quality.</p>
+        <p>The core prompting principle for GPT-5-Codex is <strong>“less is more.”</strong></p>
+        </blockquote>
+        <p>I <a href="https://gist.github.com/simonw/b371949ae984b0431848cd16cba24b27">tried my pelican benchmark</a> at a cost of <a href="https://www.llm-prices.com/#it=16&amp;ot=2154&amp;ic=1.25&amp;oc=10">2.156 cents</a>.</p>
+        <pre><code>llm -m openai/gpt-5-codex "Generate an SVG of a pelican riding a bicycle"
+        </code></pre>
+        <p><img alt="See description below" src="https://static.simonwillison.net/static/2025/gpt-5-codex-api-pelican.png" /></p>
+        <p>I asked Codex to describe this image and it correctly identified it as a pelican!</p>
+        <pre><code>llm -m openai/gpt-5-codex -a https://static.simonwillison.net/static/2025/gpt-5-codex-api-pelican.png \
+          -s 'Write very detailed alt text'
+        </code></pre>
+        <blockquote>
+        <p>Cartoon illustration of a cream-colored pelican with a large orange beak and tiny black eye riding a minimalist dark-blue bicycle. The bird’s wings are tucked in, its legs resemble orange stick limbs pushing the pedals, and its tail feathers trail behind with light blue motion streaks to suggest speed. A small coral-red tongue sticks out of the pelican’s beak. The bicycle has thin light gray spokes, and the background is a simple pale blue gradient with faint curved lines hinting at ground and sky.</p>
+        </blockquote>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/gpt-5">gpt-5</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything</guid>
+    </item>    <item>
+      <title>Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action</title>
+      <link>https://simonwillison.net/2025/Sep/23/qwen3-vl/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list">Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action</a></strong></p>
+        I've been looking forward to this. Qwen 2.5 VL is one of the best available open weight vision LLMs, so I had high hopes for Qwen 3's vision models.</p>
+        <blockquote>
+        <p>Firstly, we are open-sourcing the flagship model of this series: Qwen3-VL-235B-A22B, available in both Instruct and Thinking versions. The Instruct version matches or even exceeds Gemini 2.5 Pro in major visual perception benchmarks. The Thinking version achieves state-of-the-art results across many multimodal reasoning benchmarks.</p>
+        </blockquote>
+        <p>Bold claims against Gemini 2.5 Pro, which are supported by a flurry of self-reported benchmarks.</p>
+        <p>This initial model is <em>enormous</em>. On Hugging Face both <a href="https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Instruct">Qwen3-VL-235B-A22B-Instruct</a> and <a href="https://huggingface.co/Qwen/Qwen3-VL-235B-A22B-Thinking">Qwen3-VL-235B-A22B-Thinking</a> are 235B parameters and weigh 471 GB. Not something I'm going to be able to run on my 64GB Mac!</p>
+        <p>The <a href="https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5">Qwen 2.5 VL family</a> included models at 72B, 32B, 7B and 3B sizes. Given the rate Qwen are shipping models at the moment I wouldn't be surprised to see smaller Qwen 3 VL models show up in just the next few days.</p>
+        <p>Also from Qwen today, three new API-only closed-weight models: <a href="https://x.com/Alibaba_Qwen/status/1970582211993927774">upgraded Qwen 3 Coder</a>, <a href="https://qwen.ai/blog?id=4266edf7f3718f2d3fda098b3f4c48f3573215d0&amp;from=home.latest-research-list">Qwen3-LiveTranslate-Flash</a> (real-time multimodal interpretation), and <a href="https://qwen.ai/blog?id=241398b9cd6353de490b0f82806c7848c5d2777d&amp;from=research.latest-advancements-list">Qwen3-Max</a>, their new trillion parameter flagship model, which they describe as their "largest and most capable model to date".</p>
+        <p>Plus <a href="https://twitter.com/Alibaba_Qwen/status/1970510193537753397">Qwen3Guard</a>, a "safety moderation model series" that looks similar in purpose to Meta's <a href="https://www.llama.com/docs/model-cards-and-prompt-formats/llama-guard-3/">Llama Guard</a>. This one is open weights (Apache 2.0) and comes in 8B, 4B and 0.6B sizes <a href="https://huggingface.co/collections/Qwen/qwen3guard-68d2729abbfae4716f3343a1">on Hugging Face</a>. There's more information in the <a href="https://github.com/QwenLM/Qwen3Guard">QwenLM/Qwen3Guard</a> GitHub repo.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45352672">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/ai-in-china">ai-in-china</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/23/qwen3-vl/#atom-everything</guid>
+    </item>    <item>
+      <title>Wednesday 24 September, 2025</title>
+      <link>https://memex.naughtons.org/wednesday-24-september-2025/41230/</link>
+      <description>
+        <![CDATA[After the rain Donegal, September. Quote of the Day ”If you want to read a perfect book there is only one way: write it.” Ambrose Bierce Tried that. Didn’t work. Musical alternative to the morning’s radio news Little Walter &#124; &#8230; <a href="https://memex.naughtons.org/wednesday-24-september-2025/41230/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://https://memex.naughtons.org/?p=41230</guid>
+    </item>    <item>
+      <title>SIMmetry</title>
+      <link>https://feed.tedium.co/link/15204/17169312/secret-service-raid-sim-bank-telecom-hardware</link>
+      <description>
+        <![CDATA[A recent Secret Service raid uncovers an insane network of SIM cards—along with perhaps the most unusual piece of hardware I’ve ever seen. Here’s the deal with the SIM bank.]]>
+      </description>
+      <guid>cid://https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/</guid>
+    </item>    <item>
+      <title>An excerpt from Patricia Lockwood&#38;#8217;s new book Will There Ever Be Another...</title>
+      <link>https://kottke.org/25/09/0047570-an-excerpt-from-patricia-</link>
+      <guid>cid://tag:kottke.org,2025://13.47570</guid>
     </item>    <item>
       <title>Wild Cats, Bored Cats, Sleepy Cats</title>
       <link>https://kottke.org/25/09/wild-cats-bored-cats-sleepy-cats</link>
@@ -186,6 +263,7 @@
       <description>
         <![CDATA[<p>Some random ideas about what the web is that I've been jotting down to share on Daveverse, my home on Mastodon and WordPress.</p>]]>
       </description>
+      <source:markdown>Some random ideas about what the web is that I&#39;ve been jotting down to share on Daveverse, my home on Mastodon and WordPress.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/23/1207/</guid>
     </item>    <item>
       <title>September 22, 2025</title>
@@ -328,6 +406,7 @@
       <description>
         <![CDATA[<p>Mets’ Pete Alonso: A Player Defined By Power And Character.</p>]]>
       </description>
+      <source:markdown>Mets’ Pete Alonso: A Player Defined By Power And Character.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/23/1205/</guid>
     </item>    <item>
       <title>Florida Sues Hentai Site and High-Risk Payment Processor for Not Verifying Ages</title>
@@ -510,6 +589,7 @@
       <description>
         <![CDATA[<p>Sinclair will continue to keep it off its ABC stations. Perhaps ABC could stream it live on Hulu for the viewers who aren’t getting Kimmel via Sinclair. Esp tonight everyone is going to want to see the show.</p>]]>
       </description>
+      <source:markdown>Sinclair will continue to keep it off its ABC stations. Perhaps ABC could stream it live on Hulu for the viewers who aren’t getting Kimmel via Sinclair. Esp tonight everyone is going to want to see the show.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/23/1203/</guid>
     </item>    <item>
       <title>September 22, 2025</title>
@@ -587,6 +667,7 @@
       <description>
         <![CDATA[<p>Om reviews the iPhone air. "It ranks as one of the most beautiful objects—not just phones—that I have ever held."</p>]]>
       </description>
+      <source:markdown>Om reviews the iPhone air. &#34;It ranks as one of the most beautiful objects—not just phones—that I have ever held.&#34;</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1201/</guid>
     </item>    <item>
       <title>Four new releases from Qwen</title>
@@ -669,6 +750,7 @@
       <description>
         <![CDATA[<p>The 21 grams experiment that tried to weigh a human soul.</p>]]>
       </description>
+      <source:markdown>The 21 grams experiment that tried to weigh a human soul.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1199/</guid>
     </item>    <item>
       <title>Super Mario Bros. Remastered</title>
@@ -711,6 +793,7 @@
       <description>
         <![CDATA[<p>Trump uses Kirk's death to silence critics—and voters aren't pleased. He blew his wad too soon. He probably isn't a good poker player either.</p>]]>
       </description>
+      <source:markdown>Trump uses Kirk&#39;s death to silence critics—and voters aren&#39;t pleased. He blew his wad too soon. He probably isn&#39;t a good poker player either.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1197/</guid>
     </item>    <item>
       <title>September 21, 2025</title>
@@ -757,6 +840,7 @@
       <description>
         <![CDATA[<p>WordCamp Canada: The blog is the message.</p>]]>
       </description>
+      <source:markdown>WordCamp Canada: The blog is the message.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1195/</guid>
     </item>    <item>
       <title>A new annual award seeks to uplift the “next generation of disabled writers.”</title>
@@ -1002,6 +1086,7 @@
       <description>
         <![CDATA[<p>Why WordPress Lost the Cool Kids (And How to Win Them Back).</p>]]>
       </description>
+      <source:markdown>Why WordPress Lost the Cool Kids (And How to Win Them Back).</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1193/</guid>
     </item>    <item>
       <title>M.2 HAT+ Compact on sale now at $15</title>
@@ -1242,12 +1327,14 @@
       <description>
         <![CDATA[<p>Czech president: NATO must respond militarily to Russian violations.</p>]]>
       </description>
+      <source:markdown>Czech president: NATO must respond militarily to Russian violations.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1191/</guid>
     </item>    <item>
       <link>https://www.theatlantic.com/ideas/archive/2025/09/trump-bondi-edva/684292/?gift=f35zZN0v_gDFE8xNwlQAHbnNuX5d1UjEs4oMp5ROUx0&#38;utm_source=copy-link&#38;utm_medium=social&#38;utm_campaign=share</link>
       <description>
         <![CDATA[<p>Trump Might Be Losing His Race Against Time.</p>]]>
       </description>
+      <source:markdown>Trump Might Be Losing His Race Against Time.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1189/</guid>
     </item>    <item>
       <title>Aguanta, todo va a estar bien</title>
@@ -1303,36 +1390,42 @@
       <description>
         <![CDATA[<p>This is the ad the Dems are too chickenshit to run.</p>]]>
       </description>
+      <source:markdown>This is the ad the Dems are too chickenshit to run.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1187/</guid>
     </item>    <item>
       <link>https://www.nytimes.com/2025/09/20/us/politics/jeffries-schumer-trump.html</link>
       <description>
         <![CDATA[<p>To which Trump would likely say “bipartisan? What dat?”</p>]]>
       </description>
+      <source:markdown>To which Trump would likely say “bipartisan? What dat?”</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1185/</guid>
     </item>    <item>
       <link>https://www.theguardian.com/global/commentisfree/2025/sep/21/trumps-fed-attacks-independence-dangerous</link>
       <description>
         <![CDATA[<p>Why Trump’s attacks on the Fed’s independence are so dangerous.</p>]]>
       </description>
+      <source:markdown>Why Trump’s attacks on the Fed’s independence are so dangerous.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1180/</guid>
     </item>    <item>
       <link>https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company</link>
       <description>
         <![CDATA[<p>Meta exposé author faces bankruptcy after ban on criticising company.</p>]]>
       </description>
+      <source:markdown>Meta exposé author faces bankruptcy after ban on criticising company.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1177/</guid>
     </item>    <item>
       <link>https://www.politico.com/news/2025/09/20/trump-bondi-truth-social-00574380?utm_content=politico/magazine/Politics&#38;utm_source=RSS_Feed&#38;utm_medium=RSS&#38;utm_campaign=RSS_Syndication</link>
       <description>
         <![CDATA[<p>Trump had a huge brain fart. He shouldn’t have posted that private message to Pam Bondi in public the way he did. Ooops.</p>]]>
       </description>
+      <source:markdown>Trump had a huge brain fart. He shouldn’t have posted that private message to Pam Bondi in public the way he did. Ooops.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1175/</guid>
     </item>    <item>
       <link>https://www.nbcchicago.com/news/local/ice-posts-help-wanted-sign-in-chicago-aimed-to-lure-peeved-police/3825853/</link>
       <description>
         <![CDATA[<p>Controversial ICE commercial aims to lure peeved Chicago police. They ran the same commercial in NY.</p>]]>
       </description>
+      <source:markdown>Controversial ICE commercial aims to lure peeved Chicago police. They ran the same commercial in NY.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/21/1173/</guid>
     </item>    <item>
       <title>Women, Men and Jobs</title>
@@ -1370,6 +1463,7 @@
       <description>
         <![CDATA[<p>This is what a WordLand feed looks like. Pretty straight RSS 2.0 feed with a few additions. Includes Wordpress site and post id’s and markdown text for each item. Also it’s possible to use this feed for linkblog entries.</p>]]>
       </description>
+      <source:markdown>This is what a WordLand feed looks like. Pretty straight RSS 2.0 feed with a few additions. Includes Wordpress site and post id’s and markdown text for each item. Also it’s possible to use this feed for linkblog entries.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1171/</guid>
     </item>    <item>
       <title>llm-openrouter 0.5</title>
@@ -1409,6 +1503,7 @@
       <description>
         <![CDATA[<p>The MAGA Movement Is Not a Debating Society.</p>]]>
       </description>
+      <source:markdown>The MAGA Movement Is Not a Debating Society.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1169/</guid>
     </item>    <item>
       <title>Web Standards and the Fall of the House of Iamus</title>
@@ -1478,6 +1573,7 @@
       <description>
         <![CDATA[<p>Border czar Tom Homan was investigated by DOJ for potential bribery.</p>]]>
       </description>
+      <source:markdown>Border czar Tom Homan was investigated by DOJ for potential bribery.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1167/</guid>
     </item>    <item>
       <title>Serenaded at dinner by the Friel sisters and Polca4</title>
@@ -1569,12 +1665,14 @@
       <description>
         <![CDATA[<p>Trump Says Critical Coverage of Him Is ‘Really Illegal.’</p>]]>
       </description>
+      <source:markdown>Trump Says Critical Coverage of Him Is ‘Really Illegal.’</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1165/</guid>
     </item>    <item>
       <link>https://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-suspension-reactions-marvel-disney-stars-1236376120/</link>
       <description>
         <![CDATA[Hollywood stars — including those with Disney, ABC, Hulu and Marvel Cinematic Universe credits — are continuing to show their support for the ‘Jimmy Kimmel Live!’ host in the wake of his suspension.]]>
       </description>
+      <source:markdown>Hollywood stars — including those with Disney, ABC, Hulu and Marvel Cinematic Universe credits — are continuing to show their support for the ‘Jimmy Kimmel Live!’ host in the wake of his suspension.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1163/</guid>
     </item>    <item>
       <link>https://bsky.app/profile/barackobama.bsky.social/post/3lzbokx5um22k</link>
@@ -1631,6 +1729,7 @@
       <description>
         <![CDATA[<p>After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View.</p>]]>
       </description>
+      <source:markdown>After getting Jimmy Kimmel suspended, FCC chair threatens ABC’s The View.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1161/</guid>
     </item>    <item>
       <title>Lit Hub Weekly: September 15 – 19, 2025</title>
@@ -1680,6 +1779,7 @@
       <description>
         <![CDATA[ChatGPT and Gemini both agreed it was likely that I had a bad form of cancer.]]>
       </description>
+      <source:markdown>ChatGPT and Gemini both agreed it was likely that I had a bad form of cancer.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1159/</guid>
     </item>    <item>
       <title>Buenos días, Cáceres!</title>
@@ -1694,6 +1794,7 @@
       <description>
         <![CDATA[<p>Josh Marshall writes about the monsters running things, and he’s right, but one thing journalists will never report on is that if the tech gods are monsters, so are journalists. They made the monsters through ignorance, being lazy, or greed. They own this disaster.</p>]]>
       </description>
+      <source:markdown>Josh Marshall writes about the monsters running things, and he’s right, but one thing journalists will never report on is that if the tech gods are monsters, so are journalists. They made the monsters through ignorance, being lazy, or greed. They own this disaster.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/20/1157/</guid>
     </item>    <item>
       <title>Will I Get Canceled? | The Coffee Klatch for September 20, 2025</title>
@@ -1757,6 +1858,7 @@
       <description>
         <![CDATA[<p>Larry Ellison Is Closing In on CNN, HBO and TikTok.</p>]]>
       </description>
+      <source:markdown>Larry Ellison Is Closing In on CNN, HBO and TikTok.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/19/1155/</guid>
     </item>    <item>
       <title>mooomooo, your org as data</title>
@@ -10503,480 +10605,6 @@
         Approach Define versioned subsets in a DestinationRule. Route via VirtualService with weights (canary → rollout). Add timeout, retries, and outlier detection. Shift weights, watch metrics, then cut over. Example (Config) # vs-dr.yaml apiVersion: networking.istio.io/v1beta1 kind: DestinationRule metadata: name: svc namespace: prod spec: host: svc.prod.svc.cluster.local subsets: - name: v1 labels: version: v1 - name: v2 labels: version: v2 trafficPolicy: tls: mode: ISTIO_MUTUAL outlierDetection: consecutive5xx: 5 interval: 5s baseEjectionTime: 30s maxEjectionPercent: 50 --- apiVersion: networking.]]>
       </description>
       <guid>cid://https://memo.mx/posts/istio-virtualservices-production/</guid>
-    </item>    <item>
-      <title>Wednesday 3 September, 2025</title>
-      <link>https://memex.naughtons.org/wednesday-3-september-2025/41165/</link>
-      <description>
-        <![CDATA[David’s Along with Shakespeare and Company in Paris, and Paludan in Copenhagen, David’s in Cambridge is one of the world’s loveliest bookshops. The apartment above it is where John Maynard Keynes and his wife Lydia lived when they were in &#8230; <a href="https://memex.naughtons.org/wednesday-3-september-2025/41165/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <guid>cid://https://memex.naughtons.org/?p=41165</guid>
-    </item>    <item>
-      <title>Pain in the Aisle</title>
-      <link>https://steady.substack.com/p/pain-in-the-aisle</link>
-      <description>
-        <![CDATA[While baloney is in ample supply at the White House]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3agl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5021a0d0-b439-49eb-b4ec-71dcd945248a_3800x2533.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/pain-in-the-aisle</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/02.html#a215627</link>
-      <description>
-        <![CDATA[General note: When I say RSS, I recognize that there are other feed formats, but I don't want to confuse things. The software makes all that transparent, so let's make it transparent for the users too, ok?]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/02.html#a215627</guid>
-    </item>    <item>
-      <title>WordLand + FeedLand will ask...</title>
-      <link>http://scripting.com/2025/09/02/215517.html?title=wordlandFeedlandWillAsk</link>
-      <description>
-        <![CDATA[<p>If all the people who love RSS and make software for it, feed readers, editors, blogging software, put our heads together, we could make a great network for people to write on, that would be so exciting, it would pull a lot of interest from the silos. If momentum builds, they will eventually add RSS as an inbound and outbound format because they will want to be on this network. </p>
-        <p>We, as writers, shouldn't have to live with the compromises that come from having to make 5 versions of everything, and still you don't have a way to share a lot of the interesting stuff people write.</p>
-        <p>If we choose to work together, even just a few of us, we could make big change.</p>]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/02/215517.html</guid>
-    </item>    <item>
-      <title>Bibliography</title>
-      <link>https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html</link>
-      <description>
-        <![CDATA[The page "Bibliography" has been updated]]>
-      </description>
-      <guid>cid://0000000223</guid>
-    </item>    <item>
-      <title>This video features a number of scientists who were working on stuff...</title>
-      <link>https://kottke.org/25/09/0047433-this-video-features-a-num</link>
-      <guid>cid://tag:kottke.org,2025://13.47433</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115136652706973491</link>
-      <description>
-        <![CDATA[<p>Finishing an emotionally difficult day. I'm gonna yeet myself into some fantasy books in a minute.</p><p>While I'm gone, what's something low effort you do for yourself for self care? Gimme some ideas for later, please.</p>]]>
-      </description>
-      <guid>cid://https://tilde.zone/@tomasino/115136652706973491</guid>
-    </item>    <item>
-      <title>My life has a musical track</title>
-      <link>http://scripting.com/2025/09/02/204124.html?title=myLifeHasAMusicalTrack</link>
-      <description>
-        <![CDATA[<p>How you know you’re <i>reallllly</i> old. You tell Alexa to play songs by Elton John and you find yourself singing along with <a href="https://youtu.be/75r0nQu-hMs?si=eB17vFtdknnE8lbJ">Crocodile Rock</a> with tears streaming down your face. Then they play <a href="https://www.youtube.com/watch?v=gM4Xm2MGLNQ">Philadelphia Freedom</a>. Mama mia.</p>
-        <p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/02/captainFantastic.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The thing about Crocodile Rock is that it's twice-nostalgic. He's singing about a generation-older than mine. Yet it planted in my memory connected to a period in my own life. I was a freshman at Lehman College in the Bronx, recovering from a raucous high school experience where I dropped out and moved into an apartment in the Bronx at 16 and came pretty close to losing my middle-class education-valuing upbringing. At Lehman, I was investing in myself and found out I was good at the things I thought I was no good at because the teachers were so awful. I got a good math teacher, Dr Isaacs, who treated me special because I had a good mind for math, it turns out. And thus I became a programmer when I thought I would likely go into politics before that. I still had the taste for politics, and as it turns out, writing, so I combined all of them into one, and out comes blogging and podcasting, and complicated algorithms that do simple easy to understand things. </p>
-        <p>And now <a href="https://en.wikipedia.org/wiki/Scott_Knaster">Scott Knaster</a> who has had an exciting <a href="https://tidbits.com/2025/03/18/check-out-scott-knasters-adjacent-to-greatness-substack-newsletter/">Adjacent to Greatness</a> career <a href="https://www.facebook.com/dave.winer.12/posts/pfbid0nDyfb6C6UQg8vFxWDM4Z1NZPNg5r2mVXGaDSKNMgwsqSCp8kotQ786aPZ49T5h5nl?comment_id=643762492104935">says</a> that Philadelphia Freedom is <a href="https://www.eltonjohn.com/stories/billie-jean-king-talks-about-philadelphia-freedom">about</a> <a href="https://en.wikipedia.org/wiki/Billie_Jean_King">Billie Jean King</a>. I did not know that!</p>]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/02/204124.html</guid>
-    </item>    <item>
-      <title>Published on Citation Needed: &#34;Trump Jr.-advised prediction markets invite bets on president’s demise&#34;</title>
-      <link>https://citationneeded.news/trump-death-bets</link>
-      <guid>cid://68b7565c604d916e1d8def71</guid>
-    </item>    <item>
-      <title>We&#38;#8217;re All in the Network of Time</title>
-      <link>https://kottke.org/25/09/were-all-in-the-network-of-time</link>
-      <guid>cid://tag:kottke.org,2025://5.47426</guid>
-    </item>    <item>
-      <title>Carbon Copy Cloner 7.1.3</title>
-      <link>https://mjtsai.com/blog/2025/09/02/carbon-copy-cloner-7-1-3/</link>
-      <description>
-        <![CDATA[Version 7.1.2: CCC has a new &#8220;glass&#8221; icon that looks great on macOS Tahoe! Big thanks to our UI designer Enelia at Abacus Finch who was able to find a way to keep our beloved page curl with the new glass material.[&#8230;]Tahoe users: If you disable the CCC menubar icon via the new System Settings [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49112</guid>
-    </item>    <item>
-      <title>Google to Require Developer Verification for Android Sideloading</title>
-      <link>https://mjtsai.com/blog/2025/09/02/google-to-require-developer-verification-for-android-sideloading/</link>
-      <description>
-        <![CDATA[Abner Li (Hacker News): To combat malware and financial scams, Google announced today that only apps from developers that have undergone verification can be installed on certified Android devices starting in 2026.This requirement applies to &#8220;certified Android devices&#8221; that have Play Protect and are preloaded with Google apps. The Play Store implemented similar requirements in [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49110</guid>
-    </item>    <item>
-      <title>iTorrent Removed via Notarization Due to Sanctions</title>
-      <link>https://mjtsai.com/blog/2025/09/02/itorrent-removed-via-notarization-due-to-sanctions/</link>
-      <description>
-        <![CDATA[Ernesto Van der Sar (Hacker News, MacRumors, Slashdot): Under EU law, Apple is required to give its users more freedom to install apps that are not listed in the official App Store. This allows for easier access to software that&#8217;s typically prohibited by Apple, including the popular iTorrent BitTorrent client. The iTorrent client built a [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49108</guid>
-    </item>    <item>
-      <title>Colombia Investigates App Store</title>
-      <link>https://mjtsai.com/blog/2025/09/02/colombia-investigates-app-store/</link>
-      <description>
-        <![CDATA[Hartley Charlton: The Superintendence of Industry and Commerce (SIC) announced the probe yesterday (via MobileTime), stating that its Delegation for the Protection of Competition had reached a preliminary conclusion that Apple may have engaged in exclusionary practices that restrict free competition in the Colombian market.The SIC case is focused on two primary concerns. First, the [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49106</guid>
-    </item>    <item>
-      <title>Tuesday session</title>
-      <link>https://adactio.com/notes/22108</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22108/small.jpg" srcset="https://adactio.com/images/uploaded/22108/medium.jpg 1.5x, https://adactio.com/images/uploaded/22108/large.jpg 2.5x" alt="Tuesday session" />
-        <p>Tuesday session</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22108</guid>
-    </item>    <item>
-      <title>&#38;#8220;New York City is marking its 400th birthday this year and almost...</title>
-      <link>https://kottke.org/25/09/0047430-new-york-city-is-marking</link>
-      <guid>cid://tag:kottke.org,2025://13.47430</guid>
-    </item>    <item>
-      <title>Handmaid&#39;s Tale Banned in Edmonton (Alberta, Canada) Schools</title>
-      <link>https://margaretatwood.substack.com/p/handmaids-tale-banned-in-edmonton</link>
-      <description>
-        <![CDATA[And everyone and their pet canary wants me to "comment."]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!FywH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0561353-5c96-42cf-9ef5-ad44237ea6ca_1053x956.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://margaretatwood.substack.com/p/handmaids-tale-banned-in-edmonton</guid>
-    </item>    <item>
-      <title>In tribute to Ozzy Osbourne, a choir of 7000+ people sang Black...</title>
-      <link>https://kottke.org/25/09/0047435-in-tribute-to-ozzy-osbour</link>
-      <guid>cid://tag:kottke.org,2025://13.47435</guid>
-    </item>    <item>
-      <title>The Subway Is Not Scary</title>
-      <link>https://onefoottsunami.com/2025/09/02/the-subway-is-not-scary/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29077</guid>
-    </item>    <item>
-      <title>Hamnet</title>
-      <link>https://kottke.org/25/09/hamnet</link>
-      <guid>cid://tag:kottke.org,2025://5.47429</guid>
-    </item>    <item>
-      <title>La tortuga roja: el silencio de lo esencial</title>
-      <link>https://www.palomitademaiz.net/resenas-la-tortuga-roja/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-la-tortuga-roja</link>
-      <description>
-        <![CDATA[<p>Dirección: Michael Dudok de Wit.  Guion: Michael Dudok de Wit, Pascale Ferran.  Elenco vocal: Emmanuel Garijo, Tom Hudson, Baptiste Goy, Axel Devillers.  Países: Francia, Bélgica, Japón.   Más información de la película: https://www.imdb.com/title/tt3666024/  A nueve años de su estreno original, La tortuga roja (2016), ópera prima del animador holandés Michaël Dudok de Wit, regresa a salas [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-la-tortuga-roja/">La tortuga roja: el silencio de lo esencial</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.palomitademaiz.net/?p=25503</guid>
-    </item>    <item>
-      <title>Praise and Criticism</title>
-      <link>https://tracydurnell.com/2025/09/02/praise-and-criticism/</link>
-      <description>
-        <![CDATA[From Ingrid Fetell Lee&#8217;s latest Joyletter, #92 The Facts of Life: It took me a long time to understand that it&#8217;s so hard to buffer ourselves against criticism because letting go of the idea that criticism is true also means letting go of praise as well. We want to believe all the good warm fuzzy [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=29172</guid>
-    </item>    <item>
-      <title>anti-patterns and patterns for achieving secure generation of code via AI</title>
-      <link>https://ghuntley.com/secure-codegen/</link>
-      <description>
-        <![CDATA[<p>I just finished up a phone call with a &quot;stealth startup&quot; that was pitching an idea that agents could generate code securely via an MCP server. Needless to say, the phone call did not go well. What follows is a recap of the conversation where I just shot</p>]]>
-      </description>
-      <guid>cid://68b6f98f62c0060001a85596</guid>
-    </item>    <item>
-      <title>Scientists Have Found the First Branch on the Tree of Life. &#38;#8220;The...</title>
-      <link>https://kottke.org/25/09/0047431-scientists-have-found-the</link>
-      <guid>cid://tag:kottke.org,2025://13.47431</guid>
-    </item>    <item>
-      <title>Funhouse Mirror Macs</title>
-      <link>https://feed.tedium.co/link/15204/17134597/apple-macintosh-clones-history</link>
-      <description>
-        <![CDATA[The Mac clone program, Apple’s attempt to revive its fortunes during its lowest era, had the opposite effect. But hey, it could have worked in 1985.]]>
-      </description>
-      <guid>cid://https://tedium.co/2025/09/02/apple-macintosh-clones-history/</guid>
-    </item>    <item>
-      <title>Luke 15:7</title>
-      <link>https://blog.dshr.org/2025/09/luke-157.html</link>
-      <description>
-        <![CDATA[<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/5/5d/KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="2048" data-original-width="1310" height="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg" width="128" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/King_James_Version">Source</a></td></tr></tbody></table>
-        The title of the post refers to the <a href="https://en.wikipedia.org/wiki/King_James_Version"><i>King James Version</i></a> of the Bible:
-        <blockquote>
-        I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.<br />
-        <blockquote>
-        <i>Luke 15:7</i>
-        </blockquote>
-        </blockquote>
-        In the throes of 2008's <a href="https://en.wikipedia.org/wiki/2008_financial_crisis">Global Financial Crisis</a> Satoshi Nakamoto published <a href="https://bitcoin.org/bitcoin.pdf"><i>Bitcoin: A Peer-to-Peer Electronic Cash System</i></a>. It inspired a large group of enthusiastic advocates who asserted that Bitcoin would possess the following attributes:<br />
-        <ul>
-        <li>It would be <i>decentralized</i>.</li>
-        <li>It would be <i>trustless</i>.</li>
-        <li>It would be <i>censorship resistant</i>.</li>
-        <li>It would be securely <i>encrypted</i>.</li>
-        <li>Users would be <i>anonymous</i>.</li>
-        <li>Users could transact <i>without intermediaries</i>.</li>
-        <li>Users could transact <i>cheaply</i>.</li>
-        </ul>
-        In short, it would enable users to escape the clutches of the TradFi (traditional finance) system that had so obviously failed. It has been obvious for many years that it doesn't, and in July there appeared a truly excellent <i>mea culpa</i> from a former advocate, Peter Ryan's <a href="https://www.compactmag.com/article/money-by-vile-means/"><i>Money by Vile Means</i></a>. Below the fold I comment on it, and a couple of other posts describing how TradFi has obliterated Nakamoto's vision.<br />
-        <span><a name='more'></a></span>
-        <br />
-        Ryan explains his <a href="https://www.compactmag.com/article/money-by-vile-means/">involvement with the Bitcoin cult</a>:<br />
-        <blockquote>
-        I was once a Bitcoin true believer. Back in 2013, I sat in a New York University classroom when an eccentric libertarian took to the podium to evangelize the new currency. Drawn to the message, I soon interned at the Bitcoin Center on Wall Street, where I participated in the nascent community. I later hosted events promoting the merits of cryptocurrencies. In 2018, I joined the crypto-focused news site CoinDesk, where I reported on the industry. I also produced a <a href="https://www.primevideo.com/detail/0R9WC9KG9Y24OL780OG9C8SXGA/ref=atv_dp_share_cu_r">documentary series</a> on cryptocurrencies.<br />
-        <br />
-        I was never a major player in the ecosystem, but as I met various influential figures and learned more about how crypto really worked, I began to realize that behind the rhetoric of freedom, decentralization, and empowerment was a reality in which a few elites were accumulating immense wealth under false pretenses. As the cryptocurrency economy expanded and evolved over the course of the 2010s, it became hard to ignore how radically the facts diverged from the vision I had been sold. So in 2019, I <a href="https://medium.com/@_peterryan/leaving-crypto-166c6ccfda0b">wrote</a> a Medium post called “Leaving Crypto,” terminated all my crypto-related contracts and collaborations, and sold all my crypto assets.
-        </blockquote>
-        His current take on the cult <a href="https://www.compactmag.com/article/money-by-vile-means/">is</a>:<br />
-        <blockquote>
-        Bitcoin’s founding goal of fighting unconstrained government spending has been inverted, as crypto is increasingly serving as a means of enabling more deficit spending, an agenda the Trump administration has all but explicitly embraced. Today, crypto is merely the latest ruse to persuade the public to surrender democratic freedom and financial sovereignty to oligarchs.
-        </blockquote>
-        One interesting part is his history of the <a href="https://www.compactmag.com/article/money-by-vile-means/">internal politics of the cult</a>:<br />
-        <blockquote>
-        The Bitcoin Foundation was created in 2012, with Ver, among others, on the leadership team. Its mission <a href="https://blog.bitmex.com/the-bitcoin-foundation/">stated</a> that it would be “funding the Bitcoin infrastructure, including a core development team.” Funding came from Bitcoin insiders, whether large investors like Ver or companies like Bitcoinstore, Mt. Gox, Bitinstant, Coinbase, and CoinDesk. It is estimated that the foundation had a few million (in dollar terms) under its control to finance developers and other activities. But amid allegations of mismanagement and ties to individuals accused of corruption, criminality, and incompetence, the Bitcoin Foundation became defunct in 2015.<br />
-        <br />
-        A new centralized authority arose in the same year when the entrepreneur and former MIT Media Lab director Joi Ito <a href="https://joi.ito.com/weblog/2015/04/15/announcing-mit-dci.html">announced</a> the launch of the Digital Currency Initiative under his department within MIT. As its website states, “DCI was formed… in order to provide a stable and sustainable funding for long-term Bitcoin Core developers.” Parallel organizations emerged as well. For-profit entities like Blockstream, Block (formerly Square), Xapo, and BitMEX, as well as non-profit organizations like Chaincode Labs and Brink, also helped fund developers.<br />
-        </blockquote>
-        Ryan's point is that the software that defines and implements Bitcoin is controlled by a small group of people who are lavishly funded by institutions that profit from their efforts.<br />
-        <br />
-        He doesn't mention the other central locus of control over Bitcoin, <a href="https://blog.dshr.org/2025/05/who-is-mining-bitcoin.html">Bitmain</a>, the dominant supplier of mining ASICs and power behind 7 of the top 8 mining pools.
-        The large mining pools <a href="https://www.compactmag.com/article/money-by-vile-means/">dominate Bitcoin</a>:<br />
-        <blockquote>
-        By one estimate from Hashrate Index, Foundry USA and Singapore-based AntPool control more than 50 percent of computing power, and the top ten mining pools control over 90 percent. Bitcoin blogger 0xB10C, who analyzed mining data as of April 15, 2025, found that centralization has gone even further than this, “with only six pools mining more than 95 percent of the blocks.”
-        </blockquote>
-        But by far the most interesting part is Ryan's history of the <a href="https://www.compactmag.com/article/money-by-vile-means/">block size war</a>:<br />
-        <blockquote>
-        This conflict was over whether to increase transaction capacity in each block by increasing the block size limit from 1 MB to 2 MB. The impetus for the proposed increase came from miners; in opposition was the “small block” faction, led by Bitcoin software developers.
-        </blockquote>
-        The <a href="https://www.compactmag.com/article/money-by-vile-means/">software developers</a>:<br />
-        <blockquote>
-        argued that Bitcoin was best scaled by way of non-Bitcoin based “layer 2s,” which interfaced with Bitcoin but were not bound by its structure and incentives. Increased Bitcoin transaction capacity would increase the aggregate variable fees miners could receive, whereas frozen Bitcoin transaction capacity meant that providers of layer 2s could divert those fees to themselves. For example, Blockstream—one of the major Bitcoin companies—offered a layer 2 product called the Liquid Network, which promised to accommodate increased demand for transactions. Blockstream employed high-profile Bitcoin Core developers. Digital Garage, co-founded by MIT’s Joi Ito, invested in Blockstream. This put lead maintainer van der Laan, whose role was funded by Ito’s DCI, in the nexus of Blockstream as well.
-        </blockquote>
-        In other words, the institutions backing the small group in charge of the software stood to benefit from abandoning the idea that Bitcoin was a medium of exchange that individuals could use for anything but speculation. Nakamoto never saw the block size limit as fundamental, so this was clearly heretical.<br />
-        <br />
-        Ryan's account is long and detailed, including the <a href="https://www.compactmag.com/article/money-by-vile-means/">victory of Bitfinex and Tether</a>:<br />
-        <blockquote>
-        No cryptocurrency exchange was bigger than Bitfinex. Bitfinex was an <a href="https://x.com/adam3us/status/1416178398708310017">early investor</a> in small blocker-led Blockstream. Bitfinex’s executives also managed Tether, the company that pioneered stablecoins: cryptocurrency tokens backed 1-to-1 with the equivalent dollar reserves.<br />
-        ...<br />
-        On Jan. 1, 2017, the tether supply was about $10 million. By Aug. 1, it grew 32 times to a total of $319 million. By Jan. 28, 2018, it was $2.3 billion. In just about one year, the Tether company’s supply of tether tokens and its alleged 1-to-1 reserves grew 230 times.
-        </blockquote>
-        Ryan quotes <a href="https://doi.org/10.1111/jofi.12903">Griffin and Shams</a> and <a href="https://ag.ny.gov/press-release/2021/attorney-general-james-ends-virtual-currency-trading-platform-bitfinexs-illegal">NY AG Letitia James</a> and <a href="https://www.compactmag.com/article/money-by-vile-means/">concludes</a>:<br />
-        <blockquote>
-        When all these sources are digested together, the logical conclusion is that unbacked dollar-like tokens were printed to tilt prices on an exchange bottleneck. Bitfinex, an exchange with a clear small block conflict of interest, was in total control of what Griffin and Shams described as a pseudo-central bank.
-        </blockquote>
-        He sums up the <a href="https://www.compactmag.com/article/money-by-vile-means/">result of the war</a>:<br />
-        <blockquote>
-        With the victory of the small blockers, Nakamoto’s theory that miners controlled Bitcoin crashed on the shores of reality. Miners were subordinate actors. They were scared of backing the losing side in the Scaling War and having their holdings go to zero. They also had to deal with short-term operating expenses of running server farms, which meant they needed to convert Bitcoin holdings to fiat currencies to pay their bills. The miners couldn’t afford to fight a war of attrition. A decentralized market didn’t decide the outcome of the Scaling War—a small group with conflicts of interest and a de facto money printer did.
-        </blockquote>
-        There is far more good stuff in Ryan's account than just the snippets I quoted above. You should go read the whole thing.<br />
-        <br />
-        You should also read Michael Kendall's <a href="https://manonthemargin.com/bitcoin-the-new-tradfi/"><i>Bitcoin: The New Tradfi</i></a>:<br />
-        <blockquote>
-        Adam Back was an OG anarchist cypherpunk.  Bitcoin arose out of the cypherpunk movement connected to online messaging during the infancy of the internet. Back shared correspondence with Satoshi and has been involved with Bitcoin since its inception. He’s the inventor of Hashcash whose cryptography became foundational to Bitcoin’s proof-of-work consensus, the founder of Blockstream, and a main contributor to Bitcoin Core. To say that Back has been a proponent of the original promise of Bitcoin would be a gross understatement.  Back has been one of the strongest champions of every initial promise of Bitcoin’s decentralized financial system.  That is until he sold out to Tradfi and essentially pulled the plug on everything he and his long promotion of Bitcoin stood for.
-        </blockquote>
-        Because Bitcoin is useless for anything except speculation, most of the time the demand for transactions is low, meaning transaction fees are low and miners' income depends upon the block reward. The characteristic of speculators is herd behavior, so occasionally they all want to transact at the same time and fees <a href="https://blog.dshr.org/2025/03/bitcoins-fee-spikes.html">spike enormously</a> for a brief interval. A payment system in which not merely is the value of the coin volatile but so is the cost of transacting is not useful.<br />
-        <br />
-        In an article entitled <a href="https://coingeek.com/curtain-falls-on-btc-decentralization-theater-mining-crumbles/"><i>Curtain falls on BTC’s decentralization theater; mining crumbles</i></a>, Steve Stradbrooke explains what Back did:<br />
-        <blockquote>
-        Bitcoin Core/Blockstream developers were largely responsible for ensuring <a href="https://coingeek.com/btc-sandcastles-and-the-next-civil-war/">the network <i>didn’t</i> proceed down the path</a> that would have allowed individual network blocks to carry a sufficient number of transactions to make mining profitable as block rewards shrink.<br />
-        <br />
-        The <a href="https://www.ft.com/content/a4a362a6-cc8b-4188-8658-75183a3d6f5f">Financial Times</a> reported this week that Blockstream’s founder/CEO, Adam Back, is in “late-stage talks” to contribute up to 30,000 BTC tokens worth ~$3 billion to a new ‘treasury’ firm being cooked up by Cantor Fitzgerald ...<br />
-        <br />
-        Back once <a href="https://x.com/adam3us/status/1182811867011604480">declared</a> that “individuals using a peer to peer ecash, are the very reason for existence of Bitcoin.” Back now believes that the one true path is handing BTC to Wall Street investment bankers to launch a company that does nothing but warehouse tokens while selling shares in that company (at a premium to the value of its BTC) to ‘individuals’ who don’t know better.
-        </blockquote>
-        Kendall <a href="https://manonthemargin.com/bitcoin-the-new-tradfi/">concludes</a>:<br />
-        <blockquote>
-        From the foundational backing by the unaudited Tether Ponzi that manipulates bitcoin’s price, to the shift from Defi to Tradfi as the only means to keep the system propped up (defeating Bitcoin’s reason for existence), and to vocal charlatans like Michael Saylor who are now the face of Bitcoin, Bitcoin belies Satoshi’s decentralized digital promise.  Everything Satoshi’s White Paper envisioned for Bitcoin no longer exists.  All that remains is a non-sustainable, manipulated asset where speculative frenzy defines its valuation.
-        </blockquote>
-        Also worth reading is Ann Pettifor's <a href="https://annpettifor.substack.com/p/capitalism-devours-crypto"><i>Capitalism Devours Crypto</i></a>:<br />
-        <blockquote>
-        Crypto - the criminal currency promoted by libertarians of a pioneering, frontier spirit - is being looted by the age-old criminality of capitalism - even while its global valuation rockets to $4 trillion; and even as it is clothed in the respectability of US Congressional and Presidential approval, with cover promised by US regulatory institutions.
-        </blockquote>
-        Pettifor focuses first on <a href="https://annpettifor.substack.com/p/capitalism-devours-crypto">(meta)stablecoins</a>:<br />
-        <blockquote>
-        Crypto interests wanted to integrate Stablecoins into the regulated US financial system so that crypto assets and bank accounts could in future be protected by the Securities and Exchange Commission and the Federal Deposit Insurance Corporation, just as ordinary bank deposits are. In other words, the crypto sector wanted to be protected from losses or failure (insolvency) by the US rules-based system sponsored by the American taxpayer.<br />
-        <br />
-        With the passing of the GENIUS Act, Stablecoin interests achieved their goal.
-        </blockquote>
-        But she points to a <a href="https://annpettifor.substack.com/p/capitalism-devours-crypto">different motive</a>:<br />
-        <blockquote>
-        But Financialised Capitalism - i.e. Wall Street - had a very different, and a far more devious motive for integrating digital Crypto ’narrow banks’ within the financial system.<br />
-        <br />
-        That motive: nothing less than the subordination of DeFi to the financial interests of TradFI.<br />
-        <br />
-        This is where ‘crypto treasury companies’ come into the picture. By first luring the global crypto community of fiery libertarians into the rules-based system governed by the GENIUS ACT, THE US Federal Reserve and US institutions, Wall Street helped to inflate the price of crypto currencies. . As a consequence, sky-rocketing crypto valuations have risen to what many consider are unsustainable levels.
-        </blockquote>
-        And there is one <a href="https://annpettifor.substack.com/p/capitalism-devours-crypto">crypto treasury company in particular</a>:<br />
-        <blockquote>
-        Crypto treasury companies are already well established and one is way ahead in the race to inflate the biggest bubble in Wall Street’s history.<br />
-        <br />
-        That company is Strategy, previously MicroStrategy, and is led by one Michael Saylor.<br />
-        <br />
-        Strategy bears an uncanny resemblance to a company at the heart of one of the biggest Ponzi schemes in history - the South Sea Company
-        </blockquote>
-        Wkikpedia summarizes the <a href="https://en.wikipedia.org/wiki/South_Sea_Company">South Sea Company</a> thus:<br />
-        <blockquote>
-        In Great Britain, many investors were ruined by the share-price collapse, and as a result, the national economy diminished substantially. The founders of the scheme engaged in insider trading, by using their advance knowledge of the timings of national debt consolidations to make large profits from purchasing debt in advance. Huge bribes were given to politicians to support the acts of Parliament necessary for the scheme. Company money was used to deal in its own shares, and selected individuals purchasing shares were given cash loans backed by those same shares to spend on purchasing more shares. The expectation of profits from trade with South America was talked up to encourage the public to purchase shares, but the bubble prices reached far beyond what the actual profits of the business (namely the slave trade) could justify.
-        </blockquote>
-        <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://upload.wikimedia.org/wikipedia/commons/1/17/William_Hogarth_-_The_South_Sea_Scheme.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1706" data-original-width="2048" height="167" src="https://upload.wikimedia.org/wikipedia/commons/1/17/William_Hogarth_-_The_South_Sea_Scheme.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme"><small>Emblematical print on<br />the South Sea Scheme</small></a></td></tr></tbody></table>
-        Pettifor notes <a href="https://en.wikipedia.org/wiki/William_Hogarth">William Hogarth</a>'s <a href="https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme"><i>Emblematical Print on the South Sea Scheme</i></a>, his <a href="https://annpettifor.substack.com/p/capitalism-devours-crypto">famous engraving</a> satirizing the South Sea Bubble:<br />
-        <blockquote>
-        Sky-high share prices are attracting a constant flow of new investors all keen to make quick capital gains from this giant and expanding Ponzi scheme. In a process not unlike the financial wheel of fortune depicted in Hogarth’s merry-go-round of 1721 (see below), the purchase of Strategy shares speeds up the speculative frenzy and in a positive feedback loop, further inflates the market capitalisation of the company.
-        </blockquote>
-        According to <a href="https://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme">Wikipedia</a>:<br />
-        <blockquote>
-        The print is often considered the first editorial cartoon or as a precursor of the form.
-        </blockquote>]]>
-      </description>
-      <author>noreply@blogger.com (David.)</author>
-      <guid>cid://tag:blogger.com,1999:blog-4503292949532760618.post-3068043870354394148</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/02.html#a145458</link>
-      <description>
-        <![CDATA[<a href="https://www.joshwcomeau.com/css/interactive-guide-to-grid/">CSS Grid</a> where have you been all my life? Very rational, simple.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/02.html#a145458</guid>
-    </item>    <item>
-      <title>Alexander Chee: How Can I Write At A Time Like This? &#38;#8220;We...</title>
-      <link>https://kottke.org/25/09/0047434-alexander-chee-how-can-i</link>
-      <guid>cid://tag:kottke.org,2025://13.47434</guid>
-    </item>    <item>
-      <title>We Already Know a Way to Save a Bunch of Lives. (Giving...</title>
-      <link>https://kottke.org/25/09/0047428-we-already-know-a-way</link>
-      <guid>cid://tag:kottke.org,2025://13.47428</guid>
-    </item>    <item>
-      <title>I am very, *very* excited about this …Web Day Out! https://webdayout.com/ A one-day event all about what you can do in web browsers today: Brighton, 12 March 2026!</title>
-      <link>https://adactio.com/notes/22107</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22107/small.png" srcset="https://adactio.com/images/uploaded/22107/medium.png 1.5x, https://adactio.com/images/uploaded/22107/large.png 2.5x" alt="I am very, *very* excited about this …Web Day Out! https://webdayout.com/ A one-day event all about what you can do in web browsers today: Brighton, 12 March 2026!" />
-        <p>I am very, <em>very</em> excited about this …Web Day Out!</p>
-        
-        <p><a href="https://webdayout.com/">https://webdayout.com/</a></p>
-        
-        <p>A one-day event all about what you can do in web browsers today: Brighton, 12 March 2026!</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22107</guid>
-    </item>    <item>
-      <title>Announcing Web Day Out</title>
-      <link>https://adactio.com/journal/22106</link>
-      <description>
-        <![CDATA[<p>I’m going to cut right to the chase: <a href="https://clearleft.com/">Clearleft</a> is putting on a brand new conference in 2026. It’s called <a href="https://webdayout.com/">Web Day Out</a>. It’ll be on Thursday, March 12th right here in Brighton. <a href="https://ti.to/clearleft/web-day-out">Tickets are just £225+VAT</a>. You should be there!</p>
-        
-        <p>If you’ve ever been to <a href="https://responsivedayout.com/">Responsive Day Out</a> or <a href="https://patternsday.com/">Patterns Day</a>, the format will be familiar to you. There’s going to be eight 30 minute talks. Bam! Bam! Bam!</p>
-        
-        <p>Like those other one-day conferences, this one has a laser-sharp focus.</p>
-        
-        <p><a href="https://webdayout.com/">Web Day Out</a> is all about what you can do in web browsers today. You can expect talks that showcase hands-on practical uses for the latest advances in HTML, CSS, and JavaScript APIs. There will be no talks about libraries, frameworks or build tools, and I can guarantee there will be absolutely no so-called “AI”.</p>
-        
-        <p>As you might have gathered, <a href="https://webdayout.com/agenda/">this is an opinionated conference</a>.</p>
-        
-        <p>If you care about performance, accessibility, and progressive enhancement, <a href="https://webdayout.com">Web Day Out</a> is the event for you.</p>
-        
-        <p>Or if you’ve been living in React-land but starting to feel that maybe you’re missing out on what’s been shipping in web browsers, <a href="https://webdayout.com">Web Day Out</a> is the event for you too. And I’m not talking about cute demos here. This is very much about shipping to production.</p>
-        
-        <p>I’ve got half of the line-up assembled already:</p>
-        
-        <ul>
-        <li><a href="https://www.jemimaabu.com/">Jemima Abu</a>,</li>
-        <li><a href="https://rachelandrew.co.uk/">Rachel Andrew</a>,</li>
-        <li><a href="https://lolaslab.co/">Lola Odelola</a>, and</li>
-        <li><a href="https://clagnut.com/">Richard Rutter</a>.</li>
-        </ul>
-        
-        <p><a href="https://webdayout.com/jemima-abu/#talk">Jemima’s talk</a> gives you a flavour of what to expect at Web Day Out:</p>
-        
-        <blockquote>
-          <p>In this talk, we’ll take a look at how to use HTML and CSS to build simpler alternatives to popular JavaScript components such as accordions, modals, scroll transitions, carousels etc We’ll also take a look at the performance and accessibility benefits and real-life applications and use-cases of these components.</p>
-        </blockquote>
-        
-        <p>Web Day Out will be in <a href="https://webdayout.com/venue/">The Studio Theatre</a> of the Brighton Dome, which is a fantastic intimate venue. That means that places are limited, so <a href="https://ti.to/clearleft/web-day-out">get your ticket now</a>!</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/journal/22106</guid>
-    </item>    <item>
-      <title>Fresh 2.0 Graduates to Beta, Adds Vite Support</title>
-      <link>https://deno.com/blog/fresh-and-vite</link>
-      <description>
-        <![CDATA[Fresh 2.0 beta introduces optional Vite integration - with hot reloading, faster boot times, seamless React aliasing, and the full Vite plugin ecosystem]]>
-      </description>
-      <guid>cid://https://deno.com/blog/fresh-and-vite</guid>
-    </item>    <item>
-      <title>Eels Shouldn&#38;#8217;t be Able to Exist</title>
-      <link>https://kottke.org/25/09/eels-shouldnt-be-able-to-exist</link>
-      <guid>cid://tag:kottke.org,2025://5.47425</guid>
-    </item>    <item>
-      <title>1965 Cryptanalysis Training Workbook Released by the NSA</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/1965-cryptanalysis-training-workbook-released-by-the-nsa.html</link>
-      <description>
-        <![CDATA[<p>In the early 1960s, National Security Agency cryptanalyst and cryptanalysis instructor Lambros D. Callimahos coined the term &#8220;Stethoscope&#8221; to describe a diagnostic computer program used to unravel the internal structure of pre-computer ciphertexts. The term appears in the newly declassified September 1965 document <i><a href="https://www.governmentattic.org/59docs/NSAlDCCDAC1965.pdf">Cryptanalytic Diagnosis with the Aid of a Computer</a></i>, which compiled 147 listings from this tool for Callimahos&#8217;s <a href="https://ia601207.us.archive.org/22/items/Legacy_Callimahos-nsa/Legacy_Callimahos.pdf">course</a>, <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/Callimahos_Course.pdf">CA-400: NSA Intensive Study Program in General Cryptanalysis</a>.</p>
-        <p>The listings in the report are printouts from the Stethoscope program, run on the NSA&#8217;s Bogart computer, showing statistical and structural data extracted from encrypted messages, but the encrypted messages themselves are not included. They were used in NSA training programs to teach analysts how to interpret ciphertext behavior without seeing the original message...</p>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70644</guid>
-    </item>    <item>
-      <title>The Bonfire of Trump’s Vanities</title>
-      <link>https://paulkrugman.substack.com/p/the-bonfire-of-trumps-vanities</link>
-      <description>
-        <![CDATA[A richness of embarrassments]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!86a4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9f65ed6-5998-476e-9788-15db8333378e_1430x762.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/the-bonfire-of-trumps-vanities</guid>
-    </item>    <item>
-      <title>Radar Trends to Watch: September 2025</title>
-      <link>https://www.oreilly.com/radar/radar-trends-to-watch-september-2025/</link>
-      <description>
-        <![CDATA[For better or for worse, AI has colonized this list so thoroughly that AI itself is little more than a list of announcements about new or upgraded models. But there are other points of interest. Is it just a coincidence (possibly to do with BlackHat) that so much happened in security in the past month? [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17379</guid>
-    </item>    <item>
-      <title>2025-09-02 Show the page unblurred</title>
-      <link>https://alexschroeder.ch/view/2025-09-02-unblur</link>
-      <description>
-        <![CDATA[<h1 id="2025-09-02-show-the-page-unblurred">2025-09-02 Show the page unblurred</h1>
-        
-        <p>Here&rsquo;s a bookmarklet to remove the blur filter everywhere.</p>
-        
-        <pre><code>javascript:(()=&gt;{try{const els=[...document.querySelectorAll('*')];let n=0;for(const el of els){const f=getComputedStyle(el).filter;if(f&amp;&amp;f.includes('blur(')){el.style.setProperty('filter','none','important');n++;}}console.log('Removed blur from '+n+' element'+(n===1?'':'s')+'.');}catch(e){console.error('Bookmarklet error:',e);}})();
-        </code></pre>
-        
-        <p>This is what it looks like:</p>
-        
-        <pre><code>javascript:(() =&gt; {
-          try {
-            const els=[...document.querySelectorAll('*')];
-            let n=0;
-            for (const el of els) { 
-              const f = getComputedStyle(el).filter;
-              if (f &amp;&amp; f.includes('blur(')) {
-                el.style.setProperty('filter','none','important');
-                n++;
-              }
-            }
-            console.log('Removed blur from '+n+' element'+(n===1?'':'s')+'.');
-          } catch(e) {
-            console.error('Bookmarklet error:',e);
-          }
-        })();
-        </code></pre>
-        
-        <p>Via <a class="account" href="https://infosec.exchange/@isotopp" title="@isotopp@infosec.exchange">@isotopp</a>.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Bookmarklet">#Bookmarklet</a></p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-09-02-unblur</guid>
-    </item>    <item>
-      <title>It’s funny because it’s true https://youtube.com/shorts/8-lgJX3npiQ?si=UubNFW7tqzWBlwQp</title>
-      <link>https://adactio.com/notes/22105</link>
-      <description>
-        <![CDATA[<p>It’s funny because it’s true</p>
-        
-        <p><a href="https://youtube.com/shorts/8-lgJX3npiQ?si=UubNFW7tqzWBlwQp">https://youtube.com/shorts/8-lgJX3npiQ?si=UubNFW7tqzWBlwQp</a></p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22105</guid>
-    </item>    <item>
-      <title>The “Woke” Myth</title>
-      <link>https://robertreich.substack.com/p/who-decides-what-we-know-and-learn</link>
-      <description>
-        <![CDATA[Who should decide what we see, read, and learn?]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Hkws!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0053bd3-a144-4847-b2d2-da235485302f_1200x800.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/who-decides-what-we-know-and-learn</guid>
-    </item>    <item>
-      <title>The Baseline Tooling Hackathon starts now!</title>
-      <link>https://web.dev/blog/baseline-hackathon-2025?hl=en</link>
-      <description>
-        <![CDATA[Want to make the web better for a chance to win cash prizes? Join the Baseline Tooling Hackathon!]]>
-      </description>
-      <guid>cid://https://web.dev/blog/baseline-hackathon-2025?hl=en</guid>
-    </item>    <item>
-      <title>Imagining better work: creating a niche for myself</title>
-      <link>https://tracydurnell.com/2025/09/01/imagining-better-work-creating-a-niche-for-myself/</link>
-      <description>
-        <![CDATA[In honor of American Labor Day ✊ I worked in local government for eight years, which was sometimes empowering and sometimes demoralizing. There are things only government can accomplish, and getting those done made the work worthwhile, even when they (often) took longer than expected. People probably don&#8217;t think of the sort of little niceties I [&#8230;]]]>
-      </description>
-      <guid>cid://https://tracydurnell.com/?p=29150</guid>
-    </item>    <item>
-      <title>September 1, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-1-2025</link>
-      <description>
-        <![CDATA[I hope everyone had a happy and relaxing Labor Day.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!APFP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda3c2e9e-fab1-4d80-88f5-d52f4f59b53d_5521x4141.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-1-2025</guid>
-    </item>    <item>
-      <title>Note published on September 2, 2025 at 4:00 AM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509012358</link>
-      <guid>cid://68b66be1604d916e1d8dee67</guid>
-    </item>    <item>
-      <title>Finished reading The League of Frightened Men</title>
-      <link>https://www.mollywhite.net/reading/books?search=The%20League%20of%20Frightened%20Men</link>
-      <guid>cid://68b6684d50389e550d756d79</guid>
-    </item>    <item>
-      <title>Apple&#39;s Assault on Standards</title>
-      <link>https://infrequently.org/2025/09/apples-crimes-against-the-internet-community/</link>
-      <guid>cid://https://infrequently.org/2025/09/apples-crimes-against-the-internet-community/</guid>
     </item>
   </channel>
 </rss>

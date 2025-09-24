@@ -4,10 +4,52 @@
   <channel>
     <title>Planet</title>
     <link>https://rsdoiel.github.io/antenna/planet.xml</link>
-    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.6</generator>
+    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Super Typhoon Ragasa lashes Hong Kong with strong winds</title>
+      <link>https://www.rte.ie/news/2025/0924/1535023-typhoon/</link>
+      <description>
+        <![CDATA[Super Typhoon Ragasa, the world's most powerful tropical cyclone this year, lashed Hong Kong with hurricane-force winds and torrential rain as the city shut down and more than 700 flights were cancelled.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0924/1535023-typhoon/</guid>
+    </item>    <item>
+      <title>&#39;Multiple drones&#39; seen from Gaza aid flotilla - activists</title>
+      <link>https://www.rte.ie/news/middle-east/2025/0924/1535022-middle-east/</link>
+      <description>
+        <![CDATA[Organisers of a Gaza-bound flotilla carrying aid and pro-Palestinian activists said they heard explosions and saw multiple drones that targeted some of their boats, currently situated off Greece.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/middle-east/2025/0924/1535022-middle-east/</guid>
+    </item>    <item>
+      <title>Record temperatures linked to human-caused climate change</title>
+      <link>https://www.rte.ie/news/ireland/2025/0924/1534997-irish-summer-heat/</link>
+      <description>
+        <![CDATA[New research by climate scientists at Maynooth University in conjunction with Met Éireann has found Ireland's record summer night time temperatures this year were made 40 times more likely by human-caused climate change.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/ireland/2025/0924/1534997-irish-summer-heat/</guid>
+    </item>    <item>
+      <title>Maria Steen 3 names short of presidential nomination</title>
+      <link>https://www.rte.ie/news/2025/0924/1535011-steen-presidential-election/</link>
+      <description>
+        <![CDATA[Barrister Maria Steen's efforts to become a presidential candidate look to have stalled as she still does not have the backing of the required 20 members of the Oireachtas.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0924/1535011-steen-presidential-election/</guid>
+    </item>    <item>
+      <title>Mandatory waste recycling targets set to be missed - EPA</title>
+      <link>https://www.rte.ie/news/2025/0924/1535014-recycle-targets/</link>
+      <description>
+        <![CDATA[Ireland needs to recycle an additional 400,000 tonnes of waste every year to achieve its legally binding recycling targets, according to a new report by the Environmental Protection Agency.]]>
+      </description>
+      <guid>cid://https://www.rte.ie/news/2025/0924/1535014-recycle-targets/</guid>
+    </item>    <item>
+      <title>The Traitors Ireland: A Final night of twists and turns</title>
+      <link>https://www.rte.ie/entertainment/2025/0923/1534977-the-traitors-ireland-a-final-night-of-twists-and-turns/</link>
+      <description>
+        <![CDATA[John Byrne recaps Tuesday's final episode of The Traitors Ireland, where the five remaining players battle it out on a long day when nerves are shred and mind games are played out. *Spoilers galore*]]>
+      </description>
+      <guid>cid://https://www.rte.ie/entertainment/2025/0923/1534977-the-traitors-ireland-a-final-night-of-twists-and-turns/</guid>
+    </item>    <item>
       <title>Traitors Ireland finale brings drama to Slane Castle</title>
       <link>https://www.rte.ie/entertainment/2025/0923/1534998-traitors-ireland-finale-brings-drama-to-slane-castle/</link>
       <description>
@@ -37,6 +79,13 @@
         <![CDATA[Ahead of tonight's final of The Traitors Ireland, the contestants who have already left the game shared their predictions on who would go all the way.]]>
       </description>
       <guid>cid://https://www.rte.ie/entertainment/2025/0923/1535000-watch-who-do-the-contestants-hope-will-win-traitors/</guid>
+    </item>    <item>
+      <title>Why are some Christians predicting the rapture on TikTok?</title>
+      <link>https://www.cbc.ca/news/entertainment/tiktok-rapture-prophecy-1.7641736?cmp=rss</link>
+      <description>
+        <![CDATA[<img src='https://i.cbc.ca/1.7641819.1758671500!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-brazil-corpus-christi.jpg' alt='A large statue of Jesus faces a sunrise.' width='620' height='349' title='The Christ the Redeemer statue stands over Rio de Janeiro before a morning Mass celebrating the Catholic holiday of Corpus Christi is held at the statue, Thursday, June 19, 2025 '/><p>The Rapture is near — at least according to an apocalyptic prophecy by one South African man who says it will fall on Tuesday or Wednesday. His claim has gone viral, with some believing it will mark the end times and many more mocking it on social media.</p>]]>
+      </description>
+      <guid>cid://1.7641736</guid>
     </item>    <item>
       <title>Donabate post-mortem yet to establish cause of death</title>
       <link>https://www.rte.ie/news/2025/0923/1534989-donabate-post-mortem/</link>
@@ -282,13 +331,29 @@
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-09-2025-UN-GA80-wideview.jpg/image560x340cropped.jpg" length="48779" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/09/1165917</guid>
     </item>    <item>
-      <title>Sudan war: Life-saving cholera vaccination campaign begins in Darfur</title>
+      <title>Sudan war: Lifesaving cholera vaccination campaign begins in Darfur</title>
       <link>https://news.un.org/feed/view/en/story/2025/09/1165916</link>
       <description>
         <![CDATA[Amid the devastating war in Sudan, UN aid teams are overcoming major obstacles to curb a cholera outbreak claiming lives across the country, with young children particularly at risk.]]>
       </description>
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/17-01-2024-UNICEF-Sudan-UN0749100.jpg/image560x340cropped.jpg" length="46282" type="image/jpeg" />
       <guid>cid://https://news.un.org/en/story/2025/09/1165916</guid>
+    </item>    <item>
+      <title>Guterres warns against loss of ‘fragile’ diplomatic momentum over Ukraine</title>
+      <link>https://news.un.org/feed/view/en/story/2025/09/1165927</link>
+      <description>
+        <![CDATA[Speaking at a high-level briefing on Ukraine on Tuesday, the UN Secretary General António Guterres told the Security Council that the international community cannot afford to lose “fragile” diplomatic momentum over ending the war with Russia.]]>
+      </description>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-09-25_SC_Ukraine_Zelensky.jpg/image560x340cropped.jpg" length="33745" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/09/1165927</guid>
+    </item>    <item>
+      <title>Haiti’s security crisis ‘is like the Sword of Damocles above us’: Foreign Minister</title>
+      <link>https://news.un.org/feed/view/en/story/2025/09/1165926</link>
+      <description>
+        <![CDATA[Foreign Ministers from across the Americas met on the margins of the UN General Assembly on Tuesday to rally for greater support for Haiti.&nbsp;]]>
+      </description>
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/05-07-2024_UNICEF_Haiti-02.jpg/image560x340cropped.jpg" length="34127" type="image/jpeg" />
+      <guid>cid://https://news.un.org/en/story/2025/09/1165926</guid>
     </item>    <item>
       <title>Barack Obama to receive Freedom of Dublin this week</title>
       <link>https://www.rte.ie/news/ireland/2025/0923/1534883-obama-freedom-ceremony/</link>
@@ -8152,6 +8217,13 @@
       </description>
       <guid>cid://https://www.rte.ie/news/ukraine/2025/0908/1532324-ukraine-russia-war/</guid>
     </item>    <item>
+      <title>Violence sweeps across Indonesia amid protests over worsening economy</title>
+      <description>
+        <![CDATA[In recent weeks, Indonesia has been rocked by massive anti-government demonstrations. The protests are led by students, workers and women&rsquo;s rights groups angered by the yawning gap between Indonesia&rsquo;s elites and shrinking middle class, and turned violent after a delivery driver was killed amid a police crackdown. John Yang speaks with The Economist&rsquo;s Aaron Connelly about the ongoing situation. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
+      </description>
+      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/indonesiaviolence.mp3" length="6652117" type="audio/mpeg" />
+      <guid>cid://https://www.pbs.org/newshour/show/violence-sweeps-across-indonesia-amid-protests-over-worsening-economy</guid>
+    </item>    <item>
       <title>Australian woman gets life in prison for fatal mushroom poisoning of in-laws</title>
       <link>https://www.cbc.ca/news/world/erin-patterson-life-prison-australia-fatal-poisoning-mushrooms-1.7627548?cmp=rss</link>
       <description>
@@ -8536,13 +8608,6 @@
       </description>
       <guid>cid://1.7625577</guid>
     </item>    <item>
-      <title>U.S. military strikes on suspected drug smugglers spark legal and diplomatic concerns</title>
-      <description>
-        <![CDATA[The Trump White House is signaling a new war on drug cartels. On Monday, the president released video of what the administration says was a strike on a drug-running boat off the coast of Venezuela. Nick Schifrin takes a closer look at what happened and at the administration&rsquo;s case for both the policy and the legality of this renewed focus on drug trafficking. PBS News is supported by - https://www.pbs.org/newshour/about/funders. Hosted on Acast. See acast.com/privacy]]>
-      </description>
-      <enclosure url="https://flex2.acast.com/s/pbs-newshour-world/u/d3i6fh83elv35t.cloudfront.net/static/2025/09/waroncartels.mp3" length="10542402" type="audio/mpeg" />
-      <guid>cid://https://www.pbs.org/newshour/show/u-s-military-strikes-on-suspected-drug-smugglers-spark-legal-and-diplomatic-concerns</guid>
-    </item>    <item>
       <title>IN PHOTOS | Who&#39;s been seen at TIFF this year</title>
       <link>https://www.cbc.ca/news/entertainment/in-photos-who-s-been-seen-at-tiff-this-year-1.7625767?cmp=rss</link>
       <description>
@@ -8815,80 +8880,6 @@
         <![CDATA[<img src='https://i.cbc.ca/1.7624304.1756925041!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/assembly-of-first-nations-afn-20250903.jpg' alt='a woman speaks at a podium.' width='620' height='349' title='Assembly of First Nations (AFN) National Chief Cindy Woodhouse Nepinak speaks at the Assembly of First Nations (AFN) Annual General Assembly in Winnipeg, Wednesday, Sept. 3, 2025. '/><p>First Nations chiefs and delegates from across the country are gathering in Winnipeg for the Assembly of First Nations annual general assembly starting Wednesday.</p>]]>
       </description>
       <guid>cid://1.7621546</guid>
-    </item>    <item>
-      <title>&#39;Like watching Gretzky play hockey:&#39; Colleagues remember actor Graham Greene</title>
-      <link>https://www.cbc.ca/news/indigenous/graham-greene-indigenous-colleagues-1.7623463?cmp=rss</link>
-      <description>
-        <![CDATA[<img src='https://i.cbc.ca/1.7623498.1756854523!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/dd-and-gg.jpeg' alt='Black and white image of two men reading a script.' width='620' height='349' title='Darrell Dennis, directed and co-wrote one of Greene’s last films, Sweet Summer Pow Wow. '/><p>Colleagues and friends say Graham Greene was a multi-faceted actor, portraying serious and comedic roles alike, who was "like an uncle" to younger performers.</p>]]>
-      </description>
-      <guid>cid://1.7623463</guid>
-    </item>    <item>
-      <title>Palestinian Foreign Minister: ‘Peace is possible and justice can prevail&#39;</title>
-      <link>https://www.vaticannews.va/en/world/news/2025-09/palestinian-foreign-minister-aghabekian-interview-peace-humanita.html</link>
-      <description>
-        <![CDATA[<p>A meeting with Holy See officials was on the agenda at the tail-end of a humanitarian and diplomatic tour to several European nations for the Palestinian Minister of Foreign Affairs this week. During her days in Rome, she made time to visit Palestinian children receiving treatment in Italian and Vatican Hospitals.</p>
-                            <p><a href="https://www.vaticannews.va/en/world/news/2025-09/palestinian-foreign-minister-aghabekian-interview-peace-humanita.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <guid>cid://https://www.vaticannews.va/en/world/news/2025-09/palestinian-foreign-minister-aghabekian-interview-peace-humanita.html</guid>
-    </item>    <item>
-      <title>CELAM Theological Center presents Pan-American ecosystem project</title>
-      <link>https://www.vaticannews.va/en/church/news/2025-09/celam-theological-center-presents-pan-american-ecosystem-project.html</link>
-      <description>
-        <![CDATA[<p>Last week, a member of the Theological Center presented the initiative, called "Together", to the Pope, explaining that it offers training and practical programs on synodality for the Pan-American region in various languages.</p>
-                            <p><a href="https://www.vaticannews.va/en/church/news/2025-09/celam-theological-center-presents-pan-american-ecosystem-project.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <guid>cid://https://www.vaticannews.va/en/church/news/2025-09/celam-theological-center-presents-pan-american-ecosystem-project.html</guid>
-    </item>    <item>
-      <title>2026 Vatican Observatory Astrophoto Calendars</title>
-      <link>https://www.vaticanobservatory.org/sacred-space-astronomy/2026-vatican-observatory-astrophoto-calendars/</link>
-      <description>
-        <![CDATA[Vatican Observatory 2026 Astrophoto Calendars Are Now Available!]]>
-      </description>
-      <guid>cid://https://www.vaticanobservatory.org/?p=220048</guid>
-    </item>    <item>
-      <title>Archbishop Gallagher stresses need for dialogue and rebuilding consensus</title>
-      <link>https://www.vaticannews.va/en/vatican-city/news/2025-09/archbishop-gallagher-stresses-dialogue-and-rebuilding-consensus.html</link>
-      <description>
-        <![CDATA[<p>On the final day of the Bled Strategic Forum taking place in Bled, Slovenia, the Holy See's Secretary for Relations with States and International Organisations, Archbishop Paul Richard Gallagher, underscores the need for dialogue and consensus building in an increasingly divided world.</p>
-                            <p><a href="https://www.vaticannews.va/en/vatican-city/news/2025-09/archbishop-gallagher-stresses-dialogue-and-rebuilding-consensus.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <guid>cid://https://www.vaticannews.va/en/vatican-city/news/2025-09/archbishop-gallagher-stresses-dialogue-and-rebuilding-consensus.html</guid>
-    </item>    <item>
-      <title>Pope&#39;s September prayer intention: For our relationship with creation</title>
-      <link>https://www.vaticannews.va/en/pope/news/2025-09/september-prayer-intention-for-our-relationship-with-creation.html</link>
-      <description>
-        <![CDATA[<p>In his prayer intention for September 2025, Pope Leo XIV invites us to pray that we might experience our interdependence with all creatures, who are loved by God and worthy of love and respect.</p>
-                            <p><a href="https://www.vaticannews.va/en/pope/news/2025-09/september-prayer-intention-for-our-relationship-with-creation.html">Read all</a></p>
-                            <p>&nbsp;</p>]]>
-      </description>
-      <guid>cid://https://www.vaticannews.va/en/pope/news/2025-09/september-prayer-intention-for-our-relationship-with-creation.html</guid>
-    </item>    <item>
-      <title>Cooling La Niña could be back, but global temperatures set to rise: WMO</title>
-      <link>https://news.un.org/feed/view/en/story/2025/09/1165756</link>
-      <description>
-        <![CDATA[The cooling climate phenomenon known as La Niña could return between now and November, but it won’t stop the trend for warmer global temperatures caused by human activity, UN weather experts said on Tuesday.]]>
-      </description>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-02-2025-WMO-Philippines.jpg/image560x340cropped.jpg" length="39665" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/09/1165756</guid>
-    </item>    <item>
-      <title>Afghanistan quake: Aid teams still scrambling to reach survivors</title>
-      <link>https://news.un.org/feed/view/en/story/2025/09/1165757</link>
-      <description>
-        <![CDATA[In remote eastern Afghanistan, aid workers are continuing to race to assist survivors of Sunday’s devastating earthquake as the death toll continues to climb, UN humanitarians said on Tuesday.]]>
-      </description>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/02-09-2025-UNHCR-Afghanistan.jpg/image560x340cropped.jpg" length="49835" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/09/1165757</guid>
-    </item>    <item>
-      <title>Funding cuts could push 6 million more children out of school, warns UNICEF</title>
-      <link>https://news.un.org/feed/view/en/story/2025/09/1165764</link>
-      <description>
-        <![CDATA[Global education funding is facing sharp reductions that could leave an extra six million children out of school by 2026, the UN Children’s Fund (UNICEF) warned on Wednesday.]]>
-      </description>
-      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-03-2025_UNICEF_Mali-01.jpg/image560x340cropped.jpg" length="39758" type="image/jpeg" />
-      <guid>cid://https://news.un.org/en/story/2025/09/1165764</guid>
     </item>
   </channel>
 </rss>

@@ -4,8 +4,8 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>23 Sep 25 15:09 -0700</lastBuildDate>
-    <generator>antenna/0.0.6</generator>
+    <lastBuildDate>23 Sep 25 17:49 -0700</lastBuildDate>
+    <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
       <title>Short Films and Existential Threats</title>
@@ -131,24 +131,6 @@
       <title>Write Now with Scrivener, Episode no. 54: Tim Queeney, Author of a History of Rope</title>
       <link>https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-54-tim-queeny-author-of-a-history-of-rope</link>
       <guid>cid://https://www.literatureandlatte.com/?p=7558</guid>
-    </item>    <item>
-      <title>The Return of the Spec Screenplay Sale</title>
-      <link>https://blog.finaldraft.com/the-return-of-the-spec-screenplay-sale</link>
-      <description>
-        <![CDATA[<div class="hs-featured-image-wrapper"> 
-         <a href="https://blog.finaldraft.com/the-return-of-the-spec-screenplay-sale" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Graph%20Going%20Up%20With%20Rocket.jpeg" alt="Graph going up with Rocket " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
-        </div> 
-        <p>In my article <a href="https://blog.finaldraft.com/how-much-money-can-you-make-selling-a-screenplay"><span>“How Much Money Can You Make Selling a Screenplay,”</span></a> I wrote about the return of the spec sale and how there were a handful of big sales in 2024. Well, it’s looking like 2025 is going to be even better for screenwriters who have written original screenplays.</p>]]>
-      </description>
-      <guid>cid://https://blog.finaldraft.com/the-return-of-the-spec-screenplay-sale</guid>
-    </item>    <item>
-      <title>Last Looks</title>
-      <link>https://johnaugust.com/2025/last-looks-2</link>
-      <description>
-        <![CDATA[<p>John and Craig welcome back producer Megana Rao, who has a question: how do you polish a script before sending it out? From obvious things like typos and title pages to tougher choices like cutting and transitions, they look at what to consider on a final pass so you can email your script with confidence. [&#8230;]</p>
-        The post <a href="https://johnaugust.com/2025/last-looks-2">Last Looks</a> first appeared on <a href="https://johnaugust.com">John August</a>.]]>
-      </description>
-      <guid>cid://https://johnaugust.com/?p=23415</guid>
     </item>
   </channel>
 </rss>
