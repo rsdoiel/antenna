@@ -4,10 +4,222 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>25 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Another win for the Digital Markets Act: Microsoft gives truly free access to additional year of Windows 10 updates to EU users</title>
+      <link>https://www.osnews.com/story/143429/another-win-for-the-digital-markets-act-microsoft-gives-truly-free-access-to-additional-year-of-windows-10-updates-to-eu-users/</link>
+      <description>
+        <![CDATA[A few months ago, Microsoft finally blinked and provided a way for Windows 10 users to gain &#8220;free&#8221; access to the Windows 10 Extended Security Update program. For regular users to gain access to this program, their options are to either pay around $30, pay 1000 Microsoft points, or to sign up for the Windows Backup application to synchronise their settings to Microsoft’s computers (the “cloud”). In other words, in order to get &#8220;free&#8221; access to extended security updates for Windows 10 after the 25 October end-of-support deadline, you have to start using OneDrive, and will have to start paying for additional storage since the base 5GB of OneDrive storage won&#8217;t be enough for backups. And we all know OneDrive is hell. Thanks to the European Union&#8217;s Digital Markets Act, though, Microsoft has dropped the OneDrive requirement for users within the European Economic Area (the EU plus Norway, Iceland, and Liechtenstein). Citing the DMA, consumer rights organisations in the EU complained that Microsoft&#8217;s OneDrive requirement was in breach of EU law, and Microsoft has now given in. Of course, dropping the OneDrive requirement only applies to consumers in the EU/EEA; users in places with much weaker consumer protection legislation, like the United States, will not benefit from this move. Consumer rights organisations are lauding Microsoft&#8217;s move, but they&#8217;re not entirely satisfied just yet. The main point of contention is that the access to the Extended Security Update program is only valid for one year, which they consider too short. In a letter, Euroconsumers, one of the consumer rights organisations, details this issue. At the same time, several points from our original letter remain relevant. The ESU program is limited to one year, leaving devices that remain fully functional exposed to risk after October 13, 2026. Such a short-term measure falls short of what consumers can reasonably expect for a product that remains widely used and does not align with the spirit of the Digital Content Directive (DCD), nor the EU’s broader sustainable goals. Unlike previous operating system upgrades, which did not typically require new hardware, the move to Windows 11 does. This creates a huge additional burden for consumers, with some estimates suggesting that over 850 million active devices still rely on million Windows 10 and cannot be upgraded due to hardware requirements. By contrast, upgrades from Windows 7 or 8 to Windows 10 did not carry such limitations. ↫ Eurconsumer&#8217;s letter According to the group, the problem is exacerbated by the fact that Microsoft is much more aggressive in phasing out support for Windows 10 than for previous versions of Windows. Windows 10 is being taken behind the shed four years after its launch, while Windows XP and Windows 7 enjoyed 7-8 years. With how many people are still using Windows 10, often with no way to upgrade but buying new hardware, it&#8217;s odd that Microsoft is trying to kill it so quickly. In any event, we can chalk this up as another win for consumers in the European Union, with the Digital Markets Act once again creating better outcomes than in other regions of the world.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143429</guid>
+    </item>    <item>
+      <title>NFS at 40: a treasure trove of documents and other material about Sun’s Network File System</title>
+      <link>https://www.osnews.com/story/143425/nfs-at-40-a-treasure-trove-of-documents-and-other-material-about-suns-network-file-system/</link>
+      <description>
+        <![CDATA[The contributions of Sun Microsystems to the world of computing are legion &#8211; definitely more than its ignominious absorption into Oracle implies &#8211; and one of those is NFS, the Network File system. This month, NFS more or less turned 40 years old, and in honour of this milestone, Russel Berg, Russ Cox, Steve Kleiman, Bob Lyon, Tom Lyon, Joseph Moran, Brian Pawlowski, David Rosenthal, Kate Stout, and Geoff Arnold created a website to honour NFS. This website gathers material related to the Sun Microsystems Network File System, a project that began in 1983 and remains a fundamental technology for today’s distributed computer systems.  The core of the collection is design documents, white papers, engineering specifications, conference and journal papers, and standards material. However it also covers marketing materials, trade press, advertising, books, “swag”, and personal ephemera. We’re always looking for new contributions. ↫ NFS at 40 There&#8217;s so many amazing documents here, such as the collection of predecessors of NFS that served as inspiration for NFS, like the Cambridge File Server or the Xerox Alto&#8217;s Interim File System, but also tons of fun marketing material for things like NFS server accelerators and nerdy NFS buttons. Even if you&#8217;re not specifically interested in the history of NFS, there&#8217;s great joy in browsing these old documents and photos.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143425</guid>
+    </item>    <item>
+      <title>NASA Flights Study Cosmic Ray Effects for Air, Future Space Travelers</title>
+      <link>https://www.nasa.gov/centers-and-facilities/langley/nasa-flights-study-cosmic-ray-effects-for-air-future-space-travelers/</link>
+      <description>
+        <![CDATA[Recent airborne science flights to Greenland are improving NASA’s understanding of space weather by measuring radiation exposure to air travelers and validating global radiation maps used in flight path planning. This unique data also has value beyond the Earth as a celestial roadmap for using the same instrumentation to monitor radiation levels for travelers entering [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=918857</guid>
+    </item>    <item>
+      <title>Quantum Safe Private Communications: Building the Future Before the Threat Arrives</title>
+      <link>https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/</link>
+      <description>
+        <![CDATA[<p>Secure mobility is not just about encryption — it’s about sovereignty. The ability to own, control, and verify every layer of your communications stack is the difference between operational assurance and strategic vulnerability.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/quantum-safe-private-communications-building-the-future-before-the-threat-arrives/">Quantum Safe Private Communications: Building the Future Before the Threat Arrives</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84586</guid>
+    </item>    <item>
+      <title>Archaeologists Discover a 5,000-Year-Old Tomb in Southern Spain</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-discover-a-five-thousand-year-old-tomb-in-southern-spain-180987401/</link>
+      <description>
+        <![CDATA[The stone structure, called a dolmen, offers a glimpse into prehistoric life, trade and religion]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RIc1nLO5AxBpHS0GYgkPy-coPbY=/420x240/filters:focal(848x396:849x397)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/18/b5/18b5727b-fc18-4ae6-90ac-be8de72ecdec/screenshot_2025-09-25_at_101711am.png" length="" type="" />
+    </item>    <item>
+      <title>Microsoft cuts off Azure phone surveillance support for Israeli military</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/microsoft_cuts_off_azure_phone/</link>
+      <description>
+        <![CDATA[<h4>Brad Smith says &#39;we do not provide technology to facilitate mass surveillance of civilians&#39;</h4> <p>The president of Microsoft has said it&#39;s cutting parts of the Israeli military off from Azure after reports that the army was using the platform in a mass surveillance operation against Palestinians in the West Bank and Gaza.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242140</guid>
+    </item>    <item>
+      <title>yt-dlp will soon require a full JS runtime to overcome YouTube’s JS challenges</title>
+      <link>https://www.osnews.com/story/143423/yt-dlp-will-soon-require-a-full-js-runtime-to-overcome-youtubes-js-challenges/</link>
+      <description>
+        <![CDATA[If you download YouTube videos, there&#8217;s a real chance you&#8217;re using yt-dlp, the long-running and widely-used command-line program for downloading YouTube videos. Even if you&#8217;re not using it directly, many other tools for downloading YouTube videos are built on top of yt-dlp, and even some media players which offer YouTube playback use it in the background. Now, yt-dlp has always had a built-in basic JavaScript &#8220;interpreter&#8221;, but due to changes at YouTube, yt-dlp will soon require a proper JavaScript runtime in order to function. Up until now, yt-dlp has been able to use its&#160;built-in JavaScript &#8220;interpreter&#8221;&#160;to solve the JavaScript challenges that are required for YouTube downloads. But due to&#160;recent changes on YouTube&#8217;s end, the built-in JS interpreter will soon be insufficient for this purpose. The changes are so drastic that&#160;yt-dlp will need to leverage a proper JavaScript runtime in order to solve the JS challenges. ↫ Yt-dlp&#8217;s announcement on GitHub The yt-dlp team suggests using Deno, but compatibility with some alternatives has been added as well. The issue is that the &#8220;interpreter&#8221; yt-dlp already includes consists of a massive set of very complex regex patterns to solve JS challenges, and those are difficult to maintain and no longer sufficient, so a real runtime is necessary for YouTube downloads. Deno is advised because it&#8217;s entirely self-contained and sandboxed, and has no network or filesystem access of any kind. Deno also happens to be a single, portable executable. As time progresses, it seems yt-dlp is slowly growing into a web browser just to be able to download YouTube videos. I wonder what kind of barriers YouTube will throw up next, and what possible solutions from yt-dlp might look like.]]>
+      </description>
+      <guid>cid://https://www.osnews.com/?p=143423</guid>
+    </item>    <item>
+      <title>X2 Elite is Qualcomm’s latest attempt to bring Apple’s M-series magic to the PC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/qualcomm_details_x2_elite/</link>
+      <description>
+        <![CDATA[<h4>Plus the Snapdragon 8 Elite turns 5</h4> <p>Qualcomm revealed the second act in its bid to overtake Intel and AMD as the leading laptop CPU maker this week with the paper launch of its Snapdragon X2 Elite and Elite Extreme processors. The company seeks to bring the kind of battery life and performance Apple has gotten out of its Arm-based M-series silicon to the Windows market.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242139</guid>
+    </item>    <item>
+      <title>North Korea&#39;s Lazarus Group shares its malware with IT work scammers</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/lazarus_group_shares_malware_with_it_scammers/</link>
+      <description>
+        <![CDATA[<h4>Keeping Pyongyang&#39;s coffers full</h4> <p>North Korean-linked crews connected to the pervasive IT worker scams have upped their malware game, using more advanced tools, including a backdoor that has much of the same code as Pyongyang&#39;s infamous Lazarus Group deploys.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242137</guid>
+    </item>    <item>
+      <title>Amazon will refund $1.5B to 35M customers allegedly duped into paying for Prime</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/amazon_will_refund_15b_to/</link>
+      <description>
+        <![CDATA[<h4>Former FTC chair Khan not happy her legal wrath ended in settlement worth just 14% of Amazon&#39;s quarterly net</h4> <p>Amazon has settled the Federal Trade Commission&#39;s case against it for making it too hard to quit Prime, and while it naturally didn&#39;t admit to any wrongdoing, it&#39;s still going to pay out one of the largest settlements in FTC history to make the matter go away. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242138</guid>
+    </item>    <item>
+      <title>Experimental Gene Therapy Successfully Treats Huntington&#39;s Disease for the First Time</title>
+      <link>https://www.smithsonianmag.com/smart-news/an-experimental-gene-therapy-successfully-treated-huntingtons-disease-for-the-first-time-180987403/</link>
+      <description>
+        <![CDATA[Preliminary results from a small study offer hope for treatment of the degenerative disease]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/u5Ul_0TvFwPd4GNQbY8-4QmEJSk=/420x240/filters:focal(2790x1581:2791x1582)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/5c/16/5c164d3b-b1e9-4e59-aed5-073850eb57ba/gettyimages-1607061390.jpg" length="" type="" />
+    </item>    <item>
+      <title>AI that once called itself MechaHitler will now be available to the US government for $0.42</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/grokai_servces_us_government/</link>
+      <description>
+        <![CDATA[<h4>Elon Musk&#39;s AI appears to be more ideological than competitors</h4> <p>Despite protest letters, concerns that it&#39;s biased and untrustworthy, model tweaks to appease its billionaire boss, and even a past incident where it called itself &#34;MechaHitler,&#34; xAI&#39;s Grok is still being made available to government agencies for mere pennies.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242136</guid>
+    </item>    <item>
+      <title>Archaeologists Find Both a Medieval Dungeon and Roman Burial Beneath a Market Square in England</title>
+      <link>https://www.smithsonianmag.com/smart-news/archaeologists-find-both-a-medieval-dungeon-and-roman-burial-beneath-a-market-square-in-england-180987404/</link>
+      <description>
+        <![CDATA[Researchers are excavating Leicester Market amid the area’s large-scale renovation]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/RI7g_yOP9-dF4hbMxUeUjyLxiJc=/420x240/filters:focal(375x250:376x251)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/77/44/7744b58c-e035-4274-b1b6-f094f093ad91/speller_metcalfe.jpeg" length="" type="" />
+    </item>    <item>
+      <title>What Causes Stuttering? A Large DNA Analysis Study Offers New Clues, Uncovering Links to 48 Genes</title>
+      <link>https://www.smithsonianmag.com/smart-news/what-causes-stuttering-a-large-dna-analysis-study-offers-new-clues-uncovering-links-to-48-genes-180987285/</link>
+      <description>
+        <![CDATA[Scientists analyzed data from more than one million users of 23andMe and found associations between certain genes and stuttering]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/_9ePm70oBhrTVHmZSqoQnWa2QJ0=/420x240/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a8/a5/a8a58d22-a778-466f-93f9-a1fc93ce1193/gettyimages-1468087538.jpg" length="" type="" />
+    </item>    <item>
+      <title>NASA Opens 2026 Human Lander Challenge for Life Support Systems, More</title>
+      <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/</link>
+      <description>
+        <![CDATA[NASA’s 2026 Human Lander Challenge is seeking ideas from college and university students to help evolve and transform technologies for life support and environmental control systems. These systems are critical for sustainable, long-duration human spaceflight missions to the Moon, Mars, and beyond. The Human Lander Challenge supports NASA’s efforts to foster innovative solutions to a [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=919127</guid>
+    </item>    <item>
+      <title>NASA, Sierra Space Modify Commercial Resupply Services Contract</title>
+      <link>https://www.nasa.gov/missions/station/nasa-sierra-space-modify-commercial-resupply-services-contract/</link>
+      <description>
+        <![CDATA[In 2016, NASA awarded a Commercial Resupply Services-2 contract to Sierra Space,&#160;formerly part of&#160;Sierra Nevada Corporation, to resupply the International Space Station with its Dream Chaser spaceplane and companion Shooting Star cargo module. As part of its contract, Sierra Space was awarded&#160;a minimum seven flights, and the agency previously issued firm-fixed price task orders for [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=919119</guid>
+    </item>    <item>
+      <title>3-in-1 Launch</title>
+      <link>https://www.nasa.gov/image-article/3-in-1-launch/</link>
+      <description>
+        <![CDATA[A SpaceX Falcon 9 rocket lifts off from NASA’s Kennedy Space Center in Florida on Sept. 24, 2025, carrying&#160;three missions that will investigate the Sun’s influence across the solar system. NASA’s IMAP (Interstellar Mapping and Acceleration Probe), the agency’s Carruthers Geocorona Observatory, and National Oceanic and Atmospheric Administration’s (NOAA) Space Weather Follow On–Lagrange 1 (SWFO-L1) [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=image-article&#38;p=918740</guid>
+    </item>    <item>
+      <title>The Titanic&#39;s Sister Ship, the Britannic, Sank in 1916. For the First Time, Divers Have Recovered Artifacts From Its Wreck</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-titanics-sister-ship-the-britannic-sank-in-1916-for-the-first-time-ever-divers-have-recovered-artifacts-from-its-wreck-180987402/</link>
+      <description>
+        <![CDATA[The luxury liner was requisitioned as a hospital ship during World War I. Thirty people died after the vessel struck a German naval mine and sank off the coast of Greece]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/TAJIJL159rRwTVf8nXj7lcpE3u8=/420x240/filters:focal(900x591:901x592)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ba/16/ba161bea-bc0a-4ac7-8611-fe383a06f1c3/.jpg" length="" type="" />
+    </item>    <item>
+      <title>NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface</title>
+      <link>https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/</link>
+      <description>
+        <![CDATA[The NISAR (NASA-ISRO Synthetic Aperture Radar) Earth-observing radar satellite’s first images of our planet’s surface are in, and they offer a glimpse of things to come as the joint mission between NASA and ISRO (Indian Space Research Organisation) approaches full science operations later this year. “Launched under President Trump in conjunction with India, NISAR’s first [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=919019</guid>
+    </item>    <item>
+      <title>Callous crims break into preschool network, publish toddlers&#39; data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/ransomware_gang_publishes_toddlers_images/</link>
+      <description>
+        <![CDATA[<h4>Images of toddlers and home addresses leaked in reprehensible landmark attack</h4> <p>A cyber criminal crew has targeted Kido International, a preschool and daycare organization, leaking sensitive details about its pupils and their parents.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242120</guid>
+    </item>    <item>
+      <title>Harness pitches AI agents as your new DevOps taskmasters</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/harness_agentic_ai_devops/</link>
+      <description>
+        <![CDATA[<h4>Productivity gains promised, but humans still expected to audit the bots</h4> <p>At its Unscripted event in London, DevOps company Harness presented its latest AI-driven modules, including an AI pipeline builder, AI test automation, autonomous code fixing when builds fail, AI AppSec (application security) and even AI-driven chaos testing, where resiliency is tested by introducing random failures.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242127</guid>
+    </item>    <item>
+      <title>NASA &#38; STEM Learning Ecosystems: Opportunities &#38; Benefits for Everyone</title>
+      <link>https://science.nasa.gov/learning-resources/for-professionals/nasa-stem-learning-ecosystems-opportunities-benefits-for-everyone/</link>
+      <description>
+        <![CDATA[STEM learning ecosystems are intentionally designed, community-wide partnerships that enable all Americans to actively participate in science, technology, engineering, and math (STEM) throughout their lifetimes. Lifelong STEM learning helps people build critical knowledge and skills, access economic opportunities, drive innovation, and make informed decisions in a changing world. STEM learning ecosystems draw on expertise and […]]]>
+      </description>
+      <guid>cid://https://science.nasa.gov/learning-resources/for-professionals/nasa-stem-learning-ecosystems-opportunities-benefits-for-everyone/</guid>
+    </item>    <item>
+      <title>NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission</title>
+      <link>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/</link>
+      <description>
+        <![CDATA[NASA will host a news conference at 2 p.m. EDT Wednesday, Oct. 1, from the agency’s Johnson Space Center in Houston to highlight the upcoming mission of astronaut Chris Williams to the International Space Station. The news conference will stream live on NASA’s website and YouTube channel. Learn how to watch NASA content through a [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?post_type=press-release&#38;p=918931</guid>
+    </item>    <item>
+      <title>DARPA wants AI to know when it&#39;s being an energy hog</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/dapra_ai_power_conscious/</link>
+      <description>
+        <![CDATA[<h4>New research program seeks ‘energy-aware’ ML that balances performance with power draw</h4> <p>It&#39;s notoriously difficult to consistently measure the energy usage of AI models, but DARPA wants to put an end to that uncertainty with new &#34;energy-aware&#34; machine learning systems. …</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242128</guid>
+    </item>    <item>
+      <title>EU probes SAP over alleged software support stranglehold</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/ec_probe_sap_support/</link>
+      <description>
+        <![CDATA[<h4>While EC suspects vendor&#39;s practices stifle competition, it argues it is in line with industry standards</h4> <p>The European Commission has launched a formal investigation into SAP&#39;s behavior in the aftermarket for maintenance and support services in Europe.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242125</guid>
+    </item>    <item>
+      <title>The Mystery of the Small Dog in Rembrandt&#39;s Monumental Masterpiece &#39;The Night Watch&#39; Has Officially Been Solved</title>
+      <link>https://www.smithsonianmag.com/smart-news/the-mystery-of-the-small-dog-in-rembrandts-monumental-masterpiece-the-night-watch-has-officially-been-solved-180987399/</link>
+      <description>
+        <![CDATA[When a curator spotted a strikingly similar image of a dog by a lesser-known Dutch artist, she wondered if it could have inspired the pup in Rembrandt's famous 1642 painting]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/s5Hivqu2GULdQdckAUaBADvjMZg=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/24/d7/24d7063d-7b50-4c36-8bfd-f4c0d07c430e/night-watch.jpg" length="" type="" />
+    </item>    <item>
+      <title>Safety Without Surveillance: Designing Digital Sovereignty for All Ages</title>
+      <link>https://puri.sm/posts/safety-without-surveillance-designing-digital-sovereignty-for-all-ages/</link>
+      <description>
+        <![CDATA[<p>In September, a single misconfiguration in Life360’s Android API turned a “family safety” app into a map of human lives exposed. More than 442,000 users had their precise GPS trails, names, and phone numbers dumped online by a threat actor known as Emo.</p>
+        <p>The post <a rel="nofollow" href="https://puri.sm/posts/safety-without-surveillance-designing-digital-sovereignty-for-all-ages/">Safety Without Surveillance: Designing Digital Sovereignty for All Ages</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>]]>
+      </description>
+      <guid>cid://https://puri.sm/?p=84574</guid>
+    </item>    <item>
+      <title>Open source to closed doors: RubyGems control fight erupts</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/open_source_to_closed_doors/</link>
+      <description>
+        <![CDATA[<h4>Ruby Central is accused of ousting maintainers from core gems under pressure from Shopify</h4> <p>Ruby Central is said to have quietly snatched control of several flagship Ruby open source projects from their long-time maintainers without their consent, following pressure from Shopify, one of its biggest backers.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242126</guid>
+    </item>    <item>
+      <title>Google reminds EU that Microsoft&#39;s cloudy licensing still stinks a year later</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/google_microsoft_cloud_complaint/</link>
+      <description>
+        <![CDATA[<h4>Mountain View gripes over slow-moving regulators while Redmond rakes it in</h4> <p>Google is like a dog with a bone over Microsoft&#39;s cloud licensing policies, not letting Euro regulators forget about what it sees as anti-competitive practices that penalize those wanting to run Windows software on rival cloud platforms.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242123</guid>
+    </item>    <item>
+      <title>NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week</title>
+      <link>https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-reinforces-role-in-aerospace-innovation-during-ohio-space-week/</link>
+      <description>
+        <![CDATA[Ohio Space Week, Sept. 8–13, highlighted the state’s aerospace legacy and the role NASA’s Glenn Research Center has in advancing space technology.&#160; The week kicked off with the American Astronautical Society’s Glenn Space Technology Symposium, Sept. 8–10, hosted by Case Western Reserve University. Experts, students, and industry leaders gathered to discuss emerging space technologies. NASA [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=913991</guid>
+    </item>    <item>
       <title>NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow</title>
       <link>https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/</link>
       <description>
@@ -119,6 +331,10 @@
         <![CDATA[<h4>Redmond wants more flavors of ML than OpenAI can cook up</h4> <p>Microsoft has sealed a deal with Anthropic to give users of Microsoft 365 Copilot the option to use the Claude AI engine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242112</guid>
+    </item>    <item>
+      <title>This month in Servo: variable fonts, network tools, SVG, and more!</title>
+      <link>https://servo.org/blog/2025/09/25/this-month-in-servo/</link>
+      <guid>cid://https://servo.org/blog/2025/09/25/this-month-in-servo/</guid>
     </item>    <item>
       <title>Intel reportedly courting ex-flame Apple to become its next investor</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/24/intel_reportedly_courting_apple/</link>

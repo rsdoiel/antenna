@@ -4,10 +4,34 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>25 Sep 25 06:08 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 25 15:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>The Old English Baron, by Clara Reeve</title>
+      <link>https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron</link>
+      <description>
+        <![CDATA[An aging knight returns home after years of service only to learn of his friend’s tragic death.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron/downloads/clara-reeve_the-old-english-baron.epub?source=feed" length="386078" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron</guid>
+    </item>    <item>
+      <title>The Cherry Orchard, by Anton Chekhov</title>
+      <link>https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett</link>
+      <description>
+        <![CDATA[A heavily indebted landowner and her family return to Russia in an attempt to save her estate from being auctioned off.]]>
+      </description>
+      <enclosure url="https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett/downloads/anton-chekhov_the-cherry-orchard_constance-garnett.epub?source=feed" length="681711" type="application/epub+zip" />
+      <guid>cid://https://standardebooks.org/ebooks/anton-chekhov/the-cherry-orchard/constance-garnett</guid>
+    </item>    <item>
+      <title>More Than a Major</title>
+      <link>https://sr.ithaka.org/blog/more-than-a-major/</link>
+      <description>
+        <![CDATA[<p>Prior research on the value of a liberal arts and sciences education has traditionally relied on two proxies for whether students receive a liberal education: what they majored in or what type of institution they attended. Hallmarks of a liberal education—discussion and active engagement in small classes, for instance—are often assumed to be more common [&#8230;]</p>
+        <p>The post <a href="https://sr.ithaka.org/blog/more-than-a-major/">More Than a Major</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
+      </description>
+      <guid>cid://https://sr.ithaka.org/?p=323696</guid>
+    </item>    <item>
       <title>Guest Post — If a Tree Falls with Nobody Around to Record its Exact Location, Was it Even Compliant?</title>
       <link>https://scholarlykitchen.sspnet.org/2025/09/25/guest-post-if-a-tree-falls-with-nobody-around-to-record-its-exact-location-was-it-even-compliant/</link>
       <description>
@@ -101,7 +125,7 @@
       <title>Day in Review (September 22–25)</title>
       <link>https://www.arl.org/day-in-review/day-in-review-september-22-25/</link>
       <description>
-        <![CDATA[<p>Last Updated on September 24, 2025, 2:58 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, September 23 &#124; Wednesday, September 24 &#124; Thursday, September 25 Monday, September 22...</p>
+        <![CDATA[<p>Last Updated on September 25, 2025, 5:35 pm ET Day in Review highlights news and other stories of interest to the research library community in the US and Canada. Released...</p>
         <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-22-25/">Day in Review (September 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>]]>
       </description>
       <guid>cid://https://www.arl.org/?p=46068</guid>
