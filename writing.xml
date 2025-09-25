@@ -4,10 +4,17 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>24 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Beyond the Exception: Licensing, Access, and the Realities of Text and Data Mining in the US, UK, and Singapore</title>
+      <link>https://www.authorsalliance.org/2025/09/25/beyond-the-exception-licensing-access-and-the-realities-of-text-and-data-mining-in-the-us-uk-and-singapore/</link>
+      <description>
+        <![CDATA[This is a post by Syn Ong, AI Policy Researcher at Authors Alliance. Authors increasingly rely on text and data mining (TDM) to analyze large corpora across disciplines. Our new working paper, Beyond the Exception: Licensing, Access, and the Realities of Text and Data Mining in the US, UK, and Singapore, finds that formal legal permissions alone do not secure usable access for TDM research. Instead, usable access turns on how statutory rules interact with private licenses, platform architectures, and technological protection measures (TPMs).]]>
+      </description>
+      <guid>cid://https://www.authorsalliance.org/?p=12182</guid>
+    </item>    <item>
       <title>Writing for microdramas, aka verticals</title>
       <link>https://johnaugust.com/2025/writing-for-microdramas-aka-verticals</link>
       <description>
@@ -32,7 +39,7 @@
       <title>Are Copyright Anxiety and Legal Chill Hampering Your Work?</title>
       <link>https://www.authorsalliance.org/2025/09/18/are-copyright-anxiety-and-legal-chill-hampering-your-work/</link>
       <description>
-        <![CDATA[This is guest post by Amanda Wakaruk, Jane Secker, and Chris Morrison. Amanda Wakaruk has worked as a copyright librarian [&#8230;]]]>
+        <![CDATA[This is guest post by Amanda Wakaruk, Jane Secker, and Chris Morrison. Readers of this blog will know that authors are both users and creators of copyright-protected works. How confident are authors about their rights related to copyright? Is the fear of navigating copyright preventing non-infringing ‘user’ activities in higher education? What can we do to mitigate the damage to teaching and research caused by copyright anxiety and chill?]]>
       </description>
       <guid>cid://https://www.authorsalliance.org/?p=12175</guid>
     </item>    <item>
@@ -129,20 +136,16 @@
       <title>The Anthropic Settlement – what it is and isn’t (and who could get paid)</title>
       <link>https://www.authorsalliance.org/2025/09/07/the-anthropic-settlement-what-it-is-and-isnt-and-who-could-get-paid/</link>
       <description>
-        <![CDATA[EDIT: On Sunday evening, Judge Alsup granted the motion for a hearing on Monday, September 8th, but expressed disappointment over [&#8230;]]]>
+        <![CDATA[On Friday, both sides in the Bartz v. Anthropic lawsuit filed motions for the court to consider regarding preliminary approval of a settlement in the class action copyright infringement lawsuit filed against Anthropic last year by three book authors.]]>
       </description>
       <guid>cid://https://www.authorsalliance.org/?p=12155</guid>
     </item>    <item>
       <title>Bartz v. Anthropic: A Preliminary Look at What LibGen Books May Be Included in the Class Action</title>
       <link>https://www.authorsalliance.org/2025/09/05/bartz-v-anthropic-a-preliminary-look-at-what-libgen-books-may-be-included-in-the-class-action/</link>
       <description>
-        <![CDATA[For this post, we relied heavily on the help of Charles Horn, self-described “metadata wrangler,” for data analysis.&#160; As readers [&#8230;]]]>
+        <![CDATA[As readers are likely aware, the Bartz v. Anthropic AI lawsuit had a couple of major developments recently. Though the lawsuit was initially brought to address the legality of using copyrighted materials for training AI, the suit has now shifted its focus to Anthropic’s storage—without training use—of copies of books downloaded from LibGen and PiLiMi, two sites that share pirated copies of books and other materials.]]>
       </description>
       <guid>cid://https://www.authorsalliance.org/?p=12144</guid>
-    </item>    <item>
-      <title>Write Now with Scrivener, Episode no. 54: Tim Queeney, Author of a History of Rope</title>
-      <link>https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-54-tim-queeny-author-of-a-history-of-rope</link>
-      <guid>cid://https://www.literatureandlatte.com/?p=7558</guid>
     </item>
   </channel>
 </rss>

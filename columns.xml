@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>24 Sep 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -26,6 +26,308 @@
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
     </item>    <item>
+      <title>Ruled Sufficiently Spooky</title>
+      <link>https://onefoottsunami.com/2025/09/25/ruled-sufficiently-spooky/</link>
+      <guid>cid://https://onefoottsunami.com/?p=29194</guid>
+    </item>    <item>
+      <title>As I remember London</title>
+      <link>https://christianheilmann.com/2025/09/25/as-i-remember-london/</link>
+      <description>
+        <![CDATA[When I moved to the UK at the tail end of the last millennium, I wasn&#8217;t in a good place. I was hired by a US company to work in their German office, and they sent me over to the US to work on their product. I lived in a hotel for a few months, [&#8230;]]]>
+      </description>
+      <guid>cid://https://christianheilmann.com/?p=8610</guid>
+    </item>    <item>
+      <link>https://www.wired.com/story/oral-history-doge-federal-workers/</link>
+      <description>
+        <![CDATA[<p>The Story of DOGE, as Told by Federal Workers.</p>]]>
+      </description>
+      <source:markdown>The Story of DOGE, as Told by Federal Workers.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/25/1231/</guid>
+    </item>    <item>
+      <link>https://wapo.st/4gEIfSF</link>
+      <description>
+        <![CDATA[<p>Kansas high schoolers sue after AI tool flags student’s artwork as porn.</p>]]>
+      </description>
+      <source:markdown>Kansas high schoolers sue after AI tool flags student’s artwork as porn.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/25/1229/</guid>
+    </item>    <item>
+      <title>Malicious-Looking URL Creation Service</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html</link>
+      <description>
+        <![CDATA[<p><a href="https://phishyurl.com/">This site</a> turns your URL into something sketchy-looking.</p>
+        <p>For example, <tt>www.schneier.com</tt> becomes<br />
+        <tt>https://cheap-bitcoin.online/firewall-snatcher/cipher-injector/phishing_sniffer_tool.html?form=inject&#38;host=spoof&#38;id=bb1bc121&#38;parameter=inject&#38;payload=%28function%28%29%7B+return+%27+hi+%27.trim%28%29%3B+%7D%29%28%29%3B&#38;port=spoof</tt>.</p>
+        <p>Found on <a href="https://boingboing.net/2025/09/19/a-url-shortener-that-creates-suspicious-looking-urls.html">Boing Boing</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70859</guid>
+    </item>    <item>
+      <title>Hounds Of Love</title>
+      <link>https://adactio.com/journal/22155</link>
+      <description>
+        <![CDATA[<p>The album <cite>Hounds Of Love</cite> by <a href="https://www.katebush.com/">Kate Bush</a> turned 40 years old this month. It has really stood the test of time. It still sounds like nothing else.</p>
+        
+        <p>It’s kind of two albums in one.</p>
+        
+        <p>There’s the A side with all those perfect pop songs—<a href="https://www.youtube.com/watch?v=wp43OdtAAkM"><cite>Running Up That Hill</cite></a>, <a href="https://www.youtube.com/watch?v=VerK4zwMRQw"><cite>Hounds Of Love</cite></a>, <a href="https://www.youtube.com/watch?v=pllRW9wETzw"><cite>Cloudbusting</cite></a>, <a href="https://www.youtube.com/watch?v=sV7w5TaYjRA"><cite>The Big Sky</cite></a>—each one brilliant and self-contained.</p>
+        
+        <p>Then there’s the B side, <cite>The Ninth Wave</cite>. It’s like its own <a href="https://adactio.com/journal/21767">concept album</a> within an album. It’s weird and challening, but I love it.</p>
+        
+        <p>At times it’s downright frightening but the whole thing ends on a joyous note with <cite>The Morning Fog</cite>. There’s something about the clarity of the closing lines that brings me to tears:</p>
+        
+        <blockquote>
+        I&#8217;ll tell my mother<br>
+        I&#8217;ll tell my father<br>
+        I&#8217;ll tell my loved one<br>
+        I&#8217;ll tell my brothers<br>
+        How much I love them
+        </blockquote>
+        
+        <p>That’s after the magnificence of <a href="https://thesession.org/tunes/7575"><cite>The Jig Of Life</cite></a> which happily crosses over with my love of Irish traditional music.</p>
+        
+        <p>But, as with traditional Irish music, <cite>Hounds Of Love</cite> was not something I was into when I was growing up. Quite the opposite.</p>
+        
+        <p>See, my brother was really into Kate Bush. And if my brother was into something, then I didn’t want anything to do with it. We didn’t really get along.</p>
+        
+        <p>Mostly that worked out fine. I don’t think missed out on much by avoiding the Electric Light Orchestra, the Alan Parsons Project, and other Partridge-esque bands. But I was wrong to avoid Kate Bush.</p>
+        
+        <p>It was only by the time I got to art college that I was able to listen to <cite>Hounds Of Love</cite> objectively, encouraged to do so by a girlfriend at the time who was a huge fan.</p>
+        
+        <p>Now I’m listening to it again.</p>
+        
+        <p>Ah, those closing lines …there’s just something about them.</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/journal/22155</guid>
+    </item>    <item>
+      <title>Why AI Efficiency May Be Making Your Organization More Fragile</title>
+      <link>https://www.oreilly.com/radar/why-ai-efficiency-may-be-making-your-organization-more-fragile/</link>
+      <description>
+        <![CDATA[The productivity gains from AI tools are undeniable. Development teams are shipping faster, marketing campaigns are launching quicker, and deliverables are more polished than ever. But if you’re a technology leader watching these efficiency improvements, you might want to ask yourself a harder question: Are we building a more capable organization, or are we unintentionally [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.oreilly.com/radar/?p=17473</guid>
+    </item>    <item>
+      <link>https://www.notus.org/trump-white-house/billions-taxpayer-dollars-virtually-untraceable-appropriations-trump-omb-russ-vought</link>
+      <description>
+        <![CDATA[<p>Billions in Taxpayer Dollars Have Become Virtually Untraceable.</p>]]>
+      </description>
+      <source:markdown>Billions in Taxpayer Dollars Have Become Virtually Untraceable.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/25/1227/</guid>
+    </item>    <item>
+      <title>A tiny bit-o-CSS for Stable Scrollbar Gutters—zachleat.com</title>
+      <link>https://www.zachleat.com/web/stable-scrollbar-gutters/</link>
+      <description>
+        <![CDATA[<p>I’ve added this handy little bit of CSS to <a href="https://gist.github.com/adactio/de5272e75d7411ba3d8499d416ac4d3b">my starting styles</a>.</p>
+        
+        <p><a href="https://adactio.com/links/22154">adactio.com/links/22154</a></p>]]>
+      </description>
+      <guid>cid://https://www.zachleat.com/web/stable-scrollbar-gutters/</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: September 25, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-september-25-2025/</link>
+      <description>
+        <![CDATA[Jonathan Lethem talks to Jane Ciabattari about writing, revising, and seeing the world through a Marxist lens. &#124; Lit Hub In Conversation On the time Bruce Lee trained with Kareem Abdul-Jabbar: “Both were focused on fundamentals, preparation, and what worked.” &#124; Lit Hub Sports “Although Pynchon is eighty-eight years old, his intellect, at least on [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260216</guid>
+    </item>    <item>
+      <title>Why Is Trump Bailing Out Argentina?</title>
+      <link>https://paulkrugman.substack.com/p/why-is-trump-bailing-out-argentina</link>
+      <description>
+        <![CDATA[This is about ideology and Trumpian fealty, not America&#8217;s interests]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!qbGR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bab347a-f8d2-467e-9402-1bd9b4f13d37_1024x682.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/why-is-trump-bailing-out-argentina</guid>
+    </item>    <item>
+      <title>Are We Entering a New Golden Age of Biography?</title>
+      <link>https://lithub.com/are-we-entering-a-new-golden-age-of-biography/</link>
+      <description>
+        <![CDATA[A poet friend of mine who specializes in sonnets (just fourteen lines!) recently compared the work of the biographer to long-haul trucking. It takes time. And fortitude, focus, a good sense of direction, deep knowledge of the territory. For these reasons, biography is often a late stage effort, a project to turn to after a [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260219</guid>
+    </item>    <item>
+      <title>Go is #2 among newer languages</title>
+      <link>https://antonz.org/lang-ranking/</link>
+      <description>
+        <![CDATA[With version 1.0 released after 2010.]]>
+      </description>
+      <guid>cid://https://antonz.org/lang-ranking/</guid>
+    </item>    <item>
+      <title>When Bruce Lee Trained With Kareem Abdul-Jabbar</title>
+      <link>https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/</link>
+      <description>
+        <![CDATA[When Bruce Lee met Kareem Abdul-Jabbar, a month after the 1968 national college basketball championship, he was still known as Lew Alcindor, the most hyped young basketball star in history. Lew was seven feet two and, for his whole life, had been unable to hide. He disarmed reporters with a fierce intelligence masked by a [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259964</guid>
+    </item>    <item>
+      <title>Jonathan Lethem on Revisiting Old Short Stories While Writing New Ones</title>
+      <link>https://lithub.com/jonathan-lethem-on-revisiting-old-short-stories-while-writing-new-ones/</link>
+      <description>
+        <![CDATA[Jonathan Lethem appears steadily in the contemporary literary livestream, He’s earned the title “bard of Brooklyn” for fiction about his native borough. He’s invented eccentric narrative voices like Lionel Essrog, the detective with Tourette syndrome in Motherless Brooklyn, which won the 1999 National Book Critics Circle award and the 2000 Golden Dagger Award for crime [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259805</guid>
+    </item>    <item>
+      <title>Meet the Ocean’s Remarkable See-Through Animals</title>
+      <link>https://lithub.com/meet-the-oceans-remarkable-see-through-animals/</link>
+      <description>
+        <![CDATA[Both of us have been on many scuba dives in the open sea. Doing so requires training, followed by medical exams and piles of forms, and involves a lot of work, planning, and money. A big ship is needed to get out to sea, and then a small boat to travel a further couple of [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259930</guid>
+    </item>    <item>
+      <title>5 Book Reviews You Need to Read This Week</title>
+      <link>https://lithub.com/5-book-reviews-you-need-to-read-this-week-9-25-2025/</link>
+      <description>
+        <![CDATA[Our basket of brilliant reviews this week includes Kathryn Schulz on Thomas Pynchon&#8217;s Shadow Ticket, Ron Charles on Lily King&#8217;s Heart the Lover, Arwa Mahdawi on Kamala Harris&#8217; 107 Days, Lily Meyer on Mark Mazower&#8217;s On Antisemitism, and K. Twaddle on Mindy Mejia&#8217;s The Whisper Place. Brought to you by Book Marks, Lit Hub’s home [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260140</guid>
+    </item>    <item>
+      <title>How the German Peasants’ War Exposed 16th-Century Europe’s Fragile Foundations</title>
+      <link>https://lithub.com/how-the-german-peasants-war-exposed-16th-century-europes-fragile-foundations/</link>
+      <description>
+        <![CDATA[The German Peasants’ War was the greatest popular uprising in western Europe before the French Revolution. Like a vast contagion it spread from southwest Germany through Württemberg, Swabia, the Allgäu, Franconia, Thuringia, and Saxony to Alsace in what is now France, Austria, and Switzerland. Peasants massed in armed bands in one region, then another, and [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259807</guid>
+    </item>    <item>
+      <title>Against the protection of stocking frames. — Ethan Marcotte</title>
+      <link>https://ethanmarcotte.com/wrote/against-stocking-frames/</link>
+      <description>
+        <![CDATA[<blockquote>
+          <p>I don’t think it’s controversial to suggest that LLMs haven’t measured up to any of the <a href="https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/improving-productivity-with-ai-tools">lofty</a> <a href="https://openai.com/index/planning-for-agi-and-beyond/">promises</a> made by their vendors. But in more concrete terms, <a href="https://www.prnewswire.com/news-releases/two-thirds-of-shoppers-say-no-to-ai-shopping-assistants--trust-issues-could-slow-retails-ai-revolution-302385556.html">consumers dislike “AI” when it shows up in products</a>, and it makes them <a href="https://business.yougov.com/content/49622-artificial-intelligence-ai-generated-brand-advertising-how-do-consumers-around-the-world-feel-comfortable">actively mistrust the brands that employ it</a>. In other words, we’re some three years into the <a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle">hype cycle</a>, and LLMs haven’t met any markers of success we’d apply to, well, literally any other technology.</p>
+        </blockquote>
+        
+        <p><a href="https://adactio.com/links/22153">adactio.com/links/22153</a></p>]]>
+      </description>
+      <guid>cid://https://ethanmarcotte.com/wrote/against-stocking-frames/</guid>
+    </item>    <item>
+      <title>“The Funeral”</title>
+      <link>https://lithub.com/the-funeral/</link>
+      <description>
+        <![CDATA[Yesterday I went to my aunt’s funeral. She was my father’s older sister. Long before he died we lost touch with her and my uncle and their sons. Small misunderstandings arose and then they became bigger, until decades had wedged themselves between our families. She had two boys. Every summer, I had begged them to [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259757</guid>
+    </item>    <item>
+      <title>Warning to you and your loved ones</title>
+      <link>https://robertreich.substack.com/p/warning-to-you-and-your-loved-ones</link>
+      <description>
+        <![CDATA[None of us is safe when Trump acts as judge and jury.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!1T86!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71d4f74a-2a42-4389-add6-5ee31ff77a81_700x368.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/warning-to-you-and-your-loved-ones</guid>
+    </item>    <item>
+      <title>Full eGPU acceleration on the Pi 500+ with a 15-line patch</title>
+      <link>https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Full eGPU acceleration on the Pi 500+ with a 15-line patch</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi500plus-egpu-on-desk.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-dbd99baf-db52-43b5-9fed-d33da560021e" data-insert-attach="{&quot;id&quot;:&quot;dbd99baf-db52-43b5-9fed-d33da560021e&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi 500+ eGPU setup on Desk"></p>
+        
+        <p>Instead of a traditional review of a new Pi product, I thought I'd split things up on my blog, and write two separate posts; this one about hacking in an eGPU on the Pi 500+, for a massive uplift in gaming performance and local LLMs, and a <a href="https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard">separate post about the Pi 500+'s new mechanical keyboard</a>.</p>
+        
+        <p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-500-plus/">Raspberry Pi 500+</a> was announced today, sells for $200, and adds on the following over what was present in the regular Pi 500:</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-25T02:00:58-05:00" title="Thursday, September 25, 2025 - 02:00" class="datetime">September 25, 2025</time>
+        </span>]]>
+      </description>
+      <guid>cid://3499 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>Testing the Raspberry Pi 500+&#39;s new mechanical keyboard</title>
+      <link>https://www.jeffgeerling.com/blog/2025/testing-raspberry-pi-500s-new-mechanical-keyboard</link>
+      <description>
+        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Testing the Raspberry Pi 500+'s new mechanical keyboard</span>
+        
+                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi500plus-keyboard-typing.jpeg" width="700" height="394" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-3eaf6b2c-d3af-4466-a7ae-500136ecd3af" data-insert-attach="{&quot;id&quot;:&quot;3eaf6b2c-d3af-4466-a7ae-500136ecd3af&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Raspberry Pi 500+ typing on keyboard rainbow LED backlight"></p>
+        
+        <p>Instead of a traditional review of a new Pi product, I thought I'd split things up on my blog, and write two separate posts; this one about the Pi 500+'s new mechanical keyboard, and a separate post about <a href="https://www.jeffgeerling.com/blog/2025/full-egpu-acceleration-on-pi-500-15-line-patch">hacking in an eGPU on the Pi 500+</a>, for a massive uplift in gaming performance and local LLMs.</p>
+        
+        <p>The <a href="https://www.raspberrypi.com/products/raspberry-pi-500-plus/">Raspberry Pi 500+</a> was announced today, sells for $200, and adds on the following over what was present in the regular Pi 500:</p></div>
+              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-25T02:00:45-05:00" title="Thursday, September 25, 2025 - 02:00" class="datetime">September 25, 2025</time>
+        </span>]]>
+      </description>
+      <guid>cid://3498 at https://www.jeffgeerling.com</guid>
+    </item>    <item>
+      <title>The ultimate all-in-one PC: Raspberry Pi 500+ on sale now at $200</title>
+      <link>https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/</link>
+      <description>
+        <![CDATA[<p>A complete desktop computer, a love letter to the machines of our childhoods, and our most polished product yet.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/">The ultimate all-in-one PC: Raspberry Pi 500+ on sale now at $200</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.raspberrypi.com/?p=130268</guid>
+    </item>    <item>
+      <title>Meet the engineers behind Raspberry Pi 500+</title>
+      <link>https://www.raspberrypi.com/news/meet-the-engineers-behind-raspberry-pi-500-plus/</link>
+      <description>
+        <![CDATA[<p>In the latest issue of Raspberry Pi Official Magazine — out now — we get to know the engineers who designed Raspberry Pi 500+.</p>
+        <p>The post <a href="https://www.raspberrypi.com/news/meet-the-engineers-behind-raspberry-pi-500-plus/">Meet the engineers behind Raspberry Pi 500+</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.raspberrypi.com/?p=130296</guid>
+    </item>    <item>
+      <title>Bloomberg: ‘Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid’</title>
+      <link>https://www.bloomberg.com/news/articles/2025-09-24/intel-is-seeking-an-investment-from-apple-as-part-of-its-comeback-bid?embedded-checkout=true</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42223</guid>
+    </item>    <item>
+      <title>September 24, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-24-2025</link>
+      <description>
+        <![CDATA[Hours after delivering his delusional and offensive speech to the United Nations yesterday, President Donald J.]]>
+      </description>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-24-2025</guid>
+    </item>    <item>
+      <title>Jimmy Kimmel Returns, Ratings Soar</title>
+      <link>https://www.nytimes.com/2025/09/24/business/media/jimmy-kimmel-ratings.html?unlocked_article_code=1.ok8.KyCA.T_7UIDw3iCg6&#38;smid=url-share</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42222</guid>
+    </item>    <item>
+      <title>Joe Betz, Owner of House of Prime Rib, Dies at 86</title>
+      <link>https://sfstandard.com/2025/09/24/san-francisco-joe-betz-owner-house-prime-rib-dies/</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42221</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/altusds.altgov.info/post/3lzmtf3vsds27</link>
+      <description>
+        <![CDATA[Here's an action you can take to support veterans and brave VA employees standing up for their care
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <guid>cid://at://did:plc:fuovrvjiloafdym65x3oloqc/app.bsky.feed.post/3lzmtf3vsds27</guid>
+    </item>    <item>
+      <link>https://archive.org/details/lp_rip-van-winkle_ed-begley-washington-irving</link>
+      <description>
+        <![CDATA[<p>The story of Rip Van Winkle as a free audiobook, thanks to archive.org.</p>]]>
+      </description>
+      <source:markdown>The story of Rip Van Winkle as a free audiobook, thanks to archive.org.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/24/1225/</guid>
+    </item>    <item>
+      <title>Don&#39;t hide your best documentation</title>
+      <link>https://simonwillison.net/2025/Sep/25/documentation/#atom-everything</link>
+      <description>
+        <![CDATA[<p>If you hide the system prompt and tool descriptions for your LLM agent, what you're actually doing is deliberately hiding the most useful documentation describing your service from your most sophisticated users!</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/25/documentation/#atom-everything</guid>
+    </item>    <item>
+      <title>603. Greek Myths: The Riddle of the Sphinx (Part 2)</title>
+      <link>https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/</link>
+      <description>
+        <![CDATA[<p>What is the story behind the writing of Oedipus, the notorious king of Thebes who murdered his father and unwittingly married his mother? Was it based on a real historical event? What are Oedipus’ cursed mythic origins in Thebes? Who was Sophocles, the legendary Greek playwright? Why was the play a product of 5th century [&#8230;]</p>
+        <p>The post <a href="https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/">603. Greek Myths: The Riddle of the Sphinx (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
+      </description>
+      <guid>cid://https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/</guid>
+    </item>    <item>
+      <title>Wednesday session</title>
+      <link>https://adactio.com/notes/22152</link>
+      <description>
+        <![CDATA[<img src="https://adactio.com/images/uploaded/22152/small.jpg" srcset="https://adactio.com/images/uploaded/22152/medium.jpg 1.5x, https://adactio.com/images/uploaded/22152/large.jpg 2.5x" alt="Wednesday session" />
+        <p>Wednesday session</p>]]>
+      </description>
+      <guid>cid://https://adactio.com/notes/22152</guid>
+    </item>    <item>
+      <title>Quoting Stanford CS221 Autumn 2025</title>
+      <link>https://simonwillison.net/2025/Sep/24/stanford/#atom-everything</link>
+      <description>
+        <![CDATA[<blockquote cite="https://stanford-cs221.github.io/autumn2025/assignments/hw1_foundations/index.html"><p>[2 points] <strong>Learn basic NumPy operations with an AI tutor!</strong> Use an AI chatbot (e.g., ChatGPT, Claude, Gemini, or Stanford AI Playground) to teach yourself how to do basic vector and matrix operations in NumPy (import numpy as np). AI tutors have become exceptionally good at creating interactive tutorials, and this year in CS221, we're testing how they can help you learn fundamentals more interactively than traditional static exercises.</p></blockquote>
+        <p class="cite">&mdash; <a href="https://stanford-cs221.github.io/autumn2025/assignments/hw1_foundations/index.html">Stanford CS221 Autumn 2025</a>, Problem 1: Linear Algebra</p>
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/stanford">stanford</a>, <a href="https://simonwillison.net/tags/computer-science">computer-science</a>, <a href="https://simonwillison.net/tags/education">education</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/numpy">numpy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/24/stanford/#atom-everything</guid>
+    </item>    <item>
       <title>Steamed Hams but It&#38;#8217;s a Critically Acclaimed Feature Film. The classic Simpsons...</title>
       <link>https://kottke.org/25/09/0047582-steamed-hams-but-its-a</link>
       <guid>cid://tag:kottke.org,2025://13.47582</guid>
@@ -43,7 +345,8 @@
         <p>This isn’t theoretical. With current tools and defaults, it’s very possible today and not well mitigated across the board.</p>
         <p>More broadly, this highlights the need for better isolation strategies and stronger secure defaults in agent tooling.</p>
         </blockquote>
-        <p>I really need to start habitually running these things in a locked down container!
+        <p>I really need to start habitually running these things in a locked down container!</p>
+        <p>(I also just stumbled across <a href="https://www.youtube.com/watch?v=Ra9mYeKpeQo">this YouTube interview</a> with Johann on the Crying Out Cloud security podcast.)
         
         
             <p>Tags: <a href="https://simonwillison.net/tags/definitions">definitions</a>, <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/johann-rehberger">johann-rehberger</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a></p>]]>
@@ -157,7 +460,7 @@
     </item>    <item>
       <link>http://scripting.com/2025/09/24.html#a155928</link>
       <description>
-        <![CDATA[In the future you will be able to chain social networks together. It's up to you to figure out what that means. Because each social network will specialize in certain things. How will that work? Left as an exercise for the reader. We'll build new kinds of brains built out of whatever you can dream up.]]>
+        <![CDATA[In the future <i>you</i> will be able to chain social networks together.]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/24.html#a155928</guid>
     </item>    <item>
@@ -168,7 +471,7 @@
     </item>    <item>
       <link>http://scripting.com/2025/09/24.html#a155639</link>
       <description>
-        <![CDATA[The web has been asleep for 19 years, which is almost as long as <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">Rip Van Winkle</a> was.]]>
+        <![CDATA[The web has been asleep for 19 years, which is almost as long as <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">Rip Van Winkle</a> was asleep, according the <a href="https://en.wikipedia.org/wiki/Washington_Irving">Washington Irving</a> story.]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/24.html#a155639</guid>
     </item>    <item>
@@ -195,7 +498,7 @@
     </item>    <item>
       <link>http://scripting.com/2025/09/24.html#a143250</link>
       <description>
-        <![CDATA[Here's a place to <a href="https://mastodon.social/@davew/115259759729219102">comment</a> on yesterday's <a href="https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/">podcast</a> with Matthias.]]>
+        <![CDATA[Yesterday's <a href="https://openchannels.fm/exploring-wordpress-textcasting-and-open-web-standards/">podcast</a> was with Matthias Pfefferle, who is developing Automattic's ActivityPub functionality. I talk about the totality of the app I'm building and the role WordPress and RSS play in the network. It's an all-web approach to social media. Another big podcast came out today, this one for the WordPress community. I'll write it up tomorrow. I'm on a press tour folks and having a great time. I think I finally found my tribe? And if you're in Canada, come to <a href="https://canada.wordcamp.org/2025/">WordCamp in Ottawa</a>, October 15-17. I haven't given a public in person talk since April 2019. I'm realllly looking forward to this.]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/24.html#a143250</guid>
     </item>    <item>
@@ -251,7 +554,7 @@
     </item>    <item>
       <link>http://scripting.com/2025/09/24.html#a134803</link>
       <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/24/ripVanWinkle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">There are a lot of developers who think they understand WordPress but they don't. It has a REST api that you can build on. Everything WordPress does. It's the API the <a href="https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs">browser client</a> is built on. I didn't know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn't believe what I was seeing. What can I do with it? It snuck up on me that it's an API for the web, and it's also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. This is as exciting as any web product I did before, because now, after being <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">asleep</a> for 19 years, the web can now wake up. It really feels that way.]]>
+        <![CDATA[<a class="anchorRightMargin" href="https://en.wikipedia.org/wiki/Rip_Van_Winkle"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/09/24/ripVanWinkle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>There are a lot of developers who think they understand WordPress but they don't. It has a REST api that you can build on. Everything WordPress does. It's the API the <a href="https://dashboard.wordpress.com/wp-admin/index.php?page=my-blogs">browser client</a> is built on. I didn't know it was there until I added WordPress login to FeedLand a couple of years ago. I couldn't believe what I was seeing. What can I do with it? It snuck up on me that it's an API for the web, and it's also the easiest API for ActivityPub. The programming model for the fediverse might be a lot simpler than you think. WordLand is as exciting as any web product I did before, because now, after being <a href="https://en.wikipedia.org/wiki/Rip_Van_Winkle">asleep</a> for 19 years, the web can now wake up. It really feels that way.]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/24.html#a134803</guid>
     </item>    <item>
@@ -454,6 +757,10 @@
       <title>crates.io: Malicious crates faster_log and async_println</title>
       <link>https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/</link>
       <guid>cid://https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/</guid>
+    </item>    <item>
+      <title>LDaCA Technical Architecture Update</title>
+      <link>https://ptsefton.com/2025/09/24/ldaca-architecture-update/</link>
+      <guid>cid://https://ptsefton.com/2025/09/24/ldaca-architecture-update/</guid>
     </item>    <item>
       <title>GPT-5-Codex</title>
       <link>https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything</link>
@@ -2401,7 +2708,7 @@
       <link>http://scripting.com/2025/09/19/201705.html?title=canWeFinallyPutThePastBehindUs</link>
       <description>
         <![CDATA[<p><i>Cross-posted from my <a href="https://daveverse.org/2025/09/16/can-we-finally-put-the-past-behind-us/">daveverse site</a>. </i></p>
-        <p>I hadn���t considered the point of view of people who worked at Netscape when it disappeared just as RSS 0.9.1 was being adopted by the blogosphere in 1999. We tried to get in touch, even when they didn’t work there, but no one responded. So we kept going. </p>
+        <p>I hadn’t considered the point of view of people who worked at Netscape when it disappeared just as RSS 0.9.1 was being adopted by the blogosphere in 1999. We tried to get in touch, even when they didn’t work there, but no one responded. So we kept going. </p>
         <p>Then we were surprised when a group of people we didn’t know announced, publicly, that they were the new authority on RSS and at the same time introduced a version 1.0 that was incompatible with the format Netscape left behind. Most developers didn’t switch, very few used their format. </p>
         <p>There were discussions and arguments and lots of hurt feelings on the mail list, but the status quo remained for a couple of years. There was RSS 0.91 and RSS 1.0. Most sites used 0.91. </p>
         <p>After a couple of years, we got lucky and found the people at the NYT who could license their proprietary feeds to us to use in our Radio UserLand product. We did a deal with them, and we were allowed to bundle their feeds with Radio. At first we stayed with their proprietary format, wanting to avoid dragging them into the arguments. But then we heard from other pubs that wanted to follow the NYT, and they wanted to know what they should do. We had a new version in the works, 0.92, that had a few new features, but as this was in development, we realized were doing all the work, and 1.0 was just sitting there as an obstacle, it would always appear as what we were doing was less than what they did, when the two really had nothing to do with each other. Since they never consulted us about superceeding the format we were using, we changed 0.92 to 2.0, waited for the flames, but they never came. People were tired of the arguing and there was too much potential in a publishing surface that was shared by bloggers and professional news. So guess what -- RSS 2.0 became the standard. </p>
@@ -4224,6 +4531,20 @@
       </description>
       <guid>cid://https://www.oreilly.com/radar/?p=17463</guid>
     </item>    <item>
+      <title>Sergey Durmanov deleted project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Streams</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Sergey Durmanov</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Streams">(8c16e948)</a>
+        <i>
+        at
+        17 Sep 10:13
+        </i>
+        </p>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-17:1807488</guid>
+    </item>    <item>
       <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
       <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/455fd2ea5876dca173288eb4c13151e2c10dc10a...1967d3e00c775d4061f904bf8b11e30b50988ae9</link>
       <description>
@@ -5742,21 +6063,6 @@
         <![CDATA[Here&#8217;s a quick tip for people learning how to solder small components: don&#8217;t rely on your eyes. Instead, solder by touch: use the force-feedback available through your fingertips. Human fingers can reliably detect bumps on the order of microns in size &#8211; much finer than the resolution of sight, even with the assistance of a [&#8230;]]]>
       </description>
       <guid>cid://https://www.bunniestudios.com/blog/?p=7422</guid>
-    </item>    <item>
-      <title>Sergey Durmanov pushed new project branch Streams at Felix Oliver Friedrich / Oberon A2</title>
-      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Streams</link>
-      <description>
-        <![CDATA[<p>
-        <strong>Sergey Durmanov</strong>
-        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/Streams">(455fd2ea)</a>
-        <i>
-        at
-        13 Sep 16:41
-        </i>
-        </p>
-        <div class="blockquote"></div>]]>
-      </description>
-      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-13:1805892</guid>
     </item>    <item>
       <title>Note published on September 13, 2025 at 2:18 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202509131016</link>
@@ -10634,414 +10940,6 @@
         <![CDATA[Overview The 2025 US-RSE Community Awards recognize and celebrate the impactful contributions of individuals and teams who are advancing the field of research software engineering in the United States. This year there were two categories of awards: Technical Excellence: Recognizes outstanding technical contributions that materially advance research software engineering practice....]]>
       </description>
       <guid>cid://https://us-rse.org/2025-09-04-community-awards-results/</guid>
-    </item>    <item>
-      <title>The Baltimore Museum of Art is exhibiting Amy Sherald&#38;#8217;s American Sublime show...</title>
-      <link>https://kottke.org/25/09/0047449-the-baltimore-museum-of-a</link>
-      <guid>cid://tag:kottke.org,2025://13.47449</guid>
-    </item>    <item>
-      <title>597. The First World War: The Massacre of the Innocents (Part 4)</title>
-      <link>https://therestishistory.com/597-the-first-world-war-the-massacre-of-the-innocents-part-4/</link>
-      <description>
-        <![CDATA[<p>What happened at the crucial, bloody, Battle of Ypres in October 1914? How did the battle come about? Why did the Germans and the British fight each other so brutally and for so long to take Ypres? What made the fighting so particularly violent? How were the British able to repel the relentless German onslaught [&#8230;]</p>
-        <p>The post <a href="https://therestishistory.com/597-the-first-world-war-the-massacre-of-the-innocents-part-4/">597. The First World War: The Massacre of the Innocents (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>]]>
-      </description>
-      <guid>cid://https://therestishistory.com/597-the-first-world-war-the-massacre-of-the-innocents-part-4/</guid>
-    </item>    <item>
-      <title>Release Notes for Safari Technology Preview 227</title>
-      <link>https://webkit.org/blog/17324/release-notes-for-safari-technology-preview-227/</link>
-      <description>
-        <![CDATA[Safari Technology Preview Release 227 is now available for download for macOS Tahoe and macOS Sequoia.]]>
-      </description>
-      <guid>cid://https://webkit.org/?p=17324</guid>
-    </item>    <item>
-      <title>The Thousands of Atomic Bombs Exploded on Earth</title>
-      <link>https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth</link>
-      <guid>cid://tag:kottke.org,2025://5.47427</guid>
-    </item>    <item>
-      <title>3books, a site that features the books recommended by guests at the...</title>
-      <link>https://kottke.org/25/09/0047447-3books-a-site-that-featur</link>
-      <guid>cid://tag:kottke.org,2025://13.47447</guid>
-    </item>    <item>
-      <title>Wednesday session</title>
-      <link>https://adactio.com/notes/22111</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22111/small.jpg" srcset="https://adactio.com/images/uploaded/22111/medium.jpg 1.5x, https://adactio.com/images/uploaded/22111/large.jpg 2.5x" alt="Wednesday session" />
-        <p>Wednesday session</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22111</guid>
-    </item>    <item>
-      <title>Great interactive feature on how former world record holder Max Park solves...</title>
-      <link>https://kottke.org/25/09/0047442-great-interactive-feature</link>
-      <guid>cid://tag:kottke.org,2025://13.47442</guid>
-    </item>    <item>
-      <title>WhatsApp and Instagram for iPad, Finally</title>
-      <link>https://mjtsai.com/blog/2025/09/03/whatsapp-and-instagram-for-ipad-finally/</link>
-      <description>
-        <![CDATA[WhatsApp: Bringing all your favorite features to a larger screen, WhatsApp for iPad makes keeping in touch with friends and family even easier. Make video and audio calls with up to 32 people, share your screen, and use both front and back cameras. We&#8217;ve made WhatsApp for iPad ideal for multitasking so you can get [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49121</guid>
-    </item>    <item>
-      <title>Google Search Remedies</title>
-      <link>https://mjtsai.com/blog/2025/09/03/google-search-remedies/</link>
-      <description>
-        <![CDATA[Adam Engst: After years of legal proceedings, the Google antitrust case has finally resulted in a ruling with real-world impact&#8212;though perhaps not in the way many expected. Rather than forcing dramatic changes, the ruling preserves key aspects of how users currently engage with Google&#8217;s products. Lauren Feiner (PDF, MacRumors, Slashdot): Google will not have to [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49119</guid>
-    </item>    <item>
-      <title>macOS Tahoe 26 Developer Beta 9</title>
-      <link>https://mjtsai.com/blog/2025/09/03/macos-tahoe-26-developer-beta-9/</link>
-      <description>
-        <![CDATA[Juli Clover: Apple today provided developers with the ninth beta of macOS Tahoe 26 for testing purposes, with the update coming a week after the eighth beta. The release notes don&#8217;t call out any changes since beta 5. Norbert Doerner: I mean, that Spotlight search icon isn&#8217;t even vertically centered. It looks to me like [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49117</guid>
-    </item>    <item>
-      <title>iOS 26 Developer Beta 9</title>
-      <link>https://mjtsai.com/blog/2025/09/03/ios-26-developer-beta-9/</link>
-      <description>
-        <![CDATA[Juli Clover: Apple today provided developers with the ninth betas of iOS 26 and iPadOS 26 for testing purposes, with the updates coming a week after Apple seeded the eighth betas. The release notes don&#8217;t call out any changes since beta 5. Mario Guzm&#225;n: Not everything needs to have round end caps &#x1F644; look how [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49115</guid>
-    </item>    <item>
-      <title>I loved this: The History of The New Yorker&#38;#8217;s Vaunted Fact-Checking Department....</title>
-      <link>https://kottke.org/25/09/0047423-i-loved-this-the-history</link>
-      <guid>cid://tag:kottke.org,2025://13.47423</guid>
-    </item>    <item>
-      <title>The Baseball Photographer Trading Cards, 1975</title>
-      <link>https://kottke.org/25/09/the-baseball-photographer-trading-cards-1975</link>
-      <guid>cid://tag:kottke.org,2025://5.47446</guid>
-    </item>    <item>
-      <title>September 2, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-2-2025-f20</link>
-      <enclosure url="https://api.substack.com/feed/podcast/172705572/ec5d35b7926cef0f5aa93ec46e4cb73a.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-2-2025-f20</guid>
-    </item>    <item>
-      <title>Looking Forward to AI Codecon</title>
-      <link>https://www.oreilly.com/radar/looking-forward-to-ai-codecon/</link>
-      <description>
-        <![CDATA[I’m really looking forward to our second O’Reilly AI Codecon, Coding for the Agentic World, which is happening on September 9, online from 8am to noon Pacific time, with a follow-on day of additional demos on September 16. But I’m also looking forward to how the AI market itself unfolds: the surprising twists and turns [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17395</guid>
-    </item>    <item>
-      <title>Finished reading The Concrete Blonde</title>
-      <link>https://www.mollywhite.net/reading/books?search=The%20Concrete%20Blonde</link>
-      <guid>cid://68b88c65869061b8b85ab23f</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/03.html#a172039</link>
-      <description>
-        <![CDATA[Podcast: <a href="https://shownotes.scripting.com/scripting/2025/09/03/lastChanceForTheOpenWeb.html">Last chance for the open web</a>.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/03.html#a172039</guid>
-    </item>    <item>
-      <title>How the Richest People in America Avoid Paying Taxes. &#38;#8220;The country&#38;#8217;s billionaires...</title>
-      <link>https://kottke.org/25/09/0047445-how-the-richest-people-in</link>
-      <guid>cid://tag:kottke.org,2025://13.47445</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115141302143011676</link>
-      <description>
-        <![CDATA[<p>Celebrate by deleting the spyware from your phone.<br /><a href="https://zeppelin.flights/@sixcolors/115141294862917643" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">zeppelin.flights/@sixcolors/11</span><span class="invisible">5141294862917643</span></a></p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115141302143011676</guid>
-    </item>    <item>
-      <title>Abstract Popular Science</title>
-      <link>https://kottke.org/25/09/abstract-popular-science</link>
-      <guid>cid://tag:kottke.org,2025://5.47441</guid>
-    </item>    <item>
-      <title>Night of the Reaper: la pesadilla aburrida de una niñera</title>
-      <link>https://www.palomitademaiz.net/resenas-night-of-the-reaper/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-night-of-the-reaper</link>
-      <description>
-        <![CDATA[<p>Dirección: Brandon Christensen. Guion: Brandon Christensen, Bryan Christensen. Elenco: Summer H. Howell, Huxley Fisher, Matty Finochio, Jessica Clement, Ben Cockell, Ryan Robbins. País: Estados Unidos. Más información de la película: https://www.imdb.com/title/tt34379050/ El prólogo de Night of the Reaper es el cóctel perfecto para los fanáticos del terror. Una niñera llamada Emily (Summer H. Howell) se [&#8230;]</p>
-        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-night-of-the-reaper/">Night of the Reaper: la pesadilla aburrida de una niñera</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.palomitademaiz.net/?p=25507</guid>
-    </item>    <item>
-      <title>Another Shameful Part of American History</title>
-      <link>https://onefoottsunami.com/2025/09/03/another-shameful-part-of-american-history/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29079</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/03.html#a153201</link>
-      <description>
-        <![CDATA[I want to start reading a bunch of <a href="https://canada.wordcamp.org/2025/wordpress-community-blogs/">WordPress community blogs</a>.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/03.html#a153201</guid>
-    </item>    <item>
-      <title>Thetrusize.com, by James Talmage and Damon Maneice, is a website that lets...</title>
-      <link>https://kottke.org/25/09/0047436-thetrusizecom-by-james-ta</link>
-      <guid>cid://tag:kottke.org,2025://13.47436</guid>
-    </item>    <item>
-      <title>The Curious About Everything Newsletter #54</title>
-      <link>https://jodiettenberg.substack.com/p/fifty-four</link>
-      <description>
-        <![CDATA[The many interesting things I read in August 2025]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!aiqo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F687fecd5-c243-41d2-9a00-197394ce8e9e_2500x1764.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://jodiettenberg.substack.com/p/fifty-four</guid>
-    </item>    <item>
-      <title>Death by PowerPoint: A Coroner&#39;s Report</title>
-      <link>https://guykawasaki.substack.com/p/death-by-powerpoint-a-coroners-report</link>
-      <description>
-        <![CDATA[Let&#8217;s face it&#8212;most business presentations are a crime scene.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!hwOu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff28abaec-97c9-46b9-adb7-96728ce1b9b9_1080x1080.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/death-by-powerpoint-a-coroners-report</guid>
-    </item>    <item>
-      <title>One Teen&#38;#8217;s Incredible &#38;#8220;Mental Time Travel&#38;#8221; Memory System</title>
-      <link>https://kottke.org/25/09/one-teens-incredible-mental-time-travel-memory-system</link>
-      <guid>cid://tag:kottke.org,2025://5.47440</guid>
-    </item>    <item>
-      <link>https://glammr.us/@IIIF/115140779789160589</link>
-      <description>
-        <![CDATA[<p>🔊 The Call for Proposals for the 2026 <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Online Meeting is NOW OPEN</p><p>To read the full call for proposals, including information about themes, proposal instructions, and other important details, please visit: <a href="https://iiif.io/event/2026/online-meeting/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">iiif.io/event/2026/online-meet</span><span class="invisible">ing/</span></a></p>]]>
-      </description>
-      <guid>cid://https://glammr.us/@IIIF/115140779789160589</guid>
-    </item>    <item>
-      <title>LAWN TENNIS, OR THE FINE ART OF SELF-ABUSE</title>
-      <link>https://jacobsonh.substack.com/p/lawn-tennis-or-the-fine-art-of-self</link>
-      <description>
-        <![CDATA[Decency laws prevent my showing the victim of Daniil Medvedev&#8217;s furious assault at the US Open the other day.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!qwOC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea224d1d-ad8f-4a0d-95e5-51dcde766666_960x640.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://jacobsonh.substack.com/p/lawn-tennis-or-the-fine-art-of-self</guid>
-    </item>    <item>
-      <title>Oh wow, after 26 years and 1000+ episodes, Melvyn Bragg is stepping...</title>
-      <link>https://kottke.org/25/09/0047438-oh-wow-after-26-years</link>
-      <guid>cid://tag:kottke.org,2025://13.47438</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115140574606102019</link>
-      <description>
-        <![CDATA[<p>Today we are launching Xogot for iPhone, along with a free edition.</p><p>The iPhone has been a challenging process for shrinking the UI even further. </p><p>Check the details on Joseph’s blog post:</p><p><a href="https://blog.xogot.com/make-games-anywhere-introducing-godot-for-iphone-and-xogot-lite/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.xogot.com/make-games-anyw</span><span class="invisible">here-introducing-godot-for-iphone-and-xogot-lite/</span></a></p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115140574606102019</guid>
-    </item>    <item>
-      <title>Apologies: You Have Reached the End of Your Free-Trial Period of America!...</title>
-      <link>https://kottke.org/25/09/0047437-apologies-you-have-reache</link>
-      <guid>cid://tag:kottke.org,2025://13.47437</guid>
-    </item>    <item>
-      <title>2025-08-15 An opt-in search engine: Xobaque</title>
-      <link>https://alexschroeder.ch/view/2025-08-15-xobaque</link>
-      <description>
-        <![CDATA[<h1 id="2025-08-15-an-opt-in-search-engine-xobaque">2025-08-15 An opt-in search engine: Xobaque</h1>
-        
-        <p>I&rsquo;ve been writing a search engine that doesn&rsquo;t crawl the web.
-        I called it <a href="Xobaque">Xobaque</a>.</p>
-        
-        <p>On <a href="https://www.emacswiki.org/emacs/2025-08-22">2025-08-22</a> I set it up to <a href="https://search.emacslife.com/">search Planet Emacslife</a>.</p>
-        
-        <p>Xobaque is entirely opt-in and push based: web admins have total control over what they want to have indexed. The drawback is that web admins have to upload their pages!</p>
-        
-        <p>I foresee this to be a solution for sites that don&rsquo;t have good local search, like <a href="https://www.emacswiki.org/">Emacs Wiki</a>, or communities, like all the blogs on <a href="https://planet.emacslife.com/">Planet Emacslife</a>. If we want to rely less on big search engines, we have to provide our own.</p>
-        
-        <p>Technically, Xobaque is writen on top of the <a href="https://sqlite.org/fts5.html#sorting_by_auxiliary_function_results">SQLite FTS5 Extension</a>. This extension does all the heavy lifting: indexing, searching, ranking, highlighting, snippets, boolean operators. Boolean operators! Do you remember those? Good times. The extension is quite amazing, really.</p>
-        
-        <p>What Xobaque provides is the command-line interface and the web interface. Right now, the command-line interface has a command to initialize an empty database and a command to upload a single page.</p>
-        
-        <p>Here are some examples of how to use this in a script.</p>
-        
-        <p>My homepage:</p>
-        
-        <pre><code>#!/usr/bin/fish
-        cd /home/alex/alexschroeder.ch/wiki
-        for line in (/home/oddmu/oddmu list)
-          set --local info (string split &quot;	&quot; $line)
-          set --local name (string replace --regex '^/home/alex/alexschroeder.ch/wiki/' '' $info[1] | string replace --regex '.md' '')
-          set --local title $info[2]
-          /home/xobaque/xobaque upload \
-            -db &quot;/home/xobaque/index.db&quot; \
-            -base &quot;https://alexschroeder.ch/view/&quot; \
-            -local &quot;$name&quot; \
-            -title &quot;$title&quot; \
-            -filename &quot;$name.md&quot;
-        end
-        </code></pre>
-        
-        <p>Emacs Wiki:</p>
-        
-        <pre><code>#!/usr/bin/fish
-        for path in (grep --files-without-match '^#FILE ' /home/alex/emacswiki/git/* /home/alex/emacswiki/git/.*)
-          set --local name (string replace '/home/alex/emacswiki/git/' '' $path)
-          set --local title (string replace '_' ' ' $name)
-          /home/xobaque/xobaque upload \
-            -db &quot;/home/xobaque/index.db&quot; \
-            -base &quot;https://www.emacswiki.org/emacs/&quot; \
-            -local &quot;$name&quot; \
-            -title &quot;$title&quot; \
-            -filename &quot;/home/alex/emacswiki/git/$name&quot;
-        end
-        </code></pre>
-        
-        <p>The alternative to uploading via the command-line, I think, will be feed ingestion. Web site owners can send their feeds to Xobaque and it will index the entries in the feed. If the entries have the full text, that&rsquo;s great. If they have an excerpt, that works, too. You opt-in with whatever you provide.</p>
-        
-        <p>I&rsquo;m assuming that this will be a system for friends only, so the upload will be protected by a login. Otherwise, people will be able to upload other people&rsquo;s sites and that violates the opt-in idea.</p>
-        
-        <p><a class="tag" href="/search/?q=%23Search">#Search</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>
-        
-        <p><strong>2025-08-15</strong>. I have that vague idea that it would process OPML files like the <a href="https://planet.emacslife.com/opml.xml">Planet Emacslife OPML</a> or the three RPG Planet OPML files, <a href="https://campaignwiki.org/rpg/indie.opml">Indie</a>, <a href="https://campaignwiki.org/rpg/osr.opml">OSR</a> and <a href="https://campaignwiki.org/rpg/other.opml">Other</a>. From the OPML files Xobaque would know a bunch of feeds which it could then use for updates. I have written <a href="https://src.alexschroeder.ch/planet-jupiter.git/">Planet Jupiter</a>, so I know that from 80% to 90% is handling blogs that are down and from 90% to 100% it&rsquo;s all about fiddling with the markup… There&rsquo;s also the question of consent. So perhaps one would have to start a new list of feeds for those people who explicitly consent. And if by chance that covers all the feeds on Planet Emacslife or RPG Planet that&rsquo;d be a reason to laugh and party! 🎉</p>
-        
-        <p><strong>2025-08-17</strong>. Adding feeds and collections of feeds (via OPML files) works, now. 🎉</p>
-        
-        <p>The feed import from the net should use ETags and If-Modified-Since headers if possible, but the convenience functions of bot the feed and the OPML library don’t provide this, so I’ll have to roll my own. And then think of parallelising the requests. Go channels ahoy! 😬</p>
-        
-        <p>And then a web UI for uploads and accounts? 🥺</p>
-        
-        <p><strong>2025-08-19</strong>. Xobaque now knows how to skip feeds that haven’t updated using <code>If-Modified-Since</code> and <code>If-None-Match</code> headers.</p>
-        
-        <p><strong>2025-08-19</strong>. The errors I&rsquo;m finding in the feeds of Planet Emacslife OPML:</p>
-        
-        <pre><code>Error importing feed https://lifeofpenguin.blogspot.com/feeds/posts/default?alt=rss: XML syntax error on line 1: illegal character code U+FFFF
-        Error importing feed https://blog.laurentcharignon.com/index.xml: XML syntax error on line 231: illegal character code U+0008
-        Error importing feed http://feeds.feedburner.com/emacslife: parsing time &quot;Sat, 9 Aug 2025 18:00:43 GMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;9 Aug 2025 18:00:43 GMT&quot; as &quot;02&quot;
-        Error importing feed https://www.unwoundstack.com/emacs-rss.xml: Get &quot;https://www.unwoundstack.com/emacs-rss.xml&quot;: net/http: TLS handshake timeout
-        Error importing feed http://emacsmovies.org/atom.xml: parsing time &quot;Sun, 04 Dec 2022 08:19:18 8DecGMT&quot; as &quot;Mon, 02 Jan 2006 15:04:05 MST&quot;: cannot parse &quot;8DecGMT&quot; as &quot;MST&quot;
-        </code></pre>
-        
-        <p>But I guess I have 248/253 feeds imported.</p>
-        
-        <p>Other issues I have noticed: Endless repeats of news items that overwrite each other, only differing in title and description, and no GUID set:</p>
-        
-        <pre><code> Update http://tromey.com/elpa/news.html
-        </code></pre>
-        
-        <p>Then again, the items all have dates set from 2007 to 2010, so perhaps that&rsquo;s OK.</p>
-        
-        <p>And now I find:</p>
-        
-        <pre><code># ./xobaque search alex schroeder
-        Emacs: Take Two
-        https://takeonrules.com/2025/06/10/emacs-take-two/emacs-take-two
-        extend &lt;span&gt;Emacs&lt;/span&gt;
-        .&lt;/p&gt;
-        &lt;p&gt;Third, learning of Alex Schroeder, both involved in &lt;abbr title=&quot;Role Playing Games&quot;&gt;RPGs
-        </code></pre>
-        
-        <p>It works! And I really need to strip HTML, here! 😂</p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-08-15-xobaque</guid>
-    </item>    <item>
-      <title>2025-08-28 Online safety, maybe</title>
-      <link>https://alexschroeder.ch/view/2025-08-28-online-safety</link>
-      <description>
-        <![CDATA[<h1 id="2025-08-28-online-safety-maybe">2025-08-28 Online safety, maybe</h1>
-        
-        <p>The longer I provide web services to strangers, the more I feel that data is toxic. I used to think I only had to worry about spam and vandalism, but with every regulator thinking that far more terrible material is just waiting to show up, and that they need to go after the recipients instead of the perpetrators, I&rsquo;m really starting to feel it.</p>
-        
-        <p>DMCA and its descendants all over the world were pretty bad when it came to the anti-circumvention clauses but pretty OK when it came to a lack of moderation. And I know, moderation is good. But I also like the fact that I can host a lot of wikis without having to moderate. Luckily, it wasn&rsquo;t necessary in the last 20 years (other than spam and vandalism). It&rsquo;s getting somewhat harder to be excited by it all, though.</p>
-        
-        <p>For example, the Online Safety Act in the UK basically requires moderation before publication (or geo-blocking the UK).</p>
-        
-        <p>Another example is my <a href="Xobaque">Xobaque</a> &ldquo;search engine with no crawler&rdquo; that relies on feeds to provide the pages to index. The feeds are untrusted data provided by strangers on the Internet. Should Xobaque check that the pages actually exist? Should I check that they are on-topic and don&rsquo;t violate the law? (In what jurisdictions?) Should I verify the identities of the people that upload the feeds? The people writing the feeds?</p>
-        
-        <p>Or should I just stand on the balcony and water the plants, listening to the drone of planes above and constant rumbling of cars in the distance, tending my garden, as it were.</p>
-        
-        <p>I suspect this is the beginning of chilling effects. For a short while, tinkering at home felt the same, whether it was a little something for the household or for &ldquo;the Internet&rdquo;. As it becomes clear that private and public spheres are in fact different, something must change. The first time I realised this was during the Napster days of copyright and music. The more this happens, the more I feel that online activity basically requires a lawyer, a company (the sacrificial lamb should you stumble somewhere on the way), and all the other contraptions of corporate life. Blech!</p>
-        
-        <p><a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23Surveillance">#Surveillance</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Xobaque">#Xobaque</a></p>]]>
-      </description>
-      <guid>cid://https://alexschroeder.ch/view/2025-08-28-online-safety</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115140396093201350</link>
-      <description>
-        <![CDATA[<p>Now that I posted that meme, Apple will demand developers add a “MainActor.assumeIsolated” nutrition labels to their apps.</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115140396093201350</guid>
-    </item>    <item>
-      <title>Scaling hasn’t gotten us to AGI, or ‘superintelligence’, let alone AI we could trust. What do we do next?</title>
-      <link>https://garymarcus.substack.com/p/scaling-hasnt-gotten-us-to-agi-or</link>
-      <description>
-        <![CDATA[Pointer to a new essay by the author, in The New York Times]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!HM3F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27d78dea-4dd2-427b-911e-7d70b17feabc_1206x2137.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://garymarcus.substack.com/p/scaling-hasnt-gotten-us-to-agi-or</guid>
-    </item>    <item>
-      <title>FreeBSD Project isn&#39;t ready to let AI commit code just yet</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/03/freebsd_project_update_no_ai/</link>
-      <description>
-        <![CDATA[<h4>But it&#39;s OK to use it for docs and translations</h4>
-              <p>The latest status report from the FreeBSD Project says no thanks to code generated by LLM-based assistants.</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241682</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115140169270808518</link>
-      <description>
-        <![CDATA[<p>Me, as I jam through my code:</p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115140169270808518</guid>
-    </item>    <item>
-      <title>Indirect Prompt Injection Attacks Against LLM Assistants</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html</link>
-      <description>
-        <![CDATA[<p>Really good <a href="https://sites.google.com/view/invitation-is-all-you-need/home">research</a> on practical attacks against LLM agents.</p>
-        <blockquote><p>&#8220;<a href="https://arxiv.org/abs/2508.12175">Invitation Is All You Need! Promptware Attacks Against LLM-Powered Assistants in Production Are Practical and Dangerous</a>&#8221;</p>
-        <p><b>Abstract:</b> The growing integration of LLMs into applications has introduced new security risks, notably known as Promptware­&#8212;maliciously engineered prompts designed to manipulate LLMs to compromise the CIA triad of these applications. While prior research warned about a potential shift in the threat landscape for LLM-powered applications, the risk posed by Promptware is frequently perceived as low. In this paper, we investigate the risk Promptware poses to users of Gemini-powered assistants (web application, mobile application, and Google Assistant). We propose a novel Threat Analysis and Risk Assessment (TARA) framework to assess Promptware risks for end users. Our analysis focuses on a new variant of Promptware called Targeted Promptware Attacks, which leverage indirect prompt injection via common user interactions such as emails, calendar invitations, and shared documents. We demonstrate 14 attack scenarios applied against Gemini-powered assistants across five identified threat classes: Short-term Context Poisoning, Permanent Memory Poisoning, Tool Misuse, Automatic Agent Invocation, and Automatic App Invocation. These attacks highlight both digital and physical consequences, including spamming, phishing, disinformation campaigns, data exfiltration, unapproved user video streaming, and control of home automation devices. We reveal Promptware’s potential for on-device lateral movement, escaping the boundaries of the LLM-powered application, to trigger malicious actions using a device’s applications. Our TARA reveals that 73% of the analyzed threats pose High-Critical risk to end users. We discuss mitigations and reassess the risk (in response to deployed mitigations) and show that the risk could be reduced significantly to Very Low-Medium. We disclosed our findings to Google, which deployed dedicated mitigations...</p></blockquote>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70646</guid>
-    </item>    <item>
-      <title>Yes, America Has a Housing Emergency</title>
-      <link>https://paulkrugman.substack.com/p/yes-america-has-a-housing-emergency</link>
-      <description>
-        <![CDATA[But Trump will make it worse]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!TkOB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68b09d47-b9d6-4758-96ef-a91d595f9860_800x450.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/yes-america-has-a-housing-emergency</guid>
-    </item>    <item>
-      <title>Walking the walk with https://webdayout.com/</title>
-      <link>https://adactio.com/notes/22110</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22110/small.png" srcset="https://adactio.com/images/uploaded/22110/medium.png 1.5x, https://adactio.com/images/uploaded/22110/large.png 2.5x" alt="Walking the walk with https://webdayout.com/" />
-        <p>Walking the walk with <a href="https://webdayout.com/">https://webdayout.com/</a></p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22110</guid>
-    </item>    <item>
-      <title>Understanding the Rehash Loop</title>
-      <link>https://www.oreilly.com/radar/understanding-the-rehash-loop/</link>
-      <description>
-        <![CDATA[This article is part of a series on the Sens-AI Framework—practical habits for learning and coding with AI. In “The Sens-AI Framework: Teaching Developers to Think with AI,” I introduced the concept of the rehash loop—that frustrating pattern where AI tools keep generating variations of the same wrong answer, no matter how you adjust your [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17392</guid>
-    </item>    <item>
-      <title>A Shot At History - Trailer</title>
-      <link>https://fixthenews.com/p/a-shot-at-history-trailer</link>
-      <description>
-        <![CDATA[We're making a podcast about the malaria vaccine.]]>
-      </description>
-      <enclosure url="https://api.substack.com/feed/podcast/172664466/bf5caaf9209fb7f0c1ac17de0d9a8b61.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://fixthenews.com/p/a-shot-at-history-trailer</guid>
-    </item>    <item>
-      <title>Reading Yellowface by Rebecca F Kuang.</title>
-      <link>https://adactio.com/notes/22109</link>
-      <description>
-        <![CDATA[<p>Reading Yellowface by Rebecca F Kuang.</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22109</guid>
-    </item>    <item>
-      <title>Office Hours: Who is MOST responsible for this catastrophe, other than Trump?</title>
-      <link>https://robertreich.substack.com/p/office-hours-whom-should-future-historians</link>
-      <description>
-        <![CDATA[Several culprits]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!zGhN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79b3fafb-4394-4879-8f1a-60fb6a72bb7f_1456x1496.webp" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/office-hours-whom-should-future-historians</guid>
-    </item>    <item>
-      <title>September 2, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-2-2025</link>
-      <description>
-        <![CDATA[In the early hours of Sunday morning, in the middle of a three-day holiday weekend, the Trump administration attempted to take children out of government custody and ship them alone to their country of origin, Guatemala.]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-2-2025</guid>
-    </item>    <item>
-      <title>&#60;default:div xmlns=&#34;http://www.w3.org/1999/xhtml&#34; class=&#34;if-your-feed-reader-displays-this-then-it-is-violating-the-Atom-spec-RFC-4287-section-4.2.14&#34;/&#62;</title>
-      <link>https://tantek.com/2025/245/t1</link>
-      <guid>cid://https://tantek.com/2025/245/t1</guid>
-    </item>    <item>
-      <title>Welcoming the Rust Innovation Lab</title>
-      <link>https://blog.rust-lang.org/2025/09/03/welcoming-the-rust-innovation-lab/</link>
-      <guid>cid://https://blog.rust-lang.org/2025/09/03/welcoming-the-rust-innovation-lab/</guid>
-    </item>    <item>
-      <title>Istio VirtualServices: Production Basics</title>
-      <link>https://memo.mx/posts/istio-virtualservices-production/</link>
-      <description>
-        <![CDATA[Problem You need safe, predictable traffic control in prod. VirtualServices + DestinationRules give version routing, timeouts/retries, and circuit breaking without touching code.
-        Approach Define versioned subsets in a DestinationRule. Route via VirtualService with weights (canary → rollout). Add timeout, retries, and outlier detection. Shift weights, watch metrics, then cut over. Example (Config) # vs-dr.yaml apiVersion: networking.istio.io/v1beta1 kind: DestinationRule metadata: name: svc namespace: prod spec: host: svc.prod.svc.cluster.local subsets: - name: v1 labels: version: v1 - name: v2 labels: version: v2 trafficPolicy: tls: mode: ISTIO_MUTUAL outlierDetection: consecutive5xx: 5 interval: 5s baseEjectionTime: 30s maxEjectionPercent: 50 --- apiVersion: networking.]]>
-      </description>
-      <guid>cid://https://memo.mx/posts/istio-virtualservices-production/</guid>
     </item>
   </channel>
 </rss>

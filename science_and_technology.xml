@@ -4,10 +4,136 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>24 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow</title>
+      <link>https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/</link>
+      <description>
+        <![CDATA[Since April 1999, the AeroSpace Frontiers (AF) newsletter has shared information monthly on NASA Glenn Research Center’s people, projects, and progress. If you were looking for news on any of these topics, there was a good chance you could read all about them in AF each month.&#160; The newsletter has evolved in the last 26 [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=916478</guid>
+    </item>    <item>
+      <title>Glenn Highlights Space Exploration at Minnesota State Fair</title>
+      <link>https://www.nasa.gov/centers-and-facilities/glenn/glenn-highlights-space-exploration-at-minnesota-state-fair/</link>
+      <description>
+        <![CDATA[NASA brought the excitement of space exploration to the Minnesota State Fair from Aug. 21–24, offering exhibits and interactive experiences for the whole family. Led by NASA’s Glenn Research Center in Cleveland, the agency showcased the future of space exploration and the technologies making it possible — from next-generation spacesuits to the Artemis missions that [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=913976</guid>
+    </item>    <item>
+      <title>NASA Names Glenn’s Steven Sinacore to Lead Fission Surface Power</title>
+      <link>https://www.nasa.gov/centers-and-facilities/glenn/nasa-names-glenns-steven-sinacore-to-lead-fission-surface-power/</link>
+      <description>
+        <![CDATA[NASA leadership has named NASA Glenn Research Center’s Steven A. Sinacore as the agency’s program executive for Fission Surface Power with Lindsay Kaldon as deputy program executive.&#160; Sinacore will lead a team within the Exploration Systems Development Mission Directorate dedicated to advancing fission surface power technology in support of lunar exploration, providing high power energy [&#8230;]]]>
+      </description>
+      <guid>cid://https://www.nasa.gov/?p=913984</guid>
+    </item>    <item>
+      <title>Oracle saddles up with $18B debt amid AI infrastructure gamble</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/oracle_18_billion_debt/</link>
+      <description>
+        <![CDATA[<h4>Ballooning leverage and shaky customer funding could strain Big Red&#39;s balance sheet</h4> <p>Oracle has raised $18 billion in debt, which could help fund massive datacenter investments aimed at meeting surging demand from AI model builders and enterprise customers.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242122</guid>
+    </item>    <item>
+      <title>&#39;Ultimate Cosmic Carpool&#39; Sends Three New Missions to  Monitor Space Weather and the Protective Bubble Around Our Solar System</title>
+      <link>https://www.smithsonianmag.com/smart-news/ultimate-cosmic-carpool-sends-three-new-missions-to-monitor-space-weather-and-the-protective-bubble-around-our-solar-system-180987395/</link>
+      <description>
+        <![CDATA[The spacecraft will map the boundaries of the heliosphere, study how Earth’s outer atmosphere reacts to solar activity and provide continuous monitoring of space weather]]>
+      </description>
+      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/toWZx04PwE1YQeHMROCeF-reCAc=/420x240/filters:focal(959x475:960x476)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2d/df/2ddf7f3f-a248-4f52-9300-121daddd894b/nasalaunch.jpg" length="" type="" />
+    </item>    <item>
+      <title>Zero-day deja vu as another Cisco IOS bug comes under attack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/zeroday_deja_vu_another_cisco/</link>
+      <description>
+        <![CDATA[<h4>The latest in a run of serious networking bugs gives attackers root if they have SNMP access</h4> <p>Cisco has confirmed a new IOS and IOS XE zero-day, the latest in a string of flaws that attackers have been quick to weaponize.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242121</guid>
+    </item>    <item>
+      <title>Bcachefs goes DKMS after Torvalds&#39; kernel banishment</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/bcachefs_dkms_modules/</link>
+      <description>
+        <![CDATA[<h4>Performance of new version mostly good, but future uncertain</h4> <p>The bcachefs file system, now &#34;externally maintained&#34; outside the Linux kernel codebase, offers packages of its first version to be loadable on the fly.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242104</guid>
+    </item>    <item>
+      <title>SAP&#39;s &#39;simplified&#39; licensing leaves users more confused</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/sap_licensing_mess/</link>
+      <description>
+        <![CDATA[<h4>Business Suite nostalgia unlikely to ease customers&#39; public cloud journey</h4> <p>SAP experts are doubting the enterprise software giant&#39;s message that it is simplifying licensing after the changes were discussed at the German-speaking user group conference.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242103</guid>
+    </item>    <item>
+      <title>EU starting registration of fingerprints and faces for short-stay foreigners</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/eu_entry_exit_system/</link>
+      <description>
+        <![CDATA[<h4>Biometric Entry/Exit System phased in from October to 29 Schengen countries</h4> <p>Travelers including Britons and Americans visiting most European countries will have to register their fingerprints and faces under a system that goes live next month.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242105</guid>
+    </item>    <item>
+      <title>Empty shelves, empty coffers: Co-op pegs cyber hit at £80m</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/empty_shelves_empty_coffers_coop/</link>
+      <description>
+        <![CDATA[<h4>Supermarket says the hack that shut down systems and emptied shelves has turned profits into losses</h4> <p>The Co-operative Group has revealed the cyberattack that knocked its systems offline earlier this year will leave it nursing an £80 million hangover. …</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242118</guid>
+    </item>    <item>
+      <title>Check your own databases before asking to see our passport photos, Home Office tells UK cops</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/uk_passport_photo_cache_block_rules/</link>
+      <description>
+        <![CDATA[<h4>Guidance follows privacy complaints over sharp increase in police searches of travel doc and visa pic libraries</h4> <p>The Home Office has told police forces to check their own photo databases before asking it to search its libraries of passport and visa facial images, as well as avoiding urgent requests &#34;unless it is absolutely necessary.&#34;…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242106</guid>
+    </item>    <item>
+      <title>The sweetest slice of Pi: Raspberry Pi 500+ sports mechanical keys, 16GB, and built-in SSD</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/peak_pi_reached_with_raspberry/</link>
+      <description>
+        <![CDATA[<h4>Big performance on offer, but be prepared to spend $200</h4> <p><strong>HANDS ON</strong>  Raspberry Pi has unveiled a fully loaded version of its computer-in-a-keyboard, featuring oodles of RAM, an SSD, and a clicky, mechanical keyboard. However, you&#39;ll pay a relative premium for these features.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242055</guid>
+    </item>    <item>
+      <title>Google, Meta and Vodafone want smartphone-makers to reduce their bandwidth bills</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/google_meta_vodafone_av1_smartphone/</link>
+      <description>
+        <![CDATA[<h4>By supporting efficient video codecs in hardware, which to be fair will also help punters</h4> <p>Google, Meta, and Vodafone have called on chipmakers and smartphone manufacturers to support the AV1 video codec in hardware, especially in midrange devices, a suggestion that’s not entirely altruistic.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242115</guid>
+    </item>    <item>
+      <title>Is GitHub a social network that endangers children? Australia wants to know</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/australia_social_media_ban_github/</link>
+      <description>
+        <![CDATA[<h4>As ban on under-16s using some sites looms, cyber-safety regulator sends Microsoft’s code locker a letter</h4> <p>Australia’s eSafety Commissioner has written to GitHub to ask it to consider if it’s a social network that endangers children.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242114</guid>
+    </item>    <item>
+      <title>Alibaba Cloud plans expansion into Europe and South America</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/alibaba_cloud_expansion/</link>
+      <description>
+        <![CDATA[<h4>More datacenters in familiar territories, too, and AI everywhere</h4> <p>Alibaba Cloud yesterday announced its first datacenters in Brazil, France, and The Netherlands, plus expansion of its presence in five other countries outside China.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242113</guid>
+    </item>    <item>
+      <title>Microsoft puts Claude on the M365 menu</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/25/microsoft_claude_copilot/</link>
+      <description>
+        <![CDATA[<h4>Redmond wants more flavors of ML than OpenAI can cook up</h4> <p>Microsoft has sealed a deal with Anthropic to give users of Microsoft 365 Copilot the option to use the Claude AI engine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242112</guid>
+    </item>    <item>
+      <title>Intel reportedly courting ex-flame Apple to become its next investor</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/24/intel_reportedly_courting_apple/</link>
+      <description>
+        <![CDATA[<h4>Chipzilla can&#39;t say it&#39;s changed much, but could be a handy backup to TSMC</h4> <p>After a painful breakup and a bout of financial turmoil, Intel is looking to rekindle the relationship with its old flame Apple.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242111</guid>
+    </item>    <item>
+      <title>Tree-hugging hippie datacenter runs entirely on green hydrogen and wastes zero water</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/24/lambda_nvidia_hydrogen/</link>
+      <description>
+        <![CDATA[<h4>Lambda&#39;s latest innovation with bit barn builder ECL only supports a handful of Nvidia racks, but it&#39;s a start</h4> <p>Rent-a-GPU outfit Lambda says its latest Nvidia GB300 NVL72 system is not only powered entirely by hydrogen fuel cells but doesn&#39;t consume a single ounce of water.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242110</guid>
+    </item>    <item>
       <title>NASA Awards Atmosphere Research Support Contract</title>
       <link>https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/</link>
       <description>
@@ -109,7 +235,7 @@
       <title>PC memory costs to climb as fabs chase filthy lucre in servers and HBM</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/24/pc_memory_price_hike/</link>
       <description>
-        <![CDATA[<h4>TrendForce warns of Q4 memory hikes as suppliers squeeze consumer markets</h4> <p>PC memory prices are set to rise as the major suppliers allocate manufacturing capacity to the more lucrative server DRAM and HBM instead amid reports of tightening supplies.…</p>]]>
+        <![CDATA[<h4>TrendForce warns of Q4 hikes as suppliers squeeze consumer markets</h4> <p>PC memory prices are set to rise as the major suppliers allocate manufacturing capacity to the more lucrative server DRAM and HBM instead amid reports of tightening supplies.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242102</guid>
     </item>    <item>
@@ -418,7 +544,7 @@
       <title>OnePlus leaves researchers on read over Android bug that exposes texts</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/09/23/rapid7_oneplus_android_bug/</link>
       <description>
-        <![CDATA[<h4>Rapid7 warns flaw could let any app peek at your SMS, but smartphone vendor won&#39;t pick up</h4> <p>Security researchers report that OnePlus smartphone users remain vulnerable to a critical bug that allows any application to read SMS and MMS data — a flaw that has persisted since late 2021.…</p>]]>
+        <![CDATA[<h4>Rapid7 warns flaw could let any app peek at your SMS, but smartphone vendor won&#39;t pick up</h4> <p><strong>Updated</strong>  Security researchers report that OnePlus smartphone users remain vulnerable to a critical bug that allows any application to read SMS and MMS data — a flaw that has persisted since late 2021.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story242074</guid>
     </item>    <item>
@@ -4132,62 +4258,6 @@
         <![CDATA[Bargibant’s pygmy seahorses look almost exactly like the gorgonian corals they live in, thanks in part to their unusually stubby snouts]]>
       </description>
       <enclosure url="https://th-thumbnailer.cdn-si-edu.com/U2z5SrcNN8ZIfoWA_IXt7IlgccU=/420x240/filters:focal(2106x1424:2107x1425)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/85/2b85782a-38f2-4f2d-89e3-b2cf6ec4cc65/warum_das_zwerg-seepferdchen_1.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Could These 80,000-Year-Old Stones Be the World&#39;s Earliest Known Arrowheads?</title>
-      <link>https://www.smithsonianmag.com/smart-news/could-these-80000-year-old-stones-be-the-worlds-earliest-known-arrowheads-180987256/</link>
-      <description>
-        <![CDATA[A new study suggests that fragments unearthed at an archaeological site in Uzbekistan look like other examples of arrowheads created thousands of years later]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/nPmOvbhUXweqqLwcvtWaQr_mIEw=/420x240/filters:focal(912x608:913x609)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/60/b5/60b5ff2b-3f06-4b6a-8394-fa766eaf4180/journalpone0328390g004.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Two Sniffer Dogs Might Have Just Found a Lost Population of Critically Endangered Rhinos</title>
-      <link>https://www.smithsonianmag.com/smart-news/two-sniffer-dogs-might-have-just-found-a-lost-population-of-critically-endangered-rhinos-180987279/</link>
-      <description>
-        <![CDATA[Yagi and Quinn identified scat that was likely left by a Sumatran rhinoceros in Indonesia’s Way Kambas National Park, where scientists thought the animals had disappeared]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/inGiseY5iZSGTQbIhVyPDgrRfBw=/420x240/filters:focal(800x411:801x412)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/01/ac/01ac1409-32ee-4510-add7-7801f2525ebb/unnamed_26.jpg" length="" type="" />
-    </item>    <item>
-      <title>Restoring Bison to Yellowstone Has &#39;Reawakened&#39; the Ecosystem as the Large Animals Migrate, Study Suggests</title>
-      <link>https://www.smithsonianmag.com/smart-news/restoring-bison-to-yellowstone-has-reawakened-the-ecosystem-as-the-large-animals-migrate-study-suggests-180987278/</link>
-      <description>
-        <![CDATA[An analysis of plant diversity and soil health across the bison migration corridor suggests free-roaming bison lead to more nutrient-rich plants]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XBstRc_oRDBypIuQ2S6Ey8yQpT0=/420x240/filters:focal(1440x960:1441x961)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/d5/b2d54d54-37ae-48f9-a0ae-60edddff4180/when-bison-are-room-to.jpg" length="" type="" />
-    </item>    <item>
-      <title>Florida&#39;s Only Private Home Designed by Frank Lloyd Wright Is Officially on the Market</title>
-      <link>https://www.smithsonianmag.com/smart-news/floridas-only-private-home-designed-by-frank-lloyd-wright-is-officially-on-the-market-180987275/</link>
-      <description>
-        <![CDATA[Built in 1954, the Spring House is located on the outskirts of Tallahassee. The 2,040-square-foot residence is a rare example of the renowned architect's hemicycle design]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/j1woRl0olux-LZdeCrJ3_iK41nQ=/420x240/filters:focal(624x416:625x417)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/c9/fa/c9fa6c61-247c-4d51-a91d-dc1f39c5ad6b/eyjidwnrzxqioijidwlszg91dc1wcm9kdwn0aw9uiiwia2v5ijoizgf0yxmvmzmwodiznjivnty2ogy0ndfkmgq5mdnmywi.jpeg" length="" type="" />
-    </item>    <item>
-      <title>See Thomas Jefferson&#39;s Handwritten Copy of the Declaration of Independence</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-thomas-jeffersons-handwritten-copy-of-the-declaration-of-independence-180987277/</link>
-      <description>
-        <![CDATA[The rare document will be on view for just three days at the New York Public Library next year in celebration of America's 250th anniversary]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/HkcvuAEus81lEL__Fokws4QwiRY=/420x240/filters:focal(2667x1803:2668x1804)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/43/a0/43a00abd-1779-4dd4-b579-576186af2e11/sasb_2019_07_02_declaration_of_independence-00969.jpg" length="" type="" />
-    </item>    <item>
-      <title>What Is the Fourier Transform?</title>
-      <link>https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/</link>
-      <description>
-        <![CDATA[Amid the chaos of revolutionary France, one man’s mathematical obsession gave way to a calculation that now underpins much of mathematics and physics. The calculation, called the Fourier transform, decomposes any function into its parts.            <p>The post <a href="https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/" target="_blank">What Is the Fourier Transform?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=153717</guid>
-    </item>    <item>
-      <title>Towards Rust in Windows drivers</title>
-      <link>https://www.osnews.com/story/143263/towards-rust-in-windows-drivers/</link>
-      <description>
-        <![CDATA[Microsoft has been working on allowing driver developers to write Windows drivers in Rust, and the company has published a progress report detailing this effort. In the windows-drivers-rs GitHub repository you&#8217;ll find a bunch of Rust crates for writing Windows drivers in Rust. Using these crates, driver developers can create valid WDM, KMDF, and UMDF driver binaries that load and run on a Windows 11 machine.  Drivers written in this manner still need to make use of unsafe blocks for interacting with the Windows operating system, but can take advantage of Rust’s rich type system as well as its safety guarantees for business logic implemented in safe Rust.  Though there is still significant work to be done on abstracting away these unsafe blocks (more on this below), these Rust drivers can load and run on Windows systems just like their C counterparts. ↫ Nate Deisinger at the Windows Driver Developer Blog As mentioned above, there&#8217;s still work to be done with reducing the amount of unsafe Rust code in these drivers, and Microsoft is working on just that. The company is developing safe Rust bindings and abstractions, as well as additional safe structs and APIs beyond the Windows Driver Framework, but due to the complexity of Windows drivers, this will take a while. Microsoft states that it believes memory-safe languages like Rust are the future of secure software development, but of course, in true Microsoft fashion, the company doesn&#8217;t want to alienate developers writing traditional drivers in C either.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143263</guid>
-    </item>    <item>
-      <title>Why self-host 9front?</title>
-      <link>https://www.osnews.com/story/143261/why-self-host-9front/</link>
-      <description>
-        <![CDATA[In 9front, we host almost all parts of our development process on 9front &#8212; the git repositories, the mailing list, the ci/cd, the web site, and everything else. (The exception is #cat-v IRC) We use the system regularly, both when hacking on the system and in our personal use. Personally, I write most of my code on Plan 9, read my emails there, and often drive Linux from there. I run my home network off of a 9front CPU server, and host my websites off it. I know other people around 9front do similar. ↫ Ori Bernstein It clearly shows, too. If you dive into the 9front community, you&#8217;ll quickly realise everything runs on 9front, and that does create a sense that the operating system is capable, and that its developers have confidence and pride in their work. Exploring 9front myself, it feels awesome to see that all the documentation I&#8217;m reading is being hosted on 9front machines. I&#8217;m going to relaunch the OSNews Gemini capsule, this time hosted on 9front, and since countless 9front users host their own Gemini capsules on 9front, I feel confident that I&#8217;ve got people to talk to when I need help. I just need the time to actually sit down and figure out the minutiae of 9front, because it truly is unique.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143261</guid>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,42 @@
   <channel>
     <title>North America</title>
     <link>https://rsdoiel.github.io/antenna/north_america.xml</link>
-    <lastBuildDate>24 Sep 25 15:08 -0700</lastBuildDate>
+    <lastBuildDate>25 Sep 25 06:08 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Warnings of permanent layoffs in case of shutdown</title>
+      <link>https://www.marketplace.org/episode/2025/09/25/warnings-of-permanent-layoffs-in-case-of-shutdown</link>
+      <description>
+        <![CDATA[<p>The Office of Management and Budget sent out a memo with stark instructions for heads of federal agencies: They should consider layoff notices for all employees in programs that haven’t been funded yet for the government’s 2026 fiscal year, which starts Oct. 1. Also on the show: The U.S. is in negotiations to lend $20 billion to Argentina’s central bank, and climate change is treatening New Mexico's centuries-old irrigation system.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/25/mmr_20250925_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K609R1EG7SXQ3ADMJ7QWQ49Y" length="3268282" type="audio/mpeg" />
+      <guid>cid://01K609R1EG7SXQ3ADMJ7QWQ49Y</guid>
+    </item>    <item>
+      <title>Apple presses European regulators over tech rules</title>
+      <link>https://www.marketplace.org/episode/2025/09/25/apple-presses-european-regulators-over-tech-rules</link>
+      <description>
+        <![CDATA[<p><em>From the BBC World Service:</em> Apple has called for the European Union's antitrust watchdogs to scrap some of its tech regulations, which it says lead to a worse experience for users. It's not the first time Apple has voiced its opposition to Europe's Digital Markets Act. We hear more. Plus, China has — for the first time — set a target for reducing carbon emissions. And, a Dutch village famous for its windmills is planning to charge visitors to see them.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/25/mmr_20250925_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K608CGW4ZBRAQTRX5F2JFA7E" length="3163241" type="audio/mpeg" />
+      <guid>cid://01K608CGW4ZBRAQTRX5F2JFA7E</guid>
+    </item>    <item>
+      <title>Car dealerships face new barriers to EV tax credits</title>
+      <link>https://www.marketplace.org/episode/2025/09/25/car-dealerships-face-new-barriers-to-ev-tax-credits</link>
+      <description>
+        <![CDATA[<p>The EV tax credit expires September 30, and Americans have been rushing to take advantage before the deadline. But according to reporting from Marketplace’s Henry Epp, many dealerships are facing new friction when processing tax credits with the IRS.</p><br/><p>Marketplace’s Nova Safo spoke with Epp about the new IRS requirements and how dealerships are handling the changes.</p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/25/tech_20250925_0925_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K5Y51GG461HDWQ3N09X6YWVQ" length="7247015" type="audio/mpeg" />
+      <guid>cid://01K5Y51GG461HDWQ3N09X6YWVQ</guid>
+    </item>    <item>
+      <title>What&#39;s with the streaming price hikes?</title>
+      <link>https://www.marketplace.org/episode/2025/09/24/whats-with-the-streaming-price-hikes</link>
+      <description>
+        <![CDATA[<p>Disney’s streaming platforms — Disney+, Hulu, and ESPN — will see price hikes come October 21. They aren’t alone. As the streaming wars escalate, companies have switched focus to profit over customer volume, while consumers whittle down their subscriptions. Also in this episode: A soybean farmer faces trade war realities, manufacturers pour cash into new equipment, and Warren Littlefield, producer of “Fargo," “The Handmaid’s Tale” and more discusses the TV business with Kai.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
+      </description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/24/pm_20250924_Marketplace_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K5YH5JKMQGQVW7W5AABGYNM4" length="12720746" type="audio/mpeg" />
+      <guid>cid://01K5YH5JKMQGQVW7W5AABGYNM4</guid>
+    </item>    <item>
       <title>The next USDA report on hunger in the U.S. will be the last</title>
       <link>https://www.marketplace.org/episode/2025/09/24/the-next-report-on-hunger-in-the-us-will-be-the-last</link>
       <description>
@@ -900,54 +932,6 @@
       </description>
       <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/04/tech_20250904_0904_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K48EMEAYP7R971VFMTH586KX" length="9332213" type="audio/mpeg" />
       <guid>cid://01K48EMEAYP7R971VFMTH586KX</guid>
-    </item>    <item>
-      <title>Slo-mo jobs growth</title>
-      <link>https://www.marketplace.org/episode/2025/09/03/slomo-jobs-growth</link>
-      <description>
-        <![CDATA[<p>Job growth has slowed this summer as employers ride out President Trump's economic shakeups. Thanks to uncertain tariffs, funding cuts, and the immigration crackdown, most companies aren’t eager to hire right now. Even the health care sector is showing some cracks. Also in this episode: The number of American homeowners fell for the first time in a decade, economists explain how the U.S. became the economic data gold standard, and revenue from website ads grow more popular among retailers.</p><br/><p><em>Every story has an economic angle. Want some in your inbox? </em><em><a href="https://www.marketplace.org/newsletters">Subscribe</a></em><em> to our daily or weekly newsletter.</em></p><br/><p><em>Marketplace is more than a radio show. Check out our original reporting and financial literacy content at </em><em><a href="https://www.marketplace.org/">marketplace.org</a></em><em> — and consider </em><em><a href="https://www.marketplace.org/make-a-smart-investment">making an investment</a></em><em> in our future.</em></p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/pm/2025/09/03/pm_20250903_Marketplace_PM_64.mp3?awCollectionId=mkp-MKP-PM&awEpisodeId=01K48FZSYA6140JHCEZP3KHWQ5" length="12676233" type="audio/mpeg" />
-      <guid>cid://01K48FZSYA6140JHCEZP3KHWQ5</guid>
-    </item>    <item>
-      <title>From &#34;How We Survive&#34;: ESG, Reincarnated</title>
-      <link>https://www.marketplace.org/episode/2025/09/02/from-how-we-survive-esg-reincarnated</link>
-      <description>
-        <![CDATA[<p>Hey Smarties! Today we’re sharing an episode from the latest season of “How We Survive,” Marketplace’s climate solutions podcast. Host Amy Scott and the team have been digging into the rise and fall of environmental, social and governance-based investing, or ESG. <strong><a href="https://www.marketplace.org/episode/2025/04/23/the-evolution-of-esg-investing" class="default">In this episode,</a></strong> ESG comes back to life in new forms of climate-conscious investing.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/how_we_survive_climate/2025/09/03/howwesurviveclimate_20250903_HWS_128.mp3?awCollectionId=mkp-MMsmrt&awEpisodeId=01K45ZYJKFB5DR6D7H5T9WQ26D" length="22014493" type="audio/mpeg" />
-      <guid>cid://01K45ZYJKFB5DR6D7H5T9WQ26D</guid>
-    </item>    <item>
-      <title>Expiring tax credits will increase health insurance costs for millions</title>
-      <link>https://www.marketplace.org/episode/2025/09/03/expiring-tax-credits-will-increase-health-insurance-costs-for-millions</link>
-      <description>
-        <![CDATA[<p>The big budget bill that President Donald Trump signed into law in July allowed tax credits under the Affordable Care Act to expire. That means health insurance costs will increase significantly for millions, disproportionately hitting small business owners and self-employed people. We’ll learn about the impacts. Also this morning: Retailers have already shifted focus from back-to-school shopping to holiday sales. Thing is, the outlook doesn't look too rosy this year.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_3_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47XRXKNGZ8C03CGVT2V0D19" length="3490427" type="audio/mpeg" />
-      <guid>cid://01K47XRXKNGZ8C03CGVT2V0D19</guid>
-    </item>    <item>
-      <title>Why is everyone breaking up right now?</title>
-      <link>https://www.marketplace.org/episode/2025/09/03/why-is-everyone-breaking-up-right-now</link>
-      <description>
-        <![CDATA[<p>We're talking about companies here, obviously. A decade after Kraft Heinz became one of the world’s biggest food companies, it’s reversing course and is splitting into two. It’s not the only corporation to go this route recently: There’s Warner Bros Discovery, which is separating into two media companies, and Honeywell, which is separating into three. What's behind all this restructuring? Also on the show: renewed interest in IPOs and promised safety improvements from OpenAI.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_2_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47MDA35DZTRBQ0EZB9ADBRR" length="3262848" type="audio/mpeg" />
-      <guid>cid://01K47MDA35DZTRBQ0EZB9ADBRR</guid>
-    </item>    <item>
-      <title>Cyberattack stalls production at Jaguar Land Rover</title>
-      <link>https://www.marketplace.org/episode/2025/09/03/cyberattack-stalls-production-at-jaguar-land-rover</link>
-      <description>
-        <![CDATA[<p><em>From the BBC World Service:</em> A cyberattack has caused major production problems at carmaker Jaguar Land Rover. Both of its main factories in the U.K. have been affected, and it comes at a peak sales period. Plus, long-term government borrowing costs continue to climb globally. Then, police in Singapore have ordered Facebook's parent company, Meta, to take measures to prevent scammers from impersonating government officials. And, a greenhouse gas emissions tax in Denmark will result in big changes to the Danish landscape.</p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/morning_report/2025/09/03/mmr_20250903_MMR_Podcast_1_64.mp3?awCollectionId=mkp-MMR&awEpisodeId=01K47KAD7DTKDANDQ935B2TAAP" length="3298660" type="audio/mpeg" />
-      <guid>cid://01K47KAD7DTKDANDQ935B2TAAP</guid>
-    </item>    <item>
-      <title>Can you buy wins in sports or the AI talent wars?</title>
-      <link>https://www.marketplace.org/episode/2025/09/03/can-you-buy-wins-in-sports-or-the-ai-talent-wars</link>
-      <description>
-        <![CDATA[<p>Big Tech companies have been in an all-out bidding war to capture top AI researchers and engineers. Companies like Meta have reportedly been offering compensation packages in the hundreds of millions of dollars. They're the kind of eye-watering sums you usually only hear about in pro sports. Marketplace’s Meghan McCarty Carino explores whether this strategy of collecting expensive superstars will pay off for Big Tech firms looking to win the AI race. </p>]]>
-      </description>
-      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/play.publicradio.org/podcast/o/marketplace/tech_report/2025/09/03/tech_20250903_0903_MP_TECH_pod_128.mp3?awCollectionId=mkp-MKPtech&awEpisodeId=01K3VWARJQVQH84XJE94F568BK" length="5039773" type="audio/mpeg" />
-      <guid>cid://01K3VWARJQVQH84XJE94F568BK</guid>
     </item>
   </channel>
 </rss>
