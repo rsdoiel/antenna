@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>25 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Sep 25 06:07 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,264 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <link>https://www.therepository.email/nick-hamzes-cool-kids-post-kicks-off-fresh-debate-on-wordpresss-image-problem</link>
+      <description>
+        <![CDATA[<p>Nick Hamze’s ‘Cool Kids’ Post Kicks Off Fresh Debate on WordPress’s Image Problem.</p>]]>
+      </description>
+      <source:markdown>Nick Hamze’s ‘Cool Kids’ Post Kicks Off Fresh Debate on WordPress’s Image Problem.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1253/</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/09/26/could-we-make-something-good-from-social-media/</link>
+      <description>
+        <![CDATA[<p>Could we make something good from social media?</p>]]>
+      </description>
+      <source:markdown>Could we make something good from social media?</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1251/</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/09/26/our-power-comes-from-working-together/#like</link>
+      <description>
+        <![CDATA[<p>Our power comes from working together.</p>]]>
+      </description>
+      <source:markdown>Our power comes from working together.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1249/</guid>
+    </item>    <item>
+      <title>Digital Threat Modeling Under Authoritarianism</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html</link>
+      <description>
+        <![CDATA[<p>Today&#8217;s world requires us to make complex and nuanced decisions about our digital security. Evaluating when to use a secure messaging app like Signal or WhatsApp, which passwords to store on your smartphone, or what to share on social media requires us to assess risks and make judgments accordingly. Arriving at any conclusion is an exercise in threat modeling.</p>
+        <p>In security, <a href="https://shostack.org/resources/threat-modeling">threat modeling</a> is the process of determining what security measures make sense in your particular situation. It&#8217;s a way to think about potential risks, possible defenses, and the costs of both. It&#8217;s how experts avoid being distracted by irrelevant risks or overburdened by undue costs...</p>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70871</guid>
+    </item>    <item>
+      <link>https://daveverse.org/2025/09/26/our-power-comes-from-working-together/</link>
+      <description>
+        <![CDATA[<p>To start to get out of the hole we’re in first we have to get rid of the idea that the super wealthy are better or smarter than people with a normal amount of money.</p>]]>
+      </description>
+      <source:markdown>To start to get out of the hole we’re in first we have to get rid of the idea that the super wealthy are better or smarter than people with a normal amount of money.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1247/</guid>
+    </item>    <item>
+      <title>Another Break Day</title>
+      <link>https://paulkrugman.substack.com/p/another-break-day</link>
+      <description>
+        <![CDATA[Your regular programming will resume shortly]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!QrYH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73788a2c-b972-4a59-8b55-c3b694dfa024_4032x3024.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://paulkrugman.substack.com/p/another-break-day</guid>
+    </item>    <item>
+      <title>Lit Hub Daily: September 26, 2025</title>
+      <link>https://lithub.com/lit-hub-daily-september-26-2025/</link>
+      <description>
+        <![CDATA[Javier Garcia del Moral makes a case for the importance of literary festivals: “The time we devote to others in person has shrunk, almost without our noticing. A festival interrupts that trend.” &#124; Lit Hub Craft Sophia Rosenfeld explains how the power of choice shaped the modern world, from her Cundill Prize-shortlisted The Age of [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260266</guid>
+    </item>    <item>
+      <title>Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2</title>
+      <link>https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/6f828ef78be3e806ca02d53491bada0a1234d206...7e5d5682712837ff81d175cb34badab577e6e6e7</link>
+      <description>
+        <![CDATA[<p>
+        <strong>Felix Oliver Friedrich</strong>
+        <a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/6f828ef78be3e806ca02d53491bada0a1234d206...7e5d5682712837ff81d175cb34badab577e6e6e7">(7e5d5682)</a>
+        <i>
+        at
+        26 Sep 12:28
+        </i>
+        </p>
+        <div class="blockquote"><p dir="auto">Merge branch &#39;Streams&#39; into &#39;main&#39;</p></div>
+        <p>
+        <i>
+        ... and
+        3 more commits
+        </i>
+        </p>]]>
+      </description>
+      <guid>cid://tag:gitlab.inf.ethz.ch,2025-09-26:1824114</guid>
+    </item>    <item>
+      <link>https://newrepublic.com/post/200952/colombian-president-compares-trump-hitler-un-speech</link>
+      <description>
+        <![CDATA[<p>World Leader Compares Trump to Hitler in Front of Entire U.N. “The U.S. mainstream media, for its part, has largely ignored his comments.”</p>]]>
+      </description>
+      <source:markdown>World Leader Compares Trump to Hitler in Front of Entire U.N. “The U.S. mainstream media, for its part, has largely ignored his comments.”</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1245/</guid>
+    </item>    <item>
+      <title>Write the damn code</title>
+      <link>https://antonz.org/write-code/</link>
+      <description>
+        <![CDATA[You are a software engineer. Don't become a prompt refiner.]]>
+      </description>
+      <guid>cid://https://antonz.org/write-code/</guid>
+    </item>    <item>
+      <title>The Disappearing Internet and a Culture Schlock on the Lit Hub Podcast</title>
+      <link>https://lithub.com/the-disappearing-internet-and-a-culture-schlock-on-the-lit-hub-podcast/</link>
+      <description>
+        <![CDATA[A weekly behind-the-scenes dive into everything interesting, dynamic, strange, and wonderful happening in literary culture—featuring Lit Hub staff, columnists, and special guests! Hosted by Drew Broussard. Many of us were told or taught that the internet would be permanent — that the things we post, whether on social media or a blog or even a [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260286</guid>
+    </item>    <item>
+      <title>September’s Best Reviewed Fiction</title>
+      <link>https://lithub.com/septembers-best-reviewed-fiction-9-26-2025/</link>
+      <description>
+        <![CDATA[Ian McEwan&#8217;s What We Can Know, Kiran Desai&#8217;s The Loneliness of Sonia and Sunny, and Samanta Schweblin&#8217;s Good and Evil all feature among the best reviewed books of the months. * 1. What We Can Know by Ian McEwan (Knopf) 10 Rave •  6 Positive •  3 Mixed “Brash and busy … It’s a piece [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260224</guid>
+    </item>    <item>
+      <title>September’s Best Reviewed Nonfiction</title>
+      <link>https://lithub.com/septembers-best-reviewed-nonfiction-9-26-2025/</link>
+      <description>
+        <![CDATA[Arundhati Roy&#8217;s Mother Mary Comes to Me, Stephen Greenblatt&#8217;s Dark Renaissance, and Jill Lepore&#8217;s We the People all feature among the best reviewed books of the month. * 1. Mother Mary Comes to Me by Arundhati Roy (Scribner) 8 Rave • 4 Positive • 1 Mixed “Roy’s stunning, dramatic, funny, far-ranging, and complexly illuminating chronicle [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260269</guid>
+    </item>    <item>
+      <title>“Sniped Sonnet,” a Poem by Zeina Hashem Beck</title>
+      <link>https://lithub.com/sniped-sonnet-a-poem-by-zeina-hashem-beck/</link>
+      <description>
+        <![CDATA[we will lose our minds. we will mind our losses. we will be bitter &#38; drug ourselves to sleep. we will chant in sardonic Arabic: شمال يمين we will language you into oblivion. iykyk. &#38; we won’t forgive. &#38; we won&#8217;t forget &#160; &#160; &#38; we won’t forget. &#38; we won’t forgive oblivion. iykyk: we [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259578</guid>
+    </item>    <item>
+      <title>How to Party Like a Korean in the Middle of a Hurricane</title>
+      <link>https://lithub.com/how-to-party-like-a-korean-in-the-middle-of-a-hurricane/</link>
+      <description>
+        <![CDATA[When the city that never sleeps shuts down, its residents will find a way to keep the party going. Such was the case during Hurricane Irene, a tropical storm anticipated to be so destructive that the New York City mayor closed all businesses and transportation for the entirety of that sweaty August weekend. With nothing [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259873</guid>
+    </item>    <item>
+      <title>M.L. Rio on Writing Real Songs for Fictional Bands</title>
+      <link>https://lithub.com/m-l-rio-on-writing-real-songs-for-fictional-bands/</link>
+      <description>
+        <![CDATA[This first appeared in Lit Hub’s Craft of Writing newsletter—sign up here. As any woman who’s ever worn a band T-shirt out of the house can attest, the proprietary indignation at perceived inauthenticity in the music space is so extreme it’s become a meme. (Recently, someone on Threads recommended that ladies respond to the evergreen “Name five [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260275</guid>
+    </item>    <item>
+      <title>Why Literary Festivals Still Matter</title>
+      <link>https://lithub.com/why-literary-festivals-still-matter/</link>
+      <description>
+        <![CDATA[What does a punk drummer have to do with a scholar of caste in India, or a border reporter who has walked for years with coyotes? At first glance, almost nothing. But their work, their testimonies, their questions—they all belong in the same room. They converge in a festival. In 2018, I worked with the [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259933</guid>
+    </item>    <item>
+      <title>How Modern Life Has Been Shaped By the Power to Choose</title>
+      <link>https://lithub.com/how-modern-life-has-been-shaped-by-the-power-to-choose/</link>
+      <description>
+        <![CDATA[Writing this book has involved a steady stream of choices, large and small, from what to write about in the first place to whether the initial word of this sentence should be “writing” or “drafting” or even “crafting.” If you plan to read any further, you too will have to make a number of choices: [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259869</guid>
+    </item>    <item>
+      <title>Playing Wolf</title>
+      <link>https://lithub.com/playing-wolf/</link>
+      <description>
+        <![CDATA[The heat is so scorching it hurts even to breathe. You have to take the air in sips. Heavy, sticky heat clogs the lungs, hot gobs of spit come out your throat as you exhale. The wooden gate at U Fandy is on the verge of melting. Splinter after splinter flopping onto the stone threshold, [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259756</guid>
+    </item>    <item>
+      <title>Why are we so polarized? Why is democracy is such peril?</title>
+      <link>https://robertreich.substack.com/p/why-are-we-so-polarized</link>
+      <description>
+        <![CDATA[Confronting the longer-term erosion]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!gtRL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d0fa59b-0c5b-4b77-8993-6c67e9478342_3500x2567.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/why-are-we-so-polarized</guid>
+    </item>    <item>
+      <title>September 25, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-25-2025</link>
+      <description>
+        <![CDATA[Today, with the popularity of President Donald J.]]>
+      </description>
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-25-2025</guid>
+    </item>    <item>
+      <link>https://bsky.app/profile/rsdoiel.bsky.social/post/3lzpqv7zhok22</link>
+      <description>
+        <![CDATA[😯
+        
+        [contains quote post or other embedded content]]]>
+      </description>
+      <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzpqv7zhok22</guid>
+    </item>    <item>
+      <title>Trump Clears Way for Cronies to Buy TikTok for $14 Billion</title>
+      <link>https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html</link>
+      <guid>cid://tag:daringfireball.net,2025:/linked//6.42225</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115268008243386943</link>
+      <description>
+        <![CDATA[<p>Update, Liquid Glass fills the hole that wobbly windows left on my life:</p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115268008243386943</guid>
+    </item>    <item>
+      <title>313: Duck Stamps. High Seas. A &#39;miracle&#39; AIDS drug. Dodo? 🦤</title>
+      <link>https://fixthenews.com/p/313-duck-stamps-high-seas-a-miracle</link>
+      <description>
+        <![CDATA[Hidden stories of progress from around the world.]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!kfWN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101c3855-3c04-45d1-afb2-aedd6f8e71c7_991x749.png" length="0" type="image/jpeg" />
+      <guid>cid://https://fixthenews.com/p/313-duck-stamps-high-seas-a-miracle</guid>
+    </item>    <item>
+      <title>The email list cleaning cleaning conundrum</title>
+      <link>https://buttondown.com/blog/email-list-cleaning</link>
+      <description>
+        <![CDATA[The one-third rule from horticulture can apply to your email lists, too.]]>
+      </description>
+    </item>    <item>
+      <title>We asked you who you are – here’s what we’re learning</title>
+      <link>https://buttondown.com/blog/onboarding-2</link>
+      <description>
+        <![CDATA[A look at what we've learned about our customers from our onboarding process.]]>
+      </description>
+    </item>    <item>
+      <title>GitHub Copilot CLI is now in public preview</title>
+      <link>https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/">GitHub Copilot CLI is now in public preview</a></strong></p>
+        GitHub now have their own entry in the coding terminal CLI agent space: <a href="https://github.com/features/copilot/cli">Copilot CLI</a>.</p>
+        <p>It's the same basic shape as Claude Code, Codex CLI, Gemini CLI and a growing number of other tools in this space. It's a terminal UI which you accepts instructions and can modify files, run commands and integrate with GitHub's MCP server and other MCP servers that you configure.</p>
+        <p>Two notable features compared to many of the others:</p>
+        <ul>
+        <li>It works against the <a href="https://docs.github.com/en/github-models">GitHub Models</a> backend. It defaults to Claude Sonnet 4 but you can set <code>COPILOT_MODEL=gpt-5</code> to switch to GPT-5. Presumably other models will become available soon.</li>
+        <li>It's billed against your existing GitHub Copilot account. <a href="https://github.com/features/copilot/plans">Pricing details are here</a> - they're split into "Agent mode" requests and "Premium" requests. Different plans get different allowances, which are shared with other products in the GitHub Copilot family.</li>
+        </ul>
+        <p>The best available documentation right now is the <code>copilot --help</code> screen - <a href="https://gist.github.com/simonw/bc739b8c67aa6e7a5f4f519942e66671">here's a copy of that in a Gist</a>.</p>
+        <p>It's a competent entry into the market, though it's missing features like the ability to paste in images which have been introduced to Claude Code and Codex CLI over the past few months.</p>
+        <p><em>Disclosure: I got a preview of this at an event at Microsoft's offices in Seattle last week. They did not pay me for my time but they did cover my flight, hotel and some dinners.</em>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/github-copilot">github-copilot</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/claude-code">claude-code</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/disclosures">disclosures</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything</guid>
+    </item>    <item>
+      <title>For more than a century in the 18th &#38; 19th centuries, an...</title>
+      <link>https://kottke.org/25/09/0047583-for-more-than-a-century</link>
+      <guid>cid://tag:kottke.org,2025://13.47583</guid>
+    </item>    <item>
+      <title>Scoring Points Is The Point</title>
+      <link>https://steady.substack.com/p/scoring-points-is-the-point</link>
+      <description>
+        <![CDATA[The president wants to win for himself, not for the American people]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!zyGn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdadd84f5-c0d8-4099-a91e-b5dce621d350_4641x3156.jpeg" length="0" type="image/jpeg" />
+      <guid>cid://https://steady.substack.com/p/scoring-points-is-the-point</guid>
+    </item>    <item>
+      <title>Friday 26 September, 2025</title>
+      <link>https://memex.naughtons.org/friday-26-september-2025/41237/</link>
+      <description>
+        <![CDATA[Red Plenty Last year our crab-apple tree produced almost no fruit. This year it’s exactly the opposite. We’ve been wondering why. Last year we had a dry Spring and a wet Summer. This year’s been the exact opposite, with many &#8230; <a href="https://memex.naughtons.org/friday-26-september-2025/41237/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://https://memex.naughtons.org/?p=41237</guid>
+    </item>    <item>
+      <title>YOU can bring The Last Class to a movie theater near you</title>
+      <link>https://robertreich.substack.com/p/you-can-bring-the-last-class-to-a</link>
+      <description>
+        <![CDATA[A way to build hope and community]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/RKtgySJPwhE" length="0" type="image/jpeg" />
+      <guid>cid://https://robertreich.substack.com/p/you-can-bring-the-last-class-to-a</guid>
+    </item>    <item>
+      <title>A four-year-old mystery finally solved: who was the awkwardly tall stranger at...</title>
+      <link>https://kottke.org/25/09/0047592-a-four-year-old-mystery-f</link>
+      <guid>cid://tag:kottke.org,2025://13.47592</guid>
+    </item>    <item>
+      <title>September 24, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-24-2025-dc8</link>
+      <enclosure url="https://api.substack.com/feed/podcast/174572878/5cef0e685f3f2f89e084db9e02afbca7.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-24-2025-dc8</guid>
     </item>    <item>
       <title>Engineering Lego Cars to Climb Increasingly Tall Walls</title>
       <link>https://kottke.org/25/09/engineering-lego-cars-to-climb-increasingly-tall-walls</link>
@@ -675,6 +933,10 @@
       </description>
       <guid>cid://https://simonwillison.net/2025/Sep/25/documentation/#atom-everything</guid>
     </item>    <item>
+      <title>Apple&#39;s Antitrust Playbook</title>
+      <link>https://infrequently.org/2025/09/apples-antitrust-playbook/</link>
+      <guid>cid://https://infrequently.org/2025/09/apples-antitrust-playbook/</guid>
+    </item>    <item>
       <title>603. Greek Myths: The Riddle of the Sphinx (Part 2)</title>
       <link>https://therestishistory.com/603-greek-myths-the-riddle-of-the-sphinx-part-2/</link>
       <description>
@@ -1123,7 +1385,7 @@
       <title>The Continuing End of OTA TV</title>
       <link>https://doc.searls.com/2025/09/23/the-continuing-end-of-ota-tv/</link>
       <description>
-        <![CDATA[I&#8217;ve never watched Jimmy Kimmel Live—or any late-night talk shows since Carson, and I didn&#8217;t watch much of him either. But I am familiar with Jimmy, through his Oscars hosting gigs, his friendship with Howard Stern (who I have listened to, for decades), and from YouTube clips when somebody points me to one and I [&#8230;]]]>
+        <![CDATA[I&#8217;ve never watched Jimmy Kimmel Live—or any late-night talk shows since Carson, and I didn&#8217;t watch much of him either. But I am familiar with Jimmy, through his Oscars hosting gigs, his friendship with Howard Stern (who I have enjoyed for decades), and from YouTube clips when somebody points me to one and I actually [&#8230;]]]>
       </description>
       <guid>cid://https://doc.searls.com/?p=19464</guid>
     </item>    <item>
@@ -1788,13 +2050,6 @@
       <enclosure url="https://substackcdn.com/image/fetch/$s_!Kk5p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1b9c0c7-92b0-472e-89d1-68313993b2b1_3373x2901.jpeg" length="0" type="image/jpeg" />
       <guid>cid://https://robertreich.substack.com/p/the-deeper-story-behind-americas</guid>
     </item>    <item>
-      <link>https://om.co/2025/09/22/go-out-get-some-air/</link>
-      <description>
-        <![CDATA[<p>Om reviews the iPhone air. "It ranks as one of the most beautiful objects—not just phones—that I have ever held."</p>]]>
-      </description>
-      <source:markdown>Om reviews the iPhone air. &#34;It ranks as one of the most beautiful objects—not just phones—that I have ever held.&#34;</source:markdown>
-      <guid>cid://https://links.daveverse.org/2025/09/22/1201/</guid>
-    </item>    <item>
       <title>Four new releases from Qwen</title>
       <link>https://simonwillison.net/2025/Sep/22/qwen/#atom-everything</link>
       <description>
@@ -1881,6 +2136,13 @@
       </description>
       <source:markdown>The 21 grams experiment that tried to weigh a human soul.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1199/</guid>
+    </item>    <item>
+      <title>Go Out &#38; Get Some Air</title>
+      <link>https://om.co/2025/09/22/go-out-get-some-air/</link>
+      <description>
+        <![CDATA[Over the weekend, I got a surprise package from the folks at Apple: a review unit of the iPhone Air. I don&#8217;t tend to get smitten by something so quickly, but the &#8220;Air&#8221; is really up there. It&#8217;s so thin you think a strong gust of air&#160;could&#160;really blow it away from your hands. (These puns &#8230;]]>
+      </description>
+      <guid>cid://https://om.co/?p=944683</guid>
     </item>    <item>
       <title>Super Mario Bros. Remastered</title>
       <link>https://kottke.org/25/09/super-mario-bros-remastered</link>
@@ -10796,535 +11058,6 @@
         ~~~ ...]]>
       </description>
       <guid>cid://https://rsdoiel.github.io/blog/2025/09/05/Build_a_Blog_with_Antenna_App.html</guid>
-    </item>    <item>
-      <title>Friday 5 September, 2025</title>
-      <link>https://memex.naughtons.org/friday-5-september-2025/41172/</link>
-      <description>
-        <![CDATA[Beach no uitable Sign on the dunes of a lovely Donegal beach. Quote of the Day “I like old men. They can be wonderful bastards because they have nothing to lose. The only people who can be themselves are babies &#8230; <a href="https://memex.naughtons.org/friday-5-september-2025/41172/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
-      </description>
-      <guid>cid://https://memex.naughtons.org/?p=41172</guid>
-    </item>    <item>
-      <title>Judge, Jury, Executioner</title>
-      <link>https://steady.substack.com/p/judge-jury-executioner</link>
-      <description>
-        <![CDATA[When one man is all three, democracy is on the brink]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!EYxL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b1ba49b-fbf2-4d0f-845b-47e74ab6f889_4758x3172.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://steady.substack.com/p/judge-jury-executioner</guid>
-    </item>    <item>
-      <title>Tesla&#39;s Roadmap to Nowhere</title>
-      <link>https://davekarpf.substack.com/p/teslas-roadmap-to-nowhere</link>
-      <description>
-        <![CDATA[I'll give him this: Elon Musk has a solid grasp of futurity-as-PR.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!3PrI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ee715d7-9721-4d86-8c3d-6540f930f03d_1076x588.png" length="0" type="image/jpeg" />
-      <guid>cid://https://davekarpf.substack.com/p/teslas-roadmap-to-nowhere</guid>
-    </item>    <item>
-      <title>Introducing EmbeddingGemma</title>
-      <link>https://simonwillison.net/2025/Sep/4/embedding-gemma/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://developers.googleblog.com/en/introducing-embeddinggemma/">Introducing EmbeddingGemma</a></strong></p>
-        Brand new open weights (under the slightly janky <a href="https://ai.google.dev/gemma/terms">Gemma license</a>) 308M parameter embedding model from Google:</p>
-        <blockquote>
-        <p>Based on the Gemma 3 architecture, EmbeddingGemma is trained on 100+ languages and is small enough to run on less than 200MB of RAM with quantization.</p>
-        </blockquote>
-        <p>It's available via <a href="https://ai.google.dev/gemma/docs/embeddinggemma/fine-tuning-embeddinggemma-with-sentence-transformers">sentence-transformers</a>, <a href="https://huggingface.co/collections/ggml-org/embeddinggemma-300m-68b2a87d78ca52408f7918f3">llama.cpp</a>, <a href="https://huggingface.co/collections/mlx-community/embeddinggemma-68b9a55aac55466fbd514f7c">MLX</a>, <a href="https://ollama.com/library/embeddinggemma">Ollama</a>, <a href="https://lmstudio.ai/models/google/embedding-gemma-300m">LMStudio</a> and more. </p>
-        <p>As usual for these smaller models there's a <a href="https://huggingface.co/blog/embeddinggemma#transformersjs">Transformers.js</a> demo (<a href="https://twitter.com/xenovacom/status/1963638444233511016">via</a>) that runs directly in the browser (in Chrome variants) - <a href="https://huggingface.co/spaces/webml-community/semantic-galaxy">Semantic Galaxy</a> loads a ~400MB model and then lets you run embeddings against hundreds of text sentences, map them in a 2D space and run similarity searches to zoom to points within that space.</p>
-        <p><img alt="Screenshot of The Semantic Galaxy web application interface showing a semantic search tool with a left sidebar containing &quot;Your Dataset&quot; with sample text &quot;The sun peeked through the clouds after a drizzly&quot; and a blue &quot;Generate Galaxy&quot; button, below which is text &quot;Galaxy generated with 106 points. Ready to explore!&quot; followed by &quot;Search Results&quot; listing various text snippets with similarity scores to the search term &quot;pelican riding a bicycle&quot; such as &quot;The cyclist pedaled up the steep hill... 0.491&quot;, &quot;It was so hot that even the birds sou... 0.446&quot;, etc. The main area shows a dark starfield visualization with white dots representing semantic clusters and text snippets floating as labels near the clusters." src="https://static.simonwillison.net/static/2025/semantic-galaxy-transformers.jpg" />
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/embeddings">embeddings</a>, <a href="https://simonwillison.net/tags/transformers-js">transformers-js</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/4/embedding-gemma/#atom-everything</guid>
-    </item>    <item>
-      <title>How Are You Supposed To Get The COVID Vaccine Now? An Explainer....</title>
-      <link>https://kottke.org/25/09/0047456-how-are-you-supposed-to</link>
-      <guid>cid://tag:kottke.org,2025://13.47456</guid>
-    </item>    <item>
-      <title>The Lawless and Disorder President</title>
-      <link>https://robertreich.substack.com/p/the-lawless-and-disorder-president</link>
-      <description>
-        <![CDATA[He&#8217;s even been selling pardons]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/youtube/w_728,c_limit/NflcWXdV-B0" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/the-lawless-and-disorder-president</guid>
-    </item>    <item>
-      <title>Highlighted tools</title>
-      <link>https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything</link>
-      <description>
-        <![CDATA[<p>Any time I share my <a href="https://tools.simonwillison.net/">collection of tools</a> built using vibe coding and AI-assisted development (now at 124, here's <a href="https://tools.simonwillison.net/colophon">the definitive list</a>) someone will inevitably complain that they're mostly trivial.</p>
-        <p>A lot of them are! Here's a list of some that I think are genuinely useful and worth highlighting:</p>
-        <ul>
-        <li><a href="https://tools.simonwillison.net/ocr">OCR PDFs and images directly in your browser</a>. This is the tool that started the collection, and I still use it on a regular basis. You can open any PDF in it (even PDFs that are just scanned images with no embedded text) and it will extract out the text so you can copy-and-paste it. It uses PDF.js and Tesseract.js to do that entirely in the browser. I wrote about <a href="https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/">how I originally built that here</a>.</li>
-        <li><a href="https://tools.simonwillison.net/annotated-presentations">Annotated Presentation Creator</a> - this one is <em>so useful</em>. I use it to turn talks that I've given into full annotated presentations, where each slide is accompanied by detailed notes. I have <a href="https://simonwillison.net/tags/annotated-talks/">29 blog entries</a> like that now and most of them were written with the help of this tool. Here's <a href="https://simonwillison.net/2023/Aug/6/annotated-presentations/">how I built that</a>, plus <a href="https://tools.simonwillison.net/colophon#annotated-presentations.html">follow-up prompts I used to improve it</a>.</li>
-        <li><a href="https://tools.simonwillison.net/image-resize-quality">Image resize, crop, and quality comparison</a> - I use this for every single image I post to my blog. It lets me drag (or paste) an image onto the page and then shows me a comparison of different sizes and quality settings, each of which I can download and then upload to my S3 bucket. I recently added a slightly janky but mobile-accessible cropping tool as well. <a href="https://tools.simonwillison.net/colophon#image-resize-quality.html">Prompts</a>.</li>
-        <li><a href="https://tools.simonwillison.net/social-media-cropper">Social Media Card Cropper</a> - this is an even more useful image tool. Bluesky, Twitter etc all benefit from a 2x1 aspect ratio "card" image. I built this custom tool for creating those - you can paste in an image and crop and zoom it to the right dimensions. I use this all the time. <a href="https://tools.simonwillison.net/colophon#social-media-cropper.html">Prompts</a>.</li>
-        <li><a href="https://tools.simonwillison.net/svg-render">SVG to JPEG/PNG</a> - every time I publish an <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">SVG of a pelican riding a bicycle</a> I use this tool to turn that SVG into a JPEG or PNG. <a href="https://tools.simonwillison.net/colophon#svg-render.html">Prompts</a>.</li>
-        <li><a href="https://tools.simonwillison.net/encrypt">Encrypt / decrypt message</a> - I often run workshops where I want to distribute API keys to the workshop participants. This tool lets me encrypt a message with a passphrase, then share the resulting URL to the encrypted message and tell people (with a note on a slide) how to decrypt it. <a href="https://tools.simonwillison.net/colophon#encrypt.html">Prompt</a>.</li>
-        <li><a href="https://tools.simonwillison.net/jina-reader">Jina Reader</a> - enter a URL, get back a Markdown version of the page. It's a thin wrapper over the Jina Reader API, but it's useful because it adds a "copy to clipboard" button which means it's one of the fastest way to turn a webpage into data on a clipboard on my mobile phone. I use this several times a week. <a href="https://tools.simonwillison.net/colophon#jina-reader.html">Prompts</a>.</li>
-        <li><a href="https://www.llm-prices.com/">llm-prices.com</a> - a pricing comparison and token pricing calculator for various hosted LLMs. This one started out as a tool but graduated to its own domain name. Here's the <a href="https://tools.simonwillison.net/colophon#llm-prices.html">prompting development history</a>.</li>
-        <li><a href="https://tools.simonwillison.net/open-sauce-2025">Open Sauce 2025</a> - an unofficial schedule for the Open Sauce conference, complete with option to export to ICS plus a search tool and now-and-next. I built this <em>entirely on my phone</em> using OpenAI Codex, including scraping the official schedule - <a href="https://simonwillison.net/2025/Jul/17/vibe-scraping/">full details here</a>. </li>
-        <li><a href="https://tools.simonwillison.net/hacker-news-histogram">Hacker News Multi-Term Histogram</a> - compare search terms on Hacker News to see how their relative popularity changed over time. <a href="https://tools.simonwillison.net/colophon#hacker-news-histogram.html">Prompts</a>.</li>
-        <li><a href="https://tools.simonwillison.net/passkeys">Passkey experiment</a> - a UI for trying out the Passkey / WebAuthn APIs that are built into browsers these days. <a href="https://tools.simonwillison.net/colophon#passkeys.html">Prompts</a>.</li>
-        <li><a href="https://tools.simonwillison.net/incomplete-json-printer">Incomplete JSON Pretty Printer</a> - do you ever find yourself staring at a screen full of JSON that isn't completely valid because it got truncated? This tool will pretty-print it anyway. <a href="https://tools.simonwillison.net/colophon#incomplete-json-printer.html">Prompts</a>.</li>
-        <li><a href="https://tools.simonwillison.net/bluesky-firehose">Bluesky WebSocket Feed Monitor</a> - I found out Bluesky has a Firehose API that can be accessed directly from the browser, so I vibe-coded up this tool to try it out. <a href="https://tools.simonwillison.net/colophon#bluesky-firehose.html">Prompts</a>.</li>
-        </ul>
-        <p>In putting this list together I realized I wanted to be able to link to the prompts for each tool... but those were hidden inside a collapsed <code>&lt;details&gt;&lt;summary&gt;</code> element for each one. So I fired up <a href="https://openai.com/codex/">OpenAI Codex</a> and prompted:</p>
-        <blockquote>
-        <p><code>Update the script that builds the colophon.html page such that the generated page has a tiny bit of extra JavaScript - when the page is loaded as e.g. https://tools.simonwillison.net/colophon#jina-reader.html it should notice the #jina-reader.html fragment identifier and ensure that the Development history details/summary for that particular tool is expanded when the page loads.</code></p>
-        </blockquote>
-        <p>It <a href="https://github.com/simonw/tools/pull/47">authored this PR for me</a> which fixed the problem.</p>
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything</guid>
-    </item>    <item>
-      <title>Atlassian Acquires The Browser Company for $610 Million</title>
-      <link>https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42202</guid>
-    </item>    <item>
-      <title>Investors Score the US-v.-Google Remedies Ruling a Win for Google and Apple</title>
-      <link>https://www.wsj.com/tech/judge-bars-google-from-exclusive-search-deals-orders-data-sharing-e65a2191?st=VJ33DJ&#38;reflink=desktopwebshare_permalink</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42201</guid>
-    </item>    <item>
-      <title>Beyond Vibe Coding</title>
-      <link>https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything</link>
-      <description>
-        <![CDATA[<p><strong><a href="https://beyond.addy.ie/">Beyond Vibe Coding</a></strong></p>
-        Back in May I wrote <a href="https://simonwillison.net/2025/May/1/not-vibe-coding/">Two publishers and three authors fail to understand what “vibe coding” means</a> where I called out the authors of two forthcoming books on "vibe coding" for abusing that term to refer to all forms of AI-assisted development, when <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/">Not all AI-assisted programming is vibe coding</a> based on the <a href="https://twitter.com/karpathy/status/1886192184808149383">original Karpathy definition</a>.</p>
-        <p>I'll be honest: I don't feel great about that post. I made an example of those two books to push my own agenda of encouraging "vibe coding" to avoid <a href="https://simonwillison.net/2025/Mar/23/semantic-diffusion/">semantic diffusion</a> but it felt (and feels) a bit mean.</p>
-        <p>... but maybe it had an effect? I recently spotted that Addy Osmani's book "Vibe Coding: The Future of Programming" has a new title, it's now called "Beyond Vibe Coding: From Coder to AI-Era Developer".</p>
-        <p>This title is <strong>so much better</strong>. Setting aside my earlier opinions, this positioning as a book to help people go <em>beyond</em> vibe coding and use LLMs as part of a professional engineering practice is a really great hook!</p>
-        <p>From Addy's new description of the book:</p>
-        <blockquote>
-        <p>Vibe coding was never meant to describe all AI-assisted coding. It's a specific approach where you don't read the AI's code before running it. There's much more to consider beyond the prototype for production systems. [...]</p>
-        <p>AI-assisted engineering is a more structured approach that combines the creativity of vibe coding with the rigor of traditional engineering practices. It involves specs, rigor and emphasizes collaboration between human developers and AI tools, ensuring that the final product is not only functional but also maintainable and secure.</p>
-        </blockquote>
-        <p>Amazon <a href="https://www.amazon.com/Beyond-Vibe-Coding-Leveraging-AI-Assisted/dp/B0F6S5425Y">lists it</a> as releasing on September 23rd. I'm looking forward to it.</p>
-        <p><img alt="O'Reilly book cover: Beyond Vibe Coding: From Coder to AI-Era Developer, by Addy Osmani. Features two hummingbirds, presumably because their wings vibrate!" src="https://static.simonwillison.net/static/2025/beyond-vibe-coding.jpg" />
-        
-        
-            <p>Tags: <a href="https://simonwillison.net/tags/books">books</a>, <a href="https://simonwillison.net/tags/oreilly">oreilly</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/addy-osmani">addy-osmani</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p>]]>
-      </description>
-      <guid>cid://https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything</guid>
-    </item>    <item>
-      <title>The Persisters</title>
-      <link>https://kottke.org/25/09/the-persisters</link>
-      <guid>cid://tag:kottke.org,2025://5.47454</guid>
-    </item>    <item>
-      <link>https://tilde.zone/@tomasino/115147961827774416</link>
-      <description>
-        <![CDATA[<p>If you were a snail-like creature who carried your home on your back, what would your house look like</p>]]>
-      </description>
-      <guid>cid://https://tilde.zone/@tomasino/115147961827774416</guid>
-    </item>    <item>
-      <title>Instagram Finally Launches an iPad App</title>
-      <link>https://about.instagram.com/blog/announcements/instagram-for-ipad/</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42200</guid>
-    </item>    <item>
-      <title>Thursday session</title>
-      <link>https://adactio.com/notes/22114</link>
-      <description>
-        <![CDATA[<img src="https://adactio.com/images/uploaded/22114/small.jpg" srcset="https://adactio.com/images/uploaded/22114/medium.jpg 1.5x, https://adactio.com/images/uploaded/22114/large.jpg 2.5x" alt="Thursday session" />
-        <p>Thursday session</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22114</guid>
-    </item>    <item>
-      <title>Google Avoids Harshest Penalties in Search Monopoly Ruling</title>
-      <link>https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html</link>
-      <guid>cid://tag:daringfireball.net,2025:/linked//6.42199</guid>
-    </item>    <item>
-      <title>&#38;#8220;I almost admire the confidence it must take to tell people what...</title>
-      <link>https://kottke.org/25/09/0047444-i-almost-admire-the-confi</link>
-      <guid>cid://tag:kottke.org,2025://13.47444</guid>
-    </item>    <item>
-      <title>Note published on September 4, 2025 at 7:22 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509041509</link>
-      <guid>cid://68b9e6fd604d916e1d8df099</guid>
-    </item>    <item>
-      <title>Atlassian Acquires The Browser Company</title>
-      <link>https://mjtsai.com/blog/2025/09/04/atlassian-acquires-the-browser-company/</link>
-      <description>
-        <![CDATA[Atlassian (tweet, Hacker News): We&#8217;ve entered into an agreement to acquire The Browser Company of New York, the team behind the incredible Dia and Arc browsers. By combining The Browser Company&#8217;s passion for building browsers people love with Atlassian&#8217;s deep expertise on how the world&#8217;s best teams operate, we have the opportunity to transform how [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49160</guid>
-    </item>    <item>
-      <title>ASUS ProArt 6K Display</title>
-      <link>https://mjtsai.com/blog/2025/09/04/asus-proart-6k-display/</link>
-      <description>
-        <![CDATA[ASUS: ProArt Display PA32QCV is a 31.5-inch 6K HDR monitor designed for professional content creators. This Calman Verified display boasts a wide gamut with 98% DCI-P3 coverage and Delta E&#60;2 color accuracy. The ProArt Preset feature now includes the new M Model-P3 mode to deliver seamless and consistent colors when working with MacBook devices. Dual [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49158</guid>
-    </item>    <item>
-      <title>AppKitUI</title>
-      <link>https://mjtsai.com/blog/2025/09/04/appkitui/</link>
-      <description>
-        <![CDATA[Darren Ford: An AppKit UI toolkit help you create and manage NSView content easilyRemove dependence on using XIBs when creating UI viewsReduce boilerplate code when manually creating NSView UI content.Easily bind data between controlsEasily attach actions to your controls (no more delegates or target/actions!)Use Xcode&#8217;s preview pane to view your designs!! There&#8217;s a demo. Previously: [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49156</guid>
-    </item>    <item>
-      <title>Writing Mac and iOS Apps Shouldn’t Be So Difficult</title>
-      <link>https://mjtsai.com/blog/2025/09/04/writing-mac-and-ios-apps-shouldnt-be-so-difficult/</link>
-      <description>
-        <![CDATA[Brent Simmons (Mastodon): A scripting language plus key bits implemented in C was more than fast enough for an app. Even all those years ago. [&#8230;] I&#8217;m not writing this article to praise Frontier &#8212;&#160;I&#8217;m talking about it to make a point, which I&#8217;ll get to. But I wanted to bring up a second aspect [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49154</guid>
-    </item>    <item>
-      <title>Substack IAP</title>
-      <link>https://mjtsai.com/blog/2025/09/04/substack-iap/</link>
-      <description>
-        <![CDATA[Substack (Hacker News): The Substack app drives more than 30% of all paid subscriptions, making it a major source of discovery and discussion. Until now, however, it hasn&#8217;t always been possible to upgrade to a paid subscription directly in the app.That&#8217;s changing. Apple now allows Substack to include external links for paid subscriptions in the [&#8230;]]]>
-      </description>
-      <guid>cid://https://mjtsai.com/blog/?p=49152</guid>
-    </item>    <item>
-      <title>Trying to Make Sense of Casing Conventions on the Web</title>
-      <link>https://blog.jim-nielsen.com/2025/casing-on-the-web/</link>
-      <description>
-        <![CDATA[<p>(I present to you my stream of consciousness on the topic of casing as it applies to the web platform.)</p>
-        <p>I’m reading about <a href="https://developer.chrome.com/blog/command-and-commandfor" >the new <code>command</code> and <code>commandfor</code> attributes</a> — which I’m super excited about, declarative behavior invocation in HTML? YES PLEASE!! — and one thing that strikes me is the casing in these APIs.</p>
-        <p>For example, the <code>command</code> attribute has a variety of values in HTML which correspond to APIs in JavaScript. The <code>show-popover</code> attribute value maps to <code>.showPopover()</code> in JavaScript. <code>hide-popover</code> maps to <code>.hidePopover()</code>, etc.</p>
-        <p>So what we have is:</p>
-        <ul>
-        <li>lowercase in attribute names<ul>
-        <li>e.g. <code>commandfor=&quot;...&quot;</code></li>
-        </ul>
-        </li>
-        <li>kebab-case in attribute values<ul>
-        <li>e.g. <code>show-popover</code></li>
-        </ul>
-        </li>
-        <li>camelCase for JS counterparts<ul>
-        <li>e.g. <code>showPopover()</code></li>
-        </ul>
-        </li>
-        </ul>
-        <p>After thinking about this a little more, I remember that <a href="https://www.w3.org/TR/2010/WD-html-markup-20101019/documents.html#case-insensitivity" >HTML attributes names are case insensitive</a>, so the browser will normalize them to lowercase during parsing. Given that, I suppose you could write <code>commandFor=&quot;...&quot;</code> but it’s effectively the same.</p>
-        <p>Ok, lowercase attribute names in HTML makes sense. The related popover attributes follow the same convention:</p>
-        <ul>
-        <li><code>popovertarget</code></li>
-        <li><code>popovertargetaction</code></li>
-        </ul>
-        <p>And there are many other <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes" >attribute names in HTML</a> that are lowercase, e.g.:</p>
-        <ul>
-        <li><code>maxlength</code></li>
-        <li><code>novalidate</code></li>
-        <li><code>contenteditable</code></li>
-        <li><code>autocomplete</code></li>
-        <li><code>formenctype</code></li>
-        </ul>
-        <p>So that all makes sense.</p>
-        <p>But wait, there are <em>some</em> attribute names with hyphens in them, like <code>aria-label=&quot;...&quot;</code> and <code>data-value=&quot;...&quot;</code>.</p>
-        <p>So why isn’t it <code>command-for=&quot;...&quot;</code>?</p>
-        <p>Well, upon further reflection, I suppose those attributes were named that way for extensibility’s sake: they are essentially wildcard attributes that represent a family of attributes that are all under the same namespace: <code>aria-*</code> and <code>data-*</code>.</p>
-        <p>But wait, isn’t that an argument for doing <code>popover-target</code> and <code>popover-target-action</code>? Or <code>command</code> and <code>command-for</code>?</p>
-        <p>But wait (I keep saying that) there are kebab-case attribute names in HTML — like <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/http-equiv" >http-equiv</a> on the <code>&lt;meta&gt;</code> tag, or <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form#accept-charset" ><code>accept-charset</code></a> on the form tag — but those seem more like legacy exceptions.</p>
-        <p>It seems like the only answer here is: there is no rule. Naming is driven by convention and decisions are made on a case-by-case basis. But if I had to summarize, it would probably be that the default casing for new APIs tends to follow the rules I outlined at the start (and what’s reflected in the new <code>command</code> APIs):</p>
-        <ul>
-        <li>lowercase for HTML attributes names</li>
-        <li>kebab-case for HTML attribute values</li>
-        <li>camelCase for JS counterparts</li>
-        </ul>
-        <p>Let’s not even get into <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Attribute" >SVG attribute names</a></p>
-        <p class="image-container"><img src="https://cdn.jim-nielsen.com/blog/2025/casing-svg-attributes.png" width="682" height="1059" alt="Screenshot of various SVG attribute names, all with mixed casing from lowercase to kebab-case to camelCase." />
-        
-        </p><p>We need one of those “bless this mess” signs that we can hang over the World Wide Web.</p>
-        <p class="image-container"><img data-og-image src="https://cdn.jim-nielsen.com/blog/2025/casing-bless-this-mess.jpg" width="808" height="516" alt="Photograph of Tim Berners-Lee next to his NeXT computer with the first web page on it at CERN. Above the image is a superimposed sign that says “Bless this mess” in cursive type." /></p>
-            <hr />
-            
-        
-            <p>
-              Reply via:
-              
-        
-              <a
-                href="mailto:jimniels%2Bblog@gmail.com?subject=Re:%20blog.jim-nielsen.com/2025/casing-on-the-web/"
-                >Email</a
-              >
-              · <a href="https://mastodon.social/@jimniels">Mastodon</a> ·
-        
-              <a href="https://bsky.app/profile/jim-nielsen.com">Bluesky</a>
-            </p>]]>
-      </description>
-      <guid>cid://https://blog.jim-nielsen.com/2025/casing-on-the-web/</guid>
-    </item>    <item>
-      <title>Meet the Man Doing a 10-Day, Self-Supported Swim Across a 140-Mile Lake</title>
-      <link>https://kottke.org/25/09/meet-the-man-doing-a-10-day-self-supported-swim-across-a-140-mile-lake</link>
-      <guid>cid://tag:kottke.org,2025://5.47455</guid>
-    </item>    <item>
-      <title>Trump’s Big Mistake</title>
-      <link>https://tinabrown.substack.com/p/trumps-big-mistake</link>
-      <description>
-        <![CDATA[Sorry, Donald, you&#8217;re not reading the room.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!EtC1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce4a868-a11d-4fcb-ac6f-ea65d0f94685_1024x683.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://tinabrown.substack.com/p/trumps-big-mistake</guid>
-    </item>    <item>
-      <title>The Rise of the Traveling Third Space. &#38;#8220;Traveling third spaces are not...</title>
-      <link>https://kottke.org/25/09/0047439-the-rise-of-the-traveling</link>
-      <guid>cid://tag:kottke.org,2025://13.47439</guid>
-    </item>    <item>
-      <title>A rabbit hole</title>
-      <link>https://a.wholelottanothing.org/a-rabbit-hole/</link>
-      <description>
-        <![CDATA[<p>Last night, I went down a rabbit hole around the music group <a href="https://en.wikipedia.org/wiki/Starland_Vocal_Band?ref=a.wholelottanothing.org" rel="noreferrer">Starland Vocal Band</a>, and their weird one-hit-wonder sex song Afternoon Delight that reached #1 on the Billboard charts in 1977. </p><figure class="kg-card kg-embed-card"><iframe width="200" height="150" src="https://www.youtube.com/embed/iKnVaOhr7W4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Starland Vocal Band (intro by John Denver) &#x2022; &quot;Afternoon Delight&quot; &#x2022; 1976 [RITY Archive]"></iframe></figure><p>I got to that after watching an episode of their summer network variety show (that was quickly canceled)</p>]]>
-      </description>
-      <guid>cid://68b9cb40615ada0001908261</guid>
-    </item>    <item>
-      <title>The Official Map of the Star Wars Galaxy</title>
-      <link>https://kottke.org/25/09/the-official-map-of-the-star-wars-galaxy</link>
-      <guid>cid://tag:kottke.org,2025://5.47453</guid>
-    </item>    <item>
-      <title>Note published on September 4, 2025 at 4:20 PM UTC</title>
-      <link>https://www.mollywhite.net/micro/entry/202509041219</link>
-      <guid>cid://68b9bc6a604d916e1d8df015</guid>
-    </item>    <item>
-      <title>September 3, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-3-2025-3f5</link>
-      <enclosure url="https://api.substack.com/feed/podcast/172802116/f0698a0967fa0a8ced37066a53e06365.mp3" length="0" type="audio/mpeg" />
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-3-2025-3f5</guid>
-    </item>    <item>
-      <title>Generative AI in the Real World: Luke Wroblewski on When Databases Talk Agent-Speak</title>
-      <link>https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-luke-wroblewski-on-when-databases-talk-agent-speak/</link>
-      <description>
-        <![CDATA[Join Luke Wroblewski and Ben Lorica as they talk about the future of software development. What happens when we have databases that are designed to interact with agents and language models rather than humans? We’re starting to see what that world will look like. It’s an exciting time to be a software developer. About the [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?post_type=podcast&#38;p=17394</guid>
-    </item>    <item>
-      <title>Submit your ideas for Interop 2026</title>
-      <link>https://webkit.org/blog/17320/submit-your-ideas-for-interop-2026/</link>
-      <description>
-        <![CDATA[Every year, web developers all over the world get a chance to formally throw their hat in the ring and submit proposals that can impact how the web works in both small and large ways.]]>
-      </description>
-      <guid>cid://https://webkit.org/?p=17320</guid>
-    </item>    <item>
-      <title>A thoughtful essay about e-bikes as a metaphor for AI, augmentation vs...</title>
-      <link>https://kottke.org/25/09/0047450-a-thoughtful-essay-about-</link>
-      <guid>cid://tag:kottke.org,2025://13.47450</guid>
-    </item>    <item>
-      <title>The success of Django… and when the machines take over.</title>
-      <link>https://statusq.org/archives/2025/09/04/13281/</link>
-      <description>
-        <![CDATA[The Django web framework is now 20 years old. Within a few months of its launch, I discovered it, liked it, and we rather daringly decided to bet on it as the basis for the software of my new startup. (Here&#8217;s my post from almost exactly 20 years ago, explaining the decision.) For those not <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/09/04/13281/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>]]>
-      </description>
-      <guid>cid://https://statusq.org/?p=13281</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/04.html#a152713</link>
-      <description>
-        <![CDATA[AI is as good at writing software as it is in creating competent visual art. It's only amazing in terms of how much more a novice can do. It doesn't mean what they create is interesting in more than a gee-wiz way, and the novelty fades pretty quickly I've found.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/04.html#a152713</guid>
-    </item>    <item>
-      <title>From Lewis Hine, a photograph of Clyde Bradford. Hine&#38;#8217;s photos of child...</title>
-      <link>https://kottke.org/25/09/0047443-from-lewis-hine-a-photogr</link>
-      <guid>cid://tag:kottke.org,2025://13.47443</guid>
-    </item>    <item>
-      <title>Why &#34;Evergreen Companies&#34; Beat Venture Capital at Its Own Game</title>
-      <link>https://guykawasaki.substack.com/p/why-evergreen-companies-beat-venture</link>
-      <description>
-        <![CDATA[Silicon Valley&#8217;s transformation from patient company-building into a frenzied race for explosive growth had a front-row witness: venture capitalist Dave Whorton.]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!nAfK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90ae8748-b2fa-410c-b4e6-8d3766f4ffb6_640x460.heic" length="0" type="image/jpeg" />
-      <guid>cid://https://guykawasaki.substack.com/p/why-evergreen-companies-beat-venture</guid>
-    </item>    <item>
-      <title>A Newsletter of Humorous Writing #408</title>
-      <link>https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing/</link>
-      <description>
-        <![CDATA[<h3><em>For August 27-September 2, 2025</em></h3>
-        <p>Hello and welcome to <strong>A Newsletter of Humorous Writing</strong>, a roundup of the week's finest short humor pieces and funny articles, and a celebration of the fantastic writers who wrote them. In accordance with the old rhyme, “August sunflowers bring September superpowers,” we hope this new month is off to a great start of flying around and zapping things with your eye lasers.</p>
-        <hr/><h2>What We Enjoyed This Week</h2>
-        <p><a href="https://www.pointsincase.com/articles/is-your-refrigerator-running?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>Is Your Refrigerator Running?</strong></a><strong> by </strong><a href="https://www.lukeherzog.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>Luke Herzog</strong></a> <em>(Points in Case)</em> This is some really impressive heightening. Pieces that hinge on one turn of phrase can often get stuck looping back to that phrase, but Luke goes beyond “Is your refrigerator running?” to have fun exploring and subverting other classic phone pranks.</p>
-        <p><a href="https://medium.com/slackjaw/an-honest-beach-invitation-from-your-friend-who-wont-shut-up-about-the-beach-830bbf39d524?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>An Honest Beach Invitation From Your Friend Who Won’t Shut Up About The Beach</strong></a><strong> by </strong><a href="https://www.emilyannekling.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>Emily Kling</strong></a> <em>(Slackjaw)</em> We’ve gone on the record to admit to being beach Grinches many times before in the Newsletter, and so this cri de coeur from Emily warmed our staying-in-the-shade-the-entire-day hearts.</p>
-        <p><a href="https://www.mcsweeneys.net/articles/i-got-tenure-and-now-i-cant-seem-to-form-simple-declarative-sentences?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>I Got Tenure and Now I Can’t Seem to Form Simple Declarative Sentences</strong></a><strong> by </strong><a href="https://aarushiahuja.com/?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>Aarushi Ahuja</strong></a> <em>(McSweeney’s)</em> At first blush this piece appears to be working in more of a short story mode—but if you look a little closer, you can see that it has the structure of a premise-based humor piece. If you want to write more scenic short humor, this is a good one to look at. Aarushi introduces new comedic beats quickly, giving you plenty of jokes and heightening, but still finds time to sit in the moments in a grounded way. It’s well done!</p>
-        <hr/><blockquote><p class="empty-line" style="height:16px; margin:0px !important;"></p><p>-- AD --</p><p>DAF is partnering with The Onion for a weekend not only stacked with curriculum to help you hone your satire skills but also full of real-world career guidance for marginalized writers who aspire to someday join the ranks of America’s most famous satire publication or launch a career in comedy writing. <a href="https://www.diversesatireworkshops.com/fall-2025-application?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">The application deadline is September 8, 2025, at 11:59:59pm Eastern.</a></p><p>---</p><p>It’s a Jungle in Here: The Mental Gymnastics Show!<br/>Come see NYC’s funniest writers read satire + humor about mental gymnastics. Feat. Colin Nissan, Josh Gondelman, Lillian Stone, and many more hilarious people. <br/><br/>Tuesday, Sept. 16, 9:30PM @ Caveat (21A Clinton St.)<br/><br/>Get $5 off at checkout w/ code <a href="https://www.caveat.nyc/events/its-a-jungle-in-here-satire-in-the-wild-9-16-2025?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">BRAINFLIPS</a></p><p>---</p><p>(Do you have an ad you'd like to place in the Newsletter? <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJlHErf2PuWr5NxqLbD6dhf7s31pzCC3sBVCHJ24exAwfmgQ/viewform?usp=sf_link&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">Fill out this form!</a>)</p></blockquote>
-        <hr/><h2>An Old Favorite</h2>
-        <p><strong><em>This week's Old Favorite is a special back-to-school</em></strong> <a href="http://www.mcsweeneys.net/articles/celebrating-the-hilarious-work-of-brian-agler?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Brian Agler</em></strong></a> <strong><em>Selection (TM)--a piece whose accompanying note was written by Brian--from </em></strong><a href="https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing-109/" rel="noopener noreferrer nofollow" target="_blank"><strong><em>Newsletter #109</em></strong></a><strong><em>.</em></strong></p>
-        <p><a href="https://www.mcsweeneys.net/articles/ashton-kutcher-fan-fiction-the-middle-school-dance-by-melissa-bell-age-13?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>Ashton Kutcher Fan Fiction: "The Middle School Dance" By Melissa Bell, Age 13</strong></a><strong> by </strong><a href="https://twitter.com/TeddyWayne1999?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><strong>Teddy Wayne</strong></a><strong> </strong><em>(McSweeney's)</em></p>
-        <p>Last week, Luke and Brian performed at the launch party for <a href="https://store.mcsweeneys.net/products/keep-scrolling-till-you-feel-something-21-years-of-humor-from-mcsweeney-s-internet-tendency?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">Keep Scrolling Till You Feel Something</a>, a compendium of 21 years of McSweeney's Internet Tendency humor. Teddy Wayne also read--specifically, this piece. It absolutely destroyed. No wonder; it's a classic. We can't recall another piece that so <em>feels</em> like it was written by the "narrator." What really does it for us are the past tense synonyms for "said" that "Melissa" clearly just learned. For some bonus content, check out <a href="https://www.youtube.com/watch?v=Ynv2UIxlc14&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">this video</a> of "Melissa" herself, reading the piece.</p>
-        <p><em>Do you have an Old Favorite of your own? Let us know by filling out</em> <a href="http://forms.gle/9iALhpfsAn9mvn4p8?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank"><em>this form</em></a> <em>and we may run your pick in a future edition of the newsletter.</em></p>
-        <hr/><h2>Updates From Your Hosts and Friends of the Show</h2>
-        <p>Luke’s got a few spots left (including scholarship spots) in his upcoming advanced <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhWIZHlMRdAxVNswXZR54Xs9XrZBpM4J36k0XeTAUgqKgRQw/viewform?usp=dialog&amp;utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">short humor writing workshop starting September 13th</a>! And check <a href="https://bsky.app/profile/lukevburns.bsky.social/post/3lwoo6raoms2j?utm_source=humorouswriting&amp;utm_medium=email&amp;utm_campaign=a-newsletter-of-humorous-writing" rel="noopener noreferrer nofollow" target="_blank">out this thread</a> to see some of the great work that’s come out of previous workshops and gone on to be published in places like The New Yorker, McSweeney’s, and more.</p>
-        <p>Thanks to everyone who came out to our hang last night! Hope you had as much fun as we did!</p>]]>
-      </description>
-      <guid>cid://https://buttondown.com/humorouswriting/archive/a-newsletter-of-humorous-writing/</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/04.html#a144857</link>
-      <description>
-        <![CDATA[ChatGPT might not give you the best answer. Yesterday I hit a problem with the MySQL hosting service, and as we worked it out, ChatGPT and me, I ended up contacting the ISP's support asking them to restart the server, something I cannot do through the control panel. They don't do that, and made a couple of suggestions which didn't seem to make sense based on what ChatGPT had told me. So I tried what they suggested and it worked, and went back to ChatGPT and asked what it thought, and it said yes of course that worked, and would you like me to show you how to do it even better. I guess it takes a path and never goes back to see if there isn't a better one. We've been through this before. Anyway, always be circumspect about it's advice, it's not just hallucinations you need to watch for. That said, with help from both ChatGPT and Digital Ocean, I now have a better setup, and it should run without the problem we hit yesterday.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/04.html#a144857</guid>
-    </item>    <item>
-      <title>Some Pix  and a Few Words About IIW</title>
-      <link>https://doc.searls.com/2025/09/04/some-pix-and-a-few-words-about-iiw/</link>
-      <description>
-        <![CDATA[I wrote for Linux Journal from 1996 to 2019, and have been involved with IIW since I helped start it in 2005. So, in an effort to help substantiate a future Wikipedia article on IIW, I wanted a list of all my Linux Journal contributions mentioning &#8220;IIW&#8221; and/or &#8220;Internet Identity Workshop.&#8221; (Never mind that my [&#8230;]]]>
-      </description>
-      <guid>cid://https://doc.searls.com/?p=19363</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/04.html#a142256</link>
-      <description>
-        <![CDATA[Another thing I should have mentioned, about the title of the <a href="https://shownotes.scripting.com/scripting/2025/09/03/lastChanceForTheOpenWeb.html">podcast</a>, I think this <i>is</i> the last chance for the open web. It may already be too late. Look at what's happening politically in the US now and ask how tolerant the government is going to be of an open web. We always had to deal with the possibility that they would shut down free speech here. It has been <a href="https://en.wikipedia.org/wiki/Communications_Decency_Act">tried</a>, didn't work in the 90s. But the guardrails that existed then possibly don't exist now. The same things that are forcing CBS for example to become a controlled press, may affect the web too, but you won't read about it in the NYT or hear about it on Maddow because they have low regard for non-professional people writing on the web.]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/04.html#a142256</guid>
-    </item>    <item>
-      <link>http://scripting.com/2025/09/04.html#a141446</link>
-      <description>
-        <![CDATA[<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, one of the things I should have mentioned in yesterday's <a href="https://shownotes.scripting.com/scripting/2025/09/03/lastChanceForTheOpenWeb.html">podcast</a> is that the product isn't just WordLand, it's also FeedLand. The two are connected by a well-developed <a href="https://en.wikipedia.org/wiki/WebSocket">WebSocket</a> interface, which I will provide code for, as well as docs for what goes over the wire. I think a lot of feed <a href="https://en.wiktionary.org/wiki/aficionado">aficionados</a> will find this really interesting (and also really simple).]]>
-      </description>
-      <guid>cid://http://scripting.com/2025/09/04.html#a141446</guid>
-    </item>    <item>
-      <title>I bought the cheapest EV (a used Nissan Leaf)</title>
-      <link>https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf</link>
-      <description>
-        <![CDATA[<span class="field field--name-title field--type-string field--label-hidden">I bought the cheapest EV (a used Nissan Leaf)</span>
-        
-                    <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/jeff-buys-nissan-leaf-sv-plus.jpg" width="350" height="330" class="insert-image" data-insert-type="image" data-entity-type="file" data-entity-uuid="insert-image-a463435a-cfd8-4cbb-976e-31ecec4fadb8" data-insert-attach="{&quot;id&quot;:&quot;a463435a-cfd8-4cbb-976e-31ecec4fadb8&quot;,&quot;attributes&quot;:{&quot;alt&quot;:[&quot;alt&quot;,&quot;description&quot;],&quot;title&quot;:[&quot;title&quot;]}}" alt="Jeff Geerling with Nissan Leaf SV Plus at Dealership"></p>
-        
-        <p>I bought a used 2023 Nissan Leaf in 2025, my first 'new' car in 15 years. The above photo was taken by the dealership; apparently their social media team likes to post photos of all purchasers.</p>
-        
-        <p>I test drove a Tesla in 2012, and quickly realized my mistake. No gasoline-powered car (outside of supercars, maybe? Never drove one of those) could match the feel of pressing the throttle on an electric.</p>
-        
-        <p>I started out with a used minivan, which I drove into the ground. Then I bought a used Olds that I drove into the ground. Then I bought a used Camry that I bought before we had kids, when I had a 16 mile commute.</p></div>
-              <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-        <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-09-04T09:00:20-05:00" title="Thursday, September 4, 2025 - 09:00" class="datetime">September 4, 2025</time>
-        </span>]]>
-      </description>
-      <guid>cid://3490 at https://www.jeffgeerling.com</guid>
-    </item>    <item>
-      <title>Speaking at Web Day Out</title>
-      <link>https://adactio.com/journal/22113</link>
-      <description>
-        <![CDATA[<p>Half of the line-up of speakers for <a href="https://webdayout.com/">Web Day Out</a> is already on the site. One more is already confirmed.</p>
-        
-        <p>I’m ridiculously excited about the way the line-up is taking shape, and judging by the zippiness of ticket sales, so are lots of my peers. Seriously, <a href="https://ti.to/clearleft/web-day-out">don’t wait to get your ticket</a> or you might end up missing out completely.</p>
-        
-        <p>I’ve already got a shortlist of other people I could imagine on the line-up, but I’m open to more suggestions. If you’d like to speak at <a href="https://webdayout.com/">Web Day Out</a>—or you know someone you think would be great—<a href="mailto:jeremy@clearleft.com">send an email</a> to jeremy@clearleft.com</p>
-        
-        <p>I won’t be checking my work email while I’m away on holiday next week but it would be lovely to come back to an inbox of exciting suggestions.</p>
-        
-        <p>A couple of pointers…</p>
-        
-        <p>I’d rather not have too many people like me on the line-up. White dudes are already over-represented in this industry, especially at conferences.</p>
-        
-        <p>If you’ve never given a talk before, don’t worry. I’d love to help you put your talk together and coach you in presenting it. <a href="https://adactio.com/about/speaking/">I have some experience in this area</a>.</p>
-        
-        <p>No product pitches. That includes JavaScript frameworks and CSS libraries.</p>
-        
-        <p>If I get even a whiff of “AI”, your proposal doesn’t stand a chance. There are many, many, <em>many</em> other events that are only too happy to have wall-to-wall talks about …that sort of thing.</p>
-        
-        <p>If you end up speaking at <a href="https://webdayout.com/">Web Day Out</a> you will, of course, be paid. We will, of course, cover travel and accommodation too. We can’t afford the travel costs of bringing anyone in from outside Europe though (and we’d like to keep the carbon footprint of the event as small as possible).</p>
-        
-        <p>Web Day Out has <a href="https://webdayout.com/agenda/">an opinionated agenda</a> all about showing what’s possible in web browsers today. Some potential topics include:</p>
-        
-        <ul>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_view_transitions">view transitions</a>,</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API">invoker commands</a>,</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning">anchor positioning</a>,</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations">scroll-driven animations</a>,</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps">progressive web apps</a>,</li>
-        <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components">web components</a>.</li>
-        </ul>
-        
-        <p>The emphasis should be on using stuff in production rather than theoretical demos.</p>
-        
-        <p>If you’ve got a case study about using the web platform—perhaps migrating away from a framework-driven approach—that would fit the bill perfectly.</p>
-        
-        <p>How’s all that sounding? Know someone who could deliver the goods? <a href="mailto:jeremy@clearleft.com">Let me know</a>!</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/journal/22113</guid>
-    </item>    <item>
-      <title>U2 and a Harlem Choir Sing &#38;#8216;I Still Haven&#38;#8217;t Found What I&#38;#8217;m Looking For&#38;#8217;</title>
-      <link>https://kottke.org/25/09/u2-and-a-harlem-choir-sing-i-still-havent-found-what-im-looking-for</link>
-      <guid>cid://tag:kottke.org,2025://5.47451</guid>
-    </item>    <item>
-      <title>Linux Lite relief: 7.6 keeps it simple, shiny, and mostly slim</title>
-      <link>https://go.theregister.com/i/cfa/https://www.theregister.com/2025/09/04/linux_lite_76/</link>
-      <description>
-        <![CDATA[<h4>Ubuntu 24.04.3, with a prettified Xfce 4.18</h4>
-              <p>Linux Lite 7.6 is the latest, slightly updated release of this technologically moderate distro from New Zealand.</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241715</guid>
-    </item>    <item>
-      <title>Floriduh</title>
-      <link>https://onefoottsunami.com/2025/09/04/floriduh/</link>
-      <guid>cid://https://onefoottsunami.com/?p=29097</guid>
-    </item>    <item>
-      <title>A list of 29 heroes and interesting people that few people have...</title>
-      <link>https://kottke.org/25/09/0047432-a-list-of-29-heroes</link>
-      <guid>cid://tag:kottke.org,2025://13.47432</guid>
-    </item>    <item>
-      <link>https://mastodon.social/@Migueldeicaza/115146130970085085</link>
-      <description>
-        <![CDATA[<p>I love how chunks of the swift compiler are being rewritten in Swift, one chunk at a time: </p><p><a href="https://github.com/swiftlang/swift/pull/84071/files" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/swiftlang/swift/pul</span><span class="invisible">l/84071/files</span></a></p>]]>
-      </description>
-      <guid>cid://https://mastodon.social/@Migueldeicaza/115146130970085085</guid>
-    </item>    <item>
-      <title>I’m seeing more and more companies referring to their tech stack as using “traditional machine learning” …presumably to distance themselves from the slopaganda of “AI” grifters before the bubble pops.</title>
-      <link>https://adactio.com/notes/22112</link>
-      <description>
-        <![CDATA[<p>I’m seeing more and more companies referring to their tech stack as using “traditional machine learning” …presumably to distance themselves from the slopaganda of “AI” grifters before the bubble pops.</p>]]>
-      </description>
-      <guid>cid://https://adactio.com/notes/22112</guid>
-    </item>    <item>
-      <title>Generative AI as a Cybercrime Assistant</title>
-      <link>https://www.schneier.com/blog/archives/2025/09/generative-ai-as-a-cybercrime-assistant.html</link>
-      <description>
-        <![CDATA[<p>Anthropic <a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025">reports</a> on a Claude user:</p>
-        <blockquote><p>We recently disrupted a sophisticated cybercriminal that used Claude Code to commit large-scale theft and extortion of personal data. The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government and religious institutions. Rather than encrypt the stolen information with traditional ransomware, the actor threatened to expose the data publicly in order to attempt to extort victims into paying ransoms that sometimes exceeded $500,000.</p>
-        <p>The actor used AI to what we believe is an unprecedented degree. Claude Code was used to automate reconnaissance, harvesting victims&#8217; credentials, and penetrating networks. Claude was allowed to make both tactical and strategic decisions, such as deciding which data to exfiltrate, and how to craft psychologically targeted extortion demands. Claude analyzed the exfiltrated financial data to determine appropriate ransom amounts, and generated visually alarming ransom notes that were displayed on victim machines...</p></blockquote>]]>
-      </description>
-      <guid>cid://https://www.schneier.com/?p=70649</guid>
-    </item>    <item>
-      <title>Cooking the Federal Reserve’s Credibility</title>
-      <link>https://paulkrugman.substack.com/p/cooking-the-federal-reserves-credibility</link>
-      <description>
-        <![CDATA[Did Wile E. Coyote just make a cameo appearance?]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!KG_t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec8aeb6b-b6da-4d76-8ffb-a8b163390d6c_800x449.png" length="0" type="image/jpeg" />
-      <guid>cid://https://paulkrugman.substack.com/p/cooking-the-federal-reserves-credibility</guid>
-    </item>    <item>
-      <title>AI Security Takes Center Stage at Black Hat USA 2025</title>
-      <link>https://www.oreilly.com/radar/ai-security-takes-center-stage-at-black-hat-usa-2025/</link>
-      <description>
-        <![CDATA[The security landscape is undergoing yet another major shift, and nowhere was this more evident than at Black Hat USA 2025. As artificial intelligence (especially the agentic variety) becomes deeply embedded in enterprise systems, it&#8217;s creating both security challenges and opportunities. Here&#8217;s what security professionals need to know about this rapidly evolving landscape. AI systems—and [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.oreilly.com/radar/?p=17388</guid>
-    </item>    <item>
-      <title>New from Raspberry Pi Press: Unplugged Tots</title>
-      <link>https://www.raspberrypi.com/news/new-from-raspberry-pi-press-unplugged-tots/</link>
-      <description>
-        <![CDATA[<p>Introduce children to the foundations of coding with our newest title, 'Unplugged Tots', featuring 100% screen-free, play-based activities.</p>
-        <p>The post <a href="https://www.raspberrypi.com/news/new-from-raspberry-pi-press-unplugged-tots/">New from Raspberry Pi Press: Unplugged Tots</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>]]>
-      </description>
-      <guid>cid://https://www.raspberrypi.com/?p=129839</guid>
-    </item>    <item>
-      <title>Trump and the Art of Extortion</title>
-      <link>https://robertreich.substack.com/p/trumps-art-of-extortion</link>
-      <description>
-        <![CDATA[How to understand his desire to control the Fed (and everything else)]]>
-      </description>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!E2BC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbaadb5b-6343-4af7-b3ff-6c2969be9635_3500x2068.jpeg" length="0" type="image/jpeg" />
-      <guid>cid://https://robertreich.substack.com/p/trumps-art-of-extortion</guid>
-    </item>    <item>
-      <title>Make your proposals for Interop 2026</title>
-      <link>https://web.dev/blog/interop-2026-proposals?hl=en</link>
-      <description>
-        <![CDATA[Find out about the progress of Interop 2025, and how to submit your ideas for 2026.]]>
-      </description>
-      <guid>cid://https://web.dev/blog/interop-2026-proposals?hl=en</guid>
-    </item>    <item>
-      <title>September 3, 2025</title>
-      <link>https://heathercoxrichardson.substack.com/p/september-3-2025</link>
-      <description>
-        <![CDATA[[Please note that this post talks about sexual assault in the last four paragraphs.]]]>
-      </description>
-      <guid>cid://https://heathercoxrichardson.substack.com/p/september-3-2025</guid>
-    </item>    <item>
-      <title>2025 Community Award Results</title>
-      <link>https://us-rse.org/2025-09-04-community-awards-results/</link>
-      <description>
-        <![CDATA[Overview The 2025 US-RSE Community Awards recognize and celebrate the impactful contributions of individuals and teams who are advancing the field of research software engineering in the United States. This year there were two categories of awards: Technical Excellence: Recognizes outstanding technical contributions that materially advance research software engineering practice....]]>
-      </description>
-      <guid>cid://https://us-rse.org/2025-09-04-community-awards-results/</guid>
     </item>
   </channel>
 </rss>

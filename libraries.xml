@@ -4,10 +4,18 @@
   <channel>
     <title>Libraries</title>
     <link>https://rsdoiel.github.io/antenna/libraries.xml</link>
-    <lastBuildDate>25 Sep 25 15:09 -0700</lastBuildDate>
+    <lastBuildDate>26 Sep 25 06:07 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Guest Post – From Publications to Policy: How Research Is Driving Progress on the SDGs</title>
+      <link>https://scholarlykitchen.sspnet.org/2025/09/26/guest-post-from-publications-to-policy-how-research-is-driving-progress-on-the-sdgs/</link>
+      <description>
+        <![CDATA[<p>Today's guest bloggers share analysis on the relationship between impact and policy during Global Goals Week 2025.</p>
+        <p>The post <a href="https://scholarlykitchen.sspnet.org/2025/09/26/guest-post-from-publications-to-policy-how-research-is-driving-progress-on-the-sdgs/">Guest Post – From Publications to Policy: How Research Is Driving Progress on the SDGs</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>]]>
+      </description>
+      <guid>cid://https://scholarlykitchen.sspnet.org/?p=61032</guid>
+    </item>    <item>
       <title>The Old English Baron, by Clara Reeve</title>
       <link>https://standardebooks.org/ebooks/clara-reeve/the-old-english-baron</link>
       <description>
@@ -340,7 +348,7 @@
       <description>
         <![CDATA[Mysterious midnight visitors to a New York mansion are observed by a spinster living next door.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door/downloads/anna-katharine-green_that-affair-next-door.epub?source=feed" length="709205" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door/downloads/anna-katharine-green_that-affair-next-door.epub?source=feed" length="709232" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/anna-katharine-green/that-affair-next-door</guid>
     </item>    <item>
       <title>Travel Essays, by Robert Louis Stevenson</title>
@@ -554,7 +562,7 @@
       <description>
         <![CDATA[In 14th-century Norway, a nobleman’s daughter grows up and faces passion, sin, and filial piety.]]>
       </description>
-      <enclosure url="https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/sigrid-undset_the-bridal-wreath_charles-archer-j-s-scott.epub?source=feed" length="909754" type="application/epub+zip" />
+      <enclosure url="https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott/downloads/sigrid-undset_the-bridal-wreath_charles-archer-j-s-scott.epub?source=feed" length="909747" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/sigrid-undset/the-bridal-wreath/charles-archer_j-s-scott</guid>
     </item>    <item>
       <title>Short Fiction, by Clifford D. Simak</title>
@@ -797,22 +805,6 @@
       </description>
       <enclosure url="https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known/downloads/ernest-thompson-seton_wild-animals-i-have-known.epub?source=feed" length="801384" type="application/epub+zip" />
       <guid>cid://https://standardebooks.org/ebooks/ernest-thompson-seton/wild-animals-i-have-known</guid>
-    </item>    <item>
-      <title>Reflections on Summer Library Conferences and Serving the Justice Impacted</title>
-      <link>https://sr.ithaka.org/blog/reflections-on-summer-library-conferences-and-serving-the-justice-impacted/</link>
-      <description>
-        <![CDATA[<p>This summer I attended and presented at two library conferences, the annual American Library Association (ALA) and the annual American Association of Law Librarians meetings. I participated in four panel discussions that focused on how libraries can better serve people inside and outside of prison. If you weren’t able to attend, I have provided some [&#8230;]</p>
-        <p>The post <a href="https://sr.ithaka.org/blog/reflections-on-summer-library-conferences-and-serving-the-justice-impacted/">Reflections on Summer Library Conferences and Serving the Justice Impacted</a> appeared first on <a href="https://sr.ithaka.org">Ithaka S+R</a>.</p>]]>
-      </description>
-      <guid>cid://https://sr.ithaka.org/?p=323511</guid>
-    </item>    <item>
-      <title>Transparency in Research Reporting: An Evolving Culture</title>
-      <link>https://blog.scielo.org/en/2025/09/04/transparency-in-research-reporting-an-evolving-culture/</link>
-      <description>
-        <![CDATA[<p>More than two decades ago, Richard Horton, editor of <em>The Lancet</em>, raised thought-provoking questions about scientific authorship and its representation in published articles. He noted that research reports often overlook disagreements among co-authors over the interpretation of results. Bringing to light elements of this so-called "hidden paper" has become essential for the reliability of scientific reporting. This is an evolving process likely to gain even greater relevance in graduate education, especially in the current context of intellectual production increasingly permeated by Generative Artificial Intelligence. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/09/04/transparency-in-research-reporting-an-evolving-culture/" class="more-link"><span>Read More &#8594;</span></a></span></p>
-        <p>The post <a href="https://blog.scielo.org/en/2025/09/04/transparency-in-research-reporting-an-evolving-culture/">Transparency in Research Reporting: An Evolving Culture</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>]]>
-      </description>
-      <guid>cid://https://blog.scielo.org/en/?p=5656</guid>
     </item>
   </channel>
 </rss>
