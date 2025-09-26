@@ -4,10 +4,24 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Sep 25 06:07 -0700</lastBuildDate>
+    <lastBuildDate>26 Sep 25 15:13 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2025/09/this-week-on-the-analog-antiquarian/</link>
+      <description>
+        <![CDATA[Chapter 4: The Man Who Saw Infinity]]>
+      </description>
+      <guid>cid://https://www.filfre.net/?p=6510</guid>
+    </item>    <item>
+      <title>Latest news from R-Comp: WROCC meeting, 1st October</title>
+      <link>https://www.riscository.com/2025/latest-news-r-comp-wrocc-1st-october/</link>
+      <description>
+        <![CDATA[The Wakefield RISC OS Computer Club (WROCC) will be holding their next meeting on Wednesday, 1st October, with Andrew Rawnsley taking centre stage to bring the group up to date with all things R-Comp. Andrew will bring the group up to date with all the latest developments at R-Comp and RCI, and with the London Show (at the time of the meeting) just three and a half weeks away, there&#8217;s a chance he may be able to share some details or sneak peaks of new releases for the event. He&#8230;]]>
+      </description>
+      <guid>cid://https://www.riscository.com/?p=10725</guid>
+    </item>    <item>
       <title>The Rockwell KIM-1, myth or?</title>
       <link>http://retro.hansotten.nl/the-rockwell-kim-1-myth-or/</link>
       <description>
@@ -850,13 +864,6 @@
         <![CDATA[The crapshoot of AI art, Backups, The day the music died, A new chair, Illicit game cards.]]>
       </description>
       <guid>cid://https://heyrick.eu/blog/entry/20250913</guid>
-    </item>    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2025/09/this-week-on-the-analog-antiquarian/</link>
-      <description>
-        <![CDATA[Chapter 3: The Book That Some People Read]]>
-      </description>
-      <guid>cid://https://www.filfre.net/?p=6493</guid>
     </item>    <item>
       <title>Ovation Pro and book publishing – ROUGOL meeting, 15th September</title>
       <link>https://www.riscository.com/2025/ovation-pro-and-publishing-rougol-15th-september/</link>

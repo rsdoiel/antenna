@@ -4,7 +4,7 @@
   <channel>
     <title>Columns</title>
     <link>https://rsdoiel.github.io/antenna/columns.xml</link>
-    <lastBuildDate>26 Sep 25 06:07 -0700</lastBuildDate>
+    <lastBuildDate>26 Sep 25 15:13 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -25,6 +25,199 @@
         <p>Further event details, including <a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements</a> such as image galleries, can be added to the body of this page.</p>]]>
       </description>
       <guid>cid://https://notes.peter-baumgartner.net/event/example/</guid>
+    </item>    <item>
+      <title>Game over for pure LLMs. Even Turing Award Winner Rich Sutton has gotten off the bus.</title>
+      <link>https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing</link>
+      <description>
+        <![CDATA[One by one, all the big names have turned around. What should we do next?]]>
+      </description>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!Z3Th!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3d696f0-899e-4fe0-86a6-dfbb8434d464_1356x830.png" length="0" type="image/jpeg" />
+      <guid>cid://https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing</guid>
+    </item>    <item>
+      <title>Really Simple potato chips</title>
+      <link>http://scripting.com/2025/09/26/211219.html?title=reallySimplePotatoChips</link>
+      <description>
+        <![CDATA[<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/09/26/reallySimplePotatoChips.png"></center>"The #1 chips for dips!"</div></p>]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/26/211219.html</guid>
+    </item>    <item>
+      <title>MySQL and MariaDB GPL licence error?</title>
+      <link>https://ocelot.ca/blog/blog/2025/09/26/mysql-and-mariadb-gpl-licence-error/</link>
+      <description>
+        <![CDATA[To comply with GPL requirements, MySQL and MariaDB include a COPYING or LICENSE file, which has You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1335 USA. and maybe something&#8217;s wrong with&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2025/09/26/mysql-and-mariadb-gpl-licence-error/">Continue Reading MySQL and MariaDB GPL licence error?</a>]]>
+      </description>
+      <guid>cid://https://ocelot.ca/blog/?p=1061</guid>
+    </item>    <item>
+      <title>Friday Squid Blogging: Jigging for Squid</title>
+      <link>https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html</link>
+      <description>
+        <![CDATA[<p>A nice <a href="https://provincetownindependent.org/visual/2025/09/17/a-latecomer-joins-the-squid-seekers-2/">story</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.schneier.com/?p=70875</guid>
+    </item>    <item>
+      <link>http://scripting.com/2025/09/26.html#a205907</link>
+      <description>
+        <![CDATA[I put out a request for WordPress-related blogs on <a href="https://mastodon.social/@davew/115270627531848336">Masto</a>, <a href="https://bsky.app/profile/scripting.com/post/3lzqi6vzvtc2n">Bluesky</a> and <a href="https://x.com/davewiner/status/1971553589031248069">Twitter</a> this morning. Got enough feeds to start <a href="https://wordpress.feedland.org/">wordpress.feedland.org</a>. If you have a site that should be included, please post the URL in one of those places and I'll add it to the subscription list for the site.]]>
+      </description>
+      <guid>cid://http://scripting.com/2025/09/26.html#a205907</guid>
+    </item>    <item>
+      <title>Tahoe’s Mac App Store</title>
+      <link>https://mjtsai.com/blog/2025/09/26/tahoes-mac-app-store/</link>
+      <description>
+        <![CDATA[Mario Guzm&#225;n: All throughout the beta of #macOSTahoe, the Mac App Store app doesn&#8217;t show me updates. I have to use Latest.app to update my Mac App Store purchases. I was hope it would only be a beta issue but it seems to affect the RC as well. Anyone else seeing this?And no, Command + [&#8230;]]]>
+      </description>
+      <guid>cid://https://mjtsai.com/blog/?p=49389</guid>
+    </item>    <item>
+      <link>https://arstechnica.com/tech-policy/2025/09/sinclair-gets-nothing-it-asked-for-puts-jimmy-kimmel-back-on-anyway/?utm_brand=arstechnica&#38;utm_social-type=owned&#38;utm_source=mastodon&#38;utm_medium=social</link>
+      <description>
+        <![CDATA[<p>Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway.</p>]]>
+      </description>
+      <source:markdown>Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1257/</guid>
+    </item>    <item>
+      <title>September 25, 2025</title>
+      <link>https://heathercoxrichardson.substack.com/p/september-25-2025-f57</link>
+      <enclosure url="https://api.substack.com/feed/podcast/174643164/264ad3637eb64cb0eb2aff55e0bd7ef1.mp3" length="0" type="audio/mpeg" />
+      <guid>cid://https://heathercoxrichardson.substack.com/p/september-25-2025-f57</guid>
+    </item>    <item>
+      <title>This week’s news in Venn diagrams.</title>
+      <link>https://lithub.com/this-weeks-news-in-venn-diagrams-2/</link>
+      <description>
+        <![CDATA[It&#8217;s been another long week, folks. I&#8217;m rolling into Saturday pretty drained—I&#8217;m starting to realize why &#8220;weekend&#8221; is a homonym of &#8220;weakened.&#8221; We&#8217;re getting a last gasp of summery weather here in New York City, and I&#8217;m hoping to spend some time this weekend with a drink and a book outside, or al fresco if [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260316</guid>
+    </item>    <item>
+      <title>Solange Knowles is launching a free radical library.</title>
+      <link>https://lithub.com/solange-knowles-is-launching-a-free-radical-library/</link>
+      <description>
+        <![CDATA[Once again, Solange Knowles is using her popularity for a good cause. Last night on Instagram, the polymath poet, culture worker, and song stylist announced a new literary project. An archive sponsored by Saint Heron, Knowles&#8217; &#8220;multidisciplinary institution reverencing the spiritual act of creation,&#8221; will house and lend a rare collection of Black and Brown [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260312</guid>
+    </item>    <item>
+      <title>Note published on September 26, 2025 at 6:26 PM UTC</title>
+      <link>https://www.mollywhite.net/micro/entry/202509261425</link>
+      <guid>cid://68d6dad1910bb8dc7e9ce0c1</guid>
+    </item>    <item>
+      <link>https://kansasreflector.com/2025/09/26/repub/comey-says-hes-standing-up-to-donald-trump-while-trump-calls-for-more-retribution/</link>
+      <description>
+        <![CDATA[<p>Comey says he’s 'standing up to Donald Trump,' while Trump calls for more retribution.</p>]]>
+      </description>
+      <source:markdown>Comey says he’s &#39;standing up to Donald Trump,&#39; while Trump calls for more retribution.</source:markdown>
+      <guid>cid://https://links.daveverse.org/2025/09/26/1255/</guid>
+    </item>    <item>
+      <title>How to stop AI’s “lethal trifecta”</title>
+      <link>https://simonwillison.net/2025/Sep/26/how-to-stop-ais-lethal-trifecta/#atom-everything</link>
+      <description>
+        <![CDATA[<p><strong><a href="https://www.economist.com/leaders/2025/09/25/how-to-stop-ais-lethal-trifecta">How to stop AI’s “lethal trifecta”</a></strong></p>
+        This is the second mention of <a href="https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/">the lethal trifecta</a> in the Economist in just the last week! Their earlier coverage was <a href="https://www.economist.com/science-and-technology/2025/09/22/why-ai-systems-might-never-be-secure">Why AI systems may never be secure</a> on September 22nd - I <a href="https://simonwillison.net/2025/Sep/23/why-ai-systems-might-never-be-secure/">wrote about that here</a>, where I called it "the clearest explanation yet I've seen of these problems in a mainstream publication".</p>
+        <p>I like this new article a lot less.</p>
+        <p>It makes an argument that I <em>mostly</em> agree with: building software on top of LLMs is more like traditional physical engineering - since LLMs are non-deterministic we need to think in terms of tolerances and redundancy:</p>
+        <blockquote>
+        <p>The great works of Victorian England were erected by engineers who could not be sure of the properties of the materials they were using. In particular, whether by incompetence or malfeasance, the iron of the period was often not up to snuff. As a consequence, engineers erred on the side of caution, overbuilding to incorporate redundancy into their creations. The result was a series of centuries-spanning masterpieces.</p>
+        <p>AI-security providers do not think like this. Conventional coding is a deterministic practice. Security vulnerabilities are seen as errors to be fixed, and when fixed, they go away. AI engineers, inculcated in this way of thinking from their schooldays, therefore often act as if problems can be solved just with more training data and more astute system prompts.</p>
+        </blockquote>
+        <p>My problem with the article is that I don't think this approach is appropriate when it comes to security!</p>
+        <p>As I've said several times before, <a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/#prompt-injection.015">In application security, 99% is a failing grade</a>. If there's a 1% chance of an attack getting through, an adversarial attacker will find that attack.</p>
+        <p>The whole point of the lethal trifecta framing is that the <em>only way</em> to reliably prevent that class of attacks is to cut off one of the three legs!</p>
+        <p>Generally the easiest leg to remove is the exfiltration vectors - the ability for the LLM agent to transmit stolen data back to the attacker.
+        
+            <p><small></small>Via <a href="https://news.ycombinator.com/item?id=45387155">Hacker News</a></small></p>
+        
+        
+            <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/lethal-trifecta">lethal-trifecta</a></p>]]>
+      </description>
+      <guid>cid://https://simonwillison.net/2025/Sep/26/how-to-stop-ais-lethal-trifecta/#atom-everything</guid>
+    </item>    <item>
+      <title>Here’s what’s making us happy  this  week.</title>
+      <link>https://lithub.com/heres-whats-making-us-happy-this-week-6-sep26/</link>
+      <description>
+        <![CDATA[This was a week of adventure. Here at Lit Hub, we&#8217;re happy to be going places—mentally and literally. Into the wild, or the kitchen. Into a new romance. We&#8217;re headed uptown and skyward and forward. We are not dimension bound. I, Brittany Allen, spent this week happily anticipating one of my favorite cultural events of [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260304</guid>
+    </item>    <item>
+      <title>Why I Risked Arrest to Protest the Giller Prize’s Blood Money</title>
+      <link>https://lithub.com/why-i-risked-arrest-to-protest-the-giller-prizes-blood-money/</link>
+      <description>
+        <![CDATA[On November 13th 2023, a little over month into Israel’s ongoing assault on Gaza, the Giller Prize held its annual televised gala to award Canada&#8217;s biggest fiction prize. The broadcast was disrupted twice by protestors who entered the room to spotlight the prize’s main sponsor, Scotiabank, and its $500 million stake in Elbit Systems, Israeli&#8217;s [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260273</guid>
+    </item>    <item>
+      <title>Great power transitions and the role of technology</title>
+      <link>http://www.enlightenmenteconomics.com/blog/index.php/2025/09/great-power-transitions-and-the-role-of-technology/</link>
+      <description>
+        <![CDATA[I have mixed feelings about Jeffrey Ding&#8217;s Technology and the Rise of Great Powers. On the one hand, it&#8217;s an interesting and persuasive hypothesis. He argues that great power transitions such as from the UK to the US around the &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/09/great-power-transitions-and-the-role-of-technology/">Continue reading <span class="meta-nav">&#8594;</span></a>]]>
+      </description>
+      <guid>cid://http://www.enlightenmenteconomics.com/blog/?p=7882</guid>
+    </item>    <item>
+      <title>Los extraños: capítulo 2 – la tortura a la audiencia continúa</title>
+      <link>https://www.palomitademaiz.net/resenas-los-extranos-capitulo-2/?utm_source=rss&#38;utm_medium=rss&#38;utm_campaign=resenas-los-extranos-capitulo-2</link>
+      <description>
+        <![CDATA[<p>Dirección: Renny Harlin. Guion: Alan R. Cohen, Alan Freedland. Elenco: Madelaine Petsch, Gabriel Basso, Ema Horvath, Matus Lajcak, Brooke Lena Johnson, Richard Brake. Países: Estados Unidos, España. Más información de la película: https://www.imdb.com/title/tt28671344/ El cine slasher es perfecto para darnos paranoia y desconfianza en cualquier lugar, desde los suburbios hasta las cabañas remotas, y para [&#8230;]</p>
+        <p>La entrada <a href="https://www.palomitademaiz.net/resenas-los-extranos-capitulo-2/">Los extraños: capítulo 2 &#8211; la tortura a la audiencia continúa</a> se publicó primero en <a href="https://www.palomitademaiz.net">Palomita de maíz</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.palomitademaiz.net/?p=25558</guid>
+    </item>    <item>
+      <title>★ Apple on the Digital Markets Act</title>
+      <link>https://daringfireball.net/2025/09/apple_on_the_digital_markets_act</link>
+      <description>
+        <![CDATA[How in the world would that increase competition? iOS’s unique and exclusive features — which, yes, in many cases, are exclusive to the Apple device ecosystem — *are competition*.]]>
+      </description>
+      <guid>cid://tag:daringfireball.net,2025://1.42226</guid>
+    </item>    <item>
+      <link>https://mastodon.social/@Migueldeicaza/115271360576648292</link>
+      <description>
+        <![CDATA[<p>When you are a swift developer, every day is Christmas!<br /><a href="https://mastodon.social/@heckj/115266398878487096" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@heckj/1152663</span><span class="invisible">98878487096</span></a></p>]]>
+      </description>
+      <guid>cid://https://mastodon.social/@Migueldeicaza/115271360576648292</guid>
+    </item>    <item>
+      <title>Taking the Day</title>
+      <link>https://kottke.org/25/09/taking-the-day</link>
+      <guid>cid://tag:kottke.org,2025://5.47598</guid>
+    </item>    <item>
+      <title>Behind the Blog: Behind 404 Media&#39;s ICE Lawsuit</title>
+      <link>https://www.404media.co/behind-the-blog-behind-404-medias-ice-lawsuit/</link>
+      <description>
+        <![CDATA[This week, we discuss being journalism dorks, our new lawsuit against ICE, and working on bullshit.]]>
+      </description>
+      <guid>cid://68d68c233ea9560001459a56</guid>
+    </item>    <item>
+      <title>What You Need to Know about Modern CSS (2025 Edition) – Frontend Masters Blog</title>
+      <link>https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-2025-edition/</link>
+      <description>
+        <![CDATA[<p>Here’s a comprehensive round-up of new CSS that you can use right now—you can expect to see some of this in action at <a href="https://webdayout.com/">Web Day Out</a>!</p>
+        
+        <p><a href="https://adactio.com/links/22159">adactio.com/links/22159</a></p>]]>
+      </description>
+      <guid>cid://https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-2025-edition/</guid>
+    </item>    <item>
+      <title>The End of the Blockbuster</title>
+      <link>https://www.profgalloway.com/the-end-of-the-blockbuster/</link>
+      <description>
+        <![CDATA[<p>For David and Larry Ellison, the credits of The Fantastic Four: First Steps are the best part of the film. Specifically, they are the opportunity: The scrolling list of more than 3,000 cast and crew members is a sign of an industry ripe for disruption. The Marvel movie’s staff — from visual effects artists and [&#8230;]</p>
+        <p>The post <a href="https://www.profgalloway.com/the-end-of-the-blockbuster/">The End of the Blockbuster</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>]]>
+      </description>
+      <guid>cid://https://www.profgalloway.com/?p=216306</guid>
+    </item>    <item>
+      <title>Der CCC unterstützt epicenter.works mit Spende</title>
+      <link>https://www.ccc.de/de/updates/2025/spende-epicenter</link>
+      <description>
+        <![CDATA[Der Chaos Computer Club gratuliert dem Verein epicenter.works zu seinem 15-jährigen Jubiläum und spendet 15.000 Euro.]]>
+      </description>
+      <guid>cid://https://www.ccc.de/de/990</guid>
+    </item>    <item>
+      <title>Here’s a handy guide to help you spot AI writing.</title>
+      <link>https://lithub.com/heres-a-handy-guide-to-help-you-spot-ai-writing/</link>
+      <description>
+        <![CDATA[Source image from Wikimedia Foundation It’s always a bit surprising to me how trusted Wikipedia has become, since I spent my entire childhood being told by adults to never, ever, trust it. But the site has become an indispensably reliable and vibrant archive. It’s easy to search, rigorously cited, and full of fun rabbit holes [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=260295</guid>
+    </item>    <item>
+      <title>Earth Was Mysteriously Thrown Off-Kilter In 2015. Now, Scientists Think They Know Why.</title>
+      <link>https://www.404media.co/earth-was-mysteriously-thrown-off-kilter-in-2015-now-scientists-think-they-know-why/</link>
+      <description>
+        <![CDATA[The sudden reduction in the Chandler wobble, a deviation between Earth’s axis and crust, may primarily originate in a powerful La Niña event, reports a new study.]]>
+      </description>
+      <guid>cid://68d69cb63ea9560001459bd7</guid>
     </item>    <item>
       <link>https://www.therepository.email/nick-hamzes-cool-kids-post-kicks-off-fresh-debate-on-wordpresss-image-problem</link>
       <description>
@@ -55,6 +248,13 @@
       </description>
       <guid>cid://https://www.schneier.com/?p=70871</guid>
     </item>    <item>
+      <title>Why Literary Festivals Still Matter</title>
+      <link>https://lithub.com/why-literary-festivals-still-matter/</link>
+      <description>
+        <![CDATA[What does a punk drummer have to do with a scholar of caste in India, or a border reporter who has walked for years with coyotes? At first glance, almost nothing. But their work, their testimonies, their questions—they all belong in the same room. They converge in a festival. In 2018, I worked with the [&#8230;]]]>
+      </description>
+      <guid>cid://https://lithub.com/?p=259933</guid>
+    </item>    <item>
       <link>https://daveverse.org/2025/09/26/our-power-comes-from-working-together/</link>
       <description>
         <![CDATA[<p>To start to get out of the hole we’re in first we have to get rid of the idea that the super wealthy are better or smarter than people with a normal amount of money.</p>]]>
@@ -73,7 +273,7 @@
       <title>Lit Hub Daily: September 26, 2025</title>
       <link>https://lithub.com/lit-hub-daily-september-26-2025/</link>
       <description>
-        <![CDATA[Javier Garcia del Moral makes a case for the importance of literary festivals: “The time we devote to others in person has shrunk, almost without our noticing. A festival interrupts that trend.” &#124; Lit Hub Craft Sophia Rosenfeld explains how the power of choice shaped the modern world, from her Cundill Prize-shortlisted The Age of [&#8230;]]]>
+        <![CDATA[Javier Garcia del Moral makes a case for the importance of literary festivals: “The time we devote to others in person has shrunk, almost without our noticing. A festival interrupts that trend.” &#124; Lit Hub Craft This week on the Lit Hub Podcast: The disappearing internet and a Culture Schlock! &#124; Lit Hub Radio Sophia [&#8230;]]]>
       </description>
       <guid>cid://https://lithub.com/?p=260266</guid>
     </item>    <item>
@@ -154,13 +354,6 @@
       </description>
       <guid>cid://https://lithub.com/?p=260275</guid>
     </item>    <item>
-      <title>Why Literary Festivals Still Matter</title>
-      <link>https://lithub.com/why-literary-festivals-still-matter/</link>
-      <description>
-        <![CDATA[What does a punk drummer have to do with a scholar of caste in India, or a border reporter who has walked for years with coyotes? At first glance, almost nothing. But their work, their testimonies, their questions—they all belong in the same room. They converge in a festival. In 2018, I worked with the [&#8230;]]]>
-      </description>
-      <guid>cid://https://lithub.com/?p=259933</guid>
-    </item>    <item>
       <title>How Modern Life Has Been Shaped By the Power to Choose</title>
       <link>https://lithub.com/how-modern-life-has-been-shaped-by-the-power-to-choose/</link>
       <description>
@@ -198,6 +391,30 @@
       </description>
       <guid>cid://at://did:plc:nbdlhw2imk2m2yqhwxb5ycgy/app.bsky.feed.post/3lzpqv7zhok22</guid>
     </item>    <item>
+      <title>Information</title>
+      <link>https://inkdroid.org/2025/09/26/information/</link>
+      <description>
+        <![CDATA[<blockquote>
+        <p>
+        Information is essential, and these days so readily available through
+        the internet that we all suffer from a surfeit of it. But Information
+        without selection and critique is like a relationship without love:
+        everything you need is there, except the central element. And without
+        it, nothing has real value. <span class="citation"
+        data-cites="Patterson:2025">(<a href="#ref-Patterson:2025"
+        role="doc-biblioref">Patterson, 2025, pp. 56–57</a>)</span>.
+        </p>
+        </blockquote>
+        <div id="refs" class="references csl-bib-body hanging-indent"
+        data-entry-spacing="0" data-line-spacing="2" role="list">
+        <div id="ref-Patterson:2025" class="csl-entry" role="listitem">
+        Patterson, I. (2025). <em>Books: A Manifesto</em>. London: Weidenfeld
+        &amp; Nicolson.
+        </div>
+        </div>]]>
+      </description>
+      <guid>cid://https://inkdroid.org/2025/09/26/information/</guid>
+    </item>    <item>
       <title>Trump Clears Way for Cronies to Buy TikTok for $14 Billion</title>
       <link>https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html</link>
       <guid>cid://tag:daringfireball.net,2025:/linked//6.42225</guid>
@@ -215,6 +432,13 @@
       </description>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!kfWN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101c3855-3c04-45d1-afb2-aedd6f8e71c7_991x749.png" length="0" type="image/jpeg" />
       <guid>cid://https://fixthenews.com/p/313-duck-stamps-high-seas-a-miracle</guid>
+    </item>    <item>
+      <title>Flight Recorder in Go 1.25</title>
+      <link>https://go.dev/blog/flight-recorder</link>
+      <description>
+        <![CDATA[Go 1.25 introduces a new tool in the diagnostic toolbox, flight recording.]]>
+      </description>
+      <guid>cid://tag:blog.golang.org,2013:blog.golang.org/flight-recorder</guid>
     </item>    <item>
       <title>The email list cleaning cleaning conundrum</title>
       <link>https://buttondown.com/blog/email-list-cleaning</link>
@@ -284,6 +508,10 @@
       <enclosure url="https://api.substack.com/feed/podcast/174572878/5cef0e685f3f2f89e084db9e02afbca7.mp3" length="0" type="audio/mpeg" />
       <guid>cid://https://heathercoxrichardson.substack.com/p/september-24-2025-dc8</guid>
     </item>    <item>
+      <title>Published on Citation Needed: &#34;Issue 93 – Undermining deregulation&#34;</title>
+      <link>https://citationneeded.news/issue-93</link>
+      <guid>cid://68d5bebd910bb8dc7e9ce031</guid>
+    </item>    <item>
       <title>Engineering Lego Cars to Climb Increasingly Tall Walls</title>
       <link>https://kottke.org/25/09/engineering-lego-cars-to-climb-increasingly-tall-walls</link>
       <guid>cid://tag:kottke.org,2025://5.47569</guid>
@@ -313,7 +541,7 @@
       <title>Apple’s Thoughts on the DMA</title>
       <link>https://mjtsai.com/blog/2025/09/25/apples-thoughts-on-the-dma/</link>
       <description>
-        <![CDATA[Apple (Slashdot): The DMA requires Apple to make certain features work on non-Apple products and apps before we can share them with our users. Unfortunately, that requires a lot of engineering work, and it&#8217;s caused us to delay some new features in the EU: Live Translation with AirPods uses Apple Intelligence to let Apple users [&#8230;]]]>
+        <![CDATA[Apple (Slashdot, MacRumors): The DMA requires Apple to make certain features work on non-Apple products and apps before we can share them with our users. Unfortunately, that requires a lot of engineering work, and it&#8217;s caused us to delay some new features in the EU: Live Translation with AirPods uses Apple Intelligence to let Apple [&#8230;]]]>
       </description>
       <guid>cid://https://mjtsai.com/blog/?p=49366</guid>
     </item>    <item>
@@ -514,10 +742,6 @@
         <![CDATA[This came up in a <a href="https://mastodon.social/@darius@friend.camp/115266052576766302">thread</a> on Mastodon about "social network" vs "social media." I also think <a href="https://daytona.scripting.com/search?q=%22social%20web%22">social web</a> should be used sparingly.  Because imho there is such a thing as the social web but we haven't developed very much of it, i think because we were intimidated by the silos. I'm not intimidated any more, I'm fed up and going ahead without them.]]>
       </description>
       <guid>cid://http://scripting.com/2025/09/25.html#a171327</guid>
-    </item>    <item>
-      <title>Read &#34;Down and Out on the Crypto Frontier&#34;</title>
-      <link>https://www.mollywhite.net/reading/shortform?search=Down%20and%20Out%20on%20the%20Crypto%20Frontier</link>
-      <guid>cid://68d577219f72b44b3848a8c6</guid>
     </item>    <item>
       <title>Note published on September 25, 2025 at 4:55 PM UTC</title>
       <link>https://www.mollywhite.net/micro/entry/202509251254</link>
@@ -2136,6 +2360,10 @@
       </description>
       <source:markdown>The 21 grams experiment that tried to weigh a human soul.</source:markdown>
       <guid>cid://https://links.daveverse.org/2025/09/22/1199/</guid>
+    </item>    <item>
+      <title>Read &#34;Down and Out on the Crypto Frontier&#34;</title>
+      <link>https://www.mollywhite.net/reading/shortform?search=Down%20and%20Out%20on%20the%20Crypto%20Frontier</link>
+      <guid>cid://68d577219f72b44b3848a8c6</guid>
     </item>    <item>
       <title>Go Out &#38; Get Some Air</title>
       <link>https://om.co/2025/09/22/go-out-get-some-air/</link>
@@ -4485,6 +4713,10 @@
         <p>An advanced version of Gemini 2.5 Deep Think competed live in a remote online environment following <a href="https://icpc.global/worldfinals/rules">ICPC rules</a>, under the guidance of the competition organizers. It started 10 minutes after the human contestants and correctly solved 10 out of 12 problems, achieving gold-medal level performance under the same five-hour time constraint. See our solutions <a href="https://github.com/google-deepmind/gemini_icpc2025">here</a>.</p>
         </blockquote>
         <p>I'm still trying to confirm if the models had access to tools in order to execute the code they were writing. The IMO results in July were both achieved without tools.</p>
+        <p><strong>Update 27th September 2025</strong>: OpenAI researcher  Ahmed El-Kishky <a href="https://twitter.com/ahelkky/status/1971652614950736194">confirms</a> that OpenAI's model had a code execution environment but no internet:</p>
+        <blockquote>
+        <p>For OpenAI, the models had access to a code execution sandbox, so they could compile and test out their solutions. That was it though; no internet access.</p>
+        </blockquote>
         
             <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm-reasoning">llm-reasoning</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>]]>
       </description>
