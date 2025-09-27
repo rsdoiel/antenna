@@ -4,10 +4,17 @@
   <channel>
     <title>Retro Computing</title>
     <link>https://rsdoiel.github.io/antenna/retro_computing.xml</link>
-    <lastBuildDate>26 Sep 25 15:13 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>London Show 2025 – just four weeks to go</title>
+      <link>https://www.riscository.com/2025/london-show-four-weeks/</link>
+      <description>
+        <![CDATA[Today is Saturday, 27th September, 2025, and I&#8217;ve scheduled this post to appear at 11:00am &#8211; which means at the time this article appears it will be precisely four weeks to the minute until the doors are open to the public on the 2025 RISC OS London Show, which takes place on Saturday, 25th October. The precise details you need, as a discerning RISC OS user and show visitor, are: Harrow District Masonic Centre,Northwick Circle,Kenton,Harrow,HA3 0EL. The venue has ample (and free) parking for visitors making the trip by car,&#8230;]]>
+      </description>
+      <guid>cid://https://www.riscository.com/?p=10718</guid>
+    </item>    <item>
       <title>This Week on The Analog Antiquarian</title>
       <link>https://www.filfre.net/2025/09/this-week-on-the-analog-antiquarian/</link>
       <description>
@@ -936,35 +943,6 @@
         <![CDATA[The KIM-1 needs 2 edge connectors. The specifications are: card edge; PIN: 44; 3.96mm When you search for those, the cheap ones pop up, Chinese made, look good. But they are no good, when you slide them one you need a lot of force, some even use a hammer! The PCB is too thick for [&#8230;]]]>
       </description>
       <guid>cid://http://retro.hansotten.nl/?p=18786</guid>
-    </item>    <item>
-      <title>Microsoft 6502 BASIC</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/09/microsoft-6502-basic/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>It's not DOS, but it's good to see Microsoft re-release some of its classic products under an open source license. Recently, Microsoft released the source code for 6502 BASIC. From <a class="" href="https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/" rel="nofollow">the announcement</a>: "Microsoft BASIC began in 1975 as the company’s very first product: a BASIC interpreter for the Intel 8080, written by Bill Gates and Paul Allen for the Altair 8800. That codebase was soon adapted to run on other 8-bit CPUs .. The 6502 port was completed in 1976 by Bill Gates and Ric Weiland. In 1977, Commodore licensed it ... a deal that placed Microsoft BASIC at the heart of Commodore’s PET computers and, later, the VIC-20 and Commodore 64."</p>
-        <p>If you're curious: yes, this is the same source code that became Applesoft BASIC on the Apple II computers. And that's very interesting to me, because I learned BASIC on an Apple II. - Also check out this video from our YouTube channel, showing how to draw the "Sierpinski Triangle" by <a class="" href="https://www.youtube.com/watch?v=cxolyi7yUaM" rel="nofollow">programming in Applesoft BASIC</a></p></div>]]>
-      </description>
-      <guid>cid://https://sourceforge.net815904b2664ebb27959ad3f9d93f9f3a52201a58</guid>
-    </item>    <item>
-      <title>MPXplay 1.68</title>
-      <link>https://sourceforge.net/p/freedos/news/2025/09/mpxplay-168/</link>
-      <description>
-        <![CDATA[<div class="markdown_content"><p>Mpxplay is a commander-style console audio player for DOS and Win32 operating systems, developed in OpenWatcom C v1.9. DOS console audio player versions also support - native soundcard handling (for the latest PCI audio chips too) - LCD-display handling - LFN (long filenames) support (with DOSLFN).  Version 1.68 was just released in August. This is mostly an update, no major features to announce for DOS. You can download it from the <a class="" href="https://mpxplay.sourceforge.net/" rel="nofollow">Mpxplay website</a>.</p></div>]]>
-      </description>
-      <guid>cid://https://sourceforge.nete4847e908cba4541fcaeef9649755e618a0ec1f9</guid>
-    </item>    <item>
-      <title>Choose Your Own Adventure</title>
-      <link>https://www.filfre.net/2025/09/choose-your-own-adventure/</link>
-      <description>
-        <![CDATA[In 1999, after twenty years and many tens of millions of books sold,[1]A truly incredible figure of 250 million copies sold is frequently cited for the original Choose Your Own Adventure series today, apparently on the basis of a statement released in January of 2007 by Choosco, a company which has repeatedly attempted to reboot [&#8230;]]]>
-      </description>
-      <guid>cid://https://www.filfre.net/?p=6462</guid>
-    </item>    <item>
-      <title>Microsoft’s 6502 BASIC is now Open Source</title>
-      <link>http://retro.hansotten.nl/microsofts-6502-basic-is-now-open-source/</link>
-      <description>
-        <![CDATA[Microsoft’s 6502 BASIC is now Open Source, and that includes KB9 or as it is officially called: MOS TECH 6502 BASIC V1.1 COPYRIGHT 1977 BY MICROSOFT Microsoft’s 6502 BASIC is now Open Source &#8220;Now, for the first time, this influential 6502 version is truly yours to explore, modify, and share.&#8221; This means that we are [&#8230;]]]>
-      </description>
-      <guid>cid://http://retro.hansotten.nl/?p=18769</guid>
     </item>
   </channel>
 </rss>

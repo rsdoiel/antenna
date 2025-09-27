@@ -4,7 +4,7 @@
   <channel>
     <title>Writing</title>
     <link>https://rsdoiel.github.io/antenna/writing.xml</link>
-    <lastBuildDate>26 Sep 25 15:13 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
@@ -147,13 +147,6 @@
         <![CDATA[On Friday, both sides in the Bartz v. Anthropic lawsuit filed motions for the court to consider regarding preliminary approval of a settlement in the class action copyright infringement lawsuit filed against Anthropic last year by three book authors.]]>
       </description>
       <guid>cid://https://www.authorsalliance.org/?p=12155</guid>
-    </item>    <item>
-      <title>Bartz v. Anthropic: A Preliminary Look at What LibGen Books May Be Included in the Class Action</title>
-      <link>https://www.authorsalliance.org/2025/09/05/bartz-v-anthropic-a-preliminary-look-at-what-libgen-books-may-be-included-in-the-class-action/</link>
-      <description>
-        <![CDATA[As readers are likely aware, the Bartz v. Anthropic AI lawsuit had a couple of major developments recently. Though the lawsuit was initially brought to address the legality of using copyrighted materials for training AI, the suit has now shifted its focus to Anthropic’s storage—without training use—of copies of books downloaded from LibGen and PiLiMi, two sites that share pirated copies of books and other materials.]]>
-      </description>
-      <guid>cid://https://www.authorsalliance.org/?p=12144</guid>
     </item>
   </channel>
 </rss>

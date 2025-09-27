@@ -4,10 +4,31 @@
   <channel>
     <title>Science and Technology</title>
     <link>https://rsdoiel.github.io/antenna/science_and_technology.xml</link>
-    <lastBuildDate>26 Sep 25 15:13 -0700</lastBuildDate>
+    <lastBuildDate>27 Sep 25 06:09 -0700</lastBuildDate>
     <generator>antenna/0.0.8</generator>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
+      <title>Hunt for RedNovember: Beijing hacked critical orgs in year-long snooping campaign</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/27/rednovember_chinese_espionage/</link>
+      <description>
+        <![CDATA[<h4>Not to be confused with all the other reports of Chinese intruders on US networks that came to light this week</h4> <p>RedNovember, a Chinese state-sponsored cyberspy group, targeted government and critical private-sector networks around the globe between June 2024 and July 2025, exploiting buggy internet-facing appliances to deploy a Go-based backdoor called Pantegana and other offensive security tools, including Cobalt Strike and SparkRAT.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242167</guid>
+    </item>    <item>
+      <title>Alibaba unveils $53B global AI plan – but it will need GPUs to back it up</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/27/alibaba_ai_drive/</link>
+      <description>
+        <![CDATA[<h4>Chinese giant maps out datacenters across Europe and beyond, yet US chip curbs cast a long shadow</h4> <p><strong>Analysis</strong>  Alibaba this week opened an AI war chest containing tens of billions of dollars, a revamped LLM lineup, and plans for AI datacenters in Europe. But it also prompted a flurry of questions over how it will achieve all this in an increasingly fragmented IT landscape, when critical resources are in short supply.…</p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242132</guid>
+    </item>    <item>
+      <title>Many employees are using AI to create &#39;workslop,&#39; Stanford study says</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/26/ai_workslop_productivity/</link>
+      <description>
+        <![CDATA[<h4>Remember when AI was supposed to make us more productive, not hate each other?</h4> <p><strong>ai-pocalypse</strong>  Workers are getting lazy about using AI to do their jobs for them, and the results are both costly and increasing distrust in the workplace.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
+      </description>
+      <guid>cid://tag:theregister.com,2005:story242169</guid>
+    </item>    <item>
       <title>You Can Buy These Gilded Age Jewels That Once Belonged to the Vanderbilt Family</title>
       <link>https://www.smithsonianmag.com/smart-news/you-can-buy-these-gilded-age-jewels-that-once-belonged-to-the-vanderbilt-family-180987398/</link>
       <description>
@@ -4663,69 +4684,6 @@
         <![CDATA[<h4>If an employer asks you do to this, demand a trial run so you can learn the rules of this strange new world</h4> <p>A startup called Job Bolt has created AI avatars that conduct job interviews. <i>The Register</i> couldn&#39;t help but give it a try and can report that it&#39;s an unnerving experience.…</p>]]>
       </description>
       <guid>cid://tag:theregister.com,2005:story241732</guid>
-    </item>    <item>
-      <title>OpenAI reorg at risk as Attorneys General push AI safety</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/05/openai_reorg_at_risk/</link>
-      <description>
-        <![CDATA[<h4>California, Delaware AGs blast ChatGPT shop over chatbot safeguards</h4> <p>The Attorneys General of California and Delaware on Friday wrote to OpenAI&#39;s board of directors, demanding that the AI company take steps to ensure its services are safe for children.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241773</guid>
-    </item>    <item>
-      <title>US cuffs 475 at Hyundai–LG battery plant – feds tout largest single-site raid</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/09/05/ice_hyundai_arrests/</link>
-      <description>
-        <![CDATA[<h4>South Korean government protests as workers left up s**t creek</h4> <p>The Homeland Security Investigations (HSI) arm of US Immigration and Customs Enforcement says it executed its largest single-site raid to date, detaining 475 people at the Hyundai–LG battery plant under construction in Georgia.…</p>]]>
-      </description>
-      <guid>cid://tag:theregister.com,2005:story241771</guid>
-    </item>    <item>
-      <title>EU hits Google with €2.95B fine for monopoly abuse</title>
-      <link>https://www.osnews.com/story/143289/eu-hits-google-with-e2-95b-fine-for-monopoly-abuse/</link>
-      <description>
-        <![CDATA[The European Commission today fined Google €2.95 billion for abusing its dominant position in the advertising technology market, despite the threat of trade retribution from U.S President Donald Trump. The American tech giant is alleged to have distorted the market for online ads by favoring its own services to the detriment of competitors, advertisers and online publishers, the EU executive said in a press release. ↫ Jacob Parry at Politico Not only does Google have to pay a pretty hefty fine &#8211; for corporate standards, as it&#8217;s still peanuts when looking at Google&#8217;s revenue, because class justice is real &#8211; the company also has to submit a plan within 60 days detailing how it&#8217;s going to end the illegal behaviour. Of course, Google is going to contest the fine, but the company is also running to daddy to cry and whine about how those damn Europeans won&#8217;t let it engage in illegal behaviour. Last night, all the big US technology CEOs gathered for a dinner with Donald Trump, each taking turns gratuitously thanking and praising the big man for his amazing achievements during these first few months of his administration. Tim Cook, Bill Gates, Mark Zuckerberg, Sam Altman, and many more were all bending the knee and kissing the ring in what can only be described as a borderline pornographic display of fealty. Among them was, of course, the CEO of Google, Sundar Pichai, one day after Google laughed its way out of the courtroom. “Well you had a very good day yesterday,” Trump said, calling on Pichai at the Thursday evening dinner. “Google had a very good day yesterday. Do you want to talk about that big day you had yesterday?”  “I’m glad it’s over,” Pichai responded to Trump, causing an eruption of laughter from the other table guests. “It’s a long process,” Pichai said. “Appreciate that your administration had a constructive dialogue, and we were able to get it to some resolution.” ↫ Jennifer Elias at CNBC Mind you, several of those &#8220;other table guests&#8221; are also being investigated by a variety of arms of the US government for monopoly abuse and antritrust violations, and I&#8217;m sure their laughter was almost entirely self-serving. If Google of all monopolies can slime its way out of any serious consequences, what hope does that leave that the other tech giants will ever have to face the consequences of their abuse? At least the European Union seems to be mostly holding its head high so far, but one can&#8217;t help but wonder how long the Phoenician princess can hold off the bull. The fact of the matter is that the European and US economies are heavily intertwined, and we let ourselves become utterly dependent on the US for our defense, too, and with Trump not deterred by Pyrrhic victories, a fallout is definitely not out of the question.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143289</guid>
-    </item>    <item>
-      <title>Fallingwater&#39;s Roof Is Leaking. Can This $7 Million Renovation Protect Frank Lloyd Wright&#39;s Masterpiece?</title>
-      <link>https://www.smithsonianmag.com/smart-news/fallingwaters-roof-is-leaking-can-this-7-million-renovation-protect-frank-lloyd-wrights-masterpiece-180987288/</link>
-      <description>
-        <![CDATA[Leaky roofs and windows have long plagued the famous home in Pennsylvania. Experts say the three-year project will address decades of water damage and prevent similar problems from worsening in the future]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/M-ENXz_r2hy8fibjMQFPVhVEUO4=/420x240/filters:focal(2884x1922:2885x1923)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/e0/2b/e02b94dc-b97d-46ad-9a0e-1e5a261f552b/fallingwater_classic_view_from_the_sw_elevation__courtesy_of_the_western_pennsylvania_conserva.jpeg" length="" type="" />
-    </item>    <item>
-      <title>Vibecoding: nothing more than meowing nuns</title>
-      <link>https://www.osnews.com/story/143283/vibecoding-nothing-more-than-meowing-nuns/</link>
-      <description>
-        <![CDATA[We&#8217;re all being told that &#8220;AI&#8221; is revolutionizing programming. Whether the marketing is coming from Cursor, Copilot, Claude, Google, or the countless other players in this area, it&#8217;s all emphasizing the massive productivity and speed gains programmers who use &#8220;AI&#8221; tools will achieve. The relentless marketing is clearly influencing both managers and programmers alike, with the former forcing &#8220;AI&#8221; down their subordinates&#8217; throats, and the latter claiming to see absolutely bizarre productivity gains. The impact of the marketing is real &#8211; people are being fired, programmers are expected to be ridiculously more productive without commensurate pay raises, and anyone questioning this new corporate gospel will probably end up on the chopping block next. It&#8217;s like the industry has become a nunnery, and all the nuns are meowing like cats. The reality seems to be, though, that none of these &#8220;AI&#8221; programming tools are making anyone more productive. Up until recently, Mike Judge truly believed &#8220;AI&#8221; was making him a much more productive programmer &#8211; until he ran the numbers of his own work, and realised that he was not one bit more productive at all, and his point is that if the marketing is true, and programmers are indeed becoming vastly more productive, where&#8217;s the evidence? And yet, despite the most widespread adoption one could imagine, these tools don’t work. My argument: If so many developers are so extraordinarily productive using these tools, where is the flood of shovelware? We should be seeing apps of all shapes and sizes, video games, new websites, mobile apps, software-as-a-service apps — we should be drowning in choice. We should be in the middle of an indie software revolution. We should be seeing 10,000 Tetris clones on Steam. ↫ Mike Judge He proceeded to collect tons of data about new software releases on the iOS App Store, the Play Store, Steam, GitHub, and so on, as well as the number of domain registrations, and the numbers paint a very different picture from the exuberant marketing. Every single metric is flat. There&#8217;s no spike in new games, new applications, new repositories, new domain registrations. It&#8217;s all proceeding as if &#8220;AI&#8221; had had zero effect on productivity. This whole thing is bullshit. So if you&#8217;re a developer feeling pressured to adopt these tools — by your manager, your peers, or the general industry hysteria — trust your gut. If these tools feel clunky, if they&#8217;re slowing you down, if you&#8217;re confused how other people can be so productive, you&#8217;re not broken. The data backs up what you&#8217;re experiencing. You&#8217;re not falling behind by sticking with what you know works. If you’re feeling brave, show your manager these charts and ask them what they think about it. If you take away anything from this it should be that (A) developers aren&#8217;t shipping anything more than they were before (that’s the only metric that matters), and (B) if someone — whether it&#8217;s your CEO, your tech lead, or some Reddit dork — claims they&#8217;re now a 10xer because of AI, that’s almost assuredly untrue, demand they show receipts or shut the fuck up. ↫ Mike Judge Extraordinary claims require extraordinary evidence, and the evidence just isn&#8217;t there. The corporate world has an endless list of productivity metrics &#8211; some more reliable than others &#8211; and I have the sneaking suspicion we&#8217;re only fed marketing instead of facts because none of those metrics are showing any impact of &#8220;AI&#8221; whatsoever, because if they did, we know the &#8220;AI&#8221; pushers wouldn&#8217;t shut the fuck up about it. Show me more than meowing nuns, and I&#8217;ll believe the hype is real.]]>
-      </description>
-      <guid>cid://https://www.osnews.com/?p=143283</guid>
-    </item>    <item>
-      <title>Wildfire Sweeps Through Historic California Gold Rush Town Settled by Chinese Miners</title>
-      <link>https://www.smithsonianmag.com/smart-news/wildfire-sweeps-through-historic-california-gold-rush-town-settled-by-chinese-miners-180987294/</link>
-      <description>
-        <![CDATA[Caused by a massive lightning storm, the 6-5 Fire destroyed the post office and several other buildings in the small town of Chinese Camp]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/XU_xD5ws2ueuxwmEdAPipW8HCZM=/420x240/filters:focal(2761x1906:2762x1907)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/1b/5d/1b5dfbd0-2435-43af-8b33-872f07fae8f4/gettyimages-2233539358.jpg" length="" type="" />
-    </item>    <item>
-      <title>Solar Flares May Be Way Hotter Than Researchers Previously Thought</title>
-      <link>https://www.smithsonianmag.com/smart-news/solar-flares-may-be-more-than-six-times-hotter-than-researchers-previously-thought-finds-new-research-180987296/</link>
-      <description>
-        <![CDATA[Scientists recalculated the temperature of solar flares using modern data and new models]]>
-      </description>
-      <enclosure url="https://th-thumbnailer.cdn-si-edu.com/q4BctJzau2XwNuGngOtowf2O5iM=/420x240/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f9/88/f9887a5b-f9aa-4e30-8bcf-6a2e60bee587/solar-flares-over-6-ti.jpg" length="" type="" />
-    </item>    <item>
-      <title>Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe</title>
-      <link>https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/</link>
-      <description>
-        <![CDATA[Recent progress on both analog and digital simulations of quantum fields foreshadows a future in which quantum computers could illuminate phenomena that are far too complex for even the most powerful supercomputers.            <p>The post <a href="https://www.quantamagazine.org/analog-vs-digital-the-race-is-on-to-simulate-our-quantum-universe-20250905/" target="_blank">Analog vs. Digital: The Race Is On To Simulate Our Quantum Universe</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p>]]>
-      </description>
-      <guid>cid://https://www.quantamagazine.org/?p=153852</guid>
-    </item>    <item>
-      <title>See When Fabulous Fall Foliage Will Peak in Your State With This Interactive Map</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-when-fabulous-fall-foliage-will-peak-in-your-state-with-this-interactive-map-180987289/</link>
-      <description>
-        <![CDATA[Use the tool's week-by-week, county-by-county predictions to plan your autumnal adventures—and make the most of the 2025 leaf-peeping season]]>
-      </description>
-      <enclosure url="https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ee/7d/ee7d0127-b5c8-4eac-a3b7-91c27dabeb86/fall-map-2025-v2.gif" length="" type="" />
     </item>
   </channel>
 </rss>
